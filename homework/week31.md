@@ -1,0 +1,395 @@
+# week31
+
+> **定义 14.1.1 (全等形与全等三角形)**
+> 
+> 能够完全重合的两个图形叫作全等形; 能够完全重合的两个三角形叫作全等三角形, 记作 $\triangle{A}BC\cong\triangle{A}'B'C'$.
+
+> **定义 14.1.2 (对应元素)**
+> 
+> 把两个全等三角形重合到一起, 重合的顶点叫作对应顶点, 重合的边叫作对应边, 重合的角叫作对应角.
+
+## 习题三
+
+(习题 14.1 综合运用第 3 题) 图中有两个全等三角形, 其中的字母表示三角形的边长, 则 $\angle1$ 等于多少度?
+
+### 解答 习题三
+
+两个三角形全等, 其内角分别对应相等. 已知两个内角为 $60^\circ$ 与 $54^\circ$, 由三角形内角和定理, 第三个内角为
+
+$$
+180^\circ-60^\circ-54^\circ=66^\circ.
+$$
+
+故 $\angle1=66^\circ$.
+
+$\blacksquare$
+
+## 习题四
+
+(习题 14.1 综合运用第 4 题) 如图, $\triangle{E}FG\cong\triangle{N}MH$, $\angle{F}$ 和 $\angle{M}$ 是对应角. 在 $\triangle{E}FG$ 中, $FG$ 是最长边; 在 $\triangle{N}MH$ 中, $MH$ 是最长边, 且 $EF=2.1$, $EH=1.1$, $NH=3.3$.
+
+(1) 写出其他对应边及对应角;
+
+(2) 求线段 $NM$ 及线段 $HG$ 的长度.
+
+### 解答 习题四
+
+由 $\angle{F}rightarrow\angle{M}$ 且最长边 $FGrightarrow{M}H$, 知顶点对应为 $Erightarrow{N}$, $Frightarrow{M}$, $Grightarrow{H}$.
+
+(1) 其他对应边为 $EF$ 与 $NM$, $EG$ 与 $NH$; 其他对应角为 $\angle{E}$ 与 $\angle{N}$, $\angle{G}$ 与 $\angle{H}$.
+
+(2) 由全等三角形的性质, $NM=EF=2.1$, $EG=NH=3.3$. 又点 $H$ 在线段 $EG$ 上, 故
+
+$$
+HG=EG-EH=3.3-1.1=2.2.
+$$
+
+故 $NM=2.1$, $HG=2.2$.
+
+$\blacksquare$
+
+## 习题五
+
+(习题 14.1 拓广探索第 5 题) 如图, $\triangle{A}BC\cong\triangle{D}EC$, $CA$ 和 $CD$, $CB$ 和 $CE$ 是对应边. $\angle{A}CD$ 和 $\angle{B}CE$ 相等吗? 为什么?
+
+### 解答 习题五
+
+相等. 由全等三角形的性质, 对应角 $\angle{A}CB=\angle{D}CE$.
+
+两边同时减去公共部分 $\angle{D}CB$, 得
+
+$$
+\angle{A}CD=\angle{A}CB-\angle{D}CB=\angle{D}CE-\angle{D}CB=\angle{B}CE.
+$$
+
+故 $\angle{A}CD=\angle{B}CE$.
+
+$\blacksquare$
+
+## 练习四
+
+(练习 14.2 第 1 题) 如图, 有一池塘, 要测池塘两端 $A$, $B$ 的距离, 可先在平地上取一个点 $C$, 连接 $AC$ 并延长到点 $D$, 使 $CD=CA$, 连接 $BC$ 并延长到点 $E$, 使 $CE=CB$, 连接 $DE$. 量出 $DE$ 的长就是 $A$, $B$ 的距离, 为什么?
+
+### 解答 练习四
+
+在 $\triangle{A}BC$ 和 $\triangle{D}EC$ 中, $CA=CD$, $CB=CE$, 且 $\angle{A}CB$ 与 $\angle{D}CE$ 为对顶角, 相等. 由SAS, $\triangle{A}BC\cong\triangle{D}EC$.
+
+由全等三角形的性质, 对应边 $AB=DE$, 故量出 $DE$ 的长就是 $A$, $B$ 的距离.
+
+$\blacksquare$
+
+## 练习五
+
+(练习 14.2 第 2 题) 如图, 点 $E$, $F$ 在 $BC$ 上, $BE=CF$, $AB=DC$, $\angle{B}=\angle{C}$. 求证 $\angle{A}=\angle{D}$.
+
+### 解答 练习五
+
+由 $BE=CF$, 得 $BE+EF=CF+EF$, 即 $BF=CE$. 在 $\triangle{A}BF$ 和 $\triangle{D}CE$ 中, $AB=DC$, $\angle{B}=\angle{C}$, $BF=CE$, 由SAS, $\triangle{A}BF\cong\triangle{D}CE$.
+
+由全等三角形的性质, 对应角 $\angle{A}=\angle{D}$.
+
+$\blacksquare$
+
+## 练习六
+
+(练习 14.2 第 1 题) 如图, $AB\perp{B}C$, $AD\perp{D}C$, 垂足分别为 $B$, $D$, 且 $\angle1=\angle2$. 求证 $AB=AD$.
+
+### 解答 练习六
+
+由 $AB\perp{B}C$, $AD\perp{D}C$, 得 $\angle{B}=\angle{D}=90^\circ$. 在 $\triangle{A}BC$ 和 $\triangle{A}DC$ 中, $\angle1=\angle2$, $\angle{B}=\angle{D}$, $AC$ 为公共边, 由AAS, $\triangle{A}BC\cong\triangle{A}DC$.
+
+由全等三角形的性质, 对应边 $AB=AD$.
+
+$\blacksquare$
+
+## 练习七
+
+(练习 14.2 第 2 题) 如图, 要测量池塘两岸相对的两点 $A$, $B$ 的距离, 可在 $AB$ 的垂线 $BF$ 上取 $C$, $D$, 使 $BC=CD$, 再作 $BF$ 的垂线 $DE$, 使 $E$ 与 $A$, $C$ 在一条直线上, 这时测得 $DE$ 的长就是 $AB$ 的长, 为什么?
+
+### 解答 练习七
+
+由 $AB\perp{B}F$, $DE\perp{B}F$, 得 $\angle{B}=\angle{D}=90^\circ$. 在 $\triangle{A}BC$ 和 $\triangle{E}DC$ 中, $BC=CD$, $\angle{A}CB=\angle{E}CD$ (对顶角), $\angle{B}=\angle{D}$, 由ASA, $\triangle{A}BC\cong\triangle{E}DC$.
+
+由全等三角形的性质, 对应边 $AB=DE$, 故测得的 $DE$ 长就是 $AB$ 的长.
+
+$\blacksquare$
+
+## 练习八
+
+(练习 14.2 第 1 题) 如图, $AC=BD$, $BC=AD$. 求证 $\angle{A}BC=\angle{B}AD$.
+
+### 解答 练习八
+
+在 $\triangle{A}BC$ 和 $\triangle{B}AD$ 中, $AC=BD$, $BC=AD$, $AB$ 为公共边, 由SSS, $\triangle{A}BC\cong\triangle{B}AD$.
+
+由全等三角形的性质, 对应角 $\angle{A}BC=\angle{B}AD$.
+
+$\blacksquare$
+
+## 练习九
+
+(练习 14.2 第 2 题) 工人师傅用角尺平分任意角: 在 $\angle{A}OB$ 的边 $OA$, $OB$ 上分别取 $OM=ON$, 移动角尺使角尺两边相同刻度分别与 $M$, $N$ 重合, 过角尺顶点 $C$ 的射线 $OC$ 便是平分线, 为什么?
+
+### 解答 练习九
+
+在 $\triangle{O}MC$ 和 $\triangle{O}NC$ 中, $OM=ON$, $CM=CN$ (角尺相同刻度), $OC$ 为公共边, 由SSS, $\triangle{O}MC\cong\triangle{O}NC$.
+
+由全等三角形的性质, 对应角 $\angle{M}OC=\angle{N}OC$, 故 $OC$ 平分 $\angle{A}OB$.
+
+$\blacksquare$
+
+## 练习十
+
+(练习 14.2 第 1 题) 如图, $C$ 是路段 $AB$ 的中点, 两人从 $C$ 同时出发, 以相同速度分别沿两条直线行走, 同时到达 $D$, $E$, 且 $DA\perp{A}B$, $EB\perp{A}B$. $D$, $E$ 到路段 $AB$ 的距离相等吗? 为什么?
+
+### 解答 练习十
+
+相等. 由 $C$ 是 $AB$ 中点, 得 $CA=CB$. 两人速度相同且同时到达, 故 $CD=CE$. 在 $\text{Rt}\triangle{A}CD$ 和 $\text{Rt}\triangle{B}CE$ 中, 斜边 $CD=CE$, 直角边 $CA=CB$, 由HL, $\text{Rt}\triangle{A}CD\cong\text{Rt}\triangle{B}CE$.
+
+由基础知识, 对应直角边 $AD=BE$, 即 $D$, $E$ 到路段 $AB$ 的距离相等.
+
+$\blacksquare$
+
+## 练习十一
+
+(练习 14.2 第 2 题) 如图, $AB=CD$, $AE\perp{B}C$, $DF\perp{B}C$, 垂足分别为 $E$, $F$, $CE=BF$. 求证 $AE=DF$.
+
+### 解答 练习十一
+
+由 $AE\perp{B}C$, $DF\perp{B}C$, 得 $\angle{A}EB=\angle{D}FC=90^\circ$. 由 $CE=BF$, 得 $CE-EF=BF-EF$, 即 $CF=BE$. 在 $\text{Rt}\triangle{A}BE$ 和 $\text{Rt}\triangle{D}CF$ 中, 斜边 $AB=CD$, 直角边 $BE=CF$, 由HL, $\text{Rt}\triangle{A}BE\cong\text{Rt}\triangle{D}CF$.
+
+由基础知识, 对应直角边 $AE=DF$.
+
+$\blacksquare$
+
+## 习题六
+
+(习题 14.2 复习巩固第 1 题) 如图, $M$ 是 $AB$ 的中点, $\angle{A}MC=\angle{B}MD$, $MC=MD$. 求证 $AC=BD$.
+
+### 解答 习题六
+
+由 $M$ 是 $AB$ 中点, 得 $AM=BM$. 在 $\triangle{A}MC$ 和 $\triangle{B}MD$ 中, $AM=BM$, $\angle{A}MC=\angle{B}MD$, $MC=MD$, 由SAS, $\triangle{A}MC\cong\triangle{B}MD$.
+
+由基础知识, 对应边 $AC=BD$.
+
+$\blacksquare$
+
+## 习题七
+
+(习题 14.2 复习巩固第 2 题) 如图, $AB=AC$, $AD=AE$. 求证 $\angle{B}=\angle{C}$.
+
+### 解答 习题七
+
+在 $\triangle{A}BE$ 和 $\triangle{A}CD$ 中, $AB=AC$, $\angle{A}$ 为公共角, $AE=AD$, 由SAS, $\triangle{A}BE\cong\triangle{A}CD$.
+
+由基础知识, 对应角 $\angle{B}=\angle{C}$.
+
+$\blacksquare$
+
+## 习题八
+
+(习题 14.2 复习巩固第 3 题) 如图, 把两根钢条的中点连在一起做成卡钳. 要测量工件内槽宽 $AB$, 只需测量哪些量? 为什么?
+
+### 解答 习题八
+
+只需测量内槽对应边 $CD$ 的长. 设两钢条交点为 $O$, 则 $O$ 是两钢条中点, 故 $OA=OD$, $OB=OC$. 在 $\triangle{A}OB$ 和 $\triangle{D}OC$ 中, $OA=OD$, $\angle{A}OB=\angle{D}OC$ (对顶角), $OB=OC$, 由SAS, $\triangle{A}OB\cong\triangle{D}OC$.
+
+由基础知识, 对应边 $AB=CD$, 故量出 $CD$ 即得内槽宽 $AB$.
+
+$\blacksquare$
+
+## 习题九
+
+(习题 14.2 复习巩固第 4 题) 如图, $\angle1=\angle2$, $\angle3=\angle4$. 求证 $AC=AD$.
+
+### 解答 习题九
+
+在 $\triangle{A}BC$ 和 $\triangle{A}BD$ 中, $\angle3=\angle4$, $AB$ 为公共边, $\angle{A}BC=\angle{A}BD$ (由 $\angle1=\angle2$ 推得), 由ASA, $\triangle{A}BC\cong\triangle{A}BD$.
+
+由基础知识, 对应边 $AC=AD$.
+
+$\blacksquare$
+
+## 习题十
+
+(习题 14.2 复习巩固第 5 题) 如图, $\angle1=\angle2$, $\angle{B}=\angle{D}$. 求证 $AB=CD$.
+
+### 解答 习题十
+
+在 $\triangle{A}BC$ 和 $\triangle{C}DA$ 中, $\angle1=\angle2$, $\angle{B}=\angle{D}$, $AC$ 为公共边, 由AAS, $\triangle{A}BC\cong\triangle{C}DA$.
+
+由基础知识, 对应边 $AB=CD$.
+
+$\blacksquare$
+
+## 习题十一
+
+(习题 14.2 复习巩固第 6 题) 如图, 从 $C$ 地看 $A$, $B$ 两地的视角 $\angle{C}$ 是锐角, $C$ 地与 $A$, $B$ 两地距离相等. $A$ 地到路段 $BC$ 的距离 $AD$ 与 $B$ 地到路段 $AC$ 的距离 $BE$ 相等吗? 为什么?
+
+### 解答 习题十一
+
+相等. 由 $CA=CB$, 知 $\triangle{A}BC$ 为等腰三角形, $\angle{C}AB=\angle{C}BA$. 又 $AD\perp{B}C$, $BE\perp{A}C$, 故 $\angle{A}DC=\angle{B}EC=90^\circ$. 在 $\triangle{A}CD$ 和 $\triangle{B}CE$ 中, $\angle{A}DC=\angle{B}EC$, $\angle{A}CD=\angle{B}CE$ (公共), $CA=CB$, 由AAS, $\triangle{A}CD\cong\triangle{B}CE$.
+
+由基础知识, 对应边 $AD=BE$.
+
+$\blacksquare$
+
+## 习题十二
+
+(习题 14.2 复习巩固第 7 题) 如图, $AB=AD$, $AC=AE$, $BC=DE$. 求证 $\angle{B}AC=\angle{D}AE$.
+
+### 解答 习题十二
+
+在 $\triangle{A}BC$ 和 $\triangle{A}DE$ 中, $AB=AD$, $AC=AE$, $BC=DE$, 由SSS, $\triangle{A}BC\cong\triangle{A}DE$.
+
+由基础知识, 对应角 $\angle{B}AC=\angle{D}AE$.
+
+$\blacksquare$
+
+## 习题十三
+
+(习题 14.2 复习巩固第 8 题) 如图, 平分角仪器中 $AB=AD$, $BC=DC$. 将 $A$ 放在角顶点, $AB$, $AD$ 沿角两边放下, 沿 $AC$ 画射线 $AE$ 即平分线, 说明道理.
+
+### 解答 习题十三
+
+在 $\triangle{A}BC$ 和 $\triangle{A}DC$ 中, $AB=AD$, $BC=DC$, $AC$ 为公共边, 由SSS, $\triangle{A}BC\cong\triangle{A}DC$.
+
+由基础知识, 对应角 $\angle{B}AC=\angle{D}AC$, 故 $AE$ 平分该角.
+
+$\blacksquare$
+
+## 习题十四
+
+(习题 14.2 复习巩固第 9 题) 如图, 点 $C$ 在 $\angle{A}OB$ 的边 $OB$ 上. 利用直尺和圆规过点 $C$ 作射线 $OA$ 的平行线 $CD$.
+
+### 解答 习题十四
+
+以 $O$ 为顶点作一个角等于 $\angle{A}OB$ 的同位角: 利用作一个角等于已知角的尺规方法, 过 $C$ 作 $\angle{B}CD$ 等于 $\angle{B}OA$, 使这两个角为同位角, 则 $CD\parallel{O}A$.
+
+$\blacksquare$
+
+## 习题十五
+
+(习题 14.2 复习巩固第 10 题) 如图, 已知 $\triangle{A}BC$. 利用直尺和圆规作 $\triangle{A}BD$, 使 $\angle{B}AD=\angle{B}AC$, $AD=AC$ (点 $D$ 与 $C$ 在 $AB$ 不同侧).
+
+### 解答 习题十五
+
+先利用作一个角等于已知角的方法, 在 $AB$ 与 $C$ 异侧作 $\angle{B}AD=\angle{B}AC$, 再在射线 $AD$ 上截取 $AD=AC$, 连接 $BD$, 即得所求的 $\triangle{A}BD$.
+
+$\blacksquare$
+
+## 习题十六
+
+(习题 14.2 综合运用第 11 题) 如图, 在 $\triangle{A}BC$ 中, $AB=AC$, $AD$ 是高. 求证 $BD=CD$, $\angle{B}AD=\angle{C}AD$.
+
+### 解答 习题十六
+
+由 $AD$ 是高, 得 $\angle{A}DB=\angle{A}DC=90^\circ$. 在 $\text{Rt}\triangle{A}BD$ 和 $\text{Rt}\triangle{A}CD$ 中, 斜边 $AB=AC$, 直角边 $AD$ 为公共边, 由HL, $\text{Rt}\triangle{A}BD\cong\text{Rt}\triangle{A}CD$.
+
+由基础知识, 对应边 $BD=CD$, 对应角 $\angle{B}AD=\angle{C}AD$.
+
+$\blacksquare$
+
+## 习题十七
+
+(习题 14.2 综合运用第 12 题) 如图, $AC\perp{C}B$, $DB\perp{C}B$, 垂足分别为 $C$, $B$, $AB=DC$. 求证 $\angle{A}BD=\angle{A}CD$.
+
+### 解答 习题十七
+
+由 $AC\perp{C}B$, $DB\perp{C}B$, 得 $\angle{A}CB=\angle{D}BC=90^\circ$. 在 $\text{Rt}\triangle{A}BC$ 和 $\text{Rt}\triangle{D}CB$ 中, 斜边 $AB=DC$, 直角边 $BC$ 为公共边, 由HL, $\text{Rt}\triangle{A}BC\cong\text{Rt}\triangle{D}CB$.
+
+由基础知识, 对应角 $\angle{A}BC=\angle{D}CB$. 两边分别减去直角 $\angle{C}BD$ 与 $\angle{A}CB$, 得 $\angle{A}BD=\angle{A}CD$.
+
+$\blacksquare$
+
+## 习题十八
+
+(习题 14.2 综合运用第 13 题) 如图, 点 $B$, $E$, $C$, $F$ 在一条直线上, $AB=DE$, $AC=DF$, $BE=CF$. 求证 $\angle{A}=\angle{D}$.
+
+### 解答 习题十八
+
+由 $BE=CF$, 得 $BE+EC=CF+EC$, 即 $BC=EF$. 在 $\triangle{A}BC$ 和 $\triangle{D}EF$ 中, $AB=DE$, $AC=DF$, $BC=EF$, 由SSS, $\triangle{A}BC\cong\triangle{D}EF$.
+
+由基础知识, 对应角 $\angle{A}=\angle{D}$.
+
+$\blacksquare$
+
+## 习题十九
+
+(习题 14.2 综合运用第 14 题) 如图, $AC$ 和 $BD$ 相交于点 $O$, $OA=OC$, $OB=OD$. 求证 $AB\parallel{C}D$.
+
+### 解答 习题十九
+
+在 $\triangle{A}OB$ 和 $\triangle{C}OD$ 中, $OA=OC$, $\angle{A}OB=\angle{C}OD$ (对顶角), $OB=OD$, 由SAS, $\triangle{A}OB\cong\triangle{C}OD$.
+
+由基础知识, 对应角 $\angle{A}=\angle{C}$, 这是内错角, 故 $AB\parallel{C}D$.
+
+$\blacksquare$
+
+## 习题二十
+
+(习题 14.2 综合运用第 15 题) 如图, 点 $B$, $F$, $C$, $E$ 在一条直线上, $FB=CE$, $AB\parallel{D}E$, $AC\parallel{D}F$. 求证 $AB=DE$, $AC=DF$.
+
+### 解答 习题二十
+
+由 $FB=CE$, 得 $FB+FC=CE+FC$, 即 $BC=EF$. 由 $AB\parallel{D}E$, 得 $\angle{B}=\angle{E}$; 由 $AC\parallel{D}F$, 得 $\angle{A}CB=\angle{D}FE$. 在 $\triangle{A}BC$ 和 $\triangle{D}EF$ 中, $\angle{B}=\angle{E}$, $BC=EF$, $\angle{A}CB=\angle{D}FE$, 由ASA, $\triangle{A}BC\cong\triangle{D}EF$.
+
+由基础知识, 对应边 $AB=DE$, $AC=DF$.
+
+$\blacksquare$
+
+## 习题二十一
+
+(习题 14.2 综合运用第 16 题) 如图, $\triangle{A}BC\cong\triangle{A}'B'C'$, $AD$, $A'D'$ 分别是两三角形对应角的平分线. 求证 $AD=A'D'$.
+
+### 解答 习题二十一
+
+由 $\triangle{A}BC\cong\triangle{A}'B'C'$, 得 $AB=A'B'$, $\angle{B}=\angle{B}'$, $\angle{B}AC=\angle{B}'A'C'$. 由 $AD$, $A'D'$ 是对应角平分线, 得 $\angle{B}AD=\frac{1}{2}\angle{B}AC$, $\angle{B}'A'D'=\frac{1}{2}\angle{B}'A'C'$, 故 $\angle{B}AD=\angle{B}'A'D'$.
+
+在 $\triangle{A}BD$ 和 $\triangle{A}'B'D'$ 中, $\angle{B}AD=\angle{B}'A'D'$, $AB=A'B'$, $\angle{B}=\angle{B}'$, 由ASA, $\triangle{A}BD\cong\triangle{A}'B'D'$.
+
+由基础知识, 对应边 $AD=A'D'$.
+
+$\blacksquare$
+
+## 习题二十二
+
+(习题 14.2 拓广探索第 17 题) 如图, $D$ 是 $AB$ 上一点, $DF$ 交 $AC$ 于点 $E$, $DE=FE$, $FC\parallel{A}B$. $AE$ 与 $CE$ 有什么关系? 证明你的结论.
+
+### 解答 习题二十二
+
+$AE=CE$. 证明: 由 $FC\parallel{A}B$, 得 $\angle{A}DE=\angle{C}FE$. 在 $\triangle{A}DE$ 和 $\triangle{C}FE$ 中, $\angle{A}ED=\angle{C}EF$ (对顶角), $DE=FE$, $\angle{A}DE=\angle{C}FE$, 由ASA, $\triangle{A}DE\cong\triangle{C}FE$.
+
+由基础知识, 对应边 $AE=CE$.
+
+$\blacksquare$
+
+## 习题二十三
+
+(习题 14.2 拓广探索第 18 题) 如图, 在 $\triangle{A}BC$ 中, $AB=AC$, 点 $D$ 是 $BC$ 的中点, 点 $E$ 在 $AD$ 上. 找出图中的全等三角形, 并证明它们全等.
+
+### 解答 习题二十三
+
+图中有 $\triangle{A}BD\cong\triangle{A}CD$, $\triangle{A}BE\cong\triangle{A}CE$, $\triangle{D}BE\cong\triangle{D}CE$.
+
+由 $D$ 是 $BC$ 中点, 得 $BD=CD$. 在 $\triangle{A}BD$ 和 $\triangle{A}CD$ 中, $AB=AC$, $BD=CD$, $AD$ 公共, 由SSS, $\triangle{A}BD\cong\triangle{A}CD$, 得 $\angle{B}AE=\angle{C}AE$.
+
+在 $\triangle{A}BE$ 和 $\triangle{A}CE$ 中, $AB=AC$, $\angle{B}AE=\angle{C}AE$, $AE$ 公共, 由SAS, $\triangle{A}BE\cong\triangle{A}CE$, 得 $BE=CE$.
+
+在 $\triangle{D}BE$ 和 $\triangle{D}CE$ 中, $BD=CD$, $BE=CE$, $DE$ 公共, 由SSS, $\triangle{D}BE\cong\triangle{D}CE$.
+
+$\blacksquare$
+
+## 信息技术应用一
+
+(信息技术应用 探究三角形全等的条件) 在两边分别相等的基础上, 只有再添加它们的夹角相等时, 两三角形才重合全等; 若仅添加一边相等 (SSA), 不能保证全等. 类似地, 两角和它们的夹边分别相等, 斜边和一直角边分别相等的两直角三角形能判定全等. 由此确认 SAS, ASA, SSS, AAS, HL 为有效判定方法.
+
+## 练习三十一
+
+(练习 14.3 第 1 题) 如图, 在直线 $MN$ 上求作一点 $P$, 使点 $P$ 在 $\angle{A}OB$ 的内部, 且点 $P$ 到射线 $OA$ 和 $OB$ 的距离相等.
+
+### 解答 练习三十一
+
+由角平分线的判定, 到 $OA$, $OB$ 距离相等的点在 $\angle{A}OB$ 的平分线上. 故先用尺规作 $\angle{A}OB$ 的平分线, 该平分线与直线 $MN$ 的交点即为所求的点 $P$.
+
+$\blacksquare$
