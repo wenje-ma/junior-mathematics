@@ -1,0 +1,425 @@
+# week37
+
+> **定义 16.1.1 (同底数幂的乘法)**
+> 
+> 一般地, 对于任意底数 $a$ 与任意正整数 $m,n$, $a^m\cdot{a}^n=a^{m+n}$, 即同底数幂相乘, 底数不变, 指数相加. 三个或三个以上同底数幂相乘也具有这一性质.
+
+> **定义 16.1.2 (幂的乘方)**
+> 
+> 一般地, 对于任意底数 $a$ 与任意正整数 $m,n$, $\left(a^m\right)^n=a^{mn}$, 即幂的乘方, 底数不变, 指数相乘.
+
+> **定义 16.1.3 (积的乘方)**
+> 
+> 一般地, 对于任意底数 $a,b$ 与任意正整数 $n$, $\left(ab\right)^n=a^nb^n$, 即积的乘方等于把积的每一个因式分别乘方, 再把所得的幂相乘. 三个或三个以上因式的积的乘方也具有这一性质.
+
+> **定义 16.2.3 (多项式与多项式相乘)**
+> 
+> 先用一个多项式的每一项乘另一个多项式的每一项, 再把所得的积相加, 即 $\left(a+b\right)\left(p+q\right)=ap+aq+bp+bq$.
+
+> **定义 16.2.4 (同底数幂的除法)**
+> 
+> $a^m\div{a}^n=a^{m-n}$ ($a\ne0$, $m,n$ 都是正整数, $m>n$), 即同底数幂相除, 底数不变, 指数相减.
+
+> **定义 16.3.1 (平方差公式)**
+> 
+> 两个数的和与这两个数的差的积等于这两个数的平方差, 即 $\left(a+b\right)\left(a-b\right)=a^2-b^2$.
+
+> **定义 16.3.2 (完全平方公式)**
+> 
+> 两个数的和 (或差) 的平方等于它们的平方和加上 (或减去) 它们积的 $2$ 倍, 即 $\left(a+b\right)^2=a^2+2ab+b^2$, $\left(a-b\right)^2=a^2-2ab+b^2$.
+
+> **定义 16.3.3 (添括号法则)**
+> 
+> 括号前面是正号, 括到括号里的各项都不变符号; 括号前面是负号, 括到括号里的各项都改变符号, 即 $a+b+c=a+\left(b+c\right)$, $a-b-c=a-\left(b+c\right)$.
+
+## 练习一
+
+(练习 16.3 第 4 题) 计算:
+
+(1) $\left(a+2b-1\right)^2$;
+
+(2) $\left(2x+y+z\right)\left(2x-y-z\right)$.
+
+### 解答 练习一
+
+先分组再用公式.
+
+(1) $\left(a+2b-1\right)^2=\left[a+\left(2b-1\right)\right]^2=a^2+2a\left(2b-1\right)+\left(2b-1\right)^2=a^2+4ab-2a+4b^2-4b+1$.
+
+(2) $\left(2x+y+z\right)\left(2x-y-z\right)=\left[2x+\left(y+z\right)\right]\left[2x-\left(y+z\right)\right]=4x^2-\left(y+z\right)^2=4x^2-y^2-2yz-z^2$.
+
+$\blacksquare$
+
+## 习题一
+
+(习题 16.3 复习巩固第 1 题) 下列各式能否用平方差公式计算? 如果能, 把结果写出来:
+
+(1) $\left(x+y\right)\left(x-y\right)$;
+
+(2) $\left(x-y\right)\left(y-x\right)$;
+
+(3) $\left(x+y\right)\left(-x-y\right)$;
+
+(4) $\left(x-y\right)\left(-x-y\right)$.
+
+### 解答 习题一
+
+由**定义 16.3.1 (平方差公式)**, 平方差公式要求两因式中一组相同, 一组相反.
+
+(1) 能, $\left(x+y\right)\left(x-y\right)=x^2-y^2$.
+
+(2) 不能, 两项都相反, $-\left(x-y\right)^2$.
+
+(3) 不能, 两项都相反, $-\left(x+y\right)^2$.
+
+(4) 能, $\left(x-y\right)\left(-x-y\right)=\left(-y+x\right)\left(-y-x\right)=\left(-y\right)^2-x^2=y^2-x^2$.
+
+$\blacksquare$
+
+## 习题二
+
+(习题 16.3 复习巩固第 2 题) 计算:
+
+(1) $\left(2m+3\right)\left(2m-3\right)$;
+
+(2) $\left(-\frac14x-2y\right)\left(\frac14x-2y\right)$;
+
+(3) $\left(a+2b\right)\left(a-2b\right)$;
+
+(4) $1003\times997$.
+
+### 解答 习题二
+
+由**定义 16.3.1 (平方差公式)**.
+
+(1) $\left(2m+3\right)\left(2m-3\right)=4m^2-9$.
+
+(2) $\left(-\frac14x-2y\right)\left(\frac14x-2y\right)=\left(-2y\right)^2-\left(\frac14x\right)^2=4y^2-\frac{1}{16}x^2$.
+
+(3) $\left(a+2b\right)\left(a-2b\right)=a^2-4b^2$.
+
+(4) $1003\times997=\left(1000+3\right)\left(1000-3\right)=1000000-9=999991$.
+
+$\blacksquare$
+
+## 习题三
+
+(习题 16.3 复习巩固第 3 题) 计算:
+
+(1) $\left(2a+5b\right)^2$;
+
+(2) $\frac34x-\frac23y)^2$;
+
+(3) $\left(-2m-7n\right)^2$;
+
+(4) $101^2$.
+
+### 解答 习题三
+
+由**定义 16.3.2 (完全平方公式)**.
+
+(1) $\left(2a+5b\right)^2=4a^2+20ab+25b^2$.
+
+(2) $\left(\frac34x-\frac23y\right)^2=\frac{9}{16}x^2-xy+\frac49y^2$.
+
+(3) $\left(-2m-7n\right)^2=4m^2+28mn+49n^2$.
+
+(4) $101^2=\left(100+1\right)^2=10201$.
+
+$\blacksquare$
+
+## 习题四
+
+(习题 16.3 复习巩固第 4 题) 计算:
+
+(1) $\left(2a+5b\right)\left(2a-5b\right)$;
+
+(2) $\left(\frac12x-3y\right)^2$;
+
+(3) $\left(ab+1\right)^2-\left(ab-1\right)^2$;
+
+(4) $\left(3x-5\right)^2-\left(2x+7\right)^2$;
+
+(5) $\left(-2x-5y\right)^2$;
+
+(6) $\left(a-\frac12b^2\right)^2$.
+
+### 解答 习题四
+
+由**定义 16.3.1 (平方差公式)** 与**定义 16.3.2 (完全平方公式)**.
+
+(1) $\left(2a+5b\right)\left(2a-5b\right)=4a^2-25b^2$.
+
+(2) $\left(\frac12x-3y\right)^2=\frac14x^2-3xy+9y^2$.
+
+(3) $\left(ab+1\right)^2-\left(ab-1\right)^2=\left(a^2b^2+2ab+1\right)-\left(a^2b^2-2ab+1\right)=4ab$.
+
+(4) $\left(3x-5\right)^2-\left(2x+7\right)^2=\left(9x^2-30x+25\right)-\left(4x^2+28x+49\right)=5x^2-58x-24$.
+
+(5) $\left(-2x-5y\right)^2=4x^2+20xy+25y^2$.
+
+(6) $\left(a-\frac12b^2\right)^2=a^2-ab^2+\frac14b^4$.
+
+$\blacksquare$
+
+## 习题五
+
+(习题 16.3 综合运用第 5 题) 计算:
+
+(1) $\left(2a+3b\right)^2-\left(2a-3b\right)^2$;
+
+(2) $\left(x+2y-3\right)\left(x-2y+3\right)$;
+
+(3) $\left(2x+3\right)^2-\left(2x-3\right)\left(2x+3\right)$.
+
+### 解答 习题五
+
+(1) $\left(2a+3b\right)^2-\left(2a-3b\right)^2=\left(4a^2+12ab+9b^2\right)-\left(4a^2-12ab+9b^2\right)=24ab$.
+
+(2) $\left(x+2y-3\right)\left(x-2y+3\right)=\left[x+\left(2y-3\right)\right]\left[x-\left(2y-3\right)\right]=x^2-\left(2y-3\right)^2=x^2-4y^2+12y-9$.
+
+(3) $\left(2x+3\right)^2-\left(2x-3\right)\left(2x+3\right)=\left(4x^2+12x+9\right)-\left(4x^2-9\right)=12x+18$.
+
+$\blacksquare$
+
+## 习题六
+
+(习题 16.3 综合运用第 6 题) 如图, 一块直径为 $a+b$ 的圆形钢板, 从中挖去直径分别为 $a$ 与 $b$ 的两个圆, 求剩下的钢板面积.
+
+图中为一个大圆 (直径 $a+b$), 内部左下, 右下位置分别挖去两个小圆: 一个直径为 $a$, 一个直径为 $b$, 两小圆外切且均与大圆内切, 剩余部分为阴影钢板.
+
+### 解答 习题六
+
+大圆直径为 $a+b$, 半径 $\frac{a+b}{2}$, 面积 $\pi\left(\frac{a+b}{2}\right)^2$. 挖去两圆半径分别为 $\frac{a}2$ 与 $\frac{b}2$, 面积和为 $\pi\left(\frac{a}2\right)^2+\pi\left(\frac{b}2\right)^2$.
+
+剩下面积
+
+$$S=\pi\frac{\left(a+b\right)^2}{4}-\pi\frac{a^2}{4}-\pi\frac{b^2}{4}=\pi\frac{a^2+2ab+b^2-a^2-b^2}{4}=\frac{\pi{a}b}{2}.$$
+
+$\blacksquare$
+
+## 习题七
+
+(习题 16.3 综合运用第 7 题) 先化简, 再求值: $\left(2x-y\right)\left(y+2x\right)-\left(2y+x\right)\left(2y-x\right)$, 其中 $x=1$, $y=2$.
+
+### 解答 习题七
+
+由**定义 16.3.1 (平方差公式)**.
+
+$$\left(2x-y\right)\left(2x+y\right)-\left(2y+x\right)\left(2y-x\right)=\left(4x^2-y^2\right)-\left(4y^2-x^2\right)=5x^2-5y^2.$$
+
+代入 $x=1,y=2$, 得 $5-20=-15$.
+
+$\blacksquare$
+
+## 习题八
+
+(习题 16.3 拓广探索第 8 题) 已知 $a+b=5$, $ab=3$, 求 $a^2+b^2$ 的值.
+
+### 解答 习题八
+
+由**定义 16.3.2 (完全平方公式)**, $\left(a+b\right)^2=a^2+2ab+b^2$.
+
+$$a^2+b^2=\left(a+b\right)^2-2ab=25-6=19.$$
+
+$\blacksquare$
+
+## 习题九
+
+(习题 16.3 拓广探索第 9 题) 计算: $2\left(3+1\right)\left(3^2+1\right)\left(3^4+1\right)\cdots\left(3^{32}+1\right)+1$.
+
+### 解答 习题九
+
+反复用**定义 16.3.1 (平方差公式)**. 把最前面的 $2$ 写成 $\left(3-1\right)$, 则
+
+$$\left(3-1\right)\left(3+1\right)=3^2-1,$$
+
+$$\left(3^2-1\right)\left(3^2+1\right)=3^4-1,$$
+
+如此反复, 最后
+
+$$\left(3^{32}-1\right)\left(3^{32}+1\right)=3^{64}-1.$$
+
+故原式 $=\left(3^{64}-1\right)+1=3^{64}$.
+
+$\blacksquare$
+
+## 活动一
+
+(数学活动 活动 1) 月历中的奥秘 (续). 如图是某月的月历.
+
+(1) 选择其中所示的 $2\times2$ 蓝色方框部分, 将每个蓝色方框部分中 $4$ 个位置上的数交叉相乘, 再相减, 能得出什么结论? 请再选择几个类似的部分试一试.
+
+(2) 换一个月的月历试一试, 是否有同样的规律?
+
+(3) 请利用整式的运算对以上的规律加以证明.
+
+(4) 你还能发现其他规律吗?
+
+### 解答 活动一
+
+(1) 取方框中四个数为 $10,11,17,18$, 交叉相乘再相减: $10\times18-11\times17=180-187=-7$, 差的绝对值为 $7$. 再取 $15,16,22,23$: $15\times23-16\times22=345-352=-7$. 结论: 方框对角两数乘积之差恒为 $-7$.
+
+(2) 换一个月的月历, 只要方框仍是相邻两行两列, 规律相同.
+
+(3) 设方框左上角的数为 $n$, 则同行右侧为 $n+1$, 下行为 $n+7$ 与 $n+8$. 由**定义 16.3.1 (平方差公式)** 展开:
+
+$$n\left(n+8\right)-\left(n+1\right)\left(n+7\right)=n^2+8n-\left(n^2+8n+7\right)=-7.$$
+
+故差恒为 $-7$, 与 $n$ 无关.
+
+(4) 例如同行两数之差恒为 $1$, 同列两数之差恒为 $7$; 方框四数之和为 $4n+16=4\left(n+4\right)$, 是中间数的 $4$ 倍.
+
+$\blacksquare$
+
+## 活动二
+
+(数学活动 活动 2) 和为定值的两数积的规律.
+
+(1) 计算下列两个数的积 (每组中两个数的和为定值), 你能发现结果有什么规律吗?
+
+① $30\times30$, $35\times25$, $43\times17$, $52\times8$;
+
+② $50\times50$, $53\times47$, $74\times26$, $91\times9$.
+
+(2) 你能用本章所学知识解释你发现的规律吗?
+
+(3) 利用你发现的规律解决下面的问题: 用 $10\;\text{m}$ 长的绳子围成一个长方形, 长方形的最大面积是多少? 此时长方形的两条邻边长有什么关系?
+
+### 解答 活动二
+
+(1) ① $30\times30=900$, $35\times25=875$, $43\times17=731$, $52\times8=416$. 每组两数之和均为 $60$, 两数越接近 $30$, 积越大.
+
+② $50\times50=2500$, $53\times47=2491$, $74\times26=1924$, $91\times9=819$. 每组两数之和均为 $100$, 同样两数越接近 $50$, 积越大.
+
+(2) 设两数之和为定值 $S$, 两数分别为 $\frac{S}2+d$ 与 $\frac{S}2-d$. 由**定义 16.3.1 (平方差公式)**:
+
+$$\left(\frac{S}2+d\right)\left(\frac{S}2-d\right)=\frac{S^2}{4}-d^2.$$
+
+故两数越接近 ($d$ 越小), 积越大; 当 $d=0$ 即两数相等时, 积最大为 $\frac{S^2}{4}$.
+
+(3) 周长为 $10\;\text{m}$, 则长宽之和为 $5\;\text{m}$, 即 $S=5$. 面积 $=$ 长$\times$宽, 由上述规律, 当长与宽相等即都为 $2.5\;\text{m}$ 时面积最大:
+
+$$S_{\max}=\frac{5^2}{4}=6.25\,\left(\text{m}^2\right).$$
+
+此时长方形两条邻边相等, 即为正方形.
+
+$\blacksquare$
+
+## 阅读与思考一
+
+(阅读与思考 杨辉三角) 利用杨辉三角给出的 $\left(a+b\right)^n$ 展开式系数规律, 写出 $\left(a+b\right)^6$ 的展开式, 并利用整式的乘法验证你的结果.
+
+### 解答 阅读与思考一
+
+杨辉三角第 $7$ 行 ($n=6$) 的系数为 $1,6,15,20,15,6,1$, 按 $a$ 的次数由大到小:
+
+$$\left(a+b\right)^6=a^6+6a^5b+15a^4b^2+20a^3b^3+15a^2b^4+6ab^5+b^6.$$
+
+验证: $\left(a+b\right)^3=a^3+3a^2b+3ab^2+b^3$, 则
+
+$$\left(a+b\right)^6=\left(\left(a+b\right)^3\right)^2=\left(a^3+3a^2b+3ab^2+b^3\right)^2.$$
+
+展开后合并同类项, 各项系数与上述一致, 验证正确.
+
+$\blacksquare$
+
+## 复习题一
+
+(复习题 复习巩固第 1 题) 计算:
+
+(1) $100\times10^3\times10^2$;
+
+(2) $\left[\left(-2\right)^2\right]^3$;
+
+(3) $\left(-x\right)^2\cdot{x}^3$;
+
+(4) $x\cdot{x}^2\cdot{x}^3+\left(x^3\right)^2$.
+
+### 解答 复习题一
+
+由**定义 16.1.1 (同底数幂的乘法)** 与**定义 16.1.2 (幂的乘方)**.
+
+(1) $100\times10^3\times10^2=10^2\times10^3\times10^2=10^7$.
+
+(2) $\left[\left(-2\right)^2\right]^3=4^3=64$.
+
+(3) $\left(-x\right)^2\cdot{x}^3=x^2\cdot{x}^3=x^5$.
+
+(4) $x\cdot{x}^2\cdot{x}^3+\left(x^3\right)^2=x^6+x^6=2x^6$.
+
+$\blacksquare$
+
+## 复习题二
+
+(复习题 复习巩固第 2 题) 计算:
+
+(1) $\left(-2x^2y^3\right)^2\left(xy\right)^3$;
+
+(2) $\left(2a+3b\right)\left(2a-b\right)$;
+
+(3) $5x^2\left(x+1\right)\left(x-1\right)$;
+
+(4) $\left(2x+y-1\right)^2$;
+
+(5) $59.8\times60.2$;
+
+(6) $198^2$.
+
+### 解答 复习题二
+
+(1) $\left(-2x^2y^3\right)^2\left(xy\right)^3=4x^4y^6\cdot{x}^3y^3=4x^7y^9$.
+
+(2) $\left(2a+3b\right)\left(2a-b\right)=4a^2-2ab+6ab-3b^2=4a^2+4ab-3b^2$.
+
+(3) $5x^2\left(x+1\right)\left(x-1\right)=5x^2\left(x^2-1\right)=5x^4-5x^2$.
+
+(4) $\left(2x+y-1\right)^2=\left[2x+\left(y-1\right)\right]^2=4x^2+4x\left(y-1\right)+\left(y-1\right)^2=4x^2+4xy-4x+y^2-2y+1$.
+
+(5) $59.8\times60.2=\left(60-0.2\right)\left(60+0.2\right)=3600-0.04=3599.96$.
+
+(6) $198^2=\left(200-2\right)^2=40000-800+4=39204$.
+
+$\blacksquare$
+
+## 复习题三
+
+(复习题 复习巩固第 3 题) 计算:
+
+(1) $\left(2a\right)^3\cdot{b}^4\div\left(12a^3b^2\right)$;
+
+(2) $-27a^7b^5\div\left(\frac32a^2b^5\right)$;
+
+(3) $\left(\frac65a^3x^4-0.9ax^3\right)\div\left(\frac35ax^3\right)$;
+
+(4) $\left(7x^2y^3-8x^3y^2z\right)\div\left(8x^2y^2\right)$.
+
+### 解答 复习题三
+
+由单项式与多项式除法法则.
+
+(1) $\left(2a\right)^3\cdot{b}^4\div\left(12a^3b^2\right)=8a^3b^4\div\left(12a^3b^2\right)=\frac23b^2$.
+
+(2) $-27a^7b^5\div\left(\frac32a^2b^5\right)=-18a^5$.
+
+(3) $\left(\frac65a^3x^4-0.9ax^3\right)\div\left(\frac35ax^3\right)=2a^2x-1.5$.
+
+(4) $\left(7x^2y^3-8x^3y^2z\right)\div\left(8x^2y^2\right)=\frac78y-xz$.
+
+$\blacksquare$
+
+## 复习题四
+
+(复习题 复习巩固第 4 题) 计算:
+
+(1) $2x\left(x^2-1\right)-x\left(x^2+2\right)$;
+
+(2) $\left[\left(x-3\right)\left(x+3\right)\right]^2-\left(x^2+1\right)^2$.
+
+### 解答 复习题四
+
+(1) $2x\left(x^2-1\right)-x\left(x^2+2\right)=2x^3-2x-x^3-2x=x^3-4x$.
+
+(2) $\left[\left(x-3\right)\left(x+3\right)\right]^2-\left(x^2+1\right)^2=\left(x^2-9\right)^2-\left(x^2+1\right)^2=\left(x^4-18x^2+81\right)-\left(x^4+2x^2+1\right)=-20x^2+80$.
+
+$\blacksquare$
