@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='576.00pt' height='288.00pt' viewBox='0 0 576.00 288.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1NzYuMDB8MC4wMHwyODguMDA='>
+    <rect x='0.00' y='0.00' width='576.00' height='288.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHwyODguMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpMC4wMHwyODguMDB8MC4wMHwyODguMDA='>
+    <rect x='0.00' y='0.00' width='288.00' height='288.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwyODguMDB8MC4wMHwyODguMDA=)'>
+<text x='144.00' y='19.55' text-anchor='middle' style='font-size: 14.40px; font-weight: bold; font-family: "Arial";' textLength='114.89px' lengthAdjust='spacingAndGlyphs'>(1) Extend A to B</text>
+</g>
+<defs>
+  <clipPath id='cpMTQuNDB8MjczLjYwfDI4LjgwfDI1OS4yMA=='>
+    <rect x='14.40' y='28.80' width='259.20' height='230.40' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMTQuNDB8MjczLjYwfDI4LjgwfDI1OS4yMA==)'>
+<line x1='44.00' y1='144.00' x2='124.00' y2='144.00' style='stroke-width: 0.75;' />
+<line x1='124.00' y1='144.00' x2='204.00' y2='144.00' style='stroke-width: 0.75; stroke-dasharray: 4.00,4.00;' />
+<circle cx='44.00' cy='144.00' r='2.16' style='stroke-width: 0.75; fill: #000000;' />
+<circle cx='124.00' cy='144.00' r='2.16' style='stroke-width: 0.75; fill: #000000;' />
+<circle cx='204.00' cy='144.00' r='2.16' style='stroke-width: 0.75; fill: #000000;' />
+<text x='44.00' y='128.80' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='8.00px' lengthAdjust='spacingAndGlyphs'>A</text>
+<text x='124.00' y='128.80' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='8.00px' lengthAdjust='spacingAndGlyphs'>B</text>
+<text x='204.00' y='128.80' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='8.67px' lengthAdjust='spacingAndGlyphs'>C</text>
+<text x='84.00' y='170.36' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='16.00px' lengthAdjust='spacingAndGlyphs'>AB</text>
+<text x='164.00' y='170.36' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='39.69px' lengthAdjust='spacingAndGlyphs'>BC=AB</text>
+</g>
+<defs>
+  <clipPath id='cpMzAyLjQwfDU2MS42MHwyOC44MHwyNTkuMjA='>
+    <rect x='302.40' y='28.80' width='259.20' height='230.40' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMzAyLjQwfDU2MS42MHwyOC44MHwyNTkuMjA=)'>
+</g>
+<defs>
+  <clipPath id='cpMjg4LjAwfDU3Ni4wMHwwLjAwfDI4OC4wMA=='>
+    <rect x='288.00' y='0.00' width='288.00' height='288.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMjg4LjAwfDU3Ni4wMHwwLjAwfDI4OC4wMA==)'>
+<text x='432.00' y='19.55' text-anchor='middle' style='font-size: 14.40px; font-weight: bold; font-family: "Arial";' textLength='115.42px' lengthAdjust='spacingAndGlyphs'>(2) Extend B to A</text>
+</g>
+<g clip-path='url(#cpMzAyLjQwfDU2MS42MHwyOC44MHwyNTkuMjA=)'>
+<line x1='392.00' y1='144.00' x2='472.00' y2='144.00' style='stroke-width: 0.75;' />
+<line x1='312.00' y1='144.00' x2='392.00' y2='144.00' style='stroke-width: 0.75; stroke-dasharray: 4.00,4.00;' />
+<circle cx='312.00' cy='144.00' r='2.16' style='stroke-width: 0.75; fill: #000000;' />
+<circle cx='392.00' cy='144.00' r='2.16' style='stroke-width: 0.75; fill: #000000;' />
+<circle cx='472.00' cy='144.00' r='2.16' style='stroke-width: 0.75; fill: #000000;' />
+<text x='312.00' y='128.80' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='8.67px' lengthAdjust='spacingAndGlyphs'>C</text>
+<text x='392.00' y='128.80' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='8.00px' lengthAdjust='spacingAndGlyphs'>A</text>
+<text x='472.00' y='128.80' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='8.00px' lengthAdjust='spacingAndGlyphs'>B</text>
+<text x='352.00' y='170.36' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='39.69px' lengthAdjust='spacingAndGlyphs'>CA=AB</text>
+<text x='432.00' y='170.36' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='16.00px' lengthAdjust='spacingAndGlyphs'>AB</text>
+</g>
+</g>
+</svg>
