@@ -52,7 +52,7 @@ $$
 
 由**定理 20.1.1**，高 \(PO=\sqrt{PA^{2}-AO^{2}}=\sqrt{49-4}=\sqrt{45}=3\sqrt{5}\)。
 
-故面积 \(S=\dfrac{1}{2}\times AB\times PO=\dfrac{1}{2}\times 4\times 3\sqrt{5}=6\sqrt{5}\)。
+故面积 \(S=\frac{1}{2}\times AB\times PO=\frac{1}{2}\times 4\times 3\sqrt{5}=6\sqrt{5}\)。
 
 \(\blacksquare\)
 
@@ -206,7 +206,7 @@ $$
 MN=\sqrt{40^{2}+30^{2}}=\sqrt{2500}=50\ \text{cm}.
 $$
 
-时间 \(t=\dfrac{50}{3}\approx 16.7\ \text{s}\)。
+时间 \(t=\frac{50}{3}\approx 16.7\ \text{s}\)。
 
 \(\blacksquare\)
 
@@ -226,7 +226,7 @@ $$
 h^{2}=a^{2}-x^{2},\quad h^{2}=c^{2}-(b-x)^{2}.
 $$
 
-联立得 \(a^{2}-x^{2}=c^{2}-b^{2}+2bx-x^{2}\)，即 \(x=\dfrac{a^{2}+b^{2}-c^{2}}{2b}\)。
+联立得 \(a^{2}-x^{2}=c^{2}-b^{2}+2bx-x^{2}\)，即 \(x=\frac{a^{2}+b^{2}-c^{2}}{2b}\)。
 
 于是
 
@@ -234,7 +234,7 @@ $$
 h^{2}=a^{2}-\left(\frac{a^{2}+b^{2}-c^{2}}{2b}\right)^{2}.
 $$
 
-面积 \(S=\dfrac{1}{2}bh\)，故
+面积 \(S=\frac{1}{2}bh\)，故
 
 $$
 S^{2}=\frac{b^{2}}{4}\cdot h^{2}=\frac{1}{4}\left[a^{2}b^{2}-\left(\frac{a^{2}+b^{2}-c^{2}}{2}\right)^{2}\right].

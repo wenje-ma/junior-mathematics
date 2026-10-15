@@ -12,7 +12,7 @@
 >
 > **定义 2.2.6** (多个有理数相乘的符号法则) <br>几个不为 $0$ 的数相乘, 负的乘数的个数是偶数时, 积为正数; 负的乘数的个数是奇数时, 积为负数. 几个数相乘, 如果其中有乘数为 $0$, 那么积为 $0$.
 >
-> **定义 2.2.7** (有理数除法法则) <br>除以一个不等于 $0$ 的数, 等于乘这个数的倒数, 即 $a\div b=a\cdot\dfrac{1}{b}$ ($b\ne 0$). 两数相除, 同号得正, 异号得负, 且商的绝对值等于被除数的绝对值除以除数的绝对值的商. $0$ 除以任何一个不等于 $0$ 的数, 都得 $0$.
+> **定义 2.2.7** (有理数除法法则) <br>除以一个不等于 $0$ 的数, 等于乘这个数的倒数, 即 $a\div b=a\cdot\frac{1}{b}$ ($b\ne 0$). 两数相除, 同号得正, 异号得负, 且商的绝对值等于被除数的绝对值除以除数的绝对值的商. $0$ 除以任何一个不等于 $0$ 的数, 都得 $0$.
 
 ### 练习一
 
@@ -20,7 +20,7 @@
 
 (1) $6\times\left(-9\right)$; (2) $\left(-4\right)\times 6$; (3) $\left(-6\right)\times\left(-1\right)$;
 
-(4) $\left(-6\right)\times 0$; (5) $\left(-4\right)\times\dfrac{1}{4}$; (6) $\dfrac{2}{3}\times\left(-\dfrac{9}{4}\right)$.
+(4) $\left(-6\right)\times 0$; (5) $\left(-4\right)\times\frac{1}{4}$; (6) $\frac{2}{3}\times\left(-\frac{9}{4}\right)$.
 
 ### 解答 练习一
 
@@ -28,7 +28,7 @@
 
 (1) $6\times\left(-9\right)=-54$; (2) $\left(-4\right)\times 6=-24$; (3) $\left(-6\right)\times\left(-1\right)=6$;
 
-(4) $\left(-6\right)\times 0=0$; (5) $\left(-4\right)\times\dfrac{1}{4}=-1$; (6) $\dfrac{2}{3}\times\left(-\dfrac{9}{4}\right)=-\dfrac{3}{2}$. $\blacksquare$
+(4) $\left(-6\right)\times 0=0$; (5) $\left(-4\right)\times\frac{1}{4}=-1$; (6) $\frac{2}{3}\times\left(-\frac{9}{4}\right)=-\frac{3}{2}$. $\blacksquare$
 
 ### 练习二
 
@@ -52,7 +52,7 @@ $$1,\ -1,\ \frac{1}{3},\ -\frac{1}{3},\ 5,\ -5,\ \frac{2}{3},\ -\frac{2}{3}.$$
 
 由**定义 2.2.2** (倒数), 乘积为 $1$ 的两数互为倒数.
 
-$1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\dfrac{1}{3}$ 的倒数是 $3$; $-\dfrac{1}{3}$ 的倒数是 $-3$; $5$ 的倒数是 $\dfrac{1}{5}$; $-5$ 的倒数是 $-\dfrac{1}{5}$; $\dfrac{2}{3}$ 的倒数是 $\dfrac{3}{2}$; $-\dfrac{2}{3}$ 的倒数是 $-\dfrac{3}{2}$. $\blacksquare$
+$1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\frac{1}{3}$ 的倒数是 $3$; $-\frac{1}{3}$ 的倒数是 $-3$; $5$ 的倒数是 $\frac{1}{5}$; $-5$ 的倒数是 $-\frac{1}{5}$; $\frac{2}{3}$ 的倒数是 $\frac{3}{2}$; $-\frac{2}{3}$ 的倒数是 $-\frac{3}{2}$. $\blacksquare$
 
 ### 练习四
 
@@ -60,11 +60,11 @@ $1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\dfrac{1}{3}$ 的倒数是 $3$; $
 
 (1) $\left(-85\right)\times\left(-25\right)\times\left(-4\right)$;
 
-(2) $\left(-\dfrac{7}{8}\right)\times 15\times\left(-1\dfrac{1}{7}\right)$;
+(2) $\left(-\frac{7}{8}\right)\times 15\times\left(-1\frac{1}{7}\right)$;
 
-(3) $\left(\dfrac{9}{10}-\dfrac{1}{15}\right)\times 30$;
+(3) $\left(\frac{9}{10}-\frac{1}{15}\right)\times 30$;
 
-(4) $\left(-\dfrac{6}{5}\right)\times\left(-\dfrac{2}{3}\right)+\left(-\dfrac{6}{5}\right)\times\left(+1\dfrac{3}{5}\right)$.
+(4) $\left(-\frac{6}{5}\right)\times\left(-\frac{2}{3}\right)+\left(-\frac{6}{5}\right)\times\left(+1\frac{3}{5}\right)$.
 
 ### 解答 练习四
 
@@ -72,25 +72,25 @@ $1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\dfrac{1}{3}$ 的倒数是 $3$; $
 
 (1) 原式 $=\left(-85\right)\times\left[\left(-25\right)\times\left(-4\right)\right]=\left(-85\right)\times 100=-8500$.
 
-(2) 原式 $=\left(-\dfrac{7}{8}\right)\times\left(-\dfrac{8}{7}\right)\times 15=1\times 15=15$.
+(2) 原式 $=\left(-\frac{7}{8}\right)\times\left(-\frac{8}{7}\right)\times 15=1\times 15=15$.
 
-(3) 原式 $=\dfrac{9}{10}\times 30-\dfrac{1}{15}\times 30=27-2=25$.
+(3) 原式 $=\frac{9}{10}\times 30-\frac{1}{15}\times 30=27-2=25$.
 
-(4) 原式 $=\left(-\dfrac{6}{5}\right)\times\left(-\dfrac{2}{3}+1\dfrac{3}{5}\right)=\left(-\dfrac{6}{5}\right)\times\dfrac{14}{15}=-\dfrac{28}{25}$. $\blacksquare$
+(4) 原式 $=\left(-\frac{6}{5}\right)\times\left(-\frac{2}{3}+1\frac{3}{5}\right)=\left(-\frac{6}{5}\right)\times\frac{14}{15}=-\frac{28}{25}$. $\blacksquare$
 
 ### 练习五
 
 (练习 2.2 第 2 题) 计算:
 
-(1) $\left(-\dfrac{5}{12}\right)\times\dfrac{8}{15}\times\dfrac{1}{2}\times\left(-\dfrac{2}{3}\right)$;
+(1) $\left(-\frac{5}{12}\right)\times\frac{8}{15}\times\frac{1}{2}\times\left(-\frac{2}{3}\right)$;
 
-(2) $\left(-1\right)\times\left(-\dfrac{5}{4}\right)\times\dfrac{8}{15}\times\dfrac{3}{2}\times\left(-\dfrac{2}{3}\right)\times 0\times\left(-1\right)$.
+(2) $\left(-1\right)\times\left(-\frac{5}{4}\right)\times\frac{8}{15}\times\frac{3}{2}\times\left(-\frac{2}{3}\right)\times 0\times\left(-1\right)$.
 
 ### 解答 练习五
 
 由**定义 2.2.6** (多个有理数相乘的符号法则).
 
-(1) 有两个负乘数, 故积为正: 原式 $=\dfrac{5}{12}\times\dfrac{8}{15}\times\dfrac{1}{2}\times\dfrac{2}{3}=\dfrac{2}{27}$.
+(1) 有两个负乘数, 故积为正: 原式 $=\frac{5}{12}\times\frac{8}{15}\times\frac{1}{2}\times\frac{2}{3}=\frac{2}{27}$.
 
 (2) 因其中一个乘数为 $0$, 由**定义 2.2.6** (多个有理数相乘的符号法则), 原式 $=0$. $\blacksquare$
 
@@ -100,27 +100,27 @@ $1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\dfrac{1}{3}$ 的倒数是 $3$; $
 
 (1) $\left(-18\right)\div 6$; (2) $\left(-63\right)\div\left(-7\right)$; (3) $1\div\left(-9\right)$;
 
-(4) $0\div\left(-8\right)$; (5) $\left(-6.5\right)\div 0.13$; (6) $\left(-\dfrac{6}{5}\right)\div\left(-\dfrac{2}{5}\right)$.
+(4) $0\div\left(-8\right)$; (5) $\left(-6.5\right)\div 0.13$; (6) $\left(-\frac{6}{5}\right)\div\left(-\frac{2}{5}\right)$.
 
 ### 解答 练习六
 
 由**定义 2.2.7** (有理数除法法则).
 
-(1) $\left(-18\right)\div 6=-3$; (2) $\left(-63\right)\div\left(-7\right)=9$; (3) $1\div\left(-9\right)=-\dfrac{1}{9}$;
+(1) $\left(-18\right)\div 6=-3$; (2) $\left(-63\right)\div\left(-7\right)=9$; (3) $1\div\left(-9\right)=-\frac{1}{9}$;
 
-(4) $0\div\left(-8\right)=0$; (5) $\left(-6.5\right)\div 0.13=-50$; (6) $\left(-\dfrac{6}{5}\right)\div\left(-\dfrac{2}{5}\right)=3$. $\blacksquare$
+(4) $0\div\left(-8\right)=0$; (5) $\left(-6.5\right)\div 0.13=-50$; (6) $\left(-\frac{6}{5}\right)\div\left(-\frac{2}{5}\right)=3$. $\blacksquare$
 
 ### 练习七
 
 (练习 2.2 第 2 题) 化简:
 
-(1) $\dfrac{-72}{9}$; (2) $\dfrac{-30}{-45}$; (3) $\dfrac{0}{-75}$; (4) $\dfrac{27}{-6}$.
+(1) $\frac{-72}{9}$; (2) $\frac{-30}{-45}$; (3) $\frac{0}{-75}$; (4) $\frac{27}{-6}$.
 
 ### 解答 练习七
 
 由**定义 2.2.7** (有理数除法法则), 分数线即除法.
 
-(1) $\dfrac{-72}{9}=-8$; (2) $\dfrac{-30}{-45}=\dfrac{2}{3}$; (3) $\dfrac{0}{-75}=0$; (4) $\dfrac{27}{-6}=-\dfrac{9}{2}$. $\blacksquare$
+(1) $\frac{-72}{9}=-8$; (2) $\frac{-30}{-45}=\frac{2}{3}$; (3) $\frac{0}{-75}=0$; (4) $\frac{27}{-6}=-\frac{9}{2}$. $\blacksquare$
 
 ### 练习八
 
@@ -128,23 +128,23 @@ $1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\dfrac{1}{3}$ 的倒数是 $3$; $
 
 (1) $15\div\left(-6\right)$;
 
-(2) $\left(-36\dfrac{9}{11}\right)\div 9$;
+(2) $\left(-36\frac{9}{11}\right)\div 9$;
 
-(3) $\left(-12\right)\div\left(-4\right)\div\left(-1\dfrac{1}{5}\right)$;
+(3) $\left(-12\right)\div\left(-4\right)\div\left(-1\frac{1}{5}\right)$;
 
-(4) $\left(-\dfrac{2}{3}\right)\times\dfrac{8}{5}\div\left(-0.25\right)$.
+(4) $\left(-\frac{2}{3}\right)\times\frac{8}{5}\div\left(-0.25\right)$.
 
 ### 解答 练习八
 
 由**定义 2.2.7** (有理数除法法则).
 
-(1) $15\div\left(-6\right)=-\dfrac{5}{2}$.
+(1) $15\div\left(-6\right)=-\frac{5}{2}$.
 
-(2) 原式 $=\left(-36\right)\div 9-\dfrac{9}{11}\div 9=-4-\dfrac{1}{11}=-\dfrac{45}{11}$.
+(2) 原式 $=\left(-36\right)\div 9-\frac{9}{11}\div 9=-4-\frac{1}{11}=-\frac{45}{11}$.
 
-(3) 原式 $=3\div\left(-\dfrac{6}{5}\right)=3\times\left(-\dfrac{5}{6}\right)=-\dfrac{5}{2}$.
+(3) 原式 $=3\div\left(-\frac{6}{5}\right)=3\times\left(-\frac{5}{6}\right)=-\frac{5}{2}$.
 
-(4) 原式 $=\left(-\dfrac{2}{3}\right)\times\dfrac{8}{5}\times\left(-4\right)=\dfrac{64}{15}$. $\blacksquare$
+(4) 原式 $=\left(-\frac{2}{3}\right)\times\frac{8}{5}\times\left(-4\right)=\frac{64}{15}$. $\blacksquare$
 
 ### 练习九
 
@@ -156,7 +156,7 @@ $1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\dfrac{1}{3}$ 的倒数是 $3$; $
 
 (3) $\left(-48\right)\div 8-\left(-25\right)\times\left(-6\right)$;
 
-(4) $42\times\left(-\dfrac{2}{3}\right)+\left(-\dfrac{3}{4}\right)\div\left(-0.5\right)$.
+(4) $42\times\left(-\frac{2}{3}\right)+\left(-\frac{3}{4}\right)\div\left(-0.5\right)$.
 
 ### 解答 练习九
 
@@ -168,7 +168,7 @@ $1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\dfrac{1}{3}$ 的倒数是 $3$; $
 
 (3) 原式 $=-6-150=-156$.
 
-(4) 原式 $=-28+\dfrac{3}{2}=-\dfrac{53}{2}$. $\blacksquare$
+(4) 原式 $=-28+\frac{3}{2}=-\frac{53}{2}$. $\blacksquare$
 
 ### 习题一
 
@@ -188,45 +188,45 @@ $1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\dfrac{1}{3}$ 的倒数是 $3$; $
 
 (习题 2.2 复习巩固第 2 题) 计算:
 
-(1) $14\times\left(-\dfrac{8}{9}\right)$; (2) $\left(-\dfrac{5}{6}\right)\times\left(-\dfrac{3}{10}\right)$;
+(1) $14\times\left(-\frac{8}{9}\right)$; (2) $\left(-\frac{5}{6}\right)\times\left(-\frac{3}{10}\right)$;
 
-(3) $\left(-3\dfrac{4}{15}\right)\times 25$; (4) $\left(-0.3\right)\times\left(-\dfrac{10}{7}\right)$.
+(3) $\left(-3\frac{4}{15}\right)\times 25$; (4) $\left(-0.3\right)\times\left(-\frac{10}{7}\right)$.
 
 ### 解答 习题二
 
 由**定义 2.2.1** (有理数乘法法则).
 
-(1) $-\dfrac{112}{9}$; (2) $\dfrac{1}{4}$; (3) $-\dfrac{245}{3}$; (4) $\dfrac{3}{7}$. $\blacksquare$
+(1) $-\frac{112}{9}$; (2) $\frac{1}{4}$; (3) $-\frac{245}{3}$; (4) $\frac{3}{7}$. $\blacksquare$
 
 ### 习题三
 
 (习题 2.2 复习巩固第 3 题) 写出下列各数的倒数:
 
-(1) $-15$; (2) $-\dfrac{5}{9}$; (3) $-0.25$; (4) $0.17$; (5) $4\dfrac{1}{4}$; (6) $-5\dfrac{2}{5}$.
+(1) $-15$; (2) $-\frac{5}{9}$; (3) $-0.25$; (4) $0.17$; (5) $4\frac{1}{4}$; (6) $-5\frac{2}{5}$.
 
 ### 解答 习题三
 
 由**定义 2.2.2** (倒数).
 
-(1) $-\dfrac{1}{15}$; (2) $-\dfrac{9}{5}$; (3) $-4$; (4) $\dfrac{100}{17}$; (5) $\dfrac{4}{17}$; (6) $-\dfrac{5}{27}$. $\blacksquare$
+(1) $-\frac{1}{15}$; (2) $-\frac{9}{5}$; (3) $-4$; (4) $\frac{100}{17}$; (5) $\frac{4}{17}$; (6) $-\frac{5}{27}$. $\blacksquare$
 
 ### 习题四
 
 (习题 2.2 复习巩固第 4 题) 计算:
 
-(1) $\left(-8\dfrac{2}{5}\right)\times 1.25\times\left(-8\right)$;
+(1) $\left(-8\frac{2}{5}\right)\times 1.25\times\left(-8\right)$;
 
 (2) $\left(-10\right)\times\left(-8.24\right)\times\left(-0.1\right)$;
 
-(3) $\left(\dfrac{7}{9}-\dfrac{5}{6}+\dfrac{3}{4}-\dfrac{7}{18}\right)\times 36$;
+(3) $\left(\frac{7}{9}-\frac{5}{6}+\frac{3}{4}-\frac{7}{18}\right)\times 36$;
 
-(4) $-\dfrac{3}{4}\times\left(8-1\dfrac{1}{3}-0.04\right)$.
+(4) $-\frac{3}{4}\times\left(8-1\frac{1}{3}-0.04\right)$.
 
 ### 解答 习题四
 
 由**定义 2.2.5** (分配律) 与**定义 2.2.4** (乘法结合律).
 
-(1) 原式 $=\left(-\dfrac{42}{5}\right)\times\dfrac{5}{4}\times\left(-8\right)=84$.
+(1) 原式 $=\left(-\frac{42}{5}\right)\times\frac{5}{4}\times\left(-8\right)=84$.
 
 (2) 原式 $=-8.24$.
 
@@ -240,13 +240,13 @@ $1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\dfrac{1}{3}$ 的倒数是 $3$; $
 
 (1) $\left(-2\right)\times 3\times\left(-4\right)$; (2) $\left(-6\right)\times\left(-5\right)\times\left(-7\right)$;
 
-(3) $\left(-6\right)\times\left(-0.25\right)\times\dfrac{11}{14}$; (4) $\left(-17\right)\times\left(-49\right)\times 0\times 13$.
+(3) $\left(-6\right)\times\left(-0.25\right)\times\frac{11}{14}$; (4) $\left(-17\right)\times\left(-49\right)\times 0\times 13$.
 
 ### 解答 习题五
 
 由**定义 2.2.6** (多个有理数相乘的符号法则).
 
-(1) 两个负乘数, 积为正, $24$. (2) 三个负乘数, 积为负, $-210$. (3) 两个负乘数, 积为正, $\dfrac{33}{28}$. (4) 含乘数 $0$, 积为 $0$. $\blacksquare$
+(1) 两个负乘数, 积为正, $24$. (2) 三个负乘数, 积为负, $-210$. (3) 两个负乘数, 积为正, $\frac{33}{28}$. (4) 含乘数 $0$, 积为 $0$. $\blacksquare$
 
 ### 习题六
 
@@ -254,13 +254,13 @@ $1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\dfrac{1}{3}$ 的倒数是 $3$; $
 
 (1) $16\div\left(-3\right)$; (2) $\left(-91\right)\div 13$; (3) $\left(-56\right)\div\left(-14\right)$;
 
-(4) $\dfrac{4}{5}\div\left(-1\right)$; (5) $\left(-16\right)\div\left(-48\right)$; (6) $\left(-0.25\right)\div\dfrac{3}{8}$.
+(4) $\frac{4}{5}\div\left(-1\right)$; (5) $\left(-16\right)\div\left(-48\right)$; (6) $\left(-0.25\right)\div\frac{3}{8}$.
 
 ### 解答 习题六
 
 由**定义 2.2.7** (有理数除法法则).
 
-(1) $-\dfrac{16}{3}$; (2) $-7$; (3) $4$; (4) $-\dfrac{4}{5}$; (5) $\dfrac{1}{3}$; (6) $-\dfrac{2}{3}$. $\blacksquare$
+(1) $-\frac{16}{3}$; (2) $-7$; (3) $4$; (4) $-\frac{4}{5}$; (5) $\frac{1}{3}$; (6) $-\frac{2}{3}$. $\blacksquare$
 
 ### 习题七
 
@@ -274,19 +274,19 @@ $\left(-1\right)\times\left(-5\right)=\;\_\_\;$; $\left(-1\right)\div\left(-5\ri
 
 由**定义 2.2.1** (有理数乘法法则) 与**定义 2.2.7** (有理数除法法则).
 
-依次为 $-5$; $-\dfrac{1}{5}$; $-4$; $6$; $5$; $\dfrac{1}{5}$; $-6$; $4$. $\blacksquare$
+依次为 $-5$; $-\frac{1}{5}$; $-4$; $6$; $5$; $\frac{1}{5}$; $-6$; $4$. $\blacksquare$
 
 ### 习题八
 
 (习题 2.2 复习巩固第 8 题) 化简:
 
-(1) $\dfrac{-21}{7}$; (2) $\dfrac{3}{-36}$; (3) $\dfrac{-54}{-8}$; (4) $\dfrac{-6}{-0.3}$.
+(1) $\frac{-21}{7}$; (2) $\frac{3}{-36}$; (3) $\frac{-54}{-8}$; (4) $\frac{-6}{-0.3}$.
 
 ### 解答 习题八
 
 由**定义 2.2.7** (有理数除法法则).
 
-(1) $-3$; (2) $-\dfrac{1}{12}$; (3) $\dfrac{27}{4}$; (4) $20$. $\blacksquare$
+(1) $-3$; (2) $-\frac{1}{12}$; (3) $\frac{27}{4}$; (4) $20$. $\blacksquare$
 
 ### 习题九
 
@@ -294,9 +294,9 @@ $\left(-1\right)\times\left(-5\right)=\;\_\_\;$; $\left(-1\right)\div\left(-5\ri
 
 (1) $0.1\div\left(-0.001\right)\div\left(-1\right)$;
 
-(2) $\left(-\dfrac{3}{4}\right)\times\left(-1\dfrac{1}{2}\right)\div\left(-2\dfrac{1}{4}\right)$;
+(2) $\left(-\frac{3}{4}\right)\times\left(-1\frac{1}{2}\right)\div\left(-2\frac{1}{4}\right)$;
 
-(3) $\left(-7\right)\times\left(-\dfrac{5}{6}\right)\times 0\div\left(-\dfrac{1}{3}\right)$;
+(3) $\left(-7\right)\times\left(-\frac{5}{6}\right)\times 0\div\left(-\frac{1}{3}\right)$;
 
 (4) $\left(-9\right)\times\left(-11\right)\div 3\div\left(-3\right)$.
 
@@ -306,7 +306,7 @@ $\left(-1\right)\times\left(-5\right)=\;\_\_\;$; $\left(-1\right)\div\left(-5\ri
 
 (1) 原式 $=-100\div\left(-1\right)=100$.
 
-(2) 原式 $=\dfrac{9}{8}\times\left(-\dfrac{4}{9}\right)=-\dfrac{1}{2}$.
+(2) 原式 $=\frac{9}{8}\times\left(-\frac{4}{9}\right)=-\frac{1}{2}$.
 
 (3) 含乘数 $0$, 原式 $=0$.
 
@@ -316,21 +316,21 @@ $\left(-1\right)\times\left(-5\right)=\;\_\_\;$; $\left(-1\right)\div\left(-5\ri
 
 (习题 2.2 综合运用第 10 题) 计算:
 
-(1) $\dfrac{2}{3}\times\left(-5\right)-\left(-3\right)\div\dfrac{3}{128}$;
+(1) $\frac{2}{3}\times\left(-5\right)-\left(-3\right)\div\frac{3}{128}$;
 
 (2) $\left(-7\right)\times\left(-3\right)\times\left(-0.5\right)+\left(-12\right)\times\left(-2.6\right)$;
 
-(3) $\left(1\dfrac{3}{4}-\dfrac{7}{8}-\dfrac{7}{12}\right)\div\left(-\dfrac{7}{8}\right)+\left(-\dfrac{7}{8}\right)\div\left(1\dfrac{3}{4}-\dfrac{7}{8}-\dfrac{7}{12}\right)$.
+(3) $\left(1\frac{3}{4}-\frac{7}{8}-\frac{7}{12}\right)\div\left(-\frac{7}{8}\right)+\left(-\frac{7}{8}\right)\div\left(1\frac{3}{4}-\frac{7}{8}-\frac{7}{12}\right)$.
 
 ### 解答 习题十
 
 由**定义 2.2.7** (有理数除法法则) 与**定义 2.2.1** (有理数乘法法则).
 
-(1) 原式 $=-\dfrac{10}{3}+3\times\dfrac{128}{3}=-\dfrac{10}{3}+128=\dfrac{374}{3}$.
+(1) 原式 $=-\frac{10}{3}+3\times\frac{128}{3}=-\frac{10}{3}+128=\frac{374}{3}$.
 
 (2) 原式 $=-10.5+31.2=20.7$.
 
-(3) 记 $A=1\dfrac{3}{4}-\dfrac{7}{8}-\dfrac{7}{12}=\dfrac{7}{4}-\dfrac{7}{8}-\dfrac{7}{12}=\dfrac{7}{24}$. 则 $A\div\left(-\dfrac{7}{8}\right)=\dfrac{7}{24}\times\left(-\dfrac{8}{7}\right)=-\dfrac{1}{3}$, $\left(-\dfrac{7}{8}\right)\div A=\left(-\dfrac{7}{8}\right)\times\dfrac{24}{7}=-3$. 故原式 $=-\dfrac{1}{3}+\left(-3\right)=-\dfrac{10}{3}$. $\blacksquare$
+(3) 记 $A=1\frac{3}{4}-\frac{7}{8}-\frac{7}{12}=\frac{7}{4}-\frac{7}{8}-\frac{7}{12}=\frac{7}{24}$. 则 $A\div\left(-\frac{7}{8}\right)=\frac{7}{24}\times\left(-\frac{8}{7}\right)=-\frac{1}{3}$, $\left(-\frac{7}{8}\right)\div A=\left(-\frac{7}{8}\right)\times\frac{24}{7}=-3$. 故原式 $=-\frac{1}{3}+\left(-3\right)=-\frac{10}{3}$. $\blacksquare$
 
 ### 习题十一
 
@@ -366,13 +366,13 @@ $$450+4\times 60-5\times 120=450+240-600=90.$$
 
 ### 习题十三
 
-(习题 2.2 拓广探索第 14 题) 计算 $2\times 1$, $2\times\dfrac{1}{2}$, $2\times\left(-1\right)$, $2\times\left(-\dfrac{1}{2}\right)$. 联系这类具体的数的乘法, 你认为一个非零有理数一定小于它的 $2$ 倍吗? 为什么?
+(习题 2.2 拓广探索第 14 题) 计算 $2\times 1$, $2\times\frac{1}{2}$, $2\times\left(-1\right)$, $2\times\left(-\frac{1}{2}\right)$. 联系这类具体的数的乘法, 你认为一个非零有理数一定小于它的 $2$ 倍吗? 为什么?
 
 ### 解答 习题十三
 
 由**定义 2.2.1** (有理数乘法法则).
 
-$$2\times 1=2,\quad 2\times\dfrac{1}{2}=1,\quad 2\times\left(-1\right)=-2,\quad 2\times\left(-\dfrac{1}{2}\right)=-1.$$
+$$2\times 1=2,\quad 2\times\frac{1}{2}=1,\quad 2\times\left(-1\right)=-2,\quad 2\times\left(-\frac{1}{2}\right)=-1.$$
 
 一个非零有理数不一定小于它的 $2$ 倍. 当这个数为正数时, 它小于它的 $2$ 倍; 当这个数为负数时, 如 $-1<2$ 不成立, 因为 $2\times\left(-1\right)=-2<-1$, 即负数的 $2$ 倍比它本身小. $\blacksquare$
 
@@ -396,7 +396,7 @@ $$-2a+3a=\left(-2+3\right)a=a.$$
 
 (习题 2.2 拓广探索第 16 题) 计算 $\left(-4\right)\div 2$, $4\div\left(-2\right)$, $\left(-4\right)\div\left(-2\right)$. 联系这类具体的数的除法, 你认为下列式子是否成立 ($a$, $b$ 是有理数, 且 $b\ne 0$)? 从中可以总结出什么规律?
 
-$$\dfrac{-a}{b}=\dfrac{a}{-b}=-\dfrac{a}{b};\qquad \dfrac{-a}{-b}=\dfrac{a}{b}.$$
+$$\frac{-a}{b}=\frac{a}{-b}=-\frac{a}{b};\quad \frac{-a}{-b}=\frac{a}{b}.$$
 
 ### 解答 习题十五
 
@@ -404,7 +404,7 @@ $$\dfrac{-a}{b}=\dfrac{a}{-b}=-\dfrac{a}{b};\qquad \dfrac{-a}{-b}=\dfrac{a}{b}.$
 
 $$\left(-4\right)\div 2=-2,\quad 4\div\left(-2\right)=-2,\quad \left(-4\right)\div\left(-2\right)=2.$$
 
-由 $\left(-4\right)\div 2=4\div\left(-2\right)=-2$, 可知 $\dfrac{-a}{b}=\dfrac{a}{-b}=-\dfrac{a}{b}$ 成立; 由 $\left(-4\right)\div\left(-2\right)=2=4\div 2$, 可知 $\dfrac{-a}{-b}=\dfrac{a}{b}$ 成立. 规律: 分数的分子、分母、分数线三处符号, 任意改变其中两处, 分数的值不变. $\blacksquare$
+由 $\left(-4\right)\div 2=4\div\left(-2\right)=-2$, 可知 $\frac{-a}{b}=\frac{a}{-b}=-\frac{a}{b}$ 成立; 由 $\left(-4\right)\div\left(-2\right)=2=4\div 2$, 可知 $\frac{-a}{-b}=\frac{a}{b}$ 成立. 规律: 分数的分子、分母、分数线三处符号, 任意改变其中两处, 分数的值不变. $\blacksquare$
 
 ### 探究与发现一
 

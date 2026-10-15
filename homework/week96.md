@@ -4,7 +4,7 @@
 >
 > **法则 19.3.2** (混合运算) <br> 二次根式的加、减、乘、除、乘方混合运算，实数的运算顺序、运算律以及多项式乘法公式仍然适用。
 >
-> **结论 19.3.1** (海伦-秦九韶公式) <br> 若三角形三边长为 \(a,b,c\)，记 \(p=\dfrac{a+b+c}{2}\)，则三角形面积 \(S=\sqrt{p(p-a)(p-b)(p-c)}\)。
+> **结论 19.3.1** (海伦-秦九韶公式) <br> 若三角形三边长为 \(a,b,c\)，记 \(p=\frac{a+b+c}{2}\)，则三角形面积 \(S=\sqrt{p(p-a)(p-b)(p-c)}\)。
 
 ### 练习一
 
@@ -28,17 +28,17 @@
 
 计算：
 
-(1) \(2\sqrt{7}-6\sqrt{7}\)；　(2) \(\sqrt{12}+\sqrt{27}-3\sqrt{\dfrac{1}{3}}\)；　(3) \(\sqrt{18}+(\sqrt{98}-\sqrt{27})\)；　(4) \(\left(\sqrt{24}+\sqrt{0.5}\right)-\left(\sqrt{\dfrac{1}{8}}-\sqrt{6}\right)\)。
+(1) \(2\sqrt{7}-6\sqrt{7}\)；　(2) \(\sqrt{12}+\sqrt{27}-3\sqrt{\frac{1}{3}}\)；　(3) \(\sqrt{18}+(\sqrt{98}-\sqrt{27})\)；　(4) \(\left(\sqrt{24}+\sqrt{0.5}\right)-\left(\sqrt{\frac{1}{8}}-\sqrt{6}\right)\)。
 
 由**法则 19.3.1** 先化简再合并。
 
 (1) \(2\sqrt{7}-6\sqrt{7}=(2-6)\sqrt{7}=-4\sqrt{7}\)。
 
-(2) \(\sqrt{12}+\sqrt{27}-3\sqrt{\dfrac{1}{3}}=2\sqrt{3}+3\sqrt{3}-\sqrt{3}=4\sqrt{3}\)。
+(2) \(\sqrt{12}+\sqrt{27}-3\sqrt{\frac{1}{3}}=2\sqrt{3}+3\sqrt{3}-\sqrt{3}=4\sqrt{3}\)。
 
 (3) \(\sqrt{18}+(\sqrt{98}-\sqrt{27})=3\sqrt{2}+7\sqrt{2}-3\sqrt{3}=10\sqrt{2}-3\sqrt{3}\)。
 
-(4) \(\left(\sqrt{24}+\sqrt{0.5}\right)-\left(\sqrt{\dfrac{1}{8}}-\sqrt{6}\right)=2\sqrt{6}+\dfrac{\sqrt{2}}{2}-\dfrac{\sqrt{2}}{4}+\sqrt{6}=3\sqrt{6}+\dfrac{\sqrt{2}}{4}\)。
+(4) \(\left(\sqrt{24}+\sqrt{0.5}\right)-\left(\sqrt{\frac{1}{8}}-\sqrt{6}\right)=2\sqrt{6}+\frac{\sqrt{2}}{2}-\frac{\sqrt{2}}{4}+\sqrt{6}=3\sqrt{6}+\frac{\sqrt{2}}{4}\)。
 
 \(\blacksquare\)
 
@@ -104,15 +104,15 @@ $$
 
 计算：
 
-(1) \(2\sqrt{12}+\sqrt{27}\)；　(2) \(\sqrt{18}-\sqrt{\dfrac{9}{2}}\)；　(3) \(\dfrac{2}{3}\sqrt{9x}+6x\sqrt{\dfrac{4}{x}}\)；　(4) \(a^{2}\sqrt{8a}+3a\sqrt{50a^{3}}\)。
+(1) \(2\sqrt{12}+\sqrt{27}\)；　(2) \(\sqrt{18}-\sqrt{\frac{9}{2}}\)；　(3) \(\frac{2}{3}\sqrt{9x}+6x\sqrt{\frac{4}{x}}\)；　(4) \(a^{2}\sqrt{8a}+3a\sqrt{50a^{3}}\)。
 
 由**法则 19.3.1**。
 
 (1) \(2\sqrt{12}+\sqrt{27}=4\sqrt{3}+3\sqrt{3}=7\sqrt{3}\)。
 
-(2) \(\sqrt{18}-\sqrt{\dfrac{9}{2}}=3\sqrt{2}-\dfrac{3\sqrt{2}}{2}=\dfrac{3\sqrt{2}}{2}\)。
+(2) \(\sqrt{18}-\sqrt{\frac{9}{2}}=3\sqrt{2}-\frac{3\sqrt{2}}{2}=\frac{3\sqrt{2}}{2}\)。
 
-(3) \(\dfrac{2}{3}\sqrt{9x}+6x\sqrt{\dfrac{4}{x}}=2\sqrt{x}+12\sqrt{x}=14\sqrt{x}\)。
+(3) \(\frac{2}{3}\sqrt{9x}+6x\sqrt{\frac{4}{x}}=2\sqrt{x}+12\sqrt{x}=14\sqrt{x}\)。
 
 (4) \(a^{2}\sqrt{8a}+3a\sqrt{50a^{3}}=2a^{2}\sqrt{2a}+15a^{2}\sqrt{2a}=17a^{2}\sqrt{2a}\)。
 
@@ -122,7 +122,7 @@ $$
 
 计算：
 
-(1) \(\sqrt{18}-\sqrt{32}+\sqrt{2}\)；　(2) \(\sqrt{75}-\sqrt{54}+\sqrt{96}-\sqrt{108}\)；　(3) \((\sqrt{45}+\sqrt{18})-(\sqrt{8}-\sqrt{125})\)；　(4) \(\dfrac{1}{2}(\sqrt{2}+\sqrt{3})-\dfrac{3}{4}(\sqrt{2}+\sqrt{27})\)。
+(1) \(\sqrt{18}-\sqrt{32}+\sqrt{2}\)；　(2) \(\sqrt{75}-\sqrt{54}+\sqrt{96}-\sqrt{108}\)；　(3) \((\sqrt{45}+\sqrt{18})-(\sqrt{8}-\sqrt{125})\)；　(4) \(\frac{1}{2}(\sqrt{2}+\sqrt{3})-\frac{3}{4}(\sqrt{2}+\sqrt{27})\)。
 
 由**法则 19.3.1**。
 
@@ -132,7 +132,7 @@ $$
 
 (3) \((\sqrt{45}+\sqrt{18})-(\sqrt{8}-\sqrt{125})=3\sqrt{5}+3\sqrt{2}-2\sqrt{2}+5\sqrt{5}=8\sqrt{5}+\sqrt{2}\)。
 
-(4) \(\dfrac{1}{2}(\sqrt{2}+\sqrt{3})-\dfrac{3}{4}(\sqrt{2}+\sqrt{27})=\dfrac{\sqrt{2}}{2}+\dfrac{\sqrt{3}}{2}-\dfrac{3\sqrt{2}}{4}-\dfrac{9\sqrt{3}}{4}=-\dfrac{\sqrt{2}}{4}-\dfrac{7\sqrt{3}}{4}\)。
+(4) \(\frac{1}{2}(\sqrt{2}+\sqrt{3})-\frac{3}{4}(\sqrt{2}+\sqrt{27})=\frac{\sqrt{2}}{2}+\frac{\sqrt{3}}{2}-\frac{3\sqrt{2}}{4}-\frac{9\sqrt{3}}{4}=-\frac{\sqrt{2}}{4}-\frac{7\sqrt{3}}{4}\)。
 
 \(\blacksquare\)
 
@@ -140,7 +140,7 @@ $$
 
 计算：
 
-(1) \((\sqrt{12}+5\sqrt{8})\times\sqrt{3}\)；　(2) \((2\sqrt{3}+3\sqrt{2})(2\sqrt{3}-3\sqrt{2})\)；　(3) \((5\sqrt{3}+2\sqrt{5})^{2}\)；　(4) \(\left(\sqrt{48}+\dfrac{1}{4}\sqrt{6}\right)\div\sqrt{27}\)。
+(1) \((\sqrt{12}+5\sqrt{8})\times\sqrt{3}\)；　(2) \((2\sqrt{3}+3\sqrt{2})(2\sqrt{3}-3\sqrt{2})\)；　(3) \((5\sqrt{3}+2\sqrt{5})^{2}\)；　(4) \(\left(\sqrt{48}+\frac{1}{4}\sqrt{6}\right)\div\sqrt{27}\)。
 
 由**法则 19.3.2**。
 
@@ -150,7 +150,7 @@ $$
 
 (3) \((5\sqrt{3}+2\sqrt{5})^{2}=75+20\sqrt{15}+20=95+20\sqrt{15}\)。
 
-(4) \(\left(\sqrt{48}+\dfrac{1}{4}\sqrt{6}\right)\div\sqrt{27}=\dfrac{4\sqrt{3}}{3\sqrt{3}}+\dfrac{\sqrt{6}}{4\cdot 3\sqrt{3}}=\dfrac{4}{3}+\dfrac{\sqrt{2}}{12}\)。
+(4) \(\left(\sqrt{48}+\frac{1}{4}\sqrt{6}\right)\div\sqrt{27}=\frac{4\sqrt{3}}{3\sqrt{3}}+\frac{\sqrt{6}}{4\cdot 3\sqrt{3}}=\frac{4}{3}+\frac{\sqrt{2}}{12}\)。
 
 \(\blacksquare\)
 
@@ -158,7 +158,7 @@ $$
 
 (习题 19.3 综合运用第 4 题)
 
-已知 \(\sqrt{5}\approx 2.236\)，求 \(\dfrac{1}{5}\sqrt{5}-\dfrac{5}{4}\sqrt{\dfrac{4}{5}}+\sqrt{45}\) 的近似值（结果保留小数点后两位）。
+已知 \(\sqrt{5}\approx 2.236\)，求 \(\frac{1}{5}\sqrt{5}-\frac{5}{4}\sqrt{\frac{4}{5}}+\sqrt{45}\) 的近似值（结果保留小数点后两位）。
 
 先化简：
 
@@ -166,7 +166,7 @@ $$
 \frac{1}{5}\sqrt{5}-\frac{5}{4}\sqrt{\frac{4}{5}}+\sqrt{45}=\frac{\sqrt{5}}{5}-\frac{5}{4}\cdot\frac{2}{\sqrt{5}}+3\sqrt{5}.
 $$
 
-由分母有理化 \(\dfrac{2}{\sqrt{5}}=\dfrac{2\sqrt{5}}{5}\)，得
+由分母有理化 \(\frac{2}{\sqrt{5}}=\frac{2\sqrt{5}}{5}\)，得
 
 $$
 \text{原式}=\frac{\sqrt{5}}{5}-\frac{\sqrt{5}}{2}+3\sqrt{5}=\sqrt{5}\left(\frac{1}{5}-\frac{1}{2}+3\right)=\frac{27}{10}\sqrt{5}.
@@ -218,7 +218,7 @@ $$
 
 (习题 19.3 综合运用第 7 题)
 
-已知 \(a+\dfrac{1}{a}=\sqrt{10}\)，求 \(a-\dfrac{1}{a}\) 的值。
+已知 \(a+\frac{1}{a}=\sqrt{10}\)，求 \(a-\frac{1}{a}\) 的值。
 
 由完全平方公式，
 
@@ -226,7 +226,7 @@ $$
 \left(a+\frac{1}{a}\right)^{2}=a^{2}+2+\frac{1}{a^{2}}=10,
 $$
 
-故 \(a^{2}+\dfrac{1}{a^{2}}=8\)。
+故 \(a^{2}+\frac{1}{a^{2}}=8\)。
 
 同理，
 
@@ -234,7 +234,7 @@ $$
 \left(a-\frac{1}{a}\right)^{2}=a^{2}-2+\frac{1}{a^{2}}=8-2=6.
 $$
 
-故 \(a-\dfrac{1}{a}=\pm\sqrt{6}\)。
+故 \(a-\frac{1}{a}=\pm\sqrt{6}\)。
 
 \(\blacksquare\)
 
@@ -262,7 +262,7 @@ $$
 
 若一个三角形的三边长分别为 \(a=7,\ b=8,\ c=9\)，利用**结论 19.3.1** (海伦-秦九韶公式) 求这个三角形的面积。
 
-记半周长 \(p=\dfrac{a+b+c}{2}=\dfrac{7+8+9}{2}=12\)。
+记半周长 \(p=\frac{a+b+c}{2}=\frac{7+8+9}{2}=12\)。
 
 由**结论 19.3.1**，
 

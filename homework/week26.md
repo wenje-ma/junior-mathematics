@@ -102,9 +102,9 @@ $\blacksquare$
 
 由**定义 6.3.4** (角平分线).
 
-$OC$ 平分 $\angle AOB$, 故 $\angle BOC=\dfrac{1}{2}\angle AOB=60^{\circ}$.
+$OC$ 平分 $\angle AOB$, 故 $\angle BOC=\frac{1}{2}\angle AOB=60^{\circ}$.
 
-$OD$ 平分 $\angle BOC$, 故 $\angle COD=\dfrac{1}{2}\angle BOC=30^{\circ}$.
+$OD$ 平分 $\angle BOC$, 故 $\angle COD=\frac{1}{2}\angle BOC=30^{\circ}$.
 
 $$\angle AOD=\angle AOC+\angle COD=60^{\circ}+30^{\circ}=90^{\circ}.$$
 
@@ -122,9 +122,9 @@ $\blacksquare$
 
 $$\angle AOC=\angle AOB+\angle BOC=60^{\circ}+40^{\circ}=100^{\circ}.$$
 
-$OM$ 平分 $\angle AOC$, 故 $\angle MOC=\dfrac{1}{2}\angle AOC=50^{\circ}$.
+$OM$ 平分 $\angle AOC$, 故 $\angle MOC=\frac{1}{2}\angle AOC=50^{\circ}$.
 
-$ON$ 平分 $\angle BOC$, 故 $\angle NOC=\dfrac{1}{2}\angle BOC=20^{\circ}$.
+$ON$ 平分 $\angle BOC$, 故 $\angle NOC=\frac{1}{2}\angle BOC=20^{\circ}$.
 
 $$\angle MON=\angle MOC-\angle NOC=50^{\circ}-20^{\circ}=30^{\circ}.$$
 
@@ -150,7 +150,7 @@ $\blacksquare$
 
 ### 练习九
 
-(练习 6.3 第 2 题) 一个角的余角比它的补角的 $\dfrac{1}{3}$ 还少 $20^{\circ}$, 求这个角的度数.
+(练习 6.3 第 2 题) 一个角的余角比它的补角的 $\frac{1}{3}$ 还少 $20^{\circ}$, 求这个角的度数.
 
 ### 解答 练习九
 
@@ -160,7 +160,7 @@ $\blacksquare$
 
 $$90-x=\frac{1}{3}(180-x)-20.$$
 
-化简: $90-x=60-\dfrac{x}{3}-20$. $90-x=40-\dfrac{x}{3}$. $50=\dfrac{2x}{3}$. $x=75$. 故这个角为 $75^{\circ}$. $\blacksquare$
+化简: $90-x=60-\frac{x}{3}-20$. $90-x=40-\frac{x}{3}$. $50=\frac{2x}{3}$. $x=75$. 故这个角为 $75^{\circ}$. $\blacksquare$
 
 ### 练习十
 
@@ -172,9 +172,9 @@ $$90-x=\frac{1}{3}(180-x)-20.$$
 
 $O$ 在直线 $AB$ 上, 故 $\angle AOC+\angle BOC=180^{\circ}$.
 
-$OD$ 平分 $\angle AOC$, 故 $\angle DOC=\dfrac{1}{2}\angle AOC$.
+$OD$ 平分 $\angle AOC$, 故 $\angle DOC=\frac{1}{2}\angle AOC$.
 
-$OE$ 平分 $\angle BOC$, 故 $\angle COE=\dfrac{1}{2}\angle BOC$.
+$OE$ 平分 $\angle BOC$, 故 $\angle COE=\frac{1}{2}\angle BOC$.
 
 $$\angle DOE=\angle DOC+\angle COE=\frac{1}{2}(\angle AOC+\angle BOC)=\frac{1}{2}\times180^{\circ}=90^{\circ}.$$
 
@@ -230,9 +230,9 @@ $$180-x=4(90-x).$$
 
 由**定义 6.3.2** (角的度量), 按 $60$ 进制换算.
 
-(1) $30'=\dfrac{30}{60}^{\circ}=0.5^{\circ}$. 故 $50^{\circ}30'=50.5^{\circ}$.
+(1) $30'=\frac{30}{60}^{\circ}=0.5^{\circ}$. 故 $50^{\circ}30'=50.5^{\circ}$.
 
-(2) $10'=\dfrac{10}{60}^{\circ}\approx0.167^{\circ}$. 故 $120^{\circ}10'\approx120.167^{\circ}$. $\blacksquare$
+(2) $10'=\frac{10}{60}^{\circ}\approx0.167^{\circ}$. 故 $120^{\circ}10'\approx120.167^{\circ}$. $\blacksquare$
 
 ### 习题四
 
@@ -328,7 +328,7 @@ $$\angle BOD=\angle BOC+\angle COD=40^{\circ}+30^{\circ}=70^{\circ}.$$
 
 $$\angle AOC=\angle AOE-\angle COE=140^{\circ}-60^{\circ}=80^{\circ}.$$
 
-$OB$ 平分 $\angle AOC$, 故 $\angle AOB=\dfrac{1}{2}\angle AOC=40^{\circ}$. $\blacksquare$
+$OB$ 平分 $\angle AOC$, 故 $\angle AOB=\frac{1}{2}\angle AOC=40^{\circ}$. $\blacksquare$
 
 ### 习题十一
 
@@ -344,9 +344,9 @@ $OB$ 平分 $\angle AOC$, 故 $\angle AOB=\dfrac{1}{2}\angle AOC=40^{\circ}$. $\
 
 (1) $\angle AOC=\angle AOB+\angle BOC=90^{\circ}+60^{\circ}=150^{\circ}$.
 
-$OM$ 平分 $\angle AOC$, 故 $\angle MOC=\dfrac{1}{2}\angle AOC=75^{\circ}$.
+$OM$ 平分 $\angle AOC$, 故 $\angle MOC=\frac{1}{2}\angle AOC=75^{\circ}$.
 
-$ON$ 平分 $\angle BOC$, 故 $\angle NOC=\dfrac{1}{2}\angle BOC=30^{\circ}$.
+$ON$ 平分 $\angle BOC$, 故 $\angle NOC=\frac{1}{2}\angle BOC=30^{\circ}$.
 
 $$\angle MON=\angle MOC-\angle NOC=75^{\circ}-30^{\circ}=45^{\circ}.$$
 

@@ -10,7 +10,7 @@
 
 ### 解答 活动一
 
-设 $A0$ 纸长为 $x$, 宽为 $y$. 沿长边对折后, 新纸 ($A1$) 的长为 $y$, 宽为 $\dfrac{x}{2}$. 各号纸形状相同 (长宽比不变), 故对折前后长宽比相等:
+设 $A0$ 纸长为 $x$, 宽为 $y$. 沿长边对折后, 新纸 ($A1$) 的长为 $y$, 宽为 $\frac{x}{2}$. 各号纸形状相同 (长宽比不变), 故对折前后长宽比相等:
 
 $$
 \frac{x}{y}=\frac{y}{x/2}=\frac{2y}{x}.
@@ -19,7 +19,7 @@ $$
 于是 $x^2=2y^2$, 即 $x=\sqrt 2\,y$. 又 $A0$ 面积 $xy=1$, 代入得
 
 $$
-\sqrt 2\,y^2=1,\qquad y^2=\frac{1}{\sqrt 2},\qquad y=\sqrt{\frac{1}{\sqrt 2}}=2^{-\frac14}.
+\sqrt 2\,y^2=1,\quad y^2=\frac{1}{\sqrt 2},\quad y=\sqrt{\frac{1}{\sqrt 2}}=2^{-\frac14}.
 $$
 
 由 $2^{-\frac14}\approx 0.8409\,\text{m}=841\,\text{mm}$, $x=\sqrt 2\,y\approx 1.1892\,\text{m}=1189\,\text{mm}$.

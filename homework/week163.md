@@ -1,6 +1,6 @@
 ﻿# 作业 163
 
-> **定义 27.2.1** (相似三角形) <br>在 $\triangle ABC$ 和 $\triangle A'B'C'$ 中，如果 $\angle A=\angle A'$，$\angle B=\angle B'$，$\angle C=\angle C'$，且 $\dfrac{AB}{A'B'}=\dfrac{BC}{B'C'}=\dfrac{AC}{A'C'}=k$，则 $\triangle ABC\backsim\triangle A'B'C'$。
+> **定义 27.2.1** (相似三角形) <br>在 $\triangle ABC$ 和 $\triangle A'B'C'$ 中，如果 $\angle A=\angle A'$，$\angle B=\angle B'$，$\angle C=\angle C'$，且 $\frac{AB}{A'B'}=\frac{BC}{B'C'}=\frac{AC}{A'C'}=k$，则 $\triangle ABC\backsim\triangle A'B'C'$。
 
 > **基本事实 27.2.1** (平行线分线段成比例) <br>两条直线被一组平行线所截，所得的对应线段成比例。
 
@@ -20,14 +20,14 @@
 
 ### 练习一
 
-(练习 27.2 第 1 题) 如图，$AB\parallel CD\parallel EF$，$AF$ 与 $BE$ 相交于点 $G$，且 $AG=2$，$GD=1$，$DF=5$，求 $\dfrac{BC}{CE}$ 的值。
+(练习 27.2 第 1 题) 如图，$AB\parallel CD\parallel EF$，$AF$ 与 $BE$ 相交于点 $G$，且 $AG=2$，$GD=1$，$DF=5$，求 $\frac{BC}{CE}$ 的值。
 
 ### 解答 练习一
 
 由**基本事实 27.2.1** (平行线分线段成比例)，三条平行线截两条直线，对应线段成比例。
 
 $$
-\dfrac{BC}{CE}=\dfrac{AD}{DF}=\dfrac{AG+GD}{DF}=\dfrac{2+1}{5}=\dfrac{3}{5}.\ \blacksquare
+\frac{BC}{CE}=\frac{AD}{DF}=\frac{AG+GD}{DF}=\frac{2+1}{5}=\frac{3}{5}.\ \blacksquare
 $$
 
 ### 练习二
@@ -38,7 +38,7 @@ $$
 
 由**定理 27.2.1** (预备定理)，$DE\parallel BC$，故 $\triangle ADE\backsim\triangle ABC$。
 
-相似比为 $\dfrac{AD}{AB}=\dfrac{AD}{AD+DB}=\dfrac{3}{3+2}=\dfrac{3}{5}$。 $\blacksquare$
+相似比为 $\frac{AD}{AB}=\frac{AD}{AD+DB}=\frac{3}{3+2}=\frac{3}{5}$。 $\blacksquare$
 
 ### 练习三
 
@@ -53,7 +53,7 @@ $$
 (1) $\angle A=\angle A'=40^\circ$，且
 
 $$
-\dfrac{AB}{A'B'}=\dfrac{8}{16}=\dfrac{1}{2},\qquad\dfrac{AC}{A'C'}=\dfrac{15}{30}=\dfrac{1}{2}.
+\frac{AB}{A'B'}=\frac{8}{16}=\frac{1}{2},\quad\frac{AC}{A'C'}=\frac{15}{30}=\frac{1}{2}.
 $$
 
 两边成比例且夹角相等，由**判定定理 27.2.3** (SAS)，$\triangle ABC\backsim\triangle A'B'C'$。
@@ -61,9 +61,9 @@ $$
 (2)
 
 $$
-\dfrac{AB}{A'B'}=\dfrac{10}{16}=\dfrac{5}{8},\quad
-\dfrac{BC}{B'C'}=\dfrac{8}{12.8}=\dfrac{5}{8},\quad
-\dfrac{AC}{A'C'}=\dfrac{16}{25.6}=\dfrac{5}{8}.
+\frac{AB}{A'B'}=\frac{10}{16}=\frac{5}{8},\quad
+\frac{BC}{B'C'}=\frac{8}{12.8}=\frac{5}{8},\quad
+\frac{AC}{A'C'}=\frac{16}{25.6}=\frac{5}{8}.
 $$
 
 三边成比例，由**判定定理 27.2.2** (SSS)，$\triangle ABC\backsim\triangle A'B'C'$。 $\blacksquare$
@@ -74,9 +74,9 @@ $$
 
 ### 解答 练习四
 
-第一组：$\dfrac{15}{27}=\dfrac{5}{9}$，$\dfrac{20}{36}=\dfrac{5}{9}$，$\dfrac{25}{45}=\dfrac{5}{9}$，三边成比例，由**判定定理 27.2.2** (SSS)，相似。
+第一组：$\frac{15}{27}=\frac{5}{9}$，$\frac{20}{36}=\frac{5}{9}$，$\frac{25}{45}=\frac{5}{9}$，三边成比例，由**判定定理 27.2.2** (SSS)，相似。
 
-第二组：$\angle ACB=\angle DCE$ (对顶角)，且 $\dfrac{BC}{CE}=\dfrac{54}{36}=\dfrac{3}{2}$，$\dfrac{AC}{CD}=\dfrac{45}{30}=\dfrac{3}{2}$，两边成比例且夹角相等，由**判定定理 27.2.3** (SAS)，相似。 $\blacksquare$
+第二组：$\angle ACB=\angle DCE$ (对顶角)，且 $\frac{BC}{CE}=\frac{54}{36}=\frac{3}{2}$，$\frac{AC}{CD}=\frac{45}{30}=\frac{3}{2}$，两边成比例且夹角相等，由**判定定理 27.2.3** (SAS)，相似。 $\blacksquare$
 
 ### 练习五
 
@@ -86,11 +86,11 @@ $$
 
 由**判定定理 27.2.2** (SSS)，两个三角形三边对应成比例则相似。边长 $2\ \text{cm}$ 可分别对应原三角形的三条边。
 
-方案一：$2$ 对应 $4$，相似比 $\dfrac{1}{2}$，另两边为 $2.5\ \text{cm}$，$3\ \text{cm}$。
+方案一：$2$ 对应 $4$，相似比 $\frac{1}{2}$，另两边为 $2.5\ \text{cm}$，$3\ \text{cm}$。
 
-方案二：$2$ 对应 $5$，相似比 $\dfrac{2}{5}$，另两边为 $\dfrac{8}{5}\ \text{cm}$，$\dfrac{12}{5}\ \text{cm}$。
+方案二：$2$ 对应 $5$，相似比 $\frac{2}{5}$，另两边为 $\frac{8}{5}\ \text{cm}$，$\frac{12}{5}\ \text{cm}$。
 
-方案三：$2$ 对应 $6$，相似比 $\dfrac{1}{3}$，另两边为 $\dfrac{4}{3}\ \text{cm}$，$\dfrac{5}{3}\ \text{cm}$。
+方案三：$2$ 对应 $6$，相似比 $\frac{1}{3}$，另两边为 $\frac{4}{3}\ \text{cm}$，$\frac{5}{3}\ \text{cm}$。
 
 共三种方案。 $\blacksquare$
 
@@ -104,7 +104,7 @@ $$
 
 底角相等的两个等腰三角形，底角都为 $\alpha$，顶角都为 $180^\circ-2\alpha$，三角对应相等，由**判定定理 27.2.4** (AA)，相似。
 
-顶角相等的两个等腰三角形，设顶角为 $\beta$，则底角都为 $\dfrac{180^\circ-\beta}{2}$，三角对应相等，由 AA，相似。 $\blacksquare$
+顶角相等的两个等腰三角形，设顶角为 $\beta$，则底角都为 $\frac{180^\circ-\beta}{2}$，三角对应相等，由 AA，相似。 $\blacksquare$
 
 ### 练习七
 
@@ -125,7 +125,7 @@ $$
 两个直角三角形直角相等，且
 
 $$
-\dfrac{3}{3k}=\dfrac{1}{k},\qquad\dfrac{4}{4k}=\dfrac{1}{k}.
+\frac{3}{3k}=\frac{1}{k},\quad\frac{4}{4k}=\frac{1}{k}.
 $$
 
 两组直角边成比例，夹角均为 $90^\circ$，由**判定定理 27.2.3** (SAS)，一定相似。 $\blacksquare$
@@ -144,7 +144,7 @@ $$
 
 ### 练习十
 
-(练习 27.2 第 2 题) 如图，$\triangle ABC$ 与 $\triangle A'B'C'$ 相似，$AD$，$BE$ 是 $\triangle ABC$ 的高，$A'D'$，$B'E'$ 是 $\triangle A'B'C'$ 的高，求证 $\dfrac{AD}{A'D'}=\dfrac{BE}{B'E'}$。
+(练习 27.2 第 2 题) 如图，$\triangle ABC$ 与 $\triangle A'B'C'$ 相似，$AD$，$BE$ 是 $\triangle ABC$ 的高，$A'D'$，$B'E'$ 是 $\triangle A'B'C'$ 的高，求证 $\frac{AD}{A'D'}=\frac{BE}{B'E'}$。
 
 ### 解答 练习十
 
@@ -153,10 +153,10 @@ $$
 $AD$ 与 $A'D'$ 是对应高，$BE$ 与 $B'E'$ 也是对应高，故
 
 $$
-\dfrac{AD}{A'D'}=k,\qquad\dfrac{BE}{B'E'}=k,
+\frac{AD}{A'D'}=k,\quad\frac{BE}{B'E'}=k,
 $$
 
-因此 $\dfrac{AD}{A'D'}=\dfrac{BE}{B'E'}$。 $\blacksquare$
+因此 $\frac{AD}{A'D'}=\frac{BE}{B'E'}$。 $\blacksquare$
 
 ### 练习十一
 
@@ -177,11 +177,11 @@ $$
 同一时刻物高与影长成比例。设楼高为 $h$，则
 
 $$
-\dfrac{h}{90}=\dfrac{1.8}{3}.
+\frac{h}{90}=\frac{1.8}{3}.
 $$
 
 $$
-h=\dfrac{1.8\times90}{3}=54\ \text{m}.\ \blacksquare
+h=\frac{1.8\times90}{3}=54\ \text{m}.\ \blacksquare
 $$
 
 ### 练习十三
@@ -193,7 +193,7 @@ $$
 $AB\perp BC$，$EC\perp BC$，故 $\triangle ABD\backsim\triangle ECD$ (AA)。
 
 $$
-\dfrac{AB}{EC}=\dfrac{BD}{DC}=\dfrac{120}{60}=2.
+\frac{AB}{EC}=\frac{BD}{DC}=\frac{120}{60}=2.
 $$
 
 $$
@@ -220,7 +220,7 @@ $$
 
 ### 解答 习题二
 
-(1) $\dfrac{10}{150}=\dfrac{1}{15}$，$\dfrac{12}{180}=\dfrac{1}{15}$，$\dfrac{15}{225}=\dfrac{1}{15}$，三边成比例，由**判定定理 27.2.2** (SSS)，相似。
+(1) $\frac{10}{150}=\frac{1}{15}$，$\frac{12}{180}=\frac{1}{15}$，$\frac{15}{225}=\frac{1}{15}$，三边成比例，由**判定定理 27.2.2** (SSS)，相似。
 
 (2) $\angle C=180^\circ-70^\circ-48^\circ=62^\circ=\angle C'$，又 $\angle A=\angle A'=70^\circ$，两角分别相等，由**判定定理 27.2.4** (AA)，相似。 $\blacksquare$
 
@@ -258,13 +258,13 @@ $DE\parallel BC$，故 $\triangle ADE\backsim\triangle ABC$；$FG\parallel BC$�
 
 ### 习题六
 
-(习题 27.2 复习巩固第 6 题) 如果把两条直角边分别为 $30\ \text{cm}$，$40\ \text{cm}$ 的直角三角形按相似比 $\dfrac{3}{5}$ 进行缩小，得到的直角三角形的两条直角边的长和面积各是多少？
+(习题 27.2 复习巩固第 6 题) 如果把两条直角边分别为 $30\ \text{cm}$，$40\ \text{cm}$ 的直角三角形按相似比 $\frac{3}{5}$ 进行缩小，得到的直角三角形的两条直角边的长和面积各是多少？
 
 ### 解答 习题六
 
-缩小后两条直角边分别为 $30\times\dfrac{3}{5}=18\ \text{cm}$ 和 $40\times\dfrac{3}{5}=24\ \text{cm}$。
+缩小后两条直角边分别为 $30\times\frac{3}{5}=18\ \text{cm}$ 和 $40\times\frac{3}{5}=24\ \text{cm}$。
 
-面积为 $\dfrac{1}{2}\times18\times24=216\ \text{cm}^2$。 $\blacksquare$
+面积为 $\frac{1}{2}\times18\times24=216\ \text{cm}^2$。 $\blacksquare$
 
 ### 习题七
 
@@ -275,11 +275,11 @@ $DE\parallel BC$，故 $\triangle ADE\backsim\triangle ABC$；$FG\parallel BC$�
 在 $\text{Rt}\triangle ABC$ 中，$\angle BAC=90^\circ$，$AD\perp BC$。由**判定定理 27.2.4** (AA)，$\triangle ABD\backsim\triangle CBA$。
 
 $$
-\dfrac{AB}{BC}=\dfrac{BD}{AB}\Rightarrow AB^2=BD\cdot BC.
+\frac{AB}{BC}=\frac{BD}{AB}\Rightarrow AB^2=BD\cdot BC.
 $$
 
 $$
-BD=\dfrac{AB^2}{BC}=\dfrac{16}{10}=1.6\ \text{cm}.\ \blacksquare
+BD=\frac{AB^2}{BC}=\frac{16}{10}=1.6\ \text{cm}.\ \blacksquare
 $$
 
 ### 习题八
@@ -288,10 +288,10 @@ $$
 
 ### 解答 习题八
 
-$\angle AOB=\angle DOC$ (对顶角)，且 $\dfrac{OA}{OD}=3=\dfrac{OB}{OC}$，由**判定定理 27.2.3** (SAS)，$\triangle OAB\backsim\triangle ODC$。
+$\angle AOB=\angle DOC$ (对顶角)，且 $\frac{OA}{OD}=3=\frac{OB}{OC}$，由**判定定理 27.2.3** (SAS)，$\triangle OAB\backsim\triangle ODC$。
 
 $$
-\dfrac{AB}{CD}=\dfrac{OA}{OD}=3.
+\frac{AB}{CD}=\frac{OA}{OD}=3.
 $$
 
 故 $AB=3CD$。 $\blacksquare$
@@ -305,11 +305,11 @@ $$
 $BE\perp AC$，$CD\perp AC$，故 $BE\parallel CD$，$\triangle ABE\backsim\triangle ACD$ (AA)。
 
 $$
-\dfrac{BE}{CD}=\dfrac{AB}{AC}=\dfrac{1.6}{1.6+12.4}=\dfrac{1.6}{14}.
+\frac{BE}{CD}=\frac{AB}{AC}=\frac{1.6}{1.6+12.4}=\frac{1.6}{14}.
 $$
 
 $$
-CD=\dfrac{1.2\times14}{1.6}=10.5\ \text{m}.\ \blacksquare
+CD=\frac{1.2\times14}{1.6}=10.5\ \text{m}.\ \blacksquare
 $$
 
 ### 习题十
@@ -323,10 +323,10 @@ $$
 $\angle KLM=\angle TSM=90^\circ$，由**判定定理 27.2.4** (AA)，$\triangle KLM\backsim\triangle TSM$。
 
 $$
-\dfrac{KL}{TS}=\dfrac{LM}{SM}=\dfrac{0.3}{2}=\dfrac{3}{20}.
+\frac{KL}{TS}=\frac{LM}{SM}=\frac{0.3}{2}=\frac{3}{20}.
 $$
 
-$KL=1.50\ \text{m}$，故 $TS=1.50\times\dfrac{20}{3}=10\ \text{m}$。 $\blacksquare$
+$KL=1.50\ \text{m}$，故 $TS=1.50\times\frac{20}{3}=10\ \text{m}$。 $\blacksquare$
 
 ### 习题十一
 
@@ -338,7 +338,7 @@ $EF\parallel BC\parallel AD$，$FG\parallel CD\parallel AB$。
 
 在矩形 $ABCD$ 中，$\angle A=\angle B=\angle C=\angle D=90^\circ$。在四边形 $AEFG$ 中，$EF\parallel AG$，$FG\parallel AE$，故四个角也都为 $90^\circ$。
 
-又 $\triangle AEF\backsim\triangle ABC$，$\triangle AFG\backsim\triangle ACD$，对应边比均为 $\dfrac{AF}{AC}$。
+又 $\triangle AEF\backsim\triangle ABC$，$\triangle AFG\backsim\triangle ACD$，对应边比均为 $\frac{AF}{AC}$。
 
 故四边形 $AEFG$ 与 $ABCD$ 对应角相等、对应边成比例，由**定义 27.1.3**，一直保持相似。 $\blacksquare$
 
@@ -350,17 +350,17 @@ $EF\parallel BC\parallel AD$，$FG\parallel CD\parallel AB$。
 
 由**定理 27.2.1**，$DE\parallel BC$，故 $\triangle ADE\backsim\triangle ABC$。
 
-由**性质 27.2.2**，$\dfrac{S_{\triangle ADE}}{S_{\triangle ABC}}=\left(\dfrac{AD}{AB}\right)^2=\dfrac{1}{2}$。
+由**性质 27.2.2**，$\frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\left(\frac{AD}{AB}\right)^2=\frac{1}{2}$。
 
-故 $\dfrac{AD}{AB}=\dfrac{1}{\sqrt{2}}=\dfrac{\sqrt{2}}{2}$，即 $D$ 在 $AB$ 上使 $AD:DB=\sqrt{2}:(2-\sqrt{2})$。 $\blacksquare$
+故 $\frac{AD}{AB}=\frac{1}{\sqrt{2}}=\frac{\sqrt{2}}{2}$，即 $D$ 在 $AB$ 上使 $AD:DB=\sqrt{2}:(2-\sqrt{2})$。 $\blacksquare$
 
 ### 习题十三
 
-(习题 27.2 拓广探索第 13 题) 如图，$\triangle ABC$ 中，$CD$ 是边 $AB$ 上的高，且 $\dfrac{AD}{CD}=\dfrac{CD}{BD}$，求 $\angle ACB$ 的大小。
+(习题 27.2 拓广探索第 13 题) 如图，$\triangle ABC$ 中，$CD$ 是边 $AB$ 上的高，且 $\frac{AD}{CD}=\frac{CD}{BD}$，求 $\angle ACB$ 的大小。
 
 ### 解答 习题十三
 
-$CD\perp AB$，故 $\angle ADC=\angle CDB=90^\circ$。又 $\dfrac{AD}{CD}=\dfrac{CD}{BD}$，两边成比例且夹角相等，由**判定定理 27.2.3** (SAS)，$\triangle ACD\backsim\triangle CBD$。
+$CD\perp AB$，故 $\angle ADC=\angle CDB=90^\circ$。又 $\frac{AD}{CD}=\frac{CD}{BD}$，两边成比例且夹角相等，由**判定定理 27.2.3** (SAS)，$\triangle ACD\backsim\triangle CBD$。
 
 故 $\angle ACD=\angle B$。
 
@@ -381,11 +381,11 @@ $x$ 秒时 $BD=2x$，$AD=AB-BD=8-2x$。
 由**定理 27.2.1**，$DE\parallel BC$，$\triangle ADE\backsim\triangle ABC$，故
 
 $$
-\dfrac{DE}{BC}=\dfrac{AD}{AB}=\dfrac{8-2x}{8}.
+\frac{DE}{BC}=\frac{AD}{AB}=\frac{8-2x}{8}.
 $$
 
 $$
-y=DE=9\cdot\dfrac{8-2x}{8}=9-\dfrac{9}{4}x.
+y=DE=9\cdot\frac{8-2x}{8}=9-\frac{9}{4}x.
 $$
 
 其中 $0\le x\le4$。图象为一条从 $(0,9)$ 到 $(4,0)$ 的线段。 $\blacksquare$

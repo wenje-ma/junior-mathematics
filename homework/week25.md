@@ -86,7 +86,7 @@ $\blacksquare$
 
 ### 解答 练习五
 
-由**定义 6.2.7** (线段的中点), $M$ 是 $AC$ 的中点, 故 $MC=\dfrac{1}{2}AC$; $N$ 是 $BC$ 的中点, 故 $CN=\dfrac{1}{2}BC$.
+由**定义 6.2.7** (线段的中点), $M$ 是 $AC$ 的中点, 故 $MC=\frac{1}{2}AC$; $N$ 是 $BC$ 的中点, 故 $CN=\frac{1}{2}BC$.
 
 $$MN=MC+CN=\frac{1}{2}AC+\frac{1}{2}BC=\frac{1}{2}(AC+BC)=\frac{1}{2}AB.$$
 
@@ -102,7 +102,7 @@ $$MN=MC+CN=\frac{1}{2}AC+\frac{1}{2}BC=\frac{1}{2}(AC+BC)=\frac{1}{2}AB.$$
 
 因 $CD=8$, 故 $4k=8$, $k=2$. 于是 $AD=2k+3k+4k=9k=18$.
 
-$M$ 是 $AD$ 的中点, 故 $MD=\dfrac{1}{2}AD=9$.
+$M$ 是 $AD$ 的中点, 故 $MD=\frac{1}{2}AD=9$.
 
 $$MC=MD-CD=9-8=1.$$
 
@@ -142,7 +142,7 @@ $\blacksquare$
 
 $$AC=AB+BC=4+3=7\ \text{cm}.$$
 
-$O$ 是 $AC$ 的中点, 故 $AO=\dfrac{1}{2}AC=3.5\ \text{cm}$.
+$O$ 是 $AC$ 的中点, 故 $AO=\frac{1}{2}AC=3.5\ \text{cm}$.
 
 $$OB=AB-AO=4-3.5=0.5\ \text{cm}.$$
 
@@ -172,7 +172,7 @@ $\blacksquare$
 
 $$AC=AB-BC=10-4=6\ \text{cm}.$$
 
-$D$ 是 $AC$ 的中点, 故 $AD=\dfrac{1}{2}AC=3\ \text{cm}$.
+$D$ 是 $AC$ 的中点, 故 $AD=\frac{1}{2}AC=3\ \text{cm}$.
 
 $$BD=AB-AD=10-3=7\ \text{cm}.$$
 
@@ -180,7 +180,7 @@ $\blacksquare$
 
 ### 习题五
 
-(习题 6.2 综合运用第 5 题) 如图, 线段 $AB=4\ \text{cm}$, 延长 $AB$ 到 $C$, 使 $BC=\dfrac{1}{2}AB$.
+(习题 6.2 综合运用第 5 题) 如图, 线段 $AB=4\ \text{cm}$, 延长 $AB$ 到 $C$, 使 $BC=\frac{1}{2}AB$.
 
 (1) 求 $AC$ 的长;
 
@@ -190,11 +190,11 @@ $\blacksquare$
 
 由**定义 6.2.7** (线段的中点).
 
-(1) $BC=\dfrac{1}{2}AB=\dfrac{1}{2}\times4=2\ \text{cm}$.
+(1) $BC=\frac{1}{2}AB=\frac{1}{2}\times4=2\ \text{cm}$.
 
 $$AC=AB+BC=4+2=6\ \text{cm}.$$
 
-(2) $M$ 是 $AC$ 的中点, 故 $AM=\dfrac{1}{2}AC=3\ \text{cm}$.
+(2) $M$ 是 $AC$ 的中点, 故 $AM=\frac{1}{2}AC=3\ \text{cm}$.
 
 $$BM=AB-AM=4-3=1\ \text{cm}.$$
 
@@ -228,7 +228,7 @@ $\blacksquare$
 
 由**定义 6.2.7** (线段的中点).
 
-(1) $M$ 是 $AC$ 的中点, 故 $MC=\dfrac{1}{2}AC=4\ \text{cm}$. $N$ 是 $BC$ 的中点, 故 $CN=\dfrac{1}{2}CB=3\ \text{cm}$.
+(1) $M$ 是 $AC$ 的中点, 故 $MC=\frac{1}{2}AC=4\ \text{cm}$. $N$ 是 $BC$ 的中点, 故 $CN=\frac{1}{2}CB=3\ \text{cm}$.
 
 $$MN=MC+CN=4+3=7\ \text{cm}.$$
 
@@ -236,7 +236,7 @@ $$MN=MC+CN=4+3=7\ \text{cm}.$$
 
 $$MN=\frac{1}{2}AC+\frac{1}{2}CB=\frac{1}{2}(AC+CB)=\frac{1}{2}a.$$
 
-故猜想 $MN=\dfrac{1}{2}a\ \text{cm}$. $\blacksquare$
+故猜想 $MN=\frac{1}{2}a\ \text{cm}$. $\blacksquare$
 
 ### 习题八
 
@@ -250,21 +250,21 @@ $$MN=\frac{1}{2}AC+\frac{1}{2}CB=\frac{1}{2}(AC+CB)=\frac{1}{2}a.$$
 
 由**定义 6.2.7** (线段的中点).
 
-(1) $M$ 是 $AC$ 的中点, $MC=\dfrac{1}{2}AC=4\ \text{cm}$. $N$ 是 $BC$ 的中点, $CN=\dfrac{1}{2}BC=3\ \text{cm}$. 因 $A$, $B$, $C$ 共线且 $B$ 在 $A$, $C$ 之间,
+(1) $M$ 是 $AC$ 的中点, $MC=\frac{1}{2}AC=4\ \text{cm}$. $N$ 是 $BC$ 的中点, $CN=\frac{1}{2}BC=3\ \text{cm}$. 因 $A$, $B$, $C$ 共线且 $B$ 在 $A$, $C$ 之间,
 
 $$MN=MC-CN=4-3=1\ \text{cm}.$$
 
-(2) 无论 $B$ 在 $A$, $C$ 之间还是 $C$ 在 $A$, $B$ 之间, $MN=\dfrac{1}{2}AB=\dfrac{1}{2}\times10=5\ \text{cm}$. $\blacksquare$
+(2) 无论 $B$ 在 $A$, $C$ 之间还是 $C$ 在 $A$, $B$ 之间, $MN=\frac{1}{2}AB=\frac{1}{2}\times10=5\ \text{cm}$. $\blacksquare$
 
 ### 习题九
 
-(习题 6.2 拓广探索第 9 题) 如图, 把线段 $AB$ 延长到 $C$, 使 $BC=\dfrac{1}{2}AB$, 再延长 $BA$ 到 $D$, 使 $AD=\dfrac{1}{2}AB$. 若 $DC=20\ \text{cm}$, 求 $AB$ 的长.
+(习题 6.2 拓广探索第 9 题) 如图, 把线段 $AB$ 延长到 $C$, 使 $BC=\frac{1}{2}AB$, 再延长 $BA$ 到 $D$, 使 $AD=\frac{1}{2}AB$. 若 $DC=20\ \text{cm}$, 求 $AB$ 的长.
 
 ### 解答 习题九
 
 由**定义 6.2.3** (线段).
 
-设 $AB=x$, 则 $BC=\dfrac{1}{2}x$, $AD=\dfrac{1}{2}x$.
+设 $AB=x$, 则 $BC=\frac{1}{2}x$, $AD=\frac{1}{2}x$.
 
 $$DC=AD+AB+BC=\frac{1}{2}x+x+\frac{1}{2}x=2x.$$
 
@@ -278,7 +278,7 @@ $$DC=AD+AB+BC=\frac{1}{2}x+x+\frac{1}{2}x=2x.$$
 
 由**定义 6.2.7** (线段的中点).
 
-$M$ 是 $AC$ 的中点, 故 $MC=\dfrac{1}{2}AC$. $N$ 是 $BC$ 的中点, 故 $NC=\dfrac{1}{2}BC$. 因 $C$ 在 $AB$ 的延长线上,
+$M$ 是 $AC$ 的中点, 故 $MC=\frac{1}{2}AC$. $N$ 是 $BC$ 的中点, 故 $NC=\frac{1}{2}BC$. 因 $C$ 在 $AB$ 的延长线上,
 
 $$MN=MC-NC=\frac{1}{2}AC-\frac{1}{2}BC=\frac{1}{2}(AC-BC)=\frac{1}{2}AB.$$
 

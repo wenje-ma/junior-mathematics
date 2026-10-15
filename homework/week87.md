@@ -1,8 +1,8 @@
 # 作业 87
 
-> **定义 18.1.1** (分式) <br>如果 $A,B$ 表示两个整式, 并且 $B$ 中含有字母, 那么式子 $\dfrac{A}{B}$ 叫作分式. 当 $B\ne0$ 时, 分式才有意义.
+> **定义 18.1.1** (分式) <br>如果 $A,B$ 表示两个整式, 并且 $B$ 中含有字母, 那么式子 $\frac{A}{B}$ 叫作分式. 当 $B\ne0$ 时, 分式才有意义.
 
-> **定义 18.1.2** (分式的基本性质) <br>分式的分子与分母乘 (或除以) 同一个不等于 $0$ 的整式, 分式的值不变, 即 $\dfrac{A}{B}=\dfrac{A\cdot C}{B\cdot C}=\dfrac{A\div C}{B\div C}$ ($C\ne0$).
+> **定义 18.1.2** (分式的基本性质) <br>分式的分子与分母乘 (或除以) 同一个不等于 $0$ 的整式, 分式的值不变, 即 $\frac{A}{B}=\frac{A\cdot C}{B\cdot C}=\frac{A\div C}{B\div C}$ ($C\ne0$).
 
 > **定义 18.1.3** (约分与最简分式) <br>根据分式的基本性质, 把一个分式的分子与分母的公因式约去, 叫作分式的约分. 分子与分母没有公因式的分式, 叫作最简分式.
 
@@ -20,35 +20,35 @@
 
 ### 解答 练习一
 
-(1) 人均耕地 $=\dfrac{40}{n}\ \text{hm}^2$.
+(1) 人均耕地 $=\frac{40}{n}\ \text{hm}^2$.
 
-(2) 由 $S=\frac12 a\cdot AD$, 得 $AD=\dfrac{2S}{a}$.
+(2) 由 $S=\frac12 a\cdot AD$, 得 $AD=\frac{2S}{a}$.
 
-(3) 汽车平均速度 $=\dfrac{s}{t}\ \text{km/h}$; 火车用时 $t-1\ \text{h}$, 平均速度 $=\dfrac{s}{t-1}\ \text{km/h}$. $\blacksquare$
+(3) 汽车平均速度 $=\frac{s}{t}\ \text{km/h}$; 火车用时 $t-1\ \text{h}$, 平均速度 $=\frac{s}{t-1}\ \text{km/h}$. $\blacksquare$
 
 ### 练习二
 
 (练习 18.1 第 2 题) 下列各式中, 哪些是分式? 哪些是整式?
 
-$\dfrac{1}{x}$, $\dfrac{x}{3}$, $\dfrac{1}{4}x^2 y$, $\dfrac{a^2 b}{c}$, $\dfrac{x^2-y^2}{\pi}$, $\dfrac{x}{4}+\dfrac{y}{5}$.
+$\frac{1}{x}$, $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{a^2 b}{c}$, $\frac{x^2-y^2}{\pi}$, $\frac{x}{4}+\frac{y}{5}$.
 
 ### 解答 练习二
 
 由**定义 18.1.1**, 分母中含有字母的是分式.
 
-分式: $\dfrac{1}{x}$, $\dfrac{a^2 b}{c}$.
+分式: $\frac{1}{x}$, $\frac{a^2 b}{c}$.
 
-整式: $\dfrac{x}{3}$, $\dfrac{1}{4}x^2 y$, $\dfrac{x^2-y^2}{\pi}$ ($\pi$ 是常数), $\dfrac{x}{4}+\dfrac{y}{5}$. $\blacksquare$
+整式: $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{x^2-y^2}{\pi}$ ($\pi$ 是常数), $\frac{x}{4}+\frac{y}{5}$. $\blacksquare$
 
 ### 练习三
 
 (练习 18.1 第 3 题) $x$ 满足什么条件时, 分式有意义?
 
-(1) $\dfrac{2}{3x}$;
+(1) $\frac{2}{3x}$;
 
-(2) $\dfrac{x}{x-1}$;
+(2) $\frac{x}{x-1}$;
 
-(3) $\dfrac{1}{5-3x}$.
+(3) $\frac{1}{5-3x}$.
 
 ### 解答 练习三
 
@@ -58,15 +58,15 @@ $\dfrac{1}{x}$, $\dfrac{x}{3}$, $\dfrac{1}{4}x^2 y$, $\dfrac{a^2 b}{c}$, $\dfrac
 
 (2) $x-1\ne0$, 即 $x\ne1$.
 
-(3) $5-3x\ne0$, 即 $x\ne\dfrac53$. $\blacksquare$
+(3) $5-3x\ne0$, 即 $x\ne\frac53$. $\blacksquare$
 
 ### 练习四
 
 (练习 18.1 第 4 题) $x$ 满足什么条件时, 分式的值为 $0$?
 
-(1) $\dfrac{x-1}{x}$;
+(1) $\frac{x-1}{x}$;
 
-(2) $\dfrac{x-2}{x-1}$.
+(2) $\frac{x-2}{x-1}$.
 
 ### 解答 练习四
 
@@ -92,13 +92,13 @@ $\dfrac{1}{x}$, $\dfrac{x}{3}$, $\dfrac{1}{4}x^2 y$, $\dfrac{a^2 b}{c}$, $\dfrac
 
 由**定义 18.1.3** (约分).
 
-(1) $\dfrac{2bc}{ac}=\dfrac{2b}{a}$.
+(1) $\frac{2bc}{ac}=\frac{2b}{a}$.
 
-(2) $\dfrac{(x+y)y}{xy^2}=\dfrac{x+y}{xy}$.
+(2) $\frac{(x+y)y}{xy^2}=\frac{x+y}{xy}$.
 
-(3) $\dfrac{x^2+xy}{(x+y)^2}=\dfrac{x(x+y)}{(x+y)^2}=\dfrac{x}{x+y}$.
+(3) $\frac{x^2+xy}{(x+y)^2}=\frac{x(x+y)}{(x+y)^2}=\frac{x}{x+y}$.
 
-(4) $\dfrac{x^2-y^2}{x-y}=\dfrac{(x+y)(x-y)}{x-y}=x+y$. $\blacksquare$
+(4) $\frac{x^2-y^2}{x-y}=\frac{(x+y)(x-y)}{x-y}=x+y$. $\blacksquare$
 
 ### 练习六
 
@@ -110,9 +110,9 @@ $\dfrac{1}{x}$, $\dfrac{x}{3}$, $\dfrac{1}{4}x^2 y$, $\dfrac{a^2 b}{c}$, $\dfrac
 
 ### 解答 练习六
 
-(1) $\dfrac{2a(a+b)}{3(a+b)}=\dfrac{2a}{3}$.
+(1) $\frac{2a(a+b)}{3(a+b)}=\frac{2a}{3}$.
 
-(2) $\dfrac{(x-y)^2}{y-x}=\dfrac{(x-y)^2}{-(x-y)}=-(x-y)=y-x$. $\blacksquare$
+(2) $\frac{(x-y)^2}{y-x}=\frac{(x-y)^2}{-(x-y)}=-(x-y)=y-x$. $\blacksquare$
 
 ### 练习七
 
@@ -130,13 +130,13 @@ $\dfrac{1}{x}$, $\dfrac{x}{3}$, $\dfrac{1}{4}x^2 y$, $\dfrac{a^2 b}{c}$, $\dfrac
 
 由**定义 18.1.4** (通分).
 
-(1) 最简公分母 $6x^2 y^2$: $\dfrac{z}{2x^2 y}=\dfrac{3yz}{6x^2 y^2}$, $\dfrac{5}{6xy^2}=\dfrac{5x}{6x^2 y^2}$.
+(1) 最简公分母 $6x^2 y^2$: $\frac{z}{2x^2 y}=\frac{3yz}{6x^2 y^2}$, $\frac{5}{6xy^2}=\frac{5x}{6x^2 y^2}$.
 
-(2) 最简公分母 $(x+y)(x-y)$: $\dfrac{x}{x+y}=\dfrac{x(x-y)}{(x+y)(x-y)}$, $\dfrac{y}{x-y}=\dfrac{y(x+y)}{(x+y)(x-y)}$.
+(2) 最简公分母 $(x+y)(x-y)$: $\frac{x}{x+y}=\frac{x(x-y)}{(x+y)(x-y)}$, $\frac{y}{x-y}=\frac{y(x+y)}{(x+y)(x-y)}$.
 
-(3) 最简公分母 $2a^2 b^2$: $\dfrac{3}{2a^2 b}=\dfrac{3b}{2a^2 b^2}$, $\dfrac{a-b}{2ab^2}=\dfrac{a(a-b)}{2a^2 b^2}$.
+(3) 最简公分母 $2a^2 b^2$: $\frac{3}{2a^2 b}=\frac{3b}{2a^2 b^2}$, $\frac{a-b}{2ab^2}=\frac{a(a-b)}{2a^2 b^2}$.
 
-(4) $a^2-2a+1=(a-1)^2$, $a^2-1=(a-1)(a+1)$, 最简公分母 $(a-1)^2(a+1)$: $\dfrac{1}{(a-1)^2}=\dfrac{a+1}{(a-1)^2(a+1)}$, $\dfrac{1}{(a-1)(a+1)}=\dfrac{a-1}{(a-1)^2(a+1)}$. $\blacksquare$
+(4) $a^2-2a+1=(a-1)^2$, $a^2-1=(a-1)(a+1)$, 最简公分母 $(a-1)^2(a+1)$: $\frac{1}{(a-1)^2}=\frac{a+1}{(a-1)^2(a+1)}$, $\frac{1}{(a-1)(a+1)}=\frac{a-1}{(a-1)^2(a+1)}$. $\blacksquare$
 
 ### 习题一
 
@@ -146,29 +146,29 @@ $\dfrac{1}{x}$, $\dfrac{x}{3}$, $\dfrac{1}{4}x^2 y$, $\dfrac{a^2 b}{c}$, $\dfrac
 
 (2) 汽车以 $a\ \text{km/h}$ 的速度从甲地到乙地, 甲、乙两地相距 $120\ \text{km}$, 则从甲地到乙地所用时间为 \;_\_\; $\text{h}$;
 
-(3) 某校学生总数为 $m$, 其中男生人数占全体学生数的 $\dfrac35$, 则女生人数为 \;_\_\; .
+(3) 某校学生总数为 $m$, 其中男生人数占全体学生数的 $\frac35$, 则女生人数为 \;_\_\; .
 
 ### 解答 习题一
 
-(1) 原计划每年 $\dfrac{m}{n}$, 实际每年 $\dfrac{m}{n-1}$, 多造林 $\dfrac{m}{n-1}-\dfrac{m}{n}=\dfrac{m}{n(n-1)}$ 公顷.
+(1) 原计划每年 $\frac{m}{n}$, 实际每年 $\frac{m}{n-1}$, 多造林 $\frac{m}{n-1}-\frac{m}{n}=\frac{m}{n(n-1)}$ 公顷.
 
-(2) 时间 $=$ 路程 $\div$ 速度 $=\dfrac{120}{a}\ \text{h}$.
+(2) 时间 $=$ 路程 $\div$ 速度 $=\frac{120}{a}\ \text{h}$.
 
-(3) 女生占 $1-\dfrac35=\dfrac25$, 女生人数为 $\dfrac{2}{5}m$. $\blacksquare$
+(3) 女生占 $1-\frac35=\frac25$, 女生人数为 $\frac{2}{5}m$. $\blacksquare$
 
 ### 习题二
 
 (习题 18.1 复习巩固第 2 题) 下列各式中, 哪些是整式? 哪些是分式?
 
-$\dfrac{x}{3}$, $\dfrac{1}{n}$, $\dfrac{1}{a+5}$, $\dfrac{a+5}{15}$, $\dfrac{z}{x^2 y}$, $\dfrac{2ab}{(a+b)^2}$.
+$\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y}$, $\frac{2ab}{(a+b)^2}$.
 
 ### 解答 习题二
 
 由**定义 18.1.1**.
 
-分式: $\dfrac{1}{n}$, $\dfrac{1}{a+5}$, $\dfrac{z}{x^2 y}$, $\dfrac{2ab}{(a+b)^2}$.
+分式: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2 y}$, $\frac{2ab}{(a+b)^2}$.
 
-整式: $\dfrac{x}{3}$, $\dfrac{a+5}{15}$. $\blacksquare$
+整式: $\frac{x}{3}$, $\frac{a+5}{15}$. $\blacksquare$
 
 ### 习题三
 
@@ -190,7 +190,7 @@ $\dfrac{x}{3}$, $\dfrac{1}{n}$, $\dfrac{1}{a+5}$, $\dfrac{a+5}{15}$, $\dfrac{z}{
 
 (2) $3-x\ne0$, 即 $x\ne3$.
 
-(3) $3x+5\ne0$, 即 $x\ne-\dfrac53$.
+(3) $3x+5\ne0$, 即 $x\ne-\frac53$.
 
 (4) $x^2-9\ne0$, 即 $x\ne\pm3$. $\blacksquare$
 
@@ -210,13 +210,13 @@ $\dfrac{x}{3}$, $\dfrac{1}{n}$, $\dfrac{1}{a+5}$, $\dfrac{a+5}{15}$, $\dfrac{z}{
 
 由**定义 18.1.3**.
 
-(1) $\dfrac{8a^2}{12a^3}=\dfrac{2}{3a}$.
+(1) $\frac{8a^2}{12a^3}=\frac{2}{3a}$.
 
-(2) $\dfrac{3(a-b)^2}{6(b-a)}=\dfrac{3(b-a)^2}{6(b-a)}=\dfrac{b-a}{2}$.
+(2) $\frac{3(a-b)^2}{6(b-a)}=\frac{3(b-a)^2}{6(b-a)}=\frac{b-a}{2}$.
 
-(3) $\dfrac{a^2-b^2}{a^2+ab}=\dfrac{(a+b)(a-b)}{a(a+b)}=\dfrac{a-b}{a}$.
+(3) $\frac{a^2-b^2}{a^2+ab}=\frac{(a+b)(a-b)}{a(a+b)}=\frac{a-b}{a}$.
 
-(4) $\dfrac{x^2-25}{x^2+10x+25}=\dfrac{(x+5)(x-5)}{(x+5)^2}=\dfrac{x-5}{x+5}$. $\blacksquare$
+(4) $\frac{x^2-25}{x^2+10x+25}=\frac{(x+5)(x-5)}{(x+5)^2}=\frac{x-5}{x+5}$. $\blacksquare$
 
 ### 习题五
 
@@ -234,13 +234,13 @@ $\dfrac{x}{3}$, $\dfrac{1}{n}$, $\dfrac{1}{a+5}$, $\dfrac{a+5}{15}$, $\dfrac{z}{
 
 由**定义 18.1.4**.
 
-(1) 最简公分母 $6x^2 y z^2$: $\dfrac{z}{3x^2 y}=\dfrac{2z^3}{6x^2 y z^2}$, $\dfrac{xy}{2z^2}=\dfrac{3x^3 y^2}{6x^2 y z^2}$.
+(1) 最简公分母 $6x^2 y z^2$: $\frac{z}{3x^2 y}=\frac{2z^3}{6x^2 y z^2}$, $\frac{xy}{2z^2}=\frac{3x^3 y^2}{6x^2 y z^2}$.
 
-(2) 最简公分母 $a^2 b^2$: $\dfrac{5}{a^2 b}=\dfrac{5b}{a^2 b^2}$, $\dfrac{3}{ab^2}=\dfrac{3a}{a^2 b^2}$.
+(2) 最简公分母 $a^2 b^2$: $\frac{5}{a^2 b}=\frac{5b}{a^2 b^2}$, $\frac{3}{ab^2}=\frac{3a}{a^2 b^2}$.
 
-(3) $x^2-2x=x(x-2)$, 最简公分母 $2x(x-2)$: $\dfrac{x-1}{-2x}=\dfrac{(x-1)(x-2)}{-2x(x-2)}$, $\dfrac{1}{x(x-2)}=\dfrac{-2}{-2x(x-2)}$.
+(3) $x^2-2x=x(x-2)$, 最简公分母 $2x(x-2)$: $\frac{x-1}{-2x}=\frac{(x-1)(x-2)}{-2x(x-2)}$, $\frac{1}{x(x-2)}=\frac{-2}{-2x(x-2)}$.
 
-(4) $x^2-9=(x+3)(x-3)$, $2x+6=2(x+3)$, 最简公分母 $2(x+3)(x-3)$: $\dfrac{1}{(x+3)(x-3)}=\dfrac{2}{2(x+3)(x-3)}$, $\dfrac{1}{2(x+3)}=\dfrac{x-3}{2(x+3)(x-3)}$. $\blacksquare$
+(4) $x^2-9=(x+3)(x-3)$, $2x+6=2(x+3)$, 最简公分母 $2(x+3)(x-3)$: $\frac{1}{(x+3)(x-3)}=\frac{2}{2(x+3)(x-3)}$, $\frac{1}{2(x+3)}=\frac{x-3}{2(x+3)(x-3)}$. $\blacksquare$
 
 ### 习题六
 
@@ -256,11 +256,11 @@ $\dfrac{x}{3}$, $\dfrac{1}{n}$, $\dfrac{1}{a+5}$, $\dfrac{a+5}{15}$, $\dfrac{z}{
 
 由**定义 18.1.2** (分式的基本性质).
 
-(1) 分母乘 $2a$, 分子也乘 $2a$: $\dfrac{3a}{5xy}=\dfrac{6a^2}{10axy}$.
+(1) 分母乘 $2a$, 分子也乘 $2a$: $\frac{3a}{5xy}=\frac{6a^2}{10axy}$.
 
-(2) $a^2-4=(a+2)(a-2)$, 约分: $\dfrac{a+2}{(a+2)(a-2)}=\dfrac{1}{a-2}$.
+(2) $a^2-4=(a+2)(a-2)$, 约分: $\frac{a+2}{(a+2)(a-2)}=\frac{1}{a-2}$.
 
-(3) $x^2-3x=x(x-3)$, 约分: $\dfrac{2x}{x(x-3)}=\dfrac{2}{x-3}$. $\blacksquare$
+(3) $x^2-3x=x(x-3)$, 约分: $\frac{2x}{x(x-3)}=\frac{2}{x-3}$. $\blacksquare$
 
 ### 习题七
 
@@ -278,13 +278,13 @@ $\dfrac{x}{3}$, $\dfrac{1}{n}$, $\dfrac{1}{a+5}$, $\dfrac{a+5}{15}$, $\dfrac{z}{
 
 由分式的基本性质, 分子分母同号得正.
 
-(1) $\dfrac{-5y}{-x^2}=\dfrac{5y}{x^2}$.
+(1) $\frac{-5y}{-x^2}=\frac{5y}{x^2}$.
 
-(2) $\dfrac{-a}{2b}=-\dfrac{a}{2b}$.
+(2) $\frac{-a}{2b}=-\frac{a}{2b}$.
 
-(3) $\dfrac{2m}{-3n}=-\dfrac{2m}{3n}$.
+(3) $\frac{2m}{-3n}=-\frac{2m}{3n}$.
 
-(4) $-\dfrac{-x}{2y}=\dfrac{x}{2y}$. $\blacksquare$
+(4) $-\frac{-x}{2y}=\frac{x}{2y}$. $\blacksquare$
 
 ### 习题八
 
@@ -298,11 +298,11 @@ $\dfrac{x}{3}$, $\dfrac{1}{n}$, $\dfrac{1}{a+5}$, $\dfrac{a+5}{15}$, $\dfrac{z}{
 
 ### 解答 习题八
 
-(1) $\dfrac{-x^2}{-x}=\dfrac{x^2}{x}$.
+(1) $\frac{-x^2}{-x}=\frac{x^2}{x}$.
 
-(2) $\dfrac{1-x^2}{1+x}=\dfrac{-(x^2-1)}{x+1}=\dfrac{1-x}{1}$... 整理为 $\dfrac{-(x^2-1)}{x+1}=-\dfrac{x^2-1}{x+1}$.
+(2) $\frac{1-x^2}{1+x}=\frac{-(x^2-1)}{x+1}=\frac{1-x}{1}$... 整理为 $\frac{-(x^2-1)}{x+1}=-\frac{x^2-1}{x+1}$.
 
-(3) $\dfrac{-x-1}{x-1}=-\dfrac{x+1}{x-1}$. $\blacksquare$
+(3) $\frac{-x-1}{x-1}=-\frac{x+1}{x-1}$. $\blacksquare$
 
 ### 习题九
 
@@ -312,7 +312,7 @@ $\dfrac{x}{3}$, $\dfrac{1}{n}$, $\dfrac{1}{a+5}$, $\dfrac{a+5}{15}$, $\dfrac{z}{
 
 设乙的平均速度为 $x\ \text{km/h}$, 则甲为 $(x+20)\ \text{km/h}$. 由时间相同:
 
-$$\dfrac{400}{x+20}=\dfrac{300}{x}.$$
+$$\frac{400}{x+20}=\frac{300}{x}.$$
 
 交叉相乘: $400x=300(x+20)=300x+6000$, 解得 $x=60$.
 
@@ -324,10 +324,10 @@ $$\dfrac{400}{x+20}=\dfrac{300}{x}.$$
 
 ### 解答 习题十
 
-甲每天完成 $\dfrac1a$, 乙每天完成 $\dfrac1b$, 两人合作每天完成 $\dfrac1a+\dfrac1b$.
+甲每天完成 $\frac1a$, 乙每天完成 $\frac1b$, 两人合作每天完成 $\frac1a+\frac1b$.
 
 合作 $3$ 天完成的工作量为
 
-$$3\left(\dfrac1a+\dfrac1b\right)=\dfrac{3(a+b)}{ab}.$$
+$$3\left(\frac1a+\frac1b\right)=\frac{3(a+b)}{ab}.$$
 
 $\blacksquare$

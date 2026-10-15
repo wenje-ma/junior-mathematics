@@ -168,16 +168,16 @@ $\blacksquare$
 
 (复习题 拓广探索第 8 题) 如图, 在 $\triangle ABC$ 中, $BE$, $CF$ 是角平分线, 且 $BE$, $CF$ 相交于点 $G$. 求证:
 
-(1) $\angle BGC=180^\circ-\dfrac{1}{2}(\angle ABC+\angle ACB)$;
+(1) $\angle BGC=180^\circ-\frac{1}{2}(\angle ABC+\angle ACB)$;
 
-(2) $\angle BGC=90^\circ+\dfrac{1}{2}\angle A$.
+(2) $\angle BGC=90^\circ+\frac{1}{2}\angle A$.
 
 ### 解答 复习题八
 
 由**定义 13.2.2** (角平分线), $BE$ 平分 $\angle ABC$, $CF$ 平分 $\angle ACB$, 故
 
 $$
-\angle GBC=\frac{1}{2}\angle ABC,\qquad \angle GCB=\frac{1}{2}\angle ACB.
+\angle GBC=\frac{1}{2}\angle ABC,\quad \angle GCB=\frac{1}{2}\angle ACB.
 $$
 
 (1) 在 $\triangle BGC$ 中, 由**定理 13.3.1** (三角形内角和定理),

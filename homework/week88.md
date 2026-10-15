@@ -1,10 +1,10 @@
 # 作业 88
 
-> **定义 18.2.1** (分式的乘法法则) <br>分式乘分式, 用分子的积作为积的分子, 分母的积作为积的分母, 即 $\dfrac{a}{b}\cdot\dfrac{c}{d}=\dfrac{ac}{bd}$.
+> **定义 18.2.1** (分式的乘法法则) <br>分式乘分式, 用分子的积作为积的分子, 分母的积作为积的分母, 即 $\frac{a}{b}\cdot\frac{c}{d}=\frac{ac}{bd}$.
 
-> **定义 18.2.2** (分式的除法法则) <br>分式除以分式, 把除式的分子、分母颠倒位置后与被除式相乘, 即 $\dfrac{a}{b}\div\dfrac{c}{d}=\dfrac{ad}{bc}$.
+> **定义 18.2.2** (分式的除法法则) <br>分式除以分式, 把除式的分子、分母颠倒位置后与被除式相乘, 即 $\frac{a}{b}\div\frac{c}{d}=\frac{ad}{bc}$.
 
-> **定义 18.2.3** (分式的乘方) <br>当 $n$ 是正整数时, $\left(\dfrac{a}{b}\right)^n=\dfrac{a^n}{b^n}$, 即分式乘方要把分子、分母分别乘方.
+> **定义 18.2.3** (分式的乘方) <br>当 $n$ 是正整数时, $\left(\frac{a}{b}\right)^n=\frac{a^n}{b^n}$, 即分式乘方要把分子、分母分别乘方.
 
 ### 练习一
 
@@ -22,13 +22,13 @@
 
 由**定义 18.2.1**.
 
-(1) $\dfrac{3a}{4b}\cdot\dfrac{2b}{a^2}=\dfrac{6ab}{4a^2 b}=\dfrac{3}{2a}$.
+(1) $\frac{3a}{4b}\cdot\frac{2b}{a^2}=\frac{6ab}{4a^2 b}=\frac{3}{2a}$.
 
-(2) $\dfrac{6x^2 y}{4xy^2}\cdot\dfrac{2x}{3y}=\dfrac{12x^3 y}{12x y^3}=\dfrac{x^2}{y^2}$.
+(2) $\frac{6x^2 y}{4xy^2}\cdot\frac{2x}{3y}=\frac{12x^3 y}{12x y^3}=\frac{x^2}{y^2}$.
 
-(3) $\dfrac{n^2}{2m}\cdot\dfrac{4m}{5n^3}=\dfrac{4m n^2}{10m n^3}=\dfrac{2}{5n}$.
+(3) $\frac{n^2}{2m}\cdot\frac{4m}{5n^3}=\frac{4m n^2}{10m n^3}=\frac{2}{5n}$.
 
-(4) $\dfrac{a+b}{2ab}\cdot\dfrac{4a^2 b}{(a+b)^2}=\dfrac{4a^2 b(a+b)}{2ab(a+b)^2}=\dfrac{2a}{a+b}$. $\blacksquare$
+(4) $\frac{a+b}{2ab}\cdot\frac{4a^2 b}{(a+b)^2}=\frac{4a^2 b(a+b)}{2ab(a+b)^2}=\frac{2a}{a+b}$. $\blacksquare$
 
 ### 练习二
 
@@ -42,9 +42,9 @@
 
 由**定义 18.2.1**.
 
-(1) $\dfrac{4x}{3y}\cdot\dfrac{y}{2x^3}=\dfrac{4xy}{6x^3 y}=\dfrac{2}{3x^2}$.
+(1) $\frac{4x}{3y}\cdot\frac{y}{2x^3}=\frac{4xy}{6x^3 y}=\frac{2}{3x^2}$.
 
-(2) $\dfrac{a^2 b}{2c^2}\cdot\dfrac{-4c}{5ab}=-\dfrac{4a^2 bc}{10abc^2}=-\dfrac{2a}{5c}$. $\blacksquare$
+(2) $\frac{a^2 b}{2c^2}\cdot\frac{-4c}{5ab}=-\frac{4a^2 bc}{10abc^2}=-\frac{2a}{5c}$. $\blacksquare$
 
 ### 练习三
 
@@ -62,13 +62,13 @@
 
 由**定义 18.2.2**.
 
-(1) $\dfrac{2}{x}\div\dfrac{4}{x}=\dfrac{2}{x}\cdot\dfrac{x}{4}=\dfrac12$.
+(1) $\frac{2}{x}\div\frac{4}{x}=\frac{2}{x}\cdot\frac{x}{4}=\frac12$.
 
-(2) $\dfrac{5}{xy}\div\left(-\dfrac{15}{x}\right)=\dfrac{5}{xy}\cdot\left(-\dfrac{x}{15}\right)=-\dfrac{1}{3y}$.
+(2) $\frac{5}{xy}\div\left(-\frac{15}{x}\right)=\frac{5}{xy}\cdot\left(-\frac{x}{15}\right)=-\frac{1}{3y}$.
 
-(3) $\dfrac{4}{3xy}\div\dfrac{2}{3xy^2}=\dfrac{4}{3xy}\cdot\dfrac{3xy^2}{2}=2y$.
+(3) $\frac{4}{3xy}\div\frac{2}{3xy^2}=\frac{4}{3xy}\cdot\frac{3xy^2}{2}=2y$.
 
-(4) $\dfrac{a^2-4}{a^2+4a+4}\div(a+2)=\dfrac{(a+2)(a-2)}{(a+2)^2}\cdot\dfrac{1}{a+2}=\dfrac{a-2}{(a+2)^2}$. $\blacksquare$
+(4) $\frac{a^2-4}{a^2+4a+4}\div(a+2)=\frac{(a+2)(a-2)}{(a+2)^2}\cdot\frac{1}{a+2}=\frac{a-2}{(a+2)^2}$. $\blacksquare$
 
 ### 练习四
 
@@ -80,9 +80,9 @@
 
 ### 解答 练习四
 
-(1) $\dfrac{3x}{4y}\cdot\dfrac{16y}{9x^2}=\dfrac{48xy}{36x^2 y}=\dfrac{4}{3x}$.
+(1) $\frac{3x}{4y}\cdot\frac{16y}{9x^2}=\frac{48xy}{36x^2 y}=\frac{4}{3x}$.
 
-(2) $(xy-x^2)\div\dfrac{x-y}{xy}=x(y-x)\cdot\dfrac{xy}{x-y}=-x(x-y)\cdot\dfrac{xy}{x-y}=-x^2 y$. $\blacksquare$
+(2) $(xy-x^2)\div\frac{x-y}{xy}=x(y-x)\cdot\frac{xy}{x-y}=-x(x-y)\cdot\frac{xy}{x-y}=-x^2 y$. $\blacksquare$
 
 ### 练习五
 
@@ -98,11 +98,11 @@
 
 由**定义 18.2.3**.
 
-(1) 正确, $\left(\dfrac{b^2}{a}\right)^3=\dfrac{(b^2)^3}{a^3}=\dfrac{b^6}{a^3}$.
+(1) 正确, $\left(\frac{b^2}{a}\right)^3=\frac{(b^2)^3}{a^3}=\frac{b^6}{a^3}$.
 
-(2) 正确, $\left(-\dfrac{b^2}{a}\right)^3=-\dfrac{b^6}{a^3}$.
+(2) 正确, $\left(-\frac{b^2}{a}\right)^3=-\frac{b^6}{a^3}$.
 
-(3) 不正确, $\left(\dfrac{2a}{a+b}\right)^2=\dfrac{4a^2}{(a+b)^2}$, 分母也应平方. $\blacksquare$
+(3) 不正确, $\left(\frac{2a}{a+b}\right)^2=\frac{4a^2}{(a+b)^2}$, 分母也应平方. $\blacksquare$
 
 ### 练习六
 
@@ -116,9 +116,9 @@
 
 由**定义 18.2.3**.
 
-(1) $\left(\dfrac{2x}{-y}\right)^2=\dfrac{4x^2}{y^2}$.
+(1) $\left(\frac{2x}{-y}\right)^2=\frac{4x^2}{y^2}$.
 
-(2) $\dfrac{a^6 b^3}{-c^3}\div\dfrac{a^2 b^2}{c^4}=-\dfrac{a^6 b^3}{c^3}\cdot\dfrac{c^4}{a^2 b^2}=-a^4 b c$. $\blacksquare$
+(2) $\frac{a^6 b^3}{-c^3}\div\frac{a^2 b^2}{c^4}=-\frac{a^6 b^3}{c^3}\cdot\frac{c^4}{a^2 b^2}=-a^4 b c$. $\blacksquare$
 
 ### 习题一
 
@@ -134,13 +134,13 @@
 
 ### 解答 习题一
 
-(1) $\dfrac{3}{a}\cdot\dfrac{a^2}{9}=\dfrac{a}{3}$.
+(1) $\frac{3}{a}\cdot\frac{a^2}{9}=\frac{a}{3}$.
 
-(2) $\dfrac{3y}{6x^2}\div\dfrac{y^2}{10x}=\dfrac{3y}{6x^2}\cdot\dfrac{10x}{y^2}=\dfrac{5}{xy}$.
+(2) $\frac{3y}{6x^2}\div\frac{y^2}{10x}=\frac{3y}{6x^2}\cdot\frac{10x}{y^2}=\frac{5}{xy}$.
 
-(3) $\dfrac{3}{4xy^3}\cdot\dfrac{2x^2 y}{27}=\dfrac{6x^2 y}{108xy^3}=\dfrac{x}{18y^2}$.
+(3) $\frac{3}{4xy^3}\cdot\frac{2x^2 y}{27}=\frac{6x^2 y}{108xy^3}=\frac{x}{18y^2}$.
 
-(4) $\dfrac{6ab^2}{c^2 d}\div\dfrac{3ab}{2cd^2}=\dfrac{6ab^2}{c^2 d}\cdot\dfrac{2cd^2}{3ab}=\dfrac{4bd}{c}$. $\blacksquare$
+(4) $\frac{6ab^2}{c^2 d}\div\frac{3ab}{2cd^2}=\frac{6ab^2}{c^2 d}\cdot\frac{2cd^2}{3ab}=\frac{4bd}{c}$. $\blacksquare$
 
 ### 习题二
 
@@ -156,13 +156,13 @@
 
 ### 解答 习题二
 
-(1) 注意此为加法, $\dfrac{2a}{a+1}+\dfrac{a^2}{a+1}=\dfrac{a^2+2a}{a+1}=\dfrac{a(a+2)}{a+1}$.
+(1) 注意此为加法, $\frac{2a}{a+1}+\frac{a^2}{a+1}=\frac{a^2+2a}{a+1}=\frac{a(a+2)}{a+1}$.
 
-(2) $\dfrac{m^2-16}{12-3m}\div\dfrac{m+4}{m^2-4m}=\dfrac{(m+4)(m-4)}{3(4-m)}\cdot\dfrac{m(m-4)}{m+4}=\dfrac{(m-4)}{3(-(m-4))}\cdot m(m-4)=-\dfrac{m(m-4)}{3}$.
+(2) $\frac{m^2-16}{12-3m}\div\frac{m+4}{m^2-4m}=\frac{(m+4)(m-4)}{3(4-m)}\cdot\frac{m(m-4)}{m+4}=\frac{(m-4)}{3(-(m-4))}\cdot m(m-4)=-\frac{m(m-4)}{3}$.
 
-(3) $\dfrac{x^2+x}{x-1}\div\dfrac{x}{x-1}=\dfrac{x(x+1)}{x-1}\cdot\dfrac{x-1}{x}=x+1$.
+(3) $\frac{x^2+x}{x-1}\div\frac{x}{x-1}=\frac{x(x+1)}{x-1}\cdot\frac{x-1}{x}=x+1$.
 
-(4) $\dfrac{2x}{x-1}\div\dfrac{x}{x-1}=\dfrac{2x}{x-1}\cdot\dfrac{x-1}{x}=2$. $\blacksquare$
+(4) $\frac{2x}{x-1}\div\frac{x}{x-1}=\frac{2x}{x-1}\cdot\frac{x-1}{x}=2$. $\blacksquare$
 
 ### 习题三
 
@@ -180,13 +180,13 @@
 
 由**定义 18.2.3**.
 
-(1) $\left(\dfrac{-2a^2 b}{3c}\right)^3=-\dfrac{8a^6 b^3}{27c^3}$.
+(1) $\left(\frac{-2a^2 b}{3c}\right)^3=-\frac{8a^6 b^3}{27c^3}$.
 
-(2) $\left(\dfrac{2x}{-y}\right)^2=\dfrac{4x^2}{y^2}$.
+(2) $\left(\frac{2x}{-y}\right)^2=\frac{4x^2}{y^2}$.
 
-(3) $\dfrac{-a^6 b^3}{c^3}\div\dfrac{a^2 b^4}{c^4}=-\dfrac{a^6 b^3}{c^3}\cdot\dfrac{c^4}{a^2 b^4}=-\dfrac{a^4 c}{b}$.
+(3) $\frac{-a^6 b^3}{c^3}\div\frac{a^2 b^4}{c^4}=-\frac{a^6 b^3}{c^3}\cdot\frac{c^4}{a^2 b^4}=-\frac{a^4 c}{b}$.
 
-(4) $\dfrac{x^4}{y^2}\cdot\left(-\dfrac{y^6}{x^3}\right)=-x y^4$. $\blacksquare$
+(4) $\frac{x^4}{y^2}\cdot\left(-\frac{y^6}{x^3}\right)=-x y^4$. $\blacksquare$
 
 ### 习题四
 
@@ -198,9 +198,9 @@
 
 ### 解答 习题四
 
-(1) $\dfrac{a^4 b^2}{c^2}\cdot\left(-\dfrac{c^6}{a^3 b^3}\right)\div\dfrac{b^4 c^4}{a^4}=-\dfrac{a^4 b^2 c^6}{a^3 b^3 c^2}\cdot\dfrac{a^4}{b^4 c^4}=-\dfrac{a^5}{b^5}$.
+(1) $\frac{a^4 b^2}{c^2}\cdot\left(-\frac{c^6}{a^3 b^3}\right)\div\frac{b^4 c^4}{a^4}=-\frac{a^4 b^2 c^6}{a^3 b^3 c^2}\cdot\frac{a^4}{b^4 c^4}=-\frac{a^5}{b^5}$.
 
-(2) $\dfrac{a-b}{a(a+b)}\div\dfrac{a(a-b)}{(a+b)(a-b)}=\dfrac{a-b}{a(a+b)}\cdot\dfrac{(a+b)(a-b)}{a(a-b)}=\dfrac{a-b}{a^2}$. $\blacksquare$
+(2) $\frac{a-b}{a(a+b)}\div\frac{a(a-b)}{(a+b)(a-b)}=\frac{a-b}{a(a+b)}\cdot\frac{(a+b)(a-b)}{a(a-b)}=\frac{a-b}{a^2}$. $\blacksquare$
 
 ### 习题五
 
@@ -212,9 +212,9 @@
 
 ### 解答 习题五
 
-(1) $\dfrac{m}{3n}\cdot\dfrac{9m}{n}\cdot\dfrac{3m}{n^2}=\dfrac{27m^3}{3n^4}=\dfrac{9m^3}{n^4}$.
+(1) $\frac{m}{3n}\cdot\frac{9m}{n}\cdot\frac{3m}{n^2}=\frac{27m^3}{3n^4}=\frac{9m^3}{n^4}$.
 
-(2) $\left(\dfrac{2x}{x+y}-\dfrac{x}{x-y}\right)\cdot\dfrac{(x+y)(x-y)}{x}=\dfrac{2x(x-y)-x(x+y)}{(x+y)(x-y)}\cdot\dfrac{(x+y)(x-y)}{x}=2(x-y)-(x+y)=x-3y$. $\blacksquare$
+(2) $\left(\frac{2x}{x+y}-\frac{x}{x-y}\right)\cdot\frac{(x+y)(x-y)}{x}=\frac{2x(x-y)-x(x+y)}{(x+y)(x-y)}\cdot\frac{(x+y)(x-y)}{x}=2(x-y)-(x+y)=x-3y$. $\blacksquare$
 
 ### 习题六
 
@@ -238,11 +238,11 @@ $$S_2-S_1=a^2-b^2-ab.$$
 
 ### 解答 习题七
 
-去时用时 $\dfrac{a}{v_1}$, 返回用时 $\dfrac{a}{v_2}$. 总路程 $2a$, 总时间 $\dfrac{a}{v_1}+\dfrac{a}{v_2}$.
+去时用时 $\frac{a}{v_1}$, 返回用时 $\frac{a}{v_2}$. 总路程 $2a$, 总时间 $\frac{a}{v_1}+\frac{a}{v_2}$.
 
 平均速度
 
-$$\bar v=\dfrac{2a}{\dfrac{a}{v_1}+\dfrac{a}{v_2}}=\dfrac{2a}{a\dfrac{v_1+v_2}{v_1 v_2}}=\dfrac{2v_1 v_2}{v_1+v_2}\ (\text{km/h}).$$
+$$\bar v=\frac{2a}{\frac{a}{v_1}+\frac{a}{v_2}}=\frac{2a}{a\frac{v_1+v_2}{v_1 v_2}}=\frac{2v_1 v_2}{v_1+v_2}\ (\text{km/h}).$$
 
 $\blacksquare$
 
@@ -252,6 +252,6 @@ $\blacksquare$
 
 ### 解答 习题八
 
-$$\dfrac{(x+2y)(x-2y)}{(x+y)^2}\div\dfrac{x+2y}{x(x+y)}\cdot\dfrac{x}{x-2y}=\dfrac{(x+2y)(x-2y)}{(x+y)^2}\cdot\dfrac{x(x+y)}{x+2y}\cdot\dfrac{x}{x-2y}=\dfrac{x^2}{x+y}.$$
+$$\frac{(x+2y)(x-2y)}{(x+y)^2}\div\frac{x+2y}{x(x+y)}\cdot\frac{x}{x-2y}=\frac{(x+2y)(x-2y)}{(x+y)^2}\cdot\frac{x(x+y)}{x+2y}\cdot\frac{x}{x-2y}=\frac{x^2}{x+y}.$$
 
 $\blacksquare$

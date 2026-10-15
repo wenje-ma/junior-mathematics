@@ -7,7 +7,7 @@
 > **结论 综合与实践二** (组合图形的重心) <br>把组合图形分割成若干已知重心位置的简单图形, 设第 $i$ 部分的面积为 $S_i$, 重心坐标为 $(x_i,y_i)$, 则整体重心坐标为
 >
 > $$
-> \bar x=\dfrac{\sum S_i x_i}{\sum S_i},\qquad \bar y=\dfrac{\sum S_i y_i}{\sum S_i}.
+> \bar x=\frac{\sum S_i x_i}{\sum S_i},\quad \bar y=\frac{\sum S_i y_i}{\sum S_i}.
 > $$
 
 ### 探究一
@@ -37,10 +37,10 @@
 由**结论 综合与实践二** (组合图形的重心), 整体重心的横、纵坐标分别为两部分重心坐标按面积加权的平均值:
 
 $$
-\bar x=\dfrac{S_1 x_1+S_2 x_2}{S_1+S_2},\qquad \bar y=\dfrac{S_1 y_1+S_2 y_2}{S_1+S_2}.
+\bar x=\frac{S_1 x_1+S_2 x_2}{S_1+S_2},\quad \bar y=\frac{S_1 y_1+S_2 y_2}{S_1+S_2}.
 $$
 
-当两部分面积相等时, $\bar x=\dfrac{x_1+x_2}{2}$, $\bar y=\dfrac{y_1+y_2}{2}$, 即重心位于两部分重心连线的中点. $\blacksquare$
+当两部分面积相等时, $\bar x=\frac{x_1+x_2}{2}$, $\bar y=\frac{y_1+y_2}{2}$, 即重心位于两部分重心连线的中点. $\blacksquare$
 
 ### 探究四
 

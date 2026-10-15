@@ -8,7 +8,7 @@
 >
 > (2) 两锐角关系: $\angle A+\angle B=90^{\circ}$;
 >
-> (3) 边角关系: $\sin A=\dfrac{a}{c}$, $\cos A=\dfrac{b}{c}$, $\tan A=\dfrac{a}{b}$ ($A$ 可换成 $B$, 同时 $a$, $b$ 互换).
+> (3) 边角关系: $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$, $\tan A=\frac{a}{b}$ ($A$ 可换成 $B$, 同时 $a$, $b$ 互换).
 >
 > 知道其中两个元素 (至少有一个是边), 就可以求出其余三个未知元素.
 >
@@ -30,11 +30,11 @@
 
 (1) 由勾股定理 $a=\sqrt{c^{2}-b^{2}}=\sqrt{900-400}=\sqrt{500}=10\sqrt{5}$.
 
-$\cos A=\dfrac{b}{c}=\dfrac{20}{30}=\dfrac{2}{3}$, 用计算器得 $\angle A\approx 48.19^{\circ}$, $\angle B=90^{\circ}-\angle A\approx 41.81^{\circ}$.
+$\cos A=\frac{b}{c}=\frac{20}{30}=\frac{2}{3}$, 用计算器得 $\angle A\approx 48.19^{\circ}$, $\angle B=90^{\circ}-\angle A\approx 41.81^{\circ}$.
 
 (2) $\angle A=90^{\circ}-72^{\circ}=18^{\circ}$. $a=c\cos B=14\times\cos 72^{\circ}\approx 14\times 0.3090\approx 4.33$, $b=c\sin B=14\times\sin 72^{\circ}\approx 14\times 0.9511\approx 13.32$.
 
-(3) $\angle A=90^{\circ}-30^{\circ}=60^{\circ}$. 由 $\tan B=\dfrac{b}{a}$, $b=a\tan 30^{\circ}=\sqrt{7}\times\dfrac{\sqrt{3}}{3}=\dfrac{\sqrt{21}}{3}$. 由 $\cos B=\dfrac{a}{c}$, $c=\dfrac{a}{\cos 30^{\circ}}=\dfrac{\sqrt{7}}{\sqrt{3}/2}=\dfrac{2\sqrt{21}}{3}$. $\blacksquare$
+(3) $\angle A=90^{\circ}-30^{\circ}=60^{\circ}$. 由 $\tan B=\frac{b}{a}$, $b=a\tan 30^{\circ}=\sqrt{7}\times\frac{\sqrt{3}}{3}=\frac{\sqrt{21}}{3}$. 由 $\cos B=\frac{a}{c}$, $c=\frac{a}{\cos 30^{\circ}}=\frac{\sqrt{7}}{\sqrt{3}/2}=\frac{2\sqrt{21}}{3}$. $\blacksquare$
 
 ### 练习二
 
@@ -86,7 +86,7 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 在 $\text{Rt}\triangle ADE$ 中, $DE=AE/\tan 60^{\circ}=AE/\sqrt{3}$.
 
-又 $BE-DE=BD=12$, 故 $AE\sqrt{3}-AE/\sqrt{3}=12$, 即 $AE\cdot\dfrac{3-1}{\sqrt{3}}=12$, $AE=6\sqrt{3}\approx 10.39\ \text{n mile}$.
+又 $BE-DE=BD=12$, 故 $AE\sqrt{3}-AE/\sqrt{3}=12$, 即 $AE\cdot\frac{3-1}{\sqrt{3}}=12$, $AE=6\sqrt{3}\approx 10.39\ \text{n mile}$.
 
 因为 $AE\approx 10.39>8$, 故渔船继续向东航行没有触礁危险. $\blacksquare$
 
@@ -100,11 +100,11 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 ### 解答 练习五
 
-(1) 坡度 $i=\tan\alpha$. 对于斜坡 $AB$, $i=1:1.5$, 即 $\tan\alpha=\dfrac{1}{1.5}=\dfrac{2}{3}$, 用计算器得 $\alpha\approx 33.69^{\circ}$.
+(1) 坡度 $i=\tan\alpha$. 对于斜坡 $AB$, $i=1:1.5$, 即 $\tan\alpha=\frac{1}{1.5}=\frac{2}{3}$, 用计算器得 $\alpha\approx 33.69^{\circ}$.
 
-对于斜坡 $DC$, $i=1:3$, 即 $\tan\beta=\dfrac{1}{3}$, 用计算器得 $\beta\approx 18.43^{\circ}$.
+对于斜坡 $DC$, $i=1:3$, 即 $\tan\beta=\frac{1}{3}$, 用计算器得 $\beta\approx 18.43^{\circ}$.
 
-(2) 在 $\text{Rt}\triangle ABF$ 中, $AF=6\ \text{m}$, $\sin\alpha=\dfrac{AF}{AB}$, 故 $AB=\dfrac{AF}{\sin\alpha}=\dfrac{6}{\sin 33.69^{\circ}}\approx\dfrac{6}{0.5547}\approx 10.8\ \text{m}$. $\blacksquare$
+(2) 在 $\text{Rt}\triangle ABF$ 中, $AF=6\ \text{m}$, $\sin\alpha=\frac{AF}{AB}$, 故 $AB=\frac{AF}{\sin\alpha}=\frac{6}{\sin 33.69^{\circ}}\approx\frac{6}{0.5547}\approx 10.8\ \text{m}$. $\blacksquare$
 
 ### 习题一
 
@@ -120,11 +120,11 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 由**结论 28.2.1** 求解.
 
-(1) $\angle B=90^{\circ}-30^{\circ}=60^{\circ}$. $a=c\sin A=8\times\dfrac{1}{2}=4$, $b=c\cos A=8\times\dfrac{\sqrt{3}}{2}=4\sqrt{3}$.
+(1) $\angle B=90^{\circ}-30^{\circ}=60^{\circ}$. $a=c\sin A=8\times\frac{1}{2}=4$, $b=c\cos A=8\times\frac{\sqrt{3}}{2}=4\sqrt{3}$.
 
-(2) $\angle B=90^{\circ}-15^{\circ}=75^{\circ}$. 由 $\tan A=\dfrac{a}{b}$, $a=b\tan 15^{\circ}\approx 7\times 0.2679\approx 1.88$. 由 $\cos A=\dfrac{b}{c}$, $c=\dfrac{b}{\cos 15^{\circ}}\approx\dfrac{7}{0.9659}\approx 7.25$.
+(2) $\angle B=90^{\circ}-15^{\circ}=75^{\circ}$. 由 $\tan A=\frac{a}{b}$, $a=b\tan 15^{\circ}\approx 7\times 0.2679\approx 1.88$. 由 $\cos A=\frac{b}{c}$, $c=\frac{b}{\cos 15^{\circ}}\approx\frac{7}{0.9659}\approx 7.25$.
 
-(3) $c=\sqrt{a^{2}+b^{2}}=\sqrt{25+144}=13$. $\tan A=\dfrac{5}{12}$, 得 $\angle A\approx 22.62^{\circ}$, $\angle B\approx 67.38^{\circ}$. $\blacksquare$
+(3) $c=\sqrt{a^{2}+b^{2}}=\sqrt{25+144}=13$. $\tan A=\frac{5}{12}$, 得 $\angle A\approx 22.62^{\circ}$, $\angle B\approx 67.38^{\circ}$. $\blacksquare$
 
 ### 习题二
 
@@ -132,11 +132,11 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 ### 解答 习题二
 
-等腰三角形 $ABC$ 中, $AD\perp BC$, $D$ 为 $BC$ 中点, 故 $BD=\dfrac{BC}{2}=5\ \text{m}$.
+等腰三角形 $ABC$ 中, $AD\perp BC$, $D$ 为 $BC$ 中点, 故 $BD=\frac{BC}{2}=5\ \text{m}$.
 
 在 $\text{Rt}\triangle ABD$ 中, 由**定义 28.1.3** (正切), $AD=BD\cdot\tan 36^{\circ}\approx 5\times 0.7265\approx 3.6\ \text{m}$.
 
-由**定义 28.1.2** (余弦), $\cos B=\dfrac{BD}{AB}$, 故 $AB=\dfrac{BD}{\cos 36^{\circ}}\approx\dfrac{5}{0.8090}\approx 6.2\ \text{m}$. $\blacksquare$
+由**定义 28.1.2** (余弦), $\cos B=\frac{BD}{AB}$, 故 $AB=\frac{BD}{\cos 36^{\circ}}\approx\frac{5}{0.8090}\approx 6.2\ \text{m}$. $\blacksquare$
 
 ### 习题三
 
@@ -146,7 +146,7 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, $AC=1200\ \text{m}$, 俯角 $\alpha=16^{\circ}31'\approx 16.52^{\circ}$. 由内错角相等, $\angle ABC=\alpha$.
 
-由**定义 28.1.1** (正弦), $\sin\alpha=\dfrac{AC}{AB}$, 故 $AB=\dfrac{AC}{\sin\alpha}=\dfrac{1200}{\sin 16.52^{\circ}}\approx\dfrac{1200}{0.2843}\approx 4221\ \text{m}$. $\blacksquare$
+由**定义 28.1.1** (正弦), $\sin\alpha=\frac{AC}{AB}$, 故 $AB=\frac{AC}{\sin\alpha}=\frac{1200}{\sin 16.52^{\circ}}\approx\frac{1200}{0.2843}\approx 4221\ \text{m}$. $\blacksquare$
 
 ### 习题四
 
@@ -156,7 +156,7 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 在直角三角形中, 灯塔高度 $55\ \text{m}$ 为对边, 俯角 $21^{\circ}$, 帆船到灯塔的直线距离为斜边.
 
-由**定义 28.1.1** (正弦), $\sin 21^{\circ}=\dfrac{55}{d}$, 故 $d=\dfrac{55}{\sin 21^{\circ}}\approx\dfrac{55}{0.3584}\approx 153\ \text{m}$. $\blacksquare$
+由**定义 28.1.1** (正弦), $\sin 21^{\circ}=\frac{55}{d}$, 故 $d=\frac{55}{\sin 21^{\circ}}\approx\frac{55}{0.3584}\approx 153\ \text{m}$. $\blacksquare$
 
 ### 习题五
 
@@ -166,7 +166,7 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 水平距离 $5.5\ \text{m}$ 为邻边, 坡面距离为斜边, 坡角 $24^{\circ}$.
 
-由**定义 28.1.2** (余弦), $\cos 24^{\circ}=\dfrac{5.5}{d}$, 故 $d=\dfrac{5.5}{\cos 24^{\circ}}\approx\dfrac{5.5}{0.9135}\approx 6.0\ \text{m}$. $\blacksquare$
+由**定义 28.1.2** (余弦), $\cos 24^{\circ}=\frac{5.5}{d}$, 故 $d=\frac{5.5}{\cos 24^{\circ}}\approx\frac{5.5}{0.9135}\approx 6.0\ \text{m}$. $\blacksquare$
 
 ### 习题六
 
@@ -184,9 +184,9 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 (1) $\angle B=90^{\circ}-\angle A$. $a=c\sin A$, $b=c\cos A$.
 
-(2) $\angle B=90^{\circ}-\angle A$. 由 $\sin A=\dfrac{a}{c}$, $c=\dfrac{a}{\sin A}$. $b=\sqrt{c^{2}-a^{2}}$, 或 $b=\dfrac{a}{\tan A}$.
+(2) $\angle B=90^{\circ}-\angle A$. 由 $\sin A=\frac{a}{c}$, $c=\frac{a}{\sin A}$. $b=\sqrt{c^{2}-a^{2}}$, 或 $b=\frac{a}{\tan A}$.
 
-(3) 由 $\sin A=\dfrac{a}{c}$ 求 $\angle A$. $\angle B=90^{\circ}-\angle A$. $b=\sqrt{c^{2}-a^{2}}$. $\blacksquare$
+(3) 由 $\sin A=\frac{a}{c}$ 求 $\angle A$. $\angle B=90^{\circ}-\angle A$. $b=\sqrt{c^{2}-a^{2}}$. $\blacksquare$
 
 ### 习题七
 
@@ -194,9 +194,9 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 ### 解答 习题七
 
-金字塔底面正方形边长 $130\ \text{m}$, 侧面与底面成 $65^{\circ}$ 角. 高 $h$ 与底面中心到边的距离 $d=\dfrac{130}{2}=65\ \text{m}$ 构成直角三角形, 侧面与底面的二面角为 $65^{\circ}$.
+金字塔底面正方形边长 $130\ \text{m}$, 侧面与底面成 $65^{\circ}$ 角. 高 $h$ 与底面中心到边的距离 $d=\frac{130}{2}=65\ \text{m}$ 构成直角三角形, 侧面与底面的二面角为 $65^{\circ}$.
 
-由**定义 28.1.3** (正切), $\tan 65^{\circ}=\dfrac{h}{65}$, 故 $h=65\times\tan 65^{\circ}\approx 65\times 2.1445\approx 139\ \text{m}$. $\blacksquare$
+由**定义 28.1.3** (正切), $\tan 65^{\circ}=\frac{h}{65}$, 故 $h=65\times\tan 65^{\circ}\approx 65\times 2.1445\approx 139\ \text{m}$. $\blacksquare$
 
 ### 习题八
 
@@ -216,7 +216,7 @@ $LR=AR\cdot\cos 43^{\circ}=6\times\cos 43^{\circ}\approx 6\times 0.7314\approx 4
 
 $AB=BL-AL\approx 4.475-4.092=0.383\ \text{km}=383\ \text{m}$.
 
-平均速度 $=\dfrac{383}{1}=383.00\ \text{m/s}$. $\blacksquare$
+平均速度 $=\frac{383}{1}=383.00\ \text{m/s}$. $\blacksquare$
 
 ### 习题九
 
@@ -236,15 +236,15 @@ $AB=BL-AL\approx 4.475-4.092=0.383\ \text{km}=383\ \text{m}$.
 
 过 $P$ 作 $PH\perp$ 航线 (正东方向) 于 $H$. 在 $A$ 处, $P$ 在北偏东 $60^{\circ}$, 即 $AP$ 与正东方向夹角为 $30^{\circ}$.
 
-$PH=AP\cdot\sin 30^{\circ}=32\times\dfrac{1}{2}=16\ \text{n mile}$.
+$PH=AP\cdot\sin 30^{\circ}=32\times\frac{1}{2}=16\ \text{n mile}$.
 
 暗礁半径为 $16\sqrt{2}\approx 22.63\ \text{n mile}$. 因为 $PH=16<16\sqrt{2}$, 故轮船继续向正东航行有触礁危险.
 
 设轮船沿南偏东 $\theta$ 方向航行可安全通过, 即从 $A$ 出发的航线与 $P$ 的距离等于暗礁半径 $16\sqrt{2}$. 新航线过 $A$, 设其与正东方向夹角为 $\varphi$ (向南偏). 新航线到 $P$ 的距离为 $d=AP\cdot\sin(30^{\circ}-\varphi)$.
 
-令 $d=16\sqrt{2}$, 即 $32\sin(30^{\circ}-\varphi)=16\sqrt{2}$, $\sin(30^{\circ}-\varphi)=\dfrac{\sqrt{2}}{2}$. 故 $30^{\circ}-\varphi=45^{\circ}$ (不可能), 或 $30^{\circ}-\varphi=135^{\circ}$ (不可能).
+令 $d=16\sqrt{2}$, 即 $32\sin(30^{\circ}-\varphi)=16\sqrt{2}$, $\sin(30^{\circ}-\varphi)=\frac{\sqrt{2}}{2}$. 故 $30^{\circ}-\varphi=45^{\circ}$ (不可能), 或 $30^{\circ}-\varphi=135^{\circ}$ (不可能).
 
-实际上, 从 $A$ 出发避开暗礁圆的临界航线为圆的切线. 切线与 $AP$ 的夹角满足 $\sin\psi=\dfrac{16\sqrt{2}}{32}=\dfrac{\sqrt{2}}{2}$, 故 $\psi=45^{\circ}$. 原方向为北偏东 $60^{\circ}$ (即与正东成 $30^{\circ}$ 向北), 需向南偏转 $45^{\circ}-30^{\circ}=15^{\circ}$, 即沿南偏东 $45^{\circ}$ 方向航行可安全通过. $\blacksquare$
+实际上, 从 $A$ 出发避开暗礁圆的临界航线为圆的切线. 切线与 $AP$ 的夹角满足 $\sin\psi=\frac{16\sqrt{2}}{32}=\frac{\sqrt{2}}{2}$, 故 $\psi=45^{\circ}$. 原方向为北偏东 $60^{\circ}$ (即与正东成 $30^{\circ}$ 向北), 需向南偏转 $45^{\circ}-30^{\circ}=15^{\circ}$, 即沿南偏东 $45^{\circ}$ 方向航行可安全通过. $\blacksquare$
 
 ### 习题十一
 

@@ -18,20 +18,20 @@
 
 由**定义 27.1.3** (相似多边形)，$EFGH\backsim KLMN$，对应角相等，对应边成比例。
 
-相似比为 $\dfrac{EF}{KL}=\dfrac{4}{10}=\dfrac{2}{5}$。
+相似比为 $\frac{EF}{KL}=\frac{4}{10}=\frac{2}{5}$。
 
 $\angle E=\angle K=143^\circ$，$\angle G=\angle M=107^\circ$。四边形内角和为 $360^\circ$，故 $\angle H=\angle N=360^\circ-143^\circ-67^\circ-107^\circ=43^\circ$。
 
 $$
-\dfrac{FG}{LM}=\dfrac{2}{5}\Rightarrow\dfrac{6}{y}=\dfrac{2}{5}\Rightarrow y=15.
+\frac{FG}{LM}=\frac{2}{5}\Rightarrow\frac{6}{y}=\frac{2}{5}\Rightarrow y=15.
 $$
 
 $$
-\dfrac{GH}{MN}=\dfrac{2}{5}\Rightarrow\dfrac{10}{z}=\dfrac{2}{5}\Rightarrow z=25.
+\frac{GH}{MN}=\frac{2}{5}\Rightarrow\frac{10}{z}=\frac{2}{5}\Rightarrow z=25.
 $$
 
 $$
-\dfrac{EH}{KN}=\dfrac{2}{5}\Rightarrow\dfrac{x}{35}=\dfrac{2}{5}\Rightarrow x=14.
+\frac{EH}{KN}=\frac{2}{5}\Rightarrow\frac{x}{35}=\frac{2}{5}\Rightarrow x=14.
 $$
 
 故 $\angle E=143^\circ$，$\angle G=107^\circ$，$\angle N=43^\circ$，$x=14$，$y=15$，$z=25$。 $\blacksquare$
@@ -42,7 +42,7 @@ $$
 
 ### 解答 复习题二
 
-相似比为 $\dfrac{15}{5}=3$。
+相似比为 $\frac{15}{5}=3$。
 
 其他两条边长为 $12\times3=36$ 和 $13\times3=39$。
 
@@ -92,13 +92,13 @@ $$
 
 ### 解答 复习题七
 
-$\angle AOB=\angle COD$ (对顶角)，且 $\dfrac{OA}{OC}=\dfrac{OB}{OD}=n$，由**判定定理 27.2.3** (SAS)，$\triangle OAB\backsim\triangle OCD$。
+$\angle AOB=\angle COD$ (对顶角)，且 $\frac{OA}{OC}=\frac{OB}{OD}=n$，由**判定定理 27.2.3** (SAS)，$\triangle OAB\backsim\triangle OCD$。
 
 $$
-\dfrac{AB}{CD}=\dfrac{OA}{OC}=n\Rightarrow AB=nb.
+\frac{AB}{CD}=\frac{OA}{OC}=n\Rightarrow AB=nb.
 $$
 
-零件外径为 $a$，厚度 $x=\dfrac{a-AB}{2}=\dfrac{a-nb}{2}$。 $\blacksquare$
+零件外径为 $a$，厚度 $x=\frac{a-AB}{2}=\frac{a-nb}{2}$。 $\blacksquare$
 
 ### 复习题八
 
@@ -111,7 +111,7 @@ $$
 在 $\triangle ACP$ 和 $\triangle CBP$ 中，$\angle A+\angle B=90^\circ$，$\angle ACP+\angle A=90^\circ$，故 $\angle ACP=\angle B$。由**判定定理 27.2.4** (AA)，$\triangle ACP\backsim\triangle CBP$。
 
 $$
-\dfrac{PC}{PB}=\dfrac{PA}{PC}\Rightarrow PC^2=PA\cdot PB.\ \blacksquare
+\frac{PC}{PB}=\frac{PA}{PC}\Rightarrow PC^2=PA\cdot PB.\ \blacksquare
 $$
 
 ### 复习题九
@@ -128,7 +128,7 @@ $\angle AEF=\angle BDF=90^\circ$，$\angle AFE=\angle BFD$ (对顶角)，由**�
 
 ### 解答 复习题十
 
-由**定义 27.3.1** (位似图形)，对应边平行且连线交于 $O$，两三角形位似，相似比为 $\dfrac{OB}{OB'}=3$。
+由**定义 27.3.1** (位似图形)，对应边平行且连线交于 $O$，两三角形位似，相似比为 $\frac{OB}{OB'}=3$。
 
 由**性质 27.2.2** (面积比)，面积比为相似比的平方，即 $9$。
 
@@ -147,7 +147,7 @@ $\angle AEF=\angle BDF=90^\circ$，$\angle AFE=\angle BFD$ (对顶角)，由**�
 小三角形的高为 $80-x$，底为 $x$。由相似三角形对应高之比等于相似比：
 
 $$
-\dfrac{80-x}{80}=\dfrac{x}{120}.
+\frac{80-x}{80}=\frac{x}{120}.
 $$
 
 $$
@@ -162,12 +162,12 @@ $$
 
 标杆高 $3$ 丈 $=30$ 尺 $=5$ 步。设 $AB=h$，$BD=d$。
 
-由相似三角形，从 $G$ 处看：$\dfrac{h-5}{d+123}=\dfrac{5}{123}$。从 $H$ 处看：$\dfrac{h-5}{d+1000+127}=\dfrac{5}{127}$。
+由相似三角形，从 $G$ 处看：$\frac{h-5}{d+123}=\frac{5}{123}$。从 $H$ 处看：$\frac{h-5}{d+1000+127}=\frac{5}{127}$。
 
 两式相除消去 $h-5$：
 
 $$
-\dfrac{d+1127}{d+123}=\dfrac{127}{123}.
+\frac{d+1127}{d+123}=\frac{127}{123}.
 $$
 
 $$
@@ -178,10 +178,10 @@ $$
 4d=123000\Rightarrow d=30750\ \text{步}.
 $$
 
-代入 $\dfrac{h-5}{30750+123}=\dfrac{5}{123}$：
+代入 $\frac{h-5}{30750+123}=\frac{5}{123}$：
 
 $$
-h-5=\dfrac{5\times30873}{123}=1255.
+h-5=\frac{5\times30873}{123}=1255.
 $$
 
 $$

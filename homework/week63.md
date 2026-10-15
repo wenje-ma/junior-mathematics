@@ -267,7 +267,7 @@ $$
 由 $\angle 1=\angle 2$, 得 $\angle B=2\angle 2$; 由 $\angle 3=\angle 4$, 得 $\angle C=2\angle 4$. 故
 
 $$
-2\angle 2+2\angle 4=80^\circ,\qquad \angle 2+\angle 4=40^\circ.
+2\angle 2+2\angle 4=80^\circ,\quad \angle 2+\angle 4=40^\circ.
 $$
 
 在含 $x$ 的三角形中,

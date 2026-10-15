@@ -47,13 +47,13 @@ $$
 由对应顶点 $O\leftrightarrow O$, $C\leftrightarrow B$, $A\leftrightarrow D$, 及**结论 14.1.1** (全等三角形的性质), 相等的边为
 
 $$
-OC=OB,\qquad CA=BD,\qquad OA=OD.
+OC=OB,\quad CA=BD,\quad OA=OD.
 $$
 
 相等的角为
 
 $$
-\angle O=\angle O,\qquad \angle C=\angle B,\qquad \angle A=\angle D.
+\angle O=\angle O,\quad \angle C=\angle B,\quad \angle A=\angle D.
 $$
 
 $\blacksquare$

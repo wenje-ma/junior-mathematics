@@ -18,19 +18,19 @@
 
 (2) $12-4\left(3x-1\right)\le2\left(2x-16\right)$;
 
-(3) $\dfrac{x+3}{5}<\dfrac{2x-5}{3}-1$;
+(3) $\frac{x+3}{5}<\frac{2x-5}{3}-1$;
 
-(4) $\dfrac{2x-1}{3}-\dfrac{3x-1}{2}\ge\dfrac{5}{12}$.
+(4) $\frac{2x-1}{3}-\frac{3x-1}{2}\ge\frac{5}{12}$.
 
 ### 解答 复习题一
 
-(1) $6x+21>23$, 得 $x>\dfrac{1}{3}$.
+(1) $6x+21>23$, 得 $x>\frac{1}{3}$.
 
 (2) $12-12x+4\le4x-32$, 即 $48\le16x$, 得 $x\ge3$.
 
 (3) 乘 $15$: $3\left(x+3\right)<5\left(2x-5\right)-15$, 即 $3x+9<10x-40$, 得 $x>7$.
 
-(4) 乘 $12$: $4\left(2x-1\right)-6\left(3x-1\right)\ge5$, 即 $-10x+2\ge5$, 得 $x\le-\dfrac{3}{10}$. $\blacksquare$
+(4) 乘 $12$: $4\left(2x-1\right)-6\left(3x-1\right)\ge5$, 即 $-10x+2\ge5$, 得 $x\le-\frac{3}{10}$. $\blacksquare$
 
 ### 复习题二
 
@@ -60,7 +60,7 @@
 
 (3) $\begin{cases}3\left(x-1\right)+1>5x-2\left(1-x\right),\\5-\left(2x-1\right)<-6x;\end{cases}$
 
-(4) $\begin{cases}-3\left(x-2\right)\ge4-x,\\\dfrac{1+2x}{3}>x-1.\end{cases}$
+(4) $\begin{cases}-3\left(x-2\right)\ge4-x,\\\frac{1+2x}{3}>x-1.\end{cases}$
 
 ### 解答 复习题三
 
@@ -68,21 +68,21 @@
 
 (2) 第一式: $-x+1>3$, $x<-2$. 第二式: $2x>-6$, $x>-3$. 公共部分 $-3<x<-2$.
 
-(3) 第一式: $3x-2>7x-2$, $x<0$. 第二式: $6-2x<-6x$, $x<-\dfrac{3}{2}$. 公共部分 $x<-\dfrac{3}{2}$.
+(3) 第一式: $3x-2>7x-2$, $x<0$. 第二式: $6-2x<-6x$, $x<-\frac{3}{2}$. 公共部分 $x<-\frac{3}{2}$.
 
 (4) 第一式: $-3x+6\ge4-x$, $x\le1$. 第二式: $1+2x>3x-3$, $x<4$. 公共部分 $x\le1$. $\blacksquare$
 
 ### 复习题四
 
-(复习题 复习巩固第 4 题) $\dfrac{x+3}{5}$ 能同时大于 $2x+3$ 和 $1-x$ 吗?
+(复习题 复习巩固第 4 题) $\frac{x+3}{5}$ 能同时大于 $2x+3$ 和 $1-x$ 吗?
 
 ### 解答 复习题四
 
-由 $\dfrac{x+3}{5}>2x+3$, 得 $x+3>10x+15$, 即 $x<-\dfrac{4}{3}$.
+由 $\frac{x+3}{5}>2x+3$, 得 $x+3>10x+15$, 即 $x<-\frac{4}{3}$.
 
-由 $\dfrac{x+3}{5}>1-x$, 得 $x+3>5-5x$, 即 $x>\dfrac{1}{3}$.
+由 $\frac{x+3}{5}>1-x$, 得 $x+3>5-5x$, 即 $x>\frac{1}{3}$.
 
-$x<-\dfrac{4}{3}$ 与 $x>\dfrac{1}{3}$ 无公共部分, 故不能同时大于二者. $\blacksquare$
+$x<-\frac{4}{3}$ 与 $x>\frac{1}{3}$ 无公共部分, 故不能同时大于二者. $\blacksquare$
 
 ### 复习题五
 
@@ -100,7 +100,7 @@ $x<-\dfrac{4}{3}$ 与 $x>\dfrac{1}{3}$ 无公共部分, 故不能同时大于二
 
 ### 解答 复习题六
 
-剩余时间最多 $16.75-10.5=6.25\ \text{min}$. 设剩余 $2000\ \text{m}$ 平均速度为 $v\ \text{m/min}$, 则 $\dfrac{2000}{v}\le6.25$, 得 $v\ge320\ \text{m/min}$. 故至少为 $320\ \text{m/min}$. $\blacksquare$
+剩余时间最多 $16.75-10.5=6.25\ \text{min}$. 设剩余 $2000\ \text{m}$ 平均速度为 $v\ \text{m/min}$, 则 $\frac{2000}{v}\le6.25$, 得 $v\ge320\ \text{m/min}$. 故至少为 $320\ \text{m/min}$. $\blacksquare$
 
 ### 复习题七
 

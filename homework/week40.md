@@ -18,7 +18,7 @@
 
 (复习题 复习巩固第 1 题) 求下列各数的平方根及算术平方根:
 
-(1) $0.36$;　(2) $\dfrac{25}{16}$;　(3) $\left(-\dfrac{7}{8}\right)^2$;　(4) $10^4$.
+(1) $0.36$;　(2) $\frac{25}{16}$;　(3) $\left(-\frac{7}{8}\right)^2$;　(4) $10^4$.
 
 ### 解答 复习题一
 
@@ -26,9 +26,9 @@
 
 (1) $\because(\pm 0.6)^2=0.36$, $\therefore$ 平方根为 $\pm 0.6$, 算术平方根为 $0.6$.
 
-(2) $\because\left(\pm\dfrac{5}{4}\right)^2=\dfrac{25}{16}$, $\therefore$ 平方根为 $\pm\dfrac{5}{4}$, 算术平方根为 $\dfrac{5}{4}$.
+(2) $\because\left(\pm\frac{5}{4}\right)^2=\frac{25}{16}$, $\therefore$ 平方根为 $\pm\frac{5}{4}$, 算术平方根为 $\frac{5}{4}$.
 
-(3) $\left(-\dfrac{7}{8}\right)^2=\dfrac{49}{64}$, $\because\left(\pm\dfrac{7}{8}\right)^2=\dfrac{49}{64}$, $\therefore$ 平方根为 $\pm\dfrac{7}{8}$, 算术平方根为 $\dfrac{7}{8}$.
+(3) $\left(-\frac{7}{8}\right)^2=\frac{49}{64}$, $\because\left(\pm\frac{7}{8}\right)^2=\frac{49}{64}$, $\therefore$ 平方根为 $\pm\frac{7}{8}$, 算术平方根为 $\frac{7}{8}$.
 
 (4) $10^4=10000$, $\because(\pm 100)^2=10000$, $\therefore$ 平方根为 $\pm 100$, 算术平方根为 $100$. $\blacksquare$
 
@@ -36,15 +36,15 @@
 
 (复习题 复习巩固第 2 题) 求下列各数的立方根:
 
-(1) $\dfrac{27}{8}$;　(2) $-\dfrac{1}{64}$;　(3) $-0.729$;　(4) $36$.
+(1) $\frac{27}{8}$;　(2) $-\frac{1}{64}$;　(3) $-0.729$;　(4) $36$.
 
 ### 解答 复习题二
 
 由**定义 8.2.1** (立方根).
 
-(1) $\because\left(\dfrac{3}{2}\right)^3=\dfrac{27}{8}$, $\therefore\sqrt[3]{\dfrac{27}{8}}=\dfrac{3}{2}$.
+(1) $\because\left(\frac{3}{2}\right)^3=\frac{27}{8}$, $\therefore\sqrt[3]{\frac{27}{8}}=\frac{3}{2}$.
 
-(2) $\because\left(-\dfrac{1}{4}\right)^3=-\dfrac{1}{64}$, $\therefore\sqrt[3]{-\dfrac{1}{64}}=-\dfrac{1}{4}$.
+(2) $\because\left(-\frac{1}{4}\right)^3=-\frac{1}{64}$, $\therefore\sqrt[3]{-\frac{1}{64}}=-\frac{1}{4}$.
 
 (3) $\because(-0.9)^3=-0.729$, $\therefore\sqrt[3]{-0.729}=-0.9$.
 
@@ -54,13 +54,13 @@
 
 (复习题 复习巩固第 3 题) 求下列各式的值:
 
-(1) $-\sqrt{1-\dfrac{16}{25}}$;　(2) $\sqrt[3]{10^3}$;　(3) $\pm\sqrt{0.09}$;　(4) $\sqrt{(3-\pi)^2}$.
+(1) $-\sqrt{1-\frac{16}{25}}$;　(2) $\sqrt[3]{10^3}$;　(3) $\pm\sqrt{0.09}$;　(4) $\sqrt{(3-\pi)^2}$.
 
 ### 解答 复习题三
 
 由**定义 8.1.2** (算术平方根)、**性质 8.1.3**、**定义 8.2.1** (立方根).
 
-(1) $1-\dfrac{16}{25}=\dfrac{9}{25}$, $\sqrt{\dfrac{9}{25}}=\dfrac{3}{5}$, 故 $-\sqrt{1-\dfrac{16}{25}}=-\dfrac{3}{5}$.
+(1) $1-\frac{16}{25}=\frac{9}{25}$, $\sqrt{\frac{9}{25}}=\frac{3}{5}$, 故 $-\sqrt{1-\frac{16}{25}}=-\frac{3}{5}$.
 
 (2) $\sqrt[3]{10^3}=10$.
 
@@ -90,7 +90,7 @@
 
 (复习题 复习巩固第 5 题) 计算:
 
-(1) $\sqrt 2(\sqrt 2+2)$;　(2) $\sqrt 3\left(\sqrt 3+\dfrac{1}{\sqrt 3}\right)$.
+(1) $\sqrt 2(\sqrt 2+2)$;　(2) $\sqrt 3\left(\sqrt 3+\frac{1}{\sqrt 3}\right)$.
 
 ### 解答 复习题五
 
@@ -98,7 +98,7 @@
 
 (1) $\sqrt 2(\sqrt 2+2)=(\sqrt 2)^2+2\sqrt 2=2+2\sqrt 2$.
 
-(2) $\sqrt 3\left(\sqrt 3+\dfrac{1}{\sqrt 3}\right)=(\sqrt 3)^2+\sqrt 3\cdot\dfrac{1}{\sqrt 3}=3+1=4$. $\blacksquare$
+(2) $\sqrt 3\left(\sqrt 3+\frac{1}{\sqrt 3}\right)=(\sqrt 3)^2+\sqrt 3\cdot\frac{1}{\sqrt 3}=3+1=4$. $\blacksquare$
 
 ### 复习题六
 

@@ -1,14 +1,14 @@
 # 作业 93
 
-> **定义 18.1.2** (分式的基本性质) <br>$\dfrac{A}{B}=\dfrac{A\cdot C}{B\cdot C}=\dfrac{A\div C}{B\div C}$ ($C\ne0$).
+> **定义 18.1.2** (分式的基本性质) <br>$\frac{A}{B}=\frac{A\cdot C}{B\cdot C}=\frac{A\div C}{B\div C}$ ($C\ne0$).
 
-> **定义 18.2.1** (分式的乘法法则) <br>$\dfrac{a}{b}\cdot\dfrac{c}{d}=\dfrac{ac}{bd}$.
+> **定义 18.2.1** (分式的乘法法则) <br>$\frac{a}{b}\cdot\frac{c}{d}=\frac{ac}{bd}$.
 
-> **定义 18.2.2** (分式的除法法则) <br>$\dfrac{a}{b}\div\dfrac{c}{d}=\dfrac{ad}{bc}$.
+> **定义 18.2.2** (分式的除法法则) <br>$\frac{a}{b}\div\frac{c}{d}=\frac{ad}{bc}$.
 
-> **定义 18.3.1** (同分母分式的加减法) <br>$\dfrac{a}{c}\pm\dfrac{b}{c}=\dfrac{a\pm b}{c}$.
+> **定义 18.3.1** (同分母分式的加减法) <br>$\frac{a}{c}\pm\frac{b}{c}=\frac{a\pm b}{c}$.
 
-> **定义 18.3.2** (异分母分式的加减法) <br>$\dfrac{a}{b}\pm\dfrac{c}{d}=\dfrac{ad\pm bc}{bd}$.
+> **定义 18.3.2** (异分母分式的加减法) <br>$\frac{a}{b}\pm\frac{c}{d}=\frac{ad\pm bc}{bd}$.
 
 > **定义 18.5.2** (解分式方程的检验) <br>将整式方程的解代入最简公分母, 不为 $0$ 则是原方程的解, 否则不是.
 
@@ -16,13 +16,13 @@
 
 (复习题 复习巩固第 1 题) 下列各式中, 哪些是整式? 哪些是分式?
 
-$\dfrac{x}{3}$, $\dfrac{1}{n}$, $\dfrac{1}{a+5}$, $\dfrac{a+5}{15}$, $\dfrac{z}{x^2 y}$, $\dfrac{2ab}{(a+b)^2}$.
+$\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y}$, $\frac{2ab}{(a+b)^2}$.
 
 ### 解答 复习题一
 
-整式: $\dfrac{x}{3}$, $\dfrac{a+5}{15}$.
+整式: $\frac{x}{3}$, $\frac{a+5}{15}$.
 
-分式: $\dfrac{1}{n}$, $\dfrac{1}{a+5}$, $\dfrac{z}{x^2 y}$, $\dfrac{2ab}{(a+b)^2}$. $\blacksquare$
+分式: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2 y}$, $\frac{2ab}{(a+b)^2}$. $\blacksquare$
 
 ### 复习题二
 
@@ -42,17 +42,17 @@ $\dfrac{x}{3}$, $\dfrac{1}{n}$, $\dfrac{1}{a+5}$, $\dfrac{a+5}{15}$, $\dfrac{z}{
 
 ### 解答 复习题二
 
-(1) $\dfrac{(s-2t)\cdot6s^2}{3s(s+2t)}=\dfrac{2s(s-2t)}{s+2t}$.
+(1) $\frac{(s-2t)\cdot6s^2}{3s(s+2t)}=\frac{2s(s-2t)}{s+2t}$.
 
-(2) $\dfrac{x-y}{x+y}\cdot\dfrac{1}{(x-y)^2}=\dfrac{1}{(x+y)(x-y)}=\dfrac{1}{x^2-y^2}$.
+(2) $\frac{x-y}{x+y}\cdot\frac{1}{(x-y)^2}=\frac{1}{(x+y)(x-y)}=\frac{1}{x^2-y^2}$.
 
-(3) $\dfrac{2a+2}{a+1}=\dfrac{2(a+1)}{a+1}=2$.
+(3) $\frac{2a+2}{a+1}=\frac{2(a+1)}{a+1}=2$.
 
-(4) $\dfrac{(u-2v)^2-2}{(u+2v)(u-2v)}=\dfrac{u^2-4uv+4v^2-2}{u^2-4v^2}$.
+(4) $\frac{(u-2v)^2-2}{(u+2v)(u-2v)}=\frac{u^2-4uv+4v^2-2}{u^2-4v^2}$.
 
-(5) $(x^{-2} y^3)^{-3}=x^6 y^{-9}=\dfrac{x^6}{y^9}$.
+(5) $(x^{-2} y^3)^{-3}=x^6 y^{-9}=\frac{x^6}{y^9}$.
 
-(6) $\left(-\dfrac{3x}{y^3 z}\right)^2=\dfrac{9x^2}{y^6 z^2}$. $\blacksquare$
+(6) $\left(-\frac{3x}{y^3 z}\right)^2=\frac{9x^2}{y^6 z^2}$. $\blacksquare$
 
 ### 复习题三
 
@@ -76,21 +76,21 @@ $\dfrac{x}{3}$, $\dfrac{1}{n}$, $\dfrac{1}{a+5}$, $\dfrac{a+5}{15}$, $\dfrac{z}{
 
 ### 解答 复习题三
 
-(1) $\dfrac{2m}{3n}\cdot\dfrac{9n^2}{p^2}\cdot\dfrac{p^2}{mn}=\dfrac{6n}{n}=6$.
+(1) $\frac{2m}{3n}\cdot\frac{9n^2}{p^2}\cdot\frac{p^2}{mn}=\frac{6n}{n}=6$.
 
-(2) $a^2 b^3\cdot a^{-2} b^{-4}=b^{-1}=\dfrac1b$.
+(2) $a^2 b^3\cdot a^{-2} b^{-4}=b^{-1}=\frac1b$.
 
-(3) $\dfrac{(x+4)(x-4)}{(x+4)^2}+\dfrac{x}{x-4}=\dfrac{x-4}{x+4}+\dfrac{x}{x-4}=\dfrac{(x-4)^2+x(x+4)}{(x+4)(x-4)}=\dfrac{2x^2-4x+16}{x^2-16}$.
+(3) $\frac{(x+4)(x-4)}{(x+4)^2}+\frac{x}{x-4}=\frac{x-4}{x+4}+\frac{x}{x-4}=\frac{(x-4)^2+x(x+4)}{(x+4)(x-4)}=\frac{2x^2-4x+16}{x^2-16}$.
 
-(4) $\dfrac{p^3 q^6}{r^3}\cdot\dfrac{r+12q}{2pr^2}=\dfrac{p^2 q^6(r+12q)}{2r^5}$.
+(4) $\frac{p^3 q^6}{r^3}\cdot\frac{r+12q}{2pr^2}=\frac{p^2 q^6(r+12q)}{2r^5}$.
 
-(5) $1\div(2x+1-x)=1\div(x+1)=\dfrac{1}{x+1}$.
+(5) $1\div(2x+1-x)=1\div(x+1)=\frac{1}{x+1}$.
 
-(6) $\dfrac{a-b}{a}\div\dfrac{a^2-2ab+b^2}{a}=\dfrac{a-b}{a}\cdot\dfrac{a}{(a-b)^2}=\dfrac{1}{a-b}$.
+(6) $\frac{a-b}{a}\div\frac{a^2-2ab+b^2}{a}=\frac{a-b}{a}\cdot\frac{a}{(a-b)^2}=\frac{1}{a-b}$.
 
-(7) $1-\dfrac{a+b}{a+2b}\cdot\dfrac{(a+2b)^2}{(a+b)(a-b)}=1-\dfrac{a+2b}{a-b}=\dfrac{a-b-a-2b}{a-b}=-\dfrac{3b}{a-b}$.
+(7) $1-\frac{a+b}{a+2b}\cdot\frac{(a+2b)^2}{(a+b)(a-b)}=1-\frac{a+2b}{a-b}=\frac{a-b-a-2b}{a-b}=-\frac{3b}{a-b}$.
 
-(8) $\dfrac{(x-y)^2+4xy}{x-y}\cdot\dfrac{(x+y)^2-4xy}{x+y}=\dfrac{(x+y)^2}{x-y}\cdot\dfrac{(x-y)^2}{x+y}=(x+y)(x-y)=x^2-y^2$. $\blacksquare$
+(8) $\frac{(x-y)^2+4xy}{x-y}\cdot\frac{(x+y)^2-4xy}{x+y}=\frac{(x+y)^2}{x-y}\cdot\frac{(x-y)^2}{x+y}=(x+y)(x-y)=x^2-y^2$. $\blacksquare$
 
 ### 复习题四
 
@@ -104,7 +104,7 @@ $\dfrac{x}{3}$, $\dfrac{1}{n}$, $\dfrac{1}{a+5}$, $\dfrac{a+5}{15}$, $\dfrac{z}{
 
 (1) 乘 $x(x+1)$: $5x+2=3x$, $2x=-2$, $x=-1$. 检验 $x+1=0$, 原方程无解.
 
-(2) 乘 $(2x-5)(2x+5)$: $2x(2x+5)-2(2x-5)=(2x-5)(2x+5)$, $4x^2+10x-4x+10=4x^2-25$, $6x=-35$, $x=-\dfrac{35}{6}$. 检验成立. $\blacksquare$
+(2) 乘 $(2x-5)(2x+5)$: $2x(2x+5)-2(2x-5)=(2x-5)(2x+5)$, $4x^2+10x-4x+10=4x^2-25$, $6x=-35$, $x=-\frac{35}{6}$. 检验成立. $\blacksquare$
 
 ### 复习题五
 
@@ -118,23 +118,23 @@ $\dfrac{x}{3}$, $\dfrac{1}{n}$, $\dfrac{1}{a+5}$, $\dfrac{a+5}{15}$, $\dfrac{z}{
 
 各分母及除式不为 $0$.
 
-(1) $2x+1\ne0$, $x-2\ne0$, 即 $x\ne-\dfrac12$ 且 $x\ne2$.
+(1) $2x+1\ne0$, $x-2\ne0$, 即 $x\ne-\frac12$ 且 $x\ne2$.
 
-(2) $x+2\ne0$, $x-2\ne0$, $2x-3\ne0$, 即 $x\ne-2,2,\dfrac32$. $\blacksquare$
+(2) $x+2\ne0$, $x-2\ne0$, $2x-3\ne0$, 即 $x\ne-2,2,\frac32$. $\blacksquare$
 
 ### 复习题六
 
-(复习题 综合运用第 6 题) (1) 当 $x$ 取什么值时, 分式 $\dfrac{3x-6}{2x+1}$ 的值为 $0$?
+(复习题 综合运用第 6 题) (1) 当 $x$ 取什么值时, 分式 $\frac{3x-6}{2x+1}$ 的值为 $0$?
 
-(2) 当 $x$ 取什么值时, 分式 $\dfrac{2x+1}{x^2}$ 的值为正?
+(2) 当 $x$ 取什么值时, 分式 $\frac{2x+1}{x^2}$ 的值为正?
 
-(3) 当 $x$ 取什么值时, 分式 $\dfrac{x-2}{x^2}$ 的值为负?
+(3) 当 $x$ 取什么值时, 分式 $\frac{x-2}{x^2}$ 的值为负?
 
 ### 解答 复习题六
 
 (1) 分子 $3x-6=0$ 且分母 $2x+1\ne0$, 得 $x=2$.
 
-(2) $x^2>0$ (恒成立, $x\ne0$), 需 $2x+1>0$, 即 $x>-\dfrac12$ 且 $x\ne0$.
+(2) $x^2>0$ (恒成立, $x\ne0$), 需 $2x+1>0$, 即 $x>-\frac12$ 且 $x\ne0$.
 
 (3) $x^2>0$ ($x\ne0$), 需 $x-2<0$, 即 $x<2$ 且 $x\ne0$. $\blacksquare$
 
@@ -144,21 +144,21 @@ $\dfrac{x}{3}$, $\dfrac{1}{n}$, $\dfrac{1}{a+5}$, $\dfrac{a+5}{15}$, $\dfrac{z}{
 
 ### 解答 复习题七
 
-$$\dfrac{2}{x+1}=\dfrac{3}{x-2}.$$
+$$\frac{2}{x+1}=\frac{3}{x-2}.$$
 
 $2(x-2)=3(x+1)$, $2x-4=3x+3$, $x=-7$. 检验 $x+1\ne0$, $x-2\ne0$, 成立. 故当 $x=-7$ 时两式相等. $\blacksquare$
 
 ### 复习题八
 
-(复习题 综合运用第 8 题) (1) 先化简, 再求值: $\dfrac{x^2-1}{x^2-2x+1}\div\dfrac{x+1}{x-1}\cdot\dfrac{1-x}{1+x}$, 其中 $x=\dfrac12$;
+(复习题 综合运用第 8 题) (1) 先化简, 再求值: $\frac{x^2-1}{x^2-2x+1}\div\frac{x+1}{x-1}\cdot\frac{1-x}{1+x}$, 其中 $x=\frac12$;
 
-(2) 当 $x=-3.2$ 时, 求 $\dfrac{x^2-4x+4}{x^2-4}\div\dfrac{x-2}{x^2+2x+3}$ 的值.
+(2) 当 $x=-3.2$ 时, 求 $\frac{x^2-4x+4}{x^2-4}\div\frac{x-2}{x^2+2x+3}$ 的值.
 
 ### 解答 复习题八
 
-(1) $\dfrac{(x+1)(x-1)}{(x-1)^2}\cdot\dfrac{x-1}{x+1}\cdot\dfrac{1-x}{1+x}=\dfrac{1-x}{1+x}$. 代入 $x=\dfrac12$, 得 $\dfrac{1-\frac12}{1+\frac12}=\dfrac13$.
+(1) $\frac{(x+1)(x-1)}{(x-1)^2}\cdot\frac{x-1}{x+1}\cdot\frac{1-x}{1+x}=\frac{1-x}{1+x}$. 代入 $x=\frac12$, 得 $\frac{1-\frac12}{1+\frac12}=\frac13$.
 
-(2) $\dfrac{(x-2)^2}{(x+2)(x-2)}\cdot\dfrac{x^2+2x+3}{x-2}=\dfrac{x^2+2x+3}{x+2}$. 代入 $x=-3.2$, 得 $\dfrac{10.24-6.4+3}{-1.2}=\dfrac{6.84}{-1.2}=-5.7$. $\blacksquare$
+(2) $\frac{(x-2)^2}{(x+2)(x-2)}\cdot\frac{x^2+2x+3}{x-2}=\frac{x^2+2x+3}{x+2}$. 代入 $x=-3.2$, 得 $\frac{10.24-6.4+3}{-1.2}=\frac{6.84}{-1.2}=-5.7$. $\blacksquare$
 
 ### 复习题九
 
@@ -168,7 +168,7 @@ $2(x-2)=3(x+1)$, $2x-4=3x+3$, $x=-7$. 检验 $x+1\ne0$, $x-2\ne0$, 成立. 故�
 
 设现在每天生产 $x$ 台, 原计划 $(x-50)$ 台.
 
-$$\dfrac{600}{x}=\dfrac{450}{x-50}.$$
+$$\frac{600}{x}=\frac{450}{x-50}.$$
 
 $600(x-50)=450x$, $600x-30000=450x$, $150x=30000$, $x=200$. 检验成立.
 
@@ -182,9 +182,9 @@ $600(x-50)=450x$, $600x-30000=450x$, $150x=30000$, $x=200$. 检验成立.
 
 设农民每小时收割 $x\ \text{hm}^2$, 收割机 $150x$.
 
-$$\dfrac{10}{100x}-\dfrac{10}{150x}=1.$$
+$$\frac{10}{100x}-\frac{10}{150x}=1.$$
 
-$$\dfrac{1}{10x}-\dfrac{1}{15x}=1,\quad \dfrac{3-2}{30x}=1,\quad x=\dfrac{1}{30}.$$
+$$\frac{1}{10x}-\frac{1}{15x}=1,\quad \frac{3-2}{30x}=1,\quad x=\frac{1}{30}.$$
 
 收割机每小时 $150x=5\ \text{hm}^2$. $\blacksquare$
 
@@ -194,11 +194,11 @@ $$\dfrac{1}{10x}-\dfrac{1}{15x}=1,\quad \dfrac{3-2}{30x}=1,\quad x=\dfrac{1}{30}
 
 ### 解答 复习题十一
 
-设第一小时速度为 $x\ \text{km/h}$. 原计划用时 $\dfrac{180}{x}$. 实际用时 $1+\dfrac{180-x}{1.5x}$. 提前 $\dfrac{2}{3}\ \text{h}$:
+设第一小时速度为 $x\ \text{km/h}$. 原计划用时 $\frac{180}{x}$. 实际用时 $1+\frac{180-x}{1.5x}$. 提前 $\frac{2}{3}\ \text{h}$:
 
-$$\dfrac{180}{x}-\left(1+\dfrac{180-x}{1.5x}\right)=\dfrac23.$$
+$$\frac{180}{x}-\left(1+\frac{180-x}{1.5x}\right)=\frac23.$$
 
-$$\dfrac{180}{x}-1-\dfrac{120}{x}+\dfrac{2}{3}=\dfrac23,\quad \dfrac{60}{x}-1=0,\quad x=60.$$
+$$\frac{180}{x}-1-\frac{120}{x}+\frac{2}{3}=\frac23,\quad \frac{60}{x}-1=0,\quad x=60.$$
 
 检验成立. 故第一小时速度为 $60\ \text{km/h}$. $\blacksquare$
 
@@ -216,19 +216,19 @@ $$S=\pi(R^2-r^2)+2a(R-r)=(R-r)[\pi(R+r)+2a].$$
 
 解得
 
-$$a=\dfrac{\dfrac{S}{R-r}-\pi(R+r)}{2}.$$
+$$a=\frac{\frac{S}{R-r}-\pi(R+r)}{2}.$$
 
 $\blacksquare$
 
 ### 复习题十三
 
-(复习题 拓广探索第 13 题) (1) 式子 $\dfrac{a}{bc}+\dfrac{b}{ca}+\dfrac{c}{ab}$ 的值能否为 $0$? 为什么?
+(复习题 拓广探索第 13 题) (1) 式子 $\frac{a}{bc}+\frac{b}{ca}+\frac{c}{ab}$ 的值能否为 $0$? 为什么?
 
-(2) 式子 $\dfrac{a-b}{(b-c)(c-a)}+\dfrac{b-c}{(a-b)(c-a)}+\dfrac{c-a}{(a-b)(b-c)}$ 的值能否为 $0$? 为什么?
+(2) 式子 $\frac{a-b}{(b-c)(c-a)}+\frac{b-c}{(a-b)(c-a)}+\frac{c-a}{(a-b)(b-c)}$ 的值能否为 $0$? 为什么?
 
 ### 解答 复习题十三
 
-(1) 通分: $\dfrac{a^2+b^2+c^2}{abc}$. 若值为 $0$, 需 $a^2+b^2+c^2=0$, 即 $a=b=c=0$, 与分母 $abc\ne0$ 矛盾. 故不能为 $0$.
+(1) 通分: $\frac{a^2+b^2+c^2}{abc}$. 若值为 $0$, 需 $a^2+b^2+c^2=0$, 即 $a=b=c=0$, 与分母 $abc\ne0$ 矛盾. 故不能为 $0$.
 
 (2) 通分, 公分母 $(a-b)(b-c)(c-a)$:
 

@@ -20,7 +20,7 @@ $a=10$ 时, $2-3\times 10=-28$; $a=4$ 时, $2-3\times 4=-10$; $a=0$ 时, $2-0=2$
 
 (1) $x=2$, $y=-3$;
 
-(2) $x=\dfrac{1}{2}$, $y=-4$.
+(2) $x=\frac{1}{2}$, $y=-4$.
 
 ### 解答 练习二
 
@@ -28,7 +28,7 @@ $a=10$ 时, $2-3\times 10=-28$; $a=4$ 时, $2-3\times 4=-10$; $a=0$ 时, $2-0=2$
 
 (1) 当 $x=2$, $y=-3$ 时, $x^{2}+2xy+y^{2}=4+2\times 2\times\left(-3\right)+9=4-12+9=1$.
 
-(2) 当 $x=\dfrac{1}{2}$, $y=-4$ 时, $x^{2}+2xy+y^{2}=\dfrac{1}{4}+2\times\dfrac{1}{2}\times\left(-4\right)+16=\dfrac{1}{4}-4+16=\dfrac{49}{4}$. $\blacksquare$
+(2) 当 $x=\frac{1}{2}$, $y=-4$ 时, $x^{2}+2xy+y^{2}=\frac{1}{4}+2\times\frac{1}{2}\times\left(-4\right)+16=\frac{1}{4}-4+16=\frac{49}{4}$. $\blacksquare$
 
 ### 练习三
 
@@ -58,7 +58,7 @@ $$3.5+vt=3.5+56\times 0.5=3.5+28=31.5.$$
 
 (1) 平行四边形面积 $S=ab$; 当 $a=2$, $b=3$ 时, $S=2\times 3=6\ \text{cm}^{2}$.
 
-(2) 梯形面积 $S=\dfrac{\left(a+b\right)h}{2}$; 当 $a=2$, $b=4$, $h=5$ 时, $S=\dfrac{\left(2+4\right)\times 5}{2}=15\ \text{cm}^{2}$. $\blacksquare$
+(2) 梯形面积 $S=\frac{\left(a+b\right)h}{2}$; 当 $a=2$, $b=4$, $h=5$ 时, $S=\frac{\left(2+4\right)\times 5}{2}=15\ \text{cm}^{2}$. $\blacksquare$
 
 ### 练习五
 
@@ -94,7 +94,7 @@ $$S=3.14\times\left(15^{2}-10^{2}\right)=3.14\times 125=392.5.$$
 
 (1) 当 $a=-1$ 时, 代数式 $2-a$ 的值是 $\;\_\_\;$;
 
-(2) 当 $b=-\dfrac{1}{2}$ 时, 代数式 $1-b^{2}$ 的值是 $\;\_\_\;$.
+(2) 当 $b=-\frac{1}{2}$ 时, 代数式 $1-b^{2}$ 的值是 $\;\_\_\;$.
 
 ### 解答 习题一
 
@@ -102,19 +102,19 @@ $$S=3.14\times\left(15^{2}-10^{2}\right)=3.14\times 125=392.5.$$
 
 (1) 当 $a=-1$ 时, $2-a=2-\left(-1\right)=3$.
 
-(2) 当 $b=-\dfrac{1}{2}$ 时, $1-b^{2}=1-\dfrac{1}{4}=\dfrac{3}{4}$. $\blacksquare$
+(2) 当 $b=-\frac{1}{2}$ 时, $1-b^{2}=1-\frac{1}{4}=\frac{3}{4}$. $\blacksquare$
 
 ### 习题二
 
-(习题 3.2 复习巩固第 2 题) 已知 $a=12$, $b=-18$, 求代数式 $a+b$, $a-b$, $ab$, $\dfrac{b}{a}$ 的值.
+(习题 3.2 复习巩固第 2 题) 已知 $a=12$, $b=-18$, 求代数式 $a+b$, $a-b$, $ab$, $\frac{b}{a}$ 的值.
 
 ### 解答 习题二
 
 由**定义 3.2.1** (代数式的值).
 
-$$a+b=12+\left(-18\right)=-6;\qquad a-b=12-\left(-18\right)=30;$$
+$$a+b=12+\left(-18\right)=-6;\quad a-b=12-\left(-18\right)=30;$$
 
-$$ab=12\times\left(-18\right)=-216;\qquad \dfrac{b}{a}=\dfrac{-18}{12}=-\dfrac{3}{2}.$$
+$$ab=12\times\left(-18\right)=-216;\quad \frac{b}{a}=\frac{-18}{12}=-\frac{3}{2}.$$
 
 $\blacksquare$
 
@@ -138,27 +138,27 @@ $\blacksquare$
 
 (习题 3.2 复习巩固第 4 题) 求下列代数式的值:
 
-(1) $\dfrac{n^{2}+1}{n-1}$, 其中 $n=4$;
+(1) $\frac{n^{2}+1}{n-1}$, 其中 $n=4$;
 
-(2) $\left(a-c\right)^{2}+\dfrac{1}{4}b$, 其中 $a=7$, $b=3$, $c=5$.
+(2) $\left(a-c\right)^{2}+\frac{1}{4}b$, 其中 $a=7$, $b=3$, $c=5$.
 
 ### 解答 习题四
 
 由**定义 3.2.1** (代数式的值).
 
-(1) 当 $n=4$ 时, $\dfrac{n^{2}+1}{n-1}=\dfrac{16+1}{3}=\dfrac{17}{3}$.
+(1) 当 $n=4$ 时, $\frac{n^{2}+1}{n-1}=\frac{16+1}{3}=\frac{17}{3}$.
 
-(2) 当 $a=7$, $b=3$, $c=5$ 时, $\left(a-c\right)^{2}+\dfrac{1}{4}b=\left(7-5\right)^{2}+\dfrac{3}{4}=4+\dfrac{3}{4}=\dfrac{19}{4}$. $\blacksquare$
+(2) 当 $a=7$, $b=3$, $c=5$ 时, $\left(a-c\right)^{2}+\frac{1}{4}b=\left(7-5\right)^{2}+\frac{3}{4}=4+\frac{3}{4}=\frac{19}{4}$. $\blacksquare$
 
 ### 习题五
 
-(习题 3.2 复习巩固第 5 题) 已知圆锥的体积 $V=\dfrac{1}{3}\pi r^{2}h$, 其中 $r$ 为底面半径, $h$ 为圆锥的高. 当 $r=15\ \text{cm}$, $h=16\ \text{cm}$ 时, 求圆锥的体积 ($\pi$ 取 $3.14$).
+(习题 3.2 复习巩固第 5 题) 已知圆锥的体积 $V=\frac{1}{3}\pi r^{2}h$, 其中 $r$ 为底面半径, $h$ 为圆锥的高. 当 $r=15\ \text{cm}$, $h=16\ \text{cm}$ 时, 求圆锥的体积 ($\pi$ 取 $3.14$).
 
 ### 解答 习题五
 
 由**定义 3.2.1** (代数式的值).
 
-$$V=\dfrac{1}{3}\times 3.14\times 15^{2}\times 16=\dfrac{1}{3}\times 3.14\times 225\times 16=3768.$$
+$$V=\frac{1}{3}\times 3.14\times 15^{2}\times 16=\frac{1}{3}\times 3.14\times 225\times 16=3768.$$
 
 故圆锥的体积是 $3768\ \text{cm}^{3}$. $\blacksquare$
 
@@ -188,22 +188,22 @@ $$V=3.14\times\left(30^{2}-15^{2}\right)\times 120=3.14\times 675\times 120=2543
 
 由**定义 3.1.2** (列代数式), 时间 $=$ 路程 $\div$ 速度.
 
-(1) 甲用时 $\dfrac{s}{a}\ \text{h}$, 乙用时 $\dfrac{s}{b}\ \text{h}$, 甲比乙少用 $\left(\dfrac{s}{b}-\dfrac{s}{a}\right)\ \text{h}$.
+(1) 甲用时 $\frac{s}{a}\ \text{h}$, 乙用时 $\frac{s}{b}\ \text{h}$, 甲比乙少用 $\left(\frac{s}{b}-\frac{s}{a}\right)\ \text{h}$.
 
 (2) 由**定义 3.2.1** (代数式的值), 当 $s=180$, $a=72$, $b=60$ 时,
 
-$$\dfrac{s}{b}-\dfrac{s}{a}=\dfrac{180}{60}-\dfrac{180}{72}=3-2.5=0.5.$$
+$$\frac{s}{b}-\frac{s}{a}=\frac{180}{60}-\frac{180}{72}=3-2.5=0.5.$$
 
 故甲比乙少用 $0.5\ \text{h}$, 即甲比乙早到半小时. $\blacksquare$
 
 ### 习题八
 
-(习题 3.2 拓广探索第 8 题) 摄氏温标 $C$ 与华氏温标 $F$ 的转换关系为 $C=\dfrac{5}{9}\left(F-32\right)$. (1) 将 $25\,^\circ\text{C}$ 转换成华氏度; (2) 将 $-4\,^\circ\text{F}$ 转换成摄氏度.
+(习题 3.2 拓广探索第 8 题) 摄氏温标 $C$ 与华氏温标 $F$ 的转换关系为 $C=\frac{5}{9}\left(F-32\right)$. (1) 将 $25\,^\circ\text{C}$ 转换成华氏度; (2) 将 $-4\,^\circ\text{F}$ 转换成摄氏度.
 
 ### 解答 习题八
 
 由**定义 3.2.1** (代数式的值).
 
-(1) 由 $C=\dfrac{5}{9}\left(F-32\right)$ 反解 $F=\dfrac{9}{5}C+32$. 当 $C=25$ 时, $F=\dfrac{9}{5}\times 25+32=45+32=77$, 即 $77\,^\circ\text{F}$.
+(1) 由 $C=\frac{5}{9}\left(F-32\right)$ 反解 $F=\frac{9}{5}C+32$. 当 $C=25$ 时, $F=\frac{9}{5}\times 25+32=45+32=77$, 即 $77\,^\circ\text{F}$.
 
-(2) 当 $F=-4$ 时, $C=\dfrac{5}{9}\left(-4-32\right)=\dfrac{5}{9}\times\left(-36\right)=-20$, 即 $-20\,^\circ\text{C}$. $\blacksquare$
+(2) 当 $F=-4$ 时, $C=\frac{5}{9}\left(-4-32\right)=\frac{5}{9}\times\left(-36\right)=-20$, 即 $-20\,^\circ\text{C}$. $\blacksquare$

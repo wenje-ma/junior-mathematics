@@ -20,9 +20,9 @@
 
 (1) $-150+250$; (2) $-15+\left(-23\right)$; (3) $-5-65$; (4) $-26-\left(-15\right)$;
 
-(5) $\left(-6\right)\times\left(-16\right)$; (6) $\left(-\dfrac{1}{3}\right)\times 27$; (7) $8\div\left(-16\right)$;
+(5) $\left(-6\right)\times\left(-16\right)$; (6) $\left(-\frac{1}{3}\right)\times 27$; (7) $8\div\left(-16\right)$;
 
-(8) $\left(-25\right)\div\left(-\dfrac{2}{3}\right)$; (9) $\left(-\dfrac{3}{4}\right)\div\left(-\dfrac{4}{5}\right)$.
+(8) $\left(-25\right)\div\left(-\frac{2}{3}\right)$; (9) $\left(-\frac{3}{4}\right)\div\left(-\frac{4}{5}\right)$.
 
 ### 解答 复习题一
 
@@ -30,17 +30,17 @@
 
 (1) $100$; (2) $-38$; (3) $-70$; (4) $-11$; (5) $96$;
 
-(6) $-9$; (7) $-\dfrac{1}{2}$; (8) $\dfrac{75}{2}$; (9) $\dfrac{15}{16}$. $\blacksquare$
+(6) $-9$; (7) $-\frac{1}{2}$; (8) $\frac{75}{2}$; (9) $\frac{15}{16}$. $\blacksquare$
 
 ### 复习题二
 
 (复习题 复习巩固第 2 题) 计算:
 
-(1) $6+\left(-\dfrac{1}{5}\right)-2-\left(-1.5\right)$;
+(1) $6+\left(-\frac{1}{5}\right)-2-\left(-1.5\right)$;
 
 (2) $\left(-0.02\right)\times\left(-20\right)\times\left(-5\right)\times 4.5$;
 
-(3) $\left(-6.5\right)\times\left(-2\right)\div\left(-\dfrac{1}{3}\right)\div\left(-5\right)$;
+(3) $\left(-6.5\right)\times\left(-2\right)\div\left(-\frac{1}{3}\right)\div\left(-5\right)$;
 
 (4) $\left(-66\right)\times 4-\left(-2.5\right)\div\left(-0.1\right)$;
 
@@ -52,11 +52,11 @@
 
 由**定义 2.3.3** (混合运算顺序).
 
-(1) 原式 $=6-0.2-2+1.5=5.3=\dfrac{53}{10}$.
+(1) 原式 $=6-0.2-2+1.5=5.3=\frac{53}{10}$.
 
 (2) 三个负乘数, 积为负, 原式 $=-9$.
 
-(3) 原式 $=13\times\left(-3\right)\div\left(-5\right)=\dfrac{39}{5}$.
+(3) 原式 $=13\times\left(-3\right)\div\left(-5\right)=\frac{39}{5}$.
 
 (4) 原式 $=-264-25=-289$.
 
@@ -208,9 +208,9 @@ $$1.496\text{ 亿千米}=149600000\ \text{km}=1.496\times 10^{8}\ \text{km}.$$
 
 由**定义 2.3.1** (乘方) 与**定义 1.2.7** (有理数的大小比较).
 
-(1) 取 $a=\dfrac{1}{2}$, 则 $a^{2}=\dfrac{1}{4}$, $a^{3}=\dfrac{1}{8}$. 由 $\dfrac{1}{8}<\dfrac{1}{4}<\dfrac{1}{2}$, 得 $a^{3}<a^{2}<a$.
+(1) 取 $a=\frac{1}{2}$, 则 $a^{2}=\frac{1}{4}$, $a^{3}=\frac{1}{8}$. 由 $\frac{1}{8}<\frac{1}{4}<\frac{1}{2}$, 得 $a^{3}<a^{2}<a$.
 
-(2) 取 $b=-\dfrac{1}{2}$, 则 $b^{2}=\dfrac{1}{4}$, $b^{3}=-\dfrac{1}{8}$. 由 $-\dfrac{1}{2}<-\dfrac{1}{8}<\dfrac{1}{4}$, 得 $b<b^{3}<b^{2}$. $\blacksquare$
+(2) 取 $b=-\frac{1}{2}$, 则 $b^{2}=\frac{1}{4}$, $b^{3}=-\frac{1}{8}$. 由 $-\frac{1}{2}<-\frac{1}{8}<\frac{1}{4}$, 得 $b<b^{3}<b^{2}$. $\blacksquare$
 
 ### 复习题十四
 
@@ -228,7 +228,7 @@ $$1.496\text{ 亿千米}=149600000\ \text{km}=1.496\times 10^{8}\ \text{km}.$$
 
 (2) 正确. 由**定义 2.3.2** (幂的符号法则), 互为相反数的两数 $a$ 与 $-a$ 的正偶数次幂都是正数, 且绝对值相同, 故 $a^{2n}=\left(-a\right)^{2n}$.
 
-(3) 错误. 反例: $a=1$, $b=-1$, 有 $a>b$, 但 $\dfrac{1}{a}=1$, $\dfrac{1}{b}=-1$, 此时 $\dfrac{1}{a}>\dfrac{1}{b}$, 故原说法不成立. $\blacksquare$
+(3) 错误. 反例: $a=1$, $b=-1$, 有 $a>b$, 但 $\frac{1}{a}=1$, $\frac{1}{b}=-1$, 此时 $\frac{1}{a}>\frac{1}{b}$, 故原说法不成立. $\blacksquare$
 
 ### 复习题十五
 
@@ -242,7 +242,7 @@ $$1\times 1=\;\_\_\;;\quad 11\times 11=\;\_\_\;;\quad 111\times 111=\;\_\_\;;\qu
 
 由计算得
 
-$$1\times 1=1;\qquad 11\times 11=121;\qquad 111\times 111=12321;\qquad 1111\times 1111=1234321.$$
+$$1\times 1=1;\quad 11\times 11=121;\quad 111\times 111=12321;\quad 1111\times 1111=1234321.$$
 
 (1) 规律: $n$ 个 $1$ 组成的数自乘, 结果从 $1$ 递增到 $n$, 再递减回到 $1$, 即 $123\cdots n\cdots 321$.
 

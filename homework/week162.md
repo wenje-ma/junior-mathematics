@@ -2,7 +2,7 @@
 
 > **定义 27.1.1** (相似图形) <br>形状相同的图形叫做相似图形；两个图形相似，其中一个图形可以看作由另一个图形放大或缩小得到。
 
-> **定义 27.1.2** (成比例线段) <br>对于四条线段 $a,b,c,d$，如果 $\dfrac{a}{b}=\dfrac{c}{d}$（即 $ad=bc$），就说这四条线段成比例。
+> **定义 27.1.2** (成比例线段) <br>对于四条线段 $a,b,c,d$，如果 $\frac{a}{b}=\frac{c}{d}$（即 $ad=bc$），就说这四条线段成比例。
 
 > **定义 27.1.3** (相似多边形) <br>两个边数相同的多边形，如果它们的角分别相等，边成比例，那么这两个多边形叫做相似多边形；相似多边形对应边的比叫做相似比。相似多边形的对应角相等，对应边成比例。
 
@@ -54,16 +54,16 @@
 
 由**定义 27.1.3** (相似多边形)，对应边成比例。
 
-对应边比为 $\dfrac{5}{7.5}=\dfrac{2}{3}$。
+对应边比为 $\frac{5}{7.5}=\frac{2}{3}$。
 
 $$
-\dfrac{3}{b}=\dfrac{2}{3}\Rightarrow b=4.5,\qquad
-\dfrac{2}{a}=\dfrac{2}{3}\Rightarrow a=3,
+\frac{3}{b}=\frac{2}{3}\Rightarrow b=4.5,\quad
+\frac{2}{a}=\frac{2}{3}\Rightarrow a=3,
 $$
 
 $$
-\dfrac{c}{6}=\dfrac{2}{3}\Rightarrow c=4,\qquad
-\dfrac{d}{9}=\dfrac{2}{3}\Rightarrow d=6.
+\frac{c}{6}=\frac{2}{3}\Rightarrow c=4,\quad
+\frac{d}{9}=\frac{2}{3}\Rightarrow d=6.
 $$
 
 故 $a=3$，$b=4.5$，$c=4$，$d=6$。 $\blacksquare$
@@ -98,14 +98,14 @@ $2000\ \text{m}=200000\ \text{cm}$。
 
 由**定义 27.1.3** (相似多边形)，$\triangle ABC\backsim\triangle DEF$，对应边成比例。
 
-相似比为 $\dfrac{BC}{FE}=\dfrac{8}{4}=2$。
+相似比为 $\frac{BC}{FE}=\frac{8}{4}=2$。
 
 $$
-\dfrac{AB}{DE}=2\Rightarrow\dfrac{7}{x}=2\Rightarrow x=3.5.
+\frac{AB}{DE}=2\Rightarrow\frac{7}{x}=2\Rightarrow x=3.5.
 $$
 
 $$
-\dfrac{AC}{DF}=2\Rightarrow AC=2\times12=24.
+\frac{AC}{DF}=2\Rightarrow AC=2\times12=24.
 $$
 
 故 $x=3.5$。 $\blacksquare$
@@ -122,19 +122,19 @@ $$
 
 ### 习题五
 
-(习题 27.1 综合运用第 5 题) 如图，$DE\parallel BC$。已知 $AD=2$，$DB=4$，$AE=2.5$，$EC=5$，$DE=3$，$BC=9$。(1) 求 $\dfrac{AD}{AB}$，$\dfrac{AE}{AC}$，$\dfrac{DE}{BC}$ 的值；(2) 证明 $\triangle ADE$ 与 $\triangle ABC$ 相似。
+(习题 27.1 综合运用第 5 题) 如图，$DE\parallel BC$。已知 $AD=2$，$DB=4$，$AE=2.5$，$EC=5$，$DE=3$，$BC=9$。(1) 求 $\frac{AD}{AB}$，$\frac{AE}{AC}$，$\frac{DE}{BC}$ 的值；(2) 证明 $\triangle ADE$ 与 $\triangle ABC$ 相似。
 
 ### 解答 习题五
 
 (1) $AB=AD+DB=2+4=6$，$AC=AE+EC=2.5+5=7.5$。
 
 $$
-\dfrac{AD}{AB}=\dfrac{2}{6}=\dfrac{1}{3},\qquad
-\dfrac{AE}{AC}=\dfrac{2.5}{7.5}=\dfrac{1}{3},\qquad
-\dfrac{DE}{BC}=\dfrac{3}{9}=\dfrac{1}{3}.
+\frac{AD}{AB}=\frac{2}{6}=\frac{1}{3},\quad
+\frac{AE}{AC}=\frac{2.5}{7.5}=\frac{1}{3},\quad
+\frac{DE}{BC}=\frac{3}{9}=\frac{1}{3}.
 $$
 
-(2) $DE\parallel BC$，故 $\angle ADE=\angle B$，$\angle AED=\angle C$，且 $\angle A$ 公共，角分别相等；又由 (1) 三边比均为 $\dfrac{1}{3}$，边成比例。由**定义 27.1.3**，$\triangle ADE\backsim\triangle ABC$。 $\blacksquare$
+(2) $DE\parallel BC$，故 $\angle ADE=\angle B$，$\angle AED=\angle C$，且 $\angle A$ 公共，角分别相等；又由 (1) 三边比均为 $\frac{1}{3}$，边成比例。由**定义 27.1.3**，$\triangle ADE\backsim\triangle ABC$。 $\blacksquare$
 
 ### 习题六
 
@@ -145,10 +145,10 @@ $$
 内边缘矩形尺寸为 $30\times20$，外边缘矩形尺寸为 $32\times22$。
 
 $$
-\dfrac{30}{32}=\dfrac{15}{16},\qquad\dfrac{20}{22}=\dfrac{10}{11}.
+\frac{30}{32}=\frac{15}{16},\quad\frac{20}{22}=\frac{10}{11}.
 $$
 
-$\dfrac{15}{16}\ne\dfrac{10}{11}$，边不成比例。
+$\frac{15}{16}\ne\frac{10}{11}$，边不成比例。
 
 由**定义 27.1.3**，两个矩形不相似。 $\blacksquare$
 
@@ -172,15 +172,15 @@ $\dfrac{15}{16}\ne\dfrac{10}{11}$，边不成比例。
 
 ### 解答 习题八
 
-设原矩形长为 $a$，宽为 $b$（$a>b$）。沿较长边中点连线对折后，新矩形尺寸为 $b\times\dfrac{a}{2}$。
+设原矩形长为 $a$，宽为 $b$（$a>b$）。沿较长边中点连线对折后，新矩形尺寸为 $b\times\frac{a}{2}$。
 
 由对折后的矩形与原矩形相似，对应边成比例：
 
 $$
-\dfrac{a}{b}=\dfrac{b}{a/2}=\dfrac{2b}{a}.
+\frac{a}{b}=\frac{b}{a/2}=\frac{2b}{a}.
 $$
 
-即 $a^2=2b^2$，$\dfrac{a}{b}=\sqrt{2}$。
+即 $a^2=2b^2$，$\frac{a}{b}=\sqrt{2}$。
 
 每次对折都是将长边 $\sqrt{2}:1$ 的矩形再按相同比例分割，新矩形长宽比仍为 $\sqrt{2}$，故继续对折下去得到的矩形都与原矩形相似。 $\blacksquare$
 

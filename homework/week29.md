@@ -92,7 +92,7 @@ $300\ \text{m}$ 跑道的弯道半径比标准 $400\ \text{m}$ 跑道小. $200\ 
 
 投掷圈面积 $=\pi r^{2}=\pi\times1.0675^{2}\approx3.58\ \text{m}^{2}$.
 
-扇形面积 $=\dfrac{34.92^{\circ}}{360^{\circ}}\times\pi\times25^{2}\approx190.8\ \text{m}^{2}$.
+扇形面积 $=\frac{34.92^{\circ}}{360^{\circ}}\times\pi\times25^{2}\approx190.8\ \text{m}^{2}$.
 
 场地总面积约为 $190.8+3.58\approx194.4\ \text{m}^{2}$. $\blacksquare$
 

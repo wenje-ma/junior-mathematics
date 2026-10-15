@@ -14,7 +14,7 @@
 
 (1) $5x+4x$;
 
-(2) $\dfrac{1}{3}y-\dfrac{2}{3}y+2y$;
+(2) $\frac{1}{3}y-\frac{2}{3}y+2y$;
 
 (3) $-7ab+6ab$;
 
@@ -30,7 +30,7 @@
 
 (1) $5x+4x=(5+4)x=9x$.
 
-(2) $\dfrac{1}{3}y-\dfrac{2}{3}y+2y=\left(\dfrac{1}{3}-\dfrac{2}{3}+2\right)y=\dfrac{5}{3}y$.
+(2) $\frac{1}{3}y-\frac{2}{3}y+2y=\left(\frac{1}{3}-\frac{2}{3}+2\right)y=\frac{5}{3}y$.
 
 (3) $-7ab+6ab=(-7+6)ab=-ab$.
 
@@ -58,13 +58,13 @@
 
 ### 练习三
 
-(练习 4.2 第 3 题) 如图, 大圆的半径是 $R$, 小圆的面积是大圆面积的 $\dfrac{4}{9}$, 求阴影部分的面积.
+(练习 4.2 第 3 题) 如图, 大圆的半径是 $R$, 小圆的面积是大圆面积的 $\frac{4}{9}$, 求阴影部分的面积.
 
 ### 解答 练习三
 
 由**定义 4.2.4** (整式加减运算法则), 阴影面积为大圆面积减去小圆面积.
 
-大圆面积为 $\pi R^{2}$, 小圆面积为大圆面积的 $\dfrac{4}{9}$, 即 $\dfrac{4}{9}\pi R^{2}$. 故阴影部分面积为
+大圆面积为 $\pi R^{2}$, 小圆面积为大圆面积的 $\frac{4}{9}$, 即 $\frac{4}{9}\pi R^{2}$. 故阴影部分面积为
 
 $$\pi R^{2}-\frac{4}{9}\pi R^{2}=\left(1-\frac{4}{9}\right)\pi R^{2}=\frac{5}{9}\pi R^{2}.$$
 
@@ -116,11 +116,11 @@ $\blacksquare$
 
 (1) $12\left(x-0.5\right)$;
 
-(2) $-5\left(1-\dfrac{1}{5}x\right)$;
+(2) $-5\left(1-\frac{1}{5}x\right)$;
 
 (3) $-5a+(3a-2)-(3a-7)$;
 
-(4) $\dfrac{1}{3}\left(9y-3\right)+2\left(y+1\right)$.
+(4) $\frac{1}{3}\left(9y-3\right)+2\left(y+1\right)$.
 
 ### 解答 练习六
 
@@ -128,11 +128,11 @@ $\blacksquare$
 
 (1) $12\left(x-0.5\right)=12x-6$.
 
-(2) $-5\left(1-\dfrac{1}{5}x\right)=-5+x$.
+(2) $-5\left(1-\frac{1}{5}x\right)=-5+x$.
 
 (3) $-5a+(3a-2)-(3a-7)=-5a+3a-2-3a+7=-5a+5$.
 
-(4) $\dfrac{1}{3}\left(9y-3\right)+2\left(y+1\right)=3y-1+2y+2=5y+1$. $\blacksquare$
+(4) $\frac{1}{3}\left(9y-3\right)+2\left(y+1\right)=3y-1+2y+2=5y+1$. $\blacksquare$
 
 ### 练习七
 
@@ -152,25 +152,25 @@ $\blacksquare$
 
 (练习 4.2 第 1 题) 计算:
 
-(1) $-\dfrac{1}{3}ab-4a^{2}+3a^{2}-\left(-\dfrac{2}{3}ab\right)$;
+(1) $-\frac{1}{3}ab-4a^{2}+3a^{2}-\left(-\frac{2}{3}ab\right)$;
 
 (2) $x^{3}-\left(x^{2}-x+1\right)-2\left(x^{3}-x^{2}-1\right)-1$;
 
-(3) $\dfrac{1}{3}a-\dfrac{1}{2}\left(a-\dfrac{8}{3}b-\dfrac{1}{2}c\right)+3\left(-2c+\dfrac{2}{3}b\right)$.
+(3) $\frac{1}{3}a-\frac{1}{2}\left(a-\frac{8}{3}b-\frac{1}{2}c\right)+3\left(-2c+\frac{2}{3}b\right)$.
 
 ### 解答 练习八
 
 由**定义 4.2.3** (去括号法则) 和**定义 4.2.4** (整式加减运算法则), 先去括号再合并同类项.
 
-(1) $-\dfrac{1}{3}ab-4a^{2}+3a^{2}+\dfrac{2}{3}ab=\left(-\dfrac{1}{3}+\dfrac{2}{3}\right)ab+(-4+3)a^{2}=\dfrac{1}{3}ab-a^{2}$.
+(1) $-\frac{1}{3}ab-4a^{2}+3a^{2}+\frac{2}{3}ab=\left(-\frac{1}{3}+\frac{2}{3}\right)ab+(-4+3)a^{2}=\frac{1}{3}ab-a^{2}$.
 
 (2) $x^{3}-x^{2}+x-1-2x^{3}+2x^{2}+2-1=(1-2)x^{3}+(-1+2)x^{2}+x+(-1+2-1)=-x^{3}+x^{2}+x$.
 
-(3) $\dfrac{1}{3}a-\dfrac{1}{2}a+\dfrac{4}{3}b+\dfrac{1}{4}c-6c+2b=\left(\dfrac{1}{3}-\dfrac{1}{2}\right)a+\left(\dfrac{4}{3}+2\right)b+\left(\dfrac{1}{4}-6\right)c=-\dfrac{1}{6}a+\dfrac{10}{3}b-\dfrac{23}{4}c$. $\blacksquare$
+(3) $\frac{1}{3}a-\frac{1}{2}a+\frac{4}{3}b+\frac{1}{4}c-6c+2b=\left(\frac{1}{3}-\frac{1}{2}\right)a+\left(\frac{4}{3}+2\right)b+\left(\frac{1}{4}-6\right)c=-\frac{1}{6}a+\frac{10}{3}b-\frac{23}{4}c$. $\blacksquare$
 
 ### 练习九
 
-(练习 4.2 第 2 题) 求 $x^{2}-5xy-3x^{2}-2\left(1-2xy-x^{2}\right)$ 的值, 其中 $x=-\dfrac{1}{9}$, $y=\dfrac{9}{2}$.
+(练习 4.2 第 2 题) 求 $x^{2}-5xy-3x^{2}-2\left(1-2xy-x^{2}\right)$ 的值, 其中 $x=-\frac{1}{9}$, $y=\frac{9}{2}$.
 
 ### 解答 练习九
 
@@ -178,7 +178,7 @@ $\blacksquare$
 
 $$x^{2}-5xy-3x^{2}-2+4xy+2x^{2}=(1-3+2)x^{2}+(-5+4)xy-2=-xy-2.$$
 
-当 $x=-\dfrac{1}{9}$, $y=\dfrac{9}{2}$ 时, 原式 $=-\left(-\dfrac{1}{9}\right)\times\dfrac{9}{2}-2=\dfrac{1}{2}-2=-\dfrac{3}{2}$. $\blacksquare$
+当 $x=-\frac{1}{9}$, $y=\frac{9}{2}$ 时, 原式 $=-\left(-\frac{1}{9}\right)\times\frac{9}{2}-2=\frac{1}{2}-2=-\frac{3}{2}$. $\blacksquare$
 
 ### 练习十
 
@@ -250,7 +250,7 @@ $\blacksquare$
 
 (2) $(8xy-x^{2}+y^{2})-(x^{2}-y^{2}+8xy)$;
 
-(3) $\left(\dfrac{1}{3}x^{2}-1+3x\right)-4\left(x-x^{2}+\dfrac{1}{2}\right)$;
+(3) $\left(\frac{1}{3}x^{2}-1+3x\right)-4\left(x-x^{2}+\frac{1}{2}\right)$;
 
 (4) $3x^{2}-\left[7x-\left(4x-3\right)-2x^{2}\right]$.
 
@@ -262,7 +262,7 @@ $\blacksquare$
 
 (2) $8xy-x^{2}+y^{2}-x^{2}+y^{2}-8xy=(-1-1)x^{2}+(1+1)y^{2}=-2x^{2}+2y^{2}$.
 
-(3) $\dfrac{1}{3}x^{2}-1+3x-4x+4x^{2}-2=\left(\dfrac{1}{3}+4\right)x^{2}+(3-4)x+(-1-2)=\dfrac{13}{3}x^{2}-x-3$.
+(3) $\frac{1}{3}x^{2}-1+3x-4x+4x^{2}-2=\left(\frac{1}{3}+4\right)x^{2}+(3-4)x+(-1-2)=\frac{13}{3}x^{2}-x-3$.
 
 (4) $3x^{2}-7x+4x-3+2x^{2}=(3+2)x^{2}+(-7+4)x-3=5x^{2}-3x-3$. $\blacksquare$
 
@@ -272,7 +272,7 @@ $\blacksquare$
 
 $$4\left(3a^{2}b-ab^{2}\right)-2\left(3ab^{2}-a^{2}b\right)-14a^{2}b,$$
 
-其中 $a=1$, $b=-\dfrac{1}{2}$.
+其中 $a=1$, $b=-\frac{1}{2}$.
 
 ### 解答 习题四
 
@@ -280,7 +280,7 @@ $$4\left(3a^{2}b-ab^{2}\right)-2\left(3ab^{2}-a^{2}b\right)-14a^{2}b,$$
 
 $$12a^{2}b-4ab^{2}-6ab^{2}+2a^{2}b-14a^{2}b=(12+2-14)a^{2}b+(-4-6)ab^{2}=-10ab^{2}.$$
 
-当 $a=1$, $b=-\dfrac{1}{2}$ 时, 原式 $=-10\times1\times\left(-\dfrac{1}{2}\right)^{2}=-10\times\dfrac{1}{4}=-\dfrac{5}{2}$. $\blacksquare$
+当 $a=1$, $b=-\frac{1}{2}$ 时, 原式 $=-10\times1\times\left(-\frac{1}{2}\right)^{2}=-10\times\frac{1}{4}=-\frac{5}{2}$. $\blacksquare$
 
 ### 习题五
 
@@ -340,7 +340,7 @@ $\blacksquare$
 
 由**定义 4.2.4** (整式加减运算法则), 面积和周长用含 $a$ 的整式表示.
 
-(1) 下部四个小正方形面积为 $4a^{2}$, 上部半圆半径为 $a$, 面积为 $\dfrac{1}{2}\pi a^{2}$. 故窗户面积为
+(1) 下部四个小正方形面积为 $4a^{2}$, 上部半圆半径为 $a$, 面积为 $\frac{1}{2}\pi a^{2}$. 故窗户面积为
 
 $$4a^{2}+\frac{1}{2}\pi a^{2}=\left(4+\frac{\pi}{2}\right)a^{2}\ \text{cm}^{2}.$$
 
@@ -404,4 +404,4 @@ $\blacksquare$
 
 $$163+223+516+87+198+379=1566.$$
 
-平均值为和除以个数: $\dfrac{1566}{6}=261$. $\blacksquare$
+平均值为和除以个数: $\frac{1566}{6}=261$. $\blacksquare$

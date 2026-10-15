@@ -20,9 +20,9 @@
 >
 > | 锐角 $A$ | $30^{\circ}$ | $45^{\circ}$ | $60^{\circ}$ |
 > |---|---|---|---|
-> | $\sin A$ | $\dfrac{1}{2}$ | $\dfrac{\sqrt{2}}{2}$ | $\dfrac{\sqrt{3}}{2}$ |
-> | $\cos A$ | $\dfrac{\sqrt{3}}{2}$ | $\dfrac{\sqrt{2}}{2}$ | $\dfrac{1}{2}$ |
-> | $\tan A$ | $\dfrac{\sqrt{3}}{3}$ | $1$ | $\sqrt{3}$ |
+> | $\sin A$ | $\frac{1}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ |
+> | $\cos A$ | $\frac{\sqrt{3}}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{1}{2}$ |
+> | $\tan A$ | $\frac{\sqrt{3}}{3}$ | $1$ | $\sqrt{3}$ |
 
 ### 练习一
 
@@ -58,9 +58,9 @@ $$\sin A=\frac{BC}{AB}=\frac{2}{\sqrt{5}}=\frac{2\sqrt{5}}{5},\quad \sin B=\frac
 
 ### 解答 练习二
 
-由**结论 28.1.2** (特殊角的三角函数值), $\sin 60^{\circ}=\dfrac{\sqrt{3}}{2}$.
+由**结论 28.1.2** (特殊角的三角函数值), $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$.
 
-故 $\sin A=\sin 60^{\circ}=\dfrac{\sqrt{3}}{2}$. $\blacksquare$
+故 $\sin A=\sin 60^{\circ}=\frac{\sqrt{3}}{2}$. $\blacksquare$
 
 ### 练习三
 
@@ -118,15 +118,15 @@ $$\sin B=\frac{AC}{AB}=\frac{2}{\sqrt{13}}=\frac{2\sqrt{13}}{13},\quad \cos B=\f
 
 由**结论 28.1.2** (特殊角的三角函数值), 代入各特殊角的函数值计算.
 
-(1) 代入 $\sin 30^{\circ}=\dfrac{1}{2}$, $\cos 30^{\circ}=\dfrac{\sqrt{3}}{2}$:
+(1) 代入 $\sin 30^{\circ}=\frac{1}{2}$, $\cos 30^{\circ}=\frac{\sqrt{3}}{2}$:
 
 $$1-2\sin 30^{\circ}\cos 30^{\circ}=1-2\times\frac{1}{2}\times\frac{\sqrt{3}}{2}=1-\frac{\sqrt{3}}{2}.$$
 
-(2) 代入 $\tan 30^{\circ}=\dfrac{\sqrt{3}}{3}$, $\tan 45^{\circ}=1$, $\sin 60^{\circ}=\dfrac{\sqrt{3}}{2}$:
+(2) 代入 $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$, $\tan 45^{\circ}=1$, $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$:
 
 $$3\tan 30^{\circ}-\tan 45^{\circ}+2\sin 60^{\circ}=3\times\frac{\sqrt{3}}{3}-1+2\times\frac{\sqrt{3}}{2}=\sqrt{3}-1+\sqrt{3}=2\sqrt{3}-1.$$
 
-(3) 由 $\cos^{2}30^{\circ}+\sin^{2}30^{\circ}=\left(\dfrac{\sqrt{3}}{2}\right)^{2}+\left(\dfrac{1}{2}\right)^{2}=\dfrac{3}{4}+\dfrac{1}{4}=1$, 故
+(3) 由 $\cos^{2}30^{\circ}+\sin^{2}30^{\circ}=\left(\frac{\sqrt{3}}{2}\right)^{2}+\left(\frac{1}{2}\right)^{2}=\frac{3}{4}+\frac{1}{4}=1$, 故
 
 $$(\cos^{2}30^{\circ}+\sin^{2}30^{\circ})\times\tan 60^{\circ}=1\times\sqrt{3}=\sqrt{3}.\ \blacksquare$$
 
@@ -136,9 +136,9 @@ $$(\cos^{2}30^{\circ}+\sin^{2}30^{\circ})\times\tan 60^{\circ}=1\times\sqrt{3}=\
 
 ### 解答 练习六
 
-由**定义 28.1.3** (正切), $\tan A=\dfrac{BC}{AC}=\dfrac{\sqrt{7}}{\sqrt{21}}=\dfrac{\sqrt{7}}{\sqrt{3}\cdot\sqrt{7}}=\dfrac{1}{\sqrt{3}}=\dfrac{\sqrt{3}}{3}$.
+由**定义 28.1.3** (正切), $\tan A=\frac{BC}{AC}=\frac{\sqrt{7}}{\sqrt{21}}=\frac{\sqrt{7}}{\sqrt{3}\cdot\sqrt{7}}=\frac{1}{\sqrt{3}}=\frac{\sqrt{3}}{3}$.
 
-由**结论 28.1.2** (特殊角的三角函数值), $\tan 30^{\circ}=\dfrac{\sqrt{3}}{3}$, 故 $\angle A=30^{\circ}$.
+由**结论 28.1.2** (特殊角的三角函数值), $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$, 故 $\angle A=30^{\circ}$.
 
 又由两锐角互余, $\angle B=90^{\circ}-\angle A=60^{\circ}$. $\blacksquare$
 
@@ -226,25 +226,25 @@ $$\sin B=\frac{AC}{AB}=\frac{\sqrt{3}}{3},\ \cos B=\frac{BC}{AB}=\frac{\sqrt{6}}
 
 (习题 28.1 复习巩固第 3 题) 求下列各式的值:
 
-(1) $\sin 45^{\circ}+\dfrac{\sqrt{2}}{2}$;
+(1) $\sin 45^{\circ}+\frac{\sqrt{2}}{2}$;
 
 (2) $\sin 45^{\circ}\cos 60^{\circ}-\cos 45^{\circ}$;
 
 (3) $\cos^{2}45^{\circ}+\tan 60^{\circ}\cos 30^{\circ}$;
 
-(4) $\dfrac{1-\cos 30^{\circ}}{\sin 60^{\circ}}+\tan 30^{\circ}$.
+(4) $\frac{1-\cos 30^{\circ}}{\sin 60^{\circ}}+\tan 30^{\circ}$.
 
 ### 解答 习题三
 
 由**结论 28.1.2** (特殊角的三角函数值), 代入计算.
 
-(1) $\sin 45^{\circ}=\dfrac{\sqrt{2}}{2}$, 故原式 $=\dfrac{\sqrt{2}}{2}+\dfrac{\sqrt{2}}{2}=\sqrt{2}$.
+(1) $\sin 45^{\circ}=\frac{\sqrt{2}}{2}$, 故原式 $=\frac{\sqrt{2}}{2}+\frac{\sqrt{2}}{2}=\sqrt{2}$.
 
-(2) 原式 $=\dfrac{\sqrt{2}}{2}\times\dfrac{1}{2}-\dfrac{\sqrt{2}}{2}=\dfrac{\sqrt{2}}{4}-\dfrac{\sqrt{2}}{2}=-\dfrac{\sqrt{2}}{4}$.
+(2) 原式 $=\frac{\sqrt{2}}{2}\times\frac{1}{2}-\frac{\sqrt{2}}{2}=\frac{\sqrt{2}}{4}-\frac{\sqrt{2}}{2}=-\frac{\sqrt{2}}{4}$.
 
-(3) 原式 $=\left(\dfrac{\sqrt{2}}{2}\right)^{2}+\sqrt{3}\times\dfrac{\sqrt{3}}{2}=\dfrac{1}{2}+\dfrac{3}{2}=2$.
+(3) 原式 $=\left(\frac{\sqrt{2}}{2}\right)^{2}+\sqrt{3}\times\frac{\sqrt{3}}{2}=\frac{1}{2}+\frac{3}{2}=2$.
 
-(4) 原式 $=\dfrac{1-\frac{\sqrt{3}}{2}}{\frac{\sqrt{3}}{2}}+\dfrac{\sqrt{3}}{3}=\dfrac{2-\sqrt{3}}{\sqrt{3}}+\dfrac{\sqrt{3}}{3}=\dfrac{2\sqrt{3}-3}{3}+\dfrac{\sqrt{3}}{3}=\sqrt{3}-1$. $\blacksquare$
+(4) 原式 $=\frac{1-\frac{\sqrt{3}}{2}}{\frac{\sqrt{3}}{2}}+\frac{\sqrt{3}}{3}=\frac{2-\sqrt{3}}{\sqrt{3}}+\frac{\sqrt{3}}{3}=\frac{2\sqrt{3}-3}{3}+\frac{\sqrt{3}}{3}=\sqrt{3}-1$. $\blacksquare$
 
 ### 习题四
 
@@ -296,25 +296,25 @@ $$\sin A\approx\frac{1.386}{2.6}\approx 0.533,\quad \cos A=\frac{2.2}{2.6}\appro
 
 (习题 28.1 综合运用第 6 题) 如图, 在 $\text{Rt}\triangle ABC$ 中, $CD$ 是斜边 $AB$ 上的高, $\angle A\ne 45^{\circ}$, 则下列比值中不等于 $\sin A$ 的是 ( ).
 
-(A) $\dfrac{CD}{AC}$
+(A) $\frac{CD}{AC}$
 
-(B) $\dfrac{BD}{CB}$
+(B) $\frac{BD}{CB}$
 
-(C) $\dfrac{CB}{AB}$
+(C) $\frac{CB}{AB}$
 
-(D) $\dfrac{CD}{CB}$
+(D) $\frac{CD}{CB}$
 
 ![week167-1.svg](../figures/week167-1.svg){width=50%}
 
 ### 解答 习题六
 
-由**定义 28.1.1** (正弦), 在 $\text{Rt}\triangle ABC$ 中, $\sin A=\dfrac{CB}{AB}$, 故 (C) 等于 $\sin A$.
+由**定义 28.1.1** (正弦), 在 $\text{Rt}\triangle ABC$ 中, $\sin A=\frac{CB}{AB}$, 故 (C) 等于 $\sin A$.
 
-在 $\text{Rt}\triangle ACD$ 中, $\angle ADC=90^{\circ}$, $\sin A=\dfrac{CD}{AC}$, 故 (A) 等于 $\sin A$.
+在 $\text{Rt}\triangle ACD$ 中, $\angle ADC=90^{\circ}$, $\sin A=\frac{CD}{AC}$, 故 (A) 等于 $\sin A$.
 
-因为 $CD$ 是斜边 $AB$ 上的高, 所以 $\angle BCD+\angle B=90^{\circ}$, 又 $\angle A+\angle B=90^{\circ}$, 故 $\angle BCD=\angle A$. 在 $\text{Rt}\triangle BCD$ 中, $\sin\angle BCD=\dfrac{BD}{CB}$, 即 $\sin A=\dfrac{BD}{CB}$, 故 (B) 等于 $\sin A$.
+因为 $CD$ 是斜边 $AB$ 上的高, 所以 $\angle BCD+\angle B=90^{\circ}$, 又 $\angle A+\angle B=90^{\circ}$, 故 $\angle BCD=\angle A$. 在 $\text{Rt}\triangle BCD$ 中, $\sin\angle BCD=\frac{BD}{CB}$, 即 $\sin A=\frac{BD}{CB}$, 故 (B) 等于 $\sin A$.
 
-而 $\dfrac{CD}{CB}=\cos\angle BCD=\cos A$, 不等于 $\sin A$. 故选 (D). $\blacksquare$
+而 $\frac{CD}{CB}=\cos\angle BCD=\cos A$, 不等于 $\sin A$. 故选 (D). $\blacksquare$
 
 ### 习题七
 
@@ -378,15 +378,15 @@ $35^{\circ}40'=35.67^{\circ}$, $\sin 35.67^{\circ}\approx 0.5830$, 故 $DE\appro
 
 ### 解答 习题十
 
-由**定义 28.1.1** (正弦) 和**定义 28.1.2** (余弦), $\sin A=\dfrac{a}{c}$, $\cos A=\dfrac{b}{c}$.
+由**定义 28.1.1** (正弦) 和**定义 28.1.2** (余弦), $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$.
 
 由勾股定理 $a^{2}+b^{2}=c^{2}$, 故
 
 $$\sin^{2}A+\cos^{2}A=\frac{a^{2}}{c^{2}}+\frac{b^{2}}{c^{2}}=\frac{a^{2}+b^{2}}{c^{2}}=\frac{c^{2}}{c^{2}}=1.$$
 
-又由 $\sin A=\dfrac{a}{c}$, $\cos A=\dfrac{b}{c}$, 得 $\dfrac{\sin A}{\cos A}=\dfrac{a}{b}=\tan A$.
+又由 $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$, 得 $\frac{\sin A}{\cos A}=\frac{a}{b}=\tan A$.
 
-故 $\sin^{2}A+\cos^{2}A=1$, 且 $\tan A=\dfrac{\sin A}{\cos A}$. $\blacksquare$
+故 $\sin^{2}A+\cos^{2}A=1$, 且 $\tan A=\frac{\sin A}{\cos A}$. $\blacksquare$
 
 ### 阅读与思考一
 
@@ -394,7 +394,7 @@ $$\sin^{2}A+\cos^{2}A=\frac{a^{2}}{c^{2}}+\frac{b^{2}}{c^{2}}=\frac{a^{2}+b^{2}}
 
 ### 解答 阅读与思考一
 
-设圆心为 $O$, 弦为 $AB$, 圆心角 $\angle AOB=\theta$. 作 $OC\perp AB$ 于 $C$, 则 $C$ 为 $AB$ 中点, $\angle AOC=\dfrac{\theta}{2}$.
+设圆心为 $O$, 弦为 $AB$, 圆心角 $\angle AOB=\theta$. 作 $OC\perp AB$ 于 $C$, 则 $C$ 为 $AB$ 中点, $\angle AOC=\frac{\theta}{2}$.
 
 在 $\text{Rt}\triangle AOC$ 中, 由**定义 28.1.1** (正弦),
 
@@ -404,4 +404,4 @@ $$\sin\frac{\theta}{2}=\frac{AC}{OA}=\frac{l/2}{r}.$$
 
 $$l=2r\sin\frac{\theta}{2}.$$
 
-当 $r$ 固定时, 弦表给出 $\theta$ 与 $l$ 的对应值, 由上式即可求得 $\sin\dfrac{\theta}{2}=\dfrac{l}{2r}$ 的值, 故弦表实际上相当于以 $\alpha=\dfrac{\theta}{2}$ 为自变量的正弦函数表. $\blacksquare$
+当 $r$ 固定时, 弦表给出 $\theta$ 与 $l$ 的对应值, 由上式即可求得 $\sin\frac{\theta}{2}=\frac{l}{2r}$ 的值, 故弦表实际上相当于以 $\alpha=\frac{\theta}{2}$ 为自变量的正弦函数表. $\blacksquare$

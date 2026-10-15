@@ -98,7 +98,7 @@
 
 故 \(AC=2AO=8,\ BD=2BO=6\)。
 
-菱形面积 \(=\dfrac{1}{2}\times AC\times BD=\dfrac{1}{2}\times 8\times 6=24\)。
+菱形面积 \(=\frac{1}{2}\times AC\times BD=\frac{1}{2}\times 8\times 6=24\)。
 
 \(\blacksquare\)
 
@@ -268,7 +268,7 @@
 
 在 \(Rt\triangle ABC\) 中，\(\angle C=90^{\circ},\ AB=2AC\)。求 \(\angle A,\angle B\) 的度数。
 
-由**结论 21.3.1**，斜边中线 \(=\dfrac{1}{2}AB=AC\)。
+由**结论 21.3.1**，斜边中线 \(=\frac{1}{2}AB=AC\)。
 
 故 \(\triangle\) 为含 \(30^{\circ}\) 角的直角三角形，\(\angle B=30^{\circ},\ \angle A=60^{\circ}\)。
 
@@ -284,9 +284,9 @@
 
 (1) \(\angle ACD=30^{\circ}\)，菱形对角线平分内角，故 \(\angle BCD=60^{\circ}\)，\(\angle BAD=60^{\circ},\ \angle ABC=120^{\circ}\)。
 
-(2) \(BD=6\)，半对角线 \(OD=3\)。在 \(Rt\triangle COD\) 中，\(CD=\dfrac{OD}{\sin 30^{\circ}}=6\)，故 \(AB=6\)。
+(2) \(BD=6\)，半对角线 \(OD=3\)。在 \(Rt\triangle COD\) 中，\(CD=\frac{OD}{\sin 30^{\circ}}=6\)，故 \(AB=6\)。
 
-\(OC=\dfrac{OD}{\tan 30^{\circ}}=3\sqrt{3}\)，故 \(AC=6\sqrt{3}\)。
+\(OC=\frac{OD}{\tan 30^{\circ}}=3\sqrt{3}\)，故 \(AC=6\sqrt{3}\)。
 
 \(\blacksquare\)
 
@@ -336,7 +336,7 @@ $$
 
 故 \(DE=5\ \text{cm}\)。
 
-面积 \(=\dfrac{1}{2}\times DE\times AB=\dfrac{1}{2}\times 5\times 4=10\ \text{cm}^{2}\)。
+面积 \(=\frac{1}{2}\times DE\times AB=\frac{1}{2}\times 5\times 4=10\ \text{cm}^{2}\)。
 
 \(\blacksquare\)
 
@@ -368,11 +368,11 @@ $$
 
 如图，四边形 \(ABCD\) 是菱形，对角线 \(AC,BD\) 相交于点 \(O\)，\(AC=8,\ BD=6,\ DH\perp AB\)，垂足为 \(H\)。求 \(DH\) 的长。
 
-菱形面积 \(=\dfrac{1}{2}\times 8\times 6=24\)。
+菱形面积 \(=\frac{1}{2}\times 8\times 6=24\)。
 
 边长 \(AB=\sqrt{4^{2}+3^{2}}=5\)。
 
-又面积 \(=AB\times DH\)，故 \(DH=\dfrac{24}{5}=4.8\)。
+又面积 \(=AB\times DH\)，故 \(DH=\frac{24}{5}=4.8\)。
 
 \(\blacksquare\)
 

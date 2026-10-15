@@ -28,7 +28,7 @@
 
 (1) $\left(-1\right)^{10}$; (2) $\left(-1\right)^{7}$; (3) $8^{3}$; (4) $\left(-5\right)^{3}$;
 
-(5) $0.1^{3}$; (6) $\left(-\dfrac{1}{2}\right)^{4}$; (7) $\left(-10\right)^{4}$; (8) $\left(-10\right)^{5}$.
+(5) $0.1^{3}$; (6) $\left(-\frac{1}{2}\right)^{4}$; (7) $\left(-10\right)^{4}$; (8) $\left(-10\right)^{5}$.
 
 ### 解答 练习二
 
@@ -36,7 +36,7 @@
 
 (1) $\left(-1\right)^{10}=1$; (2) $\left(-1\right)^{7}=-1$; (3) $8^{3}=512$; (4) $\left(-5\right)^{3}=-125$;
 
-(5) $0.1^{3}=0.001$; (6) $\left(-\dfrac{1}{2}\right)^{4}=\dfrac{1}{16}$; (7) $\left(-10\right)^{4}=10000$; (8) $\left(-10\right)^{5}=-100000$. $\blacksquare$
+(5) $0.1^{3}=0.001$; (6) $\left(-\frac{1}{2}\right)^{4}=\frac{1}{16}$; (7) $\left(-10\right)^{4}=10000$; (8) $\left(-10\right)^{5}=-100000$. $\blacksquare$
 
 ### 练习三
 
@@ -44,9 +44,9 @@
 
 (1) $\left(-1\right)^{10}\times 2+\left(-2\right)^{3}\div 4$;
 
-(2) $\left(-5\right)^{3}-3\times\left(-\dfrac{1}{2}\right)^{4}$;
+(2) $\left(-5\right)^{3}-3\times\left(-\frac{1}{2}\right)^{4}$;
 
-(3) $1\dfrac{1}{5}\times\left(\dfrac{1}{3}-\dfrac{1}{2}\right)\times 3\dfrac{1}{11}\div\dfrac{5}{4}$;
+(3) $1\frac{1}{5}\times\left(\frac{1}{3}-\frac{1}{2}\right)\times 3\frac{1}{11}\div\frac{5}{4}$;
 
 (4) $\left(-10\right)^{4}+\left[\left(-4\right)^{2}-\left(3+3^{2}\right)\times 2\right]$.
 
@@ -56,9 +56,9 @@
 
 (1) 原式 $=1\times 2+\left(-8\right)\div 4=2-2=0$.
 
-(2) 原式 $=-125-3\times\dfrac{1}{16}=-\dfrac{2003}{16}$.
+(2) 原式 $=-125-3\times\frac{1}{16}=-\frac{2003}{16}$.
 
-(3) 原式 $=\dfrac{6}{5}\times\left(-\dfrac{1}{6}\right)\times\dfrac{34}{11}\times\dfrac{4}{5}=-\dfrac{136}{275}$.
+(3) 原式 $=\frac{6}{5}\times\left(-\frac{1}{6}\right)\times\frac{34}{11}\times\frac{4}{5}=-\frac{136}{275}$.
 
 (4) 原式 $=10000+\left[16-12\times 2\right]=10000+\left(-8\right)=9992$. $\blacksquare$
 
@@ -126,7 +126,7 @@ $$9600000=9.6\times 10^{6}.$$
 
 (1) $\left(-3\right)^{3}$; (2) $\left(-5\right)^{4}$; (3) $\left(-1.7\right)^{2}$;
 
-(4) $\left(-\dfrac{4}{3}\right)^{3}$; (5) $-\left(-2\right)^{3}$; (6) $\left(-2\right)^{2}\times\left(-3\right)^{2}$.
+(4) $\left(-\frac{4}{3}\right)^{3}$; (5) $-\left(-2\right)^{3}$; (6) $\left(-2\right)^{2}\times\left(-3\right)^{2}$.
 
 ### 解答 习题一
 
@@ -134,7 +134,7 @@ $$9600000=9.6\times 10^{6}.$$
 
 (1) $\left(-3\right)^{3}=-27$; (2) $\left(-5\right)^{4}=625$; (3) $\left(-1.7\right)^{2}=2.89$;
 
-(4) $\left(-\dfrac{4}{3}\right)^{3}=-\dfrac{64}{27}$; (5) $-\left(-2\right)^{3}=-\left(-8\right)=8$; (6) $\left(-2\right)^{2}\times\left(-3\right)^{2}=4\times 9=36$. $\blacksquare$
+(4) $\left(-\frac{4}{3}\right)^{3}=-\frac{64}{27}$; (5) $-\left(-2\right)^{3}=-\left(-8\right)=8$; (6) $\left(-2\right)^{2}\times\left(-3\right)^{2}=4\times 9=36$. $\blacksquare$
 
 ### 习题二
 
@@ -142,13 +142,13 @@ $$9600000=9.6\times 10^{6}.$$
 
 (1) $\left(-1\right)^{100}\times 5+\left(-2\right)^{4}\div 4$;
 
-(2) $\left(-3\right)^{3}-3\times\left(-\dfrac{1}{3}\right)^{4}$;
+(2) $\left(-3\right)^{3}-3\times\left(-\frac{1}{3}\right)^{4}$;
 
-(3) $\dfrac{7}{6}\times\left(\dfrac{1}{6}-\dfrac{1}{3}\right)\times 3\dfrac{1}{4}\div\dfrac{3}{5}$;
+(3) $\frac{7}{6}\times\left(\frac{1}{6}-\frac{1}{3}\right)\times 3\frac{1}{4}\div\frac{3}{5}$;
 
 (4) $\left(-10\right)^{3}+\left[\left(-4\right)^{2}-\left(1-3^{2}\right)\times 2\right]$;
 
-(5) $\left(-\dfrac{2}{3}\right)\div\dfrac{4}{9}\times\left(-\dfrac{2}{3}\right)^{2}$;
+(5) $\left(-\frac{2}{3}\right)\div\frac{4}{9}\times\left(-\frac{2}{3}\right)^{2}$;
 
 (6) $4+\left(-2\right)^{3}\times 5-\left(-0.28\right)\div 4$.
 
@@ -158,13 +158,13 @@ $$9600000=9.6\times 10^{6}.$$
 
 (1) 原式 $=1\times 5+16\div 4=5+4=9$.
 
-(2) 原式 $=-27-3\times\dfrac{1}{81}=-\dfrac{730}{27}$.
+(2) 原式 $=-27-3\times\frac{1}{81}=-\frac{730}{27}$.
 
-(3) 原式 $=\dfrac{7}{6}\times\left(-\dfrac{1}{6}\right)\times\dfrac{13}{4}\times\dfrac{5}{3}=-\dfrac{455}{432}$.
+(3) 原式 $=\frac{7}{6}\times\left(-\frac{1}{6}\right)\times\frac{13}{4}\times\frac{5}{3}=-\frac{455}{432}$.
 
 (4) 原式 $=-1000+\left[16-\left(-8\right)\times 2\right]=-1000+32=-968$.
 
-(5) 原式 $=\left(-\dfrac{2}{3}\right)\times\dfrac{9}{4}\times\dfrac{4}{9}=-\dfrac{2}{3}$.
+(5) 原式 $=\left(-\frac{2}{3}\right)\times\frac{9}{4}\times\frac{4}{9}=-\frac{2}{3}$.
 
 (6) 原式 $=4+\left(-8\right)\times 5-\left(-0.07\right)=4-40+0.07=-35.93$. $\blacksquare$
 
@@ -234,11 +234,11 @@ $\blacksquare$
 
 长方体底面积为 $a^{2}$, 体积为底面积乘高, 表面积为两个底面加四个侧面.
 
-$$V=a^{2}h,\qquad S=2a^{2}+4ah.$$
+$$V=a^{2}h,\quad S=2a^{2}+4ah.$$
 
 当 $a=2$, $h=5$ 时,
 
-$$V=2^{2}\times 5=20\ \text{cm}^{3};\qquad S=2\times 2^{2}+4\times 2\times 5=8+40=48\ \text{cm}^{2}.$$
+$$V=2^{2}\times 5=20\ \text{cm}^{3};\quad S=2\times 2^{2}+4\times 2\times 5=8+40=48\ \text{cm}^{2}.$$
 
 故体积是 $20\ \text{cm}^{3}$, 表面积是 $48\ \text{cm}^{2}$. $\blacksquare$
 

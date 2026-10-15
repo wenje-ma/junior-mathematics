@@ -66,10 +66,10 @@ $$
 甲, 乙单位面积产量之比为 $1:2$, 故总产量之比为
 
 $$
-\dfrac{200y\cdot1}{200\left(100-y\right)\cdot2}=\dfrac{3}{4}.
+\frac{200y\cdot1}{200\left(100-y\right)\cdot2}=\frac{3}{4}.
 $$
 
-化简 $\dfrac{y}{2\left(100-y\right)}=\dfrac{3}{4}$, 即 $4y=6\left(100-y\right)$, 解得 $y=60$. 故 $AM=60\ \text{m}$. $\blacksquare$
+化简 $\frac{y}{2\left(100-y\right)}=\frac{3}{4}$, 即 $4y=6\left(100-y\right)$, 解得 $y=60$. 故 $AM=60\ \text{m}$. $\blacksquare$
 
 ### 练习五
 
@@ -101,7 +101,7 @@ $$
 $$
 \begin{cases}
 x+y=180,\\
-\dfrac{x}{12}+\dfrac{y}{8}=20.
+\frac{x}{12}+\frac{y}{8}=20.
 \end{cases}
 $$
 
@@ -153,12 +153,12 @@ $$
 
 $$
 \begin{cases}
-\dfrac{x}{3}+\dfrac{y}{4}=\dfrac{54}{60},\\
-\dfrac{x}{5}+\dfrac{y}{4}=\dfrac{42}{60}.
+\frac{x}{3}+\frac{y}{4}=\frac{54}{60},\\
+\frac{x}{5}+\frac{y}{4}=\frac{42}{60}.
 \end{cases}
 $$
 
-两式相减: $x\left(\dfrac{1}{3}-\dfrac{1}{5}\right)=0.9-0.7=0.2$, 即 $\dfrac{2}{15}x=0.2$, $x=1.5$. 代回 $\dfrac{1.5}{3}+\dfrac{y}{4}=0.9$, 得 $\dfrac{y}{4}=0.4$, $y=1.6$.
+两式相减: $x\left(\frac{1}{3}-\frac{1}{5}\right)=0.9-0.7=0.2$, 即 $\frac{2}{15}x=0.2$, $x=1.5$. 代回 $\frac{1.5}{3}+\frac{y}{4}=0.9$, 得 $\frac{y}{4}=0.4$, $y=1.6$.
 
 全程为 $1.5+1.6=3.1\ \text{km}$. $\blacksquare$
 
@@ -168,11 +168,11 @@ $$
 
 (1) $\begin{cases}3x-y=5,\\5y-1=3x+5;\end{cases}$
 
-(2) $\begin{cases}\dfrac{2x}{3}+\dfrac{3y}{4}=\dfrac{17}{12},\\\dfrac{x}{6}-\dfrac{y}{2}=-\dfrac{1}{3}.\end{cases}$
+(2) $\begin{cases}\frac{2x}{3}+\frac{3y}{4}=\frac{17}{12},\\\frac{x}{6}-\frac{y}{2}=-\frac{1}{3}.\end{cases}$
 
 ### 解答 习题一
 
-(1) 由第一式 $y=3x-5$, 代入第二式 $5y-3x=6$: $5\left(3x-5\right)-3x=6$, 即 $12x=31$, $x=\dfrac{31}{12}$, $y=\dfrac{11}{4}$.
+(1) 由第一式 $y=3x-5$, 代入第二式 $5y-3x=6$: $5\left(3x-5\right)-3x=6$, 即 $12x=31$, $x=\frac{31}{12}$, $y=\frac{11}{4}$.
 
 (2) 第一式乘 $12$: $8x+9y=17$; 第二式乘 $6$: $x-3y=-2$, 即 $x=3y-2$. 代入: $8\left(3y-2\right)+9y=17$, 即 $33y=33$, $y=1$, $x=1$. $\blacksquare$
 
@@ -191,7 +191,7 @@ y-x=2.
 \end{cases}
 $$
 
-解得 $x=48$, $y=50$. 第一天平均速度 $\dfrac{48}{8}=6\ \text{km/h}$, 第二天平均速度 $\dfrac{50}{10}=5\ \text{km/h}$. $\blacksquare$
+解得 $x=48$, $y=50$. 第一天平均速度 $\frac{48}{8}=6\ \text{km/h}$, 第二天平均速度 $\frac{50}{10}=5\ \text{km/h}$. $\blacksquare$
 
 ### 习题三
 
@@ -239,7 +239,7 @@ $$
 
 场地宽 $18\ \text{m}$: $3w+2d=18$; 场地高 $13\ \text{m}$: $2h+d=13$.
 
-代入: $24k+2d=18$, $18k+d=13$. 由第二式 $d=13-18k$, 代入第一式: $24k+2\left(13-18k\right)=18$, 即 $-12k=-8$, $k=\dfrac{2}{3}$, 故 $d=13-18\times\dfrac{2}{3}=1$. 通道宽为 $1\ \text{m}$. $\blacksquare$
+代入: $24k+2d=18$, $18k+d=13$. 由第二式 $d=13-18k$, 代入第一式: $24k+2\left(13-18k\right)=18$, 即 $-12k=-8$, $k=\frac{2}{3}$, 故 $d=13-18\times\frac{2}{3}=1$. 通道宽为 $1\ \text{m}$. $\blacksquare$
 
 ### 习题六
 

@@ -68,13 +68,13 @@
 
 ### 解答 习题四
 
-轴截面平行于投影面时, 正投影即轴截面本身, 为边长 $3$ 的等边三角形. 故圆锥底面直径为 $3$, 半径 $r=\dfrac{3}{2}$, 母线长 $l=3$.
+轴截面平行于投影面时, 正投影即轴截面本身, 为边长 $3$ 的等边三角形. 故圆锥底面直径为 $3$, 半径 $r=\frac{3}{2}$, 母线长 $l=3$.
 
-圆锥的高 $h=\sqrt{l^{2}-r^{2}}=\sqrt{9-\dfrac{9}{4}}=\sqrt{\dfrac{27}{4}}=\dfrac{3\sqrt{3}}{2}$.
+圆锥的高 $h=\sqrt{l^{2}-r^{2}}=\sqrt{9-\frac{9}{4}}=\sqrt{\frac{27}{4}}=\frac{3\sqrt{3}}{2}$.
 
-体积 $V=\dfrac{1}{3}\pi r^{2}h=\dfrac{1}{3}\pi\times\dfrac{9}{4}\times\dfrac{3\sqrt{3}}{2}=\dfrac{9\sqrt{3}\pi}{8}$.
+体积 $V=\frac{1}{3}\pi r^{2}h=\frac{1}{3}\pi\times\frac{9}{4}\times\frac{3\sqrt{3}}{2}=\frac{9\sqrt{3}\pi}{8}$.
 
-表面积 $S=\pi r^{2}+\pi rl=\pi\times\dfrac{9}{4}+\pi\times\dfrac{3}{2}\times 3=\dfrac{9\pi}{4}+\dfrac{9\pi}{2}=\dfrac{27\pi}{4}$. $\blacksquare$
+表面积 $S=\pi r^{2}+\pi rl=\pi\times\frac{9}{4}+\pi\times\frac{3}{2}\times 3=\frac{9\pi}{4}+\frac{9\pi}{2}=\frac{27\pi}{4}$. $\blacksquare$
 
 ### 习题五
 

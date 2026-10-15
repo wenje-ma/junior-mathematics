@@ -84,7 +84,7 @@
 
 \(\triangle CDE\) 周长 \(=CD+DE+EC=CD+DE+EA=CD+AD\)。
 
-而 \(CD+AD=\dfrac{16}{2}=8\)。
+而 \(CD+AD=\frac{16}{2}=8\)。
 
 \(\blacksquare\)
 
@@ -192,9 +192,9 @@ $$
 
 如图，\(\triangle ABC\) 的中线 \(BD,CE\) 相交于点 \(O\)，且 \(F,G\) 分别是 \(OB,OC\) 的中点。求证：四边形 \(DEFG\) 是平行四边形。
 
-\(D,E\) 是 \(AB,AC\) 中点，由**定理 21.2.2**，\(DE\parallel BC,\ DE=\dfrac{1}{2}BC\)。
+\(D,E\) 是 \(AB,AC\) 中点，由**定理 21.2.2**，\(DE\parallel BC,\ DE=\frac{1}{2}BC\)。
 
-\(F,G\) 是 \(OB,OC\) 中点，同理 \(FG\parallel BC,\ FG=\dfrac{1}{2}BC\)。
+\(F,G\) 是 \(OB,OC\) 中点，同理 \(FG\parallel BC,\ FG=\frac{1}{2}BC\)。
 
 故 \(DE\parallel FG\) 且 \(DE=FG\)，由**判定 21.2.4**，四边形 \(DEFG\) 是平行四边形。
 
@@ -206,7 +206,7 @@ $$
 
 取 \(AC,BC\) 的中点 \(M,N\)，量出 \(MN\)。
 
-由**定理 21.2.2**，\(MN=\dfrac{1}{2}AB\)，故 \(AB=2MN\)。
+由**定理 21.2.2**，\(MN=\frac{1}{2}AB\)，故 \(AB=2MN\)。
 
 \(\blacksquare\)
 
@@ -214,9 +214,9 @@ $$
 
 (习题 21.2 复习巩固第 1 题)
 
-如果四边形 \(ABCD\) 是平行四边形，\(AB=6\)，且 \(AB\) 的长是 \(\square ABCD\) 周长的 \(\dfrac{3}{16}\)，那么 \(BC\) 的长是多少？
+如果四边形 \(ABCD\) 是平行四边形，\(AB=6\)，且 \(AB\) 的长是 \(\square ABCD\) 周长的 \(\frac{3}{16}\)，那么 \(BC\) 的长是多少？
 
-由 \(AB=\dfrac{3}{16}\times\) 周长，得周长 \(=6\times\dfrac{16}{3}=32\)。
+由 \(AB=\frac{3}{16}\times\) 周长，得周长 \(=6\times\frac{16}{3}=32\)。
 
 故 \(AB+BC=16\)，\(BC=10\)。
 
@@ -236,9 +236,9 @@ $$
 
 如图，\(\square ABCD\) 的对角线 \(AC,BD\) 相交于点 \(O\)，且 \(AC+BD=36,\ AB=11\)。求 \(\triangle OCD\) 的周长。
 
-由**性质 21.2.3**，\(OC=\dfrac{1}{2}AC,\ OD=\dfrac{1}{2}BD\)。
+由**性质 21.2.3**，\(OC=\frac{1}{2}AC,\ OD=\frac{1}{2}BD\)。
 
-故 \(OC+OD=\dfrac{1}{2}(AC+BD)=18\)。
+故 \(OC+OD=\frac{1}{2}(AC+BD)=18\)。
 
 又 \(CD=AB=11\)，故 \(\triangle OCD\) 周长 \(=18+11=29\)。
 
@@ -248,7 +248,7 @@ $$
 
 在 \(\square ABCD\) 中，\(\angle A=45^{\circ},\ AB=4,\ AD=2\)。求 \(\square ABCD\) 的面积。
 
-以 \(AB\) 为底，高为 \(AD\sin 45^{\circ}=2\times\dfrac{\sqrt{2}}{2}=\sqrt{2}\)。
+以 \(AB\) 为底，高为 \(AD\sin 45^{\circ}=2\times\frac{\sqrt{2}}{2}=\sqrt{2}\)。
 
 故面积 \(S=AB\times h=4\sqrt{2}\)。
 
@@ -320,7 +320,7 @@ $$
 
 \(EA\) 平分 \(\angle BED\)，故 \(\angle AEB=\angle AED\)，从而 \(\angle DAE=\angle AED\)，\(\triangle ADE\) 等腰，\(AD=DE=8\)。
 
-面积 \(S=\dfrac{1}{2}\cdot AD\cdot DE\cdot\sin 30^{\circ}=\dfrac{1}{2}\times 8\times 8\times\dfrac{1}{2}=16\)。
+面积 \(S=\frac{1}{2}\cdot AD\cdot DE\cdot\sin 30^{\circ}=\frac{1}{2}\times 8\times 8\times\frac{1}{2}=16\)。
 
 \(\blacksquare\)
 
