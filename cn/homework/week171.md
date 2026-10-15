@@ -24,7 +24,7 @@
 
 (练习 29.1 第 2 题) 如图, 投影线的方向如箭头所示, 画出圆柱体的正投影.
 
-![week171-1.svg](../figures/week171-1.svg){width=100%}
+![week171-1.svg](../../figures/week171-1.svg){width=100%}
 
 ### 解答 练习二
 
@@ -86,7 +86,7 @@
 
 (3) 投影线由物体上方照射到下方.
 
-![week171-2.svg](../figures/week171-2.svg){width=100%}
+![week171-2.svg](../../figures/week171-2.svg){width=100%}
 
 ### 解答 习题五
 

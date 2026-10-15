@@ -138,7 +138,7 @@ $\angle AEF=\angle BDF=90^\circ$，$\angle AFE=\angle BFD$ (对顶角)，由**�
 
 (复习题 27 拓广探索第 11 题) 如图，一块材料的形状是锐角三角形 $ABC$，边 $BC=120\ \text{mm}$，高 $AD=80\ \text{mm}$。把它加工成正方形零件，使正方形的一边在 $BC$ 上，其余两个顶点分别在 $AB$，$AC$ 上，这个正方形零件的边长是多少？
 
-![week166-1.svg](../figures/week166-1.svg){width=50%}
+![week166-1.svg](../../figures/week166-1.svg){width=50%}
 
 ### 解答 复习题十一
 

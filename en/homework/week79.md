@@ -1,0 +1,543 @@
+# Assignment 79
+
+> **Definition 16.2.1** (Multiplication of a Monomial by a Monomial) <br>Multiply their coefficients and their powers with the same base separately to form factors of the product; for a letter appearing in only one monomial, take it together with its exponent as a factor of the product.
+
+> **Definition 16.2.2** (Multiplication of a Monomial by a Polynomial) <br>Multiply each term of the polynomial by the monomial, then add the resulting products, i.e. $p(a+b+c)=pa+pb+pc$.
+
+> **Definition 16.2.3** (Multiplication of a Polynomial by a Polynomial) <br>First multiply each term of one polynomial by each term of the other polynomial, then add the resulting products, i.e. $(a+b)(p+q)=ap+aq+bp+bq$.
+
+> **Definition 16.2.4** (Division of Powers with the Same Base) <br>$a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ are both positive integers, $m>n$); that is, when dividing powers with the same base, the base is unchanged and the exponents are subtracted.
+
+> **Definition 16.2.5** (Zero Exponent Power) <br>$a^0=1$ ($a\ne0$); that is, the $0$-th power of any number not equal to $0$ equals $1$.
+
+> **Definition 16.2.6** (Division of a Monomial by a Monomial) <br>Divide the coefficients and the powers with the same base separately to form factors of the quotient; for a letter appearing only in the dividend, take it together with its exponent as a factor of the quotient.
+
+> **Definition 16.2.7** (Division of a Polynomial by a Monomial) <br>First divide each term of this polynomial by the monomial, then add the resulting quotients.
+
+### Exercise 1
+
+(Exercise 16.2, Problem 1) Is each of the following calculations correct? If not, how should it be corrected?
+
+(1) $3a^3\cdot2a^2=6a^6$;
+
+(2) $3x^2\cdot(-4x^2)=-12x^2$;
+
+(3) $5y^3\cdot3y^5=15y^{15}$;
+
+(4) $x^2 y^2(-xy^3)^2=x^4 y^8$.
+
+### Solution to Exercise 1
+
+By **Definition 16.2.1** (Multiplication of a Monomial by a Monomial).
+
+(1) Incorrect. $3a^3\cdot2a^2=6a^{3+2}=6a^5$; for powers with the same base the exponents should be added.
+
+(2) Incorrect. $3x^2\cdot(-4x^2)=-12x^4$.
+
+(3) Incorrect. $5y^3\cdot3y^5=15y^8$.
+
+(4) Correct, $x^2 y^2\cdot x^2 y^6=x^4 y^8$. $\blacksquare$
+
+### Exercise 2
+
+(Exercise 16.2, Problem 2) Calculate:
+
+(1) $3x^2\cdot5x^3$;
+
+(2) $6x^2\cdot3xy$;
+
+(3) $4y\cdot(-2xy^2)$;
+
+(4) $-2ab^2\cdot(-3ab)$.
+
+### Solution to Exercise 2
+
+By **Definition 16.2.1**.
+
+(1) $3x^2\cdot5x^3=15x^5$.
+
+(2) $6x^2\cdot3xy=18x^3 y$.
+
+(3) $4y\cdot(-2xy^2)=-8xy^3$.
+
+(4) $-2ab^2\cdot(-3ab)=6a^2 b^3$. $\blacksquare$
+
+### Exercise 3
+
+(Exercise 16.2, Problem 3) Calculate:
+
+(1) $(-3xy^2)^2(-2xy)^2$;
+
+(2) $(-a)^5-(2a\cdot3a)^2\cdot(-a)$.
+
+### Solution to Exercise 3
+
+Take powers first, then multiply.
+
+(1) $(-3xy^2)^2(-2xy)^2=9x^2 y^4\cdot4x^2 y^2=36x^4 y^6$.
+
+(2) $(-a)^5-(6a^2)^2\cdot(-a)=-a^5-36a^4\cdot(-a)=-a^5+36a^5=35a^5$. $\blacksquare$
+
+### Exercise 4
+
+(Exercise 16.2, Problem 4) The speed of a satellite orbiting the earth (the first cosmic velocity) is $7.9\times10^3\ \text{m/s}$. Find the distance traveled by the satellite in orbiting the earth for $1\ \text{h}$.
+
+### Solution to Exercise 4
+
+The distance equals speed multiplied by time. $1\ \text{h}=3600\ \text{s}=3.6\times10^3\ \text{s}$.
+
+$$
+(7.9\times10^3)\times(3.6\times10^3)=28.44\times10^6=2.844\times10^7\ (\text{m}).
+$$
+
+That is, the distance traveled by the satellite in orbiting the earth for $1\ \text{h}$ is approximately $2.844\times10^7\ \text{m}$. $\blacksquare$
+
+### Exercise 5
+
+(Exercise 16.2, Problem 1) Is each of the following calculations correct? If not, how should it be corrected?
+
+(1) $(-2x)(x^2-x)=-2x^3-2x^2$;
+
+(2) $a(b-c)+b(c-a)+c(a-b)=0$.
+
+### Solution to Exercise 5
+
+By **Definition 16.2.2** (Multiplication of a Monomial by a Polynomial).
+
+(1) Incorrect. $(-2x)(x^2-x)=-2x^3+2x^2$; the second term $(-2x)(-x)$ should be positive.
+
+(2) Correct. $a(b-c)+b(c-a)+c(a-b)=ab-ac+bc-ab+ac-bc=0$. $\blacksquare$
+
+### Exercise 6
+
+(Exercise 16.2, Problem 2) Calculate:
+
+(1) $3a(5a-2b)$;
+
+(2) $-2xy(2xy^2-3xy)$;
+
+(3) $(x-3y)(-6x)$;
+
+(4) $(-2ab)^2(2a-b+1)$.
+
+### Solution to Exercise 6
+
+By **Definition 16.2.2**.
+
+(1) $3a(5a-2b)=15a^2-6ab$.
+
+(2) $-2xy(2xy^2-3xy)=-4x^2 y^3+6x^2 y^2$.
+
+(3) $(x-3y)(-6x)=-6x^2+18xy$.
+
+(4) $(-2ab)^2(2a-b+1)=4a^2 b^2(2a-b+1)=8a^3 b^2-4a^2 b^3+4a^2 b^2$. $\blacksquare$
+
+### Exercise 7
+
+(Exercise 16.2, Problem 3) Calculate: $x(x-1)+2x(x+1)-3x(2x-5)$.
+
+### Solution to Exercise 7
+
+By **Definition 16.2.2**.
+
+$$
+x(x-1)+2x(x+1)-3x(2x-5)=x^2-x+2x^2+2x-6x^2+15x=-3x^2+16x.
+$$
+
+$\blacksquare$
+
+### Exercise 8
+
+(Exercise 16.2, Problem 4) First simplify, then evaluate: $x^2(x-1)-x(x^2+x-1)$, where $x=\frac12$.
+
+### Solution to Exercise 8
+
+First simplify, then substitute.
+
+$$
+x^2(x-1)-x(x^2+x-1)=x^3-x^2-x^3-x^2+x=-2x^2+x.
+$$
+
+Substituting $x=\frac12$, we get $-2\cdot\frac14+\frac12=-\frac12+\frac12=0$. $\blacksquare$
+
+### Exercise 9
+
+(Exercise 16.2, Problem 1) Calculate:
+
+(1) $(2x+1)(x+3)$;
+
+(2) $(m+2n)(3n-m)$;
+
+(3) $(a-1)^2$;
+
+(4) $(a+3b)(a-3b)$;
+
+(5) $(2x^2-1)(x-4)$;
+
+(6) $(x^2+2x+3)(2x-5)$.
+
+### Solution to Exercise 9
+
+By **Definition 16.2.3** (Multiplication of a Polynomial by a Polynomial).
+
+(1) $(2x+1)(x+3)=2x^2+6x+x+3=2x^2+7x+3$.
+
+(2) $(m+2n)(3n-m)=3mn-m^2+6n^2-2mn=mn-m^2+6n^2$.
+
+(3) $(a-1)^2=a^2-2a+1$.
+
+(4) $(a+3b)(a-3b)=a^2-9b^2$.
+
+(5) $(2x^2-1)(x-4)=2x^3-8x^2-x+4$.
+
+(6) $(x^2+2x+3)(2x-5)=2x^3-5x^2+4x^2-10x+6x-15=2x^3-x^2-4x-15$. $\blacksquare$
+
+### Exercise 10
+
+(Exercise 16.2, Problem 2) Calculate:
+
+(1) $(x+2)(x+3)$;
+
+(2) $(x-4)(x+1)$;
+
+(3) $(x+4)(x-2)$;
+
+(4) $(x-5)(x-3)$.
+
+From the above results find a pattern; observe the figure and fill in the blank: $(x+p)(x+q)=(\;\;)^2+(\;\;)x+(\;\;)$.
+
+### Solution to Exercise 10
+
+By **Definition 16.2.3**.
+
+(1) $(x+2)(x+3)=x^2+5x+6$.
+
+(2) $(x-4)(x+1)=x^2-3x-4$.
+
+(3) $(x+4)(x-2)=x^2+2x-8$.
+
+(4) $(x-5)(x-3)=x^2-8x+15$.
+
+Observing the expressions: the coefficient of the quadratic term is $1$, the coefficient of the linear term equals the sum of the two constants, and the constant term equals the product of the two constants. Hence
+
+$$(x+p)(x+q)=x^2+(p+q)x+pq.$$
+
+$\blacksquare$
+
+### Exercise 11
+
+(Exercise 16.2, Problem 3) First simplify, then evaluate: $(x-y)(x^2+xy+y^2)-(x+y)(x^2-y^2)$, where $x=5$, $y=5$.
+
+### Solution to Exercise 11
+
+By **Definition 16.2.3**.
+
+$$(x-y)(x^2+xy+y^2)=x^3-y^3,$$
+
+$$(x+y)(x^2-y^2)=(x+y)(x+y)(x-y)=(x+y)^2(x-y).$$
+
+Substituting $x=5,y=5$, we have $x-y=0$, so the original expression $=0-(x+y)\cdot0=0$. $\blacksquare$
+
+### Exercise 12
+
+(Exercise 16.2, Problem 1) Calculate:
+
+(1) $x^7\div x^5$;
+
+(2) $m^8\div m^8$;
+
+(3) $(-a)^{10}\div(-a)^7$;
+
+(4) $(xy)^5\div(xy)^3$.
+
+### Solution to Exercise 12
+
+By **Definition 16.2.4** (Division of Powers with the Same Base) and **Definition 16.2.5** (Zero Exponent Power).
+
+(1) $x^7\div x^5=x^2$.
+
+(2) $m^8\div m^8=m^0=1$.
+
+(3) $(-a)^{10}\div(-a)^7=(-a)^3=-a^3$.
+
+(4) $(xy)^5\div(xy)^3=(xy)^2=x^2 y^2$. $\blacksquare$
+
+### Exercise 13
+
+(Exercise 16.2, Problem 2) Calculate:
+
+(1) $(10ab^3)\div(-5ab)$;
+
+(2) $(-8a^2 b^3)\div(6ab^2)$;
+
+(3) $(-21x^2 y^4)\div(-3x^2 y^3)$;
+
+(4) $(6\times10^8)\div(3\times10^5)$.
+
+### Solution to Exercise 13
+
+By **Definition 16.2.6** (Division of a Monomial by a Monomial).
+
+(1) $(10ab^3)\div(-5ab)=-2b^2$.
+
+(2) $(-8a^2 b^3)\div(6ab^2)=-\frac43 ab$.
+
+(3) $(-21x^2 y^4)\div(-3x^2 y^3)=7y$.
+
+(4) $(6\times10^8)\div(3\times10^5)=2\times10^3$. $\blacksquare$
+
+### Exercise 14
+
+(Exercise 16.2, Problem 3) Calculate:
+
+(1) $(6ab+5a)\div a$;
+
+(2) $(15x^2 y-10xy^2)\div(5xy)$.
+
+### Solution to Exercise 14
+
+By **Definition 16.2.7** (Division of a Polynomial by a Monomial).
+
+(1) $(6ab+5a)\div a=6b+5$.
+
+(2) $(15x^2 y-10xy^2)\div(5xy)=3x-2y$. $\blacksquare$
+
+### Problem 1
+
+(Exercise 16.2, Review and Consolidation, Problem 1) Calculate:
+
+(1) $3x\cdot6x^2 y$;
+
+(2) $a^2 b(-3ab^2)$;
+
+(3) $4x^2 y(-xy^2)^3$;
+
+(4) $(1.25\times10^5)\times(2\times10^3)^3$.
+
+### Solution to Problem 1
+
+By **Definition 16.2.1**.
+
+(1) $3x\cdot6x^2 y=18x^3 y$.
+
+(2) $a^2 b(-3ab^2)=-3a^3 b^3$.
+
+(3) $4x^2 y(-xy^2)^3=4x^2 y\cdot(-x^3 y^6)=-4x^5 y^7$.
+
+(4) $(1.25\times10^5)\times(2\times10^3)^3=1.25\times10^5\times8\times10^9=10\times10^{14}=1\times10^{15}$. $\blacksquare$
+
+### Problem 2
+
+(Exercise 16.2, Review and Consolidation, Problem 2) Calculate:
+
+(1) $(4a-b^2)(-2b)$;
+
+(2) $2x^2(x-\frac12)$;
+
+(3) $5ab(2a-b+0.2)$;
+
+(4) $(2a^2-\frac23 a-\frac49)(-9a)$.
+
+### Solution to Problem 2
+
+By **Definition 16.2.2**.
+
+(1) $(4a-b^2)(-2b)=-8ab+2b^3$.
+
+(2) $2x^2(x-\frac12)=2x^3-x^2$.
+
+(3) $5ab(2a-b+0.2)=10a^2 b-5ab^2+ab$.
+
+(4) $(2a^2-\frac23 a-\frac49)(-9a)=-18a^3+6a^2+4a$. $\blacksquare$
+
+### Problem 3
+
+(Exercise 16.2, Review and Consolidation, Problem 3) Calculate:
+
+(1) $(x-6)(x-3)$;
+
+(2) $(x+\frac12)(x-\frac13)$;
+
+(3) $(3x+2)(x+2)$;
+
+(4) $(4y-1)(5-y)$;
+
+(5) $(x-2)(x^2+4)$;
+
+(6) $(x-1)(x^2+x+1)$.
+
+### Solution to Problem 3
+
+By **Definition 16.2.3**.
+
+(1) $(x-6)(x-3)=x^2-9x+18$.
+
+(2) $(x+\frac12)(x-\frac13)=x^2+\frac16 x-\frac16$.
+
+(3) $(3x+2)(x+2)=3x^2+8x+4$.
+
+(4) $(4y-1)(5-y)=20y-4y^2-5+y=-4y^2+21y-5$.
+
+(5) $(x-2)(x^2+4)=x^3+4x-2x^2-8=x^3-2x^2+4x-8$.
+
+(6) $(x-1)(x^2+x+1)=x^3+x^2+x-x^2-x-1=x^3-1$. $\blacksquare$
+
+### Problem 4
+
+(Exercise 16.2, Review and Consolidation, Problem 4) Calculate:
+
+(1) $(a^3)^2\div(a^2)^3$;
+
+(2) $(ab^2)^3\div(-ab)^2$;
+
+(3) $(25a^3 b^2)\div(5ab)^2$;
+
+(4) $(14m^2 n)^2\div(7m^2)\div(7m)$;
+
+(5) $(-5a^3 b^5 c+35a^2 b^3 c^2-abc)\div(-abc)$;
+
+(6) $(-81x^{n+5}+15x^{n+1}-3x^{n-1})\div(-3x^{n-1})$.
+
+### Solution to Problem 4
+
+By **Definition 16.2.6** and **Definition 16.2.7**.
+
+(1) $(a^3)^2\div(a^2)^3=a^6\div a^6=1$.
+
+(2) $(ab^2)^3\div(-ab)^2=a^3 b^6\div(a^2 b^2)=ab^4$.
+
+(3) $(25a^3 b^2)\div(25a^2 b^2)=a$.
+
+(4) $(14m^2 n)^2\div(7m^2)\div(7m)=196m^4 n^2\div(7m^2)\div(7m)=28m^2 n^2\div(7m)=4mn^2$.
+
+(5) $(-5a^3 b^5 c+35a^2 b^3 c^2-abc)\div(-abc)=5a^2 b^4-35ab^2 c+1$.
+
+(6) $(-81x^{n+5}+15x^{n+1}-3x^{n-1})\div(-3x^{n-1})=27x^6-5x^2+1$. $\blacksquare$
+
+### Problem 5
+
+(Exercise 16.2, Review and Consolidation, Problem 5) Calculate:
+
+(1) $(-3x^2 y)^2\cdot(-\frac23 xyz)\div(\frac34 xy^2)$;
+
+(2) $(-4ab^3-18ab)\div(-12ab^2)$;
+
+(3) $(x-3)(x-2)-6(x^2+x-1)$;
+
+(4) $(-4ab^3+8a^2 b^2)\div(4ab)-(2a+b)(a-b)$.
+
+### Solution to Problem 5
+
+In mixed operations, take powers first, then multiplication and division, then addition and subtraction.
+
+(1) $(-3x^2 y)^2\cdot(-\frac23 xyz)\div(\frac34 xy^2)=9x^4 y^2\cdot(-\frac23 xyz)\div(\frac34 xy^2)=-6x^5 y^3 z\div(\frac34 xy^2)=-8x^4 yz$.
+
+(2) $(-4ab^3-18ab)\div(-12ab^2)=\frac13 b+\frac{3}{2b}$.
+
+(3) $(x-3)(x-2)-6(x^2+x-1)=x^2-5x+6-6x^2-6x+6=-5x^2-11x+12$.
+
+(4) $(-4ab^3+8a^2 b^2)\div(4ab)-(2a+b)(a-b)=-b^2+2ab-(2a^2-2ab+ab-b^2)=-b^2+2ab-2a^2+ab+b^2=-2a^2+3ab$. $\blacksquare$
+
+### Problem 6
+
+(Exercise 16.2, Comprehensive Application, Problem 6) Calculate:
+
+(1) $[5a^4\cdot a^2-(3a^3)^2]\div(2a^2)^2$;
+
+(2) $[(ab+1)(ab-1)-2a^2 b^2+1]\div(-ab)^2$.
+
+### Solution to Problem 6
+
+First simplify inside the parentheses, then divide.
+
+(1) $[5a^6-9a^6]\div(4a^4)=(-4a^6)\div(4a^4)=-a^2$.
+
+(2) $[(a^2 b^2-1)-2a^2 b^2+1]\div(a^2 b^2)=(-a^2 b^2)\div(a^2 b^2)=-1$. $\blacksquare$
+
+### Problem 7
+
+(Exercise 16.2, Comprehensive Application, Problem 7) First simplify, then evaluate:
+
+(1) $x(1-x^2)+x^2(x-1)+x(x+1)$, where $x=2$;
+
+(2) $(a^2 b-2ab^2-b^3)\div b-(a+b)^2$, where $a=\frac12$, $b=-1$.
+
+### Solution to Problem 7
+
+(1) $x-x^3+x^3-x^2+x^2+x=2x$. Substituting $x=2$, we get $4$.
+
+(2) The original expression $=a^2-2ab-b^2-(a^2+2ab+b^2)=-4ab-2b^2$. Substituting $a=\frac12,b=-1$, we get $-4\cdot\frac12\cdot(-1)-2\cdot1=2-2=0$. $\blacksquare$
+
+### Problem 8
+
+(Exercise 16.2, Comprehensive Application, Problem 8) Given $3x-4y=3$ ($x,y$ are positive integers), find $27^x\div9^{2y}$.
+
+### Solution to Problem 8
+
+Reduce to powers with the same base. $27^x=(3^3)^x=3^{3x}$, $9^{2y}=(3^2)^{2y}=3^{4y}$.
+
+$$27^x\div9^{2y}=3^{3x}\div3^{4y}=3^{3x-4y}=3^3=27.$$
+
+$\blacksquare$
+
+### Problem 9
+
+(Exercise 16.2, Comprehensive Application, Problem 9) Calculate the area of the green shaded region shown in the figure (length unit: $\text{m}$).
+
+![week79-1.svg](../../figures/week79-1.svg){width=50%}
+
+### Solution to Problem 9
+
+From the figure, the width of the entire outer rectangle is $a+2a+2a+2a+a=8a$ and its height is $2.5a+1.5a=4a$, so the outer area is $8a\cdot4a=32a^2$.
+
+The two blank small rectangles at the bottom are each $2a\times2.5a$, totaling $2\cdot(2a\cdot2.5a)=10a^2$.
+
+Hence the area of the shaded green region is
+
+$$32a^2-10a^2=22a^2\ (\text{m}^2).$$
+
+$\blacksquare$
+
+### Problem 10
+
+(Exercise 16.2, Comprehensive Application, Problem 10) As shown in the figure, there is a rectangular cardboard; an equal square is cut off from each of its four corners, and then the protruding portions on all sides are folded up to make an open box in the shape of a cuboid with height $a\ \text{cm}$. If the volume of the box is $4a^2 b\ \text{cm}^3$ and one side of the rectangular base has length $b$ ($b<4a$) $\text{cm}$, find the length and width of the original rectangular cardboard.
+
+(The figure is a development diagram of the rectangular cardboard after small squares are cut from its four corners and it is folded up.)
+
+### Solution to Problem 10
+
+The height of the box is $a$, so the side length of the square cut from each corner is $a$. Let the other side of the box base be $x$; then the base area is $bx$. From the volume
+
+$$bx\cdot a=4a^2 b,$$
+
+solving gives $x=4a$.
+
+Hence the two sides of the box base are $b$ and $4a$. The original cardboard's length exceeds the base length by $2a$, and its width exceeds the base width by $2a$. Since $b<4a$, taking the long base side $4a$ to correspond to the long cardboard side, the original cardboard has length $4a+2a=6a\ \text{cm}$ and width $b+2a\ \text{cm}$. $\blacksquare$
+
+### Problem 11
+
+(Exercise 16.2, Extension and Exploration, Problem 11) Determine the value of $m$ in each of the following expressions (where $p,q$ are positive integers):
+
+(1) $(x+4)(x+9)=x^2+mx+36$;
+
+(2) $(x-2)(x-18)=x^2+mx+36$;
+
+(3) $(x+3)(x+p)=x^2+mx+36$;
+
+(4) $(x-6)(x-p)=x^2+mx+36$;
+
+(5) $(x+p)(x+q)=x^2+mx+36$.
+
+### Solution to Problem 11
+
+From $(x+p)(x+q)=x^2+(p+q)x+pq$, the coefficient of the linear term is the sum of the two constants.
+
+(1) $(x+4)(x+9)=x^2+13x+36$, hence $m=13$.
+
+(2) $(x-2)(x-18)=x^2-20x+36$, hence $m=-20$.
+
+(3) $3p=36$, giving $p=12$, hence $m=3+p=15$.
+
+(4) $(-6)(-p)=36$, giving $p=6$, hence $m=-6-p=-12$.
+
+(5) $pq=36$, $m=p+q$. Since $p,q$ are positive integers, take $(p,q)=(1,36),(2,18),(3,12),(4,9),(6,6)$, giving respectively $m=37,20,15,13,12$. $\blacksquare$

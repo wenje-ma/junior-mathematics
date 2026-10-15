@@ -88,7 +88,7 @@
 
 (4) 连接 $D$, $A$ 得线段 $DA$, 从 $D$ 向远离 $A$ 的方向延长, 取 $E$ 使 $DE=2AD$.
 
-![week28-1.svg](../figures/week28-1.svg){width=50%}
+![week28-1.svg](../../figures/week28-1.svg){width=50%}
 
 $\blacksquare$
 
@@ -162,7 +162,7 @@ $\blacksquare$
 
 题图中: 从前面看为矩形, 从左面看为圆, 从上面看为矩形. 主视图和俯视图均为矩形, 左视图为圆, 这是横放圆柱 (轴线沿左右方向) 的三视图. 故该立体图形为圆柱.
 
-![week28-2.svg](../figures/week28-2.svg){width=100%}
+![week28-2.svg](../../figures/week28-2.svg){width=100%}
 
 $\blacksquare$
 
@@ -238,7 +238,7 @@ $\blacksquare$
 
 四边形各边中点连接而成的四边形 $EFGH$, 经测量发现: $EF=GH$, $FG=HE$, 即对边相等. 同时 $\angle 1=\angle 3$, $\angle 2=\angle 4$, 即对角相等. 由此可猜想: 任意四边形四边中点连线构成的四边形是平行四边形.
 
-![week28-3.svg](../figures/week28-3.svg){width=50%}
+![week28-3.svg](../../figures/week28-3.svg){width=50%}
 
 $\blacksquare$
 

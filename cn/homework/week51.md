@@ -146,7 +146,7 @@ $$
 
 (4) $-8x>10$.
 
-![week51-1.svg](../figures/week51-1.svg){width=100%}
+![week51-1.svg](../../figures/week51-1.svg){width=100%}
 
 ### 解答 练习六
 
@@ -266,7 +266,7 @@ $$
 
 (4) $4y\ge-12$.
 
-![week51-2.svg](../figures/week51-2.svg){width=100%}
+![week51-2.svg](../../figures/week51-2.svg){width=100%}
 
 ### 解答 习题五
 

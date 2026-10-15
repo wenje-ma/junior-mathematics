@@ -30,7 +30,7 @@
 
 (3) 如果小三角形的边长为 $1$, 那么对应的三棱锥的表面积是多少?
 
-![week173-1.svg](../figures/week173-1.svg){width=100%}
+![week173-1.svg](../../figures/week173-1.svg){width=100%}
 
 ### 解答 课题三
 

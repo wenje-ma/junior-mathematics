@@ -44,7 +44,7 @@
 
 从上面看: 第一行有 $4$ 个正方形 (横排), 第二行在最右侧有 $2$ 个正方形, 俯视图为 L 形 (上行 $4$ 个, 下行右 $2$ 个).
 
-![week24-1.svg](../figures/week24-1.svg){width=100%}
+![week24-1.svg](../../figures/week24-1.svg){width=100%}
 
 $\blacksquare$
 
@@ -80,7 +80,7 @@ $\blacksquare$
 
 (3) 球: 正面、左面、上面均为大小相同的圆.
 
-![week24-2.svg](../figures/week24-2.svg){width=100%}
+![week24-2.svg](../../figures/week24-2.svg){width=100%}
 
 $\blacksquare$
 
@@ -270,7 +270,7 @@ $\blacksquare$
 
 平面与正方体的面相交, 每与一个面相交得到一条边. 正方体有六个面, 截面最多与六个面相交, 故截面最多为六边形. 截面可能是三角形 (等边、等腰、不等边)、四边形 (正方形、矩形、梯形)、五边形和六边形.
 
-![week24-3.svg](../figures/week24-3.svg){width=100%}
+![week24-3.svg](../../figures/week24-3.svg){width=100%}
 
 $\blacksquare$
 

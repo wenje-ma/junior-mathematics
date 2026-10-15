@@ -38,7 +38,7 @@ $$
 
 (练习 25.3 第 2 题) 如图, 矩形 $ABCD$ 的两条邻边 $AD=1$, $CD=4$, $AB$ 上是否存在点 $E$, 使得 $\angle DEC$ 为直角?
 
-![week130-1.svg](../figures/week130-1.svg){width=50%}
+![week130-1.svg](../../figures/week130-1.svg){width=50%}
 
 ### 解答 练习二
 

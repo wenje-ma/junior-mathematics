@@ -114,7 +114,7 @@ $\blacksquare$
 
 (复习题 综合运用第 9 题) 从图形 I 到图形 II 是进行了平移还是轴对称? 如果是轴对称, 找出对称轴; 如果是平移, 是怎样的平移?
 
-![week76-1.svg](../figures/week76-1.svg){width=100%}
+![week76-1.svg](../../figures/week76-1.svg){width=100%}
 
 ### 解答 复习题九
 

@@ -168,7 +168,7 @@ $$
 
 (2) 限制电流不能超过 $10\ \text{A}$, 可变电阻应控制在什么范围?
 
-![week141-1.svg](../figures/week141-1.svg){width=50%}
+![week141-1.svg](../../figures/week141-1.svg){width=50%}
 
 ### 解答 习题八
 

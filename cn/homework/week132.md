@@ -126,7 +126,7 @@ $$
 
 (复习题 综合运用第 6 题) 一个直角梯形的下底比上底长 $2\ \text{cm}$, 高比上底短 $1\ \text{cm}$, 面积是 $8\ \text{cm}^2$. 画出这个梯形.
 
-![week132-1.svg](../figures/week132-1.svg){width=50%}
+![week132-1.svg](../../figures/week132-1.svg){width=50%}
 
 ### 解答 复习题六
 
@@ -142,7 +142,7 @@ $$
 
 (复习题 综合运用第 7 题) 一个长方体的长与宽的比为 $5:2$, 高为 $5\ \text{cm}$, 表面积为 $40\ \text{cm}^2$. 画出这个长方体的展开图.
 
-![week132-2.svg](../figures/week132-2.svg){width=50%}
+![week132-2.svg](../../figures/week132-2.svg){width=50%}
 
 ### 解答 复习题七
 

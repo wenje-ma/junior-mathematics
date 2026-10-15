@@ -42,7 +42,7 @@
 
 $$3,\ -4,\ 0,\ 2,\ -2,\ -1.$$
 
-![week4-1.svg](../figures/week4-1.svg){width=50%}
+![week4-1.svg](../../figures/week4-1.svg){width=50%}
 
 ### 解答 复习题二
 
@@ -122,7 +122,7 @@ $$31.5>27.8>-6.8>-10.7.$$
 
 (复习题 综合运用第 7 题) 已知 $x$ 是整数, 并且 $-3<x<4$, 在数轴上表示 $x$ 可能取的所有数.
 
-![week4-2.svg](../figures/week4-2.svg){width=50%}
+![week4-2.svg](../../figures/week4-2.svg){width=50%}
 
 ### 解答 复习题七
 
@@ -144,7 +144,7 @@ $$x=-2,\ -1,\ 0,\ 1,\ 2,\ 3.$$
 
 (D) $-b<b<-a<a$
 
-![week4-3.svg](../figures/week4-3.svg){width=50%}
+![week4-3.svg](../../figures/week4-3.svg){width=50%}
 
 ### 解答 复习题八
 

@@ -26,7 +26,7 @@
 
 (复习题 28 复习巩固第 2 题) 如图, 把 $\text{Rt}\triangle ABC$ 以点 $S$ 为中心顺时针旋转 $30^\circ$, 画出旋转后的图形.
 
-![week146-1.svg](../figures/week146-1.svg){width=50%}
+![week146-1.svg](../../figures/week146-1.svg){width=50%}
 
 ### 解答 复习题二
 
@@ -142,7 +142,7 @@ $\blacksquare$
 
 (复习题 28 拓广探索第 10 题) 如图, 有一张纸片, 若连接 $EB$, 则纸片被分为矩形 $FABE$ 和菱形 $EBCD$. 你能画一条直线把这张纸片分成面积相等的两部分吗? 画一画, 并说明理由.
 
-![week146-2.svg](../figures/week146-2.svg){width=50%}
+![week146-2.svg](../../figures/week146-2.svg){width=50%}
 
 ### 解答 复习题十
 

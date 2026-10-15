@@ -28,7 +28,7 @@
 
 (数学活动 活动 3 等腰三角形中相等的线段) 猜想等腰三角形底边中点 $D$ 到两腰的距离 $DE$, $DF$ 相等吗? 证明你的结论; 如果 $DE$, $DF$ 分别是两腰上的中线或 $\angle ADB$, $\angle ADC$ 的平分线, 它们还相等吗?
 
-![week75-1.svg](../figures/week75-1.svg){width=50%}
+![week75-1.svg](../../figures/week75-1.svg){width=50%}
 
 ### 解答 活动三
 

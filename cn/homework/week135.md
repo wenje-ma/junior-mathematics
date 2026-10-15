@@ -46,7 +46,7 @@
 
 (2) 观察图象, 当 $x$ 取哪些值时, 函数值为 $0$?
 
-![week135-1.svg](../figures/week135-1.svg){width=50%}
+![week135-1.svg](../../figures/week135-1.svg){width=50%}
 
 ### 解答 习题一
 
@@ -112,7 +112,7 @@ $$
 
 (3) $x$ 取什么值时, 函数值小于 $0$?
 
-![week135-2.svg](../figures/week135-2.svg){width=50%}
+![week135-2.svg](../../figures/week135-2.svg){width=50%}
 
 ### 解答 习题五
 

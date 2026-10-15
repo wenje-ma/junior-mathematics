@@ -46,7 +46,7 @@ $$
 
 (综合与实践 第 4 题) 求图中 “L” 形角钢横截面 (外轮廓 $30\ \text{cm}\times30\ \text{cm}$, 壁厚 $10\ \text{cm}$) 的重心位置.
 
-![week66-1.svg](../figures/week66-1.svg){width=50%}
+![week66-1.svg](../../figures/week66-1.svg){width=50%}
 
 ### 解答 探究四
 

@@ -484,7 +484,7 @@ $\blacksquare$
 
 (习题 16.2 综合运用第 9 题) 计算图中阴影所示绿地的面积 (长度单位: $\text{m}$).
 
-![week79-1.svg](../figures/week79-1.svg){width=50%}
+![week79-1.svg](../../figures/week79-1.svg){width=50%}
 
 ### 解答 习题九
 

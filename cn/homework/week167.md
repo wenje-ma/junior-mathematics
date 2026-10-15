@@ -304,7 +304,7 @@ $$\sin A\approx\frac{1.386}{2.6}\approx 0.533,\quad \cos A=\frac{2.2}{2.6}\appro
 
 (D) $\frac{CD}{CB}$
 
-![week167-1.svg](../figures/week167-1.svg){width=50%}
+![week167-1.svg](../../figures/week167-1.svg){width=50%}
 
 ### 解答 习题六
 
@@ -320,7 +320,7 @@ $$\sin A\approx\frac{1.386}{2.6}\approx 0.533,\quad \cos A=\frac{2.2}{2.6}\appro
 
 (习题 28.1 综合运用第 7 题) 如图, 焊接一个高 $3.5\ \text{m}$, 底角为 $32^{\circ}$ 的人字形 (等腰三角形) 钢架, 约需多长的钢材 (结果保留小数点后两位)?
 
-![week167-2.svg](../figures/week167-2.svg){width=50%}
+![week167-2.svg](../../figures/week167-2.svg){width=50%}
 
 ### 解答 习题七
 
@@ -340,7 +340,7 @@ $$\tan A=\frac{CD}{AD}\implies AD=\frac{CD}{\tan 32^{\circ}}=\frac{3.5}{\tan 32^
 
 (习题 28.1 综合运用第 8 题) 如图, 一块平行四边形木板的两条邻边的长分别为 $62.31\ \text{cm}$ 和 $35.24\ \text{cm}$, 它们的夹角为 $35^{\circ}40'$, 求这块木板的面积 (结果保留小数点后两位).
 
-![week167-3.svg](../figures/week167-3.svg){width=50%}
+![week167-3.svg](../../figures/week167-3.svg){width=50%}
 
 ### 解答 习题八
 

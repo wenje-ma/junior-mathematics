@@ -30,7 +30,7 @@ $OD\perp AB$, $OE\perp AC$, 故 $\angle ADO=\angle AEO=90^\circ$, 又 $\angle DA
 
 (练习 29.2 第 3 题) 如图是一个隧道的横截面, 它的形状是以点 $O$ 为圆心的圆的一部分. 如果 $M$ 是 $\odot O$ 中弦 $CD$ 的中点, $EM$ 经过圆心 $O$ 交 $\odot O$ 于点 $E$, 且 $CD=4\,\text{m}$, $EM=6\,\text{m}$. 求 $\odot O$ 的半径长.
 
-![week148-1.svg](../figures/week148-1.svg){width=50%}
+![week148-1.svg](../../figures/week148-1.svg){width=50%}
 
 ### 解答 练习三
 

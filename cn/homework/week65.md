@@ -86,7 +86,7 @@ $$
 
 (复习题 复习巩固第 4 题) 求出下列各图形中 $x$ 的值.
 
-![week65-1.svg](../figures/week65-1.svg){width=100%}
+![week65-1.svg](../../figures/week65-1.svg){width=100%}
 
 ### 解答 复习题四
 
@@ -198,7 +198,7 @@ $\blacksquare$
 
 (复习题 拓广探索第 9 题) 如图, 连接 $AC$, $AD$, $BD$, $BE$, $CE$, 求证 $\angle A+\angle B+\angle C+\angle D+\angle E=180^\circ$.
 
-![week65-2.svg](../figures/week65-2.svg){width=50%}
+![week65-2.svg](../../figures/week65-2.svg){width=50%}
 
 ### 解答 复习题九
 

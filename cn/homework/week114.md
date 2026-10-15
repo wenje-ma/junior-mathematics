@@ -12,7 +12,7 @@
 
 ### 解答 练习一
 
-![week114-1.svg](../figures/week114-1.svg){width=50%}
+![week114-1.svg](../../figures/week114-1.svg){width=50%}
 
 由**结论 23.3.1** (一次函数与一元一次方程), 直线 $y=-2x+8$ 与 $x$ 轴交点的横坐标即为方程 $-2x+8=0$ 的解. 令 $y=0$, 得 $x=4$.
 
@@ -92,7 +92,7 @@ $-2x-4<0$ 即 $y=-2x-4$ 的值小于 $0$, 解得 $x>-2$. $\blacksquare$
 
 ### 解答 习题五
 
-![week114-2.svg](../figures/week114-2.svg){width=50%}
+![week114-2.svg](../../figures/week114-2.svg){width=50%}
 
 令 $y_1=y_2$, 即 $-\frac{1}{2}x+2=3x+9$, 解得 $x=-2$.
 

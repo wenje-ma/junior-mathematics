@@ -16,7 +16,7 @@
 
 当 $2 < t \leq 4$ 时, $T=20+5(t-2)=5t+10$.
 
-![week115-1.svg](../figures/week115-1.svg){width=50%}
+![week115-1.svg](../../figures/week115-1.svg){width=50%}
 
 $\blacksquare$
 

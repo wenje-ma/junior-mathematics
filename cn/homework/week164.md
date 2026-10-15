@@ -18,7 +18,7 @@ $\triangle OAB$ 与 $\triangle OCD$ 位似，$AB$ 与 $CD$ 是对应边，故 $A
 
 (练习 27.3 第 2 题) 如图，以点 $O$ 为位似中心，将 $\triangle ABC$ 按相似比 $3$ 放大。
 
-![week164-2.svg](../figures/week164-2.svg){width=50%}
+![week164-2.svg](../../figures/week164-2.svg){width=50%}
 
 ### 解答 练习二
 
@@ -102,7 +102,7 @@ $$
 
 (习题 27.3 综合运用第 6 题) 如图，图中的图案与 "A" 字图案 (虚线图案) 相比，发生了什么变化？对应点的坐标之间有什么关系？(虚线图案顶点为 $(2,4)$，$(4,4)$ 等；实线图案顶点为 $(2,8)$ 等。)
 
-![week164-1.svg](../figures/week164-1.svg){width=100%}
+![week164-1.svg](../../figures/week164-1.svg){width=100%}
 
 ### 解答 习题六
 
@@ -112,7 +112,7 @@ $$
 
 (习题 27.3 拓广探索第 7 题) 如图，以点 $Q$ 为位似中心，画出与矩形 $MNPQ$ 的相似比为 $0.75$ 的一个图形。
 
-![week164-3.svg](../figures/week164-3.svg){width=50%}
+![week164-3.svg](../../figures/week164-3.svg){width=50%}
 
 ### 解答 习题七
 

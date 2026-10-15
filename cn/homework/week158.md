@@ -86,7 +86,7 @@ $y=4x$ 为正比例函数；$\frac{y}{x}=3$ 即 $y=3x$，为正比例函数；$y
 
 (A) $y=\frac{5}{x}$；(B) $y=2x+3$；(C) $y=\frac{4}{x}$；(D) $y=-\frac{3}{x}$.
 
-![week158-1.svg](../figures/week158-1.svg){width=50%}
+![week158-1.svg](../../figures/week158-1.svg){width=50%}
 
 ### 解答 练习四
 
@@ -274,7 +274,7 @@ $x_1$，$x_2$ 同号，说明 $A$，$B$ 在同一象限。由 $x_1<x_2$，在同
 
 (2) 在同一直角坐标系中，随着 $|k|$ 的增大，反比例函数 $y=\frac{k}{x}$ 图象的位置相对于坐标原点是越来越远还是越来越近？
 
-![week158-2.svg](../figures/week158-2.svg){width=100%}
+![week158-2.svg](../../figures/week158-2.svg){width=100%}
 
 ### 解答 信息技术应用一
 

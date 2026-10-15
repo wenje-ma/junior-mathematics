@@ -16,7 +16,7 @@
 
 (练习 15.1 第 1 题) 如图所示的每个图形是轴对称图形吗? 如果是, 指出它的对称轴.
 
-![week72-1.svg](../figures/week72-1.svg){width=100%}
+![week72-1.svg](../../figures/week72-1.svg){width=100%}
 
 ### 解答 练习一
 
@@ -26,7 +26,7 @@
 
 (练习 15.1 第 2 题) 如图所示的每幅图形中的两个图案是成轴对称的吗? 如果是, 指出它们的对称轴, 并找出一对对称点.
 
-![week72-2.svg](../figures/week72-2.svg){width=100%}
+![week72-2.svg](../../figures/week72-2.svg){width=100%}
 
 ### 解答 练习二
 
@@ -122,7 +122,7 @@ $\blacksquare$
 
 (习题 15.1 复习巩固第 2 题) 图中有阴影的三角形与哪些三角形成轴对称? 如果把 $4$ 个三角形看成一个整体, 它是轴对称图形吗? 共有几条对称轴?
 
-![week72-3.svg](../figures/week72-3.svg){width=50%}
+![week72-3.svg](../../figures/week72-3.svg){width=50%}
 
 ### 解答 习题二
 
@@ -184,7 +184,7 @@ $\blacksquare$
 
 (习题 15.1 综合运用第 7 题) 下面的图形是轴对称图形吗? 如果是, 作出它的一条对称轴.
 
-![week72-4.svg](../figures/week72-4.svg){width=100%}
+![week72-4.svg](../../figures/week72-4.svg){width=100%}
 
 ### 解答 习题七
 

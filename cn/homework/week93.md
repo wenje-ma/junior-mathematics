@@ -206,7 +206,7 @@ $$\frac{180}{x}-1-\frac{120}{x}+\frac{2}{3}=\frac23,\quad \frac{60}{x}-1=0,\quad
 
 (复习题 拓广探索第 12 题) 如图, 运动场两端的半圆形跑道外径为 $R$, 内径为 $r$, 中间为直跑道, 整个跑道总面积为 $S$, 试用含 $S,R,r$ 的式子表示直跑道的长 $a$.
 
-![week93-1.svg](../figures/week93-1.svg){width=50%}
+![week93-1.svg](../../figures/week93-1.svg){width=50%}
 
 ### 解答 复习题十二
 

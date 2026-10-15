@@ -16,7 +16,7 @@
 
 (3) 推断北京白昼时长的变化规律, 白昼最长的一天是哪天.
 
-![week60-1.svg](../figures/week60-1.svg){width=50%}
+![week60-1.svg](../../figures/week60-1.svg){width=50%}
 
 ### 解答 探究一
 

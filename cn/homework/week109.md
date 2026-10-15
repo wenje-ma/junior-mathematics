@@ -22,7 +22,7 @@
 
 在平面直角坐标系中描点 $(x, y)$, 并用平滑曲线连接这些点, 得到一条直线.
 
-![week109-1.svg](../figures/week109-1.svg){width=50%}
+![week109-1.svg](../../figures/week109-1.svg){width=50%}
 
 (2) 由**定义 22.2.1** (函数的图象), 图象上的点的坐标满足函数解析式.
 
@@ -48,7 +48,7 @@
 
 在平面直角坐标系中描点, 并用平滑曲线连接, 得到一条开口向上的曲线.
 
-![week109-2.svg](../figures/week109-2.svg){width=50%}
+![week109-2.svg](../../figures/week109-2.svg){width=50%}
 
 (2) 由图象可知, 当 $x<0$ 时, 曲线从左向右下降, 即 $y$ 随 $x$ 的增大而减小; 当 $x>0$ 时, 曲线从左向右上升, 即 $y$ 随 $x$ 的增大而增大. $\blacksquare$
 
@@ -132,7 +132,7 @@ $\blacksquare$
 
 图象法: 在平面直角坐标系中, 以 $a$ 为横坐标, $C$ 为纵坐标, 画出 $C=3a$ 在 $a>0$ 范围内的射线.
 
-![week109-3.svg](../figures/week109-3.svg){width=50%}
+![week109-3.svg](../../figures/week109-3.svg){width=50%}
 
 $\blacksquare$
 
@@ -150,7 +150,7 @@ $$
 s = 200 - 25t \quad (0 \leq t \leq 8).
 $$
 
-![week109-4.svg](../figures/week109-4.svg){width=50%}
+![week109-4.svg](../../figures/week109-4.svg){width=50%}
 
 小船到达码头时, $s=0$, 即 $200-25t=0$, 解得 $t=8\ \text{min}$. 故小船到达码头用了 $8\ \text{min}$. $\blacksquare$
 
@@ -166,11 +166,11 @@ $$
 
 (1) 由**结论 22.2.2** (描点法画函数图象的步骤), 列表描点连线, $y=0.5x$ 的图象是一条经过原点的直线.
 
-![week109-5.svg](../figures/week109-5.svg){width=50%}
+![week109-5.svg](../../figures/week109-5.svg){width=50%}
 
 (2) 列表描点连线, $y=\frac{3}{x}\ (x>0)$ 的图象是一条在第一象限的曲线.
 
-![week109-6.svg](../figures/week109-6.svg){width=50%}
+![week109-6.svg](../../figures/week109-6.svg){width=50%}
 
 $\blacksquare$
 
@@ -288,7 +288,7 @@ $$
 y = 500 + 20x - 25x = 500 - 5x \quad (0 \leq x \leq 100).
 $$
 
-![week109-7.svg](../figures/week109-7.svg){width=50%}
+![week109-7.svg](../../figures/week109-7.svg){width=50%}
 
 $\blacksquare$
 

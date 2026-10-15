@@ -372,7 +372,7 @@ $$
 
 (习题 27.2 拓广探索第 14 题) 如图，$\triangle ABC$ 中，$AB=8$，$AC=6$，$BC=9$。动点 $D$ 以每秒 $2$ 个单位长度的速度从点 $B$ 出发沿边 $BA$ 向点 $A$ 运动，此时直线 $DE\parallel BC$，交 $AC$ 于点 $E$。记 $x$ 秒时 $DE$ 的长度为 $y$，写出 $y$ 关于 $x$ 的函数解析式，并画出它的图象。
 
-![week163-1.svg](../figures/week163-1.svg){width=50%}
+![week163-1.svg](../../figures/week163-1.svg){width=50%}
 
 ### 解答 习题十四
 

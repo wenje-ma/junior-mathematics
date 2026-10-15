@@ -122,7 +122,7 @@ $$h=l\sin 30^{\circ}=2\sqrt{3}\times\frac{1}{2}=\sqrt{3}.$$
 
 (复习题 综合运用第 8 题) 如图, 两座建筑物的水平距离 $BC$ 为 $428.3\ \text{m}$, 从 $A$ 点测得 $D$ 点的俯角 $\alpha$ 为 $35^{\circ}12'$, 测得 $C$ 点的俯角 $\beta$ 为 $43^{\circ}24'$, 求这两座建筑物的高度 (结果保留小数点后一位).
 
-![week170-1.svg](../figures/week170-1.svg){width=50%}
+![week170-1.svg](../../figures/week170-1.svg){width=50%}
 
 ### 解答 复习题八
 
@@ -144,7 +144,7 @@ $$H-h=BC\cdot\tan\alpha=428.3\times\tan 35.2^{\circ}\approx 428.3\times 0.7064\a
 
 (复习题 综合运用第 9 题) 某型号飞机的机翼形状如图所示, 根据图中数据计算 $AC$, $BD$ 和 $AB$ 的长度 (结果保留小数点后两位). 图中: 四边形 $CDBA$, $CD$ 为左侧竖直边, $CD=3.40\ \text{m}$; $DB$ 为下侧水平边, $DB=5.00\ \text{m}$; 在 $C$ 处 $\angle DCA=45^{\circ}$; 在 $B$ 处 $\angle DBA=30^{\circ}$.
 
-![week170-4.svg](../figures/week170-4.svg){width=50%}
+![week170-4.svg](../../figures/week170-4.svg){width=50%}
 
 ### 解答 复习题九
 
@@ -176,7 +176,7 @@ $$AB=\frac{5.00-1.214}{\cos 30^{\circ}}=\frac{3.786}{0.8660}\approx 4.37\ \text{
 
 (2) 当梯子底端距离墙面 $2.4\ \text{m}$ 时, $\alpha$ 等于多少度 (结果取整数)? 此时人是否能够安全使用这架梯子?
 
-![week170-3.svg](../figures/week170-3.svg){width=50%}
+![week170-3.svg](../../figures/week170-3.svg){width=50%}
 
 ### 解答 复习题十
 
@@ -198,7 +198,7 @@ $$\cos\alpha=\frac{2.4}{6}=0.4,\quad \alpha\approx 66.42^{\circ}\approx 66^{\cir
 
 (2) 求矩形 $ABCD$ 的周长.
 
-![week170-2.svg](../figures/week170-2.svg){width=50%}
+![week170-2.svg](../../figures/week170-2.svg){width=50%}
 
 ### 解答 复习题十一
 

@@ -20,7 +20,7 @@
 
 (练习 7.1 第 1 题) 在下列各图中, $\angle 1$ 和 $\angle 2$ 是不是对顶角?
 
-![week30-1.svg](../figures/week30-1.svg){width=100%}
+![week30-1.svg](../../figures/week30-1.svg){width=100%}
 
 ### 解答 练习一
 
@@ -90,7 +90,7 @@ $\angle AOD$ 与 $\angle BOC$ 有公共顶点 $O$, 两边互为反向延长线, 
 
 (2) 三条边 $AB$, $AC$, $CB$ 中哪条边最长? 为什么?
 
-![week30-2.svg](../figures/week30-2.svg){width=50%}
+![week30-2.svg](../../figures/week30-2.svg){width=50%}
 
 ### 解答 练习六
 
@@ -130,7 +130,7 @@ $\angle B$ 的两边所在直线分别为两条被截直线, 截取 $\angle B$ �
 
 (3) 如果 $\angle AOC=50^\circ$, 求 $\angle BOD$, $\angle COB$ 的度数.
 
-![week30-3.svg](../figures/week30-3.svg){width=50%}
+![week30-3.svg](../../figures/week30-3.svg){width=50%}
 
 ### 解答 习题一
 
@@ -180,7 +180,7 @@ $\angle AOD$ 与 $\angle COB$ 是对顶角, 由**定理 7.1.1** (对顶角相等
 
 (2) 若 $\angle EOC:\angle EOD=2:3$, 求 $\angle BOD$ 的度数.
 
-![week30-4.svg](../figures/week30-4.svg){width=50%}
+![week30-4.svg](../../figures/week30-4.svg){width=50%}
 
 ### 解答 习题五
 
@@ -216,7 +216,7 @@ $\angle 1$ 与 $\angle 2$ 有一条边共在截线上, 另两边分属两条被�
 
 (习题 7.1 拓广探索第 8 题) 如图, $AB\perp l$, $CB\perp l$, $B$ 为垂足, 那么 $A$, $B$, $C$ 三点在同一条直线上吗? 请说明理由.
 
-![week30-5.svg](../figures/week30-5.svg){width=50%}
+![week30-5.svg](../../figures/week30-5.svg){width=50%}
 
 ### 解答 习题八
 
@@ -268,7 +268,7 @@ $$
 
 (3) 图 3 每组中蓝色的线段互相平行吗? 如何检验?
 
-![week30-6.svg](../figures/week30-6.svg){width=100%}
+![week30-6.svg](../../figures/week30-6.svg){width=100%}
 
 ### 解答 观察与猜想一
 

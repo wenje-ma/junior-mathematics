@@ -28,7 +28,7 @@
 
 (复习题 复习巩固第 1 题) 如图, 直线 $AB\perp CD$, 垂足为 $O$, 直线 $EF$ 经过点 $O$, $\angle 1=26^\circ$, 求 $\angle 2$, $\angle 3$, $\angle BOE$ 的度数.
 
-![week35-1.svg](../figures/week35-1.svg){width=50%}
+![week35-1.svg](../../figures/week35-1.svg){width=50%}
 
 ### 解答 复习题一
 
@@ -82,7 +82,7 @@ $$
 
 (3) 过三角形 $ABC$ 内的一点 $P$, 分别画 $AB$, $BC$, $AC$ 的平行线.
 
-![week35-4.svg](../figures/week35-4.svg){width=100%}
+![week35-4.svg](../../figures/week35-4.svg){width=100%}
 
 ### 解答 复习题四
 
@@ -92,7 +92,7 @@ $$
 
 (复习题 复习巩固第 5 题) 如图, 某人骑自行车自 $A$ 处沿正东方向前进, 至 $B$ 处后, 行驶方向改为东偏南 $15^\circ$, 行驶到 $C$ 处仍按正东方向行驶, 画出继续行驶的路线.
 
-![week35-5.svg](../figures/week35-5.svg){width=50%}
+![week35-5.svg](../../figures/week35-5.svg){width=50%}
 
 ### 解答 复习题五
 
@@ -124,7 +124,7 @@ $$
 
 (复习题 复习巩固第 7 题) 如图, 平行线 $a$, $b$ 被直线 $c$ 所截, 若知道 $\angle 1\sim\angle 8$ 中一个角的度数, 能否求出其他角的度数? 如果能, 用其中一个角表示出其他各角.
 
-![week35-2.svg](../figures/week35-2.svg){width=50%}
+![week35-2.svg](../../figures/week35-2.svg){width=50%}
 
 ### 解答 复习题七
 
@@ -256,7 +256,7 @@ $\angle C$ 与 $\angle D$ 是直线 $AC$, $DB$ 被直线 $CD$ 所截得的内错
 
 (复习题 拓广探索第 16 题) 一张台球桌的桌面如图所示, 一个球从桌面上的点 $A$ 滚向桌边 $PQ$, 碰着 $PQ$ 上的点 $B$ 后便反弹而滚向桌边 $RS$, 碰着 $RS$ 上的点 $C$ 便反弹而滚向点 $D$. 已知 $PQ\parallel SR$, $AB$, $BC$, $CD$ 都是直线, 且 $\angle ABC$ 的平分线 $BN$ 垂直于 $PQ$, $\angle BCD$ 的平分线 $CM$ 垂直于 $SR$, 那么, 球经过两次反弹后所滚的路径 $CD$ 是否平行于原来的路径 $AB$?
 
-![week35-3.svg](../figures/week35-3.svg){width=50%}
+![week35-3.svg](../../figures/week35-3.svg){width=50%}
 
 ### 解答 复习题十六
 

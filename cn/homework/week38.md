@@ -52,7 +52,7 @@
 
 (练习 8.3 第 3 题) 把下列实数表示在数轴上, 并比较它们的大小 (用"$<$"连接): $-2$, $\sqrt 2$, $\frac{3}{2}$, $-\pi$.
 
-![week38-1.svg](../figures/week38-1.svg){width=50%}
+![week38-1.svg](../../figures/week38-1.svg){width=50%}
 
 ### 解答 练习三
 
@@ -256,7 +256,7 @@ $\blacksquare$
 
 (2) 求图中两块阴影部分的面积和.
 
-![week38-2.svg](../figures/week38-2.svg){width=50%}
+![week38-2.svg](../../figures/week38-2.svg){width=50%}
 
 ### 解答 习题八
 

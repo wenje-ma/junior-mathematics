@@ -40,7 +40,7 @@ $\cos A=\frac{b}{c}=\frac{20}{30}=\frac{2}{3}$, 用计算器得 $\angle A\approx
 
 (练习 28.2 第 1 题) 如图, 建筑物 $BC$ 上有一旗杆 $AB$, 从与 $BC$ 相距 $40\ \text{m}$ 的 $D$ 处观测旗杆顶部 $A$ 的仰角为 $50^{\circ}$, 观测旗杆底部 $B$ 的仰角为 $45^{\circ}$, 求旗杆的高度 (结果保留小数点后一位).
 
-![week168-1.svg](../figures/week168-1.svg){width=100%}
+![week168-1.svg](../../figures/week168-1.svg){width=100%}
 
 ### 解答 练习二
 
@@ -74,7 +74,7 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 (练习 28.2 第 1 题) 如图, 海中有一个小岛 $A$, 它周围 $8\ \text{n mile}$ 内有暗礁. 渔船由西向东航行, 在 $B$ 点测得小岛 $A$ 在北偏东 $60^{\circ}$ 方向上, 航行 $12\ \text{n mile}$ 到达 $D$ 点, 这时测得小岛 $A$ 在北偏东 $30^{\circ}$ 方向上. 如果渔船不改变航线继续向东航行, 有没有触礁的危险?
 
-![week168-2.svg](../figures/week168-2.svg){width=100%}
+![week168-2.svg](../../figures/week168-2.svg){width=100%}
 
 ### 解答 练习四
 
@@ -202,7 +202,7 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 (习题 28.2 综合运用第 8 题) 如图, 一枚运载火箭从地面 $L$ 处发射. 当火箭到达 $A$ 点时, 从位于地面 $R$ 处的雷达站测得 $AR$ 的距离是 $6\ \text{km}$, 仰角为 $43^{\circ}$; $1\ \text{s}$ 后火箭到达 $B$ 点, 此时测得仰角为 $45.54^{\circ}$. 这枚火箭从 $A$ 到 $B$ 的平均速度是多少 (结果取小数点后两位)?
 
-![week168-3.svg](../figures/week168-3.svg){width=50%}
+![week168-3.svg](../../figures/week168-3.svg){width=50%}
 
 ### 解答 习题八
 
@@ -250,7 +250,7 @@ $PH=AP\cdot\sin 30^{\circ}=32\times\frac{1}{2}=16\ \text{n mile}$.
 
 (习题 28.2 拓广探索第 11 题) 根据图中标出的三角形区域的位置, 计算三角形区域的面积 (结果取整数). 图中: 三角形 $ABC$, $AC=1700\ \text{m}$, 在 $A$ 处测得 $C$ 在北偏东 $62^{\circ}$ 方向; $BC=2720\ \text{m}$, 在 $B$ 处测得 $C$ 在北偏西 $54^{\circ}$ 方向.
 
-![week168-4.svg](../figures/week168-4.svg){width=50%}
+![week168-4.svg](../../figures/week168-4.svg){width=50%}
 
 ### 解答 习题十一
 

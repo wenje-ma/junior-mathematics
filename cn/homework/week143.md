@@ -20,7 +20,7 @@
 
 (练习 28.1 第 2 题) 如图, 杠杆绕支点转动撬起重物, 杠杆的旋转中心在哪里? 旋转角是哪个角?
 
-![week143-1.svg](../figures/week143-1.svg){width=50%}
+![week143-1.svg](../../figures/week143-1.svg){width=50%}
 
 ### 解答 练习二
 
@@ -50,7 +50,7 @@
 
 (练习 28.1 第 1 题) 如图, 在 $\triangle ABC$ 中, $AB=AC$, $P$ 是边 $BC$ 上一点. 以点 $A$ 为旋转中心, 取旋转角等于 $\angle BAC$, 把 $\triangle ABP$ 逆时针旋转, 画出旋转后的图形.
 
-![week143-3.svg](../figures/week143-3.svg){width=50%}
+![week143-3.svg](../../figures/week143-3.svg){width=50%}
 
 ### 解答 练习四
 
@@ -66,7 +66,7 @@
 
 (2) 改变基本图形的形状, 观察旋转后的效果.
 
-![week143-5.svg](../figures/week143-5.svg){width=100%}
+![week143-5.svg](../../figures/week143-5.svg){width=100%}
 
 ### 解答 练习五
 
@@ -90,7 +90,7 @@
 
 (习题 28.1 复习巩固第 2 题) 把图中的五角星图案, 绕着它的中心 $O$ 旋转. 旋转角至少为多少度时, 旋转后的五角星能与自身重合? 对等边三角形进行类似的讨论.
 
-![week143-6.svg](../figures/week143-6.svg){width=50%}
+![week143-6.svg](../../figures/week143-6.svg){width=50%}
 
 ### 解答 习题二
 
@@ -104,7 +104,7 @@
 
 (习题 28.1 复习巩固第 3 题) 如图, 分别画出 $\triangle ABC$ 绕点 $O$ 逆时针旋转 $90^\circ$ 和 $180^\circ$ 后得到的图形.
 
-![week143-4.svg](../figures/week143-4.svg){width=100%}
+![week143-4.svg](../../figures/week143-4.svg){width=100%}
 
 ### 解答 习题三
 
@@ -140,7 +140,7 @@
 
 (习题 28.1 综合运用第 5 题) 如图, $\triangle ABC$ 是一个等边三角形, $D$ 为边 $BC$ 的中点, 把 $\triangle ADC$ 绕点 $A$ 顺时针旋转 $60^\circ$ 得到 $\triangle AEB$, 求 $\angle ABE$, $\angle DAE$, $\angle BED$ 的度数.
 
-![week143-2.svg](../figures/week143-2.svg){width=50%}
+![week143-2.svg](../../figures/week143-2.svg){width=50%}
 
 ### 解答 习题五
 

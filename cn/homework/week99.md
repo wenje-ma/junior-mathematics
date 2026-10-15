@@ -114,7 +114,7 @@ $$
 
 在数轴上取表示 \(4\) 的点 \(A\)，过 \(A\) 作数轴垂线并截取 \(AB=1\)，以原点 \(O\) 为圆心、\(OB\) 为半径作弧，交数轴正半轴于 \(C\)，则 \(OC=OB=\sqrt{17}\)。
 
-![week99-1.svg](../figures/week99-1.svg){width=50%}
+![week99-1.svg](../../figures/week99-1.svg){width=50%}
 
 \(\blacksquare\)
 

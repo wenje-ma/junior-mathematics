@@ -52,7 +52,7 @@
 
 连接每隔一点的两个点, 即连接正五边形的对角线, 五条对角线相交形成五角星. 这是因为正五边形的对角线恰好构成正五角星形, 每个尖角为 $36^{\circ}$.
 
-![week27-1.svg](../figures/week27-1.svg){width=50%}
+![week27-1.svg](../../figures/week27-1.svg){width=50%}
 
 $\blacksquare$
 

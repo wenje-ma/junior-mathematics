@@ -86,7 +86,7 @@ $$
 
 由三角形两边之和大于第三边, $2x > y = 20-2x$, 解得 $x > 5$. 又边长为正数, $y=20-2x > 0$, 解得 $x < 10$. 故自变量 $x$ 的取值范围是 $5 < x < 10$.
 
-![week111-1.svg](../figures/week111-1.svg){width=50%}
+![week111-1.svg](../../figures/week111-1.svg){width=50%}
 
 $\blacksquare$
 
@@ -100,7 +100,7 @@ $\blacksquare$
 
 (1) 当 $x \geq 1$ 时, $y=x-1$; 当 $x < 1$ 时, $y=1-x$. 列表描点连线, 得到顶点在 $(1, 0)$ 的 V 形图象.
 
-![week111-2.svg](../figures/week111-2.svg){width=50%}
+![week111-2.svg](../../figures/week111-2.svg){width=50%}
 
 (2) $P(x, 0)$ 与 $(-3, 0)$ 的距离为 $|x-(-3)|=|x+3|$. 故函数解析式为 $y=|x+3|$, 图象为顶点在 $(-3, 0)$ 的 V 形. $\blacksquare$
 
@@ -114,7 +114,7 @@ $\blacksquare$
 
 ### 解答 复习题七
 
-![week111-3.svg](../figures/week111-3.svg){width=50%}
+![week111-3.svg](../../figures/week111-3.svg){width=50%}
 
 (1) 由图象可知, 当 $y=x$ 的图象在 $y=\frac{1}{x}$ 的图象上方时, $x > \frac{1}{x}$, 即 $-1 < x < 0$ 或 $x > 1$.
 
@@ -136,6 +136,6 @@ $$
 
 对于边数 $n$ 的每一个确定的值, 对角线条数 $y$ 都有唯一确定的值与其对应, 故 $y$ 是 $n$ 的函数.
 
-![week111-4.svg](../figures/week111-4.svg){width=50%}
+![week111-4.svg](../../figures/week111-4.svg){width=50%}
 
 $\blacksquare$

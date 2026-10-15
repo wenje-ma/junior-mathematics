@@ -50,7 +50,7 @@ $$
 
 (4) $y=-\frac12\left(x+\frac32\right)^2-1$.
 
-![week138-1.svg](../figures/week138-1.svg){width=100%}
+![week138-1.svg](../../figures/week138-1.svg){width=100%}
 
 ### 解答 复习题三
 
@@ -78,7 +78,7 @@ $$
 
 (4) $y=-\frac14x^2+x-4$.
 
-![week138-2.svg](../figures/week138-2.svg){width=100%}
+![week138-2.svg](../../figures/week138-2.svg){width=100%}
 
 ### 解答 复习题四
 
@@ -164,7 +164,7 @@ $$
 
 (复习题 综合运用第 9 题) 如图, 点 $E,F,G,H$ 分别在正方形 $ABCD$ 的四条边上, 四边形 $EFGH$ 也是正方形, 大正方形边长 $12\ \text{m}$. 当点 $E$ 位于何处时, 正方形 $EFGH$ 的面积最小?
 
-![week138-3.svg](../figures/week138-3.svg){width=50%}
+![week138-3.svg](../../figures/week138-3.svg){width=50%}
 
 ### 解答 复习题九
 

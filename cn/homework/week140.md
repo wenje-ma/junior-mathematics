@@ -10,7 +10,7 @@
 
 (A) $y=5x$　(B) $y=2x+3$　(C) $y=\frac4x$　(D) $y=-\frac2x$
 
-![week140-1.svg](../figures/week140-1.svg){width=100%}
+![week140-1.svg](../../figures/week140-1.svg){width=100%}
 
 ### 解答 练习一
 

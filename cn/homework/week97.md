@@ -36,7 +36,7 @@ $$
 
 (2) 若按图 3 所示的方式折叠纸片 \(ABCD\)，长方形 \(GHID\) 是否仍为“长与宽的比值为 \(\sqrt{2}\) 的长方形”？为什么？
 
-![week97-1.svg](../figures/week97-1.svg){width=100%}
+![week97-1.svg](../../figures/week97-1.svg){width=100%}
 
 (1) 设原长方形宽为 \(a\)、长为 \(b\)，由题意 \(\frac{b}{a}=\sqrt{2}\)。
 

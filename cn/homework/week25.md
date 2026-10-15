@@ -34,7 +34,7 @@
 
 (3) 连接 $A$, $C$ 两点, 画出线段 $AC$.
 
-![week25-2.svg](../figures/week25-2.svg){width=100%}
+![week25-2.svg](../../figures/week25-2.svg){width=100%}
 
 $\blacksquare$
 
@@ -48,7 +48,7 @@ $\blacksquare$
 
 从 $A$ 到 $B$ 的方向延长 $AB$, 在延长线上取点 $C$, 使 $BC=AB$, 则 $AC=AB+BC=2AB$.
 
-![week25-3.svg](../figures/week25-3.svg){width=100%}
+![week25-3.svg](../../figures/week25-3.svg){width=100%}
 
 $\blacksquare$
 
@@ -66,7 +66,7 @@ $$CB=\frac{1}{2}AB=\frac{1}{2}\times8=4\ \text{cm}.$$
 
 $$CD=CB-DB=4-1.5=2.5\ \text{cm}.$$
 
-![week25-1.svg](../figures/week25-1.svg){width=50%}
+![week25-1.svg](../../figures/week25-1.svg){width=50%}
 
 $\blacksquare$
 
@@ -128,7 +128,7 @@ $\blacksquare$
 
 (3) 连接 $B$, $D$ 两点, 画出线段 $BD$.
 
-![week25-4.svg](../figures/week25-4.svg){width=50%}
+![week25-4.svg](../../figures/week25-4.svg){width=50%}
 
 $\blacksquare$
 
@@ -158,7 +158,7 @@ $\blacksquare$
 
 画射线 $AP$, 在射线上顺次截取 $AB=a$, $BC=b$, $CD=b$, 则 $AD=a+2b$.
 
-![week25-5.svg](../figures/week25-5.svg){width=100%}
+![week25-5.svg](../../figures/week25-5.svg){width=100%}
 
 $\blacksquare$
 
@@ -212,7 +212,7 @@ $\blacksquare$
 
 若 $C$ 在 $AB$ 的延长线上: $AC=AB+BC=8+3=11\ \text{cm}$.
 
-![week25-6.svg](../figures/week25-6.svg){width=100%}
+![week25-6.svg](../../figures/week25-6.svg){width=100%}
 
 故 $AC=5\ \text{cm}$ 或 $11\ \text{cm}$. $\blacksquare$
 

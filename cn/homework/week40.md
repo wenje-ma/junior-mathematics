@@ -126,7 +126,7 @@ $\pi\approx 3.14$, $|x|<\pi$ 即 $-\pi<x<\pi$, 即 $-3.14<x<3.14$. 其间的整�
 
 (复习题 综合运用第 8 题) 一个圆与一个正方形的面积都是 $2\pi\,\text{cm}^2$, 它们中哪一个的周长较大? 你能从中得到什么启示?
 
-![week40-1.svg](../figures/week40-1.svg){width=50%}
+![week40-1.svg](../../figures/week40-1.svg){width=50%}
 
 ### 解答 复习题八
 
@@ -180,7 +180,7 @@ $$
 
 (2) 在数轴上画出这个大正方形的边长所对应的点.
 
-![week40-2.svg](../figures/week40-2.svg){width=50%}
+![week40-2.svg](../../figures/week40-2.svg){width=50%}
 
 ### 解答 复习题十一
 

@@ -16,7 +16,7 @@
 
 (2) $y=-3x^2$.
 
-![week134-1.svg](../figures/week134-1.svg){width=50%}
+![week134-1.svg](../../figures/week134-1.svg){width=50%}
 
 ### 解答 练习一
 
@@ -42,7 +42,7 @@
 
 (练习 26.2 第 3 题) 在同一平面直角坐标系中, 画出下列二次函数的图象: $y=x^2$, $y=x^2+1$, $y=x^2-1$. 指出三条抛物线的位置关系, 并分别指出它们的开口方向、对称轴和顶点.
 
-![week134-2.svg](../figures/week134-2.svg){width=50%}
+![week134-2.svg](../../figures/week134-2.svg){width=50%}
 
 ### 解答 练习三
 
@@ -52,7 +52,7 @@
 
 (练习 26.2 第 4 题) 在同一平面直角坐标系中, 画出下列二次函数的图象: $y=-x^2$, $y=-(x+2)^2$, $y=-(x-2)^2$. 指出三条抛物线的位置关系, 并分别指出它们的开口方向、对称轴和顶点.
 
-![week134-3.svg](../figures/week134-3.svg){width=50%}
+![week134-3.svg](../../figures/week134-3.svg){width=50%}
 
 ### 解答 练习四
 
@@ -110,7 +110,7 @@
 
 (4) $y=\frac12x^2-2x-1$.
 
-![week134-4.svg](../figures/week134-4.svg){width=100%}
+![week134-4.svg](../../figures/week134-4.svg){width=100%}
 
 ### 解答 练习七
 
@@ -150,7 +150,7 @@
 
 (2) $y=-\frac15x^2$.
 
-![week134-5.svg](../figures/week134-5.svg){width=50%}
+![week134-5.svg](../../figures/week134-5.svg){width=50%}
 
 ### 解答 习题一
 
@@ -172,7 +172,7 @@
 
 (3) $y=2\left(x+\frac32\right)^2-5$, $y=2\left(x-\frac12\right)^2+1$.
 
-![week134-6.svg](../figures/week134-6.svg){width=100%}
+![week134-6.svg](../../figures/week134-6.svg){width=100%}
 
 ### 解答 习题二
 
@@ -198,7 +198,7 @@
 
 (4) $y=-\frac14x^2+2x-3$.
 
-![week134-7.svg](../figures/week134-7.svg){width=100%}
+![week134-7.svg](../../figures/week134-7.svg){width=100%}
 
 ### 解答 习题三
 

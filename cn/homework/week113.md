@@ -20,7 +20,7 @@
 
 (1) $y=\frac{3}{2}x$ 经过原点 $(0, 0)$ 和点 $(2, 3)$, 过这两点画直线即可.
 
-![week113-1.svg](../figures/week113-1.svg){width=50%}
+![week113-1.svg](../../figures/week113-1.svg){width=50%}
 
 (2) $y=-6x$ 经过原点 $(0, 0)$ 和点 $(1, -6)$, 过这两点画直线即可. $\blacksquare$
 
@@ -58,7 +58,7 @@
 
 (1) 由**结论 23.2.2** (一次函数的图象和性质), 三个函数的 $k$ 均为 $1$, $b$ 分别为 $-1$, $0$, $1$. 它们的图象是三条互相平行的直线, 倾斜程度相同, 上下平移关系.
 
-![week113-2.svg](../figures/week113-2.svg){width=50%}
+![week113-2.svg](../../figures/week113-2.svg){width=50%}
 
 (2) 三个函数的 $k$ 分别为 $-\frac{1}{2}$, $-1$, $-2$, $b$ 均为 $-1$. 它们的图象都经过 $y$ 轴上的点 $(0, -1)$, 但倾斜程度不同, $|k|$ 越大直线越陡. $\blacksquare$
 
@@ -128,7 +128,7 @@ $$
 
 行驶路程等于速度乘以时间, 故 $s=90t$ ($t \geq 0$).
 
-![week113-3.svg](../figures/week113-3.svg){width=50%}
+![week113-3.svg](../../figures/week113-3.svg){width=50%}
 
 $\blacksquare$
 
@@ -156,7 +156,7 @@ $\blacksquare$
 
 ### 解答 习题三
 
-![week113-4.svg](../figures/week113-4.svg){width=50%}
+![week113-4.svg](../../figures/week113-4.svg){width=50%}
 
 $\blacksquare$
 
@@ -192,7 +192,7 @@ $$
 
 (2) 图象为经过 $(-4, 9)$ 和 $(6, 4)$ 的直线.
 
-![week113-5.svg](../figures/week113-5.svg){width=50%}
+![week113-5.svg](../../figures/week113-5.svg){width=50%}
 
 (3) 将 $x=2$ 代入 $y=-\frac{1}{2}x+7$, 得 $y=-\frac{1}{2}\times2+7=6 \neq 5$. 故点 $(2, 5)$ 不在图象上. $\blacksquare$
 

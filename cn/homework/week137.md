@@ -45,7 +45,7 @@ $$
 
 (3) 事故现场刹车距离约 $70\ \text{m}$, 限速 $100\ \text{km/h}$, 判断是否超速.
 
-![week137-1.svg](../figures/week137-1.svg){width=50%}
+![week137-1.svg](../../figures/week137-1.svg){width=50%}
 
 ### 解答 活动二
 

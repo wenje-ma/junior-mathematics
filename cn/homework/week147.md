@@ -80,7 +80,7 @@ $\blacksquare$
 
 (练习 29.1 第 2 题) 如图, $\triangle ABC$ 是边长为 $2$ 的等边三角形, 作出它的外接圆, 并求外接圆的半径长.
 
-![week147-1.svg](../figures/week147-1.svg){width=50%}
+![week147-1.svg](../../figures/week147-1.svg){width=50%}
 
 ### 解答 练习六
 
@@ -152,7 +152,7 @@ $\blacksquare$
 
 (习题 29.1 复习巩固第 3 题) 画出由所有到已知点 $O$ 的距离大于或等于 $2\,\text{cm}$, 并且小于或等于 $3\,\text{cm}$ 的点组成的图形.
 
-![week147-2.svg](../figures/week147-2.svg){width=50%}
+![week147-2.svg](../../figures/week147-2.svg){width=50%}
 
 ### 解答 习题三
 

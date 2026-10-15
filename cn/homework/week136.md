@@ -154,7 +154,7 @@ $$
 
 (习题 26.4 综合运用第 5 题) 如图, 用长为 $6\ \text{m}$ 的材料做一个上部为半圆、下部为矩形的窗框. 底部宽 $x$ 为多少时, 窗户的透光面积 $S$ 最大 (结果保留小数点后一位)?
 
-![week136-1.svg](../figures/week136-1.svg){width=50%}
+![week136-1.svg](../../figures/week136-1.svg){width=50%}
 
 ### 解答 习题五
 
@@ -172,7 +172,7 @@ $$
 
 (习题 26.4 综合运用第 6 题) 一块三角形材料如图, $\angle A=30^\circ$, $\angle C=90^\circ$, $AB=12\ \text{cm}$. 剪出矩形 $CDEF$, $D,E,F$ 分别在 $BC,AB,AC$ 上. 要使矩形面积最大, 点 $E$ 应选在何处?
 
-![week136-2.svg](../figures/week136-2.svg){width=50%}
+![week136-2.svg](../../figures/week136-2.svg){width=50%}
 
 ### 解答 习题六
 

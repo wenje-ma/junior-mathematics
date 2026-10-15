@@ -108,7 +108,7 @@ $OD$ 平分 $\angle BOC$, 故 $\angle COD=\frac{1}{2}\angle BOC=30^{\circ}$.
 
 $$\angle AOD=\angle AOC+\angle COD=60^{\circ}+30^{\circ}=90^{\circ}.$$
 
-![week26-1.svg](../figures/week26-1.svg){width=50%}
+![week26-1.svg](../../figures/week26-1.svg){width=50%}
 
 $\blacksquare$
 
@@ -398,7 +398,7 @@ $\angle 1$ 是 $\angle 3$ 的余角: $\angle 1+\angle 3=90^{\circ}$, 故 $\angle
 
 若 $OC$ 在 $\angle AOB$ 外部: $\angle AOC=\angle AOB+\angle BOC=120^{\circ}+30^{\circ}=150^{\circ}$.
 
-![week26-2.svg](../figures/week26-2.svg){width=100%}
+![week26-2.svg](../../figures/week26-2.svg){width=100%}
 
 故 $\angle AOC=90^{\circ}$ 或 $150^{\circ}$. $\blacksquare$
 

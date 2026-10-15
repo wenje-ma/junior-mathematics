@@ -144,7 +144,7 @@ $$
 
 (2) 当 $V=9\ \text{m}^3$ 时，求二氧化碳的密度 $\rho$。
 
-![week159-1.svg](../figures/week159-1.svg){width=50%}
+![week159-1.svg](../../figures/week159-1.svg){width=50%}
 
 ### 解答 习题六
 
@@ -184,7 +184,7 @@ $$
 
 (4) 如果以此蓄电池为电源的用电器的限制电流不能超过 $10\ \text{A}$，那么用电器可变电阻应控制在什么范围？
 
-![week159-2.svg](../figures/week159-2.svg){width=50%}
+![week159-2.svg](../../figures/week159-2.svg){width=50%}
 
 ### 解答 习题八
 

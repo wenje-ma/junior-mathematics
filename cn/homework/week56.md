@@ -182,7 +182,7 @@ $$
 
 整理数据, 画条形图, 推断大多数顾客如何评价咸度.
 
-![week56-1.svg](../figures/week56-1.svg){width=50%}
+![week56-1.svg](../../figures/week56-1.svg){width=50%}
 
 ### 解答 习题八
 

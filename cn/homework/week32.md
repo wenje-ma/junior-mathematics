@@ -62,7 +62,7 @@ $\therefore AD\parallel BC$ (\_\_\_\_\_\_).
 
 $\therefore\angle C+\angle D=180^\circ$ (\_\_\_\_\_\_).
 
-![week32-1.svg](../figures/week32-1.svg){width=50%}
+![week32-1.svg](../../figures/week32-1.svg){width=50%}
 
 ### 解答 练习四
 

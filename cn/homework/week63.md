@@ -82,7 +82,7 @@ $\triangle ADE$ 是直角三角形. 理由如下.
 
 (练习 13.3 第 1 题) 说出下列各图形中 $\angle 1$ 和 $\angle 2$ 的度数.
 
-![week63-1.svg](../figures/week63-1.svg){width=100%}
+![week63-1.svg](../../figures/week63-1.svg){width=100%}
 
 ### 解答 练习五
 
@@ -104,7 +104,7 @@ $\triangle ADE$ 是直角三角形. 理由如下.
 
 (习题 13.3 复习巩固第 1 题) 求出下列各图形中 $x$ 的值.
 
-![week63-2.svg](../figures/week63-2.svg){width=100%}
+![week63-2.svg](../../figures/week63-2.svg){width=100%}
 
 ### 解答 习题一
 
