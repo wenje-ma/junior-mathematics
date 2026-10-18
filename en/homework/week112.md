@@ -16,7 +16,7 @@
 
 (4) $y=5x^2+6$;
 
-(5) $y=2(x-4)$.
+(5) $y=2\left(x-4\right)$.
 
 ### Solution to Exercise 1
 
@@ -30,7 +30,7 @@ By **Definition 23.1.1** (Linear Function), a function of the form $y=kx+b$ ($k 
 
 (4) In $y=5x^2+6$, the degree of $x$ is $2$, so it does not fit the form $y=kx+b$ and is not a linear function.
 
-(5) $y=2(x-4)=2x-8$, which fits the form $y=kx+b$ with $k=2 \neq 0$, so it is a linear function; but $b=-8 \neq 0$, so it is not a direct proportion function. $\blacksquare$
+(5) $y=2\left(x-4\right)=2x-8$, which fits the form $y=kx+b$ with $k=2 \neq 0$, so it is a linear function; but $b=-8 \neq 0$, so it is not a direct proportion function. $\blacksquare$
 
 ### Exercise 2
 
@@ -52,7 +52,7 @@ By **Definition 23.1.1** (Linear Function), a function of the form $y=kx+b$ ($k 
 
 (1) $y=-0.2x$;
 
-(2) $y=-3(x+1)$;
+(2) $y=-3\left(x+1\right)$;
 
 (3) $S=\pi r^2$;
 
@@ -64,7 +64,7 @@ By **Definition 23.1.1** (Linear Function), a function of the form $y=kx+b$ ($k 
 
 (1) $y=-0.2x$ is $y=-0.2x+0$, so it is a linear function and also a direct proportion function.
 
-(2) $y=-3(x+1)=-3x-3$, so it is a linear function; but $b=-3 \neq 0$, so it is not a direct proportion function.
+(2) $y=-3\left(x+1\right)=-3x-3$, so it is a linear function; but $b=-3 \neq 0$, so it is not a direct proportion function.
 
 (3) In $S=\pi r^2$, the degree of $r$ is $2$, so it is not a linear function.
 

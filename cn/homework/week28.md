@@ -122,7 +122,7 @@ $\blacksquare$
 
 由**定义 6.3.2** (角的度量)、**定义 6.3.5** (余角) 和**定义 6.3.6** (补角).
 
-(1) $6$ 时 $20$ 分: 分针位置 $20\times6^{\circ}=120^{\circ}$. 时针位置 $6\times30^{\circ}+20\times0.5^{\circ}=180^{\circ}+10^{\circ}=190^{\circ}$. 夹角 $=|190^{\circ}-120^{\circ}|=70^{\circ}$.
+(1) $6$ 时 $20$ 分: 分针位置 $20\times6^{\circ}=120^{\circ}$. 时针位置 $6\times30^{\circ}+20\times0.5^{\circ}=180^{\circ}+10^{\circ}=190^{\circ}$. 夹角 $=\left|190^{\circ}-120^{\circ}\right|=70^{\circ}$.
 
 (2) $33^{\circ}12'\times6=198^{\circ}72'=199^{\circ}12'$. $121^{\circ}\div3=40.333^{\circ}=40^{\circ}20'$.
 
@@ -210,7 +210,7 @@ $$\angle NEM=\angle NEA'+\angle A'EF+\angle FEB'+\angle B'EM.$$
 
 由折叠: $\angle NEA'=\angle NEA$, $\angle B'EM=\angle BEM$.
 
-$$\angle NEM=\frac{1}{2}\angle AEA'+\frac{1}{2}\angle BEB'=\frac{1}{2}(\angle AEA'+\angle BEB').$$
+$$\angle NEM=\frac{1}{2}\angle AEA'+\frac{1}{2}\angle BEB'=\frac{1}{2}\left(\angle AEA'+\angle BEB'\right).$$
 
 因 $A'$, $B'$ 在直线 $EF$ 上, $\angle AEA'+\angle BEB'=\angle AEB=180^{\circ}$. 故
 

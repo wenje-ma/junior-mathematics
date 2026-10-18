@@ -1,8 +1,8 @@
 # Assignment 81
 
-> **Definition 16.3.1** (Difference of Squares Formula) <br>$(a+b)(a-b)=a^2-b^2$, that is, the product of the sum of two numbers and the difference of the same two numbers equals the difference of their squares.
+> **Definition 16.3.1** (Difference of Squares Formula) <br>$\left(a+b\right)\left(a-b\right)=a^2-b^2$, that is, the product of the sum of two numbers and the difference of the same two numbers equals the difference of their squares.
 
-> **Definition 16.3.2** (Perfect Square Formula) <br>$(a+b)^2=a^2+2ab+b^2$, $(a-b)^2=a^2-2ab+b^2$.
+> **Definition 16.3.2** (Perfect Square Formula) <br>$\left(a+b\right)^2=a^2+2ab+b^2$, $\left(a-b\right)^2=a^2-2ab+b^2$.
 
 > **Definition 16.2.3** (Multiplication of a Polynomial by a Polynomial) <br>First multiply each term of one polynomial by each term of the other polynomial, then add the resulting products.
 
@@ -26,11 +26,11 @@
 
 (3) Let the number in the upper-left corner of the box be $n$; then to its right in the same row is $n+1$, and in the row below are $n+7$ and $n+8$. Expanding by **Definition 16.3.1**:
 
-$$n(n+8)-(n+1)(n+7)=n^2+8n-(n^2+8n+7)=-7.$$
+$$n\left(n+8\right)-\left(n+1\right)\left(n+7\right)=n^2+8n-\left(n^2+8n+7\right)=-7.$$
 
 Hence the difference is always $-7$, independent of $n$.
 
-(4) For example, the difference between two numbers in the same row is always $1$, and the difference between two numbers in the same column is always $7$; the sum of the four numbers in the box is $4n+16=4(n+4)$, which is $4$ times the middle number. $\blacksquare$
+(4) For example, the difference between two numbers in the same row is always $1$, and the difference between two numbers in the same column is always $7$; the sum of the four numbers in the box is $4n+16=4\left(n+4\right)$, which is $4$ times the middle number. $\blacksquare$
 
 ### Activity 2
 
@@ -60,22 +60,22 @@ Hence the closer the two numbers (the smaller $d$), the larger the product; when
 
 (3) The perimeter is $10\ \text{m}$, so the sum of length and width is $5\ \text{m}$, i.e. $S=5$. Area $=$ length $\times$ width; by the above pattern, when the length and width are equal, i.e. both are $2.5\ \text{m}$, the area is maximal:
 
-$$S_{\max}=\frac{5^2}{4}=6.25\ (\text{m}^2).$$
+$$S_{\max}=\frac{5^2}{4}=6.25\ \left(\text{m}^2\right).$$
 
 At this time the two adjacent sides of the rectangle are equal, i.e. it is a square. $\blacksquare$
 
 ### Reading and Thinking 1
 
-(Reading and Thinking, Yang Hui's Triangle) Using the coefficient pattern of the expansion of $(a+b)^n$ given by Yang Hui's Triangle, write out the expansion of $(a+b)^6$, and verify your result using polynomial multiplication.
+(Reading and Thinking, Yang Hui's Triangle) Using the coefficient pattern of the expansion of $\left(a+b\right)^n$ given by Yang Hui's Triangle, write out the expansion of $\left(a+b\right)^6$, and verify your result using polynomial multiplication.
 
 ### Solution to Reading and Thinking 1
 
 The coefficients in the $7$-th row ($n=6$) of Yang Hui's Triangle are $1,6,15,20,15,6,1$, ordered by the descending power of $a$:
 
-$$(a+b)^6=a^6+6a^5 b+15a^4 b^2+20a^3 b^3+15a^2 b^4+6ab^5+b^6.$$
+$$\left(a+b\right)^6=a^6+6a^5 b+15a^4 b^2+20a^3 b^3+15a^2 b^4+6ab^5+b^6.$$
 
-Verification: $(a+b)^3=a^3+3a^2 b+3ab^2+b^3$, then
+Verification: $\left(a+b\right)^3=a^3+3a^2 b+3ab^2+b^3$, then
 
-$$(a+b)^6=((a+b)^3)^2=(a^3+3a^2 b+3ab^2+b^3)^2.$$
+$$\left(a+b\right)^6=\left(\left(a+b\right)^3\right)^2=\left(a^3+3a^2 b+3ab^2+b^3\right)^2.$$
 
 After expanding and combining like terms, the coefficients of each term agree with the above, so the verification is correct. $\blacksquare$

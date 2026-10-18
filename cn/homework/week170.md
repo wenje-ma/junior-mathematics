@@ -148,7 +148,7 @@ $$H-h=BC\cdot\tan\alpha=428.3\times\tan 35.2^{\circ}\approx 428.3\times 0.7064\a
 
 ### 解答 复习题九
 
-以 $D$ 为原点, $DB$ 方向为 $x$ 轴, $DC$ 方向为 $y$ 轴, 则 $D=(0,0)$, $C=(0,3.40)$, $B=(5.00,0)$.
+以 $D$ 为原点, $DB$ 方向为 $x$ 轴, $DC$ 方向为 $y$ 轴, 则 $D=\left(0,0\right)$, $C=\left(0,3.40\right)$, $B=\left(5.00,0\right)$.
 
 过 $C$ 的上边 $CA$ 与竖直方向成 $45^{\circ}$, 故其斜率为 $-1$, 方程为 $y=3.40-x$.
 
@@ -160,7 +160,7 @@ $$x=\frac{3.40\sqrt{3}-5.00}{\sqrt{3}-1}\approx\frac{5.889-5.00}{0.732}\approx 1
 
 $$y=3.40-1.214=2.186.$$
 
-故 $A=(1.214,2.186)$.
+故 $A=\left(1.214,2.186\right)$.
 
 $$AC=\frac{x}{\cos 45^{\circ}}=\frac{1.214}{0.7071}\approx 1.72\ \text{m}.$$
 
@@ -218,7 +218,7 @@ $AD=AF=10k$, $BC=BF+FC=6k+4k=10k$.
 
 由 $AE=5\sqrt{5}$, 得 $k=1$. 故 $AB=8\ \text{cm}$, $BC=10\ \text{cm}$.
 
-矩形周长 $=2(8+10)=36\ \text{cm}$. $\blacksquare$
+矩形周长 $=2\left(8+10\right)=36\ \text{cm}$. $\blacksquare$
 
 ### 复习题十二
 

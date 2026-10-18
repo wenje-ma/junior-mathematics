@@ -57,7 +57,7 @@ $$
 于是
 
 $$
-\frac{a}{b-a}=\frac{a}{(\sqrt{2}-1)a}=\frac{1}{\sqrt{2}-1}=\sqrt{2}+1.
+\frac{a}{b-a}=\frac{a}{\left(\sqrt{2}-1\right)a}=\frac{1}{\sqrt{2}-1}=\sqrt{2}+1.
 $$
 
 它不等于 \(\sqrt{2}\)，故 \(GHID\) 不是长与宽之比为 \(\sqrt{2}\) 的长方形。

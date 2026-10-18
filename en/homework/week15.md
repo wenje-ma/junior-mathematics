@@ -228,6 +228,6 @@ By **Definition 4.1.4** (Polynomial), the correspondence between shoe sizes is a
 
 (2) Let the old size be $n$ and the new size be $m$. From the correspondence data, each increase of $1$ in the old size corresponds to an increase of $5$ in the new size. When the old size is $34$, the new size is $220$, hence
 
-$$m=220+5(n-34)=5n+50.$$
+$$m=220+5\left(n-34\right)=5n+50.$$
 
 That is, the formula converting the old size to the new size is $m=5n+50$. $\blacksquare$

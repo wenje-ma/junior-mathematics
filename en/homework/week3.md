@@ -22,7 +22,7 @@
 
 ### Activity 1
 
-(Math Activity, Activity 1, Weight Survey, Problem 1) The standard weight (unit: $\text{kg}$) for a child or adolescent is computed as follows: standard weight $=$ (age $\times 7-5)\div 2$. The table below shows the weight situation of $6$ students in a group in Grade 7, where the number of kilograms exceeding the standard weight is recorded as a positive number and the number of kilograms short of the standard weight is recorded as a negative number.
+(Math Activity, Activity 1, Weight Survey, Problem 1) The standard weight (unit: $\text{kg}$) for a child or adolescent is computed as follows: standard weight $=$ (age $\times 7-5\right)\div 2$. The table below shows the weight situation of $6$ students in a group in Grade 7, where the number of kilograms exceeding the standard weight is recorded as a positive number and the number of kilograms short of the standard weight is recorded as a negative number.
 
 Number $1$, $2$, $3$, $4$, $5$, $6$; weight situation $-1.1$, $+2$, $-0.5$, $+10$, $+4.7$, $-8.3$.
 

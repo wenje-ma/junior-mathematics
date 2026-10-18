@@ -240,11 +240,11 @@ By **Definition 6.1.3** (Net), unfold the sides of the box into a plane figure a
 
 Unfold two adjacent faces of the box into the same plane; then the shortest path is the hypotenuse of a right triangle. There are three ways to unfold:
 
-(1) Unfold the front and top: the legs are $(a+b)$ and $c$, and the path is $\sqrt{(a+b)^{2}+c^{2}}$.
+(1) Unfold the front and top: the legs are $\left(a+b\right)$ and $c$, and the path is $\sqrt{\left(a+b\right)^{2}+c^{2}}$.
 
-(2) Unfold the front and right side: the legs are $a$ and $(b+c)$, and the path is $\sqrt{a^{2}+(b+c)^{2}}$.
+(2) Unfold the front and right side: the legs are $a$ and $\left(b+c\right)$, and the path is $\sqrt{a^{2}+\left(b+c\right)^{2}}$.
 
-(3) Unfold the left side and top: the legs are $(a+c)$ and $b$, and the path is $\sqrt{(a+c)^{2}+b^{2}}$.
+(3) Unfold the left side and top: the legs are $\left(a+c\right)$ and $b$, and the path is $\sqrt{\left(a+c\right)^{2}+b^{2}}$.
 
 Taking the smallest of the three gives the shortest path. $\blacksquare$
 

@@ -82,9 +82,9 @@ $\frac{1}{x}$, $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{a^2 b}{c}$, $\frac{x^2-
 
 (1) $\frac{2bc}{ac}$;
 
-(2) $\frac{(x+y)y}{xy^2}$;
+(2) $\frac{\left(x+y\right)y}{xy^2}$;
 
-(3) $\frac{x^2+xy}{(x+y)^2}$;
+(3) $\frac{x^2+xy}{\left(x+y\right)^2}$;
 
 (4) $\frac{x^2-y^2}{x-y}$.
 
@@ -94,25 +94,25 @@ $\frac{1}{x}$, $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{a^2 b}{c}$, $\frac{x^2-
 
 (1) $\frac{2bc}{ac}=\frac{2b}{a}$.
 
-(2) $\frac{(x+y)y}{xy^2}=\frac{x+y}{xy}$.
+(2) $\frac{\left(x+y\right)y}{xy^2}=\frac{x+y}{xy}$.
 
-(3) $\frac{x^2+xy}{(x+y)^2}=\frac{x(x+y)}{(x+y)^2}=\frac{x}{x+y}$.
+(3) $\frac{x^2+xy}{\left(x+y\right)^2}=\frac{x\left(x+y\right)}{\left(x+y\right)^2}=\frac{x}{x+y}$.
 
-(4) $\frac{x^2-y^2}{x-y}=\frac{(x+y)(x-y)}{x-y}=x+y$. $\blacksquare$
+(4) $\frac{x^2-y^2}{x-y}=\frac{\left(x+y\right)\left(x-y\right)}{x-y}=x+y$. $\blacksquare$
 
 ### 练习六
 
 (练习 18.1 第 2 题) 约分:
 
-(1) $\frac{2a(a+b)}{3(a+b)}$;
+(1) $\frac{2a\left(a+b\right)}{3\left(a+b\right)}$;
 
-(2) $\frac{(x-y)^2}{y-x}$.
+(2) $\frac{\left(x-y\right)^2}{y-x}$.
 
 ### 解答 练习六
 
-(1) $\frac{2a(a+b)}{3(a+b)}=\frac{2a}{3}$.
+(1) $\frac{2a\left(a+b\right)}{3\left(a+b\right)}=\frac{2a}{3}$.
 
-(2) $\frac{(x-y)^2}{y-x}=\frac{(x-y)^2}{-(x-y)}=-(x-y)=y-x$. $\blacksquare$
+(2) $\frac{\left(x-y\right)^2}{y-x}=\frac{\left(x-y\right)^2}{-\left(x-y\right)}=-\left(x-y\right)=y-x$. $\blacksquare$
 
 ### 练习七
 
@@ -132,11 +132,11 @@ $\frac{1}{x}$, $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{a^2 b}{c}$, $\frac{x^2-
 
 (1) 最简公分母 $6x^2 y^2$: $\frac{z}{2x^2 y}=\frac{3yz}{6x^2 y^2}$, $\frac{5}{6xy^2}=\frac{5x}{6x^2 y^2}$.
 
-(2) 最简公分母 $(x+y)(x-y)$: $\frac{x}{x+y}=\frac{x(x-y)}{(x+y)(x-y)}$, $\frac{y}{x-y}=\frac{y(x+y)}{(x+y)(x-y)}$.
+(2) 最简公分母 $\left(x+y\right)\left(x-y\right)$: $\frac{x}{x+y}=\frac{x\left(x-y\right)}{\left(x+y\right)\left(x-y\right)}$, $\frac{y}{x-y}=\frac{y\left(x+y\right)}{\left(x+y\right)\left(x-y\right)}$.
 
-(3) 最简公分母 $2a^2 b^2$: $\frac{3}{2a^2 b}=\frac{3b}{2a^2 b^2}$, $\frac{a-b}{2ab^2}=\frac{a(a-b)}{2a^2 b^2}$.
+(3) 最简公分母 $2a^2 b^2$: $\frac{3}{2a^2 b}=\frac{3b}{2a^2 b^2}$, $\frac{a-b}{2ab^2}=\frac{a\left(a-b\right)}{2a^2 b^2}$.
 
-(4) $a^2-2a+1=(a-1)^2$, $a^2-1=(a-1)(a+1)$, 最简公分母 $(a-1)^2(a+1)$: $\frac{1}{(a-1)^2}=\frac{a+1}{(a-1)^2(a+1)}$, $\frac{1}{(a-1)(a+1)}=\frac{a-1}{(a-1)^2(a+1)}$. $\blacksquare$
+(4) $a^2-2a+1=\left(a-1\right)^2$, $a^2-1=\left(a-1\right)\left(a+1\right)$, 最简公分母 $\left(a-1\right)^2\left(a+1\right)$: $\frac{1}{\left(a-1\right)^2}=\frac{a+1}{\left(a-1\right)^2\left(a+1\right)}$, $\frac{1}{\left(a-1\right)\left(a+1\right)}=\frac{a-1}{\left(a-1\right)^2\left(a+1\right)}$. $\blacksquare$
 
 ### 习题一
 
@@ -150,7 +150,7 @@ $\frac{1}{x}$, $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{a^2 b}{c}$, $\frac{x^2-
 
 ### 解答 习题一
 
-(1) 原计划每年 $\frac{m}{n}$, 实际每年 $\frac{m}{n-1}$, 多造林 $\frac{m}{n-1}-\frac{m}{n}=\frac{m}{n(n-1)}$ 公顷.
+(1) 原计划每年 $\frac{m}{n}$, 实际每年 $\frac{m}{n-1}$, 多造林 $\frac{m}{n-1}-\frac{m}{n}=\frac{m}{n\left(n-1\right)}$ 公顷.
 
 (2) 时间 $=$ 路程 $\div$ 速度 $=\frac{120}{a}\ \text{h}$.
 
@@ -160,13 +160,13 @@ $\frac{1}{x}$, $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{a^2 b}{c}$, $\frac{x^2-
 
 (习题 18.1 复习巩固第 2 题) 下列各式中, 哪些是整式? 哪些是分式?
 
-$\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y}$, $\frac{2ab}{(a+b)^2}$.
+$\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y}$, $\frac{2ab}{\left(a+b\right)^2}$.
 
 ### 解答 习题二
 
 由**定义 18.1.1**.
 
-分式: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2 y}$, $\frac{2ab}{(a+b)^2}$.
+分式: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2 y}$, $\frac{2ab}{\left(a+b\right)^2}$.
 
 整式: $\frac{x}{3}$, $\frac{a+5}{15}$. $\blacksquare$
 
@@ -200,7 +200,7 @@ $\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y
 
 (1) $\frac{8a^2}{12a^3}$;
 
-(2) $\frac{3(a-b)^2}{6(b-a)}$;
+(2) $\frac{3\left(a-b\right)^2}{6\left(b-a\right)}$;
 
 (3) $\frac{a^2-b^2}{a^2+ab}$;
 
@@ -212,11 +212,11 @@ $\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y
 
 (1) $\frac{8a^2}{12a^3}=\frac{2}{3a}$.
 
-(2) $\frac{3(a-b)^2}{6(b-a)}=\frac{3(b-a)^2}{6(b-a)}=\frac{b-a}{2}$.
+(2) $\frac{3\left(a-b\right)^2}{6\left(b-a\right)}=\frac{3\left(b-a\right)^2}{6\left(b-a\right)}=\frac{b-a}{2}$.
 
-(3) $\frac{a^2-b^2}{a^2+ab}=\frac{(a+b)(a-b)}{a(a+b)}=\frac{a-b}{a}$.
+(3) $\frac{a^2-b^2}{a^2+ab}=\frac{\left(a+b\right)\left(a-b\right)}{a\left(a+b\right)}=\frac{a-b}{a}$.
 
-(4) $\frac{x^2-25}{x^2+10x+25}=\frac{(x+5)(x-5)}{(x+5)^2}=\frac{x-5}{x+5}$. $\blacksquare$
+(4) $\frac{x^2-25}{x^2+10x+25}=\frac{\left(x+5\right)\left(x-5\right)}{\left(x+5\right)^2}=\frac{x-5}{x+5}$. $\blacksquare$
 
 ### 习题五
 
@@ -238,19 +238,19 @@ $\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y
 
 (2) 最简公分母 $a^2 b^2$: $\frac{5}{a^2 b}=\frac{5b}{a^2 b^2}$, $\frac{3}{ab^2}=\frac{3a}{a^2 b^2}$.
 
-(3) $x^2-2x=x(x-2)$, 最简公分母 $2x(x-2)$: $\frac{x-1}{-2x}=\frac{(x-1)(x-2)}{-2x(x-2)}$, $\frac{1}{x(x-2)}=\frac{-2}{-2x(x-2)}$.
+(3) $x^2-2x=x\left(x-2\right)$, 最简公分母 $2x\left(x-2\right)$: $\frac{x-1}{-2x}=\frac{\left(x-1\right)\left(x-2\right)}{-2x\left(x-2\right)}$, $\frac{1}{x\left(x-2\right)}=\frac{-2}{-2x\left(x-2\right)}$.
 
-(4) $x^2-9=(x+3)(x-3)$, $2x+6=2(x+3)$, 最简公分母 $2(x+3)(x-3)$: $\frac{1}{(x+3)(x-3)}=\frac{2}{2(x+3)(x-3)}$, $\frac{1}{2(x+3)}=\frac{x-3}{2(x+3)(x-3)}$. $\blacksquare$
+(4) $x^2-9=\left(x+3\right)\left(x-3\right)$, $2x+6=2\left(x+3\right)$, 最简公分母 $2\left(x+3\right)\left(x-3\right)$: $\frac{1}{\left(x+3\right)\left(x-3\right)}=\frac{2}{2\left(x+3\right)\left(x-3\right)}$, $\frac{1}{2\left(x+3\right)}=\frac{x-3}{2\left(x+3\right)\left(x-3\right)}$. $\blacksquare$
 
 ### 习题六
 
 (习题 18.1 综合运用第 6 题) 填空:
 
-(1) $\frac{3a}{5xy}=\frac{(\;\;)}{10 a x y}$ ($a\ne0$);
+(1) $\frac{3a}{5xy}=\frac{\left(\;\;\right)}{10 a x y}$ ($a\ne0$);
 
-(2) $\frac{a+2}{a^2-4}=\frac{1}{(\;\;)}$;
+(2) $\frac{a+2}{a^2-4}=\frac{1}{\left(\;\;\right)}$;
 
-(3) $\frac{2 x}{x^2-3 x}=\frac{2}{(\;\;)}$.
+(3) $\frac{2 x}{x^2-3 x}=\frac{2}{\left(\;\;\right)}$.
 
 ### 解答 习题六
 
@@ -258,9 +258,9 @@ $\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y
 
 (1) 分母乘 $2a$, 分子也乘 $2a$: $\frac{3a}{5xy}=\frac{6a^2}{10axy}$.
 
-(2) $a^2-4=(a+2)(a-2)$, 约分: $\frac{a+2}{(a+2)(a-2)}=\frac{1}{a-2}$.
+(2) $a^2-4=\left(a+2\right)\left(a-2\right)$, 约分: $\frac{a+2}{\left(a+2\right)\left(a-2\right)}=\frac{1}{a-2}$.
 
-(3) $x^2-3x=x(x-3)$, 约分: $\frac{2x}{x(x-3)}=\frac{2}{x-3}$. $\blacksquare$
+(3) $x^2-3x=x\left(x-3\right)$, 约分: $\frac{2x}{x\left(x-3\right)}=\frac{2}{x-3}$. $\blacksquare$
 
 ### 习题七
 
@@ -300,7 +300,7 @@ $\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y
 
 (1) $\frac{-x^2}{-x}=\frac{x^2}{x}$.
 
-(2) $\frac{1-x^2}{1+x}=\frac{-(x^2-1)}{x+1}=\frac{1-x}{1}$... 整理为 $\frac{-(x^2-1)}{x+1}=-\frac{x^2-1}{x+1}$.
+(2) $\frac{1-x^2}{1+x}=\frac{-\left(x^2-1\right)}{x+1}=\frac{1-x}{1}$... 整理为 $\frac{-\left(x^2-1\right)}{x+1}=-\frac{x^2-1}{x+1}$.
 
 (3) $\frac{-x-1}{x-1}=-\frac{x+1}{x-1}$. $\blacksquare$
 
@@ -310,11 +310,11 @@ $\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y
 
 ### 解答 习题九
 
-设乙的平均速度为 $x\ \text{km/h}$, 则甲为 $(x+20)\ \text{km/h}$. 由时间相同:
+设乙的平均速度为 $x\ \text{km/h}$, 则甲为 $\left(x+20\right)\ \text{km/h}$. 由时间相同:
 
 $$\frac{400}{x+20}=\frac{300}{x}.$$
 
-交叉相乘: $400x=300(x+20)=300x+6000$, 解得 $x=60$.
+交叉相乘: $400x=300\left(x+20\right)=300x+6000$, 解得 $x=60$.
 
 故乙的平均速度为 $60\ \text{km/h}$, 甲为 $80\ \text{km/h}$. $\blacksquare$
 
@@ -328,6 +328,6 @@ $$\frac{400}{x+20}=\frac{300}{x}.$$
 
 合作 $3$ 天完成的工作量为
 
-$$3\left(\frac1a+\frac1b\right)=\frac{3(a+b)}{ab}.$$
+$$3\left(\frac1a+\frac1b\right)=\frac{3\left(a+b\right)}{ab}.$$
 
 $\blacksquare$

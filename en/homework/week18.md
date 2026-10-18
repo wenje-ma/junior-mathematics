@@ -52,7 +52,7 @@ $2x-y$ is a polynomial, with terms $2x$ and $-y$, and degree $1$. $\blacksquare$
 
 By **Definition 4.2.1** (Like Terms) and **Definition 4.2.2** (Combining Like Terms), for the sum to be a monomial, the terms of the original polynomial must cancel out or combine into a single term.
 
-Taking the monomial $-m-2n^{2}$ does not work (it is itself a polynomial). Taking the monomial $-m$, we have $(-m)+(m+2n^{2})=2n^{2}$, which is a monomial. Hence $-m$ is the desired monomial. $\blacksquare$
+Taking the monomial $-m-2n^{2}$ does not work (it is itself a polynomial). Taking the monomial $-m$, we have $\left(-m\right)+\left(m+2n^{2}\right)=2n^{2}$, which is a monomial. Hence $-m$ is the desired monomial. $\blacksquare$
 
 ### Review Problem 3
 
@@ -86,15 +86,15 @@ By **Definition 4.2.2** (Combining Like Terms), the coefficients of like terms a
 
 (Review Problem, Review and Consolidation, Problem 4) Calculate:
 
-(1) $(4a^{3}b-10b^{3})+(-3a^{2}b^{2}+10b^{3})$;
+(1) $\left(4a^{3}b-10b^{3}\right)+\left(-3a^{2}b^{2}+10b^{3}\right)$;
 
-(2) $(4x^{2}y-5xy^{2})-(3x^{2}y-4xy^{2})$;
+(2) $\left(4x^{2}y-5xy^{2}\right)-\left(3x^{2}y-4xy^{2}\right)$;
 
-(3) $3(2a^{2}+4b)+3(-5a^{2}-2b)$;
+(3) $3\left(2a^{2}+4b\right)+3\left(-5a^{2}-2b\right)$;
 
-(4) $3(x^{2}-2xy)-4(2x^{2}-xy+1)$;
+(4) $3\left(x^{2}-2xy\right)-4\left(2x^{2}-xy+1\right)$;
 
-(5) $5a^{2}-\left[a^{2}+(5a^{2}-2a)-2(a^{2}-3a)\right]$;
+(5) $5a^{2}-\left[a^{2}+\left(5a^{2}-2a\right)-2\left(a^{2}-3a\right)\right]$;
 
 (6) $3x^{2}-\left[5x-\left(\frac{1}{2}x-3\right)+2x^{2}\right]$.
 
@@ -126,9 +126,9 @@ By **Definition 4.2.3** (Rule for Removing Parentheses) and **Definition 4.2.4**
 
 By **Definition 4.2.4** (Rule for Adding and Subtracting Integral Expressions), first simplify, then evaluate.
 
-(1) $(5-3-2)x^{2}+(-5+6)x+(4-5)=x-1$. When $x=-3$, the original expression is $=-3-1=-4$.
+(1) $\left(5-3-2\right)x^{2}+\left(-5+6\right)x+\left(4-5\right)=x-1$. When $x=-3$, the original expression is $=-3-1=-4$.
 
-(2) $2a^{2}b+ab^{2}-3a^{2}b+3-2ab^{2}-1=-a^{2}b-ab^{2}+2$. When $a=-2$ and $b=2$, the original expression is $=-(-2)^{2}\times2-(-2)\times2^{2}+2=-8+8+2=2$. $\blacksquare$
+(2) $2a^{2}b+ab^{2}-3a^{2}b+3-2ab^{2}-1=-a^{2}b-ab^{2}+2$. When $a=-2$ and $b=2$, the original expression is $=-\left(-2\right)^{2}\times2-\left(-2\right)\times2^{2}+2=-8+8+2=2$. $\blacksquare$
 
 ### Review Problem 6
 
@@ -144,11 +144,11 @@ By **Definition 4.2.4** (Rule for Adding and Subtracting Integral Expressions), 
 
 (1) The number that is $4$ greater than $5$ times $a$ is $5a+4$, and the number that is $3$ less than $2$ times $a$ is $2a-3$. The sum of the two numbers is
 
-$$(5a+4)+(2a-3)=7a+1.$$
+$$\left(5a+4\right)+\left(2a-3\right)=7a+1.$$
 
 (2) The number that is $3$ less than $7$ times $b$ is $7b-3$, and the number that is $5$ greater than $6$ times $b$ is $6b+5$. The difference of the two numbers is
 
-$$(7b-3)-(6b+5)=b-8.$$
+$$\left(7b-3\right)-\left(6b+5\right)=b-8.$$
 
 $\blacksquare$
 
@@ -158,11 +158,11 @@ $\blacksquare$
 
 ### Solution to Review Problem 7
 
-By **Definition 4.2.4** (Rule for Adding and Subtracting Integral Expressions), the downstream speed is $(a+b)$ and the upstream speed is $(a-b)$.
+By **Definition 4.2.4** (Rule for Adding and Subtracting Integral Expressions), the downstream speed is $\left(a+b\right)$ and the upstream speed is $\left(a-b\right)$.
 
-The downstream distance is $3(a+b)\ \text{km}$, and the upstream distance is $1.5(a-b)\ \text{km}$. The total distance is
+The downstream distance is $3\left(a+b\right)\ \text{km}$, and the upstream distance is $1.5\left(a-b\right)\ \text{km}$. The total distance is
 
-$$3(a+b)+1.5(a-b)=3a+3b+1.5a-1.5b=4.5a+1.5b\ \text{km}.$$
+$$3\left(a+b\right)+1.5\left(a-b\right)=3a+3b+1.5a-1.5b=4.5a+1.5b\ \text{km}.$$
 
 $\blacksquare$
 
@@ -186,22 +186,22 @@ By **Definition 4.1.4** (Polynomial) and **Definition 4.2.4** (Rule for Adding a
 
 The original two-digit number is $10a+b$, and after swapping it is $10b+a$. The sum of the two numbers is
 
-$$(10a+b)+(10b+a)=11a+11b=11(a+b).$$
+$$\left(10a+b\right)+\left(10b+a\right)=11a+11b=11\left(a+b\right).$$
 
-Since $a$ and $b$ are integers, $11(a+b)$ is a multiple of $11$, so this sum is divisible by $11$. $\blacksquare$
+Since $a$ and $b$ are integers, $11\left(a+b\right)$ is a multiple of $11$, so this sum is divisible by $11$. $\blacksquare$
 
 ### Review Problem 10
 
-(Review Problem, Extension and Exploration, Problem 10) Treat $(a+b)$ and $(x+y)$ each as a whole, and simplify:
+(Review Problem, Extension and Exploration, Problem 10) Treat $\left(a+b\right)$ and $\left(x+y\right)$ each as a whole, and simplify:
 
-(1) $4(a+b)+2(a+b)-(a+b)$;
+(1) $4\left(a+b\right)+2\left(a+b\right)-\left(a+b\right)$;
 
-(2) $3(x+y)^{2}-7(x+y)+8(x+y)^{2}+6(x+y)$.
+(2) $3\left(x+y\right)^{2}-7\left(x+y\right)+8\left(x+y\right)^{2}+6\left(x+y\right)$.
 
 ### Solution to Review Problem 10
 
 By **Definition 4.2.1** (Like Terms) and **Definition 4.2.2** (Combining Like Terms), treat the whole as a like term and combine.
 
-(1) $4(a+b)+2(a+b)-(a+b)=(4+2-1)(a+b)=5(a+b)$.
+(1) $4\left(a+b\right)+2\left(a+b\right)-\left(a+b\right)=\left(4+2-1\right)\left(a+b\right)=5\left(a+b\right)$.
 
-(2) $3(x+y)^{2}-7(x+y)+8(x+y)^{2}+6(x+y)=(3+8)(x+y)^{2}+(-7+6)(x+y)=11(x+y)^{2}-(x+y)$. $\blacksquare$
+(2) $3\left(x+y\right)^{2}-7\left(x+y\right)+8\left(x+y\right)^{2}+6\left(x+y\right)=\left(3+8\right)\left(x+y\right)^{2}+\left(-7+6\right)\left(x+y\right)=11\left(x+y\right)^{2}-\left(x+y\right)$. $\blacksquare$

@@ -90,7 +90,7 @@
 
 $$S=2\pi rh_{1}+\pi r^{2}+\pi rl=2\pi\times 5\times 20+\pi\times 25+\pi\times 5\times 5\sqrt{2}$$
 
-$$=200\pi+25\pi+25\sqrt{2}\,\pi=25\pi(9+\sqrt{2}).$$
+$$=200\pi+25\pi+25\sqrt{2}\,\pi=25\pi\left(9+\sqrt{2}\right).$$
 
 展开图为: 一个矩形 ($2\pi r\times h_{1}=10\pi\times 20$) 作为圆柱侧面, 一个半径 $r=5$ 的圆作为底面, 一个半径 $l=5\sqrt{2}$、弧长 $10\pi$ 的扇形作为圆锥侧面. $\blacksquare$
 

@@ -136,7 +136,7 @@ Maximum $8.3$, minimum $6.9$, range $1.4$. Take a class width of $0.2$ for group
 
 ### Review Problem 10
 
-(Review Problems, Extension and Exploration, Problem 10) Advertising expenditure and sales revenue (ten thousand yuan): $(1,12),(2,20),(4,25),(5,30),(7,40)$. Draw a trend chart and predict the sales revenue when the advertising expenditure is $8$ ten-thousand yuan.
+(Review Problems, Extension and Exploration, Problem 10) Advertising expenditure and sales revenue (ten thousand yuan): $\left(1,12\right),\left(2,20\right),\left(4,25\right),\left(5,30\right),\left(7,40\right)$. Draw a trend chart and predict the sales revenue when the advertising expenditure is $8$ ten-thousand yuan.
 
 ![week59-2.svg](../../figures/week59-2.svg){width=50%}
 

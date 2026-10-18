@@ -16,13 +16,13 @@
 
 (复习题 复习巩固第 1 题) 下列各式中, 哪些是整式? 哪些是分式?
 
-$\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y}$, $\frac{2ab}{(a+b)^2}$.
+$\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y}$, $\frac{2ab}{\left(a+b\right)^2}$.
 
 ### 解答 复习题一
 
 整式: $\frac{x}{3}$, $\frac{a+5}{15}$.
 
-分式: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2 y}$, $\frac{2ab}{(a+b)^2}$. $\blacksquare$
+分式: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2 y}$, $\frac{2ab}{\left(a+b\right)^2}$. $\blacksquare$
 
 ### 复习题二
 
@@ -30,27 +30,27 @@ $\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y
 
 (1) $\frac{s-2 t}{3 s}\cdot\frac{6 s^2}{s+2 t}$;
 
-(2) $\frac{x-y}{x+y}\div(x-y)^2$;
+(2) $\frac{x-y}{x+y}\div\left(x-y\right)^2$;
 
 (3) $\frac{2 a}{a+1}+\frac{2}{a+1}$;
 
 (4) $\frac{u-2 v}{u+2 v}-\frac{2}{u^2-4 v^2}$;
 
-(5) $(x^{-2} y^3)^{-3}$;
+(5) $\left(x^{-2} y^3\right)^{-3}$;
 
 (6) $\left(-\frac{3 x}{y^3 z}\right)^2$.
 
 ### 解答 复习题二
 
-(1) $\frac{(s-2t)\cdot6s^2}{3s(s+2t)}=\frac{2s(s-2t)}{s+2t}$.
+(1) $\frac{\left(s-2t\right)\cdot6s^2}{3s\left(s+2t\right)}=\frac{2s\left(s-2t\right)}{s+2t}$.
 
-(2) $\frac{x-y}{x+y}\cdot\frac{1}{(x-y)^2}=\frac{1}{(x+y)(x-y)}=\frac{1}{x^2-y^2}$.
+(2) $\frac{x-y}{x+y}\cdot\frac{1}{\left(x-y\right)^2}=\frac{1}{\left(x+y\right)\left(x-y\right)}=\frac{1}{x^2-y^2}$.
 
-(3) $\frac{2a+2}{a+1}=\frac{2(a+1)}{a+1}=2$.
+(3) $\frac{2a+2}{a+1}=\frac{2\left(a+1\right)}{a+1}=2$.
 
-(4) $\frac{(u-2v)^2-2}{(u+2v)(u-2v)}=\frac{u^2-4uv+4v^2-2}{u^2-4v^2}$.
+(4) $\frac{\left(u-2v\right)^2-2}{\left(u+2v\right)\left(u-2v\right)}=\frac{u^2-4uv+4v^2-2}{u^2-4v^2}$.
 
-(5) $(x^{-2} y^3)^{-3}=x^6 y^{-9}=\frac{x^6}{y^9}$.
+(5) $\left(x^{-2} y^3\right)^{-3}=x^6 y^{-9}=\frac{x^6}{y^9}$.
 
 (6) $\left(-\frac{3x}{y^3 z}\right)^2=\frac{9x^2}{y^6 z^2}$. $\blacksquare$
 
@@ -60,7 +60,7 @@ $\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y
 
 (1) $\frac{2 m}{3 n}\cdot\left(\frac{3 n}{p}\right)^2\div\frac{m n}{p^2}$;
 
-(2) $a^2 b^3\cdot(a b^2)^{-2}$;
+(2) $a^2 b^3\cdot\left(a b^2\right)^{-2}$;
 
 (3) $\frac{x^2-16}{x^2+8 x+16}+\frac{x}{x-4}$;
 
@@ -80,17 +80,17 @@ $\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y
 
 (2) $a^2 b^3\cdot a^{-2} b^{-4}=b^{-1}=\frac1b$.
 
-(3) $\frac{(x+4)(x-4)}{(x+4)^2}+\frac{x}{x-4}=\frac{x-4}{x+4}+\frac{x}{x-4}=\frac{(x-4)^2+x(x+4)}{(x+4)(x-4)}=\frac{2x^2-4x+16}{x^2-16}$.
+(3) $\frac{\left(x+4\right)\left(x-4\right)}{\left(x+4\right)^2}+\frac{x}{x-4}=\frac{x-4}{x+4}+\frac{x}{x-4}=\frac{\left(x-4\right)^2+x\left(x+4\right)}{\left(x+4\right)\left(x-4\right)}=\frac{2x^2-4x+16}{x^2-16}$.
 
-(4) $\frac{p^3 q^6}{r^3}\cdot\frac{r+12q}{2pr^2}=\frac{p^2 q^6(r+12q)}{2r^5}$.
+(4) $\frac{p^3 q^6}{r^3}\cdot\frac{r+12q}{2pr^2}=\frac{p^2 q^6\left(r+12q\right)}{2r^5}$.
 
-(5) $1\div(2x+1-x)=1\div(x+1)=\frac{1}{x+1}$.
+(5) $1\div\left(2x+1-x\right)=1\div\left(x+1\right)=\frac{1}{x+1}$.
 
-(6) $\frac{a-b}{a}\div\frac{a^2-2ab+b^2}{a}=\frac{a-b}{a}\cdot\frac{a}{(a-b)^2}=\frac{1}{a-b}$.
+(6) $\frac{a-b}{a}\div\frac{a^2-2ab+b^2}{a}=\frac{a-b}{a}\cdot\frac{a}{\left(a-b\right)^2}=\frac{1}{a-b}$.
 
-(7) $1-\frac{a+b}{a+2b}\cdot\frac{(a+2b)^2}{(a+b)(a-b)}=1-\frac{a+2b}{a-b}=\frac{a-b-a-2b}{a-b}=-\frac{3b}{a-b}$.
+(7) $1-\frac{a+b}{a+2b}\cdot\frac{\left(a+2b\right)^2}{\left(a+b\right)\left(a-b\right)}=1-\frac{a+2b}{a-b}=\frac{a-b-a-2b}{a-b}=-\frac{3b}{a-b}$.
 
-(8) $\frac{(x-y)^2+4xy}{x-y}\cdot\frac{(x+y)^2-4xy}{x+y}=\frac{(x+y)^2}{x-y}\cdot\frac{(x-y)^2}{x+y}=(x+y)(x-y)=x^2-y^2$. $\blacksquare$
+(8) $\frac{\left(x-y\right)^2+4xy}{x-y}\cdot\frac{\left(x+y\right)^2-4xy}{x+y}=\frac{\left(x+y\right)^2}{x-y}\cdot\frac{\left(x-y\right)^2}{x+y}=\left(x+y\right)\left(x-y\right)=x^2-y^2$. $\blacksquare$
 
 ### 复习题四
 
@@ -102,9 +102,9 @@ $\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y
 
 ### 解答 复习题四
 
-(1) 乘 $x(x+1)$: $5x+2=3x$, $2x=-2$, $x=-1$. 检验 $x+1=0$, 原方程无解.
+(1) 乘 $x\left(x+1\right)$: $5x+2=3x$, $2x=-2$, $x=-1$. 检验 $x+1=0$, 原方程无解.
 
-(2) 乘 $(2x-5)(2x+5)$: $2x(2x+5)-2(2x-5)=(2x-5)(2x+5)$, $4x^2+10x-4x+10=4x^2-25$, $6x=-35$, $x=-\frac{35}{6}$. 检验成立. $\blacksquare$
+(2) 乘 $\left(2x-5\right)\left(2x+5\right)$: $2x\left(2x+5\right)-2\left(2x-5\right)=\left(2x-5\right)\left(2x+5\right)$, $4x^2+10x-4x+10=4x^2-25$, $6x=-35$, $x=-\frac{35}{6}$. 检验成立. $\blacksquare$
 
 ### 复习题五
 
@@ -140,13 +140,13 @@ $\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y
 
 ### 复习题七
 
-(复习题 综合运用第 7 题) 什么情况下 $2(x+1)^{-1}$ 与 $3(x-2)^{-1}$ 的值相等?
+(复习题 综合运用第 7 题) 什么情况下 $2\left(x+1\right)^{-1}$ 与 $3\left(x-2\right)^{-1}$ 的值相等?
 
 ### 解答 复习题七
 
 $$\frac{2}{x+1}=\frac{3}{x-2}.$$
 
-$2(x-2)=3(x+1)$, $2x-4=3x+3$, $x=-7$. 检验 $x+1\ne0$, $x-2\ne0$, 成立. 故当 $x=-7$ 时两式相等. $\blacksquare$
+$2\left(x-2\right)=3\left(x+1\right)$, $2x-4=3x+3$, $x=-7$. 检验 $x+1\ne0$, $x-2\ne0$, 成立. 故当 $x=-7$ 时两式相等. $\blacksquare$
 
 ### 复习题八
 
@@ -156,9 +156,9 @@ $2(x-2)=3(x+1)$, $2x-4=3x+3$, $x=-7$. 检验 $x+1\ne0$, $x-2\ne0$, 成立. 故�
 
 ### 解答 复习题八
 
-(1) $\frac{(x+1)(x-1)}{(x-1)^2}\cdot\frac{x-1}{x+1}\cdot\frac{1-x}{1+x}=\frac{1-x}{1+x}$. 代入 $x=\frac12$, 得 $\frac{1-\frac12}{1+\frac12}=\frac13$.
+(1) $\frac{\left(x+1\right)\left(x-1\right)}{\left(x-1\right)^2}\cdot\frac{x-1}{x+1}\cdot\frac{1-x}{1+x}=\frac{1-x}{1+x}$. 代入 $x=\frac12$, 得 $\frac{1-\frac12}{1+\frac12}=\frac13$.
 
-(2) $\frac{(x-2)^2}{(x+2)(x-2)}\cdot\frac{x^2+2x+3}{x-2}=\frac{x^2+2x+3}{x+2}$. 代入 $x=-3.2$, 得 $\frac{10.24-6.4+3}{-1.2}=\frac{6.84}{-1.2}=-5.7$. $\blacksquare$
+(2) $\frac{\left(x-2\right)^2}{\left(x+2\right)\left(x-2\right)}\cdot\frac{x^2+2x+3}{x-2}=\frac{x^2+2x+3}{x+2}$. 代入 $x=-3.2$, 得 $\frac{10.24-6.4+3}{-1.2}=\frac{6.84}{-1.2}=-5.7$. $\blacksquare$
 
 ### 复习题九
 
@@ -166,11 +166,11 @@ $2(x-2)=3(x+1)$, $2x-4=3x+3$, $x=-7$. 检验 $x+1\ne0$, $x-2\ne0$, 成立. 故�
 
 ### 解答 复习题九
 
-设现在每天生产 $x$ 台, 原计划 $(x-50)$ 台.
+设现在每天生产 $x$ 台, 原计划 $\left(x-50\right)$ 台.
 
 $$\frac{600}{x}=\frac{450}{x-50}.$$
 
-$600(x-50)=450x$, $600x-30000=450x$, $150x=30000$, $x=200$. 检验成立.
+$600\left(x-50\right)=450x$, $600x-30000=450x$, $150x=30000$, $x=200$. 检验成立.
 
 故现在平均每天生产 $200$ 台. $\blacksquare$
 
@@ -210,13 +210,13 @@ $$\frac{180}{x}-1-\frac{120}{x}+\frac{2}{3}=\frac23,\quad \frac{60}{x}-1=0,\quad
 
 ### 解答 复习题十二
 
-两端半圆合为一个圆环, 面积 $\pi(R^2-r^2)$; 两条直跑道面积为 $2a(R-r)$ (每条宽 $R-r$). 总面积
+两端半圆合为一个圆环, 面积 $\pi\left(R^2-r^2\right)$; 两条直跑道面积为 $2a\left(R-r\right)$ (每条宽 $R-r$). 总面积
 
-$$S=\pi(R^2-r^2)+2a(R-r)=(R-r)[\pi(R+r)+2a].$$
+$$S=\pi\left(R^2-r^2\right)+2a\left(R-r\right)=\left(R-r\right)\left[\pi\left(R+r\right)+2a\right].$$
 
 解得
 
-$$a=\frac{\frac{S}{R-r}-\pi(R+r)}{2}.$$
+$$a=\frac{\frac{S}{R-r}-\pi\left(R+r\right)}{2}.$$
 
 $\blacksquare$
 
@@ -224,12 +224,12 @@ $\blacksquare$
 
 (复习题 拓广探索第 13 题) (1) 式子 $\frac{a}{bc}+\frac{b}{ca}+\frac{c}{ab}$ 的值能否为 $0$? 为什么?
 
-(2) 式子 $\frac{a-b}{(b-c)(c-a)}+\frac{b-c}{(a-b)(c-a)}+\frac{c-a}{(a-b)(b-c)}$ 的值能否为 $0$? 为什么?
+(2) 式子 $\frac{a-b}{\left(b-c\right)\left(c-a\right)}+\frac{b-c}{\left(a-b\right)\left(c-a\right)}+\frac{c-a}{\left(a-b\right)\left(b-c\right)}$ 的值能否为 $0$? 为什么?
 
 ### 解答 复习题十三
 
 (1) 通分: $\frac{a^2+b^2+c^2}{abc}$. 若值为 $0$, 需 $a^2+b^2+c^2=0$, 即 $a=b=c=0$, 与分母 $abc\ne0$ 矛盾. 故不能为 $0$.
 
-(2) 通分, 公分母 $(a-b)(b-c)(c-a)$:
+(2) 通分, 公分母 $\left(a-b\right)\left(b-c\right)\left(c-a\right)$:
 
-分子 $=(a-b)^2+(b-c)^2+(c-a)^2$. 若值为 $0$, 需 $a=b=c$, 与分母不为 $0$ 矛盾. 故不能为 $0$. $\blacksquare$
+分子 $=\left(a-b\right)^2+\left(b-c\right)^2+\left(c-a\right)^2$. 若值为 $0$, 需 $a=b=c$, 与分母不为 $0$ 矛盾. 故不能为 $0$. $\blacksquare$

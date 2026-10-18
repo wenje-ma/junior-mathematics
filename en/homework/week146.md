@@ -10,7 +10,7 @@
 >
 > **Definition 28.2.2** (Centrally Symmetric Figure) <br>A figure that coincides with itself after being rotated about a point through $180^\circ$ is called a centrally symmetric figure.
 >
-> **Property 28.2.2** (Coordinates of Points Symmetric about the Origin) <br>The point symmetric to $P(x,y)$ about the origin is $P'(-x,-y)$.
+> **Property 28.2.2** (Coordinates of Points Symmetric about the Origin) <br>The point symmetric to $P\left(x,y\right)$ about the origin is $P'\left(-x,-y\right)$.
 
 ### Review Problem 1
 
@@ -62,7 +62,7 @@ An artistic character that coincides with its original form after being rotated 
 
 ### Review Problem 5
 
-(Review Problem 28, Review and Consolidation, Problem 5) As shown in the figure, in the rectangular coordinate system, the coordinates of the point $A$ are $(-2,3)$ and the coordinates of the point $B$ are $(-5,0)$.
+(Review Problem 28, Review and Consolidation, Problem 5) As shown in the figure, in the rectangular coordinate system, the coordinates of the point $A$ are $\left(-2,3\right)$ and the coordinates of the point $B$ are $\left(-5,0\right)$.
 
 (1) Write the coordinates of the points $A'$ and $B'$ symmetric to $A$ and $B$ about the origin;
 
@@ -72,7 +72,7 @@ An artistic character that coincides with its original form after being rotated 
 
 By **Property 28.2.2** (Coordinates of Points Symmetric about the Origin).
 
-(1) $A'(2,-3)$, $B'(5,0)$.
+(1) $A'\left(2,-3\right)$, $B'\left(5,0\right)$.
 
 (2) The quadrilateral $ABA'B'$ consists of the two triangles $\triangle ABO$ and $\triangle A'B'O$ ($O$ is the origin). $AB$ and $A'B'$ are symmetric about the origin, $BB'$ lies on the $x$-axis, and $BB'=10$. The distance from the point $A$ to the $x$-axis is $3$, and the distance from the point $A'$ to the $x$-axis is also $3$. Hence
 

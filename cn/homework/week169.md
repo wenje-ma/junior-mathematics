@@ -48,9 +48,9 @@ $$H=h_{0}+d\tan\alpha.\ \blacksquare$$
 
 在 $B$ 处: $H=x\tan\beta$.
 
-在 $A$ 处: $H=(x+AB)\tan\alpha$.
+在 $A$ 处: $H=\left(x+AB\right)\tan\alpha$.
 
-联立: $x\tan\beta=(x+AB)\tan\alpha$.
+联立: $x\tan\beta=\left(x+AB\right)\tan\alpha$.
 
 $$x=\frac{AB\cdot\tan\alpha}{\tan\beta-\tan\alpha}.$$
 

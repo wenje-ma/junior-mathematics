@@ -44,7 +44,7 @@
 
 当 $\angle\alpha=115^\circ$ 时, 对顶角为 $115^\circ$, 两个邻补角均为 $180^\circ-115^\circ=65^\circ$, 故其他三个角为 $65^\circ$, $115^\circ$, $65^\circ$.
 
-当 $\angle\alpha=m^\circ$ 时, 对顶角为 $m^\circ$, 两个邻补角均为 $(180-m)^\circ$, 故其他三个角为 $(180-m)^\circ$, $m^\circ$, $(180-m)^\circ$. $\blacksquare$
+当 $\angle\alpha=m^\circ$ 时, 对顶角为 $m^\circ$, 两个邻补角均为 $\left(180-m\right)^\circ$, 故其他三个角为 $\left(180-m\right)^\circ$, $m^\circ$, $\left(180-m\right)^\circ$. $\blacksquare$
 
 ### 练习三
 

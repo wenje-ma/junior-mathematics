@@ -40,7 +40,7 @@ Comparison shows: the sample average generally does not equal the population ave
 
 ### Solution to Activity 2
 
-Let the $10$ measured values be $d_1,d_2,\ldots,d_{10}$. The maximum is $d_{\max}=\max\{d_i\}$, the minimum is $d_{\min}=\min\{d_i\}$, and the average is $\bar{d}=\frac{1}{10}\sum_{i=1}^{10}d_i$.
+Let the $10$ measured values be $d_1,d_2,\ldots,d_{10}$. The maximum is $d_{\max}=\max\left\{d_i\right\}$, the minimum is $d_{\min}=\min\left\{d_i\right\}$, and the average is $\bar{d}=\frac{1}{10}\sum_{i=1}^{10}d_i$.
 
 The ruler falls in free fall, and the falling distance is $d=\frac{1}{2}gt^2$, so the reaction time is $t=\sqrt{\frac{2d}{g}}$. The smaller $d$ is, the shorter the reaction time $t$, and the faster the reaction.
 

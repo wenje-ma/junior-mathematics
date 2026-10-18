@@ -94,7 +94,7 @@ By **Definition 26.1.2** (Graph and Properties of the Inverse Proportional Funct
 
 (1) (A) and (B) are straight lines, (D) is a parabola, and only (C) is a hyperbola, so choose (C).
 
-(2) The graph lies in the first and third quadrants, which means $k>0$, and the hyperbola does not pass through the coordinate axes. (B) is a straight line and is excluded; in (D), $k=-3<0$, so the graph should lie in the second and fourth quadrants, and it is excluded. Since the curve in the figure passes near $(1,4)$, it corresponds to $y=\frac{4}{x}$, so choose (C). $\blacksquare$
+(2) The graph lies in the first and third quadrants, which means $k>0$, and the hyperbola does not pass through the coordinate axes. (B) is a straight line and is excluded; in (D), $k=-3<0$, so the graph should lie in the second and fourth quadrants, and it is excluded. Since the curve in the figure passes near $\left(1,4\right)$, it corresponds to $y=\frac{4}{x}$, so choose (C). $\blacksquare$
 
 ### Exercise 5
 
@@ -114,23 +114,23 @@ By **Definition 26.1.2** (Graph and Properties of the Inverse Proportional Funct
 
 ### Exercise 6
 
-(Exercise 26.1, Problem 1) The graph of an inverse proportional function passes through the point $A(3,-4)$.
+(Exercise 26.1, Problem 1) The graph of an inverse proportional function passes through the point $A\left(3,-4\right)$.
 
 (1) In which quadrants does the graph of this function lie? On each branch of the graph, how does $y$ change as $x$ increases?
 
-(2) Are the points $B(-3,4)$, $C(-2,6)$, and $D(3,4)$ on the graph of this function? Why?
+(2) Are the points $B\left(-3,4\right)$, $C\left(-2,6\right)$, and $D\left(3,4\right)$ on the graph of this function? Why?
 
 ### Solution to Exercise 6
 
-By **Definition 26.1.3** (Method of Undetermined Coefficients), let $y=\frac{k}{x}$. Substituting $A(3,-4)$ gives $-4=\frac{k}{3}$, so $k=-12$, and hence $y=\frac{-12}{x}$.
+By **Definition 26.1.3** (Method of Undetermined Coefficients), let $y=\frac{k}{x}$. Substituting $A\left(3,-4\right)$ gives $-4=\frac{k}{3}$, so $k=-12$, and hence $y=\frac{-12}{x}$.
 
 (1) $k=-12<0$, so by **Definition 26.1.2**, the graph lies in the second and fourth quadrants, and on each branch $y$ increases as $x$ increases.
 
-(2) $B(-3,4)$: $(-3)\times4=-12=k$, on the graph; $C(-2,6)$: $(-2)\times6=-12=k$, on the graph; $D(3,4)$: $3\times4=12\ne-12$, not on the graph. $\blacksquare$
+(2) $B\left(-3,4\right)$: $\left(-3\right)\times4=-12=k$, on the graph; $C\left(-2,6\right)$: $\left(-2\right)\times6=-12=k$, on the graph; $D\left(3,4\right)$: $3\times4=12\ne-12$, not on the graph. $\blacksquare$
 
 ### Exercise 7
 
-(Exercise 26.1, Problem 2) The points $A(x_1,y_1)$ and $B(x_2,y_2)$ lie on the graph of the inverse proportional function $y=\frac{1}{x}$. If $x_1<x_2$ and $x_1$, $x_2$ have the same sign, what is the size relationship between $y_1$ and $y_2$? Why?
+(Exercise 26.1, Problem 2) The points $A\left(x_1,y_1\right)$ and $B\left(x_2,y_2\right)$ lie on the graph of the inverse proportional function $y=\frac{1}{x}$. If $x_1<x_2$ and $x_1$, $x_2$ have the same sign, what is the size relationship between $y_1$ and $y_2$? Why?
 
 ### Solution to Exercise 7
 
@@ -176,7 +176,7 @@ By **Definition 26.1.1** (Inverse Proportional Function), an inverse proportiona
 
 (2) The graph of the inverse proportional function $y=\frac{k}{x}$ is shown in Figure (2) (the two branches lie in the second and fourth quadrants), then $k\;\_\_\_\;0$, and on each branch of the graph, $y$ $\;\_\_\_\;$ as $x$ increases;
 
-(3) If the point $(1,3)$ lies on the graph of the inverse proportional function $y=\frac{k}{x}$, then $k=\;\_\_\_\;$, and on each branch of the graph, $y$ $\;\_\_\_\;$ as $x$ increases.
+(3) If the point $\left(1,3\right)$ lies on the graph of the inverse proportional function $y=\frac{k}{x}$, then $k=\;\_\_\_\;$, and on each branch of the graph, $y$ $\;\_\_\_\;$ as $x$ increases.
 
 ### Solution to Problem 3
 
@@ -186,7 +186,7 @@ By **Definition 26.1.2** (Graph and Properties of the Inverse Proportional Funct
 
 (2) The graph lies in the second and fourth quadrants, $k<0$, and $y$ increases as $x$ increases.
 
-(3) Substituting $(1,3)$ gives $3=\frac{k}{1}$, so $k=3>0$, and $y$ decreases as $x$ increases. $\blacksquare$
+(3) Substituting $\left(1,3\right)$ gives $3=\frac{k}{1}$, so $k=3>0$, and $y$ decreases as $x$ increases. $\blacksquare$
 
 ### Problem 4
 
@@ -208,7 +208,7 @@ Therefore $x$ is also an inverse proportional function of $y$. $\blacksquare$
 
 ### Solution to Problem 5
 
-The intersection point has y-coordinate $2$ and lies on $y=x$, so its x-coordinate is also $2$, i.e. the intersection point is $(2,2)$. Substituting into $y=\frac{k}{x}$ gives $2=\frac{k}{2}$, so $k=4$, and hence $y=\frac{4}{x}$.
+The intersection point has y-coordinate $2$ and lies on $y=x$, so its x-coordinate is also $2$, i.e. the intersection point is $\left(2,2\right)$. Substituting into $y=\frac{k}{x}$ gives $2=\frac{k}{2}$, so $k=4$, and hence $y=\frac{4}{x}$.
 
 (1) When $x=-3$, $y=\frac{4}{-3}=-\frac{4}{3}$.
 
@@ -258,7 +258,7 @@ So choose (C). $\blacksquare$
 
 (1) In which quadrant does the other branch of the graph lie? What is the range of the constant $w$?
 
-(2) Take any two points $A(x_1,y_1)$ and $B(x_2,y_2)$ on the graph of this function. If $y_1>y_2$, what is the size relationship between $x_1$ and $x_2$?
+(2) Take any two points $A\left(x_1,y_1\right)$ and $B\left(x_2,y_2\right)$ on the graph of this function. If $y_1>y_2$, what is the size relationship between $x_1$ and $x_2$?
 
 ### Solution to Problem 9
 
@@ -272,7 +272,7 @@ By **Definition 26.1.2** (Graph and Properties of the Inverse Proportional Funct
 
 (Information Technology Application: Exploring the Properties of Inverse Proportional Functions) (1) Is the graph of the inverse proportional function $y=\frac{1}{x}$ symmetric about the line $y=-x$?
 
-(2) In the same rectangular coordinate system, as $|k|$ increases, does the position of the graph of the inverse proportional function $y=\frac{k}{x}$ move farther from or closer to the coordinate origin?
+(2) In the same rectangular coordinate system, as $\left|k\right|$ increases, does the position of the graph of the inverse proportional function $y=\frac{k}{x}$ move farther from or closer to the coordinate origin?
 
 ![week158-2.svg](../../figures/week158-2.svg){width=100%}
 
@@ -280,6 +280,6 @@ By **Definition 26.1.2** (Graph and Properties of the Inverse Proportional Funct
 
 By **Definition 26.1.2** (Graph and Properties of the Inverse Proportional Function).
 
-(1) The point symmetric to any point $(a,\frac{1}{a})$ on the graph of $y=\frac{1}{x}$ about the line $y=-x$ is $(-\frac{1}{a},-a)$, and $(-\frac{1}{a})\cdot(-a)=1$, so this point still lies on $y=\frac{1}{x}$. Hence the graph is symmetric about the line $y=-x$. In general, the graph of $y=\frac{k}{x}$ is symmetric both about the line $y=x$ and about the line $y=-x$.
+(1) The point symmetric to any point $\left(a,\frac{1}{a}\right)$ on the graph of $y=\frac{1}{x}$ about the line $y=-x$ is $\left(-\frac{1}{a},-a\right)$, and $\left(-\frac{1}{a}\right)\cdot\left(-a\right)=1$, so this point still lies on $y=\frac{1}{x}$. Hence the graph is symmetric about the line $y=-x$. In general, the graph of $y=\frac{k}{x}$ is symmetric both about the line $y=x$ and about the line $y=-x$.
 
-(2) For the same $x$, $|y|=\frac{|k|}{|x|}$ increases as $|k|$ increases; the closest distance from the hyperbola to the origin also increases as $|k|$ increases. Hence, as $|k|$ increases, the hyperbola moves farther from the coordinate origin. $\blacksquare$
+(2) For the same $x$, $\left|y\right|=\frac{\left|k\right|}{\left|x\right|}$ increases as $\left|k\right|$ increases; the closest distance from the hyperbola to the origin also increases as $\left|k\right|$ increases. Hence, as $\left|k\right|$ increases, the hyperbola moves farther from the coordinate origin. $\blacksquare$

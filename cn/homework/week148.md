@@ -39,7 +39,7 @@ $OD\perp AB$, $OE\perp AC$, 故 $\angle ADO=\angle AEO=90^\circ$, 又 $\angle DA
 设半径为 $R$, 则 $OC=R$, $OM=EM-R=6-R$, $CM=\frac12 CD=2$. 在 $\text{Rt}\triangle OMC$ 中,
 
 $$
-R^2=2^2+(6-R)^2=4+36-12R+R^2.
+R^2=2^2+\left(6-R\right)^2=4+36-12R+R^2.
 $$
 
 化简得 $12R=40$, 故 $R=\frac{10}{3}\,\text{m}$. $\blacksquare$

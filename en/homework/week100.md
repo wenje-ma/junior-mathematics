@@ -161,15 +161,15 @@ Let the side length of the square be \(4a\); then \(BE=EC=2a\), \(CF=a\), \(DF=3
 Apply the Pythagorean theorem in the right triangles:
 
 $$
-AE^{2}=AB^{2}+BE^{2}=(4a)^{2}+(2a)^{2}=20a^{2},
+AE^{2}=AB^{2}+BE^{2}=\left(4a\right)^{2}+\left(2a\right)^{2}=20a^{2},
 $$
 
 $$
-EF^{2}=EC^{2}+CF^{2}=(2a)^{2}+a^{2}=5a^{2},
+EF^{2}=EC^{2}+CF^{2}=\left(2a\right)^{2}+a^{2}=5a^{2},
 $$
 
 $$
-AF^{2}=AD^{2}+DF^{2}=(4a)^{2}+(3a)^{2}=25a^{2}.
+AF^{2}=AD^{2}+DF^{2}=\left(4a\right)^{2}+\left(3a\right)^{2}=25a^{2}.
 $$
 
 Hence \(AE^{2}+EF^{2}=20a^{2}+5a^{2}=25a^{2}=AF^{2}\).
@@ -189,7 +189,7 @@ If \(a,b,c\) is a Pythagorean triple, then \(a^{2}+b^{2}=c^{2}\).
 For \(3k,4k,5k\),
 
 $$
-(3k)^{2}+(4k)^{2}=9k^{2}+16k^{2}=25k^{2}=(5k)^{2}.
+\left(3k\right)^{2}+\left(4k\right)^{2}=9k^{2}+16k^{2}=25k^{2}=\left(5k\right)^{2}.
 $$
 
 Therefore \(3k,4k,5k\) is a Pythagorean triple.
@@ -197,7 +197,7 @@ Therefore \(3k,4k,5k\) is a Pythagorean triple.
 In general,
 
 $$
-(ak)^{2}+(bk)^{2}=a^{2}k^{2}+b^{2}k^{2}=(a^{2}+b^{2})k^{2}=c^{2}k^{2}=(ck)^{2}.
+\left(ak\right)^{2}+\left(bk\right)^{2}=a^{2}k^{2}+b^{2}k^{2}=\left(a^{2}+b^{2}\right)k^{2}=c^{2}k^{2}=\left(ck\right)^{2}.
 $$
 
 Therefore \(ak,bk,ck\) is also a Pythagorean triple.

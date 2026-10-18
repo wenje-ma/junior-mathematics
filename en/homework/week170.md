@@ -148,7 +148,7 @@ The heights of the two buildings are about $404.9\ \text{m}$ and $102.3\ \text{m
 
 ### Solution to Review Problem 9
 
-Taking $D$ as the origin, the direction $DB$ as the $x$-axis and the direction $DC$ as the $y$-axis, then $D=(0,0)$, $C=(0,3.40)$, $B=(5.00,0)$.
+Taking $D$ as the origin, the direction $DB$ as the $x$-axis and the direction $DC$ as the $y$-axis, then $D=\left(0,0\right)$, $C=\left(0,3.40\right)$, $B=\left(5.00,0\right)$.
 
 The upper edge $CA$ through $C$ makes an angle of $45^{\circ}$ with the vertical, so its slope is $-1$, and its equation is $y=3.40-x$.
 
@@ -160,7 +160,7 @@ $$x=\frac{3.40\sqrt{3}-5.00}{\sqrt{3}-1}\approx\frac{5.889-5.00}{0.732}\approx 1
 
 $$y=3.40-1.214=2.186.$$
 
-Thus $A=(1.214,2.186)$.
+Thus $A=\left(1.214,2.186\right)$.
 
 $$AC=\frac{x}{\cos 45^{\circ}}=\frac{1.214}{0.7071}\approx 1.72\ \text{m}.$$
 
@@ -218,7 +218,7 @@ In $\text{Rt}\triangle ADE$, $AE=\sqrt{AD^{2}+DE^{2}}=\sqrt{100k^{2}+25k^{2}}=\s
 
 From $AE=5\sqrt{5}$, we get $k=1$. Thus $AB=8\ \text{cm}$, $BC=10\ \text{cm}$.
 
-The rectangle perimeter $=2(8+10)=36\ \text{cm}$. $\blacksquare$
+The rectangle perimeter $=2\left(8+10\right)=36\ \text{cm}$. $\blacksquare$
 
 ### Review Problem 12
 

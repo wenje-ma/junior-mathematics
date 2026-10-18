@@ -10,7 +10,7 @@
 
 (Exercise 22.2, Problem 1) (1) Draw the graph of the function $y=2x-1$;
 
-(2) Determine whether points $A(-2.5, -4)$, $B(1, 3)$, $C(2.5, 4)$ lie on the graph of $y=2x-1$.
+(2) Determine whether points $A\left(-2.5, -4\right)$, $B\left(1, 3\right)$, $C\left(2.5, 4\right)$ lie on the graph of $y=2x-1$.
 
 ### Solution to Exercise 1
 
@@ -20,17 +20,17 @@
 |---|---|---|---|---|---|---|---|
 | $y=2x-1$ | $\cdots$ | $-5$ | $-3$ | $-1$ | $1$ | $3$ | $\cdots$ |
 
-Plot points $(x, y)$ in the plane rectangular coordinate system and connect them with a smooth curve, obtaining a straight line.
+Plot points $\left(x, y\right)$ in the plane rectangular coordinate system and connect them with a smooth curve, obtaining a straight line.
 
 ![week109-1.svg](../../figures/week109-1.svg){width=50%}
 
 (2) By **Definition 22.2.1** (Graph of a Function), the coordinates of a point on the graph satisfy the analytic expression.
 
-Substitute $x=-2.5$ into $y=2x-1$: $y=2\times(-2.5)-1=-6 \neq -4$, so point $A(-2.5, -4)$ is not on the graph.
+Substitute $x=-2.5$ into $y=2x-1$: $y=2\times\left(-2.5\right)-1=-6 \neq -4$, so point $A\left(-2.5, -4\right)$ is not on the graph.
 
-Substitute $x=1$ into $y=2x-1$: $y=2\times1-1=1 \neq 3$, so point $B(1, 3)$ is not on the graph.
+Substitute $x=1$ into $y=2x-1$: $y=2\times1-1=1 \neq 3$, so point $B\left(1, 3\right)$ is not on the graph.
 
-Substitute $x=2.5$ into $y=2x-1$: $y=2\times2.5-1=4$, which matches the y-coordinate of point $C$, so point $C(2.5, 4)$ is on the graph. $\blacksquare$
+Substitute $x=2.5$ into $y=2x-1$: $y=2\times2.5-1=4$, which matches the y-coordinate of point $C$, so point $C\left(2.5, 4\right)$ is on the graph. $\blacksquare$
 
 ### Exercise 2
 
@@ -108,9 +108,9 @@ Construct the scenario: Xiao Ming leaves home, walks at a steady pace for $15\ \
 
 ### Solution to Exercise 6
 
-By the polygon interior angle sum formula, the interior angle sum of an $n$-gon is $(n-2)\times180^\circ$.
+By the polygon interior angle sum formula, the interior angle sum of an $n$-gon is $\left(n-2\right)\times180^\circ$.
 
-By **Conclusion 22.2.3** (Three Ways of Representing a Function), analytic method: $m=(n-2)\times180$, where $n \geq 3$ and $n$ is an integer.
+By **Conclusion 22.2.3** (Three Ways of Representing a Function), analytic method: $m=\left(n-2\right)\times180$, where $n \geq 3$ and $n$ is an integer.
 
 Tabular method:
 
@@ -144,10 +144,10 @@ $\blacksquare$
 
 By **Definition 22.1.2** (Function), for each definite value of time $t$, the distance $s$ from the boat to the dock has a unique definite value, so $s$ is a function of $t$.
 
-The boat moves at a steady speed of $(200-150)\div 2 = 25\ \text{m/min}$. The initial distance is $200\ \text{m}$, so the analytic expression is
+The boat moves at a steady speed of $\left(200-150\right)\div 2 = 25\ \text{m/min}$. The initial distance is $200\ \text{m}$, so the analytic expression is
 
 $$
-s = 200 - 25t \quad (0 \leq t \leq 8).
+s = 200 - 25t \quad \left(0 \leq t \leq 8\right).
 $$
 
 ![week109-4.svg](../../figures/week109-4.svg){width=50%}
@@ -160,7 +160,7 @@ When the boat reaches the dock, $s=0$, i.e. $200-25t=0$, giving $t=8\ \text{min}
 
 (1) $y=0.5x$;
 
-(2) $y=\frac{3}{x}\ (x>0)$.
+(2) $y=\frac{3}{x}\ \left(x>0\right)$.
 
 ### Solution to Problem 1
 
@@ -168,7 +168,7 @@ When the boat reaches the dock, $s=0$, i.e. $200-25t=0$, giving $t=8\ \text{min}
 
 ![week109-5.svg](../../figures/week109-5.svg){width=50%}
 
-(2) Make a table, plot and join points; the graph of $y=\frac{3}{x}\ (x>0)$ is a curve in the first quadrant.
+(2) Make a table, plot and join points; the graph of $y=\frac{3}{x}\ \left(x>0\right)$ is a curve in the first quadrant.
 
 ![week109-6.svg](../../figures/week109-6.svg){width=50%}
 
@@ -264,9 +264,9 @@ When $x=4$, $y=10000+200\times4=10800$ yuan. Thus after $4$ years the sum is $10
 
 ### Solution to Problem 7
 
-The original square has side $3$ and area $9$. After the side increases by $x$, the side is $3+x$ and the area is $(3+x)^2$.
+The original square has side $3$ and area $9$. After the side increases by $x$, the side is $3+x$ and the area is $\left(3+x\right)^2$.
 
-The area increase is $y=(3+x)^2-9=x^2+6x$.
+The area increase is $y=\left(3+x\right)^2-9=x^2+6x$.
 
 When $x=1$, $y=1+6=7$; when $x=2$, $y=4+12=16$; when $x=3$, $y=9+18=27$; when $x=4$, $y=16+24=40$.
 
@@ -285,7 +285,7 @@ $\blacksquare$
 After $x$ seconds, car A has traveled $20x\ \text{m}$ and car B $25x\ \text{m}$. Initially car A is $500\ \text{m}$ ahead, so the distance between them is
 
 $$
-y = 500 + 20x - 25x = 500 - 5x \quad (0 \leq x \leq 100).
+y = 500 + 20x - 25x = 500 - 5x \quad \left(0 \leq x \leq 100\right).
 $$
 
 ![week109-7.svg](../../figures/week109-7.svg){width=50%}

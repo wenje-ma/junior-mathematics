@@ -151,7 +151,7 @@ $$
 $$
 
 $$
-120(80-x)=80x\Rightarrow 9600=200x\Rightarrow x=48\ \text{mm}.\ \blacksquare
+120\left(80-x\right)=80x\Rightarrow 9600=200x\Rightarrow x=48\ \text{mm}.\ \blacksquare
 $$
 
 ### Review Problem 12
@@ -171,7 +171,7 @@ $$
 $$
 
 $$
-123(d+1127)=127(d+123)\Rightarrow 123d+138621=127d+15621.
+123\left(d+1127\right)=127\left(d+123\right)\Rightarrow 123d+138621=127d+15621.
 $$
 
 $$

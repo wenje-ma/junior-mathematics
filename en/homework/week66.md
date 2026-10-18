@@ -4,7 +4,7 @@
 >
 > **Conclusion (Comprehensive and Practical Activity 1)** (Centroid of Simple Figures) <br>The centroid of a uniform segment is its midpoint; the centroid of a centrally symmetric figure such as a square, rectangle or parallelogram is its center of symmetry (the intersection of the diagonals); the centroid of a triangle is the intersection of the three medians.
 >
-> **Conclusion (Comprehensive and Practical Activity 2)** (Centroid of Composite Figures) <br>Divide the composite figure into several simple figures whose centroid positions are known; let the area of the $i$-th part be $S_i$ and its centroid coordinates be $(x_i,y_i)$. Then the centroid coordinates of the whole are
+> **Conclusion (Comprehensive and Practical Activity 2)** (Centroid of Composite Figures) <br>Divide the composite figure into several simple figures whose centroid positions are known; let the area of the $i$-th part be $S_i$ and its centroid coordinates be $\left(x_i,y_i\right)$. Then the centroid coordinates of the whole are
 >
 > $$
 > \bar x=\frac{\sum S_i x_i}{\sum S_i},\quad \bar y=\frac{\sum S_i y_i}{\sum S_i}.
@@ -30,7 +30,7 @@ These figures are all simple figures that are axis-symmetric or centrally symmet
 
 ### Inquiry 3
 
-(Comprehensive and Practical Activity, Problem 3) Divide a figure into two parts; let the areas of the two parts be $S_1$, $S_2$ and their centroid coordinates be $(x_1,y_1)$, $(x_2,y_2)$. Write the quantitative relationship between the centroid coordinates of the whole and the centroid coordinates of the two parts.
+(Comprehensive and Practical Activity, Problem 3) Divide a figure into two parts; let the areas of the two parts be $S_1$, $S_2$ and their centroid coordinates be $\left(x_1,y_1\right)$, $\left(x_2,y_2\right)$. Write the quantitative relationship between the centroid coordinates of the whole and the centroid coordinates of the two parts.
 
 ### Solution to Inquiry 3
 
@@ -52,9 +52,9 @@ When the two parts have equal area, $\bar x=\frac{x_1+x_2}{2}$, $\bar y=\frac{y_
 
 Set up a rectangular coordinate system, take the lower-left corner of the cross section as the origin, and let the two sides lie along the positive coordinate axes. Divide the L-shape into two rectangles:
 
-Vertical rectangle: width $10\ \text{cm}$, height $30\ \text{cm}$, area $S_1=300\ \text{cm}^2$, centroid $(x_1,y_1)=(5,15)$.
+Vertical rectangle: width $10\ \text{cm}$, height $30\ \text{cm}$, area $S_1=300\ \text{cm}^2$, centroid $\left(x_1,y_1\right)=\left(5,15\right)$.
 
-Horizontal rectangle (deducting the overlapping part at the bottom): length $20\ \text{cm}$, width $10\ \text{cm}$, area $S_2=200\ \text{cm}^2$, centroid $(x_2,y_2)=(20,5)$.
+Horizontal rectangle (deducting the overlapping part at the bottom): length $20\ \text{cm}$, width $10\ \text{cm}$, area $S_2=200\ \text{cm}^2$, centroid $\left(x_2,y_2\right)=\left(20,5\right)$.
 
 By **Conclusion (Comprehensive and Practical Activity 2)** (Centroid of Composite Figures),
 

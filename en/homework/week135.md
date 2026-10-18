@@ -16,11 +16,11 @@
 
 By **Conclusion 26.3.1**, convert the height problem into the corresponding problem of roots of a quadratic equation.
 
-(1) Setting $h=15$ gives $20t-5t^2=15$; rearranging gives $t^2-4t+3=0$, i.e. $(t-1)(t-3)=0$, solving gives $t=1$ or $t=3$. Hence it can reach $15\ \text{m}$, at flight times $1\ \text{s}$ and $3\ \text{s}$ respectively.
+(1) Setting $h=15$ gives $20t-5t^2=15$; rearranging gives $t^2-4t+3=0$, i.e. $\left(t-1\right)\left(t-3\right)=0$, solving gives $t=1$ or $t=3$. Hence it can reach $15\ \text{m}$, at flight times $1\ \text{s}$ and $3\ \text{s}$ respectively.
 
 (2) Setting $h=20.5$ gives $20t-5t^2=20.5$; rearranging gives $t^2-4t+4.1=0$, whose discriminant is $\Delta=16-16.4=-0.4<0$, so the equation has no real root. Hence the ball cannot reach $20.5\ \text{m}$.
 
-(3) On landing, $h=0$, giving $20t-5t^2=0$, i.e. $5t(4-t)=0$, solving gives $t=0$ (at launch) or $t=4$. Hence it takes $4\ \text{s}$ from launch to landing. $\blacksquare$
+(3) On landing, $h=0$, giving $20t-5t^2=0$, i.e. $5t\left(4-t\right)=0$, solving gives $t=0$ (at launch) or $t=4$. Hence it takes $4\ \text{s}$ from launch to landing. $\blacksquare$
 
 ### Exercise 2
 
@@ -50,7 +50,7 @@ By **Conclusion 26.3.1**, the roots are the horizontal coordinates of the common
 
 ### Solution to Problem 1
 
-(1) The graph is an upward-opening parabola with axis of symmetry $x=1$ and vertex $(1,-3)$, as shown.
+(1) The graph is an upward-opening parabola with axis of symmetry $x=1$ and vertex $\left(1,-3\right)$, as shown.
 
 (2) The function value being $0$ means $x^2-2x-2=0$. By the quadratic formula, $x=\frac{2\pm\sqrt{4+8}}2=1\pm\sqrt3$, i.e. $x\approx2.7$ or $x\approx-0.7$. By **Conclusion 26.3.1**, these are precisely the horizontal coordinates of the common points between the graph and the $x$-axis. $\blacksquare$
 
@@ -82,9 +82,9 @@ By **Conclusion 26.3.1**, use the quadratic formula to find the corresponding ro
 
 Use **Conclusion 26.3.1** and the discriminant $\Delta=b^2-4ac$ to decide.
 
-(1) $\Delta=(-6)^2-4\cdot3\cdot9=36-108=-72<0$; the equation $3x^2-6x+9=0$ has no real root, so the graph has no common point with the $x$-axis.
+(1) $\Delta=\left(-6\right)^2-4\cdot3\cdot9=36-108=-72<0$; the equation $3x^2-6x+9=0$ has no real root, so the graph has no common point with the $x$-axis.
 
-(2) $\Delta=(-4)^2-4\cdot2\cdot(-6)=16+48=64>0$; the graph has two common points with the $x$-axis. By the quadratic formula, $x=\frac{4\pm8}{4}$, i.e. $x=3$ or $x=-1$; the common points are $(3,0)$ and $(-1,0)$. $\blacksquare$
+(2) $\Delta=\left(-4\right)^2-4\cdot2\cdot\left(-6\right)=16+48=64>0$; the graph has two common points with the $x$-axis. By the quadratic formula, $x=\frac{4\pm8}{4}$, i.e. $x=3$ or $x=-1$; the common points are $\left(3,0\right)$ and $\left(-1,0\right)$. $\blacksquare$
 
 ### Problem 4
 
@@ -116,7 +116,7 @@ taking the positive root $t=12$. Hence it takes $12\ \text{s}$ to travel $180\ \
 
 ### Solution to Problem 5
 
-Factoring, $y=x^2-2x-3=(x-3)(x+1)$; the parabola opens upward and intersects the $x$-axis at $(-1,0)$ and $(3,0)$, as shown.
+Factoring, $y=x^2-2x-3=\left(x-3\right)\left(x+1\right)$; the parabola opens upward and intersects the $x$-axis at $\left(-1,0\right)$ and $\left(3,0\right)$, as shown.
 
 (1) By **Conclusion 26.3.1**, the roots are the horizontal coordinates of the common points with the $x$-axis, namely $x_1=-1$, $x_2=3$.
 

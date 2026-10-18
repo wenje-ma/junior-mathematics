@@ -2,7 +2,7 @@
 
 > **定义 27.3.1** (位似图形) <br>如果两个图形上的点 $A,B,\ldots,P,\ldots$ 与另一个图形上的点 $A',B',\ldots,P',\ldots$ 分别对应，并且连线 $AA',BB',\ldots,PP',\ldots$ 都经过同一点 $O$，且 $\frac{OA'}{OA}=\frac{OB'}{OB}=\cdots=\frac{OP'}{OP}=\cdots$，那么这两个图形叫做位似图形，点 $O$ 是位似中心。位似图形是特殊的相似图形，对应边互相平行。
 
-> **定义 27.3.2** (位似的坐标规律) <br>在平面直角坐标系中，如果以原点为位似中心，画出一个与原图形位似的图形，使它与原图形的相似比为 $k$，那么与原图形上的点 $(x,y)$ 对应的位似图形上的点的坐标为 $(kx,ky)$ 或 $(-kx,-ky)$。
+> **定义 27.3.2** (位似的坐标规律) <br>在平面直角坐标系中，如果以原点为位似中心，画出一个与原图形位似的图形，使它与原图形的相似比为 $k$，那么与原图形上的点 $\left(x,y\right)$ 对应的位似图形上的点的坐标为 $\left(kx,ky\right)$ 或 $\left(-kx,-ky\right)$。
 
 ### 练习一
 
@@ -26,7 +26,7 @@ $\triangle OAB$ 与 $\triangle OCD$ 位似，$AB$ 与 $CD$ 是对应边，故 $A
 
 ### 练习三
 
-(练习 27.3 第 1 题) 如图，把 $\triangle AOB$ 缩小后得到 $\triangle COD$，求 $\triangle COD$ 与 $\triangle AOB$ 的相似比。($A(2,4)$，$B(5,0)$，$C(1,2)$，$D(2.5,0)$。)
+(练习 27.3 第 1 题) 如图，把 $\triangle AOB$ 缩小后得到 $\triangle COD$，求 $\triangle COD$ 与 $\triangle AOB$ 的相似比。($A\left(2,4\right)$，$B\left(5,0\right)$，$C\left(1,2\right)$，$D\left(2.5,0\right)$。)
 
 ### 解答 练习三
 
@@ -40,13 +40,13 @@ $$
 
 ### 练习四
 
-(练习 27.3 第 2 题) 如图，$\triangle ABO$ 三个顶点的坐标分别为 $A(4,-5)$，$B(6,0)$，$O(0,0)$。以原点 $O$ 为位似中心，把这个三角形按相似比 $2$ 放大，得到 $\triangle A'B'O'$。写出 $\triangle A'B'O'$ 三个顶点的坐标。
+(练习 27.3 第 2 题) 如图，$\triangle ABO$ 三个顶点的坐标分别为 $A\left(4,-5\right)$，$B\left(6,0\right)$，$O\left(0,0\right)$。以原点 $O$ 为位似中心，把这个三角形按相似比 $2$ 放大，得到 $\triangle A'B'O'$。写出 $\triangle A'B'O'$ 三个顶点的坐标。
 
 ### 解答 练习四
 
-由**定义 27.3.2** (位似的坐标规律)，以原点为位似中心、相似比 $k=2$，点 $(x,y)$ 对应 $(kx,ky)$ 或 $(-kx,-ky)$。
+由**定义 27.3.2** (位似的坐标规律)，以原点为位似中心、相似比 $k=2$，点 $\left(x,y\right)$ 对应 $\left(kx,ky\right)$ 或 $\left(-kx,-ky\right)$。
 
-一组对应坐标为 $A'(8,-10)$，$B'(12,0)$，$O'(0,0)$；另一组为 $A''(-8,10)$，$B''(-12,0)$，$O''(0,0)$。 $\blacksquare$
+一组对应坐标为 $A'\left(8,-10\right)$，$B'\left(12,0\right)$，$O'\left(0,0\right)$；另一组为 $A''\left(-8,10\right)$，$B''\left(-12,0\right)$，$O''\left(0,0\right)$。 $\blacksquare$
 
 ### 习题一
 
@@ -66,13 +66,13 @@ $$
 
 ### 习题三
 
-(习题 27.3 复习巩固第 3 题) $\triangle ABC$ 三个顶点的坐标分别为 $A(2,2)$，$B(4,2)$，$C(6,4)$。以原点 $O$ 为位似中心，将 $\triangle ABC$ 缩小得到 $\triangle DEF$，使 $\triangle DEF$ 与 $\triangle ABC$ 对应边的比为 $1:2$，这时 $\triangle DEF$ 各个顶点的坐标分别是多少？
+(习题 27.3 复习巩固第 3 题) $\triangle ABC$ 三个顶点的坐标分别为 $A\left(2,2\right)$，$B\left(4,2\right)$，$C\left(6,4\right)$。以原点 $O$ 为位似中心，将 $\triangle ABC$ 缩小得到 $\triangle DEF$，使 $\triangle DEF$ 与 $\triangle ABC$ 对应边的比为 $1:2$，这时 $\triangle DEF$ 各个顶点的坐标分别是多少？
 
 ### 解答 习题三
 
-由**定义 27.3.2** (位似的坐标规律)，相似比 $k=\frac{1}{2}$，点 $(x,y)$ 对应 $\left(\frac{x}{2},\frac{y}{2}\right)$ 或 $\left(-\frac{x}{2},-\frac{y}{2}\right)$。
+由**定义 27.3.2** (位似的坐标规律)，相似比 $k=\frac{1}{2}$，点 $\left(x,y\right)$ 对应 $\left(\frac{x}{2},\frac{y}{2}\right)$ 或 $\left(-\frac{x}{2},-\frac{y}{2}\right)$。
 
-一组：$D(1,1)$，$E(2,1)$，$F(3,2)$。另一组：$D(-1,-1)$，$E(-2,-1)$，$F(-3,-2)$。 $\blacksquare$
+一组：$D\left(1,1\right)$，$E\left(2,1\right)$，$F\left(3,2\right)$。另一组：$D\left(-1,-1\right)$，$E\left(-2,-1\right)$，$F\left(-3,-2\right)$。 $\blacksquare$
 
 ### 习题四
 
@@ -90,23 +90,23 @@ $$
 
 ### 习题五
 
-(习题 27.3 综合运用第 5 题) 如图，矩形 $AOBC$ 各点的坐标分别为 $A(0,3)$，$O(0,0)$，$B(4,0)$，$C(4,3)$。以原点 $O$ 为位似中心，将这个矩形按相似比 $\frac{1}{2}$ 缩小，写出新矩形各顶点的坐标。
+(习题 27.3 综合运用第 5 题) 如图，矩形 $AOBC$ 各点的坐标分别为 $A\left(0,3\right)$，$O\left(0,0\right)$，$B\left(4,0\right)$，$C\left(4,3\right)$。以原点 $O$ 为位似中心，将这个矩形按相似比 $\frac{1}{2}$ 缩小，写出新矩形各顶点的坐标。
 
 ### 解答 习题五
 
 由**定义 27.3.2** (位似的坐标规律)，相似比 $k=\frac{1}{2}$。
 
-新矩形顶点坐标为 $A'(0,1.5)$，$O'(0,0)$，$B'(2,0)$，$C'(2,1.5)$。 $\blacksquare$
+新矩形顶点坐标为 $A'\left(0,1.5\right)$，$O'\left(0,0\right)$，$B'\left(2,0\right)$，$C'\left(2,1.5\right)$。 $\blacksquare$
 
 ### 习题六
 
-(习题 27.3 综合运用第 6 题) 如图，图中的图案与 "A" 字图案 (虚线图案) 相比，发生了什么变化？对应点的坐标之间有什么关系？(虚线图案顶点为 $(2,4)$，$(4,4)$ 等；实线图案顶点为 $(2,8)$ 等。)
+(习题 27.3 综合运用第 6 题) 如图，图中的图案与 "A" 字图案 (虚线图案) 相比，发生了什么变化？对应点的坐标之间有什么关系？(虚线图案顶点为 $\left(2,4\right)$，$\left(4,4\right)$ 等；实线图案顶点为 $\left(2,8\right)$ 等。)
 
 ![week164-1.svg](../../figures/week164-1.svg){width=100%}
 
 ### 解答 习题六
 
-实线图案是虚线图案以原点为位似中心、相似比 $2$ 放大后的位似图形。对应点坐标由 $(x,y)$ 变为 $(2x,2y)$。 $\blacksquare$
+实线图案是虚线图案以原点为位似中心、相似比 $2$ 放大后的位似图形。对应点坐标由 $\left(x,y\right)$ 变为 $\left(2x,2y\right)$。 $\blacksquare$
 
 ### 习题七
 

@@ -50,7 +50,7 @@ $\blacksquare$
 
 由**定理 30.1.3** (切线长定理).
 
-设 $AF=AE=x$, $BF=BD=y$, $CD=CE=z$. 则 $x+y=13$, $y+z=14$, $x+z=9$. 三式相加 $2(x+y+z)=36$, $x+y+z=18$. 解得 $x=4$, $y=9$, $z=5$. 即 $AF=4$, $BD=9$, $CE=5$. $\blacksquare$
+设 $AF=AE=x$, $BF=BD=y$, $CD=CE=z$. 则 $x+y=13$, $y+z=14$, $x+z=9$. 三式相加 $2\left(x+y+z\right)=36$, $x+y+z=18$. 解得 $x=4$, $y=9$, $z=5$. 即 $AF=4$, $BD=9$, $CE=5$. $\blacksquare$
 
 ### 习题三
 
@@ -70,7 +70,7 @@ $\blacksquare$
 
 由**定义 30.2.1** 及**习题三**结论.
 
-面积 $S=\frac12 ab$, 又 $S=\frac12 r(a+b+c)$, 故
+面积 $S=\frac12 ab$, 又 $S=\frac12 r\left(a+b+c\right)$, 故
 
 $$
 r=\frac{ab}{a+b+c}=\frac{a+b-c}{2}.

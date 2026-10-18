@@ -24,7 +24,7 @@ By **Theorem 29.2.1** (Perpendicular Chord Theorem).
 
 $OA=OB=1$ and $AB=1$, so $\triangle OAB$ is equilateral, and $\angle AOB=60^\circ$.
 
-The distance from the point $O$ to $AB$ is $d=\sqrt{1^2-(1/2)^2}=\frac{\sqrt3}{2}$. $\blacksquare$
+The distance from the point $O$ to $AB$ is $d=\sqrt{1^2-\left(1/2\right)^2}=\frac{\sqrt3}{2}$. $\blacksquare$
 
 ### Problem 2
 
@@ -107,7 +107,7 @@ By **Theorem 29.2.1** (Perpendicular Chord Theorem).
 Let the radius be $R$; then $AD=150$ and $OD=R-45$. In $\text{Rt}\triangle OAD$,
 
 $$
-R^2=150^2+(R-45)^2=22500+R^2-90R+2025.
+R^2=150^2+\left(R-45\right)^2=22500+R^2-90R+2025.
 $$
 
 Simplifying gives $90R=24525$, so $R=272.5\,\text{m}$. $\blacksquare$
@@ -150,7 +150,7 @@ $AD=BC$, so $\overset{\frown}{AD}=\overset{\frown}{BC}$. Adding $\overset{\frown
 
 By **Theorem 29.2.1** (Perpendicular Chord Theorem).
 
-Let the radius be $R$; then $OM=\sqrt{R^2-(AB/2)^2}$ and $ON=\sqrt{R^2-(CD/2)^2}$. When $AB>CD$, we have $(AB/2)^2>(CD/2)^2$, so $OM<ON$. $\blacksquare$
+Let the radius be $R$; then $OM=\sqrt{R^2-\left(AB/2\right)^2}$ and $ON=\sqrt{R^2-\left(CD/2\right)^2}$. When $AB>CD$, we have $\left(AB/2\right)^2>\left(CD/2\right)^2$, so $OM<ON$. $\blacksquare$
 
 ### Problem 13
 

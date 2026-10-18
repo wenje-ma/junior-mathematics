@@ -352,7 +352,7 @@ By **Theorem 27.2.1**, $DE\parallel BC$, so $\triangle ADE\backsim\triangle ABC$
 
 By **Property 27.2.2**, $\frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\left(\frac{AD}{AB}\right)^2=\frac{1}{2}$.
 
-Thus $\frac{AD}{AB}=\frac{1}{\sqrt{2}}=\frac{\sqrt{2}}{2}$, i.e. $D$ lies on $AB$ such that $AD:DB=\sqrt{2}:(2-\sqrt{2})$. $\blacksquare$
+Thus $\frac{AD}{AB}=\frac{1}{\sqrt{2}}=\frac{\sqrt{2}}{2}$, i.e. $D$ lies on $AB$ such that $AD:DB=\sqrt{2}:\left(2-\sqrt{2}\right)$. $\blacksquare$
 
 ### Problem 13
 
@@ -388,7 +388,7 @@ $$
 y=DE=9\cdot\frac{8-2x}{8}=9-\frac{9}{4}x.
 $$
 
-where $0\le x\le4$. The graph is a line segment from $(0,9)$ to $(4,0)$. $\blacksquare$
+where $0\le x\le4$. The graph is a line segment from $\left(0,9\right)$ to $\left(4,0\right)$. $\blacksquare$
 
 ### Observation and Conjecture 1
 

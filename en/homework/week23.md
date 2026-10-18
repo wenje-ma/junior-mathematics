@@ -42,9 +42,9 @@ By **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Vari
 
 (Review Problems, Review and Consolidation, Problem 2) Solve the following equations:
 
-(1) $3(x-2)+1=x-(2x-1)$;
+(1) $3\left(x-2\right)+1=x-\left(2x-1\right)$;
 
-(2) $3x-\left[3(x+1)-(x+3)\right]=1$;
+(2) $3x-\left[3\left(x+1\right)-\left(x+3\right)\right]=1$;
 
 (3) $\frac{2x+1}{3}-\frac{5x-1}{6}=1$;
 
@@ -56,21 +56,21 @@ By **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Vari
 
 (1) Remove parentheses: $3x-6+1=x-2x+1$. Combine: $3x-5=-x+1$. Transpose: $4x=6$, giving $x=\frac{3}{2}$.
 
-(2) Remove parentheses: $3x-[3x+3-x-3]=1$. Inside the square brackets: $2x$. The original expression: $3x-2x=1$, giving $x=1$.
+(2) Remove parentheses: $3x-\left[3x+3-x-3\right]=1$. Inside the square brackets: $2x$. The original expression: $3x-2x=1$, giving $x=1$.
 
-(3) Multiply both sides by $6$: $2(2x+1)-(5x-1)=6$. Remove parentheses: $4x+2-5x+1=6$. Combine: $-x+3=6$. Transpose: $x=-3$.
+(3) Multiply both sides by $6$: $2\left(2x+1\right)-\left(5x-1\right)=6$. Remove parentheses: $4x+2-5x+1=6$. Combine: $-x+3=6$. Transpose: $x=-3$.
 
 (4) Remove the square brackets: $\left(\frac{x}{4}-1\right)-3-x=2$. Combine: $\frac{x}{4}-4-x=2$. Transpose: $-\frac{3}{4}x=6$, giving $x=-8$. $\blacksquare$
 
 ### Review Problem 3
 
-(Review Problems, Review and Consolidation, Problem 3) For what value of $x$ are the values of the expressions $2(3x-1)$ and $3\left(\frac{2}{3}x-3\right)$ equal?
+(Review Problems, Review and Consolidation, Problem 3) For what value of $x$ are the values of the expressions $2\left(3x-1\right)$ and $3\left(\frac{2}{3}x-3\right)$ equal?
 
 ### Solution to Review Problem 3
 
 By **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Variable).
 
-Set $2(3x-1)=3\left(\frac{2}{3}x-3\right)$. Remove parentheses: $6x-2=2x-9$. Transpose: $4x=-7$, giving $x=-\frac{7}{4}$. $\blacksquare$
+Set $2\left(3x-1\right)=3\left(\frac{2}{3}x-3\right)$. Remove parentheses: $6x-2=2x-9$. Transpose: $4x=-7$, giving $x=-\frac{7}{4}$. $\blacksquare$
 
 ### Review Problem 4
 
@@ -80,7 +80,7 @@ Set $2(3x-1)=3\left(\frac{2}{3}x-3\right)$. Remove parentheses: $6x-2=2x-9$. Tra
 
 By **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Variable).
 
-Set $\frac{2x-1}{3}+\frac{3x-5}{2}=0$. Multiply both sides by $6$: $2(2x-1)+3(3x-5)=0$. Remove parentheses: $4x-2+9x-15=0$. Combine: $13x-17=0$, giving $x=\frac{17}{13}$. $\blacksquare$
+Set $\frac{2x-1}{3}+\frac{3x-5}{2}=0$. Multiply both sides by $6$: $2\left(2x-1\right)+3\left(3x-5\right)=0$. Remove parentheses: $4x-2+9x-15=0$. Combine: $13x-17=0$, giving $x=\frac{17}{13}$. $\blacksquare$
 
 ### Review Problem 5
 
@@ -102,9 +102,9 @@ i.e. $\frac{5}{2}+3m-2=0$. $\frac{1}{2}+3m=0$. $3m=-\frac{1}{2}$. Giving $m=-\fr
 
 By **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Variable), first solve the second equation.
 
-The second equation: multiply both sides by $24$: $8(2x-3)-48=9x$. Remove parentheses: $16x-24-48=9x$. $7x=72$. Giving $x=\frac{72}{7}$. Its reciprocal is $\frac{7}{72}$.
+The second equation: multiply both sides by $24$: $8\left(2x-3\right)-48=9x$. Remove parentheses: $16x-24-48=9x$. $7x=72$. Giving $x=\frac{72}{7}$. Its reciprocal is $\frac{7}{72}$.
 
-The first equation: multiply both sides by $6$: $3(x-m)=2(x+m)$. Remove parentheses: $3x-3m=2x+2m$. $x=5m$. Setting $5m=\frac{7}{72}$, giving $m=\frac{7}{360}$. $\blacksquare$
+The first equation: multiply both sides by $6$: $3\left(x-m\right)=2\left(x+m\right)$. Remove parentheses: $3x-3m=2x+2m$. $x=5m$. Setting $5m=\frac{7}{72}$, giving $m=\frac{7}{360}$. $\blacksquare$
 
 ### Review Problem 7
 
@@ -142,11 +142,11 @@ i.e. $50x-650=78$. $50x=728$. Giving $x=14.56$. Hence the selling price should b
 
 By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let $x$ sheets be used for can bodies.
 
-Use $(36-x)$ sheets for can bottoms. The number of bodies is $25x$, and bottoms is $40(36-x)$. Matching relation: bottoms $=2\times$ bodies:
+Use $\left(36-x\right)$ sheets for can bottoms. The number of bodies is $25x$, and bottoms is $40\left(36-x\right)$. Matching relation: bottoms $=2\times$ bodies:
 
-$$40(36-x)=2\times25x.$$
+$$40\left(36-x\right)=2\times25x.$$
 
-Simplifying: $40(36-x)=50x$. $1440-40x=50x$. $1440=90x$. Giving $x=16$. Hence $16$ sheets are used for bodies and $20$ sheets for bottoms. $\blacksquare$
+Simplifying: $40\left(36-x\right)=50x$. $1440-40x=50x$. $1440=90x$. Giving $x=16$. Hence $16$ sheets are used for bodies and $20$ sheets for bottoms. $\blacksquare$
 
 ### Review Problem 10
 
@@ -158,7 +158,7 @@ By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations
 
 The two have the same speed, so running in the same direction they never draw apart and hence never meet. If A's speed were $350\ \text{m/min}$ and B's speed $250\ \text{m/min}$:
 
-$$(350-250)x=400.$$
+$$\left(350-250\right)x=400.$$
 
 $100x=400$. Giving $x=4$. Hence they first meet after $4$ minutes. $\blacksquare$
 
@@ -170,9 +170,9 @@ $100x=400$. Giving $x=4$. Hence they first meet after $4$ minutes. $\blacksquare
 
 By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let last year's cost per phone be $x$ yuan.
 
-Last year's output $=\frac{60}{1.2}=50$ ten-thousand units. Last year's total cost $=50x$. This year's cost per phone is $(x-100)$ yuan, and this year's total cost $=60(x-100)$. The total cost is the same:
+Last year's output $=\frac{60}{1.2}=50$ ten-thousand units. Last year's total cost $=50x$. This year's cost per phone is $\left(x-100\right)$ yuan, and this year's total cost $=60\left(x-100\right)$. The total cost is the same:
 
-$$50x=60(x-100).$$
+$$50x=60\left(x-100\right).$$
 
 Remove parentheses: $50x=60x-6000$. Transpose: $6000=10x$. Giving $x=600$. Hence last year's cost per phone was $600$ yuan. $\blacksquare$
 
@@ -219,11 +219,11 @@ By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations
 
 By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let the price be raised by $x$ yuan.
 
-The price is $(50+x)$ yuan, and sales are $(500-10x)$ units. The profit per unit is $(50+x-40)=(10+x)$ yuan. Total profit:
+The price is $\left(50+x\right)$ yuan, and sales are $\left(500-10x\right)$ units. The profit per unit is $\left(50+x-40\right)=\left(10+x\right)$ yuan. Total profit:
 
-$$(10+x)(500-10x)=8000.$$
+$$\left(10+x\right)\left(500-10x\right)=8000.$$
 
-Expanding: $5000+500x-100x-10x^{2}=8000$. i.e. $-10x^{2}+400x-3000=0$. Simplifying: $x^{2}-40x+300=0$. Factoring: $(x-10)(x-30)=0$. Giving $x=10$ or $x=30$. The price should be set at $60$ yuan or $80$ yuan. $\blacksquare$
+Expanding: $5000+500x-100x-10x^{2}=8000$. i.e. $-10x^{2}+400x-3000=0$. Simplifying: $x^{2}-40x+300=0$. Factoring: $\left(x-10\right)\left(x-30\right)=0$. Giving $x=10$ or $x=30$. The price should be set at $60$ yuan or $80$ yuan. $\blacksquare$
 
 ### Review Problem 15
 
@@ -233,12 +233,12 @@ Expanding: $5000+500x-100x-10x^{2}=8000$. i.e. $-10x^{2}+400x-3000=0$. Simplifyi
 
 By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let the wall area to be painted in each room be $x\ \text{m}^{2}$.
 
-$3$ grade-1 workers paint $(8x-50)\ \text{m}^{2}$, which is $\frac{8x-50}{3}\ \text{m}^{2}$ per person per day.
+$3$ grade-1 workers paint $\left(8x-50\right)\ \text{m}^{2}$, which is $\frac{8x-50}{3}\ \text{m}^{2}$ per person per day.
 
-$5$ grade-2 workers paint $(10x+40)\ \text{m}^{2}$, which is $\frac{10x+40}{5}\ \text{m}^{2}$ per person per day.
+$5$ grade-2 workers paint $\left(10x+40\right)\ \text{m}^{2}$, which is $\frac{10x+40}{5}\ \text{m}^{2}$ per person per day.
 
 Each grade-1 worker paints $10\ \text{m}^{2}$ more per day than a grade-2 worker:
 
 $$\frac{8x-50}{3}-\frac{10x+40}{5}=10.$$
 
-Multiply both sides by $15$: $5(8x-50)-3(10x+40)=150$. Remove parentheses: $40x-250-30x-120=150$. Combine: $10x-370=150$. $10x=520$. Giving $x=52$. Hence each room requires $52\ \text{m}^{2}$ of wall to be painted. $\blacksquare$
+Multiply both sides by $15$: $5\left(8x-50\right)-3\left(10x+40\right)=150$. Remove parentheses: $40x-250-30x-120=150$. Combine: $10x-370=150$. $10x=520$. Giving $x=52$. Hence each room requires $52\ \text{m}^{2}$ of wall to be painted. $\blacksquare$

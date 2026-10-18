@@ -60,7 +60,7 @@
 
 (1) $AC$ 为直径, $\angle ABC=\angle ADC=90^\circ$. $\angle BCD=180^\circ-\angle BAD=110^\circ$.
 
-(2) $AC\perp BD$, $E$ 为垂足, $BE=ED=4$. 设 $AE=x$, $CE=10-x$. 由相交弦 (或相似) $AE\cdot CE=BE\cdot DE=16$, 即 $x(10-x)=16$, $x^2-10x+16=0$, $x=2$ 或 $8$. 故 $AE=2$, $CE=8$ (或反之). $\blacksquare$
+(2) $AC\perp BD$, $E$ 为垂足, $BE=ED=4$. 设 $AE=x$, $CE=10-x$. 由相交弦 (或相似) $AE\cdot CE=BE\cdot DE=16$, 即 $x\left(10-x\right)=16$, $x^2-10x+16=0$, $x=2$ 或 $8$. 故 $AE=2$, $CE=8$ (或反之). $\blacksquare$
 
 ### 复习题四
 

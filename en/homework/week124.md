@@ -6,7 +6,7 @@
 >
 > **Definition 24.1.4** (Mode) <br>The data value that appears most frequently.
 >
-> **Definition 24.2.3** (Variance) <br>$s^2=\frac{(x_1-\bar{x})^2+\cdots+(x_n-\bar{x})^2}{n}$.
+> **Definition 24.2.3** (Variance) <br>$s^2=\frac{\left(x_1-\bar{x}\right)^2+\cdots+\left(x_n-\bar{x}\right)^2}{n}$.
 >
 > **Definition 24.3.1** (Quartiles) <br>$Q_1$, $Q_2$, $Q_3$ divide the data into four equal parts.
 
@@ -65,7 +65,7 @@ $$
 By **Definition 24.2.3** (Variance),
 
 $$
-s^2 = \frac{(1.15-1.17)^2+(1.04-1.17)^2+\cdots+(1.16-1.17)^2}{20} \approx 0.005.
+s^2 = \frac{\left(1.15-1.17\right)^2+\left(1.04-1.17\right)^2+\cdots+\left(1.16-1.17\right)^2}{20} \approx 0.005.
 $$
 
 Hence the estimated mean mass is about $1.17\ \text{kg}$, and the variance about $0.01$. $\blacksquare$

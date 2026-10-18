@@ -240,9 +240,9 @@ $PH=AP\cdot\sin 30^{\circ}=32\times\frac{1}{2}=16\ \text{n mile}$.
 
 The reef radius is $16\sqrt{2}\approx 22.63\ \text{n mile}$. Since $PH=16<16\sqrt{2}$, the ship continuing due east is in danger of striking a reef.
 
-Suppose the ship sails in a direction $\theta$ east of south to pass safely, i.e. the distance from the course leaving $A$ to $P$ equals the reef radius $16\sqrt{2}$. The new course passes through $A$; let its angle with due east be $\varphi$ (toward the south). The distance from the new course to $P$ is $d=AP\cdot\sin(30^{\circ}-\varphi)$.
+Suppose the ship sails in a direction $\theta$ east of south to pass safely, i.e. the distance from the course leaving $A$ to $P$ equals the reef radius $16\sqrt{2}$. The new course passes through $A$; let its angle with due east be $\varphi$ (toward the south). The distance from the new course to $P$ is $d=AP\cdot\sin\left(30^{\circ}-\varphi\right)$.
 
-Setting $d=16\sqrt{2}$, i.e. $32\sin(30^{\circ}-\varphi)=16\sqrt{2}$, $\sin(30^{\circ}-\varphi)=\frac{\sqrt{2}}{2}$. Hence $30^{\circ}-\varphi=45^{\circ}$ (impossible), or $30^{\circ}-\varphi=135^{\circ}$ (impossible).
+Setting $d=16\sqrt{2}$, i.e. $32\sin\left(30^{\circ}-\varphi\right)=16\sqrt{2}$, $\sin\left(30^{\circ}-\varphi\right)=\frac{\sqrt{2}}{2}$. Hence $30^{\circ}-\varphi=45^{\circ}$ (impossible), or $30^{\circ}-\varphi=135^{\circ}$ (impossible).
 
 Actually, the critical course from $A$ that avoids the reef circle is a tangent to the circle. The angle between the tangent and $AP$ satisfies $\sin\psi=\frac{16\sqrt{2}}{32}=\frac{\sqrt{2}}{2}$, so $\psi=45^{\circ}$. The original direction was $60^{\circ}$ east of north (i.e. $30^{\circ}$ north of due east); it must be deflected $45^{\circ}-30^{\circ}=15^{\circ}$ toward the south, i.e. sailing in the direction $45^{\circ}$ east of south passes safely. $\blacksquare$
 
@@ -272,7 +272,7 @@ Therefore $x_B=x_C+2200.6\approx 3701.6$, $y_B=y_C-1598.8\approx-800.7$.
 
 Using the area-from-coordinates formula:
 
-$$S=\frac{1}{2}\left|x_A(y_B-y_C)+x_B(y_C-y_A)+x_C(y_A-y_B)\right|$$
+$$S=\frac{1}{2}\left|x_A\left(y_B-y_C\right)+x_B\left(y_C-y_A\right)+x_C\left(y_A-y_B\right)\right|$$
 
 $$=\frac{1}{2}\left|0+3701.6\times 798.1+1501.0\times 800.7\right|$$
 

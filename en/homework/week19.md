@@ -18,9 +18,9 @@
 
 By **Definition 5.1.1** (Equation), set up the unknown and write the equation according to the equality relation.
 
-Let $x$ be the number of type A pencils bought; then $(15-x)$ type B pencils were bought. The type A pencils cost $1.4x$ yuan, and the type B pencils cost $1.8(15-x)$ yuan. According to the total cost of $23$ yuan, the equation is
+Let $x$ be the number of type A pencils bought; then $\left(15-x\right)$ type B pencils were bought. The type A pencils cost $1.4x$ yuan, and the type B pencils cost $1.8\left(15-x\right)$ yuan. According to the total cost of $23$ yuan, the equation is
 
-$$1.4x+1.8(15-x)=23.$$
+$$1.4x+1.8\left(15-x\right)=23.$$
 
 $\blacksquare$
 
@@ -32,7 +32,7 @@ $\blacksquare$
 
 By **Definition 5.1.1** (Equation), let the cut-off length be $x\ \text{m}$.
 
-After cutting, the first is $(90-x)\ \text{m}$ long and the second is $(40+x)\ \text{m}$ long. The two are equal, so the equation is
+After cutting, the first is $\left(90-x\right)\ \text{m}$ long and the second is $\left(40+x\right)\ \text{m}$ long. The two are equal, so the equation is
 
 $$90-x=40+x.$$
 
@@ -168,7 +168,7 @@ By **Definition 5.1.1** (Equation), translate the verbal language into equations
 
 (Problem 5.1, Review and Consolidation, Problem 2) Set up equations according to the quantities marked in the figures:
 
-(1) The total length of the line segment is $(x+2)+(x+3)=x+(x+1)$, and the perimeter is $14$;
+(1) The total length of the line segment is $\left(x+2\right)+\left(x+3\right)=x+\left(x+1\right)$, and the perimeter is $14$;
 
 (2) The rectangle has length $x$, width $x-1$, and area $6$;
 
@@ -178,17 +178,17 @@ By **Definition 5.1.1** (Equation), translate the verbal language into equations
 
 By **Definition 5.1.1** (Equation), set up equations according to the equality relations in the figures.
 
-(1) The total length of the segment is $14$, and the sum of its parts is $(x+2)+(x+3)$, so $(x+2)+(x+3)=14$.
+(1) The total length of the segment is $14$, and the sum of its parts is $\left(x+2\right)+\left(x+3\right)$, so $\left(x+2\right)+\left(x+3\right)=14$.
 
-(2) The rectangle area is length times width: $x(x-1)=6$.
+(2) The rectangle area is length times width: $x\left(x-1\right)=6$.
 
-(3) Figure (2) is an isosceles triangle with base angle $x^{\circ}$ and vertex angle $(3x)^{\circ}$. Since the sum of the interior angles of a triangle is $180^{\circ}$, the equation is
+(3) Figure (2) is an isosceles triangle with base angle $x^{\circ}$ and vertex angle $\left(3x\right)^{\circ}$. Since the sum of the interior angles of a triangle is $180^{\circ}$, the equation is
 
 $$x+x+3x=180.$$
 
-Figure (3) is a right triangle with legs $x$ and $(x-1)$, and area $6$. By the right-triangle area formula $\frac{1}{2}\times\text{底}\times\text{高}=6$, the equation is
+Figure (3) is a right triangle with legs $x$ and $\left(x-1\right)$, and area $6$. By the right-triangle area formula $\frac{1}{2}\times\text{底}\times\text{高}=6$, the equation is
 
-$$\frac{1}{2}x(x-1)=6.$$
+$$\frac{1}{2}x\left(x-1\right)=6.$$
 
 $\blacksquare$
 
@@ -262,9 +262,9 @@ $\blacksquare$
 
 By **Definition 5.1.1** (Equation), let $x$ be the number of first-prize students.
 
-There are $(20-x)$ second-prize students. The total scholarship is $800x+400(20-x)=10000$. The equation is
+There are $\left(20-x\right)$ second-prize students. The total scholarship is $800x+400\left(20-x\right)=10000$. The equation is
 
-$$800x+400(20-x)=10000.$$
+$$800x+400\left(20-x\right)=10000.$$
 
 $\blacksquare$
 
@@ -276,7 +276,7 @@ $\blacksquare$
 
 By **Definition 5.1.1** (Equation), let the income in the year before last be $x$ yuan.
 
-Last year's income is $x(1+6.8\%)$, i.e. $1.068x$. The equation is
+Last year's income is $x\left(1+6.8\%\right)$, i.e. $1.068x$. The equation is
 
 $$1.068x=30438.$$
 
@@ -334,6 +334,6 @@ By **Definition 5.1.1** (Equation) and **Definition 5.1.2** (Solution of an Equa
 
 The original two-digit number is $10x+1$, and after swapping it is $10+x$. Since the new number is $18$ less than the original, the equation is
 
-$$(10x+1)-(10+x)=18.$$
+$$\left(10x+1\right)-\left(10+x\right)=18.$$
 
 Simplifying gives $9x-9=18$, i.e. $9x=27$, so $x=3$. $\blacksquare$

@@ -73,7 +73,7 @@ $$
 (2) 由**性质 19.1.2** 及积的乘方，
 
 $$
-(3\sqrt{2})^{2}=3^{2}\cdot(\sqrt{2})^{2}=9\times 2=18.
+\left(3\sqrt{2}\right)^{2}=3^{2}\cdot\left(\sqrt{2}\right)^{2}=9\times 2=18.
 $$
 
 \(\blacksquare\)

@@ -331,7 +331,7 @@ After folding, \(\angle EBD=\angle DBC=\angle EDB\), so \(\triangle EBD\) is iso
 Let \(DE=x\), then \(AE=8-x\). In \(Rt\triangle ABE\), \(AB^{2}+AE^{2}=BE^{2}\), i.e.
 
 $$
-16+(8-x)^{2}=x^{2},\quad 16+64-16x=0,\quad x=5.
+16+\left(8-x\right)^{2}=x^{2},\quad 16+64-16x=0,\quad x=5.
 $$
 
 Therefore \(DE=5\ \text{cm}\).

@@ -60,7 +60,7 @@ By **Property 29.2.3** and **Theorem 29.2.1**.
 
 (1) $AC$ is a diameter, so $\angle ABC=\angle ADC=90^\circ$. $\angle BCD=180^\circ-\angle BAD=110^\circ$.
 
-(2) $AC\perp BD$, $E$ is the foot, and $BE=ED=4$. Let $AE=x$ and $CE=10-x$. By the intersecting-chord theorem (or similarity), $AE\cdot CE=BE\cdot DE=16$, i.e. $x(10-x)=16$, $x^2-10x+16=0$, so $x=2$ or $8$. Hence $AE=2$, $CE=8$ (or vice versa). $\blacksquare$
+(2) $AC\perp BD$, $E$ is the foot, and $BE=ED=4$. Let $AE=x$ and $CE=10-x$. By the intersecting-chord theorem (or similarity), $AE\cdot CE=BE\cdot DE=16$, i.e. $x\left(10-x\right)=16$, $x^2-10x+16=0$, so $x=2$ or $8$. Hence $AE=2$, $CE=8$ (or vice versa). $\blacksquare$
 
 ### Review Problem 4
 

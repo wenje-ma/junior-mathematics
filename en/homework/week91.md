@@ -24,17 +24,17 @@
 
 Clear the denominators to obtain an integral equation, then check.
 
-(1) Multiply by $x(x-2)$: $5(x-2)=7x$, $5x-10=7x$, $x=-5$. Checking $x(x-2)\ne0$, hence $x=-5$.
+(1) Multiply by $x\left(x-2\right)$: $5\left(x-2\right)=7x$, $5x-10=7x$, $x=-5$. Checking $x\left(x-2\right)\ne0$, hence $x=-5$.
 
-(2) Multiply by $(x+3)(x-1)$: $2(x-1)=x+3$, $2x-2=x+3$, $x=5$. The check holds, hence $x=5$.
+(2) Multiply by $\left(x+3\right)\left(x-1\right)$: $2\left(x-1\right)=x+3$, $2x-2=x+3$, $x=5$. The check holds, hence $x=5$.
 
-(3) Multiply by $x(x+3)$: $12(x+3)=2x$, $12x+36=2x$, $x=-\frac{18}{5}$. The check holds.
+(3) Multiply by $x\left(x+3\right)$: $12\left(x+3\right)=2x$, $12x+36=2x$, $x=-\frac{18}{5}$. The check holds.
 
-(4) Multiply by $3(x+1)$: $3x=2x+3(x+1)$, $3x=5x+3$, $x=-\frac32$. Checking $x+1\ne0$, holds.
+(4) Multiply by $3\left(x+1\right)$: $3x=2x+3\left(x+1\right)$, $3x=5x+3$, $x=-\frac32$. Checking $x+1\ne0$, holds.
 
-(5) Multiply by $(x-1)(x+1)$: $2(x+1)=4$, $x=1$. Checking $(x-1)(x+1)=0$, hence $x=1$ is not a solution; the original equation has no solution.
+(5) Multiply by $\left(x-1\right)\left(x+1\right)$: $2\left(x+1\right)=4$, $x=1$. Checking $\left(x-1\right)\left(x+1\right)=0$, hence $x=1$ is not a solution; the original equation has no solution.
 
-(6) Multiply by $x(x+1)(x-1)$: $5(x-1)-(x+1)=0$, $5x-5-x-1=0$, $4x=6$, $x=\frac32$. The check holds. $\blacksquare$
+(6) Multiply by $x\left(x+1\right)\left(x-1\right)$: $5\left(x-1\right)-\left(x+1\right)=0$, $5x-5-x-1=0$, $4x=6$, $x=\frac32$. The check holds. $\blacksquare$
 
 ### Exercise 2
 
@@ -56,11 +56,11 @@ Checking, when $x=60$ the denominator is not $0$. Hence the coach's average spee
 
 ### Solution to Exercise 3
 
-Let B make $x$ parts per hour; then A makes $(x+6)$ parts per hour.
+Let B make $x$ parts per hour; then A makes $\left(x+6\right)$ parts per hour.
 
 $$\frac{90}{x+6}=\frac{60}{x}.$$
 
-$90x=60(x+6)=60x+360$, $30x=360$, $x=12$. The check holds.
+$90x=60\left(x+6\right)=60x+360$, $30x=360$, $x=12$. The check holds.
 
 Hence B makes $12$ parts per hour, and A makes $18$ parts per hour. $\blacksquare$
 
@@ -88,19 +88,19 @@ Hence B makes $12$ parts per hour, and A makes $18$ parts per hour. $\blacksquar
 
 (1) $x+3=5x$, $x=\frac34$. The check holds.
 
-(2) Multiply by $2(x-1)$: $2x=3-4(x-1)$, $2x=7-4x$, $x=\frac76$. The check holds.
+(2) Multiply by $2\left(x-1\right)$: $2x=3-4\left(x-1\right)$, $2x=7-4x$, $x=\frac76$. The check holds.
 
-(3) Multiply by $(2x+1)(2x-1)$: $2(2x+1)=4$, $4x+2=4$, $x=\frac12$. Checking $2x-1=0$, the original equation has no solution.
+(3) Multiply by $\left(2x+1\right)\left(2x-1\right)$: $2\left(2x+1\right)=4$, $4x+2=4$, $x=\frac12$. Checking $2x-1=0$, the original equation has no solution.
 
-(4) Multiply by $x(x+2)(x-2)$: $3(x-2)-(x+2)=0$, $3x-6-x-2=0$, $2x=8$, $x=4$. The check holds.
+(4) Multiply by $x\left(x+2\right)\left(x-2\right)$: $3\left(x-2\right)-\left(x+2\right)=0$, $3x-6-x-2=0$, $2x=8$, $x=4$. The check holds.
 
-(5) $x(x-1)=(x+1)(x-3)$, $x^2-x=x^2-2x-3$, $x=-3$. The check holds.
+(5) $x\left(x-1\right)=\left(x+1\right)\left(x-3\right)$, $x^2-x=x^2-2x-3$, $x=-3$. The check holds.
 
 (6) Multiply by $x-2$: $x-3+x-2=-3$, $2x=2$, $x=1$. The check holds.
 
-(7) Multiply by $6x(x+1)$: $6(2x+1)=5x$, $12x+6=5x$, $x=-\frac67$. The check holds.
+(7) Multiply by $6x\left(x+1\right)$: $6\left(2x+1\right)=5x$, $12x+6=5x$, $x=-\frac67$. The check holds.
 
-(8) Multiply by $2(2x-1)$: $6=5$, a contradiction; the original equation has no solution. $\blacksquare$
+(8) Multiply by $2\left(2x-1\right)$: $6=5$, a contradiction; the original equation has no solution. $\blacksquare$
 
 ### Problem 2
 
@@ -136,11 +136,11 @@ Hence A's speed is $3x=4.5\ \text{km/h}$, and B's speed is $4x=6\ \text{km/h}$. 
 
 ### Solution to Problem 4
 
-Let type $B$ transport $x\ \text{kg}$ per hour; then type $A$ is $(x+30)\ \text{kg}$.
+Let type $B$ transport $x\ \text{kg}$ per hour; then type $A$ is $\left(x+30\right)\ \text{kg}$.
 
 $$\frac{900}{x+30}=\frac{600}{x}.$$
 
-$900x=600(x+30)=600x+18000$, $300x=18000$, $x=60$. The check holds.
+$900x=600\left(x+30\right)=600x+18000$, $300x=18000$, $x=60$. The check holds.
 
 Hence type $B$ is $60\ \text{kg}$ per hour, and type $A$ is $90\ \text{kg}$ per hour. $\blacksquare$
 
@@ -164,11 +164,11 @@ The check holds. Hence Liu Wei alone needs $4\ \text{h}$. $\blacksquare$
 
 ### Solution to Problem 6
 
-Let the original yield per hectare be $x\ \text{t}$; then the area of the plot is $\frac{m}{x}$ hectares. Now the yield per hectare is $(x+a)\ \text{t}$, and the total increase is $a\cdot\frac{m}{x}=20$.
+Let the original yield per hectare be $x\ \text{t}$; then the area of the plot is $\frac{m}{x}$ hectares. Now the yield per hectare is $\left(x+a\right)\ \text{t}$, and the total increase is $a\cdot\frac{m}{x}=20$.
 
 $$\frac{am}{x}=20,\quad x=\frac{am}{20}.$$
 
-The original yield per hectare is $\frac{am}{20}\ \text{t}$, and the current is $\frac{am}{20}+a=\frac{a(m+20)}{20}\ \text{t}$. $\blacksquare$
+The original yield per hectare is $\frac{am}{20}\ \text{t}$, and the current is $\frac{am}{20}+a=\frac{a\left(m+20\right)}{20}\ \text{t}$. $\blacksquare$
 
 ### Problem 7
 

@@ -138,7 +138,7 @@ By **Definition 26.1.2**, $k=s>0$, so the graph is the branch of the hyperbola i
 
 ### Problem 6
 
-(Problem 26.2, Comprehensive Application, Problem 6) A sealed container holds a fixed mass of carbon dioxide. As the volume $V$ (unit: $\text{m}^3$) of the container changes, the density $\rho$ (unit: $\text{kg/m}^3$) of the gas changes accordingly. It is known that the density $\rho$ and the volume $V$ are in an inverse proportional function relationship; its graph is shown in the figure and passes through the point $A(5,1.98)$.
+(Problem 26.2, Comprehensive Application, Problem 6) A sealed container holds a fixed mass of carbon dioxide. As the volume $V$ (unit: $\text{m}^3$) of the container changes, the density $\rho$ (unit: $\text{kg/m}^3$) of the gas changes accordingly. It is known that the density $\rho$ and the volume $V$ are in an inverse proportional function relationship; its graph is shown in the figure and passes through the point $A\left(5,1.98\right)$.
 
 (1) Find the function expression for the density $\rho$ in terms of the volume $V$;
 
@@ -148,7 +148,7 @@ By **Definition 26.1.2**, $k=s>0$, so the graph is the branch of the hyperbola i
 
 ### Solution to Problem 6
 
-Let $\rho=\frac{k}{V}$. Substituting $A(5,1.98)$ gives $1.98=\frac{k}{5}$, so $k=9.9$.
+Let $\rho=\frac{k}{V}$. Substituting $A\left(5,1.98\right)$ gives $1.98=\frac{k}{5}$, so $k=9.9$.
 
 (1) $\rho=\frac{9.9}{V}$.
 
@@ -174,7 +174,7 @@ Let $\rho=\frac{k}{V}$. Substituting $A(5,1.98)$ gives $1.98=\frac{k}{5}$, so $k
 
 ### Problem 8
 
-(Problem 26.2, Extension and Exploration, Problem 8) It is known that the voltage of a storage battery is constant. When the battery is in use, the current $I$ (unit: $\text{A}$) and the resistance $R$ (unit: $\Omega$) are in an inverse proportional function relationship; its graph is shown in the figure and passes through the point $(9,4)$.
+(Problem 26.2, Extension and Exploration, Problem 8) It is known that the voltage of a storage battery is constant. When the battery is in use, the current $I$ (unit: $\text{A}$) and the resistance $R$ (unit: $\Omega$) are in an inverse proportional function relationship; its graph is shown in the figure and passes through the point $\left(9,4\right)$.
 
 (1) Write the expression of this inverse proportional function;
 
@@ -188,7 +188,7 @@ Let $\rho=\frac{k}{V}$. Substituting $A(5,1.98)$ gives $1.98=\frac{k}{5}$, so $k
 
 ### Solution to Problem 8
 
-Let $I=\frac{U}{R}$. Substituting $(9,4)$ gives $4=\frac{U}{9}$, so $U=36$.
+Let $I=\frac{U}{R}$. Substituting $\left(9,4\right)$ gives $4=\frac{U}{9}$, so $U=36$.
 
 (1) $I=\frac{36}{R}$.
 

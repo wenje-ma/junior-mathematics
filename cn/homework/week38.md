@@ -46,7 +46,7 @@
 
 平方根: $\sqrt 0=0$, $\sqrt 1=1$, $\sqrt 4=2$, $\sqrt 9=3$ 是有理数; $\sqrt 2$, $\sqrt 3$, $\sqrt 5$, $\sqrt 6$, $\sqrt 7$, $\sqrt 8$, $\sqrt{10}$ 是无理数.
 
-立方根: $\sqrt[3] 0=0$, $\sqrt[3] 1=1$, $\sqrt[3] 8=2$ 是有理数; $\sqrt[3] 2$, $\sqrt[3] 3$, $\sqrt[3] 4$, $\sqrt[3] 5$, $\sqrt[3] 6$, $\sqrt[3] 7$, $\sqrt[3] 9$, $\sqrt[3]{10}$ 是无理数. $\blacksquare$
+立方根: $\sqrt\left[3\right] 0=0$, $\sqrt\left[3\right] 1=1$, $\sqrt\left[3\right] 8=2$ 是有理数; $\sqrt\left[3\right] 2$, $\sqrt\left[3\right] 3$, $\sqrt\left[3\right] 4$, $\sqrt\left[3\right] 5$, $\sqrt\left[3\right] 6$, $\sqrt\left[3\right] 7$, $\sqrt\left[3\right] 9$, $\sqrt\left[3\right]{10}$ 是无理数. $\blacksquare$
 
 ### 练习三
 
@@ -92,18 +92,18 @@ $0$: 相反数为 $0$, 绝对值为 $0$. $\blacksquare$
 
 (练习 8.3 第 2 题) 计算:
 
-(1) $2\sqrt 5-3\sqrt 5$;　(2) $3\sqrt 3-|1-\sqrt[3]{3}|$.
+(1) $2\sqrt 5-3\sqrt 5$;　(2) $3\sqrt 3-\left|1-\sqrt\left[3\right]{3}\right|$.
 
 ### 解答 练习五
 
 由**性质 8.3.2**, 有理数运算法则适用于实数.
 
-(1) 由分配律, $2\sqrt 5-3\sqrt 5=(2-3)\sqrt 5=-\sqrt 5$.
+(1) 由分配律, $2\sqrt 5-3\sqrt 5=\left(2-3\right)\sqrt 5=-\sqrt 5$.
 
-(2) $\because\sqrt[3]{3}\approx 1.442>1$, $\therefore 1-\sqrt[3]{3}<0$, 故 $|1-\sqrt[3]{3}|=\sqrt[3]{3}-1$. 于是
+(2) $\because\sqrt\left[3\right]{3}\approx 1.442>1$, $\therefore 1-\sqrt\left[3\right]{3}<0$, 故 $\left|1-\sqrt\left[3\right]{3}\right|=\sqrt\left[3\right]{3}-1$. 于是
 
 $$
-3\sqrt 3-|1-\sqrt[3]{3}|=3\sqrt 3-(\sqrt[3]{3}-1)=3\sqrt 3-\sqrt[3]{3}+1.
+3\sqrt 3-\left|1-\sqrt\left[3\right]{3}\right|=3\sqrt 3-\left(\sqrt\left[3\right]{3}-1\right)=3\sqrt 3-\sqrt\left[3\right]{3}+1.
 $$
 
 $\blacksquare$
@@ -112,7 +112,7 @@ $\blacksquare$
 
 (练习 8.3 第 3 题) 计算 (结果保留小数点后两位):
 
-(1) $\sqrt{17}+\sqrt{22}$;　(2) $\sqrt[3]{6}-\sqrt 6$.
+(1) $\sqrt{17}+\sqrt{22}$;　(2) $\sqrt\left[3\right]{6}-\sqrt 6$.
 
 ### 解答 练习六
 
@@ -120,61 +120,61 @@ $\blacksquare$
 
 (1) $\sqrt{17}\approx 4.123$, $\sqrt{22}\approx 4.690$, 故 $\sqrt{17}+\sqrt{22}\approx 4.123+4.690=8.81$.
 
-(2) $\sqrt[3]{6}\approx 1.817$, $\sqrt 6\approx 2.449$, 故 $\sqrt[3]{6}-\sqrt 6\approx 1.817-2.449=-0.63$. $\blacksquare$
+(2) $\sqrt\left[3\right]{6}\approx 1.817$, $\sqrt 6\approx 2.449$, 故 $\sqrt\left[3\right]{6}-\sqrt 6\approx 1.817-2.449=-0.63$. $\blacksquare$
 
 ### 习题一
 
 (习题 8.3 复习巩固第 1 题) 在下列各数中, 哪些是有理数? 哪些是无理数?
 
-$3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $-\sqrt 6$, $\sqrt{36}$, $\sqrt[3]{5}$, $\sqrt[3]{125}$.
+$3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $-\sqrt 6$, $\sqrt{36}$, $\sqrt\left[3\right]{5}$, $\sqrt\left[3\right]{125}$.
 
 ### 解答 习题一
 
 由**定义 8.3.1** (无理数), 有限小数或无限循环小数是有理数, 无限不循环小数是无理数.
 
-$3.14$ 是有限小数, 有理数; $-\frac{22}{7}$ 是分数, 有理数; $\sqrt{\frac{3}{3}}=\sqrt 1=1$, 有理数; $-\sqrt 6$ 是开方开不尽的无限不循环小数, 无理数; $\sqrt{36}=6$, 有理数; $\sqrt[3]{5}$ 是无限不循环小数, 无理数; $\sqrt[3]{125}=5$, 有理数.
+$3.14$ 是有限小数, 有理数; $-\frac{22}{7}$ 是分数, 有理数; $\sqrt{\frac{3}{3}}=\sqrt 1=1$, 有理数; $-\sqrt 6$ 是开方开不尽的无限不循环小数, 无理数; $\sqrt{36}=6$, 有理数; $\sqrt\left[3\right]{5}$ 是无限不循环小数, 无理数; $\sqrt\left[3\right]{125}=5$, 有理数.
 
-故有理数为 $3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $\sqrt{36}$, $\sqrt[3]{125}$; 无理数为 $-\sqrt 6$, $\sqrt[3]{5}$. $\blacksquare$
+故有理数为 $3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $\sqrt{36}$, $\sqrt\left[3\right]{125}$; 无理数为 $-\sqrt 6$, $\sqrt\left[3\right]{5}$. $\blacksquare$
 
 ### 习题二
 
-(习题 8.3 复习巩固第 2 题) 把下列实数表示在数轴上, 并比较它们的大小 (用"$<$"连接): $-\frac{1}{3}$, $-1.5$, $\sqrt{2^2}$, $|-3|$.
+(习题 8.3 复习巩固第 2 题) 把下列实数表示在数轴上, 并比较它们的大小 (用"$<$"连接): $-\frac{1}{3}$, $-1.5$, $\sqrt{2^2}$, $\left|-3\right|$.
 
 ### 解答 习题二
 
-化简: $\sqrt{2^2}=2$, $|-3|=3$. 各数为 $-\frac{1}{3}\approx-0.33$, $-1.5$, $2$, $3$.
+化简: $\sqrt{2^2}=2$, $\left|-3\right|=3$. 各数为 $-\frac{1}{3}\approx-0.33$, $-1.5$, $2$, $3$.
 
 由**性质 8.3.1** (实数与数轴), 数轴上从左到右递增, 故
 
 $$
--1.5<-\frac{1}{3}<\sqrt{2^2}<|-3|.
+-1.5<-\frac{1}{3}<\sqrt{2^2}<\left|-3\right|.
 $$
 
 $\blacksquare$
 
 ### 习题三
 
-(习题 8.3 复习巩固第 3 题) 求下列各数的绝对值: $\sqrt[3]{-8}$, $\sqrt{17}$, $-\sqrt{\frac{2}{3}}$, $\sqrt[3]{3}-2$, $1-\sqrt[3]{2}$.
+(习题 8.3 复习巩固第 3 题) 求下列各数的绝对值: $\sqrt\left[3\right]{-8}$, $\sqrt{17}$, $-\sqrt{\frac{2}{3}}$, $\sqrt\left[3\right]{3}-2$, $1-\sqrt\left[3\right]{2}$.
 
 ### 解答 习题三
 
 由**性质 8.3.2** (绝对值), 正数绝对值取本身, 负数取相反数.
 
-$\sqrt[3]{-8}=-2$, 其绝对值为 $2$.
+$\sqrt\left[3\right]{-8}=-2$, 其绝对值为 $2$.
 
 $\sqrt{17}>0$, 其绝对值为 $\sqrt{17}$.
 
 $-\sqrt{\frac{2}{3}}<0$, 其绝对值为 $\sqrt{\frac{2}{3}}$.
 
-$\sqrt[3]{3}\approx 1.442<2$, 故 $\sqrt[3]{3}-2<0$, 其绝对值为 $2-\sqrt[3]{3}$.
+$\sqrt\left[3\right]{3}\approx 1.442<2$, 故 $\sqrt\left[3\right]{3}-2<0$, 其绝对值为 $2-\sqrt\left[3\right]{3}$.
 
-$\sqrt[3]{2}\approx 1.26>1$, 故 $1-\sqrt[3]{2}<0$, 其绝对值为 $\sqrt[3]{2}-1$. $\blacksquare$
+$\sqrt\left[3\right]{2}\approx 1.26>1$, 故 $1-\sqrt\left[3\right]{2}<0$, 其绝对值为 $\sqrt\left[3\right]{2}-1$. $\blacksquare$
 
 ### 习题四
 
 (习题 8.3 复习巩固第 4 题) 计算 (结果保留小数点后两位):
 
-(1) $\pi-\sqrt{10}$;　(2) $\sqrt[3]{2}-\sqrt 2$.
+(1) $\pi-\sqrt{10}$;　(2) $\sqrt\left[3\right]{2}-\sqrt 2$.
 
 ### 解答 习题四
 
@@ -182,28 +182,28 @@ $\sqrt[3]{2}\approx 1.26>1$, 故 $1-\sqrt[3]{2}<0$, 其绝对值为 $\sqrt[3]{2}
 
 (1) $\pi\approx 3.142$, $\sqrt{10}\approx 3.162$, 故 $\pi-\sqrt{10}\approx 3.142-3.162=-0.02$.
 
-(2) $\sqrt[3]{2}\approx 1.260$, $\sqrt 2\approx 1.414$, 故 $\sqrt[3]{2}-\sqrt 2\approx 1.260-1.414=-0.15$. $\blacksquare$
+(2) $\sqrt\left[3\right]{2}\approx 1.260$, $\sqrt 2\approx 1.414$, 故 $\sqrt\left[3\right]{2}-\sqrt 2\approx 1.260-1.414=-0.15$. $\blacksquare$
 
 ### 习题五
 
 (习题 8.3 复习巩固第 5 题) 计算:
 
-(1) $2(\sqrt 6-\sqrt 7)-|2\sqrt 6-\sqrt 7|$;　(2) $(-\sqrt 2)^2+(-\sqrt[3]{2})^3$.
+(1) $2\left(\sqrt 6-\sqrt 7\right)-\left|2\sqrt 6-\sqrt 7\right|$;　(2) $\left(-\sqrt 2\right)^2+\left(-\sqrt\left[3\right]{2}\right)^3$.
 
 ### 解答 习题五
 
 由**性质 8.3.2** 及平方、立方运算.
 
-(1) $\because 2\sqrt 6\approx 4.899>\sqrt 7\approx 2.646$, $\therefore 2\sqrt 6-\sqrt 7>0$, 故 $|2\sqrt 6-\sqrt 7|=2\sqrt 6-\sqrt 7$. 于是
+(1) $\because 2\sqrt 6\approx 4.899>\sqrt 7\approx 2.646$, $\therefore 2\sqrt 6-\sqrt 7>0$, 故 $\left|2\sqrt 6-\sqrt 7\right|=2\sqrt 6-\sqrt 7$. 于是
 
 $$
-2(\sqrt 6-\sqrt 7)-(2\sqrt 6-\sqrt 7)=2\sqrt 6-2\sqrt 7-2\sqrt 6+\sqrt 7=-\sqrt 7.
+2\left(\sqrt 6-\sqrt 7\right)-\left(2\sqrt 6-\sqrt 7\right)=2\sqrt 6-2\sqrt 7-2\sqrt 6+\sqrt 7=-\sqrt 7.
 $$
 
-(2) $(-\sqrt 2)^2=(\sqrt 2)^2=2$, $(-\sqrt[3]{2})^3=-(\sqrt[3]{2})^3=-2$, 故
+(2) $\left(-\sqrt 2\right)^2=\left(\sqrt 2\right)^2=2$, $\left(-\sqrt\left[3\right]{2}\right)^3=-\left(\sqrt\left[3\right]{2}\right)^3=-2$, 故
 
 $$
-(-\sqrt 2)^2+(-\sqrt[3]{2})^3=2+(-2)=0.
+\left(-\sqrt 2\right)^2+\left(-\sqrt\left[3\right]{2}\right)^3=2+\left(-2\right)=0.
 $$
 
 $\blacksquare$
@@ -265,13 +265,13 @@ $\blacksquare$
 (1) 大长方形的长为 $\sqrt 3+1$, 宽为 $\sqrt 3$. 故周长为
 
 $$
-2[(\sqrt 3+1)+\sqrt 3]=2(2\sqrt 3+1)=4\sqrt 3+2\quad(\text{cm}).
+2\left[\left(\sqrt 3+1\right)+\sqrt 3\right]=2\left(2\sqrt 3+1\right)=4\sqrt 3+2\quad\left(\text{cm}\right).
 $$
 
 (2) 两块阴影部分可拼成一个小长方形, 长为 $\sqrt 3-1$, 宽为 $1$, 故面积和为
 
 $$
-(\sqrt 3-1)\times 1=\sqrt 3-1\quad(\text{cm}^2).
+\left(\sqrt 3-1\right)\times 1=\sqrt 3-1\quad\left(\text{cm}^2\right).
 $$
 
 $\blacksquare$

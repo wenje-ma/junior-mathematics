@@ -112,7 +112,7 @@ $$\sin B=\frac{AC}{AB}=\frac{2}{\sqrt{13}}=\frac{2\sqrt{13}}{13},\quad \cos B=\f
 
 (2) $3\tan 30^{\circ}-\tan 45^{\circ}+2\sin 60^{\circ}$;
 
-(3) $(\cos^{2}30^{\circ}+\sin^{2}30^{\circ})\times\tan 60^{\circ}$.
+(3) $\left(\cos^{2}30^{\circ}+\sin^{2}30^{\circ}\right)\times\tan 60^{\circ}$.
 
 ### 解答 练习五
 
@@ -128,7 +128,7 @@ $$3\tan 30^{\circ}-\tan 45^{\circ}+2\sin 60^{\circ}=3\times\frac{\sqrt{3}}{3}-1+
 
 (3) 由 $\cos^{2}30^{\circ}+\sin^{2}30^{\circ}=\left(\frac{\sqrt{3}}{2}\right)^{2}+\left(\frac{1}{2}\right)^{2}=\frac{3}{4}+\frac{1}{4}=1$, 故
 
-$$(\cos^{2}30^{\circ}+\sin^{2}30^{\circ})\times\tan 60^{\circ}=1\times\sqrt{3}=\sqrt{3}.\ \blacksquare$$
+$$\left(\cos^{2}30^{\circ}+\sin^{2}30^{\circ}\right)\times\tan 60^{\circ}=1\times\sqrt{3}=\sqrt{3}.\ \blacksquare$$
 
 ### 练习六
 
@@ -156,7 +156,7 @@ $$(\cos^{2}30^{\circ}+\sin^{2}30^{\circ})\times\tan 60^{\circ}=1\times\sqrt{3}=\
 
 (1) $\sin 20^{\circ}\approx 0.3420$, $\cos 70^{\circ}\approx 0.3420$; $\sin 35^{\circ}\approx 0.5736$, $\cos 55^{\circ}\approx 0.5736$; $\sin 15^{\circ}32'\approx 0.2678$, $\cos 74^{\circ}28'\approx 0.2678$.
 
-由此可见, $\sin\alpha=\cos(90^{\circ}-\alpha)$, 即一个锐角的正弦值等于它余角的余弦值.
+由此可见, $\sin\alpha=\cos\left(90^{\circ}-\alpha\right)$, 即一个锐角的正弦值等于它余角的余弦值.
 
 (2) $\tan 3^{\circ}8'\approx 0.0545$, $\tan 80^{\circ}25'43''\approx 5.930$. $\blacksquare$
 

@@ -46,7 +46,7 @@ By **Definition 8.3.1** (Irrational Number), those whose root can be extracted e
 
 Square roots: $\sqrt 0=0$, $\sqrt 1=1$, $\sqrt 4=2$, $\sqrt 9=3$ are rational numbers; $\sqrt 2$, $\sqrt 3$, $\sqrt 5$, $\sqrt 6$, $\sqrt 7$, $\sqrt 8$, $\sqrt{10}$ are irrational numbers.
 
-Cube roots: $\sqrt[3] 0=0$, $\sqrt[3] 1=1$, $\sqrt[3] 8=2$ are rational numbers; $\sqrt[3] 2$, $\sqrt[3] 3$, $\sqrt[3] 4$, $\sqrt[3] 5$, $\sqrt[3] 6$, $\sqrt[3] 7$, $\sqrt[3] 9$, $\sqrt[3]{10}$ are irrational numbers. $\blacksquare$
+Cube roots: $\sqrt\left[3\right] 0=0$, $\sqrt\left[3\right] 1=1$, $\sqrt\left[3\right] 8=2$ are rational numbers; $\sqrt\left[3\right] 2$, $\sqrt\left[3\right] 3$, $\sqrt\left[3\right] 4$, $\sqrt\left[3\right] 5$, $\sqrt\left[3\right] 6$, $\sqrt\left[3\right] 7$, $\sqrt\left[3\right] 9$, $\sqrt\left[3\right]{10}$ are irrational numbers. $\blacksquare$
 
 ### Exercise 3
 
@@ -92,18 +92,18 @@ $0$: opposite number $0$, absolute value $0$. $\blacksquare$
 
 (Exercise 8.3, Problem 2) Compute:
 
-(1) $2\sqrt 5-3\sqrt 5$;　(2) $3\sqrt 3-|1-\sqrt[3]{3}|$.
+(1) $2\sqrt 5-3\sqrt 5$;　(2) $3\sqrt 3-\left|1-\sqrt\left[3\right]{3}\right|$.
 
 ### Solution to Exercise 5
 
 By **Property 8.3.2**, the operation rules for rational numbers apply to real numbers.
 
-(1) By the distributive law, $2\sqrt 5-3\sqrt 5=(2-3)\sqrt 5=-\sqrt 5$.
+(1) By the distributive law, $2\sqrt 5-3\sqrt 5=\left(2-3\right)\sqrt 5=-\sqrt 5$.
 
-(2) $\because\sqrt[3]{3}\approx 1.442>1$, $\therefore 1-\sqrt[3]{3}<0$, so $|1-\sqrt[3]{3}|=\sqrt[3]{3}-1$. Hence
+(2) $\because\sqrt\left[3\right]{3}\approx 1.442>1$, $\therefore 1-\sqrt\left[3\right]{3}<0$, so $\left|1-\sqrt\left[3\right]{3}\right|=\sqrt\left[3\right]{3}-1$. Hence
 
 $$
-3\sqrt 3-|1-\sqrt[3]{3}|=3\sqrt 3-(\sqrt[3]{3}-1)=3\sqrt 3-\sqrt[3]{3}+1.
+3\sqrt 3-\left|1-\sqrt\left[3\right]{3}\right|=3\sqrt 3-\left(\sqrt\left[3\right]{3}-1\right)=3\sqrt 3-\sqrt\left[3\right]{3}+1.
 $$
 
 $\blacksquare$
@@ -112,7 +112,7 @@ $\blacksquare$
 
 (Exercise 8.3, Problem 3) Compute (keep two decimal places):
 
-(1) $\sqrt{17}+\sqrt{22}$;　(2) $\sqrt[3]{6}-\sqrt 6$.
+(1) $\sqrt{17}+\sqrt{22}$;　(2) $\sqrt\left[3\right]{6}-\sqrt 6$.
 
 ### Solution to Exercise 6
 
@@ -120,61 +120,61 @@ Replace the irrational numbers with approximate finite decimals, compute, then r
 
 (1) $\sqrt{17}\approx 4.123$, $\sqrt{22}\approx 4.690$, so $\sqrt{17}+\sqrt{22}\approx 4.123+4.690=8.81$.
 
-(2) $\sqrt[3]{6}\approx 1.817$, $\sqrt 6\approx 2.449$, so $\sqrt[3]{6}-\sqrt 6\approx 1.817-2.449=-0.63$. $\blacksquare$
+(2) $\sqrt\left[3\right]{6}\approx 1.817$, $\sqrt 6\approx 2.449$, so $\sqrt\left[3\right]{6}-\sqrt 6\approx 1.817-2.449=-0.63$. $\blacksquare$
 
 ### Problem 1
 
 (Exercise 8.3, Review and Consolidation, Problem 1) Among the following numbers, which are rational numbers and which are irrational numbers?
 
-$3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $-\sqrt 6$, $\sqrt{36}$, $\sqrt[3]{5}$, $\sqrt[3]{125}$.
+$3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $-\sqrt 6$, $\sqrt{36}$, $\sqrt\left[3\right]{5}$, $\sqrt\left[3\right]{125}$.
 
 ### Solution to Problem 1
 
 By **Definition 8.3.1** (Irrational Number), a finite decimal or a non-terminating repeating decimal is a rational number, and a non-terminating non-repeating decimal is an irrational number.
 
-$3.14$ is a finite decimal, rational; $-\frac{22}{7}$ is a fraction, rational; $\sqrt{\frac{3}{3}}=\sqrt 1=1$, rational; $-\sqrt 6$ is a non-terminating non-repeating decimal whose root cannot be extracted, irrational; $\sqrt{36}=6$, rational; $\sqrt[3]{5}$ is a non-terminating non-repeating decimal, irrational; $\sqrt[3]{125}=5$, rational.
+$3.14$ is a finite decimal, rational; $-\frac{22}{7}$ is a fraction, rational; $\sqrt{\frac{3}{3}}=\sqrt 1=1$, rational; $-\sqrt 6$ is a non-terminating non-repeating decimal whose root cannot be extracted, irrational; $\sqrt{36}=6$, rational; $\sqrt\left[3\right]{5}$ is a non-terminating non-repeating decimal, irrational; $\sqrt\left[3\right]{125}=5$, rational.
 
-Thus the rational numbers are $3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $\sqrt{36}$, $\sqrt[3]{125}$; the irrational numbers are $-\sqrt 6$, $\sqrt[3]{5}$. $\blacksquare$
+Thus the rational numbers are $3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $\sqrt{36}$, $\sqrt\left[3\right]{125}$; the irrational numbers are $-\sqrt 6$, $\sqrt\left[3\right]{5}$. $\blacksquare$
 
 ### Problem 2
 
-(Exercise 8.3, Review and Consolidation, Problem 2) Represent the following real numbers on the number line and compare their sizes (connected by "$<$"): $-\frac{1}{3}$, $-1.5$, $\sqrt{2^2}$, $|-3|$.
+(Exercise 8.3, Review and Consolidation, Problem 2) Represent the following real numbers on the number line and compare their sizes (connected by "$<$"): $-\frac{1}{3}$, $-1.5$, $\sqrt{2^2}$, $\left|-3\right|$.
 
 ### Solution to Problem 2
 
-Simplify: $\sqrt{2^2}=2$, $|-3|=3$. The numbers are $-\frac{1}{3}\approx-0.33$, $-1.5$, $2$, $3$.
+Simplify: $\sqrt{2^2}=2$, $\left|-3\right|=3$. The numbers are $-\frac{1}{3}\approx-0.33$, $-1.5$, $2$, $3$.
 
 By **Property 8.3.1** (Real Numbers and the Number Line), values increase from left to right on the number line, so
 
 $$
--1.5<-\frac{1}{3}<\sqrt{2^2}<|-3|.
+-1.5<-\frac{1}{3}<\sqrt{2^2}<\left|-3\right|.
 $$
 
 $\blacksquare$
 
 ### Problem 3
 
-(Exercise 8.3, Review and Consolidation, Problem 3) Find the absolute value of each of the following: $\sqrt[3]{-8}$, $\sqrt{17}$, $-\sqrt{\frac{2}{3}}$, $\sqrt[3]{3}-2$, $1-\sqrt[3]{2}$.
+(Exercise 8.3, Review and Consolidation, Problem 3) Find the absolute value of each of the following: $\sqrt\left[3\right]{-8}$, $\sqrt{17}$, $-\sqrt{\frac{2}{3}}$, $\sqrt\left[3\right]{3}-2$, $1-\sqrt\left[3\right]{2}$.
 
 ### Solution to Problem 3
 
 By **Property 8.3.2** (Absolute Value), a positive number's absolute value is itself, and a negative number's is its opposite.
 
-$\sqrt[3]{-8}=-2$, whose absolute value is $2$.
+$\sqrt\left[3\right]{-8}=-2$, whose absolute value is $2$.
 
 $\sqrt{17}>0$, whose absolute value is $\sqrt{17}$.
 
 $-\sqrt{\frac{2}{3}}<0$, whose absolute value is $\sqrt{\frac{2}{3}}$.
 
-$\sqrt[3]{3}\approx 1.442<2$, so $\sqrt[3]{3}-2<0$, whose absolute value is $2-\sqrt[3]{3}$.
+$\sqrt\left[3\right]{3}\approx 1.442<2$, so $\sqrt\left[3\right]{3}-2<0$, whose absolute value is $2-\sqrt\left[3\right]{3}$.
 
-$\sqrt[3]{2}\approx 1.26>1$, so $1-\sqrt[3]{2}<0$, whose absolute value is $\sqrt[3]{2}-1$. $\blacksquare$
+$\sqrt\left[3\right]{2}\approx 1.26>1$, so $1-\sqrt\left[3\right]{2}<0$, whose absolute value is $\sqrt\left[3\right]{2}-1$. $\blacksquare$
 
 ### Problem 4
 
 (Exercise 8.3, Review and Consolidation, Problem 4) Compute (keep two decimal places):
 
-(1) $\pi-\sqrt{10}$;　(2) $\sqrt[3]{2}-\sqrt 2$.
+(1) $\pi-\sqrt{10}$;　(2) $\sqrt\left[3\right]{2}-\sqrt 2$.
 
 ### Solution to Problem 4
 
@@ -182,28 +182,28 @@ Compute with approximate values, then round.
 
 (1) $\pi\approx 3.142$, $\sqrt{10}\approx 3.162$, so $\pi-\sqrt{10}\approx 3.142-3.162=-0.02$.
 
-(2) $\sqrt[3]{2}\approx 1.260$, $\sqrt 2\approx 1.414$, so $\sqrt[3]{2}-\sqrt 2\approx 1.260-1.414=-0.15$. $\blacksquare$
+(2) $\sqrt\left[3\right]{2}\approx 1.260$, $\sqrt 2\approx 1.414$, so $\sqrt\left[3\right]{2}-\sqrt 2\approx 1.260-1.414=-0.15$. $\blacksquare$
 
 ### Problem 5
 
 (Exercise 8.3, Review and Consolidation, Problem 5) Compute:
 
-(1) $2(\sqrt 6-\sqrt 7)-|2\sqrt 6-\sqrt 7|$;　(2) $(-\sqrt 2)^2+(-\sqrt[3]{2})^3$.
+(1) $2\left(\sqrt 6-\sqrt 7\right)-\left|2\sqrt 6-\sqrt 7\right|$;　(2) $\left(-\sqrt 2\right)^2+\left(-\sqrt\left[3\right]{2}\right)^3$.
 
 ### Solution to Problem 5
 
 By **Property 8.3.2** and the operations of squaring and cubing.
 
-(1) $\because 2\sqrt 6\approx 4.899>\sqrt 7\approx 2.646$, $\therefore 2\sqrt 6-\sqrt 7>0$, so $|2\sqrt 6-\sqrt 7|=2\sqrt 6-\sqrt 7$. Hence
+(1) $\because 2\sqrt 6\approx 4.899>\sqrt 7\approx 2.646$, $\therefore 2\sqrt 6-\sqrt 7>0$, so $\left|2\sqrt 6-\sqrt 7\right|=2\sqrt 6-\sqrt 7$. Hence
 
 $$
-2(\sqrt 6-\sqrt 7)-(2\sqrt 6-\sqrt 7)=2\sqrt 6-2\sqrt 7-2\sqrt 6+\sqrt 7=-\sqrt 7.
+2\left(\sqrt 6-\sqrt 7\right)-\left(2\sqrt 6-\sqrt 7\right)=2\sqrt 6-2\sqrt 7-2\sqrt 6+\sqrt 7=-\sqrt 7.
 $$
 
-(2) $(-\sqrt 2)^2=(\sqrt 2)^2=2$, $(-\sqrt[3]{2})^3=-(\sqrt[3]{2})^3=-2$, so
+(2) $\left(-\sqrt 2\right)^2=\left(\sqrt 2\right)^2=2$, $\left(-\sqrt\left[3\right]{2}\right)^3=-\left(\sqrt\left[3\right]{2}\right)^3=-2$, so
 
 $$
-(-\sqrt 2)^2+(-\sqrt[3]{2})^3=2+(-2)=0.
+\left(-\sqrt 2\right)^2+\left(-\sqrt\left[3\right]{2}\right)^3=2+\left(-2\right)=0.
 $$
 
 $\blacksquare$
@@ -265,13 +265,13 @@ The square of area $3\,\text{cm}^2$ has side length $\sqrt 3\,\text{cm}$, and th
 (1) The large rectangle has length $\sqrt 3+1$ and width $\sqrt 3$. Thus the perimeter is
 
 $$
-2[(\sqrt 3+1)+\sqrt 3]=2(2\sqrt 3+1)=4\sqrt 3+2\quad(\text{cm}).
+2\left[\left(\sqrt 3+1\right)+\sqrt 3\right]=2\left(2\sqrt 3+1\right)=4\sqrt 3+2\quad\left(\text{cm}\right).
 $$
 
 (2) The two shaded parts can be assembled into a small rectangle of length $\sqrt 3-1$ and width $1$, so the sum of their areas is
 
 $$
-(\sqrt 3-1)\times 1=\sqrt 3-1\quad(\text{cm}^2).
+\left(\sqrt 3-1\right)\times 1=\sqrt 3-1\quad\left(\text{cm}^2\right).
 $$
 
 $\blacksquare$

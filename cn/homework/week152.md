@@ -6,7 +6,7 @@
 >
 > **定义 29.3.1** (圆锥的母线) <br>连接圆锥顶点和底面圆周上任意一点的线段叫作圆锥的母线.
 >
-> **公式 29.3.3** (圆锥的侧面积和全面积) <br>圆锥母线长为 $l$, 底面半径为 $r$, 则侧面积为 $\pi rl$, 全面积为 $\pi r(r+l)$.
+> **公式 29.3.3** (圆锥的侧面积和全面积) <br>圆锥母线长为 $l$, 底面半径为 $r$, 则侧面积为 $\pi rl$, 全面积为 $\pi r\left(r+l\right)$.
 
 ### 练习一
 
@@ -43,13 +43,13 @@ $\blacksquare$
 三个扇形圆心角均为 $60^\circ$, 半径为 $\frac{a}{2}$. 三个扇形面积之和为
 
 $$
-3\cdot\frac{60\pi (a/2)^2}{360}=\frac{\pi a^2}{8}.
+3\cdot\frac{60\pi \left(a/2\right)^2}{360}=\frac{\pi a^2}{8}.
 $$
 
 等边三角形面积为 $\frac{\sqrt3}{4}a^2$, 故阴影面积为
 
 $$
-\frac{\sqrt3}{4}a^2-\frac{\pi a^2}{8}=\frac{a^2}{8}(2\sqrt3-\pi).
+\frac{\sqrt3}{4}a^2-\frac{\pi a^2}{8}=\frac{a^2}{8}\left(2\sqrt3-\pi\right).
 $$
 
 $\blacksquare$
@@ -112,10 +112,10 @@ $\blacksquare$
 
 由**公式 29.3.2** (扇形面积公式).
 
-四个半圆面积之和为 $4\cdot\frac12\pi(a/2)^2=\frac{\pi a^2}{2}$, 正方形面积为 $a^2$. 阴影面积 (四个半圆重叠部分) 为
+四个半圆面积之和为 $4\cdot\frac12\pi\left(a/2\right)^2=\frac{\pi a^2}{2}$, 正方形面积为 $a^2$. 阴影面积 (四个半圆重叠部分) 为
 
 $$
-\frac{\pi a^2}{2}-a^2=\frac{a^2}{2}(\pi-2).
+\frac{\pi a^2}{2}-a^2=\frac{a^2}{2}\left(\pi-2\right).
 $$
 
 $\blacksquare$
@@ -134,7 +134,7 @@ $AB=5$.
 
 沿 $BC$ 旋转: 圆锥底面半径 $3$, 母线 $5$, 全面积 $\pi\cdot3\cdot5+\pi\cdot3^2=24\pi$.
 
-沿 $AB$ 旋转: 两个同底圆锥, 底面半径 $r=\frac{3\times4}{5}=\frac{12}{5}$, 母线分别为 $3$, $4$, 全面积 $\pi\cdot\frac{12}{5}\cdot(3+4)=\frac{84\pi}{5}$. $\blacksquare$
+沿 $AB$ 旋转: 两个同底圆锥, 底面半径 $r=\frac{3\times4}{5}=\frac{12}{5}$, 母线分别为 $3$, $4$, 全面积 $\pi\cdot\frac{12}{5}\cdot\left(3+4\right)=\frac{84\pi}{5}$. $\blacksquare$
 
 ### 习题五
 
@@ -163,7 +163,7 @@ $\blacksquare$
 扇面面积为大扇形 (半径 $30$) 减小扇形 (半径 $10$):
 
 $$
-\frac{120\pi}{360}(30^2-10^2)=\frac{\pi}{3}\cdot800=\frac{800\pi}{3}\approx837\,\text{cm}^2.
+\frac{120\pi}{360}\left(30^2-10^2\right)=\frac{\pi}{3}\cdot800=\frac{800\pi}{3}\approx837\,\text{cm}^2.
 $$
 
 $\blacksquare$
@@ -186,7 +186,7 @@ $\blacksquare$
 
 由**公式 29.3.2** 及**公式 29.3.3**.
 
-圆半径 $0.5\,\text{m}$. 扇形半径为 $\frac{\sqrt2}{2}\,\text{m}$ (正方形对角线一半). 扇形面积 $\frac{90\pi}{360}\cdot(\frac{\sqrt2}{2})^2=\frac{\pi}{8}$. 圆面积 $\pi\cdot0.5^2=\frac{\pi}{4}$, 剩余面积 $\frac{\pi}{4}-\frac{\pi}{8}=\frac{\pi}{8}\,\text{m}^2$.
+圆半径 $0.5\,\text{m}$. 扇形半径为 $\frac{\sqrt2}{2}\,\text{m}$ (正方形对角线一半). 扇形面积 $\frac{90\pi}{360}\cdot\left(\frac{\sqrt2}{2}\right)^2=\frac{\pi}{8}$. 圆面积 $\pi\cdot0.5^2=\frac{\pi}{4}$, 剩余面积 $\frac{\pi}{4}-\frac{\pi}{8}=\frac{\pi}{8}\,\text{m}^2$.
 
 扇形弧长 $l=\frac{90\pi}{180}\cdot\frac{\sqrt2}{2}=\frac{\sqrt2\pi}{4}$, 圆锥底面半径 $r=\frac{l}{2\pi}=\frac{\sqrt2}{8}\approx0.18\,\text{m}$. $\blacksquare$
 

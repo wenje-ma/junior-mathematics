@@ -90,7 +90,7 @@ The surface area of the composite $=$ the lateral area of the cylinder $+$ the b
 
 $$S=2\pi rh_{1}+\pi r^{2}+\pi rl=2\pi\times 5\times 20+\pi\times 25+\pi\times 5\times 5\sqrt{2}$$
 
-$$=200\pi+25\pi+25\sqrt{2}\,\pi=25\pi(9+\sqrt{2}).$$
+$$=200\pi+25\pi+25\sqrt{2}\,\pi=25\pi\left(9+\sqrt{2}\right).$$
 
 The net is: a rectangle ($2\pi r\times h_{1}=10\pi\times 20$) as the lateral face of the cylinder, a circle of radius $r=5$ as the base, and a sector of radius $l=5\sqrt{2}$ and arc length $10\pi$ as the lateral face of the cone. $\blacksquare$
 

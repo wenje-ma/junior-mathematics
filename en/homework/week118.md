@@ -70,7 +70,7 @@ From a mathematical point of view, after $12$ fifths the frequency ratio is $\le
 
 ### Solution to Activity 1, Task 4
 
-(1) The tuning method of **twelve-tone equal temperament**: divide one octave (frequency ratio $2:1$) equally into $12$ semitones, with the same frequency ratio between any two adjacent semitones. Let this ratio be $r$; after $12$ semitones the frequency ratio is $r^{12}=2$, so $r=\sqrt[12]{2}=2^{1/12}$. Thus the frequency of each semitone is $2^{1/12}$ times that of the preceding one, and the frequency ratio of any two adjacent semitones is constant, thoroughly solving the problem of returning to the starting pitch.
+(1) The tuning method of **twelve-tone equal temperament**: divide one octave (frequency ratio $2:1$) equally into $12$ semitones, with the same frequency ratio between any two adjacent semitones. Let this ratio be $r$; after $12$ semitones the frequency ratio is $r^{12}=2$, so $r=\sqrt\left[12\right]{2}=2^{1/12}$. Thus the frequency of each semitone is $2^{1/12}$ times that of the preceding one, and the frequency ratio of any two adjacent semitones is constant, thoroughly solving the problem of returning to the starting pitch.
 
 (2) Let the frequency ratio between two adjacent notes be $r$. One octave contains $12$ semitones, and the frequency ratio between the two ends of an octave is $2$, so
 
@@ -81,10 +81,10 @@ $$
 Solving gives
 
 $$
-r = \sqrt[12]{2} = 2^{1/12} \approx 1.05946.
+r = \sqrt\left[12\right]{2} = 2^{1/12} \approx 1.05946.
 $$
 
-That is, in twelve-tone equal temperament the frequency ratio between two adjacent notes is $\sqrt[12]{2} \approx 1.0595$. $\blacksquare$
+That is, in twelve-tone equal temperament the frequency ratio between two adjacent notes is $\sqrt\left[12\right]{2} \approx 1.0595$. $\blacksquare$
 
 ### Activity 2
 
@@ -96,7 +96,7 @@ That is, in twelve-tone equal temperament the frequency ratio between two adjace
 
 **Staff notation records duration**: the shape of the note head, the flag, and the different note types (whole note, half note, quarter note, eighth note, etc.) indicate the length of the note's time value. On the staff, notes are arranged from left to right, and the horizontal position corresponds to the order in time. This is like the x-coordinate — the horizontal position and spacing determine the time.
 
-**Similarity**: the vertical position (line/space) on the staff is like the y-coordinate, recording pitch; the horizontal position and note duration are like the x-coordinate, recording time. The position $(x, y)$ of each note on the staff is like a point $(x, y)$ in a rectangular coordinate system — the x-coordinate is time and the y-coordinate is pitch. $\blacksquare$
+**Similarity**: the vertical position (line/space) on the staff is like the y-coordinate, recording pitch; the horizontal position and note duration are like the x-coordinate, recording time. The position $\left(x, y\right)$ of each note on the staff is like a point $\left(x, y\right)$ in a rectangular coordinate system — the x-coordinate is time and the y-coordinate is pitch. $\blacksquare$
 
 (Comprehensive and Practical Activity, Activity 2, Task 2) Can a function be used to describe the melody of a piece? Taking a passage from "Defend the Yellow River" (lyrics by Guang Weiran, music by Xian Xinghai) as an example, consider the staff above: during the time span represented by the score, what is the relationship between the pitch and the duration of the notes? Can you plot this passage in a rectangular coordinate system?
 

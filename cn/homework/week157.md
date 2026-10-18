@@ -102,7 +102,7 @@ $EA=EC$, $FB=FC$, 周长 $PE+EF+PF=PE+EC+CF+PF=PE+EA+FB+PF=PA+PB=8$. $\blacksqua
 
 ### 复习题八
 
-(复习题 30 综合运用第 8 题) 如图, 在 $\triangle ABC$ 中, $AB=AC$, $\odot O$ 为 $\triangle ABC$ 的外接圆, $AD$, $CE$ 均为 $\odot O$ 的切线, 分别交过点 $B$ 的切线于 $D$, $E$. 求证 $BD\cdot CE=(\frac12 BC)^2$.
+(复习题 30 综合运用第 8 题) 如图, 在 $\triangle ABC$ 中, $AB=AC$, $\odot O$ 为 $\triangle ABC$ 的外接圆, $AD$, $CE$ 均为 $\odot O$ 的切线, 分别交过点 $B$ 的切线于 $D$, $E$. 求证 $BD\cdot CE=\left(\frac12 BC\right)^2$.
 
 ### 解答 复习题八
 
@@ -131,7 +131,7 @@ $E$ 为内心, $AD$ 平分 $\angle BAC$. 计算得 $\angle DBE=\angle DEB$, 故 
 翻滚过程中点 $A$ 经过两段圆弧, 半径分别为 $AB=2$ 和 $AC=2\sqrt2$, 圆心角分别为 $135^\circ$ 和 $135^\circ$. 路线长
 
 $$
-\frac{135\pi\cdot2}{180}+\frac{135\pi\cdot2\sqrt2}{180}=\frac{3\pi}{2}(1+\sqrt2).
+\frac{135\pi\cdot2}{180}+\frac{135\pi\cdot2\sqrt2}{180}=\frac{3\pi}{2}\left(1+\sqrt2\right).
 $$
 
 $\blacksquare$
@@ -154,7 +154,7 @@ $\blacksquare$
 
 由**性质 30.1.1** (位置关系判定).
 
-与 $x$ 轴相交: $|b|<r$; 与 $y$ 轴相离: $|a|>r$. 即 $|b|<r<|a|$. $\blacksquare$
+与 $x$ 轴相交: $\left|b\right|<r$; 与 $y$ 轴相离: $\left|a\right|>r$. 即 $\left|b\right|<r<\left|a\right|$. $\blacksquare$
 
 ### 复习题十三
 

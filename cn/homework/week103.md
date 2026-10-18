@@ -171,7 +171,7 @@
 故 \(n\) 边形内角和为
 
 $$
-n\times 180^{\circ}-360^{\circ}=(n-2)\times 180^{\circ}.
+n\times 180^{\circ}-360^{\circ}=\left(n-2\right)\times 180^{\circ}.
 $$
 
 \(\blacksquare\)

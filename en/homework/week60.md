@@ -42,7 +42,7 @@
 
 (2) The main factors affecting daylight duration are latitude (which determines the difference between summer-solstice and winter-solstice daylight) and date (which determines the position of the sun's direct rays). On the same date, the higher the latitude, the longer the summer-solstice daylight and the shorter the winter-solstice daylight.
 
-(3) By **Formula 12.5.1**, daylight duration $=($ noon $-$ sunrise $)\times2$. If daylight lengthens day by day, then (noon $-$ sunrise) grows, i.e. sunrise advances day by day; at the same time (sunset $-$ noon) grows, i.e. sunset is delayed day by day. $\blacksquare$
+(3) By **Formula 12.5.1**, daylight duration $=\left($ noon $-$ sunrise $\right)\times2$. If daylight lengthens day by day, then (noon $-$ sunrise) grows, i.e. sunrise advances day by day; at the same time (sunset $-$ noon) grows, i.e. sunset is delayed day by day. $\blacksquare$
 
 ### Inquiry 3
 

@@ -102,7 +102,7 @@ Let the radius be $r$. The incircle is tangent to $AC$ at $E$, so $OE=r$ and $OE
 
 ### Review Problem 8
 
-(Review Problem 30, Comprehensive Application, Problem 8) As shown in the figure, in $\triangle ABC$, $AB=AC$, $\odot O$ is the circumcircle of $\triangle ABC$, and $AD$ and $CE$ are both tangent to $\odot O$, meeting the tangent through the point $B$ at $D$ and $E$ respectively. Prove that $BD\cdot CE=(\frac12 BC)^2$.
+(Review Problem 30, Comprehensive Application, Problem 8) As shown in the figure, in $\triangle ABC$, $AB=AC$, $\odot O$ is the circumcircle of $\triangle ABC$, and $AD$ and $CE$ are both tangent to $\odot O$, meeting the tangent through the point $B$ at $D$ and $E$ respectively. Prove that $BD\cdot CE=\left(\frac12 BC\right)^2$.
 
 ### Solution to Review Problem 8
 
@@ -131,7 +131,7 @@ By **Formula 29.3.1** (Arc Length Formula).
 During the rolling, the point $A$ traces two circular arcs, with radii $AB=2$ and $AC=2\sqrt2$, and central angles $135^\circ$ and $135^\circ$ respectively. The path length is
 
 $$
-\frac{135\pi\cdot2}{180}+\frac{135\pi\cdot2\sqrt2}{180}=\frac{3\pi}{2}(1+\sqrt2).
+\frac{135\pi\cdot2}{180}+\frac{135\pi\cdot2\sqrt2}{180}=\frac{3\pi}{2}\left(1+\sqrt2\right).
 $$
 
 $\blacksquare$
@@ -154,7 +154,7 @@ The wrench opening is the distance between opposite sides, i.e. $2\times$ the ap
 
 By **Property 30.1.1** (Position-Relation Criterion).
 
-Intersecting the $x$-axis: $|b|<r$; disjoint from the $y$-axis: $|a|>r$. That is, $|b|<r<|a|$. $\blacksquare$
+Intersecting the $x$-axis: $\left|b\right|<r$; disjoint from the $y$-axis: $\left|a\right|>r$. That is, $\left|b\right|<r<\left|a\right|$. $\blacksquare$
 
 ### Review Problem 13
 

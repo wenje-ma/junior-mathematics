@@ -203,7 +203,7 @@ $$
 (1) 由正方形面积公式，
 
 $$
-S_{1}=(\sqrt{5}+\sqrt{2})^{2}=7+2\sqrt{10},\quad S_{2}=(\sqrt{5}-\sqrt{2})^{2}=7-2\sqrt{10}.
+S_{1}=\left(\sqrt{5}+\sqrt{2}\right)^{2}=7+2\sqrt{10},\quad S_{2}=\left(\sqrt{5}-\sqrt{2}\right)^{2}=7-2\sqrt{10}.
 $$
 
 故 \(S_{1}+S_{2}=14\ \text{m}^{2}\)。
@@ -267,7 +267,7 @@ $$
 由**结论 19.3.1**，
 
 $$
-S=\sqrt{p(p-a)(p-b)(p-c)}=\sqrt{12\times 5\times 4\times 3}=\sqrt{720}=12\sqrt{5}.
+S=\sqrt{p\left(p-a\right)\left(p-b\right)\left(p-c\right)}=\sqrt{12\times 5\times 4\times 3}=\sqrt{720}=12\sqrt{5}.
 $$
 
 \(\blacksquare\)

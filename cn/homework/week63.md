@@ -76,7 +76,7 @@ $\triangle ADE$ 是直角三角形. 理由如下.
 
 由**结论 13.3.1** (直角三角形的锐角互余), 在 $\text{Rt}\triangle ABC$ 中, $\angle A+\angle B=90^\circ$. 由 $\angle 1=\angle 2$ 且 $\angle 2$ 与 $\angle B$ 为同一组对应角, 得 $\angle ADE=\angle B$.
 
-故 $\angle A+\angle ADE=\angle A+\angle B=90^\circ$, 从而在 $\triangle ADE$ 中, $\angle AED=180^\circ-(\angle A+\angle ADE)=90^\circ$. 所以 $\triangle ADE$ 是直角三角形. $\blacksquare$
+故 $\angle A+\angle ADE=\angle A+\angle B=90^\circ$, 从而在 $\triangle ADE$ 中, $\angle AED=180^\circ-\left(\angle A+\angle ADE\right)=90^\circ$. 所以 $\triangle ADE$ 是直角三角形. $\blacksquare$
 
 ### 练习五
 
@@ -116,7 +116,7 @@ $\triangle ADE$ 是直角三角形. 理由如下.
 
 图 (3): $72^\circ+2x=180^\circ$, 故 $x=54^\circ$.
 
-图 (4): $x+(x-36^\circ)+(x+36^\circ)=3x=180^\circ$, 故 $x=60^\circ$. $\blacksquare$
+图 (4): $x+\left(x-36^\circ\right)+\left(x+36^\circ\right)=3x=180^\circ$, 故 $x=60^\circ$. $\blacksquare$
 
 ### 习题二
 
@@ -147,7 +147,7 @@ $\triangle ADE$ 是直角三角形. 理由如下.
 由**定理 13.3.1** (三角形内角和定理), 设 $\angle A=x$, 则 $\angle B=x+10^\circ$, $\angle C=x+20^\circ$.
 
 $$
-x+(x+10^\circ)+(x+20^\circ)=180^\circ.
+x+\left(x+10^\circ\right)+\left(x+20^\circ\right)=180^\circ.
 $$
 
 解得 $3x=150^\circ$, 即 $x=50^\circ$. 故 $\angle A=50^\circ$, $\angle B=60^\circ$, $\angle C=70^\circ$. $\blacksquare$
@@ -273,7 +273,7 @@ $$
 在含 $x$ 的三角形中,
 
 $$
-x=180^\circ-(\angle 2+\angle 4)=180^\circ-40^\circ=140^\circ.
+x=180^\circ-\left(\angle 2+\angle 4\right)=180^\circ-40^\circ=140^\circ.
 $$
 
 $\blacksquare$
@@ -296,7 +296,7 @@ $$
 \angle 1+\angle 2=180^\circ-90^\circ=90^\circ.
 $$
 
-在 $\triangle AEC$ 中, 由**定理 13.3.1**, $\angle E=180^\circ-(\angle 1+\angle 2)=90^\circ$.
+在 $\triangle AEC$ 中, 由**定理 13.3.1**, $\angle E=180^\circ-\left(\angle 1+\angle 2\right)=90^\circ$.
 
 故依次填 $180^\circ$, $90^\circ$, $90^\circ$. $\blacksquare$
 
@@ -327,7 +327,7 @@ $$
 将 $\angle ACE=\angle BAC-\angle E$ 代入:
 
 $$
-2(\angle BAC-\angle E)=\angle B+\angle BAC,
+2\left(\angle BAC-\angle E\right)=\angle B+\angle BAC,
 $$
 
 化简得 $\angle BAC=\angle B+2\angle E$. $\blacksquare$

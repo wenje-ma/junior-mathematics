@@ -331,7 +331,7 @@
 设 \(DE=x\)，则 \(AE=8-x\)。在 \(Rt\triangle ABE\) 中，\(AB^{2}+AE^{2}=BE^{2}\)，即
 
 $$
-16+(8-x)^{2}=x^{2},\quad 16+64-16x=0,\quad x=5.
+16+\left(8-x\right)^{2}=x^{2},\quad 16+64-16x=0,\quad x=5.
 $$
 
 故 \(DE=5\ \text{cm}\)。

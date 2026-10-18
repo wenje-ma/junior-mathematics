@@ -88,7 +88,7 @@ First draw ray $AP$, and cut off $AB=BC=a$ in succession on the ray, so $AC=2a$.
 
 By **Definition 6.2.7** (Midpoint of a Segment), $M$ is the midpoint of $AC$, so $MC=\frac{1}{2}AC$; $N$ is the midpoint of $BC$, so $CN=\frac{1}{2}BC$.
 
-$$MN=MC+CN=\frac{1}{2}AC+\frac{1}{2}BC=\frac{1}{2}(AC+BC)=\frac{1}{2}AB.$$
+$$MN=MC+CN=\frac{1}{2}AC+\frac{1}{2}BC=\frac{1}{2}\left(AC+BC\right)=\frac{1}{2}AB.$$
 
 Since $MN=6$, we have $AB=2\times6=12$. $\blacksquare$
 
@@ -234,7 +234,7 @@ $$MN=MC+CN=4+3=7\ \text{cm}.$$
 
 (2) If $AC+CB=a$, then
 
-$$MN=\frac{1}{2}AC+\frac{1}{2}CB=\frac{1}{2}(AC+CB)=\frac{1}{2}a.$$
+$$MN=\frac{1}{2}AC+\frac{1}{2}CB=\frac{1}{2}\left(AC+CB\right)=\frac{1}{2}a.$$
 
 Hence we conjecture $MN=\frac{1}{2}a\ \text{cm}$. $\blacksquare$
 
@@ -280,7 +280,7 @@ By **Definition 6.2.7** (Midpoint of a Segment).
 
 $M$ is the midpoint of $AC$, so $MC=\frac{1}{2}AC$. $N$ is the midpoint of $BC$, so $NC=\frac{1}{2}BC$. Since $C$ lies on the extension of $AB$,
 
-$$MN=MC-NC=\frac{1}{2}AC-\frac{1}{2}BC=\frac{1}{2}(AC-BC)=\frac{1}{2}AB.$$
+$$MN=MC-NC=\frac{1}{2}AC-\frac{1}{2}BC=\frac{1}{2}\left(AC-BC\right)=\frac{1}{2}AB.$$
 
 Since $MN=5$, we have $AB=2\times5=10\ \text{cm}$. $\blacksquare$
 

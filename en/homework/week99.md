@@ -83,7 +83,7 @@ By the problem, the building \(BC\) is perpendicular to the ground \(AB\), so \(
 By **Theorem 20.1.1**, the building height
 
 $$
-BC=\sqrt{AC^{2}-AB^{2}}=\sqrt{31.9^{2}-23.1^{2}}=\sqrt{(31.9+23.1)(31.9-23.1)}=\sqrt{55\times 8.8}=\sqrt{484}=22\ \text{m}.
+BC=\sqrt{AC^{2}-AB^{2}}=\sqrt{31.9^{2}-23.1^{2}}=\sqrt{\left(31.9+23.1\right)\left(31.9-23.1\right)}=\sqrt{55\times 8.8}=\sqrt{484}=22\ \text{m}.
 $$
 
 The instrument precisely uses the Pythagorean theorem to compute the building height from the difference of the two slant distances.
@@ -301,7 +301,7 @@ Let the water depth be \(x\) chi; then the reed length is \(x+1\) chi. The pond 
 By **Theorem 20.1.1**,
 
 $$
-x^{2}+5^{2}=(x+1)^{2},\quad x^{2}+25=x^{2}+2x+1,\quad x=12.
+x^{2}+5^{2}=\left(x+1\right)^{2},\quad x^{2}+25=x^{2}+2x+1,\quad x=12.
 $$
 
 Therefore the water depth is \(12\) chi and the reed length is \(13\) chi.
@@ -317,7 +317,7 @@ Let \(CD=x\); then \(AD=8-x\). After folding, \(A\) coincides with \(B\), so \(B
 In \(Rt\triangle BCD\), by **Theorem 20.1.1**,
 
 $$
-CD^{2}+BC^{2}=BD^{2},\quad x^{2}+36=(8-x)^{2},
+CD^{2}+BC^{2}=BD^{2},\quad x^{2}+36=\left(8-x\right)^{2},
 $$
 
 $$
@@ -399,7 +399,7 @@ The area of the large square is \(c^{2}\).
 It equals the sum of the areas of the four right triangles and the middle small square:
 
 $$
-c^{2}=4\cdot\frac{1}{2}ab+(b-a)^{2}=2ab+b^{2}-2ab+a^{2}=a^{2}+b^{2}.
+c^{2}=4\cdot\frac{1}{2}ab+\left(b-a\right)^{2}=2ab+b^{2}-2ab+a^{2}=a^{2}+b^{2}.
 $$
 
 Thus \(a^{2}+b^{2}=c^{2}\).

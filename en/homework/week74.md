@@ -140,7 +140,7 @@ $$
 \frac{180^\circ-110^\circ}{2}=35^\circ.
 $$
 
-(2) If the leg is $8$, then the base is $18-2\times 8=2$; if the base is $8$, then both legs are $(18-8)/2=5$. The other two sides have length $8$, $2$ or $5$, $5$. $\blacksquare$
+(2) If the leg is $8$, then the base is $18-2\times 8=2$; if the base is $8$, then both legs are $\left(18-8\right)/2=5$. The other two sides have length $8$, $2$ or $5$, $5$. $\blacksquare$
 
 ### Problem 2
 
@@ -226,7 +226,7 @@ In $\text{Rt}\triangle ABD$, $\angle B=30^\circ$; by **Conclusion 15.3.5** (Righ
 
 ### Solution to Problem 8
 
-$AB=15\times(10-8)=30\ \text{n mile}$. In $\triangle ABC$, $\angle NBC$ is an exterior angle, so $\angle NBC=\angle BAC+\angle C$. From $\angle BAC=\angle NAC=42^\circ$, we get $\angle C=84^\circ-42^\circ=42^\circ$.
+$AB=15\times\left(10-8\right)=30\ \text{n mile}$. In $\triangle ABC$, $\angle NBC$ is an exterior angle, so $\angle NBC=\angle BAC+\angle C$. From $\angle BAC=\angle NAC=42^\circ$, we get $\angle C=84^\circ-42^\circ=42^\circ$.
 
 Hence $\angle C=\angle BAC$; by **Conclusion 15.3.3** (Equal Angles Opposite Equal Sides), $BC=AB=30\ \text{n mile}$. $\blacksquare$
 

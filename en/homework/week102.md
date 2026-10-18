@@ -135,7 +135,7 @@ The broken part is the hypotenuse, and the vertical segment \(x\) and the horizo
 By **Theorem 20.1.1**,
 
 $$
-x^{2}+3^{2}=(10-x)^{2},\quad x^{2}+9=100-20x+x^{2},
+x^{2}+3^{2}=\left(10-x\right)^{2},\quad x^{2}+9=100-20x+x^{2},
 $$
 
 $$
@@ -153,7 +153,7 @@ The ancient Greek philosopher Plato once pointed out that if \(m\) is an integer
 Calculating:
 
 $$
-a^{2}+b^{2}=(2m)^{2}+(m^{2}-1)^{2}=4m^{2}+m^{4}-2m^{2}+1=m^{4}+2m^{2}+1=(m^{2}+1)^{2}=c^{2}.
+a^{2}+b^{2}=\left(2m\right)^{2}+\left(m^{2}-1\right)^{2}=4m^{2}+m^{4}-2m^{2}+1=m^{4}+2m^{2}+1=\left(m^{2}+1\right)^{2}=c^{2}.
 $$
 
 Also \(a,b,c\) are all positive integers, so by **Definition 20.2.1**, \(a,b,c\) is a Pythagorean triple.
@@ -223,7 +223,7 @@ Let the altitude to side \(AC=b\) be \(BD=h\), with foot \(D\); write \(CD=x\); 
 By **Theorem 20.1.1**,
 
 $$
-h^{2}=a^{2}-x^{2},\quad h^{2}=c^{2}-(b-x)^{2}.
+h^{2}=a^{2}-x^{2},\quad h^{2}=c^{2}-\left(b-x\right)^{2}.
 $$
 
 Equating gives \(a^{2}-x^{2}=c^{2}-b^{2}+2bx-x^{2}\), i.e. \(x=\frac{a^{2}+b^{2}-c^{2}}{2b}\).

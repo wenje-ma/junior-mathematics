@@ -14,7 +14,7 @@ By **Conclusion 23.4.1** (Building a Linear Function Model), discuss interval by
 
 When $0 \leq t \leq 2$, $T=20$.
 
-When $2 < t \leq 4$, $T=20+5(t-2)=5t+10$.
+When $2 < t \leq 4$, $T=20+5\left(t-2\right)=5t+10$.
 
 ![week115-1.svg](../../figures/week115-1.svg){width=50%}
 
@@ -30,7 +30,7 @@ $\blacksquare$
 
 ### Solution to Exercise 2
 
-(1) The portion beyond $3\ \text{km}$ is $(x-3)\ \text{km}$, costing $2(x-3)$ yuan; adding the base fare of $9$ yuan gives $y=9+2(x-3)=2x+3$ ($x>3$).
+(1) The portion beyond $3\ \text{km}$ is $\left(x-3\right)\ \text{km}$, costing $2\left(x-3\right)$ yuan; adding the base fare of $9$ yuan gives $y=9+2\left(x-3\right)=2x+3$ ($x>3$).
 
 (2) When $y=23$, $23=2x+3$, so $x=10$. Hence the travel distance is $10\ \text{km}$. $\blacksquare$
 
@@ -56,9 +56,9 @@ When $x<1000$, $y_1>y_2$, so Printer B is the better choice; when $x=1000$, the 
 
 ### Solution to Exercise 4
 
-Let $x$ be the number of model $A$ calculators bought; then $(100-x)$ model $B$ are bought. Budget constraint: $22x+19(100-x) \leq 2000$, i.e. $3x \leq 100$, $x \leq 33$.
+Let $x$ be the number of model $A$ calculators bought; then $\left(100-x\right)$ model $B$ are bought. Budget constraint: $22x+19\left(100-x\right) \leq 2000$, i.e. $3x \leq 100$, $x \leq 33$.
 
-Profit: $W=(32-22)x+(25-19)(100-x)=10x+6(100-x)=4x+600$.
+Profit: $W=\left(32-22\right)x+\left(25-19\right)\left(100-x\right)=10x+6\left(100-x\right)=4x+600$.
 
 By **Conclusion 23.4.2** (Choosing a Plan), $W=4x+600$, with $k=4>0$, so $W$ increases as $x$ increases. Thus profit is maximized at $x=33$, with $W=4\times33+600=732$ yuan.
 
@@ -70,7 +70,7 @@ Purchasing plan: $33$ model $A$ and $67$ model $B$, with maximum profit $732$ yu
 
 ### Solution to Problem 1
 
-Let the monthly income be $y=kx+b$. Substituting $(100, 2800)$ and $(200, 3400)$ gives $k=6$, $b=2200$. Hence $y=6x+2200$.
+Let the monthly income be $y=kx+b$. Substituting $\left(100, 2800\right)$ and $\left(200, 3400\right)$ gives $k=6$, $b=2200$. Hence $y=6x+2200$.
 
 When $y=4600$, $4600=6x+2200$, so $x=400$. Hence $400$ items are sold. $\blacksquare$
 
@@ -80,7 +80,7 @@ When $y=4600$, $4600=6x+2200$, so $x=400$. Hence $400$ items are sold. $\blacksq
 
 ### Solution to Problem 2
 
-The first $3$ pieces are at the original price of $80$ yuan, and the $(x-3)$ pieces beyond $3$ are at a 20% discount, i.e. $64$ yuan. Hence $y=3\times80+64(x-3)=64x+48$ ($x>3$). $\blacksquare$
+The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\right)$ pieces beyond $3$ are at a 20% discount, i.e. $64$ yuan. Hence $y=3\times80+64\left(x-3\right)=64x+48$ ($x>3$). $\blacksquare$
 
 ### Problem 3
 
@@ -92,7 +92,7 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $(x-3)$ pie
 
 ### Solution to Problem 3
 
-(1) The price reduction is $(60-x)$ yuan, so $2(60-x)$ more units are sold; hence $y=100+2(60-x)=220-2x$.
+(1) The price reduction is $\left(60-x\right)$ yuan, so $2\left(60-x\right)$ more units are sold; hence $y=100+2\left(60-x\right)=220-2x$.
 
 (2) When $x=52$, $y=220-2\times52=116$. Total sales revenue is $52\times116=6032$ yuan. $\blacksquare$
 
@@ -106,7 +106,7 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $(x-3)$ pie
 
 ### Solution to Problem 4
 
-(1) When $0 \leq x \leq 240$, $y=0.45x$. When $x>240$, $y=0.45\times240+0.55(x-240)=0.55x-24$.
+(1) When $0 \leq x \leq 240$, $y=0.45x$. When $x>240$, $y=0.45\times240+0.55\left(x-240\right)=0.55x-24$.
 
 (2) When $x=240$, $y=0.45\times240=108$ yuan. Since $141>108$, we have $x>240$. Setting $141=0.55x-24$ gives $x=300$. Hence the consumption is $300\ \text{kW·h}$. $\blacksquare$
 
@@ -128,7 +128,7 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $(x-3)$ pie
 
 (1) From the table, when $x$ increases by $1$, $y$ increases by $2$.
 
-(2) For each definite value of the row number $x$, the number of seats $y$ has a uniquely determined value corresponding to it, so $y$ is a function of $x$. $y=50+2(x-1)=2x+48$.
+(2) For each definite value of the row number $x$, the number of seats $y$ has a uniquely determined value corresponding to it, so $y$ is a function of $x$. $y=50+2\left(x-1\right)=2x+48$.
 
 (3) When $x=20$, $y=2\times20+48=88$. Hence row $20$ has $88$ seats. $\blacksquare$
 
@@ -142,7 +142,7 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $(x-3)$ pie
 
 ### Solution to Problem 6
 
-(1) Store A: $y_1=0.8x$. Store B: when $0 \leq x \leq 200$, $y_2=x$; when $x>200$, $y_2=200+0.7(x-200)=0.7x+60$.
+(1) Store A: $y_1=0.8x$. Store B: when $0 \leq x \leq 200$, $y_2=x$; when $x>200$, $y_2=200+0.7\left(x-200\right)=0.7x+60$.
 
 (2) When $0 \leq x \leq 200$, $y_1=0.8x < x=y_2$, so Store A is cheaper. When $x>200$, setting $0.8x=0.7x+60$ gives $x=600$. When $200<x<600$, $y_1<y_2$, so choose Store A; when $x=600$, the two stores are the same; when $x>600$, $y_1>y_2$, so choose Store B. $\blacksquare$
 

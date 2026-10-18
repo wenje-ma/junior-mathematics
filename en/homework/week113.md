@@ -2,7 +2,7 @@
 
 > **Conclusion 23.2.1** (Graph and Properties of the Direct Proportional Function) <br>The graph of the direct proportional function $y=kx$ ($k$ is a constant, $k \neq 0$) is a straight line passing through the origin. When $k>0$, the line passes through the third and first quadrants, rises from left to right, and $y$ increases as $x$ increases; when $k<0$, the line passes through the second and fourth quadrants, falls from left to right, and $y$ decreases as $x$ increases.
 >
-> **Conclusion 23.2.2** (Graph and Properties of the Linear Function) <br>The graph of the linear function $y=kx+b$ ($k$ and $b$ are constants, $k \neq 0$) is a straight line, obtained by translating the line $y=kx$ by $|b|$ units of length ($b>0$ upward, $b<0$ downward). When $k>0$, $y$ increases as $x$ increases; when $k<0$, $y$ decreases as $x$ increases.
+> **Conclusion 23.2.2** (Graph and Properties of the Linear Function) <br>The graph of the linear function $y=kx+b$ ($k$ and $b$ are constants, $k \neq 0$) is a straight line, obtained by translating the line $y=kx$ by $\left|b\right|$ units of length ($b>0$ upward, $b<0$ downward). When $k>0$, $y$ increases as $x$ increases; when $k<0$, $y$ decreases as $x$ increases.
 >
 > **Conclusion 23.2.3** (Method of Undetermined Coefficients) <br>The method of first setting up the function expression and then, according to the given conditions, determining the unknown coefficients in the expression so as to obtain the function expression is called the method of undetermined coefficients.
 
@@ -18,15 +18,15 @@
 
 By **Conclusion 23.2.1** (Graph and Properties of the Direct Proportional Function), the graph of a direct proportional function is a straight line through the origin, so it suffices to determine one more point in order to draw it.
 
-(1) $y=\frac{3}{2}x$ passes through the origin $(0, 0)$ and the point $(2, 3)$; drawing the straight line through these two points suffices.
+(1) $y=\frac{3}{2}x$ passes through the origin $\left(0, 0\right)$ and the point $\left(2, 3\right)$; drawing the straight line through these two points suffices.
 
 ![week113-1.svg](../../figures/week113-1.svg){width=50%}
 
-(2) $y=-6x$ passes through the origin $(0, 0)$ and the point $(1, -6)$; drawing the straight line through these two points suffices. $\blacksquare$
+(2) $y=-6x$ passes through the origin $\left(0, 0\right)$ and the point $\left(1, -6\right)$; drawing the straight line through these two points suffices. $\blacksquare$
 
 ### Exercise 2
 
-(Exercise 23.2, Problem 2) If both the point $(2, m)$ and the point $(-3, n)$ lie on the graph of $y=kx$ ($k<0$), compare the sizes of $m$ and $n$.
+(Exercise 23.2, Problem 2) If both the point $\left(2, m\right)$ and the point $\left(-3, n\right)$ lie on the graph of $y=kx$ ($k<0$), compare the sizes of $m$ and $n$.
 
 ### Solution to Exercise 2
 
@@ -42,7 +42,7 @@ Since $2 > -3$, and since $y$ decreases as $x$ increases when $k<0$, we have $m 
 
 Set $y=0$, i.e. $2x-3=0$, which gives $x=\frac{3}{2}$; hence the intersection with the $x$-axis is $\left(\frac{3}{2}, 0\right)$.
 
-Set $x=0$; we get $y=-3$, so the intersection with the $y$-axis is $(0, -3)$.
+Set $x=0$; we get $y=-3$, so the intersection with the $y$-axis is $\left(0, -3\right)$.
 
 By **Conclusion 23.2.2** (Graph and Properties of the Linear Function), $k=2>0$ and $b=-3<0$, so the line passes through the first, third and fourth quadrants, and $y$ increases as $x$ increases. $\blacksquare$
 
@@ -60,7 +60,7 @@ By **Conclusion 23.2.2** (Graph and Properties of the Linear Function), $k=2>0$ 
 
 ![week113-2.svg](../../figures/week113-2.svg){width=50%}
 
-(2) The three functions have $k$ equal to $-\frac{1}{2}$, $-1$ and $-2$ respectively, and all have $b$ equal to $-1$. Their graphs all pass through the point $(0, -1)$ on the $y$-axis, but with different slopes; the larger $|k|$ is, the steeper the line. $\blacksquare$
+(2) The three functions have $k$ equal to $-\frac{1}{2}$, $-1$ and $-2$ respectively, and all have $b$ equal to $-1$. Their graphs all pass through the point $\left(0, -1\right)$ on the $y$-axis, but with different slopes; the larger $\left|k\right|$ is, the steeper the line. $\blacksquare$
 
 ### Exercise 5
 
@@ -90,13 +90,13 @@ Solving this system gives $k=2$, $b=3$. Hence the expression of this linear func
 
 ### Exercise 7
 
-(Exercise 23.2, Problem 2) The graph of a linear function passes through the points $(9, 0)$ and $(24, 20)$. Find the expression of this linear function.
+(Exercise 23.2, Problem 2) The graph of a linear function passes through the points $\left(9, 0\right)$ and $\left(24, 20\right)$. Find the expression of this linear function.
 
 ### Solution to Exercise 7
 
 By **Conclusion 23.2.3** (Method of Undetermined Coefficients), let the linear function be $y=kx+b$.
 
-Substituting $(9, 0)$ and $(24, 20)$ respectively gives
+Substituting $\left(9, 0\right)$ and $\left(24, 20\right)$ respectively gives
 
 $$
 9k+b=0,\quad 24k+b=20.
@@ -110,7 +110,7 @@ Subtracting the two equations gives $15k=20$, so $k=\frac{4}{3}$. Substituting i
 
 ### Solution to Exercise 8
 
-From the graph, the line passes through the points $(25, 60)$ and $(30, 90)$. By **Conclusion 23.2.3** (Method of Undetermined Coefficients), let $y=kx+b$.
+From the graph, the line passes through the points $\left(25, 60\right)$ and $\left(30, 90\right)$. By **Conclusion 23.2.3** (Method of Undetermined Coefficients), let $y=kx+b$.
 
 $$
 25k+b=60,\quad 30k+b=90.
@@ -134,13 +134,13 @@ $\blacksquare$
 
 ### Problem 2
 
-(Exercise 23.2, Review and Consolidation, Problem 2) The graph of the function $y=-5x$ passes through the $\;\_\_\;$ quadrants, through the point $(0, \;\_\_\;)$ and the point $(1, \;\_\_\;)$, and $y$ $\;\_\_\;$ as $x$ increases.
+(Exercise 23.2, Review and Consolidation, Problem 2) The graph of the function $y=-5x$ passes through the $\;\_\_\;$ quadrants, through the point $\left(0, \;\_\_\;\right)$ and the point $\left(1, \;\_\_\;\right)$, and $y$ $\;\_\_\;$ as $x$ increases.
 
 ### Solution to Problem 2
 
 By **Conclusion 23.2.1** (Graph and Properties of the Direct Proportional Function), $k=-5<0$, so the graph passes through the second and fourth quadrants.
 
-It passes through the point $(0, 0)$ and the point $(1, -5)$, and $y$ decreases as $x$ increases. $\blacksquare$
+It passes through the point $\left(0, 0\right)$ and the point $\left(1, -5\right)$, and $y$ decreases as $x$ increases. $\blacksquare$
 
 ### Problem 3
 
@@ -166,19 +166,19 @@ $\blacksquare$
 
 ### Solution to Problem 4
 
-From the graph, the line passes through the points $(0, -3)$ and $(1, 2)$. By **Conclusion 23.2.3** (Method of Undetermined Coefficients), let $y=kx+b$.
+From the graph, the line passes through the points $\left(0, -3\right)$ and $\left(1, 2\right)$. By **Conclusion 23.2.3** (Method of Undetermined Coefficients), let $y=kx+b$.
 
 $b=-3$, $k-3=2$, so $k=5$. Hence the function expression is $y=5x-3$. $\blacksquare$
 
 ### Problem 5
 
-(Exercise 23.2, Review and Consolidation, Problem 5) The graph of a linear function passes through the points $(-4, 9)$ and $(6, 4)$.
+(Exercise 23.2, Review and Consolidation, Problem 5) The graph of a linear function passes through the points $\left(-4, 9\right)$ and $\left(6, 4\right)$.
 
 (1) Find the expression of this linear function;
 
 (2) Draw the graph of this linear function;
 
-(3) Determine whether the point $(2, 5)$ lies on the graph of this linear function, and explain why.
+(3) Determine whether the point $\left(2, 5\right)$ lies on the graph of this linear function, and explain why.
 
 ### Solution to Problem 5
 
@@ -190,11 +190,11 @@ $$
 
 Subtracting the two equations gives $10k=-5$, so $k=-\frac{1}{2}$. Substituting into $-4k+b=9$ gives $b=7$. Hence the expression is $y=-\frac{1}{2}x+7$.
 
-(2) The graph is the straight line through $(-4, 9)$ and $(6, 4)$.
+(2) The graph is the straight line through $\left(-4, 9\right)$ and $\left(6, 4\right)$.
 
 ![week113-5.svg](../../figures/week113-5.svg){width=50%}
 
-(3) Substituting $x=2$ into $y=-\frac{1}{2}x+7$ gives $y=-\frac{1}{2}\times2+7=6 \neq 5$. Hence the point $(2, 5)$ does not lie on the graph. $\blacksquare$
+(3) Substituting $x=2$ into $y=-\frac{1}{2}x+7$ gives $y=-\frac{1}{2}\times2+7=6 \neq 5$. Hence the point $\left(2, 5\right)$ does not lie on the graph. $\blacksquare$
 
 ### Problem 6
 
@@ -210,7 +210,7 @@ Translating downward by $3$ units of length gives $y=-2x+1-3=-2x-2$. $\blacksqua
 
 ### Problem 7
 
-(Exercise 23.2, Comprehensive Application, Problem 7) Given that $(-1.3, y_1)$, $(-3, y_2)$ and $(2, y_3)$ are three points on the line $y=-\frac{1}{3}x+b$ ($b$ is a constant), compare the sizes of $y_1$, $y_2$ and $y_3$.
+(Exercise 23.2, Comprehensive Application, Problem 7) Given that $\left(-1.3, y_1\right)$, $\left(-3, y_2\right)$ and $\left(2, y_3\right)$ are three points on the line $y=-\frac{1}{3}x+b$ ($b$ is a constant), compare the sizes of $y_1$, $y_2$ and $y_3$.
 
 ### Solution to Problem 7
 
@@ -248,9 +248,9 @@ Since $-3 < -1.3 < 2$, we have $y_2 > y_1 > y_3$. $\blacksquare$
 
 ### Solution to Problem 9
 
-(1) When $0 \leq x \leq 15$, the line passes through the origin and the point $(15, 45)$, so $y=3x$.
+(1) When $0 \leq x \leq 15$, the line passes through the origin and the point $\left(15, 45\right)$, so $y=3x$.
 
-When $x>15$, the line passes through the points $(15, 45)$ and $(20, 60)$; by **Conclusion 23.2.3** (Method of Undetermined Coefficients), $k=\frac{60-45}{20-15}=3$, $b=45-3\times15=0$... actually, from the data points $(15, 45)$ and $(20, 90)$ in the figure we see $k=\frac{90-45}{20-15}=9$, $b=45-9\times15=-90$, so $y=9x-90$.
+When $x>15$, the line passes through the points $\left(15, 45\right)$ and $\left(20, 60\right)$; by **Conclusion 23.2.3** (Method of Undetermined Coefficients), $k=\frac{60-45}{20-15}=3$, $b=45-3\times15=0$... actually, from the data points $\left(15, 45\right)$ and $\left(20, 90\right)$ in the figure we see $k=\frac{90-45}{20-15}=9$, $b=45-9\times15=-90$, so $y=9x-90$.
 
 (2) When $x=9$, $0 \leq 9 \leq 15$, so $y=3\times9=27$ yuan.
 
@@ -266,12 +266,12 @@ When $y=102$, $102=9x-90$, so $x=21.33$. Hence about $21.3\ \text{t}$ of water w
 
 ### Solution to Problem 10
 
-(1) By **Definition 23.1.2** (Direct Proportional Function), let $y=k(x+b)$.
+(1) By **Definition 23.1.2** (Direct Proportional Function), let $y=k\left(x+b\right)$.
 
-Substituting $x=-3$, $y=0$: $0=k(-3+b)$. Substituting $x=2$, $y=-10$: $-10=k(2+b)$.
+Substituting $x=-3$, $y=0$: $0=k\left(-3+b\right)$. Substituting $x=2$, $y=-10$: $-10=k\left(2+b\right)$.
 
-From the first equation, since $k \neq 0$, we have $-3+b=0$, i.e. $b=3$. Substituting into the second equation, $-10=k(2+3)=5k$, so $k=-2$.
+From the first equation, since $k \neq 0$, we have $-3+b=0$, i.e. $b=3$. Substituting into the second equation, $-10=k\left(2+3\right)=5k$, so $k=-2$.
 
-Hence $y=-2(x+3)=-2x-6$.
+Hence $y=-2\left(x+3\right)=-2x-6$.
 
 (2) When $-4 < y < 2$, we have $-4 < -2x-6 < 2$, i.e. $2 < -2x < 8$, which gives $-4 < x < -1$. $\blacksquare$

@@ -88,7 +88,7 @@ $\blacksquare$
 
 由**定义 6.2.7** (线段的中点), $M$ 是 $AC$ 的中点, 故 $MC=\frac{1}{2}AC$; $N$ 是 $BC$ 的中点, 故 $CN=\frac{1}{2}BC$.
 
-$$MN=MC+CN=\frac{1}{2}AC+\frac{1}{2}BC=\frac{1}{2}(AC+BC)=\frac{1}{2}AB.$$
+$$MN=MC+CN=\frac{1}{2}AC+\frac{1}{2}BC=\frac{1}{2}\left(AC+BC\right)=\frac{1}{2}AB.$$
 
 因 $MN=6$, 故 $AB=2\times6=12$. $\blacksquare$
 
@@ -234,7 +234,7 @@ $$MN=MC+CN=4+3=7\ \text{cm}.$$
 
 (2) 若 $AC+CB=a$, 则
 
-$$MN=\frac{1}{2}AC+\frac{1}{2}CB=\frac{1}{2}(AC+CB)=\frac{1}{2}a.$$
+$$MN=\frac{1}{2}AC+\frac{1}{2}CB=\frac{1}{2}\left(AC+CB\right)=\frac{1}{2}a.$$
 
 故猜想 $MN=\frac{1}{2}a\ \text{cm}$. $\blacksquare$
 
@@ -280,7 +280,7 @@ $$DC=AD+AB+BC=\frac{1}{2}x+x+\frac{1}{2}x=2x.$$
 
 $M$ 是 $AC$ 的中点, 故 $MC=\frac{1}{2}AC$. $N$ 是 $BC$ 的中点, 故 $NC=\frac{1}{2}BC$. 因 $C$ 在 $AB$ 的延长线上,
 
-$$MN=MC-NC=\frac{1}{2}AC-\frac{1}{2}BC=\frac{1}{2}(AC-BC)=\frac{1}{2}AB.$$
+$$MN=MC-NC=\frac{1}{2}AC-\frac{1}{2}BC=\frac{1}{2}\left(AC-BC\right)=\frac{1}{2}AB.$$
 
 因 $MN=5$, 故 $AB=2\times5=10\ \text{cm}$. $\blacksquare$
 

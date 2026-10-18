@@ -12,10 +12,10 @@
 
 ### Solution to Review Problem 1
 
-Last year's spending was $1500$ ten-thousand yuan; this year it is $1500(1+x)$; next year it grows again on this year's basis, hence
+Last year's spending was $1500$ ten-thousand yuan; this year it is $1500\left(1+x\right)$; next year it grows again on this year's basis, hence
 
 $$
-y=1500(1+x)^2.
+y=1500\left(1+x\right)^2.
 $$
 
 Expanding gives $y=1500x^2+3000x+1500$. $\blacksquare$
@@ -26,17 +26,17 @@ Expanding gives $y=1500x^2+3000x+1500$. $\blacksquare$
 
 (1) Which of the following points lies on the parabola $y=x^2-4x-4$? ( )
 
-(A) $(4,4)$　(B) $(3,-1)$　(C) $(-2,-8)$　(D) $\left(-\frac12,-\frac74\right)$
+(A) $\left(4,4\right)$　(B) $\left(3,-1\right)$　(C) $\left(-2,-8\right)$　(D) $\left(-\frac12,-\frac74\right)$
 
 (2) Which of the following parabolas has axis of symmetry $x=-2$? ( )
 
-(A) $y=-2x^2-2$　(B) $y=2x^2-2$　(C) $y=-\frac12(x+2)^2$　(D) $y=2(x-2)^2$
+(A) $y=-2x^2-2$　(B) $y=2x^2-2$　(C) $y=-\frac12\left(x+2\right)^2$　(D) $y=2\left(x-2\right)^2$
 
 ### Solution to Review Problem 2
 
 (1) Substitute each point's horizontal coordinate. For (D), at $x=-\frac12$, $y=\frac14-4\left(-\frac12\right)-4=\frac14+2-4=-\frac74$, matching the vertical coordinate. Hence choose (D).
 
-(2) By **Conclusion 26.2.3**, $y=a(x-h)^2$ has axis of symmetry $x=h$. Among the options, only (C) $y=-\frac12(x+2)^2=-\frac12(x-(-2))^2$ has axis of symmetry $x=-2$. Hence choose (C). $\blacksquare$
+(2) By **Conclusion 26.2.3**, $y=a\left(x-h\right)^2$ has axis of symmetry $x=h$. Among the options, only (C) $y=-\frac12\left(x+2\right)^2=-\frac12\left(x-\left(-2\right)\right)^2$ has axis of symmetry $x=-2$. Hence choose (C). $\blacksquare$
 
 ### Review Problem 3
 
@@ -46,7 +46,7 @@ Expanding gives $y=1500x^2+3000x+1500$. $\blacksquare$
 
 (2) $y=-2x^2-3$;
 
-(3) $y=\frac14(x+2)^2$;
+(3) $y=\frac14\left(x+2\right)^2$;
 
 (4) $y=-\frac12\left(x+\frac32\right)^2-1$.
 
@@ -56,11 +56,11 @@ Expanding gives $y=1500x^2+3000x+1500$. $\blacksquare$
 
 By **Conclusion 26.2.1** and **Conclusion 26.2.3**.
 
-(1) $a=\frac15>0$, opens upward; axis of symmetry $x=0$; vertex $(0,0)$.
+(1) $a=\frac15>0$, opens upward; axis of symmetry $x=0$; vertex $\left(0,0\right)$.
 
-(2) $a=-2<0$, opens downward; axis of symmetry $x=0$; vertex $(0,-3)$.
+(2) $a=-2<0$, opens downward; axis of symmetry $x=0$; vertex $\left(0,-3\right)$.
 
-(3) $a=\frac14>0$, opens upward; axis of symmetry $x=-2$; vertex $(-2,0)$.
+(3) $a=\frac14>0$, opens upward; axis of symmetry $x=-2$; vertex $\left(-2,0\right)$.
 
 (4) $a=-\frac12<0$, opens downward; axis of symmetry $x=-\frac32$; vertex $\left(-\frac32,-1\right)$.
 
@@ -84,13 +84,13 @@ The graphs are as shown. $\blacksquare$
 
 By **Conclusion 26.2.4**, find the axis of symmetry and vertex.
 
-(1) $a=1$, $b=2$; axis of symmetry $x=-1$; vertex $(-1,-4)$; opens upward.
+(1) $a=1$, $b=2$; axis of symmetry $x=-1$; vertex $\left(-1,-4\right)$; opens upward.
 
-(2) $a=-1$, $b=6$; axis of symmetry $x=3$; vertex $(3,10)$; opens downward.
+(2) $a=-1$, $b=6$; axis of symmetry $x=3$; vertex $\left(3,10\right)$; opens downward.
 
-(3) $a=\frac12$, $b=2$; axis of symmetry $x=-2$; vertex $(-2,-1)$; opens upward.
+(3) $a=\frac12$, $b=2$; axis of symmetry $x=-2$; vertex $\left(-2,-1\right)$; opens upward.
 
-(4) $a=-\frac14$, $b=1$; axis of symmetry $x=2$; vertex $(2,-3)$; opens downward.
+(4) $a=-\frac14$, $b=1$; axis of symmetry $x=2$; vertex $\left(2,-3\right)$; opens downward.
 
 The graphs are as shown. $\blacksquare$
 
@@ -106,9 +106,9 @@ The graphs are as shown. $\blacksquare$
 
 By **Conclusion 26.2.4**, the extremum is taken at the vertex.
 
-(1) $a=1>0$; when $x=-\frac32$, the minimum $\frac{4\cdot1\cdot(-1)-9}{4}=-\frac{13}{4}$ is taken.
+(1) $a=1>0$; when $x=-\frac32$, the minimum $\frac{4\cdot1\cdot\left(-1\right)-9}{4}=-\frac{13}{4}$ is taken.
 
-(2) $a=-2<0$; when $x=-\frac{-6}{2(-2)}=-\frac32$, the maximum $\frac{4(-2)\cdot5-36}{4(-2)}=\frac{-40-36}{-8}=\frac{19}2$ is taken. $\blacksquare$
+(2) $a=-2<0$; when $x=-\frac{-6}{2\left(-2\right)}=-\frac32$, the maximum $\frac{4\left(-2\right)\cdot5-36}{4\left(-2\right)}=\frac{-40-36}{-8}=\frac{19}2$ is taken. $\blacksquare$
 
 ### Review Problem 6
 
@@ -136,7 +136,7 @@ By **Conclusion 26.3.1**, use the quadratic formula to find the roots.
 
 ### Solution to Review Problem 7
 
-(1) The starting height is $h=1$; setting $h=1$ gives $-5t^2+12t+1=1$, i.e. $t(-5t+12)=0$, solving $t=0$ (at ejection) or $t=\frac{12}5=2.4\ \text{s}$. Hence it takes $2.4\ \text{s}$ to fall back to the starting height.
+(1) The starting height is $h=1$; setting $h=1$ gives $-5t^2+12t+1=1$, i.e. $t\left(-5t+12\right)=0$, solving $t=0$ (at ejection) or $t=\frac{12}5=2.4\ \text{s}$. Hence it takes $2.4\ \text{s}$ to fall back to the starting height.
 
 (2) By **Conclusion 26.2.4**, $a=-5<0$; the maximum is taken at $t=\frac{12}{10}=1.2$, with $h_{\max}=-5\times1.2^2+12\times1.2+1=8.2\ \text{m}$. $\blacksquare$
 
@@ -155,7 +155,7 @@ $$
 The last $4\ \text{s}$ is from $t=16$ to $t=20$, and the distance taxied is
 
 $$
-y(20)-y(16)=600-(60\times16-1.5\times256)=600-576=24\ \text{m}.
+y\left(20\right)-y\left(16\right)=600-\left(60\times16-1.5\times256\right)=600-576=24\ \text{m}.
 $$
 
 Hence after landing it taxis $600\ \text{m}$ to a stop, and taxis $24\ \text{m}$ in the last $4\ \text{s}$. $\blacksquare$
@@ -168,10 +168,10 @@ Hence after landing it taxis $600\ \text{m}$ to a stop, and taxis $24\ \text{m}$
 
 ### Solution to Review Problem 9
 
-Let $AE=x$; by symmetry, the four corner right triangles are congruent, with legs $x$ and $12-x$. The square of the side of small square $EFGH$ is $x^2+(12-x)^2$, and its area is
+Let $AE=x$; by symmetry, the four corner right triangles are congruent, with legs $x$ and $12-x$. The square of the side of small square $EFGH$ is $x^2+\left(12-x\right)^2$, and its area is
 
 $$
-S=x^2+(12-x)^2=2x^2-24x+144.
+S=x^2+\left(12-x\right)^2=2x^2-24x+144.
 $$
 
 By **Conclusion 26.2.4**, $a=2>0$; the minimum is taken at $x=\frac{24}{4}=6$, with $S_{\min}=36$. Hence when $E$ is the midpoint of side $AB$, the area of square $EFGH$ is minimized. $\blacksquare$
@@ -184,7 +184,7 @@ By **Conclusion 26.2.4**, $a=2>0$; the minimum is taken at $x=\frac{24}{4}=6$, w
 
 Let $AB$ be perpendicular to the wall, with length $x$; the fence consists of three sides in the $AB$ direction and one side in the $BC$ direction, hence $3x+BC=33$, i.e. $BC=33-3x$. The wall is $12\ \text{m}$ long, so $BC\le12$, i.e. $x\ge7$.
 
-The area is $S=x(33-3x)=-3x^2+33x$. By **Conclusion 26.2.4**, the vertex is at $x=\frac{33}{6}=5.5$; since $x\ge7$ lies to the right of the vertex, $S$ decreases as $x$ increases. Hence the maximum is at $x=7$, with $BC=33-21=12$ and maximum area $S=7\times12=84\ \text{m}^2$. That is, $AB=7\ \text{m}$, $BC=12\ \text{m}$. $\blacksquare$
+The area is $S=x\left(33-3x\right)=-3x^2+33x$. By **Conclusion 26.2.4**, the vertex is at $x=\frac{33}{6}=5.5$; since $x\ge7$ lies to the right of the vertex, $S$ decreases as $x$ increases. Hence the maximum is at $x=7$, with $BC=33-21=12$ and maximum area $S=7\times12=84\ \text{m}^2$. That is, $AB=7\ \text{m}$, $BC=12\ \text{m}$. $\blacksquare$
 
 ### Review Problem 11
 
@@ -198,17 +198,17 @@ The area is $S=x(33-3x)=-3x^2+33x$. By **Conclusion 26.2.4**, the vertex is at $
 
 ### Solution to Review Problem 11
 
-(1) After increasing price by $x$ yuan, profit per unit is $(50+x-35)=(15+x)$ yuan, and monthly sales volume is $(210-7x)$ units, hence
+(1) After increasing price by $x$ yuan, profit per unit is $\left(50+x-35\right)=\left(15+x\right)$ yuan, and monthly sales volume is $\left(210-7x\right)$ units, hence
 
 $$
-y=(15+x)(210-7x)=-7x^2+105x+3150,
+y=\left(15+x\right)\left(210-7x\right)=-7x^2+105x+3150,
 $$
 
 where $0\le x\le20$ (price not above $70$ yuan, i.e. $x\le20$).
 
 (2) By **Conclusion 26.2.4**, the vertex is at $x=\frac{105}{14}=7.5$; since $x$ is a positive integer, take $x=7$ or $x=8$. Then $y=22\times161=3542$ or $23\times154=3542$. Hence monthly profit is maximized at price $57$ yuan or $58$ yuan, with maximum $3542$ yuan.
 
-(3) Setting $y=3500$ gives $-7x^2+105x+3150=3500$, i.e. $x^2-15x+50=0$, i.e. $(x-5)(x-10)=0$, solving $x=5$ or $x=10$, corresponding to prices $55$ yuan or $60$ yuan. Since the parabola opens downward, monthly profit is at least $3500$ yuan when $55\le$ price $\le60$. $\blacksquare$
+(3) Setting $y=3500$ gives $-7x^2+105x+3150=3500$, i.e. $x^2-15x+50=0$, i.e. $\left(x-5\right)\left(x-10\right)=0$, solving $x=5$ or $x=10$, corresponding to prices $55$ yuan or $60$ yuan. Since the parabola opens downward, monthly profit is at least $3500$ yuan when $55\le$ price $\le60$. $\blacksquare$
 
 ### Review Problem 12
 
@@ -226,14 +226,14 @@ By **Conclusion 26.2.4**, $ab$ is maximized when $a=b$ (for fixed sum, product i
 
 ### Review Problem 13
 
-(Review, Extension and Exploration, Problem 13) A route's length is measured $n$ times, giving $x_1,x_2,\cdots,x_n$. Using $x$ as an approximation, for what value of $x$ is $(x-x_1)^2+(x-x_2)^2+\cdots+(x-x_n)^2$ minimized? Which common statistic is this value?
+(Review, Extension and Exploration, Problem 13) A route's length is measured $n$ times, giving $x_1,x_2,\cdots,x_n$. Using $x$ as an approximation, for what value of $x$ is $\left(x-x_1\right)^2+\left(x-x_2\right)^2+\cdots+\left(x-x_n\right)^2$ minimized? Which common statistic is this value?
 
 ### Solution to Review Problem 13
 
 Expanding,
 
 $$
-S=\sum_{i=1}^n(x-x_i)^2=nx^2-2x\sum_{i=1}^n x_i+\sum_{i=1}^n x_i^2.
+S=\sum_{i=1}^n\left(x-x_i\right)^2=nx^2-2x\sum_{i=1}^n x_i+\sum_{i=1}^n x_i^2.
 $$
 
 This is a quadratic function in $x$, with $n>0$ opening upward. By **Conclusion 26.2.4**, when

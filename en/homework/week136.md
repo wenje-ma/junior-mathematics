@@ -8,17 +8,17 @@
 
 ### Solution to Exercise 1
 
-Let the side perpendicular to the wall be $x\ \text{m}$; then the side parallel to the wall is $(20-2x)\ \text{m}$. The area is $S=x(20-2x)=-2x^2+20x$. The wall is $8\ \text{m}$ long, so $20-2x\le8$, i.e. $x\ge6$; also $x>0$, hence $x\ge6$.
+Let the side perpendicular to the wall be $x\ \text{m}$; then the side parallel to the wall is $\left(20-2x\right)\ \text{m}$. The area is $S=x\left(20-2x\right)=-2x^2+20x$. The wall is $8\ \text{m}$ long, so $20-2x\le8$, i.e. $x\ge6$; also $x>0$, hence $x\ge6$.
 
-By **Conclusion 26.2.4**, this parabola opens downward, with vertex at $x=-\frac{20}{2(-2)}=5$; since $x\ge6$ lies to the right of the vertex, $S$ decreases as $x$ increases. Hence $S$ is maximized when $x=6$; the side parallel to the wall is $20-12=8\ \text{m}$, and the maximum area is $S=6\times8=48\ \text{m}^2$. $\blacksquare$
+By **Conclusion 26.2.4**, this parabola opens downward, with vertex at $x=-\frac{20}{2\left(-2\right)}=5$; since $x\ge6$ lies to the right of the vertex, $S$ decreases as $x$ increases. Hence $S$ is maximized when $x=6$; the side parallel to the wall is $20-12=8\ \text{m}$, and the maximum area is $S=6\times8=48\ \text{m}^2$. $\blacksquare$
 
 ### Exercise 2
 
-(Exercise 26.4, Problem 2) A ball is thrown vertically upward from the ground; its height $h$ (in $\text{m}$) and time of motion $t$ (in $\text{s}$) are approximately related by $h=30t-5t^2\ (0\le t\le6)$. At what time is the ball highest? What is the maximum height?
+(Exercise 26.4, Problem 2) A ball is thrown vertically upward from the ground; its height $h$ (in $\text{m}$) and time of motion $t$ (in $\text{s}$) are approximately related by $h=30t-5t^2\ \left(0\le t\le6\right)$. At what time is the ball highest? What is the maximum height?
 
 ### Solution to Exercise 2
 
-By **Conclusion 26.2.4**, $a=-5<0$, opens downward; the maximum is taken at $t=-\frac{30}{2(-5)}=3$, at which
+By **Conclusion 26.2.4**, $a=-5<0$, opens downward; the maximum is taken at $t=-\frac{30}{2\left(-5\right)}=3$, at which
 
 $$
 h_{\max}=30\times3-5\times9=90-45=45\ \text{m}.
@@ -32,13 +32,13 @@ Hence the ball is highest at $3\ \text{s}$, with maximum height $45\ \text{m}$. 
 
 ### Solution to Exercise 3
 
-Let $x$ be the number added beyond $20$; then the group size is $20+x$, and each person pays $(2100-30x)$ yuan. The revenue is
+Let $x$ be the number added beyond $20$; then the group size is $20+x$, and each person pays $\left(2100-30x\right)$ yuan. The revenue is
 
 $$
-y=(20+x)(2100-30x)=-30x^2+1500x+42000.
+y=\left(20+x\right)\left(2100-30x\right)=-30x^2+1500x+42000.
 $$
 
-By **Conclusion 26.2.4**, $a=-30<0$; the maximum is taken at $x=-\frac{1500}{2(-30)}=25$. The group size is then $20+25=45$, and the maximum revenue is
+By **Conclusion 26.2.4**, $a=-30<0$; the maximum is taken at $x=-\frac{1500}{2\left(-30\right)}=25$. The group size is then $20+25=45$, and the maximum revenue is
 
 $$
 y=-30\times25^2+1500\times25+42000=60750\ \text{元}.
@@ -55,10 +55,10 @@ Hence revenue is maximized at group size $45$, with maximum $60750$ yuan. $\blac
 Let the output be $x$ units; then the actual unit price is $\left(50-\frac x8\right)$ yuan. Profit equals revenue minus cost:
 
 $$
-y=x\left(50-\frac x8\right)-(500+10x)=40x-\frac18x^2-500.
+y=x\left(50-\frac x8\right)-\left(500+10x\right)=40x-\frac18x^2-500.
 $$
 
-By **Conclusion 26.2.4**, $a=-\frac18<0$; the maximum is taken at $x=-\frac{40}{2(-1/8)}=160$, at which
+By **Conclusion 26.2.4**, $a=-\frac18<0$; the maximum is taken at $x=-\frac{40}{2\left(-1/8\right)}=160$, at which
 
 $$
 y=40\times160-\frac{160^2}{8}-500=6400-3200-500=2700\ \text{元}.
@@ -81,7 +81,7 @@ $$
 i.e. $\frac15x^2=0.8$, $x^2=4$; taking the hoop on the right side of the axis, $x=2$. The release point is $3.2\ \text{m}$ to the left of the axis, i.e. $x=-3.2$. Hence the horizontal distance from the player to the point below the hoop is
 
 $$
-l=2-(-3.2)=5.2\ \text{m}. \blacksquare
+l=2-\left(-3.2\right)=5.2\ \text{m}. \blacksquare
 $$
 
 ### Exercise 6
@@ -100,7 +100,7 @@ The boat is $4\ \text{m}$ wide, so its edges are at $x=\pm2$. The arch at $x=2$ 
 
 ### Solution to Problem 1
 
-By **Conclusion 26.2.4**, $a=-5<0$; the maximum is taken at $t=-\frac{3.6}{2(-5)}=0.36$,
+By **Conclusion 26.2.4**, $a=-5<0$; the maximum is taken at $t=-\frac{3.6}{2\left(-5\right)}=0.36$,
 
 $$
 y_{\max}=-5\times0.36^2+3.6\times0.36=0.648\ \text{m}.
@@ -114,7 +114,7 @@ Hence at the highest point his feet are $0.648\ \text{m}$ off the ground. $\blac
 
 ### Solution to Problem 2
 
-The car stops when its velocity is zero, i.e. when the distance reaches its maximum, corresponding to the vertex of the parabola. By **Conclusion 26.2.4**, $a=-6<0$; the maximum is taken at $t=-\frac{15}{2(-6)}=1.25$,
+The car stops when its velocity is zero, i.e. when the distance reaches its maximum, corresponding to the vertex of the parabola. By **Conclusion 26.2.4**, $a=-6<0$; the maximum is taken at $t=-\frac{15}{2\left(-6\right)}=1.25$,
 
 $$
 l_{\max}=15\times1.25-6\times1.25^2=9.375\ \text{m}.
@@ -192,10 +192,10 @@ By **Conclusion 26.2.4**, the maximum is taken at $x=\frac{6}{2/\sqrt3}=\frac{3\
 
 ### Solution to Problem 7
 
-Let the room rate increase by $10x$ yuan; then the rate is $(180+10x)$ yuan and the number of occupied rooms is $(50-x)$. The profit per room is $(180+10x-20)$ yuan, and the total profit is
+Let the room rate increase by $10x$ yuan; then the rate is $\left(180+10x\right)$ yuan and the number of occupied rooms is $\left(50-x\right)$. The profit per room is $\left(180+10x-20\right)$ yuan, and the total profit is
 
 $$
-y=(160+10x)(50-x)=-10x^2+340x+8000.
+y=\left(160+10x\right)\left(50-x\right)=-10x^2+340x+8000.
 $$
 
 By **Conclusion 26.2.4**, $a=-10<0$; the maximum is taken at $x=\frac{340}{20}=17$, at which the rate is $180+10\times17=350$ yuan/day. Hence profit is maximized at a room rate of $350$ yuan/day. $\blacksquare$
@@ -214,17 +214,17 @@ By **Conclusion 26.2.4**, $a=-10<0$; the maximum is taken at $x=\frac{340}{20}=1
 
 ### Solution to Problem 8
 
-(1) At price $x$ yuan/kg, monthly sales volume is $500-10(x-50)=1000-10x$, and profit per kilogram is $(x-40)$ yuan, hence
+(1) At price $x$ yuan/kg, monthly sales volume is $500-10\left(x-50\right)=1000-10x$, and profit per kilogram is $\left(x-40\right)$ yuan, hence
 
 $$
-y=(x-40)(1000-10x)=-10x^2+1400x-40000.
+y=\left(x-40\right)\left(1000-10x\right)=-10x^2+1400x-40000.
 $$
 
-(2) At $x=55$, sales volume is $1000-550=450\ \text{kg}$, and profit is $y=(55-40)\times450=6750$ yuan.
+(2) At $x=55$, sales volume is $1000-550=450\ \text{kg}$, and profit is $y=\left(55-40\right)\times450=6750$ yuan.
 
-(3) Setting $y=8000$ gives $(x-40)(1000-10x)=8000$; rearranging gives $x^2-140x+4800=0$, i.e. $(x-60)(x-80)=0$, hence $x=60$ or $x=80$.
+(3) Setting $y=8000$ gives $\left(x-40\right)\left(1000-10x\right)=8000$; rearranging gives $x^2-140x+4800=0$, i.e. $\left(x-60\right)\left(x-80\right)=0$, hence $x=60$ or $x=80$.
 
-(4) By **Conclusion 26.2.4**, $a=-10<0$; the maximum is taken at $x=\frac{1400}{20}=70$, with $y_{\max}=(70-40)(1000-700)=9000$ yuan. Hence profit is maximized at price $70$ yuan/kg, with maximum $9000$ yuan. $\blacksquare$
+(4) By **Conclusion 26.2.4**, $a=-10<0$; the maximum is taken at $x=\frac{1400}{20}=70$, with $y_{\max}=\left(70-40\right)\left(1000-700\right)=9000$ yuan. Hence profit is maximized at price $70$ yuan/kg, with maximum $9000$ yuan. $\blacksquare$
 
 ### Problem 9
 
@@ -232,7 +232,7 @@ $$
 
 ### Solution to Problem 9
 
-Take the large arch's vertex as the origin and its axis of symmetry as the $y$-axis, with parabola $y=ax^2$. At normal water level the surface is at $y=-8$, spanning $20\ \text{m}$ and passing through $(10,-8)$; hence $-8=a\cdot100$, giving $a=-\frac2{25}$, i.e. $y=-\frac2{25}x^2$.
+Take the large arch's vertex as the origin and its axis of symmetry as the $y$-axis, with parabola $y=ax^2$. At normal water level the surface is at $y=-8$, spanning $20\ \text{m}$ and passing through $\left(10,-8\right)$; hence $-8=a\cdot100$, giving $a=-\frac2{25}$, i.e. $y=-\frac2{25}x^2$.
 
 When the water rises just to submerge the small arches, it has risen $5\ \text{m}$, so the surface is at $y=-8+5=-3$. Setting $y=-3$ gives $-3=-\frac2{25}x^2$, $x^2=\frac{75}2$, $x=\pm\sqrt{37.5}\approx\pm6.12$. Hence the large arch's water-surface width is about $2\times6.12=12.2\ \text{m}$. $\blacksquare$
 

@@ -1,6 +1,6 @@
 # 作业 131
 
-> **结论 25.2.5** (根与系数的关系) <br>如果一元二次方程 $ax^2+bx+c=0\ (a\ne0)$ 的两个根为 $x_1,x_2$, 那么 $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$.
+> **结论 25.2.5** (根与系数的关系) <br>如果一元二次方程 $ax^2+bx+c=0\ \left(a\ne0\right)$ 的两个根为 $x_1,x_2$, 那么 $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$.
 >
 > **定义 25.1.3** (一元二次方程的根) <br>使一元二次方程左右两边相等的未知数的值, 就是这个一元二次方程的根.
 
@@ -25,7 +25,7 @@ $$
 三式相加, 得
 
 $$
-(a+b+c)(r^2+r+1)=0.
+\left(a+b+c\right)\left(r^2+r+1\right)=0.
 $$
 
 对任意实数 $r$, $r^2+r+1=\left(r+\frac12\right)^2+\frac34>0$, 故必有
@@ -49,10 +49,10 @@ $$
 由 $\frac1a+\frac1b=\frac1c$, 左边通分, 得 $\frac{a+b}{ab}=\frac1c$, 即
 
 $$
-c(a+b)=ab.
+c\left(a+b\right)=ab.
 $$
 
-把 $a=b+c$ 代入, 得 $c(b+c+b)=(b+c)b$, 即 $c(2b+c)=b^2+bc$. 展开、整理, 得
+把 $a=b+c$ 代入, 得 $c\left(b+c+b\right)=\left(b+c\right)b$, 即 $c\left(2b+c\right)=b^2+bc$. 展开、整理, 得
 
 $$
 c^2+bc-b^2=0.

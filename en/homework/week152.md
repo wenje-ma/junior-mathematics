@@ -6,7 +6,7 @@
 >
 > **Definition 29.3.1** (Generatrix of a Cone) <br>The segment joining the vertex of a cone to any point on the circumference of its base is called the generatrix of the cone.
 >
-> **Formula 29.3.3** (Lateral and Total Surface Area of a Cone) <br>If the generatrix length of a cone is $l$ and the base radius is $r$, then the lateral area is $\pi rl$ and the total surface area is $\pi r(r+l)$.
+> **Formula 29.3.3** (Lateral and Total Surface Area of a Cone) <br>If the generatrix length of a cone is $l$ and the base radius is $r$, then the lateral area is $\pi rl$ and the total surface area is $\pi r\left(r+l\right)$.
 
 ### Exercise 1
 
@@ -43,13 +43,13 @@ By **Formula 29.3.2** (Sector Area Formula).
 All three sectors have central angle $60^\circ$ and radius $\frac{a}{2}$. The sum of the areas of the three sectors is
 
 $$
-3\cdot\frac{60\pi (a/2)^2}{360}=\frac{\pi a^2}{8}.
+3\cdot\frac{60\pi \left(a/2\right)^2}{360}=\frac{\pi a^2}{8}.
 $$
 
 The area of the equilateral triangle is $\frac{\sqrt3}{4}a^2$, so the shaded area is
 
 $$
-\frac{\sqrt3}{4}a^2-\frac{\pi a^2}{8}=\frac{a^2}{8}(2\sqrt3-\pi).
+\frac{\sqrt3}{4}a^2-\frac{\pi a^2}{8}=\frac{a^2}{8}\left(2\sqrt3-\pi\right).
 $$
 
 $\blacksquare$
@@ -112,10 +112,10 @@ The conveyor belt consists of two external common tangents and two semicircles. 
 
 By **Formula 29.3.2** (Sector Area Formula).
 
-The sum of the areas of the four semicircles is $4\cdot\frac12\pi(a/2)^2=\frac{\pi a^2}{2}$, and the area of the square is $a^2$. The shaded area (the overlapping part of the four semicircles) is
+The sum of the areas of the four semicircles is $4\cdot\frac12\pi\left(a/2\right)^2=\frac{\pi a^2}{2}$, and the area of the square is $a^2$. The shaded area (the overlapping part of the four semicircles) is
 
 $$
-\frac{\pi a^2}{2}-a^2=\frac{a^2}{2}(\pi-2).
+\frac{\pi a^2}{2}-a^2=\frac{a^2}{2}\left(\pi-2\right).
 $$
 
 $\blacksquare$
@@ -134,7 +134,7 @@ Rotating about $AC$: a cone with base radius $4$ and generatrix $5$, total surfa
 
 Rotating about $BC$: a cone with base radius $3$ and generatrix $5$, total surface area $\pi\cdot3\cdot5+\pi\cdot3^2=24\pi$.
 
-Rotating about $AB$: two cones with a common base, base radius $r=\frac{3\times4}{5}=\frac{12}{5}$, generatrices $3$ and $4$ respectively, total surface area $\pi\cdot\frac{12}{5}\cdot(3+4)=\frac{84\pi}{5}$. $\blacksquare$
+Rotating about $AB$: two cones with a common base, base radius $r=\frac{3\times4}{5}=\frac{12}{5}$, generatrices $3$ and $4$ respectively, total surface area $\pi\cdot\frac{12}{5}\cdot\left(3+4\right)=\frac{84\pi}{5}$. $\blacksquare$
 
 ### Problem 5
 
@@ -163,7 +163,7 @@ By **Formula 29.3.2** (Sector Area Formula).
 The fan surface area is the large sector (radius $30$) minus the small sector (radius $10$):
 
 $$
-\frac{120\pi}{360}(30^2-10^2)=\frac{\pi}{3}\cdot800=\frac{800\pi}{3}\approx837\,\text{cm}^2.
+\frac{120\pi}{360}\left(30^2-10^2\right)=\frac{\pi}{3}\cdot800=\frac{800\pi}{3}\approx837\,\text{cm}^2.
 $$
 
 $\blacksquare$
@@ -186,7 +186,7 @@ The lateral area is $\frac12\cdot32\cdot7=112\,\text{m}^2$. $\blacksquare$
 
 By **Formula 29.3.2** and **Formula 29.3.3**.
 
-The circle radius is $0.5\,\text{m}$. The sector radius is $\frac{\sqrt2}{2}\,\text{m}$ (half the diagonal of the square). The sector area is $\frac{90\pi}{360}\cdot(\frac{\sqrt2}{2})^2=\frac{\pi}{8}$. The circle area is $\pi\cdot0.5^2=\frac{\pi}{4}$, so the remaining area is $\frac{\pi}{4}-\frac{\pi}{8}=\frac{\pi}{8}\,\text{m}^2$.
+The circle radius is $0.5\,\text{m}$. The sector radius is $\frac{\sqrt2}{2}\,\text{m}$ (half the diagonal of the square). The sector area is $\frac{90\pi}{360}\cdot\left(\frac{\sqrt2}{2}\right)^2=\frac{\pi}{8}$. The circle area is $\pi\cdot0.5^2=\frac{\pi}{4}$, so the remaining area is $\frac{\pi}{4}-\frac{\pi}{8}=\frac{\pi}{8}\,\text{m}^2$.
 
 The sector arc length is $l=\frac{90\pi}{180}\cdot\frac{\sqrt2}{2}=\frac{\sqrt2\pi}{4}$, so the cone's base radius is $r=\frac{l}{2\pi}=\frac{\sqrt2}{8}\approx0.18\,\text{m}$. $\blacksquare$
 

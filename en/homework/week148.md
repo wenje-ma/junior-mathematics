@@ -39,7 +39,7 @@ By **Theorem 29.2.1** (Perpendicular Chord Theorem), $EM\perp CD$, and $M$ is th
 Let the radius be $R$; then $OC=R$, $OM=EM-R=6-R$, and $CM=\frac12 CD=2$. In $\text{Rt}\triangle OMC$,
 
 $$
-R^2=2^2+(6-R)^2=4+36-12R+R^2.
+R^2=2^2+\left(6-R\right)^2=4+36-12R+R^2.
 $$
 
 Simplifying gives $12R=40$, so $R=\frac{10}{3}\,\text{m}$. $\blacksquare$

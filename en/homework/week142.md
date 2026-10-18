@@ -48,11 +48,11 @@ By **Conclusion 27.2.1**.
 
 (1) Find the function expression for $y$ in terms of $x$ and the range of the independent variable;
 
-(2) Determine whether the points $(-2,2)$ and $(1,4)$ lie on the graph of this function.
+(2) Determine whether the points $\left(-2,2\right)$ and $\left(1,4\right)$ lie on the graph of this function.
 
 ### Solution to Review Problem 4
 
-(1) Substituting $x=-6$, $y=\frac23$ gives $k=(-6)\times\frac23=-4$, hence
+(1) Substituting $x=-6$, $y=\frac23$ gives $k=\left(-6\right)\times\frac23=-4$, hence
 
 $$
 y=-\frac4x,
@@ -60,7 +60,7 @@ $$
 
 and the range of the independent variable $x$ is $x\ne0$.
 
-(2) Check whether the product of the x- and y-coordinates equals $k=-4$. Point $(-2,2)$: $(-2)\times2=-4$, on the graph. Point $(1,4)$: $1\times4=4\ne-4$, not on the graph. $\blacksquare$
+(2) Check whether the product of the x- and y-coordinates equals $k=-4$. Point $\left(-2,2\right)$: $\left(-2\right)\times2=-4$, on the graph. Point $\left(1,4\right)$: $1\times4=4\ne-4$, not on the graph. $\blacksquare$
 
 ### Review Problem 5
 
@@ -114,7 +114,7 @@ By **Conclusion 27.2.1**, the graph for $k>0$ is a hyperbola in the first and th
 
 ### Solution to Review Problem 9
 
-Let the two inverse proportional functions be $y=\frac{k_1}{x}$ and $y=\frac{k_2}{x}$, with $k_1\ne k_2$. If they had a common point $(x,y)$, then $\frac{k_1}{x}=\frac{k_2}{x}$, i.e. $k_1=k_2$, contradicting $k_1\ne k_2$. Hence the graphs of two different inverse proportional functions have no common points. $\blacksquare$
+Let the two inverse proportional functions be $y=\frac{k_1}{x}$ and $y=\frac{k_2}{x}$, with $k_1\ne k_2$. If they had a common point $\left(x,y\right)$, then $\frac{k_1}{x}=\frac{k_2}{x}$, i.e. $k_1=k_2$, contradicting $k_1\ne k_2$. Hence the graphs of two different inverse proportional functions have no common points. $\blacksquare$
 
 ### Review Problem 10
 

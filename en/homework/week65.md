@@ -96,10 +96,10 @@ Figure (1): one acute angle of the right triangle is $50^\circ$, so $x=90^\circ-
 
 Figure (2): the vertex angle is $40^\circ$ and the two base angles are equal, so $x=\frac{180^\circ-40^\circ}{2}=70^\circ$.
 
-Figure (3): the exterior angle $(x+70^\circ)$ equals the sum of the two non-adjacent interior angles $x^\circ$ and $(x+10^\circ)$, so
+Figure (3): the exterior angle $\left(x+70^\circ\right)$ equals the sum of the two non-adjacent interior angles $x^\circ$ and $\left(x+10^\circ\right)$, so
 
 $$
-x+70=x+(x+10),
+x+70=x+\left(x+10\right),
 $$
 
 solving gives $x=60$. $\blacksquare$
@@ -113,7 +113,7 @@ solving gives $x=60$. $\blacksquare$
 By **Theorem 13.3.1** (Triangle Interior Angle Sum Theorem), in $\triangle ABC$, $\angle A+\angle B+\angle 1=180^\circ$. Also $\angle A=\angle 1-10^\circ$, $\angle B=42^\circ$; substituting:
 
 $$
-(\angle 1-10^\circ)+42^\circ+\angle 1=180^\circ,
+\left(\angle 1-10^\circ\right)+42^\circ+\angle 1=180^\circ,
 $$
 
 solving gives $2\angle 1=148^\circ$, $\angle 1=74^\circ$, hence $\angle A=64^\circ$.
@@ -168,7 +168,7 @@ $\blacksquare$
 
 (Review Problems, Extension and Exploration, Problem 8) As shown, in $\triangle ABC$, $BE$ and $CF$ are angle bisectors, and $BE$ and $CF$ intersect at point $G$. Prove:
 
-(1) $\angle BGC=180^\circ-\frac{1}{2}(\angle ABC+\angle ACB)$;
+(1) $\angle BGC=180^\circ-\frac{1}{2}\left(\angle ABC+\angle ACB\right)$;
 
 (2) $\angle BGC=90^\circ+\frac{1}{2}\angle A$.
 
@@ -183,13 +183,13 @@ $$
 (1) In $\triangle BGC$, by **Theorem 13.3.1** (Triangle Interior Angle Sum Theorem),
 
 $$
-\angle BGC=180^\circ-\angle GBC-\angle GCB=180^\circ-\frac{1}{2}(\angle ABC+\angle ACB).
+\angle BGC=180^\circ-\angle GBC-\angle GCB=180^\circ-\frac{1}{2}\left(\angle ABC+\angle ACB\right).
 $$
 
 (2) Also in $\triangle ABC$, $\angle ABC+\angle ACB=180^\circ-\angle A$; substituting:
 
 $$
-\angle BGC=180^\circ-\frac{1}{2}(180^\circ-\angle A)=90^\circ+\frac{1}{2}\angle A.
+\angle BGC=180^\circ-\frac{1}{2}\left(180^\circ-\angle A\right)=90^\circ+\frac{1}{2}\angle A.
 $$
 
 $\blacksquare$

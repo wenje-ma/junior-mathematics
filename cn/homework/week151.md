@@ -24,7 +24,7 @@
 
 $OA=OB=1$, $AB=1$, 故 $\triangle OAB$ 为等边三角形, $\angle AOB=60^\circ$.
 
-点 $O$ 到 $AB$ 的距离 $d=\sqrt{1^2-(1/2)^2}=\frac{\sqrt3}{2}$. $\blacksquare$
+点 $O$ 到 $AB$ 的距离 $d=\sqrt{1^2-\left(1/2\right)^2}=\frac{\sqrt3}{2}$. $\blacksquare$
 
 ### 习题二
 
@@ -107,7 +107,7 @@ $MN$ 垂直平分 $AB$, 故 $MN$ 过圆心 $O$. 又 $AB\parallel CD$, 故 $MN\pe
 设半径为 $R$, $AD=150$, $OD=R-45$. 在 $\text{Rt}\triangle OAD$ 中,
 
 $$
-R^2=150^2+(R-45)^2=22500+R^2-90R+2025.
+R^2=150^2+\left(R-45\right)^2=22500+R^2-90R+2025.
 $$
 
 化简得 $90R=24525$, $R=272.5\,\text{m}$. $\blacksquare$
@@ -150,7 +150,7 @@ $AD=BC$, 故 $\overset{\frown}{AD}=\overset{\frown}{BC}$. 两边同时加 $\over
 
 由**定理 29.2.1** (垂径定理).
 
-设半径为 $R$, $OM=\sqrt{R^2-(AB/2)^2}$, $ON=\sqrt{R^2-(CD/2)^2}$. $AB>CD$ 时 $(AB/2)^2>(CD/2)^2$, 故 $OM<ON$. $\blacksquare$
+设半径为 $R$, $OM=\sqrt{R^2-\left(AB/2\right)^2}$, $ON=\sqrt{R^2-\left(CD/2\right)^2}$. $AB>CD$ 时 $\left(AB/2\right)^2>\left(CD/2\right)^2$, 故 $OM<ON$. $\blacksquare$
 
 ### 习题十三
 

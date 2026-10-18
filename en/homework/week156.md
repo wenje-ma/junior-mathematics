@@ -50,7 +50,7 @@ $\blacksquare$
 
 By **Theorem 30.1.3** (Tangent-Length Theorem).
 
-Let $AF=AE=x$, $BF=BD=y$, and $CD=CE=z$. Then $x+y=13$, $y+z=14$, and $x+z=9$. Adding the three equations gives $2(x+y+z)=36$, so $x+y+z=18$. Solving gives $x=4$, $y=9$, $z=5$. That is, $AF=4$, $BD=9$, $CE=5$. $\blacksquare$
+Let $AF=AE=x$, $BF=BD=y$, and $CD=CE=z$. Then $x+y=13$, $y+z=14$, and $x+z=9$. Adding the three equations gives $2\left(x+y+z\right)=36$, so $x+y+z=18$. Solving gives $x=4$, $y=9$, $z=5$. That is, $AF=4$, $BD=9$, $CE=5$. $\blacksquare$
 
 ### Problem 3
 
@@ -70,7 +70,7 @@ Let $AE=AF=x$, $BF=BD=y$, and $CD=CE=z$. Then $x+y=c$, $y+z=a$, and $z+x=b$. Sol
 
 By **Definition 30.2.1** and the conclusion of **Problem 3**.
 
-The area is $S=\frac12 ab$, and also $S=\frac12 r(a+b+c)$, hence
+The area is $S=\frac12 ab$, and also $S=\frac12 r\left(a+b+c\right)$, hence
 
 $$
 r=\frac{ab}{a+b+c}=\frac{a+b-c}{2}.

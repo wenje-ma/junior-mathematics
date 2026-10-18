@@ -57,7 +57,7 @@ From \(\frac{b}{a}=\sqrt{2}\), we get \(b=\sqrt{2}a\), so the other side is \((\
 Hence
 
 $$
-\frac{a}{b-a}=\frac{a}{(\sqrt{2}-1)a}=\frac{1}{\sqrt{2}-1}=\sqrt{2}+1.
+\frac{a}{b-a}=\frac{a}{\left(\sqrt{2}-1\right)a}=\frac{1}{\sqrt{2}-1}=\sqrt{2}+1.
 $$
 
 It is not equal to \(\sqrt{2}\), so \(GHID\) is not a rectangle whose length-to-width ratio is \(\sqrt{2}\).

@@ -8,7 +8,7 @@
 >
 > **Property 8.1.2** (Size of the Arithmetic Square Root) <br>The larger the radicand, the larger the corresponding arithmetic square root (this holds for all positive numbers).
 >
-> **Property 8.1.3** (Relationship Between Squaring and Extracting Roots) <br>For any nonnegative number $a$, $(\sqrt a)^2=a$; for any number $a$, $\sqrt{a^2}=|a|$.
+> **Property 8.1.3** (Relationship Between Squaring and Extracting Roots) <br>For any nonnegative number $a$, $\left(\sqrt a\right)^2=a$; for any number $a$, $\sqrt{a^2}=\left|a\right|$.
 
 ### Exercise 1
 
@@ -46,15 +46,15 @@ By **Definition 8.1.1** (Square Root), find the number whose square equals the g
 
 (1) $\because\left(\pm\frac{8}{9}\right)^2=\frac{64}{81}$, $\therefore\frac{64}{81}$ has square roots $\pm\frac{8}{9}$.
 
-(2) $6^2=36$, $\because(\pm 6)^2=36$, $\therefore 6^2$ has square roots $\pm 6$.
+(2) $6^2=36$, $\because\left(\pm 6\right)^2=36$, $\therefore 6^2$ has square roots $\pm 6$.
 
-(3) $\because(\pm 0.7)^2=0.49$, $\therefore 0.49$ has square roots $\pm 0.7$. $\blacksquare$
+(3) $\because\left(\pm 0.7\right)^2=0.49$, $\therefore 0.49$ has square roots $\pm 0.7$. $\blacksquare$
 
 ### Exercise 3
 
 (Exercise 8.1, Problem 3) Find the value of $x$ in each of the following:
 
-(1) $x^2=25$;　(2) $9x^2=4$;　(3) $(x-1)^2=1$.
+(1) $x^2=25$;　(2) $9x^2=4$;　(3) $\left(x-1\right)^2=1$.
 
 ### Solution to Exercise 3
 
@@ -64,7 +64,7 @@ By **Definition 8.1.1** (Square Root), when $x^2=a$, $x=\pm\sqrt a$.
 
 (2) $9x^2=4$, i.e. $x^2=\frac{4}{9}$, so $x=\pm\sqrt{\frac{4}{9}}=\pm\frac{2}{3}$.
 
-(3) $(x-1)^2=1$, so $x-1=\pm\sqrt 1=\pm 1$. When $x-1=1$, $x=2$; when $x-1=-1$, $x=0$. Thus $x=2$ or $x=0$. $\blacksquare$
+(3) $\left(x-1\right)^2=1$, so $x-1=\pm\sqrt 1=\pm 1$. When $x-1=1$, $x=2$; when $x-1=-1$, $x=0$. Thus $x=2$ or $x=0$. $\blacksquare$
 
 ### Exercise 4
 
@@ -132,7 +132,7 @@ By **Definition 8.1.2** (Arithmetic Square Root), use a calculator to find the p
 
 (Exercise 8.1, Problem 2) Between which two consecutive integers does each of the following numbers lie?
 
-(1) $\sqrt 5$;　(2) $\sqrt{26}$;　(3) $\sqrt[3]{83}$.
+(1) $\sqrt 5$;　(2) $\sqrt{26}$;　(3) $\sqrt\left[3\right]{83}$.
 
 ### Solution to Exercise 8
 
@@ -142,7 +142,7 @@ By **Property 8.1.2** (Size of the Arithmetic Square Root), compare with squares
 
 (2) $\because 5^2=25<26<36=6^2$, $\therefore 5<\sqrt{26}<6$, i.e. $\sqrt{26}$ lies between $5$ and $6$.
 
-(3) $\because 4^3=64<83<125=5^3$, $\therefore 4<\sqrt[3]{83}<5$, i.e. $\sqrt[3]{83}$ lies between $4$ and $5$. $\blacksquare$
+(3) $\because 4^3=64<83<125=5^3$, $\therefore 4<\sqrt\left[3\right]{83}<5$, i.e. $\sqrt\left[3\right]{83}$ lies between $4$ and $5$. $\blacksquare$
 
 ### Exercise 9
 
@@ -170,11 +170,11 @@ A circle of radius $12\,\text{cm}$ has diameter $24\,\text{cm}$. The paper is ab
 
 By **Definition 8.1.1** (Square Root).
 
-(1) $\because(\pm 9)^2=81$, $\therefore 81$ has square roots $\pm 9$.
+(1) $\because\left(\pm 9\right)^2=81$, $\therefore 81$ has square roots $\pm 9$.
 
 (2) $\because\left(\pm\frac{1}{10^3}\right)^2=\frac{1}{10^6}$, $\therefore\frac{1}{10^6}$ has square roots $\pm\frac{1}{10^3}=\pm 0.001$.
 
-(3) $\because(\pm 0.04)^2=0.0016$, $\therefore 0.0016$ has square roots $\pm 0.04$. $\blacksquare$
+(3) $\because\left(\pm 0.04\right)^2=0.0016$, $\therefore 0.0016$ has square roots $\pm 0.04$. $\blacksquare$
 
 ### Problem 2
 
@@ -198,7 +198,7 @@ By **Definition 8.1.2** (Arithmetic Square Root).
 
 (1) $\sqrt 5$ is a square root of $5$;
 
-(2) The arithmetic square root of $(-3)^2$ is $-3$;
+(2) The arithmetic square root of $\left(-3\right)^2$ is $-3$;
 
 (3) The square roots of $\sqrt 4$ are $\pm 2$;
 
@@ -208,9 +208,9 @@ By **Definition 8.1.2** (Arithmetic Square Root).
 
 By **Definition 8.1.1** (Square Root) and **Definition 8.1.2** (Arithmetic Square Root).
 
-(1) $\because(\sqrt 5)^2=5$, $\therefore\sqrt 5$ is a square root of $5$, correct.
+(1) $\because\left(\sqrt 5\right)^2=5$, $\therefore\sqrt 5$ is a square root of $5$, correct.
 
-(2) $(-3)^2=9$, and the arithmetic square root of $9$ is $3$, not $-3$, so it is wrong.
+(2) $\left(-3\right)^2=9$, and the arithmetic square root of $9$ is $3$, not $-3$, so it is wrong.
 
 (3) $\sqrt 4=2$, and the square roots of $2$ are $\pm\sqrt 2$, so the square roots of $\sqrt 4$ are $\pm\sqrt 2$, not $\pm 2$; wrong.
 
@@ -252,7 +252,7 @@ By **Property 8.1.2** (Size of the Arithmetic Square Root), the larger the radic
 
 (Exercise 8.1, Review and Consolidation, Problem 6) Find the value of $x$ in each of the following:
 
-(1) $x^2-100=0$;　(2) $25x^2=36$;　(3) $(x+2)^2=0.49$.
+(1) $x^2-100=0$;　(2) $25x^2=36$;　(3) $\left(x+2\right)^2=0.49$.
 
 ### Solution to Problem 6
 
@@ -310,22 +310,22 @@ When the area is enlarged to $n$ times the original, the new side length is $\sq
 
 (Exercise 8.1, Extension and Exploration, Problem 10)
 
-(1) Find the values of $(\sqrt 0)^2$, $(\sqrt 4)^2$, $(\sqrt 9)^2$, $(\sqrt{25})^2$, $(\sqrt{36})^2$. For any nonnegative number $a$, what does $(\sqrt a)^2$ equal?
+(1) Find the values of $\left(\sqrt 0\right)^2$, $\left(\sqrt 4\right)^2$, $\left(\sqrt 9\right)^2$, $\left(\sqrt{25}\right)^2$, $\left(\sqrt{36}\right)^2$. For any nonnegative number $a$, what does $\left(\sqrt a\right)^2$ equal?
 
-(2) Find the values of $\sqrt{0^2}$, $\sqrt{2^2}$, $\sqrt{(-3)^2}$, $\sqrt{5^2}$, $\sqrt{(-6)^2}$. For any number $a$, what does $\sqrt{a^2}$ equal?
+(2) Find the values of $\sqrt{0^2}$, $\sqrt{2^2}$, $\sqrt{\left(-3\right)^2}$, $\sqrt{5^2}$, $\sqrt{\left(-6\right)^2}$. For any number $a$, what does $\sqrt{a^2}$ equal?
 
 ### Solution to Problem 10
 
-(1) $(\sqrt 0)^2=0$, $(\sqrt 4)^2=4$, $(\sqrt 9)^2=9$, $(\sqrt{25})^2=25$, $(\sqrt{36})^2=36$. By **Property 8.1.3** (Relationship Between Squaring and Extracting Roots), for any nonnegative number $a$,
+(1) $\left(\sqrt 0\right)^2=0$, $\left(\sqrt 4\right)^2=4$, $\left(\sqrt 9\right)^2=9$, $\left(\sqrt{25}\right)^2=25$, $\left(\sqrt{36}\right)^2=36$. By **Property 8.1.3** (Relationship Between Squaring and Extracting Roots), for any nonnegative number $a$,
 
 $$
-(\sqrt a)^2=a.
+\left(\sqrt a\right)^2=a.
 $$
 
-(2) $\sqrt{0^2}=0$, $\sqrt{2^2}=2$, $\sqrt{(-3)^2}=\sqrt 9=3$, $\sqrt{5^2}=5$, $\sqrt{(-6)^2}=\sqrt{36}=6$. It can be seen that when $a\ge 0$, $\sqrt{a^2}=a$, and when $a<0$, $\sqrt{a^2}=-a$. By **Property 8.1.3**, for any number $a$,
+(2) $\sqrt{0^2}=0$, $\sqrt{2^2}=2$, $\sqrt{\left(-3\right)^2}=\sqrt 9=3$, $\sqrt{5^2}=5$, $\sqrt{\left(-6\right)^2}=\sqrt{36}=6$. It can be seen that when $a\ge 0$, $\sqrt{a^2}=a$, and when $a<0$, $\sqrt{a^2}=-a$. By **Property 8.1.3**, for any number $a$,
 
 $$
-\sqrt{a^2}=|a|.
+\sqrt{a^2}=\left|a\right|.
 $$
 
 $\blacksquare$

@@ -16,13 +16,13 @@
 
 (Review Problems, Review and Consolidation, Problem 1) Among the following expressions, which are integral expressions? Which are fractions?
 
-$\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y}$, $\frac{2ab}{(a+b)^2}$.
+$\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y}$, $\frac{2ab}{\left(a+b\right)^2}$.
 
 ### Solution to Review Problem 1
 
 Integral expressions: $\frac{x}{3}$, $\frac{a+5}{15}$.
 
-Fractions: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2 y}$, $\frac{2ab}{(a+b)^2}$. $\blacksquare$
+Fractions: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2 y}$, $\frac{2ab}{\left(a+b\right)^2}$. $\blacksquare$
 
 ### Review Problem 2
 
@@ -30,27 +30,27 @@ Fractions: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2 y}$, $\frac{2ab}{(a+b)^
 
 (1) $\frac{s-2 t}{3 s}\cdot\frac{6 s^2}{s+2 t}$;
 
-(2) $\frac{x-y}{x+y}\div(x-y)^2$;
+(2) $\frac{x-y}{x+y}\div\left(x-y\right)^2$;
 
 (3) $\frac{2 a}{a+1}+\frac{2}{a+1}$;
 
 (4) $\frac{u-2 v}{u+2 v}-\frac{2}{u^2-4 v^2}$;
 
-(5) $(x^{-2} y^3)^{-3}$;
+(5) $\left(x^{-2} y^3\right)^{-3}$;
 
 (6) $\left(-\frac{3 x}{y^3 z}\right)^2$.
 
 ### Solution to Review Problem 2
 
-(1) $\frac{(s-2t)\cdot6s^2}{3s(s+2t)}=\frac{2s(s-2t)}{s+2t}$.
+(1) $\frac{\left(s-2t\right)\cdot6s^2}{3s\left(s+2t\right)}=\frac{2s\left(s-2t\right)}{s+2t}$.
 
-(2) $\frac{x-y}{x+y}\cdot\frac{1}{(x-y)^2}=\frac{1}{(x+y)(x-y)}=\frac{1}{x^2-y^2}$.
+(2) $\frac{x-y}{x+y}\cdot\frac{1}{\left(x-y\right)^2}=\frac{1}{\left(x+y\right)\left(x-y\right)}=\frac{1}{x^2-y^2}$.
 
-(3) $\frac{2a+2}{a+1}=\frac{2(a+1)}{a+1}=2$.
+(3) $\frac{2a+2}{a+1}=\frac{2\left(a+1\right)}{a+1}=2$.
 
-(4) $\frac{(u-2v)^2-2}{(u+2v)(u-2v)}=\frac{u^2-4uv+4v^2-2}{u^2-4v^2}$.
+(4) $\frac{\left(u-2v\right)^2-2}{\left(u+2v\right)\left(u-2v\right)}=\frac{u^2-4uv+4v^2-2}{u^2-4v^2}$.
 
-(5) $(x^{-2} y^3)^{-3}=x^6 y^{-9}=\frac{x^6}{y^9}$.
+(5) $\left(x^{-2} y^3\right)^{-3}=x^6 y^{-9}=\frac{x^6}{y^9}$.
 
 (6) $\left(-\frac{3x}{y^3 z}\right)^2=\frac{9x^2}{y^6 z^2}$. $\blacksquare$
 
@@ -60,7 +60,7 @@ Fractions: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2 y}$, $\frac{2ab}{(a+b)^
 
 (1) $\frac{2 m}{3 n}\cdot\left(\frac{3 n}{p}\right)^2\div\frac{m n}{p^2}$;
 
-(2) $a^2 b^3\cdot(a b^2)^{-2}$;
+(2) $a^2 b^3\cdot\left(a b^2\right)^{-2}$;
 
 (3) $\frac{x^2-16}{x^2+8 x+16}+\frac{x}{x-4}$;
 
@@ -80,17 +80,17 @@ Fractions: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2 y}$, $\frac{2ab}{(a+b)^
 
 (2) $a^2 b^3\cdot a^{-2} b^{-4}=b^{-1}=\frac1b$.
 
-(3) $\frac{(x+4)(x-4)}{(x+4)^2}+\frac{x}{x-4}=\frac{x-4}{x+4}+\frac{x}{x-4}=\frac{(x-4)^2+x(x+4)}{(x+4)(x-4)}=\frac{2x^2-4x+16}{x^2-16}$.
+(3) $\frac{\left(x+4\right)\left(x-4\right)}{\left(x+4\right)^2}+\frac{x}{x-4}=\frac{x-4}{x+4}+\frac{x}{x-4}=\frac{\left(x-4\right)^2+x\left(x+4\right)}{\left(x+4\right)\left(x-4\right)}=\frac{2x^2-4x+16}{x^2-16}$.
 
-(4) $\frac{p^3 q^6}{r^3}\cdot\frac{r+12q}{2pr^2}=\frac{p^2 q^6(r+12q)}{2r^5}$.
+(4) $\frac{p^3 q^6}{r^3}\cdot\frac{r+12q}{2pr^2}=\frac{p^2 q^6\left(r+12q\right)}{2r^5}$.
 
-(5) $1\div(2x+1-x)=1\div(x+1)=\frac{1}{x+1}$.
+(5) $1\div\left(2x+1-x\right)=1\div\left(x+1\right)=\frac{1}{x+1}$.
 
-(6) $\frac{a-b}{a}\div\frac{a^2-2ab+b^2}{a}=\frac{a-b}{a}\cdot\frac{a}{(a-b)^2}=\frac{1}{a-b}$.
+(6) $\frac{a-b}{a}\div\frac{a^2-2ab+b^2}{a}=\frac{a-b}{a}\cdot\frac{a}{\left(a-b\right)^2}=\frac{1}{a-b}$.
 
-(7) $1-\frac{a+b}{a+2b}\cdot\frac{(a+2b)^2}{(a+b)(a-b)}=1-\frac{a+2b}{a-b}=\frac{a-b-a-2b}{a-b}=-\frac{3b}{a-b}$.
+(7) $1-\frac{a+b}{a+2b}\cdot\frac{\left(a+2b\right)^2}{\left(a+b\right)\left(a-b\right)}=1-\frac{a+2b}{a-b}=\frac{a-b-a-2b}{a-b}=-\frac{3b}{a-b}$.
 
-(8) $\frac{(x-y)^2+4xy}{x-y}\cdot\frac{(x+y)^2-4xy}{x+y}=\frac{(x+y)^2}{x-y}\cdot\frac{(x-y)^2}{x+y}=(x+y)(x-y)=x^2-y^2$. $\blacksquare$
+(8) $\frac{\left(x-y\right)^2+4xy}{x-y}\cdot\frac{\left(x+y\right)^2-4xy}{x+y}=\frac{\left(x+y\right)^2}{x-y}\cdot\frac{\left(x-y\right)^2}{x+y}=\left(x+y\right)\left(x-y\right)=x^2-y^2$. $\blacksquare$
 
 ### Review Problem 4
 
@@ -102,9 +102,9 @@ Fractions: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2 y}$, $\frac{2ab}{(a+b)^
 
 ### Solution to Review Problem 4
 
-(1) Multiply by $x(x+1)$: $5x+2=3x$, $2x=-2$, $x=-1$. Checking $x+1=0$, the original equation has no solution.
+(1) Multiply by $x\left(x+1\right)$: $5x+2=3x$, $2x=-2$, $x=-1$. Checking $x+1=0$, the original equation has no solution.
 
-(2) Multiply by $(2x-5)(2x+5)$: $2x(2x+5)-2(2x-5)=(2x-5)(2x+5)$, $4x^2+10x-4x+10=4x^2-25$, $6x=-35$, $x=-\frac{35}{6}$. The check holds. $\blacksquare$
+(2) Multiply by $\left(2x-5\right)\left(2x+5\right)$: $2x\left(2x+5\right)-2\left(2x-5\right)=\left(2x-5\right)\left(2x+5\right)$, $4x^2+10x-4x+10=4x^2-25$, $6x=-35$, $x=-\frac{35}{6}$. The check holds. $\blacksquare$
 
 ### Review Problem 5
 
@@ -140,13 +140,13 @@ All denominators and divisors are not $0$.
 
 ### Review Problem 7
 
-(Review Problems, Comprehensive Application, Problem 7) Under what circumstances are the values of $2(x+1)^{-1}$ and $3(x-2)^{-1}$ equal?
+(Review Problems, Comprehensive Application, Problem 7) Under what circumstances are the values of $2\left(x+1\right)^{-1}$ and $3\left(x-2\right)^{-1}$ equal?
 
 ### Solution to Review Problem 7
 
 $$\frac{2}{x+1}=\frac{3}{x-2}.$$
 
-$2(x-2)=3(x+1)$, $2x-4=3x+3$, $x=-7$. Checking $x+1\ne0$, $x-2\ne0$, holds. Hence the two expressions are equal when $x=-7$. $\blacksquare$
+$2\left(x-2\right)=3\left(x+1\right)$, $2x-4=3x+3$, $x=-7$. Checking $x+1\ne0$, $x-2\ne0$, holds. Hence the two expressions are equal when $x=-7$. $\blacksquare$
 
 ### Review Problem 8
 
@@ -156,9 +156,9 @@ $2(x-2)=3(x+1)$, $2x-4=3x+3$, $x=-7$. Checking $x+1\ne0$, $x-2\ne0$, holds. Henc
 
 ### Solution to Review Problem 8
 
-(1) $\frac{(x+1)(x-1)}{(x-1)^2}\cdot\frac{x-1}{x+1}\cdot\frac{1-x}{1+x}=\frac{1-x}{1+x}$. Substituting $x=\frac12$, we get $\frac{1-\frac12}{1+\frac12}=\frac13$.
+(1) $\frac{\left(x+1\right)\left(x-1\right)}{\left(x-1\right)^2}\cdot\frac{x-1}{x+1}\cdot\frac{1-x}{1+x}=\frac{1-x}{1+x}$. Substituting $x=\frac12$, we get $\frac{1-\frac12}{1+\frac12}=\frac13$.
 
-(2) $\frac{(x-2)^2}{(x+2)(x-2)}\cdot\frac{x^2+2x+3}{x-2}=\frac{x^2+2x+3}{x+2}$. Substituting $x=-3.2$, we get $\frac{10.24-6.4+3}{-1.2}=\frac{6.84}{-1.2}=-5.7$. $\blacksquare$
+(2) $\frac{\left(x-2\right)^2}{\left(x+2\right)\left(x-2\right)}\cdot\frac{x^2+2x+3}{x-2}=\frac{x^2+2x+3}{x+2}$. Substituting $x=-3.2$, we get $\frac{10.24-6.4+3}{-1.2}=\frac{6.84}{-1.2}=-5.7$. $\blacksquare$
 
 ### Review Problem 9
 
@@ -166,11 +166,11 @@ $2(x-2)=3(x+1)$, $2x-4=3x+3$, $x=-7$. Checking $x+1\ne0$, $x-2\ne0$, holds. Henc
 
 ### Solution to Review Problem 9
 
-Let the current daily production be $x$ machines; the original plan was $(x-50)$ machines.
+Let the current daily production be $x$ machines; the original plan was $\left(x-50\right)$ machines.
 
 $$\frac{600}{x}=\frac{450}{x-50}.$$
 
-$600(x-50)=450x$, $600x-30000=450x$, $150x=30000$, $x=200$. The check holds.
+$600\left(x-50\right)=450x$, $600x-30000=450x$, $150x=30000$, $x=200$. The check holds.
 
 Hence the current average daily production is $200$ machines. $\blacksquare$
 
@@ -210,13 +210,13 @@ The check holds. Hence the speed in the first hour is $60\ \text{km/h}$. $\black
 
 ### Solution to Review Problem 12
 
-The two semicircles together form an annulus with area $\pi(R^2-r^2)$; the two straight tracks have area $2a(R-r)$ (each of width $R-r$). The total area is
+The two semicircles together form an annulus with area $\pi\left(R^2-r^2\right)$; the two straight tracks have area $2a\left(R-r\right)$ (each of width $R-r$). The total area is
 
-$$S=\pi(R^2-r^2)+2a(R-r)=(R-r)[\pi(R+r)+2a].$$
+$$S=\pi\left(R^2-r^2\right)+2a\left(R-r\right)=\left(R-r\right)\left[\pi\left(R+r\right)+2a\right].$$
 
 Solving gives
 
-$$a=\frac{\frac{S}{R-r}-\pi(R+r)}{2}.$$
+$$a=\frac{\frac{S}{R-r}-\pi\left(R+r\right)}{2}.$$
 
 $\blacksquare$
 
@@ -224,12 +224,12 @@ $\blacksquare$
 
 (Review Problems, Extension and Exploration, Problem 13) (1) Can the value of the expression $\frac{a}{bc}+\frac{b}{ca}+\frac{c}{ab}$ be $0$? Why?
 
-(2) Can the value of the expression $\frac{a-b}{(b-c)(c-a)}+\frac{b-c}{(a-b)(c-a)}+\frac{c-a}{(a-b)(b-c)}$ be $0$? Why?
+(2) Can the value of the expression $\frac{a-b}{\left(b-c\right)\left(c-a\right)}+\frac{b-c}{\left(a-b\right)\left(c-a\right)}+\frac{c-a}{\left(a-b\right)\left(b-c\right)}$ be $0$? Why?
 
 ### Solution to Review Problem 13
 
 (1) Finding a common denominator: $\frac{a^2+b^2+c^2}{abc}$. For the value to be $0$, we need $a^2+b^2+c^2=0$, i.e. $a=b=c=0$, which contradicts the denominator $abc\ne0$. Hence it cannot be $0$.
 
-(2) Finding a common denominator, with common denominator $(a-b)(b-c)(c-a)$:
+(2) Finding a common denominator, with common denominator $\left(a-b\right)\left(b-c\right)\left(c-a\right)$:
 
-The numerator $=(a-b)^2+(b-c)^2+(c-a)^2$. For the value to be $0$, we need $a=b=c$, which contradicts the denominator not being $0$. Hence it cannot be $0$. $\blacksquare$
+The numerator $=\left(a-b\right)^2+\left(b-c\right)^2+\left(c-a\right)^2$. For the value to be $0$, we need $a=b=c$, which contradicts the denominator not being $0$. Hence it cannot be $0$. $\blacksquare$

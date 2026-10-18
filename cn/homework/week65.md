@@ -96,10 +96,10 @@ $$
 
 图 (2): 顶角为 $40^\circ$, 两底角相等, 故 $x=\frac{180^\circ-40^\circ}{2}=70^\circ$.
 
-图 (3): 外角 $(x+70^\circ)$ 等于不相邻两内角 $x^\circ$ 与 $(x+10^\circ)$ 的和, 故
+图 (3): 外角 $\left(x+70^\circ\right)$ 等于不相邻两内角 $x^\circ$ 与 $\left(x+10^\circ\right)$ 的和, 故
 
 $$
-x+70=x+(x+10),
+x+70=x+\left(x+10\right),
 $$
 
 解得 $x=60$. $\blacksquare$
@@ -113,7 +113,7 @@ $$
 由**定理 13.3.1** (三角形内角和定理), 在 $\triangle ABC$ 中, $\angle A+\angle B+\angle 1=180^\circ$. 又 $\angle A=\angle 1-10^\circ$, $\angle B=42^\circ$, 代入:
 
 $$
-(\angle 1-10^\circ)+42^\circ+\angle 1=180^\circ,
+\left(\angle 1-10^\circ\right)+42^\circ+\angle 1=180^\circ,
 $$
 
 解得 $2\angle 1=148^\circ$, $\angle 1=74^\circ$, 从而 $\angle A=64^\circ$.
@@ -168,7 +168,7 @@ $\blacksquare$
 
 (复习题 拓广探索第 8 题) 如图, 在 $\triangle ABC$ 中, $BE$, $CF$ 是角平分线, 且 $BE$, $CF$ 相交于点 $G$. 求证:
 
-(1) $\angle BGC=180^\circ-\frac{1}{2}(\angle ABC+\angle ACB)$;
+(1) $\angle BGC=180^\circ-\frac{1}{2}\left(\angle ABC+\angle ACB\right)$;
 
 (2) $\angle BGC=90^\circ+\frac{1}{2}\angle A$.
 
@@ -183,13 +183,13 @@ $$
 (1) 在 $\triangle BGC$ 中, 由**定理 13.3.1** (三角形内角和定理),
 
 $$
-\angle BGC=180^\circ-\angle GBC-\angle GCB=180^\circ-\frac{1}{2}(\angle ABC+\angle ACB).
+\angle BGC=180^\circ-\angle GBC-\angle GCB=180^\circ-\frac{1}{2}\left(\angle ABC+\angle ACB\right).
 $$
 
 (2) 又在 $\triangle ABC$ 中, $\angle ABC+\angle ACB=180^\circ-\angle A$, 代入上式:
 
 $$
-\angle BGC=180^\circ-\frac{1}{2}(180^\circ-\angle A)=90^\circ+\frac{1}{2}\angle A.
+\angle BGC=180^\circ-\frac{1}{2}\left(180^\circ-\angle A\right)=90^\circ+\frac{1}{2}\angle A.
 $$
 
 $\blacksquare$

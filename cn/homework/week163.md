@@ -352,7 +352,7 @@ $EF\parallel BC\parallel AD$，$FG\parallel CD\parallel AB$。
 
 由**性质 27.2.2**，$\frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\left(\frac{AD}{AB}\right)^2=\frac{1}{2}$。
 
-故 $\frac{AD}{AB}=\frac{1}{\sqrt{2}}=\frac{\sqrt{2}}{2}$，即 $D$ 在 $AB$ 上使 $AD:DB=\sqrt{2}:(2-\sqrt{2})$。 $\blacksquare$
+故 $\frac{AD}{AB}=\frac{1}{\sqrt{2}}=\frac{\sqrt{2}}{2}$，即 $D$ 在 $AB$ 上使 $AD:DB=\sqrt{2}:\left(2-\sqrt{2}\right)$。 $\blacksquare$
 
 ### 习题十三
 
@@ -388,7 +388,7 @@ $$
 y=DE=9\cdot\frac{8-2x}{8}=9-\frac{9}{4}x.
 $$
 
-其中 $0\le x\le4$。图象为一条从 $(0,9)$ 到 $(4,0)$ 的线段。 $\blacksquare$
+其中 $0\le x\le4$。图象为一条从 $\left(0,9\right)$ 到 $\left(4,0\right)$ 的线段。 $\blacksquare$
 
 ### 观察与猜想一
 

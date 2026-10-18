@@ -12,7 +12,7 @@
 
 (3) $y=-x^2+5$;
 
-(4) $y=2(x-1)^2-5$.
+(4) $y=2\left(x-1\right)^2-5$.
 
 ### Solution to Exercise 1
 
@@ -24,7 +24,7 @@ By **Definition 26.1.1** (Quadratic Function), put each expression in the form $
 
 (3) $y=-x^2+5$ is $y=-x^2+0x+5$, hence $a=-1$, $b=0$, $c=5$.
 
-(4) Expanding, $y=2(x^2-2x+1)-5=2x^2-4x-3$, hence $a=2$, $b=-4$, $c=-3$. $\blacksquare$
+(4) Expanding, $y=2\left(x^2-2x+1\right)-5=2x^2-4x-3$, hence $a=2$, $b=-4$, $c=-3$. $\blacksquare$
 
 ### Exercise 2
 
@@ -32,10 +32,10 @@ By **Definition 26.1.1** (Quadratic Function), put each expression in the form $
 
 ### Solution to Exercise 2
 
-After expansion, the green area is $(30+x)\ \text{m}$ long and $(20+x)\ \text{m}$ wide. By the rectangle area formula,
+After expansion, the green area is $\left(30+x\right)\ \text{m}$ long and $\left(20+x\right)\ \text{m}$ wide. By the rectangle area formula,
 
 $$
-y=(30+x)(20+x)=x^2+50x+600.
+y=\left(30+x\right)\left(20+x\right)=x^2+50x+600.
 $$
 
 Hence $y=x^2+50x+600$ (with $x\ge0$). $\blacksquare$
@@ -56,13 +56,13 @@ By the square area formula, $S=x^2$, which is a quadratic function (with $a=1$, 
 
 ### Solution to Problem 1
 
-January sales are $50$ ten-thousand yuan. February sales are $50(1+x)$ ten-thousand yuan, and March sales grow again on the February basis, giving
+January sales are $50$ ten-thousand yuan. February sales are $50\left(1+x\right)$ ten-thousand yuan, and March sales grow again on the February basis, giving
 
 $$
-y=50(1+x)^2.
+y=50\left(1+x\right)^2.
 $$
 
-Expanding gives $y=50x^2+100x+50$. Hence the function expression for March sales in terms of $x$ is $y=50(1+x)^2$. $\blacksquare$
+Expanding gives $y=50x^2+100x+50$. Hence the function expression for March sales in terms of $x$ is $y=50\left(1+x\right)^2$. $\blacksquare$
 
 ### Problem 2
 
@@ -70,13 +70,13 @@ Expanding gives $y=50x^2+100x+50$. Hence the function expression for March sales
 
 ### Solution to Problem 2
 
-After one year the sum of principal and interest is $30000(1+x)$ yuan; after rolling over for another year, the two-year sum is
+After one year the sum of principal and interest is $30000\left(1+x\right)$ yuan; after rolling over for another year, the two-year sum is
 
 $$
-y=30000(1+x)^2.
+y=30000\left(1+x\right)^2.
 $$
 
-Hence $y=30000(1+x)^2$. $\blacksquare$
+Hence $y=30000\left(1+x\right)^2$. $\blacksquare$
 
 ### Problem 3
 
@@ -84,15 +84,15 @@ Hence $y=30000(1+x)^2$. $\blacksquare$
 
 ### Solution to Problem 3
 
-The frame width is $5\ \text{cm}=0.05\ \text{m}$; hence the mirror radius is $r\ \text{m}$, and the outer radius including the frame is $(r+0.05)\ \text{m}$.
+The frame width is $5\ \text{cm}=0.05\ \text{m}$; hence the mirror radius is $r\ \text{m}$, and the outer radius including the frame is $\left(r+0.05\right)\ \text{m}$.
 
-The mirror surface area is $\pi r^2$, costing $180\pi r^2$ yuan. The frame area is $\pi(r+0.05)^2-\pi r^2$, costing $100[\pi(r+0.05)^2-\pi r^2]$ yuan. Hence the total price is
+The mirror surface area is $\pi r^2$, costing $180\pi r^2$ yuan. The frame area is $\pi\left(r+0.05\right)^2-\pi r^2$, costing $100\left[\pi\left(r+0.05\right)^2-\pi r^2\right]$ yuan. Hence the total price is
 
 $$
-y=180\pi r^2+100\pi\bigl[(r+0.05)^2-r^2\bigr].
+y=180\pi r^2+100\pi\bigl[\left(r+0.05\right)^2-r^2\bigr].
 $$
 
-Expanding gives $y=180\pi r^2+100\pi(0.1r+0.0025)=180\pi r^2+10\pi r+0.25\pi$. $\blacksquare$
+Expanding gives $y=180\pi r^2+100\pi\left(0.1r+0.0025\right)=180\pi r^2+10\pi r+0.25\pi$. $\blacksquare$
 
 ### Problem 4
 

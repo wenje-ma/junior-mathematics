@@ -14,15 +14,15 @@ Arrange the data in ascending order: $788$, $812$, $847$, $886$, $910$.
 
 There are $4$ ways to split (separating at the $4$ gaps).
 
-Gap $1$: $\{788\}$ and $\{812, 847, 886, 910\}$, within-group sum of squared deviations $=0+8220.75=8220.75$.
+Gap $1$: $\left\{788\right\}$ and $\left\{812, 847, 886, 910\right\}$, within-group sum of squared deviations $=0+8220.75=8220.75$.
 
-Gap $2$: $\{788, 812\}$ and $\{847, 886, 910\}$, within-group sum of squared deviations $=288+2058.67=2346.67$.
+Gap $2$: $\left\{788, 812\right\}$ and $\left\{847, 886, 910\right\}$, within-group sum of squared deviations $=288+2058.67=2346.67$.
 
-Gap $3$: $\{788, 812, 847\}$ and $\{886, 910\}$, within-group sum of squared deviations $=1896.67+288=2184.67$.
+Gap $3$: $\left\{788, 812, 847\right\}$ and $\left\{886, 910\right\}$, within-group sum of squared deviations $=1896.67+288=2184.67$.
 
-Gap $4$: $\{788, 812, 847, 886\}$ and $\{910\}$, within-group sum of squared deviations $=7798.75+0=7798.75$.
+Gap $4$: $\left\{788, 812, 847, 886\right\}$ and $\left\{910\right\}$, within-group sum of squared deviations $=7798.75+0=7798.75$.
 
-By **Conclusion 24.4.2** (Grouping Principle), gap $3$ has the smallest within-group sum of squared deviations. Hence split into $\{788, 812, 847\}$ and $\{886, 910\}$, i.e. $\{E, D, C\}$ and $\{B, A\}$. $\blacksquare$
+By **Conclusion 24.4.2** (Grouping Principle), gap $3$ has the smallest within-group sum of squared deviations. Hence split into $\left\{788, 812, 847\right\}$ and $\left\{886, 910\right\}$, i.e. $\left\{E, D, C\right\}$ and $\left\{B, A\right\}$. $\blacksquare$
 
 ### Problem 1
 
@@ -34,15 +34,15 @@ Arrange the data in ascending order: $7$, $9$, $12$, $13$, $15$.
 
 There are $4$ ways to split.
 
-Gap $1$: $\{7\}$ and $\{9, 12, 13, 15\}$, within-group sum of squared deviations $=0+21.5=21.5$.
+Gap $1$: $\left\{7\right\}$ and $\left\{9, 12, 13, 15\right\}$, within-group sum of squared deviations $=0+21.5=21.5$.
 
-Gap $2$: $\{7, 9\}$ and $\{12, 13, 15\}$, within-group sum of squared deviations $=2+6.67=8.67$.
+Gap $2$: $\left\{7, 9\right\}$ and $\left\{12, 13, 15\right\}$, within-group sum of squared deviations $=2+6.67=8.67$.
 
-Gap $3$: $\{7, 9, 12\}$ and $\{13, 15\}$, within-group sum of squared deviations $=18.67+2=20.67$.
+Gap $3$: $\left\{7, 9, 12\right\}$ and $\left\{13, 15\right\}$, within-group sum of squared deviations $=18.67+2=20.67$.
 
-Gap $4$: $\{7, 9, 12, 13\}$ and $\{15\}$, within-group sum of squared deviations $=24.75+0=24.75$.
+Gap $4$: $\left\{7, 9, 12, 13\right\}$ and $\left\{15\right\}$, within-group sum of squared deviations $=24.75+0=24.75$.
 
-By **Conclusion 24.4.2** (Grouping Principle), gap $2$ has the smallest within-group sum of squared deviations. Hence split into $\{7, 9\}$ and $\{12, 13, 15\}$. $\blacksquare$
+By **Conclusion 24.4.2** (Grouping Principle), gap $2$ has the smallest within-group sum of squared deviations. Hence split into $\left\{7, 9\right\}$ and $\left\{12, 13, 15\right\}$. $\blacksquare$
 
 ### Problem 2
 
@@ -54,8 +54,8 @@ Arrange the data in ascending order: $3$, $4$, $8$, $9$, $12$, $15$.
 
 There are $5$ ways to split. Compute each within-group sum of squared deviations:
 
-Gap $1$: $0+(4+16+49+144+225-5\times10.4)=...$
+Gap $1$: $0+\left(4+16+49+144+225-5\times10.4\right)=...$
 
-After computation, gap $3$ ($\{3, 4, 8\}$ and $\{9, 12, 15\}$) has the smallest within-group sum of squared deviations.
+After computation, gap $3$ ($\left\{3, 4, 8\right\}$ and $\left\{9, 12, 15\right\}$) has the smallest within-group sum of squared deviations.
 
-Hence split into $\{A, C, D\}$ ($3$, $4$, $8$) and $\{E, B, F\}$ ($9$, $12$, $15$). $\blacksquare$
+Hence split into $\left\{A, C, D\right\}$ ($3$, $4$, $8$) and $\left\{E, B, F\right\}$ ($9$, $12$, $15$). $\blacksquare$

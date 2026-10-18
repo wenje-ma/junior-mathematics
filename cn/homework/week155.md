@@ -108,7 +108,7 @@ $PA=PB$, $OA\perp PA$, $\angle PAB=90^\circ-25^\circ=65^\circ$. $\angle PBA=\ang
 
 (1) $OA\perp PA$, $OB\perp PB$, $OP\perp AB$.
 
-(2) 设半径 $r$, 在 $\text{Rt}\triangle OAP$ 中, $OP=OD+PD=r+2$, $OA=r$, $PA=4$. 故 $(r+2)^2=r^2+16$, $r^2+4r+4=r^2+16$, $r=3$. $\blacksquare$
+(2) 设半径 $r$, 在 $\text{Rt}\triangle OAP$ 中, $OP=OD+PD=r+2$, $OA=r$, $PA=4$. 故 $\left(r+2\right)^2=r^2+16$, $r^2+4r+4=r^2+16$, $r=3$. $\blacksquare$
 
 ### 习题一
 
@@ -176,7 +176,7 @@ $BC$ 为切线, $BC\perp AB$. $AD=DC$, 在 $\text{Rt}\triangle ABC$ 中 $D$ 为 
 
 由**定理 30.1.3** (切线长定理).
 
-$\angle BCE=35^\circ$, 切线与弦夹角等于所对圆周角, 故 $\angle BAC=35^\circ$. $\angle P=180^\circ-2\times(90^\circ-35^\circ)=70^\circ$. $\blacksquare$
+$\angle BCE=35^\circ$, 切线与弦夹角等于所对圆周角, 故 $\angle BAC=35^\circ$. $\angle P=180^\circ-2\times\left(90^\circ-35^\circ\right)=70^\circ$. $\blacksquare$
 
 ### 习题六
 
@@ -186,7 +186,7 @@ $\angle BCE=35^\circ$, 切线与弦夹角等于所对圆周角, 故 $\angle BAC=
 
 由**定理 30.1.2** (切线的判定).
 
-连接 $OB$. $\angle BOC=2\angle BDC=2(180^\circ-\angle A-\angle C)$ 相关计算: $\angle OBC=\angle C=27^\circ$, $\angle ABO=180^\circ-36^\circ-27^\circ-27^\circ=90^\circ$, 故 $AB\perp OB$, $AB$ 是切线. $\blacksquare$
+连接 $OB$. $\angle BOC=2\angle BDC=2\left(180^\circ-\angle A-\angle C\right)$ 相关计算: $\angle OBC=\angle C=27^\circ$, $\angle ABO=180^\circ-36^\circ-27^\circ-27^\circ=90^\circ$, 故 $AB\perp OB$, $AB$ 是切线. $\blacksquare$
 
 ### 习题七
 

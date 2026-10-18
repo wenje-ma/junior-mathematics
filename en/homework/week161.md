@@ -100,7 +100,7 @@ When the $C$ face is down, $p_C=\frac{F}{S}=2a$. $\blacksquare$
 
 (Review Problem 26, Comprehensive Application, Problem 8) Match the expressions of the following functions with their graphs:
 
-(1) $y=\frac{2}{x}$; (2) $y=\frac{2}{|x|}$; (3) $y=-\frac{2}{x}$; (4) $y=-\frac{2}{|x|}$.
+(1) $y=\frac{2}{x}$; (2) $y=\frac{2}{\left|x\right|}$; (3) $y=-\frac{2}{x}$; (4) $y=-\frac{2}{\left|x\right|}$.
 
 Graph (A): both branches lie above the $x$-axis; Graph (B): both branches lie in the first and third quadrants; Graph (C): both branches lie in the second and fourth quadrants; Graph (D): both branches lie below the $x$-axis.
 
@@ -110,11 +110,11 @@ By **Definition 26.1.2**.
 
 (1) $y=\frac{2}{x}$, $k=2>0$, lies in the first and third quadrants, corresponding to (B).
 
-(2) $y=\frac{2}{|x|}$, whether $x$ is positive or negative, $y>0$, both branches lie above the $x$-axis, corresponding to (A).
+(2) $y=\frac{2}{\left|x\right|}$, whether $x$ is positive or negative, $y>0$, both branches lie above the $x$-axis, corresponding to (A).
 
 (3) $y=-\frac{2}{x}$, $k=-2<0$, lies in the second and fourth quadrants, corresponding to (C).
 
-(4) $y=-\frac{2}{|x|}$, whether $x$ is positive or negative, $y<0$, both branches lie below the $x$-axis, corresponding to (D).
+(4) $y=-\frac{2}{\left|x\right|}$, whether $x$ is positive or negative, $y<0$, both branches lie below the $x$-axis, corresponding to (D).
 
 Thus (1)-(B), (2)-(A), (3)-(C), (4)-(D). $\blacksquare$
 

@@ -40,9 +40,9 @@ By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations
 
 From Activity 1, the basic price is $2.3$ yuan/$\text{m}^{3}$, and the excess is $1.5\times2.3=3.45$ yuan/$\text{m}^{3}$. Since $86.4>22\times2.3=50.6$, the usage exceeds $22\ \text{m}^{3}$:
 
-$$22\times2.3+(x-22)\times3.45=86.4.$$
+$$22\times2.3+\left(x-22\right)\times3.45=86.4.$$
 
-Simplifying: $50.6+3.45(x-22)=86.4$. $3.45(x-22)=35.8$. $x-22=10.38$. Giving $x\approx32.38\ \text{m}^{3}$. $\blacksquare$
+Simplifying: $50.6+3.45\left(x-22\right)=86.4$. $3.45\left(x-22\right)=35.8$. $x-22=10.38$. Giving $x\approx32.38\ \text{m}^{3}$. $\blacksquare$
 
 ### Activity 4
 

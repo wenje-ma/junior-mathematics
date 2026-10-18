@@ -20,13 +20,13 @@ By **Conclusion 23.3.2** (Linear Functions and Linear Inequalities in One Variab
 
 ### Exercise 2
 
-(Exercise 23.3, Problem 2) The graphs of the linear functions $y=2x-3$ and $y=ax+2$ intersect at $(2, 1)$. Determine the solution of the system $\begin{cases}y=2x-3\\y=ax+2\end{cases}$ and the value of $a$.
+(Exercise 23.3, Problem 2) The graphs of the linear functions $y=2x-3$ and $y=ax+2$ intersect at $\left(2, 1\right)$. Determine the solution of the system $\begin{cases}y=2x-3\\y=ax+2\end{cases}$ and the value of $a$.
 
 ### Solution to Exercise 2
 
-By **Conclusion 23.3.3** (Linear Functions and Systems of Linear Equations in Two Variables), the coordinates of the intersection of the two lines are the solution of the system. The intersection is $(2, 1)$, so the solution is $x=2$, $y=1$.
+By **Conclusion 23.3.3** (Linear Functions and Systems of Linear Equations in Two Variables), the coordinates of the intersection of the two lines are the solution of the system. The intersection is $\left(2, 1\right)$, so the solution is $x=2$, $y=1$.
 
-Substituting $(2, 1)$ into $y=ax+2$ gives $1=2a+2$, so $a=-\frac{1}{2}$. $\blacksquare$
+Substituting $\left(2, 1\right)$ into $y=ax+2$ gives $1=2a+2$, so $a=-\frac{1}{2}$. $\blacksquare$
 
 ### Exercise 3
 
@@ -80,9 +80,9 @@ By **Conclusion 23.3.3** (Linear Functions and Systems of Linear Equations in Tw
 
 ### Solution to Problem 4
 
-(1) Team A passes through $(0, 0)$ and $(6, 60)$, so $y=10x$ ($0 \leq x \leq 6$).
+(1) Team A passes through $\left(0, 0\right)$ and $\left(6, 60\right)$, so $y=10x$ ($0 \leq x \leq 6$).
 
-Over the interval $2 \leq x \leq 6$, Team B passes through $(2, 0)$ and $(6, 50)$; by the method of undetermined coefficients, $k=\frac{50-0}{6-2}=12.5$, $b=0-12.5\times2=-25$, so $y=12.5x-25$.
+Over the interval $2 \leq x \leq 6$, Team B passes through $\left(2, 0\right)$ and $\left(6, 50\right)$; by the method of undetermined coefficients, $k=\frac{50-0}{6-2}=12.5$, $b=0-12.5\times2=-25$, so $y=12.5x-25$.
 
 (2) By **Conclusion 23.3.3** (Linear Functions and Systems of Linear Equations in Two Variables), the lengths dug by the two teams being equal means $10x=12.5x-25$, giving $x=10$. But $x \leq 6$, so within the range shown the lengths are not equal. If we take the intersection of the graphs to be near $x=4$, then $10\times4=40$ and $12.5\times4-25=25$, which are not equal. Actually, from the figure the intersection is at $x=4, y=30$, so the lengths dug by the two teams are equal when $x=4$. $\blacksquare$
 

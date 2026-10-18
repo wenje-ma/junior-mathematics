@@ -14,11 +14,11 @@
 
 By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let $x\ \text{m}^{3}$ of wood be used for tabletops.
 
-Use $(12-x)\ \text{m}^{3}$ for table legs. The number of tabletops is $20x$, and the number of table legs is $400(12-x)$. Matching relation: number of legs $=4\times$ number of tabletops.
+Use $\left(12-x\right)\ \text{m}^{3}$ for table legs. The number of tabletops is $20x$, and the number of table legs is $400\left(12-x\right)$. Matching relation: number of legs $=4\times$ number of tabletops.
 
-$$400(12-x)=4\times20x.$$
+$$400\left(12-x\right)=4\times20x.$$
 
-Simplifying: $400(12-x)=80x$, $4800-400x=80x$, $4800=480x$, giving $x=10$. Hence use $10\ \text{m}^{3}$ for tabletops and $2\ \text{m}^{3}$ for table legs. $\blacksquare$
+Simplifying: $400\left(12-x\right)=80x$, $4800-400x=80x$, $4800=480x$, giving $x=10$. Hence use $10\ \text{m}^{3}$ for tabletops and $2\ \text{m}^{3}$ for table legs. $\blacksquare$
 
 ### Exercise 2
 
@@ -28,9 +28,9 @@ Simplifying: $400(12-x)=80x$, $4800-400x=80x$, $4800=480x$, giving $x=10$. Hence
 
 By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let $x$ days be spent making type-A parts.
 
-Making type-B parts takes $(30-x)$ days. The number of type-A parts is $500x$, and type-B parts is $250(30-x)$. Matching relation:
+Making type-B parts takes $\left(30-x\right)$ days. The number of type-A parts is $500x$, and type-B parts is $250\left(30-x\right)$. Matching relation:
 
-$$500x=250(30-x).$$
+$$500x=250\left(30-x\right).$$
 
 Simplifying: $500x=7500-250x$, $750x=7500$, giving $x=10$. Hence type-A takes $10$ days and type-B takes $20$ days. $\blacksquare$
 
@@ -42,7 +42,7 @@ Simplifying: $500x=7500-250x$, $750x=7500$, giving $x=10$. Hence type-A takes $1
 
 By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let the second person leave halfway for $x$ days.
 
-The two work together for $(40-x)$ days, and the first person works alone for $x$ days. The first person's rate is $\frac{1}{50}$, and the second person's rate is $\frac{1}{75}$. The total work is $1$:
+The two work together for $\left(40-x\right)$ days, and the first person works alone for $x$ days. The first person's rate is $\frac{1}{50}$, and the second person's rate is $\frac{1}{75}$. The total work is $1$:
 
 $$\frac{40}{50}+\frac{40-x}{75}=1.$$
 
@@ -56,7 +56,7 @@ Simplifying: $\frac{4}{5}+\frac{40-x}{75}=1$. Multiply both sides by $75$: $60+4
 
 By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let the cost be $x$ yuan.
 
-The marked price is $(1+50\%)x=1.5x$, and the discounted selling price is $0.8\times1.5x=1.2x$. Profit $=$ selling price $-$ cost:
+The marked price is $\left(1+50\%\right)x=1.5x$, and the discounted selling price is $0.8\times1.5x=1.2x$. Profit $=$ selling price $-$ cost:
 
 $$1.2x-x=28.$$
 
@@ -70,7 +70,7 @@ i.e. $0.2x=28$, giving $x=140$. Hence the cost is $140$ yuan. $\blacksquare$
 
 By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let the price be reduced by $x$ yuan.
 
-After the reduction the selling price is $(1500-x)$ yuan. The profit margin is no lower than $5\%$, i.e. profit $\ge 1000\times5\%=50$ yuan:
+After the reduction the selling price is $\left(1500-x\right)$ yuan. The profit margin is no lower than $5\%$, i.e. profit $\ge 1000\times5\%=50$ yuan:
 
 $$1500-x-1000=50.$$
 
@@ -84,7 +84,7 @@ i.e. $500-x=50$, giving $x=450$. Hence the shop can reduce the price by at most 
 
 By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let the number of 3-pointers made be $x$.
 
-The number of 2-pointers made is $(x+4)$. Total points: $3x+2(x+4)=23$. Simplifying: $3x+2x+8=23$, $5x=15$, giving $x=3$. So $3$ 3-pointers and $7$ 2-pointers. $\blacksquare$
+The number of 2-pointers made is $\left(x+4\right)$. Total points: $3x+2\left(x+4\right)=23$. Simplifying: $3x+2x+8=23$, $5x=15$, giving $x=3$. So $3$ 3-pointers and $7$ 2-pointers. $\blacksquare$
 
 ### Exercise 7
 
@@ -94,7 +94,7 @@ The number of 2-pointers made is $(x+4)$. Total points: $3x+2(x+4)=23$. Simplify
 
 By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let it win $x$ matches.
 
-The number of draws is $(8-1-x)=(7-x)$. Points: $3x+(7-x)=17$. Simplifying: $2x+7=17$, $2x=10$, giving $x=5$. Hence in the first $8$ matches it won $5$. $\blacksquare$
+The number of draws is $\left(8-1-x\right)=\left(7-x\right)$. Points: $3x+\left(7-x\right)=17$. Simplifying: $2x+7=17$, $2x=10$, giving $x=5$. Hence in the first $8$ matches it won $5$. $\blacksquare$
 
 ### Exercise 8
 
@@ -104,9 +104,9 @@ The number of draws is $(8-1-x)=(7-x)$. Points: $3x+(7-x)=17$. Simplifying: $2x+
 
 By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let $x$ students participate.
 
-Agency A cost: $200\times0.75x=150x$ yuan. Agency B cost: $200\times0.8(x-1)=160(x-1)$ yuan.
+Agency A cost: $200\times0.75x=150x$ yuan. Agency B cost: $200\times0.8\left(x-1\right)=160\left(x-1\right)$ yuan.
 
-Set the two equal: $150x=160(x-1)$, $150x=160x-160$, giving $x=16$. When $x<16$, agency B is cheaper; when $x>16$, agency A is cheaper; when $x=16$, the two cost the same. $\blacksquare$
+Set the two equal: $150x=160\left(x-1\right)$, $150x=160x-160$, giving $x=16$. When $x<16$, agency B is cheaper; when $x>16$, agency A is cheaper; when $x=16$, the two cost the same. $\blacksquare$
 
 ### Exercise 9
 
@@ -130,11 +130,11 @@ Simplifying: $50=0.20x$, giving $x=250$. Hence at $250$ minutes of calls the two
 
 By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let $x\ \text{kg}$ of flour be used for large mooncakes.
 
-Use $(4500-x)\ \text{kg}$ for small mooncakes. The number of large mooncakes $\frac{x}{0.05}$, and small mooncakes $\frac{4500-x}{0.02}$. Each box has $2$ large and $4$ small:
+Use $\left(4500-x\right)\ \text{kg}$ for small mooncakes. The number of large mooncakes $\frac{x}{0.05}$, and small mooncakes $\frac{4500-x}{0.02}$. Each box has $2$ large and $4$ small:
 
 $$\frac{x}{0.05}\div2=\frac{4500-x}{0.02}\div4.$$
 
-i.e. $\frac{x}{0.1}=\frac{4500-x}{0.08}$. Cross-multiplying: $0.08x=0.1(4500-x)$, $0.08x=450-0.1x$, $0.18x=450$, giving $x=2500$. Hence large mooncakes use $2500\ \text{kg}$ and small mooncakes use $2000\ \text{kg}$. $\blacksquare$
+i.e. $\frac{x}{0.1}=\frac{4500-x}{0.08}$. Cross-multiplying: $0.08x=0.1\left(4500-x\right)$, $0.08x=450-0.1x$, $0.18x=450$, giving $x=2500$. Hence large mooncakes use $2500\ \text{kg}$ and small mooncakes use $2000\ \text{kg}$. $\blacksquare$
 
 ### Problem 2
 
@@ -144,9 +144,9 @@ i.e. $\frac{x}{0.1}=\frac{4500-x}{0.08}$. Cross-multiplying: $0.08x=0.1(4500-x)$
 
 By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let the wholesale price of a small backpack be $x$ yuan.
 
-The wholesale price of a large backpack is $(x+10)$ yuan. Small backpack profit $0.3x$, large backpack profit $0.2(x+10)$. Equal profit:
+The wholesale price of a large backpack is $\left(x+10\right)$ yuan. Small backpack profit $0.3x$, large backpack profit $0.2\left(x+10\right)$. Equal profit:
 
-$$0.3x=0.2(x+10).$$
+$$0.3x=0.2\left(x+10\right).$$
 
 Simplifying: $0.3x=0.2x+2$, $0.1x=2$, giving $x=20$. A small backpack costs $20$ yuan, and a large backpack costs $30$ yuan. $\blacksquare$
 
@@ -158,11 +158,11 @@ Simplifying: $0.3x=0.2x+2$, $0.1x=2$, giving $x=20$. A small backpack costs $20$
 
 By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let the prescribed time be $t$ hours.
 
-Arriving $24\ \text{min}=\frac{24}{60}=0.4\ \text{h}$ early, the actual time taken is $(t-0.4)$ hours; arriving $15\ \text{min}=0.25\ \text{h}$ late, the actual time taken is $(t+0.25)$ hours. The distance is unchanged:
+Arriving $24\ \text{min}=\frac{24}{60}=0.4\ \text{h}$ early, the actual time taken is $\left(t-0.4\right)$ hours; arriving $15\ \text{min}=0.25\ \text{h}$ late, the actual time taken is $\left(t+0.25\right)$ hours. The distance is unchanged:
 
-$$15(t-0.4)=12(t+0.25).$$
+$$15\left(t-0.4\right)=12\left(t+0.25\right).$$
 
-Remove parentheses: $15t-6=12t+3$. Transpose: $3t=9$, giving $t=3$. The distance $=15(3-0.4)=15\times2.6=39\ \text{km}$. Hence the prescribed time is $3$ hours and the distance is $39\ \text{km}$. $\blacksquare$
+Remove parentheses: $15t-6=12t+3$. Transpose: $3t=9$, giving $t=3$. The distance $=15\left(3-0.4\right)=15\times2.6=39\ \text{km}$. Hence the prescribed time is $3$ hours and the distance is $39\ \text{km}$. $\blacksquare$
 
 ### Problem 4
 
@@ -196,9 +196,9 @@ The total number of parts is unchanged: $13x+20=16x-16$. Transpose: $36=3x$, giv
 
 By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations).
 
-(1) The $84$ kWh exceeds $a$ kWh. Electricity cost: $0.40a+0.40\times1.2(84-a)=35.52$. Simplifying: $0.4a+0.48(84-a)=35.52$. Remove parentheses: $0.4a+40.32-0.48a=35.52$. Combine: $-0.08a=-4.8$, giving $a=60$.
+(1) The $84$ kWh exceeds $a$ kWh. Electricity cost: $0.40a+0.40\times1.2\left(84-a\right)=35.52$. Simplifying: $0.4a+0.48\left(84-a\right)=35.52$. Remove parentheses: $0.4a+40.32-0.48a=35.52$. Combine: $-0.08a=-4.8$, giving $a=60$.
 
-(2) Let $x$ kWh be used in June. The average price is $0.42$ yuan per kWh, so the total cost is $0.42x$ yuan. By tiered pricing: $0.40\times60+0.48(x-60)=0.42x$. Simplifying: $24+0.48x-28.8=0.42x$. Combine: $0.06x=4.8$, giving $x=80$. Hence $80$ kWh were used in June. $\blacksquare$
+(2) Let $x$ kWh be used in June. The average price is $0.42$ yuan per kWh, so the total cost is $0.42x$ yuan. By tiered pricing: $0.40\times60+0.48\left(x-60\right)=0.42x$. Simplifying: $24+0.48x-28.8=0.42x$. Combine: $0.06x=4.8$, giving $x=80$. Hence $80$ kWh were used in June. $\blacksquare$
 
 ### Problem 7
 
@@ -216,7 +216,7 @@ By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations
 
 Plan 1: $4$ days of milk tablets make $4\ \text{t}$, and the remaining $5\ \text{t}$ are sold directly. Profit $=4\times2000+5\times500=8000+2500=10500$ yuan.
 
-Plan 2: let milk tablets take $x$ days and yogurt take $(4-x)$ days. The amount of milk tablets is $x\ \text{t}$, and yogurt is $3(4-x)\ \text{t}$. Total $9\ \text{t}$: $x+3(4-x)=9$. Simplifying: $x+12-3x=9$, $-2x=-3$, giving $x=1.5$. Milk tablets $1.5\ \text{t}$, yogurt $7.5\ \text{t}$. Profit $=1.5\times2000+7.5\times1200=3000+9000=12000$ yuan.
+Plan 2: let milk tablets take $x$ days and yogurt take $\left(4-x\right)$ days. The amount of milk tablets is $x\ \text{t}$, and yogurt is $3\left(4-x\right)\ \text{t}$. Total $9\ \text{t}$: $x+3\left(4-x\right)=9$. Simplifying: $x+12-3x=9$, $-2x=-3$, giving $x=1.5$. Milk tablets $1.5\ \text{t}$, yogurt $7.5\ \text{t}$. Profit $=1.5\times2000+7.5\times1200=3000+9000=12000$ yuan.
 
 Plan 2 profit $12000>10500$, so Plan 2 yields the most profit. $\blacksquare$
 
@@ -248,7 +248,7 @@ Working together for $3$ days they complete: $3\left(\frac{1}{15}+\frac{1}{12}\r
 
 By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let the April gas usage be $x\ \text{m}^{3}$.
 
-The average price is $0.88$ yuan per cubic meter, so the total cost is $0.88x$ yuan. Since the average price $0.88>0.8$, we have $x>60$. Tiered billing: $0.8\times60+1.2(x-60)=0.88x$. Simplifying: $48+1.2x-72=0.88x$. Combine: $0.32x=24$, giving $x=75$. Total cost $=0.88\times75=66$ yuan. $\blacksquare$
+The average price is $0.88$ yuan per cubic meter, so the total cost is $0.88x$ yuan. Since the average price $0.88>0.8$, we have $x>60$. Tiered billing: $0.8\times60+1.2\left(x-60\right)=0.88x$. Simplifying: $48+1.2x-72=0.88x$. Combine: $0.32x=24$, giving $x=75$. Total cost $=0.88\times75=66$ yuan. $\blacksquare$
 
 ### Problem 11
 
@@ -258,11 +258,11 @@ The average price is $0.88$ yuan per cubic meter, so the total cost is $0.88x$ y
 
 By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let the cost be reduced by $x$ yuan per piece.
 
-This quarter's profit: $(510-400)m=110m$. Next quarter's selling price: $510\times(1-4\%)=510\times0.96=489.6$ yuan. Sales volume: $m(1+10\%)=1.1m$. Next quarter's cost: $(400-x)$ yuan. Profit unchanged:
+This quarter's profit: $\left(510-400\right)m=110m$. Next quarter's selling price: $510\times\left(1-4\%\right)=510\times0.96=489.6$ yuan. Sales volume: $m\left(1+10\%\right)=1.1m$. Next quarter's cost: $\left(400-x\right)$ yuan. Profit unchanged:
 
-$$(489.6-400+x)\times1.1m=110m.$$
+$$\left(489.6-400+x\right)\times1.1m=110m.$$
 
-Simplifying: $(89.6+x)\times1.1=110$. $98.56+1.1x=110$. $1.1x=11.44$. Giving $x=10.4$. Hence the cost per piece should be reduced by $10.4$ yuan. $\blacksquare$
+Simplifying: $\left(89.6+x\right)\times1.1=110$. $98.56+1.1x=110$. $1.1x=11.44$. Giving $x=10.4$. Hence the cost per piece should be reduced by $10.4$ yuan. $\blacksquare$
 
 ### Problem 12
 
@@ -272,11 +272,11 @@ Simplifying: $(89.6+x)\times1.1=110$. $98.56+1.1x=110$. $1.1x=11.44$. Giving $x=
 
 By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let the A-to-B voyage be $x\ \text{km}$.
 
-The downstream speed $=7.5+2.5=10\ \text{km/h}$, and the upstream speed $=7.5-2.5=5\ \text{km/h}$. The B-to-C voyage is $(x-10)\ \text{km}$. Total time:
+The downstream speed $=7.5+2.5=10\ \text{km/h}$, and the upstream speed $=7.5-2.5=5\ \text{km/h}$. The B-to-C voyage is $\left(x-10\right)\ \text{km}$. Total time:
 
 $$\frac{x}{10}+\frac{x-10}{5}=7.$$
 
-Multiply both sides by $10$: $x+2(x-10)=70$. Remove parentheses: $x+2x-20=70$. Combine: $3x=90$, giving $x=30$. Hence the voyage between docks A and B is $30\ \text{km}$. $\blacksquare$
+Multiply both sides by $10$: $x+2\left(x-10\right)=70$. Remove parentheses: $x+2x-20=70$. Combine: $3x=90$, giving $x=30$. Hence the voyage between docks A and B is $30\ \text{km}$. $\blacksquare$
 
 ### Problem 13
 
@@ -284,11 +284,11 @@ Multiply both sides by $10$: $x+2(x-10)=70$. Remove parentheses: $x+2x-20=70$. C
 
 ### Solution to Problem 13
 
-By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let product A be $x$ pieces and product B be $(50-x)$ pieces.
+By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let product A be $x$ pieces and product B be $\left(50-x\right)$ pieces.
 
-Type-A material: $9x+4(50-x)\le360$. Simplifying: $5x+200\le360$, $5x\le160$, $x\le32$.
+Type-A material: $9x+4\left(50-x\right)\le360$. Simplifying: $5x+200\le360$, $5x\le160$, $x\le32$.
 
-Type-B material: $3x+10(50-x)\le290$. Simplifying: $-7x+500\le290$, $-7x\le-210$, $x\ge30$.
+Type-B material: $3x+10\left(50-x\right)\le290$. Simplifying: $-7x+500\le290$, $-7x\le-210$, $x\ge30$.
 
 Hence $30\le x\le32$, $x$ an integer, $x=30,31,32$. There are three plans: A 30 pieces and B 20 pieces; A 31 pieces and B 19 pieces; A 32 pieces and B 18 pieces. $\blacksquare$
 
@@ -300,11 +300,11 @@ Hence $30\le x\le32$, $x$ an integer, $x=30,31,32$. There are three plans: A 30 
 
 By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let group B have $n$ inspectors.
 
-Group A's first $2$ days inspect $2$ workshops: each workshop originally has $a$ pieces and produces $2b$ in $2$ days. The two workshops have $2(a+2b)$ pieces in total; $8$ inspectors finish in $2$ days, so each inspector per day inspects $\frac{2(a+2b)}{8\times2}=\frac{a+2b}{8}$ pieces.
+Group A's first $2$ days inspect $2$ workshops: each workshop originally has $a$ pieces and produces $2b$ in $2$ days. The two workshops have $2\left(a+2b\right)$ pieces in total; $8$ inspectors finish in $2$ days, so each inspector per day inspects $\frac{2\left(a+2b\right)}{8\times2}=\frac{a+2b}{8}$ pieces.
 
-Group A's next $3$ days inspect $2$ workshops: each workshop produces $5b$ in $5$ days and originally has $a$ pieces. The two workshops have $2(a+5b)$ pieces in total; $8$ inspectors finish in $3$ days, so each inspector per day inspects $\frac{2(a+5b)}{8\times3}=\frac{a+5b}{12}$ pieces.
+Group A's next $3$ days inspect $2$ workshops: each workshop produces $5b$ in $5$ days and originally has $a$ pieces. The two workshops have $2\left(a+5b\right)$ pieces in total; $8$ inspectors finish in $3$ days, so each inspector per day inspects $\frac{2\left(a+5b\right)}{8\times3}=\frac{a+5b}{12}$ pieces.
 
-Each person's speed is the same: $\frac{a+2b}{8}=\frac{a+5b}{12}$. Cross-multiplying: $12(a+2b)=8(a+5b)$. $12a+24b=8a+40b$. $4a=16b$, giving $a=4b$.
+Each person's speed is the same: $\frac{a+2b}{8}=\frac{a+5b}{12}$. Cross-multiplying: $12\left(a+2b\right)=8\left(a+5b\right)$. $12a+24b=8a+40b$. $4a=16b$, giving $a=4b$.
 
 Each inspector per day inspects: $\frac{a+2b}{8}=\frac{4b+2b}{8}=\frac{6b}{8}=\frac{3b}{4}$ pieces.
 

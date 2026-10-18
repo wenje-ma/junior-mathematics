@@ -44,19 +44,19 @@ The cycling time cannot be negative, and once Li Ming reaches $B$ the distance i
 
 (Review Problem, Review and Consolidation, Problem 3) Determine whether the following points lie on the graph of $y=\frac{1}{2}x+1$.
 
-$(-2, -1)$, $(-1, 0)$, $(0, 1)$, $(1, 2)$.
+$\left(-2, -1\right)$, $\left(-1, 0\right)$, $\left(0, 1\right)$, $\left(1, 2\right)$.
 
 ### Solution to Review Problem 3
 
 By **Definition 22.2.1** (Graph of a Function), the coordinates of a point on the graph satisfy the analytic expression.
 
-Substitute $x=-2$ into $y=\frac{1}{2}x+1$: $y=\frac{1}{2}\times(-2)+1=0 \neq -1$, so $(-2, -1)$ is not on the graph.
+Substitute $x=-2$ into $y=\frac{1}{2}x+1$: $y=\frac{1}{2}\times\left(-2\right)+1=0 \neq -1$, so $\left(-2, -1\right)$ is not on the graph.
 
-Substitute $x=-1$: $y=\frac{1}{2}\times(-1)+1=\frac{1}{2} \neq 0$, so $(-1, 0)$ is not on the graph.
+Substitute $x=-1$: $y=\frac{1}{2}\times\left(-1\right)+1=\frac{1}{2} \neq 0$, so $\left(-1, 0\right)$ is not on the graph.
 
-Substitute $x=0$: $y=\frac{1}{2}\times0+1=1$, which matches the y-coordinate, so $(0, 1)$ is on the graph.
+Substitute $x=0$: $y=\frac{1}{2}\times0+1=1$, which matches the y-coordinate, so $\left(0, 1\right)$ is on the graph.
 
-Substitute $x=1$: $y=\frac{1}{2}\times1+1=\frac{3}{2} \neq 2$, so $(1, 2)$ is not on the graph. $\blacksquare$
+Substitute $x=1$: $y=\frac{1}{2}\times1+1=\frac{3}{2} \neq 2$, so $\left(1, 2\right)$ is not on the graph. $\blacksquare$
 
 ### Review Problem 4
 
@@ -92,17 +92,17 @@ $\blacksquare$
 
 ### Review Problem 6
 
-(Review Problem, Comprehensive Application, Problem 6) (1) Draw the graph of the function $y=|x-1|$;
+(Review Problem, Comprehensive Application, Problem 6) (1) Draw the graph of the function $y=\left|x-1\right|$;
 
-(2) Let $P(x, 0)$ be a moving point on the $x$-axis; its distance to the point on the $x$-axis representing $-3$ is $y$. Find the analytic expression for $y$ as a function of $x$, and draw the graph of this function.
+(2) Let $P\left(x, 0\right)$ be a moving point on the $x$-axis; its distance to the point on the $x$-axis representing $-3$ is $y$. Find the analytic expression for $y$ as a function of $x$, and draw the graph of this function.
 
 ### Solution to Review Problem 6
 
-(1) When $x \geq 1$, $y=x-1$; when $x < 1$, $y=1-x$. Make a table, plot and join points, obtaining a V-shaped graph with vertex at $(1, 0)$.
+(1) When $x \geq 1$, $y=x-1$; when $x < 1$, $y=1-x$. Make a table, plot and join points, obtaining a V-shaped graph with vertex at $\left(1, 0\right)$.
 
 ![week111-2.svg](../../figures/week111-2.svg){width=50%}
 
-(2) The distance from $P(x, 0)$ to $(-3, 0)$ is $|x-(-3)|=|x+3|$. So the analytic expression is $y=|x+3|$, and the graph is V-shaped with vertex at $(-3, 0)$. $\blacksquare$
+(2) The distance from $P\left(x, 0\right)$ to $\left(-3, 0\right)$ is $\left|x-\left(-3\right)\right|=\left|x+3\right|$. So the analytic expression is $y=\left|x+3\right|$, and the graph is V-shaped with vertex at $\left(-3, 0\right)$. $\blacksquare$
 
 ### Review Problem 7
 
@@ -131,7 +131,7 @@ A quadrilateral has $2$ diagonals, a pentagon has $5$ diagonals, and a hexagon h
 An $n$-gon has $n$ vertices; each vertex connects by a diagonal to the other $n-3$ vertices (excluding itself and its two adjacent vertices); each diagonal is counted twice, so the number of diagonals is
 
 $$
-y = \frac{n(n-3)}{2} \quad (n \geq 3,\ n \text{ 为整数}).
+y = \frac{n\left(n-3\right)}{2} \quad \left(n \geq 3,\ n \text{ 为整数}\right).
 $$
 
 For each definite value of the number of sides $n$, the number of diagonals $y$ has a unique definite value corresponding to it, so $y$ is a function of $n$.

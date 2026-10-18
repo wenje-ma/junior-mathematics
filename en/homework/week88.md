@@ -16,7 +16,7 @@
 
 (3) $\frac{n^2}{2 m}\cdot\frac{4 m}{5 n^3}$;
 
-(4) $\frac{a+b}{2 ab}\cdot\frac{4 a^2 b}{(a+b)^2}$.
+(4) $\frac{a+b}{2 ab}\cdot\frac{4 a^2 b}{\left(a+b\right)^2}$.
 
 ### Solution to Exercise 1
 
@@ -28,7 +28,7 @@ By **Definition 18.2.1**.
 
 (3) $\frac{n^2}{2m}\cdot\frac{4m}{5n^3}=\frac{4m n^2}{10m n^3}=\frac{2}{5n}$.
 
-(4) $\frac{a+b}{2ab}\cdot\frac{4a^2 b}{(a+b)^2}=\frac{4a^2 b(a+b)}{2ab(a+b)^2}=\frac{2a}{a+b}$. $\blacksquare$
+(4) $\frac{a+b}{2ab}\cdot\frac{4a^2 b}{\left(a+b\right)^2}=\frac{4a^2 b\left(a+b\right)}{2ab\left(a+b\right)^2}=\frac{2a}{a+b}$. $\blacksquare$
 
 ### Exercise 2
 
@@ -56,7 +56,7 @@ By **Definition 18.2.1**.
 
 (3) $\frac{4}{3 x y}\div\frac{2}{3 x y^2}$;
 
-(4) $\frac{a^2-4}{a^2+4 a+4}\div(a+2)$.
+(4) $\frac{a^2-4}{a^2+4 a+4}\div\left(a+2\right)$.
 
 ### Solution to Exercise 3
 
@@ -68,7 +68,7 @@ By **Definition 18.2.2**.
 
 (3) $\frac{4}{3xy}\div\frac{2}{3xy^2}=\frac{4}{3xy}\cdot\frac{3xy^2}{2}=2y$.
 
-(4) $\frac{a^2-4}{a^2+4a+4}\div(a+2)=\frac{(a+2)(a-2)}{(a+2)^2}\cdot\frac{1}{a+2}=\frac{a-2}{(a+2)^2}$. $\blacksquare$
+(4) $\frac{a^2-4}{a^2+4a+4}\div\left(a+2\right)=\frac{\left(a+2\right)\left(a-2\right)}{\left(a+2\right)^2}\cdot\frac{1}{a+2}=\frac{a-2}{\left(a+2\right)^2}$. $\blacksquare$
 
 ### Exercise 4
 
@@ -76,13 +76,13 @@ By **Definition 18.2.2**.
 
 (1) $\frac{3 x}{4 y}\cdot\frac{16 y}{9 x^2}$;
 
-(2) $(xy-x^2)\div\frac{x-y}{xy}$.
+(2) $\left(xy-x^2\right)\div\frac{x-y}{xy}$.
 
 ### Solution to Exercise 4
 
 (1) $\frac{3x}{4y}\cdot\frac{16y}{9x^2}=\frac{48xy}{36x^2 y}=\frac{4}{3x}$.
 
-(2) $(xy-x^2)\div\frac{x-y}{xy}=x(y-x)\cdot\frac{xy}{x-y}=-x(x-y)\cdot\frac{xy}{x-y}=-x^2 y$. $\blacksquare$
+(2) $\left(xy-x^2\right)\div\frac{x-y}{xy}=x\left(y-x\right)\cdot\frac{xy}{x-y}=-x\left(x-y\right)\cdot\frac{xy}{x-y}=-x^2 y$. $\blacksquare$
 
 ### Exercise 5
 
@@ -98,11 +98,11 @@ By **Definition 18.2.2**.
 
 By **Definition 18.2.3**.
 
-(1) Correct; $\left(\frac{b^2}{a}\right)^3=\frac{(b^2)^3}{a^3}=\frac{b^6}{a^3}$.
+(1) Correct; $\left(\frac{b^2}{a}\right)^3=\frac{\left(b^2\right)^3}{a^3}=\frac{b^6}{a^3}$.
 
 (2) Correct; $\left(-\frac{b^2}{a}\right)^3=-\frac{b^6}{a^3}$.
 
-(3) Incorrect; $\left(\frac{2a}{a+b}\right)^2=\frac{4a^2}{(a+b)^2}$, the denominator should also be squared. $\blacksquare$
+(3) Incorrect; $\left(\frac{2a}{a+b}\right)^2=\frac{4a^2}{\left(a+b\right)^2}$, the denominator should also be squared. $\blacksquare$
 
 ### Exercise 6
 
@@ -156,11 +156,11 @@ By **Definition 18.2.3**.
 
 ### Solution to Problem 2
 
-(1) Note that this is addition; $\frac{2a}{a+1}+\frac{a^2}{a+1}=\frac{a^2+2a}{a+1}=\frac{a(a+2)}{a+1}$.
+(1) Note that this is addition; $\frac{2a}{a+1}+\frac{a^2}{a+1}=\frac{a^2+2a}{a+1}=\frac{a\left(a+2\right)}{a+1}$.
 
-(2) $\frac{m^2-16}{12-3m}\div\frac{m+4}{m^2-4m}=\frac{(m+4)(m-4)}{3(4-m)}\cdot\frac{m(m-4)}{m+4}=\frac{(m-4)}{3(-(m-4))}\cdot m(m-4)=-\frac{m(m-4)}{3}$.
+(2) $\frac{m^2-16}{12-3m}\div\frac{m+4}{m^2-4m}=\frac{\left(m+4\right)\left(m-4\right)}{3\left(4-m\right)}\cdot\frac{m\left(m-4\right)}{m+4}=\frac{\left(m-4\right)}{3\left(-\left(m-4\right)\right)}\cdot m\left(m-4\right)=-\frac{m\left(m-4\right)}{3}$.
 
-(3) $\frac{x^2+x}{x-1}\div\frac{x}{x-1}=\frac{x(x+1)}{x-1}\cdot\frac{x-1}{x}=x+1$.
+(3) $\frac{x^2+x}{x-1}\div\frac{x}{x-1}=\frac{x\left(x+1\right)}{x-1}\cdot\frac{x-1}{x}=x+1$.
 
 (4) $\frac{2x}{x-1}\div\frac{x}{x-1}=\frac{2x}{x-1}\cdot\frac{x-1}{x}=2$. $\blacksquare$
 
@@ -200,7 +200,7 @@ By **Definition 18.2.3**.
 
 (1) $\frac{a^4 b^2}{c^2}\cdot\left(-\frac{c^6}{a^3 b^3}\right)\div\frac{b^4 c^4}{a^4}=-\frac{a^4 b^2 c^6}{a^3 b^3 c^2}\cdot\frac{a^4}{b^4 c^4}=-\frac{a^5}{b^5}$.
 
-(2) $\frac{a-b}{a(a+b)}\div\frac{a(a-b)}{(a+b)(a-b)}=\frac{a-b}{a(a+b)}\cdot\frac{(a+b)(a-b)}{a(a-b)}=\frac{a-b}{a^2}$. $\blacksquare$
+(2) $\frac{a-b}{a\left(a+b\right)}\div\frac{a\left(a-b\right)}{\left(a+b\right)\left(a-b\right)}=\frac{a-b}{a\left(a+b\right)}\cdot\frac{\left(a+b\right)\left(a-b\right)}{a\left(a-b\right)}=\frac{a-b}{a^2}$. $\blacksquare$
 
 ### Problem 5
 
@@ -214,23 +214,23 @@ By **Definition 18.2.3**.
 
 (1) $\frac{m}{3n}\cdot\frac{9m}{n}\cdot\frac{3m}{n^2}=\frac{27m^3}{3n^4}=\frac{9m^3}{n^4}$.
 
-(2) $\left(\frac{2x}{x+y}-\frac{x}{x-y}\right)\cdot\frac{(x+y)(x-y)}{x}=\frac{2x(x-y)-x(x+y)}{(x+y)(x-y)}\cdot\frac{(x+y)(x-y)}{x}=2(x-y)-(x+y)=x-3y$. $\blacksquare$
+(2) $\left(\frac{2x}{x+y}-\frac{x}{x-y}\right)\cdot\frac{\left(x+y\right)\left(x-y\right)}{x}=\frac{2x\left(x-y\right)-x\left(x+y\right)}{\left(x+y\right)\left(x-y\right)}\cdot\frac{\left(x+y\right)\left(x-y\right)}{x}=2\left(x-y\right)-\left(x+y\right)=x-3y$. $\blacksquare$
 
 ### Problem 6
 
-(Exercise 18.2, Comprehensive Application, Problem 6) As shown in the figure, there are two rectangular flower beds, A and B. Flower bed A has length $a$ and width $b$; flower bed B has length $(a+b)$ and width $(a-b)$ ($a>b$). Which flower bed has the larger area? By how much?
+(Exercise 18.2, Comprehensive Application, Problem 6) As shown in the figure, there are two rectangular flower beds, A and B. Flower bed A has length $a$ and width $b$; flower bed B has length $\left(a+b\right)$ and width $\left(a-b\right)$ ($a>b$). Which flower bed has the larger area? By how much?
 
 ![week88-1.svg](../../figures/week88-1.svg){width=50%}
 
 ### Solution to Problem 6
 
-The area of flower bed A is $S_1=ab$, and the area of flower bed B is $S_2=(a+b)(a-b)=a^2-b^2$.
+The area of flower bed A is $S_1=ab$, and the area of flower bed B is $S_2=\left(a+b\right)\left(a-b\right)=a^2-b^2$.
 
 Compare $S_2-S_1=a^2-b^2-ab$. Since $a>b>0$, for example when $a=2,b=1$, we have $S_2=3$, $S_1=2$, so $S_2>S_1$. In general, the question asks "which is larger and by how much":
 
 $$S_2-S_1=a^2-b^2-ab.$$
 
-When $a^2-ab-b^2>0$, i.e. $a>\frac{1+\sqrt5}{2}b$, flower bed B is larger. Under the textbook setup, the area of flower bed B is $a^2-b^2$ and that of A is $ab$, so B is larger than A by $(a^2-b^2-ab)$. $\blacksquare$
+When $a^2-ab-b^2>0$, i.e. $a>\frac{1+\sqrt5}{2}b$, flower bed B is larger. Under the textbook setup, the area of flower bed B is $a^2-b^2$ and that of A is $ab$, so B is larger than A by $\left(a^2-b^2-ab\right)$. $\blacksquare$
 
 ### Problem 7
 
@@ -242,7 +242,7 @@ The time going is $\frac{a}{v_1}$, and the time returning is $\frac{a}{v_2}$. Th
 
 Average speed
 
-$$\bar v=\frac{2a}{\frac{a}{v_1}+\frac{a}{v_2}}=\frac{2a}{a\frac{v_1+v_2}{v_1 v_2}}=\frac{2v_1 v_2}{v_1+v_2}\ (\text{km/h}).$$
+$$\bar v=\frac{2a}{\frac{a}{v_1}+\frac{a}{v_2}}=\frac{2a}{a\frac{v_1+v_2}{v_1 v_2}}=\frac{2v_1 v_2}{v_1+v_2}\ \left(\text{km/h}\right).$$
 
 $\blacksquare$
 
@@ -252,6 +252,6 @@ $\blacksquare$
 
 ### Solution to Problem 8
 
-$$\frac{(x+2y)(x-2y)}{(x+y)^2}\div\frac{x+2y}{x(x+y)}\cdot\frac{x}{x-2y}=\frac{(x+2y)(x-2y)}{(x+y)^2}\cdot\frac{x(x+y)}{x+2y}\cdot\frac{x}{x-2y}=\frac{x^2}{x+y}.$$
+$$\frac{\left(x+2y\right)\left(x-2y\right)}{\left(x+y\right)^2}\div\frac{x+2y}{x\left(x+y\right)}\cdot\frac{x}{x-2y}=\frac{\left(x+2y\right)\left(x-2y\right)}{\left(x+y\right)^2}\cdot\frac{x\left(x+y\right)}{x+2y}\cdot\frac{x}{x-2y}=\frac{x^2}{x+y}.$$
 
 $\blacksquare$

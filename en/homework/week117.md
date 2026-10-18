@@ -8,17 +8,17 @@
 
 ### Review Problem 1
 
-(Review, Review and Consolidation, Problem 1) Given that the graph of the direct proportional function $y=kx$ passes through the point $(-2, 4)$, then $k=\;\_\_\;$, and the graph of this function passes through the $\;\_\_\;$ quadrants.
+(Review, Review and Consolidation, Problem 1) Given that the graph of the direct proportional function $y=kx$ passes through the point $\left(-2, 4\right)$, then $k=\;\_\_\;$, and the graph of this function passes through the $\;\_\_\;$ quadrants.
 
 ### Solution to Review Problem 1
 
-Substituting $(-2, 4)$ into $y=kx$ gives $4=-2k$, so $k=-2$.
+Substituting $\left(-2, 4\right)$ into $y=kx$ gives $4=-2k$, so $k=-2$.
 
 By **Conclusion 23.2.2** (Graph and Properties of the Linear Function), $k=-2<0$, so the graph passes through the second and fourth quadrants. $\blacksquare$
 
 ### Review Problem 2
 
-(Review, Review and Consolidation, Problem 2) If the graph of the linear function $y=(2-m)x+m-3$ passes through the origin, then $m=\;\_\_\;$.
+(Review, Review and Consolidation, Problem 2) If the graph of the linear function $y=\left(2-m\right)x+m-3$ passes through the origin, then $m=\;\_\_\;$.
 
 ### Solution to Review Problem 2
 
@@ -30,21 +30,21 @@ The graph passing through the origin means $y=0$ when $x=0$, so $m-3=0$, giving 
 
 ### Solution to Review Problem 3
 
-Setting $y=0$, $2x+4=0$, gives $x=-2$, so the intersection with the $x$-axis is $(-2, 0)$.
+Setting $y=0$, $2x+4=0$, gives $x=-2$, so the intersection with the $x$-axis is $\left(-2, 0\right)$.
 
-Setting $x=0$ gives $y=4$, so the intersection with the $y$-axis is $(0, 4)$. $\blacksquare$
+Setting $x=0$ gives $y=4$, so the intersection with the $y$-axis is $\left(0, 4\right)$. $\blacksquare$
 
 ### Review Problem 4
 
-(Review, Comprehensive Application, Problem 4) Given that the graph of a linear function passes through the points $A(1, 3)$ and $B(2, 5)$.
+(Review, Comprehensive Application, Problem 4) Given that the graph of a linear function passes through the points $A\left(1, 3\right)$ and $B\left(2, 5\right)$.
 
 (1) Find the expression of this linear function;
 
-(2) Determine whether the point $C(3, 7)$ lies on the graph of this linear function.
+(2) Determine whether the point $C\left(3, 7\right)$ lies on the graph of this linear function.
 
 ### Solution to Review Problem 4
 
-(1) Let $y=kx+b$. Substituting $(1, 3)$ and $(2, 5)$ gives $k+b=3$, $2k+b=5$. Solving gives $k=2$, $b=1$. Hence $y=2x+1$.
+(1) Let $y=kx+b$. Substituting $\left(1, 3\right)$ and $\left(2, 5\right)$ gives $k+b=3$, $2k+b=5$. Solving gives $k=2$, $b=1$. Hence $y=2x+1$.
 
 (2) When $x=3$, $y=2\times3+1=7$, which agrees with the y-coordinate of point $C$, so point $C$ lies on the graph. $\blacksquare$
 
@@ -62,8 +62,8 @@ From the graph, the line intersects the positive half of the $y$-axis and rises 
 
 ### Solution to Review Problem 6
 
-The profit per piece is $(x-30)$ yuan, and the daily sales volume is $(100-2x)$ pieces. The daily profit is $(x-30)(100-2x)=200$.
+The profit per piece is $\left(x-30\right)$ yuan, and the daily sales volume is $\left(100-2x\right)$ pieces. The daily profit is $\left(x-30\right)\left(100-2x\right)=200$.
 
-Expanding: $100x-2x^2-3000+60x=200$, i.e. $-2x^2+160x-3200=0$, $x^2-80x+1600=0$, $(x-40)^2=0$, giving $x=40$.
+Expanding: $100x-2x^2-3000+60x=200$, i.e. $-2x^2+160x-3200=0$, $x^2-80x+1600=0$, $\left(x-40\right)^2=0$, giving $x=40$.
 
 Hence the selling price per piece should be set at $40$ yuan. $\blacksquare$

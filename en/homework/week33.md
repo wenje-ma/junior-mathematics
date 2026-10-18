@@ -109,10 +109,10 @@ The left edge of the path translated $1\,\text{m}$ to the right is the right edg
 Since translation does not change area, the grass-covered area equals the area of the joined rectangle:
 
 $$
-S=(a-1)b=ab-b\quad(\text{m}^2).
+S=\left(a-1\right)b=ab-b\quad\left(\text{m}^2\right).
 $$
 
-Thus the grass-covered area of this lawn is $(ab-b)\,\text{m}^2$. $\blacksquare$
+Thus the grass-covered area of this lawn is $\left(ab-b\right)\,\text{m}^2$. $\blacksquare$
 
 ### Inquiry and Discovery 1
 

@@ -112,7 +112,7 @@ After each side length is enlarged to $2$ times the original, the ratio of the t
 
 (2) $3\tan 30^{\circ}-\tan 45^{\circ}+2\sin 60^{\circ}$;
 
-(3) $(\cos^{2}30^{\circ}+\sin^{2}30^{\circ})\times\tan 60^{\circ}$.
+(3) $\left(\cos^{2}30^{\circ}+\sin^{2}30^{\circ}\right)\times\tan 60^{\circ}$.
 
 ### Solution to Exercise 5
 
@@ -128,7 +128,7 @@ $$3\tan 30^{\circ}-\tan 45^{\circ}+2\sin 60^{\circ}=3\times\frac{\sqrt{3}}{3}-1+
 
 (3) Since $\cos^{2}30^{\circ}+\sin^{2}30^{\circ}=\left(\frac{\sqrt{3}}{2}\right)^{2}+\left(\frac{1}{2}\right)^{2}=\frac{3}{4}+\frac{1}{4}=1$, we have
 
-$$(\cos^{2}30^{\circ}+\sin^{2}30^{\circ})\times\tan 60^{\circ}=1\times\sqrt{3}=\sqrt{3}.\ \blacksquare$$
+$$\left(\cos^{2}30^{\circ}+\sin^{2}30^{\circ}\right)\times\tan 60^{\circ}=1\times\sqrt{3}=\sqrt{3}.\ \blacksquare$$
 
 ### Exercise 6
 
@@ -156,7 +156,7 @@ Using a calculator:
 
 (1) $\sin 20^{\circ}\approx 0.3420$, $\cos 70^{\circ}\approx 0.3420$; $\sin 35^{\circ}\approx 0.5736$, $\cos 55^{\circ}\approx 0.5736$; $\sin 15^{\circ}32'\approx 0.2678$, $\cos 74^{\circ}28'\approx 0.2678$.
 
-From this we see that $\sin\alpha=\cos(90^{\circ}-\alpha)$, i.e. the sine of an acute angle equals the cosine of its complementary angle.
+From this we see that $\sin\alpha=\cos\left(90^{\circ}-\alpha\right)$, i.e. the sine of an acute angle equals the cosine of its complementary angle.
 
 (2) $\tan 3^{\circ}8'\approx 0.0545$, $\tan 80^{\circ}25'43''\approx 5.930$. $\blacksquare$
 

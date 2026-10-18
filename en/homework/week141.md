@@ -44,7 +44,7 @@ The remaining balance is $18-6=12$ ten thousand yuan.
 
 ### Exercise 3
 
-(Exercise 27.3, Problem 3) The prescription strength $y$ of a myopia lens is an inverse proportional function of the focal length $x$ (unit: $\text{m}$), and its graph passes through the point $(0.25,400)$.
+(Exercise 27.3, Problem 3) The prescription strength $y$ of a myopia lens is an inverse proportional function of the focal length $x$ (unit: $\text{m}$), and its graph passes through the point $\left(0.25,400\right)$.
 
 (1) Find the function expression for $y$ in terms of $x$;
 
@@ -52,7 +52,7 @@ The remaining balance is $18-6=12$ ten thousand yuan.
 
 ### Solution to Exercise 3
 
-Let $y=\frac kx$; substituting $(0.25,400)$ gives $k=0.25\times400=100$, hence
+Let $y=\frac kx$; substituting $\left(0.25,400\right)$ gives $k=0.25\times400=100$, hence
 
 $$
 y=\frac{100}{x}.
@@ -130,7 +130,7 @@ From $t=\frac sv$ and $v>0$, the graph is one branch of an inverse proportional 
 
 ### Problem 6
 
-(Exercise 27.3, Comprehensive Application, Problem 6) Inside a sealed container, the density $\rho$ of carbon dioxide is in inverse proportion to the volume $V$, and the graph passes through the point $A(5,1.98)$.
+(Exercise 27.3, Comprehensive Application, Problem 6) Inside a sealed container, the density $\rho$ of carbon dioxide is in inverse proportion to the volume $V$, and the graph passes through the point $A\left(5,1.98\right)$.
 
 (1) Write the function expression for $\rho$ in terms of $V$;
 
@@ -138,7 +138,7 @@ From $t=\frac sv$ and $v>0$, the graph is one branch of an inverse proportional 
 
 ### Solution to Problem 6
 
-Let $\rho=\frac kV$; substituting $(5,1.98)$ gives $k=5\times1.98=9.9$, hence
+Let $\rho=\frac kV$; substituting $\left(5,1.98\right)$ gives $k=5\times1.98=9.9$, hence
 
 $$
 \rho=\frac{9.9}{V}.
@@ -162,7 +162,7 @@ When $V=9$, $\rho=\frac{9.9}{9}=1.1\ \text{kg/m}^3$. $\blacksquare$
 
 ### Problem 8
 
-(Exercise 27.3, Comprehensive Application, Problem 8) The battery voltage is constant. The current $I$ is in inverse proportion to the resistance $R$, and the graph passes through the point $(9,4)$.
+(Exercise 27.3, Comprehensive Application, Problem 8) The battery voltage is constant. The current $I$ is in inverse proportion to the resistance $R$, and the graph passes through the point $\left(9,4\right)$.
 
 (1) Write the function expression for $I$ in terms of $R$;
 
@@ -172,7 +172,7 @@ When $V=9$, $\rho=\frac{9.9}{9}=1.1\ \text{kg/m}^3$. $\blacksquare$
 
 ### Solution to Problem 8
 
-Let $I=\frac UR$; substituting $(9,4)$ gives $U=9\times4=36$, hence
+Let $I=\frac UR$; substituting $\left(9,4\right)$ gives $U=9\times4=36$, hence
 
 $$
 I=\frac{36}{R}.
@@ -211,7 +211,7 @@ $$
 
 ### Solution to Activity 1
 
-Let the area of each rectangle be the constant $k$, one side length be $x$, and the adjacent side length be $y$; then $xy=k$, i.e. $y=\frac kx$. The coordinates $(x,y)$ of the opposite vertices all satisfy $y=\frac kx$, with $x>0,y>0$, so these points all lie on the first-quadrant branch of the graph of the inverse proportional function $y=\frac kx$. Therefore the connected curve is exactly the first-quadrant branch of the graph of the inverse proportional function. $\blacksquare$
+Let the area of each rectangle be the constant $k$, one side length be $x$, and the adjacent side length be $y$; then $xy=k$, i.e. $y=\frac kx$. The coordinates $\left(x,y\right)$ of the opposite vertices all satisfy $y=\frac kx$, with $x>0,y>0$, so these points all lie on the first-quadrant branch of the graph of the inverse proportional function $y=\frac kx$. Therefore the connected curve is exactly the first-quadrant branch of the graph of the inverse proportional function. $\blacksquare$
 
 ### Activity 2
 

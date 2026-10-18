@@ -20,7 +20,7 @@
 
 $$15,\ -\frac{1}{9},\ -5,\ 7,\ 0.5,\ -80,\ 12,\ -4.2,\ 2.3.$$
 
-Set of positive rational numbers: $\{\;\cdots\;\}$. Set of negative rational numbers: $\{\;\cdots\;\}$.
+Set of positive rational numbers: $\left\{\;\cdots\;\right\}$. Set of negative rational numbers: $\left\{\;\cdots\;\right\}$.
 
 ### Solution to Exercise 1
 
@@ -320,7 +320,7 @@ That is, Guangzhou $>$ Wuhan $>$ Nanjing $>$ Beijing $>$ Harbin. $\blacksquare$
 
 $$3,\ -\frac{4}{5},\ 0,\ 1\frac{3}{4},\ 0.45,\ 120,\ -77,\ -2.56,\ -123\frac{1}{2},\ 0.\dot{3}.$$
 
-Set of positive rational numbers: $\{\;\cdots\;\}$. Set of negative rational numbers: $\{\;\cdots\;\}$. Set of integers: $\{\;\cdots\;\}$.
+Set of positive rational numbers: $\left\{\;\cdots\;\right\}$. Set of negative rational numbers: $\left\{\;\cdots\;\right\}$. Set of integers: $\left\{\;\cdots\;\right\}$.
 
 ### Solution to Problem 1
 

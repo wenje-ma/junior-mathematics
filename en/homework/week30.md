@@ -44,7 +44,7 @@ When $\angle\alpha=90^\circ$, the vertical angle is $90^\circ$, and both adjacen
 
 When $\angle\alpha=115^\circ$, the vertical angle is $115^\circ$, and both adjacent supplementary angles are $180^\circ-115^\circ=65^\circ$, so the other three angles are $65^\circ$, $115^\circ$, $65^\circ$.
 
-When $\angle\alpha=m^\circ$, the vertical angle is $m^\circ$, and both adjacent supplementary angles are $(180-m)^\circ$, so the other three angles are $(180-m)^\circ$, $m^\circ$, $(180-m)^\circ$. $\blacksquare$
+When $\angle\alpha=m^\circ$, the vertical angle is $m^\circ$, and both adjacent supplementary angles are $\left(180-m\right)^\circ$, so the other three angles are $\left(180-m\right)^\circ$, $m^\circ$, $\left(180-m\right)^\circ$. $\blacksquare$
 
 ### Exercise 3
 

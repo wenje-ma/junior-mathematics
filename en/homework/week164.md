@@ -2,7 +2,7 @@
 
 > **Definition 27.3.1** (Homothetic Figures) <br>If the points $A,B,\ldots,P,\ldots$ on one figure and the points $A',B',\ldots,P',\ldots$ on another figure correspond respectively, and the connecting lines $AA',BB',\ldots,PP',\ldots$ all pass through the same point $O$, with $\frac{OA'}{OA}=\frac{OB'}{OB}=\cdots=\frac{OP'}{OP}=\cdots$, then the two figures are called homothetic figures, and point $O$ is the center of homothety. Homothetic figures are special similar figures, and their corresponding sides are parallel to each other.
 
-> **Definition 27.3.2** (Coordinate Rule for Homothety) <br>In a rectangular coordinate system, if the origin is taken as the center of homothety and a figure homothetic to the original is drawn with similarity ratio $k$ to the original, then the coordinates of the point on the homothetic figure corresponding to the point $(x,y)$ on the original figure are $(kx,ky)$ or $(-kx,-ky)$.
+> **Definition 27.3.2** (Coordinate Rule for Homothety) <br>In a rectangular coordinate system, if the origin is taken as the center of homothety and a figure homothetic to the original is drawn with similarity ratio $k$ to the original, then the coordinates of the point on the homothetic figure corresponding to the point $\left(x,y\right)$ on the original figure are $\left(kx,ky\right)$ or $\left(-kx,-ky\right)$.
 
 ### Exercise 1
 
@@ -26,7 +26,7 @@ By **Definition 27.3.1**, connect and extend $OA,OB,OC$, take $A',B',C'$ on the 
 
 ### Exercise 3
 
-(Exercise 27.3, Problem 1) As shown in the figure, reducing $\triangle AOB$ gives $\triangle COD$. Find the similarity ratio of $\triangle COD$ to $\triangle AOB$. ($A(2,4)$, $B(5,0)$, $C(1,2)$, $D(2.5,0)$.)
+(Exercise 27.3, Problem 1) As shown in the figure, reducing $\triangle AOB$ gives $\triangle COD$. Find the similarity ratio of $\triangle COD$ to $\triangle AOB$. ($A\left(2,4\right)$, $B\left(5,0\right)$, $C\left(1,2\right)$, $D\left(2.5,0\right)$.)
 
 ### Solution to Exercise 3
 
@@ -40,13 +40,13 @@ Thus the similarity ratio is $\frac{1}{2}$. $\blacksquare$
 
 ### Exercise 4
 
-(Exercise 27.3, Problem 2) As shown in the figure, the coordinates of the three vertices of $\triangle ABO$ are $A(4,-5)$, $B(6,0)$, $O(0,0)$. Taking the origin $O$ as the center of homothety, enlarge this triangle by a similarity ratio of $2$ to obtain $\triangle A'B'O'$. Write the coordinates of the three vertices of $\triangle A'B'O'$.
+(Exercise 27.3, Problem 2) As shown in the figure, the coordinates of the three vertices of $\triangle ABO$ are $A\left(4,-5\right)$, $B\left(6,0\right)$, $O\left(0,0\right)$. Taking the origin $O$ as the center of homothety, enlarge this triangle by a similarity ratio of $2$ to obtain $\triangle A'B'O'$. Write the coordinates of the three vertices of $\triangle A'B'O'$.
 
 ### Solution to Exercise 4
 
-By **Definition 27.3.2** (Coordinate Rule for Homothety), with the origin as the center of homothety and similarity ratio $k=2$, the point $(x,y)$ corresponds to $(kx,ky)$ or $(-kx,-ky)$.
+By **Definition 27.3.2** (Coordinate Rule for Homothety), with the origin as the center of homothety and similarity ratio $k=2$, the point $\left(x,y\right)$ corresponds to $\left(kx,ky\right)$ or $\left(-kx,-ky\right)$.
 
-One set of corresponding coordinates is $A'(8,-10)$, $B'(12,0)$, $O'(0,0)$; the other set is $A''(-8,10)$, $B''(-12,0)$, $O''(0,0)$. $\blacksquare$
+One set of corresponding coordinates is $A'\left(8,-10\right)$, $B'\left(12,0\right)$, $O'\left(0,0\right)$; the other set is $A''\left(-8,10\right)$, $B''\left(-12,0\right)$, $O''\left(0,0\right)$. $\blacksquare$
 
 ### Problem 1
 
@@ -66,13 +66,13 @@ By **Definition 27.3.1**, connect the center of homothety $P$ to each vertex of 
 
 ### Problem 3
 
-(Problem 27.3, Review and Consolidation, Problem 3) The coordinates of the three vertices of $\triangle ABC$ are $A(2,2)$, $B(4,2)$, $C(6,4)$. Taking the origin $O$ as the center of homothety, reduce $\triangle ABC$ to obtain $\triangle DEF$, such that the ratio of corresponding sides of $\triangle DEF$ to $\triangle ABC$ is $1:2$. What are the coordinates of each vertex of $\triangle DEF$ at this time?
+(Problem 27.3, Review and Consolidation, Problem 3) The coordinates of the three vertices of $\triangle ABC$ are $A\left(2,2\right)$, $B\left(4,2\right)$, $C\left(6,4\right)$. Taking the origin $O$ as the center of homothety, reduce $\triangle ABC$ to obtain $\triangle DEF$, such that the ratio of corresponding sides of $\triangle DEF$ to $\triangle ABC$ is $1:2$. What are the coordinates of each vertex of $\triangle DEF$ at this time?
 
 ### Solution to Problem 3
 
-By **Definition 27.3.2** (Coordinate Rule for Homothety), the similarity ratio is $k=\frac{1}{2}$, and the point $(x,y)$ corresponds to $\left(\frac{x}{2},\frac{y}{2}\right)$ or $\left(-\frac{x}{2},-\frac{y}{2}\right)$.
+By **Definition 27.3.2** (Coordinate Rule for Homothety), the similarity ratio is $k=\frac{1}{2}$, and the point $\left(x,y\right)$ corresponds to $\left(\frac{x}{2},\frac{y}{2}\right)$ or $\left(-\frac{x}{2},-\frac{y}{2}\right)$.
 
-One set: $D(1,1)$, $E(2,1)$, $F(3,2)$. The other set: $D(-1,-1)$, $E(-2,-1)$, $F(-3,-2)$. $\blacksquare$
+One set: $D\left(1,1\right)$, $E\left(2,1\right)$, $F\left(3,2\right)$. The other set: $D\left(-1,-1\right)$, $E\left(-2,-1\right)$, $F\left(-3,-2\right)$. $\blacksquare$
 
 ### Problem 4
 
@@ -90,23 +90,23 @@ By **Definition 27.3.1** (Homothetic Figures).
 
 ### Problem 5
 
-(Problem 27.3, Comprehensive Application, Problem 5) As shown in the figure, the coordinates of the vertices of rectangle $AOBC$ are $A(0,3)$, $O(0,0)$, $B(4,0)$, $C(4,3)$. Taking the origin $O$ as the center of homothety, reduce this rectangle by a similarity ratio of $\frac{1}{2}$. Write the coordinates of the vertices of the new rectangle.
+(Problem 27.3, Comprehensive Application, Problem 5) As shown in the figure, the coordinates of the vertices of rectangle $AOBC$ are $A\left(0,3\right)$, $O\left(0,0\right)$, $B\left(4,0\right)$, $C\left(4,3\right)$. Taking the origin $O$ as the center of homothety, reduce this rectangle by a similarity ratio of $\frac{1}{2}$. Write the coordinates of the vertices of the new rectangle.
 
 ### Solution to Problem 5
 
 By **Definition 27.3.2** (Coordinate Rule for Homothety), the similarity ratio is $k=\frac{1}{2}$.
 
-The coordinates of the vertices of the new rectangle are $A'(0,1.5)$, $O'(0,0)$, $B'(2,0)$, $C'(2,1.5)$. $\blacksquare$
+The coordinates of the vertices of the new rectangle are $A'\left(0,1.5\right)$, $O'\left(0,0\right)$, $B'\left(2,0\right)$, $C'\left(2,1.5\right)$. $\blacksquare$
 
 ### Problem 6
 
-(Problem 27.3, Comprehensive Application, Problem 6) As shown in the figure, compared with the \"A\"-shaped pattern (the dashed pattern), what change has occurred to the pattern in the figure? What is the relationship between the coordinates of corresponding points? (The vertices of the dashed pattern are $(2,4)$, $(4,4)$, etc.; the vertices of the solid pattern are $(2,8)$, etc.)
+(Problem 27.3, Comprehensive Application, Problem 6) As shown in the figure, compared with the \"A\"-shaped pattern (the dashed pattern), what change has occurred to the pattern in the figure? What is the relationship between the coordinates of corresponding points? (The vertices of the dashed pattern are $\left(2,4\right)$, $\left(4,4\right)$, etc.; the vertices of the solid pattern are $\left(2,8\right)$, etc.)
 
 ![week164-1.svg](../../figures/week164-1.svg){width=100%}
 
 ### Solution to Problem 6
 
-The solid pattern is the homothetic figure obtained by enlarging the dashed pattern by similarity ratio $2$ with the origin as the center of homothety. The coordinates of corresponding points change from $(x,y)$ to $(2x,2y)$. $\blacksquare$
+The solid pattern is the homothetic figure obtained by enlarging the dashed pattern by similarity ratio $2$ with the origin as the center of homothety. The coordinates of corresponding points change from $\left(x,y\right)$ to $\left(2x,2y\right)$. $\blacksquare$
 
 ### Problem 7
 

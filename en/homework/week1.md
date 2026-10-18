@@ -128,7 +128,7 @@ $$
 79.4+80.6+80.8+79.1+80+79.6+80.5=560.
 $$
 
-Hence the mean is $\frac{560}{7}=80\ (\text{m})$.
+Hence the mean is $\frac{560}{7}=80\ \left(\text{m}\right)$.
 
 Taking $80\ \text{m}$ as the standard, the amount above is represented by a positive number and the amount below by a negative number. By **Definition 1.1.5** (Representing Quantities of Opposite Meaning):
 

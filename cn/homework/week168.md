@@ -240,9 +240,9 @@ $PH=AP\cdot\sin 30^{\circ}=32\times\frac{1}{2}=16\ \text{n mile}$.
 
 暗礁半径为 $16\sqrt{2}\approx 22.63\ \text{n mile}$. 因为 $PH=16<16\sqrt{2}$, 故轮船继续向正东航行有触礁危险.
 
-设轮船沿南偏东 $\theta$ 方向航行可安全通过, 即从 $A$ 出发的航线与 $P$ 的距离等于暗礁半径 $16\sqrt{2}$. 新航线过 $A$, 设其与正东方向夹角为 $\varphi$ (向南偏). 新航线到 $P$ 的距离为 $d=AP\cdot\sin(30^{\circ}-\varphi)$.
+设轮船沿南偏东 $\theta$ 方向航行可安全通过, 即从 $A$ 出发的航线与 $P$ 的距离等于暗礁半径 $16\sqrt{2}$. 新航线过 $A$, 设其与正东方向夹角为 $\varphi$ (向南偏). 新航线到 $P$ 的距离为 $d=AP\cdot\sin\left(30^{\circ}-\varphi\right)$.
 
-令 $d=16\sqrt{2}$, 即 $32\sin(30^{\circ}-\varphi)=16\sqrt{2}$, $\sin(30^{\circ}-\varphi)=\frac{\sqrt{2}}{2}$. 故 $30^{\circ}-\varphi=45^{\circ}$ (不可能), 或 $30^{\circ}-\varphi=135^{\circ}$ (不可能).
+令 $d=16\sqrt{2}$, 即 $32\sin\left(30^{\circ}-\varphi\right)=16\sqrt{2}$, $\sin\left(30^{\circ}-\varphi\right)=\frac{\sqrt{2}}{2}$. 故 $30^{\circ}-\varphi=45^{\circ}$ (不可能), 或 $30^{\circ}-\varphi=135^{\circ}$ (不可能).
 
 实际上, 从 $A$ 出发避开暗礁圆的临界航线为圆的切线. 切线与 $AP$ 的夹角满足 $\sin\psi=\frac{16\sqrt{2}}{32}=\frac{\sqrt{2}}{2}$, 故 $\psi=45^{\circ}$. 原方向为北偏东 $60^{\circ}$ (即与正东成 $30^{\circ}$ 向北), 需向南偏转 $45^{\circ}-30^{\circ}=15^{\circ}$, 即沿南偏东 $45^{\circ}$ 方向航行可安全通过. $\blacksquare$
 
@@ -272,7 +272,7 @@ $$y_C-y_B=2720\cos 54^{\circ}\approx 2720\times 0.58779=1598.8.$$
 
 由坐标求面积公式:
 
-$$S=\frac{1}{2}\left|x_A(y_B-y_C)+x_B(y_C-y_A)+x_C(y_A-y_B)\right|$$
+$$S=\frac{1}{2}\left|x_A\left(y_B-y_C\right)+x_B\left(y_C-y_A\right)+x_C\left(y_A-y_B\right)\right|$$
 
 $$=\frac{1}{2}\left|0+3701.6\times 798.1+1501.0\times 800.7\right|$$
 

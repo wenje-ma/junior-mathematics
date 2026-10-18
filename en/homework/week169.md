@@ -48,9 +48,9 @@ Let the tower height be $H$ (measured from the clinometer's horizontal line), th
 
 At $B$: $H=x\tan\beta$.
 
-At $A$: $H=(x+AB)\tan\alpha$.
+At $A$: $H=\left(x+AB\right)\tan\alpha$.
 
-Eliminating: $x\tan\beta=(x+AB)\tan\alpha$.
+Eliminating: $x\tan\beta=\left(x+AB\right)\tan\alpha$.
 
 $$x=\frac{AB\cdot\tan\alpha}{\tan\beta-\tan\alpha}.$$
 

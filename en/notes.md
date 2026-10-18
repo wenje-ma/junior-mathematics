@@ -22,7 +22,7 @@
 
 **Definition 1.2.4** (Opposite Numbers): Two numbers that differ only in sign are opposites of each other. The opposite number of $0$ is $0$. Adding a "$-$" sign before a number gives a new number that is the opposite number of the original number.
 
-**Definition 1.2.5** (Absolute Value): The distance from the point representing the number $a$ on the number line to the origin is called the absolute value of the number $a$, denoted $|a|$.
+**Definition 1.2.5** (Absolute Value): The distance from the point representing the number $a$ on the number line to the origin is called the absolute value of the number $a$, denoted $\left|a\right|$.
 
 **Definition 1.2.6** (Algebraic Meaning of Absolute Value): The absolute value of a positive number is itself; the absolute value of a negative number is its opposite number; the absolute value of $0$ is $0$.
 
@@ -36,9 +36,9 @@
 
 **Definition 2.1.2** (Commutative Law of Addition): $a+b=b+a$.
 
-**Definition 2.1.3** (Associative Law of Addition): $(a+b)+c=a+(b+c)$.
+**Definition 2.1.3** (Associative Law of Addition): $\left(a+b\right)+c=a+\left(b+c\right)$.
 
-**Definition 2.1.4** (Rules for Subtraction of Rational Numbers): Subtracting a number is equivalent to adding the opposite number of that number, namely $a-b=a+(-b)$.
+**Definition 2.1.4** (Rules for Subtraction of Rational Numbers): Subtracting a number is equivalent to adding the opposite number of that number, namely $a-b=a+\left(-b\right)$.
 
 #### 2.2 Multiplication and Division of Rational Numbers
 
@@ -48,9 +48,9 @@
 
 **Definition 2.2.3** (Commutative Law of Multiplication): $ab=ba$.
 
-**Definition 2.2.4** (Associative Law of Multiplication): $(ab)c=a(bc)$.
+**Definition 2.2.4** (Associative Law of Multiplication): $\left(ab\right)c=a\left(bc\right)$.
 
-**Definition 2.2.5** (Distributive Law): $a(b+c)=ab+ac$.
+**Definition 2.2.5** (Distributive Law): $a\left(b+c\right)=ab+ac$.
 
 **Definition 2.2.6** (Sign Rules for Multiplying Several Rational Numbers): When several numbers not equal to $0$ are multiplied, the product is positive when the number of negative factors is even and negative when it is odd; if any factor is $0$, the product is $0$.
 
@@ -104,7 +104,7 @@
 
 **Definition 4.2.2** (Combining Like Terms): Combining the like terms in a polynomial into one term; the coefficient of the resulting term is the sum of the coefficients of the like terms before combining, and the letters along with their exponents remain unchanged.
 
-**Definition 4.2.3** (Rules for Removing Parentheses): Multiply each term inside the parentheses by the number outside, then add the resulting products, thereby removing the parentheses. $+(x-3)=x-3$, $-(x-3)=-x+3$.
+**Definition 4.2.3** (Rules for Removing Parentheses): Multiply each term inside the parentheses by the number outside, then add the resulting products, thereby removing the parentheses. $+\left(x-3\right)=x-3$, $-\left(x-3\right)=-x+3$.
 
 **Definition 4.2.4** (Rules for Addition and Subtraction of Integral Expressions): When adding or subtracting several integral expressions, if there are parentheses, first remove them, and then combine like terms.
 
@@ -312,13 +312,13 @@ The larger the radicand, the larger the corresponding principal square root (thi
 
 **Property 8.1.3** (Relationship Between Squaring and Taking Square Roots)
 
-For any nonnegative number $a$, $(\sqrt a)^2=a$; for any number $a$, $\sqrt{a^2}=|a|$.
+For any nonnegative number $a$, $\left(\sqrt a\right)^2=a$; for any number $a$, $\sqrt{a^2}=\left|a\right|$.
 
 #### 8.2 Cube Roots
 
 **Definition 8.2.1** (Cube Roots)
 
-If the cube of a number $x$ equals $a$, namely $x^3=a$, then this number $x$ is called a cube root (or third root) of $a$, denoted $\sqrt[3]{a}$, where $3$ is the root index. The operation of finding the cube root of a number is called taking the cube root; taking the cube root and cubing are inverse operations.
+If the cube of a number $x$ equals $a$, namely $x^3=a$, then this number $x$ is called a cube root (or third root) of $a$, denoted $\sqrt\left[3\right]{a}$, where $3$ is the root index. The operation of finding the cube root of a number is called taking the cube root; taking the cube root and cubing are inverse operations.
 
 **Property 8.2.1** (Properties of Cube Roots)
 
@@ -326,11 +326,11 @@ The cube root of a positive number is positive, the cube root of a negative numb
 
 **Property 8.2.2** (Cube Root of a Negative Number)
 
-$\sqrt[3]{-a}=-\sqrt[3]{a}$.
+$\sqrt\left[3\right]{-a}=-\sqrt\left[3\right]{a}$.
 
 **Property 8.2.3** (Relationship Between Cubing and Taking Cube Roots)
 
-For any number $a$, $(\sqrt[3]{a})^3=a$; $\sqrt[3]{a^3}=a$.
+For any number $a$, $\left(\sqrt\left[3\right]{a}\right)^3=a$; $\sqrt\left[3\right]{a^3}=a$.
 
 #### 8.3 Real Numbers and Their Simple Operations
 
@@ -360,7 +360,7 @@ Drawing two mutually perpendicular number lines with a common origin in a plane 
 
 **Definition 9.1.2** (Coordinates of a Point)
 
-From a point in the plane, draw perpendiculars respectively to the $x$-axis and $y$-axis; the coordinate of the foot on the $x$-axis is the abscissa of the point, and the coordinate on the $y$-axis is the ordinate of the point; the ordered pair $(x,y)$ is called the coordinates of this point.
+From a point in the plane, draw perpendiculars respectively to the $x$-axis and $y$-axis; the coordinate of the foot on the $x$-axis is the abscissa of the point, and the coordinate on the $y$-axis is the ordinate of the point; the ordered pair $\left(x,y\right)$ is called the coordinates of this point.
 
 **Property 9.1.1** (One-to-One Correspondence Between Points and Coordinates)
 
@@ -368,7 +368,7 @@ Points in the coordinate plane are in one-to-one correspondence with ordered pai
 
 **Definition 9.1.3** (Quadrants)
 
-The coordinate plane is divided into four parts by the two coordinate axes; each part is called a quadrant, starting from the upper right and going in turn the first, second, third, and fourth quadrants. The first quadrant $(+,+)$, the second quadrant $(-,+)$, the third quadrant $(-,-)$, the fourth quadrant $(+,-)$. Points on the coordinate axes do not belong to any quadrant.
+The coordinate plane is divided into four parts by the two coordinate axes; each part is called a quadrant, starting from the upper right and going in turn the first, second, third, and fourth quadrants. The first quadrant $\left(+,+\right)$, the second quadrant $\left(-,+\right)$, the third quadrant $\left(-,-\right)$, the fourth quadrant $\left(+,-\right)$. Points on the coordinate axes do not belong to any quadrant.
 
 #### 9.2 Simple Applications of Coordinate Methods
 
@@ -378,7 +378,7 @@ Establish a Cartesian coordinate system, choose an appropriate reference point a
 
 **Property 9.2.1** (Representing Translation by Coordinates)
 
-In the Cartesian coordinate system, translating the point $(x,y)$ to the right (left) by $a$ unit length gives the corresponding point $(x+a,y)$ (respectively $(x-a,y)$); translating up (down) by $b$ unit length gives the corresponding point $(x,y+b)$ (respectively $(x,y-b)$). Adding (subtracting) $a$ to all the abscissas of a figure translates the figure to the right (left) by $a$ units; adding (subtracting) $a$ to all the ordinates translates the figure up (down) by $a$ units.
+In the Cartesian coordinate system, translating the point $\left(x,y\right)$ to the right (left) by $a$ unit length gives the corresponding point $\left(x+a,y\right)$ (respectively $\left(x-a,y\right)$); translating up (down) by $b$ unit length gives the corresponding point $\left(x,y+b\right)$ (respectively $\left(x,y-b\right)$). Adding (subtracting) $a$ to all the abscissas of a figure translates the figure to the right (left) by $a$ units; adding (subtracting) $a$ to all the ordinates translates the figure up (down) by $a$ units.
 
 ### Chapter 10 Systems of Linear Equations in Two Unknowns
 
@@ -644,7 +644,7 @@ At the same location, daylight duration varies with an annual cycle: shortest at
 
 **Conclusion 15.2.1** (Drawing Axially Symmetric Figures): Draw the symmetric points of special points (endpoints, etc.) in the figure about the axis of symmetry, then connect them in sequence to obtain the symmetric figure. To make the symmetric point of a point: draw a perpendicular from the point to the axis, and on the perpendicular cut off a segment bisected by the foot.
 
-**Conclusion 15.2.2** (Axial Symmetry in Coordinates): The point $(x,y)$ symmetric about the $x$-axis is $(x,-y)$; symmetric about the $y$-axis is $(-x,y)$; symmetric about the origin is $(-x,-y)$. The point symmetric about the line $x=a$ is $(2a-x,y)$; symmetric about the line $y=b$ is $(x,2b-y)$.
+**Conclusion 15.2.2** (Axial Symmetry in Coordinates): The point $\left(x,y\right)$ symmetric about the $x$-axis is $\left(x,-y\right)$; symmetric about the $y$-axis is $\left(-x,y\right)$; symmetric about the origin is $\left(-x,-y\right)$. The point symmetric about the line $x=a$ is $\left(2a-x,y\right)$; symmetric about the line $y=b$ is $\left(x,2b-y\right)$.
 
 #### 15.3 Isosceles Triangles
 
@@ -668,17 +668,17 @@ At the same location, daylight duration varies with an annual cycle: shortest at
 
 **Definition 16.1.1** (Multiplication of Powers with the Same Base): $a^m\cdot a^n=a^{m+n}$ ($m,n$ are both positive integers), that is, when multiplying powers with the same base, the base remains unchanged and the exponents are added. This property also holds for three or more powers with the same base.
 
-**Definition 16.1.2** (Raising a Power to a Power): $(a^m)^n=a^{mn}$ ($m,n$ are both positive integers), that is, when raising a power to a power, the base remains unchanged and the exponents are multiplied.
+**Definition 16.1.2** (Raising a Power to a Power): $\left(a^m\right)^n=a^{mn}$ ($m,n$ are both positive integers), that is, when raising a power to a power, the base remains unchanged and the exponents are multiplied.
 
-**Definition 16.1.3** (Raising a Product to a Power): $(ab)^n=a^n b^n$ ($n$ is a positive integer), that is, raising a product to a power equals raising each factor of the product to that power and then multiplying the resulting powers. This property also holds for the product of three or more factors.
+**Definition 16.1.3** (Raising a Product to a Power): $\left(ab\right)^n=a^n b^n$ ($n$ is a positive integer), that is, raising a product to a power equals raising each factor of the product to that power and then multiplying the resulting powers. This property also holds for the product of three or more factors.
 
 #### 16.2 Multiplication of Integral Expressions
 
 **Definition 16.2.1** (Multiplying a Monomial by a Monomial): Multiply their coefficients and powers with the same base respectively as factors of the product; for a letter contained in only one monomial, take it together with its exponent as a factor of the product.
 
-**Definition 16.2.2** (Multiplying a Monomial by a Polynomial): Multiply each term of the polynomial by the monomial, then add the resulting products, namely $p(a+b+c)=pa+pb+pc$.
+**Definition 16.2.2** (Multiplying a Monomial by a Polynomial): Multiply each term of the polynomial by the monomial, then add the resulting products, namely $p\left(a+b+c\right)=pa+pb+pc$.
 
-**Definition 16.2.3** (Multiplying a Polynomial by a Polynomial): First multiply each term of one polynomial by each term of the other, then add the resulting products, namely $(a+b)(p+q)=ap+aq+bp+bq$.
+**Definition 16.2.3** (Multiplying a Polynomial by a Polynomial): First multiply each term of one polynomial by each term of the other, then add the resulting products, namely $\left(a+b\right)\left(p+q\right)=ap+aq+bp+bq$.
 
 **Definition 16.2.4** (Division of Powers with the Same Base): $a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ are both positive integers, $m> n$), that is, when dividing powers with the same base, the base remains unchanged and the exponents are subtracted.
 
@@ -690,11 +690,11 @@ At the same location, daylight duration varies with an annual cycle: shortest at
 
 #### 16.3 Multiplication Formulas
 
-**Definition 16.3.1** (Difference of Squares Formula): $(a+b)(a-b)=a^2-b^2$, that is, the product of the sum of two numbers and their difference equals the difference of their squares.
+**Definition 16.3.1** (Difference of Squares Formula): $\left(a+b\right)\left(a-b\right)=a^2-b^2$, that is, the product of the sum of two numbers and their difference equals the difference of their squares.
 
-**Definition 16.3.2** (Perfect Square Formula): $(a+b)^2=a^2+2ab+b^2$, $(a-b)^2=a^2-2ab+b^2$, that is, the square of the sum (or difference) of two numbers equals the sum of their squares plus (or minus) $2$ times their product.
+**Definition 16.3.2** (Perfect Square Formula): $\left(a+b\right)^2=a^2+2ab+b^2$, $\left(a-b\right)^2=a^2-2ab+b^2$, that is, the square of the sum (or difference) of two numbers equals the sum of their squares plus (or minus) $2$ times their product.
 
-**Definition 16.3.3** (Rules for Adding Parentheses): If the sign before the parentheses is positive, the signs of all terms inside remain unchanged; if the sign before the parentheses is negative, the signs of all terms inside change. Namely $a+b+c=a+(b+c)$, $a-b-c=a-(b+c)$.
+**Definition 16.3.3** (Rules for Adding Parentheses): If the sign before the parentheses is positive, the signs of all terms inside remain unchanged; if the sign before the parentheses is negative, the signs of all terms inside change. Namely $a+b+c=a+\left(b+c\right)$, $a-b-c=a-\left(b+c\right)$.
 
 ### Chapter 17 Factoring Polynomials
 
@@ -708,11 +708,11 @@ At the same location, daylight duration varies with an annual cycle: shortest at
 
 #### 17.2 Factoring Using Formulas
 
-**Definition 17.2.1** (Difference of Squares Formula Method): $a^2-b^2=(a+b)(a-b)$, that is, the difference of the squares of two numbers equals the product of their sum and their difference.
+**Definition 17.2.1** (Difference of Squares Formula Method): $a^2-b^2=\left(a+b\right)\left(a-b\right)$, that is, the difference of the squares of two numbers equals the product of their sum and their difference.
 
 **Definition 17.2.2** (Perfect Square Trinomial): Expressions such as $a^2+2ab+b^2$ and $a^2-2ab+b^2$ are called perfect square trinomials.
 
-**Definition 17.2.3** (Perfect Square Formula Method): $a^2+2ab+b^2=(a+b)^2$, $a^2-2ab+b^2=(a-b)^2$.
+**Definition 17.2.3** (Perfect Square Formula Method): $a^2+2ab+b^2=\left(a+b\right)^2$, $a^2-2ab+b^2=\left(a-b\right)^2$.
 
 **Definition 17.2.4** (Formula Method): Exchanging the two sides of the multiplication formulas gives formulas for factoring certain special polynomials; the method of using formulas to factor polynomials is called the formula method. Factoring should be carried on until every polynomial factor can no longer be factored.
 
@@ -746,7 +746,7 @@ At the same location, daylight duration varies with an annual cycle: shortest at
 
 **Definition 18.4.1** (Negative Integer Exponent Powers): When $n$ is a positive integer, $a^{-n}=\frac{1}{a^n}$ ($a\ne0$), that is, $a^{-n}$ is the reciprocal of $a^n$.
 
-**Definition 18.4.2** (Properties of Operations on Integer Exponent Powers): (1) $a^m\cdot a^n=a^{m+n}$; (2) $(a^m)^n=a^{mn}$; (3) $(ab)^n=a^n b^n$ ($m,n$ are integers, the base is nonzero).
+**Definition 18.4.2** (Properties of Operations on Integer Exponent Powers): (1) $a^m\cdot a^n=a^{m+n}$; (2) $\left(a^m\right)^n=a^{mn}$; (3) $\left(ab\right)^n=a^n b^n$ ($m,n$ are integers, the base is nonzero).
 
 **Definition 18.4.3** (Scientific Notation for Positive Numbers Less Than 1): A positive number less than $1$ can be expressed in the form $a\times10^{-n}$, where $1\le a< 10$ and $n$ is a positive integer.
 
@@ -918,7 +918,7 @@ a^{2}+b^{2}=c^{2}.
 
 #### 23.2 Graph and Properties of a Linear Function
 
-**Conclusion 23.2.1** (Graph of a Linear Function): The graph of the linear function $y=kx+b$ is a straight line, called the line $y=kx+b$. It can be obtained by translating the line $y=kx$ by $|b|$ units (upward when $b> 0$, downward when $b< 0$).
+**Conclusion 23.2.1** (Graph of a Linear Function): The graph of the linear function $y=kx+b$ is a straight line, called the line $y=kx+b$. It can be obtained by translating the line $y=kx$ by $\left|b\right|$ units (upward when $b> 0$, downward when $b< 0$).
 
 **Conclusion 23.2.2** (Properties of a Linear Function): When $k> 0$, the line $y=kx+b$ rises from left to right, and $y$ increases as $x$ increases; when $k< 0$, the line $y=kx+b$ falls from left to right, and $y$ decreases as $x$ increases.
 
@@ -962,13 +962,13 @@ is called the weighted mean of these $n$ numbers.
 
 **Definition 24.2.2** (Sum of Squared Deviations):
 
-$$(x_1 - \bar{x})^2 + (x_2 - \bar{x})^2 + \cdots + (x_n - \bar{x})^2$$
+$$\left(x_1 - \bar{x}\right)^2 + \left(x_2 - \bar{x}\right)^2 + \cdots + \left(x_n - \bar{x}\right)^2$$
 
 is called the sum of squared deviations from the mean for these $n$ data, denoted $d^2$.
 
 **Definition 24.2.3** (Variance): The mean of the squared deviations
 
-$$s^2 = \frac{(x_1 - \bar{x})^2 + (x_2 - \bar{x})^2 + \cdots + (x_n - \bar{x})^2}{n}$$
+$$s^2 = \frac{\left(x_1 - \bar{x}\right)^2 + \left(x_2 - \bar{x}\right)^2 + \cdots + \left(x_n - \bar{x}\right)^2}{n}$$
 
 is called the variance of this set of data, denoted $s^2$. The larger the variance, the greater the dispersion; the smaller the variance, the smaller the dispersion.
 
@@ -986,7 +986,7 @@ is called the variance of this set of data, denoted $s^2$. The larger the varian
 
 **Definition 24.4.1** (Within-Group Sum of Squared Deviations): Dividing the data into two groups, the sum of the within-group sums of squared deviations is called the within-group sum of squared deviations.
 
-**Definition 24.4.2** (Between-Group Sum of Squared Deviations): $d_{12}^2 = m(\bar{x}_1 - \bar{x})^2 + (n-m)(\bar{x}_2 - \bar{x})^2$ is called the between-group sum of squared deviations.
+**Definition 24.4.2** (Between-Group Sum of Squared Deviations): $d_{12}^2 = m\left(\bar{x}_1 - \bar{x}\right)^2 + \left(n-m\right)\left(\bar{x}_2 - \bar{x}\right)^2$ is called the between-group sum of squared deviations.
 
 **Conclusion 24.4.3** (Grouping Principle): Group according to the principle of minimizing the within-group sum of squared deviations (equivalently, maximizing the between-group sum of squared deviations).
 
@@ -998,7 +998,7 @@ is called the variance of this set of data, denoted $s^2$. The larger the varian
 
 **Definition 25.1.1** (Quadratic Equation in One Unknown): An integral equation containing only one unknown, whose expressions are all integral, and whose highest degree of the unknown is $2$.
 
-**Definition 25.1.2** (General Form): $ax^2+bx+c=0\ (a\ne0)$, where $ax^2$ is the quadratic term and $a$ the quadratic coefficient, $bx$ is the linear term and $b$ the linear coefficient, $c$ is the constant term; $a\ne0$ is stipulated.
+**Definition 25.1.2** (General Form): $ax^2+bx+c=0\ \left(a\ne0\right)$, where $ax^2$ is the quadratic term and $a$ the quadratic coefficient, $bx$ is the linear term and $b$ the linear coefficient, $c$ is the constant term; $a\ne0$ is stipulated.
 
 **Definition 25.1.3** (Root): The value of the unknown that makes the left and right sides of a quadratic equation equal, i.e., the solution of the equation, also called the root.
 
@@ -1006,9 +1006,9 @@ is called the variance of this set of data, denoted $s^2$. The larger the varian
 
 **Conclusion 25.2.1** (Direct Taking of Square Roots): For the equation $x^2=p$, when $p> 0$ the two roots are $\pm\sqrt p$; when $p=0$ the two roots are equal to $0$; when $p< 0$ there are no real roots.
 
-**Definition 25.2.1** (Completing the Square): Solving the equation by completing it into a perfect square; based on $a^2\pm2ab+b^2=(a\pm b)^2$, add the square of half the linear coefficient to both sides.
+**Definition 25.2.1** (Completing the Square): Solving the equation by completing it into a perfect square; based on $a^2\pm2ab+b^2=\left(a\pm b\right)^2$, add the square of half the linear coefficient to both sides.
 
-**Conclusion 25.2.2** (Reducing the Degree After Completing the Square): $(x+n)^2=p$; when $p> 0$, $x=-n\pm\sqrt p$; when $p=0$, $x=-n$; when $p< 0$, no real roots.
+**Conclusion 25.2.2** (Reducing the Degree After Completing the Square): $\left(x+n\right)^2=p$; when $p> 0$, $x=-n\pm\sqrt p$; when $p=0$, $x=-n$; when $p< 0$, no real roots.
 
 **Definition 25.2.2** (Discriminant): $\Delta=b^2-4ac$.
 
@@ -1020,19 +1020,19 @@ is called the variance of this set of data, denoted $s^2$. The larger the varian
 
 **Definition 25.2.4** (Factoring Method): Factor the equation so that it becomes the product of two linear factors equal to $0$, then set each factor to $0$ to reduce the degree.
 
-**Conclusion 25.2.5** (Relationship Between Roots and Coefficients / Vieta's Formulas): For $ax^2+bx+c=0\ (a\ne0)$, the two roots $x_1,x_2$ satisfy $x_1+x_2=-\frac ba$ and $x_1x_2=\frac ca$.
+**Conclusion 25.2.5** (Relationship Between Roots and Coefficients / Vieta's Formulas): For $ax^2+bx+c=0\ \left(a\ne0\right)$, the two roots $x_1,x_2$ satisfy $x_1+x_2=-\frac ba$ and $x_1x_2=\frac ca$.
 
 #### 25.3 Practical Problems and Quadratic Equations
 
 **Conclusion 25.3.1** (Solving Word Problems by Setting Up Equations): Read the problem, set up the unknown, set up the equation, solve the equation, check the practical meaning of the root, and give the answer.
 
-**Conclusion 25.3.2** (Growth Rate / Decline Rate): Original quantity $a$, average growth/decline rate $x$, after two periods it is $a(1\pm x)^2$.
+**Conclusion 25.3.2** (Growth Rate / Decline Rate): Original quantity $a$, average growth/decline rate $x$, after two periods it is $a\left(1\pm x\right)^2$.
 
-**Conclusion 25.3.3** (Propagation Model): Initially $1$ person, each round infects $x$ people on average, after two rounds there are $(1+x)^2$ people.
+**Conclusion 25.3.3** (Propagation Model): Initially $1$ person, each round infects $x$ people on average, after two rounds there are $\left(1+x\right)^2$ people.
 
-**Conclusion 25.3.4** (Number of Matches): $n$ teams in a single round-robin total $\frac{n(n-1)}2$ matches; double round-robin total $n(n-1)$ matches.
+**Conclusion 25.3.4** (Number of Matches): $n$ teams in a single round-robin total $\frac{n\left(n-1\right)}2$ matches; double round-robin total $n\left(n-1\right)$ matches.
 
-**Conclusion 25.3.5** (Diagonals of a Convex Polygon): A convex $n$-gon has $\frac{n(n-3)}2$ diagonals.
+**Conclusion 25.3.5** (Diagonals of a Convex Polygon): A convex $n$-gon has $\frac{n\left(n-3\right)}2$ diagonals.
 
 ### Chapter 26 Quadratic Functions
 
@@ -1042,11 +1042,11 @@ is called the variance of this set of data, denoted $s^2$. The larger the varian
 
 #### 26.2 Graph and Properties of a Quadratic Function
 
-**Conclusion 26.2.1** (Parabola $y=ax^2$): The axis of symmetry is the $y$-axis, the vertex is the origin; when $a> 0$ it opens upward with the vertex lowest, when $a< 0$ it opens downward with the vertex highest; the larger $|a|$ is, the narrower the opening; increasing/decreasing behavior depends on the sign of $a$.
+**Conclusion 26.2.1** (Parabola $y=ax^2$): The axis of symmetry is the $y$-axis, the vertex is the origin; when $a> 0$ it opens upward with the vertex lowest, when $a< 0$ it opens downward with the vertex highest; the larger $\left|a\right|$ is, the narrower the opening; increasing/decreasing behavior depends on the sign of $a$.
 
-**Conclusion 26.2.2** (Translation): Translating $y=ax^2$ vertically by $|k|$ gives $y=ax^2+k$, horizontally by $|h|$ gives $y=a(x-h)^2$, and combined gives $y=a(x-h)^2+k$.
+**Conclusion 26.2.2** (Translation): Translating $y=ax^2$ vertically by $\left|k\right|$ gives $y=ax^2+k$, horizontally by $\left|h\right|$ gives $y=a\left(x-h\right)^2$, and combined gives $y=a\left(x-h\right)^2+k$.
 
-**Conclusion 26.2.3** (Parabola $y=a(x-h)^2+k$): $a> 0$ opens upward, $a< 0$ opens downward; axis of symmetry $x=h$; vertex $(h,k)$; when $a> 0$, $x=h$ gives the minimum $k$, when $a< 0$ gives the maximum $k$.
+**Conclusion 26.2.3** (Parabola $y=a\left(x-h\right)^2+k$): $a> 0$ opens upward, $a< 0$ opens downward; axis of symmetry $x=h$; vertex $\left(h,k\right)$; when $a> 0$, $x=h$ gives the minimum $k$, when $a< 0$ gives the maximum $k$.
 
 **Conclusion 26.2.4** (Parabola $y=ax^2+bx+c$): Completing the square gives $y=a\left(x+\frac b{2a}\right)^2+\frac{4ac-b^2}{4a}$, axis of symmetry $x=-\frac b{2a}$, vertex $\left(-\frac b{2a},\frac{4ac-b^2}{4a}\right)$; $a> 0$ gives a minimum, $a< 0$ gives a maximum.
 
@@ -1082,7 +1082,7 @@ is called the variance of this set of data, denoted $s^2$. The larger the varian
 
 **Definition 28.2.2** (Centrally Symmetric Figure): Rotating a figure around a point by $180^\circ$, if the rotated figure can coincide with the original figure, this figure is called a centrally symmetric figure, and this point is its center of symmetry.
 
-**Property 28.2.2** (Coordinates of Points Symmetric About the Origin): When two points are symmetric about the origin, their coordinate signs are opposite; the point symmetric to $P(x,y)$ about the origin is $P'(-x,-y)$.
+**Property 28.2.2** (Coordinates of Points Symmetric About the Origin): When two points are symmetric about the origin, their coordinate signs are opposite; the point symmetric to $P\left(x,y\right)$ about the origin is $P'\left(-x,-y\right)$.
 
 ### Chapter 29 Circles
 
@@ -1132,7 +1132,7 @@ is called the variance of this set of data, denoted $s^2$. The larger the varian
 
 **Definition 29.3.2** (Generatrix of a Cone): The line segment connecting the vertex of a cone to any point on the base circumference is called the generatrix.
 
-**Formula 29.3.3** (Lateral Area of a Cone): With generatrix $l$ and base radius $r$, the lateral area is $\pi rl$, and the total area is $\pi r(r+l)$.
+**Formula 29.3.3** (Lateral Area of a Cone): With generatrix $l$ and base radius $r$, the lateral area is $\pi rl$, and the total area is $\pi r\left(r+l\right)$.
 
 ### Chapter 30 Positional Relationship Between a Line and a Circle
 
@@ -1214,7 +1214,7 @@ is called the variance of this set of data, denoted $s^2$. The larger the varian
 
 **Definition 27.3.1** (Homothetic Figures): If the points $A,B,\ldots,P,\ldots$ on one figure correspond respectively to the points $A',B',\ldots,P',\ldots$ on another, and the connecting lines $AA',BB',\ldots,PP',\ldots$ all pass through the same point $O$, and $\frac{OA'}{OA}=\frac{OB'}{OB}=\cdots=\frac{OP'}{OP}=\cdots$, then the two figures are homothetic, and $O$ is the center of homothety. Homothetic figures are special similar figures with corresponding sides parallel.
 
-**Definition 27.3.2** (Coordinate Rule for Homothety): In a Cartesian coordinate system, if the origin is taken as the center of homothety and a figure homothetic to the original is drawn with similarity ratio $k$, then the point on the homothetic figure corresponding to $(x,y)$ on the original has coordinates $(kx,ky)$ or $(-kx,-ky)$.
+**Definition 27.3.2** (Coordinate Rule for Homothety): In a Cartesian coordinate system, if the origin is taken as the center of homothety and a figure homothetic to the original is drawn with similarity ratio $k$, then the point on the homothetic figure corresponding to $\left(x,y\right)$ on the original has coordinates $\left(kx,ky\right)$ or $\left(-kx,-ky\right)$.
 
 ### Chapter 28 Trigonometric Functions of Acute Angles
 

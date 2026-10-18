@@ -140,7 +140,7 @@ $$
 \frac{180^\circ-110^\circ}{2}=35^\circ.
 $$
 
-(2) 若腰为 $8$, 则底为 $18-2\times 8=2$; 若底为 $8$, 则两腰均为 $(18-8)/2=5$. 另两边长为 $8$, $2$ 或 $5$, $5$. $\blacksquare$
+(2) 若腰为 $8$, 则底为 $18-2\times 8=2$; 若底为 $8$, 则两腰均为 $\left(18-8\right)/2=5$. 另两边长为 $8$, $2$ 或 $5$, $5$. $\blacksquare$
 
 ### 习题二
 
@@ -226,7 +226,7 @@ $$
 
 ### 解答 习题八
 
-$AB=15\times(10-8)=30\ \text{n mile}$. 在 $\triangle ABC$ 中, $\angle NBC$ 是外角, 故 $\angle NBC=\angle BAC+\angle C$. 由 $\angle BAC=\angle NAC=42^\circ$, 得 $\angle C=84^\circ-42^\circ=42^\circ$.
+$AB=15\times\left(10-8\right)=30\ \text{n mile}$. 在 $\triangle ABC$ 中, $\angle NBC$ 是外角, 故 $\angle NBC=\angle BAC+\angle C$. 由 $\angle BAC=\angle NAC=42^\circ$, 得 $\angle C=84^\circ-42^\circ=42^\circ$.
 
 故 $\angle C=\angle BAC$, 由**结论 15.3.3** (等角对等边), $BC=AB=30\ \text{n mile}$. $\blacksquare$
 

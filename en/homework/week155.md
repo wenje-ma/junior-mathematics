@@ -108,7 +108,7 @@ By **Theorem 30.1.3** (Tangent-Length Theorem).
 
 (1) $OA\perp PA$, $OB\perp PB$, $OP\perp AB$.
 
-(2) Let the radius be $r$; in $\text{Rt}\triangle OAP$, $OP=OD+PD=r+2$, $OA=r$, and $PA=4$. Hence $(r+2)^2=r^2+16$, $r^2+4r+4=r^2+16$, so $r=3$. $\blacksquare$
+(2) Let the radius be $r$; in $\text{Rt}\triangle OAP$, $OP=OD+PD=r+2$, $OA=r$, and $PA=4$. Hence $\left(r+2\right)^2=r^2+16$, $r^2+4r+4=r^2+16$, so $r=3$. $\blacksquare$
 
 ### Problem 1
 
@@ -176,7 +176,7 @@ $BC$ is a tangent, so $BC\perp AB$. $AD=DC$, and in $\text{Rt}\triangle ABC$, $D
 
 By **Theorem 30.1.3** (Tangent-Length Theorem).
 
-$\angle BCE=35^\circ$, and the angle between a tangent and a chord equals the inscribed angle subtended, so $\angle BAC=35^\circ$. $\angle P=180^\circ-2\times(90^\circ-35^\circ)=70^\circ$. $\blacksquare$
+$\angle BCE=35^\circ$, and the angle between a tangent and a chord equals the inscribed angle subtended, so $\angle BAC=35^\circ$. $\angle P=180^\circ-2\times\left(90^\circ-35^\circ\right)=70^\circ$. $\blacksquare$
 
 ### Problem 6
 
@@ -186,7 +186,7 @@ $\angle BCE=35^\circ$, and the angle between a tangent and a chord equals the in
 
 By **Theorem 30.1.2** (Tangent Criterion).
 
-Join $OB$. From the related calculation of $\angle BOC=2\angle BDC=2(180^\circ-\angle A-\angle C)$: $\angle OBC=\angle C=27^\circ$, and $\angle ABO=180^\circ-36^\circ-27^\circ-27^\circ=90^\circ$, so $AB\perp OB$, and $AB$ is a tangent. $\blacksquare$
+Join $OB$. From the related calculation of $\angle BOC=2\angle BDC=2\left(180^\circ-\angle A-\angle C\right)$: $\angle OBC=\angle C=27^\circ$, and $\angle ABO=180^\circ-36^\circ-27^\circ-27^\circ=90^\circ$, so $AB\perp OB$, and $AB$ is a tangent. $\blacksquare$
 
 ### Problem 7
 

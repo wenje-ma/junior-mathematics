@@ -2,7 +2,7 @@
 
 > **Definition 25.1.1** (Quadratic Equation in One Unknown) <br>In general, if an equation contains only one unknown and all expressions containing the unknown are integral expressions, and the highest degree of the unknown is $2$, then such an equation is called a quadratic equation in one unknown.
 >
-> **Definition 25.1.2** (General Form of a Quadratic Equation) <br>The general form of a quadratic equation is $ax^2+bx+c=0\ (a\ne0)$, where $ax^2$ is the quadratic term and $a$ is the quadratic coefficient; $bx$ is the linear term and $b$ is the linear coefficient; $c$ is the constant term. The requirement $a\ne0$ ensures the equation is indeed quadratic.
+> **Definition 25.1.2** (General Form of a Quadratic Equation) <br>The general form of a quadratic equation is $ax^2+bx+c=0\ \left(a\ne0\right)$, where $ax^2$ is the quadratic term and $a$ is the quadratic coefficient; $bx$ is the linear term and $b$ is the linear coefficient; $c$ is the constant term. The requirement $a\ne0$ ensures the equation is indeed quadratic.
 >
 > **Definition 25.1.3** (Roots of a Quadratic Equation) <br>The value of the unknown that makes the two sides of a quadratic equation equal is the solution of the equation; the solution of a quadratic equation is also called its root.
 
@@ -14,13 +14,13 @@
 
 (2) $4x^2=81$;
 
-(3) $4x(x+2)=25$;
+(3) $4x\left(x+2\right)=25$;
 
-(4) $(3x-2)(x+1)=5x-2$.
+(4) $\left(3x-2\right)\left(x+1\right)=5x-2$.
 
 ### Solution to Exercise 1
 
-By **Definition 25.1.2** (General Form of a Quadratic Equation), first remove parentheses, transpose terms and combine like terms to put the equation in the form $ax^2+bx+c=0\ (a\ne0)$, then read off the coefficients.
+By **Definition 25.1.2** (General Form of a Quadratic Equation), first remove parentheses, transpose terms and combine like terms to put the equation in the form $ax^2+bx+c=0\ \left(a\ne0\right)$, then read off the coefficients.
 
 (1) Transposing terms,
 
@@ -79,7 +79,7 @@ Transposing terms gives the general form $4x^2-25=0$.
 (2) Let the length be $x$; then the width is $x-2$. Since the area is $100$,
 
 $$
-x(x-2)=100.
+x\left(x-2\right)=100.
 $$
 
 Removing parentheses and transposing terms gives the general form $x^2-2x-100=0$.
@@ -87,7 +87,7 @@ Removing parentheses and transposing terms gives the general form $x^2-2x-100=0$
 (3) Let the shorter piece's length be $x$; then the longer piece has length $1-x$. Since the product of the shorter piece's length and the total length $1$ equals the square of the longer piece's length,
 
 $$
-x\cdot1=(1-x)^2.
+x\cdot1=\left(1-x\right)^2.
 $$
 
 i.e. $x=1-2x+x^2$; transposing terms gives the general form $x^2-3x+1=0$. $\blacksquare$
@@ -100,13 +100,13 @@ i.e. $x=1-2x+x^2$; transposing terms gives the general form $x^2-3x+1=0$. $\blac
 
 (2) $x\left(x+\frac12\right)=0$;
 
-(3) $(2x-3)(x-1)=0$;
+(3) $\left(2x-3\right)\left(x-1\right)=0$;
 
-(4) $(3x-2)(x+1)=x(2x+1)$.
+(4) $\left(3x-2\right)\left(x+1\right)=x\left(2x+1\right)$.
 
 ### Solution to Problem 1
 
-By **Definition 25.1.2** (General Form of a Quadratic Equation), first put it in the form $ax^2+bx+c=0\ (a\ne0)$, then read off the coefficients.
+By **Definition 25.1.2** (General Form of a Quadratic Equation), first put it in the form $ax^2+bx+c=0\ \left(a\ne0\right)$, then read off the coefficients.
 
 (1) Transposing terms gives $4x^2+5x-81=0$. The quadratic coefficient is $4$, the linear coefficient is $5$, and the constant term is $-81$.
 
@@ -141,15 +141,15 @@ Dividing both sides by $\pi$ and transposing terms gives the general form $r^2-2
 (2) Let the longer leg be $x$; then the other leg is $x-3$. Since the area of a right triangle is half the product of its legs,
 
 $$
-\frac12 x(x-3)=9.
+\frac12 x\left(x-3\right)=9.
 $$
 
-Removing denominators gives $x(x-3)=18$, i.e. $x^2-3x-18=0$.
+Removing denominators gives $x\left(x-3\right)=18$, i.e. $x^2-3x-18=0$.
 
 (3) Let the shorter leg be $x$; then the other leg is $2x$. By the Pythagorean theorem,
 
 $$
-x^2+(2x)^2=5^2.
+x^2+\left(2x\right)^2=5^2.
 $$
 
 i.e. $5x^2=25$; transposing terms gives the general form $x^2-5=0$. $\blacksquare$
@@ -166,7 +166,7 @@ $$
 
 By **Definition 25.1.3** (Roots of a Quadratic Equation), only the values of the unknown that make the two sides equal are roots; hence test them one by one.
 
-When $x=-4$, $(-4)^2+(-4)-12=16-4-12=0$; the left side equals the right, so $-4$ is a root.
+When $x=-4$, $\left(-4\right)^2+\left(-4\right)-12=16-4-12=0$; the left side equals the right, so $-4$ is a root.
 
 When $x=3$, $3^2+3-12=9+3-12=0$; the left side equals the right, so $3$ is a root.
 
@@ -181,7 +181,7 @@ Substituting the remaining numbers, the left side is never $0$, and none satisfi
 Let the rectangle's length be $x$ bu; since the width is $12$ bu less than the length, the width is $x-12$ bu. Since the area of a rectangle is length times width and the area is $864$ bu,
 
 $$
-x(x-12)=864.
+x\left(x-12\right)=864.
 $$
 
 Removing parentheses and transposing terms, by **Definition 25.1.2** the general form is
@@ -190,7 +190,7 @@ $$
 x^2-12x-864=0.
 $$
 
-Hence the equation set up is $x(x-12)=864$, in general form $x^2-12x-864=0$. $\blacksquare$
+Hence the equation set up is $x\left(x-12\right)=864$, in general form $x^2-12x-864=0$. $\blacksquare$
 
 ### Problem 5
 

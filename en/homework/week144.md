@@ -6,7 +6,7 @@
 >
 > **Definition 28.2.2** (Centrally Symmetric Figure) <br>If a figure is rotated about a point through $180^\circ$ and the rotated figure can coincide with the original figure, then the figure is called a centrally symmetric figure, and this point is its center of symmetry.
 >
-> **Property 28.2.2** (Coordinates of Points Symmetric about the Origin) <br>When two points are symmetric about the origin, their coordinates have opposite signs, i.e. the point symmetric to $P(x,y)$ about the origin is $P'(-x,-y)$.
+> **Property 28.2.2** (Coordinates of Points Symmetric about the Origin) <br>When two points are symmetric about the origin, their coordinates have opposite signs, i.e. the point symmetric to $P\left(x,y\right)$ about the origin is $P'\left(-x,-y\right)$.
 
 ### Exercise 1
 
@@ -53,21 +53,21 @@ Among the given patterns, those that coincide with themselves after being rotate
 (Exercise 28.2, Problem 1) Among the following points, which two are symmetric about the origin?
 
 $$
-A(-5,0),\ B(0,2),\ C(2,-1),\ D(2,0),\ E(0,5),\ F(-2,1),\ G(-2,-1).
+A\left(-5,0\right),\ B\left(0,2\right),\ C\left(2,-1\right),\ D\left(2,0\right),\ E\left(0,5\right),\ F\left(-2,1\right),\ G\left(-2,-1\right).
 $$
 
 ### Solution to Exercise 5
 
 By **Property 28.2.2** (Coordinates of Points Symmetric about the Origin), two points symmetric about the origin have coordinates of opposite signs.
 
-$C(2,-1)$ and $G(-2,-1)$ are not symmetric about the origin; $F(-2,1)$ and $C(2,-1)$ are symmetric about the origin. Hence $C$ and $F$ are symmetric about the origin. $\blacksquare$
+$C\left(2,-1\right)$ and $G\left(-2,-1\right)$ are not symmetric about the origin; $F\left(-2,1\right)$ and $C\left(2,-1\right)$ are symmetric about the origin. Hence $C$ and $F$ are symmetric about the origin. $\blacksquare$
 
 ### Exercise 6
 
 (Exercise 28.2, Problem 2) Write the coordinates of the points $A'$, $B'$, $C'$, $D'$ symmetric to the following points about the origin:
 
 $$
-A(3,1),\ B(-2,3),\ C(-1,-2),\ D(2,-3).
+A\left(3,1\right),\ B\left(-2,3\right),\ C\left(-1,-2\right),\ D\left(2,-3\right).
 $$
 
 ### Solution to Exercise 6
@@ -75,20 +75,20 @@ $$
 By **Property 28.2.2** (Coordinates of Points Symmetric about the Origin), the coordinates have opposite signs.
 
 $$
-A'(-3,-1),\ B'(2,-3),\ C'(1,2),\ D'(-2,3).
+A'\left(-3,-1\right),\ B'\left(2,-3\right),\ C'\left(1,2\right),\ D'\left(-2,3\right).
 $$
 
 $\blacksquare$
 
 ### Exercise 7
 
-(Exercise 28.2, Problem 3) As shown in the figure, the diagonals of $\square ABCD$ intersect at the origin, and the coordinates of its vertices $A$ and $B$ are $(-2,2)$ and $(1,-3)$ respectively. Find the coordinates of its vertices $C$ and $D$.
+(Exercise 28.2, Problem 3) As shown in the figure, the diagonals of $\square ABCD$ intersect at the origin, and the coordinates of its vertices $A$ and $B$ are $\left(-2,2\right)$ and $\left(1,-3\right)$ respectively. Find the coordinates of its vertices $C$ and $D$.
 
 ### Solution to Exercise 7
 
 By **Property 28.2.2** (Coordinates of Points Symmetric about the Origin), the diagonals of a parallelogram bisect each other; since the intersection point of the diagonals is the origin, opposite vertices are symmetric about the origin.
 
-$C$ is symmetric to $A$ about the origin, so $C(2,-2)$; $D$ is symmetric to $B$ about the origin, so $D(-1,3)$. $\blacksquare$
+$C$ is symmetric to $A$ about the origin, so $C\left(2,-2\right)$; $D$ is symmetric to $B$ about the origin, so $D\left(-1,3\right)$. $\blacksquare$
 
 ### Problem 1
 
@@ -112,17 +112,17 @@ A figure that coincides with itself after being rotated about its center through
 
 ### Problem 3
 
-(Exercise 28.2, Review and Consolidation, Problem 3) The vertices of quadrilateral $ABCD$ have coordinates $A(5,0)$, $B(-2,3)$, $C(-5,1)$, $D(-1,-5)$. Construct the figure symmetric to quadrilateral $ABCD$ about the origin.
+(Exercise 28.2, Review and Consolidation, Problem 3) The vertices of quadrilateral $ABCD$ have coordinates $A\left(5,0\right)$, $B\left(-2,3\right)$, $C\left(-5,1\right)$, $D\left(-1,-5\right)$. Construct the figure symmetric to quadrilateral $ABCD$ about the origin.
 
 ### Solution to Problem 3
 
 By **Property 28.2.2** (Coordinates of Points Symmetric about the Origin).
 
-The points symmetric to the vertices about the origin are $A'(-5,0)$, $B'(2,-3)$, $C'(5,-1)$, $D'(1,5)$; joining them in order gives quadrilateral $A'B'C'D'$. $\blacksquare$
+The points symmetric to the vertices about the origin are $A'\left(-5,0\right)$, $B'\left(2,-3\right)$, $C'\left(5,-1\right)$, $D'\left(1,5\right)$; joining them in order gives quadrilateral $A'B'C'D'$. $\blacksquare$
 
 ### Problem 4
 
-(Exercise 28.2, Review and Consolidation, Problem 4) Given that the point $A(a,1)$ and the point $A'(5,b)$ are symmetric about the origin, find the values of $a$ and $b$.
+(Exercise 28.2, Review and Consolidation, Problem 4) Given that the point $A\left(a,1\right)$ and the point $A'\left(5,b\right)$ are symmetric about the origin, find the values of $a$ and $b$.
 
 ### Solution to Problem 4
 
@@ -176,13 +176,13 @@ Scheme 2: taking the center of the rectangle as the center of symmetry, take the
 
 ### Problem 9
 
-(Exercise 28.2, Comprehensive Application, Problem 9) In the rectangular coordinate system, construct the point $B$ symmetric to the point $A(-3,2)$ about the $x$-axis, then construct the point $C$ symmetric to the point $B$ about the $y$-axis. Write the coordinates of the point $C$. What is the relationship between the point $A$ and the point $C$? What can you conclude from this?
+(Exercise 28.2, Comprehensive Application, Problem 9) In the rectangular coordinate system, construct the point $B$ symmetric to the point $A\left(-3,2\right)$ about the $x$-axis, then construct the point $C$ symmetric to the point $B$ about the $y$-axis. Write the coordinates of the point $C$. What is the relationship between the point $A$ and the point $C$? What can you conclude from this?
 
 ### Solution to Problem 9
 
-A point symmetric about the $x$-axis keeps its x-coordinate and takes the opposite y-coordinate, so $B(-3,-2)$. A point symmetric about the $y$-axis keeps its y-coordinate and takes the opposite x-coordinate, so $C(3,-2)$.
+A point symmetric about the $x$-axis keeps its x-coordinate and takes the opposite y-coordinate, so $B\left(-3,-2\right)$. A point symmetric about the $y$-axis keeps its y-coordinate and takes the opposite x-coordinate, so $C\left(3,-2\right)$.
 
-The coordinates of $C(3,-2)$ and $A(-3,2)$ have opposite signs, so $A$ and $C$ are symmetric about the origin. It follows: reflecting a point first about the $x$-axis and then about the $y$-axis is equivalent to central symmetry of the point about the origin. $\blacksquare$
+The coordinates of $C\left(3,-2\right)$ and $A\left(-3,2\right)$ have opposite signs, so $A$ and $C$ are symmetric about the origin. It follows: reflecting a point first about the $x$-axis and then about the $y$-axis is equivalent to central symmetry of the point about the origin. $\blacksquare$
 
 ### Problem 10
 
@@ -222,4 +222,4 @@ A regular $n$-gon coincides with itself after being rotated about its center thr
 
 By **Property 28.2.2** (Coordinates of Points Symmetric about the Origin).
 
-Take any point $A(x,y)$ on the graph of $y=\frac{k}{x}$; then $xy=k$. Its point symmetric about the origin is $A'(-x,-y)$, and since $(-x)(-y)=xy=k$, $A'$ is also on the graph. Therefore the graph of the inverse proportional function $y=\frac{k}{x}$ is centrally symmetric about the origin, with the origin as its center of symmetry. $\blacksquare$
+Take any point $A\left(x,y\right)$ on the graph of $y=\frac{k}{x}$; then $xy=k$. Its point symmetric about the origin is $A'\left(-x,-y\right)$, and since $\left(-x\right)\left(-y\right)=xy=k$, $A'$ is also on the graph. Therefore the graph of the inverse proportional function $y=\frac{k}{x}$ is centrally symmetric about the origin, with the origin as its center of symmetry. $\blacksquare$

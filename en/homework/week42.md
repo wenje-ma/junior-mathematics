@@ -4,15 +4,15 @@
 >
 > **Method 9.2.1** (Representing Geographic Locations with Coordinates) <br>Establish a coordinate system by choosing an appropriate reference point as the origin and determining the positive directions of the $x$-axis and $y$-axis; determine the unit length according to the problem; plot each point in the coordinate plane and write down its coordinates and the name of the location. One can also represent the position of an object using a direction angle and a distance.
 >
-> **Property 9.2.1** (Representing Translation with Coordinates) <br>In a rectangular coordinate system, translating point $(x,y)$ to the right (left) by $a$ units of length gives $(x+a,y)$ ($(x-a,y)$); translating it up (down) by $b$ units of length gives $(x,y+b)$ ($(x,y-b)$). Adding (subtracting) $a$ to the x-coordinate of every point of a figure is equivalent to translating the figure to the right (left) by $a$; adding (subtracting) $b$ to the y-coordinate of every point is equivalent to translating the figure up (down) by $b$.
+> **Property 9.2.1** (Representing Translation with Coordinates) <br>In a rectangular coordinate system, translating point $\left(x,y\right)$ to the right (left) by $a$ units of length gives $\left(x+a,y\right)$ ($\left(x-a,y\right)$); translating it up (down) by $b$ units of length gives $\left(x,y+b\right)$ ($\left(x,y-b\right)$). Adding (subtracting) $a$ to the x-coordinate of every point of a figure is equivalent to translating the figure to the right (left) by $a$; adding (subtracting) $b$ to the y-coordinate of every point is equivalent to translating the figure up (down) by $b$.
 
 ### Exercise 1
 
-(Exercise 9.2, Problem 1) As shown in the figure, if the coordinates of points $B$, $C$ are $B(-1,-2)$ and $C(1,-1)$ respectively, write down the coordinates of points $A$, $D$, $E$, $F$, $G$. Also, establish another rectangular coordinate system in the figure and write down the coordinates of the points.
+(Exercise 9.2, Problem 1) As shown in the figure, if the coordinates of points $B$, $C$ are $B\left(-1,-2\right)$ and $C\left(1,-1\right)$ respectively, write down the coordinates of points $A$, $D$, $E$, $F$, $G$. Also, establish another rectangular coordinate system in the figure and write down the coordinates of the points.
 
 ### Solution to Exercise 1
 
-Determine the coordinate system from $B(-1,-2)$, $C(1,-1)$: the two points differ by $2$ horizontally and $1$ vertically, so each small grid is $1$ unit. According to the positions of the points relative to $B$, $C$, read off the coordinates (x-coordinate, y-coordinate) of $A$, $D$, $E$, $F$, $G$.
+Determine the coordinate system from $B\left(-1,-2\right)$, $C\left(1,-1\right)$: the two points differ by $2$ horizontally and $1$ vertically, so each small grid is $1$ unit. According to the positions of the points relative to $B$, $C$, read off the coordinates (x-coordinate, y-coordinate) of $A$, $D$, $E$, $F$, $G$.
 
 If another origin is chosen to rebuild the system, the coordinates of all points are translated as a whole by a fixed vector; just write down the new coordinates. $\blacksquare$
 
@@ -26,7 +26,7 @@ If another origin is chosen to rebuild the system, the coordinates of all points
 
 By **Method 9.2.1** (Representing Geographic Locations with Coordinates), take the school as the origin, east as the positive $x$-axis direction, north as the positive $y$-axis direction, and one unit of length representing $500\,m$.
 
-School $(0,0)$. Li Ming's home is $1000$ east i.e. $x=2$, $1500$ north i.e. $y=3$, so Li Ming's home $(1000,1500)$. Zhang Hua's home is $2000$ west i.e. $x=-2000$, $500$ south i.e. $y=-500$, so Zhang Hua's home $(-2000,-500)$. Wang Fang's home is $1500$ south, so Wang Fang's home $(0,-1500)$.
+School $\left(0,0\right)$. Li Ming's home is $1000$ east i.e. $x=2$, $1500$ north i.e. $y=3$, so Li Ming's home $\left(1000,1500\right)$. Zhang Hua's home is $2000$ west i.e. $x=-2000$, $500$ south i.e. $y=-500$, so Zhang Hua's home $\left(-2000,-500\right)$. Wang Fang's home is $1500$ south, so Wang Fang's home $\left(0,-1500\right)$.
 
 Plot the positions of the school and the three homes in the coordinate system. $\blacksquare$
 
@@ -42,13 +42,13 @@ By **Method 9.2.1** (Representing Geographic Locations with Coordinates), descri
 
 (Exercise 9.2, Problem 1) As shown in the figure, translate the triangle to the right by $2$ units of length, then up by $3$ units of length. Then the coordinates of the three vertices after translation are respectively (　　).
 
-(1) $(2,2)$, $(3,4)$, $(1,7)$　(2) $(-2,2)$, $(4,3)$, $(1,7)$　(3) $(-2,2)$, $(3,4)$, $(1,7)$　(4) $(2,-2)$, $(3,3)$, $(1,7)$
+(1) $\left(2,2\right)$, $\left(3,4\right)$, $\left(1,7\right)$　(2) $\left(-2,2\right)$, $\left(4,3\right)$, $\left(1,7\right)$　(3) $\left(-2,2\right)$, $\left(3,4\right)$, $\left(1,7\right)$　(4) $\left(2,-2\right)$, $\left(3,3\right)$, $\left(1,7\right)$
 
 ### Solution to Exercise 4
 
 By **Property 9.2.1** (Representing Translation with Coordinates), translating right by $2$ units adds $2$ to every x-coordinate, and translating up by $3$ units adds $3$ to every y-coordinate.
 
-The coordinates of the three vertices of the original triangle are $(-4,-1)$, $(1,1)$, $(-1,4)$. After translation: $(-4+2,-1+3)=(-2,2)$, $(1+2,1+3)=(3,4)$, $(-1+2,4+3)=(1,7)$. That is, $(-2,2)$, $(3,4)$, $(1,7)$. Choose (3). $\blacksquare$
+The coordinates of the three vertices of the original triangle are $\left(-4,-1\right)$, $\left(1,1\right)$, $\left(-1,4\right)$. After translation: $\left(-4+2,-1+3\right)=\left(-2,2\right)$, $\left(1+2,1+3\right)=\left(3,4\right)$, $\left(-1+2,4+3\right)=\left(1,7\right)$. That is, $\left(-2,2\right)$, $\left(3,4\right)$, $\left(1,7\right)$. Choose (3). $\blacksquare$
 
 ### Exercise 5
 
@@ -60,53 +60,53 @@ By **Property 9.2.1** (Representing Translation with Coordinates), take a known 
 
 ### Exercise 6
 
-(Exercise 9.2, Problem 3) In the rectangular coordinate system, given points $A(0,-2)$, $B(3,0)$. First translate segment $AB$ to the left by $2$ units of length and up by $3$ units of length to obtain segment $CD$; then translate segment $CD$ to the left by $3$ units of length and down by $2$ units of length to obtain segment $EF$. Write down the coordinates of points $C$, $D$, $E$, $F$.
+(Exercise 9.2, Problem 3) In the rectangular coordinate system, given points $A\left(0,-2\right)$, $B\left(3,0\right)$. First translate segment $AB$ to the left by $2$ units of length and up by $3$ units of length to obtain segment $CD$; then translate segment $CD$ to the left by $3$ units of length and down by $2$ units of length to obtain segment $EF$. Write down the coordinates of points $C$, $D$, $E$, $F$.
 
 ### Solution to Exercise 6
 
 By **Property 9.2.1** (Representing Translation with Coordinates).
 
-Segment $AB$ shifted left by $2$ (x-coordinate minus $2$) and up by $3$ (y-coordinate plus $3$) gives $CD$: $C=A$ translated $=(0-2,-2+3)=(-2,1)$, $D=B$ translated $=(3-2,0+3)=(1,3)$.
+Segment $AB$ shifted left by $2$ (x-coordinate minus $2$) and up by $3$ (y-coordinate plus $3$) gives $CD$: $C=A$ translated $=\left(0-2,-2+3\right)=\left(-2,1\right)$, $D=B$ translated $=\left(3-2,0+3\right)=\left(1,3\right)$.
 
-Segment $CD$ shifted left by $3$ (x-coordinate minus $3$) and down by $2$ (y-coordinate minus $2$) gives $EF$: $E=C$ translated $=(-2-3,1-2)=(-5,-1)$, $F=D$ translated $=(1-3,3-2)=(-2,1)$.
+Segment $CD$ shifted left by $3$ (x-coordinate minus $3$) and down by $2$ (y-coordinate minus $2$) gives $EF$: $E=C$ translated $=\left(-2-3,1-2\right)=\left(-5,-1\right)$, $F=D$ translated $=\left(1-3,3-2\right)=\left(-2,1\right)$.
 
-That is, $C(-2,1)$, $D(1,3)$, $E(-5,-1)$, $F(-2,1)$. $\blacksquare$
+That is, $C\left(-2,1\right)$, $D\left(1,3\right)$, $E\left(-5,-1\right)$, $F\left(-2,1\right)$. $\blacksquare$
 
 ### Exercise 7
 
-(Exercise 9.2, Problem 1) As shown in the figure, after translating quadrilateral $ABCD$, the coordinates of vertex $C(2,3)$ become $(2,0)$. At this time, what do the coordinates of points $A(2,7)$, $B(1,5)$, $D(3,5)$ respectively become?
+(Exercise 9.2, Problem 1) As shown in the figure, after translating quadrilateral $ABCD$, the coordinates of vertex $C\left(2,3\right)$ become $\left(2,0\right)$. At this time, what do the coordinates of points $A\left(2,7\right)$, $B\left(1,5\right)$, $D\left(3,5\right)$ respectively become?
 
 ### Solution to Exercise 7
 
-From $C(2,3)\to(2,0)$, the x-coordinate is unchanged and the y-coordinate changes from $3$ to $0$, i.e. the y-coordinate is subtracted by $3$; this is a translation down by $3$ units of length.
+From $C\left(2,3\right)\to\left(2,0\right)$, the x-coordinate is unchanged and the y-coordinate changes from $3$ to $0$, i.e. the y-coordinate is subtracted by $3$; this is a translation down by $3$ units of length.
 
-By **Property 9.2.1** (Representing Translation with Coordinates), the y-coordinate of all points is subtracted by $3$: $A(2,7)\to(2,4)$, $B(1,5)\to(1,2)$, $D(3,5)\to(3,2)$.
+By **Property 9.2.1** (Representing Translation with Coordinates), the y-coordinate of all points is subtracted by $3$: $A\left(2,7\right)\to\left(2,4\right)$, $B\left(1,5\right)\to\left(1,2\right)$, $D\left(3,5\right)\to\left(3,2\right)$.
 
-That is, $A$ becomes $(2,4)$, $B$ becomes $(1,2)$, $D$ becomes $(3,2)$. $\blacksquare$
+That is, $A$ becomes $\left(2,4\right)$, $B$ becomes $\left(1,2\right)$, $D$ becomes $\left(3,2\right)$. $\blacksquare$
 
 ### Exercise 8
 
-(Exercise 9.2, Problem 2) As shown in the figure, the four vertices of parallelogram $AOCB$ have coordinates $A(2,2)$, $O(0,0)$, $C(4,0)$, $B(6,2)$. Subtract $3$ from the x-coordinate of each of these four vertices and simultaneously add $1$ to the y-coordinate, obtaining points $A'$, $O'$, $C'$, $B'$ respectively. What is the relationship between quadrilateral $A'O'C'B'$ and parallelogram $AOCB$?
+(Exercise 9.2, Problem 2) As shown in the figure, the four vertices of parallelogram $AOCB$ have coordinates $A\left(2,2\right)$, $O\left(0,0\right)$, $C\left(4,0\right)$, $B\left(6,2\right)$. Subtract $3$ from the x-coordinate of each of these four vertices and simultaneously add $1$ to the y-coordinate, obtaining points $A'$, $O'$, $C'$, $B'$ respectively. What is the relationship between quadrilateral $A'O'C'B'$ and parallelogram $AOCB$?
 
 ### Solution to Exercise 8
 
 By **Property 9.2.1** (Representing Translation with Coordinates), subtracting $3$ from every x-coordinate is equivalent to translating the figure left by $3$ units of length, and adding $1$ to every y-coordinate is equivalent to translating it up by $1$ unit of length.
 
-Compute the corresponding points: $A'(2-3,2+1)=(-1,3)$, $O'(0-3,0+1)=(-3,1)$, $C'(4-3,0+1)=(1,1)$, $B'(6-3,2+1)=(3,3)$.
+Compute the corresponding points: $A'\left(2-3,2+1\right)=\left(-1,3\right)$, $O'\left(0-3,0+1\right)=\left(-3,1\right)$, $C'\left(4-3,0+1\right)=\left(1,1\right)$, $B'\left(6-3,2+1\right)=\left(3,3\right)$.
 
 Quadrilateral $A'O'C'B'$ has exactly the same size and shape as parallelogram $AOCB$, and can be regarded as obtained by translating $AOCB$ left by $3$ units of length and then up by $1$ unit of length. $\blacksquare$
 
 ### Exercise 9
 
-(Exercise 9.2, Problem 3) The three vertices of triangle $ABC$ have coordinates $A(-3,2)$, $B(1,1)$, $C(-1,-2)$. If triangle $ABC$ is translated so that point $A$ moves to point $(1,-2)$, write down one way of translating triangle $ABC$ along the coordinate-axis directions, and the coordinates of the corresponding points of $B$ and $C$.
+(Exercise 9.2, Problem 3) The three vertices of triangle $ABC$ have coordinates $A\left(-3,2\right)$, $B\left(1,1\right)$, $C\left(-1,-2\right)$. If triangle $ABC$ is translated so that point $A$ moves to point $\left(1,-2\right)$, write down one way of translating triangle $ABC$ along the coordinate-axis directions, and the coordinates of the corresponding points of $B$ and $C$.
 
 ### Solution to Exercise 9
 
-From $A(-3,2)\to(1,-2)$, the x-coordinate changes by $1-(-3)=4$ (add $4$), and the y-coordinate changes by $-2-2=-4$ (subtract $4$). Thus the triangle is first translated right by $4$ units of length, then down by $4$ units of length.
+From $A\left(-3,2\right)\to\left(1,-2\right)$, the x-coordinate changes by $1-\left(-3\right)=4$ (add $4$), and the y-coordinate changes by $-2-2=-4$ (subtract $4$). Thus the triangle is first translated right by $4$ units of length, then down by $4$ units of length.
 
-By **Property 9.2.1** (Representing Translation with Coordinates), add $4$ to the x-coordinate and subtract $4$ from the y-coordinate of all points: $B(1,1)\to(5,-3)$, $C(-1,-2)\to(3,-6)$.
+By **Property 9.2.1** (Representing Translation with Coordinates), add $4$ to the x-coordinate and subtract $4$ from the y-coordinate of all points: $B\left(1,1\right)\to\left(5,-3\right)$, $C\left(-1,-2\right)\to\left(3,-6\right)$.
 
-That is, the corresponding point of $B$ is $(5,-3)$, and the corresponding point of $C$ is $(3,-6)$. $\blacksquare$
+That is, the corresponding point of $B$ is $\left(5,-3\right)$, and the corresponding point of $C$ is $\left(3,-6\right)$. $\blacksquare$
 
 ### Problem 1
 
@@ -145,15 +145,15 @@ Conversely, the direction is reversed and the distance is unchanged: the positio
 By **Definition 9.1.2** (Coordinates of a Point), read off the initial coordinates of the planes:
 
 $$
-A(1,1),\ B(-3,1),\ C(-1,-1),\ D(-5,1),\ E(-2,-2),\ F(1,-3).
+A\left(1,1\right),\ B\left(-3,1\right),\ C\left(-1,-1\right),\ D\left(-5,1\right),\ E\left(-2,-2\right),\ F\left(1,-3\right).
 $$
 
-$A$ flies to $A'(4,3)$; the translation vector is $(4-1,\,3-1)=(3,2)$, i.e. the whole formation is translated right by $3$ units and up by $2$ units.
+$A$ flies to $A'\left(4,3\right)$; the translation vector is $\left(4-1,\,3-1\right)=\left(3,2\right)$, i.e. the whole formation is translated right by $3$ units and up by $2$ units.
 
 By **Property 9.2.1** (Representing Translation with Coordinates), add $3$ to the x-coordinate and $2$ to the y-coordinate of each plane:
 
 $$
-A'(4,3),\ B'(0,3),\ C'(2,1),\ D'(-2,3),\ E'(1,0),\ F'(4,-1).
+A'\left(4,3\right),\ B'\left(0,3\right),\ C'\left(2,1\right),\ D'\left(-2,3\right),\ E'\left(1,0\right),\ F'\left(4,-1\right).
 $$
 
 $\blacksquare$
@@ -166,23 +166,23 @@ $\blacksquare$
 
 ### Solution to Problem 5
 
-By **Definition 9.1.2** (Coordinates of a Point), read off the coordinates of the vertices of parallelogram $ABCD$: $A(-2,-2)$, $B(2,-2)$, $C(3,2)$, $D(-1,2)$.
+By **Definition 9.1.2** (Coordinates of a Point), read off the coordinates of the vertices of parallelogram $ABCD$: $A\left(-2,-2\right)$, $B\left(2,-2\right)$, $C\left(3,2\right)$, $D\left(-1,2\right)$.
 
 By **Property 9.2.1** (Representing Translation with Coordinates), translating left by $2$ units subtracts $2$ from every x-coordinate, and translating up by $3$ units adds $3$ to every y-coordinate:
 
 $$
-A'(-4,1),\ B'(0,1),\ C'(1,5),\ D'(-3,5).
+A'\left(-4,1\right),\ B'\left(0,1\right),\ C'\left(1,5\right),\ D'\left(-3,5\right).
 $$
 
 Connecting them in order gives the translated parallelogram $A'B'C'D'$. $\blacksquare$
 
 ### Problem 6
 
-(Exercise 9.2, Comprehensive Application, Problem 6) As shown in the figure, a rectangular coordinate system is established to label a leaf specimen. If the coordinates of point $A$ representing the "base" of the petiole are $(-1,-2)$ and the coordinates of point $B$ representing the "tip" of the leaf blade are $(2,6)$, write down the coordinates of points $C$, $D$, $E$, $F$ in the figure.
+(Exercise 9.2, Comprehensive Application, Problem 6) As shown in the figure, a rectangular coordinate system is established to label a leaf specimen. If the coordinates of point $A$ representing the "base" of the petiole are $\left(-1,-2\right)$ and the coordinates of point $B$ representing the "tip" of the leaf blade are $\left(2,6\right)$, write down the coordinates of points $C$, $D$, $E$, $F$ in the figure.
 
 ### Solution to Problem 6
 
-Determine the coordinate system from $A(-1,-2)$, $B(2,6)$: the x-coordinate difference is $2-(-1)=3$, the y-coordinate difference is $6-(-2)=8$, and the unit length is determined by the number of square grids. By **Definition 9.1.2** (Coordinates of a Point), read off the coordinates of $C$, $D$, $E$, $F$ according to the grids of each point relative to $A$, $B$. $\blacksquare$
+Determine the coordinate system from $A\left(-1,-2\right)$, $B\left(2,6\right)$: the x-coordinate difference is $2-\left(-1\right)=3$, the y-coordinate difference is $6-\left(-2\right)=8$, and the unit length is determined by the number of square grids. By **Definition 9.1.2** (Coordinates of a Point), read off the coordinates of $C$, $D$, $E$, $F$ according to the grids of each point relative to $A$, $B$. $\blacksquare$
 
 ### Problem 7
 
@@ -202,38 +202,38 @@ By **Property 9.2.1** (Representing Translation with Coordinates), compare the c
 
 ### Problem 9
 
-(Exercise 9.2, Comprehensive Application, Problem 9) As shown in the figure, in the rectangular coordinate system, the vertices $A$, $B$ of triangle $ABC$ have coordinates $A(3,6)$, $B(-3,3)$. Triangle $ABC$ is translated to obtain triangle $CDE$, so that point $A$ is translated to point $C$. Then what are the coordinates of point $E$, the corresponding point after point $C$ is translated?
+(Exercise 9.2, Comprehensive Application, Problem 9) As shown in the figure, in the rectangular coordinate system, the vertices $A$, $B$ of triangle $ABC$ have coordinates $A\left(3,6\right)$, $B\left(-3,3\right)$. Triangle $ABC$ is translated to obtain triangle $CDE$, so that point $A$ is translated to point $C$. Then what are the coordinates of point $E$, the corresponding point after point $C$ is translated?
 
 ### Solution to Problem 9
 
-Read off from the figure that point $C$ has coordinates $(5,-3)$. The translation moves $A(3,6)$ to $C(5,-3)$; the translation vector is
+Read off from the figure that point $C$ has coordinates $\left(5,-3\right)$. The translation moves $A\left(3,6\right)$ to $C\left(5,-3\right)$; the translation vector is
 
 $$
-(5-3,\,-3-6)=(2,-9),
+\left(5-3,\,-3-6\right)=\left(2,-9\right),
 $$
 
 i.e. translate right by $2$ units of length and down by $9$ units of length.
 
-By **Property 9.2.1** (Representing Translation with Coordinates), add $2$ to the x-coordinate and subtract $9$ from the y-coordinate of all points. The corresponding point of point $C(5,-3)$ after translation is $E=(5+2,\,-3-9)=(7,-12)$.
+By **Property 9.2.1** (Representing Translation with Coordinates), add $2$ to the x-coordinate and subtract $9$ from the y-coordinate of all points. The corresponding point of point $C\left(5,-3\right)$ after translation is $E=\left(5+2,\,-3-9\right)=\left(7,-12\right)$.
 
-That is, the coordinates of $E$ are $(7,-12)$. $\blacksquare$
+That is, the coordinates of $E$ are $\left(7,-12\right)$. $\blacksquare$
 
 ### Problem 10
 
-(Exercise 9.2, Extension and Exploration, Problem 10) As shown in the figure, this is part of a schematic diagram of a zoo drawn using a rectangular coordinate system. If this rectangular coordinate system takes due east and due north as the positive directions of the $x$-axis and $y$-axis respectively, and the coordinates of Monkey Mountain and Lion-Tiger Hill are $(2,1)$ and $(8,2)$ respectively, can you mark the position of the Panda House $(6,6)$ on this figure?
+(Exercise 9.2, Extension and Exploration, Problem 10) As shown in the figure, this is part of a schematic diagram of a zoo drawn using a rectangular coordinate system. If this rectangular coordinate system takes due east and due north as the positive directions of the $x$-axis and $y$-axis respectively, and the coordinates of Monkey Mountain and Lion-Tiger Hill are $\left(2,1\right)$ and $\left(8,2\right)$ respectively, can you mark the position of the Panda House $\left(6,6\right)$ on this figure?
 
 ![week42-4.svg](../../figures/week42-4.svg){width=50%}
 
 ### Solution to Problem 10
 
-Determine the coordinate system from Monkey Mountain $(2,1)$ and Lion-Tiger Hill $(8,2)$: the two points differ by $6$ horizontally and $1$ vertically; determine the unit length and locate the origin according to the grids in the figure. By **Definition 9.1.2** (Coordinates of a Point), for the Panda House $(6,6)$, take the x-coordinate $6$ on the $x$-axis and the y-coordinate $6$ on the $y$-axis; the intersection of the two perpendiculars is the position of the Panda House. $\blacksquare$
+Determine the coordinate system from Monkey Mountain $\left(2,1\right)$ and Lion-Tiger Hill $\left(8,2\right)$: the two points differ by $6$ horizontally and $1$ vertically; determine the unit length and locate the origin according to the grids in the figure. By **Definition 9.1.2** (Coordinates of a Point), for the Panda House $\left(6,6\right)$, take the x-coordinate $6$ on the $x$-axis and the y-coordinate $6$ on the $y$-axis; the intersection of the two perpendiculars is the position of the Panda House. $\blacksquare$
 
 ### Problem 11
 
-(Exercise 9.2, Extension and Exploration, Problem 11) As shown in the figure, triangle $COB$ is the figure obtained after triangle $AOB$ undergoes some transformation. Observe the relationship between the coordinates of point $A$ and its corresponding point $C$. An arbitrary point $M$ inside triangle $AOB$ has coordinates $(x,y)$; after point $M$ undergoes this transformation, point $N$ is obtained. What are the coordinates of point $N$?
+(Exercise 9.2, Extension and Exploration, Problem 11) As shown in the figure, triangle $COB$ is the figure obtained after triangle $AOB$ undergoes some transformation. Observe the relationship between the coordinates of point $A$ and its corresponding point $C$. An arbitrary point $M$ inside triangle $AOB$ has coordinates $\left(x,y\right)$; after point $M$ undergoes this transformation, point $N$ is obtained. What are the coordinates of point $N$?
 
 ### Solution to Problem 11
 
-Read off from the figure the corresponding points $A(2,3)$ and $C(2,-3)$. Comparing them, they have the same x-coordinate and y-coordinates that are opposite numbers of each other. Thus this transformation is axial symmetry about the $x$-axis.
+Read off from the figure the corresponding points $A\left(2,3\right)$ and $C\left(2,-3\right)$. Comparing them, they have the same x-coordinate and y-coordinates that are opposite numbers of each other. Thus this transformation is axial symmetry about the $x$-axis.
 
-By the coordinate rule for symmetry about the $x$-axis, after any point $M(x,y)$ is symmetric about the $x$-axis, its x-coordinate is unchanged and its y-coordinate changes sign, so $N(x,-y)$. $\blacksquare$
+By the coordinate rule for symmetry about the $x$-axis, after any point $M\left(x,y\right)$ is symmetric about the $x$-axis, its x-coordinate is unchanged and its y-coordinate changes sign, so $N\left(x,-y\right)$. $\blacksquare$

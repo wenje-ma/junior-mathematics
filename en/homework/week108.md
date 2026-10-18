@@ -101,10 +101,10 @@ Movie tickets cost $40$ yuan each; $x$ tickets are sold for one showing, and the
 By the trapezoid area formula, the area equals half the sum of the two bases times the height. The upper base is $2\ \text{cm}$, the lower base is $x\ \text{cm}$, and the height is $3\ \text{cm}$, so
 
 $$
-S = \frac{(2+x) \times 3}{2} = \frac{3}{2}(x+2).
+S = \frac{\left(2+x\right) \times 3}{2} = \frac{3}{2}\left(x+2\right).
 $$
 
-By **Definition 22.1.3** (Analytic Expression of a Function), $S=\frac{3}{2}(x+2)$ is the desired analytic expression.
+By **Definition 22.1.3** (Analytic Expression of a Function), $S=\frac{3}{2}\left(x+2\right)$ is the desired analytic expression.
 
 The lower base $x$ is greater than the upper base $2\ \text{cm}$, i.e. $x>2$; the lower base $x$ is no more than $5\ \text{cm}$, i.e. $x \leq 5$. Hence the range of the independent variable $x$ is $2 < x \leq 5$. $\blacksquare$
 
@@ -202,7 +202,7 @@ Is the displayed result $y$ a function of the input $x$? Why?
 
 By the operation program, $y = 2x + 5$.
 
-When $x=1$, $y=2 \times 1 + 5 = 7$; when $x=3$, $y=2 \times 3 + 5 = 11$; when $x=-4$, $y=2 \times (-4) + 5 = -3$; when $x=0$, $y=2 \times 0 + 5 = 5$; when $x=101$, $y=2 \times 101 + 5 = 207$; when $x=-5.2$, $y=2 \times (-5.2) + 5 = -5.4$.
+When $x=1$, $y=2 \times 1 + 5 = 7$; when $x=3$, $y=2 \times 3 + 5 = 11$; when $x=-4$, $y=2 \times \left(-4\right) + 5 = -3$; when $x=0$, $y=2 \times 0 + 5 = 5$; when $x=101$, $y=2 \times 101 + 5 = 207$; when $x=-5.2$, $y=2 \times \left(-5.2\right) + 5 = -5.4$.
 
 The filled table is:
 

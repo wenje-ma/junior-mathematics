@@ -52,7 +52,7 @@ $2x-y$ 是多项式, 项为 $2x$, $-y$, 次数为 $1$. $\blacksquare$
 
 由**定义 4.2.1** (同类项) 和**定义 4.2.2** (合并同类项), 要使和为单项式, 需将原多项式各项消去或合并为一项.
 
-取单项式 $-m-2n^{2}$ 不行 (它本身是多项式). 取单项式 $-m$, 则 $(-m)+(m+2n^{2})=2n^{2}$, 为单项式. 故 $-m$ 即为所求. $\blacksquare$
+取单项式 $-m-2n^{2}$ 不行 (它本身是多项式). 取单项式 $-m$, 则 $\left(-m\right)+\left(m+2n^{2}\right)=2n^{2}$, 为单项式. 故 $-m$ 即为所求. $\blacksquare$
 
 ### 复习题三
 
@@ -86,15 +86,15 @@ $2x-y$ 是多项式, 项为 $2x$, $-y$, 次数为 $1$. $\blacksquare$
 
 (复习题 复习巩固第 4 题) 计算:
 
-(1) $(4a^{3}b-10b^{3})+(-3a^{2}b^{2}+10b^{3})$;
+(1) $\left(4a^{3}b-10b^{3}\right)+\left(-3a^{2}b^{2}+10b^{3}\right)$;
 
-(2) $(4x^{2}y-5xy^{2})-(3x^{2}y-4xy^{2})$;
+(2) $\left(4x^{2}y-5xy^{2}\right)-\left(3x^{2}y-4xy^{2}\right)$;
 
-(3) $3(2a^{2}+4b)+3(-5a^{2}-2b)$;
+(3) $3\left(2a^{2}+4b\right)+3\left(-5a^{2}-2b\right)$;
 
-(4) $3(x^{2}-2xy)-4(2x^{2}-xy+1)$;
+(4) $3\left(x^{2}-2xy\right)-4\left(2x^{2}-xy+1\right)$;
 
-(5) $5a^{2}-\left[a^{2}+(5a^{2}-2a)-2(a^{2}-3a)\right]$;
+(5) $5a^{2}-\left[a^{2}+\left(5a^{2}-2a\right)-2\left(a^{2}-3a\right)\right]$;
 
 (6) $3x^{2}-\left[5x-\left(\frac{1}{2}x-3\right)+2x^{2}\right]$.
 
@@ -126,9 +126,9 @@ $2x-y$ 是多项式, 项为 $2x$, $-y$, 次数为 $1$. $\blacksquare$
 
 由**定义 4.2.4** (整式加减运算法则), 先化简再求值.
 
-(1) $(5-3-2)x^{2}+(-5+6)x+(4-5)=x-1$. 当 $x=-3$ 时, 原式 $=-3-1=-4$.
+(1) $\left(5-3-2\right)x^{2}+\left(-5+6\right)x+\left(4-5\right)=x-1$. 当 $x=-3$ 时, 原式 $=-3-1=-4$.
 
-(2) $2a^{2}b+ab^{2}-3a^{2}b+3-2ab^{2}-1=-a^{2}b-ab^{2}+2$. 当 $a=-2$, $b=2$ 时, 原式 $=-(-2)^{2}\times2-(-2)\times2^{2}+2=-8+8+2=2$. $\blacksquare$
+(2) $2a^{2}b+ab^{2}-3a^{2}b+3-2ab^{2}-1=-a^{2}b-ab^{2}+2$. 当 $a=-2$, $b=2$ 时, 原式 $=-\left(-2\right)^{2}\times2-\left(-2\right)\times2^{2}+2=-8+8+2=2$. $\blacksquare$
 
 ### 复习题六
 
@@ -144,11 +144,11 @@ $2x-y$ 是多项式, 项为 $2x$, $-y$, 次数为 $1$. $\blacksquare$
 
 (1) 比 $a$ 的 $5$ 倍大 $4$ 的数为 $5a+4$, 比 $a$ 的 $2$ 倍小 $3$ 的数为 $2a-3$. 两数之和为
 
-$$(5a+4)+(2a-3)=7a+1.$$
+$$\left(5a+4\right)+\left(2a-3\right)=7a+1.$$
 
 (2) 比 $b$ 的 $7$ 倍小 $3$ 的数为 $7b-3$, 比 $b$ 的 $6$ 倍大 $5$ 的数为 $6b+5$. 两数之差为
 
-$$(7b-3)-(6b+5)=b-8.$$
+$$\left(7b-3\right)-\left(6b+5\right)=b-8.$$
 
 $\blacksquare$
 
@@ -158,11 +158,11 @@ $\blacksquare$
 
 ### 解答 复习题七
 
-由**定义 4.2.4** (整式加减运算法则), 顺水航速为 $(a+b)$, 逆水航速为 $(a-b)$.
+由**定义 4.2.4** (整式加减运算法则), 顺水航速为 $\left(a+b\right)$, 逆水航速为 $\left(a-b\right)$.
 
-顺水航行路程为 $3(a+b)\ \text{km}$, 逆水航行路程为 $1.5(a-b)\ \text{km}$. 总航程为
+顺水航行路程为 $3\left(a+b\right)\ \text{km}$, 逆水航行路程为 $1.5\left(a-b\right)\ \text{km}$. 总航程为
 
-$$3(a+b)+1.5(a-b)=3a+3b+1.5a-1.5b=4.5a+1.5b\ \text{km}.$$
+$$3\left(a+b\right)+1.5\left(a-b\right)=3a+3b+1.5a-1.5b=4.5a+1.5b\ \text{km}.$$
 
 $\blacksquare$
 
@@ -186,22 +186,22 @@ $\blacksquare$
 
 原两位数为 $10a+b$, 交换后为 $10b+a$. 两数之和为
 
-$$(10a+b)+(10b+a)=11a+11b=11(a+b).$$
+$$\left(10a+b\right)+\left(10b+a\right)=11a+11b=11\left(a+b\right).$$
 
-由于 $a$, $b$ 为整数, $11(a+b)$ 是 $11$ 的倍数, 故这个和能被 $11$ 整除. $\blacksquare$
+由于 $a$, $b$ 为整数, $11\left(a+b\right)$ 是 $11$ 的倍数, 故这个和能被 $11$ 整除. $\blacksquare$
 
 ### 复习题十
 
-(复习题 拓广探索第 10 题) 把 $(a+b)$ 和 $(x+y)$ 各看成一个整体, 化简:
+(复习题 拓广探索第 10 题) 把 $\left(a+b\right)$ 和 $\left(x+y\right)$ 各看成一个整体, 化简:
 
-(1) $4(a+b)+2(a+b)-(a+b)$;
+(1) $4\left(a+b\right)+2\left(a+b\right)-\left(a+b\right)$;
 
-(2) $3(x+y)^{2}-7(x+y)+8(x+y)^{2}+6(x+y)$.
+(2) $3\left(x+y\right)^{2}-7\left(x+y\right)+8\left(x+y\right)^{2}+6\left(x+y\right)$.
 
 ### 解答 复习题十
 
 由**定义 4.2.1** (同类项) 和**定义 4.2.2** (合并同类项), 将整体视为同类项合并.
 
-(1) $4(a+b)+2(a+b)-(a+b)=(4+2-1)(a+b)=5(a+b)$.
+(1) $4\left(a+b\right)+2\left(a+b\right)-\left(a+b\right)=\left(4+2-1\right)\left(a+b\right)=5\left(a+b\right)$.
 
-(2) $3(x+y)^{2}-7(x+y)+8(x+y)^{2}+6(x+y)=(3+8)(x+y)^{2}+(-7+6)(x+y)=11(x+y)^{2}-(x+y)$. $\blacksquare$
+(2) $3\left(x+y\right)^{2}-7\left(x+y\right)+8\left(x+y\right)^{2}+6\left(x+y\right)=\left(3+8\right)\left(x+y\right)^{2}+\left(-7+6\right)\left(x+y\right)=11\left(x+y\right)^{2}-\left(x+y\right)$. $\blacksquare$

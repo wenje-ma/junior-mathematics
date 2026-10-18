@@ -4,11 +4,11 @@
 >
 > **定义 8.1.2** (算术平方根) <br>正数 $a$ 的正的平方根 $\sqrt a$ 叫作 $a$ 的算术平方根, $0$ 的算术平方根是 $0$.
 >
-> **性质 8.1.3** (平方与开方的关系) <br>对非负数 $a$, $(\sqrt a)^2=a$; 对任意数 $a$, $\sqrt{a^2}=|a|$.
+> **性质 8.1.3** (平方与开方的关系) <br>对非负数 $a$, $\left(\sqrt a\right)^2=a$; 对任意数 $a$, $\sqrt{a^2}=\left|a\right|$.
 >
-> **定义 8.2.1** (立方根) <br>如果 $x^3=a$, 那么 $x$ 叫作 $a$ 的立方根, 记作 $\sqrt[3]{a}$.
+> **定义 8.2.1** (立方根) <br>如果 $x^3=a$, 那么 $x$ 叫作 $a$ 的立方根, 记作 $\sqrt\left[3\right]{a}$.
 >
-> **性质 8.2.2** (负数的立方根) <br>$\sqrt[3]{-a}=-\sqrt[3]{a}$.
+> **性质 8.2.2** (负数的立方根) <br>$\sqrt\left[3\right]{-a}=-\sqrt\left[3\right]{a}$.
 >
 > **性质 8.3.1** (实数与数轴) <br>实数与数轴上的点一一对应, 右边的数总比左边的大.
 >
@@ -24,13 +24,13 @@
 
 由**定义 8.1.1** (平方根) 与**定义 8.1.2** (算术平方根).
 
-(1) $\because(\pm 0.6)^2=0.36$, $\therefore$ 平方根为 $\pm 0.6$, 算术平方根为 $0.6$.
+(1) $\because\left(\pm 0.6\right)^2=0.36$, $\therefore$ 平方根为 $\pm 0.6$, 算术平方根为 $0.6$.
 
 (2) $\because\left(\pm\frac{5}{4}\right)^2=\frac{25}{16}$, $\therefore$ 平方根为 $\pm\frac{5}{4}$, 算术平方根为 $\frac{5}{4}$.
 
 (3) $\left(-\frac{7}{8}\right)^2=\frac{49}{64}$, $\because\left(\pm\frac{7}{8}\right)^2=\frac{49}{64}$, $\therefore$ 平方根为 $\pm\frac{7}{8}$, 算术平方根为 $\frac{7}{8}$.
 
-(4) $10^4=10000$, $\because(\pm 100)^2=10000$, $\therefore$ 平方根为 $\pm 100$, 算术平方根为 $100$. $\blacksquare$
+(4) $10^4=10000$, $\because\left(\pm 100\right)^2=10000$, $\therefore$ 平方根为 $\pm 100$, 算术平方根为 $100$. $\blacksquare$
 
 ### 复习题二
 
@@ -42,19 +42,19 @@
 
 由**定义 8.2.1** (立方根).
 
-(1) $\because\left(\frac{3}{2}\right)^3=\frac{27}{8}$, $\therefore\sqrt[3]{\frac{27}{8}}=\frac{3}{2}$.
+(1) $\because\left(\frac{3}{2}\right)^3=\frac{27}{8}$, $\therefore\sqrt\left[3\right]{\frac{27}{8}}=\frac{3}{2}$.
 
-(2) $\because\left(-\frac{1}{4}\right)^3=-\frac{1}{64}$, $\therefore\sqrt[3]{-\frac{1}{64}}=-\frac{1}{4}$.
+(2) $\because\left(-\frac{1}{4}\right)^3=-\frac{1}{64}$, $\therefore\sqrt\left[3\right]{-\frac{1}{64}}=-\frac{1}{4}$.
 
-(3) $\because(-0.9)^3=-0.729$, $\therefore\sqrt[3]{-0.729}=-0.9$.
+(3) $\because\left(-0.9\right)^3=-0.729$, $\therefore\sqrt\left[3\right]{-0.729}=-0.9$.
 
-(4) $36$ 的立方根为 $\sqrt[3]{36}$ (开不尽), $\approx 3.30$. $\blacksquare$
+(4) $36$ 的立方根为 $\sqrt\left[3\right]{36}$ (开不尽), $\approx 3.30$. $\blacksquare$
 
 ### 复习题三
 
 (复习题 复习巩固第 3 题) 求下列各式的值:
 
-(1) $-\sqrt{1-\frac{16}{25}}$;　(2) $\sqrt[3]{10^3}$;　(3) $\pm\sqrt{0.09}$;　(4) $\sqrt{(3-\pi)^2}$.
+(1) $-\sqrt{1-\frac{16}{25}}$;　(2) $\sqrt\left[3\right]{10^3}$;　(3) $\pm\sqrt{0.09}$;　(4) $\sqrt{\left(3-\pi\right)^2}$.
 
 ### 解答 复习题三
 
@@ -62,17 +62,17 @@
 
 (1) $1-\frac{16}{25}=\frac{9}{25}$, $\sqrt{\frac{9}{25}}=\frac{3}{5}$, 故 $-\sqrt{1-\frac{16}{25}}=-\frac{3}{5}$.
 
-(2) $\sqrt[3]{10^3}=10$.
+(2) $\sqrt\left[3\right]{10^3}=10$.
 
 (3) $\because 0.3^2=0.09$, $\therefore\pm\sqrt{0.09}=\pm 0.3$.
 
-(4) $\because\pi>3$, $\therefore 3-\pi<0$. 由**性质 8.1.3**, $\sqrt{(3-\pi)^2}=|3-\pi|=\pi-3$. $\blacksquare$
+(4) $\because\pi>3$, $\therefore 3-\pi<0$. 由**性质 8.1.3**, $\sqrt{\left(3-\pi\right)^2}=\left|3-\pi\right|=\pi-3$. $\blacksquare$
 
 ### 复习题四
 
 (复习题 复习巩固第 4 题) 用计算器求下列各式的值:
 
-(1) $\sqrt{180625}$;　(2) $-\sqrt{9.77}$ (结果保留小数点后三位);　(3) $\sqrt[3]{39304}$;　(4) $\sqrt[3]{0.43}$ (结果保留小数点后三位).
+(1) $\sqrt{180625}$;　(2) $-\sqrt{9.77}$ (结果保留小数点后三位);　(3) $\sqrt\left[3\right]{39304}$;　(4) $\sqrt\left[3\right]{0.43}$ (结果保留小数点后三位).
 
 ### 解答 复习题四
 
@@ -82,43 +82,43 @@
 
 (2) $\sqrt{9.77}\approx 3.126$, 故 $-\sqrt{9.77}\approx-3.126$.
 
-(3) $\because 34^3=39304$, $\therefore\sqrt[3]{39304}=34$.
+(3) $\because 34^3=39304$, $\therefore\sqrt\left[3\right]{39304}=34$.
 
-(4) $\sqrt[3]{0.43}\approx 0.755$. $\blacksquare$
+(4) $\sqrt\left[3\right]{0.43}\approx 0.755$. $\blacksquare$
 
 ### 复习题五
 
 (复习题 复习巩固第 5 题) 计算:
 
-(1) $\sqrt 2(\sqrt 2+2)$;　(2) $\sqrt 3\left(\sqrt 3+\frac{1}{\sqrt 3}\right)$.
+(1) $\sqrt 2\left(\sqrt 2+2\right)$;　(2) $\sqrt 3\left(\sqrt 3+\frac{1}{\sqrt 3}\right)$.
 
 ### 解答 复习题五
 
 由分配律展开.
 
-(1) $\sqrt 2(\sqrt 2+2)=(\sqrt 2)^2+2\sqrt 2=2+2\sqrt 2$.
+(1) $\sqrt 2\left(\sqrt 2+2\right)=\left(\sqrt 2\right)^2+2\sqrt 2=2+2\sqrt 2$.
 
-(2) $\sqrt 3\left(\sqrt 3+\frac{1}{\sqrt 3}\right)=(\sqrt 3)^2+\sqrt 3\cdot\frac{1}{\sqrt 3}=3+1=4$. $\blacksquare$
+(2) $\sqrt 3\left(\sqrt 3+\frac{1}{\sqrt 3}\right)=\left(\sqrt 3\right)^2+\sqrt 3\cdot\frac{1}{\sqrt 3}=3+1=4$. $\blacksquare$
 
 ### 复习题六
 
 (复习题 复习巩固第 6 题) 下列各数分别介于哪两个相邻的整数之间? 与哪个整数更接近?
 
-(1) $\sqrt{91}$;　(2) $\sqrt[3]{91}$.
+(1) $\sqrt{91}$;　(2) $\sqrt\left[3\right]{91}$.
 
 ### 解答 复习题六
 
 (1) $\because 9^2=81<91<100=10^2$, $\therefore 9<\sqrt{91}<10$. 又 $91-81=10$, $100-91=9$, $91$ 距 $100$ 更近, 故 $\sqrt{91}$ 介于 $9$ 与 $10$ 之间, 更接近 $10$.
 
-(2) $\because 4^3=64<91<125=5^3$, $\therefore 4<\sqrt[3]{91}<5$. 又 $91-64=27$, $125-91=34$, $91$ 距 $64$ 更近, 故 $\sqrt[3]{91}$ 介于 $4$ 与 $5$ 之间, 更接近 $4$. $\blacksquare$
+(2) $\because 4^3=64<91<125=5^3$, $\therefore 4<\sqrt\left[3\right]{91}<5$. 又 $91-64=27$, $125-91=34$, $91$ 距 $64$ 更近, 故 $\sqrt\left[3\right]{91}$ 介于 $4$ 与 $5$ 之间, 更接近 $4$. $\blacksquare$
 
 ### 复习题七
 
-(复习题 综合运用第 7 题) 已知 $|x|<\pi$ ($x$ 是整数), 求 $x$ 的值, 并在数轴上表示求得的数.
+(复习题 综合运用第 7 题) 已知 $\left|x\right|<\pi$ ($x$ 是整数), 求 $x$ 的值, 并在数轴上表示求得的数.
 
 ### 解答 复习题七
 
-$\pi\approx 3.14$, $|x|<\pi$ 即 $-\pi<x<\pi$, 即 $-3.14<x<3.14$. 其间的整数为 $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
+$\pi\approx 3.14$, $\left|x\right|<\pi$ 即 $-\pi<x<\pi$, 即 $-3.14<x<3.14$. 其间的整数为 $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
 
 故 $x=-3$, $-2$, $-1$, $0$, $1$, $2$, $3$. 在数轴上对应标出这些点即可. $\blacksquare$
 
@@ -168,7 +168,7 @@ $$
 
 计算: $95^2=9025$, $V=3.14\times 9025\times 58=1645553\,\text{mm}^3$.
 
-设正方体棱长为 $x$, $x^3=1645553$, $x=\sqrt[3]{1645553}\approx 118$.
+设正方体棱长为 $x$, $x^3=1645553$, $x=\sqrt\left[3\right]{1645553}\approx 118$.
 
 即正方体棱长约为 $118\,mm$. $\blacksquare$
 

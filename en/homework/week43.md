@@ -2,7 +2,7 @@
 
 > **Definition 9.1.1** (Rectangular Coordinate System) <br>Draw two number lines perpendicular to each other in a plane with the same origin to form a rectangular coordinate system.
 >
-> **Definition 9.1.2** (Coordinates of a Point) <br>The ordered pair $(x,y)$ is called the coordinates of a point in the plane; points correspond one-to-one with ordered pairs of real numbers.
+> **Definition 9.1.2** (Coordinates of a Point) <br>The ordered pair $\left(x,y\right)$ is called the coordinates of a point in the plane; points correspond one-to-one with ordered pairs of real numbers.
 >
 > **Method 9.2.1** (Representing Geographic Locations with Coordinates) <br>Establish a coordinate system by choosing an appropriate reference point as the origin, determine the positive directions of the coordinate axes and the unit length, plot each point and write down its coordinates. One can also represent a position using a direction angle and a distance.
 
@@ -10,7 +10,7 @@
 
 (Mathematical Activity, Activity 1) Describe the positions of park attractions using coordinates. Spring has arrived; Grade 7 Class (2) organizes a spring outing to People's Park. Li Ming and Zhang Hua describe the position of the Peony Garden against the scenic schematic (the side length of each small square in the figure represents $100\,m$) as follows.
 
-Li Ming: "The coordinates of the Peony Garden are $(3,3)$."
+Li Ming: "The coordinates of the Peony Garden are $\left(3,3\right)$."
 
 Zhang Hua: "The Peony Garden is about $420\,m$ northeast of the Central Square."
 
@@ -20,7 +20,7 @@ In fact, the positions they describe are both correct. Do you know how Li Ming e
 
 By **Method 9.2.1** (Representing Geographic Locations with Coordinates).
 
-Li Ming takes the Central Square as the origin, east as the positive $x$-axis direction, north as the positive $y$-axis direction, and one small square (representing $100\,m$) as one unit of length. The Peony Garden is $3$ squares east and $3$ squares north of the Central Square, so its coordinates are $(3,3)$.
+Li Ming takes the Central Square as the origin, east as the positive $x$-axis direction, north as the positive $y$-axis direction, and one small square (representing $100\,m$) as one unit of length. The Peony Garden is $3$ squares east and $3$ squares north of the Central Square, so its coordinates are $\left(3,3\right)$.
 
 Zhang Hua's "about $420\,m$ northeast" means the Peony Garden lies in the northeast (north by east $45^\circ$) direction of the Central Square. By the Pythagorean theorem, both the horizontal and vertical distances are about $300\,m$, and the distance is $\sqrt{300^2+300^2}\approx 420\,m$. This is describing a position using a direction angle plus a distance.
 
@@ -34,6 +34,6 @@ Similarly, one can describe the positions of attractions such as Yintai Terrace,
 
 By **Method 9.2.1** (Representing Geographic Locations with Coordinates) and **Property 9.2.1** (Representing Translation with Coordinates).
 
-Take the center of the formation's front row as the origin, the horizontal direction as the $x$-axis, the vertical direction as the $y$-axis, and one member occupying one unit square. Design the starting formation: let each member correspond to one coordinate, for example arranged in a $4\times 4$ square formation, with member coordinates $(1,1)$, $(1,2)$, $\cdots$, $(4,4)$.
+Take the center of the formation's front row as the origin, the horizontal direction as the $x$-axis, the vertical direction as the $y$-axis, and one member occupying one unit square. Design the starting formation: let each member correspond to one coordinate, for example arranged in a $4\times 4$ square formation, with member coordinates $\left(1,1\right)$, $\left(1,2\right)$, $\cdots$, $\left(4,4\right)$.
 
 During the performance, change the formation by translating all members by the same coordinate vector: adding $a$ to every x-coordinate shifts everyone $a$ squares right, and adding $b$ to every y-coordinate shifts everyone $b$ squares up. Design the coordinates of the members in the starting formation, the middle expanded formation, and the ending formation, and use arrows to indicate the coordinate change in each formation transition; this gives the performance design plan. $\blacksquare$

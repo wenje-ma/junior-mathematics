@@ -2,11 +2,11 @@
 
 > **Definition 9.1.1** (Rectangular Coordinate System) <br>Draw two number lines perpendicular to each other in a plane with the same origin; together they form a rectangular coordinate system. The horizontal number line is called the $x$-axis, with right taken as the positive direction; the vertical number line is called the $y$-axis, with up taken as the positive direction; the intersection of the two axes is called the origin.
 >
-> **Definition 9.1.2** (Coordinates of a Point) <br>Through a point in the plane draw perpendiculars to the $x$-axis and $y$-axis respectively; the coordinate of the foot on the $x$-axis is the x-coordinate of the point, and the coordinate of the foot on the $y$-axis is the y-coordinate of the point. The ordered pair $(x,y)$ is called the coordinates of this point.
+> **Definition 9.1.2** (Coordinates of a Point) <br>Through a point in the plane draw perpendiculars to the $x$-axis and $y$-axis respectively; the coordinate of the foot on the $x$-axis is the x-coordinate of the point, and the coordinate of the foot on the $y$-axis is the y-coordinate of the point. The ordered pair $\left(x,y\right)$ is called the coordinates of this point.
 >
 > **Property 9.1.1** (One-to-One Correspondence Between Points and Coordinates) <br>Points in the coordinate plane are in one-to-one correspondence with ordered pairs of real numbers.
 >
-> **Definition 9.1.3** (Quadrants) <br>The coordinate plane is divided by the two coordinate axes into four parts, called in order starting from the upper right the first, second, third, and fourth quadrants. The first quadrant $(+,+)$, the second quadrant $(-,+)$, the third quadrant $(-,-)$, the fourth quadrant $(+,-)$. Points on the coordinate axes do not belong to any quadrant.
+> **Definition 9.1.3** (Quadrants) <br>The coordinate plane is divided by the two coordinate axes into four parts, called in order starting from the upper right the first, second, third, and fourth quadrants. The first quadrant $\left(+,+\right)$, the second quadrant $\left(-,+\right)$, the third quadrant $\left(-,-\right)$, the fourth quadrant $\left(+,-\right)$. Points on the coordinate axes do not belong to any quadrant.
 
 ### Exercise 1
 
@@ -19,18 +19,18 @@
 By **Definition 9.1.2** (Coordinates of a Point), draw a perpendicular from the point to the $x$-axis to get the x-coordinate, and to the $y$-axis to get the y-coordinate. Reading off the coordinates of the points,
 
 $$
-A(-3,-2),\ B(-5,4),\ C(5,-4),\ D(0,-3),\ E(2,5),\ F(-4,0).
+A\left(-3,-2\right),\ B\left(-5,4\right),\ C\left(5,-4\right),\ D\left(0,-3\right),\ E\left(2,5\right),\ F\left(-4,0\right).
 $$
 
 Among them, $D$ is on the $y$-axis (x-coordinate $0$), and $F$ is on the $x$-axis (y-coordinate $0$). $\blacksquare$
 
 ### Exercise 2
 
-(Exercise 9.1, Problem 2) In the rectangular coordinate system shown, plot the following points: $L(-5,-3)$, $M(4,0)$, $N(-6,2)$, $P(5,-3.5)$, $Q(0,5)$, $R(6,2)$.
+(Exercise 9.1, Problem 2) In the rectangular coordinate system shown, plot the following points: $L\left(-5,-3\right)$, $M\left(4,0\right)$, $N\left(-6,2\right)$, $P\left(5,-3.5\right)$, $Q\left(0,5\right)$, $R\left(6,2\right)$.
 
 ### Solution to Exercise 2
 
-By **Definition 9.1.2** (Coordinates of a Point), first find the x-coordinate on the $x$-axis, then find the y-coordinate on the $y$-axis; the intersection of the two perpendiculars is the point. Plot $L(-5,-3)$, $M(4,0)$, $N(-6,2)$, $P(5,-3.5)$, $Q(0,5)$, $R(6,2)$ in order. Among them, $M(4,0)$ is on the $x$-axis, and $Q(0,5)$ is on the $y$-axis. $\blacksquare$
+By **Definition 9.1.2** (Coordinates of a Point), first find the x-coordinate on the $x$-axis, then find the y-coordinate on the $y$-axis; the intersection of the two perpendiculars is the point. Plot $L\left(-5,-3\right)$, $M\left(4,0\right)$, $N\left(-6,2\right)$, $P\left(5,-3.5\right)$, $Q\left(0,5\right)$, $R\left(6,2\right)$ in order. Among them, $M\left(4,0\right)$ is on the $x$-axis, and $Q\left(0,5\right)$ is on the $y$-axis. $\blacksquare$
 
 ### Exercise 3
 
@@ -44,15 +44,15 @@ First quadrant: x-coordinate $+$, y-coordinate $+$; second quadrant: x-coordinat
 
 ### Exercise 4
 
-(Exercise 9.1, Problem 1) On grid paper there are two points $A$, $B$. If a rectangular coordinate system is established with point $B$ as the origin, then the coordinates of point $A$ are $(-2,1)$. If a rectangular coordinate system is established with point $A$ as the origin, then the coordinates of point $B$ are (　　).
+(Exercise 9.1, Problem 1) On grid paper there are two points $A$, $B$. If a rectangular coordinate system is established with point $B$ as the origin, then the coordinates of point $A$ are $\left(-2,1\right)$. If a rectangular coordinate system is established with point $A$ as the origin, then the coordinates of point $B$ are (　　).
 
-(1) $(-2,1)$　(2) $(2,-1)$　(3) $(-2,-1)$　(4) $(2,1)$
+(1) $\left(-2,1\right)$　(2) $\left(2,-1\right)$　(3) $\left(-2,-1\right)$　(4) $\left(2,1\right)$
 
 ### Solution to Exercise 4
 
 By **Property 9.1.1** (One-to-One Correspondence Between Points and Coordinates), the relative positions of the two points do not change; only the origin moves from $B$ to $A$.
 
-With $B$ as the origin, $A(-2,1)$, which means $A$ is $2$ units to the left of $B$ and $1$ unit above. Conversely, with $A$ as the origin, $B$ is $2$ units to the right of $A$ and $1$ unit below, so the coordinates of $B$ are $(2,-1)$. Choose (2). $\blacksquare$
+With $B$ as the origin, $A\left(-2,1\right)$, which means $A$ is $2$ units to the left of $B$ and $1$ unit above. Conversely, with $A$ as the origin, $B$ is $2$ units to the right of $A$ and $1$ unit below, so the coordinates of $B$ are $\left(2,-1\right)$. Choose (2). $\blacksquare$
 
 ### Exercise 5
 
@@ -64,9 +64,9 @@ With $B$ as the origin, $A(-2,1)$, which means $A$ is $2$ units to the left of $
 
 By **Definition 9.1.1** (Rectangular Coordinate System), choose point $C$ as the origin, the line on which $CA$ lies as the $y$-axis, and the line on which $CB$ lies as the $x$-axis.
 
-Then $C(0,0)$. $AC=3$ in the positive $y$-axis direction, so $A(0,3)$. $BC=4$ in the positive $x$-axis direction, so $B(4,0)$.
+Then $C\left(0,0\right)$. $AC=3$ in the positive $y$-axis direction, so $A\left(0,3\right)$. $BC=4$ in the positive $x$-axis direction, so $B\left(4,0\right)$.
 
-That is, $A(0,3)$, $B(4,0)$, $C(0,0)$. (With a different coordinate system, the coordinates change accordingly.) $\blacksquare$
+That is, $A\left(0,3\right)$, $B\left(4,0\right)$, $C\left(0,0\right)$. (With a different coordinate system, the coordinates change accordingly.) $\blacksquare$
 
 ### Exercise 6
 
@@ -85,7 +85,7 @@ By **Definition 9.1.1** (Rectangular Coordinate System), choose one right-angle 
 By **Definition 9.1.2** (Coordinates of a Point), through each point draw perpendiculars to the $x$-axis and $y$-axis respectively, and read off the number corresponding to the foot. The coordinates of the points are
 
 $$
-A(-5,4),\ B(-2,2),\ C(4,4),\ D(2,1),\ E(5,-3),\ F(0,-2),\ G(-4,-4),\ H(-3,-1).
+A\left(-5,4\right),\ B\left(-2,2\right),\ C\left(4,4\right),\ D\left(2,1\right),\ E\left(5,-3\right),\ F\left(0,-2\right),\ G\left(-4,-4\right),\ H\left(-3,-1\right).
 $$
 
 The first number of each point is the x-coordinate, and the second number is the y-coordinate. $\blacksquare$
@@ -98,13 +98,13 @@ The first number of each point is the x-coordinate, and the second number is the
 
 By **Definition 9.1.2** (Coordinates of a Point), the distance to the $x$-axis is the absolute value of the y-coordinate, and the distance to the $y$-axis is the absolute value of the x-coordinate.
 
-$A$ on the $y$-axis, $2$ from the origin (up): $A(0,2)$. $B$ on the $x$-axis, $1$ from the origin (right): $B(1,0)$. $C$ in the first quadrant, $2$ from both axes: $C(2,2)$. $D$ on the $x$-axis, $3$ from the origin (right): $D(3,0)$. $E$ at distance $2$ from the $x$-axis and $4$ from the $y$-axis (first quadrant): $E(4,2)$.
+$A$ on the $y$-axis, $2$ from the origin (up): $A\left(0,2\right)$. $B$ on the $x$-axis, $1$ from the origin (right): $B\left(1,0\right)$. $C$ in the first quadrant, $2$ from both axes: $C\left(2,2\right)$. $D$ on the $x$-axis, $3$ from the origin (right): $D\left(3,0\right)$. $E$ at distance $2$ from the $x$-axis and $4$ from the $y$-axis (first quadrant): $E\left(4,2\right)$.
 
 Connect $A$, $B$, $C$, $D$, $E$ in order; a figure resembling an arrow (or a small house) is obtained. $\blacksquare$
 
 ### Problem 3
 
-(Exercise 9.1, Review and Consolidation, Problem 3) As shown in the figure, in the given rectangular coordinate system plot points $A(-4,-4)$, $B(-2,-2)$, $C(3,3)$, $D(5,5)$, $E(-3,-3)$, $F(0,0)$. What is the relationship among these points? Can you find some other similar points?
+(Exercise 9.1, Review and Consolidation, Problem 3) As shown in the figure, in the given rectangular coordinate system plot points $A\left(-4,-4\right)$, $B\left(-2,-2\right)$, $C\left(3,3\right)$, $D\left(5,5\right)$, $E\left(-3,-3\right)$, $F\left(0,0\right)$. What is the relationship among these points? Can you find some other similar points?
 
 ![week41-3.svg](../../figures/week41-3.svg){width=50%}
 
@@ -112,47 +112,47 @@ Connect $A$, $B$, $C$, $D$, $E$ in order; a figure resembling an arrow (or a sma
 
 By **Definition 9.1.2** (Coordinates of a Point), plot the points. Observing, the x-coordinate of each point equals its y-coordinate: $-4=-4$, $-2=-2$, $3=3$, $5=5$, $-3=-3$, $0=0$.
 
-Thus all these points lie on the line $y=x$. Similar points, such as $(1,1)$, $(2,2)$, $(-1,-1)$, $(4,4)$, etc., whose x-coordinate equals y-coordinate, all lie on this line. $\blacksquare$
+Thus all these points lie on the line $y=x$. Similar points, such as $\left(1,1\right)$, $\left(2,2\right)$, $\left(-1,-1\right)$, $\left(4,4\right)$, etc., whose x-coordinate equals y-coordinate, all lie on this line. $\blacksquare$
 
 ### Problem 4
 
-(Exercise 9.1, Review and Consolidation, Problem 4) As shown in the figure, establish a rectangular coordinate system so that the coordinates of points $B$, $C$ are $(0,0)$ and $(4,0)$ respectively. Write down the coordinates of points $A$, $D$, $E$, $F$, $G$, and indicate the quadrant in which they lie.
+(Exercise 9.1, Review and Consolidation, Problem 4) As shown in the figure, establish a rectangular coordinate system so that the coordinates of points $B$, $C$ are $\left(0,0\right)$ and $\left(4,0\right)$ respectively. Write down the coordinates of points $A$, $D$, $E$, $F$, $G$, and indicate the quadrant in which they lie.
 
 ![week41-4.svg](../../figures/week41-4.svg){width=50%}
 
 ### Solution to Problem 4
 
-With $B$ as the origin and the line on which $BC$ lies as the $x$-axis, $C(4,0)$. By **Definition 9.1.2** (Coordinates of a Point), read off the coordinates:
+With $B$ as the origin and the line on which $BC$ lies as the $x$-axis, $C\left(4,0\right)$. By **Definition 9.1.2** (Coordinates of a Point), read off the coordinates:
 
 $$
-A(-2,2),\ D(5,1),\ E(4,2),\ F(2,0),\ G(1,4).
+A\left(-2,2\right),\ D\left(5,1\right),\ E\left(4,2\right),\ F\left(2,0\right),\ G\left(1,4\right).
 $$
 
-Judge by **Definition 9.1.3** (Quadrants): $A(-2,2)$ has negative x and positive y, in the second quadrant; $D(5,1)$, $E(4,2)$, $G(1,4)$ have both x and y positive, in the first quadrant; $F(2,0)$ is on the $x$-axis, belonging to no quadrant; $B(0,0)$ is the origin, and $C(4,0)$ is on the $x$-axis. $\blacksquare$
+Judge by **Definition 9.1.3** (Quadrants): $A\left(-2,2\right)$ has negative x and positive y, in the second quadrant; $D\left(5,1\right)$, $E\left(4,2\right)$, $G\left(1,4\right)$ have both x and y positive, in the first quadrant; $F\left(2,0\right)$ is on the $x$-axis, belonging to no quadrant; $B\left(0,0\right)$ is the origin, and $C\left(4,0\right)$ is on the $x$-axis. $\blacksquare$
 
 ### Problem 5
 
-(Exercise 9.1, Review and Consolidation, Problem 5) The figure is a schematic diagram of part of a Chinese chess board. Establish a rectangular coordinate system so that the piece "Shuai" is at point $(0,-4)$ and the piece "Ma" is at point $(3,-4)$; then the piece "Bing" is at point _______. If the "Ma" takes one more step, then the new position of the "Ma" is at point _______.
+(Exercise 9.1, Review and Consolidation, Problem 5) The figure is a schematic diagram of part of a Chinese chess board. Establish a rectangular coordinate system so that the piece "Shuai" is at point $\left(0,-4\right)$ and the piece "Ma" is at point $\left(3,-4\right)$; then the piece "Bing" is at point _______. If the "Ma" takes one more step, then the new position of the "Ma" is at point _______.
 
 ![week41-5.svg](../../figures/week41-5.svg){width=50%}
 
 ### Solution to Problem 5
 
-By **Definition 9.1.2** (Coordinates of a Point), determine the coordinate system with Shuai $(0,-4)$ and Ma $(3,-4)$: they have the same y-coordinate and differ by $3$ in x-coordinate, so each small grid is $1$ unit, with the $x$-axis to the right and the $y$-axis upward.
+By **Definition 9.1.2** (Coordinates of a Point), determine the coordinate system with Shuai $\left(0,-4\right)$ and Ma $\left(3,-4\right)$: they have the same y-coordinate and differ by $3$ in x-coordinate, so each small grid is $1$ unit, with the $x$-axis to the right and the $y$-axis upward.
 
-Reading off by the grids of the board, "Bing" is at $(-3,0)$ and "Xiang" is at $(3,0)$.
+Reading off by the grids of the board, "Bing" is at $\left(-3,0\right)$ and "Xiang" is at $\left(3,0\right)$.
 
-The "Ma" moves along the diagonal of an "L" shape; from $(3,-4)$ it can move along the board lines to $(1,-3)$ (it can also move to $(5,-3)$, $(2,-2)$, $(4,-2)$, etc.; any legal step within the board works). Take the new position of the "Ma" as $(1,-3)$.
+The "Ma" moves along the diagonal of an "L" shape; from $\left(3,-4\right)$ it can move along the board lines to $\left(1,-3\right)$ (it can also move to $\left(5,-3\right)$, $\left(2,-2\right)$, $\left(4,-2\right)$, etc.; any legal step within the board works). Take the new position of the "Ma" as $\left(1,-3\right)$.
 
-Thus "Bing" is at $(-3,0)$, and after one more step the "Ma" can be at $(1,-3)$. $\blacksquare$
+Thus "Bing" is at $\left(-3,0\right)$, and after one more step the "Ma" can be at $\left(1,-3\right)$. $\blacksquare$
 
 ### Problem 6
 
 (Exercise 9.1, Review and Consolidation, Problem 6) In the rectangular coordinate system, plot each of the following groups of points, and connect the points within each group in order with segments.
 
-(1) $(0,4)$, $(-2,2)$, $(-1,2)$, $(-3,0)$, $(-1,0)$, $(-4,-2)$, $(-1,-2)$, $(-1,-4)$, $(1,-4)$, $(1,-2)$, $(4,-2)$, $(1,0)$, $(3,0)$, $(1,2)$, $(2,2)$, $(0,4)$;
+(1) $\left(0,4\right)$, $\left(-2,2\right)$, $\left(-1,2\right)$, $\left(-3,0\right)$, $\left(-1,0\right)$, $\left(-4,-2\right)$, $\left(-1,-2\right)$, $\left(-1,-4\right)$, $\left(1,-4\right)$, $\left(1,-2\right)$, $\left(4,-2\right)$, $\left(1,0\right)$, $\left(3,0\right)$, $\left(1,2\right)$, $\left(2,2\right)$, $\left(0,4\right)$;
 
-(2) $(-2,2)$, $(0,2)$, $(0,1)$, $(-1,0)$, $(-1,-2)$, $(0,-3)$, $(4,-3)$, $(3,-2)$, $(6,0)$, $(0,0)$, $(1,1)$, $(1,2.5)$, $(0,3)$, $(-2,2)$.
+(2) $\left(-2,2\right)$, $\left(0,2\right)$, $\left(0,1\right)$, $\left(-1,0\right)$, $\left(-1,-2\right)$, $\left(0,-3\right)$, $\left(4,-3\right)$, $\left(3,-2\right)$, $\left(6,0\right)$, $\left(0,0\right)$, $\left(1,1\right)$, $\left(1,2.5\right)$, $\left(0,3\right)$, $\left(-2,2\right)$.
 
 Observe the resulting figures. What do they resemble? Find the areas of the resulting figures.
 
@@ -162,7 +162,7 @@ By **Definition 9.1.2** (Coordinates of a Point), plot the points and connect th
 
 ### Problem 7
 
-(Exercise 9.1, Review and Consolidation, Problem 7) Establish a rectangular coordinate system, plot points $A(-2,4)$, $B(3,4)$, and draw line $AB$. If point $C$ is any point on line $AB$, what is the y-coordinate of point $C$? Think about it:
+(Exercise 9.1, Review and Consolidation, Problem 7) Establish a rectangular coordinate system, plot points $A\left(-2,4\right)$, $B\left(3,4\right)$, and draw line $AB$. If point $C$ is any point on line $AB$, what is the y-coordinate of point $C$? Think about it:
 
 (1) If some points lie on a line parallel to the $x$-axis, what is characteristic of their y-coordinates?
 
@@ -172,7 +172,7 @@ By **Definition 9.1.2** (Coordinates of a Point), plot the points and connect th
 
 ### Solution to Problem 7
 
-Both $A(-2,4)$ and $B(3,4)$ have y-coordinate $4$, and all points on line $AB$ determined by the two points have y-coordinate $4$. Thus the y-coordinate of point $C$ is $4$.
+Both $A\left(-2,4\right)$ and $B\left(3,4\right)$ have y-coordinate $4$, and all points on line $AB$ determined by the two points have y-coordinate $4$. Thus the y-coordinate of point $C$ is $4$.
 
 (1) By **Definition 9.1.2** (Coordinates of a Point), all points on a line parallel to the $x$-axis are at the same distance from the $x$-axis, so their y-coordinates are all equal.
 
@@ -182,11 +182,11 @@ Both $A(-2,4)$ and $B(3,4)$ have y-coordinate $4$, and all points on line $AB$ d
 
 (Exercise 9.1, Review and Consolidation, Problem 8) In the rectangular coordinate system, choose some points whose x- and y-coordinates satisfy the following conditions, mark their positions, and see in which quadrant or on which coordinate axis they lie:
 
-(1) The coordinates of point $P(x,y)$ satisfy $xy>0$;
+(1) The coordinates of point $P\left(x,y\right)$ satisfy $xy>0$;
 
-(2) The coordinates of point $P(x,y)$ satisfy $xy<0$;
+(2) The coordinates of point $P\left(x,y\right)$ satisfy $xy<0$;
 
-(3) The coordinates of point $P(x,y)$ satisfy $xy=0$.
+(3) The coordinates of point $P\left(x,y\right)$ satisfy $xy=0$.
 
 ### Solution to Problem 8
 
@@ -200,29 +200,29 @@ By the signs of the x- and y-coordinates in each quadrant in **Definition 9.1.3*
 
 ### Problem 9
 
-(Exercise 9.1, Comprehensive Application, Problem 9) Given points $O(0,0)$, $B(1,2)$, point $A$ lies on a coordinate axis, and $S_{\triangle OAB}=2$. Find the coordinates of point $A$ satisfying the conditions.
+(Exercise 9.1, Comprehensive Application, Problem 9) Given points $O\left(0,0\right)$, $B\left(1,2\right)$, point $A$ lies on a coordinate axis, and $S_{\triangle OAB}=2$. Find the coordinates of point $A$ satisfying the conditions.
 
 ### Solution to Problem 9
 
 Point $A$ lies on a coordinate axis; there are two cases.
 
-If $A$ is on the $x$-axis, let $A(a,0)$. Taking $OA$ as the base, of length $|a|$, the height is the distance from point $B$ to the $x$-axis, namely the y-coordinate of $B$, which is $2$. By the triangle area formula,
+If $A$ is on the $x$-axis, let $A\left(a,0\right)$. Taking $OA$ as the base, of length $\left|a\right|$, the height is the distance from point $B$ to the $x$-axis, namely the y-coordinate of $B$, which is $2$. By the triangle area formula,
 
 $$
-S_{\triangle OAB}=\frac{1}{2}|a|\cdot 2=|a|=2,
+S_{\triangle OAB}=\frac{1}{2}\left|a\right|\cdot 2=\left|a\right|=2,
 $$
 
-so $a=\pm 2$, i.e. $A(2,0)$ or $A(-2,0)$.
+so $a=\pm 2$, i.e. $A\left(2,0\right)$ or $A\left(-2,0\right)$.
 
-If $A$ is on the $y$-axis, let $A(0,b)$. Taking $OA$ as the base, of length $|b|$, the height is the distance from point $B$ to the $y$-axis, namely the x-coordinate of $B$, which is $1$. Then
+If $A$ is on the $y$-axis, let $A\left(0,b\right)$. Taking $OA$ as the base, of length $\left|b\right|$, the height is the distance from point $B$ to the $y$-axis, namely the x-coordinate of $B$, which is $1$. Then
 
 $$
-S_{\triangle OAB}=\frac{1}{2}|b|\cdot 1=2,
+S_{\triangle OAB}=\frac{1}{2}\left|b\right|\cdot 1=2,
 $$
 
-so $|b|=4$, $b=\pm 4$, i.e. $A(0,4)$ or $A(0,-4)$.
+so $\left|b\right|=4$, $b=\pm 4$, i.e. $A\left(0,4\right)$ or $A\left(0,-4\right)$.
 
-In summary, the points $A$ satisfying the conditions are $(2,0)$, $(-2,0)$, $(0,4)$, $(0,-4)$. $\blacksquare$
+In summary, the points $A$ satisfying the conditions are $\left(2,0\right)$, $\left(-2,0\right)$, $\left(0,4\right)$, $\left(0,-4\right)$. $\blacksquare$
 
 ### Problem 10
 
@@ -232,4 +232,4 @@ In summary, the points $A$ satisfying the conditions are $(2,0)$, $(-2,0)$, $(0,
 
 ### Solution to Problem 10
 
-By **Property 9.1.1** (One-to-One Correspondence Between Points and Coordinates), choose several key points of the figure, write down the coordinates of each point, and then specify the connecting order. For example, design a "house" figure whose vertex coordinates in order are $A(-2,0)$, $B(2,0)$, $C(2,2)$, $D(0,4)$, $E(-2,2)$, connected in the order $A\to B\to C\to D\to E\to A$. The classmate plots the points and connects them according to the coordinates to draw the figure. $\blacksquare$
+By **Property 9.1.1** (One-to-One Correspondence Between Points and Coordinates), choose several key points of the figure, write down the coordinates of each point, and then specify the connecting order. For example, design a "house" figure whose vertex coordinates in order are $A\left(-2,0\right)$, $B\left(2,0\right)$, $C\left(2,2\right)$, $D\left(0,4\right)$, $E\left(-2,2\right)$, connected in the order $A\to B\to C\to D\to E\to A$. The classmate plots the points and connects them according to the coordinates to draw the figure. $\blacksquare$

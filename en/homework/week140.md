@@ -14,7 +14,7 @@
 
 ### Solution to Exercise 1
 
-The curve in the figure is a hyperbola lying in the first and third quadrants, so $k>0$, eliminating (A)(B) (which are lines) and (D) ($k<0$). The curve passes through $(1,4)$, which satisfies $y=\frac4x$. Hence choose (C). $\blacksquare$
+The curve in the figure is a hyperbola lying in the first and third quadrants, so $k>0$, eliminating (A)(B) (which are lines) and (D) ($k<0$). The curve passes through $\left(1,4\right)$, which satisfies $y=\frac4x$. Hence choose (C). $\blacksquare$
 
 ### Exercise 2
 
@@ -26,19 +26,19 @@ By **Conclusion 27.2.1**, when the graph lies in the second and fourth quadrants
 
 ### Exercise 3
 
-(Exercise 27.2, Problem 3) The graph of an inverse proportional function passes through $A(2,6)$.
+(Exercise 27.2, Problem 3) The graph of an inverse proportional function passes through $A\left(2,6\right)$.
 
 (1) In which quadrants does the graph lie? Within each quadrant, how does $y$ change as $x$ increases?
 
-(2) Are points $B(3,4)$, $C\left(2\frac12,-3\frac15\right)$, $D(2,-6)$ on this function's graph?
+(2) Are points $B\left(3,4\right)$, $C\left(2\frac12,-3\frac15\right)$, $D\left(2,-6\right)$ on this function's graph?
 
 ### Solution to Exercise 3
 
-Let $y=\frac kx$; substituting $A(2,6)$ gives $k=2\times6=12$.
+Let $y=\frac kx$; substituting $A\left(2,6\right)$ gives $k=2\times6=12$.
 
 (1) $k=12>0$; by **Conclusion 27.2.1**, the graph lies in the first and third quadrants, and within each quadrant $y$ decreases as $x$ increases.
 
-(2) Check whether the product of each point's coordinates equals $k=12$. $B(3,4)$: $3\times4=12$, on the graph; $C\left(\frac52,-\frac{16}5\right)$: $\frac52\times\left(-\frac{16}5\right)=-8\ne12$, not on the graph; $D(2,-6)$: $2\times(-6)=-12\ne12$, not on the graph. $\blacksquare$
+(2) Check whether the product of each point's coordinates equals $k=12$. $B\left(3,4\right)$: $3\times4=12$, on the graph; $C\left(\frac52,-\frac{16}5\right)$: $\frac52\times\left(-\frac{16}5\right)=-8\ne12$, not on the graph; $D\left(2,-6\right)$: $2\times\left(-6\right)=-12\ne12$, not on the graph. $\blacksquare$
 
 ### Exercise 4
 
@@ -50,7 +50,7 @@ By **Conclusion 27.2.1**, one branch in the second quadrant means $k=m+2<0$, so 
 
 ### Exercise 5
 
-(Exercise 27.2, Problem 5) Points $A(1,y_1)$ and $B(2,y_2)$ lie on the graph of $y=-\frac2x$; compare $y_1,y_2$.
+(Exercise 27.2, Problem 5) Points $A\left(1,y_1\right)$ and $B\left(2,y_2\right)$ lie on the graph of $y=-\frac2x$; compare $y_1,y_2$.
 
 ### Solution to Exercise 5
 
@@ -72,7 +72,7 @@ $k=-2<0$; by **Conclusion 27.2.1**, the graph is a hyperbola lying in the second
 
 (2) If the graph lies in the second and fourth quadrants, then $k$ $\_\_\_\_0$, and within each quadrant $y$ $\_\_\_\_$ as $x$ increases;
 
-(3) If point $(1,3)$ lies on the graph of $y=\frac kx$, then $k=\_\_\_\_$, and within each quadrant $y$ $\_\_\_\_$ as $x$ increases.
+(3) If point $\left(1,3\right)$ lies on the graph of $y=\frac kx$, then $k=\_\_\_\_$, and within each quadrant $y$ $\_\_\_\_$ as $x$ increases.
 
 ### Solution to Problem 2
 
@@ -94,15 +94,15 @@ From base area $xy=20$, $y=\frac{20}{x}$. Since side length $x>0$, the graph is 
 
 ### Problem 4
 
-(Exercise 27.2, Comprehensive Application, Problem 4) Point $(-2,-4)$ lies on the graph of $y=\frac kx$.
+(Exercise 27.2, Comprehensive Application, Problem 4) Point $\left(-2,-4\right)$ lies on the graph of $y=\frac kx$.
 
 (1) When $y<4$, find the range of $x$;
 
-(2) Points $A(-3,y_1)$, $B(-5,y_2)$, $C(4,y_3)$ lie on this graph; compare $y_1,y_2,y_3$.
+(2) Points $A\left(-3,y_1\right)$, $B\left(-5,y_2\right)$, $C\left(4,y_3\right)$ lie on this graph; compare $y_1,y_2,y_3$.
 
 ### Solution to Problem 4
 
-Substituting $(-2,-4)$ gives $k=(-2)\times(-4)=8$, i.e. $y=\frac8x$.
+Substituting $\left(-2,-4\right)$ gives $k=\left(-2\right)\times\left(-4\right)=8$, i.e. $y=\frac8x$.
 
 (1) When $x>0$, $y>0$; setting $\frac8x<4$ gives $x>2$. When $x<0$, $y<0<4$, which always holds. Hence $x<0$ or $x>2$.
 
@@ -118,7 +118,7 @@ Substituting $(-2,-4)$ gives $k=(-2)\times(-4)=8$, i.e. $y=\frac8x$.
 
 ### Solution to Problem 5
 
-The intersection's vertical coordinate is $2$; substituting into $y=-x$ gives $x=-2$, i.e. the intersection is $(-2,2)$. Substituting into $y=\frac kx$ gives $k=(-2)\times2=-4$, i.e. $y=-\frac4x$.
+The intersection's vertical coordinate is $2$; substituting into $y=-x$ gives $x=-2$, i.e. the intersection is $\left(-2,2\right)$. Substituting into $y=\frac kx$ gives $k=\left(-2\right)\times2=-4$, i.e. $y=-\frac4x$.
 
 (1) When $x=3$, $y=-\frac43$.
 
@@ -138,7 +138,7 @@ When $k>0$, the graph of $y=kx$ is a line through the origin in the first and th
 
 (1) In which quadrant does the other branch lie? What is the range of the constant $a$?
 
-(2) Take arbitrary points $A(x_1,y_1)$ and $B(x_2,y_2)$ on the graph; if $y_1>y_2$, what is the relation between $x_1$ and $x_2$?
+(2) Take arbitrary points $A\left(x_1,y_1\right)$ and $B\left(x_2,y_2\right)$ on the graph; if $y_1>y_2$, what is the relation between $x_1$ and $x_2$?
 
 ### Solution to Problem 7
 

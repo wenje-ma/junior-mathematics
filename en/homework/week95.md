@@ -355,7 +355,7 @@ From the figure, the side length of the large square is the sum of the side leng
 The area of the remaining part is the area of the large square minus the areas of the two small squares:
 
 $$
-S_{\text{余}}=(\sqrt{15}+\sqrt{24})^{2}-15-24.
+S_{\text{余}}=\left(\sqrt{15}+\sqrt{24}\right)^{2}-15-24.
 $$
 
 Expanding \((\sqrt{15}+\sqrt{24})^{2}=15+24+2\sqrt{15\times 24}=39+12\sqrt{10}\).

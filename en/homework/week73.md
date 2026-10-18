@@ -4,7 +4,7 @@
 >
 > **Conclusion 15.2.1** (Drawing an Axisymmetric Figure) <br>A geometric figure is composed of points; just draw the symmetric points about the axis of symmetry of some special points in the figure (such as segment endpoints), then join them in order, and a figure symmetric to the original figure about that line is obtained. To construct the symmetric point of a point about line $l$: through the point draw the perpendicular to $l$, cut off on the perpendicular a segment bisected by the foot, and the endpoint is the symmetric point.
 >
-> **Conclusion 15.2.2** (Axis Symmetry in Coordinates) <br>The coordinates of the point symmetric to $(x,y)$ about the $x$-axis are $(x,-y)$; the coordinates of the point symmetric to $(x,y)$ about the $y$-axis are $(-x,y)$.
+> **Conclusion 15.2.2** (Axis Symmetry in Coordinates) <br>The coordinates of the point symmetric to $\left(x,y\right)$ about the $x$-axis are $\left(x,-y\right)$; the coordinates of the point symmetric to $\left(x,y\right)$ about the $y$-axis are $\left(-x,y\right)$.
 
 ### Exercise 1
 
@@ -27,24 +27,24 @@ Whether the parts coincide after folding shows whether that line is an axis of s
 (Exercise 15.2, Problem 1) Write respectively the coordinates of the points symmetric to each of the following points about the $x$-axis and the $y$-axis:
 
 $$
-(-2,6),\ (1,-2),\ (1,3),\ (-4,-2),\ (1,0).
+\left(-2,6\right),\ \left(1,-2\right),\ \left(1,3\right),\ \left(-4,-2\right),\ \left(1,0\right).
 $$
 
 ### Solution to Exercise 3
 
 By **Conclusion 15.2.2** (Axis Symmetry in Coordinates), symmetry about the $x$-axis keeps the abscissa unchanged and negates the ordinate, and symmetry about the $y$-axis keeps the ordinate unchanged and negates the abscissa.
 
-About the $x$-axis: $(-2,-6)$, $(1,2)$, $(1,-3)$, $(-4,2)$, $(1,0)$.
+About the $x$-axis: $\left(-2,-6\right)$, $\left(1,2\right)$, $\left(1,-3\right)$, $\left(-4,2\right)$, $\left(1,0\right)$.
 
-About the $y$-axis: $(2,6)$, $(-1,-2)$, $(-1,3)$, $(4,-2)$, $(-1,0)$. $\blacksquare$
+About the $y$-axis: $\left(2,6\right)$, $\left(-1,-2\right)$, $\left(-1,3\right)$, $\left(4,-2\right)$, $\left(-1,0\right)$. $\blacksquare$
 
 ### Exercise 4
 
-(Exercise 15.2, Problem 2) As shown, $\triangle ABO$ is symmetric about the $x$-axis, and the coordinates of point $A$ are $(1,-2)$; write the coordinates of point $B$.
+(Exercise 15.2, Problem 2) As shown, $\triangle ABO$ is symmetric about the $x$-axis, and the coordinates of point $A$ are $\left(1,-2\right)$; write the coordinates of point $B$.
 
 ### Solution to Exercise 4
 
-Since $\triangle ABO$ is symmetric about the $x$-axis, the origin $O$ lies on the $x$-axis, and point $A$ and point $B$ are a pair of symmetric points about the $x$-axis. By **Conclusion 15.2.2** (Axis Symmetry in Coordinates), the point symmetric to $A(1,-2)$ about the $x$-axis is $B(1,2)$. $\blacksquare$
+Since $\triangle ABO$ is symmetric about the $x$-axis, the origin $O$ lies on the $x$-axis, and point $A$ and point $B$ are a pair of symmetric points about the $x$-axis. By **Conclusion 15.2.2** (Axis Symmetry in Coordinates), the point symmetric to $A\left(1,-2\right)$ about the $x$-axis is $B\left(1,2\right)$. $\blacksquare$
 
 ### Exercise 5
 
@@ -52,7 +52,7 @@ Since $\triangle ABO$ is symmetric about the $x$-axis, the origin $O$ lies on th
 
 ### Solution to Exercise 5
 
-By **Conclusion 15.2.2** (Axis Symmetry in Coordinates), obtain the symmetric points of the three vertices of $\triangle ABC$ respectively by $(x,y)\to(x,-y)$ and $(x,y)\to(-x,y)$, plot them and join them in order, and the triangles symmetric about the $x$-axis and the $y$-axis are obtained. $\blacksquare$
+By **Conclusion 15.2.2** (Axis Symmetry in Coordinates), obtain the symmetric points of the three vertices of $\triangle ABC$ respectively by $\left(x,y\right)\to\left(x,-y\right)$ and $\left(x,y\right)\to\left(-x,y\right)$, plot them and join them in order, and the triangles symmetric about the $x$-axis and the $y$-axis are obtained. $\blacksquare$
 
 ### Problem 1
 
@@ -76,11 +76,11 @@ Find the symmetric positions of the already drawn part about the dashed line, ad
 
 ### Problem 3
 
-(Exercise 15.2, Review and Consolidation, Problem 3) As shown, set up a rectangular coordinate system with the center of square $ABCD$ as the origin. The coordinates of point $A$ are $(1,1)$; write the coordinates of points $B$, $C$, $D$.
+(Exercise 15.2, Review and Consolidation, Problem 3) As shown, set up a rectangular coordinate system with the center of square $ABCD$ as the origin. The coordinates of point $A$ are $\left(1,1\right)$; write the coordinates of points $B$, $C$, $D$.
 
 ### Solution to Problem 3
 
-The square is symmetric about both coordinate axes, and adjacent vertices are respectively symmetric about the $x$-axis and the $y$-axis. By **Conclusion 15.2.2** (Axis Symmetry in Coordinates), from $A(1,1)$ we get $B(1,-1)$, $C(-1,-1)$, $D(-1,1)$. $\blacksquare$
+The square is symmetric about both coordinate axes, and adjacent vertices are respectively symmetric about the $x$-axis and the $y$-axis. By **Conclusion 15.2.2** (Axis Symmetry in Coordinates), from $A\left(1,1\right)$ we get $B\left(1,-1\right)$, $C\left(-1,-1\right)$, $D\left(-1,1\right)$. $\blacksquare$
 
 ### Problem 4
 
@@ -88,19 +88,19 @@ The square is symmetric about both coordinate axes, and adjacent vertices are re
 
 ### Solution to Problem 4
 
-By **Conclusion 15.2.2** (Axis Symmetry in Coordinates), respectively obtain the symmetric points of the three vertices about the $x$-axis $(x,-y)$ and about the $y$-axis $(-x,y)$; plot them and join them to obtain the figures. $\blacksquare$
+By **Conclusion 15.2.2** (Axis Symmetry in Coordinates), respectively obtain the symmetric points of the three vertices about the $x$-axis $\left(x,-y\right)$ and about the $y$-axis $\left(-x,y\right)$; plot them and join them to obtain the figures. $\blacksquare$
 
 ### Problem 5
 
 (Exercise 15.2, Comprehensive Application, Problem 5) Based on the changes in the coordinates of the following points, determine what transformation they underwent.
 
-(1) $(-1,3)\to(-1,-3)$;
+(1) $\left(-1,3\right)\to\left(-1,-3\right)$;
 
-(2) $(-5,-6)\to(-5,-1)$;
+(2) $\left(-5,-6\right)\to\left(-5,-1\right)$;
 
-(3) $(3,4)\to(-3,4)$;
+(3) $\left(3,4\right)\to\left(-3,4\right)$;
 
-(4) $(-2,3)\to(2,-3)$.
+(4) $\left(-2,3\right)\to\left(2,-3\right)$.
 
 ### Solution to Problem 5
 
@@ -114,11 +114,11 @@ By **Conclusion 15.2.2** (Axis Symmetry in Coordinates), respectively obtain the
 
 ### Problem 6
 
-(Exercise 15.2, Comprehensive Application, Problem 6) As shown, a ball starts at $(3,0)$ and is struck in the indicated direction; describe its trajectory, find several points on the trajectory symmetric about line $l$; if it starts at $(1,0)$ and is still struck in the original direction, draw the trajectory.
+(Exercise 15.2, Comprehensive Application, Problem 6) As shown, a ball starts at $\left(3,0\right)$ and is struck in the indicated direction; describe its trajectory, find several points on the trajectory symmetric about line $l$; if it starts at $\left(1,0\right)$ and is still struck in the original direction, draw the trajectory.
 
 ### Solution to Problem 6
 
-The ball's bounces off the table edges can be regarded as axis symmetry about the table edge; each time it hits a table edge, the incoming and outgoing paths are symmetric about that edge. Thus write out the coordinates of each turning point on the trajectory segment by segment, and, following the same axis-symmetry rule, draw the new trajectory when starting at $(1,0)$. $\blacksquare$
+The ball's bounces off the table edges can be regarded as axis symmetry about the table edge; each time it hits a table edge, the incoming and outgoing paths are symmetric about that edge. Thus write out the coordinates of each turning point on the trajectory segment by segment, and, following the same axis-symmetry rule, draw the new trajectory when starting at $\left(1,0\right)$. $\blacksquare$
 
 ### Problem 7
 
@@ -136,6 +136,6 @@ The four points being axisymmetric means there exists a line making the four poi
 
 ### Solution to Problem 8
 
-About the line $x=1$: the axis of symmetry is a vertical line; the ordinate of the symmetric point is unchanged, and the distances of the abscissa from $1$ are equal, i.e. $(x,y)\to(2-x,y)$.
+About the line $x=1$: the axis of symmetry is a vertical line; the ordinate of the symmetric point is unchanged, and the distances of the abscissa from $1$ are equal, i.e. $\left(x,y\right)\to\left(2-x,y\right)$.
 
-About the line $y=-1$: the abscissa of the symmetric point is unchanged, and the distances of the ordinate from $-1$ are equal, i.e. $(x,y)\to(x,-2-y)$. Write out the symmetric coordinates of the three vertices accordingly, plot them and join them to obtain the desired figures. $\blacksquare$
+About the line $y=-1$: the abscissa of the symmetric point is unchanged, and the distances of the ordinate from $-1$ are equal, i.e. $\left(x,y\right)\to\left(x,-2-y\right)$. Write out the symmetric coordinates of the three vertices accordingly, plot them and join them to obtain the desired figures. $\blacksquare$

@@ -93,7 +93,7 @@
 于是
 
 $$
-x^{2}+5x-6=(6-2\sqrt{5})+5(\sqrt{5}-1)-6=6-2\sqrt{5}+5\sqrt{5}-5-6=3\sqrt{5}-5.
+x^{2}+5x-6=\left(6-2\sqrt{5}\right)+5\left(\sqrt{5}-1\right)-6=6-2\sqrt{5}+5\sqrt{5}-5-6=3\sqrt{5}-5.
 $$
 
 \(\blacksquare\)
@@ -109,7 +109,7 @@ $$
 于是
 
 $$
-(7+4\sqrt{3})x^{2}=(2+\sqrt{3})^{2}(2-\sqrt{3})^{2}=[(2+\sqrt{3})(2-\sqrt{3})]^{2}=1.
+\left(7+4\sqrt{3}\right)x^{2}=\left(2+\sqrt{3}\right)^{2}\left(2-\sqrt{3}\right)^{2}=\left[\left(2+\sqrt{3}\right)\left(2-\sqrt{3}\right)\right]^{2}=1.
 $$
 
 而 \((2+\sqrt{3})x=(2+\sqrt{3})(2-\sqrt{3})=1\)。
@@ -219,7 +219,7 @@ $$
 证明：左边被开方数
 
 $$
-n+\frac{n}{n^{2}-1}=\frac{n(n^{2}-1)+n}{n^{2}-1}=\frac{n^{3}}{n^{2}-1}=n^{2}\cdot\frac{n}{n^{2}-1}.
+n+\frac{n}{n^{2}-1}=\frac{n\left(n^{2}-1\right)+n}{n^{2}-1}=\frac{n^{3}}{n^{2}-1}=n^{2}\cdot\frac{n}{n^{2}-1}.
 $$
 
 由**法则 19.2.2**，开方得 \(n\sqrt{\frac{n}{n^{2}-1}}\)，等于右边。

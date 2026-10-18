@@ -32,7 +32,7 @@ By **Definition 5.2.1** (Combining Like Terms) and **Definition 5.2.2** (Transpo
 
 ### Exercise 2
 
-(Exercise 5.2, Problem 2) Solve the equation: $16y-2.5y-7.5y=5-(-6y)$.
+(Exercise 5.2, Problem 2) Solve the equation: $16y-2.5y-7.5y=5-\left(-6y\right)$.
 
 ### Solution to Exercise 2
 
@@ -88,11 +88,11 @@ The total number of trees is unchanged: $10x-6=8x+2$. Transpose: $10x-8x=2+6$, c
 
 (Exercise 5.2, Problem 3) Solve the following equations:
 
-(1) $4x-3(20-2x)=10$;
+(1) $4x-3\left(20-2x\right)=10$;
 
-(2) $3(2x+5)=2(4x+3)-3$;
+(2) $3\left(2x+5\right)=2\left(4x+3\right)-3$;
 
-(3) $4y-3(20-y)=6y-7(9-y)$.
+(3) $4y-3\left(20-y\right)=6y-7\left(9-y\right)$.
 
 ### Solution to Exercise 6
 
@@ -118,11 +118,11 @@ By **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Vari
 
 By **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Variable), first clear the denominators.
 
-(1) Multiply both sides by $4$: $2(x+1)-4=8+(2-x)$. Remove parentheses: $2x+2-4=8+2-x$. Combine: $2x-2=10-x$. Transpose: $3x=12$, giving $x=4$.
+(1) Multiply both sides by $4$: $2\left(x+1\right)-4=8+\left(2-x\right)$. Remove parentheses: $2x+2-4=8+2-x$. Combine: $2x-2=10-x$. Transpose: $3x=12$, giving $x=4$.
 
-(2) Multiply both sides by $6$: $18x+3(x-1)=18-2(2x-1)$. Remove parentheses: $18x+3x-3=18-4x+2$. Combine: $21x-3=20-4x$. Transpose: $25x=23$, giving $x=\frac{23}{25}$.
+(2) Multiply both sides by $6$: $18x+3\left(x-1\right)=18-2\left(2x-1\right)$. Remove parentheses: $18x+3x-3=18-4x+2$. Combine: $21x-3=20-4x$. Transpose: $25x=23$, giving $x=\frac{23}{25}$.
 
-(3) Multiply both sides by $12$: $4(2x-1)-2(10x+1)=3(2x+1)-12$. Remove parentheses: $8x-4-20x-2=6x+3-12$. Combine: $-12x-6=6x-9$. Transpose: $-18x=-3$, giving $x=\frac{1}{6}$. $\blacksquare$
+(3) Multiply both sides by $12$: $4\left(2x-1\right)-2\left(10x+1\right)=3\left(2x+1\right)-12$. Remove parentheses: $8x-4-20x-2=6x+3-12$. Combine: $-12x-6=6x-9$. Transpose: $-18x=-3$, giving $x=\frac{1}{6}$. $\blacksquare$
 
 ### Exercise 8
 
@@ -142,7 +142,7 @@ First remove the square brackets: $\frac{3}{2}\cdot\frac{2}{3}\left(\frac{x}{4}-
 
 By **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Variable), let the train be $x\ \text{m}$ long.
 
-The distance the train travels to pass through a tunnel is the tunnel length plus the train length. The speed is the same: $\frac{300+x}{20}=\frac{500+x}{30}$. Multiply both sides by $60$: $3(300+x)=2(500+x)$. Remove parentheses: $900+3x=1000+2x$. Transpose: $x=100$. The speed $=\frac{300+100}{20}=20\ \text{m/s}$. Hence the train is $100\ \text{m}$ long and its speed is $20\ \text{m/s}$. $\blacksquare$
+The distance the train travels to pass through a tunnel is the tunnel length plus the train length. The speed is the same: $\frac{300+x}{20}=\frac{500+x}{30}$. Multiply both sides by $60$: $3\left(300+x\right)=2\left(500+x\right)$. Remove parentheses: $900+3x=1000+2x$. Transpose: $x=100$. The speed $=\frac{300+100}{20}=20\ \text{m/s}$. Hence the train is $100\ \text{m}$ long and its speed is $20\ \text{m/s}$. $\blacksquare$
 
 ### Problem 1
 
@@ -160,7 +160,7 @@ The distance the train travels to pass through a tunnel is the tunnel length plu
 
 (6) $3x-5=5x-2x+1$;
 
-(7) $2(x+8)=3(x-1)$.
+(7) $2\left(x+8\right)=3\left(x-1\right)$.
 
 ### Solution to Problem 1
 
@@ -184,13 +184,13 @@ By **Definition 5.2.2** (Transposing Terms) and **Definition 5.2.3** (General St
 
 (Problem 5.2, Review and Consolidation, Problem 2) Solve the following equations:
 
-(1) $3x-2=1-2(x+1)$;
+(1) $3x-2=1-2\left(x+1\right)$;
 
-(2) $2(x-2)-3(4x-1)=9(1-x)$;
+(2) $2\left(x-2\right)-3\left(4x-1\right)=9\left(1-x\right)$;
 
-(3) $2x+3(2x-1)=16-(x+1)$;
+(3) $2x+3\left(2x-1\right)=16-\left(x+1\right)$;
 
-(4) $3x-2\left[3(x-1)-2(x+2)\right]=3(5x-2)$.
+(4) $3x-2\left[3\left(x-1\right)-2\left(x+2\right)\right]=3\left(5x-2\right)$.
 
 ### Solution to Problem 2
 
@@ -202,7 +202,7 @@ By **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Vari
 
 (3) Remove parentheses: $2x+6x-3=16-x-1$. Combine: $8x-3=15-x$. Transpose: $9x=18$, giving $x=2$.
 
-(4) Remove what is inside the square brackets: $3(x-1)-2(x+2)=3x-3-2x-4=x-7$. The original expression: $3x-2(x-7)=15x-4$. Remove parentheses: $3x-2x+14=15x-4$. Combine: $x+14=15x-4$. Transpose: $18=14x$, giving $x=\frac{9}{7}$. $\blacksquare$
+(4) Remove what is inside the square brackets: $3\left(x-1\right)-2\left(x+2\right)=3x-3-2x-4=x-7$. The original expression: $3x-2\left(x-7\right)=15x-4$. Remove parentheses: $3x-2x+14=15x-4$. Combine: $x+14=15x-4$. Transpose: $18=14x$, giving $x=\frac{9}{7}$. $\blacksquare$
 
 ### Problem 3
 
@@ -220,13 +220,13 @@ By **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Vari
 
 By **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Variable), first clear the denominators.
 
-(1) Multiply both sides by $6$: $3(x-2)=2(4x+1)$. Remove parentheses: $3x-6=8x+2$. Transpose: $-8=5x$, giving $x=-\frac{8}{5}$.
+(1) Multiply both sides by $6$: $3\left(x-2\right)=2\left(4x+1\right)$. Remove parentheses: $3x-6=8x+2$. Transpose: $-8=5x$, giving $x=-\frac{8}{5}$.
 
-(2) Multiply both sides by $12$: $4(2x-1)=3(3x-5)$. Remove parentheses: $8x-4=9x-15$. Transpose: $11=x$, giving $x=11$.
+(2) Multiply both sides by $12$: $4\left(2x-1\right)=3\left(3x-5\right)$. Remove parentheses: $8x-4=9x-15$. Transpose: $11=x$, giving $x=11$.
 
-(3) Multiply both sides by $6$: $3x-(5x+11)=6+2(2x-4)$. Remove parentheses: $3x-5x-11=6+4x-8$. Combine: $-2x-11=4x-2$. Transpose: $-9=6x$, giving $x=-\frac{3}{2}$.
+(3) Multiply both sides by $6$: $3x-\left(5x+11\right)=6+2\left(2x-4\right)$. Remove parentheses: $3x-5x-11=6+4x-8$. Combine: $-2x-11=4x-2$. Transpose: $-9=6x$, giving $x=-\frac{3}{2}$.
 
-(4) Simplify: $\frac{0.1x-0.2}{0.02}=5x-10$, $\frac{x+1}{0.5}=2x+2$. The original expression: $5x-10-(2x+2)=3$. Combine: $3x-12=3$. Transpose: $3x=15$, giving $x=5$. $\blacksquare$
+(4) Simplify: $\frac{0.1x-0.2}{0.02}=5x-10$, $\frac{x+1}{0.5}=2x+2$. The original expression: $5x-10-\left(2x+2\right)=3$. Combine: $3x-12=3$. Transpose: $3x=15$, giving $x=5$. $\blacksquare$
 
 ### Problem 4
 
@@ -242,7 +242,7 @@ By **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Vari
 
 (1) Set $2x+3=-5x+6$. Transpose: $2x+5x=6-3$, combine: $7x=3$, giving $x=\frac{3}{7}$.
 
-(2) Set $(2x+3)+(-5x+6)=0$. Combine: $-3x+9=0$. Transpose: $-3x=-9$, giving $x=3$. $\blacksquare$
+(2) Set $\left(2x+3\right)+\left(-5x+6\right)=0$. Combine: $-3x+9=0$. Transpose: $-3x=-9$, giving $x=3$. $\blacksquare$
 
 ### Problem 5
 
@@ -282,7 +282,7 @@ Transpose: $x-3x=7+3-2a$, combine: $-2x=10-2a$, giving $x=a-5$. The solution is 
 
 (1) $\frac{3}{4}\left[\frac{4}{3}\left(\frac{1}{2}x-\frac{1}{4}\right)-8\right]=\frac{3}{2}x$;
 
-(2) $\frac{1}{2}\left[x-\frac{1}{2}(x-1)\right]=\frac{2}{3}(x-1)$;
+(2) $\frac{1}{2}\left[x-\frac{1}{2}\left(x-1\right)\right]=\frac{2}{3}\left(x-1\right)$;
 
 (3) $\frac{0.4y+0.9}{0.5}-\frac{0.3y-0.2}{0.2}=1$.
 
@@ -294,7 +294,7 @@ By **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Vari
 
 (2) Simplify the left side: $\frac{1}{2}\left[x-\frac{1}{2}x+\frac{1}{2}\right]=\frac{1}{2}\left[\frac{1}{2}x+\frac{1}{2}\right]=\frac{1}{4}x+\frac{1}{4}$. The right side $=\frac{2}{3}x-\frac{2}{3}$. Transpose: $\frac{1}{4}+\frac{2}{3}=\frac{2}{3}x-\frac{1}{4}x$. Combine: $\frac{11}{12}=\frac{5}{12}x$, giving $x=\frac{11}{5}$.
 
-(3) Simplify: $\frac{0.4y+0.9}{0.5}=0.8y+1.8$, $\frac{0.3y-0.2}{0.2}=1.5y-1$. The original expression: $0.8y+1.8-(1.5y-1)=1$. Combine: $-0.7y+2.8=1$. Transpose: $-0.7y=-1.8$, giving $y=\frac{18}{7}$. $\blacksquare$
+(3) Simplify: $\frac{0.4y+0.9}{0.5}=0.8y+1.8$, $\frac{0.3y-0.2}{0.2}=1.5y-1$. The original expression: $0.8y+1.8-\left(1.5y-1\right)=1$. Combine: $-0.7y+2.8=1$. Transpose: $-0.7y=-1.8$, giving $y=\frac{18}{7}$. $\blacksquare$
 
 ### Problem 9
 
@@ -304,11 +304,11 @@ By **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Vari
 
 By **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Variable), let $x$ workers be assigned to produce studs.
 
-There are $(22-x)$ workers producing nuts. Each day they produce $1200x$ studs and $20000(22-x)$ nuts. The matching relation: number of nuts $=2\times$ number of studs.
+There are $\left(22-x\right)$ workers producing nuts. Each day they produce $1200x$ studs and $20000\left(22-x\right)$ nuts. The matching relation: number of nuts $=2\times$ number of studs.
 
-$$20000(22-x)=2\times1200x.$$
+$$20000\left(22-x\right)=2\times1200x.$$
 
-Simplifying: $20000(22-x)=2400x$, $440000-20000x=2400x$, $440000=22400x$, giving $x=\frac{440000}{22400}=\frac{275}{14}\approx19.6$. Taking an integer assignment: about $20$ workers produce studs and $2$ produce nuts. $\blacksquare$
+Simplifying: $20000\left(22-x\right)=2400x$, $440000-20000x=2400x$, $440000=22400x$, giving $x=\frac{440000}{22400}=\frac{275}{14}\approx19.6$. Taking an integer assignment: about $20$ workers produce studs and $2$ produce nuts. $\blacksquare$
 
 ### Problem 10
 
@@ -318,11 +318,11 @@ Simplifying: $20000(22-x)=2400x$, $440000-20000x=2400x$, $440000=22400x$, giving
 
 By **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Variable), let $x$ people be assigned to work first.
 
-Each person's hourly rate is $\frac{1}{40}$. The first $4\ \text{h}$ complete $\frac{4x}{40}$, and the next $8\ \text{h}$ complete $\frac{8(x+2)}{40}$. The total work is $1$:
+Each person's hourly rate is $\frac{1}{40}$. The first $4\ \text{h}$ complete $\frac{4x}{40}$, and the next $8\ \text{h}$ complete $\frac{8\left(x+2\right)}{40}$. The total work is $1$:
 
-$$\frac{4x}{40}+\frac{8(x+2)}{40}=1.$$
+$$\frac{4x}{40}+\frac{8\left(x+2\right)}{40}=1.$$
 
-i.e. $4x+8(x+2)=40$, $4x+8x+16=40$, $12x=24$, giving $x=2$. Hence $2$ people should be assigned to work first. $\blacksquare$
+i.e. $4x+8\left(x+2\right)=40$, $4x+8x+16=40$, $12x=24$, giving $x=2$. Hence $2$ people should be assigned to work first. $\blacksquare$
 
 ### Problem 11
 
@@ -332,7 +332,7 @@ i.e. $4x+8(x+2)=40$, $4x+8x+16=40$, $12x=24$, giving $x=2$. Hence $2$ people sho
 
 By **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Variable).
 
-Set $\frac{2x-1}{3}=\frac{x+2}{2}$. Multiply both sides by $6$: $2(2x-1)=3(x+2)$. Remove parentheses: $4x-2=3x+6$. Transpose: $x=8$. Hence when $x=8$ the two expressions have equal values. $\blacksquare$
+Set $\frac{2x-1}{3}=\frac{x+2}{2}$. Multiply both sides by $6$: $2\left(2x-1\right)=3\left(x+2\right)$. Remove parentheses: $4x-2=3x+6$. Transpose: $x=8$. Hence when $x=8$ the two expressions have equal values. $\blacksquare$
 
 ### Problem 12
 
@@ -342,7 +342,7 @@ Set $\frac{2x-1}{3}=\frac{x+2}{2}$. Multiply both sides by $6$: $2(2x-1)=3(x+2)$
 
 By **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Variable).
 
-Set $\frac{3x-1}{4}+\frac{5x+7}{6}=0$. Multiply both sides by $12$: $3(3x-1)+2(5x+7)=0$. Remove parentheses: $9x-3+10x+14=0$. Combine: $19x+11=0$, giving $x=-\frac{11}{19}$. $\blacksquare$
+Set $\frac{3x-1}{4}+\frac{5x+7}{6}=0$. Multiply both sides by $12$: $3\left(3x-1\right)+2\left(5x+7\right)=0$. Remove parentheses: $9x-3+10x+14=0$. Combine: $19x+11=0$, giving $x=-\frac{11}{19}$. $\blacksquare$
 
 ### Problem 13
 
@@ -352,7 +352,7 @@ Set $\frac{3x-1}{4}+\frac{5x+7}{6}=0$. Multiply both sides by $12$: $3(3x-1)+2(5
 
 By **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Variable), let the boat's speed in still water be $v\ \text{km/h}$.
 
-The downstream speed is $v+3$, and the upstream speed is $v-3$. The distance between the two docks is unchanged: $2(v+3)=2.5(v-3)$. Remove parentheses: $2v+6=2.5v-7.5$. Transpose: $13.5=0.5v$, giving $v=27$. Hence the boat's average speed in still water is $27\ \text{km/h}$. $\blacksquare$
+The downstream speed is $v+3$, and the upstream speed is $v-3$. The distance between the two docks is unchanged: $2\left(v+3\right)=2.5\left(v-3\right)$. Remove parentheses: $2v+6=2.5v-7.5$. Transpose: $13.5=0.5v$, giving $v=27$. Hence the boat's average speed in still water is $27\ \text{km/h}$. $\blacksquare$
 
 ### Problem 14
 
@@ -362,9 +362,9 @@ The downstream speed is $v+3$, and the upstream speed is $v-3$. The distance bet
 
 By **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Variable), let $x$ be the number of $45$-seat buses originally planned.
 
-The number of students: $45x+15$. Renting $(x-1)$ $60$-seat buses, exactly full: $60(x-1)$.
+The number of students: $45x+15$. Renting $\left(x-1\right)$ $60$-seat buses, exactly full: $60\left(x-1\right)$.
 
-$$45x+15=60(x-1).$$
+$$45x+15=60\left(x-1\right).$$
 
 Remove parentheses: $45x+15=60x-60$. Transpose: $75=15x$, giving $x=5$. The number of students $=45\times5+15=240$. Hence there are $240$ students, and $5$ $45$-seat buses were originally planned. $\blacksquare$
 
@@ -404,7 +404,7 @@ Transpose: $0.8x=84$, giving $x=105$. Hence the marked price is $105$ yuan. $\bl
 
 By **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Variable), let the train be $x\ \text{m}$ long.
 
-The distance through the tunnel is $(300+x)\ \text{m}$, and the speed is $\frac{300+x}{20}$. When the light illuminates the train, the train travels a distance equal to its own length $x$, and the speed is $\frac{x}{10}$. The train travels at uniform speed:
+The distance through the tunnel is $\left(300+x\right)\ \text{m}$, and the speed is $\frac{300+x}{20}$. When the light illuminates the train, the train travels a distance equal to its own length $x$, and the speed is $\frac{x}{10}$. The train travels at uniform speed:
 
 $$\frac{300+x}{20}=\frac{x}{10}.$$
 

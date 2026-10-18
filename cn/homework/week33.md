@@ -109,10 +109,10 @@ $$
 由平移不改变面积, 青草覆盖面积等于拼合后长方形的面积:
 
 $$
-S=(a-1)b=ab-b\quad(\text{m}^2).
+S=\left(a-1\right)b=ab-b\quad\left(\text{m}^2\right).
 $$
 
-故这块草地青草覆盖的面积为 $(ab-b)\,\text{m}^2$. $\blacksquare$
+故这块草地青草覆盖的面积为 $\left(ab-b\right)\,\text{m}^2$. $\blacksquare$
 
 ### 探究与发现一
 

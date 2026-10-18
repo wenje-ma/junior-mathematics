@@ -24,9 +24,9 @@ By **Definition 18.3.1** (Addition and Subtraction of Fractions with the Same De
 
 (2) $\frac{m}{m-n}-\frac{n}{m-n}=\frac{m-n}{m-n}=1$.
 
-(3) $\frac{x^2}{x+y}+\frac{y^2+2xy}{x+y}=\frac{x^2+2xy+y^2}{x+y}=\frac{(x+y)^2}{x+y}=x+y$.
+(3) $\frac{x^2}{x+y}+\frac{y^2+2xy}{x+y}=\frac{x^2+2xy+y^2}{x+y}=\frac{\left(x+y\right)^2}{x+y}=x+y$.
 
-(4) $\frac{a^2}{a-1}-a-1=\frac{a^2-(a+1)(a-1)}{a-1}=\frac{a^2-(a^2-1)}{a-1}=\frac{1}{a-1}$. $\blacksquare$
+(4) $\frac{a^2}{a-1}-a-1=\frac{a^2-\left(a+1\right)\left(a-1\right)}{a-1}=\frac{a^2-\left(a^2-1\right)}{a-1}=\frac{1}{a-1}$. $\blacksquare$
 
 ### Exercise 2
 
@@ -46,11 +46,11 @@ By **Definition 18.3.2** (Addition and Subtraction of Fractions with Different D
 
 (1) Common denominator $6c^2 d^2$: $\frac{1}{2c^2 d}+\frac{1}{3cd^2}=\frac{3d+2c}{6c^2 d^2}$.
 
-(2) Common denominator $(p-q)(p+q)$: $\frac{(p+q)+(p-q)}{(p-q)(p+q)}=\frac{2p}{p^2-q^2}$.
+(2) Common denominator $\left(p-q\right)\left(p+q\right)$: $\frac{\left(p+q\right)+\left(p-q\right)}{\left(p-q\right)\left(p+q\right)}=\frac{2p}{p^2-q^2}$.
 
-(3) Common denominator $(a+2)(a-2)$: $\frac{a}{(a+2)(a-2)}-\frac{a-2}{(a+2)(a-2)}=\frac{a-(a-2)}{(a+2)(a-2)}=\frac{2}{a^2-4}$.
+(3) Common denominator $\left(a+2\right)\left(a-2\right)$: $\frac{a}{\left(a+2\right)\left(a-2\right)}-\frac{a-2}{\left(a+2\right)\left(a-2\right)}=\frac{a-\left(a-2\right)}{\left(a+2\right)\left(a-2\right)}=\frac{2}{a^2-4}$.
 
-(4) $\frac{a}{a-b}+\frac{b^2}{a(b-a)}=\frac{a}{a-b}-\frac{b^2}{a(a-b)}=\frac{a^2-b^2}{a(a-b)}=\frac{a+b}{a}$. $\blacksquare$
+(4) $\frac{a}{a-b}+\frac{b^2}{a\left(b-a\right)}=\frac{a}{a-b}-\frac{b^2}{a\left(a-b\right)}=\frac{a^2-b^2}{a\left(a-b\right)}=\frac{a+b}{a}$. $\blacksquare$
 
 ### Exercise 3
 
@@ -64,7 +64,7 @@ By **Definition 18.3.2** (Addition and Subtraction of Fractions with Different D
 
 (1) $1+\frac{1}{a}=\frac{a+1}{a}$.
 
-(2) $1-\frac{1}{a+1}=\frac{(a+1)-1}{a+1}=\frac{a}{a+1}$. $\blacksquare$
+(2) $1-\frac{1}{a+1}=\frac{\left(a+1\right)-1}{a+1}=\frac{a}{a+1}$. $\blacksquare$
 
 ### Problem 1
 
@@ -88,7 +88,7 @@ By **Definition 18.3.1**.
 
 (3) $\frac{a+1-a}{a-1}=\frac{1}{a-1}$.
 
-(4) $\frac{x^2-4x+4}{x-2}=\frac{(x-2)^2}{x-2}=x-2$. $\blacksquare$
+(4) $\frac{x^2-4x+4}{x-2}=\frac{\left(x-2\right)^2}{x-2}=x-2$. $\blacksquare$
 
 ### Problem 2
 
@@ -106,13 +106,13 @@ By **Definition 18.3.1**.
 
 By **Definition 18.3.2**.
 
-(1) $\frac{(x+1)-x}{x(x+1)}=\frac{1}{x(x+1)}$.
+(1) $\frac{\left(x+1\right)-x}{x\left(x+1\right)}=\frac{1}{x\left(x+1\right)}$.
 
-(2) $\frac{(a-2)-(a+2)}{(a+2)(a-2)}=\frac{-4}{a^2-4}=-\frac{4}{a^2-4}$.
+(2) $\frac{\left(a-2\right)-\left(a+2\right)}{\left(a+2\right)\left(a-2\right)}=\frac{-4}{a^2-4}=-\frac{4}{a^2-4}$.
 
-(3) $\frac{(x-y)+(x+y)}{(x+y)(x-y)}=\frac{2x}{x^2-y^2}$.
+(3) $\frac{\left(x-y\right)+\left(x+y\right)}{\left(x+y\right)\left(x-y\right)}=\frac{2x}{x^2-y^2}$.
 
-(4) $\frac{x}{x+1}-\frac{2}{(x+1)(x-1)}=\frac{x(x-1)-2}{(x+1)(x-1)}=\frac{x^2-x-2}{(x+1)(x-1)}=\frac{(x-2)(x+1)}{(x+1)(x-1)}=\frac{x-2}{x-1}$. $\blacksquare$
+(4) $\frac{x}{x+1}-\frac{2}{\left(x+1\right)\left(x-1\right)}=\frac{x\left(x-1\right)-2}{\left(x+1\right)\left(x-1\right)}=\frac{x^2-x-2}{\left(x+1\right)\left(x-1\right)}=\frac{\left(x-2\right)\left(x+1\right)}{\left(x+1\right)\left(x-1\right)}=\frac{x-2}{x-1}$. $\blacksquare$
 
 ### Problem 3
 
@@ -128,11 +128,11 @@ By **Definition 18.3.2**.
 
 ### Solution to Problem 3
 
-(1) $\frac{2a}{(a+2)(a-2)}-\frac{a+2}{(a+2)(a-2)}=\frac{a-2}{(a+2)(a-2)}=\frac{1}{a+2}$.
+(1) $\frac{2a}{\left(a+2\right)\left(a-2\right)}-\frac{a+2}{\left(a+2\right)\left(a-2\right)}=\frac{a-2}{\left(a+2\right)\left(a-2\right)}=\frac{1}{a+2}$.
 
-(2) $\frac{y}{x+y}+\frac{xy}{(y-x)(y+x)}=\frac{y(y-x)+xy}{(x+y)(y-x)}=\frac{y^2}{(x+y)(y-x)}=\frac{y^2}{y^2-x^2}$.
+(2) $\frac{y}{x+y}+\frac{xy}{\left(y-x\right)\left(y+x\right)}=\frac{y\left(y-x\right)+xy}{\left(x+y\right)\left(y-x\right)}=\frac{y^2}{\left(x+y\right)\left(y-x\right)}=\frac{y^2}{y^2-x^2}$.
 
-(3) $\frac{1}{x+1}-1-\frac{1}{x-1}=\frac{(x-1)-(x+1)(x-1)-(x+1)}{(x+1)(x-1)}=\frac{x-1-x^2+1-x-1}{x^2-1}=\frac{-x^2-x-1}{x^2-1}$.
+(3) $\frac{1}{x+1}-1-\frac{1}{x-1}=\frac{\left(x-1\right)-\left(x+1\right)\left(x-1\right)-\left(x+1\right)}{\left(x+1\right)\left(x-1\right)}=\frac{x-1-x^2+1-x-1}{x^2-1}=\frac{-x^2-x-1}{x^2-1}$.
 
 (4) $\frac{2y}{x-y}+\frac{2x}{x-y}=\frac{2x+2y}{x-y}$. $\blacksquare$
 
@@ -146,19 +146,19 @@ By **Definition 18.3.2**.
 
 ### Solution to Problem 4
 
-(1) $\frac{a(a+2)-a(a-2)}{(a-2)(a+2)}\cdot\frac{a-2}{a}=\frac{4a}{(a-2)(a+2)}\cdot\frac{a-2}{a}=\frac{4}{a+2}$.
+(1) $\frac{a\left(a+2\right)-a\left(a-2\right)}{\left(a-2\right)\left(a+2\right)}\cdot\frac{a-2}{a}=\frac{4a}{\left(a-2\right)\left(a+2\right)}\cdot\frac{a-2}{a}=\frac{4}{a+2}$.
 
-(2) $\frac{3a(a+3)-a(a-3)}{(a-3)(a+3)}\cdot\frac{(a-3)(a+3)}{a}=\frac{3a^2+9a-a^2+3a}{a}=\frac{2a^2+12a}{a}=2a+12$. $\blacksquare$
+(2) $\frac{3a\left(a+3\right)-a\left(a-3\right)}{\left(a-3\right)\left(a+3\right)}\cdot\frac{\left(a-3\right)\left(a+3\right)}{a}=\frac{3a^2+9a-a^2+3a}{a}=\frac{2a^2+12a}{a}=2a+12$. $\blacksquare$
 
 ### Problem 5
 
 (Exercise 18.3, Comprehensive Application, Problem 5) First simplify, then evaluate:
 
-(1) $\left(\frac{x^2-y^2}{xy}\right)^2\div(x+y)^2\cdot\left(\frac{x}{x-y}\right)^3$, where $x=2$, $y=1$.
+(1) $\left(\frac{x^2-y^2}{xy}\right)^2\div\left(x+y\right)^2\cdot\left(\frac{x}{x-y}\right)^3$, where $x=2$, $y=1$.
 
 ### Solution to Problem 5
 
-$$\frac{(x^2-y^2)^2}{x^2 y^2}\cdot\frac{1}{(x+y)^2}\cdot\frac{x^3}{(x-y)^3}=\frac{(x+y)^2(x-y)^2}{x^2 y^2}\cdot\frac{1}{(x+y)^2}\cdot\frac{x^3}{(x-y)^3}=\frac{x}{y^2(x-y)}.$$
+$$\frac{\left(x^2-y^2\right)^2}{x^2 y^2}\cdot\frac{1}{\left(x+y\right)^2}\cdot\frac{x^3}{\left(x-y\right)^3}=\frac{\left(x+y\right)^2\left(x-y\right)^2}{x^2 y^2}\cdot\frac{1}{\left(x+y\right)^2}\cdot\frac{x^3}{\left(x-y\right)^3}=\frac{x}{y^2\left(x-y\right)}.$$
 
 Substituting $x=2,y=1$, we get $\frac{2}{1\cdot1}=2$. $\blacksquare$
 
@@ -168,7 +168,7 @@ Substituting $x=2,y=1$, we get $\frac{2}{1\cdot1}=2$. $\blacksquare$
 
 ### Solution to Problem 6
 
-Using the telescoping decomposition $\frac{1}{n(n+1)}=\frac1n-\frac{1}{n+1}$:
+Using the telescoping decomposition $\frac{1}{n\left(n+1\right)}=\frac1n-\frac{1}{n+1}$:
 
 $$\left(1-\frac12\right)+\left(\frac12-\frac13\right)+\cdots+\left(\frac{1}{99}-\frac{1}{100}\right)=1-\frac{1}{100}=\frac{99}{100}.$$
 
@@ -176,13 +176,13 @@ $\blacksquare$
 
 ### Problem 7
 
-(Exercise 18.3, Extension and Exploration, Problem 7) Calculate: $\frac{1}{x(x+1)}+\frac{1}{(x+1)(x+2)}+\frac{1}{(x+2)(x+3)}$.
+(Exercise 18.3, Extension and Exploration, Problem 7) Calculate: $\frac{1}{x\left(x+1\right)}+\frac{1}{\left(x+1\right)\left(x+2\right)}+\frac{1}{\left(x+2\right)\left(x+3\right)}$.
 
 ### Solution to Problem 7
 
 Telescoping cancellation:
 
-$$\left(\frac1x-\frac{1}{x+1}\right)+\left(\frac{1}{x+1}-\frac{1}{x+2}\right)+\left(\frac{1}{x+2}-\frac{1}{x+3}\right)=\frac1x-\frac{1}{x+3}=\frac{3}{x(x+3)}.$$
+$$\left(\frac1x-\frac{1}{x+1}\right)+\left(\frac{1}{x+1}-\frac{1}{x+2}\right)+\left(\frac{1}{x+2}-\frac{1}{x+3}\right)=\frac1x-\frac{1}{x+3}=\frac{3}{x\left(x+3\right)}.$$
 
 $\blacksquare$
 
@@ -196,15 +196,15 @@ Profit margin $=\frac{y-x}{x}$. Substituting $x=5000,y=6000$, we get $\frac{6000
 
 ### Reading and Thinking 1
 
-(Reading and Thinking, Can the Water in a Container Be Poured Out?) A container holds $1\ \text{L}$ of water; the $1$-st pour removes $\frac12\ \text{L}$, the $2$-nd pour removes $\frac{1}{2\times3}\ \text{L}$, the $3$-rd pour removes $\frac{1}{3\times4}\ \text{L}$, $\cdots\cdots$ the $n$-th pour removes $\frac{1}{n(n+1)}\ \text{L}$. How much water has been poured out after $n$ pours? Can all the water be poured out?
+(Reading and Thinking, Can the Water in a Container Be Poured Out?) A container holds $1\ \text{L}$ of water; the $1$-st pour removes $\frac12\ \text{L}$, the $2$-nd pour removes $\frac{1}{2\times3}\ \text{L}$, the $3$-rd pour removes $\frac{1}{3\times4}\ \text{L}$, $\cdots\cdots$ the $n$-th pour removes $\frac{1}{n\left(n+1\right)}\ \text{L}$. How much water has been poured out after $n$ pours? Can all the water be poured out?
 
 ### Solution to Reading and Thinking 1
 
 The total amount of water poured out after $n$ pours is
 
-$$S_n=\frac12+\frac{1}{2\times3}+\frac{1}{3\times4}+\cdots+\frac{1}{n(n+1)}.$$
+$$S_n=\frac12+\frac{1}{2\times3}+\frac{1}{3\times4}+\cdots+\frac{1}{n\left(n+1\right)}.$$
 
-Using the telescoping decomposition $\frac{1}{k(k+1)}=\frac1k-\frac{1}{k+1}$, we have
+Using the telescoping decomposition $\frac{1}{k\left(k+1\right)}=\frac1k-\frac{1}{k+1}$, we have
 
 $$S_n=\left(1-\frac12\right)+\left(\frac12-\frac13\right)+\cdots+\left(\frac1n-\frac{1}{n+1}\right)=1-\frac{1}{n+1}=\frac{n}{n+1}.$$
 

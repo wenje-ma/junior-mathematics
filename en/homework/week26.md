@@ -144,7 +144,7 @@ $$\angle AOD=\angle AOB+\angle BOD=90^{\circ}+\angle BOD.$$
 
 $$\angle BOC=\angle COD-\angle BOD=90^{\circ}-\angle BOD.$$
 
-$$\angle AOD+\angle BOC=(90^{\circ}+\angle BOD)+(90^{\circ}-\angle BOD)=180^{\circ}.$$
+$$\angle AOD+\angle BOC=\left(90^{\circ}+\angle BOD\right)+\left(90^{\circ}-\angle BOD\right)=180^{\circ}.$$
 
 $\blacksquare$
 
@@ -156,9 +156,9 @@ $\blacksquare$
 
 By **Definition 6.3.5** (Complementary Angle) and **Definition 6.3.6** (Supplementary Angle), let the angle be $x^{\circ}$.
 
-Its complement is $(90-x)^{\circ}$, and its supplement is $(180-x)^{\circ}$.
+Its complement is $\left(90-x\right)^{\circ}$, and its supplement is $\left(180-x\right)^{\circ}$.
 
-$$90-x=\frac{1}{3}(180-x)-20.$$
+$$90-x=\frac{1}{3}\left(180-x\right)-20.$$
 
 Simplifying: $90-x=60-\frac{x}{3}-20$. $90-x=40-\frac{x}{3}$. $50=\frac{2x}{3}$. $x=75$. Hence the angle is $75^{\circ}$. $\blacksquare$
 
@@ -176,7 +176,7 @@ $OD$ bisects $\angle AOC$, so $\angle DOC=\frac{1}{2}\angle AOC$.
 
 $OE$ bisects $\angle BOC$, so $\angle COE=\frac{1}{2}\angle BOC$.
 
-$$\angle DOE=\angle DOC+\angle COE=\frac{1}{2}(\angle AOC+\angle BOC)=\frac{1}{2}\times180^{\circ}=90^{\circ}.$$
+$$\angle DOE=\angle DOC+\angle COE=\frac{1}{2}\left(\angle AOC+\angle BOC\right)=\frac{1}{2}\times180^{\circ}=90^{\circ}.$$
 
 $\blacksquare$
 
@@ -188,7 +188,7 @@ $\blacksquare$
 
 By **Definition 6.3.5** (Complementary Angle) and **Definition 6.3.6** (Supplementary Angle), let the angle be $x^{\circ}$.
 
-$$180-x=4(90-x).$$
+$$180-x=4\left(90-x\right).$$
 
 Simplifying: $180-x=360-4x$. $3x=180$. $x=60$. Hence the angle is $60^{\circ}$. $\blacksquare$
 
@@ -294,7 +294,7 @@ The supplement of $\angle A$ $=180^{\circ}-50^{\circ}=130^{\circ}$. $\blacksquar
 
 By **Definition 6.3.5** (Complementary Angle) and **Definition 6.3.6** (Supplementary Angle), let the angle be $x^{\circ}$.
 
-$$180-x=3(90-x).$$
+$$180-x=3\left(90-x\right).$$
 
 Simplifying: $180-x=270-3x$. $2x=90$. $x=45$. Hence the angle is $45^{\circ}$. $\blacksquare$
 
@@ -352,9 +352,9 @@ $$\angle MON=\angle MOC-\angle NOC=75^{\circ}-30^{\circ}=45^{\circ}.$$
 
 (2) If $\angle AOB=\alpha$, then $\angle AOC=\alpha+60^{\circ}$.
 
-$$\angle MOC=\frac{1}{2}(\alpha+60^{\circ}),\quad \angle NOC=\frac{1}{2}\times60^{\circ}=30^{\circ}.$$
+$$\angle MOC=\frac{1}{2}\left(\alpha+60^{\circ}\right),\quad \angle NOC=\frac{1}{2}\times60^{\circ}=30^{\circ}.$$
 
-$$\angle MON=\frac{1}{2}(\alpha+60^{\circ})-30^{\circ}=\frac{\alpha}{2}.$$
+$$\angle MON=\frac{1}{2}\left(\alpha+60^{\circ}\right)-30^{\circ}=\frac{\alpha}{2}.$$
 
 $\blacksquare$
 

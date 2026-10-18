@@ -2,9 +2,9 @@
 
 > **定义 16.2.1** (单项式与单项式相乘) <br>把它们的系数、同底数幂分别相乘作为积的因式, 对于只在一个单项式里含有的字母, 则连同它的指数作为积的一个因式.
 
-> **定义 16.2.2** (单项式与多项式相乘) <br>用单项式去乘多项式的每一项, 再把所得的积相加, 即 $p(a+b+c)=pa+pb+pc$.
+> **定义 16.2.2** (单项式与多项式相乘) <br>用单项式去乘多项式的每一项, 再把所得的积相加, 即 $p\left(a+b+c\right)=pa+pb+pc$.
 
-> **定义 16.2.3** (多项式与多项式相乘) <br>先用一个多项式的每一项乘另一个多项式的每一项, 再把所得的积相加, 即 $(a+b)(p+q)=ap+aq+bp+bq$.
+> **定义 16.2.3** (多项式与多项式相乘) <br>先用一个多项式的每一项乘另一个多项式的每一项, 再把所得的积相加, 即 $\left(a+b\right)\left(p+q\right)=ap+aq+bp+bq$.
 
 > **定义 16.2.4** (同底数幂的除法) <br>$a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ 都是正整数, $m>n$), 即同底数幂相除, 底数不变, 指数相减.
 
@@ -20,11 +20,11 @@
 
 (1) $3a^3\cdot2a^2=6a^6$;
 
-(2) $3x^2\cdot(-4x^2)=-12x^2$;
+(2) $3x^2\cdot\left(-4x^2\right)=-12x^2$;
 
 (3) $5y^3\cdot3y^5=15y^{15}$;
 
-(4) $x^2 y^2(-xy^3)^2=x^4 y^8$.
+(4) $x^2 y^2\left(-xy^3\right)^2=x^4 y^8$.
 
 ### 解答 练习一
 
@@ -32,7 +32,7 @@
 
 (1) 不正确. $3a^3\cdot2a^2=6a^{3+2}=6a^5$, 同底数幂应指数相加.
 
-(2) 不正确. $3x^2\cdot(-4x^2)=-12x^4$.
+(2) 不正确. $3x^2\cdot\left(-4x^2\right)=-12x^4$.
 
 (3) 不正确. $5y^3\cdot3y^5=15y^8$.
 
@@ -46,9 +46,9 @@
 
 (2) $6x^2\cdot3xy$;
 
-(3) $4y\cdot(-2xy^2)$;
+(3) $4y\cdot\left(-2xy^2\right)$;
 
-(4) $-2ab^2\cdot(-3ab)$.
+(4) $-2ab^2\cdot\left(-3ab\right)$.
 
 ### 解答 练习二
 
@@ -58,25 +58,25 @@
 
 (2) $6x^2\cdot3xy=18x^3 y$.
 
-(3) $4y\cdot(-2xy^2)=-8xy^3$.
+(3) $4y\cdot\left(-2xy^2\right)=-8xy^3$.
 
-(4) $-2ab^2\cdot(-3ab)=6a^2 b^3$. $\blacksquare$
+(4) $-2ab^2\cdot\left(-3ab\right)=6a^2 b^3$. $\blacksquare$
 
 ### 练习三
 
 (练习 16.2 第 3 题) 计算:
 
-(1) $(-3xy^2)^2(-2xy)^2$;
+(1) $\left(-3xy^2\right)^2\left(-2xy\right)^2$;
 
-(2) $(-a)^5-(2a\cdot3a)^2\cdot(-a)$.
+(2) $\left(-a\right)^5-\left(2a\cdot3a\right)^2\cdot\left(-a\right)$.
 
 ### 解答 练习三
 
 先乘方再相乘.
 
-(1) $(-3xy^2)^2(-2xy)^2=9x^2 y^4\cdot4x^2 y^2=36x^4 y^6$.
+(1) $\left(-3xy^2\right)^2\left(-2xy\right)^2=9x^2 y^4\cdot4x^2 y^2=36x^4 y^6$.
 
-(2) $(-a)^5-(6a^2)^2\cdot(-a)=-a^5-36a^4\cdot(-a)=-a^5+36a^5=35a^5$. $\blacksquare$
+(2) $\left(-a\right)^5-\left(6a^2\right)^2\cdot\left(-a\right)=-a^5-36a^4\cdot\left(-a\right)=-a^5+36a^5=35a^5$. $\blacksquare$
 
 ### 练习四
 
@@ -87,7 +87,7 @@
 路程等于速度乘时间. $1\ \text{h}=3600\ \text{s}=3.6\times10^3\ \text{s}$.
 
 $$
-(7.9\times10^3)\times(3.6\times10^3)=28.44\times10^6=2.844\times10^7\ (\text{m}).
+\left(7.9\times10^3\right)\times\left(3.6\times10^3\right)=28.44\times10^6=2.844\times10^7\ \left(\text{m}\right).
 $$
 
 即卫星绕地球运行 $1\ \text{h}$ 飞过的路程约为 $2.844\times10^7\ \text{m}$. $\blacksquare$
@@ -96,66 +96,66 @@ $$
 
 (练习 16.2 第 1 题) 下面的计算是否正确? 如果不正确, 应当怎样改正?
 
-(1) $(-2x)(x^2-x)=-2x^3-2x^2$;
+(1) $\left(-2x\right)\left(x^2-x\right)=-2x^3-2x^2$;
 
-(2) $a(b-c)+b(c-a)+c(a-b)=0$.
+(2) $a\left(b-c\right)+b\left(c-a\right)+c\left(a-b\right)=0$.
 
 ### 解答 练习五
 
 由**定义 16.2.2** (单项式与多项式相乘).
 
-(1) 不正确. $(-2x)(x^2-x)=-2x^3+2x^2$, 第二项 $(-2x)(-x)$ 应为正.
+(1) 不正确. $\left(-2x\right)\left(x^2-x\right)=-2x^3+2x^2$, 第二项 $\left(-2x\right)\left(-x\right)$ 应为正.
 
-(2) 正确. $a(b-c)+b(c-a)+c(a-b)=ab-ac+bc-ab+ac-bc=0$. $\blacksquare$
+(2) 正确. $a\left(b-c\right)+b\left(c-a\right)+c\left(a-b\right)=ab-ac+bc-ab+ac-bc=0$. $\blacksquare$
 
 ### 练习六
 
 (练习 16.2 第 2 题) 计算:
 
-(1) $3a(5a-2b)$;
+(1) $3a\left(5a-2b\right)$;
 
-(2) $-2xy(2xy^2-3xy)$;
+(2) $-2xy\left(2xy^2-3xy\right)$;
 
-(3) $(x-3y)(-6x)$;
+(3) $\left(x-3y\right)\left(-6x\right)$;
 
-(4) $(-2ab)^2(2a-b+1)$.
+(4) $\left(-2ab\right)^2\left(2a-b+1\right)$.
 
 ### 解答 练习六
 
 由**定义 16.2.2**.
 
-(1) $3a(5a-2b)=15a^2-6ab$.
+(1) $3a\left(5a-2b\right)=15a^2-6ab$.
 
-(2) $-2xy(2xy^2-3xy)=-4x^2 y^3+6x^2 y^2$.
+(2) $-2xy\left(2xy^2-3xy\right)=-4x^2 y^3+6x^2 y^2$.
 
-(3) $(x-3y)(-6x)=-6x^2+18xy$.
+(3) $\left(x-3y\right)\left(-6x\right)=-6x^2+18xy$.
 
-(4) $(-2ab)^2(2a-b+1)=4a^2 b^2(2a-b+1)=8a^3 b^2-4a^2 b^3+4a^2 b^2$. $\blacksquare$
+(4) $\left(-2ab\right)^2\left(2a-b+1\right)=4a^2 b^2\left(2a-b+1\right)=8a^3 b^2-4a^2 b^3+4a^2 b^2$. $\blacksquare$
 
 ### 练习七
 
-(练习 16.2 第 3 题) 计算: $x(x-1)+2x(x+1)-3x(2x-5)$.
+(练习 16.2 第 3 题) 计算: $x\left(x-1\right)+2x\left(x+1\right)-3x\left(2x-5\right)$.
 
 ### 解答 练习七
 
 由**定义 16.2.2**.
 
 $$
-x(x-1)+2x(x+1)-3x(2x-5)=x^2-x+2x^2+2x-6x^2+15x=-3x^2+16x.
+x\left(x-1\right)+2x\left(x+1\right)-3x\left(2x-5\right)=x^2-x+2x^2+2x-6x^2+15x=-3x^2+16x.
 $$
 
 $\blacksquare$
 
 ### 练习八
 
-(练习 16.2 第 4 题) 先化简, 再求值: $x^2(x-1)-x(x^2+x-1)$, 其中 $x=\frac12$.
+(练习 16.2 第 4 题) 先化简, 再求值: $x^2\left(x-1\right)-x\left(x^2+x-1\right)$, 其中 $x=\frac12$.
 
 ### 解答 练习八
 
 先化简再代入.
 
 $$
-x^2(x-1)-x(x^2+x-1)=x^3-x^2-x^3-x^2+x=-2x^2+x.
+x^2\left(x-1\right)-x\left(x^2+x-1\right)=x^3-x^2-x^3-x^2+x=-2x^2+x.
 $$
 
 代入 $x=\frac12$, 得 $-2\cdot\frac14+\frac12=-\frac12+\frac12=0$. $\blacksquare$
@@ -164,79 +164,79 @@ $$
 
 (练习 16.2 第 1 题) 计算:
 
-(1) $(2x+1)(x+3)$;
+(1) $\left(2x+1\right)\left(x+3\right)$;
 
-(2) $(m+2n)(3n-m)$;
+(2) $\left(m+2n\right)\left(3n-m\right)$;
 
-(3) $(a-1)^2$;
+(3) $\left(a-1\right)^2$;
 
-(4) $(a+3b)(a-3b)$;
+(4) $\left(a+3b\right)\left(a-3b\right)$;
 
-(5) $(2x^2-1)(x-4)$;
+(5) $\left(2x^2-1\right)\left(x-4\right)$;
 
-(6) $(x^2+2x+3)(2x-5)$.
+(6) $\left(x^2+2x+3\right)\left(2x-5\right)$.
 
 ### 解答 练习九
 
 由**定义 16.2.3** (多项式与多项式相乘).
 
-(1) $(2x+1)(x+3)=2x^2+6x+x+3=2x^2+7x+3$.
+(1) $\left(2x+1\right)\left(x+3\right)=2x^2+6x+x+3=2x^2+7x+3$.
 
-(2) $(m+2n)(3n-m)=3mn-m^2+6n^2-2mn=mn-m^2+6n^2$.
+(2) $\left(m+2n\right)\left(3n-m\right)=3mn-m^2+6n^2-2mn=mn-m^2+6n^2$.
 
-(3) $(a-1)^2=a^2-2a+1$.
+(3) $\left(a-1\right)^2=a^2-2a+1$.
 
-(4) $(a+3b)(a-3b)=a^2-9b^2$.
+(4) $\left(a+3b\right)\left(a-3b\right)=a^2-9b^2$.
 
-(5) $(2x^2-1)(x-4)=2x^3-8x^2-x+4$.
+(5) $\left(2x^2-1\right)\left(x-4\right)=2x^3-8x^2-x+4$.
 
-(6) $(x^2+2x+3)(2x-5)=2x^3-5x^2+4x^2-10x+6x-15=2x^3-x^2-4x-15$. $\blacksquare$
+(6) $\left(x^2+2x+3\right)\left(2x-5\right)=2x^3-5x^2+4x^2-10x+6x-15=2x^3-x^2-4x-15$. $\blacksquare$
 
 ### 练习十
 
 (练习 16.2 第 2 题) 计算:
 
-(1) $(x+2)(x+3)$;
+(1) $\left(x+2\right)\left(x+3\right)$;
 
-(2) $(x-4)(x+1)$;
+(2) $\left(x-4\right)\left(x+1\right)$;
 
-(3) $(x+4)(x-2)$;
+(3) $\left(x+4\right)\left(x-2\right)$;
 
-(4) $(x-5)(x-3)$.
+(4) $\left(x-5\right)\left(x-3\right)$.
 
-由上面计算的结果找规律, 观察图形, 填空: $(x+p)(x+q)=(\;\;)^2+(\;\;)x+(\;\;)$.
+由上面计算的结果找规律, 观察图形, 填空: $\left(x+p\right)\left(x+q\right)=\left(\;\;\right)^2+\left(\;\;\right)x+\left(\;\;\right)$.
 
 ### 解答 练习十
 
 由**定义 16.2.3**.
 
-(1) $(x+2)(x+3)=x^2+5x+6$.
+(1) $\left(x+2\right)\left(x+3\right)=x^2+5x+6$.
 
-(2) $(x-4)(x+1)=x^2-3x-4$.
+(2) $\left(x-4\right)\left(x+1\right)=x^2-3x-4$.
 
-(3) $(x+4)(x-2)=x^2+2x-8$.
+(3) $\left(x+4\right)\left(x-2\right)=x^2+2x-8$.
 
-(4) $(x-5)(x-3)=x^2-8x+15$.
+(4) $\left(x-5\right)\left(x-3\right)=x^2-8x+15$.
 
 观察各式: 二次项系数为 $1$, 一次项系数等于两常数之和, 常数项等于两常数之积. 故
 
-$$(x+p)(x+q)=x^2+(p+q)x+pq.$$
+$$\left(x+p\right)\left(x+q\right)=x^2+\left(p+q\right)x+pq.$$
 
 $\blacksquare$
 
 ### 练习十一
 
-(练习 16.2 第 3 题) 先化简, 再求值: $(x-y)(x^2+xy+y^2)-(x+y)(x^2-y^2)$, 其中 $x=5$, $y=5$.
+(练习 16.2 第 3 题) 先化简, 再求值: $\left(x-y\right)\left(x^2+xy+y^2\right)-\left(x+y\right)\left(x^2-y^2\right)$, 其中 $x=5$, $y=5$.
 
 ### 解答 练习十一
 
 由**定义 16.2.3**.
 
-$$(x-y)(x^2+xy+y^2)=x^3-y^3,$$
+$$\left(x-y\right)\left(x^2+xy+y^2\right)=x^3-y^3,$$
 
-$$(x+y)(x^2-y^2)=(x+y)(x+y)(x-y)=(x+y)^2(x-y).$$
+$$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y\right)=\left(x+y\right)^2\left(x-y\right).$$
 
-代入 $x=5,y=5$ 时 $x-y=0$, 故原式 $=0-(x+y)\cdot0=0$. $\blacksquare$
+代入 $x=5,y=5$ 时 $x-y=0$, 故原式 $=0-\left(x+y\right)\cdot0=0$. $\blacksquare$
 
 ### 练习十二
 
@@ -246,9 +246,9 @@ $$(x+y)(x^2-y^2)=(x+y)(x+y)(x-y)=(x+y)^2(x-y).$$
 
 (2) $m^8\div m^8$;
 
-(3) $(-a)^{10}\div(-a)^7$;
+(3) $\left(-a\right)^{10}\div\left(-a\right)^7$;
 
-(4) $(xy)^5\div(xy)^3$.
+(4) $\left(xy\right)^5\div\left(xy\right)^3$.
 
 ### 解答 练习十二
 
@@ -258,49 +258,49 @@ $$(x+y)(x^2-y^2)=(x+y)(x+y)(x-y)=(x+y)^2(x-y).$$
 
 (2) $m^8\div m^8=m^0=1$.
 
-(3) $(-a)^{10}\div(-a)^7=(-a)^3=-a^3$.
+(3) $\left(-a\right)^{10}\div\left(-a\right)^7=\left(-a\right)^3=-a^3$.
 
-(4) $(xy)^5\div(xy)^3=(xy)^2=x^2 y^2$. $\blacksquare$
+(4) $\left(xy\right)^5\div\left(xy\right)^3=\left(xy\right)^2=x^2 y^2$. $\blacksquare$
 
 ### 练习十三
 
 (练习 16.2 第 2 题) 计算:
 
-(1) $(10ab^3)\div(-5ab)$;
+(1) $\left(10ab^3\right)\div\left(-5ab\right)$;
 
-(2) $(-8a^2 b^3)\div(6ab^2)$;
+(2) $\left(-8a^2 b^3\right)\div\left(6ab^2\right)$;
 
-(3) $(-21x^2 y^4)\div(-3x^2 y^3)$;
+(3) $\left(-21x^2 y^4\right)\div\left(-3x^2 y^3\right)$;
 
-(4) $(6\times10^8)\div(3\times10^5)$.
+(4) $\left(6\times10^8\right)\div\left(3\times10^5\right)$.
 
 ### 解答 练习十三
 
 由**定义 16.2.6** (单项式除以单项式).
 
-(1) $(10ab^3)\div(-5ab)=-2b^2$.
+(1) $\left(10ab^3\right)\div\left(-5ab\right)=-2b^2$.
 
-(2) $(-8a^2 b^3)\div(6ab^2)=-\frac43 ab$.
+(2) $\left(-8a^2 b^3\right)\div\left(6ab^2\right)=-\frac43 ab$.
 
-(3) $(-21x^2 y^4)\div(-3x^2 y^3)=7y$.
+(3) $\left(-21x^2 y^4\right)\div\left(-3x^2 y^3\right)=7y$.
 
-(4) $(6\times10^8)\div(3\times10^5)=2\times10^3$. $\blacksquare$
+(4) $\left(6\times10^8\right)\div\left(3\times10^5\right)=2\times10^3$. $\blacksquare$
 
 ### 练习十四
 
 (练习 16.2 第 3 题) 计算:
 
-(1) $(6ab+5a)\div a$;
+(1) $\left(6ab+5a\right)\div a$;
 
-(2) $(15x^2 y-10xy^2)\div(5xy)$.
+(2) $\left(15x^2 y-10xy^2\right)\div\left(5xy\right)$.
 
 ### 解答 练习十四
 
 由**定义 16.2.7** (多项式除以单项式).
 
-(1) $(6ab+5a)\div a=6b+5$.
+(1) $\left(6ab+5a\right)\div a=6b+5$.
 
-(2) $(15x^2 y-10xy^2)\div(5xy)=3x-2y$. $\blacksquare$
+(2) $\left(15x^2 y-10xy^2\right)\div\left(5xy\right)=3x-2y$. $\blacksquare$
 
 ### 习题一
 
@@ -308,11 +308,11 @@ $$(x+y)(x^2-y^2)=(x+y)(x+y)(x-y)=(x+y)^2(x-y).$$
 
 (1) $3x\cdot6x^2 y$;
 
-(2) $a^2 b(-3ab^2)$;
+(2) $a^2 b\left(-3ab^2\right)$;
 
-(3) $4x^2 y(-xy^2)^3$;
+(3) $4x^2 y\left(-xy^2\right)^3$;
 
-(4) $(1.25\times10^5)\times(2\times10^3)^3$.
+(4) $\left(1.25\times10^5\right)\times\left(2\times10^3\right)^3$.
 
 ### 解答 习题一
 
@@ -320,153 +320,153 @@ $$(x+y)(x^2-y^2)=(x+y)(x+y)(x-y)=(x+y)^2(x-y).$$
 
 (1) $3x\cdot6x^2 y=18x^3 y$.
 
-(2) $a^2 b(-3ab^2)=-3a^3 b^3$.
+(2) $a^2 b\left(-3ab^2\right)=-3a^3 b^3$.
 
-(3) $4x^2 y(-xy^2)^3=4x^2 y\cdot(-x^3 y^6)=-4x^5 y^7$.
+(3) $4x^2 y\left(-xy^2\right)^3=4x^2 y\cdot\left(-x^3 y^6\right)=-4x^5 y^7$.
 
-(4) $(1.25\times10^5)\times(2\times10^3)^3=1.25\times10^5\times8\times10^9=10\times10^{14}=1\times10^{15}$. $\blacksquare$
+(4) $\left(1.25\times10^5\right)\times\left(2\times10^3\right)^3=1.25\times10^5\times8\times10^9=10\times10^{14}=1\times10^{15}$. $\blacksquare$
 
 ### 习题二
 
 (习题 16.2 复习巩固第 2 题) 计算:
 
-(1) $(4a-b^2)(-2b)$;
+(1) $\left(4a-b^2\right)\left(-2b\right)$;
 
-(2) $2x^2(x-\frac12)$;
+(2) $2x^2\left(x-\frac12\right)$;
 
-(3) $5ab(2a-b+0.2)$;
+(3) $5ab\left(2a-b+0.2\right)$;
 
-(4) $(2a^2-\frac23 a-\frac49)(-9a)$.
+(4) $\left(2a^2-\frac23 a-\frac49\right)\left(-9a\right)$.
 
 ### 解答 习题二
 
 由**定义 16.2.2**.
 
-(1) $(4a-b^2)(-2b)=-8ab+2b^3$.
+(1) $\left(4a-b^2\right)\left(-2b\right)=-8ab+2b^3$.
 
-(2) $2x^2(x-\frac12)=2x^3-x^2$.
+(2) $2x^2\left(x-\frac12\right)=2x^3-x^2$.
 
-(3) $5ab(2a-b+0.2)=10a^2 b-5ab^2+ab$.
+(3) $5ab\left(2a-b+0.2\right)=10a^2 b-5ab^2+ab$.
 
-(4) $(2a^2-\frac23 a-\frac49)(-9a)=-18a^3+6a^2+4a$. $\blacksquare$
+(4) $\left(2a^2-\frac23 a-\frac49\right)\left(-9a\right)=-18a^3+6a^2+4a$. $\blacksquare$
 
 ### 习题三
 
 (习题 16.2 复习巩固第 3 题) 计算:
 
-(1) $(x-6)(x-3)$;
+(1) $\left(x-6\right)\left(x-3\right)$;
 
-(2) $(x+\frac12)(x-\frac13)$;
+(2) $\left(x+\frac12\right)\left(x-\frac13\right)$;
 
-(3) $(3x+2)(x+2)$;
+(3) $\left(3x+2\right)\left(x+2\right)$;
 
-(4) $(4y-1)(5-y)$;
+(4) $\left(4y-1\right)\left(5-y\right)$;
 
-(5) $(x-2)(x^2+4)$;
+(5) $\left(x-2\right)\left(x^2+4\right)$;
 
-(6) $(x-1)(x^2+x+1)$.
+(6) $\left(x-1\right)\left(x^2+x+1\right)$.
 
 ### 解答 习题三
 
 由**定义 16.2.3**.
 
-(1) $(x-6)(x-3)=x^2-9x+18$.
+(1) $\left(x-6\right)\left(x-3\right)=x^2-9x+18$.
 
-(2) $(x+\frac12)(x-\frac13)=x^2+\frac16 x-\frac16$.
+(2) $\left(x+\frac12\right)\left(x-\frac13\right)=x^2+\frac16 x-\frac16$.
 
-(3) $(3x+2)(x+2)=3x^2+8x+4$.
+(3) $\left(3x+2\right)\left(x+2\right)=3x^2+8x+4$.
 
-(4) $(4y-1)(5-y)=20y-4y^2-5+y=-4y^2+21y-5$.
+(4) $\left(4y-1\right)\left(5-y\right)=20y-4y^2-5+y=-4y^2+21y-5$.
 
-(5) $(x-2)(x^2+4)=x^3+4x-2x^2-8=x^3-2x^2+4x-8$.
+(5) $\left(x-2\right)\left(x^2+4\right)=x^3+4x-2x^2-8=x^3-2x^2+4x-8$.
 
-(6) $(x-1)(x^2+x+1)=x^3+x^2+x-x^2-x-1=x^3-1$. $\blacksquare$
+(6) $\left(x-1\right)\left(x^2+x+1\right)=x^3+x^2+x-x^2-x-1=x^3-1$. $\blacksquare$
 
 ### 习题四
 
 (习题 16.2 复习巩固第 4 题) 计算:
 
-(1) $(a^3)^2\div(a^2)^3$;
+(1) $\left(a^3\right)^2\div\left(a^2\right)^3$;
 
-(2) $(ab^2)^3\div(-ab)^2$;
+(2) $\left(ab^2\right)^3\div\left(-ab\right)^2$;
 
-(3) $(25a^3 b^2)\div(5ab)^2$;
+(3) $\left(25a^3 b^2\right)\div\left(5ab\right)^2$;
 
-(4) $(14m^2 n)^2\div(7m^2)\div(7m)$;
+(4) $\left(14m^2 n\right)^2\div\left(7m^2\right)\div\left(7m\right)$;
 
-(5) $(-5a^3 b^5 c+35a^2 b^3 c^2-abc)\div(-abc)$;
+(5) $\left(-5a^3 b^5 c+35a^2 b^3 c^2-abc\right)\div\left(-abc\right)$;
 
-(6) $(-81x^{n+5}+15x^{n+1}-3x^{n-1})\div(-3x^{n-1})$.
+(6) $\left(-81x^{n+5}+15x^{n+1}-3x^{n-1}\right)\div\left(-3x^{n-1}\right)$.
 
 ### 解答 习题四
 
 由**定义 16.2.6** 与**定义 16.2.7**.
 
-(1) $(a^3)^2\div(a^2)^3=a^6\div a^6=1$.
+(1) $\left(a^3\right)^2\div\left(a^2\right)^3=a^6\div a^6=1$.
 
-(2) $(ab^2)^3\div(-ab)^2=a^3 b^6\div(a^2 b^2)=ab^4$.
+(2) $\left(ab^2\right)^3\div\left(-ab\right)^2=a^3 b^6\div\left(a^2 b^2\right)=ab^4$.
 
-(3) $(25a^3 b^2)\div(25a^2 b^2)=a$.
+(3) $\left(25a^3 b^2\right)\div\left(25a^2 b^2\right)=a$.
 
-(4) $(14m^2 n)^2\div(7m^2)\div(7m)=196m^4 n^2\div(7m^2)\div(7m)=28m^2 n^2\div(7m)=4mn^2$.
+(4) $\left(14m^2 n\right)^2\div\left(7m^2\right)\div\left(7m\right)=196m^4 n^2\div\left(7m^2\right)\div\left(7m\right)=28m^2 n^2\div\left(7m\right)=4mn^2$.
 
-(5) $(-5a^3 b^5 c+35a^2 b^3 c^2-abc)\div(-abc)=5a^2 b^4-35ab^2 c+1$.
+(5) $\left(-5a^3 b^5 c+35a^2 b^3 c^2-abc\right)\div\left(-abc\right)=5a^2 b^4-35ab^2 c+1$.
 
-(6) $(-81x^{n+5}+15x^{n+1}-3x^{n-1})\div(-3x^{n-1})=27x^6-5x^2+1$. $\blacksquare$
+(6) $\left(-81x^{n+5}+15x^{n+1}-3x^{n-1}\right)\div\left(-3x^{n-1}\right)=27x^6-5x^2+1$. $\blacksquare$
 
 ### 习题五
 
 (习题 16.2 复习巩固第 5 题) 计算:
 
-(1) $(-3x^2 y)^2\cdot(-\frac23 xyz)\div(\frac34 xy^2)$;
+(1) $\left(-3x^2 y\right)^2\cdot\left(-\frac23 xyz\right)\div\left(\frac34 xy^2\right)$;
 
-(2) $(-4ab^3-18ab)\div(-12ab^2)$;
+(2) $\left(-4ab^3-18ab\right)\div\left(-12ab^2\right)$;
 
-(3) $(x-3)(x-2)-6(x^2+x-1)$;
+(3) $\left(x-3\right)\left(x-2\right)-6\left(x^2+x-1\right)$;
 
-(4) $(-4ab^3+8a^2 b^2)\div(4ab)-(2a+b)(a-b)$.
+(4) $\left(-4ab^3+8a^2 b^2\right)\div\left(4ab\right)-\left(2a+b\right)\left(a-b\right)$.
 
 ### 解答 习题五
 
 混合运算, 先乘方再乘除后加减.
 
-(1) $(-3x^2 y)^2\cdot(-\frac23 xyz)\div(\frac34 xy^2)=9x^4 y^2\cdot(-\frac23 xyz)\div(\frac34 xy^2)=-6x^5 y^3 z\div(\frac34 xy^2)=-8x^4 yz$.
+(1) $\left(-3x^2 y\right)^2\cdot\left(-\frac23 xyz\right)\div\left(\frac34 xy^2\right)=9x^4 y^2\cdot\left(-\frac23 xyz\right)\div\left(\frac34 xy^2\right)=-6x^5 y^3 z\div\left(\frac34 xy^2\right)=-8x^4 yz$.
 
-(2) $(-4ab^3-18ab)\div(-12ab^2)=\frac13 b+\frac{3}{2b}$.
+(2) $\left(-4ab^3-18ab\right)\div\left(-12ab^2\right)=\frac13 b+\frac{3}{2b}$.
 
-(3) $(x-3)(x-2)-6(x^2+x-1)=x^2-5x+6-6x^2-6x+6=-5x^2-11x+12$.
+(3) $\left(x-3\right)\left(x-2\right)-6\left(x^2+x-1\right)=x^2-5x+6-6x^2-6x+6=-5x^2-11x+12$.
 
-(4) $(-4ab^3+8a^2 b^2)\div(4ab)-(2a+b)(a-b)=-b^2+2ab-(2a^2-2ab+ab-b^2)=-b^2+2ab-2a^2+ab+b^2=-2a^2+3ab$. $\blacksquare$
+(4) $\left(-4ab^3+8a^2 b^2\right)\div\left(4ab\right)-\left(2a+b\right)\left(a-b\right)=-b^2+2ab-\left(2a^2-2ab+ab-b^2\right)=-b^2+2ab-2a^2+ab+b^2=-2a^2+3ab$. $\blacksquare$
 
 ### 习题六
 
 (习题 16.2 综合运用第 6 题) 计算:
 
-(1) $[5a^4\cdot a^2-(3a^3)^2]\div(2a^2)^2$;
+(1) $\left[5a^4\cdot a^2-\left(3a^3\right)^2\right]\div\left(2a^2\right)^2$;
 
-(2) $[(ab+1)(ab-1)-2a^2 b^2+1]\div(-ab)^2$.
+(2) $\left[\left(ab+1\right)\left(ab-1\right)-2a^2 b^2+1\right]\div\left(-ab\right)^2$.
 
 ### 解答 习题六
 
 先化简括号内再做除法.
 
-(1) $[5a^6-9a^6]\div(4a^4)=(-4a^6)\div(4a^4)=-a^2$.
+(1) $\left[5a^6-9a^6\right]\div\left(4a^4\right)=\left(-4a^6\right)\div\left(4a^4\right)=-a^2$.
 
-(2) $[(a^2 b^2-1)-2a^2 b^2+1]\div(a^2 b^2)=(-a^2 b^2)\div(a^2 b^2)=-1$. $\blacksquare$
+(2) $\left[\left(a^2 b^2-1\right)-2a^2 b^2+1\right]\div\left(a^2 b^2\right)=\left(-a^2 b^2\right)\div\left(a^2 b^2\right)=-1$. $\blacksquare$
 
 ### 习题七
 
 (习题 16.2 综合运用第 7 题) 先化简, 再求值:
 
-(1) $x(1-x^2)+x^2(x-1)+x(x+1)$, 其中 $x=2$;
+(1) $x\left(1-x^2\right)+x^2\left(x-1\right)+x\left(x+1\right)$, 其中 $x=2$;
 
-(2) $(a^2 b-2ab^2-b^3)\div b-(a+b)^2$, 其中 $a=\frac12$, $b=-1$.
+(2) $\left(a^2 b-2ab^2-b^3\right)\div b-\left(a+b\right)^2$, 其中 $a=\frac12$, $b=-1$.
 
 ### 解答 习题七
 
 (1) $x-x^3+x^3-x^2+x^2+x=2x$. 代入 $x=2$, 得 $4$.
 
-(2) 原式 $=a^2-2ab-b^2-(a^2+2ab+b^2)=-4ab-2b^2$. 代入 $a=\frac12,b=-1$, 得 $-4\cdot\frac12\cdot(-1)-2\cdot1=2-2=0$. $\blacksquare$
+(2) 原式 $=a^2-2ab-b^2-\left(a^2+2ab+b^2\right)=-4ab-2b^2$. 代入 $a=\frac12,b=-1$, 得 $-4\cdot\frac12\cdot\left(-1\right)-2\cdot1=2-2=0$. $\blacksquare$
 
 ### 习题八
 
@@ -474,7 +474,7 @@ $$(x+y)(x^2-y^2)=(x+y)(x+y)(x-y)=(x+y)^2(x-y).$$
 
 ### 解答 习题八
 
-化为同底的幂. $27^x=(3^3)^x=3^{3x}$, $9^{2y}=(3^2)^{2y}=3^{4y}$.
+化为同底的幂. $27^x=\left(3^3\right)^x=3^{3x}$, $9^{2y}=\left(3^2\right)^{2y}=3^{4y}$.
 
 $$27^x\div9^{2y}=3^{3x}\div3^{4y}=3^{3x-4y}=3^3=27.$$
 
@@ -490,11 +490,11 @@ $\blacksquare$
 
 由图, 整个外框矩形的宽为 $a+2a+2a+2a+a=8a$, 高为 $2.5a+1.5a=4a$, 外框面积为 $8a\cdot4a=32a^2$.
 
-底部两个空白小矩形各为 $2a\times2.5a$, 面积共 $2\cdot(2a\cdot2.5a)=10a^2$.
+底部两个空白小矩形各为 $2a\times2.5a$, 面积共 $2\cdot\left(2a\cdot2.5a\right)=10a^2$.
 
 故阴影绿地面积为
 
-$$32a^2-10a^2=22a^2\ (\text{m}^2).$$
+$$32a^2-10a^2=22a^2\ \left(\text{m}^2\right).$$
 
 $\blacksquare$
 
@@ -518,26 +518,26 @@ $$bx\cdot a=4a^2 b,$$
 
 (习题 16.2 拓广探索第 11 题) 确定下列各式中 $m$ 的值 (其中 $p,q$ 为正整数):
 
-(1) $(x+4)(x+9)=x^2+mx+36$;
+(1) $\left(x+4\right)\left(x+9\right)=x^2+mx+36$;
 
-(2) $(x-2)(x-18)=x^2+mx+36$;
+(2) $\left(x-2\right)\left(x-18\right)=x^2+mx+36$;
 
-(3) $(x+3)(x+p)=x^2+mx+36$;
+(3) $\left(x+3\right)\left(x+p\right)=x^2+mx+36$;
 
-(4) $(x-6)(x-p)=x^2+mx+36$;
+(4) $\left(x-6\right)\left(x-p\right)=x^2+mx+36$;
 
-(5) $(x+p)(x+q)=x^2+mx+36$.
+(5) $\left(x+p\right)\left(x+q\right)=x^2+mx+36$.
 
 ### 解答 习题十一
 
-由 $(x+p)(x+q)=x^2+(p+q)x+pq$, 一次项系数为两常数之和.
+由 $\left(x+p\right)\left(x+q\right)=x^2+\left(p+q\right)x+pq$, 一次项系数为两常数之和.
 
-(1) $(x+4)(x+9)=x^2+13x+36$, 故 $m=13$.
+(1) $\left(x+4\right)\left(x+9\right)=x^2+13x+36$, 故 $m=13$.
 
-(2) $(x-2)(x-18)=x^2-20x+36$, 故 $m=-20$.
+(2) $\left(x-2\right)\left(x-18\right)=x^2-20x+36$, 故 $m=-20$.
 
 (3) $3p=36$, 得 $p=12$, 故 $m=3+p=15$.
 
-(4) $(-6)(-p)=36$, 得 $p=6$, 故 $m=-6-p=-12$.
+(4) $\left(-6\right)\left(-p\right)=36$, 得 $p=6$, 故 $m=-6-p=-12$.
 
-(5) $pq=36$, $m=p+q$. 因 $p,q$ 为正整数, 取 $(p,q)=(1,36),(2,18),(3,12),(4,9),(6,6)$, 相应 $m=37,20,15,13,12$. $\blacksquare$
+(5) $pq=36$, $m=p+q$. 因 $p,q$ 为正整数, 取 $\left(p,q\right)=\left(1,36\right),\left(2,18\right),\left(3,12\right),\left(4,9\right),\left(6,6\right)$, 相应 $m=37,20,15,13,12$. $\blacksquare$

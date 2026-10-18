@@ -76,7 +76,7 @@ $\triangle ADE$ is a right triangle. The reason is as follows.
 
 By **Conclusion 13.3.1** (The Acute Angles of a Right Triangle Are Complementary), in $\text{Rt}\triangle ABC$, $\angle A+\angle B=90^\circ$. Since $\angle 1=\angle 2$ and $\angle 2$ and $\angle B$ are the same pair of corresponding angles, we get $\angle ADE=\angle B$.
 
-Hence $\angle A+\angle ADE=\angle A+\angle B=90^\circ$, so in $\triangle ADE$, $\angle AED=180^\circ-(\angle A+\angle ADE)=90^\circ$. Therefore $\triangle ADE$ is a right triangle. $\blacksquare$
+Hence $\angle A+\angle ADE=\angle A+\angle B=90^\circ$, so in $\triangle ADE$, $\angle AED=180^\circ-\left(\angle A+\angle ADE\right)=90^\circ$. Therefore $\triangle ADE$ is a right triangle. $\blacksquare$
 
 ### Exercise 5
 
@@ -116,7 +116,7 @@ Figure (2): $3x=180^\circ$, so $x=60^\circ$.
 
 Figure (3): $72^\circ+2x=180^\circ$, so $x=54^\circ$.
 
-Figure (4): $x+(x-36^\circ)+(x+36^\circ)=3x=180^\circ$, so $x=60^\circ$. $\blacksquare$
+Figure (4): $x+\left(x-36^\circ\right)+\left(x+36^\circ\right)=3x=180^\circ$, so $x=60^\circ$. $\blacksquare$
 
 ### Problem 2
 
@@ -147,7 +147,7 @@ By **Theorem 13.3.1** (Triangle Interior Angle Sum Theorem), the sum of the thre
 By **Theorem 13.3.1** (Triangle Interior Angle Sum Theorem), let $\angle A=x$; then $\angle B=x+10^\circ$, $\angle C=x+20^\circ$.
 
 $$
-x+(x+10^\circ)+(x+20^\circ)=180^\circ.
+x+\left(x+10^\circ\right)+\left(x+20^\circ\right)=180^\circ.
 $$
 
 Solving gives $3x=150^\circ$, i.e. $x=50^\circ$. Hence $\angle A=50^\circ$, $\angle B=60^\circ$, $\angle C=70^\circ$. $\blacksquare$
@@ -273,7 +273,7 @@ $$
 In the triangle containing $x$,
 
 $$
-x=180^\circ-(\angle 2+\angle 4)=180^\circ-40^\circ=140^\circ.
+x=180^\circ-\left(\angle 2+\angle 4\right)=180^\circ-40^\circ=140^\circ.
 $$
 
 $\blacksquare$
@@ -296,7 +296,7 @@ $$
 \angle 1+\angle 2=180^\circ-90^\circ=90^\circ.
 $$
 
-In $\triangle AEC$, by **Theorem 13.3.1**, $\angle E=180^\circ-(\angle 1+\angle 2)=90^\circ$.
+In $\triangle AEC$, by **Theorem 13.3.1**, $\angle E=180^\circ-\left(\angle 1+\angle 2\right)=90^\circ$.
 
 Hence fill in successively $180^\circ$, $90^\circ$, $90^\circ$. $\blacksquare$
 
@@ -327,7 +327,7 @@ $$
 Substituting $\angle ACE=\angle BAC-\angle E$:
 
 $$
-2(\angle BAC-\angle E)=\angle B+\angle BAC,
+2\left(\angle BAC-\angle E\right)=\angle B+\angle BAC,
 $$
 
 which simplifies to $\angle BAC=\angle B+2\angle E$. $\blacksquare$

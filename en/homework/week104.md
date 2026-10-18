@@ -401,7 +401,7 @@ Let in \(\square ABCD\), \(AB=CD=a,\ BC=AD=b\), and diagonals \(AC=m,\ BD=n\).
 This follows from the properties of parallelograms:
 
 $$
-m^{2}+n^{2}=2(a^{2}+b^{2})=2a^{2}+2b^{2}=AB^{2}+BC^{2}+CD^{2}+DA^{2}.
+m^{2}+n^{2}=2\left(a^{2}+b^{2}\right)=2a^{2}+2b^{2}=AB^{2}+BC^{2}+CD^{2}+DA^{2}.
 $$
 
 i.e. the sum of the squares of the two diagonals equals the sum of the squares of the four sides.

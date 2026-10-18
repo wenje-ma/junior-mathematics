@@ -10,18 +10,18 @@
 
 ### Solution to Activity 1
 
-(1) Let the units digit of the first factor be $x$; then the two factors are $90+x$ and $90+(10-x)=100-x$, and the product is
+(1) Let the units digit of the first factor be $x$; then the two factors are $90+x$ and $90+\left(10-x\right)=100-x$, and the product is
 
 $$
-y=(90+x)(100-x)=-x^2+10x+9000.
+y=\left(90+x\right)\left(100-x\right)=-x^2+10x+9000.
 $$
 
-By **Conclusion 26.2.4**, $a=-1<0$; the product is maximized at $x=-\frac{10}{2(-1)}=5$, at which both factors are $95$, and the maximum product is $95\times95=9025$.
+By **Conclusion 26.2.4**, $a=-1<0$; the product is maximized at $x=-\frac{10}{2\left(-1\right)}=5$, at which both factors are $95$, and the maximum product is $95\times95=9025$.
 
 (2) Let the number formed by the last two digits of the first factor be $x$; then the two factors are $900+x$ and $1000-x$, and the product is
 
 $$
-y=(900+x)(1000-x)=-x^2+100x+900000.
+y=\left(900+x\right)\left(1000-x\right)=-x^2+100x+900000.
 $$
 
 By **Conclusion 26.2.4**, the product is maximized at $x=\frac{100}{2}=50$, at which both factors are $950$, and the maximum product is $950\times950=902500$.
@@ -51,7 +51,7 @@ $$
 
 (1) Plot the points with $v$ on the horizontal axis and $l$ on the vertical axis, as shown; the points roughly lie on an upward-opening parabola.
 
-(2) From the physical relation between braking distance and speed, let $l=av^2+bv$. Substituting the two data sets $(40,17)$ and $(80,52.8)$ for an estimate gives $a\approx0.006$, $b\approx0.2$, i.e.
+(2) From the physical relation between braking distance and speed, let $l=av^2+bv$. Substituting the two data sets $\left(40,17\right)$ and $\left(80,52.8\right)$ for an estimate gives $a\approx0.006$, $b\approx0.2$, i.e.
 
 $$
 l\approx0.006v^2+0.2v.

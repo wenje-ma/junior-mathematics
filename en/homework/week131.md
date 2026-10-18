@@ -1,6 +1,6 @@
 # Assignment 131
 
-> **Conclusion 25.2.5** (Relation Between Roots and Coefficients) <br>If the two roots of $ax^2+bx+c=0\ (a\ne0)$ are $x_1,x_2$, then $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$.
+> **Conclusion 25.2.5** (Relation Between Roots and Coefficients) <br>If the two roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x_1,x_2$, then $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$.
 >
 > **Definition 25.1.3** (Roots of a Quadratic Equation) <br>The value of the unknown that makes the two sides of a quadratic equation equal is the root of that equation.
 
@@ -25,7 +25,7 @@ $$
 Adding the three equations,
 
 $$
-(a+b+c)(r^2+r+1)=0.
+\left(a+b+c\right)\left(r^2+r+1\right)=0.
 $$
 
 For every real number $r$, $r^2+r+1=\left(r+\frac12\right)^2+\frac34>0$, hence necessarily
@@ -49,10 +49,10 @@ Hence the condition on $a,b,c$ is $a+b+c=0$; the common solution is $x=1$, and t
 From $\frac1a+\frac1b=\frac1c$, taking a common denominator on the left gives $\frac{a+b}{ab}=\frac1c$, i.e.
 
 $$
-c(a+b)=ab.
+c\left(a+b\right)=ab.
 $$
 
-Substituting $a=b+c$ gives $c(b+c+b)=(b+c)b$, i.e. $c(2b+c)=b^2+bc$. Expanding and rearranging,
+Substituting $a=b+c$ gives $c\left(b+c+b\right)=\left(b+c\right)b$, i.e. $c\left(2b+c\right)=b^2+bc$. Expanding and rearranging,
 
 $$
 c^2+bc-b^2=0.
