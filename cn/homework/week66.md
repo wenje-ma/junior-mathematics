@@ -46,7 +46,7 @@ $$
 
 (综合与实践 第 4 题) 求图中 “L” 形角钢横截面 (外轮廓 $30\ \text{cm}\times30\ \text{cm}$, 壁厚 $10\ \text{cm}$) 的重心位置.
 
-![week66-1.svg](../../figures/week66-1.svg){width=50%}
+图中为一个 “L” 形 (角钢) 横截面, 外轮廓为 $30\ \text{cm}\times30\ \text{cm}$ 的正方形去掉右上角 $20\ \text{cm}\times20\ \text{cm}$ 的小正方形, 壁厚 $10\ \text{cm}$; 即由左侧竖条 $10\ \text{cm}\times30\ \text{cm}$ 与底部横条 $20\ \text{cm}\times10\ \text{cm}$ 组成.
 
 ### 解答 探究四
 

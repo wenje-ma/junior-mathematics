@@ -20,7 +20,7 @@
 
 (Exercise 7.1, Problem 1) In the following figures, are $\angle 1$ and $\angle 2$ vertical angles?
 
-![week30-1.svg](../../figures/week30-1.svg){width=100%}
+The figure shows four small diagrams (1)–(4) in sequence, each marking a pair of angles $\angle 1$ and $\angle 2$: in (1) the angles share a vertex but their sides are not opposite extensions; in (2) the angles share a vertex and their sides are respectively opposite extensions; in (3) the sides are not opposite extensions; in (4) the sides are not opposite extensions.
 
 ### Solution to Exercise 1
 
@@ -90,7 +90,7 @@ By **Definition 7.1.4** (Distance from a Point to a Line), the distance from poi
 
 (2) Among the three sides $AB$, $AC$, $CB$, which is longest? Why?
 
-![week30-2.svg](../../figures/week30-2.svg){width=50%}
+The figure shows right triangle $ABC$ with $\angle C=90^\circ$, i.e. $AC\perp BC$, $AB$ the hypotenuse, and vertices $A$, $B$, $C$ labeled.
 
 ### Solution to Exercise 6
 
@@ -130,7 +130,7 @@ The lines containing the two sides of $\angle B$ are respectively two cut lines,
 
 (3) If $\angle AOC=50^\circ$, find the degree measures of $\angle BOD$ and $\angle COB$.
 
-![week30-3.svg](../../figures/week30-3.svg){width=50%}
+The figure shows three lines $AB$, $CD$, $EF$ intersecting at a single point $O$, with the letters $A,B$, $C,D$, $E,F$ marked at the two ends of each line respectively.
 
 ### Solution to Problem 1
 
@@ -180,7 +180,7 @@ By **Definition 7.1.3** (Perpendicular) and **Basic Fact 7.1.1** (Perpendicular 
 
 (2) If $\angle EOC:\angle EOD=2:3$, find the degree measure of $\angle BOD$.
 
-![week30-4.svg](../../figures/week30-4.svg){width=50%}
+The figure shows lines $AB$, $CD$ intersecting at point $O$, with a ray $OE$ drawn from $O$ on the opposite side of $OA$ from ray $OC$, so that $OA$ lies inside $\angle EOC$ and bisects it.
 
 ### Solution to Problem 5
 
@@ -216,7 +216,7 @@ $\angle 1$ and $\angle 2$ share one side on the transversal, while their other s
 
 (Problem 7.1, Extension and Exploration, Problem 8) As shown, $AB\perp l$, $CB\perp l$, with $B$ the foot; then are the three points $A$, $B$, $C$ on the same line? Explain why.
 
-![week30-5.svg](../../figures/week30-5.svg){width=50%}
+The figure shows a horizontal line $l$, with point $B$ on $l$; from $B$ on opposite sides of $l$ are drawn rays $BA$ and $BC$ such that $AB\perp l$ and $CB\perp l$.
 
 ### Solution to Problem 8
 
@@ -268,7 +268,7 @@ Hence $\angle EOC=\angle DOF$. Also $OC$ and $OD$ are opposite extensions of eac
 
 (3) In each group of Figure 3, are the blue segments parallel to each other? How can you check?
 
-![week30-6.svg](../../figures/week30-6.svg){width=100%}
+The figure contains three groups of visual-illusion diagrams: Figure 1 shows two segments $a$, $b$ decorated at their endpoints with arrowheads (or feather tails) pointing in different directions, making the segments look unequal; Figure 2 shows two equal-sized blue circles $A$, $B$, surrounded respectively by a group of large circles and a group of small circles, making the circles look unequal; Figure 3 shows two blue segments with several diagonal short stripes between them, making the segments look non-parallel.
 
 ### Solution to Observation and Conjecture 1
 

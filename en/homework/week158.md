@@ -86,7 +86,7 @@ Substituting $x=3$, $y=4$ gives $4=\frac{k}{9}$, and solving gives $k=36$.
 
 (A) $y=\frac{5}{x}$; (B) $y=2x+3$; (C) $y=\frac{4}{x}$; (D) $y=-\frac{3}{x}$.
 
-![week158-1.svg](../../figures/week158-1.svg){width=50%}
+The figure shows a hyperbola in a rectangular coordinate plane, with its two branches lying respectively in the first quadrant and the third quadrant; the first-quadrant branch passes near the point $(1,4)$, and the two coordinate axes serve as asymptotes.
 
 ### Solution to Exercise 4
 
@@ -274,7 +274,7 @@ By **Definition 26.1.2** (Graph and Properties of the Inverse Proportional Funct
 
 (2) In the same rectangular coordinate system, as $\left|k\right|$ increases, does the position of the graph of the inverse proportional function $y=\frac{k}{x}$ move farther from or closer to the coordinate origin?
 
-![week158-2.svg](../../figures/week158-2.svg){width=100%}
+The figure shows multiple hyperbolas of the inverse proportional function $y=\frac{k}{x}$ (with $k$ taking various positive and negative values) plotted on the same rectangular coordinate plane, illustrating the symmetry of the hyperbolas about the lines $y=x$ and $y=-x$, and how the position of the hyperbola relative to the origin changes as $|k|$ varies.
 
 ### Solution to Information Technology Application 1
 

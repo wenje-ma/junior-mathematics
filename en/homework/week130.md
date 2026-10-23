@@ -38,7 +38,7 @@ Rearranging gives $x^2-20x+101=0$, whose discriminant is $\Delta=\left(-20\right
 
 (Exercise 25.3, Problem 2) As shown in the figure, the adjacent sides of rectangle $ABCD$ are $AD=1$ and $CD=4$. Is there a point $E$ on $AB$ such that $\angle DEC$ is a right angle?
 
-![week130-1.svg](../../figures/week130-1.svg){width=50%}
+The figure shows rectangle $ABCD$ with $AB$ placed horizontally at the bottom, $A$ at lower-left, $B$ at lower-right, $C$ at upper-right, and $D$ at upper-left; the short side $AD=1$ and the long side $CD=4$; point $E$ lies on the bottom side $AB$.
 
 ### Solution to Exercise 2
 

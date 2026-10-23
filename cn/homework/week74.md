@@ -292,7 +292,7 @@ $\blacksquare$
 
 (习题 15.3 拓广探索第 15 题) 要把一块三角形的土地均匀分给甲、乙、丙三家农户. 如果 $\angle C=90^\circ$, $\angle B=30^\circ$, 要使三家所得土地的大小、形状都相同, 试分一分并在图上画出.
 
-![week74-1.svg](../../figures/week74-1.svg){width=50%}
+图中为直角三角形 $ABC$, $\angle C=90^\circ$, $\angle B=30^\circ$, $\angle A=60^\circ$, 斜边 $AB$ 水平放置, 直角顶点 $C$ 在下方.
 
 ### 解答 习题十四
 

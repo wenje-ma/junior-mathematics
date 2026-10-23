@@ -10,7 +10,7 @@
 
 (Mathematics Activity, Activity 1: Building Equilateral Triangles) Take some equal-length magnetic rods. Can $3$ rods form $1$ equilateral triangle, and can $6$ rods form $4$ equilateral triangles? With $9$ rods, at most how many equilateral triangles can be formed? (Hint: consider solid figures.)
 
-![week64-1.svg](../../figures/week64-1.svg){width=50%}
+The figure shows, from left to right, structures built with equal-length magnetic rods: $3$ rods enclose $1$ equilateral triangle in the plane; $6$ rods form a perspective drawing of a regular tetrahedron, all $4$ faces of which are equilateral triangles; and further joined solid structures are shown built with $9$ rods.
 
 ### Solution to Activity 1
 

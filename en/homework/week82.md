@@ -176,7 +176,7 @@ Solving gives $x=6$. That is, the original side length of the square is $6\ \tex
 
 (Review Problems, Comprehensive Application, Problem 10) As shown in the figure is a schematic diagram of a hollow steel column of a hydraulic press. If its height $h$ is $18\ \text{m}$, its outer diameter $D$ is $1\ \text{m}$, its inner diameter $d$ is $0.4\ \text{m}$, and the mass of steel per cubic meter is $7.8\ \text{t}$, find the mass of this column. (Take $\pi$ as $3.14$, and keep the result to two decimal places.)
 
-![week82-1.svg](../../figures/week82-1.svg){width=50%}
+The figure shows a vertically placed hollow cylindrical steel column: height $h=18\ \text{m}$, outer diameter $D=1\ \text{m}$, inner diameter $d=0.4\ \text{m}$; its cross section is an annulus.
 
 ### Solution to Review Problem 10
 

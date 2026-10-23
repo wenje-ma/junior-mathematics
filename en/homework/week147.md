@@ -80,7 +80,7 @@ Rest the $CD$ edge of the tool on the circle so that $A$ and $B$ lie on the circ
 
 (Exercise 29.1, Problem 2) As shown in the figure, $\triangle ABC$ is an equilateral triangle with side length $2$. Construct its circumcircle and find the radius of the circumcircle.
 
-![week147-1.svg](../../figures/week147-1.svg){width=50%}
+The figure shows equilateral triangle $ABC$ with side length $2$, all three vertices lying on a circle whose center $O$ is inside the triangle at the intersection of the three altitudes (the circumcircle).
 
 ### Solution to Exercise 6
 
@@ -152,7 +152,7 @@ The result $6.2\,\text{m}$ lands in the annulus from $6\,\text{m}$ to $7\,\text{
 
 (Exercise 29.1, Review and Consolidation, Problem 3) Draw the figure formed by all points whose distance from the given point $O$ is greater than or equal to $2\,\text{cm}$ and less than or equal to $3\,\text{cm}$.
 
-![week147-2.svg](../../figures/week147-2.svg){width=50%}
+The figure shows an annulus centered at fixed point $O$: the inner circle has radius $2\,\text{cm}$ and the outer circle has radius $3\,\text{cm}$; the region between the two circles (including both inner and outer boundaries) is the required figure.
 
 ### Solution to Problem 3
 

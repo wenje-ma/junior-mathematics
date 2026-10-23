@@ -8,7 +8,7 @@
 
 (Math Activity, Activity 1, Puzzle-Building Game, Problem (1)) As shown in the figure, matchsticks are used to build a row of figures made up of triangles. If the figure contains $2$, $3$, or $4$ triangles, how many matchsticks are needed respectively? If the figure contains $n$ triangles, how many matchsticks are needed?
 
-![week13-1.svg](../../figures/week13-1.svg){width=100%}
+The figure shows a row of triangular figures built from matchsticks: triangles are placed side by side in a row, with adjacent triangles sharing a common side (the figure shows the cases with $2$, $3$, and $4$ triangles).
 
 ### Solution to Activity 1
 
@@ -22,7 +22,7 @@ Following this pattern, $n$ triangles require $3+2\left(n-1\right)=2n+1$ matchst
 
 (Math Activity, Activity 1, Puzzle-Building Game, Problem (2)) As shown in the figure, identical small squares are used to build a large square. Building the $1$-st square requires $4$ small squares, building the $2$-nd square requires $9$ small squares, and building the $3$-rd square requires $16$ small squares. Build and think: by this method, how many more small squares does the $n$-th square require than the $\left(n-1\right)$-th square?
 
-![week13-2.svg](../../figures/week13-2.svg){width=100%}
+The figure shows the $1$-st, $2$-nd, and $3$-rd squares built respectively from $2\times2$, $3\times3$, and $4\times4$ small squares.
 
 ### Solution to Activity 2
 

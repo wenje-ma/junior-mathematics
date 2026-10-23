@@ -52,7 +52,7 @@ Cube roots: $\sqrt\left[3\right] 0=0$, $\sqrt\left[3\right] 1=1$, $\sqrt\left[3\
 
 (Exercise 8.3, Problem 3) Represent the following real numbers on the number line and compare their sizes (connected by "$<$"): $-2$, $\sqrt 2$, $\frac{3}{2}$, $-\pi$.
 
-![week38-1.svg](../../figures/week38-1.svg){width=50%}
+The figure shows a number line with origin and positive direction marked; from left to right, four points are marked: $-\pi$ (about $-3.14$), $-2$, $\sqrt 2$ (about $1.414$), and $\frac{3}{2}=1.5$.
 
 ### Solution to Exercise 3
 
@@ -256,7 +256,7 @@ Estimate the range of each irrational number.
 
 (2) Find the sum of the areas of the two shaded parts in the figure.
 
-![week38-2.svg](../../figures/week38-2.svg){width=50%}
+The figure shows a large rectangle containing two squares placed side by side: the larger square has area $3\,\text{cm}^2$ (side $\sqrt 3$), the smaller square has area $1\,\text{cm}^2$ (side $1$); the two shaded regions are the parts of the large rectangle remaining after removing the two squares.
 
 ### Solution to Problem 8
 

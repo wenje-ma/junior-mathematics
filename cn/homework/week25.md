@@ -34,7 +34,7 @@
 
 (3) 连接 $A$, $C$ 两点, 画出线段 $AC$.
 
-![week25-2.svg](../../figures/week25-2.svg){width=100%}
+图中直线 $l$ 上有三点 $A$、$B$、$C$（$B$ 在中间）：过 $A$、$B$ 画出向两方延伸的直线 $AB$，以 $B$ 为端点向 $C$ 方向画出射线 $BC$，连接 $A$、$C$ 画出线段 $AC$。
 
 $\blacksquare$
 
@@ -48,7 +48,7 @@ $\blacksquare$
 
 从 $A$ 到 $B$ 的方向延长 $AB$, 在延长线上取点 $C$, 使 $BC=AB$, 则 $AC=AB+BC=2AB$.
 
-![week25-3.svg](../../figures/week25-3.svg){width=100%}
+图中线段 $AB$ 按从 $A$ 到 $B$ 的方向延长至点 $C$，使 $BC=AB$，故 $B$ 为 $AC$ 的中点、$AC=2AB$。
 
 $\blacksquare$
 
@@ -66,7 +66,7 @@ $$CB=\frac{1}{2}AB=\frac{1}{2}\times8=4\ \text{cm}.$$
 
 $$CD=CB-DB=4-1.5=2.5\ \text{cm}.$$
 
-![week25-1.svg](../../figures/week25-1.svg){width=50%}
+图中线段 $AB=8\ \text{cm}$，点 $C$ 是 $AB$ 的中点，点 $D$ 在线段 $CB$ 上，且 $DB=1.5\ \text{cm}$。
 
 $\blacksquare$
 
@@ -128,7 +128,7 @@ $\blacksquare$
 
 (3) 连接 $B$, $D$ 两点, 画出线段 $BD$.
 
-![week25-4.svg](../../figures/week25-4.svg){width=50%}
+图中四个点 $A$、$B$、$C$、$D$：过 $A$、$B$ 画出向两方延伸的直线 $AB$，以 $C$ 为端点沿 $CD$ 方向画出射线 $CD$，连接 $B$、$D$ 画出线段 $BD$。
 
 $\blacksquare$
 
@@ -158,7 +158,7 @@ $\blacksquare$
 
 画射线 $AP$, 在射线上顺次截取 $AB=a$, $BC=b$, $CD=b$, 则 $AD=a+2b$.
 
-![week25-5.svg](../../figures/week25-5.svg){width=100%}
+图中射线 $AP$ 上顺次截取 $AB=a$、$BC=b$、$CD=b$，所得线段 $AD=a+2b$。
 
 $\blacksquare$
 
@@ -212,7 +212,7 @@ $\blacksquare$
 
 若 $C$ 在 $AB$ 的延长线上: $AC=AB+BC=8+3=11\ \text{cm}$.
 
-![week25-6.svg](../../figures/week25-6.svg){width=100%}
+图示两种情形：左图点 $C$ 在线段 $AB$ 上且 $BC=3\ \text{cm}$（此时 $AC=5\ \text{cm}$）；右图点 $C$ 在 $AB$ 的延长线上且 $BC=3\ \text{cm}$（此时 $AC=11\ \text{cm}$）。
 
 故 $AC=5\ \text{cm}$ 或 $11\ \text{cm}$. $\blacksquare$
 

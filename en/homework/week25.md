@@ -34,7 +34,7 @@ By **Definition 6.2.1** (Line) and **Definition 6.2.3** (Ray and Segment), draw 
 
 (3) Connect points $A$ and $C$, drawing segment $AC$.
 
-![week25-2.svg](../../figures/week25-2.svg){width=100%}
+In the figure, line $l$ has three points $A$, $B$, $C$ (with $B$ in the middle): draw line $AB$ through $A$ and $B$ extending in both directions, draw ray $BC$ with $B$ as endpoint extending toward $C$, and connect $A$ and $C$ to draw segment $AC$.
 
 $\blacksquare$
 
@@ -48,7 +48,7 @@ By **Definition 6.2.3** (Ray and Segment) and **Definition 6.2.4** (Comparing Se
 
 Extend $AB$ in the direction from $A$ to $B$, take point $C$ on the extension so that $BC=AB$; then $AC=AB+BC=2AB$.
 
-![week25-3.svg](../../figures/week25-3.svg){width=100%}
+In the figure, segment $AB$ is extended in the direction from $A$ to $B$ to point $C$ so that $BC=AB$; hence $B$ is the midpoint of $AC$ and $AC=2AB$.
 
 $\blacksquare$
 
@@ -66,7 +66,7 @@ Point $D$ lies on $CB$, and $DB=1.5\ \text{cm}$, so
 
 $$CD=CB-DB=4-1.5=2.5\ \text{cm}.$$
 
-![week25-1.svg](../../figures/week25-1.svg){width=50%}
+In the figure, segment $AB=8\ \text{cm}$, point $C$ is the midpoint of $AB$, point $D$ lies on segment $CB$, and $DB=1.5\ \text{cm}$.
 
 $\blacksquare$
 
@@ -128,7 +128,7 @@ By **Definition 6.2.1** (Line) and **Definition 6.2.3** (Ray and Segment), draw 
 
 (3) Connect points $B$ and $D$, drawing segment $BD$.
 
-![week25-4.svg](../../figures/week25-4.svg){width=50%}
+In the figure there are four points $A$, $B$, $C$, $D$: draw line $AB$ through $A$ and $B$ extending in both directions, draw ray $CD$ with $C$ as endpoint in the direction of $CD$, and connect $B$ and $D$ to draw segment $BD$.
 
 $\blacksquare$
 
@@ -158,7 +158,7 @@ By **Definition 6.2.3** (Segment) and **Definition 6.2.4** (Comparing Segments),
 
 Draw ray $AP$, and cut off $AB=a$, $BC=b$, $CD=b$ in succession on the ray, so $AD=a+2b$.
 
-![week25-5.svg](../../figures/week25-5.svg){width=100%}
+In the figure, cut off $AB=a$, $BC=b$, $CD=b$ in succession on ray $AP$, so that the resulting segment $AD=a+2b$.
 
 $\blacksquare$
 
@@ -212,7 +212,7 @@ If $C$ lies on segment $AB$: $AC=AB-BC=8-3=5\ \text{cm}$.
 
 If $C$ lies on the extension of $AB$: $AC=AB+BC=8+3=11\ \text{cm}$.
 
-![week25-6.svg](../../figures/week25-6.svg){width=100%}
+The figure shows two cases: on the left, point $C$ lies on segment $AB$ with $BC=3\ \text{cm}$ (then $AC=5\ \text{cm}$); on the right, point $C$ lies on the extension of $AB$ with $BC=3\ \text{cm}$ (then $AC=11\ \text{cm}$).
 
 Hence $AC=5\ \text{cm}$ or $11\ \text{cm}$. $\blacksquare$
 

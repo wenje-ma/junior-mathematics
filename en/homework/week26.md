@@ -108,7 +108,7 @@ $OD$ bisects $\angle BOC$, so $\angle COD=\frac{1}{2}\angle BOC=30^{\circ}$.
 
 $$\angle AOD=\angle AOC+\angle COD=60^{\circ}+30^{\circ}=90^{\circ}.$$
 
-![week26-1.svg](../../figures/week26-1.svg){width=50%}
+In the figure, with $O$ as the vertex, the rays $OA$ and $OB$ form $\angle AOB=120^{\circ}$, ray $OC$ inside the angle bisects $\angle AOB$, and ray $OD$ inside the angle bisects $\angle BOC$.
 
 $\blacksquare$
 
@@ -398,7 +398,7 @@ If $OC$ lies inside $\angle AOB$: $\angle AOC=\angle AOB-\angle BOC=120^{\circ}-
 
 If $OC$ lies outside $\angle AOB$: $\angle AOC=\angle AOB+\angle BOC=120^{\circ}+30^{\circ}=150^{\circ}$.
 
-![week26-2.svg](../../figures/week26-2.svg){width=100%}
+The figure shows two cases: on the left, ray $OC$ lies inside $\angle AOB$ with $\angle BOC=30^{\circ}$, so $\angle AOC=90^{\circ}$; on the right, ray $OC$ lies outside $\angle AOB$ with $\angle BOC=30^{\circ}$, so $\angle AOC=150^{\circ}$.
 
 Hence $\angle AOC=90^{\circ}$ or $150^{\circ}$. $\blacksquare$
 

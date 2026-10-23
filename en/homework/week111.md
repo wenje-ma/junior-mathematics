@@ -86,7 +86,7 @@ $$
 
 By the triangle inequality (the sum of two sides greater than the third), $2x > y = 20-2x$, giving $x > 5$. Also the side lengths are positive, $y=20-2x > 0$, giving $x < 10$. So the range of the independent variable $x$ is $5 < x < 10$.
 
-![week111-1.svg](../../figures/week111-1.svg){width=50%}
+The figure shows a plane rectangular coordinate system with horizontal axis leg length $x$ and vertical axis base length $y$; a line segment joining the open endpoints $\left(5,10\right)$ and $\left(10,0\right)$ (endpoints excluded), namely the graph of $y=20-2x$ ($5<x<10$).
 
 $\blacksquare$
 
@@ -100,7 +100,7 @@ $\blacksquare$
 
 (1) When $x \geq 1$, $y=x-1$; when $x < 1$, $y=1-x$. Make a table, plot and join points, obtaining a V-shaped graph with vertex at $\left(1, 0\right)$.
 
-![week111-2.svg](../../figures/week111-2.svg){width=50%}
+The figure shows a plane rectangular coordinate system; a V-shaped polyline opening upward with vertex at $\left(1,0\right)$, the left ray having slope $-1$ and the right ray slope $1$, namely the graph of $y=\left|x-1\right|$.
 
 (2) The distance from $P\left(x, 0\right)$ to $\left(-3, 0\right)$ is $\left|x-\left(-3\right)\right|=\left|x+3\right|$. So the analytic expression is $y=\left|x+3\right|$, and the graph is V-shaped with vertex at $\left(-3, 0\right)$. $\blacksquare$
 
@@ -114,7 +114,7 @@ $\blacksquare$
 
 ### Solution to Review Problem 7
 
-![week111-3.svg](../../figures/week111-3.svg){width=50%}
+The figure shows one plane rectangular coordinate system containing: a straight line $y=x$ through the origin with slope $1$; and a hyperbola with two branches in the first and third quadrants, with the two coordinate axes as asymptotes, namely the graph of $y=\frac{1}{x}$; the two graphs intersect at $\left(1,1\right)$ and $\left(-1,-1\right)$.
 
 (1) From the graphs, when the graph of $y=x$ lies above the graph of $y=\frac{1}{x}$, $x > \frac{1}{x}$, i.e. $-1 < x < 0$ or $x > 1$.
 
@@ -136,6 +136,6 @@ $$
 
 For each definite value of the number of sides $n$, the number of diagonals $y$ has a unique definite value corresponding to it, so $y$ is a function of $n$.
 
-![week111-4.svg](../../figures/week111-4.svg){width=50%}
+The figure shows a plane rectangular coordinate system with horizontal axis number of sides $n$ and vertical axis number of diagonals $y$; it consists of isolated points $\left(3,0\right)$, $\left(4,2\right)$, $\left(5,5\right)$, $\left(6,9\right)$, etc., corresponding to the function values $y=\frac{n\left(n-3\right)}{2}$ for $n=3,4,5,6,\cdots$.
 
 $\blacksquare$

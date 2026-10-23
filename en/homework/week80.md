@@ -320,7 +320,7 @@ By **Definition 16.3.1** and **Definition 16.3.2**.
 
 (Exercise 16.3, Comprehensive Application, Problem 6) As shown in the figure, a circular steel plate of diameter $a+b$ has two circles of diameters $a$ and $b$ cut out from it. Find the area of the remaining steel plate.
 
-![week80-1.svg](../../figures/week80-1.svg){width=50%}
+The figure shows a large circle of diameter $a+b$, from which two smaller circles are cut out at the lower-left and lower-right positions: one of diameter $a$ and one of diameter $b$; the two small circles are externally tangent to each other and each internally tangent to the large circle, and the remaining region is the shaded steel plate.
 
 ### Solution to Problem 6
 

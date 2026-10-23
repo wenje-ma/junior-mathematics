@@ -154,7 +154,7 @@ By **Conclusion 26.2.4**, $a=-1<0$; the maximum is taken at $x=\frac l4$, with $
 
 (Exercise 26.4, Comprehensive Application, Problem 5) As shown in the figure, material of length $6\ \text{m}$ makes a window frame with a semicircle on top and a rectangle below. For what bottom width $x$ is the light-transmitting area $S$ maximized (rounded to one decimal place)?
 
-![week136-1.svg](../../figures/week136-1.svg){width=50%}
+The figure shows a window frame: the lower part is a rectangle and the upper part is a semicircle whose diameter coincides with the rectangle's bottom side, i.e. the bottom width $x$; the frame material consists of the rectangle's bottom side, its two vertical sides, and the top semicircular arc.
 
 ### Solution to Problem 5
 
@@ -172,7 +172,7 @@ By **Conclusion 26.2.4**, the area is maximized when $x=\frac{3}{2\left(\frac12+
 
 (Exercise 26.4, Comprehensive Application, Problem 6) A triangular piece of material is shown, with $\angle A=30^\circ$, $\angle C=90^\circ$, and $AB=12\ \text{cm}$. A rectangle $CDEF$ is cut out, with $D,E,F$ lying on $BC,AB,AC$ respectively. To maximize the rectangle's area, where should $E$ be chosen?
 
-![week136-2.svg](../../figures/week136-2.svg){width=50%}
+The figure shows right triangle $ABC$ with $\angle C=90^\circ$, $\angle A=30^\circ$, and hypotenuse $AB=12\ \text{cm}$; inside it is inscribed rectangle $CDEF$, where $C$ is the right-angle vertex, $D$ lies on leg $BC$, $E$ lies on hypotenuse $AB$, and $F$ lies on leg $AC$.
 
 ### Solution to Problem 6
 

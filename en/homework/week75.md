@@ -28,7 +28,7 @@ By **Conclusion 15.1.1** (Properties of Axis Symmetry), each tracing after foldi
 
 (Mathematics Activity, Activity 3: Equal Segments in an Isosceles Triangle) Conjecture whether the distances $DE$, $DF$ from the midpoint $D$ of the base of an isosceles triangle to the two legs are equal; prove your conclusion; if $DE$, $DF$ are respectively the medians on the two legs or the bisectors of $\angle ADB$, $\angle ADC$, are they still equal?
 
-![week75-1.svg](../../figures/week75-1.svg){width=50%}
+The figure shows an isosceles triangle $ABC$ with $AB=AC$, the base $BC$ placed horizontally, and $D$ the midpoint of $BC$; $DE\perp AB$ with foot $E$, and $DF\perp AC$ with foot $F$.
 
 ### Solution to Activity 3
 

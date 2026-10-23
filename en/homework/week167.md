@@ -304,7 +304,7 @@ Using a calculator to find the inverse trigonometric functions:
 
 (D) $\frac{CD}{CB}$
 
-![week167-1.svg](../../figures/week167-1.svg){width=50%}
+The figure shows right triangle $ABC$ with $\angle ACB=90^\circ$, and $CD$ is the altitude to the hypotenuse $AB$, with $D$ on $AB$ and $CD\perp AB$.
 
 ### Solution to Problem 6
 
@@ -320,7 +320,7 @@ However, $\frac{CD}{CB}=\cos\angle BCD=\cos A$, which is not equal to $\sin A$. 
 
 (Problem 28.1, Comprehensive Application, Problem 7) As shown in the figure, a gable (isosceles triangle) steel frame of height $3.5\ \text{m}$ and base angle $32^{\circ}$ is to be welded. About how long a steel is needed (round the result to two decimal places)?
 
-![week167-2.svg](../../figures/week167-2.svg){width=50%}
+The figure shows an A-frame (isosceles triangle) steel frame $ABC$, with middle vertical column $CD\perp AB$ and $CD=3.5\ \text{m}$; base angles $\angle A=\angle B=32^\circ$, and $D$ is the midpoint of $AB$.
 
 ### Solution to Problem 7
 
@@ -340,7 +340,7 @@ The total length of steel is $AC+BC+AB=2AC+2AD\approx 2\times 6.605+2\times 5.60
 
 (Problem 28.1, Comprehensive Application, Problem 8) As shown in the figure, the lengths of two adjacent sides of a parallelogram board are $62.31\ \text{cm}$ and $35.24\ \text{cm}$, and the angle between them is $35^{\circ}40'$. Find the area of this board (round the result to two decimal places).
 
-![week167-3.svg](../../figures/week167-3.svg){width=50%}
+The figure shows parallelogram board $ABCD$ with adjacent sides $AB=62.31\ \text{cm}$ and $AD=35.24\ \text{cm}$, and included angle $\angle A=35^\circ40'$.
 
 ### Solution to Problem 8
 

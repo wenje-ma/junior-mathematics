@@ -62,7 +62,7 @@ $\therefore AD\parallel BC$ (\_\_\_\_\_\_).
 
 $\therefore\angle C+\angle D=180^\circ$ (\_\_\_\_\_\_).
 
-![week32-1.svg](../../figures/week32-1.svg){width=50%}
+图中为四边形 $ABCD$，顶点按顺序 $A$-$B$-$C$-$D$ 排列；$\angle A$ 与 $\angle B$ 是直线 $AD$, $BC$ 被直线 $AB$ 所截得的同旁内角，$\angle C$ 与 $\angle D$ 是直线 $AD$, $BC$ 被直线 $CD$ 所截得的同旁内角。
 
 ### 解答 练习四
 

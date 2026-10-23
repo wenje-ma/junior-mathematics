@@ -46,7 +46,7 @@ By **Conclusion 26.3.1**, the roots are the horizontal coordinates of the common
 
 (2) Observing the graph, for which values of $x$ is the function value $0$?
 
-![week135-1.svg](../../figures/week135-1.svg){width=50%}
+The figure shows the graph of the quadratic function $y=x^2-2x-2$ in a rectangular coordinate plane: an upward-opening parabola with vertex $(1,-3)$, axis of symmetry the line $x=1$, intersecting the $x$-axis at approximately $(-0.7,0)$ and $(2.7,0)$, and the $y$-axis at $(0,-2)$.
 
 ### Solution to Problem 1
 
@@ -112,7 +112,7 @@ taking the positive root $t=12$. Hence it takes $12\ \text{s}$ to travel $180\ \
 
 (3) For what values of $x$ is the function value less than $0$?
 
-![week135-2.svg](../../figures/week135-2.svg){width=50%}
+The figure shows the graph of the quadratic function $y=x^2-2x-3$ in a rectangular coordinate plane: an upward-opening parabola with vertex $(1,-4)$, axis of symmetry the line $x=1$, intersecting the $x$-axis at $(-1,0)$ and $(3,0)$, and the $y$-axis at $(0,-3)$.
 
 ### Solution to Problem 5
 

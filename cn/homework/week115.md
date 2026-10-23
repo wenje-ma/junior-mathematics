@@ -16,7 +16,7 @@
 
 当 $2 < t \leq 4$ 时, $T=20+5\left(t-2\right)=5t+10$.
 
-![week115-1.svg](../../figures/week115-1.svg){width=50%}
+图中为平面直角坐标系, 横轴为时间 $t$ (单位: h), 纵轴为温度 $T$ (单位: $^\circ\text{C}$); 图象由两段组成: $0\leq t\leq2$ 时为高度 $20^\circ\text{C}$ 的水平线段, $2<t\leq4$ 时为从 $\left(2,20\right)$ 上升到 $\left(4,30\right)$ 的线段.
 
 $\blacksquare$
 

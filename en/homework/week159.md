@@ -144,7 +144,7 @@ By **Definition 26.1.2**, $k=s>0$, so the graph is the branch of the hyperbola i
 
 (2) When $V=9\ \text{m}^3$, find the density $\rho$ of the carbon dioxide.
 
-![week159-1.svg](../../figures/week159-1.svg){width=50%}
+The figure shows a branch of a hyperbola in the first quadrant of a rectangular coordinate plane, with volume $V$ (in $\text{m}^3$) on the horizontal axis and density $\rho$ (in $\text{kg/m}^3$) on the vertical axis; the curve passes through point $A(5,1.98)$ and approaches both coordinate axes as asymptotes.
 
 ### Solution to Problem 6
 
@@ -184,7 +184,7 @@ Let $\rho=\frac{k}{V}$. Substituting $A\left(5,1.98\right)$ gives $1.98=\frac{k}
 
 (4) If the current limit of an appliance powered by this storage battery cannot exceed $10\ \text{A}$, what range should the variable resistance of the appliance be controlled within?
 
-![week159-2.svg](../../figures/week159-2.svg){width=50%}
+The figure shows a branch of a hyperbola in the first quadrant of a rectangular coordinate plane, with resistance $R$ (in $\Omega$) on the horizontal axis and current $I$ (in A) on the vertical axis; the curve passes through the point $(9,4)$ and approaches both coordinate axes as asymptotes.
 
 ### Solution to Problem 8
 

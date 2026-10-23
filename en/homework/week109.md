@@ -22,7 +22,7 @@
 
 Plot points $\left(x, y\right)$ in the plane rectangular coordinate system and connect them with a smooth curve, obtaining a straight line.
 
-![week109-1.svg](../../figures/week109-1.svg){width=50%}
+The figure shows a plane rectangular coordinate system with integer tick marks on both axes; a straight line through points $\left(0,-1\right)$ and $\left(1,1\right)$ (slope $2$), namely the graph of $y=2x-1$.
 
 (2) By **Definition 22.2.1** (Graph of a Function), the coordinates of a point on the graph satisfy the analytic expression.
 
@@ -48,7 +48,7 @@ Substitute $x=2.5$ into $y=2x-1$: $y=2\times2.5-1=4$, which matches the y-coordi
 
 Plot points in the plane rectangular coordinate system and connect them with a smooth curve, obtaining an upward-opening curve.
 
-![week109-2.svg](../../figures/week109-2.svg){width=50%}
+The figure shows a plane rectangular coordinate system with integer tick marks on both axes; an upward-opening parabola symmetric about the $y$-axis, with vertex $\left(0,1\right)$ and passing through $\left(-1,2\right)$, $\left(1,2\right)$, $\left(-2,5\right)$, $\left(2,5\right)$, namely the graph of $y=x^2+1$.
 
 (2) From the graph, when $x<0$, the curve descends from left to right, i.e. $y$ decreases as $x$ increases; when $x>0$, the curve rises from left to right, i.e. $y$ increases as $x$ increases. $\blacksquare$
 
@@ -132,7 +132,7 @@ By **Conclusion 22.2.3** (Three Ways of Representing a Function), analytic metho
 
 Graphical method: in the plane rectangular coordinate system, take $a$ as the x-coordinate and $C$ as the y-coordinate, and draw the ray of $C=3a$ for $a>0$.
 
-![week109-3.svg](../../figures/week109-3.svg){width=50%}
+The figure shows a plane rectangular coordinate system with horizontal axis $a$ and vertical axis $C$; a ray starting at the origin and extending up-right in the first quadrant (slope $3$), namely the graph of $C=3a$ ($a>0$).
 
 $\blacksquare$
 
@@ -150,7 +150,7 @@ $$
 s = 200 - 25t \quad \left(0 \leq t \leq 8\right).
 $$
 
-![week109-4.svg](../../figures/week109-4.svg){width=50%}
+The figure shows a plane rectangular coordinate system with horizontal axis time $t$ (unit: min) and vertical axis distance $s$ (unit: m); a line segment joining points $\left(0,200\right)$ and $\left(8,0\right)$, namely the graph of $s=200-25t$ ($0\leq t\leq8$).
 
 When the boat reaches the dock, $s=0$, i.e. $200-25t=0$, giving $t=8\ \text{min}$. Thus the boat takes $8\ \text{min}$ to reach the dock. $\blacksquare$
 
@@ -166,11 +166,11 @@ When the boat reaches the dock, $s=0$, i.e. $200-25t=0$, giving $t=8\ \text{min}
 
 (1) By **Conclusion 22.2.2** (Steps for Plotting a Graph by the Point-Plotting Method), make a table, plot and join points; the graph of $y=0.5x$ is a straight line through the origin.
 
-![week109-5.svg](../../figures/week109-5.svg){width=50%}
+The figure shows a plane rectangular coordinate system; a straight line through the origin with slope $0.5$, passing through the first and third quadrants, namely the graph of $y=0.5x$.
 
 (2) Make a table, plot and join points; the graph of $y=\frac{3}{x}\ \left(x>0\right)$ is a curve in the first quadrant.
 
-![week109-6.svg](../../figures/week109-6.svg){width=50%}
+The figure shows a plane rectangular coordinate system; a branch of a hyperbola in the first quadrant, descending from upper-left to lower-right with the two coordinate axes as asymptotes, passing through points such as $\left(1,3\right)$ and $\left(3,1\right)$, namely the graph of $y=\frac{3}{x}$ ($x>0$).
 
 $\blacksquare$
 
@@ -288,7 +288,7 @@ $$
 y = 500 + 20x - 25x = 500 - 5x \quad \left(0 \leq x \leq 100\right).
 $$
 
-![week109-7.svg](../../figures/week109-7.svg){width=50%}
+The figure shows a plane rectangular coordinate system with horizontal axis time $x$ (unit: s) and vertical axis distance $y$ between the two cars (unit: m); a line segment joining points $\left(0,500\right)$ and $\left(100,0\right)$, namely the graph of $y=500-5x$ ($0\leq x\leq100$).
 
 $\blacksquare$
 

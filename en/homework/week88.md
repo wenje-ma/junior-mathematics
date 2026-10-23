@@ -220,7 +220,7 @@ By **Definition 18.2.3**.
 
 (Exercise 18.2, Comprehensive Application, Problem 6) As shown in the figure, there are two rectangular flower beds, A and B. Flower bed A has length $a$ and width $b$; flower bed B has length $\left(a+b\right)$ and width $\left(a-b\right)$ ($a>b$). Which flower bed has the larger area? By how much?
 
-![week88-1.svg](../../figures/week88-1.svg){width=50%}
+The figure shows two rectangular flower beds placed side by side: on the left, flower bed A with length $a$ and width $b$; on the right, flower bed B with length $\left(a+b\right)$ and width $\left(a-b\right)$ ($a>b$).
 
 ### Solution to Problem 6
 

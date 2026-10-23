@@ -48,7 +48,7 @@ In the second case the side lengths are $4$, $4$, $1$: $4+1=5>4$, $4+4=8>1$; the
 
 (Exercise 13.2, Problem 1) As shown, through vertex $C$ of $\triangle ABC$, draw its median, angle bisector and altitude respectively.
 
-![week62-1.svg](../../figures/week62-1.svg){width=50%}
+The figure shows an arbitrary triangle $ABC$, with vertex $C$ on top and side $AB$ placed horizontally at the bottom.
 
 ### Solution to Exercise 3
 
@@ -66,7 +66,7 @@ By **Definition 13.2.3** (Altitude), drop a perpendicular from vertex $C$ to the
 
 (2) As in figure (2), $AD$, $BE$, $CF$ are the three angle bisectors of $\triangle ABC$; then $\angle 1=\;\_\_\;$, $\angle 3=\frac{1}{2}\;\_\_\;$, $\angle ACB=2\;\_\_\;$.
 
-![week62-2.svg](../../figures/week62-2.svg){width=100%}
+The figure shows two triangles side by side: in figure (1), $D$, $E$, $F$ are the midpoints of sides $BC$, $AC$, $AB$ respectively, and $AD$, $BE$, $CF$ are the three medians; in figure (2), $AD$, $BE$, $CF$ bisect $\angle BAC$, $\angle ABC$, $\angle ACB$ respectively and meet the opposite sides at $D$, $E$, $F$.
 
 ### Solution to Exercise 4
 
@@ -112,7 +112,7 @@ Hence there are $2$ choices in total. $\blacksquare$
 
 (Exercise 13.2, Review and Consolidation, Problem 3) For each triangle below, through vertex $A$ draw its median, angle bisector and altitude.
 
-![week62-3.svg](../../figures/week62-3.svg){width=100%}
+The figure shows three triangles arranged from left to right: (1) an acute triangle with vertex $A$ on top and $BC$ as the horizontal base; (2) a right triangle with $\angle A=90^\circ$; (3) an obtuse triangle with obtuse $\angle A$ and $BC$ as the horizontal base.
 
 ### Solution to Problem 3
 
@@ -132,7 +132,7 @@ For the acute triangle (1), the median, angle bisector and altitude all lie insi
 
 (4) If $BC=8$, $AF=5$, then $S_{\triangle ABC}=\;\_\_\;$, $S_{\triangle ABE}=\;\_\_\;$.
 
-![week62-4.svg](../../figures/week62-4.svg){width=50%}
+The figure shows $\triangle ABC$ with side $BC$ horizontal and vertex $A$ on top; $E$ is the midpoint of $BC$, $D$ is the intersection of angle bisector $AD$ with $BC$, and $F$ is the foot of the perpendicular with $AF\perp BC$.
 
 ### Solution to Problem 4
 
@@ -180,7 +180,7 @@ Check the two cases by **Conclusion 13.2.1** (Relationship Among the Three Sides
 
 (Exercise 13.2, Extension and Exploration, Problem 7) As shown, in $\triangle ABC$, if $AB=2$, $BC=4$, what is the ratio of the altitudes $AD$ and $CE$ of $\triangle ABC$? (Hint: use the area formula of a triangle.)
 
-![week62-5.svg](../../figures/week62-5.svg){width=50%}
+The figure shows $\triangle ABC$ with side $BC$ horizontal, vertex $A$ on top, $AB=2$ and $BC=4$; $AD$ is the altitude from $A$ to $BC$ with foot $D$ on $BC$, and $CE$ is the altitude from $C$ to $AB$ with foot $E$ on $AB$.
 
 ### Solution to Problem 7
 
@@ -202,7 +202,7 @@ $\blacksquare$
 
 (Exercise 13.2, Extension and Exploration, Problem 8) As shown, in $\triangle ABC$, $AD$ is its angle bisector, $DE\parallel AC$, $DE$ meets $AB$ at point $E$, $DF\parallel AB$, $DF$ meets $AC$ at point $F$. What is the relationship between $\angle 1$ and $\angle 2$ in the figure? Why?
 
-![week62-6.svg](../../figures/week62-6.svg){width=50%}
+The figure shows $\triangle ABC$ with $AD$ bisecting $\angle BAC$ and meeting $BC$ at $D$; through $D$, draw $DE\parallel AC$ meeting $AB$ at $E$ and $DF\parallel AB$ meeting $AC$ at $F$; $\angle 1$ is the angle $\angle ADE$ between $AD$ and $DE$, and $\angle 2$ is the angle $\angle ADF$ between $AD$ and $DF$.
 
 ### Solution to Problem 8
 

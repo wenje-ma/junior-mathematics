@@ -20,7 +20,7 @@ If another origin is chosen to rebuild the system, the coordinates of all points
 
 (Exercise 9.2, Problem 2) Li Ming's home is $1000\,m$ east of the school and then $1500\,m$ north; Zhang Hua's home is $2000\,m$ west of the school and then $500\,m$ south; Wang Fang's home is $1500\,m$ south of the school. Establish an appropriate rectangular coordinate system, draw the positions of the school and these three students' homes, and represent them with coordinates.
 
-![week42-2.svg](../../figures/week42-2.svg){width=50%}
+The figure shows a location map with the school as reference point, marking the relative positions of the school, Li Ming's home, Zhang Hua's home, and Wang Fang's home.
 
 ### Solution to Exercise 2
 
@@ -138,7 +138,7 @@ Conversely, the direction is reversed and the distance is unchanged: the positio
 
 (Exercise 9.2, Review and Consolidation, Problem 4) As shown in the figure, in a flying display, $6$ planes $A$, $B$, $C$, $D$, $E$, $F$ fly in formation while keeping the formation unchanged. Write down their coordinates respectively. When plane $A$ flies to position $A'$, where do planes $B$, $C$, $D$, $E$, $F$ fly to? Use coordinates to represent the new positions of these $6$ planes.
 
-![week42-1.svg](../../figures/week42-1.svg){width=50%}
+The figure shows a Cartesian coordinate plane with six planes at positions $A\left(1,1\right)$, $B\left(-3,1\right)$, $C\left(-1,-1\right)$, $D\left(-5,1\right)$, $E\left(-2,-2\right)$, $F\left(1,-3\right)$.
 
 ### Solution to Problem 4
 
@@ -162,7 +162,7 @@ $\blacksquare$
 
 (Exercise 9.2, Review and Consolidation, Problem 5) As shown in the figure, translate parallelogram $ABCD$ to the left by $2$ units of length, then up by $3$ units of length, to obtain parallelogram $A'B'C'D'$. Draw the translated figure and indicate the coordinates of each vertex.
 
-![week42-3.svg](../../figures/week42-3.svg){width=50%}
+The figure shows parallelogram $ABCD$ in a Cartesian coordinate plane, with vertices $A\left(-2,-2\right)$, $B\left(2,-2\right)$, $C\left(3,2\right)$, $D\left(-1,2\right)$.
 
 ### Solution to Problem 5
 
@@ -222,7 +222,7 @@ That is, the coordinates of $E$ are $\left(7,-12\right)$. $\blacksquare$
 
 (Exercise 9.2, Extension and Exploration, Problem 10) As shown in the figure, this is part of a schematic diagram of a zoo drawn using a rectangular coordinate system. If this rectangular coordinate system takes due east and due north as the positive directions of the $x$-axis and $y$-axis respectively, and the coordinates of Monkey Mountain and Lion-Tiger Hill are $\left(2,1\right)$ and $\left(8,2\right)$ respectively, can you mark the position of the Panda House $\left(6,6\right)$ on this figure?
 
-![week42-4.svg](../../figures/week42-4.svg){width=50%}
+The figure shows a partial map of a zoo, marking Monkey Hill at $\left(2,1\right)$ and Lion-Tiger Hill at $\left(8,2\right)$.
 
 ### Solution to Problem 10
 

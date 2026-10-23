@@ -372,7 +372,7 @@ $$
 
 (Problem 27.2, Extension and Exploration, Problem 14) As shown in the figure, in $\triangle ABC$, $AB=8$, $AC=6$, $BC=9$. A moving point $D$ starts from point $B$ and moves along side $BA$ toward point $A$ at a speed of $2$ units per second, while the line $DE\parallel BC$ meets $AC$ at point $E$. Let $y$ be the length of $DE$ after $x$ seconds. Write the function expression for $y$ in terms of $x$ and draw its graph.
 
-![week163-1.svg](../../figures/week163-1.svg){width=50%}
+The figure shows $\triangle ABC$ with $AB=8$, $AC=6$, and $BC=9$; point $D$ moves along side $BA$ from $B$ toward $A$, and through $D$ a line $DE\parallel BC$ is drawn meeting $AC$ at $E$.
 
 ### Solution to Problem 14
 

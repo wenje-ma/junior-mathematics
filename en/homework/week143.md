@@ -20,7 +20,7 @@ The hands of a clock turn about the center of the dial: the center of rotation i
 
 (Exercise 28.1, Problem 2) As shown in the figure, a lever turns about the fulcrum to pry up a heavy object. Where is the center of rotation of the lever? Which angle is the angle of rotation?
 
-![week143-1.svg](../../figures/week143-1.svg){width=50%}
+The figure shows a straight lever with fulcrum $O$; a heavy object hangs from the left end $A$, and the right end is pressed downward. After the lever turns, the left end moves to the corresponding point $A'$; the angle between $OA$ and $OA'$ is the rotation angle $\angle AOA'$.
 
 ### Solution to Exercise 2
 
@@ -50,7 +50,7 @@ The suspension point of the swing is the center of rotation $O$. Take a point $P
 
 (Exercise 28.1, Problem 1) As shown in the figure, in $\triangle ABC$, $AB=AC$, and $P$ is a point on the side $BC$. Taking the point $A$ as the center of rotation and the angle of rotation equal to $\angle BAC$, rotate $\triangle ABP$ counterclockwise and draw the rotated figure.
 
-![week143-3.svg](../../figures/week143-3.svg){width=50%}
+The figure shows isosceles triangle $ABC$ with $AB=AC$ and point $P$ on the base $BC$; the task is to rotate $\triangle ABP$ counterclockwise about center $A$ through the angle equal to $\angle BAC$.
 
 ### Solution to Exercise 4
 
@@ -66,7 +66,7 @@ The center of rotation $A$ stays fixed. Since $AB=AC$ and the angle of rotation 
 
 (2) Change the shape of the basic figure and observe the effect after rotation.
 
-![week143-5.svg](../../figures/week143-5.svg){width=100%}
+The figure shows several groups of rotation-pattern examples: each group takes a simple basic figure (such as a right triangle or a small arrow) and rotates it successively about a fixed point through certain angles, producing different symmetric patterns, illustrating how changes in the rotation center and angle affect the resulting pattern.
 
 ### Solution to Exercise 5
 
@@ -90,7 +90,7 @@ Snowflake pattern: the center of rotation is the center of the snowflake, and th
 
 (Exercise 28.1, Review and Consolidation, Problem 2) Rotate the five-pointed star pattern in the figure about its center $O$. Through what minimum angle of rotation will the rotated five-pointed star coincide with itself? Discuss an equilateral triangle similarly.
 
-![week143-6.svg](../../figures/week143-6.svg){width=50%}
+The figure shows a five-pointed star pattern with center labeled $O$, together with an equilateral triangle; both are to be rotated about their respective centers until they coincide with themselves.
 
 ### Solution to Problem 2
 
@@ -104,7 +104,7 @@ An equilateral triangle has $3$ equal angles, and the central angle subtended by
 
 (Exercise 28.1, Review and Consolidation, Problem 3) As shown in the figure, draw the figures obtained by rotating $\triangle ABC$ about the point $O$ counterclockwise through $90^\circ$ and $180^\circ$ respectively.
 
-![week143-4.svg](../../figures/week143-4.svg){width=100%}
+The figure shows $\triangle ABC$ in the plane, with a point $O$ outside the triangle; the task is to draw the figures obtained by rotating $\triangle ABC$ about $O$ counterclockwise through $90^\circ$ and $180^\circ$ respectively.
 
 ### Solution to Problem 3
 
@@ -140,7 +140,7 @@ By **Property 28.1.1** (Properties of Rotation), determine the corresponding poi
 
 (Exercise 28.1, Comprehensive Application, Problem 5) As shown in the figure, $\triangle ABC$ is an equilateral triangle, $D$ is the midpoint of the side $BC$, and rotating $\triangle ADC$ about the point $A$ clockwise through $60^\circ$ gives $\triangle AEB$. Find the measures of $\angle ABE$, $\angle DAE$, and $\angle BED$.
 
-![week143-2.svg](../../figures/week143-2.svg){width=50%}
+The figure shows equilateral triangle $ABC$ with $D$ the midpoint of side $BC$; rotating $\triangle ADC$ about point $A$ clockwise through $60^\circ$ gives $\triangle AEB$, with point $E$ lying outside $\triangle ABC$, and $BE$ connected to $BD$.
 
 ### Solution to Problem 5
 

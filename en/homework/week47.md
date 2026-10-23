@@ -57,7 +57,7 @@ Simplify: $8x+5y=234$, $5x+3y=142$. Multiply the first by $3$ and the second by 
 
 (Exercise 10.3, Problem 4) As shown in the figure, a rectangular plot of land $200\ \text{m}$ long and $100\ \text{m}$ wide is to be planted with two crops, type A and type B, such that the ratio of the total yield of crop A to crop B is $3:4$. The ratio of the per-unit-area yield of crop A to crop B is $1:2$. The plot is now divided along the other direction (horizontal) into two rectangles $DMNC$ and $MABN$, planted with crop A and crop B respectively. Find the length of $AM$.
 
-![week47-1.svg](../../figures/week47-1.svg){width=50%}
+The figure shows a rectangular field $200\,\text{m}$ long and $100\,\text{m}$ wide, divided horizontally into two rectangles $DMNC$ and $MABN$, with point $M$ marked on the dividing line.
 
 ### Solution to Exercise 4
 
@@ -231,7 +231,7 @@ Substitute: $3\left(y+25\right)+2y=450$, i.e. $5y=375$, $y=75$, $x=100$. Thus ty
 
 (Exercise 10.3, Comprehensive Application, Problem 5) As shown in the figure, the school plans to design horizontal and vertical paths parallel to $AD$ and $AB$ respectively on a rectangular field $ABCD$ of length $18\ \text{m}$ and width $13\ \text{m}$, with turf laid on the rest. If the paths have equal width and the six lawn patches are identical in shape and size, and on one lawn patch the two sides satisfy $AM:AN=8:9$, what is the width of the path?
 
-![week47-2.svg](../../figures/week47-2.svg){width=50%}
+The figure shows a rectangular field $ABCD$ measuring $18\,\text{m}$ by $13\,\text{m}$, with horizontal and vertical paths parallel to $AD$ and $AB$ dividing it into six lawn sections of identical shape and size.
 
 ### Solution to Problem 5
 

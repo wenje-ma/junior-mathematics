@@ -106,7 +106,7 @@ It cannot. The sample contains only seventh-grade boys, includes neither girls n
 
 (Review Problems, Comprehensive Application, Problem 7) The operating mileage (km) of high-speed rail from 2013 to 2022 was $11028,16456,19838,22980,25164,29904,35388,37929,40139,42241$; the passenger volume (ten thousand people) was $52962,70378,96139,122128,175216,205430,235833,155707,192236,127533$. Choose an appropriate statistical chart to describe the changes.
 
-![week59-1.svg](../../figures/week59-1.svg){width=50%}
+The figure is a compound line chart with years (2013–2022) on the horizontal axis; the vertical axes respectively represent high-speed rail operating mileage (km) and passenger volume (10,000 person-trips), with two lines drawn.
 
 ### Solution to Review Problem 7
 
@@ -138,7 +138,7 @@ Maximum $8.3$, minimum $6.9$, range $1.4$. Take a class width of $0.2$ for group
 
 (Review Problems, Extension and Exploration, Problem 10) Advertising expenditure and sales revenue (ten thousand yuan): $\left(1,12\right),\left(2,20\right),\left(4,25\right),\left(5,30\right),\left(7,40\right)$. Draw a trend chart and predict the sales revenue when the advertising expenditure is $8$ ten-thousand yuan.
 
-![week59-2.svg](../../figures/week59-2.svg){width=50%}
+The figure is a trend chart with advertising expenditure (10,000 yuan) on the horizontal axis and sales revenue (10,000 yuan) on the vertical axis; scatter points are plotted with a trend line drawn through them.
 
 ### Solution to Review Problem 10
 

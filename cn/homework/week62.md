@@ -48,7 +48,7 @@
 
 (练习 13.2 第 1 题) 如图, 过 $\triangle ABC$ 的顶点 $C$ 分别画出它的中线、角平分线和高.
 
-![week62-1.svg](../../figures/week62-1.svg){width=50%}
+图中为一个任意三角形 $ABC$, 顶点 $C$ 在上方, 边 $AB$ 水平放置在下方.
 
 ### 解答 练习三
 
@@ -66,7 +66,7 @@
 
 (2) 如图 (2), $AD$, $BE$, $CF$ 是 $\triangle ABC$ 的三条角平分线, 则 $\angle 1=\;\_\_\;$, $\angle 3=\frac{1}{2}\;\_\_\;$, $\angle ACB=2\;\_\_\;$.
 
-![week62-2.svg](../../figures/week62-2.svg){width=100%}
+图中左右并排两个三角形: 图 (1) 中 $D$, $E$, $F$ 依次为边 $BC$, $AC$, $AB$ 的中点, $AD$, $BE$, $CF$ 为三条中线; 图 (2) 中 $AD$, $BE$, $CF$ 依次平分 $\angle BAC$, $\angle ABC$, $\angle ACB$ 并分别交对边于 $D$, $E$, $F$.
 
 ### 解答 练习四
 
@@ -112,7 +112,7 @@ $$
 
 (习题 13.2 复习巩固第 3 题) 对于下面每个三角形, 分别过顶点 $A$ 画出它的中线、角平分线和高.
 
-![week62-3.svg](../../figures/week62-3.svg){width=100%}
+图中从左到右依次排列三个三角形: (1) 为锐角三角形, 顶点 $A$ 在上方, $BC$ 为水平底边; (2) 为直角三角形, $\angle A=90^\circ$; (3) 为钝角三角形, $\angle A$ 为钝角, $BC$ 为水平底边.
 
 ### 解答 习题三
 
@@ -132,7 +132,7 @@ $$
 
 (4) 若 $BC=8$, $AF=5$, 则 $S_{\triangle ABC}=\;\_\_\;$, $S_{\triangle ABE}=\;\_\_\;$.
 
-![week62-4.svg](../../figures/week62-4.svg){width=50%}
+图中为 $\triangle ABC$, 边 $BC$ 水平, 顶点 $A$ 在上方; $E$ 为 $BC$ 的中点, $D$ 为角平分线 $AD$ 与 $BC$ 的交点, $F$ 为垂足且 $AF\perp BC$.
 
 ### 解答 习题四
 
@@ -180,7 +180,7 @@ $$
 
 (习题 13.2 拓广探索第 7 题) 如图, 在 $\triangle ABC$ 中, 若 $AB=2$, $BC=4$, 则 $\triangle ABC$ 的高 $AD$ 与 $CE$ 的比是多少? (提示: 利用三角形的面积公式.)
 
-![week62-5.svg](../../figures/week62-5.svg){width=50%}
+图中为 $\triangle ABC$, 边 $BC$ 水平, 顶点 $A$ 在上方, $AB=2$, $BC=4$; $AD$ 是从 $A$ 向 $BC$ 作的高, 垂足 $D$ 在 $BC$ 上; $CE$ 是从 $C$ 向 $AB$ 作的高, 垂足 $E$ 在 $AB$ 上.
 
 ### 解答 习题七
 
@@ -202,7 +202,7 @@ $\blacksquare$
 
 (习题 13.2 拓广探索第 8 题) 如图, 在 $\triangle ABC$ 中, $AD$ 是它的角平分线, $DE\parallel AC$, $DE$ 交 $AB$ 于点 $E$, $DF\parallel AB$, $DF$ 交 $AC$ 于点 $F$. 图中 $\angle 1$ 与 $\angle 2$ 有什么关系? 为什么?
 
-![week62-6.svg](../../figures/week62-6.svg){width=50%}
+图中为 $\triangle ABC$, $AD$ 平分 $\angle BAC$ 交 $BC$ 于 $D$; 过 $D$ 作 $DE\parallel AC$ 交 $AB$ 于 $E$, 作 $DF\parallel AB$ 交 $AC$ 于 $F$; $\angle 1$ 为 $AD$ 与 $DE$ 的夹角 $\angle ADE$, $\angle 2$ 为 $AD$ 与 $DF$ 的夹角 $\angle ADF$.
 
 ### 解答 习题八
 

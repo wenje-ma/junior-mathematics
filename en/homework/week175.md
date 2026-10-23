@@ -20,7 +20,7 @@ By **Definition 29.2.2** and **Conclusion 29.2.1**, judge comprehensively from t
 
 (Review Problem, Review and Consolidation, Problem 2) Draw the three views of the two solids in the figure, respectively. The two solids are a horizontal triangular prism and a cone.
 
-![week175-4.svg](../../figures/week175-4.svg){width=100%}
+The figure shows perspective diagrams of two solids: (1) a horizontal triangular prism (axis horizontal, front-to-back); (2) a cone.
 
 ### Solution to Review Problem 2
 
@@ -42,7 +42,7 @@ Combining the three views: the top view is $3$ square cells side by side, the fr
 
 (Review Problem, Comprehensive Application, Problem 4) Draw the three views of the solid in the figure (the upper part is a regular triangular prism and the lower part is a cylinder).
 
-![week175-5.svg](../../figures/week175-5.svg){width=100%}
+The figure shows a perspective diagram of a composite solid: the lower part is a cylinder, and the upper part is a regular triangular prism whose base is inscribed in the top face of the cylinder.
 
 ### Solution to Review Problem 4
 
@@ -60,7 +60,7 @@ Combining the shapes and positional relationships of the parts in the three view
 
 (Review Problem, Comprehensive Application, Problem 6) Based on the net, draw the three views of this object, and find the volume and surface area of this object. The net is a rectangle (height $20$, width $10$), with a circle of diameter $10$ on each of the top and bottom.
 
-![week175-1.svg](../../figures/week175-1.svg){width=50%}
+The figure shows the surface net of a cylinder: in the middle is a rectangle of height $20$ and width $10$, with a circle of diameter $10$ attached to each of the top and bottom.
 
 ### Solution to Review Problem 6
 
@@ -76,7 +76,7 @@ The surface area is $S=2\pi r^{2}+2\pi rh=2\pi\times 25+2\pi\times 5\times 20=50
 
 (Review Problem, Comprehensive Application, Problem 7) Based on the three views, find the surface area of the solid and draw its net. Three views: both the front view and the left view are a rectangle below (height $20$) with a triangle above (height $5$); the top view is a circle of diameter $10$.
 
-![week175-2.svg](../../figures/week175-2.svg){width=100%}
+The figure shows a set of three views: both the front view and the left view are a rectangle below (height $20$) with a triangle above (height $5$), and the top view is a circle of diameter $10$, corresponding to a composite solid of a cylinder below and a cone on top.
 
 ### Solution to Review Problem 7
 
@@ -98,7 +98,7 @@ The net is: a rectangle ($2\pi r\times h_{1}=10\pi\times 20$) as the lateral fac
 
 (Review Problem, Extension and Exploration, Problem 8) Based on the following three views, find the volume of the solid they represent (dimensions are marked in the figure).
 
-![week175-3.svg](../../figures/week175-3.svg){width=100%}
+The figure shows two sets of dimensioned three views, each corresponding to a different solid, asking to calculate the volume from the labeled dimensions.
 
 (1) Both the front view and the left view are a large rectangle (height $8$) with a small rectangle stacked on top (height $2$, width $4$); the top view is two concentric circles, the outer circle of diameter $8$ and the inner circle of diameter $4$.
 

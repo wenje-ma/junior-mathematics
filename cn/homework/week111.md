@@ -86,7 +86,7 @@ $$
 
 由三角形两边之和大于第三边, $2x > y = 20-2x$, 解得 $x > 5$. 又边长为正数, $y=20-2x > 0$, 解得 $x < 10$. 故自变量 $x$ 的取值范围是 $5 < x < 10$.
 
-![week111-1.svg](../../figures/week111-1.svg){width=50%}
+图中为平面直角坐标系, 横轴为腰长 $x$, 纵轴为底边长 $y$; 一条连接开区间端点 $\left(5,10\right)$ 与 $\left(10,0\right)$ 的线段 (不含端点), 即函数 $y=20-2x$ ($5<x<10$) 的图象.
 
 $\blacksquare$
 
@@ -100,7 +100,7 @@ $\blacksquare$
 
 (1) 当 $x \geq 1$ 时, $y=x-1$; 当 $x < 1$ 时, $y=1-x$. 列表描点连线, 得到顶点在 $\left(1, 0\right)$ 的 V 形图象.
 
-![week111-2.svg](../../figures/week111-2.svg){width=50%}
+图中为平面直角坐标系, 一条顶点在 $\left(1,0\right)$、开口向上的 V 形折线, 左半支为斜率 $-1$ 的射线, 右半支为斜率 $1$ 的射线, 即函数 $y=\left|x-1\right|$ 的图象.
 
 (2) $P\left(x, 0\right)$ 与 $\left(-3, 0\right)$ 的距离为 $\left|x-\left(-3\right)\right|=\left|x+3\right|$. 故函数解析式为 $y=\left|x+3\right|$, 图象为顶点在 $\left(-3, 0\right)$ 的 V 形. $\blacksquare$
 
@@ -114,7 +114,7 @@ $\blacksquare$
 
 ### 解答 复习题七
 
-![week111-3.svg](../../figures/week111-3.svg){width=50%}
+图中为同一平面直角坐标系: 一条过原点、斜率为 $1$ 的直线 $y=x$; 以及一条双曲线, 两支分别位于第一、三象限, 以两坐标轴为渐近线, 即函数 $y=\frac{1}{x}$ 的图象; 两图象交于点 $\left(1,1\right)$ 和 $\left(-1,-1\right)$.
 
 (1) 由图象可知, 当 $y=x$ 的图象在 $y=\frac{1}{x}$ 的图象上方时, $x > \frac{1}{x}$, 即 $-1 < x < 0$ 或 $x > 1$.
 
@@ -136,6 +136,6 @@ $$
 
 对于边数 $n$ 的每一个确定的值, 对角线条数 $y$ 都有唯一确定的值与其对应, 故 $y$ 是 $n$ 的函数.
 
-![week111-4.svg](../../figures/week111-4.svg){width=50%}
+图中为平面直角坐标系, 横轴为边数 $n$, 纵轴为对角线条数 $y$; 由若干孤立点组成: $\left(3,0\right)$, $\left(4,2\right)$, $\left(5,5\right)$, $\left(6,9\right)$ 等, 对应 $n=3,4,5,6,\cdots$ 时 $y=\frac{n\left(n-3\right)}{2}$ 的函数值.
 
 $\blacksquare$

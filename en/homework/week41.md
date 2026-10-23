@@ -12,7 +12,7 @@
 
 (Exercise 9.1, Problem 1) Write down the coordinates of points $A$, $B$, $C$, $D$, $E$, $F$ in the figure.
 
-![week41-1.svg](../../figures/week41-1.svg){width=50%}
+The figure shows a Cartesian coordinate plane with $x$-axis, $y$-axis, and origin marked, and six points $A$, $B$, $C$, $D$, $E$, $F$ plotted.
 
 ### Solution to Exercise 1
 
@@ -58,7 +58,7 @@ With $B$ as the origin, $A\left(-2,1\right)$, which means $A$ is $2$ units to th
 
 (Exercise 9.1, Problem 2) As shown in the figure, in right triangle $ABC$, $\angle C=90^\circ$, $AC=3$, $BC=4$. Establish a rectangular coordinate system and write down the coordinates of the three vertices of triangle $ABC$.
 
-![week41-2.svg](../../figures/week41-2.svg){width=50%}
+The figure shows a right triangle $ABC$ in a Cartesian coordinate plane, with $\angle C=90^\circ$, $AC=3$, $BC=4$.
 
 ### Solution to Exercise 5
 
@@ -106,7 +106,7 @@ Connect $A$, $B$, $C$, $D$, $E$ in order; a figure resembling an arrow (or a sma
 
 (Exercise 9.1, Review and Consolidation, Problem 3) As shown in the figure, in the given rectangular coordinate system plot points $A\left(-4,-4\right)$, $B\left(-2,-2\right)$, $C\left(3,3\right)$, $D\left(5,5\right)$, $E\left(-3,-3\right)$, $F\left(0,0\right)$. What is the relationship among these points? Can you find some other similar points?
 
-![week41-3.svg](../../figures/week41-3.svg){width=50%}
+The figure shows a Cartesian coordinate plane with points $A\left(-4,-4\right)$, $B\left(-2,-2\right)$, $C\left(3,3\right)$, $D\left(5,5\right)$, $E\left(-3,-3\right)$, $F\left(0,0\right)$ plotted; all these points lie on the line $y=x$.
 
 ### Solution to Problem 3
 
@@ -118,7 +118,7 @@ Thus all these points lie on the line $y=x$. Similar points, such as $\left(1,1\
 
 (Exercise 9.1, Review and Consolidation, Problem 4) As shown in the figure, establish a rectangular coordinate system so that the coordinates of points $B$, $C$ are $\left(0,0\right)$ and $\left(4,0\right)$ respectively. Write down the coordinates of points $A$, $D$, $E$, $F$, $G$, and indicate the quadrant in which they lie.
 
-![week41-4.svg](../../figures/week41-4.svg){width=50%}
+The figure shows a Cartesian coordinate plane with points $B\left(0,0\right)$, $C\left(4,0\right)$, $A\left(-2,2\right)$, $D\left(5,1\right)$, $E\left(4,2\right)$, $F\left(2,0\right)$, $G\left(1,4\right)$ plotted.
 
 ### Solution to Problem 4
 
@@ -134,7 +134,7 @@ Judge by **Definition 9.1.3** (Quadrants): $A\left(-2,2\right)$ has negative x a
 
 (Exercise 9.1, Review and Consolidation, Problem 5) The figure is a schematic diagram of part of a Chinese chess board. Establish a rectangular coordinate system so that the piece "Shuai" is at point $\left(0,-4\right)$ and the piece "Ma" is at point $\left(3,-4\right)$; then the piece "Bing" is at point _______. If the "Ma" takes one more step, then the new position of the "Ma" is at point _______.
 
-![week41-5.svg](../../figures/week41-5.svg){width=50%}
+The figure shows a partial Chinese chess board, with pieces "shuai", "ma", "bing", "xiang" marked.
 
 ### Solution to Problem 5
 
@@ -168,7 +168,7 @@ By **Definition 9.1.2** (Coordinates of a Point), plot the points and connect th
 
 (2) If some points lie on a line parallel to the $y$-axis, what is characteristic of their x-coordinates?
 
-![week41-6.svg](../../figures/week41-6.svg){width=50%}
+The figure shows a Cartesian coordinate plane with points $A\left(-2,4\right)$, $B\left(3,4\right)$ and the horizontal line $AB$ through them (parallel to the $x$-axis).
 
 ### Solution to Problem 7
 
@@ -228,7 +228,7 @@ In summary, the points $A$ satisfying the conditions are $\left(2,0\right)$, $\l
 
 (Exercise 9.1, Extension and Exploration, Problem 10) Design a figure that can be drawn using the coordinates of its vertices, tell these coordinates to your classmate, and see whether he can draw the figure you designed.
 
-![week41-7.svg](../../figures/week41-7.svg){width=50%}
+The figure shows a shape (such as a "house") drawn by its vertex coordinates.
 
 ### Solution to Problem 10
 

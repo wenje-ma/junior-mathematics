@@ -30,7 +30,7 @@ After determining the solid shape from the three views, gradually cut the potato
 
 (3) If the side length of each small triangle is $1$, what is the surface area of the corresponding triangular pyramid?
 
-![week173-1.svg](../../figures/week173-1.svg){width=100%}
+The figure shows several groups of planar nets made up of four equilateral triangles (different arrangements), asking which ones can be folded into a triangular pyramid (regular tetrahedron).
 
 ### Solution to Project 3
 

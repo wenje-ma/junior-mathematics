@@ -292,7 +292,7 @@ Take the altitudes on the two legs as an example. In isosceles $\triangle ABC$ l
 
 (Exercise 15.3, Extension and Exploration, Problem 15) A triangular plot of land is to be divided equally among three farm households, A, B and C. If $\angle C=90^\circ$, $\angle B=30^\circ$, and the three households' land should have the same size and shape, divide it and draw the division on the figure.
 
-![week74-1.svg](../../figures/week74-1.svg){width=50%}
+The figure shows a right triangle $ABC$ with $\angle C=90^\circ$, $\angle B=30^\circ$ and $\angle A=60^\circ$; the hypotenuse $AB$ is placed horizontally, and the right-angle vertex $C$ is below.
 
 ### Solution to Problem 14
 

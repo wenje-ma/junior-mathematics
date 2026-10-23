@@ -206,7 +206,7 @@ The check holds. Hence the speed in the first hour is $60\ \text{km/h}$. $\black
 
 (Review Problems, Extension and Exploration, Problem 12) As shown in the figure, the semicircular tracks at the two ends of a sports field have outer diameter $R$ and inner diameter $r$; the middle is a straight track, and the total area of the whole track is $S$. Use an expression containing $S,R,r$ to represent the length $a$ of the straight track.
 
-![week93-1.svg](../../figures/week93-1.svg){width=50%}
+The figure shows a top-view schematic of a standard oval sports-field track: the two ends are semicircular curves with outer radius $R$ and inner radius $r$; the two middle parallel straight sections each have length $a$, and the width of each straight section is $R-r$.
 
 ### Solution to Review Problem 12
 

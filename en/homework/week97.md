@@ -36,7 +36,7 @@ As shown in Figure 1, the length-to-width ratio of the rectangular sheet \(ABCD\
 
 (2) If the sheet \(ABCD\) is folded as shown in Figure 3, is the rectangle \(GHID\) still "a rectangle whose length-to-width ratio is \(\sqrt{2}\)"? Why?
 
-![week97-1.svg](../../figures/week97-1.svg){width=100%}
+The figure shows three schematic rectangles arranged from left to right: Figure 1 is rectangle \(ABCD\) with its long sides vertical, \(A\) at upper-left, \(B\) at lower-left, \(C\) at lower-right, \(D\) at upper-right; Figure 2 is the same rectangle with \(E\), \(F\) being the midpoints of the long sides \(AD\), \(BC\) respectively, and a dashed line \(EF\) joining \(E\), \(F\) indicating the fold line; Figure 3 is the small rectangle \(GHID\) obtained after folding in some way.
 
 (1) Let the width of the original rectangle be \(a\) and its length be \(b\); by the problem, \(\frac{b}{a}=\sqrt{2}\).
 

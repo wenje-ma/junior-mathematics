@@ -26,7 +26,7 @@ The pattern is obtained by rotating a single basic figure about its center, seve
 
 (Review Problem 28, Review and Consolidation, Problem 2) As shown in the figure, rotate $\text{Rt}\triangle ABC$ clockwise about the point $S$ through $30^\circ$, and draw the rotated figure.
 
-![week146-1.svg](../../figures/week146-1.svg){width=50%}
+The figure shows right triangle $ABC$ with a point $S$ outside it; the task is to rotate $\triangle ABC$ clockwise about center $S$ through $30^\circ$.
 
 ### Solution to Review Problem 2
 
@@ -142,7 +142,7 @@ These patterns coincide with themselves after being rotated about their center t
 
 (Review Problem 28, Extension and Exploration, Problem 10) As shown in the figure, there is a sheet of paper; if $EB$ is joined, the sheet is divided into the rectangle $FABE$ and the rhombus $EBCD$. Can you draw a straight line that divides this sheet into two parts of equal area? Draw it and explain why.
 
-![week146-2.svg](../../figures/week146-2.svg){width=50%}
+The figure shows the outline of a sheet of paper: after joining $EB$, the left part is rectangle $FABE$ and the right part is rhombus $EBCD$; the two shapes meet at point $E$, together forming a convex polygonal sheet.
 
 ### Solution to Review Problem 10
 

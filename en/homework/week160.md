@@ -14,7 +14,7 @@ Length/cm: $1,2,3,4,5,\;\_\_,\;\_\_,\;\_\_,\;\_\_,\;\_\_$
 
 Width/cm: $\_\_,\_\_,\_\_,\_\_,2,\frac{5}{3},\frac{10}{7},\frac{5}{4},\frac{10}{9},1$
 
-![week160-1.svg](../../figures/week160-1.svg){width=50%}
+The figure shows 10 rectangles of area $10\ \text{cm}^2$ sharing a common angle $\angle A$ at the origin (one side along the $x$-axis, the other along the $y$-axis), their opposite (upper-right) vertices being $(1,10)$, $(2,5)$, $(3,\frac{10}{3})$, $(4,\frac{5}{2})$, $(5,2)$, $(6,\frac{5}{3})$, $(7,\frac{10}{7})$, $(8,\frac{5}{4})$, $(9,\frac{10}{9})$, and $(10,1)$, connected in order by a smooth curve.
 
 ### Solution to Activity 1
 
@@ -32,7 +32,7 @@ The coordinates of the opposite vertices are $\left(\text{长},\text{宽}\right)
 
 (Math Activity, Activity 2) Take a uniform wooden rod of length $100\ \text{cm}$, tie a string to its midpoint $O$ and suspend it. On the left side of the midpoint $O$, at a distance of $25\ \text{cm}$ from $O$, hang an object weighing $9.8\ \text{N}$; on the right side of $O$, pull downward with a spring scale so that the rod is horizontal. Vary the distance $L$ (unit: $\text{cm}$) between the spring scale and the midpoint $O$, observe how the reading $F$ (unit: $\text{N}$) of the spring scale changes, and fill in the following table: $L=5,10,15,20,25,30,35,40,45$. Plot the points with $L$ as the x-coordinate and $F$ as the y-coordinate, and connect them. Is this curve a branch of the graph of an inverse proportional function? Is the point $\left(50,4.9\right)$ on this curve?
 
-![week160-2.svg](../../figures/week160-2.svg){width=50%}
+The figure shows a uniform wooden rod suspended horizontally by a string at its midpoint $O$; on the left side, at $25\ \text{cm}$ from $O$, hangs an object weighing $9.8\ \text{N}$, and on the right side, at distance $L$ from $O$, a spring scale pulls downward vertically to keep the rod in horizontal balance.
 
 ### Solution to Activity 2
 

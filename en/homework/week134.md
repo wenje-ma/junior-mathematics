@@ -16,7 +16,7 @@
 
 (2) $y=-3x^2$.
 
-![week134-1.svg](../../figures/week134-1.svg){width=50%}
+The figure shows two parabolas in one plane rectangular coordinate system: $y=3x^2$ (opening upward, vertex at the origin, narrower) and $y=-3x^2$ (opening downward, vertex at the origin, the two symmetric about the $x$-axis).
 
 ### Solution to Exercise 1
 
@@ -42,7 +42,7 @@ By **Conclusion 26.2.1** (The Parabola $y=ax^2$).
 
 (Exercise 26.2, Problem 3) In the same rectangular coordinate system, draw the graphs of $y=x^2$, $y=x^2+1$, and $y=x^2-1$. State the positional relation among the three parabolas, and give their opening direction, axis of symmetry, and vertex respectively.
 
-![week134-2.svg](../../figures/week134-2.svg){width=50%}
+The figure shows three parabolas of the same shape, all opening upward with the $y$-axis as axis of symmetry: $y=x^2$ with vertex at $\left(0,0\right)$, $y=x^2+1$ with vertex at $\left(0,1\right)$ (shifted up 1 unit), and $y=x^2-1$ with vertex at $\left(0,-1\right)$ (shifted down 1 unit).
 
 ### Solution to Exercise 3
 
@@ -52,7 +52,7 @@ By **Conclusion 26.2.2** (Translation), $y=x^2+1$ is obtained by translating $y=
 
 (Exercise 26.2, Problem 4) In the same rectangular coordinate system, draw the graphs of $y=-x^2$, $y=-\left(x+2\right)^2$, and $y=-\left(x-2\right)^2$. State the positional relation among the three parabolas, and give their opening direction, axis of symmetry, and vertex respectively.
 
-![week134-3.svg](../../figures/week134-3.svg){width=50%}
+The figure shows three parabolas of the same shape, all opening downward: $y=-x^2$ with vertex at $\left(0,0\right)$ and axis $x=0$, $y=-\left(x+2\right)^2$ with vertex at $\left(-2,0\right)$ and axis $x=-2$ (shifted left 2 units), and $y=-\left(x-2\right)^2$ with vertex at $\left(2,0\right)$ and axis $x=2$ (shifted right 2 units).
 
 ### Solution to Exercise 4
 
@@ -110,7 +110,7 @@ By **Conclusion 26.2.3** (The Parabola $y=a\left(x-h\right)^2+k$).
 
 (4) $y=\frac12x^2-2x-1$.
 
-![week134-4.svg](../../figures/week134-4.svg){width=100%}
+The figure shows four side-by-side coordinate systems, each with one parabola: (1) $y=-3x^2+12x-3$, opening downward, vertex $\left(2,9\right)$; (2) $y=4x^2-24x+26$, opening upward, vertex $\left(3,-10\right)$; (3) $y=2x^2+8x-6$, opening upward, vertex $\left(-2,-14\right)$; (4) $y=\frac12x^2-2x-1$, opening upward, vertex $\left(2,-3\right)$.
 
 ### Solution to Exercise 7
 
@@ -150,7 +150,7 @@ By **Conclusion 26.2.4**, the extremum $\frac{4ac-b^2}{4a}$ is taken at $x=-\fra
 
 (2) $y=-\frac15x^2$.
 
-![week134-5.svg](../../figures/week134-5.svg){width=50%}
+The figure shows two parabolas in one plane rectangular coordinate system, both with the $y$-axis as axis of symmetry and the origin as vertex: $y=5x^2$ opening upward and narrow, and $y=-\frac15x^2$ opening downward and wide.
 
 ### Solution to Problem 1
 
@@ -172,7 +172,7 @@ The graphs are as shown. $\blacksquare$
 
 (3) $y=2\left(x+\frac32\right)^2-5$, $y=2\left(x-\frac12\right)^2+1$.
 
-![week134-6.svg](../../figures/week134-6.svg){width=100%}
+The figure shows three side-by-side coordinate systems, each with two parabolas: (1) two parabolas with $a=-\frac13$, opening downward, both with the $y$-axis as axis of symmetry, vertices at $\left(0,3\right)$ and $\left(0,-2\right)$; (2) two parabolas with $a=\frac14$, opening upward, axes $x=3$ and $x=-1$, vertices at $\left(3,0\right)$ and $\left(-1,0\right)$; (3) two parabolas with $a=2$, opening upward, axes $x=-\frac32$ and $x=\frac12$, vertices at $\left(-\frac32,-5\right)$ and $\left(\frac12,1\right)$.
 
 ### Solution to Problem 2
 
@@ -198,7 +198,7 @@ The graphs are as shown. $\blacksquare$
 
 (4) $y=-\frac14x^2+2x-3$.
 
-![week134-7.svg](../../figures/week134-7.svg){width=100%}
+The figure shows four side-by-side coordinate systems, each with one parabola: (1) $y=x^2+2x-5$, opening upward, vertex $\left(-1,-8\right)$; (2) $y=-2x^2+6x+3$, opening downward, vertex $\left(\frac32,\frac{15}2\right)$; (3) $y=2x^2+4x-5$, opening upward, vertex $\left(-1,-7\right)$; (4) $y=-\frac14x^2+2x-3$, opening downward, vertex $\left(4,1\right)$.
 
 ### Solution to Problem 3
 

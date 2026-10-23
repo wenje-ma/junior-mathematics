@@ -86,7 +86,7 @@
 
 (练习 7.2 第 1 题) 如图, 直线 $a\parallel b$, $\angle 1=54^\circ$, $\angle 2$, $\angle 3$, $\angle 4$ 各是多少度?
 
-![week31-1.svg](../../figures/week31-1.svg){width=50%}
+图中为两条平行直线 $a$, $b$ 被一条截线所截：在 $a$ 与截线的交点处标出 $\angle 1$ 及其对顶角 $\angle 2$，在 $b$ 与截线的交点处标出与 $\angle 1$ 成内错角的 $\angle 3$ 和与 $\angle 1$ 成同旁内角的 $\angle 4$。
 
 ### 解答 练习六
 
@@ -208,7 +208,7 @@ $$
 
 (1) $\angle 2+\angle 5=180^\circ$　(2) $\angle 2=\angle 4$　(3) $\angle 4+\angle 5=180^\circ$　(4) $\angle 1=\angle 3$
 
-![week31-3.svg](../../figures/week31-3.svg){width=50%}
+图中为两条直线 $a$, $b$ 被一条截线所截，在两个交点处共标出 $\angle 1$, $\angle 2$, $\angle 3$, $\angle 4$, $\angle 5$ 五个角。
 
 ### 解答 习题四
 
@@ -228,7 +228,7 @@ $\angle 1$ 与 $\angle 3$ 不是直线 $a$, $b$ 之间的判定角, $\angle 1=\a
 
 (习题 7.2 复习巩固第 5 题) 如图, $a\parallel b$, 直线 $c$, $d$ 是截线, $\angle 1=80^\circ$, $\angle 5=70^\circ$. $\angle 2$, $\angle 3$, $\angle 4$ 各是多少度? 为什么?
 
-![week31-2.svg](../../figures/week31-2.svg){width=50%}
+图中为两条平行直线 $a$, $b$ 被两条截线 $c$, $d$ 所截：在 $a$ 与 $c$ 的交点处标出 $\angle 1$，在 $a$ 与 $d$ 的交点处标出 $\angle 5$；在 $b$ 与 $c$ 的交点处标出与 $\angle 1$ 成内错角的 $\angle 2$，在 $b$ 与 $d$ 的交点处标出与 $\angle 5$ 成同位角的 $\angle 3$ 及与 $\angle 5$ 成同旁内角的 $\angle 4$。
 
 ### 解答 习题五
 
@@ -286,7 +286,7 @@ $\angle 2$ 与 $\angle 4$ 是两条平行光线被同一直线所截得的同旁
 
 (习题 7.2 综合运用第 10 题) 如图, 若 $AB\parallel FE$, $BC\parallel DE$, 则 $\angle E+\angle B$ 等于多少度?
 
-![week31-4.svg](../../figures/week31-4.svg){width=50%}
+图中为一条折线 $ABC$ 与另一条折线 $FED$，其中 $AB\parallel FE$，$BC\parallel DE$；$\angle B$ 即 $\angle ABC$，$\angle E$ 即 $\angle FED$。
 
 ### 解答 习题十
 
@@ -332,7 +332,7 @@ $$
 
 (习题 7.2 拓广探索第 14 题) 如图, 潜望镜中的两面镜子是互相平行放置的, 光线经过镜子反射时, $\angle 1=\angle 2$, $\angle 3=\angle 4$, $\angle 2$ 和 $\angle 3$ 有什么关系? 为什么进入潜望镜的光线和离开潜望镜的光线是平行的?
 
-![week31-5.svg](../../figures/week31-5.svg){width=50%}
+图中为潜望镜剖面示意图：上下两面镜子互相平行放置，入射光线从一侧射入，经第一面镜子反射后射到第二面镜子，再反射后从另一侧射出；在第一面镜子处标出入射光线与镜子的夹角 $\angle 1$ 和反射光线与镜子的夹角 $\angle 2$，在第二面镜子处标出相应的 $\angle 3$ 和 $\angle 4$。
 
 ### 解答 习题十四
 

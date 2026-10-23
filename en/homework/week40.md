@@ -126,7 +126,7 @@ Thus $x=-3$, $-2$, $-1$, $0$, $1$, $2$, $3$. Mark these points correspondingly o
 
 (Review Exercise, Comprehensive Application, Problem 8) A circle and a square both have area $2\pi\,\text{cm}^2$. Which one has the larger perimeter? What insight can you draw from this?
 
-![week40-1.svg](../../figures/week40-1.svg){width=50%}
+The figure shows a circle and a square drawn side by side, both with area $2\pi\,\text{cm}^2$.
 
 ### Solution to Review Exercise 8
 
@@ -180,7 +180,7 @@ That is, the edge length of the cube is about $118\,mm$. $\blacksquare$
 
 (2) On the number line, draw the point corresponding to the side length of this large square.
 
-![week40-2.svg](../../figures/week40-2.svg){width=50%}
+The figure shows a shape composed of $5$ small squares of side length $1$.
 
 ### Solution to Review Exercise 11
 

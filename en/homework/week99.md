@@ -114,7 +114,7 @@ By **Theorem 20.1.1**, \(\sqrt{17}=\sqrt{4^{2}+1^{2}}\) is the hypotenuse of a r
 
 On the number line take the point \(A\) representing \(4\); through \(A\) draw a perpendicular to the number line and mark \(AB=1\); with the origin \(O\) as center and \(OB\) as radius, draw an arc intersecting the positive half-axis at \(C\); then \(OC=OB=\sqrt{17}\).
 
-![week99-1.svg](../../figures/week99-1.svg){width=50%}
+The figure shows a horizontal number line with the origin \(O\) and the positive direction marked; point \(A\) on the number line represents \(4\); through \(A\) a perpendicular is drawn vertically upward and \(AB=1\) is marked, with \(OB\) joined; with \(O\) as center and \(OB\) as radius, an arc is drawn, and its intersection with the positive half-axis is labeled \(C\).
 
 \(\blacksquare\)
 

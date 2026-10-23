@@ -28,7 +28,7 @@
 
 (Review Exercise, Review and Consolidation, Problem 1) As shown in the figure, line $AB\perp CD$, with foot at $O$; line $EF$ passes through point $O$, $\angle 1=26^\circ$. Find the degrees of $\angle 2$, $\angle 3$, and $\angle BOE$.
 
-![week35-1.svg](../../figures/week35-1.svg){width=50%}
+The figure shows lines $AB\perp CD$ with foot $O$, and a line $EF$ passing through $O$; inside $\angle AOD$ are marked $\angle 1$ (between $OE$ and $OD$) and $\angle 2$ (between $OA$ and $OE$), and the vertical angle of $\angle 1$ is marked as $\angle 3$.
 
 ### Solution to Review Exercise 1
 
@@ -82,7 +82,7 @@ By **Theorem 7.2.3** (Criterion 3), supplementary consecutive interior angles im
 
 (3) Through a point $P$ inside triangle $ABC$, draw lines parallel to $AB$, $BC$, $AC$ respectively.
 
-![week35-4.svg](../../figures/week35-4.svg){width=100%}
+The figure contains three small diagrams: (1) segment $AB$ with its midpoint $C$, and $CD\perp AB$ through $C$; (2) a point $P$ outside line $AB$, with the distance from $P$ to $AB$ equal to $3\,\text{cm}$, and the perpendicular from $P$ to $AB$; (3) a point $P$ inside triangle $ABC$, with lines through $P$ parallel to $AB$, $BC$, $AC$ respectively.
 
 ### Solution to Review Exercise 4
 
@@ -92,7 +92,7 @@ Draw step by step according to the statements: first take the midpoint $C$ of se
 
 (Review Exercise, Review and Consolidation, Problem 5) As shown in the figure, a person rides a bicycle from point $A$ due east to point $B$, then changes direction to east by south $15^\circ$, and after riding to point $C$ continues due east. Draw the route of continued travel.
 
-![week35-5.svg](../../figures/week35-5.svg){width=50%}
+The figure shows a route diagram: from point $A$ a segment due east to $B$, from $B$ a segment at $15^\circ$ south of east to $C$, with the due-east direction marked.
 
 ### Solution to Review Exercise 5
 
@@ -124,7 +124,7 @@ The problem gives no supplementary or equal-angle relationship between $AB$ and 
 
 (Review Exercise, Review and Consolidation, Problem 7) As shown in the figure, parallel lines $a$, $b$ are cut by line $c$. If you know the degree of one of $\angle 1\sim\angle 8$, can you find the degrees of the other angles? If yes, express the other angles in terms of one of them.
 
-![week35-2.svg](../../figures/week35-2.svg){width=50%}
+The figure shows two parallel lines $a$, $b$ cut by a transversal $c$, with eight angles $\angle 1$ through $\angle 8$ marked at the two intersections.
 
 ### Solution to Review Exercise 7
 
@@ -256,7 +256,7 @@ Use a ruler to measure the length and width of each room, choose an appropriate 
 
 (Review Exercise, Extension and Exploration, Problem 16) The surface of a billiard table is as shown in the figure. A ball rolls from point $A$ on the table toward the cushion $PQ$; after hitting point $B$ on $PQ$, it bounces toward the cushion $RS$; after hitting point $C$ on $RS$, it bounces toward point $D$. Given that $PQ\parallel SR$, $AB$, $BC$, $CD$ are all straight lines, the bisector $BN$ of $\angle ABC$ is perpendicular to $PQ$, and the bisector $CM$ of $\angle BCD$ is perpendicular to $SR$. Then, is the path $CD$ the ball rolls after two bounces parallel to the original path $AB$?
 
-![week35-3.svg](../../figures/week35-3.svg){width=50%}
+The figure shows a billiard table with long sides $PQ\parallel SR$; the ball travels from point $A$ to point $B$ on $PQ$, rebounds to point $C$ on $RS$, and rebounds again toward point $D$; $BN$ bisects $\angle ABC$ and is perpendicular to $PQ$, and $CM$ bisects $\angle BCD$ and is perpendicular to $SR$.
 
 ### Solution to Review Exercise 16
 

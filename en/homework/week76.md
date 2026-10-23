@@ -114,7 +114,7 @@ Pick any pair of symmetric points, and draw the perpendicular bisector of the se
 
 (Review Problems, Comprehensive Application, Problem 9) Is the transformation from Figure I to Figure II a translation or an axial symmetry? If it is an axial symmetry, find the axis of symmetry; if it is a translation, describe the translation.
 
-![week76-1.svg](../../figures/week76-1.svg){width=100%}
+The figure shows four plane rectangular coordinate systems arranged left to right, top to bottom, each with $x$- and $y$-axes ranging roughly from $-4$ to $4$, and each containing two grid polygons: in (1), the pink triangle I lies near the boundary of the first and second quadrants ($x$ about $0$ to $4$), and the blue triangle II lies in the second quadrant ($x$ about $-4$ to $0$), roughly symmetric about the $y$-axis; in (2), the pink quadrilateral I lies in the first quadrant ($x$ about $0$ to $4$, $y$ about $0$ to $4$), and the blue quadrilateral II lies in the second and third quadrants ($x$ about $-4$ to $0$, $y$ about $-4$ to $2$); in (3), the pink triangle I lies in the second quadrant ($x$ about $-4$ to $-1$, $y$ about $0$ to $3$), and the blue triangle II lies in the fourth quadrant ($x$ about $1$ to $4$, $y$ about $-4$ to $0$); in (4), the pink triangle I lies in the first and second quadrants ($x$ about $-1$ to $3$, $y$ about $0$ to $5$), and the blue triangle II lies in the fourth quadrant ($x$ about $-1$ to $3$, $y$ about $-4$ to $0$).
 
 ### Solution to Review Problem 9
 

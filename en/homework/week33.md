@@ -8,7 +8,7 @@
 
 (Exercise 7.4, Problem 1) On grid paper, translate triangle $ABC$ so that point $A$ moves to point $M$. To what positions should points $B$ and $C$ move? Then translate the triangle again so that point $A$ moves from point $M$ to point $N$. Draw the triangles after the two translations respectively. If triangle $ABC$ is translated directly so that point $A$ moves to point $N$, is the translated triangle in the same position as the triangle obtained after the second translation above?
 
-![week33-1.svg](../../figures/week33-1.svg){width=50%}
+The figure shows grid paper with triangle $ABC$ drawn on it, and points $M$ and $N$ marked.
 
 ### Solution to Exercise 1
 
@@ -70,7 +70,7 @@ Through $A$, $B$, $C$, $D$ respectively draw segments parallel to the arrow and 
 
 (Exercise 7.4, Comprehensive Application, Problem 4) Use the method of translation to explain how to obtain the area formula of a parallelogram, $S=ah$.
 
-![week33-2.svg](../../figures/week33-2.svg){width=50%}
+The figure shows a parallelogram with base $a$ and height $h$; a right triangle is cut from one side by dropping a height to the base, and the diagram illustrates translating this right triangle along the base to the other side to form a rectangle of length $a$ and width $h$.
 
 ### Solution to Problem 4
 
@@ -98,7 +98,7 @@ By **Property 7.4.1** (Properties of Translation), repeatedly translate this bas
 
 (Exercise 7.4, Extension and Exploration, Problem 6) As shown in the figure, on a rectangular lawn of length $a\,\text{m}$ and width $b\,\text{m}$, there is a winding path; the left edge of the path, translated $1\,\text{m}$ to the right, is its right edge. Find the area covered by grass on this lawn.
 
-![week33-3.svg](../../figures/week33-3.svg){width=50%}
+The figure shows a rectangular lawn of length $a$ and width $b$, with a winding path running through it; the left edge of the path, translated $1\,\text{m}$ to the right, is its right edge.
 
 ### Solution to Problem 6
 

@@ -88,7 +88,7 @@ By **Definition 6.2.1** (Line) and **Definition 6.2.3** (Ray and Segment).
 
 (4) Join $D$, $A$ to get segment $DA$; extend from $D$ away from $A$, and take $E$ such that $DE=2AD$.
 
-![week28-1.svg](../../figures/week28-1.svg){width=50%}
+In the figure there are four points $A$, $B$, $C$, $D$: draw line $AB$ through $A$ and $B$ extending in both directions, draw ray $BC$ with $B$ as endpoint in the direction of $BC$, join $C$ and $D$ to draw segment $CD$, join $D$ and $A$ to draw segment $DA$, and extend $DA$ from $D$ away from $A$ to point $E$ so that $DE=2AD$.
 
 $\blacksquare$
 
@@ -162,7 +162,7 @@ By **Definition 6.1.2** (Plane Figure), reconstruct the solid from its three vie
 
 In the figure: the front view is a rectangle, the left view is a circle, and the top view is a rectangle. The front and top views are both rectangles while the left view is a circle; this is the three-view drawing of a horizontally placed cylinder (its axis runs left-to-right). Hence the solid is a cylinder.
 
-![week28-2.svg](../../figures/week28-2.svg){width=100%}
+The figure shows the three views of a solid: the front view is a rectangle, the left view is a circle, and the top view is a rectangle (the three-view drawing of a horizontally placed cylinder).
 
 $\blacksquare$
 
@@ -238,7 +238,7 @@ By **Definition 6.2.7** (Midpoint of a Segment) and **Definition 6.3.1** (Angle)
 
 For the quadrilateral $EFGH$ formed by joining the midpoints, measurement shows: $EF=GH$, $FG=HE$, i.e. opposite sides are equal. Also $\angle 1=\angle 3$, $\angle 2=\angle 4$, i.e. opposite angles are equal. Thus one may conjecture: the quadrilateral formed by joining the midpoints of any quadrilateral is a parallelogram.
 
-![week28-3.svg](../../figures/week28-3.svg){width=50%}
+In the figure, the midpoints of the four sides of quadrilateral $ABCD$ are $E$, $F$, $G$, $H$ respectively; joining $E$, $F$, $G$, $H$ in order forms quadrilateral $EFGH$.
 
 $\blacksquare$
 

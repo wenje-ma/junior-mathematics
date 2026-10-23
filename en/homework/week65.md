@@ -86,7 +86,7 @@ The left side is $AB+AC$ and the right side is $BC$, so $AB+AC>BC$. Fill in succ
 
 (Review Problems, Review and Consolidation, Problem 4) Find the value of $x$ in each figure below.
 
-![week65-1.svg](../../figures/week65-1.svg){width=100%}
+The figure shows three diagrams arranged from left to right: in figure (1), a right triangle with one given acute angle $50^\circ$, and $x$ is the other acute angle; in figure (2), an isosceles triangle with vertex angle $40^\circ$ and the two equal base angles both equal to $x$; in figure (3), a triangle whose exterior angle is $\left(x+70^\circ\right)$ and whose two non-adjacent interior angles are $x^\circ$ and $\left(x+10^\circ\right)$.
 
 ### Solution to Review Problem 4
 
@@ -198,7 +198,7 @@ $\blacksquare$
 
 (Review Problems, Extension and Exploration, Problem 9) As shown, join $AC$, $AD$, $BD$, $BE$, $CE$; prove that $\angle A+\angle B+\angle C+\angle D+\angle E=180^\circ$.
 
-![week65-2.svg](../../figures/week65-2.svg){width=50%}
+The figure shows a five-pointed star, with the five pointed tips labeled $A$, $B$, $C$, $D$, $E$ clockwise starting from the top vertex; the five segments $AC$, $AD$, $BD$, $BE$, $CE$ cross one another inside, enclosing a central pentagon.
 
 ### Solution to Review Problem 9
 

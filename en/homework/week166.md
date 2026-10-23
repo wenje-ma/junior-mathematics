@@ -138,7 +138,7 @@ Thus $S_{\triangle ABC}=9S_{\triangle A'B'C'}$. $\blacksquare$
 
 (Review Problem 27, Extension and Exploration, Problem 11) As shown in the figure, a piece of material is in the shape of an acute triangle $ABC$, with side $BC=120\ \text{mm}$ and altitude $AD=80\ \text{mm}$. It is machined into a square part, with one side of the square lying on $BC$ and the other two vertices lying on $AB$ and $AC$, respectively. What is the side length of this square part?
 
-![week166-1.svg](../../figures/week166-1.svg){width=50%}
+The figure shows acute triangle $ABC$ with base $BC=120\ \text{mm}$ and altitude $AD=80\ \text{mm}$ ($D$ on $BC$); a square is inscribed in the triangle, with one side on $BC$ and the other two upper vertices lying on $AB$ and $AC$ respectively.
 
 ### Solution to Review Problem 11
 

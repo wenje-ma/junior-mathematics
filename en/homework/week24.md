@@ -44,7 +44,7 @@ From the left: the leftmost column has $2$ squares, and the two right columns ea
 
 From the top: the first row has $4$ squares (in a horizontal row), and the second row has $2$ squares at the far right; the top view is L-shaped (upper row $4$, lower row right $2$).
 
-![week24-1.svg](../../figures/week24-1.svg){width=100%}
+The figure consists of the three views of this L-shaped staircase from three directions: the front view is a step shape with the left column height $2$ and the four right columns height $1$; the left view is a step shape with the left column height $2$ and the two right columns height $1$; the top view is an L shape (upper row of $4$ squares and $2$ squares at the far right of the lower row).
 
 $\blacksquare$
 
@@ -80,7 +80,7 @@ By **Definition 6.1.2** (Plane Figure), view each solid figure from the three di
 
 (3) Sphere: front, left, and top are all circles of the same size.
 
-![week24-2.svg](../../figures/week24-2.svg){width=100%}
+The figure shows the plane figures obtained by viewing a cylinder, a cone, and a sphere from the front, the left, and the top: for the cylinder, both front and left are rectangles and the top is a circle; for the cone, both front and left are isosceles triangles and the top is a circle with its center; for the sphere, all three directions are circles of the same size.
 
 $\blacksquare$
 
@@ -270,7 +270,7 @@ By **Definition 6.1.2** (Plane Figure), the cross section is the plane figure ob
 
 The plane intersects the cube's faces; each face it intersects gives one edge. The cube has six faces, so the cross section intersects at most six faces and is at most a hexagon. The cross section can be a triangle (equilateral, isosceles, or scalene), a quadrilateral (square, rectangle, or trapezoid), a pentagon, or a hexagon.
 
-![week24-3.svg](../../figures/week24-3.svg){width=100%}
+The figure shows the various possible cross sections obtained by cutting a cube with a plane: a triangle (equilateral, isosceles, or scalene), a quadrilateral (square, rectangle, or trapezoid), a pentagon, and a hexagon.
 
 $\blacksquare$
 

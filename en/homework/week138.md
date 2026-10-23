@@ -50,7 +50,7 @@ Expanding gives $y=1500x^2+3000x+1500$. $\blacksquare$
 
 (4) $y=-\frac12\left(x+\frac32\right)^2-1$.
 
-![week138-1.svg](../../figures/week138-1.svg){width=100%}
+The figure shows four parabolas plotted on the same rectangular coordinate plane: (1) $y=\frac15x^2$, opening upward, vertex at the origin $(0,0)$, axis of symmetry the $y$-axis; (2) $y=-2x^2-3$, opening downward, vertex $(0,-3)$, axis of symmetry the $y$-axis; (3) $y=\frac14(x+2)^2$, opening upward, vertex $(-2,0)$, axis of symmetry $x=-2$; (4) $y=-\frac12(x+\frac32)^2-1$, opening downward, vertex $(-\frac32,-1)$, axis of symmetry $x=-\frac32$.
 
 ### Solution to Review Problem 3
 
@@ -78,7 +78,7 @@ The graphs are as shown. $\blacksquare$
 
 (4) $y=-\frac14x^2+x-4$.
 
-![week138-2.svg](../../figures/week138-2.svg){width=100%}
+The figure shows four parabolas plotted on the same rectangular coordinate plane: (1) $y=x^2+2x-3$, opening upward, vertex $(-1,-4)$, axis of symmetry $x=-1$; (2) $y=1+6x-x^2$, opening downward, vertex $(3,10)$, axis of symmetry $x=3$; (3) $y=\frac12x^2+2x+1$, opening upward, vertex $(-2,-1)$, axis of symmetry $x=-2$; (4) $y=-\frac14x^2+x-4$, opening downward, vertex $(2,-3)$, axis of symmetry $x=2$.
 
 ### Solution to Review Problem 4
 
@@ -164,7 +164,7 @@ Hence after landing it taxis $600\ \text{m}$ to a stop, and taxis $24\ \text{m}$
 
 (Review, Comprehensive Application, Problem 9) As shown, points $E,F,G,H$ lie on the four sides of square $ABCD$ respectively, and quadrilateral $EFGH$ is also a square. The large square has side $12\ \text{m}$. Where should $E$ be placed to minimize the area of square $EFGH$?
 
-![week138-3.svg](../../figures/week138-3.svg){width=50%}
+The figure shows square $ABCD$ with side length $12\ \text{m}$; points $E,F,G,H$ lie respectively on sides $AB,BC,CD,DA$, with $AE=BF=CG=DH$, and quadrilateral $EFGH$ is also a square inscribed in the large square.
 
 ### Solution to Review Problem 9
 

@@ -114,7 +114,7 @@ Thus $x=3.5$. $\blacksquare$
 
 (Problem 27.1, Comprehensive Application, Problem 4) Try to draw on grid paper a figure similar to the original figure. What method did you use?
 
-![week162-2.svg](../../figures/week162-2.svg){width=100%}
+The figure shows on grid paper an original figure (a polygon made of several line segments) and its similar figure enlarged by the same factor; the two figures are drawn side by side on the grid paper, with corresponding sides parallel and corresponding angles equal.
 
 ### Solution to Problem 4
 
@@ -168,7 +168,7 @@ Having only proportional sides does not necessarily imply similarity: for exampl
 
 (Problem 27.1, Extension and Exploration, Problem 8) Fold a rectangular sheet of paper along the line connecting the midpoints of its longer sides. If the two resulting rectangles are both similar to the original rectangle, what is the ratio of length to width of the original rectangle? If this paper is folded repeatedly in this way, are the resulting rectangles all similar?
 
-![week162-1.svg](../../figures/week162-1.svg){width=50%}
+The figure shows a rectangular sheet of paper folded along the line connecting the midpoints of its longer sides, producing a smaller rectangle; the original rectangle has length $a$ and width $b$, and the folded rectangle has sides $b$ and $\frac a2$.
 
 ### Solution to Problem 8
 

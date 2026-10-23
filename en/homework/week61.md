@@ -14,7 +14,7 @@
 
 (Exercise 13.1, Problem 1) As shown, in $\triangle ABC$, $AB=BC=CA$, and point $O$ is inside $\triangle ABC$ with $OA=OB=OC$. Find the isosceles triangles and equilateral triangles in the figure.
 
-![week61-1.svg](../../figures/week61-1.svg){width=100%}
+The figure shows an equilateral triangle $ABC$ ($AB=BC=CA$) with an interior point $O$; segments $OA$, $OB$, $OC$ are drawn, and $OA=OB=OC$.
 
 ### Solution to Exercise 1
 
@@ -30,7 +30,7 @@ Hence the isosceles triangles are $\triangle OAB$, $\triangle OBC$, $\triangle O
 
 (Exercise 13.1, Problem 2) As shown, in $\triangle ABC$, $\angle BAC$ is a right angle, $AD\perp BC$ with foot at $D$, and point $E$ lies on segment $BD$. Find the acute triangles, right triangles and obtuse triangles in the figure.
 
-![week61-2.svg](../../figures/week61-2.svg){width=50%}
+The figure shows a right triangle $ABC$ ($\angle BAC=90^\circ$), with $AD\perp BC$ at foot $D$, point $E$ on segment $BD$, and segment $AE$ drawn.
 
 ### Solution to Exercise 2
 
@@ -48,7 +48,7 @@ In summary, the right triangles are $\triangle ABC$, $\triangle ABD$, $\triangle
 
 (Exercise 13.1, Review and Consolidation, Problem 1) As shown, write the triangles having $\angle A$ as an angle, and write the triangles having $BC$ as a side.
 
-![week61-3.svg](../../figures/week61-3.svg){width=50%}
+The figure shows triangle $ABC$ with point $D$ outside the triangle; segment $BD$ intersects $AC$ at point $E$, and segment $DC$ is drawn.
 
 ### Solution to Problem 1
 
@@ -60,7 +60,7 @@ Hence the triangles having $\angle A$ as an angle are $\triangle ABC$, $\triangl
 
 (Exercise 13.1, Review and Consolidation, Problem 2) How many triangles are in the figure? Denote these triangles with symbols.
 
-![week61-4.svg](../../figures/week61-4.svg){width=50%}
+The figure shows points $B,D,E,C$ on the same line, with point $A$ off the line; segments $AB$, $AD$, $AE$, $AC$ are drawn.
 
 ### Solution to Problem 2
 
@@ -76,7 +76,7 @@ They are $\triangle ABC$, $\triangle ABD$, $\triangle ABE$, $\triangle ADE$, $\t
 
 (2) Find the acute triangles, right triangles and obtuse triangles in the figure.
 
-![week61-5.svg](../../figures/week61-5.svg){width=50%}
+The figure shows triangle $ABC$ ($\angle BAC$ is obtuse), with $AD\perp BC$ at foot $D$, point $E$ on $DC$, and $EF\perp AC$ at foot $F$.
 
 ### Solution to Problem 3
 
@@ -92,7 +92,7 @@ In summary, the right triangles are $\triangle ABD$, $\triangle ADE$, $\triangle
 
 (Exercise 13.1, Comprehensive Application, Problem 4) As shown, $AB=BC=CD=DA=AC$. Find the isosceles triangles and equilateral triangles in the figure.
 
-![week61-6.svg](../../figures/week61-6.svg){width=50%}
+The figure shows two equilateral triangles $ABC$ and $ADC$ sharing side $AC$, with vertices $B$ and $D$ on opposite sides of $AC$.
 
 ### Solution to Problem 4
 
@@ -106,7 +106,7 @@ Hence the isosceles triangles are $\triangle ABC$, $\triangle ADC$; the equilate
 
 (Exercise 13.1, Extension and Exploration, Problem 5) As shown, points $A,B$ lie on line $a$, and points $C,D,E$ lie on line $b$. Taking any three of the points $A,B,C,D,E$ as the vertices of a triangle, how many triangles can be formed in total? Write out these triangles.
 
-![week61-7.svg](../../figures/week61-7.svg){width=50%}
+The figure shows two lines $a$ and $b$, with points $A,B$ on line $a$ and points $C,D,E$ on line $b$.
 
 ### Solution to Problem 5
 

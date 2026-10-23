@@ -14,7 +14,7 @@
 
 (练习 13.1 第 1 题) 如图, 在 $\triangle ABC$ 中, $AB=BC=CA$, 点 $O$ 在 $\triangle ABC$ 内, $OA=OB=OC$, 找出图中的等腰三角形和等边三角形.
 
-![week61-1.svg](../../figures/week61-1.svg){width=100%}
+图中为等边三角形 $ABC$（$AB=BC=CA$），内部有一点 $O$，连接 $OA$, $OB$, $OC$，且 $OA=OB=OC$。
 
 ### 解答 练习一
 
@@ -30,7 +30,7 @@
 
 (练习 13.1 第 2 题) 如图, 在 $\triangle ABC$ 中, $\angle BAC$ 是直角, $AD\perp BC$, 垂足为 $D$, 点 $E$ 在线段 $BD$ 上, 找出图中的锐角三角形、直角三角形和钝角三角形.
 
-![week61-2.svg](../../figures/week61-2.svg){width=50%}
+图中为直角三角形 $ABC$（$\angle BAC=90^\circ$），$AD\perp BC$ 垂足为 $D$，点 $E$ 在线段 $BD$ 上，连接 $AE$。
 
 ### 解答 练习二
 
@@ -48,7 +48,7 @@ $\triangle ABE$ 中, $\angle ABE=\angle ABC$ 为锐角 ($\triangle ABC$ 为直�
 
 (习题 13.1 复习巩固第 1 题) 如图, 写出以 $\angle A$ 为角的三角形, 写出以 $BC$ 为边的三角形.
 
-![week61-3.svg](../../figures/week61-3.svg){width=50%}
+图中为三角形 $ABC$，点 $D$ 在三角形外部，连接 $BD$ 交 $AC$ 于点 $E$，并连接 $DC$。
 
 ### 解答 习题一
 
@@ -60,7 +60,7 @@ $\triangle ABE$ 中, $\angle ABE=\angle ABC$ 为锐角 ($\triangle ABC$ 为直�
 
 (习题 13.1 复习巩固第 2 题) 图中有几个三角形? 用符号表示这些三角形.
 
-![week61-4.svg](../../figures/week61-4.svg){width=50%}
+图中点 $B,D,E,C$ 在同一条直线上，点 $A$ 在直线外，连接 $AB$, $AD$, $AE$, $AC$。
 
 ### 解答 习题二
 
@@ -76,7 +76,7 @@ $\triangle ABE$ 中, $\angle ABE=\angle ABC$ 为锐角 ($\triangle ABC$ 为直�
 
 (2) 找出图中的锐角三角形、直角三角形和钝角三角形.
 
-![week61-5.svg](../../figures/week61-5.svg){width=50%}
+图中为三角形 $ABC$（$\angle BAC$ 为钝角），$AD\perp BC$ 垂足为 $D$，点 $E$ 在 $DC$ 上，$EF\perp AC$ 垂足为 $F$。
 
 ### 解答 习题三
 
@@ -92,7 +92,7 @@ $\triangle ABE$ 中, $\angle ABE=\angle ABC$ 为锐角 ($\triangle ABC$ 为直�
 
 (习题 13.1 综合运用第 4 题) 如图, $AB=BC=CD=DA=AC$, 找出图中的等腰三角形和等边三角形.
 
-![week61-6.svg](../../figures/week61-6.svg){width=50%}
+图中为两个等边三角形 $ABC$ 和 $ADC$，以 $AC$ 为公共边，顶点 $B$, $D$ 分别在 $AC$ 两侧。
 
 ### 解答 习题四
 
@@ -106,7 +106,7 @@ $\triangle ABE$ 中, $\angle ABE=\angle ABC$ 为锐角 ($\triangle ABC$ 为直�
 
 (习题 13.1 拓广探索第 5 题) 如图, 已知点 $A,B$ 在直线 $a$ 上, 点 $C,D,E$ 在直线 $b$ 上. 以点 $A,B,C,D,E$ 中的任意三点作为三角形的顶点, 一共可以组成多少个三角形? 分别写出这些三角形.
 
-![week61-7.svg](../../figures/week61-7.svg){width=50%}
+图中两条直线 $a$, $b$，点 $A,B$ 在直线 $a$ 上，点 $C,D,E$ 在直线 $b$ 上。
 
 ### 解答 习题五
 

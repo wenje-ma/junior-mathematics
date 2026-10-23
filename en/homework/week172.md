@@ -10,7 +10,7 @@
 
 (Exercise 29.2, Problem 1) Draw the three views of the regular triangular prism, cone, and hemisphere shown in the figure.
 
-![week172-1.svg](../../figures/week172-1.svg){width=100%}
+The figure shows perspective diagrams of three solids: (1) a regular triangular prism (a right prism with equilateral triangular bases); (2) a cone; (3) a hemisphere (flat face down).
 
 ### Solution to Exercise 1
 
@@ -54,7 +54,7 @@ Comprehensive judgment by **Definition 29.2.2** (Front View, Top View, Left View
 
 (2) Three views: both the front view and the left view are rectangles, and the top view is a circle with crosshairs.
 
-![week172-2.svg](../../figures/week172-2.svg){width=100%}
+The figure shows two sets of three views: (1) front view a triangle, side view a rectangle, top view a rectangle with a vertical line (corresponding to a triangular prism); (2) both front view and left view are rectangles, top view a circle with crosshairs (corresponding to a cylinder).
 
 ### Solution to Exercise 3
 
@@ -88,7 +88,7 @@ By **Definition 29.2.2** and **Conclusion 29.2.1**: the three views of a rectang
 
 (Problem 29.2, Review and Consolidation, Problem 2) Draw the three views of the solids in the figure. The three solids are a rectangular box, a horizontal cylinder, and a regular pentagonal prism, respectively.
 
-![week172-3.svg](../../figures/week172-3.svg){width=100%}
+The figure shows perspective diagrams of three solids: (1) a rectangular box; (2) a horizontal cylinder (axis horizontal, front-to-back); (3) a regular pentagonal prism.
 
 ### Solution to Problem 2
 
@@ -138,7 +138,7 @@ The top view determines the positions of the cubes on the bottom layer, and the 
 
 (Problem 29.2, Comprehensive Application, Problem 6) Draw the three views of the solid in the figure, which is composed of $7$ small cubes, respectively.
 
-![week172-4.svg](../../figures/week172-4.svg){width=100%}
+The figure shows perspective diagrams of two solids made of 7 small cubes: (1) a pyramid stack (4 cubes in a row on the bottom, 2 centered in the middle, 1 on top); (2) an L-shaped column (3×2 grid on the bottom, with a vertical column of 3 on the right side).
 
 ### Solution to Problem 6
 
@@ -152,7 +152,7 @@ By **Conclusion 29.2.1** (Projection Rules for the Three Views), the three views
 
 (Problem 29.2, Comprehensive Application, Problem 7) Draw the three views of the solids in the figure. The two solids are: a composite of a cylinder below and a cone above, and a double cone with two cones joined at their bases.
 
-![week172-5.svg](../../figures/week172-5.svg){width=100%}
+The figure shows perspective diagrams of two composite solids: (1) a cylinder below with a cone on top; (2) a double cone with two cones joined at their bases.
 
 ### Solution to Problem 7
 

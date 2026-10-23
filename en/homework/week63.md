@@ -82,7 +82,7 @@ Hence $\angle A+\angle ADE=\angle A+\angle B=90^\circ$, so in $\triangle ADE$, $
 
 (Exercise 13.3, Problem 1) State the degree measures of $\angle 1$ and $\angle 2$ in each figure below.
 
-![week63-1.svg](../../figures/week63-1.svg){width=100%}
+The figure shows six triangles arranged from left to right and top to bottom: in figure (1), the two given interior angles are $80^\circ$ and $60^\circ$, $\angle 1$ is the third interior angle and $\angle 2$ is an exterior angle; in figure (2), the two given angles are $30^\circ$ and $40^\circ$, $\angle 1$ is the third interior angle and $\angle 2$ is its exterior angle; in figure (3), a right triangle with one given acute angle $40^\circ$, $\angle 1$ is the other acute angle and $\angle 2$ is the exterior angle of that $40^\circ$ acute angle; in figure (4), given $\angle A=70^\circ$, $\angle B=40^\circ$, $\angle 1$ is the exterior angle of $\angle A$ and $\angle 2$ is the third interior angle; in figure (5), an equilateral triangle with a point on side $AB$ joined to vertex $C$, given $\angle 2=20^\circ$, $\angle 1$ is an angle in the small triangle; in figure (6), two lines intersect, with a right triangle below containing a $30^\circ$ acute angle, and $\angle 1$, $\angle 2$ are the corresponding vertical angles at the intersection.
 
 ### Solution to Exercise 5
 
@@ -104,7 +104,7 @@ Figure (6): in the lower right triangle, the other acute angle opposite $30^\cir
 
 (Exercise 13.3, Review and Consolidation, Problem 1) Find the value of $x$ in each figure below.
 
-![week63-2.svg](../../figures/week63-2.svg){width=100%}
+The figure shows four triangles arranged from left to right: in figure (1), the three interior angles are $39^\circ$, $108^\circ$ and $x$; in figure (2), all three interior angles are $x$ (i.e. $3x$); in figure (3), the two interior angles are $72^\circ$ and $2x$; in figure (4), the three interior angles are $x$, $x-36^\circ$, $x+36^\circ$.
 
 ### Solution to Problem 1
 

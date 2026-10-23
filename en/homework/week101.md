@@ -8,7 +8,7 @@
 
 Figure 1(1) looks like a tree and is called a "Pythagorean tree". To draw this pattern, one first draws a figure as in Figure 2 (a right triangle and two small squares on its two legs), then, based on the two small squares, draws two figures of the same shape on top of each, as in Figure 3. Repeating this and finally filling in colors yields the "Pythagorean tree". Explain the mathematics behind each step.
 
-![week101-1.svg](../../figures/week101-1.svg){width=50%}
+The figure shows, from left to right, the construction of the Pythagorean tree: Figure 2 is a right triangle with one small square drawn outward on each of its two legs; Figure 3 repeats, on top of each of the two small squares of Figure 2, a smaller right triangle and two still smaller squares; Figure 1(1) is the colored fractal tree-like pattern obtained after repeating the above process many times.
 
 Each time two new small squares "grow", a right triangle is drawn with the side of the existing square on the hypotenuse as its hypotenuse, and then two new squares are drawn on the two legs.
 

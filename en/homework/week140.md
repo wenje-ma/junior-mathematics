@@ -10,7 +10,7 @@
 
 (A) $y=5x$　(B) $y=2x+3$　(C) $y=\frac4x$　(D) $y=-\frac2x$
 
-![week140-1.svg](../../figures/week140-1.svg){width=100%}
+The figure shows a hyperbola in a rectangular coordinate plane, with its two branches lying respectively in the first quadrant and the third quadrant; the first-quadrant branch passes through the point $(1,4)$, and the two coordinate axes serve as asymptotes.
 
 ### Solution to Exercise 1
 

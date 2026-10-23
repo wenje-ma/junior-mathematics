@@ -126,7 +126,7 @@ When $\Delta<0$, i.e. $k<-\frac98$, the equation has no real root. $\blacksquare
 
 (Review, Comprehensive Application, Problem 6) The lower base of a right trapezoid is $2\ \text{cm}$ longer than the upper base, and its height is $1\ \text{cm}$ shorter than the upper base; its area is $8\ \text{cm}^2$. Draw this trapezoid.
 
-![week132-1.svg](../../figures/week132-1.svg){width=50%}
+The figure shows a right trapezoid: the upper base is short, the lower base is $2\ \text{cm}$ longer, the left leg is perpendicular to both bases (i.e. the height), and the right leg is slanted; the final dimensions are upper base $3\ \text{cm}$, lower base $5\ \text{cm}$, height $2\ \text{cm}$.
 
 ### Solution to Review Problem 6
 
@@ -142,7 +142,7 @@ i.e. $\left(x+1\right)\left(x-1\right)=8$, $x^2-1=8$, $x^2=9$, solving gives $x=
 
 (Review, Comprehensive Application, Problem 7) The length-to-width ratio of a rectangular box is $5:2$, its height is $5\ \text{cm}$, and its surface area is $40\ \text{cm}^2$. Draw the net of this box.
 
-![week132-2.svg](../../figures/week132-2.svg){width=50%}
+The figure shows a plane net of a rectangular box: six rectangular faces arranged in a cross or side-by-side pattern, with final dimensions length $2.5\ \text{cm}$, width $1\ \text{cm}$, height $5\ \text{cm}$.
 
 ### Solution to Review Problem 7
 

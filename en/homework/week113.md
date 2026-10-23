@@ -20,7 +20,7 @@ By **Conclusion 23.2.1** (Graph and Properties of the Direct Proportional Functi
 
 (1) $y=\frac{3}{2}x$ passes through the origin $\left(0, 0\right)$ and the point $\left(2, 3\right)$; drawing the straight line through these two points suffices.
 
-![week113-1.svg](../../figures/week113-1.svg){width=50%}
+The figure shows a plane rectangular coordinate system; a straight line through the origin with slope $\frac{3}{2}$, passing through the first and third quadrants, namely the graph of $y=\frac{3}{2}x$.
 
 (2) $y=-6x$ passes through the origin $\left(0, 0\right)$ and the point $\left(1, -6\right)$; drawing the straight line through these two points suffices. $\blacksquare$
 
@@ -58,7 +58,7 @@ By **Conclusion 23.2.2** (Graph and Properties of the Linear Function), $k=2>0$ 
 
 (1) By **Conclusion 23.2.2** (Graph and Properties of the Linear Function), the three functions all have $k$ equal to $1$, with $b$ equal to $-1$, $0$ and $1$ respectively. Their graphs are three mutually parallel straight lines with the same slope, in a vertical translation relationship.
 
-![week113-2.svg](../../figures/week113-2.svg){width=50%}
+The figure shows a plane rectangular coordinate system with three parallel lines all of slope $1$, from bottom to top: $y=x-1$ (meeting the $y$-axis at $\left(0,-1\right)$), $y=x$ (through the origin), and $y=x+1$ (meeting the $y$-axis at $\left(0,1\right)$).
 
 (2) The three functions have $k$ equal to $-\frac{1}{2}$, $-1$ and $-2$ respectively, and all have $b$ equal to $-1$. Their graphs all pass through the point $\left(0, -1\right)$ on the $y$-axis, but with different slopes; the larger $\left|k\right|$ is, the steeper the line. $\blacksquare$
 
@@ -128,7 +128,7 @@ Free check-in means $y=0$, i.e. $6x-90=0$, which gives $x=15$. Hence the maximum
 
 The distance traveled equals speed times time, so $s=90t$ ($t \geq 0$).
 
-![week113-3.svg](../../figures/week113-3.svg){width=50%}
+The figure shows a plane rectangular coordinate system with horizontal axis time $t$ (unit: h) and vertical axis distance $s$ (unit: km); a ray starting at the origin and extending in the first quadrant with slope $90$, namely the graph of $s=90t$ ($t\geq0$).
 
 $\blacksquare$
 
@@ -156,7 +156,7 @@ It passes through the point $\left(0, 0\right)$ and the point $\left(1, -5\right
 
 ### Solution to Problem 3
 
-![week113-4.svg](../../figures/week113-4.svg){width=50%}
+The figure shows four straight lines in one plane rectangular coordinate system: $y=4x$ (through the origin, slope $4$), $y=4x+1$ (meeting the $y$-axis at $\left(0,1\right)$, parallel to $y=4x$), $y=-4x+1$ (meeting the $y$-axis at $\left(0,1\right)$, slope $-4$), and $y=-4x-1$ (meeting the $y$-axis at $\left(0,-1\right)$, parallel to $y=-4x+1$).
 
 $\blacksquare$
 
@@ -192,7 +192,7 @@ Subtracting the two equations gives $10k=-5$, so $k=-\frac{1}{2}$. Substituting 
 
 (2) The graph is the straight line through $\left(-4, 9\right)$ and $\left(6, 4\right)$.
 
-![week113-5.svg](../../figures/week113-5.svg){width=50%}
+The figure shows a plane rectangular coordinate system; a straight line of slope $-\frac{1}{2}$ passing through points $\left(-4,9\right)$ and $\left(6,4\right)$, meeting the $y$-axis at $\left(0,7\right)$, namely the graph of $y=-\frac{1}{2}x+7$.
 
 (3) Substituting $x=2$ into $y=-\frac{1}{2}x+7$ gives $y=-\frac{1}{2}\times2+7=6 \neq 5$. Hence the point $\left(2, 5\right)$ does not lie on the graph. $\blacksquare$
 

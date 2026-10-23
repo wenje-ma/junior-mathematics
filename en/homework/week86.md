@@ -118,7 +118,7 @@ By **Definition 17.2.3**.
 
 (Review Problems, Comprehensive Application, Problem 6) As shown in the figure, on a circular steel plate of radius $R$, four small circles of radius $r$ are cut out. Calculate the area of the remaining part when $R=5.6\ \text{cm}$ and $r=1.2\ \text{cm}$ (take $\pi$ as $3.14$).
 
-![week86-1.svg](../../figures/week86-1.svg){width=50%}
+The figure shows a large circle of radius $R$ (the circular steel plate), from which four small circles of radius $r$ are cut out at the upper-left, upper-right, lower-left and lower-right positions; the four small circles are identical, each pair externally tangent and all close to the edge of the large circle, and the remaining part is shaded.
 
 ### Solution to Review Problem 6
 

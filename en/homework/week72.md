@@ -16,7 +16,7 @@
 
 (Exercise 15.1, Problem 1) Is each figure shown an axisymmetric figure? If so, point out its axis of symmetry.
 
-![week72-1.svg](../../figures/week72-1.svg){width=100%}
+The figure shows five diagrams arranged from left to right: (1) a butterfly facing the viewer with wings spread; (2) five small paper planes scattered irregularly across the picture; (3) a rectangular bridge-shaped road sign with a green background and white pattern; (4) a circular Tai Chi (yin-yang) symbol with two fish eyes; (5) a light blue square.
 
 ### Solution to Exercise 1
 
@@ -26,7 +26,7 @@ By **Definition 15.1.1** (Axisymmetric Figure), a figure that can be folded alon
 
 (Exercise 15.1, Problem 2) Are the two patterns in each figure shown symmetric about a line? If so, point out their axis of symmetry and find a pair of symmetric points.
 
-![week72-2.svg](../../figures/week72-2.svg){width=100%}
+The figure shows three groups arranged from left to right: (1) an orange Chinese "double happiness" character; (2) two orange letters "F" placed side by side with exactly the same orientation; (3) two letters "F", the right one being the left one mirrored left-to-right.
 
 ### Solution to Exercise 2
 
@@ -122,7 +122,7 @@ By **Definition 15.1.1** (Axisymmetric Figure), a figure for which a line can be
 
 (Exercise 15.1, Review and Consolidation, Problem 2) Which triangles in the figure form an axisymmetric pair with the shaded triangle? If the $4$ triangles are regarded as a whole, is it an axisymmetric figure? How many axes of symmetry are there in total?
 
-![week72-3.svg](../../figures/week72-3.svg){width=50%}
+The figure shows a rhombus (whose two diagonals perpendicularly bisect each other) divided into four triangles by its two diagonals; the two upper triangles are labeled $1$ and $2$ from left to right, the lower-right triangle is labeled $3$, and the lower-left triangle is shaded orange.
 
 ### Solution to Problem 2
 
@@ -184,7 +184,7 @@ Point $E$ lies on $AD$; by **Conclusion 15.1.2** (Properties of the Perpendicula
 
 (Exercise 15.1, Comprehensive Application, Problem 7) Are the following figures axisymmetric? If so, draw one axis of symmetry.
 
-![week72-4.svg](../../figures/week72-4.svg){width=100%}
+The figure shows six shapes arranged from left to right: (1) a light blue isosceles triangle; (2) a pink right triangle; (3) a light green isosceles trapezoid; (4) a light blue rectangle; (5) a pink cross (plus) shape made of equal-width horizontal and vertical strips; (6) a light green regular pentagon.
 
 ### Solution to Problem 7
 

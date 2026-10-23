@@ -40,7 +40,7 @@ $\cos A=\frac{b}{c}=\frac{20}{30}=\frac{2}{3}$; using a calculator, $\angle A\ap
 
 (Exercise 28.2, Problem 1) As shown in the figure, a flagpole $AB$ stands on a building $BC$. From point $D$, $40\ \text{m}$ from $BC$, the angle of elevation to the top $A$ of the flagpole is $50^{\circ}$, and the angle of elevation to the bottom $B$ of the flagpole is $45^{\circ}$. Find the height of the flagpole (round to one decimal place).
 
-![week168-1.svg](../../figures/week168-1.svg){width=100%}
+The figure shows a vertical building $BC$ with flagpole $AB$ on top; point $D$ on the ground is $40\ \text{m}$ horizontally from the building base $C$. From $D$, the angle of elevation to the flagpole top $A$ is $50^\circ$, and to the flagpole bottom $B$ is $45^\circ$; $DC$ is horizontal and $AC$ is vertical.
 
 ### Solution to Exercise 2
 
@@ -74,7 +74,7 @@ Thus the excavation point $E$ is about $334.3\ \text{m}$ from $D$. $\blacksquare
 
 (Exercise 28.2, Problem 1) As shown in the figure, there is an island $A$ in the sea, and within $8\ \text{n mile}$ around it there are reefs. A fishing boat sails from west to east. At point $B$, the island $A$ is measured to be in the direction $60^{\circ}$ east of north; after sailing $12\ \text{n mile}$ to point $D$, the island $A$ is measured to be in the direction $30^{\circ}$ east of north. If the fishing boat continues due east without changing course, is there a danger of striking a reef?
 
-![week168-2.svg](../../figures/week168-2.svg){width=100%}
+The figure shows a navigation diagram at sea: island $A$ lies in the sea, and a fishing boat travels eastward along route $BD$; at point $B$, island $A$ is observed on a bearing of $60^\circ$ east of north; after sailing $12\ \text{n mile}$ eastward to point $D$, island $A$ is observed on a bearing of $30^\circ$ east of north; $AE$ is drawn perpendicular to $BD$ at $E$.
 
 ### Solution to Exercise 4
 
@@ -202,7 +202,7 @@ By **Definition 28.1.3** (Tangent), $\tan 65^{\circ}=\frac{h}{65}$, so $h=65\tim
 
 (Problem 28.2, Comprehensive Application, Problem 8) As shown in the figure, a launch vehicle is launched from point $L$ on the ground. When the rocket reaches point $A$, the distance $AR$ measured from a radar station at point $R$ on the ground is $6\ \text{km}$, with an angle of elevation of $43^{\circ}$; $1\ \text{s}$ later the rocket reaches point $B$, at which time the measured angle of elevation is $45.54^{\circ}$. What is the average speed of this rocket from $A$ to $B$ (round to two decimal places)?
 
-![week168-3.svg](../../figures/week168-3.svg){width=50%}
+The figure shows a rocket launch diagram: the rocket launches vertically upward from ground point $L$, and the radar station is at ground point $R$, with $LR$ being the horizontal distance; when the rocket reaches point $A$, $AR=6\ \text{km}$ and angle of elevation $\angle ARL=43^\circ$; $1\ \text{s}$ later at point $B$, the angle of elevation is $\angle BRL=45.54^\circ$, and $A,B,L$ lie on the same vertical line.
 
 ### Solution to Problem 8
 
@@ -250,7 +250,7 @@ Actually, the critical course from $A$ that avoids the reef circle is a tangent 
 
 (Problem 28.2, Extension and Exploration, Problem 11) Based on the positions of the triangular region marked in the figure, calculate the area of the triangular region (round to an integer). In the figure: triangle $ABC$, $AC=1700\ \text{m}$; at $A$, $C$ is measured to be in the direction $62^{\circ}$ east of north; $BC=2720\ \text{m}$; at $B$, $C$ is measured to be in the direction $54^{\circ}$ west of north.
 
-![week168-4.svg](../../figures/week168-4.svg){width=50%}
+The figure shows a position diagram of triangular region $ABC$: $AC=1700\ \text{m}$, and from $A$, $C$ is observed in the direction $62^\circ$ east of north; $BC=2720\ \text{m}$, and from $B$, $C$ is observed in the direction $54^\circ$ west of north; a north-direction marker is included in the figure.
 
 ### Solution to Problem 11
 

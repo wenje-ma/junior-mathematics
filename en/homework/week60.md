@@ -16,7 +16,7 @@
 
 (3) Infer the changing pattern of daylight duration in Beijing, and determine which day has the longest daylight.
 
-![week60-1.svg](../../figures/week60-1.svg){width=50%}
+The figure is a line chart with the 24 solar terms in order on the horizontal axis and daylight duration (hours) on the vertical axis, showing the variation of Beijing's daylight duration on each solar term day in 2024.
 
 ### Solution to Inquiry 1
 

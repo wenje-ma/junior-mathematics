@@ -14,7 +14,7 @@
 
 (Review Exercise, Review and Consolidation, Problem 1) Plot the following points in the rectangular coordinate system, and indicate the x-coordinate, y-coordinate, and the quadrant of each point: $A\left(2,3\right)$, $B\left(-2,3\right)$, $C\left(-2,-3\right)$, $D\left(2,-3\right)$.
 
-![week44-1.svg](../../figures/week44-1.svg){width=50%}
+The figure shows a Cartesian coordinate plane with four points $A\left(2,3\right)$, $B\left(-2,3\right)$, $C\left(-2,-3\right)$, $D\left(2,-3\right)$.
 
 ### Solution to Review Exercise 1
 
@@ -32,7 +32,7 @@ $D\left(2,-3\right)$: x-coordinate $2$, y-coordinate $-3$, x positive and y nega
 
 (Review Exercise, Review and Consolidation, Problem 2) As shown in the figure, write down the coordinates of each vertex of the octagon.
 
-![week44-3.svg](../../figures/week44-3.svg){width=50%}
+The figure shows an octagon in a Cartesian coordinate plane, symmetric about both the $x$-axis and $y$-axis.
 
 ### Solution to Review Exercise 2
 
@@ -58,7 +58,7 @@ $\blacksquare$
 
 Observe the resulting figures. What do you think they look like?
 
-![week44-4.svg](../../figures/week44-4.svg){width=50%}
+The figure shows a pattern formed by connecting four groups of points in a Cartesian coordinate plane (resembling a butterfly with spread wings or a windmill).
 
 ### Solution to Review Exercise 3
 
@@ -136,7 +136,7 @@ That is, $A'\left(0,\sqrt 3\right)$, $B'\left(2\sqrt 3,\sqrt 3\right)$, $C'\left
 
 ### Solution to Review Exercise 8
 
-![week44-2.svg](../../figures/week44-2.svg){width=50%}
+The figure shows a scatter plot with the horizontal axis representing weekly after-school time spent on the internet (unit: $h$) and the vertical axis representing weekly after-school time spent on physical exercise (unit: $h$), with data points for $10$ students.
 
 (1) By **Definition 9.1.1** (Rectangular Coordinate System), let the horizontal axis represent out-of-class time spent on surfing the internet and the vertical axis represent out-of-class time spent on physical exercise; plot the $10$ points according to the data in the figure.
 
@@ -156,7 +156,7 @@ By **Method 9.2.1** (Representing Geographic Locations with Coordinates), choose
 
 (Review Exercise, Extension and Exploration, Problem 10) Near Xingkang Community there are five delivery relay stations: the first is at the neighborhood committee, the second is $2000\,m$ from the neighborhood committee in the north by east $30^\circ$ direction, the third is $4500\,m$ due west of the neighborhood committee, the fourth is $3000\,m$ from the neighborhood committee in the southeast direction, and the fifth is $2500\,m$ due south of the neighborhood committee. Please draw a plan showing the positions of these five delivery relay stations.
 
-![week44-5.svg](../../figures/week44-5.svg){width=50%}
+The figure shows a location map of five delivery stations, with the neighborhood committee as the origin, marking the direction and distance of each station.
 
 ### Solution to Review Exercise 10
 

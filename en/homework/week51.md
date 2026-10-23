@@ -146,7 +146,7 @@ By **Property 11.1.1**, **Property 11.1.2**, **Property 11.1.3**.
 
 (4) $-8x>10$.
 
-![week51-1.svg](../../figures/week51-1.svg){width=100%}
+The figure shows number lines representing the solution sets of four inequalities respectively: $x>-6$, $x<5$, $x\le\frac{67}{17}$, and $x<-\frac{5}{4}$.
 
 ### Solution to Exercise 6
 
@@ -266,7 +266,7 @@ By **Definition 11.1.2** (Solution of an Inequality), $2x+3>9$ is equivalent to 
 
 (4) $4y\ge-12$.
 
-![week51-2.svg](../../figures/week51-2.svg){width=100%}
+The figure shows number lines representing the solution sets of four inequalities respectively: $x>-4$, $x\le-7$, $y>-2$, and $y\ge-3$.
 
 ### Solution to Problem 5
 

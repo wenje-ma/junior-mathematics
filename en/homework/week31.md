@@ -86,7 +86,7 @@ Use two parallel segments to represent the two sides of one road, with the two g
 
 (Exercise 7.2, Problem 1) As shown in the figure, line $a\parallel b$, $\angle 1=54^\circ$. How many degrees are $\angle 2$, $\angle 3$, and $\angle 4$?
 
-![week31-1.svg](../../figures/week31-1.svg){width=50%}
+The figure shows two parallel lines $a$, $b$ cut by a transversal: at the intersection of $a$ and the transversal are marked $\angle 1$ and its vertical angle $\angle 2$; at the intersection of $b$ and the transversal are marked $\angle 3$ (alternate interior to $\angle 1$) and $\angle 4$ (consecutive interior to $\angle 1$).
 
 ### Solution to Exercise 6
 
@@ -208,7 +208,7 @@ By **Property 7.2.2** (Property 2), parallel lines give equal alternate interior
 
 (1) $\angle 2+\angle 5=180^\circ$　(2) $\angle 2=\angle 4$　(3) $\angle 4+\angle 5=180^\circ$　(4) $\angle 1=\angle 3$
 
-![week31-3.svg](../../figures/week31-3.svg){width=50%}
+The figure shows two lines $a$, $b$ cut by a transversal, with five angles $\angle 1$, $\angle 2$, $\angle 3$, $\angle 4$, $\angle 5$ marked at the two intersections.
 
 ### Solution to Problem 4
 
@@ -228,7 +228,7 @@ In summary, the ones that can determine line $a\parallel b$ are (2)(3). $\blacks
 
 (Exercise 7.2, Review and Consolidation, Problem 5) As shown in the figure, $a\parallel b$, lines $c$, $d$ are transversals, $\angle 1=80^\circ$, $\angle 5=70^\circ$. How many degrees are $\angle 2$, $\angle 3$, and $\angle 4$? Why?
 
-![week31-2.svg](../../figures/week31-2.svg){width=50%}
+The figure shows two parallel lines $a$, $b$ cut by two transversals $c$, $d$: at the intersection of $a$ and $c$ is marked $\angle 1$; at the intersection of $a$ and $d$ is marked $\angle 5$; at the intersection of $b$ and $c$ is marked $\angle 2$ (alternate interior to $\angle 1$); at the intersection of $b$ and $d$ are marked $\angle 3$ (corresponding to $\angle 5$) and $\angle 4$ (consecutive interior to $\angle 5$).
 
 ### Solution to Problem 5
 
@@ -286,7 +286,7 @@ The vertical-angle protractor makes use of **Theorem 7.1.1** (Vertical Angles Ar
 
 (Exercise 7.2, Comprehensive Application, Problem 10) As shown in the figure, if $AB\parallel FE$, $BC\parallel DE$, then what is $\angle E+\angle B$ equal to?
 
-![week31-4.svg](../../figures/week31-4.svg){width=50%}
+The figure shows a broken line $ABC$ and another broken line $FED$, with $AB\parallel FE$ and $BC\parallel DE$; $\angle B$ is $\angle ABC$ and $\angle E$ is $\angle FED$.
 
 ### Solution to Problem 10
 
@@ -332,7 +332,7 @@ In the classroom, examples of these positional relationships include the opposit
 
 (Exercise 7.2, Extension and Exploration, Problem 14) As shown in the figure, the two mirrors in a periscope are placed parallel to each other. When light rays reflect off the mirrors, $\angle 1=\angle 2$, $\angle 3=\angle 4$. What is the relationship between $\angle 2$ and $\angle 3$? Why is the ray entering the periscope parallel to the ray leaving the periscope?
 
-![week31-5.svg](../../figures/week31-5.svg){width=50%}
+The figure shows a cross-section of a periscope: two mirrors placed parallel to each other, one above the other; an incoming ray enters from one side, reflects off the first mirror, strikes the second mirror, and reflects out the other side. At the first mirror are marked $\angle 1$ (angle between incident ray and mirror) and $\angle 2$ (angle between reflected ray and mirror); at the second mirror are marked the corresponding $\angle 3$ and $\angle 4$.
 
 ### Solution to Problem 14
 

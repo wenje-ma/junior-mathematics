@@ -16,7 +16,7 @@ When $0 \leq t \leq 2$, $T=20$.
 
 When $2 < t \leq 4$, $T=20+5\left(t-2\right)=5t+10$.
 
-![week115-1.svg](../../figures/week115-1.svg){width=50%}
+The figure shows a plane rectangular coordinate system with horizontal axis time $t$ (unit: h) and vertical axis temperature $T$ (unit: $^\circ\text{C}$); the graph consists of two pieces: for $0\leq t\leq2$ a horizontal segment at height $20^\circ\text{C}$, and for $2<t\leq4$ a segment rising from $\left(2,20\right)$ to $\left(4,30\right)$.
 
 $\blacksquare$
 

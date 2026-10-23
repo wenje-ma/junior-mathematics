@@ -52,7 +52,7 @@ A full angle is $360^{\circ}$; dividing it into $5$ equal parts gives $72^{\circ
 
 Connecting every other pair of points means drawing the diagonals of the regular pentagon; the five diagonals intersect to form a five-pointed star. This is because the diagonals of a regular pentagon exactly form a regular pentagram, with each sharp tip $36^{\circ}$.
 
-![week27-1.svg](../../figures/week27-1.svg){width=50%}
+The figure shows a circle with its inscribed regular pentagon: five equally spaced points on the circle (adjacent points separated by $72^{\circ}$) are arranged in order, and connecting every other pair of points (the five diagonals of the regular pentagon) yields a five-pointed star.
 
 $\blacksquare$
 

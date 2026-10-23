@@ -12,7 +12,7 @@
 
 ### Solution to Exercise 1
 
-![week114-1.svg](../../figures/week114-1.svg){width=50%}
+The figure shows a plane rectangular coordinate system; a straight line of slope $-2$ meeting the $y$-axis at $\left(0,8\right)$ and the $x$-axis at $\left(4,0\right)$, namely the graph of $y=-2x+8$.
 
 By **Conclusion 23.3.1** (Linear Functions and Linear Equations in One Variable), the x-coordinate of the intersection of the line $y=-2x+8$ with the $x$-axis is the solution of the equation $-2x+8=0$. Setting $y=0$ gives $x=4$.
 
@@ -92,7 +92,7 @@ Over the interval $2 \leq x \leq 6$, Team B passes through $\left(2, 0\right)$ a
 
 ### Solution to Problem 5
 
-![week114-2.svg](../../figures/week114-2.svg){width=50%}
+The figure shows two straight lines in one plane rectangular coordinate system: $y_1=-\frac{1}{2}x+2$ (slope $-\frac{1}{2}$, meeting the $y$-axis at $\left(0,2\right)$) and $y_2=3x+9$ (slope $3$, meeting the $y$-axis at $\left(0,9\right)$); the two lines intersect at $\left(-2,3\right)$.
 
 Setting $y_1=y_2$, i.e. $-\frac{1}{2}x+2=3x+9$, gives $x=-2$.
 

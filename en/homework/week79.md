@@ -484,7 +484,7 @@ $\blacksquare$
 
 (Exercise 16.2, Comprehensive Application, Problem 9) Calculate the area of the green shaded region shown in the figure (length unit: $\text{m}$).
 
-![week79-1.svg](../../figures/week79-1.svg){width=50%}
+The figure shows a large rectangle whose horizontal width is divided, from left to right, into segments of width $a$, $2a$, $2a$, $2a$, $a$ (total width $8a$), and whose total vertical height is $2.5a+1.5a=4a$; at the bottom there are two side-by-side blank small rectangles, each of size $2a\times2.5a$, and the remaining region is the green shaded area.
 
 ### Solution to Problem 9
 

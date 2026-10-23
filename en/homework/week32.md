@@ -62,7 +62,7 @@ $\therefore AD\parallel BC$ (_______).
 
 $\therefore\angle C+\angle D=180^\circ$ (_______).
 
-![week32-1.svg](../../figures/week32-1.svg){width=50%}
+The figure shows quadrilateral $ABCD$ with vertices in order $A$-$B$-$C$-$D$; $\angle A$ and $\angle B$ are consecutive interior angles formed when lines $AD$, $BC$ are cut by line $AB$, and $\angle C$ and $\angle D$ are consecutive interior angles formed when lines $AD$, $BC$ are cut by line $CD$.
 
 ### Solution to Exercise 4
 

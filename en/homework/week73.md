@@ -58,7 +58,7 @@ By **Conclusion 15.2.2** (Axis Symmetry in Coordinates), obtain the symmetric po
 
 (Exercise 15.2, Review and Consolidation, Problem 1) As shown, complete each figure into a figure symmetric about line $l$.
 
-![week73-1.svg](../../figures/week73-1.svg){width=100%}
+The figure shows, from left to right, four pairs of an unfinished figure and its axis of symmetry $l$: the first pair shows an angular pentagon (an L-shape) lying to the left of a vertical line $l$; the second shows a right triangle on one side of a diagonal line $l$ running from lower-left to upper-right; the third shows a green small-tree outline to the left of a vertical line $l$; the fourth shows a triangle to the left of a vertical line $l$.
 
 ### Solution to Problem 1
 
@@ -68,7 +68,7 @@ By **Conclusion 15.2.1** (Drawing an Axisymmetric Figure), construct the symmetr
 
 (Exercise 15.2, Review and Consolidation, Problem 2) In each of the following figures, add the fewest small squares at appropriate positions so that the resulting figure is symmetric about the dashed line.
 
-![week73-2.svg](../../figures/week73-2.svg){width=100%}
+The figure shows, from left to right, three puzzle shapes each made of several small unit squares, with a dashed line through the middle serving as the axis of symmetry: the first has a horizontal dashed line; the second has a vertical dashed line; the third has a diagonal dashed line running from lower-left to upper-right.
 
 ### Solution to Problem 2
 
@@ -132,7 +132,7 @@ The four points being axisymmetric means there exists a line making the four poi
 
 (Exercise 15.2, Extension and Exploration, Problem 8) As shown, respectively draw the figures symmetric to $\triangle PQR$ about line $m$ (on which every point has abscissa $1$) and line $n$ (on which every point has ordinate $-1$). What are the relationships among the symmetric point coordinates respectively?
 
-![week73-3.svg](../../figures/week73-3.svg){width=50%}
+The figure shows a plane rectangular coordinate system, with the $x$-axis ranging roughly from $-7$ to $7$ and the $y$-axis from $-7$ to $7$; the three vertices of triangle $PQR$ are $P\left(-1,3\right)$, $Q\left(-4,5\right)$ and $R\left(-4,1\right)$; the pink line $m$ is the vertical line $x=1$, and the pink line $n$ is the horizontal line $y=-1$.
 
 ### Solution to Problem 8
 

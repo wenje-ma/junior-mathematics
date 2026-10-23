@@ -24,7 +24,7 @@ By **Definition 29.1.1** (Projection) and **Conclusion 29.1.2** (Orthogonal Proj
 
 (Exercise 29.1, Problem 2) As shown in the figure, with the direction of the projection lines as indicated by the arrow, draw the orthogonal projection of the cylinder.
 
-![week171-1.svg](../../figures/week171-1.svg){width=100%}
+The figure shows a vertically placed cylinder, with an arrow beside it indicating the projection direction (from front to back); the task is to draw the orthogonal projection of the cylinder.
 
 ### Solution to Exercise 2
 
@@ -86,7 +86,7 @@ The surface area is $S=\pi r^{2}+\pi rl=\pi\times\frac{9}{4}+\pi\times\frac{3}{2
 
 (3) The projection lines shine from above the object to below.
 
-![week171-2.svg](../../figures/week171-2.svg){width=100%}
+The figure shows a regular hexagonal prism (a right prism with regular hexagonal bases) placed in a certain orientation; the task is to draw the orthogonal projections from three directions: front, left, and top.
 
 ### Solution to Problem 5
 

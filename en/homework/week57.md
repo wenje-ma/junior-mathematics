@@ -58,7 +58,7 @@ The total budget is $2100+1750+1100+550+350+500+350+300=7000$ yuan. Use a pie ch
 
 (Exercise 12.2, Problem 4) China's total goods exports (hundred million yuan) from 2013 to 2022 were $137131,143884,141167,138419,153309,164129,172374,179279,214255,237412$; the total imports were $121038,120358,104336,104967,124790,140881,143254,142936,173159,180600$. Choose an appropriate statistical chart to describe and compare them.
 
-![week57-1.svg](../../figures/week57-1.svg){width=50%}
+The figure is a compound line chart with years (2013–2022) on the horizontal axis and total import/export value of goods (100 million yuan) on the vertical axis; two lines respectively show total exports and total imports.
 
 ### Solution to Exercise 4
 
@@ -68,7 +68,7 @@ By **Definition 12.2.3** (Line Chart), draw a composite line chart as shown. Exc
 
 (Exercise 12.2, Problem 5) The heights (cm) of 63 seventh-grade students: maximum $172$, minimum $149$, range $23$. Take a class width of $3$ and divide into $8$ groups: $149\le x<152$, $152\le x<155$, $\ldots$, $170\le x<173$. The frequencies of the groups are $2,6,12,19,10,8,4,2$. Draw a frequency distribution histogram and state from which range to select the honor guard members.
 
-![week57-2.svg](../../figures/week57-2.svg){width=50%}
+The figure is a frequency distribution histogram with height groups ($149\le x<152$ through $170\le x<173$, class width $3\,\text{cm}$) on the horizontal axis and frequency on the vertical axis; the group frequencies are respectively $2, 6, 12, 19, 10, 8, 4, 2$.
 
 ### Solution to Exercise 5
 
@@ -78,7 +78,7 @@ By **Definition 12.2.6** (Frequency Distribution Histogram), the histogram is as
 
 (Exercise 12.2, Problem 6) For a drink shop, the data of the number of cold-drink cups sold in a day versus the day's highest temperature ($^\circ\text{C}$) are: temperature $12,13,17,19,20,22,24,25,28$; cups $50,69,74,90,108,97,119,125,154$. Use a trend chart to describe the relationship and estimate the number of cups sold at a temperature of $30^\circ\text{C}$.
 
-![week57-3.svg](../../figures/week57-3.svg){width=50%}
+The figure is a trend chart with maximum temperature ($^\circ\text{C}$) on the horizontal axis and number of cold drinks sold on the vertical axis; scatter points are plotted with a trend line drawn through them.
 
 ### Solution to Exercise 6
 

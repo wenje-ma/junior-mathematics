@@ -182,7 +182,7 @@ $$
 
 Organize the data, draw a bar chart, and infer how most customers rate the saltiness.
 
-![week56-1.svg](../../figures/week56-1.svg){width=50%}
+The figure is a bar chart with rating categories on the horizontal axis (A too salty, B slightly salty, C just right, D slightly bland, E too bland) and frequency on the vertical axis; the frequencies are respectively A: 3, B: 6, C: 19, D: 4, E: 4.
 
 ### Solution to Problem 8
 

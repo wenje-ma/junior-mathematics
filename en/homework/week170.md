@@ -122,7 +122,7 @@ By **Definition 28.1.3** (Tangent), $\tan 33^{\circ}=\frac{42}{d}$, so $d=\frac{
 
 (Review Problem, Comprehensive Application, Problem 8) As shown in the figure, the horizontal distance $BC$ between two buildings is $428.3\ \text{m}$. From point $A$, the angle of depression $\alpha$ to point $D$ is measured to be $35^{\circ}12'$, and the angle of depression $\beta$ to point $C$ is measured to be $43^{\circ}24'$. Find the heights of the two buildings (round to one decimal place).
 
-![week170-1.svg](../../figures/week170-1.svg){width=50%}
+The figure shows two vertical buildings: the taller one $AC$ ($C$ at its base) and the shorter one $BD$ ($D$ at its top, $B$ at its base), with horizontal distance $BC=428.3\ \text{m}$ between their bases; from the top $A$ of the taller building, the angle of depression to $D$ is $\alpha=35^\circ12'$, and to $C$ is $\beta=43^\circ24'$.
 
 ### Solution to Review Problem 8
 
@@ -144,7 +144,7 @@ The heights of the two buildings are about $404.9\ \text{m}$ and $102.3\ \text{m
 
 (Review Problem, Comprehensive Application, Problem 9) The shape of the wing of a certain model of aircraft is shown in the figure. Based on the data in the figure, calculate the lengths of $AC$, $BD$, and $AB$ (round to two decimal places). In the figure: quadrilateral $CDBA$, where $CD$ is the left vertical side, $CD=3.40\ \text{m}$; $DB$ is the lower horizontal side, $DB=5.00\ \text{m}$; at $C$, $\angle DCA=45^{\circ}$; at $B$, $\angle DBA=30^{\circ}$.
 
-![week170-4.svg](../../figures/week170-4.svg){width=50%}
+The figure shows the aircraft wing shape, quadrilateral $CDBA$: left vertical side $CD=3.40\ \text{m}$, bottom horizontal side $DB=5.00\ \text{m}$; top side $CA$ slopes upward to the right from $C$ at $45^\circ$ to the vertical, and right side $BA$ slopes upward to the left from $B$ at $30^\circ$ to the horizontal, with $CA$ and $BA$ meeting at $A$.
 
 ### Solution to Review Problem 9
 
@@ -176,7 +176,7 @@ $$AB=\frac{5.00-1.214}{\cos 30^{\circ}}=\frac{3.786}{0.8660}\approx 4.37\ \text{
 
 (2) When the foot of the ladder is $2.4\ \text{m}$ from the wall, what is $\alpha$ in degrees (round to an integer)? At this time, can the person safely use this ladder?
 
-![week170-3.svg](../../figures/week170-3.svg){width=50%}
+The figure shows a ladder leaning against a vertical wall, with its foot on the horizontal ground; the angle between the ladder and the ground is $\alpha$, and the top of the ladder rests against the wall.
 
 ### Solution to Review Problem 10
 
@@ -198,7 +198,7 @@ Since $50^{\circ}\le 66^{\circ}\le 75^{\circ}$, the person can safely use this l
 
 (2) Find the perimeter of rectangle $ABCD$.
 
-![week170-2.svg](../../figures/week170-2.svg){width=50%}
+The figure shows rectangle $ABCD$; side $AD$ is folded along crease $AE$ so that point $D$ lands on point $F$ on side $BC$, with $E$ on side $CD$.
 
 ### Solution to Review Problem 11
 

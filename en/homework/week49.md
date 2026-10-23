@@ -10,7 +10,7 @@
 
 (Mathematical Activity, Activity 1, Problem 1) In the rectangular coordinate system, mark some points whose coordinates are the solutions of the equation $x-y=0$; draw a line through any two of these points. What do you discover? Take any point on this line; are its coordinates a solution of the equation $x-y=0$?
 
-![week49-1.svg](../../figures/week49-1.svg){width=50%}
+The figure shows a Cartesian coordinate plane with several points whose coordinates are solutions of the equation $x-y=0$; all these points lie on the line $y=x$.
 
 ### Solution to Activity 1
 
@@ -33,7 +33,7 @@ $$
 
 and obtain the solution of this system from the graphs.
 
-![week49-2.svg](../../figures/week49-2.svg){width=50%}
+The figure shows a Cartesian coordinate plane with the line $y=4-2x$ (through $(0,4)$ and $(2,0)$) and the line $y=x+1$ (through $(0,1)$ and $(1,2)$); the two lines intersect at the point $(1,2)$.
 
 ### Solution to Activity 2
 

@@ -64,7 +64,7 @@ Those obtained by prefixing a positive number with the sign "$-$" are $-12$, $-3
 
 (Exercise 1.2, Problem 1) As shown in the figure, write down the numbers represented by the points $A$, $B$, $C$, $D$, $E$ on the number line.
 
-![week2-1.svg](../../figures/week2-1.svg){width=50%}
+On the number line, with the origin $0$ as its center, rightward as the positive direction, and unit length $1$: point $A$ is at the origin and represents $0$, point $B$ is $2$ unit lengths to the left of the origin and represents $-2$, point $C$ is $1$ unit length to the right of the origin and represents $1$, point $D$ is $3$ unit lengths to the left of the origin and represents $-3$, and point $E$ is $2.5$ unit lengths to the right of the origin and represents $2.5$.
 
 ### Solution to Exercise 4
 
@@ -80,7 +80,7 @@ Hence the numbers represented by points $A$, $B$, $C$, $D$, $E$ are $0$, $-2$, $
 
 $$-5,\ 3.5,\ -\frac{7}{2},\ -\frac{1}{2},\ \frac{3}{2},\ 5,\ \frac{9}{2}.$$
 
-![week2-2.svg](../../figures/week2-2.svg){width=50%}
+On a number line with origin $0$, rightward as the positive direction, and unit length $1$, mark the points at $-5$, $-3.5$, $-0.5$, $1.5$, $3.5$, $4.5$, $5$, corresponding respectively to $-5$, $-\frac{7}{2}$, $-\frac{1}{2}$, $\frac{3}{2}$, $3.5$, $\frac{9}{2}$, $5$.
 
 ### Solution to Exercise 5
 
@@ -338,7 +338,7 @@ Hence the set of positive rational numbers is $\left\{3,\ 1\frac{3}{4},\ 0.45,\ 
 
 (Exercise 1.2, Review and Consolidation, Problem 2) As shown in the figure, on the number line the number represented by point $A$ is $\;\_\_\;$, the number represented by point $B$ is $\;\_\_\;$, the number represented by point $C$ is $\;\_\_\;$, the number represented by point $D$ is $\;\_\_\;$, the number represented by point $E$ is $\;\_\_\;$.
 
-![week2-3.svg](../../figures/week2-3.svg){width=50%}
+On the number line, with the origin $0$ as its center, rightward as the positive direction, and unit length $1$: point $A$ is at the origin and represents $0$, point $B$ is $2$ unit lengths to the right of the origin and represents $2$, point $C$ is $2.5$ unit lengths to the left of the origin and represents $-2.5$, point $D$ is $3$ unit lengths to the left of the origin and represents $-3$, and point $E$ is $2.5$ unit lengths to the right of the origin and represents $2.5$.
 
 ### Solution to Problem 2
 
@@ -412,7 +412,7 @@ By **Definition 1.2.7** (Comparing the Magnitude of Rational Numbers), for two n
 
 $$2,\ 2\frac{4}{5},\ -0.5,\ -2,\ 0,\ -2\frac{4}{5},\ \frac{1}{2},\ 1.2.$$
 
-![week2-4.svg](../../figures/week2-4.svg){width=50%}
+On a number line with origin $0$, rightward as the positive direction, and unit length $1$, mark the points at $-2.8$, $-2$, $-0.5$, $0$, $0.5$, $1.2$, $2$, $2.8$, corresponding respectively to $-2\frac{4}{5}$, $-2$, $-0.5$, $0$, $\frac{1}{2}$, $1.2$, $2$, $2\frac{4}{5}$.
 
 ### Solution to Problem 6
 

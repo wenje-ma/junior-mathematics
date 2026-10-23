@@ -36,7 +36,7 @@ Group B has $5$ data; the median is $Q_2=170$ (the $3$rd number). The median of 
 
 By **Definition 24.3.2** (Boxplot), draw the boxplots of the two sets in the same figure.
 
-![week121-1.svg](../../figures/week121-1.svg){width=100%}
+The figure shows two boxplots side by side on the same horizontal axis (rope-skipping scores, unit: skips): the upper Group A box spans from $Q_1=149.5$ to $Q_3=189.5$, with the median line at $182$, whiskers extending left to the minimum $143$ and right to the maximum $194$; the lower Group B box spans from $Q_1=144.5$ to $Q_3=220.5$, with the median line at $170$, whiskers extending left to the minimum $141$ and right to the maximum $242$.
 
 From the boxplots: Group A's median $182$ is higher than Group B's median $170$, showing Group A's overall rope-skipping performance is better. Group A's interquartile range is $189.5-149.5=40$, and Group B's is $220.5-144.5=76$; Group A's smaller interquartile range shows its scores are more concentrated, while Group B's larger interquartile range shows its scores are more dispersed, with a clear gap between the extremes. Group B's maximum $242$ is far higher than Group A's maximum $194$, but its minimum is also lower, showing that some students in Group B stand out while others perform poorly. $\blacksquare$
 

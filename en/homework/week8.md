@@ -24,7 +24,7 @@ Let the daily income/expenditure of a certain week be in turn $a_{1}$, $a_{2}$, 
 
 (Math Activity, Activity 2, Filling in a Magic Square, Problem 1) Please fill the $9$ numbers $-4$, $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$, $4$ into the $9$ empty cells of the magic square respectively, so that the sum of the numbers in each horizontal row, each vertical column, and the two diagonals are all equal.
 
-![week8-1.svg](../../figures/week8-1.svg){width=50%}
+The figure is a $3\times3$ magic-square grid with $9$ empty cells, into which the numbers $-4$, $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$, $4$ are to be placed so that the sum of the three numbers in each horizontal row, each vertical column, and the two diagonals is equal.
 
 ### Solution to Activity 2
 

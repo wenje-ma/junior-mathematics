@@ -46,7 +46,7 @@ When the two parts have equal area, $\bar x=\frac{x_1+x_2}{2}$, $\bar y=\frac{y_
 
 (Comprehensive and Practical Activity, Problem 4) Find the centroid position of the "L"-shaped steel-angle cross section in the figure (outer contour $30\ \text{cm}\times30\ \text{cm}$, wall thickness $10\ \text{cm}$).
 
-![week66-1.svg](../../figures/week66-1.svg){width=50%}
+The figure shows an "L"-shaped (steel-angle) cross section: a $30\ \text{cm}\times30\ \text{cm}$ square with a $20\ \text{cm}\times20\ \text{cm}$ square removed from the upper-right corner, giving a wall thickness of $10\ \text{cm}$; it consists of a left vertical strip $10\ \text{cm}\times30\ \text{cm}$ and a bottom horizontal strip $20\ \text{cm}\times10\ \text{cm}$.
 
 ### Solution to Inquiry 4
 

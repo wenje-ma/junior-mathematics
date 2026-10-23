@@ -42,7 +42,7 @@ By **Definition 1.1.5** (Representing Quantities of Opposite Meaning), rise and 
 
 $$3,\ -4,\ 0,\ 2,\ -2,\ -1.$$
 
-![week4-1.svg](../../figures/week4-1.svg){width=50%}
+On a number line with origin $0$, rightward as the positive direction, and unit length $1$, mark the six points $3$, $-4$, $0$, $2$, $-2$, $-1$, arranged from left to right as $-4$, $-2$, $-1$, $0$, $2$, $3$.
 
 ### Solution to Review Problem 2
 
@@ -122,7 +122,7 @@ Hence the smallest growth rate is $-9.6\%$. By **Definition 1.1.5** (Representin
 
 (Review Problem, Comprehensive Application, Problem 7) Given that $x$ is an integer and $-3<x<4$, represent on the number line all the numbers that $x$ can take.
 
-![week4-2.svg](../../figures/week4-2.svg){width=50%}
+On the number line, mark all the integer points strictly between $-3$ and $4$: $-2$, $-1$, $0$, $1$, $2$, $3$.
 
 ### Solution to Review Problem 7
 
@@ -144,7 +144,7 @@ Mark these $6$ points on the number line, as shown in the figure. $\blacksquare$
 
 (D) $-b<b<-a<a$
 
-![week4-3.svg](../../figures/week4-3.svg){width=50%}
+On the number line, point $a$ is to the left of the origin and close to it, and point $b$ is to the right of the origin and far from it, that is, $a<0<b$ and $\left|a\right|<\left|b\right|$.
 
 ### Solution to Review Problem 8
 
