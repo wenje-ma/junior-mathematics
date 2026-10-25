@@ -1,7 +1,7 @@
 # Assignment 77
 
 > **Conclusion 15.1.1** (Properties of Axial Symmetry) <br>Two figures that are axially symmetric are congruent; the axis of symmetry perpendicularly bisects the segment joining the symmetric points.
->
+> 
 > **Basic Conclusion** (Shortest Distance) <br>Between two points, the segment is the shortest; among all segments joining a point outside a line to points on the line, the perpendicular segment is the shortest.
 
 ### Inquiry 1

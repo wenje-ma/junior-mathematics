@@ -1,11 +1,11 @@
 # Assignment 103
 
 > **Conclusion 21.1.1** (Interior Angle Sum of a Quadrilateral) <br> The interior angle sum of a quadrilateral is \(360^{\circ}\).
->
+> 
 > **Conclusion 21.1.2** (Exterior Angle Sum of a Quadrilateral) <br> The exterior angle sum of a quadrilateral is \(360^{\circ}\).
->
+> 
 > **Conclusion 21.1.3** (Interior Angle Sum of a Polygon) <br> The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
->
+> 
 > **Conclusion 21.1.4** (Exterior Angle Sum of a Polygon) <br> The exterior angle sum of a polygon is \(360^{\circ}\).
 
 ### Exercise 1
@@ -198,11 +198,11 @@ As shown in the figure, in quadrilateral \(ABCD\), \(AC,BD\) are its two diagona
 
 Let the diagonals intersect at \(O\).
 
-In \(\triangle OAB\), \(OA+OB>AB\); similarly \(OB+OC>BC\), \(OC+OD>CD\), \(OD+OA>DA\).
+In \(\triangle OAB\), \(OA+OB> AB\); similarly \(OB+OC> BC\), \(OC+OD> CD\), \(OD+OA> DA\).
 
-Adding the four inequalities: \(2(OA+OB+OC+OD)>AB+BC+CD+DA\), i.e. \(2(AC+BD)>\) perimeter.
+Adding the four inequalities: \(2(OA+OB+OC+OD)> AB+BC+CD+DA\), i.e. \(2(AC+BD)> \) perimeter.
 
-Therefore \(AC+BD>\frac{1}{2}\) perimeter.
+Therefore \(AC+BD> \frac{1}{2}\) perimeter.
 
 \(\blacksquare\)
 

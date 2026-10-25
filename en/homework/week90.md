@@ -4,7 +4,7 @@
 
 > **Definition 18.4.2** (Properties of Integer Exponent Powers) <br>(1) $a^m\cdot a^n=a^{m+n}$; (2) $\left(a^m\right)^n=a^{mn}$; (3) $\left(ab\right)^n=a^n b^n$ ($m,n$ are integers, the base is nonzero).
 
-> **Definition 18.4.3** (Scientific Notation for Positive Numbers Less Than 1) <br>A positive number less than $1$ can be written in the form $a\times10^{-n}$, where $1\le a<10$, and $n$ is a positive integer.
+> **Definition 18.4.3** (Scientific Notation for Positive Numbers Less Than 1) <br>A positive number less than $1$ can be written in the form $a\times10^{-n}$, where $1\le a< 10$, and $n$ is a positive integer.
 
 ### Exercise 1
 

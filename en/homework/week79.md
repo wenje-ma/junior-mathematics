@@ -6,7 +6,7 @@
 
 > **Definition 16.2.3** (Multiplication of a Polynomial by a Polynomial) <br>First multiply each term of one polynomial by each term of the other polynomial, then add the resulting products, i.e. $\left(a+b\right)\left(p+q\right)=ap+aq+bp+bq$.
 
-> **Definition 16.2.4** (Division of Powers with the Same Base) <br>$a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ are both positive integers, $m>n$); that is, when dividing powers with the same base, the base is unchanged and the exponents are subtracted.
+> **Definition 16.2.4** (Division of Powers with the Same Base) <br>$a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ are both positive integers, $m> n$); that is, when dividing powers with the same base, the base is unchanged and the exponents are subtracted.
 
 > **Definition 16.2.5** (Zero Exponent Power) <br>$a^0=1$ ($a\ne0$); that is, the $0$-th power of any number not equal to $0$ equals $1$.
 
@@ -500,7 +500,7 @@ $\blacksquare$
 
 ### Problem 10
 
-(Exercise 16.2, Comprehensive Application, Problem 10) As shown in the figure, there is a rectangular cardboard; an equal square is cut off from each of its four corners, and then the protruding portions on all sides are folded up to make an open box in the shape of a cuboid with height $a\ \text{cm}$. If the volume of the box is $4a^2 b\ \text{cm}^3$ and one side of the rectangular base has length $b$ ($b<4a$) $\text{cm}$, find the length and width of the original rectangular cardboard.
+(Exercise 16.2, Comprehensive Application, Problem 10) As shown in the figure, there is a rectangular cardboard; an equal square is cut off from each of its four corners, and then the protruding portions on all sides are folded up to make an open box in the shape of a cuboid with height $a\ \text{cm}$. If the volume of the box is $4a^2 b\ \text{cm}^3$ and one side of the rectangular base has length $b$ ($b< 4a$) $\text{cm}$, find the length and width of the original rectangular cardboard.
 
 (The figure is a development diagram of the rectangular cardboard after small squares are cut from its four corners and it is folded up.)
 
@@ -512,7 +512,7 @@ $$bx\cdot a=4a^2 b,$$
 
 solving gives $x=4a$.
 
-Hence the two sides of the box base are $b$ and $4a$. The original cardboard's length exceeds the base length by $2a$, and its width exceeds the base width by $2a$. Since $b<4a$, taking the long base side $4a$ to correspond to the long cardboard side, the original cardboard has length $4a+2a=6a\ \text{cm}$ and width $b+2a\ \text{cm}$. $\blacksquare$
+Hence the two sides of the box base are $b$ and $4a$. The original cardboard's length exceeds the base length by $2a$, and its width exceeds the base width by $2a$. Since $b< 4a$, taking the long base side $4a$ to correspond to the long cardboard side, the original cardboard has length $4a+2a=6a\ \text{cm}$ and width $b+2a\ \text{cm}$. $\blacksquare$
 
 ### Problem 11
 

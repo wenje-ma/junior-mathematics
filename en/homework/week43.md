@@ -1,9 +1,9 @@
 # Assignment 43
 
 > **Definition 9.1.1** (Rectangular Coordinate System) <br>Draw two number lines perpendicular to each other in a plane with the same origin to form a rectangular coordinate system.
->
+> 
 > **Definition 9.1.2** (Coordinates of a Point) <br>The ordered pair $\left(x,y\right)$ is called the coordinates of a point in the plane; points correspond one-to-one with ordered pairs of real numbers.
->
+> 
 > **Method 9.2.1** (Representing Geographic Locations with Coordinates) <br>Establish a coordinate system by choosing an appropriate reference point as the origin, determine the positive directions of the coordinate axes and the unit length, plot each point and write down its coordinates. One can also represent a position using a direction angle and a distance.
 
 ### Activity 1

@@ -1,13 +1,13 @@
 # Assignment 170
 
 > **Definition 28.1.1** (Sine) <br>$\sin A=\frac{a}{c}$.
->
+> 
 > **Definition 28.1.2** (Cosine) <br>$\cos A=\frac{b}{c}$.
->
+> 
 > **Definition 28.1.3** (Tangent) <br>$\tan A=\frac{a}{b}$.
->
+> 
 > **Conclusion 28.1.2** (Trigonometric Function Values of Special Angles) <br>$\sin 30^{\circ}=\frac{1}{2}$, $\cos 30^{\circ}=\frac{\sqrt{3}}{2}$, $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$; $\sin 45^{\circ}=\frac{\sqrt{2}}{2}$, $\cos 45^{\circ}=\frac{\sqrt{2}}{2}$, $\tan 45^{\circ}=1$; $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$, $\cos 60^{\circ}=\frac{1}{2}$, $\tan 60^{\circ}=\sqrt{3}$.
->
+> 
 > **Conclusion 28.2.1** (Relationships Among the Elements of a Right Triangle) <br>$a^{2}+b^{2}=c^{2}$; $\angle A+\angle B=90^{\circ}$; $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$, $\tan A=\frac{a}{b}$.
 
 ### Review Problem 1

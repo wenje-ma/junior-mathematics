@@ -1,23 +1,23 @@
 # Assignment 167
 
 > **Definition 28.1.1** (Sine) <br>In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the opposite side to the hypotenuse of the acute angle $A$ the sine of $\angle A$, denoted $\sin A$, i.e.
->
+> 
 > $$\sin A=\frac{\angle A\text{ 的对边}}{\text{斜边}}=\frac{a}{c}.$$
->
+> 
 > **Definition 28.1.2** (Cosine) <br>In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the adjacent side to the hypotenuse of the acute angle $A$ the cosine of $\angle A$, denoted $\cos A$, i.e.
->
+> 
 > $$\cos A=\frac{\angle A\text{ 的邻边}}{\text{斜边}}=\frac{b}{c}.$$
->
+> 
 > **Definition 28.1.3** (Tangent) <br>In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the opposite side to the adjacent side of the acute angle $A$ the tangent of $\angle A$, denoted $\tan A$, i.e.
->
+> 
 > $$\tan A=\frac{\angle A\text{ 的对边}}{\angle A\text{ 的邻边}}=\frac{a}{b}.$$
->
+> 
 > The sine, cosine, and tangent of $\angle A$ are all trigonometric functions of the acute angle $\angle A$.
->
+> 
 > **Conclusion 28.1.1** (Determinacy of Acute Angle Trigonometric Function Values) <br>In $\text{Rt}\triangle ABC$, when the measure of the acute angle $A$ is fixed, regardless of the size of the right triangle, the ratio of the opposite side to the hypotenuse, the ratio of the adjacent side to the hypotenuse, and the ratio of the opposite side to the adjacent side of $\angle A$ are all fixed values.
->
+> 
 > **Conclusion 28.1.2** (Trigonometric Function Values of Special Angles) <br>
->
+> 
 > | Acute angle $A$ | $30^{\circ}$ | $45^{\circ}$ | $60^{\circ}$ |
 > |---|---|---|---|
 > | $\sin A$ | $\frac{1}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ |

@@ -1,9 +1,9 @@
 # Assignment 148
 
 > **Property 29.2.1** (Axial Symmetry of a Circle) <br>A circle is an axially symmetric figure, and the line on which any diameter lies is an axis of symmetry of the circle.
->
+> 
 > **Theorem 29.2.1** (Perpendicular Chord Theorem) <br>A diameter perpendicular to a chord bisects the chord and bisects the two arcs subtended by the chord.
->
+> 
 > **Corollary 29.2.1** (Corollary to the Perpendicular Chord Theorem) <br>A diameter that bisects a chord (which is not a diameter) is perpendicular to the chord and bisects the two arcs subtended by the chord.
 
 ### Exercise 1

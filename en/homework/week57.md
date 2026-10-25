@@ -1,17 +1,17 @@
 # Assignment 57
 
 > **Definition 12.2.1** (Pie Chart) <br>A circle represents the population, each sector represents a part of the population, and the size of the sector reflects that part's percentage of the population; the sector's central angle $=360^\circ\times$ percentage.
->
+> 
 > **Definition 12.2.2** (Bar Chart) <br>The height of a small rectangle represents the quantity of each category, making it easy to compare the sizes of the data.
->
+> 
 > **Definition 12.2.3** (Line Chart) <br>The rise or fall of a broken line represents the increase or decrease of data over time, helping to show the development trend.
->
+> 
 > **Definition 12.2.4** (Frequency and Relative Frequency) <br>The number of data falling in each group is called the frequency; the ratio of the frequency to the total number of data is called the relative frequency.
->
+> 
 > **Definition 12.2.5** (Class Width and Number of Classes) <br>The distance between the two endpoints of each group is called the class width; the number of groups is called the number of classes. Dividing the range by the class width, taking the integer and adding $1$ gives the number of classes.
->
+> 
 > **Definition 12.2.6** (Frequency Distribution Histogram) <br>The horizontal axis represents the data groups and the vertical axis represents the frequency, using the area of a small rectangle (the height when equally spaced) to reflect the frequency of each group.
->
+> 
 > **Definition 12.2.7** (Trend Chart) <br>A statistical chart using a line (straight or curved) to describe the relationship between one quantity and another, helping to predict the change of one quantity from the change of the other.
 
 ### Exercise 1
@@ -66,13 +66,13 @@ By **Definition 12.2.3** (Line Chart), draw a composite line chart as shown. Exc
 
 ### Exercise 5
 
-(Exercise 12.2, Problem 5) The heights (cm) of 63 seventh-grade students: maximum $172$, minimum $149$, range $23$. Take a class width of $3$ and divide into $8$ groups: $149\le x<152$, $152\le x<155$, $\ldots$, $170\le x<173$. The frequencies of the groups are $2,6,12,19,10,8,4,2$. Draw a frequency distribution histogram and state from which range to select the honor guard members.
+(Exercise 12.2, Problem 5) The heights (cm) of 63 seventh-grade students: maximum $172$, minimum $149$, range $23$. Take a class width of $3$ and divide into $8$ groups: $149\le x< 152$, $152\le x< 155$, $\ldots$, $170\le x< 173$. The frequencies of the groups are $2,6,12,19,10,8,4,2$. Draw a frequency distribution histogram and state from which range to select the honor guard members.
 
-The figure is a frequency distribution histogram with height groups ($149\le x<152$ through $170\le x<173$, class width $3\,\text{cm}$) on the horizontal axis and frequency on the vertical axis; the group frequencies are respectively $2, 6, 12, 19, 10, 8, 4, 2$.
+The figure is a frequency distribution histogram with height groups ($149\le x< 152$ through $170\le x< 173$, class width $3\,\text{cm}$) on the horizontal axis and frequency on the vertical axis; the group frequencies are respectively $2, 6, 12, 19, 10, 8, 4, 2$.
 
 ### Solution to Exercise 5
 
-By **Definition 12.2.6** (Frequency Distribution Histogram), the histogram is as shown. The three groups $155\le x<158$, $158\le x<161$, $161\le x<164$ have the most students, totaling $12+19+10=41$. Hence $40$ honor guard members may be selected from the height range $155\ \text{cm}$ to $164\ \text{cm}$ (excluding $164$). $\blacksquare$
+By **Definition 12.2.6** (Frequency Distribution Histogram), the histogram is as shown. The three groups $155\le x< 158$, $158\le x< 161$, $161\le x< 164$ have the most students, totaling $12+19+10=41$. Hence $40$ honor guard members may be selected from the height range $155\ \text{cm}$ to $164\ \text{cm}$ (excluding $164$). $\blacksquare$
 
 ### Exercise 6
 
@@ -138,13 +138,13 @@ Use a composite line chart to describe total automobile sales and new-energy sal
 
 ### Problem 4
 
-(Exercise 12.2, Review and Consolidation, Problem 4) Frequency table of the number of jump-rope skips in $60$ seconds for the whole class: $60\le x<80$ frequency $3$; $80\le x<100$ frequency $4$; $100\le x<120$ frequency $17$; $120\le x<140$ frequency $9$; $140\le x<160$ frequency $8$; $160\le x<180$ frequency $6$; $180\le x<200$ frequency $1$.
+(Exercise 12.2, Review and Consolidation, Problem 4) Frequency table of the number of jump-rope skips in $60$ seconds for the whole class: $60\le x< 80$ frequency $3$; $80\le x< 100$ frequency $4$; $100\le x< 120$ frequency $17$; $120\le x< 140$ frequency $9$; $140\le x< 160$ frequency $8$; $160\le x< 180$ frequency $6$; $180\le x< 200$ frequency $1$.
 
 (1) How many students are in the class?
 
 (2) What are the class width and the number of classes?
 
-(3) How many students are in the range $120\le x<160$? What percentage?
+(3) How many students are in the range $120\le x< 160$? What percentage?
 
 (4) Draw the histogram.
 

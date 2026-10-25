@@ -1,15 +1,15 @@
 # Assignment 154
 
-> **Property 29.1.1** (Position of a Point Relative to a Circle) <br>$d>r$ outside the circle, $d=r$ on the circle, $d<r$ inside the circle.
->
+> **Property 29.1.1** (Position of a Point Relative to a Circle) <br>$d> r$ outside the circle, $d=r$ on the circle, $d< r$ inside the circle.
+> 
 > **Theorem 29.2.1** (Perpendicular Chord Theorem) <br>A diameter perpendicular to a chord bisects the chord and bisects the two arcs subtended by the chord.
->
+> 
 > **Theorem 29.2.3** (Inscribed Angle Theorem) <br>The inscribed angle subtended by an arc is half of the central angle subtended by that arc.
->
+> 
 > **Property 29.2.3** (Property of a Cyclic Quadrilateral) <br>The opposite angles of a cyclic quadrilateral are supplementary.
->
+> 
 > **Formula 29.3.1** (Arc Length Formula) <br>$l=\frac{n\pi R}{180}$.
->
+> 
 > **Formula 29.3.2** (Sector Area) <br>$S=\frac{n\pi R^2}{360}=\frac12 lR$.
 
 ### Review Problem 1

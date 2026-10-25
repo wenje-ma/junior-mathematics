@@ -218,19 +218,19 @@ By **Definition 18.2.3**.
 
 ### Problem 6
 
-(Exercise 18.2, Comprehensive Application, Problem 6) As shown in the figure, there are two rectangular flower beds, A and B. Flower bed A has length $a$ and width $b$; flower bed B has length $\left(a+b\right)$ and width $\left(a-b\right)$ ($a>b$). Which flower bed has the larger area? By how much?
+(Exercise 18.2, Comprehensive Application, Problem 6) As shown in the figure, there are two rectangular flower beds, A and B. Flower bed A has length $a$ and width $b$; flower bed B has length $\left(a+b\right)$ and width $\left(a-b\right)$ ($a> b$). Which flower bed has the larger area? By how much?
 
-The figure shows two rectangular flower beds placed side by side: on the left, flower bed A with length $a$ and width $b$; on the right, flower bed B with length $\left(a+b\right)$ and width $\left(a-b\right)$ ($a>b$).
+The figure shows two rectangular flower beds placed side by side: on the left, flower bed A with length $a$ and width $b$; on the right, flower bed B with length $\left(a+b\right)$ and width $\left(a-b\right)$ ($a> b$).
 
 ### Solution to Problem 6
 
 The area of flower bed A is $S_1=ab$, and the area of flower bed B is $S_2=\left(a+b\right)\left(a-b\right)=a^2-b^2$.
 
-Compare $S_2-S_1=a^2-b^2-ab$. Since $a>b>0$, for example when $a=2,b=1$, we have $S_2=3$, $S_1=2$, so $S_2>S_1$. In general, the question asks "which is larger and by how much":
+Compare $S_2-S_1=a^2-b^2-ab$. Since $a> b> 0$, for example when $a=2,b=1$, we have $S_2=3$, $S_1=2$, so $S_2> S_1$. In general, the question asks "which is larger and by how much":
 
 $$S_2-S_1=a^2-b^2-ab.$$
 
-When $a^2-ab-b^2>0$, i.e. $a>\frac{1+\sqrt5}{2}b$, flower bed B is larger. Under the textbook setup, the area of flower bed B is $a^2-b^2$ and that of A is $ab$, so B is larger than A by $\left(a^2-b^2-ab\right)$. $\blacksquare$
+When $a^2-ab-b^2> 0$, i.e. $a> \frac{1+\sqrt5}{2}b$, flower bed B is larger. Under the textbook setup, the area of flower bed B is $a^2-b^2$ and that of A is $ab$, so B is larger than A by $\left(a^2-b^2-ab\right)$. $\blacksquare$
 
 ### Problem 7
 

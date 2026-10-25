@@ -1,9 +1,9 @@
 # Assignment 113
 
-> **Conclusion 23.2.1** (Graph and Properties of the Direct Proportional Function) <br>The graph of the direct proportional function $y=kx$ ($k$ is a constant, $k \neq 0$) is a straight line passing through the origin. When $k>0$, the line passes through the third and first quadrants, rises from left to right, and $y$ increases as $x$ increases; when $k<0$, the line passes through the second and fourth quadrants, falls from left to right, and $y$ decreases as $x$ increases.
->
-> **Conclusion 23.2.2** (Graph and Properties of the Linear Function) <br>The graph of the linear function $y=kx+b$ ($k$ and $b$ are constants, $k \neq 0$) is a straight line, obtained by translating the line $y=kx$ by $\left|b\right|$ units of length ($b>0$ upward, $b<0$ downward). When $k>0$, $y$ increases as $x$ increases; when $k<0$, $y$ decreases as $x$ increases.
->
+> **Conclusion 23.2.1** (Graph and Properties of the Direct Proportional Function) <br>The graph of the direct proportional function $y=kx$ ($k$ is a constant, $k \neq 0$) is a straight line passing through the origin. When $k> 0$, the line passes through the third and first quadrants, rises from left to right, and $y$ increases as $x$ increases; when $k< 0$, the line passes through the second and fourth quadrants, falls from left to right, and $y$ decreases as $x$ increases.
+> 
+> **Conclusion 23.2.2** (Graph and Properties of the Linear Function) <br>The graph of the linear function $y=kx+b$ ($k$ and $b$ are constants, $k \neq 0$) is a straight line, obtained by translating the line $y=kx$ by $\left|b\right|$ units of length ($b> 0$ upward, $b< 0$ downward). When $k> 0$, $y$ increases as $x$ increases; when $k< 0$, $y$ decreases as $x$ increases.
+> 
 > **Conclusion 23.2.3** (Method of Undetermined Coefficients) <br>The method of first setting up the function expression and then, according to the given conditions, determining the unknown coefficients in the expression so as to obtain the function expression is called the method of undetermined coefficients.
 
 ### Exercise 1
@@ -26,13 +26,13 @@ The figure shows a plane rectangular coordinate system; a straight line through 
 
 ### Exercise 2
 
-(Exercise 23.2, Problem 2) If both the point $\left(2, m\right)$ and the point $\left(-3, n\right)$ lie on the graph of $y=kx$ ($k<0$), compare the sizes of $m$ and $n$.
+(Exercise 23.2, Problem 2) If both the point $\left(2, m\right)$ and the point $\left(-3, n\right)$ lie on the graph of $y=kx$ ($k< 0$), compare the sizes of $m$ and $n$.
 
 ### Solution to Exercise 2
 
-By **Conclusion 23.2.1** (Graph and Properties of the Direct Proportional Function), when $k<0$, $y$ decreases as $x$ increases.
+By **Conclusion 23.2.1** (Graph and Properties of the Direct Proportional Function), when $k< 0$, $y$ decreases as $x$ increases.
 
-Since $2 > -3$, and since $y$ decreases as $x$ increases when $k<0$, we have $m < n$. $\blacksquare$
+Since $2 > -3$, and since $y$ decreases as $x$ increases when $k< 0$, we have $m < n$. $\blacksquare$
 
 ### Exercise 3
 
@@ -44,7 +44,7 @@ Set $y=0$, i.e. $2x-3=0$, which gives $x=\frac{3}{2}$; hence the intersection wi
 
 Set $x=0$; we get $y=-3$, so the intersection with the $y$-axis is $\left(0, -3\right)$.
 
-By **Conclusion 23.2.2** (Graph and Properties of the Linear Function), $k=2>0$ and $b=-3<0$, so the line passes through the first, third and fourth quadrants, and $y$ increases as $x$ increases. $\blacksquare$
+By **Conclusion 23.2.2** (Graph and Properties of the Linear Function), $k=2> 0$ and $b=-3< 0$, so the line passes through the first, third and fourth quadrants, and $y$ increases as $x$ increases. $\blacksquare$
 
 ### Exercise 4
 
@@ -64,13 +64,13 @@ The figure shows a plane rectangular coordinate system with three parallel lines
 
 ### Exercise 5
 
-(Exercise 23.2, Problem 3) Given the linear function $y=4x+7$, use its properties to find the range of the function value $y$ when $x>2$.
+(Exercise 23.2, Problem 3) Given the linear function $y=4x+7$, use its properties to find the range of the function value $y$ when $x> 2$.
 
 ### Solution to Exercise 5
 
-By **Conclusion 23.2.2** (Graph and Properties of the Linear Function), $k=4>0$, so $y$ increases as $x$ increases.
+By **Conclusion 23.2.2** (Graph and Properties of the Linear Function), $k=4> 0$, so $y$ increases as $x$ increases.
 
-When $x=2$, $y=4\times2+7=15$. Since $y$ increases as $x$ increases, when $x>2$ we have $y>15$. $\blacksquare$
+When $x=2$, $y=4\times2+7=15$. Since $y$ increases as $x$ increases, when $x> 2$ we have $y> 15$. $\blacksquare$
 
 ### Exercise 6
 
@@ -138,7 +138,7 @@ $\blacksquare$
 
 ### Solution to Problem 2
 
-By **Conclusion 23.2.1** (Graph and Properties of the Direct Proportional Function), $k=-5<0$, so the graph passes through the second and fourth quadrants.
+By **Conclusion 23.2.1** (Graph and Properties of the Direct Proportional Function), $k=-5< 0$, so the graph passes through the second and fourth quadrants.
 
 It passes through the point $\left(0, 0\right)$ and the point $\left(1, -5\right)$, and $y$ decreases as $x$ increases. $\blacksquare$
 
@@ -214,35 +214,35 @@ Translating downward by $3$ units of length gives $y=-2x+1-3=-2x-2$. $\blacksqua
 
 ### Solution to Problem 7
 
-By **Conclusion 23.2.2** (Graph and Properties of the Linear Function), $k=-\frac{1}{3}<0$, so $y$ decreases as $x$ increases.
+By **Conclusion 23.2.2** (Graph and Properties of the Linear Function), $k=-\frac{1}{3}< 0$, so $y$ decreases as $x$ increases.
 
 Since $-3 < -1.3 < 2$, we have $y_2 > y_1 > y_3$. $\blacksquare$
 
 ### Problem 8
 
-(Exercise 23.2, Comprehensive Application, Problem 8) (1) When $b>0$, which quadrants does the graph of the function $y=x+b$ pass through?
+(Exercise 23.2, Comprehensive Application, Problem 8) (1) When $b> 0$, which quadrants does the graph of the function $y=x+b$ pass through?
 
-(2) When $b<0$, which quadrants does the graph of the function $y=-x+b$ pass through?
+(2) When $b< 0$, which quadrants does the graph of the function $y=-x+b$ pass through?
 
-(3) When $k>0$, which quadrants does the graph of the function $y=kx+1$ pass through?
+(3) When $k> 0$, which quadrants does the graph of the function $y=kx+1$ pass through?
 
-(4) When $k<0$, which quadrants does the graph of the function $y=kx+1$ pass through?
+(4) When $k< 0$, which quadrants does the graph of the function $y=kx+1$ pass through?
 
 ### Solution to Problem 8
 
-(1) $k=1>0$, $b>0$, so the line passes through the first, second and third quadrants.
+(1) $k=1> 0$, $b> 0$, so the line passes through the first, second and third quadrants.
 
-(2) $k=-1<0$, $b<0$, so the line passes through the second, third and fourth quadrants.
+(2) $k=-1< 0$, $b< 0$, so the line passes through the second, third and fourth quadrants.
 
-(3) $k>0$, $b=1>0$, so the line passes through the first, second and third quadrants.
+(3) $k> 0$, $b=1> 0$, so the line passes through the first, second and third quadrants.
 
-(4) $k<0$, $b=1>0$, so the line passes through the first, second and fourth quadrants. $\blacksquare$
+(4) $k< 0$, $b=1> 0$, so the line passes through the first, second and fourth quadrants. $\blacksquare$
 
 ### Problem 9
 
 (Exercise 23.2, Comprehensive Application, Problem 9) To encourage residents to conserve water, a water company uses a tiered charging standard. The monthly water fee $y$ (in yuan) payable by a household is a function of the water consumption $x$ (in t), and its graph is shown in the figure.
 
-(1) Find the function expressions for $y$ in terms of $x$ when $0 \leq x \leq 15$ and when $x>15$.
+(1) Find the function expressions for $y$ in terms of $x$ when $0 \leq x \leq 15$ and when $x> 15$.
 
 (2) If a household uses $9\ \text{t}$ of water in a certain month, how much water fee is payable? If a water fee of $102$ yuan is paid in a certain month, how many tonnes of water were used that month?
 
@@ -250,7 +250,7 @@ Since $-3 < -1.3 < 2$, we have $y_2 > y_1 > y_3$. $\blacksquare$
 
 (1) When $0 \leq x \leq 15$, the line passes through the origin and the point $\left(15, 45\right)$, so $y=3x$.
 
-When $x>15$, the line passes through the points $\left(15, 45\right)$ and $\left(20, 60\right)$; by **Conclusion 23.2.3** (Method of Undetermined Coefficients), $k=\frac{60-45}{20-15}=3$, $b=45-3\times15=0$... actually, from the data points $\left(15, 45\right)$ and $\left(20, 90\right)$ in the figure we see $k=\frac{90-45}{20-15}=9$, $b=45-9\times15=-90$, so $y=9x-90$.
+When $x> 15$, the line passes through the points $\left(15, 45\right)$ and $\left(20, 60\right)$; by **Conclusion 23.2.3** (Method of Undetermined Coefficients), $k=\frac{60-45}{20-15}=3$, $b=45-3\times15=0$... actually, from the data points $\left(15, 45\right)$ and $\left(20, 90\right)$ in the figure we see $k=\frac{90-45}{20-15}=9$, $b=45-9\times15=-90$, so $y=9x-90$.
 
 (2) When $x=9$, $0 \leq 9 \leq 15$, so $y=3\times9=27$ yuan.
 

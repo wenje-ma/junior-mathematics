@@ -56,7 +56,7 @@ First put in general form, then find the sum and product by **Conclusion 25.2.5*
 
 ### Solution to Problem 2
 
-Let the two legs be $a,b$ (take $a>b$ without loss of generality); then $a-b=5$, and since the area is $\frac12ab=7$,
+Let the two legs be $a,b$ (take $a> b$ without loss of generality); then $a-b=5$, and since the area is $\frac12ab=7$,
 
 $$
 ab=14.
@@ -118,7 +118,7 @@ $$
 \Delta=\left(-5\right)^2-4\cdot1\cdot\left(6-p^2\right)=25-24+4p^2=1+4p^2.
 $$
 
-Since $p^2\ge0$ for every real number $p$, $1+4p^2\ge1>0$, i.e. $\Delta>0$ always holds. Hence no matter what value $p$ takes, the equation always has two unequal real roots.
+Since $p^2\ge0$ for every real number $p$, $1+4p^2\ge1> 0$, i.e. $\Delta> 0$ always holds. Hence no matter what value $p$ takes, the equation always has two unequal real roots.
 
 By the quadratic formula, the two roots are
 
@@ -200,7 +200,7 @@ This is the relation between roots and coefficients for a cubic equation. $\blac
 
 ### Reading and Thinking 1
 
-(Reading and Thinking, Quadratic Equations and the Golden Ratio) Take a point $C$ on the segment $AB$, dividing $AB$ into two unequal parts $AC$ and $CB$, with $AC<CB$, such that $AC:CB=CB:AB$. Let $AB=1$ and $CB=x$; find $x$.
+(Reading and Thinking, Quadratic Equations and the Golden Ratio) Take a point $C$ on the segment $AB$, dividing $AB$ into two unequal parts $AC$ and $CB$, with $AC< CB$, such that $AC:CB=CB:AB$. Let $AB=1$ and $CB=x$; find $x$.
 
 ### Solution to Reading and Thinking 1
 
@@ -216,7 +216,7 @@ $$
 x^2+x-1=0.
 $$
 
-By the quadratic formula, $a=1$, $b=1$, $c=-1$, $\Delta=1+4=5$, hence $x=\frac{-1\pm\sqrt5}{2}$. Since $x=CB>0$, discard the negative root, giving
+By the quadratic formula, $a=1$, $b=1$, $c=-1$, $\Delta=1+4=5$, hence $x=\frac{-1\pm\sqrt5}{2}$. Since $x=CB> 0$, discard the negative root, giving
 
 $$
 x=\frac{\sqrt5-1}{2}\approx0.618.

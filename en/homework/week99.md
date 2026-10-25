@@ -1,7 +1,7 @@
 # Assignment 99
 
 > **Theorem 20.1.1** (Pythagorean Theorem) <br> In a right triangle, the sum of the squares of the two legs equals the square of the hypotenuse. If the two legs of a right triangle are \(a,b\) and the hypotenuse is \(c\), then \(a^{2}+b^{2}=c^{2}\).
->
+> 
 > **Conclusion 20.1.1** (Representing Irrational Numbers on the Number Line) <br> Using the Pythagorean theorem, one can draw on the number line the point representing \(\sqrt{n}\) (where \(n\) is a positive integer).
 
 ### Exercise 1

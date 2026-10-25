@@ -1,13 +1,13 @@
 # Assignment 19
 
 > **Definition 5.1.1** (Equation) <br>First set up a letter to represent the unknown, then according to the equality relation in the problem, write out an equality containing the unknown; such an equality is called an equation.
->
+> 
 > **Definition 5.1.2** (Solution of an Equation) <br>The value of the unknown that makes the values of the left and right sides of the equation equal is called the solution of the equation. The process of finding the solution of an equation is called solving the equation.
->
+> 
 > **Definition 5.1.3** (Linear Equation in One Variable) <br>An equation that contains only one unknown (variable), in which all expressions containing the unknown are integral expressions and the degree of the unknown is $1$, is called a linear equation in one variable.
->
+> 
 > **Definition 5.1.4** (Properties of Equality 1) <br>Adding (or subtracting) the same number (or expression) to both sides of an equality keeps the result equal. If $a=b$, then $a\pm c=b\pm c$.
->
+> 
 > **Definition 5.1.5** (Properties of Equality 2) <br>Multiplying both sides of an equality by the same number, or dividing by the same number not equal to $0$, keeps the result equal. If $a=b$, then $ac=bc$; if $a=b$, $c\ne0$, then $\frac{a}{c}=\frac{b}{c}$.
 
 ### Exercise 1

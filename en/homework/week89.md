@@ -208,4 +208,4 @@ Using the telescoping decomposition $\frac{1}{k\left(k+1\right)}=\frac1k-\frac{1
 
 $$S_n=\left(1-\frac12\right)+\left(\frac12-\frac13\right)+\cdots+\left(\frac1n-\frac{1}{n+1}\right)=1-\frac{1}{n+1}=\frac{n}{n+1}.$$
 
-No matter how large $n$ is, $S_n=\frac{n}{n+1}<1$, so the $1\ \text{L}$ of water in the container can never be completely poured out. $\blacksquare$
+No matter how large $n$ is, $S_n=\frac{n}{n+1}< 1$, so the $1\ \text{L}$ of water in the container can never be completely poured out. $\blacksquare$

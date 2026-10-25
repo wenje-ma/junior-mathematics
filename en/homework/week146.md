@@ -1,15 +1,15 @@
 # Assignment 146
 
 > **Definition 28.1.1** (Rotation of a Figure) <br>Rotating a plane figure about a point $O$ in the plane through an angle is called rotation of the figure.
->
+> 
 > **Property 28.1.1** (Properties of Rotation) <br>The figures before and after rotation are congruent; corresponding points are equidistant from the center of rotation; the angle formed by the segments joining corresponding points to the center of rotation equals the angle of rotation.
->
+> 
 > **Definition 28.2.1** (Central Symmetry) <br>If a figure is rotated about a point through $180^\circ$ and the rotated figure can coincide with another figure, then the two figures are centrally symmetric about this point.
->
+> 
 > **Property 28.2.1** (Properties of Central Symmetry) <br>For two figures that are centrally symmetric, the segments joining symmetric points pass through the center of symmetry and are bisected by it.
->
+> 
 > **Definition 28.2.2** (Centrally Symmetric Figure) <br>A figure that coincides with itself after being rotated about a point through $180^\circ$ is called a centrally symmetric figure.
->
+> 
 > **Property 28.2.2** (Coordinates of Points Symmetric about the Origin) <br>The point symmetric to $P\left(x,y\right)$ about the origin is $P'\left(-x,-y\right)$.
 
 ### Review Problem 1

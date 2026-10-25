@@ -1,11 +1,11 @@
 # Assignment 119
 
 > **Definition 24.1.1** (Arithmetic Mean) <br>In general, for $n$ data $x_1, x_2, \ldots, x_n$, we call $\bar{x}=\frac{x_1+x_2+\cdots+x_n}{n}$ the arithmetic mean of these $n$ data.
->
+> 
 > **Definition 24.1.2** (Weighted Average) <br>If the weights of the $n$ numbers $x_1, x_2, \ldots, x_n$ are $w_1, w_2, \ldots, w_n$ respectively, then $\bar{x}=\frac{x_1w_1+x_2w_2+\cdots+x_nw_n}{w_1+w_2+\cdots+w_n}$ is called the weighted average of these $n$ numbers.
->
+> 
 > **Definition 24.1.3** (Median) <br>Arrange a set of data in ascending order; if the number of data is odd, the number in the middle position is called the median of this set; if the number is even, the average of the two middle data is called the median.
->
+> 
 > **Definition 24.1.4** (Mode) <br>The data value that appears most frequently in a set is called the mode of the set.
 
 ### Exercise 1

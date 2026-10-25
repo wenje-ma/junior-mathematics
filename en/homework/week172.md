@@ -1,9 +1,9 @@
 # Assignment 172
 
 > **Definition 29.2.1** (View) <br>When we observe an object from a certain direction, the plane figure we see is called a view of the object. A view can be regarded as the orthogonal projection of the object under light from a certain direction.
->
+> 
 > **Definition 29.2.2** (Front View, Top View, Left View) <br>Orthogonal projection of an object is performed within three mutually perpendicular projection planes: the view obtained in the front plane by observing the object from front to back is called the front view; the view obtained in the horizontal plane by observing the object from top to bottom is called the top view; the view obtained in the side plane by observing the object from left to right is called the left view.
->
+> 
 > **Conclusion 29.2.1** (Projection Rules for the Three Views) <br>The front view and the top view are aligned in length; the front view and the left view are aligned in height; the left view and the top view are equal in width. The outline lines of visible parts are drawn as solid lines, and the outline lines of parts that are blocked and invisible are drawn as dashed lines.
 
 ### Exercise 1

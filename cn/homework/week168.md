@@ -1,17 +1,17 @@
 # 作业 168
 
 > **定义 28.2.1** (解直角三角形) <br>直角三角形中, 除直角外, 共有五个元素, 即三条边和两个锐角. 由直角三角形中的已知元素, 求出其余未知元素的过程, 叫做解直角三角形.
->
+> 
 > **结论 28.2.1** (直角三角形元素间的关系) <br>在 $\text{Rt}\triangle ABC$ 中, $\angle C$ 为直角, $\angle A$, $\angle B$, $\angle C$ 所对的边分别为 $a$, $b$, $c$:
->
+> 
 > (1) 三边关系: $a^{2}+b^{2}=c^{2}$ (勾股定理);
->
+> 
 > (2) 两锐角关系: $\angle A+\angle B=90^{\circ}$;
->
+> 
 > (3) 边角关系: $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$, $\tan A=\frac{a}{b}$ ($A$ 可换成 $B$, 同时 $a$, $b$ 互换).
->
+> 
 > 知道其中两个元素 (至少有一个是边), 就可以求出其余三个未知元素.
->
+> 
 > **结论 28.2.2** (仰角与俯角) <br>在视线与水平线所成的角中, 视线在水平线上方的角叫做仰角, 视线在水平线下方的角叫做俯角.
 
 ### 练习一
@@ -88,7 +88,7 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 又 $BE-DE=BD=12$, 故 $AE\sqrt{3}-AE/\sqrt{3}=12$, 即 $AE\cdot\frac{3-1}{\sqrt{3}}=12$, $AE=6\sqrt{3}\approx 10.39\ \text{n mile}$.
 
-因为 $AE\approx 10.39>8$, 故渔船继续向东航行没有触礁危险. $\blacksquare$
+因为 $AE\approx 10.39> 8$, 故渔船继续向东航行没有触礁危险. $\blacksquare$
 
 ### 练习五
 
@@ -238,7 +238,7 @@ $AB=BL-AL\approx 4.475-4.092=0.383\ \text{km}=383\ \text{m}$.
 
 $PH=AP\cdot\sin 30^{\circ}=32\times\frac{1}{2}=16\ \text{n mile}$.
 
-暗礁半径为 $16\sqrt{2}\approx 22.63\ \text{n mile}$. 因为 $PH=16<16\sqrt{2}$, 故轮船继续向正东航行有触礁危险.
+暗礁半径为 $16\sqrt{2}\approx 22.63\ \text{n mile}$. 因为 $PH=16< 16\sqrt{2}$, 故轮船继续向正东航行有触礁危险.
 
 设轮船沿南偏东 $\theta$ 方向航行可安全通过, 即从 $A$ 出发的航线与 $P$ 的距离等于暗礁半径 $16\sqrt{2}$. 新航线过 $A$, 设其与正东方向夹角为 $\varphi$ (向南偏). 新航线到 $P$ 的距离为 $d=AP\cdot\sin\left(30^{\circ}-\varphi\right)$.
 

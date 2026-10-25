@@ -2,7 +2,7 @@
 
 > **Definition 26.1.1** (Inverse Proportional Function) <br>A function of the form $y=\frac{k}{x}$ (where $k$ is a constant and $k\ne0$) is called an inverse proportional function, and the range of the independent variable $x$ is all real numbers except $0$.
 
-> **Definition 26.1.2** (Graph and Properties of the Inverse Proportional Function) <br>The graph of $y=\frac{k}{x}$ is a hyperbola. When $k>0$, the two branches lie in the first and third quadrants, and in each quadrant $y$ decreases as $x$ increases; when $k<0$, the two branches lie in the second and fourth quadrants, and in each quadrant $y$ increases as $x$ increases.
+> **Definition 26.1.2** (Graph and Properties of the Inverse Proportional Function) <br>The graph of $y=\frac{k}{x}$ is a hyperbola. When $k> 0$, the two branches lie in the first and third quadrants, and in each quadrant $y$ decreases as $x$ increases; when $k< 0$, the two branches lie in the second and fourth quadrants, and in each quadrant $y$ increases as $x$ increases.
 
 ### Review Problem 1
 
@@ -22,15 +22,15 @@
 
 (Review Problem 26, Review and Consolidation, Problem 2) Fill in the blanks:
 
-For the function $y=\frac{3}{x}$, when $x>0$, $y\;\_\_\_\;0$, and at this time the graph of the function lies in the $\;\_\_\_\;$ quadrant; for the function $y=-\frac{3}{x}$, when $x<0$, $y\;\_\_\_\;0$, and at this time the graph of the function lies in the $\;\_\_\_\;$ quadrant.
+For the function $y=\frac{3}{x}$, when $x> 0$, $y\;\_\_\_\;0$, and at this time the graph of the function lies in the $\;\_\_\_\;$ quadrant; for the function $y=-\frac{3}{x}$, when $x< 0$, $y\;\_\_\_\;0$, and at this time the graph of the function lies in the $\;\_\_\_\;$ quadrant.
 
 ### Solution to Review Problem 2
 
 By **Definition 26.1.2** (Graph and Properties of the Inverse Proportional Function).
 
-$y=\frac{3}{x}$, $k=3>0$; when $x>0$, $y>0$, and the graph lies in the first quadrant.
+$y=\frac{3}{x}$, $k=3> 0$; when $x> 0$, $y> 0$, and the graph lies in the first quadrant.
 
-$y=-\frac{3}{x}$, $k=-3<0$; when $x<0$, $y=\frac{-3}{x}=\frac{-3}{\text{负数}}>0$, and the graph lies in the first quadrant. $\blacksquare$
+$y=-\frac{3}{x}$, $k=-3< 0$; when $x< 0$, $y=\frac{-3}{x}=\frac{-3}{\text{负数}}> 0$, and the graph lies in the first quadrant. $\blacksquare$
 
 ### Review Problem 3
 
@@ -44,9 +44,9 @@ $y=-\frac{3}{x}$, $k=-3<0$; when $x<0$, $y=\frac{-3}{x}=\frac{-3}{\text{负数}}
 
 By **Definition 26.1.2**.
 
-(1) $k=10>0$, the graph lies in the first and third quadrants, and $y$ decreases as $x$ increases.
+(1) $k=10> 0$, the graph lies in the first and third quadrants, and $y$ decreases as $x$ increases.
 
-(2) $k=-10<0$, the graph lies in the second and fourth quadrants, and $y$ increases as $x$ increases. $\blacksquare$
+(2) $k=-10< 0$, the graph lies in the second and fourth quadrants, and $y$ increases as $x$ increases. $\blacksquare$
 
 ### Review Problem 4
 
@@ -66,7 +66,7 @@ By **Definition 26.1.1**, an inverse proportional function has the form $y=\frac
 
 ### Solution to Review Problem 5
 
-By **Definition 26.1.2**, $y$ decreasing as $x$ increases means $k-1>0$, so $k>1$. $\blacksquare$
+By **Definition 26.1.2**, $y$ decreasing as $x$ increases means $k-1> 0$, so $k> 1$. $\blacksquare$
 
 ### Review Problem 6
 
@@ -108,13 +108,13 @@ Graph (A): both branches lie above the $x$-axis; Graph (B): both branches lie in
 
 By **Definition 26.1.2**.
 
-(1) $y=\frac{2}{x}$, $k=2>0$, lies in the first and third quadrants, corresponding to (B).
+(1) $y=\frac{2}{x}$, $k=2> 0$, lies in the first and third quadrants, corresponding to (B).
 
-(2) $y=\frac{2}{\left|x\right|}$, whether $x$ is positive or negative, $y>0$, both branches lie above the $x$-axis, corresponding to (A).
+(2) $y=\frac{2}{\left|x\right|}$, whether $x$ is positive or negative, $y> 0$, both branches lie above the $x$-axis, corresponding to (A).
 
-(3) $y=-\frac{2}{x}$, $k=-2<0$, lies in the second and fourth quadrants, corresponding to (C).
+(3) $y=-\frac{2}{x}$, $k=-2< 0$, lies in the second and fourth quadrants, corresponding to (C).
 
-(4) $y=-\frac{2}{\left|x\right|}$, whether $x$ is positive or negative, $y<0$, both branches lie below the $x$-axis, corresponding to (D).
+(4) $y=-\frac{2}{\left|x\right|}$, whether $x$ is positive or negative, $y< 0$, both branches lie below the $x$-axis, corresponding to (D).
 
 Thus (1)-(B), (2)-(A), (3)-(C), (4)-(D). $\blacksquare$
 
@@ -138,11 +138,11 @@ Therefore the graphs of two different inverse proportional functions cannot inte
 
 If there is an intersection point, then $k_1x=\frac{k_2}{x}$, i.e. $k_1x^2=k_2$.
 
-When $k_1k_2>0$, $x^2=\frac{k_2}{k_1}>0$, which has a solution, and the two graphs intersect.
+When $k_1k_2> 0$, $x^2=\frac{k_2}{k_1}> 0$, which has a solution, and the two graphs intersect.
 
-When $k_1k_2<0$, $x^2=\frac{k_2}{k_1}<0$, which has no solution, and the two graphs have no intersection point.
+When $k_1k_2< 0$, $x^2=\frac{k_2}{k_1}< 0$, which has no solution, and the two graphs have no intersection point.
 
-Therefore $k_1k_2<0$. $\blacksquare$
+Therefore $k_1k_2< 0$. $\blacksquare$
 
 ### Review Problem 11
 

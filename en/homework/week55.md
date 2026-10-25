@@ -1,34 +1,34 @@
 # Assignment 55
 
-> **Property 11.1.1** (Property 1 of Inequalities) <br>$a>b\Rightarrow a\pm c>b\pm c$.
->
-> **Property 11.1.2** (Property 2 of Inequalities) <br>$a>b,\ c>0\Rightarrow ac>bc$.
->
-> **Property 11.1.3** (Property 3 of Inequalities) <br>$a>b,\ c<0\Rightarrow ac<bc$.
->
+> **Property 11.1.1** (Property 1 of Inequalities) <br>$a> b\Rightarrow a\pm c> b\pm c$.
+> 
+> **Property 11.1.2** (Property 2 of Inequalities) <br>$a> b,\ c> 0\Rightarrow ac> bc$.
+> 
+> **Property 11.1.3** (Property 3 of Inequalities) <br>$a> b,\ c< 0\Rightarrow ac< bc$.
+> 
 > **Method 11.2.2** (Solving a Linear Inequality in One Variable) <br>Clear denominators, remove parentheses, transpose terms, combine like terms, and make the coefficient $1$.
->
+> 
 > **Definition 11.3.2** (Solution Set of a System of Inequalities) <br>The common part of the solution sets of the several inequalities.
 
 ### Review Problem 1
 
 (Review Problems, Review and Consolidation, Problem 1) Solve the following inequalities:
 
-(1) $3\left(2x+7\right)>23$;
+(1) $3\left(2x+7\right)> 23$;
 
 (2) $12-4\left(3x-1\right)\le2\left(2x-16\right)$;
 
-(3) $\frac{x+3}{5}<\frac{2x-5}{3}-1$;
+(3) $\frac{x+3}{5}< \frac{2x-5}{3}-1$;
 
 (4) $\frac{2x-1}{3}-\frac{3x-1}{2}\ge\frac{5}{12}$.
 
 ### Solution to Review Problem 1
 
-(1) $6x+21>23$, giving $x>\frac{1}{3}$.
+(1) $6x+21> 23$, giving $x> \frac{1}{3}$.
 
 (2) $12-12x+4\le4x-32$, i.e. $48\le16x$, giving $x\ge3$.
 
-(3) Multiply by $15$: $3\left(x+3\right)<5\left(2x-5\right)-15$, i.e. $3x+9<10x-40$, giving $x>7$.
+(3) Multiply by $15$: $3\left(x+3\right)< 5\left(2x-5\right)-15$, i.e. $3x+9< 10x-40$, giving $x> 7$.
 
 (4) Multiply by $12$: $4\left(2x-1\right)-6\left(3x-1\right)\ge5$, i.e. $-10x+2\ge5$, giving $x\le-\frac{3}{10}$. $\blacksquare$
 
@@ -44,9 +44,9 @@
 
 ### Solution to Review Problem 2
 
-(1) $15-7a>1$, giving $a<2$.
+(1) $15-7a> 1$, giving $a< 2$.
 
-(2) $15-7a<1$, giving $a>2$.
+(2) $15-7a< 1$, giving $a> 2$.
 
 (3) $15-7a=1$, giving $a=2$. $\blacksquare$
 
@@ -54,23 +54,23 @@
 
 (Review Problems, Review and Consolidation, Problem 3) Solve the following systems of inequalities:
 
-(1) $\begin{cases}2x+1>-1,\\2x+1<3;\end{cases}$
+(1) $\begin{cases}2x+1> -1,\\2x+1< 3;\end{cases}$
 
-(2) $\begin{cases}-\left(x-1\right)>3,\\2x+9>3;\end{cases}$
+(2) $\begin{cases}-\left(x-1\right)> 3,\\2x+9> 3;\end{cases}$
 
-(3) $\begin{cases}3\left(x-1\right)+1>5x-2\left(1-x\right),\\5-\left(2x-1\right)<-6x;\end{cases}$
+(3) $\begin{cases}3\left(x-1\right)+1> 5x-2\left(1-x\right),\\5-\left(2x-1\right)< -6x;\end{cases}$
 
-(4) $\begin{cases}-3\left(x-2\right)\ge4-x,\\\frac{1+2x}{3}>x-1.\end{cases}$
+(4) $\begin{cases}-3\left(x-2\right)\ge4-x,\\\frac{1+2x}{3}> x-1.\end{cases}$
 
 ### Solution to Review Problem 3
 
-(1) $x>-1$ and $x<1$, common part $-1<x<1$.
+(1) $x> -1$ and $x< 1$, common part $-1< x< 1$.
 
-(2) First inequality: $-x+1>3$, $x<-2$. Second inequality: $2x>-6$, $x>-3$. Common part $-3<x<-2$.
+(2) First inequality: $-x+1> 3$, $x< -2$. Second inequality: $2x> -6$, $x> -3$. Common part $-3< x< -2$.
 
-(3) First inequality: $3x-2>7x-2$, $x<0$. Second inequality: $6-2x<-6x$, $x<-\frac{3}{2}$. Common part $x<-\frac{3}{2}$.
+(3) First inequality: $3x-2> 7x-2$, $x< 0$. Second inequality: $6-2x< -6x$, $x< -\frac{3}{2}$. Common part $x< -\frac{3}{2}$.
 
-(4) First inequality: $-3x+6\ge4-x$, $x\le1$. Second inequality: $1+2x>3x-3$, $x<4$. Common part $x\le1$. $\blacksquare$
+(4) First inequality: $-3x+6\ge4-x$, $x\le1$. Second inequality: $1+2x> 3x-3$, $x< 4$. Common part $x\le1$. $\blacksquare$
 
 ### Review Problem 4
 
@@ -78,11 +78,11 @@
 
 ### Solution to Review Problem 4
 
-From $\frac{x+3}{5}>2x+3$, we get $x+3>10x+15$, i.e. $x<-\frac{4}{3}$.
+From $\frac{x+3}{5}> 2x+3$, we get $x+3> 10x+15$, i.e. $x< -\frac{4}{3}$.
 
-From $\frac{x+3}{5}>1-x$, we get $x+3>5-5x$, i.e. $x>\frac{1}{3}$.
+From $\frac{x+3}{5}> 1-x$, we get $x+3> 5-5x$, i.e. $x> \frac{1}{3}$.
 
-There is no common part between $x<-\frac{4}{3}$ and $x>\frac{1}{3}$, so it cannot be simultaneously greater than both. $\blacksquare$
+There is no common part between $x< -\frac{4}{3}$ and $x> \frac{1}{3}$, so it cannot be simultaneously greater than both. $\blacksquare$
 
 ### Review Problem 5
 
@@ -92,7 +92,7 @@ There is no common part between $x<-\frac{4}{3}$ and $x>\frac{1}{3}$, so it cann
 
 Taking the difference: $a-2a=-a$.
 
-When $a>0$, $-a<0$, so $a<2a$; when $a=0$, $a=2a$; when $a<0$, $-a>0$, so $a>2a$. $\blacksquare$
+When $a> 0$, $-a< 0$, so $a< 2a$; when $a=0$, $a=2a$; when $a< 0$, $-a> 0$, so $a> 2a$. $\blacksquare$
 
 ### Review Problem 6
 
@@ -125,10 +125,10 @@ i.e. $166+51x\le1050$, $51x\le884$, giving $x\le17.3$. Hence at most $17$ boxes 
 Let $x$ be the number of $3$-point shots made; then the number of $2$-point shots is $\left(48-x\right)$. By the statement
 
 $$
-10+3x+2\left(48-x\right)>110,
+10+3x+2\left(48-x\right)> 110,
 $$
 
-i.e. $106+x>110$, giving $x>4$. Hence at least $5$ $3$-point shots were made. $\blacksquare$
+i.e. $106+x> 110$, giving $x> 4$. Hence at least $5$ $3$-point shots were made. $\blacksquare$
 
 ### Review Problem 9
 
@@ -139,10 +139,10 @@ i.e. $106+x>110$, giving $x>4$. Hence at least $5$ $3$-point shots were made. $\
 Let $x$ be the number of type-A cars bought; then the number of type-B cars is $\left(20-x\right)$. The profit on each type-A car is $0.8$ ten-thousand yuan, and on each type-B car is $1.4$ ten-thousand yuan. By the statement
 
 $$
-0.8x+1.4\left(20-x\right)>20.5,
+0.8x+1.4\left(20-x\right)> 20.5,
 $$
 
-i.e. $28-0.6x>20.5$, giving $x<12.5$. Hence at most $12$ type-A cars were bought. $\blacksquare$
+i.e. $28-0.6x> 20.5$, giving $x< 12.5$. Hence at most $12$ type-A cars were bought. $\blacksquare$
 
 ### Review Problem 10
 
@@ -154,9 +154,9 @@ i.e. $28-0.6x>20.5$, giving $x<12.5$. Hence at most $12$ type-A cars were bought
 
 ### Solution to Review Problem 10
 
-(1) Stops once: $4x+1>85$, giving $x>21$.
+(1) Stops once: $4x+1> 85$, giving $x> 21$.
 
-(2) Stops twice: the first does not satisfy $4x+1\le85$, i.e. $x\le21$; the second $4\left(4x+1\right)+1>85$, i.e. $16x+5>85$, $x>5$. Hence $5<x\le21$. $\blacksquare$
+(2) Stops twice: the first does not satisfy $4x+1\le85$, i.e. $x\le21$; the second $4\left(4x+1\right)+1> 85$, i.e. $16x+5> 85$, $x> 5$. Hence $5< x\le21$. $\blacksquare$
 
 ### Review Problem 11
 
@@ -168,4 +168,4 @@ If A draws first: the total time is $a+\left(a+b\right)=2a+b$.
 
 If B draws first: the total time is $b+\left(a+b\right)=a+2b$.
 
-The difference between the two is $\left(2a+b\right)-\left(a+2b\right)=a-b$. When $a<b$, A drawing first gives less total time; when $a>b$, B drawing first gives less total time. Hence the person with the shorter drawing time should go first. $\blacksquare$
+The difference between the two is $\left(2a+b\right)-\left(a+2b\right)=a-b$. When $a< b$, A drawing first gives less total time; when $a> b$, B drawing first gives less total time. Hence the person with the shorter drawing time should go first. $\blacksquare$

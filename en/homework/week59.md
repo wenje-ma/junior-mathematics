@@ -1,19 +1,19 @@
 # Assignment 59
 
 > **Definition 12.1.1** (Comprehensive Survey) <br>A survey conducted on the entire population of objects.
->
+> 
 > **Definition 12.1.3** (Sample Survey) <br>Surveying only a part of the objects and inferring the whole from the data.
->
+> 
 > **Definition 12.1.6** (Simple Random Sampling) <br>Every individual in the population has an equal chance of being selected.
->
+> 
 > **Definition 12.2.1** (Pie Chart) <br>The size of a sector represents each part's percentage of the population.
->
+> 
 > **Definition 12.2.2** (Bar Chart) <br>The height of a small rectangle represents the quantity of each category.
->
+> 
 > **Definition 12.2.3** (Line Chart) <br>The rise or fall of a broken line represents the change of data over time.
->
+> 
 > **Definition 12.2.6** (Frequency Distribution Histogram) <br>The area of a small rectangle represents the frequency of each group.
->
+> 
 > **Definition 12.2.7** (Trend Chart) <br>A line describing the relationship between two quantities.
 
 ### Review Problem 1
@@ -76,7 +76,7 @@ It cannot. The sample contains only seventh-grade boys, includes neither girls n
 
 ### Review Problem 5
 
-(Review Problems, Review and Consolidation, Problem 5) A survey of students' weekly housework time divides them into four groups, A ($x<60$), B ($60\le x<90$), C ($90\le x<120$), D ($x\ge120$). It is known that group B has $70$ people, accounting for $35\%$, and group D accounts for $40\%$.
+(Review Problems, Review and Consolidation, Problem 5) A survey of students' weekly housework time divides them into four groups, A ($x< 60$), B ($60\le x< 90$), C ($90\le x< 120$), D ($x\ge120$). It is known that group B has $70$ people, accounting for $35\%$, and group D accounts for $40\%$.
 
 (1) How many students were surveyed in total?
 

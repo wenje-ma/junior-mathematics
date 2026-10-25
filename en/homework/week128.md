@@ -1,13 +1,13 @@
 # Assignment 128
 
 > **Definition 25.2.2** (Discriminant) <br>The expression $b^2-4ac$ can determine the nature of the roots of the quadratic equation $ax^2+bx+c=0$; it is called the discriminant, denoted $\Delta=b^2-4ac$.
->
-> **Conclusion 25.2.3** (Nature of the Roots) <br>For the equation $ax^2+bx+c=0\ \left(a\ne0\right)$: when $\Delta>0$, the equation has two unequal real roots; when $\Delta=0$, the equation has two equal real roots; when $\Delta<0$, the equation has no real root.
->
+> 
+> **Conclusion 25.2.3** (Nature of the Roots) <br>For the equation $ax^2+bx+c=0\ \left(a\ne0\right)$: when $\Delta> 0$, the equation has two unequal real roots; when $\Delta=0$, the equation has two equal real roots; when $\Delta< 0$, the equation has no real root.
+> 
 > **Definition 25.2.3** (Quadratic Formula) <br>When $\Delta\ge0$, the real roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$; this expression is called the quadratic formula. The method of substituting the coefficients into the quadratic formula to find the roots directly is called the formula method.
->
+> 
 > **Conclusion 25.2.4** (Product Is Zero) <br>If $ab=0$, then $a=0$ or $b=0$; conversely, if $a=0$ or $b=0$, then $ab=0$.
->
+> 
 > **Definition 25.2.4** (Factoring Method) <br>First factor the equation so that it becomes the product of two linear expressions equal to $0$, then set each linear expression equal to $0$, thereby reducing the degree; this method of solving a quadratic equation is called the factoring method.
 
 ### Exercise 1
@@ -30,7 +30,7 @@
 
 First put the equation in general form, determine $a,b,c$, use **Definition 25.2.2** to compute $\Delta=b^2-4ac$, use **Conclusion 25.2.3** to determine the nature of the roots, then use **Definition 25.2.3** (Quadratic Formula) to find the roots.
 
-(1) $a=1$, $b=1$, $c=-6$, $\Delta=1^2-4\cdot1\cdot\left(-6\right)=25>0$, hence
+(1) $a=1$, $b=1$, $c=-6$, $\Delta=1^2-4\cdot1\cdot\left(-6\right)=25> 0$, hence
 
 $$
 x=\frac{-1\pm\sqrt{25}}2=\frac{-1\pm5}2,
@@ -38,19 +38,19 @@ $$
 
 i.e. $x_1=2$, $x_2=-3$.
 
-(2) $a=1$, $b=-\sqrt3$, $c=-\frac14$, $\Delta=\left(-\sqrt3\right)^2-4\cdot1\cdot\left(-\frac14\right)=4>0$, hence
+(2) $a=1$, $b=-\sqrt3$, $c=-\frac14$, $\Delta=\left(-\sqrt3\right)^2-4\cdot1\cdot\left(-\frac14\right)=4> 0$, hence
 
 $$
 x=\frac{\sqrt3\pm\sqrt4}{2}=\frac{\sqrt3\pm2}2.
 $$
 
-(3) $a=3$, $b=-6$, $c=4$, $\Delta=\left(-6\right)^2-4\cdot3\cdot4=36-48=-12<0$. By **Conclusion 25.2.3**, the original equation has no real root.
+(3) $a=3$, $b=-6$, $c=4$, $\Delta=\left(-6\right)^2-4\cdot3\cdot4=36-48=-12< 0$. By **Conclusion 25.2.3**, the original equation has no real root.
 
-(4) $a=2$, $b=-3$, $c=0$, $\Delta=\left(-3\right)^2-0=9>0$, hence $x=\frac{3\pm3}{4}$, i.e. $x_1=\frac32$, $x_2=0$.
+(4) $a=2$, $b=-3$, $c=0$, $\Delta=\left(-3\right)^2-0=9> 0$, hence $x=\frac{3\pm3}{4}$, i.e. $x_1=\frac32$, $x_2=0$.
 
-(5) Transposing terms and combining like terms gives $x^2-3=0$. $a=1$, $b=0$, $c=-3$, $\Delta=12>0$, hence $x=\pm\sqrt3$.
+(5) Transposing terms and combining like terms gives $x^2-3=0$. $a=1$, $b=0$, $c=-3$, $\Delta=12> 0$, hence $x=\pm\sqrt3$.
 
-(6) Removing parentheses and transposing terms gives $2x^2+4x-5=0$. $a=2$, $b=4$, $c=-5$, $\Delta=16+40=56>0$, hence
+(6) Removing parentheses and transposing terms gives $2x^2+4x-5=0$. $a=2$, $b=4$, $c=-5$, $\Delta=16+40=56> 0$, hence
 
 $$
 x=\frac{-4\pm\sqrt{56}}{4}=\frac{-4\pm2\sqrt{14}}4=\frac{-2\pm\sqrt{14}}2. \blacksquare
@@ -130,13 +130,13 @@ Hence the small field's radius is $10\ \text{m}$. $\blacksquare$
 
 By **Definition 25.2.2**, compute $\Delta=b^2-4ac$, then determine the nature of the roots by **Conclusion 25.2.3**.
 
-(1) $a=2$, $b=-3$, $c=-\frac32$, $\Delta=\left(-3\right)^2-4\cdot2\cdot\left(-\frac32\right)=9+12=21>0$, so the equation has two unequal real roots.
+(1) $a=2$, $b=-3$, $c=-\frac32$, $\Delta=\left(-3\right)^2-4\cdot2\cdot\left(-\frac32\right)=9+12=21> 0$, so the equation has two unequal real roots.
 
 (2) $a=16$, $b=-24$, $c=9$, $\Delta=\left(-24\right)^2-4\cdot16\cdot9=576-576=0$, so the equation has two equal real roots.
 
-(3) $a=1$, $b=-4\sqrt2$, $c=9$, $\Delta=\left(-4\sqrt2\right)^2-4\cdot1\cdot9=32-36=-4<0$, so the equation has no real root.
+(3) $a=1$, $b=-4\sqrt2$, $c=9$, $\Delta=\left(-4\sqrt2\right)^2-4\cdot1\cdot9=32-36=-4< 0$, so the equation has no real root.
 
-(4) Transposing terms and combining like terms gives $2x^2+5x-10=0$. $a=2$, $b=5$, $c=-10$, $\Delta=25-4\cdot2\cdot\left(-10\right)=25+80=105>0$, so the equation has two unequal real roots. $\blacksquare$
+(4) Transposing terms and combining like terms gives $2x^2+5x-10=0$. $a=2$, $b=5$, $c=-10$, $\Delta=25-4\cdot2\cdot\left(-10\right)=25+80=105> 0$, so the equation has two unequal real roots. $\blacksquare$
 
 ### Problem 2
 
@@ -154,13 +154,13 @@ By **Definition 25.2.2**, compute $\Delta=b^2-4ac$, then determine the nature of
 
 Use **Definition 25.2.2** to find $\Delta$, and **Definition 25.2.3** (Quadratic Formula) to find the roots.
 
-(1) $a=1$, $b=1$, $c=-12$, $\Delta=1+48=49>0$, hence $x=\frac{-1\pm7}{2}$, i.e. $x_1=3$, $x_2=-4$.
+(1) $a=1$, $b=1$, $c=-12$, $\Delta=1+48=49> 0$, hence $x=\frac{-1\pm7}{2}$, i.e. $x_1=3$, $x_2=-4$.
 
-(2) $a=1$, $b=-\sqrt2$, $c=-\frac14$, $\Delta=2+1=3>0$, hence $x=\frac{\sqrt2\pm\sqrt3}{2}$.
+(2) $a=1$, $b=-\sqrt2$, $c=-\frac14$, $\Delta=2+1=3> 0$, hence $x=\frac{\sqrt2\pm\sqrt3}{2}$.
 
-(3) Removing parentheses and transposing terms gives $x^2+4x-2=0$. $a=1$, $b=4$, $c=-2$, $\Delta=16+8=24>0$, hence $x=\frac{-4\pm2\sqrt6}{2}=-2\pm\sqrt6$.
+(3) Removing parentheses and transposing terms gives $x^2+4x-2=0$. $a=1$, $b=4$, $c=-2$, $\Delta=16+8=24> 0$, hence $x=\frac{-4\pm2\sqrt6}{2}=-2\pm\sqrt6$.
 
-(4) $a=1$, $b=2\sqrt5$, $c=10$, $\Delta=\left(2\sqrt5\right)^2-40=20-40=-20<0$. By **Conclusion 25.2.3**, the equation has no real root. $\blacksquare$
+(4) $a=1$, $b=2\sqrt5$, $c=10$, $\Delta=\left(2\sqrt5\right)^2-40=20-40=-20< 0$. By **Conclusion 25.2.3**, the equation has no real root. $\blacksquare$
 
 ### Problem 3
 

@@ -1,13 +1,13 @@
 # Assignment 32
 
 > **Definition 7.3.1** (Definition) <br>A clear, explicit description of a mathematical object that reveals its essential features is called a definition of the mathematical object.
->
+> 
 > **Definition 7.3.2** (Proposition) <br>A declarative statement that can be judged to be true (correct) or false (incorrect) is called a proposition. A proposition judged true is called a true proposition, and one judged false is called a false proposition. A proposition is often written in the form "If …, then …"; after "if" comes the hypothesis, and after "then" comes the conclusion.
->
+> 
 > **Definition 7.3.3** (Theorem) <br>A true proposition whose correctness has been confirmed through reasoning is called a theorem. A theorem can also serve as a basis for further reasoning.
->
+> 
 > **Definition 7.3.4** (Proof) <br>When the correctness of a proposition can be judged only through reasoning, this process of reasoning is called a proof.
->
+> 
 > **Method 7.3.1** (Giving a Counterexample) <br>To judge that a proposition is false, it suffices to give a counterexample: one that satisfies the hypothesis of the proposition but does not satisfy the conclusion.
 
 ### Exercise 1

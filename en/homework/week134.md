@@ -1,12 +1,12 @@
 # Assignment 134
 
-> **Conclusion 26.2.1** (The Parabola $y=ax^2$) <br>The axis of symmetry of the parabola $y=ax^2$ is the $y$-axis, and its vertex is the origin. When $a>0$ it opens upward and the vertex is the lowest point; when $a<0$ it opens downward and the vertex is the highest point. The larger $\left|a\right|$ is, the narrower the opening. When $a>0$, $y$ decreases as $x$ increases for $x<0$, and $y$ increases as $x$ increases for $x>0$; when $a<0$ the reverse holds.
->
-> **Conclusion 26.2.2** (Translation) <br>Translating the parabola $y=ax^2$ upward ($k>0$) or downward ($k<0$) by $\left|k\right|$ units gives $y=ax^2+k$; translating it left ($h<0$) or right ($h>0$) by $\left|h\right|$ units gives $y=a\left(x-h\right)^2$; combining both translations gives $y=a\left(x-h\right)^2+k$.
->
-> **Conclusion 26.2.3** (The Parabola $y=a\left(x-h\right)^2+k$) <br>It opens upward when $a>0$ and downward when $a<0$; its axis of symmetry is $x=h$; its vertex is $\left(h,k\right)$. When $a>0$, the minimum $k$ is taken at $x=h$; when $a<0$, the maximum $k$ is taken at $x=h$.
->
-> **Conclusion 26.2.4** (The Parabola $y=ax^2+bx+c$) <br>Completing the square gives $y=a\left(x+\frac b{2a}\right)^2+\frac{4ac-b^2}{4a}$; the axis of symmetry is $x=-\frac b{2a}$ and the vertex is $\left(-\frac b{2a},\frac{4ac-b^2}{4a}\right)$. When $a>0$, the minimum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac b{2a}$; when $a<0$, the maximum is taken there.
+> **Conclusion 26.2.1** (The Parabola $y=ax^2$) <br>The axis of symmetry of the parabola $y=ax^2$ is the $y$-axis, and its vertex is the origin. When $a> 0$ it opens upward and the vertex is the lowest point; when $a< 0$ it opens downward and the vertex is the highest point. The larger $\left|a\right|$ is, the narrower the opening. When $a> 0$, $y$ decreases as $x$ increases for $x< 0$, and $y$ increases as $x$ increases for $x> 0$; when $a< 0$ the reverse holds.
+> 
+> **Conclusion 26.2.2** (Translation) <br>Translating the parabola $y=ax^2$ upward ($k> 0$) or downward ($k< 0$) by $\left|k\right|$ units gives $y=ax^2+k$; translating it left ($h< 0$) or right ($h> 0$) by $\left|h\right|$ units gives $y=a\left(x-h\right)^2$; combining both translations gives $y=a\left(x-h\right)^2+k$.
+> 
+> **Conclusion 26.2.3** (The Parabola $y=a\left(x-h\right)^2+k$) <br>It opens upward when $a> 0$ and downward when $a< 0$; its axis of symmetry is $x=h$; its vertex is $\left(h,k\right)$. When $a> 0$, the minimum $k$ is taken at $x=h$; when $a< 0$, the maximum $k$ is taken at $x=h$.
+> 
+> **Conclusion 26.2.4** (The Parabola $y=ax^2+bx+c$) <br>Completing the square gives $y=a\left(x+\frac b{2a}\right)^2+\frac{4ac-b^2}{4a}$; the axis of symmetry is $x=-\frac b{2a}$ and the vertex is $\left(-\frac b{2a},\frac{4ac-b^2}{4a}\right)$. When $a> 0$, the minimum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac b{2a}$; when $a< 0$, the maximum is taken there.
 
 ### Exercise 1
 
@@ -20,7 +20,7 @@ The figure shows two parabolas in one plane rectangular coordinate system: $y=3x
 
 ### Solution to Exercise 1
 
-By **Conclusion 26.2.1** (The Parabola $y=ax^2$), both parabolas have the $y$-axis as their axis of symmetry and the origin as vertex. (1) $a=3>0$, opens upward; (2) $a=-3<0$, opens downward; the two are symmetric about the $x$-axis, and the graphs are as shown. $\blacksquare$
+By **Conclusion 26.2.1** (The Parabola $y=ax^2$), both parabolas have the $y$-axis as their axis of symmetry and the origin as vertex. (1) $a=3> 0$, opens upward; (2) $a=-3< 0$, opens downward; the two are symmetric about the $x$-axis, and the graphs are as shown. $\blacksquare$
 
 ### Exercise 2
 
@@ -34,9 +34,9 @@ By **Conclusion 26.2.1** (The Parabola $y=ax^2$), both parabolas have the $y$-ax
 
 By **Conclusion 26.2.1** (The Parabola $y=ax^2$).
 
-(1) $a=4>0$, opens upward; axis of symmetry is the $y$-axis; vertex is the origin $\left(0,0\right)$, the lowest point. For $x<0$, $y$ decreases as $x$ increases; for $x>0$, $y$ increases as $x$ increases.
+(1) $a=4> 0$, opens upward; axis of symmetry is the $y$-axis; vertex is the origin $\left(0,0\right)$, the lowest point. For $x< 0$, $y$ decreases as $x$ increases; for $x> 0$, $y$ increases as $x$ increases.
 
-(2) $a=-4<0$, opens downward; axis of symmetry is the $y$-axis; vertex is the origin $\left(0,0\right)$, the highest point. For $x<0$, $y$ increases as $x$ increases; for $x>0$, $y$ decreases as $x$ increases. $\blacksquare$
+(2) $a=-4< 0$, opens downward; axis of symmetry is the $y$-axis; vertex is the origin $\left(0,0\right)$, the highest point. For $x< 0$, $y$ increases as $x$ increases; for $x> 0$, $y$ decreases as $x$ increases. $\blacksquare$
 
 ### Exercise 3
 
@@ -46,7 +46,7 @@ The figure shows three parabolas of the same shape, all opening upward with the 
 
 ### Solution to Exercise 3
 
-By **Conclusion 26.2.2** (Translation), $y=x^2+1$ is obtained by translating $y=x^2$ up $1$ unit, and $y=x^2-1$ by translating $y=x^2$ down $1$ unit; the three parabolas have the same shape and differ only in vertical position. All three have $a=1>0$, open upward, and share the $y$-axis as their axis of symmetry; their vertices are $\left(0,0\right)$, $\left(0,1\right)$, and $\left(0,-1\right)$ respectively. $\blacksquare$
+By **Conclusion 26.2.2** (Translation), $y=x^2+1$ is obtained by translating $y=x^2$ up $1$ unit, and $y=x^2-1$ by translating $y=x^2$ down $1$ unit; the three parabolas have the same shape and differ only in vertical position. All three have $a=1> 0$, open upward, and share the $y$-axis as their axis of symmetry; their vertices are $\left(0,0\right)$, $\left(0,1\right)$, and $\left(0,-1\right)$ respectively. $\blacksquare$
 
 ### Exercise 4
 
@@ -56,7 +56,7 @@ The figure shows three parabolas of the same shape, all opening downward: $y=-x^
 
 ### Solution to Exercise 4
 
-By **Conclusion 26.2.2** (Translation), $y=-\left(x+2\right)^2$ is obtained by translating $y=-x^2$ left $2$ units, and $y=-\left(x-2\right)^2$ by translating $y=-x^2$ right $2$ units. All three have $a=-1<0$ and open downward; their axes of symmetry are $x=0$, $x=-2$, and $x=2$ respectively; their vertices are $\left(0,0\right)$, $\left(-2,0\right)$, and $\left(2,0\right)$ respectively. $\blacksquare$
+By **Conclusion 26.2.2** (Translation), $y=-\left(x+2\right)^2$ is obtained by translating $y=-x^2$ left $2$ units, and $y=-\left(x-2\right)^2$ by translating $y=-x^2$ right $2$ units. All three have $a=-1< 0$ and open downward; their axes of symmetry are $x=0$, $x=-2$, and $x=2$ respectively; their vertices are $\left(0,0\right)$, $\left(-2,0\right)$, and $\left(2,0\right)$ respectively. $\blacksquare$
 
 ### Exercise 5
 
@@ -74,13 +74,13 @@ By **Conclusion 26.2.2** (Translation), $y=-\left(x+2\right)^2$ is obtained by t
 
 By **Conclusion 26.2.3** (The Parabola $y=a\left(x-h\right)^2+k$), read off the axis of symmetry $x=h$ and vertex $\left(h,k\right)$ from $h,k$.
 
-(1) $a=2>0$, opens upward; axis of symmetry $x=-3$; vertex $\left(-3,5\right)$, the lowest point. For $x<-3$, $y$ decreases as $x$ increases; for $x>-3$, $y$ increases as $x$ increases.
+(1) $a=2> 0$, opens upward; axis of symmetry $x=-3$; vertex $\left(-3,5\right)$, the lowest point. For $x< -3$, $y$ decreases as $x$ increases; for $x> -3$, $y$ increases as $x$ increases.
 
-(2) $a=-3<0$, opens downward; axis of symmetry $x=1$; vertex $\left(1,-2\right)$, the highest point. For $x<1$, $y$ increases as $x$ increases; for $x>1$, $y$ decreases as $x$ increases.
+(2) $a=-3< 0$, opens downward; axis of symmetry $x=1$; vertex $\left(1,-2\right)$, the highest point. For $x< 1$, $y$ increases as $x$ increases; for $x> 1$, $y$ decreases as $x$ increases.
 
-(3) $a=4>0$, opens upward; axis of symmetry $x=3$; vertex $\left(3,7\right)$, the lowest point. For $x<3$, $y$ decreases as $x$ increases; for $x>3$, $y$ increases as $x$ increases.
+(3) $a=4> 0$, opens upward; axis of symmetry $x=3$; vertex $\left(3,7\right)$, the lowest point. For $x< 3$, $y$ decreases as $x$ increases; for $x> 3$, $y$ increases as $x$ increases.
 
-(4) $a=-5<0$, opens downward; axis of symmetry $x=-2$; vertex $\left(-2,-6\right)$, the highest point. For $x<-2$, $y$ increases as $x$ increases; for $x>-2$, $y$ decreases as $x$ increases. $\blacksquare$
+(4) $a=-5< 0$, opens downward; axis of symmetry $x=-2$; vertex $\left(-2,-6\right)$, the highest point. For $x< -2$, $y$ increases as $x$ increases; for $x> -2$, $y$ decreases as $x$ increases. $\blacksquare$
 
 ### Exercise 6
 
@@ -94,9 +94,9 @@ By **Conclusion 26.2.3** (The Parabola $y=a\left(x-h\right)^2+k$), read off the 
 
 By **Conclusion 26.2.3** (The Parabola $y=a\left(x-h\right)^2+k$).
 
-(1) $a=2>0$, opens upward; when $x=3$, $y$ takes its minimum $5$, with no maximum.
+(1) $a=2> 0$, opens upward; when $x=3$, $y$ takes its minimum $5$, with no maximum.
 
-(2) $a=-1<0$, opens downward; when $x=-2$, $y$ takes its maximum $-2$, with no minimum. $\blacksquare$
+(2) $a=-1< 0$, opens downward; when $x=-2$, $y$ takes its maximum $-2$, with no minimum. $\blacksquare$
 
 ### Exercise 7
 
@@ -116,7 +116,7 @@ The figure shows four side-by-side coordinate systems, each with one parabola: (
 
 By **Conclusion 26.2.4** (The Parabola $y=ax^2+bx+c$), the axis of symmetry is $x=-\frac b{2a}$ and the vertex's vertical coordinate is $\frac{4ac-b^2}{4a}$.
 
-(1) $a=-3$, $b=12$, $c=-3$. Axis of symmetry $x=-\frac{12}{2\left(-3\right)}=2$; vertex's vertical coordinate $\frac{4\left(-3\right)\left(-3\right)-144}{4\left(-3\right)}=\frac{36-144}{-12}=9$. Opens downward, vertex $\left(2,9\right)$; for $x<2$, $y$ increases as $x$ increases, and for $x>2$ it decreases.
+(1) $a=-3$, $b=12$, $c=-3$. Axis of symmetry $x=-\frac{12}{2\left(-3\right)}=2$; vertex's vertical coordinate $\frac{4\left(-3\right)\left(-3\right)-144}{4\left(-3\right)}=\frac{36-144}{-12}=9$. Opens downward, vertex $\left(2,9\right)$; for $x< 2$, $y$ increases as $x$ increases, and for $x> 2$ it decreases.
 
 (2) $a=4$, $b=-24$, $c=26$. Axis of symmetry $x=\frac{24}{8}=3$; vertex's vertical coordinate $\frac{4\cdot4\cdot26-576}{16}=\frac{416-576}{16}=-10$. Opens upward, vertex $\left(3,-10\right)$.
 
@@ -138,9 +138,9 @@ The graphs are as shown. $\blacksquare$
 
 By **Conclusion 26.2.4**, the extremum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac b{2a}$.
 
-(1) $a=3>0$; when $x=-\frac{2}{6}=-\frac13$, the minimum $\frac{0-4}{12}=-\frac13$ is taken.
+(1) $a=3> 0$; when $x=-\frac{2}{6}=-\frac13$, the minimum $\frac{0-4}{12}=-\frac13$ is taken.
 
-(2) $a=-2<0$; when $x=-\frac{8}{2\left(-2\right)}=2$, the maximum $\frac{4\left(-2\right)\left(-8\right)-64}{-8}=\frac{64-64}{-8}=0$ is taken. $\blacksquare$
+(2) $a=-2< 0$; when $x=-\frac{8}{2\left(-2\right)}=2$, the maximum $\frac{4\left(-2\right)\left(-8\right)-64}{-8}=\frac{64-64}{-8}=0$ is taken. $\blacksquare$
 
 ### Problem 1
 
@@ -156,9 +156,9 @@ The figure shows two parabolas in one plane rectangular coordinate system, both 
 
 By **Conclusion 26.2.1** (The Parabola $y=ax^2$), both have the $y$-axis as their axis of symmetry and the origin as vertex.
 
-(1) $a=5>0$, opens upward; $\left|a\right|$ is larger, so the opening is narrower.
+(1) $a=5> 0$, opens upward; $\left|a\right|$ is larger, so the opening is narrower.
 
-(2) $a=-\frac15<0$, opens downward; $\left|a\right|$ is smaller, so the opening is wider.
+(2) $a=-\frac15< 0$, opens downward; $\left|a\right|$ is smaller, so the opening is wider.
 
 The graphs are as shown. $\blacksquare$
 
@@ -230,13 +230,13 @@ The graphs are as shown. $\blacksquare$
 
 By **Conclusion 26.2.4**, the extremum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac b{2a}$.
 
-(1) $a=5>0$; when $x=-\frac3{10}$, the minimum $\frac{4\cdot5\cdot2-9}{20}=\frac{40-9}{20}=\frac{31}{20}$ is taken.
+(1) $a=5> 0$; when $x=-\frac3{10}$, the minimum $\frac{4\cdot5\cdot2-9}{20}=\frac{40-9}{20}=\frac{31}{20}$ is taken.
 
-(2) $a=-1<0$; when $x=3$, the maximum $\frac{4\left(-1\right)\left(-3\right)-36}{-4}=\frac{12-36}{-4}=6$ is taken.
+(2) $a=-1< 0$; when $x=3$, the maximum $\frac{4\left(-1\right)\left(-3\right)-36}{-4}=\frac{12-36}{-4}=6$ is taken.
 
-(3) $a=-\frac12<0$; when $x=-\frac{-3}{2\left(-1/2\right)}=-3$, the maximum $\frac{4\left(-1/2\right)\left(-5/2\right)-9}{4\left(-1/2\right)}=\frac{5-9}{-2}=2$ is taken.
+(3) $a=-\frac12< 0$; when $x=-\frac{-3}{2\left(-1/2\right)}=-3$, the maximum $\frac{4\left(-1/2\right)\left(-5/2\right)-9}{4\left(-1/2\right)}=\frac{5-9}{-2}=2$ is taken.
 
-(4) $a=\frac14>0$; when $x=-\frac{-2}{2\left(1/4\right)}=4$, the minimum $\frac{4\cdot\frac14\cdot5-4}{1}=\frac{5-4}{1}=1$ is taken. $\blacksquare$
+(4) $a=\frac14> 0$; when $x=-\frac{-2}{2\left(1/4\right)}=4$, the minimum $\frac{4\cdot\frac14\cdot5-4}{1}=\frac{5-4}{1}=1$ is taken. $\blacksquare$
 
 ### Problem 5
 
@@ -300,7 +300,7 @@ $$
 y=-2x^2+12x-8.
 $$
 
-$a=-2<0$, opens downward. By **Conclusion 26.2.4**, the axis of symmetry is $x=-\frac{12}{2\left(-2\right)}=3$, and the vertex's vertical coordinate is $-2\cdot9+36-8=10$. Hence the axis of symmetry is the line $x=3$, and the vertex is $\left(3,10\right)$. $\blacksquare$
+$a=-2< 0$, opens downward. By **Conclusion 26.2.4**, the axis of symmetry is $x=-\frac{12}{2\left(-2\right)}=3$, and the vertex's vertical coordinate is $-2\cdot9+36-8=10$. Hence the axis of symmetry is the line $x=3$, and the vertex is $\left(3,10\right)$. $\blacksquare$
 
 ### Problem 9
 

@@ -1,13 +1,13 @@
 # Assignment 27
 
 > **Definition 6.1.1** (Solid Figure) <br>A geometric figure whose parts do not all lie in the same plane is called a solid figure.
->
+> 
 > **Definition 6.1.3** (Net) <br>If the surface of a solid figure is cut open appropriately, it can be unfolded into a plane figure, called the net of the corresponding solid figure.
->
+> 
 > **Definition 6.1.5** (A Moving Point Forms a Line, a Moving Line Forms a Plane, a Moving Plane Forms a Solid) <br>A moving point forms a line, a moving line forms a plane, and a moving plane forms a solid.
->
+> 
 > **Definition 6.3.1** (Angle) <br>The figure formed by two rays with a common endpoint is called an angle.
->
+> 
 > **Definition 6.3.2** (Measuring Angles) <br>$1^{\circ}=60'$, $1'=60''$. A full angle $=360^{\circ}$.
 
 ### Activity 1

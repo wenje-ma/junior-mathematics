@@ -1,15 +1,15 @@
 # Assignment 56
 
 > **Definition 12.1.1** (Comprehensive Survey) <br>A survey conducted on the entire population of objects.
->
+> 
 > **Definition 12.1.2** (Population and Individual) <br>The entire set of objects to be investigated is called the population; each object under investigation that makes up the population is called an individual.
->
+> 
 > **Definition 12.1.3** (Sample Survey) <br>Surveying only a part of the objects and then inferring the situation of the entire population from the survey data.
->
+> 
 > **Definition 12.1.4** (Sample) <br>A part of the individuals drawn from the population.
->
+> 
 > **Definition 12.1.5** (Sample Size) <br>The number of individuals in the sample.
->
+> 
 > **Definition 12.1.6** (Simple Random Sampling) <br>In the process of drawing the sample, every individual in the population has an equal chance of being selected.
 
 ### Exercise 1
@@ -164,13 +164,13 @@ From the sample, size M accounts for $\frac{16}{40}=40\%$, the most, and size L 
 
 ### Problem 7
 
-(Exercise 12.1, Comprehensive Application, Problem 7) Group the numbers of national-level nature reserves in China's various regions in 2021 into $x<5$, $5\le x<10$, $10\le x<15$, $15\le x<20$, $20\le x<25$, $25\le x<30$, $30\le x<35$, $45\le x<50$, and count the number of regions in each data segment.
+(Exercise 12.1, Comprehensive Application, Problem 7) Group the numbers of national-level nature reserves in China's various regions in 2021 into $x< 5$, $5\le x< 10$, $10\le x< 15$, $15\le x< 20$, $20\le x< 25$, $25\le x< 30$, $30\le x< 35$, $45\le x< 50$, and count the number of regions in each data segment.
 
 ### Solution to Problem 7
 
 From the given data (Beijing 2, Tianjin 3, Hebei 14, Shanxi 8, Inner Mongolia 29, Liaoning 19, Jilin 24, Heilongjiang 49, Shanghai 11, Jiangsu 17, Zhejiang 16, Anhui 7, Fujian 13, Hubei 22, Hunan 23, Guangdong 15, Guangxi 10, Hainan 32, Chongqing 26, Sichuan 21, Guizhou 9, Yunnan 21, Tibet 26, Shaanxi 9, Gansu ..., Qinghai ..., Ningxia ..., Xinjiang ...):
 
-$x<5$: Beijing, Tianjin, totaling $2$ regions; $5\le x<10$: Shanxi, Anhui, Guizhou, Shaanxi, etc.; the remaining intervals are counted according to where the data fall. Overall, more regions have $10\sim 25$ nature reserves, and Inner Mongolia and Heilongjiang have the largest numbers. $\blacksquare$
+$x< 5$: Beijing, Tianjin, totaling $2$ regions; $5\le x< 10$: Shanxi, Anhui, Guizhou, Shaanxi, etc.; the remaining intervals are counted according to where the data fall. Overall, more regions have $10\sim 25$ nature reserves, and Inner Mongolia and Heilongjiang have the largest numbers. $\blacksquare$
 
 ### Problem 8
 

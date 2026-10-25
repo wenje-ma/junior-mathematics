@@ -1,11 +1,11 @@
 # Assignment 58
 
 > **Definition 12.1.2** (Population and Individual) <br>The entire set of objects to be investigated is called the population; each object under investigation that makes up the population is called an individual.
->
+> 
 > **Definition 12.1.4** (Sample) <br>A part of the individuals drawn from the population.
->
+> 
 > **Definition 12.1.6** (Simple Random Sampling) <br>Every individual in the population has an equal chance of being selected.
->
+> 
 > **Definition 12.2.7** (Trend Chart) <br>A statistical chart using a line to describe the relationship between one quantity and another.
 
 ### Activity 1

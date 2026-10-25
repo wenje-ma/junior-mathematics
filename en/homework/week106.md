@@ -1,9 +1,9 @@
 # Assignment 106
 
 > **Conclusion 21.1.3** (Interior Angle Sum of a Polygon) <br> The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
->
+> 
 > **Property 21.2.1** (Opposite Sides) <br> Opposite sides of a parallelogram are equal.
->
+> 
 > **Theorem 20.1.1** (Pythagorean Theorem) <br> The sum of the squares of the two legs of a right triangle equals the square of the hypotenuse.
 
 ### Activity 1

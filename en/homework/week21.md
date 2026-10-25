@@ -1,9 +1,9 @@
 # Assignment 21
 
 > **Definition 5.1.3** (Linear Equation in One Variable) <br>An equation that contains only one unknown, and the degree of the unknown is $1$, is called a linear equation in one variable.
->
+> 
 > **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Variable) <br>The general steps for solving a linear equation in one variable are: clear the denominators, remove the parentheses, transpose terms, combine like terms, and make the coefficient $1$.
->
+> 
 > **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations) <br>Let an unknown, set up the equation, solve the equation, check, and give the answer.
 
 ### Exercise 1
@@ -106,7 +106,7 @@ By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations
 
 Agency A cost: $200\times0.75x=150x$ yuan. Agency B cost: $200\times0.8\left(x-1\right)=160\left(x-1\right)$ yuan.
 
-Set the two equal: $150x=160\left(x-1\right)$, $150x=160x-160$, giving $x=16$. When $x<16$, agency B is cheaper; when $x>16$, agency A is cheaper; when $x=16$, the two cost the same. $\blacksquare$
+Set the two equal: $150x=160\left(x-1\right)$, $150x=160x-160$, giving $x=16$. When $x< 16$, agency B is cheaper; when $x> 16$, agency A is cheaper; when $x=16$, the two cost the same. $\blacksquare$
 
 ### Exercise 9
 
@@ -218,7 +218,7 @@ Plan 1: $4$ days of milk tablets make $4\ \text{t}$, and the remaining $5\ \text
 
 Plan 2: let milk tablets take $x$ days and yogurt take $\left(4-x\right)$ days. The amount of milk tablets is $x\ \text{t}$, and yogurt is $3\left(4-x\right)\ \text{t}$. Total $9\ \text{t}$: $x+3\left(4-x\right)=9$. Simplifying: $x+12-3x=9$, $-2x=-3$, giving $x=1.5$. Milk tablets $1.5\ \text{t}$, yogurt $7.5\ \text{t}$. Profit $=1.5\times2000+7.5\times1200=3000+9000=12000$ yuan.
 
-Plan 2 profit $12000>10500$, so Plan 2 yields the most profit. $\blacksquare$
+Plan 2 profit $12000> 10500$, so Plan 2 yields the most profit. $\blacksquare$
 
 ### Problem 8
 
@@ -248,7 +248,7 @@ Working together for $3$ days they complete: $3\left(\frac{1}{15}+\frac{1}{12}\r
 
 By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let the April gas usage be $x\ \text{m}^{3}$.
 
-The average price is $0.88$ yuan per cubic meter, so the total cost is $0.88x$ yuan. Since the average price $0.88>0.8$, we have $x>60$. Tiered billing: $0.8\times60+1.2\left(x-60\right)=0.88x$. Simplifying: $48+1.2x-72=0.88x$. Combine: $0.32x=24$, giving $x=75$. Total cost $=0.88\times75=66$ yuan. $\blacksquare$
+The average price is $0.88$ yuan per cubic meter, so the total cost is $0.88x$ yuan. Since the average price $0.88> 0.8$, we have $x> 60$. Tiered billing: $0.8\times60+1.2\left(x-60\right)=0.88x$. Simplifying: $48+1.2x-72=0.88x$. Combine: $0.32x=24$, giving $x=75$. Total cost $=0.88\times75=66$ yuan. $\blacksquare$
 
 ### Problem 11
 

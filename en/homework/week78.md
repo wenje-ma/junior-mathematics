@@ -286,7 +286,7 @@ $\blacksquare$
 
 ### Problem 9
 
-(Exercise 16.1, Extension and Exploration, Problem 9) If $a^m=a^n$ ($a>0$, $a\ne1$), then $m=n$. Use the above conclusion to solve the following problems:
+(Exercise 16.1, Extension and Exploration, Problem 9) If $a^m=a^n$ ($a> 0$, $a\ne1$), then $m=n$. Use the above conclusion to solve the following problems:
 
 (1) If $2\times8^x\times16^x=2^{22}$, find the value of $x$;
 

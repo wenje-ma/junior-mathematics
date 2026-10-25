@@ -1,11 +1,11 @@
 # Assignment 37
 
 > **Definition 8.2.1** (Cube Root) <br>If a number $x$ has cube equal to $a$, i.e. $x^3=a$, then this number $x$ is called a cube root (or third root) of $a$, denoted $\sqrt\left[3\right]{a}$, where $3$ is the index of the root. The operation of finding the cube root of a number is called extracting the cube root, and extracting the cube root and cubing are inverse operations of each other.
->
+> 
 > **Property 8.2.1** (Properties of Cube Roots) <br>The cube root of a positive number is positive, the cube root of a negative number is negative, and the cube root of $0$ is $0$.
->
+> 
 > **Property 8.2.2** (Cube Root of a Negative Number) <br>$\sqrt\left[3\right]{-a}=-\sqrt\left[3\right]{a}$.
->
+> 
 > **Property 8.2.3** (Relationship Between Cubing and Extracting Cube Roots) <br>For any number $a$, $\left(\sqrt\left[3\right]{a}\right)^3=a$; $\sqrt\left[3\right]{a^3}=a$.
 
 ### Exercise 1
@@ -102,13 +102,13 @@ By **Definition 8.2.1** (Cube Root), use a calculator to find the cube root.
 
 Compare with cubes.
 
-(1) $\because 1^3=1<7<8=2^3$, $\therefore 1<\sqrt\left[3\right]{7}<2$, lying between $1$ and $2$.
+(1) $\because 1^3=1< 7< 8=2^3$, $\therefore 1< \sqrt\left[3\right]{7}< 2$, lying between $1$ and $2$.
 
-(2) $\because 4^3=64<99<125=5^3$, $\therefore 4<\sqrt\left[3\right]{99}<5$, lying between $4$ and $5$.
+(2) $\because 4^3=64< 99< 125=5^3$, $\therefore 4< \sqrt\left[3\right]{99}< 5$, lying between $4$ and $5$.
 
-(3) $\because 8^3=512<635<729=9^3$, $\therefore 8<\sqrt\left[3\right]{635}<9$, lying between $8$ and $9$.
+(3) $\because 8^3=512< 635< 729=9^3$, $\therefore 8< \sqrt\left[3\right]{635}< 9$, lying between $8$ and $9$.
 
-(4) $\because\left(-4\right)^3=-64<-28<-27=\left(-3\right)^3$, $\therefore-4<\sqrt\left[3\right]{-28}<-3$, lying between $-4$ and $-3$. $\blacksquare$
+(4) $\because\left(-4\right)^3=-64< -28< -27=\left(-3\right)^3$, $\therefore-4< \sqrt\left[3\right]{-28}< -3$, lying between $-4$ and $-3$. $\blacksquare$
 
 ### Problem 1
 
@@ -152,11 +152,11 @@ By **Definition 8.2.1** (Cube Root), use a calculator.
 
 The cube root increases as the radicand increases.
 
-(1) $\because 2^3=8>7$, $\therefore\sqrt\left[3\right]{7}<\sqrt\left[3\right]{8}=2$, i.e. $\sqrt\left[3\right]{7}<2$.
+(1) $\because 2^3=8> 7$, $\therefore\sqrt\left[3\right]{7}< \sqrt\left[3\right]{8}=2$, i.e. $\sqrt\left[3\right]{7}< 2$.
 
-(2) $\because 2.5^3=15.625>9$, $\therefore\sqrt\left[3\right]{9}<\sqrt\left[3\right]{15.625}=2.5$, i.e. $\sqrt\left[3\right]{9}<2.5$.
+(2) $\because 2.5^3=15.625> 9$, $\therefore\sqrt\left[3\right]{9}< \sqrt\left[3\right]{15.625}=2.5$, i.e. $\sqrt\left[3\right]{9}< 2.5$.
 
-(3) $\because 3>2$, $\therefore\sqrt\left[3\right]{3}>\sqrt\left[3\right]{2}$; taking opposites of both sides gives $-\sqrt\left[3\right]{3}<-\sqrt\left[3\right]{2}$. $\blacksquare$
+(3) $\because 3> 2$, $\therefore\sqrt\left[3\right]{3}> \sqrt\left[3\right]{2}$; taking opposites of both sides gives $-\sqrt\left[3\right]{3}< -\sqrt\left[3\right]{2}$. $\blacksquare$
 
 ### Problem 4
 
@@ -182,7 +182,7 @@ By **Definition 8.2.1** (Cube Root).
 
 The volume of the cuboid is $21\times 20\times 19=7980\,dm^3$. When melted and recast into a cube, the volume is unchanged; let the edge length of the cube be $x\,dm$, then $x^3=7980$.
 
-By **Definition 8.2.1** (Cube Root), $x=\sqrt\left[3\right]{7980}$. $\because 19^3=6859<7980<8000=20^3$, continue estimating: $19.98^3\approx 7976$. Thus $x\approx 19.98\,dm$.
+By **Definition 8.2.1** (Cube Root), $x=\sqrt\left[3\right]{7980}$. $\because 19^3=6859< 7980< 8000=20^3$, continue estimating: $19.98^3\approx 7976$. Thus $x\approx 19.98\,dm$.
 
 That is, the edge length of the cube is about $19.98\,dm$. $\blacksquare$
 

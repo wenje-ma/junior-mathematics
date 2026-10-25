@@ -2,7 +2,7 @@
 
 > **Definition 26.1.1** (Inverse Proportional Function) <br>In general, a function of the form $y=\frac{k}{x}$ (where $k$ is a constant and $k\ne0$) is called an inverse proportional function, where $x$ is the independent variable and $y$ is the function; the range of the independent variable $x$ is all real numbers except $0$.
 
-> **Definition 26.1.2** (Graph and Properties of the Inverse Proportional Function) <br>The graph of the inverse proportional function $y=\frac{k}{x}$ is a hyperbola. When $k>0$, the two branches of the hyperbola lie in the first and third quadrants, respectively, and in each quadrant, $y$ decreases as $x$ increases; when $k<0$, the two branches of the hyperbola lie in the second and fourth quadrants, respectively, and in each quadrant, $y$ increases as $x$ increases.
+> **Definition 26.1.2** (Graph and Properties of the Inverse Proportional Function) <br>The graph of the inverse proportional function $y=\frac{k}{x}$ is a hyperbola. When $k> 0$, the two branches of the hyperbola lie in the first and third quadrants, respectively, and in each quadrant, $y$ decreases as $x$ increases; when $k< 0$, the two branches of the hyperbola lie in the second and fourth quadrants, respectively, and in each quadrant, $y$ increases as $x$ increases.
 
 > **Definition 26.1.3** (Method of Undetermined Coefficients) <br>Given the coordinates of a point on the graph of an inverse proportional function, substituting into $y=\frac{k}{x}$ yields $k$, thereby determining the function expression.
 
@@ -94,7 +94,7 @@ By **Definition 26.1.2** (Graph and Properties of the Inverse Proportional Funct
 
 (1) (A) and (B) are straight lines, (D) is a parabola, and only (C) is a hyperbola, so choose (C).
 
-(2) The graph lies in the first and third quadrants, which means $k>0$, and the hyperbola does not pass through the coordinate axes. (B) is a straight line and is excluded; in (D), $k=-3<0$, so the graph should lie in the second and fourth quadrants, and it is excluded. Since the curve in the figure passes near $\left(1,4\right)$, it corresponds to $y=\frac{4}{x}$, so choose (C). $\blacksquare$
+(2) The graph lies in the first and third quadrants, which means $k> 0$, and the hyperbola does not pass through the coordinate axes. (B) is a straight line and is excluded; in (D), $k=-3< 0$, so the graph should lie in the second and fourth quadrants, and it is excluded. Since the curve in the figure passes near $\left(1,4\right)$, it corresponds to $y=\frac{4}{x}$, so choose (C). $\blacksquare$
 
 ### Exercise 5
 
@@ -108,9 +108,9 @@ By **Definition 26.1.2** (Graph and Properties of the Inverse Proportional Funct
 
 By **Definition 26.1.2** (Graph and Properties of the Inverse Proportional Function).
 
-(1) $k=5>0$, so the two branches of the hyperbola lie in the first and third quadrants, respectively.
+(1) $k=5> 0$, so the two branches of the hyperbola lie in the first and third quadrants, respectively.
 
-(2) The graph lies in the second and fourth quadrants, which means $k<0$; when $k<0$, in each quadrant, $y$ increases as $x$ increases. $\blacksquare$
+(2) The graph lies in the second and fourth quadrants, which means $k< 0$; when $k< 0$, in each quadrant, $y$ increases as $x$ increases. $\blacksquare$
 
 ### Exercise 6
 
@@ -124,21 +124,21 @@ By **Definition 26.1.2** (Graph and Properties of the Inverse Proportional Funct
 
 By **Definition 26.1.3** (Method of Undetermined Coefficients), let $y=\frac{k}{x}$. Substituting $A\left(3,-4\right)$ gives $-4=\frac{k}{3}$, so $k=-12$, and hence $y=\frac{-12}{x}$.
 
-(1) $k=-12<0$, so by **Definition 26.1.2**, the graph lies in the second and fourth quadrants, and on each branch $y$ increases as $x$ increases.
+(1) $k=-12< 0$, so by **Definition 26.1.2**, the graph lies in the second and fourth quadrants, and on each branch $y$ increases as $x$ increases.
 
 (2) $B\left(-3,4\right)$: $\left(-3\right)\times4=-12=k$, on the graph; $C\left(-2,6\right)$: $\left(-2\right)\times6=-12=k$, on the graph; $D\left(3,4\right)$: $3\times4=12\ne-12$, not on the graph. $\blacksquare$
 
 ### Exercise 7
 
-(Exercise 26.1, Problem 2) The points $A\left(x_1,y_1\right)$ and $B\left(x_2,y_2\right)$ lie on the graph of the inverse proportional function $y=\frac{1}{x}$. If $x_1<x_2$ and $x_1$, $x_2$ have the same sign, what is the size relationship between $y_1$ and $y_2$? Why?
+(Exercise 26.1, Problem 2) The points $A\left(x_1,y_1\right)$ and $B\left(x_2,y_2\right)$ lie on the graph of the inverse proportional function $y=\frac{1}{x}$. If $x_1< x_2$ and $x_1$, $x_2$ have the same sign, what is the size relationship between $y_1$ and $y_2$? Why?
 
 ### Solution to Exercise 7
 
-By **Definition 26.1.2** (Graph and Properties of the Inverse Proportional Function), $k=1>0$, so in each quadrant $y$ decreases as $x$ increases.
+By **Definition 26.1.2** (Graph and Properties of the Inverse Proportional Function), $k=1> 0$, so in each quadrant $y$ decreases as $x$ increases.
 
-Since $x_1$, $x_2$ have the same sign, $A$ and $B$ lie in the same quadrant. From $x_1<x_2$, on the same branch $y$ decreases as $x$ increases, so $y_1>y_2$.
+Since $x_1$, $x_2$ have the same sign, $A$ and $B$ lie in the same quadrant. From $x_1< x_2$, on the same branch $y$ decreases as $x$ increases, so $y_1> y_2$.
 
-This can also be verified from the expression: $y_1-y_2=\frac{1}{x_1}-\frac{1}{x_2}=\frac{x_2-x_1}{x_1x_2}$. From $x_1<x_2$ we get $x_2-x_1>0$, and from $x_1$, $x_2$ having the same sign we get $x_1x_2>0$, so $y_1-y_2>0$, i.e. $y_1>y_2$. $\blacksquare$
+This can also be verified from the expression: $y_1-y_2=\frac{1}{x_1}-\frac{1}{x_2}=\frac{x_2-x_1}{x_1x_2}$. From $x_1< x_2$ we get $x_2-x_1> 0$, and from $x_1$, $x_2$ having the same sign we get $x_1x_2> 0$, so $y_1-y_2> 0$, i.e. $y_1> y_2$. $\blacksquare$
 
 ### Problem 1
 
@@ -182,11 +182,11 @@ By **Definition 26.1.1** (Inverse Proportional Function), an inverse proportiona
 
 By **Definition 26.1.2** (Graph and Properties of the Inverse Proportional Function).
 
-(1) The graph lies in the first and third quadrants, $k>0$, and $y$ decreases as $x$ increases.
+(1) The graph lies in the first and third quadrants, $k> 0$, and $y$ decreases as $x$ increases.
 
-(2) The graph lies in the second and fourth quadrants, $k<0$, and $y$ increases as $x$ increases.
+(2) The graph lies in the second and fourth quadrants, $k< 0$, and $y$ increases as $x$ increases.
 
-(3) Substituting $\left(1,3\right)$ gives $3=\frac{k}{1}$, so $k=3>0$, and $y$ decreases as $x$ increases. $\blacksquare$
+(3) Substituting $\left(1,3\right)$ gives $3=\frac{k}{1}$, so $k=3> 0$, and $y$ decreases as $x$ increases. $\blacksquare$
 
 ### Problem 4
 
@@ -204,7 +204,7 @@ Therefore $x$ is also an inverse proportional function of $y$. $\blacksquare$
 
 (1) When $x=-3$, find the value of the inverse proportional function $y=\frac{k}{x}$;
 
-(2) When $-3<x<-1$, find the range of values of the inverse proportional function $y=\frac{k}{x}$.
+(2) When $-3< x< -1$, find the range of values of the inverse proportional function $y=\frac{k}{x}$.
 
 ### Solution to Problem 5
 
@@ -212,7 +212,7 @@ The intersection point has y-coordinate $2$ and lies on $y=x$, so its x-coordina
 
 (1) When $x=-3$, $y=\frac{4}{-3}=-\frac{4}{3}$.
 
-(2) $k=4>0$, and in the third quadrant $y$ decreases as $x$ increases. When $x=-3$, $y=-\frac{4}{3}$; when $x=-1$, $y=-4$. Since $-3<x<-1$, we have $-4<y<-\frac{4}{3}$. $\blacksquare$
+(2) $k=4> 0$, and in the third quadrant $y$ decreases as $x$ increases. When $x=-3$, $y=-\frac{4}{3}$; when $x=-1$, $y=-4$. Since $-3< x< -1$, we have $-4< y< -\frac{4}{3}$. $\blacksquare$
 
 ### Problem 6
 
@@ -246,9 +246,9 @@ Substituting gives $y=\frac{k_1}{k_2x}=\frac{k_1/k_2}{x}$, where $\frac{k_1}{k_2
 
 By **Definition 26.1.2** (Graph and Properties of the Inverse Proportional Function), the $k$ in $y=kx$ and $y=\frac{k}{x}$ has the same sign.
 
-If $k>0$, the line $y=kx$ passes through the first and third quadrants, and the hyperbola $y=\frac{k}{x}$ also lies in the first and third quadrants, corresponding to Figure (2).
+If $k> 0$, the line $y=kx$ passes through the first and third quadrants, and the hyperbola $y=\frac{k}{x}$ also lies in the first and third quadrants, corresponding to Figure (2).
 
-If $k<0$, the line passes through the second and fourth quadrants, and the hyperbola also lies in the second and fourth quadrants, corresponding to Figure (4).
+If $k< 0$, the line passes through the second and fourth quadrants, and the hyperbola also lies in the second and fourth quadrants, corresponding to Figure (4).
 
 So choose (C). $\blacksquare$
 
@@ -258,15 +258,15 @@ So choose (C). $\blacksquare$
 
 (1) In which quadrant does the other branch of the graph lie? What is the range of the constant $w$?
 
-(2) Take any two points $A\left(x_1,y_1\right)$ and $B\left(x_2,y_2\right)$ on the graph of this function. If $y_1>y_2$, what is the size relationship between $x_1$ and $x_2$?
+(2) Take any two points $A\left(x_1,y_1\right)$ and $B\left(x_2,y_2\right)$ on the graph of this function. If $y_1> y_2$, what is the size relationship between $x_1$ and $x_2$?
 
 ### Solution to Problem 9
 
 By **Definition 26.1.2** (Graph and Properties of the Inverse Proportional Function).
 
-(1) One branch lies in the first quadrant, which means $w-\sqrt{2}>0$, so the other branch lies in the third quadrant, and $w>\sqrt{2}$.
+(1) One branch lies in the first quadrant, which means $w-\sqrt{2}> 0$, so the other branch lies in the third quadrant, and $w> \sqrt{2}$.
 
-(2) $w-\sqrt{2}>0$, and on each branch $y$ decreases as $x$ increases. From $y_1>y_2$, we get $x_1<x_2$. $\blacksquare$
+(2) $w-\sqrt{2}> 0$, and on each branch $y$ decreases as $x$ increases. From $y_1> y_2$, we get $x_1< x_2$. $\blacksquare$
 
 ### Information Technology Application 1
 

@@ -1,9 +1,9 @@
 # Assignment 96
 
 > **Rule 19.3.1** (Addition and Subtraction) <br> When adding and subtracting quadratic radicals, first reduce the quadratic radicals to simplest form, and then combine the quadratic radicals with the same radicand; the method of combining is similar to combining like terms.
->
+> 
 > **Rule 19.3.2** (Mixed Operations) <br> In the mixed operations of addition, subtraction, multiplication, division and powers of quadratic radicals, the operation order and operation laws for real numbers as well as the polynomial multiplication formulas still apply.
->
+> 
 > **Conclusion 19.3.1** (Heron–Qin Jiushao Formula) <br> If the three side lengths of a triangle are \(a,b,c\), write \(p=\frac{a+b+c}{2}\), then the triangle area is \(S=\sqrt{p(p-a)(p-b)(p-c)}\).
 
 ### Exercise 1
@@ -210,7 +210,7 @@ Therefore \(S_{1}+S_{2}=14\ \text{m}^{2}\).
 
 (2) The sum of the perimeters of the two squares is \(4(\sqrt{5}+\sqrt{2})+4(\sqrt{5}-\sqrt{2})=8\sqrt{5}\).
 
-Since \(\sqrt{5}\approx 2.236\), we get \(8\sqrt{5}\approx 17.89<20\).
+Since \(\sqrt{5}\approx 2.236\), we get \(8\sqrt{5}\approx 17.89< 20\).
 
 Therefore a \(20\ \text{m}\) piece of wire is sufficient to enclose these two squares.
 

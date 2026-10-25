@@ -1,13 +1,13 @@
 # Assignment 20
 
 > **Definition 5.1.4** (Properties of Equality 1) <br>Adding (or subtracting) the same number (or expression) to both sides of an equality keeps the result equal. If $a=b$, then $a\pm c=b\pm c$.
->
+> 
 > **Definition 5.1.5** (Properties of Equality 2) <br>Multiplying both sides of an equality by the same number, or dividing by the same number not equal to $0$, keeps the result equal.
->
+> 
 > **Definition 5.2.1** (Solving Equations by Combining Like Terms) <br>Combine the terms containing the unknown and combine the constant terms, reducing the equation to the form $ax=b$ ($a\ne0$).
->
+> 
 > **Definition 5.2.2** (Transposing Terms) <br>Moving a term from one side of an equality to the other side while changing its sign is called transposing terms. The basis for transposing is property 1 of equality.
->
+> 
 > **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Variable) <br>The general steps for solving a linear equation in one variable are: clear the denominators, remove the parentheses, transpose terms, combine like terms, and make the coefficient $1$.
 
 ### Exercise 1
@@ -274,7 +274,7 @@ From $3x+5=11$, we get $3x=6$, $x=2$. Substituting into $6x+3a=22$: $12+3a=22$, 
 
 By **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Variable), first solve the equation.
 
-Transpose: $x-3x=7+3-2a$, combine: $-2x=10-2a$, giving $x=a-5$. The solution is not nonnegative, i.e. $x<0$, so $a-5<0$, giving $a<5$. $\blacksquare$
+Transpose: $x-3x=7+3-2a$, combine: $-2x=10-2a$, giving $x=a-5$. The solution is not nonnegative, i.e. $x< 0$, so $a-5< 0$, giving $a< 5$. $\blacksquare$
 
 ### Problem 8
 

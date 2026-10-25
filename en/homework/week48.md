@@ -1,7 +1,7 @@
 # Assignment 48
 
 > **Definition 10.4.1** (System of Linear Equations in Three Variables) <br>A system that contains three unknowns, the expressions containing the unknowns are all integral expressions, the degree of each term containing an unknown is $1$, and there are three equations in total.
->
+> 
 > **Method 10.4.2** (Solving a System of Linear Equations in Three Variables) <br>Through substitution elimination or addition-subtraction elimination, first eliminate one unknown to convert the three-variable system into a two-variable system, then convert it into a one-variable linear equation.
 
 ### Exercise 1

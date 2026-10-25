@@ -1,9 +1,9 @@
 # Assignment 121
 
 > **Definition 24.3.1** (Quartiles) <br>The three division points that split a set of data arranged in ascending order into four equal parts are, from smallest to largest, called the first quartile $Q_1$, the second quartile $Q_2$ (median), and the third quartile $Q_3$.
->
+> 
 > **Definition 24.3.2** (Boxplot) <br>A plot drawn using the five values of a set of data — the minimum, the first quartile, the median, the third quartile, and the maximum — is called a boxplot.
->
+> 
 > **Definition 24.3.3** (Interquartile Range) <br>The difference between the third quartile and the first quartile is called the interquartile range.
 
 ### Exercise 1

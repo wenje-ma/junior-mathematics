@@ -1,9 +1,9 @@
 # Assignment 138
 
 > **Definition 26.1.1** (Quadratic Function) <br>A function of the form $y=ax^2+bx+c$ ($a,b,c$ are constants, $a\ne0$) is called a quadratic function.
->
-> **Conclusion 26.2.4** (The Parabola $y=ax^2+bx+c$) <br>Axis of symmetry $x=-\frac b{2a}$, vertex $\left(-\frac b{2a},\frac{4ac-b^2}{4a}\right)$. When $a>0$, the minimum is taken at the vertex; when $a<0$, the maximum is taken at the vertex.
->
+> 
+> **Conclusion 26.2.4** (The Parabola $y=ax^2+bx+c$) <br>Axis of symmetry $x=-\frac b{2a}$, vertex $\left(-\frac b{2a},\frac{4ac-b^2}{4a}\right)$. When $a> 0$, the minimum is taken at the vertex; when $a< 0$, the maximum is taken at the vertex.
+> 
 > **Conclusion 26.3.1** (Quadratic Function and Quadratic Equation) <br>The horizontal coordinate of a common point between the parabola $y=ax^2+bx+c$ and the $x$-axis is a real root of the equation $ax^2+bx+c=0$.
 
 ### Review Problem 1
@@ -56,13 +56,13 @@ The figure shows four parabolas plotted on the same rectangular coordinate plane
 
 By **Conclusion 26.2.1** and **Conclusion 26.2.3**.
 
-(1) $a=\frac15>0$, opens upward; axis of symmetry $x=0$; vertex $\left(0,0\right)$.
+(1) $a=\frac15> 0$, opens upward; axis of symmetry $x=0$; vertex $\left(0,0\right)$.
 
-(2) $a=-2<0$, opens downward; axis of symmetry $x=0$; vertex $\left(0,-3\right)$.
+(2) $a=-2< 0$, opens downward; axis of symmetry $x=0$; vertex $\left(0,-3\right)$.
 
-(3) $a=\frac14>0$, opens upward; axis of symmetry $x=-2$; vertex $\left(-2,0\right)$.
+(3) $a=\frac14> 0$, opens upward; axis of symmetry $x=-2$; vertex $\left(-2,0\right)$.
 
-(4) $a=-\frac12<0$, opens downward; axis of symmetry $x=-\frac32$; vertex $\left(-\frac32,-1\right)$.
+(4) $a=-\frac12< 0$, opens downward; axis of symmetry $x=-\frac32$; vertex $\left(-\frac32,-1\right)$.
 
 The graphs are as shown. $\blacksquare$
 
@@ -106,9 +106,9 @@ The graphs are as shown. $\blacksquare$
 
 By **Conclusion 26.2.4**, the extremum is taken at the vertex.
 
-(1) $a=1>0$; when $x=-\frac32$, the minimum $\frac{4\cdot1\cdot\left(-1\right)-9}{4}=-\frac{13}{4}$ is taken.
+(1) $a=1> 0$; when $x=-\frac32$, the minimum $\frac{4\cdot1\cdot\left(-1\right)-9}{4}=-\frac{13}{4}$ is taken.
 
-(2) $a=-2<0$; when $x=-\frac{-6}{2\left(-2\right)}=-\frac32$, the maximum $\frac{4\left(-2\right)\cdot5-36}{4\left(-2\right)}=\frac{-40-36}{-8}=\frac{19}2$ is taken. $\blacksquare$
+(2) $a=-2< 0$; when $x=-\frac{-6}{2\left(-2\right)}=-\frac32$, the maximum $\frac{4\left(-2\right)\cdot5-36}{4\left(-2\right)}=\frac{-40-36}{-8}=\frac{19}2$ is taken. $\blacksquare$
 
 ### Review Problem 6
 
@@ -138,7 +138,7 @@ By **Conclusion 26.3.1**, use the quadratic formula to find the roots.
 
 (1) The starting height is $h=1$; setting $h=1$ gives $-5t^2+12t+1=1$, i.e. $t\left(-5t+12\right)=0$, solving $t=0$ (at ejection) or $t=\frac{12}5=2.4\ \text{s}$. Hence it takes $2.4\ \text{s}$ to fall back to the starting height.
 
-(2) By **Conclusion 26.2.4**, $a=-5<0$; the maximum is taken at $t=\frac{12}{10}=1.2$, with $h_{\max}=-5\times1.2^2+12\times1.2+1=8.2\ \text{m}$. $\blacksquare$
+(2) By **Conclusion 26.2.4**, $a=-5< 0$; the maximum is taken at $t=\frac{12}{10}=1.2$, with $h_{\max}=-5\times1.2^2+12\times1.2+1=8.2\ \text{m}$. $\blacksquare$
 
 ### Review Problem 8
 
@@ -146,7 +146,7 @@ By **Conclusion 26.3.1**, use the quadratic formula to find the roots.
 
 ### Solution to Review Problem 8
 
-The aircraft stops when the taxiing distance reaches its maximum, corresponding to the vertex. By **Conclusion 26.2.4**, $a=-1.5<0$; it stops at $t=\frac{60}{3}=20\ \text{s}$, at which
+The aircraft stops when the taxiing distance reaches its maximum, corresponding to the vertex. By **Conclusion 26.2.4**, $a=-1.5< 0$; it stops at $t=\frac{60}{3}=20\ \text{s}$, at which
 
 $$
 y_{\max}=60\times20-1.5\times400=600\ \text{m}.
@@ -174,7 +174,7 @@ $$
 S=x^2+\left(12-x\right)^2=2x^2-24x+144.
 $$
 
-By **Conclusion 26.2.4**, $a=2>0$; the minimum is taken at $x=\frac{24}{4}=6$, with $S_{\min}=36$. Hence when $E$ is the midpoint of side $AB$, the area of square $EFGH$ is minimized. $\blacksquare$
+By **Conclusion 26.2.4**, $a=2> 0$; the minimum is taken at $x=\frac{24}{4}=6$, with $S_{\min}=36$. Hence when $E$ is the midpoint of side $AB$, the area of square $EFGH$ is minimized. $\blacksquare$
 
 ### Review Problem 10
 
@@ -236,7 +236,7 @@ $$
 S=\sum_{i=1}^n\left(x-x_i\right)^2=nx^2-2x\sum_{i=1}^n x_i+\sum_{i=1}^n x_i^2.
 $$
 
-This is a quadratic function in $x$, with $n>0$ opening upward. By **Conclusion 26.2.4**, when
+This is a quadratic function in $x$, with $n> 0$ opening upward. By **Conclusion 26.2.4**, when
 
 $$
 x=\frac{2\sum x_i}{2n}=\frac{x_1+x_2+\cdots+x_n}{n}

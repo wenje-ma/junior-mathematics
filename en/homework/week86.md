@@ -150,7 +150,7 @@ Since $n$ is an integer, $8n$ is a multiple of $8$. This completes the proof. $\
 
 $$p^2-1+q^2+2pq=\left(p^2+2pq+q^2\right)-1=\left(p+q\right)^2-1=\left(p+q+1\right)\left(p+q-1\right).$$
 
-Using the above factoring method, prove that if $a,b,c$ are the lengths of the three sides of $\triangle ABC$, then $a^2-b^2+c^2-2ac<0$.
+Using the above factoring method, prove that if $a,b,c$ are the lengths of the three sides of $\triangle ABC$, then $a^2-b^2+c^2-2ac< 0$.
 
 ### Solution to Review Problem 8
 
@@ -158,8 +158,8 @@ Factor by grouping:
 
 $$a^2-b^2+c^2-2ac=\left(a^2-2ac+c^2\right)-b^2=\left(a-c\right)^2-b^2=\left(a-c+b\right)\left(a-c-b\right).$$
 
-Since the sum of two sides of a triangle is greater than the third side, $a+b>c$, i.e. $a-c+b>0$; also $a<b+c$, i.e. $a-c-b<0$. The two factors have opposite signs, hence
+Since the sum of two sides of a triangle is greater than the third side, $a+b> c$, i.e. $a-c+b> 0$; also $a< b+c$, i.e. $a-c-b< 0$. The two factors have opposite signs, hence
 
-$$a^2-b^2+c^2-2ac=\left(a+b-c\right)\left(a-b-c\right)<0.$$
+$$a^2-b^2+c^2-2ac=\left(a+b-c\right)\left(a-b-c\right)< 0.$$
 
 $\blacksquare$

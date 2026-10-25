@@ -1,11 +1,11 @@
 # Assignment 75
 
 > **Definition 15.1.1** (Axisymmetric Figure) <br>A figure that can be folded along a line so that the parts on both sides coincide with each other is called an axisymmetric figure, and the line is called the axis of symmetry.
->
+> 
 > **Conclusion 15.1.1** (Properties of Axis Symmetry) <br>Two figures symmetric about a line are congruent; the axis of symmetry perpendicularly bisects the segment joining the symmetric points.
->
+> 
 > **Conclusion 15.3.1** (Equal Sides Opposite Equal Angles) <br>The two base angles of an isosceles triangle are equal.
->
+> 
 > **Conclusion 15.3.2** (Three Lines in One) <br>The median on the base, the altitude on the base, and the vertex-angle bisector of an isosceles triangle coincide, and the line on which they lie is its axis of symmetry.
 
 ### Activity 1

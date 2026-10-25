@@ -1,14 +1,14 @@
 # Assignment 8
 
 > **Definition 2.1.1** (Rules for Addition of Rational Numbers) <br>When two numbers of the same sign are added, the sum takes the same sign; when two numbers of opposite signs are added, the sum takes the sign of the addend with the larger absolute value; adding two numbers that are opposites of each other gives $0$.
->
+> 
 > **Definition 2.1.4** (Rules for Subtraction of Rational Numbers) <br>Subtracting a number is equivalent to adding the opposite number of that number.
->
+> 
 > **Definition 2.2.1** (Rules for Multiplication of Rational Numbers) <br>When two numbers are multiplied, like signs give positive and opposite signs give negative, and the absolute value of the product equals the product of the absolute values of the factors.
->
+> 
 > **Definition 2.2.7** (Rules for Division of Rational Numbers) <br>Dividing by a number not equal to $0$ is equivalent to multiplying by the reciprocal of that number.
->
-> **Definition 2.3.4** (Scientific Notation) <br>Expressing a number greater than $10$ in the form $a\times 10^{n}$ ($1\le a<10$, where $n$ is a positive integer).
+> 
+> **Definition 2.3.4** (Scientific Notation) <br>Expressing a number greater than $10$ in the form $a\times 10^{n}$ ($1\le a< 10$, where $n$ is a positive integer).
 
 ### Activity 1
 

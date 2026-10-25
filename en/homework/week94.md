@@ -1,12 +1,12 @@
 # Assignment 94
 
 > **Definition 19.1.1** (Quadratic Radical) <br> An expression of the form \(\sqrt{a}\) (\(a\ge 0\)) is called a quadratic radical.
->
+> 
 > **Property 19.1.1** (Nonnegativity of the Quadratic Radical) <br> When \(a\ge 0\), \(\sqrt{a}\ge 0\).
->
+> 
 > **Property 19.1.2** (Squaring and Taking the Square Root Are Inverse I) <br> \((\sqrt{a})^{2}=a\) (\(a\ge 0\)).
->
-> **Property 19.1.3** (Squaring and Taking the Square Root Are Inverse II) <br> \(\sqrt{a^{2}}=|a|\); when \(a\ge 0\), \(\sqrt{a^{2}}=a\), and when \(a<0\), \(\sqrt{a^{2}}=-a\).
+> 
+> **Property 19.1.3** (Squaring and Taking the Square Root Are Inverse II) <br> \(\sqrt{a^{2}}=|a|\); when \(a\ge 0\), \(\sqrt{a^{2}}=a\), and when \(a< 0\), \(\sqrt{a^{2}}=-a\).
 
 ### Exercise 1
 
@@ -14,7 +14,7 @@
 
 To draw a rectangle with area \(18\ \text{cm}^{2}\) such that the ratio of its length to its width is \(3:2\), what should its length and width be?
 
-Let the length of the rectangle be \(3k\) and the width be \(2k\) (\(k>0\)).
+Let the length of the rectangle be \(3k\) and the width be \(2k\) (\(k> 0\)).
 
 By **Definition 19.1.1**, the area of a rectangle is length times width, so
 
@@ -40,7 +40,7 @@ By **Definition 19.1.1**, a quadratic radical is meaningful if and only if the r
 
 (2) Setting \(5-a\ge 0\), we get \(a\le 5\).
 
-(3) For any real number \(a\), \(a^{2}\ge 0\), hence \(2a^{2}+1\ge 1>0\), so \(a\) may be any real number.
+(3) For any real number \(a\), \(a^{2}\ge 0\), hence \(2a^{2}+1\ge 1> 0\), so \(a\) may be any real number.
 
 \(\blacksquare\)
 
@@ -154,7 +154,7 @@ Express using algebraic expressions:
 
 By **Property 19.1.3**, the positive number \(r=\sqrt{\frac{S}{\pi}}\).
 
-(2) Let the two adjacent side lengths be \(k\) and \(2k\) (\(k>0\)). From the rectangle area \(S=k\cdot 2k=2k^{2}\), we get \(k^{2}=\frac{S}{2}\).
+(2) Let the two adjacent side lengths be \(k\) and \(2k\) (\(k> 0\)). From the rectangle area \(S=k\cdot 2k=2k^{2}\), we get \(k^{2}=\frac{S}{2}\).
 
 By **Property 19.1.3**, \(k=\sqrt{\frac{S}{2}}\), so the two adjacent side lengths are \(\sqrt{\frac{S}{2}}\) and \(2\sqrt{\frac{S}{2}}\).
 
@@ -220,13 +220,13 @@ Under what conditions on \(x\) are the following expressions meaningful within t
 
 By **Definition 19.1.1**, the radicand of a quadratic radical must be nonnegative; the denominator must also be nonzero.
 
-(1) Since \(x^{2}\ge 0\), \(x^{2}+1>0\) always holds, and \(x\) may be any real number.
+(1) Since \(x^{2}\ge 0\), \(x^{2}+1> 0\) always holds, and \(x\) may be any real number.
 
 (2) Since \((x-1)^{2}\ge 0\) always holds, \(x\) may be any real number.
 
-(3) We require \(\frac{1}{x}\ge 0\) and \(x\ne 0\), hence \(x>0\).
+(3) We require \(\frac{1}{x}\ge 0\) and \(x\ne 0\), hence \(x> 0\).
 
-(4) We require \(x+1>0\) (both the radicand nonnegative and the denominator nonzero), hence \(x>-1\).
+(4) We require \(x+1> 0\) (both the radicand nonnegative and the denominator nonzero), hence \(x> -1\).
 
 \(\blacksquare\)
 

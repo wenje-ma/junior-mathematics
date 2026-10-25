@@ -1,13 +1,13 @@
 # Assignment 95
 
 > **Rule 19.2.1** (Multiplication) <br> \(\sqrt{a}\cdot\sqrt{b}=\sqrt{ab}\) (\(a\ge 0,\ b\ge 0\)).
->
+> 
 > **Rule 19.2.2** (Multiplication in Reverse) <br> \(\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}\) (\(a\ge 0,\ b\ge 0\)).
->
-> **Rule 19.2.3** (Division) <br> \(\frac{\sqrt{a}}{\sqrt{b}}=\sqrt{\frac{a}{b}}\) (\(a\ge 0,\ b>0\)).
->
-> **Rule 19.2.4** (Division in Reverse) <br> \(\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}\) (\(a\ge 0,\ b>0\)).
->
+> 
+> **Rule 19.2.3** (Division) <br> \(\frac{\sqrt{a}}{\sqrt{b}}=\sqrt{\frac{a}{b}}\) (\(a\ge 0,\ b> 0\)).
+> 
+> **Rule 19.2.4** (Division in Reverse) <br> \(\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}\) (\(a\ge 0,\ b> 0\)).
+> 
 > **Definition 19.2.1** (Simplest Quadratic Radical) <br> A quadratic radical whose radicand contains no denominator and contains no factor or expression that can be taken out of the radical is called a simplest quadratic radical.
 
 ### Exercise 1

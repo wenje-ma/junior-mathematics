@@ -1,21 +1,21 @@
 # Assignment 31
 
 > **Definition 7.2.1** (Parallel) <br>In the same plane, two lines that do not intersect are called parallel lines, denoted $a\parallel b$. In the same plane, two distinct lines have only two possible positional relationships: intersecting and parallel.
->
+> 
 > **Basic Fact 7.2.1** (Parallel Axiom) <br>Through a point outside a given line there is exactly one line parallel to the given line.
->
+> 
 > **Theorem 7.2.1** (Transitivity of Parallelism) <br>If two lines are both parallel to a third line, then these two lines are also parallel to each other. That is, if $b\parallel a$, $c\parallel a$, then $b\parallel c$.
->
+> 
 > **Basic Fact 7.2.2** (Criterion 1) <br>If two lines are cut by a third line and the corresponding angles are equal, then the two lines are parallel. In short: equal corresponding angles imply parallel lines.
->
+> 
 > **Theorem 7.2.2** (Criterion 2) <br>If two lines are cut by a third line and the alternate interior angles are equal, then the two lines are parallel. In short: equal alternate interior angles imply parallel lines.
->
+> 
 > **Theorem 7.2.3** (Criterion 3) <br>If two lines are cut by a third line and the consecutive interior angles are supplementary, then the two lines are parallel. In short: supplementary consecutive interior angles imply parallel lines.
->
+> 
 > **Property 7.2.1** (Property 1) <br>When two parallel lines are cut by a third line, the corresponding angles are equal. In short: parallel lines give equal corresponding angles.
->
+> 
 > **Property 7.2.2** (Property 2) <br>When two parallel lines are cut by a third line, the alternate interior angles are equal. In short: parallel lines give equal alternate interior angles.
->
+> 
 > **Property 7.2.3** (Property 3) <br>When two parallel lines are cut by a third line, the consecutive interior angles are supplementary. In short: parallel lines give supplementary consecutive interior angles.
 
 ### Exercise 1

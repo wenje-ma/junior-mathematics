@@ -1,10 +1,10 @@
 # Assignment 127
 
-> **Conclusion 25.2.1** (Direct Square Root Extraction) <br>For the equation $x^2=p$: (1) when $p>0$, the equation has two unequal real roots $x=\pm\sqrt p$; (2) when $p=0$, the equation has two equal real roots $x_1=x_2=0$; (3) when $p<0$, since $x^2\ge0$ for every real number $x$, the equation has no real root.
->
+> **Conclusion 25.2.1** (Direct Square Root Extraction) <br>For the equation $x^2=p$: (1) when $p> 0$, the equation has two unequal real roots $x=\pm\sqrt p$; (2) when $p=0$, the equation has two equal real roots $x_1=x_2=0$; (3) when $p< 0$, since $x^2\ge0$ for every real number $x$, the equation has no real root.
+> 
 > **Definition 25.2.1** (Method of Completing the Square) <br>The method of solving a quadratic equation by fitting it into a perfect-square form is called completing the square. Completing the square is based on $a^2\pm2ab+b^2=\left(a\pm b\right)^2$, i.e. adding to both sides the square of half the linear coefficient.
->
-> **Conclusion 25.2.2** (Reducing the Degree After Completing the Square) <br>After completing the square, a quadratic equation can be put in the form $\left(x+n\right)^2=p$: (1) when $p>0$, $x=-n\pm\sqrt p$; (2) when $p=0$, $x_1=x_2=-n$; (3) when $p<0$, since $\left(x+n\right)^2\ge0$, the equation has no real root.
+> 
+> **Conclusion 25.2.2** (Reducing the Degree After Completing the Square) <br>After completing the square, a quadratic equation can be put in the form $\left(x+n\right)^2=p$: (1) when $p> 0$, $x=-n\pm\sqrt p$; (2) when $p=0$, $x_1=x_2=-n$; (3) when $p< 0$, since $\left(x+n\right)^2\ge0$, the equation has no real root.
 
 ### Exercise 1
 
@@ -114,7 +114,7 @@ $$
 
 Hence $x-\frac34=\pm\frac{\sqrt{21}}4$, i.e. $x=\frac{3\pm\sqrt{21}}4$.
 
-(5) Transposing terms and combining like terms gives $x^2+2x=-2$; completing the square gives $\left(x+1\right)^2=-1$. By **Conclusion 25.2.2**, the right side $-1<0$, whereas $\left(x+1\right)^2\ge0$, so the original equation has no real root.
+(5) Transposing terms and combining like terms gives $x^2+2x=-2$; completing the square gives $\left(x+1\right)^2=-1$. By **Conclusion 25.2.2**, the right side $-1< 0$, whereas $\left(x+1\right)^2\ge0$, so the original equation has no real root.
 
 (6) Removing parentheses and transposing terms gives $x^2-4x=4$; completing the square,
 

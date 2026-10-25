@@ -1,17 +1,17 @@
 # Assignment 6
 
 > **Definition 2.2.1** (Rules for Multiplication of Rational Numbers) <br>When two numbers are multiplied, like signs give positive and opposite signs give negative, and the absolute value of the product equals the product of the absolute values of the factors. Multiplying any number by $0$ gives $0$.
->
+> 
 > **Definition 2.2.2** (Reciprocal) <br>Two numbers whose product is $1$ are reciprocals of each other.
->
+> 
 > **Definition 2.2.3** (Commutative Law of Multiplication) <br>When two numbers are multiplied, swapping the positions of the factors does not change the product, that is, $ab=ba$.
->
+> 
 > **Definition 2.2.4** (Associative Law of Multiplication) <br>When three numbers are multiplied, multiplying the first two first, or multiplying the last two first, does not change the product, that is, $\left(ab\right)c=a\left(bc\right)$.
->
+> 
 > **Definition 2.2.5** (Distributive Law) <br>Multiplying a number by the sum of two numbers is equivalent to multiplying that number separately by the two numbers and then adding the products, that is, $a\left(b+c\right)=ab+ac$.
->
+> 
 > **Definition 2.2.6** (Sign Rules for Multiplying Several Rational Numbers) <br>When several numbers not equal to $0$ are multiplied, the product is positive when the number of negative factors is even and negative when the number of negative factors is odd. When several numbers are multiplied and one of the factors is $0$, the product is $0$.
->
+> 
 > **Definition 2.2.7** (Rules for Division of Rational Numbers) <br>Dividing by a number not equal to $0$ is equivalent to multiplying by the reciprocal of that number, that is, $a\div b=a\cdot\frac{1}{b}$ ($b\ne 0$). When two numbers are divided, like signs give positive and opposite signs give negative, and the absolute value of the quotient equals the quotient of the absolute value of the dividend divided by the absolute value of the divisor. Dividing $0$ by any number not equal to $0$ gives $0$.
 
 ### Exercise 1
@@ -374,7 +374,7 @@ By **Definition 2.2.1** (Rules for Multiplication of Rational Numbers).
 
 $$2\times 1=2,\quad 2\times\frac{1}{2}=1,\quad 2\times\left(-1\right)=-2,\quad 2\times\left(-\frac{1}{2}\right)=-1.$$
 
-A nonzero rational number is not necessarily less than its $2$ times. When the number is positive, it is less than its $2$ times; when the number is negative, for instance $-1<2$ does not hold, because $2\times\left(-1\right)=-2<-1$, that is, the $2$ times of a negative number is smaller than the number itself. $\blacksquare$
+A nonzero rational number is not necessarily less than its $2$ times. When the number is positive, it is less than its $2$ times; when the number is negative, for instance $-1< 2$ does not hold, because $2\times\left(-1\right)=-2< -1$, that is, the $2$ times of a negative number is smaller than the number itself. $\blacksquare$
 
 ### Problem 14
 

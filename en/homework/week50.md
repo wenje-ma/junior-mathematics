@@ -1,11 +1,11 @@
 # Assignment 50
 
 > **Definition 10.2.2** (Substitution Elimination) <br>Express one unknown of one equation in terms of an expression containing the other unknown, then substitute into the other equation to eliminate the unknown.
->
+> 
 > **Definition 10.2.3** (Addition-Subtraction Elimination) <br>When the coefficients of the same unknown in the two equations are opposite or equal, add or subtract both sides respectively to eliminate this unknown.
->
+> 
 > **Method 10.4.2** (Solving a System of Linear Equations in Three Variables) <br>First eliminate one unknown to reduce the three-variable system to a two-variable one, then to a one-variable equation.
->
+> 
 > **Method 10.3.1** (Solving Word Problems by Setting Up a System of Equations) <br>Set up the unknowns, find the equal relationships, set up the system, solve and check.
 
 ### Review Exercise 1
@@ -111,7 +111,7 @@ Substitute $x=450-y$: $0.6y-0.4\left(450-y\right)=30$, giving $y=210$, $x=240$. 
 
 Let $x$ be the markers and $y$ the gel pens; then $5x+3y=19$, with $x$, $y$ positive integers.
 
-From $y=\frac{19-5x}{3}>0$, we get $x<\frac{19}{5}$, so $x$ can take $1,2,3$. Only when $x=2$ is $y=3$ an integer. Thus there are $2$ markers and $3$ gel pens. $\blacksquare$
+From $y=\frac{19-5x}{3}> 0$, we get $x< \frac{19}{5}$, so $x$ can take $1,2,3$. Only when $x=2$ is $y=3$ an integer. Thus there are $2$ markers and $3$ gel pens. $\blacksquare$
 
 ### Review Exercise 7
 

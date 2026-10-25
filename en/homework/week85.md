@@ -46,6 +46,6 @@ First factor: $16p^4-q^4=\left(4p^2+q^2\right)\left(4p^2-q^2\right)=\left(4p^2+q
 
 (1) Substituting $p=10,q=5$: $4p^2+q^2=400+25=425$, $2p+q=25$, $2p-q=15$. The factor codes are $425,25,15$, arranged in increasing order as $15,25,425$, so the password is $1525425$.
 
-(2) Among the factors $2p-q$ and $2p+q$, we have $2p-q<2p+q$. The first two factor codes are $5,15$, i.e. $2p-q=5$, $2p+q=15$. Solving gives $p=5,q=5$. The third factor $4p^2+q^2=100+25=125$.
+(2) Among the factors $2p-q$ and $2p+q$, we have $2p-q< 2p+q$. The first two factor codes are $5,15$, i.e. $2p-q=5$, $2p+q=15$. Solving gives $p=5,q=5$. The third factor $4p^2+q^2=100+25=125$.
 
 (3) For example, take the polynomial $x^2-4=\left(x+2\right)\left(x-2\right)$; taking $x=10$ gives the factor codes $12,8$, and the password is $812$. $\blacksquare$

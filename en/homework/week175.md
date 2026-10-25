@@ -1,11 +1,11 @@
 # Assignment 175
 
 > **Definition 29.1.1** (Projection) <br>The shadow obtained by shining light on an object and projecting it onto a certain plane is called the projection of the object.
->
+> 
 > **Definition 29.1.4** (Orthogonal Projection) <br>The projection produced when the projection lines are perpendicular to the projection plane is called orthogonal projection.
->
+> 
 > **Definition 29.2.2** (Front View, Top View, Left View) <br>The front view is observed from front to back, the top view from top to bottom, and the left view from left to right.
->
+> 
 > **Conclusion 29.2.1** (Projection Rules for the Three Views) <br>Length aligned, height level, width equal. Visible outlines are drawn as solid lines, and invisible outlines as dashed lines.
 
 ### Review Problem 1

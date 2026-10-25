@@ -1,13 +1,13 @@
 # Assignment 24
 
 > **Definition 6.1.1** (Solid Figure) <br>A geometric figure whose parts do not all lie in the same plane is called a solid figure.
->
+> 
 > **Definition 6.1.2** (Plane Figure) <br>A geometric figure whose parts all lie in the same plane is called a plane figure.
->
+> 
 > **Definition 6.1.3** (Net) <br>Some solid figures are enclosed by several plane figures; if their surfaces are cut open appropriately, they can be unfolded into plane figures. Such a plane figure is called the net of the corresponding solid figure.
->
+> 
 > **Definition 6.1.4** (Points, Lines, Planes, and Solids) <br>A geometric solid is also called a solid for short. What encloses a solid is a surface; where two surfaces intersect forms a line; where two lines intersect is a point.
->
+> 
 > **Definition 6.1.5** (A Moving Point Forms a Line, a Moving Line Forms a Plane, a Moving Plane Forms a Solid) <br>A moving point forms a line, a moving line forms a plane, and a moving plane forms a solid.
 
 ### Exercise 1

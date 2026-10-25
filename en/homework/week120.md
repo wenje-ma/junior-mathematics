@@ -1,9 +1,9 @@
 # Assignment 120
 
 > **Definition 24.2.1** (Deviation) <br>For $n$ data $x_1, x_2, \ldots, x_n$, let $\bar{x}$ denote their mean; then $x_i-\bar{x}$ is called the deviation of $x_i$ from the mean $\bar{x}$.
->
+> 
 > **Definition 24.2.2** (Sum of Squared Deviations) <br>$\left(x_1-\bar{x}\right)^2+\left(x_2-\bar{x}\right)^2+\cdots+\left(x_n-\bar{x}\right)^2$ is called the sum of squared deviations of these $n$ data from the mean, denoted $d^2$.
->
+> 
 > **Definition 24.2.3** (Variance) <br>The average of the squared deviations, $s^2=\frac{\left(x_1-\bar{x}\right)^2+\left(x_2-\bar{x}\right)^2+\cdots+\left(x_n-\bar{x}\right)^2}{n}$, is called the variance of this set of data. The larger the variance, the greater the dispersion of the data; the smaller the variance, the smaller the dispersion.
 
 ### Exercise 1

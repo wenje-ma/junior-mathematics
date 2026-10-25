@@ -1,13 +1,13 @@
 # Assignment 1
 
 > **Definition 1.1.1** (Positive Number) <br>Numbers such as $3$, $50$, $7.8\%$ that are greater than $0$ are called positive numbers.
->
+> 
 > **Definition 1.1.2** (Negative Number) <br>Numbers such as $-3$, $-10$, $-0.7\%$ that are obtained by prefixing a positive number with the sign "$-$" are called negative numbers; here the sign "$-$" is the negative sign, read as "negative".
->
+> 
 > **Definition 1.1.3** (Sign) <br>The "$+$" and "$-$" signs preceding a number are called the sign of that number.
->
+> 
 > **Definition 1.1.4** (Status of $0$) <br>$0$ is neither a positive number nor a negative number.
->
+> 
 > **Definition 1.1.5** (Representing Quantities of Opposite Meaning) <br>If a problem involves quantities of opposite meaning, they can be represented by positive and negative numbers respectively. Usually the quantity in one direction is denoted by $+$, and the quantity in the opposite direction is denoted by $-$.
 
 ### Exercise 1
@@ -22,7 +22,7 @@ $$
 
 By **Definition 1.1.1** (Positive Number) and **Definition 1.1.2** (Negative Number), numbers greater than $0$ are positive numbers, and numbers obtained by prefixing a positive number with the sign "$-$" are negative numbers.
 
-Among the given numbers, $\frac{4}{3}>0$, $2.5>0$, $+\frac{1}{4}>0$, $120>0$, so $\frac{4}{3}$, $2.5$, $+\frac{1}{4}$, $120$ are positive numbers.
+Among the given numbers, $\frac{4}{3}> 0$, $2.5> 0$, $+\frac{1}{4}> 0$, $120> 0$, so $\frac{4}{3}$, $2.5$, $+\frac{1}{4}$, $120$ are positive numbers.
 
 Also, $-1$, $-3.14$, $-\frac{2}{7}$ all have the sign "$-$" prefixed to positive numbers, so $-1$, $-3.14$, $-\frac{2}{7}$ are negative numbers.
 
@@ -64,7 +64,7 @@ $$
 
 By **Definition 1.1.1** (Positive Number) and **Definition 1.1.2** (Negative Number), numbers greater than $0$ are positive numbers, and numbers obtained by prefixing a positive number with the sign "$-$" are negative numbers.
 
-Among the given numbers, $5>0$, $0.56>0$, $\frac{12}{5}>0$, $+2>0$, so $5$, $0.56$, $\frac{12}{5}$, $+2$ are positive numbers.
+Among the given numbers, $5> 0$, $0.56> 0$, $\frac{12}{5}> 0$, $+2> 0$, so $5$, $0.56$, $\frac{12}{5}$, $+2$ are positive numbers.
 
 Also, $-\frac{5}{7}$, $-3$, $-25.8$, $-0.0001$, $-600$ all have the sign "$-$" prefixed to positive numbers, so they are negative numbers.
 

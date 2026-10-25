@@ -1,11 +1,11 @@
 # Assignment 45
 
 > **Definition 10.1.1** (Linear Equation in Two Variables) <br>An equation that contains two unknowns, the expressions containing the unknowns are all integral expressions, and the degree of each term containing an unknown is $1$.
->
+> 
 > **Definition 10.1.2** (System of Linear Equations in Two Variables) <br>A system that contains two unknowns, the expressions containing the unknowns are all integral expressions, the degree of each term containing an unknown is $1$, and there are two equations in total.
->
+> 
 > **Definition 10.1.3** (Solution of a Linear Equation in Two Variables) <br>The values of the two unknowns that make the two sides of the linear equation in two variables equal.
->
+> 
 > **Definition 10.1.4** (Solution of a System of Linear Equations in Two Variables) <br>The common solution of the two equations in the system of linear equations in two variables.
 
 ### Exercise 1
@@ -142,6 +142,6 @@ $$
 2x+y=7.
 $$
 
-By the problem, $x$, $y$ are both positive integers. From $y=7-2x>0$, we get $x<3.5$, so $x$ can take $1,2,3$.
+By the problem, $x$, $y$ are both positive integers. From $y=7-2x> 0$, we get $x< 3.5$, so $x$ can take $1,2,3$.
 
 When $x=1$, $y=5$; when $x=2$, $y=3$; when $x=3$, $y=1$. There are $3$ different cutting plans in total. $\blacksquare$

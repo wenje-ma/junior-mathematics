@@ -1,7 +1,7 @@
 # Assignment 174
 
 > **Definition 29.2.2** (Front View, Top View, Left View) <br>The view obtained in the front plane by observing from front to back is called the front view; the view obtained in the horizontal plane by observing from top to bottom is called the top view; the view obtained in the side plane by observing from left to right is called the left view.
->
+> 
 > **Conclusion 29.2.1** (Projection Rules for the Three Views) <br>Length aligned, height level, width equal. Visible outlines are drawn as solid lines, and invisible outlines as dashed lines.
 
 ### Activity 1

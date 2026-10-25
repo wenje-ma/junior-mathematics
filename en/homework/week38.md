@@ -1,11 +1,11 @@
 # Assignment 38
 
 > **Definition 8.3.1** (Irrational Number) <br>A non-terminating non-repeating decimal is also called an irrational number. Irrational numbers are divided into positive and negative.
->
+> 
 > **Definition 8.3.2** (Real Number) <br>Rational numbers and irrational numbers are collectively called real numbers. Real numbers are divided into positive real numbers, $0$, and negative real numbers.
->
+> 
 > **Property 8.3.1** (Real Numbers and the Number Line) <br>There is a one-to-one correspondence between real numbers and points on the number line. The real number represented by a point to the right on the number line is always larger than that represented by a point to the left.
->
+> 
 > **Property 8.3.2** (Opposite Numbers and Absolute Value) <br>The opposite number of a real number $a$ is $-a$. The absolute value of a positive real number is itself, the absolute value of a negative real number is its opposite number, and the absolute value of $0$ is $0$. The operation rules and properties of rational numbers also apply to real numbers.
 
 ### Exercise 1
@@ -50,7 +50,7 @@ Cube roots: $\sqrt\left[3\right] 0=0$, $\sqrt\left[3\right] 1=1$, $\sqrt\left[3\
 
 ### Exercise 3
 
-(Exercise 8.3, Problem 3) Represent the following real numbers on the number line and compare their sizes (connected by "$<$"): $-2$, $\sqrt 2$, $\frac{3}{2}$, $-\pi$.
+(Exercise 8.3, Problem 3) Represent the following real numbers on the number line and compare their sizes (connected by "$< $"): $-2$, $\sqrt 2$, $\frac{3}{2}$, $-\pi$.
 
 The figure shows a number line with origin and positive direction marked; from left to right, four points are marked: $-\pi$ (about $-3.14$), $-2$, $\sqrt 2$ (about $1.414$), and $\frac{3}{2}=1.5$.
 
@@ -63,7 +63,7 @@ Estimate the sizes: $-\pi\approx-3.14$, $-2$, $\sqrt 2\approx 1.414$, $\frac{3}{
 Thus
 
 $$
--\pi<-2<\sqrt 2<\frac{3}{2}.
+-\pi< -2< \sqrt 2< \frac{3}{2}.
 $$
 
 $\blacksquare$
@@ -82,9 +82,9 @@ $-\sqrt 7$: opposite number $\sqrt 7$, absolute value $\sqrt 7$.
 
 $-\frac{\pi}{2}$: opposite number $\frac{\pi}{2}$, absolute value $\frac{\pi}{2}$.
 
-$1.4-\sqrt 2\approx 1.4-1.414<0$: opposite number $\sqrt 2-1.4$, absolute value $\sqrt 2-1.4$.
+$1.4-\sqrt 2\approx 1.4-1.414< 0$: opposite number $\sqrt 2-1.4$, absolute value $\sqrt 2-1.4$.
 
-$\frac{\sqrt 5-1}{2}\approx\frac{2.236-1}{2}>0$: opposite number $\frac{1-\sqrt 5}{2}$, absolute value $\frac{\sqrt 5-1}{2}$.
+$\frac{\sqrt 5-1}{2}\approx\frac{2.236-1}{2}> 0$: opposite number $\frac{1-\sqrt 5}{2}$, absolute value $\frac{\sqrt 5-1}{2}$.
 
 $0$: opposite number $0$, absolute value $0$. $\blacksquare$
 
@@ -100,7 +100,7 @@ By **Property 8.3.2**, the operation rules for rational numbers apply to real nu
 
 (1) By the distributive law, $2\sqrt 5-3\sqrt 5=\left(2-3\right)\sqrt 5=-\sqrt 5$.
 
-(2) $\because\sqrt\left[3\right]{3}\approx 1.442>1$, $\therefore 1-\sqrt\left[3\right]{3}<0$, so $\left|1-\sqrt\left[3\right]{3}\right|=\sqrt\left[3\right]{3}-1$. Hence
+(2) $\because\sqrt\left[3\right]{3}\approx 1.442> 1$, $\therefore 1-\sqrt\left[3\right]{3}< 0$, so $\left|1-\sqrt\left[3\right]{3}\right|=\sqrt\left[3\right]{3}-1$. Hence
 
 $$
 3\sqrt 3-\left|1-\sqrt\left[3\right]{3}\right|=3\sqrt 3-\left(\sqrt\left[3\right]{3}-1\right)=3\sqrt 3-\sqrt\left[3\right]{3}+1.
@@ -138,7 +138,7 @@ Thus the rational numbers are $3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $\s
 
 ### Problem 2
 
-(Exercise 8.3, Review and Consolidation, Problem 2) Represent the following real numbers on the number line and compare their sizes (connected by "$<$"): $-\frac{1}{3}$, $-1.5$, $\sqrt{2^2}$, $\left|-3\right|$.
+(Exercise 8.3, Review and Consolidation, Problem 2) Represent the following real numbers on the number line and compare their sizes (connected by "$< $"): $-\frac{1}{3}$, $-1.5$, $\sqrt{2^2}$, $\left|-3\right|$.
 
 ### Solution to Problem 2
 
@@ -147,7 +147,7 @@ Simplify: $\sqrt{2^2}=2$, $\left|-3\right|=3$. The numbers are $-\frac{1}{3}\app
 By **Property 8.3.1** (Real Numbers and the Number Line), values increase from left to right on the number line, so
 
 $$
--1.5<-\frac{1}{3}<\sqrt{2^2}<\left|-3\right|.
+-1.5< -\frac{1}{3}< \sqrt{2^2}< \left|-3\right|.
 $$
 
 $\blacksquare$
@@ -162,13 +162,13 @@ By **Property 8.3.2** (Absolute Value), a positive number's absolute value is it
 
 $\sqrt\left[3\right]{-8}=-2$, whose absolute value is $2$.
 
-$\sqrt{17}>0$, whose absolute value is $\sqrt{17}$.
+$\sqrt{17}> 0$, whose absolute value is $\sqrt{17}$.
 
-$-\sqrt{\frac{2}{3}}<0$, whose absolute value is $\sqrt{\frac{2}{3}}$.
+$-\sqrt{\frac{2}{3}}< 0$, whose absolute value is $\sqrt{\frac{2}{3}}$.
 
-$\sqrt\left[3\right]{3}\approx 1.442<2$, so $\sqrt\left[3\right]{3}-2<0$, whose absolute value is $2-\sqrt\left[3\right]{3}$.
+$\sqrt\left[3\right]{3}\approx 1.442< 2$, so $\sqrt\left[3\right]{3}-2< 0$, whose absolute value is $2-\sqrt\left[3\right]{3}$.
 
-$\sqrt\left[3\right]{2}\approx 1.26>1$, so $1-\sqrt\left[3\right]{2}<0$, whose absolute value is $\sqrt\left[3\right]{2}-1$. $\blacksquare$
+$\sqrt\left[3\right]{2}\approx 1.26> 1$, so $1-\sqrt\left[3\right]{2}< 0$, whose absolute value is $\sqrt\left[3\right]{2}-1$. $\blacksquare$
 
 ### Problem 4
 
@@ -194,7 +194,7 @@ Compute with approximate values, then round.
 
 By **Property 8.3.2** and the operations of squaring and cubing.
 
-(1) $\because 2\sqrt 6\approx 4.899>\sqrt 7\approx 2.646$, $\therefore 2\sqrt 6-\sqrt 7>0$, so $\left|2\sqrt 6-\sqrt 7\right|=2\sqrt 6-\sqrt 7$. Hence
+(1) $\because 2\sqrt 6\approx 4.899> \sqrt 7\approx 2.646$, $\therefore 2\sqrt 6-\sqrt 7> 0$, so $\left|2\sqrt 6-\sqrt 7\right|=2\sqrt 6-\sqrt 7$. Hence
 
 $$
 2\left(\sqrt 6-\sqrt 7\right)-\left(2\sqrt 6-\sqrt 7\right)=2\sqrt 6-2\sqrt 7-2\sqrt 6+\sqrt 7=-\sqrt 7.
@@ -242,11 +242,11 @@ By **Property 8.3.1** (Real Numbers and the Number Line), real numbers can take 
 
 Estimate the range of each irrational number.
 
-(1) $\because 6^2=36<37<49=7^2$, $\therefore 6<\sqrt{37}<7$, so the positive integers less than $\sqrt{37}$ are $1$, $2$, $3$, $4$, $5$, $6$.
+(1) $\because 6^2=36< 37< 49=7^2$, $\therefore 6< \sqrt{37}< 7$, so the positive integers less than $\sqrt{37}$ are $1$, $2$, $3$, $4$, $5$, $6$.
 
-(2) $\because 3^2=9<10<16=4^2$, $\therefore 3<\sqrt{10}<4$, so $-4<-\sqrt{10}<-3$. The integers greater than $-\sqrt{10}$ and less than $\sqrt{10}$ are $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
+(2) $\because 3^2=9< 10< 16=4^2$, $\therefore 3< \sqrt{10}< 4$, so $-4< -\sqrt{10}< -3$. The integers greater than $-\sqrt{10}$ and less than $\sqrt{10}$ are $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
 
-(3) $\because 2^2=4<6<9=3^2$, $\therefore 2<\sqrt 6<3$, so the integers whose absolute value is less than $\sqrt 6$ are $-2$, $-1$, $0$, $1$, $2$. $\blacksquare$
+(3) $\because 2^2=4< 6< 9=3^2$, $\therefore 2< \sqrt 6< 3$, so the integers whose absolute value is less than $\sqrt 6$ are $-2$, $-1$, $0$, $1$, $2$. $\blacksquare$
 
 ### Problem 8
 

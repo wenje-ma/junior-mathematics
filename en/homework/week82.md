@@ -6,7 +6,7 @@
 
 > **Definition 16.1.3** (Power of a Product) <br>$\left(ab\right)^n=a^n b^n$ ($n$ is a positive integer).
 
-> **Definition 16.2.4** (Division of Powers with the Same Base) <br>$a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ are positive integers, $m>n$).
+> **Definition 16.2.4** (Division of Powers with the Same Base) <br>$a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ are positive integers, $m> n$).
 
 > **Definition 16.3.1** (Difference of Squares Formula) <br>$\left(a+b\right)\left(a-b\right)=a^2-b^2$.
 
@@ -218,6 +218,6 @@ Let the original price be $1$; the final price under each scheme:
 
 Compare the difference between $P_3$ and $P_1$:
 
-$$P_3-P_1=\left[\frac{\left(p+q\right)^2}{4}-pq\right]\%^2=\frac{\left(p-q\right)^2}{4}\%^2>0.$$
+$$P_3-P_1=\left[\frac{\left(p+q\right)^2}{4}-pq\right]\%^2=\frac{\left(p-q\right)^2}{4}\%^2> 0.$$
 
-Since $p\ne q$, we have $P_3>P_1=P_2$, so scheme (3) gives the largest price increase. $\blacksquare$
+Since $p\ne q$, we have $P_3> P_1=P_2$, so scheme (3) gives the largest price increase. $\blacksquare$

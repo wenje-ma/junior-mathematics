@@ -1,19 +1,19 @@
 # Assignment 30
 
 > **Definition 7.1.1** (Adjacent Supplementary Angles) <br>Among the four angles formed by two intersecting lines, two angles that share one common side and whose other sides are opposite extensions of each other are adjacent supplementary angles. Adjacent supplementary angles are supplementary, i.e. their sum is $180^\circ$.
->
+> 
 > **Definition 7.1.2** (Vertical Angles) <br>Among the four angles formed by two intersecting lines, two angles that share a common vertex and whose sides are respectively the opposite extensions of each other's sides are vertical angles.
->
+> 
 > **Theorem 7.1.1** (Vertical Angles Are Equal) <br>Vertical angles are equal.
->
+> 
 > **Definition 7.1.3** (Perpendicular) <br>When one of the four angles formed by two intersecting lines is a right angle, the two lines are said to be perpendicular to each other, written $a\perp b$. One of the lines is called the perpendicular line of the other, and the intersection is called the foot of the perpendicular.
->
+> 
 > **Basic Fact 7.1.1** (Perpendicular Lines) <br>In the same plane, through a given point there is exactly one line perpendicular to a given line.
->
+> 
 > **Theorem 7.1.2** (The Perpendicular Segment Is the Shortest) <br>Among all segments joining a point outside a line to points on the line, the perpendicular segment is the shortest. Stated briefly: the perpendicular segment is the shortest.
->
+> 
 > **Definition 7.1.4** (Distance from a Point to a Line) <br>The length of the perpendicular segment from a point outside a line to the line is called the distance from the point to the line.
->
+> 
 > **Definition 7.1.5** (Corresponding Angles, Alternate Interior Angles, Consecutive Interior Angles) <br>When two lines are cut by a third line: a pair of angles on the same side of the two lines and on the same side of the transversal are called corresponding angles; a pair of angles between the two lines and on opposite sides of the transversal are called alternate interior angles; a pair of angles between the two lines and on the same side of the transversal are called consecutive interior angles.
 
 ### Exercise 1
@@ -98,7 +98,7 @@ By **Definition 7.1.4** (Distance from a Point to a Line), the distance from a p
 
 (1) In triangle $ABC$, $\angle C=90^\circ$, i.e. $AC\perp BC$. The perpendicular segment from point $A$ to line $CB$ is $AC$, so the distance from $A$ to line $CB$ is the length of segment $AC$; the perpendicular segment from point $B$ to line $AC$ is $BC$, so the distance from $B$ to line $AC$ is the length of segment $BC$.
 
-(2) By **Theorem 7.1.2** (The Perpendicular Segment Is the Shortest), among the segments joining an outside point to points on a line the perpendicular segment is the shortest. For point $A$, $AC$ is the perpendicular segment from $A$ to line $BC$, while $AB$ is an oblique segment, so $AB>AC$; for point $B$, $BC$ is the perpendicular segment from $B$ to line $AC$, while $AB$ is an oblique segment, so $AB>BC$. Therefore $AB$ is the longest of the three sides. $\blacksquare$
+(2) By **Theorem 7.1.2** (The Perpendicular Segment Is the Shortest), among the segments joining an outside point to points on a line the perpendicular segment is the shortest. For point $A$, $AC$ is the perpendicular segment from $A$ to line $BC$, while $AB$ is an oblique segment, so $AB> AC$; for point $B$, $BC$ is the perpendicular segment from $B$ to line $AC$, while $AB$ is an oblique segment, so $AB> BC$. Therefore $AB$ is the longest of the three sides. $\blacksquare$
 
 ### Exercise 7
 

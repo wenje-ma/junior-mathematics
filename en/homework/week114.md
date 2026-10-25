@@ -1,14 +1,14 @@
 # Assignment 114
 
 > **Conclusion 23.3.1** (Linear Functions and Linear Equations in One Variable) <br>The solution of the linear equation in one variable $kx+b=0$ is precisely the x-coordinate of the intersection of the graph of the linear function $y=kx+b$ with the $x$-axis.
->
-> **Conclusion 23.3.2** (Linear Functions and Linear Inequalities in One Variable) <br>The solution set of the inequality $kx+b>0$ is the range of values of the independent variable $x$ for which the value of the linear function $y=kx+b$ is greater than $0$; on the graph it corresponds to the part of the line $y=kx+b$ lying above the $x$-axis.
->
+> 
+> **Conclusion 23.3.2** (Linear Functions and Linear Inequalities in One Variable) <br>The solution set of the inequality $kx+b> 0$ is the range of values of the independent variable $x$ for which the value of the linear function $y=kx+b$ is greater than $0$; on the graph it corresponds to the part of the line $y=kx+b$ lying above the $x$-axis.
+> 
 > **Conclusion 23.3.3** (Linear Functions and Systems of Linear Equations in Two Variables) <br>The coordinates of the intersection of the graphs of two linear functions are precisely the solution of the corresponding system of linear equations in two variables.
 
 ### Exercise 1
 
-(Exercise 23.3, Problem 1) Draw the graph of the linear function $y=-2x+8$, and use the graph to solve the equation $-2x+8=0$ and the inequalities $-2x+8>0$ and $-2x+8<0$.
+(Exercise 23.3, Problem 1) Draw the graph of the linear function $y=-2x+8$, and use the graph to solve the equation $-2x+8=0$ and the inequalities $-2x+8> 0$ and $-2x+8< 0$.
 
 ### Solution to Exercise 1
 
@@ -16,7 +16,7 @@ The figure shows a plane rectangular coordinate system; a straight line of slope
 
 By **Conclusion 23.3.1** (Linear Functions and Linear Equations in One Variable), the x-coordinate of the intersection of the line $y=-2x+8$ with the $x$-axis is the solution of the equation $-2x+8=0$. Setting $y=0$ gives $x=4$.
 
-By **Conclusion 23.3.2** (Linear Functions and Linear Inequalities in One Variable), when the line lies above the $x$-axis we have $y>0$, corresponding to $x<4$; when the line lies below the $x$-axis we have $y<0$, corresponding to $x>4$. $\blacksquare$
+By **Conclusion 23.3.2** (Linear Functions and Linear Inequalities in One Variable), when the line lies above the $x$-axis we have $y> 0$, corresponding to $x< 4$; when the line lies below the $x$-axis we have $y< 0$, corresponding to $x> 4$. $\blacksquare$
 
 ### Exercise 2
 
@@ -52,13 +52,13 @@ Setting $y=0$, we have $\frac{3}{2}x-6=0$, so $x=4$. $\blacksquare$
 
 ### Problem 2
 
-(Exercise 23.3, Review and Consolidation, Problem 2) Use the graphs of the functions to solve the inequalities $5x-10>0$ and $-2x-4<0$.
+(Exercise 23.3, Review and Consolidation, Problem 2) Use the graphs of the functions to solve the inequalities $5x-10> 0$ and $-2x-4< 0$.
 
 ### Solution to Problem 2
 
-By **Conclusion 23.3.2** (Linear Functions and Linear Inequalities in One Variable), $5x-10>0$ means the value of $y=5x-10$ is greater than $0$, giving $x>2$.
+By **Conclusion 23.3.2** (Linear Functions and Linear Inequalities in One Variable), $5x-10> 0$ means the value of $y=5x-10$ is greater than $0$, giving $x> 2$.
 
-$-2x-4<0$ means the value of $y=-2x-4$ is less than $0$, giving $x>-2$. $\blacksquare$
+$-2x-4< 0$ means the value of $y=-2x-4$ is less than $0$, giving $x> -2$. $\blacksquare$
 
 ### Problem 3
 
@@ -96,4 +96,4 @@ The figure shows two straight lines in one plane rectangular coordinate system: 
 
 Setting $y_1=y_2$, i.e. $-\frac{1}{2}x+2=3x+9$, gives $x=-2$.
 
-When $x<-2$, $y_1>y_2$; when $x=-2$, $y_1=y_2$; when $x>-2$, $y_1<y_2$. $\blacksquare$
+When $x< -2$, $y_1> y_2$; when $x=-2$, $y_1=y_2$; when $x> -2$, $y_1< y_2$. $\blacksquare$

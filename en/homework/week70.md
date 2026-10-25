@@ -1,7 +1,7 @@
 # Assignment 70
 
 > **Definition 14.1.1** (Congruent Figures and Congruent Triangles) <br>Two figures that can coincide completely are called congruent figures; two triangles that can coincide completely are called congruent triangles, denoted $\triangle ABC\cong\triangle A'B'C'$.
->
+> 
 > **Conclusion 14.1.1** (Properties of Congruent Triangles) <br>Corresponding sides of congruent triangles are equal, and corresponding angles are equal. Figures before and after translation, reflection and rotation are congruent.
 
 ### Activity 1

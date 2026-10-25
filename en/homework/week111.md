@@ -1,11 +1,11 @@
 # Assignment 111
 
 > **Definition 22.1.1** (Constants and Variables) <br>In a process of change, a quantity whose value remains constant is a constant, and a quantity whose value changes is a variable.
->
+> 
 > **Definition 22.1.2** (Function) <br>Generally, in a process of change, if there are two variables $x$ and $y$, and for each definite value of $x$, $y$ has a unique definite value corresponding to it, then we say $x$ is the independent variable and $y$ is a function of $x$.
->
+> 
 > **Definition 22.2.1** (Graph of a Function) <br>Generally, for a function, if each pair of corresponding values of the independent variable and the function is taken as the x- and y-coordinates of a point, then the figure formed by these points in the coordinate plane is the graph of the function.
->
+> 
 > **Conclusion 22.2.2** (Steps for Plotting a Graph by the Point-Plotting Method) <br>Step 1, make a table; Step 2, plot points; Step 3, join the points.
 
 ### Review Problem 1
@@ -86,7 +86,7 @@ $$
 
 By the triangle inequality (the sum of two sides greater than the third), $2x > y = 20-2x$, giving $x > 5$. Also the side lengths are positive, $y=20-2x > 0$, giving $x < 10$. So the range of the independent variable $x$ is $5 < x < 10$.
 
-The figure shows a plane rectangular coordinate system with horizontal axis leg length $x$ and vertical axis base length $y$; a line segment joining the open endpoints $\left(5,10\right)$ and $\left(10,0\right)$ (endpoints excluded), namely the graph of $y=20-2x$ ($5<x<10$).
+The figure shows a plane rectangular coordinate system with horizontal axis leg length $x$ and vertical axis base length $y$; a line segment joining the open endpoints $\left(5,10\right)$ and $\left(10,0\right)$ (endpoints excluded), namely the graph of $y=20-2x$ ($5< x< 10$).
 
 $\blacksquare$
 

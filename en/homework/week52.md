@@ -1,24 +1,24 @@
 # Assignment 52
 
 > **Definition 11.2.1** (Linear Inequality in One Variable) <br>An inequality that contains only one unknown, all expressions containing the unknown are integral expressions, and the degree of the unknown is $1$.
->
+> 
 > **Method 11.2.2** (Solving a Linear Inequality in One Variable) <br>Clear denominators, remove parentheses, transpose terms, combine like terms, and make the coefficient $1$; when multiplying or dividing by a negative number, the direction of the inequality sign reverses.
->
-> **Property 11.1.1** (Property 1 of Inequalities) <br>$a>b\Rightarrow a\pm c>b\pm c$.
->
-> **Property 11.1.2** (Property 2 of Inequalities) <br>$a>b,\ c>0\Rightarrow ac>bc$.
->
-> **Property 11.1.3** (Property 3 of Inequalities) <br>$a>b,\ c<0\Rightarrow ac<bc$.
+> 
+> **Property 11.1.1** (Property 1 of Inequalities) <br>$a> b\Rightarrow a\pm c> b\pm c$.
+> 
+> **Property 11.1.2** (Property 2 of Inequalities) <br>$a> b,\ c> 0\Rightarrow ac> bc$.
+> 
+> **Property 11.1.3** (Property 3 of Inequalities) <br>$a> b,\ c< 0\Rightarrow ac< bc$.
 
 ### Exercise 1
 
 (Exercise 11.2, Problem 1) Solve the following inequalities and represent their solution sets on a number line:
 
-(1) $5x+15>4x-1$;
+(1) $5x+15> 4x-1$;
 
 (2) $2\left(x+5\right)\le3\left(x-5\right)$;
 
-(3) $\frac{x-1}{7}>\frac{2x+5}{3}$;
+(3) $\frac{x-1}{7}> \frac{2x+5}{3}$;
 
 (4) $\frac{x+1}{6}\ge\frac{2x-5}{4}+1$.
 
@@ -26,11 +26,11 @@
 
 By **Method 11.2.2** (Solving a Linear Inequality in One Variable).
 
-(1) Transpose terms: $x>-16$.
+(1) Transpose terms: $x> -16$.
 
 (2) $2x+10\le3x-15$, transpose terms: $x\ge25$.
 
-(3) Multiply by $21$: $3\left(x-1\right)>7\left(2x+5\right)$, i.e. $3x-3>14x+35$, giving $x<-\frac{38}{11}$.
+(3) Multiply by $21$: $3\left(x-1\right)> 7\left(2x+5\right)$, i.e. $3x-3> 14x+35$, giving $x< -\frac{38}{11}$.
 
 (4) Multiply by $12$: $2\left(x+1\right)\ge3\left(2x-5\right)+12$, i.e. $2x+2\ge6x-3$, giving $x\le\frac{5}{4}$. $\blacksquare$
 
@@ -44,7 +44,7 @@ By **Method 11.2.2** (Solving a Linear Inequality in One Variable).
 
 (3) $y-1\le2y-3$;
 
-(4) $\frac{3y+7}{4}<-2$.
+(4) $\frac{3y+7}{4}< -2$.
 
 ### Solution to Exercise 2
 
@@ -54,7 +54,7 @@ By **Method 11.2.2** (Solving a Linear Inequality in One Variable).
 
 (3) $y-1\le2y-3$, giving $y\ge2$.
 
-(4) $3y+7<-8$, giving $y<-5$. $\blacksquare$
+(4) $3y+7< -8$, giving $y< -5$. $\blacksquare$
 
 ### Exercise 3
 
@@ -65,10 +65,10 @@ By **Method 11.2.2** (Solving a Linear Inequality in One Variable).
 Let $x$ be the number of questions answered correctly; then $\left(20-x\right)$ are wrong or unanswered. By the statement
 
 $$
-10x-5\left(20-x\right)>90.
+10x-5\left(20-x\right)> 90.
 $$
 
-i.e. $10x-100+5x>90$, $15x>190$, $x>12\frac{2}{3}$. Hence at least $13$ questions must be answered correctly. $\blacksquare$
+i.e. $10x-100+5x> 90$, $15x> 190$, $x> 12\frac{2}{3}$. Hence at least $13$ questions must be answered correctly. $\blacksquare$
 
 ### Exercise 4
 
@@ -92,7 +92,7 @@ The remaining distance is $6-1.2=4.8\ \text{km}$, and the remaining time is $10-
 
 ### Solution to Exercise 6
 
-Let $x$ be the number sold. The total purchase cost is $340\times150=51000$ yuan. By the statement $450x>51000$, giving $x>113\frac{1}{3}$. Hence at least $114$ must be sold. $\blacksquare$
+Let $x$ be the number sold. The total purchase cost is $340\times150=51000$ yuan. By the statement $450x> 51000$, giving $x> 113\frac{1}{3}$. Hence at least $114$ must be sold. $\blacksquare$
 
 ### Exercise 7
 
@@ -126,29 +126,29 @@ i.e. $160x-4200\ge3240$, $160x\ge7440$, $x\ge46.5$. Hence the large cherries mus
 
 (Exercise 11.2, Review and Consolidation, Problem 1) Solve the following inequalities:
 
-(1) $3\left(2x+5\right)>2\left(4x+3\right)$;
+(1) $3\left(2x+5\right)> 2\left(4x+3\right)$;
 
 (2) $10-4\left(x-4\right)\le2\left(x-1\right)$;
 
-(3) $\frac{2x-4}{7}<\frac{x-5}{2}$;
+(3) $\frac{2x-4}{7}< \frac{x-5}{2}$;
 
 (4) $\frac{2x-1}{3}\le\frac{3x-4}{6}$;
 
-(5) $\frac{3y-1}{5}-2>\frac{y+1}{4}$;
+(5) $\frac{3y-1}{5}-2> \frac{y+1}{4}$;
 
 (6) $\frac{y+1}{6}-\frac{2y-5}{4}\ge1$.
 
 ### Solution to Problem 1
 
-(1) $6x+15>8x+6$, giving $x<\frac{9}{2}$.
+(1) $6x+15> 8x+6$, giving $x< \frac{9}{2}$.
 
 (2) $10-4x+16\le2x-2$, giving $x\ge\frac{14}{3}$.
 
-(3) Multiply by $14$: $4x-8<7x-35$, giving $x>9$.
+(3) Multiply by $14$: $4x-8< 7x-35$, giving $x> 9$.
 
 (4) Multiply by $6$: $4x-2\le3x-4$, giving $x\le-2$.
 
-(5) Multiply by $20$: $4\left(3y-1\right)-40>5\left(y+1\right)$, i.e. $12y-44>5y+5$, giving $y>7$.
+(5) Multiply by $20$: $4\left(3y-1\right)-40> 5\left(y+1\right)$, i.e. $12y-44> 5y+5$, giving $y> 7$.
 
 (6) Multiply by $12$: $2\left(y+1\right)-3\left(2y-5\right)\ge12$, i.e. $-4y+17\ge12$, giving $y\le\frac{5}{4}$. $\blacksquare$
 
@@ -164,9 +164,9 @@ i.e. $160x-4200\ge3240$, $160x\ge7440$, $x\ge46.5$. Hence the large cherries mus
 
 ### Solution to Problem 2
 
-(1) $\frac{4a+1}{6}>0$, i.e. $4a+1>0$, giving $a>-\frac{1}{4}$.
+(1) $\frac{4a+1}{6}> 0$, i.e. $4a+1> 0$, giving $a> -\frac{1}{4}$.
 
-(2) $\frac{4a+1}{6}<-2$, i.e. $4a+1<-12$, giving $a<-\frac{13}{4}$.
+(2) $\frac{4a+1}{6}< -2$, i.e. $4a+1< -12$, giving $a< -\frac{13}{4}$.
 
 (3) $\frac{4a+1}{6}=0$, i.e. $4a+1=0$, giving $a=-\frac{1}{4}$. $\blacksquare$
 
@@ -176,21 +176,21 @@ i.e. $160x-4200\ge3240$, $160x\ge7440$, $x\ge46.5$. Hence the large cherries mus
 
 (1) $-3x+2\ge-4$, solved as $x\ge2$;
 
-(2) $x-4<2x+1$, solved as $x<-5$.
+(2) $x-4< 2x+1$, solved as $x< -5$.
 
 ### Solution to Problem 3
 
 (1) Incorrect. From $-3x+2\ge-4$, transpose to get $-3x\ge-6$; dividing both sides by $-3$ reverses the direction, giving $x\le2$.
 
-(2) Incorrect. From $x-4<2x+1$, transpose to get $-x<5$; multiplying both sides by $-1$ reverses the direction, giving $x>-5$. $\blacksquare$
+(2) Incorrect. From $x-4< 2x+1$, transpose to get $-x< 5$; multiplying both sides by $-1$ reverses the direction, giving $x> -5$. $\blacksquare$
 
 ### Problem 4
 
 (Exercise 11.2, Review and Consolidation, Problem 4) Find the positive-integer solutions of the following inequalities:
 
-(1) $x+2<6$;
+(1) $x+2< 6$;
 
-(2) $2x+5<10$;
+(2) $2x+5< 10$;
 
 (3) $\frac{x-3}{2}\ge\frac{2x-5}{3}$;
 
@@ -198,9 +198,9 @@ i.e. $160x-4200\ge3240$, $160x\ge7440$, $x\ge46.5$. Hence the large cherries mus
 
 ### Solution to Problem 4
 
-(1) $x<4$; the positive-integer solutions are $1,2,3$.
+(1) $x< 4$; the positive-integer solutions are $1,2,3$.
 
-(2) $x<\frac{5}{2}$; the positive-integer solutions are $1,2$.
+(2) $x< \frac{5}{2}$; the positive-integer solutions are $1,2$.
 
 (3) Multiply by $6$: $3x-9\ge4x-10$, giving $x\le1$; the positive-integer solution is $1$.
 
@@ -212,7 +212,7 @@ i.e. $160x-4200\ge3240$, $160x\ge7440$, $x\ge46.5$. Hence the large cherries mus
 
 ### Solution to Problem 5
 
-Liu Wei needs $\frac{100}{6.5}\ \text{s}$ to reach the finish. Li Ming is $110\ \text{m}$ from the finish; let his speed be $v\ \text{m/s}$. He needs $\frac{110}{v}<\frac{100}{6.5}$, giving $v>\frac{110\times6.5}{100}=7.15$. Hence Li Ming's speed must be at least $7.15\ \text{m/s}$. $\blacksquare$
+Liu Wei needs $\frac{100}{6.5}\ \text{s}$ to reach the finish. Li Ming is $110\ \text{m}$ from the finish; let his speed be $v\ \text{m/s}$. He needs $\frac{110}{v}< \frac{100}{6.5}$, giving $v> \frac{110\times6.5}{100}=7.15$. Hence Li Ming's speed must be at least $7.15\ \text{m/s}$. $\blacksquare$
 
 ### Problem 6
 
@@ -223,10 +223,10 @@ Liu Wei needs $\frac{100}{6.5}\ \text{s}$ to reach the finish. Li Ming is $110\ 
 Let this batch contain $x$ computers in total. By the statement
 
 $$
-5500\times60+5000\left(x-60\right)>550000,
+5500\times60+5000\left(x-60\right)> 550000,
 $$
 
-i.e. $330000+5000x-300000>550000$, $5000x>520000$, giving $x>104$. Hence this batch contains at least $105$ computers. $\blacksquare$
+i.e. $330000+5000x-300000> 550000$, $5000x> 520000$, giving $x> 104$. Hence this batch contains at least $105$ computers. $\blacksquare$
 
 ### Problem 7
 
@@ -258,15 +258,15 @@ i.e. $1.6x\ge1000$, giving $x\ge625$. Hence originally at least $625$ ten-thousa
 
 ### Problem 9
 
-(Exercise 11.2, Extension and Exploration, Problem 9) Find the solution sets of the inequalities $5x-1>3\left(x+1\right)$ and $\frac{1}{2}x-1<7-\frac{3}{2}x$, and write their common part.
+(Exercise 11.2, Extension and Exploration, Problem 9) Find the solution sets of the inequalities $5x-1> 3\left(x+1\right)$ and $\frac{1}{2}x-1< 7-\frac{3}{2}x$, and write their common part.
 
 ### Solution to Problem 9
 
-From $5x-1>3x+3$, we get $2x>4$, i.e. $x>2$.
+From $5x-1> 3x+3$, we get $2x> 4$, i.e. $x> 2$.
 
-From $\frac{1}{2}x-1<7-\frac{3}{2}x$, we get $2x<8$, i.e. $x<4$.
+From $\frac{1}{2}x-1< 7-\frac{3}{2}x$, we get $2x< 8$, i.e. $x< 4$.
 
-Hence the common part is $2<x<4$. $\blacksquare$
+Hence the common part is $2< x< 4$. $\blacksquare$
 
 ### Problem 10
 

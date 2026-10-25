@@ -1,17 +1,17 @@
 # Assignment 65
 
 > **Conclusion 13.2.1** (Relationship Among the Three Sides of a Triangle) <br>In a triangle, the sum of any two sides is greater than the third, and the difference of any two sides is less than the third.
->
+> 
 > **Definition 13.2.1** (Median) <br>The segment joining a vertex to the midpoint of the opposite side is called a median; the three medians meet at the centroid.
->
+> 
 > **Definition 13.2.2** (Angle Bisector) <br>The segment obtained where the bisector of an angle meets the opposite side is called an angle bisector of the triangle.
->
+> 
 > **Definition 13.2.3** (Altitude) <br>Dropping a perpendicular from a vertex to the line of the opposite side, the segment between the vertex and the foot is called an altitude.
->
+> 
 > **Theorem 13.3.1** (Triangle Interior Angle Sum Theorem) <br>The sum of the interior angles of a triangle equals $180^\circ$.
->
+> 
 > **Conclusion 13.3.1** (The Acute Angles of a Right Triangle Are Complementary) <br>The two acute angles of a right triangle are complementary; a triangle with two complementary angles is a right triangle.
->
+> 
 > **Corollary 13.3.1** (Relationship Between an Exterior Angle and the Non-adjacent Interior Angles) <br>An exterior angle of a triangle equals the sum of the two interior angles not adjacent to it, and the sum of the three exterior angles is $360^\circ$.
 
 ### Review Problem 1
@@ -58,29 +58,29 @@ Solving gives $BD=1.5$. By **Definition 13.2.1** (Median), $D$ is the midpoint o
 
 ### Review Problem 3
 
-(Review Problems, Review and Consolidation, Problem 3) Fill in the blanks: since the sum of two sides of a triangle is greater than the third, $AB+AD>\;\_\_\;$, $PD+CD>\;\_\_\;$; adding the left and right sides respectively gives $AB+AD+PD+CD>\;\_\_\;$, i.e. $AB+AC>\;\_\_\;$.
+(Review Problems, Review and Consolidation, Problem 3) Fill in the blanks: since the sum of two sides of a triangle is greater than the third, $AB+AD> \;\_\_\;$, $PD+CD> \;\_\_\;$; adding the left and right sides respectively gives $AB+AD+PD+CD> \;\_\_\;$, i.e. $AB+AC> \;\_\_\;$.
 
 ### Solution to Review Problem 3
 
 By **Conclusion 13.2.1** (Relationship Among the Three Sides of a Triangle), in $\triangle ABD$,
 
 $$
-AB+AD>BD.
+AB+AD> BD.
 $$
 
 In $\triangle PCD$,
 
 $$
-PD+CD>PC.
+PD+CD> PC.
 $$
 
 Adding the left and right sides of the two equations respectively:
 
 $$
-AB+AD+PD+CD>BD+PC.
+AB+AD+PD+CD> BD+PC.
 $$
 
-The left side is $AB+AC$ and the right side is $BC$, so $AB+AC>BC$. Fill in successively $BD$, $PC$, $BD+PC$, $BC$. $\blacksquare$
+The left side is $AB+AC$ and the right side is $BC$, so $AB+AC> BC$. Fill in successively $BD$, $PC$, $BD+PC$, $BC$. $\blacksquare$
 
 ### Review Problem 4
 

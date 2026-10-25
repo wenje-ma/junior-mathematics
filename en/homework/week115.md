@@ -1,7 +1,7 @@
 # Assignment 115
 
 > **Conclusion 23.4.1** (Building a Linear Function Model) <br>In real-world problems, first determine the function expression from the correspondence between the variables, then use the graph and properties of the linear function to solve the problem. When the function relationship is piecewise, discuss it interval by interval.
->
+> 
 > **Conclusion 23.4.2** (Choosing a Plan) <br>Optimization problems involving variables are commonly solved using functions; the best plan is chosen by comparing the function values corresponding to the different plans.
 
 ### Exercise 1
@@ -16,13 +16,13 @@ When $0 \leq t \leq 2$, $T=20$.
 
 When $2 < t \leq 4$, $T=20+5\left(t-2\right)=5t+10$.
 
-The figure shows a plane rectangular coordinate system with horizontal axis time $t$ (unit: h) and vertical axis temperature $T$ (unit: $^\circ\text{C}$); the graph consists of two pieces: for $0\leq t\leq2$ a horizontal segment at height $20^\circ\text{C}$, and for $2<t\leq4$ a segment rising from $\left(2,20\right)$ to $\left(4,30\right)$.
+The figure shows a plane rectangular coordinate system with horizontal axis time $t$ (unit: h) and vertical axis temperature $T$ (unit: $^\circ\text{C}$); the graph consists of two pieces: for $0\leq t\leq2$ a horizontal segment at height $20^\circ\text{C}$, and for $2< t\leq4$ a segment rising from $\left(2,20\right)$ to $\left(4,30\right)$.
 
 $\blacksquare$
 
 ### Exercise 2
 
-(Exercise 23.4, Problem 2) A city taxi charges as follows: a fare of $9$ yuan for a distance not exceeding $3\ \text{km}$, plus $2$ yuan per kilometer for the portion beyond $3\ \text{km}$. Let the passenger's distance be $x$ ($x>3$) $\text{km}$, and the fare be $y$ yuan.
+(Exercise 23.4, Problem 2) A city taxi charges as follows: a fare of $9$ yuan for a distance not exceeding $3\ \text{km}$, plus $2$ yuan per kilometer for the portion beyond $3\ \text{km}$. Let the passenger's distance be $x$ ($x> 3$) $\text{km}$, and the fare be $y$ yuan.
 
 (1) Find the function expression for $y$ in terms of $x$;
 
@@ -30,7 +30,7 @@ $\blacksquare$
 
 ### Solution to Exercise 2
 
-(1) The portion beyond $3\ \text{km}$ is $\left(x-3\right)\ \text{km}$, costing $2\left(x-3\right)$ yuan; adding the base fare of $9$ yuan gives $y=9+2\left(x-3\right)=2x+3$ ($x>3$).
+(1) The portion beyond $3\ \text{km}$ is $\left(x-3\right)\ \text{km}$, costing $2\left(x-3\right)$ yuan; adding the base fare of $9$ yuan gives $y=9+2\left(x-3\right)=2x+3$ ($x> 3$).
 
 (2) When $y=23$, $23=2x+3$, so $x=10$. Hence the travel distance is $10\ \text{km}$. $\blacksquare$
 
@@ -48,7 +48,7 @@ $\blacksquare$
 
 (2) By **Conclusion 23.4.2** (Choosing a Plan), compare the two function values. Setting $y_1=y_2$, i.e. $1500+x=2.5x$, gives $x=1000$.
 
-When $x<1000$, $y_1>y_2$, so Printer B is the better choice; when $x=1000$, the two printers cost the same; when $x>1000$, $y_1<y_2$, so Printer A is the better choice. $\blacksquare$
+When $x< 1000$, $y_1> y_2$, so Printer B is the better choice; when $x=1000$, the two printers cost the same; when $x> 1000$, $y_1< y_2$, so Printer A is the better choice. $\blacksquare$
 
 ### Exercise 4
 
@@ -60,7 +60,7 @@ Let $x$ be the number of model $A$ calculators bought; then $\left(100-x\right)$
 
 Profit: $W=\left(32-22\right)x+\left(25-19\right)\left(100-x\right)=10x+6\left(100-x\right)=4x+600$.
 
-By **Conclusion 23.4.2** (Choosing a Plan), $W=4x+600$, with $k=4>0$, so $W$ increases as $x$ increases. Thus profit is maximized at $x=33$, with $W=4\times33+600=732$ yuan.
+By **Conclusion 23.4.2** (Choosing a Plan), $W=4x+600$, with $k=4> 0$, so $W$ increases as $x$ increases. Thus profit is maximized at $x=33$, with $W=4\times33+600=732$ yuan.
 
 Purchasing plan: $33$ model $A$ and $67$ model $B$, with maximum profit $732$ yuan. $\blacksquare$
 
@@ -76,11 +76,11 @@ When $y=4600$, $4600=6x+2200$, so $x=400$. Hence $400$ items are sold. $\blacksq
 
 ### Problem 2
 
-(Exercise 23.4, Review and Consolidation, Problem 2) A clothing brand runs a promotion: clothing originally priced at $80$ yuan per piece; if more than $3$ pieces are bought, the portion beyond that gets a 20% discount. Find the function expression for the amount $y$ (in yuan) paid by a customer in terms of the number $x$ ($x>3$, in pieces) of garments bought.
+(Exercise 23.4, Review and Consolidation, Problem 2) A clothing brand runs a promotion: clothing originally priced at $80$ yuan per piece; if more than $3$ pieces are bought, the portion beyond that gets a 20% discount. Find the function expression for the amount $y$ (in yuan) paid by a customer in terms of the number $x$ ($x> 3$, in pieces) of garments bought.
 
 ### Solution to Problem 2
 
-The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\right)$ pieces beyond $3$ are at a 20% discount, i.e. $64$ yuan. Hence $y=3\times80+64\left(x-3\right)=64x+48$ ($x>3$). $\blacksquare$
+The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\right)$ pieces beyond $3$ are at a 20% discount, i.e. $64$ yuan. Hence $y=3\times80+64\left(x-3\right)=64x+48$ ($x> 3$). $\blacksquare$
 
 ### Problem 3
 
@@ -106,9 +106,9 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 ### Solution to Problem 4
 
-(1) When $0 \leq x \leq 240$, $y=0.45x$. When $x>240$, $y=0.45\times240+0.55\left(x-240\right)=0.55x-24$.
+(1) When $0 \leq x \leq 240$, $y=0.45x$. When $x> 240$, $y=0.45\times240+0.55\left(x-240\right)=0.55x-24$.
 
-(2) When $x=240$, $y=0.45\times240=108$ yuan. Since $141>108$, we have $x>240$. Setting $141=0.55x-24$ gives $x=300$. Hence the consumption is $300\ \text{kW·h}$. $\blacksquare$
+(2) When $x=240$, $y=0.45\times240=108$ yuan. Since $141> 108$, we have $x> 240$. Setting $141=0.55x-24$ gives $x=300$. Hence the consumption is $300\ \text{kW·h}$. $\blacksquare$
 
 ### Problem 5
 
@@ -142,9 +142,9 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 ### Solution to Problem 6
 
-(1) Store A: $y_1=0.8x$. Store B: when $0 \leq x \leq 200$, $y_2=x$; when $x>200$, $y_2=200+0.7\left(x-200\right)=0.7x+60$.
+(1) Store A: $y_1=0.8x$. Store B: when $0 \leq x \leq 200$, $y_2=x$; when $x> 200$, $y_2=200+0.7\left(x-200\right)=0.7x+60$.
 
-(2) When $0 \leq x \leq 200$, $y_1=0.8x < x=y_2$, so Store A is cheaper. When $x>200$, setting $0.8x=0.7x+60$ gives $x=600$. When $200<x<600$, $y_1<y_2$, so choose Store A; when $x=600$, the two stores are the same; when $x>600$, $y_1>y_2$, so choose Store B. $\blacksquare$
+(2) When $0 \leq x \leq 200$, $y_1=0.8x < x=y_2$, so Store A is cheaper. When $x> 200$, setting $0.8x=0.7x+60$ gives $x=600$. When $200< x< 600$, $y_1< y_2$, so choose Store A; when $x=600$, the two stores are the same; when $x> 600$, $y_1> y_2$, so choose Store B. $\blacksquare$
 
 ### Problem 7
 
@@ -158,7 +158,7 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 (1) $y_1=2000+2x$, $y_2=6x$.
 
-(2) Setting $y_1=y_2$, i.e. $2000+2x=6x$, gives $x=500$. When $x<500$, $y_1>y_2$, so choose Plan 1; when $x=500$, the two plans are the same; when $x>500$, $y_2>y_1$, so choose Plan 2. $\blacksquare$
+(2) Setting $y_1=y_2$, i.e. $2000+2x=6x$, gives $x=500$. When $x< 500$, $y_1> y_2$, so choose Plan 1; when $x=500$, the two plans are the same; when $x> 500$, $y_2> y_1$, so choose Plan 2. $\blacksquare$
 
 ### Problem 8
 

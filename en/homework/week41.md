@@ -1,11 +1,11 @@
 # Assignment 41
 
 > **Definition 9.1.1** (Rectangular Coordinate System) <br>Draw two number lines perpendicular to each other in a plane with the same origin; together they form a rectangular coordinate system. The horizontal number line is called the $x$-axis, with right taken as the positive direction; the vertical number line is called the $y$-axis, with up taken as the positive direction; the intersection of the two axes is called the origin.
->
+> 
 > **Definition 9.1.2** (Coordinates of a Point) <br>Through a point in the plane draw perpendiculars to the $x$-axis and $y$-axis respectively; the coordinate of the foot on the $x$-axis is the x-coordinate of the point, and the coordinate of the foot on the $y$-axis is the y-coordinate of the point. The ordered pair $\left(x,y\right)$ is called the coordinates of this point.
->
+> 
 > **Property 9.1.1** (One-to-One Correspondence Between Points and Coordinates) <br>Points in the coordinate plane are in one-to-one correspondence with ordered pairs of real numbers.
->
+> 
 > **Definition 9.1.3** (Quadrants) <br>The coordinate plane is divided by the two coordinate axes into four parts, called in order starting from the upper right the first, second, third, and fourth quadrants. The first quadrant $\left(+,+\right)$, the second quadrant $\left(-,+\right)$, the third quadrant $\left(-,-\right)$, the fourth quadrant $\left(+,-\right)$. Points on the coordinate axes do not belong to any quadrant.
 
 ### Exercise 1
@@ -182,9 +182,9 @@ Both $A\left(-2,4\right)$ and $B\left(3,4\right)$ have y-coordinate $4$, and all
 
 (Exercise 9.1, Review and Consolidation, Problem 8) In the rectangular coordinate system, choose some points whose x- and y-coordinates satisfy the following conditions, mark their positions, and see in which quadrant or on which coordinate axis they lie:
 
-(1) The coordinates of point $P\left(x,y\right)$ satisfy $xy>0$;
+(1) The coordinates of point $P\left(x,y\right)$ satisfy $xy> 0$;
 
-(2) The coordinates of point $P\left(x,y\right)$ satisfy $xy<0$;
+(2) The coordinates of point $P\left(x,y\right)$ satisfy $xy< 0$;
 
 (3) The coordinates of point $P\left(x,y\right)$ satisfy $xy=0$.
 
@@ -192,9 +192,9 @@ Both $A\left(-2,4\right)$ and $B\left(3,4\right)$ have y-coordinate $4$, and all
 
 By the signs of the x- and y-coordinates in each quadrant in **Definition 9.1.3** (Quadrants).
 
-(1) $xy>0$ means $x$, $y$ have the same sign: both positive is the first quadrant, both negative is the third quadrant. Thus these points lie in the first or third quadrant.
+(1) $xy> 0$ means $x$, $y$ have the same sign: both positive is the first quadrant, both negative is the third quadrant. Thus these points lie in the first or third quadrant.
 
-(2) $xy<0$ means $x$, $y$ have opposite signs: $x$ positive and $y$ negative is the fourth quadrant, $x$ negative and $y$ positive is the second quadrant. Thus these points lie in the second or fourth quadrant.
+(2) $xy< 0$ means $x$, $y$ have opposite signs: $x$ positive and $y$ negative is the fourth quadrant, $x$ negative and $y$ positive is the second quadrant. Thus these points lie in the second or fourth quadrant.
 
 (3) $xy=0$ means $x=0$ or $y=0$: points with $x=0$ lie on the $y$-axis, and points with $y=0$ lie on the $x$-axis. Thus these points lie on the coordinate axes. $\blacksquare$
 

@@ -1,9 +1,9 @@
 # Assignment 49
 
 > **Definition 10.1.3** (Solution of a Linear Equation in Two Variables) <br>The values of the two unknowns that make the two sides of the linear equation in two variables equal.
->
+> 
 > **Definition 10.1.4** (Solution of a System of Linear Equations in Two Variables) <br>The common solution of the two equations in the system of linear equations in two variables.
->
+> 
 > **Method 10.3.1** (Solving Word Problems by Setting Up a System of Equations) <br>Set up the unknowns, find the equal relationships, set up the system, solve and check.
 
 ### Activity 1

@@ -1,17 +1,17 @@
 # Assignment 76
 
 > **Conclusion 15.1.1** (Properties of Axial Symmetry) <br>Two figures that are axially symmetric are congruent; the axis of symmetry perpendicularly bisects the segment joining the symmetric points.
->
+> 
 > **Conclusion 15.1.2** (Properties of the Perpendicular Bisector) <br>A point on the perpendicular bisector of a segment is equidistant from its two endpoints.
->
+> 
 > **Conclusion 15.1.3** (Criterion for the Perpendicular Bisector) <br>A point equidistant from the two endpoints of a segment lies on the perpendicular bisector of that segment.
->
+> 
 > **Conclusion 15.3.1** (Equal Sides Opposite Equal Angles) <br>The two base angles of an isosceles triangle are equal.
->
+> 
 > **Conclusion 15.3.2** (Three Lines Coincide) <br>The median to the base, the altitude to the base, and the bisector of the vertex angle of an isosceles triangle coincide.
->
+> 
 > **Conclusion 15.3.3** (Equal Angles Opposite Equal Sides) <br>A triangle with two equal angles is isosceles.
->
+> 
 > **Conclusion 15.3.5** (Right Triangle with a $30^\circ$ Angle) <br>The leg opposite the $30^\circ$ acute angle equals half of the hypotenuse.
 
 ### Review Problem 1

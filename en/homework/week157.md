@@ -1,13 +1,13 @@
 # Assignment 157
 
 > **Theorem 30.1.1** (Tangent Property) <br>A tangent line to a circle is perpendicular to the radius through the point of tangency.
->
+> 
 > **Theorem 30.1.2** (Tangent Criterion) <br>A line passing through the outer end of a radius and perpendicular to that radius is a tangent line to the circle.
->
+> 
 > **Theorem 30.1.3** (Tangent-Length Theorem) <br>From a point outside a circle, the two tangent segments to the circle have equal length, and the line joining the point to the center bisects the angle between the two tangent lines.
->
+> 
 > **Definition 30.2.1** (Incircle of a Triangle) <br>A circle tangent to all three sides of a triangle is called the incircle of the triangle, and its center is the incenter (the intersection of the three angle bisectors).
->
+> 
 > **Theorem 30.3.1** (Regular Polygons and Circles) <br>Divide a circle into $n$ equal parts, and joining the division points in order gives a regular $n$-gon inscribed in the circle.
 
 ### Activity 1
@@ -154,7 +154,7 @@ The wrench opening is the distance between opposite sides, i.e. $2\times$ the ap
 
 By **Property 30.1.1** (Position-Relation Criterion).
 
-Intersecting the $x$-axis: $\left|b\right|<r$; disjoint from the $y$-axis: $\left|a\right|>r$. That is, $\left|b\right|<r<\left|a\right|$. $\blacksquare$
+Intersecting the $x$-axis: $\left|b\right|< r$; disjoint from the $y$-axis: $\left|a\right|> r$. That is, $\left|b\right|< r< \left|a\right|$. $\blacksquare$
 
 ### Review Problem 13
 

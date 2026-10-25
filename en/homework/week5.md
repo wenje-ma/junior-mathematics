@@ -1,11 +1,11 @@
 # Assignment 5
 
 > **Definition 2.1.1** (Rules for Addition of Rational Numbers) <br>When two numbers of the same sign are added, the sum takes the same sign, and the absolute value of the sum equals the sum of the absolute values of the addends; when two numbers of opposite signs with unequal absolute values are added, the sum takes the sign of the addend with the larger absolute value, and the absolute value of the sum equals the difference between the larger and the smaller of the absolute values of the addends; adding two numbers that are opposites of each other gives $0$; adding $0$ to a number leaves the number unchanged.
->
+> 
 > **Definition 2.1.2** (Commutative Law of Addition) <br>In the addition of rational numbers, when two numbers are added, swapping the positions of the addends does not change the sum, that is, $a+b=b+a$.
->
+> 
 > **Definition 2.1.3** (Associative Law of Addition) <br>In the addition of rational numbers, when three numbers are added, adding the first two first, or adding the last two first, does not change the sum, that is, $\left(a+b\right)+c=a+\left(b+c\right)$.
->
+> 
 > **Definition 2.1.4** (Rules for Subtraction of Rational Numbers) <br>Subtracting a number is equivalent to adding the opposite number of that number, that is, $a-b=a+\left(-b\right)$.
 
 ### Exercise 1
@@ -398,7 +398,7 @@ By **Definition 2.1.4** (Rules for Subtraction of Rational Numbers), the tempera
 
 The temperature difference on each day is: Monday $10-2=8$; Tuesday $12-1=11$; Wednesday $11-0=11$; Thursday $9-\left(-1\right)=10$; Friday $7-\left(-4\right)=11$; Saturday $5-\left(-5\right)=10$; Sunday $7-\left(-5\right)=12$.
 
-Comparing, $12>11>10>8$, so Sunday has the largest temperature difference and Monday has the smallest. $\blacksquare$
+Comparing, $12> 11> 10> 8$, so Sunday has the largest temperature difference and Monday has the smallest. $\blacksquare$
 
 ### Problem 11
 

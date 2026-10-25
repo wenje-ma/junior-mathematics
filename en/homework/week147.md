@@ -1,13 +1,13 @@
 # Assignment 147
 
 > **Definition 29.1.1** (Circle) <br>In a plane, the figure formed by the other endpoint $P$ as the segment $OP$ rotates through a full turn about its fixed endpoint $O$ is called a circle. The fixed endpoint $O$ is called the center of the circle, and the segment $OP$ is called the radius. The circle with center $O$ is denoted $\odot O$.
->
-> **Property 29.1.1** (Position of a Point Relative to a Circle) <br>Let the radius of $\odot O$ be $r$, and let the distance from the point $P$ to the center be $OP=d$. Then: the point $P$ is outside the circle $\Leftrightarrow d>r$; the point $P$ is on the circle $\Leftrightarrow d=r$; the point $P$ is inside the circle $\Leftrightarrow d<r$.
->
+> 
+> **Property 29.1.1** (Position of a Point Relative to a Circle) <br>Let the radius of $\odot O$ be $r$, and let the distance from the point $P$ to the center be $OP=d$. Then: the point $P$ is outside the circle $\Leftrightarrow d> r$; the point $P$ is on the circle $\Leftrightarrow d=r$; the point $P$ is inside the circle $\Leftrightarrow d< r$.
+> 
 > **Definition 29.1.2** (Chord, Diameter, Arc) <br>The segment joining any two points on a circle is called a chord; a chord passing through the center is called a diameter; the part between any two points on a circle is called an arc; an arc larger than a semicircle is called a major arc, and an arc smaller than a semicircle is called a minor arc.
->
+> 
 > **Theorem 29.1.1** (Three Points Determine a Circle) <br>Three points not on the same line determine a circle. The circle passing through the three vertices of a triangle is called the circumcircle of the triangle, and the center of the circumcircle is called the circumcenter of the triangle.
->
+> 
 > **Method 29.1.1** (Proof by Contradiction) <br>First make an assumption opposite to the conclusion, then derive a result that contradicts a definition, basic fact, theorem, or the hypotheses; from the contradiction it is concluded that the assumption is incorrect, and hence the original proposition holds.
 
 ### Exercise 1
@@ -50,11 +50,11 @@ $\blacksquare$
 
 By **Property 29.1.1** (Position of a Point Relative to a Circle), $r=10$.
 
-(1) $d=8<10$, so the point $P$ is inside the circle.
+(1) $d=8< 10$, so the point $P$ is inside the circle.
 
 (2) $d=10=r$, so the point $P$ is on the circle.
 
-(3) $d=12>10$, so the point $P$ is outside the circle. $\blacksquare$
+(3) $d=12> 10$, so the point $P$ is outside the circle. $\blacksquare$
 
 ### Exercise 4
 

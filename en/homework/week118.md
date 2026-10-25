@@ -1,9 +1,9 @@
 # Assignment 118
 
 > **Definition 22.2.1** (Graph of a Function) <br>In general, for a function, if each pair of corresponding values of the independent variable and the function is taken as the x- and y-coordinates of a point, then the figure formed in the coordinate plane by these points is the graph of this function.
->
+> 
 > **Conclusion 22.2.2** (Steps for Plotting Points to Draw a Function Graph) <br>First step: make a table; second step: plot the points; third step: connect the points.
->
+> 
 > **Conclusion 22.2.3** (Three Representations of a Function) <br>The analytical method, the tabular method, and the graphical method.
 
 ### Activity Preparation

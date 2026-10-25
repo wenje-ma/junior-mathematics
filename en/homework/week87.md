@@ -142,7 +142,7 @@ By **Definition 18.1.4** (finding a common denominator).
 
 (Exercise 18.1, Review and Consolidation, Problem 1) Write expressions:
 
-(1) A place has an afforestation area of $m$ hectares, originally planned to be completed in $n$ years ($n>1$); now it must be completed $1$ year ahead of schedule, so the actual annual afforestation must be \;_\_\; hectares more than the original plan;
+(1) A place has an afforestation area of $m$ hectares, originally planned to be completed in $n$ years ($n> 1$); now it must be completed $1$ year ahead of schedule, so the actual annual afforestation must be \;_\_\; hectares more than the original plan;
 
 (2) A car travels from place A to place B at speed $a\ \text{km/h}$; the distance between A and B is $120\ \text{km}$; then the time taken from A to B is \;_\_\; $\text{h}$;
 

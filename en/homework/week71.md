@@ -1,19 +1,19 @@
 # Assignment 71
 
 > **Conclusion 14.1.1** (Properties of Congruent Triangles) <br>Corresponding sides of congruent triangles are equal, and corresponding angles are equal.
->
+> 
 > **Basic Fact 14.2.1** (SAS) <br>Two triangles are congruent if two sides and their included angle are respectively equal.
->
+> 
 > **Basic Fact 14.2.2** (ASA) <br>Two triangles are congruent if two angles and their included side are respectively equal.
->
+> 
 > **Conclusion 14.2.1** (AAS) <br>Two triangles are congruent if two angles are respectively equal and the opposite side of one pair of equal angles is equal.
->
+> 
 > **Basic Fact 14.2.3** (SSS) <br>Two triangles are congruent if the three sides are respectively equal.
->
+> 
 > **Conclusion 14.2.2** (HL) <br>Two right triangles are congruent if the hypotenuse and one leg are respectively equal.
->
+> 
 > **Conclusion 14.3.1** (Properties of an Angle Bisector) <br>A point on the bisector of an angle is equidistant from the two sides of the angle.
->
+> 
 > **Conclusion 14.3.2** (Determination of an Angle Bisector) <br>A point inside an angle that is equidistant from the two sides lies on the bisector of the angle.
 
 ### Review Problem 1

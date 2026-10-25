@@ -172,7 +172,7 @@ The figure shows a rectangular sheet of paper folded along the line connecting t
 
 ### Solution to Problem 8
 
-Let the length of the original rectangle be $a$ and its width be $b$ ($a>b$). After folding along the midpoint line of the longer side, the new rectangle has dimensions $b\times\frac{a}{2}$.
+Let the length of the original rectangle be $a$ and its width be $b$ ($a> b$). After folding along the midpoint line of the longer side, the new rectangle has dimensions $b\times\frac{a}{2}$.
 
 Since the folded rectangle is similar to the original, the corresponding sides are proportional:
 

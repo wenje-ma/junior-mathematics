@@ -1,9 +1,9 @@
 # Assignment 64
 
 > **Conclusion 13.1.1** (Relationship Among the Three Sides of a Triangle) <br>In a triangle, the sum of any two sides is greater than the third, and the difference of any two sides is less than the third.
->
+> 
 > **Theorem 13.3.1** (Triangle Interior Angle Sum Theorem) <br>The sum of the interior angles of a triangle equals $180^\circ$.
->
+> 
 > **Conclusion (Mathematics Activity 1)** (Triangulation) <br>Dividing a polygon into several triangles by joining its non-adjacent vertices with segments that do not intersect in the interior is called a triangulation of the polygon. A triangulation of an $n$-gon yields $n-2$ triangles, and the number $D_n$ of different triangulation methods satisfies $\frac{D_{n+1}}{D_n}=\frac{4n-6}{n}$ ($D_3=1$).
 
 ### Activity 1

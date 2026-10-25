@@ -1,23 +1,23 @@
 # Assignment 3
 
 > **Definition 1.1.1** (Positive Number) <br>Numbers greater than $0$ are called positive numbers.
->
+> 
 > **Definition 1.1.2** (Negative Number) <br>Numbers obtained by prefixing a positive number with the sign "$-$" are called negative numbers.
->
+> 
 > **Definition 1.1.5** (Representing Quantities of Opposite Meaning) <br>Quantities of opposite meaning are represented by positive and negative numbers respectively.
->
+> 
 > **Definition 1.2.1** (Integers and Fractions) <br>Positive integers, $0$, and negative integers are collectively called integers; positive fractions and negative fractions are collectively called fractions.
->
+> 
 > **Definition 1.2.2** (Rational Numbers) <br>Numbers that can be written in fraction form are called rational numbers.
->
+> 
 > **Definition 1.2.3** (Number Line) <br>A straight line on which an origin, a positive direction, and a unit length are specified is called a number line.
->
+> 
 > **Definition 1.2.4** (Opposite Numbers) <br>Two numbers that differ only in sign are opposites of each other; the opposite number of $0$ is $0$.
->
+> 
 > **Definition 1.2.5** (Absolute Value) <br>The distance on the number line between the point representing a number $a$ and the origin is called the absolute value of the number $a$, denoted by $\left|a\right|$.
->
+> 
 > **Definition 1.2.6** (Algebraic Meaning of Absolute Value) <br>The absolute value of a positive number is itself; the absolute value of a negative number is its opposite number; the absolute value of $0$ is $0$.
->
+> 
 > **Definition 1.2.7** (Comparing the Magnitude of Rational Numbers) <br>A positive number is greater than $0$, $0$ is greater than a negative number, and a positive number is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
 
 ### Activity 1
@@ -56,4 +56,4 @@ Please play this game and think about how to guess so as to find the number fast
 
 By **Definition 1.2.7** (Comparing the Magnitude of Rational Numbers), each answer "too big" or "too small" narrows the range in which the target number lies.
 
-The number in mind lies in $-50\sim 50$, giving $101$ integers in total. Using a bisection strategy, each time guess the midpoint of the current interval: first guess $0$; if "too big", the target lies in $-50\sim 0$; if "too small", the target lies in $0\sim 50$. Each time the interval length is reduced by about half; since $2^6=64<101\le 128=2^7$, the number can be guessed in at most $7$ tries. Taking the midpoint each time rather than guessing arbitrarily guarantees that about half of the possible numbers are ruled out each time, and hence is the fastest. $\blacksquare$
+The number in mind lies in $-50\sim 50$, giving $101$ integers in total. Using a bisection strategy, each time guess the midpoint of the current interval: first guess $0$; if "too big", the target lies in $-50\sim 0$; if "too small", the target lies in $0\sim 50$. Each time the interval length is reduced by about half; since $2^6=64< 101\le 128=2^7$, the number can be guessed in at most $7$ tries. Taking the midpoint each time rather than guessing arbitrarily guarantees that about half of the possible numbers are ruled out each time, and hence is the fastest. $\blacksquare$

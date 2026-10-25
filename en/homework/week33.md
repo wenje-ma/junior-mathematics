@@ -1,7 +1,7 @@
 # Assignment 33
 
 > **Definition 7.4.1** (Translation) <br>In a plane, moving a figure by a certain distance in a certain direction is called a translation of the figure. The direction of translation is not limited to horizontal or vertical; it may be along any direction in the plane.
->
+> 
 > **Property 7.4.1** (Properties of Translation) <br>(1) After translation, the new figure has exactly the same shape and size as the original figure; (2) every point in the new figure is obtained by moving a certain point in the original figure (corresponding point), and the segments connecting each pair of corresponding points are parallel (or lie on the same line) and equal in length.
 
 ### Exercise 1

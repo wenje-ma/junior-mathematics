@@ -1,17 +1,17 @@
 # Assignment 2
 
 > **Definition 1.2.1** (Integers and Fractions) <br>Positive integers, $0$, and negative integers are collectively called integers; positive fractions and negative fractions are collectively called fractions.
->
+> 
 > **Definition 1.2.2** (Rational Numbers) <br>Numbers that can be written in fraction form are called rational numbers. Among them, numbers that can be written as positive fractions are positive rational numbers, and numbers that can be written as negative fractions are negative rational numbers.
->
+> 
 > **Definition 1.2.3** (Number Line) <br>A straight line on which an origin, a positive direction, and a unit length are specified is called a number line. On the number line, the origin divides the number line (excluding the origin) into the positive half-axis and the negative half-axis.
->
+> 
 > **Definition 1.2.4** (Opposite Numbers) <br>Two numbers that differ only in sign are opposites of each other. The opposite number of $0$ is $0$. Prefixing any number with the sign "$-$" gives the opposite number of the original number.
->
+> 
 > **Definition 1.2.5** (Absolute Value) <br>The distance on the number line between the point representing a number $a$ and the origin is called the absolute value of the number $a$, denoted by $\left|a\right|$.
->
-> **Definition 1.2.6** (Algebraic Meaning of Absolute Value) <br>The absolute value of a positive number is the number itself; the absolute value of a negative number is its opposite number; the absolute value of $0$ is $0$. That is, if $a>0$, then $\left|a\right|=a$; if $a=0$, then $\left|a\right|=0$; if $a<0$, then $\left|a\right|=-a$.
->
+> 
+> **Definition 1.2.6** (Algebraic Meaning of Absolute Value) <br>The absolute value of a positive number is the number itself; the absolute value of a negative number is its opposite number; the absolute value of $0$ is $0$. That is, if $a> 0$, then $\left|a\right|=a$; if $a=0$, then $\left|a\right|=0$; if $a< 0$, then $\left|a\right|=-a$.
+> 
 > **Definition 1.2.7** (Comparing the Magnitude of Rational Numbers) <br>On the number line, the order of rational numbers from left to right is exactly the order from smallest to largest; that is, a number on the left is smaller than a number on the right. In general, a positive number is greater than $0$, $0$ is greater than a negative number, and a positive number is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
 
 ### Exercise 1
@@ -26,7 +26,7 @@ Set of positive rational numbers: $\left\{\;\cdots\;\right\}$. Set of negative r
 
 By **Definition 1.2.2** (Rational Numbers), numbers that can be written as positive fractions are positive rational numbers, and numbers that can be written as negative fractions are negative rational numbers.
 
-Among the given numbers, $15>0$, $7>0$, $0.5>0$, $12>0$, $2.3>0$, so they are positive rational numbers.
+Among the given numbers, $15> 0$, $7> 0$, $0.5> 0$, $12> 0$, $2.3> 0$, so they are positive rational numbers.
 
 Also, $-\frac{1}{9}$, $-5$, $-80$, $-4.2$ all have the sign "$-$" prefixed to positive numbers, so they are negative rational numbers.
 
@@ -216,7 +216,7 @@ By **Definition 1.2.5** (Absolute Value) and **Definition 1.2.6** (Algebraic Mea
 
 (2) When $a\ne0$, $a$ is a positive or negative number. By **Definition 1.2.6** (Algebraic Meaning of Absolute Value), the absolute value of both a positive and a negative number is greater than $0$; hence it is true.
 
-(3) The integers whose absolute value is less than $2$ satisfy $\left|a\right|<2$, that is, $-2<a<2$; the integers among them are $-1$, $0$, $1$, which are more than just $1$ and $-1$; hence it is false. $\blacksquare$
+(3) The integers whose absolute value is less than $2$ satisfy $\left|a\right|< 2$, that is, $-2< a< 2$; the integers among them are $-1$, $0$, $1$, which are more than just $1$ and $-1$; hence it is false. $\blacksquare$
 
 ### Exercise 14
 
@@ -262,21 +262,21 @@ $+\left|-3.5\right|=\left|3.5\right|=3.5$; $-\left|+\frac{5}{6}\right|=-\left|\f
 
 By **Definition 1.2.7** (Comparing the Magnitude of Rational Numbers), a positive number is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
 
-(1) $3$ is positive and $-5$ is negative, so $3>-5$.
+(1) $3$ is positive and $-5$ is negative, so $3> -5$.
 
-(2) $\left|-3\right|=3$, $\left|-5\right|=5$; since $3<5$, we get $-3>-5$.
+(2) $\left|-3\right|=3$, $\left|-5\right|=5$; since $3< 5$, we get $-3> -5$.
 
-(3) $-\left|-2\frac{1}{4}\right|=-\left|2\frac{1}{4}\right|=-2.25$. $\left|-2.5\right|=2.5$, $\left|-2.25\right|=2.25$; since $2.5>2.25$, we get $-2.5<-2.25$, so $-2.5<-\left|-2\frac{1}{4}\right|$.
+(3) $-\left|-2\frac{1}{4}\right|=-\left|2\frac{1}{4}\right|=-2.25$. $\left|-2.5\right|=2.5$, $\left|-2.25\right|=2.25$; since $2.5> 2.25$, we get $-2.5< -2.25$, so $-2.5< -\left|-2\frac{1}{4}\right|$.
 
-(4) $\left|-\frac{3}{5}\right|=\frac{3}{5}=\frac{12}{20}$, $\left|-\frac{3}{4}\right|=\frac{3}{4}=\frac{15}{20}$; since $\frac{12}{20}<\frac{15}{20}$, we get $-\frac{3}{5}>-\frac{3}{4}$.
+(4) $\left|-\frac{3}{5}\right|=\frac{3}{5}=\frac{12}{20}$, $\left|-\frac{3}{4}\right|=\frac{3}{4}=\frac{15}{20}$; since $\frac{12}{20}< \frac{15}{20}$, we get $-\frac{3}{5}> -\frac{3}{4}$.
 
-(5) $-\left(+8\right)=-8$, $-\left(-9\right)=9$; a positive number is greater than a negative number, so $-8<9$, that is, $-\left(+8\right)<-\left(-9\right)$.
+(5) $-\left(+8\right)=-8$, $-\left(-9\right)=9$; a positive number is greater than a negative number, so $-8< 9$, that is, $-\left(+8\right)< -\left(-9\right)$.
 
-(6) $-\left(-0.3\right)=0.3$, $\left|-\frac{1}{3}\right|=\frac{1}{3}$. Since $0.3<\frac{1}{3}$, we get $-\left(-0.3\right)<\left|-\frac{1}{3}\right|$. $\blacksquare$
+(6) $-\left(-0.3\right)=0.3$, $\left|-\frac{1}{3}\right|=\frac{1}{3}$. Since $0.3< \frac{1}{3}$, we get $-\left(-0.3\right)< \left|-\frac{1}{3}\right|$. $\blacksquare$
 
 ### Exercise 17
 
-(Exercise 1.2, Problem 2) Arrange each group of numbers below in order from smallest to largest, and connect them with "$<$":
+(Exercise 1.2, Problem 2) Arrange each group of numbers below in order from smallest to largest, and connect them with "$< $":
 
 (1) $-3$, $+2$, $+5$, $0$, $-10$, $8$;
 
@@ -286,13 +286,13 @@ By **Definition 1.2.7** (Comparing the Magnitude of Rational Numbers), a positiv
 
 By **Definition 1.2.7** (Comparing the Magnitude of Rational Numbers), a negative number is less than $0$, and $0$ is less than a positive number; for two negative numbers, the one with the larger absolute value is instead the smaller.
 
-(1) Among the negative numbers, $\left|-10\right|=10>\left|-3\right|=3$, so $-10<-3$; the positive numbers satisfy $0<2<5<8$. Hence arranged from smallest to largest:
+(1) Among the negative numbers, $\left|-10\right|=10> \left|-3\right|=3$, so $-10< -3$; the positive numbers satisfy $0< 2< 5< 8$. Hence arranged from smallest to largest:
 
-$$-10<-3<0<+2<+5<8.$$
+$$-10< -3< 0< +2< +5< 8.$$
 
-(2) The negative numbers are $-\frac{3}{2}=-1.5$, $-\frac{1}{2}=-0.5$, $-0.3$, $-\frac{1}{4}=-0.25$. Comparing absolute values: $1.5>0.5>0.3>0.25$, so $-1.5<-0.5<-0.3<-0.25$. Also $0<2.3$. Hence arranged from smallest to largest:
+(2) The negative numbers are $-\frac{3}{2}=-1.5$, $-\frac{1}{2}=-0.5$, $-0.3$, $-\frac{1}{4}=-0.25$. Comparing absolute values: $1.5> 0.5> 0.3> 0.25$, so $-1.5< -0.5< -0.3< -0.25$. Also $0< 2.3$. Hence arranged from smallest to largest:
 
-$$-\frac{3}{2}<-\frac{1}{2}<-0.3<-\frac{1}{4}<0<+2.3.$$
+$$-\frac{3}{2}< -\frac{1}{2}< -0.3< -\frac{1}{4}< 0< +2.3.$$
 
 $\blacksquare$
 
@@ -306,13 +306,13 @@ Beijing $-4.6\,^\circ\text{C}$, Wuhan $3.8\,^\circ\text{C}$, Guangzhou $13.1\,^\
 
 By **Definition 1.2.7** (Comparing the Magnitude of Rational Numbers), a positive number is greater than $0$, $0$ is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
 
-The positive numbers are $3.8$, $13.1$, $2.4$, with $13.1>3.8>2.4$. The negative numbers are $-4.6$, $-19.4$; since $\left|-4.6\right|=4.6<\left|-19.4\right|=19.4$, we get $-4.6>-19.4$.
+The positive numbers are $3.8$, $13.1$, $2.4$, with $13.1> 3.8> 2.4$. The negative numbers are $-4.6$, $-19.4$; since $\left|-4.6\right|=4.6< \left|-19.4\right|=19.4$, we get $-4.6> -19.4$.
 
 Hence arranged from highest to lowest:
 
-$$13.1>3.8>2.4>-4.6>-19.4.$$
+$$13.1> 3.8> 2.4> -4.6> -19.4.$$
 
-That is, Guangzhou $>$ Wuhan $>$ Nanjing $>$ Beijing $>$ Harbin. $\blacksquare$
+That is, Guangzhou $> $ Wuhan $> $ Nanjing $> $ Beijing $> $ Harbin. $\blacksquare$
 
 ### Problem 1
 
@@ -372,7 +372,7 @@ By **Definition 1.2.6** (Algebraic Meaning of Absolute Value).
 
 $\left|-9\right|=9$; $\left|3.75\right|=3.75$; $\left|0\right|=0$; $\left|\frac{4}{3}\right|=\frac{4}{3}$; $\left|-0.001\right|=0.001$; $\left|-1\right|=1$.
 
-Comparing the absolute values: $9>3.75>1>\frac{4}{3}>0.001>0$. Hence $-9$ has the largest absolute value and $0$ has the smallest. $\blacksquare$
+Comparing the absolute values: $9> 3.75> 1> \frac{4}{3}> 0.001> 0$. Hence $-9$ has the largest absolute value and $0$ has the smallest. $\blacksquare$
 
 ### Problem 5
 
@@ -394,17 +394,17 @@ Comparing the absolute values: $9>3.75>1>\frac{4}{3}>0.001>0$. Hence $-9$ has th
 
 By **Definition 1.2.7** (Comparing the Magnitude of Rational Numbers), for two negative numbers, the one with the larger absolute value is instead the smaller.
 
-(1) $\left|-\frac{2}{7}\right|=\frac{2}{7}<\left|-\frac{4}{7}\right|=\frac{4}{7}$, so $-\frac{2}{7}>-\frac{4}{7}$.
+(1) $\left|-\frac{2}{7}\right|=\frac{2}{7}< \left|-\frac{4}{7}\right|=\frac{4}{7}$, so $-\frac{2}{7}> -\frac{4}{7}$.
 
-(2) $\left|-10\right|=10>\left|-5\right|=5$, so $-10<-5$.
+(2) $\left|-10\right|=10> \left|-5\right|=5$, so $-10< -5$.
 
-(3) $\left|-\frac{2}{7}\right|=\frac{2}{7}<\left|-\frac{4}{7}\right|=\frac{4}{7}$, so $-\frac{2}{7}>-\frac{4}{7}$.
+(3) $\left|-\frac{2}{7}\right|=\frac{2}{7}< \left|-\frac{4}{7}\right|=\frac{4}{7}$, so $-\frac{2}{7}> -\frac{4}{7}$.
 
-(4) $\left|-3\right|=3=\frac{21}{7}$, $\left|-\frac{22}{7}\right|=\frac{22}{7}$; since $\frac{21}{7}<\frac{22}{7}$, we get $-3>-\frac{22}{7}$.
+(4) $\left|-3\right|=3=\frac{21}{7}$, $\left|-\frac{22}{7}\right|=\frac{22}{7}$; since $\frac{21}{7}< \frac{22}{7}$, we get $-3> -\frac{22}{7}$.
 
-(5) $\left|-\frac{5}{6}\right|=\frac{5}{6}=\frac{35}{42}$, $\left|-\frac{6}{7}\right|=\frac{6}{7}=\frac{36}{42}$; since $\frac{35}{42}<\frac{36}{42}$, we get $-\frac{5}{6}>-\frac{6}{7}$.
+(5) $\left|-\frac{5}{6}\right|=\frac{5}{6}=\frac{35}{42}$, $\left|-\frac{6}{7}\right|=\frac{6}{7}=\frac{36}{42}$; since $\frac{35}{42}< \frac{36}{42}$, we get $-\frac{5}{6}> -\frac{6}{7}$.
 
-(6) $-\left(-3\right)=3$, $-\left|-3.01\right|=-3.01$; a positive number is greater than a negative number, so $3>-3.01$, that is, $-\left(-3\right)>-\left|-3.01\right|$. $\blacksquare$
+(6) $-\left(-3\right)=3$, $-\left|-3.01\right|=-3.01$; a positive number is greater than a negative number, so $3> -3.01$, that is, $-\left(-3\right)> -\left|-3.01\right|$. $\blacksquare$
 
 ### Problem 6
 
@@ -436,7 +436,7 @@ The absolute values of the records are respectively
 
 $$0.50,\ 1.25,\ 2.50,\ 0.75,\ 1.75,\ 2.25.$$
 
-Nearsightedness exceeding $200$ degrees means the absolute value is greater than $2.00$. Among them, $2.50>2.00$ and $2.25>2.00$, totaling $2$.
+Nearsightedness exceeding $200$ degrees means the absolute value is greater than $2.00$. Among them, $2.50> 2.00$ and $2.25> 2.00$, totaling $2$.
 
 Hence $2$ students need to continuously wear glasses. $\blacksquare$
 
@@ -460,9 +460,9 @@ Hence the numbers represented by these two points are $2.5$ and $-2.5$. $\blacks
 
 (1) $a=-a$?
 
-(2) $-a>a$?
+(2) $-a> a$?
 
-(3) $-a<a$?
+(3) $-a< a$?
 
 ### Solution to Problem 9
 
@@ -470,9 +470,9 @@ By **Definition 1.2.4** (Opposite Numbers) and **Definition 1.2.7** (Comparing t
 
 (1) If $a=-a$, then $2a=0$, so $a=0$.
 
-(2) If $-a>a$, rearranging gives $0>2a$, that is, $a<0$, so $a$ is a negative number.
+(2) If $-a> a$, rearranging gives $0> 2a$, that is, $a< 0$, so $a$ is a negative number.
 
-(3) If $-a<a$, rearranging gives $0<2a$, that is, $a>0$, so $a$ is a positive number.
+(3) If $-a< a$, rearranging gives $0< 2a$, that is, $a> 0$, so $a$ is a positive number.
 
 Hence (1) $a=0$; (2) $a$ is a negative number; (3) $a$ is a positive number. $\blacksquare$
 

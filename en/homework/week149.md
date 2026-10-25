@@ -1,9 +1,9 @@
 # Assignment 149
 
 > **Definition 29.2.1** (Central Angle) <br>An angle whose vertex is at the center of a circle is called a central angle.
->
+> 
 > **Property 29.2.2** (Rotational Symmetry of a Circle) <br>A circle is a centrally symmetric figure, and its center is its center of symmetry; rotating a circle about its center through any angle gives a figure that coincides with the original.
->
+> 
 > **Theorem 29.2.2** (Relationship Among Central Angles, Arcs, and Chords) <br>In the same circle or equal circles, equal central angles subtend equal arcs and equal chords; equal arcs subtend equal central angles and equal chords; equal chords subtend equal central angles, and their major arcs and minor arcs are respectively equal.
 
 ### Exercise 1

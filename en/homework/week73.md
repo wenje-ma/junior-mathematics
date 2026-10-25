@@ -1,9 +1,9 @@
 # Assignment 73
 
 > **Conclusion 15.1.1** (Properties of Axis Symmetry) <br>The segment joining symmetric points is perpendicularly bisected by the axis of symmetry.
->
+> 
 > **Conclusion 15.2.1** (Drawing an Axisymmetric Figure) <br>A geometric figure is composed of points; just draw the symmetric points about the axis of symmetry of some special points in the figure (such as segment endpoints), then join them in order, and a figure symmetric to the original figure about that line is obtained. To construct the symmetric point of a point about line $l$: through the point draw the perpendicular to $l$, cut off on the perpendicular a segment bisected by the foot, and the endpoint is the symmetric point.
->
+> 
 > **Conclusion 15.2.2** (Axis Symmetry in Coordinates) <br>The coordinates of the point symmetric to $\left(x,y\right)$ about the $x$-axis are $\left(x,-y\right)$; the coordinates of the point symmetric to $\left(x,y\right)$ about the $y$-axis are $\left(-x,y\right)$.
 
 ### Exercise 1

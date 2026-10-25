@@ -1,15 +1,15 @@
 # Assignment 171
 
 > **Definition 29.1.1** (Projection) <br>The shadow obtained by shining light on an object and projecting it onto a certain plane (the ground, a wall, etc.) is called the projection of the object; the shining light rays are called projection lines, and the plane on which the projection lies is called the projection plane.
->
+> 
 > **Definition 29.1.2** (Parallel Projection) <br>The projection formed by parallel light rays is called parallel projection. For example, the shadow (a solar shadow) formed when an object is illuminated by sunlight is parallel projection.
->
+> 
 > **Definition 29.1.3** (Central Projection) <br>The projection formed by light rays emitted from a single point (a point light source) is called central projection. For example, the shadow formed when an object is illuminated by the light emitted from a light bulb.
->
+> 
 > **Definition 29.1.4** (Orthogonal Projection) <br>The projection produced when the projection lines are perpendicular to the projection plane is called orthogonal projection.
->
+> 
 > **Conclusion 29.1.1** (Orthogonal Projection Rule for a Line Segment) <br>When a line segment is parallel to the projection plane, its orthogonal projection is a segment of the same length; when it is inclined to the projection plane, its orthogonal projection is a shortened segment; when it is perpendicular to the projection plane, its orthogonal projection is a single point.
->
+> 
 > **Conclusion 29.1.2** (Orthogonal Projection Rule for a Plane Figure) <br>When a plane figure is parallel to the projection plane, its orthogonal projection is exactly the same in shape and size as the original figure; when it is inclined, its orthogonal projection is not exactly the same as the original figure; when it is perpendicular, its orthogonal projection becomes a line segment.
 
 ### Exercise 1

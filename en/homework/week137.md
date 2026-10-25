@@ -1,6 +1,6 @@
 # Assignment 137
 
-> **Conclusion 26.2.4** (The Parabola $y=ax^2+bx+c$) <br>Axis of symmetry $x=-\frac b{2a}$, vertex $\left(-\frac b{2a},\frac{4ac-b^2}{4a}\right)$. When $a<0$, the maximum is taken at the vertex; when $a>0$, the minimum is taken at the vertex.
+> **Conclusion 26.2.4** (The Parabola $y=ax^2+bx+c$) <br>Axis of symmetry $x=-\frac b{2a}$, vertex $\left(-\frac b{2a},\frac{4ac-b^2}{4a}\right)$. When $a< 0$, the maximum is taken at the vertex; when $a> 0$, the minimum is taken at the vertex.
 
 ### Activity 1
 
@@ -16,7 +16,7 @@ $$
 y=\left(90+x\right)\left(100-x\right)=-x^2+10x+9000.
 $$
 
-By **Conclusion 26.2.4**, $a=-1<0$; the product is maximized at $x=-\frac{10}{2\left(-1\right)}=5$, at which both factors are $95$, and the maximum product is $95\times95=9025$.
+By **Conclusion 26.2.4**, $a=-1< 0$; the product is maximized at $x=-\frac{10}{2\left(-1\right)}=5$, at which both factors are $95$, and the maximum product is $95\times95=9025$.
 
 (2) Let the number formed by the last two digits of the first factor be $x$; then the two factors are $900+x$ and $1000-x$, and the product is
 
@@ -63,4 +63,4 @@ $$
 v=\frac{-0.2+\sqrt{0.04+1.68}}{0.012}\approx92.5\ \text{km/h}.
 $$
 
-Since $92.5<100$, the car was not speeding at the time of the accident. $\blacksquare$
+Since $92.5< 100$, the car was not speeding at the time of the accident. $\blacksquare$

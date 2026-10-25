@@ -1,8 +1,8 @@
 # Assignment 140
 
 > **Definition 27.1.1** (Inverse Proportional Function) <br>A function of the form $y=\frac kx$ ($k$ is a constant, $k\ne0$) is called an inverse proportional function, with independent variable $x\ne0$.
->
-> **Conclusion 27.2.1** (Graph and Properties of Inverse Proportional Function) <br>The graph of $y=\frac kx$ is a hyperbola consisting of two branches. When $k>0$, the two branches lie in the first and third quadrants respectively, and within each quadrant $y$ decreases as $x$ increases; when $k<0$, the two branches lie in the second and fourth quadrants respectively, and within each quadrant $y$ increases as $x$ increases.
+> 
+> **Conclusion 27.2.1** (Graph and Properties of Inverse Proportional Function) <br>The graph of $y=\frac kx$ is a hyperbola consisting of two branches. When $k> 0$, the two branches lie in the first and third quadrants respectively, and within each quadrant $y$ decreases as $x$ increases; when $k< 0$, the two branches lie in the second and fourth quadrants respectively, and within each quadrant $y$ increases as $x$ increases.
 
 ### Exercise 1
 
@@ -14,7 +14,7 @@ The figure shows a hyperbola in a rectangular coordinate plane, with its two bra
 
 ### Solution to Exercise 1
 
-The curve in the figure is a hyperbola lying in the first and third quadrants, so $k>0$, eliminating (A)(B) (which are lines) and (D) ($k<0$). The curve passes through $\left(1,4\right)$, which satisfies $y=\frac4x$. Hence choose (C). $\blacksquare$
+The curve in the figure is a hyperbola lying in the first and third quadrants, so $k> 0$, eliminating (A)(B) (which are lines) and (D) ($k< 0$). The curve passes through $\left(1,4\right)$, which satisfies $y=\frac4x$. Hence choose (C). $\blacksquare$
 
 ### Exercise 2
 
@@ -22,7 +22,7 @@ The curve in the figure is a hyperbola lying in the first and third quadrants, s
 
 ### Solution to Exercise 2
 
-By **Conclusion 27.2.1**, when the graph lies in the second and fourth quadrants, $k<0$, and within each quadrant $y$ increases as $x$ increases. Hence fill in $<$ and increasing respectively. $\blacksquare$
+By **Conclusion 27.2.1**, when the graph lies in the second and fourth quadrants, $k< 0$, and within each quadrant $y$ increases as $x$ increases. Hence fill in $< $ and increasing respectively. $\blacksquare$
 
 ### Exercise 3
 
@@ -36,7 +36,7 @@ By **Conclusion 27.2.1**, when the graph lies in the second and fourth quadrants
 
 Let $y=\frac kx$; substituting $A\left(2,6\right)$ gives $k=2\times6=12$.
 
-(1) $k=12>0$; by **Conclusion 27.2.1**, the graph lies in the first and third quadrants, and within each quadrant $y$ decreases as $x$ increases.
+(1) $k=12> 0$; by **Conclusion 27.2.1**, the graph lies in the first and third quadrants, and within each quadrant $y$ decreases as $x$ increases.
 
 (2) Check whether the product of each point's coordinates equals $k=12$. $B\left(3,4\right)$: $3\times4=12$, on the graph; $C\left(\frac52,-\frac{16}5\right)$: $\frac52\times\left(-\frac{16}5\right)=-8\ne12$, not on the graph; $D\left(2,-6\right)$: $2\times\left(-6\right)=-12\ne12$, not on the graph. $\blacksquare$
 
@@ -46,7 +46,7 @@ Let $y=\frac kx$; substituting $A\left(2,6\right)$ gives $k=2\times6=12$.
 
 ### Solution to Exercise 4
 
-By **Conclusion 27.2.1**, one branch in the second quadrant means $k=m+2<0$, so the other branch must lie in the fourth quadrant, and $m+2<0$, i.e. $m<-2$. $\blacksquare$
+By **Conclusion 27.2.1**, one branch in the second quadrant means $k=m+2< 0$, so the other branch must lie in the fourth quadrant, and $m+2< 0$, i.e. $m< -2$. $\blacksquare$
 
 ### Exercise 5
 
@@ -54,7 +54,7 @@ By **Conclusion 27.2.1**, one branch in the second quadrant means $k=m+2<0$, so 
 
 ### Solution to Exercise 5
 
-$k=-2<0$; by **Conclusion 27.2.1**, within each quadrant $y$ increases as $x$ increases. Here $x_1=1<x_2=2$, and both points lie in the fourth quadrant, hence $y_1<y_2$. Direct computation: $y_1=-2$, $y_2=-1$, also giving $y_1<y_2$. $\blacksquare$
+$k=-2< 0$; by **Conclusion 27.2.1**, within each quadrant $y$ increases as $x$ increases. Here $x_1=1< x_2=2$, and both points lie in the fourth quadrant, hence $y_1< y_2$. Direct computation: $y_1=-2$, $y_2=-1$, also giving $y_1< y_2$. $\blacksquare$
 
 ### Problem 1
 
@@ -62,7 +62,7 @@ $k=-2<0$; by **Conclusion 27.2.1**, within each quadrant $y$ increases as $x$ in
 
 ### Solution to Problem 1
 
-$k=-2<0$; by **Conclusion 27.2.1**, the graph is a hyperbola lying in the second and fourth quadrants. $\blacksquare$
+$k=-2< 0$; by **Conclusion 27.2.1**, the graph is a hyperbola lying in the second and fourth quadrants. $\blacksquare$
 
 ### Problem 2
 
@@ -78,11 +78,11 @@ $k=-2<0$; by **Conclusion 27.2.1**, the graph is a hyperbola lying in the second
 
 By **Conclusion 27.2.1**.
 
-(1) First and third quadrants correspond to $k>0$, with $y$ decreasing as $x$ increases.
+(1) First and third quadrants correspond to $k> 0$, with $y$ decreasing as $x$ increases.
 
-(2) Second and fourth quadrants correspond to $k<0$, with $y$ increasing as $x$ increases.
+(2) Second and fourth quadrants correspond to $k< 0$, with $y$ increasing as $x$ increases.
 
-(3) $k=1\times3=3>0$, with $y$ decreasing as $x$ increases. $\blacksquare$
+(3) $k=1\times3=3> 0$, with $y$ decreasing as $x$ increases. $\blacksquare$
 
 ### Problem 3
 
@@ -90,13 +90,13 @@ By **Conclusion 27.2.1**.
 
 ### Solution to Problem 3
 
-From base area $xy=20$, $y=\frac{20}{x}$. Since side length $x>0$, the graph is only the first-quadrant branch of the hyperbola $y=\frac{20}{x}$. $\blacksquare$
+From base area $xy=20$, $y=\frac{20}{x}$. Since side length $x> 0$, the graph is only the first-quadrant branch of the hyperbola $y=\frac{20}{x}$. $\blacksquare$
 
 ### Problem 4
 
 (Exercise 27.2, Comprehensive Application, Problem 4) Point $\left(-2,-4\right)$ lies on the graph of $y=\frac kx$.
 
-(1) When $y<4$, find the range of $x$;
+(1) When $y< 4$, find the range of $x$;
 
 (2) Points $A\left(-3,y_1\right)$, $B\left(-5,y_2\right)$, $C\left(4,y_3\right)$ lie on this graph; compare $y_1,y_2,y_3$.
 
@@ -104,9 +104,9 @@ From base area $xy=20$, $y=\frac{20}{x}$. Since side length $x>0$, the graph is 
 
 Substituting $\left(-2,-4\right)$ gives $k=\left(-2\right)\times\left(-4\right)=8$, i.e. $y=\frac8x$.
 
-(1) When $x>0$, $y>0$; setting $\frac8x<4$ gives $x>2$. When $x<0$, $y<0<4$, which always holds. Hence $x<0$ or $x>2$.
+(1) When $x> 0$, $y> 0$; setting $\frac8x< 4$ gives $x> 2$. When $x< 0$, $y< 0< 4$, which always holds. Hence $x< 0$ or $x> 2$.
 
-(2) By **Conclusion 27.2.1**, $k=8>0$, and within each quadrant $y$ decreases as $x$ increases. $A,B$ both lie in the third quadrant, with $-3>-5$, hence $y_1<y_2<0$. $C$ lies in the first quadrant, with $y_3>0$. Altogether, $y_1<y_2<y_3$. $\blacksquare$
+(2) By **Conclusion 27.2.1**, $k=8> 0$, and within each quadrant $y$ decreases as $x$ increases. $A,B$ both lie in the third quadrant, with $-3> -5$, hence $y_1< y_2< 0$. $C$ lies in the first quadrant, with $y_3> 0$. Altogether, $y_1< y_2< y_3$. $\blacksquare$
 
 ### Problem 5
 
@@ -114,7 +114,7 @@ Substituting $\left(-2,-4\right)$ gives $k=\left(-2\right)\times\left(-4\right)=
 
 (1) When $x=3$, find the value of $y=\frac kx$;
 
-(2) When $-3<x<-1$, find the range of $y=\frac kx$.
+(2) When $-3< x< -1$, find the range of $y=\frac kx$.
 
 ### Solution to Problem 5
 
@@ -122,7 +122,7 @@ The intersection's vertical coordinate is $2$; substituting into $y=-x$ gives $x
 
 (1) When $x=3$, $y=-\frac43$.
 
-(2) $k=-4<0$; in the second quadrant $y$ increases as $x$ increases. When $x=-3$, $y=\frac43$; when $x=-1$, $y=4$. Hence $\frac43<y<4$. $\blacksquare$
+(2) $k=-4< 0$; in the second quadrant $y$ increases as $x$ increases. When $x=-3$, $y=\frac43$; when $x=-1$, $y=4$. Hence $\frac43< y< 4$. $\blacksquare$
 
 ### Problem 6
 
@@ -130,7 +130,7 @@ The intersection's vertical coordinate is $2$; substituting into $y=-x$ gives $x
 
 ### Solution to Problem 6
 
-When $k>0$, the graph of $y=kx$ is a line through the origin in the first and third quadrants, and the two branches of $y=\frac kx$ also lie in the first and third quadrants. When $k<0$, both graphs lie in the second and fourth quadrants. Hence the two graphs lie in the same quadrants. $\blacksquare$
+When $k> 0$, the graph of $y=kx$ is a line through the origin in the first and third quadrants, and the two branches of $y=\frac kx$ also lie in the first and third quadrants. When $k< 0$, both graphs lie in the second and fourth quadrants. Hence the two graphs lie in the same quadrants. $\blacksquare$
 
 ### Problem 7
 
@@ -138,10 +138,10 @@ When $k>0$, the graph of $y=kx$ is a line through the origin in the first and th
 
 (1) In which quadrant does the other branch lie? What is the range of the constant $a$?
 
-(2) Take arbitrary points $A\left(x_1,y_1\right)$ and $B\left(x_2,y_2\right)$ on the graph; if $y_1>y_2$, what is the relation between $x_1$ and $x_2$?
+(2) Take arbitrary points $A\left(x_1,y_1\right)$ and $B\left(x_2,y_2\right)$ on the graph; if $y_1> y_2$, what is the relation between $x_1$ and $x_2$?
 
 ### Solution to Problem 7
 
-(1) One branch in the first quadrant; by **Conclusion 27.2.1**, $k=a-1>0$, so the other branch lies in the third quadrant, and $a>1$.
+(1) One branch in the first quadrant; by **Conclusion 27.2.1**, $k=a-1> 0$, so the other branch lies in the third quadrant, and $a> 1$.
 
-(2) $k>0$; within each quadrant $y$ decreases as $x$ increases. If $A,B$ lie on the same branch and $y_1>y_2$, then $x_1<x_2$. $\blacksquare$
+(2) $k> 0$; within each quadrant $y$ decreases as $x$ increases. If $A,B$ lie on the same branch and $y_1> y_2$, then $x_1< x_2$. $\blacksquare$

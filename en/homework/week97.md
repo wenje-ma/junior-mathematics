@@ -1,8 +1,8 @@
 # Assignment 97
 
 > **Rule 19.2.2** (Multiplication in Reverse) <br> \(\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}\) (\(a\ge 0,\ b\ge 0\)).
->
-> **Rule 19.2.4** (Division in Reverse) <br> \(\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}\) (\(a\ge 0,\ b>0\)).
+> 
+> **Rule 19.2.4** (Division in Reverse) <br> \(\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}\) (\(a\ge 0,\ b> 0\)).
 
 ### Activity 1
 

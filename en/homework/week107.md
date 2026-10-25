@@ -1,17 +1,17 @@
 # Assignment 107
 
 > **Conclusion 21.1.1** (Interior Angle Sum of a Quadrilateral) <br> The interior angle sum of a quadrilateral is \(360^{\circ}\).
->
+> 
 > **Conclusion 21.1.3** (Interior Angle Sum of a Polygon) <br> The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
->
+> 
 > **Property 21.2.1** (Opposite Sides) <br> Opposite sides of a parallelogram are equal.
->
+> 
 > **Property 21.2.3** (Diagonals) <br> The diagonals of a parallelogram bisect each other.
->
+> 
 > **Criterion 21.2.3** (Diagonals) <br> A quadrilateral whose diagonals bisect each other is a parallelogram.
->
+> 
 > **Property 21.3.2** (Diagonals of a Rectangle) <br> The diagonals of a rectangle are equal.
->
+> 
 > **Property 21.3.4** (Diagonals of a Rhombus) <br> The two diagonals of a rhombus are perpendicular.
 
 ### Review Problem 1

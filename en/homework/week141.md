@@ -1,8 +1,8 @@
 # Assignment 141
 
 > **Definition 27.1.1** (Inverse Proportional Function) <br>A function of the form $y=\frac kx$ ($k$ is a constant, $k\ne0$) is called an inverse proportional function.
->
-> **Conclusion 27.2.1** (Properties of the Inverse Proportional Function) <br>When $k>0$, the graph lies in the first and third quadrants, and within each quadrant $y$ decreases as $x$ increases; when $k<0$, it lies in the second and fourth quadrants, and within each quadrant $y$ increases as $x$ increases.
+> 
+> **Conclusion 27.2.1** (Properties of the Inverse Proportional Function) <br>When $k> 0$, the graph lies in the first and third quadrants, and within each quadrant $y$ decreases as $x$ increases; when $k< 0$, it lies in the second and fourth quadrants, and within each quadrant $y$ increases as $x$ increases.
 
 ### Exercise 1
 
@@ -20,7 +20,7 @@ $$
 S=\frac{360}{h}.
 $$
 
-(2) Set $S\le50$, i.e. $\frac{360}{h}\le50$; since $h>0$, we get $h\ge7.2$. Hence the depth of the funnel is at least $7.2\ \text{cm}$. $\blacksquare$
+(2) Set $S\le50$, i.e. $\frac{360}{h}\le50$; since $h> 0$, we get $h\ge7.2$. Hence the depth of the funnel is at least $7.2\ \text{cm}$. $\blacksquare$
 
 ### Exercise 2
 
@@ -126,7 +126,7 @@ When $p=100$, $S=2$; when $p=300$, $S=\frac23$; when $p=200$, $S=1$; when $p=150
 
 ### Solution to Problem 5
 
-From $t=\frac sv$ and $v>0$, the graph is one branch of an inverse proportional function in the first quadrant, i.e. a decreasing curve. $\blacksquare$
+From $t=\frac sv$ and $v> 0$, the graph is one branch of an inverse proportional function in the first quadrant, i.e. a decreasing curve. $\blacksquare$
 
 ### Problem 6
 
@@ -178,7 +178,7 @@ $$
 I=\frac{36}{R}.
 $$
 
-Set $I\le10$, i.e. $\frac{36}{R}\le10$; since $R>0$, we get $R\ge3.6\ \Omega$. Hence the variable resistance should be at least $3.6\ \Omega$. $\blacksquare$
+Set $I\le10$, i.e. $\frac{36}{R}\le10$; since $R> 0$, we get $R\ge3.6\ \Omega$. Hence the variable resistance should be at least $3.6\ \Omega$. $\blacksquare$
 
 ### Problem 9
 
@@ -211,7 +211,7 @@ $$
 
 ### Solution to Activity 1
 
-Let the area of each rectangle be the constant $k$, one side length be $x$, and the adjacent side length be $y$; then $xy=k$, i.e. $y=\frac kx$. The coordinates $\left(x,y\right)$ of the opposite vertices all satisfy $y=\frac kx$, with $x>0,y>0$, so these points all lie on the first-quadrant branch of the graph of the inverse proportional function $y=\frac kx$. Therefore the connected curve is exactly the first-quadrant branch of the graph of the inverse proportional function. $\blacksquare$
+Let the area of each rectangle be the constant $k$, one side length be $x$, and the adjacent side length be $y$; then $xy=k$, i.e. $y=\frac kx$. The coordinates $\left(x,y\right)$ of the opposite vertices all satisfy $y=\frac kx$, with $x> 0,y> 0$, so these points all lie on the first-quadrant branch of the graph of the inverse proportional function $y=\frac kx$. Therefore the connected curve is exactly the first-quadrant branch of the graph of the inverse proportional function. $\blacksquare$
 
 ### Activity 2
 

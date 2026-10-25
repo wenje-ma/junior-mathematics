@@ -150,7 +150,7 @@ $$\left(2n+1\right)^2-\left(2n-1\right)^2=\left[\left(2n+1\right)+\left(2n-1\rig
 
 $$p^2-1+q^2+2pq=\left(p^2+2pq+q^2\right)-1=\left(p+q\right)^2-1=\left(p+q+1\right)\left(p+q-1\right).$$
 
-利用上述分解因式的方法证明: 如果 $a,b,c$ 是 $\triangle ABC$ 的三条边的长, 那么 $a^2-b^2+c^2-2ac<0$.
+利用上述分解因式的方法证明: 如果 $a,b,c$ 是 $\triangle ABC$ 的三条边的长, 那么 $a^2-b^2+c^2-2ac< 0$.
 
 ### 解答 复习题八
 
@@ -158,8 +158,8 @@ $$p^2-1+q^2+2pq=\left(p^2+2pq+q^2\right)-1=\left(p+q\right)^2-1=\left(p+q+1\righ
 
 $$a^2-b^2+c^2-2ac=\left(a^2-2ac+c^2\right)-b^2=\left(a-c\right)^2-b^2=\left(a-c+b\right)\left(a-c-b\right).$$
 
-由三角形两边之和大于第三边, $a+b>c$ 即 $a-c+b>0$; 又 $a<b+c$ 即 $a-c-b<0$. 两因式一正一负, 故
+由三角形两边之和大于第三边, $a+b> c$ 即 $a-c+b> 0$; 又 $a< b+c$ 即 $a-c-b< 0$. 两因式一正一负, 故
 
-$$a^2-b^2+c^2-2ac=\left(a+b-c\right)\left(a-b-c\right)<0.$$
+$$a^2-b^2+c^2-2ac=\left(a+b-c\right)\left(a-b-c\right)< 0.$$
 
 $\blacksquare$

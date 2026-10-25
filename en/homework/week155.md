@@ -1,13 +1,13 @@
 # Assignment 155
 
 > **Definition 30.1.1** (Position of a Line Relative to a Circle) <br>A line and a circle with no common point are called disjoint; with exactly one common point they are tangent, the line is called the tangent line to the circle, and the point is called the point of tangency; with two common points they are called intersecting.
->
-> **Property 30.1.1** (Position-Relation Criterion) <br>Let the radius of $\odot O$ be $r$ and the distance from the center to the line be $d$; then $d>r$ means disjoint, $d=r$ means tangent, and $d<r$ means intersecting.
->
+> 
+> **Property 30.1.1** (Position-Relation Criterion) <br>Let the radius of $\odot O$ be $r$ and the distance from the center to the line be $d$; then $d> r$ means disjoint, $d=r$ means tangent, and $d< r$ means intersecting.
+> 
 > **Theorem 30.1.1** (Tangent Property) <br>A tangent line to a circle is perpendicular to the radius through the point of tangency.
->
+> 
 > **Theorem 30.1.2** (Tangent Criterion) <br>A line passing through the outer end of a radius and perpendicular to that radius is a tangent line to the circle.
->
+> 
 > **Theorem 30.1.3** (Tangent-Length Theorem) <br>From a point outside a circle, the two tangent segments to the circle have equal length, and the line joining this point to the center bisects the angle between the two tangent lines.
 
 ### Exercise 1
@@ -26,11 +26,11 @@ what is the position of the line relative to the circle in each case? How many c
 
 By **Property 30.1.1** (Position-Relation Criterion), $r=6.5$.
 
-(1) $d=4.5<6.5$, intersecting, two common points.
+(1) $d=4.5< 6.5$, intersecting, two common points.
 
 (2) $d=6.5=r$, tangent, one common point.
 
-(3) $d=8>6.5$, disjoint, no common points. $\blacksquare$
+(3) $d=8> 6.5$, disjoint, no common points. $\blacksquare$
 
 ### Exercise 2
 
@@ -48,9 +48,9 @@ By **Property 30.1.1** (Position-Relation Criterion).
 
 The distance from $M$ to $OA$ is $d=OM\sin30^\circ=2.5$.
 
-(1) $r=2<2.5$, disjoint.
+(1) $r=2< 2.5$, disjoint.
 
-(2) $r=4>2.5$, intersecting.
+(2) $r=4> 2.5$, intersecting.
 
 (3) $r=2.5=d$, tangent. $\blacksquare$
 
@@ -126,11 +126,11 @@ By **Property 30.1.1** (Position-Relation Criterion).
 
 $AB=5$, and the distance from $C$ to $AB$ is $d=\frac{AC\cdot BC}{AB}=\frac{12}{5}=2.4$.
 
-(1) $r=2<2.4$, disjoint.
+(1) $r=2< 2.4$, disjoint.
 
 (2) $r=2.4=d$, tangent.
 
-(3) $r=3>2.4$, intersecting. $\blacksquare$
+(3) $r=3> 2.4$, intersecting. $\blacksquare$
 
 ### Problem 2
 
@@ -250,10 +250,10 @@ The two equal circles have equal radii, so $O_1O_2=r$. $\triangle O_1AO_2$ is eq
 
 ### Inquiry and Discovery 1
 
-(Inquiry and Discovery, Position Relationships Between Two Circles) How many position relationships are there between two circles? How can they be characterized by the center distance $d$ and the radii $r_1$, $r_2$ ($r_1<r_2$) of the two circles?
+(Inquiry and Discovery, Position Relationships Between Two Circles) How many position relationships are there between two circles? How can they be characterized by the center distance $d$ and the radii $r_1$, $r_2$ ($r_1< r_2$) of the two circles?
 
 ### Solution to Inquiry and Discovery 1
 
-Let the radii of the two circles be $r_1<r_2$, and the center distance be $d$.
+Let the radii of the two circles be $r_1< r_2$, and the center distance be $d$.
 
-External separation: $d>r_1+r_2$; external tangency: $d=r_1+r_2$; intersection: $r_2-r_1<d<r_1+r_2$; internal tangency: $d=r_2-r_1$; containment: $d<r_2-r_1$. $\blacksquare$
+External separation: $d> r_1+r_2$; external tangency: $d=r_1+r_2$; intersection: $r_2-r_1< d< r_1+r_2$; internal tangency: $d=r_2-r_1$; containment: $d< r_2-r_1$. $\blacksquare$

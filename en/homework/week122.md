@@ -1,7 +1,7 @@
 # Assignment 122
 
 > **Definition 24.4.1** (Within-Group Sum of Squared Deviations) <br>Splitting the data into two groups, the sum of the two groups' own sums of squared deviations is called the within-group sum of squared deviations.
->
+> 
 > **Conclusion 24.4.2** (Grouping Principle) <br>Grouping is done according to the principle of minimizing the within-group sum of squared deviations (equivalently, maximizing the between-group sum of squared deviations).
 
 ### Exercise 1

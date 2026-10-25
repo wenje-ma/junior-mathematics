@@ -1,9 +1,9 @@
 # Assignment 11
 
 > **Definition 3.1.1** (Algebraic Expressions) <br>An expression formed by connecting numbers or letters representing numbers with operation symbols is called an algebraic expression. A single number or letter alone is also an algebraic expression.
->
+> 
 > **Definition 3.1.2** (Forming Algebraic Expressions) <br>Expressing the quantitative relationships in a problem as expressions containing numbers, letters, and operation symbols.
->
+> 
 > **Definition 3.1.3** (Quantities in Inverse Proportion) <br>Two related quantities: if one quantity changes and the other changes along with it, and the product of the two quantities is constant, then the two quantities are called quantities in inverse proportion, and the relationship between them is called an inverse proportion relationship. If the letters $x$ and $y$ are used to represent the two related quantities, and $k$ is used to represent their product ($k$ is a fixed value, and $k\ne 0$), then the inverse proportion relationship can be expressed as $xy=k$.
 
 ### Exercise 1

@@ -132,9 +132,9 @@ Second row: $R=20\Rightarrow I=5$; $R=25\Rightarrow I=4$; $R=30\Rightarrow I\app
 
 ### Solution to Problem 5
 
-From $vt=s$, with $s$ constant, we get $t=\frac{s}{v}$, $v>0$, $t>0$.
+From $vt=s$, with $s$ constant, we get $t=\frac{s}{v}$, $v> 0$, $t> 0$.
 
-By **Definition 26.1.2**, $k=s>0$, so the graph is the branch of the hyperbola in the first quadrant, decreasing as $v$ increases. So choose (C). $\blacksquare$
+By **Definition 26.1.2**, $k=s> 0$, so the graph is the branch of the hyperbola in the first quadrant, decreasing as $v$ increases. So choose (C). $\blacksquare$
 
 ### Problem 6
 
@@ -210,7 +210,7 @@ Let $I=\frac{U}{R}$. Substituting $\left(9,4\right)$ gives $4=\frac{U}{9}$, so $
 
 (1) The total distance times the fuel consumption per kilometer equals the total fuel, i.e. $sb=70$, so $s=\frac{70}{b}$.
 
-(2) To the provincial capital is $300\ \text{km}$, consuming $0.1\times300=30\ \text{L}$, leaving $70-30=40\ \text{L}$ in the tank. The return trip doubles the fuel consumption to $0.2\ \text{L/km}$, and the $300\ \text{km}$ return trip requires $0.2\times300=60\ \text{L}$. Since $40<60$, he cannot return to the county town; at least $60-40=20\ \text{L}$ more fuel is needed. $\blacksquare$
+(2) To the provincial capital is $300\ \text{km}$, consuming $0.1\times300=30\ \text{L}$, leaving $70-30=40\ \text{L}$ in the tank. The return trip doubles the fuel consumption to $0.2\ \text{L/km}$, and the $300\ \text{km}$ return trip requires $0.2\times300=60\ \text{L}$. Since $40< 60$, he cannot return to the county town; at least $60-40=20\ \text{L}$ more fuel is needed. $\blacksquare$
 
 ### Reading and Reflection 1
 

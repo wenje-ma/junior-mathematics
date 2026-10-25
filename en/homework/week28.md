@@ -1,31 +1,31 @@
 # Assignment 28
 
 > **Definition 6.1.1** (Solid Figure) <br>A geometric figure whose parts do not all lie in the same plane is called a solid figure.
->
+> 
 > **Definition 6.1.2** (Plane Figure) <br>A geometric figure whose parts all lie in the same plane is called a plane figure.
->
+> 
 > **Definition 6.1.3** (Net) <br>The plane figure obtained by cutting open the surface of a solid figure is called its net.
->
+> 
 > **Definition 6.1.4** (Points, Lines, Planes, and Solids) <br>Surfaces enclose a solid; planes intersect to form lines; lines intersect to form points.
->
+> 
 > **Definition 6.2.1** (Line) <br>Two points determine a line.
->
+> 
 > **Definition 6.2.5** (Basic Fact about Segments) <br>Between two points, the segment is the shortest.
->
+> 
 > **Definition 6.2.6** (Distance) <br>The length of the segment joining two points is called the distance between them.
->
+> 
 > **Definition 6.2.7** (Midpoint of a Segment) <br>If a point $M$ divides segment $AB$ into two equal segments, $M$ is called the midpoint of $AB$.
->
+> 
 > **Definition 6.3.1** (Angle) <br>The figure formed by two rays with a common endpoint is called an angle.
->
+> 
 > **Definition 6.3.2** (Measuring Angles) <br>$1^{\circ}=60'$, $1'=60''$.
->
+> 
 > **Definition 6.3.4** (Angle Bisector) <br>A ray starting from the vertex of an angle that divides the angle into two equal angles is called the angle bisector.
->
+> 
 > **Definition 6.3.5** (Complementary Angle) <br>If the sum of two angles equals $90^{\circ}$, they are complementary to each other.
->
+> 
 > **Definition 6.3.6** (Supplementary Angle) <br>If the sum of two angles equals $180^{\circ}$, they are supplementary to each other.
->
+> 
 > **Definition 6.3.7** (Properties of Complementary and Supplementary Angles) <br>Complements of the same angle (or of equal angles) are equal; supplements of the same angle (or of equal angles) are equal.
 
 ### Review Problem 1
@@ -132,7 +132,7 @@ By **Definition 6.3.2** (Measuring Angles), **Definition 6.3.5** (Complementary 
 
 (Review Problem, Review and Consolidation, Problem 7) True or false:
 
-(1) $37^{\circ}28'>37.5^{\circ}$;
+(1) $37^{\circ}28'> 37.5^{\circ}$;
 
 (2) If two angles are both supplements of the same angle, then they are equal;
 
@@ -144,7 +144,7 @@ By **Definition 6.3.2** (Measuring Angles), **Definition 6.3.5** (Complementary 
 
 By **Definition 6.3.2** (Measuring Angles), **Definition 6.3.6** (Supplementary Angle), and **Definition 6.3.7** (Properties of Supplementary Angles).
 
-(1) $37.5^{\circ}=37^{\circ}30'$. $37^{\circ}28'<37^{\circ}30'$, so false.
+(1) $37.5^{\circ}=37^{\circ}30'$. $37^{\circ}28'< 37^{\circ}30'$, so false.
 
 (2) By **Definition 6.3.7** (supplements of the same angle are equal), true.
 

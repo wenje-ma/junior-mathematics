@@ -1,15 +1,15 @@
 # Assignment 74
 
 > **Definition 15.3.1** (Isosceles Triangle) <br>A triangle with two equal sides is called an isosceles triangle; the two equal sides are called the legs, and the other side is called the base.
->
+> 
 > **Conclusion 15.3.1** (Equal Sides Opposite Equal Angles) <br>The two base angles of an isosceles triangle are equal.
->
+> 
 > **Conclusion 15.3.2** (Three Lines in One) <br>The median on the base, the altitude on the base, and the bisector of the vertex angle of an isosceles triangle coincide. An isosceles triangle is an axisymmetric figure, and the line of the median on the base is its axis of symmetry.
->
+> 
 > **Conclusion 15.3.3** (Equal Angles Opposite Equal Sides) <br>A triangle with two equal angles is an isosceles triangle.
->
+> 
 > **Conclusion 15.3.4** (Equilateral Triangle) <br>An equilateral triangle has three equal angles, each equal to $60^\circ$; a triangle with three equal angles is an equilateral triangle; an isosceles triangle with one angle equal to $60^\circ$ is an equilateral triangle.
->
+> 
 > **Conclusion 15.3.5** (Right Triangle Containing a $30^\circ$ Angle) <br>In a right triangle, if one acute angle equals $30^\circ$, then the leg opposite it equals half the hypotenuse.
 
 ### Exercise 1
@@ -302,7 +302,7 @@ In $\text{Rt}\triangle ABC$, $\angle C=90^\circ$, $\angle B=30^\circ$, $\angle A
 
 (Inquiry and Discovery: The Unequal Relationship Between Sides and Angles in a Triangle)
 
-(1) In $\triangle ABC$, given $BC>AB>AC$, then what is the size relationship among $\angle A$, $\angle B$, $\angle C$?
+(1) In $\triangle ABC$, given $BC> AB> AC$, then what is the size relationship among $\angle A$, $\angle B$, $\angle C$?
 
 (2) If the angle opposite the largest side in a triangle is acute, must the triangle be an acute triangle?
 
@@ -312,7 +312,7 @@ In $\text{Rt}\triangle ABC$, $\angle C=90^\circ$, $\angle B=30^\circ$, $\angle A
 
 In a triangle, the angle opposite a larger side is larger, and the side opposite a larger angle is larger.
 
-(1) From $BC>AB>AC$, the angles opposite them are respectively $\angle A$, $\angle C$, $\angle B$, so $\angle A>\angle C>\angle B$.
+(1) From $BC> AB> AC$, the angles opposite them are respectively $\angle A$, $\angle C$, $\angle B$, so $\angle A> \angle C> \angle B$.
 
 (2) Yes. The angle opposite the largest side is the largest angle; if the largest angle is acute, then all three angles are acute, and the triangle is an acute triangle.
 

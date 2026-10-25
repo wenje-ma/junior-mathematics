@@ -1,23 +1,23 @@
 # 作业 167
 
 > **定义 28.1.1** (正弦) <br>在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, 我们把锐角 $A$ 的对边与斜边的比叫做 $\angle A$ 的正弦 (sine), 记作 $\sin A$, 即
->
+> 
 > $$\sin A=\frac{\angle A\text{ 的对边}}{\text{斜边}}=\frac{a}{c}.$$
->
+> 
 > **定义 28.1.2** (余弦) <br>在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, 我们把锐角 $A$ 的邻边与斜边的比叫做 $\angle A$ 的余弦 (cosine), 记作 $\cos A$, 即
->
+> 
 > $$\cos A=\frac{\angle A\text{ 的邻边}}{\text{斜边}}=\frac{b}{c}.$$
->
+> 
 > **定义 28.1.3** (正切) <br>在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, 我们把锐角 $A$ 的对边与邻边的比叫做 $\angle A$ 的正切 (tangent), 记作 $\tan A$, 即
->
+> 
 > $$\tan A=\frac{\angle A\text{ 的对边}}{\angle A\text{ 的邻边}}=\frac{a}{b}.$$
->
+> 
 > $\angle A$ 的正弦、余弦、正切都是 $\angle A$ 的锐角三角函数.
->
+> 
 > **结论 28.1.1** (锐角三角函数值的确定性) <br>在 $\text{Rt}\triangle ABC$ 中, 当锐角 $A$ 的度数一定时, 无论这个直角三角形大小如何, $\angle A$ 的对边与斜边的比、邻边与斜边的比、对边与邻边的比都是固定值.
->
+> 
 > **结论 28.1.2** (特殊角的三角函数值) <br>
->
+> 
 > | 锐角 $A$ | $30^{\circ}$ | $45^{\circ}$ | $60^{\circ}$ |
 > |---|---|---|---|
 > | $\sin A$ | $\frac{1}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ |

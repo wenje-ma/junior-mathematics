@@ -1,9 +1,9 @@
 # Assignment 109
 
 > **Definition 22.2.1** (Graph of a Function) <br>Generally, for a function, if each pair of corresponding values of the independent variable and the function is taken as the x- and y-coordinates of a point, then the figure formed by these points in the coordinate plane is the graph of the function.
->
+> 
 > **Conclusion 22.2.2** (Steps for Plotting a Graph by the Point-Plotting Method) <br>Step 1, make a table — list some values of the independent variable and their corresponding function values; Step 2, plot points — in the plane rectangular coordinate system, take the independent variable value as the x-coordinate and the corresponding function value as the y-coordinate, and plot the points corresponding to the table values; Step 3, join the points — in order of increasing x-coordinate, connect the plotted points with a smooth curve.
->
+> 
 > **Conclusion 22.2.3** (Three Ways of Representing a Function) <br>Analytic method: express the functional relation by a mathematical expression; Tabular method: list the corresponding values of the independent variable and the function in a table; Graphical method: express the functional relation by a graph.
 
 ### Exercise 1
@@ -36,7 +36,7 @@ Substitute $x=2.5$ into $y=2x-1$: $y=2\times2.5-1=4$, which matches the y-coordi
 
 (Exercise 22.2, Problem 2) (1) Draw the graph of the function $y=x^2+1$.
 
-(2) Observing the graph of $y=x^2+1$, when $x<0$, does $y$ increase as $x$ increases or does $y$ decrease as $x$ increases? What about when $x>0$?
+(2) Observing the graph of $y=x^2+1$, when $x< 0$, does $y$ increase as $x$ increases or does $y$ decrease as $x$ increases? What about when $x> 0$?
 
 ### Solution to Exercise 2
 
@@ -50,7 +50,7 @@ Plot points in the plane rectangular coordinate system and connect them with a s
 
 The figure shows a plane rectangular coordinate system with integer tick marks on both axes; an upward-opening parabola symmetric about the $y$-axis, with vertex $\left(0,1\right)$ and passing through $\left(-1,2\right)$, $\left(1,2\right)$, $\left(-2,5\right)$, $\left(2,5\right)$, namely the graph of $y=x^2+1$.
 
-(2) From the graph, when $x<0$, the curve descends from left to right, i.e. $y$ decreases as $x$ increases; when $x>0$, the curve rises from left to right, i.e. $y$ increases as $x$ increases. $\blacksquare$
+(2) From the graph, when $x< 0$, the curve descends from left to right, i.e. $y$ decreases as $x$ increases; when $x> 0$, the curve rises from left to right, i.e. $y$ increases as $x$ increases. $\blacksquare$
 
 ### Exercise 3
 
@@ -128,11 +128,11 @@ $\blacksquare$
 
 An equilateral triangle has three equal sides, so its perimeter is three times the side length.
 
-By **Conclusion 22.2.3** (Three Ways of Representing a Function), analytic method: $C=3a$, where $a>0$.
+By **Conclusion 22.2.3** (Three Ways of Representing a Function), analytic method: $C=3a$, where $a> 0$.
 
-Graphical method: in the plane rectangular coordinate system, take $a$ as the x-coordinate and $C$ as the y-coordinate, and draw the ray of $C=3a$ for $a>0$.
+Graphical method: in the plane rectangular coordinate system, take $a$ as the x-coordinate and $C$ as the y-coordinate, and draw the ray of $C=3a$ for $a> 0$.
 
-The figure shows a plane rectangular coordinate system with horizontal axis $a$ and vertical axis $C$; a ray starting at the origin and extending up-right in the first quadrant (slope $3$), namely the graph of $C=3a$ ($a>0$).
+The figure shows a plane rectangular coordinate system with horizontal axis $a$ and vertical axis $C$; a ray starting at the origin and extending up-right in the first quadrant (slope $3$), namely the graph of $C=3a$ ($a> 0$).
 
 $\blacksquare$
 
@@ -160,7 +160,7 @@ When the boat reaches the dock, $s=0$, i.e. $200-25t=0$, giving $t=8\ \text{min}
 
 (1) $y=0.5x$;
 
-(2) $y=\frac{3}{x}\ \left(x>0\right)$.
+(2) $y=\frac{3}{x}\ \left(x> 0\right)$.
 
 ### Solution to Problem 1
 
@@ -168,9 +168,9 @@ When the boat reaches the dock, $s=0$, i.e. $200-25t=0$, giving $t=8\ \text{min}
 
 The figure shows a plane rectangular coordinate system; a straight line through the origin with slope $0.5$, passing through the first and third quadrants, namely the graph of $y=0.5x$.
 
-(2) Make a table, plot and join points; the graph of $y=\frac{3}{x}\ \left(x>0\right)$ is a curve in the first quadrant.
+(2) Make a table, plot and join points; the graph of $y=\frac{3}{x}\ \left(x> 0\right)$ is a curve in the first quadrant.
 
-The figure shows a plane rectangular coordinate system; a branch of a hyperbola in the first quadrant, descending from upper-left to lower-right with the two coordinate axes as asymptotes, passing through points such as $\left(1,3\right)$ and $\left(3,1\right)$, namely the graph of $y=\frac{3}{x}$ ($x>0$).
+The figure shows a plane rectangular coordinate system; a branch of a hyperbola in the first quadrant, descending from upper-left to lower-right with the two coordinate axes as asymptotes, passing through points such as $\left(1,3\right)$ and $\left(3,1\right)$, namely the graph of $y=\frac{3}{x}$ ($x> 0$).
 
 $\blacksquare$
 

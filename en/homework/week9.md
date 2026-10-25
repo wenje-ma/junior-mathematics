@@ -1,18 +1,18 @@
 # Assignment 9
 
 > **Definition 2.1.1** (Rules for Addition of Rational Numbers) <br>When two numbers of the same sign are added, the sum takes the same sign; when two numbers of opposite signs are added, the sum takes the sign of the addend with the larger absolute value; adding two numbers that are opposites of each other gives $0$.
->
+> 
 > **Definition 2.1.4** (Rules for Subtraction of Rational Numbers) <br>Subtracting a number is equivalent to adding the opposite number of that number.
->
+> 
 > **Definition 2.2.1** (Rules for Multiplication of Rational Numbers) <br>When two numbers are multiplied, like signs give positive and opposite signs give negative, and the absolute value of the product equals the product of the absolute values of the factors.
->
+> 
 > **Definition 2.2.7** (Rules for Division of Rational Numbers) <br>Dividing by a number not equal to $0$ is equivalent to multiplying by the reciprocal of that number.
->
+> 
 > **Definition 2.3.1** (Powers) <br>The operation of finding the product of $n$ identical factors is called exponentiation, and the result is called a power.
->
+> 
 > **Definition 2.3.3** (Order of Mixed Operations) <br>First exponentiation, then multiplication and division, and finally addition and subtraction; operations at the same level from left to right; if there are parentheses, first carry out the operations inside the parentheses.
->
-> **Definition 2.3.4** (Scientific Notation) <br>Expressing a number greater than $10$ in the form $a\times 10^{n}$ ($1\le a<10$, where $n$ is a positive integer).
+> 
+> **Definition 2.3.4** (Scientific Notation) <br>Expressing a number greater than $10$ in the form $a\times 10^{n}$ ($1\le a< 10$, where $n$ is a positive integer).
 
 ### Review Problem 1
 
@@ -208,9 +208,9 @@ Hence the $1$ astronomical unit is $1.496\times 10^{8}\ \text{km}$. $\blacksquar
 
 By **Definition 2.3.1** (Powers) and **Definition 1.2.7** (Comparing the Magnitude of Rational Numbers).
 
-(1) Take $a=\frac{1}{2}$; then $a^{2}=\frac{1}{4}$ and $a^{3}=\frac{1}{8}$. Since $\frac{1}{8}<\frac{1}{4}<\frac{1}{2}$, we get $a^{3}<a^{2}<a$.
+(1) Take $a=\frac{1}{2}$; then $a^{2}=\frac{1}{4}$ and $a^{3}=\frac{1}{8}$. Since $\frac{1}{8}< \frac{1}{4}< \frac{1}{2}$, we get $a^{3}< a^{2}< a$.
 
-(2) Take $b=-\frac{1}{2}$; then $b^{2}=\frac{1}{4}$ and $b^{3}=-\frac{1}{8}$. Since $-\frac{1}{2}<-\frac{1}{8}<\frac{1}{4}$, we get $b<b^{3}<b^{2}$. $\blacksquare$
+(2) Take $b=-\frac{1}{2}$; then $b^{2}=\frac{1}{4}$ and $b^{3}=-\frac{1}{8}$. Since $-\frac{1}{2}< -\frac{1}{8}< \frac{1}{4}$, we get $b< b^{3}< b^{2}$. $\blacksquare$
 
 ### Review Problem 14
 
@@ -228,7 +228,7 @@ By **Definition 2.3.1** (Powers) and **Definition 1.2.7** (Comparing the Magnitu
 
 (2) Correct. By **Definition 2.3.2** (Sign Rules for Powers), the positive even powers of the two opposite numbers $a$ and $-a$ are both positive and have the same absolute value, so $a^{2n}=\left(-a\right)^{2n}$.
 
-(3) Wrong. Counterexample: $a=1$, $b=-1$; we have $a>b$, but $\frac{1}{a}=1$ and $\frac{1}{b}=-1$, and at this point $\frac{1}{a}>\frac{1}{b}$, so the original statement does not hold. $\blacksquare$
+(3) Wrong. Counterexample: $a=1$, $b=-1$; we have $a> b$, but $\frac{1}{a}=1$ and $\frac{1}{b}=-1$, and at this point $\frac{1}{a}> \frac{1}{b}$, so the original statement does not hold. $\blacksquare$
 
 ### Review Problem 15
 

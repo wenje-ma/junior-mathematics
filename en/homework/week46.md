@@ -1,9 +1,9 @@
 # Assignment 46
 
 > **Definition 10.2.1** (Idea of Elimination) <br>The idea of reducing the number of unknowns in a system of linear equations in two variables from many to few and solving them one by one.
->
+> 
 > **Definition 10.2.2** (Substitution Elimination) <br>Express one unknown of one equation in terms of an expression containing the other unknown, then substitute it into the other equation to eliminate the unknown; abbreviated as substitution method.
->
+> 
 > **Definition 10.2.3** (Addition-Subtraction Elimination) <br>When the coefficients of the same unknown in the two equations are opposite or equal, add or subtract both sides respectively to eliminate this unknown; abbreviated as addition-subtraction method.
 
 ### Exercise 1

@@ -1,13 +1,13 @@
 # 作业 151
 
 > **定理 29.2.1** (垂径定理) <br>垂直于弦的直径平分弦, 并且平分弦所对的两条弧.
->
+> 
 > **定理 29.2.2** (圆心角、弧、弦的关系) <br>在同圆或等圆中, 相等的圆心角所对的弧相等, 所对的弦也相等.
->
+> 
 > **定理 29.2.3** (圆周角定理) <br>一条弧所对的圆周角等于它所对的圆心角的一半.
->
+> 
 > **推论 29.2.2** (圆周角推论) <br>同弧或等弧所对的圆周角相等; 半圆所对的圆周角是直角; $90^\circ$ 的圆周角所对的弦是直径.
->
+> 
 > **性质 29.2.3** (圆内接四边形的性质) <br>圆内接四边形的对角互补.
 
 ### 习题一
@@ -144,13 +144,13 @@ $AD=BC$, 故 $\overset{\frown}{AD}=\overset{\frown}{BC}$. 两边同时加 $\over
 
 ### 习题十二
 
-(习题 29.2 综合运用第 12 题) 如图, $AB$, $CD$ 是 $\odot O$ 上的两条弦, $OM\perp AB$, $ON\perp CD$, 垂足分别为 $M$, $N$. 如果 $AB>CD$, $OM$ 和 $ON$ 的大小有什么关系? 为什么?
+(习题 29.2 综合运用第 12 题) 如图, $AB$, $CD$ 是 $\odot O$ 上的两条弦, $OM\perp AB$, $ON\perp CD$, 垂足分别为 $M$, $N$. 如果 $AB> CD$, $OM$ 和 $ON$ 的大小有什么关系? 为什么?
 
 ### 解答 习题十二
 
 由**定理 29.2.1** (垂径定理).
 
-设半径为 $R$, $OM=\sqrt{R^2-\left(AB/2\right)^2}$, $ON=\sqrt{R^2-\left(CD/2\right)^2}$. $AB>CD$ 时 $\left(AB/2\right)^2>\left(CD/2\right)^2$, 故 $OM<ON$. $\blacksquare$
+设半径为 $R$, $OM=\sqrt{R^2-\left(AB/2\right)^2}$, $ON=\sqrt{R^2-\left(CD/2\right)^2}$. $AB> CD$ 时 $\left(AB/2\right)^2> \left(CD/2\right)^2$, 故 $OM< ON$. $\blacksquare$
 
 ### 习题十三
 
@@ -160,7 +160,7 @@ $AD=BC$, 故 $\overset{\frown}{AD}=\overset{\frown}{BC}$. 两边同时加 $\over
 
 由**推论 29.2.2** (圆周角推论).
 
-过 $A$ 作 $AB\perp MN$ 于 $B$. 在 $\text{Rt}\triangle AOB$ 中, $\angle AOB=30^\circ$, $AO=200$, 故 $AB=AO\sin30^\circ=100<200$, 居民楼会受到噪声影响.
+过 $A$ 作 $AB\perp MN$ 于 $B$. 在 $\text{Rt}\triangle AOB$ 中, $\angle AOB=30^\circ$, $AO=200$, 故 $AB=AO\sin30^\circ=100< 200$, 居民楼会受到噪声影响.
 
 以 $A$ 为圆心、$200$ 为半径作圆, 交 $MN$ 于 $C$, $D$. $BC=\sqrt{200^2-100^2}=100\sqrt3$, $CD=200\sqrt3$. 车速 $72\,\text{km/h}=20\,\text{m/s}$, 故影响时间为
 
@@ -172,10 +172,10 @@ $\blacksquare$
 
 ### 习题十四
 
-(习题 29.2 拓广探索第 14 题) 如图, 一个海港在 $\overset{\frown}{AB}$ 范围内是浅滩. 为了使深水船只不进入浅滩, 需要测量船所在位置与两个灯塔的视角 $\angle APB$, 并把它与已知的危险角 $\angle ACB$ 相比较, 航行中保持 $\angle APB<\angle ACB$. 你知道这样做的道理吗?
+(习题 29.2 拓广探索第 14 题) 如图, 一个海港在 $\overset{\frown}{AB}$ 范围内是浅滩. 为了使深水船只不进入浅滩, 需要测量船所在位置与两个灯塔的视角 $\angle APB$, 并把它与已知的危险角 $\angle ACB$ 相比较, 航行中保持 $\angle APB< \angle ACB$. 你知道这样做的道理吗?
 
 ### 解答 习题十四
 
 由**定理 29.2.3** (圆周角定理).
 
-以 $AB$ 为弦作圆, $\angle ACB$ 是浅滩边界上的圆周角. 当船在圆外时, $\angle APB<\angle ACB$; 当船在圆内 (浅滩) 时, $\angle APB>\angle ACB$. 故保持 $\angle APB<\angle ACB$ 可使船在浅滩边界圆之外. $\blacksquare$
+以 $AB$ 为弦作圆, $\angle ACB$ 是浅滩边界上的圆周角. 当船在圆外时, $\angle APB< \angle ACB$; 当船在圆内 (浅滩) 时, $\angle APB> \angle ACB$. 故保持 $\angle APB< \angle ACB$ 可使船在浅滩边界圆之外. $\blacksquare$

@@ -1,13 +1,13 @@
 # Assignment 36
 
 > **Definition 8.1.1** (Square Root) <br>If a number $x$ has square equal to $a$, i.e. $x^2=a$, then this number $x$ is called a square root (or second root) of $a$. The operation of finding the square root of a number is called extracting the square root, and extracting the square root and squaring are inverse operations of each other.
->
+> 
 > **Property 8.1.1** (Properties of Square Roots) <br>A positive number has two square roots, which are opposite numbers of each other; the square root of $0$ is $0$; a negative number has no square root.
->
+> 
 > **Definition 8.1.2** (Arithmetic Square Root) <br>The positive square root $\sqrt a$ of a positive number $a$ is called the arithmetic square root of $a$, and $a$ is called the radicand. It is stipulated that the arithmetic square root of $0$ is $0$, i.e. $\sqrt 0=0$. The square roots of a positive number $a$ are denoted by $\pm\sqrt a$.
->
+> 
 > **Property 8.1.2** (Size of the Arithmetic Square Root) <br>The larger the radicand, the larger the corresponding arithmetic square root (this holds for all positive numbers).
->
+> 
 > **Property 8.1.3** (Relationship Between Squaring and Extracting Roots) <br>For any nonnegative number $a$, $\left(\sqrt a\right)^2=a$; for any number $a$, $\sqrt{a^2}=\left|a\right|$.
 
 ### Exercise 1
@@ -138,11 +138,11 @@ By **Definition 8.1.2** (Arithmetic Square Root), use a calculator to find the p
 
 By **Property 8.1.2** (Size of the Arithmetic Square Root), compare with squares.
 
-(1) $\because 2^2=4<5<9=3^2$, $\therefore 2<\sqrt 5<3$, i.e. $\sqrt 5$ lies between $2$ and $3$.
+(1) $\because 2^2=4< 5< 9=3^2$, $\therefore 2< \sqrt 5< 3$, i.e. $\sqrt 5$ lies between $2$ and $3$.
 
-(2) $\because 5^2=25<26<36=6^2$, $\therefore 5<\sqrt{26}<6$, i.e. $\sqrt{26}$ lies between $5$ and $6$.
+(2) $\because 5^2=25< 26< 36=6^2$, $\therefore 5< \sqrt{26}< 6$, i.e. $\sqrt{26}$ lies between $5$ and $6$.
 
-(3) $\because 4^3=64<83<125=5^3$, $\therefore 4<\sqrt\left[3\right]{83}<5$, i.e. $\sqrt\left[3\right]{83}$ lies between $4$ and $5$. $\blacksquare$
+(3) $\because 4^3=64< 83< 125=5^3$, $\therefore 4< \sqrt\left[3\right]{83}< 5$, i.e. $\sqrt\left[3\right]{83}$ lies between $4$ and $5$. $\blacksquare$
 
 ### Exercise 9
 
@@ -158,7 +158,7 @@ $$
 
 By **Definition 8.1.1** (Square Root), $x=\sqrt{35}\approx 5.92$. Thus the length is $5\sqrt{35}\approx 29.6\,\text{cm}$ and the width is $4\sqrt{35}\approx 23.7\,\text{cm}$.
 
-A circle of radius $12\,\text{cm}$ has diameter $24\,\text{cm}$. The paper is about $23.7\,\text{cm}<24\,\text{cm}$ wide, so the diameter does not fit along the width. Thus Wang Fang's idea is not feasible. $\blacksquare$
+A circle of radius $12\,\text{cm}$ has diameter $24\,\text{cm}$. The paper is about $23.7\,\text{cm}< 24\,\text{cm}$ wide, so the diameter does not fit along the width. Thus Wang Fang's idea is not feasible. $\blacksquare$
 
 ### Problem 1
 
@@ -242,11 +242,11 @@ By **Definition 8.1.2** (Arithmetic Square Root), use a calculator to find the p
 
 By **Property 8.1.2** (Size of the Arithmetic Square Root), the larger the radicand, the larger the arithmetic square root.
 
-(1) $\because 8^2=64<65$, $\therefore\sqrt{65}>\sqrt{64}=8$, i.e. $\sqrt{65}>8$.
+(1) $\because 8^2=64< 65$, $\therefore\sqrt{65}> \sqrt{64}=8$, i.e. $\sqrt{65}> 8$.
 
-(2) $\because 33>22$, $\therefore\sqrt{33}>\sqrt{22}$.
+(2) $\because 33> 22$, $\therefore\sqrt{33}> \sqrt{22}$.
 
-(3) $\because 10>9$, $\therefore\sqrt{10}>\sqrt 9=3$, so $\sqrt{10}-1>2$, and hence $\frac{\sqrt{10}-1}{2}>1$. $\blacksquare$
+(3) $\because 10> 9$, $\therefore\sqrt{10}> \sqrt 9=3$, so $\sqrt{10}-1> 2$, and hence $\frac{\sqrt{10}-1}{2}> 1$. $\blacksquare$
 
 ### Problem 6
 
@@ -272,7 +272,7 @@ By **Definition 8.1.1** (Square Root).
 
 Let the side length be $x\,\text{dm}$; then $x^2=3$, and by **Definition 8.1.1** (Square Root), $x=\sqrt 3$.
 
-$\because 1.7^2=2.89<3<3.24=1.8^2$, continue to refine: $1.73^2=2.9929<3<3.0276=1.74^2$, and further $1.732^2\approx 2.999<3$. Thus $\sqrt 3\approx 1.73$.
+$\because 1.7^2=2.89< 3< 3.24=1.8^2$, continue to refine: $1.73^2=2.9929< 3< 3.0276=1.74^2$, and further $1.732^2\approx 2.999< 3$. Thus $\sqrt 3\approx 1.73$.
 
 That is, the side length of the square is about $1.73\,\text{dm}$. $\blacksquare$
 
@@ -322,7 +322,7 @@ $$
 \left(\sqrt a\right)^2=a.
 $$
 
-(2) $\sqrt{0^2}=0$, $\sqrt{2^2}=2$, $\sqrt{\left(-3\right)^2}=\sqrt 9=3$, $\sqrt{5^2}=5$, $\sqrt{\left(-6\right)^2}=\sqrt{36}=6$. It can be seen that when $a\ge 0$, $\sqrt{a^2}=a$, and when $a<0$, $\sqrt{a^2}=-a$. By **Property 8.1.3**, for any number $a$,
+(2) $\sqrt{0^2}=0$, $\sqrt{2^2}=2$, $\sqrt{\left(-3\right)^2}=\sqrt 9=3$, $\sqrt{5^2}=5$, $\sqrt{\left(-6\right)^2}=\sqrt{36}=6$. It can be seen that when $a\ge 0$, $\sqrt{a^2}=a$, and when $a< 0$, $\sqrt{a^2}=-a$. By **Property 8.1.3**, for any number $a$,
 
 $$
 \sqrt{a^2}=\left|a\right|.

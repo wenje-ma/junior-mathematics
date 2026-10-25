@@ -1,6 +1,6 @@
 # Assignment 136
 
-> **Conclusion 26.2.4** (The Parabola $y=ax^2+bx+c$) <br>Axis of symmetry $x=-\frac b{2a}$, vertex $\left(-\frac b{2a},\frac{4ac-b^2}{4a}\right)$. When $a>0$, the minimum is taken at the vertex; when $a<0$, the maximum is taken at the vertex. In applied problems, pay attention to the range of the independent variable.
+> **Conclusion 26.2.4** (The Parabola $y=ax^2+bx+c$) <br>Axis of symmetry $x=-\frac b{2a}$, vertex $\left(-\frac b{2a},\frac{4ac-b^2}{4a}\right)$. When $a> 0$, the minimum is taken at the vertex; when $a< 0$, the maximum is taken at the vertex. In applied problems, pay attention to the range of the independent variable.
 
 ### Exercise 1
 
@@ -8,7 +8,7 @@
 
 ### Solution to Exercise 1
 
-Let the side perpendicular to the wall be $x\ \text{m}$; then the side parallel to the wall is $\left(20-2x\right)\ \text{m}$. The area is $S=x\left(20-2x\right)=-2x^2+20x$. The wall is $8\ \text{m}$ long, so $20-2x\le8$, i.e. $x\ge6$; also $x>0$, hence $x\ge6$.
+Let the side perpendicular to the wall be $x\ \text{m}$; then the side parallel to the wall is $\left(20-2x\right)\ \text{m}$. The area is $S=x\left(20-2x\right)=-2x^2+20x$. The wall is $8\ \text{m}$ long, so $20-2x\le8$, i.e. $x\ge6$; also $x> 0$, hence $x\ge6$.
 
 By **Conclusion 26.2.4**, this parabola opens downward, with vertex at $x=-\frac{20}{2\left(-2\right)}=5$; since $x\ge6$ lies to the right of the vertex, $S$ decreases as $x$ increases. Hence $S$ is maximized when $x=6$; the side parallel to the wall is $20-12=8\ \text{m}$, and the maximum area is $S=6\times8=48\ \text{m}^2$. $\blacksquare$
 
@@ -18,7 +18,7 @@ By **Conclusion 26.2.4**, this parabola opens downward, with vertex at $x=-\frac
 
 ### Solution to Exercise 2
 
-By **Conclusion 26.2.4**, $a=-5<0$, opens downward; the maximum is taken at $t=-\frac{30}{2\left(-5\right)}=3$, at which
+By **Conclusion 26.2.4**, $a=-5< 0$, opens downward; the maximum is taken at $t=-\frac{30}{2\left(-5\right)}=3$, at which
 
 $$
 h_{\max}=30\times3-5\times9=90-45=45\ \text{m}.
@@ -38,7 +38,7 @@ $$
 y=\left(20+x\right)\left(2100-30x\right)=-30x^2+1500x+42000.
 $$
 
-By **Conclusion 26.2.4**, $a=-30<0$; the maximum is taken at $x=-\frac{1500}{2\left(-30\right)}=25$. The group size is then $20+25=45$, and the maximum revenue is
+By **Conclusion 26.2.4**, $a=-30< 0$; the maximum is taken at $x=-\frac{1500}{2\left(-30\right)}=25$. The group size is then $20+25=45$, and the maximum revenue is
 
 $$
 y=-30\times25^2+1500\times25+42000=60750\ \text{元}.
@@ -58,7 +58,7 @@ $$
 y=x\left(50-\frac x8\right)-\left(500+10x\right)=40x-\frac18x^2-500.
 $$
 
-By **Conclusion 26.2.4**, $a=-\frac18<0$; the maximum is taken at $x=-\frac{40}{2\left(-1/8\right)}=160$, at which
+By **Conclusion 26.2.4**, $a=-\frac18< 0$; the maximum is taken at $x=-\frac{40}{2\left(-1/8\right)}=160$, at which
 
 $$
 y=40\times160-\frac{160^2}{8}-500=6400-3200-500=2700\ \text{元}.
@@ -92,7 +92,7 @@ $$
 
 The arch parabola is $y=-\frac4{25}x^2$. After the water rises $1\ \text{m}$, the water surface is at vertical coordinate $-3$; the boat top is $2\ \text{m}$ above the water, so the boat top is at $-3+2=-1$.
 
-The boat is $4\ \text{m}$ wide, so its edges are at $x=\pm2$. The arch at $x=2$ has vertical coordinate $y=-\frac4{25}\times4=-\frac{16}{25}=-0.64$. Since $-0.64>-1$, the arch is above the boat top, leaving $0.36\ \text{m}$ clearance. Hence the boat can pass under the arch. $\blacksquare$
+The boat is $4\ \text{m}$ wide, so its edges are at $x=\pm2$. The arch at $x=2$ has vertical coordinate $y=-\frac4{25}\times4=-\frac{16}{25}=-0.64$. Since $-0.64> -1$, the arch is above the boat top, leaving $0.36\ \text{m}$ clearance. Hence the boat can pass under the arch. $\blacksquare$
 
 ### Problem 1
 
@@ -100,7 +100,7 @@ The boat is $4\ \text{m}$ wide, so its edges are at $x=\pm2$. The arch at $x=2$ 
 
 ### Solution to Problem 1
 
-By **Conclusion 26.2.4**, $a=-5<0$; the maximum is taken at $t=-\frac{3.6}{2\left(-5\right)}=0.36$,
+By **Conclusion 26.2.4**, $a=-5< 0$; the maximum is taken at $t=-\frac{3.6}{2\left(-5\right)}=0.36$,
 
 $$
 y_{\max}=-5\times0.36^2+3.6\times0.36=0.648\ \text{m}.
@@ -114,7 +114,7 @@ Hence at the highest point his feet are $0.648\ \text{m}$ off the ground. $\blac
 
 ### Solution to Problem 2
 
-The car stops when its velocity is zero, i.e. when the distance reaches its maximum, corresponding to the vertex of the parabola. By **Conclusion 26.2.4**, $a=-6<0$; the maximum is taken at $t=-\frac{15}{2\left(-6\right)}=1.25$,
+The car stops when its velocity is zero, i.e. when the distance reaches its maximum, corresponding to the vertex of the parabola. By **Conclusion 26.2.4**, $a=-6< 0$; the maximum is taken at $t=-\frac{15}{2\left(-6\right)}=1.25$,
 
 $$
 l_{\max}=15\times1.25-6\times1.25^2=9.375\ \text{m}.
@@ -128,7 +128,7 @@ Hence the car travels $9.375\ \text{m}$ after braking. $\blacksquare$
 
 ### Solution to Problem 3
 
-By **Conclusion 26.2.4**, $a=-5<0$; the maximum is taken at $t=\frac{39}{10}=3.9\ \text{s}$,
+By **Conclusion 26.2.4**, $a=-5< 0$; the maximum is taken at $t=\frac{39}{10}=3.9\ \text{s}$,
 
 $$
 h_{\max}=39\times3.9-5\times3.9^2=76.05\ \text{m}.
@@ -148,7 +148,7 @@ $$
 S=x\left(\frac l2-x\right)=-x^2+\frac l2x.
 $$
 
-By **Conclusion 26.2.4**, $a=-1<0$; the maximum is taken at $x=\frac l4$, with $S_{\max}=\frac l4\cdot\frac l4=\frac{l^2}{16}$. The adjacent side is then also $\frac l4$, so the field is a square. $\blacksquare$
+By **Conclusion 26.2.4**, $a=-1< 0$; the maximum is taken at $x=\frac l4$, with $S_{\max}=\frac l4\cdot\frac l4=\frac{l^2}{16}$. The adjacent side is then also $\frac l4$, so the field is a square. $\blacksquare$
 
 ### Problem 5
 
@@ -198,7 +198,7 @@ $$
 y=\left(160+10x\right)\left(50-x\right)=-10x^2+340x+8000.
 $$
 
-By **Conclusion 26.2.4**, $a=-10<0$; the maximum is taken at $x=\frac{340}{20}=17$, at which the rate is $180+10\times17=350$ yuan/day. Hence profit is maximized at a room rate of $350$ yuan/day. $\blacksquare$
+By **Conclusion 26.2.4**, $a=-10< 0$; the maximum is taken at $x=\frac{340}{20}=17$, at which the rate is $180+10\times17=350$ yuan/day. Hence profit is maximized at a room rate of $350$ yuan/day. $\blacksquare$
 
 ### Problem 8
 
@@ -224,7 +224,7 @@ $$
 
 (3) Setting $y=8000$ gives $\left(x-40\right)\left(1000-10x\right)=8000$; rearranging gives $x^2-140x+4800=0$, i.e. $\left(x-60\right)\left(x-80\right)=0$, hence $x=60$ or $x=80$.
 
-(4) By **Conclusion 26.2.4**, $a=-10<0$; the maximum is taken at $x=\frac{1400}{20}=70$, with $y_{\max}=\left(70-40\right)\left(1000-700\right)=9000$ yuan. Hence profit is maximized at price $70$ yuan/kg, with maximum $9000$ yuan. $\blacksquare$
+(4) By **Conclusion 26.2.4**, $a=-10< 0$; the maximum is taken at $x=\frac{1400}{20}=70$, with $y_{\max}=\left(70-40\right)\left(1000-700\right)=9000$ yuan. Hence profit is maximized at price $70$ yuan/kg, with maximum $9000$ yuan. $\blacksquare$
 
 ### Problem 9
 
@@ -250,4 +250,4 @@ $$
 
 Forming a rectangle, by **Problem 4**, the maximum area occurs for a square, $S_{\text{矩}}=\frac{l^2}{16}$.
 
-Comparing the two, $\frac1{4\pi}\approx0.0796>\frac1{16}=0.0625$, hence $S_{\text{圆}}>S_{\text{矩}}$. That is, a line segment of length $l$ encloses a larger circle than any rectangle. $\blacksquare$
+Comparing the two, $\frac1{4\pi}\approx0.0796> \frac1{16}=0.0625$, hence $S_{\text{圆}}> S_{\text{矩}}$. That is, a line segment of length $l$ encloses a larger circle than any rectangle. $\blacksquare$

@@ -1,7 +1,7 @@
 # Assignment 100
 
 > **Theorem 20.2.1** (Converse of the Pythagorean Theorem) <br> If the three side lengths \(a,b,c\) of a triangle satisfy \(a^{2}+b^{2}=c^{2}\), then this triangle is a right triangle.
->
+> 
 > **Definition 20.2.1** (Pythagorean Triples) <br> Three positive integers that can be the three side lengths of a right triangle are called a Pythagorean triple.
 
 ### Exercise 1

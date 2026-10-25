@@ -1,11 +1,11 @@
 # Assignment 152
 
 > **Formula 29.3.1** (Arc Length Formula) <br>In a circle of radius $R$, the arc length subtended by a central angle of $n^\circ$ is $l=\frac{n\pi R}{180}$.
->
+> 
 > **Formula 29.3.2** (Sector Area Formula) <br>In a circle of radius $R$, the area of a sector with central angle $n^\circ$ is $S=\frac{n\pi R^2}{360}=\frac12 lR$, where $l$ is the arc length of the sector.
->
+> 
 > **Definition 29.3.1** (Generatrix of a Cone) <br>The segment joining the vertex of a cone to any point on the circumference of its base is called the generatrix of the cone.
->
+> 
 > **Formula 29.3.3** (Lateral and Total Surface Area of a Cone) <br>If the generatrix length of a cone is $l$ and the base radius is $r$, then the lateral area is $\pi rl$ and the total surface area is $\pi r\left(r+l\right)$.
 
 ### Exercise 1

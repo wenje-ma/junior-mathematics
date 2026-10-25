@@ -1,13 +1,13 @@
 # Assignment 151
 
 > **Theorem 29.2.1** (Perpendicular Chord Theorem) <br>A diameter perpendicular to a chord bisects the chord and bisects the two arcs subtended by the chord.
->
+> 
 > **Theorem 29.2.2** (Relationship Among Central Angles, Arcs, and Chords) <br>In the same circle or equal circles, equal central angles subtend equal arcs and equal chords.
->
+> 
 > **Theorem 29.2.3** (Inscribed Angle Theorem) <br>The inscribed angle subtended by an arc is half of the central angle subtended by that arc.
->
+> 
 > **Corollary 29.2.2** (Corollary to the Inscribed Angle Theorem) <br>Inscribed angles subtended by the same arc or equal arcs are equal; the inscribed angle subtended by a semicircle is a right angle; the chord subtended by an inscribed angle of $90^\circ$ is a diameter.
->
+> 
 > **Property 29.2.3** (Property of a Cyclic Quadrilateral) <br>The opposite angles of a cyclic quadrilateral are supplementary.
 
 ### Problem 1
@@ -144,13 +144,13 @@ $AD=BC$, so $\overset{\frown}{AD}=\overset{\frown}{BC}$. Adding $\overset{\frown
 
 ### Problem 12
 
-(Exercise 29.2, Comprehensive Application, Problem 12) As shown in the figure, $AB$ and $CD$ are two chords on $\odot O$, with $OM\perp AB$, $ON\perp CD$, and feet $M$ and $N$ respectively. If $AB>CD$, what is the relationship between $OM$ and $ON$? Why?
+(Exercise 29.2, Comprehensive Application, Problem 12) As shown in the figure, $AB$ and $CD$ are two chords on $\odot O$, with $OM\perp AB$, $ON\perp CD$, and feet $M$ and $N$ respectively. If $AB> CD$, what is the relationship between $OM$ and $ON$? Why?
 
 ### Solution to Problem 12
 
 By **Theorem 29.2.1** (Perpendicular Chord Theorem).
 
-Let the radius be $R$; then $OM=\sqrt{R^2-\left(AB/2\right)^2}$ and $ON=\sqrt{R^2-\left(CD/2\right)^2}$. When $AB>CD$, we have $\left(AB/2\right)^2>\left(CD/2\right)^2$, so $OM<ON$. $\blacksquare$
+Let the radius be $R$; then $OM=\sqrt{R^2-\left(AB/2\right)^2}$ and $ON=\sqrt{R^2-\left(CD/2\right)^2}$. When $AB> CD$, we have $\left(AB/2\right)^2> \left(CD/2\right)^2$, so $OM< ON$. $\blacksquare$
 
 ### Problem 13
 
@@ -160,7 +160,7 @@ Let the radius be $R$; then $OM=\sqrt{R^2-\left(AB/2\right)^2}$ and $ON=\sqrt{R^
 
 By **Corollary 29.2.2** (Corollary to the Inscribed Angle Theorem).
 
-Through $A$ draw $AB\perp MN$ at $B$. In $\text{Rt}\triangle AOB$, $\angle AOB=30^\circ$ and $AO=200$, so $AB=AO\sin30^\circ=100<200$, and the residential building will be affected by noise.
+Through $A$ draw $AB\perp MN$ at $B$. In $\text{Rt}\triangle AOB$, $\angle AOB=30^\circ$ and $AO=200$, so $AB=AO\sin30^\circ=100< 200$, and the residential building will be affected by noise.
 
 Draw a circle centered at $A$ with radius $200$, meeting $MN$ at $C$ and $D$. $BC=\sqrt{200^2-100^2}=100\sqrt3$, and $CD=200\sqrt3$. The train speed is $72\,\text{km/h}=20\,\text{m/s}$, so the duration of the effect is
 
@@ -172,10 +172,10 @@ $\blacksquare$
 
 ### Problem 14
 
-(Exercise 29.2, Extension and Exploration, Problem 14) As shown in the figure, a harbor has a shoal within the range of $\overset{\frown}{AB}$. To keep deep-draft vessels out of the shoal, one measures the viewing angle $\angle APB$ from the ship's position to the two lighthouses and compares it with the known danger angle $\angle ACB$, keeping $\angle APB<\angle ACB$ while sailing. Do you know the reasoning behind this?
+(Exercise 29.2, Extension and Exploration, Problem 14) As shown in the figure, a harbor has a shoal within the range of $\overset{\frown}{AB}$. To keep deep-draft vessels out of the shoal, one measures the viewing angle $\angle APB$ from the ship's position to the two lighthouses and compares it with the known danger angle $\angle ACB$, keeping $\angle APB< \angle ACB$ while sailing. Do you know the reasoning behind this?
 
 ### Solution to Problem 14
 
 By **Theorem 29.2.3** (Inscribed Angle Theorem).
 
-Draw a circle with chord $AB$; $\angle ACB$ is the inscribed angle on the shoal boundary. When the ship is outside the circle, $\angle APB<\angle ACB$; when the ship is inside the circle (the shoal), $\angle APB>\angle ACB$. Hence keeping $\angle APB<\angle ACB$ keeps the ship outside the shoal boundary circle. $\blacksquare$
+Draw a circle with chord $AB$; $\angle ACB$ is the inscribed angle on the shoal boundary. When the ship is outside the circle, $\angle APB< \angle ACB$; when the ship is inside the circle (the shoal), $\angle APB> \angle ACB$. Hence keeping $\angle APB< \angle ACB$ keeps the ship outside the shoal boundary circle. $\blacksquare$

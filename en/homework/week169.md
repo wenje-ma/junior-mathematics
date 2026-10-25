@@ -1,9 +1,9 @@
 # Assignment 169
 
 > **Definition 28.2.1** (Solving a Right Triangle) <br>The process of finding the remaining unknown elements from the known elements of a right triangle is called solving a right triangle.
->
+> 
 > **Conclusion 28.2.1** (Relationships Among the Elements of a Right Triangle) <br>$a^{2}+b^{2}=c^{2}$; $\angle A+\angle B=90^{\circ}$; $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$, $\tan A=\frac{a}{b}$.
->
+> 
 > **Conclusion 28.2.2** (Angle of Elevation and Angle of Depression) <br>The angle above the horizontal line along the line of sight is called the angle of elevation, and the angle below the horizontal line is called the angle of depression.
 
 ### Activity 1

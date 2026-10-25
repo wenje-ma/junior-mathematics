@@ -1,9 +1,9 @@
 # Assignment 67
 
 > **Definition 14.1.1** (Congruent Figures and Congruent Triangles) <br>Two figures that can coincide completely are called congruent figures; two triangles that can coincide completely are called congruent triangles, denoted $\triangle ABC\cong\triangle A'B'C'$.
->
+> 
 > **Definition 14.1.2** (Corresponding Elements) <br>Putting two congruent triangles together to coincide, the coinciding vertices are called corresponding vertices, the coinciding sides are called corresponding sides, and the coinciding angles are called corresponding angles.
->
+> 
 > **Conclusion 14.1.1** (Properties of Congruent Triangles) <br>Corresponding sides of congruent triangles are equal, and corresponding angles of congruent triangles are equal. After a figure is translated, reflected or rotated, its shape and size are unchanged, and the figures before and after are congruent.
 
 ### Example

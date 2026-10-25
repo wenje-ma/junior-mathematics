@@ -1,13 +1,13 @@
 # Assignment 44
 
 > **Definition 9.1.1** (Rectangular Coordinate System) <br>Draw two number lines perpendicular to each other in a plane with the same origin to form a rectangular coordinate system.
->
+> 
 > **Definition 9.1.2** (Coordinates of a Point) <br>The ordered pair $\left(x,y\right)$ is called the coordinates of a point in the plane; points in the coordinate plane correspond one-to-one with ordered pairs of real numbers.
->
+> 
 > **Definition 9.1.3** (Quadrants) <br>First quadrant $\left(+,+\right)$, second quadrant $\left(-,+\right)$, third quadrant $\left(-,-\right)$, fourth quadrant $\left(+,-\right)$; points on the coordinate axes do not belong to any quadrant.
->
+> 
 > **Method 9.2.1** (Representing Geographic Locations with Coordinates) <br>Establish the system, fix the unit, plot points and write coordinates; one can also represent a position using a direction angle and a distance.
->
+> 
 > **Property 9.2.1** (Representing Translation with Coordinates) <br>Translating point $\left(x,y\right)$ right (left) by $a$ gives $\left(x+a,y\right)$ ($\left(x-a,y\right)$); translating it up (down) by $b$ gives $\left(x,y+b\right)$ ($\left(x,y-b\right)$).
 
 ### Review Exercise 1

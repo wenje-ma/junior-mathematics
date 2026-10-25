@@ -1,9 +1,9 @@
 # Assignment 156
 
 > **Definition 30.2.1** (Incircle of a Triangle) <br>A circle tangent to all three sides of a triangle is called the incircle of the triangle; the center of the incircle is called the incenter of the triangle, and it is the intersection of the three angle bisectors of the triangle.
->
+> 
 > **Theorem 30.3.1** (Regular Polygons and Circles) <br>Divide a circle into $n$ ($n\ge3$) equal parts, and the polygon obtained by joining the division points in order is a regular $n$-gon inscribed in the circle; this circle is called the circumcircle of the regular $n$-gon.
->
+> 
 > **Property 30.3.1** (Properties of Regular Polygons) <br>The center of the circumcircle (or incircle) of a regular polygon is called the center; the circumradius is called the radius; the inradius is called the apothem; the central angle subtended by each side of a regular polygon is called the central angle. The central angle of a regular $n$-gon is $\frac{360^\circ}{n}$.
 
 ### Exercise 1

@@ -1,15 +1,15 @@
 # Assignment 68
 
 > **Basic Fact 14.2.1** (Side-Angle-Side, SAS) <br>Two triangles are congruent if two sides and their included angle are respectively equal; abbreviated as "side-angle-side" or SAS.
->
+> 
 > **Basic Fact 14.2.2** (Angle-Side-Angle, ASA) <br>Two triangles are congruent if two angles and their included side are respectively equal; abbreviated as "angle-side-angle" or ASA.
->
+> 
 > **Conclusion 14.2.1** (Angle-Angle-Side, AAS) <br>Two triangles are congruent if two angles are respectively equal and the opposite side of one pair of equal angles is equal; abbreviated as "angle-angle-side" or AAS.
->
+> 
 > **Basic Fact 14.2.3** (Side-Side-Side, SSS) <br>Two triangles are congruent if the three sides are respectively equal; abbreviated as "side-side-side" or SSS; this shows that a triangle has stability.
->
+> 
 > **Conclusion 14.2.2** (Hypotenuse-Leg, HL) <br>Two right triangles are congruent if the hypotenuse and one leg are respectively equal; abbreviated as "hypotenuse-leg" or HL.
->
+> 
 > **Conclusion 14.1.1** (Properties of Congruent Triangles) <br>Corresponding sides of congruent triangles are equal, and corresponding angles are equal.
 
 ### Exercise 1

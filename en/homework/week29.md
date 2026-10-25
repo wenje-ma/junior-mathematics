@@ -1,11 +1,11 @@
 # Assignment 29
 
 > **Definition 6.2.5** (Basic Fact about Segments) <br>Between two points, the segment is the shortest.
->
+> 
 > **Definition 6.2.6** (Distance) <br>The length of the segment joining two points is called the distance between them.
->
+> 
 > **Definition 6.3.1** (Angle) <br>The figure formed by two rays with a common endpoint is called an angle.
->
+> 
 > **Definition 6.3.2** (Measuring Angles) <br>$1^{\circ}=60'$, $1'=60''$. A full angle $=360^{\circ}$.
 
 ### Inquiry 1

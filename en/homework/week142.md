@@ -1,8 +1,8 @@
 # Assignment 142
 
 > **Definition 27.1.1** (Inverse Proportional Function) <br>A function of the form $y=\frac kx$ ($k$ is a constant, $k\ne0$) is called an inverse proportional function, with independent variable $x\ne0$.
->
-> **Conclusion 27.2.1** (Properties of the Inverse Proportional Function) <br>When $k>0$, the graph lies in the first and third quadrants, and within each quadrant $y$ decreases as $x$ increases; when $k<0$, it lies in the second and fourth quadrants, and within each quadrant $y$ increases as $x$ increases.
+> 
+> **Conclusion 27.2.1** (Properties of the Inverse Proportional Function) <br>When $k> 0$, the graph lies in the first and third quadrants, and within each quadrant $y$ decreases as $x$ increases; when $k< 0$, it lies in the second and fourth quadrants, and within each quadrant $y$ increases as $x$ increases.
 
 ### Review Problem 1
 
@@ -38,9 +38,9 @@ $$
 
 By **Conclusion 27.2.1**.
 
-(1) $k=10>0$, so the graph lies in the first and third quadrants, and in each quadrant $y$ decreases as $x$ increases.
+(1) $k=10> 0$, so the graph lies in the first and third quadrants, and in each quadrant $y$ decreases as $x$ increases.
 
-(2) $k=-10<0$, so the graph lies in the second and fourth quadrants, and in each quadrant $y$ increases as $x$ increases. $\blacksquare$
+(2) $k=-10< 0$, so the graph lies in the second and fourth quadrants, and in each quadrant $y$ increases as $x$ increases. $\blacksquare$
 
 ### Review Problem 4
 
@@ -68,7 +68,7 @@ and the range of the independent variable $x$ is $x\ne0$.
 
 ### Solution to Review Problem 5
 
-By **Conclusion 27.2.1**, for $y$ to decrease as $x$ increases in each quadrant, we need $k-1>0$, hence $k>1$. $\blacksquare$
+By **Conclusion 27.2.1**, for $y$ to decrease as $x$ increases in each quadrant, we need $k-1> 0$, hence $k> 1$. $\blacksquare$
 
 ### Review Problem 6
 
@@ -102,11 +102,11 @@ Hence when the $A$ face is down the pressure intensity is $\frac p2$, and when t
 
 ### Review Problem 8
 
-(Review Problem, Comprehensive Application, Problem 8) Match the function expressions below with their graphs: given the graphs of $y=k/x$ for the two cases $k>0$ and $k<0$.
+(Review Problem, Comprehensive Application, Problem 8) Match the function expressions below with their graphs: given the graphs of $y=k/x$ for the two cases $k> 0$ and $k< 0$.
 
 ### Solution to Review Problem 8
 
-By **Conclusion 27.2.1**, the graph for $k>0$ is a hyperbola in the first and third quadrants, and the graph for $k<0$ is a hyperbola in the second and fourth quadrants; match them accordingly. $\blacksquare$
+By **Conclusion 27.2.1**, the graph for $k> 0$ is a hyperbola in the first and third quadrants, and the graph for $k< 0$ is a hyperbola in the second and fourth quadrants; match them accordingly. $\blacksquare$
 
 ### Review Problem 9
 
@@ -122,7 +122,7 @@ Let the two inverse proportional functions be $y=\frac{k_1}{x}$ and $y=\frac{k_2
 
 ### Solution to Review Problem 10
 
-If they had an intersection, then $k_1x=\frac{k_2}{x}$, i.e. $x^2=\frac{k_2}{k_1}$. For the two to have no common point, this equation must have no real solution, i.e. $\frac{k_2}{k_1}<0$. Hence $k_1,k_2$ have opposite signs. $\blacksquare$
+If they had an intersection, then $k_1x=\frac{k_2}{x}$, i.e. $x^2=\frac{k_2}{k_1}$. For the two to have no common point, this equation must have no real solution, i.e. $\frac{k_2}{k_1}< 0$. Hence $k_1,k_2$ have opposite signs. $\blacksquare$
 
 ### Review Problem 11
 

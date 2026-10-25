@@ -1,9 +1,9 @@
 # Assignment 153
 
 > **Theorem 29.1.1** (Three Points Determine a Circle) <br>Three points not on the same line determine a circle.
->
+> 
 > **Property 29.2.3** (Property of a Cyclic Quadrilateral) <br>The opposite angles of a cyclic quadrilateral are supplementary.
->
+> 
 > **Theorem 29.2.3** (Inscribed Angle Theorem) <br>The inscribed angle subtended by an arc is half of the central angle subtended by that arc.
 
 ### Activity 1

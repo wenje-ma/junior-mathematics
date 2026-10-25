@@ -1,11 +1,11 @@
 # 作业 37
 
 > **定义 8.2.1** (立方根) <br>如果一个数 $x$ 的立方等于 $a$, 即 $x^3=a$, 那么这个数 $x$ 叫作 $a$ 的立方根 (或三次方根), 记作 $\sqrt\left[3\right]{a}$, $3$ 是根指数. 求一个数的立方根的运算叫作开立方, 开立方与立方互为逆运算.
->
+> 
 > **性质 8.2.1** (立方根的性质) <br>正数的立方根是正数, 负数的立方根是负数, $0$ 的立方根是 $0$.
->
+> 
 > **性质 8.2.2** (负数的立方根) <br>$\sqrt\left[3\right]{-a}=-\sqrt\left[3\right]{a}$.
->
+> 
 > **性质 8.2.3** (立方与开立方的关系) <br>对任意数 $a$, $\left(\sqrt\left[3\right]{a}\right)^3=a$; $\sqrt\left[3\right]{a^3}=a$.
 
 ### 练习一
@@ -102,13 +102,13 @@
 
 由立方数比较大小.
 
-(1) $\because 1^3=1<7<8=2^3$, $\therefore 1<\sqrt\left[3\right]{7}<2$, 介于 $1$ 与 $2$ 之间.
+(1) $\because 1^3=1< 7< 8=2^3$, $\therefore 1< \sqrt\left[3\right]{7}< 2$, 介于 $1$ 与 $2$ 之间.
 
-(2) $\because 4^3=64<99<125=5^3$, $\therefore 4<\sqrt\left[3\right]{99}<5$, 介于 $4$ 与 $5$ 之间.
+(2) $\because 4^3=64< 99< 125=5^3$, $\therefore 4< \sqrt\left[3\right]{99}< 5$, 介于 $4$ 与 $5$ 之间.
 
-(3) $\because 8^3=512<635<729=9^3$, $\therefore 8<\sqrt\left[3\right]{635}<9$, 介于 $8$ 与 $9$ 之间.
+(3) $\because 8^3=512< 635< 729=9^3$, $\therefore 8< \sqrt\left[3\right]{635}< 9$, 介于 $8$ 与 $9$ 之间.
 
-(4) $\because\left(-4\right)^3=-64<-28<-27=\left(-3\right)^3$, $\therefore-4<\sqrt\left[3\right]{-28}<-3$, 介于 $-4$ 与 $-3$ 之间. $\blacksquare$
+(4) $\because\left(-4\right)^3=-64< -28< -27=\left(-3\right)^3$, $\therefore-4< \sqrt\left[3\right]{-28}< -3$, 介于 $-4$ 与 $-3$ 之间. $\blacksquare$
 
 ### 习题一
 
@@ -152,11 +152,11 @@
 
 立方根随被开方数增大而增大.
 
-(1) $\because 2^3=8>7$, $\therefore\sqrt\left[3\right]{7}<\sqrt\left[3\right]{8}=2$, 即 $\sqrt\left[3\right]{7}<2$.
+(1) $\because 2^3=8> 7$, $\therefore\sqrt\left[3\right]{7}< \sqrt\left[3\right]{8}=2$, 即 $\sqrt\left[3\right]{7}< 2$.
 
-(2) $\because 2.5^3=15.625>9$, $\therefore\sqrt\left[3\right]{9}<\sqrt\left[3\right]{15.625}=2.5$, 即 $\sqrt\left[3\right]{9}<2.5$.
+(2) $\because 2.5^3=15.625> 9$, $\therefore\sqrt\left[3\right]{9}< \sqrt\left[3\right]{15.625}=2.5$, 即 $\sqrt\left[3\right]{9}< 2.5$.
 
-(3) $\because 3>2$, $\therefore\sqrt\left[3\right]{3}>\sqrt\left[3\right]{2}$, 两边取相反数得 $-\sqrt\left[3\right]{3}<-\sqrt\left[3\right]{2}$. $\blacksquare$
+(3) $\because 3> 2$, $\therefore\sqrt\left[3\right]{3}> \sqrt\left[3\right]{2}$, 两边取相反数得 $-\sqrt\left[3\right]{3}< -\sqrt\left[3\right]{2}$. $\blacksquare$
 
 ### 习题四
 
@@ -182,7 +182,7 @@
 
 长方体体积为 $21\times 20\times 19=7980\,dm^3$. 熔化铸成正方体, 体积不变, 设正方体棱长为 $x\,dm$, 则 $x^3=7980$.
 
-由**定义 8.2.1** (立方根), $x=\sqrt\left[3\right]{7980}$. $\because 19^3=6859<7980<8000=20^3$, 继续估: $19.98^3\approx 7976$. 故 $x\approx 19.98\,dm$.
+由**定义 8.2.1** (立方根), $x=\sqrt\left[3\right]{7980}$. $\because 19^3=6859< 7980< 8000=20^3$, 继续估: $19.98^3\approx 7976$. 故 $x\approx 19.98\,dm$.
 
 即正方体棱长约为 $19.98\,dm$. $\blacksquare$
 

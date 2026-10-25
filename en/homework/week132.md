@@ -1,13 +1,13 @@
 # Assignment 132
 
-> **Conclusion 25.2.1** (Direct Square Root Extraction) <br>An equation of the form $\left(x+n\right)^2=p$: when $p>0$, $x=-n\pm\sqrt p$; when $p=0$, $x_1=x_2=-n$; when $p<0$, no real root.
->
+> **Conclusion 25.2.1** (Direct Square Root Extraction) <br>An equation of the form $\left(x+n\right)^2=p$: when $p> 0$, $x=-n\pm\sqrt p$; when $p=0$, $x_1=x_2=-n$; when $p< 0$, no real root.
+> 
 > **Definition 25.2.3** (Quadratic Formula) <br>When $\Delta=b^2-4ac\ge0$, the roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$.
->
-> **Conclusion 25.2.3** (Nature of the Roots) <br>When $\Delta>0$, the equation has two unequal real roots; when $\Delta=0$, two equal real roots; when $\Delta<0$, no real root.
->
+> 
+> **Conclusion 25.2.3** (Nature of the Roots) <br>When $\Delta> 0$, the equation has two unequal real roots; when $\Delta=0$, two equal real roots; when $\Delta< 0$, no real root.
+> 
 > **Conclusion 25.2.5** (Relation Between Roots and Coefficients) <br>The two roots $x_1,x_2$ of $ax^2+bx+c=0\ \left(a\ne0\right)$ satisfy $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$.
->
+> 
 > **Conclusion 25.3.4** (Match-Schedule Model) <br>$n$ teams in a single round-robin play $\frac{n\left(n-1\right)}2$ matches in total.
 
 ### Review Problem 1
@@ -40,7 +40,7 @@ Choose direct square-root extraction, the factoring method, or the formula metho
 
 (3) By the quadratic formula, $\Delta=\left(-7\right)^2+4=53$, hence $x=\frac{7\pm\sqrt{53}}2$.
 
-(4) Rearranging gives $2x^2-3x+3=0$, $\Delta=\left(-3\right)^2-4\times2\times3=-15<0$, so the equation has no real root.
+(4) Rearranging gives $2x^2-3x+3=0$, $\Delta=\left(-3\right)^2-4\times2\times3=-15< 0$, so the equation has no real root.
 
 (5) Writing the left side as $\left(x-1\right)^2=25$, hence $x-1=\pm5$, i.e. $x_1=6$, $x_2=-4$.
 
@@ -116,11 +116,11 @@ $$
 
 By **Conclusion 25.2.3** (Nature of the Roots):
 
-When $\Delta>0$, i.e. $8k+9>0$, $k>-\frac98$, the equation has two unequal real roots;
+When $\Delta> 0$, i.e. $8k+9> 0$, $k> -\frac98$, the equation has two unequal real roots;
 
 When $\Delta=0$, i.e. $k=-\frac98$, the equation has two equal real roots;
 
-When $\Delta<0$, i.e. $k<-\frac98$, the equation has no real root. $\blacksquare$
+When $\Delta< 0$, i.e. $k< -\frac98$, the equation has no real root. $\blacksquare$
 
 ### Review Problem 6
 
@@ -196,7 +196,7 @@ $$
 1.75\%\left(1-x\right)^2=1.50\%.
 $$
 
-Hence $\left(1-x\right)^2=\frac{1.50}{1.75}=\frac67\approx0.8571$; since the cut rate is positive and $x<1$, $1-x=\sqrt{0.8571}\approx0.9258$, hence
+Hence $\left(1-x\right)^2=\frac{1.50}{1.75}=\frac67\approx0.8571$; since the cut rate is positive and $x< 1$, $1-x=\sqrt{0.8571}\approx0.9258$, hence
 
 $$
 x\approx0.0742=7.42\%.
@@ -270,4 +270,4 @@ $$
 l=\frac{5+\left(5-1.25t\right)}2\cdot t=\left(5-\frac{1.25}2 t\right)t=5t-0.625t^2.
 $$
 
-Setting $l=5$ gives $5t-0.625t^2=5$, i.e. $t^2-8t+8=0$, solving gives $t=\frac{8\pm\sqrt{32}}2=4\pm2\sqrt2$. Since $t<4$, take $t=4-2\sqrt2\approx1.2$. Hence the ball takes about $1.2\ \text{s}$ to roll $5\ \text{m}$. $\blacksquare$
+Setting $l=5$ gives $5t-0.625t^2=5$, i.e. $t^2-8t+8=0$, solving gives $t=\frac{8\pm\sqrt{32}}2=4\pm2\sqrt2$. Since $t< 4$, take $t=4-2\sqrt2\approx1.2$. Hence the ball takes about $1.2\ \text{s}$ to roll $5\ \text{m}$. $\blacksquare$

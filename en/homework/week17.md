@@ -1,11 +1,11 @@
 # Assignment 17
 
 > **Definition 4.1.1** (Monomial) <br>An algebraic expression formed by the product of numbers or letters is called a monomial. A single number or a single letter is also a monomial.
->
+> 
 > **Definition 4.1.4** (Polynomial) <br>The sum of several monomials is called a polynomial. Each monomial is called a term of the polynomial, and a term without a letter is called a constant term.
->
+> 
 > **Definition 4.2.2** (Combining Like Terms) <br>Combining like terms in a polynomial into a single term, the coefficient of the resulting term is the sum of the coefficients of the like terms before combining, while the letters together with their exponents remain unchanged.
->
+> 
 > **Definition 4.2.4** (Rule for Adding and Subtracting Integral Expressions) <br>When adding or subtracting several integral expressions, first remove any parentheses, then combine like terms.
 
 ### Activity 1

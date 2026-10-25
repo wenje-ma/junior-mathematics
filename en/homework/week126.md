@@ -1,9 +1,9 @@
 # Assignment 126
 
 > **Definition 25.1.1** (Quadratic Equation in One Unknown) <br>In general, if an equation contains only one unknown and all expressions containing the unknown are integral expressions, and the highest degree of the unknown is $2$, then such an equation is called a quadratic equation in one unknown.
->
+> 
 > **Definition 25.1.2** (General Form of a Quadratic Equation) <br>The general form of a quadratic equation is $ax^2+bx+c=0\ \left(a\ne0\right)$, where $ax^2$ is the quadratic term and $a$ is the quadratic coefficient; $bx$ is the linear term and $b$ is the linear coefficient; $c$ is the constant term. The requirement $a\ne0$ ensures the equation is indeed quadratic.
->
+> 
 > **Definition 25.1.3** (Roots of a Quadratic Equation) <br>The value of the unknown that makes the two sides of a quadratic equation equal is the solution of the equation; the solution of a quadratic equation is also called its root.
 
 ### Exercise 1

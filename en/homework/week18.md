@@ -1,23 +1,23 @@
 # Assignment 18
 
 > **Definition 4.1.1** (Monomial) <br>An algebraic expression formed by the product of numbers or letters is called a monomial. A single number or a single letter is also a monomial.
->
+> 
 > **Definition 4.1.2** (Coefficient of a Monomial) <br>The numerical factor in a monomial is called the coefficient of that monomial.
->
+> 
 > **Definition 4.1.3** (Degree of a Monomial) <br>In a monomial, the sum of the exponents of all letters is called the degree of that monomial.
->
+> 
 > **Definition 4.1.4** (Polynomial) <br>The sum of several monomials is called a polynomial. Each monomial is called a term of the polynomial, and a term without a letter is called a constant term.
->
+> 
 > **Definition 4.1.5** (Degree of a Polynomial) <br>In a polynomial, the degree of the term with the highest degree is called the degree of the polynomial.
->
+> 
 > **Definition 4.1.6** (Integral Expression) <br>Monomials and polynomials are collectively called integral expressions.
->
+> 
 > **Definition 4.2.1** (Like Terms) <br>Terms that contain the same letters, with the same exponents on the same letters, are called like terms. Several constant terms are also like terms.
->
+> 
 > **Definition 4.2.2** (Combining Like Terms) <br>Combining like terms in a polynomial into a single term, the coefficient of the resulting term is the sum of the coefficients of the like terms before combining, while the letters together with their exponents remain unchanged.
->
+> 
 > **Definition 4.2.3** (Rule for Removing Parentheses) <br>Multiply the number outside the parentheses by each term inside them, then add the resulting products; in this way the parentheses can be removed.
->
+> 
 > **Definition 4.2.4** (Rule for Adding and Subtracting Integral Expressions) <br>When adding or subtracting several integral expressions, first remove any parentheses, then combine like terms.
 
 ### Review Problem 1

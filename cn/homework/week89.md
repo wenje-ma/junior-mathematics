@@ -208,4 +208,4 @@ $$S_n=\frac12+\frac{1}{2\times3}+\frac{1}{3\times4}+\cdots+\frac{1}{n\left(n+1\r
 
 $$S_n=\left(1-\frac12\right)+\left(\frac12-\frac13\right)+\cdots+\left(\frac1n-\frac{1}{n+1}\right)=1-\frac{1}{n+1}=\frac{n}{n+1}.$$
 
-不论 $n$ 多大, $S_n=\frac{n}{n+1}<1$, 故容器中的 $1\ \text{L}$ 水永远倒不完. $\blacksquare$
+不论 $n$ 多大, $S_n=\frac{n}{n+1}< 1$, 故容器中的 $1\ \text{L}$ 水永远倒不完. $\blacksquare$

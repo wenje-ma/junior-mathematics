@@ -1,15 +1,15 @@
 # Assignment 62
 
 > **Conclusion 13.2.1** (Relationship Among the Three Sides of a Triangle) <br>In a triangle, the sum of any two sides is greater than the third side, and the difference of any two sides is less than the third side. Conversely, three segments can form a triangle only when the sum of any two is greater than the third.
->
+> 
 > **Conclusion 13.2.2** (Stability of a Triangle) <br>The shape of a triangular wooden frame does not change; a triangle is a figure with stability.
->
+> 
 > **Definition 13.2.1** (Median of a Triangle) <br>The segment joining a vertex of a triangle to the midpoint of the opposite side is called a median of the triangle. A triangle has three medians, which intersect at one point, called the centroid of the triangle.
->
+> 
 > **Definition 13.2.2** (Angle Bisector of a Triangle) <br>The bisector of an angle of a triangle meets the opposite side at a point; the segment between the vertex and this intersection is called an angle bisector of the triangle. The three angle bisectors intersect at one point.
->
+> 
 > **Definition 13.2.3** (Altitude of a Triangle) <br>Dropping a perpendicular from a vertex of a triangle to the line of the opposite side, the segment between the vertex and the foot of the perpendicular is called an altitude of the triangle.
->
+> 
 > **Conclusion 13.2.3** (Position of Altitudes) <br>All three altitudes of an acute triangle lie inside the triangle; a right triangle has two altitudes that are exactly its two legs; an obtuse triangle has two altitudes outside the triangle, with the two feet falling on the extensions of the sides.
 
 ### Exercise 1
@@ -26,11 +26,11 @@
 
 By **Conclusion 13.2.1** (Relationship Among the Three Sides of a Triangle), three segments form a triangle if and only if the sum of any two is greater than the third.
 
-(1) $3+4=7<8$; the sum of two sides is not greater than the third, so they cannot form a triangle.
+(1) $3+4=7< 8$; the sum of two sides is not greater than the third, so they cannot form a triangle.
 
 (2) $5+6=11$, which is not greater than $11$, so they cannot form a triangle.
 
-(3) $5+6=11>10$, $5+10=15>6$, $6+10=16>5$; the sum of any two sides is greater than the third, so they can form a triangle. $\blacksquare$
+(3) $5+6=11> 10$, $5+10=15> 6$, $6+10=16> 5$; the sum of any two sides is greater than the third, so they can form a triangle. $\blacksquare$
 
 ### Exercise 2
 
@@ -40,9 +40,9 @@ By **Conclusion 13.2.1** (Relationship Among the Three Sides of a Triangle), thr
 
 Check the two cases by **Conclusion 13.2.1** (Relationship Among the Three Sides of a Triangle).
 
-In the first case the side lengths are $4$, $1$, $1$: $1+1=2<4$; the sum of two sides is not greater than the third, so an isosceles triangle cannot be formed.
+In the first case the side lengths are $4$, $1$, $1$: $1+1=2< 4$; the sum of two sides is not greater than the third, so an isosceles triangle cannot be formed.
 
-In the second case the side lengths are $4$, $4$, $1$: $4+1=5>4$, $4+4=8>1$; the three-side relationship holds, so an isosceles triangle can be formed. $\blacksquare$
+In the second case the side lengths are $4$, $4$, $1$: $4+1=5> 4$, $4+4=8> 1$; the three-side relationship holds, so an isosceles triangle can be formed. $\blacksquare$
 
 ### Exercise 3
 
@@ -85,10 +85,10 @@ By **Definition 13.2.1** (Median), a median divides the opposite side into two e
 By **Conclusion 13.2.1** (Relationship Among the Three Sides of a Triangle), the third side $a$ must satisfy that the sum of the other two sides is greater than $a$ and the difference of the other two sides is less than $a$.
 
 $$
-7-2<a<7+2.
+7-2< a< 7+2.
 $$
 
-i.e. the range of $a$ is $5<a<9$. $\blacksquare$
+i.e. the range of $a$ is $5< a< 9$. $\blacksquare$
 
 ### Problem 2
 
@@ -98,13 +98,13 @@ i.e. the range of $a$ is $5<a<9$. $\blacksquare$
 
 By **Conclusion 13.2.1** (Relationship Among the Three Sides of a Triangle), choose three of the four and check:
 
-Take $100$, $70$, $50$: $70+50=120>100$; can form a triangle;
+Take $100$, $70$, $50$: $70+50=120> 100$; can form a triangle;
 
 Take $100$, $70$, $30$: $70+30=100$; cannot form a triangle;
 
-Take $100$, $50$, $30$: $50+30=80<100$; cannot form a triangle;
+Take $100$, $50$, $30$: $50+30=80< 100$; cannot form a triangle;
 
-Take $70$, $50$, $30$: $50+30=80>70$; can form a triangle.
+Take $70$, $50$, $30$: $50+30=80> 70$; can form a triangle.
 
 Hence there are $2$ choices in total. $\blacksquare$
 
@@ -154,9 +154,9 @@ By **Definition 13.2.1** (Median), $E$ is the midpoint of $BC$; by **Definition 
 
 The side $6$ may be a leg or the base; discuss the two cases and check with **Conclusion 13.2.1** (Relationship Among the Three Sides of a Triangle).
 
-If $6$ is a leg, then the base is $20-2\times6=8$, and the side lengths are $6$, $6$, $8$. Since $6+6=12>8$, a triangle can be formed.
+If $6$ is a leg, then the base is $20-2\times6=8$, and the side lengths are $6$, $6$, $8$. Since $6+6=12> 8$, a triangle can be formed.
 
-If $6$ is the base, then the legs are $\frac{20-6}{2}=7$, and the side lengths are $7$, $7$, $6$. Since $7+6=13>7$, a triangle can be formed.
+If $6$ is the base, then the legs are $\frac{20-6}{2}=7$, and the side lengths are $7$, $7$, $6$. Since $7+6=13> 7$, a triangle can be formed.
 
 Hence the other two sides are $6$ and $8$, or $7$ and $7$. $\blacksquare$
 
@@ -172,9 +172,9 @@ Hence the other two sides are $6$ and $8$, or $7$ and $7$. $\blacksquare$
 
 Check the two cases by **Conclusion 13.2.1** (Relationship Among the Three Sides of a Triangle).
 
-(1) If $5$ is a leg, the side lengths are $5$, $5$, $6$; since $5+5=10>6$, the perimeter is $5+5+6=16$. If $6$ is a leg, the side lengths are $6$, $6$, $5$; since $6+5=11>6$, the perimeter is $6+6+5=17$. Hence the perimeter is $16$ or $17$.
+(1) If $5$ is a leg, the side lengths are $5$, $5$, $6$; since $5+5=10> 6$, the perimeter is $5+5+6=16$. If $6$ is a leg, the side lengths are $6$, $6$, $5$; since $6+5=11> 6$, the perimeter is $6+6+5=17$. Hence the perimeter is $16$ or $17$.
 
-(2) If $4$ is a leg, the side lengths are $4$, $4$, $9$; since $4+4=8<9$, a triangle cannot be formed. If $9$ is a leg, the side lengths are $9$, $9$, $4$; since $9+4=13>9$, the perimeter is $9+9+4=22$. Hence the perimeter is $22$. $\blacksquare$
+(2) If $4$ is a leg, the side lengths are $4$, $4$, $9$; since $4+4=8< 9$, a triangle cannot be formed. If $9$ is a leg, the side lengths are $9$, $9$, $4$; since $9+4=13> 9$, the perimeter is $9+9+4=22$. Hence the perimeter is $22$. $\blacksquare$
 
 ### Problem 7
 

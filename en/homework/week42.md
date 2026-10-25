@@ -1,9 +1,9 @@
 # Assignment 42
 
 > **Definition 9.1.1** (Rectangular Coordinate System) <br>Draw two number lines perpendicular to each other in a plane with the same origin to form a rectangular coordinate system; the horizontal one is the $x$-axis (right positive), and the vertical one is the $y$-axis (up positive).
->
+> 
 > **Method 9.2.1** (Representing Geographic Locations with Coordinates) <br>Establish a coordinate system by choosing an appropriate reference point as the origin and determining the positive directions of the $x$-axis and $y$-axis; determine the unit length according to the problem; plot each point in the coordinate plane and write down its coordinates and the name of the location. One can also represent the position of an object using a direction angle and a distance.
->
+> 
 > **Property 9.2.1** (Representing Translation with Coordinates) <br>In a rectangular coordinate system, translating point $\left(x,y\right)$ to the right (left) by $a$ units of length gives $\left(x+a,y\right)$ ($\left(x-a,y\right)$); translating it up (down) by $b$ units of length gives $\left(x,y+b\right)$ ($\left(x,y-b\right)$). Adding (subtracting) $a$ to the x-coordinate of every point of a figure is equivalent to translating the figure to the right (left) by $a$; adding (subtracting) $b$ to the y-coordinate of every point is equivalent to translating the figure up (down) by $b$.
 
 ### Exercise 1

@@ -1,17 +1,17 @@
 # Assignment 105
 
 > **Definition 21.3.1** (Rectangle) <br> A parallelogram with one right angle is called a rectangle.
->
+> 
 > **Property 21.3.2** (Diagonals of a Rectangle) <br> The diagonals of a rectangle are equal.
->
+> 
 > **Conclusion 21.3.1** (Median to the Hypotenuse of a Right Triangle) <br> The median to the hypotenuse of a right triangle equals half the hypotenuse.
->
+> 
 > **Criterion 21.3.1** (Diagonals) <br> A parallelogram with equal diagonals is a rectangle.
->
+> 
 > **Definition 21.3.2** (Rhombus) <br> A parallelogram with one pair of adjacent sides equal is called a rhombus.
->
+> 
 > **Property 21.3.4** (Diagonals of a Rhombus) <br> The two diagonals of a rhombus are perpendicular, and each diagonal bisects a pair of opposite angles.
->
+> 
 > **Definition 21.3.3** (Square) <br> A parallelogram with one pair of adjacent sides equal and one right angle is called a square.
 
 ### Exercise 1

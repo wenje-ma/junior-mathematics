@@ -1,17 +1,17 @@
 # Assignment 26
 
 > **Definition 6.3.1** (Angle) <br>The figure formed by two rays with a common endpoint is called an angle. This common endpoint is the vertex of the angle, and the two rays are the two sides of the angle.
->
+> 
 > **Definition 6.3.2** (Measuring Angles) <br>Divide a full angle into $360$ equal parts; each part is an angle of $1$ degree, written $1^{\circ}$. $1^{\circ}=60'$, $1'=60''$.
->
+> 
 > **Definition 6.3.3** (Comparing and Operating on Angles) <br>To compare angles, one may measure their degrees with a protractor, or overlay the two angles. Addition and subtraction of angles are carried out based on their degrees.
->
+> 
 > **Definition 6.3.4** (Angle Bisector) <br>A ray starting from the vertex of an angle that divides the angle into two equal angles is called the angle bisector.
->
+> 
 > **Definition 6.3.5** (Complementary Angle) <br>If the sum of two angles equals $90^{\circ}$ (a right angle), we say the two angles are complementary to each other; that is, each angle is the complement of the other.
->
+> 
 > **Definition 6.3.6** (Supplementary Angle) <br>If the sum of two angles equals $180^{\circ}$ (a straight angle), we say the two angles are supplementary to each other; that is, each angle is the supplement of the other.
->
+> 
 > **Definition 6.3.7** (Properties of Complementary and Supplementary Angles) <br>Complements of the same angle (or of equal angles) are equal; supplements of the same angle (or of equal angles) are equal.
 
 ### Exercise 1

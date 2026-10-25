@@ -1,9 +1,9 @@
 # Assignment 117
 
 > **Definition 23.1.1** (Linear Function) <br>A function of the form $y=kx+b$ ($k$ and $b$ are constants, $k \neq 0$) is called a linear function.
->
-> **Conclusion 23.2.2** (Graph and Properties of the Linear Function) <br>The graph of the linear function $y=kx+b$ is a straight line. When $k>0$, $y$ increases as $x$ increases; when $k<0$, $y$ decreases as $x$ increases.
->
+> 
+> **Conclusion 23.2.2** (Graph and Properties of the Linear Function) <br>The graph of the linear function $y=kx+b$ is a straight line. When $k> 0$, $y$ increases as $x$ increases; when $k< 0$, $y$ decreases as $x$ increases.
+> 
 > **Conclusion 23.3.3** (Linear Functions and Systems of Linear Equations in Two Variables) <br>The coordinates of the intersection of the graphs of two linear functions are precisely the solution of the corresponding system of linear equations in two variables.
 
 ### Review Problem 1
@@ -14,7 +14,7 @@
 
 Substituting $\left(-2, 4\right)$ into $y=kx$ gives $4=-2k$, so $k=-2$.
 
-By **Conclusion 23.2.2** (Graph and Properties of the Linear Function), $k=-2<0$, so the graph passes through the second and fourth quadrants. $\blacksquare$
+By **Conclusion 23.2.2** (Graph and Properties of the Linear Function), $k=-2< 0$, so the graph passes through the second and fourth quadrants. $\blacksquare$
 
 ### Review Problem 2
 
@@ -50,11 +50,11 @@ Setting $x=0$ gives $y=4$, so the intersection with the $y$-axis is $\left(0, 4\
 
 ### Review Problem 5
 
-(Review, Comprehensive Application, Problem 5) The graph of the linear function $y=kx+b$ is shown in the figure. Observing the graph, when $x<0$ the range of $y$ is $\;\_\_\;$.
+(Review, Comprehensive Application, Problem 5) The graph of the linear function $y=kx+b$ is shown in the figure. Observing the graph, when $x< 0$ the range of $y$ is $\;\_\_\;$.
 
 ### Solution to Review Problem 5
 
-From the graph, the line intersects the positive half of the $y$-axis and rises from left to right. When $x=0$, $y=b>0$; when $x<0$, $y<b$. Hence the range of $y$ is $y<b$ (i.e. $y$ is less than the y-coordinate of the intersection with the $y$-axis). $\blacksquare$
+From the graph, the line intersects the positive half of the $y$-axis and rises from left to right. When $x=0$, $y=b> 0$; when $x< 0$, $y< b$. Hence the range of $y$ is $y< b$ (i.e. $y$ is less than the y-coordinate of the intersection with the $y$-axis). $\blacksquare$
 
 ### Review Problem 6
 

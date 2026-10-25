@@ -1,11 +1,11 @@
 # Assignment 63
 
 > **Theorem 13.3.1** (Triangle Interior Angle Sum Theorem) <br>The sum of the interior angles of a triangle equals $180^\circ$.
->
+> 
 > **Conclusion 13.3.1** (The Acute Angles of a Right Triangle Are Complementary) <br>The two acute angles of a right triangle are complementary; conversely, a triangle with two complementary angles is a right triangle. A right triangle is denoted $\text{Rt}\triangle$.
->
+> 
 > **Definition 13.3.1** (Exterior Angle of a Triangle) <br>The angle formed by one side of a triangle and the extension of another side is called an exterior angle of the triangle.
->
+> 
 > **Corollary 13.3.1** (Relationship Between an Exterior Angle and the Non-adjacent Interior Angles) <br>An exterior angle of a triangle equals the sum of the two interior angles not adjacent to it. The sum of the three exterior angles of a triangle equals $360^\circ$.
 
 ### Exercise 1

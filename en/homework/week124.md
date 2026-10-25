@@ -1,13 +1,13 @@
 # Assignment 124
 
 > **Definition 24.1.1** (Arithmetic Mean) <br>$\bar{x}=\frac{x_1+x_2+\cdots+x_n}{n}$.
->
+> 
 > **Definition 24.1.3** (Median) <br>The number in the middle position after the data are arranged in ascending order.
->
+> 
 > **Definition 24.1.4** (Mode) <br>The data value that appears most frequently.
->
+> 
 > **Definition 24.2.3** (Variance) <br>$s^2=\frac{\left(x_1-\bar{x}\right)^2+\cdots+\left(x_n-\bar{x}\right)^2}{n}$.
->
+> 
 > **Definition 24.3.1** (Quartiles) <br>$Q_1$, $Q_2$, $Q_3$ divide the data into four equal parts.
 
 ### Review Problem 1

@@ -1,7 +1,7 @@
 # Assignment 13
 
 > **Definition 3.1.2** (Forming Algebraic Expressions) <br>Expressing the quantitative relationships in a problem as expressions containing numbers, letters, and operation symbols.
->
+> 
 > **Definition 3.2.1** (Value of an Algebraic Expression) <br>The result obtained by substituting numerical values for the letters in an algebraic expression and computing according to the operations in the expression.
 
 ### Activity 1

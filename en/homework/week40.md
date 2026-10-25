@@ -1,17 +1,17 @@
 # Assignment 40
 
 > **Definition 8.1.1** (Square Root) <br>If $x^2=a$, then $x$ is called a square root of $a$.
->
+> 
 > **Definition 8.1.2** (Arithmetic Square Root) <br>The positive square root $\sqrt a$ of a positive number $a$ is called the arithmetic square root of $a$, and the arithmetic square root of $0$ is $0$.
->
+> 
 > **Property 8.1.3** (Relationship Between Squaring and Extracting Roots) <br>For a nonnegative number $a$, $\left(\sqrt a\right)^2=a$; for any number $a$, $\sqrt{a^2}=\left|a\right|$.
->
+> 
 > **Definition 8.2.1** (Cube Root) <br>If $x^3=a$, then $x$ is called a cube root of $a$, denoted $\sqrt\left[3\right]{a}$.
->
+> 
 > **Property 8.2.2** (Cube Root of a Negative Number) <br>$\sqrt\left[3\right]{-a}=-\sqrt\left[3\right]{a}$.
->
+> 
 > **Property 8.3.1** (Real Numbers and the Number Line) <br>There is a one-to-one correspondence between real numbers and points on the number line, and numbers on the right are always larger than numbers on the left.
->
+> 
 > **Property 8.3.2** (Opposite Numbers and Absolute Value) <br>The opposite number of a real number $a$ is $-a$; the absolute value of a positive real number is itself, the absolute value of a negative real number is its opposite number, and the absolute value of $0$ is $0$.
 
 ### Review Exercise 1
@@ -66,7 +66,7 @@ By **Definition 8.1.2** (Arithmetic Square Root), **Property 8.1.3**, and **Defi
 
 (3) $\because 0.3^2=0.09$, $\therefore\pm\sqrt{0.09}=\pm 0.3$.
 
-(4) $\because\pi>3$, $\therefore 3-\pi<0$. By **Property 8.1.3**, $\sqrt{\left(3-\pi\right)^2}=\left|3-\pi\right|=\pi-3$. $\blacksquare$
+(4) $\because\pi> 3$, $\therefore 3-\pi< 0$. By **Property 8.1.3**, $\sqrt{\left(3-\pi\right)^2}=\left|3-\pi\right|=\pi-3$. $\blacksquare$
 
 ### Review Exercise 4
 
@@ -108,17 +108,17 @@ Expand by the distributive law.
 
 ### Solution to Review Exercise 6
 
-(1) $\because 9^2=81<91<100=10^2$, $\therefore 9<\sqrt{91}<10$. Also $91-81=10$, $100-91=9$, so $91$ is closer to $100$; thus $\sqrt{91}$ lies between $9$ and $10$, closer to $10$.
+(1) $\because 9^2=81< 91< 100=10^2$, $\therefore 9< \sqrt{91}< 10$. Also $91-81=10$, $100-91=9$, so $91$ is closer to $100$; thus $\sqrt{91}$ lies between $9$ and $10$, closer to $10$.
 
-(2) $\because 4^3=64<91<125=5^3$, $\therefore 4<\sqrt\left[3\right]{91}<5$. Also $91-64=27$, $125-91=34$, so $91$ is closer to $64$; thus $\sqrt\left[3\right]{91}$ lies between $4$ and $5$, closer to $4$. $\blacksquare$
+(2) $\because 4^3=64< 91< 125=5^3$, $\therefore 4< \sqrt\left[3\right]{91}< 5$. Also $91-64=27$, $125-91=34$, so $91$ is closer to $64$; thus $\sqrt\left[3\right]{91}$ lies between $4$ and $5$, closer to $4$. $\blacksquare$
 
 ### Review Exercise 7
 
-(Review Exercise, Comprehensive Application, Problem 7) Given $\left|x\right|<\pi$ ($x$ is an integer), find the values of $x$ and represent them on the number line.
+(Review Exercise, Comprehensive Application, Problem 7) Given $\left|x\right|< \pi$ ($x$ is an integer), find the values of $x$ and represent them on the number line.
 
 ### Solution to Review Exercise 7
 
-$\pi\approx 3.14$, and $\left|x\right|<\pi$ means $-\pi<x<\pi$, i.e. $-3.14<x<3.14$. The integers in this range are $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
+$\pi\approx 3.14$, and $\left|x\right|< \pi$ means $-\pi< x< \pi$, i.e. $-3.14< x< 3.14$. The integers in this range are $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
 
 Thus $x=-3$, $-2$, $-1$, $0$, $1$, $2$, $3$. Mark these points correspondingly on the number line. $\blacksquare$
 
@@ -136,7 +136,7 @@ Square: area $2\pi$, side length $a=\sqrt{2\pi}$, perimeter $C_正=4a=4\sqrt{2\p
 
 Circle: area $\pi r^2=2\pi$, so $r^2=2$, $r=\sqrt 2$, perimeter $C_圆=2\pi r=2\pi\sqrt 2$.
 
-Compare: $C_正=4\sqrt{2\pi}\approx 4\times 2.507=10.03$, $C_圆=2\pi\sqrt 2\approx 8.89$. Thus $C_正>C_圆$, and the square has the larger perimeter.
+Compare: $C_正=4\sqrt{2\pi}\approx 4\times 2.507=10.03$, $C_圆=2\pi\sqrt 2\approx 8.89$. Thus $C_正> C_圆$, and the square has the larger perimeter.
 
 Insight: when the areas are equal, the circle has a smaller perimeter than the square, i.e. the circle is the figure with the smallest perimeter for a given area. $\blacksquare$
 

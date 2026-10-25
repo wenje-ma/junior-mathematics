@@ -1,17 +1,17 @@
 # Assignment 23
 
 > **Definition 5.1.1** (Equation) <br>An equality containing an unknown is called an equation.
->
+> 
 > **Definition 5.1.2** (Solution of an Equation) <br>The value of the unknown that makes the values of the left and right sides of the equation equal is called a solution of the equation.
->
+> 
 > **Definition 5.1.3** (Linear Equation in One Variable) <br>An equation that contains only one unknown, and the degree of the unknown is $1$, is called a linear equation in one variable.
->
+> 
 > **Definition 5.1.4** (Properties of Equality 1) <br>Adding (or subtracting) the same number (or expression) to both sides of an equality keeps the result equal.
->
+> 
 > **Definition 5.1.5** (Properties of Equality 2) <br>Multiplying both sides of an equality by the same number, or dividing by the same number not equal to $0$, keeps the result equal.
->
+> 
 > **Definition 5.2.2** (Transposing Terms) <br>Moving a term from one side of an equality to the other side while changing its sign is called transposing terms.
->
+> 
 > **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Variable) <br>Clear the denominators, remove the parentheses, transpose terms, combine like terms, and make the coefficient $1$.
 
 ### Review Problem 1

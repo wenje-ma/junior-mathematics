@@ -1,19 +1,19 @@
 # Assignment 104
 
 > **Definition 21.2.1** (Parallelogram) <br> A quadrilateral with both pairs of opposite sides parallel is called a parallelogram, denoted \(\square ABCD\).
->
+> 
 > **Property 21.2.1** (Opposite Sides) <br> Opposite sides of a parallelogram are equal.
->
+> 
 > **Property 21.2.2** (Opposite Angles) <br> Opposite angles of a parallelogram are equal.
->
+> 
 > **Property 21.2.3** (Diagonals) <br> The diagonals of a parallelogram bisect each other.
->
+> 
 > **Criterion 21.2.1** (Opposite Sides) <br> A quadrilateral with both pairs of opposite sides equal is a parallelogram.
->
+> 
 > **Criterion 21.2.3** (Diagonals) <br> A quadrilateral whose diagonals bisect each other is a parallelogram.
->
+> 
 > **Criterion 21.2.4** (One Pair of Opposite Sides) <br> A quadrilateral with one pair of opposite sides parallel and equal is a parallelogram.
->
+> 
 > **Theorem 21.2.2** (Triangle Midline Theorem) <br> The midline of a triangle is parallel to the third side and equal to half of it.
 
 ### Exercise 1

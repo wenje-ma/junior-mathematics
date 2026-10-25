@@ -1,9 +1,9 @@
 # Assignment 108
 
 > **Definition 22.1.1** (Constants and Variables) <br>In a process of change, we call a quantity whose value remains constant a constant, and a quantity whose value changes a variable.
->
+> 
 > **Definition 22.1.2** (Function) <br>Generally, in a process of change, if there are two variables $x$ and $y$, and for each definite value of $x$, $y$ has a unique definite value corresponding to it, then we say $x$ is the independent variable and $y$ is a function of $x$. If when $x=a$ then $y=b$, then $b$ is called the function value when the independent variable equals $a$.
->
+> 
 > **Definition 22.1.3** (Analytic Expression of a Function) <br>Using a mathematical expression in the independent variable, as in $y=50-0.1x$, to express the relation between the function and the independent variable is a common way of representing a function; such an expression is called the analytic expression of the function.
 
 ### Exercise 1
@@ -106,7 +106,7 @@ $$
 
 By **Definition 22.1.3** (Analytic Expression of a Function), $S=\frac{3}{2}\left(x+2\right)$ is the desired analytic expression.
 
-The lower base $x$ is greater than the upper base $2\ \text{cm}$, i.e. $x>2$; the lower base $x$ is no more than $5\ \text{cm}$, i.e. $x \leq 5$. Hence the range of the independent variable $x$ is $2 < x \leq 5$. $\blacksquare$
+The lower base $x$ is greater than the upper base $2\ \text{cm}$, i.e. $x> 2$; the lower base $x$ is no more than $5\ \text{cm}$, i.e. $x \leq 5$. Hence the range of the independent variable $x$ is $2 < x \leq 5$. $\blacksquare$
 
 ### Exercise 7
 

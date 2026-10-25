@@ -6,7 +6,7 @@
 
 > **定义 16.1.3** (积的乘方) <br>$\left(ab\right)^n=a^n b^n$ ($n$ 为正整数).
 
-> **定义 16.2.4** (同底数幂的除法) <br>$a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ 为正整数, $m>n$).
+> **定义 16.2.4** (同底数幂的除法) <br>$a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ 为正整数, $m> n$).
 
 > **定义 16.3.1** (平方差公式) <br>$\left(a+b\right)\left(a-b\right)=a^2-b^2$.
 
@@ -218,6 +218,6 @@ $$V=\pi\left(\frac{D^2}{4}-\frac{d^2}{4}\right)h=3.14\times\frac{1-0.16}{4}\time
 
 比较 $P_3$ 与 $P_1$ 的差:
 
-$$P_3-P_1=\left[\frac{\left(p+q\right)^2}{4}-pq\right]\%^2=\frac{\left(p-q\right)^2}{4}\%^2>0.$$
+$$P_3-P_1=\left[\frac{\left(p+q\right)^2}{4}-pq\right]\%^2=\frac{\left(p-q\right)^2}{4}\%^2> 0.$$
 
-因 $p\ne q$, 故 $P_3>P_1=P_2$, 方案 (3) 提价最多. $\blacksquare$
+因 $p\ne q$, 故 $P_3> P_1=P_2$, 方案 (3) 提价最多. $\blacksquare$

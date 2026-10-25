@@ -1,27 +1,27 @@
 # Assignment 35
 
 > **Theorem 7.1.1** (Vertical Angles Are Equal) <br>Vertical angles are equal.
->
+> 
 > **Definition 7.1.3** (Perpendicular) <br>When one of the four angles formed by two intersecting lines is a right angle, the two lines are said to be perpendicular to each other.
->
+> 
 > **Theorem 7.1.2** (The Perpendicular Segment Is the Shortest) <br>Among all segments connecting a point outside a line to points on the line, the perpendicular segment is the shortest.
->
+> 
 > **Basic Fact 7.2.1** (Parallel Axiom) <br>Through a point outside a given line there is exactly one line parallel to the given line.
->
+> 
 > **Theorem 7.2.1** (Transitivity of Parallelism) <br>If two lines are both parallel to a third line, then these two lines are also parallel to each other.
->
+> 
 > **Basic Fact 7.2.2** (Criterion 1) <br>Equal corresponding angles imply parallel lines.
->
+> 
 > **Theorem 7.2.2** (Criterion 2) <br>Equal alternate interior angles imply parallel lines.
->
+> 
 > **Theorem 7.2.3** (Criterion 3) <br>Supplementary consecutive interior angles imply parallel lines.
->
+> 
 > **Property 7.2.1** (Property 1) <br>Parallel lines give equal corresponding angles.
->
+> 
 > **Property 7.2.2** (Property 2) <br>Parallel lines give equal alternate interior angles.
->
+> 
 > **Property 7.2.3** (Property 3) <br>Parallel lines give supplementary consecutive interior angles.
->
+> 
 > **Property 7.4.1** (Properties of Translation) <br>After translation, the new figure has exactly the same shape and size as the original figure; the segments connecting each pair of corresponding points are parallel (or lie on the same line) and equal.
 
 ### Review Exercise 1

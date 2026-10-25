@@ -1,17 +1,17 @@
 # Assignment 168
 
 > **Definition 28.2.1** (Solving a Right Triangle) <br>In a right triangle, apart from the right angle, there are five elements in all, namely the three sides and the two acute angles. The process of finding the remaining unknown elements from the known elements of the right triangle is called solving a right triangle.
->
+> 
 > **Conclusion 28.2.1** (Relationships Among the Elements of a Right Triangle) <br>In $\text{Rt}\triangle ABC$, where $\angle C$ is the right angle and the sides opposite $\angle A$, $\angle B$, $\angle C$ are $a$, $b$, $c$, respectively:
->
+> 
 > (1) Relationship of the three sides: $a^{2}+b^{2}=c^{2}$ (the Pythagorean theorem);
->
+> 
 > (2) Relationship of the two acute angles: $\angle A+\angle B=90^{\circ}$;
->
+> 
 > (3) Relationship between sides and angles: $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$, $\tan A=\frac{a}{b}$ ($A$ may be replaced by $B$, while $a$ and $b$ are interchanged at the same time).
->
+> 
 > Knowing any two of these elements (at least one of which is a side), one can find the remaining three unknown elements.
->
+> 
 > **Conclusion 28.2.2** (Angle of Elevation and Angle of Depression) <br>Among the angles formed by the line of sight and the horizontal line, the angle above the horizontal line is called the angle of elevation, and the angle below the horizontal line is called the angle of depression.
 
 ### Exercise 1
@@ -88,7 +88,7 @@ In $\text{Rt}\triangle ADE$, $DE=AE/\tan 60^{\circ}=AE/\sqrt{3}$.
 
 Also $BE-DE=BD=12$, so $AE\sqrt{3}-AE/\sqrt{3}=12$, i.e. $AE\cdot\frac{3-1}{\sqrt{3}}=12$, $AE=6\sqrt{3}\approx 10.39\ \text{n mile}$.
 
-Since $AE\approx 10.39>8$, the fishing boat continuing due east is in no danger of striking a reef. $\blacksquare$
+Since $AE\approx 10.39> 8$, the fishing boat continuing due east is in no danger of striking a reef. $\blacksquare$
 
 ### Exercise 5
 
@@ -238,7 +238,7 @@ Draw $PH\perp$ the course (due east) through $P$ at $H$. At point $A$, $P$ is $6
 
 $PH=AP\cdot\sin 30^{\circ}=32\times\frac{1}{2}=16\ \text{n mile}$.
 
-The reef radius is $16\sqrt{2}\approx 22.63\ \text{n mile}$. Since $PH=16<16\sqrt{2}$, the ship continuing due east is in danger of striking a reef.
+The reef radius is $16\sqrt{2}\approx 22.63\ \text{n mile}$. Since $PH=16< 16\sqrt{2}$, the ship continuing due east is in danger of striking a reef.
 
 Suppose the ship sails in a direction $\theta$ east of south to pass safely, i.e. the distance from the course leaving $A$ to $P$ equals the reef radius $16\sqrt{2}$. The new course passes through $A$; let its angle with due east be $\varphi$ (toward the south). The distance from the new course to $P$ is $d=AP\cdot\sin\left(30^{\circ}-\varphi\right)$.
 

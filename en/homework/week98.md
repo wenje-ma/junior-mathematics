@@ -1,11 +1,11 @@
 # Assignment 98
 
 > **Property 19.1.1** (Nonnegativity of Quadratic Radicals) <br> When \(a\ge 0\), \(\sqrt{a}\ge 0\).
->
+> 
 > **Rule 19.2.1** (Multiplication) <br> \(\sqrt{a}\cdot\sqrt{b}=\sqrt{ab}\) (\(a\ge 0,\ b\ge 0\)).
->
-> **Rule 19.2.3** (Division) <br> \(\frac{\sqrt{a}}{\sqrt{b}}=\sqrt{\frac{a}{b}}\) (\(a\ge 0,\ b>0\)).
->
+> 
+> **Rule 19.2.3** (Division) <br> \(\frac{\sqrt{a}}{\sqrt{b}}=\sqrt{\frac{a}{b}}\) (\(a\ge 0,\ b> 0\)).
+> 
 > **Rule 19.3.1** (Addition and Subtraction) <br> When adding and subtracting quadratic radicals, first reduce the quadratic radicals to simplest form, and then combine the quadratic radicals with the same radicand.
 
 ### Review Problem 1
@@ -20,9 +20,9 @@ By **Definition 19.1.1**, the radicand must be nonnegative, and the denominator 
 
 (1) \(3+x\ge 0\), giving \(x\ge -3\).
 
-(2) \(2x-1>0\), giving \(x>\frac{1}{2}\).
+(2) \(2x-1> 0\), giving \(x> \frac{1}{2}\).
 
-(3) \(2-3x>0\), giving \(x<\frac{2}{3}\).
+(3) \(2-3x> 0\), giving \(x< \frac{2}{3}\).
 
 (4) \((x-1)^{2}\ge 0\) always holds; \(x\) may be any real number.
 
@@ -186,7 +186,7 @@ Then \(189n=3969=63^{2}\), so the minimum value of \(n\) is \(21\).
 
 (2) By the problem, the four annular regions (including the innermost circle) each occupy \(\frac{1}{4}\) of the large circle's area.
 
-Let the radii of the four circles be \(OD<OC<OB<OA=r\).
+Let the radii of the four circles be \(OD< OC< OB< OA=r\).
 
 The area of the innermost circle is \(\frac{1}{4}\pi r^{2}\), so \(\pi OD^{2}=\frac{1}{4}\pi r^{2}\), giving \(OD=\frac{r}{2}\).
 

@@ -1,11 +1,11 @@
 # Assignment 66
 
 > **Definition 13.2.1** (Centroid of a Triangle) <br>The three medians of a triangle intersect at one point, called the centroid of the triangle; the centroid of a uniform triangular thin plate lies at this point.
->
+> 
 > **Conclusion (Comprehensive and Practical Activity 1)** (Centroid of Simple Figures) <br>The centroid of a uniform segment is its midpoint; the centroid of a centrally symmetric figure such as a square, rectangle or parallelogram is its center of symmetry (the intersection of the diagonals); the centroid of a triangle is the intersection of the three medians.
->
+> 
 > **Conclusion (Comprehensive and Practical Activity 2)** (Centroid of Composite Figures) <br>Divide the composite figure into several simple figures whose centroid positions are known; let the area of the $i$-th part be $S_i$ and its centroid coordinates be $\left(x_i,y_i\right)$. Then the centroid coordinates of the whole are
->
+> 
 > $$
 > \bar x=\frac{\sum S_i x_i}{\sum S_i},\quad \bar y=\frac{\sum S_i y_i}{\sum S_i}.
 > $$

@@ -1,7 +1,7 @@
 # Assignment 102
 
 > **Theorem 20.1.1** (Pythagorean Theorem) <br> In a right triangle, the sum of the squares of the two legs equals the square of the hypotenuse. If the two legs of a right triangle are \(a,b\) and the hypotenuse is \(c\), then \(a^{2}+b^{2}=c^{2}\).
->
+> 
 > **Theorem 20.2.1** (Converse of the Pythagorean Theorem) <br> If the three side lengths \(a,b,c\) of a triangle satisfy \(a^{2}+b^{2}=c^{2}\), then this triangle is a right triangle.
 
 ### Review Problem 1
@@ -190,7 +190,7 @@ $$
 d=\sqrt{50^{2}+40^{2}+30^{2}}=\sqrt{2500+1600+900}=\sqrt{5000}\approx 70.7\ \text{cm}.
 $$
 
-Since \(70.7>70\), the stick fits inside the box.
+Since \(70.7> 70\), the stick fits inside the box.
 
 \(\blacksquare\)
 

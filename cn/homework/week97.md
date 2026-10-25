@@ -1,8 +1,8 @@
 # 作业 97
 
 > **法则 19.2.2** (乘法逆用) <br> \(\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}\)（\(a\ge 0,\ b\ge 0\)）。
->
-> **法则 19.2.4** (除法逆用) <br> \(\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}\)（\(a\ge 0,\ b>0\)）。
+> 
+> **法则 19.2.4** (除法逆用) <br> \(\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}\)（\(a\ge 0,\ b> 0\)）。
 
 ### 活动一
 

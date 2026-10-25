@@ -1,13 +1,13 @@
 # Assignment 130
 
 > **Conclusion 25.3.1** (Setting Up Equations for Word Problems) <br>The general steps for solving a practical problem by setting up a quadratic equation: analyze the problem, set up the unknown, write the equation according to the equal relation, solve the equation, check whether the roots make practical sense, and give the answer.
->
+> 
 > **Conclusion 25.3.2** (Growth-Rate and Decline-Rate Model) <br>Let the original quantity be $a$ and the average growth rate be $x$; after two changes it is $a\left(1+x\right)^2$. If the average decline rate is $x$, then after two changes it is $a\left(1-x\right)^2$.
->
+> 
 > **Conclusion 25.3.3** (Propagation Model) <br>If there is initially $1$ person, and in each round each $1$ person infects $x$ others on average, then after two rounds a total of $\left(1+x\right)^2$ people are infected.
->
+> 
 > **Conclusion 25.3.4** (Match-Schedule Model) <br>$n$ teams in a single round-robin play $\frac{n\left(n-1\right)}2$ matches in total; in a home-and-away double round-robin they play $n\left(n-1\right)$ matches.
->
+> 
 > **Conclusion 25.3.5** (Diagonals of a Convex Polygon) <br>A convex $n$-gon has $\frac{n\left(n-3\right)}2$ diagonals in total.
 
 ### Exercise 1
@@ -32,7 +32,7 @@ $$
 x\left(20-x\right)=101.
 $$
 
-Rearranging gives $x^2-20x+101=0$, whose discriminant is $\Delta=\left(-20\right)^2-4\times101=400-404=-4<0$; the equation has no real root. Hence a rectangular area of $101\ \text{m}^2$ cannot be enclosed. $\blacksquare$
+Rearranging gives $x^2-20x+101=0$, whose discriminant is $\Delta=\left(-20\right)^2-4\times101=400-404=-4< 0$; the equation has no real root. Hence a rectangular area of $101\ \text{m}^2$ cannot be enclosed. $\blacksquare$
 
 ### Exercise 2
 
@@ -242,7 +242,7 @@ $$
 
 Expanding gives $c^2-2c+1+c^2-16c+64=c^2$, i.e. $c^2-18c+65=0$, i.e. $\left(c-5\right)\left(c-13\right)=0$, solving gives $c=5$ or $c=13$.
 
-When $c=5$, the other leg $c-8=-3<0$, which does not fit the problem, so discard it. When $c=13$, the two legs are $12$ and $5$, both positive integers. Hence such a right triangle exists, and there is exactly one, with sides $5,12,13$. $\blacksquare$
+When $c=5$, the other leg $c-8=-3< 0$, which does not fit the problem, so discard it. When $c=13$, the two legs are $12$ and $5$, both positive integers. Hence such a right triangle exists, and there is exactly one, with sides $5,12,13$. $\blacksquare$
 
 ### Problem 8
 

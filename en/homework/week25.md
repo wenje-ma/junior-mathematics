@@ -1,17 +1,17 @@
 # Assignment 25
 
 > **Definition 6.2.1** (Line) <br>Through two points there is one line, and only one line. In short: two points determine a line.
->
+> 
 > **Definition 6.2.2** (Intersection) <br>When two distinct lines have a common point, we say the two lines intersect, and this common point is called their intersection point.
->
+> 
 > **Definition 6.2.3** (Ray and Segment) <br>A point on a line and the part on one side of it is called a ray, and this point is called the endpoint of the ray. Two points on a line and the part between them is called a segment, and these two points are called the endpoints of the segment.
->
+> 
 > **Definition 6.2.4** (Comparing Segments) <br>To compare the lengths of two segments, one may measure their lengths with a ruler and compare, or move one segment onto the other for comparison.
->
+> 
 > **Definition 6.2.5** (Basic Fact about Segments) <br>Among all the paths connecting two points, the segment is the shortest. In short: between two points, the segment is shortest.
->
+> 
 > **Definition 6.2.6** (Distance) <br>The length of the segment connecting two points is called the distance between these two points.
->
+> 
 > **Definition 6.2.7** (Midpoint of a Segment) <br>Point $M$ divides segment $AB$ into two equal segments $AM$ and $MB$; point $M$ is called the midpoint of segment $AB$.
 
 ### Exercise 1

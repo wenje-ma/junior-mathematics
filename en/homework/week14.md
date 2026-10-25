@@ -1,11 +1,11 @@
 # Assignment 14
 
 > **Definition 3.1.1** (Algebraic Expression) <br>An expression formed by connecting numbers, or letters representing numbers, with operation symbols is called an algebraic expression.
->
+> 
 > **Definition 3.1.2** (Writing Algebraic Expressions) <br>Expressing the quantitative relationships in a problem using expressions containing numbers, letters and operation symbols.
->
+> 
 > **Definition 3.1.3** (Quantities in Inverse Proportion) <br>Two related quantities whose product is constant, i.e. $xy=k$ ($k$ is a fixed value, $k\ne 0$), are in an inverse proportion relationship.
->
+> 
 > **Definition 3.2.1** (Value of an Algebraic Expression) <br>The result obtained by substituting numerical values for the letters in an algebraic expression and computing according to the operations in the expression.
 
 ### Review Problem 1

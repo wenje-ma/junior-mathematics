@@ -1,7 +1,7 @@
 # Assignment 39
 
 > **Definition 8.1.1** (Square Root) <br>If a number $x$ has square equal to $a$, i.e. $x^2=a$, then this number $x$ is called a square root of $a$.
->
+> 
 > **Definition 8.2.1** (Cube Root) <br>If a number $x$ has cube equal to $a$, i.e. $x^3=a$, then this number $x$ is called a cube root of $a$, denoted $\sqrt\left[3\right]{a}$.
 
 ### Activity 1
@@ -40,10 +40,10 @@ Thus $A0$ paper has length about $1189\,\text{mm}$ and width about $841\,\text{m
 
 By **Definition 8.2.1** (Cube Root), determine each digit using the pattern of cubes.
 
-(1) $\because 10^3=1000<59319<1000000=100^3$, $\therefore 10<\sqrt\left[3\right]{59319}<100$, i.e. $\sqrt\left[3\right]{59319}$ is a two-digit number.
+(1) $\because 10^3=1000< 59319< 1000000=100^3$, $\therefore 10< \sqrt\left[3\right]{59319}< 100$, i.e. $\sqrt\left[3\right]{59319}$ is a two-digit number.
 
 (2) The only units digit whose cube still has units digit $9$ is $9$ ($9^3=729$, units digit $9$), so the units digit of $\sqrt\left[3\right]{59319}$ is $9$.
 
-(3) Deleting the last three digits $319$ gives $59$; $\because 3^3=27<59<64=4^3$, $\therefore$ the cube root corresponding to the tens digit lies between $3$ and $4$; take the smaller $3$, i.e. the tens digit is $3$.
+(3) Deleting the last three digits $319$ gives $59$; $\because 3^3=27< 59< 64=4^3$, $\therefore$ the cube root corresponding to the tens digit lies between $3$ and $4$; take the smaller $3$, i.e. the tens digit is $3$.
 
 In summary, $\sqrt\left[3\right]{59319}=39$. $\blacksquare$

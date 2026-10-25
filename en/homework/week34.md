@@ -1,13 +1,13 @@
 # Assignment 34
 
 > **Basic Fact 7.2.1** (Parallel Axiom) <br>Through a point outside a given line there is exactly one line parallel to the given line.
->
+> 
 > **Basic Fact 7.2.2** (Criterion 1) <br>If two lines are cut by a third line and the corresponding angles are equal, then the two lines are parallel. In short: equal corresponding angles imply parallel lines.
->
+> 
 > **Theorem 7.2.2** (Criterion 2) <br>If two lines are cut by a third line and the alternate interior angles are equal, then the two lines are parallel. In short: equal alternate interior angles imply parallel lines.
->
+> 
 > **Definition 7.4.1** (Translation) <br>In a plane, moving a figure by a certain distance in a certain direction is called a translation of the figure.
->
+> 
 > **Property 7.4.1** (Properties of Translation) <br>After translation, the new figure has exactly the same shape and size as the original figure; the segments connecting each pair of corresponding points are parallel (or lie on the same line) and equal.
 
 ### Activity 1

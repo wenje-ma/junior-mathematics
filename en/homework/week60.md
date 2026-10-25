@@ -1,9 +1,9 @@
 # Assignment 60
 
 > **Definition 12.2.3** (Line Chart) <br>The rise or fall of a broken line represents the change of data over time.
->
+> 
 > **Definition 12.2.7** (Trend Chart) <br>A statistical chart using a line to describe the relationship between one quantity and another.
->
+> 
 > **Formula 12.5.1** (Daylight Duration) <br>Daylight duration $=$ (noon time $-$ sunrise time) $\times2=$ (sunset time $-$ noon time) $\times2$.
 
 ### Inquiry 1

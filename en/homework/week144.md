@@ -1,11 +1,11 @@
 # Assignment 144
 
 > **Definition 28.2.1** (Central Symmetry) <br>If a figure is rotated about a point through $180^\circ$ and the rotated figure can coincide with another figure, then the two figures are said to be symmetric about this point, or centrally symmetric; this point is called the center of symmetry, and the points that coincide after rotation are called symmetric points.
->
+> 
 > **Property 28.2.1** (Properties of Central Symmetry) <br>For two figures that are centrally symmetric, the segments joining symmetric points pass through the center of symmetry and are bisected by it; the two centrally symmetric figures are congruent.
->
+> 
 > **Definition 28.2.2** (Centrally Symmetric Figure) <br>If a figure is rotated about a point through $180^\circ$ and the rotated figure can coincide with the original figure, then the figure is called a centrally symmetric figure, and this point is its center of symmetry.
->
+> 
 > **Property 28.2.2** (Coordinates of Points Symmetric about the Origin) <br>When two points are symmetric about the origin, their coordinates have opposite signs, i.e. the point symmetric to $P\left(x,y\right)$ about the origin is $P'\left(-x,-y\right)$.
 
 ### Exercise 1
@@ -206,7 +206,7 @@ The intersection $O$ of the diagonals of $\square ABCD$ is its center of symmetr
 
 ### Reading and Thinking 1
 
-(Reading and Thinking, Rotationally Symmetric Figures) If a plane figure is rotated about a point $O$ in the plane through an angle $\alpha$ ($0<\alpha<360^\circ$) and the resulting new figure coincides exactly with the original, then the figure is called a rotationally symmetric figure. A centrally symmetric figure is a special kind of rotationally symmetric figure. Think about it: are all regular polygons rotationally symmetric? What rotational symmetry do they have?
+(Reading and Thinking, Rotationally Symmetric Figures) If a plane figure is rotated about a point $O$ in the plane through an angle $\alpha$ ($0< \alpha< 360^\circ$) and the resulting new figure coincides exactly with the original, then the figure is called a rotationally symmetric figure. A centrally symmetric figure is a special kind of rotationally symmetric figure. Think about it: are all regular polygons rotationally symmetric? What rotational symmetry do they have?
 
 ### Solution to Reading and Thinking 1
 

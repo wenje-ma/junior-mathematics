@@ -1,11 +1,11 @@
 # Assignment 16
 
 > **Definition 4.2.1** (Like Terms) <br>Terms that contain the same letters, with the same exponents on the same letters, are called like terms. Several constant terms are also like terms.
->
+> 
 > **Definition 4.2.2** (Combining Like Terms) <br>Combining like terms in a polynomial into a single term is called combining like terms. After combining like terms, the coefficient of the resulting term is the sum of the coefficients of the like terms before combining, while the letters together with their exponents remain unchanged.
->
+> 
 > **Definition 4.2.3** (Rule for Removing Parentheses) <br>When a number multiplies a polynomial, multiply the number outside the parentheses by each term inside them, then add the resulting products; in this way the parentheses can be removed. In particular, $+\left(x-3\right)=x-3$, $-\left(x-3\right)=-x+3$.
->
+> 
 > **Definition 4.2.4** (Rule for Adding and Subtracting Integral Expressions) <br>When adding or subtracting several integral expressions, first remove any parentheses, then combine like terms.
 
 ### Exercise 1
@@ -310,7 +310,7 @@ The simplified result is the constant $2035$, independent of the value of $a$. H
 
 ### Problem 7
 
-(Problem 4.2, Comprehensive Application, Problem 7) Given that the first side of a triangle has length $3a+2b$ ($a>0$, $b>0$), the second side is $2a$ shorter than the first side, and the third side is $a-b$ longer than $2$ times the length of the second side.
+(Problem 4.2, Comprehensive Application, Problem 7) Given that the first side of a triangle has length $3a+2b$ ($a> 0$, $b> 0$), the second side is $2a$ shorter than the first side, and the third side is $a-b$ longer than $2$ times the length of the second side.
 
 (1) Find the lengths of the second and third sides;
 
@@ -366,7 +366,7 @@ $\blacksquare$
 
 ### Problem 10
 
-(Problem 4.2, Extension and Exploration, Problem 10) Some points form a triangle-shaped figure, with $n$ ($n>1$) points on each "side" (including the two vertices). What is the total number $S$ of points in this figure? When $n=5$, $7$, $11$, what are the respective values of $S$?
+(Problem 4.2, Extension and Exploration, Problem 10) Some points form a triangle-shaped figure, with $n$ ($n> 1$) points on each "side" (including the two vertices). What is the total number $S$ of points in this figure? When $n=5$, $7$, $11$, what are the respective values of $S$?
 
 ### Solution to Problem 10
 

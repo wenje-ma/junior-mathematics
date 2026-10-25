@@ -18,7 +18,7 @@ By **Conclusion 26.3.1**, convert the height problem into the corresponding prob
 
 (1) Setting $h=15$ gives $20t-5t^2=15$; rearranging gives $t^2-4t+3=0$, i.e. $\left(t-1\right)\left(t-3\right)=0$, solving gives $t=1$ or $t=3$. Hence it can reach $15\ \text{m}$, at flight times $1\ \text{s}$ and $3\ \text{s}$ respectively.
 
-(2) Setting $h=20.5$ gives $20t-5t^2=20.5$; rearranging gives $t^2-4t+4.1=0$, whose discriminant is $\Delta=16-16.4=-0.4<0$, so the equation has no real root. Hence the ball cannot reach $20.5\ \text{m}$.
+(2) Setting $h=20.5$ gives $20t-5t^2=20.5$; rearranging gives $t^2-4t+4.1=0$, whose discriminant is $\Delta=16-16.4=-0.4< 0$, so the equation has no real root. Hence the ball cannot reach $20.5\ \text{m}$.
 
 (3) On landing, $h=0$, giving $20t-5t^2=0$, i.e. $5t\left(4-t\right)=0$, solving gives $t=0$ (at launch) or $t=4$. Hence it takes $4\ \text{s}$ from launch to landing. $\blacksquare$
 
@@ -82,9 +82,9 @@ By **Conclusion 26.3.1**, use the quadratic formula to find the corresponding ro
 
 Use **Conclusion 26.3.1** and the discriminant $\Delta=b^2-4ac$ to decide.
 
-(1) $\Delta=\left(-6\right)^2-4\cdot3\cdot9=36-108=-72<0$; the equation $3x^2-6x+9=0$ has no real root, so the graph has no common point with the $x$-axis.
+(1) $\Delta=\left(-6\right)^2-4\cdot3\cdot9=36-108=-72< 0$; the equation $3x^2-6x+9=0$ has no real root, so the graph has no common point with the $x$-axis.
 
-(2) $\Delta=\left(-4\right)^2-4\cdot2\cdot\left(-6\right)=16+48=64>0$; the graph has two common points with the $x$-axis. By the quadratic formula, $x=\frac{4\pm8}{4}$, i.e. $x=3$ or $x=-1$; the common points are $\left(3,0\right)$ and $\left(-1,0\right)$. $\blacksquare$
+(2) $\Delta=\left(-4\right)^2-4\cdot2\cdot\left(-6\right)=16+48=64> 0$; the graph has two common points with the $x$-axis. By the quadratic formula, $x=\frac{4\pm8}{4}$, i.e. $x=3$ or $x=-1$; the common points are $\left(3,0\right)$ and $\left(-1,0\right)$. $\blacksquare$
 
 ### Problem 4
 
@@ -120,13 +120,13 @@ Factoring, $y=x^2-2x-3=\left(x-3\right)\left(x+1\right)$; the parabola opens upw
 
 (1) By **Conclusion 26.3.1**, the roots are the horizontal coordinates of the common points with the $x$-axis, namely $x_1=-1$, $x_2=3$.
 
-(2) The parabola opens upward; the part above the $x$-axis corresponds to function values greater than $0$, i.e. $x<-1$ or $x>3$.
+(2) The parabola opens upward; the part above the $x$-axis corresponds to function values greater than $0$, i.e. $x< -1$ or $x> 3$.
 
-(3) The part below the $x$-axis corresponds to function values less than $0$, i.e. $-1<x<3$. $\blacksquare$
+(3) The part below the $x$-axis corresponds to function values less than $0$, i.e. $-1< x< 3$. $\blacksquare$
 
 ### Problem 6
 
-(Exercise 26.3, Extension and Exploration, Problem 6) If $a>0$, where is the vertex of the parabola $y=ax^2+bx+c$ in the following cases?
+(Exercise 26.3, Extension and Exploration, Problem 6) If $a> 0$, where is the vertex of the parabola $y=ax^2+bx+c$ in the following cases?
 
 (1) The equation $ax^2+bx+c=0$ has two unequal real roots;
 
@@ -134,13 +134,13 @@ Factoring, $y=x^2-2x-3=\left(x-3\right)\left(x+1\right)$; the parabola opens upw
 
 (3) The equation $ax^2+bx+c=0$ has no real root.
 
-What if $a<0$?
+What if $a< 0$?
 
 ### Solution to Problem 6
 
 By **Conclusion 26.3.1**, the number of common points with the $x$-axis corresponds to the nature of the roots; the vertex's vertical coordinate is $\frac{4ac-b^2}{4a}$.
 
-When $a>0$, the parabola opens upward:
+When $a> 0$, the parabola opens upward:
 
 (1) Two unequal real roots, i.e. two common points with the $x$-axis; the vertex lies below the $x$-axis;
 
@@ -148,4 +148,4 @@ When $a>0$, the parabola opens upward:
 
 (3) No real root, i.e. no common point with the $x$-axis; the vertex lies above the $x$-axis.
 
-When $a<0$, the parabola opens downward, and the conclusions are reversed: (1) vertex above the $x$-axis; (2) vertex on the $x$-axis; (3) vertex below the $x$-axis. $\blacksquare$
+When $a< 0$, the parabola opens downward, and the conclusions are reversed: (1) vertex above the $x$-axis; (2) vertex on the $x$-axis; (3) vertex below the $x$-axis. $\blacksquare$

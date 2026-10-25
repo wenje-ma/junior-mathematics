@@ -134,9 +134,9 @@ All denominators and divisors are not $0$.
 
 (1) The numerator $3x-6=0$ and the denominator $2x+1\ne0$, giving $x=2$.
 
-(2) $x^2>0$ (always true, $x\ne0$), requiring $2x+1>0$, i.e. $x>-\frac12$ and $x\ne0$.
+(2) $x^2> 0$ (always true, $x\ne0$), requiring $2x+1> 0$, i.e. $x> -\frac12$ and $x\ne0$.
 
-(3) $x^2>0$ ($x\ne0$), requiring $x-2<0$, i.e. $x<2$ and $x\ne0$. $\blacksquare$
+(3) $x^2> 0$ ($x\ne0$), requiring $x-2< 0$, i.e. $x< 2$ and $x\ne0$. $\blacksquare$
 
 ### Review Problem 7
 

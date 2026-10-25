@@ -1,9 +1,9 @@
 # Assignment 10
 
 > **Definition 2.3.1** (Powers) <br>The operation of finding the product of $n$ identical factors is called exponentiation, and the result is called a power. It is stipulated that when $a\ne 0$, $a^{0}=1$.
->
-> **Definition 2.3.4** (Scientific Notation) <br>Expressing a number greater than $10$ in the form $a\times 10^{n}$ ($1\le a<10$, where $n$ is a positive integer).
->
+> 
+> **Definition 2.3.4** (Scientific Notation) <br>Expressing a number greater than $10$ in the form $a\times 10^{n}$ ($1\le a< 10$, where $n$ is a positive integer).
+> 
 > **Definition 2.1.1** (Rules for Addition of Rational Numbers) <br>When two numbers of the same sign are added, the sum takes the same sign; when two numbers of opposite signs are added, the sum takes the sign of the addend with the larger absolute value.
 
 ### Inquiry 1

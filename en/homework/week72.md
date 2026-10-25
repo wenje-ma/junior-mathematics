@@ -1,15 +1,15 @@
 # Assignment 72
 
 > **Definition 15.1.1** (Axisymmetric Figure) <br>If a plane figure can be folded along a line so that the parts on both sides of the line coincide with each other, the figure is called an axisymmetric figure, and the line is called its axis of symmetry; the points that coincide after folding are called symmetric points. If folding one figure along a line makes it coincide with another figure, the two figures are said to be symmetric about that line.
->
+> 
 > **Conclusion 15.1.1** (Properties of Axis Symmetry) <br>Two figures symmetric about a line are congruent; the axis of symmetry is the perpendicular bisector of the segment joining any pair of symmetric points, i.e. the segment joining symmetric points is perpendicularly bisected by the axis of symmetry.
->
+> 
 > **Definition 15.1.2** (Perpendicular Bisector of a Segment) <br>The line passing through the midpoint of a segment and perpendicular to it is called the perpendicular bisector of the segment.
->
+> 
 > **Conclusion 15.1.2** (Properties of the Perpendicular Bisector) <br>A point on the perpendicular bisector of a segment is equidistant from the two endpoints of the segment.
->
+> 
 > **Conclusion 15.1.3** (Determination of the Perpendicular Bisector) <br>A point equidistant from the two endpoints of a segment lies on the perpendicular bisector of the segment. The perpendicular bisector of a segment can be regarded as the set of all points equidistant from the two endpoints.
->
+> 
 > **Definition 15.1.3** (Converse Propositions) <br>Two propositions whose hypothesis and conclusion are exactly reversed are called converse propositions; if the converse proposition of a theorem is proved to be true, then the two are converse theorems of each other.
 
 ### Exercise 1

@@ -1,11 +1,11 @@
 # 作业 38
 
 > **定义 8.3.1** (无理数) <br>无限不循环小数又叫作无理数. 无理数有正负之分.
->
+> 
 > **定义 8.3.2** (实数) <br>有理数和无理数统称实数. 实数分为正实数、$0$、负实数.
->
+> 
 > **性质 8.3.1** (实数与数轴) <br>实数与数轴上的点是一一对应的. 数轴上右边的点表示的实数总比左边的大.
->
+> 
 > **性质 8.3.2** (相反数与绝对值) <br>实数 $a$ 的相反数是 $-a$. 一个正实数的绝对值是它本身, 一个负实数的绝对值是它的相反数, $0$ 的绝对值是 $0$. 有理数的运算法则及运算性质同样适用于实数.
 
 ### 练习一
@@ -50,7 +50,7 @@
 
 ### 练习三
 
-(练习 8.3 第 3 题) 把下列实数表示在数轴上, 并比较它们的大小 (用"$<$"连接): $-2$, $\sqrt 2$, $\frac{3}{2}$, $-\pi$.
+(练习 8.3 第 3 题) 把下列实数表示在数轴上, 并比较它们的大小 (用"$< $"连接): $-2$, $\sqrt 2$, $\frac{3}{2}$, $-\pi$.
 
 图中为一条数轴，标出原点及正方向，在数轴上从左到右依次标出 $-\pi$（约 $-3.14$）、$-2$、$\sqrt 2$（约 $1.414$）、$\frac{3}{2}=1.5$ 四个点。
 
@@ -63,7 +63,7 @@
 故
 
 $$
--\pi<-2<\sqrt 2<\frac{3}{2}.
+-\pi< -2< \sqrt 2< \frac{3}{2}.
 $$
 
 $\blacksquare$
@@ -82,9 +82,9 @@ $-\sqrt 7$: 相反数为 $\sqrt 7$, 绝对值为 $\sqrt 7$.
 
 $-\frac{\pi}{2}$: 相反数为 $\frac{\pi}{2}$, 绝对值为 $\frac{\pi}{2}$.
 
-$1.4-\sqrt 2\approx 1.4-1.414<0$: 相反数为 $\sqrt 2-1.4$, 绝对值为 $\sqrt 2-1.4$.
+$1.4-\sqrt 2\approx 1.4-1.414< 0$: 相反数为 $\sqrt 2-1.4$, 绝对值为 $\sqrt 2-1.4$.
 
-$\frac{\sqrt 5-1}{2}\approx\frac{2.236-1}{2}>0$: 相反数为 $\frac{1-\sqrt 5}{2}$, 绝对值为 $\frac{\sqrt 5-1}{2}$.
+$\frac{\sqrt 5-1}{2}\approx\frac{2.236-1}{2}> 0$: 相反数为 $\frac{1-\sqrt 5}{2}$, 绝对值为 $\frac{\sqrt 5-1}{2}$.
 
 $0$: 相反数为 $0$, 绝对值为 $0$. $\blacksquare$
 
@@ -100,7 +100,7 @@ $0$: 相反数为 $0$, 绝对值为 $0$. $\blacksquare$
 
 (1) 由分配律, $2\sqrt 5-3\sqrt 5=\left(2-3\right)\sqrt 5=-\sqrt 5$.
 
-(2) $\because\sqrt\left[3\right]{3}\approx 1.442>1$, $\therefore 1-\sqrt\left[3\right]{3}<0$, 故 $\left|1-\sqrt\left[3\right]{3}\right|=\sqrt\left[3\right]{3}-1$. 于是
+(2) $\because\sqrt\left[3\right]{3}\approx 1.442> 1$, $\therefore 1-\sqrt\left[3\right]{3}< 0$, 故 $\left|1-\sqrt\left[3\right]{3}\right|=\sqrt\left[3\right]{3}-1$. 于是
 
 $$
 3\sqrt 3-\left|1-\sqrt\left[3\right]{3}\right|=3\sqrt 3-\left(\sqrt\left[3\right]{3}-1\right)=3\sqrt 3-\sqrt\left[3\right]{3}+1.
@@ -138,7 +138,7 @@ $3.14$ 是有限小数, 有理数; $-\frac{22}{7}$ 是分数, 有理数; $\sqrt{
 
 ### 习题二
 
-(习题 8.3 复习巩固第 2 题) 把下列实数表示在数轴上, 并比较它们的大小 (用"$<$"连接): $-\frac{1}{3}$, $-1.5$, $\sqrt{2^2}$, $\left|-3\right|$.
+(习题 8.3 复习巩固第 2 题) 把下列实数表示在数轴上, 并比较它们的大小 (用"$< $"连接): $-\frac{1}{3}$, $-1.5$, $\sqrt{2^2}$, $\left|-3\right|$.
 
 ### 解答 习题二
 
@@ -147,7 +147,7 @@ $3.14$ 是有限小数, 有理数; $-\frac{22}{7}$ 是分数, 有理数; $\sqrt{
 由**性质 8.3.1** (实数与数轴), 数轴上从左到右递增, 故
 
 $$
--1.5<-\frac{1}{3}<\sqrt{2^2}<\left|-3\right|.
+-1.5< -\frac{1}{3}< \sqrt{2^2}< \left|-3\right|.
 $$
 
 $\blacksquare$
@@ -162,13 +162,13 @@ $\blacksquare$
 
 $\sqrt\left[3\right]{-8}=-2$, 其绝对值为 $2$.
 
-$\sqrt{17}>0$, 其绝对值为 $\sqrt{17}$.
+$\sqrt{17}> 0$, 其绝对值为 $\sqrt{17}$.
 
-$-\sqrt{\frac{2}{3}}<0$, 其绝对值为 $\sqrt{\frac{2}{3}}$.
+$-\sqrt{\frac{2}{3}}< 0$, 其绝对值为 $\sqrt{\frac{2}{3}}$.
 
-$\sqrt\left[3\right]{3}\approx 1.442<2$, 故 $\sqrt\left[3\right]{3}-2<0$, 其绝对值为 $2-\sqrt\left[3\right]{3}$.
+$\sqrt\left[3\right]{3}\approx 1.442< 2$, 故 $\sqrt\left[3\right]{3}-2< 0$, 其绝对值为 $2-\sqrt\left[3\right]{3}$.
 
-$\sqrt\left[3\right]{2}\approx 1.26>1$, 故 $1-\sqrt\left[3\right]{2}<0$, 其绝对值为 $\sqrt\left[3\right]{2}-1$. $\blacksquare$
+$\sqrt\left[3\right]{2}\approx 1.26> 1$, 故 $1-\sqrt\left[3\right]{2}< 0$, 其绝对值为 $\sqrt\left[3\right]{2}-1$. $\blacksquare$
 
 ### 习题四
 
@@ -194,7 +194,7 @@ $\sqrt\left[3\right]{2}\approx 1.26>1$, 故 $1-\sqrt\left[3\right]{2}<0$, 其绝
 
 由**性质 8.3.2** 及平方、立方运算.
 
-(1) $\because 2\sqrt 6\approx 4.899>\sqrt 7\approx 2.646$, $\therefore 2\sqrt 6-\sqrt 7>0$, 故 $\left|2\sqrt 6-\sqrt 7\right|=2\sqrt 6-\sqrt 7$. 于是
+(1) $\because 2\sqrt 6\approx 4.899> \sqrt 7\approx 2.646$, $\therefore 2\sqrt 6-\sqrt 7> 0$, 故 $\left|2\sqrt 6-\sqrt 7\right|=2\sqrt 6-\sqrt 7$. 于是
 
 $$
 2\left(\sqrt 6-\sqrt 7\right)-\left(2\sqrt 6-\sqrt 7\right)=2\sqrt 6-2\sqrt 7-2\sqrt 6+\sqrt 7=-\sqrt 7.
@@ -242,11 +242,11 @@ $\blacksquare$
 
 估计各无理数的范围.
 
-(1) $\because 6^2=36<37<49=7^2$, $\therefore 6<\sqrt{37}<7$, 小于 $\sqrt{37}$ 的正整数为 $1$, $2$, $3$, $4$, $5$, $6$.
+(1) $\because 6^2=36< 37< 49=7^2$, $\therefore 6< \sqrt{37}< 7$, 小于 $\sqrt{37}$ 的正整数为 $1$, $2$, $3$, $4$, $5$, $6$.
 
-(2) $\because 3^2=9<10<16=4^2$, $\therefore 3<\sqrt{10}<4$, 故 $-4<-\sqrt{10}<-3$. 大于 $-\sqrt{10}$ 且小于 $\sqrt{10}$ 的整数为 $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
+(2) $\because 3^2=9< 10< 16=4^2$, $\therefore 3< \sqrt{10}< 4$, 故 $-4< -\sqrt{10}< -3$. 大于 $-\sqrt{10}$ 且小于 $\sqrt{10}$ 的整数为 $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
 
-(3) $\because 2^2=4<6<9=3^2$, $\therefore 2<\sqrt 6<3$, 绝对值小于 $\sqrt 6$ 的整数为 $-2$, $-1$, $0$, $1$, $2$. $\blacksquare$
+(3) $\because 2^2=4< 6< 9=3^2$, $\therefore 2< \sqrt 6< 3$, 绝对值小于 $\sqrt 6$ 的整数为 $-2$, $-1$, $0$, $1$, $2$. $\blacksquare$
 
 ### 习题八
 

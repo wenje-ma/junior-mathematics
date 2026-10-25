@@ -1,9 +1,9 @@
 # Assignment 22
 
 > **Definition 5.1.3** (Linear Equation in One Variable) <br>An equation that contains only one unknown, and the degree of the unknown is $1$, is called a linear equation in one variable.
->
+> 
 > **Definition 5.2.3** (General Steps for Solving a Linear Equation in One Variable) <br>Clear the denominators, remove the parentheses, transpose terms, combine like terms, and make the coefficient $1$.
->
+> 
 > **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations) <br>Let an unknown, set up the equation, solve the equation, check, and give the answer.
 
 ### Activity 1
@@ -38,7 +38,7 @@ Simplifying: $22x+9x=72.4$, $31x=72.4$, giving $x=2.335\approx2.34$. The basic p
 
 By **Definition 5.3.1** (Steps for Solving Word Problems by Setting Up Equations), let the usage be $x\ \text{m}^{3}$.
 
-From Activity 1, the basic price is $2.3$ yuan/$\text{m}^{3}$, and the excess is $1.5\times2.3=3.45$ yuan/$\text{m}^{3}$. Since $86.4>22\times2.3=50.6$, the usage exceeds $22\ \text{m}^{3}$:
+From Activity 1, the basic price is $2.3$ yuan/$\text{m}^{3}$, and the excess is $1.5\times2.3=3.45$ yuan/$\text{m}^{3}$. Since $86.4> 22\times2.3=50.6$, the usage exceeds $22\ \text{m}^{3}$:
 
 $$22\times2.3+\left(x-22\right)\times3.45=86.4.$$
 

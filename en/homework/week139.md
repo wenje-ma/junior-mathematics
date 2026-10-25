@@ -60,7 +60,7 @@ the domain of $x$ is all real numbers with $x\ne0$. $\blacksquare$
 
 ### Problem 2
 
-(Exercise 27.1, Comprehensive Application, Problem 2) Given the inverse proportional function $y=\frac kx$ ($k>0$), when the independent variable is enlarged to $a$ times its original value ($a\ne0$ and $a$ a positive integer), how does the corresponding function value change? Explain.
+(Exercise 27.1, Comprehensive Application, Problem 2) Given the inverse proportional function $y=\frac kx$ ($k> 0$), when the independent variable is enlarged to $a$ times its original value ($a\ne0$ and $a$ a positive integer), how does the corresponding function value change? Explain.
 
 ### Solution to Problem 2
 
