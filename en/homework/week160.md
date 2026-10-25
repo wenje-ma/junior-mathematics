@@ -14,7 +14,7 @@ Length/cm: $1,2,3,4,5,\;\_\_,\;\_\_,\;\_\_,\;\_\_,\;\_\_$
 
 Width/cm: $\_\_,\_\_,\_\_,\_\_,2,\frac{5}{3},\frac{10}{7},\frac{5}{4},\frac{10}{9},1$
 
-The figure shows 10 rectangles of area $10\ \text{cm}^2$ sharing a common angle $\angle A$ at the origin (one side along the $x$-axis, the other along the $y$-axis), their opposite (upper-right) vertices being $(1,10)$, $(2,5)$, $(3,\frac{10}{3})$, $(4,\frac{5}{2})$, $(5,2)$, $(6,\frac{5}{3})$, $(7,\frac{10}{7})$, $(8,\frac{5}{4})$, $(9,\frac{10}{9})$, and $(10,1)$, connected in order by a smooth curve.
+The figure shows 10 rectangles of area $10\ \text{cm}^2$ sharing a common angle $\angle A$ at the origin (one side along the $x$-axis, the other along the $y$-axis), their opposite (upper-right) vertices being $\left(1,10\right)$, $\left(2,5\right)$, $\left(3,\frac{10}{3}\right)$, $\left(4,\frac{5}{2}\right)$, $\left(5,2\right)$, $\left(6,\frac{5}{3}\right)$, $\left(7,\frac{10}{7}\right)$, $\left(8,\frac{5}{4}\right)$, $\left(9,\frac{10}{9}\right)$, and $\left(10,1\right)$, connected in order by a smooth curve.
 
 ### Solution to Activity 1
 

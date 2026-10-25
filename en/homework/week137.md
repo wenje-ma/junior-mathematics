@@ -45,7 +45,7 @@ $$
 
 (3) At an accident scene, the braking distance is about $70\ \text{m}$; the speed limit is $100\ \text{km/h}$. Determine whether the car was speeding.
 
-The figure is a scatter plot in a rectangular coordinate plane with speed $v$ (in km/h) on the horizontal axis and braking distance $l$ (in m) on the vertical axis, marking six data points $(40,17)$, $(48,22.4)$, $(56,27.9)$, $(64,35.3)$, $(72,43.4)$, and $(80,52.8)$; the points roughly lie on an upward-opening parabola.
+The figure is a scatter plot in a rectangular coordinate plane with speed $v$ (in km/h) on the horizontal axis and braking distance $l$ (in m) on the vertical axis, marking six data points $\left(40,17\right)$, $\left(48,22.4\right)$, $\left(56,27.9\right)$, $\left(64,35.3\right)$, $\left(72,43.4\right)$, and $\left(80,52.8\right)$; the points roughly lie on an upward-opening parabola.
 
 ### Solution to Activity 2
 

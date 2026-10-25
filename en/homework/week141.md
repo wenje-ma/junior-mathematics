@@ -168,7 +168,7 @@ When $V=9$, $\rho=\frac{9.9}{9}=1.1\ \text{kg/m}^3$. $\blacksquare$
 
 (2) The current must not exceed $10\ \text{A}$. What range should the variable resistance be controlled within?
 
-The figure shows a branch of a hyperbola in the first quadrant of a rectangular coordinate plane, with resistance $R$ (in $\Omega$) on the horizontal axis and current $I$ (in A) on the vertical axis; the curve passes through the point $(9,4)$ and approaches both coordinate axes as asymptotes.
+The figure shows a branch of a hyperbola in the first quadrant of a rectangular coordinate plane, with resistance $R$ (in $\Omega$) on the horizontal axis and current $I$ (in A) on the vertical axis; the curve passes through the point $\left(9,4\right)$ and approaches both coordinate axes as asymptotes.
 
 ### Solution to Problem 8
 

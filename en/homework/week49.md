@@ -33,7 +33,7 @@ $$
 
 and obtain the solution of this system from the graphs.
 
-The figure shows a Cartesian coordinate plane with the line $y=4-2x$ (through $(0,4)$ and $(2,0)$) and the line $y=x+1$ (through $(0,1)$ and $(1,2)$); the two lines intersect at the point $(1,2)$.
+The figure shows a Cartesian coordinate plane with the line $y=4-2x$ (through $\left(0,4\right)$ and $\left(2,0\right)$) and the line $y=x+1$ (through $\left(0,1\right)$ and $\left(1,2\right)$); the two lines intersect at the point $\left(1,2\right)$.
 
 ### Solution to Activity 2
 

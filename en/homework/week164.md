@@ -102,7 +102,7 @@ The coordinates of the vertices of the new rectangle are $A'\left(0,1.5\right)$,
 
 (Problem 27.3, Comprehensive Application, Problem 6) As shown in the figure, compared with the \"A\"-shaped pattern (the dashed pattern), what change has occurred to the pattern in the figure? What is the relationship between the coordinates of corresponding points? (The vertices of the dashed pattern are $\left(2,4\right)$, $\left(4,4\right)$, etc.; the vertices of the solid pattern are $\left(2,8\right)$, etc.)
 
-The figure shows two "A"-shaped patterns in a rectangular coordinate plane: a smaller dashed pattern with vertices $(2,4)$, $(4,4)$, etc., and a larger solid pattern with vertices $(2,8)$, etc.; the two patterns are homothetic with the origin as center and similarity ratio $2$.
+The figure shows two "A"-shaped patterns in a rectangular coordinate plane: a smaller dashed pattern with vertices $\left(2,4\right)$, $\left(4,4\right)$, etc., and a larger solid pattern with vertices $\left(2,8\right)$, etc.; the two patterns are homothetic with the origin as center and similarity ratio $2$.
 
 ### Solution to Problem 6
 
