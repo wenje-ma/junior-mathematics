@@ -187,7 +187,7 @@ $$
 再与 $\left(x-x_1\right)$ 相乘, 得
 
 $$
-a\left(x-x_1\right)\left(x-x_2\right)\left(x-x_3\right)=a\bigl[x^3-\left(x_1+x_2+x_3\right)x^2+\left(x_1x_2+x_2x_3+x_3x_1\right)x-x_1x_2x_3\bigr].
+a\left(x-x_1\right)\left(x-x_2\right)\left(x-x_3\right)=a\left[x^3-\left(x_1+x_2+x_3\right)x^2+\left(x_1x_2+x_2x_3+x_3x_1\right)x-x_1x_2x_3\right].
 $$
 
 与 $ax^3+bx^2+cx+d$ 比较对应系数, 得

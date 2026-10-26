@@ -89,7 +89,7 @@ The frame width is $5\ \text{cm}=0.05\ \text{m}$; hence the mirror radius is $r\
 The mirror surface area is $\pi r^2$, costing $180\pi r^2$ yuan. The frame area is $\pi\left(r+0.05\right)^2-\pi r^2$, costing $100\left[\pi\left(r+0.05\right)^2-\pi r^2\right]$ yuan. Hence the total price is
 
 $$
-y=180\pi r^2+100\pi\bigl[\left(r+0.05\right)^2-r^2\bigr].
+y=180\pi r^2+100\pi\left[\left(r+0.05\right)^2-r^2\right].
 $$
 
 Expanding gives $y=180\pi r^2+100\pi\left(0.1r+0.0025\right)=180\pi r^2+10\pi r+0.25\pi$. $\blacksquare$

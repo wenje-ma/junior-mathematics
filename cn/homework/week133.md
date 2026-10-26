@@ -89,7 +89,7 @@ $$
 镜面面积为 $\pi r^2$, 价格为 $180\pi r^2$ 元. 边框面积为 $\pi\left(r+0.05\right)^2-\pi r^2$, 价格为 $100\left[\pi\left(r+0.05\right)^2-\pi r^2\right]$ 元. 故总价格
 
 $$
-y=180\pi r^2+100\pi\bigl[\left(r+0.05\right)^2-r^2\bigr].
+y=180\pi r^2+100\pi\left[\left(r+0.05\right)^2-r^2\right].
 $$
 
 展开, 得 $y=180\pi r^2+100\pi\left(0.1r+0.0025\right)=180\pi r^2+10\pi r+0.25\pi$. $\blacksquare$
