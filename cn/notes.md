@@ -940,13 +940,13 @@ a^{2}+b^{2}=c^{2}.
 
 **定义 24.1.1** (算术平均数)：一般地，有 $n$ 个数据 $x_1, x_2, \ldots, x_n$，我们把
 
-$$\bar{x} = \frac{x_1 + x_2 + \cdots + x_n}{n}$$
+$$\overline{x} = \frac{x_1 + x_2 + \cdots + x_n}{n}$$
 
 叫作这 $n$ 个数据的算术平均数。
 
 **定义 24.1.2** (加权平均数)：一般地，若 $n$ 个数 $x_1, x_2, \ldots, x_n$ 的权分别是 $w_1, w_2, \ldots, w_n$，则
 
-$$\bar{x} = \frac{x_1 w_1 + x_2 w_2 + \cdots + x_n w_n}{w_1 + w_2 + \cdots + w_n}$$
+$$\overline{x} = \frac{x_1 w_1 + x_2 w_2 + \cdots + x_n w_n}{w_1 + w_2 + \cdots + w_n}$$
 
 叫作这 $n$ 个数的加权平均数。
 
@@ -958,17 +958,17 @@ $$\bar{x} = \frac{x_1 w_1 + x_2 w_2 + \cdots + x_n w_n}{w_1 + w_2 + \cdots + w_n
 
 #### 24.2 数据的离散程度
 
-**定义 24.2.1** (离差)：有 $n$ 个数据 $x_1, x_2, \ldots, x_n$，用 $\bar{x}$ 表示它们的平均数，把 $x_i - \bar{x}$ ($i=1, 2, \ldots, n$) 叫作 $x_i$ 关于平均数 $\bar{x}$ 的离差。
+**定义 24.2.1** (离差)：有 $n$ 个数据 $x_1, x_2, \ldots, x_n$，用 $\overline{x}$ 表示它们的平均数，把 $x_i - \overline{x}$ ($i=1, 2, \ldots, n$) 叫作 $x_i$ 关于平均数 $\overline{x}$ 的离差。
 
 **定义 24.2.2** (离差平方和)：把
 
-$$\left(x_1 - \bar{x}\right)^2 + \left(x_2 - \bar{x}\right)^2 + \cdots + \left(x_n - \bar{x}\right)^2$$
+$$\left(x_1 - \overline{x}\right)^2 + \left(x_2 - \overline{x}\right)^2 + \cdots + \left(x_n - \overline{x}\right)^2$$
 
 叫作这 $n$ 个数据关于平均数的离差平方和，记作 $d^2$。
 
 **定义 24.2.3** (方差)：把离差的平方的平均数
 
-$$s^2 = \frac{\left(x_1 - \bar{x}\right)^2 + \left(x_2 - \bar{x}\right)^2 + \cdots + \left(x_n - \bar{x}\right)^2}{n}$$
+$$s^2 = \frac{\left(x_1 - \overline{x}\right)^2 + \left(x_2 - \overline{x}\right)^2 + \cdots + \left(x_n - \overline{x}\right)^2}{n}$$
 
 叫作这组数据的方差，记作 $s^2$。方差越大，数据的离散程度越大；方差越小，数据的离散程度越小。
 
@@ -986,7 +986,7 @@ $$s^2 = \frac{\left(x_1 - \bar{x}\right)^2 + \left(x_2 - \bar{x}\right)^2 + \cdo
 
 **定义 24.4.1** (组内离差平方和)：将数据分为两组，两组各自的离差平方和之和称为组内离差平方和。
 
-**定义 24.4.2** (组间离差平方和)：$d_{12}^2 = m\left(\bar{x}_1 - \bar{x}\right)^2 + \left(n-m\right)\left(\bar{x}_2 - \bar{x}\right)^2$ 称为组间离差平方和。
+**定义 24.4.2** (组间离差平方和)：$d_{12}^2 = m\left(\overline{x}_1 - \overline{x}\right)^2 + \left(n-m\right)\left(\overline{x}_2 - \overline{x}\right)^2$ 称为组间离差平方和。
 
 **结论 24.4.3** (分组原则)：按组内离差平方和最小（等价于组间离差平方和最大）的原则进行分组。
 

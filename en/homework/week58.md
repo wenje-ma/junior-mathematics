@@ -22,9 +22,9 @@
 
 ### Solution to Activity 1
 
-Let the heights of the $N$ students in the class be $x_1,x_2,\ldots,x_N$, and the population average height be $\bar{x}=\frac{1}{N}\sum_{i=1}^N x_i$.
+Let the heights of the $N$ students in the class be $x_1,x_2,\ldots,x_N$, and the population average height be $\overline{x}=\frac{1}{N}\sum_{i=1}^N x_i$.
 
-Each time a sample of size $15$ is drawn, the sample average is $\bar{x}_k=\frac{1}{15}\sum_{j=1}^{15}x_{i_j}$. By **Definition 12.1.6** (Simple Random Sampling), each draw is unbiased, and $\bar{x}_k$ fluctuates up and down around $\bar{x}$.
+Each time a sample of size $15$ is drawn, the sample average is $\overline{x}_k=\frac{1}{15}\sum_{j=1}^{15}x_{i_j}$. By **Definition 12.1.6** (Simple Random Sampling), each draw is unbiased, and $\overline{x}_k$ fluctuates up and down around $\overline{x}$.
 
 Comparison shows: the sample average generally does not equal the population average, but as the number of repetitions grows, the average of the sample averages approaches the population average. The larger the sample size, the more stably the sample average approaches the population average. $\blacksquare$
 
@@ -40,8 +40,8 @@ Comparison shows: the sample average generally does not equal the population ave
 
 ### Solution to Activity 2
 
-Let the $10$ measured values be $d_1,d_2,\ldots,d_{10}$. The maximum is $d_{\max}=\max\left\{d_i\right\}$, the minimum is $d_{\min}=\min\left\{d_i\right\}$, and the average is $\bar{d}=\frac{1}{10}\sum_{i=1}^{10}d_i$.
+Let the $10$ measured values be $d_1,d_2,\ldots,d_{10}$. The maximum is $d_{\max}=\max\left\{d_i\right\}$, the minimum is $d_{\min}=\min\left\{d_i\right\}$, and the average is $\overline{d}=\frac{1}{10}\sum_{i=1}^{10}d_i$.
 
 The ruler falls in free fall, and the falling distance is $d=\frac{1}{2}gt^2$, so the reaction time is $t=\sqrt{\frac{2d}{g}}$. The smaller $d$ is, the shorter the reaction time $t$, and the faster the reaction.
 
-Comparing the two people's $\bar d$: the one with the smaller $\bar d$ reacts faster. $\blacksquare$
+Comparing the two people's $\overline d$: the one with the smaller $\overline d$ reacts faster. $\blacksquare$

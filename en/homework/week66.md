@@ -7,7 +7,7 @@
 > **Conclusion (Comprehensive and Practical Activity 2)** (Centroid of Composite Figures) <br>Divide the composite figure into several simple figures whose centroid positions are known; let the area of the $i$-th part be $S_i$ and its centroid coordinates be $\left(x_i,y_i\right)$. Then the centroid coordinates of the whole are
 > 
 > $$
-> \bar x=\frac{\sum S_i x_i}{\sum S_i},\quad \bar y=\frac{\sum S_i y_i}{\sum S_i}.
+> \overline x=\frac{\sum S_i x_i}{\sum S_i},\quad \overline y=\frac{\sum S_i y_i}{\sum S_i}.
 > $$
 
 ### Inquiry 1
@@ -37,10 +37,10 @@ These figures are all simple figures that are axis-symmetric or centrally symmet
 By **Conclusion (Comprehensive and Practical Activity 2)** (Centroid of Composite Figures), the horizontal and vertical coordinates of the whole centroid are respectively the area-weighted averages of the two parts' centroid coordinates:
 
 $$
-\bar x=\frac{S_1 x_1+S_2 x_2}{S_1+S_2},\quad \bar y=\frac{S_1 y_1+S_2 y_2}{S_1+S_2}.
+\overline x=\frac{S_1 x_1+S_2 x_2}{S_1+S_2},\quad \overline y=\frac{S_1 y_1+S_2 y_2}{S_1+S_2}.
 $$
 
-When the two parts have equal area, $\bar x=\frac{x_1+x_2}{2}$, $\bar y=\frac{y_1+y_2}{2}$, i.e. the centroid lies at the midpoint of the line joining the two parts' centroids. $\blacksquare$
+When the two parts have equal area, $\overline x=\frac{x_1+x_2}{2}$, $\overline y=\frac{y_1+y_2}{2}$, i.e. the centroid lies at the midpoint of the line joining the two parts' centroids. $\blacksquare$
 
 ### Inquiry 4
 
@@ -59,11 +59,11 @@ Horizontal rectangle (deducting the overlapping part at the bottom): length $20\
 By **Conclusion (Comprehensive and Practical Activity 2)** (Centroid of Composite Figures),
 
 $$
-\bar x=\frac{S_1 x_1+S_2 x_2}{S_1+S_2}=\frac{300\times5+200\times20}{300+200}=\frac{5500}{500}=11,
+\overline x=\frac{S_1 x_1+S_2 x_2}{S_1+S_2}=\frac{300\times5+200\times20}{300+200}=\frac{5500}{500}=11,
 $$
 
 $$
-\bar y=\frac{S_1 y_1+S_2 y_2}{S_1+S_2}=\frac{300\times15+200\times5}{500}=\frac{5500}{500}=11.
+\overline y=\frac{S_1 y_1+S_2 y_2}{S_1+S_2}=\frac{300\times15+200\times5}{500}=\frac{5500}{500}=11.
 $$
 
 Hence the centroid of this L-shaped cross section lies $11\ \text{cm}$ from both outer edges. $\blacksquare$

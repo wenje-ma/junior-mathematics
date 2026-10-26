@@ -1,8 +1,8 @@
 # Assignment 119
 
-> **Definition 24.1.1** (Arithmetic Mean) <br>In general, for $n$ data $x_1, x_2, \ldots, x_n$, we call $\bar{x}=\frac{x_1+x_2+\cdots+x_n}{n}$ the arithmetic mean of these $n$ data.
+> **Definition 24.1.1** (Arithmetic Mean) <br>In general, for $n$ data $x_1, x_2, \ldots, x_n$, we call $\overline{x}=\frac{x_1+x_2+\cdots+x_n}{n}$ the arithmetic mean of these $n$ data.
 > 
-> **Definition 24.1.2** (Weighted Average) <br>If the weights of the $n$ numbers $x_1, x_2, \ldots, x_n$ are $w_1, w_2, \ldots, w_n$ respectively, then $\bar{x}=\frac{x_1w_1+x_2w_2+\cdots+x_nw_n}{w_1+w_2+\cdots+w_n}$ is called the weighted average of these $n$ numbers.
+> **Definition 24.1.2** (Weighted Average) <br>If the weights of the $n$ numbers $x_1, x_2, \ldots, x_n$ are $w_1, w_2, \ldots, w_n$ respectively, then $\overline{x}=\frac{x_1w_1+x_2w_2+\cdots+x_nw_n}{w_1+w_2+\cdots+w_n}$ is called the weighted average of these $n$ numbers.
 > 
 > **Definition 24.1.3** (Median) <br>Arrange a set of data in ascending order; if the number of data is odd, the number in the middle position is called the median of this set; if the number is even, the average of the two middle data is called the median.
 > 
@@ -29,7 +29,7 @@ By **Definition 24.1.4** (Mode), $10$ appears $2$ times, the most often, so the 
 By **Definition 24.1.2** (Weighted Average),
 
 $$
-\bar{x} = \frac{100\times1+80\times3+50\times7+30\times4}{1+3+7+4} = \frac{100+240+350+120}{15} = \frac{810}{15} = 54.
+\overline{x} = \frac{100\times1+80\times3+50\times7+30\times4}{1+3+7+4} = \frac{100+240+350+120}{15} = \frac{810}{15} = 54.
 $$
 
 Hence the average annual profit per person in this company is $54$ (in 10,000 yuan). $\blacksquare$
@@ -53,7 +53,7 @@ The median is the number in the middle position after the data are arranged by s
 By **Definition 24.1.1** (Arithmetic Mean),
 
 $$
-\bar{x} = \frac{22.36+22.35+22.33+22.35+22.37+22.34+22.38+22.36+22.32+22.35}{10} = \frac{223.51}{10} = 22.351.
+\overline{x} = \frac{22.36+22.35+22.33+22.35+22.37+22.34+22.38+22.36+22.32+22.35}{10} = \frac{223.51}{10} = 22.351.
 $$
 
 Hence the estimated average length of this batch is $22.351\ \text{mm}$. $\blacksquare$
@@ -67,7 +67,7 @@ Hence the estimated average length of this batch is $22.351\ \text{mm}$. $\black
 By **Definition 24.1.2** (Weighted Average),
 
 $$
-\bar{x} = \frac{1.45\times1+1.50\times2+1.60\times4+1.65\times3+1.70\times3+1.75\times2}{15} = \frac{24.5}{15} \approx 1.63.
+\overline{x} = \frac{1.45\times1+1.50\times2+1.60\times4+1.65\times3+1.70\times3+1.75\times2}{15} = \frac{24.5}{15} \approx 1.63.
 $$
 
 By **Definition 24.1.3** (Median), there are $15$ data (odd), so the median is the $8$th. Cumulative counts: $1$, $3$, $7$, $10$; the $8$th falls in the $1.65$ group, so the median is $1.65$.
@@ -101,7 +101,7 @@ By **Definition 24.1.4** (Mode), $1.60$ appears $4$ times, the most, so the mode
 By **Definition 24.1.2** (Weighted Average),
 
 $$
-\bar{x} = \frac{0.15\times15+0.21\times7+0.18\times10}{15+7+10} = \frac{2.25+1.47+1.8}{32} = \frac{5.52}{32} = 0.1725 \approx 0.17.
+\overline{x} = \frac{0.15\times15+0.21\times7+0.18\times10}{15+7+10} = \frac{2.25+1.47+1.8}{32} = \frac{5.52}{32} = 0.1725 \approx 0.17.
 $$
 
 Hence the per-capita arable land area of the three towns is about $0.17\ \text{hm}^2$. $\blacksquare$

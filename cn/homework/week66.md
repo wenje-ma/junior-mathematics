@@ -7,7 +7,7 @@
 > **结论 综合与实践二** (组合图形的重心) <br>把组合图形分割成若干已知重心位置的简单图形, 设第 $i$ 部分的面积为 $S_i$, 重心坐标为 $\left(x_i,y_i\right)$, 则整体重心坐标为
 > 
 > $$
-> \bar x=\frac{\sum S_i x_i}{\sum S_i},\quad \bar y=\frac{\sum S_i y_i}{\sum S_i}.
+> \overline x=\frac{\sum S_i x_i}{\sum S_i},\quad \overline y=\frac{\sum S_i y_i}{\sum S_i}.
 > $$
 
 ### 探究一
@@ -37,10 +37,10 @@
 由**结论 综合与实践二** (组合图形的重心), 整体重心的横、纵坐标分别为两部分重心坐标按面积加权的平均值:
 
 $$
-\bar x=\frac{S_1 x_1+S_2 x_2}{S_1+S_2},\quad \bar y=\frac{S_1 y_1+S_2 y_2}{S_1+S_2}.
+\overline x=\frac{S_1 x_1+S_2 x_2}{S_1+S_2},\quad \overline y=\frac{S_1 y_1+S_2 y_2}{S_1+S_2}.
 $$
 
-当两部分面积相等时, $\bar x=\frac{x_1+x_2}{2}$, $\bar y=\frac{y_1+y_2}{2}$, 即重心位于两部分重心连线的中点. $\blacksquare$
+当两部分面积相等时, $\overline x=\frac{x_1+x_2}{2}$, $\overline y=\frac{y_1+y_2}{2}$, 即重心位于两部分重心连线的中点. $\blacksquare$
 
 ### 探究四
 
@@ -59,11 +59,11 @@ $$
 由**结论 综合与实践二** (组合图形的重心),
 
 $$
-\bar x=\frac{S_1 x_1+S_2 x_2}{S_1+S_2}=\frac{300\times5+200\times20}{300+200}=\frac{5500}{500}=11,
+\overline x=\frac{S_1 x_1+S_2 x_2}{S_1+S_2}=\frac{300\times5+200\times20}{300+200}=\frac{5500}{500}=11,
 $$
 
 $$
-\bar y=\frac{S_1 y_1+S_2 y_2}{S_1+S_2}=\frac{300\times15+200\times5}{500}=\frac{5500}{500}=11.
+\overline y=\frac{S_1 y_1+S_2 y_2}{S_1+S_2}=\frac{300\times15+200\times5}{500}=\frac{5500}{500}=11.
 $$
 
 故该 L 形横截面的重心位于距两外边缘均为 $11\ \text{cm}$ 处. $\blacksquare$

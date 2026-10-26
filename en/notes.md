@@ -940,13 +940,13 @@ a^{2}+b^{2}=c^{2}.
 
 **Definition 24.1.1** (Arithmetic Mean): Generally, for $n$ data $x_1, x_2, \ldots, x_n$, we call
 
-$$\bar{x} = \frac{x_1 + x_2 + \cdots + x_n}{n}$$
+$$\overline{x} = \frac{x_1 + x_2 + \cdots + x_n}{n}$$
 
 the arithmetic mean of these $n$ data.
 
 **Definition 24.1.2** (Weighted Mean): Generally, if the weights of the $n$ numbers $x_1, x_2, \ldots, x_n$ are respectively $w_1, w_2, \ldots, w_n$, then
 
-$$\bar{x} = \frac{x_1 w_1 + x_2 w_2 + \cdots + x_n w_n}{w_1 + w_2 + \cdots + w_n}$$
+$$\overline{x} = \frac{x_1 w_1 + x_2 w_2 + \cdots + x_n w_n}{w_1 + w_2 + \cdots + w_n}$$
 
 is called the weighted mean of these $n$ numbers.
 
@@ -958,17 +958,17 @@ is called the weighted mean of these $n$ numbers.
 
 #### 24.2 Dispersion of Data
 
-**Definition 24.2.1** (Deviation): For $n$ data $x_1, x_2, \ldots, x_n$, let $\bar{x}$ be their mean; $x_i - \bar{x}$ ($i=1, 2, \ldots, n$) is called the deviation of $x_i$ from the mean $\bar{x}$.
+**Definition 24.2.1** (Deviation): For $n$ data $x_1, x_2, \ldots, x_n$, let $\overline{x}$ be their mean; $x_i - \overline{x}$ ($i=1, 2, \ldots, n$) is called the deviation of $x_i$ from the mean $\overline{x}$.
 
 **Definition 24.2.2** (Sum of Squared Deviations):
 
-$$\left(x_1 - \bar{x}\right)^2 + \left(x_2 - \bar{x}\right)^2 + \cdots + \left(x_n - \bar{x}\right)^2$$
+$$\left(x_1 - \overline{x}\right)^2 + \left(x_2 - \overline{x}\right)^2 + \cdots + \left(x_n - \overline{x}\right)^2$$
 
 is called the sum of squared deviations from the mean for these $n$ data, denoted $d^2$.
 
 **Definition 24.2.3** (Variance): The mean of the squared deviations
 
-$$s^2 = \frac{\left(x_1 - \bar{x}\right)^2 + \left(x_2 - \bar{x}\right)^2 + \cdots + \left(x_n - \bar{x}\right)^2}{n}$$
+$$s^2 = \frac{\left(x_1 - \overline{x}\right)^2 + \left(x_2 - \overline{x}\right)^2 + \cdots + \left(x_n - \overline{x}\right)^2}{n}$$
 
 is called the variance of this set of data, denoted $s^2$. The larger the variance, the greater the dispersion; the smaller the variance, the smaller the dispersion.
 
@@ -986,7 +986,7 @@ is called the variance of this set of data, denoted $s^2$. The larger the varian
 
 **Definition 24.4.1** (Within-Group Sum of Squared Deviations): Dividing the data into two groups, the sum of the within-group sums of squared deviations is called the within-group sum of squared deviations.
 
-**Definition 24.4.2** (Between-Group Sum of Squared Deviations): $d_{12}^2 = m\left(\bar{x}_1 - \bar{x}\right)^2 + \left(n-m\right)\left(\bar{x}_2 - \bar{x}\right)^2$ is called the between-group sum of squared deviations.
+**Definition 24.4.2** (Between-Group Sum of Squared Deviations): $d_{12}^2 = m\left(\overline{x}_1 - \overline{x}\right)^2 + \left(n-m\right)\left(\overline{x}_2 - \overline{x}\right)^2$ is called the between-group sum of squared deviations.
 
 **Conclusion 24.4.3** (Grouping Principle): Group according to the principle of minimizing the within-group sum of squared deviations (equivalently, maximizing the between-group sum of squared deviations).
 

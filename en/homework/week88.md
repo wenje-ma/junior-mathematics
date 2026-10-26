@@ -242,7 +242,7 @@ The time going is $\frac{a}{v_1}$, and the time returning is $\frac{a}{v_2}$. Th
 
 Average speed
 
-$$\bar v=\frac{2a}{\frac{a}{v_1}+\frac{a}{v_2}}=\frac{2a}{a\frac{v_1+v_2}{v_1 v_2}}=\frac{2v_1 v_2}{v_1+v_2}\ \left(\text{km/h}\right).$$
+$$\overline v=\frac{2a}{\frac{a}{v_1}+\frac{a}{v_2}}=\frac{2a}{a\frac{v_1+v_2}{v_1 v_2}}=\frac{2v_1 v_2}{v_1+v_2}\ \left(\text{km/h}\right).$$
 
 $\blacksquare$
 

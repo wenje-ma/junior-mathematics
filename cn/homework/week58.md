@@ -22,9 +22,9 @@
 
 ### 解答 活动一
 
-设全班 $N$ 名同学身高为 $x_1,x_2,\ldots,x_N$, 总体平均身高 $\bar{x}=\frac{1}{N}\sum_{i=1}^N x_i$.
+设全班 $N$ 名同学身高为 $x_1,x_2,\ldots,x_N$, 总体平均身高 $\overline{x}=\frac{1}{N}\sum_{i=1}^N x_i$.
 
-每次抽取容量为 $15$ 的样本, 样本平均 $\bar{x}_k=\frac{1}{15}\sum_{j=1}^{15}x_{i_j}$. 由**定义 12.1.6** (简单随机抽样), 每次抽取无偏, $\bar{x}_k$ 围绕 $\bar{x}$ 上下波动.
+每次抽取容量为 $15$ 的样本, 样本平均 $\overline{x}_k=\frac{1}{15}\sum_{j=1}^{15}x_{i_j}$. 由**定义 12.1.6** (简单随机抽样), 每次抽取无偏, $\overline{x}_k$ 围绕 $\overline{x}$ 上下波动.
 
 比较发现: 样本平均一般不等于总体平均, 但随着重复次数增多, 样本平均的平均值会接近总体平均. 样本容量越大, 样本平均越稳定地接近总体平均. $\blacksquare$
 
@@ -40,8 +40,8 @@
 
 ### 解答 活动二
 
-设 $10$ 次测量值为 $d_1,d_2,\ldots,d_{10}$. 最大值 $d_{\max}=\max\left\{d_i\right\}$, 最小值 $d_{\min}=\min\left\{d_i\right\}$, 平均值 $\bar{d}=\frac{1}{10}\sum_{i=1}^{10}d_i$.
+设 $10$ 次测量值为 $d_1,d_2,\ldots,d_{10}$. 最大值 $d_{\max}=\max\left\{d_i\right\}$, 最小值 $d_{\min}=\min\left\{d_i\right\}$, 平均值 $\overline{d}=\frac{1}{10}\sum_{i=1}^{10}d_i$.
 
 直尺下落做自由落体运动, 下落距离 $d=\frac{1}{2}gt^2$, 故反应时间 $t=\sqrt{\frac{2d}{g}}$. $d$ 越小, 反应时间 $t$ 越短, 反应速度越快.
 
-比较两人的 $\bar d$: $\bar d$ 较小者反应较快. $\blacksquare$
+比较两人的 $\overline d$: $\overline d$ 较小者反应较快. $\blacksquare$

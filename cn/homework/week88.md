@@ -242,7 +242,7 @@ $$S_2-S_1=a^2-b^2-ab.$$
 
 平均速度
 
-$$\bar v=\frac{2a}{\frac{a}{v_1}+\frac{a}{v_2}}=\frac{2a}{a\frac{v_1+v_2}{v_1 v_2}}=\frac{2v_1 v_2}{v_1+v_2}\ \left(\text{km/h}\right).$$
+$$\overline v=\frac{2a}{\frac{a}{v_1}+\frac{a}{v_2}}=\frac{2a}{a\frac{v_1+v_2}{v_1 v_2}}=\frac{2v_1 v_2}{v_1+v_2}\ \left(\text{km/h}\right).$$
 
 $\blacksquare$
 
