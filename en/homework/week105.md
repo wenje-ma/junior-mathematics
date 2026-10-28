@@ -1,20 +1,16 @@
-# Assignment 105
+# week105
 
-> **Definition 21.3.1** (Rectangle) <br> A parallelogram with one right angle is called a rectangle.
-> 
-> **Property 21.3.2** (Diagonals of a Rectangle) <br> The diagonals of a rectangle are equal.
-> 
-> **Conclusion 21.3.1** (Median to the Hypotenuse of a Right Triangle) <br> The median to the hypotenuse of a right triangle equals half the hypotenuse.
-> 
-> **Criterion 21.3.1** (Diagonals) <br> A parallelogram with equal diagonals is a rectangle.
-> 
-> **Definition 21.3.2** (Rhombus) <br> A parallelogram with one pair of adjacent sides equal is called a rhombus.
-> 
-> **Property 21.3.4** (Diagonals of a Rhombus) <br> The two diagonals of a rhombus are perpendicular, and each diagonal bisects a pair of opposite angles.
-> 
-> **Definition 21.3.3** (Square) <br> A parallelogram with one pair of adjacent sides equal and one right angle is called a square.
+> **Basic Knowledge: Rectangle**<br>A parallelogram with one right angle is called a rectangle.
+> **Basic Knowledge: Diagonals of a Rectangle**<br>The diagonals of a rectangle are equal.
+> **Basic Knowledge: Median to the Hypotenuse of a Right Triangle**<br>The median to the hypotenuse of a right triangle equals half the hypotenuse.
+> **Basic Knowledge: Diagonals**<br>A parallelogram with equal diagonals is a rectangle.
+> **Basic Knowledge: Rhombus**<br>A parallelogram with one pair of adjacent sides equal is called a rhombus.
+> **Basic Knowledge: Diagonals of a Rhombus**<br>The two diagonals of a rhombus are perpendicular, and each diagonal bisects a pair of opposite angles.
+> **Basic Knowledge: Square**<br>A parallelogram with one pair of adjacent sides equal and one right angle is called a square.
+---
 
-### Exercise 1
+
+## Exercise 1
 
 (Exercise 21.3.1, Problem 1)
 
@@ -42,7 +38,7 @@ Therefore \(\triangle DBE\) is an isosceles triangle.
 
 \(\blacksquare\)
 
-### Exercise 2
+## Exercise 2
 
 (Exercise 21.3.1, Problem 1)
 
@@ -52,7 +48,7 @@ The four angles of a quadrilateral sum to \(360^{\circ}\); if they are equal, ea
 
 Both pairs of opposite angles are \(90^{\circ}\), so both pairs of opposite sides are parallel, and the quadrilateral is a parallelogram.
 
-Also one angle is a right angle; by **Definition 21.3.1**, it is a rectangle.
+Also one angle is a right angle; by **Basic Knowledge**, it is a rectangle.
 
 \(\blacksquare\)
 
@@ -86,13 +82,13 @@ Therefore parallelogram \(ADCF\) is a rectangle.
 
 \(\blacksquare\)
 
-### Exercise 3
+## Exercise 3
 
 (Exercise 21.3.2, Problem 1)
 
 Quadrilateral \(ABCD\) is a rhombus, the diagonals \(AC,BD\) intersect at point \(O\), and \(AB=5,\ AO=4\). Find the lengths of \(AC,BD\) and the area of rhombus \(ABCD\).
 
-By **Property 21.3.4**, \(AC\perp BD\).
+By **Basic Knowledge**, \(AC\perp BD\).
 
 In \(Rt\triangle AOB\), \(BO=\sqrt{AB^{2}-AO^{2}}=\sqrt{25-16}=3\).
 
@@ -126,7 +122,7 @@ By the symmetry of the rhombus and that \(E,F\) are midpoints, one can prove \(D
 
 \(\blacksquare\)
 
-### Exercise 4
+## Exercise 4
 
 (Exercise 21.3.2, Problem 1)
 
@@ -134,7 +130,7 @@ As shown in the figure, in quadrilateral \(ABCD\), the diagonals \(AC,BD\) inter
 
 The diagonals bisect each other, so the quadrilateral is a parallelogram.
 
-The diagonals are perpendicular; by **Criterion 21.3.3**, the parallelogram is a rhombus.
+The diagonals are perpendicular; by **Basic Knowledge**, the parallelogram is a rhombus.
 
 \(\blacksquare\)
 
@@ -160,7 +156,7 @@ The folded quadrilateral has four equal sides, so it is a rhombus.
 
 \(\blacksquare\)
 
-### Exercise 5
+## Exercise 5
 
 (Exercise 21.3.3, Problem 1)
 
@@ -196,7 +192,7 @@ Therefore \(AF=BE\), and the two lines are perpendicular.
 
 \(\blacksquare\)
 
-### Exercise 6
+## Exercise 6
 
 (Exercise 21.3.3, Problem 1)
 
@@ -242,7 +238,7 @@ By Exercise 6, Problem 1(4), it is a square.
 
 \(\blacksquare\)
 
-### Problem 1
+## Problem 1
 
 (Exercise 21.3, Review and Consolidation, Problem 1)
 
@@ -268,7 +264,7 @@ The cuts are perpendicular to the long side, i.e. there is a right angle, so the
 
 In \(Rt\triangle ABC\), \(\angle C=90^{\circ},\ AB=2AC\). Find the degree measures of \(\angle A,\angle B\).
 
-By **Conclusion 21.3.1**, the median to the hypotenuse \(=\frac{1}{2}AB=AC\).
+By **Basic Knowledge**, the median to the hypotenuse \(=\frac{1}{2}AB=AC\).
 
 Therefore the triangle is a right triangle with a \(30^{\circ}\) angle, \(\angle B=30^{\circ},\ \angle A=60^{\circ}\).
 
@@ -312,7 +308,7 @@ Therefore \(DE=CF\).
 
 \(\blacksquare\)
 
-### Problem 2
+## Problem 2
 
 (Exercise 21.3, Comprehensive Application, Problem 7)
 
@@ -346,7 +342,7 @@ As shown in the figure, in \(Rt\triangle ABC\), \(\angle ACB=90^{\circ}\), \(CD\
 
 \(\angle ACB=90^{\circ}\), \(\angle ACD=3\angle BCD\), so \(\angle BCD=22.5^{\circ},\ \angle ACD=67.5^{\circ}\).
 
-By **Conclusion 21.3.1**, \(CE=AE=BE\), \(\angle ECA=\angle A=22.5^{\circ}\).
+By **Basic Knowledge**, \(CE=AE=BE\), \(\angle ECA=\angle A=22.5^{\circ}\).
 
 Therefore \(\angle ECD=\angle ACD-\angle ECA=67.5^{\circ}-22.5^{\circ}=45^{\circ}\).
 
@@ -402,7 +398,7 @@ Let the original triangle have equal sides \(l\), base \(2a\), and altitude \(h\
 
 \(\blacksquare\)
 
-### Problem 3
+## Problem 3
 
 (Exercise 21.3, Extension and Exploration, Problem 14)
 
@@ -454,7 +450,7 @@ For \(PQ=CD\), i.e. \(PQ\parallel CD\), we need \(PD=QC\), i.e. \(24-t=3t\), giv
 
 \(\blacksquare\)
 
-### Inquiry and Discovery 1
+## Inquiry and Discovery 1
 
 (Inquiry and Discovery, Compass-and-Straightedge Construction Using the Properties and Criteria of a Rhombus)
 

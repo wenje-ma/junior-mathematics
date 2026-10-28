@@ -1,14 +1,16 @@
-# Assignment 84
+# week84
 
-> **Definition 17.2.1** (Method Using the Difference of Squares Formula) <br>$a^2-b^2=\left(a+b\right)\left(a-b\right)$, i.e. the difference of the squares of two numbers equals the product of the sum of the two numbers and the difference of the two numbers.
+> **Basic Knowledge: Method Using the Difference of Squares Formula**<br>$a^2-b^2=\left(a+b\right)\left(a-b\right)$, i.e. the difference of the squares of two numbers equals the product of the sum of the two numbers and the difference of the two numbers.
+---
 
-> **Definition 17.2.2** (Perfect Square Trinomial) <br>Expressions such as $a^2+2ab+b^2$ and $a^2-2ab+b^2$ are called perfect square trinomials.
 
-> **Definition 17.2.3** (Method Using the Perfect Square Formula) <br>$a^2+2ab+b^2=\left(a+b\right)^2$, $a^2-2ab+b^2=\left(a-b\right)^2$.
+> **Basic Knowledge: Perfect Square Trinomial** <br>Expressions such as $a^2+2ab+b^2$ and $a^2-2ab+b^2$ are called perfect square trinomials.
 
-> **Definition 17.2.4** (Method of Using Formulas) <br>Swap the two sides of a multiplication formula, and use the formula to factor a polynomial. Factoring should be carried on until each polynomial factor can no longer be factored.
+> **Basic Knowledge: Method Using the Perfect Square Formula** <br>$a^2+2ab+b^2=\left(a+b\right)^2$, $a^2-2ab+b^2=\left(a-b\right)^2$.
 
-### Exercise 1
+> **Basic Knowledge: Method of Using Formulas** <br>Swap the two sides of a multiplication formula, and use the formula to factor a polynomial. Factoring should be carried on until each polynomial factor can no longer be factored.
+
+## Exercise 1
 
 (Exercise 17.2, Problem 1) Can the following polynomials be factored using the difference of squares formula? Why?
 
@@ -22,7 +24,7 @@
 
 ### Solution to Exercise 1
 
-By **Definition 17.2.1**, the difference of squares formula requires the two terms to have opposite signs and both be squares.
+By **Basic Knowledge**, the difference of squares formula requires the two terms to have opposite signs and both be squares.
 
 (1) No; the two terms have the same sign.
 
@@ -32,7 +34,7 @@ By **Definition 17.2.1**, the difference of squares formula requires the two ter
 
 (4) No; after factoring out the minus sign it is $-\left(x^2+y^2\right)$, with the two terms having the same sign. $\blacksquare$
 
-### Exercise 2
+## Exercise 2
 
 (Exercise 17.2, Problem 2) Factor:
 
@@ -50,7 +52,7 @@ By **Definition 17.2.1**, the difference of squares formula requires the two ter
 
 ### Solution to Exercise 2
 
-By **Definition 17.2.1**.
+By **Basic Knowledge**.
 
 (1) $36-m^2=\left(6+m\right)\left(6-m\right)$.
 
@@ -64,7 +66,7 @@ By **Definition 17.2.1**.
 
 (6) $\left(m+n\right)^2-\left(m-2n\right)^2=\left[\left(m+n\right)+\left(m-2n\right)\right]\left[\left(m+n\right)-\left(m-2n\right)\right]=\left(2m-n\right)\left(3n\right)$. $\blacksquare$
 
-### Exercise 3
+## Exercise 3
 
 (Exercise 17.2, Problem 1) Are the following polynomials perfect square trinomials? Why?
 
@@ -78,7 +80,7 @@ By **Definition 17.2.1**.
 
 ### Solution to Exercise 3
 
-By **Definition 17.2.2**, a perfect square trinomial must be the sum of two squares plus or minus $2$ times their product.
+By **Basic Knowledge**, a perfect square trinomial must be the sum of two squares plus or minus $2$ times their product.
 
 (1) Yes; $a^2-2\cdot a\cdot2+2^2=\left(a-2\right)^2$.
 
@@ -88,7 +90,7 @@ By **Definition 17.2.2**, a perfect square trinomial must be the sum of two squa
 
 (4) No; $ab$ should be $2ab$. $\blacksquare$
 
-### Exercise 4
+## Exercise 4
 
 (Exercise 17.2, Problem 2) Factor:
 
@@ -106,7 +108,7 @@ By **Definition 17.2.2**, a perfect square trinomial must be the sum of two squa
 
 ### Solution to Exercise 4
 
-By **Definition 17.2.3**.
+By **Basic Knowledge**.
 
 (1) $a^2+2a+1=\left(a+1\right)^2$.
 
@@ -120,7 +122,7 @@ By **Definition 17.2.3**.
 
 (6) $-2xy-x^2-y^2=-\left(x^2+2xy+y^2\right)=-\left(x+y\right)^2$. $\blacksquare$
 
-### Exercise 5
+## Exercise 5
 
 (Exercise 17.2, Problem 1) Factor:
 
@@ -152,7 +154,7 @@ First extract the common factor, then use the formula; factor until no further f
 
 (6) $-4bx^2+8bxy-4by^2=-4b\left(x^2-2xy+y^2\right)=-4b\left(x-y\right)^2$. $\blacksquare$
 
-### Exercise 6
+## Exercise 6
 
 (Exercise 17.2, Problem 2) Factor:
 
@@ -166,7 +168,7 @@ First extract the common factor, then use the formula; factor until no further f
 
 (2) $\left(p-4\right)\left(p+1\right)+3p=p^2-3p-4+3p=p^2-4=\left(p+2\right)\left(p-2\right)$. $\blacksquare$
 
-### Problem 1
+## Problem 1
 
 (Exercise 17.2, Review and Consolidation, Problem 1) Factor:
 
@@ -180,7 +182,7 @@ First extract the common factor, then use the formula; factor until no further f
 
 ### Solution to Problem 1
 
-By **Definition 17.2.1**.
+By **Basic Knowledge**.
 
 (1) $9a^2-16=\left(3a+4\right)\left(3a-4\right)$.
 
@@ -190,7 +192,7 @@ By **Definition 17.2.1**.
 
 (4) $\frac{25}{9}y^2-\frac{1}{49}z^2=\left(\frac53 y+\frac17 z\right)\left(\frac53 y-\frac17 z\right)$. $\blacksquare$
 
-### Problem 2
+## Problem 2
 
 (Exercise 17.2, Review and Consolidation, Problem 2) Factor:
 
@@ -204,7 +206,7 @@ By **Definition 17.2.1**.
 
 ### Solution to Problem 2
 
-By **Definition 17.2.3**.
+By **Basic Knowledge**.
 
 (1) $a^2-4ab+4b^2=\left(a-2b\right)^2$.
 
@@ -214,7 +216,7 @@ By **Definition 17.2.3**.
 
 (4) $-\left(m+n\right)^2+4\left(m+n\right)-4=-\left[\left(m+n\right)^2-4\left(m+n\right)+4\right]=-\left(m+n-2\right)^2$. $\blacksquare$
 
-### Problem 3
+## Problem 3
 
 (Exercise 17.2, Review and Consolidation, Problem 3) Factor:
 
@@ -238,7 +240,7 @@ Comprehensively use the method of extracting the common factor and the method of
 
 (4) Let $A=a^2-c^2$; the original expression $=\left(A+b^2\right)^2-\left(A-b^2\right)^2=\left(2A\right)\left(2b^2\right)=4b^2\left(a^2-c^2\right)=4b^2\left(a+c\right)\left(a-c\right)$. $\blacksquare$
 
-### Problem 4
+## Problem 4
 
 (Exercise 17.2, Comprehensive Application, Problem 4) Calculate using factoring:
 
@@ -252,7 +254,7 @@ Comprehensively use the method of extracting the common factor and the method of
 
 (2) $2021^2-2020^2=\left(2021+2020\right)\left(2021-2020\right)=4041$, $2010^2-2009^2=\left(2010+2009\right)\left(2010-2009\right)=4019$. The original expression $=4041+4019=8060$. $\blacksquare$
 
-### Problem 5
+## Problem 5
 
 (Exercise 17.2, Comprehensive Application, Problem 5) Given $xy=4$, $x+y=5$, find $x^3 y+2x^2 y^2+xy^3$.
 
@@ -262,7 +264,7 @@ $$x^3 y+2x^2 y^2+xy^3=xy\left(x^2+2xy+y^2\right)=xy\left(x+y\right)^2.$$
 
 Substituting $xy=4$, $x+y=5$, we get $4\times25=100$. $\blacksquare$
 
-### Problem 6
+## Problem 6
 
 (Exercise 17.2, Comprehensive Application, Problem 6) Factor:
 
@@ -276,7 +278,7 @@ Substituting $xy=4$, $x+y=5$, we get $4\times25=100$. $\blacksquare$
 
 (2) Note that $p^2-q^2=\left(p+q\right)\left(p-q\right)$; let $A=p+q$, $B=p-q$; the original expression $=A^2-6AB+9B^2=\left(A-3B\right)^2=\left[\left(p+q\right)-3\left(p-q\right)\right]^2=\left(-2p+4q\right)^2=4\left(2q-p\right)^2$. $\blacksquare$
 
-### Problem 7
+## Problem 7
 
 (Exercise 17.2, Extension and Exploration, Problem 7) Given that $n$ is a positive integer, prove that $\left(4n+3\right)^2-\left(2n+3\right)^2$ is divisible by $24$.
 
@@ -288,7 +290,7 @@ $$\left(4n+3\right)^2-\left(2n+3\right)^2=\left[\left(4n+3\right)+\left(2n+3\rig
 
 $n$ and $n+1$ are consecutive integers, so one of them must be even; hence $n\left(n+1\right)=2k$, and the original expression $=12\cdot2k=24k$. Therefore it is divisible by $24$. $\blacksquare$
 
-### Problem 8
+## Problem 8
 
 (Exercise 17.2, Extension and Exploration, Problem 8) Given that $4y^2+my+9$ is a perfect square trinomial, find the value of $m$.
 
@@ -296,7 +298,7 @@ $n$ and $n+1$ are consecutive integers, so one of them must be even; hence $n\le
 
 $4y^2=\left(2y\right)^2$, $9=3^2$. The middle term of a perfect square trinomial should be $\pm2\cdot2y\cdot3=\pm12y$. Hence $m=\pm12$. $\blacksquare$
 
-### Problem 9
+## Problem 9
 
 (Exercise 17.2, Extension and Exploration, Problem 9) Observe the following expressions. What conclusion can you draw? Can you prove your conclusion?
 

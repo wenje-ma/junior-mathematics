@@ -1,10 +1,11 @@
-# Assignment 142
+# week142
 
-> **Definition 27.1.1** (Inverse Proportional Function) <br>A function of the form $y=\frac kx$ ($k$ is a constant, $k\ne0$) is called an inverse proportional function, with independent variable $x\ne0$.
-> 
-> **Conclusion 27.2.1** (Properties of the Inverse Proportional Function) <br>When $k> 0$, the graph lies in the first and third quadrants, and within each quadrant $y$ decreases as $x$ increases; when $k< 0$, it lies in the second and fourth quadrants, and within each quadrant $y$ increases as $x$ increases.
+> **Basic Knowledge: Inverse Proportional Function**<br>A function of the form $y=\frac kx$ ($k$ is a constant, $k\ne0$) is called an inverse proportional function, with independent variable $x\ne0$.
+> **Basic Knowledge: Properties of the Inverse Proportional Function**<br>When $k> 0$, the graph lies in the first and third quadrants, and within each quadrant $y$ decreases as $x$ increases; when $k< 0$, it lies in the second and fourth quadrants, and within each quadrant $y$ increases as $x$ increases.
+---
 
-### Review Problem 1
+
+## Review Problem 1
 
 (Review Problem, Review and Consolidation, Problem 1) Among the following expressions, the one in which $y$ is an inverse proportional function of $x$ is ( ).
 
@@ -12,9 +13,9 @@
 
 ### Solution to Review Problem 1
 
-By **Definition 27.1.1**, an inverse proportional function can be written in the form $y=\frac kx$, i.e. $xy=k$. In (B), $yx=-\sqrt3$, i.e. $y=\frac{-\sqrt3}{x}$, which fits. In (A), $y$ is in inverse proportion to $x^2$; (C) is a linear function; (D) rearranges to $y=1/\sqrt x$, which is not an inverse proportional function. Therefore choose (B). $\blacksquare$
+By **Basic Knowledge**, an inverse proportional function can be written in the form $y=\frac kx$, i.e. $xy=k$. In (B), $yx=-\sqrt3$, i.e. $y=\frac{-\sqrt3}{x}$, which fits. In (A), $y$ is in inverse proportion to $x^2$; (C) is a linear function; (D) rearranges to $y=1/\sqrt x$, which is not an inverse proportional function. Therefore choose (B). $\blacksquare$
 
-### Review Problem 2
+## Review Problem 2
 
 (Review Problem, Review and Consolidation, Problem 2) For the inverse proportional function $y=\frac3x$, when $x=-\frac12$, what is the value of the function $y$?
 
@@ -26,7 +27,7 @@ $$
 y=\frac{3}{-1/2}=-6. \blacksquare
 $$
 
-### Review Problem 3
+## Review Problem 3
 
 (Review Problem, Review and Consolidation, Problem 3) Fill in the blanks:
 
@@ -36,13 +37,13 @@ $$
 
 ### Solution to Review Problem 3
 
-By **Conclusion 27.2.1**.
+By **Basic Knowledge**.
 
 (1) $k=10> 0$, so the graph lies in the first and third quadrants, and in each quadrant $y$ decreases as $x$ increases.
 
 (2) $k=-10< 0$, so the graph lies in the second and fourth quadrants, and in each quadrant $y$ increases as $x$ increases. $\blacksquare$
 
-### Review Problem 4
+## Review Problem 4
 
 (Review Problem, Review and Consolidation, Problem 4) Given the inverse proportional function $y=\frac kx$ ($k\ne0$), when $x=-6$, $y=\frac23$.
 
@@ -62,15 +63,15 @@ and the range of the independent variable $x$ is $x\ne0$.
 
 (2) Check whether the product of the x- and y-coordinates equals $k=-4$. Point $\left(-2,2\right)$: $\left(-2\right)\times2=-4$, on the graph. Point $\left(1,4\right)$: $1\times4=4\ne-4$, not on the graph. $\blacksquare$
 
-### Review Problem 5
+## Review Problem 5
 
 (Review Problem, Comprehensive Application, Problem 5) For the inverse proportional function $y=\frac{k-1}{x}$, in every quadrant $y$ decreases as $x$ increases. Find the range of $k$.
 
 ### Solution to Review Problem 5
 
-By **Conclusion 27.2.1**, for $y$ to decrease as $x$ increases in each quadrant, we need $k-1> 0$, hence $k> 1$. $\blacksquare$
+By **Basic Knowledge**, for $y$ to decrease as $x$ increases in each quadrant, we need $k-1> 0$, hence $k> 1$. $\blacksquare$
 
-### Review Problem 6
+## Review Problem 6
 
 (Review Problem, Comprehensive Application, Problem 6) The areas of the three faces $A,B,C$ of a brick are in the ratio $4:2:1$. If the $B$ face is placed downward on the ground, the pressure intensity on the ground is $p$. When the $A$ face and the $C$ face are placed downward respectively, what is the pressure intensity on the ground in each case?
 
@@ -86,7 +87,7 @@ When the $C$ face is down, $p_C=\frac FS=\frac{2Sp}{S}=2p$.
 
 Hence when the $A$ face is down the pressure intensity is $\frac p2$, and when the $C$ face is down it is $2p$. $\blacksquare$
 
-### Review Problem 7
+## Review Problem 7
 
 (Review Problem, Comprehensive Application, Problem 7) The lifespan of a certain brand of monitor is about $3\times10^4\ \text{h}$.
 
@@ -100,15 +101,15 @@ Hence when the $A$ face is down the pressure intensity is $\frac p2$, and when t
 
 (2) When $t=10$, $d=\frac{30000}{10}=3000$ days. $\blacksquare$
 
-### Review Problem 8
+## Review Problem 8
 
 (Review Problem, Comprehensive Application, Problem 8) Match the function expressions below with their graphs: given the graphs of $y=k/x$ for the two cases $k> 0$ and $k< 0$.
 
 ### Solution to Review Problem 8
 
-By **Conclusion 27.2.1**, the graph for $k> 0$ is a hyperbola in the first and third quadrants, and the graph for $k< 0$ is a hyperbola in the second and fourth quadrants; match them accordingly. $\blacksquare$
+By **Basic Knowledge**, the graph for $k> 0$ is a hyperbola in the first and third quadrants, and the graph for $k< 0$ is a hyperbola in the second and fourth quadrants; match them accordingly. $\blacksquare$
 
-### Review Problem 9
+## Review Problem 9
 
 (Review Problem, Extension and Exploration, Problem 9) Do the graphs of two different inverse proportional functions have any common points? Why?
 
@@ -116,7 +117,7 @@ By **Conclusion 27.2.1**, the graph for $k> 0$ is a hyperbola in the first and t
 
 Let the two inverse proportional functions be $y=\frac{k_1}{x}$ and $y=\frac{k_2}{x}$, with $k_1\ne k_2$. If they had a common point $\left(x,y\right)$, then $\frac{k_1}{x}=\frac{k_2}{x}$, i.e. $k_1=k_2$, contradicting $k_1\ne k_2$. Hence the graphs of two different inverse proportional functions have no common points. $\blacksquare$
 
-### Review Problem 10
+## Review Problem 10
 
 (Review Problem, Extension and Exploration, Problem 10) In the same rectangular coordinate system, the graph of the direct proportional function $y=k_1x$ and the graph of the inverse proportional function $y=\frac{k_2}{x}$ have no common point. Determine the range of $k_1,k_2$.
 
@@ -124,7 +125,7 @@ Let the two inverse proportional functions be $y=\frac{k_1}{x}$ and $y=\frac{k_2
 
 If they had an intersection, then $k_1x=\frac{k_2}{x}$, i.e. $x^2=\frac{k_2}{k_1}$. For the two to have no common point, this equation must have no real solution, i.e. $\frac{k_2}{k_1}< 0$. Hence $k_1,k_2$ have opposite signs. $\blacksquare$
 
-### Review Problem 11
+## Review Problem 11
 
 (Review Problem, Extension and Exploration, Problem 11) A water conservancy project needs to transport a total of $10^6\ \text{m}^3$ of earth and stone.
 

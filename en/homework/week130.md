@@ -1,16 +1,16 @@
-# Assignment 130
+# week130
 
-> **Conclusion 25.3.1** (Setting Up Equations for Word Problems) <br>The general steps for solving a practical problem by setting up a quadratic equation: analyze the problem, set up the unknown, write the equation according to the equal relation, solve the equation, check whether the roots make practical sense, and give the answer.
-> 
-> **Conclusion 25.3.2** (Growth-Rate and Decline-Rate Model) <br>Let the original quantity be $a$ and the average growth rate be $x$; after two changes it is $a\left(1+x\right)^2$. If the average decline rate is $x$, then after two changes it is $a\left(1-x\right)^2$.
-> 
-> **Conclusion 25.3.3** (Propagation Model) <br>If there is initially $1$ person, and in each round each $1$ person infects $x$ others on average, then after two rounds a total of $\left(1+x\right)^2$ people are infected.
-> 
-> **Conclusion 25.3.4** (Match-Schedule Model) <br>$n$ teams in a single round-robin play $\frac{n\left(n-1\right)}2$ matches in total; in a home-and-away double round-robin they play $n\left(n-1\right)$ matches.
-> 
-> **Conclusion 25.3.5** (Diagonals of a Convex Polygon) <br>A convex $n$-gon has $\frac{n\left(n-3\right)}2$ diagonals in total.
+> **Basic Knowledge: Setting Up Equations for Word Problems**<br>The general steps for solving a practical problem by setting up a quadratic equation: analyze the problem, set up the unknown, write the equation according to the equal relation, solve the equation, check whether the roots make practical sense, and give the answer.
+> **Basic Knowledge: Growth-Rate and Decline-Rate Model**<br>Let the original quantity be $a$ and the average growth rate be $x$; after two changes it is $a\left(1+x\right)^2$. If the average decline rate is $x$, then after two changes it is $a\left(1-x\right)^2$.
+> **Basic Knowledge: Propagation Model**<br>If there is initially $1$ person, and in each round each $1$ person infects $x$ others on average, then after two rounds a total of $\left(1+x\right)^2$ people are infected.
+> **Basic Knowledge: Match-Schedule Model**<br>$n$ teams in a single round-robin play $\frac{n\left(n-1\right)}2$ matches in total; in a home-and-away double round-robin they play $n\left(n-1\right)$ matches.
+> **Basic Knowledge: Diagonals of a Convex Polygon**<br>A convex $n$-gon has $\frac{n\left(n-3\right)}2$ diagonals in total.
+> **Basic Knowledge: Growth-Rate Model**<br>If the original quantity is a and the average growth rate is x, then after two periods it is a(1+x)^2.
 
-### Exercise 1
+---
+
+
+## Exercise 1
 
 (Exercise 25.3, Problem 1) How can a rope of length $40\ \text{m}$ be used to enclose a rectangular area of $75\ \text{m}^2$? Can it enclose a rectangular area of $101\ \text{m}^2$? If yes, describe how; if no, explain why.
 
@@ -34,7 +34,7 @@ $$
 
 Rearranging gives $x^2-20x+101=0$, whose discriminant is $\Delta=\left(-20\right)^2-4\times101=400-404=-4< 0$; the equation has no real root. Hence a rectangular area of $101\ \text{m}^2$ cannot be enclosed. $\blacksquare$
 
-### Exercise 2
+## Exercise 2
 
 (Exercise 25.3, Problem 2) As shown in the figure, the adjacent sides of rectangle $ABCD$ are $AD=1$ and $CD=4$. Is there a point $E$ on $AB$ such that $\angle DEC$ is a right angle?
 
@@ -64,7 +64,7 @@ $$
 
 Both values $2-\sqrt3\approx0.27$ and $2+\sqrt3\approx3.73$ lie in $\left[0,4\right]$. Hence such a point $E$ exists on $AB$, and there are two of them. $\blacksquare$
 
-### Exercise 3
+## Exercise 3
 
 (Exercise 25.3, Problem 3, Part (1)) The main stem of a certain plant grows a number of branches, and each branch grows the same number of small twigs. If the total number of main stem, branches and small twigs is $91$, how many small twigs does each branch grow?
 
@@ -78,13 +78,13 @@ $$
 
 Rearranging gives $x^2+x-90=0$, i.e. $\left(x+10\right)\left(x-9\right)=0$, solving gives $x=9$ or $x=-10$. Since the number of twigs is positive, discard $x=-10$. Hence each branch grows $9$ small twigs. $\blacksquare$
 
-### Exercise 4
+## Exercise 4
 
 (Exercise 25.3, Problem 3, Part (2)) In Qingshan Village, the average rice yield per hectare was $15000\ \text{kg}$ in year $2020$ and $18000\ \text{kg}$ in year $2022$. Find the average annual growth rate of the rice yield per hectare (write the result in the form $a\%$, with $a$ rounded to two decimal places).
 
 ### Solution to Exercise 4
 
-By **Conclusion 25.3.2** (Growth-Rate Model), let the average annual growth rate be $x$; after two years,
+By **Basic Knowledge: Growth-Rate Model**, let the average annual growth rate be $x$; after two years,
 
 $$
 15000\left(1+x\right)^2=18000.
@@ -98,7 +98,7 @@ $$
 
 i.e. the average annual growth rate of the rice yield per hectare is about $9.54\%$. $\blacksquare$
 
-### Exercise 5
+## Exercise 5
 
 (Exercise 25.3, Problem 4, Part (1)) $n$ people attend a party; every two people shake hands $1$ time, and there are $10$ handshakes in total. How many people are there?
 
@@ -112,19 +112,19 @@ $$
 
 i.e. $n\left(n-1\right)=20$, $n^2-n-20=0$, i.e. $\left(n-5\right)\left(n+4\right)=0$, solving gives $n=5$ or $n=-4$. Since the number of people is positive, discard $n=-4$. Hence there are $5$ people. $\blacksquare$
 
-### Exercise 6
+## Exercise 6
 
 (Exercise 25.3, Problem 4, Part (2)) A convex polygon has $20$ diagonals; what kind of polygon is it? Is there a polygon with $18$ diagonals? If so, what kind is it? If not, explain why.
 
 ### Solution to Exercise 6
 
-By **Conclusion 25.3.5** (Diagonals of a Convex Polygon), a convex $n$-gon has $\frac{n\left(n-3\right)}2$ diagonals.
+By **Basic Knowledge: Diagonals of a Convex Polygon**, a convex $n$-gon has $\frac{n\left(n-3\right)}2$ diagonals.
 
 With $20$ diagonals, set up $\frac{n\left(n-3\right)}2=20$, i.e. $n\left(n-3\right)=40$, $n^2-3n-40=0$, i.e. $\left(n-8\right)\left(n+5\right)=0$, solving gives $n=8$ (discarding the negative root). Hence it is an octagon.
 
 With $18$ diagonals, set up $\frac{n\left(n-3\right)}2=18$, i.e. $n\left(n-3\right)=36$, $n^2-3n-36=0$, whose discriminant is $\Delta=\left(-3\right)^2+144=153$, not a perfect square, so $n$ is not an integer. Hence there is no polygon with exactly $18$ diagonals. $\blacksquare$
 
-### Problem 1
+## Problem 1
 
 (Exercise 25.3, Review and Consolidation, Problem 1) The sum of two numbers is $26$ and their product is $168$; find the two numbers.
 
@@ -138,7 +138,7 @@ $$
 
 Rearranging gives $x^2-26x+168=0$, whose discriminant is $\Delta=26^2-4\times168=676-672=4$, hence $x=\frac{26\pm2}{2}$, i.e. $x=14$ or $x=12$. Hence the two numbers are $12$ and $14$. $\blacksquare$
 
-### Problem 2
+## Problem 2
 
 (Exercise 25.3, Review and Consolidation, Problem 2) The two legs of a right triangle sum to $14$, and its area is $24$; find the lengths of the two legs.
 
@@ -152,13 +152,13 @@ $$
 
 i.e. $x\left(14-x\right)=48$, $x^2-14x+48=0$, i.e. $\left(x-6\right)\left(x-8\right)=0$, solving gives $x=6$ or $x=8$. Hence the two legs are $6$ and $8$. $\blacksquare$
 
-### Problem 3
+## Problem 3
 
 (Exercise 25.3, Review and Consolidation, Problem 3) A football league uses a double round-robin; if $90$ matches are played by the end of the season, how many teams participate?
 
 ### Solution to Problem 3
 
-By **Conclusion 25.3.4** (Match-Schedule Model), $n$ teams in a double round-robin play $n\left(n-1\right)$ matches. Set up
+By **Basic Knowledge: Match-Schedule Model**, $n$ teams in a double round-robin play $n\left(n-1\right)$ matches. Set up
 
 $$
 n\left(n-1\right)=90.
@@ -166,13 +166,13 @@ $$
 
 i.e. $n^2-n-90=0$, i.e. $\left(n-10\right)\left(n+9\right)=0$, solving gives $n=10$ (discarding the negative root). Hence $10$ teams participate. $\blacksquare$
 
-### Problem 4
+## Problem 4
 
 (Exercise 25.3, Review and Consolidation, Problem 4) In year $2019$ China's express delivery volume was $635.2$ billion pieces, rising to $1083.0$ billion pieces in year $2021$. What was the average annual growth rate over these two years (write the result in the form $a\%$, with $a$ rounded to one decimal place)?
 
 ### Solution to Problem 4
 
-By **Conclusion 25.3.2** (Growth-Rate Model), let the average annual growth rate be $x$; after two years the volume is $635.2\left(1+x\right)^2$. Set up
+By **Basic Knowledge: Growth-Rate Model**, let the average annual growth rate be $x$; after two years the volume is $635.2\left(1+x\right)^2$. Set up
 
 $$
 635.2\left(1+x\right)^2=1083.0.
@@ -186,7 +186,7 @@ $$
 
 i.e. the average annual growth rate over these two years is about $30.6\%$. $\blacksquare$
 
-### Problem 5
+## Problem 5
 
 (Exercise 25.3, Comprehensive Application, Problem 5) The two diagonals of a rhombus sum to $10$, and its area is $12$; find the perimeter of the rhombus.
 
@@ -202,7 +202,7 @@ $$
 4\sqrt{13}. \blacksquare
 $$
 
-### Problem 6
+## Problem 6
 
 (Exercise 25.3, Comprehensive Application, Problem 6) As shown in the figure, a photo of length $22\ \text{cm}$ and width $29\ \text{cm}$ is to be framed; the four sides of the frame must have equal width, and the area of the frame is one quarter of the photo's area. What should the frame width be in cm (rounded to one decimal place)?
 
@@ -228,7 +228,7 @@ $$
 
 i.e. the frame width is about $1.5\ \text{cm}$. $\blacksquare$
 
-### Problem 7
+## Problem 7
 
 (Exercise 25.3, Comprehensive Application, Problem 7) The three sides of a right triangle are all positive integers; the hypotenuse is $1$ longer than one leg and $8$ longer than the other. Does such a right triangle exist? If so, how many are there?
 
@@ -244,7 +244,7 @@ Expanding gives $c^2-2c+1+c^2-16c+64=c^2$, i.e. $c^2-18c+65=0$, i.e. $\left(c-5\
 
 When $c=5$, the other leg $c-8=-3< 0$, which does not fit the problem, so discard it. When $c=13$, the two legs are $12$ and $5$, both positive integers. Hence such a right triangle exists, and there is exactly one, with sides $5,12,13$. $\blacksquare$
 
-### Problem 8
+## Problem 8
 
 (Exercise 25.3, Extension and Exploration, Problem 8) As shown in the figure, a design of width $20\ \text{cm}$ and length $30\ \text{cm}$ is to have two horizontal and two vertical colored strips; the ratio of the horizontal to vertical strip width is $3:2$. If the strips are to occupy one quarter of the design's area, how should their widths be chosen (rounded to one decimal place)?
 
@@ -266,7 +266,7 @@ $$
 
 Taking the smaller positive root, $y=\frac{10-5\sqrt3}{2}\approx0.67$. Hence the horizontal strip width is $3y\approx2.0\ \text{cm}$ and the vertical strip width is $2y\approx1.3\ \text{cm}$. $\blacksquare$
 
-### Problem 9
+## Problem 9
 
 (Exercise 25.3, Extension and Exploration, Problem 9) As shown in the figure, the segment $AB$ has length $1$, and points $C,D,E$ lie on $AB$.
 

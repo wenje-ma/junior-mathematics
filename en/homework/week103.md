@@ -1,14 +1,13 @@
-# Assignment 103
+# week103
 
-> **Conclusion 21.1.1** (Interior Angle Sum of a Quadrilateral) <br> The interior angle sum of a quadrilateral is \(360^{\circ}\).
-> 
-> **Conclusion 21.1.2** (Exterior Angle Sum of a Quadrilateral) <br> The exterior angle sum of a quadrilateral is \(360^{\circ}\).
-> 
-> **Conclusion 21.1.3** (Interior Angle Sum of a Polygon) <br> The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
-> 
-> **Conclusion 21.1.4** (Exterior Angle Sum of a Polygon) <br> The exterior angle sum of a polygon is \(360^{\circ}\).
+> **Basic Knowledge: Interior Angle Sum of a Quadrilateral**<br>The interior angle sum of a quadrilateral is \(360^{\circ}\).
+> **Basic Knowledge: Exterior Angle Sum of a Quadrilateral**<br>The exterior angle sum of a quadrilateral is \(360^{\circ}\).
+> **Basic Knowledge: Interior Angle Sum of a Polygon**<br>The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
+> **Basic Knowledge: Exterior Angle Sum of a Polygon**<br>The exterior angle sum of a polygon is \(360^{\circ}\).
+---
 
-### Exercise 1
+
+## Exercise 1
 
 (Exercise 21.1.1, Problem 1)
 
@@ -18,7 +17,7 @@ Find the value of \(x\) in the following figures:
 
 (2) The four interior angles of a quadrilateral are \(140^{\circ},3x^{\circ},2x^{\circ},4x^{\circ}\).
 
-By **Conclusion 21.1.1**, the interior angle sum of a quadrilateral is \(360^{\circ}\).
+By **Basic Knowledge**, the interior angle sum of a quadrilateral is \(360^{\circ}\).
 
 (1) \(75+120+80+x=360\), giving \(x=85\).
 
@@ -30,7 +29,7 @@ By **Conclusion 21.1.1**, the interior angle sum of a quadrilateral is \(360^{\c
 
 If one pair of opposite angles of a quadrilateral is supplementary, what is the relation between the other pair of opposite angles?
 
-By **Conclusion 21.1.1**, the interior angle sum of a quadrilateral is \(360^{\circ}\).
+By **Basic Knowledge**, the interior angle sum of a quadrilateral is \(360^{\circ}\).
 
 One pair of opposite angles is supplementary, summing to \(180^{\circ}\).
 
@@ -48,7 +47,7 @@ Therefore, any wooden frame made purely of triangles is rigid, while a frame con
 
 \(\blacksquare\)
 
-### Exercise 2
+## Exercise 2
 
 (Exercise 21.1.2, Problem 1)
 
@@ -58,7 +57,7 @@ Find the value of \(x\) in the following figures:
 
 (2) In pentagon \(ABCDE\), \(AB\parallel CD\), and the remaining angles are as shown.
 
-By **Conclusion 21.1.3**, the interior angle sum of a pentagon is \((5-2)\times 180^{\circ}=540^{\circ}\).
+By **Basic Knowledge**, the interior angle sum of a pentagon is \((5-2)\times 180^{\circ}=540^{\circ}\).
 
 (1) \(120+150+135+2x+x=540\), i.e. \(3x=135\), giving \(x=45\).
 
@@ -74,21 +73,21 @@ By **Conclusion 21.1.3**, the interior angle sum of a pentagon is \((5-2)\times 
 
 (3) Each exterior angle of a polygon is \(72^{\circ}\). How many sides does it have?
 
-(1) By **Conclusion 21.1.3**, \((n-2)\times 180^{\circ}=1080^{\circ}\), giving \(n=8\), i.e. an octagon.
+(1) By **Basic Knowledge**, \((n-2)\times 180^{\circ}=1080^{\circ}\), giving \(n=8\), i.e. an octagon.
 
-(2) Each interior angle is \(120^{\circ}\), so each exterior angle is \(60^{\circ}\). By **Conclusion 21.1.4**, \(n=\frac{360^{\circ}}{60^{\circ}}=6\), i.e. a hexagon.
+(2) Each interior angle is \(120^{\circ}\), so each exterior angle is \(60^{\circ}\). By **Basic Knowledge**, \(n=\frac{360^{\circ}}{60^{\circ}}=6\), i.e. a hexagon.
 
-(3) By **Conclusion 21.1.4**, \(n=\frac{360^{\circ}}{72^{\circ}}=5\), i.e. a pentagon.
+(3) By **Basic Knowledge**, \(n=\frac{360^{\circ}}{72^{\circ}}=5\), i.e. a pentagon.
 
 \(\blacksquare\)
 
-### Problem 1
+## Problem 1
 
 (Exercise 21.1, Review and Consolidation, Problem 1)
 
 Can all four angles of a quadrilateral be acute? Can they all be obtuse? Can they all be right? Why?
 
-By **Conclusion 21.1.1**, the interior angle sum of a quadrilateral is \(360^{\circ}\).
+By **Basic Knowledge**, the interior angle sum of a quadrilateral is \(360^{\circ}\).
 
 If all four are acute, their sum is less than \(360^{\circ}\), a contradiction, so no.
 
@@ -102,7 +101,7 @@ When all four are right angles, their sum is exactly \(360^{\circ}\), which is p
 
 Fill in the table: the interior and exterior angle sums for polygons with \(3,4,5,6,8,12,20\) sides.
 
-By **Conclusion 21.1.3**, the interior angle sum is \((n-2)\times 180^{\circ}\); by **Conclusion 21.1.4**, the exterior angle sum is always \(360^{\circ}\).
+By **Basic Knowledge**, the interior angle sum is \((n-2)\times 180^{\circ}\); by **Basic Knowledge**, the exterior angle sum is always \(360^{\circ}\).
 
 (1) Triangle: interior sum \(180^{\circ}\), exterior sum \(360^{\circ}\).
 
@@ -144,13 +143,13 @@ Regular decagon: \(\frac{8\times 180^{\circ}}{10}=144^{\circ}\).
 
 \(\blacksquare\)
 
-### Problem 2
+## Problem 2
 
 (Exercise 21.1, Comprehensive Application, Problem 5)
 
 As shown in the figure, in quadrilateral \(ABCD\), \(\angle A=\angle C,\ \angle B=\angle D\). What is the positional relation between \(AB\) and \(DC\)? Why? What about \(BC\) and \(AD\)?
 
-By **Conclusion 21.1.1**, \(\angle A+\angle B+\angle C+\angle D=360^{\circ}\).
+By **Basic Knowledge**, \(\angle A+\angle B+\angle C+\angle D=360^{\circ}\).
 
 Substituting \(\angle A=\angle C,\ \angle B=\angle D\), we get \(2\angle A+2\angle B=360^{\circ}\), i.e. \(\angle A+\angle B=180^{\circ}\).
 
@@ -190,7 +189,7 @@ Therefore \(x=108^{\circ}-36^{\circ}-36^{\circ}=36^{\circ}\).
 
 \(\blacksquare\)
 
-### Problem 3
+## Problem 3
 
 (Exercise 21.1, Extension and Exploration, Problem 8)
 
@@ -218,7 +217,7 @@ A hexagonal frame needs to be divided into \(4\) triangles, requiring at least \
 
 \(\blacksquare\)
 
-### Inquiry and Discovery 1
+## Inquiry and Discovery 1
 
 (Inquiry and Discovery, Tiling the Plane with Polygons)
 

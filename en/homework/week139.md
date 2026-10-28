@@ -1,8 +1,10 @@
-# Assignment 139
+# week139
 
-> **Definition 27.1.1** (Inverse Proportional Function) <br>In general, a function of the form $y=\frac kx$ ($k$ is a constant, $k\ne0$) is called an inverse proportional function. Here $x$ is the independent variable, $y$ is a function of $x$, and the domain of the independent variable $x$ is all real numbers not equal to $0$.
+> **Basic Knowledge: Inverse Proportional Function**<br>In general, a function of the form $y=\frac kx$ ($k$ is a constant, $k\ne0$) is called an inverse proportional function. Here $x$ is the independent variable, $y$ is a function of $x$, and the domain of the independent variable $x$ is all real numbers not equal to $0$.
+---
 
-### Exercise 1
+
+## Exercise 1
 
 (Exercise 27.1, Problem 1) Use function expressions to represent the relation between the variables in the following problems:
 
@@ -14,7 +16,7 @@
 
 ### Solution to Exercise 1
 
-Using the equalities in each problem, write the expressions by **Definition 27.1.1**.
+Using the equalities in each problem, write the expressions by **Basic Knowledge**.
 
 (1) Since volume equals filling rate times time, $vt=2000$, hence $t=\frac{2000}{v}$.
 
@@ -22,13 +24,13 @@ Using the equalities in each problem, write the expressions by **Definition 27.1
 
 (3) By Ohm's law $U=IR$, i.e. $IR=3$, hence $I=\frac3R$. $\blacksquare$
 
-### Exercise 2
+## Exercise 2
 
 (Exercise 27.1, Problem 2) Given that $y$ is an inverse proportional function of $x$, and $y=4$ when $x=-2$. Find the function expression and the domain of the independent variable.
 
 ### Solution to Exercise 2
 
-By **Definition 27.1.1**, let $y=\frac kx$. Substituting $x=-2$, $y=4$ gives $4=\frac{k}{-2}$, solving $k=-8$. Hence
+By **Basic Knowledge**, let $y=\frac kx$. Substituting $x=-2$, $y=4$ gives $4=\frac{k}{-2}$, solving $k=-8$. Hence
 
 $$
 y=\frac{-8}{x},
@@ -36,7 +38,7 @@ $$
 
 the domain of $x$ is all real numbers with $x\ne0$. $\blacksquare$
 
-### Problem 1
+## Problem 1
 
 (Exercise 27.1, Review and Consolidation, Problem 1) Use function expressions to represent the relation between the variables in the following problems, and state what kind of function each is:
 
@@ -58,7 +60,7 @@ the domain of $x$ is all real numbers with $x\ne0$. $\blacksquare$
 
 (4) From $s=300t$, $s=300t$; this is a direct proportional function. $\blacksquare$
 
-### Problem 2
+## Problem 2
 
 (Exercise 27.1, Comprehensive Application, Problem 2) Given the inverse proportional function $y=\frac kx$ ($k> 0$), when the independent variable is enlarged to $a$ times its original value ($a\ne0$ and $a$ a positive integer), how does the corresponding function value change? Explain.
 
@@ -72,7 +74,7 @@ $$
 
 Hence the corresponding function value shrinks to $\frac1a$ of its original. $\blacksquare$
 
-### Problem 3
+## Problem 3
 
 (Exercise 27.1, Extension and Exploration, Problem 3) Given that $y$ is inversely proportional to $x^2$, and $y=4$ when $x=3$.
 

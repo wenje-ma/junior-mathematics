@@ -1,14 +1,16 @@
-# Assignment 58
+# week58
 
-> **Definition 12.1.2** (Population and Individual) <br>The entire set of objects to be investigated is called the population; each object under investigation that makes up the population is called an individual.
-> 
-> **Definition 12.1.4** (Sample) <br>A part of the individuals drawn from the population.
-> 
-> **Definition 12.1.6** (Simple Random Sampling) <br>Every individual in the population has an equal chance of being selected.
-> 
-> **Definition 12.2.7** (Trend Chart) <br>A statistical chart using a line to describe the relationship between one quantity and another.
+> **Basic Knowledge: Population and Individual**<br>The entire set of objects to be investigated is called the population; each object under investigation that makes up the population is called an individual.
 
-### Activity 1
+> **Basic Knowledge: Sample**<br>A part of the individuals drawn from the population.
+
+> **Basic Knowledge: Simple Random Sampling**<br>Every individual in the population has an equal chance of being selected.
+
+> **Basic Knowledge: Trend Chart**<br>A statistical chart using a line to describe the relationship between one quantity and another.
+
+---
+
+## Activity 1
 
 (Mathematics Activity, Activity 1, Problem 1) Estimate the average height of the whole class. Steps:
 
@@ -24,11 +26,14 @@
 
 Let the heights of the $N$ students in the class be $x_1,x_2,\ldots,x_N$, and the population average height be $\overline{x}=\frac{1}{N}\sum_{i=1}^N x_i$.
 
-Each time a sample of size $15$ is drawn, the sample average is $\overline{x}_k=\frac{1}{15}\sum_{j=1}^{15}x_{i_j}$. By **Definition 12.1.6** (Simple Random Sampling), each draw is unbiased, and $\overline{x}_k$ fluctuates up and down around $\overline{x}$.
+Each time a sample of size $15$ is drawn, the sample average is $\overline{x}_k=\frac{1}{15}\sum_{j=1}^{15}x_{i_j}$. By **Basic Knowledge: Simple Random Sampling**, each draw is unbiased, and $\overline{x}_k$ fluctuates up and down around $\overline{x}$.
 
 Comparison shows: the sample average generally does not equal the population average, but as the number of repetitions grows, the average of the sample averages approaches the population average. The larger the sample size, the more stably the sample average approaches the population average. $\blacksquare$
 
-### Activity 2
+
+---
+
+## Activity 2
 
 (Mathematics Activity, Activity 2, Problem 1) Who has the faster reaction? Measure reaction speed with a ruler: a partner holds the ruler upright with the scale $0$ at the bottom, placed between the thumb and the other fingers; after releasing, grab the ruler as quickly as possible, and record the scale $d$ (cm) where the hand grabs it. Repeat the experiment $10$ times.
 

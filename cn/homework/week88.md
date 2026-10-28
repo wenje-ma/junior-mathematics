@@ -1,12 +1,14 @@
-# 作业 88
+# week88
 
-> **定义 18.2.1** (分式的乘法法则) <br>分式乘分式, 用分子的积作为积的分子, 分母的积作为积的分母, 即 $\frac{a}{b}\cdot\frac{c}{d}=\frac{ac}{bd}$.
+> **基础知识: 分式的乘法法则**<br>分式乘分式, 用分子的积作为积的分子, 分母的积作为积的分母, 即 $\frac{a}{b}\cdot\frac{c}{d}=\frac{ac}{bd}$.
+---
 
-> **定义 18.2.2** (分式的除法法则) <br>分式除以分式, 把除式的分子、分母颠倒位置后与被除式相乘, 即 $\frac{a}{b}\div\frac{c}{d}=\frac{ad}{bc}$.
 
-> **定义 18.2.3** (分式的乘方) <br>当 $n$ 是正整数时, $\left(\frac{a}{b}\right)^n=\frac{a^n}{b^n}$, 即分式乘方要把分子、分母分别乘方.
+> **基础知识: 分式的除法法则** <br>分式除以分式, 把除式的分子, 分母颠倒位置后与被除式相乘, 即 $\frac{a}{b}\div\frac{c}{d}=\frac{ad}{bc}$.
 
-### 练习一
+> **基础知识: 分式的乘方** <br>当 $n$ 是正整数时, $\left(\frac{a}{b}\right)^n=\frac{a^n}{b^n}$, 即分式乘方要把分子, 分母分别乘方.
+
+## 练习一
 
 (练习 18.2 第 1 题) 计算:
 
@@ -20,7 +22,7 @@
 
 ### 解答 练习一
 
-由**定义 18.2.1**.
+由**基础知识**.
 
 (1) $\frac{3a}{4b}\cdot\frac{2b}{a^2}=\frac{6ab}{4a^2 b}=\frac{3}{2a}$.
 
@@ -30,7 +32,7 @@
 
 (4) $\frac{a+b}{2ab}\cdot\frac{4a^2 b}{\left(a+b\right)^2}=\frac{4a^2 b\left(a+b\right)}{2ab\left(a+b\right)^2}=\frac{2a}{a+b}$. $\blacksquare$
 
-### 练习二
+## 练习二
 
 (练习 18.2 第 2 题) 计算:
 
@@ -40,13 +42,13 @@
 
 ### 解答 练习二
 
-由**定义 18.2.1**.
+由**基础知识**.
 
 (1) $\frac{4x}{3y}\cdot\frac{y}{2x^3}=\frac{4xy}{6x^3 y}=\frac{2}{3x^2}$.
 
 (2) $\frac{a^2 b}{2c^2}\cdot\frac{-4c}{5ab}=-\frac{4a^2 bc}{10abc^2}=-\frac{2a}{5c}$. $\blacksquare$
 
-### 练习三
+## 练习三
 
 (练习 18.2 第 1 题) 计算:
 
@@ -60,7 +62,7 @@
 
 ### 解答 练习三
 
-由**定义 18.2.2**.
+由**基础知识**.
 
 (1) $\frac{2}{x}\div\frac{4}{x}=\frac{2}{x}\cdot\frac{x}{4}=\frac12$.
 
@@ -70,7 +72,7 @@
 
 (4) $\frac{a^2-4}{a^2+4a+4}\div\left(a+2\right)=\frac{\left(a+2\right)\left(a-2\right)}{\left(a+2\right)^2}\cdot\frac{1}{a+2}=\frac{a-2}{\left(a+2\right)^2}$. $\blacksquare$
 
-### 练习四
+## 练习四
 
 (练习 18.2 第 2 题) 计算:
 
@@ -84,7 +86,7 @@
 
 (2) $\left(xy-x^2\right)\div\frac{x-y}{xy}=x\left(y-x\right)\cdot\frac{xy}{x-y}=-x\left(x-y\right)\cdot\frac{xy}{x-y}=-x^2 y$. $\blacksquare$
 
-### 练习五
+## 练习五
 
 (练习 18.2 第 1 题) 下列各式是否正确? 为什么?
 
@@ -96,7 +98,7 @@
 
 ### 解答 练习五
 
-由**定义 18.2.3**.
+由**基础知识**.
 
 (1) 正确, $\left(\frac{b^2}{a}\right)^3=\frac{\left(b^2\right)^3}{a^3}=\frac{b^6}{a^3}$.
 
@@ -104,7 +106,7 @@
 
 (3) 不正确, $\left(\frac{2a}{a+b}\right)^2=\frac{4a^2}{\left(a+b\right)^2}$, 分母也应平方. $\blacksquare$
 
-### 练习六
+## 练习六
 
 (练习 18.2 第 2 题) 计算:
 
@@ -114,13 +116,13 @@
 
 ### 解答 练习六
 
-由**定义 18.2.3**.
+由**基础知识**.
 
 (1) $\left(\frac{2x}{-y}\right)^2=\frac{4x^2}{y^2}$.
 
 (2) $\frac{a^6 b^3}{-c^3}\div\frac{a^2 b^2}{c^4}=-\frac{a^6 b^3}{c^3}\cdot\frac{c^4}{a^2 b^2}=-a^4 b c$. $\blacksquare$
 
-### 习题一
+## 习题一
 
 (习题 18.2 复习巩固第 1 题) 计算:
 
@@ -142,7 +144,7 @@
 
 (4) $\frac{6ab^2}{c^2 d}\div\frac{3ab}{2cd^2}=\frac{6ab^2}{c^2 d}\cdot\frac{2cd^2}{3ab}=\frac{4bd}{c}$. $\blacksquare$
 
-### 习题二
+## 习题二
 
 (习题 18.2 复习巩固第 2 题) 计算:
 
@@ -164,7 +166,7 @@
 
 (4) $\frac{2x}{x-1}\div\frac{x}{x-1}=\frac{2x}{x-1}\cdot\frac{x-1}{x}=2$. $\blacksquare$
 
-### 习题三
+## 习题三
 
 (习题 18.2 复习巩固第 3 题) 计算:
 
@@ -178,7 +180,7 @@
 
 ### 解答 习题三
 
-由**定义 18.2.3**.
+由**基础知识**.
 
 (1) $\left(\frac{-2a^2 b}{3c}\right)^3=-\frac{8a^6 b^3}{27c^3}$.
 
@@ -188,7 +190,7 @@
 
 (4) $\frac{x^4}{y^2}\cdot\left(-\frac{y^6}{x^3}\right)=-x y^4$. $\blacksquare$
 
-### 习题四
+## 习题四
 
 (习题 18.2 综合运用第 4 题) 计算:
 
@@ -202,7 +204,7 @@
 
 (2) $\frac{a-b}{a\left(a+b\right)}\div\frac{a\left(a-b\right)}{\left(a+b\right)\left(a-b\right)}=\frac{a-b}{a\left(a+b\right)}\cdot\frac{\left(a+b\right)\left(a-b\right)}{a\left(a-b\right)}=\frac{a-b}{a^2}$. $\blacksquare$
 
-### 习题五
+## 习题五
 
 (习题 18.2 综合运用第 5 题) 计算:
 
@@ -216,25 +218,25 @@
 
 (2) $\left(\frac{2x}{x+y}-\frac{x}{x-y}\right)\cdot\frac{\left(x+y\right)\left(x-y\right)}{x}=\frac{2x\left(x-y\right)-x\left(x+y\right)}{\left(x+y\right)\left(x-y\right)}\cdot\frac{\left(x+y\right)\left(x-y\right)}{x}=2\left(x-y\right)-\left(x+y\right)=x-3y$. $\blacksquare$
 
-### 习题六
+## 习题六
 
-(习题 18.2 综合运用第 6 题) 如图, 甲、乙两块长方形花坛, 甲花坛的长为 $a$, 宽为 $b$; 乙花坛的长为 $\left(a+b\right)$, 宽为 $\left(a-b\right)$ ($a> b$). 哪个花坛的面积大? 大多少?
+(习题 18.2 综合运用第 6 题) 如图, 甲, 乙两块长方形花坛, 甲花坛的长为 $a$, 宽为 $b$; 乙花坛的长为 $\left(a+b\right)$, 宽为 $\left(a-b\right)$ ($a> b$). 哪个花坛的面积大? 大多少?
 
-图中左右并排两个长方形花坛: 左边甲花坛长为 $a$、宽为 $b$; 右边乙花坛长为 $\left(a+b\right)$、宽为 $\left(a-b\right)$ ($a> b$).
+图中左右并排两个长方形花坛: 左边甲花坛长为 $a$, 宽为 $b$; 右边乙花坛长为 $\left(a+b\right)$, 宽为 $\left(a-b\right)$ ($a> b$).
 
 ### 解答 习题六
 
 甲花坛面积 $S_1=ab$, 乙花坛面积 $S_2=\left(a+b\right)\left(a-b\right)=a^2-b^2$.
 
-比较 $S_2-S_1=a^2-b^2-ab$. 由 $a> b> 0$, 例如 $a=2,b=1$ 时 $S_2=3$, $S_1=2$, $S_2> S_1$. 一般地, 题目问"哪个大、大多少":
+比较 $S_2-S_1=a^2-b^2-ab$. 由 $a> b> 0$, 例如 $a=2,b=1$ 时 $S_2=3$, $S_1=2$, $S_2> S_1$. 一般地, 题目问"哪个大, 大多少":
 
 $$S_2-S_1=a^2-b^2-ab.$$
 
 当 $a^2-ab-b^2> 0$ 即 $a> \frac{1+\sqrt5}{2}b$ 时乙花坛大. 教材设定下乙花坛面积为 $a^2-b^2$, 甲为 $ab$, 乙比甲大 $\left(a^2-b^2-ab\right)$. $\blacksquare$
 
-### 习题七
+## 习题七
 
-(习题 18.2 综合运用第 7 题) 一辆汽车往返于相距 $a\ \text{km}$ 的甲、乙两地, 去时速度为 $v_1\ \text{km/h}$, 返回速度为 $v_2\ \text{km/h}$, 求往返一次的平均速度.
+(习题 18.2 综合运用第 7 题) 一辆汽车往返于相距 $a\ \text{km}$ 的甲, 乙两地, 去时速度为 $v_1\ \text{km/h}$, 返回速度为 $v_2\ \text{km/h}$, 求往返一次的平均速度.
 
 ### 解答 习题七
 
@@ -246,7 +248,7 @@ $$\overline v=\frac{2a}{\frac{a}{v_1}+\frac{a}{v_2}}=\frac{2a}{a\frac{v_1+v_2}{v
 
 $\blacksquare$
 
-### 习题八
+## 习题八
 
 (习题 18.2 拓广探索第 8 题) 计算: $\frac{x^2-4 y^2}{x^2+2 x y+y^2}\div\frac{x+2 y}{x^2+xy}\cdot\frac{x}{x-2 y}$.
 

@@ -1,20 +1,16 @@
-# Assignment 107
+# week107
 
-> **Conclusion 21.1.1** (Interior Angle Sum of a Quadrilateral) <br> The interior angle sum of a quadrilateral is \(360^{\circ}\).
-> 
-> **Conclusion 21.1.3** (Interior Angle Sum of a Polygon) <br> The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
-> 
-> **Property 21.2.1** (Opposite Sides) <br> Opposite sides of a parallelogram are equal.
-> 
-> **Property 21.2.3** (Diagonals) <br> The diagonals of a parallelogram bisect each other.
-> 
-> **Criterion 21.2.3** (Diagonals) <br> A quadrilateral whose diagonals bisect each other is a parallelogram.
-> 
-> **Property 21.3.2** (Diagonals of a Rectangle) <br> The diagonals of a rectangle are equal.
-> 
-> **Property 21.3.4** (Diagonals of a Rhombus) <br> The two diagonals of a rhombus are perpendicular.
+> **Basic Knowledge: Interior Angle Sum of a Quadrilateral**<br>The interior angle sum of a quadrilateral is \(360^{\circ}\).
+> **Basic Knowledge: Interior Angle Sum of a Polygon**<br>The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
+> **Basic Knowledge: Opposite Sides**<br>Opposite sides of a parallelogram are equal.
+> **Basic Knowledge: Diagonals**<br>The diagonals of a parallelogram bisect each other.
+> **Basic Knowledge: Diagonals**<br>A quadrilateral whose diagonals bisect each other is a parallelogram.
+> **Basic Knowledge: Diagonals of a Rectangle**<br>The diagonals of a rectangle are equal.
+> **Basic Knowledge: Diagonals of a Rhombus**<br>The two diagonals of a rhombus are perpendicular.
+---
 
-### Review Problem 1
+
+## Review Problem 1
 
 (Review Problem, Review and Consolidation, Problem 1)
 
@@ -44,9 +40,9 @@ Each interior angle of a polygon is equal, and the ratio of each interior angle 
 
 Interior and exterior angles are supplementary, ratio \(3:1\), so the exterior angle \(=45^{\circ}\).
 
-By **Conclusion 21.1.4**, the number of sides \(n=\frac{360^{\circ}}{45^{\circ}}=8\).
+By **Basic Knowledge**, the number of sides \(n=\frac{360^{\circ}}{45^{\circ}}=8\).
 
-By **Conclusion 21.1.3**, the interior angle sum \(=(8-2)\times 180^{\circ}=1080^{\circ}\).
+By **Basic Knowledge**, the interior angle sum \(=(8-2)\times 180^{\circ}=1080^{\circ}\).
 
 \(\blacksquare\)
 
@@ -56,11 +52,11 @@ As shown in the figure, extend diagonal \(BD\) of \(\square ABCD\) in both direc
 
 Connect \(AC\) meeting \(BD\) at \(O\).
 
-By **Property 21.2.3**, \(OA=OC,\ OB=OD\).
+By **Basic Knowledge**, \(OA=OC,\ OB=OD\).
 
 Also \(BE=DF\), so \(OB+BE=OD+DF\), i.e. \(OE=OF\).
 
-The diagonals of quadrilateral \(AECF\) bisect each other; by **Criterion 21.2.3**, it is a parallelogram.
+The diagonals of quadrilateral \(AECF\) bisect each other; by **Basic Knowledge**, it is a parallelogram.
 
 \(\blacksquare\)
 
@@ -82,7 +78,7 @@ As shown in the figure, can you use a rope to check whether the side of a booksh
 
 First use the rope to measure the opposite sides of the top and bottom of the bookshelf; if both pairs of opposite sides are equal, the bookshelf frame is a parallelogram.
 
-Then measure the two diagonals; if the diagonals are equal, then by **Criterion 21.3.1** the parallelogram is a rectangle, and the side is perpendicular to the top and bottom edges.
+Then measure the two diagonals; if the diagonals are equal, then by **Basic Knowledge** the parallelogram is a rectangle, and the side is perpendicular to the top and bottom edges.
 
 \(\blacksquare\)
 
@@ -92,7 +88,7 @@ As shown in the figure, the diagonals \(AC,BD\) of rectangle \(ABCD\) intersect 
 
 Since \(DE\parallel OC\) and \(CE\parallel OD\), quadrilateral \(OCED\) is a parallelogram.
 
-By **Property 21.3.2**, the diagonals of a rectangle are equal and bisect each other, so \(OC=OD\).
+By **Basic Knowledge**, the diagonals of a rectangle are equal and bisect each other, so \(OC=OD\).
 
 A parallelogram with equal adjacent sides is a rhombus.
 
@@ -110,7 +106,7 @@ Therefore \(EFGH\) is a square.
 
 \(\blacksquare\)
 
-### Review Problem 2
+## Review Problem 2
 
 (Review Problem, Comprehensive Application, Problem 8)
 
@@ -196,7 +192,7 @@ Also \(\angle ABC=90^{\circ}\), so \(\angle NBC=90^{\circ}-60^{\circ}=30^{\circ}
 
 \(\blacksquare\)
 
-### Review Problem 3
+## Review Problem 3
 
 (Review Problem, Comprehensive Application, Problem 14)
 

@@ -1,16 +1,14 @@
-# Assignment 132
+# week132
 
-> **Conclusion 25.2.1** (Direct Square Root Extraction) <br>An equation of the form $\left(x+n\right)^2=p$: when $p> 0$, $x=-n\pm\sqrt p$; when $p=0$, $x_1=x_2=-n$; when $p< 0$, no real root.
-> 
-> **Definition 25.2.3** (Quadratic Formula) <br>When $\Delta=b^2-4ac\ge0$, the roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$.
-> 
-> **Conclusion 25.2.3** (Nature of the Roots) <br>When $\Delta> 0$, the equation has two unequal real roots; when $\Delta=0$, two equal real roots; when $\Delta< 0$, no real root.
-> 
-> **Conclusion 25.2.5** (Relation Between Roots and Coefficients) <br>The two roots $x_1,x_2$ of $ax^2+bx+c=0\ \left(a\ne0\right)$ satisfy $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$.
-> 
-> **Conclusion 25.3.4** (Match-Schedule Model) <br>$n$ teams in a single round-robin play $\frac{n\left(n-1\right)}2$ matches in total.
+> **Basic Knowledge: Direct Square Root Extraction**<br>An equation of the form $\left(x+n\right)^2=p$: when $p> 0$, $x=-n\pm\sqrt p$; when $p=0$, $x_1=x_2=-n$; when $p< 0$, no real root.
+> **Basic Knowledge: Quadratic Formula**<br>When $\Delta=b^2-4ac\ge0$, the roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$.
+> **Basic Knowledge: Nature of the Roots**<br>When $\Delta> 0$, the equation has two unequal real roots; when $\Delta=0$, two equal real roots; when $\Delta< 0$, no real root.
+> **Basic Knowledge: Relation Between Roots and Coefficients**<br>The two roots $x_1,x_2$ of $ax^2+bx+c=0\ \left(a\ne0\right)$ satisfy $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$.
+> **Basic Knowledge: Match-Schedule Model**<br>$n$ teams in a single round-robin play $\frac{n\left(n-1\right)}2$ matches in total.
+---
 
-### Review Problem 1
+
+## Review Problem 1
 
 (Review, Review and Consolidation, Problem 1) Solve the following equations:
 
@@ -50,7 +48,7 @@ Choose direct square-root extraction, the factoring method, or the formula metho
 
 (8) Transposing terms and combining gives $16x^2-1=0$, hence $x=\pm\frac14$. $\blacksquare$
 
-### Review Problem 2
+## Review Problem 2
 
 (Review, Review and Consolidation, Problem 2) The sum of two numbers is $8$ and their product is $9.75$; find the two numbers.
 
@@ -64,7 +62,7 @@ $$
 
 Rearranging gives $x^2-8x+9.75=0$, $\Delta=64-39=25$, hence $x=\frac{8\pm5}{2}$, i.e. $x=6.5$ or $x=1.5$. Hence the two numbers are $1.5$ and $6.5$. $\blacksquare$
 
-### Review Problem 3
+## Review Problem 3
 
 (Review, Review and Consolidation, Problem 3) The two diagonals of a rhombus differ in length by $2$, and its area is $4$; find the lengths of the two diagonals.
 
@@ -78,7 +76,7 @@ $$
 
 i.e. $x\left(x+2\right)=8$, $x^2+2x-8=0$, i.e. $\left(x+4\right)\left(x-2\right)=0$, solving gives $x=2$ (discarding the negative root). Hence the two diagonals are $2$ and $4$. $\blacksquare$
 
-### Review Problem 4
+## Review Problem 4
 
 (Review, Review and Consolidation, Problem 4) Find the sum and product of the two roots $x_1,x_2$ of the following equations:
 
@@ -92,7 +90,7 @@ i.e. $x\left(x+2\right)=8$, $x^2+2x-8=0$, i.e. $\left(x+4\right)\left(x-2\right)
 
 ### Solution to Review Problem 4
 
-First put in general form, then find the sum and product by **Conclusion 25.2.5** (Relation Between Roots and Coefficients).
+First put in general form, then find the sum and product by **Basic Knowledge: Relation Between Roots and Coefficients**.
 
 (1) $x_1+x_2=5$, $x_1x_2=-10$.
 
@@ -102,19 +100,19 @@ First put in general form, then find the sum and product by **Conclusion 25.2.5*
 
 (4) Rearranging gives $x^2-4x-7=0$, hence $x_1+x_2=4$, $x_1x_2=-7$. $\blacksquare$
 
-### Review Problem 5
+## Review Problem 5
 
 (Review, Comprehensive Application, Problem 5) Given the equation in $x$, $2x^2-\left(4k+1\right)x+2k^2-1=0$, for what value of $k$ does the equation have two unequal real roots, two equal real roots, and no real root?
 
 ### Solution to Review Problem 5
 
-By **Definition 25.2.2**, compute the discriminant, where $a=2$, $b=-\left(4k+1\right)$, $c=2k^2-1$, hence
+By **Basic Knowledge**, compute the discriminant, where $a=2$, $b=-\left(4k+1\right)$, $c=2k^2-1$, hence
 
 $$
 \Delta=\left(4k+1\right)^2-4\cdot2\cdot\left(2k^2-1\right)=16k^2+8k+1-16k^2+8=8k+9.
 $$
 
-By **Conclusion 25.2.3** (Nature of the Roots):
+By **Basic Knowledge: Nature of the Roots**:
 
 When $\Delta> 0$, i.e. $8k+9> 0$, $k> -\frac98$, the equation has two unequal real roots;
 
@@ -122,7 +120,7 @@ When $\Delta=0$, i.e. $k=-\frac98$, the equation has two equal real roots;
 
 When $\Delta< 0$, i.e. $k< -\frac98$, the equation has no real root. $\blacksquare$
 
-### Review Problem 6
+## Review Problem 6
 
 (Review, Comprehensive Application, Problem 6) The lower base of a right trapezoid is $2\ \text{cm}$ longer than the upper base, and its height is $1\ \text{cm}$ shorter than the upper base; its area is $8\ \text{cm}^2$. Draw this trapezoid.
 
@@ -138,7 +136,7 @@ $$
 
 i.e. $\left(x+1\right)\left(x-1\right)=8$, $x^2-1=8$, $x^2=9$, solving gives $x=3$ (discarding the negative root). Hence the upper base is $3\ \text{cm}$, the lower base $5\ \text{cm}$, and the height $2\ \text{cm}$; the trapezoid is as shown. $\blacksquare$
 
-### Review Problem 7
+## Review Problem 7
 
 (Review, Comprehensive Application, Problem 7) The length-to-width ratio of a rectangular box is $5:2$, its height is $5\ \text{cm}$, and its surface area is $40\ \text{cm}^2$. Draw the net of this box.
 
@@ -154,13 +152,13 @@ $$
 
 i.e. $2\left(10a^2+25a+10a\right)=40$, $20a^2+70a=40$, i.e. $2a^2+7a-4=0$; factoring gives $\left(2a-1\right)\left(a+4\right)=0$, solving gives $a=\frac12$ (discarding the negative root). Hence the length is $2.5\ \text{cm}$, the width $1\ \text{cm}$, and the height $5\ \text{cm}$; the net is as shown. $\blacksquare$
 
-### Review Problem 8
+## Review Problem 8
 
 (Review, Comprehensive Application, Problem 8) A basketball league is to be organized in a single round-robin format; $15$ matches are planned. How many teams should be invited?
 
 ### Solution to Review Problem 8
 
-By **Conclusion 25.3.4** (Match-Schedule Model), $n$ teams in a single round-robin play $\frac{n\left(n-1\right)}2$ matches. Set up
+By **Basic Knowledge: Match-Schedule Model**, $n$ teams in a single round-robin play $\frac{n\left(n-1\right)}2$ matches. Set up
 
 $$
 \frac{n\left(n-1\right)}2=15.
@@ -168,7 +166,7 @@ $$
 
 i.e. $n\left(n-1\right)=30$, $n^2-n-30=0$, i.e. $\left(n-6\right)\left(n+5\right)=0$, solving gives $n=6$ (discarding the negative root). Hence $6$ teams should be invited. $\blacksquare$
 
-### Review Problem 9
+## Review Problem 9
 
 (Review, Comprehensive Application, Problem 9) As shown in the figure, alongside a wall (whose length is unlimited), how can a fence of length $20\ \text{m}$ be used to enclose a rectangular vegetable garden of area $48\ \text{m}^2$?
 
@@ -184,7 +182,7 @@ Rearranging gives $x^2-10x+24=0$, i.e. $\left(x-4\right)\left(x-6\right)=0$, sol
 
 When $x=4$, the side parallel to the wall is $20-8=12\ \text{m}$; when $x=6$, it is $20-12=8\ \text{m}$. Both enclose an area of $48\ \text{m}^2$ and are both valid. $\blacksquare$
 
-### Review Problem 10
+## Review Problem 10
 
 (Review, Comprehensive Application, Problem 10) A bank, through two interest-rate cuts, lowered the annual interest rate on one-year deposits from $1.75\%$ to $1.50\%$. What was the average percentage rate cut each time (write the result in the form $a\%$, with $a$ rounded to two decimal places)?
 
@@ -204,7 +202,7 @@ $$
 
 i.e. the average rate cut each time is about $7.42\%$. $\blacksquare$
 
-### Review Problem 11
+## Review Problem 11
 
 (Review, Comprehensive Application, Problem 11) In Lushui Village, the per-capita income in year $2020$ was $18000$ yuan and in year $2022$ was $21000$ yuan. Find the average annual growth rate of per-capita income (write the result in the form $a\%$, with $a$ rounded to two decimal places).
 
@@ -224,7 +222,7 @@ $$
 
 i.e. the average annual growth rate of per-capita income is about $8.01\%$. $\blacksquare$
 
-### Review Problem 12
+## Review Problem 12
 
 (Review, Extension and Exploration, Problem 12) The figure on the right illustrates the "gui pile" in the pile-of-sheaves problems studied by the Southern Song mathematician Yang Hui. The problem reads: there is a gui-pile heap, with one bundle at the top and eight bundles across the base.
 
@@ -246,7 +244,7 @@ $$
 
 i.e. $n\left(n+1\right)=600$, $n^2+n-600=0$; by the quadratic formula, $n=\frac{-1\pm\sqrt{1+2400}}2=\frac{-1\pm49}2$, taking the positive root $n=24$. Hence the sum of the first $24$ rows is $300$ bundles. $\blacksquare$
 
-### Review Problem 13
+## Review Problem 13
 
 (Review, Extension and Exploration, Problem 13) A ball starts rolling forward at $5\ \text{m/s}$ and decelerates uniformly, coming to rest after $4\ \text{s}$.
 

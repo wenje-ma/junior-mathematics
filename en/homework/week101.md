@@ -1,6 +1,8 @@
-# Assignment 101
+# week101
 
-> **Theorem 20.1.1** (Pythagorean Theorem) <br> In a right triangle, the sum of the squares of the two legs equals the square of the hypotenuse. If the two legs of a right triangle are \(a,b\) and the hypotenuse is \(c\), then \(a^{2}+b^{2}=c^{2}\).
+> **Basic Knowledge: Pythagorean Theorem**<br>In a right triangle, the sum of the squares of the two legs equals the square of the hypotenuse. If the two legs of a right triangle are \(a,b\) and the hypotenuse is \(c\), then \(a^{2}+b^{2}=c^{2}\).
+---
+
 
 ### Activity 1
 
@@ -12,7 +14,7 @@ The figure shows, from left to right, the construction of the Pythagorean tree: 
 
 Each time two new small squares "grow", a right triangle is drawn with the side of the existing square on the hypotenuse as its hypotenuse, and then two new squares are drawn on the two legs.
 
-By **Theorem 20.1.1**, the sum of the areas of the two new small squares equals the area of the old square.
+By **Basic Knowledge**, the sum of the areas of the two new small squares equals the area of the old square.
 
 Thus two still smaller squares grow on each existing square; the areas shrink level by level while maintaining the relation "the sum of the areas of the two small squares equals the area of the previous-level square", and infinite repetition forms a self-similar tree pattern.
 
@@ -26,7 +28,7 @@ Take an isosceles right triangle with its two legs on top of the same square.
 
 Each time the process is repeated on the two small squares, the side length of the two small squares is \(\frac{\sqrt{2}}{2}\) times that of the previous level, and their area is half of the previous level.
 
-By **Theorem 20.1.1**, the sum of the areas of the two new squares at each level equals the area of its parent square.
+By **Basic Knowledge**, the sum of the areas of the two new squares at each level equals the area of its parent square.
 
 Therefore the sum of the areas of all the outermost small squares equals exactly the area of the original square — this is the mathematical secret of "area conservation" in the Pythagorean tree pattern.
 

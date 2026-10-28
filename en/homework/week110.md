@@ -1,8 +1,9 @@
-# Assignment 110
+# week110
 
-> **Definition 22.1.2** (Function) <br>Generally, in a process of change, if there are two variables $x$ and $y$, and for each definite value of $x$, $y$ has a unique definite value corresponding to it, then we say $x$ is the independent variable and $y$ is a function of $x$.
-> 
-> **Conclusion 22.2.3** (Three Ways of Representing a Function) <br>Analytic method: express the functional relation by a mathematical expression; Tabular method: list the corresponding values of the independent variable and the function in a table; Graphical method: express the functional relation by a graph.
+> **Basic Knowledge: Function**<br>Generally, in a process of change, if there are two variables $x$ and $y$, and for each definite value of $x$, $y$ has a unique definite value corresponding to it, then we say $x$ is the independent variable and $y$ is a function of $x$.
+> **Basic Knowledge: Three Ways of Representing a Function**<br>Analytic method: express the functional relation by a mathematical expression; Tabular method: list the corresponding values of the independent variable and the function in a table; Graphical method: express the functional relation by a graph.
+---
+
 
 ### Activity 1
 
@@ -20,7 +21,7 @@ Measure and record each student's waist circumference $l$ and weight $w$, fill i
 
 ### Solution to Activity 1
 
-By **Definition 22.1.2** (Function), $a$ is a function of $l$, $b$ is a function of $w$, $d$ is a function of $a$ and $b$, and $p$ is a function of $d$ and $w$.
+By **Basic Knowledge: Function**, $a$ is a function of $l$, $b$ is a function of $w$, $d$ is a function of $a$ and $b$, and $p$ is a function of $d$ and $w$.
 
 (1) From $a=0.74l$, substitute each student's waist circumference $l$ to obtain the corresponding value of $a$.
 

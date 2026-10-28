@@ -1,12 +1,14 @@
-# Assignment 90
+# week90
 
-> **Definition 18.4.1** (Negative Integer Exponent Power) <br>When $n$ is a positive integer, $a^{-n}=\frac{1}{a^n}$ ($a\ne0$), i.e. $a^{-n}$ is the reciprocal of $a^n$.
+> **Basic Knowledge: Negative Integer Exponent Power**<br>When $n$ is a positive integer, $a^{-n}=\frac{1}{a^n}$ ($a\ne0$), i.e. $a^{-n}$ is the reciprocal of $a^n$.
+---
 
-> **Definition 18.4.2** (Properties of Integer Exponent Powers) <br>(1) $a^m\cdot a^n=a^{m+n}$; (2) $\left(a^m\right)^n=a^{mn}$; (3) $\left(ab\right)^n=a^n b^n$ ($m,n$ are integers, the base is nonzero).
 
-> **Definition 18.4.3** (Scientific Notation for Positive Numbers Less Than 1) <br>A positive number less than $1$ can be written in the form $a\times10^{-n}$, where $1\le a< 10$, and $n$ is a positive integer.
+> **Basic Knowledge: Properties of Integer Exponent Powers** <br>(1) $a^m\cdot a^n=a^{m+n}$; (2) $\left(a^m\right)^n=a^{mn}$; (3) $\left(ab\right)^n=a^n b^n$ ($m,n$ are integers, the base is nonzero).
 
-### Exercise 1
+> **Basic Knowledge: Scientific Notation for Positive Numbers Less Than 1** <br>A positive number less than $1$ can be written in the form $a\times10^{-n}$, where $1\le a< 10$, and $n$ is a positive integer.
+
+## Exercise 1
 
 (Exercise 18.4, Problem 1) Fill in the blanks:
 
@@ -18,7 +20,7 @@
 
 ### Solution to Exercise 1
 
-By the zero exponent power $a^0=1$ ($a\ne0$) and **Definition 18.4.1**.
+By the zero exponent power $a^0=1$ ($a\ne0$) and **Basic Knowledge**.
 
 (1) $3^0=1$, $3^{-2}=\frac19$.
 
@@ -26,7 +28,7 @@ By the zero exponent power $a^0=1$ ($a\ne0$) and **Definition 18.4.1**.
 
 (3) $b^0=1$, $b^{-2}=\frac{1}{b^2}$. $\blacksquare$
 
-### Exercise 2
+## Exercise 2
 
 (Exercise 18.4, Problem 2) Calculate:
 
@@ -36,23 +38,23 @@ By the zero exponent power $a^0=1$ ($a\ne0$) and **Definition 18.4.1**.
 
 ### Solution to Exercise 2
 
-By **Definition 18.4.2**.
+By **Basic Knowledge**.
 
 (1) $x^2 y^{-3}\cdot x^{-3} y^3=x^{-1} y^0=\frac1x$.
 
 (2) $\left(2ab^2 c^{-3}\right)^{-2}\div\left(a^{-2} b\right)^3=\frac{1}{4}a^{-2} b^{-4} c^6\div\left(a^{-6} b^3\right)=\frac{1}{4}a^4 b^{-7} c^6=\frac{a^4 c^6}{4b^7}$. $\blacksquare$
 
-### Exercise 3
+## Exercise 3
 
 (Exercise 18.4, Problem 1) Write the following numbers in scientific notation: $0.000000001$, $0.0012$, $0.000000345$, $0.0000000108$.
 
 ### Solution to Exercise 3
 
-By **Definition 18.4.3**.
+By **Basic Knowledge**.
 
 $0.000000001=1\times10^{-9}$; $0.0012=1.2\times10^{-3}$; $0.000000345=3.45\times10^{-7}$; $0.0000000108=1.08\times10^{-8}$. $\blacksquare$
 
-### Exercise 4
+## Exercise 4
 
 (Exercise 18.4, Problem 2) Calculate:
 
@@ -66,7 +68,7 @@ $0.000000001=1\times10^{-9}$; $0.0012=1.2\times10^{-3}$; $0.000000345=3.45\times
 
 (2) $\left(4\times10^{-12}\right)\div\left(10^{-12}\right)=4$. $\blacksquare$
 
-### Problem 1
+## Problem 1
 
 (Exercise 18.4, Review and Consolidation, Problem 1) Fill in the blanks:
 
@@ -80,7 +82,7 @@ $0.000000001=1\times10^{-9}$; $0.0012=1.2\times10^{-3}$; $0.000000345=3.45\times
 
 (2) $1\div a^{-1}=a$; $a^2\cdot a^{-2}=a^0=1$; $\left(-ab^{-1}\right)^{-2}=\frac{1}{\left(-a/b\right)^2}=\frac{b^2}{a^2}$. $\blacksquare$
 
-### Problem 2
+## Problem 2
 
 (Exercise 18.4, Review and Consolidation, Problem 2) Calculate:
 
@@ -94,7 +96,7 @@ $0.000000001=1\times10^{-9}$; $0.0012=1.2\times10^{-3}$; $0.000000345=3.45\times
 
 (2) $\frac14-5\times1\times\frac25=\frac14-2=-\frac74$. $\blacksquare$
 
-### Problem 3
+## Problem 3
 
 (Exercise 18.4, Review and Consolidation, Problem 3) Calculate:
 
@@ -108,7 +110,7 @@ $0.000000001=1\times10^{-9}$; $0.0012=1.2\times10^{-3}$; $0.000000345=3.45\times
 
 ### Solution to Problem 3
 
-By **Definition 18.4.2**.
+By **Basic Knowledge**.
 
 (1) $3a^{-2} b\cdot2ab^{-2}=6a^{-1} b^{-1}=\frac{6}{ab}$.
 
@@ -118,7 +120,7 @@ By **Definition 18.4.2**.
 
 (4) $4m^4 n^{-4}\cdot3m^{-3} n^3=12m n^{-1}=\frac{12m}{n}$. $\blacksquare$
 
-### Problem 4
+## Problem 4
 
 (Exercise 18.4, Review and Consolidation, Problem 4) Write the following numbers in scientific notation: $0.00001$, $0.00002$, $0.000000567$, $0.000000301$.
 
@@ -126,7 +128,7 @@ By **Definition 18.4.2**.
 
 $0.00001=1\times10^{-5}$; $0.00002=2\times10^{-5}$; $0.000000567=5.67\times10^{-7}$; $0.000000301=3.01\times10^{-7}$. $\blacksquare$
 
-### Problem 5
+## Problem 5
 
 (Exercise 18.4, Comprehensive Application, Problem 5) Calculate:
 
@@ -140,7 +142,7 @@ $0.00001=1\times10^{-5}$; $0.00002=2\times10^{-5}$; $0.000000567=5.67\times10^{-
 
 (2) $\left(9\times10^{-10}\right)\div\left(9\times10^{-2}\right)=10^{-8}$. $\blacksquare$
 
-### Problem 6
+## Problem 6
 
 (Exercise 18.4, Comprehensive Application, Problem 6) Calculate:
 
@@ -154,7 +156,7 @@ $0.00001=1\times10^{-5}$; $0.00002=2\times10^{-5}$; $0.000000567=5.67\times10^{-
 
 (2) $\left(\frac{x\left(x+y\right)}{x}\right)^{-1}\div\left(\frac{x-y}{x}\cdot\frac{x}{-\left(x-y\right)}\right)^{-3}=\frac{1}{x+y}\div\left(-1\right)^{-3}=\frac{1}{x+y}\div\left(-1\right)=-\frac{1}{x+y}$. $\blacksquare$
 
-### Problem 7
+## Problem 7
 
 (Exercise 18.4, Comprehensive Application, Problem 7) Given $x+x^{-1}=3$, find the values of $x^2+x^{-2}$ and $x^4+x^{-4}$.
 
@@ -164,7 +166,7 @@ $\left(x+x^{-1}\right)^2=x^2+2+x^{-2}=9$, hence $x^2+x^{-2}=7$.
 
 $\left(x^2+x^{-2}\right)^2=x^4+2+x^{-4}=49$, hence $x^4+x^{-4}=47$. $\blacksquare$
 
-### Problem 8
+## Problem 8
 
 (Exercise 18.4, Extension and Exploration, Problem 8) Given that the mass of $1$ water molecule is approximately $3\times10^{-26}\ \text{kg}$, and $1$ drop of water (taking $20$ drops as $1\ \text{g}$) contains approximately how many water molecules?
 

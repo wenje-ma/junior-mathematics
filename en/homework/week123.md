@@ -1,12 +1,11 @@
-# Assignment 123
+# week123
 
-> **Definition 24.1.1** (Arithmetic Mean) <br>$\overline{x}=\frac{x_1+x_2+\cdots+x_n}{n}$.
-> 
-> **Definition 24.1.3** (Median) <br>The number in the middle position after the data are arranged in ascending order.
-> 
-> **Definition 24.1.4** (Mode) <br>The data value that appears most frequently.
-> 
-> **Definition 24.2.3** (Variance) <br>$s^2=\frac{\left(x_1-\overline{x}\right)^2+\cdots+\left(x_n-\overline{x}\right)^2}{n}$.
+> **Basic Knowledge: Arithmetic Mean**<br>$\overline{x}=\frac{x_1+x_2+\cdots+x_n}{n}$.
+> **Basic Knowledge: Median**<br>The number in the middle position after the data are arranged in ascending order.
+> **Basic Knowledge: Mode**<br>The data value that appears most frequently.
+> **Basic Knowledge: Variance**<br>$s^2=\frac{\left(x_1-\overline{x}\right)^2+\cdots+\left(x_n-\overline{x}\right)^2}{n}$.
+---
+
 
 ### Activity 1
 
@@ -20,7 +19,7 @@
 
 ### Solution to Activity 1
 
-(1) By **Definition 24.1.1** (Arithmetic Mean), sum the pulse rates of all group members and divide by the number of people to get the mean. By **Definition 24.1.3** (Median), arrange the pulse rates in ascending order and take the number in the middle position as the median. By **Definition 24.1.4** (Mode), the pulse rate that appears most often is the mode.
+(1) By **Basic Knowledge: Arithmetic Mean**, sum the pulse rates of all group members and divide by the number of people to get the mean. By **Basic Knowledge: Median**, arrange the pulse rates in ascending order and take the number in the middle position as the median. By **Basic Knowledge: Mode**, the pulse rate that appears most often is the mode.
 
 (2) After exchanging among groups, pool the whole class's data, compute the class mean, and use it as the estimate of the number of heartbeats per minute at rest.
 
@@ -38,7 +37,7 @@
 
 ### Solution to Activity 2
 
-(1) By **Definition 24.1.1** (Arithmetic Mean) and **Definition 24.2.3** (Variance), compute the mean and variance of each group and of the whole class.
+(1) By **Basic Knowledge: Arithmetic Mean** and **Basic Knowledge: Variance**, compute the mean and variance of each group and of the whole class.
 
 (2) Each group's mean fluctuates around the class mean, some above it and some below it. This reflects the random deviation between the sample mean and the population mean.
 

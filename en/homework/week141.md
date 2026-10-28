@@ -1,10 +1,11 @@
-# Assignment 141
+# week141
 
-> **Definition 27.1.1** (Inverse Proportional Function) <br>A function of the form $y=\frac kx$ ($k$ is a constant, $k\ne0$) is called an inverse proportional function.
-> 
-> **Conclusion 27.2.1** (Properties of the Inverse Proportional Function) <br>When $k> 0$, the graph lies in the first and third quadrants, and within each quadrant $y$ decreases as $x$ increases; when $k< 0$, it lies in the second and fourth quadrants, and within each quadrant $y$ increases as $x$ increases.
+> **Basic Knowledge: Inverse Proportional Function**<br>A function of the form $y=\frac kx$ ($k$ is a constant, $k\ne0$) is called an inverse proportional function.
+> **Basic Knowledge: Properties of the Inverse Proportional Function**<br>When $k> 0$, the graph lies in the first and third quadrants, and within each quadrant $y$ decreases as $x$ increases; when $k< 0$, it lies in the second and fourth quadrants, and within each quadrant $y$ increases as $x$ increases.
+---
 
-### Exercise 1
+
+## Exercise 1
 
 (Exercise 27.3, Problem 1) Make a conical funnel with a volume of $120\ \text{cm}^3$.
 
@@ -22,7 +23,7 @@ $$
 
 (2) Set $S\le50$, i.e. $\frac{360}{h}\le50$; since $h> 0$, we get $h\ge7.2$. Hence the depth of the funnel is at least $7.2\ \text{cm}$. $\blacksquare$
 
-### Exercise 2
+## Exercise 2
 
 (Exercise 27.3, Problem 2) Xiao Zhang buys a car priced at $18$ ten thousand yuan, with a down payment of $6$ ten thousand yuan, and pays off the remaining balance within $36$ months. He plans to pay off the balance in $x$ months, with an average monthly repayment of $y$ ten thousand yuan.
 
@@ -42,7 +43,7 @@ The remaining balance is $18-6=12$ ten thousand yuan.
 
 (3) $5000$ yuan $=0.5$ ten thousand yuan. Set $y\le0.5$, i.e. $\frac{12}{x}\le0.5$, we get $x\ge24$. Hence at least $24$ months are needed. $\blacksquare$
 
-### Exercise 3
+## Exercise 3
 
 (Exercise 27.3, Problem 3) The prescription strength $y$ of a myopia lens is an inverse proportional function of the focal length $x$ (unit: $\text{m}$), and its graph passes through the point $\left(0.25,400\right)$.
 
@@ -60,7 +61,7 @@ $$
 
 Set $y=500$, we get $500=\frac{100}{x}$, i.e. $x=0.2\ \text{m}$. Hence the focal length is $0.2\ \text{m}$. $\blacksquare$
 
-### Exercise 4
+## Exercise 4
 
 (Exercise 27.3, Problem 4) The variable resistance $R$ of an electric appliance ranges over $110\sim220\ \Omega$, the voltage is $U=220\ \text{V}$, and the power is $P=\frac{U^2}{R}$.
 
@@ -74,7 +75,7 @@ Set $y=500$, we get $500=\frac{100}{x}$, i.e. $x=0.2\ \text{m}$. Hence the focal
 
 (2) $P$ decreases as $R$ increases. When $R=110$, $P=440\ \text{W}$; when $R=220$, $P=220\ \text{W}$. Hence the power range is $220\sim440\ \text{W}$. $\blacksquare$
 
-### Problem 1
+## Problem 1
 
 (Exercise 27.3, Review and Consolidation, Problem 1) Give an example of an inverse proportional function used in daily life.
 
@@ -82,7 +83,7 @@ Set $y=500$, we get $500=\frac{100}{x}$, i.e. $x=0.2\ \text{m}$. Hence the focal
 
 For example: when the distance is fixed, the average speed and the travel time are in inverse proportion, $v=\frac{s}{t}$; another example: when the pressure is fixed, the pressure intensity and the area under force are in inverse proportion, $p=\frac FS$. $\blacksquare$
 
-### Problem 2
+## Problem 2
 
 (Exercise 27.3, Review and Consolidation, Problem 2) It is planned to build a rectangular experimental field with an area of $2000\ \text{m}^2$.
 
@@ -96,7 +97,7 @@ For example: when the distance is fixed, the average speed and the travel time a
 
 (2) The side ratio is $2:1$; let the long side be $y=2x$, then $x\cdot2x=2000$, $x^2=1000$, taking the positive root $x=10\sqrt{10}\approx31.6\ \text{m}$, $y=20\sqrt{10}\approx63.2\ \text{m}$. $\blacksquare$
 
-### Problem 3
+## Problem 3
 
 (Exercise 27.3, Review and Consolidation, Problem 3) A cafeteria buys $3000\ \text{kg}$ of rice.
 
@@ -110,7 +111,7 @@ For example: when the distance is fixed, the average speed and the travel time a
 
 (2) $m$ decreases as $n$ increases. When the daily consumption is at most $250\ \text{kg}$, the rice lasts the shortest, $m=\frac{3000}{250}=12$ days. Hence at least $12$ days later more rice must be purchased. $\blacksquare$
 
-### Problem 4
+## Problem 4
 
 (Exercise 27.3, Review and Consolidation, Problem 4) When the pressure is fixed, the pressure intensity $p$ is an inverse proportional function of the area under force $S$. Given that when $S=0.5$, $p=400\ \text{Pa}$, fill in the table.
 
@@ -120,7 +121,7 @@ Since $pS=F$ is constant, $F=400\times0.5=200$, hence $p=\frac{200}{S}$.
 
 When $p=100$, $S=2$; when $p=300$, $S=\frac23$; when $p=200$, $S=1$; when $p=150$, $S=\frac43$; when $p=120$, $S=\frac53$. The values of $S$ in the table are successively $2,\frac23,1,\frac43,\frac53$. $\blacksquare$
 
-### Problem 5
+## Problem 5
 
 (Exercise 27.3, Review and Consolidation, Problem 5) The distance between locations A and B is $s$. A car travels uniformly from A to B. The graph of time $t$ versus speed $v$ is ( ).
 
@@ -128,7 +129,7 @@ When $p=100$, $S=2$; when $p=300$, $S=\frac23$; when $p=200$, $S=1$; when $p=150
 
 From $t=\frac sv$ and $v> 0$, the graph is one branch of an inverse proportional function in the first quadrant, i.e. a decreasing curve. $\blacksquare$
 
-### Problem 6
+## Problem 6
 
 (Exercise 27.3, Comprehensive Application, Problem 6) Inside a sealed container, the density $\rho$ of carbon dioxide is in inverse proportion to the volume $V$, and the graph passes through the point $A\left(5,1.98\right)$.
 
@@ -146,7 +147,7 @@ $$
 
 When $V=9$, $\rho=\frac{9.9}{9}=1.1\ \text{kg/m}^3$. $\blacksquare$
 
-### Problem 7
+## Problem 7
 
 (Exercise 27.3, Comprehensive Application, Problem 7) Use $4$ picking machines of the same model to pick $600\ \text{hm}^2$ of cotton.
 
@@ -160,7 +161,7 @@ When $V=9$, $\rho=\frac{9.9}{9}=1.1\ \text{kg/m}^3$. $\blacksquare$
 
 (2) $4x=60$, i.e. $x=15$; substituting gives $y=\frac{150}{15}=10$ days. Hence the fastest completion is in $10$ days. $\blacksquare$
 
-### Problem 8
+## Problem 8
 
 (Exercise 27.3, Comprehensive Application, Problem 8) The battery voltage is constant. The current $I$ is in inverse proportion to the resistance $R$, and the graph passes through the point $\left(9,4\right)$.
 
@@ -180,7 +181,7 @@ $$
 
 Set $I\le10$, i.e. $\frac{36}{R}\le10$; since $R> 0$, we get $R\ge3.6\ \Omega$. Hence the variable resistance should be at least $3.6\ \Omega$. $\blacksquare$
 
-### Problem 9
+## Problem 9
 
 (Exercise 27.3, Extension and Exploration, Problem 9) At a resolution of $1920\times1080$, the data of screen size $x$ and pixel density $y$ are:
 

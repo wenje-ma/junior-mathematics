@@ -1,12 +1,12 @@
-# Assignment 172
+# week172
 
-> **Definition 29.2.1** (View) <br>When we observe an object from a certain direction, the plane figure we see is called a view of the object. A view can be regarded as the orthogonal projection of the object under light from a certain direction.
-> 
-> **Definition 29.2.2** (Front View, Top View, Left View) <br>Orthogonal projection of an object is performed within three mutually perpendicular projection planes: the view obtained in the front plane by observing the object from front to back is called the front view; the view obtained in the horizontal plane by observing the object from top to bottom is called the top view; the view obtained in the side plane by observing the object from left to right is called the left view.
-> 
-> **Conclusion 29.2.1** (Projection Rules for the Three Views) <br>The front view and the top view are aligned in length; the front view and the left view are aligned in height; the left view and the top view are equal in width. The outline lines of visible parts are drawn as solid lines, and the outline lines of parts that are blocked and invisible are drawn as dashed lines.
+> **Basic Knowledge: View**<br>When we observe an object from a certain direction, the plane figure we see is called a view of the object. A view can be regarded as the orthogonal projection of the object under light from a certain direction.
+> **Basic Knowledge: Front View, Top View, Left View**<br>Orthogonal projection of an object is performed within three mutually perpendicular projection planes: the view obtained in the front plane by observing the object from front to back is called the front view; the view obtained in the horizontal plane by observing the object from top to bottom is called the top view; the view obtained in the side plane by observing the object from left to right is called the left view.
+> **Basic Knowledge: Projection Rules for the Three Views**<br>The front view and the top view are aligned in length; the front view and the left view are aligned in height; the left view and the top view are equal in width. The outline lines of visible parts are drawn as solid lines, and the outline lines of parts that are blocked and invisible are drawn as dashed lines.
+---
 
-### Exercise 1
+
+## Exercise 1
 
 (Exercise 29.2, Problem 1) Draw the three views of the regular triangular prism, cone, and hemisphere shown in the figure.
 
@@ -14,7 +14,7 @@ The figure shows perspective diagrams of three solids: (1) a regular triangular 
 
 ### Solution to Exercise 1
 
-By **Conclusion 29.2.1** (Projection Rules for the Three Views), the three views of the three solids are as shown in the figure:
+By **Basic Knowledge: Projection Rules for the Three Views**, the three views of the three solids are as shown in the figure:
 
 (1) Regular triangular prism: the front view is a rectangle (with a vertical dashed line in the middle indicating the blocked edge), the top view is an equilateral triangle, and the left view is a rectangle (narrower).
 
@@ -22,7 +22,7 @@ By **Conclusion 29.2.1** (Projection Rules for the Three Views), the three views
 
 (3) Hemisphere (flat side down): the front view is a semicircle, the top view is a circle with crosshairs, and the left view is a semicircle. $\blacksquare$
 
-### Exercise 2
+## Exercise 2
 
 (Exercise 29.2, Problem 1) Based on the following three views, describe the shape of the object.
 
@@ -36,7 +36,7 @@ By **Conclusion 29.2.1** (Projection Rules for the Three Views), the three views
 
 ### Solution to Exercise 2
 
-Comprehensive judgment by **Definition 29.2.2** (Front View, Top View, Left View):
+Comprehensive judgment by **Basic Knowledge: Front View, Top View, Left View**:
 
 (1) Both the front view and the left view are rectangles, and the top view is a circle; the object is a cylinder.
 
@@ -46,7 +46,7 @@ Comprehensive judgment by **Definition 29.2.2** (Front View, Top View, Left View
 
 (4) The front view is a regular pentagon and the other views are rectangles; the object is a regular pentagonal prism. $\blacksquare$
 
-### Exercise 3
+## Exercise 3
 
 (Exercise 29.2, Problem 1) Based on the three views of the following solids, draw their nets.
 
@@ -62,7 +62,7 @@ The figure shows two sets of three views: (1) front view a triangle, side view a
 
 (2) From the three views, the solid is judged to be a cylinder. The net consists of one rectangle (lateral face) and two equal circles (bases), as shown in figure (2). $\blacksquare$
 
-### Exercise 4
+## Exercise 4
 
 (Exercise 29.2, Problem 2) A factory is processing a batch of bottomless tents, and the designer has given the three views of the tent. Determine the surface area of each tent according to the three views (the unit of dimensions in the figure is $\text{cm}$). The three views show that the tent consists of a lower cylinder (diameter $240$, height $200$) and an upper cone (slant height $300$), with no bottom.
 
@@ -76,15 +76,15 @@ The cone slant height is $l=300$, the base radius $r=120$. The lateral area of t
 
 The total surface area $=48000\pi+36000\pi=84000\pi\approx 263894\ \text{cm}^{2}$. $\blacksquare$
 
-### Problem 1
+## Problem 1
 
 (Problem 29.2, Review and Consolidation, Problem 1) Connect the solids in the figure to their corresponding three views with lines. The solids include a rectangular box, a cylinder, a regular pentagonal prism, etc.
 
 ### Solution to Problem 1
 
-By **Definition 29.2.2** and **Conclusion 29.2.1**: the three views of a rectangular box are all rectangles; the front and left views of a cylinder are rectangles and its top view is a circle; the front view of a regular pentagonal prism is a combination of rectangles and its top view is a regular pentagon. Connect them according to this correspondence. $\blacksquare$
+By **Basic Knowledge** and **Basic Knowledge**: the three views of a rectangular box are all rectangles; the front and left views of a cylinder are rectangles and its top view is a circle; the front view of a regular pentagonal prism is a combination of rectangles and its top view is a regular pentagon. Connect them according to this correspondence. $\blacksquare$
 
-### Problem 2
+## Problem 2
 
 (Problem 29.2, Review and Consolidation, Problem 2) Draw the three views of the solids in the figure. The three solids are a rectangular box, a horizontal cylinder, and a regular pentagonal prism, respectively.
 
@@ -92,7 +92,7 @@ The figure shows perspective diagrams of three solids: (1) a rectangular box; (2
 
 ### Solution to Problem 2
 
-By **Conclusion 29.2.1** (Projection Rules for the Three Views), the three views are as shown in the figure:
+By **Basic Knowledge: Projection Rules for the Three Views**, the three views are as shown in the figure:
 
 (1) Rectangular box: the front view, top view, and left view are all rectangles, with dimensions corresponding to length × height, length × width, and width × height, respectively.
 
@@ -100,7 +100,7 @@ By **Conclusion 29.2.1** (Projection Rules for the Three Views), the three views
 
 (3) Regular pentagonal prism: the front view is a rectangle (with a vertical dashed line in the middle), the top view is a regular pentagon, and the left view is a rectangle. $\blacksquare$
 
-### Problem 3
+## Problem 3
 
 (Problem 29.2, Review and Consolidation, Problem 3) Are the three views of a sphere related to how it is placed? Why?
 
@@ -108,7 +108,7 @@ By **Conclusion 29.2.1** (Projection Rules for the Three Views), the three views
 
 The three views of a sphere are not related to how it is placed. Because no matter from which direction the sphere is observed, its orthogonal projection is a circle equal in size to a great circle of the sphere, so the three views are always circles of the same size, regardless of the orientation. $\blacksquare$
 
-### Problem 4
+## Problem 4
 
 (Problem 29.2, Review and Consolidation, Problem 4) Based on the following three views, state the shape of the object each represents.
 
@@ -126,7 +126,7 @@ The three views of a sphere are not related to how it is placed. Because no matt
 
 (3) A sphere. $\blacksquare$
 
-### Problem 5
+## Problem 5
 
 (Problem 29.2, Comprehensive Application, Problem 5) Based on the following three views, state how many cubes make up this solid and how they are combined. In the top view, two squares are marked with numbers (the number of layers).
 
@@ -134,7 +134,7 @@ The three views of a sphere are not related to how it is placed. Because no matt
 
 The top view determines the positions of the cubes on the bottom layer, and the front and left views determine the number of layers at each position. The positions marked with numbers in the top view indicate the number of cubes stacked there; adding up the number of cubes at each position gives the total. Based on the height-direction information from the front and left views, it can be determined that each position is stacked with $1$ layer or $2$ layers, respectively, forming the combination. $\blacksquare$
 
-### Problem 6
+## Problem 6
 
 (Problem 29.2, Comprehensive Application, Problem 6) Draw the three views of the solid in the figure, which is composed of $7$ small cubes, respectively.
 
@@ -142,13 +142,13 @@ The figure shows perspective diagrams of two solids made of 7 small cubes: (1) a
 
 ### Solution to Problem 6
 
-By **Conclusion 29.2.1** (Projection Rules for the Three Views), the three views are as shown in the figure:
+By **Basic Knowledge: Projection Rules for the Three Views**, the three views are as shown in the figure:
 
 (1) Pyramid-shaped stack (bottom row of $4$, middle layer of $2$ centered, top of $1$): the front view is a stepped rectangle (bottom $4$ cells, middle $2$ cells, top $1$ cell), the top view is a $4\times 2$ grid array, and the left view is a $2$-column staircase.
 
 (2) L-shaped column (bottom $3\times 2$ grid, with the right vertical column stacked $3$ layers high): the front view is a rectangle plus a tall column on the right, the top view is a $3\times 2$ grid, and the left view is a rectangle plus a tall column. $\blacksquare$
 
-### Problem 7
+## Problem 7
 
 (Problem 29.2, Comprehensive Application, Problem 7) Draw the three views of the solids in the figure. The two solids are: a composite of a cylinder below and a cone above, and a double cone with two cones joined at their bases.
 
@@ -156,13 +156,13 @@ The figure shows perspective diagrams of two composite solids: (1) a cylinder be
 
 ### Solution to Problem 7
 
-By **Conclusion 29.2.1**, the three views are as shown in the figure:
+By **Basic Knowledge**, the three views are as shown in the figure:
 
 (1) A cone on top of a cylinder: the front view is a triangle stacked on a rectangle, the top view is a circle with a center, and the left view is a triangle stacked on a rectangle.
 
 (2) Double cone (joined at the bases): the front view is two triangles sharing a common base, one above and one below, the top view is a circle with a center, and the left view is the same. $\blacksquare$
 
-### Problem 8
+## Problem 8
 
 (Problem 29.2, Comprehensive Application, Problem 8) Based on the three views, describe the shape of this object.
 
@@ -170,7 +170,7 @@ By **Conclusion 29.2.1**, the three views are as shown in the figure:
 
 Combining the front view (which reflects the front shape), the top view (which reflects the top shape), and the left view (which reflects the left-side shape), it can be determined that the object is a composite of simple solids, such as two rectangular boxes stacked or cut, with the specific shape determined by the correspondence of the lines in the three views. $\blacksquare$
 
-### Problem 9
+## Problem 9
 
 (Problem 29.2, Extension and Exploration, Problem 9) The top view of an object built from $5$ identical small cubes is as shown in the figure. How many ways are there to build this object?
 
@@ -178,7 +178,7 @@ Combining the front view (which reflects the front shape), the top view (which r
 
 The top view determines that there are several positions on the bottom layer where cubes are placed. Of the $5$ small cubes, the bottom layer is filled according to the top view, and the remaining cubes are stacked on top. The upper-layer cubes can be placed at different positions in the top view, as long as they do not exceed the bounds. Based on the number of squares in the top view and the number of possible positions for the upper blocks, enumerate all possible stacking arrangements one by one to obtain the total number of ways. $\blacksquare$
 
-### Problem 10
+## Problem 10
 
 (Problem 29.2, Extension and Exploration, Problem 10) The figure shows the three views of a solid (the unit of dimensions in the figure is $\text{cm}$). Based on the data shown in the figure, calculate the surface area of this solid. The three views show a cylinder (base diameter $10$, height $5$).
 

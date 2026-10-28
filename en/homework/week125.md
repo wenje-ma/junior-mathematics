@@ -1,16 +1,15 @@
-# Assignment 125
+# week125
 
-> **Definition 24.1.1** (Arithmetic Mean) <br>$\overline{x}=\frac{x_1+x_2+\cdots+x_n}{n}$.
-> 
-> **Definition 24.1.2** (Weighted Average) <br>$\overline{x}=\frac{x_1w_1+x_2w_2+\cdots+x_nw_n}{w_1+w_2+\cdots+w_n}$.
-> 
-> **Definition 24.1.3** (Median) <br>The number in the middle position after the data are arranged in ascending order.
-> 
-> **Definition 24.1.4** (Mode) <br>The data value that appears most frequently.
-> 
-> **Definition 24.2.3** (Variance) <br>$s^2=\frac{\left(x_1-\overline{x}\right)^2+\cdots+\left(x_n-\overline{x}\right)^2}{n}$.
-> 
-> **Definition 24.3.1** (Quartiles) <br>$Q_1$, $Q_2$, $Q_3$ divide the data into four equal parts.
+> **Basic Knowledge: Arithmetic Mean**<br>$\overline{x}=\frac{x_1+x_2+\cdots+x_n}{n}$.
+> **Basic Knowledge: Weighted Average**<br>$\overline{x}=\frac{x_1w_1+x_2w_2+\cdots+x_nw_n}{w_1+w_2+\cdots+w_n}$.
+> **Basic Knowledge: Median**<br>The number in the middle position after the data are arranged in ascending order.
+> **Basic Knowledge: Mode**<br>The data value that appears most frequently.
+> **Basic Knowledge: Variance**<br>$s^2=\frac{\left(x_1-\overline{x}\right)^2+\cdots+\left(x_n-\overline{x}\right)^2}{n}$.
+> **Basic Knowledge: Quartiles**<br>$Q_1$, $Q_2$, $Q_3$ divide the data into four equal parts.
+> **Basic Knowledge: Grouping Principle**<br>Choose appropriate class interval and number of groups to reveal the data distribution.
+
+---
+
 
 ### Activity Preparation
 
@@ -64,9 +63,9 @@ A bar chart may be chosen to describe the frequency distribution of each grade, 
 
 ### Solution to Activity 1, Task 4
 
-(1) By **Definition 24.1.1** (Arithmetic Mean), compute the sample mean $\overline{x}$. By **Definition 24.1.3** (Median), compute the median. By **Definition 24.1.4** (Mode), find the mode. By **Definition 24.2.3** (Variance), compute the variance. By **Definition 24.3.1** (Quartiles), compute $Q_1$, $Q_2$, $Q_3$. Use the sample statistics to estimate the whole grade's population; for instance, if the sample shows $60\%$ at Good level or above, estimate that about $60\%$ of grade-8 boys are at Good level or above in the standing long jump.
+(1) By **Basic Knowledge: Arithmetic Mean**, compute the sample mean $\overline{x}$. By **Basic Knowledge: Median**, compute the median. By **Basic Knowledge: Mode**, find the mode. By **Basic Knowledge: Variance**, compute the variance. By **Basic Knowledge: Quartiles**, compute $Q_1$, $Q_2$, $Q_3$. Use the sample statistics to estimate the whole grade's population; for instance, if the sample shows $60\%$ at Good level or above, estimate that about $60\%$ of grade-8 boys are at Good level or above in the standing long jump.
 
-(2) The sample data are suitable for grouping. One can group them into the four grades in Table 2 (Excellent, Good, Pass, Fail), or use a finer grouping of $20$ cm per group. Grouping should follow **Conclusion 24.4.2** (Grouping Principle), minimizing the within-group sum of squared deviations. Based on the grouping, provide targeted training help to students in the Fail and Pass groups. $\blacksquare$
+(2) The sample data are suitable for grouping. One can group them into the four grades in Table 2 (Excellent, Good, Pass, Fail), or use a finer grouping of $20$ cm per group. Grouping should follow **Basic Knowledge: Grouping Principle**, minimizing the within-group sum of squared deviations. Based on the grouping, provide targeted training help to students in the Fail and Pass groups. $\blacksquare$
 
 ### Activity 2
 

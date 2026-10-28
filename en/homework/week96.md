@@ -1,12 +1,12 @@
-# Assignment 96
+# week96
 
-> **Rule 19.3.1** (Addition and Subtraction) <br> When adding and subtracting quadratic radicals, first reduce the quadratic radicals to simplest form, and then combine the quadratic radicals with the same radicand; the method of combining is similar to combining like terms.
-> 
-> **Rule 19.3.2** (Mixed Operations) <br> In the mixed operations of addition, subtraction, multiplication, division and powers of quadratic radicals, the operation order and operation laws for real numbers as well as the polynomial multiplication formulas still apply.
-> 
-> **Conclusion 19.3.1** (Heron–Qin Jiushao Formula) <br> If the three side lengths of a triangle are \(a,b,c\), write \(p=\frac{a+b+c}{2}\), then the triangle area is \(S=\sqrt{p(p-a)(p-b)(p-c)}\).
+> **Basic Knowledge: Addition and Subtraction**<br>When adding and subtracting quadratic radicals, first reduce the quadratic radicals to simplest form, and then combine the quadratic radicals with the same radicand; the method of combining is similar to combining like terms.
+> **Basic Knowledge: Mixed Operations**<br>In the mixed operations of addition, subtraction, multiplication, division and powers of quadratic radicals, the operation order and operation laws for real numbers as well as the polynomial multiplication formulas still apply.
+> **Basic Knowledge: Heron–Qin Jiushao Formula**<br>If the three side lengths of a triangle are \(a,b,c\), write \(p=\frac{a+b+c}{2}\), then the triangle area is \(S=\sqrt{p(p-a)(p-b)(p-c)}\).
+---
 
-### Exercise 1
+
+## Exercise 1
 
 (Exercise 19.3, Problem 1)
 
@@ -14,7 +14,7 @@ Are the following calculations correct? Why?
 
 (1) \(\sqrt{4}+\sqrt{9}=\sqrt{4+9}\); (2) \(\sqrt{8}-\sqrt{3}=\sqrt{8-3}\); (3) \(3\sqrt{2}-\sqrt{2}=2\sqrt{2}\).
 
-By **Rule 19.3.1**, quadratic radicals must first be simplified before combining those with the same radicand; one cannot directly add or subtract the radicands.
+By **Basic Knowledge**, quadratic radicals must first be simplified before combining those with the same radicand; one cannot directly add or subtract the radicands.
 
 (1) Incorrect. The left side \(=2+3=5\), while the right side \(=\sqrt{13}\ne 5\).
 
@@ -30,7 +30,7 @@ Calculate:
 
 (1) \(2\sqrt{7}-6\sqrt{7}\); (2) \(\sqrt{12}+\sqrt{27}-3\sqrt{\frac{1}{3}}\); (3) \(\sqrt{18}+(\sqrt{98}-\sqrt{27})\); (4) \(\left(\sqrt{24}+\sqrt{0.5}\right)-\left(\sqrt{\frac{1}{8}}-\sqrt{6}\right)\).
 
-By **Rule 19.3.1**, first simplify and then combine.
+By **Basic Knowledge**, first simplify and then combine.
 
 (1) \(2\sqrt{7}-6\sqrt{7}=(2-6)\sqrt{7}=-4\sqrt{7}\).
 
@@ -60,7 +60,7 @@ Therefore \(d=R-r=3\sqrt{5}-2\sqrt{5}=\sqrt{5}\).
 
 \(\blacksquare\)
 
-### Exercise 2
+## Exercise 2
 
 (Exercise 19.3, Problem 1)
 
@@ -68,7 +68,7 @@ Calculate:
 
 (1) \(\sqrt{2}(\sqrt{3}+\sqrt{5})\); (2) \((\sqrt{80}+\sqrt{40})\div\sqrt{5}\); (3) \((\sqrt{5}+3)(\sqrt{5}+2)\); (4) \((\sqrt{6}+\sqrt{2})(\sqrt{6}-\sqrt{2})\).
 
-By **Rule 19.3.2**, use the distributive law and the multiplication formulas.
+By **Basic Knowledge**, use the distributive law and the multiplication formulas.
 
 (1) \(\sqrt{2}(\sqrt{3}+\sqrt{5})=\sqrt{6}+\sqrt{10}\).
 
@@ -98,7 +98,7 @@ By the difference-of-squares formula and the perfect-square formula.
 
 \(\blacksquare\)
 
-### Problem 1
+## Problem 1
 
 (Exercise 19.3, Review and Consolidation, Problem 1)
 
@@ -106,7 +106,7 @@ Calculate:
 
 (1) \(2\sqrt{12}+\sqrt{27}\); (2) \(\sqrt{18}-\sqrt{\frac{9}{2}}\); (3) \(\frac{2}{3}\sqrt{9x}+6x\sqrt{\frac{4}{x}}\); (4) \(a^{2}\sqrt{8a}+3a\sqrt{50a^{3}}\).
 
-By **Rule 19.3.1**.
+By **Basic Knowledge**.
 
 (1) \(2\sqrt{12}+\sqrt{27}=4\sqrt{3}+3\sqrt{3}=7\sqrt{3}\).
 
@@ -124,7 +124,7 @@ Calculate:
 
 (1) \(\sqrt{18}-\sqrt{32}+\sqrt{2}\); (2) \(\sqrt{75}-\sqrt{54}+\sqrt{96}-\sqrt{108}\); (3) \((\sqrt{45}+\sqrt{18})-(\sqrt{8}-\sqrt{125})\); (4) \(\frac{1}{2}(\sqrt{2}+\sqrt{3})-\frac{3}{4}(\sqrt{2}+\sqrt{27})\).
 
-By **Rule 19.3.1**.
+By **Basic Knowledge**.
 
 (1) \(\sqrt{18}-\sqrt{32}+\sqrt{2}=3\sqrt{2}-4\sqrt{2}+\sqrt{2}=0\).
 
@@ -142,7 +142,7 @@ Calculate:
 
 (1) \((\sqrt{12}+5\sqrt{8})\times\sqrt{3}\); (2) \((2\sqrt{3}+3\sqrt{2})(2\sqrt{3}-3\sqrt{2})\); (3) \((5\sqrt{3}+2\sqrt{5})^{2}\); (4) \(\left(\sqrt{48}+\frac{1}{4}\sqrt{6}\right)\div\sqrt{27}\).
 
-By **Rule 19.3.2**.
+By **Basic Knowledge**.
 
 (1) \((\sqrt{12}+5\sqrt{8})\times\sqrt{3}=6+5\sqrt{24}=6+10\sqrt{6}\).
 
@@ -154,7 +154,7 @@ By **Rule 19.3.2**.
 
 \(\blacksquare\)
 
-### Problem 2
+## Problem 2
 
 (Exercise 19.3, Comprehensive Application, Problem 4)
 
@@ -260,11 +260,11 @@ The solutions in the parentheses are \(-5+2\sqrt{3}\) and \(-5-2\sqrt{3}\).
 
 (Reading and Thinking, Heron–Qin Jiushao Formula)
 
-If the three side lengths of a triangle are \(a=7,\ b=8,\ c=9\), use **Conclusion 19.3.1** (Heron–Qin Jiushao Formula) to find the area of this triangle.
+If the three side lengths of a triangle are \(a=7,\ b=8,\ c=9\), use **Basic Knowledge: Heron–Qin Jiushao Formula** to find the area of this triangle.
 
 Write the semiperimeter \(p=\frac{a+b+c}{2}=\frac{7+8+9}{2}=12\).
 
-By **Conclusion 19.3.1**,
+By **Basic Knowledge**,
 
 $$
 S=\sqrt{p\left(p-a\right)\left(p-b\right)\left(p-c\right)}=\sqrt{12\times 5\times 4\times 3}=\sqrt{720}=12\sqrt{5}.

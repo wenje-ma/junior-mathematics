@@ -1,22 +1,24 @@
-# Assignment 59
+# week59
 
-> **Definition 12.1.1** (Comprehensive Survey) <br>A survey conducted on the entire population of objects.
-> 
-> **Definition 12.1.3** (Sample Survey) <br>Surveying only a part of the objects and inferring the whole from the data.
-> 
-> **Definition 12.1.6** (Simple Random Sampling) <br>Every individual in the population has an equal chance of being selected.
-> 
-> **Definition 12.2.1** (Pie Chart) <br>The size of a sector represents each part's percentage of the population.
-> 
-> **Definition 12.2.2** (Bar Chart) <br>The height of a small rectangle represents the quantity of each category.
-> 
-> **Definition 12.2.3** (Line Chart) <br>The rise or fall of a broken line represents the change of data over time.
-> 
-> **Definition 12.2.6** (Frequency Distribution Histogram) <br>The area of a small rectangle represents the frequency of each group.
-> 
-> **Definition 12.2.7** (Trend Chart) <br>A line describing the relationship between two quantities.
+> **Basic Knowledge: Comprehensive Survey**<br>A survey conducted on the entire population of objects.
 
-### Review Problem 1
+> **Basic Knowledge: Sample Survey**<br>Surveying only a part of the objects and inferring the whole from the data.
+
+> **Basic Knowledge: Simple Random Sampling**<br>Every individual in the population has an equal chance of being selected.
+
+> **Basic Knowledge: Pie Chart**<br>The size of a sector represents each part's percentage of the population.
+
+> **Basic Knowledge: Bar Chart**<br>The height of a small rectangle represents the quantity of each category.
+
+> **Basic Knowledge: Line Chart**<br>The rise or fall of a broken line represents the change of data over time.
+
+> **Basic Knowledge: Frequency Distribution Histogram**<br>The area of a small rectangle represents the frequency of each group.
+
+> **Basic Knowledge: Trend Chart**<br>A line describing the relationship between two quantities.
+
+---
+
+## Review Problem 1
 
 (Review Problems, Review and Consolidation, Problem 1) What shortcomings exist in the cinema survey questionnaire?
 
@@ -26,7 +28,10 @@ Questionnaire: name, age; 1. the film watched tonight; 2. was the film good (ver
 
 Shortcomings: (1) requiring the name involves personal privacy and may affect truthful answers; (2) question 2 has only three levels, lacking middle options such as "average / not good"; (3) question 3 about "buying popcorn" is unrelated to surveying the film's popularity and deviates from the theme; (4) the survey targets people who came to the cinema "tonight", so the sample is biased toward those already watching films and cannot represent all viewers. $\blacksquare$
 
-### Review Problem 2
+
+---
+
+## Review Problem 2
 
 (Review Problems, Review and Consolidation, Problem 2) For the following questions, use a comprehensive survey or a sample survey?
 
@@ -48,7 +53,10 @@ Shortcomings: (1) requiring the name involves personal privacy and may affect tr
 
 (4) Sample survey; fish in water cannot be counted comprehensively. $\blacksquare$
 
-### Review Problem 3
+
+---
+
+## Review Problem 3
 
 (Review Problems, Review and Consolidation, Problem 3) Are the following samples representative?
 
@@ -66,7 +74,10 @@ Shortcomings: (1) requiring the name involves personal privacy and may affect tr
 
 (3) Not representative; weekend sales are high and cannot represent weekdays. $\blacksquare$
 
-### Review Problem 4
+
+---
+
+## Review Problem 4
 
 (Review Problems, Review and Consolidation, Problem 4) The school clinic surveyed $30$ seventh-grade boys and found an average weight of $48\ \text{kg}$. Can this serve as an estimate of the average weight of seventh-grade students?
 
@@ -74,7 +85,10 @@ Shortcomings: (1) requiring the name involves personal privacy and may affect tr
 
 It cannot. The sample contains only seventh-grade boys, includes neither girls nor other grades, and is not representative; it cannot represent the average weight of all seventh-grade students. $\blacksquare$
 
-### Review Problem 5
+
+---
+
+## Review Problem 5
 
 (Review Problems, Review and Consolidation, Problem 5) A survey of students' weekly housework time divides them into four groups, A ($x< 60$), B ($60\le x< 90$), C ($90\le x< 120$), D ($x\ge120$). It is known that group B has $70$ people, accounting for $35\%$, and group D accounts for $40\%$.
 
@@ -88,7 +102,10 @@ It cannot. The sample contains only seventh-grade boys, includes neither girls n
 
 (2) Group D accounts for $40\%$, namely $80$ people. Groups A and C together account for $100\%-35\%-40\%=25\%$; from the bar chart, group A has $20$ people, $10\%$, so group C accounts for $15\%$, namely $30$ people. Those with no less than $90\ \text{min}$ are groups C and D, together accounting for $15\%+40\%=55\%$. The school-wide estimate is $1500\times55\%=825$ people. $\blacksquare$
 
-### Review Problem 6
+
+---
+
+## Review Problem 6
 
 (Review Problems, Review and Consolidation, Problem 6) Randomly sample the shoe sizes of $38$ girls: $35,37,41,35,37,36,37,38,36,37,37,38,35,34,39,35,40,36,37,36,38,39,37,39,36,35,36,37,38,34,40,37,35,38,40,36,37,36$.
 
@@ -102,7 +119,10 @@ It cannot. The sample contains only seventh-grade boys, includes neither girls n
 
 (2) Sizes 36 and 37 together account for $47.4\%$; the school should buy more sizes 36 and 37, and fewer sizes 34 and 41. $\blacksquare$
 
-### Review Problem 7
+
+---
+
+## Review Problem 7
 
 (Review Problems, Comprehensive Application, Problem 7) The operating mileage (km) of high-speed rail from 2013 to 2022 was $11028,16456,19838,22980,25164,29904,35388,37929,40139,42241$; the passenger volume (ten thousand people) was $52962,70378,96139,122128,175216,205430,235833,155707,192236,127533$. Choose an appropriate statistical chart to describe the changes.
 
@@ -110,9 +130,12 @@ The figure is a compound line chart with years (2013–2022) on the horizontal a
 
 ### Solution to Review Problem 7
 
-By **Definition 12.2.3** (Line Chart), draw a composite line chart as shown. The operating mileage grows steadily year by year; the passenger volume rose rapidly before 2019, fell from 2020 due to the pandemic, and had not recovered to the 2019 level by 2022. $\blacksquare$
+By **Basic Knowledge: Line Chart**, draw a composite line chart as shown. The operating mileage grows steadily year by year; the passenger volume rose rapidly before 2019, fell from 2020 due to the pandemic, and had not recovered to the 2019 level by 2022. $\blacksquare$
 
-### Review Problem 8
+
+---
+
+## Review Problem 8
 
 (Review Problems, Comprehensive Application, Problem 8) The average monthly water consumption (t) of 50 families last year: from $1.5$ to $24.8$.
 
@@ -126,7 +149,10 @@ By **Definition 12.2.3** (Line Chart), draw a composite line chart as shown. The
 
 (2) To keep $60\%$ of families unaffected, i.e. the water consumption corresponding to a cumulative relative frequency of $60\%$. Cumulating from the frequency distribution table, the water consumption of the $30$th family is about $9\ \text{t}$. Hence set the standard at $9\ \text{t}$, charging $1.5$ times for the excess, which keeps the water fee of the first $60\%$ of families unaffected. $\blacksquare$
 
-### Review Problem 9
+
+---
+
+## Review Problem 9
 
 (Review Problems, Comprehensive Application, Problem 9) The fuel consumption per hundred kilometers (L) of 30 cars of the same model: from $6.9$ to $8.3$. Statistically analyze the fuel consumption of this batch of cars.
 
@@ -134,7 +160,10 @@ By **Definition 12.2.3** (Line Chart), draw a composite line chart as shown. The
 
 Maximum $8.3$, minimum $6.9$, range $1.4$. Take a class width of $0.2$ for grouping. Most cars' fuel consumption falls between $7.2\sim7.8\ \text{L}$, averaging about $7.5\ \text{L}$; the consumption is relatively concentrated, with a few vehicles on the high side. $\blacksquare$
 
-### Review Problem 10
+
+---
+
+## Review Problem 10
 
 (Review Problems, Extension and Exploration, Problem 10) Advertising expenditure and sales revenue (ten thousand yuan): $\left(1,12\right),\left(2,20\right),\left(4,25\right),\left(5,30\right),\left(7,40\right)$. Draw a trend chart and predict the sales revenue when the advertising expenditure is $8$ ten-thousand yuan.
 
@@ -142,9 +171,12 @@ The figure is a trend chart with advertising expenditure (10,000 yuan) on the ho
 
 ### Solution to Review Problem 10
 
-By **Definition 12.2.7** (Trend Chart), take advertising expenditure as the horizontal axis and sales revenue as the vertical axis; plot the points and draw the trend line as shown. The points show an upward trend. Extrapolating from the trend line, when the advertising expenditure is $8$ ten-thousand yuan, the sales revenue is about $44$ ten-thousand yuan. $\blacksquare$
+By **Basic Knowledge: Trend Chart**, take advertising expenditure as the horizontal axis and sales revenue as the vertical axis; plot the points and draw the trend line as shown. The points show an upward trend. Extrapolating from the trend line, when the advertising expenditure is $8$ ten-thousand yuan, the sales revenue is about $44$ ten-thousand yuan. $\blacksquare$
 
-### Review Problem 11
+
+---
+
+## Review Problem 11
 
 (Review Problems, Extension and Exploration, Problem 11) Design a survey plan to understand the after-school reading situation of students in this school, and compare the differences between boys and girls in reading preferences and reading volume.
 

@@ -1,16 +1,10 @@
-# Assignment 54
+# week54
 
-> **Definition 11.2.1** (Linear Inequality in One Variable) <br>An inequality that contains only one unknown, all expressions containing the unknown are integral expressions, and the degree of the unknown is $1$.
-> 
-> **Method 11.2.2** (Solving a Linear Inequality in One Variable) <br>Clear denominators, remove parentheses, transpose terms, combine like terms, and make the coefficient $1$; when multiplying or dividing by a negative number, the direction of the inequality sign reverses.
-> 
-> **Property 11.1.1** (Property 1 of Inequalities) <br>$a> b\Rightarrow a\pm c> b\pm c$.
-> 
-> **Property 11.1.2** (Property 2 of Inequalities) <br>$a> b,\ c> 0\Rightarrow ac> bc$.
-> 
-> **Property 11.1.3** (Property 3 of Inequalities) <br>$a> b,\ c< 0\Rightarrow ac< bc$.
+> **Basic Knowledge: Linear Inequality in One Variable**<br>An inequality that contains only one unknown, all expressions containing the unknown are integral expressions, and the degree of the unknown is $1$.
 
-### Activity 1
+---
+
+## Activity 1
 
 (Mathematics Activity, Activity 1, Problem 1) Look up data to find the built-up area and the green coverage area of the city you live in, and calculate the green coverage rate. If this city plans to raise the green coverage rate to no less than $1.1$ times this year's rate next year, while the built-up area increases by $5\%$ over this year, by at least what percent must next year's green coverage area increase over this year's?
 
@@ -26,7 +20,10 @@ $$
 
 Hence next year's green coverage area must increase by at least $15.5\%$ over this year's. $\blacksquare$
 
-### Activity 2
+
+---
+
+## Activity 2
 
 (Mathematics Activity, Activity 2, Problem 1) There are three cards, each with a number written on it. It is known that one of the numbers is the sum of the other two, but it is not known which card has the largest number. A says: "Adding the numbers on the three cards pairwise gives the sums $12$, $17$, $29$." Determine which of the three numbers is the largest, and find the three numbers.
 

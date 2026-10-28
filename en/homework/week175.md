@@ -1,22 +1,21 @@
-# Assignment 175
+# week175
 
-> **Definition 29.1.1** (Projection) <br>The shadow obtained by shining light on an object and projecting it onto a certain plane is called the projection of the object.
-> 
-> **Definition 29.1.4** (Orthogonal Projection) <br>The projection produced when the projection lines are perpendicular to the projection plane is called orthogonal projection.
-> 
-> **Definition 29.2.2** (Front View, Top View, Left View) <br>The front view is observed from front to back, the top view from top to bottom, and the left view from left to right.
-> 
-> **Conclusion 29.2.1** (Projection Rules for the Three Views) <br>Length aligned, height level, width equal. Visible outlines are drawn as solid lines, and invisible outlines as dashed lines.
+> **Basic Knowledge: Projection**<br>The shadow obtained by shining light on an object and projecting it onto a certain plane is called the projection of the object.
+> **Basic Knowledge: Orthogonal Projection**<br>The projection produced when the projection lines are perpendicular to the projection plane is called orthogonal projection.
+> **Basic Knowledge: Front View, Top View, Left View**<br>The front view is observed from front to back, the top view from top to bottom, and the left view from left to right.
+> **Basic Knowledge: Projection Rules for the Three Views**<br>Length aligned, height level, width equal. Visible outlines are drawn as solid lines, and invisible outlines as dashed lines.
+---
 
-### Review Problem 1
+
+## Review Problem 1
 
 (Review Problem, Review and Consolidation, Problem 1) Find the object corresponding to the three views in the figure. Four sets of three views are given, corresponding to different solids respectively.
 
 ### Solution to Review Problem 1
 
-By **Definition 29.2.2** and **Conclusion 29.2.1**, judge comprehensively from the shapes of the front view, top view, and left view: all three views being rectangles corresponds to a rectangular box; the front and left views being rectangles and the top view a circle corresponds to a cylinder; the front and left views being triangles and the top view a circle with a center corresponds to a cone; all three views being circles corresponds to a sphere. $\blacksquare$
+By **Basic Knowledge** and **Basic Knowledge**, judge comprehensively from the shapes of the front view, top view, and left view: all three views being rectangles corresponds to a rectangular box; the front and left views being rectangles and the top view a circle corresponds to a cylinder; the front and left views being triangles and the top view a circle with a center corresponds to a cone; all three views being circles corresponds to a sphere. $\blacksquare$
 
-### Review Problem 2
+## Review Problem 2
 
 (Review Problem, Review and Consolidation, Problem 2) Draw the three views of the two solids in the figure, respectively. The two solids are a horizontal triangular prism and a cone.
 
@@ -24,13 +23,13 @@ The figure shows perspective diagrams of two solids: (1) a horizontal triangular
 
 ### Solution to Review Problem 2
 
-By **Conclusion 29.2.1**, the three views are as shown in the figure:
+By **Basic Knowledge**, the three views are as shown in the figure:
 
 (1) Horizontal triangular prism: the front view is a triangle, the top view is a rectangle, and the left view is a triangle.
 
 (2) Cone: the front view is an isosceles triangle, the top view is a circle with a center, and the left view is an isosceles triangle. $\blacksquare$
 
-### Review Problem 3
+## Review Problem 3
 
 (Review Problem, Review and Consolidation, Problem 3) Based on the three views, describe the shape of this object. The three views consist of square cells forming a stepped shape; the top view is a $3\times 1$ grid and the front view is a stepped $3$ columns.
 
@@ -38,7 +37,7 @@ By **Conclusion 29.2.1**, the three views are as shown in the figure:
 
 Combining the three views: the top view is $3$ square cells side by side, the front view is stepped (the left column $2$ layers, the middle column $3$ layers, the right column $1$ layer), and the left view is a $2$-column staircase. The object is a stepped composite built by stacking several small cubes. $\blacksquare$
 
-### Review Problem 4
+## Review Problem 4
 
 (Review Problem, Comprehensive Application, Problem 4) Draw the three views of the solid in the figure (the upper part is a regular triangular prism and the lower part is a cylinder).
 
@@ -46,9 +45,9 @@ The figure shows a perspective diagram of a composite solid: the lower part is a
 
 ### Solution to Review Problem 4
 
-By **Conclusion 29.2.1**, the three views are as shown in the figure: the lower part of the front view is a rectangle (the cylinder) and the upper part is a rectangle (the triangular prism, with a vertical dashed line in the middle); the top view is an equilateral triangle inscribed in a circle; the lower part of the left view is a rectangle (the cylinder's side) and the upper part is a rectangle (the triangular prism's side). $\blacksquare$
+By **Basic Knowledge**, the three views are as shown in the figure: the lower part of the front view is a rectangle (the cylinder) and the upper part is a rectangle (the triangular prism, with a vertical dashed line in the middle); the top view is an equilateral triangle inscribed in a circle; the lower part of the left view is a rectangle (the cylinder's side) and the upper part is a rectangle (the triangular prism's side). $\blacksquare$
 
-### Review Problem 5
+## Review Problem 5
 
 (Review Problem, Comprehensive Application, Problem 5) Based on the three views, describe the shape of this object.
 
@@ -56,7 +55,7 @@ By **Conclusion 29.2.1**, the three views are as shown in the figure: the lower 
 
 Combining the shapes and positional relationships of the parts in the three views, the object is judged to be a composite of basic solids, with the solid and dashed lines in each view corresponding to visible and invisible edges, respectively. $\blacksquare$
 
-### Review Problem 6
+## Review Problem 6
 
 (Review Problem, Comprehensive Application, Problem 6) Based on the net, draw the three views of this object, and find the volume and surface area of this object. The net is a rectangle (height $20$, width $10$), with a circle of diameter $10$ on each of the top and bottom.
 
@@ -72,7 +71,7 @@ The volume is $V=\pi r^{2}h=\pi\times 25\times 20=500\pi$.
 
 The surface area is $S=2\pi r^{2}+2\pi rh=2\pi\times 25+2\pi\times 5\times 20=50\pi+200\pi=250\pi$. $\blacksquare$
 
-### Review Problem 7
+## Review Problem 7
 
 (Review Problem, Comprehensive Application, Problem 7) Based on the three views, find the surface area of the solid and draw its net. Three views: both the front view and the left view are a rectangle below (height $20$) with a triangle above (height $5$); the top view is a circle of diameter $10$.
 
@@ -94,7 +93,7 @@ $$=200\pi+25\pi+25\sqrt{2}\,\pi=25\pi\left(9+\sqrt{2}\right).$$
 
 The net is: a rectangle ($2\pi r\times h_{1}=10\pi\times 20$) as the lateral face of the cylinder, a circle of radius $r=5$ as the base, and a sector of radius $l=5\sqrt{2}$ and arc length $10\pi$ as the lateral face of the cone. $\blacksquare$
 
-### Review Problem 8
+## Review Problem 8
 
 (Review Problem, Extension and Exploration, Problem 8) Based on the following three views, find the volume of the solid they represent (dimensions are marked in the figure).
 

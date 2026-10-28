@@ -1,12 +1,11 @@
-# Assignment 75
+# week75
 
-> **Definition 15.1.1** (Axisymmetric Figure) <br>A figure that can be folded along a line so that the parts on both sides coincide with each other is called an axisymmetric figure, and the line is called the axis of symmetry.
-> 
-> **Conclusion 15.1.1** (Properties of Axis Symmetry) <br>Two figures symmetric about a line are congruent; the axis of symmetry perpendicularly bisects the segment joining the symmetric points.
-> 
-> **Conclusion 15.3.1** (Equal Sides Opposite Equal Angles) <br>The two base angles of an isosceles triangle are equal.
-> 
-> **Conclusion 15.3.2** (Three Lines in One) <br>The median on the base, the altitude on the base, and the vertex-angle bisector of an isosceles triangle coincide, and the line on which they lie is its axis of symmetry.
+> **Basic Knowledge: Axisymmetric Figure**<br>A figure that can be folded along a line so that the parts on both sides coincide with each other is called an axisymmetric figure, and the line is called the axis of symmetry.
+> **Basic Knowledge: Properties of Axis Symmetry**<br>Two figures symmetric about a line are congruent; the axis of symmetry perpendicularly bisects the segment joining the symmetric points.
+> **Basic Knowledge: Equal Sides Opposite Equal Angles**<br>The two base angles of an isosceles triangle are equal.
+> **Basic Knowledge: Three Lines in One**<br>The median on the base, the altitude on the base, and the vertex-angle bisector of an isosceles triangle coincide, and the line on which they lie is its axis of symmetry.
+---
+
 
 ### Activity 1
 
@@ -14,7 +13,7 @@
 
 ### Solution to Activity 1
 
-By **Definition 15.1.1** (Axisymmetric Figure), art letters that can be folded along a line so that the two sides coincide are axisymmetric, and that line is the axis of symmetry. For example, characters with left-right symmetric structure, the letters $A$, $H$, $W$, and the digits $0$, $8$ are all axisymmetric, and their axes of symmetry are the vertical (or horizontal) lines through the center. $\blacksquare$
+By **Basic Knowledge: Axisymmetric Figure**, art letters that can be folded along a line so that the two sides coincide are axisymmetric, and that line is the axis of symmetry. For example, characters with left-right symmetric structure, the letters $A$, $H$, $W$, and the digits $0$, $8$ are all axisymmetric, and their axes of symmetry are the vertical (or horizontal) lines through the center. $\blacksquare$
 
 ### Activity 2
 
@@ -22,7 +21,7 @@ By **Definition 15.1.1** (Axisymmetric Figure), art letters that can be folded a
 
 ### Solution to Activity 2
 
-By **Conclusion 15.1.1** (Properties of Axis Symmetry), each tracing after folding yields a figure symmetric to the original about the crease; at different crease (axis of symmetry) positions, the resulting patterns differ. Combining multiple axis symmetries with translation yields rich border and background patterns. $\blacksquare$
+By **Basic Knowledge: Properties of Axis Symmetry**, each tracing after folding yields a figure symmetric to the original about the crease; at different crease (axis of symmetry) positions, the resulting patterns differ. Combining multiple axis symmetries with translation yields rich border and background patterns. $\blacksquare$
 
 ### Activity 3
 
@@ -34,6 +33,6 @@ The figure shows an isosceles triangle $ABC$ with $AB=AC$, the base $BC$ placed 
 
 $DE=DF$. In isosceles $\triangle ABC$ let $AB=AC$, $D$ is the midpoint of the base $BC$, $DE\perp AB$, $DF\perp AC$.
 
-Since $AB=AC$ and $D$ is the midpoint of $BC$, by **Conclusion 15.3.2** (Three Lines in One), $AD$ bisects the vertex angle $\angle BAC$. Point $D$ lies on the bisector of $\angle BAC$; by the property of the angle bisector, point $D$ is equidistant from the two sides $AB$, $AC$, so $DE=DF$.
+Since $AB=AC$ and $D$ is the midpoint of $BC$, by **Basic Knowledge: Three Lines in One**, $AD$ bisects the vertex angle $\angle BAC$. Point $D$ lies on the bisector of $\angle BAC$; by the property of the angle bisector, point $D$ is equidistant from the two sides $AB$, $AC$, so $DE=DF$.
 
 Similarly, since an isosceles triangle is symmetric about the line of the median on the base, the corresponding medians, altitudes and angle bisectors on the two legs are all symmetric about this axis, and hence they are also respectively equal. $\blacksquare$

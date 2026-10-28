@@ -1,20 +1,29 @@
-# Assignment 79
+# week79
 
-> **Definition 16.2.1** (Multiplication of a Monomial by a Monomial) <br>Multiply their coefficients and their powers with the same base separately to form factors of the product; for a letter appearing in only one monomial, take it together with its exponent as a factor of the product.
+> **Basic Knowledge: Multiplication of a Monomial by a Monomial**<br>Multiply their coefficients and their powers with the same base separately to form factors of the product; for a letter appearing in only one monomial, take it together with its exponent as a factor of the product.
+> **Basic Knowledge: Division of Powers with the Same Base**<br>Divide powers with the same base by keeping the base and subtracting the exponents: a^m / a^n = a^{m-n}.
+> **Basic Knowledge: Division of a Monomial by a Monomial**<br>Divide the coefficients and the same-base powers separately; any letter appearing only in the dividend carries over to the quotient.
+> **Basic Knowledge: Division of a Polynomial by a Monomial**<br>Division of a Polynomial by a Monomial.
+> **Basic Knowledge: Multiplication of a Monomial by a Polynomial**<br>Multiply each term of the polynomial by the monomial and add the products.
+> **Basic Knowledge: Multiplication of a Polynomial by a Polynomial**<br>Multiply each term of one polynomial by each term of the other and add the products.
+> **Basic Knowledge: Zero Exponent Power**<br>Any nonzero number to the power 0 equals 1: a^0 = 1.
 
-> **Definition 16.2.2** (Multiplication of a Monomial by a Polynomial) <br>Multiply each term of the polynomial by the monomial, then add the resulting products, i.e. $p\left(a+b+c\right)=pa+pb+pc$.
+---
 
-> **Definition 16.2.3** (Multiplication of a Polynomial by a Polynomial) <br>First multiply each term of one polynomial by each term of the other polynomial, then add the resulting products, i.e. $\left(a+b\right)\left(p+q\right)=ap+aq+bp+bq$.
 
-> **Definition 16.2.4** (Division of Powers with the Same Base) <br>$a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ are both positive integers, $m> n$); that is, when dividing powers with the same base, the base is unchanged and the exponents are subtracted.
+> **Basic Knowledge: Multiplication of a Monomial by a Polynomial** <br>Multiply each term of the polynomial by the monomial, then add the resulting products, i.e. $p\left(a+b+c\right)=pa+pb+pc$.
 
-> **Definition 16.2.5** (Zero Exponent Power) <br>$a^0=1$ ($a\ne0$); that is, the $0$-th power of any number not equal to $0$ equals $1$.
+> **Basic Knowledge: Multiplication of a Polynomial by a Polynomial** <br>First multiply each term of one polynomial by each term of the other polynomial, then add the resulting products, i.e. $\left(a+b\right)\left(p+q\right)=ap+aq+bp+bq$.
 
-> **Definition 16.2.6** (Division of a Monomial by a Monomial) <br>Divide the coefficients and the powers with the same base separately to form factors of the quotient; for a letter appearing only in the dividend, take it together with its exponent as a factor of the quotient.
+> **Basic Knowledge: Division of Powers with the Same Base** <br>$a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ are both positive integers, $m> n$); that is, when dividing powers with the same base, the base is unchanged and the exponents are subtracted.
 
-> **Definition 16.2.7** (Division of a Polynomial by a Monomial) <br>First divide each term of this polynomial by the monomial, then add the resulting quotients.
+> **Basic Knowledge: Zero Exponent Power** <br>$a^0=1$ ($a\ne0$); that is, the $0$-th power of any number not equal to $0$ equals $1$.
 
-### Exercise 1
+> **Basic Knowledge: Division of a Monomial by a Monomial** <br>Divide the coefficients and the powers with the same base separately to form factors of the quotient; for a letter appearing only in the dividend, take it together with its exponent as a factor of the quotient.
+
+> **Basic Knowledge: Division of a Polynomial by a Monomial** <br>First divide each term of this polynomial by the monomial, then add the resulting quotients.
+
+## Exercise 1
 
 (Exercise 16.2, Problem 1) Is each of the following calculations correct? If not, how should it be corrected?
 
@@ -28,7 +37,7 @@
 
 ### Solution to Exercise 1
 
-By **Definition 16.2.1** (Multiplication of a Monomial by a Monomial).
+By **Basic Knowledge: Multiplication of a Monomial by a Monomial**.
 
 (1) Incorrect. $3a^3\cdot2a^2=6a^{3+2}=6a^5$; for powers with the same base the exponents should be added.
 
@@ -38,7 +47,7 @@ By **Definition 16.2.1** (Multiplication of a Monomial by a Monomial).
 
 (4) Correct, $x^2 y^2\cdot x^2 y^6=x^4 y^8$. $\blacksquare$
 
-### Exercise 2
+## Exercise 2
 
 (Exercise 16.2, Problem 2) Calculate:
 
@@ -52,7 +61,7 @@ By **Definition 16.2.1** (Multiplication of a Monomial by a Monomial).
 
 ### Solution to Exercise 2
 
-By **Definition 16.2.1**.
+By **Basic Knowledge**.
 
 (1) $3x^2\cdot5x^3=15x^5$.
 
@@ -62,7 +71,7 @@ By **Definition 16.2.1**.
 
 (4) $-2ab^2\cdot\left(-3ab\right)=6a^2 b^3$. $\blacksquare$
 
-### Exercise 3
+## Exercise 3
 
 (Exercise 16.2, Problem 3) Calculate:
 
@@ -78,7 +87,7 @@ Take powers first, then multiply.
 
 (2) $\left(-a\right)^5-\left(6a^2\right)^2\cdot\left(-a\right)=-a^5-36a^4\cdot\left(-a\right)=-a^5+36a^5=35a^5$. $\blacksquare$
 
-### Exercise 4
+## Exercise 4
 
 (Exercise 16.2, Problem 4) The speed of a satellite orbiting the earth (the first cosmic velocity) is $7.9\times10^3\ \text{m/s}$. Find the distance traveled by the satellite in orbiting the earth for $1\ \text{h}$.
 
@@ -92,7 +101,7 @@ $$
 
 That is, the distance traveled by the satellite in orbiting the earth for $1\ \text{h}$ is approximately $2.844\times10^7\ \text{m}$. $\blacksquare$
 
-### Exercise 5
+## Exercise 5
 
 (Exercise 16.2, Problem 1) Is each of the following calculations correct? If not, how should it be corrected?
 
@@ -102,13 +111,13 @@ That is, the distance traveled by the satellite in orbiting the earth for $1\ \t
 
 ### Solution to Exercise 5
 
-By **Definition 16.2.2** (Multiplication of a Monomial by a Polynomial).
+By **Basic Knowledge: Multiplication of a Monomial by a Polynomial**.
 
 (1) Incorrect. $\left(-2x\right)\left(x^2-x\right)=-2x^3+2x^2$; the second term $\left(-2x\right)\left(-x\right)$ should be positive.
 
 (2) Correct. $a\left(b-c\right)+b\left(c-a\right)+c\left(a-b\right)=ab-ac+bc-ab+ac-bc=0$. $\blacksquare$
 
-### Exercise 6
+## Exercise 6
 
 (Exercise 16.2, Problem 2) Calculate:
 
@@ -122,7 +131,7 @@ By **Definition 16.2.2** (Multiplication of a Monomial by a Polynomial).
 
 ### Solution to Exercise 6
 
-By **Definition 16.2.2**.
+By **Basic Knowledge**.
 
 (1) $3a\left(5a-2b\right)=15a^2-6ab$.
 
@@ -132,13 +141,13 @@ By **Definition 16.2.2**.
 
 (4) $\left(-2ab\right)^2\left(2a-b+1\right)=4a^2 b^2\left(2a-b+1\right)=8a^3 b^2-4a^2 b^3+4a^2 b^2$. $\blacksquare$
 
-### Exercise 7
+## Exercise 7
 
 (Exercise 16.2, Problem 3) Calculate: $x\left(x-1\right)+2x\left(x+1\right)-3x\left(2x-5\right)$.
 
 ### Solution to Exercise 7
 
-By **Definition 16.2.2**.
+By **Basic Knowledge**.
 
 $$
 x\left(x-1\right)+2x\left(x+1\right)-3x\left(2x-5\right)=x^2-x+2x^2+2x-6x^2+15x=-3x^2+16x.
@@ -146,7 +155,7 @@ $$
 
 $\blacksquare$
 
-### Exercise 8
+## Exercise 8
 
 (Exercise 16.2, Problem 4) First simplify, then evaluate: $x^2\left(x-1\right)-x\left(x^2+x-1\right)$, where $x=\frac12$.
 
@@ -160,7 +169,7 @@ $$
 
 Substituting $x=\frac12$, we get $-2\cdot\frac14+\frac12=-\frac12+\frac12=0$. $\blacksquare$
 
-### Exercise 9
+## Exercise 9
 
 (Exercise 16.2, Problem 1) Calculate:
 
@@ -178,7 +187,7 @@ Substituting $x=\frac12$, we get $-2\cdot\frac14+\frac12=-\frac12+\frac12=0$. $\
 
 ### Solution to Exercise 9
 
-By **Definition 16.2.3** (Multiplication of a Polynomial by a Polynomial).
+By **Basic Knowledge: Multiplication of a Polynomial by a Polynomial**.
 
 (1) $\left(2x+1\right)\left(x+3\right)=2x^2+6x+x+3=2x^2+7x+3$.
 
@@ -192,7 +201,7 @@ By **Definition 16.2.3** (Multiplication of a Polynomial by a Polynomial).
 
 (6) $\left(x^2+2x+3\right)\left(2x-5\right)=2x^3-5x^2+4x^2-10x+6x-15=2x^3-x^2-4x-15$. $\blacksquare$
 
-### Exercise 10
+## Exercise 10
 
 (Exercise 16.2, Problem 2) Calculate:
 
@@ -208,7 +217,7 @@ From the above results find a pattern; observe the figure and fill in the blank:
 
 ### Solution to Exercise 10
 
-By **Definition 16.2.3**.
+By **Basic Knowledge**.
 
 (1) $\left(x+2\right)\left(x+3\right)=x^2+5x+6$.
 
@@ -224,13 +233,13 @@ $$\left(x+p\right)\left(x+q\right)=x^2+\left(p+q\right)x+pq.$$
 
 $\blacksquare$
 
-### Exercise 11
+## Exercise 11
 
 (Exercise 16.2, Problem 3) First simplify, then evaluate: $\left(x-y\right)\left(x^2+xy+y^2\right)-\left(x+y\right)\left(x^2-y^2\right)$, where $x=5$, $y=5$.
 
 ### Solution to Exercise 11
 
-By **Definition 16.2.3**.
+By **Basic Knowledge**.
 
 $$\left(x-y\right)\left(x^2+xy+y^2\right)=x^3-y^3,$$
 
@@ -238,7 +247,7 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 Substituting $x=5,y=5$, we have $x-y=0$, so the original expression $=0-\left(x+y\right)\cdot0=0$. $\blacksquare$
 
-### Exercise 12
+## Exercise 12
 
 (Exercise 16.2, Problem 1) Calculate:
 
@@ -252,7 +261,7 @@ Substituting $x=5,y=5$, we have $x-y=0$, so the original expression $=0-\left(x+
 
 ### Solution to Exercise 12
 
-By **Definition 16.2.4** (Division of Powers with the Same Base) and **Definition 16.2.5** (Zero Exponent Power).
+By **Basic Knowledge: Division of Powers with the Same Base** and **Basic Knowledge: Zero Exponent Power**.
 
 (1) $x^7\div x^5=x^2$.
 
@@ -262,7 +271,7 @@ By **Definition 16.2.4** (Division of Powers with the Same Base) and **Definitio
 
 (4) $\left(xy\right)^5\div\left(xy\right)^3=\left(xy\right)^2=x^2 y^2$. $\blacksquare$
 
-### Exercise 13
+## Exercise 13
 
 (Exercise 16.2, Problem 2) Calculate:
 
@@ -276,7 +285,7 @@ By **Definition 16.2.4** (Division of Powers with the Same Base) and **Definitio
 
 ### Solution to Exercise 13
 
-By **Definition 16.2.6** (Division of a Monomial by a Monomial).
+By **Basic Knowledge: Division of a Monomial by a Monomial**.
 
 (1) $\left(10ab^3\right)\div\left(-5ab\right)=-2b^2$.
 
@@ -286,7 +295,7 @@ By **Definition 16.2.6** (Division of a Monomial by a Monomial).
 
 (4) $\left(6\times10^8\right)\div\left(3\times10^5\right)=2\times10^3$. $\blacksquare$
 
-### Exercise 14
+## Exercise 14
 
 (Exercise 16.2, Problem 3) Calculate:
 
@@ -296,13 +305,13 @@ By **Definition 16.2.6** (Division of a Monomial by a Monomial).
 
 ### Solution to Exercise 14
 
-By **Definition 16.2.7** (Division of a Polynomial by a Monomial).
+By **Basic Knowledge: Division of a Polynomial by a Monomial**.
 
 (1) $\left(6ab+5a\right)\div a=6b+5$.
 
 (2) $\left(15x^2 y-10xy^2\right)\div\left(5xy\right)=3x-2y$. $\blacksquare$
 
-### Problem 1
+## Problem 1
 
 (Exercise 16.2, Review and Consolidation, Problem 1) Calculate:
 
@@ -316,7 +325,7 @@ By **Definition 16.2.7** (Division of a Polynomial by a Monomial).
 
 ### Solution to Problem 1
 
-By **Definition 16.2.1**.
+By **Basic Knowledge**.
 
 (1) $3x\cdot6x^2 y=18x^3 y$.
 
@@ -326,7 +335,7 @@ By **Definition 16.2.1**.
 
 (4) $\left(1.25\times10^5\right)\times\left(2\times10^3\right)^3=1.25\times10^5\times8\times10^9=10\times10^{14}=1\times10^{15}$. $\blacksquare$
 
-### Problem 2
+## Problem 2
 
 (Exercise 16.2, Review and Consolidation, Problem 2) Calculate:
 
@@ -340,7 +349,7 @@ By **Definition 16.2.1**.
 
 ### Solution to Problem 2
 
-By **Definition 16.2.2**.
+By **Basic Knowledge**.
 
 (1) $\left(4a-b^2\right)\left(-2b\right)=-8ab+2b^3$.
 
@@ -350,7 +359,7 @@ By **Definition 16.2.2**.
 
 (4) $\left(2a^2-\frac23 a-\frac49\right)\left(-9a\right)=-18a^3+6a^2+4a$. $\blacksquare$
 
-### Problem 3
+## Problem 3
 
 (Exercise 16.2, Review and Consolidation, Problem 3) Calculate:
 
@@ -368,7 +377,7 @@ By **Definition 16.2.2**.
 
 ### Solution to Problem 3
 
-By **Definition 16.2.3**.
+By **Basic Knowledge**.
 
 (1) $\left(x-6\right)\left(x-3\right)=x^2-9x+18$.
 
@@ -382,7 +391,7 @@ By **Definition 16.2.3**.
 
 (6) $\left(x-1\right)\left(x^2+x+1\right)=x^3+x^2+x-x^2-x-1=x^3-1$. $\blacksquare$
 
-### Problem 4
+## Problem 4
 
 (Exercise 16.2, Review and Consolidation, Problem 4) Calculate:
 
@@ -400,7 +409,7 @@ By **Definition 16.2.3**.
 
 ### Solution to Problem 4
 
-By **Definition 16.2.6** and **Definition 16.2.7**.
+By **Basic Knowledge** and **Basic Knowledge**.
 
 (1) $\left(a^3\right)^2\div\left(a^2\right)^3=a^6\div a^6=1$.
 
@@ -414,7 +423,7 @@ By **Definition 16.2.6** and **Definition 16.2.7**.
 
 (6) $\left(-81x^{n+5}+15x^{n+1}-3x^{n-1}\right)\div\left(-3x^{n-1}\right)=27x^6-5x^2+1$. $\blacksquare$
 
-### Problem 5
+## Problem 5
 
 (Exercise 16.2, Review and Consolidation, Problem 5) Calculate:
 
@@ -438,7 +447,7 @@ In mixed operations, take powers first, then multiplication and division, then a
 
 (4) $\left(-4ab^3+8a^2 b^2\right)\div\left(4ab\right)-\left(2a+b\right)\left(a-b\right)=-b^2+2ab-\left(2a^2-2ab+ab-b^2\right)=-b^2+2ab-2a^2+ab+b^2=-2a^2+3ab$. $\blacksquare$
 
-### Problem 6
+## Problem 6
 
 (Exercise 16.2, Comprehensive Application, Problem 6) Calculate:
 
@@ -454,7 +463,7 @@ First simplify inside the parentheses, then divide.
 
 (2) $\left[\left(a^2 b^2-1\right)-2a^2 b^2+1\right]\div\left(a^2 b^2\right)=\left(-a^2 b^2\right)\div\left(a^2 b^2\right)=-1$. $\blacksquare$
 
-### Problem 7
+## Problem 7
 
 (Exercise 16.2, Comprehensive Application, Problem 7) First simplify, then evaluate:
 
@@ -468,7 +477,7 @@ First simplify inside the parentheses, then divide.
 
 (2) The original expression $=a^2-2ab-b^2-\left(a^2+2ab+b^2\right)=-4ab-2b^2$. Substituting $a=\frac12,b=-1$, we get $-4\cdot\frac12\cdot\left(-1\right)-2\cdot1=2-2=0$. $\blacksquare$
 
-### Problem 8
+## Problem 8
 
 (Exercise 16.2, Comprehensive Application, Problem 8) Given $3x-4y=3$ ($x,y$ are positive integers), find $27^x\div9^{2y}$.
 
@@ -480,7 +489,7 @@ $$27^x\div9^{2y}=3^{3x}\div3^{4y}=3^{3x-4y}=3^3=27.$$
 
 $\blacksquare$
 
-### Problem 9
+## Problem 9
 
 (Exercise 16.2, Comprehensive Application, Problem 9) Calculate the area of the green shaded region shown in the figure (length unit: $\text{m}$).
 
@@ -498,7 +507,7 @@ $$32a^2-10a^2=22a^2\ \left(\text{m}^2\right).$$
 
 $\blacksquare$
 
-### Problem 10
+## Problem 10
 
 (Exercise 16.2, Comprehensive Application, Problem 10) As shown in the figure, there is a rectangular cardboard; an equal square is cut off from each of its four corners, and then the protruding portions on all sides are folded up to make an open box in the shape of a cuboid with height $a\ \text{cm}$. If the volume of the box is $4a^2 b\ \text{cm}^3$ and one side of the rectangular base has length $b$ ($b< 4a$) $\text{cm}$, find the length and width of the original rectangular cardboard.
 
@@ -514,7 +523,7 @@ solving gives $x=4a$.
 
 Hence the two sides of the box base are $b$ and $4a$. The original cardboard's length exceeds the base length by $2a$, and its width exceeds the base width by $2a$. Since $b< 4a$, taking the long base side $4a$ to correspond to the long cardboard side, the original cardboard has length $4a+2a=6a\ \text{cm}$ and width $b+2a\ \text{cm}$. $\blacksquare$
 
-### Problem 11
+## Problem 11
 
 (Exercise 16.2, Extension and Exploration, Problem 11) Determine the value of $m$ in each of the following expressions (where $p,q$ are positive integers):
 

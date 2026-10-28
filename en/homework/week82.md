@@ -1,18 +1,22 @@
-# Assignment 82
+# week82
 
-> **Definition 16.1.1** (Multiplication of Powers with the Same Base) <br>$a^m\cdot a^n=a^{m+n}$ ($m,n$ are positive integers).
+> **Basic Knowledge: Multiplication of Powers with the Same Base**<br>$a^m\cdot a^n=a^{m+n}$ ($m,n$ are positive integers).
+> **Basic Knowledge: Division of Powers with the Same Base**<br>Divide powers with the same base by keeping the base and subtracting the exponents: a^m / a^n = a^{m-n}.
 
-> **Definition 16.1.2** (Power of a Power) <br>$\left(a^m\right)^n=a^{mn}$ ($m,n$ are positive integers).
+---
 
-> **Definition 16.1.3** (Power of a Product) <br>$\left(ab\right)^n=a^n b^n$ ($n$ is a positive integer).
 
-> **Definition 16.2.4** (Division of Powers with the Same Base) <br>$a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ are positive integers, $m> n$).
+> **Basic Knowledge: Power of a Power** <br>$\left(a^m\right)^n=a^{mn}$ ($m,n$ are positive integers).
 
-> **Definition 16.3.1** (Difference of Squares Formula) <br>$\left(a+b\right)\left(a-b\right)=a^2-b^2$.
+> **Basic Knowledge: Power of a Product** <br>$\left(ab\right)^n=a^n b^n$ ($n$ is a positive integer).
 
-> **Definition 16.3.2** (Perfect Square Formula) <br>$\left(a\pm b\right)^2=a^2\pm2ab+b^2$.
+> **Basic Knowledge: Division of Powers with the Same Base** <br>$a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ are positive integers, $m> n$).
 
-### Review Problem 1
+> **Basic Knowledge: Difference of Squares Formula** <br>$\left(a+b\right)\left(a-b\right)=a^2-b^2$.
+
+> **Basic Knowledge: Perfect Square Formula** <br>$\left(a\pm b\right)^2=a^2\pm2ab+b^2$.
+
+## Review Problem 1
 
 (Review Problems, Review and Consolidation, Problem 1) Calculate:
 
@@ -26,7 +30,7 @@
 
 ### Solution to Review Problem 1
 
-By **Definition 16.1.1** and **Definition 16.1.2**.
+By **Basic Knowledge** and **Basic Knowledge**.
 
 (1) $100\times10^3\times10^2=10^2\times10^3\times10^2=10^7$.
 
@@ -36,7 +40,7 @@ By **Definition 16.1.1** and **Definition 16.1.2**.
 
 (4) $x\cdot x^2\cdot x^3+\left(x^3\right)^2=x^6+x^6=2x^6$. $\blacksquare$
 
-### Review Problem 2
+## Review Problem 2
 
 (Review Problems, Review and Consolidation, Problem 2) Calculate:
 
@@ -66,7 +70,7 @@ By **Definition 16.1.1** and **Definition 16.1.2**.
 
 (6) $198^2=\left(200-2\right)^2=40000-800+4=39204$. $\blacksquare$
 
-### Review Problem 3
+## Review Problem 3
 
 (Review Problems, Review and Consolidation, Problem 3) Calculate:
 
@@ -90,7 +94,7 @@ By the rules for division of monomials and polynomials.
 
 (4) $\left(7x^2 y^3-8x^3 y^2 z\right)\div\left(8x^2 y^2\right)=\frac78 y-xz$. $\blacksquare$
 
-### Review Problem 4
+## Review Problem 4
 
 (Review Problems, Review and Consolidation, Problem 4) Calculate:
 
@@ -104,7 +108,7 @@ By the rules for division of monomials and polynomials.
 
 (2) $\left[\left(x-3\right)\left(x+3\right)\right]^2-\left(x^2+1\right)^2=\left(x^2-9\right)^2-\left(x^2+1\right)^2=\left(x^4-18x^2+81\right)-\left(x^4+2x^2+1\right)=-20x^2+80$. $\blacksquare$
 
-### Review Problem 5
+## Review Problem 5
 
 (Review Problems, Review and Consolidation, Problem 5) First simplify, then evaluate: $\left(x+2y\right)^2+\left(x+y\right)\left(x-y\right)-y^2$, where $x=3$, $y=2$.
 
@@ -114,7 +118,7 @@ $$\left(x+2y\right)^2+\left(x+y\right)\left(x-y\right)-y^2=x^2+4xy+4y^2+x^2-y^2-
 
 Substituting $x=3,y=2$, we get $2\cdot9+4\cdot6+2\cdot4=18+24+8=50$. $\blacksquare$
 
-### Review Problem 6
+## Review Problem 6
 
 (Review Problems, Comprehensive Application, Problem 6) Calculate:
 
@@ -136,7 +140,7 @@ Substituting $x=3,y=2$, we get $2\cdot9+4\cdot6+2\cdot4=18+24+8=50$. $\blacksqua
 
 (4) $\left[x^3 y^2-x^2 y-x^2 y+x^3 y^2\right]\div\left(3x^2 y\right)=\left(2x^3 y^2-2x^2 y\right)\div\left(3x^2 y\right)=\frac23 xy-\frac23$. $\blacksquare$
 
-### Review Problem 7
+## Review Problem 7
 
 (Review Problems, Comprehensive Application, Problem 7) Given $m=12$, $n=35$, find the value of the algebraic expression $\left(m-2n\right)\left(m+2n\right)+\left(m+2n\right)^2-4mn$.
 
@@ -146,7 +150,7 @@ $$\left(m-2n\right)\left(m+2n\right)+\left(m+2n\right)^2-4mn=m^2-4n^2+\left(m^2+
 
 Substituting $m=12$, we get $2\cdot144=288$. $\blacksquare$
 
-### Review Problem 8
+## Review Problem 8
 
 (Review Problems, Comprehensive Application, Problem 8) Given $\left(x+y\right)^2=25$, $\left(x-y\right)^2=9$, find the values of $xy$ and $x^2+y^2$.
 
@@ -158,7 +162,7 @@ Subtracting the two equations: $4xy=16$, hence $xy=4$.
 
 Adding the two equations: $2\left(x^2+y^2\right)=34$, hence $x^2+y^2=17$. $\blacksquare$
 
-### Review Problem 9
+## Review Problem 9
 
 (Review Problems, Comprehensive Application, Problem 9) When the side length of a square sheet is reduced by $2\ \text{cm}$, its area decreases by $20\ \text{cm}^2$. What is the side length of this square sheet?
 
@@ -172,7 +176,7 @@ $$x^2-\left(x^2-4x+4\right)=4x-4=20,$$
 
 Solving gives $x=6$. That is, the original side length of the square is $6\ \text{cm}$. $\blacksquare$
 
-### Review Problem 10
+## Review Problem 10
 
 (Review Problems, Comprehensive Application, Problem 10) As shown in the figure is a schematic diagram of a hollow steel column of a hydraulic press. If its height $h$ is $18\ \text{m}$, its outer diameter $D$ is $1\ \text{m}$, its inner diameter $d$ is $0.4\ \text{m}$, and the mass of steel per cubic meter is $7.8\ \text{t}$, find the mass of this column. (Take $\pi$ as $3.14$, and keep the result to two decimal places.)
 
@@ -186,15 +190,15 @@ $$V=\pi\left(\frac{D^2}{4}-\frac{d^2}{4}\right)h=3.14\times\frac{1-0.16}{4}\time
 
 The mass is $11.8692\times7.8\approx92.58\ \left(\text{t}\right)$. $\blacksquare$
 
-### Review Problem 11
+## Review Problem 11
 
 (Review Problems, Extension and Exploration, Problem 11) Given $x^m=64$, $x^n=8$, find the value of $x^{m-n}$.
 
 ### Solution to Review Problem 11
 
-By **Definition 16.2.4** (Division of Powers with the Same Base), $x^{m-n}=x^m\div x^n=64\div8=8$. $\blacksquare$
+By **Basic Knowledge: Division of Powers with the Same Base**, $x^{m-n}=x^m\div x^n=64\div8=8$. $\blacksquare$
 
-### Review Problem 12
+## Review Problem 12
 
 (Review Problems, Extension and Exploration, Problem 12) The raw materials for a certain product have risen in price, so the manufacturer decides to raise the product's price. There are three schemes:
 

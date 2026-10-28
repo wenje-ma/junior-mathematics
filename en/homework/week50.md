@@ -1,14 +1,14 @@
-# Assignment 50
+# week50
 
-> **Definition 10.2.2** (Substitution Elimination) <br>Express one unknown of one equation in terms of an expression containing the other unknown, then substitute into the other equation to eliminate the unknown.
-> 
-> **Definition 10.2.3** (Addition-Subtraction Elimination) <br>When the coefficients of the same unknown in the two equations are opposite or equal, add or subtract both sides respectively to eliminate this unknown.
-> 
-> **Method 10.4.2** (Solving a System of Linear Equations in Three Variables) <br>First eliminate one unknown to reduce the three-variable system to a two-variable one, then to a one-variable equation.
-> 
-> **Method 10.3.1** (Solving Word Problems by Setting Up a System of Equations) <br>Set up the unknowns, find the equal relationships, set up the system, solve and check.
+> **Basic Knowledge: Substitution Elimination**<br>Express one unknown of one equation in terms of an expression containing the other unknown, then substitute into the other equation to eliminate the unknown.
 
-### Review Exercise 1
+> **Basic Knowledge: Addition-Subtraction Elimination**<br>When the coefficients of the same unknown in the two equations are opposite or equal, add or subtract both sides respectively to eliminate this unknown.
+
+
+> **Basic Knowledge: Solving a System of Linear Equations in Three Variables**<br>Use substitution or elimination to reduce a system of three equations with three unknowns step by step to one equation in one unknown.
+---
+
+## Review Exercise 1
 
 (Review Exercise, Review and Consolidation, Problem 1) Solve the following systems by the substitution method:
 
@@ -22,7 +22,7 @@
 
 ### Solution to Review Exercise 1
 
-By **Definition 10.2.2** (Substitution Elimination).
+By **Basic Knowledge: Substitution Elimination**.
 
 (1) $2b+3=3b+20$, giving $b=-17$, $a=-31$.
 
@@ -32,7 +32,10 @@ By **Definition 10.2.2** (Substitution Elimination).
 
 (4) Substitute $y=5x-110$: $9\left(5x-110\right)-x=110$, giving $x=25$, $y=15$. $\blacksquare$
 
-### Review Exercise 2
+
+---
+
+## Review Exercise 2
 
 (Review Exercise, Review and Consolidation, Problem 2) Solve the following systems by the addition-subtraction method:
 
@@ -46,7 +49,7 @@ By **Definition 10.2.2** (Substitution Elimination).
 
 ### Solution to Review Exercise 2
 
-By **Definition 10.2.3** (Addition-Subtraction Elimination).
+By **Basic Knowledge: Addition-Subtraction Elimination**.
 
 (1) Add the two equations: $-m=22$, $m=-22$, $b=77$.
 
@@ -56,7 +59,10 @@ By **Definition 10.2.3** (Addition-Subtraction Elimination).
 
 (4) Subtract the two equations: $2y=-8$, $y=-4$; substituting back $0.5x-4=2$, $x=12$. $\blacksquare$
 
-### Review Exercise 3
+
+---
+
+## Review Exercise 3
 
 (Review Exercise, Review and Consolidation, Problem 3) Solve the following systems:
 
@@ -70,7 +76,10 @@ By **Definition 10.2.3** (Addition-Subtraction Elimination).
 
 (2) Multiply the first equation by $12$: $8\left(x-y\right)-3\left(x+y\right)=-12$, i.e. $5x-11y=-12$. Simplify the second: $-2x+10y=16$, i.e. $x=5y-8$. Substitute: $5\left(5y-8\right)-11y=-12$, giving $y=2$, $x=2$. $\blacksquare$
 
-### Review Exercise 4
+
+---
+
+## Review Exercise 4
 
 (Review Exercise, Review and Consolidation, Problem 4) Solve the following systems of linear equations in three variables:
 
@@ -80,13 +89,16 @@ By **Definition 10.2.3** (Addition-Subtraction Elimination).
 
 ### Solution to Review Exercise 4
 
-By **Method 10.4.2** (Solving a System of Linear Equations in Three Variables).
+By **Basic Knowledge: Solving a System of Linear Equations in Three Variables**.
 
 (1) Subtract the third from the second: $x-4z=-1$, i.e. $x=4z-1$. Add the first and second: $5x-2z=14$. Substitute: $5\left(4z-1\right)-2z=14$, giving $z=\frac{19}{18}$, $x=\frac{29}{9}$; substituting back into the third equation $y=12-\frac{29}{9}-\frac{19}{18}=\frac{139}{18}$.
 
 (2) From the third equation $z=3x+2y-18$; substitute into the first: $17x+4y=85$; substitute into the second: $-7x+y=-35$, i.e. $y=7x-35$. Substitute: $17x+4\left(7x-35\right)=85$, giving $x=5$, $y=0$, $z=-3$. $\blacksquare$
 
-### Review Exercise 5
+
+---
+
+## Review Exercise 5
 
 (Review Exercise, Review and Consolidation, Problem 5) Warehouse No. 1 and Warehouse No. 2 together hold $450\ \text{t}$ of grain. Now $60\%$ of the stored grain is shipped out from Warehouse No. 1 and $40\%$ from Warehouse No. 2; as a result, the grain remaining in Warehouse No. 2 is $30\ \text{t}$ more than that remaining in Warehouse No. 1. How many tons of grain did Warehouse No. 1 and Warehouse No. 2 originally hold?
 
@@ -103,7 +115,10 @@ $$
 
 Substitute $x=450-y$: $0.6y-0.4\left(450-y\right)=30$, giving $y=210$, $x=240$. Thus Warehouse No. 1 originally held $240\ \text{t}$ and Warehouse No. 2 originally held $210\ \text{t}$. $\blacksquare$
 
-### Review Exercise 6
+
+---
+
+## Review Exercise 6
 
 (Review Exercise, Comprehensive Application, Problem 6) Wang Fang spent $19$ yuan buying some markers and gel pens; the markers and gel pens cost $5$ yuan each and $3$ yuan each respectively. How many markers did Wang Fang buy? How many gel pens?
 
@@ -113,7 +128,10 @@ Let $x$ be the markers and $y$ the gel pens; then $5x+3y=19$, with $x$, $y$ posi
 
 From $y=\frac{19-5x}{3}> 0$, we get $x< \frac{19}{5}$, so $x$ can take $1,2,3$. Only when $x=2$ is $y=3$ an integer. Thus there are $2$ markers and $3$ gel pens. $\blacksquare$
 
-### Review Exercise 7
+
+---
+
+## Review Exercise 7
 
 (Review Exercise, Comprehensive Application, Problem 7) A city has tiered water pricing: each household using no more than $12\ \text{m}^3$ per month is charged at the tier-1 rate, and the excess is charged at the tier-2 rate. In May, Zhang Hua's family used $14\ \text{m}^3$ and paid $37.6$ yuan; Li Ming's family used $17\ \text{m}^3$ and paid $47.2$ yuan. What are the tier-1 and tier-2 water prices per cubic meter?
 
@@ -130,7 +148,10 @@ $$
 
 Subtract the two equations: $3b=9.6$, $b=3.2$; substituting back $12a+6.4=37.6$, $a=2.6$. Thus the tier-1 rate is $2.6$ yuan per cubic meter and the tier-2 rate is $3.2$ yuan per cubic meter. $\blacksquare$
 
-### Review Exercise 8
+
+---
+
+## Review Exercise 8
 
 (Review Exercise, Comprehensive Application, Problem 8) A shop sells "Bing Dwen Dwen" and "Shuey Rhon Rhon" figurines: in the first month it sold $100$ Bing Dwen Dwen and $40$ Shuey Rhon Rhon, with sales revenue $12320$ yuan; in the second month it sold $160$ Bing Dwen Dwen and $60$ Shuey Rhon Rhon, with revenue $19360$ yuan. Find the retail prices of the two figurines.
 
@@ -147,7 +168,10 @@ $$
 
 Multiply the first equation by $3$ and the second by $2$ and subtract: $-20x=-1760$, $x=88$; substituting back $8800+40y=12320$, $y=88$. Thus the retail price of both figurines is $88$ yuan each. $\blacksquare$
 
-### Review Exercise 9
+
+---
+
+## Review Exercise 9
 
 (Review Exercise, Comprehensive Application, Problem 9) A and B run on a circular track, starting at the same time and place: running in opposite directions they meet every $2\ \text{min}$; running in the same direction they meet every $6\ \text{min}$. A is faster than B. How many minutes does A and B each take to run one lap?
 
@@ -157,7 +181,10 @@ Let $x$ laps per minute be A and $y$ laps per minute be B. Opposite directions: 
 
 That is, $x+y=\frac{1}{2}$, $x-y=\frac{1}{6}$. Adding gives $2x=\frac{2}{3}$, $x=\frac{1}{3}$, $y=\frac{1}{6}$. Thus A takes $3\ \text{min}$ per lap and B takes $6\ \text{min}$ per lap. $\blacksquare$
 
-### Review Exercise 10
+
+---
+
+## Review Exercise 10
 
 (Review Exercise, Comprehensive Application, Problem 10) From the *Nine Chapters on the Mathematical Art*: now five large vessels and one small vessel hold three hu; one large vessel and five small vessels hold two hu. How many hu do a large and a small vessel hold respectively?
 
@@ -174,7 +201,10 @@ $$
 
 Multiply the first equation by $5$ and subtract the second: $24x=13$, $x=\frac{13}{24}$; substituting back $y=3-\frac{65}{24}=\frac{7}{24}$. Thus the large vessel holds $\frac{13}{24}$ hu and the small vessel holds $\frac{7}{24}$ hu. $\blacksquare$
 
-### Review Exercise 11
+
+---
+
+## Review Exercise 11
 
 (Review Exercise, Extension and Exploration, Problem 11) There are 10 coins each of 1-jiao, 5-jiao, and 1-yuan denominations; take 15 coins totaling 7 yuan. How many coins of each denomination are taken?
 
@@ -191,7 +221,10 @@ $$
 
 Subtract the two equations: $0.9x+0.5y=8$, i.e. $9x+5y=80$. From $y=\frac{80-9x}{5}\ge0$ and integral, $x$ must be a multiple of $5$; only $x=5$ gives $y=7$, $z=3$, which are non-negative integers not exceeding $10$. Thus take $5$ 1-jiao coins, $7$ 5-jiao coins, and $3$ 1-yuan coins. $\blacksquare$
 
-### Review Exercise 12
+
+---
+
+## Review Exercise 12
 
 (Review Exercise, Extension and Exploration, Problem 12) A middle school spends $100500$ yuan to buy $36$ computers of type A ($6000$ yuan each), type B ($4000$ yuan each), and type C ($2500$ yuan each), buying only two of the three types. Design a purchase plan.
 

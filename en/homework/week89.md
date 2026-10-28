@@ -1,10 +1,14 @@
-# Assignment 89
+# week89
 
-> **Definition 18.3.1** (Addition and Subtraction of Fractions with the Same Denominator) <br>To add or subtract fractions with the same denominator, keep the denominator unchanged and add or subtract the numerators, i.e. $\frac{a}{c}\pm\frac{b}{c}=\frac{a\pm b}{c}$.
+> **Basic Knowledge: Addition and Subtraction of Fractions with the Same Denominator**<br>To add or subtract fractions with the same denominator, keep the denominator unchanged and add or subtract the numerators, i.e. $\frac{a}{c}\pm\frac{b}{c}=\frac{a\pm b}{c}$.
+> **Basic Knowledge: Addition and Subtraction of Fractions with Different Denominators**<br>First find a common denominator, then add or subtract the numerators.
 
-> **Definition 18.3.2** (Addition and Subtraction of Fractions with Different Denominators) <br>To add or subtract fractions with different denominators, first find a common denominator to convert them into fractions with the same denominator, then add or subtract, i.e. $\frac{a}{b}\pm\frac{c}{d}=\frac{ad\pm bc}{bd}$.
+---
 
-### Exercise 1
+
+> **Basic Knowledge: Addition and Subtraction of Fractions with Different Denominators** <br>To add or subtract fractions with different denominators, first find a common denominator to convert them into fractions with the same denominator, then add or subtract, i.e. $\frac{a}{b}\pm\frac{c}{d}=\frac{ad\pm bc}{bd}$.
+
+## Exercise 1
 
 (Exercise 18.3, Problem 1) Calculate:
 
@@ -18,7 +22,7 @@
 
 ### Solution to Exercise 1
 
-By **Definition 18.3.1** (Addition and Subtraction of Fractions with the Same Denominator).
+By **Basic Knowledge: Addition and Subtraction of Fractions with the Same Denominator**.
 
 (1) $\frac{3}{a}+\frac{1}{a}=\frac{4}{a}$.
 
@@ -28,7 +32,7 @@ By **Definition 18.3.1** (Addition and Subtraction of Fractions with the Same De
 
 (4) $\frac{a^2}{a-1}-a-1=\frac{a^2-\left(a+1\right)\left(a-1\right)}{a-1}=\frac{a^2-\left(a^2-1\right)}{a-1}=\frac{1}{a-1}$. $\blacksquare$
 
-### Exercise 2
+## Exercise 2
 
 (Exercise 18.3, Problem 1) Calculate:
 
@@ -42,7 +46,7 @@ By **Definition 18.3.1** (Addition and Subtraction of Fractions with the Same De
 
 ### Solution to Exercise 2
 
-By **Definition 18.3.2** (Addition and Subtraction of Fractions with Different Denominators).
+By **Basic Knowledge: Addition and Subtraction of Fractions with Different Denominators**.
 
 (1) Common denominator $6c^2 d^2$: $\frac{1}{2c^2 d}+\frac{1}{3cd^2}=\frac{3d+2c}{6c^2 d^2}$.
 
@@ -52,7 +56,7 @@ By **Definition 18.3.2** (Addition and Subtraction of Fractions with Different D
 
 (4) $\frac{a}{a-b}+\frac{b^2}{a\left(b-a\right)}=\frac{a}{a-b}-\frac{b^2}{a\left(a-b\right)}=\frac{a^2-b^2}{a\left(a-b\right)}=\frac{a+b}{a}$. $\blacksquare$
 
-### Exercise 3
+## Exercise 3
 
 (Exercise 18.3, Problem 2) Calculate:
 
@@ -66,7 +70,7 @@ By **Definition 18.3.2** (Addition and Subtraction of Fractions with Different D
 
 (2) $1-\frac{1}{a+1}=\frac{\left(a+1\right)-1}{a+1}=\frac{a}{a+1}$. $\blacksquare$
 
-### Problem 1
+## Problem 1
 
 (Exercise 18.3, Review and Consolidation, Problem 1) Calculate:
 
@@ -80,7 +84,7 @@ By **Definition 18.3.2** (Addition and Subtraction of Fractions with Different D
 
 ### Solution to Problem 1
 
-By **Definition 18.3.1**.
+By **Basic Knowledge**.
 
 (1) $\frac{15}{5a}+\frac{a-15}{5a}=\frac{a}{5a}=\frac15$.
 
@@ -90,7 +94,7 @@ By **Definition 18.3.1**.
 
 (4) $\frac{x^2-4x+4}{x-2}=\frac{\left(x-2\right)^2}{x-2}=x-2$. $\blacksquare$
 
-### Problem 2
+## Problem 2
 
 (Exercise 18.3, Review and Consolidation, Problem 2) Calculate:
 
@@ -104,7 +108,7 @@ By **Definition 18.3.1**.
 
 ### Solution to Problem 2
 
-By **Definition 18.3.2**.
+By **Basic Knowledge**.
 
 (1) $\frac{\left(x+1\right)-x}{x\left(x+1\right)}=\frac{1}{x\left(x+1\right)}$.
 
@@ -114,7 +118,7 @@ By **Definition 18.3.2**.
 
 (4) $\frac{x}{x+1}-\frac{2}{\left(x+1\right)\left(x-1\right)}=\frac{x\left(x-1\right)-2}{\left(x+1\right)\left(x-1\right)}=\frac{x^2-x-2}{\left(x+1\right)\left(x-1\right)}=\frac{\left(x-2\right)\left(x+1\right)}{\left(x+1\right)\left(x-1\right)}=\frac{x-2}{x-1}$. $\blacksquare$
 
-### Problem 3
+## Problem 3
 
 (Exercise 18.3, Review and Consolidation, Problem 3) Calculate:
 
@@ -136,7 +140,7 @@ By **Definition 18.3.2**.
 
 (4) $\frac{2y}{x-y}+\frac{2x}{x-y}=\frac{2x+2y}{x-y}$. $\blacksquare$
 
-### Problem 4
+## Problem 4
 
 (Exercise 18.3, Comprehensive Application, Problem 4) Calculate:
 
@@ -150,7 +154,7 @@ By **Definition 18.3.2**.
 
 (2) $\frac{3a\left(a+3\right)-a\left(a-3\right)}{\left(a-3\right)\left(a+3\right)}\cdot\frac{\left(a-3\right)\left(a+3\right)}{a}=\frac{3a^2+9a-a^2+3a}{a}=\frac{2a^2+12a}{a}=2a+12$. $\blacksquare$
 
-### Problem 5
+## Problem 5
 
 (Exercise 18.3, Comprehensive Application, Problem 5) First simplify, then evaluate:
 
@@ -162,7 +166,7 @@ $$\frac{\left(x^2-y^2\right)^2}{x^2 y^2}\cdot\frac{1}{\left(x+y\right)^2}\cdot\f
 
 Substituting $x=2,y=1$, we get $\frac{2}{1\cdot1}=2$. $\blacksquare$
 
-### Problem 6
+## Problem 6
 
 (Exercise 18.3, Comprehensive Application, Problem 6) Calculate: $\frac{1}{1\times2}+\frac{1}{2\times3}+\frac{1}{3\times4}+\cdots+\frac{1}{99\times100}$.
 
@@ -174,7 +178,7 @@ $$\left(1-\frac12\right)+\left(\frac12-\frac13\right)+\cdots+\left(\frac{1}{99}-
 
 $\blacksquare$
 
-### Problem 7
+## Problem 7
 
 (Exercise 18.3, Extension and Exploration, Problem 7) Calculate: $\frac{1}{x\left(x+1\right)}+\frac{1}{\left(x+1\right)\left(x+2\right)}+\frac{1}{\left(x+2\right)\left(x+3\right)}$.
 
@@ -186,7 +190,7 @@ $$\left(\frac1x-\frac{1}{x+1}\right)+\left(\frac{1}{x+1}-\frac{1}{x+2}\right)+\l
 
 $\blacksquare$
 
-### Problem 8
+## Problem 8
 
 (Exercise 18.3, Extension and Exploration, Problem 8) A computer manufacturer produces a certain computer at a cost of $x$ yuan per unit. The company decides: if the selling price of each computer is $y$ yuan, what is the profit margin (profit margin $=\frac{售价-成本}{成本}$)? When $x=5000$ and $y=6000$, what is the profit margin?
 

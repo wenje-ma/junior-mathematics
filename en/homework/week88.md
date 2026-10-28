@@ -1,12 +1,14 @@
-# Assignment 88
+# week88
 
-> **Definition 18.2.1** (Rule for Multiplying Fractions) <br>To multiply a fraction by a fraction, take the product of the numerators as the numerator of the result and the product of the denominators as the denominator, i.e. $\frac{a}{b}\cdot\frac{c}{d}=\frac{ac}{bd}$.
+> **Basic Knowledge: Rule for Multiplying Fractions**<br>To multiply a fraction by a fraction, take the product of the numerators as the numerator of the result and the product of the denominators as the denominator, i.e. $\frac{a}{b}\cdot\frac{c}{d}=\frac{ac}{bd}$.
+---
 
-> **Definition 18.2.2** (Rule for Dividing Fractions) <br>To divide a fraction by a fraction, invert the numerator and denominator of the divisor and multiply by the dividend, i.e. $\frac{a}{b}\div\frac{c}{d}=\frac{ad}{bc}$.
 
-> **Definition 18.2.3** (Power of a Fraction) <br>When $n$ is a positive integer, $\left(\frac{a}{b}\right)^n=\frac{a^n}{b^n}$, i.e. to raise a fraction to a power, raise both the numerator and denominator to that power.
+> **Basic Knowledge: Rule for Dividing Fractions** <br>To divide a fraction by a fraction, invert the numerator and denominator of the divisor and multiply by the dividend, i.e. $\frac{a}{b}\div\frac{c}{d}=\frac{ad}{bc}$.
 
-### Exercise 1
+> **Basic Knowledge: Power of a Fraction** <br>When $n$ is a positive integer, $\left(\frac{a}{b}\right)^n=\frac{a^n}{b^n}$, i.e. to raise a fraction to a power, raise both the numerator and denominator to that power.
+
+## Exercise 1
 
 (Exercise 18.2, Problem 1) Calculate:
 
@@ -20,7 +22,7 @@
 
 ### Solution to Exercise 1
 
-By **Definition 18.2.1**.
+By **Basic Knowledge**.
 
 (1) $\frac{3a}{4b}\cdot\frac{2b}{a^2}=\frac{6ab}{4a^2 b}=\frac{3}{2a}$.
 
@@ -30,7 +32,7 @@ By **Definition 18.2.1**.
 
 (4) $\frac{a+b}{2ab}\cdot\frac{4a^2 b}{\left(a+b\right)^2}=\frac{4a^2 b\left(a+b\right)}{2ab\left(a+b\right)^2}=\frac{2a}{a+b}$. $\blacksquare$
 
-### Exercise 2
+## Exercise 2
 
 (Exercise 18.2, Problem 2) Calculate:
 
@@ -40,13 +42,13 @@ By **Definition 18.2.1**.
 
 ### Solution to Exercise 2
 
-By **Definition 18.2.1**.
+By **Basic Knowledge**.
 
 (1) $\frac{4x}{3y}\cdot\frac{y}{2x^3}=\frac{4xy}{6x^3 y}=\frac{2}{3x^2}$.
 
 (2) $\frac{a^2 b}{2c^2}\cdot\frac{-4c}{5ab}=-\frac{4a^2 bc}{10abc^2}=-\frac{2a}{5c}$. $\blacksquare$
 
-### Exercise 3
+## Exercise 3
 
 (Exercise 18.2, Problem 1) Calculate:
 
@@ -60,7 +62,7 @@ By **Definition 18.2.1**.
 
 ### Solution to Exercise 3
 
-By **Definition 18.2.2**.
+By **Basic Knowledge**.
 
 (1) $\frac{2}{x}\div\frac{4}{x}=\frac{2}{x}\cdot\frac{x}{4}=\frac12$.
 
@@ -70,7 +72,7 @@ By **Definition 18.2.2**.
 
 (4) $\frac{a^2-4}{a^2+4a+4}\div\left(a+2\right)=\frac{\left(a+2\right)\left(a-2\right)}{\left(a+2\right)^2}\cdot\frac{1}{a+2}=\frac{a-2}{\left(a+2\right)^2}$. $\blacksquare$
 
-### Exercise 4
+## Exercise 4
 
 (Exercise 18.2, Problem 2) Calculate:
 
@@ -84,7 +86,7 @@ By **Definition 18.2.2**.
 
 (2) $\left(xy-x^2\right)\div\frac{x-y}{xy}=x\left(y-x\right)\cdot\frac{xy}{x-y}=-x\left(x-y\right)\cdot\frac{xy}{x-y}=-x^2 y$. $\blacksquare$
 
-### Exercise 5
+## Exercise 5
 
 (Exercise 18.2, Problem 1) Are the following expressions correct? Why?
 
@@ -96,7 +98,7 @@ By **Definition 18.2.2**.
 
 ### Solution to Exercise 5
 
-By **Definition 18.2.3**.
+By **Basic Knowledge**.
 
 (1) Correct; $\left(\frac{b^2}{a}\right)^3=\frac{\left(b^2\right)^3}{a^3}=\frac{b^6}{a^3}$.
 
@@ -104,7 +106,7 @@ By **Definition 18.2.3**.
 
 (3) Incorrect; $\left(\frac{2a}{a+b}\right)^2=\frac{4a^2}{\left(a+b\right)^2}$, the denominator should also be squared. $\blacksquare$
 
-### Exercise 6
+## Exercise 6
 
 (Exercise 18.2, Problem 2) Calculate:
 
@@ -114,13 +116,13 @@ By **Definition 18.2.3**.
 
 ### Solution to Exercise 6
 
-By **Definition 18.2.3**.
+By **Basic Knowledge**.
 
 (1) $\left(\frac{2x}{-y}\right)^2=\frac{4x^2}{y^2}$.
 
 (2) $\frac{a^6 b^3}{-c^3}\div\frac{a^2 b^2}{c^4}=-\frac{a^6 b^3}{c^3}\cdot\frac{c^4}{a^2 b^2}=-a^4 b c$. $\blacksquare$
 
-### Problem 1
+## Problem 1
 
 (Exercise 18.2, Review and Consolidation, Problem 1) Calculate:
 
@@ -142,7 +144,7 @@ By **Definition 18.2.3**.
 
 (4) $\frac{6ab^2}{c^2 d}\div\frac{3ab}{2cd^2}=\frac{6ab^2}{c^2 d}\cdot\frac{2cd^2}{3ab}=\frac{4bd}{c}$. $\blacksquare$
 
-### Problem 2
+## Problem 2
 
 (Exercise 18.2, Review and Consolidation, Problem 2) Calculate:
 
@@ -164,7 +166,7 @@ By **Definition 18.2.3**.
 
 (4) $\frac{2x}{x-1}\div\frac{x}{x-1}=\frac{2x}{x-1}\cdot\frac{x-1}{x}=2$. $\blacksquare$
 
-### Problem 3
+## Problem 3
 
 (Exercise 18.2, Review and Consolidation, Problem 3) Calculate:
 
@@ -178,7 +180,7 @@ By **Definition 18.2.3**.
 
 ### Solution to Problem 3
 
-By **Definition 18.2.3**.
+By **Basic Knowledge**.
 
 (1) $\left(\frac{-2a^2 b}{3c}\right)^3=-\frac{8a^6 b^3}{27c^3}$.
 
@@ -188,7 +190,7 @@ By **Definition 18.2.3**.
 
 (4) $\frac{x^4}{y^2}\cdot\left(-\frac{y^6}{x^3}\right)=-x y^4$. $\blacksquare$
 
-### Problem 4
+## Problem 4
 
 (Exercise 18.2, Comprehensive Application, Problem 4) Calculate:
 
@@ -202,7 +204,7 @@ By **Definition 18.2.3**.
 
 (2) $\frac{a-b}{a\left(a+b\right)}\div\frac{a\left(a-b\right)}{\left(a+b\right)\left(a-b\right)}=\frac{a-b}{a\left(a+b\right)}\cdot\frac{\left(a+b\right)\left(a-b\right)}{a\left(a-b\right)}=\frac{a-b}{a^2}$. $\blacksquare$
 
-### Problem 5
+## Problem 5
 
 (Exercise 18.2, Comprehensive Application, Problem 5) Calculate:
 
@@ -216,7 +218,7 @@ By **Definition 18.2.3**.
 
 (2) $\left(\frac{2x}{x+y}-\frac{x}{x-y}\right)\cdot\frac{\left(x+y\right)\left(x-y\right)}{x}=\frac{2x\left(x-y\right)-x\left(x+y\right)}{\left(x+y\right)\left(x-y\right)}\cdot\frac{\left(x+y\right)\left(x-y\right)}{x}=2\left(x-y\right)-\left(x+y\right)=x-3y$. $\blacksquare$
 
-### Problem 6
+## Problem 6
 
 (Exercise 18.2, Comprehensive Application, Problem 6) As shown in the figure, there are two rectangular flower beds, A and B. Flower bed A has length $a$ and width $b$; flower bed B has length $\left(a+b\right)$ and width $\left(a-b\right)$ ($a> b$). Which flower bed has the larger area? By how much?
 
@@ -232,7 +234,7 @@ $$S_2-S_1=a^2-b^2-ab.$$
 
 When $a^2-ab-b^2> 0$, i.e. $a> \frac{1+\sqrt5}{2}b$, flower bed B is larger. Under the textbook setup, the area of flower bed B is $a^2-b^2$ and that of A is $ab$, so B is larger than A by $\left(a^2-b^2-ab\right)$. $\blacksquare$
 
-### Problem 7
+## Problem 7
 
 (Exercise 18.2, Comprehensive Application, Problem 7) A car makes a round trip between two places A and B $a\ \text{km}$ apart; the speed going is $v_1\ \text{km/h}$ and the speed returning is $v_2\ \text{km/h}$. Find the average speed for the round trip.
 
@@ -246,7 +248,7 @@ $$\overline v=\frac{2a}{\frac{a}{v_1}+\frac{a}{v_2}}=\frac{2a}{a\frac{v_1+v_2}{v
 
 $\blacksquare$
 
-### Problem 8
+## Problem 8
 
 (Exercise 18.2, Extension and Exploration, Problem 8) Calculate: $\frac{x^2-4 y^2}{x^2+2 x y+y^2}\div\frac{x+2 y}{x^2+xy}\cdot\frac{x}{x-2 y}$.
 

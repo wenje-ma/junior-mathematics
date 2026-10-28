@@ -1,10 +1,12 @@
-# Assignment 153
+# week153
 
-> **Theorem 29.1.1** (Three Points Determine a Circle) <br>Three points not on the same line determine a circle.
-> 
-> **Property 29.2.3** (Property of a Cyclic Quadrilateral) <br>The opposite angles of a cyclic quadrilateral are supplementary.
-> 
-> **Theorem 29.2.3** (Inscribed Angle Theorem) <br>The inscribed angle subtended by an arc is half of the central angle subtended by that arc.
+> **Basic Knowledge: Three Points Determine a Circle**<br>Three points not on the same line determine a circle.
+> **Basic Knowledge: Property of a Cyclic Quadrilateral**<br>The opposite angles of a cyclic quadrilateral are supplementary.
+> **Basic Knowledge: Inscribed Angle Theorem**<br>The inscribed angle subtended by an arc is half of the central angle subtended by that arc.
+> **Basic Knowledge: Relationship Among Central Angles, Arcs, and Chords**<br>In the same circle or equal circles, equal central angles subtend equal arcs and equal chords.
+
+---
+
 
 ### Activity 1
 
@@ -12,7 +14,7 @@
 
 ### Solution to Activity 1
 
-By **Theorem 29.2.2** (Relationship Among Central Angles, Arcs, and Chords).
+By **Basic Knowledge: Relationship Among Central Angles, Arcs, and Chords**.
 
 $AB$ is a diameter and $OC\perp AB$, so $\angle AOC=\angle COB=\angle BOD=\angle DOA=90^\circ$. Since equal central angles subtend equal arcs, $\overset{\frown}{AC}=\overset{\frown}{CB}=\overset{\frown}{BD}=\overset{\frown}{DA}$, dividing the circumference into four equal parts.
 
@@ -24,6 +26,6 @@ Eight equal parts: draw the angle bisector of the central angle ($90^\circ$) sub
 
 ### Solution to Activity 2
 
-By **Property 29.2.3** (Property of a Cyclic Quadrilateral) and its converse.
+By **Basic Knowledge: Property of a Cyclic Quadrilateral** and its converse.
 
 The condition that a circle can be drawn through the four vertices of a quadrilateral is that the opposite angles of the quadrilateral are supplementary. If $\angle B+\angle D=180^\circ$, then the four points are concyclic; otherwise they are not. Proof: suppose a circle is drawn through the three points $A$, $B$, $C$; if $D$ lies on the circle, then $\angle B+\angle D=180^\circ$; if it does not, then the sum of $\angle B$ and $\angle D$ is not equal to $180^\circ$. Hence supplementary opposite angles is a necessary and sufficient condition for four points to be concyclic. $\blacksquare$

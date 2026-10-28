@@ -1,10 +1,12 @@
-# Assignment 91
+# week91
 
-> **Definition 18.5.1** (Fractional Equation) <br>An equation whose denominator contains an unknown is called a fractional equation.
+> **Basic Knowledge: Fractional Equation**<br>An equation whose denominator contains an unknown is called a fractional equation.
+---
 
-> **Definition 18.5.2** (Checking the Solution of a Fractional Equation) <br>After clearing denominators when solving a fractional equation, substitute the solution of the integral equation into the least common denominator; if the value of the least common denominator is not $0$, then the solution of the integral equation is the solution of the original fractional equation; otherwise, this solution is not a solution of the original fractional equation.
 
-### Exercise 1
+> **Basic Knowledge: Checking the Solution of a Fractional Equation** <br>After clearing denominators when solving a fractional equation, substitute the solution of the integral equation into the least common denominator; if the value of the least common denominator is not $0$, then the solution of the integral equation is the solution of the original fractional equation; otherwise, this solution is not a solution of the original fractional equation.
+
+## Exercise 1
 
 (Exercise 18.5, Problem 1) Solve the following equations:
 
@@ -36,7 +38,7 @@ Clear the denominators to obtain an integral equation, then check.
 
 (6) Multiply by $x\left(x+1\right)\left(x-1\right)$: $5\left(x-1\right)-\left(x+1\right)=0$, $5x-5-x-1=0$, $4x=6$, $x=\frac32$. The check holds. $\blacksquare$
 
-### Exercise 2
+## Exercise 2
 
 (Exercise 18.5, Problem 1) Eighth-grade students go to the Museum of the Chinese People's War of Resistance Against Japanese Aggression, $30\ \text{km}$ from the school; some students set off first by coach, and after $5\ \text{min}$ the rest set off by minibus, and they arrive at the same time. Given that the average speed of the minibus is $1.2$ times that of the coach, find the average speed of the coach.
 
@@ -50,7 +52,7 @@ $$\frac{36-30}{1.2x}=\frac{1}{12},\quad \frac{6}{1.2x}=\frac{1}{12},\quad 1.2x=7
 
 Checking, when $x=60$ the denominator is not $0$. Hence the coach's average speed is $60\ \text{km/h}$. $\blacksquare$
 
-### Exercise 3
+## Exercise 3
 
 (Exercise 18.5, Problem 2) A and B are making a certain mechanical part. Given that A makes $6$ more parts per hour than B, the time A takes to make $90$ parts equals the time B takes to make $60$ parts. Find how many parts A and B each make per hour.
 
@@ -64,7 +66,7 @@ $90x=60\left(x+6\right)=60x+360$, $30x=360$, $x=12$. The check holds.
 
 Hence B makes $12$ parts per hour, and A makes $18$ parts per hour. $\blacksquare$
 
-### Problem 1
+## Problem 1
 
 (Exercise 18.5, Review and Consolidation, Problem 1) Solve the following equations:
 
@@ -102,7 +104,7 @@ Hence B makes $12$ parts per hour, and A makes $18$ parts per hour. $\blacksquar
 
 (8) Multiply by $2\left(2x-1\right)$: $6=5$, a contradiction; the original equation has no solution. $\blacksquare$
 
-### Problem 2
+## Problem 2
 
 (Exercise 18.5, Comprehensive Application, Problem 2) Solve the following equations for $x$:
 
@@ -116,7 +118,7 @@ Hence B makes $12$ parts per hour, and A makes $18$ parts per hour. $\blacksquar
 
 (2) The numerator $mx-1=0$, $x=\frac1m$. Checking $x+1=\frac1m+1\ne0$ (since $m\ne-1$), holds. $\blacksquare$
 
-### Problem 3
+## Problem 3
 
 (Exercise 18.5, Comprehensive Application, Problem 3) A and B set off at the same time from places $6\ \text{km}$ and $10\ \text{km}$ from the destination respectively; the ratio of A's to B's average speeds is $3:4$, and A arrives at the destination $20\ \text{min}$ earlier than B. Find the average speeds of A and B.
 
@@ -130,7 +132,7 @@ $$\frac{5}{2x}-\frac{2}{x}=\frac13,\quad \frac{5-4}{2x}=\frac13,\quad \frac{1}{2
 
 Hence A's speed is $3x=4.5\ \text{km/h}$, and B's speed is $4x=6\ \text{km/h}$. $\blacksquare$
 
-### Problem 4
+## Problem 4
 
 (Exercise 18.5, Comprehensive Application, Problem 4) Machines of type $A,B$ are both used to transport chemical raw materials; a type $A$ machine transports $30\ \text{kg}$ more per hour than a type $B$ machine, and the time a type $A$ machine takes to transport $900\ \text{kg}$ equals the time a type $B$ machine takes to transport $600\ \text{kg}$. How much chemical raw material does each type of machine transport per hour?
 
@@ -144,7 +146,7 @@ $900x=600\left(x+30\right)=600x+18000$, $300x=18000$, $x=60$. The check holds.
 
 Hence type $B$ is $60\ \text{kg}$ per hour, and type $A$ is $90\ \text{kg}$ per hour. $\blacksquare$
 
-### Problem 5
+## Problem 5
 
 (Exercise 18.5, Comprehensive Application, Problem 5) Wang Fang counts half of a batch of books in $3\ \text{h}$; Liu Wei joins in counting the other half, and together they count the other half in $1.2\ \text{h}$. How many hours does Liu Wei need to count this batch of books alone?
 
@@ -158,7 +160,7 @@ $$\frac{1.2}{6}+\frac{1.2}{x}=\frac12,\quad 0.2+\frac{1.2}{x}=0.5,\quad \frac{1.
 
 The check holds. Hence Liu Wei alone needs $4\ \text{h}$. $\blacksquare$
 
-### Problem 6
+## Problem 6
 
 (Exercise 18.5, Extension and Exploration, Problem 7) After improving the corn variety, the average corn yield per hectare in Yingchun Village increased by $a\ \text{t}$; a plot that originally yielded $m\ \text{t}$ of corn now has a total increase of $20\ \text{t}$. What were the original and current average corn yields per hectare?
 
@@ -170,7 +172,7 @@ $$\frac{am}{x}=20,\quad x=\frac{am}{20}.$$
 
 The original yield per hectare is $\frac{am}{20}\ \text{t}$, and the current is $\frac{am}{20}+a=\frac{a\left(m+20\right)}{20}\ \text{t}$. $\blacksquare$
 
-### Problem 7
+## Problem 7
 
 (Exercise 18.5, Extension and Exploration, Problem 8) Two groups start climbing a $450\ \text{m}$-high mountain at the same time; the average climbing speed of the first group is $1.2$ times that of the second group, and they reach the summit $15\ \text{min}$ earlier than the second group. What are the average climbing speeds of the two groups?
 

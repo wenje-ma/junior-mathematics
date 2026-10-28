@@ -1,10 +1,14 @@
-# Assignment 160
+# week160
 
-> **Definition 26.1.1** (Inverse Proportional Function) <br>A function of the form $y=\frac{k}{x}$ (where $k$ is a constant and $k\ne0$) is called an inverse proportional function, and the range of the independent variable $x$ is all real numbers except $0$.
+> **Basic Knowledge: Inverse Proportional Function**<br>A function of the form $y=\frac{k}{x}$ (where $k$ is a constant and $k\ne0$) is called an inverse proportional function, and the range of the independent variable $x$ is all real numbers except $0$.
+> **Basic Knowledge: Principle of the Lever**<br>Resistance * resistance arm = effort * effort arm: F1*l1 = F2*l2.
 
-> **Definition 26.1.2** (Graph and Properties of the Inverse Proportional Function) <br>The graph of $y=\frac{k}{x}$ is a hyperbola. When $k> 0$, the two branches lie in the first and third quadrants, and in each quadrant $y$ decreases as $x$ increases; when $k< 0$, the two branches lie in the second and fourth quadrants, and in each quadrant $y$ increases as $x$ increases.
+---
 
-> **Definition 26.2.2** (Principle of the Lever) <br>the resistance $\times$ the resistance arm $=$ the effort $\times$ the effort arm, i.e. $F_1l_1=F_2l_2$.
+
+> **Basic Knowledge: Graph and Properties of the Inverse Proportional Function** <br>The graph of $y=\frac{k}{x}$ is a hyperbola. When $k> 0$, the two branches lie in the first and third quadrants, and in each quadrant $y$ decreases as $x$ increases; when $k< 0$, the two branches lie in the second and fourth quadrants, and in each quadrant $y$ increases as $x$ increases.
+
+> **Basic Knowledge: Principle of the Lever** <br>the resistance $\times$ the resistance arm $=$ the effort $\times$ the effort arm, i.e. $F_1l_1=F_2l_2$.
 
 ### Activity 1
 
@@ -36,7 +40,7 @@ The figure shows a uniform wooden rod suspended horizontally by a string at its 
 
 ### Solution to Activity 2
 
-By **Definition 26.2.2** (Principle of the Lever), the moment on the left is $9.8\times25=245$; at balance, $F\cdot L=245$, i.e. $F=\frac{245}{L}$.
+By **Basic Knowledge: Principle of the Lever**, the moment on the left is $9.8\times25=245$; at balance, $F\cdot L=245$, i.e. $F=\frac{245}{L}$.
 
 $L=5\Rightarrow F=49$; $10\Rightarrow24.5$; $15\Rightarrow\frac{49}{3}\approx16.33$; $20\Rightarrow12.25$; $25\Rightarrow9.8$; $30\Rightarrow\frac{49}{6}\approx8.17$; $35\Rightarrow7$; $40\Rightarrow6.125$; $45\Rightarrow\frac{49}{9}\approx5.44$.
 

@@ -1,16 +1,14 @@
-# Assignment 95
+# week95
 
-> **Rule 19.2.1** (Multiplication) <br> \(\sqrt{a}\cdot\sqrt{b}=\sqrt{ab}\) (\(a\ge 0,\ b\ge 0\)).
-> 
-> **Rule 19.2.2** (Multiplication in Reverse) <br> \(\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}\) (\(a\ge 0,\ b\ge 0\)).
-> 
-> **Rule 19.2.3** (Division) <br> \(\frac{\sqrt{a}}{\sqrt{b}}=\sqrt{\frac{a}{b}}\) (\(a\ge 0,\ b> 0\)).
-> 
-> **Rule 19.2.4** (Division in Reverse) <br> \(\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}\) (\(a\ge 0,\ b> 0\)).
-> 
-> **Definition 19.2.1** (Simplest Quadratic Radical) <br> A quadratic radical whose radicand contains no denominator and contains no factor or expression that can be taken out of the radical is called a simplest quadratic radical.
+> **Basic Knowledge: Multiplication**<br>\(\sqrt{a}\cdot\sqrt{b}=\sqrt{ab}\) (\(a\ge 0,\ b\ge 0\)).
+> **Basic Knowledge: Multiplication in Reverse**<br>\(\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}\) (\(a\ge 0,\ b\ge 0\)).
+> **Basic Knowledge: Division**<br>\(\frac{\sqrt{a}}{\sqrt{b}}=\sqrt{\frac{a}{b}}\) (\(a\ge 0,\ b> 0\)).
+> **Basic Knowledge: Division in Reverse**<br>\(\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}\) (\(a\ge 0,\ b> 0\)).
+> **Basic Knowledge: Simplest Quadratic Radical**<br>A quadratic radical whose radicand contains no denominator and contains no factor or expression that can be taken out of the radical is called a simplest quadratic radical.
+---
 
-### Exercise 1
+
+## Exercise 1
 
 (Exercise 19.2, Problem 1)
 
@@ -18,7 +16,7 @@ Calculate:
 
 (1) \(\sqrt{2}\times\sqrt{5}\); (2) \(\sqrt{3}\times\sqrt{12}\); (3) \(2\sqrt{6}\times\sqrt{\frac{1}{2}}\); (4) \(\sqrt{288}\times\sqrt{\frac{1}{172}}\).
 
-By **Rule 19.2.1**.
+By **Basic Knowledge**.
 
 (1) \(\sqrt{2}\times\sqrt{5}=\sqrt{10}\).
 
@@ -36,7 +34,7 @@ Simplify:
 
 (1) \(\sqrt{49\times 81}\); (2) \(\sqrt{4y}\); (3) \(\sqrt{16ab^{2}c^{3}}\).
 
-By **Rule 19.2.2**, take the perfect-square factors out of the radical.
+By **Basic Knowledge**, take the perfect-square factors out of the radical.
 
 (1) \(\sqrt{49\times 81}=\sqrt{49}\times\sqrt{81}=7\times 9=63\).
 
@@ -52,7 +50,7 @@ The length and width of a rectangle are \(\sqrt{10}\) and \(2\sqrt{2}\), respect
 
 By the rectangle area formula, the area is length times width.
 
-By **Rule 19.2.1**,
+By **Basic Knowledge**,
 
 $$
 S=\sqrt{10}\cdot 2\sqrt{2}=2\sqrt{20}=2\cdot 2\sqrt{5}=4\sqrt{5}.
@@ -60,7 +58,7 @@ $$
 
 \(\blacksquare\)
 
-### Exercise 2
+## Exercise 2
 
 (Exercise 19.2, Problem 1)
 
@@ -68,7 +66,7 @@ Calculate:
 
 (1) \(\sqrt{18}\div\sqrt{2}\); (2) \(\frac{\sqrt{72}}{\sqrt{6}}\); (3) \(\frac{4\sqrt{15}}{\sqrt{20}}\); (4) \(\sqrt{\frac{b}{5}}\div\sqrt{\frac{b}{20a^{2}}}\).
 
-By **Rule 19.2.3**.
+By **Basic Knowledge**.
 
 (1) \(\sqrt{18}\div\sqrt{2}=\sqrt{9}=3\).
 
@@ -86,7 +84,7 @@ Simplify:
 
 (1) \(\sqrt{\frac{7}{36}}\); (2) \(\sqrt{\frac{64}{9}}\); (3) \(\sqrt{\frac{16b}{25a^{2}}}\).
 
-By **Rule 19.2.4**.
+By **Basic Knowledge**.
 
 (1) \(\sqrt{\frac{7}{36}}=\frac{\sqrt{7}}{\sqrt{36}}=\frac{\sqrt{7}}{6}\).
 
@@ -102,7 +100,7 @@ Calculate:
 
 (1) \(\frac{\sqrt{5}}{\sqrt{2}}\); (2) \(\sqrt{2a}\div\sqrt{6a}\).
 
-By **Rule 19.2.4**, rationalize the denominator.
+By **Basic Knowledge**, rationalize the denominator.
 
 (1) \(\frac{\sqrt{5}}{\sqrt{2}}=\frac{\sqrt{5}\cdot\sqrt{2}}{\sqrt{2}\cdot\sqrt{2}}=\frac{\sqrt{10}}{2}\).
 
@@ -110,7 +108,7 @@ By **Rule 19.2.4**, rationalize the denominator.
 
 \(\blacksquare\)
 
-### Exercise 3
+## Exercise 3
 
 (Exercise 19.2, Problem 1)
 
@@ -118,7 +116,7 @@ Simplify so that the quadratic radicals in the result are in simplest form:
 
 (1) \(\sqrt{32}\); (2) \(\sqrt{40}\); (3) \(\sqrt{24\times 75}\); (4) \(\sqrt{1.5}\); (5) \(\sqrt{\frac{4}{3}}\); (6) \(\sqrt{\frac{16b^{2}c}{a^{2}}}\).
 
-Use **Rule 19.2.2** and **Rule 19.2.4** to reduce to simplest form.
+Use **Basic Knowledge** and **Basic Knowledge** to reduce to simplest form.
 
 (1) \(\sqrt{32}=\sqrt{16\times 2}=4\sqrt{2}\).
 
@@ -158,7 +156,7 @@ A cuboid has volume \(V=4\sqrt{3}\) and height \(h=3\sqrt{2}\). Find its base ar
 
 By the cuboid volume formula \(V=Sh\), we get \(S=\frac{V}{h}\).
 
-Substituting and using **Rule 19.2.3**,
+Substituting and using **Basic Knowledge**,
 
 $$
 S=\frac{4\sqrt{3}}{3\sqrt{2}}=\frac{4}{3}\sqrt{\frac{3}{2}}=\frac{4}{3}\cdot\frac{\sqrt{6}}{2}=\frac{2\sqrt{6}}{3}.
@@ -166,7 +164,7 @@ $$
 
 \(\blacksquare\)
 
-### Problem 1
+## Problem 1
 
 (Exercise 19.2, Review and Consolidation, Problem 1)
 
@@ -174,7 +172,7 @@ Calculate:
 
 (1) \(\sqrt{24}\times\sqrt{27}\); (2) \(\sqrt{6}\times(-\sqrt{15})\); (3) \(\sqrt{18}\times\sqrt{20}\times\sqrt{75}\); (4) \(\sqrt{42}\times\sqrt{\frac{3}{7}}\).
 
-By **Rule 19.2.1**.
+By **Basic Knowledge**.
 
 (1) \(\sqrt{24}\times\sqrt{27}=\sqrt{648}=\sqrt{324\times 2}=18\sqrt{2}\).
 
@@ -192,7 +190,7 @@ Calculate:
 
 (1) \(\sqrt{18}\div\sqrt{8}\); (2) \(\frac{\sqrt{15}}{\sqrt{5}}\); (3) \(\sqrt{12}\div\sqrt{25}\); (4) \(\frac{\sqrt{4x^{2}y}}{\sqrt{9xy}}\).
 
-By **Rule 19.2.3**.
+By **Basic Knowledge**.
 
 (1) \(\sqrt{18}\div\sqrt{8}=\sqrt{\frac{18}{8}}=\sqrt{\frac{9}{4}}=\frac{3}{2}\).
 
@@ -210,7 +208,7 @@ Simplify:
 
 (1) \(\sqrt{4\times 49}\); (2) \(\sqrt{300}\); (3) \(\sqrt{\frac{25}{36}}\); (4) \(\sqrt{a^{2}b^{4}c^{2}}\).
 
-By **Rule 19.2.2** and **Rule 19.2.4**.
+By **Basic Knowledge** and **Basic Knowledge**.
 
 (1) \(\sqrt{4\times 49}=2\times 7=14\).
 
@@ -228,7 +226,7 @@ Calculate:
 
 (1) \(\sqrt{\frac{12}{2}}\); (2) \(\frac{\sqrt{3}}{\sqrt{6}}\); (3) \(\frac{\sqrt{2}}{3\sqrt{40}}\); (4) \(\frac{-4\sqrt{5y^{2}}}{3\sqrt{5y}}\).
 
-By **Rule 19.2.3** and rationalize the denominator.
+By **Basic Knowledge** and rationalize the denominator.
 
 (1) \(\sqrt{\frac{12}{2}}=\sqrt{6}\).
 
@@ -256,7 +254,7 @@ Hence the original expression \(=\frac{8+\sqrt{24}}{4}=\frac{8+2\sqrt{6}}{4}=\fr
 
 \(\blacksquare\)
 
-### Problem 2
+## Problem 2
 
 (Exercise 19.2, Comprehensive Application, Problem 6)
 
@@ -328,7 +326,7 @@ $$
 
 \(\blacksquare\)
 
-### Problem 3
+## Problem 3
 
 (Exercise 19.2, Extension and Exploration, Problem 11)
 

@@ -1,16 +1,10 @@
-# Assignment 55
+# week55
 
-> **Property 11.1.1** (Property 1 of Inequalities) <br>$a> b\Rightarrow a\pm c> b\pm c$.
-> 
-> **Property 11.1.2** (Property 2 of Inequalities) <br>$a> b,\ c> 0\Rightarrow ac> bc$.
-> 
-> **Property 11.1.3** (Property 3 of Inequalities) <br>$a> b,\ c< 0\Rightarrow ac< bc$.
-> 
-> **Method 11.2.2** (Solving a Linear Inequality in One Variable) <br>Clear denominators, remove parentheses, transpose terms, combine like terms, and make the coefficient $1$.
-> 
-> **Definition 11.3.2** (Solution Set of a System of Inequalities) <br>The common part of the solution sets of the several inequalities.
+> **Basic Knowledge: Solution Set of a System of Inequalities**<br>The common part of the solution sets of the several inequalities.
 
-### Review Problem 1
+---
+
+## Review Problem 1
 
 (Review Problems, Review and Consolidation, Problem 1) Solve the following inequalities:
 
@@ -32,7 +26,10 @@
 
 (4) Multiply by $12$: $4\left(2x-1\right)-6\left(3x-1\right)\ge5$, i.e. $-10x+2\ge5$, giving $x\le-\frac{3}{10}$. $\blacksquare$
 
-### Review Problem 2
+
+---
+
+## Review Problem 2
 
 (Review Problems, Review and Consolidation, Problem 2) For what value of $a$ does the algebraic expression $15-7a$:
 
@@ -50,7 +47,10 @@
 
 (3) $15-7a=1$, giving $a=2$. $\blacksquare$
 
-### Review Problem 3
+
+---
+
+## Review Problem 3
 
 (Review Problems, Review and Consolidation, Problem 3) Solve the following systems of inequalities:
 
@@ -72,7 +72,10 @@
 
 (4) First inequality: $-3x+6\ge4-x$, $x\le1$. Second inequality: $1+2x> 3x-3$, $x< 4$. Common part $x\le1$. $\blacksquare$
 
-### Review Problem 4
+
+---
+
+## Review Problem 4
 
 (Review Problems, Review and Consolidation, Problem 4) Can $\frac{x+3}{5}$ be simultaneously greater than both $2x+3$ and $1-x$?
 
@@ -84,7 +87,10 @@ From $\frac{x+3}{5}> 1-x$, we get $x+3> 5-5x$, i.e. $x> \frac{1}{3}$.
 
 There is no common part between $x< -\frac{4}{3}$ and $x> \frac{1}{3}$, so it cannot be simultaneously greater than both. $\blacksquare$
 
-### Review Problem 5
+
+---
+
+## Review Problem 5
 
 (Review Problems, Review and Consolidation, Problem 5) Compare the sizes of $a$ and $2a$.
 
@@ -94,7 +100,10 @@ Taking the difference: $a-2a=-a$.
 
 When $a> 0$, $-a< 0$, so $a< 2a$; when $a=0$, $a=2a$; when $a< 0$, $-a> 0$, so $a> 2a$. $\blacksquare$
 
-### Review Problem 6
+
+---
+
+## Review Problem 6
 
 (Review Problems, Comprehensive Application, Problem 6) In a $5000\ \text{m}$ long-distance race, a student's best time is $16\ \text{min}\ 45\ \text{s}$. In this race he spent $10\ \text{min}\ 30\ \text{s}$ on the first $3000\ \text{m}$. At what average speed at least must he run the remaining $2000\ \text{m}$ to beat his best time?
 
@@ -102,7 +111,10 @@ When $a> 0$, $-a< 0$, so $a< 2a$; when $a=0$, $a=2a$; when $a< 0$, $-a> 0$, so $
 
 The remaining time is at most $16.75-10.5=6.25\ \text{min}$. Let the average speed on the remaining $2000\ \text{m}$ be $v\ \text{m/min}$; then $\frac{2000}{v}\le6.25$, giving $v\ge320\ \text{m/min}$. Hence it must be at least $320\ \text{m/min}$. $\blacksquare$
 
-### Review Problem 7
+
+---
+
+## Review Problem 7
 
 (Review Problems, Comprehensive Application, Problem 7) An elevator has a rated load of $1050\ \text{kg}$. Two passengers weigh $70\ \text{kg}$ and $75\ \text{kg}$ respectively, a trolley weighs $21\ \text{kg}$, and each box of tiles weighs $51\ \text{kg}$. At most how many boxes of tiles can be loaded in one trip?
 
@@ -116,7 +128,10 @@ $$
 
 i.e. $166+51x\le1050$, $51x\le884$, giving $x\le17.3$. Hence at most $17$ boxes of tiles can be loaded in one trip. $\blacksquare$
 
-### Review Problem 8
+
+---
+
+## Review Problem 8
 
 (Review Problems, Comprehensive Application, Problem 8) In a basketball game, a team's free throws score $10$ points in total, and it made a total of $48$ shots of $2$-point and $3$-point types. If the total score exceeds $110$ points, at least how many $3$-point shots were made?
 
@@ -130,7 +145,10 @@ $$
 
 i.e. $106+x> 110$, giving $x> 4$. Hence at least $5$ $3$-point shots were made. $\blacksquare$
 
-### Review Problem 9
+
+---
+
+## Review Problem 9
 
 (Review Problems, Comprehensive Application, Problem 9) A dealer buys a total of $20$ type-A and type-B cars. Type-A costs $27$ ten-thousand yuan to buy and sells for $27.8$ ten-thousand yuan; type-B costs $24.4$ ten-thousand yuan to buy and sells for $25.8$ ten-thousand yuan. If the profit after selling them all exceeds $20.5$ ten-thousand yuan, at most how many type-A cars were bought?
 
@@ -144,7 +162,10 @@ $$
 
 i.e. $28-0.6x> 20.5$, giving $x< 12.5$. Hence at most $12$ type-A cars were bought. $\blacksquare$
 
-### Review Problem 10
+
+---
+
+## Review Problem 10
 
 (Review Problems, Extension and Exploration, Problem 10) A calculation program: input $x$, output $4x+1$; if the result is greater than $85$, stop; otherwise take the result as the new $x$ and input it again.
 
@@ -158,7 +179,10 @@ i.e. $28-0.6x> 20.5$, giving $x< 12.5$. Hence at most $12$ type-A cars were boug
 
 (2) Stops twice: the first does not satisfy $4x+1\le85$, i.e. $x\le21$; the second $4\left(4x+1\right)+1> 85$, i.e. $16x+5> 85$, $x> 5$. Hence $5< x\le21$. $\blacksquare$
 
-### Review Problem 11
+
+---
+
+## Review Problem 11
 
 (Review Problems, Extension and Exploration, Problem 11) Two people, A and B, each carry a bucket to draw water from the same tap; A needs $a\ \text{min}$ to draw water and B needs $b\ \text{min}$. How should the order of the two be arranged so that the total time spent by both (from the start until both have finished drawing water) is minimized?
 

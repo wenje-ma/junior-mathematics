@@ -1,8 +1,10 @@
-# Assignment 129
+# week129
 
-> **Conclusion 25.2.5** (Relation Between Roots and Coefficients) <br>If the two roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x_1,x_2$, then $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$. This relation can also be obtained by comparing coefficients in the factorization $ax^2+bx+c=a\left(x-x_1\right)\left(x-x_2\right)$.
+> **Basic Knowledge: Relation Between Roots and Coefficients**<br>If the two roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x_1,x_2$, then $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$. This relation can also be obtained by comparing coefficients in the factorization $ax^2+bx+c=a\left(x-x_1\right)\left(x-x_2\right)$.
+---
 
-### Exercise 1
+
+## Exercise 1
 
 (Exercise 25.2, Problem 5) Without solving the equation, find the sum and product of the two roots $x_1,x_2$ of the following equations:
 
@@ -16,7 +18,7 @@
 
 ### Solution to Exercise 1
 
-First put each equation in general form $ax^2+bx+c=0$, and directly use **Conclusion 25.2.5** (Relation Between Roots and Coefficients) to find $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$.
+First put each equation in general form $ax^2+bx+c=0$, and directly use **Basic Knowledge: Relation Between Roots and Coefficients** to find $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$.
 
 (1) Transposing terms gives $x^2-3x-15=0$, hence $x_1+x_2=3$, $x_1x_2=-15$.
 
@@ -26,7 +28,7 @@ First put each equation in general form $ax^2+bx+c=0$, and directly use **Conclu
 
 (4) Transposing terms and combining like terms gives $2x^2-4x+1=0$, hence $x_1+x_2=2$, $x_1x_2=\frac12$. $\blacksquare$
 
-### Problem 1
+## Problem 1
 
 (Exercise 25.2, Review and Consolidation, Problem 7) Find the sum and product of the two roots $x_1,x_2$ of the following equations:
 
@@ -40,7 +42,7 @@ First put each equation in general form $ax^2+bx+c=0$, and directly use **Conclu
 
 ### Solution to Problem 1
 
-First put in general form, then find the sum and product by **Conclusion 25.2.5** (Relation Between Roots and Coefficients).
+First put in general form, then find the sum and product by **Basic Knowledge: Relation Between Roots and Coefficients**.
 
 (1) Transposing terms gives $x^2-3x-8=0$, hence $x_1+x_2=3$, $x_1x_2=-8$.
 
@@ -50,7 +52,7 @@ First put in general form, then find the sum and product by **Conclusion 25.2.5*
 
 (4) Transposing terms and combining like terms gives $7x^2-x-13=0$, hence $x_1+x_2=\frac17$, $x_1x_2=-\frac{13}{7}$. $\blacksquare$
 
-### Problem 2
+## Problem 2
 
 (Exercise 25.2, Comprehensive Application, Problem 8) The two legs of a right triangle differ in length by $5$, and its area is $7$; find the length of the hypotenuse.
 
@@ -70,7 +72,7 @@ $$
 
 Hence $c^2=53$, and the hypotenuse is $c=\sqrt{53}$. $\blacksquare$
 
-### Problem 3
+## Problem 3
 
 (Exercise 25.2, Comprehensive Application, Problem 9) Solve the following equations by an appropriate method:
 
@@ -100,7 +102,7 @@ $$
 
 i.e. $\left(3x-8\right)\left(2-x\right)=0$, hence $x_1=\frac83$, $x_2=2$. $\blacksquare$
 
-### Problem 4
+## Problem 4
 
 (Exercise 25.2, Comprehensive Application, Problem 10) No matter what value $p$ takes, does the equation $\left(x-3\right)\left(x-2\right)-p^2=0$ always have two unequal real roots? If so, find the two roots; if not, explain why.
 
@@ -126,7 +128,7 @@ $$
 x=\frac{5\pm\sqrt{1+4p^2}}2. \blacksquare
 $$
 
-### Problem 5
+## Problem 5
 
 (Exercise 25.2, Extension and Exploration, Problem 11) Given that the two roots of $2x^2-6x+3=0$ are $x_1,x_2$, find the values of:
 
@@ -136,7 +138,7 @@ $$
 
 ### Solution to Problem 5
 
-By **Conclusion 25.2.5** (Relation Between Roots and Coefficients), for $2x^2-6x+3=0$, $a=2$, $b=-6$, $c=3$, hence
+By **Basic Knowledge: Relation Between Roots and Coefficients**, for $2x^2-6x+3=0$, $a=2$, $b=-6$, $c=3$, hence
 
 $$
 x_1+x_2=-\frac{-6}{2}=3,\quad x_1x_2=\frac32.
@@ -154,7 +156,7 @@ $$
 x_1^2+x_2^2=\left(x_1+x_2\right)^2-2x_1x_2=3^2-2\times\frac32=9-3=6. \blacksquare
 $$
 
-### Problem 6
+## Problem 6
 
 (Exercise 25.2, Extension and Exploration, Problem 12) (1) Since $x^3-8x^2+19x-12=\left(x-1\right)\left(x-3\right)\left(x-4\right)$, the numbers $1,3,4$ are the three roots of the cubic equation $x^3-8x^2+19x-12=0$. Compute $1+3+4$, $1\times3+3\times4+4\times1$, and $1\times3\times4$; what is their relation to the coefficients of $x^3-8x^2+19x-12=0$?
 

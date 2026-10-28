@@ -1,10 +1,11 @@
-# Assignment 77
+# week77
 
-> **Conclusion 15.1.1** (Properties of Axial Symmetry) <br>Two figures that are axially symmetric are congruent; the axis of symmetry perpendicularly bisects the segment joining the symmetric points.
-> 
+> **Basic Knowledge: Properties of Axial Symmetry**<br>Two figures that are axially symmetric are congruent; the axis of symmetry perpendicularly bisects the segment joining the symmetric points.
 > **Basic Conclusion** (Shortest Distance) <br>Between two points, the segment is the shortest; among all segments joining a point outside a line to points on the line, the perpendicular segment is the shortest.
+---
 
-### Inquiry 1
+
+## Inquiry 1
 
 (Comprehensive and Practical Activity, Activity 1, Task 1, The Herdsman Watering His Horse Problem) A herdsman sets out from place $A$, waters his horse at the straight river bank $l$, and then goes to place $B$. Where on the riverbank should he water the horse so that the path $AC+CB$ is shortest? Here $A$ and $B$ lie on the same side of line $l$.
 
@@ -12,9 +13,9 @@
 
 Construct the reflection $A'$ of point $A$ about line $l$, connect $A'B$, and let it meet line $l$ at point $C$; then point $C$ is the desired watering point.
 
-By **Conclusion 15.1.1** (Properties of Axial Symmetry), for any point $C$ on $l$, $AC=A'C$, hence $AC+CB=A'C+CB$. By "between two points, the segment is the shortest", $A'C+CB\ge A'B$, with equality if and only if $C$ lies on $A'B$, so at that point $AC+CB$ is minimal. $\blacksquare$
+By **Basic Knowledge: Properties of Axial Symmetry**, for any point $C$ on $l$, $AC=A'C$, hence $AC+CB=A'C+CB$. By "between two points, the segment is the shortest", $A'C+CB\ge A'B$, with equality if and only if $C$ lies on $A'B$, so at that point $AC+CB$ is minimal. $\blacksquare$
 
-### Inquiry 2
+## Inquiry 2
 
 (Comprehensive and Practical Activity, Activity 1, Task 1, Consideration)
 
@@ -28,7 +29,7 @@ By **Conclusion 15.1.1** (Properties of Axial Symmetry), for any point $C$ on $l
 
 (2) Construct the reflection $A'$ of one of the points (say $A$) about line $l$; by symmetry $AC=A'C$, so $A'$ and $B$ become two points on opposite sides (or on the same side but with a connectable segment), converting the same-side $AC+CB$ into the problem of connecting $A'$ and $B$, which is solved in the same way as (1). $\blacksquare$
 
-### Inquiry 3
+## Inquiry 3
 
 (Comprehensive and Practical Activity, Activity 1, Task 2) Prove: the point $C$ obtained in Task 1 makes $AC+CB$ minimal.
 
@@ -48,7 +49,7 @@ $$
 
 By "between two points, the segment is the shortest", $A'C'+C'B\ge A'B=AC+CB$, with equality if and only if $C'$ lies on $A'B$, i.e. $C'=C$. Hence $AC+CB$ is minimal. $\blacksquare$
 
-### Inquiry 4
+## Inquiry 4
 
 (Comprehensive and Practical Activity, Activity 2, Task 1, Extension of the Horse-Watering Problem) A herdsman sets out from place $A$, first grazes his horse at a spot on the edge of the grassland, then waters the horse at the riverbank, and finally returns to place $A$. How should he walk so that the path is shortest?
 
@@ -56,7 +57,7 @@ By "between two points, the segment is the shortest", $A'C'+C'B\ge A'B=AC+CB$, w
 
 Let the edge of the grassland be line $m$ and the riverbank be line $n$. Construct the reflection $A_1$ of point $A$ about line $m$ and the reflection $A_2$ about line $n$; connect $A_1A_2$, whose intersections with $m$ and $n$ are in turn the grazing point $P$ and the watering point $Q$; then the broken path $A\to P\to Q\to A$ is shortest. By axial symmetry, $AP=A_1P$ and $QA=QA_2$, so the path length equals the segment $A_1A_2$, which is minimal by the shortest-segment-between-two-points principle. $\blacksquare$
 
-### Inquiry 5
+## Inquiry 5
 
 (Comprehensive and Practical Activity, Activity 3, Task 1, The Bridge-Building Site-Selection Problem) Places $A$ and $B$ lie on the two banks of a river, the two banks of the river are parallel lines, and the bridge $MN$ must be perpendicular to the banks. Where should the bridge be built so that the path $AMNB$ from $A$ to $B$ is shortest?
 

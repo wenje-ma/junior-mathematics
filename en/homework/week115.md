@@ -1,16 +1,17 @@
-# Assignment 115
+# week115
 
-> **Conclusion 23.4.1** (Building a Linear Function Model) <br>In real-world problems, first determine the function expression from the correspondence between the variables, then use the graph and properties of the linear function to solve the problem. When the function relationship is piecewise, discuss it interval by interval.
-> 
-> **Conclusion 23.4.2** (Choosing a Plan) <br>Optimization problems involving variables are commonly solved using functions; the best plan is chosen by comparing the function values corresponding to the different plans.
+> **Basic Knowledge: Building a Linear Function Model**<br>In real-world problems, first determine the function expression from the correspondence between the variables, then use the graph and properties of the linear function to solve the problem. When the function relationship is piecewise, discuss it interval by interval.
+> **Basic Knowledge: Choosing a Plan**<br>Optimization problems involving variables are commonly solved using functions; the best plan is chosen by comparing the function values corresponding to the different plans.
+---
 
-### Exercise 1
+
+## Exercise 1
 
 (Exercise 23.4, Problem 1) A laboratory maintains a constant temperature of $20\,^\circ\text{C}$ from $0{:}00$ to $2{:}00$, and from $2{:}00$ to $4{:}00$ warms up at a constant rate, rising by $5\,^\circ\text{C}$ per hour. Write the function expression for the laboratory temperature $T$ (in $^\circ\text{C}$) in terms of time $t$ (in h), and draw the graph.
 
 ### Solution to Exercise 1
 
-By **Conclusion 23.4.1** (Building a Linear Function Model), discuss interval by interval.
+By **Basic Knowledge: Building a Linear Function Model**, discuss interval by interval.
 
 When $0 \leq t \leq 2$, $T=20$.
 
@@ -20,7 +21,7 @@ The figure shows a plane rectangular coordinate system with horizontal axis time
 
 $\blacksquare$
 
-### Exercise 2
+## Exercise 2
 
 (Exercise 23.4, Problem 2) A city taxi charges as follows: a fare of $9$ yuan for a distance not exceeding $3\ \text{km}$, plus $2$ yuan per kilometer for the portion beyond $3\ \text{km}$. Let the passenger's distance be $x$ ($x> 3$) $\text{km}$, and the fare be $y$ yuan.
 
@@ -34,7 +35,7 @@ $\blacksquare$
 
 (2) When $y=23$, $23=2x+3$, so $x=10$. Hence the travel distance is $10\ \text{km}$. $\blacksquare$
 
-### Exercise 3
+## Exercise 3
 
 (Exercise 23.4, Problem 1) A company wants to print product promotional materials. Printer A's plan charges a plate-making fee of $1500$ yuan plus $1$ yuan per sheet; Printer B's plan has no plate-making fee and charges $2.5$ yuan per sheet.
 
@@ -46,11 +47,11 @@ $\blacksquare$
 
 (1) Printer A: $y_1=1500+x$. Printer B: $y_2=2.5x$.
 
-(2) By **Conclusion 23.4.2** (Choosing a Plan), compare the two function values. Setting $y_1=y_2$, i.e. $1500+x=2.5x$, gives $x=1000$.
+(2) By **Basic Knowledge: Choosing a Plan**, compare the two function values. Setting $y_1=y_2$, i.e. $1500+x=2.5x$, gives $x=1000$.
 
 When $x< 1000$, $y_1> y_2$, so Printer B is the better choice; when $x=1000$, the two printers cost the same; when $x> 1000$, $y_1< y_2$, so Printer A is the better choice. $\blacksquare$
 
-### Exercise 4
+## Exercise 4
 
 (Exercise 23.4, Problem 1) A stationery store buys model $A$ and model $B$ calculators for resale; their purchase and selling prices are as follows. Model $A$ costs $22$ yuan and sells for $32$ yuan; model $B$ costs $19$ yuan and sells for $25$ yuan. To meet market demand, in the second quarter the store plans to use no more than $2000$ yuan to purchase a total of $100$ calculators of the two models. If all purchased calculators can be sold, give the purchasing plan that maximizes profit, and find the maximum profit.
 
@@ -60,11 +61,11 @@ Let $x$ be the number of model $A$ calculators bought; then $\left(100-x\right)$
 
 Profit: $W=\left(32-22\right)x+\left(25-19\right)\left(100-x\right)=10x+6\left(100-x\right)=4x+600$.
 
-By **Conclusion 23.4.2** (Choosing a Plan), $W=4x+600$, with $k=4> 0$, so $W$ increases as $x$ increases. Thus profit is maximized at $x=33$, with $W=4\times33+600=732$ yuan.
+By **Basic Knowledge: Choosing a Plan**, $W=4x+600$, with $k=4> 0$, so $W$ increases as $x$ increases. Thus profit is maximized at $x=33$, with $W=4\times33+600=732$ yuan.
 
 Purchasing plan: $33$ model $A$ and $67$ model $B$, with maximum profit $732$ yuan. $\blacksquare$
 
-### Problem 1
+## Problem 1
 
 (Exercise 23.4, Review and Consolidation, Problem 1) A salesperson's monthly income is a linear function of monthly sales volume. When $100$ items are sold, the monthly income is $2800$ yuan; when $200$ items are sold, it is $3400$ yuan. When the monthly income is $4600$ yuan, the number of items sold is $\;\_\_\;$.
 
@@ -74,7 +75,7 @@ Let the monthly income be $y=kx+b$. Substituting $\left(100, 2800\right)$ and $\
 
 When $y=4600$, $4600=6x+2200$, so $x=400$. Hence $400$ items are sold. $\blacksquare$
 
-### Problem 2
+## Problem 2
 
 (Exercise 23.4, Review and Consolidation, Problem 2) A clothing brand runs a promotion: clothing originally priced at $80$ yuan per piece; if more than $3$ pieces are bought, the portion beyond that gets a 20% discount. Find the function expression for the amount $y$ (in yuan) paid by a customer in terms of the number $x$ ($x> 3$, in pieces) of garments bought.
 
@@ -82,7 +83,7 @@ When $y=4600$, $4600=6x+2200$, so $x=400$. Hence $400$ items are sold. $\blacksq
 
 The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\right)$ pieces beyond $3$ are at a 20% discount, i.e. $64$ yuan. Hence $y=3\times80+64\left(x-3\right)=64x+48$ ($x> 3$). $\blacksquare$
 
-### Problem 3
+## Problem 3
 
 (Exercise 23.4, Review and Consolidation, Problem 3) An online store sells an eye-protection desk lamp. At a price of $60$ yuan, $100$ are sold per week. For each $1$ yuan price reduction, $2$ more are sold per week. Let the unit price be $x$ yuan and the weekly sales volume be $y$ units.
 
@@ -96,7 +97,7 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 (2) When $x=52$, $y=220-2\times52=116$. Total sales revenue is $52\times116=6032$ yuan. $\blacksquare$
 
-### Problem 4
+## Problem 4
 
 (Exercise 23.4, Review and Consolidation, Problem 4) To encourage residents to save electricity, a city uses a tiered electricity price. When monthly consumption does not exceed $240\ \text{kW·h}$, it is charged at $0.45$ yuan/($\text{kW·h}$); when consumption exceeds $240\ \text{kW·h}$, the excess is charged at $0.55$ yuan/($\text{kW·h}$). Let a household's monthly consumption be $x\ \text{kW·h}$ and the payable electricity bill be $y$ yuan.
 
@@ -110,7 +111,7 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 (2) When $x=240$, $y=0.45\times240=108$ yuan. Since $141> 108$, we have $x> 240$. Setting $141=0.55x-24$ gives $x=300$. Hence the consumption is $300\ \text{kW·h}$. $\blacksquare$
 
-### Problem 5
+## Problem 5
 
 (Exercise 23.4, Comprehensive Application, Problem 5) In a theater, the number of seats per row increases from front to back; some data are shown in the table below.
 
@@ -132,7 +133,7 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 (3) When $x=20$, $y=2\times20+48=88$. Hence row $20$ has $88$ seats. $\blacksquare$
 
-### Problem 6
+## Problem 6
 
 (Exercise 23.4, Comprehensive Application, Problem 6) Stores A and B normally sell the same goods at the same prices. During the Spring Festival both run promotions: Store A sells all goods at a 20% discount, while Store B gives a 30% discount on the portion of a single purchase exceeding $200$ yuan.
 
@@ -146,7 +147,7 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 (2) When $0 \leq x \leq 200$, $y_1=0.8x < x=y_2$, so Store A is cheaper. When $x> 200$, setting $0.8x=0.7x+60$ gives $x=600$. When $200< x< 600$, $y_1< y_2$, so choose Store A; when $x=600$, the two stores are the same; when $x> 600$, $y_1> y_2$, so choose Store B. $\blacksquare$
 
-### Problem 7
+## Problem 7
 
 (Exercise 23.4, Comprehensive Application, Problem 7) A food-delivery platform recruits delivery riders and offers two monthly salary plans. Plan 1: a base salary of $2000$ yuan per month plus $2$ yuan commission per delivery completed. Plan 2: no base salary, but $6$ yuan commission per delivery. Let the rider's monthly number of deliveries be $x$ orders, and the monthly salary under Plans 1 and 2 be $y_1$ yuan and $y_2$ yuan respectively.
 
@@ -160,7 +161,7 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 (2) Setting $y_1=y_2$, i.e. $2000+2x=6x$, gives $x=500$. When $x< 500$, $y_1> y_2$, so choose Plan 1; when $x=500$, the two plans are the same; when $x> 500$, $y_2> y_1$, so choose Plan 2. $\blacksquare$
 
-### Problem 8
+## Problem 8
 
 (Exercise 23.4, Extension and Exploration, Problem 8) The broken line in the figure shows the relationship between Liu Wei's distance $y$ from home while cycling and time $x$. He left home at $9{:}00$ and returned home at $15{:}30$. Using this line graph, answer the following questions:
 

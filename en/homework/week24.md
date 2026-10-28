@@ -1,42 +1,52 @@
-# Assignment 24
+# week24
 
-> **Definition 6.1.1** (Solid Figure) <br>A geometric figure whose parts do not all lie in the same plane is called a solid figure.
-> 
-> **Definition 6.1.2** (Plane Figure) <br>A geometric figure whose parts all lie in the same plane is called a plane figure.
-> 
-> **Definition 6.1.3** (Net) <br>Some solid figures are enclosed by several plane figures; if their surfaces are cut open appropriately, they can be unfolded into plane figures. Such a plane figure is called the net of the corresponding solid figure.
-> 
-> **Definition 6.1.4** (Points, Lines, Planes, and Solids) <br>A geometric solid is also called a solid for short. What encloses a solid is a surface; where two surfaces intersect forms a line; where two lines intersect is a point.
-> 
-> **Definition 6.1.5** (A Moving Point Forms a Line, a Moving Line Forms a Plane, a Moving Plane Forms a Solid) <br>A moving point forms a line, a moving line forms a plane, and a moving plane forms a solid.
+> **Basic Knowledge: Solid Figure**<br>A geometric figure whose parts do not all lie in the same plane is called a solid figure.
 
-### Exercise 1
+> **Basic Knowledge: Plane Figure**<br>A geometric figure whose parts all lie in the same plane is called a plane figure.
+
+> **Basic Knowledge: Net**<br>Some solid figures are enclosed by several plane figures; if their surfaces are cut open appropriately, they can be unfolded into plane figures. Such a plane figure is called the net of the corresponding solid figure.
+
+> **Basic Knowledge: Points, Lines, Planes, and Solids**<br>A geometric solid is also called a solid for short. What encloses a solid is a surface; where two surfaces intersect forms a line; where two lines intersect is a point.
+
+> **Basic Knowledge: A Moving Point Forms a Line, a Moving Line Forms a Plane, a Moving Plane Forms a Solid**<br>A moving point forms a line, a moving line forms a plane, and a moving plane forms a solid.
+
+> **Basic Knowledge: A Moving Plane Forms a Solid**<br>A plane moving through space forms a solid, e.g. a rectangle rotating about one side forms a cylinder.
+
+---
+
+## Exercise 1
 
 (Exercise 6.1, Problem 1) Name the solid figure that each of the following objects resembles: a math textbook resembles $\;\_\_\;$, a pyramid resembles $\;\_\_\;$, a watermelon resembles $\;\_\_\;$, a fluorescent lamp resembles $\;\_\_\;$.
 
 ### Solution to Exercise 1
 
-By **Definition 6.1.1** (Solid Figure), judge the corresponding solid figure from the object's outer shape.
+By **Basic Knowledge: Solid Figure**, judge the corresponding solid figure from the object's outer shape.
 
 A math textbook's parts do not all lie in the same plane; it has six faces and resembles a rectangular prism. A pyramid has one base and four triangular faces and resembles a square pyramid. A watermelon is round and resembles a sphere. A fluorescent lamp is long and thin and resembles a cylinder. $\blacksquare$
 
-### Exercise 2
+
+---
+
+## Exercise 2
 
 (Exercise 6.1, Problem 2) Match the following solid figures with their names by drawing lines: sphere, cylinder, cone, cube, triangular prism.
 
 ### Solution to Exercise 2
 
-By **Definition 6.1.1** (Solid Figure), match the names according to the features of each solid figure.
+By **Basic Knowledge: Solid Figure**, match the names according to the features of each solid figure.
 
 A sphere is a solid enclosed entirely by a curved surface; a cylinder consists of two circular bases and one lateral surface; a cone consists of one circular base and one curved lateral surface; a cube consists of six square faces; a triangular prism consists of two triangular bases and three rectangular faces. Draw lines matching each solid figure with its name as shown. $\blacksquare$
 
-### Exercise 3
+
+---
+
+## Exercise 3
 
 (Exercise 6.1, Problem 1) As shown, a solid figure made of $9$ identical cubes; viewing it from the front, the left, and the top respectively, what plane figures do you obtain?
 
 ### Solution to Exercise 3
 
-By **Definition 6.1.2** (Plane Figure) and the method of viewing a solid figure from different directions.
+By **Basic Knowledge: Plane Figure** and the method of viewing a solid figure from different directions.
 
 This solid figure is an L-shaped staircase made of $9$ cubes. From the front: the leftmost column has $2$ squares (stacked), and the four right columns each have $1$ square; the front view is a step shape with the left column height $2$ and the four right columns height $1$.
 
@@ -48,13 +58,16 @@ The figure consists of the three views of this L-shaped staircase from three dir
 
 $\blacksquare$
 
-### Exercise 4
+
+---
+
+## Exercise 4
 
 (Exercise 6.1, Problem 2) A triangular prism is shown; the three figures on the right, (1) an inverted triangle, (2) two adjacent rectangles, (3) one rectangle, are each obtained by viewing the prism from which direction?
 
 ### Solution to Exercise 4
 
-By **Definition 6.1.2** (Plane Figure), view the triangular prism from different directions.
+By **Basic Knowledge: Plane Figure**, view the triangular prism from different directions.
 
 The triangular prism has triangular bases and three rectangular lateral faces.
 
@@ -66,13 +79,16 @@ The triangular prism has triangular bases and three rectangular lateral faces.
 
 $\blacksquare$
 
-### Exercise 5
+
+---
+
+## Exercise 5
 
 (Exercise 6.1, Problem 3) Viewing the following solid figures (cylinder, cone, sphere) from the front, the left, and the top respectively, what plane figures do you obtain?
 
 ### Solution to Exercise 5
 
-By **Definition 6.1.2** (Plane Figure), view each solid figure from the three directions.
+By **Basic Knowledge: Plane Figure**, view each solid figure from the three directions.
 
 (1) Cylinder: both front and left are rectangles (height is the rectangle's height, width is the base diameter), and the top is a circle.
 
@@ -84,13 +100,16 @@ The figure shows the plane figures obtained by viewing a cylinder, a cone, and a
 
 $\blacksquare$
 
-### Exercise 6
+
+---
+
+## Exercise 6
 
 (Exercise 6.1, Problem 2) Match each solid figure (cylinder, cone, triangular prism) with its net (figure (1) rectangle with two circles below, figure (2) sector with a circle below, figure (3) rectangle with triangles on two sides, figure (4) rectangle with circles on two sides, figure (5) three rectangles with two triangles above, figure (6) sector with a circle on the side) by drawing lines.
 
 ### Solution to Exercise 6
 
-By **Definition 6.1.3** (Net), match according to the unfolded shape of each solid figure.
+By **Basic Knowledge: Net**, match according to the unfolded shape of each solid figure.
 
 The net of a cylinder is one rectangle and two equal circles: figure (1) (rectangle with two circles below) and figure (4) (rectangle with circles on two sides) are both nets of a cylinder.
 
@@ -100,13 +119,16 @@ The net of a triangular prism is two triangles and three rectangles: figure (3) 
 
 $\blacksquare$
 
-### Problem 1
+
+---
+
+## Problem 1
 
 (Problem 6.1, Review and Consolidation, Problem 1) Match each solid figure (triangular prism, cone, cube, cylinder) with its net (figures: rectangle with triangles on two sides, sector plus circle, cross of six squares, rectangle plus circles on two sides) by drawing lines.
 
 ### Solution to Problem 1
 
-By **Definition 6.1.3** (Net), match according to the unfolded shape of each solid figure.
+By **Basic Knowledge: Net**, match according to the unfolded shape of each solid figure.
 
 The net of a triangular prism is two triangles and three rectangles → match with the rectangle-with-triangles-on-two-sides figure.
 
@@ -118,13 +140,16 @@ The net of a cylinder is one rectangle and two circles → match with the rectan
 
 $\blacksquare$
 
-### Problem 2
+
+---
+
+## Problem 2
 
 (Problem 6.1, Review and Consolidation, Problem 2) Viewing the cylinder, cone, and sphere from the front, the left, and the top respectively, what plane figures do you obtain?
 
 ### Solution to Problem 2
 
-By **Definition 6.1.2** (Plane Figure), view each solid figure from the three directions.
+By **Basic Knowledge: Plane Figure**, view each solid figure from the three directions.
 
 (1) Cylinder: front and left are rectangles, top is a circle.
 
@@ -134,25 +159,31 @@ By **Definition 6.1.2** (Plane Figure), view each solid figure from the three di
 
 $\blacksquare$
 
-### Problem 3
+
+---
+
+## Problem 3
 
 (Problem 6.1, Review and Consolidation, Problem 3) Which of the following plane figures, when rotated one full turn about an axis, produces the solid figure shown (a frustum of a cone)? (A: trapezoid with concave curved sides, B: trapezoid with convex curved sides, C: right trapezoid, D: hyperbola-shaped concave strip)
 
 ### Solution to Problem 3
 
-By **Definition 6.1.5** (A Moving Plane Forms a Solid), a plane figure rotated about an axis forms a solid figure.
+By **Basic Knowledge: A Moving Plane Forms a Solid**, a plane figure rotated about an axis forms a solid figure.
 
 The target solid is a frustum of a cone (circular truncated cone), whose lateral side is a straight line. The plane figure that, rotated about the axis, produces a circular truncated cone should be a right trapezoid (one side perpendicular to the axis, one side parallel to the axis, and one slanted side). Hence figure (C), the right trapezoid, rotated one full turn about the axis, produces a circular truncated cone.
 
 $\blacksquare$
 
-### Problem 4
+
+---
+
+## Problem 4
 
 (Problem 6.1, Review and Consolidation, Problem 4) Match each solid figure with its net by drawing lines.
 
 ### Solution to Problem 4
 
-By **Definition 6.1.3** (Net), match according to the unfolded shape of each solid figure.
+By **Basic Knowledge: Net**, match according to the unfolded shape of each solid figure.
 
 The nets in the top row, left to right: rectangle with triangles on two sides (net of triangular prism), sector plus small circle (net of cone), cross of six squares (net of cube), rectangle with circles on two sides (net of cylinder).
 
@@ -160,13 +191,16 @@ The solids in the bottom row, left to right: cylinder, cube, triangular prism, c
 
 Corresponding matches: triangular prism ↔ rectangle with triangles on two sides; cone ↔ sector plus circle; cube ↔ six squares; cylinder ↔ rectangle plus circles on two sides. $\blacksquare$
 
-### Problem 5
+
+---
+
+## Problem 5
 
 (Problem 6.1, Review and Consolidation, Problem 5) As shown, a square of side $5\ \text{cm}$ is rotated one full turn about the line of one of its sides; what is the resulting geometric solid? Viewed from the front, what is the shape of the figure obtained? What is its area?
 
 ### Solution to Problem 5
 
-By **Definition 6.1.5** (A Moving Plane Forms a Solid) and **Definition 6.1.2** (Plane Figure).
+By **Basic Knowledge: A Moving Plane Forms a Solid** and **Basic Knowledge: Plane Figure**.
 
 The square rotated about one side as axis produces a cylinder, with base radius $5\ \text{cm}$ and height $5\ \text{cm}$.
 
@@ -176,13 +210,16 @@ The area of this rectangle $=5\times10=50\ \text{cm}^{2}$.
 
 $\blacksquare$
 
-### Problem 6
+
+---
+
+## Problem 6
 
 (Problem 6.1, Review and Consolidation, Problem 6) As shown in figures (1) to (6), are these all nets of a cube?
 
 ### Solution to Problem 6
 
-By **Definition 6.1.3** (Net), judge whether each figure can be folded into a cube.
+By **Basic Knowledge: Net**, judge whether each figure can be folded into a cube.
 
 A cube's net has $11$ basic types; a field-shaped or L-shaped four-cell structure must not appear.
 
@@ -200,25 +237,31 @@ Figure (6) cross shape (four cells in a horizontal row in the middle, one above 
 
 Hence figure (3) is not a net of a cube, while the rest (1)(2)(4)(5)(6) all are. $\blacksquare$
 
-### Problem 7
+
+---
+
+## Problem 7
 
 (Problem 6.1, Comprehensive Application, Problem 8) As shown, in a cube net the first row writes "China" "country" "dream", and the second row writes "I" "my" "dream" (the second row starts from the second column). After folding into a cube, what is the character on the face opposite to the face with "my"?
 
 ### Solution to Problem 7
 
-By **Definition 6.1.3** (Net), determine the opposite relations among the faces in the net.
+By **Basic Knowledge: Net**, determine the opposite relations among the faces in the net.
 
 Net layout: the three cells of the first row are "China" "country" "dream"; the three cells of the second row are "I" "my" "dream" (starting from the second column).
 
 After folding into a cube, "country" and "my" are opposite (same column, separated by one row), "China" and "dream" (third cell of the first row) are opposite, and "I" and "dream" (third cell of the second row) are opposite. Hence the character on the face opposite to the "my" face is "country". $\blacksquare$
 
-### Problem 8
+
+---
+
+## Problem 8
 
 (Problem 6.1, Comprehensive Application, Problem 9) As shown, what can each of the following figures be folded into? (Four nets: rectangle with a circle at each end, rectangle with a pentagon at each end, semicircle plus circle, Y-shape of three quadrilaterals)
 
 ### Solution to Problem 8
 
-By **Definition 6.1.3** (Net), judge the folded solid figure from each net.
+By **Basic Knowledge: Net**, judge the folded solid figure from each net.
 
 The first (rectangle with a circle at each end): folds into a cylinder.
 
@@ -230,13 +273,16 @@ The fourth (Y-shape of three quadrilaterals sharing a vertex): folds into a tria
 
 $\blacksquare$
 
-### Problem 9
+
+---
+
+## Problem 9
 
 (Problem 6.1, Comprehensive Application, Problem 9) As shown, a rectangular box has length, width, and height $a$, $b$, and $c$ respectively. An ant crawls along the surface from vertex $A$ to the opposite vertex $B$; find the length of the shortest path.
 
 ### Solution to Problem 9
 
-By **Definition 6.1.3** (Net), unfold the sides of the box into a plane figure and then find the shortest path.
+By **Basic Knowledge: Net**, unfold the sides of the box into a plane figure and then find the shortest path.
 
 Unfold two adjacent faces of the box into the same plane; then the shortest path is the hypotenuse of a right triangle. There are three ways to unfold:
 
@@ -248,25 +294,31 @@ Unfold two adjacent faces of the box into the same plane; then the shortest path
 
 Taking the smallest of the three gives the shortest path. $\blacksquare$
 
-### Problem 10
+
+---
+
+## Problem 10
 
 (Problem 6.1, Extension and Exploration, Problem 10) Can you fold a square piece of paper into a triangular pyramid? Try it by hand.
 
 ### Solution to Problem 10
 
-By **Definition 6.1.3** (Net) and the symmetry of folding.
+By **Basic Knowledge: Net** and the symmetry of folding.
 
 Fold the four corners of the square paper toward the center so that the four corner vertices meet at the center of the square. After folding, the four triangular faces form the lateral faces of a square pyramid with the center as the apex and the four sides of the square as the bases. If the square is folded twice along its two diagonals, then cut along the creases and unfolded, one obtains a net made of four triangular faces forming a triangular pyramid.
 
 $\blacksquare$
 
-### Problem 11
+
+---
+
+## Problem 11
 
 (Problem 6.1, Extension and Exploration, Problem 11) Cutting a cube with a plane, how many sides can the cross section have? Draw the shape of the cross section.
 
 ### Solution to Problem 11
 
-By **Definition 6.1.2** (Plane Figure), the cross section is the plane figure obtained by the intersection of the plane with the cube's surface.
+By **Basic Knowledge: Plane Figure**, the cross section is the plane figure obtained by the intersection of the plane with the cube's surface.
 
 The plane intersects the cube's faces; each face it intersects gives one edge. The cube has six faces, so the cross section intersects at most six faces and is at most a hexagon. The cross section can be a triangle (equilateral, isosceles, or scalene), a quadrilateral (square, rectangle, or trapezoid), a pentagon, or a hexagon.
 
@@ -274,13 +326,16 @@ The figure shows the various possible cross sections obtained by cutting a cube 
 
 $\blacksquare$
 
-### Problem 12
+
+---
+
+## Problem 12
 
 (Problem 6.1, Extension and Exploration, Problem 11) As in figure (1), the net has four cells in a vertical column on the left (the third cell bears a red star), and three cells in a horizontal row on the right. Of the three cubes on the right (A: red star at upper-left of the front face, B: front face has a horizontal center line, C: front face has both horizontal and vertical center lines), which could be folded from this net?
 
 ### Solution to Problem 12
 
-By **Definition 6.1.3** (Net), judge the visible faces of the folded cube from the pattern on the net.
+By **Basic Knowledge: Net**, judge the visible faces of the folded cube from the pattern on the net.
 
 In the net, the red star is in the third cell of the left vertical column. After folding, the face bearing the star is adjacent to the three horizontal cells. Since the left vertical column has four cells, after folding they form a set of lateral faces of the cube, and the star lies in the middle of a lateral face.
 
@@ -292,12 +347,12 @@ After this net is folded, the two faces adjacent to the star face have edges alo
 
 $\blacksquare$
 
-### Picture-Telling Math History 1
+## Picture-Telling Math History 1
 
 (Picture-Telling Math History: The Origins of Geometry) How did geometric knowledge arise from human production and daily life?
 
 ### Solution to Picture-Telling Math History 1
 
-By **Definition 6.1.4** (Points, Lines, Planes, and Solids), geometry originates from human abstraction of the shapes, sizes, and positional relations of objects in the real world.
+By **Basic Knowledge: Points, Lines, Planes, and Solids**, geometry originates from human abstraction of the shapes, sizes, and positional relations of objects in the real world.
 
 After the Nile flooded in ancient Egypt, land had to be re-surveyed, giving rise to methods of land measurement; in ancient China, farming required measuring field areas and setting calendars, accumulating rich geometric knowledge. Geometry gradually arose and developed from these practical needs. $\blacksquare$

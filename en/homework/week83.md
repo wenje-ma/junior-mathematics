@@ -1,12 +1,16 @@
-# Assignment 83
+# week83
 
-> **Definition 17.1.1** (Factoring) <br>Writing a polynomial as a product of several integral expressions is called factoring this polynomial, also called decomposing the polynomial into factors. Factoring and polynomial multiplication are inverse transformations.
+> **Basic Knowledge: Factoring**<br>Writing a polynomial as a product of several integral expressions is called factoring this polynomial, also called decomposing the polynomial into factors. Factoring and polynomial multiplication are inverse transformations.
+> **Basic Knowledge: Method of Extracting the Common Factor**<br>Factor out the common factor of all terms to express the polynomial as a product.
 
-> **Definition 17.1.2** (Common Factor) <br>A common factor shared by all terms of a polynomial is called the common factor of the terms of this polynomial.
+---
 
-> **Definition 17.1.3** (Method of Extracting the Common Factor) <br>If the terms of a polynomial have a common factor, this common factor can be extracted, writing the polynomial as the product of the common factor and another factor.
 
-### Exercise 1
+> **Basic Knowledge: Common Factor** <br>A common factor shared by all terms of a polynomial is called the common factor of the terms of this polynomial.
+
+> **Basic Knowledge: Method of Extracting the Common Factor** <br>If the terms of a polynomial have a common factor, this common factor can be extracted, writing the polynomial as the product of the common factor and another factor.
+
+## Exercise 1
 
 (Exercise 17.1, Problem 1) Which of the following transformations from left to right are factorizations? Which are not? Why?
 
@@ -18,7 +22,7 @@
 
 ### Solution to Exercise 1
 
-By **Definition 17.1.1**, the result of a factorization must be a product of several integral expressions.
+By **Basic Knowledge**, the result of a factorization must be a product of several integral expressions.
 
 (1) No; it is polynomial multiplication, going from a product to a sum.
 
@@ -26,7 +30,7 @@ By **Definition 17.1.1**, the result of a factorization must be a product of sev
 
 (3) No; the right side $x\left(x-3\right)+2$ is still in the form of a sum, not a product. $\blacksquare$
 
-### Exercise 2
+## Exercise 2
 
 (Exercise 17.1, Problem 2) Factor:
 
@@ -40,7 +44,7 @@ By **Definition 17.1.1**, the result of a factorization must be a product of sev
 
 ### Solution to Exercise 2
 
-By **Definition 17.1.3** (Method of Extracting the Common Factor).
+By **Basic Knowledge: Method of Extracting the Common Factor**.
 
 (1) $ax-ay=a\left(x-y\right)$.
 
@@ -50,7 +54,7 @@ By **Definition 17.1.3** (Method of Extracting the Common Factor).
 
 (4) $xy-y^2+yz=y\left(x-y+z\right)$. $\blacksquare$
 
-### Exercise 3
+## Exercise 3
 
 (Exercise 17.1, Problem 3) Calculate using factoring:
 
@@ -62,7 +66,7 @@ By **Definition 17.1.3** (Method of Extracting the Common Factor).
 
 ### Solution to Exercise 3
 
-By **Definition 17.1.3**.
+By **Basic Knowledge**.
 
 (1) $1.99^2+1.99\times0.01=1.99\left(1.99+0.01\right)=1.99\times2=3.98$.
 
@@ -70,7 +74,7 @@ By **Definition 17.1.3**.
 
 (3) $5\times3^4+4\times3^4+9\times3^2=9\times3^4+9\times3^2=9\times3^2\left(9+1\right)=81\times10=810$. $\blacksquare$
 
-### Exercise 4
+## Exercise 4
 
 (Exercise 17.1, Problem 1) Factor:
 
@@ -84,7 +88,7 @@ By **Definition 17.1.3**.
 
 ### Solution to Exercise 4
 
-By **Definition 17.1.3**.
+By **Basic Knowledge**.
 
 (1) $8m^2 n+2mn=2mn\left(4m+1\right)$.
 
@@ -94,7 +98,7 @@ By **Definition 17.1.3**.
 
 (4) Since $\left(z-y\right)^3=-\left(y-z\right)^3$, we have $2a\left(y-z\right)^3-4b\left(z-y\right)^3=\left(y-z\right)^3\left(2a+4b\right)=2\left(y-z\right)^3\left(a+2b\right)$. $\blacksquare$
 
-### Exercise 5
+## Exercise 5
 
 (Exercise 17.1, Problem 2) First factor, then evaluate: $4a^2\left(x+7\right)-3\left(x+7\right)$, where $a=-5$, $x=3$.
 
@@ -104,7 +108,7 @@ $$4a^2\left(x+7\right)-3\left(x+7\right)=\left(x+7\right)\left(4a^2-3\right).$$
 
 Substituting $a=-5,x=3$, we get $\left(3+7\right)\left(4\times25-3\right)=10\times97=970$. $\blacksquare$
 
-### Problem 1
+## Problem 1
 
 (Exercise 17.1, Review and Consolidation, Problem 1) Which of the following transformations from left to right are factorizations? Which are not? Why?
 
@@ -118,7 +122,7 @@ Substituting $a=-5,x=3$, we get $\left(3+7\right)\left(4\times25-3\right)=10\tim
 
 ### Solution to Problem 1
 
-By **Definition 17.1.1**.
+By **Basic Knowledge**.
 
 (1) Yes; the right side is a product.
 
@@ -128,7 +132,7 @@ By **Definition 17.1.1**.
 
 (4) Yes; the right side is a product. $\blacksquare$
 
-### Problem 2
+## Problem 2
 
 (Exercise 17.1, Review and Consolidation, Problem 2) Factor:
 
@@ -142,7 +146,7 @@ By **Definition 17.1.1**.
 
 ### Solution to Problem 2
 
-By **Definition 17.1.3**.
+By **Basic Knowledge**.
 
 (1) $x+xy=x\left(1+y\right)$.
 
@@ -152,7 +156,7 @@ By **Definition 17.1.3**.
 
 (4) $2mn-n^2+8n=n\left(2m-n+8\right)$. $\blacksquare$
 
-### Problem 3
+## Problem 3
 
 (Exercise 17.1, Review and Consolidation, Problem 3) Calculate using factoring:
 
@@ -166,7 +170,7 @@ By **Definition 17.1.3**.
 
 (2) $17\times0.11+37\times0.11-46\times0.11=0.11\left(17+37-46\right)=0.11\times8=0.88$. $\blacksquare$
 
-### Problem 4
+## Problem 4
 
 (Exercise 17.1, Review and Consolidation, Problem 4) Factor:
 
@@ -188,7 +192,7 @@ By **Definition 17.1.3**.
 
 ### Solution to Problem 4
 
-By **Definition 17.1.3**.
+By **Basic Knowledge**.
 
 (1) $2mn^2+mn=mn\left(2n+1\right)$.
 
@@ -206,7 +210,7 @@ By **Definition 17.1.3**.
 
 (8) $x^2\left(3y-6\right)+x\left(6-3y\right)=x\left(3y-6\right)\left(x-1\right)$. $\blacksquare$
 
-### Problem 5
+## Problem 5
 
 (Exercise 17.1, Comprehensive Application, Problem 5) First factor, then evaluate:
 
@@ -220,7 +224,7 @@ By **Definition 17.1.3**.
 
 (2) $4x\left(y+4\right)-x\left(y+4\right)^2=x\left(y+4\right)\left[4-\left(y+4\right)\right]=x\left(y+4\right)\left(-y\right)=-xy\left(y+4\right)$. Substituting $x=2,y=5$, we get $-2\cdot5\cdot9=-90$. $\blacksquare$
 
-### Problem 6
+## Problem 6
 
 (Exercise 17.1, Comprehensive Application, Problem 6) Given $ab=2$, $a-4b=-5$, find the value of $a^2 b-4ab^2+ab$.
 
@@ -230,7 +234,7 @@ $$a^2 b-4ab^2+ab=ab\left(a-4b+1\right).$$
 
 Substituting $ab=2$, $a-4b=-5$, we get $2\left(-5+1\right)=-8$. $\blacksquare$
 
-### Problem 7
+## Problem 7
 
 (Exercise 17.1, Comprehensive Application, Problem 7) Let $n$ be an odd number. Prove that the remainder of $n^2$ divided by $8$ is $1$.
 
@@ -246,7 +250,7 @@ $$n^2=4\cdot2t+1=8t+1.$$
 
 Hence $n^2$ leaves a remainder of $1$ when divided by $8$. $\blacksquare$
 
-### Problem 8
+## Problem 8
 
 (Exercise 17.1, Comprehensive Application, Problem 8) Given that the three side lengths of a triangle are $a,b,c$, and $ab-ac=b^2-bc$, prove that this triangle is isosceles.
 

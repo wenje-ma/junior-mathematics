@@ -1,14 +1,12 @@
-# 作业 170
+# week170
 
-> **定义 28.1.1** (正弦) <br>$\sin A=\frac{a}{c}$.
-> 
-> **定义 28.1.2** (余弦) <br>$\cos A=\frac{b}{c}$.
-> 
-> **定义 28.1.3** (正切) <br>$\tan A=\frac{a}{b}$.
-> 
-> **结论 28.1.2** (特殊角的三角函数值) <br>$\sin 30^{\circ}=\frac{1}{2}$, $\cos 30^{\circ}=\frac{\sqrt{3}}{2}$, $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$; $\sin 45^{\circ}=\frac{\sqrt{2}}{2}$, $\cos 45^{\circ}=\frac{\sqrt{2}}{2}$, $\tan 45^{\circ}=1$; $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$, $\cos 60^{\circ}=\frac{1}{2}$, $\tan 60^{\circ}=\sqrt{3}$.
-> 
-> **结论 28.2.1** (直角三角形元素间的关系) <br>$a^{2}+b^{2}=c^{2}$; $\angle A+\angle B=90^{\circ}$; $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$, $\tan A=\frac{a}{b}$.
+> **基础知识: 正弦**<br>$\sin A=\frac{a}{c}$.
+> **基础知识: 余弦**<br>$\cos A=\frac{b}{c}$.
+> **基础知识: 正切**<br>$\tan A=\frac{a}{b}$.
+> **基础知识: 特殊角的三角函数值**<br>$\sin 30^{\circ}=\frac{1}{2}$, $\cos 30^{\circ}=\frac{\sqrt{3}}{2}$, $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$; $\sin 45^{\circ}=\frac{\sqrt{2}}{2}$, $\cos 45^{\circ}=\frac{\sqrt{2}}{2}$, $\tan 45^{\circ}=1$; $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$, $\cos 60^{\circ}=\frac{1}{2}$, $\tan 60^{\circ}=\sqrt{3}$.
+> **基础知识: 直角三角形元素间的关系**<br>$a^{2}+b^{2}=c^{2}$; $\angle A+\angle B=90^{\circ}$; $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$, $\tan A=\frac{a}{b}$.
+---
+
 
 ### 复习题一
 
@@ -18,7 +16,7 @@
 
 由勾股定理, $b=\sqrt{c^{2}-a^{2}}=\sqrt{36-4}=\sqrt{32}=4\sqrt{2}$.
 
-由**定义 28.1.1**、**定义 28.1.2**、**定义 28.1.3**:
+由**基础知识**, **基础知识**, **基础知识**:
 
 $$\sin A=\frac{a}{c}=\frac{2}{6}=\frac{1}{3},\quad \cos A=\frac{b}{c}=\frac{4\sqrt{2}}{6}=\frac{2\sqrt{2}}{3},\quad \tan A=\frac{a}{b}=\frac{2}{4\sqrt{2}}=\frac{\sqrt{2}}{4}.\ \blacksquare$$
 
@@ -28,7 +26,7 @@ $$\sin A=\frac{a}{c}=\frac{2}{6}=\frac{1}{3},\quad \cos A=\frac{b}{c}=\frac{4\sq
 
 ### 解答 复习题二
 
-由**定义 28.1.2** (余弦), $\cos A=\frac{AC}{AB}=\frac{\sqrt{3}}{2}$, 故 $AB=\frac{AC}{\cos A}=\frac{4\sqrt{3}}{\sqrt{3}/2}=8$.
+由**基础知识: 余弦**, $\cos A=\frac{AC}{AB}=\frac{\sqrt{3}}{2}$, 故 $AB=\frac{AC}{\cos A}=\frac{4\sqrt{3}}{\sqrt{3}/2}=8$.
 
 由勾股定理, $BC=\sqrt{AB^{2}-AC^{2}}=\sqrt{64-48}=\sqrt{16}=4$. $\blacksquare$
 
@@ -42,7 +40,7 @@ $$\sin A=\frac{a}{c}=\frac{2}{6}=\frac{1}{3},\quad \cos A=\frac{b}{c}=\frac{4\sq
 
 ### 解答 复习题三
 
-由**结论 28.1.2** (特殊角的三角函数值).
+由**基础知识: 特殊角的三角函数值**.
 
 (1) $\sqrt{2}\times\frac{\sqrt{2}}{2}-1=1-1=0$.
 
@@ -116,13 +114,13 @@ $$h=l\sin 30^{\circ}=2\sqrt{3}\times\frac{1}{2}=\sqrt{3}.$$
 
 在直角三角形中, 灯塔高 $42\ \text{m}$ 为对边, 仰角 $33^{\circ}$, 船到海岸的水平距离为邻边.
 
-由**定义 28.1.3** (正切), $\tan 33^{\circ}=\frac{42}{d}$, 故 $d=\frac{42}{\tan 33^{\circ}}\approx\frac{42}{0.6494}\approx 65\ \text{m}$. $\blacksquare$
+由**基础知识: 正切**, $\tan 33^{\circ}=\frac{42}{d}$, 故 $d=\frac{42}{\tan 33^{\circ}}\approx\frac{42}{0.6494}\approx 65\ \text{m}$. $\blacksquare$
 
 ### 复习题八
 
 (复习题 综合运用第 8 题) 如图, 两座建筑物的水平距离 $BC$ 为 $428.3\ \text{m}$, 从 $A$ 点测得 $D$ 点的俯角 $\alpha$ 为 $35^{\circ}12'$, 测得 $C$ 点的俯角 $\beta$ 为 $43^{\circ}24'$, 求这两座建筑物的高度 (结果保留小数点后一位).
 
-图为两座竖直建筑物：较高建筑物 $AC$（$C$ 为底部），较矮建筑物 $BD$（$D$ 为顶部、$B$ 为底部），两建筑底部水平距离 $BC=428.3\ \text{m}$；从较高建筑物顶部 $A$ 测得 $D$ 点俯角为 $\alpha=35^\circ12'$，测得 $C$ 点俯角为 $\beta=43^\circ24'$。
+图为两座竖直建筑物: 较高建筑物 $AC$($C$ 为底部), 较矮建筑物 $BD$($D$ 为顶部, $B$ 为底部), 两建筑底部水平距离 $BC=428.3\ \text{m}$; 从较高建筑物顶部 $A$ 测得 $D$ 点俯角为 $\alpha=35^\circ12'$, 测得 $C$ 点俯角为 $\beta=43^\circ24'$. 
 
 ### 解答 复习题八
 
@@ -144,7 +142,7 @@ $$H-h=BC\cdot\tan\alpha=428.3\times\tan 35.2^{\circ}\approx 428.3\times 0.7064\a
 
 (复习题 综合运用第 9 题) 某型号飞机的机翼形状如图所示, 根据图中数据计算 $AC$, $BD$ 和 $AB$ 的长度 (结果保留小数点后两位). 图中: 四边形 $CDBA$, $CD$ 为左侧竖直边, $CD=3.40\ \text{m}$; $DB$ 为下侧水平边, $DB=5.00\ \text{m}$; 在 $C$ 处 $\angle DCA=45^{\circ}$; 在 $B$ 处 $\angle DBA=30^{\circ}$.
 
-图为飞机机翼形状的四边形 $CDBA$：左侧竖边 $CD=3.40\ \text{m}$，下侧水平边 $DB=5.00\ \text{m}$，上边 $CA$ 从 $C$ 向右上倾斜且与竖直方向成 $45^\circ$，右边 $BA$ 从 $B$ 向左上倾斜且与水平方向成 $30^\circ$，$CA$ 与 $BA$ 交于 $A$。
+图为飞机机翼形状的四边形 $CDBA$: 左侧竖边 $CD=3.40\ \text{m}$, 下侧水平边 $DB=5.00\ \text{m}$, 上边 $CA$ 从 $C$ 向右上倾斜且与竖直方向成 $45^\circ$, 右边 $BA$ 从 $B$ 向左上倾斜且与水平方向成 $30^\circ$, $CA$ 与 $BA$ 交于 $A$. 
 
 ### 解答 复习题九
 
@@ -176,15 +174,15 @@ $$AB=\frac{5.00-1.214}{\cos 30^{\circ}}=\frac{3.786}{0.8660}\approx 4.37\ \text{
 
 (2) 当梯子底端距离墙面 $2.4\ \text{m}$ 时, $\alpha$ 等于多少度 (结果取整数)? 此时人是否能够安全使用这架梯子?
 
-图为一架梯子斜靠在竖直墙面上，梯子底端在水平地面上，梯子与地面所成角为 $\alpha$，梯子顶端靠在墙面上。
+图为一架梯子斜靠在竖直墙面上, 梯子底端在水平地面上, 梯子与地面所成角为 $\alpha$, 梯子顶端靠在墙面上. 
 
 ### 解答 复习题十
 
-(1) 最高攀墙高度对应最大角 $\alpha=75^{\circ}$. 由**定义 28.1.1** (正弦),
+(1) 最高攀墙高度对应最大角 $\alpha=75^{\circ}$. 由**基础知识: 正弦**,
 
 $$h=6\sin 75^{\circ}\approx 6\times 0.9659\approx 5.8\ \text{m}.$$
 
-(2) 梯子底端距墙 $2.4\ \text{m}$, 即邻边 $=2.4$, 斜边 $=6$. 由**定义 28.1.2** (余弦),
+(2) 梯子底端距墙 $2.4\ \text{m}$, 即邻边 $=2.4$, 斜边 $=6$. 由**基础知识: 余弦**,
 
 $$\cos\alpha=\frac{2.4}{6}=0.4,\quad \alpha\approx 66.42^{\circ}\approx 66^{\circ}.$$
 
@@ -198,7 +196,7 @@ $$\cos\alpha=\frac{2.4}{6}=0.4,\quad \alpha\approx 66.42^{\circ}\approx 66^{\cir
 
 (2) 求矩形 $ABCD$ 的周长.
 
-图为矩形 $ABCD$，将边 $AD$ 沿折痕 $AE$ 折叠，使点 $D$ 落在 $BC$ 边上的点 $F$ 处，$E$ 在 $CD$ 边上。
+图为矩形 $ABCD$, 将边 $AD$ 沿折痕 $AE$ 折叠, 使点 $D$ 落在 $BC$ 边上的点 $F$ 处, $E$ 在 $CD$ 边上. 
 
 ### 解答 复习题十一
 
@@ -226,7 +224,7 @@ $AD=AF=10k$, $BC=BF+FC=6k+4k=10k$.
 
 ### 解答 复习题十二
 
-能. 过 $A$ 作 $AE\perp BC$ 于 $E$. 在 $\text{Rt}\triangle ABE$ 中, 由**定义 28.1.1** (正弦), $AE=AB\cdot\sin B$.
+能. 过 $A$ 作 $AE\perp BC$ 于 $E$. 在 $\text{Rt}\triangle ABE$ 中, 由**基础知识: 正弦**, $AE=AB\cdot\sin B$.
 
 平行四边形面积 $S=BC\cdot AE=AB\cdot BC\cdot\sin B$. $\blacksquare$
 

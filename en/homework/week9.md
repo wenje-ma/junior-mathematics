@@ -1,20 +1,29 @@
-# Assignment 9
+# week9
 
-> **Definition 2.1.1** (Rules for Addition of Rational Numbers) <br>When two numbers of the same sign are added, the sum takes the same sign; when two numbers of opposite signs are added, the sum takes the sign of the addend with the larger absolute value; adding two numbers that are opposites of each other gives $0$.
-> 
-> **Definition 2.1.4** (Rules for Subtraction of Rational Numbers) <br>Subtracting a number is equivalent to adding the opposite number of that number.
-> 
-> **Definition 2.2.1** (Rules for Multiplication of Rational Numbers) <br>When two numbers are multiplied, like signs give positive and opposite signs give negative, and the absolute value of the product equals the product of the absolute values of the factors.
-> 
-> **Definition 2.2.7** (Rules for Division of Rational Numbers) <br>Dividing by a number not equal to $0$ is equivalent to multiplying by the reciprocal of that number.
-> 
-> **Definition 2.3.1** (Powers) <br>The operation of finding the product of $n$ identical factors is called exponentiation, and the result is called a power.
-> 
-> **Definition 2.3.3** (Order of Mixed Operations) <br>First exponentiation, then multiplication and division, and finally addition and subtraction; operations at the same level from left to right; if there are parentheses, first carry out the operations inside the parentheses.
-> 
-> **Definition 2.3.4** (Scientific Notation) <br>Expressing a number greater than $10$ in the form $a\times 10^{n}$ ($1\le a< 10$, where $n$ is a positive integer).
+> **Basic Knowledge: Rules for Addition of Rational Numbers**<br>When two numbers of the same sign are added, the sum takes the same sign; when two numbers of opposite signs are added, the sum takes the sign of the addend with the larger absolute value; adding two numbers that are opposites of each other gives $0$.
 
-### Review Problem 1
+> **Basic Knowledge: Rules for Subtraction of Rational Numbers**<br>Subtracting a number is equivalent to adding the opposite number of that number.
+
+> **Basic Knowledge: Rules for Multiplication of Rational Numbers**<br>When two numbers are multiplied, like signs give positive and opposite signs give negative, and the absolute value of the product equals the product of the absolute values of the factors.
+
+> **Basic Knowledge: Rules for Division of Rational Numbers**<br>Dividing by a number not equal to $0$ is equivalent to multiplying by the reciprocal of that number.
+
+> **Basic Knowledge: Powers**<br>The operation of finding the product of $n$ identical factors is called exponentiation, and the result is called a power.
+
+> **Basic Knowledge: Order of Mixed Operations**<br>First exponentiation, then multiplication and division, and finally addition and subtraction; operations at the same level from left to right; if there are parentheses, first carry out the operations inside the parentheses.
+
+> **Basic Knowledge: Scientific Notation**<br>Expressing a number greater than $10$ in the form $a\times 10^{n}$ ($1\le a< 10$, where $n$ is a positive integer).
+
+> **Basic Knowledge: Algebraic Meaning of Absolute Value**<br>The absolute value of a positive number is itself, of a negative number is its opposite, and of 0 is 0.
+> **Basic Knowledge: Approximate Numbers**<br>A number close to but not exactly equal to the actual value; its precision is determined by rounding.
+> **Basic Knowledge: Comparing the Magnitude of Rational Numbers**<br>Comparing the Magnitude of Rational Numbers.
+> **Basic Knowledge: Opposite Numbers**<br>Two numbers that differ only in sign are opposites of each other; their sum is 0.
+> **Basic Knowledge: Reciprocal**<br>Two numbers whose product is 1 are reciprocals of each other.
+> **Basic Knowledge: Sign Rules for Powers**<br>Sign Rules for Powers.
+
+---
+
+## Review Problem 1
 
 (Review Problem, Review and Consolidation, Problem 1) Compute:
 
@@ -26,13 +35,16 @@
 
 ### Solution to Review Problem 1
 
-By **Definition 2.1.1** (Rules for Addition of Rational Numbers) and **Definition 2.2.1** (Rules for Multiplication of Rational Numbers).
+By **Basic Knowledge: Rules for Addition of Rational Numbers** and **Basic Knowledge: Rules for Multiplication of Rational Numbers**.
 
 (1) $100$; (2) $-38$; (3) $-70$; (4) $-11$; (5) $96$;
 
 (6) $-9$; (7) $-\frac{1}{2}$; (8) $\frac{75}{2}$; (9) $\frac{15}{16}$. $\blacksquare$
 
-### Review Problem 2
+
+---
+
+## Review Problem 2
 
 (Review Problem, Review and Consolidation, Problem 2) Compute:
 
@@ -50,7 +62,7 @@ By **Definition 2.1.1** (Rules for Addition of Rational Numbers) and **Definitio
 
 ### Solution to Review Problem 2
 
-By **Definition 2.3.3** (Order of Mixed Operations).
+By **Basic Knowledge: Order of Mixed Operations**.
 
 (1) The original expression $=6-0.2-2+1.5=5.3=\frac{53}{10}$.
 
@@ -64,19 +76,25 @@ By **Definition 2.3.3** (Order of Mixed Operations).
 
 (6) The original expression $=-\left(-2\right)+9\times\left(-2\right)=2-18=-16$. $\blacksquare$
 
-### Review Problem 3
+
+---
+
+## Review Problem 3
 
 (Review Problem, Review and Consolidation, Problem 3) What is the sum of two numbers that are opposites of each other? What is the product of two numbers that are reciprocals of each other?
 
 ### Solution to Review Problem 3
 
-By **Definition 1.2.4** (Opposite Numbers) and **Definition 2.2.2** (Reciprocal).
+By **Basic Knowledge: Opposite Numbers** and **Basic Knowledge: Reciprocal**.
 
 For two numbers that are opposites of each other, such as $a$ and $-a$, their sum is $a+\left(-a\right)=0$, so the sum of two numbers that are opposites of each other is $0$.
 
-For two numbers that are reciprocals of each other, by **Definition 2.2.2** (Reciprocal), their product is $1$. $\blacksquare$
+For two numbers that are reciprocals of each other, by **Basic Knowledge: Reciprocal**, their product is $1$. $\blacksquare$
 
-### Review Problem 4
+
+---
+
+## Review Problem 4
 
 (Review Problem, Review and Consolidation, Problem 4) Express the following numbers in scientific notation:
 
@@ -84,11 +102,14 @@ For two numbers that are reciprocals of each other, by **Definition 2.2.2** (Rec
 
 ### Solution to Review Problem 4
 
-By **Definition 2.3.4** (Scientific Notation).
+By **Basic Knowledge: Scientific Notation**.
 
 (1) $100000000=1\times 10^{8}$; (2) $4500000=4.5\times 10^{6}$; (3) $692400000000=6.924\times 10^{11}$. $\blacksquare$
 
-### Review Problem 5
+
+---
+
+## Review Problem 5
 
 (Review Problem, Review and Consolidation, Problem 5) Take approximate numbers of the following by rounding:
 
@@ -98,11 +119,14 @@ By **Definition 2.3.4** (Scientific Notation).
 
 ### Solution to Review Problem 5
 
-By **Definition 2.3.5** (Approximate Numbers).
+By **Basic Knowledge: Approximate Numbers**.
 
 (1) $245.635\approx 245.6$; (2) $175.65\approx 176$; (3) $12.004\approx 12.00$; (4) $6.5378\approx 6.54$. $\blacksquare$
 
-### Review Problem 6
+
+---
+
+## Review Problem 6
 
 (Review Problem, Review and Consolidation, Problem 6) Compute:
 
@@ -112,19 +136,22 @@ By **Definition 2.3.5** (Approximate Numbers).
 
 ### Solution to Review Problem 6
 
-By **Definition 1.2.6** (Algebraic Meaning of Absolute Value).
+By **Basic Knowledge: Algebraic Meaning of Absolute Value**.
 
 (1) The original expression $=-2-3=-5$.
 
 (2) The original expression $=\left|-2+3\right|=\left|1\right|=1$. $\blacksquare$
 
-### Review Problem 7
+
+---
+
+## Review Problem 7
 
 (Review Problem, Comprehensive Application, Problem 7) Three football teams, red, yellow, and blue, play matches. The results are: the red team beats the yellow team with a score of $4:2$; the blue team beats the yellow team with a score of $3:1$; the red team loses to the blue team with a score of $2:3$. If goals scored are recorded as positive and goals conceded as negative, what is the goal difference of each of the three teams?
 
 ### Solution to Review Problem 7
 
-By **Definition 2.1.1** (Rules for Addition of Rational Numbers), the goal difference is the sum of goals scored and goals conceded.
+By **Basic Knowledge: Rules for Addition of Rational Numbers**, the goal difference is the sum of goals scored and goals conceded.
 
 Red team: goals scored $4+2=6$, goals conceded $2+3=5$, goal difference $=6+\left(-5\right)=1$.
 
@@ -134,7 +161,10 @@ Blue team: goals scored $3+3=6$, goals conceded $1+2=3$, goal difference $=6+\le
 
 Hence the red team has a goal difference of $1$, the yellow team $-4$, and the blue team $3$. $\blacksquare$
 
-### Review Problem 8
+
+---
+
+## Review Problem 8
 
 (Review Problem, Comprehensive Application, Problem 8) The following are the mathematics test scores of ten students:
 
@@ -144,59 +174,74 @@ First estimate their average score, and then compute the average score on that b
 
 ### Solution to Review Problem 8
 
-By **Definition 2.2.7** (Rules for Division of Rational Numbers), the average score is the total score divided by the number of students.
+By **Basic Knowledge: Rules for Division of Rational Numbers**, the average score is the total score divided by the number of students.
 
 The total score $=82+83+78+66+95+75+61+93+82+81=796$. The average score $=796\div 10=79.6$ points. The scores are mostly concentrated in the $70\sim 90$ point range, estimated at about $80$ points, which is close to the computed result of $79.6$ points. $\blacksquare$
 
-### Review Problem 9
+
+---
+
+## Review Problem 9
 
 (Review Problem, Comprehensive Application, Problem 9) The profit/loss situation of a stationery store over a week is shown in the table below (profit recorded as positive, unit: yuan). Monday $-27.8$, Tuesday $-70.3$, Wednesday $200$, Thursday $138.1$, Friday $-8$, Saturday $\;\_\_\;$, Sunday $458$, total $188$. The profit/loss figure for Saturday in the table has been obscured by ink. Please compute the profit/loss figure for Saturday, and state whether Saturday was a profit or a loss and for what amount.
 
 ### Solution to Review Problem 9
 
-By **Definition 2.1.1** (Rules for Addition of Rational Numbers), the sum of the profit/loss over the seven days equals the total of $188$ yuan.
+By **Basic Knowledge: Rules for Addition of Rational Numbers**, the sum of the profit/loss over the seven days equals the total of $188$ yuan.
 
 The sum of the six known days is $-27.8-70.3+200+138.1-8+458=690$. Hence the profit/loss figure for Saturday is $188-690=-502$.
 
 The result is negative, so Saturday was a loss, in the amount of $502$ yuan. $\blacksquare$
 
-### Review Problem 10
+
+---
+
+## Review Problem 10
 
 (Review Problem, Comprehensive Application, Problem 10) A track patrol officer patrols and maintains an east-west railway. Starting from his station, he first walks $7\ \text{km}$ eastward, then another $3\ \text{km}$ eastward, and then turns back and walks $11.5\ \text{km}$ westward. In which direction is he from his station at this point? How far is he from his station, in kilometers?
 
 ### Solution to Review Problem 10
 
-By **Definition 2.1.1** (Rules for Addition of Rational Numbers), eastward is positive and westward is negative.
+By **Basic Knowledge: Rules for Addition of Rational Numbers**, eastward is positive and westward is negative.
 
 $$7+3-11.5=-1.5.$$
 
 The result is negative, so at this point he is west of his station, and his distance from the station is $1.5\ \text{km}$. $\blacksquare$
 
-### Review Problem 11
+
+---
+
+## Review Problem 11
 
 (Review Problem, Comprehensive Application, Problem 11) In the range $0\sim 40\,^\circ\text{C}$, for each $1\,^\circ\text{C}$ rise in temperature, a certain metal wire elongates by about $0.002\ \text{mm}$; conversely, for each $1\,^\circ\text{C}$ drop in temperature, the metal wire shortens by about $0.002\ \text{mm}$. This metal wire at $20\,^\circ\text{C}$ is heated to $30\,^\circ\text{C}$ and then cooled down to $5\,^\circ\text{C}$. What change did the length of the metal wire undergo? By about how many millimeters did the final length elongate relative to the original length?
 
 ### Solution to Review Problem 11
 
-By **Definition 2.2.1** (Rules for Multiplication of Rational Numbers).
+By **Basic Knowledge: Rules for Multiplication of Rational Numbers**.
 
 Heating from $20\,^\circ\text{C}$ to $30\,^\circ\text{C}$ raises the temperature by $10\,^\circ\text{C}$, elongating $10\times 0.002=0.02\ \text{mm}$; then cooling from $30\,^\circ\text{C}$ to $5\,^\circ\text{C}$ lowers the temperature by $25\,^\circ\text{C}$, shortening $25\times 0.002=0.05\ \text{mm}$.
 
 The total change is $0.02-0.05=-0.03\ \text{mm}$, so the final length is shortened by about $0.03\ \text{mm}$ relative to the original length. $\blacksquare$
 
-### Review Problem 12
+
+---
+
+## Review Problem 12
 
 (Review Problem, Comprehensive Application, Problem 12) Over the year, the distance between the Earth and the Sun varies with time. The $1$ astronomical unit is the average distance between the Earth and the Sun, approximately $1.496$ hundred million kilometers. Express, in scientific notation, how many kilometers the $1$ astronomical unit is.
 
 ### Solution to Review Problem 12
 
-By **Definition 2.3.4** (Scientific Notation).
+By **Basic Knowledge: Scientific Notation**.
 
 $$1.496\text{ 亿千米}=149600000\ \text{km}=1.496\times 10^{8}\ \text{km}.$$
 
 Hence the $1$ astronomical unit is $1.496\times 10^{8}\ \text{km}$. $\blacksquare$
 
-### Review Problem 13
+
+---
+
+## Review Problem 13
 
 (Review Problem, Extension and Exploration, Problem 13) In connection with operations on concrete numbers, generalize through special cases, and then compare the magnitudes of the following:
 
@@ -206,13 +251,16 @@ Hence the $1$ astronomical unit is $1.496\times 10^{8}\ \text{km}$. $\blacksquar
 
 ### Solution to Review Problem 13
 
-By **Definition 2.3.1** (Powers) and **Definition 1.2.7** (Comparing the Magnitude of Rational Numbers).
+By **Basic Knowledge: Powers** and **Basic Knowledge: Comparing the Magnitude of Rational Numbers**.
 
 (1) Take $a=\frac{1}{2}$; then $a^{2}=\frac{1}{4}$ and $a^{3}=\frac{1}{8}$. Since $\frac{1}{8}< \frac{1}{4}< \frac{1}{2}$, we get $a^{3}< a^{2}< a$.
 
 (2) Take $b=-\frac{1}{2}$; then $b^{2}=\frac{1}{4}$ and $b^{3}=-\frac{1}{8}$. Since $-\frac{1}{2}< -\frac{1}{8}< \frac{1}{4}$, we get $b< b^{3}< b^{2}$. $\blacksquare$
 
-### Review Problem 14
+
+---
+
+## Review Problem 14
 
 (Review Problem, Extension and Exploration, Problem 14) In connection with concrete numbers, generalize through special cases, and then determine whether the following statements are correct. If you think they are correct, give the reason; if you think they are wrong, give a counterexample.
 
@@ -224,13 +272,16 @@ By **Definition 2.3.1** (Powers) and **Definition 1.2.7** (Comparing the Magnitu
 
 ### Solution to Review Problem 14
 
-(1) Wrong. By **Definition 1.2.4** (Opposite Numbers), the opposite number of $0$ is $0$, that is, $0$ equals its opposite number.
+(1) Wrong. By **Basic Knowledge: Opposite Numbers**, the opposite number of $0$ is $0$, that is, $0$ equals its opposite number.
 
-(2) Correct. By **Definition 2.3.2** (Sign Rules for Powers), the positive even powers of the two opposite numbers $a$ and $-a$ are both positive and have the same absolute value, so $a^{2n}=\left(-a\right)^{2n}$.
+(2) Correct. By **Basic Knowledge: Sign Rules for Powers**, the positive even powers of the two opposite numbers $a$ and $-a$ are both positive and have the same absolute value, so $a^{2n}=\left(-a\right)^{2n}$.
 
 (3) Wrong. Counterexample: $a=1$, $b=-1$; we have $a> b$, but $\frac{1}{a}=1$ and $\frac{1}{b}=-1$, and at this point $\frac{1}{a}> \frac{1}{b}$, so the original statement does not hold. $\blacksquare$
 
-### Review Problem 15
+
+---
+
+## Review Problem 15
 
 (Review Problem, Extension and Exploration, Problem 15) Use a calculator to compute the following expressions, and write the results on the blanks:
 

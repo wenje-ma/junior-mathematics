@@ -1,10 +1,12 @@
-# Assignment 39
+# week39
 
-> **Definition 8.1.1** (Square Root) <br>If a number $x$ has square equal to $a$, i.e. $x^2=a$, then this number $x$ is called a square root of $a$.
-> 
-> **Definition 8.2.1** (Cube Root) <br>If a number $x$ has cube equal to $a$, i.e. $x^3=a$, then this number $x$ is called a cube root of $a$, denoted $\sqrt\left[3\right]{a}$.
+> **Basic Knowledge: Square Root**<br>If a number $x$ has square equal to $a$, i.e. $x^2=a$, then this number $x$ is called a square root of $a$.
 
-### Activity 1
+> **Basic Knowledge: Cube Root**<br>If a number $x$ has cube equal to $a$, i.e. $x^3=a$, then this number $x$ is called a cube root of $a$, denoted $\sqrt\left[3\right]{a}$.
+
+---
+
+## Activity 1
 
 (Mathematical Activity, Activity 1) Estimate the length and width of $A0$ paper. According to the international standard, $A$-series paper is rectangular, and $A0$ paper has area $1\,\text{m}^2$. Fold $A0$ paper in half along its long side and cut it open to get $A1$ paper; fold $A1$ paper in half along its long side and cut it open to get $A2$ paper; continuing in this way gives $A3$, $A4$ paper. Based on this, can you estimate the length and width of $A0$ paper in millimeters respectively (take integers)?
 
@@ -26,7 +28,10 @@ From $2^{-\frac14}\approx 0.8409\,\text{m}=841\,\text{mm}$, $x=\sqrt 2\,y\approx
 
 Thus $A0$ paper has length about $1189\,\text{mm}$ and width about $841\,\text{mm}$. $\blacksquare$
 
-### Activity 2
+
+---
+
+## Activity 2
 
 (Mathematical Activity, Activity 2) Finding cube roots by mental arithmetic. The Chinese mathematician Hua Luogeng once blurted out that the cube root of $59319$ is $39$. Do you know how he calculated it so quickly?
 
@@ -38,7 +43,7 @@ Thus $A0$ paper has length about $1189\,\text{mm}$ and width about $841\,\text{m
 
 ### Solution to Activity 2
 
-By **Definition 8.2.1** (Cube Root), determine each digit using the pattern of cubes.
+By **Basic Knowledge: Cube Root**, determine each digit using the pattern of cubes.
 
 (1) $\because 10^3=1000< 59319< 1000000=100^3$, $\therefore 10< \sqrt\left[3\right]{59319}< 100$, i.e. $\sqrt\left[3\right]{59319}$ is a two-digit number.
 

@@ -1,14 +1,16 @@
-# Assignment 37
+# week37
 
-> **Definition 8.2.1** (Cube Root) <br>If a number $x$ has cube equal to $a$, i.e. $x^3=a$, then this number $x$ is called a cube root (or third root) of $a$, denoted $\sqrt\left[3\right]{a}$, where $3$ is the index of the root. The operation of finding the cube root of a number is called extracting the cube root, and extracting the cube root and cubing are inverse operations of each other.
-> 
-> **Property 8.2.1** (Properties of Cube Roots) <br>The cube root of a positive number is positive, the cube root of a negative number is negative, and the cube root of $0$ is $0$.
-> 
-> **Property 8.2.2** (Cube Root of a Negative Number) <br>$\sqrt\left[3\right]{-a}=-\sqrt\left[3\right]{a}$.
-> 
-> **Property 8.2.3** (Relationship Between Cubing and Extracting Cube Roots) <br>For any number $a$, $\left(\sqrt\left[3\right]{a}\right)^3=a$; $\sqrt\left[3\right]{a^3}=a$.
+> **Basic Knowledge: Cube Root**<br>If a number $x$ has cube equal to $a$, i.e. $x^3=a$, then this number $x$ is called a cube root (or third root) of $a$, denoted $\sqrt\left[3\right]{a}$, where $3$ is the index of the root. The operation of finding the cube root of a number is called extracting the cube root, and extracting the cube root and cubing are inverse operations of each other.
 
-### Exercise 1
+> **Basic Knowledge: Cube Root of a Negative Number**<br>Cube Root of a Negative Number.
+> **Basic Knowledge: Properties of Cube Roots**<br>Properties of Cube Roots.
+> **Basic Knowledge: Relationship Between Cubing and Extracting Cube Roots**<br>Relationship Between Cubing and Extracting Cube Roots.
+
+> **Basic Knowledge: Relationship Between Cubing and Cube Root**<br>cube_root(a^3) = a, and (cube_root(a))^3 = a.
+
+---
+
+## Exercise 1
 
 (Exercise 8.2, Problem 1) True or false.
 
@@ -22,7 +24,7 @@
 
 ### Solution to Exercise 1
 
-By **Property 8.2.1** (Properties of Cube Roots), every number has exactly one cube root.
+By **Basic Knowledge: Properties of Cube Roots**, every number has exactly one cube root.
 
 (1) $\because\left(-3\right)^3=-27$, $\therefore -3$ is a cube root of $-27$, correct.
 
@@ -32,7 +34,10 @@ By **Property 8.2.1** (Properties of Cube Roots), every number has exactly one c
 
 (4) $\sqrt\left[3\right]{-8}=-2$, and the cube root of $-2$ is $\sqrt\left[3\right]{-2}$, not $-2$, so it is wrong. $\blacksquare$
 
-### Exercise 2
+
+---
+
+## Exercise 2
 
 (Exercise 8.2, Problem 2) Find the cube roots of the following numbers:
 
@@ -40,7 +45,7 @@ By **Property 8.2.1** (Properties of Cube Roots), every number has exactly one c
 
 ### Solution to Exercise 2
 
-By **Definition 8.2.1** (Cube Root), find the number whose cube equals the given number.
+By **Basic Knowledge: Cube Root**, find the number whose cube equals the given number.
 
 (1) $\because\left(-1\right)^3=-1$, $\therefore\sqrt\left[3\right]{-1}=-1$.
 
@@ -48,7 +53,10 @@ By **Definition 8.2.1** (Cube Root), find the number whose cube equals the given
 
 (3) $\because\left(-\frac{4}{3}\right)^3=-\frac{64}{27}$, $\therefore\sqrt\left[3\right]{-\frac{64}{27}}=-\frac{4}{3}$. $\blacksquare$
 
-### Exercise 3
+
+---
+
+## Exercise 3
 
 (Exercise 8.2, Problem 3) As shown in the figure, there is a Rubik's cube in the shape of a cube, with volume $216\,\text{cm}^3$. What is its edge length?
 
@@ -56,11 +64,14 @@ By **Definition 8.2.1** (Cube Root), find the number whose cube equals the given
 
 Let the edge length be $x\,\text{cm}$; by the volume formula of a cube, $x^3=216$.
 
-By **Definition 8.2.1** (Cube Root), $x=\sqrt\left[3\right]{216}$. $\because 6^3=216$, $\therefore x=6$.
+By **Basic Knowledge: Cube Root**, $x=\sqrt\left[3\right]{216}$. $\because 6^3=216$, $\therefore x=6$.
 
 That is, the edge length of the Rubik's cube is $6\,\text{cm}$. $\blacksquare$
 
-### Exercise 4
+
+---
+
+## Exercise 4
 
 (Exercise 8.2, Problem 1) Find the value of each of the following:
 
@@ -68,15 +79,18 @@ That is, the edge length of the Rubik's cube is $6\,\text{cm}$. $\blacksquare$
 
 ### Solution to Exercise 4
 
-By **Property 8.2.3** (Relationship Between Cubing and Extracting Cube Roots) and **Property 8.2.2** (Cube Root of a Negative Number).
+By **Basic Knowledge: Relationship Between Cubing and Extracting Cube Roots** and **Basic Knowledge: Cube Root of a Negative Number**.
 
 (1) $\because 0.3^3=0.027$, $\therefore\sqrt\left[3\right]{0.027}=0.3$.
 
-(2) By **Property 8.2.3**, $\sqrt\left[3\right]{\left(-7\right)^3}=-7$.
+(2) By **Basic Knowledge: Relationship Between Cubing and Cube Root**, $\sqrt\left[3\right]{\left(-7\right)^3}=-7$.
 
-(3) By **Property 8.2.2**, $\sqrt\left[3\right]{-\frac{8}{27}}=-\sqrt\left[3\right]{\frac{8}{27}}=-\frac{2}{3}$. $\blacksquare$
+(3) By **Basic Knowledge: Cube Root of a Negative Number**, $\sqrt\left[3\right]{-\frac{8}{27}}=-\sqrt\left[3\right]{\frac{8}{27}}=-\frac{2}{3}$. $\blacksquare$
 
-### Exercise 5
+
+---
+
+## Exercise 5
 
 (Exercise 8.2, Problem 2) Use a calculator to find the value of each of the following:
 
@@ -84,7 +98,7 @@ By **Property 8.2.3** (Relationship Between Cubing and Extracting Cube Roots) an
 
 ### Solution to Exercise 5
 
-By **Definition 8.2.1** (Cube Root), use a calculator to find the cube root.
+By **Basic Knowledge: Cube Root**, use a calculator to find the cube root.
 
 (1) $\because 19^3=6859$, $\therefore\sqrt\left[3\right]{6859}=19$.
 
@@ -92,7 +106,10 @@ By **Definition 8.2.1** (Cube Root), use a calculator to find the cube root.
 
 (3) Using a calculator, $\sqrt\left[3\right]{0.028092}\approx 0.304$. $\blacksquare$
 
-### Exercise 6
+
+---
+
+## Exercise 6
 
 (Exercise 8.2, Problem 3) Between which two consecutive integers does each of the following numbers lie?
 
@@ -110,7 +127,10 @@ Compare with cubes.
 
 (4) $\because\left(-4\right)^3=-64< -28< -27=\left(-3\right)^3$, $\therefore-4< \sqrt\left[3\right]{-28}< -3$, lying between $-4$ and $-3$. $\blacksquare$
 
-### Problem 1
+
+---
+
+## Problem 1
 
 (Exercise 8.2, Review and Consolidation, Problem 1) Find the value of each of the following:
 
@@ -118,15 +138,18 @@ Compare with cubes.
 
 ### Solution to Problem 1
 
-By **Property 8.2.2** (Cube Root of a Negative Number) and **Definition 8.2.1** (Cube Root).
+By **Basic Knowledge: Cube Root of a Negative Number** and **Basic Knowledge: Cube Root**.
 
 (1) $\because 0.5^3=0.125$, $\therefore\sqrt\left[3\right]{0.125}=0.5$, so $-\sqrt\left[3\right]{0.125}=-0.5$.
 
 (2) $\because 9^3=729$, $\therefore\sqrt\left[3\right]{729}=9$, so $-\sqrt\left[3\right]{729}=-9$.
 
-(3) By **Property 8.2.2**, $\sqrt\left[3\right]{-\frac{1}{8}}=-\sqrt\left[3\right]{\frac{1}{8}}=-\frac{1}{2}$. $\blacksquare$
+(3) By **Basic Knowledge: Cube Root of a Negative Number**, $\sqrt\left[3\right]{-\frac{1}{8}}=-\sqrt\left[3\right]{\frac{1}{8}}=-\frac{1}{2}$. $\blacksquare$
 
-### Problem 2
+
+---
+
+## Problem 2
 
 (Exercise 8.2, Review and Consolidation, Problem 2) Use a calculator to find the value of each of the following (keep three decimal places):
 
@@ -134,7 +157,7 @@ By **Property 8.2.2** (Cube Root of a Negative Number) and **Definition 8.2.1** 
 
 ### Solution to Problem 2
 
-By **Definition 8.2.1** (Cube Root), use a calculator.
+By **Basic Knowledge: Cube Root**, use a calculator.
 
 (1) $\sqrt\left[3\right]{5572}\approx 17.727$.
 
@@ -142,7 +165,10 @@ By **Definition 8.2.1** (Cube Root), use a calculator.
 
 (3) $\sqrt\left[3\right]{25.986558}\approx 2.961$, so $\pm\sqrt\left[3\right]{25.986558}\approx\pm 2.961$. $\blacksquare$
 
-### Problem 3
+
+---
+
+## Problem 3
 
 (Exercise 8.2, Review and Consolidation, Problem 3) Compare the sizes of each group:
 
@@ -158,7 +184,10 @@ The cube root increases as the radicand increases.
 
 (3) $\because 3> 2$, $\therefore\sqrt\left[3\right]{3}> \sqrt\left[3\right]{2}$; taking opposites of both sides gives $-\sqrt\left[3\right]{3}< -\sqrt\left[3\right]{2}$. $\blacksquare$
 
-### Problem 4
+
+---
+
+## Problem 4
 
 (Exercise 8.2, Comprehensive Application, Problem 4) Find the value of $x$ in each of the following:
 
@@ -166,7 +195,7 @@ The cube root increases as the radicand increases.
 
 ### Solution to Problem 4
 
-By **Definition 8.2.1** (Cube Root).
+By **Basic Knowledge: Cube Root**.
 
 (1) $x=\sqrt\left[3\right]{-0.064}$. $\because 0.4^3=0.064$, $\therefore x=-0.4$.
 
@@ -174,7 +203,10 @@ By **Definition 8.2.1** (Cube Root).
 
 (3) $x+1=\sqrt\left[3\right]{8}=2$, so $x=1$. $\blacksquare$
 
-### Problem 5
+
+---
+
+## Problem 5
 
 (Exercise 8.2, Comprehensive Application, Problem 5) Melt a cuboid iron block with length, width, and height of $21\,dm$, $20\,dm$, $19\,dm$ respectively and recast it into a cube iron block (ignoring loss). What is the edge length of this cube in decimeters (keep two decimal places)?
 
@@ -182,11 +214,14 @@ By **Definition 8.2.1** (Cube Root).
 
 The volume of the cuboid is $21\times 20\times 19=7980\,dm^3$. When melted and recast into a cube, the volume is unchanged; let the edge length of the cube be $x\,dm$, then $x^3=7980$.
 
-By **Definition 8.2.1** (Cube Root), $x=\sqrt\left[3\right]{7980}$. $\because 19^3=6859< 7980< 8000=20^3$, continue estimating: $19.98^3\approx 7976$. Thus $x\approx 19.98\,dm$.
+By **Basic Knowledge: Cube Root**, $x=\sqrt\left[3\right]{7980}$. $\because 19^3=6859< 7980< 8000=20^3$, continue estimating: $19.98^3\approx 7976$. Thus $x\approx 19.98\,dm$.
 
 That is, the edge length of the cube is about $19.98\,dm$. $\blacksquare$
 
-### Problem 6
+
+---
+
+## Problem 6
 
 (Exercise 8.2, Comprehensive Application, Problem 6) As shown in the figure, there is a cylindrical retractable bollard with volume $22600\,\text{cm}^3$; its height $h$ is $5.48$ times the base radius $r$. What is the base radius $r$ in centimeters? (Take $\pi$ as $3.14$, keep two decimal places.)
 
@@ -204,11 +239,14 @@ $$
 r^3=\frac{22600}{5.48\times 3.14}=\frac{22600}{17.2072}\approx 1313.4.
 $$
 
-By **Definition 8.2.1** (Cube Root), $r=\sqrt\left[3\right]{1313.4}\approx 10.95$.
+By **Basic Knowledge: Cube Root**, $r=\sqrt\left[3\right]{1313.4}\approx 10.95$.
 
 That is, the base radius $r$ is about $10.95\,\text{cm}$. $\blacksquare$
 
-### Problem 7
+
+---
+
+## Problem 7
 
 (Exercise 8.2, Comprehensive Application, Problem 7) If the volume of a cube is enlarged to $8$ times the original, by how many times does its edge length become? What if enlarged to $27$ times? What if to $n$ times?
 
@@ -222,7 +260,10 @@ When the volume is enlarged to $27$ times the original, the new edge length is $
 
 When the volume is enlarged to $n$ times the original, the new edge length is $\sqrt\left[3\right]{n\,a^3}=a\sqrt\left[3\right]{n}$, i.e. the edge length becomes $\sqrt\left[3\right]{n}$ times the original. $\blacksquare$
 
-### Problem 8
+
+---
+
+## Problem 8
 
 (Exercise 8.2, Extension and Exploration, Problem 8)
 
@@ -232,13 +273,13 @@ When the volume is enlarged to $n$ times the original, the new edge length is $\
 
 ### Solution to Problem 8
 
-(1) $\left(\sqrt\left[3\right]{0}\right)^3=0$, $\left(\sqrt\left[3\right]{8}\right)^3=8$, $\left(\sqrt\left[3\right]{-8}\right)^3=-8$, $\left(\sqrt\left[3\right]{27}\right)^3=27$, $\left(\sqrt\left[3\right]{-27}\right)^3=-27$. By **Property 8.2.3** (Relationship Between Cubing and Extracting Cube Roots), for any number $a$,
+(1) $\left(\sqrt\left[3\right]{0}\right)^3=0$, $\left(\sqrt\left[3\right]{8}\right)^3=8$, $\left(\sqrt\left[3\right]{-8}\right)^3=-8$, $\left(\sqrt\left[3\right]{27}\right)^3=27$, $\left(\sqrt\left[3\right]{-27}\right)^3=-27$. By **Basic Knowledge: Relationship Between Cubing and Extracting Cube Roots**, for any number $a$,
 
 $$
 \left(\sqrt\left[3\right]{a}\right)^3=a.
 $$
 
-(2) $\sqrt\left[3\right]{0^3}=0$, $\sqrt\left[3\right]{2^3}=2$, $\sqrt\left[3\right]{\left(-2\right)^3}=-2$, $\sqrt\left[3\right]{\left(-3\right)^3}=-3$, $\sqrt\left[3\right]{4^3}=4$. By **Property 8.2.3**, for any number $a$,
+(2) $\sqrt\left[3\right]{0^3}=0$, $\sqrt\left[3\right]{2^3}=2$, $\sqrt\left[3\right]{\left(-2\right)^3}=-2$, $\sqrt\left[3\right]{\left(-3\right)^3}=-3$, $\sqrt\left[3\right]{4^3}=4$. By **Basic Knowledge: Relationship Between Cubing and Cube Root**, for any number $a$,
 
 $$
 \sqrt\left[3\right]{a^3}=a.
@@ -246,7 +287,10 @@ $$
 
 $\blacksquare$
 
-### Problem 9
+
+---
+
+## Problem 9
 
 (Exercise 8.2, Extension and Exploration, Problem 9) Arbitrarily pick a number, say $1234$, use a calculator to extract its cube root, then extract the cube root of the resulting cube root, and so on. What do you find?
 

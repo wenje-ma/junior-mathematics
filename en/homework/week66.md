@@ -1,16 +1,10 @@
-# Assignment 66
+# week66
 
-> **Definition 13.2.1** (Centroid of a Triangle) <br>The three medians of a triangle intersect at one point, called the centroid of the triangle; the centroid of a uniform triangular thin plate lies at this point.
-> 
-> **Conclusion (Comprehensive and Practical Activity 1)** (Centroid of Simple Figures) <br>The centroid of a uniform segment is its midpoint; the centroid of a centrally symmetric figure such as a square, rectangle or parallelogram is its center of symmetry (the intersection of the diagonals); the centroid of a triangle is the intersection of the three medians.
-> 
-> **Conclusion (Comprehensive and Practical Activity 2)** (Centroid of Composite Figures) <br>Divide the composite figure into several simple figures whose centroid positions are known; let the area of the $i$-th part be $S_i$ and its centroid coordinates be $\left(x_i,y_i\right)$. Then the centroid coordinates of the whole are
-> 
-> $$
-> \overline x=\frac{\sum S_i x_i}{\sum S_i},\quad \overline y=\frac{\sum S_i y_i}{\sum S_i}.
-> $$
+> **Basic Knowledge: Centroid of a Triangle**<br>The three medians of a triangle intersect at one point, called the centroid of the triangle; the centroid of a uniform triangular thin plate lies at this point.
 
-### Inquiry 1
+---
+
+## Inquiry 1
 
 (Comprehensive and Practical Activity, Problem 1) Use a fulcrum to support a uniform triangular thin plate so that it stays balanced on the fulcrum. What is the relationship between the centroid position of the uniform triangular thin plate and the centroid position of the triangle?
 
@@ -18,7 +12,7 @@
 
 By **Conclusion (Comprehensive and Practical Activity 1)** (Centroid of Simple Figures), the centroid of a uniform triangular thin plate is exactly the intersection of the triangle's three medians. When the thin plate stays exactly balanced on the fulcrum, the point where the fulcrum contacts the plate is precisely the centroid of the triangle. The two positions coincide. $\blacksquare$
 
-### Inquiry 2
+## Inquiry 2
 
 (Comprehensive and Practical Activity, Problem 2) How do we determine the centroid position of common geometric figures such as a segment, square, rectangle and parallelogram? What common feature do their centroid positions share?
 
@@ -28,7 +22,7 @@ By **Conclusion (Comprehensive and Practical Activity 1)** (Centroid of Simple F
 
 These figures are all simple figures that are axis-symmetric or centrally symmetric, and their centroids all lie on the center of symmetry or the intersection of the medians. A triangle is not a centrally symmetric figure, but its centroid still lies at the intersection of the three medians, i.e. at the geometric center of the figure. $\blacksquare$
 
-### Inquiry 3
+## Inquiry 3
 
 (Comprehensive and Practical Activity, Problem 3) Divide a figure into two parts; let the areas of the two parts be $S_1$, $S_2$ and their centroid coordinates be $\left(x_1,y_1\right)$, $\left(x_2,y_2\right)$. Write the quantitative relationship between the centroid coordinates of the whole and the centroid coordinates of the two parts.
 
@@ -42,7 +36,7 @@ $$
 
 When the two parts have equal area, $\overline x=\frac{x_1+x_2}{2}$, $\overline y=\frac{y_1+y_2}{2}$, i.e. the centroid lies at the midpoint of the line joining the two parts' centroids. $\blacksquare$
 
-### Inquiry 4
+## Inquiry 4
 
 (Comprehensive and Practical Activity, Problem 4) Find the centroid position of the "L"-shaped steel-angle cross section in the figure (outer contour $30\ \text{cm}\times30\ \text{cm}$, wall thickness $10\ \text{cm}$).
 

@@ -1,20 +1,22 @@
-# Assignment 57
+# week57
 
-> **Definition 12.2.1** (Pie Chart) <br>A circle represents the population, each sector represents a part of the population, and the size of the sector reflects that part's percentage of the population; the sector's central angle $=360^\circ\times$ percentage.
-> 
-> **Definition 12.2.2** (Bar Chart) <br>The height of a small rectangle represents the quantity of each category, making it easy to compare the sizes of the data.
-> 
-> **Definition 12.2.3** (Line Chart) <br>The rise or fall of a broken line represents the increase or decrease of data over time, helping to show the development trend.
-> 
-> **Definition 12.2.4** (Frequency and Relative Frequency) <br>The number of data falling in each group is called the frequency; the ratio of the frequency to the total number of data is called the relative frequency.
-> 
-> **Definition 12.2.5** (Class Width and Number of Classes) <br>The distance between the two endpoints of each group is called the class width; the number of groups is called the number of classes. Dividing the range by the class width, taking the integer and adding $1$ gives the number of classes.
-> 
-> **Definition 12.2.6** (Frequency Distribution Histogram) <br>The horizontal axis represents the data groups and the vertical axis represents the frequency, using the area of a small rectangle (the height when equally spaced) to reflect the frequency of each group.
-> 
-> **Definition 12.2.7** (Trend Chart) <br>A statistical chart using a line (straight or curved) to describe the relationship between one quantity and another, helping to predict the change of one quantity from the change of the other.
+> **Basic Knowledge: Pie Chart**<br>A circle represents the population, each sector represents a part of the population, and the size of the sector reflects that part's percentage of the population; the sector's central angle $=360^\circ\times$ percentage.
 
-### Exercise 1
+> **Basic Knowledge: Bar Chart**<br>The height of a small rectangle represents the quantity of each category, making it easy to compare the sizes of the data.
+
+> **Basic Knowledge: Line Chart**<br>The rise or fall of a broken line represents the increase or decrease of data over time, helping to show the development trend.
+
+> **Basic Knowledge: Frequency and Relative Frequency**<br>The number of data falling in each group is called the frequency; the ratio of the frequency to the total number of data is called the relative frequency.
+
+> **Basic Knowledge: Class Width and Number of Classes**<br>The distance between the two endpoints of each group is called the class width; the number of groups is called the number of classes. Dividing the range by the class width, taking the integer and adding $1$ gives the number of classes.
+
+> **Basic Knowledge: Frequency Distribution Histogram**<br>The horizontal axis represents the data groups and the vertical axis represents the frequency, using the area of a small rectangle (the height when equally spaced) to reflect the frequency of each group.
+
+> **Basic Knowledge: Trend Chart**<br>A statistical chart using a line (straight or curved) to describe the relationship between one quantity and another, helping to predict the change of one quantity from the change of the other.
+
+---
+
+## Exercise 1
 
 (Exercise 12.2, Problem 1) Each seventh-grade student joins exactly one club. A survey finds: the literature club accounts for $40\%$, the dance club $20\%$, the art club $10\%$, and the rest join the basketball club. It is known that $20$ students join the art club.
 
@@ -32,7 +34,10 @@
 
 (3) The art club accounts for $10\%$. $\blacksquare$
 
-### Exercise 2
+
+---
+
+## Exercise 2
 
 (Exercise 12.2, Problem 2) Students of a school come from three villages, Qingshan, Lvshui and Xiangyang, in the ratio $1:2:2$.
 
@@ -46,7 +51,10 @@
 
 (2) Qingshan $\frac{1}{5}=20\%$, central angle $72^\circ$; Lvshui $\frac{2}{5}=40\%$, central angle $144^\circ$; Xiangyang $40\%$, central angle $144^\circ$. $\blacksquare$
 
-### Exercise 3
+
+---
+
+## Exercise 3
 
 (Exercise 12.2, Problem 3) Zhang Hua's family budget for next month: food $2100$ yuan, housing loan $1750$ yuan, education $1100$ yuan, transportation $550$ yuan, clothing $350$ yuan, medical care $500$ yuan, living goods and utilities $350$ yuan, other $300$ yuan. Choose an appropriate statistical chart to describe the percentage that each item occupies of the total budget.
 
@@ -54,7 +62,10 @@
 
 The total budget is $2100+1750+1100+550+350+500+350+300=7000$ yuan. Use a pie chart. The percentages of each item: food $30\%$, housing loan $25\%$, education $15.7\%$, transportation $7.9\%$, clothing $5\%$, medical care $7.1\%$, living goods $5\%$, other $4.3\%$. $\blacksquare$
 
-### Exercise 4
+
+---
+
+## Exercise 4
 
 (Exercise 12.2, Problem 4) China's total goods exports (hundred million yuan) from 2013 to 2022 were $137131,143884,141167,138419,153309,164129,172374,179279,214255,237412$; the total imports were $121038,120358,104336,104967,124790,140881,143254,142936,173159,180600$. Choose an appropriate statistical chart to describe and compare them.
 
@@ -62,9 +73,12 @@ The figure is a compound line chart with years (2013–2022) on the horizontal a
 
 ### Solution to Exercise 4
 
-By **Definition 12.2.3** (Line Chart), draw a composite line chart as shown. Except for a slight dip from 2014 to 2016, both exports and imports overall grow year by year, and the total exports exceed the total imports every year. $\blacksquare$
+By **Basic Knowledge: Line Chart**, draw a composite line chart as shown. Except for a slight dip from 2014 to 2016, both exports and imports overall grow year by year, and the total exports exceed the total imports every year. $\blacksquare$
 
-### Exercise 5
+
+---
+
+## Exercise 5
 
 (Exercise 12.2, Problem 5) The heights (cm) of 63 seventh-grade students: maximum $172$, minimum $149$, range $23$. Take a class width of $3$ and divide into $8$ groups: $149\le x< 152$, $152\le x< 155$, $\ldots$, $170\le x< 173$. The frequencies of the groups are $2,6,12,19,10,8,4,2$. Draw a frequency distribution histogram and state from which range to select the honor guard members.
 
@@ -72,9 +86,12 @@ The figure is a frequency distribution histogram with height groups ($149\le x< 
 
 ### Solution to Exercise 5
 
-By **Definition 12.2.6** (Frequency Distribution Histogram), the histogram is as shown. The three groups $155\le x< 158$, $158\le x< 161$, $161\le x< 164$ have the most students, totaling $12+19+10=41$. Hence $40$ honor guard members may be selected from the height range $155\ \text{cm}$ to $164\ \text{cm}$ (excluding $164$). $\blacksquare$
+By **Basic Knowledge: Frequency Distribution Histogram**, the histogram is as shown. The three groups $155\le x< 158$, $158\le x< 161$, $161\le x< 164$ have the most students, totaling $12+19+10=41$. Hence $40$ honor guard members may be selected from the height range $155\ \text{cm}$ to $164\ \text{cm}$ (excluding $164$). $\blacksquare$
 
-### Exercise 6
+
+---
+
+## Exercise 6
 
 (Exercise 12.2, Problem 6) For a drink shop, the data of the number of cold-drink cups sold in a day versus the day's highest temperature ($^\circ\text{C}$) are: temperature $12,13,17,19,20,22,24,25,28$; cups $50,69,74,90,108,97,119,125,154$. Use a trend chart to describe the relationship and estimate the number of cups sold at a temperature of $30^\circ\text{C}$.
 
@@ -82,9 +99,12 @@ The figure is a trend chart with maximum temperature ($^\circ\text{C}$) on the h
 
 ### Solution to Exercise 6
 
-By **Definition 12.2.7** (Trend Chart), plot the scatter points and draw the trend line as shown. The scatter points show an upward trend; the number of cups increases as the temperature rises. Extrapolating from the trend line, at a temperature of $30^\circ\text{C}$ about $155$ cups are sold. $\blacksquare$
+By **Basic Knowledge: Trend Chart**, plot the scatter points and draw the trend line as shown. The scatter points show an upward trend; the number of cups increases as the temperature rises. Extrapolating from the trend line, at a temperature of $30^\circ\text{C}$ about $155$ cups are sold. $\blacksquare$
 
-### Exercise 7
+
+---
+
+## Exercise 7
 
 (Exercise 12.2, Problem 7) The heights (cm) of 8 boys and their fathers: fathers $165,168,172,174,177,177,180,183$; sons $168,169,174,177,176,178,181,182$. Use a trend chart to describe the relationship between the son's height and the father's height, and estimate the son's height when the father is $175\ \text{cm}$ tall.
 
@@ -92,7 +112,10 @@ By **Definition 12.2.7** (Trend Chart), plot the scatter points and draw the tre
 
 Take the father's height as the horizontal axis and the son's height as the vertical axis, plot the scatter points and draw the trend line. The points lie roughly near an upward-sloping line, indicating that the taller the father, the taller the son. From the trend line, when the father is $175\ \text{cm}$ tall, the son is about $176\ \text{cm}$ tall. $\blacksquare$
 
-### Problem 1
+
+---
+
+## Problem 1
 
 (Exercise 12.2, Review and Consolidation, Problem 1) A sample survey of $150$ students' favorite extracurricular reading: literature $50$ people, art $35$ people, popular science $28$ people, other $37$ people.
 
@@ -106,7 +129,10 @@ Take the father's height as the horizontal axis and the son's height as the vert
 
 (2) The number of popular-science books to buy is $4500\times\frac{28}{150}=840$. $\blacksquare$
 
-### Problem 2
+
+---
+
+## Problem 2
 
 (Exercise 12.2, Review and Consolidation, Problem 2) A line chart of the temperature in a place over a day: the temperature is lowest at $4:00$, namely $18^\circ\text{C}$, and highest at $14:00$, namely $32^\circ\text{C}$.
 
@@ -128,7 +154,10 @@ Take the father's height as the horizontal axis and the son's height as the vert
 
 (4) The temperature is low in the early morning, rises gradually after $4$ o'clock, reaches the maximum at $14$ o'clock, and then falls gradually. $\blacksquare$
 
-### Problem 3
+
+---
+
+## Problem 3
 
 (Exercise 12.2, Review and Consolidation, Problem 3) China's automobile sales (ten thousand vehicles) from 2016 to 2022 were $2802.8,2887.9,2808.1,2576.9,2531.1,2627.5,2686.4$; new-energy vehicle sales were $50.7,77.7,125.6,120.6,136.7,352.1,688.7$. Choose an appropriate statistical chart to describe the changes and the trend of the new-energy proportion.
 
@@ -136,7 +165,10 @@ Take the father's height as the horizontal axis and the son's height as the vert
 
 Use a composite line chart to describe total automobile sales and new-energy sales, then a line chart to describe the new-energy proportion $\frac{\text{新能源}}{\text{总销量}}$: about $1.8\%,2.7\%,4.5\%,4.7\%,5.4\%,13.4\%,25.6\%$. It can be seen that the proportion of new-energy vehicle sales has risen rapidly since 2020. $\blacksquare$
 
-### Problem 4
+
+---
+
+## Problem 4
 
 (Exercise 12.2, Review and Consolidation, Problem 4) Frequency table of the number of jump-rope skips in $60$ seconds for the whole class: $60\le x< 80$ frequency $3$; $80\le x< 100$ frequency $4$; $100\le x< 120$ frequency $17$; $120\le x< 140$ frequency $9$; $140\le x< 160$ frequency $8$; $160\le x< 180$ frequency $6$; $180\le x< 200$ frequency $1$.
 
@@ -162,7 +194,10 @@ Use a composite line chart to describe total automobile sales and new-energy sal
 
 (5) Most students have between $100\sim140$ skips, medium performance; a few exceed $180$ skips. $\blacksquare$
 
-### Problem 5
+
+---
+
+## Problem 5
 
 (Exercise 12.2, Comprehensive Application, Problem 5) Five years ago, the income proportions of Lvshui village were: planting $38\%$, breeding $24\%$, tertiary industry $30\%$, other $8\%$; now: planting $11\%$, breeding $27\%$, tertiary industry $56\%$, other $6\%$.
 
@@ -176,7 +211,10 @@ Use a composite line chart to describe total automobile sales and new-energy sal
 
 (2) The tertiary industry already accounts for $56\%$ and grows fastest, so it may become the pillar industry. $\blacksquare$
 
-### Problem 6
+
+---
+
+## Problem 6
 
 (Exercise 12.2, Comprehensive Application, Problem 6) Province A has $150$ ten-thousand urban junior-high students and $13$ ten-thousand rural ones; Province B has $211$ ten-thousand urban and $40$ ten-thousand rural. Two kinds of composite bar charts.
 
@@ -190,7 +228,10 @@ Use a composite line chart to describe total automobile sales and new-energy sal
 
 (2) A side-by-side composite bar chart shows the urban and rural numbers within a province side by side, making it easier to compare. $\blacksquare$
 
-### Problem 7
+
+---
+
+## Problem 7
 
 (Exercise 12.2, Comprehensive Application, Problem 7) A flour wholesaler's $48$ weeks of sales (t): from $18.5$ to $24.4$. Group appropriately and draw a frequency distribution histogram, and analyze how many tons to buy each week.
 
@@ -198,7 +239,10 @@ Use a composite line chart to describe total automobile sales and new-energy sal
 
 The range is $24.4-18.5=5.9$; take a class width of $0.5$ and divide into about $12$ groups. Most weeks' sales fall between $20.0\sim23.0\ \text{t}$. Hence buying about $21\sim22\ \text{t}$ of flour each week is appropriate, meeting demand without causing backlog. $\blacksquare$
 
-### Problem 8
+
+---
+
+## Problem 8
 
 (Exercise 12.2, Comprehensive Application, Problem 8) China's GDP (hundred million yuan) from 2013 to 2022 was $592963,643563,688858,746395,832036,919281,986515,1013567,1149237,1210207$. Use a trend chart to describe and predict the 2023 GDP.
 
@@ -206,7 +250,10 @@ The range is $24.4-18.5=5.9$; take a class width of $0.5$ and divide into about 
 
 Take the year as the horizontal axis and GDP as the vertical axis; plot the points and draw the trend line. The overall trend is upward; extrapolating from the trend line, the 2023 GDP is about $128$ trillion yuan. $\blacksquare$
 
-### Problem 9
+
+---
+
+## Problem 9
 
 (Exercise 12.2, Extension and Exploration, Problem 9) The export value of high-tech products (hundred million US dollars) every five years from 1995 to 2020 was $101,370,2182,4924,6552,7763$; the percentage of total goods exports was $6.8\%,14.8\%,28.6\%,31.2\%,28.8\%,30.0\%$. Draw a statistical chart to show the development trend.
 
@@ -214,7 +261,10 @@ Take the year as the horizontal axis and GDP as the vertical axis; plot the poin
 
 Use a composite line chart: one line shows the export value, with a rapidly rising trend; the other shows the proportion, which rose from 1995 to 2010 and then stabilized around $30\%$. $\blacksquare$
 
-### Problem 10
+
+---
+
+## Problem 10
 
 (Exercise 12.2, Extension and Exploration, Problem 10) China's urban green-space area by region in 2022 ($\text{hm}^2$): Guangdong $539604$, Jiangsu $319725$, Shandong $280650$, ... Tibet $6858$. Analyze the distribution.
 
@@ -222,7 +272,7 @@ Use a composite line chart: one line shows the export value, with a rapidly risi
 
 Group by area: eastern coastal provinces such as Guangdong, Jiangsu and Shandong have large green-space areas, while western provinces such as Tibet, Qinghai and Ningxia have small ones; the distribution is uneven. $\blacksquare$
 
-### Information Technology Application 1
+## Information Technology Application 1
 
 (Information Technology Application: Drawing Statistical Charts with IT Tools) Use a spreadsheet or GeoGebra to draw a frequency distribution histogram of the height data in this section ($149$ to $173$ cm), set the class-width slider to $2,3,4$ respectively, and observe the changes in the histogram shape.
 

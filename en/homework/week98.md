@@ -1,14 +1,13 @@
-# Assignment 98
+# week98
 
-> **Property 19.1.1** (Nonnegativity of Quadratic Radicals) <br> When \(a\ge 0\), \(\sqrt{a}\ge 0\).
-> 
-> **Rule 19.2.1** (Multiplication) <br> \(\sqrt{a}\cdot\sqrt{b}=\sqrt{ab}\) (\(a\ge 0,\ b\ge 0\)).
-> 
-> **Rule 19.2.3** (Division) <br> \(\frac{\sqrt{a}}{\sqrt{b}}=\sqrt{\frac{a}{b}}\) (\(a\ge 0,\ b> 0\)).
-> 
-> **Rule 19.3.1** (Addition and Subtraction) <br> When adding and subtracting quadratic radicals, first reduce the quadratic radicals to simplest form, and then combine the quadratic radicals with the same radicand.
+> **Basic Knowledge: Nonnegativity of Quadratic Radicals**<br>When \(a\ge 0\), \(\sqrt{a}\ge 0\).
+> **Basic Knowledge: Multiplication**<br>\(\sqrt{a}\cdot\sqrt{b}=\sqrt{ab}\) (\(a\ge 0,\ b\ge 0\)).
+> **Basic Knowledge: Division**<br>\(\frac{\sqrt{a}}{\sqrt{b}}=\sqrt{\frac{a}{b}}\) (\(a\ge 0,\ b> 0\)).
+> **Basic Knowledge: Addition and Subtraction**<br>When adding and subtracting quadratic radicals, first reduce the quadratic radicals to simplest form, and then combine the quadratic radicals with the same radicand.
+---
 
-### Review Problem 1
+
+## Review Problem 1
 
 (Review Problem, Review and Consolidation, Problem 1)
 
@@ -16,7 +15,7 @@ Under what conditions on \(x\) are the following expressions meaningful over the
 
 (1) \(\sqrt{3+x}\); (2) \(\frac{1}{\sqrt{2x-1}}\); (3) \(\frac{1}{\sqrt{2-3x}}\); (4) \(\sqrt{(x-1)^{2}}\).
 
-By **Definition 19.1.1**, the radicand must be nonnegative, and the denominator must also be nonzero.
+By **Basic Knowledge**, the radicand must be nonnegative, and the denominator must also be nonzero.
 
 (1) \(3+x\ge 0\), giving \(x\ge -3\).
 
@@ -34,7 +33,7 @@ Simplify:
 
 (1) \(\sqrt{500}\); (2) \(\sqrt{12x}\); (3) \(\sqrt{\frac{14}{3}}\); (4) \(\sqrt{\frac{2}{3a^{2}}}\); (5) \(\sqrt{2xy^{3}}\); (6) \(\sqrt{\frac{5a^{5}}{6}}\).
 
-Use **Rule 19.2.2** and **Rule 19.2.4** to reduce to simplest form.
+Use **Basic Knowledge** and **Basic Knowledge** to reduce to simplest form.
 
 (1) \(\sqrt{500}=\sqrt{100\times 5}=10\sqrt{5}\).
 
@@ -80,7 +79,7 @@ Therefore \(a=\sqrt{1152}=24\sqrt{2}\).
 
 \(\blacksquare\)
 
-### Review Problem 2
+## Review Problem 2
 
 (Review Problem, Comprehensive Application, Problem 5)
 
@@ -160,7 +159,7 @@ Since the current is nonnegative, \(I=\sqrt{6}\approx 2.45\ \text{A}\).
 
 \(\blacksquare\)
 
-### Review Problem 3
+## Review Problem 3
 
 (Review Problem, Extension and Exploration, Problem 9)
 
@@ -222,6 +221,6 @@ $$
 n+\frac{n}{n^{2}-1}=\frac{n\left(n^{2}-1\right)+n}{n^{2}-1}=\frac{n^{3}}{n^{2}-1}=n^{2}\cdot\frac{n}{n^{2}-1}.
 $$
 
-By **Rule 19.2.2**, taking the square root gives \(n\sqrt{\frac{n}{n^{2}-1}}\), which equals the right side.
+By **Basic Knowledge**, taking the square root gives \(n\sqrt{\frac{n}{n^{2}-1}}\), which equals the right side.
 
 \(\blacksquare\)

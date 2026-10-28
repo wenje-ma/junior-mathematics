@@ -1,8 +1,9 @@
-# Assignment 97
+# week97
 
-> **Rule 19.2.2** (Multiplication in Reverse) <br> \(\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}\) (\(a\ge 0,\ b\ge 0\)).
-> 
-> **Rule 19.2.4** (Division in Reverse) <br> \(\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}\) (\(a\ge 0,\ b> 0\)).
+> **Basic Knowledge: Multiplication in Reverse**<br>\(\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}\) (\(a\ge 0,\ b\ge 0\)).
+> **Basic Knowledge: Division in Reverse**<br>\(\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}\) (\(a\ge 0,\ b> 0\)).
+---
+
 
 ### Activity 1
 
@@ -22,7 +23,7 @@ $$
 
 Similarly, for type B paper, \(\frac{257}{182}\approx 1.412\), \(\frac{364}{257}\approx 1.416\), and so on, are all approximately \(1.414\).
 
-By **Rule 19.2.4**, \(\sqrt{2}\approx 1.414\).
+By **Basic Knowledge**, \(\sqrt{2}\approx 1.414\).
 
 It can be seen that the length-to-width ratio of each paper size is approximately \(\sqrt{2}\); that is, they are all rectangles of the same shape, merely scaled proportionally.
 

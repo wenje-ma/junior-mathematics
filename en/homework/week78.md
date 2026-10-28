@@ -1,12 +1,17 @@
-# Assignment 78
+# week78
 
-> **Definition 16.1.1** (Multiplication of Powers with the Same Base) <br>In general, for any base $a$ and any positive integers $m,n$, $a^m\cdot a^n=a^{m+n}$; that is, when multiplying powers with the same base, the base is unchanged and the exponents are added. This property also holds when three or more powers with the same base are multiplied.
+> **Basic Knowledge: Multiplication of Powers with the Same Base**<br>In general, for any base $a$ and any positive integers $m,n$, $a^m\cdot a^n=a^{m+n}$; that is, when multiplying powers with the same base, the base is unchanged and the exponents are added. This property also holds when three or more powers with the same base are multiplied.
+> **Basic Knowledge: Power of a Power**<br>To raise a power to a power, keep the base and multiply the exponents: (a^m)^n = a^{mn}.
+> **Basic Knowledge: Power of a Product**<br>To raise a product to a power, raise each factor to that power and multiply: (ab)^n = a^n b^n.
 
-> **Definition 16.1.2** (Power of a Power) <br>In general, for any base $a$ and any positive integers $m,n$, $\left(a^m\right)^n=a^{mn}$; that is, for a power of a power, the base is unchanged and the exponents are multiplied.
+---
 
-> **Definition 16.1.3** (Power of a Product) <br>In general, for any bases $a,b$ and any positive integer $n$, $\left(ab\right)^n=a^n b^n$; that is, the power of a product equals taking the power of each factor of the product separately and then multiplying the resulting powers. This property also holds for the power of a product of three or more factors.
 
-### Exercise 1
+> **Basic Knowledge: Power of a Power** <br>In general, for any base $a$ and any positive integers $m,n$, $\left(a^m\right)^n=a^{mn}$; that is, for a power of a power, the base is unchanged and the exponents are multiplied.
+
+> **Basic Knowledge: Power of a Product** <br>In general, for any bases $a,b$ and any positive integer $n$, $\left(ab\right)^n=a^n b^n$; that is, the power of a product equals taking the power of each factor of the product separately and then multiplying the resulting powers. This property also holds for the power of a product of three or more factors.
+
+## Exercise 1
 
 (Exercise 16.1, Problem 1) Is each of the following calculations correct? If not, how should it be corrected?
 
@@ -20,7 +25,7 @@
 
 ### Solution to Exercise 1
 
-By **Definition 16.1.1** (Multiplication of Powers with the Same Base), when multiplying powers with the same base the base is unchanged and the exponents are added.
+By **Basic Knowledge: Multiplication of Powers with the Same Base**, when multiplying powers with the same base the base is unchanged and the exponents are added.
 
 (1) Incorrect. $a^3\cdot a^2=a^{3+2}=a^5$; the exponent was mistakenly treated by an operation other than addition.
 
@@ -30,7 +35,7 @@ By **Definition 16.1.1** (Multiplication of Powers with the Same Base), when mul
 
 (4) Correct, $x^{2m}\cdot x^{4n-2}=x^{2m+4n-2}$. $\blacksquare$
 
-### Exercise 2
+## Exercise 2
 
 (Exercise 16.1, Problem 2) Calculate:
 
@@ -44,7 +49,7 @@ By **Definition 16.1.1** (Multiplication of Powers with the Same Base), when mul
 
 ### Solution to Exercise 2
 
-By **Definition 16.1.1** (Multiplication of Powers with the Same Base), the base is unchanged and the exponents are added.
+By **Basic Knowledge: Multiplication of Powers with the Same Base**, the base is unchanged and the exponents are added.
 
 (1) $a^2\cdot a^6=a^{2+6}=a^8$.
 
@@ -54,7 +59,7 @@ By **Definition 16.1.1** (Multiplication of Powers with the Same Base), the base
 
 (4) This property still applies to the product of three powers with the same base, $\left(-12\right)\times\left(-12\right)^2\times\left(-12\right)^3=\left(-12\right)^{1+2+3}=\left(-12\right)^6=12^6$. $\blacksquare$
 
-### Exercise 3
+## Exercise 3
 
 (Exercise 16.1, Problem 1) Is each of the following calculations correct? If not, how should it be corrected?
 
@@ -66,15 +71,15 @@ By **Definition 16.1.1** (Multiplication of Powers with the Same Base), the base
 
 ### Solution to Exercise 3
 
-Judge by **Definition 16.1.2** (Power of a Power) and **Definition 16.1.3** (Power of a Product).
+Judge by **Basic Knowledge: Power of a Power** and **Basic Knowledge: Power of a Product**.
 
 (1) Incorrect. $\left(a^5\right)^2=a^{5\times2}=a^{10}$; for a power of a power the exponents should be multiplied.
 
-(2) Incorrect. By **Definition 16.1.3**, $\left(ab^2\right)^3=a^3\left(b^2\right)^3=a^3 b^6$; the power of the factor $a$ was omitted.
+(2) Incorrect. By **Basic Knowledge**, $\left(ab^2\right)^3=a^3\left(b^2\right)^3=a^3 b^6$; the power of the factor $a$ was omitted.
 
 (3) Incorrect. $\left(-2a\right)^2=\left(-2\right)^2 a^2=4a^2$; the coefficient $-2$ must also be squared. $\blacksquare$
 
-### Exercise 4
+## Exercise 4
 
 (Exercise 16.1, Problem 2) Calculate:
 
@@ -88,7 +93,7 @@ Judge by **Definition 16.1.2** (Power of a Power) and **Definition 16.1.3** (Pow
 
 ### Solution to Exercise 4
 
-By **Definition 16.1.2** (Power of a Power) and **Definition 16.1.1** (Multiplication of Powers with the Same Base).
+By **Basic Knowledge: Power of a Power** and **Basic Knowledge: Multiplication of Powers with the Same Base**.
 
 (1) $\left(10^3\right)^3=10^{3\times3}=10^9$.
 
@@ -98,7 +103,7 @@ By **Definition 16.1.2** (Power of a Power) and **Definition 16.1.1** (Multiplic
 
 (4) $\left(a^2\right)^3\cdot a^5=a^6\cdot a^5=a^{6+5}=a^{11}$. $\blacksquare$
 
-### Exercise 5
+## Exercise 5
 
 (Exercise 16.1, Problem 3) Calculate:
 
@@ -112,7 +117,7 @@ By **Definition 16.1.2** (Power of a Power) and **Definition 16.1.1** (Multiplic
 
 ### Solution to Exercise 5
 
-By **Definition 16.1.3** (Power of a Product) and **Definition 16.1.1** (Multiplication of Powers with the Same Base).
+By **Basic Knowledge: Power of a Product** and **Basic Knowledge: Multiplication of Powers with the Same Base**.
 
 (1) $\left(ab\right)^4=a^4 b^4$.
 
@@ -122,7 +127,7 @@ By **Definition 16.1.3** (Power of a Product) and **Definition 16.1.1** (Multipl
 
 (4) $\left(2ab^2\right)^3\cdot 2ab^2=8a^3 b^6\cdot 2ab^2=16a^4 b^8$. $\blacksquare$
 
-### Problem 1
+## Problem 1
 
 (Exercise 16.1, Review and Consolidation, Problem 1) Calculate:
 
@@ -136,7 +141,7 @@ By **Definition 16.1.3** (Power of a Product) and **Definition 16.1.1** (Multipl
 
 ### Solution to Problem 1
 
-By **Definition 16.1.1** (Multiplication of Powers with the Same Base).
+By **Basic Knowledge: Multiplication of Powers with the Same Base**.
 
 (1) $b^3\cdot b=b^4$.
 
@@ -146,7 +151,7 @@ By **Definition 16.1.1** (Multiplication of Powers with the Same Base).
 
 (4) $x^m\cdot x^{2m-1}=x^{m+2m-1}=x^{3m-1}$. $\blacksquare$
 
-### Problem 2
+## Problem 2
 
 (Exercise 16.1, Review and Consolidation, Problem 2) Calculate:
 
@@ -160,7 +165,7 @@ By **Definition 16.1.1** (Multiplication of Powers with the Same Base).
 
 ### Solution to Problem 2
 
-By **Definition 16.1.2** (Power of a Power).
+By **Basic Knowledge: Power of a Power**.
 
 (1) $\left(10^2\right)^8=10^{16}$.
 
@@ -170,7 +175,7 @@ By **Definition 16.1.2** (Power of a Power).
 
 (4) $-\left(x^2\right)^m=-x^{2m}$. $\blacksquare$
 
-### Problem 3
+## Problem 3
 
 (Exercise 16.1, Review and Consolidation, Problem 3) Calculate:
 
@@ -184,7 +189,7 @@ By **Definition 16.1.2** (Power of a Power).
 
 ### Solution to Problem 3
 
-By **Definition 16.1.3** (Power of a Product).
+By **Basic Knowledge: Power of a Product**.
 
 (1) $\left(2ab\right)^3=8a^3 b^3$.
 
@@ -194,7 +199,7 @@ By **Definition 16.1.3** (Power of a Product).
 
 (4) $\left(-2\times10^3\right)^4=16\times10^{12}=1.6\times10^{13}$. $\blacksquare$
 
-### Problem 4
+## Problem 4
 
 (Exercise 16.1, Review and Consolidation, Problem 4) Calculate:
 
@@ -208,7 +213,7 @@ By **Definition 16.1.3** (Power of a Product).
 
 ### Solution to Problem 4
 
-Combining **Definition 16.1.1**, **Definition 16.1.2**, and **Definition 16.1.3**.
+Combining **Basic Knowledge**, **Basic Knowledge**, and **Basic Knowledge**.
 
 (1) $x\cdot x^3+x^2\cdot x^2=x^4+x^4=2x^4$.
 
@@ -218,7 +223,7 @@ Combining **Definition 16.1.1**, **Definition 16.1.2**, and **Definition 16.1.3*
 
 (4) $a^3\cdot a^4\cdot a+\left(a^2\right)^4+\left(-2a^4\right)^2=a^8+a^8+4a^8=6a^8$. $\blacksquare$
 
-### Problem 5
+## Problem 5
 
 (Exercise 16.1, Comprehensive Application, Problem 5) Calculate:
 
@@ -234,7 +239,7 @@ By the properties of operations on powers.
 
 (2) $7x^2\cdot x^5\cdot\left(-x\right)^5+5\left(x^4\right)^3=7x^7\cdot\left(-x^5\right)+5x^{12}=-7x^{12}+5x^{12}=-2x^{12}$. $\blacksquare$
 
-### Problem 6
+## Problem 6
 
 (Exercise 16.1, Comprehensive Application, Problem 6) Calculate:
 
@@ -244,19 +249,19 @@ By the properties of operations on powers.
 
 ### Solution to Problem 6
 
-By **Definition 16.1.2** and **Definition 16.1.3**.
+By **Basic Knowledge** and **Basic Knowledge**.
 
 (1) $\left[\left(-2a^2 b^3\right)^3\right]^2=\left(-2a^2 b^3\right)^6=\left(-2\right)^6 a^{12} b^{18}=64a^{12} b^{18}$.
 
 (2) $\left(-2xy^2\right)^6+\left(-3x^2 y^4\right)^3=64x^6 y^{12}-27x^6 y^{12}=37x^6 y^{12}$. $\blacksquare$
 
-### Problem 7
+## Problem 7
 
 (Exercise 16.1, Comprehensive Application, Problem 7) Information storage devices commonly use units such as $B,KB,MB,GB,TB$ for storage capacity, where $1\,KB=2^{10}\,B$, $1\,MB=2^{10}\,KB$, $1\,GB=2^{10}\,MB$, $1\,TB=2^{10}\,GB$. For a flash drive with a capacity of $64\,GB$, how many bytes is its capacity?
 
 ### Solution to Problem 7
 
-By **Definition 16.1.1** (Multiplication of Powers with the Same Base), convert all units uniformly into bytes.
+By **Basic Knowledge: Multiplication of Powers with the Same Base**, convert all units uniformly into bytes.
 
 $1\,GB=2^{10}\,MB=2^{10}\times2^{10}\,KB=2^{10}\times2^{10}\times2^{10}\,B=2^{30}\,B$.
 
@@ -264,7 +269,7 @@ Hence $64\,GB=64\times2^{30}\,B=2^6\times2^{30}\,B=2^{36}\,B$.
 
 That is, the capacity of this flash drive is $2^{36}$ bytes. $\blacksquare$
 
-### Problem 8
+## Problem 8
 
 (Exercise 16.1, Extension and Exploration, Problem 8) (1) Given $2^m=a$, $32^n=b$, find $2^{3m+10n}$;
 
@@ -272,7 +277,7 @@ That is, the capacity of this flash drive is $2^{36}$ bytes. $\blacksquare$
 
 ### Solution to Problem 8
 
-By **Definition 16.1.1** and **Definition 16.1.2**.
+By **Basic Knowledge** and **Basic Knowledge**.
 
 (1) $32^n=\left(2^5\right)^n=2^{5n}=b$, hence $2^{10n}=\left(2^{5n}\right)^2=b^2$. Also $2^{3m}=\left(2^m\right)^3=a^3$. Therefore
 
@@ -284,7 +289,7 @@ $$2^x\cdot4^y=2^x\cdot2^{2y}=2^{x+2y}=2^7=128.$$
 
 $\blacksquare$
 
-### Problem 9
+## Problem 9
 
 (Exercise 16.1, Extension and Exploration, Problem 9) If $a^m=a^n$ ($a> 0$, $a\ne1$), then $m=n$. Use the above conclusion to solve the following problems:
 

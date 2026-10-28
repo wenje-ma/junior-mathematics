@@ -1,16 +1,18 @@
-# Assignment 61
+# week61
 
-> **Definition 13.1.1** (Triangle) <br>The figure formed by three segments not on the same line, joined end to end in order, is called a triangle.
-> 
-> **Definition 13.1.2** (Sides, Vertices and Interior Angles) <br>The segments making up a triangle are called the sides of the triangle; the common endpoint of two adjacent sides is called a vertex of the triangle; the angle formed by two adjacent sides is called an interior angle of the triangle, briefly an angle of the triangle. A triangle with vertices $A,B,C$ is denoted $\triangle ABC$.
-> 
-> **Definition 13.1.3** (Isosceles Triangle) <br>A triangle with two equal sides is called an isosceles triangle; the two equal sides are called the legs, the other side is called the base, the angle between the two legs is called the vertex angle, and the angle between a leg and the base is called a base angle.
-> 
-> **Definition 13.1.4** (Equilateral Triangle) <br>A triangle with all three sides equal is called an equilateral triangle; an equilateral triangle is a special isosceles triangle.
-> 
-> **Definition 13.1.5** (Classification of Triangles by Sides) <br>By the equality relation of sides, triangles are first divided into scalene triangles and isosceles triangles; isosceles triangles are further divided into isosceles triangles whose base and legs are unequal and equilateral triangles.
+> **Basic Knowledge: Triangle**<br>The figure formed by three segments not on the same line, joined end to end in order, is called a triangle.
 
-### Exercise 1
+> **Basic Knowledge: Sides, Vertices and Interior Angles**<br>The segments making up a triangle are called the sides of the triangle; the common endpoint of two adjacent sides is called a vertex of the triangle; the angle formed by two adjacent sides is called an interior angle of the triangle, briefly an angle of the triangle. A triangle with vertices $A,B,C$ is denoted $\triangle ABC$.
+
+> **Basic Knowledge: Isosceles Triangle**<br>A triangle with two equal sides is called an isosceles triangle; the two equal sides are called the legs, the other side is called the base, the angle between the two legs is called the vertex angle, and the angle between a leg and the base is called a base angle.
+
+> **Basic Knowledge: Equilateral Triangle**<br>A triangle with all three sides equal is called an equilateral triangle; an equilateral triangle is a special isosceles triangle.
+
+> **Basic Knowledge: Classification of Triangles by Sides**<br>By the equality relation of sides, triangles are first divided into scalene triangles and isosceles triangles; isosceles triangles are further divided into isosceles triangles whose base and legs are unequal and equilateral triangles.
+
+---
+
+## Exercise 1
 
 (Exercise 13.1, Problem 1) As shown, in $\triangle ABC$, $AB=BC=CA$, and point $O$ is inside $\triangle ABC$ with $OA=OB=OC$. Find the isosceles triangles and equilateral triangles in the figure.
 
@@ -18,7 +20,7 @@ The figure shows an equilateral triangle $ABC$ ($AB=BC=CA$) with an interior poi
 
 ### Solution to Exercise 1
 
-By **Definition 13.1.3** (Isosceles Triangle), a triangle with two equal sides is isosceles; by **Definition 13.1.4** (Equilateral Triangle), a triangle with all three sides equal is equilateral.
+By **Basic Knowledge: Isosceles Triangle**, a triangle with two equal sides is isosceles; by **Basic Knowledge: Equilateral Triangle**, a triangle with all three sides equal is equilateral.
 
 The triangles in the figure are $\triangle ABC$, $\triangle OAB$, $\triangle OBC$, $\triangle OCA$.
 
@@ -26,7 +28,10 @@ From $AB=BC=CA$, all three sides of $\triangle ABC$ are equal, so $\triangle ABC
 
 Hence the isosceles triangles are $\triangle OAB$, $\triangle OBC$, $\triangle OCA$, and the equilateral triangle is $\triangle ABC$. $\blacksquare$
 
-### Exercise 2
+
+---
+
+## Exercise 2
 
 (Exercise 13.1, Problem 2) As shown, in $\triangle ABC$, $\angle BAC$ is a right angle, $AD\perp BC$ with foot at $D$, and point $E$ lies on segment $BD$. Find the acute triangles, right triangles and obtuse triangles in the figure.
 
@@ -44,7 +49,10 @@ In $\triangle ABE$, $\angle ABE=\angle ABC$ is acute ($\triangle ABC$ is a right
 
 In summary, the right triangles are $\triangle ABC$, $\triangle ABD$, $\triangle ADE$, $\triangle ADC$; the acute triangle is $\triangle ABE$; the obtuse triangle is $\triangle AEC$. $\blacksquare$
 
-### Problem 1
+
+---
+
+## Problem 1
 
 (Exercise 13.1, Review and Consolidation, Problem 1) As shown, write the triangles having $\angle A$ as an angle, and write the triangles having $BC$ as a side.
 
@@ -56,7 +64,10 @@ The segments drawn in the left figure are $AB$, $BC$, $CA$, $BD$ (point $E$ is t
 
 Hence the triangles having $\angle A$ as an angle are $\triangle ABC$, $\triangle ABE$; the triangles having $BC$ as a side are $\triangle ABC$, $\triangle BEC$, $\triangle BCD$. $\blacksquare$
 
-### Problem 2
+
+---
+
+## Problem 2
 
 (Exercise 13.1, Review and Consolidation, Problem 2) How many triangles are in the figure? Denote these triangles with symbols.
 
@@ -68,7 +79,10 @@ In the right figure, points $B,D,E,C$ lie on the same line, point $A$ is outside
 
 They are $\triangle ABC$, $\triangle ABD$, $\triangle ABE$, $\triangle ADE$, $\triangle ADC$, $\triangle AEC$. Hence there are $6$ triangles in the figure. $\blacksquare$
 
-### Problem 3
+
+---
+
+## Problem 3
 
 (Exercise 13.1, Comprehensive Application, Problem 3) As shown, in $\triangle ABC$, $AD\perp BC$ with foot at $D$, $\angle BAC$ is obtuse, $E$ is a point on $DC$, $\angle BAE$ is acute, and $EF\perp AC$ with foot at $F$.
 
@@ -88,7 +102,10 @@ Since $\angle BAC$ is obtuse, $\triangle ABC$ is an obtuse triangle. By the same
 
 In summary, the right triangles are $\triangle ABD$, $\triangle ADE$, $\triangle ADC$, $\triangle AEF$, $\triangle EFC$; the obtuse triangles are $\triangle ABC$, $\triangle AEC$; the acute triangle is $\triangle ABE$. $\blacksquare$
 
-### Problem 4
+
+---
+
+## Problem 4
 
 (Exercise 13.1, Comprehensive Application, Problem 4) As shown, $AB=BC=CD=DA=AC$. Find the isosceles triangles and equilateral triangles in the figure.
 
@@ -96,13 +113,16 @@ The figure shows two equilateral triangles $ABC$ and $ADC$ sharing side $AC$, wi
 
 ### Solution to Problem 4
 
-By **Definition 13.1.3** (Isosceles Triangle) and **Definition 13.1.4** (Equilateral Triangle), the triangles in the figure are $\triangle ABC$ and $\triangle ADC$, sharing $AC$ as a common side, with vertices on opposite sides of $AC$.
+By **Basic Knowledge: Isosceles Triangle** and **Basic Knowledge: Equilateral Triangle**, the triangles in the figure are $\triangle ABC$ and $\triangle ADC$, sharing $AC$ as a common side, with vertices on opposite sides of $AC$.
 
 From $AB=BC=AC$, all three sides of $\triangle ABC$ are equal, so it is equilateral; from $AD=DC=AC$, all three sides of $\triangle ADC$ are equal, so it is also equilateral.
 
 Hence the isosceles triangles are $\triangle ABC$, $\triangle ADC$; the equilateral triangles are $\triangle ABC$, $\triangle ADC$. $\blacksquare$
 
-### Problem 5
+
+---
+
+## Problem 5
 
 (Exercise 13.1, Extension and Exploration, Problem 5) As shown, points $A,B$ lie on line $a$, and points $C,D,E$ lie on line $b$. Taking any three of the points $A,B,C,D,E$ as the vertices of a triangle, how many triangles can be formed in total? Write out these triangles.
 

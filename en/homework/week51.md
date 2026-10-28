@@ -1,18 +1,18 @@
-# Assignment 51
+# week51
 
-> **Definition 11.1.1** (Inequality) <br>An expression using the symbols "$< $" or "$> $" to denote size/order relations.
-> 
-> **Definition 11.1.2** (Solution of an Inequality) <br>A value of the unknown that makes the inequality hold.
-> 
-> **Definition 11.1.3** (Solution Set of an Inequality) <br>The set consisting of all the solutions of an inequality containing an unknown.
-> 
-> **Property 11.1.1** (Property 1 of Inequalities) <br>Adding (or subtracting) the same number (or expression) to both sides of an inequality leaves the direction of the inequality sign unchanged. $a> b\Rightarrow a\pm c> b\pm c$.
-> 
-> **Property 11.1.2** (Property 2 of Inequalities) <br>Multiplying (or dividing) both sides of an inequality by the same positive number leaves the direction of the inequality sign unchanged. $a> b,\ c> 0\Rightarrow ac> bc$.
-> 
-> **Property 11.1.3** (Property 3 of Inequalities) <br>Multiplying (or dividing) both sides of an inequality by the same negative number reverses the direction of the inequality sign. $a> b,\ c< 0\Rightarrow ac< bc$.
+> **Basic Knowledge: Inequality**<br>An expression using the symbols "$< $" or "$> $" to denote size/order relations.
 
-### Exercise 1
+> **Basic Knowledge: Solution of an Inequality**<br>A value of the unknown that makes the inequality hold.
+
+> **Basic Knowledge: Solution Set of an Inequality**<br>The set consisting of all the solutions of an inequality containing an unknown.
+
+> **Basic Knowledge: Property 1 of Inequalities**<br>Property 1 of Inequalities.
+> **Basic Knowledge: Property 2 of Inequalities**<br>Property 2 of Inequalities.
+> **Basic Knowledge: Property 3 of Inequalities**<br>Property 3 of Inequalities.
+
+---
+
+## Exercise 1
 
 (Exercise 11.1, Problem 1) Express each of the following using an inequality:
 
@@ -30,7 +30,7 @@
 
 ### Solution to Exercise 1
 
-By **Definition 11.1.1** (Inequality).
+By **Basic Knowledge: Inequality**.
 
 (1) $a> 0$.
 
@@ -44,7 +44,10 @@ By **Definition 11.1.1** (Inequality).
 
 (6) Let the number of new-energy buses be $x$; then $\frac{x}{12000}> 66\%$, i.e. $x> 7920$. $\blacksquare$
 
-### Exercise 2
+
+---
+
+## Exercise 2
 
 (Exercise 11.1, Problem 2) Among the following numbers, which are solutions of the inequality $x+3> 6$?
 
@@ -54,11 +57,14 @@ $$
 
 ### Solution to Exercise 2
 
-By **Definition 11.1.2** (Solution of an Inequality), the values of $x$ making $x+3> 6$ hold are $x> 3$.
+By **Basic Knowledge: Solution of an Inequality**, the values of $x$ making $x+3> 6$ hold are $x> 3$.
 
 Among the given numbers, $3.2> 3$, $4.8> 3$, $8> 3$, $12> 3$, so $3.2$, $4.8$, $8$, $12$ are solutions of the inequality. $\blacksquare$
 
-### Exercise 3
+
+---
+
+## Exercise 3
 
 (Exercise 11.1, Problem 3) State directly the solution set of each inequality:
 
@@ -70,7 +76,7 @@ Among the given numbers, $3.2> 3$, $4.8> 3$, $8> 3$, $12> 3$, so $3.2$, $4.8$, $
 
 ### Solution to Exercise 3
 
-By **Property 11.1.1** (Property 1 of Inequalities) and **Property 11.1.2** (Property 2 of Inequalities).
+By **Basic Knowledge: Property 1 of Inequalities** and **Basic Knowledge: Property 2 of Inequalities**.
 
 (1) Subtract $3$ from both sides: $x> 3$.
 
@@ -78,7 +84,10 @@ By **Property 11.1.1** (Property 1 of Inequalities) and **Property 11.1.2** (Pro
 
 (3) Add $2$ to both sides: $x> 2$. $\blacksquare$
 
-### Exercise 4
+
+---
+
+## Exercise 4
 
 (Exercise 11.1, Problem 4) When $p> q$, fill in the blanks with "$> $" or "$< $":
 
@@ -96,7 +105,7 @@ By **Property 11.1.1** (Property 1 of Inequalities) and **Property 11.1.2** (Pro
 
 ### Solution to Exercise 4
 
-By **Property 11.1.1** (Property 1 of Inequalities), adding the same number to both sides leaves the direction unchanged; by **Property 11.1.2** (Property 2 of Inequalities), multiplying both sides by a positive number leaves the direction unchanged; by **Property 11.1.3** (Property 3 of Inequalities), multiplying both sides by a negative number reverses the direction.
+By **Basic Knowledge: Property 1 of Inequalities**, adding the same number to both sides leaves the direction unchanged; by **Basic Knowledge: Property 2 of Inequalities**, multiplying both sides by a positive number leaves the direction unchanged; by **Basic Knowledge: Property 3 of Inequalities**, multiplying both sides by a negative number reverses the direction.
 
 (1) $p+12> q+12$.
 
@@ -110,7 +119,10 @@ By **Property 11.1.1** (Property 1 of Inequalities), adding the same number to b
 
 (6) $4p+1> 4q+1$. $\blacksquare$
 
-### Exercise 5
+
+---
+
+## Exercise 5
 
 (Exercise 11.1, Problem 5) Given $m> 3$, express the range of each expression using an inequality:
 
@@ -124,7 +136,7 @@ By **Property 11.1.1** (Property 1 of Inequalities), adding the same number to b
 
 ### Solution to Exercise 5
 
-By **Property 11.1.1**, **Property 11.1.2**, **Property 11.1.3**.
+By **Basic Knowledge: Property 1 of Inequalities**, **Basic Knowledge: Property 2 of Inequalities**, **Basic Knowledge: Property 3 of Inequalities**.
 
 (1) Add $5$ to both sides: $m+5> 8$.
 
@@ -134,7 +146,10 @@ By **Property 11.1.1**, **Property 11.1.2**, **Property 11.1.3**.
 
 (4) Multiply both sides by $3$ then subtract $4$: $3m> 9$, $3m-4> 5$. $\blacksquare$
 
-### Exercise 6
+
+---
+
+## Exercise 6
 
 (Exercise 11.1, Problem 6) Solve the following inequalities and represent their solution sets on a number line:
 
@@ -150,7 +165,7 @@ The figure shows number lines representing the solution sets of four inequalitie
 
 ### Solution to Exercise 6
 
-By **Property 11.1.1** through **Property 11.1.3**.
+By **Basic Knowledge: Property 1 of Inequalities** through **Basic Knowledge: Property 3 of Inequalities**.
 
 (1) Subtract $5$ from both sides: $x> -6$.
 
@@ -162,13 +177,16 @@ By **Property 11.1.1** through **Property 11.1.3**.
 
 The solution sets are represented on the number line as shown. $\blacksquare$
 
-### Exercise 7
+
+---
+
+## Exercise 7
 
 (Exercise 11.1, Problem 7) On a certain day in Beijing the lowest temperature is $19\,^\circ\text{C}$ and the highest temperature is $28\,^\circ\text{C}$. Express the range of the temperature $t\,^\circ\text{C}$ on that day using an inequality.
 
 ### Solution to Exercise 7
 
-By **Definition 11.1.1** (Inequality), the temperature is no lower than the lowest temperature and no higher than the highest temperature, so
+By **Basic Knowledge: Inequality**, the temperature is no lower than the lowest temperature and no higher than the highest temperature, so
 
 $$
 19\le t\le28.
@@ -176,7 +194,10 @@ $$
 
 $\blacksquare$
 
-### Problem 1
+
+---
+
+## Problem 1
 
 (Exercise 11.1, Review and Consolidation, Problem 1) Among the following numbers, which are solutions of the inequality $2x+3> 9$?
 
@@ -186,9 +207,12 @@ $$
 
 ### Solution to Problem 1
 
-By **Definition 11.1.2** (Solution of an Inequality), $2x+3> 9$ is equivalent to $x> 3$. Among the given numbers, $3.01> 3$, $4> 3$, $6> 3$, $100> 3$, so $3.01$, $4$, $6$, $100$ are solutions. $\blacksquare$
+By **Basic Knowledge: Solution of an Inequality**, $2x+3> 9$ is equivalent to $x> 3$. Among the given numbers, $3.01> 3$, $4> 3$, $6> 3$, $100> 3$, so $3.01$, $4$, $6$, $100$ are solutions. $\blacksquare$
 
-### Problem 2
+
+---
+
+## Problem 2
 
 (Exercise 11.1, Review and Consolidation, Problem 2) Express each of the following using an inequality:
 
@@ -210,7 +234,10 @@ By **Definition 11.1.2** (Solution of an Inequality), $2x+3> 9$ is equivalent to
 
 (4) Let the number of good-air-quality days in 2021 be $x$; then $x-224> 60$, i.e. $x> 284$. $\blacksquare$
 
-### Problem 3
+
+---
+
+## Problem 3
 
 (Exercise 11.1, Review and Consolidation, Problem 3) Write directly the solution set of each inequality:
 
@@ -232,7 +259,10 @@ By **Definition 11.1.2** (Solution of an Inequality), $2x+3> 9$ is equivalent to
 
 (4) Dividing by $-3$ reverses the direction: $x> -\frac{10}{3}$. $\blacksquare$
 
-### Problem 4
+
+---
+
+## Problem 4
 
 (Exercise 11.1, Review and Consolidation, Problem 4) Given $m> n$, fill in the blanks with "$> $" or "$< $":
 
@@ -254,7 +284,10 @@ By **Definition 11.1.2** (Solution of an Inequality), $2x+3> 9$ is equivalent to
 
 (4) From $m> n$ we get $m+3n> n+3n=4n$, hence $m+3n> 4n$. $\blacksquare$
 
-### Problem 5
+
+---
+
+## Problem 5
 
 (Exercise 11.1, Review and Consolidation, Problem 5) Solve the following inequalities and represent their solution sets on a number line:
 
@@ -280,7 +313,10 @@ The figure shows number lines representing the solution sets of four inequalitie
 
 The solution sets are represented on the number line as shown. $\blacksquare$
 
-### Problem 6
+
+---
+
+## Problem 6
 
 (Exercise 11.1, Comprehensive Application, Problem 6) The relationship between flame color and temperature: dark red begins at $650\,^\circ\text{C}$, cherry red begins at $750\,^\circ\text{C}$, and the temperature range between cherry red and dark red is about $650\sim750\,^\circ\text{C}$; a certain color tone has temperature $t$ satisfying $1260\le t\le1310\,^\circ\text{C}$. (1) Express the temperature range between dark red and cherry red using an inequality; (2) determine which color-tone segment $1260\le t\le1310$ belongs to.
 
@@ -290,7 +326,10 @@ The solution sets are represented on the number line as shown. $\blacksquare$
 
 (2) From $1260\le t\le1310$, by comparison with the temperature table, this range belongs to the higher-temperature segment between bright cherry red and deep orange-yellow. $\blacksquare$
 
-### Problem 7
+
+---
+
+## Problem 7
 
 (Exercise 11.1, Comprehensive Application, Problem 7) Given $a> b$, fill in the blanks with "$> $" or "$< $":
 
@@ -304,7 +343,10 @@ The solution sets are represented on the number line as shown. $\blacksquare$
 
 (2) From $a> b$, multiply by $-3.5$, reversing the direction: $-3.5a< -3.5b$, then add $1$: $-3.5a+1< -3.5b+1$, i.e. $-3.5b+1> -3.5a+1$. $\blacksquare$
 
-### Problem 8
+
+---
+
+## Problem 8
 
 (Exercise 11.1, Comprehensive Application, Problem 8) Express the following statements using inequalities, write the solution sets and represent them on a number line:
 
@@ -326,7 +368,10 @@ The solution sets are represented on the number line as shown. $\blacksquare$
 
 (4) $2y< y-1$, solution set $y< -1$. $\blacksquare$
 
-### Problem 9
+
+---
+
+## Problem 9
 
 (Exercise 11.1, Comprehensive Application, Problem 9) A part's blueprint specifies a length $L=40\pm0.02\ \text{mm}$. Within what range does the length $L$ of a qualified part lie?
 
@@ -340,15 +385,21 @@ $$
 
 i.e. $39.98\le L\le40.02$. $\blacksquare$
 
-### Problem 10
+
+---
+
+## Problem 10
 
 (Exercise 11.1, Comprehensive Application, Problem 10) The subway fare in a certain city: when the travel distance does not exceed a certain distance, the fare is $8$ yuan. Let the travel distance be $x\ \text{km}$; the distance range corresponding to the $8$-yuan fare is $0< x\le20$. Express the range of $x$ using an inequality.
 
 ### Solution to Problem 10
 
-By **Definition 11.1.1** (Inequality), $0< x\le20$. $\blacksquare$
+By **Basic Knowledge: Inequality**, $0< x\le20$. $\blacksquare$
 
-### Problem 11
+
+---
+
+## Problem 11
 
 (Exercise 11.1, Extension and Exploration, Problem 11) A two-digit number has tens digit $a$ and units digit $b$. Swapping the tens and units digits of this two-digit number gives a new number greater than the original. Compare $a$ and $b$.
 
@@ -362,7 +413,10 @@ $$
 
 Subtract $a+b$ from both sides: $9b> 9a$, hence $b> a$. $\blacksquare$
 
-### Problem 12
+
+---
+
+## Problem 12
 
 (Exercise 11.1, Extension and Exploration, Problem 12) Given three positive integers $a< b< c$ satisfying $\frac{1}{a}+\frac{1}{b}+\frac{1}{c}=1$. Find $a$, $b$, $c$.
 
@@ -374,7 +428,7 @@ Then $\frac{1}{b}+\frac{1}{c}=\frac{1}{2}$. From $b< c$ we get $\frac{2}{b}> \fr
 
 Verification: $\frac{1}{2}+\frac{1}{3}+\frac{1}{6}=1$, and $2< 3< 6$. Hence $a=2$, $b=3$, $c=6$. $\blacksquare$
 
-### Reading and Thinking 1
+## Reading and Thinking 1
 
 (Reading and Thinking: Comparing Sizes by Taking the Difference) To make a certain product, Plan 1 uses $50$ sheets of type-$A$ steel plate and $70$ sheets of type-$B$ steel plate; Plan 2 uses $80$ sheets of type-$A$ steel plate and $30$ sheets of type-$B$ steel plate. Let each sheet of type-$A$ steel plate cost $a$ yuan and each sheet of type-$B$ steel plate cost $b$ yuan. Use the difference method to compare the material costs of the two plans.
 

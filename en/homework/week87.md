@@ -1,14 +1,20 @@
-# Assignment 87
+# week87
 
-> **Definition 18.1.1** (Fraction) <br>If $A,B$ denote two integral expressions and $B$ contains a letter, then the expression $\frac{A}{B}$ is called a fraction. A fraction is meaningful only when $B\ne0$.
+> **Basic Knowledge: Fraction**<br>If $A,B$ denote two integral expressions and $B$ contains a letter, then the expression $\frac{A}{B}$ is called a fraction. A fraction is meaningful only when $B\ne0$.
+> **Basic Knowledge: Basic Property of Fractions**<br>The value of a fraction is unchanged if both numerator and denominator are multiplied (or divided) by the same nonzero expression.
+> **Basic Knowledge: finding a common denominator**<br>Convert fractions with different denominators to equivalent fractions with the same denominator.
+> **Basic Knowledge: reducing a fraction**<br>Cancel the common factors of the numerator and denominator of a fraction.
 
-> **Definition 18.1.2** (Basic Property of Fractions) <br>Multiplying (or dividing) both the numerator and denominator of a fraction by the same integral expression not equal to $0$ does not change the value of the fraction, i.e. $\frac{A}{B}=\frac{A\cdot C}{B\cdot C}=\frac{A\div C}{B\div C}$ ($C\ne0$).
+---
 
-> **Definition 18.1.3** (Reducing a Fraction and Simplest Fraction) <br>According to the basic property of fractions, canceling the common factor of the numerator and denominator of a fraction is called reducing the fraction. A fraction whose numerator and denominator have no common factor is called a simplest fraction.
 
-> **Definition 18.1.4** (Finding a Common Denominator and Least Common Denominator) <br>According to the basic property of fractions, converting several fractions with different denominators into fractions with the same denominator equal to the original ones is called finding a common denominator. Generally, the least common denominator is taken as the product of the highest powers of all factors of the denominators.
+> **Basic Knowledge: Basic Property of Fractions** <br>Multiplying (or dividing) both the numerator and denominator of a fraction by the same integral expression not equal to $0$ does not change the value of the fraction, i.e. $\frac{A}{B}=\frac{A\cdot C}{B\cdot C}=\frac{A\div C}{B\div C}$ ($C\ne0$).
 
-### Exercise 1
+> **Basic Knowledge: Reducing a Fraction and Simplest Fraction** <br>According to the basic property of fractions, canceling the common factor of the numerator and denominator of a fraction is called reducing the fraction. A fraction whose numerator and denominator have no common factor is called a simplest fraction.
+
+> **Basic Knowledge: Finding a Common Denominator and Least Common Denominator** <br>According to the basic property of fractions, converting several fractions with different denominators into fractions with the same denominator equal to the original ones is called finding a common denominator. Generally, the least common denominator is taken as the product of the highest powers of all factors of the denominators.
+
+## Exercise 1
 
 (Exercise 18.1, Problem 1) Write expressions for the following quantities:
 
@@ -26,7 +32,7 @@
 
 (3) The car's average speed $=\frac{s}{t}\ \text{km/h}$; the train takes $t-1\ \text{h}$, so its average speed $=\frac{s}{t-1}\ \text{km/h}$. $\blacksquare$
 
-### Exercise 2
+## Exercise 2
 
 (Exercise 18.1, Problem 2) Among the following expressions, which are fractions? Which are integral expressions?
 
@@ -34,13 +40,13 @@ $\frac{1}{x}$, $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{a^2 b}{c}$, $\frac{x^2-
 
 ### Solution to Exercise 2
 
-By **Definition 18.1.1**, those whose denominator contains a letter are fractions.
+By **Basic Knowledge**, those whose denominator contains a letter are fractions.
 
 Fractions: $\frac{1}{x}$, $\frac{a^2 b}{c}$.
 
 Integral expressions: $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{x^2-y^2}{\pi}$ ($\pi$ is a constant), $\frac{x}{4}+\frac{y}{5}$. $\blacksquare$
 
-### Exercise 3
+## Exercise 3
 
 (Exercise 18.1, Problem 3) Under what conditions on $x$ is the fraction meaningful?
 
@@ -52,7 +58,7 @@ Integral expressions: $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{x^2-y^2}{\pi}$ (
 
 ### Solution to Exercise 3
 
-By **Definition 18.1.1**, the denominator is not $0$.
+By **Basic Knowledge**, the denominator is not $0$.
 
 (1) $3x\ne0$, i.e. $x\ne0$.
 
@@ -60,7 +66,7 @@ By **Definition 18.1.1**, the denominator is not $0$.
 
 (3) $5-3x\ne0$, i.e. $x\ne\frac53$. $\blacksquare$
 
-### Exercise 4
+## Exercise 4
 
 (Exercise 18.1, Problem 4) Under what conditions on $x$ is the value of the fraction $0$?
 
@@ -76,7 +82,7 @@ For the fraction to be $0$, the numerator must be $0$ and the denominator not $0
 
 (2) $x-2=0$ and $x-1\ne0$, hence $x=2$. $\blacksquare$
 
-### Exercise 5
+## Exercise 5
 
 (Exercise 18.1, Problem 1) Reduce:
 
@@ -90,7 +96,7 @@ For the fraction to be $0$, the numerator must be $0$ and the denominator not $0
 
 ### Solution to Exercise 5
 
-By **Definition 18.1.3** (reducing a fraction).
+By **Basic Knowledge: reducing a fraction**.
 
 (1) $\frac{2bc}{ac}=\frac{2b}{a}$.
 
@@ -100,7 +106,7 @@ By **Definition 18.1.3** (reducing a fraction).
 
 (4) $\frac{x^2-y^2}{x-y}=\frac{\left(x+y\right)\left(x-y\right)}{x-y}=x+y$. $\blacksquare$
 
-### Exercise 6
+## Exercise 6
 
 (Exercise 18.1, Problem 2) Reduce:
 
@@ -114,7 +120,7 @@ By **Definition 18.1.3** (reducing a fraction).
 
 (2) $\frac{\left(x-y\right)^2}{y-x}=\frac{\left(x-y\right)^2}{-\left(x-y\right)}=-\left(x-y\right)=y-x$. $\blacksquare$
 
-### Exercise 7
+## Exercise 7
 
 (Exercise 18.1, Problem 3) Find a common denominator:
 
@@ -128,7 +134,7 @@ By **Definition 18.1.3** (reducing a fraction).
 
 ### Solution to Exercise 7
 
-By **Definition 18.1.4** (finding a common denominator).
+By **Basic Knowledge: finding a common denominator**.
 
 (1) Least common denominator $6x^2 y^2$: $\frac{z}{2x^2 y}=\frac{3yz}{6x^2 y^2}$, $\frac{5}{6xy^2}=\frac{5x}{6x^2 y^2}$.
 
@@ -138,7 +144,7 @@ By **Definition 18.1.4** (finding a common denominator).
 
 (4) $a^2-2a+1=\left(a-1\right)^2$, $a^2-1=\left(a-1\right)\left(a+1\right)$, least common denominator $\left(a-1\right)^2\left(a+1\right)$: $\frac{1}{\left(a-1\right)^2}=\frac{a+1}{\left(a-1\right)^2\left(a+1\right)}$, $\frac{1}{\left(a-1\right)\left(a+1\right)}=\frac{a-1}{\left(a-1\right)^2\left(a+1\right)}$. $\blacksquare$
 
-### Problem 1
+## Problem 1
 
 (Exercise 18.1, Review and Consolidation, Problem 1) Write expressions:
 
@@ -156,7 +162,7 @@ By **Definition 18.1.4** (finding a common denominator).
 
 (3) Girls make up $1-\frac35=\frac25$, so the number of girls is $\frac{2}{5}m$. $\blacksquare$
 
-### Problem 2
+## Problem 2
 
 (Exercise 18.1, Review and Consolidation, Problem 2) Among the following expressions, which are integral expressions? Which are fractions?
 
@@ -164,13 +170,13 @@ $\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y
 
 ### Solution to Problem 2
 
-By **Definition 18.1.1**.
+By **Basic Knowledge**.
 
 Fractions: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2 y}$, $\frac{2ab}{\left(a+b\right)^2}$.
 
 Integral expressions: $\frac{x}{3}$, $\frac{a+5}{15}$. $\blacksquare$
 
-### Problem 3
+## Problem 3
 
 (Exercise 18.1, Review and Consolidation, Problem 3) Under what conditions on $x$ is the fraction meaningful?
 
@@ -194,7 +200,7 @@ The denominator is not $0$.
 
 (4) $x^2-9\ne0$, i.e. $x\ne\pm3$. $\blacksquare$
 
-### Problem 4
+## Problem 4
 
 (Exercise 18.1, Review and Consolidation, Problem 4) Reduce:
 
@@ -208,7 +214,7 @@ The denominator is not $0$.
 
 ### Solution to Problem 4
 
-By **Definition 18.1.3**.
+By **Basic Knowledge**.
 
 (1) $\frac{8a^2}{12a^3}=\frac{2}{3a}$.
 
@@ -218,7 +224,7 @@ By **Definition 18.1.3**.
 
 (4) $\frac{x^2-25}{x^2+10x+25}=\frac{\left(x+5\right)\left(x-5\right)}{\left(x+5\right)^2}=\frac{x-5}{x+5}$. $\blacksquare$
 
-### Problem 5
+## Problem 5
 
 (Exercise 18.1, Review and Consolidation, Problem 5) Find a common denominator:
 
@@ -232,7 +238,7 @@ By **Definition 18.1.3**.
 
 ### Solution to Problem 5
 
-By **Definition 18.1.4**.
+By **Basic Knowledge**.
 
 (1) Least common denominator $6x^2 y z^2$: $\frac{z}{3x^2 y}=\frac{2z^3}{6x^2 y z^2}$, $\frac{xy}{2z^2}=\frac{3x^3 y^2}{6x^2 y z^2}$.
 
@@ -242,7 +248,7 @@ By **Definition 18.1.4**.
 
 (4) $x^2-9=\left(x+3\right)\left(x-3\right)$, $2x+6=2\left(x+3\right)$, least common denominator $2\left(x+3\right)\left(x-3\right)$: $\frac{1}{\left(x+3\right)\left(x-3\right)}=\frac{2}{2\left(x+3\right)\left(x-3\right)}$, $\frac{1}{2\left(x+3\right)}=\frac{x-3}{2\left(x+3\right)\left(x-3\right)}$. $\blacksquare$
 
-### Problem 6
+## Problem 6
 
 (Exercise 18.1, Comprehensive Application, Problem 6) Fill in the blanks:
 
@@ -254,7 +260,7 @@ By **Definition 18.1.4**.
 
 ### Solution to Problem 6
 
-By **Definition 18.1.2** (Basic Property of Fractions).
+By **Basic Knowledge: Basic Property of Fractions**.
 
 (1) Multiply the denominator by $2a$, and the numerator by $2a$ as well: $\frac{3a}{5xy}=\frac{6a^2}{10axy}$.
 
@@ -262,7 +268,7 @@ By **Definition 18.1.2** (Basic Property of Fractions).
 
 (3) $x^2-3x=x\left(x-3\right)$, reduce: $\frac{2x}{x\left(x-3\right)}=\frac{2}{x-3}$. $\blacksquare$
 
-### Problem 7
+## Problem 7
 
 (Exercise 18.1, Comprehensive Application, Problem 7) Without changing the value of the fraction, make both the numerator and denominator of the following fractions contain no negative sign:
 
@@ -286,7 +292,7 @@ By the basic property of fractions, when numerator and denominator have the same
 
 (4) $-\frac{-x}{2y}=\frac{x}{2y}$. $\blacksquare$
 
-### Problem 8
+## Problem 8
 
 (Exercise 18.1, Comprehensive Application, Problem 8) Without changing the value of the fraction, make the coefficient of the highest-degree term in both the numerator and denominator of the following fractions positive:
 
@@ -304,7 +310,7 @@ By the basic property of fractions, when numerator and denominator have the same
 
 (3) $\frac{-x-1}{x-1}=-\frac{x+1}{x-1}$. $\blacksquare$
 
-### Problem 9
+## Problem 9
 
 (Exercise 18.1, Extension and Exploration, Problem 9) A and B are driving on a highway; A travels $20\ \text{km}$ more per hour than B. Given that the time A takes to travel $400\ \text{km}$ is the same as the time B takes to travel $300\ \text{km}$, find the average speeds of A and B.
 
@@ -318,7 +324,7 @@ Cross-multiplying: $400x=300\left(x+20\right)=300x+6000$, solving gives $x=60$.
 
 Hence B's average speed is $60\ \text{km/h}$, and A's is $80\ \text{km/h}$. $\blacksquare$
 
-### Problem 10
+## Problem 10
 
 (Exercise 18.1, Extension and Exploration, Problem 10) For a certain job, A alone needs $a$ days to finish it, and B alone needs $b$ days. What is the amount of work completed when A and B work together for $3$ days?
 

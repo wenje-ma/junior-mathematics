@@ -1,12 +1,14 @@
-# Assignment 60
+# week60
 
-> **Definition 12.2.3** (Line Chart) <br>The rise or fall of a broken line represents the change of data over time.
-> 
-> **Definition 12.2.7** (Trend Chart) <br>A statistical chart using a line to describe the relationship between one quantity and another.
-> 
-> **Formula 12.5.1** (Daylight Duration) <br>Daylight duration $=$ (noon time $-$ sunrise time) $\times2=$ (sunset time $-$ noon time) $\times2$.
+> **Basic Knowledge: Line Chart**<br>The rise or fall of a broken line represents the change of data over time.
 
-### Inquiry 1
+> **Basic Knowledge: Trend Chart**<br>A statistical chart using a line to describe the relationship between one quantity and another.
+
+> **Basic Knowledge: Daylight Duration Formula**<br>Daylight duration = (sunset time - noon time) * 2 = (noon time - sunrise time) * 2.
+
+---
+
+## Inquiry 1
 
 (Comprehensive and Practical Activity, Activity 1, Problem 1) Investigate the changing pattern of daylight duration in Beijing in 2024. It is known that on Minor Cold (January 6) sunrise is $7:36$, sunset is $17:04$, and daylight is $9\ \text{h}\ 28\ \text{min}$; at the spring equinox daylight is about $12\ \text{h}$; at the summer solstice about $15\ \text{h}$; at the winter solstice about $9\ \text{h}\ 28\ \text{min}$.
 
@@ -20,13 +22,13 @@ The figure is a line chart with the 24 solar terms in order on the horizontal ax
 
 ### Solution to Inquiry 1
 
-(1) By **Formula 12.5.1**, daylight duration $=$ (sunset $-$ noon) $\times2=\left(17:04-12:00\right)\times2=5\ \text{h}\ 04\ \text{min}\times2=10\ \text{h}\ 08\ \text{min}$. The table directly gives $9\ \text{h}\ 28\ \text{min}$; since noon is not exactly Beijing time $12:00$, there is a longitude error.
+(1) By **Basic Knowledge: Daylight Duration Formula**, daylight duration $=$ (sunset $-$ noon) $\times2=\left(17:04-12:00\right)\times2=5\ \text{h}\ 04\ \text{min}\times2=10\ \text{h}\ 08\ \text{min}$. The table directly gives $9\ \text{h}\ 28\ \text{min}$; since noon is not exactly Beijing time $12:00$, there is a longitude error.
 
 (2) Taking the order of the solar terms as the horizontal axis and daylight duration as the vertical axis, draw the line chart as shown.
 
 (3) From the line chart, the daylight duration in Beijing gradually lengthens from the winter solstice to the summer solstice, and gradually shortens from the summer solstice to the winter solstice. The longest day is the summer solstice (June 21), about $15\ \text{h}$; the shortest day is the winter solstice, about $9\ \text{h}\ 28\ \text{min}$. $\blacksquare$
 
-### Inquiry 2
+## Inquiry 2
 
 (Comprehensive and Practical Activity, Activity 2, Problem 1) Compare the daylight duration on the 24 solar terms in 2024 among three places: Beijing, Artux in Xinjiang, and Jieyang in Guangdong.
 
@@ -42,22 +44,22 @@ The figure is a line chart with the 24 solar terms in order on the horizontal ax
 
 (2) The main factors affecting daylight duration are latitude (which determines the difference between summer-solstice and winter-solstice daylight) and date (which determines the position of the sun's direct rays). On the same date, the higher the latitude, the longer the summer-solstice daylight and the shorter the winter-solstice daylight.
 
-(3) By **Formula 12.5.1**, daylight duration $=\left($ noon $-$ sunrise $\right)\times2$. If daylight lengthens day by day, then (noon $-$ sunrise) grows, i.e. sunrise advances day by day; at the same time (sunset $-$ noon) grows, i.e. sunset is delayed day by day. $\blacksquare$
+(3) By **Basic Knowledge: Daylight Duration Formula**, daylight duration $=\left($ noon $-$ sunrise $\right)\times2$. If daylight lengthens day by day, then (noon $-$ sunrise) grows, i.e. sunrise advances day by day; at the same time (sunset $-$ noon) grows, i.e. sunset is delayed day by day. $\blacksquare$
 
-### Inquiry 3
+## Inquiry 3
 
 (Comprehensive and Practical Activity, Activity 2, Problem 2) Given the daylight duration of a place, how can one infer the sunrise and sunset times? If the next day's sunrise time is known, how does one calculate the nighttime duration between the two days?
 
 ### Solution to Inquiry 3
 
-By **Formula 12.5.1**, given the daylight duration $T$ and taking noon as $12:00$, sunrise $=12:00-\frac{T}{2}$, and sunset $=12:00+\frac{T}{2}$.
+By **Basic Knowledge: Daylight Duration Formula**, given the daylight duration $T$ and taking noon as $12:00$, sunrise $=12:00-\frac{T}{2}$, and sunset $=12:00+\frac{T}{2}$.
 
 The nighttime duration $=24\ \text{h}-T$. If the next day's sunrise time $t_{\text{出}}'$ is known, then the next day's nighttime duration $=t_{\text{出}}'$ (from the previous day's sunset to the next day's sunrise), i.e. $t_{\text{出}}'-$ the previous day's sunset time. $\blacksquare$
 
-### Inquiry 4
+## Inquiry 4
 
 (Comprehensive and Practical Activity, Activity 3, Problem 1, optional) How does a smartphone intelligently recognize the change of sunrise and sunset times?
 
 ### Solution to Inquiry 4
 
-The phone obtains the user's latitude and longitude through positioning, and then uses an astronomical formula to calculate that day's sunrise and sunset times based on the date (the position of the sun's direct rays), thereby automatically turning the eye-care mode on or off. This is precisely the application of **Formula 12.5.1** and the laws of the earth's revolution in daily life. $\blacksquare$
+The phone obtains the user's latitude and longitude through positioning, and then uses an astronomical formula to calculate that day's sunrise and sunset times based on the date (the position of the sun's direct rays), thereby automatically turning the eye-care mode on or off. This is precisely the application of **Basic Knowledge: Daylight Duration Formula** and the laws of the earth's revolution in daily life. $\blacksquare$

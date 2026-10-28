@@ -1,10 +1,14 @@
-# 作业 89
+# week89
 
-> **定义 18.3.1** (同分母分式的加减法) <br>同分母分式相加减, 分母不变, 把分子相加减, 即 $\frac{a}{c}\pm\frac{b}{c}=\frac{a\pm b}{c}$.
+> **基础知识: 同分母分式的加减法**<br>同分母分式相加减, 分母不变, 把分子相加减, 即 $\frac{a}{c}\pm\frac{b}{c}=\frac{a\pm b}{c}$.
+> **基础知识: 异分母分式的加减法**<br>异分母分式相加减, 先通分, 变为同分母的分式, 再加减.
 
-> **定义 18.3.2** (异分母分式的加减法) <br>异分母分式相加减, 先通分, 变为同分母的分式, 再加减, 即 $\frac{a}{b}\pm\frac{c}{d}=\frac{ad\pm bc}{bd}$.
+---
 
-### 练习一
+
+> **基础知识: 异分母分式的加减法** <br>异分母分式相加减, 先通分, 变为同分母的分式, 再加减, 即 $\frac{a}{b}\pm\frac{c}{d}=\frac{ad\pm bc}{bd}$.
+
+## 练习一
 
 (练习 18.3 第 1 题) 计算:
 
@@ -18,7 +22,7 @@
 
 ### 解答 练习一
 
-由**定义 18.3.1** (同分母分式的加减法).
+由**基础知识: 同分母分式的加减法**.
 
 (1) $\frac{3}{a}+\frac{1}{a}=\frac{4}{a}$.
 
@@ -28,7 +32,7 @@
 
 (4) $\frac{a^2}{a-1}-a-1=\frac{a^2-\left(a+1\right)\left(a-1\right)}{a-1}=\frac{a^2-\left(a^2-1\right)}{a-1}=\frac{1}{a-1}$. $\blacksquare$
 
-### 练习二
+## 练习二
 
 (练习 18.3 第 1 题) 计算:
 
@@ -42,7 +46,7 @@
 
 ### 解答 练习二
 
-由**定义 18.3.2** (异分母分式的加减法).
+由**基础知识: 异分母分式的加减法**.
 
 (1) 公分母 $6c^2 d^2$: $\frac{1}{2c^2 d}+\frac{1}{3cd^2}=\frac{3d+2c}{6c^2 d^2}$.
 
@@ -52,7 +56,7 @@
 
 (4) $\frac{a}{a-b}+\frac{b^2}{a\left(b-a\right)}=\frac{a}{a-b}-\frac{b^2}{a\left(a-b\right)}=\frac{a^2-b^2}{a\left(a-b\right)}=\frac{a+b}{a}$. $\blacksquare$
 
-### 练习三
+## 练习三
 
 (练习 18.3 第 2 题) 计算:
 
@@ -66,7 +70,7 @@
 
 (2) $1-\frac{1}{a+1}=\frac{\left(a+1\right)-1}{a+1}=\frac{a}{a+1}$. $\blacksquare$
 
-### 习题一
+## 习题一
 
 (习题 18.3 复习巩固第 1 题) 计算:
 
@@ -80,7 +84,7 @@
 
 ### 解答 习题一
 
-由**定义 18.3.1**.
+由**基础知识**.
 
 (1) $\frac{15}{5a}+\frac{a-15}{5a}=\frac{a}{5a}=\frac15$.
 
@@ -90,7 +94,7 @@
 
 (4) $\frac{x^2-4x+4}{x-2}=\frac{\left(x-2\right)^2}{x-2}=x-2$. $\blacksquare$
 
-### 习题二
+## 习题二
 
 (习题 18.3 复习巩固第 2 题) 计算:
 
@@ -104,7 +108,7 @@
 
 ### 解答 习题二
 
-由**定义 18.3.2**.
+由**基础知识**.
 
 (1) $\frac{\left(x+1\right)-x}{x\left(x+1\right)}=\frac{1}{x\left(x+1\right)}$.
 
@@ -114,7 +118,7 @@
 
 (4) $\frac{x}{x+1}-\frac{2}{\left(x+1\right)\left(x-1\right)}=\frac{x\left(x-1\right)-2}{\left(x+1\right)\left(x-1\right)}=\frac{x^2-x-2}{\left(x+1\right)\left(x-1\right)}=\frac{\left(x-2\right)\left(x+1\right)}{\left(x+1\right)\left(x-1\right)}=\frac{x-2}{x-1}$. $\blacksquare$
 
-### 习题三
+## 习题三
 
 (习题 18.3 复习巩固第 3 题) 计算:
 
@@ -136,7 +140,7 @@
 
 (4) $\frac{2y}{x-y}+\frac{2x}{x-y}=\frac{2x+2y}{x-y}$. $\blacksquare$
 
-### 习题四
+## 习题四
 
 (习题 18.3 综合运用第 4 题) 计算:
 
@@ -150,7 +154,7 @@
 
 (2) $\frac{3a\left(a+3\right)-a\left(a-3\right)}{\left(a-3\right)\left(a+3\right)}\cdot\frac{\left(a-3\right)\left(a+3\right)}{a}=\frac{3a^2+9a-a^2+3a}{a}=\frac{2a^2+12a}{a}=2a+12$. $\blacksquare$
 
-### 习题五
+## 习题五
 
 (习题 18.3 综合运用第 5 题) 先化简, 再求值:
 
@@ -162,7 +166,7 @@ $$\frac{\left(x^2-y^2\right)^2}{x^2 y^2}\cdot\frac{1}{\left(x+y\right)^2}\cdot\f
 
 代入 $x=2,y=1$, 得 $\frac{2}{1\cdot1}=2$. $\blacksquare$
 
-### 习题六
+## 习题六
 
 (习题 18.3 综合运用第 6 题) 计算: $\frac{1}{1\times2}+\frac{1}{2\times3}+\frac{1}{3\times4}+\cdots+\frac{1}{99\times100}$.
 
@@ -174,7 +178,7 @@ $$\left(1-\frac12\right)+\left(\frac12-\frac13\right)+\cdots+\left(\frac{1}{99}-
 
 $\blacksquare$
 
-### 习题七
+## 习题七
 
 (习题 18.3 拓广探索第 7 题) 计算: $\frac{1}{x\left(x+1\right)}+\frac{1}{\left(x+1\right)\left(x+2\right)}+\frac{1}{\left(x+2\right)\left(x+3\right)}$.
 
@@ -186,7 +190,7 @@ $$\left(\frac1x-\frac{1}{x+1}\right)+\left(\frac{1}{x+1}-\frac{1}{x+2}\right)+\l
 
 $\blacksquare$
 
-### 习题八
+## 习题八
 
 (习题 18.3 拓广探索第 8 题) 一家电脑公司厂家生产某种电脑的成本为 $x$ 元, 公司决定: 若每台电脑的售价为 $y$ 元, 则利润率为多少 (利润率 $=\frac{售价-成本}{成本}$)? 当 $x=5000$, $y=6000$ 时, 利润率为多少?
 

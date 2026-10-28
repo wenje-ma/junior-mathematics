@@ -1,10 +1,11 @@
-# Assignment 112
+# week112
 
-> **Definition 23.1.1** (Linear Function) <br>Generally, a function of the form $y=kx+b$ ($k$, $b$ are constants, $k \neq 0$) is called a linear function, where $x$ is the independent variable.
-> 
-> **Definition 23.1.2** (Direct Proportion Function) <br>A function of the form $y=kx$ ($k$ is a constant, $k \neq 0$) is called a direct proportion function, where $k$ is called the proportionality coefficient. A direct proportion function is the special linear function when $b=0$.
+> **Basic Knowledge: Linear Function**<br>Generally, a function of the form $y=kx+b$ ($k$, $b$ are constants, $k \neq 0$) is called a linear function, where $x$ is the independent variable.
+> **Basic Knowledge: Direct Proportion Function**<br>A function of the form $y=kx$ ($k$ is a constant, $k \neq 0$) is called a direct proportion function, where $k$ is called the proportionality coefficient. A direct proportion function is the special linear function when $b=0$.
+---
 
-### Exercise 1
+
+## Exercise 1
 
 (Exercise 23.1, Problem 1) Which of the following functions are linear functions? Which are also direct proportion functions?
 
@@ -20,7 +21,7 @@
 
 ### Solution to Exercise 1
 
-By **Definition 23.1.1** (Linear Function), a function of the form $y=kx+b$ ($k \neq 0$) is a linear function.
+By **Basic Knowledge: Linear Function**, a function of the form $y=kx+b$ ($k \neq 0$) is a linear function.
 
 (1) $y=-8x$ is $y=-8x+0$, which fits the form $y=kx+b$ with $k=-8 \neq 0$, so it is a linear function; and $b=0$, so it is also a direct proportion function.
 
@@ -32,7 +33,7 @@ By **Definition 23.1.1** (Linear Function), a function of the form $y=kx+b$ ($k 
 
 (5) $y=2\left(x-4\right)=2x-8$, which fits the form $y=kx+b$ with $k=2 \neq 0$, so it is a linear function; but $b=-8 \neq 0$, so it is not a direct proportion function. $\blacksquare$
 
-### Exercise 2
+## Exercise 2
 
 (Exercise 23.1, Problem 2) Use an analytic expression to represent the relation between $y$ and $x$ in the following problems:
 
@@ -46,7 +47,7 @@ By **Definition 23.1.1** (Linear Function), a function of the form $y=kx+b$ ($k 
 
 (2) After $x\ \text{h}$, $3x\ \text{m}^3$ flows in; adding the original $20\ \text{m}^3$, we get $y=20+3x$. $\blacksquare$
 
-### Problem 1
+## Problem 1
 
 (Exercise 23.1, Review and Consolidation, Problem 1) Which of the following functions are linear functions? Which are also direct proportion functions?
 
@@ -60,7 +61,7 @@ By **Definition 23.1.1** (Linear Function), a function of the form $y=kx+b$ ($k 
 
 ### Solution to Problem 1
 
-By **Definition 23.1.1** (Linear Function), a function of the form $y=kx+b$ ($k \neq 0$) is a linear function.
+By **Basic Knowledge: Linear Function**, a function of the form $y=kx+b$ ($k \neq 0$) is a linear function.
 
 (1) $y=-0.2x$ is $y=-0.2x+0$, so it is a linear function and also a direct proportion function.
 
@@ -70,7 +71,7 @@ By **Definition 23.1.1** (Linear Function), a function of the form $y=kx+b$ ($k 
 
 (4) In $y=x^2$, the degree of $x$ is $2$, so it is not a linear function. $\blacksquare$
 
-### Problem 2
+## Problem 2
 
 (Exercise 23.1, Review and Consolidation, Problem 2) Use an analytic expression to represent the relation between $y$ and $x$ in the following problems:
 
@@ -84,17 +85,17 @@ By **Definition 23.1.1** (Linear Function), a function of the form $y=kx+b$ ($k 
 
 (2) After $x\ \text{min}$, $0.5x\ \text{L}$ has drained; the remaining water is the original amount minus the drained amount, so $y=10-0.5x$. $\blacksquare$
 
-### Problem 3
+## Problem 3
 
 (Exercise 23.1, Review and Consolidation, Problem 3) If $y$ is directly proportional to $x$, and when $x=2$, $y=8$, write the analytic expression for $y$ as a function of $x$, and find for what value of $x$, $y=-4$.
 
 ### Solution to Problem 3
 
-By **Definition 23.1.2** (Direct Proportion Function), let $y=kx$. Substituting $x=2$, $y=8$, we get $8=2k$, giving $k=4$. So the analytic expression is $y=4x$.
+By **Basic Knowledge: Direct Proportion Function**, let $y=kx$. Substituting $x=2$, $y=8$, we get $8=2k$, giving $k=4$. So the analytic expression is $y=4x$.
 
 When $y=-4$, $-4=4x$, giving $x=-1$. So $y=-4$ when $x=-1$. $\blacksquare$
 
-### Problem 4
+## Problem 4
 
 (Exercise 23.1, Comprehensive Application, Problem 4) A bank's one-year deposit interest rate is $1.5\%$; let the principal deposited be $x$ yuan, and the sum of principal and interest after one year be $y$ yuan.
 
@@ -108,7 +109,7 @@ When $y=-4$, $-4=4x$, giving $x=-1$. So $y=-4$ when $x=-1$. $\blacksquare$
 
 (2) When $x=10000$, $y=1.015\times10000=10150$ yuan. So after depositing $10000$ yuan, the sum after one year is $10150$ yuan. $\blacksquare$
 
-### Problem 5
+## Problem 5
 
 (Exercise 23.1, Extension and Exploration, Problem 5) The school launches a campaign to donate backpacks to children in an orphanage; each backpack costs $60$ yuan. Zhang Hua has saved $480$ yuan of pocket money; let the number of backpacks she donates be $x$, and the money remaining be $y$ yuan.
 

@@ -1,12 +1,12 @@
-# Assignment 127
+# week127
 
-> **Conclusion 25.2.1** (Direct Square Root Extraction) <br>For the equation $x^2=p$: (1) when $p> 0$, the equation has two unequal real roots $x=\pm\sqrt p$; (2) when $p=0$, the equation has two equal real roots $x_1=x_2=0$; (3) when $p< 0$, since $x^2\ge0$ for every real number $x$, the equation has no real root.
-> 
-> **Definition 25.2.1** (Method of Completing the Square) <br>The method of solving a quadratic equation by fitting it into a perfect-square form is called completing the square. Completing the square is based on $a^2\pm2ab+b^2=\left(a\pm b\right)^2$, i.e. adding to both sides the square of half the linear coefficient.
-> 
-> **Conclusion 25.2.2** (Reducing the Degree After Completing the Square) <br>After completing the square, a quadratic equation can be put in the form $\left(x+n\right)^2=p$: (1) when $p> 0$, $x=-n\pm\sqrt p$; (2) when $p=0$, $x_1=x_2=-n$; (3) when $p< 0$, since $\left(x+n\right)^2\ge0$, the equation has no real root.
+> **Basic Knowledge: Direct Square Root Extraction**<br>For the equation $x^2=p$: (1) when $p> 0$, the equation has two unequal real roots $x=\pm\sqrt p$; (2) when $p=0$, the equation has two equal real roots $x_1=x_2=0$; (3) when $p< 0$, since $x^2\ge0$ for every real number $x$, the equation has no real root.
+> **Basic Knowledge: Method of Completing the Square**<br>The method of solving a quadratic equation by fitting it into a perfect-square form is called completing the square. Completing the square is based on $a^2\pm2ab+b^2=\left(a\pm b\right)^2$, i.e. adding to both sides the square of half the linear coefficient.
+> **Basic Knowledge: Reducing the Degree After Completing the Square**<br>After completing the square, a quadratic equation can be put in the form $\left(x+n\right)^2=p$: (1) when $p> 0$, $x=-n\pm\sqrt p$; (2) when $p=0$, $x_1=x_2=-n$; (3) when $p< 0$, since $\left(x+n\right)^2\ge0$, the equation has no real root.
+---
 
-### Exercise 1
+
+## Exercise 1
 
 (Exercise 25.2, Problem 1) Solve the following equations:
 
@@ -24,21 +24,21 @@
 
 ### Solution to Exercise 1
 
-Put each equation in the form $x^2=p$ or $\left(x+n\right)^2=p$, and solve by direct square root extraction using **Conclusion 25.2.1** or **Conclusion 25.2.2**.
+Put each equation in the form $x^2=p$ or $\left(x+n\right)^2=p$, and solve by direct square root extraction using **Basic Knowledge** or **Basic Knowledge**.
 
-(1) Transposing terms gives $x^2=9$. By **Conclusion 25.2.1**, $x=\pm3$, i.e. $x_1=3$, $x_2=-3$.
+(1) Transposing terms gives $x^2=9$. By **Basic Knowledge**, $x=\pm3$, i.e. $x_1=3$, $x_2=-3$.
 
 (2) Transposing terms and making the coefficient $1$ gives $x^2=4$. Hence $x=\pm2$, i.e. $x_1=2$, $x_2=-2$.
 
 (3) Transposing terms and combining gives $9x^2=8$, i.e. $x^2=\frac89$. Hence $x=\pm\frac{2\sqrt2}{3}$.
 
-(4) Transposing terms gives $\left(x+6\right)^2=9$. By **Conclusion 25.2.2**, $x+6=\pm3$, hence $x_1=-3$, $x_2=-9$.
+(4) Transposing terms gives $\left(x+6\right)^2=9$. By **Basic Knowledge**, $x+6=\pm3$, hence $x_1=-3$, $x_2=-9$.
 
 (5) Transposing terms and making the coefficient $1$ gives $\left(x-1\right)^2=2$, hence $x-1=\pm\sqrt2$, i.e. $x=1\pm\sqrt2$.
 
 (6) Writing the left side as a perfect square gives $\left(x-2\right)^2=5$, hence $x-2=\pm\sqrt5$, i.e. $x=2\pm\sqrt5$. $\blacksquare$
 
-### Exercise 2
+## Exercise 2
 
 (Exercise 25.2, Problem 2, Part (1)) Fill in the blanks:
 
@@ -52,7 +52,7 @@ Put each equation in the form $x^2=p$ or $\left(x+n\right)^2=p$, and solve by di
 
 ### Solution to Exercise 2
 
-By **Definition 25.2.1** (Method of Completing the Square), when the quadratic coefficient is $1$, add to both sides the square of half the linear coefficient, namely $\left(\frac{b}{2}\right)^2$.
+By **Basic Knowledge: Method of Completing the Square**, when the quadratic coefficient is $1$, add to both sides the square of half the linear coefficient, namely $\left(\frac{b}{2}\right)^2$.
 
 (1) The linear coefficient is $10$; the square of half is $5^2=25$, so $x^2+10x+25=\left(x+5\right)^2$.
 
@@ -62,7 +62,7 @@ By **Definition 25.2.1** (Method of Completing the Square), when the quadratic c
 
 (4) The linear coefficient is $-\frac23$; the square of half is $\left(-\frac13\right)^2=\frac19$, so $x^2-\frac23x+\frac19=\left(x-\frac13\right)^2$. $\blacksquare$
 
-### Exercise 3
+## Exercise 3
 
 (Exercise 25.2, Problem 2, Part (2)) Solve the following equations:
 
@@ -80,7 +80,7 @@ By **Definition 25.2.1** (Method of Completing the Square), when the quadratic c
 
 ### Solution to Exercise 3
 
-By **Definition 25.2.1** (Method of Completing the Square), first transpose terms; if the quadratic coefficient is not $1$, first make it $1$, then add to both sides the square of half the linear coefficient, and take square roots by **Conclusion 25.2.2**.
+By **Basic Knowledge: Method of Completing the Square**, first transpose terms; if the quadratic coefficient is not $1$, first make it $1$, then add to both sides the square of half the linear coefficient, and take square roots by **Basic Knowledge**.
 
 (1) Transposing terms gives $x^2+10x=-9$; completing the square,
 
@@ -114,7 +114,7 @@ $$
 
 Hence $x-\frac34=\pm\frac{\sqrt{21}}4$, i.e. $x=\frac{3\pm\sqrt{21}}4$.
 
-(5) Transposing terms and combining like terms gives $x^2+2x=-2$; completing the square gives $\left(x+1\right)^2=-1$. By **Conclusion 25.2.2**, the right side $-1< 0$, whereas $\left(x+1\right)^2\ge0$, so the original equation has no real root.
+(5) Transposing terms and combining like terms gives $x^2+2x=-2$; completing the square gives $\left(x+1\right)^2=-1$. By **Basic Knowledge**, the right side $-1< 0$, whereas $\left(x+1\right)^2\ge0$, so the original equation has no real root.
 
 (6) Removing parentheses and transposing terms gives $x^2-4x=4$; completing the square,
 
@@ -124,7 +124,7 @@ $$
 
 Hence $x-2=\pm2\sqrt2$, i.e. $x=2\pm2\sqrt2$. $\blacksquare$
 
-### Problem 1
+## Problem 1
 
 (Exercise 25.2, Review and Consolidation, Problem 1) Solve the following equations:
 
@@ -138,7 +138,7 @@ Hence $x-2=\pm2\sqrt2$, i.e. $x=2\pm2\sqrt2$. $\blacksquare$
 
 ### Solution to Problem 1
 
-Put the equations in the form $x^2=p$ or $\left(x+n\right)^2=p$, and take square roots by **Conclusion 25.2.1** and **Conclusion 25.2.2**.
+Put the equations in the form $x^2=p$ or $\left(x+n\right)^2=p$, and take square roots by **Basic Knowledge** and **Basic Knowledge**.
 
 (1) Transposing terms and making the coefficient $1$ gives $x^2=\frac1{36}$, hence $x=\pm\frac16$.
 
@@ -148,7 +148,7 @@ Put the equations in the form $x^2=p$ or $\left(x+n\right)^2=p$, and take square
 
 (4) Writing the left side as a perfect square gives $\left(x+1\right)^2=4$, hence $x+1=\pm2$, i.e. $x_1=1$, $x_2=-3$. $\blacksquare$
 
-### Problem 2
+## Problem 2
 
 (Exercise 25.2, Review and Consolidation, Problem 2) Fill in the blanks:
 
@@ -162,7 +162,7 @@ Put the equations in the form $x^2=p$ or $\left(x+n\right)^2=p$, and take square
 
 ### Solution to Problem 2
 
-By **Definition 25.2.1** (Method of Completing the Square), add the square of half the linear coefficient.
+By **Basic Knowledge: Method of Completing the Square**, add the square of half the linear coefficient.
 
 (1) The linear coefficient is $6$; the square of half is $3^2=9$, so $x^2+6x+9=\left(x+3\right)^2$.
 
@@ -172,7 +172,7 @@ By **Definition 25.2.1** (Method of Completing the Square), add the square of ha
 
 (4) The linear coefficient is $-\frac25$; the square of half is $\left(-\frac15\right)^2=\frac1{25}$, so $x^2-\frac25x+\frac1{25}=\left(x-\frac15\right)^2$. $\blacksquare$
 
-### Problem 3
+## Problem 3
 
 (Exercise 25.2, Review and Consolidation, Problem 3) Solve the following equations by completing the square:
 
@@ -186,7 +186,7 @@ By **Definition 25.2.1** (Method of Completing the Square), add the square of ha
 
 ### Solution to Problem 3
 
-By **Definition 25.2.1** (Method of Completing the Square), transpose terms and complete the square, then take square roots by **Conclusion 25.2.2**.
+By **Basic Knowledge: Method of Completing the Square**, transpose terms and complete the square, then take square roots by **Basic Knowledge**.
 
 (1) Transposing terms gives $x^2+10x=-16$; completing the square gives $\left(x+5\right)^2=9$, hence $x+5=\pm3$, i.e. $x_1=-2$, $x_2=-8$.
 

@@ -1,10 +1,12 @@
-# Assignment 81
+# week81
 
-> **Definition 16.3.1** (Difference of Squares Formula) <br>$\left(a+b\right)\left(a-b\right)=a^2-b^2$, that is, the product of the sum of two numbers and the difference of the same two numbers equals the difference of their squares.
+> **Basic Knowledge: Difference of Squares Formula**<br>$\left(a+b\right)\left(a-b\right)=a^2-b^2$, that is, the product of the sum of two numbers and the difference of the same two numbers equals the difference of their squares.
+---
 
-> **Definition 16.3.2** (Perfect Square Formula) <br>$\left(a+b\right)^2=a^2+2ab+b^2$, $\left(a-b\right)^2=a^2-2ab+b^2$.
 
-> **Definition 16.2.3** (Multiplication of a Polynomial by a Polynomial) <br>First multiply each term of one polynomial by each term of the other polynomial, then add the resulting products.
+> **Basic Knowledge: Perfect Square Formula** <br>$\left(a+b\right)^2=a^2+2ab+b^2$, $\left(a-b\right)^2=a^2-2ab+b^2$.
+
+> **Basic Knowledge: Multiplication of a Polynomial by a Polynomial** <br>First multiply each term of one polynomial by each term of the other polynomial, then add the resulting products.
 
 ### Activity 1
 
@@ -24,7 +26,7 @@
 
 (2) With a calendar from another month, as long as the box still spans two adjacent rows and two adjacent columns, the pattern is the same.
 
-(3) Let the number in the upper-left corner of the box be $n$; then to its right in the same row is $n+1$, and in the row below are $n+7$ and $n+8$. Expanding by **Definition 16.3.1**:
+(3) Let the number in the upper-left corner of the box be $n$; then to its right in the same row is $n+1$, and in the row below are $n+7$ and $n+8$. Expanding by **Basic Knowledge**:
 
 $$n\left(n+8\right)-\left(n+1\right)\left(n+7\right)=n^2+8n-\left(n^2+8n+7\right)=-7.$$
 
@@ -52,7 +54,7 @@ Hence the difference is always $-7$, independent of $n$.
 
 ② $50\times50=2500$, $53\times47=2491$, $74\times26=1924$, $91\times9=819$. The sum of the two numbers in each group is $100$; similarly, the closer the two numbers are to $50$, the larger the product.
 
-(2) Let the sum of the two numbers be the fixed value $S$, with the two numbers being $\frac S2+d$ and $\frac S2-d$. By **Definition 16.3.1**:
+(2) Let the sum of the two numbers be the fixed value $S$, with the two numbers being $\frac S2+d$ and $\frac S2-d$. By **Basic Knowledge**:
 
 $$\left(\frac S2+d\right)\left(\frac S2-d\right)=\frac{S^2}{4}-d^2.$$
 

@@ -1,20 +1,29 @@
-# 作业 79
+# week79
 
-> **定义 16.2.1** (单项式与单项式相乘) <br>把它们的系数、同底数幂分别相乘作为积的因式, 对于只在一个单项式里含有的字母, 则连同它的指数作为积的一个因式.
+> **基础知识: 单项式与单项式相乘**<br>把它们的系数, 同底数幂分别相乘作为积的因式, 对于只在一个单项式里含有的字母, 则连同它的指数作为积的一个因式.
+> **基础知识: 单项式与多项式相乘**<br>单项式与多项式相乘, 就是用单项式去乘多项式的每一项, 再把所得的积相加.
+> **基础知识: 单项式除以单项式**<br>单项式相除, 把系数与同底数幂分别相除作为商的因式, 只在被除式里含有的字母连同它的指数作为商的一个因式.
+> **基础知识: 同底数幂的除法**<br>同底数幂相除, 底数不变, 指数相减: $a^m \div a^n=a^{m-n}$ ($a\ne0$).
+> **基础知识: 多项式与多项式相乘**<br>多项式与多项式相乘, 先用一个多项式的每一项乘另一个多项式的每一项, 再把所得的积相加.
+> **基础知识: 多项式除以单项式**<br>多项式除以单项式.
+> **基础知识: 零指数幂**<br>任何不等于 $0$ 的数的 $0$ 次幂都等于 $1$: $a^0=1$ ($a\ne0$).
 
-> **定义 16.2.2** (单项式与多项式相乘) <br>用单项式去乘多项式的每一项, 再把所得的积相加, 即 $p\left(a+b+c\right)=pa+pb+pc$.
+---
 
-> **定义 16.2.3** (多项式与多项式相乘) <br>先用一个多项式的每一项乘另一个多项式的每一项, 再把所得的积相加, 即 $\left(a+b\right)\left(p+q\right)=ap+aq+bp+bq$.
 
-> **定义 16.2.4** (同底数幂的除法) <br>$a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ 都是正整数, $m> n$), 即同底数幂相除, 底数不变, 指数相减.
+> **基础知识: 单项式与多项式相乘** <br>用单项式去乘多项式的每一项, 再把所得的积相加, 即 $p\left(a+b+c\right)=pa+pb+pc$.
 
-> **定义 16.2.5** (零指数幂) <br>$a^0=1$ ($a\ne0$), 即任何不等于 $0$ 的数的 $0$ 次幂都等于 $1$.
+> **基础知识: 多项式与多项式相乘** <br>先用一个多项式的每一项乘另一个多项式的每一项, 再把所得的积相加, 即 $\left(a+b\right)\left(p+q\right)=ap+aq+bp+bq$.
 
-> **定义 16.2.6** (单项式除以单项式) <br>把系数与同底数幂分别相除作为商的因式, 对于只在被除式里含有的字母, 则连同它的指数作为商的一个因式.
+> **基础知识: 同底数幂的除法** <br>$a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ 都是正整数, $m> n$), 即同底数幂相除, 底数不变, 指数相减.
 
-> **定义 16.2.7** (多项式除以单项式) <br>先把这个多项式的每一项除以这个单项式, 再把所得的商相加.
+> **基础知识: 零指数幂** <br>$a^0=1$ ($a\ne0$), 即任何不等于 $0$ 的数的 $0$ 次幂都等于 $1$.
 
-### 练习一
+> **基础知识: 单项式除以单项式** <br>把系数与同底数幂分别相除作为商的因式, 对于只在被除式里含有的字母, 则连同它的指数作为商的一个因式.
+
+> **基础知识: 多项式除以单项式** <br>先把这个多项式的每一项除以这个单项式, 再把所得的商相加.
+
+## 练习一
 
 (练习 16.2 第 1 题) 下面的计算是否正确? 如果不正确, 应当怎样改正?
 
@@ -28,7 +37,7 @@
 
 ### 解答 练习一
 
-由**定义 16.2.1** (单项式与单项式相乘).
+由**基础知识: 单项式与单项式相乘**.
 
 (1) 不正确. $3a^3\cdot2a^2=6a^{3+2}=6a^5$, 同底数幂应指数相加.
 
@@ -38,7 +47,7 @@
 
 (4) 正确, $x^2 y^2\cdot x^2 y^6=x^4 y^8$. $\blacksquare$
 
-### 练习二
+## 练习二
 
 (练习 16.2 第 2 题) 计算:
 
@@ -52,7 +61,7 @@
 
 ### 解答 练习二
 
-由**定义 16.2.1**.
+由**基础知识**.
 
 (1) $3x^2\cdot5x^3=15x^5$.
 
@@ -62,7 +71,7 @@
 
 (4) $-2ab^2\cdot\left(-3ab\right)=6a^2 b^3$. $\blacksquare$
 
-### 练习三
+## 练习三
 
 (练习 16.2 第 3 题) 计算:
 
@@ -78,7 +87,7 @@
 
 (2) $\left(-a\right)^5-\left(6a^2\right)^2\cdot\left(-a\right)=-a^5-36a^4\cdot\left(-a\right)=-a^5+36a^5=35a^5$. $\blacksquare$
 
-### 练习四
+## 练习四
 
 (练习 16.2 第 4 题) 卫星绕地球运动的速度 (即第一宇宙速度) 是 $7.9\times10^3\ \text{m/s}$, 求卫星绕地球运行 $1\ \text{h}$ 飞过的路程.
 
@@ -92,7 +101,7 @@ $$
 
 即卫星绕地球运行 $1\ \text{h}$ 飞过的路程约为 $2.844\times10^7\ \text{m}$. $\blacksquare$
 
-### 练习五
+## 练习五
 
 (练习 16.2 第 1 题) 下面的计算是否正确? 如果不正确, 应当怎样改正?
 
@@ -102,13 +111,13 @@ $$
 
 ### 解答 练习五
 
-由**定义 16.2.2** (单项式与多项式相乘).
+由**基础知识: 单项式与多项式相乘**.
 
 (1) 不正确. $\left(-2x\right)\left(x^2-x\right)=-2x^3+2x^2$, 第二项 $\left(-2x\right)\left(-x\right)$ 应为正.
 
 (2) 正确. $a\left(b-c\right)+b\left(c-a\right)+c\left(a-b\right)=ab-ac+bc-ab+ac-bc=0$. $\blacksquare$
 
-### 练习六
+## 练习六
 
 (练习 16.2 第 2 题) 计算:
 
@@ -122,7 +131,7 @@ $$
 
 ### 解答 练习六
 
-由**定义 16.2.2**.
+由**基础知识**.
 
 (1) $3a\left(5a-2b\right)=15a^2-6ab$.
 
@@ -132,13 +141,13 @@ $$
 
 (4) $\left(-2ab\right)^2\left(2a-b+1\right)=4a^2 b^2\left(2a-b+1\right)=8a^3 b^2-4a^2 b^3+4a^2 b^2$. $\blacksquare$
 
-### 练习七
+## 练习七
 
 (练习 16.2 第 3 题) 计算: $x\left(x-1\right)+2x\left(x+1\right)-3x\left(2x-5\right)$.
 
 ### 解答 练习七
 
-由**定义 16.2.2**.
+由**基础知识**.
 
 $$
 x\left(x-1\right)+2x\left(x+1\right)-3x\left(2x-5\right)=x^2-x+2x^2+2x-6x^2+15x=-3x^2+16x.
@@ -146,7 +155,7 @@ $$
 
 $\blacksquare$
 
-### 练习八
+## 练习八
 
 (练习 16.2 第 4 题) 先化简, 再求值: $x^2\left(x-1\right)-x\left(x^2+x-1\right)$, 其中 $x=\frac12$.
 
@@ -160,7 +169,7 @@ $$
 
 代入 $x=\frac12$, 得 $-2\cdot\frac14+\frac12=-\frac12+\frac12=0$. $\blacksquare$
 
-### 练习九
+## 练习九
 
 (练习 16.2 第 1 题) 计算:
 
@@ -178,7 +187,7 @@ $$
 
 ### 解答 练习九
 
-由**定义 16.2.3** (多项式与多项式相乘).
+由**基础知识: 多项式与多项式相乘**.
 
 (1) $\left(2x+1\right)\left(x+3\right)=2x^2+6x+x+3=2x^2+7x+3$.
 
@@ -192,7 +201,7 @@ $$
 
 (6) $\left(x^2+2x+3\right)\left(2x-5\right)=2x^3-5x^2+4x^2-10x+6x-15=2x^3-x^2-4x-15$. $\blacksquare$
 
-### 练习十
+## 练习十
 
 (练习 16.2 第 2 题) 计算:
 
@@ -208,7 +217,7 @@ $$
 
 ### 解答 练习十
 
-由**定义 16.2.3**.
+由**基础知识**.
 
 (1) $\left(x+2\right)\left(x+3\right)=x^2+5x+6$.
 
@@ -224,13 +233,13 @@ $$\left(x+p\right)\left(x+q\right)=x^2+\left(p+q\right)x+pq.$$
 
 $\blacksquare$
 
-### 练习十一
+## 练习十一
 
 (练习 16.2 第 3 题) 先化简, 再求值: $\left(x-y\right)\left(x^2+xy+y^2\right)-\left(x+y\right)\left(x^2-y^2\right)$, 其中 $x=5$, $y=5$.
 
 ### 解答 练习十一
 
-由**定义 16.2.3**.
+由**基础知识**.
 
 $$\left(x-y\right)\left(x^2+xy+y^2\right)=x^3-y^3,$$
 
@@ -238,7 +247,7 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 代入 $x=5,y=5$ 时 $x-y=0$, 故原式 $=0-\left(x+y\right)\cdot0=0$. $\blacksquare$
 
-### 练习十二
+## 练习十二
 
 (练习 16.2 第 1 题) 计算:
 
@@ -252,7 +261,7 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 ### 解答 练习十二
 
-由**定义 16.2.4** (同底数幂的除法) 与**定义 16.2.5** (零指数幂).
+由**基础知识: 同底数幂的除法** 与**基础知识: 零指数幂**.
 
 (1) $x^7\div x^5=x^2$.
 
@@ -262,7 +271,7 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 (4) $\left(xy\right)^5\div\left(xy\right)^3=\left(xy\right)^2=x^2 y^2$. $\blacksquare$
 
-### 练习十三
+## 练习十三
 
 (练习 16.2 第 2 题) 计算:
 
@@ -276,7 +285,7 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 ### 解答 练习十三
 
-由**定义 16.2.6** (单项式除以单项式).
+由**基础知识: 单项式除以单项式**.
 
 (1) $\left(10ab^3\right)\div\left(-5ab\right)=-2b^2$.
 
@@ -286,7 +295,7 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 (4) $\left(6\times10^8\right)\div\left(3\times10^5\right)=2\times10^3$. $\blacksquare$
 
-### 练习十四
+## 练习十四
 
 (练习 16.2 第 3 题) 计算:
 
@@ -296,13 +305,13 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 ### 解答 练习十四
 
-由**定义 16.2.7** (多项式除以单项式).
+由**基础知识: 多项式除以单项式**.
 
 (1) $\left(6ab+5a\right)\div a=6b+5$.
 
 (2) $\left(15x^2 y-10xy^2\right)\div\left(5xy\right)=3x-2y$. $\blacksquare$
 
-### 习题一
+## 习题一
 
 (习题 16.2 复习巩固第 1 题) 计算:
 
@@ -316,7 +325,7 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 ### 解答 习题一
 
-由**定义 16.2.1**.
+由**基础知识**.
 
 (1) $3x\cdot6x^2 y=18x^3 y$.
 
@@ -326,7 +335,7 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 (4) $\left(1.25\times10^5\right)\times\left(2\times10^3\right)^3=1.25\times10^5\times8\times10^9=10\times10^{14}=1\times10^{15}$. $\blacksquare$
 
-### 习题二
+## 习题二
 
 (习题 16.2 复习巩固第 2 题) 计算:
 
@@ -340,7 +349,7 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 ### 解答 习题二
 
-由**定义 16.2.2**.
+由**基础知识**.
 
 (1) $\left(4a-b^2\right)\left(-2b\right)=-8ab+2b^3$.
 
@@ -350,7 +359,7 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 (4) $\left(2a^2-\frac23 a-\frac49\right)\left(-9a\right)=-18a^3+6a^2+4a$. $\blacksquare$
 
-### 习题三
+## 习题三
 
 (习题 16.2 复习巩固第 3 题) 计算:
 
@@ -368,7 +377,7 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 ### 解答 习题三
 
-由**定义 16.2.3**.
+由**基础知识**.
 
 (1) $\left(x-6\right)\left(x-3\right)=x^2-9x+18$.
 
@@ -382,7 +391,7 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 (6) $\left(x-1\right)\left(x^2+x+1\right)=x^3+x^2+x-x^2-x-1=x^3-1$. $\blacksquare$
 
-### 习题四
+## 习题四
 
 (习题 16.2 复习巩固第 4 题) 计算:
 
@@ -400,7 +409,7 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 ### 解答 习题四
 
-由**定义 16.2.6** 与**定义 16.2.7**.
+由**基础知识** 与**基础知识**.
 
 (1) $\left(a^3\right)^2\div\left(a^2\right)^3=a^6\div a^6=1$.
 
@@ -414,7 +423,7 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 (6) $\left(-81x^{n+5}+15x^{n+1}-3x^{n-1}\right)\div\left(-3x^{n-1}\right)=27x^6-5x^2+1$. $\blacksquare$
 
-### 习题五
+## 习题五
 
 (习题 16.2 复习巩固第 5 题) 计算:
 
@@ -438,7 +447,7 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 (4) $\left(-4ab^3+8a^2 b^2\right)\div\left(4ab\right)-\left(2a+b\right)\left(a-b\right)=-b^2+2ab-\left(2a^2-2ab+ab-b^2\right)=-b^2+2ab-2a^2+ab+b^2=-2a^2+3ab$. $\blacksquare$
 
-### 习题六
+## 习题六
 
 (习题 16.2 综合运用第 6 题) 计算:
 
@@ -454,7 +463,7 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 (2) $\left[\left(a^2 b^2-1\right)-2a^2 b^2+1\right]\div\left(a^2 b^2\right)=\left(-a^2 b^2\right)\div\left(a^2 b^2\right)=-1$. $\blacksquare$
 
-### 习题七
+## 习题七
 
 (习题 16.2 综合运用第 7 题) 先化简, 再求值:
 
@@ -468,7 +477,7 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 (2) 原式 $=a^2-2ab-b^2-\left(a^2+2ab+b^2\right)=-4ab-2b^2$. 代入 $a=\frac12,b=-1$, 得 $-4\cdot\frac12\cdot\left(-1\right)-2\cdot1=2-2=0$. $\blacksquare$
 
-### 习题八
+## 习题八
 
 (习题 16.2 综合运用第 8 题) 已知 $3x-4y=3$ ($x,y$ 为正整数), 求 $27^x\div9^{2y}$.
 
@@ -480,7 +489,7 @@ $$27^x\div9^{2y}=3^{3x}\div3^{4y}=3^{3x-4y}=3^3=27.$$
 
 $\blacksquare$
 
-### 习题九
+## 习题九
 
 (习题 16.2 综合运用第 9 题) 计算图中阴影所示绿地的面积 (长度单位: $\text{m}$).
 
@@ -498,7 +507,7 @@ $$32a^2-10a^2=22a^2\ \left(\text{m}^2\right).$$
 
 $\blacksquare$
 
-### 习题十
+## 习题十
 
 (习题 16.2 综合运用第 10 题) 如图, 有一张长方形纸板, 在它的四角各切去一个同样的正方形, 然后将四周突出部分折起, 制成一个高为 $a\ \text{cm}$ 的长方体形状的无盖纸盒. 如果纸盒的容积为 $4a^2 b\ \text{cm}^3$, 底面长方形的一边长为 $b$ ($b< 4a$) $\text{cm}$, 求原长方形纸板的长和宽.
 
@@ -514,7 +523,7 @@ $$bx\cdot a=4a^2 b,$$
 
 故纸盒底面两边为 $b$ 与 $4a$. 原纸板长比底面长多出 $2a$, 宽比底面宽多出 $2a$. 因 $b< 4a$, 取底面长边 $4a$ 对应纸板长边, 则原纸板长为 $4a+2a=6a\ \text{cm}$, 宽为 $b+2a\ \text{cm}$. $\blacksquare$
 
-### 习题十一
+## 习题十一
 
 (习题 16.2 拓广探索第 11 题) 确定下列各式中 $m$ 的值 (其中 $p,q$ 为正整数):
 

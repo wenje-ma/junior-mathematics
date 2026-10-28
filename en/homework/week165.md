@@ -1,8 +1,16 @@
-﻿# Assignment 165
+# week165
 
-> **Definition 27.2.4** (AA) <br>Two triangles with two pairs of corresponding angles equal are similar.
+> **Basic Knowledge: AA**<br>Two triangles with two pairs of corresponding angles equal are similar.
+> **Basic Knowledge: Homothetic Figures**<br>Similar figures whose corresponding vertices lie on lines through a common point and whose corresponding sides are parallel.
 
-> **Definition 27.3.1** (Homothetic Figures) <br>Two figures whose corresponding vertices' connecting lines meet at the same point $O$, and for which $\frac{OA'}{OA}=\frac{OB'}{OB}=\cdots$, are called homothetic figures, with corresponding sides parallel to each other.
+---
+
+---
+
+---
+
+
+> **Basic Knowledge: Homothetic Figures** <br>Two figures whose corresponding vertices' connecting lines meet at the same point $O$, and for which $\frac{OA'}{OA}=\frac{OB'}{OB}=\cdots$, are called homothetic figures, with corresponding sides parallel to each other.
 
 ### Activity 1
 
@@ -10,7 +18,7 @@
 
 ### Solution to Activity 1
 
-By **Definition 27.2.4** (AA), both methods construct similar triangles and use the proportionality of corresponding sides to find the height of the flagpole.
+By **Basic Knowledge: AA**, both methods construct similar triangles and use the proportionality of corresponding sides to find the height of the flagpole.
 
 (1) Using shadows: at the same moment the sun's rays are parallel; the flagpole and its shadow, and the bamboo pole and its shadow, form two right triangles respectively, whose two acute angles correspond and are equal, so they are similar, and the object height is proportional to the shadow length.
 
@@ -24,7 +32,7 @@ By **Definition 27.2.4** (AA), both methods construct similar triangles and use 
 
 ### Solution to Activity 2
 
-By **Definition 27.3.1** (Homothetic Figures), relative to the first flat artistic lettering, each vertex of the second three-dimensional lettering is offset in the same direction, and the corresponding segments are parallel to each other with equal ratios; i.e. the two styles of lettering form homothetic figures.
+By **Basic Knowledge: Homothetic Figures**, relative to the first flat artistic lettering, each vertex of the second three-dimensional lettering is offset in the same direction, and the corresponding segments are parallel to each other with equal ratios; i.e. the two styles of lettering form homothetic figures.
 
 The center of homothety lies on the ray corresponding to each stroke, and the ratio of corresponding segments equals the similarity ratio. Following this homothety relationship produces the three-dimensional lettering. $\blacksquare$
 

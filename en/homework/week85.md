@@ -1,8 +1,10 @@
-# Assignment 85
+# week85
 
-> **Definition 17.2.1** (Method Using the Difference of Squares Formula) <br>$a^2-b^2=\left(a+b\right)\left(a-b\right)$.
+> **Basic Knowledge: Method Using the Difference of Squares Formula**<br>$a^2-b^2=\left(a+b\right)\left(a-b\right)$.
+---
 
-> **Definition 17.1.3** (Method of Extracting the Common Factor) <br>Extract the common factor, writing the polynomial as the product of the common factor and another factor.
+
+> **Basic Knowledge: Method of Extracting the Common Factor** <br>Extract the common factor, writing the polynomial as the product of the common factor and another factor.
 
 ### Activity 1
 

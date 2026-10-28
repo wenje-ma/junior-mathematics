@@ -1,10 +1,10 @@
-# Assignment 70
+# week70
 
-> **Definition 14.1.1** (Congruent Figures and Congruent Triangles) <br>Two figures that can coincide completely are called congruent figures; two triangles that can coincide completely are called congruent triangles, denoted $\triangle ABC\cong\triangle A'B'C'$.
-> 
-> **Conclusion 14.1.1** (Properties of Congruent Triangles) <br>Corresponding sides of congruent triangles are equal, and corresponding angles are equal. Figures before and after translation, reflection and rotation are congruent.
+> **Basic Knowledge: Congruent Figures and Congruent Triangles**<br>Two figures that can coincide completely are called congruent figures; two triangles that can coincide completely are called congruent triangles, denoted $\triangle ABC\cong\triangle A'B'C'$.
 
-### Activity 1
+---
+
+## Activity 1
 
 (Mathematics Activity, Activity 1: Designing Patterns Using Congruent Figures) Figure 1 shows two patterns designed from congruent figures. Observe which congruent figures and which congruent triangles are in each pattern, and find examples of congruent figures and congruent triangles around you.
 
@@ -12,7 +12,10 @@
 
 The basic figures that coincide with one another in a pattern are congruent figures, among which the coinciding triangles are congruent triangles. In daily life, cards of the same suit in one deck of cards, floor tiles of the same model, and two figures cut out by folding and cutting paper are all congruent figures; patterns assembled from congruent triangles and identical triangular units in a building truss are congruent triangles. $\blacksquare$
 
-### Activity 2
+
+---
+
+## Activity 2
 
 (Mathematics Activity, Activity 2: Proving a Puzzle Conjecture with Congruent Triangles) As in Figure 2, $\triangle ABC\cong\triangle A'B'C'$. Cut them out, make side $BC$ coincide with side $B'C'$ while vertex $A$ and vertex $A'$ do not coincide, draw the assembled figure, and join $AA'$. Conjecture what relationship $BC$ and $AA'$ have, and prove it.
 
