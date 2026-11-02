@@ -1,11 +1,17 @@
 # week50
 
-> **Basic Knowledge: Substitution Elimination**<br>Express one unknown of one equation in terms of an expression containing the other unknown, then substitute into the other equation to eliminate the unknown.
+> **Basic Knowledge: Substitution Elimination**
+>
+> Express one unknown of one equation in terms of an expression containing the other unknown, then substitute into the other equation to eliminate the unknown.
 
-> **Basic Knowledge: Addition-Subtraction Elimination**<br>When the coefficients of the same unknown in the two equations are opposite or equal, add or subtract both sides respectively to eliminate this unknown.
+> **Basic Knowledge: Addition-Subtraction Elimination**
+>
+> When the coefficients of the same unknown in the two equations are opposite or equal, add or subtract both sides respectively to eliminate this unknown.
 
 
-> **Basic Knowledge: Solving a System of Linear Equations in Three Variables**<br>Use substitution or elimination to reduce a system of three equations with three unknowns step by step to one equation in one unknown.
+> **Basic Knowledge: Solving a System of Linear Equations in Three Variables**
+>
+> Use substitution or elimination to reduce a system of three equations with three unknowns step by step to one equation in one unknown.
 ---
 
 ## Review Exercise 1

@@ -1,10 +1,16 @@
 # week21
 
-> **Basic Knowledge: Linear Equation in One Variable**<br>An equation that contains only one unknown, and the degree of the unknown is $1$, is called a linear equation in one variable.
+> **Basic Knowledge: Linear Equation in One Variable**
+>
+> An equation that contains only one unknown, and the degree of the unknown is $1$, is called a linear equation in one variable.
 
-> **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**<br>The general steps for solving a linear equation in one variable are: clear the denominators, remove the parentheses, transpose terms, combine like terms, and make the coefficient $1$.
+> **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**
+>
+> The general steps for solving a linear equation in one variable are: clear the denominators, remove the parentheses, transpose terms, combine like terms, and make the coefficient $1$.
 
-> **Basic Knowledge: Steps for Solving Word Problems by Setting Up Equations**<br>Let an unknown, set up the equation, solve the equation, check, and give the answer.
+> **Basic Knowledge: Steps for Solving Word Problems by Setting Up Equations**
+>
+> Let an unknown, set up the equation, solve the equation, check, and give the answer.
 
 ---
 

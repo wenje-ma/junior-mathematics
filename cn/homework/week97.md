@@ -1,7 +1,11 @@
 # week97
 
-> **基础知识: 乘法逆用**<br>\(\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}\)(\(a\ge 0,\ b\ge 0\)). 
-> **基础知识: 除法逆用**<br>\(\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}\)(\(a\ge 0,\ b> 0\)). 
+> **基础知识: 乘法逆用**
+>
+> \(\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}\)(\(a\ge 0,\ b\ge 0\)). 
+> **基础知识: 除法逆用**
+>
+> \(\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}\)(\(a\ge 0,\ b> 0\)). 
 ---
 
 

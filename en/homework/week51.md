@@ -1,14 +1,26 @@
 # week51
 
-> **Basic Knowledge: Inequality**<br>An expression using the symbols "$< $" or "$> $" to denote size/order relations.
+> **Basic Knowledge: Inequality**
+>
+> An expression using the symbols "$< $" or "$> $" to denote size/order relations.
 
-> **Basic Knowledge: Solution of an Inequality**<br>A value of the unknown that makes the inequality hold.
+> **Basic Knowledge: Solution of an Inequality**
+>
+> A value of the unknown that makes the inequality hold.
 
-> **Basic Knowledge: Solution Set of an Inequality**<br>The set consisting of all the solutions of an inequality containing an unknown.
+> **Basic Knowledge: Solution Set of an Inequality**
+>
+> The set consisting of all the solutions of an inequality containing an unknown.
 
-> **Basic Knowledge: Property 1 of Inequalities**<br>Property 1 of Inequalities.
-> **Basic Knowledge: Property 2 of Inequalities**<br>Property 2 of Inequalities.
-> **Basic Knowledge: Property 3 of Inequalities**<br>Property 3 of Inequalities.
+> **Basic Knowledge: Property 1 of Inequalities**
+>
+> Property 1 of Inequalities.
+> **Basic Knowledge: Property 2 of Inequalities**
+>
+> Property 2 of Inequalities.
+> **Basic Knowledge: Property 3 of Inequalities**
+>
+> Property 3 of Inequalities.
 
 ---
 

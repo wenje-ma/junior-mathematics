@@ -1,7 +1,11 @@
 # week140
 
-> **Basic Knowledge: Inverse Proportional Function**<br>A function of the form $y=\frac kx$ ($k$ is a constant, $k\ne0$) is called an inverse proportional function, with independent variable $x\ne0$.
-> **Basic Knowledge: Graph and Properties of Inverse Proportional Function**<br>The graph of $y=\frac kx$ is a hyperbola consisting of two branches. When $k> 0$, the two branches lie in the first and third quadrants respectively, and within each quadrant $y$ decreases as $x$ increases; when $k< 0$, the two branches lie in the second and fourth quadrants respectively, and within each quadrant $y$ increases as $x$ increases.
+> **Basic Knowledge: Inverse Proportional Function**
+>
+> A function of the form $y=\frac kx$ ($k$ is a constant, $k\ne0$) is called an inverse proportional function, with independent variable $x\ne0$.
+> **Basic Knowledge: Graph and Properties of Inverse Proportional Function**
+>
+> The graph of $y=\frac kx$ is a hyperbola consisting of two branches. When $k> 0$, the two branches lie in the first and third quadrants respectively, and within each quadrant $y$ decreases as $x$ increases; when $k< 0$, the two branches lie in the second and fourth quadrants respectively, and within each quadrant $y$ increases as $x$ increases.
 ---
 
 

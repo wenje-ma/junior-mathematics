@@ -1,25 +1,51 @@
 # week9
 
-> **Basic Knowledge: Rules for Addition of Rational Numbers**<br>When two numbers of the same sign are added, the sum takes the same sign; when two numbers of opposite signs are added, the sum takes the sign of the addend with the larger absolute value; adding two numbers that are opposites of each other gives $0$.
+> **Basic Knowledge: Rules for Addition of Rational Numbers**
+>
+> When two numbers of the same sign are added, the sum takes the same sign; when two numbers of opposite signs are added, the sum takes the sign of the addend with the larger absolute value; adding two numbers that are opposites of each other gives $0$.
 
-> **Basic Knowledge: Rules for Subtraction of Rational Numbers**<br>Subtracting a number is equivalent to adding the opposite number of that number.
+> **Basic Knowledge: Rules for Subtraction of Rational Numbers**
+>
+> Subtracting a number is equivalent to adding the opposite number of that number.
 
-> **Basic Knowledge: Rules for Multiplication of Rational Numbers**<br>When two numbers are multiplied, like signs give positive and opposite signs give negative, and the absolute value of the product equals the product of the absolute values of the factors.
+> **Basic Knowledge: Rules for Multiplication of Rational Numbers**
+>
+> When two numbers are multiplied, like signs give positive and opposite signs give negative, and the absolute value of the product equals the product of the absolute values of the factors.
 
-> **Basic Knowledge: Rules for Division of Rational Numbers**<br>Dividing by a number not equal to $0$ is equivalent to multiplying by the reciprocal of that number.
+> **Basic Knowledge: Rules for Division of Rational Numbers**
+>
+> Dividing by a number not equal to $0$ is equivalent to multiplying by the reciprocal of that number.
 
-> **Basic Knowledge: Powers**<br>The operation of finding the product of $n$ identical factors is called exponentiation, and the result is called a power.
+> **Basic Knowledge: Powers**
+>
+> The operation of finding the product of $n$ identical factors is called exponentiation, and the result is called a power.
 
-> **Basic Knowledge: Order of Mixed Operations**<br>First exponentiation, then multiplication and division, and finally addition and subtraction; operations at the same level from left to right; if there are parentheses, first carry out the operations inside the parentheses.
+> **Basic Knowledge: Order of Mixed Operations**
+>
+> First exponentiation, then multiplication and division, and finally addition and subtraction; operations at the same level from left to right; if there are parentheses, first carry out the operations inside the parentheses.
 
-> **Basic Knowledge: Scientific Notation**<br>Expressing a number greater than $10$ in the form $a\times 10^{n}$ ($1\le a< 10$, where $n$ is a positive integer).
+> **Basic Knowledge: Scientific Notation**
+>
+> Expressing a number greater than $10$ in the form $a\times 10^{n}$ ($1\le a< 10$, where $n$ is a positive integer).
 
-> **Basic Knowledge: Algebraic Meaning of Absolute Value**<br>The absolute value of a positive number is itself, of a negative number is its opposite, and of 0 is 0.
-> **Basic Knowledge: Approximate Numbers**<br>A number close to but not exactly equal to the actual value; its precision is determined by rounding.
-> **Basic Knowledge: Comparing the Magnitude of Rational Numbers**<br>Comparing the Magnitude of Rational Numbers.
-> **Basic Knowledge: Opposite Numbers**<br>Two numbers that differ only in sign are opposites of each other; their sum is 0.
-> **Basic Knowledge: Reciprocal**<br>Two numbers whose product is 1 are reciprocals of each other.
-> **Basic Knowledge: Sign Rules for Powers**<br>Sign Rules for Powers.
+> **Basic Knowledge: Algebraic Meaning of Absolute Value**
+>
+> The absolute value of a positive number is itself, of a negative number is its opposite, and of 0 is 0.
+> **Basic Knowledge: Approximate Numbers**
+>
+> A number close to but not exactly equal to the actual value; its precision is determined by rounding.
+> **Basic Knowledge: Comparing the Magnitude of Rational Numbers**
+>
+> Comparing the Magnitude of Rational Numbers.
+> **Basic Knowledge: Opposite Numbers**
+>
+> Two numbers that differ only in sign are opposites of each other; their sum is 0.
+> **Basic Knowledge: Reciprocal**
+>
+> Two numbers whose product is 1 are reciprocals of each other.
+> **Basic Knowledge: Sign Rules for Powers**
+>
+> Sign Rules for Powers.
 
 ---
 

@@ -1,18 +1,32 @@
 # week56
 
-> **Basic Knowledge: Comprehensive Survey**<br>A survey conducted on the entire population of objects.
+> **Basic Knowledge: Comprehensive Survey**
+>
+> A survey conducted on the entire population of objects.
 
-> **Basic Knowledge: Population and Individual**<br>The entire set of objects to be investigated is called the population; each object under investigation that makes up the population is called an individual.
+> **Basic Knowledge: Population and Individual**
+>
+> The entire set of objects to be investigated is called the population; each object under investigation that makes up the population is called an individual.
 
-> **Basic Knowledge: Sample Survey**<br>Surveying only a part of the objects and then inferring the situation of the entire population from the survey data.
+> **Basic Knowledge: Sample Survey**
+>
+> Surveying only a part of the objects and then inferring the situation of the entire population from the survey data.
 
-> **Basic Knowledge: Sample**<br>A part of the individuals drawn from the population.
+> **Basic Knowledge: Sample**
+>
+> A part of the individuals drawn from the population.
 
-> **Basic Knowledge: Sample Size**<br>The number of individuals in the sample.
+> **Basic Knowledge: Sample Size**
+>
+> The number of individuals in the sample.
 
-> **Basic Knowledge: Simple Random Sampling**<br>In the process of drawing the sample, every individual in the population has an equal chance of being selected.
+> **Basic Knowledge: Simple Random Sampling**
+>
+> In the process of drawing the sample, every individual in the population has an equal chance of being selected.
 
-> **Basic Knowledge: Sample and Sample Size**<br>The individuals selected form a sample; the number of individuals in the sample is the sample size.
+> **Basic Knowledge: Sample and Sample Size**
+>
+> The individuals selected form a sample; the number of individuals in the sample is the sample size.
 
 ---
 

@@ -1,8 +1,14 @@
 # week106
 
-> **Basic Knowledge: Interior Angle Sum of a Polygon**<br>The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
-> **Basic Knowledge: Opposite Sides**<br>Opposite sides of a parallelogram are equal.
-> **Basic Knowledge: Pythagorean Theorem**<br>The sum of the squares of the two legs of a right triangle equals the square of the hypotenuse.
+> **Basic Knowledge: Interior Angle Sum of a Polygon**
+>
+> The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
+> **Basic Knowledge: Opposite Sides**
+>
+> Opposite sides of a parallelogram are equal.
+> **Basic Knowledge: Pythagorean Theorem**
+>
+> The sum of the squares of the two legs of a right triangle equals the square of the hypotenuse.
 ---
 
 

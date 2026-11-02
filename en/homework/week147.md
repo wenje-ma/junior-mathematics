@@ -1,11 +1,23 @@
 # week147
 
-> **Basic Knowledge: Circle**<br>In a plane, the figure formed by the other endpoint $P$ as the segment $OP$ rotates through a full turn about its fixed endpoint $O$ is called a circle. The fixed endpoint $O$ is called the center of the circle, and the segment $OP$ is called the radius. The circle with center $O$ is denoted $\odot O$.
-> **Basic Knowledge: Position of a Point Relative to a Circle**<br>Let the radius of $\odot O$ be $r$, and let the distance from the point $P$ to the center be $OP=d$. Then: the point $P$ is outside the circle $\Leftrightarrow d> r$; the point $P$ is on the circle $\Leftrightarrow d=r$; the point $P$ is inside the circle $\Leftrightarrow d< r$.
-> **Basic Knowledge: Chord, Diameter, Arc**<br>The segment joining any two points on a circle is called a chord; a chord passing through the center is called a diameter; the part between any two points on a circle is called an arc; an arc larger than a semicircle is called a major arc, and an arc smaller than a semicircle is called a minor arc.
-> **Basic Knowledge: Three Points Determine a Circle**<br>Three points not on the same line determine a circle. The circle passing through the three vertices of a triangle is called the circumcircle of the triangle, and the center of the circumcircle is called the circumcenter of the triangle.
-> **Basic Knowledge: Proof by Contradiction**<br>First make an assumption opposite to the conclusion, then derive a result that contradicts a definition, basic fact, theorem, or the hypotheses; from the contradiction it is concluded that the assumption is incorrect, and hence the original proposition holds.
-> **Basic Knowledge: Chord, Diameter**<br>A chord is a segment connecting two points on a circle; a diameter is a chord passing through the center.
+> **Basic Knowledge: Circle**
+>
+> In a plane, the figure formed by the other endpoint $P$ as the segment $OP$ rotates through a full turn about its fixed endpoint $O$ is called a circle. The fixed endpoint $O$ is called the center of the circle, and the segment $OP$ is called the radius. The circle with center $O$ is denoted $\odot O$.
+> **Basic Knowledge: Position of a Point Relative to a Circle**
+>
+> Let the radius of $\odot O$ be $r$, and let the distance from the point $P$ to the center be $OP=d$. Then: the point $P$ is outside the circle $\Leftrightarrow d> r$; the point $P$ is on the circle $\Leftrightarrow d=r$; the point $P$ is inside the circle $\Leftrightarrow d< r$.
+> **Basic Knowledge: Chord, Diameter, Arc**
+>
+> The segment joining any two points on a circle is called a chord; a chord passing through the center is called a diameter; the part between any two points on a circle is called an arc; an arc larger than a semicircle is called a major arc, and an arc smaller than a semicircle is called a minor arc.
+> **Basic Knowledge: Three Points Determine a Circle**
+>
+> Three points not on the same line determine a circle. The circle passing through the three vertices of a triangle is called the circumcircle of the triangle, and the center of the circumcircle is called the circumcenter of the triangle.
+> **Basic Knowledge: Proof by Contradiction**
+>
+> First make an assumption opposite to the conclusion, then derive a result that contradicts a definition, basic fact, theorem, or the hypotheses; from the contradiction it is concluded that the assumption is incorrect, and hence the original proposition holds.
+> **Basic Knowledge: Chord, Diameter**
+>
+> A chord is a segment connecting two points on a circle; a diameter is a chord passing through the center.
 
 ---
 

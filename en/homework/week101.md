@@ -1,6 +1,8 @@
 # week101
 
-> **Basic Knowledge: Pythagorean Theorem**<br>In a right triangle, the sum of the squares of the two legs equals the square of the hypotenuse. If the two legs of a right triangle are \(a,b\) and the hypotenuse is \(c\), then \(a^{2}+b^{2}=c^{2}\).
+> **Basic Knowledge: Pythagorean Theorem**
+>
+> In a right triangle, the sum of the squares of the two legs equals the square of the hypotenuse. If the two legs of a right triangle are \(a,b\) and the hypotenuse is \(c\), then \(a^{2}+b^{2}=c^{2}\).
 ---
 
 

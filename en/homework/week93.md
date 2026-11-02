@@ -1,18 +1,30 @@
 # week93
 
-> **Basic Knowledge: Basic Property of Fractions**<br>$\frac{A}{B}=\frac{A\cdot C}{B\cdot C}=\frac{A\div C}{B\div C}$ ($C\ne0$).
+> **Basic Knowledge: Basic Property of Fractions**
+>
+> $\frac{A}{B}=\frac{A\cdot C}{B\cdot C}=\frac{A\div C}{B\div C}$ ($C\ne0$).
 ---
 
 
-> **Basic Knowledge: Rule for Multiplying Fractions** <br>$\frac{a}{b}\cdot\frac{c}{d}=\frac{ac}{bd}$.
+> **Basic Knowledge: Rule for Multiplying Fractions** 
+>
+> $\frac{a}{b}\cdot\frac{c}{d}=\frac{ac}{bd}$.
 
-> **Basic Knowledge: Rule for Dividing Fractions** <br>$\frac{a}{b}\div\frac{c}{d}=\frac{ad}{bc}$.
+> **Basic Knowledge: Rule for Dividing Fractions** 
+>
+> $\frac{a}{b}\div\frac{c}{d}=\frac{ad}{bc}$.
 
-> **Basic Knowledge: Addition and Subtraction of Fractions with the Same Denominator** <br>$\frac{a}{c}\pm\frac{b}{c}=\frac{a\pm b}{c}$.
+> **Basic Knowledge: Addition and Subtraction of Fractions with the Same Denominator** 
+>
+> $\frac{a}{c}\pm\frac{b}{c}=\frac{a\pm b}{c}$.
 
-> **Basic Knowledge: Addition and Subtraction of Fractions with Different Denominators** <br>$\frac{a}{b}\pm\frac{c}{d}=\frac{ad\pm bc}{bd}$.
+> **Basic Knowledge: Addition and Subtraction of Fractions with Different Denominators** 
+>
+> $\frac{a}{b}\pm\frac{c}{d}=\frac{ad\pm bc}{bd}$.
 
-> **Basic Knowledge: Checking the Solution of a Fractional Equation** <br>Substitute the solution of the integral equation into the least common denominator; if it is not $0$, it is a solution of the original equation, otherwise it is not.
+> **Basic Knowledge: Checking the Solution of a Fractional Equation** 
+>
+> Substitute the solution of the integral equation into the least common denominator; if it is not $0$, it is a solution of the original equation, otherwise it is not.
 
 ## Review Problem 1
 

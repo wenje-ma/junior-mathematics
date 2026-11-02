@@ -1,12 +1,20 @@
 # week16
 
-> **Basic Knowledge: Like Terms**<br>Terms that contain the same letters, with the same exponents on the same letters, are called like terms. Several constant terms are also like terms.
+> **Basic Knowledge: Like Terms**
+>
+> Terms that contain the same letters, with the same exponents on the same letters, are called like terms. Several constant terms are also like terms.
 
-> **Basic Knowledge: Combining Like Terms**<br>Combining like terms in a polynomial into a single term is called combining like terms. After combining like terms, the coefficient of the resulting term is the sum of the coefficients of the like terms before combining, while the letters together with their exponents remain unchanged.
+> **Basic Knowledge: Combining Like Terms**
+>
+> Combining like terms in a polynomial into a single term is called combining like terms. After combining like terms, the coefficient of the resulting term is the sum of the coefficients of the like terms before combining, while the letters together with their exponents remain unchanged.
 
-> **Basic Knowledge: Rule for Removing Parentheses**<br>When a number multiplies a polynomial, multiply the number outside the parentheses by each term inside them, then add the resulting products; in this way the parentheses can be removed. In particular, $+\left(x-3\right)=x-3$, $-\left(x-3\right)=-x+3$.
+> **Basic Knowledge: Rule for Removing Parentheses**
+>
+> When a number multiplies a polynomial, multiply the number outside the parentheses by each term inside them, then add the resulting products; in this way the parentheses can be removed. In particular, $+\left(x-3\right)=x-3$, $-\left(x-3\right)=-x+3$.
 
-> **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**<br>When adding or subtracting several integral expressions, first remove any parentheses, then combine like terms.
+> **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**
+>
+> When adding or subtracting several integral expressions, first remove any parentheses, then combine like terms.
 
 ---
 

@@ -1,6 +1,8 @@
 # week64
 
-> **Basic Knowledge: Triangle Interior Angle Sum Theorem**<br>The sum of the interior angles of a triangle equals $180^\circ$.
+> **Basic Knowledge: Triangle Interior Angle Sum Theorem**
+>
+> The sum of the interior angles of a triangle equals $180^\circ$.
 
 ---
 

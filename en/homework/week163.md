@@ -1,9 +1,17 @@
 # week163
 
-> **Basic Knowledge: Similar Triangles**<br>In $\triangle ABC$ and $\triangle A'B'C'$, if $\angle A=\angle A'$, $\angle B=\angle B'$, $\angle C=\angle C'$, and $\frac{AB}{A'B'}=\frac{BC}{B'C'}=\frac{AC}{A'C'}=k$, then $\triangle ABC\backsim\triangle A'B'C'$.
-> **Basic Knowledge: Area Ratio**<br>Area Ratio.
-> **Basic Knowledge: Corresponding Line Segments**<br>Corresponding Line Segments.
-> **Basic Knowledge: Preliminary Theorem**<br>A line parallel to one side of a triangle cuts the other two sides proportionally, and the cut-off triangle is similar to the original.
+> **Basic Knowledge: Similar Triangles**
+>
+> In $\triangle ABC$ and $\triangle A'B'C'$, if $\angle A=\angle A'$, $\angle B=\angle B'$, $\angle C=\angle C'$, and $\frac{AB}{A'B'}=\frac{BC}{B'C'}=\frac{AC}{A'C'}=k$, then $\triangle ABC\backsim\triangle A'B'C'$.
+> **Basic Knowledge: Area Ratio**
+>
+> Area Ratio.
+> **Basic Knowledge: Corresponding Line Segments**
+>
+> Corresponding Line Segments.
+> **Basic Knowledge: Preliminary Theorem**
+>
+> A line parallel to one side of a triangle cuts the other two sides proportionally, and the cut-off triangle is similar to the original.
 
 ---
 
@@ -12,21 +20,37 @@
 ---
 
 
-> **Basic Fact 27.2.1** (Parallel Lines Dividing Line Segments Proportionally) <br>When two lines are cut by a set of parallel lines, the corresponding line segments obtained are proportional.
+> **Basic Fact 27.2.1** (Parallel Lines Dividing Line Segments Proportionally) 
+>
+> When two lines are cut by a set of parallel lines, the corresponding line segments obtained are proportional.
 
-> **Basic Knowledge: Preliminary Theorem** <br>A line parallel to one side of a triangle and intersecting the other two sides forms a triangle similar to the original triangle.
+> **Basic Knowledge: Preliminary Theorem** 
+>
+> A line parallel to one side of a triangle and intersecting the other two sides forms a triangle similar to the original triangle.
 
-> **Criterion Theorem 27.2.2** (SSS) <br>Two triangles whose three sides are proportional are similar.
+> **Criterion Theorem 27.2.2** (SSS) 
+>
+> Two triangles whose three sides are proportional are similar.
 
-> **Criterion Theorem 27.2.3** (SAS) <br>Two triangles with two sides proportional and the included angle equal are similar.
+> **Criterion Theorem 27.2.3** (SAS) 
+>
+> Two triangles with two sides proportional and the included angle equal are similar.
 
-> **Criterion Theorem 27.2.4** (AA) <br>Two triangles with two pairs of corresponding angles equal are similar.
+> **Criterion Theorem 27.2.4** (AA) 
+>
+> Two triangles with two pairs of corresponding angles equal are similar.
 
-> **Criterion Theorem 27.2.5** (HL) <br>Two right triangles whose hypotenuses and one leg are proportional are similar.
+> **Criterion Theorem 27.2.5** (HL) 
+>
+> Two right triangles whose hypotenuses and one leg are proportional are similar.
 
-> **Basic Knowledge: Corresponding Line Segments** <br>The ratio of corresponding altitudes, the ratio of corresponding medians, and the ratio of corresponding angle bisectors of similar triangles all equal the similarity ratio; the ratio of corresponding line segments of similar triangles equals the similarity ratio.
+> **Basic Knowledge: Corresponding Line Segments** 
+>
+> The ratio of corresponding altitudes, the ratio of corresponding medians, and the ratio of corresponding angle bisectors of similar triangles all equal the similarity ratio; the ratio of corresponding line segments of similar triangles equals the similarity ratio.
 
-> **Basic Knowledge: Area Ratio** <br>The ratio of the areas of similar triangles equals the square of the similarity ratio.
+> **Basic Knowledge: Area Ratio** 
+>
+> The ratio of the areas of similar triangles equals the square of the similarity ratio.
 
 ## Exercise 1
 

@@ -1,10 +1,16 @@
 # week60
 
-> **Basic Knowledge: Line Chart**<br>The rise or fall of a broken line represents the change of data over time.
+> **Basic Knowledge: Line Chart**
+>
+> The rise or fall of a broken line represents the change of data over time.
 
-> **Basic Knowledge: Trend Chart**<br>A statistical chart using a line to describe the relationship between one quantity and another.
+> **Basic Knowledge: Trend Chart**
+>
+> A statistical chart using a line to describe the relationship between one quantity and another.
 
-> **Basic Knowledge: Daylight Duration Formula**<br>Daylight duration = (sunset time - noon time) * 2 = (noon time - sunrise time) * 2.
+> **Basic Knowledge: Daylight Duration Formula**
+>
+> Daylight duration = (sunset time - noon time) * 2 = (noon time - sunrise time) * 2.
 
 ---
 

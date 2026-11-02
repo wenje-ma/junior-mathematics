@@ -1,8 +1,14 @@
 # week120
 
-> **Basic Knowledge: Deviation**<br>For $n$ data $x_1, x_2, \ldots, x_n$, let $\overline{x}$ denote their mean; then $x_i-\overline{x}$ is called the deviation of $x_i$ from the mean $\overline{x}$.
-> **Basic Knowledge: Sum of Squared Deviations**<br>$\left(x_1-\overline{x}\right)^2+\left(x_2-\overline{x}\right)^2+\cdots+\left(x_n-\overline{x}\right)^2$ is called the sum of squared deviations of these $n$ data from the mean, denoted $d^2$.
-> **Basic Knowledge: Variance**<br>The average of the squared deviations, $s^2=\frac{\left(x_1-\overline{x}\right)^2+\left(x_2-\overline{x}\right)^2+\cdots+\left(x_n-\overline{x}\right)^2}{n}$, is called the variance of this set of data. The larger the variance, the greater the dispersion of the data; the smaller the variance, the smaller the dispersion.
+> **Basic Knowledge: Deviation**
+>
+> For $n$ data $x_1, x_2, \ldots, x_n$, let $\overline{x}$ denote their mean; then $x_i-\overline{x}$ is called the deviation of $x_i$ from the mean $\overline{x}$.
+> **Basic Knowledge: Sum of Squared Deviations**
+>
+> $\left(x_1-\overline{x}\right)^2+\left(x_2-\overline{x}\right)^2+\cdots+\left(x_n-\overline{x}\right)^2$ is called the sum of squared deviations of these $n$ data from the mean, denoted $d^2$.
+> **Basic Knowledge: Variance**
+>
+> The average of the squared deviations, $s^2=\frac{\left(x_1-\overline{x}\right)^2+\left(x_2-\overline{x}\right)^2+\cdots+\left(x_n-\overline{x}\right)^2}{n}$, is called the variance of this set of data. The larger the variance, the greater the dispersion of the data; the smaller the variance, the smaller the dispersion.
 ---
 
 

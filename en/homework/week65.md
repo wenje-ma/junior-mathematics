@@ -1,18 +1,32 @@
 # week65
 
-> **Basic Knowledge: Median**<br>The segment joining a vertex to the midpoint of the opposite side is called a median; the three medians meet at the centroid.
+> **Basic Knowledge: Median**
+>
+> The segment joining a vertex to the midpoint of the opposite side is called a median; the three medians meet at the centroid.
 
-> **Basic Knowledge: Angle Bisector**<br>The segment obtained where the bisector of an angle meets the opposite side is called an angle bisector of the triangle.
+> **Basic Knowledge: Angle Bisector**
+>
+> The segment obtained where the bisector of an angle meets the opposite side is called an angle bisector of the triangle.
 
-> **Basic Knowledge: Altitude**<br>Dropping a perpendicular from a vertex to the line of the opposite side, the segment between the vertex and the foot is called an altitude.
+> **Basic Knowledge: Altitude**
+>
+> Dropping a perpendicular from a vertex to the line of the opposite side, the segment between the vertex and the foot is called an altitude.
 
-> **Basic Knowledge: Triangle Interior Angle Sum Theorem**<br>The sum of the interior angles of a triangle equals $180^\circ$.
+> **Basic Knowledge: Triangle Interior Angle Sum Theorem**
+>
+> The sum of the interior angles of a triangle equals $180^\circ$.
 
-> **Basic Knowledge: Relationship Between an Exterior Angle and the Non-adjacent Interior Angles**<br>An exterior angle of a triangle equals the sum of the two interior angles not adjacent to it, and the sum of the three exterior angles is $360^\circ$.
+> **Basic Knowledge: Relationship Between an Exterior Angle and the Non-adjacent Interior Angles**
+>
+> An exterior angle of a triangle equals the sum of the two interior angles not adjacent to it, and the sum of the three exterior angles is $360^\circ$.
 
 
-> **Basic Knowledge: The Acute Angles of a Right Triangle Are Complementary**<br>The two acute angles of a right triangle are complementary.
-> **Basic Knowledge: Relationship Among the Three Sides of a Triangle**<br>The sum of any two sides of a triangle is greater than the third side; the difference of any two sides is less than the third side.
+> **Basic Knowledge: The Acute Angles of a Right Triangle Are Complementary**
+>
+> The two acute angles of a right triangle are complementary.
+> **Basic Knowledge: Relationship Among the Three Sides of a Triangle**
+>
+> The sum of any two sides of a triangle is greater than the third side; the difference of any two sides is less than the third side.
 ---
 
 ## Review Problem 1

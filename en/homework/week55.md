@@ -1,6 +1,8 @@
 # week55
 
-> **Basic Knowledge: Solution Set of a System of Inequalities**<br>The common part of the solution sets of the several inequalities.
+> **Basic Knowledge: Solution Set of a System of Inequalities**
+>
+> The common part of the solution sets of the several inequalities.
 
 ---
 

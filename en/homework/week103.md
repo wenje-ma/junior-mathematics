@@ -1,9 +1,17 @@
 # week103
 
-> **Basic Knowledge: Interior Angle Sum of a Quadrilateral**<br>The interior angle sum of a quadrilateral is \(360^{\circ}\).
-> **Basic Knowledge: Exterior Angle Sum of a Quadrilateral**<br>The exterior angle sum of a quadrilateral is \(360^{\circ}\).
-> **Basic Knowledge: Interior Angle Sum of a Polygon**<br>The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
-> **Basic Knowledge: Exterior Angle Sum of a Polygon**<br>The exterior angle sum of a polygon is \(360^{\circ}\).
+> **Basic Knowledge: Interior Angle Sum of a Quadrilateral**
+>
+> The interior angle sum of a quadrilateral is \(360^{\circ}\).
+> **Basic Knowledge: Exterior Angle Sum of a Quadrilateral**
+>
+> The exterior angle sum of a quadrilateral is \(360^{\circ}\).
+> **Basic Knowledge: Interior Angle Sum of a Polygon**
+>
+> The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
+> **Basic Knowledge: Exterior Angle Sum of a Polygon**
+>
+> The exterior angle sum of a polygon is \(360^{\circ}\).
 ---
 
 

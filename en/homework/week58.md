@@ -1,12 +1,20 @@
 # week58
 
-> **Basic Knowledge: Population and Individual**<br>The entire set of objects to be investigated is called the population; each object under investigation that makes up the population is called an individual.
+> **Basic Knowledge: Population and Individual**
+>
+> The entire set of objects to be investigated is called the population; each object under investigation that makes up the population is called an individual.
 
-> **Basic Knowledge: Sample**<br>A part of the individuals drawn from the population.
+> **Basic Knowledge: Sample**
+>
+> A part of the individuals drawn from the population.
 
-> **Basic Knowledge: Simple Random Sampling**<br>Every individual in the population has an equal chance of being selected.
+> **Basic Knowledge: Simple Random Sampling**
+>
+> Every individual in the population has an equal chance of being selected.
 
-> **Basic Knowledge: Trend Chart**<br>A statistical chart using a line to describe the relationship between one quantity and another.
+> **Basic Knowledge: Trend Chart**
+>
+> A statistical chart using a line to describe the relationship between one quantity and another.
 
 ---
 

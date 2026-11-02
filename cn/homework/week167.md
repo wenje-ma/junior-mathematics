@@ -1,14 +1,24 @@
 # week167
 
-> **基础知识: 正弦**<br>在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, 我们把锐角 $A$ 的对边与斜边的比叫做 $\angle A$ 的正弦 (sine), 记作 $\sin A$, 即
+> **基础知识: 正弦**
+>
+> 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, 我们把锐角 $A$ 的对边与斜边的比叫做 $\angle A$ 的正弦 (sine), 记作 $\sin A$, 即
 > $$\sin A=\frac{\angle A\text{ 的对边}}{\text{斜边}}=\frac{a}{c}.$$
-> **基础知识: 余弦**<br>在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, 我们把锐角 $A$ 的邻边与斜边的比叫做 $\angle A$ 的余弦 (cosine), 记作 $\cos A$, 即
+> **基础知识: 余弦**
+>
+> 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, 我们把锐角 $A$ 的邻边与斜边的比叫做 $\angle A$ 的余弦 (cosine), 记作 $\cos A$, 即
 > $$\cos A=\frac{\angle A\text{ 的邻边}}{\text{斜边}}=\frac{b}{c}.$$
-> **基础知识: 正切**<br>在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, 我们把锐角 $A$ 的对边与邻边的比叫做 $\angle A$ 的正切 (tangent), 记作 $\tan A$, 即
+> **基础知识: 正切**
+>
+> 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, 我们把锐角 $A$ 的对边与邻边的比叫做 $\angle A$ 的正切 (tangent), 记作 $\tan A$, 即
 > $$\tan A=\frac{\angle A\text{ 的对边}}{\angle A\text{ 的邻边}}=\frac{a}{b}.$$
 > $\angle A$ 的正弦, 余弦, 正切都是 $\angle A$ 的锐角三角函数.
-> **基础知识: 锐角三角函数值的确定性**<br>在 $\text{Rt}\triangle ABC$ 中, 当锐角 $A$ 的度数一定时, 无论这个直角三角形大小如何, $\angle A$ 的对边与斜边的比, 邻边与斜边的比, 对边与邻边的比都是固定值.
-> **基础知识: 特殊角的三角函数值**<br>$\sin 30^{\circ}=\frac{1}{2}$, $\cos 30^{\circ}=\frac{\sqrt{3}}{2}$, $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$; $\sin 45^{\circ}=\frac{\sqrt{2}}{2}$, $\cos 45^{\circ}=\frac{\sqrt{2}}{2}$, $\tan 45^{\circ}=1$; $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$, $\cos 60^{\circ}=\frac{1}{2}$, $\tan 60^{\circ}=\sqrt{3}$.
+> **基础知识: 锐角三角函数值的确定性**
+>
+> 在 $\text{Rt}\triangle ABC$ 中, 当锐角 $A$ 的度数一定时, 无论这个直角三角形大小如何, $\angle A$ 的对边与斜边的比, 邻边与斜边的比, 对边与邻边的比都是固定值.
+> **基础知识: 特殊角的三角函数值**
+>
+> $\sin 30^{\circ}=\frac{1}{2}$, $\cos 30^{\circ}=\frac{\sqrt{3}}{2}$, $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$; $\sin 45^{\circ}=\frac{\sqrt{2}}{2}$, $\cos 45^{\circ}=\frac{\sqrt{2}}{2}$, $\tan 45^{\circ}=1$; $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$, $\cos 60^{\circ}=\frac{1}{2}$, $\tan 60^{\circ}=\sqrt{3}$.
 > | 锐角 $A$ | $30^{\circ}$ | $45^{\circ}$ | $60^{\circ}$ |
 > |---|---|---|---|
 > | $\sin A$ | $\frac{1}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ |

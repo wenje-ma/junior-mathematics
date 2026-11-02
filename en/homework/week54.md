@@ -1,6 +1,8 @@
 # week54
 
-> **Basic Knowledge: Linear Inequality in One Variable**<br>An inequality that contains only one unknown, all expressions containing the unknown are integral expressions, and the degree of the unknown is $1$.
+> **Basic Knowledge: Linear Inequality in One Variable**
+>
+> An inequality that contains only one unknown, all expressions containing the unknown are integral expressions, and the degree of the unknown is $1$.
 
 ---
 

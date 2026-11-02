@@ -1,7 +1,11 @@
 # week97
 
-> **Basic Knowledge: Multiplication in Reverse**<br>\(\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}\) (\(a\ge 0,\ b\ge 0\)).
-> **Basic Knowledge: Division in Reverse**<br>\(\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}\) (\(a\ge 0,\ b> 0\)).
+> **Basic Knowledge: Multiplication in Reverse**
+>
+> \(\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}\) (\(a\ge 0,\ b\ge 0\)).
+> **Basic Knowledge: Division in Reverse**
+>
+> \(\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}\) (\(a\ge 0,\ b> 0\)).
 ---
 
 

@@ -1,12 +1,20 @@
 # week46
 
-> **Basic Knowledge: Idea of Elimination**<br>The idea of reducing the number of unknowns in a system of linear equations in two variables from many to few and solving them one by one.
+> **Basic Knowledge: Idea of Elimination**
+>
+> The idea of reducing the number of unknowns in a system of linear equations in two variables from many to few and solving them one by one.
 
-> **Basic Knowledge: Substitution Elimination**<br>Express one unknown of one equation in terms of an expression containing the other unknown, then substitute it into the other equation to eliminate the unknown; abbreviated as substitution method.
+> **Basic Knowledge: Substitution Elimination**
+>
+> Express one unknown of one equation in terms of an expression containing the other unknown, then substitute it into the other equation to eliminate the unknown; abbreviated as substitution method.
 
-> **Basic Knowledge: Addition-Subtraction Elimination**<br>When the coefficients of the same unknown in the two equations are opposite or equal, add or subtract both sides respectively to eliminate this unknown; abbreviated as addition-subtraction method.
+> **Basic Knowledge: Addition-Subtraction Elimination**
+>
+> When the coefficients of the same unknown in the two equations are opposite or equal, add or subtract both sides respectively to eliminate this unknown; abbreviated as addition-subtraction method.
 
-> **Basic Knowledge: Downstream and Upstream Speeds**<br>Downstream speed = speed in still water + current speed; upstream speed = speed in still water - current speed.
+> **Basic Knowledge: Downstream and Upstream Speeds**
+>
+> Downstream speed = speed in still water + current speed; upstream speed = speed in still water - current speed.
 
 ---
 

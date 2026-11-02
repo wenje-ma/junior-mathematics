@@ -1,8 +1,14 @@
 # week138
 
-> **Basic Knowledge: Quadratic Function**<br>A function of the form $y=ax^2+bx+c$ ($a,b,c$ are constants, $a\ne0$) is called a quadratic function.
-> **Basic Knowledge: The Parabola $y=ax^2+bx+c$**<br>Axis of symmetry $x=-\frac b{2a}$, vertex $\left(-\frac b{2a},\frac{4ac-b^2}{4a}\right)$. When $a> 0$, the minimum is taken at the vertex; when $a< 0$, the maximum is taken at the vertex.
-> **Basic Knowledge: Quadratic Function and Quadratic Equation**<br>The horizontal coordinate of a common point between the parabola $y=ax^2+bx+c$ and the $x$-axis is a real root of the equation $ax^2+bx+c=0$.
+> **Basic Knowledge: Quadratic Function**
+>
+> A function of the form $y=ax^2+bx+c$ ($a,b,c$ are constants, $a\ne0$) is called a quadratic function.
+> **Basic Knowledge: The Parabola $y=ax^2+bx+c$**
+>
+> Axis of symmetry $x=-\frac b{2a}$, vertex $\left(-\frac b{2a},\frac{4ac-b^2}{4a}\right)$. When $a> 0$, the minimum is taken at the vertex; when $a< 0$, the maximum is taken at the vertex.
+> **Basic Knowledge: Quadratic Function and Quadratic Equation**
+>
+> The horizontal coordinate of a common point between the parabola $y=ax^2+bx+c$ and the $x$-axis is a real root of the equation $ax^2+bx+c=0$.
 ---
 
 

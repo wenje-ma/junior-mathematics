@@ -1,16 +1,30 @@
 # week72
 
-> **Basic Knowledge: Axisymmetric Figure**<br>If a plane figure can be folded along a line so that the parts on both sides of the line coincide with each other, the figure is called an axisymmetric figure, and the line is called its axis of symmetry; the points that coincide after folding are called symmetric points. If folding one figure along a line makes it coincide with another figure, the two figures are said to be symmetric about that line.
+> **Basic Knowledge: Axisymmetric Figure**
+>
+> If a plane figure can be folded along a line so that the parts on both sides of the line coincide with each other, the figure is called an axisymmetric figure, and the line is called its axis of symmetry; the points that coincide after folding are called symmetric points. If folding one figure along a line makes it coincide with another figure, the two figures are said to be symmetric about that line.
 
-> **Basic Knowledge: Perpendicular Bisector of a Segment**<br>The line passing through the midpoint of a segment and perpendicular to it is called the perpendicular bisector of the segment.
+> **Basic Knowledge: Perpendicular Bisector of a Segment**
+>
+> The line passing through the midpoint of a segment and perpendicular to it is called the perpendicular bisector of the segment.
 
-> **Basic Knowledge: Converse Propositions**<br>Two propositions whose hypothesis and conclusion are exactly reversed are called converse propositions; if the converse proposition of a theorem is proved to be true, then the two are converse theorems of each other.
+> **Basic Knowledge: Converse Propositions**
+>
+> Two propositions whose hypothesis and conclusion are exactly reversed are called converse propositions; if the converse proposition of a theorem is proved to be true, then the two are converse theorems of each other.
 
 
-> **Basic Knowledge: Properties of Axis Symmetry**<br>The axis of symmetry passes through the midpoint of the segment joining a pair of symmetric points and is perpendicular to it.
-> **Basic Knowledge: Properties of the Perpendicular Bisector**<br>Any point on the perpendicular bisector of a segment is equidistant from the two endpoints of the segment.
-> **Basic Knowledge: Determination of the Perpendicular Bisector**<br>A point equidistant from the two endpoints of a segment lies on the perpendicular bisector of the segment.
-> **Basic Knowledge: Symmetric About a Line**<br>Two figures are symmetric about a line if folding one along that line makes it coincide with the other.
+> **Basic Knowledge: Properties of Axis Symmetry**
+>
+> The axis of symmetry passes through the midpoint of the segment joining a pair of symmetric points and is perpendicular to it.
+> **Basic Knowledge: Properties of the Perpendicular Bisector**
+>
+> Any point on the perpendicular bisector of a segment is equidistant from the two endpoints of the segment.
+> **Basic Knowledge: Determination of the Perpendicular Bisector**
+>
+> A point equidistant from the two endpoints of a segment lies on the perpendicular bisector of the segment.
+> **Basic Knowledge: Symmetric About a Line**
+>
+> Two figures are symmetric about a line if folding one along that line makes it coincide with the other.
 
 ---
 

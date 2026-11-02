@@ -1,6 +1,8 @@
 # week135
 
-> **Basic Knowledge: Relation Between a Quadratic Function and a Quadratic Equation**<br>The horizontal coordinate $x_0$ of a common point between the parabola $y=ax^2+bx+c$ and the $x$-axis is precisely a real root of the equation $ax^2+bx+c=0$. The parabola having no common point, one common point, or two common points with the $x$-axis corresponds respectively to the equation having no real root, two equal real roots, or two unequal real roots.
+> **Basic Knowledge: Relation Between a Quadratic Function and a Quadratic Equation**
+>
+> The horizontal coordinate $x_0$ of a common point between the parabola $y=ax^2+bx+c$ and the $x$-axis is precisely a real root of the equation $ax^2+bx+c=0$. The parabola having no common point, one common point, or two common points with the $x$-axis corresponds respectively to the equation having no real root, two equal real roots, or two unequal real roots.
 ---
 
 

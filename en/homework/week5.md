@@ -1,12 +1,20 @@
 # week5
 
-> **Basic Knowledge: Rules for Addition of Rational Numbers**<br>When two numbers of the same sign are added, the sum takes the same sign, and the absolute value of the sum equals the sum of the absolute values of the addends; when two numbers of opposite signs with unequal absolute values are added, the sum takes the sign of the addend with the larger absolute value, and the absolute value of the sum equals the difference between the larger and the smaller of the absolute values of the addends; adding two numbers that are opposites of each other gives $0$; adding $0$ to a number leaves the number unchanged.
+> **Basic Knowledge: Rules for Addition of Rational Numbers**
+>
+> When two numbers of the same sign are added, the sum takes the same sign, and the absolute value of the sum equals the sum of the absolute values of the addends; when two numbers of opposite signs with unequal absolute values are added, the sum takes the sign of the addend with the larger absolute value, and the absolute value of the sum equals the difference between the larger and the smaller of the absolute values of the addends; adding two numbers that are opposites of each other gives $0$; adding $0$ to a number leaves the number unchanged.
 
-> **Basic Knowledge: Commutative Law of Addition**<br>In the addition of rational numbers, when two numbers are added, swapping the positions of the addends does not change the sum, that is, $a+b=b+a$.
+> **Basic Knowledge: Commutative Law of Addition**
+>
+> In the addition of rational numbers, when two numbers are added, swapping the positions of the addends does not change the sum, that is, $a+b=b+a$.
 
-> **Basic Knowledge: Associative Law of Addition**<br>In the addition of rational numbers, when three numbers are added, adding the first two first, or adding the last two first, does not change the sum, that is, $\left(a+b\right)+c=a+\left(b+c\right)$.
+> **Basic Knowledge: Associative Law of Addition**
+>
+> In the addition of rational numbers, when three numbers are added, adding the first two first, or adding the last two first, does not change the sum, that is, $\left(a+b\right)+c=a+\left(b+c\right)$.
 
-> **Basic Knowledge: Rules for Subtraction of Rational Numbers**<br>Subtracting a number is equivalent to adding the opposite number of that number, that is, $a-b=a+\left(-b\right)$.
+> **Basic Knowledge: Rules for Subtraction of Rational Numbers**
+>
+> Subtracting a number is equivalent to adding the opposite number of that number, that is, $a-b=a+\left(-b\right)$.
 
 ---
 

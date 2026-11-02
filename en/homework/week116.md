@@ -1,7 +1,11 @@
 # week116
 
-> **Basic Knowledge: Graph and Properties of the Linear Function**<br>The graph of the linear function $y=kx+b$ ($k \neq 0$) is a straight line. When $k> 0$, $y$ increases as $x$ increases; when $k< 0$, $y$ decreases as $x$ increases.
-> **Basic Knowledge: Building a Linear Function Model**<br>In real-world problems, first determine the function expression from the correspondence between the variables, then use the graph and properties of the linear function to solve the problem.
+> **Basic Knowledge: Graph and Properties of the Linear Function**
+>
+> The graph of the linear function $y=kx+b$ ($k \neq 0$) is a straight line. When $k> 0$, $y$ increases as $x$ increases; when $k< 0$, $y$ decreases as $x$ increases.
+> **Basic Knowledge: Building a Linear Function Model**
+>
+> In real-world problems, first determine the function expression from the correspondence between the variables, then use the graph and properties of the linear function to solve the problem.
 ---
 
 

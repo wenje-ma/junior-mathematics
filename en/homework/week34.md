@@ -1,13 +1,23 @@
 # week34
 
-> **Basic Knowledge: Criterion 2**<br>If two lines are cut by a third line and the alternate interior angles are equal, then the two lines are parallel. In short: equal alternate interior angles imply parallel lines.
+> **Basic Knowledge: Criterion 2**
+>
+> If two lines are cut by a third line and the alternate interior angles are equal, then the two lines are parallel. In short: equal alternate interior angles imply parallel lines.
 
-> **Basic Knowledge: Translation**<br>In a plane, moving a figure by a certain distance in a certain direction is called a translation of the figure.
+> **Basic Knowledge: Translation**
+>
+> In a plane, moving a figure by a certain distance in a certain direction is called a translation of the figure.
 
 
-> **Basic Knowledge: Criterion 1**<br>When two lines are cut by a transversal, if the corresponding angles are equal, then the two lines are parallel. In short: corresponding angles equal, two lines parallel.
-> **Basic Knowledge: Parallel Axiom**<br>Through a point outside a given line, there is exactly one line parallel to the given line.
-> **Basic Knowledge: Properties of Translation**<br>Properties of Translation.
+> **Basic Knowledge: Criterion 1**
+>
+> When two lines are cut by a transversal, if the corresponding angles are equal, then the two lines are parallel. In short: corresponding angles equal, two lines parallel.
+> **Basic Knowledge: Parallel Axiom**
+>
+> Through a point outside a given line, there is exactly one line parallel to the given line.
+> **Basic Knowledge: Properties of Translation**
+>
+> Properties of Translation.
 
 ---
 

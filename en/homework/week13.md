@@ -1,8 +1,12 @@
 # week13
 
-> **Basic Knowledge: Forming Algebraic Expressions**<br>Expressing the quantitative relationships in a problem as expressions containing numbers, letters, and operation symbols.
+> **Basic Knowledge: Forming Algebraic Expressions**
+>
+> Expressing the quantitative relationships in a problem as expressions containing numbers, letters, and operation symbols.
 
-> **Basic Knowledge: Value of an Algebraic Expression**<br>The result obtained by substituting numerical values for the letters in an algebraic expression and computing according to the operations in the expression.
+> **Basic Knowledge: Value of an Algebraic Expression**
+>
+> The result obtained by substituting numerical values for the letters in an algebraic expression and computing according to the operations in the expression.
 
 ---
 

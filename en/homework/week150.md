@@ -1,10 +1,20 @@
 # week150
 
-> **Basic Knowledge: Inscribed Angle**<br>An angle whose vertex lies on a circle and whose both sides intersect the circle is called an inscribed angle.
-> **Basic Knowledge: Inscribed Angle Theorem**<br>The inscribed angle subtended by an arc is half of the central angle subtended by that arc.
-> **Basic Knowledge: Corollary to the Inscribed Angle Theorem**<br>Inscribed angles subtended by the same arc or equal arcs are equal; the inscribed angle subtended by a semicircle (or a diameter) is a right angle; the chord subtended by an inscribed angle of $90^\circ$ is a diameter.
-> **Basic Knowledge: Polygon Inscribed in a Circle**<br>If all vertices of a polygon lie on the same circle, the polygon is called a polygon inscribed in the circle, and the circle is called the circumcircle of the polygon.
-> **Basic Knowledge: Property of a Cyclic Quadrilateral**<br>The opposite angles of a cyclic quadrilateral are supplementary.
+> **Basic Knowledge: Inscribed Angle**
+>
+> An angle whose vertex lies on a circle and whose both sides intersect the circle is called an inscribed angle.
+> **Basic Knowledge: Inscribed Angle Theorem**
+>
+> The inscribed angle subtended by an arc is half of the central angle subtended by that arc.
+> **Basic Knowledge: Corollary to the Inscribed Angle Theorem**
+>
+> Inscribed angles subtended by the same arc or equal arcs are equal; the inscribed angle subtended by a semicircle (or a diameter) is a right angle; the chord subtended by an inscribed angle of $90^\circ$ is a diameter.
+> **Basic Knowledge: Polygon Inscribed in a Circle**
+>
+> If all vertices of a polygon lie on the same circle, the polygon is called a polygon inscribed in the circle, and the circle is called the circumcircle of the polygon.
+> **Basic Knowledge: Property of a Cyclic Quadrilateral**
+>
+> The opposite angles of a cyclic quadrilateral are supplementary.
 ---
 
 

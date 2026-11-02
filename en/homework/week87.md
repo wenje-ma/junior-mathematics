@@ -1,18 +1,32 @@
 # week87
 
-> **Basic Knowledge: Fraction**<br>If $A,B$ denote two integral expressions and $B$ contains a letter, then the expression $\frac{A}{B}$ is called a fraction. A fraction is meaningful only when $B\ne0$.
-> **Basic Knowledge: Basic Property of Fractions**<br>The value of a fraction is unchanged if both numerator and denominator are multiplied (or divided) by the same nonzero expression.
-> **Basic Knowledge: finding a common denominator**<br>Convert fractions with different denominators to equivalent fractions with the same denominator.
-> **Basic Knowledge: reducing a fraction**<br>Cancel the common factors of the numerator and denominator of a fraction.
+> **Basic Knowledge: Fraction**
+>
+> If $A,B$ denote two integral expressions and $B$ contains a letter, then the expression $\frac{A}{B}$ is called a fraction. A fraction is meaningful only when $B\ne0$.
+> **Basic Knowledge: Basic Property of Fractions**
+>
+> The value of a fraction is unchanged if both numerator and denominator are multiplied (or divided) by the same nonzero expression.
+> **Basic Knowledge: finding a common denominator**
+>
+> Convert fractions with different denominators to equivalent fractions with the same denominator.
+> **Basic Knowledge: reducing a fraction**
+>
+> Cancel the common factors of the numerator and denominator of a fraction.
 
 ---
 
 
-> **Basic Knowledge: Basic Property of Fractions** <br>Multiplying (or dividing) both the numerator and denominator of a fraction by the same integral expression not equal to $0$ does not change the value of the fraction, i.e. $\frac{A}{B}=\frac{A\cdot C}{B\cdot C}=\frac{A\div C}{B\div C}$ ($C\ne0$).
+> **Basic Knowledge: Basic Property of Fractions** 
+>
+> Multiplying (or dividing) both the numerator and denominator of a fraction by the same integral expression not equal to $0$ does not change the value of the fraction, i.e. $\frac{A}{B}=\frac{A\cdot C}{B\cdot C}=\frac{A\div C}{B\div C}$ ($C\ne0$).
 
-> **Basic Knowledge: Reducing a Fraction and Simplest Fraction** <br>According to the basic property of fractions, canceling the common factor of the numerator and denominator of a fraction is called reducing the fraction. A fraction whose numerator and denominator have no common factor is called a simplest fraction.
+> **Basic Knowledge: Reducing a Fraction and Simplest Fraction** 
+>
+> According to the basic property of fractions, canceling the common factor of the numerator and denominator of a fraction is called reducing the fraction. A fraction whose numerator and denominator have no common factor is called a simplest fraction.
 
-> **Basic Knowledge: Finding a Common Denominator and Least Common Denominator** <br>According to the basic property of fractions, converting several fractions with different denominators into fractions with the same denominator equal to the original ones is called finding a common denominator. Generally, the least common denominator is taken as the product of the highest powers of all factors of the denominators.
+> **Basic Knowledge: Finding a Common Denominator and Least Common Denominator** 
+>
+> According to the basic property of fractions, converting several fractions with different denominators into fractions with the same denominator equal to the original ones is called finding a common denominator. Generally, the least common denominator is taken as the product of the highest powers of all factors of the denominators.
 
 ## Exercise 1
 

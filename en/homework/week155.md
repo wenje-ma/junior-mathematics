@@ -1,12 +1,26 @@
 # week155
 
-> **Basic Knowledge: Position of a Line Relative to a Circle**<br>A line and a circle with no common point are called disjoint; with exactly one common point they are tangent, the line is called the tangent line to the circle, and the point is called the point of tangency; with two common points they are called intersecting.
-> **Basic Knowledge: Position-Relation Criterion**<br>Let the radius of $\odot O$ be $r$ and the distance from the center to the line be $d$; then $d> r$ means disjoint, $d=r$ means tangent, and $d< r$ means intersecting.
-> **Basic Knowledge: Tangent Property**<br>A tangent line to a circle is perpendicular to the radius through the point of tangency.
-> **Basic Knowledge: Tangent Criterion**<br>A line passing through the outer end of a radius and perpendicular to that radius is a tangent line to the circle.
-> **Basic Knowledge: Tangent-Length Theorem**<br>From a point outside a circle, the two tangent segments to the circle have equal length, and the line joining this point to the center bisects the angle between the two tangent lines.
-> **Basic Knowledge: Inscribed Angle Theorem**<br>An inscribed angle is half the central angle subtending the same arc.
-> **Basic Knowledge: Perpendicular Chord Theorem**<br>The diameter perpendicular to a chord bisects the chord and bisects both arcs subtended by the chord.
+> **Basic Knowledge: Position of a Line Relative to a Circle**
+>
+> A line and a circle with no common point are called disjoint; with exactly one common point they are tangent, the line is called the tangent line to the circle, and the point is called the point of tangency; with two common points they are called intersecting.
+> **Basic Knowledge: Position-Relation Criterion**
+>
+> Let the radius of $\odot O$ be $r$ and the distance from the center to the line be $d$; then $d> r$ means disjoint, $d=r$ means tangent, and $d< r$ means intersecting.
+> **Basic Knowledge: Tangent Property**
+>
+> A tangent line to a circle is perpendicular to the radius through the point of tangency.
+> **Basic Knowledge: Tangent Criterion**
+>
+> A line passing through the outer end of a radius and perpendicular to that radius is a tangent line to the circle.
+> **Basic Knowledge: Tangent-Length Theorem**
+>
+> From a point outside a circle, the two tangent segments to the circle have equal length, and the line joining this point to the center bisects the angle between the two tangent lines.
+> **Basic Knowledge: Inscribed Angle Theorem**
+>
+> An inscribed angle is half the central angle subtending the same arc.
+> **Basic Knowledge: Perpendicular Chord Theorem**
+>
+> The diameter perpendicular to a chord bisects the chord and bisects both arcs subtended by the chord.
 
 ---
 

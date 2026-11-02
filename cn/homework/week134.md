@@ -1,10 +1,20 @@
 # week134
 
-> **基础知识: 抛物线 $y=ax^2$**<br>抛物线 $y=ax^2$ 的对称轴是 $y$ 轴, 顶点是原点. 当 $a> 0$ 时开口向上, 顶点是最低点; 当 $a< 0$ 时开口向下, 顶点是最高点. $\left|a\right|$ 越大, 抛物线的开口越小. $a> 0$ 时 $x< 0$ 时 $y$ 随 $x$ 增大而减小, $x> 0$ 时 $y$ 随 $x$ 增大而增大; $a< 0$ 时相反.
-> **基础知识: 平移**<br>把抛物线 $y=ax^2$ 向上 ($k> 0$) 或向下 ($k< 0$) 平移 $\left|k\right|$ 个单位得到 $y=ax^2+k$; 向左 ($h< 0$) 或向右 ($h> 0$) 平移 $\left|h\right|$ 个单位得到 $y=a\left(x-h\right)^2$; 综合平移得到 $y=a\left(x-h\right)^2+k$.
-> **基础知识: 抛物线 $y=a\left(x-h\right**^2+k$) <br>当 $a> 0$ 时开口向上, 当 $a< 0$ 时开口向下; 对称轴是 $x=h$; 顶点是 $\left(h,k\right)$. $a> 0$ 时 $x=h$ 取最小值 $k$; $a< 0$ 时 $x=h$ 取最大值 $k$.
-> **基础知识: 抛物线 $y=ax^2+bx+c$**<br>配方得 $y=a\left(x+\frac b{2a}\right)^2+\frac{4ac-b^2}{4a}$, 对称轴是 $x=-\frac b{2a}$, 顶点是 $\left(-\frac b{2a},\frac{4ac-b^2}{4a}\right)$. $a> 0$ 时 $x=-\frac b{2a}$ 取最小值 $\frac{4ac-b^2}{4a}$; $a< 0$ 时取最大值.
-> **基础知识: 抛物线 $y=a\left(x-h\right**<br>抛物线 $y=a\left(x-h\right.
+> **基础知识: 抛物线 $y=ax^2$**
+>
+> 抛物线 $y=ax^2$ 的对称轴是 $y$ 轴, 顶点是原点. 当 $a> 0$ 时开口向上, 顶点是最低点; 当 $a< 0$ 时开口向下, 顶点是最高点. $\left|a\right|$ 越大, 抛物线的开口越小. $a> 0$ 时 $x< 0$ 时 $y$ 随 $x$ 增大而减小, $x> 0$ 时 $y$ 随 $x$ 增大而增大; $a< 0$ 时相反.
+> **基础知识: 平移**
+>
+> 把抛物线 $y=ax^2$ 向上 ($k> 0$) 或向下 ($k< 0$) 平移 $\left|k\right|$ 个单位得到 $y=ax^2+k$; 向左 ($h< 0$) 或向右 ($h> 0$) 平移 $\left|h\right|$ 个单位得到 $y=a\left(x-h\right)^2$; 综合平移得到 $y=a\left(x-h\right)^2+k$.
+> **基础知识: 抛物线 $y=a\left(x-h\right**^2+k$) 
+>
+> 当 $a> 0$ 时开口向上, 当 $a< 0$ 时开口向下; 对称轴是 $x=h$; 顶点是 $\left(h,k\right)$. $a> 0$ 时 $x=h$ 取最小值 $k$; $a< 0$ 时 $x=h$ 取最大值 $k$.
+> **基础知识: 抛物线 $y=ax^2+bx+c$**
+>
+> 配方得 $y=a\left(x+\frac b{2a}\right)^2+\frac{4ac-b^2}{4a}$, 对称轴是 $x=-\frac b{2a}$, 顶点是 $\left(-\frac b{2a},\frac{4ac-b^2}{4a}\right)$. $a> 0$ 时 $x=-\frac b{2a}$ 取最小值 $\frac{4ac-b^2}{4a}$; $a< 0$ 时取最大值.
+> **基础知识: 抛物线 $y=a\left(x-h\right**
+>
+> 抛物线 $y=a\left(x-h\right.
 
 ---
 

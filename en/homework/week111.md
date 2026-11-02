@@ -1,9 +1,17 @@
 # week111
 
-> **Basic Knowledge: Constants and Variables**<br>In a process of change, a quantity whose value remains constant is a constant, and a quantity whose value changes is a variable.
-> **Basic Knowledge: Function**<br>Generally, in a process of change, if there are two variables $x$ and $y$, and for each definite value of $x$, $y$ has a unique definite value corresponding to it, then we say $x$ is the independent variable and $y$ is a function of $x$.
-> **Basic Knowledge: Graph of a Function**<br>Generally, for a function, if each pair of corresponding values of the independent variable and the function is taken as the x- and y-coordinates of a point, then the figure formed by these points in the coordinate plane is the graph of the function.
-> **Basic Knowledge: Steps for Plotting a Graph by the Point-Plotting Method**<br>Step 1, make a table; Step 2, plot points; Step 3, join the points.
+> **Basic Knowledge: Constants and Variables**
+>
+> In a process of change, a quantity whose value remains constant is a constant, and a quantity whose value changes is a variable.
+> **Basic Knowledge: Function**
+>
+> Generally, in a process of change, if there are two variables $x$ and $y$, and for each definite value of $x$, $y$ has a unique definite value corresponding to it, then we say $x$ is the independent variable and $y$ is a function of $x$.
+> **Basic Knowledge: Graph of a Function**
+>
+> Generally, for a function, if each pair of corresponding values of the independent variable and the function is taken as the x- and y-coordinates of a point, then the figure formed by these points in the coordinate plane is the graph of the function.
+> **Basic Knowledge: Steps for Plotting a Graph by the Point-Plotting Method**
+>
+> Step 1, make a table; Step 2, plot points; Step 3, join the points.
 ---
 
 

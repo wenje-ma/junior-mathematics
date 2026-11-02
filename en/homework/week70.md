@@ -1,6 +1,8 @@
 # week70
 
-> **Basic Knowledge: Congruent Figures and Congruent Triangles**<br>Two figures that can coincide completely are called congruent figures; two triangles that can coincide completely are called congruent triangles, denoted $\triangle ABC\cong\triangle A'B'C'$.
+> **Basic Knowledge: Congruent Figures and Congruent Triangles**
+>
+> Two figures that can coincide completely are called congruent figures; two triangles that can coincide completely are called congruent triangles, denoted $\triangle ABC\cong\triangle A'B'C'$.
 
 ---
 

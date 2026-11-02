@@ -1,27 +1,53 @@
 # week79
 
-> **Basic Knowledge: Multiplication of a Monomial by a Monomial**<br>Multiply their coefficients and their powers with the same base separately to form factors of the product; for a letter appearing in only one monomial, take it together with its exponent as a factor of the product.
-> **Basic Knowledge: Division of Powers with the Same Base**<br>Divide powers with the same base by keeping the base and subtracting the exponents: a^m / a^n = a^{m-n}.
-> **Basic Knowledge: Division of a Monomial by a Monomial**<br>Divide the coefficients and the same-base powers separately; any letter appearing only in the dividend carries over to the quotient.
-> **Basic Knowledge: Division of a Polynomial by a Monomial**<br>Division of a Polynomial by a Monomial.
-> **Basic Knowledge: Multiplication of a Monomial by a Polynomial**<br>Multiply each term of the polynomial by the monomial and add the products.
-> **Basic Knowledge: Multiplication of a Polynomial by a Polynomial**<br>Multiply each term of one polynomial by each term of the other and add the products.
-> **Basic Knowledge: Zero Exponent Power**<br>Any nonzero number to the power 0 equals 1: a^0 = 1.
+> **Basic Knowledge: Multiplication of a Monomial by a Monomial**
+>
+> Multiply their coefficients and their powers with the same base separately to form factors of the product; for a letter appearing in only one monomial, take it together with its exponent as a factor of the product.
+> **Basic Knowledge: Division of Powers with the Same Base**
+>
+> Divide powers with the same base by keeping the base and subtracting the exponents: a^m / a^n = a^{m-n}.
+> **Basic Knowledge: Division of a Monomial by a Monomial**
+>
+> Divide the coefficients and the same-base powers separately; any letter appearing only in the dividend carries over to the quotient.
+> **Basic Knowledge: Division of a Polynomial by a Monomial**
+>
+> Division of a Polynomial by a Monomial.
+> **Basic Knowledge: Multiplication of a Monomial by a Polynomial**
+>
+> Multiply each term of the polynomial by the monomial and add the products.
+> **Basic Knowledge: Multiplication of a Polynomial by a Polynomial**
+>
+> Multiply each term of one polynomial by each term of the other and add the products.
+> **Basic Knowledge: Zero Exponent Power**
+>
+> Any nonzero number to the power 0 equals 1: a^0 = 1.
 
 ---
 
 
-> **Basic Knowledge: Multiplication of a Monomial by a Polynomial** <br>Multiply each term of the polynomial by the monomial, then add the resulting products, i.e. $p\left(a+b+c\right)=pa+pb+pc$.
+> **Basic Knowledge: Multiplication of a Monomial by a Polynomial** 
+>
+> Multiply each term of the polynomial by the monomial, then add the resulting products, i.e. $p\left(a+b+c\right)=pa+pb+pc$.
 
-> **Basic Knowledge: Multiplication of a Polynomial by a Polynomial** <br>First multiply each term of one polynomial by each term of the other polynomial, then add the resulting products, i.e. $\left(a+b\right)\left(p+q\right)=ap+aq+bp+bq$.
+> **Basic Knowledge: Multiplication of a Polynomial by a Polynomial** 
+>
+> First multiply each term of one polynomial by each term of the other polynomial, then add the resulting products, i.e. $\left(a+b\right)\left(p+q\right)=ap+aq+bp+bq$.
 
-> **Basic Knowledge: Division of Powers with the Same Base** <br>$a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ are both positive integers, $m> n$); that is, when dividing powers with the same base, the base is unchanged and the exponents are subtracted.
+> **Basic Knowledge: Division of Powers with the Same Base** 
+>
+> $a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ are both positive integers, $m> n$); that is, when dividing powers with the same base, the base is unchanged and the exponents are subtracted.
 
-> **Basic Knowledge: Zero Exponent Power** <br>$a^0=1$ ($a\ne0$); that is, the $0$-th power of any number not equal to $0$ equals $1$.
+> **Basic Knowledge: Zero Exponent Power** 
+>
+> $a^0=1$ ($a\ne0$); that is, the $0$-th power of any number not equal to $0$ equals $1$.
 
-> **Basic Knowledge: Division of a Monomial by a Monomial** <br>Divide the coefficients and the powers with the same base separately to form factors of the quotient; for a letter appearing only in the dividend, take it together with its exponent as a factor of the quotient.
+> **Basic Knowledge: Division of a Monomial by a Monomial** 
+>
+> Divide the coefficients and the powers with the same base separately to form factors of the quotient; for a letter appearing only in the dividend, take it together with its exponent as a factor of the quotient.
 
-> **Basic Knowledge: Division of a Polynomial by a Monomial** <br>First divide each term of this polynomial by the monomial, then add the resulting quotients.
+> **Basic Knowledge: Division of a Polynomial by a Monomial** 
+>
+> First divide each term of this polynomial by the monomial, then add the resulting quotients.
 
 ## Exercise 1
 

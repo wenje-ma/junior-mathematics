@@ -1,20 +1,36 @@
 # week23
 
-> **Basic Knowledge: Equation**<br>An equality containing an unknown is called an equation.
+> **Basic Knowledge: Equation**
+>
+> An equality containing an unknown is called an equation.
 
-> **Basic Knowledge: Solution of an Equation**<br>The value of the unknown that makes the values of the left and right sides of the equation equal is called a solution of the equation.
+> **Basic Knowledge: Solution of an Equation**
+>
+> The value of the unknown that makes the values of the left and right sides of the equation equal is called a solution of the equation.
 
-> **Basic Knowledge: Linear Equation in One Variable**<br>An equation that contains only one unknown, and the degree of the unknown is $1$, is called a linear equation in one variable.
+> **Basic Knowledge: Linear Equation in One Variable**
+>
+> An equation that contains only one unknown, and the degree of the unknown is $1$, is called a linear equation in one variable.
 
-> **Basic Knowledge: Properties of Equality 1**<br>Adding (or subtracting) the same number (or expression) to both sides of an equality keeps the result equal.
+> **Basic Knowledge: Properties of Equality 1**
+>
+> Adding (or subtracting) the same number (or expression) to both sides of an equality keeps the result equal.
 
-> **Basic Knowledge: Properties of Equality 2**<br>Multiplying both sides of an equality by the same number, or dividing by the same number not equal to $0$, keeps the result equal.
+> **Basic Knowledge: Properties of Equality 2**
+>
+> Multiplying both sides of an equality by the same number, or dividing by the same number not equal to $0$, keeps the result equal.
 
-> **Basic Knowledge: Transposing Terms**<br>Moving a term from one side of an equality to the other side while changing its sign is called transposing terms.
+> **Basic Knowledge: Transposing Terms**
+>
+> Moving a term from one side of an equality to the other side while changing its sign is called transposing terms.
 
-> **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**<br>Clear the denominators, remove the parentheses, transpose terms, combine like terms, and make the coefficient $1$.
+> **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**
+>
+> Clear the denominators, remove the parentheses, transpose terms, combine like terms, and make the coefficient $1$.
 
-> **Basic Knowledge: Steps for Solving Word Problems by Setting Up Equations**<br>General steps: understand the problem, set up unknowns, write the equation based on the equal relationship, solve, check and answer.
+> **Basic Knowledge: Steps for Solving Word Problems by Setting Up Equations**
+>
+> General steps: understand the problem, set up unknowns, write the equation based on the equal relationship, solve, check and answer.
 
 ---
 

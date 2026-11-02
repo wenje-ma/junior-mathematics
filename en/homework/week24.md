@@ -1,16 +1,28 @@
 # week24
 
-> **Basic Knowledge: Solid Figure**<br>A geometric figure whose parts do not all lie in the same plane is called a solid figure.
+> **Basic Knowledge: Solid Figure**
+>
+> A geometric figure whose parts do not all lie in the same plane is called a solid figure.
 
-> **Basic Knowledge: Plane Figure**<br>A geometric figure whose parts all lie in the same plane is called a plane figure.
+> **Basic Knowledge: Plane Figure**
+>
+> A geometric figure whose parts all lie in the same plane is called a plane figure.
 
-> **Basic Knowledge: Net**<br>Some solid figures are enclosed by several plane figures; if their surfaces are cut open appropriately, they can be unfolded into plane figures. Such a plane figure is called the net of the corresponding solid figure.
+> **Basic Knowledge: Net**
+>
+> Some solid figures are enclosed by several plane figures; if their surfaces are cut open appropriately, they can be unfolded into plane figures. Such a plane figure is called the net of the corresponding solid figure.
 
-> **Basic Knowledge: Points, Lines, Planes, and Solids**<br>A geometric solid is also called a solid for short. What encloses a solid is a surface; where two surfaces intersect forms a line; where two lines intersect is a point.
+> **Basic Knowledge: Points, Lines, Planes, and Solids**
+>
+> A geometric solid is also called a solid for short. What encloses a solid is a surface; where two surfaces intersect forms a line; where two lines intersect is a point.
 
-> **Basic Knowledge: A Moving Point Forms a Line, a Moving Line Forms a Plane, a Moving Plane Forms a Solid**<br>A moving point forms a line, a moving line forms a plane, and a moving plane forms a solid.
+> **Basic Knowledge: A Moving Point Forms a Line, a Moving Line Forms a Plane, a Moving Plane Forms a Solid**
+>
+> A moving point forms a line, a moving line forms a plane, and a moving plane forms a solid.
 
-> **Basic Knowledge: A Moving Plane Forms a Solid**<br>A plane moving through space forms a solid, e.g. a rectangle rotating about one side forms a cylinder.
+> **Basic Knowledge: A Moving Plane Forms a Solid**
+>
+> A plane moving through space forms a solid, e.g. a rectangle rotating about one side forms a cylinder.
 
 ---
 

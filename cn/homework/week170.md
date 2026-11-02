@@ -1,10 +1,20 @@
 # week170
 
-> **基础知识: 正弦**<br>$\sin A=\frac{a}{c}$.
-> **基础知识: 余弦**<br>$\cos A=\frac{b}{c}$.
-> **基础知识: 正切**<br>$\tan A=\frac{a}{b}$.
-> **基础知识: 特殊角的三角函数值**<br>$\sin 30^{\circ}=\frac{1}{2}$, $\cos 30^{\circ}=\frac{\sqrt{3}}{2}$, $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$; $\sin 45^{\circ}=\frac{\sqrt{2}}{2}$, $\cos 45^{\circ}=\frac{\sqrt{2}}{2}$, $\tan 45^{\circ}=1$; $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$, $\cos 60^{\circ}=\frac{1}{2}$, $\tan 60^{\circ}=\sqrt{3}$.
-> **基础知识: 直角三角形元素间的关系**<br>$a^{2}+b^{2}=c^{2}$; $\angle A+\angle B=90^{\circ}$; $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$, $\tan A=\frac{a}{b}$.
+> **基础知识: 正弦**
+>
+> $\sin A=\frac{a}{c}$.
+> **基础知识: 余弦**
+>
+> $\cos A=\frac{b}{c}$.
+> **基础知识: 正切**
+>
+> $\tan A=\frac{a}{b}$.
+> **基础知识: 特殊角的三角函数值**
+>
+> $\sin 30^{\circ}=\frac{1}{2}$, $\cos 30^{\circ}=\frac{\sqrt{3}}{2}$, $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$; $\sin 45^{\circ}=\frac{\sqrt{2}}{2}$, $\cos 45^{\circ}=\frac{\sqrt{2}}{2}$, $\tan 45^{\circ}=1$; $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$, $\cos 60^{\circ}=\frac{1}{2}$, $\tan 60^{\circ}=\sqrt{3}$.
+> **基础知识: 直角三角形元素间的关系**
+>
+> $a^{2}+b^{2}=c^{2}$; $\angle A+\angle B=90^{\circ}$; $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$, $\tan A=\frac{a}{b}$.
 ---
 
 

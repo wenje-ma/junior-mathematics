@@ -1,10 +1,20 @@
 # week124
 
-> **Basic Knowledge: Arithmetic Mean**<br>$\overline{x}=\frac{x_1+x_2+\cdots+x_n}{n}$.
-> **Basic Knowledge: Median**<br>The number in the middle position after the data are arranged in ascending order.
-> **Basic Knowledge: Mode**<br>The data value that appears most frequently.
-> **Basic Knowledge: Variance**<br>$s^2=\frac{\left(x_1-\overline{x}\right)^2+\cdots+\left(x_n-\overline{x}\right)^2}{n}$.
-> **Basic Knowledge: Quartiles**<br>$Q_1$, $Q_2$, $Q_3$ divide the data into four equal parts.
+> **Basic Knowledge: Arithmetic Mean**
+>
+> $\overline{x}=\frac{x_1+x_2+\cdots+x_n}{n}$.
+> **Basic Knowledge: Median**
+>
+> The number in the middle position after the data are arranged in ascending order.
+> **Basic Knowledge: Mode**
+>
+> The data value that appears most frequently.
+> **Basic Knowledge: Variance**
+>
+> $s^2=\frac{\left(x_1-\overline{x}\right)^2+\cdots+\left(x_n-\overline{x}\right)^2}{n}$.
+> **Basic Knowledge: Quartiles**
+>
+> $Q_1$, $Q_2$, $Q_3$ divide the data into four equal parts.
 ---
 
 

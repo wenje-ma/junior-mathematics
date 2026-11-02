@@ -1,8 +1,14 @@
 # week143
 
-> **Basic Knowledge: Rotation of a Figure**<br>Rotating a plane figure about a point $O$ in the plane through an angle is called rotation of the figure; the point $O$ is called the center of rotation, and the angle turned through is called the angle of rotation.
-> **Basic Knowledge: Corresponding Point**<br>If a point $P$ on a figure becomes the point $P'$ after rotation, then these two points are called corresponding points of this rotation.
-> **Basic Knowledge: Properties of Rotation**<br>The figure before and after rotation is congruent; in a figure and the figure obtained by rotating it, the distances from corresponding points to the center of rotation are equal; the angles formed by the segments joining corresponding points to the center of rotation are equal, each equal to the angle of rotation.
+> **Basic Knowledge: Rotation of a Figure**
+>
+> Rotating a plane figure about a point $O$ in the plane through an angle is called rotation of the figure; the point $O$ is called the center of rotation, and the angle turned through is called the angle of rotation.
+> **Basic Knowledge: Corresponding Point**
+>
+> If a point $P$ on a figure becomes the point $P'$ after rotation, then these two points are called corresponding points of this rotation.
+> **Basic Knowledge: Properties of Rotation**
+>
+> The figure before and after rotation is congruent; in a figure and the figure obtained by rotating it, the distances from corresponding points to the center of rotation are equal; the angles formed by the segments joining corresponding points to the center of rotation are equal, each equal to the angle of rotation.
 ---
 
 

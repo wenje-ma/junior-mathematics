@@ -1,20 +1,36 @@
 # week59
 
-> **Basic Knowledge: Comprehensive Survey**<br>A survey conducted on the entire population of objects.
+> **Basic Knowledge: Comprehensive Survey**
+>
+> A survey conducted on the entire population of objects.
 
-> **Basic Knowledge: Sample Survey**<br>Surveying only a part of the objects and inferring the whole from the data.
+> **Basic Knowledge: Sample Survey**
+>
+> Surveying only a part of the objects and inferring the whole from the data.
 
-> **Basic Knowledge: Simple Random Sampling**<br>Every individual in the population has an equal chance of being selected.
+> **Basic Knowledge: Simple Random Sampling**
+>
+> Every individual in the population has an equal chance of being selected.
 
-> **Basic Knowledge: Pie Chart**<br>The size of a sector represents each part's percentage of the population.
+> **Basic Knowledge: Pie Chart**
+>
+> The size of a sector represents each part's percentage of the population.
 
-> **Basic Knowledge: Bar Chart**<br>The height of a small rectangle represents the quantity of each category.
+> **Basic Knowledge: Bar Chart**
+>
+> The height of a small rectangle represents the quantity of each category.
 
-> **Basic Knowledge: Line Chart**<br>The rise or fall of a broken line represents the change of data over time.
+> **Basic Knowledge: Line Chart**
+>
+> The rise or fall of a broken line represents the change of data over time.
 
-> **Basic Knowledge: Frequency Distribution Histogram**<br>The area of a small rectangle represents the frequency of each group.
+> **Basic Knowledge: Frequency Distribution Histogram**
+>
+> The area of a small rectangle represents the frequency of each group.
 
-> **Basic Knowledge: Trend Chart**<br>A line describing the relationship between two quantities.
+> **Basic Knowledge: Trend Chart**
+>
+> A line describing the relationship between two quantities.
 
 ---
 

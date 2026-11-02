@@ -1,13 +1,29 @@
 # week154
 
-> **Basic Knowledge: Position of a Point Relative to a Circle**<br>$d> r$ outside the circle, $d=r$ on the circle, $d< r$ inside the circle.
-> **Basic Knowledge: Perpendicular Chord Theorem**<br>A diameter perpendicular to a chord bisects the chord and bisects the two arcs subtended by the chord.
-> **Basic Knowledge: Inscribed Angle Theorem**<br>The inscribed angle subtended by an arc is half of the central angle subtended by that arc.
-> **Basic Knowledge: Property of a Cyclic Quadrilateral**<br>The opposite angles of a cyclic quadrilateral are supplementary.
-> **Basic Knowledge: Arc Length Formula**<br>$l=\frac{n\pi R}{180}$.
-> **Basic Knowledge: Sector Area**<br>$S=\frac{n\pi R^2}{360}=\frac12 lR$.
-> **Basic Knowledge: Lateral and Total Surface Area of a Cone**<br>Lateral area S = pi r l; total area S = pi r l + pi r^2.
-> **Basic Knowledge: Three Points Determine a Circle**<br>Three non-collinear points determine a unique circle.
+> **Basic Knowledge: Position of a Point Relative to a Circle**
+>
+> $d> r$ outside the circle, $d=r$ on the circle, $d< r$ inside the circle.
+> **Basic Knowledge: Perpendicular Chord Theorem**
+>
+> A diameter perpendicular to a chord bisects the chord and bisects the two arcs subtended by the chord.
+> **Basic Knowledge: Inscribed Angle Theorem**
+>
+> The inscribed angle subtended by an arc is half of the central angle subtended by that arc.
+> **Basic Knowledge: Property of a Cyclic Quadrilateral**
+>
+> The opposite angles of a cyclic quadrilateral are supplementary.
+> **Basic Knowledge: Arc Length Formula**
+>
+> $l=\frac{n\pi R}{180}$.
+> **Basic Knowledge: Sector Area**
+>
+> $S=\frac{n\pi R^2}{360}=\frac12 lR$.
+> **Basic Knowledge: Lateral and Total Surface Area of a Cone**
+>
+> Lateral area S = pi r l; total area S = pi r l + pi r^2.
+> **Basic Knowledge: Three Points Determine a Circle**
+>
+> Three non-collinear points determine a unique circle.
 
 ---
 

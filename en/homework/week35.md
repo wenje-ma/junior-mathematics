@@ -1,24 +1,48 @@
 # week35
 
-> **Basic Knowledge: Vertical Angles Are Equal**<br>Vertical angles are equal.
+> **Basic Knowledge: Vertical Angles Are Equal**
+>
+> Vertical angles are equal.
 
-> **Basic Knowledge: Perpendicular**<br>When one of the four angles formed by two intersecting lines is a right angle, the two lines are said to be perpendicular to each other.
+> **Basic Knowledge: Perpendicular**
+>
+> When one of the four angles formed by two intersecting lines is a right angle, the two lines are said to be perpendicular to each other.
 
-> **Basic Knowledge: The Perpendicular Segment Is the Shortest**<br>Among all segments connecting a point outside a line to points on the line, the perpendicular segment is the shortest.
+> **Basic Knowledge: The Perpendicular Segment Is the Shortest**
+>
+> Among all segments connecting a point outside a line to points on the line, the perpendicular segment is the shortest.
 
-> **Basic Knowledge: Transitivity of Parallelism**<br>If two lines are both parallel to a third line, then these two lines are also parallel to each other.
+> **Basic Knowledge: Transitivity of Parallelism**
+>
+> If two lines are both parallel to a third line, then these two lines are also parallel to each other.
 
-> **Basic Knowledge: Criterion 2**<br>Equal alternate interior angles imply parallel lines.
+> **Basic Knowledge: Criterion 2**
+>
+> Equal alternate interior angles imply parallel lines.
 
-> **Basic Knowledge: Criterion 3**<br>Supplementary consecutive interior angles imply parallel lines.
+> **Basic Knowledge: Criterion 3**
+>
+> Supplementary consecutive interior angles imply parallel lines.
 
 
-> **Basic Knowledge: Criterion 1**<br>When two lines are cut by a transversal, if the corresponding angles are equal, then the two lines are parallel. In short: corresponding angles equal, two lines parallel.
-> **Basic Knowledge: Parallel Axiom**<br>Through a point outside a given line, there is exactly one line parallel to the given line.
-> **Basic Knowledge: Properties of Translation**<br>Properties of Translation.
-> **Basic Knowledge: Property 1**<br>Property 1.
-> **Basic Knowledge: Property 2**<br>Property 2.
-> **Basic Knowledge: Property 3**<br>Property 3.
+> **Basic Knowledge: Criterion 1**
+>
+> When two lines are cut by a transversal, if the corresponding angles are equal, then the two lines are parallel. In short: corresponding angles equal, two lines parallel.
+> **Basic Knowledge: Parallel Axiom**
+>
+> Through a point outside a given line, there is exactly one line parallel to the given line.
+> **Basic Knowledge: Properties of Translation**
+>
+> Properties of Translation.
+> **Basic Knowledge: Property 1**
+>
+> Property 1.
+> **Basic Knowledge: Property 2**
+>
+> Property 2.
+> **Basic Knowledge: Property 3**
+>
+> Property 3.
 
 ---
 

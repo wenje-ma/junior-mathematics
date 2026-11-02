@@ -1,8 +1,14 @@
 # week96
 
-> **Basic Knowledge: Addition and Subtraction**<br>When adding and subtracting quadratic radicals, first reduce the quadratic radicals to simplest form, and then combine the quadratic radicals with the same radicand; the method of combining is similar to combining like terms.
-> **Basic Knowledge: Mixed Operations**<br>In the mixed operations of addition, subtraction, multiplication, division and powers of quadratic radicals, the operation order and operation laws for real numbers as well as the polynomial multiplication formulas still apply.
-> **Basic Knowledge: Heron–Qin Jiushao Formula**<br>If the three side lengths of a triangle are \(a,b,c\), write \(p=\frac{a+b+c}{2}\), then the triangle area is \(S=\sqrt{p(p-a)(p-b)(p-c)}\).
+> **Basic Knowledge: Addition and Subtraction**
+>
+> When adding and subtracting quadratic radicals, first reduce the quadratic radicals to simplest form, and then combine the quadratic radicals with the same radicand; the method of combining is similar to combining like terms.
+> **Basic Knowledge: Mixed Operations**
+>
+> In the mixed operations of addition, subtraction, multiplication, division and powers of quadratic radicals, the operation order and operation laws for real numbers as well as the polynomial multiplication formulas still apply.
+> **Basic Knowledge: Heron–Qin Jiushao Formula**
+>
+> If the three side lengths of a triangle are \(a,b,c\), write \(p=\frac{a+b+c}{2}\), then the triangle area is \(S=\sqrt{p(p-a)(p-b)(p-c)}\).
 ---
 
 

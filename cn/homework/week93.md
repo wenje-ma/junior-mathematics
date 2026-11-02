@@ -1,18 +1,30 @@
 # week93
 
-> **基础知识: 分式的基本性质**<br>$\frac{A}{B}=\frac{A\cdot C}{B\cdot C}=\frac{A\div C}{B\div C}$ ($C\ne0$).
+> **基础知识: 分式的基本性质**
+>
+> $\frac{A}{B}=\frac{A\cdot C}{B\cdot C}=\frac{A\div C}{B\div C}$ ($C\ne0$).
 ---
 
 
-> **基础知识: 分式的乘法法则** <br>$\frac{a}{b}\cdot\frac{c}{d}=\frac{ac}{bd}$.
+> **基础知识: 分式的乘法法则** 
+>
+> $\frac{a}{b}\cdot\frac{c}{d}=\frac{ac}{bd}$.
 
-> **基础知识: 分式的除法法则** <br>$\frac{a}{b}\div\frac{c}{d}=\frac{ad}{bc}$.
+> **基础知识: 分式的除法法则** 
+>
+> $\frac{a}{b}\div\frac{c}{d}=\frac{ad}{bc}$.
 
-> **基础知识: 同分母分式的加减法** <br>$\frac{a}{c}\pm\frac{b}{c}=\frac{a\pm b}{c}$.
+> **基础知识: 同分母分式的加减法** 
+>
+> $\frac{a}{c}\pm\frac{b}{c}=\frac{a\pm b}{c}$.
 
-> **基础知识: 异分母分式的加减法** <br>$\frac{a}{b}\pm\frac{c}{d}=\frac{ad\pm bc}{bd}$.
+> **基础知识: 异分母分式的加减法** 
+>
+> $\frac{a}{b}\pm\frac{c}{d}=\frac{ad\pm bc}{bd}$.
 
-> **基础知识: 解分式方程的检验** <br>将整式方程的解代入最简公分母, 不为 $0$ 则是原方程的解, 否则不是.
+> **基础知识: 解分式方程的检验** 
+>
+> 将整式方程的解代入最简公分母, 不为 $0$ 则是原方程的解, 否则不是.
 
 ### 复习题一
 

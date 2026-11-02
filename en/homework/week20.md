@@ -1,18 +1,34 @@
 # week20
 
-> **Basic Knowledge: Properties of Equality 1**<br>Adding (or subtracting) the same number (or expression) to both sides of an equality keeps the result equal. If $a=b$, then $a\pm c=b\pm c$.
+> **Basic Knowledge: Properties of Equality 1**
+>
+> Adding (or subtracting) the same number (or expression) to both sides of an equality keeps the result equal. If $a=b$, then $a\pm c=b\pm c$.
 
-> **Basic Knowledge: Properties of Equality 2**<br>Multiplying both sides of an equality by the same number, or dividing by the same number not equal to $0$, keeps the result equal.
+> **Basic Knowledge: Properties of Equality 2**
+>
+> Multiplying both sides of an equality by the same number, or dividing by the same number not equal to $0$, keeps the result equal.
 
-> **Basic Knowledge: Solving Equations by Combining Like Terms**<br>Combine the terms containing the unknown and combine the constant terms, reducing the equation to the form $ax=b$ ($a\ne0$).
+> **Basic Knowledge: Solving Equations by Combining Like Terms**
+>
+> Combine the terms containing the unknown and combine the constant terms, reducing the equation to the form $ax=b$ ($a\ne0$).
 
-> **Basic Knowledge: Transposing Terms**<br>Moving a term from one side of an equality to the other side while changing its sign is called transposing terms. The basis for transposing is property 1 of equality.
+> **Basic Knowledge: Transposing Terms**
+>
+> Moving a term from one side of an equality to the other side while changing its sign is called transposing terms. The basis for transposing is property 1 of equality.
 
-> **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**<br>The general steps for solving a linear equation in one variable are: clear the denominators, remove the parentheses, transpose terms, combine like terms, and make the coefficient $1$.
+> **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**
+>
+> The general steps for solving a linear equation in one variable are: clear the denominators, remove the parentheses, transpose terms, combine like terms, and make the coefficient $1$.
 
-> **Basic Knowledge: Combining Like Terms**<br>Combine like terms in a polynomial by adding their coefficients while keeping the letters and exponents unchanged.
-> **Basic Knowledge: General Steps**<br>General steps for solving a linear equation in one variable: clear denominators, remove parentheses, transpose terms, combine like terms, make the coefficient 1.
-> **Basic Knowledge: Solution of an Equation**<br>Solution of an Equation.
+> **Basic Knowledge: Combining Like Terms**
+>
+> Combine like terms in a polynomial by adding their coefficients while keeping the letters and exponents unchanged.
+> **Basic Knowledge: General Steps**
+>
+> General steps for solving a linear equation in one variable: clear denominators, remove parentheses, transpose terms, combine like terms, make the coefficient 1.
+> **Basic Knowledge: Solution of an Equation**
+>
+> Solution of an Equation.
 
 ---
 

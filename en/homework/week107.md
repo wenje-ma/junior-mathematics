@@ -1,12 +1,26 @@
 # week107
 
-> **Basic Knowledge: Interior Angle Sum of a Quadrilateral**<br>The interior angle sum of a quadrilateral is \(360^{\circ}\).
-> **Basic Knowledge: Interior Angle Sum of a Polygon**<br>The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
-> **Basic Knowledge: Opposite Sides**<br>Opposite sides of a parallelogram are equal.
-> **Basic Knowledge: Diagonals**<br>The diagonals of a parallelogram bisect each other.
-> **Basic Knowledge: Diagonals**<br>A quadrilateral whose diagonals bisect each other is a parallelogram.
-> **Basic Knowledge: Diagonals of a Rectangle**<br>The diagonals of a rectangle are equal.
-> **Basic Knowledge: Diagonals of a Rhombus**<br>The two diagonals of a rhombus are perpendicular.
+> **Basic Knowledge: Interior Angle Sum of a Quadrilateral**
+>
+> The interior angle sum of a quadrilateral is \(360^{\circ}\).
+> **Basic Knowledge: Interior Angle Sum of a Polygon**
+>
+> The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
+> **Basic Knowledge: Opposite Sides**
+>
+> Opposite sides of a parallelogram are equal.
+> **Basic Knowledge: Diagonals**
+>
+> The diagonals of a parallelogram bisect each other.
+> **Basic Knowledge: Diagonals**
+>
+> A quadrilateral whose diagonals bisect each other is a parallelogram.
+> **Basic Knowledge: Diagonals of a Rectangle**
+>
+> The diagonals of a rectangle are equal.
+> **Basic Knowledge: Diagonals of a Rhombus**
+>
+> The two diagonals of a rhombus are perpendicular.
 ---
 
 

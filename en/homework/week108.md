@@ -1,8 +1,14 @@
 # week108
 
-> **Basic Knowledge: Constants and Variables**<br>In a process of change, we call a quantity whose value remains constant a constant, and a quantity whose value changes a variable.
-> **Basic Knowledge: Function**<br>Generally, in a process of change, if there are two variables $x$ and $y$, and for each definite value of $x$, $y$ has a unique definite value corresponding to it, then we say $x$ is the independent variable and $y$ is a function of $x$. If when $x=a$ then $y=b$, then $b$ is called the function value when the independent variable equals $a$.
-> **Basic Knowledge: Analytic Expression of a Function**<br>Using a mathematical expression in the independent variable, as in $y=50-0.1x$, to express the relation between the function and the independent variable is a common way of representing a function; such an expression is called the analytic expression of the function.
+> **Basic Knowledge: Constants and Variables**
+>
+> In a process of change, we call a quantity whose value remains constant a constant, and a quantity whose value changes a variable.
+> **Basic Knowledge: Function**
+>
+> Generally, in a process of change, if there are two variables $x$ and $y$, and for each definite value of $x$, $y$ has a unique definite value corresponding to it, then we say $x$ is the independent variable and $y$ is a function of $x$. If when $x=a$ then $y=b$, then $b$ is called the function value when the independent variable equals $a$.
+> **Basic Knowledge: Analytic Expression of a Function**
+>
+> Using a mathematical expression in the independent variable, as in $y=50-0.1x$, to express the relation between the function and the independent variable is a common way of representing a function; such an expression is called the analytic expression of the function.
 ---
 
 

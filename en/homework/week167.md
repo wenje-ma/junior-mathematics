@@ -1,14 +1,24 @@
 # week167
 
-> **Basic Knowledge: Sine**<br>In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the opposite side to the hypotenuse of the acute angle $A$ the sine of $\angle A$, denoted $\sin A$, i.e.
+> **Basic Knowledge: Sine**
+>
+> In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the opposite side to the hypotenuse of the acute angle $A$ the sine of $\angle A$, denoted $\sin A$, i.e.
 > $$\sin A=\frac{\angle A\text{ 的对边}}{\text{斜边}}=\frac{a}{c}.$$
-> **Basic Knowledge: Cosine**<br>In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the adjacent side to the hypotenuse of the acute angle $A$ the cosine of $\angle A$, denoted $\cos A$, i.e.
+> **Basic Knowledge: Cosine**
+>
+> In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the adjacent side to the hypotenuse of the acute angle $A$ the cosine of $\angle A$, denoted $\cos A$, i.e.
 > $$\cos A=\frac{\angle A\text{ 的邻边}}{\text{斜边}}=\frac{b}{c}.$$
-> **Basic Knowledge: Tangent**<br>In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the opposite side to the adjacent side of the acute angle $A$ the tangent of $\angle A$, denoted $\tan A$, i.e.
+> **Basic Knowledge: Tangent**
+>
+> In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the opposite side to the adjacent side of the acute angle $A$ the tangent of $\angle A$, denoted $\tan A$, i.e.
 > $$\tan A=\frac{\angle A\text{ 的对边}}{\angle A\text{ 的邻边}}=\frac{a}{b}.$$
 > The sine, cosine, and tangent of $\angle A$ are all trigonometric functions of the acute angle $\angle A$.
-> **Basic Knowledge: Determinacy of Acute Angle Trigonometric Function Values**<br>In $\text{Rt}\triangle ABC$, when the measure of the acute angle $A$ is fixed, regardless of the size of the right triangle, the ratio of the opposite side to the hypotenuse, the ratio of the adjacent side to the hypotenuse, and the ratio of the opposite side to the adjacent side of $\angle A$ are all fixed values.
-> **Basic Knowledge: Trigonometric Function Values of Special Angles**<br>The values of sine, cosine and tangent for special angles: $\sin 30^{\circ}=\frac{1}{2}$, $\cos 30^{\circ}=\frac{\sqrt{3}}{2}$, $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$; $\sin 45^{\circ}=\frac{\sqrt{2}}{2}$, $\cos 45^{\circ}=\frac{\sqrt{2}}{2}$, $\tan 45^{\circ}=1$; $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$, $\cos 60^{\circ}=\frac{1}{2}$, $\tan 60^{\circ}=\sqrt{3}$.
+> **Basic Knowledge: Determinacy of Acute Angle Trigonometric Function Values**
+>
+> In $\text{Rt}\triangle ABC$, when the measure of the acute angle $A$ is fixed, regardless of the size of the right triangle, the ratio of the opposite side to the hypotenuse, the ratio of the adjacent side to the hypotenuse, and the ratio of the opposite side to the adjacent side of $\angle A$ are all fixed values.
+> **Basic Knowledge: Trigonometric Function Values of Special Angles**
+>
+> The values of sine, cosine and tangent for special angles: $\sin 30^{\circ}=\frac{1}{2}$, $\cos 30^{\circ}=\frac{\sqrt{3}}{2}$, $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$; $\sin 45^{\circ}=\frac{\sqrt{2}}{2}$, $\cos 45^{\circ}=\frac{\sqrt{2}}{2}$, $\tan 45^{\circ}=1$; $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$, $\cos 60^{\circ}=\frac{1}{2}$, $\tan 60^{\circ}=\sqrt{3}$.
 > | Acute angle $A$ | $30^{\circ}$ | $45^{\circ}$ | $60^{\circ}$ |
 > |---|---|---|---|
 > | $\sin A$ | $\frac{1}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ |

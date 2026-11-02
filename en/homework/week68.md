@@ -1,12 +1,24 @@
 # week68
 
 
-> **Basic Knowledge: SAS**<br>Two triangles are congruent if two sides and the included angle of one are equal to the corresponding parts of the other (abbreviated as "SAS").
-> **Basic Knowledge: Properties of Congruent Triangles**<br>Corresponding sides of congruent triangles are equal; corresponding angles of congruent triangles are equal.
-> **Basic Knowledge: AAS**<br>Two triangles are congruent if two angles and a non-included side of one are equal to the corresponding parts of the other (abbreviated as "AAS").
-> **Basic Knowledge: ASA**<br>Two triangles are congruent if two angles and the included side of one are equal to the corresponding parts of the other (abbreviated as "ASA").
-> **Basic Knowledge: SSS**<br>Two triangles are congruent if the three sides of one are equal to the three sides of the other (abbreviated as "SSS").
-> **Basic Knowledge: HL**<br>Two right triangles are congruent if the hypotenuse and one leg of one are equal to the corresponding parts of the other (abbreviated as "HL").
+> **Basic Knowledge: SAS**
+>
+> Two triangles are congruent if two sides and the included angle of one are equal to the corresponding parts of the other (abbreviated as "SAS").
+> **Basic Knowledge: Properties of Congruent Triangles**
+>
+> Corresponding sides of congruent triangles are equal; corresponding angles of congruent triangles are equal.
+> **Basic Knowledge: AAS**
+>
+> Two triangles are congruent if two angles and a non-included side of one are equal to the corresponding parts of the other (abbreviated as "AAS").
+> **Basic Knowledge: ASA**
+>
+> Two triangles are congruent if two angles and the included side of one are equal to the corresponding parts of the other (abbreviated as "ASA").
+> **Basic Knowledge: SSS**
+>
+> Two triangles are congruent if the three sides of one are equal to the three sides of the other (abbreviated as "SSS").
+> **Basic Knowledge: HL**
+>
+> Two right triangles are congruent if the hypotenuse and one leg of one are equal to the corresponding parts of the other (abbreviated as "HL").
 ---
 
 ## Exercise 1

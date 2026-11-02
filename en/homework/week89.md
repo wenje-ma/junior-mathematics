@@ -1,12 +1,18 @@
 # week89
 
-> **Basic Knowledge: Addition and Subtraction of Fractions with the Same Denominator**<br>To add or subtract fractions with the same denominator, keep the denominator unchanged and add or subtract the numerators, i.e. $\frac{a}{c}\pm\frac{b}{c}=\frac{a\pm b}{c}$.
-> **Basic Knowledge: Addition and Subtraction of Fractions with Different Denominators**<br>First find a common denominator, then add or subtract the numerators.
+> **Basic Knowledge: Addition and Subtraction of Fractions with the Same Denominator**
+>
+> To add or subtract fractions with the same denominator, keep the denominator unchanged and add or subtract the numerators, i.e. $\frac{a}{c}\pm\frac{b}{c}=\frac{a\pm b}{c}$.
+> **Basic Knowledge: Addition and Subtraction of Fractions with Different Denominators**
+>
+> First find a common denominator, then add or subtract the numerators.
 
 ---
 
 
-> **Basic Knowledge: Addition and Subtraction of Fractions with Different Denominators** <br>To add or subtract fractions with different denominators, first find a common denominator to convert them into fractions with the same denominator, then add or subtract, i.e. $\frac{a}{b}\pm\frac{c}{d}=\frac{ad\pm bc}{bd}$.
+> **Basic Knowledge: Addition and Subtraction of Fractions with Different Denominators** 
+>
+> To add or subtract fractions with different denominators, first find a common denominator to convert them into fractions with the same denominator, then add or subtract, i.e. $\frac{a}{b}\pm\frac{c}{d}=\frac{ad\pm bc}{bd}$.
 
 ## Exercise 1
 

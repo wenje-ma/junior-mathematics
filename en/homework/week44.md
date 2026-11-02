@@ -1,14 +1,24 @@
 # week44
 
-> **Basic Knowledge: Rectangular Coordinate System**<br>Draw two number lines perpendicular to each other in a plane with the same origin to form a rectangular coordinate system.
+> **Basic Knowledge: Rectangular Coordinate System**
+>
+> Draw two number lines perpendicular to each other in a plane with the same origin to form a rectangular coordinate system.
 
-> **Basic Knowledge: Coordinates of a Point**<br>The ordered pair $\left(x,y\right)$ is called the coordinates of a point in the plane; points in the coordinate plane correspond one-to-one with ordered pairs of real numbers.
+> **Basic Knowledge: Coordinates of a Point**
+>
+> The ordered pair $\left(x,y\right)$ is called the coordinates of a point in the plane; points in the coordinate plane correspond one-to-one with ordered pairs of real numbers.
 
-> **Basic Knowledge: Quadrants**<br>First quadrant $\left(+,+\right)$, second quadrant $\left(-,+\right)$, third quadrant $\left(-,-\right)$, fourth quadrant $\left(+,-\right)$; points on the coordinate axes do not belong to any quadrant.
+> **Basic Knowledge: Quadrants**
+>
+> First quadrant $\left(+,+\right)$, second quadrant $\left(-,+\right)$, third quadrant $\left(-,-\right)$, fourth quadrant $\left(+,-\right)$; points on the coordinate axes do not belong to any quadrant.
 
 
-> **Basic Knowledge: Representing Geographic Locations with Coordinates**<br>By establishing a plane rectangular coordinate system, the positions of points in the plane can be represented by coordinates.
-> **Basic Knowledge: Representing Translation with Coordinates**<br>Representing Translation with Coordinates.
+> **Basic Knowledge: Representing Geographic Locations with Coordinates**
+>
+> By establishing a plane rectangular coordinate system, the positions of points in the plane can be represented by coordinates.
+> **Basic Knowledge: Representing Translation with Coordinates**
+>
+> Representing Translation with Coordinates.
 
 ---
 

@@ -1,38 +1,76 @@
 # week28
 
-> **Basic Knowledge: Solid Figure**<br>A geometric figure whose parts do not all lie in the same plane is called a solid figure.
+> **Basic Knowledge: Solid Figure**
+>
+> A geometric figure whose parts do not all lie in the same plane is called a solid figure.
 
-> **Basic Knowledge: Plane Figure**<br>A geometric figure whose parts all lie in the same plane is called a plane figure.
+> **Basic Knowledge: Plane Figure**
+>
+> A geometric figure whose parts all lie in the same plane is called a plane figure.
 
-> **Basic Knowledge: Net**<br>The plane figure obtained by cutting open the surface of a solid figure is called its net.
+> **Basic Knowledge: Net**
+>
+> The plane figure obtained by cutting open the surface of a solid figure is called its net.
 
-> **Basic Knowledge: Points, Lines, Planes, and Solids**<br>Surfaces enclose a solid; planes intersect to form lines; lines intersect to form points.
+> **Basic Knowledge: Points, Lines, Planes, and Solids**
+>
+> Surfaces enclose a solid; planes intersect to form lines; lines intersect to form points.
 
-> **Basic Knowledge: Line**<br>Two points determine a line.
+> **Basic Knowledge: Line**
+>
+> Two points determine a line.
 
-> **Basic Knowledge: Basic Fact about Segments**<br>Between two points, the segment is the shortest.
+> **Basic Knowledge: Basic Fact about Segments**
+>
+> Between two points, the segment is the shortest.
 
-> **Basic Knowledge: Distance**<br>The length of the segment joining two points is called the distance between them.
+> **Basic Knowledge: Distance**
+>
+> The length of the segment joining two points is called the distance between them.
 
-> **Basic Knowledge: Midpoint of a Segment**<br>If a point $M$ divides segment $AB$ into two equal segments, $M$ is called the midpoint of $AB$.
+> **Basic Knowledge: Midpoint of a Segment**
+>
+> If a point $M$ divides segment $AB$ into two equal segments, $M$ is called the midpoint of $AB$.
 
-> **Basic Knowledge: Angle**<br>The figure formed by two rays with a common endpoint is called an angle.
+> **Basic Knowledge: Angle**
+>
+> The figure formed by two rays with a common endpoint is called an angle.
 
-> **Basic Knowledge: Measuring Angles**<br>$1^{\circ}=60'$, $1'=60''$.
+> **Basic Knowledge: Measuring Angles**
+>
+> $1^{\circ}=60'$, $1'=60''$.
 
-> **Basic Knowledge: Angle Bisector**<br>A ray starting from the vertex of an angle that divides the angle into two equal angles is called the angle bisector.
+> **Basic Knowledge: Angle Bisector**
+>
+> A ray starting from the vertex of an angle that divides the angle into two equal angles is called the angle bisector.
 
-> **Basic Knowledge: Complementary Angle**<br>If the sum of two angles equals $90^{\circ}$, they are complementary to each other.
+> **Basic Knowledge: Complementary Angle**
+>
+> If the sum of two angles equals $90^{\circ}$, they are complementary to each other.
 
-> **Basic Knowledge: Supplementary Angle**<br>If the sum of two angles equals $180^{\circ}$, they are supplementary to each other.
+> **Basic Knowledge: Supplementary Angle**
+>
+> If the sum of two angles equals $180^{\circ}$, they are supplementary to each other.
 
-> **Basic Knowledge: Properties of Complementary and Supplementary Angles**<br>Complements of the same angle (or of equal angles) are equal; supplements of the same angle (or of equal angles) are equal.
+> **Basic Knowledge: Properties of Complementary and Supplementary Angles**
+>
+> Complements of the same angle (or of equal angles) are equal; supplements of the same angle (or of equal angles) are equal.
 
-> **Basic Knowledge: A Moving Plane Forms a Solid**<br>A plane moving through space forms a solid, e.g. a rectangle rotating about one side forms a cylinder.
-> **Basic Knowledge: Properties of Supplementary Angles**<br>Supplements of the same angle or of equal angles are equal.
-> **Basic Knowledge: Ray and Segment**<br>A ray is the part of a line starting from one endpoint; a segment is the part between two endpoints.
-> **Basic Knowledge: between two points the segment is the shortest**<br>Among all paths connecting two points, the line segment is the shortest.
-> **Basic Knowledge: supplements of the same angle are equal**<br>Supplements of the same angle are equal.
+> **Basic Knowledge: A Moving Plane Forms a Solid**
+>
+> A plane moving through space forms a solid, e.g. a rectangle rotating about one side forms a cylinder.
+> **Basic Knowledge: Properties of Supplementary Angles**
+>
+> Supplements of the same angle or of equal angles are equal.
+> **Basic Knowledge: Ray and Segment**
+>
+> A ray is the part of a line starting from one endpoint; a segment is the part between two endpoints.
+> **Basic Knowledge: between two points the segment is the shortest**
+>
+> Among all paths connecting two points, the line segment is the shortest.
+> **Basic Knowledge: supplements of the same angle are equal**
+>
+> Supplements of the same angle are equal.
 
 ---
 

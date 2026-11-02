@@ -1,16 +1,30 @@
 # week62
 
-> **Basic Knowledge: Median of a Triangle**<br>The segment joining a vertex of a triangle to the midpoint of the opposite side is called a median of the triangle. A triangle has three medians, which intersect at one point, called the centroid of the triangle.
+> **Basic Knowledge: Median of a Triangle**
+>
+> The segment joining a vertex of a triangle to the midpoint of the opposite side is called a median of the triangle. A triangle has three medians, which intersect at one point, called the centroid of the triangle.
 
-> **Basic Knowledge: Angle Bisector of a Triangle**<br>The bisector of an angle of a triangle meets the opposite side at a point; the segment between the vertex and this intersection is called an angle bisector of the triangle. The three angle bisectors intersect at one point.
+> **Basic Knowledge: Angle Bisector of a Triangle**
+>
+> The bisector of an angle of a triangle meets the opposite side at a point; the segment between the vertex and this intersection is called an angle bisector of the triangle. The three angle bisectors intersect at one point.
 
-> **Basic Knowledge: Altitude of a Triangle**<br>Dropping a perpendicular from a vertex of a triangle to the line of the opposite side, the segment between the vertex and the foot of the perpendicular is called an altitude of the triangle.
+> **Basic Knowledge: Altitude of a Triangle**
+>
+> Dropping a perpendicular from a vertex of a triangle to the line of the opposite side, the segment between the vertex and the foot of the perpendicular is called an altitude of the triangle.
 
 
-> **Basic Knowledge: Relationship Among the Three Sides of a Triangle**<br>The sum of any two sides of a triangle is greater than the third side; the difference of any two sides is less than the third side.
-> **Basic Knowledge: Altitude**<br>A perpendicular segment from a vertex to the line containing the opposite side.
-> **Basic Knowledge: Angle Bisector**<br>A segment joining a vertex to the point where the angle bisector meets the opposite side.
-> **Basic Knowledge: Median**<br>A segment joining a vertex of a triangle to the midpoint of the opposite side.
+> **Basic Knowledge: Relationship Among the Three Sides of a Triangle**
+>
+> The sum of any two sides of a triangle is greater than the third side; the difference of any two sides is less than the third side.
+> **Basic Knowledge: Altitude**
+>
+> A perpendicular segment from a vertex to the line containing the opposite side.
+> **Basic Knowledge: Angle Bisector**
+>
+> A segment joining a vertex to the point where the angle bisector meets the opposite side.
+> **Basic Knowledge: Median**
+>
+> A segment joining a vertex of a triangle to the midpoint of the opposite side.
 
 ---
 

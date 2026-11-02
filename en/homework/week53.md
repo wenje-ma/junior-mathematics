@@ -1,11 +1,17 @@
 # week53
 
-> **Basic Knowledge: System of Linear Inequalities in One Variable**<br>A system of inequalities formed by combining several linear inequalities in one variable.
+> **Basic Knowledge: System of Linear Inequalities in One Variable**
+>
+> A system of inequalities formed by combining several linear inequalities in one variable.
 
-> **Basic Knowledge: Solution Set of a System of Inequalities**<br>The common part of the solution sets of the several inequalities.
+> **Basic Knowledge: Solution Set of a System of Inequalities**
+>
+> The common part of the solution sets of the several inequalities.
 
 
-> **Basic Knowledge: Solving a System of Inequalities**<br>Find the solution set of each inequality in the group, then use the number line to find their intersection, which is the solution set of the inequality group.
+> **Basic Knowledge: Solving a System of Inequalities**
+>
+> Find the solution set of each inequality in the group, then use the number line to find their intersection, which is the solution set of the inequality group.
 ---
 
 ## Exercise 1

@@ -1,14 +1,24 @@
 # week61
 
-> **Basic Knowledge: Triangle**<br>The figure formed by three segments not on the same line, joined end to end in order, is called a triangle.
+> **Basic Knowledge: Triangle**
+>
+> The figure formed by three segments not on the same line, joined end to end in order, is called a triangle.
 
-> **Basic Knowledge: Sides, Vertices and Interior Angles**<br>The segments making up a triangle are called the sides of the triangle; the common endpoint of two adjacent sides is called a vertex of the triangle; the angle formed by two adjacent sides is called an interior angle of the triangle, briefly an angle of the triangle. A triangle with vertices $A,B,C$ is denoted $\triangle ABC$.
+> **Basic Knowledge: Sides, Vertices and Interior Angles**
+>
+> The segments making up a triangle are called the sides of the triangle; the common endpoint of two adjacent sides is called a vertex of the triangle; the angle formed by two adjacent sides is called an interior angle of the triangle, briefly an angle of the triangle. A triangle with vertices $A,B,C$ is denoted $\triangle ABC$.
 
-> **Basic Knowledge: Isosceles Triangle**<br>A triangle with two equal sides is called an isosceles triangle; the two equal sides are called the legs, the other side is called the base, the angle between the two legs is called the vertex angle, and the angle between a leg and the base is called a base angle.
+> **Basic Knowledge: Isosceles Triangle**
+>
+> A triangle with two equal sides is called an isosceles triangle; the two equal sides are called the legs, the other side is called the base, the angle between the two legs is called the vertex angle, and the angle between a leg and the base is called a base angle.
 
-> **Basic Knowledge: Equilateral Triangle**<br>A triangle with all three sides equal is called an equilateral triangle; an equilateral triangle is a special isosceles triangle.
+> **Basic Knowledge: Equilateral Triangle**
+>
+> A triangle with all three sides equal is called an equilateral triangle; an equilateral triangle is a special isosceles triangle.
 
-> **Basic Knowledge: Classification of Triangles by Sides**<br>By the equality relation of sides, triangles are first divided into scalene triangles and isosceles triangles; isosceles triangles are further divided into isosceles triangles whose base and legs are unequal and equilateral triangles.
+> **Basic Knowledge: Classification of Triangles by Sides**
+>
+> By the equality relation of sides, triangles are first divided into scalene triangles and isosceles triangles; isosceles triangles are further divided into isosceles triangles whose base and legs are unequal and equilateral triangles.
 
 ---
 

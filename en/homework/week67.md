@@ -1,11 +1,17 @@
 # week67
 
-> **Basic Knowledge: Congruent Figures and Congruent Triangles**<br>Two figures that can coincide completely are called congruent figures; two triangles that can coincide completely are called congruent triangles, denoted $\triangle ABC\cong\triangle A'B'C'$.
+> **Basic Knowledge: Congruent Figures and Congruent Triangles**
+>
+> Two figures that can coincide completely are called congruent figures; two triangles that can coincide completely are called congruent triangles, denoted $\triangle ABC\cong\triangle A'B'C'$.
 
-> **Basic Knowledge: Corresponding Elements**<br>Putting two congruent triangles together to coincide, the coinciding vertices are called corresponding vertices, the coinciding sides are called corresponding sides, and the coinciding angles are called corresponding angles.
+> **Basic Knowledge: Corresponding Elements**
+>
+> Putting two congruent triangles together to coincide, the coinciding vertices are called corresponding vertices, the coinciding sides are called corresponding sides, and the coinciding angles are called corresponding angles.
 
 
-> **Basic Knowledge: Properties of Congruent Triangles**<br>Corresponding sides of congruent triangles are equal; corresponding angles of congruent triangles are equal.
+> **Basic Knowledge: Properties of Congruent Triangles**
+>
+> Corresponding sides of congruent triangles are equal; corresponding angles of congruent triangles are equal.
 ---
 
 ## Example
