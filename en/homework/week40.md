@@ -1,20 +1,20 @@
 # week40
 
 > **Basic Knowledge: Square Root**
->
+> 
 > If $x^2=a$, then $x$ is called a square root of $a$.
 
 > **Basic Knowledge: Arithmetic Square Root**
->
+> 
 > The positive square root $\sqrt a$ of a positive number $a$ is called the arithmetic square root of $a$, and the arithmetic square root of $0$ is $0$.
 
 > **Basic Knowledge: Cube Root**
->
+> 
 > If $x^3=a$, then $x$ is called a cube root of $a$, denoted $\sqrt\left[3\right]{a}$.
 
 > **Basic Knowledge: Properties of Arithmetic Square Roots**
->
-> sqrt(a^2) = |a|: it equals a when a >= 0, and -a when a < 0.
+> 
+> sqrt(a^2) = |a|: it equals a when a > = 0, and -a when a < 0.
 
 ---
 

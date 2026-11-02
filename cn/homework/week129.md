@@ -1,7 +1,7 @@
 # week129
 
 > **基础知识: 根与系数的关系**
->
+> 
 > 如果一元二次方程 $ax^2+bx+c=0\ \left(a\ne0\right)$ 的两个根为 $x_1,x_2$, 那么 $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$. 这一关系也可由因式分解 $ax^2+bx+c=a\left(x-x_1\right)\left(x-x_2\right)$ 比较系数得到.
 ---
 

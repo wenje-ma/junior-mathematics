@@ -1,13 +1,13 @@
 # week120
 
 > **基础知识: 离差**
->
+> 
 > 有 $n$ 个数据 $x_1, x_2, \ldots, x_n$, 用 $\overline{x}$ 表示它们的平均数, 把 $x_i-\overline{x}$ 叫作 $x_i$ 关于平均数 $\overline{x}$ 的离差.
 > **基础知识: 离差平方和**
->
+> 
 > 把 $\left(x_1-\overline{x}\right)^2+\left(x_2-\overline{x}\right)^2+\cdots+\left(x_n-\overline{x}\right)^2$ 叫作这 $n$ 个数据关于平均数的离差平方和, 记作 $d^2$.
 > **基础知识: 方差**
->
+> 
 > 把离差的平方的平均数 $s^2=\frac{\left(x_1-\overline{x}\right)^2+\left(x_2-\overline{x}\right)^2+\cdots+\left(x_n-\overline{x}\right)^2}{n}$ 叫作这组数据的方差. 方差越大, 数据的离散程度越大; 方差越小, 数据的离散程度越小.
 ---
 

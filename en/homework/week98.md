@@ -1,16 +1,16 @@
 # week98
 
 > **Basic Knowledge: Nonnegativity of Quadratic Radicals**
->
+> 
 > When \(a\ge 0\), \(\sqrt{a}\ge 0\).
 > **Basic Knowledge: Multiplication**
->
+> 
 > \(\sqrt{a}\cdot\sqrt{b}=\sqrt{ab}\) (\(a\ge 0,\ b\ge 0\)).
 > **Basic Knowledge: Division**
->
+> 
 > \(\frac{\sqrt{a}}{\sqrt{b}}=\sqrt{\frac{a}{b}}\) (\(a\ge 0,\ b> 0\)).
 > **Basic Knowledge: Addition and Subtraction**
->
+> 
 > When adding and subtracting quadratic radicals, first reduce the quadratic radicals to simplest form, and then combine the quadratic radicals with the same radicand.
 ---
 

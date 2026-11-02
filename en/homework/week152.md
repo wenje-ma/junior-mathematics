@@ -1,16 +1,16 @@
 # week152
 
 > **Basic Knowledge: Arc Length Formula**
->
+> 
 > In a circle of radius $R$, the arc length subtended by a central angle of $n^\circ$ is $l=\frac{n\pi R}{180}$.
 > **Basic Knowledge: Sector Area Formula**
->
+> 
 > In a circle of radius $R$, the area of a sector with central angle $n^\circ$ is $S=\frac{n\pi R^2}{360}=\frac12 lR$, where $l$ is the arc length of the sector.
 > **Basic Knowledge: Generatrix of a Cone**
->
+> 
 > The segment joining the vertex of a cone to any point on the circumference of its base is called the generatrix of the cone.
 > **Basic Knowledge: Lateral and Total Surface Area of a Cone**
->
+> 
 > If the generatrix length of a cone is $l$ and the base radius is $r$, then the lateral area is $\pi rl$ and the total surface area is $\pi r\left(r+l\right)$.
 ---
 

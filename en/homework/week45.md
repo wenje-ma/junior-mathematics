@@ -1,19 +1,19 @@
 # week45
 
 > **Basic Knowledge: Linear Equation in Two Variables**
->
+> 
 > An equation that contains two unknowns, the expressions containing the unknowns are all integral expressions, and the degree of each term containing an unknown is $1$.
 
 > **Basic Knowledge: System of Linear Equations in Two Variables**
->
+> 
 > A system that contains two unknowns, the expressions containing the unknowns are all integral expressions, the degree of each term containing an unknown is $1$, and there are two equations in total.
 
 > **Basic Knowledge: Solution of a Linear Equation in Two Variables**
->
+> 
 > The values of the two unknowns that make the two sides of the linear equation in two variables equal.
 
 > **Basic Knowledge: Solution of a System of Linear Equations in Two Variables**
->
+> 
 > The common solution of the two equations in the system of linear equations in two variables.
 
 ---

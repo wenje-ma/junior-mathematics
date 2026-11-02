@@ -1,21 +1,21 @@
 # week84
 
 > **Basic Knowledge: Method Using the Difference of Squares Formula**
->
+> 
 > $a^2-b^2=\left(a+b\right)\left(a-b\right)$, i.e. the difference of the squares of two numbers equals the product of the sum of the two numbers and the difference of the two numbers.
 ---
 
 
 > **Basic Knowledge: Perfect Square Trinomial** 
->
+> 
 > Expressions such as $a^2+2ab+b^2$ and $a^2-2ab+b^2$ are called perfect square trinomials.
 
 > **Basic Knowledge: Method Using the Perfect Square Formula** 
->
+> 
 > $a^2+2ab+b^2=\left(a+b\right)^2$, $a^2-2ab+b^2=\left(a-b\right)^2$.
 
 > **Basic Knowledge: Method of Using Formulas** 
->
+> 
 > Swap the two sides of a multiplication formula, and use the formula to factor a polynomial. Factoring should be carried on until each polynomial factor can no longer be factored.
 
 ## Exercise 1

@@ -1,10 +1,10 @@
 # week115
 
 > **Basic Knowledge: Building a Linear Function Model**
->
+> 
 > In real-world problems, first determine the function expression from the correspondence between the variables, then use the graph and properties of the linear function to solve the problem. When the function relationship is piecewise, discuss it interval by interval.
 > **Basic Knowledge: Choosing a Plan**
->
+> 
 > Optimization problems involving variables are commonly solved using functions; the best plan is chosen by comparing the function values corresponding to the different plans.
 ---
 

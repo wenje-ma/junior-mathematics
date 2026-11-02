@@ -1,10 +1,10 @@
 # week142
 
 > **Basic Knowledge: Inverse Proportional Function**
->
+> 
 > A function of the form $y=\frac kx$ ($k$ is a constant, $k\ne0$) is called an inverse proportional function, with independent variable $x\ne0$.
 > **Basic Knowledge: Properties of the Inverse Proportional Function**
->
+> 
 > When $k> 0$, the graph lies in the first and third quadrants, and within each quadrant $y$ decreases as $x$ increases; when $k< 0$, it lies in the second and fourth quadrants, and within each quadrant $y$ increases as $x$ increases.
 ---
 

@@ -1,10 +1,10 @@
 # week102
 
 > **Basic Knowledge: Pythagorean Theorem**
->
+> 
 > In a right triangle, the sum of the squares of the two legs equals the square of the hypotenuse. If the two legs of a right triangle are \(a,b\) and the hypotenuse is \(c\), then \(a^{2}+b^{2}=c^{2}\).
 > **Basic Knowledge: Converse of the Pythagorean Theorem**
->
+> 
 > If the three side lengths \(a,b,c\) of a triangle satisfy \(a^{2}+b^{2}=c^{2}\), then this triangle is a right triangle.
 ---
 

@@ -1,13 +1,13 @@
 # week166
 
 > **Basic Knowledge: Similar Polygons**
->
+> 
 > Two polygons with the same number of sides, whose corresponding angles are equal and whose corresponding sides are proportional, are similar; the ratio of corresponding sides is called the similarity ratio.
 > **Basic Knowledge: Area Ratio**
->
+> 
 > Area Ratio.
 > **Basic Knowledge: Homothetic Figures**
->
+> 
 > Similar figures whose corresponding vertices lie on lines through a common point and whose corresponding sides are parallel.
 
 ---
@@ -18,19 +18,19 @@
 
 
 > **Criterion Theorem 27.2.2** (SSS) 
->
+> 
 > Two triangles whose three sides are proportional are similar.
 
 > **Criterion Theorem 27.2.4** (AA) 
->
+> 
 > Two triangles with two pairs of corresponding angles equal are similar.
 
 > **Basic Knowledge: Area Ratio** 
->
+> 
 > The ratio of the areas of similar triangles equals the square of the similarity ratio.
 
 > **Basic Knowledge: Homothetic Figures** 
->
+> 
 > Two figures whose corresponding vertices' connecting lines meet at the same point $O$ and whose corresponding sides are proportional, have their corresponding sides parallel to each other.
 
 ## Review Problem 1

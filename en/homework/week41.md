@@ -1,19 +1,19 @@
 # week41
 
 > **Basic Knowledge: Rectangular Coordinate System**
->
+> 
 > Draw two number lines perpendicular to each other in a plane with the same origin; together they form a rectangular coordinate system. The horizontal number line is called the $x$-axis, with right taken as the positive direction; the vertical number line is called the $y$-axis, with up taken as the positive direction; the intersection of the two axes is called the origin.
 
 > **Basic Knowledge: Coordinates of a Point**
->
+> 
 > Through a point in the plane draw perpendiculars to the $x$-axis and $y$-axis respectively; the coordinate of the foot on the $x$-axis is the x-coordinate of the point, and the coordinate of the foot on the $y$-axis is the y-coordinate of the point. The ordered pair $\left(x,y\right)$ is called the coordinates of this point.
 
 > **Basic Knowledge: Quadrants**
->
+> 
 > The coordinate plane is divided by the two coordinate axes into four parts, called in order starting from the upper right the first, second, third, and fourth quadrants. The first quadrant $\left(+,+\right)$, the second quadrant $\left(-,+\right)$, the third quadrant $\left(-,-\right)$, the fourth quadrant $\left(+,-\right)$. Points on the coordinate axes do not belong to any quadrant.
 
 > **Basic Knowledge: One-to-One Correspondence Between Points and Coordinates**
->
+> 
 > One-to-One Correspondence Between Points and Coordinates.
 
 ---

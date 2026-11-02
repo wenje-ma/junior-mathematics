@@ -1,25 +1,25 @@
 # week105
 
 > **Basic Knowledge: Rectangle**
->
+> 
 > A parallelogram with one right angle is called a rectangle.
 > **Basic Knowledge: Diagonals of a Rectangle**
->
+> 
 > The diagonals of a rectangle are equal.
 > **Basic Knowledge: Median to the Hypotenuse of a Right Triangle**
->
+> 
 > The median to the hypotenuse of a right triangle equals half the hypotenuse.
 > **Basic Knowledge: Diagonals**
->
+> 
 > A parallelogram with equal diagonals is a rectangle.
 > **Basic Knowledge: Rhombus**
->
+> 
 > A parallelogram with one pair of adjacent sides equal is called a rhombus.
 > **Basic Knowledge: Diagonals of a Rhombus**
->
+> 
 > The two diagonals of a rhombus are perpendicular, and each diagonal bisects a pair of opposite angles.
 > **Basic Knowledge: Square**
->
+> 
 > A parallelogram with one pair of adjacent sides equal and one right angle is called a square.
 ---
 

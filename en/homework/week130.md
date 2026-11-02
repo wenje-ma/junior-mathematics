@@ -1,22 +1,22 @@
 # week130
 
 > **Basic Knowledge: Setting Up Equations for Word Problems**
->
+> 
 > The general steps for solving a practical problem by setting up a quadratic equation: analyze the problem, set up the unknown, write the equation according to the equal relation, solve the equation, check whether the roots make practical sense, and give the answer.
 > **Basic Knowledge: Growth-Rate and Decline-Rate Model**
->
+> 
 > Let the original quantity be $a$ and the average growth rate be $x$; after two changes it is $a\left(1+x\right)^2$. If the average decline rate is $x$, then after two changes it is $a\left(1-x\right)^2$.
 > **Basic Knowledge: Propagation Model**
->
+> 
 > If there is initially $1$ person, and in each round each $1$ person infects $x$ others on average, then after two rounds a total of $\left(1+x\right)^2$ people are infected.
 > **Basic Knowledge: Match-Schedule Model**
->
+> 
 > $n$ teams in a single round-robin play $\frac{n\left(n-1\right)}2$ matches in total; in a home-and-away double round-robin they play $n\left(n-1\right)$ matches.
 > **Basic Knowledge: Diagonals of a Convex Polygon**
->
+> 
 > A convex $n$-gon has $\frac{n\left(n-3\right)}2$ diagonals in total.
 > **Basic Knowledge: Growth-Rate Model**
->
+> 
 > If the original quantity is a and the average growth rate is x, then after two periods it is a(1+x)^2.
 
 ---

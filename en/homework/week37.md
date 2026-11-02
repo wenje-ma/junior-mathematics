@@ -1,21 +1,21 @@
 # week37
 
 > **Basic Knowledge: Cube Root**
->
+> 
 > If a number $x$ has cube equal to $a$, i.e. $x^3=a$, then this number $x$ is called a cube root (or third root) of $a$, denoted $\sqrt\left[3\right]{a}$, where $3$ is the index of the root. The operation of finding the cube root of a number is called extracting the cube root, and extracting the cube root and cubing are inverse operations of each other.
 
 > **Basic Knowledge: Cube Root of a Negative Number**
->
+> 
 > Cube Root of a Negative Number.
 > **Basic Knowledge: Properties of Cube Roots**
->
+> 
 > Properties of Cube Roots.
 > **Basic Knowledge: Relationship Between Cubing and Extracting Cube Roots**
->
+> 
 > Relationship Between Cubing and Extracting Cube Roots.
 
 > **Basic Knowledge: Relationship Between Cubing and Cube Root**
->
+> 
 > cube_root(a^3) = a, and (cube_root(a))^3 = a.
 
 ---

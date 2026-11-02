@@ -1,22 +1,22 @@
 # week146
 
 > **Basic Knowledge: Rotation of a Figure**
->
+> 
 > Rotating a plane figure about a point $O$ in the plane through an angle is called rotation of the figure.
 > **Basic Knowledge: Properties of Rotation**
->
+> 
 > The figures before and after rotation are congruent; corresponding points are equidistant from the center of rotation; the angle formed by the segments joining corresponding points to the center of rotation equals the angle of rotation.
 > **Basic Knowledge: Central Symmetry**
->
+> 
 > If a figure is rotated about a point through $180^\circ$ and the rotated figure can coincide with another figure, then the two figures are centrally symmetric about this point.
 > **Basic Knowledge: Properties of Central Symmetry**
->
+> 
 > For two figures that are centrally symmetric, the segments joining symmetric points pass through the center of symmetry and are bisected by it.
 > **Basic Knowledge: Centrally Symmetric Figure**
->
+> 
 > A figure that coincides with itself after being rotated about a point through $180^\circ$ is called a centrally symmetric figure.
 > **Basic Knowledge: Coordinates of Points Symmetric about the Origin**
->
+> 
 > The point symmetric to $P\left(x,y\right)$ about the origin is $P'\left(-x,-y\right)$.
 ---
 

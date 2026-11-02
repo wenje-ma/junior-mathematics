@@ -1,7 +1,7 @@
 # week139
 
 > **Basic Knowledge: Inverse Proportional Function**
->
+> 
 > In general, a function of the form $y=\frac kx$ ($k$ is a constant, $k\ne0$) is called an inverse proportional function. Here $x$ is the independent variable, $y$ is a function of $x$, and the domain of the independent variable $x$ is all real numbers not equal to $0$.
 ---
 

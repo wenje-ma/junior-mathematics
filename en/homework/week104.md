@@ -1,28 +1,28 @@
 # week104
 
 > **Basic Knowledge: Parallelogram**
->
+> 
 > A quadrilateral with both pairs of opposite sides parallel is called a parallelogram, denoted \(\square ABCD\).
 > **Basic Knowledge: Opposite Sides**
->
+> 
 > Opposite sides of a parallelogram are equal.
 > **Basic Knowledge: Opposite Angles**
->
+> 
 > Opposite angles of a parallelogram are equal.
 > **Basic Knowledge: Diagonals**
->
+> 
 > The diagonals of a parallelogram bisect each other.
 > **Basic Knowledge: Opposite Sides**
->
+> 
 > A quadrilateral with both pairs of opposite sides equal is a parallelogram.
 > **Basic Knowledge: Diagonals**
->
+> 
 > A quadrilateral whose diagonals bisect each other is a parallelogram.
 > **Basic Knowledge: One Pair of Opposite Sides**
->
+> 
 > A quadrilateral with one pair of opposite sides parallel and equal is a parallelogram.
 > **Basic Knowledge: Triangle Midline Theorem**
->
+> 
 > The midline of a triangle is parallel to the third side and equal to half of it.
 ---
 

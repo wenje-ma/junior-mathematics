@@ -1,12 +1,12 @@
 # week48
 
 > **Basic Knowledge: System of Linear Equations in Three Variables**
->
+> 
 > A system that contains three unknowns, the expressions containing the unknowns are all integral expressions, the degree of each term containing an unknown is $1$, and there are three equations in total.
 
 
 > **Basic Knowledge: Solving a System of Linear Equations in Three Variables**
->
+> 
 > Use substitution or elimination to reduce a system of three equations with three unknowns step by step to one equation in one unknown.
 ---
 

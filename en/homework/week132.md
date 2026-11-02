@@ -1,19 +1,19 @@
 # week132
 
 > **Basic Knowledge: Direct Square Root Extraction**
->
+> 
 > An equation of the form $\left(x+n\right)^2=p$: when $p> 0$, $x=-n\pm\sqrt p$; when $p=0$, $x_1=x_2=-n$; when $p< 0$, no real root.
 > **Basic Knowledge: Quadratic Formula**
->
+> 
 > When $\Delta=b^2-4ac\ge0$, the roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$.
 > **Basic Knowledge: Nature of the Roots**
->
+> 
 > When $\Delta> 0$, the equation has two unequal real roots; when $\Delta=0$, two equal real roots; when $\Delta< 0$, no real root.
 > **Basic Knowledge: Relation Between Roots and Coefficients**
->
+> 
 > The two roots $x_1,x_2$ of $ax^2+bx+c=0\ \left(a\ne0\right)$ satisfy $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$.
 > **Basic Knowledge: Match-Schedule Model**
->
+> 
 > $n$ teams in a single round-robin play $\frac{n\left(n-1\right)}2$ matches in total.
 ---
 

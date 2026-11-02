@@ -1,10 +1,10 @@
 # week162
 
 > **Basic Knowledge: Similar Figures**
->
+> 
 > Figures with the same shape are called similar figures; two figures are similar if one can be obtained from the other by enlarging or reducing it.
 > **Basic Knowledge: Similar Polygons**
->
+> 
 > Two polygons with the same number of sides are similar if corresponding angles are equal and corresponding sides are proportional.
 
 ---
@@ -15,11 +15,11 @@
 
 
 > **Basic Knowledge: Proportional Line Segments** 
->
+> 
 > For four line segments $a,b,c,d$, if $\frac{a}{b}=\frac{c}{d}$ (i.e. $ad=bc$), then the four line segments are said to be proportional.
 
 > **Basic Knowledge: Similar Polygons** 
->
+> 
 > Two polygons with the same number of sides are called similar polygons if their corresponding angles are equal and their corresponding sides are proportional; the ratio of corresponding sides of similar polygons is called the similarity ratio. The corresponding angles of similar polygons are equal, and their corresponding sides are proportional.
 
 ## Exercise 1

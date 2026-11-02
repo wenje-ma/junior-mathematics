@@ -1,19 +1,19 @@
 # week128
 
 > **Basic Knowledge: Discriminant**
->
+> 
 > The expression $b^2-4ac$ can determine the nature of the roots of the quadratic equation $ax^2+bx+c=0$; it is called the discriminant, denoted $\Delta=b^2-4ac$.
 > **Basic Knowledge: Nature of the Roots**
->
+> 
 > For the equation $ax^2+bx+c=0\ \left(a\ne0\right)$: when $\Delta> 0$, the equation has two unequal real roots; when $\Delta=0$, the equation has two equal real roots; when $\Delta< 0$, the equation has no real root.
 > **Basic Knowledge: Quadratic Formula**
->
+> 
 > When $\Delta\ge0$, the real roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$; this expression is called the quadratic formula. The method of substituting the coefficients into the quadratic formula to find the roots directly is called the formula method.
 > **Basic Knowledge: Product Is Zero**
->
+> 
 > If $ab=0$, then $a=0$ or $b=0$; conversely, if $a=0$ or $b=0$, then $ab=0$.
 > **Basic Knowledge: Factoring Method**
->
+> 
 > First factor the equation so that it becomes the product of two linear expressions equal to $0$, then set each linear expression equal to $0$, thereby reducing the degree; this method of solving a quadratic equation is called the factoring method.
 ---
 

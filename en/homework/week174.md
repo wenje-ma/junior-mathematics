@@ -1,10 +1,10 @@
 # week174
 
 > **Basic Knowledge: Front View, Top View, Left View**
->
+> 
 > The view obtained in the front plane by observing from front to back is called the front view; the view obtained in the horizontal plane by observing from top to bottom is called the top view; the view obtained in the side plane by observing from left to right is called the left view.
 > **Basic Knowledge: Projection Rules for the Three Views**
->
+> 
 > Length aligned, height level, width equal. Visible outlines are drawn as solid lines, and invisible outlines as dashed lines.
 ---
 

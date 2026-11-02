@@ -1,19 +1,19 @@
 # week151
 
 > **Basic Knowledge: Perpendicular Chord Theorem**
->
+> 
 > A diameter perpendicular to a chord bisects the chord and bisects the two arcs subtended by the chord.
 > **Basic Knowledge: Relationship Among Central Angles, Arcs, and Chords**
->
+> 
 > In the same circle or equal circles, equal central angles subtend equal arcs and equal chords.
 > **Basic Knowledge: Inscribed Angle Theorem**
->
+> 
 > The inscribed angle subtended by an arc is half of the central angle subtended by that arc.
 > **Basic Knowledge: Corollary to the Inscribed Angle Theorem**
->
+> 
 > Inscribed angles subtended by the same arc or equal arcs are equal; the inscribed angle subtended by a semicircle is a right angle; the chord subtended by an inscribed angle of $90^\circ$ is a diameter.
 > **Basic Knowledge: Property of a Cyclic Quadrilateral**
->
+> 
 > The opposite angles of a cyclic quadrilateral are supplementary.
 ---
 

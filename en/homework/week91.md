@@ -1,13 +1,13 @@
 # week91
 
 > **Basic Knowledge: Fractional Equation**
->
+> 
 > An equation whose denominator contains an unknown is called a fractional equation.
 ---
 
 
 > **Basic Knowledge: Checking the Solution of a Fractional Equation** 
->
+> 
 > After clearing denominators when solving a fractional equation, substitute the solution of the integral equation into the least common denominator; if the value of the least common denominator is not $0$, then the solution of the integral equation is the solution of the original fractional equation; otherwise, this solution is not a solution of the original fractional equation.
 
 ## Exercise 1

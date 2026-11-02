@@ -1,25 +1,25 @@
 # week38
 
 > **Basic Knowledge: Irrational Number**
->
+> 
 > A non-terminating non-repeating decimal is also called an irrational number. Irrational numbers are divided into positive and negative.
 
 > **Basic Knowledge: Real Number**
->
+> 
 > Rational numbers and irrational numbers are collectively called real numbers. Real numbers are divided into positive real numbers, $0$, and negative real numbers.
 
 > **Basic Knowledge: Absolute Value**
->
+> 
 > Absolute Value.
 > **Basic Knowledge: Opposite Numbers and Absolute Value**
->
+> 
 > Opposite Numbers and Absolute Value.
 > **Basic Knowledge: Real Numbers and the Number Line**
->
+> 
 > Real Numbers and the Number Line.
 
 > **Basic Knowledge: Opposite Number and Absolute Value**
->
+> 
 > The opposite of real number a is -a; the absolute value of a positive real number is itself, of a negative real number is its opposite, and of 0 is 0.
 
 ---

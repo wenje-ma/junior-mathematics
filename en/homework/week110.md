@@ -1,10 +1,10 @@
 # week110
 
 > **Basic Knowledge: Function**
->
+> 
 > Generally, in a process of change, if there are two variables $x$ and $y$, and for each definite value of $x$, $y$ has a unique definite value corresponding to it, then we say $x$ is the independent variable and $y$ is a function of $x$.
 > **Basic Knowledge: Three Ways of Representing a Function**
->
+> 
 > Analytic method: express the functional relation by a mathematical expression; Tabular method: list the corresponding values of the independent variable and the function in a table; Graphical method: express the functional relation by a graph.
 ---
 

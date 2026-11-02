@@ -1,19 +1,19 @@
 # week14
 
 > **Basic Knowledge: Algebraic Expression**
->
+> 
 > An expression formed by connecting numbers, or letters representing numbers, with operation symbols is called an algebraic expression.
 
 > **Basic Knowledge: Writing Algebraic Expressions**
->
+> 
 > Expressing the quantitative relationships in a problem using expressions containing numbers, letters and operation symbols.
 
 > **Basic Knowledge: Quantities in Inverse Proportion**
->
+> 
 > Two related quantities whose product is constant, i.e. $xy=k$ ($k$ is a fixed value, $k\ne 0$), are in an inverse proportion relationship.
 
 > **Basic Knowledge: Value of an Algebraic Expression**
->
+> 
 > The result obtained by substituting numerical values for the letters in an algebraic expression and computing according to the operations in the expression.
 
 ---

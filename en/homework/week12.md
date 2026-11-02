@@ -1,11 +1,11 @@
 # week12
 
 > **Basic Knowledge: Value of an Algebraic Expression**
->
+> 
 > The result obtained by substituting numerical values for the letters in an algebraic expression and computing according to the operations in the expression is called the value of the algebraic expression. When the letters take different numerical values, the value of the algebraic expression generally also differs.
 
 > **Basic Knowledge: Forming Algebraic Expressions**
->
+> 
 > An algebraic expression is formed by connecting numbers or letters representing numbers with operation symbols.
 
 ---

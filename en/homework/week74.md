@@ -1,22 +1,22 @@
 # week74
 
 > **Basic Knowledge: Isosceles Triangle**
->
+> 
 > A triangle with two equal sides is called an isosceles triangle; the two equal sides are called the legs, and the other side is called the base.
 > **Basic Knowledge: Equal Sides Opposite Equal Angles**
->
+> 
 > The two base angles of an isosceles triangle are equal.
 > **Basic Knowledge: Three Lines in One**
->
+> 
 > The median on the base, the altitude on the base, and the bisector of the vertex angle of an isosceles triangle coincide. An isosceles triangle is an axisymmetric figure, and the line of the median on the base is its axis of symmetry.
 > **Basic Knowledge: Equal Angles Opposite Equal Sides**
->
+> 
 > A triangle with two equal angles is an isosceles triangle.
 > **Basic Knowledge: Equilateral Triangle**
->
+> 
 > An equilateral triangle has three equal angles, each equal to $60^\circ$; a triangle with three equal angles is an equilateral triangle; an isosceles triangle with one angle equal to $60^\circ$ is an equilateral triangle.
 > **Basic Knowledge: Right Triangle Containing a $30^\circ$ Angle**
->
+> 
 > In a right triangle, if one acute angle equals $30^\circ$, then the leg opposite it equals half the hypotenuse.
 ---
 

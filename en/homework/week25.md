@@ -1,35 +1,35 @@
 # week25
 
 > **Basic Knowledge: Line**
->
+> 
 > Through two points there is one line, and only one line. In short: two points determine a line.
 
 > **Basic Knowledge: Intersection**
->
+> 
 > When two distinct lines have a common point, we say the two lines intersect, and this common point is called their intersection point.
 
 > **Basic Knowledge: Ray and Segment**
->
+> 
 > A point on a line and the part on one side of it is called a ray, and this point is called the endpoint of the ray. Two points on a line and the part between them is called a segment, and these two points are called the endpoints of the segment.
 
 > **Basic Knowledge: Comparing Segments**
->
+> 
 > To compare the lengths of two segments, one may measure their lengths with a ruler and compare, or move one segment onto the other for comparison.
 
 > **Basic Knowledge: Basic Fact about Segments**
->
+> 
 > Among all the paths connecting two points, the segment is the shortest. In short: between two points, the segment is shortest.
 
 > **Basic Knowledge: Distance**
->
+> 
 > The length of the segment connecting two points is called the distance between these two points.
 
 > **Basic Knowledge: Midpoint of a Segment**
->
+> 
 > Point $M$ divides segment $AB$ into two equal segments $AM$ and $MB$; point $M$ is called the midpoint of segment $AB$.
 
 > **Basic Knowledge: Segment**
->
+> 
 > The part of a line between two points; it has two endpoints.
 
 ---

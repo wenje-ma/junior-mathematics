@@ -1,36 +1,36 @@
 # week32
 
 > **Basic Knowledge: Definition**
->
+> 
 > A clear, explicit description of a mathematical object that reveals its essential features is called a definition of the mathematical object.
 
 > **Basic Knowledge: Proposition**
->
+> 
 > A declarative statement that can be judged to be true (correct) or false (incorrect) is called a proposition. A proposition judged true is called a true proposition, and one judged false is called a false proposition. A proposition is often written in the form "If …, then …"; after "if" comes the hypothesis, and after "then" comes the conclusion.
 
 > **Basic Knowledge: Theorem**
->
+> 
 > A true proposition whose correctness has been confirmed through reasoning is called a theorem. A theorem can also serve as a basis for further reasoning.
 
 > **Basic Knowledge: Proof**
->
+> 
 > When the correctness of a proposition can be judged only through reasoning, this process of reasoning is called a proof.
 
 
 > **Basic Knowledge: Giving a Counterexample**
->
+> 
 > To show that a proposition is false, it suffices to give a counterexample that satisfies the hypothesis but not the conclusion.
 > **Basic Knowledge: Criterion 2**
->
+> 
 > If alternate interior angles are equal, then the two lines are parallel.
 > **Basic Knowledge: Criterion 3**
->
+> 
 > If consecutive interior angles are supplementary, then the two lines are parallel.
 > **Basic Knowledge: Property 1**
->
+> 
 > Property 1.
 > **Basic Knowledge: Property 3**
->
+> 
 > Property 3.
 
 ---

@@ -1,10 +1,10 @@
 # week164
 
 > **Basic Knowledge: Homothetic Figures**
->
+> 
 > If the points $A,B,\ldots,P,\ldots$ on one figure and the points $A',B',\ldots,P',\ldots$ on another figure correspond respectively, and the connecting lines $AA',BB',\ldots,PP',\ldots$ all pass through the same point $O$, with $\frac{OA'}{OA}=\frac{OB'}{OB}=\cdots=\frac{OP'}{OP}=\cdots$, then the two figures are called homothetic figures, and point $O$ is the center of homothety. Homothetic figures are special similar figures, and their corresponding sides are parallel to each other.
 > **Basic Knowledge: Coordinate Rule for Homothety**
->
+> 
 > With the origin as center and ratio k, point (x,y) maps to (kx, ky) or (-kx, -ky).
 
 ---
@@ -15,7 +15,7 @@
 
 
 > **Basic Knowledge: Coordinate Rule for Homothety** 
->
+> 
 > In a rectangular coordinate system, if the origin is taken as the center of homothety and a figure homothetic to the original is drawn with similarity ratio $k$ to the original, then the coordinates of the point on the homothetic figure corresponding to the point $\left(x,y\right)$ on the original figure are $\left(kx,ky\right)$ or $\left(-kx,-ky\right)$.
 
 ## Exercise 1

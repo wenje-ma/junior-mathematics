@@ -1,16 +1,16 @@
 # week153
 
 > **Basic Knowledge: Three Points Determine a Circle**
->
+> 
 > Three points not on the same line determine a circle.
 > **Basic Knowledge: Property of a Cyclic Quadrilateral**
->
+> 
 > The opposite angles of a cyclic quadrilateral are supplementary.
 > **Basic Knowledge: Inscribed Angle Theorem**
->
+> 
 > The inscribed angle subtended by an arc is half of the central angle subtended by that arc.
 > **Basic Knowledge: Relationship Among Central Angles, Arcs, and Chords**
->
+> 
 > In the same circle or equal circles, equal central angles subtend equal arcs and equal chords.
 
 ---

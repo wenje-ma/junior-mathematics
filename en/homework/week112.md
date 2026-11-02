@@ -1,10 +1,10 @@
 # week112
 
 > **Basic Knowledge: Linear Function**
->
+> 
 > Generally, a function of the form $y=kx+b$ ($k$, $b$ are constants, $k \neq 0$) is called a linear function, where $x$ is the independent variable.
 > **Basic Knowledge: Direct Proportion Function**
->
+> 
 > A function of the form $y=kx$ ($k$ is a constant, $k \neq 0$) is called a direct proportion function, where $k$ is called the proportionality coefficient. A direct proportion function is the special linear function when $b=0$.
 ---
 

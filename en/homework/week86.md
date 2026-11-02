@@ -1,17 +1,17 @@
 # week86
 
 > **Basic Knowledge: Method of Extracting the Common Factor**
->
+> 
 > Extract the common factor of the terms of the polynomial, writing the polynomial as the product of the common factor and another factor.
 ---
 
 
 > **Basic Knowledge: Method Using the Difference of Squares Formula** 
->
+> 
 > $a^2-b^2=\left(a+b\right)\left(a-b\right)$.
 
 > **Basic Knowledge: Method Using the Perfect Square Formula** 
->
+> 
 > $a^2\pm2ab+b^2=\left(a\pm b\right)^2$.
 
 ## Review Problem 1

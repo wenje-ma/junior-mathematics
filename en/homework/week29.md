@@ -1,23 +1,23 @@
 # week29
 
 > **Basic Knowledge: Basic Fact about Segments**
->
+> 
 > Between two points, the segment is the shortest.
 
 > **Basic Knowledge: Distance**
->
+> 
 > The length of the segment joining two points is called the distance between them.
 
 > **Basic Knowledge: Angle**
->
+> 
 > The figure formed by two rays with a common endpoint is called an angle.
 
 > **Basic Knowledge: Measuring Angles**
->
+> 
 > $1^{\circ}=60'$, $1'=60''$. A full angle $=360^{\circ}$.
 
 > **Basic Knowledge: between two points the segment is the shortest**
->
+> 
 > Among all paths connecting two points, the line segment is the shortest.
 
 ---

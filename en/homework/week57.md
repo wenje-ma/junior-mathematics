@@ -1,31 +1,31 @@
 # week57
 
 > **Basic Knowledge: Pie Chart**
->
+> 
 > A circle represents the population, each sector represents a part of the population, and the size of the sector reflects that part's percentage of the population; the sector's central angle $=360^\circ\times$ percentage.
 
 > **Basic Knowledge: Bar Chart**
->
+> 
 > The height of a small rectangle represents the quantity of each category, making it easy to compare the sizes of the data.
 
 > **Basic Knowledge: Line Chart**
->
+> 
 > The rise or fall of a broken line represents the increase or decrease of data over time, helping to show the development trend.
 
 > **Basic Knowledge: Frequency and Relative Frequency**
->
+> 
 > The number of data falling in each group is called the frequency; the ratio of the frequency to the total number of data is called the relative frequency.
 
 > **Basic Knowledge: Class Width and Number of Classes**
->
+> 
 > The distance between the two endpoints of each group is called the class width; the number of groups is called the number of classes. Dividing the range by the class width, taking the integer and adding $1$ gives the number of classes.
 
 > **Basic Knowledge: Frequency Distribution Histogram**
->
+> 
 > The horizontal axis represents the data groups and the vertical axis represents the frequency, using the area of a small rectangle (the height when equally spaced) to reflect the frequency of each group.
 
 > **Basic Knowledge: Trend Chart**
->
+> 
 > A statistical chart using a line (straight or curved) to describe the relationship between one quantity and another, helping to predict the change of one quantity from the change of the other.
 
 ---

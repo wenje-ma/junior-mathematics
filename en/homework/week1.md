@@ -1,19 +1,19 @@
 # week1
 
 > **Basic Knowledge: Positive Numbers**
->
+> 
 > Numbers such as $3$, $50$, $7.8\%$ that are greater than $0$ are called positive numbers.
 
 > **Basic Knowledge: Negative Numbers**
->
+> 
 > Numbers such as $-3$, $-10$, $-0.7\%$ that are obtained by prefixing a positive number with the sign "$-$" are called negative numbers; here the sign "$-$" is the negative sign, read as "negative".
 
 > **Basic Knowledge: The Status of $0$**
->
+> 
 > $0$ is neither a positive number nor a negative number.
 
 > **Basic Knowledge: Representing Quantities of Opposite Meaning**
->
+> 
 > If a problem involves quantities of opposite meaning, they can be represented by positive and negative numbers respectively. Usually the quantity in one direction is denoted by $+$, and the quantity in the opposite direction is denoted by $-$.
 
 ---

@@ -1,13 +1,13 @@
 # week73
 
 > **Basic Knowledge: Properties of Axis Symmetry**
->
+> 
 > The segment joining symmetric points is perpendicularly bisected by the axis of symmetry.
 > **Basic Knowledge: Drawing an Axisymmetric Figure**
->
+> 
 > A geometric figure is composed of points; just draw the symmetric points about the axis of symmetry of some special points in the figure (such as segment endpoints), then join them in order, and a figure symmetric to the original figure about that line is obtained. To construct the symmetric point of a point about line $l$: through the point draw the perpendicular to $l$, cut off on the perpendicular a segment bisected by the foot, and the endpoint is the symmetric point.
 > **Basic Knowledge: Axis Symmetry in Coordinates**
->
+> 
 > The coordinates of the point symmetric to $\left(x,y\right)$ about the $x$-axis are $\left(x,-y\right)$; the coordinates of the point symmetric to $\left(x,y\right)$ about the $y$-axis are $\left(-x,y\right)$.
 ---
 

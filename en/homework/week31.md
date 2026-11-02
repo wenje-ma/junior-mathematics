@@ -1,42 +1,42 @@
 # week31
 
 > **Basic Knowledge: Parallel**
->
+> 
 > In the same plane, two lines that do not intersect are called parallel lines, denoted $a\parallel b$. In the same plane, two distinct lines have only two possible positional relationships: intersecting and parallel.
 
 > **Basic Knowledge: Transitivity of Parallelism**
->
+> 
 > If two lines are both parallel to a third line, then these two lines are also parallel to each other. That is, if $b\parallel a$, $c\parallel a$, then $b\parallel c$.
 
 > **Basic Knowledge: Criterion 2**
->
+> 
 > If two lines are cut by a third line and the alternate interior angles are equal, then the two lines are parallel. In short: equal alternate interior angles imply parallel lines.
 
 > **Basic Knowledge: Criterion 3**
->
+> 
 > If two lines are cut by a third line and the consecutive interior angles are supplementary, then the two lines are parallel. In short: supplementary consecutive interior angles imply parallel lines.
 
 
 > **Basic Knowledge: Parallel Axiom**
->
+> 
 > Through a point outside a given line, there is exactly one line parallel to the given line.
 > **Basic Knowledge: Criterion 1**
->
+> 
 > When two lines are cut by a transversal, if the corresponding angles are equal, then the two lines are parallel. In short: corresponding angles equal, two lines parallel.
 > **Basic Knowledge: Perpendicular**
->
+> 
 > Two lines are perpendicular if one of the four angles formed at their intersection is a right angle.
 > **Basic Knowledge: Property 1**
->
+> 
 > Property 1.
 > **Basic Knowledge: Property 2**
->
+> 
 > Property 2.
 > **Basic Knowledge: Property 3**
->
+> 
 > Property 3.
 > **Basic Knowledge: Vertical Angles Are Equal**
->
+> 
 > Vertical angles are equal.
 
 ---

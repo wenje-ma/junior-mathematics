@@ -1,18 +1,18 @@
 # week42
 
 > **Basic Knowledge: Rectangular Coordinate System**
->
+> 
 > Draw two number lines perpendicular to each other in a plane with the same origin to form a rectangular coordinate system; the horizontal one is the $x$-axis (right positive), and the vertical one is the $y$-axis (up positive).
 
 
 > **Basic Knowledge: Representing Geographic Locations with Coordinates**
->
+> 
 > By establishing a plane rectangular coordinate system, the positions of points in the plane can be represented by coordinates.
 > **Basic Knowledge: Coordinates of a Point**
->
+> 
 > In a plane rectangular coordinate system, a point is represented by an ordered pair of numbers.
 > **Basic Knowledge: Representing Translation with Coordinates**
->
+> 
 > Representing Translation with Coordinates.
 
 ---

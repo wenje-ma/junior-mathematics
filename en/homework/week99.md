@@ -1,10 +1,10 @@
 # week99
 
 > **Basic Knowledge: Pythagorean Theorem**
->
+> 
 > In a right triangle, the sum of the squares of the two legs equals the square of the hypotenuse. If the two legs of a right triangle are \(a,b\) and the hypotenuse is \(c\), then \(a^{2}+b^{2}=c^{2}\).
 > **Basic Knowledge: Representing Irrational Numbers on the Number Line**
->
+> 
 > Using the Pythagorean theorem, one can draw on the number line the point representing \(\sqrt{n}\) (where \(n\) is a positive integer).
 ---
 

@@ -1,7 +1,7 @@
 # week66
 
 > **Basic Knowledge: Centroid of a Triangle**
->
+> 
 > The three medians of a triangle intersect at one point, called the centroid of the triangle; the centroid of a uniform triangular thin plate lies at this point.
 
 ---

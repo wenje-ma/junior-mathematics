@@ -1,27 +1,27 @@
 # week15
 
 > **Basic Knowledge: Monomial**
->
+> 
 > An algebraic expression formed by the product of numbers or letters is called a monomial. A single number or a single letter is also a monomial.
 
 > **Basic Knowledge: Coefficient of a Monomial**
->
+> 
 > The numerical factor in a monomial is called the coefficient of that monomial. When a monomial represents the product of a number and a letter, the number is usually written first; when the coefficient of a monomial is $1$ or $-1$, the $1$ is usually omitted.
 
 > **Basic Knowledge: Degree of a Monomial**
->
+> 
 > In a monomial, the sum of the exponents of all letters is called the degree of that monomial. If the degree of a monomial is $n$, it is called a monomial of degree $n$. For a nonzero number, its degree is defined to be $0$.
 
 > **Basic Knowledge: Polynomial**
->
+> 
 > The sum of several monomials is called a polynomial. Each monomial is called a term of the polynomial, and a term without a letter is called a constant term. Each term in a polynomial includes the plus or minus sign in front of it.
 
 > **Basic Knowledge: Degree of a Polynomial**
->
+> 
 > In a polynomial, the degree of the term with the highest degree is called the degree of the polynomial.
 
 > **Basic Knowledge: Integral Expression**
->
+> 
 > Monomials and polynomials are collectively called integral expressions.
 
 ---

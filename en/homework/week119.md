@@ -1,16 +1,16 @@
 # week119
 
 > **Basic Knowledge: Arithmetic Mean**
->
+> 
 > In general, for $n$ data $x_1, x_2, \ldots, x_n$, we call $\overline{x}=\frac{x_1+x_2+\cdots+x_n}{n}$ the arithmetic mean of these $n$ data.
 > **Basic Knowledge: Weighted Average**
->
+> 
 > If the weights of the $n$ numbers $x_1, x_2, \ldots, x_n$ are $w_1, w_2, \ldots, w_n$ respectively, then $\overline{x}=\frac{x_1w_1+x_2w_2+\cdots+x_nw_n}{w_1+w_2+\cdots+w_n}$ is called the weighted average of these $n$ numbers.
 > **Basic Knowledge: Median**
->
+> 
 > Arrange a set of data in ascending order; if the number of data is odd, the number in the middle position is called the median of this set; if the number is even, the average of the two middle data is called the median.
 > **Basic Knowledge: Mode**
->
+> 
 > The data value that appears most frequently in a set is called the mode of the set.
 ---
 

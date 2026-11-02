@@ -1,11 +1,11 @@
 # week39
 
 > **Basic Knowledge: Square Root**
->
+> 
 > If a number $x$ has square equal to $a$, i.e. $x^2=a$, then this number $x$ is called a square root of $a$.
 
 > **Basic Knowledge: Cube Root**
->
+> 
 > If a number $x$ has cube equal to $a$, i.e. $x^3=a$, then this number $x$ is called a cube root of $a$, denoted $\sqrt\left[3\right]{a}$.
 
 ---

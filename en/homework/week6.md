@@ -1,31 +1,31 @@
 # week6
 
 > **Basic Knowledge: Rules for Multiplication of Rational Numbers**
->
+> 
 > When two numbers are multiplied, like signs give positive and opposite signs give negative, and the absolute value of the product equals the product of the absolute values of the factors. Multiplying any number by $0$ gives $0$.
 
 > **Basic Knowledge: Reciprocal**
->
+> 
 > Two numbers whose product is $1$ are reciprocals of each other.
 
 > **Basic Knowledge: Commutative Law of Multiplication**
->
+> 
 > When two numbers are multiplied, swapping the positions of the factors does not change the product, that is, $ab=ba$.
 
 > **Basic Knowledge: Associative Law of Multiplication**
->
+> 
 > When three numbers are multiplied, multiplying the first two first, or multiplying the last two first, does not change the product, that is, $\left(ab\right)c=a\left(bc\right)$.
 
 > **Basic Knowledge: Distributive Law**
->
+> 
 > Multiplying a number by the sum of two numbers is equivalent to multiplying that number separately by the two numbers and then adding the products, that is, $a\left(b+c\right)=ab+ac$.
 
 > **Basic Knowledge: Sign Rules for Multiplying Several Rational Numbers**
->
+> 
 > When several numbers not equal to $0$ are multiplied, the product is positive when the number of negative factors is even and negative when the number of negative factors is odd. When several numbers are multiplied and one of the factors is $0$, the product is $0$.
 
 > **Basic Knowledge: Rules for Division of Rational Numbers**
->
+> 
 > Dividing by a number not equal to $0$ is equivalent to multiplying by the reciprocal of that number, that is, $a\div b=a\cdot\frac{1}{b}$ ($b\ne 0$). When two numbers are divided, like signs give positive and opposite signs give negative, and the absolute value of the quotient equals the quotient of the absolute value of the dividend divided by the absolute value of the divisor. Dividing $0$ by any number not equal to $0$ gives $0$.
 
 ---

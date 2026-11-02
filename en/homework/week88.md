@@ -1,17 +1,17 @@
 # week88
 
 > **Basic Knowledge: Rule for Multiplying Fractions**
->
+> 
 > To multiply a fraction by a fraction, take the product of the numerators as the numerator of the result and the product of the denominators as the denominator, i.e. $\frac{a}{b}\cdot\frac{c}{d}=\frac{ac}{bd}$.
 ---
 
 
 > **Basic Knowledge: Rule for Dividing Fractions** 
->
+> 
 > To divide a fraction by a fraction, invert the numerator and denominator of the divisor and multiply by the dividend, i.e. $\frac{a}{b}\div\frac{c}{d}=\frac{ad}{bc}$.
 
 > **Basic Knowledge: Power of a Fraction** 
->
+> 
 > When $n$ is a positive integer, $\left(\frac{a}{b}\right)^n=\frac{a^n}{b^n}$, i.e. to raise a fraction to a power, raise both the numerator and denominator to that power.
 
 ## Exercise 1

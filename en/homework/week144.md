@@ -1,16 +1,16 @@
 # week144
 
 > **Basic Knowledge: Central Symmetry**
->
+> 
 > If a figure is rotated about a point through $180^\circ$ and the rotated figure can coincide with another figure, then the two figures are said to be symmetric about this point, or centrally symmetric; this point is called the center of symmetry, and the points that coincide after rotation are called symmetric points.
 > **Basic Knowledge: Properties of Central Symmetry**
->
+> 
 > For two figures that are centrally symmetric, the segments joining symmetric points pass through the center of symmetry and are bisected by it; the two centrally symmetric figures are congruent.
 > **Basic Knowledge: Centrally Symmetric Figure**
->
+> 
 > If a figure is rotated about a point through $180^\circ$ and the rotated figure can coincide with the original figure, then the figure is called a centrally symmetric figure, and this point is its center of symmetry.
 > **Basic Knowledge: Coordinates of Points Symmetric about the Origin**
->
+> 
 > When two points are symmetric about the origin, their coordinates have opposite signs, i.e. the point symmetric to $P\left(x,y\right)$ about the origin is $P'\left(-x,-y\right)$.
 ---
 

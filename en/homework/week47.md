@@ -2,7 +2,7 @@
 
 
 > **Basic Knowledge: Solving Word Problems by Setting Up a System of Equations**
->
+> 
 > Set up two unknowns, write a system of two linear equations based on the problem, and solve by substitution or elimination.
 ---
 

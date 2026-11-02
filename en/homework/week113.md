@@ -1,16 +1,16 @@
 # week113
 
 > **Basic Knowledge: Graph and Properties of the Direct Proportional Function**
->
+> 
 > The graph of the direct proportional function $y=kx$ ($k$ is a constant, $k \neq 0$) is a straight line passing through the origin. When $k> 0$, the line passes through the third and first quadrants, rises from left to right, and $y$ increases as $x$ increases; when $k< 0$, the line passes through the second and fourth quadrants, falls from left to right, and $y$ decreases as $x$ increases.
 > **Basic Knowledge: Graph and Properties of the Linear Function**
->
+> 
 > The graph of the linear function $y=kx+b$ ($k$ and $b$ are constants, $k \neq 0$) is a straight line, obtained by translating the line $y=kx$ by $\left|b\right|$ units of length ($b> 0$ upward, $b< 0$ downward). When $k> 0$, $y$ increases as $x$ increases; when $k< 0$, $y$ decreases as $x$ increases.
 > **Basic Knowledge: Method of Undetermined Coefficients**
->
+> 
 > The method of first setting up the function expression and then, according to the given conditions, determining the unknown coefficients in the expression so as to obtain the function expression is called the method of undetermined coefficients.
 > **Basic Knowledge: Direct Proportional Function**
->
+> 
 > A function of the form y = kx (k is a nonzero constant).
 
 ---

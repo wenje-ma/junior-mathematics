@@ -1,13 +1,13 @@
 # week114
 
 > **Basic Knowledge: Linear Functions and Linear Equations in One Variable**
->
+> 
 > The solution of the linear equation in one variable $kx+b=0$ is precisely the x-coordinate of the intersection of the graph of the linear function $y=kx+b$ with the $x$-axis.
 > **Basic Knowledge: Linear Functions and Linear Inequalities in One Variable**
->
+> 
 > The solution set of the inequality $kx+b> 0$ is the range of values of the independent variable $x$ for which the value of the linear function $y=kx+b$ is greater than $0$; on the graph it corresponds to the part of the line $y=kx+b$ lying above the $x$-axis.
 > **Basic Knowledge: Linear Functions and Systems of Linear Equations in Two Variables**
->
+> 
 > The coordinates of the intersection of the graphs of two linear functions are precisely the solution of the corresponding system of linear equations in two variables.
 ---
 

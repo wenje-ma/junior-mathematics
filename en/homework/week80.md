@@ -1,24 +1,24 @@
 # week80
 
 > **Basic Knowledge: Difference of Squares Formula**
->
+> 
 > The product of the sum of two numbers and the difference of the same two numbers equals the difference of their squares, i.e. $\left(a+b\right)\left(a-b\right)=a^2-b^2$.
 > **Basic Knowledge: Perfect Square Formula**
->
+> 
 > (a +/- b)^2 = a^2 +/- 2ab + b^2.
 > **Basic Knowledge: Rule for Adding Parentheses**
->
+> 
 > If a parenthesis is preceded by a plus sign, signs inside stay; if preceded by a minus sign, signs inside flip.
 
 ---
 
 
 > **Basic Knowledge: Perfect Square Formula** 
->
+> 
 > The square of the sum (or difference) of two numbers equals the sum of their squares plus (or minus) $2$ times their product, i.e. $\left(a+b\right)^2=a^2+2ab+b^2$, $\left(a-b\right)^2=a^2-2ab+b^2$.
 
 > **Basic Knowledge: Rule for Adding Parentheses** 
->
+> 
 > When the sign before the parentheses is positive, all terms enclosed keep their signs; when the sign before the parentheses is negative, all terms enclosed change their signs, i.e. $a+b+c=a+\left(b+c\right)$, $a-b-c=a-\left(b+c\right)$.
 
 ## Exercise 1

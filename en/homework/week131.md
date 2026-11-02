@@ -1,10 +1,10 @@
 # week131
 
 > **Basic Knowledge: Relation Between Roots and Coefficients**
->
+> 
 > If the two roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x_1,x_2$, then $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$.
 > **Basic Knowledge: Roots of a Quadratic Equation**
->
+> 
 > The value of the unknown that makes the two sides of a quadratic equation equal is the root of that equation.
 ---
 

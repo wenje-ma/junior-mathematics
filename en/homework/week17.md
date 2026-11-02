@@ -1,19 +1,19 @@
 # week17
 
 > **Basic Knowledge: Monomial**
->
+> 
 > An algebraic expression formed by the product of numbers or letters is called a monomial. A single number or a single letter is also a monomial.
 
 > **Basic Knowledge: Polynomial**
->
+> 
 > The sum of several monomials is called a polynomial. Each monomial is called a term of the polynomial, and a term without a letter is called a constant term.
 
 > **Basic Knowledge: Combining Like Terms**
->
+> 
 > Combining like terms in a polynomial into a single term, the coefficient of the resulting term is the sum of the coefficients of the like terms before combining, while the letters together with their exponents remain unchanged.
 
 > **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**
->
+> 
 > When adding or subtracting several integral expressions, first remove any parentheses, then combine like terms.
 
 ---

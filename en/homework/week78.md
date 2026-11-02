@@ -1,24 +1,24 @@
 # week78
 
 > **Basic Knowledge: Multiplication of Powers with the Same Base**
->
+> 
 > In general, for any base $a$ and any positive integers $m,n$, $a^m\cdot a^n=a^{m+n}$; that is, when multiplying powers with the same base, the base is unchanged and the exponents are added. This property also holds when three or more powers with the same base are multiplied.
 > **Basic Knowledge: Power of a Power**
->
+> 
 > To raise a power to a power, keep the base and multiply the exponents: (a^m)^n = a^{mn}.
 > **Basic Knowledge: Power of a Product**
->
+> 
 > To raise a product to a power, raise each factor to that power and multiply: (ab)^n = a^n b^n.
 
 ---
 
 
 > **Basic Knowledge: Power of a Power** 
->
+> 
 > In general, for any base $a$ and any positive integers $m,n$, $\left(a^m\right)^n=a^{mn}$; that is, for a power of a power, the base is unchanged and the exponents are multiplied.
 
 > **Basic Knowledge: Power of a Product** 
->
+> 
 > In general, for any bases $a,b$ and any positive integer $n$, $\left(ab\right)^n=a^n b^n$; that is, the power of a product equals taking the power of each factor of the product separately and then multiplying the resulting powers. This property also holds for the power of a product of three or more factors.
 
 ## Exercise 1

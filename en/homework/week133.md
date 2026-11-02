@@ -1,7 +1,7 @@
 # week133
 
 > **Basic Knowledge: Quadratic Function**
->
+> 
 > In general, a function of the form $y=ax^2+bx+c$ ($a,b,c$ are constants, $a\ne0$) is called a quadratic function. Here $x$ is the independent variable, and $a,b,c$ are respectively the quadratic coefficient, the linear coefficient, and the constant term of the function expression.
 ---
 

@@ -1,19 +1,19 @@
 # week156
 
 > **Basic Knowledge: Incircle of a Triangle**
->
+> 
 > A circle tangent to all three sides of a triangle is called the incircle of the triangle; the center of the incircle is called the incenter of the triangle, and it is the intersection of the three angle bisectors of the triangle.
 > **Basic Knowledge: Regular Polygons and Circles**
->
+> 
 > Divide a circle into $n$ ($n\ge3$) equal parts, and the polygon obtained by joining the division points in order is a regular $n$-gon inscribed in the circle; this circle is called the circumcircle of the regular $n$-gon.
 > **Basic Knowledge: Properties of Regular Polygons**
->
+> 
 > The center of the circumcircle (or incircle) of a regular polygon is called the center; the circumradius is called the radius; the inradius is called the apothem; the central angle subtended by each side of a regular polygon is called the central angle. The central angle of a regular $n$-gon is $\frac{360^\circ}{n}$.
 > **Basic Knowledge: Arc Length Formula**
->
+> 
 > Arc length l = n*pi*R/180 where n is the central angle in degrees.
 > **Basic Knowledge: Tangent-Length Theorem**
->
+> 
 > Tangents from the same external point to a circle have equal lengths.
 
 ---

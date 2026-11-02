@@ -2,16 +2,16 @@
 
 
 > **Basic Knowledge: Determination of an Angle Bisector**
->
+> 
 > A point inside an angle that is equidistant from the two sides of the angle lies on the angle bisector.
 > **Basic Knowledge: Properties of an Angle Bisector**
->
+> 
 > Any point on the angle bisector is equidistant from the two sides of the angle.
 > **Basic Knowledge: SAS**
->
+> 
 > Two triangles are congruent if two sides and the included angle of one are equal to the corresponding parts of the other (abbreviated as "SAS").
 > **Basic Knowledge: HL**
->
+> 
 > Two right triangles are congruent if the hypotenuse and one leg of one are equal to the corresponding parts of the other (abbreviated as "HL").
 ---
 

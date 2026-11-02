@@ -1,7 +1,7 @@
 # week129
 
 > **Basic Knowledge: Relation Between Roots and Coefficients**
->
+> 
 > If the two roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x_1,x_2$, then $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$. This relation can also be obtained by comparing coefficients in the factorization $ax^2+bx+c=a\left(x-x_1\right)\left(x-x_2\right)$.
 ---
 

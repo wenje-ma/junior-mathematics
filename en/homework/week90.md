@@ -1,17 +1,17 @@
 # week90
 
 > **Basic Knowledge: Negative Integer Exponent Power**
->
+> 
 > When $n$ is a positive integer, $a^{-n}=\frac{1}{a^n}$ ($a\ne0$), i.e. $a^{-n}$ is the reciprocal of $a^n$.
 ---
 
 
 > **Basic Knowledge: Properties of Integer Exponent Powers** 
->
+> 
 > (1) $a^m\cdot a^n=a^{m+n}$; (2) $\left(a^m\right)^n=a^{mn}$; (3) $\left(ab\right)^n=a^n b^n$ ($m,n$ are integers, the base is nonzero).
 
 > **Basic Knowledge: Scientific Notation for Positive Numbers Less Than 1** 
->
+> 
 > A positive number less than $1$ can be written in the form $a\times10^{-n}$, where $1\le a< 10$, and $n$ is a positive integer.
 
 ## Exercise 1

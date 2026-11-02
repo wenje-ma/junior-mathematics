@@ -1,11 +1,11 @@
 # week33
 
 > **Basic Knowledge: Translation**
->
+> 
 > In a plane, moving a figure by a certain distance in a certain direction is called a translation of the figure. The direction of translation is not limited to horizontal or vertical; it may be along any direction in the plane.
 
 > **Basic Knowledge: Properties of Translation**
->
+> 
 > Properties of Translation.
 
 ---

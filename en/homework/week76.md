@@ -1,25 +1,25 @@
 # week76
 
 > **Basic Knowledge: Properties of Axial Symmetry**
->
+> 
 > Two figures that are axially symmetric are congruent; the axis of symmetry perpendicularly bisects the segment joining the symmetric points.
 > **Basic Knowledge: Properties of the Perpendicular Bisector**
->
+> 
 > A point on the perpendicular bisector of a segment is equidistant from its two endpoints.
 > **Basic Knowledge: Criterion for the Perpendicular Bisector**
->
+> 
 > A point equidistant from the two endpoints of a segment lies on the perpendicular bisector of that segment.
 > **Basic Knowledge: Equal Sides Opposite Equal Angles**
->
+> 
 > The two base angles of an isosceles triangle are equal.
 > **Basic Knowledge: Three Lines Coincide**
->
+> 
 > The median to the base, the altitude to the base, and the bisector of the vertex angle of an isosceles triangle coincide.
 > **Basic Knowledge: Equal Angles Opposite Equal Sides**
->
+> 
 > A triangle with two equal angles is isosceles.
 > **Basic Knowledge: Right Triangle with a $30^\circ$ Angle**
->
+> 
 > The leg opposite the $30^\circ$ acute angle equals half of the hypotenuse.
 ---
 

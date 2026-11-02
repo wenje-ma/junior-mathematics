@@ -1,13 +1,13 @@
 # week118
 
 > **Basic Knowledge: Graph of a Function**
->
+> 
 > In general, for a function, if each pair of corresponding values of the independent variable and the function is taken as the x- and y-coordinates of a point, then the figure formed in the coordinate plane by these points is the graph of this function.
 > **Basic Knowledge: Steps for Plotting Points to Draw a Function Graph**
->
+> 
 > First step: make a table; second step: plot the points; third step: connect the points.
 > **Basic Knowledge: Three Representations of a Function**
->
+> 
 > The analytical method, the tabular method, and the graphical method.
 ---
 

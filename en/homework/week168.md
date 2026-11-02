@@ -1,26 +1,26 @@
 # week168
 
 > **Basic Knowledge: Solving a Right Triangle**
->
+> 
 > In a right triangle, apart from the right angle, there are five elements in all, namely the three sides and the two acute angles. The process of finding the remaining unknown elements from the known elements of the right triangle is called solving a right triangle.
 > **Basic Knowledge: Relationships Among the Elements of a Right Triangle**
->
+> 
 > In $\text{Rt}\triangle ABC$, where $\angle C$ is the right angle and the sides opposite $\angle A$, $\angle B$, $\angle C$ are $a$, $b$, $c$, respectively:
 > (1) Relationship of the three sides: $a^{2}+b^{2}=c^{2}$ (the Pythagorean theorem);
 > (2) Relationship of the two acute angles: $\angle A+\angle B=90^{\circ}$;
 > (3) Relationship between sides and angles: $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$, $\tan A=\frac{a}{b}$ ($A$ may be replaced by $B$, while $a$ and $b$ are interchanged at the same time).
 > Knowing any two of these elements (at least one of which is a side), one can find the remaining three unknown elements.
 > **Basic Knowledge: Angle of Elevation and Angle of Depression**
->
+> 
 > Among the angles formed by the line of sight and the horizontal line, the angle above the horizontal line is called the angle of elevation, and the angle below the horizontal line is called the angle of depression.
 > **Basic Knowledge: Cosine**
->
+> 
 > In a right triangle, cos A = adjacent/hypotenuse.
 > **Basic Knowledge: Sine**
->
+> 
 > In a right triangle, sin A = opposite/hypotenuse.
 > **Basic Knowledge: Tangent**
->
+> 
 > In a right triangle, tan A = opposite/adjacent.
 
 ---

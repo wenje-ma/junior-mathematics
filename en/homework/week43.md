@@ -1,19 +1,19 @@
 # week43
 
 > **Basic Knowledge: Rectangular Coordinate System**
->
+> 
 > Draw two number lines perpendicular to each other in a plane with the same origin to form a rectangular coordinate system.
 
 > **Basic Knowledge: Coordinates of a Point**
->
+> 
 > The ordered pair $\left(x,y\right)$ is called the coordinates of a point in the plane; points correspond one-to-one with ordered pairs of real numbers.
 
 
 > **Basic Knowledge: Representing Geographic Locations with Coordinates**
->
+> 
 > By establishing a plane rectangular coordinate system, the positions of points in the plane can be represented by coordinates.
 > **Basic Knowledge: Representing Translation with Coordinates**
->
+> 
 > Representing Translation with Coordinates.
 
 ---

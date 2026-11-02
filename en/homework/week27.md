@@ -1,27 +1,27 @@
 # week27
 
 > **Basic Knowledge: Solid Figure**
->
+> 
 > A geometric figure whose parts do not all lie in the same plane is called a solid figure.
 
 > **Basic Knowledge: Net**
->
+> 
 > If the surface of a solid figure is cut open appropriately, it can be unfolded into a plane figure, called the net of the corresponding solid figure.
 
 > **Basic Knowledge: A Moving Point Forms a Line, a Moving Line Forms a Plane, a Moving Plane Forms a Solid**
->
+> 
 > A moving point forms a line, a moving line forms a plane, and a moving plane forms a solid.
 
 > **Basic Knowledge: Angle**
->
+> 
 > The figure formed by two rays with a common endpoint is called an angle.
 
 > **Basic Knowledge: Measuring Angles**
->
+> 
 > $1^{\circ}=60'$, $1'=60''$. A full angle $=360^{\circ}$.
 
 > **Basic Knowledge: A Moving Plane Forms a Solid**
->
+> 
 > A plane moving through space forms a solid, e.g. a rectangle rotating about one side forms a cylinder.
 
 ---

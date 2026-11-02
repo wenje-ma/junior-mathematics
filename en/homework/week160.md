@@ -1,21 +1,21 @@
 # week160
 
 > **Basic Knowledge: Inverse Proportional Function**
->
+> 
 > A function of the form $y=\frac{k}{x}$ (where $k$ is a constant and $k\ne0$) is called an inverse proportional function, and the range of the independent variable $x$ is all real numbers except $0$.
 > **Basic Knowledge: Principle of the Lever**
->
+> 
 > Resistance * resistance arm = effort * effort arm: F1*l1 = F2*l2.
 
 ---
 
 
 > **Basic Knowledge: Graph and Properties of the Inverse Proportional Function** 
->
+> 
 > The graph of $y=\frac{k}{x}$ is a hyperbola. When $k> 0$, the two branches lie in the first and third quadrants, and in each quadrant $y$ decreases as $x$ increases; when $k< 0$, the two branches lie in the second and fourth quadrants, and in each quadrant $y$ increases as $x$ increases.
 
 > **Basic Knowledge: Principle of the Lever** 
->
+> 
 > the resistance $\times$ the resistance arm $=$ the effort $\times$ the effort arm, i.e. $F_1l_1=F_2l_2$.
 
 ### Activity 1

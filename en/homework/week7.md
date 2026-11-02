@@ -1,23 +1,23 @@
 # week7
 
 > **Basic Knowledge: Powers**
->
+> 
 > The operation of finding the product of $n$ identical factors is called exponentiation, and the result of exponentiation is called a power. In $a^{n}$, $a$ is called the base and $n$ is called the exponent.
 
 > **Basic Knowledge: Sign Rules for Powers**
->
+> 
 > An odd power of a negative number is negative, and an even power of a negative number is positive; any positive-integer power of a positive number is positive; any positive-integer power of $0$ is $0$.
 
 > **Basic Knowledge: Order of Mixed Operations on Rational Numbers**
->
+> 
 > First exponentiation, then multiplication and division, and finally addition and subtraction; operations at the same level are carried out from left to right; if there are parentheses, first carry out the operations inside the parentheses.
 
 > **Basic Knowledge: Scientific Notation**
->
+> 
 > Expressing a number greater than $10$ in the form $a\times 10^{n}$ (where $1\le a< 10$ and $n$ is a positive integer) uses scientific notation.
 
 > **Basic Knowledge: Approximate Numbers**
->
+> 
 > When taking an approximate number by the rounding method, one says that the approximate number is accurate to the digit to which it is rounded.
 
 ---

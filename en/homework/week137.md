@@ -1,7 +1,7 @@
 # week137
 
 > **Basic Knowledge: The Parabola $y=ax^2+bx+c$**
->
+> 
 > Axis of symmetry $x=-\frac b{2a}$, vertex $\left(-\frac b{2a},\frac{4ac-b^2}{4a}\right)$. When $a< 0$, the maximum is taken at the vertex; when $a> 0$, the minimum is taken at the vertex.
 ---
 

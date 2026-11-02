@@ -1,43 +1,43 @@
 # week3
 
 > **Basic Knowledge: Positive Number**
->
+> 
 > Numbers greater than $0$ are called positive numbers.
 
 > **Basic Knowledge: Negative Number**
->
+> 
 > Numbers obtained by prefixing a positive number with the sign "$-$" are called negative numbers.
 
 > **Basic Knowledge: Representing Quantities of Opposite Meaning**
->
+> 
 > Quantities of opposite meaning are represented by positive and negative numbers respectively.
 
 > **Basic Knowledge: Integers and Fractions**
->
+> 
 > Positive integers, $0$, and negative integers are collectively called integers; positive fractions and negative fractions are collectively called fractions.
 
 > **Basic Knowledge: Rational Numbers**
->
+> 
 > Numbers that can be written in fraction form are called rational numbers.
 
 > **Basic Knowledge: Number Line**
->
+> 
 > A straight line on which an origin, a positive direction, and a unit length are specified is called a number line.
 
 > **Basic Knowledge: Opposite Numbers**
->
+> 
 > Two numbers that differ only in sign are opposites of each other; the opposite number of $0$ is $0$.
 
 > **Basic Knowledge: Absolute Value**
->
+> 
 > The distance on the number line between the point representing a number $a$ and the origin is called the absolute value of the number $a$, denoted by $\left|a\right|$.
 
 > **Basic Knowledge: Algebraic Meaning of Absolute Value**
->
+> 
 > The absolute value of a positive number is itself; the absolute value of a negative number is its opposite number; the absolute value of $0$ is $0$.
 
 > **Basic Knowledge: Comparing the Magnitude of Rational Numbers**
->
+> 
 > A positive number is greater than $0$, $0$ is greater than a negative number, and a positive number is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
 
 ---

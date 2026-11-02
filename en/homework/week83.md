@@ -1,21 +1,21 @@
 # week83
 
 > **Basic Knowledge: Factoring**
->
+> 
 > Writing a polynomial as a product of several integral expressions is called factoring this polynomial, also called decomposing the polynomial into factors. Factoring and polynomial multiplication are inverse transformations.
 > **Basic Knowledge: Method of Extracting the Common Factor**
->
+> 
 > Factor out the common factor of all terms to express the polynomial as a product.
 
 ---
 
 
 > **Basic Knowledge: Common Factor** 
->
+> 
 > A common factor shared by all terms of a polynomial is called the common factor of the terms of this polynomial.
 
 > **Basic Knowledge: Method of Extracting the Common Factor** 
->
+> 
 > If the terms of a polynomial have a common factor, this common factor can be extracted, writing the polynomial as the product of the common factor and another factor.
 
 ## Exercise 1

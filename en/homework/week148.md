@@ -1,13 +1,13 @@
 # week148
 
 > **Basic Knowledge: Axial Symmetry of a Circle**
->
+> 
 > A circle is an axially symmetric figure, and the line on which any diameter lies is an axis of symmetry of the circle.
 > **Basic Knowledge: Perpendicular Chord Theorem**
->
+> 
 > A diameter perpendicular to a chord bisects the chord and bisects the two arcs subtended by the chord.
 > **Basic Knowledge: Corollary to the Perpendicular Chord Theorem**
->
+> 
 > A diameter that bisects a chord (which is not a diameter) is perpendicular to the chord and bisects the two arcs subtended by the chord.
 ---
 

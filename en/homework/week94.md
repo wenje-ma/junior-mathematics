@@ -1,16 +1,16 @@
 # week94
 
 > **Basic Knowledge: Quadratic Radical**
->
+> 
 > An expression of the form \(\sqrt{a}\) (\(a\ge 0\)) is called a quadratic radical.
 > **Basic Knowledge: Nonnegativity of the Quadratic Radical**
->
+> 
 > When \(a\ge 0\), \(\sqrt{a}\ge 0\).
 > **Basic Knowledge: Squaring and Taking the Square Root Are Inverse I**
->
+> 
 > \((\sqrt{a})^{2}=a\) (\(a\ge 0\)).
 > **Basic Knowledge: Squaring and Taking the Square Root Are Inverse II**
->
+> 
 > \(\sqrt{a^{2}}=|a|\); when \(a\ge 0\), \(\sqrt{a^{2}}=a\), and when \(a< 0\), \(\sqrt{a^{2}}=-a\).
 ---
 

@@ -1,26 +1,26 @@
 # week36
 
 > **Basic Knowledge: Square Root**
->
+> 
 > If a number $x$ has square equal to $a$, i.e. $x^2=a$, then this number $x$ is called a square root (or second root) of $a$. The operation of finding the square root of a number is called extracting the square root, and extracting the square root and squaring are inverse operations of each other.
 
 > **Basic Knowledge: Arithmetic Square Root**
->
+> 
 > The positive square root $\sqrt a$ of a positive number $a$ is called the arithmetic square root of $a$, and $a$ is called the radicand. It is stipulated that the arithmetic square root of $0$ is $0$, i.e. $\sqrt 0=0$. The square roots of a positive number $a$ are denoted by $\pm\sqrt a$.
 
 > **Basic Knowledge: Properties of Square Roots**
->
+> 
 > Properties of Square Roots.
 > **Basic Knowledge: Relationship Between Squaring and Extracting Roots**
->
+> 
 > Relationship Between Squaring and Extracting Roots.
 > **Basic Knowledge: Size of the Arithmetic Square Root**
->
+> 
 > Size of the Arithmetic Square Root.
 
 > **Basic Knowledge: Properties of Arithmetic Square Roots**
->
-> sqrt(a^2) = |a|: it equals a when a >= 0, and -a when a < 0.
+> 
+> sqrt(a^2) = |a|: it equals a when a > = 0, and -a when a < 0.
 
 ---
 

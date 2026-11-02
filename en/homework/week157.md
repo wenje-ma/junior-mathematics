@@ -1,31 +1,31 @@
 # week157
 
 > **Basic Knowledge: Tangent Property**
->
+> 
 > A tangent line to a circle is perpendicular to the radius through the point of tangency.
 > **Basic Knowledge: Tangent Criterion**
->
+> 
 > A line passing through the outer end of a radius and perpendicular to that radius is a tangent line to the circle.
 > **Basic Knowledge: Tangent-Length Theorem**
->
+> 
 > From a point outside a circle, the two tangent segments to the circle have equal length, and the line joining the point to the center bisects the angle between the two tangent lines.
 > **Basic Knowledge: Incircle of a Triangle**
->
+> 
 > A circle tangent to all three sides of a triangle is called the incircle of the triangle, and its center is the incenter (the intersection of the three angle bisectors).
 > **Basic Knowledge: Regular Polygons and Circles**
->
+> 
 > Divide a circle into $n$ equal parts, and joining the division points in order gives a regular $n$-gon inscribed in the circle.
 > **Basic Knowledge: Arc Length Formula**
->
+> 
 > Arc length l = n*pi*R/180 where n is the central angle in degrees.
 > **Basic Knowledge: Position-Relation Criterion**
->
+> 
 > If r is the radius and d the distance from center to line: d < r means intersecting, d = r means tangent, d > r means separate.
 > **Basic Knowledge: Properties of Regular Polygons**
->
+> 
 > Regular polygons have equal sides and equal angles; they are all axisymmetric.
 > **Basic Knowledge: Sector Area Formula**
->
+> 
 > Sector Area Formula.
 
 ---

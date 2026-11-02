@@ -1,17 +1,17 @@
 # week81
 
 > **Basic Knowledge: Difference of Squares Formula**
->
+> 
 > $\left(a+b\right)\left(a-b\right)=a^2-b^2$, that is, the product of the sum of two numbers and the difference of the same two numbers equals the difference of their squares.
 ---
 
 
 > **Basic Knowledge: Perfect Square Formula** 
->
+> 
 > $\left(a+b\right)^2=a^2+2ab+b^2$, $\left(a-b\right)^2=a^2-2ab+b^2$.
 
 > **Basic Knowledge: Multiplication of a Polynomial by a Polynomial** 
->
+> 
 > First multiply each term of one polynomial by each term of the other polynomial, then add the resulting products.
 
 ### Activity 1

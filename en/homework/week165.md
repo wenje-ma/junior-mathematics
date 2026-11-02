@@ -1,10 +1,10 @@
 # week165
 
 > **Basic Knowledge: AA**
->
+> 
 > Two triangles with two pairs of corresponding angles equal are similar.
 > **Basic Knowledge: Homothetic Figures**
->
+> 
 > Similar figures whose corresponding vertices lie on lines through a common point and whose corresponding sides are parallel.
 
 ---
@@ -15,7 +15,7 @@
 
 
 > **Basic Knowledge: Homothetic Figures** 
->
+> 
 > Two figures whose corresponding vertices' connecting lines meet at the same point $O$, and for which $\frac{OA'}{OA}=\frac{OB'}{OB}=\cdots$, are called homothetic figures, with corresponding sides parallel to each other.
 
 ### Activity 1

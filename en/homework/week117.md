@@ -1,13 +1,13 @@
 # week117
 
 > **Basic Knowledge: Linear Function**
->
+> 
 > A function of the form $y=kx+b$ ($k$ and $b$ are constants, $k \neq 0$) is called a linear function.
 > **Basic Knowledge: Graph and Properties of the Linear Function**
->
+> 
 > The graph of the linear function $y=kx+b$ is a straight line. When $k> 0$, $y$ increases as $x$ increases; when $k< 0$, $y$ decreases as $x$ increases.
 > **Basic Knowledge: Linear Functions and Systems of Linear Equations in Two Variables**
->
+> 
 > The coordinates of the intersection of the graphs of two linear functions are precisely the solution of the corresponding system of linear equations in two variables.
 ---
 

@@ -1,16 +1,16 @@
 # week75
 
 > **Basic Knowledge: Axisymmetric Figure**
->
+> 
 > A figure that can be folded along a line so that the parts on both sides coincide with each other is called an axisymmetric figure, and the line is called the axis of symmetry.
 > **Basic Knowledge: Properties of Axis Symmetry**
->
+> 
 > Two figures symmetric about a line are congruent; the axis of symmetry perpendicularly bisects the segment joining the symmetric points.
 > **Basic Knowledge: Equal Sides Opposite Equal Angles**
->
+> 
 > The two base angles of an isosceles triangle are equal.
 > **Basic Knowledge: Three Lines in One**
->
+> 
 > The median on the base, the altitude on the base, and the vertex-angle bisector of an isosceles triangle coincide, and the line on which they lie is its axis of symmetry.
 ---
 

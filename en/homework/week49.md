@@ -1,16 +1,16 @@
 # week49
 
 > **Basic Knowledge: Solution of a Linear Equation in Two Variables**
->
+> 
 > The values of the two unknowns that make the two sides of the linear equation in two variables equal.
 
 > **Basic Knowledge: Solution of a System of Linear Equations in Two Variables**
->
+> 
 > The common solution of the two equations in the system of linear equations in two variables.
 
 
 > **Basic Knowledge: Solving Word Problems by Setting Up a System of Equations**
->
+> 
 > Set up two unknowns, write a system of two linear equations based on the problem, and solve by substitution or elimination.
 ---
 

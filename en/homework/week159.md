@@ -1,21 +1,21 @@
 # week159
 
 > **Basic Knowledge: Modeling with Inverse Proportional Functions in Real-World Problems**
->
+> 
 > When the product of two variables is a nonzero constant, i.e. $xy=k$ ($k\ne0$), the two variables are in an inverse proportional function relationship.
 > **Basic Knowledge: Electrical Relations**
->
+> 
 > In electricity, I*R = U where I is current, U is voltage, R is resistance.
 
 ---
 
 
 > **Basic Knowledge: Principle of the Lever** 
->
+> 
 > the resistance $\times$ the resistance arm $=$ the effort $\times$ the effort arm, i.e. $F_1l_1=F_2l_2$.
 
 > **Basic Knowledge: Electrical Relations** 
->
+> 
 > The power $P$, voltage $U$, and resistance $R$ of an electrical appliance satisfy $PR=U^2$, i.e. $P=\frac{U^2}{R}$.
 
 ## Exercise 1

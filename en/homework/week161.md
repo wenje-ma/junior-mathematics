@@ -1,17 +1,17 @@
 # week161
 
 > **Basic Knowledge: Inverse Proportional Function**
->
+> 
 > A function of the form $y=\frac{k}{x}$ (where $k$ is a constant and $k\ne0$) is called an inverse proportional function, and the range of the independent variable $x$ is all real numbers except $0$.
 > **Basic Knowledge: Graph and Properties of the Inverse Proportional Function**
->
+> 
 > The graph of y = k/x is a hyperbola. When k > 0, branches are in quadrants I and III; when k < 0, in quadrants II and IV.
 
 ---
 
 
 > **Basic Knowledge: Graph and Properties of the Inverse Proportional Function** 
->
+> 
 > The graph of $y=\frac{k}{x}$ is a hyperbola. When $k> 0$, the two branches lie in the first and third quadrants, and in each quadrant $y$ decreases as $x$ increases; when $k< 0$, the two branches lie in the second and fourth quadrants, and in each quadrant $y$ increases as $x$ increases.
 
 ## Review Problem 1

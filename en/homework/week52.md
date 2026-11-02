@@ -1,12 +1,12 @@
 # week52
 
 > **Basic Knowledge: Linear Inequality in One Variable**
->
+> 
 > An inequality that contains only one unknown, all expressions containing the unknown are integral expressions, and the degree of the unknown is $1$.
 
 
 > **Basic Knowledge: Solving a Linear Inequality in One Variable**
->
+> 
 > Use the properties of inequalities to gradually transform the inequality into the form $x> a$ (or $x< a$), thereby obtaining the solution set.
 ---
 

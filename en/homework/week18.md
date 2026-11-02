@@ -1,43 +1,43 @@
 # week18
 
 > **Basic Knowledge: Monomial**
->
+> 
 > An algebraic expression formed by the product of numbers or letters is called a monomial. A single number or a single letter is also a monomial.
 
 > **Basic Knowledge: Coefficient of a Monomial**
->
+> 
 > The numerical factor in a monomial is called the coefficient of that monomial.
 
 > **Basic Knowledge: Degree of a Monomial**
->
+> 
 > In a monomial, the sum of the exponents of all letters is called the degree of that monomial.
 
 > **Basic Knowledge: Polynomial**
->
+> 
 > The sum of several monomials is called a polynomial. Each monomial is called a term of the polynomial, and a term without a letter is called a constant term.
 
 > **Basic Knowledge: Degree of a Polynomial**
->
+> 
 > In a polynomial, the degree of the term with the highest degree is called the degree of the polynomial.
 
 > **Basic Knowledge: Integral Expression**
->
+> 
 > Monomials and polynomials are collectively called integral expressions.
 
 > **Basic Knowledge: Like Terms**
->
+> 
 > Terms that contain the same letters, with the same exponents on the same letters, are called like terms. Several constant terms are also like terms.
 
 > **Basic Knowledge: Combining Like Terms**
->
+> 
 > Combining like terms in a polynomial into a single term, the coefficient of the resulting term is the sum of the coefficients of the like terms before combining, while the letters together with their exponents remain unchanged.
 
 > **Basic Knowledge: Rule for Removing Parentheses**
->
+> 
 > Multiply the number outside the parentheses by each term inside them, then add the resulting products; in this way the parentheses can be removed.
 
 > **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**
->
+> 
 > When adding or subtracting several integral expressions, first remove any parentheses, then combine like terms.
 
 ---

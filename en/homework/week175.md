@@ -1,16 +1,16 @@
 # week175
 
 > **Basic Knowledge: Projection**
->
+> 
 > The shadow obtained by shining light on an object and projecting it onto a certain plane is called the projection of the object.
 > **Basic Knowledge: Orthogonal Projection**
->
+> 
 > The projection produced when the projection lines are perpendicular to the projection plane is called orthogonal projection.
 > **Basic Knowledge: Front View, Top View, Left View**
->
+> 
 > The front view is observed from front to back, the top view from top to bottom, and the left view from left to right.
 > **Basic Knowledge: Projection Rules for the Three Views**
->
+> 
 > Length aligned, height level, width equal. Visible outlines are drawn as solid lines, and invisible outlines as dashed lines.
 ---
 

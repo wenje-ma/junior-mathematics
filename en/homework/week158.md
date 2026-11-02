@@ -1,24 +1,24 @@
 # week158
 
 > **Basic Knowledge: Inverse Proportional Function**
->
+> 
 > In general, a function of the form $y=\frac{k}{x}$ (where $k$ is a constant and $k\ne0$) is called an inverse proportional function, where $x$ is the independent variable and $y$ is the function; the range of the independent variable $x$ is all real numbers except $0$.
 > **Basic Knowledge: Graph and Properties of the Inverse Proportional Function**
->
+> 
 > The graph of y = k/x is a hyperbola. When k > 0, branches are in quadrants I and III; when k < 0, in quadrants II and IV.
 > **Basic Knowledge: Method of Undetermined Coefficients**
->
+> 
 > Assume a function form with unknown coefficients, then solve for them using given points.
 
 ---
 
 
 > **Basic Knowledge: Graph and Properties of the Inverse Proportional Function** 
->
+> 
 > The graph of the inverse proportional function $y=\frac{k}{x}$ is a hyperbola. When $k> 0$, the two branches of the hyperbola lie in the first and third quadrants, respectively, and in each quadrant, $y$ decreases as $x$ increases; when $k< 0$, the two branches of the hyperbola lie in the second and fourth quadrants, respectively, and in each quadrant, $y$ increases as $x$ increases.
 
 > **Basic Knowledge: Method of Undetermined Coefficients** 
->
+> 
 > Given the coordinates of a point on the graph of an inverse proportional function, substituting into $y=\frac{k}{x}$ yields $k$, thereby determining the function expression.
 
 ## Exercise 1

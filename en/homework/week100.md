@@ -1,10 +1,10 @@
 # week100
 
 > **Basic Knowledge: Converse of the Pythagorean Theorem**
->
+> 
 > If the three side lengths \(a,b,c\) of a triangle satisfy \(a^{2}+b^{2}=c^{2}\), then this triangle is a right triangle.
 > **Basic Knowledge: Pythagorean Triples**
->
+> 
 > Three positive integers that can be the three side lengths of a right triangle are called a Pythagorean triple.
 ---
 

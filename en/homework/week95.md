@@ -1,19 +1,19 @@
 # week95
 
 > **Basic Knowledge: Multiplication**
->
+> 
 > \(\sqrt{a}\cdot\sqrt{b}=\sqrt{ab}\) (\(a\ge 0,\ b\ge 0\)).
 > **Basic Knowledge: Multiplication in Reverse**
->
+> 
 > \(\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}\) (\(a\ge 0,\ b\ge 0\)).
 > **Basic Knowledge: Division**
->
+> 
 > \(\frac{\sqrt{a}}{\sqrt{b}}=\sqrt{\frac{a}{b}}\) (\(a\ge 0,\ b> 0\)).
 > **Basic Knowledge: Division in Reverse**
->
+> 
 > \(\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}\) (\(a\ge 0,\ b> 0\)).
 > **Basic Knowledge: Simplest Quadratic Radical**
->
+> 
 > A quadratic radical whose radicand contains no denominator and contains no factor or expression that can be taken out of the radical is called a simplest quadratic radical.
 ---
 

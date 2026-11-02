@@ -1,30 +1,30 @@
 # week19
 
 > **Basic Knowledge: Equation**
->
+> 
 > First set up a letter to represent the unknown, then according to the equality relation in the problem, write out an equality containing the unknown; such an equality is called an equation.
 
 > **Basic Knowledge: Solution of an Equation**
->
+> 
 > The value of the unknown that makes the values of the left and right sides of the equation equal is called the solution of the equation. The process of finding the solution of an equation is called solving the equation.
 
 > **Basic Knowledge: Linear Equation in One Variable**
->
+> 
 > An equation that contains only one unknown (variable), in which all expressions containing the unknown are integral expressions and the degree of the unknown is $1$, is called a linear equation in one variable.
 
 > **Basic Knowledge: Properties of Equality 1**
->
+> 
 > Adding (or subtracting) the same number (or expression) to both sides of an equality keeps the result equal. If $a=b$, then $a\pm c=b\pm c$.
 
 > **Basic Knowledge: Properties of Equality 2**
->
+> 
 > Multiplying both sides of an equality by the same number, or dividing by the same number not equal to $0$, keeps the result equal. If $a=b$, then $ac=bc$; if $a=b$, $c\ne0$, then $\frac{a}{c}=\frac{b}{c}$.
 
 > **Basic Knowledge: Combining Like Terms**
->
+> 
 > Combining like terms in a polynomial into a single term.
 > **Basic Knowledge: Transposition Rule**
->
+> 
 > Moving a term from one side of an equation to the other while changing its sign.
 
 ---

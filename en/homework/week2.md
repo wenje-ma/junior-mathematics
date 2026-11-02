@@ -1,31 +1,31 @@
 # week2
 
 > **Basic Knowledge: Integers and Fractions**
->
+> 
 > Positive integers, $0$, and negative integers are collectively called integers; positive fractions and negative fractions are collectively called fractions.
 
 > **Basic Knowledge: Rational Numbers**
->
+> 
 > Numbers that can be written in fraction form are called rational numbers. Among them, numbers that can be written as positive fractions are positive rational numbers, and numbers that can be written as negative fractions are negative rational numbers.
 
 > **Basic Knowledge: Number Line**
->
+> 
 > A straight line on which an origin, a positive direction, and a unit length are specified is called a number line. On the number line, the origin divides the number line (excluding the origin) into the positive half-axis and the negative half-axis.
 
 > **Basic Knowledge: Opposite Numbers**
->
+> 
 > Two numbers that differ only in sign are opposites of each other. The opposite number of $0$ is $0$. Prefixing any number with the sign "$-$" gives the opposite number of the original number.
 
 > **Basic Knowledge: Absolute Value**
->
+> 
 > The distance on the number line between the point representing a number $a$ and the origin is called the absolute value of the number $a$, denoted by $\left|a\right|$.
 
 > **Basic Knowledge: Algebraic Meaning of Absolute Value**
->
+> 
 > The absolute value of a positive number is the number itself; the absolute value of a negative number is its opposite number; the absolute value of $0$ is $0$. That is, if $a> 0$, then $\left|a\right|=a$; if $a=0$, then $\left|a\right|=0$; if $a< 0$, then $\left|a\right|=-a$.
 
 > **Basic Knowledge: Comparing the Magnitude of Rational Numbers**
->
+> 
 > On the number line, the order of rational numbers from left to right is exactly the order from smallest to largest; that is, a number on the left is smaller than a number on the right. In general, a positive number is greater than $0$, $0$ is greater than a negative number, and a positive number is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
 
 ---
