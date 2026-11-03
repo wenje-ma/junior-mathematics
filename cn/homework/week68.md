@@ -1,24 +1,5 @@
 # week68
 
-
-> **基础知识: SAS**
-> 
-> 两边及其夹角分别相等的两个三角形全等 (可以简写成 "边角边" 或 "SAS").
-> **基础知识: 全等三角形的性质**
-> 
-> 全等三角形的对应边相等, 全等三角形的对应角相等.
-> **基础知识: AAS**
-> 
-> 两角分别相等且其中一组等角的对边相等的两个三角形全等 (可以简写成 "角角边" 或 "AAS").
-> **基础知识: ASA**
-> 
-> 两角及其夹边分别相等的两个三角形全等 (可以简写成 "角边角" 或 "ASA").
-> **基础知识: SSS**
-> 
-> 三边分别相等的两个三角形全等 (可以简写成 "边边边" 或 "SSS").
-> **基础知识: HL**
-> 
-> 斜边和一条直角边分别相等的两个直角三角形全等 (可以简写成 "斜边, 直角边" 或 "HL").
 ---
 
 ## 练习一
@@ -27,10 +8,9 @@
 
 ### 解答 练习一
 
-在 $\triangle ABC$ 和 $\triangle DEC$ 中, $CA=CD$, $CB=CE$, 且 $\angle ACB$ 与 $\angle DCE$ 为对顶角, 相等. 由**基础知识: SAS**, $\triangle ABC\cong\triangle DEC$.
+在 $\triangle ABC$ 和 $\triangle DEC$ 中, $CA=CD$, $CB=CE$, 且 $\angle ACB$ 与 $\angle DCE$ 为对顶角, 相等. 由SAS, $\triangle ABC\cong\triangle DEC$.
 
-由**基础知识: 全等三角形的性质**, 对应边 $AB=DE$, 故量出 $DE$ 的长就是 $A$, $B$ 的距离. $\blacksquare$
-
+由全等三角形的性质, 对应边 $AB=DE$, 故量出 $DE$ 的长就是 $A$, $B$ 的距离. $\blacksquare$
 
 ---
 
@@ -40,10 +20,9 @@
 
 ### 解答 练习二
 
-由 $BE=CF$, 得 $BE+EF=CF+EF$, 即 $BF=CE$. 在 $\triangle ABF$ 和 $\triangle DCE$ 中, $AB=DC$, $\angle B=\angle C$, $BF=CE$, 由**基础知识: SAS**, $\triangle ABF\cong\triangle DCE$.
+由 $BE=CF$, 得 $BE+EF=CF+EF$, 即 $BF=CE$. 在 $\triangle ABF$ 和 $\triangle DCE$ 中, $AB=DC$, $\angle B=\angle C$, $BF=CE$, 由SAS, $\triangle ABF\cong\triangle DCE$.
 
-由**基础知识: 全等三角形的性质**, 对应角 $\angle A=\angle D$. $\blacksquare$
-
+由全等三角形的性质, 对应角 $\angle A=\angle D$. $\blacksquare$
 
 ---
 
@@ -53,10 +32,9 @@
 
 ### 解答 练习三
 
-由 $AB\perp BC$, $AD\perp DC$, 得 $\angle B=\angle D=90^\circ$. 在 $\triangle ABC$ 和 $\triangle ADC$ 中, $\angle 1=\angle 2$, $\angle B=\angle D$, $AC$ 为公共边, 由**基础知识: AAS**, $\triangle ABC\cong\triangle ADC$.
+由 $AB\perp BC$, $AD\perp DC$, 得 $\angle B=\angle D=90^\circ$. 在 $\triangle ABC$ 和 $\triangle ADC$ 中, $\angle 1=\angle 2$, $\angle B=\angle D$, $AC$ 为公共边, 由AAS, $\triangle ABC\cong\triangle ADC$.
 
-由**基础知识: 全等三角形的性质**, 对应边 $AB=AD$. $\blacksquare$
-
+由全等三角形的性质, 对应边 $AB=AD$. $\blacksquare$
 
 ---
 
@@ -66,10 +44,9 @@
 
 ### 解答 练习四
 
-由 $AB\perp BF$, $DE\perp BF$, 得 $\angle B=\angle D=90^\circ$. 在 $\triangle ABC$ 和 $\triangle EDC$ 中, $BC=CD$, $\angle ACB=\angle ECD$ (对顶角), $\angle B=\angle D$, 由**基础知识: ASA**, $\triangle ABC\cong\triangle EDC$.
+由 $AB\perp BF$, $DE\perp BF$, 得 $\angle B=\angle D=90^\circ$. 在 $\triangle ABC$ 和 $\triangle EDC$ 中, $BC=CD$, $\angle ACB=\angle ECD$ (对顶角), $\angle B=\angle D$, 由ASA, $\triangle ABC\cong\triangle EDC$.
 
-由**基础知识: 全等三角形的性质**, 对应边 $AB=DE$, 故测得的 $DE$ 长就是 $AB$ 的长. $\blacksquare$
-
+由全等三角形的性质, 对应边 $AB=DE$, 故测得的 $DE$ 长就是 $AB$ 的长. $\blacksquare$
 
 ---
 
@@ -79,10 +56,9 @@
 
 ### 解答 练习五
 
-在 $\triangle ABC$ 和 $\triangle BAD$ 中, $AC=BD$, $BC=AD$, $AB$ 为公共边, 由**基础知识: SSS**, $\triangle ABC\cong\triangle BAD$.
+在 $\triangle ABC$ 和 $\triangle BAD$ 中, $AC=BD$, $BC=AD$, $AB$ 为公共边, 由SSS, $\triangle ABC\cong\triangle BAD$.
 
-由**基础知识: 全等三角形的性质**, 对应角 $\angle ABC=\angle BAD$. $\blacksquare$
-
+由全等三角形的性质, 对应角 $\angle ABC=\angle BAD$. $\blacksquare$
 
 ---
 
@@ -92,10 +68,9 @@
 
 ### 解答 练习六
 
-在 $\triangle OMC$ 和 $\triangle ONC$ 中, $OM=ON$, $CM=CN$ (角尺相同刻度), $OC$ 为公共边, 由**基础知识: SSS**, $\triangle OMC\cong\triangle ONC$.
+在 $\triangle OMC$ 和 $\triangle ONC$ 中, $OM=ON$, $CM=CN$ (角尺相同刻度), $OC$ 为公共边, 由SSS, $\triangle OMC\cong\triangle ONC$.
 
-由**基础知识: 全等三角形的性质**, 对应角 $\angle MOC=\angle NOC$, 故 $OC$ 平分 $\angle AOB$. $\blacksquare$
-
+由全等三角形的性质, 对应角 $\angle MOC=\angle NOC$, 故 $OC$ 平分 $\angle AOB$. $\blacksquare$
 
 ---
 
@@ -105,10 +80,9 @@
 
 ### 解答 练习七
 
-相等. 由 $C$ 是 $AB$ 中点, 得 $CA=CB$. 两人速度相同且同时到达, 故 $CD=CE$. 在 $\text{Rt}\triangle ACD$ 和 $\text{Rt}\triangle BCE$ 中, 斜边 $CD=CE$, 直角边 $CA=CB$, 由**基础知识: HL**, $\text{Rt}\triangle ACD\cong\text{Rt}\triangle BCE$.
+相等. 由 $C$ 是 $AB$ 中点, 得 $CA=CB$. 两人速度相同且同时到达, 故 $CD=CE$. 在 $\text{Rt}\triangle ACD$ 和 $\text{Rt}\triangle BCE$ 中, 斜边 $CD=CE$, 直角边 $CA=CB$, 由HL, $\text{Rt}\triangle ACD\cong\text{Rt}\triangle BCE$.
 
-由**基础知识**, 对应直角边 $AD=BE$, 即 $D$, $E$ 到路段 $AB$ 的距离相等. $\blacksquare$
-
+由基础知识, 对应直角边 $AD=BE$, 即 $D$, $E$ 到路段 $AB$ 的距离相等. $\blacksquare$
 
 ---
 
@@ -118,10 +92,9 @@
 
 ### 解答 练习八
 
-由 $AE\perp BC$, $DF\perp BC$, 得 $\angle AEB=\angle DFC=90^\circ$. 由 $CE=BF$, 得 $CE-EF=BF-EF$, 即 $CF=BE$. 在 $\text{Rt}\triangle ABE$ 和 $\text{Rt}\triangle DCF$ 中, 斜边 $AB=CD$, 直角边 $BE=CF$, 由**基础知识: HL**, $\text{Rt}\triangle ABE\cong\text{Rt}\triangle DCF$.
+由 $AE\perp BC$, $DF\perp BC$, 得 $\angle AEB=\angle DFC=90^\circ$. 由 $CE=BF$, 得 $CE-EF=BF-EF$, 即 $CF=BE$. 在 $\text{Rt}\triangle ABE$ 和 $\text{Rt}\triangle DCF$ 中, 斜边 $AB=CD$, 直角边 $BE=CF$, 由HL, $\text{Rt}\triangle ABE\cong\text{Rt}\triangle DCF$.
 
-由**基础知识**, 对应直角边 $AE=DF$. $\blacksquare$
-
+由基础知识, 对应直角边 $AE=DF$. $\blacksquare$
 
 ---
 
@@ -131,10 +104,9 @@
 
 ### 解答 习题一
 
-由 $M$ 是 $AB$ 中点, 得 $AM=BM$. 在 $\triangle AMC$ 和 $\triangle BMD$ 中, $AM=BM$, $\angle AMC=\angle BMD$, $MC=MD$, 由**基础知识: SAS**, $\triangle AMC\cong\triangle BMD$.
+由 $M$ 是 $AB$ 中点, 得 $AM=BM$. 在 $\triangle AMC$ 和 $\triangle BMD$ 中, $AM=BM$, $\angle AMC=\angle BMD$, $MC=MD$, 由SAS, $\triangle AMC\cong\triangle BMD$.
 
-由**基础知识**, 对应边 $AC=BD$. $\blacksquare$
-
+由基础知识, 对应边 $AC=BD$. $\blacksquare$
 
 ---
 
@@ -144,10 +116,9 @@
 
 ### 解答 习题二
 
-在 $\triangle ABE$ 和 $\triangle ACD$ 中, $AB=AC$, $\angle A$ 为公共角, $AE=AD$, 由**基础知识: SAS**, $\triangle ABE\cong\triangle ACD$.
+在 $\triangle ABE$ 和 $\triangle ACD$ 中, $AB=AC$, $\angle A$ 为公共角, $AE=AD$, 由SAS, $\triangle ABE\cong\triangle ACD$.
 
-由**基础知识**, 对应角 $\angle B=\angle C$. $\blacksquare$
-
+由基础知识, 对应角 $\angle B=\angle C$. $\blacksquare$
 
 ---
 
@@ -157,10 +128,9 @@
 
 ### 解答 习题三
 
-只需测量内槽对应边 $CD$ 的长. 设两钢条交点为 $O$, 则 $O$ 是两钢条中点, 故 $OA=OD$, $OB=OC$. 在 $\triangle AOB$ 和 $\triangle DOC$ 中, $OA=OD$, $\angle AOB=\angle DOC$ (对顶角), $OB=OC$, 由**基础知识: SAS**, $\triangle AOB\cong\triangle DOC$.
+只需测量内槽对应边 $CD$ 的长. 设两钢条交点为 $O$, 则 $O$ 是两钢条中点, 故 $OA=OD$, $OB=OC$. 在 $\triangle AOB$ 和 $\triangle DOC$ 中, $OA=OD$, $\angle AOB=\angle DOC$ (对顶角), $OB=OC$, 由SAS, $\triangle AOB\cong\triangle DOC$.
 
-由**基础知识**, 对应边 $AB=CD$, 故量出 $CD$ 即得内槽宽 $AB$. $\blacksquare$
-
+由基础知识, 对应边 $AB=CD$, 故量出 $CD$ 即得内槽宽 $AB$. $\blacksquare$
 
 ---
 
@@ -170,10 +140,9 @@
 
 ### 解答 习题四
 
-在 $\triangle ABC$ 和 $\triangle ABD$ 中, $\angle 3=\angle 4$, $AB$ 为公共边, $\angle ABC=\angle ABD$ (由 $\angle 1=\angle 2$ 推得), 由**基础知识: ASA**, $\triangle ABC\cong\triangle ABD$.
+在 $\triangle ABC$ 和 $\triangle ABD$ 中, $\angle 3=\angle 4$, $AB$ 为公共边, $\angle ABC=\angle ABD$ (由 $\angle 1=\angle 2$ 推得), 由ASA, $\triangle ABC\cong\triangle ABD$.
 
-由**基础知识**, 对应边 $AC=AD$. $\blacksquare$
-
+由基础知识, 对应边 $AC=AD$. $\blacksquare$
 
 ---
 
@@ -183,10 +152,9 @@
 
 ### 解答 习题五
 
-在 $\triangle ABC$ 和 $\triangle CDA$ 中, $\angle 1=\angle 2$, $\angle B=\angle D$, $AC$ 为公共边, 由**基础知识: AAS**, $\triangle ABC\cong\triangle CDA$.
+在 $\triangle ABC$ 和 $\triangle CDA$ 中, $\angle 1=\angle 2$, $\angle B=\angle D$, $AC$ 为公共边, 由AAS, $\triangle ABC\cong\triangle CDA$.
 
-由**基础知识**, 对应边 $AB=CD$. $\blacksquare$
-
+由基础知识, 对应边 $AB=CD$. $\blacksquare$
 
 ---
 
@@ -196,10 +164,9 @@
 
 ### 解答 习题六
 
-相等. 由 $CA=CB$, 知 $\triangle ABC$ 为等腰三角形, $\angle CAB=\angle CBA$. 又 $AD\perp BC$, $BE\perp AC$, 故 $\angle ADC=\angle BEC=90^\circ$. 在 $\triangle ACD$ 和 $\triangle BCE$ 中, $\angle ADC=\angle BEC$, $\angle ACD=\angle BCE$ (公共), $CA=CB$, 由**基础知识: AAS**, $\triangle ACD\cong\triangle BCE$.
+相等. 由 $CA=CB$, 知 $\triangle ABC$ 为等腰三角形, $\angle CAB=\angle CBA$. 又 $AD\perp BC$, $BE\perp AC$, 故 $\angle ADC=\angle BEC=90^\circ$. 在 $\triangle ACD$ 和 $\triangle BCE$ 中, $\angle ADC=\angle BEC$, $\angle ACD=\angle BCE$ (公共), $CA=CB$, 由AAS, $\triangle ACD\cong\triangle BCE$.
 
-由**基础知识**, 对应边 $AD=BE$. $\blacksquare$
-
+由基础知识, 对应边 $AD=BE$. $\blacksquare$
 
 ---
 
@@ -209,10 +176,9 @@
 
 ### 解答 习题七
 
-在 $\triangle ABC$ 和 $\triangle ADE$ 中, $AB=AD$, $AC=AE$, $BC=DE$, 由**基础知识: SSS**, $\triangle ABC\cong\triangle ADE$.
+在 $\triangle ABC$ 和 $\triangle ADE$ 中, $AB=AD$, $AC=AE$, $BC=DE$, 由SSS, $\triangle ABC\cong\triangle ADE$.
 
-由**基础知识**, 对应角 $\angle BAC=\angle DAE$. $\blacksquare$
-
+由基础知识, 对应角 $\angle BAC=\angle DAE$. $\blacksquare$
 
 ---
 
@@ -222,10 +188,9 @@
 
 ### 解答 习题八
 
-在 $\triangle ABC$ 和 $\triangle ADC$ 中, $AB=AD$, $BC=DC$, $AC$ 为公共边, 由**基础知识: SSS**, $\triangle ABC\cong\triangle ADC$.
+在 $\triangle ABC$ 和 $\triangle ADC$ 中, $AB=AD$, $BC=DC$, $AC$ 为公共边, 由SSS, $\triangle ABC\cong\triangle ADC$.
 
-由**基础知识**, 对应角 $\angle BAC=\angle DAC$, 故 $AE$ 平分该角. $\blacksquare$
-
+由基础知识, 对应角 $\angle BAC=\angle DAC$, 故 $AE$ 平分该角. $\blacksquare$
 
 ---
 
@@ -237,7 +202,6 @@
 
 以 $O$ 为顶点作一个角等于 $\angle AOB$ 的同位角: 利用作一个角等于已知角的尺规方法, 过 $C$ 作 $\angle BCD$ 等于 $\angle BOA$, 使这两个角为同位角, 则 $CD\parallel OA$. $\blacksquare$
 
-
 ---
 
 ## 习题十
@@ -248,7 +212,6 @@
 
 先利用作一个角等于已知角的方法, 在 $AB$ 与 $C$ 异侧作 $\angle BAD=\angle BAC$, 再在射线 $AD$ 上截取 $AD=AC$, 连接 $BD$, 即得所求的 $\triangle ABD$. $\blacksquare$
 
-
 ---
 
 ## 习题十一
@@ -257,10 +220,9 @@
 
 ### 解答 习题十一
 
-由 $AD$ 是高, 得 $\angle ADB=\angle ADC=90^\circ$. 在 $\text{Rt}\triangle ABD$ 和 $\text{Rt}\triangle ACD$ 中, 斜边 $AB=AC$, 直角边 $AD$ 为公共边, 由**基础知识: HL**, $\text{Rt}\triangle ABD\cong\text{Rt}\triangle ACD$.
+由 $AD$ 是高, 得 $\angle ADB=\angle ADC=90^\circ$. 在 $\text{Rt}\triangle ABD$ 和 $\text{Rt}\triangle ACD$ 中, 斜边 $AB=AC$, 直角边 $AD$ 为公共边, 由HL, $\text{Rt}\triangle ABD\cong\text{Rt}\triangle ACD$.
 
-由**基础知识**, 对应边 $BD=CD$, 对应角 $\angle BAD=\angle CAD$. $\blacksquare$
-
+由基础知识, 对应边 $BD=CD$, 对应角 $\angle BAD=\angle CAD$. $\blacksquare$
 
 ---
 
@@ -270,10 +232,9 @@
 
 ### 解答 习题十二
 
-由 $AC\perp CB$, $DB\perp CB$, 得 $\angle ACB=\angle DBC=90^\circ$. 在 $\text{Rt}\triangle ABC$ 和 $\text{Rt}\triangle DCB$ 中, 斜边 $AB=DC$, 直角边 $BC$ 为公共边, 由**基础知识: HL**, $\text{Rt}\triangle ABC\cong\text{Rt}\triangle DCB$.
+由 $AC\perp CB$, $DB\perp CB$, 得 $\angle ACB=\angle DBC=90^\circ$. 在 $\text{Rt}\triangle ABC$ 和 $\text{Rt}\triangle DCB$ 中, 斜边 $AB=DC$, 直角边 $BC$ 为公共边, 由HL, $\text{Rt}\triangle ABC\cong\text{Rt}\triangle DCB$.
 
-由**基础知识**, 对应角 $\angle ABC=\angle DCB$. 两边分别减去直角 $\angle CBD$ 与 $\angle ACB$, 得 $\angle ABD=\angle ACD$. $\blacksquare$
-
+由基础知识, 对应角 $\angle ABC=\angle DCB$. 两边分别减去直角 $\angle CBD$ 与 $\angle ACB$, 得 $\angle ABD=\angle ACD$. $\blacksquare$
 
 ---
 
@@ -283,10 +244,9 @@
 
 ### 解答 习题十三
 
-由 $BE=CF$, 得 $BE+EC=CF+EC$, 即 $BC=EF$. 在 $\triangle ABC$ 和 $\triangle DEF$ 中, $AB=DE$, $AC=DF$, $BC=EF$, 由**基础知识: SSS**, $\triangle ABC\cong\triangle DEF$.
+由 $BE=CF$, 得 $BE+EC=CF+EC$, 即 $BC=EF$. 在 $\triangle ABC$ 和 $\triangle DEF$ 中, $AB=DE$, $AC=DF$, $BC=EF$, 由SSS, $\triangle ABC\cong\triangle DEF$.
 
-由**基础知识**, 对应角 $\angle A=\angle D$. $\blacksquare$
-
+由基础知识, 对应角 $\angle A=\angle D$. $\blacksquare$
 
 ---
 
@@ -296,10 +256,9 @@
 
 ### 解答 习题十四
 
-在 $\triangle AOB$ 和 $\triangle COD$ 中, $OA=OC$, $\angle AOB=\angle COD$ (对顶角), $OB=OD$, 由**基础知识: SAS**, $\triangle AOB\cong\triangle COD$.
+在 $\triangle AOB$ 和 $\triangle COD$ 中, $OA=OC$, $\angle AOB=\angle COD$ (对顶角), $OB=OD$, 由SAS, $\triangle AOB\cong\triangle COD$.
 
-由**基础知识**, 对应角 $\angle A=\angle C$, 这是内错角, 故 $AB\parallel CD$. $\blacksquare$
-
+由基础知识, 对应角 $\angle A=\angle C$, 这是内错角, 故 $AB\parallel CD$. $\blacksquare$
 
 ---
 
@@ -309,10 +268,9 @@
 
 ### 解答 习题十五
 
-由 $FB=CE$, 得 $FB+FC=CE+FC$, 即 $BC=EF$. 由 $AB\parallel DE$, 得 $\angle B=\angle E$; 由 $AC\parallel DF$, 得 $\angle ACB=\angle DFE$. 在 $\triangle ABC$ 和 $\triangle DEF$ 中, $\angle B=\angle E$, $BC=EF$, $\angle ACB=\angle DFE$, 由**基础知识: ASA**, $\triangle ABC\cong\triangle DEF$.
+由 $FB=CE$, 得 $FB+FC=CE+FC$, 即 $BC=EF$. 由 $AB\parallel DE$, 得 $\angle B=\angle E$; 由 $AC\parallel DF$, 得 $\angle ACB=\angle DFE$. 在 $\triangle ABC$ 和 $\triangle DEF$ 中, $\angle B=\angle E$, $BC=EF$, $\angle ACB=\angle DFE$, 由ASA, $\triangle ABC\cong\triangle DEF$.
 
-由**基础知识**, 对应边 $AB=DE$, $AC=DF$. $\blacksquare$
-
+由基础知识, 对应边 $AB=DE$, $AC=DF$. $\blacksquare$
 
 ---
 
@@ -324,10 +282,9 @@
 
 由 $\triangle ABC\cong\triangle A'B'C'$, 得 $AB=A'B'$, $\angle B=\angle B'$, $\angle BAC=\angle B'A'C'$. 由 $AD$, $A'D'$ 是对应角平分线, 得 $\angle BAD=\frac{1}{2}\angle BAC$, $\angle B'A'D'=\frac{1}{2}\angle B'A'C'$, 故 $\angle BAD=\angle B'A'D'$.
 
-在 $\triangle ABD$ 和 $\triangle A'B'D'$ 中, $\angle BAD=\angle B'A'D'$, $AB=A'B'$, $\angle B=\angle B'$, 由**基础知识: ASA**, $\triangle ABD\cong\triangle A'B'D'$.
+在 $\triangle ABD$ 和 $\triangle A'B'D'$ 中, $\angle BAD=\angle B'A'D'$, $AB=A'B'$, $\angle B=\angle B'$, 由ASA, $\triangle ABD\cong\triangle A'B'D'$.
 
-由**基础知识**, 对应边 $AD=A'D'$. $\blacksquare$
-
+由基础知识, 对应边 $AD=A'D'$. $\blacksquare$
 
 ---
 
@@ -337,10 +294,9 @@
 
 ### 解答 习题十七
 
-$AE=CE$. 证明: 由 $FC\parallel AB$, 得 $\angle ADE=\angle CFE$. 在 $\triangle ADE$ 和 $\triangle CFE$ 中, $\angle AED=\angle CEF$ (对顶角), $DE=FE$, $\angle ADE=\angle CFE$, 由**基础知识: ASA**, $\triangle ADE\cong\triangle CFE$.
+$AE=CE$. 证明: 由 $FC\parallel AB$, 得 $\angle ADE=\angle CFE$. 在 $\triangle ADE$ 和 $\triangle CFE$ 中, $\angle AED=\angle CEF$ (对顶角), $DE=FE$, $\angle ADE=\angle CFE$, 由ASA, $\triangle ADE\cong\triangle CFE$.
 
-由**基础知识**, 对应边 $AE=CE$. $\blacksquare$
-
+由基础知识, 对应边 $AE=CE$. $\blacksquare$
 
 ---
 
@@ -352,11 +308,11 @@ $AE=CE$. 证明: 由 $FC\parallel AB$, 得 $\angle ADE=\angle CFE$. 在 $\triang
 
 图中有 $\triangle ABD\cong\triangle ACD$, $\triangle ABE\cong\triangle ACE$, $\triangle DBE\cong\triangle DCE$.
 
-由 $D$ 是 $BC$ 中点, 得 $BD=CD$. 在 $\triangle ABD$ 和 $\triangle ACD$ 中, $AB=AC$, $BD=CD$, $AD$ 公共, 由**基础知识: SSS**, $\triangle ABD\cong\triangle ACD$, 得 $\angle BAE=\angle CAE$.
+由 $D$ 是 $BC$ 中点, 得 $BD=CD$. 在 $\triangle ABD$ 和 $\triangle ACD$ 中, $AB=AC$, $BD=CD$, $AD$ 公共, 由SSS, $\triangle ABD\cong\triangle ACD$, 得 $\angle BAE=\angle CAE$.
 
-在 $\triangle ABE$ 和 $\triangle ACE$ 中, $AB=AC$, $\angle BAE=\angle CAE$, $AE$ 公共, 由**基础知识: SAS**, $\triangle ABE\cong\triangle ACE$, 得 $BE=CE$.
+在 $\triangle ABE$ 和 $\triangle ACE$ 中, $AB=AC$, $\angle BAE=\angle CAE$, $AE$ 公共, 由SAS, $\triangle ABE\cong\triangle ACE$, 得 $BE=CE$.
 
-在 $\triangle DBE$ 和 $\triangle DCE$ 中, $BD=CD$, $BE=CE$, $DE$ 公共, 由**基础知识: SSS**, $\triangle DBE\cong\triangle DCE$. $\blacksquare$
+在 $\triangle DBE$ 和 $\triangle DCE$ 中, $BD=CD$, $BE=CE$, $DE$ 公共, 由SSS, $\triangle DBE\cong\triangle DCE$. $\blacksquare$
 
 ## 信息技术应用一
 

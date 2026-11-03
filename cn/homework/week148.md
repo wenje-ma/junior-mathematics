@@ -1,16 +1,6 @@
 # week148
 
-> **基础知识: 圆的轴对称性**
-> 
-> 圆是轴对称图形, 任何一条直径所在直线都是圆的对称轴.
-> **基础知识: 垂径定理**
-> 
-> 垂直于弦的直径平分弦, 并且平分弦所对的两条弧.
-> **基础知识: 垂径定理推论**
-> 
-> 平分弦 (不是直径) 的直径垂直于弦, 并且平分弦所对的两条弧.
 ---
-
 
 ## 练习一
 
@@ -18,7 +8,7 @@
 
 ### 解答 练习一
 
-由**基础知识: 垂径定理**.
+由垂径定理.
 
 过 $O$ 作 $OH\perp AB$ 于 $H$. 在大圆中, $OH$ 平分 $AB$, 故 $AH=BH$; 在小圆中, $OH$ 平分 $CD$, 故 $CH=DH$. 两式相减, $AH-CH=BH-DH$, 即 $AC=BD$. $\blacksquare$
 
@@ -28,7 +18,7 @@
 
 ### 解答 练习二
 
-由**基础知识: 垂径定理**.
+由垂径定理.
 
 $OD\perp AB$, $OE\perp AC$, 故 $\angle ADO=\angle AEO=90^\circ$, 又 $\angle DAE=90^\circ$, 四边形 $ADOE$ 为矩形. 由 $AB=AC$, 垂径定理得 $AD=\frac12 AB$, $AE=\frac12 AC$, 故 $AD=AE$. 矩形 $ADOE$ 邻边相等, 故为正方形. $\blacksquare$
 
@@ -40,7 +30,7 @@ $OD\perp AB$, $OE\perp AC$, 故 $\angle ADO=\angle AEO=90^\circ$, 又 $\angle DA
 
 ### 解答 练习三
 
-由**基础知识: 垂径定理**, $EM\perp CD$, $M$ 为垂足.
+由垂径定理, $EM\perp CD$, $M$ 为垂足.
 
 设半径为 $R$, 则 $OC=R$, $OM=EM-R=6-R$, $CM=\frac12 CD=2$. 在 $\text{Rt}\triangle OMC$ 中,
 

@@ -1,19 +1,6 @@
 # week144
 
-> **Basic Knowledge: Central Symmetry**
-> 
-> If a figure is rotated about a point through $180^\circ$ and the rotated figure can coincide with another figure, then the two figures are said to be symmetric about this point, or centrally symmetric; this point is called the center of symmetry, and the points that coincide after rotation are called symmetric points.
-> **Basic Knowledge: Properties of Central Symmetry**
-> 
-> For two figures that are centrally symmetric, the segments joining symmetric points pass through the center of symmetry and are bisected by it; the two centrally symmetric figures are congruent.
-> **Basic Knowledge: Centrally Symmetric Figure**
-> 
-> If a figure is rotated about a point through $180^\circ$ and the rotated figure can coincide with the original figure, then the figure is called a centrally symmetric figure, and this point is its center of symmetry.
-> **Basic Knowledge: Coordinates of Points Symmetric about the Origin**
-> 
-> When two points are symmetric about the origin, their coordinates have opposite signs, i.e. the point symmetric to $P\left(x,y\right)$ about the origin is $P'\left(-x,-y\right)$.
 ---
-
 
 ## Exercise 1
 
@@ -21,7 +8,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Properties of Central Symmetry**, the segments joining symmetric points pass through the center of symmetry.
+By Properties of Central Symmetry, the segments joining symmetric points pass through the center of symmetry.
 
 Join the two pairs of corresponding vertices; the intersection of the two resulting segments is the center of symmetry. $\blacksquare$
 
@@ -31,7 +18,7 @@ Join the two pairs of corresponding vertices; the intersection of the two result
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Properties of Central Symmetry**, construct the symmetric points of each key point about $O$ and then join them.
+By Properties of Central Symmetry, construct the symmetric points of each key point about $O$ and then join them.
 
 Join $O$ to each vertex; on the extended ray take the corresponding point such that $OA'=OA$; joining in order gives the figure symmetric about $O$. $\blacksquare$
 
@@ -41,7 +28,7 @@ Join $O$ to each vertex; on the extended ray take the corresponding point such t
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Centrally Symmetric Figure**.
+By Centrally Symmetric Figure.
 
 A circle coincides with itself after being rotated about its center through $180^\circ$, so a circle is a centrally symmetric figure, with the center of the circle as its center of symmetry. $\blacksquare$
 
@@ -51,7 +38,7 @@ A circle coincides with itself after being rotated about its center through $180
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Centrally Symmetric Figure**, a figure that coincides with itself after being rotated about its center through $180^\circ$ is a centrally symmetric figure.
+By Centrally Symmetric Figure, a figure that coincides with itself after being rotated about its center through $180^\circ$ is a centrally symmetric figure.
 
 Among the given patterns, those that coincide with themselves after being rotated about their center through $180^\circ$ are centrally symmetric figures; otherwise they are not. Examples: a segment, a parallelogram, a rectangle, a rhombus, a square, a circle, a windmill, etc. $\blacksquare$
 
@@ -65,7 +52,7 @@ $$
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Coordinates of Points Symmetric about the Origin**, two points symmetric about the origin have coordinates of opposite signs.
+By Coordinates of Points Symmetric about the Origin, two points symmetric about the origin have coordinates of opposite signs.
 
 $C\left(2,-1\right)$ and $G\left(-2,-1\right)$ are not symmetric about the origin; $F\left(-2,1\right)$ and $C\left(2,-1\right)$ are symmetric about the origin. Hence $C$ and $F$ are symmetric about the origin. $\blacksquare$
 
@@ -79,7 +66,7 @@ $$
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge: Coordinates of Points Symmetric about the Origin**, the coordinates have opposite signs.
+By Coordinates of Points Symmetric about the Origin, the coordinates have opposite signs.
 
 $$
 A'\left(-3,-1\right),\ B'\left(2,-3\right),\ C'\left(1,2\right),\ D'\left(-2,3\right).
@@ -93,7 +80,7 @@ $\blacksquare$
 
 ### Solution to Exercise 7
 
-By **Basic Knowledge: Coordinates of Points Symmetric about the Origin**, the diagonals of a parallelogram bisect each other; since the intersection point of the diagonals is the origin, opposite vertices are symmetric about the origin.
+By Coordinates of Points Symmetric about the Origin, the diagonals of a parallelogram bisect each other; since the intersection point of the diagonals is the origin, opposite vertices are symmetric about the origin.
 
 $C$ is symmetric to $A$ about the origin, so $C\left(2,-2\right)$; $D$ is symmetric to $B$ about the origin, so $D\left(-1,3\right)$. $\blacksquare$
 
@@ -103,7 +90,7 @@ $C$ is symmetric to $A$ about the origin, so $C\left(2,-2\right)$; $D$ is symmet
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Properties of Central Symmetry**.
+By Properties of Central Symmetry.
 
 Construct the symmetric points of each vertex about $O$ and join them in order to obtain the result. $\blacksquare$
 
@@ -113,7 +100,7 @@ Construct the symmetric points of each vertex about $O$ and join them in order t
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Centrally Symmetric Figure**.
+By Centrally Symmetric Figure.
 
 A figure that coincides with itself after being rotated about its center through $180^\circ$ is a centrally symmetric figure, with the center about which it rotates as the center of symmetry; otherwise it is not a centrally symmetric figure. $\blacksquare$
 
@@ -123,7 +110,7 @@ A figure that coincides with itself after being rotated about its center through
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Coordinates of Points Symmetric about the Origin**.
+By Coordinates of Points Symmetric about the Origin.
 
 The points symmetric to the vertices about the origin are $A'\left(-5,0\right)$, $B'\left(2,-3\right)$, $C'\left(5,-1\right)$, $D'\left(1,5\right)$; joining them in order gives quadrilateral $A'B'C'D'$. $\blacksquare$
 
@@ -133,7 +120,7 @@ The points symmetric to the vertices about the origin are $A'\left(-5,0\right)$,
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Coordinates of Points Symmetric about the Origin**, the coordinates have opposite signs.
+By Coordinates of Points Symmetric about the Origin, the coordinates have opposite signs.
 
 $a=-5$, $b=-1$. $\blacksquare$
 
@@ -143,7 +130,7 @@ $a=-5$, $b=-1$. $\blacksquare$
 
 ### Solution to Problem 5
 
-By **Basic Knowledge: Centrally Symmetric Figure**.
+By Centrally Symmetric Figure.
 
 If the two semicircles are centrally symmetric about some point, then that point is the midpoint of $O_1O_2$; after the figure is rotated about this point through $180^\circ$, the two semicircles swap positions and coincide. Hence this figure is a centrally symmetric figure, with the center of symmetry at the midpoint of the segment $O_1O_2$. $\blacksquare$
 
@@ -153,7 +140,7 @@ If the two semicircles are centrally symmetric about some point, then that point
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Properties of Central Symmetry**.
+By Properties of Central Symmetry.
 
 Rotate $\triangle ABC$ about the midpoint of the side $BC$ through $180^\circ$ to obtain a triangle symmetric to it about this midpoint; the two triangles form a parallelogram with $AB$ and $AC$ as adjacent sides. $\blacksquare$
 
@@ -163,7 +150,7 @@ Rotate $\triangle ABC$ about the midpoint of the side $BC$ through $180^\circ$ t
 
 ### Solution to Problem 7
 
-By **Basic Knowledge: Properties of Central Symmetry**.
+By Properties of Central Symmetry.
 
 Observing the corresponding vertices, if $C$ is the common point among the corresponding vertices and $A$, $B$ correspond to $D$, $E$ respectively, then $\triangle ABC$ can be rotated about the point $C$ through an appropriate angle to obtain $\triangle DEC$. $\blacksquare$
 
@@ -173,7 +160,7 @@ Observing the corresponding vertices, if $C$ is the common point among the corre
 
 ### Solution to Problem 8
 
-By **Basic Knowledge: Centrally Symmetric Figure**.
+By Centrally Symmetric Figure.
 
 The area of the rectangular plot is $10\times6=60\,\text{m}^2$, and the area of the flower bed is $30\,\text{m}^2$.
 
@@ -197,7 +184,7 @@ The coordinates of $C\left(3,-2\right)$ and $A\left(-3,2\right)$ have opposite s
 
 ### Solution to Problem 10
 
-By **Basic Knowledge: Centrally Symmetric Figure**, a rhombus is a centrally symmetric figure, with the intersection of its diagonals as the center of symmetry.
+By Centrally Symmetric Figure, a rhombus is a centrally symmetric figure, with the intersection of its diagonals as the center of symmetry.
 
 The two parts into which a line through the center of symmetry divides the rhombus are centrally symmetric about the center of symmetry, so the two trapezoids are congruent. $\blacksquare$
 
@@ -207,7 +194,7 @@ The two parts into which a line through the center of symmetry divides the rhomb
 
 ### Solution to Problem 11
 
-By **Basic Knowledge: Properties of Central Symmetry**.
+By Properties of Central Symmetry.
 
 The intersection $O$ of the diagonals of $\square ABCD$ is its center of symmetry. In $\triangle ADE$ and $\triangle CBF$, $A$ and $C$ are symmetric about $O$, and $D$ and $B$ are symmetric about $O$. $E$ is the third vertex of the equilateral triangle; by rotational symmetry, the corresponding point of $E$ is $F$, symmetric to $E$ about $O$. Hence $\triangle ADE$ and $\triangle CBF$ are centrally symmetric about the point $O$. $\blacksquare$
 
@@ -217,7 +204,7 @@ The intersection $O$ of the diagonals of $\square ABCD$ is its center of symmetr
 
 ### Solution to Reading and Thinking 1
 
-By **Basic Knowledge: Centrally Symmetric Figure** and the concept of a rotationally symmetric figure.
+By Centrally Symmetric Figure and the concept of a rotationally symmetric figure.
 
 A regular $n$-gon coincides with itself after being rotated about its center through $\frac{360^\circ}{n}$, so a regular $n$-gon is a rotationally symmetric figure, with angle of rotation an integer multiple of $\frac{360^\circ}{n}$. A regular hexagon coincides with itself after rotating through $60^\circ$, and a regular pentagon after rotating through $72^\circ$. When $n$ is even, rotating through $180^\circ$ makes it coincide with itself, and in this case the regular $n$-gon is also a centrally symmetric figure. $\blacksquare$
 
@@ -227,6 +214,6 @@ A regular $n$-gon coincides with itself after being rotated about its center thr
 
 ### Solution to Information Technology Application 1
 
-By **Basic Knowledge: Coordinates of Points Symmetric about the Origin**.
+By Coordinates of Points Symmetric about the Origin.
 
 Take any point $A\left(x,y\right)$ on the graph of $y=\frac{k}{x}$; then $xy=k$. Its point symmetric about the origin is $A'\left(-x,-y\right)$, and since $\left(-x\right)\left(-y\right)=xy=k$, $A'$ is also on the graph. Therefore the graph of the inverse proportional function $y=\frac{k}{x}$ is centrally symmetric about the origin, with the origin as its center of symmetry. $\blacksquare$

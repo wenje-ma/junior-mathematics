@@ -1,35 +1,6 @@
 # week157
 
-> **基础知识: 切线的性质**
-> 
-> 圆的切线垂直于过切点的半径.
-> **基础知识: 切线的判定**
-> 
-> 经过半径外端并且垂直于这条半径的直线是圆的切线.
-> **基础知识: 切线长定理**
-> 
-> 从圆外一点引圆的两条切线, 切线长相等, 连线平分两切线夹角.
-> **基础知识: 三角形的内切圆**
-> 
-> 与三角形各边都相切的圆叫作三角形的内切圆, 圆心为内心 (三条角平分线交点).
-> **基础知识: 正多边形与圆**
-> 
-> 将圆 $n$ 等分, 依次连接分点得圆内接正 $n$ 边形.
-> **基础知识: 位置关系判定**
-> 
-> 设圆的半径为 $r$, 圆心到直线的距离为 $d$, 则 $d< r$ 相交, $d=r$ 相切, $d> r$ 相离.
-> **基础知识: 弧长公式**
-> 
-> 半径为 $R$ 的圆中, $n^\circ$ 圆心角所对的弧长 $l=\frac{n\pi R}{180}$.
-> **基础知识: 扇形面积公式**
-> 
-> 扇形面积公式.
-> **基础知识: 正多边形的性质**
-> 
-> 正多边形的各边相等, 各角相等; 正多边形都是轴对称图形.
-
 ---
-
 
 ### 活动一
 
@@ -37,7 +8,7 @@
 
 ### 解答 活动一
 
-由**基础知识: 正多边形与圆**.
+由正多边形与圆.
 
 纸条等宽, 压平后五边形各边等长, 各内角均为 $108^\circ$, 故 $ABCDE$ 为正五边形. $\blacksquare$
 
@@ -47,7 +18,7 @@
 
 ### 解答 活动二
 
-由**基础知识: 正多边形的性质**.
+由正多边形的性质.
 
 通过等分圆周, 可画出正六边形, 正三角形, 正方形等; 在此基础上连接不相邻分点可得到星形图案. $\blacksquare$
 
@@ -57,7 +28,7 @@
 
 ### 解答 复习题一
 
-由**基础知识: 位置关系判定**, 相切时 $R=d$.
+由位置关系判定, 相切时 $R=d$.
 
 方程有等根, 判别式 $36-4m=0$, $m=9$. $\blacksquare$
 
@@ -67,7 +38,7 @@
 
 ### 解答 复习题二
 
-由**基础知识** 及**基础知识**.
+由基础知识 及基础知识.
 
 $\angle AOB=180^\circ-70^\circ=110^\circ$, $\angle ACB=\frac12\angle AOB=55^\circ$. $\blacksquare$
 
@@ -77,7 +48,7 @@ $\angle AOB=180^\circ-70^\circ=110^\circ$, $\angle ACB=\frac12\angle AOB=55^\cir
 
 ### 解答 复习题三
 
-由**基础知识** 及**基础知识**.
+由基础知识 及基础知识.
 
 中心角 $\frac{360^\circ}{6}=60^\circ$, 弧长 $l=\frac{60\pi\cdot1}{180}=\frac{\pi}{3}$. 正六边形由六个边长为 $1$ 的等边三角形组成, 面积 $6\cdot\frac{\sqrt3}{4}=\frac{3\sqrt3}{2}$. $\blacksquare$
 
@@ -87,7 +58,7 @@ $\angle AOB=180^\circ-70^\circ=110^\circ$, $\angle ACB=\frac12\angle AOB=55^\cir
 
 ### 解答 复习题四
 
-由**基础知识: 切线长定理**.
+由切线长定理.
 
 $EA=EC$, $FB=FC$, 周长 $PE+EF+PF=PE+EC+CF+PF=PE+EA+FB+PF=PA+PB=8$. $\blacksquare$
 
@@ -97,7 +68,7 @@ $EA=EC$, $FB=FC$, 周长 $PE+EF+PF=PE+EC+CF+PF=PE+EA+FB+PF=PA+PB=8$. $\blacksqua
 
 ### 解答 复习题五
 
-由**基础知识: 切线的判定**.
+由切线的判定.
 
 菱形边长 $5$, $BD=6$. 计算 $\triangle ABC$ 外接圆, 证明 $DE$ 垂直于过 $C$ 的半径即可. $\blacksquare$
 
@@ -107,7 +78,7 @@ $EA=EC$, $FB=FC$, 周长 $PE+EF+PF=PE+EC+CF+PF=PE+EA+FB+PF=PA+PB=8$. $\blacksqua
 
 ### 解答 复习题六
 
-由**基础知识: 切线的判定**.
+由切线的判定.
 
 连接 $OD$. $D$ 为 $\overset{\frown}{BC}$ 中点, 故 $OD\perp BC$. 又 $AB$ 为直径, $AC\perp BC$, 故 $OD\parallel AC$. $DE\perp AC$, 故 $DE\perp OD$, $DE$ 为切线. $\blacksquare$
 
@@ -117,7 +88,7 @@ $EA=EC$, $FB=FC$, 周长 $PE+EF+PF=PE+EC+CF+PF=PE+EA+FB+PF=PA+PB=8$. $\blacksqua
 
 ### 解答 复习题七
 
-由**基础知识: 三角形的内切圆**.
+由三角形的内切圆.
 
 设半径 $r$. 内切圆切 $AC$ 于 $E$, $OE=r$, $OE\parallel BC$. $\frac{OE}{CD}=\frac{AO}{AD}$, 解得 $r=\frac{4}{5}$. $\blacksquare$
 
@@ -127,7 +98,7 @@ $EA=EC$, $FB=FC$, 周长 $PE+EF+PF=PE+EC+CF+PF=PE+EA+FB+PF=PA+PB=8$. $\blacksqua
 
 ### 解答 复习题八
 
-由**基础知识: 切线长定理**.
+由切线长定理.
 
 由切线长定理及相似关系可得乘积等式. $\blacksquare$
 
@@ -137,7 +108,7 @@ $EA=EC$, $FB=FC$, 周长 $PE+EF+PF=PE+EC+CF+PF=PE+EA+FB+PF=PA+PB=8$. $\blacksqua
 
 ### 解答 复习题九
 
-由**基础知识: 三角形的内切圆** 及**基础知识**.
+由三角形的内切圆 及基础知识.
 
 $E$ 为内心, $AD$ 平分 $\angle BAC$. 计算得 $\angle DBE=\angle DEB$, 故 $DB=DE$. 同理 $DC=DE$. 故 $DB=DE=DC$, $D$ 为圆心. $\blacksquare$
 
@@ -147,7 +118,7 @@ $E$ 为内心, $AD$ 平分 $\angle BAC$. 计算得 $\angle DBE=\angle DEB$, 故 
 
 ### 解答 复习题十
 
-由**基础知识: 弧长公式**.
+由弧长公式.
 
 翻滚过程中点 $A$ 经过两段圆弧, 半径分别为 $AB=2$ 和 $AC=2\sqrt2$, 圆心角分别为 $135^\circ$ 和 $135^\circ$. 路线长
 
@@ -163,7 +134,7 @@ $\blacksquare$
 
 ### 解答 复习题十一
 
-由**基础知识: 正多边形的性质**.
+由正多边形的性质.
 
 扳手开口为对边距离, 即 $2\times$ 边心距. 正六边形边心距 $\frac{\sqrt3}{2}a$, 故 $b=\sqrt3 a$. $\blacksquare$
 
@@ -173,7 +144,7 @@ $\blacksquare$
 
 ### 解答 复习题十二
 
-由**基础知识: 位置关系判定**.
+由位置关系判定.
 
 与 $x$ 轴相交: $\left|b\right|< r$; 与 $y$ 轴相离: $\left|a\right|> r$. 即 $\left|b\right|< r< \left|a\right|$. $\blacksquare$
 
@@ -183,6 +154,6 @@ $\blacksquare$
 
 ### 解答 复习题十三
 
-由**基础知识: 扇形面积公式**.
+由扇形面积公式.
 
 计算扇形 $OAE$ 与小三角形面积之差, 得阴影面积. $\blacksquare$

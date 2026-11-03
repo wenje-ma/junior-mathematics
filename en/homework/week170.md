@@ -1,22 +1,6 @@
 # week170
 
-> **Basic Knowledge: Sine**
-> 
-> $\sin A=\frac{a}{c}$.
-> **Basic Knowledge: Cosine**
-> 
-> $\cos A=\frac{b}{c}$.
-> **Basic Knowledge: Tangent**
-> 
-> $\tan A=\frac{a}{b}$.
-> **Basic Knowledge: Trigonometric Function Values of Special Angles**
-> 
-> $\sin 30^{\circ}=\frac{1}{2}$, $\cos 30^{\circ}=\frac{\sqrt{3}}{2}$, $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$; $\sin 45^{\circ}=\frac{\sqrt{2}}{2}$, $\cos 45^{\circ}=\frac{\sqrt{2}}{2}$, $\tan 45^{\circ}=1$; $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$, $\cos 60^{\circ}=\frac{1}{2}$, $\tan 60^{\circ}=\sqrt{3}$.
-> **Basic Knowledge: Relationships Among the Elements of a Right Triangle**
-> 
-> $a^{2}+b^{2}=c^{2}$; $\angle A+\angle B=90^{\circ}$; $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$, $\tan A=\frac{a}{b}$.
 ---
-
 
 ## Review Problem 1
 
@@ -26,7 +10,7 @@
 
 By the Pythagorean theorem, $b=\sqrt{c^{2}-a^{2}}=\sqrt{36-4}=\sqrt{32}=4\sqrt{2}$.
 
-By **Basic Knowledge**, **Basic Knowledge**, and **Basic Knowledge**:
+By Basic Knowledge, Basic Knowledge, and Basic Knowledge:
 
 $$\sin A=\frac{a}{c}=\frac{2}{6}=\frac{1}{3},\quad \cos A=\frac{b}{c}=\frac{4\sqrt{2}}{6}=\frac{2\sqrt{2}}{3},\quad \tan A=\frac{a}{b}=\frac{2}{4\sqrt{2}}=\frac{\sqrt{2}}{4}.\ \blacksquare$$
 
@@ -36,7 +20,7 @@ $$\sin A=\frac{a}{c}=\frac{2}{6}=\frac{1}{3},\quad \cos A=\frac{b}{c}=\frac{4\sq
 
 ### Solution to Review Problem 2
 
-By **Basic Knowledge: Cosine**, $\cos A=\frac{AC}{AB}=\frac{\sqrt{3}}{2}$, so $AB=\frac{AC}{\cos A}=\frac{4\sqrt{3}}{\sqrt{3}/2}=8$.
+By Cosine, $\cos A=\frac{AC}{AB}=\frac{\sqrt{3}}{2}$, so $AB=\frac{AC}{\cos A}=\frac{4\sqrt{3}}{\sqrt{3}/2}=8$.
 
 By the Pythagorean theorem, $BC=\sqrt{AB^{2}-AC^{2}}=\sqrt{64-48}=\sqrt{16}=4$. $\blacksquare$
 
@@ -50,7 +34,7 @@ By the Pythagorean theorem, $BC=\sqrt{AB^{2}-AC^{2}}=\sqrt{64-48}=\sqrt{16}=4$. 
 
 ### Solution to Review Problem 3
 
-By **Basic Knowledge: Trigonometric Function Values of Special Angles**.
+By Trigonometric Function Values of Special Angles.
 
 (1) $\sqrt{2}\times\frac{\sqrt{2}}{2}-1=1-1=0$.
 
@@ -124,7 +108,7 @@ The perimeter $=2l+$ the base $=2\times 2\sqrt{3}+6=4\sqrt{3}+6$. $\blacksquare$
 
 In the right triangle, the lighthouse height $42\ \text{m}$ is the opposite side, the angle of elevation is $33^{\circ}$, and the horizontal distance from the ship to the shore is the adjacent side.
 
-By **Basic Knowledge: Tangent**, $\tan 33^{\circ}=\frac{42}{d}$, so $d=\frac{42}{\tan 33^{\circ}}\approx\frac{42}{0.6494}\approx 65\ \text{m}$. $\blacksquare$
+By Tangent, $\tan 33^{\circ}=\frac{42}{d}$, so $d=\frac{42}{\tan 33^{\circ}}\approx\frac{42}{0.6494}\approx 65\ \text{m}$. $\blacksquare$
 
 ## Review Problem 8
 
@@ -188,11 +172,11 @@ The figure shows a ladder leaning against a vertical wall, with its foot on the 
 
 ### Solution to Review Problem 10
 
-(1) The maximum climb height corresponds to the maximum angle $\alpha=75^{\circ}$. By **Basic Knowledge: Sine**,
+(1) The maximum climb height corresponds to the maximum angle $\alpha=75^{\circ}$. By Sine,
 
 $$h=6\sin 75^{\circ}\approx 6\times 0.9659\approx 5.8\ \text{m}.$$
 
-(2) The foot of the ladder is $2.4\ \text{m}$ from the wall, i.e. the adjacent side $=2.4$ and the hypotenuse $=6$. By **Basic Knowledge: Cosine**,
+(2) The foot of the ladder is $2.4\ \text{m}$ from the wall, i.e. the adjacent side $=2.4$ and the hypotenuse $=6$. By Cosine,
 
 $$\cos\alpha=\frac{2.4}{6}=0.4,\quad \alpha\approx 66.42^{\circ}\approx 66^{\circ}.$$
 
@@ -234,7 +218,7 @@ The rectangle perimeter $=2\left(8+10\right)=36\ \text{cm}$. $\blacksquare$
 
 ### Solution to Review Problem 12
 
-Yes. Draw $AE\perp BC$ through $A$ at $E$. In $\text{Rt}\triangle ABE$, by **Basic Knowledge: Sine**, $AE=AB\cdot\sin B$.
+Yes. Draw $AE\perp BC$ through $A$ at $E$. In $\text{Rt}\triangle ABE$, by Sine, $AE=AB\cdot\sin B$.
 
 The parallelogram area is $S=BC\cdot AE=AB\cdot BC\cdot\sin B$. $\blacksquare$
 

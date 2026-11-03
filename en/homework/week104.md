@@ -1,31 +1,6 @@
 # week104
 
-> **Basic Knowledge: Parallelogram**
-> 
-> A quadrilateral with both pairs of opposite sides parallel is called a parallelogram, denoted \(\square ABCD\).
-> **Basic Knowledge: Opposite Sides**
-> 
-> Opposite sides of a parallelogram are equal.
-> **Basic Knowledge: Opposite Angles**
-> 
-> Opposite angles of a parallelogram are equal.
-> **Basic Knowledge: Diagonals**
-> 
-> The diagonals of a parallelogram bisect each other.
-> **Basic Knowledge: Opposite Sides**
-> 
-> A quadrilateral with both pairs of opposite sides equal is a parallelogram.
-> **Basic Knowledge: Diagonals**
-> 
-> A quadrilateral whose diagonals bisect each other is a parallelogram.
-> **Basic Knowledge: One Pair of Opposite Sides**
-> 
-> A quadrilateral with one pair of opposite sides parallel and equal is a parallelogram.
-> **Basic Knowledge: Triangle Midline Theorem**
-> 
-> The midline of a triangle is parallel to the third side and equal to half of it.
 ---
-
 
 ## Exercise 1
 
@@ -37,7 +12,7 @@ In \(\square ABCD\),
 
 (2) Given \(\angle A=38^{\circ}\), find the degree measures of the other interior angles.
 
-By **Basic Knowledge** and **Basic Knowledge**.
+By Basic Knowledge and Basic Knowledge.
 
 (1) \(CD=AB=5,\ DA=BC=3\).
 
@@ -49,7 +24,7 @@ By **Basic Knowledge** and **Basic Knowledge**.
 
 As shown in the figure, the diagonals \(AC,BD\) of \(\square ABCD\) intersect at point \(O\), \(BC=10,\ AC=8,\ BD=14\). What is the perimeter of \(\triangle AOD\)? Which of \(\triangle ABC\) and \(\triangle DBC\) has the longer perimeter? By how much?
 
-By **Basic Knowledge**, \(OA=OC=4,\ OD=OB=7\).
+By Basic Knowledge, \(OA=OC=4,\ OD=OB=7\).
 
 Also \(AD=BC=10\), so the perimeter of \(\triangle AOD\) \(=4+7+10=21\).
 
@@ -65,9 +40,9 @@ Therefore \(\triangle DBC\) has the longer perimeter, by \(6\).
 
 As shown in the figure, two strips with parallel opposite sides are crossed and overlapped; the overlapping part forms a quadrilateral. Rotate one of the strips. What is the relation between the lengths of segments \(AD\) and \(BC\)? Why?
 
-The overlapping quadrilateral has both pairs of opposite sides parallel; by **Basic Knowledge** it is a parallelogram.
+The overlapping quadrilateral has both pairs of opposite sides parallel; by Basic Knowledge it is a parallelogram.
 
-By **Basic Knowledge**, opposite sides are equal, so \(AD=BC\).
+By Basic Knowledge, opposite sides are equal, so \(AD=BC\).
 
 \(\blacksquare\)
 
@@ -89,7 +64,7 @@ Therefore \(\angle 1=\angle EBC=35^{\circ}\).
 
 As shown in the figure, \(\square ABCD\) has perimeter \(16\), the diagonals \(AC,BD\) intersect at point \(O\), and point \(E\) lies on \(AD\) with \(OE\perp AC\). Find the perimeter of \(\triangle CDE\).
 
-By **Basic Knowledge**, \(O\) is the midpoint of \(AC\).
+By Basic Knowledge, \(O\) is the midpoint of \(AC\).
 
 Also \(OE\perp AC\), so \(OE\) is the perpendicular bisector of \(AC\), and \(EA=EC\).
 
@@ -127,7 +102,7 @@ From \(\angle ADB=\angle CBD\), we get \(AD\parallel BC\).
 
 From \(\angle C+\angle ABC=180^{\circ}\), we get \(AB\parallel DC\).
 
-Both pairs of opposite sides are parallel; by **Basic Knowledge**, quadrilateral \(ABCD\) is a parallelogram.
+Both pairs of opposite sides are parallel; by Basic Knowledge, quadrilateral \(ABCD\) is a parallelogram.
 
 \(\blacksquare\)
 
@@ -135,7 +110,7 @@ Both pairs of opposite sides are parallel; by **Basic Knowledge**, quadrilateral
 
 As shown in the figure, \(AB=DC=EF,\ AD=BC,\ DE=CF\). Which segments in the figure are parallel?
 
-Since \(AB=DC\) and \(AD=BC\), quadrilateral \(ABCD\) has both pairs of opposite sides equal; by **Basic Knowledge** it is a parallelogram, so \(AB\parallel DC\), \(AD\parallel BC\).
+Since \(AB=DC\) and \(AD=BC\), quadrilateral \(ABCD\) has both pairs of opposite sides equal; by Basic Knowledge it is a parallelogram, so \(AB\parallel DC\), \(AD\parallel BC\).
 
 Similarly, \(DC=EF,\ DE=CF\), so quadrilateral \(DEFC\) is a parallelogram, and \(DC\parallel EF\), \(DE\parallel CF\).
 
@@ -145,11 +120,11 @@ Similarly, \(DC=EF,\ DE=CF\), so quadrilateral \(DEFC\) is a parallelogram, and 
 
 As shown in the figure, the diagonals \(AC,BD\) of \(\square ABCD\) intersect at point \(O\), and \(E,F\) are the midpoints of \(OA,OC\), respectively; connect \(DE,DF,BE,BF\). Prove that quadrilateral \(DEBF\) is a parallelogram.
 
-By **Basic Knowledge**, \(OB=OD,\ OA=OC\).
+By Basic Knowledge, \(OB=OD,\ OA=OC\).
 
 \(E,F\) are the midpoints of \(OA,OC\), so \(OE=OF\).
 
-Hence the diagonals \(BD,EF\) of quadrilateral \(DEBF\) bisect each other; by **Basic Knowledge**, it is a parallelogram.
+Hence the diagonals \(BD,EF\) of quadrilateral \(DEBF\) bisect each other; by Basic Knowledge, it is a parallelogram.
 
 \(\blacksquare\)
 
@@ -161,7 +136,7 @@ As shown in the figure, to ensure that the two straight rails of a railway are p
 
 The sleepers between the two rails are parallel and equal.
 
-By **Basic Knowledge**, a quadrilateral with one pair of opposite sides parallel and equal is a parallelogram, so the two rails are parallel.
+By Basic Knowledge, a quadrilateral with one pair of opposite sides parallel and equal is a parallelogram, so the two rails are parallel.
 
 \(\blacksquare\)
 
@@ -173,7 +148,7 @@ From \(AE\perp BD,\ CF\perp BD\), we get \(AE\parallel CF\).
 
 Also from \(\triangle AED\cong\triangle CFB\) (\(AD=BC\), alternate interior angles equal), we get \(AE=CF\).
 
-By **Basic Knowledge**, quadrilateral \(AFCE\) is a parallelogram.
+By Basic Knowledge, quadrilateral \(AFCE\) is a parallelogram.
 
 \(\blacksquare\)
 
@@ -193,7 +168,7 @@ There are \(3\) parallelograms in total, because each pair of parallel and equal
 
 As shown in the figure, in \(\triangle ABC\), \(D,E,F\) are the midpoints of \(AB,BC,CA\), respectively. Using these points as vertices, how many parallelograms can you draw in the figure? Why are they parallelograms?
 
-By **Basic Knowledge**, \(DE\parallel AC,\ EF\parallel AB,\ FD\parallel BC\).
+By Basic Knowledge, \(DE\parallel AC,\ EF\parallel AB,\ FD\parallel BC\).
 
 Therefore \(ADEF\), \(DBEF\), \(DECF\) are all parallelograms, \(3\) in total.
 
@@ -203,11 +178,11 @@ Therefore \(ADEF\), \(DBEF\), \(DECF\) are all parallelograms, \(3\) in total.
 
 As shown in the figure, the medians \(BD,CE\) of \(\triangle ABC\) intersect at point \(O\), and \(F,G\) are the midpoints of \(OB,OC\), respectively. Prove that quadrilateral \(DEFG\) is a parallelogram.
 
-\(D,E\) are the midpoints of \(AB,AC\); by **Basic Knowledge**, \(DE\parallel BC,\ DE=\frac{1}{2}BC\).
+\(D,E\) are the midpoints of \(AB,AC\); by Basic Knowledge, \(DE\parallel BC,\ DE=\frac{1}{2}BC\).
 
 \(F,G\) are the midpoints of \(OB,OC\); similarly \(FG\parallel BC,\ FG=\frac{1}{2}BC\).
 
-Therefore \(DE\parallel FG\) and \(DE=FG\); by **Basic Knowledge**, quadrilateral \(DEFG\) is a parallelogram.
+Therefore \(DE\parallel FG\) and \(DE=FG\); by Basic Knowledge, quadrilateral \(DEFG\) is a parallelogram.
 
 \(\blacksquare\)
 
@@ -217,7 +192,7 @@ As shown in the figure, points \(A,B\) are separated by a pond; choose a point \
 
 Take the midpoints \(M,N\) of \(AC,BC\) and measure \(MN\).
 
-By **Basic Knowledge**, \(MN=\frac{1}{2}AB\), so \(AB=2MN\).
+By Basic Knowledge, \(MN=\frac{1}{2}AB\), so \(AB=2MN\).
 
 \(\blacksquare\)
 
@@ -239,7 +214,7 @@ As shown in the figure, a cardboard with parallel opposite sides is inserted int
 
 The cardboard has both pairs of opposite sides parallel, forming a parallelogram.
 
-By **Basic Knowledge**, opposite angles are equal, so \(\angle 2=\angle 1=72^{\circ}15'\).
+By Basic Knowledge, opposite angles are equal, so \(\angle 2=\angle 1=72^{\circ}15'\).
 
 \(\blacksquare\)
 
@@ -247,7 +222,7 @@ By **Basic Knowledge**, opposite angles are equal, so \(\angle 2=\angle 1=72^{\c
 
 As shown in the figure, the diagonals \(AC,BD\) of \(\square ABCD\) intersect at point \(O\), and \(AC+BD=36,\ AB=11\). Find the perimeter of \(\triangle OCD\).
 
-By **Basic Knowledge**, \(OC=\frac{1}{2}AC,\ OD=\frac{1}{2}BD\).
+By Basic Knowledge, \(OC=\frac{1}{2}AC,\ OD=\frac{1}{2}BD\).
 
 Therefore \(OC+OD=\frac{1}{2}(AC+BD)=18\).
 
@@ -271,7 +246,7 @@ As shown in the figure, in \(\square ABCD\), points \(E,F\) lie on \(BC,AD\), re
 
 From \(AD\parallel BC\), we get \(AF\parallel CE\).
 
-Also \(AF=CE\); by **Basic Knowledge**, quadrilateral \(AECF\) is a parallelogram.
+Also \(AF=CE\); by Basic Knowledge, quadrilateral \(AECF\) is a parallelogram.
 
 \(\blacksquare\)
 
@@ -279,11 +254,11 @@ Also \(AF=CE\); by **Basic Knowledge**, quadrilateral \(AECF\) is a parallelogra
 
 As shown in the figure, the diagonals \(AC,BD\) of \(\square ABCD\) intersect at point \(O\), and \(E,F,G,H\) are the midpoints of \(AO,BO,CO,DO\), respectively. Prove that quadrilateral \(EFGH\) is a parallelogram.
 
-By **Basic Knowledge**, \(OA=OC,\ OB=OD\).
+By Basic Knowledge, \(OA=OC,\ OB=OD\).
 
 \(E,G\) are the midpoints of \(AO,CO\), so \(OE=OG\); similarly \(OF=OH\).
 
-The diagonals of quadrilateral \(EFGH\) bisect each other; by **Basic Knowledge**, it is a parallelogram.
+The diagonals of quadrilateral \(EFGH\) bisect each other; by Basic Knowledge, it is a parallelogram.
 
 \(\blacksquare\)
 
@@ -293,7 +268,7 @@ As shown in the figure, a ball is struck on a rectangular billiard table, and it
 
 Since the angle of incidence equals the angle of reflection, the vertical-angle relations at each cushion give \(EF\parallel GH\), \(FG\parallel HE\).
 
-Both pairs of opposite sides are parallel; by **Basic Knowledge**, quadrilateral \(EFGH\) is a parallelogram.
+Both pairs of opposite sides are parallel; by Basic Knowledge, quadrilateral \(EFGH\) is a parallelogram.
 
 \(\blacksquare\)
 
@@ -305,7 +280,7 @@ Since \(AEFD\) is a parallelogram, we get \(AD\parallel EF,\ AD=EF\).
 
 Since \(EBCF\) is a parallelogram, we get \(BC\parallel EF,\ BC=EF\).
 
-Therefore \(AD\parallel BC\) and \(AD=BC\); by **Basic Knowledge**, quadrilateral \(ABCD\) is a parallelogram.
+Therefore \(AD\parallel BC\) and \(AD=BC\); by Basic Knowledge, quadrilateral \(ABCD\) is a parallelogram.
 
 \(\blacksquare\)
 
@@ -377,7 +352,7 @@ In \(Rt\triangle ADO\), \(AO=\sqrt{AD^{2}+DO^{2}}=\sqrt{144+25}=13\).
 
 Therefore \(OC=AC-AO=13\), i.e. \(O\) bisects both \(AC\) and \(BD\).
 
-By **Basic Knowledge**, \(ABCD\) is a parallelogram, so \(BC=AD=12\).
+By Basic Knowledge, \(ABCD\) is a parallelogram, so \(BC=AD=12\).
 
 The area \(S=BD\times AD=10\times 12=120\).
 
@@ -397,7 +372,7 @@ i.e. quadrilaterals \(AEPG\) and \(PHCF\) have equal area (subtracting the two p
 
 As shown in the figure, cut a parallelogram from cardboard, find the intersection \(O\) of its diagonals, lay a thin straight strip on the cardboard, pin it at point \(O\), and let the strip rotate freely about \(O\). Flick the strip and let it stop. What conclusion can you draw?
 
-By **Basic Knowledge**, a parallelogram is centrally symmetric with center of symmetry \(O\), the intersection of the diagonals.
+By Basic Knowledge, a parallelogram is centrally symmetric with center of symmetry \(O\), the intersection of the diagonals.
 
 Therefore a line through \(O\) divides the parallelogram into two congruent parts, i.e. of equal area and centrally symmetric about \(O\).
 

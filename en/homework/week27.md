@@ -1,29 +1,5 @@
 # week27
 
-> **Basic Knowledge: Solid Figure**
-> 
-> A geometric figure whose parts do not all lie in the same plane is called a solid figure.
-
-> **Basic Knowledge: Net**
-> 
-> If the surface of a solid figure is cut open appropriately, it can be unfolded into a plane figure, called the net of the corresponding solid figure.
-
-> **Basic Knowledge: A Moving Point Forms a Line, a Moving Line Forms a Plane, a Moving Plane Forms a Solid**
-> 
-> A moving point forms a line, a moving line forms a plane, and a moving plane forms a solid.
-
-> **Basic Knowledge: Angle**
-> 
-> The figure formed by two rays with a common endpoint is called an angle.
-
-> **Basic Knowledge: Measuring Angles**
-> 
-> $1^{\circ}=60'$, $1'=60''$. A full angle $=360^{\circ}$.
-
-> **Basic Knowledge: A Moving Plane Forms a Solid**
-> 
-> A plane moving through space forms a solid, e.g. a rectangle rotating about one side forms a cylinder.
-
 ---
 
 ## Activity 1
@@ -32,10 +8,9 @@
 
 ### Solution to Activity 1
 
-By **Basic Knowledge: Net**, after the cube's net is folded, each face corresponds to and is adjacent to another.
+By Net, after the cube's net is folded, each face corresponds to and is adjacent to another.
 
 The cube's net consists of six identical squares; draw the net to the dimensions shown ($6\ \text{cm}\times6\ \text{cm}$ for each face), cut and fold it to obtain a cube of side $6\ \text{cm}$. $\blacksquare$
-
 
 ---
 
@@ -45,10 +20,9 @@ The cube's net consists of six identical squares; draw the net to the dimensions
 
 ### Solution to Activity 2
 
-By **Basic Knowledge: Solid Figure** and **Basic Knowledge: A Moving Plane Forms a Solid**, several cubes connected by tape can be flipped along the seams.
+By Solid Figure and A Moving Plane Forms a Solid, several cubes connected by tape can be flipped along the seams.
 
 At each connection it can flip $180^{\circ}$ about the tape; combining several connections yields many different solid shapes. Different flip directions and angles give different shapes. $\blacksquare$
-
 
 ---
 
@@ -68,7 +42,7 @@ Explain the reasoning behind this construction.
 
 ### Solution to Activity 3
 
-By **Basic Knowledge: Angle** and **Basic Knowledge: Measuring Angles**.
+By Angle and Measuring Angles.
 
 A full angle is $360^{\circ}$; dividing it into $5$ equal parts gives $72^{\circ}$ each. Successively drawing $72^{\circ}$ angles with the center as vertex gives five equally spaced points on the circle, namely the five vertices of the inscribed regular pentagon.
 
@@ -78,7 +52,6 @@ The figure shows a circle with its inscribed regular pentagon: five equally spac
 
 $\blacksquare$
 
-
 ---
 
 ## Activity 4
@@ -87,6 +60,6 @@ $\blacksquare$
 
 ### Solution to Activity 4
 
-By **Basic Knowledge: Angle** and **Basic Knowledge: Measuring Angles**.
+By Angle and Measuring Angles.
 
 Fold a circular piece of paper twice (into five layers), then cut along $\angle\alpha$ at different angles. Unfolding gives a five-pointed star; the sharp-tip angle of the star is determined by $\angle\alpha$. When $\angle\alpha$ takes an appropriate value (about $36^{\circ}$ to $40^{\circ}$), the star's angles are uniform and its shape looks nicer; when it deviates from this angle, the angles vary and the shape is uneven. $\blacksquare$

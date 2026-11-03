@@ -1,17 +1,5 @@
 # week67
 
-> **基础知识: 全等形与全等三角形**
-> 
-> 能够完全重合的两个图形叫作全等形; 能够完全重合的两个三角形叫作全等三角形, 记作 $\triangle ABC\cong\triangle A'B'C'$.
-
-> **基础知识: 对应元素**
-> 
-> 把两个全等三角形重合到一起, 重合的顶点叫作对应顶点, 重合的边叫作对应边, 重合的角叫作对应角.
-
-
-> **基础知识: 全等三角形的性质**
-> 
-> 全等三角形的对应边相等, 全等三角形的对应角相等.
 ---
 
 ## 例题
@@ -20,7 +8,7 @@
 
 ### 解答 例题
 
-由**基础知识: 全等三角形的性质**, $\angle ABD=\angle BAC=65^\circ$.
+由全等三角形的性质, $\angle ABD=\angle BAC=65^\circ$.
 
 故
 
@@ -46,7 +34,6 @@ $$
 
 故对应边为 $AB$ 与 $BD$, $BC$ 与 $DE$, $AC$ 与 $BE$; 另一组对应角为 $\angle ABC$ 与 $\angle BDE$. $\blacksquare$
 
-
 ---
 
 ## 练习二
@@ -55,7 +42,7 @@ $$
 
 ### 解答 练习二
 
-由对应顶点 $O\leftrightarrow O$, $C\leftrightarrow B$, $A\leftrightarrow D$, 及**基础知识: 全等三角形的性质**, 相等的边为
+由对应顶点 $O\leftrightarrow O$, $C\leftrightarrow B$, $A\leftrightarrow D$, 及全等三角形的性质, 相等的边为
 
 $$
 OC=OB,\quad CA=BD,\quad OA=OD.
@@ -69,7 +56,6 @@ $$
 
 $\blacksquare$
 
-
 ---
 
 ## 习题一
@@ -82,7 +68,6 @@ $\blacksquare$
 
 其他对应边为 $AC$ 与 $CA$. 对应角为 $\angle BAC$ 与 $\angle DCA$, $\angle B$ 与 $\angle D$, $\angle BCA$ 与 $\angle DAC$. $\blacksquare$
 
-
 ---
 
 ## 习题二
@@ -94,7 +79,6 @@ $\blacksquare$
 由 $AB\leftrightarrow AC$, $\angle B\leftrightarrow\angle C$, 知顶点对应为 $A\leftrightarrow A$, $B\leftrightarrow C$, $N\leftrightarrow M$.
 
 其他对应边为 $BN$ 与 $CM$, $AN$ 与 $AM$. 对应角为 $\angle ANB$ 与 $\angle AMC$, $\angle BAN$ 与 $\angle CAM$. $\blacksquare$
-
 
 ---
 
@@ -112,7 +96,6 @@ $$
 
 故 $\angle 1=66^\circ$. $\blacksquare$
 
-
 ---
 
 ## 习题四
@@ -129,14 +112,13 @@ $$
 
 (1) 其他对应边为 $EF$ 与 $NM$, $EG$ 与 $NH$; 其他对应角为 $\angle E$ 与 $\angle N$, $\angle G$ 与 $\angle H$.
 
-(2) 由**基础知识: 全等三角形的性质**, $NM=EF=2.1$, $EG=NH=3.3$. 又点 $H$ 在线段 $EG$ 上, 故
+(2) 由全等三角形的性质, $NM=EF=2.1$, $EG=NH=3.3$. 又点 $H$ 在线段 $EG$ 上, 故
 
 $$
 HG=EG-EH=3.3-1.1=2.2.
 $$
 
 故 $NM=2.1$, $HG=2.2$. $\blacksquare$
-
 
 ---
 
@@ -146,7 +128,7 @@ $$
 
 ### 解答 习题五
 
-相等. 由**基础知识: 全等三角形的性质**, 对应角 $\angle ACB=\angle DCE$.
+相等. 由全等三角形的性质, 对应角 $\angle ACB=\angle DCE$.
 
 两边同时减去公共部分 $\angle DCB$, 得
 

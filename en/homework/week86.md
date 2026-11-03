@@ -1,18 +1,6 @@
 # week86
 
-> **Basic Knowledge: Method of Extracting the Common Factor**
-> 
-> Extract the common factor of the terms of the polynomial, writing the polynomial as the product of the common factor and another factor.
 ---
-
-
-> **Basic Knowledge: Method Using the Difference of Squares Formula** 
-> 
-> $a^2-b^2=\left(a+b\right)\left(a-b\right)$.
-
-> **Basic Knowledge: Method Using the Perfect Square Formula** 
-> 
-> $a^2\pm2ab+b^2=\left(a\pm b\right)^2$.
 
 ## Review Problem 1
 
@@ -28,7 +16,7 @@
 
 ### Solution to Review Problem 1
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $15a^3+10a^2=5a^2\left(3a+2\right)$.
 
@@ -52,7 +40,7 @@ By **Basic Knowledge**.
 
 ### Solution to Review Problem 2
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $1-36b^2=\left(1+6b\right)\left(1-6b\right)$.
 
@@ -80,7 +68,7 @@ By **Basic Knowledge**.
 
 ### Solution to Review Problem 3
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $1+10t+25t^2=\left(1+5t\right)^2$.
 

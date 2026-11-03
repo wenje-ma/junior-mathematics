@@ -1,21 +1,5 @@
 # week5
 
-> **Basic Knowledge: Rules for Addition of Rational Numbers**
-> 
-> When two numbers of the same sign are added, the sum takes the same sign, and the absolute value of the sum equals the sum of the absolute values of the addends; when two numbers of opposite signs with unequal absolute values are added, the sum takes the sign of the addend with the larger absolute value, and the absolute value of the sum equals the difference between the larger and the smaller of the absolute values of the addends; adding two numbers that are opposites of each other gives $0$; adding $0$ to a number leaves the number unchanged.
-
-> **Basic Knowledge: Commutative Law of Addition**
-> 
-> In the addition of rational numbers, when two numbers are added, swapping the positions of the addends does not change the sum, that is, $a+b=b+a$.
-
-> **Basic Knowledge: Associative Law of Addition**
-> 
-> In the addition of rational numbers, when three numbers are added, adding the first two first, or adding the last two first, does not change the sum, that is, $\left(a+b\right)+c=a+\left(b+c\right)$.
-
-> **Basic Knowledge: Rules for Subtraction of Rational Numbers**
-> 
-> Subtracting a number is equivalent to adding the opposite number of that number, that is, $a-b=a+\left(-b\right)$.
-
 ---
 
 ## Exercise 1
@@ -28,12 +12,11 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Rules for Addition of Rational Numbers**, rise and income are positive, and fall and expenditure are negative.
+By Rules for Addition of Rational Numbers, rise and income are positive, and fall and expenditure are negative.
 
 (1) The temperature rises by $7\,^\circ\text{C}$ from $-4\,^\circ\text{C}$; the expression is $\left(-4\right)+7=3$, namely $3\,^\circ\text{C}$.
 
 (2) An income of $7$ yuan followed by an expenditure of $5$ yuan; the expression is $7+\left(-5\right)=2$, namely a balance of $2$ yuan. $\blacksquare$
-
 
 ---
 
@@ -49,14 +32,13 @@ By **Basic Knowledge: Rules for Addition of Rational Numbers**, rise and income 
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Rules for Addition of Rational Numbers**.
+By Rules for Addition of Rational Numbers.
 
 (1) $\left(-4\right)+\left(-6\right)=-10$; (2) $4+\left(-6\right)=-2$; (3) $\left(-4\right)+6=2$;
 
 (4) $\left(-4\right)+4=0$; (5) $\left(-4\right)+14=10$; (6) $\left(-14\right)+4=-10$;
 
 (7) $6+\left(-6\right)=0$; (8) $0+\left(-6\right)=-6$; (9) $\left(-6\right)+0=-6$. $\blacksquare$
-
 
 ---
 
@@ -74,7 +56,7 @@ By **Basic Knowledge: Rules for Addition of Rational Numbers**.
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Rules for Addition of Rational Numbers**.
+By Rules for Addition of Rational Numbers.
 
 (1) $15+\left(-22\right)=-\left(22-15\right)=-7$;
 
@@ -84,7 +66,6 @@ By **Basic Knowledge: Rules for Addition of Rational Numbers**.
 
 (4) $12+\left(-23\right)=-\left(23-12\right)=-11$. $\blacksquare$
 
-
 ---
 
 ## Exercise 4
@@ -93,12 +74,11 @@ By **Basic Knowledge: Rules for Addition of Rational Numbers**.
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Rules for Addition of Rational Numbers**.
+By Rules for Addition of Rational Numbers.
 
 $\left(-3\right)+2=-1$: for example, the temperature first drops by $3\,^\circ\text{C}$ and then rises by $2\,^\circ\text{C}$, ending up $1\,^\circ\text{C}$ lower than before.
 
 $\left(-3\right)+\left(-2\right)=-5$: for example, first spending $3$ yuan and then spending another $2$ yuan gives a total expenditure of $5$ yuan, that is, the balance decreases by $5$ yuan. $\blacksquare$
-
 
 ---
 
@@ -116,7 +96,7 @@ $\left(-3\right)+\left(-2\right)=-5$: for example, first spending $3$ yuan and t
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Commutative Law of Addition** and **Basic Knowledge: Associative Law of Addition**, group together numbers of the same sign.
+By Commutative Law of Addition and Associative Law of Addition, group together numbers of the same sign.
 
 (1) The original expression $=\left(23+6\right)+\left[\left(-17\right)+\left(-22\right)\right]=29+\left(-39\right)=-10$.
 
@@ -126,7 +106,6 @@ By **Basic Knowledge: Commutative Law of Addition** and **Basic Knowledge: Assoc
 
 (4) The original expression $=\left[3\frac{1}{4}+5\frac{3}{4}\right]+\left[\left(-2\frac{3}{5}\right)+\left(-8\frac{2}{5}\right)\right]=9+\left(-11\right)=-2$. $\blacksquare$
 
-
 ---
 
 ## Exercise 6
@@ -135,12 +114,11 @@ By **Basic Knowledge: Commutative Law of Addition** and **Basic Knowledge: Assoc
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge: Rules for Addition of Rational Numbers**, depositing is positive and withdrawing is negative.
+By Rules for Addition of Rational Numbers, depositing is positive and withdrawing is negative.
 
 $$450+\left(-80\right)+150=\left(450+150\right)-80=600-80=520.$$
 
 Hence there is $520$ yuan left in the savings card. $\blacksquare$
-
 
 ---
 
@@ -150,12 +128,11 @@ Hence there is $520$ yuan left in the savings card. $\blacksquare$
 
 ### Solution to Exercise 7
 
-By **Basic Knowledge: Rules for Addition of Rational Numbers**, climbing is positive and descending is negative.
+By Rules for Addition of Rational Numbers, climbing is positive and descending is negative.
 
 $$9000+\left(-300\right)+500=9000+200=9200.$$
 
 Hence the flight altitude of the airplane at this point is $9200\ \text{m}$. $\blacksquare$
-
 
 ---
 
@@ -171,7 +148,7 @@ Hence the flight altitude of the airplane at this point is $9200\ \text{m}$. $\b
 
 ### Solution to Exercise 8
 
-By **Basic Knowledge: Rules for Subtraction of Rational Numbers**, subtracting a number is equivalent to adding its opposite.
+By Rules for Subtraction of Rational Numbers, subtracting a number is equivalent to adding its opposite.
 
 (1) $6-9=6+\left(-9\right)=-3$; (2) $\left(+4\right)-\left(-7\right)=4+7=11$;
 
@@ -182,7 +159,6 @@ By **Basic Knowledge: Rules for Subtraction of Rational Numbers**, subtracting a
 (7) $1.9-\left(-0.6\right)=1.9+0.6=2.5$; (8) $\left(-\frac{1}{2}\right)-\frac{1}{4}=-\frac{1}{2}-\frac{1}{4}=-\frac{3}{4}$;
 
 (9) $\left(+2\frac{2}{7}\right)-\left(-3\frac{1}{2}\right)=2\frac{2}{7}+3\frac{1}{2}=5\frac{11}{14}$. $\blacksquare$
-
 
 ---
 
@@ -196,12 +172,11 @@ By **Basic Knowledge: Rules for Subtraction of Rational Numbers**, subtracting a
 
 ### Solution to Exercise 9
 
-By **Basic Knowledge: Rules for Subtraction of Rational Numbers**, "lower than" uses subtraction.
+By Rules for Subtraction of Rational Numbers, "lower than" uses subtraction.
 
 (1) $2-8=-6\,^\circ\text{C}$.
 
 (2) $-3-6=-9\,^\circ\text{C}$. $\blacksquare$
-
 
 ---
 
@@ -219,7 +194,7 @@ By **Basic Knowledge: Rules for Subtraction of Rational Numbers**, "lower than" 
 
 ### Solution to Exercise 10
 
-By **Basic Knowledge: Rules for Subtraction of Rational Numbers**, convert subtraction into addition, and then combine by **Basic Knowledge: Commutative Law of Addition**.
+By Rules for Subtraction of Rational Numbers, convert subtraction into addition, and then combine by Commutative Law of Addition.
 
 (1) The original expression $=1-4+3-0.5=0-0.5=-0.5$.
 
@@ -228,7 +203,6 @@ By **Basic Knowledge: Rules for Subtraction of Rational Numbers**, convert subtr
 (3) The original expression $=-7-5-4+10=-6$.
 
 (4) The original expression $=\frac{3}{4}-\frac{7}{2}-\frac{1}{6}+\frac{2}{3}-1=\frac{9-42-2+8-12}{12}=-\frac{39}{12}=-\frac{13}{4}$. $\blacksquare$
-
 
 ---
 
@@ -242,12 +216,11 @@ By **Basic Knowledge: Rules for Subtraction of Rational Numbers**, convert subtr
 
 ### Solution to Exercise 11
 
-By **Basic Knowledge: Rules for Subtraction of Rational Numbers**.
+By Rules for Subtraction of Rational Numbers.
 
 (1) The original expression $=-52-37-19+24=-84$.
 
 (2) The original expression $=2\frac{3}{4}+\frac{1}{2}+3\frac{3}{4}-5\frac{1}{2}=\left(2\frac{3}{4}+3\frac{3}{4}\right)+\left(\frac{1}{2}-5\frac{1}{2}\right)=6\frac{1}{2}-5=\frac{3}{2}$. $\blacksquare$
-
 
 ---
 
@@ -263,7 +236,7 @@ By **Basic Knowledge: Rules for Subtraction of Rational Numbers**.
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Rules for Addition of Rational Numbers**.
+By Rules for Addition of Rational Numbers.
 
 (1) $\left(-10\right)+\left(+6\right)=-4$; (2) $\left(+12\right)+\left(-4\right)=8$; (3) $\left(-5\right)+\left(-7\right)=-12$;
 
@@ -272,7 +245,6 @@ By **Basic Knowledge: Rules for Addition of Rational Numbers**.
 (7) $\frac{2}{5}+\left(-\frac{3}{5}\right)=-\frac{1}{5}$; (8) $\left(-\frac{1}{3}\right)+\frac{2}{5}=\frac{-5+6}{15}=\frac{1}{15}$;
 
 (9) $\left(-3\frac{1}{4}\right)+\left(-1\frac{1}{12}\right)=-\left(3\frac{3}{12}+1\frac{1}{12}\right)=-4\frac{1}{3}$. $\blacksquare$
-
 
 ---
 
@@ -290,7 +262,7 @@ By **Basic Knowledge: Rules for Addition of Rational Numbers**.
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Commutative Law of Addition** and **Basic Knowledge: Associative Law of Addition**.
+By Commutative Law of Addition and Associative Law of Addition.
 
 (1) The original expression $=\left(-8-1\right)+\left(10+2\right)=-9+12=3$.
 
@@ -299,7 +271,6 @@ By **Basic Knowledge: Commutative Law of Addition** and **Basic Knowledge: Assoc
 (3) The original expression $=\left[\left(-0.8\right)+0.8\right]+1.2+\left(-0.7\right)+\left(-2.1\right)+3.5=1.2-2.8+3.5=1.9$.
 
 (4) The original expression $=\left[\frac{1}{2}+\left(-\frac{1}{2}\right)\right]+\left[\left(-\frac{2}{3}\right)+\left(-\frac{1}{3}\right)\right]+\frac{4}{5}=0+\left(-1\right)+\frac{4}{5}=-\frac{1}{5}$. $\blacksquare$
-
 
 ---
 
@@ -313,12 +284,11 @@ By **Basic Knowledge: Commutative Law of Addition** and **Basic Knowledge: Assoc
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Rules for Subtraction of Rational Numbers**.
+By Rules for Subtraction of Rational Numbers.
 
 (1) $\left(-8\right)-8=-16$; (2) $\left(-8\right)-\left(-8\right)=0$; (3) $8-\left(-8\right)=16$; (4) $8-8=0$;
 
 (5) $0-6=-6$; (6) $0-\left(-6\right)=6$; (7) $16-47=-31$; (8) $\left(-3.8\right)-\left(+7\right)=-10.8$; (9) $\left(-5.9\right)-\left(-6.1\right)=0.2$. $\blacksquare$
-
 
 ---
 
@@ -334,7 +304,7 @@ By **Basic Knowledge: Rules for Subtraction of Rational Numbers**.
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Rules for Subtraction of Rational Numbers**.
+By Rules for Subtraction of Rational Numbers.
 
 (1) $\left(+\frac{2}{5}\right)-\left(-\frac{3}{5}\right)=\frac{2}{5}+\frac{3}{5}=1$; (2) $\left(-\frac{2}{5}\right)-\left(-\frac{3}{5}\right)=-\frac{2}{5}+\frac{3}{5}=\frac{1}{5}$;
 
@@ -343,7 +313,6 @@ By **Basic Knowledge: Rules for Subtraction of Rational Numbers**.
 (5) $-\frac{2}{3}-\left(-\frac{1}{6}\right)=-\frac{2}{3}+\frac{1}{6}=-\frac{1}{2}$; (6) $0-\left(-\frac{3}{4}\right)=\frac{3}{4}$;
 
 (7) $\left(-2\right)-\left(+\frac{2}{3}\right)=-2-\frac{2}{3}=-\frac{8}{3}$; (8) $\left(-16\frac{3}{4}\right)-\left(-10\frac{1}{4}\right)-\left(+1\frac{1}{2}\right)=-16\frac{3}{4}+10\frac{1}{4}-1\frac{1}{2}=-8$. $\blacksquare$
-
 
 ---
 
@@ -365,7 +334,7 @@ By **Basic Knowledge: Rules for Subtraction of Rational Numbers**.
 
 ### Solution to Problem 5
 
-By **Basic Knowledge: Rules for Subtraction of Rational Numbers** and **Basic Knowledge: Commutative Law of Addition**.
+By Rules for Subtraction of Rational Numbers and Commutative Law of Addition.
 
 (1) The original expression $=\left(-4.2-8.4\right)+\left(5.7+10\right)=-12.6+15.7=3.1$.
 
@@ -379,7 +348,6 @@ By **Basic Knowledge: Rules for Subtraction of Rational Numbers** and **Basic Kn
 
 (6) The original expression $=-\frac{2}{3}+5\frac{1}{6}+4\frac{5}{6}-9\frac{1}{3}=\left(-\frac{2}{3}-9\frac{1}{3}\right)+\left(5\frac{1}{6}+4\frac{5}{6}\right)=-10+10=0$. $\blacksquare$
 
-
 ---
 
 ## Problem 6
@@ -388,12 +356,11 @@ By **Basic Knowledge: Rules for Subtraction of Rational Numbers** and **Basic Kn
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Rules for Subtraction of Rational Numbers**, the height difference is the higher height minus the lower height.
+By Rules for Subtraction of Rational Numbers, the height difference is the higher height minus the lower height.
 
 $$8848.86-\left(-432\right)=8848.86+432=9280.86.$$
 
 Hence the height difference between the two is $9280.86\ \text{m}$. $\blacksquare$
-
 
 ---
 
@@ -403,12 +370,11 @@ Hence the height difference between the two is $9280.86\ \text{m}$. $\blacksquar
 
 ### Solution to Problem 7
 
-By **Basic Knowledge: Rules for Addition of Rational Numbers** and **Basic Knowledge: Rules for Subtraction of Rational Numbers**.
+By Rules for Addition of Rational Numbers and Rules for Subtraction of Rational Numbers.
 
 $$-7+11-9=-5.$$
 
 Hence the temperature at midnight is $-5\,^\circ\text{C}$. $\blacksquare$
-
 
 ---
 
@@ -422,12 +388,11 @@ What is the overall profit/loss of the food store over the whole week?
 
 ### Solution to Problem 8
 
-By **Basic Knowledge: Rules for Addition of Rational Numbers**, find the sum of the profit/loss over the seven days.
+By Rules for Addition of Rational Numbers, find the sum of the profit/loss over the seven days.
 
 $$432-12.5-10.5+327-87+536.5+698=1883.5.$$
 
 The result is positive, so over the whole week there is a total profit of $1883.5$ yuan. $\blacksquare$
-
 
 ---
 
@@ -441,7 +406,7 @@ What is the total mass of these $8$ baskets of Chinese cabbage, in kilograms?
 
 ### Solution to Problem 9
 
-By **Basic Knowledge: Rules for Addition of Rational Numbers**, first find the sum of the deviations, and then find the total mass.
+By Rules for Addition of Rational Numbers, first find the sum of the deviations, and then find the total mass.
 
 The sum of the deviations is
 
@@ -453,7 +418,6 @@ $$200+\left(-5.5\right)=194.5.$$
 
 Hence these $8$ baskets of Chinese cabbage together weigh $194.5\ \text{kg}$. $\blacksquare$
 
-
 ---
 
 ## Problem 10
@@ -464,12 +428,11 @@ Day: Mon, Tue, Wed, Thu, Fri, Sat, Sun. Highest temperature: $10$, $12$, $11$, $
 
 ### Solution to Problem 10
 
-By **Basic Knowledge: Rules for Subtraction of Rational Numbers**, the temperature difference $=$ highest temperature $-$ lowest temperature.
+By Rules for Subtraction of Rational Numbers, the temperature difference $=$ highest temperature $-$ lowest temperature.
 
 The temperature difference on each day is: Monday $10-2=8$; Tuesday $12-1=11$; Wednesday $11-0=11$; Thursday $9-\left(-1\right)=10$; Friday $7-\left(-4\right)=11$; Saturday $5-\left(-5\right)=10$; Sunday $7-\left(-5\right)=12$.
 
 Comparing, $12> 11> 10> 8$, so Sunday has the largest temperature difference and Monday has the smallest. $\blacksquare$
-
 
 ---
 
@@ -491,14 +454,13 @@ Comparing, $12> 11> 10> 8$, so Sunday has the largest temperature difference and
 
 ### Solution to Problem 11
 
-By **Basic Knowledge: Rules for Addition of Rational Numbers**, the unknown addend equals the sum minus the known addend.
+By Rules for Addition of Rational Numbers, the unknown addend equals the sum minus the known addend.
 
 (1) $27-11=16$; (2) $4-7=-3$; (3) $9-\left(-9\right)=18$;
 
 (4) $0-12=-12$; (5) $-15-\left(-8\right)=-7$; (6) $-6-\left(-13\right)=7$.
 
 Hence fill in in turn: $16$; $-3$; $18$; $-12$; $-7$; $7$. $\blacksquare$
-
 
 ---
 
@@ -512,7 +474,7 @@ Guess the value of the following: $\left(-2\right)\times 2$, $\left(-2\right)\ti
 
 ### Solution to Problem 12
 
-By **Basic Knowledge: Rules for Addition of Rational Numbers**.
+By Rules for Addition of Rational Numbers.
 
 $$\left(-2\right)+\left(-2\right)=-4;$$
 
@@ -523,7 +485,6 @@ $$\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)=-8;$$
 $$\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)=-10.$$
 
 Adding several identical negative numbers is precisely that negative number multiplied by a positive integer, so we conjecture $\left(-2\right)\times 2=-4$, $\left(-2\right)\times 3=-6$, $\left(-2\right)\times 4=-8$, $\left(-2\right)\times 5=-10$. From this one may guess: when a negative number is multiplied by a positive number, the product is negative, and the absolute value of the product equals the product of the absolute values of the two numbers. $\blacksquare$
-
 
 ---
 
@@ -541,7 +502,7 @@ Assume the car travels in a single direction under each driving record.
 
 ### Solution to Problem 13
 
-By **Basic Knowledge: Rules for Addition of Rational Numbers**.
+By Rules for Addition of Rational Numbers.
 
 (1) The algebraic sum of the driving records is
 
@@ -561,4 +522,4 @@ Hence the car consumed a total of $81a\ \text{L}$ of fuel that day. $\blacksquar
 
 ### Solution to Reading and Reflection 1
 
-As can be seen from the material, ancient China was the first to systematically give the rules for adding and subtracting positive and negative numbers, the "positive-negative method", and distinguished positive and negative numbers by red and black counting rods. This is consistent with the idea embodied in **Basic Knowledge: Rules for Addition of Rational Numbers** and **Basic Knowledge: Rules for Subtraction of Rational Numbers** — "first determine the sign, then compute the absolute value" — and is an important achievement of ancient Chinese mathematics. $\blacksquare$
+As can be seen from the material, ancient China was the first to systematically give the rules for adding and subtracting positive and negative numbers, the "positive-negative method", and distinguished positive and negative numbers by red and black counting rods. This is consistent with the idea embodied in Rules for Addition of Rational Numbers and Rules for Subtraction of Rational Numbers — "first determine the sign, then compute the absolute value" — and is an important achievement of ancient Chinese mathematics. $\blacksquare$

@@ -1,19 +1,6 @@
 # week111
 
-> **Basic Knowledge: Constants and Variables**
-> 
-> In a process of change, a quantity whose value remains constant is a constant, and a quantity whose value changes is a variable.
-> **Basic Knowledge: Function**
-> 
-> Generally, in a process of change, if there are two variables $x$ and $y$, and for each definite value of $x$, $y$ has a unique definite value corresponding to it, then we say $x$ is the independent variable and $y$ is a function of $x$.
-> **Basic Knowledge: Graph of a Function**
-> 
-> Generally, for a function, if each pair of corresponding values of the independent variable and the function is taken as the x- and y-coordinates of a point, then the figure formed by these points in the coordinate plane is the graph of the function.
-> **Basic Knowledge: Steps for Plotting a Graph by the Point-Plotting Method**
-> 
-> Step 1, make a table; Step 2, plot points; Step 3, join the points.
 ---
-
 
 ## Review Problem 1
 
@@ -21,9 +8,9 @@
 
 ### Solution to Review Problem 1
 
-By **Basic Knowledge: Constants and Variables**, the distance $10\ \text{km}$ between $A$ and $B$ and the cycling speed $20\ \text{km/h}$ remain constant, so they are constants. The cycling time $x$ and the distance $y$ from $B$ change, so $x$ and $y$ are variables.
+By Constants and Variables, the distance $10\ \text{km}$ between $A$ and $B$ and the cycling speed $20\ \text{km/h}$ remain constant, so they are constants. The cycling time $x$ and the distance $y$ from $B$ change, so $x$ and $y$ are variables.
 
-By **Basic Knowledge: Function**, for each definite value of the cycling time $x$, the distance $y$ from $B$ has a unique definite value, so $y$ is a function of $x$, where $x$ is the independent variable.
+By Function, for each definite value of the cycling time $x$, the distance $y$ from $B$ has a unique definite value, so $y$ is a function of $x$, where $x$ is the independent variable.
 
 After cycling for $x\ \text{h}$, Li Ming has traveled $20x\ \text{km}$, and his distance from $B$ is $10-20x$. So the analytic expression is $y=10-20x$.
 
@@ -43,7 +30,7 @@ The cycling time cannot be negative, and once Li Ming reaches $B$ the distance i
 
 ### Solution to Review Problem 2
 
-(1) By **Basic Knowledge: Function**, for each definite value of the water level $x$, the storage capacity $y$ has a unique definite value, so $y$ is a function of $x$.
+(1) By Function, for each definite value of the water level $x$, the storage capacity $y$ has a unique definite value, so $y$ is a function of $x$.
 
 (2) From the table, as the water level rises from $95\ \text{m}$ to $128\ \text{m}$, the storage capacity increases from $1.05\times10^7\ \text{m}^3$ to $1.03\times10^8\ \text{m}^3$; that is, the storage capacity increases as the water level rises. $\blacksquare$
 
@@ -55,7 +42,7 @@ $\left(-2, -1\right)$, $\left(-1, 0\right)$, $\left(0, 1\right)$, $\left(1, 2\ri
 
 ### Solution to Review Problem 3
 
-By **Basic Knowledge: Graph of a Function**, the coordinates of a point on the graph satisfy the analytic expression.
+By Graph of a Function, the coordinates of a point on the graph satisfy the analytic expression.
 
 Substitute $x=-2$ into $y=\frac{1}{2}x+1$: $y=\frac{1}{2}\times\left(-2\right)+1=0 \neq -1$, so $\left(-2, -1\right)$ is not on the graph.
 

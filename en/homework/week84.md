@@ -1,22 +1,6 @@
 # week84
 
-> **Basic Knowledge: Method Using the Difference of Squares Formula**
-> 
-> $a^2-b^2=\left(a+b\right)\left(a-b\right)$, i.e. the difference of the squares of two numbers equals the product of the sum of the two numbers and the difference of the two numbers.
 ---
-
-
-> **Basic Knowledge: Perfect Square Trinomial** 
-> 
-> Expressions such as $a^2+2ab+b^2$ and $a^2-2ab+b^2$ are called perfect square trinomials.
-
-> **Basic Knowledge: Method Using the Perfect Square Formula** 
-> 
-> $a^2+2ab+b^2=\left(a+b\right)^2$, $a^2-2ab+b^2=\left(a-b\right)^2$.
-
-> **Basic Knowledge: Method of Using Formulas** 
-> 
-> Swap the two sides of a multiplication formula, and use the formula to factor a polynomial. Factoring should be carried on until each polynomial factor can no longer be factored.
 
 ## Exercise 1
 
@@ -32,7 +16,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge**, the difference of squares formula requires the two terms to have opposite signs and both be squares.
+By Basic Knowledge, the difference of squares formula requires the two terms to have opposite signs and both be squares.
 
 (1) No; the two terms have the same sign.
 
@@ -60,7 +44,7 @@ By **Basic Knowledge**, the difference of squares formula requires the two terms
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $36-m^2=\left(6+m\right)\left(6-m\right)$.
 
@@ -88,7 +72,7 @@ By **Basic Knowledge**.
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge**, a perfect square trinomial must be the sum of two squares plus or minus $2$ times their product.
+By Basic Knowledge, a perfect square trinomial must be the sum of two squares plus or minus $2$ times their product.
 
 (1) Yes; $a^2-2\cdot a\cdot2+2^2=\left(a-2\right)^2$.
 
@@ -116,7 +100,7 @@ By **Basic Knowledge**, a perfect square trinomial must be the sum of two square
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $a^2+2a+1=\left(a+1\right)^2$.
 
@@ -190,7 +174,7 @@ First extract the common factor, then use the formula; factor until no further f
 
 ### Solution to Problem 1
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $9a^2-16=\left(3a+4\right)\left(3a-4\right)$.
 
@@ -214,7 +198,7 @@ By **Basic Knowledge**.
 
 ### Solution to Problem 2
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $a^2-4ab+4b^2=\left(a-2b\right)^2$.
 

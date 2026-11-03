@@ -1,32 +1,5 @@
 # week65
 
-> **基础知识: 中线**
-> 
-> 连接顶点与对边中点的线段叫作中线, 三条中线交于重心.
-
-> **基础知识: 角平分线**
-> 
-> 角的平分线与对边相交所得线段叫作三角形的角平分线.
-
-> **基础知识: 高**
-> 
-> 从顶点向对边所在直线作垂线, 顶点与垂足间的线段叫作高.
-
-> **基础知识: 三角形内角和定理**
-> 
-> 三角形的内角和等于 $180^\circ$.
-
-> **基础知识: 外角与不相邻内角的关系**
-> 
-> 三角形的外角等于与它不相邻的两个内角的和, 三个外角和为 $360^\circ$.
-
-
-> **基础知识: 直角三角形锐角互余**
-> 
-> 直角三角形的两个锐角互余.
-> **基础知识: 三角形三边关系**
-> 
-> 三角形两边的和大于第三边; 三角形两边的差小于第三边.
 ---
 
 ## 复习题一
@@ -45,7 +18,7 @@
 
 ### 解答 复习题一
 
-由**基础知识: 三角形内角和定理** 及**基础知识: 直角三角形锐角互余** 逐一判断.
+由三角形内角和定理 及直角三角形锐角互余 逐一判断.
 
 条件 (1): 两个角为锐角不能确定第三个角是否为直角, 不能确定.
 
@@ -57,7 +30,6 @@
 
 故能确定的是 (2)(3)(4). $\blacksquare$
 
-
 ---
 
 ## 复习题二
@@ -66,14 +38,13 @@
 
 ### 解答 复习题二
 
-由**基础知识: 高**, 以 $BD$ 为底时高为 $AE$. 由三角形面积公式,
+由高, 以 $BD$ 为底时高为 $AE$. 由三角形面积公式,
 
 $$
 S_{\triangle ABD}=\frac{1}{2}\cdot BD\cdot AE=\frac{1}{2}\times BD\times2=1.5.
 $$
 
-解得 $BD=1.5$. 由**基础知识: 中线**, $D$ 是 $BC$ 的中点, 故 $BC=2BD=3$, $DC=BD=1.5$. $\blacksquare$
-
+解得 $BD=1.5$. 由中线, $D$ 是 $BC$ 的中点, 故 $BC=2BD=3$, $DC=BD=1.5$. $\blacksquare$
 
 ---
 
@@ -83,7 +54,7 @@ $$
 
 ### 解答 复习题三
 
-由**基础知识: 三角形三边关系**, 在 $\triangle ABD$ 中,
+由三角形三边关系, 在 $\triangle ABD$ 中,
 
 $$
 AB+AD> BD.
@@ -103,7 +74,6 @@ $$
 
 左边即 $AB+AC$, 右边即 $BC$, 故 $AB+AC> BC$. 依次填 $BD$, $PC$, $BD+PC$, $BC$. $\blacksquare$
 
-
 ---
 
 ## 复习题四
@@ -114,7 +84,7 @@ $$
 
 ### 解答 复习题四
 
-由**基础知识: 三角形内角和定理** 及**基础知识: 外角与不相邻内角的关系**.
+由三角形内角和定理 及外角与不相邻内角的关系.
 
 图 (1): 直角三角形中一锐角为 $50^\circ$, 故 $x=90^\circ-50^\circ=40^\circ$.
 
@@ -128,7 +98,6 @@ $$
 
 解得 $x=60$. $\blacksquare$
 
-
 ---
 
 ## 复习题五
@@ -137,7 +106,7 @@ $$
 
 ### 解答 复习题五
 
-由**基础知识: 三角形内角和定理**, 在 $\triangle ABC$ 中, $\angle A+\angle B+\angle 1=180^\circ$. 又 $\angle A=\angle 1-10^\circ$, $\angle B=42^\circ$, 代入:
+由三角形内角和定理, 在 $\triangle ABC$ 中, $\angle A+\angle B+\angle 1=180^\circ$. 又 $\angle A=\angle 1-10^\circ$, $\angle B=42^\circ$, 代入:
 
 $$
 \left(\angle 1-10^\circ\right)+42^\circ+\angle 1=180^\circ,
@@ -147,7 +116,6 @@ $$
 
 于是 $\angle A=\angle ACD=64^\circ$, 这两个角是直线 $AB$, $CD$ 被直线 $AC$ 所截得的内错角, 内错角相等, 故 $AB\parallel CD$. $\blacksquare$
 
-
 ---
 
 ## 复习题六
@@ -156,7 +124,7 @@ $$
 
 ### 解答 复习题六
 
-由**基础知识: 三角形内角和定理**,
+由三角形内角和定理,
 
 $$
 \angle A+2\angle A+2\angle A=180^\circ,
@@ -164,14 +132,13 @@ $$
 
 解得 $\angle A=36^\circ$, 故 $\angle C=72^\circ$.
 
-由**基础知识: 高**, $BD\perp AC$, 在 $\text{Rt}\triangle BDC$ 中, 由**基础知识: 直角三角形锐角互余**,
+由高, $BD\perp AC$, 在 $\text{Rt}\triangle BDC$ 中, 由直角三角形锐角互余,
 
 $$
 \angle DBC=90^\circ-\angle C=90^\circ-72^\circ=18^\circ.
 $$
 
 $\blacksquare$
-
 
 ---
 
@@ -181,22 +148,21 @@ $\blacksquare$
 
 ### 解答 复习题七
 
-由**基础知识: 三角形内角和定理**,
+由三角形内角和定理,
 
 $$
 \angle ABC=180^\circ-50^\circ-70^\circ=60^\circ.
 $$
 
-由**基础知识: 高**, $AD\perp BC$, 在 $\text{Rt}\triangle ADC$ 中, $\angle DAC=90^\circ-\angle C=90^\circ-70^\circ=20^\circ$.
+由高, $AD\perp BC$, 在 $\text{Rt}\triangle ADC$ 中, $\angle DAC=90^\circ-\angle C=90^\circ-70^\circ=20^\circ$.
 
-由**基础知识: 角平分线**, $AE$ 平分 $\angle BAC$, 故 $\angle BAO=25^\circ$; $BF$ 平分 $\angle ABC$, 故 $\angle ABO=30^\circ$. 在 $\triangle ABO$ 中,
+由角平分线, $AE$ 平分 $\angle BAC$, 故 $\angle BAO=25^\circ$; $BF$ 平分 $\angle ABC$, 故 $\angle ABO=30^\circ$. 在 $\triangle ABO$ 中,
 
 $$
 \angle BOA=180^\circ-\angle BAO-\angle ABO=180^\circ-25^\circ-30^\circ=125^\circ.
 $$
 
 $\blacksquare$
-
 
 ---
 
@@ -210,13 +176,13 @@ $\blacksquare$
 
 ### 解答 复习题八
 
-由**基础知识: 角平分线**, $BE$ 平分 $\angle ABC$, $CF$ 平分 $\angle ACB$, 故
+由角平分线, $BE$ 平分 $\angle ABC$, $CF$ 平分 $\angle ACB$, 故
 
 $$
 \angle GBC=\frac{1}{2}\angle ABC,\quad \angle GCB=\frac{1}{2}\angle ACB.
 $$
 
-(1) 在 $\triangle BGC$ 中, 由**基础知识: 三角形内角和定理**,
+(1) 在 $\triangle BGC$ 中, 由三角形内角和定理,
 
 $$
 \angle BGC=180^\circ-\angle GBC-\angle GCB=180^\circ-\frac{1}{2}\left(\angle ABC+\angle ACB\right).
@@ -230,7 +196,6 @@ $$
 
 $\blacksquare$
 
-
 ---
 
 ## 复习题九
@@ -241,7 +206,7 @@ $\blacksquare$
 
 ### 解答 复习题九
 
-设线段 $BE$ 与 $CD$, $AD$ 相交. 由**基础知识: 外角与不相邻内角的关系**, 五角星中间形成的三角形中, 两个不相邻内角之和等于相应外角, 这些外角又可转化为中央三角形的两个内角之和.
+设线段 $BE$ 与 $CD$, $AD$ 相交. 由外角与不相邻内角的关系, 五角星中间形成的三角形中, 两个不相邻内角之和等于相应外角, 这些外角又可转化为中央三角形的两个内角之和.
 
 中央三角形的三个内角之和为 $180^\circ$, 而五个尖角 $\angle A$, $\angle B$, $\angle C$, $\angle D$, $\angle E$ 恰好分别等于这三个内角通过外角关系转化后的各个不相邻内角之和. 故
 

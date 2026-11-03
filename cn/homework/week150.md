@@ -1,22 +1,6 @@
 # week150
 
-> **基础知识: 圆周角**
-> 
-> 顶点在圆上, 并且两边都与圆相交的角叫作圆周角.
-> **基础知识: 圆周角定理**
-> 
-> 一条弧所对的圆周角等于它所对的圆心角的一半.
-> **基础知识: 圆周角推论**
-> 
-> 同弧或等弧所对的圆周角相等; 半圆 (或直径) 所对的圆周角是直角; $90^\circ$ 的圆周角所对的弦是直径.
-> **基础知识: 圆内接多边形**
-> 
-> 如果一个多边形的所有顶点都在同一个圆上, 这个多边形叫作圆的内接多边形, 这个圆叫作这个多边形的外接圆.
-> **基础知识: 圆内接四边形的性质**
-> 
-> 圆内接四边形的对角互补.
 ---
-
 
 ## 练习一
 
@@ -24,7 +8,7 @@
 
 ### 解答 练习一
 
-由**基础知识: 圆周角**.
+由圆周角.
 
 圆周角必须满足顶点在圆上且两边都与圆相交. 顶点不在圆上者不是; 只有一边与圆相交者也不是. $\blacksquare$
 
@@ -34,7 +18,7 @@
 
 ### 解答 练习二
 
-由**基础知识: 圆周角定理**.
+由圆周角定理.
 
 $\angle ACB$ 是 $\overset{\frown}{AB}$ 所对的圆周角, 故 $\angle ACB=\frac12\angle AOB$. $\angle BAC$ 是 $\overset{\frown}{BC}$ 所对的圆周角, 故 $\angle BAC=\frac12\angle BOC$. 由 $\angle AOB=2\angle BOC$, 得
 
@@ -50,7 +34,7 @@ $\blacksquare$
 
 ### 解答 练习三
 
-由**基础知识: 圆周角推论**.
+由圆周角推论.
 
 方法一: 用三角尺的直角顶点在圆上不同两点画两条直角边与圆相交的弦, 两条直角边所对弦为直径, 两直径交点即圆心.
 
@@ -62,7 +46,7 @@ $\blacksquare$
 
 ### 解答 练习四
 
-由**基础知识: 圆周角定理**.
+由圆周角定理.
 
 同弧所对的圆周角相等. $\angle BAC$ 与 $\angle BDC$ 都对 $\overset{\frown}{BC}$, 故相等; $\angle CBD$ 与 $\angle CAD$ 都对 $\overset{\frown}{CD}$, 故相等; $\angle ACD$ 与 $\angle ABD$ 都对 $\overset{\frown}{AD}$, 故相等; $\angle ADB$ 与 $\angle ACB$ 都对 $\overset{\frown}{AB}$, 故相等. $\blacksquare$
 
@@ -72,7 +56,7 @@ $\blacksquare$
 
 ### 解答 练习五
 
-由**基础知识: 圆内接四边形的性质**.
+由圆内接四边形的性质.
 
 圆内接四边形对角互补, $\angle ABC+\angle D=180^\circ$, 故 $\angle ABC=180^\circ-110^\circ=70^\circ$. 又 $E$ 在 $CB$ 延长线上, $\angle ABE+\angle ABC=180^\circ$, 故 $\angle ABE=110^\circ$. $\blacksquare$
 
@@ -82,7 +66,7 @@ $\blacksquare$
 
 ### 解答 练习六
 
-由**基础知识: 圆内接四边形的性质**.
+由圆内接四边形的性质.
 
 $\angle A+\angle C=180^\circ$, 故 $\angle A=102^\circ$. 在 $\triangle ABD$ 中, $AB=AD$, 故
 

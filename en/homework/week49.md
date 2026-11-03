@@ -1,17 +1,5 @@
 # week49
 
-> **Basic Knowledge: Solution of a Linear Equation in Two Variables**
-> 
-> The values of the two unknowns that make the two sides of the linear equation in two variables equal.
-
-> **Basic Knowledge: Solution of a System of Linear Equations in Two Variables**
-> 
-> The common solution of the two equations in the system of linear equations in two variables.
-
-
-> **Basic Knowledge: Solving Word Problems by Setting Up a System of Equations**
-> 
-> Set up two unknowns, write a system of two linear equations based on the problem, and solve by substitution or elimination.
 ---
 
 ## Activity 1
@@ -22,12 +10,11 @@ The figure shows a Cartesian coordinate plane with several points whose coordina
 
 ### Solution to Activity 1
 
-By **Basic Knowledge: Solution of a Linear Equation in Two Variables**, the equation $x-y=0$ is $y=x$; it has infinitely many solutions, such as $\left(0,0\right)$, $\left(1,1\right)$, $\left(-1,-1\right)$, $\left(2,2\right)$, etc.
+By Solution of a Linear Equation in Two Variables, the equation $x-y=0$ is $y=x$; it has infinitely many solutions, such as $\left(0,0\right)$, $\left(1,1\right)$, $\left(-1,-1\right)$, $\left(2,2\right)$, etc.
 
 Plotting these solutions as coordinates in the system, we find they all lie on the same line, which is $y=x$ (the angle bisector of the first and third quadrants). By the determinacy of a line, the line drawn through any two of them is this very line.
 
 Take any point on this line; its x-coordinate equals its y-coordinate, i.e. it satisfies $x-y=0$; thus the coordinates of this point are still a solution of the equation $x-y=0$. $\blacksquare$
-
 
 ---
 
@@ -50,10 +37,9 @@ The figure shows a Cartesian coordinate plane with the line $y=4-2x$ (through $\
 
 The equation $2x+y=4$ is $y=4-2x$; take two points $\left(0,4\right)$, $\left(2,0\right)$ and connect them. The equation $x-y=-1$ is $y=x+1$; take two points $\left(0,1\right)$, $\left(1,2\right)$ and connect them.
 
-By **Basic Knowledge: Solution of a System of Linear Equations in Two Variables**, the solution of the system is the common solution of the two equations, which on the graph is the intersection of the two lines. The two lines intersect at $\left(1,2\right)$, so the solution of the system is $\begin{cases}x=1,\\y=2.\end{cases}$
+By Solution of a System of Linear Equations in Two Variables, the solution of the system is the common solution of the two equations, which on the graph is the intersection of the two lines. The two lines intersect at $\left(1,2\right)$, so the solution of the system is $\begin{cases}x=1,\\y=2.\end{cases}$
 
 Check by substitution: $2\times1+2=4$, $1-2=-1$, both hold. $\blacksquare$
-
 
 ---
 
@@ -63,7 +49,7 @@ Check by substitution: $2\times1+2=4$, $1-2=-1$, both hold. $\blacksquare$
 
 ### Solution to Activity 3
 
-Let $x\ \text{km}$ be the mileage at swap and $y\ \text{km}$ the total mileage when worn out. By **Basic Knowledge: Solving Word Problems by Setting Up a System of Equations**, the front tire serves as the front tire for the first $x\ \text{km}$ and as the rear tire for the last $y-x\ \text{km}$; the rear tire serves as the rear tire for the first $x\ \text{km}$ and as the front tire for the last $y-x\ \text{km}$.
+Let $x\ \text{km}$ be the mileage at swap and $y\ \text{km}$ the total mileage when worn out. By Solving Word Problems by Setting Up a System of Equations, the front tire serves as the front tire for the first $x\ \text{km}$ and as the rear tire for the last $y-x\ \text{km}$; the rear tire serves as the rear tire for the first $x\ \text{km}$ and as the front tire for the last $y-x\ \text{km}$.
 
 Total wear of the front tire: $\frac{x}{60000}+\frac{y-x}{80000}=1$.
 

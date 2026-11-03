@@ -1,22 +1,6 @@
 # week132
 
-> **Basic Knowledge: Direct Square Root Extraction**
-> 
-> An equation of the form $\left(x+n\right)^2=p$: when $p> 0$, $x=-n\pm\sqrt p$; when $p=0$, $x_1=x_2=-n$; when $p< 0$, no real root.
-> **Basic Knowledge: Quadratic Formula**
-> 
-> When $\Delta=b^2-4ac\ge0$, the roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$.
-> **Basic Knowledge: Nature of the Roots**
-> 
-> When $\Delta> 0$, the equation has two unequal real roots; when $\Delta=0$, two equal real roots; when $\Delta< 0$, no real root.
-> **Basic Knowledge: Relation Between Roots and Coefficients**
-> 
-> The two roots $x_1,x_2$ of $ax^2+bx+c=0\ \left(a\ne0\right)$ satisfy $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$.
-> **Basic Knowledge: Match-Schedule Model**
-> 
-> $n$ teams in a single round-robin play $\frac{n\left(n-1\right)}2$ matches in total.
 ---
-
 
 ## Review Problem 1
 
@@ -100,7 +84,7 @@ i.e. $x\left(x+2\right)=8$, $x^2+2x-8=0$, i.e. $\left(x+4\right)\left(x-2\right)
 
 ### Solution to Review Problem 4
 
-First put in general form, then find the sum and product by **Basic Knowledge: Relation Between Roots and Coefficients**.
+First put in general form, then find the sum and product by Relation Between Roots and Coefficients.
 
 (1) $x_1+x_2=5$, $x_1x_2=-10$.
 
@@ -116,13 +100,13 @@ First put in general form, then find the sum and product by **Basic Knowledge: R
 
 ### Solution to Review Problem 5
 
-By **Basic Knowledge**, compute the discriminant, where $a=2$, $b=-\left(4k+1\right)$, $c=2k^2-1$, hence
+By Basic Knowledge, compute the discriminant, where $a=2$, $b=-\left(4k+1\right)$, $c=2k^2-1$, hence
 
 $$
 \Delta=\left(4k+1\right)^2-4\cdot2\cdot\left(2k^2-1\right)=16k^2+8k+1-16k^2+8=8k+9.
 $$
 
-By **Basic Knowledge: Nature of the Roots**:
+By Nature of the Roots:
 
 When $\Delta> 0$, i.e. $8k+9> 0$, $k> -\frac98$, the equation has two unequal real roots;
 
@@ -168,7 +152,7 @@ i.e. $2\left(10a^2+25a+10a\right)=40$, $20a^2+70a=40$, i.e. $2a^2+7a-4=0$; facto
 
 ### Solution to Review Problem 8
 
-By **Basic Knowledge: Match-Schedule Model**, $n$ teams in a single round-robin play $\frac{n\left(n-1\right)}2$ matches. Set up
+By Match-Schedule Model, $n$ teams in a single round-robin play $\frac{n\left(n-1\right)}2$ matches. Set up
 
 $$
 \frac{n\left(n-1\right)}2=15.

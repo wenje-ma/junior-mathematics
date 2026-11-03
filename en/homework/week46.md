@@ -1,21 +1,5 @@
 # week46
 
-> **Basic Knowledge: Idea of Elimination**
-> 
-> The idea of reducing the number of unknowns in a system of linear equations in two variables from many to few and solving them one by one.
-
-> **Basic Knowledge: Substitution Elimination**
-> 
-> Express one unknown of one equation in terms of an expression containing the other unknown, then substitute it into the other equation to eliminate the unknown; abbreviated as substitution method.
-
-> **Basic Knowledge: Addition-Subtraction Elimination**
-> 
-> When the coefficients of the same unknown in the two equations are opposite or equal, add or subtract both sides respectively to eliminate this unknown; abbreviated as addition-subtraction method.
-
-> **Basic Knowledge: Downstream and Upstream Speeds**
-> 
-> Downstream speed = speed in still water + current speed; upstream speed = speed in still water - current speed.
-
 ---
 
 ## Exercise 1
@@ -28,12 +12,11 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Substitution Elimination**, leave $y$ alone on one side of the equals sign.
+By Substitution Elimination, leave $y$ alone on one side of the equals sign.
 
 (1) Transposing gives $y=1-3x$.
 
 (2) Transposing gives $y=2x-3$. $\blacksquare$
-
 
 ---
 
@@ -51,7 +34,7 @@ By **Basic Knowledge: Substitution Elimination**, leave $y$ alone on one side of
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Substitution Elimination**, solve for one unknown from one equation and substitute into the other.
+By Substitution Elimination, solve for one unknown from one equation and substitute into the other.
 
 (1) From the first equation $y=2x-5$; substitute into the second: $3x+4\left(2x-5\right)=2$, i.e. $11x=22$, giving $x=2$, $y=-1$.
 
@@ -60,7 +43,6 @@ By **Basic Knowledge: Substitution Elimination**, solve for one unknown from one
 (3) From the second equation $b=5-2a$; substitute into the first: $4a-3\left(5-2a\right)=5$, i.e. $10a=20$, giving $a=2$, $b=1$.
 
 (4) From the first equation $s=3t-2$; substitute into the second: $3t-2+5t=6$, giving $t=1$, $s=1$. $\blacksquare$
-
 
 ---
 
@@ -74,12 +56,11 @@ By **Basic Knowledge: Substitution Elimination**, solve for one unknown from one
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Substitution Elimination**.
+By Substitution Elimination.
 
 (1) From the first equation $y=\frac{4x+2}{3}$; substitute into the second and multiply by $3$: $15x+4\left(4x+2\right)=39$, i.e. $31x=31$, giving $x=1$, $y=2$.
 
 (2) From the first equation $m=\frac{17-2n}{3}$; substitute into the second and multiply by $3$: $2\left(17-2n\right)-9n=-18$, i.e. $-13n=-52$, giving $n=4$, $m=3$. $\blacksquare$
-
 
 ---
 
@@ -98,10 +79,9 @@ $$
 \end{cases}
 $$
 
-By **Basic Knowledge: Addition-Subtraction Elimination**, multiply the first equation by $2$ and the second by $3$: $6x+8y=216$, $6x+9y=228$; subtracting gives $y=12$, and substituting gives $3x+48=108$, $x=20$.
+By Addition-Subtraction Elimination, multiply the first equation by $2$ and the second by $3$: $6x+8y=216$, $6x+9y=228$; subtracting gives $y=12$, and substituting gives $3x+48=108$, $x=20$.
 
 Thus a large box holds $20$ bottles and a small box holds $12$ bottles. $\blacksquare$
-
 
 ---
 
@@ -119,7 +99,7 @@ Thus a large box holds $20$ bottles and a small box holds $12$ bottles. $\blacks
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Addition-Subtraction Elimination**.
+By Addition-Subtraction Elimination.
 
 (1) Add the two equations: $4x=8$, giving $x=2$; substituting back $2+2y=9$, $y=3.5$.
 
@@ -128,7 +108,6 @@ By **Basic Knowledge: Addition-Subtraction Elimination**.
 (3) Subtract the two equations: $6y=6$, giving $y=1$; substituting back $5x+2=27$, $x=5$.
 
 (4) Add the two equations: $\frac{4}{3}x=-28$, giving $x=-21$; substituting back $-21+5y=-41$, $y=-4$. $\blacksquare$
-
 
 ---
 
@@ -142,12 +121,11 @@ By **Basic Knowledge: Addition-Subtraction Elimination**.
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge: Addition-Subtraction Elimination**.
+By Addition-Subtraction Elimination.
 
 (1) Multiply the first equation by $3$: $9x+12y=48$; multiply the second by $2$: $10x-12y=66$; adding gives $19x=114$, $x=6$; substituting back $18+4y=16$, $y=-0.5$.
 
 (2) Multiply the first equation by $3$: $6x+9y=-\frac{20}{3}$; multiply the second by $2$: $6x+4y=-\frac{10}{3}$; subtracting gives $5y=-\frac{10}{3}$, $y=-\frac{2}{3}$; substituting back $2x-2=-\frac{20}{9}$, $x=-\frac{1}{9}$. $\blacksquare$
-
 
 ---
 
@@ -166,10 +144,9 @@ y=x+0.5,\\
 \end{cases}
 $$
 
-By **Basic Knowledge: Substitution Elimination**, substituting gives $35x+6\left(x+0.5\right)=44$, i.e. $41x=41$, $x=1$, $y=1.5$.
+By Substitution Elimination, substituting gives $35x+6\left(x+0.5\right)=44$, i.e. $41x=41$, $x=1$, $y=1.5$.
 
 Thus $1\ \text{kg}$ of perch and $1.5\ \text{kg}$ of eggplant were bought. $\blacksquare$
-
 
 ---
 
@@ -187,7 +164,7 @@ Thus $1\ \text{kg}$ of perch and $1.5\ \text{kg}$ of eggplant were bought. $\bla
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Substitution Elimination**.
+By Substitution Elimination.
 
 (1) $2y=1-\frac{3}{2}x$, giving $y=\frac{1}{2}-\frac{3}{4}x$.
 
@@ -196,7 +173,6 @@ By **Basic Knowledge: Substitution Elimination**.
 (3) Transpose $4x=5y$, giving $y=\frac{4}{5}x$.
 
 (4) $6y-6=6x+4$, giving $y=x+\frac{5}{3}$. $\blacksquare$
-
 
 ---
 
@@ -214,7 +190,7 @@ By **Basic Knowledge: Substitution Elimination**.
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Substitution Elimination**.
+By Substitution Elimination.
 
 (1) Substitute: $7x+5\left(x+3\right)=9$, i.e. $12x=-6$, $x=-0.5$, $y=2.5$.
 
@@ -223,7 +199,6 @@ By **Basic Knowledge: Substitution Elimination**.
 (3) Multiply the first equation by $3$ and the second by $2$, then subtract: $17y=-51$, $y=-3$; substituting back $2x-9=-5$, $x=2$.
 
 (4) Let $u=x+y$, $v=x-y$. Then $\frac{u}{3}+\frac{v}{2}=6$ i.e. $2u+3v=36$, and $3u-2v=28$. Multiply the first by $2$ and the second by $3$ and add: $13u=156$, $u=12$; substituting back $36-2v=28$, $v=4$. Thus $x=\frac{u+v}{2}=8$, $y=\frac{u-v}{2}=4$. $\blacksquare$
-
 
 ---
 
@@ -241,7 +216,7 @@ By **Basic Knowledge: Substitution Elimination**.
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Addition-Subtraction Elimination**.
+By Addition-Subtraction Elimination.
 
 (1) Add: $9u=18$, $u=2$; substituting back $6+2t=7$, $t=0.5$.
 
@@ -250,7 +225,6 @@ By **Basic Knowledge: Addition-Subtraction Elimination**.
 (3) Multiply the first equation by $2$: $4x-10y=14$; subtract the second equation: $-7y=7$, $y=-1$; substituting back $2x+5=7$, $x=1$.
 
 (4) From the second equation $y=2-5x$; substitute into the first and multiply by $6$: $2x-9\left(2-5x\right)=-18$, i.e. $47x=0$, $x=0$, $y=2$. $\blacksquare$
-
 
 ---
 
@@ -271,12 +245,11 @@ $$
 
 Substitute: $x+2x-1=200$, giving $x=67$, $y=133$. Thus $67$ people go to Yunshui Cave and $133$ people go to Huaguo Ridge. $\blacksquare$
 
-
 ---
 
 ## Problem 5
 
-(Exercise 10.2, Comprehensive Application, Problem 5) A boat sailing downstream (by **Basic Knowledge: Downstream and Upstream Speeds**) travels $20\ \text{km}$ per hour; sailing upstream, it travels $16\ \text{km}$ per hour. Find the speed of the boat in still water and the speed of the current.
+(Exercise 10.2, Comprehensive Application, Problem 5) A boat sailing downstream (by Downstream and Upstream Speeds) travels $20\ \text{km}$ per hour; sailing upstream, it travels $16\ \text{km}$ per hour. Find the speed of the boat in still water and the speed of the current.
 
 ### Solution to Problem 5
 
@@ -290,7 +263,6 @@ x-y=16.
 $$
 
 Add the two equations: $2x=36$, $x=18$; substituting back $18+y=20$, $y=2$. Thus the boat's speed in still water is $18\ \text{km/h}$ and the current speed is $2\ \text{km/h}$. $\blacksquare$
-
 
 ---
 
@@ -311,7 +283,6 @@ $$
 
 Multiply the first equation by $2$: $4x+6y=260$; subtract the second: $4y=120$, $y=30$; substituting back $2x+90=130$, $x=20$. Thus "Embracing the Moon from the Ninth Heaven" is $20$ yuan per person and "Exploring the Deep Sea" is $30$ yuan per person. $\blacksquare$
 
-
 ---
 
 ## Problem 7
@@ -327,7 +298,6 @@ Multiply the first equation by $2$: $4x+6y=260$; subtract the second: $4y=120$, 
 (1) From the first equation $y=3x-8$; substitute into the second: $3x+15=5\left(3x-8\right)-5$, i.e. $12x=60$, $x=5$, $y=7$.
 
 (2) Multiply the first equation by $12$: $8u+9v=6$; multiply the second by $30$: $24u+25v=14$. Multiply the first by $3$ and subtract the second: $2v=4$, $v=2$; substituting back $8u+18=6$, $u=-\frac{3}{2}$. $\blacksquare$
-
 
 ---
 
@@ -348,7 +318,6 @@ $$
 
 Substitute: $\frac{x+4.5}{2}=x-1$, i.e. $x+4.5=2x-2$, giving $x=6.5$, $y=11$. Thus the log is $6.5$ chi long. $\blacksquare$
 
-
 ---
 
 ## Problem 9
@@ -367,7 +336,6 @@ x+\left(13-3\right)z=28.
 $$
 
 Subtract the two equations: $6z=10.8$, $z=1.8$; substituting back $x+4\times1.8=17.2$, $x=10$. Thus the flag-down fare is $10$ yuan, and beyond $3\ \text{km}$ the distance fare is $1.8$ yuan per kilometer. $\blacksquare$
-
 
 ---
 
@@ -388,7 +356,6 @@ $$
 
 Multiply the first equation by $4$: $20x+12y=760$; subtract the second: $9x=180$, $x=20$; substituting back $100+3y=190$, $y=30$. Thus each set of boys' costume is $20$ yuan and each set of girls' costume is $30$ yuan. $\blacksquare$
 
-
 ---
 
 ## Problem 11
@@ -407,7 +374,6 @@ $$
 $$
 
 Simplify: $2x+5y=1.8$, $3x+2y=1.6$. Multiply the first by $2$ and the second by $5$ and subtract: $11x=4.4$, $x=0.4$; substituting back $0.8+5y=1.8$, $y=0.2$. Thus a large harvester harvests $0.4\ \text{hm}^2$ per hour and a small harvester $0.2\ \text{hm}^2$ per hour. $\blacksquare$
-
 
 ---
 

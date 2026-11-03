@@ -1,18 +1,5 @@
 # week69
 
-
-> **基础知识: 角平分线的判定**
-> 
-> 角的内部到角的两边距离相等的点在角的平分线上.
-> **基础知识: 角平分线的性质**
-> 
-> 角的平分线上的点到角的两边的距离相等.
-> **基础知识: SAS**
-> 
-> 两边及其夹角分别相等的两个三角形全等 (可以简写成 "边角边" 或 "SAS").
-> **基础知识: HL**
-> 
-> 斜边和一条直角边分别相等的两个直角三角形全等 (可以简写成 "斜边, 直角边" 或 "HL").
 ---
 
 ## 练习一
@@ -21,8 +8,7 @@
 
 ### 解答 练习一
 
-由**基础知识: 角平分线的判定**, 到 $OA$, $OB$ 距离相等的点在 $\angle AOB$ 的平分线上. 故先用尺规作 $\angle AOB$ 的平分线, 该平分线与直线 $MN$ 的交点即为所求的点 $P$. $\blacksquare$
-
+由角平分线的判定, 到 $OA$, $OB$ 距离相等的点在 $\angle AOB$ 的平分线上. 故先用尺规作 $\angle AOB$ 的平分线, 该平分线与直线 $MN$ 的交点即为所求的点 $P$. $\blacksquare$
 
 ---
 
@@ -32,10 +18,9 @@
 
 ### 解答 练习二
 
-由**基础知识: 角平分线的性质**, $PD=PE$. 在 $\text{Rt}\triangle PDF$ 和 $\text{Rt}\triangle PEG$ 中, $\angle PDF=\angle PEG=90^\circ$, $DF=EG$, $PD=PE$, 由**基础知识: SAS**, $\triangle PDF\cong\triangle PEG$.
+由角平分线的性质, $PD=PE$. 在 $\text{Rt}\triangle PDF$ 和 $\text{Rt}\triangle PEG$ 中, $\angle PDF=\angle PEG=90^\circ$, $DF=EG$, $PD=PE$, 由SAS, $\triangle PDF\cong\triangle PEG$.
 
-由**基础知识**, 对应边 $PF=PG$. $\blacksquare$
-
+由基础知识, 对应边 $PF=PG$. $\blacksquare$
 
 ---
 
@@ -47,10 +32,9 @@
 
 在 $\triangle ABF$ 和 $\triangle CEF$ 中, $\angle AFB=\angle CFE$ (对顶角), $\angle ABF=\angle CEF=90^\circ$, $AB=CE$, 由 AAS, $\triangle ABF\cong\triangle CEF$, 故 $BF=EF$.
 
-在 $\text{Rt}\triangle BDF$ 和 $\text{Rt}\triangle EDF$ 中, $BF=EF$, $DF$ 为公共斜边, 由**基础知识: HL**, $\text{Rt}\triangle BDF\cong\text{Rt}\triangle EDF$, 故 $DB=DE$.
+在 $\text{Rt}\triangle BDF$ 和 $\text{Rt}\triangle EDF$ 中, $BF=EF$, $DF$ 为公共斜边, 由HL, $\text{Rt}\triangle BDF\cong\text{Rt}\triangle EDF$, 故 $DB=DE$.
 
-即点 $D$ 到直线 $FB$ (在 $AB$ 上) 与直线 $FE$ (在 $CE$ 上) 的距离相等. 由**基础知识: 角平分线的判定**, 点 $D$ 在 $\angle BFE$ 的平分线上, 故 $FD$ 平分 $\angle BFE$. $\blacksquare$
-
+即点 $D$ 到直线 $FB$ (在 $AB$ 上) 与直线 $FE$ (在 $CE$ 上) 的距离相等. 由角平分线的判定, 点 $D$ 在 $\angle BFE$ 的平分线上, 故 $FD$ 平分 $\angle BFE$. $\blacksquare$
 
 ---
 
@@ -64,10 +48,9 @@
 
 ### 解答 练习四
 
-(1) 过点 $P$ 作到三边所在直线的垂线. 由 $BF$ 平分 $\angle CBD$ 且 $P$ 在 $BF$ 上, 由**基础知识: 角平分线的性质**, $P$ 到直线 $AB$, $BC$ 的距离相等. 同理由 $CG$ 平分 $\angle BCE$, $P$ 到直线 $BC$, $CA$ 的距离相等. 故 $P$ 到三边所在直线的距离相等.
+(1) 过点 $P$ 作到三边所在直线的垂线. 由 $BF$ 平分 $\angle CBD$ 且 $P$ 在 $BF$ 上, 由角平分线的性质, $P$ 到直线 $AB$, $BC$ 的距离相等. 同理由 $CG$ 平分 $\angle BCE$, $P$ 到直线 $BC$, $CA$ 的距离相等. 故 $P$ 到三边所在直线的距离相等.
 
-(2) 由 (1), $P$ 到直线 $AB$, $CA$ 的距离相等. 由**基础知识: 角平分线的判定**, $P$ 在 $\angle A$ 的平分线上. $\blacksquare$
-
+(2) 由 (1), $P$ 到直线 $AB$, $CA$ 的距离相等. 由角平分线的判定, $P$ 在 $\angle A$ 的平分线上. $\blacksquare$
 
 ---
 
@@ -77,10 +60,9 @@
 
 ### 解答 习题一
 
-由 $AD$ 是角平分线及**基础知识: 角平分线的性质**, $DE=DF$. 在 $\text{Rt}\triangle BDE$ 和 $\text{Rt}\triangle CDF$ 中, 斜边 $BD=CD$, 直角边 $DE=DF$, 由**基础知识: HL**, $\text{Rt}\triangle BDE\cong\text{Rt}\triangle CDF$.
+由 $AD$ 是角平分线及角平分线的性质, $DE=DF$. 在 $\text{Rt}\triangle BDE$ 和 $\text{Rt}\triangle CDF$ 中, 斜边 $BD=CD$, 直角边 $DE=DF$, 由HL, $\text{Rt}\triangle BDE\cong\text{Rt}\triangle CDF$.
 
-由**基础知识**, 对应直角边 $EB=FC$. $\blacksquare$
-
+由基础知识, 对应直角边 $EB=FC$. $\blacksquare$
 
 ---
 
@@ -92,10 +74,9 @@
 
 在 $\triangle BCE$ 和 $\triangle CBD$ 中, $\angle BEC=\angle CDB=90^\circ$, $\angle CBE=\angle BCD$ (由 $AB=AC$), $BC$ 为公共边, 由 AAS, $\triangle BCE\cong\triangle CBD$, 故 $BE=CD$. 由 $AB=AC$, 得 $AE=AD$.
 
-在 $\text{Rt}\triangle AEF$ 和 $\text{Rt}\triangle ADF$ 中, 斜边 $AF$ 为公共边, 直角边 $AE=AD$, 由**基础知识: HL**, $\text{Rt}\triangle AEF\cong\text{Rt}\triangle ADF$, 故 $\angle AFE=\angle AFD$.
+在 $\text{Rt}\triangle AEF$ 和 $\text{Rt}\triangle ADF$ 中, 斜边 $AF$ 为公共边, 直角边 $AE=AD$, 由HL, $\text{Rt}\triangle AEF\cong\text{Rt}\triangle ADF$, 故 $\angle AFE=\angle AFD$.
 
 即 $FA$ 平分 $\angle DFE$. $\blacksquare$
-
 
 ---
 
@@ -107,8 +88,7 @@
 
 在 $\triangle BOD$ 和 $\triangle COE$ 中, $\angle BDO=\angle CEO=90^\circ$, $\angle BOD=\angle COE$ (对顶角), $OB=OC$, 由 AAS, $\triangle BOD\cong\triangle COE$, 故 $OD=OE$.
 
-即点 $O$ 到直线 $AB$, $AC$ 的距离相等. 由**基础知识: 角平分线的判定**, 点 $O$ 在 $\angle A$ 的平分线上, 故 $\angle 1=\angle 2$. $\blacksquare$
-
+即点 $O$ 到直线 $AB$, $AC$ 的距离相等. 由角平分线的判定, 点 $O$ 在 $\angle A$ 的平分线上, 故 $\angle 1=\angle 2$. $\blacksquare$
 
 ---
 
@@ -118,8 +98,7 @@
 
 ### 解答 习题四
 
-由**基础知识: 角平分线的判定**, 到 $BC$, $AB$ 距离相等的点在 $\angle B$ 的平分线上. 故作 $\angle B$ 的平分线, 它与边 $AC$ 的交点即为所求的点 $P$. $\blacksquare$
-
+由角平分线的判定, 到 $BC$, $AB$ 距离相等的点在 $\angle B$ 的平分线上. 故作 $\angle B$ 的平分线, 它与边 $AC$ 的交点即为所求的点 $P$. $\blacksquare$
 
 ---
 
@@ -131,8 +110,7 @@
 
 由 $PE\parallel AB$, 得 $\angle EPD=\angle BAD$; 由 $PF\parallel AC$, 得 $\angle DPF=\angle CAD$. 由 $AD$ 是角平分线, $\angle BAD=\angle CAD$, 故 $\angle EPD=\angle DPF$, 即 $PD$ 平分 $\angle EPF$.
 
-由**基础知识: 角平分线的性质**, 点 $D$ 在 $PD$ 上, 故点 $D$ 到 $PE$ 和 $PF$ 的距离相等. $\blacksquare$
-
+由角平分线的性质, 点 $D$ 在 $PD$ 上, 故点 $D$ 到 $PE$ 和 $PF$ 的距离相等. $\blacksquare$
 
 ---
 
@@ -142,10 +120,9 @@
 
 ### 解答 习题六
 
-由**基础知识: 角平分线的性质**, $PD=PE$. 由 $OC$ 平分 $\angle AOB$, $PD\perp OA$, $PE\perp OB$, 可得 $\angle DPF=\angle EPF$. 在 $\triangle DPF$ 和 $\triangle EPF$ 中, $PD=PE$, $\angle DPF=\angle EPF$, $PF$ 为公共边, 由**基础知识: SAS**, $\triangle DPF\cong\triangle EPF$.
+由角平分线的性质, $PD=PE$. 由 $OC$ 平分 $\angle AOB$, $PD\perp OA$, $PE\perp OB$, 可得 $\angle DPF=\angle EPF$. 在 $\triangle DPF$ 和 $\triangle EPF$ 中, $PD=PE$, $\angle DPF=\angle EPF$, $PF$ 为公共边, 由SAS, $\triangle DPF\cong\triangle EPF$.
 
-由**基础知识**, 对应边 $DF=EF$. $\blacksquare$
-
+由基础知识, 对应边 $DF=EF$. $\blacksquare$
 
 ---
 
@@ -155,10 +132,9 @@
 
 ### 解答 习题七
 
-$AD\perp EF$. 证明: 由 $AD$ 是角平分线及**基础知识: 角平分线的性质**, $DE=DF$. 在 $\text{Rt}\triangle ADE$ 和 $\text{Rt}\triangle ADF$ 中, 斜边 $AD$ 为公共边, 直角边 $DE=DF$, 由**基础知识: HL**, $\text{Rt}\triangle ADE\cong\text{Rt}\triangle ADF$, 故 $AE=AF$.
+$AD\perp EF$. 证明: 由 $AD$ 是角平分线及角平分线的性质, $DE=DF$. 在 $\text{Rt}\triangle ADE$ 和 $\text{Rt}\triangle ADF$ 中, 斜边 $AD$ 为公共边, 直角边 $DE=DF$, 由HL, $\text{Rt}\triangle ADE\cong\text{Rt}\triangle ADF$, 故 $AE=AF$.
 
 于是 $\triangle AEF$ 为等腰三角形, $AG$ 为顶角 $\angle EAF$ 的平分线, 由等腰三角形 "三线合一", $AG\perp EF$, 即 $AD\perp EF$. $\blacksquare$
-
 
 ---
 
@@ -168,12 +144,11 @@ $AD\perp EF$. 证明: 由 $AD$ 是角平分线及**基础知识: 角平分线的
 
 ### 解答 习题八
 
-过 $E$ 作 $EF\perp AD$, 垂足为 $F$. 由 $DE$ 平分 $\angle ADC$, $EC\perp DC$, $EF\perp AD$, 由**基础知识: 角平分线的性质**, $EC=EF$.
+过 $E$ 作 $EF\perp AD$, 垂足为 $F$. 由 $DE$ 平分 $\angle ADC$, $EC\perp DC$, $EF\perp AD$, 由角平分线的性质, $EC=EF$.
 
 由 $E$ 是 $BC$ 中点, $EB=EC$, 故 $EB=EF$. 又 $EB\perp AB$, $EF\perp AD$, 即点 $E$ 到直线 $AB$ 与直线 $AD$ 的距离相等.
 
-由**基础知识: 角平分线的判定**, 点 $E$ 在 $\angle DAB$ 的平分线上, 故 $AE$ 平分 $\angle DAB$. $\blacksquare$
-
+由角平分线的判定, 点 $E$ 在 $\angle DAB$ 的平分线上, 故 $AE$ 平分 $\angle DAB$. $\blacksquare$
 
 ---
 

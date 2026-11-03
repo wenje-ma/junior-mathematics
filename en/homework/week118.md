@@ -1,16 +1,6 @@
 # week118
 
-> **Basic Knowledge: Graph of a Function**
-> 
-> In general, for a function, if each pair of corresponding values of the independent variable and the function is taken as the x- and y-coordinates of a point, then the figure formed in the coordinate plane by these points is the graph of this function.
-> **Basic Knowledge: Steps for Plotting Points to Draw a Function Graph**
-> 
-> First step: make a table; second step: plot the points; third step: connect the points.
-> **Basic Knowledge: Three Representations of a Function**
-> 
-> The analytical method, the tabular method, and the graphical method.
 ---
-
 
 ### Activity Preparation
 
@@ -108,11 +98,11 @@ That is, in twelve-tone equal temperament the frequency ratio between two adjace
 
 ### Solution to Activity 2, Task 2
 
-By **Basic Knowledge: Graph of a Function**, a rectangular coordinate system can describe a musical melody: the horizontal axis represents time and the vertical axis represents pitch. Each note corresponds to a point, with the x-coordinate being the start time of the note and the y-coordinate being its pitch. The time value of a note is represented by the length of a line segment.
+By Graph of a Function, a rectangular coordinate system can describe a musical melody: the horizontal axis represents time and the vertical axis represents pitch. Each note corresponds to a point, with the x-coordinate being the start time of the note and the y-coordinate being its pitch. The time value of a note is represented by the length of a line segment.
 
 During the time span represented by the score, each instant corresponds to a unique pitch, i.e. pitch is a function of time. Connecting the points corresponding to the notes in order with line segments gives a melody line reflecting the changes in pitch and duration of the piece.
 
-Taking the "Defend the Yellow River" passage as an example, convert each note's pitch to its corresponding frequency or note name, arrange the time by beats, and plot and connect the points in a rectangular coordinate system to draw the melody curve. This is exactly the same as the three steps — making a table, plotting points, and connecting them — in **Basic Knowledge: Steps for Plotting Points to Draw a Function Graph**. $\blacksquare$
+Taking the "Defend the Yellow River" passage as an example, convert each note's pitch to its corresponding frequency or note name, arrange the time by beats, and plot and connect the points in a rectangular coordinate system to draw the melody curve. This is exactly the same as the three steps — making a table, plotting points, and connecting them — in Steps for Plotting Points to Draw a Function Graph. $\blacksquare$
 
 (Comprehensive and Practical Activity, Activity 2, Task 3) Through the above steps, one can draw a curve in a rectangular coordinate system describing a musical melody. Discuss the following questions with your partner:
 
@@ -124,4 +114,4 @@ Taking the "Defend the Yellow River" passage as an example, convert each note's 
 
 (1) The curves drawn by different people may differ, for reasons including: different ways of quantifying pitch (some using frequency, others using note-name numbers), different choices of scale on the time axis, and different ways of representing note durations.
 
-(2) By **Basic Knowledge: Graph of a Function**, during the time span represented by the score, each instant corresponds to a unique pitch; that is, for each definite value of time $t$, the pitch $y$ has a uniquely determined value corresponding to it. Hence the melody curve can be regarded as a function graph. But note that transitions between notes (such as glissandi) may not be a strict one-to-one correspondence, and the pitch is undefined at rests. $\blacksquare$
+(2) By Graph of a Function, during the time span represented by the score, each instant corresponds to a unique pitch; that is, for each definite value of time $t$, the pitch $y$ has a uniquely determined value corresponding to it. Hence the melody curve can be regarded as a function graph. But note that transitions between notes (such as glissandi) may not be a strict one-to-one correspondence, and the pitch is undefined at rests. $\blacksquare$

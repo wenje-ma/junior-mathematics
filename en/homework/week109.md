@@ -1,20 +1,6 @@
 # week109
 
-> **Basic Knowledge: Graph of a Function**
-> 
-> Generally, for a function, if each pair of corresponding values of the independent variable and the function is taken as the x- and y-coordinates of a point, then the figure formed by these points in the coordinate plane is the graph of the function.
-> **Basic Knowledge: Steps for Plotting a Graph by the Point-Plotting Method**
-> 
-> Step 1, make a table — list some values of the independent variable and their corresponding function values; Step 2, plot points — in the plane rectangular coordinate system, take the independent variable value as the x-coordinate and the corresponding function value as the y-coordinate, and plot the points corresponding to the table values; Step 3, join the points — in order of increasing x-coordinate, connect the plotted points with a smooth curve.
-> **Basic Knowledge: Three Ways of Representing a Function**
-> 
-> Analytic method: express the functional relation by a mathematical expression; Tabular method: list the corresponding values of the independent variable and the function in a table; Graphical method: express the functional relation by a graph.
-> **Basic Knowledge: Function**
-> 
-> If for each value of x there is exactly one value of y, then y is a function of x.
-
 ---
-
 
 ## Exercise 1
 
@@ -24,7 +10,7 @@
 
 ### Solution to Exercise 1
 
-(1) By **Basic Knowledge: Steps for Plotting a Graph by the Point-Plotting Method**, make a table:
+(1) By Steps for Plotting a Graph by the Point-Plotting Method, make a table:
 
 | $x$ | $\cdots$ | $-2$ | $-1$ | $0$ | $1$ | $2$ | $\cdots$ |
 |---|---|---|---|---|---|---|---|
@@ -34,7 +20,7 @@ Plot points $\left(x, y\right)$ in the plane rectangular coordinate system and c
 
 The figure shows a plane rectangular coordinate system with integer tick marks on both axes; a straight line through points $\left(0,-1\right)$ and $\left(1,1\right)$ (slope $2$), namely the graph of $y=2x-1$.
 
-(2) By **Basic Knowledge: Graph of a Function**, the coordinates of a point on the graph satisfy the analytic expression.
+(2) By Graph of a Function, the coordinates of a point on the graph satisfy the analytic expression.
 
 Substitute $x=-2.5$ into $y=2x-1$: $y=2\times\left(-2.5\right)-1=-6 \neq -4$, so point $A\left(-2.5, -4\right)$ is not on the graph.
 
@@ -50,7 +36,7 @@ Substitute $x=2.5$ into $y=2x-1$: $y=2\times2.5-1=4$, which matches the y-coordi
 
 ### Solution to Exercise 2
 
-(1) By **Basic Knowledge: Steps for Plotting a Graph by the Point-Plotting Method**, make a table:
+(1) By Steps for Plotting a Graph by the Point-Plotting Method, make a table:
 
 | $x$ | $\cdots$ | $-2$ | $-1$ | $0$ | $1$ | $2$ | $\cdots$ |
 |---|---|---|---|---|---|---|---|
@@ -74,7 +60,7 @@ The figure shows a plane rectangular coordinate system with integer tick marks o
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Graph of a Function**, the x-coordinate of a point on the graph is the working time $t$, and the y-coordinate is the greened area $S$.
+By Graph of a Function, the x-coordinate of a point on the graph is the working time $t$, and the y-coordinate is the greened area $S$.
 
 (1) From the graph, from $t=0$ to $t=1\ \text{h}$, the greened area increases from $0$ to $60\ \text{m}^2$, so the team was working. Thus before the break the team worked for $1\ \text{h}$, and the greened area was $60\ \text{m}^2$.
 
@@ -94,7 +80,7 @@ By **Basic Knowledge: Graph of a Function**, the x-coordinate of a point on the 
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Graph of a Function**, the intersection of the two curves means the two places have the same temperature at that time.
+By Graph of a Function, the intersection of the two curves means the two places have the same temperature at that time.
 
 (1) From the graph, the temperature curves of Beijing and Shanghai intersect at $7{:}00$ and $12{:}00$, so during this day at $7{:}00$ and $12{:}00$ the two places have the same temperature.
 
@@ -108,7 +94,7 @@ By **Basic Knowledge: Graph of a Function**, the intersection of the two curves 
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Graph of a Function**, the graph shows the distance from home $y$ (unit: m) versus time $t$ (unit: min): it takes about $15\ \text{min}$ to go from $0$ to $1000\ \text{m}$, there is a stop in the middle, then return home.
+By Graph of a Function, the graph shows the distance from home $y$ (unit: m) versus time $t$ (unit: min): it takes about $15\ \text{min}$ to go from $0$ to $1000\ \text{m}$, there is a stop in the middle, then return home.
 
 Construct the scenario: Xiao Ming leaves home, walks at a steady pace for $15\ \text{min}$ to a library $1000\ \text{m}$ from home, stays there for a while reading, then walks steadily home. Here $y$ is Xiao Ming's distance from home and $t$ is time. $\blacksquare$
 
@@ -120,7 +106,7 @@ Construct the scenario: Xiao Ming leaves home, walks at a steady pace for $15\ \
 
 By the polygon interior angle sum formula, the interior angle sum of an $n$-gon is $\left(n-2\right)\times180^\circ$.
 
-By **Basic Knowledge: Three Ways of Representing a Function**, analytic method: $m=\left(n-2\right)\times180$, where $n \geq 3$ and $n$ is an integer.
+By Three Ways of Representing a Function, analytic method: $m=\left(n-2\right)\times180$, where $n \geq 3$ and $n$ is an integer.
 
 Tabular method:
 
@@ -138,7 +124,7 @@ $\blacksquare$
 
 An equilateral triangle has three equal sides, so its perimeter is three times the side length.
 
-By **Basic Knowledge: Three Ways of Representing a Function**, analytic method: $C=3a$, where $a> 0$.
+By Three Ways of Representing a Function, analytic method: $C=3a$, where $a> 0$.
 
 Graphical method: in the plane rectangular coordinate system, take $a$ as the x-coordinate and $C$ as the y-coordinate, and draw the ray of $C=3a$ for $a> 0$.
 
@@ -152,7 +138,7 @@ $\blacksquare$
 
 ### Solution to Exercise 8
 
-By **Basic Knowledge: Function**, for each definite value of time $t$, the distance $s$ from the boat to the dock has a unique definite value, so $s$ is a function of $t$.
+By Function, for each definite value of time $t$, the distance $s$ from the boat to the dock has a unique definite value, so $s$ is a function of $t$.
 
 The boat moves at a steady speed of $\left(200-150\right)\div 2 = 25\ \text{m/min}$. The initial distance is $200\ \text{m}$, so the analytic expression is
 
@@ -174,7 +160,7 @@ When the boat reaches the dock, $s=0$, i.e. $200-25t=0$, giving $t=8\ \text{min}
 
 ### Solution to Problem 1
 
-(1) By **Basic Knowledge: Steps for Plotting a Graph by the Point-Plotting Method**, make a table, plot and join points; the graph of $y=0.5x$ is a straight line through the origin.
+(1) By Steps for Plotting a Graph by the Point-Plotting Method, make a table, plot and join points; the graph of $y=0.5x$ is a straight line through the origin.
 
 The figure shows a plane rectangular coordinate system; a straight line through the origin with slope $0.5$, passing through the first and third quadrants, namely the graph of $y=0.5x$.
 
@@ -190,7 +176,7 @@ $\blacksquare$
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Function**, for each definite value of $x$, $y$ has a unique definite value corresponding to it. Draw a line perpendicular to the $x$-axis; if it intersects the curve at only one point, then $y$ is a function of $x$.
+By Function, for each definite value of $x$, $y$ has a unique definite value corresponding to it. Draw a line perpendicular to the $x$-axis; if it intersects the curve at only one point, then $y$ is a function of $x$.
 
 (1) A line perpendicular to the $x$-axis meets the curve at only one point, so $y$ is a function of $x$.
 
@@ -224,7 +210,7 @@ Thus the graph that best represents $y$ vs $x$ is: a segment starting at some po
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Graph of a Function**, the x-coordinate is time $x$, and the y-coordinate is distance from home $y$.
+By Graph of a Function, the x-coordinate is time $x$, and the y-coordinate is distance from home $y$.
 
 (1) From the y-coordinate, the stadium is $2.5\ \text{km}$ from home; from the x-coordinate, it took Liu Wei $15\ \text{min}$ to reach the stadium.
 
@@ -248,7 +234,7 @@ By **Basic Knowledge: Graph of a Function**, the x-coordinate is time $x$, and t
 
 ### Solution to Problem 5
 
-(1) By **Basic Knowledge: Function**, for each definite value of the release angle $x$, the maximum distance $y$ has a unique definite value, so $y$ is a function of $x$.
+(1) By Function, for each definite value of the release angle $x$, the maximum distance $y$ has a unique definite value, so $y$ is a function of $x$.
 
 (2) From the table, as the release angle increases from $38^\circ$ to $42^\circ$, the maximum distance increases from $21.70\ \text{m}$ to $21.91\ \text{m}$; that is, the maximum distance increases with the release angle, but the rate of increase gradually slows. $\blacksquare$
 
@@ -316,7 +302,7 @@ $\blacksquare$
 
 ### Solution to Problem 9
 
-By **Basic Knowledge: Graph of a Function**, the y-coordinate is the distance $y$ from city $A$, and the x-coordinate is the time $t$.
+By Graph of a Function, the y-coordinate is the distance $y$ from city $A$, and the x-coordinate is the time $t$.
 
 (1) From the graph, both cars reach city $B$, and the distance traveled is $300\ \text{km}$.
 

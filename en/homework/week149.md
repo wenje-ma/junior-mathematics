@@ -1,16 +1,6 @@
 # week149
 
-> **Basic Knowledge: Central Angle**
-> 
-> An angle whose vertex is at the center of a circle is called a central angle.
-> **Basic Knowledge: Rotational Symmetry of a Circle**
-> 
-> A circle is a centrally symmetric figure, and its center is its center of symmetry; rotating a circle about its center through any angle gives a figure that coincides with the original.
-> **Basic Knowledge: Relationship Among Central Angles, Arcs, and Chords**
-> 
-> In the same circle or equal circles, equal central angles subtend equal arcs and equal chords; equal arcs subtend equal central angles and equal chords; equal chords subtend equal central angles, and their major arcs and minor arcs are respectively equal.
 ---
-
 
 ## Exercise 1
 
@@ -26,7 +16,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Relationship Among Central Angles, Arcs, and Chords**.
+By Relationship Among Central Angles, Arcs, and Chords.
 
 (1) $\angle AOB=\angle COD$, $\overset{\frown}{AB}=\overset{\frown}{CD}$.
 
@@ -42,7 +32,7 @@ By **Basic Knowledge: Relationship Among Central Angles, Arcs, and Chords**.
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Relationship Among Central Angles, Arcs, and Chords**.
+By Relationship Among Central Angles, Arcs, and Chords.
 
 Since $\overset{\frown}{BC}=\overset{\frown}{CD}=\overset{\frown}{DE}$, we have $\angle BOC=\angle COD=\angle DOE=35^\circ$. The three central angles total $3\times35^\circ=105^\circ$. Since $AB$ is a diameter, $\angle AOB=180^\circ$, hence
 
@@ -58,6 +48,6 @@ $\blacksquare$
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Relationship Among Central Angles, Arcs, and Chords**.
+By Relationship Among Central Angles, Arcs, and Chords.
 
 Since $\overset{\frown}{AC}=\overset{\frown}{BC}$, we have $\angle AOC=\angle BOC$. Since $M$, $N$ are the midpoints of $OA$, $OB$ respectively, $OM=\frac12 OA=\frac12 OB=ON$. In $\triangle OMC$ and $\triangle ONC$, $OM=ON$, $\angle MOC=\angle NOC$, and $OC$ is common, so $\triangle OMC\cong\triangle ONC$, and hence $MC=NC$. $\blacksquare$

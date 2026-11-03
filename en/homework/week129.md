@@ -1,10 +1,6 @@
 # week129
 
-> **Basic Knowledge: Relation Between Roots and Coefficients**
-> 
-> If the two roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x_1,x_2$, then $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$. This relation can also be obtained by comparing coefficients in the factorization $ax^2+bx+c=a\left(x-x_1\right)\left(x-x_2\right)$.
 ---
-
 
 ## Exercise 1
 
@@ -20,7 +16,7 @@
 
 ### Solution to Exercise 1
 
-First put each equation in general form $ax^2+bx+c=0$, and directly use **Basic Knowledge: Relation Between Roots and Coefficients** to find $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$.
+First put each equation in general form $ax^2+bx+c=0$, and directly use Relation Between Roots and Coefficients to find $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$.
 
 (1) Transposing terms gives $x^2-3x-15=0$, hence $x_1+x_2=3$, $x_1x_2=-15$.
 
@@ -44,7 +40,7 @@ First put each equation in general form $ax^2+bx+c=0$, and directly use **Basic 
 
 ### Solution to Problem 1
 
-First put in general form, then find the sum and product by **Basic Knowledge: Relation Between Roots and Coefficients**.
+First put in general form, then find the sum and product by Relation Between Roots and Coefficients.
 
 (1) Transposing terms gives $x^2-3x-8=0$, hence $x_1+x_2=3$, $x_1x_2=-8$.
 
@@ -140,7 +136,7 @@ $$
 
 ### Solution to Problem 5
 
-By **Basic Knowledge: Relation Between Roots and Coefficients**, for $2x^2-6x+3=0$, $a=2$, $b=-6$, $c=3$, hence
+By Relation Between Roots and Coefficients, for $2x^2-6x+3=0$, $a=2$, $b=-6$, $c=3$, hence
 
 $$
 x_1+x_2=-\frac{-6}{2}=3,\quad x_1x_2=\frac32.

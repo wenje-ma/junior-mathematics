@@ -1,35 +1,6 @@
 # week157
 
-> **Basic Knowledge: Tangent Property**
-> 
-> A tangent line to a circle is perpendicular to the radius through the point of tangency.
-> **Basic Knowledge: Tangent Criterion**
-> 
-> A line passing through the outer end of a radius and perpendicular to that radius is a tangent line to the circle.
-> **Basic Knowledge: Tangent-Length Theorem**
-> 
-> From a point outside a circle, the two tangent segments to the circle have equal length, and the line joining the point to the center bisects the angle between the two tangent lines.
-> **Basic Knowledge: Incircle of a Triangle**
-> 
-> A circle tangent to all three sides of a triangle is called the incircle of the triangle, and its center is the incenter (the intersection of the three angle bisectors).
-> **Basic Knowledge: Regular Polygons and Circles**
-> 
-> Divide a circle into $n$ equal parts, and joining the division points in order gives a regular $n$-gon inscribed in the circle.
-> **Basic Knowledge: Arc Length Formula**
-> 
-> Arc length l = n*pi*R/180 where n is the central angle in degrees.
-> **Basic Knowledge: Position-Relation Criterion**
-> 
-> If r is the radius and d the distance from center to line: d < r means intersecting, d = r means tangent, d > r means separate.
-> **Basic Knowledge: Properties of Regular Polygons**
-> 
-> Regular polygons have equal sides and equal angles; they are all axisymmetric.
-> **Basic Knowledge: Sector Area Formula**
-> 
-> Sector Area Formula.
-
 ---
-
 
 ### Activity 1
 
@@ -37,7 +8,7 @@
 
 ### Solution to Activity 1
 
-By **Basic Knowledge: Regular Polygons and Circles**.
+By Regular Polygons and Circles.
 
 The strip has uniform width, so after pressing flat the pentagon has equal sides, and each interior angle is $108^\circ$; hence $ABCDE$ is a regular pentagon. $\blacksquare$
 
@@ -47,7 +18,7 @@ The strip has uniform width, so after pressing flat the pentagon has equal sides
 
 ### Solution to Activity 2
 
-By **Basic Knowledge: Properties of Regular Polygons**.
+By Properties of Regular Polygons.
 
 By dividing the circumference into equal parts, one can draw a regular hexagon, an equilateral triangle, a square, and so on; on this basis, joining non-adjacent division points gives star patterns. $\blacksquare$
 
@@ -57,7 +28,7 @@ By dividing the circumference into equal parts, one can draw a regular hexagon, 
 
 ### Solution to Review Problem 1
 
-By **Basic Knowledge: Position-Relation Criterion**, when tangent we have $R=d$.
+By Position-Relation Criterion, when tangent we have $R=d$.
 
 The equation has equal roots, so the discriminant is $36-4m=0$, and $m=9$. $\blacksquare$
 
@@ -67,7 +38,7 @@ The equation has equal roots, so the discriminant is $36-4m=0$, and $m=9$. $\bla
 
 ### Solution to Review Problem 2
 
-By **Basic Knowledge** and **Basic Knowledge**.
+By Basic Knowledge and Basic Knowledge.
 
 $\angle AOB=180^\circ-70^\circ=110^\circ$, and $\angle ACB=\frac12\angle AOB=55^\circ$. $\blacksquare$
 
@@ -77,7 +48,7 @@ $\angle AOB=180^\circ-70^\circ=110^\circ$, and $\angle ACB=\frac12\angle AOB=55^
 
 ### Solution to Review Problem 3
 
-By **Basic Knowledge** and **Basic Knowledge**.
+By Basic Knowledge and Basic Knowledge.
 
 The central angle is $\frac{360^\circ}{6}=60^\circ$, and the arc length is $l=\frac{60\pi\cdot1}{180}=\frac{\pi}{3}$. The regular hexagon consists of six equilateral triangles of side length $1$, so its area is $6\cdot\frac{\sqrt3}{4}=\frac{3\sqrt3}{2}$. $\blacksquare$
 
@@ -87,7 +58,7 @@ The central angle is $\frac{360^\circ}{6}=60^\circ$, and the arc length is $l=\f
 
 ### Solution to Review Problem 4
 
-By **Basic Knowledge: Tangent-Length Theorem**.
+By Tangent-Length Theorem.
 
 $EA=EC$ and $FB=FC$, so the perimeter is $PE+EF+PF=PE+EC+CF+PF=PE+EA+FB+PF=PA+PB=8$. $\blacksquare$
 
@@ -97,7 +68,7 @@ $EA=EC$ and $FB=FC$, so the perimeter is $PE+EF+PF=PE+EC+CF+PF=PE+EA+FB+PF=PA+PB
 
 ### Solution to Review Problem 5
 
-By **Basic Knowledge: Tangent Criterion**.
+By Tangent Criterion.
 
 The rhombus has side length $5$, and $BD=6$. Compute the circumcircle of $\triangle ABC$, and it suffices to prove that $DE$ is perpendicular to the radius through $C$. $\blacksquare$
 
@@ -107,7 +78,7 @@ The rhombus has side length $5$, and $BD=6$. Compute the circumcircle of $\trian
 
 ### Solution to Review Problem 6
 
-By **Basic Knowledge: Tangent Criterion**.
+By Tangent Criterion.
 
 Join $OD$. Since $D$ is the midpoint of $\overset{\frown}{BC}$, $OD\perp BC$. Also $AB$ is a diameter, so $AC\perp BC$, and hence $OD\parallel AC$. Since $DE\perp AC$, we have $DE\perp OD$, and so $DE$ is a tangent. $\blacksquare$
 
@@ -117,7 +88,7 @@ Join $OD$. Since $D$ is the midpoint of $\overset{\frown}{BC}$, $OD\perp BC$. Al
 
 ### Solution to Review Problem 7
 
-By **Basic Knowledge: Incircle of a Triangle**.
+By Incircle of a Triangle.
 
 Let the radius be $r$. The incircle is tangent to $AC$ at $E$, so $OE=r$ and $OE\parallel BC$. From $\frac{OE}{CD}=\frac{AO}{AD}$, solving gives $r=\frac{4}{5}$. $\blacksquare$
 
@@ -127,7 +98,7 @@ Let the radius be $r$. The incircle is tangent to $AC$ at $E$, so $OE=r$ and $OE
 
 ### Solution to Review Problem 8
 
-By **Basic Knowledge: Tangent-Length Theorem**.
+By Tangent-Length Theorem.
 
 The product identity follows from the tangent-length theorem and the similarity relations. $\blacksquare$
 
@@ -137,7 +108,7 @@ The product identity follows from the tangent-length theorem and the similarity 
 
 ### Solution to Review Problem 9
 
-By **Basic Knowledge: Incircle of a Triangle** and **Basic Knowledge**.
+By Incircle of a Triangle and Basic Knowledge.
 
 $E$ is the incenter, so $AD$ bisects $\angle BAC$. Computation gives $\angle DBE=\angle DEB$, so $DB=DE$. Similarly $DC=DE$. Hence $DB=DE=DC$, and $D$ is the center. $\blacksquare$
 
@@ -147,7 +118,7 @@ $E$ is the incenter, so $AD$ bisects $\angle BAC$. Computation gives $\angle DBE
 
 ### Solution to Review Problem 10
 
-By **Basic Knowledge: Arc Length Formula**.
+By Arc Length Formula.
 
 During the rolling, the point $A$ traces two circular arcs, with radii $AB=2$ and $AC=2\sqrt2$, and central angles $135^\circ$ and $135^\circ$ respectively. The path length is
 
@@ -163,7 +134,7 @@ $\blacksquare$
 
 ### Solution to Review Problem 11
 
-By **Basic Knowledge: Properties of Regular Polygons**.
+By Properties of Regular Polygons.
 
 The wrench opening is the distance between opposite sides, i.e. $2\times$ the apothem. The apothem of the regular hexagon is $\frac{\sqrt3}{2}a$, so $b=\sqrt3 a$. $\blacksquare$
 
@@ -173,7 +144,7 @@ The wrench opening is the distance between opposite sides, i.e. $2\times$ the ap
 
 ### Solution to Review Problem 12
 
-By **Basic Knowledge: Position-Relation Criterion**.
+By Position-Relation Criterion.
 
 Intersecting the $x$-axis: $\left|b\right|< r$; disjoint from the $y$-axis: $\left|a\right|> r$. That is, $\left|b\right|< r< \left|a\right|$. $\blacksquare$
 
@@ -183,6 +154,6 @@ Intersecting the $x$-axis: $\left|b\right|< r$; disjoint from the $y$-axis: $\le
 
 ### Solution to Review Problem 13
 
-By **Basic Knowledge: Sector Area Formula**.
+By Sector Area Formula.
 
 Compute the difference between the area of the sector $OAE$ and the small triangle to obtain the shaded area. $\blacksquare$

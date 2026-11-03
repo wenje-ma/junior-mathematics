@@ -1,32 +1,5 @@
 # week65
 
-> **Basic Knowledge: Median**
-> 
-> The segment joining a vertex to the midpoint of the opposite side is called a median; the three medians meet at the centroid.
-
-> **Basic Knowledge: Angle Bisector**
-> 
-> The segment obtained where the bisector of an angle meets the opposite side is called an angle bisector of the triangle.
-
-> **Basic Knowledge: Altitude**
-> 
-> Dropping a perpendicular from a vertex to the line of the opposite side, the segment between the vertex and the foot is called an altitude.
-
-> **Basic Knowledge: Triangle Interior Angle Sum Theorem**
-> 
-> The sum of the interior angles of a triangle equals $180^\circ$.
-
-> **Basic Knowledge: Relationship Between an Exterior Angle and the Non-adjacent Interior Angles**
-> 
-> An exterior angle of a triangle equals the sum of the two interior angles not adjacent to it, and the sum of the three exterior angles is $360^\circ$.
-
-
-> **Basic Knowledge: The Acute Angles of a Right Triangle Are Complementary**
-> 
-> The two acute angles of a right triangle are complementary.
-> **Basic Knowledge: Relationship Among the Three Sides of a Triangle**
-> 
-> The sum of any two sides of a triangle is greater than the third side; the difference of any two sides is less than the third side.
 ---
 
 ## Review Problem 1
@@ -45,7 +18,7 @@ Among them, those that determine that $\triangle ABC$ is a right triangle are $\
 
 ### Solution to Review Problem 1
 
-Judge each by **Basic Knowledge: Triangle Interior Angle Sum Theorem** and **Basic Knowledge: The Acute Angles of a Right Triangle Are Complementary**.
+Judge each by Triangle Interior Angle Sum Theorem and The Acute Angles of a Right Triangle Are Complementary.
 
 Condition (1): two angles being acute does not determine whether the third is a right angle; cannot determine.
 
@@ -57,7 +30,6 @@ Condition (4): the ratio of the three exterior angles is $3:4:5$, and the exteri
 
 Hence those that can determine are (2)(3)(4). $\blacksquare$
 
-
 ---
 
 ## Review Problem 2
@@ -66,14 +38,13 @@ Hence those that can determine are (2)(3)(4). $\blacksquare$
 
 ### Solution to Review Problem 2
 
-By **Basic Knowledge: Altitude**, when taking $BD$ as the base the altitude is $AE$. By the triangle area formula,
+By Altitude, when taking $BD$ as the base the altitude is $AE$. By the triangle area formula,
 
 $$
 S_{\triangle ABD}=\frac{1}{2}\cdot BD\cdot AE=\frac{1}{2}\times BD\times2=1.5.
 $$
 
-Solving gives $BD=1.5$. By **Basic Knowledge: Median**, $D$ is the midpoint of $BC$, so $BC=2BD=3$, $DC=BD=1.5$. $\blacksquare$
-
+Solving gives $BD=1.5$. By Median, $D$ is the midpoint of $BC$, so $BC=2BD=3$, $DC=BD=1.5$. $\blacksquare$
 
 ---
 
@@ -83,7 +54,7 @@ Solving gives $BD=1.5$. By **Basic Knowledge: Median**, $D$ is the midpoint of $
 
 ### Solution to Review Problem 3
 
-By **Basic Knowledge: Relationship Among the Three Sides of a Triangle**, in $\triangle ABD$,
+By Relationship Among the Three Sides of a Triangle, in $\triangle ABD$,
 
 $$
 AB+AD> BD.
@@ -103,7 +74,6 @@ $$
 
 The left side is $AB+AC$ and the right side is $BC$, so $AB+AC> BC$. Fill in successively $BD$, $PC$, $BD+PC$, $BC$. $\blacksquare$
 
-
 ---
 
 ## Review Problem 4
@@ -114,7 +84,7 @@ The figure shows three diagrams arranged from left to right: in figure (1), a ri
 
 ### Solution to Review Problem 4
 
-By **Basic Knowledge: Triangle Interior Angle Sum Theorem** and **Basic Knowledge: Relationship Between an Exterior Angle and the Non-adjacent Interior Angles**.
+By Triangle Interior Angle Sum Theorem and Relationship Between an Exterior Angle and the Non-adjacent Interior Angles.
 
 Figure (1): one acute angle of the right triangle is $50^\circ$, so $x=90^\circ-50^\circ=40^\circ$.
 
@@ -128,7 +98,6 @@ $$
 
 solving gives $x=60$. $\blacksquare$
 
-
 ---
 
 ## Review Problem 5
@@ -137,7 +106,7 @@ solving gives $x=60$. $\blacksquare$
 
 ### Solution to Review Problem 5
 
-By **Basic Knowledge: Triangle Interior Angle Sum Theorem**, in $\triangle ABC$, $\angle A+\angle B+\angle 1=180^\circ$. Also $\angle A=\angle 1-10^\circ$, $\angle B=42^\circ$; substituting:
+By Triangle Interior Angle Sum Theorem, in $\triangle ABC$, $\angle A+\angle B+\angle 1=180^\circ$. Also $\angle A=\angle 1-10^\circ$, $\angle B=42^\circ$; substituting:
 
 $$
 \left(\angle 1-10^\circ\right)+42^\circ+\angle 1=180^\circ,
@@ -147,7 +116,6 @@ solving gives $2\angle 1=148^\circ$, $\angle 1=74^\circ$, hence $\angle A=64^\ci
 
 Thus $\angle A=\angle ACD=64^\circ$; these two angles are the alternate interior angles cut by line $AC$ across lines $AB$ and $CD$. Since the alternate interior angles are equal, $AB\parallel CD$. $\blacksquare$
 
-
 ---
 
 ## Review Problem 6
@@ -156,7 +124,7 @@ Thus $\angle A=\angle ACD=64^\circ$; these two angles are the alternate interior
 
 ### Solution to Review Problem 6
 
-By **Basic Knowledge: Triangle Interior Angle Sum Theorem**,
+By Triangle Interior Angle Sum Theorem,
 
 $$
 \angle A+2\angle A+2\angle A=180^\circ,
@@ -164,14 +132,13 @@ $$
 
 solving gives $\angle A=36^\circ$, so $\angle C=72^\circ$.
 
-By **Basic Knowledge: Altitude**, $BD\perp AC$; in $\text{Rt}\triangle BDC$, by **Basic Knowledge: The Acute Angles of a Right Triangle Are Complementary**,
+By Altitude, $BD\perp AC$; in $\text{Rt}\triangle BDC$, by The Acute Angles of a Right Triangle Are Complementary,
 
 $$
 \angle DBC=90^\circ-\angle C=90^\circ-72^\circ=18^\circ.
 $$
 
 $\blacksquare$
-
 
 ---
 
@@ -181,22 +148,21 @@ $\blacksquare$
 
 ### Solution to Review Problem 7
 
-By **Basic Knowledge: Triangle Interior Angle Sum Theorem**,
+By Triangle Interior Angle Sum Theorem,
 
 $$
 \angle ABC=180^\circ-50^\circ-70^\circ=60^\circ.
 $$
 
-By **Basic Knowledge: Altitude**, $AD\perp BC$; in $\text{Rt}\triangle ADC$, $\angle DAC=90^\circ-\angle C=90^\circ-70^\circ=20^\circ$.
+By Altitude, $AD\perp BC$; in $\text{Rt}\triangle ADC$, $\angle DAC=90^\circ-\angle C=90^\circ-70^\circ=20^\circ$.
 
-By **Basic Knowledge: Angle Bisector**, $AE$ bisects $\angle BAC$, so $\angle BAO=25^\circ$; $BF$ bisects $\angle ABC$, so $\angle ABO=30^\circ$. In $\triangle ABO$,
+By Angle Bisector, $AE$ bisects $\angle BAC$, so $\angle BAO=25^\circ$; $BF$ bisects $\angle ABC$, so $\angle ABO=30^\circ$. In $\triangle ABO$,
 
 $$
 \angle BOA=180^\circ-\angle BAO-\angle ABO=180^\circ-25^\circ-30^\circ=125^\circ.
 $$
 
 $\blacksquare$
-
 
 ---
 
@@ -210,13 +176,13 @@ $\blacksquare$
 
 ### Solution to Review Problem 8
 
-By **Basic Knowledge: Angle Bisector**, $BE$ bisects $\angle ABC$ and $CF$ bisects $\angle ACB$, so
+By Angle Bisector, $BE$ bisects $\angle ABC$ and $CF$ bisects $\angle ACB$, so
 
 $$
 \angle GBC=\frac{1}{2}\angle ABC,\quad \angle GCB=\frac{1}{2}\angle ACB.
 $$
 
-(1) In $\triangle BGC$, by **Basic Knowledge: Triangle Interior Angle Sum Theorem**,
+(1) In $\triangle BGC$, by Triangle Interior Angle Sum Theorem,
 
 $$
 \angle BGC=180^\circ-\angle GBC-\angle GCB=180^\circ-\frac{1}{2}\left(\angle ABC+\angle ACB\right).
@@ -230,7 +196,6 @@ $$
 
 $\blacksquare$
 
-
 ---
 
 ## Review Problem 9
@@ -241,7 +206,7 @@ The figure shows a five-pointed star, with the five pointed tips labeled $A$, $B
 
 ### Solution to Review Problem 9
 
-Suppose segment $BE$ intersects $CD$ and $AD$. By **Basic Knowledge: Relationship Between an Exterior Angle and the Non-adjacent Interior Angles**, in the triangle formed in the middle of the five-pointed star, the sum of the two non-adjacent interior angles equals the corresponding exterior angle, and these exterior angles can in turn be converted into the sum of two interior angles of the central triangle.
+Suppose segment $BE$ intersects $CD$ and $AD$. By Relationship Between an Exterior Angle and the Non-adjacent Interior Angles, in the triangle formed in the middle of the five-pointed star, the sum of the two non-adjacent interior angles equals the corresponding exterior angle, and these exterior angles can in turn be converted into the sum of two interior angles of the central triangle.
 
 The sum of the three interior angles of the central triangle is $180^\circ$, and the five pointed angles $\angle A$, $\angle B$, $\angle C$, $\angle D$, $\angle E$ respectively equal, through the exterior-angle relation, the sums of the corresponding non-adjacent interior angles. Hence
 

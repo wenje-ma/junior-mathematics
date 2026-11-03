@@ -1,28 +1,6 @@
 # week107
 
-> **Basic Knowledge: Interior Angle Sum of a Quadrilateral**
-> 
-> The interior angle sum of a quadrilateral is \(360^{\circ}\).
-> **Basic Knowledge: Interior Angle Sum of a Polygon**
-> 
-> The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
-> **Basic Knowledge: Opposite Sides**
-> 
-> Opposite sides of a parallelogram are equal.
-> **Basic Knowledge: Diagonals**
-> 
-> The diagonals of a parallelogram bisect each other.
-> **Basic Knowledge: Diagonals**
-> 
-> A quadrilateral whose diagonals bisect each other is a parallelogram.
-> **Basic Knowledge: Diagonals of a Rectangle**
-> 
-> The diagonals of a rectangle are equal.
-> **Basic Knowledge: Diagonals of a Rhombus**
-> 
-> The two diagonals of a rhombus are perpendicular.
 ---
-
 
 ## Review Problem 1
 
@@ -54,9 +32,9 @@ Each interior angle of a polygon is equal, and the ratio of each interior angle 
 
 Interior and exterior angles are supplementary, ratio \(3:1\), so the exterior angle \(=45^{\circ}\).
 
-By **Basic Knowledge**, the number of sides \(n=\frac{360^{\circ}}{45^{\circ}}=8\).
+By Basic Knowledge, the number of sides \(n=\frac{360^{\circ}}{45^{\circ}}=8\).
 
-By **Basic Knowledge**, the interior angle sum \(=(8-2)\times 180^{\circ}=1080^{\circ}\).
+By Basic Knowledge, the interior angle sum \(=(8-2)\times 180^{\circ}=1080^{\circ}\).
 
 \(\blacksquare\)
 
@@ -66,11 +44,11 @@ As shown in the figure, extend diagonal \(BD\) of \(\square ABCD\) in both direc
 
 Connect \(AC\) meeting \(BD\) at \(O\).
 
-By **Basic Knowledge**, \(OA=OC,\ OB=OD\).
+By Basic Knowledge, \(OA=OC,\ OB=OD\).
 
 Also \(BE=DF\), so \(OB+BE=OD+DF\), i.e. \(OE=OF\).
 
-The diagonals of quadrilateral \(AECF\) bisect each other; by **Basic Knowledge**, it is a parallelogram.
+The diagonals of quadrilateral \(AECF\) bisect each other; by Basic Knowledge, it is a parallelogram.
 
 \(\blacksquare\)
 
@@ -92,7 +70,7 @@ As shown in the figure, can you use a rope to check whether the side of a booksh
 
 First use the rope to measure the opposite sides of the top and bottom of the bookshelf; if both pairs of opposite sides are equal, the bookshelf frame is a parallelogram.
 
-Then measure the two diagonals; if the diagonals are equal, then by **Basic Knowledge** the parallelogram is a rectangle, and the side is perpendicular to the top and bottom edges.
+Then measure the two diagonals; if the diagonals are equal, then by Basic Knowledge the parallelogram is a rectangle, and the side is perpendicular to the top and bottom edges.
 
 \(\blacksquare\)
 
@@ -102,7 +80,7 @@ As shown in the figure, the diagonals \(AC,BD\) of rectangle \(ABCD\) intersect 
 
 Since \(DE\parallel OC\) and \(CE\parallel OD\), quadrilateral \(OCED\) is a parallelogram.
 
-By **Basic Knowledge**, the diagonals of a rectangle are equal and bisect each other, so \(OC=OD\).
+By Basic Knowledge, the diagonals of a rectangle are equal and bisect each other, so \(OC=OD\).
 
 A parallelogram with equal adjacent sides is a rhombus.
 

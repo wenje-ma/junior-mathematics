@@ -1,26 +1,6 @@
 # week147
 
-> **Basic Knowledge: Circle**
-> 
-> In a plane, the figure formed by the other endpoint $P$ as the segment $OP$ rotates through a full turn about its fixed endpoint $O$ is called a circle. The fixed endpoint $O$ is called the center of the circle, and the segment $OP$ is called the radius. The circle with center $O$ is denoted $\odot O$.
-> **Basic Knowledge: Position of a Point Relative to a Circle**
-> 
-> Let the radius of $\odot O$ be $r$, and let the distance from the point $P$ to the center be $OP=d$. Then: the point $P$ is outside the circle $\Leftrightarrow d> r$; the point $P$ is on the circle $\Leftrightarrow d=r$; the point $P$ is inside the circle $\Leftrightarrow d< r$.
-> **Basic Knowledge: Chord, Diameter, Arc**
-> 
-> The segment joining any two points on a circle is called a chord; a chord passing through the center is called a diameter; the part between any two points on a circle is called an arc; an arc larger than a semicircle is called a major arc, and an arc smaller than a semicircle is called a minor arc.
-> **Basic Knowledge: Three Points Determine a Circle**
-> 
-> Three points not on the same line determine a circle. The circle passing through the three vertices of a triangle is called the circumcircle of the triangle, and the center of the circumcircle is called the circumcenter of the triangle.
-> **Basic Knowledge: Proof by Contradiction**
-> 
-> First make an assumption opposite to the conclusion, then derive a result that contradicts a definition, basic fact, theorem, or the hypotheses; from the contradiction it is concluded that the assumption is incorrect, and hence the original proposition holds.
-> **Basic Knowledge: Chord, Diameter**
-> 
-> A chord is a segment connecting two points on a circle; a diameter is a chord passing through the center.
-
 ---
-
 
 ## Exercise 1
 
@@ -28,7 +8,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Circle**.
+By Circle.
 
 Take a rope of length $5\,\text{m}$; fix one end at the center and tie a pen to the other end. Pull the rope taut and rotate it through a full turn about the fixed point; the path of the pen tip is a circle of radius $5\,\text{m}$. $\blacksquare$
 
@@ -38,7 +18,7 @@ Take a rope of length $5\,\text{m}$; fix one end at the center and tie a pen to 
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Circle**.
+By Circle.
 
 The trunk radius is $\frac{23}{2}=11.5\,\text{cm}$, and over $20$ years of growth the radius increases on average each year by
 
@@ -60,7 +40,7 @@ $\blacksquare$
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Position of a Point Relative to a Circle**, $r=10$.
+By Position of a Point Relative to a Circle, $r=10$.
 
 (1) $d=8< 10$, so the point $P$ is inside the circle.
 
@@ -74,7 +54,7 @@ By **Basic Knowledge: Position of a Point Relative to a Circle**, $r=10$.
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Three Points Determine a Circle**.
+By Three Points Determine a Circle.
 
 Take the midpoint $O$ of $AB$. In $\text{Rt}\triangle ABC$, the median to the hypotenuse is half the hypotenuse, so $OA=OB=OC=\frac12 AB$. Therefore the three points $A$, $B$, $C$ are equidistant from the point $O$, so they lie on the same circle with center $O$ and radius $OA$. $\blacksquare$
 
@@ -84,7 +64,7 @@ Take the midpoint $O$ of $AB$. In $\text{Rt}\triangle ABC$, the median to the hy
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Three Points Determine a Circle**, the center lies on the perpendicular bisector of a chord.
+By Three Points Determine a Circle, the center lies on the perpendicular bisector of a chord.
 
 Rest the $CD$ edge of the tool on the circle so that $A$ and $B$ lie on the circle, and draw a line along $CD$; move to another position and draw another line. The intersection of the two lines is the center. $\blacksquare$
 
@@ -96,7 +76,7 @@ The figure shows equilateral triangle $ABC$ with side length $2$, all three vert
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge: Three Points Determine a Circle**.
+By Three Points Determine a Circle.
 
 The circumcenter of an equilateral triangle lies on its altitude. The altitude is $h=\sqrt{2^2-1^2}=\sqrt3$. Let the circumradius be $R$: the distance from the circumcenter to a vertex is $R$, and the distance to a side is $h-R$. From $\frac{R}{h}=\frac{2}{3}$, we get
 
@@ -112,7 +92,7 @@ $\blacksquare$
 
 ### Solution to Exercise 7
 
-By **Basic Knowledge: Proof by Contradiction**.
+By Proof by Contradiction.
 
 Suppose that among the $400$ people every two have different birthdays; then $400$ distinct birthdays would be needed, but a year has at most $366$ days, a contradiction. Hence the assumption is false, and among $400$ people at least two have the same birthday. $\blacksquare$
 
@@ -122,7 +102,7 @@ Suppose that among the $400$ people every two have different birthdays; then $40
 
 ### Solution to Exercise 8
 
-By **Basic Knowledge: Proof by Contradiction**.
+By Proof by Contradiction.
 
 Suppose a triangle has two right angles; then the sum of these two angles is $180^\circ$, and the third angle is $0^\circ$, contradicting that the interior angles of a triangle sum to $180^\circ$ and each angle is greater than $0^\circ$. Hence the assumption is false, and a triangle cannot have two right angles. $\blacksquare$
 
@@ -140,7 +120,7 @@ Suppose a triangle has two right angles; then the sum of these two angles is $18
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Circle** and **Basic Knowledge: Chord, Diameter, Arc**.
+By Circle and Chord, Diameter, Arc.
 
 (1) False: equal chord lengths do not imply equal radii.
 
@@ -156,7 +136,7 @@ By **Basic Knowledge: Circle** and **Basic Knowledge: Chord, Diameter, Arc**.
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Position of a Point Relative to a Circle**.
+By Position of a Point Relative to a Circle.
 
 The result $6.2\,\text{m}$ lands in the annulus from $6\,\text{m}$ to $7\,\text{m}$ from the throwing point; $5.1\,\text{m}$ lands in the annulus from $5\,\text{m}$ to $6\,\text{m}$. $\blacksquare$
 
@@ -168,7 +148,7 @@ The figure shows an annulus centered at fixed point $O$: the inner circle has ra
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Position of a Point Relative to a Circle**.
+By Position of a Point Relative to a Circle.
 
 The figure is an annulus centered at $O$ with inner radius $2\,\text{cm}$ and outer radius $3\,\text{cm}$ (including the boundary). $\blacksquare$
 
@@ -178,7 +158,7 @@ The figure is an annulus centered at $O$ with inner radius $2\,\text{cm}$ and ou
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Chord, Diameter**.
+By Chord, Diameter.
 
 Let $AB$ be a diameter, $CD$ any chord, and the center $O$. Join $OC$, $OD$; then $AB=OA+OB=OC+OD$. In $\triangle OCD$, $OC+OD\ge CD$, so $AB\ge CD$. That is, a diameter is the longest chord in a circle. $\blacksquare$
 
@@ -188,7 +168,7 @@ Let $AB$ be a diameter, $CD$ any chord, and the center $O$. Join $OC$, $OD$; the
 
 ### Solution to Problem 5
 
-By **Basic Knowledge: Position of a Point Relative to a Circle**.
+By Position of a Point Relative to a Circle.
 
 The diagonals of a rectangle are equal and bisect each other, so $OA=OB=OC=OD$. Since $E$, $F$, $G$, $H$ are the respective midpoints,
 
@@ -204,7 +184,7 @@ The four points are equidistant from $O$, so they lie on the same circle with ce
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Three Points Determine a Circle**.
+By Three Points Determine a Circle.
 
 Draw the perpendicular bisectors of $AB$ and $BC$; their intersection is the center $O$, and $OA$ is the radius. $\blacksquare$
 
@@ -214,7 +194,7 @@ Draw the perpendicular bisectors of $AB$ and $BC$; their intersection is the cen
 
 ### Solution to Problem 7
 
-By **Basic Knowledge: Circle**.
+By Circle.
 
 $OA=OD=OC=OB$; in the quadrilateral $ADBC$, the diagonals $AB$ and $CD$ bisect each other, so $ADBC$ is a parallelogram, and hence $AD\parallel BC$. $\blacksquare$
 
@@ -224,7 +204,7 @@ $OA=OD=OC=OB$; in the quadrilateral $ADBC$, the diagonals $AB$ and $CD$ bisect e
 
 ### Solution to Problem 8
 
-By **Basic Knowledge: Proof by Contradiction**.
+By Proof by Contradiction.
 
 Let $a\parallel b$, and let the line $c$ intersect $a$. Suppose $c$ does not intersect $b$; then $c\parallel b$. From $a\parallel b$ and $c\parallel b$, through the intersection point on the line $a$ there are two lines $a$ and $c$, both parallel to $b$, contradicting the statement that through a point outside a line there is exactly one line parallel to the given line. Hence the assumption is false, and $c$ must intersect $b$. $\blacksquare$
 
@@ -238,7 +218,7 @@ Let $a\parallel b$, and let the line $c$ intersect $a$. Suppose $c$ does not int
 
 ### Solution to Problem 9
 
-By **Basic Knowledge: Position of a Point Relative to a Circle**.
+By Position of a Point Relative to a Circle.
 
 (1) $AB$ passes through the center, so $O$ lies on $AB$, and $OA=OB$; also $AC=BD$, so $OA-AC=OB-BD$, i.e. $OC=OD$.
 
@@ -250,6 +230,6 @@ By **Basic Knowledge: Position of a Point Relative to a Circle**.
 
 ### Solution to Inquiry and Discovery 1
 
-By **Basic Knowledge: Circle**.
+By Circle.
 
 When a circular wheel rolls, the distance from the center to the ground always equals the radius, so the carriage is smooth. A curve of constant width has the same width in every direction; the Reuleaux triangle is the most common curve of constant width besides the circle, and a roller with it as cross-section can also move heavy loads horizontally. $\blacksquare$

@@ -1,13 +1,5 @@
 # week13
 
-> **Basic Knowledge: Forming Algebraic Expressions**
-> 
-> Expressing the quantitative relationships in a problem as expressions containing numbers, letters, and operation symbols.
-
-> **Basic Knowledge: Value of an Algebraic Expression**
-> 
-> The result obtained by substituting numerical values for the letters in an algebraic expression and computing according to the operations in the expression.
-
 ---
 
 ## Activity 1
@@ -18,12 +10,11 @@ The figure shows a row of triangular figures built from matchsticks: triangles a
 
 ### Solution to Activity 1
 
-By **Basic Knowledge: Forming Algebraic Expressions**.
+By Forming Algebraic Expressions.
 
 $1$ triangle requires $3$ matchsticks; each additional triangle shares one side with the previous triangle, so only $2$ more matchsticks are needed. Hence $2$ triangles require $3+2=5$ matchsticks, $3$ triangles require $5+2=7$ matchsticks, and $4$ triangles require $7+2=9$ matchsticks.
 
 Following this pattern, $n$ triangles require $3+2\left(n-1\right)=2n+1$ matchsticks. $\blacksquare$
-
 
 ---
 
@@ -35,7 +26,7 @@ The figure shows the $1$-st, $2$-nd, and $3$-rd squares built respectively from 
 
 ### Solution to Activity 2
 
-By **Basic Knowledge: Forming Algebraic Expressions** and **Basic Knowledge: Value of an Algebraic Expression**.
+By Forming Algebraic Expressions and Value of an Algebraic Expression.
 
 The $1$-st square is $2\times 2=4$ small squares, the $2$-nd is $3\times 3=9$, and the $3$-rd is $4\times 4=16$. Hence the $n$-th square consists of $\left(n+1\right)^{2}$ small squares, and the $\left(n-1\right)$-th square consists of $n^{2}$ small squares.
 
@@ -45,7 +36,6 @@ $$\left(n+1\right)^{2}-n^{2}=n^{2}+2n+1-n^{2}=2n+1.$$
 
 Hence the $n$-th square requires $2n+1$ more small squares than the $\left(n-1\right)$-th square. $\blacksquare$
 
-
 ---
 
 ## Activity 3
@@ -54,7 +44,7 @@ Hence the $n$-th square requires $2n+1$ more small squares than the $\left(n-1\r
 
 ### Solution to Activity 3
 
-By **Basic Knowledge: Value of an Algebraic Expression**.
+By Value of an Algebraic Expression.
 
 The ciphertext number $26$ is even, the plaintext index is $\frac{26}{2}=13$, corresponding to the letter $m$;
 

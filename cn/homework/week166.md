@@ -1,43 +1,10 @@
 # week166
 
-> **基础知识: 相似多边形**
-> 
-> 两个边数相同的多边形, 角分别相等, 边成比例, 则相似; 对应边的比叫做相似比. 
-> **基础知识: AA**
-> 
-> 两角分别相等的两个三角形相似.
-> **基础知识: SAS**
-> 
-> 两边成比例且夹角相等的两个三角形相似.
-> **基础知识: 位似图形**
-> 
-> 如果两个图形不仅相似, 而且对应顶点的连线相交于一点, 对应边互相平行, 那么这样的两个图形叫做位似图形.
-> **基础知识: 面积比**
-> 
-> 面积比.
-
 ---
 
 ---
 
 ---
-
-
-> **基础知识: SSS** 
-> 
-> 三边成比例的两个三角形相似. 
-
-> **基础知识: AA** 
-> 
-> 两角分别相等的两个三角形相似. 
-
-> **基础知识: 面积比** 
-> 
-> 相似三角形面积的比等于相似比的平方. 
-
-> **基础知识: 位似图形** 
-> 
-> 对应顶点连线交于同一点 $O$ 且对应边成比例的两个图形, 对应边互相平行. 
 
 ### 复习题一
 
@@ -45,7 +12,7 @@
 
 ### 解答 复习题一
 
-由**基础知识: 相似多边形**, $EFGH\backsim KLMN$, 对应角相等, 对应边成比例. 
+由相似多边形, $EFGH\backsim KLMN$, 对应角相等, 对应边成比例. 
 
 相似比为 $\frac{EF}{KL}=\frac{4}{10}=\frac{2}{5}$. 
 
@@ -83,7 +50,7 @@ $$
 
 ### 解答 复习题三
 
-由**基础知识: AA** 和**基础知识: SAS**, 两组图形中的两个三角形均相似. 对应边成比例即可求出 $x,y$. $\blacksquare$
+由AA 和SAS, 两组图形中的两个三角形均相似. 对应边成比例即可求出 $x,y$. $\blacksquare$
 
 ### 复习题四
 
@@ -101,7 +68,7 @@ $$
 
 ### 解答 复习题五
 
-由**基础知识: 位似图形**, 在图形外或内取一位似中心, 连接中心与各顶点, 在连线上取各顶点到中心距离一半的对应点, 顺次连接, 所得图形即为缩小后图形, 对应线段比为 $2:1$. $\blacksquare$
+由位似图形, 在图形外或内取一位似中心, 连接中心与各顶点, 在连线上取各顶点到中心距离一半的对应点, 顺次连接, 所得图形即为缩小后图形, 对应线段比为 $2:1$. $\blacksquare$
 
 ### 复习题六
 
@@ -121,7 +88,7 @@ $$
 
 ### 解答 复习题七
 
-$\angle AOB=\angle COD$ (对顶角), 且 $\frac{OA}{OC}=\frac{OB}{OD}=n$, 由**基础知识: SAS**, $\triangle OAB\backsim\triangle OCD$. 
+$\angle AOB=\angle COD$ (对顶角), 且 $\frac{OA}{OC}=\frac{OB}{OD}=n$, 由SAS, $\triangle OAB\backsim\triangle OCD$. 
 
 $$
 \frac{AB}{CD}=\frac{OA}{OC}=n\Rightarrow AB=nb.
@@ -137,7 +104,7 @@ $$
 
 连接 $AC$, $BC$. $AB$ 为直径, 故 $\angle ACB=90^\circ$. 又 $CD\perp AB$, 故 $\angle APC=\angle CPB=90^\circ$. 
 
-在 $\triangle ACP$ 和 $\triangle CBP$ 中, $\angle A+\angle B=90^\circ$, $\angle ACP+\angle A=90^\circ$, 故 $\angle ACP=\angle B$. 由**基础知识: AA**, $\triangle ACP\backsim\triangle CBP$. 
+在 $\triangle ACP$ 和 $\triangle CBP$ 中, $\angle A+\angle B=90^\circ$, $\angle ACP+\angle A=90^\circ$, 故 $\angle ACP=\angle B$. 由AA, $\triangle ACP\backsim\triangle CBP$. 
 
 $$
 \frac{PC}{PB}=\frac{PA}{PC}\Rightarrow PC^2=PA\cdot PB.\ \blacksquare
@@ -149,7 +116,7 @@ $$
 
 ### 解答 复习题九
 
-$\angle AEF=\angle BDF=90^\circ$, $\angle AFE=\angle BFD$ (对顶角), 由**基础知识: AA**, $\triangle AEF\backsim\triangle BDF$. $\blacksquare$
+$\angle AEF=\angle BDF=90^\circ$, $\angle AFE=\angle BFD$ (对顶角), 由AA, $\triangle AEF\backsim\triangle BDF$. $\blacksquare$
 
 ### 复习题十
 
@@ -157,9 +124,9 @@ $\angle AEF=\angle BDF=90^\circ$, $\angle AFE=\angle BFD$ (对顶角), 由**基�
 
 ### 解答 复习题十
 
-由**基础知识: 位似图形**, 对应边平行且连线交于 $O$, 两三角形位似, 相似比为 $\frac{OB}{OB'}=3$. 
+由位似图形, 对应边平行且连线交于 $O$, 两三角形位似, 相似比为 $\frac{OB}{OB'}=3$. 
 
-由**基础知识: 面积比**, 面积比为相似比的平方, 即 $9$. 
+由面积比, 面积比为相似比的平方, 即 $9$. 
 
 故 $S_{\triangle ABC}=9S_{\triangle A'B'C'}$. $\blacksquare$
 
@@ -218,4 +185,4 @@ h=1255+5=1260\ \text{步}.
 $$
 
 故山峰高度 $AB=1260$ 步, 水平距离 $BD=30750$ 步. $\blacksquare$
-
+

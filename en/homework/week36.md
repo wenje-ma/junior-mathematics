@@ -1,27 +1,5 @@
 # week36
 
-> **Basic Knowledge: Square Root**
-> 
-> If a number $x$ has square equal to $a$, i.e. $x^2=a$, then this number $x$ is called a square root (or second root) of $a$. The operation of finding the square root of a number is called extracting the square root, and extracting the square root and squaring are inverse operations of each other.
-
-> **Basic Knowledge: Arithmetic Square Root**
-> 
-> The positive square root $\sqrt a$ of a positive number $a$ is called the arithmetic square root of $a$, and $a$ is called the radicand. It is stipulated that the arithmetic square root of $0$ is $0$, i.e. $\sqrt 0=0$. The square roots of a positive number $a$ are denoted by $\pm\sqrt a$.
-
-> **Basic Knowledge: Properties of Square Roots**
-> 
-> Properties of Square Roots.
-> **Basic Knowledge: Relationship Between Squaring and Extracting Roots**
-> 
-> Relationship Between Squaring and Extracting Roots.
-> **Basic Knowledge: Size of the Arithmetic Square Root**
-> 
-> Size of the Arithmetic Square Root.
-
-> **Basic Knowledge: Properties of Arithmetic Square Roots**
-> 
-> sqrt(a^2) = |a|: it equals a when a > = 0, and -a when a < 0.
-
 ---
 
 ## Exercise 1
@@ -38,7 +16,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Properties of Square Roots**, a positive number has two square roots that are opposite numbers, the square root of $0$ is $0$, and a negative number has no square root.
+By Properties of Square Roots, a positive number has two square roots that are opposite numbers, the square root of $0$ is $0$, and a negative number has no square root.
 
 (1) The square roots of $1$ are $\pm 1$, not just $1$, so it is wrong.
 
@@ -46,8 +24,7 @@ By **Basic Knowledge: Properties of Square Roots**, a positive number has two sq
 
 (3) $\because 0.5^2=0.25$, $\therefore 0.5$ is a square root of $0.25$ (the square roots of $0.25$ are $\pm 0.5$), so it is correct.
 
-(4) By **Basic Knowledge: Properties of Square Roots**, the square root of $0$ is $0$, so it is correct. $\blacksquare$
-
+(4) By Properties of Square Roots, the square root of $0$ is $0$, so it is correct. $\blacksquare$
 
 ---
 
@@ -59,14 +36,13 @@ By **Basic Knowledge: Properties of Square Roots**, a positive number has two sq
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Square Root**, find the number whose square equals the given number.
+By Square Root, find the number whose square equals the given number.
 
 (1) $\because\left(\pm\frac{8}{9}\right)^2=\frac{64}{81}$, $\therefore\frac{64}{81}$ has square roots $\pm\frac{8}{9}$.
 
 (2) $6^2=36$, $\because\left(\pm 6\right)^2=36$, $\therefore 6^2$ has square roots $\pm 6$.
 
 (3) $\because\left(\pm 0.7\right)^2=0.49$, $\therefore 0.49$ has square roots $\pm 0.7$. $\blacksquare$
-
 
 ---
 
@@ -78,14 +54,13 @@ By **Basic Knowledge: Square Root**, find the number whose square equals the giv
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Square Root**, when $x^2=a$, $x=\pm\sqrt a$.
+By Square Root, when $x^2=a$, $x=\pm\sqrt a$.
 
 (1) $x^2=25$, so $x=\pm\sqrt{25}=\pm 5$.
 
 (2) $9x^2=4$, i.e. $x^2=\frac{4}{9}$, so $x=\pm\sqrt{\frac{4}{9}}=\pm\frac{2}{3}$.
 
 (3) $\left(x-1\right)^2=1$, so $x-1=\pm\sqrt 1=\pm 1$. When $x-1=1$, $x=2$; when $x-1=-1$, $x=0$. Thus $x=2$ or $x=0$. $\blacksquare$
-
 
 ---
 
@@ -97,14 +72,13 @@ By **Basic Knowledge: Square Root**, when $x^2=a$, $x=\pm\sqrt a$.
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Arithmetic Square Root**, the arithmetic square root is the positive square root.
+By Arithmetic Square Root, the arithmetic square root is the positive square root.
 
 (1) $\because 0.3^2=0.09$, $\therefore\sqrt{0.09}=0.3$.
 
 (2) $\because\left(\frac{9}{7}\right)^2=\frac{81}{49}$, $\therefore\sqrt{\frac{81}{49}}=\frac{9}{7}$.
 
 (3) $5^2=25$, $\because 5^2=25$, $\therefore\sqrt{5^2}=5$. $\blacksquare$
-
 
 ---
 
@@ -116,14 +90,13 @@ By **Basic Knowledge: Arithmetic Square Root**, the arithmetic square root is th
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Arithmetic Square Root**, $\sqrt a$ denotes the arithmetic square root, and $\pm\sqrt a$ denotes the two square roots.
+By Arithmetic Square Root, $\sqrt a$ denotes the arithmetic square root, and $\pm\sqrt a$ denotes the two square roots.
 
 (1) $\because 6^2=36$, $\therefore\sqrt{36}=6$.
 
 (2) $\because 0.8^2=0.64$, $\therefore\sqrt{0.64}=0.8$, so $-\sqrt{0.64}=-0.8$.
 
 (3) $\because 13^2=169$, $\therefore\pm\sqrt{169}=\pm 13$. $\blacksquare$
-
 
 ---
 
@@ -139,8 +112,7 @@ $$
 x\cdot 2x=162,\quad 2x^2=162,\quad x^2=81.
 $$
 
-By **Basic Knowledge: Square Root**, $x=\sqrt{81}=9$ (take the positive value). Thus the width is $9\,\text{m}$ and the length is $2x=18\,\text{m}$. $\blacksquare$
-
+By Square Root, $x=\sqrt{81}=9$ (take the positive value). Thus the width is $9\,\text{m}$ and the length is $2x=18\,\text{m}$. $\blacksquare$
 
 ---
 
@@ -152,14 +124,13 @@ By **Basic Knowledge: Square Root**, $x=\sqrt{81}=9$ (take the positive value). 
 
 ### Solution to Exercise 7
 
-By **Basic Knowledge: Arithmetic Square Root**, use a calculator to find the positive square root.
+By Arithmetic Square Root, use a calculator to find the positive square root.
 
 (1) $\because 31^2=961$, $\therefore\sqrt{961}=31$.
 
 (2) Using a calculator, $\sqrt{96.04}=9.8$.
 
 (3) Using a calculator, $\sqrt{403}\approx 20.075$. $\blacksquare$
-
 
 ---
 
@@ -171,14 +142,13 @@ By **Basic Knowledge: Arithmetic Square Root**, use a calculator to find the pos
 
 ### Solution to Exercise 8
 
-By **Basic Knowledge: Size of the Arithmetic Square Root**, compare with squares.
+By Size of the Arithmetic Square Root, compare with squares.
 
 (1) $\because 2^2=4< 5< 9=3^2$, $\therefore 2< \sqrt 5< 3$, i.e. $\sqrt 5$ lies between $2$ and $3$.
 
 (2) $\because 5^2=25< 26< 36=6^2$, $\therefore 5< \sqrt{26}< 6$, i.e. $\sqrt{26}$ lies between $5$ and $6$.
 
 (3) $\because 4^3=64< 83< 125=5^3$, $\therefore 4< \sqrt\left[3\right]{83}< 5$, i.e. $\sqrt\left[3\right]{83}$ lies between $4$ and $5$. $\blacksquare$
-
 
 ---
 
@@ -194,10 +164,9 @@ $$
 5x\cdot 4x=700,\quad 20x^2=700,\quad x^2=35.
 $$
 
-By **Basic Knowledge: Square Root**, $x=\sqrt{35}\approx 5.92$. Thus the length is $5\sqrt{35}\approx 29.6\,\text{cm}$ and the width is $4\sqrt{35}\approx 23.7\,\text{cm}$.
+By Square Root, $x=\sqrt{35}\approx 5.92$. Thus the length is $5\sqrt{35}\approx 29.6\,\text{cm}$ and the width is $4\sqrt{35}\approx 23.7\,\text{cm}$.
 
 A circle of radius $12\,\text{cm}$ has diameter $24\,\text{cm}$. The paper is about $23.7\,\text{cm}< 24\,\text{cm}$ wide, so the diameter does not fit along the width. Thus Wang Fang's idea is not feasible. $\blacksquare$
-
 
 ---
 
@@ -209,14 +178,13 @@ A circle of radius $12\,\text{cm}$ has diameter $24\,\text{cm}$. The paper is ab
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Square Root**.
+By Square Root.
 
 (1) $\because\left(\pm 9\right)^2=81$, $\therefore 81$ has square roots $\pm 9$.
 
 (2) $\because\left(\pm\frac{1}{10^3}\right)^2=\frac{1}{10^6}$, $\therefore\frac{1}{10^6}$ has square roots $\pm\frac{1}{10^3}=\pm 0.001$.
 
 (3) $\because\left(\pm 0.04\right)^2=0.0016$, $\therefore 0.0016$ has square roots $\pm 0.04$. $\blacksquare$
-
 
 ---
 
@@ -228,14 +196,13 @@ By **Basic Knowledge: Square Root**.
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Arithmetic Square Root**.
+By Arithmetic Square Root.
 
 (1) $\because\left(\frac{5}{8}\right)^2=\frac{25}{64}$, $\therefore\sqrt{\frac{25}{64}}=\frac{5}{8}$.
 
 (2) $\because 0.2^2=0.04$, $\therefore\sqrt{0.04}=0.2$.
 
 (3) $10^2=100$, $\because 10^2=100$, $\therefore\sqrt{10^2}=10$. $\blacksquare$
-
 
 ---
 
@@ -253,7 +220,7 @@ By **Basic Knowledge: Arithmetic Square Root**.
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Square Root** and **Basic Knowledge: Arithmetic Square Root**.
+By Square Root and Arithmetic Square Root.
 
 (1) $\because\left(\sqrt 5\right)^2=5$, $\therefore\sqrt 5$ is a square root of $5$, correct.
 
@@ -261,8 +228,7 @@ By **Basic Knowledge: Square Root** and **Basic Knowledge: Arithmetic Square Roo
 
 (3) $\sqrt 4=2$, and the square roots of $2$ are $\pm\sqrt 2$, so the square roots of $\sqrt 4$ are $\pm\sqrt 2$, not $\pm 2$; wrong.
 
-(4) By **Basic Knowledge: Properties of Square Roots**, the square root of $0$ is $0$, and by stipulation the arithmetic square root of $0$ is also $0$; correct. $\blacksquare$
-
+(4) By Properties of Square Roots, the square root of $0$ is $0$, and by stipulation the arithmetic square root of $0$ is also $0$; correct. $\blacksquare$
 
 ---
 
@@ -274,14 +240,13 @@ By **Basic Knowledge: Square Root** and **Basic Knowledge: Arithmetic Square Roo
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Arithmetic Square Root**, use a calculator to find the positive square root and round.
+By Arithmetic Square Root, use a calculator to find the positive square root and round.
 
 (1) $\sqrt{408}\approx 20.20$.
 
 (2) $\sqrt{51.42534}\approx 7.17$.
 
 (3) $\sqrt{\frac{111}{14}}=\sqrt{7.928\cdots}\approx 2.82$. $\blacksquare$
-
 
 ---
 
@@ -293,14 +258,13 @@ By **Basic Knowledge: Arithmetic Square Root**, use a calculator to find the pos
 
 ### Solution to Problem 5
 
-By **Basic Knowledge: Size of the Arithmetic Square Root**, the larger the radicand, the larger the arithmetic square root.
+By Size of the Arithmetic Square Root, the larger the radicand, the larger the arithmetic square root.
 
 (1) $\because 8^2=64< 65$, $\therefore\sqrt{65}> \sqrt{64}=8$, i.e. $\sqrt{65}> 8$.
 
 (2) $\because 33> 22$, $\therefore\sqrt{33}> \sqrt{22}$.
 
 (3) $\because 10> 9$, $\therefore\sqrt{10}> \sqrt 9=3$, so $\sqrt{10}-1> 2$, and hence $\frac{\sqrt{10}-1}{2}> 1$. $\blacksquare$
-
 
 ---
 
@@ -312,14 +276,13 @@ By **Basic Knowledge: Size of the Arithmetic Square Root**, the larger the radic
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Square Root**.
+By Square Root.
 
 (1) $x^2=100$, so $x=\pm\sqrt{100}=\pm 10$.
 
 (2) $x^2=\frac{36}{25}$, so $x=\pm\sqrt{\frac{36}{25}}=\pm\frac{6}{5}$.
 
 (3) $x+2=\pm\sqrt{0.49}=\pm 0.7$. When $x+2=0.7$, $x=-1.3$; when $x+2=-0.7$, $x=-2.7$. Thus $x=-1.3$ or $x=-2.7$. $\blacksquare$
-
 
 ---
 
@@ -329,12 +292,11 @@ By **Basic Knowledge: Square Root**.
 
 ### Solution to Problem 7
 
-Let the side length be $x\,\text{dm}$; then $x^2=3$, and by **Basic Knowledge: Square Root**, $x=\sqrt 3$.
+Let the side length be $x\,\text{dm}$; then $x^2=3$, and by Square Root, $x=\sqrt 3$.
 
 $\because 1.7^2=2.89< 3< 3.24=1.8^2$, continue to refine: $1.73^2=2.9929< 3< 3.0276=1.74^2$, and further $1.732^2\approx 2.999< 3$. Thus $\sqrt 3\approx 1.73$.
 
 That is, the side length of the square is about $1.73\,\text{dm}$. $\blacksquare$
-
 
 ---
 
@@ -354,7 +316,6 @@ $\sqrt{0.02551\cdots}\approx 0.1597$, so $t\approx 6.28\times 0.1597\approx 1.00
 
 That is, one complete swing takes about $1.00\,s$. $\blacksquare$
 
-
 ---
 
 ## Problem 9
@@ -371,7 +332,6 @@ When the area is enlarged to $9$ times the original, the new side length is $\sq
 
 When the area is enlarged to $n$ times the original, the new side length is $\sqrt{na^2}=a\sqrt n$, i.e. the side length becomes $\sqrt n$ times the original. $\blacksquare$
 
-
 ---
 
 ## Problem 10
@@ -384,20 +344,19 @@ When the area is enlarged to $n$ times the original, the new side length is $\sq
 
 ### Solution to Problem 10
 
-(1) $\left(\sqrt 0\right)^2=0$, $\left(\sqrt 4\right)^2=4$, $\left(\sqrt 9\right)^2=9$, $\left(\sqrt{25}\right)^2=25$, $\left(\sqrt{36}\right)^2=36$. By **Basic Knowledge: Relationship Between Squaring and Extracting Roots**, for any nonnegative number $a$,
+(1) $\left(\sqrt 0\right)^2=0$, $\left(\sqrt 4\right)^2=4$, $\left(\sqrt 9\right)^2=9$, $\left(\sqrt{25}\right)^2=25$, $\left(\sqrt{36}\right)^2=36$. By Relationship Between Squaring and Extracting Roots, for any nonnegative number $a$,
 
 $$
 \left(\sqrt a\right)^2=a.
 $$
 
-(2) $\sqrt{0^2}=0$, $\sqrt{2^2}=2$, $\sqrt{\left(-3\right)^2}=\sqrt 9=3$, $\sqrt{5^2}=5$, $\sqrt{\left(-6\right)^2}=\sqrt{36}=6$. It can be seen that when $a\ge 0$, $\sqrt{a^2}=a$, and when $a< 0$, $\sqrt{a^2}=-a$. By **Basic Knowledge: Properties of Arithmetic Square Roots**, for any number $a$,
+(2) $\sqrt{0^2}=0$, $\sqrt{2^2}=2$, $\sqrt{\left(-3\right)^2}=\sqrt 9=3$, $\sqrt{5^2}=5$, $\sqrt{\left(-6\right)^2}=\sqrt{36}=6$. It can be seen that when $a\ge 0$, $\sqrt{a^2}=a$, and when $a< 0$, $\sqrt{a^2}=-a$. By Properties of Arithmetic Square Roots, for any number $a$,
 
 $$
 \sqrt{a^2}=\left|a\right|.
 $$
 
 $\blacksquare$
-
 
 ---
 
@@ -407,7 +366,7 @@ $\blacksquare$
 
 ### Solution to Problem 11
 
-By **Basic Knowledge: Size of the Arithmetic Square Root**, repeatedly take square roots of the positive number.
+By Size of the Arithmetic Square Root, repeatedly take square roots of the positive number.
 
 Repeatedly take square roots of $1234$: $\sqrt{1234}\approx 35.1$, then $\sqrt{35.1}\approx 5.92$, then $\approx 2.43$, then $\approx 1.56$, then $\approx 1.25$, … As the number of square-root extractions increases, the result gradually approaches $1$.
 

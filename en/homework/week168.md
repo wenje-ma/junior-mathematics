@@ -1,30 +1,6 @@
 # week168
 
-> **Basic Knowledge: Solving a Right Triangle**
-> 
-> In a right triangle, apart from the right angle, there are five elements in all, namely the three sides and the two acute angles. The process of finding the remaining unknown elements from the known elements of the right triangle is called solving a right triangle.
-> **Basic Knowledge: Relationships Among the Elements of a Right Triangle**
-> 
-> In $\text{Rt}\triangle ABC$, where $\angle C$ is the right angle and the sides opposite $\angle A$, $\angle B$, $\angle C$ are $a$, $b$, $c$, respectively:
-> (1) Relationship of the three sides: $a^{2}+b^{2}=c^{2}$ (the Pythagorean theorem);
-> (2) Relationship of the two acute angles: $\angle A+\angle B=90^{\circ}$;
-> (3) Relationship between sides and angles: $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$, $\tan A=\frac{a}{b}$ ($A$ may be replaced by $B$, while $a$ and $b$ are interchanged at the same time).
-> Knowing any two of these elements (at least one of which is a side), one can find the remaining three unknown elements.
-> **Basic Knowledge: Angle of Elevation and Angle of Depression**
-> 
-> Among the angles formed by the line of sight and the horizontal line, the angle above the horizontal line is called the angle of elevation, and the angle below the horizontal line is called the angle of depression.
-> **Basic Knowledge: Cosine**
-> 
-> In a right triangle, cos A = adjacent/hypotenuse.
-> **Basic Knowledge: Sine**
-> 
-> In a right triangle, sin A = opposite/hypotenuse.
-> **Basic Knowledge: Tangent**
-> 
-> In a right triangle, tan A = opposite/adjacent.
-
 ---
-
 
 ## Exercise 1
 
@@ -38,7 +14,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Relationships Among the Elements of a Right Triangle**, use the Pythagorean theorem, the complementarity of acute angles, and trigonometric functions respectively.
+By Relationships Among the Elements of a Right Triangle, use the Pythagorean theorem, the complementarity of acute angles, and trigonometric functions respectively.
 
 (1) By the Pythagorean theorem $a=\sqrt{c^{2}-b^{2}}=\sqrt{900-400}=\sqrt{500}=10\sqrt{5}$.
 
@@ -56,7 +32,7 @@ The figure shows a vertical building $BC$ with flagpole $AB$ on top; point $D$ o
 
 ### Solution to Exercise 2
 
-Let the horizontal distance from $D$ to the building be $DC=40\ \text{m}$. In $\text{Rt}\triangle BDC$, $\angle BDC=45^{\circ}$; by **Basic Knowledge: Tangent**,
+Let the horizontal distance from $D$ to the building be $DC=40\ \text{m}$. In $\text{Rt}\triangle BDC$, $\angle BDC=45^{\circ}$; by Tangent,
 
 $$BC=DC\cdot\tan 45^{\circ}=40\times 1=40\ \text{m}.$$
 
@@ -76,7 +52,7 @@ Since $A$, $C$, $E$ are collinear and $\angle ABD=140^{\circ}$, $\angle DBE=180^
 
 In $\triangle BDE$, $\angle DBE=40^{\circ}$, $\angle BDE=50^{\circ}$, so $\angle BED=180^{\circ}-40^{\circ}-50^{\circ}=90^{\circ}$; i.e. $\triangle BDE$ is a right triangle with $\angle E=90^{\circ}$.
 
-In $\text{Rt}\triangle BDE$, by **Basic Knowledge: Sine**,
+In $\text{Rt}\triangle BDE$, by Sine,
 
 $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\times 0.6428\approx 334.3\ \text{m}.$$
 
@@ -130,7 +106,7 @@ For slope $DC$, $i=1:3$, i.e. $\tan\beta=\frac{1}{3}$; using a calculator, $\bet
 
 ### Solution to Problem 1
 
-Solve by **Basic Knowledge**.
+Solve by Basic Knowledge.
 
 (1) $\angle B=90^{\circ}-30^{\circ}=60^{\circ}$. $a=c\sin A=8\times\frac{1}{2}=4$, $b=c\cos A=8\times\frac{\sqrt{3}}{2}=4\sqrt{3}$.
 
@@ -146,9 +122,9 @@ Solve by **Basic Knowledge**.
 
 In the isosceles triangle $ABC$, $AD\perp BC$, and $D$ is the midpoint of $BC$, so $BD=\frac{BC}{2}=5\ \text{m}$.
 
-In $\text{Rt}\triangle ABD$, by **Basic Knowledge: Tangent**, $AD=BD\cdot\tan 36^{\circ}\approx 5\times 0.7265\approx 3.6\ \text{m}$.
+In $\text{Rt}\triangle ABD$, by Tangent, $AD=BD\cdot\tan 36^{\circ}\approx 5\times 0.7265\approx 3.6\ \text{m}$.
 
-By **Basic Knowledge: Cosine**, $\cos B=\frac{BD}{AB}$, so $AB=\frac{BD}{\cos 36^{\circ}}\approx\frac{5}{0.8090}\approx 6.2\ \text{m}$. $\blacksquare$
+By Cosine, $\cos B=\frac{BD}{AB}$, so $AB=\frac{BD}{\cos 36^{\circ}}\approx\frac{5}{0.8090}\approx 6.2\ \text{m}$. $\blacksquare$
 
 ## Problem 3
 
@@ -158,7 +134,7 @@ By **Basic Knowledge: Cosine**, $\cos B=\frac{BD}{AB}$, so $AB=\frac{BD}{\cos 36
 
 In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, $AC=1200\ \text{m}$, angle of depression $\alpha=16^{\circ}31'\approx 16.52^{\circ}$. By the equality of alternate interior angles, $\angle ABC=\alpha$.
 
-By **Basic Knowledge: Sine**, $\sin\alpha=\frac{AC}{AB}$, so $AB=\frac{AC}{\sin\alpha}=\frac{1200}{\sin 16.52^{\circ}}\approx\frac{1200}{0.2843}\approx 4221\ \text{m}$. $\blacksquare$
+By Sine, $\sin\alpha=\frac{AC}{AB}$, so $AB=\frac{AC}{\sin\alpha}=\frac{1200}{\sin 16.52^{\circ}}\approx\frac{1200}{0.2843}\approx 4221\ \text{m}$. $\blacksquare$
 
 ## Problem 4
 
@@ -168,7 +144,7 @@ By **Basic Knowledge: Sine**, $\sin\alpha=\frac{AC}{AB}$, so $AB=\frac{AC}{\sin\
 
 In the right triangle, the lighthouse height $55\ \text{m}$ is the opposite side, the angle of depression is $21^{\circ}$, and the straight-line distance from the boat to the lighthouse is the hypotenuse.
 
-By **Basic Knowledge: Sine**, $\sin 21^{\circ}=\frac{55}{d}$, so $d=\frac{55}{\sin 21^{\circ}}\approx\frac{55}{0.3584}\approx 153\ \text{m}$. $\blacksquare$
+By Sine, $\sin 21^{\circ}=\frac{55}{d}$, so $d=\frac{55}{\sin 21^{\circ}}\approx\frac{55}{0.3584}\approx 153\ \text{m}$. $\blacksquare$
 
 ## Problem 5
 
@@ -178,7 +154,7 @@ By **Basic Knowledge: Sine**, $\sin 21^{\circ}=\frac{55}{d}$, so $d=\frac{55}{\s
 
 The horizontal distance $5.5\ \text{m}$ is the adjacent side, the slope distance is the hypotenuse, and the slope angle is $24^{\circ}$.
 
-By **Basic Knowledge: Cosine**, $\cos 24^{\circ}=\frac{5.5}{d}$, so $d=\frac{5.5}{\cos 24^{\circ}}\approx\frac{5.5}{0.9135}\approx 6.0\ \text{m}$. $\blacksquare$
+By Cosine, $\cos 24^{\circ}=\frac{5.5}{d}$, so $d=\frac{5.5}{\cos 24^{\circ}}\approx\frac{5.5}{0.9135}\approx 6.0\ \text{m}$. $\blacksquare$
 
 ## Problem 6
 
@@ -192,7 +168,7 @@ By **Basic Knowledge: Cosine**, $\cos 24^{\circ}=\frac{5.5}{d}$, so $d=\frac{5.5
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Relationships Among the Elements of a Right Triangle**.
+By Relationships Among the Elements of a Right Triangle.
 
 (1) $\angle B=90^{\circ}-\angle A$. $a=c\sin A$, $b=c\cos A$.
 
@@ -208,7 +184,7 @@ By **Basic Knowledge: Relationships Among the Elements of a Right Triangle**.
 
 The square base of the pyramid has side $130\ \text{m}$, and the lateral faces make an angle of $65^{\circ}$ with the base. The height $h$ and the distance $d=\frac{130}{2}=65\ \text{m}$ from the center of the base to a side form a right triangle, with the dihedral angle between the lateral face and the base being $65^{\circ}$.
 
-By **Basic Knowledge: Tangent**, $\tan 65^{\circ}=\frac{h}{65}$, so $h=65\times\tan 65^{\circ}\approx 65\times 2.1445\approx 139\ \text{m}$. $\blacksquare$
+By Tangent, $\tan 65^{\circ}=\frac{h}{65}$, so $h=65\times\tan 65^{\circ}\approx 65\times 2.1445\approx 139\ \text{m}$. $\blacksquare$
 
 ## Problem 8
 

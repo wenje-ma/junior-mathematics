@@ -1,18 +1,6 @@
 # week88
 
-> **Basic Knowledge: Rule for Multiplying Fractions**
-> 
-> To multiply a fraction by a fraction, take the product of the numerators as the numerator of the result and the product of the denominators as the denominator, i.e. $\frac{a}{b}\cdot\frac{c}{d}=\frac{ac}{bd}$.
 ---
-
-
-> **Basic Knowledge: Rule for Dividing Fractions** 
-> 
-> To divide a fraction by a fraction, invert the numerator and denominator of the divisor and multiply by the dividend, i.e. $\frac{a}{b}\div\frac{c}{d}=\frac{ad}{bc}$.
-
-> **Basic Knowledge: Power of a Fraction** 
-> 
-> When $n$ is a positive integer, $\left(\frac{a}{b}\right)^n=\frac{a^n}{b^n}$, i.e. to raise a fraction to a power, raise both the numerator and denominator to that power.
 
 ## Exercise 1
 
@@ -28,7 +16,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $\frac{3a}{4b}\cdot\frac{2b}{a^2}=\frac{6ab}{4a^2 b}=\frac{3}{2a}$.
 
@@ -48,7 +36,7 @@ By **Basic Knowledge**.
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $\frac{4x}{3y}\cdot\frac{y}{2x^3}=\frac{4xy}{6x^3 y}=\frac{2}{3x^2}$.
 
@@ -68,7 +56,7 @@ By **Basic Knowledge**.
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $\frac{2}{x}\div\frac{4}{x}=\frac{2}{x}\cdot\frac{x}{4}=\frac12$.
 
@@ -104,7 +92,7 @@ By **Basic Knowledge**.
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) Correct; $\left(\frac{b^2}{a}\right)^3=\frac{\left(b^2\right)^3}{a^3}=\frac{b^6}{a^3}$.
 
@@ -122,7 +110,7 @@ By **Basic Knowledge**.
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $\left(\frac{2x}{-y}\right)^2=\frac{4x^2}{y^2}$.
 
@@ -186,7 +174,7 @@ By **Basic Knowledge**.
 
 ### Solution to Problem 3
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $\left(\frac{-2a^2 b}{3c}\right)^3=-\frac{8a^6 b^3}{27c^3}$.
 

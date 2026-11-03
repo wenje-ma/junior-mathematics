@@ -1,10 +1,6 @@
 # week133
 
-> **Basic Knowledge: Quadratic Function**
-> 
-> In general, a function of the form $y=ax^2+bx+c$ ($a,b,c$ are constants, $a\ne0$) is called a quadratic function. Here $x$ is the independent variable, and $a,b,c$ are respectively the quadratic coefficient, the linear coefficient, and the constant term of the function expression.
 ---
-
 
 ## Exercise 1
 
@@ -20,7 +16,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Quadratic Function**, put each expression in the form $y=ax^2+bx+c$, then read off the coefficients.
+By Quadratic Function, put each expression in the form $y=ax^2+bx+c$, then read off the coefficients.
 
 (1) $a=8$, $b=-16$, $c=8$.
 

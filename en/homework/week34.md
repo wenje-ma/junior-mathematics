@@ -1,24 +1,5 @@
 # week34
 
-> **Basic Knowledge: Criterion 2**
-> 
-> If two lines are cut by a third line and the alternate interior angles are equal, then the two lines are parallel. In short: equal alternate interior angles imply parallel lines.
-
-> **Basic Knowledge: Translation**
-> 
-> In a plane, moving a figure by a certain distance in a certain direction is called a translation of the figure.
-
-
-> **Basic Knowledge: Criterion 1**
-> 
-> When two lines are cut by a transversal, if the corresponding angles are equal, then the two lines are parallel. In short: corresponding angles equal, two lines parallel.
-> **Basic Knowledge: Parallel Axiom**
-> 
-> Through a point outside a given line, there is exactly one line parallel to the given line.
-> **Basic Knowledge: Properties of Translation**
-> 
-> Properties of Translation.
-
 ---
 
 ## Activity 1
@@ -33,7 +14,7 @@ Wang Fang's method: draw parallel lines by folding paper.
 
 ### Solution to Activity 1
 
-By **Basic Knowledge: Criterion 1**, equal corresponding angles imply parallel lines.
+By Criterion 1, equal corresponding angles imply parallel lines.
 
 In Li Ming's method, make $\angle 2=\angle 1$, and $\angle 1$ and $\angle 2$ are the corresponding angles formed when lines $a$, $b$ are cut by a transversal; equal corresponding angles give $b\parallel a$, so the method is correct.
 
@@ -41,8 +22,7 @@ In Liu Wei's method, $PQ\perp a$ and $l\perp a$, so both $PQ$ and $l$ are perpen
 
 Wang Fang folds the paper to create two crease lines that coincide with each other; after unfolding, the two crease lines do not intersect in the same plane, so they are parallel lines, and the method is correct.
 
-By **Basic Knowledge: Parallel Axiom**, no matter which method is used, through point $P$ only one line parallel to $a$ can be drawn. $\blacksquare$
-
+By Parallel Axiom, no matter which method is used, through point $P$ only one line parallel to $a$ can be drawn. $\blacksquare$
 
 ---
 
@@ -52,4 +32,4 @@ By **Basic Knowledge: Parallel Axiom**, no matter which method is used, through 
 
 ### Solution to Activity 2
 
-By **Basic Knowledge: Translation** and **Basic Knowledge: Properties of Translation**, arrange straight segments interlaced in horizontal, vertical, and diagonal directions; the parallel segments can be obtained by translating one segment, and the intersecting segments interlace at fixed angles, forming clear, well-proportioned lattice-window patterns. Choose the directions and spacing of the segments yourself and draw them interlaced to design lattice-window patterns. $\blacksquare$
+By Translation and Properties of Translation, arrange straight segments interlaced in horizontal, vertical, and diagonal directions; the parallel segments can be obtained by translating one segment, and the intersecting segments interlace at fixed angles, forming clear, well-proportioned lattice-window patterns. Choose the directions and spacing of the segments yourself and draw them interlaced to design lattice-window patterns. $\blacksquare$

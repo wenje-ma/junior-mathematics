@@ -1,18 +1,6 @@
 # week161
 
-> **Basic Knowledge: Inverse Proportional Function**
-> 
-> A function of the form $y=\frac{k}{x}$ (where $k$ is a constant and $k\ne0$) is called an inverse proportional function, and the range of the independent variable $x$ is all real numbers except $0$.
-> **Basic Knowledge: Graph and Properties of the Inverse Proportional Function**
-> 
-> The graph of y = k/x is a hyperbola. When k > 0, branches are in quadrants I and III; when k < 0, in quadrants II and IV.
-
 ---
-
-
-> **Basic Knowledge: Graph and Properties of the Inverse Proportional Function** 
-> 
-> The graph of $y=\frac{k}{x}$ is a hyperbola. When $k> 0$, the two branches lie in the first and third quadrants, and in each quadrant $y$ decreases as $x$ increases; when $k< 0$, the two branches lie in the second and fourth quadrants, and in each quadrant $y$ increases as $x$ increases.
 
 ## Review Problem 1
 
@@ -36,7 +24,7 @@ For the function $y=\frac{3}{x}$, when $x> 0$, $y\;\_\_\_\;0$, and at this time 
 
 ### Solution to Review Problem 2
 
-By **Basic Knowledge: Graph and Properties of the Inverse Proportional Function**.
+By Graph and Properties of the Inverse Proportional Function.
 
 $y=\frac{3}{x}$, $k=3> 0$; when $x> 0$, $y> 0$, and the graph lies in the first quadrant.
 
@@ -52,7 +40,7 @@ $y=-\frac{3}{x}$, $k=-3< 0$; when $x< 0$, $y=\frac{-3}{x}=\frac{-3}{\text{负数
 
 ### Solution to Review Problem 3
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $k=10> 0$, the graph lies in the first and third quadrants, and $y$ decreases as $x$ increases.
 
@@ -66,7 +54,7 @@ By **Basic Knowledge**.
 
 ### Solution to Review Problem 4
 
-By **Basic Knowledge**, an inverse proportional function has the form $y=\frac{k}{x}$.
+By Basic Knowledge, an inverse proportional function has the form $y=\frac{k}{x}$.
 
 (A) $y=\frac{1}{x^2}$, $y$ is inversely proportional to $x^2$; (B) $yx=-\sqrt{3}$ means $y=\frac{-\sqrt{3}}{x}$, which is an inverse proportional function; (C) is a linear function; (D) $y=\frac{1}{\sqrt{x}}$, which is not. So choose (B). $\blacksquare$
 
@@ -76,7 +64,7 @@ By **Basic Knowledge**, an inverse proportional function has the form $y=\frac{k
 
 ### Solution to Review Problem 5
 
-By **Basic Knowledge**, $y$ decreasing as $x$ increases means $k-1> 0$, so $k> 1$. $\blacksquare$
+By Basic Knowledge, $y$ decreasing as $x$ increases means $k-1> 0$, so $k> 1$. $\blacksquare$
 
 ## Review Problem 6
 
@@ -116,7 +104,7 @@ Graph (A): both branches lie above the $x$-axis; Graph (B): both branches lie in
 
 ### Solution to Review Problem 8
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $y=\frac{2}{x}$, $k=2> 0$, lies in the first and third quadrants, corresponding to (B).
 

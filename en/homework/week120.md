@@ -1,16 +1,6 @@
 # week120
 
-> **Basic Knowledge: Deviation**
-> 
-> For $n$ data $x_1, x_2, \ldots, x_n$, let $\overline{x}$ denote their mean; then $x_i-\overline{x}$ is called the deviation of $x_i$ from the mean $\overline{x}$.
-> **Basic Knowledge: Sum of Squared Deviations**
-> 
-> $\left(x_1-\overline{x}\right)^2+\left(x_2-\overline{x}\right)^2+\cdots+\left(x_n-\overline{x}\right)^2$ is called the sum of squared deviations of these $n$ data from the mean, denoted $d^2$.
-> **Basic Knowledge: Variance**
-> 
-> The average of the squared deviations, $s^2=\frac{\left(x_1-\overline{x}\right)^2+\left(x_2-\overline{x}\right)^2+\cdots+\left(x_n-\overline{x}\right)^2}{n}$, is called the variance of this set of data. The larger the variance, the greater the dispersion of the data; the smaller the variance, the smaller the dispersion.
 ---
-
 
 ## Exercise 1
 
@@ -26,7 +16,7 @@ B's mean: $\overline{x}_乙=\frac{7+8+8+7+9+8+7+8+8+7}{10}=7.7$.
 
 B's variance: $s^2_乙=\frac{\left(7-7.7\right)^2+\left(8-7.7\right)^2+\cdots+\left(7-7.7\right)^2}{10}=\frac{0.49+0.09+0.09+0.49+1.69+0.09+0.49+0.09+0.09+0.49}{10}=\frac{3.7}{10}=0.37$.
 
-By **Basic Knowledge: Variance**, $s^2_甲 > s^2_乙$; B's variance is smaller, so B's shooting is more consistent. $\blacksquare$
+By Variance, $s^2_甲 > s^2_乙$; B's variance is smaller, so B's shooting is more consistent. $\blacksquare$
 
 ## Exercise 2
 
@@ -46,7 +36,7 @@ B's mean: $\overline{x}_乙=\frac{2+3+1+1+0+2+1+1+0+1}{10}=1.2$.
 
 B's variance: $s^2_乙=\frac{\left(2-1.2\right)^2+\left(3-1.2\right)^2+\left(1-1.2\right)^2+\cdots}{10}=\frac{0.64+3.24+0.04+0.04+1.44+0.64+0.04+0.04+1.44+0.04}{10}=\frac{7.6}{10}=0.76$.
 
-(2) By **Basic Knowledge: Variance**, A and B have the same mean, but $s^2_甲 > s^2_乙$; B's variance is smaller, so machine B performs better. $\blacksquare$
+(2) By Variance, A and B have the same mean, but $s^2_甲 > s^2_乙$; B's variance is smaller, so machine B performs better. $\blacksquare$
 
 ## Problem 1
 
@@ -66,7 +56,7 @@ B's mean: $\overline{x}_乙=\frac{505+507+505+498+505+506+505+505+506+506}{10}=5
 
 B's variance: $s^2_乙=\frac{\left(505-504.8\right)^2+\cdots+\left(506-504.8\right)^2}{10}\approx5.36$.
 
-(2) By **Basic Knowledge: Variance**, $s^2_甲 > s^2_乙$; B's variance is smaller, so machine B packages more consistently. $\blacksquare$
+(2) By Variance, $s^2_甲 > s^2_乙$; B's variance is smaller, so machine B packages more consistently. $\blacksquare$
 
 ## Problem 2
 
@@ -86,4 +76,4 @@ B's average seedling height: $\overline{x}_乙=\frac{11+16+17+14+13+19+6+8+10+16
 
 B's variance: $s^2_乙=\frac{\left(11-13\right)^2+\left(16-13\right)^2+\cdots+\left(16-13\right)^2}{10}=15.8$.
 
-By **Basic Knowledge: Variance**, $s^2_甲 < s^2_乙$; A's variance is smaller, so variety A grows more uniformly. $\blacksquare$
+By Variance, $s^2_甲 < s^2_乙$; A's variance is smaller, so variety A grows more uniformly. $\blacksquare$

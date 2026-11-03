@@ -1,22 +1,6 @@
 # week170
 
-> **基础知识: 正弦**
-> 
-> $\sin A=\frac{a}{c}$.
-> **基础知识: 余弦**
-> 
-> $\cos A=\frac{b}{c}$.
-> **基础知识: 正切**
-> 
-> $\tan A=\frac{a}{b}$.
-> **基础知识: 特殊角的三角函数值**
-> 
-> $\sin 30^{\circ}=\frac{1}{2}$, $\cos 30^{\circ}=\frac{\sqrt{3}}{2}$, $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$; $\sin 45^{\circ}=\frac{\sqrt{2}}{2}$, $\cos 45^{\circ}=\frac{\sqrt{2}}{2}$, $\tan 45^{\circ}=1$; $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$, $\cos 60^{\circ}=\frac{1}{2}$, $\tan 60^{\circ}=\sqrt{3}$.
-> **基础知识: 直角三角形元素间的关系**
-> 
-> $a^{2}+b^{2}=c^{2}$; $\angle A+\angle B=90^{\circ}$; $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$, $\tan A=\frac{a}{b}$.
 ---
-
 
 ### 复习题一
 
@@ -26,7 +10,7 @@
 
 由勾股定理, $b=\sqrt{c^{2}-a^{2}}=\sqrt{36-4}=\sqrt{32}=4\sqrt{2}$.
 
-由**基础知识**, **基础知识**, **基础知识**:
+由基础知识, 基础知识, 基础知识:
 
 $$\sin A=\frac{a}{c}=\frac{2}{6}=\frac{1}{3},\quad \cos A=\frac{b}{c}=\frac{4\sqrt{2}}{6}=\frac{2\sqrt{2}}{3},\quad \tan A=\frac{a}{b}=\frac{2}{4\sqrt{2}}=\frac{\sqrt{2}}{4}.\ \blacksquare$$
 
@@ -36,7 +20,7 @@ $$\sin A=\frac{a}{c}=\frac{2}{6}=\frac{1}{3},\quad \cos A=\frac{b}{c}=\frac{4\sq
 
 ### 解答 复习题二
 
-由**基础知识: 余弦**, $\cos A=\frac{AC}{AB}=\frac{\sqrt{3}}{2}$, 故 $AB=\frac{AC}{\cos A}=\frac{4\sqrt{3}}{\sqrt{3}/2}=8$.
+由余弦, $\cos A=\frac{AC}{AB}=\frac{\sqrt{3}}{2}$, 故 $AB=\frac{AC}{\cos A}=\frac{4\sqrt{3}}{\sqrt{3}/2}=8$.
 
 由勾股定理, $BC=\sqrt{AB^{2}-AC^{2}}=\sqrt{64-48}=\sqrt{16}=4$. $\blacksquare$
 
@@ -50,7 +34,7 @@ $$\sin A=\frac{a}{c}=\frac{2}{6}=\frac{1}{3},\quad \cos A=\frac{b}{c}=\frac{4\sq
 
 ### 解答 复习题三
 
-由**基础知识: 特殊角的三角函数值**.
+由特殊角的三角函数值.
 
 (1) $\sqrt{2}\times\frac{\sqrt{2}}{2}-1=1-1=0$.
 
@@ -124,7 +108,7 @@ $$h=l\sin 30^{\circ}=2\sqrt{3}\times\frac{1}{2}=\sqrt{3}.$$
 
 在直角三角形中, 灯塔高 $42\ \text{m}$ 为对边, 仰角 $33^{\circ}$, 船到海岸的水平距离为邻边.
 
-由**基础知识: 正切**, $\tan 33^{\circ}=\frac{42}{d}$, 故 $d=\frac{42}{\tan 33^{\circ}}\approx\frac{42}{0.6494}\approx 65\ \text{m}$. $\blacksquare$
+由正切, $\tan 33^{\circ}=\frac{42}{d}$, 故 $d=\frac{42}{\tan 33^{\circ}}\approx\frac{42}{0.6494}\approx 65\ \text{m}$. $\blacksquare$
 
 ### 复习题八
 
@@ -188,11 +172,11 @@ $$AB=\frac{5.00-1.214}{\cos 30^{\circ}}=\frac{3.786}{0.8660}\approx 4.37\ \text{
 
 ### 解答 复习题十
 
-(1) 最高攀墙高度对应最大角 $\alpha=75^{\circ}$. 由**基础知识: 正弦**,
+(1) 最高攀墙高度对应最大角 $\alpha=75^{\circ}$. 由正弦,
 
 $$h=6\sin 75^{\circ}\approx 6\times 0.9659\approx 5.8\ \text{m}.$$
 
-(2) 梯子底端距墙 $2.4\ \text{m}$, 即邻边 $=2.4$, 斜边 $=6$. 由**基础知识: 余弦**,
+(2) 梯子底端距墙 $2.4\ \text{m}$, 即邻边 $=2.4$, 斜边 $=6$. 由余弦,
 
 $$\cos\alpha=\frac{2.4}{6}=0.4,\quad \alpha\approx 66.42^{\circ}\approx 66^{\circ}.$$
 
@@ -234,7 +218,7 @@ $AD=AF=10k$, $BC=BF+FC=6k+4k=10k$.
 
 ### 解答 复习题十二
 
-能. 过 $A$ 作 $AE\perp BC$ 于 $E$. 在 $\text{Rt}\triangle ABE$ 中, 由**基础知识: 正弦**, $AE=AB\cdot\sin B$.
+能. 过 $A$ 作 $AE\perp BC$ 于 $E$. 在 $\text{Rt}\triangle ABE$ 中, 由正弦, $AE=AB\cdot\sin B$.
 
 平行四边形面积 $S=BC\cdot AE=AB\cdot BC\cdot\sin B$. $\blacksquare$
 

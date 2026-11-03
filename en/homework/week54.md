@@ -1,9 +1,5 @@
 # week54
 
-> **Basic Knowledge: Linear Inequality in One Variable**
-> 
-> An inequality that contains only one unknown, all expressions containing the unknown are integral expressions, and the degree of the unknown is $1$.
-
 ---
 
 ## Activity 1
@@ -21,7 +17,6 @@ G'\ge1.1\times1.05\,G=1.155\,G.
 $$
 
 Hence next year's green coverage area must increase by at least $15.5\%$ over this year's. $\blacksquare$
-
 
 ---
 

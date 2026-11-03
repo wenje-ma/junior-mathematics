@@ -1,13 +1,6 @@
 # week112
 
-> **Basic Knowledge: Linear Function**
-> 
-> Generally, a function of the form $y=kx+b$ ($k$, $b$ are constants, $k \neq 0$) is called a linear function, where $x$ is the independent variable.
-> **Basic Knowledge: Direct Proportion Function**
-> 
-> A function of the form $y=kx$ ($k$ is a constant, $k \neq 0$) is called a direct proportion function, where $k$ is called the proportionality coefficient. A direct proportion function is the special linear function when $b=0$.
 ---
-
 
 ## Exercise 1
 
@@ -25,7 +18,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Linear Function**, a function of the form $y=kx+b$ ($k \neq 0$) is a linear function.
+By Linear Function, a function of the form $y=kx+b$ ($k \neq 0$) is a linear function.
 
 (1) $y=-8x$ is $y=-8x+0$, which fits the form $y=kx+b$ with $k=-8 \neq 0$, so it is a linear function; and $b=0$, so it is also a direct proportion function.
 
@@ -65,7 +58,7 @@ By **Basic Knowledge: Linear Function**, a function of the form $y=kx+b$ ($k \ne
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Linear Function**, a function of the form $y=kx+b$ ($k \neq 0$) is a linear function.
+By Linear Function, a function of the form $y=kx+b$ ($k \neq 0$) is a linear function.
 
 (1) $y=-0.2x$ is $y=-0.2x+0$, so it is a linear function and also a direct proportion function.
 
@@ -95,7 +88,7 @@ By **Basic Knowledge: Linear Function**, a function of the form $y=kx+b$ ($k \ne
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Direct Proportion Function**, let $y=kx$. Substituting $x=2$, $y=8$, we get $8=2k$, giving $k=4$. So the analytic expression is $y=4x$.
+By Direct Proportion Function, let $y=kx$. Substituting $x=2$, $y=8$, we get $8=2k$, giving $k=4$. So the analytic expression is $y=4x$.
 
 When $y=-4$, $-4=4x$, giving $x=-1$. So $y=-4$ when $x=-1$. $\blacksquare$
 

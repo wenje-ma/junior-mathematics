@@ -1,10 +1,6 @@
 # week139
 
-> **Basic Knowledge: Inverse Proportional Function**
-> 
-> In general, a function of the form $y=\frac kx$ ($k$ is a constant, $k\ne0$) is called an inverse proportional function. Here $x$ is the independent variable, $y$ is a function of $x$, and the domain of the independent variable $x$ is all real numbers not equal to $0$.
 ---
-
 
 ## Exercise 1
 
@@ -18,7 +14,7 @@
 
 ### Solution to Exercise 1
 
-Using the equalities in each problem, write the expressions by **Basic Knowledge**.
+Using the equalities in each problem, write the expressions by Inverse Proportional Function.
 
 (1) Since volume equals filling rate times time, $vt=2000$, hence $t=\frac{2000}{v}$.
 
@@ -32,7 +28,7 @@ Using the equalities in each problem, write the expressions by **Basic Knowledge
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge**, let $y=\frac kx$. Substituting $x=-2$, $y=4$ gives $4=\frac{k}{-2}$, solving $k=-8$. Hence
+By Inverse Proportional Function, let $y=\frac kx$. Substituting $x=-2$, $y=4$ gives $4=\frac{k}{-2}$, solving $k=-8$. Hence
 
 $$
 y=\frac{-8}{x},

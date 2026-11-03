@@ -1,13 +1,6 @@
 # week174
 
-> **Basic Knowledge: Front View, Top View, Left View**
-> 
-> The view obtained in the front plane by observing from front to back is called the front view; the view obtained in the horizontal plane by observing from top to bottom is called the top view; the view obtained in the side plane by observing from left to right is called the left view.
-> **Basic Knowledge: Projection Rules for the Three Views**
-> 
-> Length aligned, height level, width equal. Visible outlines are drawn as solid lines, and invisible outlines as dashed lines.
 ---
-
 
 ### Activity 1
 
@@ -15,7 +8,7 @@
 
 ### Solution to Activity 1
 
-By **Basic Knowledge** and **Basic Knowledge**, observe the object from the three directions of the front, the top, and the left, and draw the front view, top view, and left view, taking care that the three views are length-aligned, height-level, and width-equal. If a classmate cannot state the object's shape from the views, it means the views are not expressed clearly enough and the drawing needs improvement. $\blacksquare$
+By Basic Knowledge and Basic Knowledge, observe the object from the three directions of the front, the top, and the left, and draw the front view, top view, and left view, taking care that the three views are length-aligned, height-level, and width-equal. If a classmate cannot state the object's shape from the views, it means the views are not expressed clearly enough and the drawing needs improvement. $\blacksquare$
 
 ### Activity 2
 
@@ -29,7 +22,7 @@ By **Basic Knowledge** and **Basic Knowledge**, observe the object from the thre
 
 ### Solution to Activity 2
 
-By **Basic Knowledge**, imagine the solid shape from the three views: the front view determines the front, the top view determines the top layout, and the left view determines the side. If the model is not consistent with the designer's idea, it means some shape information in the three views is not sufficiently expressed and needs to be completed by adding dashed lines or explanations. $\blacksquare$
+By Basic Knowledge, imagine the solid shape from the three views: the front view determines the front, the top view determines the top layout, and the left view determines the side. If the model is not consistent with the designer's idea, it means some shape information in the three views is not sufficiently expressed and needs to be completed by adding dashed lines or explanations. $\blacksquare$
 
 ### Activity 3
 

@@ -1,19 +1,6 @@
 # week94
 
-> **Basic Knowledge: Quadratic Radical**
-> 
-> An expression of the form \(\sqrt{a}\) (\(a\ge 0\)) is called a quadratic radical.
-> **Basic Knowledge: Nonnegativity of the Quadratic Radical**
-> 
-> When \(a\ge 0\), \(\sqrt{a}\ge 0\).
-> **Basic Knowledge: Squaring and Taking the Square Root Are Inverse I**
-> 
-> \((\sqrt{a})^{2}=a\) (\(a\ge 0\)).
-> **Basic Knowledge: Squaring and Taking the Square Root Are Inverse II**
-> 
-> \(\sqrt{a^{2}}=|a|\); when \(a\ge 0\), \(\sqrt{a^{2}}=a\), and when \(a< 0\), \(\sqrt{a^{2}}=-a\).
 ---
-
 
 ## Exercise 1
 
@@ -23,13 +10,13 @@ To draw a rectangle with area \(18\ \text{cm}^{2}\) such that the ratio of its l
 
 Let the length of the rectangle be \(3k\) and the width be \(2k\) (\(k> 0\)).
 
-By **Basic Knowledge**, the area of a rectangle is length times width, so
+By Basic Knowledge, the area of a rectangle is length times width, so
 
 $$
 3k\cdot 2k=18,\quad 6k^{2}=18,\quad k^{2}=3.
 $$
 
-By **Basic Knowledge**, the positive number \(k\) satisfies \(k=\sqrt{3}\).
+By Basic Knowledge, the positive number \(k\) satisfies \(k=\sqrt{3}\).
 
 Therefore the length is \(3\sqrt{3}\ \text{cm}\) and the width is \(2\sqrt{3}\ \text{cm}\).
 
@@ -41,7 +28,7 @@ Under what conditions on \(a\) are the following expressions meaningful within t
 
 (1) \(\sqrt{a-1}\);　(2) \(\sqrt{5-a}\);　(3) \(\sqrt{2a^{2}+1}\).
 
-By **Basic Knowledge**, a quadratic radical is meaningful if and only if the radicand is nonnegative.
+By Basic Knowledge, a quadratic radical is meaningful if and only if the radicand is nonnegative.
 
 (1) Setting \(a-1\ge 0\), we get \(a\ge 1\).
 
@@ -55,7 +42,7 @@ By **Basic Knowledge**, a quadratic radical is meaningful if and only if the rad
 
 When \(a=5\), the value of \(\sqrt{\frac{a-1}{2}}\) is \;_\_\;.
 
-Substituting \(a=5\) into the radicand, by **Basic Knowledge**, the radicand
+Substituting \(a=5\) into the radicand, by Basic Knowledge, the radicand
 
 $$
 \frac{a-1}{2}=\frac{5-1}{2}=2\ge 0
@@ -75,9 +62,9 @@ Calculate:
 
 (1) \((\sqrt{3})^{2}\);　(2) \((3\sqrt{2})^{2}\).
 
-(1) By **Basic Knowledge**, \((\sqrt{3})^{2}=3\).
+(1) By Basic Knowledge, \((\sqrt{3})^{2}=3\).
 
-(2) By **Basic Knowledge** and the power of a product,
+(2) By Basic Knowledge and the power of a product,
 
 $$
 \left(3\sqrt{2}\right)^{2}=3^{2}\cdot\left(\sqrt{2}\right)^{2}=9\times 2=18.
@@ -91,7 +78,7 @@ Simplify:
 
 (1) \(\sqrt{0.3^{2}}\);　(2) \(\sqrt{(-17)^{2}}\);　(3) \(-\sqrt{(-\pi)^{2}}\);　(4) \(\sqrt{10^{-2}}\).
 
-By **Basic Knowledge**, \(\sqrt{a^{2}}=|a|\).
+By Basic Knowledge, \(\sqrt{a^{2}}=|a|\).
 
 (1) \(\sqrt{0.3^{2}}=|0.3|=0.3\).
 
@@ -111,7 +98,7 @@ Under what conditions on \(a\) are the following expressions meaningful within t
 
 (1) \(\sqrt{a+2}\);　(2) \(\sqrt{3-a}\);　(3) \(\sqrt{5a^{2}}\);　(4) \(\sqrt{2a+1}\).
 
-By **Basic Knowledge**, set each radicand to be nonnegative.
+By Basic Knowledge, set each radicand to be nonnegative.
 
 (1) \(a+2\ge 0\), giving \(a\ge -2\).
 
@@ -129,7 +116,7 @@ Calculate:
 
 (1) \((\sqrt{5})^{2}\);　(2) \((-\sqrt{0.2})^{2}\);　(3) \(\left(\sqrt{\frac{3}{5}}\right)^{2}\);　(4) \((5\sqrt{5})^{2}\);　(5) \(\left(-7\sqrt{\frac{2}{7}}\right)^{2}\);　(6) \(\sqrt{(-10)^{2}}\);　(7) \(\sqrt{\left(-\frac{2}{3}\right)^{2}}\);　(8) \(-\sqrt{\left(-\frac{2}{5}\right)^{2}}\).
 
-Compute using **Basic Knowledge** and **Basic Knowledge**.
+Compute using Basic Knowledge and Basic Knowledge.
 
 (1) \((\sqrt{5})^{2}=5\).
 
@@ -159,11 +146,11 @@ Express using algebraic expressions:
 
 (1) Let the circle's radius be \(r\). From the circle area formula \(S=\pi r^{2}\), we get \(r^{2}=\frac{S}{\pi}\).
 
-By **Basic Knowledge**, the positive number \(r=\sqrt{\frac{S}{\pi}}\).
+By Basic Knowledge, the positive number \(r=\sqrt{\frac{S}{\pi}}\).
 
 (2) Let the two adjacent side lengths be \(k\) and \(2k\) (\(k> 0\)). From the rectangle area \(S=k\cdot 2k=2k^{2}\), we get \(k^{2}=\frac{S}{2}\).
 
-By **Basic Knowledge**, \(k=\sqrt{\frac{S}{2}}\), so the two adjacent side lengths are \(\sqrt{\frac{S}{2}}\) and \(2\sqrt{\frac{S}{2}}\).
+By Basic Knowledge, \(k=\sqrt{\frac{S}{2}}\), so the two adjacent side lengths are \(\sqrt{\frac{S}{2}}\) and \(2\sqrt{\frac{S}{2}}\).
 
 \(\blacksquare\)
 
@@ -173,7 +160,7 @@ Using \(a=(\sqrt{a})^{2}\) (\(a\ge 0\)), write each of the following nonnegative
 
 (1) \(5\);　(2) \(2.5\);　(3) \(\frac{1}{2}\);　(4) \(0\).
 
-By **Basic Knowledge**, every nonnegative number equals the square of its principal square root.
+By Basic Knowledge, every nonnegative number equals the square of its principal square root.
 
 (1) \(5=(\sqrt{5})^{2}\).
 
@@ -199,7 +186,7 @@ $$
 \pi r^{2}=\pi\cdot 2^{2}+\pi\cdot 3^{2}=13\pi.
 $$
 
-Hence \(r^{2}=13\). By **Basic Knowledge**, the positive number \(r=\sqrt{13}\).
+Hence \(r^{2}=13\). By Basic Knowledge, the positive number \(r=\sqrt{13}\).
 
 \(\blacksquare\)
 
@@ -215,7 +202,7 @@ $$
 \frac{1}{2}\cdot x\cdot 4x=12,\quad 2x^{2}=12,\quad x^{2}=6.
 $$
 
-By **Basic Knowledge**, the positive number \(x=\sqrt{6}\), i.e. \(AB=\sqrt{6}\).
+By Basic Knowledge, the positive number \(x=\sqrt{6}\), i.e. \(AB=\sqrt{6}\).
 
 \(\blacksquare\)
 
@@ -225,7 +212,7 @@ Under what conditions on \(x\) are the following expressions meaningful within t
 
 (1) \(\sqrt{x^{2}+1}\);　(2) \(\sqrt{(x-1)^{2}}\);　(3) \(\sqrt{\frac{1}{x}}\);　(4) \(\frac{1}{\sqrt{x+1}}\).
 
-By **Basic Knowledge**, the radicand of a quadratic radical must be nonnegative; the denominator must also be nonzero.
+By Basic Knowledge, the radicand of a quadratic radical must be nonnegative; the denominator must also be nonzero.
 
 (1) Since \(x^{2}\ge 0\), \(x^{2}+1> 0\) always holds, and \(x\) may be any real number.
 
@@ -245,7 +232,7 @@ Since \(h\) is directly proportional to \(t^{2}\), set \(h=kt^{2}\).
 
 Substituting \(h=20\) and \(t=2\), we get \(20=k\cdot 4\), hence \(k=5\), i.e. \(h=5t^{2}\).
 
-Hence \(t^{2}=\frac{h}{5}\). By **Basic Knowledge**, time is nonnegative, so
+Hence \(t^{2}=\frac{h}{5}\). By Basic Knowledge, time is nonnegative, so
 
 $$
 t=\sqrt{\frac{h}{5}}.
@@ -265,11 +252,11 @@ When \(h=25\), \(t=\sqrt{\frac{25}{5}}=\sqrt{5}\ \text{s}\).
 
 (2) Given that \(\sqrt{24n}\) is an integer, find the minimum value of the positive integer \(n\).
 
-(1) By **Basic Knowledge**, we require \(18-n\ge 0\), i.e. \(n\le 18\). Let \(\sqrt{18-n}=m\) be an integer; then \(18-n=m^{2}\ge 0\).
+(1) By Basic Knowledge, we require \(18-n\ge 0\), i.e. \(n\le 18\). Let \(\sqrt{18-n}=m\) be an integer; then \(18-n=m^{2}\ge 0\).
 
 Hence \(m^{2}\) can be \(0,1,4,9,16\), with corresponding \(n=18,17,14,9,2\).
 
-(2) By **Basic Knowledge**, we require \(24n\ge 0\). Let \(\sqrt{24n}=k\) be an integer; then \(24n=k^{2}\).
+(2) By Basic Knowledge, we require \(24n\ge 0\). Let \(\sqrt{24n}=k\) be an integer; then \(24n=k^{2}\).
 
 Factor \(24\) into primes: \(24=2^{3}\cdot 3\). For \(24n\) to be a perfect square, the exponent of each prime factor must be even, so \(n\) must supply at least one \(2\) and one \(3\), i.e. \(n=2\times 3=6\).
 
@@ -283,7 +270,7 @@ A cylinder has height \(10\) and volume \(V\). Find its base radius \(r\) (expre
 
 From the cylinder volume formula \(V=\pi r^{2}\cdot 10\), we get \(r^{2}=\frac{V}{10\pi}\).
 
-By **Basic Knowledge**, the positive number \(r=\sqrt{\frac{V}{10\pi}}\).
+By Basic Knowledge, the positive number \(r=\sqrt{\frac{V}{10\pi}}\).
 
 When \(V=10\pi\), \(r=\sqrt{\frac{10\pi}{10\pi}}=\sqrt{1}=1\).
 

@@ -1,20 +1,6 @@
 # week169
 
-> **Basic Knowledge: Solving a Right Triangle**
-> 
-> The process of finding the remaining unknown elements from the known elements of a right triangle is called solving a right triangle.
-> **Basic Knowledge: Relationships Among the Elements of a Right Triangle**
-> 
-> $a^{2}+b^{2}=c^{2}$; $\angle A+\angle B=90^{\circ}$; $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$, $\tan A=\frac{a}{b}$.
-> **Basic Knowledge: Angle of Elevation and Angle of Depression**
-> 
-> The angle above the horizontal line along the line of sight is called the angle of elevation, and the angle below the horizontal line is called the angle of depression.
-> **Basic Knowledge: Tangent**
-> 
-> In a right triangle, tan A = opposite/adjacent.
-
 ---
-
 
 ### Activity 1
 
@@ -34,7 +20,7 @@
 
 The clinometer uses a plumb line to indicate the vertical direction; when the protractor's diameter is aimed at the top of the tree, the reading pointed to by the plumb line is the angle of elevation $\alpha$.
 
-Let the horizontal distance from the observer to the base of the tree be $d$, and the height of the clinometer (line of sight) above the ground be $h_{0}$. The part of the tree above the line of sight is $h'$; in the right triangle, by **Basic Knowledge: Tangent**, $\tan\alpha=\frac{h'}{d}$, so $h'=d\tan\alpha$.
+Let the horizontal distance from the observer to the base of the tree be $d$, and the height of the clinometer (line of sight) above the ground be $h_{0}$. The part of the tree above the line of sight is $h'$; in the right triangle, by Tangent, $\tan\alpha=\frac{h'}{d}$, so $h'=d\tan\alpha$.
 
 The total height of the tree is
 

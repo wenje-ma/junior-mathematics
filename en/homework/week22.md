@@ -1,17 +1,5 @@
 # week22
 
-> **Basic Knowledge: Linear Equation in One Variable**
-> 
-> An equation that contains only one unknown, and the degree of the unknown is $1$, is called a linear equation in one variable.
-
-> **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**
-> 
-> Clear the denominators, remove the parentheses, transpose terms, combine like terms, and make the coefficient $1$.
-
-> **Basic Knowledge: Steps for Solving Word Problems by Setting Up Equations**
-> 
-> Let an unknown, set up the equation, solve the equation, check, and give the answer.
-
 ---
 
 ## Activity 1
@@ -20,10 +8,9 @@
 
 ### Solution to Activity 1
 
-By **Basic Knowledge: Steps for Solving Word Problems by Setting Up Equations**, let the basic water price be $x$ yuan per cubic meter.
+By Steps for Solving Word Problems by Setting Up Equations, let the basic water price be $x$ yuan per cubic meter.
 
 The usage $20\ \text{m}^{3}$ does not exceed $22\ \text{m}^{3}$, so all is charged at the basic price: $20x=46$. Giving $x=2.3$. Hence the basic water price is $2.3$ yuan per cubic meter. $\blacksquare$
-
 
 ---
 
@@ -33,14 +20,13 @@ The usage $20\ \text{m}^{3}$ does not exceed $22\ \text{m}^{3}$, so all is charg
 
 ### Solution to Activity 2
 
-By **Basic Knowledge: Steps for Solving Word Problems by Setting Up Equations**, let the basic water price be $x$ yuan per cubic meter.
+By Steps for Solving Word Problems by Setting Up Equations, let the basic water price be $x$ yuan per cubic meter.
 
 The usage $28\ \text{m}^{3}$ exceeds $22\ \text{m}^{3}$, of which $22\ \text{m}^{3}$ is at $x$ yuan and the excess $6\ \text{m}^{3}$ is at $1.5x$ yuan:
 
 $$22x+6\times1.5x=72.4.$$
 
 Simplifying: $22x+9x=72.4$, $31x=72.4$, giving $x=2.335\approx2.34$. The basic price is about $2.34$ yuan/$\text{m}^{3}$, and the excess is $1.5\times2.34=3.51$ yuan/$\text{m}^{3}$. $\blacksquare$
-
 
 ---
 
@@ -50,14 +36,13 @@ Simplifying: $22x+9x=72.4$, $31x=72.4$, giving $x=2.335\approx2.34$. The basic p
 
 ### Solution to Activity 3
 
-By **Basic Knowledge: Steps for Solving Word Problems by Setting Up Equations**, let the usage be $x\ \text{m}^{3}$.
+By Steps for Solving Word Problems by Setting Up Equations, let the usage be $x\ \text{m}^{3}$.
 
 From Activity 1, the basic price is $2.3$ yuan/$\text{m}^{3}$, and the excess is $1.5\times2.3=3.45$ yuan/$\text{m}^{3}$. Since $86.4> 22\times2.3=50.6$, the usage exceeds $22\ \text{m}^{3}$:
 
 $$22\times2.3+\left(x-22\right)\times3.45=86.4.$$
 
 Simplifying: $50.6+3.45\left(x-22\right)=86.4$. $3.45\left(x-22\right)=35.8$. $x-22=10.38$. Giving $x\approx32.38\ \text{m}^{3}$. $\blacksquare$
-
 
 ---
 
@@ -67,7 +52,7 @@ Simplifying: $50.6+3.45\left(x-22\right)=86.4$. $3.45\left(x-22\right)=35.8$. $x
 
 ### Solution to Activity 4
 
-By **Basic Knowledge: Steps for Solving Word Problems by Setting Up Equations**, by the lever balance principle: left-end mass $\times$ left lever arm $=$ right-end mass $\times$ right lever arm.
+By Steps for Solving Word Problems by Setting Up Equations, by the lever balance principle: left-end mass $\times$ left lever arm $=$ right-end mass $\times$ right lever arm.
 
 When the left and right lever arms are equal (fulcrum at the midpoint), $x\times L=3\times L$, giving $x=3\ \text{kg}$.
 

@@ -1,13 +1,6 @@
 # week140
 
-> **Basic Knowledge: Inverse Proportional Function**
-> 
-> A function of the form $y=\frac kx$ ($k$ is a constant, $k\ne0$) is called an inverse proportional function, with independent variable $x\ne0$.
-> **Basic Knowledge: Graph and Properties of Inverse Proportional Function**
-> 
-> The graph of $y=\frac kx$ is a hyperbola consisting of two branches. When $k> 0$, the two branches lie in the first and third quadrants respectively, and within each quadrant $y$ decreases as $x$ increases; when $k< 0$, the two branches lie in the second and fourth quadrants respectively, and within each quadrant $y$ increases as $x$ increases.
 ---
-
 
 ## Exercise 1
 
@@ -27,7 +20,7 @@ The curve in the figure is a hyperbola lying in the first and third quadrants, s
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge**, when the graph lies in the second and fourth quadrants, $k< 0$, and within each quadrant $y$ increases as $x$ increases. Hence fill in $< $ and increasing respectively. $\blacksquare$
+By Basic Knowledge, when the graph lies in the second and fourth quadrants, $k< 0$, and within each quadrant $y$ increases as $x$ increases. Hence fill in $< $ and increasing respectively. $\blacksquare$
 
 ## Exercise 3
 
@@ -41,7 +34,7 @@ By **Basic Knowledge**, when the graph lies in the second and fourth quadrants, 
 
 Let $y=\frac kx$; substituting $A\left(2,6\right)$ gives $k=2\times6=12$.
 
-(1) $k=12> 0$; by **Basic Knowledge**, the graph lies in the first and third quadrants, and within each quadrant $y$ decreases as $x$ increases.
+(1) $k=12> 0$; by Basic Knowledge, the graph lies in the first and third quadrants, and within each quadrant $y$ decreases as $x$ increases.
 
 (2) Check whether the product of each point's coordinates equals $k=12$. $B\left(3,4\right)$: $3\times4=12$, on the graph; $C\left(\frac52,-\frac{16}5\right)$: $\frac52\times\left(-\frac{16}5\right)=-8\ne12$, not on the graph; $D\left(2,-6\right)$: $2\times\left(-6\right)=-12\ne12$, not on the graph. $\blacksquare$
 
@@ -51,7 +44,7 @@ Let $y=\frac kx$; substituting $A\left(2,6\right)$ gives $k=2\times6=12$.
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge**, one branch in the second quadrant means $k=m+2< 0$, so the other branch must lie in the fourth quadrant, and $m+2< 0$, i.e. $m< -2$. $\blacksquare$
+By Basic Knowledge, one branch in the second quadrant means $k=m+2< 0$, so the other branch must lie in the fourth quadrant, and $m+2< 0$, i.e. $m< -2$. $\blacksquare$
 
 ## Exercise 5
 
@@ -59,7 +52,7 @@ By **Basic Knowledge**, one branch in the second quadrant means $k=m+2< 0$, so t
 
 ### Solution to Exercise 5
 
-$k=-2< 0$; by **Basic Knowledge**, within each quadrant $y$ increases as $x$ increases. Here $x_1=1< x_2=2$, and both points lie in the fourth quadrant, hence $y_1< y_2$. Direct computation: $y_1=-2$, $y_2=-1$, also giving $y_1< y_2$. $\blacksquare$
+$k=-2< 0$; by Basic Knowledge, within each quadrant $y$ increases as $x$ increases. Here $x_1=1< x_2=2$, and both points lie in the fourth quadrant, hence $y_1< y_2$. Direct computation: $y_1=-2$, $y_2=-1$, also giving $y_1< y_2$. $\blacksquare$
 
 ## Problem 1
 
@@ -67,7 +60,7 @@ $k=-2< 0$; by **Basic Knowledge**, within each quadrant $y$ increases as $x$ inc
 
 ### Solution to Problem 1
 
-$k=-2< 0$; by **Basic Knowledge**, the graph is a hyperbola lying in the second and fourth quadrants. $\blacksquare$
+$k=-2< 0$; by Basic Knowledge, the graph is a hyperbola lying in the second and fourth quadrants. $\blacksquare$
 
 ## Problem 2
 
@@ -81,7 +74,7 @@ $k=-2< 0$; by **Basic Knowledge**, the graph is a hyperbola lying in the second 
 
 ### Solution to Problem 2
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) First and third quadrants correspond to $k> 0$, with $y$ decreasing as $x$ increases.
 
@@ -111,7 +104,7 @@ Substituting $\left(-2,-4\right)$ gives $k=\left(-2\right)\times\left(-4\right)=
 
 (1) When $x> 0$, $y> 0$; setting $\frac8x< 4$ gives $x> 2$. When $x< 0$, $y< 0< 4$, which always holds. Hence $x< 0$ or $x> 2$.
 
-(2) By **Basic Knowledge**, $k=8> 0$, and within each quadrant $y$ decreases as $x$ increases. $A,B$ both lie in the third quadrant, with $-3> -5$, hence $y_1< y_2< 0$. $C$ lies in the first quadrant, with $y_3> 0$. Altogether, $y_1< y_2< y_3$. $\blacksquare$
+(2) By Basic Knowledge, $k=8> 0$, and within each quadrant $y$ decreases as $x$ increases. $A,B$ both lie in the third quadrant, with $-3> -5$, hence $y_1< y_2< 0$. $C$ lies in the first quadrant, with $y_3> 0$. Altogether, $y_1< y_2< y_3$. $\blacksquare$
 
 ## Problem 5
 
@@ -147,6 +140,6 @@ When $k> 0$, the graph of $y=kx$ is a line through the origin in the first and t
 
 ### Solution to Problem 7
 
-(1) One branch in the first quadrant; by **Basic Knowledge**, $k=a-1> 0$, so the other branch lies in the third quadrant, and $a> 1$.
+(1) One branch in the first quadrant; by Basic Knowledge, $k=a-1> 0$, so the other branch lies in the third quadrant, and $a> 1$.
 
 (2) $k> 0$; within each quadrant $y$ decreases as $x$ increases. If $A,B$ lie on the same branch and $y_1> y_2$, then $x_1< x_2$. $\blacksquare$

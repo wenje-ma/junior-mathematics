@@ -1,28 +1,6 @@
 # week76
 
-> **Basic Knowledge: Properties of Axial Symmetry**
-> 
-> Two figures that are axially symmetric are congruent; the axis of symmetry perpendicularly bisects the segment joining the symmetric points.
-> **Basic Knowledge: Properties of the Perpendicular Bisector**
-> 
-> A point on the perpendicular bisector of a segment is equidistant from its two endpoints.
-> **Basic Knowledge: Criterion for the Perpendicular Bisector**
-> 
-> A point equidistant from the two endpoints of a segment lies on the perpendicular bisector of that segment.
-> **Basic Knowledge: Equal Sides Opposite Equal Angles**
-> 
-> The two base angles of an isosceles triangle are equal.
-> **Basic Knowledge: Three Lines Coincide**
-> 
-> The median to the base, the altitude to the base, and the bisector of the vertex angle of an isosceles triangle coincide.
-> **Basic Knowledge: Equal Angles Opposite Equal Sides**
-> 
-> A triangle with two equal angles is isosceles.
-> **Basic Knowledge: Right Triangle with a $30^\circ$ Angle**
-> 
-> The leg opposite the $30^\circ$ acute angle equals half of the hypotenuse.
 ---
-
 
 ## Review Problem 1
 
@@ -60,9 +38,9 @@ By the definition of an axially symmetric figure, if one can find a line such th
 
 ### Solution to Review Problem 3
 
-Since $D$ is the midpoint of $AB$ and $CD\perp AB$, the line $CD$ perpendicularly bisects $AB$. Point $C$ lies on $CD$, so by **Basic Knowledge: Properties of the Perpendicular Bisector**, $CA=CB$.
+Since $D$ is the midpoint of $AB$ and $CD\perp AB$, the line $CD$ perpendicularly bisects $AB$. Point $C$ lies on $CD$, so by Properties of the Perpendicular Bisector, $CA=CB$.
 
-Similarly, the line $BE$ perpendicularly bisects $AC$, and point $B$ lies on $BE$, so by **Basic Knowledge**, $BA=BC$.
+Similarly, the line $BE$ perpendicularly bisects $AC$, and point $B$ lies on $BE$, so by Basic Knowledge, $BA=BC$.
 
 Hence $AC=AB$. $\blacksquare$
 
@@ -100,7 +78,7 @@ $\blacksquare$
 
 In $\triangle ABD$ and $\triangle BAC$, $AD=BC$, $BD=AC$, and $AB=BA$; by SSS, $\triangle ABD\cong\triangle BAC$.
 
-By the equal corresponding angles of congruent triangles, $\angle DBA=\angle CAB$. That is, in $\triangle EAB$, $\angle EAB=\angle EBA$; by **Basic Knowledge: Equal Angles Opposite Equal Sides**, $EA=EB$, so $\triangle EAB$ is isosceles. $\blacksquare$
+By the equal corresponding angles of congruent triangles, $\angle DBA=\angle CAB$. That is, in $\triangle EAB$, $\angle EAB=\angle EBA$; by Equal Angles Opposite Equal Sides, $EA=EB$, so $\triangle EAB$ is isosceles. $\blacksquare$
 
 ## Review Problem 7
 
@@ -108,9 +86,9 @@ By the equal corresponding angles of congruent triangles, $\angle DBA=\angle CAB
 
 ### Solution to Review Problem 7
 
-In $\text{Rt}\triangle ABC$, $\angle A=30^\circ$; by **Basic Knowledge**, the opposite side is $BC=\frac{1}{2}AB$.
+In $\text{Rt}\triangle ABC$, $\angle A=30^\circ$; by Basic Knowledge, the opposite side is $BC=\frac{1}{2}AB$.
 
-Since $CD$ is the altitude, in $\text{Rt}\triangle BCD$, $\angle BCD=90^\circ-\angle B=\angle A=30^\circ$. By **Basic Knowledge**, the leg opposite the $30^\circ$ angle $\angle BCD$ is $BD=\frac{1}{2}BC=\frac{1}{2}\cdot\frac{1}{2}AB=\frac{1}{4}AB$. $\blacksquare$
+Since $CD$ is the altitude, in $\text{Rt}\triangle BCD$, $\angle BCD=90^\circ-\angle B=\angle A=30^\circ$. By Basic Knowledge, the leg opposite the $30^\circ$ angle $\angle BCD$ is $BD=\frac{1}{2}BC=\frac{1}{2}\cdot\frac{1}{2}AB=\frac{1}{4}AB$. $\blacksquare$
 
 ## Review Problem 8
 
@@ -160,11 +138,11 @@ Therefore $\triangle DEF$ is equilateral. $\blacksquare$
 
 ### Solution to Review Problem 12
 
-Since $\triangle ABC$ is equilateral and $BD$ is a median, by **Basic Knowledge: Three Lines Coincide**, $BD$ bisects $\angle ABC$, hence $\angle DBC=30^\circ$.
+Since $\triangle ABC$ is equilateral and $BD$ is a median, by Three Lines Coincide, $BD$ bisects $\angle ABC$, hence $\angle DBC=30^\circ$.
 
 Since $CE=CD$, $\triangle CDE$ is isosceles, so $\angle E=\angle CDE$. Moreover, $\angle ACB=60^\circ=\angle E+\angle CDE=2\angle E$, hence $\angle E=30^\circ$.
 
-Thus $\angle DBC=\angle E=30^\circ$, and by **Basic Knowledge: Equal Angles Opposite Equal Sides**, $DB=DE$. $\blacksquare$
+Thus $\angle DBC=\angle E=30^\circ$, and by Equal Angles Opposite Equal Sides, $DB=DE$. $\blacksquare$
 
 ## Review Problem 13
 

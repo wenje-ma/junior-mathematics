@@ -1,13 +1,5 @@
 # week48
 
-> **Basic Knowledge: System of Linear Equations in Three Variables**
-> 
-> A system that contains three unknowns, the expressions containing the unknowns are all integral expressions, the degree of each term containing an unknown is $1$, and there are three equations in total.
-
-
-> **Basic Knowledge: Solving a System of Linear Equations in Three Variables**
-> 
-> Use substitution or elimination to reduce a system of three equations with three unknowns step by step to one equation in one unknown.
 ---
 
 ## Exercise 1
@@ -24,7 +16,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Solving a System of Linear Equations in Three Variables**, first eliminate variables to reduce to a two-variable system.
+By Solving a System of Linear Equations in Three Variables, first eliminate variables to reduce to a two-variable system.
 
 (1) From $y=z+3$, $x=2y-9=2z-3$; substitute into the third equation: $2z+2z-3=47$, giving $z=12.5$, $y=15.5$, $x=22$.
 
@@ -33,7 +25,6 @@ By **Basic Knowledge: Solving a System of Linear Equations in Three Variables**,
 (3) Add the three equations: $2\left(x+y+z\right)=12$, i.e. $x+y+z=6$; subtract the original equations respectively to get $z=3$, $x=2$, $y=1$.
 
 (4) Add the first and second equations: $5x+2y=16$; add the second and third: $3x+4y=18$. Multiply the first by $2$ and subtract the second: $7x=14$, $x=2$, $y=3$, $z=6-2-3=1$. $\blacksquare$
-
 
 ---
 
@@ -55,7 +46,6 @@ $$
 
 From $y=2x-5$, $z=\frac{2y}{3}=\frac{2\left(2x-5\right)}{3}$; substitute into the first equation and multiply by $3$: $3x+3\left(2x-5\right)+2\left(2x-5\right)=105$, giving $x=10$, $y=15$, $z=10$. Thus A is $10$, B is $15$, C is $10$. $\blacksquare$
 
-
 ---
 
 ## Exercise 3
@@ -76,7 +66,6 @@ $$
 
 Subtract the second from the first: $-a+b=3$; subtract the third from the second: $3a+2b=1$. From $b=a+3$, substitute: $3a+2\left(a+3\right)=1$, giving $a=-1$, $b=2$; substituting back into the third equation $1-2+c=4$, $c=5$. Thus $a=-1$, $b=2$, $c=5$. $\blacksquare$
 
-
 ---
 
 ## Problem 1
@@ -92,7 +81,6 @@ Subtract the second from the first: $-a+b=3$; subtract the third from the second
 (1) Substitute $y=2x-7$: $5x+3\left(2x-7\right)+2z=2$, i.e. $11x+2z=23$. Together with the third equation $3x-4z=4$, multiply the first by $2$ and add the second: $25x=50$, $x=2$, $y=-3$, $z=0.5$.
 
 (2) From the second equation $y=\frac{1+2z}{3}$; substitute into the first: $4x+6z=9$. Together with the third equation $7x+5z=\frac{19}{4}$, multiply the first by $5$ and the second by $6$ and subtract: $-22x=\frac{33}{2}$, $x=-\frac{3}{4}$; substituting back $-3+6z=9$, $z=2$, $y=\frac{5}{3}$. $\blacksquare$
-
 
 ---
 
@@ -110,7 +98,6 @@ Subtract the second from the first: $-a+b=3$; subtract the third from the second
 
 (2) Multiply the second equation by $3$ and subtract the third: $4x+8z=20$, i.e. $x+2z=5$. Multiply the second by $2$ and add the first: $8x+13z=31$. From $x=5-2z$, substitute: $8\left(5-2z\right)+13z=31$, giving $z=3$, $x=-1$; substituting back into the second equation $-3-2y+15=11$, $y=\frac{1}{2}$. $\blacksquare$
 
-
 ---
 
 ## Problem 3
@@ -123,7 +110,6 @@ Substituting gives $a+b+c=-2$, $a-b+c=20$; subtracting the two equations: $2b=-2
 
 Since $y$ is equal at $x=\frac{3}{2}$ and $x=\frac{1}{3}$, the axis of symmetry of the parabola is $x=\frac{1}{2}\left(\frac{3}{2}+\frac{1}{3}\right)=\frac{11}{12}$, i.e. $-\frac{b}{2a}=\frac{11}{12}$, giving $a=6$. Substituting back $6-11+c=-2$, $c=3$. Thus $a=6$, $b=-11$, $c=3$. $\blacksquare$
 
-
 ---
 
 ## Problem 4
@@ -135,7 +121,6 @@ Since $y$ is equal at $x=\frac{3}{2}$ and $x=\frac{1}{3}$, the axis of symmetry 
 Let the hundreds, tens, and units digits be $x$, $y$, $z$ respectively. According to the problem $y=2x$, $3x-z=\frac{y}{4}=\frac{x}{2}$, $x+y+z=11$.
 
 From the second equation $z=3x-\frac{x}{2}=\frac{5}{2}x$; substitute into the third: $x+2x+\frac{5}{2}x=11$, giving $x=2$, $y=4$, $z=5$. Thus this three-digit number is $245$. $\blacksquare$
-
 
 ---
 
@@ -165,7 +150,7 @@ From $x=z-0.3$, $y=3.6-2z$, substitute: $\left(2z-0.3\right)\frac{8}{15}+\frac{3
 
 ### Solution to Illustrated History of Mathematics 1
 
-By **Basic Knowledge: Solving a System of Linear Equations in Three Variables**. Subtract the second from the first: $x-y=5$.
+By Solving a System of Linear Equations in Three Variables. Subtract the second from the first: $x-y=5$.
 
 Multiply the second equation by $3$ and subtract the first and third: $3\left(2x+3y+z\right)-\left(3x+2y+z\right)-\left(x+2y+3z\right)=3\times34-39-26=37$, giving $2x+5y-2z=37$. Switching the elimination: the approach of subtracting $3$ times the third equation from the first is more cumbersome, so substitute directly: from $x=y+5$, substitute into the first equation: $3\left(y+5\right)+2y+z=39$, i.e. $5y+z=24$. Substitute into the third: $\left(y+5\right)+2y+3z=26$, i.e. $3y+3z=21$, $y+z=7$.
 
@@ -177,7 +162,7 @@ Solving $5y+z=24$, $y+z=7$; subtracting gives $4y=17$, $y=\frac{17}{4}$. Then $z
 
 ### Solution to Reading and Thinking 1
 
-By analogy with **Basic Knowledge: Solving a System of Linear Equations in Three Variables**, substitute equation by equation.
+By analogy with Solving a System of Linear Equations in Three Variables, substitute equation by equation.
 
 From $y=h-2x$. From $z=h-3y=h-3\left(h-2x\right)=6x-2h$. From $u=h-4z=h-4\left(6x-2h\right)=9h-24x$. From $v=h-5u=h-5\left(9h-24x\right)=120x-44h$. Substitute into the last equation: $6v+x=h$, i.e. $6\left(120x-44h\right)+x=h$, giving $721x=265h$, $x=\frac{265}{721}h$.
 

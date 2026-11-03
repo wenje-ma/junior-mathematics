@@ -1,22 +1,6 @@
 # week128
 
-> **Basic Knowledge: Discriminant**
-> 
-> The expression $b^2-4ac$ can determine the nature of the roots of the quadratic equation $ax^2+bx+c=0$; it is called the discriminant, denoted $\Delta=b^2-4ac$.
-> **Basic Knowledge: Nature of the Roots**
-> 
-> For the equation $ax^2+bx+c=0\ \left(a\ne0\right)$: when $\Delta> 0$, the equation has two unequal real roots; when $\Delta=0$, the equation has two equal real roots; when $\Delta< 0$, the equation has no real root.
-> **Basic Knowledge: Quadratic Formula**
-> 
-> When $\Delta\ge0$, the real roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$; this expression is called the quadratic formula. The method of substituting the coefficients into the quadratic formula to find the roots directly is called the formula method.
-> **Basic Knowledge: Product Is Zero**
-> 
-> If $ab=0$, then $a=0$ or $b=0$; conversely, if $a=0$ or $b=0$, then $ab=0$.
-> **Basic Knowledge: Factoring Method**
-> 
-> First factor the equation so that it becomes the product of two linear expressions equal to $0$, then set each linear expression equal to $0$, thereby reducing the degree; this method of solving a quadratic equation is called the factoring method.
 ---
-
 
 ## Exercise 1
 
@@ -36,7 +20,7 @@
 
 ### Solution to Exercise 1
 
-First put the equation in general form, determine $a,b,c$, use **Basic Knowledge** to compute $\Delta=b^2-4ac$, use **Basic Knowledge** to determine the nature of the roots, then use **Basic Knowledge: Quadratic Formula** to find the roots.
+First put the equation in general form, determine $a,b,c$, use Basic Knowledge to compute $\Delta=b^2-4ac$, use Basic Knowledge to determine the nature of the roots, then use Quadratic Formula to find the roots.
 
 (1) $a=1$, $b=1$, $c=-6$, $\Delta=1^2-4\cdot1\cdot\left(-6\right)=25> 0$, hence
 
@@ -52,7 +36,7 @@ $$
 x=\frac{\sqrt3\pm\sqrt4}{2}=\frac{\sqrt3\pm2}2.
 $$
 
-(3) $a=3$, $b=-6$, $c=4$, $\Delta=\left(-6\right)^2-4\cdot3\cdot4=36-48=-12< 0$. By **Basic Knowledge**, the original equation has no real root.
+(3) $a=3$, $b=-6$, $c=4$, $\Delta=\left(-6\right)^2-4\cdot3\cdot4=36-48=-12< 0$. By Basic Knowledge, the original equation has no real root.
 
 (4) $a=2$, $b=-3$, $c=0$, $\Delta=\left(-3\right)^2-0=9> 0$, hence $x=\frac{3\pm3}{4}$, i.e. $x_1=\frac32$, $x_2=0$.
 
@@ -82,7 +66,7 @@ $$
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Factoring Method**, put one side of the equation as the product of two linear factors and the other side as $0$, then set each factor equal to $0$ by **Basic Knowledge**.
+By Factoring Method, put one side of the equation as the product of two linear factors and the other side as $0$, then set each factor equal to $0$ by Basic Knowledge.
 
 (1) Factoring the left side gives $x\left(x+1\right)=0$, hence $x=0$ or $x+1=0$, i.e. $x_1=0$, $x_2=-1$.
 
@@ -136,7 +120,7 @@ Hence the small field's radius is $10\ \text{m}$. $\blacksquare$
 
 ### Solution to Problem 1
 
-By **Basic Knowledge**, compute $\Delta=b^2-4ac$, then determine the nature of the roots by **Basic Knowledge**.
+By Basic Knowledge, compute $\Delta=b^2-4ac$, then determine the nature of the roots by Basic Knowledge.
 
 (1) $a=2$, $b=-3$, $c=-\frac32$, $\Delta=\left(-3\right)^2-4\cdot2\cdot\left(-\frac32\right)=9+12=21> 0$, so the equation has two unequal real roots.
 
@@ -160,7 +144,7 @@ By **Basic Knowledge**, compute $\Delta=b^2-4ac$, then determine the nature of t
 
 ### Solution to Problem 2
 
-Use **Basic Knowledge** to find $\Delta$, and **Basic Knowledge: Quadratic Formula** to find the roots.
+Use Basic Knowledge to find $\Delta$, and Quadratic Formula to find the roots.
 
 (1) $a=1$, $b=1$, $c=-12$, $\Delta=1+48=49> 0$, hence $x=\frac{-1\pm7}{2}$, i.e. $x_1=3$, $x_2=-4$.
 
@@ -168,7 +152,7 @@ Use **Basic Knowledge** to find $\Delta$, and **Basic Knowledge: Quadratic Formu
 
 (3) Removing parentheses and transposing terms gives $x^2+4x-2=0$. $a=1$, $b=4$, $c=-2$, $\Delta=16+8=24> 0$, hence $x=\frac{-4\pm2\sqrt6}{2}=-2\pm\sqrt6$.
 
-(4) $a=1$, $b=2\sqrt5$, $c=10$, $\Delta=\left(2\sqrt5\right)^2-40=20-40=-20< 0$. By **Basic Knowledge**, the equation has no real root. $\blacksquare$
+(4) $a=1$, $b=2\sqrt5$, $c=10$, $\Delta=\left(2\sqrt5\right)^2-40=20-40=-20< 0$. By Basic Knowledge, the equation has no real root. $\blacksquare$
 
 ## Problem 3
 
@@ -184,7 +168,7 @@ Use **Basic Knowledge** to find $\Delta$, and **Basic Knowledge: Quadratic Formu
 
 ### Solution to Problem 3
 
-Factor by **Basic Knowledge: Factoring Method**, then set each factor equal to $0$ by **Basic Knowledge**.
+Factor by Factoring Method, then set each factor equal to $0$ by Basic Knowledge.
 
 (1) Transposing terms gives $3x^2-12x+12=0$, i.e. $3\left(x-1\right)^2=0$, hence $x_1=x_2=2$.
 

@@ -1,13 +1,5 @@
 # week39
 
-> **Basic Knowledge: Square Root**
-> 
-> If a number $x$ has square equal to $a$, i.e. $x^2=a$, then this number $x$ is called a square root of $a$.
-
-> **Basic Knowledge: Cube Root**
-> 
-> If a number $x$ has cube equal to $a$, i.e. $x^3=a$, then this number $x$ is called a cube root of $a$, denoted $\sqrt\left[3\right]{a}$.
-
 ---
 
 ## Activity 1
@@ -32,7 +24,6 @@ From $2^{-\frac14}\approx 0.8409\,\text{m}=841\,\text{mm}$, $x=\sqrt 2\,y\approx
 
 Thus $A0$ paper has length about $1189\,\text{mm}$ and width about $841\,\text{mm}$. $\blacksquare$
 
-
 ---
 
 ## Activity 2
@@ -47,7 +38,7 @@ Thus $A0$ paper has length about $1189\,\text{mm}$ and width about $841\,\text{m
 
 ### Solution to Activity 2
 
-By **Basic Knowledge: Cube Root**, determine each digit using the pattern of cubes.
+By Cube Root, determine each digit using the pattern of cubes.
 
 (1) $\because 10^3=1000< 59319< 1000000=100^3$, $\therefore 10< \sqrt\left[3\right]{59319}< 100$, i.e. $\sqrt\left[3\right]{59319}$ is a two-digit number.
 

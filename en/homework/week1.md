@@ -1,21 +1,5 @@
 # week1
 
-> **Basic Knowledge: Positive Numbers**
-> 
-> Numbers such as $3$, $50$, $7.8\%$ that are greater than $0$ are called positive numbers.
-
-> **Basic Knowledge: Negative Numbers**
-> 
-> Numbers such as $-3$, $-10$, $-0.7\%$ that are obtained by prefixing a positive number with the sign "$-$" are called negative numbers; here the sign "$-$" is the negative sign, read as "negative".
-
-> **Basic Knowledge: The Status of $0$**
-> 
-> $0$ is neither a positive number nor a negative number.
-
-> **Basic Knowledge: Representing Quantities of Opposite Meaning**
-> 
-> If a problem involves quantities of opposite meaning, they can be represented by positive and negative numbers respectively. Usually the quantity in one direction is denoted by $+$, and the quantity in the opposite direction is denoted by $-$.
-
 ---
 
 ## Exercise 1
@@ -28,13 +12,13 @@ $$
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Positive Numbers** and **Basic Knowledge: Negative Numbers**, numbers greater than $0$ are positive numbers, and numbers obtained by prefixing a positive number with the sign "$-$" are negative numbers.
+By Positive Numbers and Negative Numbers, numbers greater than $0$ are positive numbers, and numbers obtained by prefixing a positive number with the sign "$-$" are negative numbers.
 
 Among the given numbers, $\frac{4}{3}> 0$, $2.5> 0$, $+\frac{1}{4}> 0$, $120> 0$, so $\frac{4}{3}$, $2.5$, $+\frac{1}{4}$, $120$ are positive numbers.
 
 Also, $-1$, $-3.14$, $-\frac{2}{7}$ all have the sign "$-$" prefixed to positive numbers, so $-1$, $-3.14$, $-\frac{2}{7}$ are negative numbers.
 
-By **Basic Knowledge: The Status of $0$**, $0$ is neither a positive number nor a negative number. $\blacksquare$
+By The Status of $0$, $0$ is neither a positive number nor a negative number. $\blacksquare$
 
 ---
 
@@ -44,7 +28,7 @@ By **Basic Knowledge: The Status of $0$**, $0$ is neither a positive number nor 
 
 ### Solution to Exercise 2
 
-Walking to the right and walking to the left are quantities of opposite meaning. By **Basic Knowledge: Representing Quantities of Opposite Meaning**, since walking to the right is represented by a positive number, walking to the left is represented by a negative number; hence walking $60\ \text{m}$ to the left is denoted by $-60\ \text{m}$. $\blacksquare$
+Walking to the right and walking to the left are quantities of opposite meaning. By Representing Quantities of Opposite Meaning, since walking to the right is represented by a positive number, walking to the left is represented by a negative number; hence walking $60\ \text{m}$ to the left is denoted by $-60\ \text{m}$. $\blacksquare$
 
 ---
 
@@ -54,7 +38,7 @@ Walking to the right and walking to the left are quantities of opposite meaning.
 
 ### Solution to Exercise 3
 
-Temperatures above zero and below zero are quantities of opposite meaning. By **Basic Knowledge: Representing Quantities of Opposite Meaning**, since above zero is represented by a positive number, below zero is represented by a negative number; hence $150\,^\circ\text{C}$ below zero is denoted by $-150\,^\circ\text{C}$. $\blacksquare$
+Temperatures above zero and below zero are quantities of opposite meaning. By Representing Quantities of Opposite Meaning, since above zero is represented by a positive number, below zero is represented by a negative number; hence $150\,^\circ\text{C}$ below zero is denoted by $-150\,^\circ\text{C}$. $\blacksquare$
 
 ---
 
@@ -64,7 +48,7 @@ Temperatures above zero and below zero are quantities of opposite meaning. By **
 
 ### Solution to Exercise 4
 
-Scoring a goal and conceding a goal are quantities of opposite meaning. By **Basic Knowledge: Representing Quantities of Opposite Meaning**, since scoring is represented by a positive number, conceding is represented by a negative number; hence conceding $2$ goals is denoted by $-2$. $\blacksquare$
+Scoring a goal and conceding a goal are quantities of opposite meaning. By Representing Quantities of Opposite Meaning, since scoring is represented by a positive number, conceding is represented by a negative number; hence conceding $2$ goals is denoted by $-2$. $\blacksquare$
 
 ---
 
@@ -78,13 +62,13 @@ $$
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Positive Numbers** and **Basic Knowledge: Negative Numbers**, numbers greater than $0$ are positive numbers, and numbers obtained by prefixing a positive number with the sign "$-$" are negative numbers.
+By Positive Numbers and Negative Numbers, numbers greater than $0$ are positive numbers, and numbers obtained by prefixing a positive number with the sign "$-$" are negative numbers.
 
 Among the given numbers, $5> 0$, $0.56> 0$, $\frac{12}{5}> 0$, $+2> 0$, so $5$, $0.56$, $\frac{12}{5}$, $+2$ are positive numbers.
 
 Also, $-\frac{5}{7}$, $-3$, $-25.8$, $-0.0001$, $-600$ all have the sign "$-$" prefixed to positive numbers, so they are negative numbers.
 
-By **Basic Knowledge: The Status of $0$**, $0$ is neither a positive number nor a negative number. $\blacksquare$
+By The Status of $0$, $0$ is neither a positive number nor a negative number. $\blacksquare$
 
 ---
 
@@ -94,7 +78,7 @@ By **Basic Knowledge: The Status of $0$**, $0$ is neither a positive number nor 
 
 ### Solution to Problem 2
 
-Increase and decrease are quantities of opposite meaning. By **Basic Knowledge: Representing Quantities of Opposite Meaning**, since increase is represented by a positive number, decrease is represented by a negative number.
+Increase and decrease are quantities of opposite meaning. By Representing Quantities of Opposite Meaning, since increase is represented by a positive number, decrease is represented by a negative number.
 
 The first year increased by $53.5\ \text{mm}$, denoted by $+53.5\ \text{mm}$; the second year decreased by $81.5\ \text{mm}$, denoted by $-81.5\ \text{mm}$; the third year increased by $108.7\ \text{mm}$, denoted by $+108.7\ \text{mm}$. $\blacksquare$
 
@@ -108,7 +92,7 @@ The first year increased by $53.5\ \text{mm}$, denoted by $+53.5\ \text{mm}$; th
 
 This statement is not correct.
 
-By **Basic Knowledge: The Status of $0$**, $0$ is neither a positive number nor a negative number. Thus there exists a number, $0$, that is neither positive nor negative, so neither "a number that is not positive must be negative" nor "a number that is not negative must be positive" holds. $\blacksquare$
+By The Status of $0$, $0$ is neither a positive number nor a negative number. Thus there exists a number, $0$, that is neither positive nor negative, so neither "a number that is not positive must be negative" nor "a number that is not negative must be positive" holds. $\blacksquare$
 
 ---
 
@@ -118,7 +102,7 @@ By **Basic Knowledge: The Status of $0$**, $0$ is neither a positive number nor 
 
 ### Solution to Problem 4
 
-The charge of the atomic nucleus is positive charge, and the charge of the extranuclear electron is negative charge; the two are quantities of opposite meaning. By **Basic Knowledge: Representing Quantities of Opposite Meaning**, positive charge is represented by a positive number and negative charge by a negative number.
+The charge of the atomic nucleus is positive charge, and the charge of the extranuclear electron is negative charge; the two are quantities of opposite meaning. By Representing Quantities of Opposite Meaning, positive charge is represented by a positive number and negative charge by a negative number.
 
 In the hydrogen atom, the nucleus carries $1$ positive charge, denoted by $+1$; the extranuclear electron carries $1$ negative charge, denoted by $-1$. $\blacksquare$
 
@@ -130,7 +114,7 @@ In the hydrogen atom, the nucleus carries $1$ positive charge, denoted by $+1$; 
 
 ### Solution to Problem 5
 
-By **Basic Knowledge: Representing Quantities of Opposite Meaning**, moving straight backward and moving straight forward are quantities of opposite meaning. Since moving straight backward is denoted by $-$, $+$ means moving straight forward; hence the object moving by $+5\ \text{m}$ means it moves $5\ \text{m}$ straight forward.
+By Representing Quantities of Opposite Meaning, moving straight backward and moving straight forward are quantities of opposite meaning. Since moving straight backward is denoted by $-$, $+$ means moving straight forward; hence the object moving by $+5\ \text{m}$ means it moves $5\ \text{m}$ straight forward.
 
 The object first moves $5\ \text{m}$ straight backward and then $5\ \text{m}$ straight forward; the two movements are in opposite directions and cover equal distances, so it returns to its original position, which is $0\ \text{m}$ away from its position before the two movements. $\blacksquare$
 
@@ -156,7 +140,7 @@ $$
 
 Hence the mean is $\frac{560}{7}=80\ \left(\text{m}\right)$.
 
-Taking $80\ \text{m}$ as the standard, the amount above is represented by a positive number and the amount below by a negative number. By **Basic Knowledge: Representing Quantities of Opposite Meaning**:
+Taking $80\ \text{m}$ as the standard, the amount above is represented by a positive number and the amount below by a negative number. By Representing Quantities of Opposite Meaning:
 
 Group 1: $79.4=80-0.6$, below by $0.6$, corresponding to $-0.6$; Group 2: $80.6=80+0.6$, above by $0.6$, corresponding to $+0.6$; Group 3: $80.8=80+0.8$, above by $0.8$, corresponding to $+0.8$; Group 4: $79.1=80-0.9$, below by $0.9$, corresponding to $-0.9$; Group 5: $80=80$, neither above nor below, corresponding to $0$; Group 6: $79.6=80-0.4$, below by $0.4$, corresponding to $-0.4$; Group 7: $80.5=80+0.5$, above by $0.5$, corresponding to $+0.5$.
 
@@ -186,7 +170,7 @@ That is, the temperature at $0$ o'clock the next day is $-1\,^\circ\text{C}$. $\
 
 ### Solution to Problem 8
 
-According to the problem, rotating counterclockwise is denoted by $+$ and rotating clockwise by $-$, so counterclockwise rotation is taken as positive and clockwise rotation as negative. By **Basic Knowledge: Representing Quantities of Opposite Meaning**, the numbers in the unlocking code represent in turn the small divisions of the three rotations, and the number aligned with the marker line equals the algebraic sum of the rotations.
+According to the problem, rotating counterclockwise is denoted by $+$ and rotating clockwise by $-$, so counterclockwise rotation is taken as positive and clockwise rotation as negative. By Representing Quantities of Opposite Meaning, the numbers in the unlocking code represent in turn the small divisions of the three rotations, and the number aligned with the marker line equals the algebraic sum of the rotations.
 
 Unlocking code "$+5,\ -2,\ +3$": first rotate counterclockwise by $5$ divisions, then clockwise by $2$ divisions, then counterclockwise by $3$ divisions; the number aligned with the marker line is
 

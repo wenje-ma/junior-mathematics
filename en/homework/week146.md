@@ -1,25 +1,6 @@
 # week146
 
-> **Basic Knowledge: Rotation of a Figure**
-> 
-> Rotating a plane figure about a point $O$ in the plane through an angle is called rotation of the figure.
-> **Basic Knowledge: Properties of Rotation**
-> 
-> The figures before and after rotation are congruent; corresponding points are equidistant from the center of rotation; the angle formed by the segments joining corresponding points to the center of rotation equals the angle of rotation.
-> **Basic Knowledge: Central Symmetry**
-> 
-> If a figure is rotated about a point through $180^\circ$ and the rotated figure can coincide with another figure, then the two figures are centrally symmetric about this point.
-> **Basic Knowledge: Properties of Central Symmetry**
-> 
-> For two figures that are centrally symmetric, the segments joining symmetric points pass through the center of symmetry and are bisected by it.
-> **Basic Knowledge: Centrally Symmetric Figure**
-> 
-> A figure that coincides with itself after being rotated about a point through $180^\circ$ is called a centrally symmetric figure.
-> **Basic Knowledge: Coordinates of Points Symmetric about the Origin**
-> 
-> The point symmetric to $P\left(x,y\right)$ about the origin is $P'\left(-x,-y\right)$.
 ---
-
 
 ## Review Problem 1
 
@@ -27,7 +8,7 @@
 
 ### Solution to Review Problem 1
 
-By **Basic Knowledge: Rotation of a Figure**.
+By Rotation of a Figure.
 
 The pattern is obtained by rotating a single basic figure about its center, several times in succession, through the same angle (e.g. $90^\circ$); the center of rotation is the center of the pattern. $\blacksquare$
 
@@ -39,7 +20,7 @@ The figure shows right triangle $ABC$ with a point $S$ outside it; the task is t
 
 ### Solution to Review Problem 2
 
-By **Basic Knowledge: Properties of Rotation**.
+By Properties of Rotation.
 
 Join $SA$, $SB$, $SC$; rotate them clockwise about $S$ through $30^\circ$, taking $SA'=SA$, $SB'=SB$, $SC'=SC$, such that $\angle ASA'=\angle BSB'=\angle CSC'=30^\circ$; join $A'$, $B'$, $C'$ in order to obtain the result. $\blacksquare$
 
@@ -53,7 +34,7 @@ Join $SA$, $SB$, $SC$; rotate them clockwise about $S$ through $30^\circ$, takin
 
 ### Solution to Review Problem 3
 
-By **Basic Knowledge: Central Symmetry** and **Basic Knowledge: Properties of Central Symmetry**.
+By Central Symmetry and Properties of Central Symmetry.
 
 (1) The diagonals of the square intersect at $O$; the centrally symmetric triangles are the two opposite triangles (e.g. the two triangles cut out by a diagonal are symmetric about $O$).
 
@@ -65,7 +46,7 @@ By **Basic Knowledge: Central Symmetry** and **Basic Knowledge: Properties of Ce
 
 ### Solution to Review Problem 4
 
-By **Basic Knowledge: Centrally Symmetric Figure**.
+By Centrally Symmetric Figure.
 
 An artistic character that coincides with its original form after being rotated about its own center through $180^\circ$ is a centrally symmetric figure, with the center of the character as the center of symmetry; otherwise it is not. $\blacksquare$
 
@@ -79,7 +60,7 @@ An artistic character that coincides with its original form after being rotated 
 
 ### Solution to Review Problem 5
 
-By **Basic Knowledge: Coordinates of Points Symmetric about the Origin**.
+By Coordinates of Points Symmetric about the Origin.
 
 (1) $A'\left(2,-3\right)$, $B'\left(5,0\right)$.
 
@@ -97,7 +78,7 @@ $\blacksquare$
 
 ### Solution to Review Problem 6
 
-By **Basic Knowledge: Centrally Symmetric Figure**.
+By Centrally Symmetric Figure.
 
 The desired figure is one that is both axially symmetric (has an axis of symmetry) and centrally symmetric (coincides after rotating about its center through $180^\circ$), e.g. a segment, a rectangle, a rhombus, a square, a circle, etc. $\blacksquare$
 
@@ -113,7 +94,7 @@ The desired figure is one that is both axially symmetric (has an axis of symmetr
 
 ### Solution to Review Problem 7
 
-By **Basic Knowledge: Properties of Rotation**.
+By Properties of Rotation.
 
 (1) With $A$ as the center, rotate $AB$ through $90^\circ$ to obtain $AD$; with $B$ as the center, rotate $BA$ through $90^\circ$ to obtain $BC$; join $C$ and $D$ to obtain the square.
 
@@ -131,7 +112,7 @@ By **Basic Knowledge: Properties of Rotation**.
 
 ### Solution to Review Problem 8
 
-By **Basic Knowledge: Properties of Rotation**.
+By Properties of Rotation.
 
 (1) $\triangle ABC$ and $\triangle ECD$ are both equilateral, so $AC=BC$, $DC=EC$, and $\angle ACD=\angle BCE=120^\circ$. Rotating $\triangle DAC$ about the point $C$ clockwise through $60^\circ$ gives $\triangle EBC$.
 
@@ -143,7 +124,7 @@ By **Basic Knowledge: Properties of Rotation**.
 
 ### Solution to Review Problem 9
 
-By **Basic Knowledge: Centrally Symmetric Figure**.
+By Centrally Symmetric Figure.
 
 These patterns coincide with themselves after being rotated about their center through $180^\circ$, so they are centrally symmetric figures; the four shaded parts have equal area, and the total shaded area is half the area of the square. In designing, simply make the four parts centrally symmetric about the center and equal in area. $\blacksquare$
 
@@ -155,7 +136,7 @@ The figure shows the outline of a sheet of paper: after joining $EB$, the left p
 
 ### Solution to Review Problem 10
 
-By **Basic Knowledge: Centrally Symmetric Figure**, both the rectangle and the rhombus are centrally symmetric figures.
+By Centrally Symmetric Figure, both the rectangle and the rhombus are centrally symmetric figures.
 
 The center of symmetry of the rectangle $FABE$ is the intersection of its diagonals, and the center of symmetry of the rhombus $EBCD$ is the intersection of its diagonals. A line through the two centers divides each of the two centrally symmetric figures into two parts of equal area, so this line divides the whole sheet into two parts of equal area. $\blacksquare$
 
@@ -165,6 +146,6 @@ The center of symmetry of the rectangle $FABE$ is the intersection of its diagon
 
 ### Solution to Review Problem 11
 
-By **Basic Knowledge: Rotation of a Figure**.
+By Rotation of a Figure.
 
 The composition of two axial symmetries (axes $l_1$ and $l_2$ intersecting at $O$) is equivalent to a rotation about the point $O$, with angle of rotation twice the angle between $l_1$ and $l_2$. Hence the figure $G_2$ can be obtained by rotating the figure $G$ about the point $O$, with center of rotation $O$ and angle of rotation twice the angle between $l_1$ and $l_2$. $\blacksquare$

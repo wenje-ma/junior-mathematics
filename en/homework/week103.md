@@ -1,19 +1,6 @@
 # week103
 
-> **Basic Knowledge: Interior Angle Sum of a Quadrilateral**
-> 
-> The interior angle sum of a quadrilateral is \(360^{\circ}\).
-> **Basic Knowledge: Exterior Angle Sum of a Quadrilateral**
-> 
-> The exterior angle sum of a quadrilateral is \(360^{\circ}\).
-> **Basic Knowledge: Interior Angle Sum of a Polygon**
-> 
-> The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
-> **Basic Knowledge: Exterior Angle Sum of a Polygon**
-> 
-> The exterior angle sum of a polygon is \(360^{\circ}\).
 ---
-
 
 ## Exercise 1
 
@@ -25,7 +12,7 @@ Find the value of \(x\) in the following figures:
 
 (2) The four interior angles of a quadrilateral are \(140^{\circ},3x^{\circ},2x^{\circ},4x^{\circ}\).
 
-By **Basic Knowledge**, the interior angle sum of a quadrilateral is \(360^{\circ}\).
+By Basic Knowledge, the interior angle sum of a quadrilateral is \(360^{\circ}\).
 
 (1) \(75+120+80+x=360\), giving \(x=85\).
 
@@ -37,7 +24,7 @@ By **Basic Knowledge**, the interior angle sum of a quadrilateral is \(360^{\cir
 
 If one pair of opposite angles of a quadrilateral is supplementary, what is the relation between the other pair of opposite angles?
 
-By **Basic Knowledge**, the interior angle sum of a quadrilateral is \(360^{\circ}\).
+By Basic Knowledge, the interior angle sum of a quadrilateral is \(360^{\circ}\).
 
 One pair of opposite angles is supplementary, summing to \(180^{\circ}\).
 
@@ -65,7 +52,7 @@ Find the value of \(x\) in the following figures:
 
 (2) In pentagon \(ABCDE\), \(AB\parallel CD\), and the remaining angles are as shown.
 
-By **Basic Knowledge**, the interior angle sum of a pentagon is \((5-2)\times 180^{\circ}=540^{\circ}\).
+By Basic Knowledge, the interior angle sum of a pentagon is \((5-2)\times 180^{\circ}=540^{\circ}\).
 
 (1) \(120+150+135+2x+x=540\), i.e. \(3x=135\), giving \(x=45\).
 
@@ -81,11 +68,11 @@ By **Basic Knowledge**, the interior angle sum of a pentagon is \((5-2)\times 18
 
 (3) Each exterior angle of a polygon is \(72^{\circ}\). How many sides does it have?
 
-(1) By **Basic Knowledge**, \((n-2)\times 180^{\circ}=1080^{\circ}\), giving \(n=8\), i.e. an octagon.
+(1) By Basic Knowledge, \((n-2)\times 180^{\circ}=1080^{\circ}\), giving \(n=8\), i.e. an octagon.
 
-(2) Each interior angle is \(120^{\circ}\), so each exterior angle is \(60^{\circ}\). By **Basic Knowledge**, \(n=\frac{360^{\circ}}{60^{\circ}}=6\), i.e. a hexagon.
+(2) Each interior angle is \(120^{\circ}\), so each exterior angle is \(60^{\circ}\). By Basic Knowledge, \(n=\frac{360^{\circ}}{60^{\circ}}=6\), i.e. a hexagon.
 
-(3) By **Basic Knowledge**, \(n=\frac{360^{\circ}}{72^{\circ}}=5\), i.e. a pentagon.
+(3) By Basic Knowledge, \(n=\frac{360^{\circ}}{72^{\circ}}=5\), i.e. a pentagon.
 
 \(\blacksquare\)
 
@@ -95,7 +82,7 @@ By **Basic Knowledge**, the interior angle sum of a pentagon is \((5-2)\times 18
 
 Can all four angles of a quadrilateral be acute? Can they all be obtuse? Can they all be right? Why?
 
-By **Basic Knowledge**, the interior angle sum of a quadrilateral is \(360^{\circ}\).
+By Basic Knowledge, the interior angle sum of a quadrilateral is \(360^{\circ}\).
 
 If all four are acute, their sum is less than \(360^{\circ}\), a contradiction, so no.
 
@@ -109,7 +96,7 @@ When all four are right angles, their sum is exactly \(360^{\circ}\), which is p
 
 Fill in the table: the interior and exterior angle sums for polygons with \(3,4,5,6,8,12,20\) sides.
 
-By **Basic Knowledge**, the interior angle sum is \((n-2)\times 180^{\circ}\); by **Basic Knowledge**, the exterior angle sum is always \(360^{\circ}\).
+By Basic Knowledge, the interior angle sum is \((n-2)\times 180^{\circ}\); by Basic Knowledge, the exterior angle sum is always \(360^{\circ}\).
 
 (1) Triangle: interior sum \(180^{\circ}\), exterior sum \(360^{\circ}\).
 
@@ -157,7 +144,7 @@ Regular decagon: \(\frac{8\times 180^{\circ}}{10}=144^{\circ}\).
 
 As shown in the figure, in quadrilateral \(ABCD\), \(\angle A=\angle C,\ \angle B=\angle D\). What is the positional relation between \(AB\) and \(DC\)? Why? What about \(BC\) and \(AD\)?
 
-By **Basic Knowledge**, \(\angle A+\angle B+\angle C+\angle D=360^{\circ}\).
+By Basic Knowledge, \(\angle A+\angle B+\angle C+\angle D=360^{\circ}\).
 
 Substituting \(\angle A=\angle C,\ \angle B=\angle D\), we get \(2\angle A+2\angle B=360^{\circ}\), i.e. \(\angle A+\angle B=180^{\circ}\).
 

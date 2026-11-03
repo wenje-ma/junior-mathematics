@@ -1,25 +1,5 @@
 # week29
 
-> **Basic Knowledge: Basic Fact about Segments**
-> 
-> Between two points, the segment is the shortest.
-
-> **Basic Knowledge: Distance**
-> 
-> The length of the segment joining two points is called the distance between them.
-
-> **Basic Knowledge: Angle**
-> 
-> The figure formed by two rays with a common endpoint is called an angle.
-
-> **Basic Knowledge: Measuring Angles**
-> 
-> $1^{\circ}=60'$, $1'=60''$. A full angle $=360^{\circ}$.
-
-> **Basic Knowledge: between two points the segment is the shortest**
-> 
-> Among all paths connecting two points, the line segment is the shortest.
-
 ---
 
 ## Inquiry 1
@@ -28,7 +8,7 @@
 
 ### Solution to Inquiry 1
 
-By **Basic Knowledge: Measuring Angles** and the circumference formula for a circle.
+By Measuring Angles and the circumference formula for a circle.
 
 A standard $400\ \text{m}$ track consists of two straightaways and two semicircular curves; the two semicircular curves together form one full circle. The curve radius of the first lane is $36.5\ \text{m}$, so the curve length is $2\pi\times36.5\approx229.3\ \text{m}$.
 
@@ -42,7 +22,7 @@ The curves are semicircular; the two curves together form one circle. $\blacksqu
 
 ### Solution to Inquiry 2
 
-By **Basic Knowledge: Distance** and the relation between a circle's circumference and its radius.
+By Distance and the relation between a circle's circumference and its radius.
 
 The $100\ \text{m}$ race runs entirely on the straightaway, so the starting points are the same.
 
@@ -56,7 +36,7 @@ The $800\ \text{m}$ and $1500\ \text{m}$ races also go through curves, so their 
 
 ### Solution to Inquiry 3
 
-By **Basic Knowledge: Measuring Angles** and **Basic Knowledge: Distance**.
+By Measuring Angles and Distance.
 
 $400\ \text{m}$ race: the first lane's starting line is set at the junction of straightaway and curve. For the other lanes, since an outer lane's curve length exceeds the inner lane's by $2\pi d$ ($d$ is the lane width), the starting line should be moved forward by the corresponding distance. The difference between adjacent lanes' starting lines is about $2\pi\times1.22\approx7.66\ \text{m}$.
 
@@ -68,7 +48,7 @@ $4\times100\ \text{m}$ relay: each leg is $100\ \text{m}$; the start of each leg
 
 ### Solution to Inquiry 4
 
-By **Basic Knowledge: Distance** and the circumference formula for a circle.
+By Distance and the circumference formula for a circle.
 
 The curve radius of a $300\ \text{m}$ track is smaller than that of a standard $400\ \text{m}$ track. The $200\ \text{m}$ race goes through one curve; running $200\ \text{m}$ in the first lane exactly covers one curve plus a section of straightaway.
 
@@ -80,7 +60,7 @@ The shift of each lane's starting line is still computed from the difference in 
 
 ### Solution to Inquiry 5
 
-By **Basic Knowledge: Distance**.
+By Distance.
 
 A high jump area includes an approach run, a crossbar, and a landing area. The approach run is at least $15\ \text{m}$ long and $1.22\ \text{m}$ to $1.25\ \text{m}$ wide. The distance between the supports at the two ends of the crossbar is $4\ \text{m}$. The landing area is a foam mat of no less than $5\ \text{m}\times3\ \text{m}$. $\blacksquare$
 
@@ -90,7 +70,7 @@ A high jump area includes an approach run, a crossbar, and a landing area. The a
 
 ### Solution to Inquiry 6
 
-By **Basic Knowledge: Distance**.
+By Distance.
 
 The long jump sand pit is rectangular, about $8\ \text{m}$ to $9\ \text{m}$ long and about $2.75\ \text{m}$ to $3\ \text{m}$ wide. The distance from the near edge of the pit to the takeoff board is $1.25\ \text{m}$ to $1.75\ \text{m}$. The approach run is at least $40\ \text{m}$ long and $1.22\ \text{m}$ to $1.25\ \text{m}$ wide. $\blacksquare$
 
@@ -100,7 +80,7 @@ The long jump sand pit is rectangular, about $8\ \text{m}$ to $9\ \text{m}$ long
 
 ### Solution to Inquiry 7
 
-By **Basic Knowledge: Measuring Angles** and the area formula for a circle.
+By Measuring Angles and the area formula for a circle.
 
 The inner diameter of the shot put throwing circle is $2.135\ \text{m}$, so its radius is $1.0675\ \text{m}$. The radius of the throwing sector is $25\ \text{m}$, and the sector's central angle is $34.92^{\circ}$.
 
@@ -116,6 +96,6 @@ The total area is about $190.8+3.58\approx194.4\ \text{m}^{2}$. $\blacksquare$
 
 ### Solution to Inquiry 8
 
-By **Basic Knowledge: between two points the segment is the shortest** and safety considerations.
+By between two points the segment is the shortest and safety considerations.
 
 Since the shot is thrown far and is dangerous, it should be placed in a corner of the field (outside the curves), away from the running track and other competition areas. This way it neither interferes with track events nor endangers spectators and athletes. $\blacksquare$

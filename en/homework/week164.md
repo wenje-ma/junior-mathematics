@@ -1,22 +1,10 @@
 # week164
 
-> **Basic Knowledge: Homothetic Figures**
-> 
-> If the points $A,B,\ldots,P,\ldots$ on one figure and the points $A',B',\ldots,P',\ldots$ on another figure correspond respectively, and the connecting lines $AA',BB',\ldots,PP',\ldots$ all pass through the same point $O$, with $\frac{OA'}{OA}=\frac{OB'}{OB}=\cdots=\frac{OP'}{OP}=\cdots$, then the two figures are called homothetic figures, and point $O$ is the center of homothety. Homothetic figures are special similar figures, and their corresponding sides are parallel to each other.
-> **Basic Knowledge: Coordinate Rule for Homothety**
-> 
-> With the origin as center and ratio k, point (x,y) maps to (kx, ky) or (-kx, -ky).
-
 ---
 
 ---
 
 ---
-
-
-> **Basic Knowledge: Coordinate Rule for Homothety** 
-> 
-> In a rectangular coordinate system, if the origin is taken as the center of homothety and a figure homothetic to the original is drawn with similarity ratio $k$ to the original, then the coordinates of the point on the homothetic figure corresponding to the point $\left(x,y\right)$ on the original figure are $\left(kx,ky\right)$ or $\left(-kx,-ky\right)$.
 
 ## Exercise 1
 
@@ -24,7 +12,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Homothetic Figures**, homothetic figures are special similar figures, and their corresponding sides are parallel to each other.
+By Homothetic Figures, homothetic figures are special similar figures, and their corresponding sides are parallel to each other.
 
 $\triangle OAB$ and $\triangle OCD$ are homothetic, and $AB$ and $CD$ are corresponding sides, so $AB\parallel CD$. $\blacksquare$
 
@@ -36,7 +24,7 @@ The figure shows $\triangle ABC$ with a point $O$ outside it; the task is to tak
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge**, connect and extend $OA,OB,OC$, take $A',B',C'$ on the extended lines such that $OA'=3OA$, $OB'=3OB$, $OC'=3OC$, and connect $A',B',C'$ in order; the resulting $\triangle A'B'C'$ is the desired enlarged triangle. $\blacksquare$
+By Basic Knowledge, connect and extend $OA,OB,OC$, take $A',B',C'$ on the extended lines such that $OA'=3OA$, $OB'=3OB$, $OC'=3OC$, and connect $A',B',C'$ in order; the resulting $\triangle A'B'C'$ is the desired enlarged triangle. $\blacksquare$
 
 ## Exercise 3
 
@@ -44,7 +32,7 @@ By **Basic Knowledge**, connect and extend $OA,OB,OC$, take $A',B',C'$ on the ex
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Homothetic Figures**, the similarity ratio is the ratio of the distances from the corresponding points to the center of homothety.
+By Homothetic Figures, the similarity ratio is the ratio of the distances from the corresponding points to the center of homothety.
 
 $$
 \frac{OC}{OA}=\frac{\sqrt{1^2+2^2}}{\sqrt{2^2+4^2}}=\frac{\sqrt{5}}{\sqrt{20}}=\frac{1}{2}.
@@ -58,7 +46,7 @@ Thus the similarity ratio is $\frac{1}{2}$. $\blacksquare$
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Coordinate Rule for Homothety**, with the origin as the center of homothety and similarity ratio $k=2$, the point $\left(x,y\right)$ corresponds to $\left(kx,ky\right)$ or $\left(-kx,-ky\right)$.
+By Coordinate Rule for Homothety, with the origin as the center of homothety and similarity ratio $k=2$, the point $\left(x,y\right)$ corresponds to $\left(kx,ky\right)$ or $\left(-kx,-ky\right)$.
 
 One set of corresponding coordinates is $A'\left(8,-10\right)$, $B'\left(12,0\right)$, $O'\left(0,0\right)$; the other set is $A''\left(-8,10\right)$, $B''\left(-12,0\right)$, $O''\left(0,0\right)$. $\blacksquare$
 
@@ -68,7 +56,7 @@ One set of corresponding coordinates is $A'\left(8,-10\right)$, $B'\left(12,0\ri
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Homothetic Figures**, the intersection of the connecting lines of corresponding vertices is the center of homothety, and the ratio of corresponding sides is the similarity ratio. In the figure, the connecting lines of the corresponding vertices of the dashed and solid figures meet at one point, which is the center of homothety; the ratio of the lengths of corresponding sides is the similarity ratio. $\blacksquare$
+By Homothetic Figures, the intersection of the connecting lines of corresponding vertices is the center of homothety, and the ratio of corresponding sides is the similarity ratio. In the figure, the connecting lines of the corresponding vertices of the dashed and solid figures meet at one point, which is the center of homothety; the ratio of the lengths of corresponding sides is the similarity ratio. $\blacksquare$
 
 ## Problem 2
 
@@ -76,7 +64,7 @@ By **Basic Knowledge: Homothetic Figures**, the intersection of the connecting l
 
 ### Solution to Problem 2
 
-By **Basic Knowledge**, connect the center of homothety $P$ to each vertex of the five-pointed star, take the midpoint on each connecting line, and connect these midpoints in order; the resulting five-pointed star is the homothetic figure with side lengths reduced to $\frac{1}{2}$ of the original. $\blacksquare$
+By Basic Knowledge, connect the center of homothety $P$ to each vertex of the five-pointed star, take the midpoint on each connecting line, and connect these midpoints in order; the resulting five-pointed star is the homothetic figure with side lengths reduced to $\frac{1}{2}$ of the original. $\blacksquare$
 
 ## Problem 3
 
@@ -84,7 +72,7 @@ By **Basic Knowledge**, connect the center of homothety $P$ to each vertex of th
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Coordinate Rule for Homothety**, the similarity ratio is $k=\frac{1}{2}$, and the point $\left(x,y\right)$ corresponds to $\left(\frac{x}{2},\frac{y}{2}\right)$ or $\left(-\frac{x}{2},-\frac{y}{2}\right)$.
+By Coordinate Rule for Homothety, the similarity ratio is $k=\frac{1}{2}$, and the point $\left(x,y\right)$ corresponds to $\left(\frac{x}{2},\frac{y}{2}\right)$ or $\left(-\frac{x}{2},-\frac{y}{2}\right)$.
 
 One set: $D\left(1,1\right)$, $E\left(2,1\right)$, $F\left(3,2\right)$. The other set: $D\left(-1,-1\right)$, $E\left(-2,-1\right)$, $F\left(-3,-2\right)$. $\blacksquare$
 
@@ -94,7 +82,7 @@ One set: $D\left(1,1\right)$, $E\left(2,1\right)$, $F\left(3,2\right)$. The othe
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Homothetic Figures**.
+By Homothetic Figures.
 
 (1) Square $IJKL$ is the largest, with similarity ratio $3$ to $ABCD$.
 
@@ -108,7 +96,7 @@ By **Basic Knowledge: Homothetic Figures**.
 
 ### Solution to Problem 5
 
-By **Basic Knowledge: Coordinate Rule for Homothety**, the similarity ratio is $k=\frac{1}{2}$.
+By Coordinate Rule for Homothety, the similarity ratio is $k=\frac{1}{2}$.
 
 The coordinates of the vertices of the new rectangle are $A'\left(0,1.5\right)$, $O'\left(0,0\right)$, $B'\left(2,0\right)$, $C'\left(2,1.5\right)$. $\blacksquare$
 
@@ -130,7 +118,7 @@ The figure shows rectangle $MNPQ$ with point $Q$ as one of its vertices; the tas
 
 ### Solution to Problem 7
 
-By **Basic Knowledge: Homothetic Figures**, taking $Q$ as the center of homothety, connect $QM,QN,QP$, take corresponding points $M',N',P'$ on each connecting line such that $QM'=0.75\,QM$, $QN'=0.75\,QN$, $QP'=0.75\,QP$, and connect $M',N',P',Q$ in order; the resulting rectangle is the desired one. $\blacksquare$
+By Homothetic Figures, taking $Q$ as the center of homothety, connect $QM,QN,QP$, take corresponding points $M',N',P'$ on each connecting line such that $QM'=0.75\,QM$, $QN'=0.75\,QN$, $QP'=0.75\,QP$, and connect $M',N',P',Q$ in order; the resulting rectangle is the desired one. $\blacksquare$
 
 ### Information Technology Application 1
 
@@ -138,11 +126,11 @@ By **Basic Knowledge: Homothetic Figures**, taking $Q$ as the center of homothet
 
 ### Solution to Information Technology Application 1
 
-By **Basic Knowledge** and **Basic Knowledge**.
+By Basic Knowledge and Basic Knowledge.
 
 (1) The ratio of corresponding sides equals the similarity ratio $k$.
 
 (2) When $O$ is the origin, both the ratio of the x-coordinates and the ratio of the y-coordinates of corresponding points equal $k$.
 
 (3) $\frac{OA'}{OA}=\frac{OB'}{OB}=\frac{OC'}{OC}=k$, i.e. the ratio of the distances from the center of homothety to the corresponding points equals the similarity ratio. $\blacksquare$
-
+

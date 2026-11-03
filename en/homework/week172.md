@@ -1,16 +1,6 @@
 # week172
 
-> **Basic Knowledge: View**
-> 
-> When we observe an object from a certain direction, the plane figure we see is called a view of the object. A view can be regarded as the orthogonal projection of the object under light from a certain direction.
-> **Basic Knowledge: Front View, Top View, Left View**
-> 
-> Orthogonal projection of an object is performed within three mutually perpendicular projection planes: the view obtained in the front plane by observing the object from front to back is called the front view; the view obtained in the horizontal plane by observing the object from top to bottom is called the top view; the view obtained in the side plane by observing the object from left to right is called the left view.
-> **Basic Knowledge: Projection Rules for the Three Views**
-> 
-> The front view and the top view are aligned in length; the front view and the left view are aligned in height; the left view and the top view are equal in width. The outline lines of visible parts are drawn as solid lines, and the outline lines of parts that are blocked and invisible are drawn as dashed lines.
 ---
-
 
 ## Exercise 1
 
@@ -20,7 +10,7 @@ The figure shows perspective diagrams of three solids: (1) a regular triangular 
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Projection Rules for the Three Views**, the three views of the three solids are as shown in the figure:
+By Projection Rules for the Three Views, the three views of the three solids are as shown in the figure:
 
 (1) Regular triangular prism: the front view is a rectangle (with a vertical dashed line in the middle indicating the blocked edge), the top view is an equilateral triangle, and the left view is a rectangle (narrower).
 
@@ -42,7 +32,7 @@ By **Basic Knowledge: Projection Rules for the Three Views**, the three views of
 
 ### Solution to Exercise 2
 
-Comprehensive judgment by **Basic Knowledge: Front View, Top View, Left View**:
+Comprehensive judgment by Front View, Top View, Left View:
 
 (1) Both the front view and the left view are rectangles, and the top view is a circle; the object is a cylinder.
 
@@ -88,7 +78,7 @@ The total surface area $=48000\pi+36000\pi=84000\pi\approx 263894\ \text{cm}^{2}
 
 ### Solution to Problem 1
 
-By **Basic Knowledge** and **Basic Knowledge**: the three views of a rectangular box are all rectangles; the front and left views of a cylinder are rectangles and its top view is a circle; the front view of a regular pentagonal prism is a combination of rectangles and its top view is a regular pentagon. Connect them according to this correspondence. $\blacksquare$
+By Basic Knowledge and Basic Knowledge: the three views of a rectangular box are all rectangles; the front and left views of a cylinder are rectangles and its top view is a circle; the front view of a regular pentagonal prism is a combination of rectangles and its top view is a regular pentagon. Connect them according to this correspondence. $\blacksquare$
 
 ## Problem 2
 
@@ -98,7 +88,7 @@ The figure shows perspective diagrams of three solids: (1) a rectangular box; (2
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Projection Rules for the Three Views**, the three views are as shown in the figure:
+By Projection Rules for the Three Views, the three views are as shown in the figure:
 
 (1) Rectangular box: the front view, top view, and left view are all rectangles, with dimensions corresponding to length × height, length × width, and width × height, respectively.
 
@@ -148,7 +138,7 @@ The figure shows perspective diagrams of two solids made of 7 small cubes: (1) a
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Projection Rules for the Three Views**, the three views are as shown in the figure:
+By Projection Rules for the Three Views, the three views are as shown in the figure:
 
 (1) Pyramid-shaped stack (bottom row of $4$, middle layer of $2$ centered, top of $1$): the front view is a stepped rectangle (bottom $4$ cells, middle $2$ cells, top $1$ cell), the top view is a $4\times 2$ grid array, and the left view is a $2$-column staircase.
 
@@ -162,7 +152,7 @@ The figure shows perspective diagrams of two composite solids: (1) a cylinder be
 
 ### Solution to Problem 7
 
-By **Basic Knowledge**, the three views are as shown in the figure:
+By Basic Knowledge, the three views are as shown in the figure:
 
 (1) A cone on top of a cylinder: the front view is a triangle stacked on a rectangle, the top view is a circle with a center, and the left view is a triangle stacked on a rectangle.
 

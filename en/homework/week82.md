@@ -1,34 +1,6 @@
 # week82
 
-> **Basic Knowledge: Multiplication of Powers with the Same Base**
-> 
-> $a^m\cdot a^n=a^{m+n}$ ($m,n$ are positive integers).
-> **Basic Knowledge: Division of Powers with the Same Base**
-> 
-> Divide powers with the same base by keeping the base and subtracting the exponents: a^m / a^n = a^{m-n}.
-
 ---
-
-
-> **Basic Knowledge: Power of a Power** 
-> 
-> $\left(a^m\right)^n=a^{mn}$ ($m,n$ are positive integers).
-
-> **Basic Knowledge: Power of a Product** 
-> 
-> $\left(ab\right)^n=a^n b^n$ ($n$ is a positive integer).
-
-> **Basic Knowledge: Division of Powers with the Same Base** 
-> 
-> $a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ are positive integers, $m> n$).
-
-> **Basic Knowledge: Difference of Squares Formula** 
-> 
-> $\left(a+b\right)\left(a-b\right)=a^2-b^2$.
-
-> **Basic Knowledge: Perfect Square Formula** 
-> 
-> $\left(a\pm b\right)^2=a^2\pm2ab+b^2$.
 
 ## Review Problem 1
 
@@ -44,7 +16,7 @@
 
 ### Solution to Review Problem 1
 
-By **Basic Knowledge** and **Basic Knowledge**.
+By Basic Knowledge and Basic Knowledge.
 
 (1) $100\times10^3\times10^2=10^2\times10^3\times10^2=10^7$.
 
@@ -210,7 +182,7 @@ The mass is $11.8692\times7.8\approx92.58\ \left(\text{t}\right)$. $\blacksquare
 
 ### Solution to Review Problem 11
 
-By **Basic Knowledge: Division of Powers with the Same Base**, $x^{m-n}=x^m\div x^n=64\div8=8$. $\blacksquare$
+By Division of Powers with the Same Base, $x^{m-n}=x^m\div x^n=64\div8=8$. $\blacksquare$
 
 ## Review Problem 12
 

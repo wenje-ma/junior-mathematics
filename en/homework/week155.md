@@ -1,29 +1,6 @@
 # week155
 
-> **Basic Knowledge: Position of a Line Relative to a Circle**
-> 
-> A line and a circle with no common point are called disjoint; with exactly one common point they are tangent, the line is called the tangent line to the circle, and the point is called the point of tangency; with two common points they are called intersecting.
-> **Basic Knowledge: Position-Relation Criterion**
-> 
-> Let the radius of $\odot O$ be $r$ and the distance from the center to the line be $d$; then $d> r$ means disjoint, $d=r$ means tangent, and $d< r$ means intersecting.
-> **Basic Knowledge: Tangent Property**
-> 
-> A tangent line to a circle is perpendicular to the radius through the point of tangency.
-> **Basic Knowledge: Tangent Criterion**
-> 
-> A line passing through the outer end of a radius and perpendicular to that radius is a tangent line to the circle.
-> **Basic Knowledge: Tangent-Length Theorem**
-> 
-> From a point outside a circle, the two tangent segments to the circle have equal length, and the line joining this point to the center bisects the angle between the two tangent lines.
-> **Basic Knowledge: Inscribed Angle Theorem**
-> 
-> An inscribed angle is half the central angle subtending the same arc.
-> **Basic Knowledge: Perpendicular Chord Theorem**
-> 
-> The diameter perpendicular to a chord bisects the chord and bisects both arcs subtended by the chord.
-
 ---
-
 
 ## Exercise 1
 
@@ -39,7 +16,7 @@ what is the position of the line relative to the circle in each case? How many c
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Position-Relation Criterion**, $r=6.5$.
+By Position-Relation Criterion, $r=6.5$.
 
 (1) $d=4.5< 6.5$, intersecting, two common points.
 
@@ -59,7 +36,7 @@ By **Basic Knowledge: Position-Relation Criterion**, $r=6.5$.
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Position-Relation Criterion**.
+By Position-Relation Criterion.
 
 The distance from $M$ to $OA$ is $d=OM\sin30^\circ=2.5$.
 
@@ -75,7 +52,7 @@ The distance from $M$ to $OA$ is $d=OM\sin30^\circ=2.5$.
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Tangent Criterion**.
+By Tangent Criterion.
 
 $AB$ is a diameter, and $O$ lies on $AB$. $AB=AC$ and $\angle ABC=45^\circ$, so $\angle ACB=45^\circ$ and $\angle BAC=90^\circ$, i.e. $AC\perp AB$. Also $A$ lies on the circle, so $AC$ is a tangent line to $\odot O$. $\blacksquare$
 
@@ -85,7 +62,7 @@ $AB$ is a diameter, and $O$ lies on $AB$. $AB=AC$ and $\angle ABC=45^\circ$, so 
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Tangent Property**.
+By Tangent Property.
 
 $l_1\perp AB$ and $l_2\perp AB$, so $l_1\parallel l_2$. $\blacksquare$
 
@@ -95,7 +72,7 @@ $l_1\perp AB$ and $l_2\perp AB$, so $l_1\parallel l_2$. $\blacksquare$
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge** and **Basic Knowledge: Perpendicular Chord Theorem**.
+By Basic Knowledge and Perpendicular Chord Theorem.
 
 $OP\perp AB$; by the perpendicular chord theorem, $P$ bisects $AB$, so $AP=BP$. $\blacksquare$
 
@@ -105,7 +82,7 @@ $OP\perp AB$; by the perpendicular chord theorem, $P$ bisects $AB$, so $AP=BP$. 
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge: Tangent-Length Theorem**.
+By Tangent-Length Theorem.
 
 $PA=PB$ and $OA\perp PA$, so $\angle PAB=90^\circ-25^\circ=65^\circ$. $\angle PBA=\angle PAB=65^\circ$, so $\angle P=180^\circ-130^\circ=50^\circ$. $\blacksquare$
 
@@ -119,7 +96,7 @@ $PA=PB$ and $OA\perp PA$, so $\angle PAB=90^\circ-25^\circ=65^\circ$. $\angle PB
 
 ### Solution to Exercise 7
 
-By **Basic Knowledge: Tangent-Length Theorem**.
+By Tangent-Length Theorem.
 
 (1) $OA\perp PA$, $OB\perp PB$, $OP\perp AB$.
 
@@ -137,7 +114,7 @@ By **Basic Knowledge: Tangent-Length Theorem**.
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Position-Relation Criterion**.
+By Position-Relation Criterion.
 
 $AB=5$, and the distance from $C$ to $AB$ is $d=\frac{AC\cdot BC}{AB}=\frac{12}{5}=2.4$.
 
@@ -157,7 +134,7 @@ $AB=5$, and the distance from $C$ to $AB$ is $d=\frac{AC\cdot BC}{AB}=\frac{12}{
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Tangent Property**.
+By Tangent Property.
 
 (1) $VT=\sqrt{UV^2-r^2}=\sqrt{28^2-25^2}=\sqrt{159}\approx12.6\,\text{cm}$.
 
@@ -169,7 +146,7 @@ By **Basic Knowledge: Tangent Property**.
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Tangent Criterion**.
+By Tangent Criterion.
 
 Join $OC$. $OA=OB$ and $CA=CB$, so $OC\perp AB$ (the three-line coincidence in an isosceles triangle). $C$ lies on the circle, so $AB$ is a tangent. $\blacksquare$
 
@@ -179,7 +156,7 @@ Join $OC$. $OA=OB$ and $CA=CB$, so $OC\perp AB$ (the three-line coincidence in a
 
 ### Solution to Problem 4
 
-By **Basic Knowledge** and **Basic Knowledge**.
+By Basic Knowledge and Basic Knowledge.
 
 $BC$ is a tangent, so $BC\perp AB$. $AD=DC$, and in $\text{Rt}\triangle ABC$, $D$ is the midpoint of $AC$, so $BD=AD=DC$, and $\triangle ABD$ is isosceles. Also $AB$ is a diameter, so $\angle ADB=90^\circ$, and hence $\angle ABD=45^\circ$. $\blacksquare$
 
@@ -189,7 +166,7 @@ $BC$ is a tangent, so $BC\perp AB$. $AD=DC$, and in $\text{Rt}\triangle ABC$, $D
 
 ### Solution to Problem 5
 
-By **Basic Knowledge: Tangent-Length Theorem**.
+By Tangent-Length Theorem.
 
 $\angle BCE=35^\circ$, and the angle between a tangent and a chord equals the inscribed angle subtended, so $\angle BAC=35^\circ$. $\angle P=180^\circ-2\times\left(90^\circ-35^\circ\right)=70^\circ$. $\blacksquare$
 
@@ -199,7 +176,7 @@ $\angle BCE=35^\circ$, and the angle between a tangent and a chord equals the in
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Tangent Criterion**.
+By Tangent Criterion.
 
 Join $OB$. From the related calculation of $\angle BOC=2\angle BDC=2\left(180^\circ-\angle A-\angle C\right)$: $\angle OBC=\angle C=27^\circ$, and $\angle ABO=180^\circ-36^\circ-27^\circ-27^\circ=90^\circ$, so $AB\perp OB$, and $AB$ is a tangent. $\blacksquare$
 
@@ -209,7 +186,7 @@ Join $OB$. From the related calculation of $\angle BOC=2\angle BDC=2\left(180^\c
 
 ### Solution to Problem 7
 
-By **Basic Knowledge: Tangent Property**.
+By Tangent Property.
 
 The two walls are mutually perpendicular tangent lines, and the distance from the center to each wall equals the radius $r$. $WY$ is the horizontal projection of the distance from the center to the wall corner, so $r=WY=0.65\,\text{m}$. $\blacksquare$
 
@@ -219,7 +196,7 @@ The two walls are mutually perpendicular tangent lines, and the distance from th
 
 ### Solution to Problem 8
 
-By **Basic Knowledge: Tangent-Length Theorem**.
+By Tangent-Length Theorem.
 
 $BO$ bisects $\angle ABC$, and $CO$ bisects $\angle BCD$. $AB\parallel CD$, so $\angle ABC+\angle BCD=180^\circ$, hence $\angle OBC+\angle OCB=90^\circ$ and $\angle BOC=90^\circ$. $BC=\sqrt{6^2+8^2}=10$. $\blacksquare$
 
@@ -229,7 +206,7 @@ $BO$ bisects $\angle ABC$, and $CO$ bisects $\angle BCD$. $AB\parallel CD$, so $
 
 ### Solution to Problem 9
 
-By **Basic Knowledge: Tangent Property**.
+By Tangent Property.
 
 Join $OC$. $OC\perp CD$ and $AD\perp CD$, so $OC\parallel AD$. $\angle DAC=\angle OCA=\angle OAC$, so $AC$ bisects $\angle DAB$. $\blacksquare$
 
@@ -239,7 +216,7 @@ Join $OC$. $OC\perp CD$ and $AD\perp CD$, so $OC\parallel AD$. $\angle DAC=\angl
 
 ### Solution to Problem 10
 
-By **Basic Knowledge** and **Basic Knowledge**.
+By Basic Knowledge and Basic Knowledge.
 
 $DP\parallel AC$, so $\angle PDB=\angle BAC=38^\circ$. $DP$ is a tangent, and the tangent-chord angle gives $\angle BDP=\angle BAD=38^\circ$. From the related calculation of $\angle ACD=\angle ABD$, we get $\angle ACD=26^\circ$. $\blacksquare$
 
@@ -249,7 +226,7 @@ $DP\parallel AC$, so $\angle PDB=\angle BAC=38^\circ$. $DP$ is a tangent, and th
 
 ### Solution to Problem 11
 
-By **Basic Knowledge: Tangent Criterion**.
+By Tangent Criterion.
 
 Join $OE$ and $AE$. $AB$ is a diameter, so $\angle AEB=90^\circ$; $D$ is the midpoint of the hypotenuse $AC$ of $\text{Rt}\triangle AEC$, so $DE=DA=DC$. $OE=OA$, $OD$ is common, and $\triangle ODE\cong\triangle ODA$, so $\angle OED=\angle OAD=90^\circ$, and hence $DE$ is a tangent. $\blacksquare$
 
@@ -259,7 +236,7 @@ Join $OE$ and $AE$. $AB$ is a diameter, so $\angle AEB=90^\circ$; $D$ is the mid
 
 ### Solution to Problem 12
 
-By **Basic Knowledge: Inscribed Angle Theorem**.
+By Inscribed Angle Theorem.
 
 The two equal circles have equal radii, so $O_1O_2=r$. $\triangle O_1AO_2$ is equilateral, so $\angle O_1AO_2=60^\circ$. $AB\perp O_1O_2$, so $\angle O_1AB=30^\circ$. $\blacksquare$
 

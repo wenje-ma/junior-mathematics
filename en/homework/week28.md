@@ -1,77 +1,5 @@
 # week28
 
-> **Basic Knowledge: Solid Figure**
-> 
-> A geometric figure whose parts do not all lie in the same plane is called a solid figure.
-
-> **Basic Knowledge: Plane Figure**
-> 
-> A geometric figure whose parts all lie in the same plane is called a plane figure.
-
-> **Basic Knowledge: Net**
-> 
-> The plane figure obtained by cutting open the surface of a solid figure is called its net.
-
-> **Basic Knowledge: Points, Lines, Planes, and Solids**
-> 
-> Surfaces enclose a solid; planes intersect to form lines; lines intersect to form points.
-
-> **Basic Knowledge: Line**
-> 
-> Two points determine a line.
-
-> **Basic Knowledge: Basic Fact about Segments**
-> 
-> Between two points, the segment is the shortest.
-
-> **Basic Knowledge: Distance**
-> 
-> The length of the segment joining two points is called the distance between them.
-
-> **Basic Knowledge: Midpoint of a Segment**
-> 
-> If a point $M$ divides segment $AB$ into two equal segments, $M$ is called the midpoint of $AB$.
-
-> **Basic Knowledge: Angle**
-> 
-> The figure formed by two rays with a common endpoint is called an angle.
-
-> **Basic Knowledge: Measuring Angles**
-> 
-> $1^{\circ}=60'$, $1'=60''$.
-
-> **Basic Knowledge: Angle Bisector**
-> 
-> A ray starting from the vertex of an angle that divides the angle into two equal angles is called the angle bisector.
-
-> **Basic Knowledge: Complementary Angle**
-> 
-> If the sum of two angles equals $90^{\circ}$, they are complementary to each other.
-
-> **Basic Knowledge: Supplementary Angle**
-> 
-> If the sum of two angles equals $180^{\circ}$, they are supplementary to each other.
-
-> **Basic Knowledge: Properties of Complementary and Supplementary Angles**
-> 
-> Complements of the same angle (or of equal angles) are equal; supplements of the same angle (or of equal angles) are equal.
-
-> **Basic Knowledge: A Moving Plane Forms a Solid**
-> 
-> A plane moving through space forms a solid, e.g. a rectangle rotating about one side forms a cylinder.
-> **Basic Knowledge: Properties of Supplementary Angles**
-> 
-> Supplements of the same angle or of equal angles are equal.
-> **Basic Knowledge: Ray and Segment**
-> 
-> A ray is the part of a line starting from one endpoint; a segment is the part between two endpoints.
-> **Basic Knowledge: between two points the segment is the shortest**
-> 
-> Among all paths connecting two points, the line segment is the shortest.
-> **Basic Knowledge: supplements of the same angle are equal**
-> 
-> Supplements of the same angle are equal.
-
 ---
 
 ## Review Problem 1
@@ -80,10 +8,9 @@
 
 ### Solution to Review Problem 1
 
-By **Basic Knowledge: Solid Figure** and **Basic Knowledge: Plane Figure**, determine the names from the features of the figures.
+By Solid Figure and Plane Figure, determine the names from the features of the figures.
 
 The figures in the picture, from left to right, are: cube (six square faces), rectangular prism (six rectangular faces), cylinder (two circles plus a curved surface), cone (one circle plus a curved surface), sphere (entirely curved surface), quadrangular pyramid (one quadrilateral base plus four triangular side faces), and triangular prism (two triangular bases plus three rectangular side faces). $\blacksquare$
-
 
 ---
 
@@ -93,12 +20,11 @@ The figures in the picture, from left to right, are: cube (six square faces), re
 
 ### Solution to Review Problem 2
 
-By **Basic Knowledge: Plane Figure**, looking down at each object gives the corresponding plane figure.
+By Plane Figure, looking down at each object gives the corresponding plane figure.
 
 In the figure, object $A$ is an L-shaped stack of three cubes; from above two adjacent squares are seen, i.e. figure $b$ (square). Object $B$ is a kettle with a handle; from above a circular spout plus the outline of the handle on both sides is seen, i.e. figure $e$ (large circle with protrusions on two sides). Object $C$ is a spring; from above a hollow ring is seen, i.e. figure $d$ (small circle). Object $D$ is a packaging box; from above a rectangle is seen, i.e. figure $c$ (rectangle). Object $E$ is an hourglass-shaped cylinder; from above a circle is seen, i.e. figure $a$ (circle).
 
 The corresponding connections: $A\to b$, $B\to e$, $C\to d$, $D\to c$, $E\to a$. $\blacksquare$
-
 
 ---
 
@@ -108,14 +34,13 @@ The corresponding connections: $A\to b$, $B\to e$, $C\to d$, $D\to c$, $E\to a$.
 
 ### Solution to Review Problem 3
 
-By **Basic Knowledge: Plane Figure**, view each solid from three directions.
+By Plane Figure, view each solid from three directions.
 
 (1) Cube: a square from all three directions.
 
 (2) Cylinder: a rectangle from the front and left, a circle from above.
 
 (3) Cone: an isosceles triangle from the front and left, a circle with its center from above. $\blacksquare$
-
 
 ---
 
@@ -133,7 +58,7 @@ By **Basic Knowledge: Plane Figure**, view each solid from three directions.
 
 ### Solution to Review Problem 4
 
-By **Basic Knowledge: Line** and **Basic Knowledge: Ray and Segment**.
+By Line and Ray and Segment.
 
 (1) Draw a line through $A$, $B$, extending in both directions.
 
@@ -147,7 +72,6 @@ In the figure there are four points $A$, $B$, $C$, $D$: draw line $AB$ through $
 
 $\blacksquare$
 
-
 ---
 
 ## Review Problem 5
@@ -156,7 +80,7 @@ $\blacksquare$
 
 ### Solution to Review Problem 5
 
-By **Basic Knowledge: Basic Fact about Segments** and the sum-and-difference relations among segments.
+By Basic Fact about Segments and the sum-and-difference relations among segments.
 
 The points $A$, $B$, $C$, $D$ lie in that order on the same line (as shown in the figure).
 
@@ -165,7 +89,6 @@ $$AB=AD-BD=76-70=6\ \text{mm}.$$
 $$BC=BD-CD=70-19=51\ \text{mm}.$$
 
 $\blacksquare$
-
 
 ---
 
@@ -181,14 +104,13 @@ $\blacksquare$
 
 ### Solution to Review Problem 6
 
-By **Basic Knowledge: Measuring Angles**, **Basic Knowledge: Complementary Angle**, and **Basic Knowledge: Supplementary Angle**.
+By Measuring Angles, Complementary Angle, and Supplementary Angle.
 
 (1) At $6$ o'clock and $20$ minutes: the minute hand is at $20\times6^{\circ}=120^{\circ}$. The hour hand is at $6\times30^{\circ}+20\times0.5^{\circ}=180^{\circ}+10^{\circ}=190^{\circ}$. The angle $=\left|190^{\circ}-120^{\circ}\right|=70^{\circ}$.
 
 (2) $33^{\circ}12'\times6=198^{\circ}72'=199^{\circ}12'$. $121^{\circ}\div3=40.333^{\circ}=40^{\circ}20'$.
 
 (3) Complement $=90^{\circ}-55^{\circ}17'=89^{\circ}60'-55^{\circ}17'=34^{\circ}43'$. Supplement $=180^{\circ}-55^{\circ}17'=179^{\circ}60'-55^{\circ}17'=124^{\circ}43'$. $\blacksquare$
-
 
 ---
 
@@ -206,16 +128,15 @@ By **Basic Knowledge: Measuring Angles**, **Basic Knowledge: Complementary Angle
 
 ### Solution to Review Problem 7
 
-By **Basic Knowledge: Measuring Angles**, **Basic Knowledge: Supplementary Angle**, and **Basic Knowledge: Properties of Supplementary Angles**.
+By Measuring Angles, Supplementary Angle, and Properties of Supplementary Angles.
 
 (1) $37.5^{\circ}=37^{\circ}30'$. $37^{\circ}28'< 37^{\circ}30'$, so false.
 
-(2) By **Basic Knowledge: supplements of the same angle are equal**, true.
+(2) By supplements of the same angle are equal, true.
 
 (3) If the angle is obtuse (e.g. $120^{\circ}$), its supplement is $60^{\circ}$, smaller than the original angle, so false.
 
 (4) The acute angle $30^{\circ}$ and obtuse angle $100^{\circ}$ sum to $130^{\circ}\ne180^{\circ}$, so false. $\blacksquare$
-
 
 ---
 
@@ -225,14 +146,13 @@ By **Basic Knowledge: Measuring Angles**, **Basic Knowledge: Supplementary Angle
 
 ### Solution to Review Problem 8
 
-By **Basic Knowledge: Plane Figure**, reconstruct the solid from its three views.
+By Plane Figure, reconstruct the solid from its three views.
 
 In the figure: the front view is a rectangle, the left view is a circle, and the top view is a rectangle. The front and top views are both rectangles while the left view is a circle; this is the three-view drawing of a horizontally placed cylinder (its axis runs left-to-right). Hence the solid is a cylinder.
 
 The figure shows the three views of a solid: the front view is a rectangle, the left view is a circle, and the top view is a rectangle (the three-view drawing of a horizontally placed cylinder).
 
 $\blacksquare$
-
 
 ---
 
@@ -242,10 +162,9 @@ $\blacksquare$
 
 ### Solution to Review Problem 9
 
-By **Basic Knowledge: Net** and **Basic Knowledge: between two points the segment is the shortest**.
+By Net and between two points the segment is the shortest.
 
 The lateral surface of the cylinder unfolds into a rectangle. Positions of $A$ and $C$ on the net: $A$ lies on one side of the rectangle, and $C$ lies at the corresponding position on the opposite side. The shortest path on the net is the straight segment joining $A$ and $C$. Since the wire loops once around the cylinder, $C$ has two symmetric positions on the net, and the shortest path is the diagonal of the rectangle. $\blacksquare$
-
 
 ---
 
@@ -255,7 +174,7 @@ The lateral surface of the cylinder unfolds into a rectangle. Positions of $A$ a
 
 ### Solution to Review Problem 10
 
-By **Basic Knowledge: A Moving Plane Forms a Solid**.
+By A Moving Plane Forms a Solid.
 
 The three motions in the top row: (1) translate the triangle upward along the arrow, (2) rotate the triangle one full turn about line $l$, (3) rotate the triangle one full turn about line $a$. The three solids in the bottom row: a cone, a double-cone combination, and a prism.
 
@@ -267,7 +186,6 @@ The three motions in the top row: (1) translate the triangle upward along the ar
 
 Corresponding connections: translation $\to$ prism, rotation about $l$ $\to$ cone, rotation about $a$ $\to$ double-cone combination. $\blacksquare$
 
-
 ---
 
 ## Review Problem 11
@@ -276,7 +194,7 @@ Corresponding connections: translation $\to$ prism, rotation about $l$ $\to$ con
 
 ### Solution to Review Problem 11
 
-By **Basic Knowledge: Angle Bisector** and the properties of folding.
+By Angle Bisector and the properties of folding.
 
 After folding, $EM$ is the bisector of $\angle BEB'$, and $EN$ is the bisector of $\angle AEA'$.
 
@@ -294,7 +212,6 @@ $$\angle NEM=\frac{1}{2}\times180^{\circ}=90^{\circ}.$$
 
 $\blacksquare$
 
-
 ---
 
 ## Review Problem 12
@@ -303,10 +220,9 @@ $\blacksquare$
 
 ### Solution to Review Problem 12
 
-By **Basic Knowledge: Angle**, taking the main entrance as the observation point, describe directions by the angle each attraction makes with true north.
+By Angle, taking the main entrance as the observation point, describe directions by the angle each attraction makes with true north.
 
 In the zoo map, the main entrance lies slightly left of center. Monkey Hill is north-by-west of the entrance; the Elephant House is southeast of Monkey Hill, i.e. north-by-east of the entrance; the Lion-Tiger Park is south-by-west of the entrance; Ocean World is south-by-east of the entrance. Hence, taking the entrance as observation point: Monkey Hill is north-by-west, the Elephant House is north-by-east, the Lion-Tiger Park is south-by-west, and Ocean World is south-by-east. $\blacksquare$
-
 
 ---
 
@@ -316,14 +232,13 @@ In the zoo map, the main entrance lies slightly left of center. Monkey Hill is n
 
 ### Solution to Review Problem 13
 
-By **Basic Knowledge: Midpoint of a Segment** and **Basic Knowledge: Angle**.
+By Midpoint of a Segment and Angle.
 
 For the quadrilateral $EFGH$ formed by joining the midpoints, measurement shows: $EF=GH$, $FG=HE$, i.e. opposite sides are equal. Also $\angle 1=\angle 3$, $\angle 2=\angle 4$, i.e. opposite angles are equal. Thus one may conjecture: the quadrilateral formed by joining the midpoints of any quadrilateral is a parallelogram.
 
 In the figure, the midpoints of the four sides of quadrilateral $ABCD$ are $E$, $F$, $G$, $H$ respectively; joining $E$, $F$, $G$, $H$ in order forms quadrilateral $EFGH$.
 
 $\blacksquare$
-
 
 ---
 
@@ -333,7 +248,7 @@ $\blacksquare$
 
 ### Solution to Review Problem 14
 
-By **Basic Knowledge: between two points the segment is the shortest**.
+By between two points the segment is the shortest.
 
 Let $O$ be any point inside the quadrilateral; then
 

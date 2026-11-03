@@ -1,25 +1,5 @@
 # week61
 
-> **基础知识: 三角形**
-> 
-> 由不在同一条直线上的三条线段首尾顺次相接所组成的图形叫作三角形.
-
-> **基础知识: 边, 顶点与内角**
-> 
-> 组成三角形的线段叫作三角形的边, 相邻两边的公共端点叫作三角形的顶点, 相邻两边所组成的角叫作三角形的内角, 简称三角形的角. 顶点是 $A,B,C$ 的三角形记作 $\triangle ABC$.
-
-> **基础知识: 等腰三角形**
-> 
-> 有两边相等的三角形叫作等腰三角形, 其中相等的两边叫作腰, 另一边叫作底边, 两腰的夹角叫作顶角, 腰和底边的夹角叫作底角.
-
-> **基础知识: 等边三角形**
-> 
-> 三边都相等的三角形叫作等边三角形, 等边三角形是特殊的等腰三角形.
-
-> **基础知识: 三角形按边的分类**
-> 
-> 按边的相等关系, 三角形先分为三边都不相等的三角形和等腰三角形, 等腰三角形再分为底边和腰不相等的等腰三角形和等边三角形.
-
 ---
 
 ## 练习一
@@ -30,14 +10,13 @@
 
 ### 解答 练习一
 
-由**基础知识: 等腰三角形**, 有两边相等的三角形是等腰三角形; 由**基础知识: 等边三角形**, 三边都相等的三角形是等边三角形.
+由等腰三角形, 有两边相等的三角形是等腰三角形; 由等边三角形, 三边都相等的三角形是等边三角形.
 
 图中的三角形为 $\triangle ABC$, $\triangle OAB$, $\triangle OBC$, $\triangle OCA$.
 
 由 $AB=BC=CA$, 知 $\triangle ABC$ 三边都相等, 故 $\triangle ABC$ 是等边三角形. 又由 $OA=OB$, 知 $\triangle OAB$ 是等腰三角形; 由 $OB=OC$, 知 $\triangle OBC$ 是等腰三角形; 由 $OC=OA$, 知 $\triangle OCA$ 是等腰三角形.
 
 故等腰三角形为 $\triangle OAB$, $\triangle OBC$, $\triangle OCA$, 等边三角形为 $\triangle ABC$. $\blacksquare$
-
 
 ---
 
@@ -59,7 +38,6 @@ $\triangle ABE$ 中, $\angle ABE=\angle ABC$ 为锐角 ($\triangle ABC$ 为直�
 
 综上, 直角三角形为 $\triangle ABC$, $\triangle ABD$, $\triangle ADE$, $\triangle ADC$; 锐角三角形为 $\triangle ABE$; 钝角三角形为 $\triangle AEC$. $\blacksquare$
 
-
 ---
 
 ## 习题一
@@ -74,7 +52,6 @@ $\triangle ABE$ 中, $\angle ABE=\angle ABC$ 为锐角 ($\triangle ABC$ 为直�
 
 故以 $\angle A$ 为角的三角形是 $\triangle ABC$, $\triangle ABE$; 以 $BC$ 为边的三角形是 $\triangle ABC$, $\triangle BEC$, $\triangle BCD$. $\blacksquare$
 
-
 ---
 
 ## 习题二
@@ -88,7 +65,6 @@ $\triangle ABE$ 中, $\angle ABE=\angle ABC$ 为锐角 ($\triangle ABC$ 为直�
 右图中, 点 $B,D,E,C$ 在同一条直线上, 点 $A$ 为该直线外一点, 且 $AB$, $AD$, $AE$, $AC$ 均已画出. 任取直线 $BC$ 上两点与点 $A$ 即可构成一个三角形, 共 $\binom{4}{2}=6$ 个.
 
 它们是 $\triangle ABC$, $\triangle ABD$, $\triangle ABE$, $\triangle ADE$, $\triangle ADC$, $\triangle AEC$. 故图中共有 $6$ 个三角形. $\blacksquare$
-
 
 ---
 
@@ -112,7 +88,6 @@ $\triangle ABE$ 中, $\angle ABE=\angle ABC$ 为锐角 ($\triangle ABC$ 为直�
 
 综上, 直角三角形为 $\triangle ABD$, $\triangle ADE$, $\triangle ADC$, $\triangle AEF$, $\triangle EFC$; 钝角三角形为 $\triangle ABC$, $\triangle AEC$; 锐角三角形为 $\triangle ABE$. $\blacksquare$
 
-
 ---
 
 ## 习题四
@@ -123,12 +98,11 @@ $\triangle ABE$ 中, $\angle ABE=\angle ABC$ 为锐角 ($\triangle ABC$ 为直�
 
 ### 解答 习题四
 
-由**基础知识: 等腰三角形** 及**基础知识: 等边三角形**, 图中的三角形为 $\triangle ABC$ 与 $\triangle ADC$, 它们以 $AC$ 为公共边, 顶点分别在 $AC$ 两侧.
+由等腰三角形 及等边三角形, 图中的三角形为 $\triangle ABC$ 与 $\triangle ADC$, 它们以 $AC$ 为公共边, 顶点分别在 $AC$ 两侧.
 
 由 $AB=BC=AC$, 知 $\triangle ABC$ 三边相等, 是等边三角形; 由 $AD=DC=AC$, 知 $\triangle ADC$ 三边相等, 也是等边三角形.
 
 故等腰三角形为 $\triangle ABC$, $\triangle ADC$; 等边三角形为 $\triangle ABC$, $\triangle ADC$. $\blacksquare$
-
 
 ---
 

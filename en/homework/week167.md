@@ -1,31 +1,6 @@
 # week167
 
-> **Basic Knowledge: Sine**
-> 
-> In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the opposite side to the hypotenuse of the acute angle $A$ the sine of $\angle A$, denoted $\sin A$, i.e.
-> $$\sin A=\frac{\angle A\text{ 的对边}}{\text{斜边}}=\frac{a}{c}.$$
-> **Basic Knowledge: Cosine**
-> 
-> In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the adjacent side to the hypotenuse of the acute angle $A$ the cosine of $\angle A$, denoted $\cos A$, i.e.
-> $$\cos A=\frac{\angle A\text{ 的邻边}}{\text{斜边}}=\frac{b}{c}.$$
-> **Basic Knowledge: Tangent**
-> 
-> In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the opposite side to the adjacent side of the acute angle $A$ the tangent of $\angle A$, denoted $\tan A$, i.e.
-> $$\tan A=\frac{\angle A\text{ 的对边}}{\angle A\text{ 的邻边}}=\frac{a}{b}.$$
-> The sine, cosine, and tangent of $\angle A$ are all trigonometric functions of the acute angle $\angle A$.
-> **Basic Knowledge: Determinacy of Acute Angle Trigonometric Function Values**
-> 
-> In $\text{Rt}\triangle ABC$, when the measure of the acute angle $A$ is fixed, regardless of the size of the right triangle, the ratio of the opposite side to the hypotenuse, the ratio of the adjacent side to the hypotenuse, and the ratio of the opposite side to the adjacent side of $\angle A$ are all fixed values.
-> **Basic Knowledge: Trigonometric Function Values of Special Angles**
-> 
-> The values of sine, cosine and tangent for special angles: $\sin 30^{\circ}=\frac{1}{2}$, $\cos 30^{\circ}=\frac{\sqrt{3}}{2}$, $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$; $\sin 45^{\circ}=\frac{\sqrt{2}}{2}$, $\cos 45^{\circ}=\frac{\sqrt{2}}{2}$, $\tan 45^{\circ}=1$; $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$, $\cos 60^{\circ}=\frac{1}{2}$, $\tan 60^{\circ}=\sqrt{3}$.
-> | Acute angle $A$ | $30^{\circ}$ | $45^{\circ}$ | $60^{\circ}$ |
-> |---|---|---|---|
-> | $\sin A$ | $\frac{1}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ |
-> | $\cos A$ | $\frac{\sqrt{3}}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{1}{2}$ |
-> | $\tan A$ | $\frac{\sqrt{3}}{3}$ | $1$ | $\sqrt{3}$ |
 ---
-
 
 ## Exercise 1
 
@@ -37,7 +12,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Sine**, $\sin A$ equals the ratio of the opposite side to the hypotenuse of $\angle A$, and $\sin B$ equals the ratio of the opposite side to the hypotenuse of $\angle B$.
+By Sine, $\sin A$ equals the ratio of the opposite side to the hypotenuse of $\angle A$, and $\sin B$ equals the ratio of the opposite side to the hypotenuse of $\angle B$.
 
 (1) In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, $AC=5$, $BC=3$. By the Pythagorean theorem,
 
@@ -61,7 +36,7 @@ $$\sin A=\frac{BC}{AB}=\frac{2}{\sqrt{5}}=\frac{2\sqrt{5}}{5},\quad \sin B=\frac
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Trigonometric Function Values of Special Angles**, $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$.
+By Trigonometric Function Values of Special Angles, $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$.
 
 Thus $\sin A=\sin 60^{\circ}=\frac{\sqrt{3}}{2}$. $\blacksquare$
 
@@ -75,7 +50,7 @@ Thus $\sin A=\sin 60^{\circ}=\frac{\sqrt{3}}{2}$. $\blacksquare$
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Sine**, **Basic Knowledge: Cosine**, and **Basic Knowledge: Tangent**, first use the Pythagorean theorem to find the unknown side, then substitute into the definitions.
+By Sine, Cosine, and Tangent, first use the Pythagorean theorem to find the unknown side, then substitute into the definitions.
 
 (1) In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, $AB=13$, $AC=12$, so
 
@@ -103,9 +78,9 @@ $$\sin B=\frac{AC}{AB}=\frac{2}{\sqrt{13}}=\frac{2\sqrt{13}}{13},\quad \cos B=\f
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Determinacy of Acute Angle Trigonometric Function Values**, the trigonometric function values of an acute angle depend only on the size of the angle, not on the side lengths of the right triangle.
+By Determinacy of Acute Angle Trigonometric Function Values, the trigonometric function values of an acute angle depend only on the size of the angle, not on the side lengths of the right triangle.
 
-After each side length is enlarged to $2$ times the original, the ratio of the three sides of the new triangle to the original is unchanged, i.e. the two triangles are similar, so the size of $\angle A$ is unchanged. By **Basic Knowledge**, **Basic Knowledge**, and **Basic Knowledge**, $\sin A$, $\cos A$, $\tan A$ are each the ratio of two sides; after all sides are multiplied by $2$, the ratios are unchanged, so the sine, cosine, and tangent of $\angle A$ all remain unchanged. $\blacksquare$
+After each side length is enlarged to $2$ times the original, the ratio of the three sides of the new triangle to the original is unchanged, i.e. the two triangles are similar, so the size of $\angle A$ is unchanged. By Basic Knowledge, Basic Knowledge, and Basic Knowledge, $\sin A$, $\cos A$, $\tan A$ are each the ratio of two sides; after all sides are multiplied by $2$, the ratios are unchanged, so the sine, cosine, and tangent of $\angle A$ all remain unchanged. $\blacksquare$
 
 ## Exercise 5
 
@@ -119,7 +94,7 @@ After each side length is enlarged to $2$ times the original, the ratio of the t
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Trigonometric Function Values of Special Angles**, substitute the function values of the special angles and compute.
+By Trigonometric Function Values of Special Angles, substitute the function values of the special angles and compute.
 
 (1) Substituting $\sin 30^{\circ}=\frac{1}{2}$, $\cos 30^{\circ}=\frac{\sqrt{3}}{2}$:
 
@@ -139,9 +114,9 @@ $$\left(\cos^{2}30^{\circ}+\sin^{2}30^{\circ}\right)\times\tan 60^{\circ}=1\time
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge: Tangent**, $\tan A=\frac{BC}{AC}=\frac{\sqrt{7}}{\sqrt{21}}=\frac{\sqrt{7}}{\sqrt{3}\cdot\sqrt{7}}=\frac{1}{\sqrt{3}}=\frac{\sqrt{3}}{3}$.
+By Tangent, $\tan A=\frac{BC}{AC}=\frac{\sqrt{7}}{\sqrt{21}}=\frac{\sqrt{7}}{\sqrt{3}\cdot\sqrt{7}}=\frac{1}{\sqrt{3}}=\frac{\sqrt{3}}{3}$.
 
-By **Basic Knowledge: Trigonometric Function Values of Special Angles**, $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$, so $\angle A=30^{\circ}$.
+By Trigonometric Function Values of Special Angles, $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$, so $\angle A=30^{\circ}$.
 
 Also, since the two acute angles are complementary, $\angle B=90^{\circ}-\angle A=60^{\circ}$. $\blacksquare$
 
@@ -195,7 +170,7 @@ Using a calculator to find the inverse trigonometric functions:
 
 ### Solution to Problem 1
 
-By **Basic Knowledge**, **Basic Knowledge**, and **Basic Knowledge**, first use the Pythagorean theorem to find the unknown side, then substitute.
+By Basic Knowledge, Basic Knowledge, and Basic Knowledge, first use the Pythagorean theorem to find the unknown side, then substitute.
 
 (1) $AC=\sqrt{AB^{2}-BC^{2}}=\sqrt{36-4}=\sqrt{32}=4\sqrt{2}$. Thus
 
@@ -221,7 +196,7 @@ $$\sin B=\frac{AC}{AB}=\frac{\sqrt{3}}{3},\ \cos B=\frac{BC}{AB}=\frac{\sqrt{6}}
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Determinacy of Acute Angle Trigonometric Function Values**, when the measure of the acute angle $A$ is fixed, regardless of the size of the right triangle, the ratio of the opposite side to the hypotenuse, the ratio of the adjacent side to the hypotenuse, and the ratio of the opposite side to the adjacent side of $\angle A$ are all fixed values.
+By Determinacy of Acute Angle Trigonometric Function Values, when the measure of the acute angle $A$ is fixed, regardless of the size of the right triangle, the ratio of the opposite side to the hypotenuse, the ratio of the adjacent side to the hypotenuse, and the ratio of the opposite side to the adjacent side of $\angle A$ are all fixed values.
 
 Thus when $\angle A$ is determined, $\sin A$, $\cos A$, and $\tan A$ are all uniquely determined accordingly. $\blacksquare$
 
@@ -239,7 +214,7 @@ Thus when $\angle A$ is determined, $\sin A$, $\cos A$, and $\tan A$ are all uni
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Trigonometric Function Values of Special Angles**, substitute and compute.
+By Trigonometric Function Values of Special Angles, substitute and compute.
 
 (1) $\sin 45^{\circ}=\frac{\sqrt{2}}{2}$, so the expression $=\frac{\sqrt{2}}{2}+\frac{\sqrt{2}}{2}=\sqrt{2}$.
 
@@ -261,7 +236,7 @@ By **Basic Knowledge: Trigonometric Function Values of Special Angles**, substit
 
 ### Solution to Problem 4
 
-Use the Pythagorean theorem to find the unknown side, then compute using **Basic Knowledge**, **Basic Knowledge**, and **Basic Knowledge**.
+Use the Pythagorean theorem to find the unknown side, then compute using Basic Knowledge, Basic Knowledge, and Basic Knowledge.
 
 (1) $AB=\sqrt{1.7^{2}+2.4^{2}}=\sqrt{2.89+5.76}=\sqrt{8.65}\approx 2.941$. Thus
 
@@ -311,7 +286,7 @@ The figure shows right triangle $ABC$ with $\angle ACB=90^\circ$, and $CD$ is th
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Sine**, in $\text{Rt}\triangle ABC$, $\sin A=\frac{CB}{AB}$, so (C) equals $\sin A$.
+By Sine, in $\text{Rt}\triangle ABC$, $\sin A=\frac{CB}{AB}$, so (C) equals $\sin A$.
 
 In $\text{Rt}\triangle ACD$, $\angle ADC=90^{\circ}$, $\sin A=\frac{CD}{AC}$, so (A) equals $\sin A$.
 
@@ -329,11 +304,11 @@ The figure shows an A-frame (isosceles triangle) steel frame $ABC$, with middle 
 
 The steel frame is the isosceles triangle $ABC$, with $CD$ as the center post, $CD\perp AB$, $CD=3.5\ \text{m}$, $\angle A=\angle B=32^{\circ}$, $AD=DB$.
 
-In $\text{Rt}\triangle ACD$, by **Basic Knowledge: Sine**,
+In $\text{Rt}\triangle ACD$, by Sine,
 
 $$\sin A=\frac{CD}{AC}\implies AC=\frac{CD}{\sin 32^{\circ}}=\frac{3.5}{\sin 32^{\circ}}\approx\frac{3.5}{0.5299}\approx 6.605\ \text{m}.$$
 
-By **Basic Knowledge: Tangent**,
+By Tangent,
 
 $$\tan A=\frac{CD}{AD}\implies AD=\frac{CD}{\tan 32^{\circ}}=\frac{3.5}{\tan 32^{\circ}}\approx\frac{3.5}{0.6249}\approx 5.601\ \text{m}.$$
 
@@ -349,7 +324,7 @@ The figure shows parallelogram board $ABCD$ with adjacent sides $AB=62.31\ \text
 
 In parallelogram $ABCD$, $AB=62.31\ \text{cm}$, $AD=35.24\ \text{cm}$, $\angle A=35^{\circ}40'$.
 
-Draw $DE\perp AB$ through $D$, with foot $E$. In $\text{Rt}\triangle ADE$, by **Basic Knowledge: Sine**,
+Draw $DE\perp AB$ through $D$, with foot $E$. In $\text{Rt}\triangle ADE$, by Sine,
 
 $$DE=AD\cdot\sin A=35.24\times\sin 35^{\circ}40'.$$
 
@@ -373,7 +348,7 @@ As the measure of the acute angle $A$ continuously increases, what is the trend 
 
 Using a calculator: $\sin 15^{\circ}\approx 0.259$, $\sin 18^{\circ}\approx 0.309$, $\sin 20^{\circ}\approx 0.342$, $\sin 22^{\circ}\approx 0.375$, $\sin 80^{\circ}\approx 0.985$, $\sin 82^{\circ}\approx 0.990$, $\sin 84^{\circ}\approx 0.995$; $\cos 15^{\circ}\approx 0.966$, $\cos 18^{\circ}\approx 0.951$, $\cos 20^{\circ}\approx 0.940$, $\cos 22^{\circ}\approx 0.927$, $\cos 80^{\circ}\approx 0.174$, $\cos 82^{\circ}\approx 0.139$, $\cos 84^{\circ}\approx 0.105$; $\tan 15^{\circ}\approx 0.268$, $\tan 18^{\circ}\approx 0.325$, $\tan 20^{\circ}\approx 0.364$, $\tan 22^{\circ}\approx 0.404$, $\tan 80^{\circ}\approx 5.671$, $\tan 82^{\circ}\approx 7.115$, $\tan 84^{\circ}\approx 9.514$.
 
-By **Basic Knowledge**, **Basic Knowledge**, and **Basic Knowledge**, within the range of acute angles, as the angle increases, the opposite side $a$ relatively increases and the adjacent side $b$ relatively decreases; hence $\sin A$ increases as the angle increases, $\cos A$ decreases as the angle increases, and $\tan A$ increases as the angle increases. $\blacksquare$
+By Basic Knowledge, Basic Knowledge, and Basic Knowledge, within the range of acute angles, as the angle increases, the opposite side $a$ relatively increases and the adjacent side $b$ relatively decreases; hence $\sin A$ increases as the angle increases, $\cos A$ decreases as the angle increases, and $\tan A$ increases as the angle increases. $\blacksquare$
 
 ## Problem 10
 
@@ -381,7 +356,7 @@ By **Basic Knowledge**, **Basic Knowledge**, and **Basic Knowledge**, within the
 
 ### Solution to Problem 10
 
-By **Basic Knowledge: Sine** and **Basic Knowledge: Cosine**, $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$.
+By Sine and Cosine, $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$.
 
 By the Pythagorean theorem $a^{2}+b^{2}=c^{2}$, so
 
@@ -399,7 +374,7 @@ Thus $\sin^{2}A+\cos^{2}A=1$, and $\tan A=\frac{\sin A}{\cos A}$. $\blacksquare$
 
 Let the center be $O$, the chord be $AB$, and the central angle $\angle AOB=\theta$. Draw $OC\perp AB$ at $C$; then $C$ is the midpoint of $AB$, and $\angle AOC=\frac{\theta}{2}$.
 
-In $\text{Rt}\triangle AOC$, by **Basic Knowledge: Sine**,
+In $\text{Rt}\triangle AOC$, by Sine,
 
 $$\sin\frac{\theta}{2}=\frac{AC}{OA}=\frac{l/2}{r}.$$
 

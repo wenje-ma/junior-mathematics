@@ -1,27 +1,5 @@
 # week71
 
-
-> **Basic Knowledge: SSS**
-> 
-> Two triangles are congruent if the three sides of one are equal to the three sides of the other (abbreviated as "SSS").
-> **Basic Knowledge: SAS**
-> 
-> Two triangles are congruent if two sides and the included angle of one are equal to the corresponding parts of the other (abbreviated as "SAS").
-> **Basic Knowledge: AAS**
-> 
-> Two triangles are congruent if two angles and a non-included side of one are equal to the corresponding parts of the other (abbreviated as "AAS").
-> **Basic Knowledge: HL**
-> 
-> Two right triangles are congruent if the hypotenuse and one leg of one are equal to the corresponding parts of the other (abbreviated as "HL").
-> **Basic Knowledge: Determination of an Angle Bisector**
-> 
-> A point inside an angle that is equidistant from the two sides of the angle lies on the angle bisector.
-> **Basic Knowledge: Properties of an Angle Bisector**
-> 
-> Any point on the angle bisector is equidistant from the two sides of the angle.
-> **Basic Knowledge: Angle Bisectors of a Triangle**
-> 
-> The three angle bisectors of a triangle intersect at a single point.
 ---
 
 ## Review Problem 1
@@ -31,7 +9,6 @@
 ### Solution to Review Problem 1
 
 The three squares have equal side lengths. The triangles cut out by the diagonals can be determined congruent by SAS whenever their two legs are respectively sides of the square or are equal. In the figure, all triangles bounded by equal sides and right angles are pairwise congruent: the two triangles into which one square is divided along its diagonal are congruent, and corresponding triangles with equal side lengths are also congruent. $\blacksquare$
-
 
 ---
 
@@ -49,7 +26,6 @@ The three squares have equal side lengths. The triangles cut out by the diagonal
 
 (2) Yes. Taking, for example, triangles on the same base $AD$ or $BC$ with equal heights, such as $\triangle ABF$ and $\triangle DBF$, they share the same base $BF$ and have equal heights, so their areas are equal, but their shapes are not the same; hence they have equal area but are not congruent. $\blacksquare$
 
-
 ---
 
 ## Review Problem 3
@@ -58,10 +34,9 @@ The three squares have equal side lengths. The triangles cut out by the diagonal
 
 ### Solution to Review Problem 3
 
-In $\triangle ADB$ and $\triangle AEC$, $AD=AE$, $BD=CE$, $AB=AC$; by **Basic Knowledge: SSS**, $\triangle ADB\cong\triangle AEC$.
+In $\triangle ADB$ and $\triangle AEC$, $AD=AE$, $BD=CE$, $AB=AC$; by SSS, $\triangle ADB\cong\triangle AEC$.
 
-By **Basic Knowledge**, the corresponding angles satisfy $\angle D=\angle E$. $\blacksquare$
-
+By Basic Knowledge, the corresponding angles satisfy $\angle D=\angle E$. $\blacksquare$
 
 ---
 
@@ -71,10 +46,9 @@ By **Basic Knowledge**, the corresponding angles satisfy $\angle D=\angle E$. $\
 
 ### Solution to Review Problem 4
 
-From $\angle 1=\angle 2$, adding $\angle ACE$ to both sides gives $\angle ACB=\angle DCE$. In $\triangle ACB$ and $\triangle DCE$, $CA=CD$, $\angle ACB=\angle DCE$, $BC=EC$; by **Basic Knowledge: SAS**, $\triangle ACB\cong\triangle DCE$.
+From $\angle 1=\angle 2$, adding $\angle ACE$ to both sides gives $\angle ACB=\angle DCE$. In $\triangle ACB$ and $\triangle DCE$, $CA=CD$, $\angle ACB=\angle DCE$, $BC=EC$; by SAS, $\triangle ACB\cong\triangle DCE$.
 
-By **Basic Knowledge**, the corresponding sides satisfy $AB=DE$. $\blacksquare$
-
+By Basic Knowledge, the corresponding sides satisfy $AB=DE$. $\blacksquare$
 
 ---
 
@@ -84,10 +58,9 @@ By **Basic Knowledge**, the corresponding sides satisfy $AB=DE$. $\blacksquare$
 
 ### Solution to Review Problem 5
 
-Let $AD$ and $BC$ intersect at point $O$. From $CA\perp AB$, $DB\perp AB$, we get $\angle CAO=\angle DBO=90^\circ$. In $\triangle ACO$ and $\triangle BDO$, $\angle CAO=\angle DBO$, $\angle AOC=\angle BOD$ (vertical angles), and with the condition on the opposite side of $\angle CAO$ combined with $\angle CAD=\angle CBD$, by **Basic Knowledge: AAS**, $\triangle ACO\cong\triangle BDO$.
+Let $AD$ and $BC$ intersect at point $O$. From $CA\perp AB$, $DB\perp AB$, we get $\angle CAO=\angle DBO=90^\circ$. In $\triangle ACO$ and $\triangle BDO$, $\angle CAO=\angle DBO$, $\angle AOC=\angle BOD$ (vertical angles), and with the condition on the opposite side of $\angle CAO$ combined with $\angle CAD=\angle CBD$, by AAS, $\triangle ACO\cong\triangle BDO$.
 
-By **Basic Knowledge**, the corresponding sides satisfy $CA=DB$. $\blacksquare$
-
+By Basic Knowledge, the corresponding sides satisfy $CA=DB$. $\blacksquare$
 
 ---
 
@@ -97,10 +70,9 @@ By **Basic Knowledge**, the corresponding sides satisfy $CA=DB$. $\blacksquare$
 
 ### Solution to Review Problem 6
 
-From $AC\perp BD$, we get $\angle AEB=\angle CED=90^\circ$. In $\text{Rt}\triangle ABE$ and $\text{Rt}\triangle CDE$, the hypotenuses satisfy $AB=CD$, and the legs satisfy $AE=CE$; by **Basic Knowledge: HL**, $\text{Rt}\triangle ABE\cong\text{Rt}\triangle CDE$.
+From $AC\perp BD$, we get $\angle AEB=\angle CED=90^\circ$. In $\text{Rt}\triangle ABE$ and $\text{Rt}\triangle CDE$, the hypotenuses satisfy $AB=CD$, and the legs satisfy $AE=CE$; by HL, $\text{Rt}\triangle ABE\cong\text{Rt}\triangle CDE$.
 
-By **Basic Knowledge**, the corresponding legs satisfy $BE=DE$. $\blacksquare$
-
+By Basic Knowledge, the corresponding legs satisfy $BE=DE$. $\blacksquare$
 
 ---
 
@@ -110,10 +82,9 @@ By **Basic Knowledge**, the corresponding legs satisfy $BE=DE$. $\blacksquare$
 
 ### Solution to Review Problem 7
 
-Since $D$ is the midpoint of $BC$, $BD=CD$. In $\text{Rt}\triangle BDE$ and $\text{Rt}\triangle CDF$, the hypotenuses satisfy $BD=CD$, and the legs satisfy $BE=CF$; by **Basic Knowledge: HL**, $\text{Rt}\triangle BDE\cong\text{Rt}\triangle CDF$.
+Since $D$ is the midpoint of $BC$, $BD=CD$. In $\text{Rt}\triangle BDE$ and $\text{Rt}\triangle CDF$, the hypotenuses satisfy $BD=CD$, and the legs satisfy $BE=CF$; by HL, $\text{Rt}\triangle BDE\cong\text{Rt}\triangle CDF$.
 
-By **Basic Knowledge**, the corresponding legs satisfy $DE=DF$. That is, point $D$ is equidistant from $AB$, $AC$. By **Basic Knowledge: Determination of an Angle Bisector**, point $D$ lies on the bisector of $\angle A$, so $AD$ is the angle bisector of $\triangle ABC$. $\blacksquare$
-
+By Basic Knowledge, the corresponding legs satisfy $DE=DF$. That is, point $D$ is equidistant from $AB$, $AC$. By Determination of an Angle Bisector, point $D$ lies on the bisector of $\angle A$, so $AD$ is the angle bisector of $\triangle ABC$. $\blacksquare$
 
 ---
 
@@ -123,8 +94,7 @@ By **Basic Knowledge**, the corresponding legs satisfy $DE=DF$. That is, point $
 
 ### Solution to Review Problem 8
 
-By **Basic Knowledge: Properties of an Angle Bisector** and **Basic Knowledge: Angle Bisectors of a Triangle**, the three angle bisectors of a triangle intersect at one point, which is equidistant from the three sides. Hence the resort should be built at the intersection of the three angle bisectors (i.e. the incenter) of the triangle enclosed by the three highways. $\blacksquare$
-
+By Properties of an Angle Bisector and Angle Bisectors of a Triangle, the three angle bisectors of a triangle intersect at one point, which is equidistant from the three sides. Hence the resort should be built at the intersection of the three angle bisectors (i.e. the incenter) of the triangle enclosed by the three highways. $\blacksquare$
 
 ---
 
@@ -134,10 +104,9 @@ By **Basic Knowledge: Properties of an Angle Bisector** and **Basic Knowledge: A
 
 ### Solution to Review Problem 9
 
-They are equal. Since they travel at the same speed for the same time, $AC=BD$. Since the routes are parallel, $\angle CAE=\angle DBF$. Also $CE\perp AB$, $DF\perp AB$, giving $\angle CEA=\angle DFB=90^\circ$. In $\triangle ACE$ and $\triangle BDF$, $\angle CEA=\angle DFB$, $\angle CAE=\angle DBF$, $AC=BD$; by **Basic Knowledge: AAS**, $\triangle ACE\cong\triangle BDF$.
+They are equal. Since they travel at the same speed for the same time, $AC=BD$. Since the routes are parallel, $\angle CAE=\angle DBF$. Also $CE\perp AB$, $DF\perp AB$, giving $\angle CEA=\angle DFB=90^\circ$. In $\triangle ACE$ and $\triangle BDF$, $\angle CEA=\angle DFB$, $\angle CAE=\angle DBF$, $AC=BD$; by AAS, $\triangle ACE\cong\triangle BDF$.
 
-By **Basic Knowledge**, the corresponding sides satisfy $CE=DF$. $\blacksquare$
-
+By Basic Knowledge, the corresponding sides satisfy $CE=DF$. $\blacksquare$
 
 ---
 
@@ -147,10 +116,9 @@ By **Basic Knowledge**, the corresponding sides satisfy $CE=DF$. $\blacksquare$
 
 ### Solution to Review Problem 10
 
-Since $C$ is the midpoint of $AB$, $AC=CB$. From $CD\parallel BE$, we get $\angle ACD=\angle CBE$. In $\triangle ACD$ and $\triangle CBE$, $AC=CB$, $\angle ACD=\angle CBE$, $CD=BE$; by **Basic Knowledge: SAS**, $\triangle ACD\cong\triangle CBE$.
+Since $C$ is the midpoint of $AB$, $AC=CB$. From $CD\parallel BE$, we get $\angle ACD=\angle CBE$. In $\triangle ACD$ and $\triangle CBE$, $AC=CB$, $\angle ACD=\angle CBE$, $CD=BE$; by SAS, $\triangle ACD\cong\triangle CBE$.
 
-By **Basic Knowledge**, the corresponding angles satisfy $\angle ADC=\angle CEB$, which are alternate interior angles, so $AD\parallel CE$. $\blacksquare$
-
+By Basic Knowledge, the corresponding angles satisfy $\angle ADC=\angle CEB$, which are alternate interior angles, so $AD\parallel CE$. $\blacksquare$
 
 ---
 
@@ -162,10 +130,9 @@ By **Basic Knowledge**, the corresponding angles satisfy $\angle ADC=\angle CEB$
 
 From $AD\perp CE$, $BE\perp CE$, we get $\angle ADC=\angle CEB=90^\circ$. From $\angle ACB=90^\circ$, we get $\angle ACD+\angle BCE=90^\circ$. Also in $\text{Rt}\triangle ADC$, $\angle ACD+\angle CAD=90^\circ$, so $\angle CAD=\angle BCE$.
 
-In $\triangle ACD$ and $\triangle CBE$, $\angle ADC=\angle CEB$, $\angle CAD=\angle BCE$, $AC=CB$; by **Basic Knowledge: AAS**, $\triangle ACD\cong\triangle CBE$.
+In $\triangle ACD$ and $\triangle CBE$, $\angle ADC=\angle CEB$, $\angle CAD=\angle BCE$, $AC=CB$; by AAS, $\triangle ACD\cong\triangle CBE$.
 
-By **Basic Knowledge**, $CD=BE$, $CE=AD=2.5$. Also $CE=CD+DE$, so $CD=CE-DE=2.5-1.7=0.8$, hence $BE=0.8$. $\blacksquare$
-
+By Basic Knowledge, $CD=BE$, $CE=AD=2.5$. Also $CE=CD+DE$, so $CD=CE-DE=2.5-1.7=0.8$, hence $BE=0.8$. $\blacksquare$
 
 ---
 
@@ -185,7 +152,6 @@ $$
 
 $\blacksquare$
 
-
 ---
 
 ## Review Problem 13
@@ -196,10 +162,9 @@ $\blacksquare$
 
 $AD=A'D'$. From $\triangle ABC\cong\triangle A'B'C'$, we get $AB=A'B'$, $BC=B'C'$, $\angle B=\angle B'$. Since $AD$, $A'D'$ are medians, $BD=\frac{1}{2}BC$, $B'D'=\frac{1}{2}B'C'$, so $BD=B'D'$.
 
-In $\triangle ABD$ and $\triangle A'B'D'$, $AB=A'B'$, $\angle B=\angle B'$, $BD=B'D'$; by **Basic Knowledge: SAS**, $\triangle ABD\cong\triangle A'B'D'$.
+In $\triangle ABD$ and $\triangle A'B'D'$, $AB=A'B'$, $\angle B=\angle B'$, $BD=B'D'$; by SAS, $\triangle ABD\cong\triangle A'B'D'$.
 
-By **Basic Knowledge**, the corresponding sides satisfy $AD=A'D'$. $\blacksquare$
-
+By Basic Knowledge, the corresponding sides satisfy $AD=A'D'$. $\blacksquare$
 
 ---
 
@@ -209,7 +174,7 @@ By **Basic Knowledge**, the corresponding sides satisfy $AD=A'D'$. $\blacksquare
 
 ### Solution to Review Problem 14
 
-Through point $D$ draw $DE\perp AB$, $DF\perp AC$, with feet at $E$, $F$. Since $AD$ is an angle bisector and by **Basic Knowledge: Properties of an Angle Bisector**, $DE=DF$.
+Through point $D$ draw $DE\perp AB$, $DF\perp AC$, with feet at $E$, $F$. Since $AD$ is an angle bisector and by Properties of an Angle Bisector, $DE=DF$.
 
 Taking $AB$, $AC$ as the bases, the two triangles share the same height $DE=DF$, so
 
@@ -218,7 +183,6 @@ $$
 $$
 
 That is, $S_{\triangle ABD}:S_{\triangle ACD}=AB:AC$. $\blacksquare$
-
 
 ---
 
@@ -230,6 +194,6 @@ That is, $S_{\triangle ABD}:S_{\triangle ACD}=AB:AC$. $\blacksquare$
 
 Let in $\triangle ABC$ and $\triangle A'B'C'$, $AB=A'B'$, $BC=B'C'$, $AD$, $A'D'$ be respectively the medians on sides $BC$, $B'C'$, and $AD=A'D'$.
 
-Since $D$, $D'$ are midpoints, $BD=\frac{1}{2}BC=\frac{1}{2}B'C'=B'D'$. In $\triangle ABD$ and $\triangle A'B'D'$, $AB=A'B'$, $BD=B'D'$, $AD=A'D'$; by **Basic Knowledge: SSS**, $\triangle ABD\cong\triangle A'B'D'$, so $\angle B=\angle B'$.
+Since $D$, $D'$ are midpoints, $BD=\frac{1}{2}BC=\frac{1}{2}B'C'=B'D'$. In $\triangle ABD$ and $\triangle A'B'D'$, $AB=A'B'$, $BD=B'D'$, $AD=A'D'$; by SSS, $\triangle ABD\cong\triangle A'B'D'$, so $\angle B=\angle B'$.
 
-In $\triangle ABC$ and $\triangle A'B'C'$, $AB=A'B'$, $\angle B=\angle B'$, $BC=B'C'$; by **Basic Knowledge: SAS**, $\triangle ABC\cong\triangle A'B'C'$. $\blacksquare$
+In $\triangle ABC$ and $\triangle A'B'C'$, $AB=A'B'$, $\angle B=\angle B'$, $BC=B'C'$; by SAS, $\triangle ABC\cong\triangle A'B'C'$. $\blacksquare$

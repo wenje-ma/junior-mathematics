@@ -1,22 +1,6 @@
 # week150
 
-> **Basic Knowledge: Inscribed Angle**
-> 
-> An angle whose vertex lies on a circle and whose both sides intersect the circle is called an inscribed angle.
-> **Basic Knowledge: Inscribed Angle Theorem**
-> 
-> The inscribed angle subtended by an arc is half of the central angle subtended by that arc.
-> **Basic Knowledge: Corollary to the Inscribed Angle Theorem**
-> 
-> Inscribed angles subtended by the same arc or equal arcs are equal; the inscribed angle subtended by a semicircle (or a diameter) is a right angle; the chord subtended by an inscribed angle of $90^\circ$ is a diameter.
-> **Basic Knowledge: Polygon Inscribed in a Circle**
-> 
-> If all vertices of a polygon lie on the same circle, the polygon is called a polygon inscribed in the circle, and the circle is called the circumcircle of the polygon.
-> **Basic Knowledge: Property of a Cyclic Quadrilateral**
-> 
-> The opposite angles of a cyclic quadrilateral are supplementary.
 ---
-
 
 ## Exercise 1
 
@@ -24,7 +8,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Inscribed Angle**.
+By Inscribed Angle.
 
 An inscribed angle must have its vertex on the circle and both sides intersecting the circle. If the vertex is not on the circle, it is not one; if only one side intersects the circle, it is not one either. $\blacksquare$
 
@@ -34,7 +18,7 @@ An inscribed angle must have its vertex on the circle and both sides intersectin
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Inscribed Angle Theorem**.
+By Inscribed Angle Theorem.
 
 $\angle ACB$ is the inscribed angle subtended by $\overset{\frown}{AB}$, so $\angle ACB=\frac12\angle AOB$. $\angle BAC$ is the inscribed angle subtended by $\overset{\frown}{BC}$, so $\angle BAC=\frac12\angle BOC$. From $\angle AOB=2\angle BOC$, we get
 
@@ -50,7 +34,7 @@ $\blacksquare$
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Corollary to the Inscribed Angle Theorem**.
+By Corollary to the Inscribed Angle Theorem.
 
 Method 1: With the right-angle vertex of the set square at two different points on the circle, draw two chords whose right-angle sides intersect the circle; the chords subtended by the two right-angle sides are diameters, and the intersection of the two diameters is the center.
 
@@ -62,7 +46,7 @@ Method 2: Place the right-angle vertex of the set square on the circle; the two 
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Inscribed Angle Theorem**.
+By Inscribed Angle Theorem.
 
 Inscribed angles subtended by the same arc are equal. $\angle BAC$ and $\angle BDC$ both subtend $\overset{\frown}{BC}$, so they are equal; $\angle CBD$ and $\angle CAD$ both subtend $\overset{\frown}{CD}$, so they are equal; $\angle ACD$ and $\angle ABD$ both subtend $\overset{\frown}{AD}$, so they are equal; $\angle ADB$ and $\angle ACB$ both subtend $\overset{\frown}{AB}$, so they are equal. $\blacksquare$
 
@@ -72,7 +56,7 @@ Inscribed angles subtended by the same arc are equal. $\angle BAC$ and $\angle B
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Property of a Cyclic Quadrilateral**.
+By Property of a Cyclic Quadrilateral.
 
 The opposite angles of a cyclic quadrilateral are supplementary, so $\angle ABC+\angle D=180^\circ$, hence $\angle ABC=180^\circ-110^\circ=70^\circ$. Also $E$ lies on the extension of $CB$, so $\angle ABE+\angle ABC=180^\circ$, hence $\angle ABE=110^\circ$. $\blacksquare$
 
@@ -82,7 +66,7 @@ The opposite angles of a cyclic quadrilateral are supplementary, so $\angle ABC+
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge: Property of a Cyclic Quadrilateral**.
+By Property of a Cyclic Quadrilateral.
 
 $\angle A+\angle C=180^\circ$, so $\angle A=102^\circ$. In $\triangle ABD$, $AB=AD$, hence
 

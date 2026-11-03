@@ -1,21 +1,5 @@
 # week17
 
-> **Basic Knowledge: Monomial**
-> 
-> An algebraic expression formed by the product of numbers or letters is called a monomial. A single number or a single letter is also a monomial.
-
-> **Basic Knowledge: Polynomial**
-> 
-> The sum of several monomials is called a polynomial. Each monomial is called a term of the polynomial, and a term without a letter is called a constant term.
-
-> **Basic Knowledge: Combining Like Terms**
-> 
-> Combining like terms in a polynomial into a single term, the coefficient of the resulting term is the sum of the coefficients of the like terms before combining, while the letters together with their exponents remain unchanged.
-
-> **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**
-> 
-> When adding or subtracting several integral expressions, first remove any parentheses, then combine like terms.
-
 ---
 
 ## Activity 1
@@ -24,14 +8,13 @@
 
 ### Solution to Activity 1
 
-By **Basic Knowledge: Polynomial** and **Basic Knowledge: Combining Like Terms**, let the center number be $x$; in the calendar, adjacent rows differ by $7$ and adjacent columns differ by $1$.
+By Polynomial and Combining Like Terms, let the center number be $x$; in the calendar, adjacent rows differ by $7$ and adjacent columns differ by $1$.
 
 The nine numbers in the $3\times3$ box are: the upper row $x-8$, $x-7$, $x-6$; the middle row $x-1$, $x$, $x+1$; the lower row $x+6$, $x+7$, $x+8$. Their sum is
 
 $$\left(x-8\right)+\left(x-7\right)+\left(x-6\right)+\left(x-1\right)+x+\left(x+1\right)+\left(x+6\right)+\left(x+7\right)+\left(x+8\right)=9x.$$
 
 Hence the sum of the nine numbers is $9$ times the center number. This relationship holds for a $3\times3$ box at any position, because adjacent rows in the calendar always differ by $7$ and adjacent columns by $1$, and the offsets cancel out in the sum. Hence it holds for any month's calendar. $\blacksquare$
-
 
 ---
 
@@ -41,14 +24,13 @@ Hence the sum of the nine numbers is $9$ times the center number. This relations
 
 ### Solution to Activity 2
 
-By **Basic Knowledge: Polynomial** and **Basic Knowledge: Combining Like Terms**, let the center number be $x$.
+By Polynomial and Combining Like Terms, let the center number be $x$.
 
 The "$+$"-shaped figure contains the center $x$, the above $x-7$, the below $x+7$, the left $x-1$ and the right $x+1$, totaling $5$ numbers. Their sum is
 
 $$\left(x-7\right)+\left(x-1\right)+x+\left(x+1\right)+\left(x+7\right)=5x.$$
 
 Hence the sum of the five numbers in the "$+$" shape is $5$ times the center number. This is because the vertical offsets $7$ and $-7$ cancel, and the horizontal offsets $1$ and $-1$ cancel. $\blacksquare$
-
 
 ---
 
@@ -58,7 +40,7 @@ Hence the sum of the five numbers in the "$+$" shape is $5$ times the center num
 
 ### Solution to Activity 3
 
-By **Basic Knowledge: Polynomial** and **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**, take a two-digit number as an example.
+By Polynomial and Rule for Adding and Subtracting Integral Expressions, take a two-digit number as an example.
 
 Let the tens digit of the two-digit number be $a$ and the units digit be $b$; then the number is
 

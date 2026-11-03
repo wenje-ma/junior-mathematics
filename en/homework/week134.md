@@ -1,23 +1,6 @@
 # week134
 
-> **Basic Knowledge: The Parabola $y=ax^2$**
-> 
-> The axis of symmetry of the parabola $y=ax^2$ is the $y$-axis, and its vertex is the origin. When $a> 0$ it opens upward and the vertex is the lowest point; when $a< 0$ it opens downward and the vertex is the highest point. The larger $\left|a\right|$ is, the narrower the opening. When $a> 0$, $y$ decreases as $x$ increases for $x< 0$, and $y$ increases as $x$ increases for $x> 0$; when $a< 0$ the reverse holds.
-> **Basic Knowledge: Translation**
-> 
-> Translating the parabola $y=ax^2$ upward ($k> 0$) or downward ($k< 0$) by $\left|k\right|$ units gives $y=ax^2+k$; translating it left ($h< 0$) or right ($h> 0$) by $\left|h\right|$ units gives $y=a\left(x-h\right)^2$; combining both translations gives $y=a\left(x-h\right)^2+k$.
-> **Basic Knowledge: The Parabola $y=a\left(x-h\right**^2+k$) 
-> 
-> It opens upward when $a> 0$ and downward when $a< 0$; its axis of symmetry is $x=h$; its vertex is $\left(h,k\right)$. When $a> 0$, the minimum $k$ is taken at $x=h$; when $a< 0$, the maximum $k$ is taken at $x=h$.
-> **Basic Knowledge: The Parabola $y=ax^2+bx+c$**
-> 
-> Completing the square gives $y=a\left(x+\frac b{2a}\right)^2+\frac{4ac-b^2}{4a}$; the axis of symmetry is $x=-\frac b{2a}$ and the vertex is $\left(-\frac b{2a},\frac{4ac-b^2}{4a}\right)$. When $a> 0$, the minimum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac b{2a}$; when $a< 0$, the maximum is taken there.
-> **Basic Knowledge: The Parabola $y=a\left(x-h\right**
-> 
-> The Parabola $y=a\left(x-h\right.
-
 ---
-
 
 ## Exercise 1
 
@@ -31,7 +14,7 @@ The figure shows two parabolas in one plane rectangular coordinate system: $y=3x
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: The Parabola $y=ax^2$**, both parabolas have the $y$-axis as their axis of symmetry and the origin as vertex. (1) $a=3> 0$, opens upward; (2) $a=-3< 0$, opens downward; the two are symmetric about the $x$-axis, and the graphs are as shown. $\blacksquare$
+By The Parabola $y=ax^2$, both parabolas have the $y$-axis as their axis of symmetry and the origin as vertex. (1) $a=3> 0$, opens upward; (2) $a=-3< 0$, opens downward; the two are symmetric about the $x$-axis, and the graphs are as shown. $\blacksquare$
 
 ## Exercise 2
 
@@ -43,7 +26,7 @@ By **Basic Knowledge: The Parabola $y=ax^2$**, both parabolas have the $y$-axis 
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: The Parabola $y=ax^2$**.
+By The Parabola $y=ax^2$.
 
 (1) $a=4> 0$, opens upward; axis of symmetry is the $y$-axis; vertex is the origin $\left(0,0\right)$, the lowest point. For $x< 0$, $y$ decreases as $x$ increases; for $x> 0$, $y$ increases as $x$ increases.
 
@@ -57,7 +40,7 @@ The figure shows three parabolas of the same shape, all opening upward with the 
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Translation**, $y=x^2+1$ is obtained by translating $y=x^2$ up $1$ unit, and $y=x^2-1$ by translating $y=x^2$ down $1$ unit; the three parabolas have the same shape and differ only in vertical position. All three have $a=1> 0$, open upward, and share the $y$-axis as their axis of symmetry; their vertices are $\left(0,0\right)$, $\left(0,1\right)$, and $\left(0,-1\right)$ respectively. $\blacksquare$
+By Translation, $y=x^2+1$ is obtained by translating $y=x^2$ up $1$ unit, and $y=x^2-1$ by translating $y=x^2$ down $1$ unit; the three parabolas have the same shape and differ only in vertical position. All three have $a=1> 0$, open upward, and share the $y$-axis as their axis of symmetry; their vertices are $\left(0,0\right)$, $\left(0,1\right)$, and $\left(0,-1\right)$ respectively. $\blacksquare$
 
 ## Exercise 4
 
@@ -67,7 +50,7 @@ The figure shows three parabolas of the same shape, all opening downward: $y=-x^
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Translation**, $y=-\left(x+2\right)^2$ is obtained by translating $y=-x^2$ left $2$ units, and $y=-\left(x-2\right)^2$ by translating $y=-x^2$ right $2$ units. All three have $a=-1< 0$ and open downward; their axes of symmetry are $x=0$, $x=-2$, and $x=2$ respectively; their vertices are $\left(0,0\right)$, $\left(-2,0\right)$, and $\left(2,0\right)$ respectively. $\blacksquare$
+By Translation, $y=-\left(x+2\right)^2$ is obtained by translating $y=-x^2$ left $2$ units, and $y=-\left(x-2\right)^2$ by translating $y=-x^2$ right $2$ units. All three have $a=-1< 0$ and open downward; their axes of symmetry are $x=0$, $x=-2$, and $x=2$ respectively; their vertices are $\left(0,0\right)$, $\left(-2,0\right)$, and $\left(2,0\right)$ respectively. $\blacksquare$
 
 ## Exercise 5
 
@@ -83,7 +66,7 @@ By **Basic Knowledge: Translation**, $y=-\left(x+2\right)^2$ is obtained by tran
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: The Parabola $y=a\left(x-h\right**^2+k$), read off the axis of symmetry $x=h$ and vertex $\left(h,k\right)$ from $h,k$.
+By The Parabola $y=a\left(x-h\right^2+k$), read off the axis of symmetry $x=h$ and vertex $\left(h,k\right)$ from $h,k$.
 
 (1) $a=2> 0$, opens upward; axis of symmetry $x=-3$; vertex $\left(-3,5\right)$, the lowest point. For $x< -3$, $y$ decreases as $x$ increases; for $x> -3$, $y$ increases as $x$ increases.
 
@@ -103,7 +86,7 @@ By **Basic Knowledge: The Parabola $y=a\left(x-h\right**^2+k$), read off the axi
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge: The Parabola $y=a\left(x-h\right**^2+k$).
+By The Parabola $y=a\left(x-h\right^2+k$).
 
 (1) $a=2> 0$, opens upward; when $x=3$, $y$ takes its minimum $5$, with no maximum.
 
@@ -125,7 +108,7 @@ The figure shows four side-by-side coordinate systems, each with one parabola: (
 
 ### Solution to Exercise 7
 
-By **Basic Knowledge: The Parabola $y=ax^2+bx+c$**, the axis of symmetry is $x=-\frac b{2a}$ and the vertex's vertical coordinate is $\frac{4ac-b^2}{4a}$.
+By The Parabola $y=ax^2+bx+c$, the axis of symmetry is $x=-\frac b{2a}$ and the vertex's vertical coordinate is $\frac{4ac-b^2}{4a}$.
 
 (1) $a=-3$, $b=12$, $c=-3$. Axis of symmetry $x=-\frac{12}{2\left(-3\right)}=2$; vertex's vertical coordinate $\frac{4\left(-3\right)\left(-3\right)-144}{4\left(-3\right)}=\frac{36-144}{-12}=9$. Opens downward, vertex $\left(2,9\right)$; for $x< 2$, $y$ increases as $x$ increases, and for $x> 2$ it decreases.
 
@@ -147,7 +130,7 @@ The graphs are as shown. $\blacksquare$
 
 ### Solution to Exercise 8
 
-By **Basic Knowledge**, the extremum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac b{2a}$.
+By Basic Knowledge, the extremum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac b{2a}$.
 
 (1) $a=3> 0$; when $x=-\frac{2}{6}=-\frac13$, the minimum $\frac{0-4}{12}=-\frac13$ is taken.
 
@@ -165,7 +148,7 @@ The figure shows two parabolas in one plane rectangular coordinate system, both 
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: The Parabola $y=ax^2$**, both have the $y$-axis as their axis of symmetry and the origin as vertex.
+By The Parabola $y=ax^2$, both have the $y$-axis as their axis of symmetry and the origin as vertex.
 
 (1) $a=5> 0$, opens upward; $\left|a\right|$ is larger, so the opening is narrower.
 
@@ -187,7 +170,7 @@ The figure shows three side-by-side coordinate systems, each with two parabolas:
 
 ### Solution to Problem 2
 
-By **Basic Knowledge** and **Basic Knowledge**.
+By Basic Knowledge and Basic Knowledge.
 
 (1) Both have $a=-\frac13$ and are related by vertical translation; both have the $y$-axis as their axis of symmetry, with vertices $\left(0,3\right)$ and $\left(0,-2\right)$ respectively.
 
@@ -213,7 +196,7 @@ The figure shows four side-by-side coordinate systems, each with one parabola: (
 
 ### Solution to Problem 3
 
-By **Basic Knowledge**, find the axis of symmetry $x=-\frac b{2a}$ and the vertex.
+By Basic Knowledge, find the axis of symmetry $x=-\frac b{2a}$ and the vertex.
 
 (1) $a=1$, $b=2$; axis of symmetry $x=-1$; vertex's vertical coordinate $-1-2-5=-8$; opens upward, vertex $\left(-1,-8\right)$.
 
@@ -239,7 +222,7 @@ The graphs are as shown. $\blacksquare$
 
 ### Solution to Problem 4
 
-By **Basic Knowledge**, the extremum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac b{2a}$.
+By Basic Knowledge, the extremum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac b{2a}$.
 
 (1) $a=5> 0$; when $x=-\frac3{10}$, the minimum $\frac{4\cdot5\cdot2-9}{20}=\frac{40-9}{20}=\frac{31}{20}$ is taken.
 
@@ -255,7 +238,7 @@ By **Basic Knowledge**, the extremum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac 
 
 ### Solution to Problem 5
 
-By **Basic Knowledge**, the axis of symmetry is $x=-\frac b{2a}$. Here $a=-\frac12$ and the vertex's horizontal coordinate is $5$, hence
+By Basic Knowledge, the axis of symmetry is $x=-\frac b{2a}$. Here $a=-\frac12$ and the vertex's horizontal coordinate is $5$, hence
 
 $$
 -\frac{b}{2\left(-1/2\right)}=5,
@@ -273,7 +256,7 @@ i.e. $b=5$. Since the vertex's vertical coordinate is $\frac{17}2$, and at $x=5$
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Translation**.
+By Translation.
 
 (1) Translating $y=-3\left(x-2\right)^2-5$ up $5$ units gives $y=-3\left(x-2\right)^2$, then left $2$ units gives $y=-3x^2$. Hence fill in $y=-3x^2$.
 
@@ -311,7 +294,7 @@ $$
 y=-2x^2+12x-8.
 $$
 
-$a=-2< 0$, opens downward. By **Basic Knowledge**, the axis of symmetry is $x=-\frac{12}{2\left(-2\right)}=3$, and the vertex's vertical coordinate is $-2\cdot9+36-8=10$. Hence the axis of symmetry is the line $x=3$, and the vertex is $\left(3,10\right)$. $\blacksquare$
+$a=-2< 0$, opens downward. By Basic Knowledge, the axis of symmetry is $x=-\frac{12}{2\left(-2\right)}=3$, and the vertex's vertical coordinate is $-2\cdot9+36-8=10$. Hence the axis of symmetry is the line $x=3$, and the vertex is $\left(3,10\right)$. $\blacksquare$
 
 ## Problem 9
 

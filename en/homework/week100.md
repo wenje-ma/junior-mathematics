@@ -1,13 +1,6 @@
 # week100
 
-> **Basic Knowledge: Converse of the Pythagorean Theorem**
-> 
-> If the three side lengths \(a,b,c\) of a triangle satisfy \(a^{2}+b^{2}=c^{2}\), then this triangle is a right triangle.
-> **Basic Knowledge: Pythagorean Triples**
-> 
-> Three positive integers that can be the three side lengths of a right triangle are called a Pythagorean triple.
 ---
-
 
 ## Exercise 1
 
@@ -17,7 +10,7 @@ Determine whether the triangle formed by the segments \(a,b,c\) is a right trian
 
 (1) \(a=4,\ b=5,\ c=6\); (2) \(a=2.5,\ b=0.7,\ c=2.4\); (3) \(a=15,\ b=14,\ c=13\); (4) \(a=1,\ b=\sqrt{2},\ c=\sqrt{3}\).
 
-By **Basic Knowledge**, check whether the sum of the squares of the two shorter sides equals the square of the longest side.
+By Basic Knowledge, check whether the sum of the squares of the two shorter sides equals the square of the longest side.
 
 (1) \(4^{2}+5^{2}=41\ne 36=6^{2}\), not a right triangle.
 
@@ -37,7 +30,7 @@ The areas of the semicircles on sides \(a,b,c\) are \(\frac{\pi}{8}a^{2},\frac{\
 
 From \(S_{1}+S_{2}=S_{3}\), we get \(\frac{\pi}{8}a^{2}+\frac{\pi}{8}b^{2}=\frac{\pi}{8}c^{2}\), i.e. \(a^{2}+b^{2}=c^{2}\).
 
-By **Basic Knowledge**, \(\triangle ABC\) is a right triangle.
+By Basic Knowledge, \(\triangle ABC\) is a right triangle.
 
 \(\blacksquare\)
 
@@ -51,7 +44,7 @@ The distances are \(AB=5,\ BC=12,\ AC=13\).
 
 From \(5^{2}+12^{2}=169=13^{2}\), i.e. \(AB^{2}+BC^{2}=AC^{2}\).
 
-By **Basic Knowledge**, \(\angle B=90^{\circ}\).
+By Basic Knowledge, \(\angle B=90^{\circ}\).
 
 \(A\) is due east of \(B\), so \(C\) is due south (or due north) of \(B\).
 
@@ -61,7 +54,7 @@ By **Basic Knowledge**, \(\angle B=90^{\circ}\).
 
 Master Gao has \(5\) steel bars of lengths (unit: \(\text{dm}\)) \(a=6,\ b=8,\ c=10,\ d=24,\ e=26\), and plans to choose \(3\) to weld a right-triangle steel frame. Help Master Gao find all possible combinations of bars.
 
-By **Basic Knowledge**, pick three from the \(5\) bars such that the sum of the squares of the two shorter sides equals the square of the longest side.
+By Basic Knowledge, pick three from the \(5\) bars such that the sum of the squares of the two shorter sides equals the square of the longest side.
 
 Enumerating:
 
@@ -83,7 +76,7 @@ In \(Rt\triangle ABC\), by the Pythagorean theorem \(AC=\sqrt{3^{2}+4^{2}}=5\).
 
 In \(\triangle ACD\), \(AC^{2}+CD^{2}=25+144=169=13^{2}=AD^{2}\).
 
-By **Basic Knowledge**, \(\triangle ACD\) is also a right triangle, \(\angle ACD=90^{\circ}\).
+By Basic Knowledge, \(\triangle ACD\) is also a right triangle, \(\angle ACD=90^{\circ}\).
 
 Therefore the area of the quadrilateral is the sum of the areas of the two right triangles:
 
@@ -101,7 +94,7 @@ Determine whether the triangle formed by the segments \(a,b,c\) is a right trian
 
 (1) \(a=9,\ b=40,\ c=41\); (2) \(a=\sqrt{41},\ b=4,\ c=5\); (3) \(a=\frac{5}{4},\ b=1,\ c=\frac{3}{4}\); (4) \(a=40,\ b=50,\ c=60\).
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) \(9^{2}+40^{2}=1681=41^{2}\), is a right triangle.
 
@@ -135,7 +128,7 @@ The three distances \(80,60,100\) form a triangle that returns to the starting p
 
 From \(80^{2}+60^{2}=6400+3600=10000=100^{2}\).
 
-By **Basic Knowledge**, these three segments form a right triangle, and the \(80\) and \(60\) segments are perpendicular.
+By Basic Knowledge, these three segments form a right triangle, and the \(80\) and \(60\) segments are perpendicular.
 
 The first segment goes \(80\ \text{m}\) east, so the second segment of \(60\ \text{m}\) goes due south (or due north).
 
@@ -151,7 +144,7 @@ In \(\triangle ABC\), \(AB=13,\ BC=10\), and the median \(AD\) to side \(BC\) is
 
 In \(\triangle ABD\), \(AD^{2}+BD^{2}=12^{2}+5^{2}=169=13^{2}=AB^{2}\).
 
-By **Basic Knowledge**, \(\angle ADB=90^{\circ}\), i.e. \(AD\perp BC\).
+By Basic Knowledge, \(\angle ADB=90^{\circ}\), i.e. \(AD\perp BC\).
 
 Hence \(AD\) is also the perpendicular bisector of \(BC\), so \(AC=AB=13\).
 
@@ -179,7 +172,7 @@ $$
 
 Hence \(AE^{2}+EF^{2}=20a^{2}+5a^{2}=25a^{2}=AF^{2}\).
 
-By **Basic Knowledge**, \(\triangle AEF\) is a right triangle, and \(\angle AEF=90^{\circ}\).
+By Basic Knowledge, \(\triangle AEF\) is a right triangle, and \(\angle AEF=90^{\circ}\).
 
 \(\blacksquare\)
 
@@ -215,6 +208,6 @@ Therefore \(ak,bk,ck\) is also a Pythagorean triple.
 
 Proposition 48 of Euclid's *Elements* is exactly the converse of the Pythagorean theorem. Restate it in today's language: if the sum of the squares of two sides of a triangle equals the square of the third side, then the triangle is a right triangle.
 
-This is exactly **Basic Knowledge: Converse of the Pythagorean Theorem**. It and the Pythagorean theorem are converses of each other: the former gives a property of a right triangle (a relation among the sides), while the latter gives a method for determining whether a triangle is a right triangle.
+This is exactly Converse of the Pythagorean Theorem. It and the Pythagorean theorem are converses of each other: the former gives a property of a right triangle (a relation among the sides), while the latter gives a method for determining whether a triangle is a right triangle.
 
 \(\blacksquare\)

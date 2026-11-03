@@ -1,27 +1,5 @@
 # week38
 
-> **Basic Knowledge: Irrational Number**
-> 
-> A non-terminating non-repeating decimal is also called an irrational number. Irrational numbers are divided into positive and negative.
-
-> **Basic Knowledge: Real Number**
-> 
-> Rational numbers and irrational numbers are collectively called real numbers. Real numbers are divided into positive real numbers, $0$, and negative real numbers.
-
-> **Basic Knowledge: Absolute Value**
-> 
-> Absolute Value.
-> **Basic Knowledge: Opposite Numbers and Absolute Value**
-> 
-> Opposite Numbers and Absolute Value.
-> **Basic Knowledge: Real Numbers and the Number Line**
-> 
-> Real Numbers and the Number Line.
-
-> **Basic Knowledge: Opposite Number and Absolute Value**
-> 
-> The opposite of real number a is -a; the absolute value of a positive real number is itself, of a negative real number is its opposite, and of 0 is 0.
-
 ---
 
 ## Exercise 1
@@ -40,7 +18,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Irrational Number** and **Basic Knowledge: Real Numbers and the Number Line**.
+By Irrational Number and Real Numbers and the Number Line.
 
 (1) A non-terminating repeating decimal is a rational number, not an irrational number, so it is wrong.
 
@@ -50,8 +28,7 @@ By **Basic Knowledge: Irrational Number** and **Basic Knowledge: Real Numbers an
 
 (4) Points on the number line represent not only rational numbers but also irrational numbers, so it is wrong.
 
-(5) By **Basic Knowledge: Real Numbers and the Number Line**, there is a one-to-one correspondence between real numbers and points on the number line; correct. $\blacksquare$
-
+(5) By Real Numbers and the Number Line, there is a one-to-one correspondence between real numbers and points on the number line; correct. $\blacksquare$
 
 ---
 
@@ -61,12 +38,11 @@ By **Basic Knowledge: Irrational Number** and **Basic Knowledge: Real Numbers an
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Irrational Number**, those whose root can be extracted exactly are rational numbers, and those whose root cannot be extracted exactly are irrational numbers.
+By Irrational Number, those whose root can be extracted exactly are rational numbers, and those whose root cannot be extracted exactly are irrational numbers.
 
 Square roots: $\sqrt 0=0$, $\sqrt 1=1$, $\sqrt 4=2$, $\sqrt 9=3$ are rational numbers; $\sqrt 2$, $\sqrt 3$, $\sqrt 5$, $\sqrt 6$, $\sqrt 7$, $\sqrt 8$, $\sqrt{10}$ are irrational numbers.
 
 Cube roots: $\sqrt\left[3\right] 0=0$, $\sqrt\left[3\right] 1=1$, $\sqrt\left[3\right] 8=2$ are rational numbers; $\sqrt\left[3\right] 2$, $\sqrt\left[3\right] 3$, $\sqrt\left[3\right] 4$, $\sqrt\left[3\right] 5$, $\sqrt\left[3\right] 6$, $\sqrt\left[3\right] 7$, $\sqrt\left[3\right] 9$, $\sqrt\left[3\right]{10}$ are irrational numbers. $\blacksquare$
-
 
 ---
 
@@ -78,7 +54,7 @@ The figure shows a number line with origin and positive direction marked; from l
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Real Numbers and the Number Line**, numbers to the right on the number line are larger than numbers to the left.
+By Real Numbers and the Number Line, numbers to the right on the number line are larger than numbers to the left.
 
 Estimate the sizes: $-\pi\approx-3.14$, $-2$, $\sqrt 2\approx 1.414$, $\frac{3}{2}=1.5$. From left to right on the number line they are $-\pi$, $-2$, $\sqrt 2$, $\frac{3}{2}$.
 
@@ -90,7 +66,6 @@ $$
 
 $\blacksquare$
 
-
 ---
 
 ## Exercise 4
@@ -99,7 +74,7 @@ $\blacksquare$
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Opposite Numbers and Absolute Value**, the opposite number is $-a$; for the absolute value, a positive number takes itself and a negative number takes its opposite.
+By Opposite Numbers and Absolute Value, the opposite number is $-a$; for the absolute value, a positive number takes itself and a negative number takes its opposite.
 
 $\sqrt{13}$: opposite number $-\sqrt{13}$, absolute value $\sqrt{13}$.
 
@@ -113,7 +88,6 @@ $\frac{\sqrt 5-1}{2}\approx\frac{2.236-1}{2}> 0$: opposite number $\frac{1-\sqrt
 
 $0$: opposite number $0$, absolute value $0$. $\blacksquare$
 
-
 ---
 
 ## Exercise 5
@@ -124,7 +98,7 @@ $0$: opposite number $0$, absolute value $0$. $\blacksquare$
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Opposite Number and Absolute Value**, the operation rules for rational numbers apply to real numbers.
+By Opposite Number and Absolute Value, the operation rules for rational numbers apply to real numbers.
 
 (1) By the distributive law, $2\sqrt 5-3\sqrt 5=\left(2-3\right)\sqrt 5=-\sqrt 5$.
 
@@ -135,7 +109,6 @@ $$
 $$
 
 $\blacksquare$
-
 
 ---
 
@@ -153,7 +126,6 @@ Replace the irrational numbers with approximate finite decimals, compute, then r
 
 (2) $\sqrt\left[3\right]{6}\approx 1.817$, $\sqrt 6\approx 2.449$, so $\sqrt\left[3\right]{6}-\sqrt 6\approx 1.817-2.449=-0.63$. $\blacksquare$
 
-
 ---
 
 ## Problem 1
@@ -164,12 +136,11 @@ $3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $-\sqrt 6$, $\sqrt{36}$, $\sqrt\l
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Irrational Number**, a finite decimal or a non-terminating repeating decimal is a rational number, and a non-terminating non-repeating decimal is an irrational number.
+By Irrational Number, a finite decimal or a non-terminating repeating decimal is a rational number, and a non-terminating non-repeating decimal is an irrational number.
 
 $3.14$ is a finite decimal, rational; $-\frac{22}{7}$ is a fraction, rational; $\sqrt{\frac{3}{3}}=\sqrt 1=1$, rational; $-\sqrt 6$ is a non-terminating non-repeating decimal whose root cannot be extracted, irrational; $\sqrt{36}=6$, rational; $\sqrt\left[3\right]{5}$ is a non-terminating non-repeating decimal, irrational; $\sqrt\left[3\right]{125}=5$, rational.
 
 Thus the rational numbers are $3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $\sqrt{36}$, $\sqrt\left[3\right]{125}$; the irrational numbers are $-\sqrt 6$, $\sqrt\left[3\right]{5}$. $\blacksquare$
-
 
 ---
 
@@ -181,14 +152,13 @@ Thus the rational numbers are $3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $\s
 
 Simplify: $\sqrt{2^2}=2$, $\left|-3\right|=3$. The numbers are $-\frac{1}{3}\approx-0.33$, $-1.5$, $2$, $3$.
 
-By **Basic Knowledge: Real Numbers and the Number Line**, values increase from left to right on the number line, so
+By Real Numbers and the Number Line, values increase from left to right on the number line, so
 
 $$
 -1.5< -\frac{1}{3}< \sqrt{2^2}< \left|-3\right|.
 $$
 
 $\blacksquare$
-
 
 ---
 
@@ -198,7 +168,7 @@ $\blacksquare$
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Absolute Value**, a positive number's absolute value is itself, and a negative number's is its opposite.
+By Absolute Value, a positive number's absolute value is itself, and a negative number's is its opposite.
 
 $\sqrt\left[3\right]{-8}=-2$, whose absolute value is $2$.
 
@@ -209,7 +179,6 @@ $-\sqrt{\frac{2}{3}}< 0$, whose absolute value is $\sqrt{\frac{2}{3}}$.
 $\sqrt\left[3\right]{3}\approx 1.442< 2$, so $\sqrt\left[3\right]{3}-2< 0$, whose absolute value is $2-\sqrt\left[3\right]{3}$.
 
 $\sqrt\left[3\right]{2}\approx 1.26> 1$, so $1-\sqrt\left[3\right]{2}< 0$, whose absolute value is $\sqrt\left[3\right]{2}-1$. $\blacksquare$
-
 
 ---
 
@@ -227,7 +196,6 @@ Compute with approximate values, then round.
 
 (2) $\sqrt\left[3\right]{2}\approx 1.260$, $\sqrt 2\approx 1.414$, so $\sqrt\left[3\right]{2}-\sqrt 2\approx 1.260-1.414=-0.15$. $\blacksquare$
 
-
 ---
 
 ## Problem 5
@@ -238,7 +206,7 @@ Compute with approximate values, then round.
 
 ### Solution to Problem 5
 
-By **Basic Knowledge: Opposite Number and Absolute Value** and the operations of squaring and cubing.
+By Opposite Number and Absolute Value and the operations of squaring and cubing.
 
 (1) $\because 2\sqrt 6\approx 4.899> \sqrt 7\approx 2.646$, $\therefore 2\sqrt 6-\sqrt 7> 0$, so $\left|2\sqrt 6-\sqrt 7\right|=2\sqrt 6-\sqrt 7$. Hence
 
@@ -254,7 +222,6 @@ $$
 
 $\blacksquare$
 
-
 ---
 
 ## Problem 6
@@ -269,14 +236,13 @@ $\blacksquare$
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Real Numbers and the Number Line**, real numbers can take continuous values on the number line.
+By Real Numbers and the Number Line, real numbers can take continuous values on the number line.
 
 (1) The smallest positive integer is $1$; there is no smallest integer (negative integers can be infinitely small).
 
 (2) There is no smallest rational number, and no smallest irrational number (negative numbers can be infinitely small).
 
 (3) There is no smallest positive real number (between any two arbitrarily small positive numbers one can take an even smaller positive number); there is no smallest real number (real numbers can be infinitely small in the negative direction). $\blacksquare$
-
 
 ---
 
@@ -299,7 +265,6 @@ Estimate the range of each irrational number.
 (2) $\because 3^2=9< 10< 16=4^2$, $\therefore 3< \sqrt{10}< 4$, so $-4< -\sqrt{10}< -3$. The integers greater than $-\sqrt{10}$ and less than $\sqrt{10}$ are $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
 
 (3) $\because 2^2=4< 6< 9=3^2$, $\therefore 2< \sqrt 6< 3$, so the integers whose absolute value is less than $\sqrt 6$ are $-2$, $-1$, $0$, $1$, $2$. $\blacksquare$
-
 
 ---
 
@@ -331,7 +296,6 @@ $$
 
 $\blacksquare$
 
-
 ---
 
 ## Problem 9
@@ -340,7 +304,7 @@ $\blacksquare$
 
 ### Solution to Problem 9
 
-By **Basic Knowledge: Irrational Number**, a non-terminating non-repeating decimal is an irrational number.
+By Irrational Number, a non-terminating non-repeating decimal is an irrational number.
 
 Although the decimal part of this number is non-terminating, between two adjacent $1$'s there is successively one more $0$, so the decimal part has no repeating period; it is a non-terminating non-repeating decimal. Thus it is not a rational number but an irrational number. $\blacksquare$
 

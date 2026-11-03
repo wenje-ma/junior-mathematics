@@ -1,28 +1,6 @@
 # week105
 
-> **Basic Knowledge: Rectangle**
-> 
-> A parallelogram with one right angle is called a rectangle.
-> **Basic Knowledge: Diagonals of a Rectangle**
-> 
-> The diagonals of a rectangle are equal.
-> **Basic Knowledge: Median to the Hypotenuse of a Right Triangle**
-> 
-> The median to the hypotenuse of a right triangle equals half the hypotenuse.
-> **Basic Knowledge: Diagonals**
-> 
-> A parallelogram with equal diagonals is a rectangle.
-> **Basic Knowledge: Rhombus**
-> 
-> A parallelogram with one pair of adjacent sides equal is called a rhombus.
-> **Basic Knowledge: Diagonals of a Rhombus**
-> 
-> The two diagonals of a rhombus are perpendicular, and each diagonal bisects a pair of opposite angles.
-> **Basic Knowledge: Square**
-> 
-> A parallelogram with one pair of adjacent sides equal and one right angle is called a square.
 ---
-
 
 ## Exercise 1
 
@@ -62,7 +40,7 @@ The four angles of a quadrilateral sum to \(360^{\circ}\); if they are equal, ea
 
 Both pairs of opposite angles are \(90^{\circ}\), so both pairs of opposite sides are parallel, and the quadrilateral is a parallelogram.
 
-Also one angle is a right angle; by **Basic Knowledge**, it is a rectangle.
+Also one angle is a right angle; by Basic Knowledge, it is a rectangle.
 
 \(\blacksquare\)
 
@@ -102,7 +80,7 @@ Therefore parallelogram \(ADCF\) is a rectangle.
 
 Quadrilateral \(ABCD\) is a rhombus, the diagonals \(AC,BD\) intersect at point \(O\), and \(AB=5,\ AO=4\). Find the lengths of \(AC,BD\) and the area of rhombus \(ABCD\).
 
-By **Basic Knowledge**, \(AC\perp BD\).
+By Basic Knowledge, \(AC\perp BD\).
 
 In \(Rt\triangle AOB\), \(BO=\sqrt{AB^{2}-AO^{2}}=\sqrt{25-16}=3\).
 
@@ -144,7 +122,7 @@ As shown in the figure, in quadrilateral \(ABCD\), the diagonals \(AC,BD\) inter
 
 The diagonals bisect each other, so the quadrilateral is a parallelogram.
 
-The diagonals are perpendicular; by **Basic Knowledge**, the parallelogram is a rhombus.
+The diagonals are perpendicular; by Basic Knowledge, the parallelogram is a rhombus.
 
 \(\blacksquare\)
 
@@ -278,7 +256,7 @@ The cuts are perpendicular to the long side, i.e. there is a right angle, so the
 
 In \(Rt\triangle ABC\), \(\angle C=90^{\circ},\ AB=2AC\). Find the degree measures of \(\angle A,\angle B\).
 
-By **Basic Knowledge**, the median to the hypotenuse \(=\frac{1}{2}AB=AC\).
+By Basic Knowledge, the median to the hypotenuse \(=\frac{1}{2}AB=AC\).
 
 Therefore the triangle is a right triangle with a \(30^{\circ}\) angle, \(\angle B=30^{\circ},\ \angle A=60^{\circ}\).
 
@@ -356,7 +334,7 @@ As shown in the figure, in \(Rt\triangle ABC\), \(\angle ACB=90^{\circ}\), \(CD\
 
 \(\angle ACB=90^{\circ}\), \(\angle ACD=3\angle BCD\), so \(\angle BCD=22.5^{\circ},\ \angle ACD=67.5^{\circ}\).
 
-By **Basic Knowledge**, \(CE=AE=BE\), \(\angle ECA=\angle A=22.5^{\circ}\).
+By Basic Knowledge, \(CE=AE=BE\), \(\angle ECA=\angle A=22.5^{\circ}\).
 
 Therefore \(\angle ECD=\angle ACD-\angle ECA=67.5^{\circ}-22.5^{\circ}=45^{\circ}\).
 

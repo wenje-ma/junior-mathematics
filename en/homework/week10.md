@@ -1,17 +1,5 @@
 # week10
 
-> **Basic Knowledge: Powers**
-> 
-> The operation of finding the product of $n$ identical factors is called exponentiation, and the result is called a power. It is stipulated that when $a\ne 0$, $a^{0}=1$.
-
-> **Basic Knowledge: Scientific Notation**
-> 
-> Expressing a number greater than $10$ in the form $a\times 10^{n}$ ($1\le a< 10$, where $n$ is a positive integer).
-
-> **Basic Knowledge: Rules for Addition of Rational Numbers**
-> 
-> When two numbers of the same sign are added, the sum takes the same sign; when two numbers of opposite signs are added, the sum takes the sign of the addend with the larger absolute value.
-
 ---
 
 ## Inquiry 1
@@ -20,7 +8,7 @@
 
 ### Solution to Inquiry 1
 
-By **Basic Knowledge: Powers**, binary places have base $2$, and from right to left are respectively $2^{0}$, $2^{1}$, $2^{2}$, $2^{3}$.
+By Powers, binary places have base $2$, and from right to left are respectively $2^{0}$, $2^{1}$, $2^{2}$, $2^{3}$.
 
 $$\left(1011\right)_{2}=1\times 2^{3}+0\times 2^{2}+1\times 2^{1}+1\times 2^{0}=8+0+2+1=11.$$
 
@@ -32,7 +20,7 @@ Hence $\left(1011\right)_{2}=11$. $\blacksquare$
 
 ### Solution to Inquiry 2
 
-By **Basic Knowledge: Powers**.
+By Powers.
 
 Converting to binary: $89=64+16+8+1=2^{6}+2^{4}+2^{3}+2^{0}$, so
 
@@ -50,7 +38,7 @@ $\blacksquare$
 
 ### Solution to Inquiry 3
 
-By **Basic Knowledge: Powers**, any base-$k$ number $\left(a_{n}a_{n-1}\cdots a_{1}a_{0}\right)_{k}$ can be written as
+By Powers, any base-$k$ number $\left(a_{n}a_{n-1}\cdots a_{1}a_{0}\right)_{k}$ can be written as
 
 $$a_{n}k^{n}+a_{n-1}k^{n-1}+\cdots+a_{1}k+a_{0}.$$
 
@@ -78,7 +66,7 @@ Hence $\left(10010\right)_{2}+\left(111\right)_{2}=\left(11001\right)_{2}=25$. $
 
 (1) $45+23=68$.
 
-(2) By **Basic Knowledge: Powers**, $45=32+8+4+1=\left(101101\right)_{2}$ and $23=16+4+2+1=\left(10111\right)_{2}$. Adding in binary:
+(2) By Powers, $45=32+8+4+1=\left(101101\right)_{2}$ and $23=16+4+2+1=\left(10111\right)_{2}$. Adding in binary:
 
 $$\begin{array}{r} 101101\\ +\quad 10111\\ \hline 1000100\end{array}$$
 

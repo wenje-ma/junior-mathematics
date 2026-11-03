@@ -1,25 +1,6 @@
 # week74
 
-> **Basic Knowledge: Isosceles Triangle**
-> 
-> A triangle with two equal sides is called an isosceles triangle; the two equal sides are called the legs, and the other side is called the base.
-> **Basic Knowledge: Equal Sides Opposite Equal Angles**
-> 
-> The two base angles of an isosceles triangle are equal.
-> **Basic Knowledge: Three Lines in One**
-> 
-> The median on the base, the altitude on the base, and the bisector of the vertex angle of an isosceles triangle coincide. An isosceles triangle is an axisymmetric figure, and the line of the median on the base is its axis of symmetry.
-> **Basic Knowledge: Equal Angles Opposite Equal Sides**
-> 
-> A triangle with two equal angles is an isosceles triangle.
-> **Basic Knowledge: Equilateral Triangle**
-> 
-> An equilateral triangle has three equal angles, each equal to $60^\circ$; a triangle with three equal angles is an equilateral triangle; an isosceles triangle with one angle equal to $60^\circ$ is an equilateral triangle.
-> **Basic Knowledge: Right Triangle Containing a $30^\circ$ Angle**
-> 
-> In a right triangle, if one acute angle equals $30^\circ$, then the leg opposite it equals half the hypotenuse.
 ---
-
 
 ## Exercise 1
 
@@ -27,7 +8,7 @@
 
 ### Solution to Exercise 1
 
-From $AB=AD$, $\triangle ABD$ is isosceles; by **Basic Knowledge: Equal Sides Opposite Equal Angles**,
+From $AB=AD$, $\triangle ABD$ is isosceles; by Equal Sides Opposite Equal Angles,
 
 $$
 \angle B=\angle ADB=\frac{180^\circ-26^\circ}{2}=77^\circ.
@@ -47,7 +28,7 @@ $$
 \angle B=\angle C=\frac{180^\circ-90^\circ}{2}=45^\circ.
 $$
 
-By **Basic Knowledge: Three Lines in One**, $AD$ bisects the vertex angle, so $\angle BAD=\angle DAC=45^\circ$. The equal segments are $BD=DC=AD$, $AB=AC$. $\blacksquare$
+By Three Lines in One, $AD$ bisects the vertex angle, so $\angle BAD=\angle DAC=45^\circ$. The equal segments are $BD=DC=AD$, $AB=AC$. $\blacksquare$
 
 ## Exercise 3
 
@@ -85,7 +66,7 @@ The isosceles triangles are: $\triangle ABC$ ($\angle ABC=\angle C$), $\triangle
 
 ### Solution to Exercise 5
 
-Yes. Of the two angles cut out by the rectangle's diagonal, in the overlapping part after folding, the two coinciding angles are equal; by **Basic Knowledge: Equal Angles Opposite Equal Sides**, the sides opposite the two base angles of the overlapping part are equal, so the overlapping part is an isosceles triangle. $\blacksquare$
+Yes. Of the two angles cut out by the rectangle's diagonal, in the overlapping part after folding, the two coinciding angles are equal; by Equal Angles Opposite Equal Sides, the sides opposite the two base angles of the overlapping part are equal, so the overlapping part is an isosceles triangle. $\blacksquare$
 
 ## Exercise 6
 
@@ -93,11 +74,11 @@ Yes. Of the two angles cut out by the rectangle's diagonal, in the overlapping p
 
 ### Solution to Exercise 6
 
-From $OA=OB$, $\triangle OAB$ is isosceles; by **Basic Knowledge: Equal Sides Opposite Equal Angles**, $\angle A=\angle B$.
+From $OA=OB$, $\triangle OAB$ is isosceles; by Equal Sides Opposite Equal Angles, $\angle A=\angle B$.
 
 From $AB\parallel CD$, the alternate interior angles are equal, giving $\angle A=\angle C$, $\angle B=\angle D$. Hence $\angle C=\angle D$.
 
-By **Basic Knowledge: Equal Angles Opposite Equal Sides**, $OC=OD$. $\blacksquare$
+By Equal Angles Opposite Equal Sides, $OC=OD$. $\blacksquare$
 
 ## Exercise 7
 
@@ -105,7 +86,7 @@ By **Basic Knowledge: Equal Angles Opposite Equal Sides**, $OC=OD$. $\blacksquar
 
 ### Solution to Exercise 7
 
-An equilateral triangle is an axisymmetric figure; by **Basic Knowledge: Three Lines in One**, the line of the median (altitude, angle bisector) on each side is an axis of symmetry. The three axes of symmetry meet at one point and divide the equilateral triangle into six congruent right triangles. $\blacksquare$
+An equilateral triangle is an axisymmetric figure; by Three Lines in One, the line of the median (altitude, angle bisector) on each side is an axis of symmetry. The three axes of symmetry meet at one point and divide the equilateral triangle into six congruent right triangles. $\blacksquare$
 
 ## Exercise 8
 
@@ -113,7 +94,7 @@ An equilateral triangle is an axisymmetric figure; by **Basic Knowledge: Three L
 
 ### Solution to Exercise 8
 
-Since the triangle is equilateral and by **Basic Knowledge: Three Lines in One**, $D$ is the midpoint of $BC$, $BD=DC$, and $AD\perp BC$. In $\text{Rt}\triangle BDE$, $\angle B=60^\circ$, $\angle BDE=60^\circ$, so all three angles of $\triangle BDE$ are $60^\circ$; it is equilateral, hence $BE=DE=BD$. Similarly, $\triangle CDF$ is also equilateral, $CF=DF=DC=BD$. Hence the segments equal to $BD$ are $DC$, $BE$, $DE$, $CF$, $DF$. $\blacksquare$
+Since the triangle is equilateral and by Three Lines in One, $D$ is the midpoint of $BC$, $BD=DC$, and $AD\perp BC$. In $\text{Rt}\triangle BDE$, $\angle B=60^\circ$, $\angle BDE=60^\circ$, so all three angles of $\triangle BDE$ are $60^\circ$; it is equilateral, hence $BE=DE=BD$. Similarly, $\triangle CDF$ is also equilateral, $CF=DF=DC=BD$. Hence the segments equal to $BD$ are $DC$, $BE$, $DE$, $CF$, $DF$. $\blacksquare$
 
 ## Exercise 9
 
@@ -123,7 +104,7 @@ Since the triangle is equilateral and by **Basic Knowledge: Three Lines in One**
 
 From $\angle C=90^\circ$, we get $\angle A+\angle B=90^\circ$. Also $\angle B=2\angle A$, so $3\angle A=90^\circ$, $\angle A=30^\circ$, $\angle B=60^\circ$.
 
-By **Basic Knowledge: Right Triangle Containing a $30^\circ$ Angle**, the leg $BC$ opposite the $30^\circ$ angle $\angle A$ equals half the hypotenuse $AB$, i.e. $BC=\frac{1}{2}AB$. $\blacksquare$
+By Right Triangle Containing a $30^\circ$ Angle, the leg $BC$ opposite the $30^\circ$ angle $\angle A$ equals half the hypotenuse $AB$, i.e. $BC=\frac{1}{2}AB$. $\blacksquare$
 
 ## Exercise 10
 
@@ -131,7 +112,7 @@ By **Basic Knowledge: Right Triangle Containing a $30^\circ$ Angle**, the leg $B
 
 ### Solution to Exercise 10
 
-From $AB=2BC$, i.e. the leg $BC$ equals half the hypotenuse $AB$. By the converse of **Basic Knowledge: Right Triangle Containing a $30^\circ$ Angle**, the acute angle opposite $BC$ satisfies $\angle A=30^\circ$. Also $\angle C=90^\circ$, so $\angle B=90^\circ-30^\circ=60^\circ$. $\blacksquare$
+From $AB=2BC$, i.e. the leg $BC$ equals half the hypotenuse $AB$. By the converse of Right Triangle Containing a $30^\circ$ Angle, the acute angle opposite $BC$ satisfies $\angle A=30^\circ$. Also $\angle C=90^\circ$, so $\angle B=90^\circ-30^\circ=60^\circ$. $\blacksquare$
 
 ## Problem 1
 
@@ -159,7 +140,7 @@ $$
 
 From $AD\parallel BC$, the alternate interior angles are equal, $\angle ADB=\angle DBC$. Since $BD$ bisects $\angle ABC$, $\angle ABD=\angle DBC$. Hence $\angle ABD=\angle ADB$.
 
-By **Basic Knowledge: Equal Angles Opposite Equal Sides**, $AB=AD$. $\blacksquare$
+By Equal Angles Opposite Equal Sides, $AB=AD$. $\blacksquare$
 
 ## Problem 3
 
@@ -181,7 +162,7 @@ $\angle AMB$ is formed from the relationship between adjacent base angles; it is
 
 ### Solution to Problem 4
 
-Through $A$ draw $AF\perp BC$, with foot $F$. From $AB=AC$ and **Basic Knowledge: Three Lines in One**, $F$ is the midpoint of $BC$, $BF=CF$. From $AD=AE$, similarly $F$ is also the midpoint of $DE$, $DF=EF$.
+Through $A$ draw $AF\perp BC$, with foot $F$. From $AB=AC$ and Three Lines in One, $F$ is the midpoint of $BC$, $BF=CF$. From $AD=AE$, similarly $F$ is also the midpoint of $DE$, $DF=EF$.
 
 Subtracting the two equations: $BF-DF=CF-EF$, i.e. $BD=CE$. $\blacksquare$
 
@@ -193,7 +174,7 @@ Subtracting the two equations: $BF-DF=CF-EF$, i.e. $BD=CE$. $\blacksquare$
 
 From $CE\parallel DA$, the corresponding angles are equal, $\angle CEB=\angle A=60^\circ$. Also given $\angle B=60^\circ$, in $\triangle CEB$, $\angle ECB=180^\circ-60^\circ-60^\circ=60^\circ$.
 
-All three angles are $60^\circ$; by **Basic Knowledge: Equilateral Triangle**, $\triangle CEB$ is an equilateral triangle. $\blacksquare$
+All three angles are $60^\circ$; by Equilateral Triangle, $\triangle CEB$ is an equilateral triangle. $\blacksquare$
 
 ## Problem 6
 
@@ -227,7 +208,7 @@ $$
 \angle B=\angle C=\frac{180^\circ-120^\circ}{2}=30^\circ.
 $$
 
-In $\text{Rt}\triangle ABD$, $\angle B=30^\circ$; by **Basic Knowledge: Right Triangle Containing a $30^\circ$ Angle**, the leg $AD$ opposite the $30^\circ$ angle equals half the hypotenuse $AB$, i.e. $AD=\frac{1}{2}AB$. $\blacksquare$
+In $\text{Rt}\triangle ABD$, $\angle B=30^\circ$; by Right Triangle Containing a $30^\circ$ Angle, the leg $AD$ opposite the $30^\circ$ angle equals half the hypotenuse $AB$, i.e. $AD=\frac{1}{2}AB$. $\blacksquare$
 
 ## Problem 8
 
@@ -237,7 +218,7 @@ In $\text{Rt}\triangle ABD$, $\angle B=30^\circ$; by **Basic Knowledge: Right Tr
 
 $AB=15\times\left(10-8\right)=30\ \text{n mile}$. In $\triangle ABC$, $\angle NBC$ is an exterior angle, so $\angle NBC=\angle BAC+\angle C$. From $\angle BAC=\angle NAC=42^\circ$, we get $\angle C=84^\circ-42^\circ=42^\circ$.
 
-Hence $\angle C=\angle BAC$; by **Basic Knowledge: Equal Angles Opposite Equal Sides**, $BC=AB=30\ \text{n mile}$. $\blacksquare$
+Hence $\angle C=\angle BAC$; by Equal Angles Opposite Equal Sides, $BC=AB=30\ \text{n mile}$. $\blacksquare$
 
 ## Problem 9
 
@@ -265,9 +246,9 @@ In $\triangle DAC$ and $\triangle BAE$, $AD=AB$, $\angle DAC=\angle BAE$, $AC=AE
 
 ### Solution to Problem 11
 
-From $AB=AC$, $\angle B=30^\circ$, we get $\angle C=30^\circ$. Since $AD\perp AB$, in $\text{Rt}\triangle ABD$, $\angle B=30^\circ$; by **Basic Knowledge**, $AD=\frac{1}{2}BD$, so $BD=2AD=4$.
+From $AB=AC$, $\angle B=30^\circ$, we get $\angle C=30^\circ$. Since $AD\perp AB$, in $\text{Rt}\triangle ABD$, $\angle B=30^\circ$; by Basic Knowledge, $AD=\frac{1}{2}BD$, so $BD=2AD=4$.
 
-Also $\angle BAD=90^\circ$, $\angle BAC=180^\circ-30^\circ-30^\circ=120^\circ$, so $\angle DAC=120^\circ-90^\circ=30^\circ=\angle C$. By **Basic Knowledge**, $AD=DC=2$.
+Also $\angle BAD=90^\circ$, $\angle BAC=180^\circ-30^\circ-30^\circ=120^\circ$, so $\angle DAC=120^\circ-90^\circ=30^\circ=\angle C$. By Basic Knowledge, $AD=DC=2$.
 
 Thus $BC=BD+DC=4+2=6$. $\blacksquare$
 

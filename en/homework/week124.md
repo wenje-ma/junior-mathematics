@@ -1,22 +1,6 @@
 # week124
 
-> **Basic Knowledge: Arithmetic Mean**
-> 
-> $\overline{x}=\frac{x_1+x_2+\cdots+x_n}{n}$.
-> **Basic Knowledge: Median**
-> 
-> The number in the middle position after the data are arranged in ascending order.
-> **Basic Knowledge: Mode**
-> 
-> The data value that appears most frequently.
-> **Basic Knowledge: Variance**
-> 
-> $s^2=\frac{\left(x_1-\overline{x}\right)^2+\cdots+\left(x_n-\overline{x}\right)^2}{n}$.
-> **Basic Knowledge: Quartiles**
-> 
-> $Q_1$, $Q_2$, $Q_3$ divide the data into four equal parts.
 ---
-
 
 ## Review Problem 1
 
@@ -50,7 +34,7 @@
 
 ### Solution to Review Problem 2
 
-By **Basic Knowledge: Arithmetic Mean**,
+By Arithmetic Mean,
 
 $$
 \overline{x} = \frac{183+209+195+178+204+215+191+208+167+197}{10} = \frac{1947}{10} = 194.7.
@@ -64,13 +48,13 @@ Hence about $195$ cars pass through the intersection on average. $\blacksquare$
 
 ### Solution to Review Problem 3
 
-By **Basic Knowledge: Arithmetic Mean**,
+By Arithmetic Mean,
 
 $$
 \overline{x} = \frac{1.15+1.04+\cdots+1.16}{20} \approx 1.17.
 $$
 
-By **Basic Knowledge: Variance**,
+By Variance,
 
 $$
 s^2 = \frac{\left(1.15-1.17\right)^2+\left(1.04-1.17\right)^2+\cdots+\left(1.16-1.17\right)^2}{20} \approx 0.005.
@@ -90,6 +74,6 @@ Hence the estimated mean mass is about $1.17\ \text{kg}$, and the variance about
 
 (1) Month $7$ the year before last: mean about $60.0$, variance about $120.0$. Month $7$ last year: mean about $32.0$, variance about $90.0$.
 
-By **Basic Knowledge: Quartiles**, the year before last: $Q_1\approx52.0$, $Q_2\approx58.0$, $Q_3\approx69.0$. Last year: $Q_1\approx25.0$, $Q_2\approx33.0$, $Q_3\approx38.0$.
+By Quartiles, the year before last: $Q_1\approx52.0$, $Q_2\approx58.0$, $Q_3\approx69.0$. Last year: $Q_1\approx25.0$, $Q_2\approx33.0$, $Q_3\approx38.0$.
 
-(2) By **Basic Knowledge: Variance**, both last year's mean and variance are markedly lower than the year before last's, showing that the air quality index in month $7$ last year dropped overall, with smaller fluctuation; the air quality improved markedly. $\blacksquare$
+(2) By Variance, both last year's mean and variance are markedly lower than the year before last's, showing that the air quality index in month $7$ last year dropped overall, with smaller fluctuation; the air quality improved markedly. $\blacksquare$

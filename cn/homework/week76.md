@@ -1,28 +1,6 @@
 # week76
 
-> **基础知识: 轴对称的性质**
-> 
-> 成轴对称的两个图形全等; 对称轴垂直平分对称点所连线段.
-> **基础知识: 垂直平分线的性质**
-> 
-> 线段垂直平分线上的点与两端点距离相等.
-> **基础知识: 垂直平分线的判定**
-> 
-> 与线段两端点距离相等的点在这条线段的垂直平分线上.
-> **基础知识: 等边对等角**
-> 
-> 等腰三角形两底角相等.
-> **基础知识: 三线合一**
-> 
-> 等腰三角形底边上的中线, 高及顶角平分线重合.
-> **基础知识: 等角对等边**
-> 
-> 有两个角相等的三角形是等腰三角形.
-> **基础知识: 含 $30^\circ$ 角的直角三角形**
-> 
-> $30^\circ$ 锐角所对的直角边等于斜边的一半.
 ---
-
 
 ### 复习题一
 
@@ -60,9 +38,9 @@
 
 ### 解答 复习题三
 
-由 $D$ 是 $AB$ 中点且 $CD\perp AB$, 直线 $CD$ 垂直平分 $AB$. 点 $C$ 在 $CD$ 上, 由**基础知识: 垂直平分线的性质**, $CA=CB$.
+由 $D$ 是 $AB$ 中点且 $CD\perp AB$, 直线 $CD$ 垂直平分 $AB$. 点 $C$ 在 $CD$ 上, 由垂直平分线的性质, $CA=CB$.
 
-同理, 直线 $BE$ 垂直平分 $AC$, 点 $B$ 在 $BE$ 上, 由**基础知识**, $BA=BC$.
+同理, 直线 $BE$ 垂直平分 $AC$, 点 $B$ 在 $BE$ 上, 由基础知识, $BA=BC$.
 
 故 $AC=AB$. $\blacksquare$
 
@@ -100,7 +78,7 @@ $\blacksquare$
 
 在 $\triangle ABD$ 和 $\triangle BAC$ 中, $AD=BC$, $BD=AC$, $AB=BA$, 由 SSS, $\triangle ABD\cong\triangle BAC$.
 
-由全等对应角相等, $\angle DBA=\angle CAB$. 即在 $\triangle EAB$ 中 $\angle EAB=\angle EBA$, 由**基础知识: 等角对等边**, $EA=EB$, 故 $\triangle EAB$ 是等腰三角形. $\blacksquare$
+由全等对应角相等, $\angle DBA=\angle CAB$. 即在 $\triangle EAB$ 中 $\angle EAB=\angle EBA$, 由等角对等边, $EA=EB$, 故 $\triangle EAB$ 是等腰三角形. $\blacksquare$
 
 ### 复习题七
 
@@ -108,9 +86,9 @@ $\blacksquare$
 
 ### 解答 复习题七
 
-在 $\text{Rt}\triangle ABC$ 中, $\angle A=30^\circ$, 由**基础知识**, 对边 $BC=\frac{1}{2}AB$.
+在 $\text{Rt}\triangle ABC$ 中, $\angle A=30^\circ$, 由基础知识, 对边 $BC=\frac{1}{2}AB$.
 
-由 $CD$ 是高, 在 $\text{Rt}\triangle BCD$ 中, $\angle BCD=90^\circ-\angle B=\angle A=30^\circ$. 由**基础知识**, $30^\circ$ 角 $\angle BCD$ 所对的直角边 $BD=\frac{1}{2}BC=\frac{1}{2}\cdot\frac{1}{2}AB=\frac{1}{4}AB$. $\blacksquare$
+由 $CD$ 是高, 在 $\text{Rt}\triangle BCD$ 中, $\angle BCD=90^\circ-\angle B=\angle A=30^\circ$. 由基础知识, $30^\circ$ 角 $\angle BCD$ 所对的直角边 $BD=\frac{1}{2}BC=\frac{1}{2}\cdot\frac{1}{2}AB=\frac{1}{4}AB$. $\blacksquare$
 
 ### 复习题八
 
@@ -160,11 +138,11 @@ $\blacksquare$
 
 ### 解答 复习题十二
 
-由 $\triangle ABC$ 等边, $BD$ 是中线, 由**基础知识: 三线合一**, $BD$ 平分 $\angle ABC$, 故 $\angle DBC=30^\circ$.
+由 $\triangle ABC$ 等边, $BD$ 是中线, 由三线合一, $BD$ 平分 $\angle ABC$, 故 $\angle DBC=30^\circ$.
 
 由 $CE=CD$, $\triangle CDE$ 等腰, $\angle E=\angle CDE$. 而 $\angle ACB=60^\circ=\angle E+\angle CDE=2\angle E$, 故 $\angle E=30^\circ$.
 
-于是 $\angle DBC=\angle E=30^\circ$, 由**基础知识: 等角对等边**, $DB=DE$. $\blacksquare$
+于是 $\angle DBC=\angle E=30^\circ$, 由等角对等边, $DB=DE$. $\blacksquare$
 
 ### 复习题十三
 

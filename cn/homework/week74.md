@@ -1,25 +1,6 @@
 # week74
 
-> **基础知识: 等腰三角形**
-> 
-> 有两边相等的三角形叫作等腰三角形, 相等的两边叫腰, 另一边叫底边.
-> **基础知识: 等边对等角**
-> 
-> 等腰三角形的两个底角相等.
-> **基础知识: 三线合一**
-> 
-> 等腰三角形底边上的中线, 底边上的高及顶角的平分线重合. 等腰三角形是轴对称图形, 底边上的中线所在直线是它的对称轴.
-> **基础知识: 等角对等边**
-> 
-> 有两个角相等的三角形是等腰三角形.
-> **基础知识: 等边三角形**
-> 
-> 等边三角形三个角都相等, 且每个角等于 $60^\circ$; 三个角都相等的三角形是等边三角形; 有一个角是 $60^\circ$ 的等腰三角形是等边三角形.
-> **基础知识: 含 $30^\circ$ 角的直角三角形**
-> 
-> 在直角三角形中, 如果一个锐角等于 $30^\circ$, 那么它所对的直角边等于斜边的一半.
 ---
-
 
 ## 练习一
 
@@ -27,7 +8,7 @@
 
 ### 解答 练习一
 
-由 $AB=AD$, $\triangle ABD$ 为等腰三角形, 由**基础知识: 等边对等角**,
+由 $AB=AD$, $\triangle ABD$ 为等腰三角形, 由等边对等角,
 
 $$
 \angle B=\angle ADB=\frac{180^\circ-26^\circ}{2}=77^\circ.
@@ -47,7 +28,7 @@ $$
 \angle B=\angle C=\frac{180^\circ-90^\circ}{2}=45^\circ.
 $$
 
-由**基础知识: 三线合一**, $AD$ 平分顶角, 故 $\angle BAD=\angle DAC=45^\circ$. 相等的线段有 $BD=DC=AD$, $AB=AC$. $\blacksquare$
+由三线合一, $AD$ 平分顶角, 故 $\angle BAD=\angle DAC=45^\circ$. 相等的线段有 $BD=DC=AD$, $AB=AC$. $\blacksquare$
 
 ## 练习三
 
@@ -85,7 +66,7 @@ $$
 
 ### 解答 练习五
 
-是. 长方形对角线分出的两个角, 折叠后重合部分中, 由折叠重合的两角相等, 由**基础知识: 等角对等边**, 重合部分两底角所对的边相等, 故重合部分是等腰三角形. $\blacksquare$
+是. 长方形对角线分出的两个角, 折叠后重合部分中, 由折叠重合的两角相等, 由等角对等边, 重合部分两底角所对的边相等, 故重合部分是等腰三角形. $\blacksquare$
 
 ## 练习六
 
@@ -93,11 +74,11 @@ $$
 
 ### 解答 练习六
 
-由 $OA=OB$, $\triangle OAB$ 为等腰三角形, 由**基础知识: 等边对等角**, $\angle A=\angle B$.
+由 $OA=OB$, $\triangle OAB$ 为等腰三角形, 由等边对等角, $\angle A=\angle B$.
 
 由 $AB\parallel CD$, 内错角相等, 得 $\angle A=\angle C$, $\angle B=\angle D$. 故 $\angle C=\angle D$.
 
-由**基础知识: 等角对等边**, $OC=OD$. $\blacksquare$
+由等角对等边, $OC=OD$. $\blacksquare$
 
 ## 练习七
 
@@ -105,7 +86,7 @@ $$
 
 ### 解答 练习七
 
-等边三角形是轴对称图形, 由**基础知识: 三线合一**, 每条边的中线 (高, 角平分线) 所在直线都是对称轴. 三条对称轴交于一点, 且把等边三角形分成六个全等的直角三角形. $\blacksquare$
+等边三角形是轴对称图形, 由三线合一, 每条边的中线 (高, 角平分线) 所在直线都是对称轴. 三条对称轴交于一点, 且把等边三角形分成六个全等的直角三角形. $\blacksquare$
 
 ## 练习八
 
@@ -113,7 +94,7 @@ $$
 
 ### 解答 练习八
 
-由等边三角形及**基础知识: 三线合一**, $D$ 是 $BC$ 中点, $BD=DC$, 且 $AD\perp BC$. 在 $\text{Rt}\triangle BDE$ 中, $\angle B=60^\circ$, $\angle BDE=60^\circ$, 故 $\triangle BDE$ 三个角均为 $60^\circ$, 是等边三角形, 从而 $BE=DE=BD$. 同理 $\triangle CDF$ 也是等边三角形, $CF=DF=DC=BD$. 故与 $BD$ 相等的线段有 $DC$, $BE$, $DE$, $CF$, $DF$. $\blacksquare$
+由等边三角形及三线合一, $D$ 是 $BC$ 中点, $BD=DC$, 且 $AD\perp BC$. 在 $\text{Rt}\triangle BDE$ 中, $\angle B=60^\circ$, $\angle BDE=60^\circ$, 故 $\triangle BDE$ 三个角均为 $60^\circ$, 是等边三角形, 从而 $BE=DE=BD$. 同理 $\triangle CDF$ 也是等边三角形, $CF=DF=DC=BD$. 故与 $BD$ 相等的线段有 $DC$, $BE$, $DE$, $CF$, $DF$. $\blacksquare$
 
 ## 练习九
 
@@ -123,7 +104,7 @@ $$
 
 由 $\angle C=90^\circ$, 得 $\angle A+\angle B=90^\circ$. 又 $\angle B=2\angle A$, 故 $3\angle A=90^\circ$, $\angle A=30^\circ$, $\angle B=60^\circ$.
 
-由**基础知识: 含 $30^\circ$ 角的直角三角形**, $30^\circ$ 角 $\angle A$ 所对的直角边 $BC$ 等于斜边 $AB$ 的一半, 即 $BC=\frac{1}{2}AB$. $\blacksquare$
+由含 $30^\circ$ 角的直角三角形, $30^\circ$ 角 $\angle A$ 所对的直角边 $BC$ 等于斜边 $AB$ 的一半, 即 $BC=\frac{1}{2}AB$. $\blacksquare$
 
 ## 练习十
 
@@ -131,7 +112,7 @@ $$
 
 ### 解答 练习十
 
-由 $AB=2BC$, 即直角边 $BC$ 等于斜边 $AB$ 的一半. 由**基础知识: 含 $30^\circ$ 角的直角三角形** 的逆用, $BC$ 所对的锐角 $\angle A=30^\circ$. 又 $\angle C=90^\circ$, 故 $\angle B=90^\circ-30^\circ=60^\circ$. $\blacksquare$
+由 $AB=2BC$, 即直角边 $BC$ 等于斜边 $AB$ 的一半. 由含 $30^\circ$ 角的直角三角形 的逆用, $BC$ 所对的锐角 $\angle A=30^\circ$. 又 $\angle C=90^\circ$, 故 $\angle B=90^\circ-30^\circ=60^\circ$. $\blacksquare$
 
 ## 习题一
 
@@ -159,7 +140,7 @@ $$
 
 由 $AD\parallel BC$, 内错角相等, $\angle ADB=\angle DBC$. 由 $BD$ 平分 $\angle ABC$, $\angle ABD=\angle DBC$. 故 $\angle ABD=\angle ADB$.
 
-由**基础知识: 等角对等边**, $AB=AD$. $\blacksquare$
+由等角对等边, $AB=AD$. $\blacksquare$
 
 ## 习题三
 
@@ -181,7 +162,7 @@ $\angle AMB$ 由相邻两底角关系构成, 为 $180^\circ-72^\circ-72^\circ=36
 
 ### 解答 习题四
 
-过 $A$ 作 $AF\perp BC$, 垂足为 $F$. 由 $AB=AC$ 及**基础知识: 三线合一**, $F$ 是 $BC$ 中点, $BF=CF$. 由 $AD=AE$, 同理 $F$ 也是 $DE$ 中点, $DF=EF$.
+过 $A$ 作 $AF\perp BC$, 垂足为 $F$. 由 $AB=AC$ 及三线合一, $F$ 是 $BC$ 中点, $BF=CF$. 由 $AD=AE$, 同理 $F$ 也是 $DE$ 中点, $DF=EF$.
 
 两式相减: $BF-DF=CF-EF$, 即 $BD=CE$. $\blacksquare$
 
@@ -193,7 +174,7 @@ $\angle AMB$ 由相邻两底角关系构成, 为 $180^\circ-72^\circ-72^\circ=36
 
 由 $CE\parallel DA$, 同位角相等, $\angle CEB=\angle A=60^\circ$. 又已知 $\angle B=60^\circ$, 在 $\triangle CEB$ 中, $\angle ECB=180^\circ-60^\circ-60^\circ=60^\circ$.
 
-三个角都是 $60^\circ$, 由**基础知识: 等边三角形**, $\triangle CEB$ 是等边三角形. $\blacksquare$
+三个角都是 $60^\circ$, 由等边三角形, $\triangle CEB$ 是等边三角形. $\blacksquare$
 
 ## 习题六
 
@@ -227,7 +208,7 @@ $$
 \angle B=\angle C=\frac{180^\circ-120^\circ}{2}=30^\circ.
 $$
 
-在 $\text{Rt}\triangle ABD$ 中, $\angle B=30^\circ$, 由**基础知识: 含 $30^\circ$ 角的直角三角形**, $30^\circ$ 角所对的直角边 $AD$ 等于斜边 $AB$ 的一半, 即 $AD=\frac{1}{2}AB$. $\blacksquare$
+在 $\text{Rt}\triangle ABD$ 中, $\angle B=30^\circ$, 由含 $30^\circ$ 角的直角三角形, $30^\circ$ 角所对的直角边 $AD$ 等于斜边 $AB$ 的一半, 即 $AD=\frac{1}{2}AB$. $\blacksquare$
 
 ## 习题八
 
@@ -237,7 +218,7 @@ $$
 
 $AB=15\times\left(10-8\right)=30\ \text{n mile}$. 在 $\triangle ABC$ 中, $\angle NBC$ 是外角, 故 $\angle NBC=\angle BAC+\angle C$. 由 $\angle BAC=\angle NAC=42^\circ$, 得 $\angle C=84^\circ-42^\circ=42^\circ$.
 
-故 $\angle C=\angle BAC$, 由**基础知识: 等角对等边**, $BC=AB=30\ \text{n mile}$. $\blacksquare$
+故 $\angle C=\angle BAC$, 由等角对等边, $BC=AB=30\ \text{n mile}$. $\blacksquare$
 
 ## 习题九
 
@@ -265,9 +246,9 @@ $AB=15\times\left(10-8\right)=30\ \text{n mile}$. 在 $\triangle ABC$ 中, $\ang
 
 ### 解答 习题十一
 
-由 $AB=AC$, $\angle B=30^\circ$, 得 $\angle C=30^\circ$. 由 $AD\perp AB$, 在 $\text{Rt}\triangle ABD$ 中, $\angle B=30^\circ$, 由**基础知识**, $AD=\frac{1}{2}BD$, 故 $BD=2AD=4$.
+由 $AB=AC$, $\angle B=30^\circ$, 得 $\angle C=30^\circ$. 由 $AD\perp AB$, 在 $\text{Rt}\triangle ABD$ 中, $\angle B=30^\circ$, 由基础知识, $AD=\frac{1}{2}BD$, 故 $BD=2AD=4$.
 
-又 $\angle BAD=90^\circ$, $\angle BAC=180^\circ-30^\circ-30^\circ=120^\circ$, 故 $\angle DAC=120^\circ-90^\circ=30^\circ=\angle C$. 由**基础知识**, $AD=DC=2$.
+又 $\angle BAD=90^\circ$, $\angle BAC=180^\circ-30^\circ-30^\circ=120^\circ$, 故 $\angle DAC=120^\circ-90^\circ=30^\circ=\angle C$. 由基础知识, $AD=DC=2$.
 
 于是 $BC=BD+DC=4+2=6$. $\blacksquare$
 

@@ -1,16 +1,6 @@
 # week149
 
-> **基础知识: 圆心角**
-> 
-> 顶点在圆心的角叫作圆心角.
-> **基础知识: 圆的旋转对称性**
-> 
-> 圆是中心对称图形, 圆心是它的对称中心; 把圆绕圆心旋转任意一个角度, 所得图形都与原图形重合.
-> **基础知识: 圆心角, 弧, 弦的关系**
-> 
-> 在同圆或等圆中, 相等的圆心角所对的弧相等, 所对的弦也相等; 相等的弧所对的圆心角相等, 所对的弦相等; 相等的弦所对的圆心角相等, 所对的优弧和劣弧分别相等.
 ---
-
 
 ## 练习一
 
@@ -26,7 +16,7 @@
 
 ### 解答 练习一
 
-由**基础知识: 圆心角, 弧, 弦的关系**.
+由圆心角, 弧, 弦的关系.
 
 (1) $\angle AOB=\angle COD$, $\overset{\frown}{AB}=\overset{\frown}{CD}$.
 
@@ -42,7 +32,7 @@
 
 ### 解答 练习二
 
-由**基础知识: 圆心角, 弧, 弦的关系**.
+由圆心角, 弧, 弦的关系.
 
 $\overset{\frown}{BC}=\overset{\frown}{CD}=\overset{\frown}{DE}$, 故 $\angle BOC=\angle COD=\angle DOE=35^\circ$. 三段圆心角共 $3\times35^\circ=105^\circ$. $AB$ 为直径, $\angle AOB=180^\circ$, 故
 
@@ -58,6 +48,6 @@ $\blacksquare$
 
 ### 解答 练习三
 
-由**基础知识: 圆心角, 弧, 弦的关系**.
+由圆心角, 弧, 弦的关系.
 
 $\overset{\frown}{AC}=\overset{\frown}{BC}$, 故 $\angle AOC=\angle BOC$. $M$, $N$ 分别为 $OA$, $OB$ 中点, 故 $OM=\frac12 OA=\frac12 OB=ON$. 在 $\triangle OMC$ 与 $\triangle ONC$ 中, $OM=ON$, $\angle MOC=\angle NOC$, $OC$ 公共, 故 $\triangle OMC\cong\triangle ONC$, 从而 $MC=NC$. $\blacksquare$

@@ -1,16 +1,6 @@
 # week148
 
-> **Basic Knowledge: Axial Symmetry of a Circle**
-> 
-> A circle is an axially symmetric figure, and the line on which any diameter lies is an axis of symmetry of the circle.
-> **Basic Knowledge: Perpendicular Chord Theorem**
-> 
-> A diameter perpendicular to a chord bisects the chord and bisects the two arcs subtended by the chord.
-> **Basic Knowledge: Corollary to the Perpendicular Chord Theorem**
-> 
-> A diameter that bisects a chord (which is not a diameter) is perpendicular to the chord and bisects the two arcs subtended by the chord.
 ---
-
 
 ## Exercise 1
 
@@ -18,7 +8,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Perpendicular Chord Theorem**.
+By Perpendicular Chord Theorem.
 
 Through $O$ draw $OH\perp AB$ at $H$. In the large circle, $OH$ bisects $AB$, so $AH=BH$; in the small circle, $OH$ bisects $CD$, so $CH=DH$. Subtracting the two equations gives $AH-CH=BH-DH$, i.e. $AC=BD$. $\blacksquare$
 
@@ -28,7 +18,7 @@ Through $O$ draw $OH\perp AB$ at $H$. In the large circle, $OH$ bisects $AB$, so
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Perpendicular Chord Theorem**.
+By Perpendicular Chord Theorem.
 
 $OD\perp AB$ and $OE\perp AC$, so $\angle ADO=\angle AEO=90^\circ$; also $\angle DAE=90^\circ$, so the quadrilateral $ADOE$ is a rectangle. Since $AB=AC$, the perpendicular chord theorem gives $AD=\frac12 AB$ and $AE=\frac12 AC$, so $AD=AE$. The adjacent sides of the rectangle $ADOE$ are equal, so it is a square. $\blacksquare$
 
@@ -40,7 +30,7 @@ The figure shows the cross-section of a tunnel: the upper part is an arc of a ci
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Perpendicular Chord Theorem**, $EM\perp CD$, and $M$ is the foot.
+By Perpendicular Chord Theorem, $EM\perp CD$, and $M$ is the foot.
 
 Let the radius be $R$; then $OC=R$, $OM=EM-R=6-R$, and $CM=\frac12 CD=2$. In $\text{Rt}\triangle OMC$,
 

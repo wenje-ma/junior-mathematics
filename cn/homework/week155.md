@@ -1,29 +1,6 @@
 # week155
 
-> **基础知识: 直线与圆的位置关系**
-> 
-> 直线与圆没有公共点叫作相离; 只有一个公共点叫作相切, 这条直线叫作圆的切线, 这个点叫作切点; 有两个公共点叫作相交.
-> **基础知识: 位置关系判定**
-> 
-> 设 $\odot O$ 半径为 $r$, 圆心到直线距离为 $d$, 则 $d> r$ 相离, $d=r$ 相切, $d< r$ 相交.
-> **基础知识: 切线的性质**
-> 
-> 圆的切线垂直于过切点的半径.
-> **基础知识: 切线的判定**
-> 
-> 经过半径外端并且垂直于这条半径的直线是圆的切线.
-> **基础知识: 切线长定理**
-> 
-> 从圆外一点引圆的两条切线, 它们的切线长相等, 且这一点和圆心的连线平分两条切线的夹角.
-> **基础知识: 圆周角定理**
-> 
-> 一条弧所对的圆周角等于它所对的圆心角的一半.
-> **基础知识: 垂径定理**
-> 
-> 垂直于弦的直径平分弦, 并且平分弦所对的两条弧.
-
 ---
-
 
 ## 练习一
 
@@ -39,7 +16,7 @@
 
 ### 解答 练习一
 
-由**基础知识: 位置关系判定**, $r=6.5$.
+由位置关系判定, $r=6.5$.
 
 (1) $d=4.5< 6.5$, 相交, 两个公共点.
 
@@ -59,7 +36,7 @@
 
 ### 解答 练习二
 
-由**基础知识: 位置关系判定**.
+由位置关系判定.
 
 $M$ 到 $OA$ 距离 $d=OM\sin30^\circ=2.5$.
 
@@ -75,7 +52,7 @@ $M$ 到 $OA$ 距离 $d=OM\sin30^\circ=2.5$.
 
 ### 解答 练习三
 
-由**基础知识: 切线的判定**.
+由切线的判定.
 
 $AB$ 为直径, $O$ 在 $AB$ 上. $AB=AC$, $\angle ABC=45^\circ$, 故 $\angle ACB=45^\circ$, $\angle BAC=90^\circ$, 即 $AC\perp AB$. 又 $A$ 在圆上, 故 $AC$ 是 $\odot O$ 的切线. $\blacksquare$
 
@@ -85,7 +62,7 @@ $AB$ 为直径, $O$ 在 $AB$ 上. $AB=AC$, $\angle ABC=45^\circ$, 故 $\angle AC
 
 ### 解答 练习四
 
-由**基础知识: 切线的性质**.
+由切线的性质.
 
 $l_1\perp AB$, $l_2\perp AB$, 故 $l_1\parallel l_2$. $\blacksquare$
 
@@ -95,7 +72,7 @@ $l_1\perp AB$, $l_2\perp AB$, 故 $l_1\parallel l_2$. $\blacksquare$
 
 ### 解答 练习五
 
-由**基础知识** 及**基础知识: 垂径定理**.
+由基础知识 及垂径定理.
 
 $OP\perp AB$, 由垂径定理 $P$ 平分 $AB$, 故 $AP=BP$. $\blacksquare$
 
@@ -105,7 +82,7 @@ $OP\perp AB$, 由垂径定理 $P$ 平分 $AB$, 故 $AP=BP$. $\blacksquare$
 
 ### 解答 练习六
 
-由**基础知识: 切线长定理**.
+由切线长定理.
 
 $PA=PB$, $OA\perp PA$, $\angle PAB=90^\circ-25^\circ=65^\circ$. $\angle PBA=\angle PAB=65^\circ$, 故 $\angle P=180^\circ-130^\circ=50^\circ$. $\blacksquare$
 
@@ -119,7 +96,7 @@ $PA=PB$, $OA\perp PA$, $\angle PAB=90^\circ-25^\circ=65^\circ$. $\angle PBA=\ang
 
 ### 解答 练习七
 
-由**基础知识: 切线长定理**.
+由切线长定理.
 
 (1) $OA\perp PA$, $OB\perp PB$, $OP\perp AB$.
 
@@ -137,7 +114,7 @@ $PA=PB$, $OA\perp PA$, $\angle PAB=90^\circ-25^\circ=65^\circ$. $\angle PBA=\ang
 
 ### 解答 习题一
 
-由**基础知识: 位置关系判定**.
+由位置关系判定.
 
 $AB=5$, $C$ 到 $AB$ 距离 $d=\frac{AC\cdot BC}{AB}=\frac{12}{5}=2.4$.
 
@@ -157,7 +134,7 @@ $AB=5$, $C$ 到 $AB$ 距离 $d=\frac{AC\cdot BC}{AB}=\frac{12}{5}=2.4$.
 
 ### 解答 习题二
 
-由**基础知识: 切线的性质**.
+由切线的性质.
 
 (1) $VT=\sqrt{UV^2-r^2}=\sqrt{28^2-25^2}=\sqrt{159}\approx12.6\,\text{cm}$.
 
@@ -169,7 +146,7 @@ $AB=5$, $C$ 到 $AB$ 距离 $d=\frac{AC\cdot BC}{AB}=\frac{12}{5}=2.4$.
 
 ### 解答 习题三
 
-由**基础知识: 切线的判定**.
+由切线的判定.
 
 连接 $OC$. $OA=OB$, $CA=CB$, 故 $OC\perp AB$ (等腰三角形三线合一). $C$ 在圆上, 故 $AB$ 是切线. $\blacksquare$
 
@@ -179,7 +156,7 @@ $AB=5$, $C$ 到 $AB$ 距离 $d=\frac{AC\cdot BC}{AB}=\frac{12}{5}=2.4$.
 
 ### 解答 习题四
 
-由**基础知识** 及**基础知识**.
+由基础知识 及基础知识.
 
 $BC$ 为切线, $BC\perp AB$. $AD=DC$, 在 $\text{Rt}\triangle ABC$ 中 $D$ 为 $AC$ 中点, 故 $BD=AD=DC$, $\triangle ABD$ 等腰. 又 $AB$ 为直径, $\angle ADB=90^\circ$, 故 $\angle ABD=45^\circ$. $\blacksquare$
 
@@ -189,7 +166,7 @@ $BC$ 为切线, $BC\perp AB$. $AD=DC$, 在 $\text{Rt}\triangle ABC$ 中 $D$ 为 
 
 ### 解答 习题五
 
-由**基础知识: 切线长定理**.
+由切线长定理.
 
 $\angle BCE=35^\circ$, 切线与弦夹角等于所对圆周角, 故 $\angle BAC=35^\circ$. $\angle P=180^\circ-2\times\left(90^\circ-35^\circ\right)=70^\circ$. $\blacksquare$
 
@@ -199,7 +176,7 @@ $\angle BCE=35^\circ$, 切线与弦夹角等于所对圆周角, 故 $\angle BAC=
 
 ### 解答 习题六
 
-由**基础知识: 切线的判定**.
+由切线的判定.
 
 连接 $OB$. $\angle BOC=2\angle BDC=2\left(180^\circ-\angle A-\angle C\right)$ 相关计算: $\angle OBC=\angle C=27^\circ$, $\angle ABO=180^\circ-36^\circ-27^\circ-27^\circ=90^\circ$, 故 $AB\perp OB$, $AB$ 是切线. $\blacksquare$
 
@@ -209,7 +186,7 @@ $\angle BCE=35^\circ$, 切线与弦夹角等于所对圆周角, 故 $\angle BAC=
 
 ### 解答 习题七
 
-由**基础知识: 切线的性质**.
+由切线的性质.
 
 两面墙为互相垂直的切线, 圆心到两墙距离均为半径 $r$. $WY$ 为圆心到墙脚距离在水平方向投影, $r=WY=0.65\,\text{m}$. $\blacksquare$
 
@@ -219,7 +196,7 @@ $\angle BCE=35^\circ$, 切线与弦夹角等于所对圆周角, 故 $\angle BAC=
 
 ### 解答 习题八
 
-由**基础知识: 切线长定理**.
+由切线长定理.
 
 $BO$ 平分 $\angle ABC$, $CO$ 平分 $\angle BCD$. $AB\parallel CD$, $\angle ABC+\angle BCD=180^\circ$, 故 $\angle OBC+\angle OCB=90^\circ$, $\angle BOC=90^\circ$. $BC=\sqrt{6^2+8^2}=10$. $\blacksquare$
 
@@ -229,7 +206,7 @@ $BO$ 平分 $\angle ABC$, $CO$ 平分 $\angle BCD$. $AB\parallel CD$, $\angle AB
 
 ### 解答 习题九
 
-由**基础知识: 切线的性质**.
+由切线的性质.
 
 连接 $OC$. $OC\perp CD$, $AD\perp CD$, 故 $OC\parallel AD$. $\angle DAC=\angle OCA=\angle OAC$, 故 $AC$ 平分 $\angle DAB$. $\blacksquare$
 
@@ -239,7 +216,7 @@ $BO$ 平分 $\angle ABC$, $CO$ 平分 $\angle BCD$. $AB\parallel CD$, $\angle AB
 
 ### 解答 习题十
 
-由**基础知识** 及**基础知识**.
+由基础知识 及基础知识.
 
 $DP\parallel AC$, $\angle PDB=\angle BAC=38^\circ$. 切线 $DP$, 弦切角 $\angle BDP=\angle BAD=38^\circ$. $\angle ACD=\angle ABD$ 相关计算得 $\angle ACD=26^\circ$. $\blacksquare$
 
@@ -249,7 +226,7 @@ $DP\parallel AC$, $\angle PDB=\angle BAC=38^\circ$. 切线 $DP$, 弦切角 $\ang
 
 ### 解答 习题十一
 
-由**基础知识: 切线的判定**.
+由切线的判定.
 
 连接 $OE$, $AE$. $AB$ 为直径, $\angle AEB=90^\circ$, $D$ 为 $\text{Rt}\triangle AEC$ 斜边 $AC$ 中点, 故 $DE=DA=DC$. $OE=OA$, $OD$ 公共, $\triangle ODE\cong\triangle ODA$, $\angle OED=\angle OAD=90^\circ$, 故 $DE$ 是切线. $\blacksquare$
 
@@ -259,7 +236,7 @@ $DP\parallel AC$, $\angle PDB=\angle BAC=38^\circ$. 切线 $DP$, 弦切角 $\ang
 
 ### 解答 习题十二
 
-由**基础知识: 圆周角定理**.
+由圆周角定理.
 
 两圆等圆半径相等, $O_1O_2=r$. $\triangle O_1AO_2$ 为等边三角形, $\angle O_1AO_2=60^\circ$. $AB\perp O_1O_2$, $\angle O_1AB=30^\circ$. $\blacksquare$
 

@@ -1,16 +1,6 @@
 # week106
 
-> **Basic Knowledge: Interior Angle Sum of a Polygon**
-> 
-> The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
-> **Basic Knowledge: Opposite Sides**
-> 
-> Opposite sides of a parallelogram are equal.
-> **Basic Knowledge: Pythagorean Theorem**
-> 
-> The sum of the squares of the two legs of a right triangle equals the square of the hypotenuse.
 ---
-
 
 ### Activity 1
 
@@ -22,7 +12,7 @@ Let \(MN=2\); then square \(MNAB\) has side length \(2\).
 
 After folding in Step 2, \(D\) is the midpoint of \(MN\), so \(CD=1,\ BC=2\).
 
-In \(Rt\triangle BCD\), by **Basic Knowledge**,
+In \(Rt\triangle BCD\), by Basic Knowledge,
 
 $$
 BD=\sqrt{BC^{2}+CD^{2}}=\sqrt{4+1}=\sqrt{5}.
@@ -54,7 +44,7 @@ As shown in the figure, there are two square pieces of paper of different sizes.
 
 Let the small square have side \(a\) and the large square side \(b\); then the combined large square has side \(\sqrt{a^{2}+b^{2}}\).
 
-On one side of the large square, mark off length \(a\) to obtain a segment of length \(\sqrt{a^{2}+b^{2}}\) (by **Basic Knowledge**, the hypotenuse of legs \(a,b\)).
+On one side of the large square, mark off length \(a\) to obtain a segment of length \(\sqrt{a^{2}+b^{2}}\) (by Basic Knowledge, the hypotenuse of legs \(a,b\)).
 
 Cut along this segment and, using the out-in complementary method, cut the two small squares into several pieces and rearrange them into a large square of side \(\sqrt{a^{2}+b^{2}}\).
 

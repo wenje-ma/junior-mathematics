@@ -1,22 +1,6 @@
 # week83
 
-> **Basic Knowledge: Factoring**
-> 
-> Writing a polynomial as a product of several integral expressions is called factoring this polynomial, also called decomposing the polynomial into factors. Factoring and polynomial multiplication are inverse transformations.
-> **Basic Knowledge: Method of Extracting the Common Factor**
-> 
-> Factor out the common factor of all terms to express the polynomial as a product.
-
 ---
-
-
-> **Basic Knowledge: Common Factor** 
-> 
-> A common factor shared by all terms of a polynomial is called the common factor of the terms of this polynomial.
-
-> **Basic Knowledge: Method of Extracting the Common Factor** 
-> 
-> If the terms of a polynomial have a common factor, this common factor can be extracted, writing the polynomial as the product of the common factor and another factor.
 
 ## Exercise 1
 
@@ -30,7 +14,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge**, the result of a factorization must be a product of several integral expressions.
+By Basic Knowledge, the result of a factorization must be a product of several integral expressions.
 
 (1) No; it is polynomial multiplication, going from a product to a sum.
 
@@ -52,7 +36,7 @@ By **Basic Knowledge**, the result of a factorization must be a product of sever
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Method of Extracting the Common Factor**.
+By Method of Extracting the Common Factor.
 
 (1) $ax-ay=a\left(x-y\right)$.
 
@@ -74,7 +58,7 @@ By **Basic Knowledge: Method of Extracting the Common Factor**.
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $1.99^2+1.99\times0.01=1.99\left(1.99+0.01\right)=1.99\times2=3.98$.
 
@@ -96,7 +80,7 @@ By **Basic Knowledge**.
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $8m^2 n+2mn=2mn\left(4m+1\right)$.
 
@@ -130,7 +114,7 @@ Substituting $a=-5,x=3$, we get $\left(3+7\right)\left(4\times25-3\right)=10\tim
 
 ### Solution to Problem 1
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) Yes; the right side is a product.
 
@@ -154,7 +138,7 @@ By **Basic Knowledge**.
 
 ### Solution to Problem 2
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $x+xy=x\left(1+y\right)$.
 
@@ -200,7 +184,7 @@ By **Basic Knowledge**.
 
 ### Solution to Problem 4
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $2mn^2+mn=mn\left(2n+1\right)$.
 

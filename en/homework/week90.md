@@ -1,18 +1,6 @@
 # week90
 
-> **Basic Knowledge: Negative Integer Exponent Power**
-> 
-> When $n$ is a positive integer, $a^{-n}=\frac{1}{a^n}$ ($a\ne0$), i.e. $a^{-n}$ is the reciprocal of $a^n$.
 ---
-
-
-> **Basic Knowledge: Properties of Integer Exponent Powers** 
-> 
-> (1) $a^m\cdot a^n=a^{m+n}$; (2) $\left(a^m\right)^n=a^{mn}$; (3) $\left(ab\right)^n=a^n b^n$ ($m,n$ are integers, the base is nonzero).
-
-> **Basic Knowledge: Scientific Notation for Positive Numbers Less Than 1** 
-> 
-> A positive number less than $1$ can be written in the form $a\times10^{-n}$, where $1\le a< 10$, and $n$ is a positive integer.
 
 ## Exercise 1
 
@@ -26,7 +14,7 @@
 
 ### Solution to Exercise 1
 
-By the zero exponent power $a^0=1$ ($a\ne0$) and **Basic Knowledge**.
+By the zero exponent power $a^0=1$ ($a\ne0$) and Basic Knowledge.
 
 (1) $3^0=1$, $3^{-2}=\frac19$.
 
@@ -44,7 +32,7 @@ By the zero exponent power $a^0=1$ ($a\ne0$) and **Basic Knowledge**.
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $x^2 y^{-3}\cdot x^{-3} y^3=x^{-1} y^0=\frac1x$.
 
@@ -56,7 +44,7 @@ By **Basic Knowledge**.
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 $0.000000001=1\times10^{-9}$; $0.0012=1.2\times10^{-3}$; $0.000000345=3.45\times10^{-7}$; $0.0000000108=1.08\times10^{-8}$. $\blacksquare$
 
@@ -116,7 +104,7 @@ $0.000000001=1\times10^{-9}$; $0.0012=1.2\times10^{-3}$; $0.000000345=3.45\times
 
 ### Solution to Problem 3
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $3a^{-2} b\cdot2ab^{-2}=6a^{-1} b^{-1}=\frac{6}{ab}$.
 

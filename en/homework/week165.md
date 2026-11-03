@@ -1,22 +1,10 @@
 # week165
 
-> **Basic Knowledge: AA**
-> 
-> Two triangles with two pairs of corresponding angles equal are similar.
-> **Basic Knowledge: Homothetic Figures**
-> 
-> Similar figures whose corresponding vertices lie on lines through a common point and whose corresponding sides are parallel.
-
 ---
 
 ---
 
 ---
-
-
-> **Basic Knowledge: Homothetic Figures** 
-> 
-> Two figures whose corresponding vertices' connecting lines meet at the same point $O$, and for which $\frac{OA'}{OA}=\frac{OB'}{OB}=\cdots$, are called homothetic figures, with corresponding sides parallel to each other.
 
 ### Activity 1
 
@@ -24,7 +12,7 @@
 
 ### Solution to Activity 1
 
-By **Basic Knowledge: AA**, both methods construct similar triangles and use the proportionality of corresponding sides to find the height of the flagpole.
+By AA, both methods construct similar triangles and use the proportionality of corresponding sides to find the height of the flagpole.
 
 (1) Using shadows: at the same moment the sun's rays are parallel; the flagpole and its shadow, and the bamboo pole and its shadow, form two right triangles respectively, whose two acute angles correspond and are equal, so they are similar, and the object height is proportional to the shadow length.
 
@@ -38,7 +26,7 @@ By **Basic Knowledge: AA**, both methods construct similar triangles and use the
 
 ### Solution to Activity 2
 
-By **Basic Knowledge: Homothetic Figures**, relative to the first flat artistic lettering, each vertex of the second three-dimensional lettering is offset in the same direction, and the corresponding segments are parallel to each other with equal ratios; i.e. the two styles of lettering form homothetic figures.
+By Homothetic Figures, relative to the first flat artistic lettering, each vertex of the second three-dimensional lettering is offset in the same direction, and the corresponding segments are parallel to each other with equal ratios; i.e. the two styles of lettering form homothetic figures.
 
 The center of homothety lies on the ray corresponding to each stroke, and the ratio of corresponding segments equals the similarity ratio. Following this homothety relationship produces the three-dimensional lettering. $\blacksquare$
-
+

@@ -1,21 +1,5 @@
 # week63
 
-> **基础知识: 三角形内角和定理**
-> 
-> 三角形的内角和等于 $180^\circ$.
-
-> **基础知识: 三角形的外角**
-> 
-> 三角形的一边与另一边的延长线组成的角, 叫作三角形的外角.
-
-> **基础知识: 外角与不相邻内角的关系**
-> 
-> 三角形的外角等于与它不相邻的两个内角的和. 三角形的三个外角和等于 $360^\circ$.
-
-
-> **基础知识: 直角三角形的锐角互余**
-> 
-> 直角三角形的两个锐角互余.
 ---
 
 ## 练习一
@@ -24,7 +8,7 @@
 
 ### 解答 练习一
 
-由**基础知识: 外角与不相邻内角的关系**, $\angle CBD$ 是 $\triangle ABC$ 在点 $B$ 处的外角, 它等于不相邻的两个内角 $\angle CAD$ 与 $\angle ACB$ 的和.
+由外角与不相邻内角的关系, $\angle CBD$ 是 $\triangle ABC$ 在点 $B$ 处的外角, 它等于不相邻的两个内角 $\angle CAD$ 与 $\angle ACB$ 的和.
 
 $$
 \angle CBD=\angle CAD+\angle ACB.
@@ -38,7 +22,6 @@ $$
 
 $\blacksquare$
 
-
 ---
 
 ## 练习二
@@ -47,7 +30,7 @@ $\blacksquare$
 
 ### 解答 练习二
 
-由**基础知识: 三角形内角和定理**, 在 $\triangle ABC$ 中,
+由三角形内角和定理, 在 $\triangle ABC$ 中,
 
 $$
 \angle B+\angle C=180^\circ-\angle A=180^\circ-40^\circ=140^\circ.
@@ -67,7 +50,6 @@ $$
 
 $\blacksquare$
 
-
 ---
 
 ## 练习三
@@ -78,10 +60,9 @@ $\blacksquare$
 
 $\angle ACD=\angle B$. 理由如下.
 
-由**基础知识: 直角三角形的锐角互余**, 在 $\text{Rt}\triangle ABC$ 中, $\angle A+\angle B=90^\circ$. 又在 $\text{Rt}\triangle ACD$ 中, $\angle A+\angle ACD=90^\circ$.
+由直角三角形的锐角互余, 在 $\text{Rt}\triangle ABC$ 中, $\angle A+\angle B=90^\circ$. 又在 $\text{Rt}\triangle ACD$ 中, $\angle A+\angle ACD=90^\circ$.
 
 $\angle ACD$ 与 $\angle B$ 都是 $\angle A$ 的余角, 故 $\angle ACD=\angle B$. $\blacksquare$
-
 
 ---
 
@@ -93,10 +74,9 @@ $\angle ACD$ 与 $\angle B$ 都是 $\angle A$ 的余角, 故 $\angle ACD=\angle 
 
 $\triangle ADE$ 是直角三角形. 理由如下.
 
-由**基础知识: 直角三角形的锐角互余**, 在 $\text{Rt}\triangle ABC$ 中, $\angle A+\angle B=90^\circ$. 由 $\angle 1=\angle 2$ 且 $\angle 2$ 与 $\angle B$ 为同一组对应角, 得 $\angle ADE=\angle B$.
+由直角三角形的锐角互余, 在 $\text{Rt}\triangle ABC$ 中, $\angle A+\angle B=90^\circ$. 由 $\angle 1=\angle 2$ 且 $\angle 2$ 与 $\angle B$ 为同一组对应角, 得 $\angle ADE=\angle B$.
 
 故 $\angle A+\angle ADE=\angle A+\angle B=90^\circ$, 从而在 $\triangle ADE$ 中, $\angle AED=180^\circ-\left(\angle A+\angle ADE\right)=90^\circ$. 所以 $\triangle ADE$ 是直角三角形. $\blacksquare$
-
 
 ---
 
@@ -108,7 +88,7 @@ $\triangle ADE$ 是直角三角形. 理由如下.
 
 ### 解答 练习五
 
-由**基础知识: 三角形内角和定理** 及**基础知识: 外角与不相邻内角的关系**.
+由三角形内角和定理 及外角与不相邻内角的关系.
 
 图 (1): 两内角为 $80^\circ$, $60^\circ$, 故 $\angle 1=180^\circ-80^\circ-60^\circ=40^\circ$, $\angle 2=80^\circ+60^\circ=140^\circ$.
 
@@ -122,7 +102,6 @@ $\triangle ADE$ 是直角三角形. 理由如下.
 
 图 (6): 下方直角三角形中 $30^\circ$ 所对的另一锐角为 $60^\circ$, 由对顶角关系得 $\angle 1=60^\circ$, $\angle 2=30^\circ$. $\blacksquare$
 
-
 ---
 
 ## 习题一
@@ -133,7 +112,7 @@ $\triangle ADE$ 是直角三角形. 理由如下.
 
 ### 解答 习题一
 
-由**基础知识: 三角形内角和定理**, 三内角之和为 $180^\circ$.
+由三角形内角和定理, 三内角之和为 $180^\circ$.
 
 图 (1): $x=180^\circ-39^\circ-108^\circ=33^\circ$.
 
@@ -142,7 +121,6 @@ $\triangle ADE$ 是直角三角形. 理由如下.
 图 (3): $72^\circ+2x=180^\circ$, 故 $x=54^\circ$.
 
 图 (4): $x+\left(x-36^\circ\right)+\left(x+36^\circ\right)=3x=180^\circ$, 故 $x=60^\circ$. $\blacksquare$
-
 
 ---
 
@@ -158,14 +136,13 @@ $\triangle ADE$ 是直角三角形. 理由如下.
 
 ### 解答 习题二
 
-由**基础知识: 三角形内角和定理**, 三角形三内角之和为 $180^\circ$.
+由三角形内角和定理, 三角形三内角之和为 $180^\circ$.
 
 (1) 最多 $1$ 个直角. 若有两个直角, 其和已达 $180^\circ$, 第三个角只能为 $0^\circ$, 不能构成三角形.
 
 (2) 最多 $1$ 个钝角. 若有两个钝角, 其和已超过 $180^\circ$, 与三内角和为 $180^\circ$ 矛盾.
 
 (3) 不可以. 直角三角形中直角的外角为 $90^\circ$, 两个锐角的外角分别为 $180^\circ$ 减去一个锐角, 必大于 $90^\circ$, 故其外角都不是锐角. $\blacksquare$
-
 
 ---
 
@@ -175,14 +152,13 @@ $\triangle ADE$ 是直角三角形. 理由如下.
 
 ### 解答 习题三
 
-由**基础知识: 三角形内角和定理**, 设 $\angle A=x$, 则 $\angle B=x+10^\circ$, $\angle C=x+20^\circ$.
+由三角形内角和定理, 设 $\angle A=x$, 则 $\angle B=x+10^\circ$, $\angle C=x+20^\circ$.
 
 $$
 x+\left(x+10^\circ\right)+\left(x+20^\circ\right)=180^\circ.
 $$
 
 解得 $3x=150^\circ$, 即 $x=50^\circ$. 故 $\angle A=50^\circ$, $\angle B=60^\circ$, $\angle C=70^\circ$. $\blacksquare$
-
 
 ---
 
@@ -192,7 +168,7 @@ $$
 
 ### 解答 习题四
 
-在 $\text{Rt}\triangle ADC$ 中, 由**基础知识: 直角三角形的锐角互余**,
+在 $\text{Rt}\triangle ADC$ 中, 由直角三角形的锐角互余,
 
 $$
 \angle DAC=90^\circ-\angle C=90^\circ-65^\circ=25^\circ.
@@ -208,7 +184,6 @@ $$
 
 $\blacksquare$
 
-
 ---
 
 ## 习题五
@@ -219,14 +194,13 @@ $\blacksquare$
 
 由 $AB\parallel CD$, 直线 $AC$ 截这组平行线所得内错角相等, 故 $\angle 1=\angle A=40^\circ$. 同理, 直线 $BD$ 截得 $\angle DBA=\angle D=45^\circ$.
 
-在 $\triangle AOB$ 中, 由**基础知识: 三角形内角和定理**,
+在 $\triangle AOB$ 中, 由三角形内角和定理,
 
 $$
 \angle 2=180^\circ-\angle A-\angle DBA=180^\circ-40^\circ-45^\circ=95^\circ.
 $$
 
 故 $\angle 1=40^\circ$, $\angle 2=95^\circ$. $\blacksquare$
-
 
 ---
 
@@ -238,14 +212,13 @@ $$
 
 由 $AB\parallel CD$, 直线 $AE$ 截得内错角相等, 故 $\angle COE=\angle A=45^\circ$.
 
-在 $\triangle COE$ 中, 由**基础知识: 三角形内角和定理** 及 $\angle C=\angle E$,
+在 $\triangle COE$ 中, 由三角形内角和定理 及 $\angle C=\angle E$,
 
 $$
 2\angle C+45^\circ=180^\circ.
 $$
 
 解得 $\angle C=67.5^\circ$. $\blacksquare$
-
 
 ---
 
@@ -267,14 +240,13 @@ $$
 \angle ABC=80^\circ-45^\circ=35^\circ.
 $$
 
-由**基础知识: 三角形内角和定理**,
+由三角形内角和定理,
 
 $$
 \angle ACB=180^\circ-\angle BAC-\angle ABC=180^\circ-60^\circ-35^\circ=85^\circ.
 $$
 
 $\blacksquare$
-
 
 ---
 
@@ -284,20 +256,19 @@ $\blacksquare$
 
 ### 解答 习题八
 
-由**基础知识: 外角与不相邻内角的关系**, $\angle BDC$ 是 $\triangle ADC$ 在点 $D$ 处的外角, 故
+由外角与不相邻内角的关系, $\angle BDC$ 是 $\triangle ADC$ 在点 $D$ 处的外角, 故
 
 $$
 \angle BDC=\angle A+\angle ACD=62^\circ+35^\circ=97^\circ.
 $$
 
-在 $\triangle BDF$ 中, $\angle BDF=\angle BDC=97^\circ$, $\angle DBF=\angle ABE=20^\circ$. 由**基础知识: 三角形内角和定理**,
+在 $\triangle BDF$ 中, $\angle BDF=\angle BDC=97^\circ$, $\angle DBF=\angle ABE=20^\circ$. 由三角形内角和定理,
 
 $$
 \angle BFD=180^\circ-\angle BDF-\angle DBF=180^\circ-97^\circ-20^\circ=63^\circ.
 $$
 
 $\blacksquare$
-
 
 ---
 
@@ -307,7 +278,7 @@ $\blacksquare$
 
 ### 解答 习题九
 
-由**基础知识: 三角形内角和定理**,
+由三角形内角和定理,
 
 $$
 \angle B+\angle C=180^\circ-\angle A=80^\circ.
@@ -326,7 +297,6 @@ x=180^\circ-\left(\angle 2+\angle 4\right)=180^\circ-40^\circ=140^\circ.
 $$
 
 $\blacksquare$
-
 
 ---
 
@@ -348,10 +318,9 @@ $$
 \angle 1+\angle 2=180^\circ-90^\circ=90^\circ.
 $$
 
-在 $\triangle AEC$ 中, 由**基础知识: 三角形内角和定理**, $\angle E=180^\circ-\left(\angle 1+\angle 2\right)=90^\circ$.
+在 $\triangle AEC$ 中, 由三角形内角和定理, $\angle E=180^\circ-\left(\angle 1+\angle 2\right)=90^\circ$.
 
 故依次填 $180^\circ$, $90^\circ$, $90^\circ$. $\blacksquare$
-
 
 ---
 
@@ -361,7 +330,7 @@ $$
 
 ### 解答 习题十一
 
-由**基础知识: 外角与不相邻内角的关系**, $\angle BAC$ 是 $\triangle ACE$ 在点 $A$ 处的外角, 故
+由外角与不相邻内角的关系, $\angle BAC$ 是 $\triangle ACE$ 在点 $A$ 处的外角, 故
 
 $$
 \angle BAC=\angle ACE+\angle E.

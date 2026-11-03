@@ -1,14 +1,6 @@
 # week92
 
-> **Basic Knowledge: Addition and Subtraction of Fractions with the Same Denominator**
-> 
-> $\frac{a}{c}\pm\frac{b}{c}=\frac{a\pm b}{c}$.
 ---
-
-
-> **Basic Knowledge: Basic Property of Fractions** 
-> 
-> Multiplying (or dividing) both the numerator and denominator of a fraction by the same integral expression not equal to $0$ does not change the value of the fraction.
 
 ### Activity 1
 

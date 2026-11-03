@@ -1,13 +1,6 @@
 # week102
 
-> **Basic Knowledge: Pythagorean Theorem**
-> 
-> In a right triangle, the sum of the squares of the two legs equals the square of the hypotenuse. If the two legs of a right triangle are \(a,b\) and the hypotenuse is \(c\), then \(a^{2}+b^{2}=c^{2}\).
-> **Basic Knowledge: Converse of the Pythagorean Theorem**
-> 
-> If the three side lengths \(a,b,c\) of a triangle satisfy \(a^{2}+b^{2}=c^{2}\), then this triangle is a right triangle.
 ---
-
 
 ## Review Problem 1
 
@@ -17,7 +10,7 @@ As shown in the figure, point \(D\) lies on side \(AB\) of \(Rt\triangle ABC\), 
 
 From the figure, \(\angle A=90^{\circ}\), so \(AC\perp AB\), and \(AB=AD+DB=10\).
 
-In \(Rt\triangle ACD\), by **Basic Knowledge**,
+In \(Rt\triangle ACD\), by Basic Knowledge,
 
 $$
 AC^{2}=CD^{2}-AD^{2}=17^{2}-8^{2}=289-64=225,
@@ -41,7 +34,7 @@ Two people start from the same point at the same time. One walks due north at \(
 
 After \(10\ \text{min}\), the northbound person has walked \(200\ \text{m}\) and the eastbound person has walked \(300\ \text{m}\); the two directions are perpendicular.
 
-By **Basic Knowledge**, the distance
+By Basic Knowledge, the distance
 
 $$
 d=\sqrt{200^{2}+300^{2}}=\sqrt{130000}\approx 361\ \text{m}.
@@ -55,7 +48,7 @@ As shown in the figure, a plane through the apex \(P\) of a cone and the center 
 
 In isosceles triangle \(PAB\), the base \(AB=4\), and the altitude to the base passes through the center \(O\) (\(O\) is the midpoint of \(AB\)).
 
-By **Basic Knowledge**, the altitude \(PO=\sqrt{PA^{2}-AO^{2}}=\sqrt{49-4}=\sqrt{45}=3\sqrt{5}\).
+By Basic Knowledge, the altitude \(PO=\sqrt{PA^{2}-AO^{2}}=\sqrt{49-4}=\sqrt{45}=3\sqrt{5}\).
 
 Therefore the area \(S=\frac{1}{2}\times AB\times PO=\frac{1}{2}\times 4\times 3\sqrt{5}=6\sqrt{5}\).
 
@@ -65,7 +58,7 @@ Therefore the area \(S=\frac{1}{2}\times AB\times PO=\frac{1}{2}\times 4\times 3
 
 As shown in the figure, a tent has length \(l=2.6\ \text{m}\), and its cross-section is an isosceles triangle with base \(a=2\ \text{m}\) and height \(h=1.8\ \text{m}\). How many square meters of fabric are at least needed to make this tent (excluding the bottom) (keep one decimal place)?
 
-The leg length of the isosceles cross-section triangle is, by **Basic Knowledge**:
+The leg length of the isosceles cross-section triangle is, by Basic Knowledge:
 
 $$
 s=\sqrt{\left(\frac{a}{2}\right)^{2}+h^{2}}=\sqrt{1+3.24}=\sqrt{4.24}\approx 2.06\ \text{m}.
@@ -103,7 +96,7 @@ The area is found by the cut-and-paste method: the area of the enclosing rectang
 
 And \(BC^{2}+CD^{2}=5+5=10\ne 20=BD^{2}\).
 
-By **Basic Knowledge**, \(\angle BCD\) is not a right angle.
+By Basic Knowledge, \(\angle BCD\) is not a right angle.
 
 \(\blacksquare\)
 
@@ -125,7 +118,7 @@ In \(Rt\triangle ADB\), \(BD^{2}=AB^{2}-AD^{2}=4-1.44=2.56\), so \(BD=1.6\ \text
 
 And \(AB^{2}+AC^{2}=4+2.25=6.25=2.5^{2}=BC^{2}\).
 
-By **Basic Knowledge**, \(\triangle ABC\) is a right triangle, \(\angle BAC=90^{\circ}\).
+By Basic Knowledge, \(\triangle ABC\) is a right triangle, \(\angle BAC=90^{\circ}\).
 
 \(\blacksquare\)
 
@@ -137,7 +130,7 @@ Let the break be \(x\) chi above the ground; then the broken part is \(10-x\) ch
 
 The broken part is the hypotenuse, and the vertical segment \(x\) and the horizontal distance \(3\) chi are the two legs.
 
-By **Basic Knowledge**,
+By Basic Knowledge,
 
 $$
 x^{2}+3^{2}=\left(10-x\right)^{2},\quad x^{2}+9=100-20x+x^{2},
@@ -161,7 +154,7 @@ $$
 a^{2}+b^{2}=\left(2m\right)^{2}+\left(m^{2}-1\right)^{2}=4m^{2}+m^{4}-2m^{2}+1=m^{4}+2m^{2}+1=\left(m^{2}+1\right)^{2}=c^{2}.
 $$
 
-Also \(a,b,c\) are all positive integers, so by **Basic Knowledge**, \(a,b,c\) is a Pythagorean triple.
+Also \(a,b,c\) are all positive integers, so by Basic Knowledge, \(a,b,c\) is a Pythagorean triple.
 
 Taking \(m=2\): \(a=4,\ b=3,\ c=5\).
 
@@ -189,7 +182,7 @@ Cut the original rectangle (a \(1\times 5\) strip) along segments of length \(\s
 
 Can a \(70\ \text{cm}\) stick fit inside a rectangular wooden box with length, width and height \(50\ \text{cm},40\ \text{cm},30\ \text{cm}\)?
 
-The space diagonal of the rectangular box, by the extension of **Basic Knowledge**:
+The space diagonal of the rectangular box, by the extension of Basic Knowledge:
 
 $$
 d=\sqrt{50^{2}+40^{2}+30^{2}}=\sqrt{2500+1600+900}=\sqrt{5000}\approx 70.7\ \text{cm}.
@@ -205,7 +198,7 @@ A rectangular stone bench in a park is shown in the figure. If an ant crawls fro
 
 The bench is \(40\ \text{cm}\) long and \(30\ \text{cm}\) high. The ant crawls along the surface from \(M\) to \(N\); after unfolding the surface, the shortest path is the hypotenuse of legs \(40\) and \(30\).
 
-By **Basic Knowledge**,
+By Basic Knowledge,
 
 $$
 MN=\sqrt{40^{2}+30^{2}}=\sqrt{2500}=50\ \text{cm}.
@@ -225,7 +218,7 @@ $$
 
 Let the altitude to side \(AC=b\) be \(BD=h\), with foot \(D\); write \(CD=x\); then \(AD=b-x\).
 
-By **Basic Knowledge**,
+By Basic Knowledge,
 
 $$
 h^{2}=a^{2}-x^{2},\quad h^{2}=c^{2}-\left(b-x\right)^{2}.

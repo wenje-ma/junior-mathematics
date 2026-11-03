@@ -1,19 +1,6 @@
 # week152
 
-> **Basic Knowledge: Arc Length Formula**
-> 
-> In a circle of radius $R$, the arc length subtended by a central angle of $n^\circ$ is $l=\frac{n\pi R}{180}$.
-> **Basic Knowledge: Sector Area Formula**
-> 
-> In a circle of radius $R$, the area of a sector with central angle $n^\circ$ is $S=\frac{n\pi R^2}{360}=\frac12 lR$, where $l$ is the arc length of the sector.
-> **Basic Knowledge: Generatrix of a Cone**
-> 
-> The segment joining the vertex of a cone to any point on the circumference of its base is called the generatrix of the cone.
-> **Basic Knowledge: Lateral and Total Surface Area of a Cone**
-> 
-> If the generatrix length of a cone is $l$ and the base radius is $r$, then the lateral area is $\pi rl$ and the total surface area is $\pi r\left(r+l\right)$.
 ---
-
 
 ## Exercise 1
 
@@ -21,7 +8,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Arc Length Formula**.
+By Arc Length Formula.
 
 Not necessarily. Equal arcs require that they be able to coincide in the same circle or equal circles; when two arcs have equal length but lie in circles of different radii, the central angles they subtend differ, so they cannot coincide. $\blacksquare$
 
@@ -31,7 +18,7 @@ Not necessarily. Equal arcs require that they be able to coincide in the same ci
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Arc Length Formula**.
+By Arc Length Formula.
 
 $$
 12=\frac{81\pi R}{180},\quad R=\frac{12\times180}{81\pi}=\frac{240}{9\pi}\approx8.5\,\text{m}.
@@ -45,7 +32,7 @@ $\blacksquare$
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Sector Area Formula**.
+By Sector Area Formula.
 
 All three sectors have central angle $60^\circ$ and radius $\frac{a}{2}$. The sum of the areas of the three sectors is
 
@@ -67,7 +54,7 @@ $\blacksquare$
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Lateral and Total Surface Area of a Cone**.
+By Lateral and Total Surface Area of a Cone.
 
 The base circumference is $2\pi\cdot6=12\pi$, which is the arc length of the sector in the lateral development. The sector radius is the generatrix $18$; by the arc length formula, $12\pi=\frac{n\pi\cdot18}{180}$, giving $n=120^\circ$. $\blacksquare$
 
@@ -77,7 +64,7 @@ The base circumference is $2\pi\cdot6=12\pi$, which is the arc length of the sec
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Lateral and Total Surface Area of a Cone**.
+By Lateral and Total Surface Area of a Cone.
 
 The base radius is $r=40\,\text{cm}$, and the lateral area of one chimney cap is $\pi\cdot40\cdot50=2000\pi\,\text{cm}^2$. For $100$ caps the total is $200000\pi\,\text{cm}^2=20\pi\,\text{m}^2\approx62.8\,\text{m}^2$. $\blacksquare$
 
@@ -93,7 +80,7 @@ The base radius is $r=40\,\text{cm}$, and the lateral area of one chimney cap is
 
 ### Solution to Problem 1
 
-By **Basic Knowledge** and **Basic Knowledge**.
+By Basic Knowledge and Basic Knowledge.
 
 (1) $2.5\pi=\frac{75\pi R}{180}$, giving $R=6$.
 
@@ -107,7 +94,7 @@ By **Basic Knowledge** and **Basic Knowledge**.
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Arc Length Formula**.
+By Arc Length Formula.
 
 The conveyor belt consists of two external common tangents and two semicircles. The two semicircles together form one full circle of circumference $2\pi R$, and the two common tangents each have length equal to the center distance $d$. The total length is $2d+2\pi R$. $\blacksquare$
 
@@ -117,7 +104,7 @@ The conveyor belt consists of two external common tangents and two semicircles. 
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Sector Area Formula**.
+By Sector Area Formula.
 
 The sum of the areas of the four semicircles is $4\cdot\frac12\pi\left(a/2\right)^2=\frac{\pi a^2}{2}$, and the area of the square is $a^2$. The shaded area (the overlapping part of the four semicircles) is
 
@@ -133,7 +120,7 @@ $\blacksquare$
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Lateral and Total Surface Area of a Cone**.
+By Lateral and Total Surface Area of a Cone.
 
 $AB=5$.
 
@@ -149,7 +136,7 @@ Rotating about $AB$: two cones with a common base, base radius $r=\frac{3\times4
 
 ### Solution to Problem 5
 
-By **Basic Knowledge: Arc Length Formula**.
+By Arc Length Formula.
 
 $1'=\frac{1}{60}^\circ$, so
 
@@ -165,7 +152,7 @@ $\blacksquare$
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Sector Area Formula**.
+By Sector Area Formula.
 
 The fan surface area is the large sector (radius $30$) minus the small sector (radius $10$):
 
@@ -181,7 +168,7 @@ $\blacksquare$
 
 ### Solution to Problem 7
 
-By **Basic Knowledge: Lateral and Total Surface Area of a Cone**.
+By Lateral and Total Surface Area of a Cone.
 
 The lateral area is $\frac12\cdot32\cdot7=112\,\text{m}^2$. $\blacksquare$
 
@@ -191,7 +178,7 @@ The lateral area is $\frac12\cdot32\cdot7=112\,\text{m}^2$. $\blacksquare$
 
 ### Solution to Problem 8
 
-By **Basic Knowledge** and **Basic Knowledge**.
+By Basic Knowledge and Basic Knowledge.
 
 The circle radius is $0.5\,\text{m}$. The sector radius is $\frac{\sqrt2}{2}\,\text{m}$ (half the diagonal of the square). The sector area is $\frac{90\pi}{360}\cdot\left(\frac{\sqrt2}{2}\right)^2=\frac{\pi}{8}$. The circle area is $\pi\cdot0.5^2=\frac{\pi}{4}$, so the remaining area is $\frac{\pi}{4}-\frac{\pi}{8}=\frac{\pi}{8}\,\text{m}^2$.
 
@@ -203,7 +190,7 @@ The sector arc length is $l=\frac{90\pi}{180}\cdot\frac{\sqrt2}{2}=\frac{\sqrt2\
 
 ### Solution to Problem 9
 
-By **Basic Knowledge: Sector Area Formula**.
+By Sector Area Formula.
 
 Method 1: Draw two perpendicular diameters, dividing the circle into four sectors with central angle $90^\circ$.
 

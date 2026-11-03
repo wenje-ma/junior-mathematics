@@ -1,13 +1,6 @@
 # week115
 
-> **Basic Knowledge: Building a Linear Function Model**
-> 
-> In real-world problems, first determine the function expression from the correspondence between the variables, then use the graph and properties of the linear function to solve the problem. When the function relationship is piecewise, discuss it interval by interval.
-> **Basic Knowledge: Choosing a Plan**
-> 
-> Optimization problems involving variables are commonly solved using functions; the best plan is chosen by comparing the function values corresponding to the different plans.
 ---
-
 
 ## Exercise 1
 
@@ -15,7 +8,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Building a Linear Function Model**, discuss interval by interval.
+By Building a Linear Function Model, discuss interval by interval.
 
 When $0 \leq t \leq 2$, $T=20$.
 
@@ -51,7 +44,7 @@ $\blacksquare$
 
 (1) Printer A: $y_1=1500+x$. Printer B: $y_2=2.5x$.
 
-(2) By **Basic Knowledge: Choosing a Plan**, compare the two function values. Setting $y_1=y_2$, i.e. $1500+x=2.5x$, gives $x=1000$.
+(2) By Choosing a Plan, compare the two function values. Setting $y_1=y_2$, i.e. $1500+x=2.5x$, gives $x=1000$.
 
 When $x< 1000$, $y_1> y_2$, so Printer B is the better choice; when $x=1000$, the two printers cost the same; when $x> 1000$, $y_1< y_2$, so Printer A is the better choice. $\blacksquare$
 
@@ -65,7 +58,7 @@ Let $x$ be the number of model $A$ calculators bought; then $\left(100-x\right)$
 
 Profit: $W=\left(32-22\right)x+\left(25-19\right)\left(100-x\right)=10x+6\left(100-x\right)=4x+600$.
 
-By **Basic Knowledge: Choosing a Plan**, $W=4x+600$, with $k=4> 0$, so $W$ increases as $x$ increases. Thus profit is maximized at $x=33$, with $W=4\times33+600=732$ yuan.
+By Choosing a Plan, $W=4x+600$, with $k=4> 0$, so $W$ increases as $x$ increases. Thus profit is maximized at $x=33$, with $W=4\times33+600=732$ yuan.
 
 Purchasing plan: $33$ model $A$ and $67$ model $B$, with maximum profit $732$ yuan. $\blacksquare$
 

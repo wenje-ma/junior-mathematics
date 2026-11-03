@@ -1,33 +1,5 @@
 # week2
 
-> **Basic Knowledge: Integers and Fractions**
-> 
-> Positive integers, $0$, and negative integers are collectively called integers; positive fractions and negative fractions are collectively called fractions.
-
-> **Basic Knowledge: Rational Numbers**
-> 
-> Numbers that can be written in fraction form are called rational numbers. Among them, numbers that can be written as positive fractions are positive rational numbers, and numbers that can be written as negative fractions are negative rational numbers.
-
-> **Basic Knowledge: Number Line**
-> 
-> A straight line on which an origin, a positive direction, and a unit length are specified is called a number line. On the number line, the origin divides the number line (excluding the origin) into the positive half-axis and the negative half-axis.
-
-> **Basic Knowledge: Opposite Numbers**
-> 
-> Two numbers that differ only in sign are opposites of each other. The opposite number of $0$ is $0$. Prefixing any number with the sign "$-$" gives the opposite number of the original number.
-
-> **Basic Knowledge: Absolute Value**
-> 
-> The distance on the number line between the point representing a number $a$ and the origin is called the absolute value of the number $a$, denoted by $\left|a\right|$.
-
-> **Basic Knowledge: Algebraic Meaning of Absolute Value**
-> 
-> The absolute value of a positive number is the number itself; the absolute value of a negative number is its opposite number; the absolute value of $0$ is $0$. That is, if $a> 0$, then $\left|a\right|=a$; if $a=0$, then $\left|a\right|=0$; if $a< 0$, then $\left|a\right|=-a$.
-
-> **Basic Knowledge: Comparing the Magnitude of Rational Numbers**
-> 
-> On the number line, the order of rational numbers from left to right is exactly the order from smallest to largest; that is, a number on the left is smaller than a number on the right. In general, a positive number is greater than $0$, $0$ is greater than a negative number, and a positive number is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
-
 ---
 
 ## Exercise 1
@@ -40,14 +12,13 @@ Set of positive rational numbers: $\left\{\;\cdots\;\right\}$. Set of negative r
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Rational Numbers**, numbers that can be written as positive fractions are positive rational numbers, and numbers that can be written as negative fractions are negative rational numbers.
+By Rational Numbers, numbers that can be written as positive fractions are positive rational numbers, and numbers that can be written as negative fractions are negative rational numbers.
 
 Among the given numbers, $15> 0$, $7> 0$, $0.5> 0$, $12> 0$, $2.3> 0$, so they are positive rational numbers.
 
 Also, $-\frac{1}{9}$, $-5$, $-80$, $-4.2$ all have the sign "$-$" prefixed to positive numbers, so they are negative rational numbers.
 
 Hence the set of positive rational numbers is $\left\{15,\ 7,\ 0.5,\ 12,\ 2.3,\ \cdots\right\}$; the set of negative rational numbers is $\left\{-\frac{1}{9},\ -5,\ -80,\ -4.2,\ \cdots\right\}$. $\blacksquare$
-
 
 ---
 
@@ -59,14 +30,13 @@ $$-15,\ +6,\ -2,\ -0.\dot{4},\ 1,\ \frac{3}{5},\ 0,\ 3\frac{1}{4},\ 0.63,\ -\fra
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Rational Numbers**, numbers greater than $0$ are positive rational numbers, and numbers obtained by prefixing a positive number with the sign "$-$" are negative rational numbers. By **Basic Knowledge: Integers and Fractions**, positive integers, $0$, and negative integers are collectively called integers.
+By Rational Numbers, numbers greater than $0$ are positive rational numbers, and numbers obtained by prefixing a positive number with the sign "$-$" are negative rational numbers. By Integers and Fractions, positive integers, $0$, and negative integers are collectively called integers.
 
 Among the given numbers, $+6$, $1$, $\frac{3}{5}$, $3\frac{1}{4}$, $0.63$ are all greater than $0$, so they are positive rational numbers.
 
 Also, $-15$, $-2$, $-0.\dot{4}$, $-\frac{10}{3}$ all have the sign "$-$" prefixed to positive numbers, so they are negative rational numbers.
 
 Among them, $-15$, $+6$, $-2$, $1$, $0$ are integers. $\blacksquare$
-
 
 ---
 
@@ -76,12 +46,11 @@ Among them, $-15$, $+6$, $-2$, $1$, $0$ are integers. $\blacksquare$
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Rational Numbers** and **Basic Knowledge: Integers and Fractions**.
+By Rational Numbers and Integers and Fractions.
 
 Among the given numbers, those greater than $0$ are $\frac{4}{7}$, $19\%$, $50$, $6.3$, $2022$, totaling $5$, so there are $5$ positive rational numbers; among them, the positive integers are $50$, $2022$, totaling $2$.
 
 Those obtained by prefixing a positive number with the sign "$-$" are $-12$, $-3.\dot{1}\dot{2}$, $-11$, $-5\%$, totaling $4$, so there are $4$ negative rational numbers; among them, the negative integers are $-12$, $-11$, totaling $2$. $\blacksquare$
-
 
 ---
 
@@ -93,12 +62,11 @@ On the number line, with the origin $0$ as its center, rightward as the positive
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Number Line**, the origin on the number line represents $0$, to the right of the origin is the positive direction, to the left is the negative direction, and each grid is $1$ unit length.
+By Number Line, the origin on the number line represents $0$, to the right of the origin is the positive direction, to the left is the negative direction, and each grid is $1$ unit length.
 
 From the figure, point $A$ is at the origin and represents $0$; point $B$ is to the left of the origin, $2$ unit lengths away, and represents $-2$; point $C$ is to the right of the origin, $1$ unit length away, and represents $1$; point $D$ is to the left of the origin, $3$ unit lengths away, and represents $-3$; point $E$ is to the right of the origin, $2.5$ unit lengths away, and represents $2.5$.
 
 Hence the numbers represented by points $A$, $B$, $C$, $D$, $E$ are $0$, $-2$, $1$, $-3$, $2.5$ respectively. $\blacksquare$
-
 
 ---
 
@@ -112,10 +80,9 @@ On a number line with origin $0$, rightward as the positive direction, and unit 
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Number Line**, take the origin $0$, specify rightward as the positive direction, and choose an appropriate unit length. The positions of the numbers on the number line are: $-\frac{7}{2}=-3.5$, $-\frac{1}{2}=-0.5$, $\frac{3}{2}=1.5$, $\frac{9}{2}=4.5$.
+By Number Line, take the origin $0$, specify rightward as the positive direction, and choose an appropriate unit length. The positions of the numbers on the number line are: $-\frac{7}{2}=-3.5$, $-\frac{1}{2}=-0.5$, $\frac{3}{2}=1.5$, $\frac{9}{2}=4.5$.
 
 The corresponding points of the numbers on the number line are: $-5$ is $5$ grids to the left of the origin, $-3.5$ is $3.5$ grids to the left of the origin, $-0.5$ is $0.5$ grids to the left of the origin, $1.5$ is $1.5$ grids to the right of the origin, $3.5$ is $3.5$ grids to the right of the origin, $4.5$ is $4.5$ grids to the right of the origin, and $5$ is $5$ grids to the right of the origin, as shown in the figure. $\blacksquare$
-
 
 ---
 
@@ -125,14 +92,13 @@ The corresponding points of the numbers on the number line are: $-5$ is $5$ grid
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge: Number Line**, the integer points on the number line are arranged in order. The integers between $-2$ and $4$ (including the endpoints) are
+By Number Line, the integer points on the number line are arranged in order. The integers between $-2$ and $4$ (including the endpoints) are
 
 $$-2,\ -1,\ 0,\ 1,\ 2,\ 3,\ 4.$$
 
 There are $7$ in total. Among them, the negative integers are $-2$, $-1$, totaling $2$.
 
 Hence fill in in turn: $7$; $-2$, $-1$, $0$, $1$, $2$, $3$, $4$; $2$. $\blacksquare$
-
 
 ---
 
@@ -142,12 +108,11 @@ Hence fill in in turn: $7$; $-2$, $-1$, $0$, $1$, $2$, $3$, $4$; $2$. $\blacksqu
 
 ### Solution to Exercise 7
 
-By **Basic Knowledge: Number Line**, moving rightward increases the number, and moving leftward decreases the number.
+By Number Line, moving rightward increases the number, and moving leftward decreases the number.
 
 Point $A$ represents $-3$. If one moves rightward by $4$ unit lengths, then point $B$ represents $-3+4=1$; if one moves leftward by $4$ unit lengths, then point $B$ represents $-3-4=-7$.
 
 Hence the number represented by point $B$ is $1$ or $-7$. $\blacksquare$
-
 
 ---
 
@@ -169,7 +134,7 @@ Hence the number represented by point $B$ is $1$ or $-7$. $\blacksquare$
 
 ### Solution to Exercise 8
 
-By **Basic Knowledge: Opposite Numbers**, an opposite number is a relationship between two numbers, and one cannot say of a single number in isolation that it is an opposite number.
+By Opposite Numbers, an opposite number is a relationship between two numbers, and one cannot say of a single number in isolation that it is an opposite number.
 
 (1) $-6$ is a single number in isolation, and one cannot say it is an opposite number; hence it is false.
 
@@ -183,7 +148,6 @@ By **Basic Knowledge: Opposite Numbers**, an opposite number is a relationship b
 
 (6) any number $a$ has the opposite number $-a$; hence it is true. $\blacksquare$
 
-
 ---
 
 ## Exercise 9
@@ -194,10 +158,9 @@ $$-\frac{9}{4},\ 6,\ -8,\ -3.5,\ \frac{5}{2},\ 10,\ -100,\ \frac{1}{3}.$$
 
 ### Solution to Exercise 9
 
-By **Basic Knowledge: Opposite Numbers**, prefixing a number with the sign "$-$" gives its opposite number.
+By Opposite Numbers, prefixing a number with the sign "$-$" gives its opposite number.
 
 The opposite number of $-\frac{9}{4}$ is $\frac{9}{4}$; the opposite number of $6$ is $-6$; the opposite number of $-8$ is $8$; the opposite number of $-3.5$ is $3.5$; the opposite number of $\frac{5}{2}$ is $-\frac{5}{2}$; the opposite number of $10$ is $-10$; the opposite number of $-100$ is $100$; the opposite number of $\frac{1}{3}$ is $-\frac{1}{3}$. $\blacksquare$
-
 
 ---
 
@@ -207,12 +170,11 @@ The opposite number of $-\frac{9}{4}$ is $\frac{9}{4}$; the opposite number of $
 
 ### Solution to Exercise 10
 
-By **Basic Knowledge: Opposite Numbers**, $a$ and $-a$ are opposites of each other.
+By Opposite Numbers, $a$ and $-a$ are opposites of each other.
 
-If $a=-a$, then $a$ equals its own opposite number. By **Basic Knowledge: Opposite Numbers**, the opposite number of $0$ is $0$, that is, $-0=0$. Hence the only number satisfying $a=-a$ is $a=0$.
+If $a=-a$, then $a$ equals its own opposite number. By Opposite Numbers, the opposite number of $0$ is $0$, that is, $-0=0$. Hence the only number satisfying $a=-a$ is $a=0$.
 
-By **Basic Knowledge: Number Line**, the point representing $0$ is the origin, so the point representing the number $a$ is at the origin of the number line. $\blacksquare$
-
+By Number Line, the point representing $0$ is the origin, so the point representing the number $a$ is at the origin of the number line. $\blacksquare$
 
 ---
 
@@ -224,12 +186,11 @@ $$-\left(-7\right),\ -\left(+0.5\right),\ -\left(-68\right),\ -\left(+3.8\right)
 
 ### Solution to Exercise 11
 
-By **Basic Knowledge: Opposite Numbers**, prefixing a number with the sign "$-$" gives the opposite number of the original number.
+By Opposite Numbers, prefixing a number with the sign "$-$" gives the opposite number of the original number.
 
 $-\left(-7\right)$ represents the opposite number of $-7$, namely $7$; $-\left(+0.5\right)$ represents the opposite number of $+0.5$, namely $-0.5$; $-\left(-68\right)$ represents the opposite number of $-68$, namely $68$; $-\left(+3.8\right)$ represents the opposite number of $+3.8$, namely $-3.8$.
 
 Hence the expressions simplify respectively to $7$, $-0.5$, $68$, $-3.8$. $\blacksquare$
-
 
 ---
 
@@ -241,12 +202,11 @@ $$8,\ -3.9,\ -\frac{2}{11},\ 100,\ 7.5,\ 0,\ -\left(-13\right),\ -\left(+18\righ
 
 ### Solution to Exercise 12
 
-By **Basic Knowledge: Algebraic Meaning of Absolute Value**, the absolute value of a positive number is itself, the absolute value of a negative number is its opposite number, and the absolute value of $0$ is $0$.
+By Algebraic Meaning of Absolute Value, the absolute value of a positive number is itself, the absolute value of a negative number is its opposite number, and the absolute value of $0$ is $0$.
 
 $8$ is positive, so $\left|8\right|=8$; $-3.9$ is negative, so $\left|-3.9\right|=3.9$; $-\frac{2}{11}$ is negative, so $\left|-\frac{2}{11}\right|=\frac{2}{11}$; $100$ is positive, so $\left|100\right|=100$; $7.5$ is positive, so $\left|7.5\right|=7.5$; $\left|0\right|=0$.
 
 Also, $-\left(-13\right)=13$, so $\left|-\left(-13\right)\right|=\left|13\right|=13$; $-\left(+18\right)=-18$, so $\left|-\left(+18\right)\right|=\left|-18\right|=18$. $\blacksquare$
-
 
 ---
 
@@ -262,14 +222,13 @@ Also, $-\left(-13\right)=13$, so $\left|-\left(-13\right)\right|=\left|13\right|
 
 ### Solution to Exercise 13
 
-By **Basic Knowledge: Absolute Value** and **Basic Knowledge: Algebraic Meaning of Absolute Value**.
+By Absolute Value and Algebraic Meaning of Absolute Value.
 
 (1) The absolute value of $0$ is $0$, that is, the absolute value of $0$ is also itself, but $0$ is not a positive number; hence it is false.
 
-(2) When $a\ne0$, $a$ is a positive or negative number. By **Basic Knowledge: Algebraic Meaning of Absolute Value**, the absolute value of both a positive and a negative number is greater than $0$; hence it is true.
+(2) When $a\ne0$, $a$ is a positive or negative number. By Algebraic Meaning of Absolute Value, the absolute value of both a positive and a negative number is greater than $0$; hence it is true.
 
 (3) The integers whose absolute value is less than $2$ satisfy $\left|a\right|< 2$, that is, $-2< a< 2$; the integers among them are $-1$, $0$, $1$, which are more than just $1$ and $-1$; hence it is false. $\blacksquare$
-
 
 ---
 
@@ -279,12 +238,11 @@ By **Basic Knowledge: Absolute Value** and **Basic Knowledge: Algebraic Meaning 
 
 ### Solution to Exercise 14
 
-By **Basic Knowledge: Algebraic Meaning of Absolute Value**, $\left|-2\right|=2$, so $\left|a\right|=2$.
+By Algebraic Meaning of Absolute Value, $\left|-2\right|=2$, so $\left|a\right|=2$.
 
 On the number line there are two points whose distance from the origin is $2$ unit lengths, representing $2$ and $-2$ respectively, so $a=2$ or $a=-2$.
 
-Also, $m$ is a negative number and $\left|m\right|=10$. By **Basic Knowledge: Algebraic Meaning of Absolute Value**, the absolute value of a negative number is its opposite number, so $m=-10$. $\blacksquare$
-
+Also, $m$ is a negative number and $\left|m\right|=10$. By Algebraic Meaning of Absolute Value, the absolute value of a negative number is its opposite number, so $m=-10$. $\blacksquare$
 
 ---
 
@@ -296,10 +254,9 @@ $$+\left|-3.5\right|,\ -\left|+\frac{5}{6}\right|,\ -\left|-11\right|,\ \left|+\
 
 ### Solution to Exercise 15
 
-By **Basic Knowledge: Algebraic Meaning of Absolute Value** and **Basic Knowledge: Opposite Numbers**.
+By Algebraic Meaning of Absolute Value and Opposite Numbers.
 
 $+\left|-3.5\right|=\left|3.5\right|=3.5$; $-\left|+\frac{5}{6}\right|=-\left|\frac{5}{6}\right|=-\frac{5}{6}$; $-\left|-11\right|=-\left|11\right|=-11$; $\left|+\left(-15\right)\right|=\left|-15\right|=15$; $\left|-\left(-7\right)\right|=\left|7\right|=7$; $\left|-\left(+9\right)\right|=\left|-9\right|=9$. $\blacksquare$
-
 
 ---
 
@@ -321,7 +278,7 @@ $+\left|-3.5\right|=\left|3.5\right|=3.5$; $-\left|+\frac{5}{6}\right|=-\left|\f
 
 ### Solution to Exercise 16
 
-By **Basic Knowledge: Comparing the Magnitude of Rational Numbers**, a positive number is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
+By Comparing the Magnitude of Rational Numbers, a positive number is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
 
 (1) $3$ is positive and $-5$ is negative, so $3> -5$.
 
@@ -335,7 +292,6 @@ By **Basic Knowledge: Comparing the Magnitude of Rational Numbers**, a positive 
 
 (6) $-\left(-0.3\right)=0.3$, $\left|-\frac{1}{3}\right|=\frac{1}{3}$. Since $0.3< \frac{1}{3}$, we get $-\left(-0.3\right)< \left|-\frac{1}{3}\right|$. $\blacksquare$
 
-
 ---
 
 ## Exercise 17
@@ -348,7 +304,7 @@ By **Basic Knowledge: Comparing the Magnitude of Rational Numbers**, a positive 
 
 ### Solution to Exercise 17
 
-By **Basic Knowledge: Comparing the Magnitude of Rational Numbers**, a negative number is less than $0$, and $0$ is less than a positive number; for two negative numbers, the one with the larger absolute value is instead the smaller.
+By Comparing the Magnitude of Rational Numbers, a negative number is less than $0$, and $0$ is less than a positive number; for two negative numbers, the one with the larger absolute value is instead the smaller.
 
 (1) Among the negative numbers, $\left|-10\right|=10> \left|-3\right|=3$, so $-10< -3$; the positive numbers satisfy $0< 2< 5< 8$. Hence arranged from smallest to largest:
 
@@ -360,7 +316,6 @@ $$-\frac{3}{2}< -\frac{1}{2}< -0.3< -\frac{1}{4}< 0< +2.3.$$
 
 $\blacksquare$
 
-
 ---
 
 ## Exercise 18
@@ -371,7 +326,7 @@ Beijing $-4.6\,^\circ\text{C}$, Wuhan $3.8\,^\circ\text{C}$, Guangzhou $13.1\,^\
 
 ### Solution to Exercise 18
 
-By **Basic Knowledge: Comparing the Magnitude of Rational Numbers**, a positive number is greater than $0$, $0$ is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
+By Comparing the Magnitude of Rational Numbers, a positive number is greater than $0$, $0$ is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
 
 The positive numbers are $3.8$, $13.1$, $2.4$, with $13.1> 3.8> 2.4$. The negative numbers are $-4.6$, $-19.4$; since $\left|-4.6\right|=4.6< \left|-19.4\right|=19.4$, we get $-4.6> -19.4$.
 
@@ -380,7 +335,6 @@ Hence arranged from highest to lowest:
 $$13.1> 3.8> 2.4> -4.6> -19.4.$$
 
 That is, Guangzhou $> $ Wuhan $> $ Nanjing $> $ Beijing $> $ Harbin. $\blacksquare$
-
 
 ---
 
@@ -394,7 +348,7 @@ Set of positive rational numbers: $\left\{\;\cdots\;\right\}$. Set of negative r
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Rational Numbers** and **Basic Knowledge: Integers and Fractions**.
+By Rational Numbers and Integers and Fractions.
 
 The numbers greater than $0$ are $3$, $1\frac{3}{4}$, $0.45$, $120$, $0.\dot{3}$; they are positive rational numbers.
 
@@ -403,7 +357,6 @@ The numbers obtained by prefixing a positive number with the sign "$-$" are $-\f
 Among them, the integers are $3$, $0$, $120$, $-77$.
 
 Hence the set of positive rational numbers is $\left\{3,\ 1\frac{3}{4},\ 0.45,\ 120,\ 0.\dot{3},\ \cdots\right\}$; the set of negative rational numbers is $\left\{-\frac{4}{5},\ -77,\ -2.56,\ -123\frac{1}{2},\ \cdots\right\}$; the set of integers is $\left\{3,\ 0,\ 120,\ -77,\ \cdots\right\}$. $\blacksquare$
-
 
 ---
 
@@ -415,12 +368,11 @@ On the number line, with the origin $0$ as its center, rightward as the positive
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Number Line**, the origin represents $0$, to the right is positive, to the left is negative.
+By Number Line, the origin represents $0$, to the right is positive, to the left is negative.
 
 From the figure, point $A$ is at the origin and represents $0$; point $B$ is to the right of the origin, $2$ unit lengths away, and represents $2$; point $C$ is to the left of the origin, $2.5$ unit lengths away, and represents $-2.5$; point $D$ is to the left of the origin, $3$ unit lengths away, and represents $-3$; point $E$ is to the right of the origin, $2.5$ unit lengths away, and represents $2.5$.
 
 Hence fill in in turn: $0$; $2$; $-2.5$; $-3$; $2.5$. $\blacksquare$
-
 
 ---
 
@@ -430,12 +382,11 @@ Hence fill in in turn: $0$; $2$; $-2.5$; $-3$; $2.5$. $\blacksquare$
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Opposite Numbers**, prefixing a number with the sign "$-$" gives its opposite number.
+By Opposite Numbers, prefixing a number with the sign "$-$" gives its opposite number.
 
 The opposite number of $7$ is $-7$. $-\frac{1}{4}$ and $\frac{1}{4}$ are opposites of each other, so $-\frac{1}{4}$ is the opposite number of $\frac{1}{4}$. Also, the opposite number of $0$ is $0$, so the number whose opposite number is itself is $0$.
 
 Hence fill in in turn: $-7$; $\frac{1}{4}$; $0$. $\blacksquare$
-
 
 ---
 
@@ -447,12 +398,11 @@ $$-9,\ 3.75,\ 0,\ \frac{4}{3},\ -0.001,\ -1.$$
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Algebraic Meaning of Absolute Value**.
+By Algebraic Meaning of Absolute Value.
 
 $\left|-9\right|=9$; $\left|3.75\right|=3.75$; $\left|0\right|=0$; $\left|\frac{4}{3}\right|=\frac{4}{3}$; $\left|-0.001\right|=0.001$; $\left|-1\right|=1$.
 
 Comparing the absolute values: $9> 3.75> 1> \frac{4}{3}> 0.001> 0$. Hence $-9$ has the largest absolute value and $0$ has the smallest. $\blacksquare$
-
 
 ---
 
@@ -474,7 +424,7 @@ Comparing the absolute values: $9> 3.75> 1> \frac{4}{3}> 0.001> 0$. Hence $-9$ h
 
 ### Solution to Problem 5
 
-By **Basic Knowledge: Comparing the Magnitude of Rational Numbers**, for two negative numbers, the one with the larger absolute value is instead the smaller.
+By Comparing the Magnitude of Rational Numbers, for two negative numbers, the one with the larger absolute value is instead the smaller.
 
 (1) $\left|-\frac{2}{7}\right|=\frac{2}{7}< \left|-\frac{4}{7}\right|=\frac{4}{7}$, so $-\frac{2}{7}> -\frac{4}{7}$.
 
@@ -488,7 +438,6 @@ By **Basic Knowledge: Comparing the Magnitude of Rational Numbers**, for two neg
 
 (6) $-\left(-3\right)=3$, $-\left|-3.01\right|=-3.01$; a positive number is greater than a negative number, so $3> -3.01$, that is, $-\left(-3\right)> -\left|-3.01\right|$. $\blacksquare$
 
-
 ---
 
 ## Problem 6
@@ -501,10 +450,9 @@ On a number line with origin $0$, rightward as the positive direction, and unit 
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Number Line**, take the origin $0$, take rightward as the positive direction, and choose a unit length. Among them, $2\frac{4}{5}=2.8$, $-2\frac{4}{5}=-2.8$, $\frac{1}{2}=0.5$.
+By Number Line, take the origin $0$, take rightward as the positive direction, and choose a unit length. Among them, $2\frac{4}{5}=2.8$, $-2\frac{4}{5}=-2.8$, $\frac{1}{2}=0.5$.
 
 The corresponding points of the numbers on the number line are: $-2.8$ is $2.8$ grids to the left of the origin, $-2$ is $2$ grids to the left of the origin, $-0.5$ is $0.5$ grids to the left of the origin, $0$ is the origin, $0.5$ is $0.5$ grids to the right of the origin, $1.2$ is $1.2$ grids to the right of the origin, $2$ is $2$ grids to the right of the origin, and $2.8$ is $2.8$ grids to the right of the origin, as shown in the figure. $\blacksquare$
-
 
 ---
 
@@ -518,7 +466,7 @@ Usually, when nearsightedness exceeds $200$ degrees, one must continuously wear 
 
 ### Solution to Problem 7
 
-According to the problem, the records of nearsightedness degrees are negative numbers, and their absolute values are precisely the degrees of nearsightedness. By **Basic Knowledge: Algebraic Meaning of Absolute Value**.
+According to the problem, the records of nearsightedness degrees are negative numbers, and their absolute values are precisely the degrees of nearsightedness. By Algebraic Meaning of Absolute Value.
 
 The absolute values of the records are respectively
 
@@ -528,7 +476,6 @@ Nearsightedness exceeding $200$ degrees means the absolute value is greater than
 
 Hence $2$ students need to continuously wear glasses. $\blacksquare$
 
-
 ---
 
 ## Problem 8
@@ -537,14 +484,13 @@ Hence $2$ students need to continuously wear glasses. $\blacksquare$
 
 ### Solution to Problem 8
 
-By **Basic Knowledge: Opposite Numbers**, two numbers $a$ and $-a$ that are opposites of each other are symmetric about the origin on the number line and are equidistant from the origin.
+By Opposite Numbers, two numbers $a$ and $-a$ that are opposites of each other are symmetric about the origin on the number line and are equidistant from the origin.
 
 Let point $A$ represent $a$; then point $B$ represents $-a$. The distance between the two points is $\left|a-\left(-a\right)\right|=\left|2a\right|=5$.
 
 Hence $\left|a\right|=\frac{5}{2}=2.5$, that is, $a=2.5$ or $a=-2.5$.
 
 Hence the numbers represented by these two points are $2.5$ and $-2.5$. $\blacksquare$
-
 
 ---
 
@@ -560,7 +506,7 @@ Hence the numbers represented by these two points are $2.5$ and $-2.5$. $\blacks
 
 ### Solution to Problem 9
 
-By **Basic Knowledge: Opposite Numbers** and **Basic Knowledge: Comparing the Magnitude of Rational Numbers**.
+By Opposite Numbers and Comparing the Magnitude of Rational Numbers.
 
 (1) If $a=-a$, then $2a=0$, so $a=0$.
 

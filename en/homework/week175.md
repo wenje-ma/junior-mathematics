@@ -1,19 +1,6 @@
 # week175
 
-> **Basic Knowledge: Projection**
-> 
-> The shadow obtained by shining light on an object and projecting it onto a certain plane is called the projection of the object.
-> **Basic Knowledge: Orthogonal Projection**
-> 
-> The projection produced when the projection lines are perpendicular to the projection plane is called orthogonal projection.
-> **Basic Knowledge: Front View, Top View, Left View**
-> 
-> The front view is observed from front to back, the top view from top to bottom, and the left view from left to right.
-> **Basic Knowledge: Projection Rules for the Three Views**
-> 
-> Length aligned, height level, width equal. Visible outlines are drawn as solid lines, and invisible outlines as dashed lines.
 ---
-
 
 ## Review Problem 1
 
@@ -21,7 +8,7 @@
 
 ### Solution to Review Problem 1
 
-By **Basic Knowledge** and **Basic Knowledge**, judge comprehensively from the shapes of the front view, top view, and left view: all three views being rectangles corresponds to a rectangular box; the front and left views being rectangles and the top view a circle corresponds to a cylinder; the front and left views being triangles and the top view a circle with a center corresponds to a cone; all three views being circles corresponds to a sphere. $\blacksquare$
+By Basic Knowledge and Basic Knowledge, judge comprehensively from the shapes of the front view, top view, and left view: all three views being rectangles corresponds to a rectangular box; the front and left views being rectangles and the top view a circle corresponds to a cylinder; the front and left views being triangles and the top view a circle with a center corresponds to a cone; all three views being circles corresponds to a sphere. $\blacksquare$
 
 ## Review Problem 2
 
@@ -31,7 +18,7 @@ The figure shows perspective diagrams of two solids: (1) a horizontal triangular
 
 ### Solution to Review Problem 2
 
-By **Basic Knowledge**, the three views are as shown in the figure:
+By Basic Knowledge, the three views are as shown in the figure:
 
 (1) Horizontal triangular prism: the front view is a triangle, the top view is a rectangle, and the left view is a triangle.
 
@@ -53,7 +40,7 @@ The figure shows a perspective diagram of a composite solid: the lower part is a
 
 ### Solution to Review Problem 4
 
-By **Basic Knowledge**, the three views are as shown in the figure: the lower part of the front view is a rectangle (the cylinder) and the upper part is a rectangle (the triangular prism, with a vertical dashed line in the middle); the top view is an equilateral triangle inscribed in a circle; the lower part of the left view is a rectangle (the cylinder's side) and the upper part is a rectangle (the triangular prism's side). $\blacksquare$
+By Basic Knowledge, the three views are as shown in the figure: the lower part of the front view is a rectangle (the cylinder) and the upper part is a rectangle (the triangular prism, with a vertical dashed line in the middle); the top view is an equilateral triangle inscribed in a circle; the lower part of the left view is a rectangle (the cylinder's side) and the upper part is a rectangle (the triangular prism's side). $\blacksquare$
 
 ## Review Problem 5
 

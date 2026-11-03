@@ -1,33 +1,5 @@
 # week6
 
-> **Basic Knowledge: Rules for Multiplication of Rational Numbers**
-> 
-> When two numbers are multiplied, like signs give positive and opposite signs give negative, and the absolute value of the product equals the product of the absolute values of the factors. Multiplying any number by $0$ gives $0$.
-
-> **Basic Knowledge: Reciprocal**
-> 
-> Two numbers whose product is $1$ are reciprocals of each other.
-
-> **Basic Knowledge: Commutative Law of Multiplication**
-> 
-> When two numbers are multiplied, swapping the positions of the factors does not change the product, that is, $ab=ba$.
-
-> **Basic Knowledge: Associative Law of Multiplication**
-> 
-> When three numbers are multiplied, multiplying the first two first, or multiplying the last two first, does not change the product, that is, $\left(ab\right)c=a\left(bc\right)$.
-
-> **Basic Knowledge: Distributive Law**
-> 
-> Multiplying a number by the sum of two numbers is equivalent to multiplying that number separately by the two numbers and then adding the products, that is, $a\left(b+c\right)=ab+ac$.
-
-> **Basic Knowledge: Sign Rules for Multiplying Several Rational Numbers**
-> 
-> When several numbers not equal to $0$ are multiplied, the product is positive when the number of negative factors is even and negative when the number of negative factors is odd. When several numbers are multiplied and one of the factors is $0$, the product is $0$.
-
-> **Basic Knowledge: Rules for Division of Rational Numbers**
-> 
-> Dividing by a number not equal to $0$ is equivalent to multiplying by the reciprocal of that number, that is, $a\div b=a\cdot\frac{1}{b}$ ($b\ne 0$). When two numbers are divided, like signs give positive and opposite signs give negative, and the absolute value of the quotient equals the quotient of the absolute value of the dividend divided by the absolute value of the divisor. Dividing $0$ by any number not equal to $0$ gives $0$.
-
 ---
 
 ## Exercise 1
@@ -40,12 +12,11 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Rules for Multiplication of Rational Numbers**.
+By Rules for Multiplication of Rational Numbers.
 
 (1) $6\times\left(-9\right)=-54$; (2) $\left(-4\right)\times 6=-24$; (3) $\left(-6\right)\times\left(-1\right)=6$;
 
 (4) $\left(-6\right)\times 0=0$; (5) $\left(-4\right)\times\frac{1}{4}=-1$; (6) $\frac{2}{3}\times\left(-\frac{9}{4}\right)=-\frac{3}{2}$. $\blacksquare$
-
 
 ---
 
@@ -55,12 +26,11 @@ By **Basic Knowledge: Rules for Multiplication of Rational Numbers**.
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Rules for Multiplication of Rational Numbers**, the price reduction per item is recorded as $-5$ yuan.
+By Rules for Multiplication of Rational Numbers, the price reduction per item is recorded as $-5$ yuan.
 
 $$\left(-5\right)\times 60=-300.$$
 
 Hence the sales revenue decreases by $300$ yuan. $\blacksquare$
-
 
 ---
 
@@ -72,10 +42,9 @@ $$1,\ -1,\ \frac{1}{3},\ -\frac{1}{3},\ 5,\ -5,\ \frac{2}{3},\ -\frac{2}{3}.$$
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Reciprocal**, two numbers whose product is $1$ are reciprocals of each other.
+By Reciprocal, two numbers whose product is $1$ are reciprocals of each other.
 
 The reciprocal of $1$ is $1$; the reciprocal of $-1$ is $-1$; the reciprocal of $\frac{1}{3}$ is $3$; the reciprocal of $-\frac{1}{3}$ is $-3$; the reciprocal of $5$ is $\frac{1}{5}$; the reciprocal of $-5$ is $-\frac{1}{5}$; the reciprocal of $\frac{2}{3}$ is $\frac{3}{2}$; the reciprocal of $-\frac{2}{3}$ is $-\frac{3}{2}$. $\blacksquare$
-
 
 ---
 
@@ -93,7 +62,7 @@ The reciprocal of $1$ is $1$; the reciprocal of $-1$ is $-1$; the reciprocal of 
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Associative Law of Multiplication** and **Basic Knowledge: Distributive Law**.
+By Associative Law of Multiplication and Distributive Law.
 
 (1) The original expression $=\left(-85\right)\times\left[\left(-25\right)\times\left(-4\right)\right]=\left(-85\right)\times 100=-8500$.
 
@@ -102,7 +71,6 @@ By **Basic Knowledge: Associative Law of Multiplication** and **Basic Knowledge:
 (3) The original expression $=\frac{9}{10}\times 30-\frac{1}{15}\times 30=27-2=25$.
 
 (4) The original expression $=\left(-\frac{6}{5}\right)\times\left(-\frac{2}{3}+1\frac{3}{5}\right)=\left(-\frac{6}{5}\right)\times\frac{14}{15}=-\frac{28}{25}$. $\blacksquare$
-
 
 ---
 
@@ -116,12 +84,11 @@ By **Basic Knowledge: Associative Law of Multiplication** and **Basic Knowledge:
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Sign Rules for Multiplying Several Rational Numbers**.
+By Sign Rules for Multiplying Several Rational Numbers.
 
 (1) There are two negative factors, so the product is positive: the original expression $=\frac{5}{12}\times\frac{8}{15}\times\frac{1}{2}\times\frac{2}{3}=\frac{2}{27}$.
 
-(2) Since one of the factors is $0$, by **Basic Knowledge: Sign Rules for Multiplying Several Rational Numbers**, the original expression $=0$. $\blacksquare$
-
+(2) Since one of the factors is $0$, by Sign Rules for Multiplying Several Rational Numbers, the original expression $=0$. $\blacksquare$
 
 ---
 
@@ -135,12 +102,11 @@ By **Basic Knowledge: Sign Rules for Multiplying Several Rational Numbers**.
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge: Rules for Division of Rational Numbers**.
+By Rules for Division of Rational Numbers.
 
 (1) $\left(-18\right)\div 6=-3$; (2) $\left(-63\right)\div\left(-7\right)=9$; (3) $1\div\left(-9\right)=-\frac{1}{9}$;
 
 (4) $0\div\left(-8\right)=0$; (5) $\left(-6.5\right)\div 0.13=-50$; (6) $\left(-\frac{6}{5}\right)\div\left(-\frac{2}{5}\right)=3$. $\blacksquare$
-
 
 ---
 
@@ -152,10 +118,9 @@ By **Basic Knowledge: Rules for Division of Rational Numbers**.
 
 ### Solution to Exercise 7
 
-By **Basic Knowledge: Rules for Division of Rational Numbers**, a fraction bar means division.
+By Rules for Division of Rational Numbers, a fraction bar means division.
 
 (1) $\frac{-72}{9}=-8$; (2) $\frac{-30}{-45}=\frac{2}{3}$; (3) $\frac{0}{-75}=0$; (4) $\frac{27}{-6}=-\frac{9}{2}$. $\blacksquare$
-
 
 ---
 
@@ -173,7 +138,7 @@ By **Basic Knowledge: Rules for Division of Rational Numbers**, a fraction bar m
 
 ### Solution to Exercise 8
 
-By **Basic Knowledge: Rules for Division of Rational Numbers**.
+By Rules for Division of Rational Numbers.
 
 (1) $15\div\left(-6\right)=-\frac{5}{2}$.
 
@@ -182,7 +147,6 @@ By **Basic Knowledge: Rules for Division of Rational Numbers**.
 (3) The original expression $=3\div\left(-\frac{6}{5}\right)=3\times\left(-\frac{5}{6}\right)=-\frac{5}{2}$.
 
 (4) The original expression $=\left(-\frac{2}{3}\right)\times\frac{8}{5}\times\left(-4\right)=\frac{64}{15}$. $\blacksquare$
-
 
 ---
 
@@ -200,7 +164,7 @@ By **Basic Knowledge: Rules for Division of Rational Numbers**.
 
 ### Solution to Exercise 9
 
-By **Basic Knowledge: Rules for Division of Rational Numbers** and **Basic Knowledge: Rules for Multiplication of Rational Numbers**, multiply and divide before adding and subtracting.
+By Rules for Division of Rational Numbers and Rules for Multiplication of Rational Numbers, multiply and divide before adding and subtracting.
 
 (1) The original expression $=6-4=2$.
 
@@ -209,7 +173,6 @@ By **Basic Knowledge: Rules for Division of Rational Numbers** and **Basic Knowl
 (3) The original expression $=-6-150=-156$.
 
 (4) The original expression $=-28+\frac{3}{2}=-\frac{53}{2}$. $\blacksquare$
-
 
 ---
 
@@ -223,10 +186,9 @@ By **Basic Knowledge: Rules for Division of Rational Numbers** and **Basic Knowl
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Rules for Multiplication of Rational Numbers**.
+By Rules for Multiplication of Rational Numbers.
 
 (1) $56$; (2) $-60$; (3) $-1.16$; (4) $-6.1$; (5) $-0.1$; (6) $6$. $\blacksquare$
-
 
 ---
 
@@ -240,10 +202,9 @@ By **Basic Knowledge: Rules for Multiplication of Rational Numbers**.
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Rules for Multiplication of Rational Numbers**.
+By Rules for Multiplication of Rational Numbers.
 
 (1) $-\frac{112}{9}$; (2) $\frac{1}{4}$; (3) $-\frac{245}{3}$; (4) $\frac{3}{7}$. $\blacksquare$
-
 
 ---
 
@@ -255,10 +216,9 @@ By **Basic Knowledge: Rules for Multiplication of Rational Numbers**.
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Reciprocal**.
+By Reciprocal.
 
 (1) $-\frac{1}{15}$; (2) $-\frac{9}{5}$; (3) $-4$; (4) $\frac{100}{17}$; (5) $\frac{4}{17}$; (6) $-\frac{5}{27}$. $\blacksquare$
-
 
 ---
 
@@ -276,7 +236,7 @@ By **Basic Knowledge: Reciprocal**.
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Distributive Law** and **Basic Knowledge: Associative Law of Multiplication**.
+By Distributive Law and Associative Law of Multiplication.
 
 (1) The original expression $=\left(-\frac{42}{5}\right)\times\frac{5}{4}\times\left(-8\right)=84$.
 
@@ -285,7 +245,6 @@ By **Basic Knowledge: Distributive Law** and **Basic Knowledge: Associative Law 
 (3) The original expression $=28-30+27-14=11$.
 
 (4) The original expression $=-6+1+0.03=-4.97$. $\blacksquare$
-
 
 ---
 
@@ -299,10 +258,9 @@ By **Basic Knowledge: Distributive Law** and **Basic Knowledge: Associative Law 
 
 ### Solution to Problem 5
 
-By **Basic Knowledge: Sign Rules for Multiplying Several Rational Numbers**.
+By Sign Rules for Multiplying Several Rational Numbers.
 
 (1) Two negative factors, product positive, $24$. (2) Three negative factors, product negative, $-210$. (3) Two negative factors, product positive, $\frac{33}{28}$. (4) Contains the factor $0$, product is $0$. $\blacksquare$
-
 
 ---
 
@@ -316,10 +274,9 @@ By **Basic Knowledge: Sign Rules for Multiplying Several Rational Numbers**.
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Rules for Division of Rational Numbers**.
+By Rules for Division of Rational Numbers.
 
 (1) $-\frac{16}{3}$; (2) $-7$; (3) $4$; (4) $-\frac{4}{5}$; (5) $\frac{1}{3}$; (6) $-\frac{2}{3}$. $\blacksquare$
-
 
 ---
 
@@ -333,10 +290,9 @@ $\left(-1\right)\times\left(-5\right)=\;\_\_\;$; $\left(-1\right)\div\left(-5\ri
 
 ### Solution to Problem 7
 
-By **Basic Knowledge: Rules for Multiplication of Rational Numbers** and **Basic Knowledge: Rules for Division of Rational Numbers**.
+By Rules for Multiplication of Rational Numbers and Rules for Division of Rational Numbers.
 
 In turn: $-5$; $-\frac{1}{5}$; $-4$; $6$; $5$; $\frac{1}{5}$; $-6$; $4$. $\blacksquare$
-
 
 ---
 
@@ -348,10 +304,9 @@ In turn: $-5$; $-\frac{1}{5}$; $-4$; $6$; $5$; $\frac{1}{5}$; $-6$; $4$. $\black
 
 ### Solution to Problem 8
 
-By **Basic Knowledge: Rules for Division of Rational Numbers**.
+By Rules for Division of Rational Numbers.
 
 (1) $-3$; (2) $-\frac{1}{12}$; (3) $\frac{27}{4}$; (4) $20$. $\blacksquare$
-
 
 ---
 
@@ -369,7 +324,7 @@ By **Basic Knowledge: Rules for Division of Rational Numbers**.
 
 ### Solution to Problem 9
 
-By **Basic Knowledge: Rules for Division of Rational Numbers**.
+By Rules for Division of Rational Numbers.
 
 (1) The original expression $=-100\div\left(-1\right)=100$.
 
@@ -378,7 +333,6 @@ By **Basic Knowledge: Rules for Division of Rational Numbers**.
 (3) Contains the factor $0$, so the original expression $=0$.
 
 (4) The original expression $=99\div 3\div\left(-3\right)=33\div\left(-3\right)=-11$. $\blacksquare$
-
 
 ---
 
@@ -394,14 +348,13 @@ By **Basic Knowledge: Rules for Division of Rational Numbers**.
 
 ### Solution to Problem 10
 
-By **Basic Knowledge: Rules for Division of Rational Numbers** and **Basic Knowledge: Rules for Multiplication of Rational Numbers**.
+By Rules for Division of Rational Numbers and Rules for Multiplication of Rational Numbers.
 
 (1) The original expression $=-\frac{10}{3}+3\times\frac{128}{3}=-\frac{10}{3}+128=\frac{374}{3}$.
 
 (2) The original expression $=-10.5+31.2=20.7$.
 
 (3) Let $A=1\frac{3}{4}-\frac{7}{8}-\frac{7}{12}=\frac{7}{4}-\frac{7}{8}-\frac{7}{12}=\frac{7}{24}$. Then $A\div\left(-\frac{7}{8}\right)=\frac{7}{24}\times\left(-\frac{8}{7}\right)=-\frac{1}{3}$, and $\left(-\frac{7}{8}\right)\div A=\left(-\frac{7}{8}\right)\times\frac{24}{7}=-3$. Hence the original expression $=-\frac{1}{3}+\left(-3\right)=-\frac{10}{3}$. $\blacksquare$
-
 
 ---
 
@@ -417,14 +370,13 @@ By **Basic Knowledge: Rules for Division of Rational Numbers** and **Basic Knowl
 
 ### Solution to Problem 11
 
-By **Basic Knowledge: Rules for Multiplication of Rational Numbers** and **Basic Knowledge: Rules for Division of Rational Numbers**.
+By Rules for Multiplication of Rational Numbers and Rules for Division of Rational Numbers.
 
 (1) $250\times 30=7500$, fill in $7500$.
 
 (2) $1400\div 7=200$, fill in $200$.
 
 (3) Loss is recorded as negative, $\left(-840\right)\div 7=-120$, fill in $-120$. $\blacksquare$
-
 
 ---
 
@@ -434,12 +386,11 @@ By **Basic Knowledge: Rules for Multiplication of Rational Numbers** and **Basic
 
 ### Solution to Problem 12
 
-By **Basic Knowledge: Rules for Multiplication of Rational Numbers**, rising is positive and descending is negative.
+By Rules for Multiplication of Rational Numbers, rising is positive and descending is negative.
 
 $$450+4\times 60-5\times 120=450+240-600=90.$$
 
 Hence the altitude of the helicopter at this point is $90\ \text{m}$. $\blacksquare$
-
 
 ---
 
@@ -449,12 +400,11 @@ Hence the altitude of the helicopter at this point is $90\ \text{m}$. $\blacksqu
 
 ### Solution to Problem 13
 
-By **Basic Knowledge: Rules for Multiplication of Rational Numbers**.
+By Rules for Multiplication of Rational Numbers.
 
 $$2\times 1=2,\quad 2\times\frac{1}{2}=1,\quad 2\times\left(-1\right)=-2,\quad 2\times\left(-\frac{1}{2}\right)=-1.$$
 
 A nonzero rational number is not necessarily less than its $2$ times. When the number is positive, it is less than its $2$ times; when the number is negative, for instance $-1< 2$ does not hold, because $2\times\left(-1\right)=-2< -1$, that is, the $2$ times of a negative number is smaller than the number itself. $\blacksquare$
-
 
 ---
 
@@ -468,12 +418,11 @@ If $a$ denotes any number, then using the distributive law, what is $-2a+3a$ equ
 
 ### Solution to Problem 14
 
-By **Basic Knowledge: Distributive Law**, use the distributive law in reverse.
+By Distributive Law, use the distributive law in reverse.
 
 $$-2a+3a=\left(-2+3\right)a=a.$$
 
 Hence $-2a+3a=a$. $\blacksquare$
-
 
 ---
 
@@ -485,7 +434,7 @@ $$\frac{-a}{b}=\frac{a}{-b}=-\frac{a}{b};\quad \frac{-a}{-b}=\frac{a}{b}.$$
 
 ### Solution to Problem 15
 
-By **Basic Knowledge: Rules for Division of Rational Numbers**.
+By Rules for Division of Rational Numbers.
 
 $$\left(-4\right)\div 2=-2,\quad 4\div\left(-2\right)=-2,\quad \left(-4\right)\div\left(-2\right)=2.$$
 
@@ -497,7 +446,7 @@ From $\left(-4\right)\div 2=4\div\left(-2\right)=-2$, it follows that $\frac{-a}
 
 ### Solution to Inquiry and Discovery 1
 
-By **Basic Knowledge: Distributive Law**.
+By Distributive Law.
 
 For $1\times\left(-1\right)$, if the distributive law holds, then $1\times\left(-1\right)+1\times 1=1\times\left[\left(-1\right)+1\right]=1\times 0=0$, and hence $1\times\left(-1\right)=-\left(1\times 1\right)=-1$.
 

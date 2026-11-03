@@ -1,30 +1,6 @@
 # week168
 
-> **基础知识: 解直角三角形**
-> 
-> 直角三角形中, 除直角外, 共有五个元素, 即三条边和两个锐角. 由直角三角形中的已知元素, 求出其余未知元素的过程, 叫做解直角三角形.
-> **基础知识: 直角三角形元素间的关系**
-> 
-> 在 $\text{Rt}\triangle ABC$ 中, $\angle C$ 为直角, $\angle A$, $\angle B$, $\angle C$ 所对的边分别为 $a$, $b$, $c$:
-> (1) 三边关系: $a^{2}+b^{2}=c^{2}$ (勾股定理);
-> (2) 两锐角关系: $\angle A+\angle B=90^{\circ}$;
-> (3) 边角关系: $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$, $\tan A=\frac{a}{b}$ ($A$ 可换成 $B$, 同时 $a$, $b$ 互换).
-> 知道其中两个元素 (至少有一个是边), 就可以求出其余三个未知元素.
-> **基础知识: 仰角与俯角**
-> 
-> 在视线与水平线所成的角中, 视线在水平线上方的角叫做仰角, 视线在水平线下方的角叫做俯角.
-> **基础知识: 余弦**
-> 
-> 在直角三角形中, 锐角 $A$ 的邻边与斜边的比叫做 $\angle A$ 的余弦, 记作 $\cos A=\frac{b}{c}$.
-> **基础知识: 正切**
-> 
-> 在直角三角形中, 锐角 $A$ 的对边与邻边的比叫做 $\angle A$ 的正切, 记作 $\tan A=\frac{a}{b}$.
-> **基础知识: 正弦**
-> 
-> 在直角三角形中, 锐角 $A$ 的对边与斜边的比叫做 $\angle A$ 的正弦, 记作 $\sin A=\frac{a}{c}$.
-
 ---
-
 
 ## 练习一
 
@@ -38,7 +14,7 @@
 
 ### 解答 练习一
 
-由**基础知识: 直角三角形元素间的关系**, 分别用勾股定理, 锐角互余和三角函数求解.
+由直角三角形元素间的关系, 分别用勾股定理, 锐角互余和三角函数求解.
 
 (1) 由勾股定理 $a=\sqrt{c^{2}-b^{2}}=\sqrt{900-400}=\sqrt{500}=10\sqrt{5}$.
 
@@ -56,7 +32,7 @@ $\cos A=\frac{b}{c}=\frac{20}{30}=\frac{2}{3}$, 用计算器得 $\angle A\approx
 
 ### 解答 练习二
 
-设 $D$ 到建筑物的水平距离 $DC=40\ \text{m}$. 在 $\text{Rt}\triangle BDC$ 中, $\angle BDC=45^{\circ}$, 由**基础知识: 正切**,
+设 $D$ 到建筑物的水平距离 $DC=40\ \text{m}$. 在 $\text{Rt}\triangle BDC$ 中, $\angle BDC=45^{\circ}$, 由正切,
 
 $$BC=DC\cdot\tan 45^{\circ}=40\times 1=40\ \text{m}.$$
 
@@ -76,7 +52,7 @@ $$AC=DC\cdot\tan 50^{\circ}\approx 40\times 1.1918\approx 47.67\ \text{m}.$$
 
 在 $\triangle BDE$ 中, $\angle DBE=40^{\circ}$, $\angle BDE=50^{\circ}$, 故 $\angle BED=180^{\circ}-40^{\circ}-50^{\circ}=90^{\circ}$, 即 $\triangle BDE$ 为直角三角形, $\angle E=90^{\circ}$.
 
-在 $\text{Rt}\triangle BDE$ 中, 由**基础知识: 正弦**,
+在 $\text{Rt}\triangle BDE$ 中, 由正弦,
 
 $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\times 0.6428\approx 334.3\ \text{m}.$$
 
@@ -130,7 +106,7 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 ### 解答 习题一
 
-由**基础知识** 求解.
+由基础知识 求解.
 
 (1) $\angle B=90^{\circ}-30^{\circ}=60^{\circ}$. $a=c\sin A=8\times\frac{1}{2}=4$, $b=c\cos A=8\times\frac{\sqrt{3}}{2}=4\sqrt{3}$.
 
@@ -146,9 +122,9 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 等腰三角形 $ABC$ 中, $AD\perp BC$, $D$ 为 $BC$ 中点, 故 $BD=\frac{BC}{2}=5\ \text{m}$.
 
-在 $\text{Rt}\triangle ABD$ 中, 由**基础知识: 正切**, $AD=BD\cdot\tan 36^{\circ}\approx 5\times 0.7265\approx 3.6\ \text{m}$.
+在 $\text{Rt}\triangle ABD$ 中, 由正切, $AD=BD\cdot\tan 36^{\circ}\approx 5\times 0.7265\approx 3.6\ \text{m}$.
 
-由**基础知识: 余弦**, $\cos B=\frac{BD}{AB}$, 故 $AB=\frac{BD}{\cos 36^{\circ}}\approx\frac{5}{0.8090}\approx 6.2\ \text{m}$. $\blacksquare$
+由余弦, $\cos B=\frac{BD}{AB}$, 故 $AB=\frac{BD}{\cos 36^{\circ}}\approx\frac{5}{0.8090}\approx 6.2\ \text{m}$. $\blacksquare$
 
 ## 习题三
 
@@ -158,7 +134,7 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, $AC=1200\ \text{m}$, 俯角 $\alpha=16^{\circ}31'\approx 16.52^{\circ}$. 由内错角相等, $\angle ABC=\alpha$.
 
-由**基础知识: 正弦**, $\sin\alpha=\frac{AC}{AB}$, 故 $AB=\frac{AC}{\sin\alpha}=\frac{1200}{\sin 16.52^{\circ}}\approx\frac{1200}{0.2843}\approx 4221\ \text{m}$. $\blacksquare$
+由正弦, $\sin\alpha=\frac{AC}{AB}$, 故 $AB=\frac{AC}{\sin\alpha}=\frac{1200}{\sin 16.52^{\circ}}\approx\frac{1200}{0.2843}\approx 4221\ \text{m}$. $\blacksquare$
 
 ## 习题四
 
@@ -168,7 +144,7 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 在直角三角形中, 灯塔高度 $55\ \text{m}$ 为对边, 俯角 $21^{\circ}$, 帆船到灯塔的直线距离为斜边.
 
-由**基础知识: 正弦**, $\sin 21^{\circ}=\frac{55}{d}$, 故 $d=\frac{55}{\sin 21^{\circ}}\approx\frac{55}{0.3584}\approx 153\ \text{m}$. $\blacksquare$
+由正弦, $\sin 21^{\circ}=\frac{55}{d}$, 故 $d=\frac{55}{\sin 21^{\circ}}\approx\frac{55}{0.3584}\approx 153\ \text{m}$. $\blacksquare$
 
 ## 习题五
 
@@ -178,7 +154,7 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 水平距离 $5.5\ \text{m}$ 为邻边, 坡面距离为斜边, 坡角 $24^{\circ}$.
 
-由**基础知识: 余弦**, $\cos 24^{\circ}=\frac{5.5}{d}$, 故 $d=\frac{5.5}{\cos 24^{\circ}}\approx\frac{5.5}{0.9135}\approx 6.0\ \text{m}$. $\blacksquare$
+由余弦, $\cos 24^{\circ}=\frac{5.5}{d}$, 故 $d=\frac{5.5}{\cos 24^{\circ}}\approx\frac{5.5}{0.9135}\approx 6.0\ \text{m}$. $\blacksquare$
 
 ## 习题六
 
@@ -192,7 +168,7 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 ### 解答 习题六
 
-由**基础知识: 直角三角形元素间的关系**.
+由直角三角形元素间的关系.
 
 (1) $\angle B=90^{\circ}-\angle A$. $a=c\sin A$, $b=c\cos A$.
 
@@ -208,7 +184,7 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 金字塔底面正方形边长 $130\ \text{m}$, 侧面与底面成 $65^{\circ}$ 角. 高 $h$ 与底面中心到边的距离 $d=\frac{130}{2}=65\ \text{m}$ 构成直角三角形, 侧面与底面的二面角为 $65^{\circ}$.
 
-由**基础知识: 正切**, $\tan 65^{\circ}=\frac{h}{65}$, 故 $h=65\times\tan 65^{\circ}\approx 65\times 2.1445\approx 139\ \text{m}$. $\blacksquare$
+由正切, $\tan 65^{\circ}=\frac{h}{65}$, 故 $h=65\times\tan 65^{\circ}\approx 65\times 2.1445\approx 139\ \text{m}$. $\blacksquare$
 
 ## 习题八
 

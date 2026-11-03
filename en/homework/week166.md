@@ -1,21 +1,10 @@
 # week166
 
-> **Basic Knowledge: Similar Polygons**
-> 
-> Two polygons with the same number of sides, whose corresponding angles are equal and whose corresponding sides are proportional, are similar; the ratio of corresponding sides is called the similarity ratio.
-> **Basic Knowledge: Area Ratio**
-> 
-> Area Ratio.
-> **Basic Knowledge: Homothetic Figures**
-> 
-> Similar figures whose corresponding vertices lie on lines through a common point and whose corresponding sides are parallel.
-
 ---
 
 ---
 
 ---
-
 
 > **Criterion Theorem 27.2.2** (SSS) 
 > 
@@ -25,21 +14,13 @@
 > 
 > Two triangles with two pairs of corresponding angles equal are similar.
 
-> **Basic Knowledge: Area Ratio** 
-> 
-> The ratio of the areas of similar triangles equals the square of the similarity ratio.
-
-> **Basic Knowledge: Homothetic Figures** 
-> 
-> Two figures whose corresponding vertices' connecting lines meet at the same point $O$ and whose corresponding sides are proportional, have their corresponding sides parallel to each other.
-
 ## Review Problem 1
 
 (Review Problem 27, Review and Consolidation, Problem 1) As shown in the figure, quadrilateral $EFGH$ is similar to quadrilateral $KLMN$. Find the angles $\angle E$, $\angle G$, $\angle N$ and the values of $x,y,z$. (In $EFGH$, $\angle E=143^\circ$, $EF=4$, $FG=6$, $GH=10$, $EH=x$; in $KLMN$, $\angle L=67^\circ$, $\angle M=107^\circ$, $KL=10$, $LM=y$, $MN=z$, $KN=35$.)
 
 ### Solution to Review Problem 1
 
-By **Basic Knowledge: Similar Polygons**, $EFGH\backsim KLMN$, the corresponding angles are equal, and the corresponding sides are proportional.
+By Similar Polygons, $EFGH\backsim KLMN$, the corresponding angles are equal, and the corresponding sides are proportional.
 
 The similarity ratio is $\frac{EF}{KL}=\frac{4}{10}=\frac{2}{5}$.
 
@@ -95,7 +76,7 @@ The advertising fee is proportional to the area, so he must pay $180\times9=1620
 
 ### Solution to Review Problem 5
 
-By **Basic Knowledge: Homothetic Figures**, take a center of homothety outside or inside the figure, connect the center to each vertex, take on the connecting lines points at half the distance from each vertex to the center as corresponding points, and connect them in order; the resulting figure is the reduced figure, with the ratio of corresponding segments being $2:1$. $\blacksquare$
+By Homothetic Figures, take a center of homothety outside or inside the figure, connect the center to each vertex, take on the connecting lines points at half the distance from each vertex to the center as corresponding points, and connect them in order; the resulting figure is the reduced figure, with the ratio of corresponding segments being $2:1$. $\blacksquare$
 
 ## Review Problem 6
 
@@ -151,9 +132,9 @@ $\angle AEF=\angle BDF=90^\circ$, $\angle AFE=\angle BFD$ (vertical angles); by 
 
 ### Solution to Review Problem 10
 
-By **Basic Knowledge: Homothetic Figures**, the corresponding sides are parallel and the connecting lines meet at $O$, so the two triangles are homothetic, with similarity ratio $\frac{OB}{OB'}=3$.
+By Homothetic Figures, the corresponding sides are parallel and the connecting lines meet at $O$, so the two triangles are homothetic, with similarity ratio $\frac{OB}{OB'}=3$.
 
-By **Basic Knowledge: Area Ratio**, the area ratio is the square of the similarity ratio, i.e. $9$.
+By Area Ratio, the area ratio is the square of the similarity ratio, i.e. $9$.
 
 Thus $S_{\triangle ABC}=9S_{\triangle A'B'C'}$. $\blacksquare$
 
@@ -212,4 +193,4 @@ h=1255+5=1260\ \text{步}.
 $$
 
 Thus the peak height is $AB=1260$ bu, and the horizontal distance is $BD=30750$ bu. $\blacksquare$
-
+

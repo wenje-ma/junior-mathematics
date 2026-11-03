@@ -1,25 +1,6 @@
 # week158
 
-> **Basic Knowledge: Inverse Proportional Function**
-> 
-> In general, a function of the form $y=\frac{k}{x}$ (where $k$ is a constant and $k\ne0$) is called an inverse proportional function, where $x$ is the independent variable and $y$ is the function; the range of the independent variable $x$ is all real numbers except $0$.
-> **Basic Knowledge: Graph and Properties of the Inverse Proportional Function**
-> 
-> The graph of y = k/x is a hyperbola. When k > 0, branches are in quadrants I and III; when k < 0, in quadrants II and IV.
-> **Basic Knowledge: Method of Undetermined Coefficients**
-> 
-> Assume a function form with unknown coefficients, then solve for them using given points.
-
 ---
-
-
-> **Basic Knowledge: Graph and Properties of the Inverse Proportional Function** 
-> 
-> The graph of the inverse proportional function $y=\frac{k}{x}$ is a hyperbola. When $k> 0$, the two branches of the hyperbola lie in the first and third quadrants, respectively, and in each quadrant, $y$ decreases as $x$ increases; when $k< 0$, the two branches of the hyperbola lie in the second and fourth quadrants, respectively, and in each quadrant, $y$ increases as $x$ increases.
-
-> **Basic Knowledge: Method of Undetermined Coefficients** 
-> 
-> Given the coordinates of a point on the graph of an inverse proportional function, substituting into $y=\frac{k}{x}$ yields $k$, thereby determining the function expression.
 
 ## Exercise 1
 
@@ -33,7 +14,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Inverse Proportional Function**, two variables are inversely proportional when their product is a constant.
+By Inverse Proportional Function, two variables are inversely proportional when their product is a constant.
 
 (1) The volume equals the filling rate times the time, i.e. $vt=2000$, so
 
@@ -63,7 +44,7 @@ $$
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Inverse Proportional Function**, an inverse proportional function has the form $y=\frac{k}{x}$, i.e. $xy=k$ ($k\ne0$).
+By Inverse Proportional Function, an inverse proportional function has the form $y=\frac{k}{x}$, i.e. $xy=k$ ($k\ne0$).
 
 $y=4x$ is a direct proportional function; $\frac{y}{x}=3$ means $y=3x$, a direct proportional function; $y=-\frac{2}{x}$ fits the form $y=\frac{k}{x}$ with $k=-2$; $y=6x+1$ is a linear function; $y=x^2-1$ is a quadratic function; in $y=\frac{1}{x^2}$, $y$ is inversely proportional to $x^2$, rather than $y$ being inversely proportional to $x$; $xy=123$ means $y=\frac{123}{x}$, which fits the inverse proportional function form.
 
@@ -81,7 +62,7 @@ Thus the relations in which $y$ is an inverse proportional function of $x$ are $
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Inverse Proportional Function** and **Basic Knowledge: Method of Undetermined Coefficients**, let $y=\frac{k}{x^2}$.
+By Inverse Proportional Function and Method of Undetermined Coefficients, let $y=\frac{k}{x^2}$.
 
 Substituting $x=3$, $y=4$ gives $4=\frac{k}{9}$, and solving gives $k=36$.
 
@@ -105,7 +86,7 @@ The figure shows a hyperbola in a rectangular coordinate plane, with its two bra
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Graph and Properties of the Inverse Proportional Function**, the graph of an inverse proportional function is a hyperbola, not a straight line or a parabola.
+By Graph and Properties of the Inverse Proportional Function, the graph of an inverse proportional function is a hyperbola, not a straight line or a parabola.
 
 (1) (A) and (B) are straight lines, (D) is a parabola, and only (C) is a hyperbola, so choose (C).
 
@@ -121,7 +102,7 @@ By **Basic Knowledge: Graph and Properties of the Inverse Proportional Function*
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Graph and Properties of the Inverse Proportional Function**.
+By Graph and Properties of the Inverse Proportional Function.
 
 (1) $k=5> 0$, so the two branches of the hyperbola lie in the first and third quadrants, respectively.
 
@@ -137,9 +118,9 @@ By **Basic Knowledge: Graph and Properties of the Inverse Proportional Function*
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge: Method of Undetermined Coefficients**, let $y=\frac{k}{x}$. Substituting $A\left(3,-4\right)$ gives $-4=\frac{k}{3}$, so $k=-12$, and hence $y=\frac{-12}{x}$.
+By Method of Undetermined Coefficients, let $y=\frac{k}{x}$. Substituting $A\left(3,-4\right)$ gives $-4=\frac{k}{3}$, so $k=-12$, and hence $y=\frac{-12}{x}$.
 
-(1) $k=-12< 0$, so by **Basic Knowledge**, the graph lies in the second and fourth quadrants, and on each branch $y$ increases as $x$ increases.
+(1) $k=-12< 0$, so by Basic Knowledge, the graph lies in the second and fourth quadrants, and on each branch $y$ increases as $x$ increases.
 
 (2) $B\left(-3,4\right)$: $\left(-3\right)\times4=-12=k$, on the graph; $C\left(-2,6\right)$: $\left(-2\right)\times6=-12=k$, on the graph; $D\left(3,4\right)$: $3\times4=12\ne-12$, not on the graph. $\blacksquare$
 
@@ -149,7 +130,7 @@ By **Basic Knowledge: Method of Undetermined Coefficients**, let $y=\frac{k}{x}$
 
 ### Solution to Exercise 7
 
-By **Basic Knowledge: Graph and Properties of the Inverse Proportional Function**, $k=1> 0$, so in each quadrant $y$ decreases as $x$ increases.
+By Graph and Properties of the Inverse Proportional Function, $k=1> 0$, so in each quadrant $y$ decreases as $x$ increases.
 
 Since $x_1$, $x_2$ have the same sign, $A$ and $B$ lie in the same quadrant. From $x_1< x_2$, on the same branch $y$ decreases as $x$ increases, so $y_1> y_2$.
 
@@ -165,7 +146,7 @@ This can also be verified from the expression: $y_1-y_2=\frac{1}{x_1}-\frac{1}{x
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Inverse Proportional Function**.
+By Inverse Proportional Function.
 
 (1) The volume of a cylinder is $V=Sh$; since $V$ is constant, $S=\frac{V}{h}$, which is an inverse proportional function.
 
@@ -179,7 +160,7 @@ By **Basic Knowledge: Inverse Proportional Function**.
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Inverse Proportional Function**, an inverse proportional function has the form $y=\frac{k}{x}$, where the denominator can only be a first-order monomial in $x$.
+By Inverse Proportional Function, an inverse proportional function has the form $y=\frac{k}{x}$, where the denominator can only be a first-order monomial in $x$.
 
 (A) is a direct proportional function; (B) $y=-\frac{\sqrt{5}}{3x}=\frac{-\sqrt{5}/3}{x}$, which fits an inverse proportional function; (C) is a quadratic function; (D) has denominator $x+1$, not $x$. So choose (B). $\blacksquare$
 
@@ -195,7 +176,7 @@ By **Basic Knowledge: Inverse Proportional Function**, an inverse proportional f
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Graph and Properties of the Inverse Proportional Function**.
+By Graph and Properties of the Inverse Proportional Function.
 
 (1) The graph lies in the first and third quadrants, $k> 0$, and $y$ decreases as $x$ increases.
 
@@ -209,7 +190,7 @@ By **Basic Knowledge: Graph and Properties of the Inverse Proportional Function*
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Inverse Proportional Function**, let $y=\frac{k}{x}$ ($k\ne0$); then $x=\frac{k}{y}$, and $k$ is still a nonzero constant.
+By Inverse Proportional Function, let $y=\frac{k}{x}$ ($k\ne0$); then $x=\frac{k}{y}$, and $k$ is still a nonzero constant.
 
 Therefore $x$ is also an inverse proportional function of $y$. $\blacksquare$
 
@@ -235,7 +216,7 @@ The intersection point has y-coordinate $2$ and lies on $y=x$, so its x-coordina
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Inverse Proportional Function**, let $y=\frac{k_1}{z}$ and $z=\frac{k_2}{x}$ ($k_1,k_2\ne0$).
+By Inverse Proportional Function, let $y=\frac{k_1}{z}$ and $z=\frac{k_2}{x}$ ($k_1,k_2\ne0$).
 
 Substituting gives $y=\frac{k_1}{k_2/x}=\frac{k_1}{k_2}x$, where $\frac{k_1}{k_2}$ is a nonzero constant. Therefore $y$ is a direct proportional function of $x$. $\blacksquare$
 
@@ -259,7 +240,7 @@ Substituting gives $y=\frac{k_1}{k_2x}=\frac{k_1/k_2}{x}$, where $\frac{k_1}{k_2
 
 ### Solution to Problem 8
 
-By **Basic Knowledge: Graph and Properties of the Inverse Proportional Function**, the $k$ in $y=kx$ and $y=\frac{k}{x}$ has the same sign.
+By Graph and Properties of the Inverse Proportional Function, the $k$ in $y=kx$ and $y=\frac{k}{x}$ has the same sign.
 
 If $k> 0$, the line $y=kx$ passes through the first and third quadrants, and the hyperbola $y=\frac{k}{x}$ also lies in the first and third quadrants, corresponding to Figure (2).
 
@@ -277,7 +258,7 @@ So choose (C). $\blacksquare$
 
 ### Solution to Problem 9
 
-By **Basic Knowledge: Graph and Properties of the Inverse Proportional Function**.
+By Graph and Properties of the Inverse Proportional Function.
 
 (1) One branch lies in the first quadrant, which means $w-\sqrt{2}> 0$, so the other branch lies in the third quadrant, and $w> \sqrt{2}$.
 
@@ -293,7 +274,7 @@ The figure shows multiple hyperbolas of the inverse proportional function $y=\fr
 
 ### Solution to Information Technology Application 1
 
-By **Basic Knowledge: Graph and Properties of the Inverse Proportional Function**.
+By Graph and Properties of the Inverse Proportional Function.
 
 (1) The point symmetric to any point $\left(a,\frac{1}{a}\right)$ on the graph of $y=\frac{1}{x}$ about the line $y=-x$ is $\left(-\frac{1}{a},-a\right)$, and $\left(-\frac{1}{a}\right)\cdot\left(-a\right)=1$, so this point still lies on $y=\frac{1}{x}$. Hence the graph is symmetric about the line $y=-x$. In general, the graph of $y=\frac{k}{x}$ is symmetric both about the line $y=x$ and about the line $y=-x$.
 

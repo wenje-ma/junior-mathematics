@@ -1,33 +1,5 @@
 # week56
 
-> **Basic Knowledge: Comprehensive Survey**
-> 
-> A survey conducted on the entire population of objects.
-
-> **Basic Knowledge: Population and Individual**
-> 
-> The entire set of objects to be investigated is called the population; each object under investigation that makes up the population is called an individual.
-
-> **Basic Knowledge: Sample Survey**
-> 
-> Surveying only a part of the objects and then inferring the situation of the entire population from the survey data.
-
-> **Basic Knowledge: Sample**
-> 
-> A part of the individuals drawn from the population.
-
-> **Basic Knowledge: Sample Size**
-> 
-> The number of individuals in the sample.
-
-> **Basic Knowledge: Simple Random Sampling**
-> 
-> In the process of drawing the sample, every individual in the population has an equal chance of being selected.
-
-> **Basic Knowledge: Sample and Sample Size**
-> 
-> The individuals selected form a sample; the number of individuals in the sample is the sample size.
-
 ---
 
 ## Exercise 1
@@ -48,7 +20,6 @@
 
 (3) Not appropriate. The statement first asserts "most students think", which induces the respondents; it is a leading question. $\blacksquare$
 
-
 ---
 
 ## Exercise 2
@@ -65,7 +36,6 @@
 
 (2) Not appropriate. "Playing soccer" is a kind of "sports activity"; there is an inclusion relation among the options, making it hard for respondents to choose. $\blacksquare$
 
-
 ---
 
 ## Exercise 3
@@ -76,7 +46,6 @@
 
 Measuring the heights of all students in a certain class to understand the height situation of that class is a comprehensive survey. $\blacksquare$
 
-
 ---
 
 ## Exercise 4
@@ -85,8 +54,7 @@ Measuring the heights of all students in a certain class to understand the heigh
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Population and Individual** through **Basic Knowledge: Sample and Sample Size**, the population is the yields of these $500$ experimental fields; the individual is the yield of each experimental field; the sample is the yields of the $50$ drawn experimental fields; the sample size is $50$. $\blacksquare$
-
+By Population and Individual through Sample and Sample Size, the population is the yields of these $500$ experimental fields; the individual is the yield of each experimental field; the sample is the yields of the $50$ drawn experimental fields; the sample size is $50$. $\blacksquare$
 
 ---
 
@@ -104,7 +72,6 @@ By **Basic Knowledge: Population and Individual** through **Basic Knowledge: Sam
 
 (2) It cannot. The sample is only the $3$ students next to him, not randomly drawn; it lacks representativeness and cannot objectively reflect the heights of all students in the school. $\blacksquare$
 
-
 ---
 
 ## Exercise 6
@@ -113,8 +80,7 @@ By **Basic Knowledge: Population and Individual** through **Basic Knowledge: Sam
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge: Simple Random Sampling**, every student has an equal chance of being selected, the slips are indistinguishable, and they are randomly drawn after stirring; hence it is simple random sampling. $\blacksquare$
-
+By Simple Random Sampling, every student has an equal chance of being selected, the slips are indistinguishable, and they are randomly drawn after stirring; hence it is simple random sampling. $\blacksquare$
 
 ---
 
@@ -140,7 +106,6 @@ By **Basic Knowledge: Simple Random Sampling**, every student has an equal chanc
 
 (4) Sample survey; the testing is destructive. $\blacksquare$
 
-
 ---
 
 ## Problem 1
@@ -150,7 +115,6 @@ By **Basic Knowledge: Simple Random Sampling**, every student has an equal chanc
 ### Solution to Problem 1
 
 The way in (2) is better. The way in (1) uses a rhetorical question with an obvious leading tendency and will induce the respondents; the way in (2) neutrally gives two options without subjective tendency. $\blacksquare$
-
 
 ---
 
@@ -162,8 +126,7 @@ The way in (2) is better. The way in (1) uses a rhetorical question with an obvi
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Simple Random Sampling**, the sample should be randomly drawn from all students in the school. Hence choose (D). $\blacksquare$
-
+By Simple Random Sampling, the sample should be randomly drawn from all students in the school. Hence choose (D). $\blacksquare$
 
 ---
 
@@ -174,7 +137,6 @@ By **Basic Knowledge: Simple Random Sampling**, the sample should be randomly dr
 ### Solution to Problem 3
 
 It does not. The survey was taken only on a certain Sunday and only from the first $50$ customers; the sample lacks representativeness and breadth, and one cannot infer most customers' preference from it. $\blacksquare$
-
 
 ---
 
@@ -194,7 +156,6 @@ It does not. The survey was taken only on a certain Sunday and only from the fir
 
 (1) Comprehensive survey; (2) sample survey (destructive); (3) sample survey (destructive); (4) comprehensive survey (small scope). $\blacksquare$
 
-
 ---
 
 ## Problem 5
@@ -205,7 +166,6 @@ It does not. The survey was taken only on a certain Sunday and only from the fir
 
 The questionnaire lists the months from month $1$ to month $12$, and each person single-selects their birth month. After collection, tally by month, count the number and percentage of people in each month, and make a frequency distribution table. $\blacksquare$
 
-
 ---
 
 ## Problem 6
@@ -215,7 +175,6 @@ The questionnaire lists the months from month $1$ to month $12$, and each person
 ### Solution to Problem 6
 
 From the sample, size M accounts for $\frac{16}{40}=40\%$, the most, and size L accounts for $25\%$; together they are $65\%$. It is suggested that the school buy more size-M and size-L costumes and fewer size-S, size-XL and size-XXL costumes, to meet the size needs of most students. $\blacksquare$
-
 
 ---
 
@@ -228,7 +187,6 @@ From the sample, size M accounts for $\frac{16}{40}=40\%$, the most, and size L 
 From the given data (Beijing 2, Tianjin 3, Hebei 14, Shanxi 8, Inner Mongolia 29, Liaoning 19, Jilin 24, Heilongjiang 49, Shanghai 11, Jiangsu 17, Zhejiang 16, Anhui 7, Fujian 13, Hubei 22, Hunan 23, Guangdong 15, Guangxi 10, Hainan 32, Chongqing 26, Sichuan 21, Guizhou 9, Yunnan 21, Tibet 26, Shaanxi 9, Gansu ..., Qinghai ..., Ningxia ..., Xinjiang ...):
 
 $x< 5$: Beijing, Tianjin, totaling $2$ regions; $5\le x< 10$: Shanxi, Anhui, Guizhou, Shaanxi, etc.; the remaining intervals are counted according to where the data fall. Overall, more regions have $10\sim 25$ nature reserves, and Inner Mongolia and Heilongjiang have the largest numbers. $\blacksquare$
-
 
 ---
 
@@ -256,7 +214,7 @@ Hence most customers think the pastry is moderately salty. $\blacksquare$
 
 ### Solution to Inquiry and Discovery 1
 
-By **Basic Knowledge: Simple Random Sampling**, the proportion $\frac{n}{p}$ of marked beans in the sample approximately equals the proportion $\frac{m}{q}$ in the population, i.e. $\frac{m}{q}\approx\frac{n}{p}$, hence
+By Simple Random Sampling, the proportion $\frac{n}{p}$ of marked beans in the sample approximately equals the proportion $\frac{m}{q}$ in the population, i.e. $\frac{m}{q}\approx\frac{n}{p}$, hence
 
 $$
 q\approx\frac{mp}{n}.

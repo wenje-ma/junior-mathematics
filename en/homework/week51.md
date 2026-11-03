@@ -1,27 +1,5 @@
 # week51
 
-> **Basic Knowledge: Inequality**
-> 
-> An expression using the symbols "$< $" or "$> $" to denote size/order relations.
-
-> **Basic Knowledge: Solution of an Inequality**
-> 
-> A value of the unknown that makes the inequality hold.
-
-> **Basic Knowledge: Solution Set of an Inequality**
-> 
-> The set consisting of all the solutions of an inequality containing an unknown.
-
-> **Basic Knowledge: Property 1 of Inequalities**
-> 
-> Property 1 of Inequalities.
-> **Basic Knowledge: Property 2 of Inequalities**
-> 
-> Property 2 of Inequalities.
-> **Basic Knowledge: Property 3 of Inequalities**
-> 
-> Property 3 of Inequalities.
-
 ---
 
 ## Exercise 1
@@ -42,7 +20,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Inequality**.
+By Inequality.
 
 (1) $a> 0$.
 
@@ -56,7 +34,6 @@ By **Basic Knowledge: Inequality**.
 
 (6) Let the number of new-energy buses be $x$; then $\frac{x}{12000}> 66\%$, i.e. $x> 7920$. $\blacksquare$
 
-
 ---
 
 ## Exercise 2
@@ -69,10 +46,9 @@ $$
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Solution of an Inequality**, the values of $x$ making $x+3> 6$ hold are $x> 3$.
+By Solution of an Inequality, the values of $x$ making $x+3> 6$ hold are $x> 3$.
 
 Among the given numbers, $3.2> 3$, $4.8> 3$, $8> 3$, $12> 3$, so $3.2$, $4.8$, $8$, $12$ are solutions of the inequality. $\blacksquare$
-
 
 ---
 
@@ -88,14 +64,13 @@ Among the given numbers, $3.2> 3$, $4.8> 3$, $8> 3$, $12> 3$, so $3.2$, $4.8$, $
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Property 1 of Inequalities** and **Basic Knowledge: Property 2 of Inequalities**.
+By Property 1 of Inequalities and Property 2 of Inequalities.
 
 (1) Subtract $3$ from both sides: $x> 3$.
 
 (2) Divide both sides by $2$: $x< 4$.
 
 (3) Add $2$ to both sides: $x> 2$. $\blacksquare$
-
 
 ---
 
@@ -117,7 +92,7 @@ By **Basic Knowledge: Property 1 of Inequalities** and **Basic Knowledge: Proper
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Property 1 of Inequalities**, adding the same number to both sides leaves the direction unchanged; by **Basic Knowledge: Property 2 of Inequalities**, multiplying both sides by a positive number leaves the direction unchanged; by **Basic Knowledge: Property 3 of Inequalities**, multiplying both sides by a negative number reverses the direction.
+By Property 1 of Inequalities, adding the same number to both sides leaves the direction unchanged; by Property 2 of Inequalities, multiplying both sides by a positive number leaves the direction unchanged; by Property 3 of Inequalities, multiplying both sides by a negative number reverses the direction.
 
 (1) $p+12> q+12$.
 
@@ -130,7 +105,6 @@ By **Basic Knowledge: Property 1 of Inequalities**, adding the same number to bo
 (5) $\frac{p}{3}> \frac{q}{3}$.
 
 (6) $4p+1> 4q+1$. $\blacksquare$
-
 
 ---
 
@@ -148,7 +122,7 @@ By **Basic Knowledge: Property 1 of Inequalities**, adding the same number to bo
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Property 1 of Inequalities**, **Basic Knowledge: Property 2 of Inequalities**, **Basic Knowledge: Property 3 of Inequalities**.
+By Property 1 of Inequalities, Property 2 of Inequalities, Property 3 of Inequalities.
 
 (1) Add $5$ to both sides: $m+5> 8$.
 
@@ -157,7 +131,6 @@ By **Basic Knowledge: Property 1 of Inequalities**, **Basic Knowledge: Property 
 (3) Multiply both sides by $-2$ (direction reverses): $-2m< -6$.
 
 (4) Multiply both sides by $3$ then subtract $4$: $3m> 9$, $3m-4> 5$. $\blacksquare$
-
 
 ---
 
@@ -177,7 +150,7 @@ The figure shows number lines representing the solution sets of four inequalitie
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge: Property 1 of Inequalities** through **Basic Knowledge: Property 3 of Inequalities**.
+By Property 1 of Inequalities through Property 3 of Inequalities.
 
 (1) Subtract $5$ from both sides: $x> -6$.
 
@@ -189,7 +162,6 @@ By **Basic Knowledge: Property 1 of Inequalities** through **Basic Knowledge: Pr
 
 The solution sets are represented on the number line as shown. $\blacksquare$
 
-
 ---
 
 ## Exercise 7
@@ -198,14 +170,13 @@ The solution sets are represented on the number line as shown. $\blacksquare$
 
 ### Solution to Exercise 7
 
-By **Basic Knowledge: Inequality**, the temperature is no lower than the lowest temperature and no higher than the highest temperature, so
+By Inequality, the temperature is no lower than the lowest temperature and no higher than the highest temperature, so
 
 $$
 19\le t\le28.
 $$
 
 $\blacksquare$
-
 
 ---
 
@@ -219,8 +190,7 @@ $$
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Solution of an Inequality**, $2x+3> 9$ is equivalent to $x> 3$. Among the given numbers, $3.01> 3$, $4> 3$, $6> 3$, $100> 3$, so $3.01$, $4$, $6$, $100$ are solutions. $\blacksquare$
-
+By Solution of an Inequality, $2x+3> 9$ is equivalent to $x> 3$. Among the given numbers, $3.01> 3$, $4> 3$, $6> 3$, $100> 3$, so $3.01$, $4$, $6$, $100$ are solutions. $\blacksquare$
 
 ---
 
@@ -246,7 +216,6 @@ By **Basic Knowledge: Solution of an Inequality**, $2x+3> 9$ is equivalent to $x
 
 (4) Let the number of good-air-quality days in 2021 be $x$; then $x-224> 60$, i.e. $x> 284$. $\blacksquare$
 
-
 ---
 
 ## Problem 3
@@ -271,7 +240,6 @@ By **Basic Knowledge: Solution of an Inequality**, $2x+3> 9$ is equivalent to $x
 
 (4) Dividing by $-3$ reverses the direction: $x> -\frac{10}{3}$. $\blacksquare$
 
-
 ---
 
 ## Problem 4
@@ -295,7 +263,6 @@ By **Basic Knowledge: Solution of an Inequality**, $2x+3> 9$ is equivalent to $x
 (3) By Property 3: $-\frac{1}{3}m< -\frac{1}{3}n$.
 
 (4) From $m> n$ we get $m+3n> n+3n=4n$, hence $m+3n> 4n$. $\blacksquare$
-
 
 ---
 
@@ -325,7 +292,6 @@ The figure shows number lines representing the solution sets of four inequalitie
 
 The solution sets are represented on the number line as shown. $\blacksquare$
 
-
 ---
 
 ## Problem 6
@@ -337,7 +303,6 @@ The solution sets are represented on the number line as shown. $\blacksquare$
 (1) The temperature $t$ satisfies $650\le t\le750$.
 
 (2) From $1260\le t\le1310$, by comparison with the temperature table, this range belongs to the higher-temperature segment between bright cherry red and deep orange-yellow. $\blacksquare$
-
 
 ---
 
@@ -354,7 +319,6 @@ The solution sets are represented on the number line as shown. $\blacksquare$
 (1) From $a> b$, multiply by $2$ and subtract $5$: $2a-5> 2b-5$.
 
 (2) From $a> b$, multiply by $-3.5$, reversing the direction: $-3.5a< -3.5b$, then add $1$: $-3.5a+1< -3.5b+1$, i.e. $-3.5b+1> -3.5a+1$. $\blacksquare$
-
 
 ---
 
@@ -380,7 +344,6 @@ The solution sets are represented on the number line as shown. $\blacksquare$
 
 (4) $2y< y-1$, solution set $y< -1$. $\blacksquare$
 
-
 ---
 
 ## Problem 9
@@ -397,7 +360,6 @@ $$
 
 i.e. $39.98\le L\le40.02$. $\blacksquare$
 
-
 ---
 
 ## Problem 10
@@ -406,8 +368,7 @@ i.e. $39.98\le L\le40.02$. $\blacksquare$
 
 ### Solution to Problem 10
 
-By **Basic Knowledge: Inequality**, $0< x\le20$. $\blacksquare$
-
+By Inequality, $0< x\le20$. $\blacksquare$
 
 ---
 
@@ -424,7 +385,6 @@ $$
 $$
 
 Subtract $a+b$ from both sides: $9b> 9a$, hence $b> a$. $\blacksquare$
-
 
 ---
 

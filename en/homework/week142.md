@@ -1,13 +1,6 @@
 # week142
 
-> **Basic Knowledge: Inverse Proportional Function**
-> 
-> A function of the form $y=\frac kx$ ($k$ is a constant, $k\ne0$) is called an inverse proportional function, with independent variable $x\ne0$.
-> **Basic Knowledge: Properties of the Inverse Proportional Function**
-> 
-> When $k> 0$, the graph lies in the first and third quadrants, and within each quadrant $y$ decreases as $x$ increases; when $k< 0$, it lies in the second and fourth quadrants, and within each quadrant $y$ increases as $x$ increases.
 ---
-
 
 ## Review Problem 1
 
@@ -17,7 +10,7 @@
 
 ### Solution to Review Problem 1
 
-By **Basic Knowledge**, an inverse proportional function can be written in the form $y=\frac kx$, i.e. $xy=k$. In (B), $yx=-\sqrt3$, i.e. $y=\frac{-\sqrt3}{x}$, which fits. In (A), $y$ is in inverse proportion to $x^2$; (C) is a linear function; (D) rearranges to $y=1/\sqrt x$, which is not an inverse proportional function. Therefore choose (B). $\blacksquare$
+By Basic Knowledge, an inverse proportional function can be written in the form $y=\frac kx$, i.e. $xy=k$. In (B), $yx=-\sqrt3$, i.e. $y=\frac{-\sqrt3}{x}$, which fits. In (A), $y$ is in inverse proportion to $x^2$; (C) is a linear function; (D) rearranges to $y=1/\sqrt x$, which is not an inverse proportional function. Therefore choose (B). $\blacksquare$
 
 ## Review Problem 2
 
@@ -41,7 +34,7 @@ $$
 
 ### Solution to Review Problem 3
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $k=10> 0$, so the graph lies in the first and third quadrants, and in each quadrant $y$ decreases as $x$ increases.
 
@@ -73,7 +66,7 @@ and the range of the independent variable $x$ is $x\ne0$.
 
 ### Solution to Review Problem 5
 
-By **Basic Knowledge**, for $y$ to decrease as $x$ increases in each quadrant, we need $k-1> 0$, hence $k> 1$. $\blacksquare$
+By Basic Knowledge, for $y$ to decrease as $x$ increases in each quadrant, we need $k-1> 0$, hence $k> 1$. $\blacksquare$
 
 ## Review Problem 6
 
@@ -111,7 +104,7 @@ Hence when the $A$ face is down the pressure intensity is $\frac p2$, and when t
 
 ### Solution to Review Problem 8
 
-By **Basic Knowledge**, the graph for $k> 0$ is a hyperbola in the first and third quadrants, and the graph for $k< 0$ is a hyperbola in the second and fourth quadrants; match them accordingly. $\blacksquare$
+By Basic Knowledge, the graph for $k> 0$ is a hyperbola in the first and third quadrants, and the graph for $k< 0$ is a hyperbola in the second and fourth quadrants; match them accordingly. $\blacksquare$
 
 ## Review Problem 9
 

@@ -1,16 +1,6 @@
 # week73
 
-> **Basic Knowledge: Properties of Axis Symmetry**
-> 
-> The segment joining symmetric points is perpendicularly bisected by the axis of symmetry.
-> **Basic Knowledge: Drawing an Axisymmetric Figure**
-> 
-> A geometric figure is composed of points; just draw the symmetric points about the axis of symmetry of some special points in the figure (such as segment endpoints), then join them in order, and a figure symmetric to the original figure about that line is obtained. To construct the symmetric point of a point about line $l$: through the point draw the perpendicular to $l$, cut off on the perpendicular a segment bisected by the foot, and the endpoint is the symmetric point.
-> **Basic Knowledge: Axis Symmetry in Coordinates**
-> 
-> The coordinates of the point symmetric to $\left(x,y\right)$ about the $x$-axis are $\left(x,-y\right)$; the coordinates of the point symmetric to $\left(x,y\right)$ about the $y$-axis are $\left(-x,y\right)$.
 ---
-
 
 ## Exercise 1
 
@@ -18,7 +8,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Drawing an Axisymmetric Figure**, respectively construct the symmetric points of each known vertex about line $l$, then join these symmetric points in order, completing the figure into a figure symmetric about $l$. $\blacksquare$
+By Drawing an Axisymmetric Figure, respectively construct the symmetric points of each known vertex about line $l$, then join these symmetric points in order, completing the figure into a figure symmetric about $l$. $\blacksquare$
 
 ## Exercise 2
 
@@ -38,7 +28,7 @@ $$
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Axis Symmetry in Coordinates**, symmetry about the $x$-axis keeps the abscissa unchanged and negates the ordinate, and symmetry about the $y$-axis keeps the ordinate unchanged and negates the abscissa.
+By Axis Symmetry in Coordinates, symmetry about the $x$-axis keeps the abscissa unchanged and negates the ordinate, and symmetry about the $y$-axis keeps the ordinate unchanged and negates the abscissa.
 
 About the $x$-axis: $\left(-2,-6\right)$, $\left(1,2\right)$, $\left(1,-3\right)$, $\left(-4,2\right)$, $\left(1,0\right)$.
 
@@ -50,7 +40,7 @@ About the $y$-axis: $\left(2,6\right)$, $\left(-1,-2\right)$, $\left(-1,3\right)
 
 ### Solution to Exercise 4
 
-Since $\triangle ABO$ is symmetric about the $x$-axis, the origin $O$ lies on the $x$-axis, and point $A$ and point $B$ are a pair of symmetric points about the $x$-axis. By **Basic Knowledge: Axis Symmetry in Coordinates**, the point symmetric to $A\left(1,-2\right)$ about the $x$-axis is $B\left(1,2\right)$. $\blacksquare$
+Since $\triangle ABO$ is symmetric about the $x$-axis, the origin $O$ lies on the $x$-axis, and point $A$ and point $B$ are a pair of symmetric points about the $x$-axis. By Axis Symmetry in Coordinates, the point symmetric to $A\left(1,-2\right)$ about the $x$-axis is $B\left(1,2\right)$. $\blacksquare$
 
 ## Exercise 5
 
@@ -58,7 +48,7 @@ Since $\triangle ABO$ is symmetric about the $x$-axis, the origin $O$ lies on th
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Axis Symmetry in Coordinates**, obtain the symmetric points of the three vertices of $\triangle ABC$ respectively by $\left(x,y\right)\to\left(x,-y\right)$ and $\left(x,y\right)\to\left(-x,y\right)$, plot them and join them in order, and the triangles symmetric about the $x$-axis and the $y$-axis are obtained. $\blacksquare$
+By Axis Symmetry in Coordinates, obtain the symmetric points of the three vertices of $\triangle ABC$ respectively by $\left(x,y\right)\to\left(x,-y\right)$ and $\left(x,y\right)\to\left(-x,y\right)$, plot them and join them in order, and the triangles symmetric about the $x$-axis and the $y$-axis are obtained. $\blacksquare$
 
 ## Problem 1
 
@@ -68,7 +58,7 @@ The figure shows, from left to right, four pairs of an unfinished figure and its
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Drawing an Axisymmetric Figure**, construct the symmetric points of each key point about $l$ and join them, and the completed symmetric figure is obtained. $\blacksquare$
+By Drawing an Axisymmetric Figure, construct the symmetric points of each key point about $l$ and join them, and the completed symmetric figure is obtained. $\blacksquare$
 
 ## Problem 2
 
@@ -86,7 +76,7 @@ Find the symmetric positions of the already drawn part about the dashed line, ad
 
 ### Solution to Problem 3
 
-The square is symmetric about both coordinate axes, and adjacent vertices are respectively symmetric about the $x$-axis and the $y$-axis. By **Basic Knowledge: Axis Symmetry in Coordinates**, from $A\left(1,1\right)$ we get $B\left(1,-1\right)$, $C\left(-1,-1\right)$, $D\left(-1,1\right)$. $\blacksquare$
+The square is symmetric about both coordinate axes, and adjacent vertices are respectively symmetric about the $x$-axis and the $y$-axis. By Axis Symmetry in Coordinates, from $A\left(1,1\right)$ we get $B\left(1,-1\right)$, $C\left(-1,-1\right)$, $D\left(-1,1\right)$. $\blacksquare$
 
 ## Problem 4
 
@@ -94,7 +84,7 @@ The square is symmetric about both coordinate axes, and adjacent vertices are re
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Axis Symmetry in Coordinates**, respectively obtain the symmetric points of the three vertices about the $x$-axis $\left(x,-y\right)$ and about the $y$-axis $\left(-x,y\right)$; plot them and join them to obtain the figures. $\blacksquare$
+By Axis Symmetry in Coordinates, respectively obtain the symmetric points of the three vertices about the $x$-axis $\left(x,-y\right)$ and about the $y$-axis $\left(-x,y\right)$; plot them and join them to obtain the figures. $\blacksquare$
 
 ## Problem 5
 
@@ -110,7 +100,7 @@ By **Basic Knowledge: Axis Symmetry in Coordinates**, respectively obtain the sy
 
 ### Solution to Problem 5
 
-(1) The abscissa is unchanged and the ordinate is negated; by **Basic Knowledge**, this is symmetry about the $x$-axis.
+(1) The abscissa is unchanged and the ordinate is negated; by Basic Knowledge, this is symmetry about the $x$-axis.
 
 (2) The abscissa and ordinate both change by $0$ and $5$; the ordinate goes from $-6$ to $-1$, i.e. a translation of $5$ units upward.
 

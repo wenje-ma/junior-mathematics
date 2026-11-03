@@ -1,23 +1,5 @@
 # week37
 
-> **Basic Knowledge: Cube Root**
-> 
-> If a number $x$ has cube equal to $a$, i.e. $x^3=a$, then this number $x$ is called a cube root (or third root) of $a$, denoted $\sqrt\left[3\right]{a}$, where $3$ is the index of the root. The operation of finding the cube root of a number is called extracting the cube root, and extracting the cube root and cubing are inverse operations of each other.
-
-> **Basic Knowledge: Cube Root of a Negative Number**
-> 
-> Cube Root of a Negative Number.
-> **Basic Knowledge: Properties of Cube Roots**
-> 
-> Properties of Cube Roots.
-> **Basic Knowledge: Relationship Between Cubing and Extracting Cube Roots**
-> 
-> Relationship Between Cubing and Extracting Cube Roots.
-
-> **Basic Knowledge: Relationship Between Cubing and Cube Root**
-> 
-> cube_root(a^3) = a, and (cube_root(a))^3 = a.
-
 ---
 
 ## Exercise 1
@@ -34,7 +16,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Properties of Cube Roots**, every number has exactly one cube root.
+By Properties of Cube Roots, every number has exactly one cube root.
 
 (1) $\because\left(-3\right)^3=-27$, $\therefore -3$ is a cube root of $-27$, correct.
 
@@ -43,7 +25,6 @@ By **Basic Knowledge: Properties of Cube Roots**, every number has exactly one c
 (3) $\left(-1\right)^3=-1$, and the cube root of $-1$ is $-1$, so it is correct.
 
 (4) $\sqrt\left[3\right]{-8}=-2$, and the cube root of $-2$ is $\sqrt\left[3\right]{-2}$, not $-2$, so it is wrong. $\blacksquare$
-
 
 ---
 
@@ -55,14 +36,13 @@ By **Basic Knowledge: Properties of Cube Roots**, every number has exactly one c
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Cube Root**, find the number whose cube equals the given number.
+By Cube Root, find the number whose cube equals the given number.
 
 (1) $\because\left(-1\right)^3=-1$, $\therefore\sqrt\left[3\right]{-1}=-1$.
 
 (2) $\because 0.2^3=0.008$, $\therefore\sqrt\left[3\right]{0.008}=0.2$.
 
 (3) $\because\left(-\frac{4}{3}\right)^3=-\frac{64}{27}$, $\therefore\sqrt\left[3\right]{-\frac{64}{27}}=-\frac{4}{3}$. $\blacksquare$
-
 
 ---
 
@@ -74,10 +54,9 @@ By **Basic Knowledge: Cube Root**, find the number whose cube equals the given n
 
 Let the edge length be $x\,\text{cm}$; by the volume formula of a cube, $x^3=216$.
 
-By **Basic Knowledge: Cube Root**, $x=\sqrt\left[3\right]{216}$. $\because 6^3=216$, $\therefore x=6$.
+By Cube Root, $x=\sqrt\left[3\right]{216}$. $\because 6^3=216$, $\therefore x=6$.
 
 That is, the edge length of the Rubik's cube is $6\,\text{cm}$. $\blacksquare$
-
 
 ---
 
@@ -89,14 +68,13 @@ That is, the edge length of the Rubik's cube is $6\,\text{cm}$. $\blacksquare$
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Relationship Between Cubing and Extracting Cube Roots** and **Basic Knowledge: Cube Root of a Negative Number**.
+By Relationship Between Cubing and Extracting Cube Roots and Cube Root of a Negative Number.
 
 (1) $\because 0.3^3=0.027$, $\therefore\sqrt\left[3\right]{0.027}=0.3$.
 
-(2) By **Basic Knowledge: Relationship Between Cubing and Cube Root**, $\sqrt\left[3\right]{\left(-7\right)^3}=-7$.
+(2) By Relationship Between Cubing and Cube Root, $\sqrt\left[3\right]{\left(-7\right)^3}=-7$.
 
-(3) By **Basic Knowledge: Cube Root of a Negative Number**, $\sqrt\left[3\right]{-\frac{8}{27}}=-\sqrt\left[3\right]{\frac{8}{27}}=-\frac{2}{3}$. $\blacksquare$
-
+(3) By Cube Root of a Negative Number, $\sqrt\left[3\right]{-\frac{8}{27}}=-\sqrt\left[3\right]{\frac{8}{27}}=-\frac{2}{3}$. $\blacksquare$
 
 ---
 
@@ -108,14 +86,13 @@ By **Basic Knowledge: Relationship Between Cubing and Extracting Cube Roots** an
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Cube Root**, use a calculator to find the cube root.
+By Cube Root, use a calculator to find the cube root.
 
 (1) $\because 19^3=6859$, $\therefore\sqrt\left[3\right]{6859}=19$.
 
 (2) $\because 41^3=68921$, $\therefore\sqrt\left[3\right]{68921}=41$.
 
 (3) Using a calculator, $\sqrt\left[3\right]{0.028092}\approx 0.304$. $\blacksquare$
-
 
 ---
 
@@ -137,7 +114,6 @@ Compare with cubes.
 
 (4) $\because\left(-4\right)^3=-64< -28< -27=\left(-3\right)^3$, $\therefore-4< \sqrt\left[3\right]{-28}< -3$, lying between $-4$ and $-3$. $\blacksquare$
 
-
 ---
 
 ## Problem 1
@@ -148,14 +124,13 @@ Compare with cubes.
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Cube Root of a Negative Number** and **Basic Knowledge: Cube Root**.
+By Cube Root of a Negative Number and Cube Root.
 
 (1) $\because 0.5^3=0.125$, $\therefore\sqrt\left[3\right]{0.125}=0.5$, so $-\sqrt\left[3\right]{0.125}=-0.5$.
 
 (2) $\because 9^3=729$, $\therefore\sqrt\left[3\right]{729}=9$, so $-\sqrt\left[3\right]{729}=-9$.
 
-(3) By **Basic Knowledge: Cube Root of a Negative Number**, $\sqrt\left[3\right]{-\frac{1}{8}}=-\sqrt\left[3\right]{\frac{1}{8}}=-\frac{1}{2}$. $\blacksquare$
-
+(3) By Cube Root of a Negative Number, $\sqrt\left[3\right]{-\frac{1}{8}}=-\sqrt\left[3\right]{\frac{1}{8}}=-\frac{1}{2}$. $\blacksquare$
 
 ---
 
@@ -167,14 +142,13 @@ By **Basic Knowledge: Cube Root of a Negative Number** and **Basic Knowledge: Cu
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Cube Root**, use a calculator.
+By Cube Root, use a calculator.
 
 (1) $\sqrt\left[3\right]{5572}\approx 17.727$.
 
 (2) $\frac{11}{3}\approx 3.667$, $\sqrt\left[3\right]{3.667}\approx 1.542$, so $-\sqrt\left[3\right]{\frac{11}{3}}\approx-1.542$.
 
 (3) $\sqrt\left[3\right]{25.986558}\approx 2.961$, so $\pm\sqrt\left[3\right]{25.986558}\approx\pm 2.961$. $\blacksquare$
-
 
 ---
 
@@ -194,7 +168,6 @@ The cube root increases as the radicand increases.
 
 (3) $\because 3> 2$, $\therefore\sqrt\left[3\right]{3}> \sqrt\left[3\right]{2}$; taking opposites of both sides gives $-\sqrt\left[3\right]{3}< -\sqrt\left[3\right]{2}$. $\blacksquare$
 
-
 ---
 
 ## Problem 4
@@ -205,14 +178,13 @@ The cube root increases as the radicand increases.
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Cube Root**.
+By Cube Root.
 
 (1) $x=\sqrt\left[3\right]{-0.064}$. $\because 0.4^3=0.064$, $\therefore x=-0.4$.
 
 (2) $x^3=3+\frac{3}{8}=\frac{27}{8}$, $x=\sqrt\left[3\right]{\frac{27}{8}}=\frac{3}{2}$.
 
 (3) $x+1=\sqrt\left[3\right]{8}=2$, so $x=1$. $\blacksquare$
-
 
 ---
 
@@ -224,10 +196,9 @@ By **Basic Knowledge: Cube Root**.
 
 The volume of the cuboid is $21\times 20\times 19=7980\,dm^3$. When melted and recast into a cube, the volume is unchanged; let the edge length of the cube be $x\,dm$, then $x^3=7980$.
 
-By **Basic Knowledge: Cube Root**, $x=\sqrt\left[3\right]{7980}$. $\because 19^3=6859< 7980< 8000=20^3$, continue estimating: $19.98^3\approx 7976$. Thus $x\approx 19.98\,dm$.
+By Cube Root, $x=\sqrt\left[3\right]{7980}$. $\because 19^3=6859< 7980< 8000=20^3$, continue estimating: $19.98^3\approx 7976$. Thus $x\approx 19.98\,dm$.
 
 That is, the edge length of the cube is about $19.98\,dm$. $\blacksquare$
-
 
 ---
 
@@ -249,10 +220,9 @@ $$
 r^3=\frac{22600}{5.48\times 3.14}=\frac{22600}{17.2072}\approx 1313.4.
 $$
 
-By **Basic Knowledge: Cube Root**, $r=\sqrt\left[3\right]{1313.4}\approx 10.95$.
+By Cube Root, $r=\sqrt\left[3\right]{1313.4}\approx 10.95$.
 
 That is, the base radius $r$ is about $10.95\,\text{cm}$. $\blacksquare$
-
 
 ---
 
@@ -270,7 +240,6 @@ When the volume is enlarged to $27$ times the original, the new edge length is $
 
 When the volume is enlarged to $n$ times the original, the new edge length is $\sqrt\left[3\right]{n\,a^3}=a\sqrt\left[3\right]{n}$, i.e. the edge length becomes $\sqrt\left[3\right]{n}$ times the original. $\blacksquare$
 
-
 ---
 
 ## Problem 8
@@ -283,20 +252,19 @@ When the volume is enlarged to $n$ times the original, the new edge length is $\
 
 ### Solution to Problem 8
 
-(1) $\left(\sqrt\left[3\right]{0}\right)^3=0$, $\left(\sqrt\left[3\right]{8}\right)^3=8$, $\left(\sqrt\left[3\right]{-8}\right)^3=-8$, $\left(\sqrt\left[3\right]{27}\right)^3=27$, $\left(\sqrt\left[3\right]{-27}\right)^3=-27$. By **Basic Knowledge: Relationship Between Cubing and Extracting Cube Roots**, for any number $a$,
+(1) $\left(\sqrt\left[3\right]{0}\right)^3=0$, $\left(\sqrt\left[3\right]{8}\right)^3=8$, $\left(\sqrt\left[3\right]{-8}\right)^3=-8$, $\left(\sqrt\left[3\right]{27}\right)^3=27$, $\left(\sqrt\left[3\right]{-27}\right)^3=-27$. By Relationship Between Cubing and Extracting Cube Roots, for any number $a$,
 
 $$
 \left(\sqrt\left[3\right]{a}\right)^3=a.
 $$
 
-(2) $\sqrt\left[3\right]{0^3}=0$, $\sqrt\left[3\right]{2^3}=2$, $\sqrt\left[3\right]{\left(-2\right)^3}=-2$, $\sqrt\left[3\right]{\left(-3\right)^3}=-3$, $\sqrt\left[3\right]{4^3}=4$. By **Basic Knowledge: Relationship Between Cubing and Cube Root**, for any number $a$,
+(2) $\sqrt\left[3\right]{0^3}=0$, $\sqrt\left[3\right]{2^3}=2$, $\sqrt\left[3\right]{\left(-2\right)^3}=-2$, $\sqrt\left[3\right]{\left(-3\right)^3}=-3$, $\sqrt\left[3\right]{4^3}=4$. By Relationship Between Cubing and Cube Root, for any number $a$,
 
 $$
 \sqrt\left[3\right]{a^3}=a.
 $$
 
 $\blacksquare$
-
 
 ---
 

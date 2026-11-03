@@ -1,21 +1,5 @@
 # week14
 
-> **Basic Knowledge: Algebraic Expression**
-> 
-> An expression formed by connecting numbers, or letters representing numbers, with operation symbols is called an algebraic expression.
-
-> **Basic Knowledge: Writing Algebraic Expressions**
-> 
-> Expressing the quantitative relationships in a problem using expressions containing numbers, letters and operation symbols.
-
-> **Basic Knowledge: Quantities in Inverse Proportion**
-> 
-> Two related quantities whose product is constant, i.e. $xy=k$ ($k$ is a fixed value, $k\ne 0$), are in an inverse proportion relationship.
-
-> **Basic Knowledge: Value of an Algebraic Expression**
-> 
-> The result obtained by substituting numerical values for the letters in an algebraic expression and computing according to the operations in the expression.
-
 ---
 
 ## Review Problem 1
@@ -32,7 +16,7 @@
 
 ### Solution to Review Problem 1
 
-By **Basic Knowledge: Writing Algebraic Expressions**.
+By Writing Algebraic Expressions.
 
 (1) $3$ times $a$ is $3a$, and the number that is $4$ less than it is $3a-4$.
 
@@ -41,7 +25,6 @@ By **Basic Knowledge: Writing Algebraic Expressions**.
 (3) In $t\ \text{min}$ it fires $10000t$ shells.
 
 (4) It costs $nc$ yuan; paying $1000$ yuan, the change is $\left(1000-nc\right)$ yuan. $\blacksquare$
-
 
 ---
 
@@ -57,14 +40,13 @@ By **Basic Knowledge: Writing Algebraic Expressions**.
 
 ### Solution to Review Problem 2
 
-By **Basic Knowledge: Writing Algebraic Expressions**.
+By Writing Algebraic Expressions.
 
 (1) The highest temperature $=$ the lowest temperature $+$ the temperature range, which is $\left(t+15\right)\,^\circ\text{C}$.
 
 (2) After the first 20% discount the price is $0.8b$ yuan; after the second discount of another $10$ yuan, the price is $\left(0.8b-10\right)$ yuan.
 
 (3) Li Ming runs $\frac{45000}{30}=1500\ \text{m}$ per day on average; Liu Wei runs $\frac{a}{30}\ \text{m}$ per day on average. Liu Wei runs $\left(\frac{a}{30}-1500\right)\ \text{m}$ more per day than Li Ming. $\blacksquare$
-
 
 ---
 
@@ -74,12 +56,11 @@ By **Basic Knowledge: Writing Algebraic Expressions**.
 
 ### Solution to Review Problem 3
 
-By **Basic Knowledge: Algebraic Expression**.
+By Algebraic Expression.
 
 (1) $2\left(p+q\right)$ represents the perimeter of this rectangle.
 
 (2) Example 1: A buys $a$ kilograms of apples at $3$ yuan per kilogram, and B buys $b$ kilograms of bananas at $2$ yuan per kilogram, costing a total of $\left(3a+2b\right)$ yuan. Example 2: a car travels at $a\ \text{km/h}$ for $3\ \text{h}$, then at $b\ \text{km/h}$ for $2\ \text{h}$, traveling a total of $\left(3a+2b\right)\ \text{km}$. $\blacksquare$
-
 
 ---
 
@@ -95,14 +76,13 @@ By **Basic Knowledge: Algebraic Expression**.
 
 ### Solution to Review Problem 4
 
-By **Basic Knowledge: Quantities in Inverse Proportion**.
+By Quantities in Inverse Proportion.
 
 (1) The perimeter is $2\left(x+y\right)=12$, hence $y=6-x$.
 
 (2) The area is $xy=12$, hence $y=\frac{12}{x}$.
 
-(3) When the perimeter is constant, $x+y=6$ (the sum is constant), not the product, so the adjacent sides are not in inverse proportion. When the area is constant, $xy=12$ (the product is constant); by **Basic Knowledge: Quantities in Inverse Proportion**, the adjacent sides are in inverse proportion. $\blacksquare$
-
+(3) When the perimeter is constant, $x+y=6$ (the sum is constant), not the product, so the adjacent sides are not in inverse proportion. When the area is constant, $xy=12$ (the product is constant); by Quantities in Inverse Proportion, the adjacent sides are in inverse proportion. $\blacksquare$
 
 ---
 
@@ -116,12 +96,11 @@ By **Basic Knowledge: Quantities in Inverse Proportion**.
 
 ### Solution to Review Problem 5
 
-By **Basic Knowledge: Value of an Algebraic Expression**.
+By Value of an Algebraic Expression.
 
 (1) When $a=-1$ and $b=-3$, $a^{2}-b^{2}=1-9=-8$, $\left(a-b\right)^{2}=\left(-1+3\right)^{2}=4$.
 
 (2) When $a=2$ and $b=-\frac{1}{2}$, $a^{2}-b^{2}=4-\frac{1}{4}=\frac{15}{4}$, $\left(a-b\right)^{2}=\left(2+\frac{1}{2}\right)^{2}=\frac{25}{4}$. $\blacksquare$
-
 
 ---
 
@@ -135,12 +114,11 @@ By **Basic Knowledge: Value of an Algebraic Expression**.
 
 ### Solution to Review Problem 6
 
-By **Basic Knowledge: Writing Algebraic Expressions** and **Basic Knowledge: Value of an Algebraic Expression**.
+By Writing Algebraic Expressions and Value of an Algebraic Expression.
 
 (1) The $2$-nd row has $\left(a+1\right)$ seats, and the $3$-rd row has $\left(a+2\right)$ seats. Since each row has $1$ more seat than the previous row, the $n$-th row has $\left(a+n-1\right)$ seats.
 
 (2) When $a=20$, the $19$-th row has $20+19-1=38$ seats. $\blacksquare$
-
 
 ---
 
@@ -154,18 +132,17 @@ By **Basic Knowledge: Writing Algebraic Expressions** and **Basic Knowledge: Val
 
 ### Solution to Review Problem 7
 
-By **Basic Knowledge: Writing Algebraic Expressions**.
+By Writing Algebraic Expressions.
 
 (1) Triangle $ADE$ is a right triangle, with the two legs being $AD=a$ and $DE=b$, hence
 
 $$S=\frac{1}{2}ab.$$
 
-(2) By **Basic Knowledge: Value of an Algebraic Expression**, when $a=6$ and $b=2$,
+(2) By Value of an Algebraic Expression, when $a=6$ and $b=2$,
 
 $$S=\frac{1}{2}\times 6\times 2=6.$$
 
 Hence the area of the shaded region is $6$. $\blacksquare$
-
 
 ---
 
@@ -175,10 +152,9 @@ Hence the area of the shaded region is $6$. $\blacksquare$
 
 ### Solution to Review Problem 8
 
-By **Basic Knowledge: Writing Algebraic Expressions**.
+By Writing Algebraic Expressions.
 
 The $1$-st uses $4=4\times 1$ counters, the $2$-nd $8=4\times 2$ counters, the $3$-rd $12=4\times 3$ counters; that is, each figure uses $4$ more counters than the previous one. Hence $4n$ counters are needed to make the $n$-th figure. $\blacksquare$
-
 
 ---
 
@@ -188,7 +164,7 @@ The $1$-st uses $4=4\times 1$ counters, the $2$-nd $8=4\times 2$ counters, the $
 
 ### Solution to Review Problem 9
 
-By **Basic Knowledge: Writing Algebraic Expressions** and **Basic Knowledge: Quantities in Inverse Proportion**.
+By Writing Algebraic Expressions and Quantities in Inverse Proportion.
 
 (1) Making $n$ skewers requires $5n$ hawthorns. The ratio of the total number of hawthorns to the number of skewers is $5$ (constant), so the two are in direct proportion.
 

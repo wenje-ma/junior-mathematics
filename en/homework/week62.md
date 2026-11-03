@@ -1,31 +1,5 @@
 # week62
 
-> **Basic Knowledge: Median of a Triangle**
-> 
-> The segment joining a vertex of a triangle to the midpoint of the opposite side is called a median of the triangle. A triangle has three medians, which intersect at one point, called the centroid of the triangle.
-
-> **Basic Knowledge: Angle Bisector of a Triangle**
-> 
-> The bisector of an angle of a triangle meets the opposite side at a point; the segment between the vertex and this intersection is called an angle bisector of the triangle. The three angle bisectors intersect at one point.
-
-> **Basic Knowledge: Altitude of a Triangle**
-> 
-> Dropping a perpendicular from a vertex of a triangle to the line of the opposite side, the segment between the vertex and the foot of the perpendicular is called an altitude of the triangle.
-
-
-> **Basic Knowledge: Relationship Among the Three Sides of a Triangle**
-> 
-> The sum of any two sides of a triangle is greater than the third side; the difference of any two sides is less than the third side.
-> **Basic Knowledge: Altitude**
-> 
-> A perpendicular segment from a vertex to the line containing the opposite side.
-> **Basic Knowledge: Angle Bisector**
-> 
-> A segment joining a vertex to the point where the angle bisector meets the opposite side.
-> **Basic Knowledge: Median**
-> 
-> A segment joining a vertex of a triangle to the midpoint of the opposite side.
-
 ---
 
 ## Exercise 1
@@ -40,14 +14,13 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Relationship Among the Three Sides of a Triangle**, three segments form a triangle if and only if the sum of any two is greater than the third.
+By Relationship Among the Three Sides of a Triangle, three segments form a triangle if and only if the sum of any two is greater than the third.
 
 (1) $3+4=7< 8$; the sum of two sides is not greater than the third, so they cannot form a triangle.
 
 (2) $5+6=11$, which is not greater than $11$, so they cannot form a triangle.
 
 (3) $5+6=11> 10$, $5+10=15> 6$, $6+10=16> 5$; the sum of any two sides is greater than the third, so they can form a triangle. $\blacksquare$
-
 
 ---
 
@@ -57,12 +30,11 @@ By **Basic Knowledge: Relationship Among the Three Sides of a Triangle**, three 
 
 ### Solution to Exercise 2
 
-Check the two cases by **Basic Knowledge: Relationship Among the Three Sides of a Triangle**.
+Check the two cases by Relationship Among the Three Sides of a Triangle.
 
 In the first case the side lengths are $4$, $1$, $1$: $1+1=2< 4$; the sum of two sides is not greater than the third, so an isosceles triangle cannot be formed.
 
 In the second case the side lengths are $4$, $4$, $1$: $4+1=5> 4$, $4+4=8> 1$; the three-side relationship holds, so an isosceles triangle can be formed. $\blacksquare$
-
 
 ---
 
@@ -74,12 +46,11 @@ The figure shows an arbitrary triangle $ABC$, with vertex $C$ on top and side $A
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Median**, take the midpoint of side $AB$ and join this midpoint to vertex $C$ to obtain the median on side $AB$.
+By Median, take the midpoint of side $AB$ and join this midpoint to vertex $C$ to obtain the median on side $AB$.
 
-By **Basic Knowledge: Angle Bisector**, draw the bisector of $\angle C$ to meet side $AB$ at a point; the segment between vertex $C$ and this intersection is the angle bisector.
+By Angle Bisector, draw the bisector of $\angle C$ to meet side $AB$ at a point; the segment between vertex $C$ and this intersection is the angle bisector.
 
-By **Basic Knowledge: Altitude**, drop a perpendicular from vertex $C$ to the line of the opposite side $AB$; the segment between vertex $C$ and the foot is the altitude on side $AB$. All three are drawn in the figure. $\blacksquare$
-
+By Altitude, drop a perpendicular from vertex $C$ to the line of the opposite side $AB$; the segment between vertex $C$ and the foot is the altitude on side $AB$. All three are drawn in the figure. $\blacksquare$
 
 ---
 
@@ -95,12 +66,11 @@ The figure shows two triangles side by side: in figure (1), $D$, $E$, $F$ are th
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Median**, a median divides the opposite side into two equal parts; by **Basic Knowledge: Angle Bisector**, an angle bisector divides the angle into two equal angles.
+By Median, a median divides the opposite side into two equal parts; by Angle Bisector, an angle bisector divides the angle into two equal angles.
 
 (1) $D$ is the midpoint of $BC$, so $BD=DC$; $E$ is the midpoint of $AC$, so $AE=\frac{1}{2}AC$; $F$ is the midpoint of $AB$, so $AB=2AF$.
 
 (2) $AD$ bisects $\angle BAC$, so $\angle 1=\angle 2$; $BE$ bisects $\angle ABC$, so $\angle 3=\frac{1}{2}\angle ABC$; $CF$ bisects $\angle ACB$, so $\angle ACB=2\angle 4$. $\blacksquare$
-
 
 ---
 
@@ -110,14 +80,13 @@ By **Basic Knowledge: Median**, a median divides the opposite side into two equa
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Relationship Among the Three Sides of a Triangle**, the third side $a$ must satisfy that the sum of the other two sides is greater than $a$ and the difference of the other two sides is less than $a$.
+By Relationship Among the Three Sides of a Triangle, the third side $a$ must satisfy that the sum of the other two sides is greater than $a$ and the difference of the other two sides is less than $a$.
 
 $$
 7-2< a< 7+2.
 $$
 
 i.e. the range of $a$ is $5< a< 9$. $\blacksquare$
-
 
 ---
 
@@ -127,7 +96,7 @@ i.e. the range of $a$ is $5< a< 9$. $\blacksquare$
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Relationship Among the Three Sides of a Triangle**, choose three of the four and check:
+By Relationship Among the Three Sides of a Triangle, choose three of the four and check:
 
 Take $100$, $70$, $50$: $70+50=120> 100$; can form a triangle;
 
@@ -139,7 +108,6 @@ Take $70$, $50$, $30$: $50+30=80> 70$; can form a triangle.
 
 Hence there are $2$ choices in total. $\blacksquare$
 
-
 ---
 
 ## Problem 3
@@ -150,10 +118,9 @@ The figure shows three triangles arranged from left to right: (1) an acute trian
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Median**, take the midpoint of the opposite side $BC$ and join vertex $A$ to this midpoint to obtain the median; by **Basic Knowledge: Angle Bisector**, draw the bisector of $\angle A$ to meet $BC$ to obtain the angle bisector; by **Basic Knowledge: Altitude**, drop a perpendicular from vertex $A$ to the line of the opposite side $BC$ to obtain the altitude.
+By Median, take the midpoint of the opposite side $BC$ and join vertex $A$ to this midpoint to obtain the median; by Angle Bisector, draw the bisector of $\angle A$ to meet $BC$ to obtain the angle bisector; by Altitude, drop a perpendicular from vertex $A$ to the line of the opposite side $BC$ to obtain the altitude.
 
 For the acute triangle (1), the median, angle bisector and altitude all lie inside the triangle; for the right triangle (2), one altitude coincides with a leg; for the obtuse triangle (3), the foot of the altitude falls on the extension of side $BC$. All three are drawn in the figure. $\blacksquare$
-
 
 ---
 
@@ -173,7 +140,7 @@ The figure shows $\triangle ABC$ with side $BC$ horizontal and vertex $A$ on top
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Median**, $E$ is the midpoint of $BC$; by **Basic Knowledge: Angle Bisector**, $AD$ bisects $\angle BAC$; by **Basic Knowledge: Altitude**, $AF\perp BC$.
+By Median, $E$ is the midpoint of $BC$; by Angle Bisector, $AD$ bisects $\angle BAC$; by Altitude, $AF\perp BC$.
 
 (1) $BE=EC=\frac{1}{2}BC$.
 
@@ -183,7 +150,6 @@ By **Basic Knowledge: Median**, $E$ is the midpoint of $BC$; by **Basic Knowledg
 
 (4) $S_{\triangle ABC}=\frac{1}{2}\cdot BC\cdot AF=\frac{1}{2}\times8\times5=20$. Also $BE=\frac{1}{2}BC=4$, and when taking $BE$ as the base the altitude is still $AF$, so $S_{\triangle ABE}=\frac{1}{2}\cdot BE\cdot AF=\frac{1}{2}\times4\times5=10$. $\blacksquare$
 
-
 ---
 
 ## Problem 5
@@ -192,14 +158,13 @@ By **Basic Knowledge: Median**, $E$ is the midpoint of $BC$; by **Basic Knowledg
 
 ### Solution to Problem 5
 
-The side $6$ may be a leg or the base; discuss the two cases and check with **Basic Knowledge: Relationship Among the Three Sides of a Triangle**.
+The side $6$ may be a leg or the base; discuss the two cases and check with Relationship Among the Three Sides of a Triangle.
 
 If $6$ is a leg, then the base is $20-2\times6=8$, and the side lengths are $6$, $6$, $8$. Since $6+6=12> 8$, a triangle can be formed.
 
 If $6$ is the base, then the legs are $\frac{20-6}{2}=7$, and the side lengths are $7$, $7$, $6$. Since $7+6=13> 7$, a triangle can be formed.
 
 Hence the other two sides are $6$ and $8$, or $7$ and $7$. $\blacksquare$
-
 
 ---
 
@@ -213,12 +178,11 @@ Hence the other two sides are $6$ and $8$, or $7$ and $7$. $\blacksquare$
 
 ### Solution to Problem 6
 
-Check the two cases by **Basic Knowledge: Relationship Among the Three Sides of a Triangle**.
+Check the two cases by Relationship Among the Three Sides of a Triangle.
 
 (1) If $5$ is a leg, the side lengths are $5$, $5$, $6$; since $5+5=10> 6$, the perimeter is $5+5+6=16$. If $6$ is a leg, the side lengths are $6$, $6$, $5$; since $6+5=11> 6$, the perimeter is $6+6+5=17$. Hence the perimeter is $16$ or $17$.
 
 (2) If $4$ is a leg, the side lengths are $4$, $4$, $9$; since $4+4=8< 9$, a triangle cannot be formed. If $9$ is a leg, the side lengths are $9$, $9$, $4$; since $9+4=13> 9$, the perimeter is $9+9+4=22$. Hence the perimeter is $22$. $\blacksquare$
-
 
 ---
 
@@ -230,7 +194,7 @@ The figure shows $\triangle ABC$ with side $BC$ horizontal, vertex $A$ on top, $
 
 ### Solution to Problem 7
 
-By **Basic Knowledge: Altitude**, $AD$ is the altitude on side $BC$, and $CE$ is the altitude on side $AB$. The area of the same triangle can be expressed by two pairs of base and altitude.
+By Altitude, $AD$ is the altitude on side $BC$, and $CE$ is the altitude on side $AB$. The area of the same triangle can be expressed by two pairs of base and altitude.
 
 $$
 S_{\triangle ABC}=\frac{1}{2}\cdot BC\cdot AD=\frac{1}{2}\cdot AB\cdot CE.
@@ -243,7 +207,6 @@ AD:CE=1:2.
 $$
 
 $\blacksquare$
-
 
 ---
 
@@ -261,6 +224,6 @@ Since $DE\parallel AC$, the alternate interior angles cut by line $AD$ across th
 
 Since $DF\parallel AB$, the alternate interior angles cut by line $AD$ across this pair of parallels are equal, so $\angle 2=\angle BAD$.
 
-Also, by **Basic Knowledge: Angle Bisector**, $AD$ bisects $\angle BAC$, so $\angle BAD=\angle DAC$.
+Also, by Angle Bisector, $AD$ bisects $\angle BAC$, so $\angle BAD=\angle DAC$.
 
 In summary, $\angle 1=\angle DAC=\angle BAD=\angle 2$, i.e. $\angle 1=\angle 2$. $\blacksquare$

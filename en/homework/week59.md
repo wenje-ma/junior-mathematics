@@ -1,37 +1,5 @@
 # week59
 
-> **Basic Knowledge: Comprehensive Survey**
-> 
-> A survey conducted on the entire population of objects.
-
-> **Basic Knowledge: Sample Survey**
-> 
-> Surveying only a part of the objects and inferring the whole from the data.
-
-> **Basic Knowledge: Simple Random Sampling**
-> 
-> Every individual in the population has an equal chance of being selected.
-
-> **Basic Knowledge: Pie Chart**
-> 
-> The size of a sector represents each part's percentage of the population.
-
-> **Basic Knowledge: Bar Chart**
-> 
-> The height of a small rectangle represents the quantity of each category.
-
-> **Basic Knowledge: Line Chart**
-> 
-> The rise or fall of a broken line represents the change of data over time.
-
-> **Basic Knowledge: Frequency Distribution Histogram**
-> 
-> The area of a small rectangle represents the frequency of each group.
-
-> **Basic Knowledge: Trend Chart**
-> 
-> A line describing the relationship between two quantities.
-
 ---
 
 ## Review Problem 1
@@ -43,7 +11,6 @@ Questionnaire: name, age; 1. the film watched tonight; 2. was the film good (ver
 ### Solution to Review Problem 1
 
 Shortcomings: (1) requiring the name involves personal privacy and may affect truthful answers; (2) question 2 has only three levels, lacking middle options such as "average / not good"; (3) question 3 about "buying popcorn" is unrelated to surveying the film's popularity and deviates from the theme; (4) the survey targets people who came to the cinema "tonight", so the sample is biased toward those already watching films and cannot represent all viewers. $\blacksquare$
-
 
 ---
 
@@ -69,7 +36,6 @@ Shortcomings: (1) requiring the name involves personal privacy and may affect tr
 
 (4) Sample survey; fish in water cannot be counted comprehensively. $\blacksquare$
 
-
 ---
 
 ## Review Problem 3
@@ -90,7 +56,6 @@ Shortcomings: (1) requiring the name involves personal privacy and may affect tr
 
 (3) Not representative; weekend sales are high and cannot represent weekdays. $\blacksquare$
 
-
 ---
 
 ## Review Problem 4
@@ -100,7 +65,6 @@ Shortcomings: (1) requiring the name involves personal privacy and may affect tr
 ### Solution to Review Problem 4
 
 It cannot. The sample contains only seventh-grade boys, includes neither girls nor other grades, and is not representative; it cannot represent the average weight of all seventh-grade students. $\blacksquare$
-
 
 ---
 
@@ -118,7 +82,6 @@ It cannot. The sample contains only seventh-grade boys, includes neither girls n
 
 (2) Group D accounts for $40\%$, namely $80$ people. Groups A and C together account for $100\%-35\%-40\%=25\%$; from the bar chart, group A has $20$ people, $10\%$, so group C accounts for $15\%$, namely $30$ people. Those with no less than $90\ \text{min}$ are groups C and D, together accounting for $15\%+40\%=55\%$. The school-wide estimate is $1500\times55\%=825$ people. $\blacksquare$
 
-
 ---
 
 ## Review Problem 6
@@ -135,7 +98,6 @@ It cannot. The sample contains only seventh-grade boys, includes neither girls n
 
 (2) Sizes 36 and 37 together account for $47.4\%$; the school should buy more sizes 36 and 37, and fewer sizes 34 and 41. $\blacksquare$
 
-
 ---
 
 ## Review Problem 7
@@ -146,8 +108,7 @@ The figure is a compound line chart with years (2013–2022) on the horizontal a
 
 ### Solution to Review Problem 7
 
-By **Basic Knowledge: Line Chart**, draw a composite line chart as shown. The operating mileage grows steadily year by year; the passenger volume rose rapidly before 2019, fell from 2020 due to the pandemic, and had not recovered to the 2019 level by 2022. $\blacksquare$
-
+By Line Chart, draw a composite line chart as shown. The operating mileage grows steadily year by year; the passenger volume rose rapidly before 2019, fell from 2020 due to the pandemic, and had not recovered to the 2019 level by 2022. $\blacksquare$
 
 ---
 
@@ -165,7 +126,6 @@ By **Basic Knowledge: Line Chart**, draw a composite line chart as shown. The op
 
 (2) To keep $60\%$ of families unaffected, i.e. the water consumption corresponding to a cumulative relative frequency of $60\%$. Cumulating from the frequency distribution table, the water consumption of the $30$th family is about $9\ \text{t}$. Hence set the standard at $9\ \text{t}$, charging $1.5$ times for the excess, which keeps the water fee of the first $60\%$ of families unaffected. $\blacksquare$
 
-
 ---
 
 ## Review Problem 9
@@ -175,7 +135,6 @@ By **Basic Knowledge: Line Chart**, draw a composite line chart as shown. The op
 ### Solution to Review Problem 9
 
 Maximum $8.3$, minimum $6.9$, range $1.4$. Take a class width of $0.2$ for grouping. Most cars' fuel consumption falls between $7.2\sim7.8\ \text{L}$, averaging about $7.5\ \text{L}$; the consumption is relatively concentrated, with a few vehicles on the high side. $\blacksquare$
-
 
 ---
 
@@ -187,8 +146,7 @@ The figure is a trend chart with advertising expenditure (10,000 yuan) on the ho
 
 ### Solution to Review Problem 10
 
-By **Basic Knowledge: Trend Chart**, take advertising expenditure as the horizontal axis and sales revenue as the vertical axis; plot the points and draw the trend line as shown. The points show an upward trend. Extrapolating from the trend line, when the advertising expenditure is $8$ ten-thousand yuan, the sales revenue is about $44$ ten-thousand yuan. $\blacksquare$
-
+By Trend Chart, take advertising expenditure as the horizontal axis and sales revenue as the vertical axis; plot the points and draw the trend line as shown. The points show an upward trend. Extrapolating from the trend line, when the advertising expenditure is $8$ ten-thousand yuan, the sales revenue is about $44$ ten-thousand yuan. $\blacksquare$
 
 ---
 

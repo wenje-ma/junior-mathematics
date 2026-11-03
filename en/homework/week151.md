@@ -1,22 +1,6 @@
 # week151
 
-> **Basic Knowledge: Perpendicular Chord Theorem**
-> 
-> A diameter perpendicular to a chord bisects the chord and bisects the two arcs subtended by the chord.
-> **Basic Knowledge: Relationship Among Central Angles, Arcs, and Chords**
-> 
-> In the same circle or equal circles, equal central angles subtend equal arcs and equal chords.
-> **Basic Knowledge: Inscribed Angle Theorem**
-> 
-> The inscribed angle subtended by an arc is half of the central angle subtended by that arc.
-> **Basic Knowledge: Corollary to the Inscribed Angle Theorem**
-> 
-> Inscribed angles subtended by the same arc or equal arcs are equal; the inscribed angle subtended by a semicircle is a right angle; the chord subtended by an inscribed angle of $90^\circ$ is a diameter.
-> **Basic Knowledge: Property of a Cyclic Quadrilateral**
-> 
-> The opposite angles of a cyclic quadrilateral are supplementary.
 ---
-
 
 ## Problem 1
 
@@ -28,7 +12,7 @@
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Perpendicular Chord Theorem**.
+By Perpendicular Chord Theorem.
 
 $OA=OB=1$ and $AB=1$, so $\triangle OAB$ is equilateral, and $\angle AOB=60^\circ$.
 
@@ -54,7 +38,7 @@ $\blacksquare$
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Perpendicular Chord Theorem** and **Basic Knowledge: Inscribed Angle Theorem**.
+By Perpendicular Chord Theorem and Inscribed Angle Theorem.
 
 $OA\perp BC$, so $\overset{\frown}{AB}=\overset{\frown}{AC}$; $\angle AOB$ corresponds to $\overset{\frown}{AB}$, and $\angle ADC$ is the inscribed angle subtended by $\overset{\frown}{AC}$, hence
 
@@ -70,7 +54,7 @@ $\blacksquare$
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Corollary to the Inscribed Angle Theorem**, the inscribed angle subtended by a diameter is a right angle.
+By Corollary to the Inscribed Angle Theorem, the inscribed angle subtended by a diameter is a right angle.
 
 When the right-angle vertex of the try-square rests on the arc, the workpiece whose two sides align with the two ends of the diameter is an acceptable semicircular workpiece. $\blacksquare$
 
@@ -80,7 +64,7 @@ When the right-angle vertex of the try-square rests on the arc, the workpiece wh
 
 ### Solution to Problem 5
 
-By **Basic Knowledge: Property of a Cyclic Quadrilateral**.
+By Property of a Cyclic Quadrilateral.
 
 The opposite angles of a parallelogram are equal, and the opposite angles of a cyclic quadrilateral are supplementary, so each pair of opposite angles is $90^\circ$, and hence it is a rectangle. $\blacksquare$
 
@@ -90,7 +74,7 @@ The opposite angles of a parallelogram are equal, and the opposite angles of a c
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Perpendicular Chord Theorem**.
+By Perpendicular Chord Theorem.
 
 The distance from the center to $AB$ is $d_1=\sqrt{13^2-12^2}=5$; the distance to $CD$ is $d_2=\sqrt{13^2-5^2}=12$. If the two chords are on the same side of the center, the distance is $12-5=7$; if on opposite sides, it is $12+5=17$. $\blacksquare$
 
@@ -100,7 +84,7 @@ The distance from the center to $AB$ is $d_1=\sqrt{13^2-12^2}=5$; the distance t
 
 ### Solution to Problem 7
 
-By **Basic Knowledge: Perpendicular Chord Theorem**.
+By Perpendicular Chord Theorem.
 
 $MN$ perpendicularly bisects $AB$, so $MN$ passes through the center $O$. Also $AB\parallel CD$, so $MN\perp CD$; by the perpendicular chord theorem, $MN$ bisects $CD$. $\blacksquare$
 
@@ -110,7 +94,7 @@ $MN$ perpendicularly bisects $AB$, so $MN$ passes through the center $O$. Also $
 
 ### Solution to Problem 8
 
-By **Basic Knowledge: Perpendicular Chord Theorem**.
+By Perpendicular Chord Theorem.
 
 Let the radius be $R$; then $AD=150$ and $OD=R-45$. In $\text{Rt}\triangle OAD$,
 
@@ -126,7 +110,7 @@ Simplifying gives $90R=24525$, so $R=272.5\,\text{m}$. $\blacksquare$
 
 ### Solution to Problem 9
 
-By **Basic Knowledge: Relationship Among Central Angles, Arcs, and Chords**.
+By Relationship Among Central Angles, Arcs, and Chords.
 
 Since $C$ is the midpoint of $\overset{\frown}{AB}$, $\angle AOC=\angle COB=60^\circ$. $OA=OC$, so $\triangle AOC$ is equilateral and $AC=OA$. Similarly $BC=OB$. Hence $OA=AC=CB=BO$, and the quadrilateral $OACB$ is a rhombus. $\blacksquare$
 
@@ -136,7 +120,7 @@ Since $C$ is the midpoint of $\overset{\frown}{AB}$, $\angle AOC=\angle COB=60^\
 
 ### Solution to Problem 10
 
-By **Basic Knowledge: Inscribed Angle Theorem**.
+By Inscribed Angle Theorem.
 
 $\angle ABC=\angle APC=60^\circ$ and $\angle BAC=\angle CPB=60^\circ$, so $\angle ACB=60^\circ$, and $\triangle ABC$ is equilateral. $\blacksquare$
 
@@ -146,7 +130,7 @@ $\angle ABC=\angle APC=60^\circ$ and $\angle BAC=\angle CPB=60^\circ$, so $\angl
 
 ### Solution to Problem 11
 
-By **Basic Knowledge: Relationship Among Central Angles, Arcs, and Chords**.
+By Relationship Among Central Angles, Arcs, and Chords.
 
 $AD=BC$, so $\overset{\frown}{AD}=\overset{\frown}{BC}$. Adding $\overset{\frown}{AC}$ to both gives $\overset{\frown}{ADC}=\overset{\frown}{BCD}$, i.e. $\overset{\frown}{CD}=\overset{\frown}{AB}$, so $AB=CD$. $\blacksquare$
 
@@ -156,7 +140,7 @@ $AD=BC$, so $\overset{\frown}{AD}=\overset{\frown}{BC}$. Adding $\overset{\frown
 
 ### Solution to Problem 12
 
-By **Basic Knowledge: Perpendicular Chord Theorem**.
+By Perpendicular Chord Theorem.
 
 Let the radius be $R$; then $OM=\sqrt{R^2-\left(AB/2\right)^2}$ and $ON=\sqrt{R^2-\left(CD/2\right)^2}$. When $AB> CD$, we have $\left(AB/2\right)^2> \left(CD/2\right)^2$, so $OM< ON$. $\blacksquare$
 
@@ -166,7 +150,7 @@ Let the radius be $R$; then $OM=\sqrt{R^2-\left(AB/2\right)^2}$ and $ON=\sqrt{R^
 
 ### Solution to Problem 13
 
-By **Basic Knowledge: Corollary to the Inscribed Angle Theorem**.
+By Corollary to the Inscribed Angle Theorem.
 
 Through $A$ draw $AB\perp MN$ at $B$. In $\text{Rt}\triangle AOB$, $\angle AOB=30^\circ$ and $AO=200$, so $AB=AO\sin30^\circ=100< 200$, and the residential building will be affected by noise.
 
@@ -184,6 +168,6 @@ $\blacksquare$
 
 ### Solution to Problem 14
 
-By **Basic Knowledge: Inscribed Angle Theorem**.
+By Inscribed Angle Theorem.
 
 Draw a circle with chord $AB$; $\angle ACB$ is the inscribed angle on the shoal boundary. When the ship is outside the circle, $\angle APB< \angle ACB$; when the ship is inside the circle (the shoal), $\angle APB> \angle ACB$. Hence keeping $\angle APB< \angle ACB$ keeps the ship outside the shoal boundary circle. $\blacksquare$

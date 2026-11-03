@@ -1,16 +1,6 @@
 # week108
 
-> **Basic Knowledge: Constants and Variables**
-> 
-> In a process of change, we call a quantity whose value remains constant a constant, and a quantity whose value changes a variable.
-> **Basic Knowledge: Function**
-> 
-> Generally, in a process of change, if there are two variables $x$ and $y$, and for each definite value of $x$, $y$ has a unique definite value corresponding to it, then we say $x$ is the independent variable and $y$ is a function of $x$. If when $x=a$ then $y=b$, then $b$ is called the function value when the independent variable equals $a$.
-> **Basic Knowledge: Analytic Expression of a Function**
-> 
-> Using a mathematical expression in the independent variable, as in $y=50-0.1x$, to express the relation between the function and the independent variable is a common way of representing a function; such an expression is called the analytic expression of the function.
 ---
-
 
 ## Exercise 1
 
@@ -28,11 +18,11 @@
 
 ### Solution to Exercise 1
 
-(1) By **Basic Knowledge: Constants and Variables**, the value of the filling rate $0.1\ \text{m}^3/\text{min}$ remains constant, so the filling rate is a constant. The values of the filling time $x$ and the filled amount $y$ change, so the filling time $x$ and the filled amount $y$ are variables.
+(1) By Constants and Variables, the value of the filling rate $0.1\ \text{m}^3/\text{min}$ remains constant, so the filling rate is a constant. The values of the filling time $x$ and the filled amount $y$ change, so the filling time $x$ and the filled amount $y$ are variables.
 
-(2) By **Basic Knowledge: Constants and Variables**, the values of the year $x$ and the GDP $y$ both change, so the year $x$ and the GDP $y$ are variables; in this problem there is no quantity whose value remains constant.
+(2) By Constants and Variables, the values of the year $x$ and the GDP $y$ both change, so the year $x$ and the GDP $y$ are variables; in this problem there is no quantity whose value remains constant.
 
-(3) By **Basic Knowledge: Constants and Variables**, the base length $5$ of the parallelogram remains constant, so the base length is a constant. The values of the height $h$ and the area $S$ change, so the height $h$ and the area $S$ are variables. $\blacksquare$
+(3) By Constants and Variables, the base length $5$ of the parallelogram remains constant, so the base length is a constant. The values of the height $h$ and the area $S$ change, so the height $h$ and the area $S$ are variables. $\blacksquare$
 
 ## Exercise 2
 
@@ -40,7 +30,7 @@
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Constants and Variables**, a quantity whose value remains constant is a constant, and a quantity whose value changes is a variable.
+By Constants and Variables, a quantity whose value remains constant is a constant, and a quantity whose value changes is a variable.
 
 (1) A car travels at a constant speed of $60\ \text{km/h}$; the distance traveled $s$ changes with the travel time $t$. Here the speed $60\ \text{km/h}$ is a constant, and the travel time $t$ and the distance traveled $s$ are variables.
 
@@ -64,7 +54,7 @@ By **Basic Knowledge: Constants and Variables**, a quantity whose value remains 
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Function**, in a process of change, if for each definite value of $x$, $y$ has a unique definite value corresponding to it, then $y$ is a function of $x$.
+By Function, in a process of change, if for each definite value of $x$, $y$ has a unique definite value corresponding to it, then $y$ is a function of $x$.
 
 (1) For each definite value of the side length $x$ of the square, the area $S=x^2$ has a unique definite value corresponding to it, so $S$ is a function of $x$, where $x$ is the independent variable and $S$ is a function of $x$.
 
@@ -80,7 +70,7 @@ By **Basic Knowledge: Function**, in a process of change, if for each definite v
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Function**, in a process of change, if for each definite value of $x$, $y$ has a unique definite value corresponding to it, then $y$ is a function of $x$.
+By Function, in a process of change, if for each definite value of $x$, $y$ has a unique definite value corresponding to it, then $y$ is a function of $x$.
 
 Movie tickets cost $40$ yuan each; $x$ tickets are sold for one showing, and the box-office revenue is $y$ yuan. For each definite value of the number of tickets sold $x$, the revenue $y=40x$ has a unique definite value corresponding to it, so $y$ is a function of $x$, where $x$ is the independent variable and $y$ is a function of $x$. $\blacksquare$
 
@@ -94,9 +84,9 @@ Movie tickets cost $40$ yuan each; $x$ tickets are sold for one showing, and the
 
 ### Solution to Exercise 5
 
-(1) By **Basic Knowledge: Function**, for each definite value of time $t$, the remaining water $V$ has a unique definite value corresponding to it, so $V$ is a function of $t$. Here $t$ is the independent variable and $V$ is a function of $t$. By **Basic Knowledge: Analytic Expression of a Function**, the analytic expression is $V=10-0.05t$.
+(1) By Function, for each definite value of time $t$, the remaining water $V$ has a unique definite value corresponding to it, so $V$ is a function of $t$. Here $t$ is the independent variable and $V$ is a function of $t$. By Analytic Expression of a Function, the analytic expression is $V=10-0.05t$.
 
-(2) By **Basic Knowledge: Function**, for each definite value of the population $n$, the per-capita cultivated area $y$ has a unique definite value corresponding to it, so $y$ is a function of $n$. Here $n$ is the independent variable and $y$ is a function of $n$. By **Basic Knowledge: Analytic Expression of a Function**, the analytic expression is $y=\frac{10^6}{n}$. $\blacksquare$
+(2) By Function, for each definite value of the population $n$, the per-capita cultivated area $y$ has a unique definite value corresponding to it, so $y$ is a function of $n$. Here $n$ is the independent variable and $y$ is a function of $n$. By Analytic Expression of a Function, the analytic expression is $y=\frac{10^6}{n}$. $\blacksquare$
 
 ## Exercise 6
 
@@ -110,7 +100,7 @@ $$
 S = \frac{\left(2+x\right) \times 3}{2} = \frac{3}{2}\left(x+2\right).
 $$
 
-By **Basic Knowledge: Analytic Expression of a Function**, $S=\frac{3}{2}\left(x+2\right)$ is the desired analytic expression.
+By Analytic Expression of a Function, $S=\frac{3}{2}\left(x+2\right)$ is the desired analytic expression.
 
 The lower base $x$ is greater than the upper base $2\ \text{cm}$, i.e. $x> 2$; the lower base $x$ is no more than $5\ \text{cm}$, i.e. $x \leq 5$. Hence the range of the independent variable $x$ is $2 < x \leq 5$. $\blacksquare$
 
@@ -120,7 +110,7 @@ The lower base $x$ is greater than the upper base $2\ \text{cm}$, i.e. $x> 2$; t
 
 ### Solution to Exercise 7
 
-By **Basic Knowledge: Function** and **Basic Knowledge: Analytic Expression of a Function**, a functional relation expressible by an analytic expression means the correspondence between variables can be written as a mathematical expression.
+By Function and Analytic Expression of a Function, a functional relation expressible by an analytic expression means the correspondence between variables can be written as a mathematical expression.
 
 A car travels at a constant speed of $60\ \text{km/h}$; the distance $s$ (unit: km) changes with the travel time $t$ (unit: h). The analytic expression is $s=60t$, where $t$ is the independent variable. The travel time cannot be negative, so the range of the independent variable $t$ is $t \geq 0$. $\blacksquare$
 
@@ -136,7 +126,7 @@ A car travels at a constant speed of $60\ \text{km/h}$; the distance $s$ (unit: 
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Constants and Variables**, a quantity whose value remains constant is a constant, and a quantity whose value changes is a variable.
+By Constants and Variables, a quantity whose value remains constant is a constant, and a quantity whose value changes is a variable.
 
 (1) The total number of books $10$ remains constant, so $10$ is a constant. The numbers of books $x$ and $y$ in the two drawers change, so $x$ and $y$ are variables.
 
@@ -158,7 +148,7 @@ By **Basic Knowledge: Constants and Variables**, a quantity whose value remains 
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Function**, in a process of change, if for each definite value of $x$, $y$ has a unique definite value corresponding to it, then $y$ is a function of $x$.
+By Function, in a process of change, if for each definite value of $x$, $y$ has a unique definite value corresponding to it, then $y$ is a function of $x$.
 
 (1) For each definite value of the natural number $n$, the number of primes $m$ less than $n$ has a unique definite value corresponding to it, so $m$ is a function of $n$, where $n$ is the independent variable and $m$ is a function of $n$.
 
@@ -170,11 +160,11 @@ By **Basic Knowledge: Function**, in a process of change, if for each definite v
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Constants and Variables**, the unit price $0.4$ yuan per pencil remains constant, so the unit price is a constant. The number of pencils $x$ and the total cost $y$ change, so $x$ and $y$ are variables.
+By Constants and Variables, the unit price $0.4$ yuan per pencil remains constant, so the unit price is a constant. The number of pencils $x$ and the total cost $y$ change, so $x$ and $y$ are variables.
 
-By **Basic Knowledge: Function**, for each definite value of the number of pencils $x$, the total cost $y$ has a unique definite value corresponding to it, so $y$ is a function of $x$, where $x$ is the independent variable and $y$ is a function of $x$.
+By Function, for each definite value of the number of pencils $x$, the total cost $y$ has a unique definite value corresponding to it, so $y$ is a function of $x$, where $x$ is the independent variable and $y$ is a function of $x$.
 
-By **Basic Knowledge: Analytic Expression of a Function**, the total cost equals the unit price times the number of pencils, so the analytic expression is $y=0.4x$. $\blacksquare$
+By Analytic Expression of a Function, the total cost equals the unit price times the number of pencils, so the analytic expression is $y=0.4x$. $\blacksquare$
 
 ## Problem 4
 
@@ -182,9 +172,9 @@ By **Basic Knowledge: Analytic Expression of a Function**, the total cost equals
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Constants and Variables**, the base length $5$ of the triangle remains constant, so the base length is a constant. The height $h$ to the base and the area $S$ change, so $h$ and $S$ are variables.
+By Constants and Variables, the base length $5$ of the triangle remains constant, so the base length is a constant. The height $h$ to the base and the area $S$ change, so $h$ and $S$ are variables.
 
-By **Basic Knowledge: Function**, for each definite value of the height $h$ to the base, the area $S$ has a unique definite value corresponding to it, so $S$ is a function of $h$, where $h$ is the independent variable and $S$ is a function of $h$.
+By Function, for each definite value of the height $h$ to the base, the area $S$ has a unique definite value corresponding to it, so $S$ is a function of $h$, where $h$ is the independent variable and $S$ is a function of $h$.
 
 By the triangle area formula, the area equals half the base times the height, so
 
@@ -216,7 +206,7 @@ The filled table is:
 |---|---|---|---|---|---|---|
 | Display $y$ | $7$ | $11$ | $-3$ | $5$ | $207$ | $-5.4$ |
 
-By **Basic Knowledge: Function**, for each definite value of the input $x$, the displayed result $y=2x+5$ has a unique definite value corresponding to it, so $y$ is a function of $x$. $\blacksquare$
+By Function, for each definite value of the input $x$, the displayed result $y=2x+5$ has a unique definite value corresponding to it, so $y$ is a function of $x$. $\blacksquare$
 
 ## Problem 6
 
@@ -230,7 +220,7 @@ By **Basic Knowledge: Function**, for each definite value of the input $x$, the 
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Function**, if for each definite value of $x$, $y$ has a unique definite value corresponding to it, then $y$ is a function of $x$.
+By Function, if for each definite value of $x$, $y$ has a unique definite value corresponding to it, then $y$ is a function of $x$.
 
 (1) For each definite value of $x$, $y=3x-5$ has a unique definite value corresponding to it, so $y$ is a function of $x$.
 
@@ -266,7 +256,7 @@ For $y=\sqrt{x-1}$, the radicand cannot be negative, i.e. $x-1 \geq 0$, so $x \g
 
 ### Solution to Problem 8
 
-By **Basic Knowledge: Function**, in a process of change, if for each definite value of $v$, $T$ has a unique definite value corresponding to it, then $T$ is a function of $v$.
+By Function, in a process of change, if for each definite value of $v$, $T$ has a unique definite value corresponding to it, then $T$ is a function of $v$.
 
 From the table, for each definite value of the wind-force level $v$, the perceived temperature $T$ has a unique definite value corresponding to it, so $T$ is a function of $v$. $\blacksquare$
 
@@ -280,6 +270,6 @@ From the table, for each definite value of the wind-force level $v$, the perceiv
 
 ### Solution to Problem 9
 
-(1) By **Basic Knowledge: Function**, in a process of change, if for each definite value of $t$, $y$ has a unique definite value corresponding to it, then $y$ is a function of $t$. From the forgetting curve, for each definite value of time $t$, the retained amount $y$ has a unique definite value corresponding to it, so $y$ is a function of $t$.
+(1) By Function, in a process of change, if for each definite value of $t$, $y$ has a unique definite value corresponding to it, then $y$ is a function of $t$. From the forgetting curve, for each definite value of time $t$, the retained amount $y$ has a unique definite value corresponding to it, so $y$ is a function of $t$.
 
 (2) From the forgetting curve, the retained amount decreases fastest in a short time after first memorization, then the decrease slows down. Therefore, for newly learned material, one should review promptly after learning and consolidate it before forgetting sets in, so as to slow the decline of retention. $\blacksquare$

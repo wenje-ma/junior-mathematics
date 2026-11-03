@@ -1,17 +1,5 @@
 # week60
 
-> **Basic Knowledge: Line Chart**
-> 
-> The rise or fall of a broken line represents the change of data over time.
-
-> **Basic Knowledge: Trend Chart**
-> 
-> A statistical chart using a line to describe the relationship between one quantity and another.
-
-> **Basic Knowledge: Daylight Duration Formula**
-> 
-> Daylight duration = (sunset time - noon time) * 2 = (noon time - sunrise time) * 2.
-
 ---
 
 ## Inquiry 1
@@ -28,7 +16,7 @@ The figure is a line chart with the 24 solar terms in order on the horizontal ax
 
 ### Solution to Inquiry 1
 
-(1) By **Basic Knowledge: Daylight Duration Formula**, daylight duration $=$ (sunset $-$ noon) $\times2=\left(17:04-12:00\right)\times2=5\ \text{h}\ 04\ \text{min}\times2=10\ \text{h}\ 08\ \text{min}$. The table directly gives $9\ \text{h}\ 28\ \text{min}$; since noon is not exactly Beijing time $12:00$, there is a longitude error.
+(1) By Daylight Duration Formula, daylight duration $=$ (sunset $-$ noon) $\times2=\left(17:04-12:00\right)\times2=5\ \text{h}\ 04\ \text{min}\times2=10\ \text{h}\ 08\ \text{min}$. The table directly gives $9\ \text{h}\ 28\ \text{min}$; since noon is not exactly Beijing time $12:00$, there is a longitude error.
 
 (2) Taking the order of the solar terms as the horizontal axis and daylight duration as the vertical axis, draw the line chart as shown.
 
@@ -50,7 +38,7 @@ The figure is a line chart with the 24 solar terms in order on the horizontal ax
 
 (2) The main factors affecting daylight duration are latitude (which determines the difference between summer-solstice and winter-solstice daylight) and date (which determines the position of the sun's direct rays). On the same date, the higher the latitude, the longer the summer-solstice daylight and the shorter the winter-solstice daylight.
 
-(3) By **Basic Knowledge: Daylight Duration Formula**, daylight duration $=\left($ noon $-$ sunrise $\right)\times2$. If daylight lengthens day by day, then (noon $-$ sunrise) grows, i.e. sunrise advances day by day; at the same time (sunset $-$ noon) grows, i.e. sunset is delayed day by day. $\blacksquare$
+(3) By Daylight Duration Formula, daylight duration $=\left($ noon $-$ sunrise $\right)\times2$. If daylight lengthens day by day, then (noon $-$ sunrise) grows, i.e. sunrise advances day by day; at the same time (sunset $-$ noon) grows, i.e. sunset is delayed day by day. $\blacksquare$
 
 ## Inquiry 3
 
@@ -58,7 +46,7 @@ The figure is a line chart with the 24 solar terms in order on the horizontal ax
 
 ### Solution to Inquiry 3
 
-By **Basic Knowledge: Daylight Duration Formula**, given the daylight duration $T$ and taking noon as $12:00$, sunrise $=12:00-\frac{T}{2}$, and sunset $=12:00+\frac{T}{2}$.
+By Daylight Duration Formula, given the daylight duration $T$ and taking noon as $12:00$, sunrise $=12:00-\frac{T}{2}$, and sunset $=12:00+\frac{T}{2}$.
 
 The nighttime duration $=24\ \text{h}-T$. If the next day's sunrise time $t_{\text{出}}'$ is known, then the next day's nighttime duration $=t_{\text{出}}'$ (from the previous day's sunset to the next day's sunrise), i.e. $t_{\text{出}}'-$ the previous day's sunset time. $\blacksquare$
 
@@ -68,4 +56,4 @@ The nighttime duration $=24\ \text{h}-T$. If the next day's sunrise time $t_{\te
 
 ### Solution to Inquiry 4
 
-The phone obtains the user's latitude and longitude through positioning, and then uses an astronomical formula to calculate that day's sunrise and sunset times based on the date (the position of the sun's direct rays), thereby automatically turning the eye-care mode on or off. This is precisely the application of **Basic Knowledge: Daylight Duration Formula** and the laws of the earth's revolution in daily life. $\blacksquare$
+The phone obtains the user's latitude and longitude through positioning, and then uses an astronomical formula to calculate that day's sunrise and sunset times based on the date (the position of the sun's direct rays), thereby automatically turning the eye-care mode on or off. This is precisely the application of Daylight Duration Formula and the laws of the earth's revolution in daily life. $\blacksquare$

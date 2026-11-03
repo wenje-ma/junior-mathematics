@@ -1,22 +1,6 @@
 # week159
 
-> **Basic Knowledge: Modeling with Inverse Proportional Functions in Real-World Problems**
-> 
-> When the product of two variables is a nonzero constant, i.e. $xy=k$ ($k\ne0$), the two variables are in an inverse proportional function relationship.
-> **Basic Knowledge: Electrical Relations**
-> 
-> In electricity, I*R = U where I is current, U is voltage, R is resistance.
-
 ---
-
-
-> **Basic Knowledge: Principle of the Lever** 
-> 
-> the resistance $\times$ the resistance arm $=$ the effort $\times$ the effort arm, i.e. $F_1l_1=F_2l_2$.
-
-> **Basic Knowledge: Electrical Relations** 
-> 
-> The power $P$, voltage $U$, and resistance $R$ of an electrical appliance satisfy $PR=U^2$, i.e. $P=\frac{U^2}{R}$.
 
 ## Exercise 1
 
@@ -54,7 +38,7 @@ $$
 v=\frac{480}{t}.
 $$
 
-(2) When $t=4$, $v=\frac{480}{4}=120\ \text{km/h}$. By **Basic Knowledge**, $v$ increases as $t$ decreases, so to return within $4\ \text{h}$, the average speed must be at least $120\ \text{km/h}$. $\blacksquare$
+(2) When $t=4$, $v=\frac{480}{4}=120\ \text{km/h}$. By Basic Knowledge, $v$ increases as $t$ decreases, so to return within $4\ \text{h}$, the average speed must be at least $120\ \text{km/h}$. $\blacksquare$
 
 ## Exercise 3
 
@@ -80,7 +64,7 @@ $$
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Modeling with Inverse Proportional Functions in Real-World Problems**, when the distance is fixed, the average speed is inversely proportional to the travel time, i.e. $v=\frac{s}{t}$, where the distance $s$ is a constant. For example, the Beijing–Shanghai railway has a total length of $1463\ \text{km}$, and the average train speed $v$ is inversely proportional to the total travel time $t$. $\blacksquare$
+By Modeling with Inverse Proportional Functions in Real-World Problems, when the distance is fixed, the average speed is inversely proportional to the travel time, i.e. $v=\frac{s}{t}$, where the distance $s$ is a constant. For example, the Beijing–Shanghai railway has a total length of $1463\ \text{km}$, and the average train speed $v$ is inversely proportional to the total travel time $t$. $\blacksquare$
 
 ## Problem 2
 
@@ -130,7 +114,7 @@ $$
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Electrical Relations**, $IR=U$, where $U$ is constant. From the table, when $R=20$, $I=5$ (at the intersection of the two tables), we get $U=100\ \text{V}$, so $I=\frac{100}{R}$.
+By Electrical Relations, $IR=U$, where $U$ is constant. From the table, when $R=20$, $I=5$ (at the intersection of the two tables), we get $U=100\ \text{V}$, so $I=\frac{100}{R}$.
 
 First row: $I=1\Rightarrow R=100$; $I=2\Rightarrow R=50$; $I=3\Rightarrow R\approx33.33$; $I=4\Rightarrow R=25$; $I=5\Rightarrow R=20$.
 
@@ -146,7 +130,7 @@ Second row: $R=20\Rightarrow I=5$; $R=25\Rightarrow I=4$; $R=30\Rightarrow I\app
 
 From $vt=s$, with $s$ constant, we get $t=\frac{s}{v}$, $v> 0$, $t> 0$.
 
-By **Basic Knowledge**, $k=s> 0$, so the graph is the branch of the hyperbola in the first quadrant, decreasing as $v$ increases. So choose (C). $\blacksquare$
+By Basic Knowledge, $k=s> 0$, so the graph is the branch of the hyperbola in the first quadrant, decreasing as $v$ increases. So choose (C). $\blacksquare$
 
 ## Problem 6
 
@@ -232,7 +216,7 @@ Let $I=\frac{U}{R}$. Substituting $\left(9,4\right)$ gives $4=\frac{U}{9}$, so $
 
 ### Solution to Reading and Reflection 1
 
-By **Basic Knowledge**, the pressure is $p=\frac{F}{S}$; when the force $F$ is fixed, $p$ and $S$ are inversely proportional.
+By Basic Knowledge, the pressure is $p=\frac{F}{S}$; when the force $F$ is fixed, $p$ and $S$ are inversely proportional.
 
 (1) When the blade is ground thinner, the contact area $S$ between the blade and the object decreases; from $p=\frac{F}{S}$, at fixed force $F$ the pressure $p$ increases, making the knife sharper. Tank tracks are wide and long, increasing the contact area $S$ and reducing the pressure on the ground, so that the tank does not sink into soft ground.
 

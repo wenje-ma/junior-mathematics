@@ -1,25 +1,6 @@
 # week80
 
-> **Basic Knowledge: Difference of Squares Formula**
-> 
-> The product of the sum of two numbers and the difference of the same two numbers equals the difference of their squares, i.e. $\left(a+b\right)\left(a-b\right)=a^2-b^2$.
-> **Basic Knowledge: Perfect Square Formula**
-> 
-> (a +/- b)^2 = a^2 +/- 2ab + b^2.
-> **Basic Knowledge: Rule for Adding Parentheses**
-> 
-> If a parenthesis is preceded by a plus sign, signs inside stay; if preceded by a minus sign, signs inside flip.
-
 ---
-
-
-> **Basic Knowledge: Perfect Square Formula** 
-> 
-> The square of the sum (or difference) of two numbers equals the sum of their squares plus (or minus) $2$ times their product, i.e. $\left(a+b\right)^2=a^2+2ab+b^2$, $\left(a-b\right)^2=a^2-2ab+b^2$.
-
-> **Basic Knowledge: Rule for Adding Parentheses** 
-> 
-> When the sign before the parentheses is positive, all terms enclosed keep their signs; when the sign before the parentheses is negative, all terms enclosed change their signs, i.e. $a+b+c=a+\left(b+c\right)$, $a-b-c=a-\left(b+c\right)$.
 
 ## Exercise 1
 
@@ -33,7 +14,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Difference of Squares Formula**.
+By Difference of Squares Formula.
 
 (1) Incorrect. $\left(x+2\right)\left(x-2\right)=x^2-4$; the square of $2$ was mistakenly omitted.
 
@@ -55,7 +36,7 @@ By **Basic Knowledge: Difference of Squares Formula**.
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $\left(a+3b\right)\left(a-3b\right)=a^2-9b^2$.
 
@@ -75,7 +56,7 @@ By **Basic Knowledge**.
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $102\times98=\left(100+2\right)\left(100-2\right)=10000-4=9996$.
 
@@ -91,7 +72,7 @@ By **Basic Knowledge**.
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Perfect Square Formula**.
+By Perfect Square Formula.
 
 (1) Incorrect. $\left(x+y\right)^2=x^2+2xy+y^2$; the $2$ times the product term was omitted.
 
@@ -111,7 +92,7 @@ By **Basic Knowledge: Perfect Square Formula**.
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $\left(2a+5b\right)^2=4a^2+20ab+25b^2$.
 
@@ -131,7 +112,7 @@ By **Basic Knowledge**.
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $102^2=\left(100+2\right)^2=10000+400+4=10404$.
 
@@ -151,7 +132,7 @@ By **Basic Knowledge**.
 
 ### Solution to Exercise 7
 
-By **Basic Knowledge: Rule for Adding Parentheses**.
+By Rule for Adding Parentheses.
 
 (1) $a+2b-c=a+\left(2b-c\right)$.
 
@@ -171,7 +152,7 @@ By **Basic Knowledge: Rule for Adding Parentheses**.
 
 ### Solution to Exercise 8
 
-By the reverse removal of parentheses from **Basic Knowledge**.
+By the reverse removal of parentheses from Basic Knowledge.
 
 (1) $a-\left(b-c\right)=a-b+c$.
 
@@ -187,7 +168,7 @@ By the reverse removal of parentheses from **Basic Knowledge**.
 
 ### Solution to Exercise 9
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) Incorrect. $a+b-c=a-\left(-b+c\right)=a-\left(c-b\right)$.
 
@@ -223,7 +204,7 @@ First group, then apply the formula.
 
 ### Solution to Problem 1
 
-By **Basic Knowledge**, the difference of squares formula requires one pair of identical and one pair of opposite terms among the two factors.
+By Basic Knowledge, the difference of squares formula requires one pair of identical and one pair of opposite terms among the two factors.
 
 (1) Yes, $\left(x+y\right)\left(x-y\right)=x^2-y^2$.
 
@@ -247,7 +228,7 @@ By **Basic Knowledge**, the difference of squares formula requires one pair of i
 
 ### Solution to Problem 2
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $\left(2m+3\right)\left(2m-3\right)=4m^2-9$.
 
@@ -271,7 +252,7 @@ By **Basic Knowledge**.
 
 ### Solution to Problem 3
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $\left(2a+5b\right)^2=4a^2+20ab+25b^2$.
 
@@ -299,7 +280,7 @@ By **Basic Knowledge**.
 
 ### Solution to Problem 4
 
-By **Basic Knowledge** and **Basic Knowledge**.
+By Basic Knowledge and Basic Knowledge.
 
 (1) $\left(2a+5b\right)\left(2a-5b\right)=4a^2-25b^2$.
 
@@ -353,7 +334,7 @@ $\blacksquare$
 
 ### Solution to Problem 7
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 $$\left(2x-y\right)\left(2x+y\right)-\left(2y+x\right)\left(2y-x\right)=\left(4x^2-y^2\right)-\left(4y^2-x^2\right)=5x^2-5y^2.$$
 
@@ -365,7 +346,7 @@ Substituting $x=1,y=2$, we get $5-20=-15$. $\blacksquare$
 
 ### Solution to Problem 8
 
-By **Basic Knowledge**, $\left(a+b\right)^2=a^2+2ab+b^2$.
+By Basic Knowledge, $\left(a+b\right)^2=a^2+2ab+b^2$.
 
 $$a^2+b^2=\left(a+b\right)^2-2ab=25-6=19.$$
 
@@ -377,7 +358,7 @@ $\blacksquare$
 
 ### Solution to Problem 9
 
-Repeatedly apply **Basic Knowledge: Difference of Squares Formula**. Write the leading $2$ as $\left(3-1\right)$, then
+Repeatedly apply Difference of Squares Formula. Write the leading $2$ as $\left(3-1\right)$, then
 
 $$\left(3-1\right)\left(3+1\right)=3^2-1,$$
 

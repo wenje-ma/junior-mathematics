@@ -1,10 +1,6 @@
 # week135
 
-> **Basic Knowledge: Relation Between a Quadratic Function and a Quadratic Equation**
-> 
-> The horizontal coordinate $x_0$ of a common point between the parabola $y=ax^2+bx+c$ and the $x$-axis is precisely a real root of the equation $ax^2+bx+c=0$. The parabola having no common point, one common point, or two common points with the $x$-axis corresponds respectively to the equation having no real root, two equal real roots, or two unequal real roots.
 ---
-
 
 ## Exercise 1
 
@@ -18,7 +14,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge**, convert the height problem into the corresponding problem of roots of a quadratic equation.
+By Relation Between a Quadratic Function and a Quadratic Equation, convert the height problem into the corresponding problem of roots of a quadratic equation.
 
 (1) Setting $h=15$ gives $20t-5t^2=15$; rearranging gives $t^2-4t+3=0$, i.e. $\left(t-1\right)\left(t-3\right)=0$, solving gives $t=1$ or $t=3$. Hence it can reach $15\ \text{m}$, at flight times $1\ \text{s}$ and $3\ \text{s}$ respectively.
 
@@ -36,7 +32,7 @@ By **Basic Knowledge**, convert the height problem into the corresponding proble
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge**, the roots are the horizontal coordinates of the common points between the corresponding parabola and the $x$-axis.
+By Relation Between a Quadratic Function and a Quadratic Equation, the roots are the horizontal coordinates of the common points between the corresponding parabola and the $x$-axis.
 
 (1) For $y=x^2-3x+1$, by the quadratic formula $x=\frac{3\pm\sqrt{9-4}}2=\frac{3\pm\sqrt5}2$, giving roots approximately $2.6$ and $0.4$.
 
@@ -56,7 +52,7 @@ The figure shows the graph of the quadratic function $y=x^2-2x-2$ in a rectangul
 
 (1) The graph is an upward-opening parabola with axis of symmetry $x=1$ and vertex $\left(1,-3\right)$, as shown.
 
-(2) The function value being $0$ means $x^2-2x-2=0$. By the quadratic formula, $x=\frac{2\pm\sqrt{4+8}}2=1\pm\sqrt3$, i.e. $x\approx2.7$ or $x\approx-0.7$. By **Basic Knowledge**, these are precisely the horizontal coordinates of the common points between the graph and the $x$-axis. $\blacksquare$
+(2) The function value being $0$ means $x^2-2x-2=0$. By the quadratic formula, $x=\frac{2\pm\sqrt{4+8}}2=1\pm\sqrt3$, i.e. $x\approx2.7$ or $x\approx-0.7$. By Relation Between a Quadratic Function and a Quadratic Equation, these are precisely the horizontal coordinates of the common points between the graph and the $x$-axis. $\blacksquare$
 
 ## Problem 2
 
@@ -68,7 +64,7 @@ The figure shows the graph of the quadratic function $y=x^2-2x-2$ in a rectangul
 
 ### Solution to Problem 2
 
-By **Basic Knowledge**, use the quadratic formula to find the corresponding roots.
+By Relation Between a Quadratic Function and a Quadratic Equation, use the quadratic formula to find the corresponding roots.
 
 (1) $x=\frac{6\pm\sqrt{36-28}}2=3\pm\sqrt2$, i.e. $x\approx4.4$ or $x\approx1.6$.
 
@@ -84,7 +80,7 @@ By **Basic Knowledge**, use the quadratic formula to find the corresponding root
 
 ### Solution to Problem 3
 
-Use **Basic Knowledge** and the discriminant $\Delta=b^2-4ac$ to decide.
+Use Relation Between a Quadratic Function and a Quadratic Equation and the discriminant $\Delta=b^2-4ac$ to decide.
 
 (1) $\Delta=\left(-6\right)^2-4\cdot3\cdot9=36-108=-72< 0$; the equation $3x^2-6x+9=0$ has no real root, so the graph has no common point with the $x$-axis.
 
@@ -122,7 +118,7 @@ The figure shows the graph of the quadratic function $y=x^2-2x-3$ in a rectangul
 
 Factoring, $y=x^2-2x-3=\left(x-3\right)\left(x+1\right)$; the parabola opens upward and intersects the $x$-axis at $\left(-1,0\right)$ and $\left(3,0\right)$, as shown.
 
-(1) By **Basic Knowledge**, the roots are the horizontal coordinates of the common points with the $x$-axis, namely $x_1=-1$, $x_2=3$.
+(1) By Relation Between a Quadratic Function and a Quadratic Equation, the roots are the horizontal coordinates of the common points with the $x$-axis, namely $x_1=-1$, $x_2=3$.
 
 (2) The parabola opens upward; the part above the $x$-axis corresponds to function values greater than $0$, i.e. $x< -1$ or $x> 3$.
 
@@ -142,7 +138,7 @@ What if $a< 0$?
 
 ### Solution to Problem 6
 
-By **Basic Knowledge**, the number of common points with the $x$-axis corresponds to the nature of the roots; the vertex's vertical coordinate is $\frac{4ac-b^2}{4a}$.
+By Relation Between a Quadratic Function and a Quadratic Equation, the number of common points with the $x$-axis corresponds to the nature of the roots; the vertex's vertical coordinate is $\frac{4ac-b^2}{4a}$.
 
 When $a> 0$, the parabola opens upward:
 

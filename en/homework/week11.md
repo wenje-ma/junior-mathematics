@@ -1,17 +1,5 @@
 # week11
 
-> **Basic Knowledge: Algebraic Expressions**
-> 
-> An expression formed by connecting numbers or letters representing numbers with operation symbols is called an algebraic expression. A single number or letter alone is also an algebraic expression.
-
-> **Basic Knowledge: Forming Algebraic Expressions**
-> 
-> Expressing the quantitative relationships in a problem as expressions containing numbers, letters, and operation symbols.
-
-> **Basic Knowledge: Quantities in Inverse Proportion**
-> 
-> Two related quantities: if one quantity changes and the other changes along with it, and the product of the two quantities is constant, then the two quantities are called quantities in inverse proportion, and the relationship between them is called an inverse proportion relationship. If the letters $x$ and $y$ are used to represent the two related quantities, and $k$ is used to represent their product ($k$ is a fixed value, and $k\ne 0$), then the inverse proportion relationship can be expressed as $xy=k$.
-
 ---
 
 ## Exercise 1
@@ -28,7 +16,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Forming Algebraic Expressions**.
+By Forming Algebraic Expressions.
 
 (1) $6$ packages have $10\times 6=60$ volumes, and $n$ packages have $10n$ volumes.
 
@@ -37,7 +25,6 @@ By **Basic Knowledge: Forming Algebraic Expressions**.
 (3) Each bag contains $\frac{p}{n}\ \text{kg}$ of sugar.
 
 (4) The volume of a cube is the cube of its edge length, namely $a^{3}$. $\blacksquare$
-
 
 ---
 
@@ -49,7 +36,7 @@ By **Basic Knowledge: Forming Algebraic Expressions**.
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Algebraic Expressions**.
+By Algebraic Expressions.
 
 (1) $2a+3c$ means the sum of $2$ times $a$ and $3$ times $c$.
 
@@ -59,7 +46,6 @@ By **Basic Knowledge: Algebraic Expressions**.
 
 (4) $\frac{3a}{5b}$ means the quotient of $3$ times $a$ divided by $5$ times $b$. $\blacksquare$
 
-
 ---
 
 ## Exercise 3
@@ -68,10 +54,9 @@ By **Basic Knowledge: Algebraic Expressions**.
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Algebraic Expressions**.
+By Algebraic Expressions.
 
 For example: having $100$ yuan, each pencil costs $2$ yuan; after buying $x$ pencils, $\left(100-2x\right)$ yuan remain. Or: a rope of length $100\ \text{cm}$, each time cutting off $2\ \text{cm}$; after cutting $x$ times, $\left(100-2x\right)\ \text{cm}$ remain. $\blacksquare$
-
 
 ---
 
@@ -87,14 +72,13 @@ For example: having $100$ yuan, each pencil costs $2$ yuan; after buying $x$ pen
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Forming Algebraic Expressions**.
+By Forming Algebraic Expressions.
 
 (1) $2$ times $a$ is $2a$, and the number $1$ greater than it is $2a+1$.
 
 (2) The opposite number of $a$ is $-a$, half of $b$ is $\frac{b}{2}$, and the difference is $-a-\frac{b}{2}$.
 
 (3) The quotient is $\frac{a^{2}}{b}$. $\blacksquare$
-
 
 ---
 
@@ -104,12 +88,11 @@ By **Basic Knowledge: Forming Algebraic Expressions**.
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Forming Algebraic Expressions**, revenue $=$ unit price $\times$ quantity.
+By Forming Algebraic Expressions, revenue $=$ unit price $\times$ quantity.
 
 $$4.8\times m=4.8m.$$
 
 Hence the revenue from selling this commodity this month is $4.8m$ yuan. $\blacksquare$
-
 
 ---
 
@@ -119,10 +102,9 @@ Hence the revenue from selling this commodity this month is $4.8m$ yuan. $\black
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge: Forming Algebraic Expressions**.
+By Forming Algebraic Expressions.
 
 The first field yields $ma\ \text{kg}$ of cotton, and the second yields $nb\ \text{kg}$. Hence the total cotton yield of the two fields is $\left(ma+nb\right)\ \text{kg}$. $\blacksquare$
-
 
 ---
 
@@ -132,10 +114,9 @@ The first field yields $ma\ \text{kg}$ of cotton, and the second yields $nb\ \te
 
 ### Solution to Exercise 7
 
-By **Basic Knowledge: Forming Algebraic Expressions**.
+By Forming Algebraic Expressions.
 
 The area of the large square is $a^{2}\ \text{mm}^{2}$, and the area of the small square is $b^{2}\ \text{mm}^{2}$. The area of the remaining iron sheet is $\left(a^{2}-b^{2}\right)\ \text{mm}^{2}$. $\blacksquare$
-
 
 ---
 
@@ -145,10 +126,9 @@ The area of the large square is $a^{2}\ \text{mm}^{2}$, and the area of the smal
 
 ### Solution to Exercise 8
 
-By **Basic Knowledge: Quantities in Inverse Proportion**.
+By Quantities in Inverse Proportion.
 
-Distance $=$ speed $\times$ time. When the distance is fixed, the product of speed and time equals the distance (a fixed value); by **Basic Knowledge: Quantities in Inverse Proportion**, the average speed and time are in an inverse proportion relationship. $\blacksquare$
-
+Distance $=$ speed $\times$ time. When the distance is fixed, the product of speed and time equals the distance (a fixed value); by Quantities in Inverse Proportion, the average speed and time are in an inverse proportion relationship. $\blacksquare$
 
 ---
 
@@ -162,14 +142,13 @@ Tons shipped per day: $500$, $250$, $100$, $50$. Number of days of shipping: $1$
 
 ### Solution to Exercise 9
 
-By **Basic Knowledge: Quantities in Inverse Proportion**.
+By Quantities in Inverse Proportion.
 
 (1) Since $500\times 1=250\times 2=100\times 5=50\times 10=500$, the batch of goods totals $500$ tons.
 
 (2) The larger the number of tons shipped per day, the smaller the number of days of shipping.
 
-(3) Since $at=500$, we have $t=\frac{500}{a}$. By **Basic Knowledge: Quantities in Inverse Proportion**, the product of $t$ and $a$ is constant, so $t$ and $a$ are in an inverse proportion relationship. $\blacksquare$
-
+(3) Since $at=500$, we have $t=\frac{500}{a}$. By Quantities in Inverse Proportion, the product of $t$ and $a$ is constant, so $t$ and $a$ are in an inverse proportion relationship. $\blacksquare$
 
 ---
 
@@ -181,10 +160,9 @@ By **Basic Knowledge: Quantities in Inverse Proportion**.
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Forming Algebraic Expressions**.
+By Forming Algebraic Expressions.
 
 (1) $2m$; (2) $\frac{2}{3}n$; (3) $2x-1$; (4) $\frac{a^{3}}{b}$. $\blacksquare$
-
 
 ---
 
@@ -196,7 +174,7 @@ By **Basic Knowledge: Forming Algebraic Expressions**.
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Algebraic Expressions**.
+By Algebraic Expressions.
 
 (1) $3x+6$ means the sum of $3$ times $x$ and $6$.
 
@@ -205,7 +183,6 @@ By **Basic Knowledge: Algebraic Expressions**.
 (3) $a^{2}+b^{2}$ means the sum of the square of $a$ and the square of $b$.
 
 (4) $\frac{n+1}{n-1}$ means the quotient of the sum of $n$ and $1$ divided by the difference between $n$ and $1$. $\blacksquare$
-
 
 ---
 
@@ -223,7 +200,7 @@ By **Basic Knowledge: Algebraic Expressions**.
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Forming Algebraic Expressions**.
+By Forming Algebraic Expressions.
 
 (1) A cube has $6$ faces, each of area $a^{2}$, so the surface area is $6a^{2}$.
 
@@ -232,7 +209,6 @@ By **Basic Knowledge: Forming Algebraic Expressions**.
 (3) Interest $=a\times 1.5\%=1.5\%a$ yuan; principal plus interest $=a+1.5\%a=\left(1+1.5\%\right)a$ yuan.
 
 (4) The bus takes $\left(t-1\right)\ \text{h}$, and its speed $=\frac{s}{t-1}\ \text{km/h}$. $\blacksquare$
-
 
 ---
 
@@ -248,14 +224,13 @@ By **Basic Knowledge: Forming Algebraic Expressions**.
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Quantities in Inverse Proportion**.
+By Quantities in Inverse Proportion.
 
 (1) Number per row $\times$ number of rows $=200$ (constant), so the number of people per row and the number of rows are in an inverse proportion relationship.
 
 (2) Triangle area $=\frac{1}{2}\times$ base $\times$ height; since the area is $6$, we have base $\times$ height $=12$ (constant), so the length of that side and the altitude on that side are in an inverse proportion relationship.
 
 (3) Number of small red flowers $=$ $120$ per hour $\times$ time, that is, the ratio of the two is constant; this is a direct proportion relationship, not an inverse proportion relationship. $\blacksquare$
-
 
 ---
 
@@ -269,14 +244,13 @@ Number of candies per bag: $10$, $12$, $18$, $20$, $24$. Total number of bags: $
 
 ### Solution to Problem 5
 
-By **Basic Knowledge: Quantities in Inverse Proportion**.
+By Quantities in Inverse Proportion.
 
 (1) Since $10\times 360=12\times 300=18\times 200=20\times 180=24\times 150=3600$, the batch of fruit candies totals $3600$ candies.
 
 (2) The larger the number of candies per bag, the smaller the total number of bags.
 
-(3) Since $mn=3600$, we have $n=\frac{3600}{m}$. By **Basic Knowledge: Quantities in Inverse Proportion**, the product of $n$ and $m$ is constant, so $n$ and $m$ are in an inverse proportion relationship. $\blacksquare$
-
+(3) Since $mn=3600$, we have $n=\frac{3600}{m}$. By Quantities in Inverse Proportion, the product of $n$ and $m$ is constant, so $n$ and $m$ are in an inverse proportion relationship. $\blacksquare$
 
 ---
 
@@ -286,12 +260,11 @@ By **Basic Knowledge: Quantities in Inverse Proportion**.
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Forming Algebraic Expressions**.
+By Forming Algebraic Expressions.
 
 (1) The red beads cost $5a$ yuan, and the black beads cost $5b$ yuan, for a total cost of $\left(5a+5b\right)$ yuan.
 
 (2) The two workshops together produce $\left(a+b\right)\ \text{t}$ per day, and in $5$ days produce $5\left(a+b\right)\ \text{t}$ in total. $\blacksquare$
-
 
 ---
 
@@ -305,12 +278,11 @@ By **Basic Knowledge: Forming Algebraic Expressions**.
 
 ### Solution to Problem 7
 
-By **Basic Knowledge: Algebraic Expressions**.
+By Algebraic Expressions.
 
 (1) $2m-1$ is $2$ times $m$ minus $1$; $2\left(m-1\right)$ is $2$ times the difference between $m$ and $1$. Example: if $m$ is a certain number, $2m-1$ is $1$ less than twice it; $2\left(m-1\right)$ first subtracts and then multiplies by $2$.
 
 (2) $\frac{1}{2}a$ is half of $a$; $\frac{1}{2}+a$ is the sum of $a$ and $\frac{1}{2}$. Example: $\frac{1}{2}a$ represents half of $a$ yuan, and $\frac{1}{2}+a$ represents the quantity that is $\frac{1}{2}$ more than $a$. $\blacksquare$
-
 
 ---
 
@@ -322,12 +294,11 @@ By **Basic Knowledge: Algebraic Expressions**.
 
 ### Solution to Problem 8
 
-By **Basic Knowledge: Forming Algebraic Expressions**.
+By Forming Algebraic Expressions.
 
 (1) This sequence is in turn the $1$-fold, $2$-fold, $3$-fold, $4$-fold, and $5$-fold of $5$, that is, each number is $5$ greater than the previous one.
 
 (2) The $n$-th number is $5n$. $\blacksquare$
-
 
 ---
 
@@ -337,12 +308,11 @@ By **Basic Knowledge: Forming Algebraic Expressions**.
 
 ### Solution to Problem 9
 
-By **Basic Knowledge: Forming Algebraic Expressions**.
+By Forming Algebraic Expressions.
 
 (1) Even numbers are all multiples of $2$, so any even number is $2n$; odd numbers are $1$ greater than the adjacent even number, so any odd number is $2n+1$.
 
 (2) The hundreds digit $c$ represents $100c$, the tens digit $b$ represents $10b$, and the units digit $a$ represents $a$, so this three-digit number is $100c+10b+a$. $\blacksquare$
-
 
 ---
 
@@ -352,7 +322,7 @@ By **Basic Knowledge: Forming Algebraic Expressions**.
 
 ### Solution to Problem 10
 
-By **Basic Knowledge: Forming Algebraic Expressions**.
+By Forming Algebraic Expressions.
 
 For $3$ teams: $\frac{3\times 2}{2}=3$ matches; for $4$ teams: $\frac{4\times 3}{2}=6$ matches; for $5$ teams: $\frac{5\times 4}{2}=10$ matches.
 

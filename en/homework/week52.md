@@ -1,13 +1,5 @@
 # week52
 
-> **Basic Knowledge: Linear Inequality in One Variable**
-> 
-> An inequality that contains only one unknown, all expressions containing the unknown are integral expressions, and the degree of the unknown is $1$.
-
-
-> **Basic Knowledge: Solving a Linear Inequality in One Variable**
-> 
-> Use the properties of inequalities to gradually transform the inequality into the form $x> a$ (or $x< a$), thereby obtaining the solution set.
 ---
 
 ## Exercise 1
@@ -24,7 +16,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Solving a Linear Inequality in One Variable**.
+By Solving a Linear Inequality in One Variable.
 
 (1) Transpose terms: $x> -16$.
 
@@ -33,7 +25,6 @@ By **Basic Knowledge: Solving a Linear Inequality in One Variable**.
 (3) Multiply by $21$: $3\left(x-1\right)> 7\left(2x+5\right)$, i.e. $3x-3> 14x+35$, giving $x< -\frac{38}{11}$.
 
 (4) Multiply by $12$: $2\left(x+1\right)\ge3\left(2x-5\right)+12$, i.e. $2x+2\ge6x-3$, giving $x\le\frac{5}{4}$. $\blacksquare$
-
 
 ---
 
@@ -59,7 +50,6 @@ By **Basic Knowledge: Solving a Linear Inequality in One Variable**.
 
 (4) $3y+7< -8$, giving $y< -5$. $\blacksquare$
 
-
 ---
 
 ## Exercise 3
@@ -76,7 +66,6 @@ $$
 
 i.e. $10x-100+5x> 90$, $15x> 190$, $x> 12\frac{2}{3}$. Hence at least $13$ questions must be answered correctly. $\blacksquare$
 
-
 ---
 
 ## Exercise 4
@@ -86,7 +75,6 @@ i.e. $10x-100+5x> 90$, $15x> 190$, $x> 12\frac{2}{3}$. Hence at least $13$ quest
 ### Solution to Exercise 4
 
 Let this year's energy consumption be $x\ \text{t}$. By the statement $x\le0.320\left(1-5\%\right)=0.304$. Hence this year it is at most $0.304\ \text{t}$ of standard coal. $\blacksquare$
-
 
 ---
 
@@ -98,7 +86,6 @@ Let this year's energy consumption be $x\ \text{t}$. By the statement $x\le0.320
 
 The remaining distance is $6-1.2=4.8\ \text{km}$, and the remaining time is $10-2-2=6$ days. Let $x\ \text{km}$ be repaired per day thereafter; then $6x\ge4.8$, giving $x\ge0.8$. Hence on average at least $0.8\ \text{km}$ must be repaired per day thereafter. $\blacksquare$
 
-
 ---
 
 ## Exercise 6
@@ -108,7 +95,6 @@ The remaining distance is $6-1.2=4.8\ \text{km}$, and the remaining time is $10-
 ### Solution to Exercise 6
 
 Let $x$ be the number sold. The total purchase cost is $340\times150=51000$ yuan. By the statement $450x> 51000$, giving $x> 113\frac{1}{3}$. Hence at least $114$ must be sold. $\blacksquare$
-
 
 ---
 
@@ -126,7 +112,6 @@ $$
 
 i.e. $12x+400\le900$, $x\le41\frac{2}{3}$. Hence at most $41$ notebooks can be bought. $\blacksquare$
 
-
 ---
 
 ## Exercise 8
@@ -142,7 +127,6 @@ $$
 $$
 
 i.e. $160x-4200\ge3240$, $160x\ge7440$, $x\ge46.5$. Hence the large cherries must actually sell for at least $46.5$ yuan per kilogram. $\blacksquare$
-
 
 ---
 
@@ -176,7 +160,6 @@ i.e. $160x-4200\ge3240$, $160x\ge7440$, $x\ge46.5$. Hence the large cherries mus
 
 (6) Multiply by $12$: $2\left(y+1\right)-3\left(2y-5\right)\ge12$, i.e. $-4y+17\ge12$, giving $y\le\frac{5}{4}$. $\blacksquare$
 
-
 ---
 
 ## Problem 2
@@ -197,7 +180,6 @@ i.e. $160x-4200\ge3240$, $160x\ge7440$, $x\ge46.5$. Hence the large cherries mus
 
 (3) $\frac{4a+1}{6}=0$, i.e. $4a+1=0$, giving $a=-\frac{1}{4}$. $\blacksquare$
 
-
 ---
 
 ## Problem 3
@@ -213,7 +195,6 @@ i.e. $160x-4200\ge3240$, $160x\ge7440$, $x\ge46.5$. Hence the large cherries mus
 (1) Incorrect. From $-3x+2\ge-4$, transpose to get $-3x\ge-6$; dividing both sides by $-3$ reverses the direction, giving $x\le2$.
 
 (2) Incorrect. From $x-4< 2x+1$, transpose to get $-x< 5$; multiplying both sides by $-1$ reverses the direction, giving $x> -5$. $\blacksquare$
-
 
 ---
 
@@ -239,7 +220,6 @@ i.e. $160x-4200\ge3240$, $160x\ge7440$, $x\ge46.5$. Hence the large cherries mus
 
 (4) Multiply by $6$: $3\left(2+x\right)\ge2\left(2x-1\right)-12$, giving $x\le20$; the positive-integer solutions are $1,2,\ldots,20$. $\blacksquare$
 
-
 ---
 
 ## Problem 5
@@ -249,7 +229,6 @@ i.e. $160x-4200\ge3240$, $160x\ge7440$, $x\ge46.5$. Hence the large cherries mus
 ### Solution to Problem 5
 
 Liu Wei needs $\frac{100}{6.5}\ \text{s}$ to reach the finish. Li Ming is $110\ \text{m}$ from the finish; let his speed be $v\ \text{m/s}$. He needs $\frac{110}{v}< \frac{100}{6.5}$, giving $v> \frac{110\times6.5}{100}=7.15$. Hence Li Ming's speed must be at least $7.15\ \text{m/s}$. $\blacksquare$
-
 
 ---
 
@@ -267,7 +246,6 @@ $$
 
 i.e. $330000+5000x-300000> 550000$, $5000x> 520000$, giving $x> 104$. Hence this batch contains at least $105$ computers. $\blacksquare$
 
-
 ---
 
 ## Problem 7
@@ -283,7 +261,6 @@ $$
 $$
 
 giving $x\ge9$. Hence the selling price should be set at least at $9$ yuan per kilogram. $\blacksquare$
-
 
 ---
 
@@ -301,7 +278,6 @@ $$
 
 i.e. $1.6x\ge1000$, giving $x\ge625$. Hence originally at least $625$ ten-thousand boxes were packaged per month. $\blacksquare$
 
-
 ---
 
 ## Problem 9
@@ -315,7 +291,6 @@ From $5x-1> 3x+3$, we get $2x> 4$, i.e. $x> 2$.
 From $\frac{1}{2}x-1< 7-\frac{3}{2}x$, we get $2x< 8$, i.e. $x< 4$.
 
 Hence the common part is $2< x< 4$. $\blacksquare$
-
 
 ---
 

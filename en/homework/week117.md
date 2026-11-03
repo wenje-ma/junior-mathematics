@@ -1,16 +1,6 @@
 # week117
 
-> **Basic Knowledge: Linear Function**
-> 
-> A function of the form $y=kx+b$ ($k$ and $b$ are constants, $k \neq 0$) is called a linear function.
-> **Basic Knowledge: Graph and Properties of the Linear Function**
-> 
-> The graph of the linear function $y=kx+b$ is a straight line. When $k> 0$, $y$ increases as $x$ increases; when $k< 0$, $y$ decreases as $x$ increases.
-> **Basic Knowledge: Linear Functions and Systems of Linear Equations in Two Variables**
-> 
-> The coordinates of the intersection of the graphs of two linear functions are precisely the solution of the corresponding system of linear equations in two variables.
 ---
-
 
 ## Review Problem 1
 
@@ -20,7 +10,7 @@
 
 Substituting $\left(-2, 4\right)$ into $y=kx$ gives $4=-2k$, so $k=-2$.
 
-By **Basic Knowledge: Graph and Properties of the Linear Function**, $k=-2< 0$, so the graph passes through the second and fourth quadrants. $\blacksquare$
+By Graph and Properties of the Linear Function, $k=-2< 0$, so the graph passes through the second and fourth quadrants. $\blacksquare$
 
 ## Review Problem 2
 

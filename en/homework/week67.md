@@ -1,17 +1,5 @@
 # week67
 
-> **Basic Knowledge: Congruent Figures and Congruent Triangles**
-> 
-> Two figures that can coincide completely are called congruent figures; two triangles that can coincide completely are called congruent triangles, denoted $\triangle ABC\cong\triangle A'B'C'$.
-
-> **Basic Knowledge: Corresponding Elements**
-> 
-> Putting two congruent triangles together to coincide, the coinciding vertices are called corresponding vertices, the coinciding sides are called corresponding sides, and the coinciding angles are called corresponding angles.
-
-
-> **Basic Knowledge: Properties of Congruent Triangles**
-> 
-> Corresponding sides of congruent triangles are equal; corresponding angles of congruent triangles are equal.
 ---
 
 ## Example
@@ -20,7 +8,7 @@
 
 ### Solution to Example
 
-By **Basic Knowledge: Properties of Congruent Triangles**, $\angle ABD=\angle BAC=65^\circ$.
+By Properties of Congruent Triangles, $\angle ABD=\angle BAC=65^\circ$.
 
 Hence
 
@@ -46,7 +34,6 @@ From the corresponding-angle relation, $A$ corresponds to $B$, $C$ corresponds t
 
 Hence the corresponding sides are $AB$ and $BD$, $BC$ and $DE$, $AC$ and $BE$; the other pair of corresponding angles are $\angle ABC$ and $\angle BDE$. $\blacksquare$
 
-
 ---
 
 ## Exercise 2
@@ -55,7 +42,7 @@ Hence the corresponding sides are $AB$ and $BD$, $BC$ and $DE$, $AC$ and $BE$; t
 
 ### Solution to Exercise 2
 
-From the corresponding vertices $O\leftrightarrow O$, $C\leftrightarrow B$, $A\leftrightarrow D$, and **Basic Knowledge: Properties of Congruent Triangles**, the equal sides are
+From the corresponding vertices $O\leftrightarrow O$, $C\leftrightarrow B$, $A\leftrightarrow D$, and Properties of Congruent Triangles, the equal sides are
 
 $$
 OC=OB,\quad CA=BD,\quad OA=OD.
@@ -69,7 +56,6 @@ $$
 
 $\blacksquare$
 
-
 ---
 
 ## Problem 1
@@ -82,7 +68,6 @@ From the corresponding sides $AB\leftrightarrow CD$, $BC\leftrightarrow DA$, the
 
 The other corresponding side is $AC$ and $CA$. The corresponding angles are $\angle BAC$ and $\angle DCA$, $\angle B$ and $\angle D$, $\angle BCA$ and $\angle DAC$. $\blacksquare$
 
-
 ---
 
 ## Problem 2
@@ -94,7 +79,6 @@ The other corresponding side is $AC$ and $CA$. The corresponding angles are $\an
 From $AB\leftrightarrow AC$, $\angle B\leftrightarrow\angle C$, the vertex correspondence is $A\leftrightarrow A$, $B\leftrightarrow C$, $N\leftrightarrow M$.
 
 The other corresponding sides are $BN$ and $CM$, $AN$ and $AM$. The corresponding angles are $\angle ANB$ and $\angle AMC$, $\angle BAN$ and $\angle CAM$. $\blacksquare$
-
 
 ---
 
@@ -112,7 +96,6 @@ $$
 
 Hence $\angle 1=66^\circ$. $\blacksquare$
 
-
 ---
 
 ## Problem 4
@@ -129,14 +112,13 @@ From $\angle F\leftrightarrow\angle M$ and the longest sides $FG\leftrightarrow 
 
 (1) The other corresponding sides are $EF$ and $NM$, $EG$ and $NH$; the other corresponding angles are $\angle E$ and $\angle N$, $\angle G$ and $\angle H$.
 
-(2) By **Basic Knowledge: Properties of Congruent Triangles**, $NM=EF=2.1$, $EG=NH=3.3$. Also point $H$ lies on segment $EG$, so
+(2) By Properties of Congruent Triangles, $NM=EF=2.1$, $EG=NH=3.3$. Also point $H$ lies on segment $EG$, so
 
 $$
 HG=EG-EH=3.3-1.1=2.2.
 $$
 
 Hence $NM=2.1$, $HG=2.2$. $\blacksquare$
-
 
 ---
 
@@ -146,7 +128,7 @@ Hence $NM=2.1$, $HG=2.2$. $\blacksquare$
 
 ### Solution to Problem 5
 
-They are equal. By **Basic Knowledge: Properties of Congruent Triangles**, the corresponding angles satisfy $\angle ACB=\angle DCE$.
+They are equal. By Properties of Congruent Triangles, the corresponding angles satisfy $\angle ACB=\angle DCE$.
 
 Subtracting the common part $\angle DCB$ from both sides gives
 

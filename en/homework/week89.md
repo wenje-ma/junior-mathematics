@@ -1,18 +1,6 @@
 # week89
 
-> **Basic Knowledge: Addition and Subtraction of Fractions with the Same Denominator**
-> 
-> To add or subtract fractions with the same denominator, keep the denominator unchanged and add or subtract the numerators, i.e. $\frac{a}{c}\pm\frac{b}{c}=\frac{a\pm b}{c}$.
-> **Basic Knowledge: Addition and Subtraction of Fractions with Different Denominators**
-> 
-> First find a common denominator, then add or subtract the numerators.
-
 ---
-
-
-> **Basic Knowledge: Addition and Subtraction of Fractions with Different Denominators** 
-> 
-> To add or subtract fractions with different denominators, first find a common denominator to convert them into fractions with the same denominator, then add or subtract, i.e. $\frac{a}{b}\pm\frac{c}{d}=\frac{ad\pm bc}{bd}$.
 
 ## Exercise 1
 
@@ -28,7 +16,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Addition and Subtraction of Fractions with the Same Denominator**.
+By Addition and Subtraction of Fractions with the Same Denominator.
 
 (1) $\frac{3}{a}+\frac{1}{a}=\frac{4}{a}$.
 
@@ -52,7 +40,7 @@ By **Basic Knowledge: Addition and Subtraction of Fractions with the Same Denomi
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Addition and Subtraction of Fractions with Different Denominators**.
+By Addition and Subtraction of Fractions with Different Denominators.
 
 (1) Common denominator $6c^2 d^2$: $\frac{1}{2c^2 d}+\frac{1}{3cd^2}=\frac{3d+2c}{6c^2 d^2}$.
 
@@ -90,7 +78,7 @@ By **Basic Knowledge: Addition and Subtraction of Fractions with Different Denom
 
 ### Solution to Problem 1
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $\frac{15}{5a}+\frac{a-15}{5a}=\frac{a}{5a}=\frac15$.
 
@@ -114,7 +102,7 @@ By **Basic Knowledge**.
 
 ### Solution to Problem 2
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $\frac{\left(x+1\right)-x}{x\left(x+1\right)}=\frac{1}{x\left(x+1\right)}$.
 

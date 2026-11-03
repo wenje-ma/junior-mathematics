@@ -1,16 +1,6 @@
 # week126
 
-> **Basic Knowledge: Quadratic Equation in One Unknown**
-> 
-> In general, if an equation contains only one unknown and all expressions containing the unknown are integral expressions, and the highest degree of the unknown is $2$, then such an equation is called a quadratic equation in one unknown.
-> **Basic Knowledge: General Form of a Quadratic Equation**
-> 
-> The general form of a quadratic equation is $ax^2+bx+c=0\ \left(a\ne0\right)$, where $ax^2$ is the quadratic term and $a$ is the quadratic coefficient; $bx$ is the linear term and $b$ is the linear coefficient; $c$ is the constant term. The requirement $a\ne0$ ensures the equation is indeed quadratic.
-> **Basic Knowledge: Roots of a Quadratic Equation**
-> 
-> The value of the unknown that makes the two sides of a quadratic equation equal is the solution of the equation; the solution of a quadratic equation is also called its root.
 ---
-
 
 ## Exercise 1
 
@@ -26,7 +16,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: General Form of a Quadratic Equation**, first remove parentheses, transpose terms and combine like terms to put the equation in the form $ax^2+bx+c=0\ \left(a\ne0\right)$, then read off the coefficients.
+By General Form of a Quadratic Equation, first remove parentheses, transpose terms and combine like terms to put the equation in the form $ax^2+bx+c=0\ \left(a\ne0\right)$, then read off the coefficients.
 
 (1) Transposing terms,
 
@@ -72,7 +62,7 @@ Hence the quadratic coefficient is $3$, the linear coefficient is $-4$, and the 
 
 ### Solution to Exercise 2
 
-Set up the unknown, write the equation according to the quantities in the problem, then transform it into general form by **Basic Knowledge**.
+Set up the unknown, write the equation according to the quantities in the problem, then transform it into general form by Basic Knowledge.
 
 (1) Let the side length of a square be $x$; the area of one square is $x^2$. Since the sum of the areas of $4$ squares is $25$,
 
@@ -112,7 +102,7 @@ i.e. $x=1-2x+x^2$; transposing terms gives the general form $x^2-3x+1=0$. $\blac
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: General Form of a Quadratic Equation**, first put it in the form $ax^2+bx+c=0\ \left(a\ne0\right)$, then read off the coefficients.
+By General Form of a Quadratic Equation, first put it in the form $ax^2+bx+c=0\ \left(a\ne0\right)$, then read off the coefficients.
 
 (1) Transposing terms gives $4x^2+5x-81=0$. The quadratic coefficient is $4$, the linear coefficient is $5$, and the constant term is $-81$.
 
@@ -134,7 +124,7 @@ By **Basic Knowledge: General Form of a Quadratic Equation**, first put it in th
 
 ### Solution to Problem 2
 
-Set up the equations according to the geometric relations in each problem, then transform them into general form by **Basic Knowledge**.
+Set up the equations according to the geometric relations in each problem, then transform them into general form by Basic Knowledge.
 
 (1) By the circle-area formula $\pi r^2=2\pi$,
 
@@ -170,7 +160,7 @@ $$
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Roots of a Quadratic Equation**, only the values of the unknown that make the two sides equal are roots; hence test them one by one.
+By Roots of a Quadratic Equation, only the values of the unknown that make the two sides equal are roots; hence test them one by one.
 
 When $x=-4$, $\left(-4\right)^2+\left(-4\right)-12=16-4-12=0$; the left side equals the right, so $-4$ is a root.
 
@@ -190,7 +180,7 @@ $$
 x\left(x-12\right)=864.
 $$
 
-Removing parentheses and transposing terms, by **Basic Knowledge** the general form is
+Removing parentheses and transposing terms, by Basic Knowledge the general form is
 
 $$
 x^2-12x-864=0.
@@ -208,7 +198,7 @@ Hence the equation set up is $x\left(x-12\right)=864$, in general form $x^2-12x-
 
 ### Solution to Problem 5
 
-By **Basic Knowledge: Roots of a Quadratic Equation**, a root must make the two sides equal.
+By Roots of a Quadratic Equation, a root must make the two sides equal.
 
 (1) Substituting $x=2$ into $x^2-c=0$ gives $2^2-c=0$, i.e. $4-c=0$, hence
 

@@ -1,52 +1,5 @@
 # week9
 
-> **Basic Knowledge: Rules for Addition of Rational Numbers**
-> 
-> When two numbers of the same sign are added, the sum takes the same sign; when two numbers of opposite signs are added, the sum takes the sign of the addend with the larger absolute value; adding two numbers that are opposites of each other gives $0$.
-
-> **Basic Knowledge: Rules for Subtraction of Rational Numbers**
-> 
-> Subtracting a number is equivalent to adding the opposite number of that number.
-
-> **Basic Knowledge: Rules for Multiplication of Rational Numbers**
-> 
-> When two numbers are multiplied, like signs give positive and opposite signs give negative, and the absolute value of the product equals the product of the absolute values of the factors.
-
-> **Basic Knowledge: Rules for Division of Rational Numbers**
-> 
-> Dividing by a number not equal to $0$ is equivalent to multiplying by the reciprocal of that number.
-
-> **Basic Knowledge: Powers**
-> 
-> The operation of finding the product of $n$ identical factors is called exponentiation, and the result is called a power.
-
-> **Basic Knowledge: Order of Mixed Operations**
-> 
-> First exponentiation, then multiplication and division, and finally addition and subtraction; operations at the same level from left to right; if there are parentheses, first carry out the operations inside the parentheses.
-
-> **Basic Knowledge: Scientific Notation**
-> 
-> Expressing a number greater than $10$ in the form $a\times 10^{n}$ ($1\le a< 10$, where $n$ is a positive integer).
-
-> **Basic Knowledge: Algebraic Meaning of Absolute Value**
-> 
-> The absolute value of a positive number is itself, of a negative number is its opposite, and of 0 is 0.
-> **Basic Knowledge: Approximate Numbers**
-> 
-> A number close to but not exactly equal to the actual value; its precision is determined by rounding.
-> **Basic Knowledge: Comparing the Magnitude of Rational Numbers**
-> 
-> Comparing the Magnitude of Rational Numbers.
-> **Basic Knowledge: Opposite Numbers**
-> 
-> Two numbers that differ only in sign are opposites of each other; their sum is 0.
-> **Basic Knowledge: Reciprocal**
-> 
-> Two numbers whose product is 1 are reciprocals of each other.
-> **Basic Knowledge: Sign Rules for Powers**
-> 
-> Sign Rules for Powers.
-
 ---
 
 ## Review Problem 1
@@ -61,12 +14,11 @@
 
 ### Solution to Review Problem 1
 
-By **Basic Knowledge: Rules for Addition of Rational Numbers** and **Basic Knowledge: Rules for Multiplication of Rational Numbers**.
+By Rules for Addition of Rational Numbers and Rules for Multiplication of Rational Numbers.
 
 (1) $100$; (2) $-38$; (3) $-70$; (4) $-11$; (5) $96$;
 
 (6) $-9$; (7) $-\frac{1}{2}$; (8) $\frac{75}{2}$; (9) $\frac{15}{16}$. $\blacksquare$
-
 
 ---
 
@@ -88,7 +40,7 @@ By **Basic Knowledge: Rules for Addition of Rational Numbers** and **Basic Knowl
 
 ### Solution to Review Problem 2
 
-By **Basic Knowledge: Order of Mixed Operations**.
+By Order of Mixed Operations.
 
 (1) The original expression $=6-0.2-2+1.5=5.3=\frac{53}{10}$.
 
@@ -102,7 +54,6 @@ By **Basic Knowledge: Order of Mixed Operations**.
 
 (6) The original expression $=-\left(-2\right)+9\times\left(-2\right)=2-18=-16$. $\blacksquare$
 
-
 ---
 
 ## Review Problem 3
@@ -111,12 +62,11 @@ By **Basic Knowledge: Order of Mixed Operations**.
 
 ### Solution to Review Problem 3
 
-By **Basic Knowledge: Opposite Numbers** and **Basic Knowledge: Reciprocal**.
+By Opposite Numbers and Reciprocal.
 
 For two numbers that are opposites of each other, such as $a$ and $-a$, their sum is $a+\left(-a\right)=0$, so the sum of two numbers that are opposites of each other is $0$.
 
-For two numbers that are reciprocals of each other, by **Basic Knowledge: Reciprocal**, their product is $1$. $\blacksquare$
-
+For two numbers that are reciprocals of each other, by Reciprocal, their product is $1$. $\blacksquare$
 
 ---
 
@@ -128,10 +78,9 @@ For two numbers that are reciprocals of each other, by **Basic Knowledge: Recipr
 
 ### Solution to Review Problem 4
 
-By **Basic Knowledge: Scientific Notation**.
+By Scientific Notation.
 
 (1) $100000000=1\times 10^{8}$; (2) $4500000=4.5\times 10^{6}$; (3) $692400000000=6.924\times 10^{11}$. $\blacksquare$
-
 
 ---
 
@@ -145,10 +94,9 @@ By **Basic Knowledge: Scientific Notation**.
 
 ### Solution to Review Problem 5
 
-By **Basic Knowledge: Approximate Numbers**.
+By Approximate Numbers.
 
 (1) $245.635\approx 245.6$; (2) $175.65\approx 176$; (3) $12.004\approx 12.00$; (4) $6.5378\approx 6.54$. $\blacksquare$
-
 
 ---
 
@@ -162,12 +110,11 @@ By **Basic Knowledge: Approximate Numbers**.
 
 ### Solution to Review Problem 6
 
-By **Basic Knowledge: Algebraic Meaning of Absolute Value**.
+By Algebraic Meaning of Absolute Value.
 
 (1) The original expression $=-2-3=-5$.
 
 (2) The original expression $=\left|-2+3\right|=\left|1\right|=1$. $\blacksquare$
-
 
 ---
 
@@ -177,7 +124,7 @@ By **Basic Knowledge: Algebraic Meaning of Absolute Value**.
 
 ### Solution to Review Problem 7
 
-By **Basic Knowledge: Rules for Addition of Rational Numbers**, the goal difference is the sum of goals scored and goals conceded.
+By Rules for Addition of Rational Numbers, the goal difference is the sum of goals scored and goals conceded.
 
 Red team: goals scored $4+2=6$, goals conceded $2+3=5$, goal difference $=6+\left(-5\right)=1$.
 
@@ -186,7 +133,6 @@ Yellow team: goals scored $2+1=3$, goals conceded $4+3=7$, goal difference $=3+\
 Blue team: goals scored $3+3=6$, goals conceded $1+2=3$, goal difference $=6+\left(-3\right)=3$.
 
 Hence the red team has a goal difference of $1$, the yellow team $-4$, and the blue team $3$. $\blacksquare$
-
 
 ---
 
@@ -200,10 +146,9 @@ First estimate their average score, and then compute the average score on that b
 
 ### Solution to Review Problem 8
 
-By **Basic Knowledge: Rules for Division of Rational Numbers**, the average score is the total score divided by the number of students.
+By Rules for Division of Rational Numbers, the average score is the total score divided by the number of students.
 
 The total score $=82+83+78+66+95+75+61+93+82+81=796$. The average score $=796\div 10=79.6$ points. The scores are mostly concentrated in the $70\sim 90$ point range, estimated at about $80$ points, which is close to the computed result of $79.6$ points. $\blacksquare$
-
 
 ---
 
@@ -213,12 +158,11 @@ The total score $=82+83+78+66+95+75+61+93+82+81=796$. The average score $=796\di
 
 ### Solution to Review Problem 9
 
-By **Basic Knowledge: Rules for Addition of Rational Numbers**, the sum of the profit/loss over the seven days equals the total of $188$ yuan.
+By Rules for Addition of Rational Numbers, the sum of the profit/loss over the seven days equals the total of $188$ yuan.
 
 The sum of the six known days is $-27.8-70.3+200+138.1-8+458=690$. Hence the profit/loss figure for Saturday is $188-690=-502$.
 
 The result is negative, so Saturday was a loss, in the amount of $502$ yuan. $\blacksquare$
-
 
 ---
 
@@ -228,12 +172,11 @@ The result is negative, so Saturday was a loss, in the amount of $502$ yuan. $\b
 
 ### Solution to Review Problem 10
 
-By **Basic Knowledge: Rules for Addition of Rational Numbers**, eastward is positive and westward is negative.
+By Rules for Addition of Rational Numbers, eastward is positive and westward is negative.
 
 $$7+3-11.5=-1.5.$$
 
 The result is negative, so at this point he is west of his station, and his distance from the station is $1.5\ \text{km}$. $\blacksquare$
-
 
 ---
 
@@ -243,12 +186,11 @@ The result is negative, so at this point he is west of his station, and his dist
 
 ### Solution to Review Problem 11
 
-By **Basic Knowledge: Rules for Multiplication of Rational Numbers**.
+By Rules for Multiplication of Rational Numbers.
 
 Heating from $20\,^\circ\text{C}$ to $30\,^\circ\text{C}$ raises the temperature by $10\,^\circ\text{C}$, elongating $10\times 0.002=0.02\ \text{mm}$; then cooling from $30\,^\circ\text{C}$ to $5\,^\circ\text{C}$ lowers the temperature by $25\,^\circ\text{C}$, shortening $25\times 0.002=0.05\ \text{mm}$.
 
 The total change is $0.02-0.05=-0.03\ \text{mm}$, so the final length is shortened by about $0.03\ \text{mm}$ relative to the original length. $\blacksquare$
-
 
 ---
 
@@ -258,12 +200,11 @@ The total change is $0.02-0.05=-0.03\ \text{mm}$, so the final length is shorten
 
 ### Solution to Review Problem 12
 
-By **Basic Knowledge: Scientific Notation**.
+By Scientific Notation.
 
 $$1.496\text{ 亿千米}=149600000\ \text{km}=1.496\times 10^{8}\ \text{km}.$$
 
 Hence the $1$ astronomical unit is $1.496\times 10^{8}\ \text{km}$. $\blacksquare$
-
 
 ---
 
@@ -277,12 +218,11 @@ Hence the $1$ astronomical unit is $1.496\times 10^{8}\ \text{km}$. $\blacksquar
 
 ### Solution to Review Problem 13
 
-By **Basic Knowledge: Powers** and **Basic Knowledge: Comparing the Magnitude of Rational Numbers**.
+By Powers and Comparing the Magnitude of Rational Numbers.
 
 (1) Take $a=\frac{1}{2}$; then $a^{2}=\frac{1}{4}$ and $a^{3}=\frac{1}{8}$. Since $\frac{1}{8}< \frac{1}{4}< \frac{1}{2}$, we get $a^{3}< a^{2}< a$.
 
 (2) Take $b=-\frac{1}{2}$; then $b^{2}=\frac{1}{4}$ and $b^{3}=-\frac{1}{8}$. Since $-\frac{1}{2}< -\frac{1}{8}< \frac{1}{4}$, we get $b< b^{3}< b^{2}$. $\blacksquare$
-
 
 ---
 
@@ -298,12 +238,11 @@ By **Basic Knowledge: Powers** and **Basic Knowledge: Comparing the Magnitude of
 
 ### Solution to Review Problem 14
 
-(1) Wrong. By **Basic Knowledge: Opposite Numbers**, the opposite number of $0$ is $0$, that is, $0$ equals its opposite number.
+(1) Wrong. By Opposite Numbers, the opposite number of $0$ is $0$, that is, $0$ equals its opposite number.
 
-(2) Correct. By **Basic Knowledge: Sign Rules for Powers**, the positive even powers of the two opposite numbers $a$ and $-a$ are both positive and have the same absolute value, so $a^{2n}=\left(-a\right)^{2n}$.
+(2) Correct. By Sign Rules for Powers, the positive even powers of the two opposite numbers $a$ and $-a$ are both positive and have the same absolute value, so $a^{2n}=\left(-a\right)^{2n}$.
 
 (3) Wrong. Counterexample: $a=1$, $b=-1$; we have $a> b$, but $\frac{1}{a}=1$ and $\frac{1}{b}=-1$, and at this point $\frac{1}{a}> \frac{1}{b}$, so the original statement does not hold. $\blacksquare$
-
 
 ---
 

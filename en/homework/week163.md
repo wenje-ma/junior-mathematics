@@ -1,32 +1,14 @@
 # week163
 
-> **Basic Knowledge: Similar Triangles**
-> 
-> In $\triangle ABC$ and $\triangle A'B'C'$, if $\angle A=\angle A'$, $\angle B=\angle B'$, $\angle C=\angle C'$, and $\frac{AB}{A'B'}=\frac{BC}{B'C'}=\frac{AC}{A'C'}=k$, then $\triangle ABC\backsim\triangle A'B'C'$.
-> **Basic Knowledge: Area Ratio**
-> 
-> Area Ratio.
-> **Basic Knowledge: Corresponding Line Segments**
-> 
-> Corresponding Line Segments.
-> **Basic Knowledge: Preliminary Theorem**
-> 
-> A line parallel to one side of a triangle cuts the other two sides proportionally, and the cut-off triangle is similar to the original.
-
 ---
 
 ---
 
 ---
-
 
 > **Basic Fact 27.2.1** (Parallel Lines Dividing Line Segments Proportionally) 
 > 
 > When two lines are cut by a set of parallel lines, the corresponding line segments obtained are proportional.
-
-> **Basic Knowledge: Preliminary Theorem** 
-> 
-> A line parallel to one side of a triangle and intersecting the other two sides forms a triangle similar to the original triangle.
 
 > **Criterion Theorem 27.2.2** (SSS) 
 > 
@@ -43,14 +25,6 @@
 > **Criterion Theorem 27.2.5** (HL) 
 > 
 > Two right triangles whose hypotenuses and one leg are proportional are similar.
-
-> **Basic Knowledge: Corresponding Line Segments** 
-> 
-> The ratio of corresponding altitudes, the ratio of corresponding medians, and the ratio of corresponding angle bisectors of similar triangles all equal the similarity ratio; the ratio of corresponding line segments of similar triangles equals the similarity ratio.
-
-> **Basic Knowledge: Area Ratio** 
-> 
-> The ratio of the areas of similar triangles equals the square of the similarity ratio.
 
 ## Exercise 1
 
@@ -70,7 +44,7 @@ $$
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Preliminary Theorem**, $DE\parallel BC$, so $\triangle ADE\backsim\triangle ABC$.
+By Preliminary Theorem, $DE\parallel BC$, so $\triangle ADE\backsim\triangle ABC$.
 
 The similarity ratio is $\frac{AD}{AB}=\frac{AD}{AD+DB}=\frac{3}{3+2}=\frac{3}{5}$. $\blacksquare$
 
@@ -170,7 +144,7 @@ The two pairs of legs are proportional and the included angle is $90^\circ$ in b
 
 ### Solution to Exercise 9
 
-By **Basic Knowledge** and **Basic Knowledge**.
+By Basic Knowledge and Basic Knowledge.
 
 (1) The similarity ratio is $5$, and the ratio of corresponding angle bisectors equals the similarity ratio $5$; true.
 
@@ -182,7 +156,7 @@ By **Basic Knowledge** and **Basic Knowledge**.
 
 ### Solution to Exercise 10
 
-By **Basic Knowledge: Corresponding Line Segments**, the ratio of corresponding altitudes of similar triangles equals the similarity ratio $k$.
+By Corresponding Line Segments, the ratio of corresponding altitudes of similar triangles equals the similarity ratio $k$.
 
 $AD$ and $A'D'$ are corresponding altitudes, and $BE$ and $B'E'$ are also corresponding altitudes, so
 
@@ -200,7 +174,7 @@ Therefore $\frac{AD}{A'D'}=\frac{BE}{B'E'}$. $\blacksquare$
 
 The scaling ratio is $6:2=3:1$, i.e. the similarity ratio is $3$.
 
-By **Basic Knowledge: Area Ratio**, the area ratio is the square of the similarity ratio, i.e. $9$ times. $\blacksquare$
+By Area Ratio, the area ratio is the square of the similarity ratio, i.e. $9$ times. $\blacksquare$
 
 ## Exercise 12
 
@@ -286,7 +260,7 @@ In $\triangle ADE$ and $\triangle EFC$, $\angle A=\angle CEF$, $\angle AED=\angl
 
 ### Solution to Problem 5
 
-By **Basic Knowledge: Preliminary Theorem**, a triangle cut by a line parallel to one side of the original is similar to the original triangle.
+By Preliminary Theorem, a triangle cut by a line parallel to one side of the original is similar to the original triangle.
 
 $DE\parallel BC$, so $\triangle ADE\backsim\triangle ABC$; $FG\parallel BC$, so $\triangle AFG\backsim\triangle ABC$. Therefore $\triangle ADE\backsim\triangle AFG\backsim\triangle ABC$. $\blacksquare$
 
@@ -374,7 +348,7 @@ In rectangle $ABCD$, $\angle A=\angle B=\angle C=\angle D=90^\circ$. In quadrila
 
 Also, $\triangle AEF\backsim\triangle ABC$, $\triangle AFG\backsim\triangle ACD$, and the ratio of corresponding sides is $\frac{AF}{AC}$ in both.
 
-Thus quadrilateral $AEFG$ and $ABCD$ have equal corresponding angles and proportional corresponding sides; by **Basic Knowledge**, they always remain similar. $\blacksquare$
+Thus quadrilateral $AEFG$ and $ABCD$ have equal corresponding angles and proportional corresponding sides; by Basic Knowledge, they always remain similar. $\blacksquare$
 
 ## Problem 12
 
@@ -382,9 +356,9 @@ Thus quadrilateral $AEFG$ and $ABCD$ have equal corresponding angles and proport
 
 ### Solution to Problem 12
 
-By **Basic Knowledge**, $DE\parallel BC$, so $\triangle ADE\backsim\triangle ABC$.
+By Basic Knowledge, $DE\parallel BC$, so $\triangle ADE\backsim\triangle ABC$.
 
-By **Basic Knowledge**, $\frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\left(\frac{AD}{AB}\right)^2=\frac{1}{2}$.
+By Basic Knowledge, $\frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\left(\frac{AD}{AB}\right)^2=\frac{1}{2}$.
 
 Thus $\frac{AD}{AB}=\frac{1}{\sqrt{2}}=\frac{\sqrt{2}}{2}$, i.e. $D$ lies on $AB$ such that $AD:DB=\sqrt{2}:\left(2-\sqrt{2}\right)$. $\blacksquare$
 
@@ -412,7 +386,7 @@ The figure shows $\triangle ABC$ with $AB=8$, $AC=6$, and $BC=9$; point $D$ move
 
 After $x$ seconds, $BD=2x$, $AD=AB-BD=8-2x$.
 
-By **Basic Knowledge**, $DE\parallel BC$, $\triangle ADE\backsim\triangle ABC$, so
+By Basic Knowledge, $DE\parallel BC$, $\triangle ADE\backsim\triangle ABC$, so
 
 $$
 \frac{DE}{BC}=\frac{AD}{AB}=\frac{8-2x}{8}.
@@ -431,4 +405,4 @@ where $0\le x\le4$. The graph is a line segment from $\left(0,9\right)$ to $\lef
 ### Solution to Observation and Conjecture 1
 
 The Sierpinski carpet is obtained by dividing an equilateral triangle into four equal parts, removing the middle one, and repeating the operation on the remaining small triangles; the snowflake curve is obtained by constructing small equilateral triangles outward on the middle of each side of an equilateral triangle and repeating the operation. In both figures, the local and the whole have the same shape, i.e. there is self-similarity, and the triangles of various sizes are mutually similar. Such self-similar figures are called fractal figures. $\blacksquare$
-
+

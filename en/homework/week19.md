@@ -1,32 +1,5 @@
 # week19
 
-> **Basic Knowledge: Equation**
-> 
-> First set up a letter to represent the unknown, then according to the equality relation in the problem, write out an equality containing the unknown; such an equality is called an equation.
-
-> **Basic Knowledge: Solution of an Equation**
-> 
-> The value of the unknown that makes the values of the left and right sides of the equation equal is called the solution of the equation. The process of finding the solution of an equation is called solving the equation.
-
-> **Basic Knowledge: Linear Equation in One Variable**
-> 
-> An equation that contains only one unknown (variable), in which all expressions containing the unknown are integral expressions and the degree of the unknown is $1$, is called a linear equation in one variable.
-
-> **Basic Knowledge: Properties of Equality 1**
-> 
-> Adding (or subtracting) the same number (or expression) to both sides of an equality keeps the result equal. If $a=b$, then $a\pm c=b\pm c$.
-
-> **Basic Knowledge: Properties of Equality 2**
-> 
-> Multiplying both sides of an equality by the same number, or dividing by the same number not equal to $0$, keeps the result equal. If $a=b$, then $ac=bc$; if $a=b$, $c\ne0$, then $\frac{a}{c}=\frac{b}{c}$.
-
-> **Basic Knowledge: Combining Like Terms**
-> 
-> Combining like terms in a polynomial into a single term.
-> **Basic Knowledge: Transposition Rule**
-> 
-> Moving a term from one side of an equation to the other while changing its sign.
-
 ---
 
 ## Exercise 1
@@ -35,14 +8,13 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Equation**, set up the unknown and write the equation according to the equality relation.
+By Equation, set up the unknown and write the equation according to the equality relation.
 
 Let $x$ be the number of type A pencils bought; then $\left(15-x\right)$ type B pencils were bought. The type A pencils cost $1.4x$ yuan, and the type B pencils cost $1.8\left(15-x\right)$ yuan. According to the total cost of $23$ yuan, the equation is
 
 $$1.4x+1.8\left(15-x\right)=23.$$
 
 $\blacksquare$
-
 
 ---
 
@@ -52,14 +24,13 @@ $\blacksquare$
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Equation**, let the cut-off length be $x\ \text{m}$.
+By Equation, let the cut-off length be $x\ \text{m}$.
 
 After cutting, the first is $\left(90-x\right)\ \text{m}$ long and the second is $\left(40+x\right)\ \text{m}$ long. The two are equal, so the equation is
 
 $$90-x=40+x.$$
 
 $\blacksquare$
-
 
 ---
 
@@ -69,14 +40,13 @@ $\blacksquare$
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Equation**, let the radius of the inner small circle be $r\ \text{cm}$.
+By Equation, let the radius of the inner small circle be $r\ \text{cm}$.
 
 The annulus area is the large circle area minus the small circle area: $\pi\cdot10^{2}-\pi r^{2}=200$. The equation is
 
 $$100\pi-\pi r^{2}=200.$$
 
 $\blacksquare$
-
 
 ---
 
@@ -86,12 +56,11 @@ $\blacksquare$
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Solution of an Equation**, substitute and check whether the left and right sides are equal.
+By Solution of an Equation, substitute and check whether the left and right sides are equal.
 
 When $x=2$, the left side $=2\times2-3=1$, the right side $=5$, and the left side $\ne$ the right side, so $x=2$ is not a solution of this equation.
 
 When $x=4$, the left side $=2\times4-3=5$, the right side $=5$, and the left side $=$ the right side, so $x=4$ is a solution of this equation. $\blacksquare$
-
 
 ---
 
@@ -107,14 +76,13 @@ When $x=4$, the left side $=2\times4-3=5$, the right side $=5$, and the left sid
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Equation** and **Basic Knowledge: Linear Equation in One Variable**.
+By Equation and Linear Equation in One Variable.
 
 (1) $2+3=3+2$ contains no unknown, so it is not an equation.
 
 (2) $8y-9=9-y$ contains the unknown $y$, so it is an equation; it contains only one unknown of degree $1$, so it is a linear equation in one variable.
 
 (3) $x^{2}+2x+1=4$ contains the unknown $x$, so it is an equation; but the degree of $x$ is $2$, so it is not a linear equation in one variable. $\blacksquare$
-
 
 ---
 
@@ -132,7 +100,7 @@ By **Basic Knowledge: Equation** and **Basic Knowledge: Linear Equation in One V
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge: Properties of Equality 1** and **Basic Knowledge: Properties of Equality 2**.
+By Properties of Equality 1 and Properties of Equality 2.
 
 (1) By property 1, add $1$ to both sides, so $x+1=y+1$; fill in $1$.
 
@@ -141,7 +109,6 @@ By **Basic Knowledge: Properties of Equality 1** and **Basic Knowledge: Properti
 (3) By property 2, multiply both sides by $5$, so $5x=5y$; fill in $5$.
 
 (4) By property 2, divide both sides by $3$, so $x=2y$; fill in $2$. $\blacksquare$
-
 
 ---
 
@@ -159,7 +126,7 @@ By **Basic Knowledge: Properties of Equality 1** and **Basic Knowledge: Properti
 
 ### Solution to Exercise 7
 
-By **Basic Knowledge: Properties of Equality 1** and **Basic Knowledge: Properties of Equality 2**, transform the equation step by step into the form $x=m$.
+By Properties of Equality 1 and Properties of Equality 2, transform the equation step by step into the form $x=m$.
 
 (1) Add $5$ to both sides, giving $x=11$.
 
@@ -168,7 +135,6 @@ By **Basic Knowledge: Properties of Equality 1** and **Basic Knowledge: Properti
 (3) Subtract $4$ from both sides, giving $5x=-4$; divide both sides by $5$, giving $x=-\frac{4}{5}$.
 
 (4) Subtract $2$ from both sides, giving $-\frac{1}{4}x=1$; multiply both sides by $-4$, giving $x=-4$. $\blacksquare$
-
 
 ---
 
@@ -190,7 +156,7 @@ By **Basic Knowledge: Properties of Equality 1** and **Basic Knowledge: Properti
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Equation**, translate the verbal language into equations.
+By Equation, translate the verbal language into equations.
 
 (1) $a+5=8$.
 
@@ -203,7 +169,6 @@ By **Basic Knowledge: Equation**, translate the verbal language into equations.
 (5) $3a+5=4a$.
 
 (6) $\frac{1}{2}b-7=a+b$. $\blacksquare$
-
 
 ---
 
@@ -219,7 +184,7 @@ By **Basic Knowledge: Equation**, translate the verbal language into equations.
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Equation**, set up equations according to the equality relations in the figures.
+By Equation, set up equations according to the equality relations in the figures.
 
 (1) The total length of the segment is $14$, and the sum of its parts is $\left(x+2\right)+\left(x+3\right)$, so $\left(x+2\right)+\left(x+3\right)=14$.
 
@@ -234,7 +199,6 @@ Figure (3) is a right triangle with legs $x$ and $\left(x-1\right)$, and area $6
 $$\frac{1}{2}x\left(x-1\right)=6.$$
 
 $\blacksquare$
-
 
 ---
 
@@ -252,7 +216,7 @@ $\blacksquare$
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Solution of an Equation**, substitute and check.
+By Solution of an Equation, substitute and check.
 
 (1) Substituting $x=0$: left side $=7$, right side $=7$, so $x=0$ is the solution of (1).
 
@@ -261,7 +225,6 @@ By **Basic Knowledge: Solution of an Equation**, substitute and check.
 (3) Substituting $x=3$: left side $=9-2=7$, right side $=4+3=7$, so $x=3$ is the solution of (3).
 
 (4) Substituting $x=1$ (a value not given): left side $=-1$, right side $=-1$; none of the three given values is a solution of (4). $\blacksquare$
-
 
 ---
 
@@ -279,7 +242,7 @@ By **Basic Knowledge: Solution of an Equation**, substitute and check.
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Transposition Rule** and **Basic Knowledge: Combining Like Terms**, transform the equation into the form $x=m$.
+By Transposition Rule and Combining Like Terms, transform the equation into the form $x=m$.
 
 (1) Add $4$ to both sides, giving $x=33$.
 
@@ -289,7 +252,6 @@ By **Basic Knowledge: Transposition Rule** and **Basic Knowledge: Combining Like
 
 (4) Add $2$ to both sides, giving $4x=4$; divide both sides by $4$, giving $x=1$. $\blacksquare$
 
-
 ---
 
 ## Problem 5
@@ -298,14 +260,13 @@ By **Basic Knowledge: Transposition Rule** and **Basic Knowledge: Combining Like
 
 ### Solution to Problem 5
 
-By **Basic Knowledge: Equation**, let the number of boys be $x$.
+By Equation, let the number of boys be $x$.
 
 The number of girls is $\frac{4}{5}x+3$, and the total is the sum of boys and girls. The equation is
 
 $$x+\frac{4}{5}x+3=48.$$
 
 $\blacksquare$
-
 
 ---
 
@@ -315,14 +276,13 @@ $\blacksquare$
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Equation**, let $x$ be the number of first-prize students.
+By Equation, let $x$ be the number of first-prize students.
 
 There are $\left(20-x\right)$ second-prize students. The total scholarship is $800x+400\left(20-x\right)=10000$. The equation is
 
 $$800x+400\left(20-x\right)=10000.$$
 
 $\blacksquare$
-
 
 ---
 
@@ -332,14 +292,13 @@ $\blacksquare$
 
 ### Solution to Problem 7
 
-By **Basic Knowledge: Equation**, let the income in the year before last be $x$ yuan.
+By Equation, let the income in the year before last be $x$ yuan.
 
 Last year's income is $x\left(1+6.8\%\right)$, i.e. $1.068x$. The equation is
 
 $$1.068x=30438.$$
 
 $\blacksquare$
-
 
 ---
 
@@ -349,14 +308,13 @@ $\blacksquare$
 
 ### Solution to Problem 8
 
-By **Basic Knowledge: Equation**, let the total distance be $20800\ \text{km}$ after $x$ months.
+By Equation, let the total distance be $20800\ \text{km}$ after $x$ months.
 
 The total distance is the distance already traveled plus the distance traveled in $x$ months: $12000+800x=20800$. The equation is
 
 $$12000+800x=20800.$$
 
 $\blacksquare$
-
 
 ---
 
@@ -366,14 +324,13 @@ $\blacksquare$
 
 ### Solution to Problem 9
 
-By **Basic Knowledge: Equation**, let the base radius be $r\ \text{cm}$.
+By Equation, let the base radius be $r\ \text{cm}$.
 
 The cylinder surface area is the two base areas plus the lateral area: $2\pi r^{2}+2\pi r\cdot12=108.5\pi$. The equation is
 
 $$2\pi r^{2}+24\pi r=108.5\pi.$$
 
 $\blacksquare$
-
 
 ---
 
@@ -383,14 +340,13 @@ $\blacksquare$
 
 ### Solution to Problem 10
 
-By **Basic Knowledge: Equation**, let Class (2) have $x$ students.
+By Equation, let Class (2) have $x$ students.
 
 The total donation of Class (2) is $10x$ yuan, and the donation of Class (1) is $22$ yuan less than that of Class (2), i.e. $10x-22=428$. The equation is
 
 $$10x-22=428.$$
 
 $\blacksquare$
-
 
 ---
 
@@ -400,7 +356,7 @@ $\blacksquare$
 
 ### Solution to Problem 11
 
-By **Basic Knowledge: Equation** and **Basic Knowledge: Solution of an Equation**, set up the equation and solve it.
+By Equation and Solution of an Equation, set up the equation and solve it.
 
 The original two-digit number is $10x+1$, and after swapping it is $10+x$. Since the new number is $18$ less than the original, the equation is
 

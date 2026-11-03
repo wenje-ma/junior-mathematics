@@ -1,37 +1,5 @@
 # week25
 
-> **Basic Knowledge: Line**
-> 
-> Through two points there is one line, and only one line. In short: two points determine a line.
-
-> **Basic Knowledge: Intersection**
-> 
-> When two distinct lines have a common point, we say the two lines intersect, and this common point is called their intersection point.
-
-> **Basic Knowledge: Ray and Segment**
-> 
-> A point on a line and the part on one side of it is called a ray, and this point is called the endpoint of the ray. Two points on a line and the part between them is called a segment, and these two points are called the endpoints of the segment.
-
-> **Basic Knowledge: Comparing Segments**
-> 
-> To compare the lengths of two segments, one may measure their lengths with a ruler and compare, or move one segment onto the other for comparison.
-
-> **Basic Knowledge: Basic Fact about Segments**
-> 
-> Among all the paths connecting two points, the segment is the shortest. In short: between two points, the segment is shortest.
-
-> **Basic Knowledge: Distance**
-> 
-> The length of the segment connecting two points is called the distance between these two points.
-
-> **Basic Knowledge: Midpoint of a Segment**
-> 
-> Point $M$ divides segment $AB$ into two equal segments $AM$ and $MB$; point $M$ is called the midpoint of segment $AB$.
-
-> **Basic Knowledge: Segment**
-> 
-> The part of a line between two points; it has two endpoints.
-
 ---
 
 ## Exercise 1
@@ -46,7 +14,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Line** and **Basic Knowledge: Ray and Segment**, draw as required.
+By Line and Ray and Segment, draw as required.
 
 (1) Draw the line through $A$ and $B$, extending in both directions.
 
@@ -58,7 +26,6 @@ In the figure, line $l$ has three points $A$, $B$, $C$ (with $B$ in the middle):
 
 $\blacksquare$
 
-
 ---
 
 ## Exercise 2
@@ -67,14 +34,13 @@ $\blacksquare$
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Ray and Segment** and **Basic Knowledge: Comparing Segments**, extend the segment as required.
+By Ray and Segment and Comparing Segments, extend the segment as required.
 
 Extend $AB$ in the direction from $A$ to $B$, take point $C$ on the extension so that $BC=AB$; then $AC=AB+BC=2AB$.
 
 In the figure, segment $AB$ is extended in the direction from $A$ to $B$ to point $C$ so that $BC=AB$; hence $B$ is the midpoint of $AC$ and $AC=2AB$.
 
 $\blacksquare$
-
 
 ---
 
@@ -84,7 +50,7 @@ $\blacksquare$
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Midpoint of a Segment**, $C$ is the midpoint of $AB$, so
+By Midpoint of a Segment, $C$ is the midpoint of $AB$, so
 
 $$CB=\frac{1}{2}AB=\frac{1}{2}\times8=4\ \text{cm}.$$
 
@@ -96,7 +62,6 @@ In the figure, segment $AB=8\ \text{cm}$, point $C$ is the midpoint of $AB$, poi
 
 $\blacksquare$
 
-
 ---
 
 ## Exercise 4
@@ -105,10 +70,9 @@ $\blacksquare$
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Comparing Segments** and **Basic Knowledge: Segment**, construct with straightedge and compass.
+By Comparing Segments and Segment, construct with straightedge and compass.
 
 First draw ray $AP$, and cut off $AB=BC=a$ in succession on the ray, so $AC=2a$. Then cut off $CD=b$ from $C$ toward $A$, so $AD=2a-b$. $\blacksquare$
-
 
 ---
 
@@ -118,12 +82,11 @@ First draw ray $AP$, and cut off $AB=BC=a$ in succession on the ray, so $AC=2a$.
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Midpoint of a Segment**, $M$ is the midpoint of $AC$, so $MC=\frac{1}{2}AC$; $N$ is the midpoint of $BC$, so $CN=\frac{1}{2}BC$.
+By Midpoint of a Segment, $M$ is the midpoint of $AC$, so $MC=\frac{1}{2}AC$; $N$ is the midpoint of $BC$, so $CN=\frac{1}{2}BC$.
 
 $$MN=MC+CN=\frac{1}{2}AC+\frac{1}{2}BC=\frac{1}{2}\left(AC+BC\right)=\frac{1}{2}AB.$$
 
 Since $MN=6$, we have $AB=2\times6=12$. $\blacksquare$
-
 
 ---
 
@@ -133,7 +96,7 @@ Since $MN=6$, we have $AB=2\times6=12$. $\blacksquare$
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge: Midpoint of a Segment**, from the ratio let $AB=2k$, $BC=3k$, $CD=4k$.
+By Midpoint of a Segment, from the ratio let $AB=2k$, $BC=3k$, $CD=4k$.
 
 Since $CD=8$, we have $4k=8$, $k=2$. Thus $AD=2k+3k+4k=9k=18$.
 
@@ -142,7 +105,6 @@ $M$ is the midpoint of $AD$, so $MD=\frac{1}{2}AD=9$.
 $$MC=MD-CD=9-8=1.$$
 
 $\blacksquare$
-
 
 ---
 
@@ -158,7 +120,7 @@ $\blacksquare$
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Line** and **Basic Knowledge: Ray and Segment**, draw as required.
+By Line and Ray and Segment, draw as required.
 
 (1) Draw the line through $A$ and $B$, extending in both directions.
 
@@ -170,7 +132,6 @@ In the figure there are four points $A$, $B$, $C$, $D$: draw line $AB$ through $
 
 $\blacksquare$
 
-
 ---
 
 ## Problem 2
@@ -179,7 +140,7 @@ $\blacksquare$
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Midpoint of a Segment**.
+By Midpoint of a Segment.
 
 $$AC=AB+BC=4+3=7\ \text{cm}.$$
 
@@ -189,7 +150,6 @@ $$OB=AB-AO=4-3.5=0.5\ \text{cm}.$$
 
 $\blacksquare$
 
-
 ---
 
 ## Problem 3
@@ -198,14 +158,13 @@ $\blacksquare$
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Segment** and **Basic Knowledge: Comparing Segments**, construct with straightedge and compass.
+By Segment and Comparing Segments, construct with straightedge and compass.
 
 Draw ray $AP$, and cut off $AB=a$, $BC=b$, $CD=b$ in succession on the ray, so $AD=a+2b$.
 
 In the figure, cut off $AB=a$, $BC=b$, $CD=b$ in succession on ray $AP$, so that the resulting segment $AD=a+2b$.
 
 $\blacksquare$
-
 
 ---
 
@@ -215,7 +174,7 @@ $\blacksquare$
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Midpoint of a Segment**.
+By Midpoint of a Segment.
 
 $$AC=AB-BC=10-4=6\ \text{cm}.$$
 
@@ -224,7 +183,6 @@ $D$ is the midpoint of $AC$, so $AD=\frac{1}{2}AC=3\ \text{cm}$.
 $$BD=AB-AD=10-3=7\ \text{cm}.$$
 
 $\blacksquare$
-
 
 ---
 
@@ -238,7 +196,7 @@ $\blacksquare$
 
 ### Solution to Problem 5
 
-By **Basic Knowledge: Midpoint of a Segment**.
+By Midpoint of a Segment.
 
 (1) $BC=\frac{1}{2}AB=\frac{1}{2}\times4=2\ \text{cm}$.
 
@@ -250,7 +208,6 @@ $$BM=AB-AM=4-3=1\ \text{cm}.$$
 
 $\blacksquare$
 
-
 ---
 
 ## Problem 6
@@ -259,7 +216,7 @@ $\blacksquare$
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Segment**, point $C$ may lie on segment $AB$, or on the extension of $AB$.
+By Segment, point $C$ may lie on segment $AB$, or on the extension of $AB$.
 
 If $C$ lies on segment $AB$: $AC=AB-BC=8-3=5\ \text{cm}$.
 
@@ -268,7 +225,6 @@ If $C$ lies on the extension of $AB$: $AC=AB+BC=8+3=11\ \text{cm}$.
 The figure shows two cases: on the left, point $C$ lies on segment $AB$ with $BC=3\ \text{cm}$ (then $AC=5\ \text{cm}$); on the right, point $C$ lies on the extension of $AB$ with $BC=3\ \text{cm}$ (then $AC=11\ \text{cm}$).
 
 Hence $AC=5\ \text{cm}$ or $11\ \text{cm}$. $\blacksquare$
-
 
 ---
 
@@ -282,7 +238,7 @@ Hence $AC=5\ \text{cm}$ or $11\ \text{cm}$. $\blacksquare$
 
 ### Solution to Problem 7
 
-By **Basic Knowledge: Midpoint of a Segment**.
+By Midpoint of a Segment.
 
 (1) $M$ is the midpoint of $AC$, so $MC=\frac{1}{2}AC=4\ \text{cm}$. $N$ is the midpoint of $BC$, so $CN=\frac{1}{2}CB=3\ \text{cm}$.
 
@@ -293,7 +249,6 @@ $$MN=MC+CN=4+3=7\ \text{cm}.$$
 $$MN=\frac{1}{2}AC+\frac{1}{2}CB=\frac{1}{2}\left(AC+CB\right)=\frac{1}{2}a.$$
 
 Hence we conjecture $MN=\frac{1}{2}a\ \text{cm}$. $\blacksquare$
-
 
 ---
 
@@ -307,14 +262,13 @@ Hence we conjecture $MN=\frac{1}{2}a\ \text{cm}$. $\blacksquare$
 
 ### Solution to Problem 8
 
-By **Basic Knowledge: Midpoint of a Segment**.
+By Midpoint of a Segment.
 
 (1) $M$ is the midpoint of $AC$, $MC=\frac{1}{2}AC=4\ \text{cm}$. $N$ is the midpoint of $BC$, $CN=\frac{1}{2}BC=3\ \text{cm}$. Since $A$, $B$, $C$ are collinear and $B$ lies between $A$ and $C$,
 
 $$MN=MC-CN=4-3=1\ \text{cm}.$$
 
 (2) Regardless of whether $B$ lies between $A$ and $C$ or $C$ lies between $A$ and $B$, $MN=\frac{1}{2}AB=\frac{1}{2}\times10=5\ \text{cm}$. $\blacksquare$
-
 
 ---
 
@@ -324,14 +278,13 @@ $$MN=MC-CN=4-3=1\ \text{cm}.$$
 
 ### Solution to Problem 9
 
-By **Basic Knowledge: Segment**.
+By Segment.
 
 Let $AB=x$; then $BC=\frac{1}{2}x$ and $AD=\frac{1}{2}x$.
 
 $$DC=AD+AB+BC=\frac{1}{2}x+x+\frac{1}{2}x=2x.$$
 
 Since $DC=20$, we have $2x=20$, $x=10$. That is, $AB=10\ \text{cm}$. $\blacksquare$
-
 
 ---
 
@@ -341,7 +294,7 @@ Since $DC=20$, we have $2x=20$, $x=10$. That is, $AB=10\ \text{cm}$. $\blacksqua
 
 ### Solution to Problem 10
 
-By **Basic Knowledge: Midpoint of a Segment**.
+By Midpoint of a Segment.
 
 $M$ is the midpoint of $AC$, so $MC=\frac{1}{2}AC$. $N$ is the midpoint of $BC$, so $NC=\frac{1}{2}BC$. Since $C$ lies on the extension of $AB$,
 
@@ -355,6 +308,6 @@ Since $MN=5$, we have $AB=2\times5=10\ \text{cm}$. $\blacksquare$
 
 ### Solution to Reading and Thinking 1
 
-By **Basic Knowledge: Distance**, measuring length requires unified units.
+By Distance, measuring length requires unified units.
 
 Without unified units of length, different regions and different groups would use their own measurement standards, causing confusion in communication and trade. Unified units of length make measurement results comparable and consistent, and are the foundation of scientific research, production, and daily life. $\blacksquare$

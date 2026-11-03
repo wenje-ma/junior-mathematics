@@ -1,13 +1,9 @@
 # week77
 
-> **Basic Knowledge: Properties of Axial Symmetry**
-> 
-> Two figures that are axially symmetric are congruent; the axis of symmetry perpendicularly bisects the segment joining the symmetric points.
 > **Basic Conclusion** (Shortest Distance) 
 > 
 > Between two points, the segment is the shortest; among all segments joining a point outside a line to points on the line, the perpendicular segment is the shortest.
 ---
-
 
 ## Inquiry 1
 
@@ -17,7 +13,7 @@
 
 Construct the reflection $A'$ of point $A$ about line $l$, connect $A'B$, and let it meet line $l$ at point $C$; then point $C$ is the desired watering point.
 
-By **Basic Knowledge: Properties of Axial Symmetry**, for any point $C$ on $l$, $AC=A'C$, hence $AC+CB=A'C+CB$. By "between two points, the segment is the shortest", $A'C+CB\ge A'B$, with equality if and only if $C$ lies on $A'B$, so at that point $AC+CB$ is minimal. $\blacksquare$
+By Properties of Axial Symmetry, for any point $C$ on $l$, $AC=A'C$, hence $AC+CB=A'C+CB$. By "between two points, the segment is the shortest", $A'C+CB\ge A'B$, with equality if and only if $C$ lies on $A'B$, so at that point $AC+CB$ is minimal. $\blacksquare$
 
 ## Inquiry 2
 

@@ -1,21 +1,5 @@
 # week58
 
-> **Basic Knowledge: Population and Individual**
-> 
-> The entire set of objects to be investigated is called the population; each object under investigation that makes up the population is called an individual.
-
-> **Basic Knowledge: Sample**
-> 
-> A part of the individuals drawn from the population.
-
-> **Basic Knowledge: Simple Random Sampling**
-> 
-> Every individual in the population has an equal chance of being selected.
-
-> **Basic Knowledge: Trend Chart**
-> 
-> A statistical chart using a line to describe the relationship between one quantity and another.
-
 ---
 
 ## Activity 1
@@ -34,10 +18,9 @@
 
 Let the heights of the $N$ students in the class be $x_1,x_2,\ldots,x_N$, and the population average height be $\overline{x}=\frac{1}{N}\sum_{i=1}^N x_i$.
 
-Each time a sample of size $15$ is drawn, the sample average is $\overline{x}_k=\frac{1}{15}\sum_{j=1}^{15}x_{i_j}$. By **Basic Knowledge: Simple Random Sampling**, each draw is unbiased, and $\overline{x}_k$ fluctuates up and down around $\overline{x}$.
+Each time a sample of size $15$ is drawn, the sample average is $\overline{x}_k=\frac{1}{15}\sum_{j=1}^{15}x_{i_j}$. By Simple Random Sampling, each draw is unbiased, and $\overline{x}_k$ fluctuates up and down around $\overline{x}$.
 
 Comparison shows: the sample average generally does not equal the population average, but as the number of repetitions grows, the average of the sample averages approaches the population average. The larger the sample size, the more stably the sample average approaches the population average. $\blacksquare$
-
 
 ---
 

@@ -1,9 +1,5 @@
 # week70
 
-> **Basic Knowledge: Congruent Figures and Congruent Triangles**
-> 
-> Two figures that can coincide completely are called congruent figures; two triangles that can coincide completely are called congruent triangles, denoted $\triangle ABC\cong\triangle A'B'C'$.
-
 ---
 
 ## Activity 1
@@ -13,7 +9,6 @@
 ### Solution to Activity 1
 
 The basic figures that coincide with one another in a pattern are congruent figures, among which the coinciding triangles are congruent triangles. In daily life, cards of the same suit in one deck of cards, floor tiles of the same model, and two figures cut out by folding and cutting paper are all congruent figures; patterns assembled from congruent triangles and identical triangular units in a building truss are congruent triangles. $\blacksquare$
-
 
 ---
 

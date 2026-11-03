@@ -1,25 +1,5 @@
 # week44
 
-> **Basic Knowledge: Rectangular Coordinate System**
-> 
-> Draw two number lines perpendicular to each other in a plane with the same origin to form a rectangular coordinate system.
-
-> **Basic Knowledge: Coordinates of a Point**
-> 
-> The ordered pair $\left(x,y\right)$ is called the coordinates of a point in the plane; points in the coordinate plane correspond one-to-one with ordered pairs of real numbers.
-
-> **Basic Knowledge: Quadrants**
-> 
-> First quadrant $\left(+,+\right)$, second quadrant $\left(-,+\right)$, third quadrant $\left(-,-\right)$, fourth quadrant $\left(+,-\right)$; points on the coordinate axes do not belong to any quadrant.
-
-
-> **Basic Knowledge: Representing Geographic Locations with Coordinates**
-> 
-> By establishing a plane rectangular coordinate system, the positions of points in the plane can be represented by coordinates.
-> **Basic Knowledge: Representing Translation with Coordinates**
-> 
-> Representing Translation with Coordinates.
-
 ---
 
 ## Review Exercise 1
@@ -30,7 +10,7 @@ The figure shows a Cartesian coordinate plane with four points $A\left(2,3\right
 
 ### Solution to Review Exercise 1
 
-Plot the points by **Basic Knowledge: Coordinates of a Point**, and determine the quadrant by **Basic Knowledge: Quadrants**.
+Plot the points by Coordinates of a Point, and determine the quadrant by Quadrants.
 
 $A\left(2,3\right)$: x-coordinate $2$, y-coordinate $3$, both positive, in the first quadrant.
 
@@ -39,7 +19,6 @@ $B\left(-2,3\right)$: x-coordinate $-2$, y-coordinate $3$, x negative and y posi
 $C\left(-2,-3\right)$: x-coordinate $-2$, y-coordinate $-3$, both negative, in the third quadrant.
 
 $D\left(2,-3\right)$: x-coordinate $2$, y-coordinate $-3$, x positive and y negative, in the fourth quadrant. $\blacksquare$
-
 
 ---
 
@@ -51,14 +30,13 @@ The figure shows an octagon in a Cartesian coordinate plane, symmetric about bot
 
 ### Solution to Review Exercise 2
 
-By **Basic Knowledge: Coordinates of a Point**, drop perpendiculars from each vertex of the octagon to the $x$-axis and $y$-axis, and read off the numbers corresponding to the feet. The octagon is symmetric about both the $y$-axis and the $x$-axis; the coordinates of its eight vertices are (counterclockwise starting from the upper left):
+By Coordinates of a Point, drop perpendiculars from each vertex of the octagon to the $x$-axis and $y$-axis, and read off the numbers corresponding to the feet. The octagon is symmetric about both the $y$-axis and the $x$-axis; the coordinates of its eight vertices are (counterclockwise starting from the upper left):
 
 $$
 \left(-2,3\right),\ \left(-1,4\right),\ \left(1,4\right),\ \left(2,3\right),\ \left(2,-3\right),\ \left(1,-4\right),\ \left(-1,-4\right),\ \left(-2,-3\right).
 $$
 
 $\blacksquare$
-
 
 ---
 
@@ -80,8 +58,7 @@ The figure shows a pattern formed by connecting four groups of points in a Carte
 
 ### Solution to Review Exercise 3
 
-Plot the points and connect them by group according to **Basic Knowledge: Coordinates of a Point**. The four groups draw four figures that are symmetric about the origin and face different directions; together they look like a butterfly with spread wings (or a pinwheel). $\blacksquare$
-
+Plot the points and connect them by group according to Coordinates of a Point. The four groups draw four figures that are symmetric about the origin and face different directions; together they look like a butterfly with spread wings (or a pinwheel). $\blacksquare$
 
 ---
 
@@ -97,14 +74,13 @@ Plot the points and connect them by group according to **Basic Knowledge: Coordi
 
 ### Solution to Review Exercise 4
 
-By **Basic Knowledge: Coordinates of a Point**, read off the coordinates of each place according to the coordinate system in the figure.
+By Coordinates of a Point, read off the coordinates of each place according to the coordinate system in the figure.
 
 (1) Read off the coordinates of the bookstore and post office from the figure.
 
 (2) Match $\left(-100,200\right)$, $\left(100,0\right)$, $\left(200,100\right)$, $\left(200,-200\right)$, $\left(-100,-200\right)$, $\left(0,-100\right)$ one-to-one with the coordinates of the places in the figure, and write down in order the places he passes (such as the stationery store, bus stop, amusement park, grandmother's home, pet shop, fire station, etc.).
 
 (3) Connect these points in order to obtain a closed figure resembling a house (or an arrow). $\blacksquare$
-
 
 ---
 
@@ -114,8 +90,7 @@ By **Basic Knowledge: Coordinates of a Point**, read off the coordinates of each
 
 ### Solution to Review Exercise 5
 
-By **Basic Knowledge: Representing Geographic Locations with Coordinates**, describe using a direction angle and a distance. Taking the ship (center of the screen) as the observation point, calibrate the scale and angle reference from $A$ being south by west $70^\circ$ and $4\,n\,\text{mile}$ away; then, according to the directions of $B$, $C$, $D$ on the screen and their distances to the center, write down their direction angles (such as north by east, or south by east by so many degrees) and distances relative to the ship. $\blacksquare$
-
+By Representing Geographic Locations with Coordinates, describe using a direction angle and a distance. Taking the ship (center of the screen) as the observation point, calibrate the scale and angle reference from $A$ being south by west $70^\circ$ and $4\,n\,\text{mile}$ away; then, according to the directions of $B$, $C$, $D$ on the screen and their distances to the center, write down their direction angles (such as north by east, or south by east by so many degrees) and distances relative to the ship. $\blacksquare$
 
 ---
 
@@ -125,7 +100,7 @@ By **Basic Knowledge: Representing Geographic Locations with Coordinates**, desc
 
 ### Solution to Review Exercise 6
 
-By **Basic Knowledge: Representing Translation with Coordinates**, translating left by $\sqrt 3$ units subtracts $\sqrt 3$ from every x-coordinate, while the y-coordinate is unchanged.
+By Representing Translation with Coordinates, translating left by $\sqrt 3$ units subtracts $\sqrt 3$ from every x-coordinate, while the y-coordinate is unchanged.
 
 $A\left(\sqrt 3,\sqrt 3\right)\to A'\left(0,\sqrt 3\right)$.
 
@@ -136,7 +111,6 @@ $C\left(2\sqrt 3,0\right)\to C'\left(\sqrt 3,0\right)$.
 $O\left(0,0\right)\to O'\left(-\sqrt 3,0\right)$.
 
 That is, $A'\left(0,\sqrt 3\right)$, $B'\left(2\sqrt 3,\sqrt 3\right)$, $C'\left(\sqrt 3,0\right)$, $O'\left(-\sqrt 3,0\right)$. $\blacksquare$
-
 
 ---
 
@@ -150,10 +124,9 @@ That is, $A'\left(0,\sqrt 3\right)$, $B'\left(2\sqrt 3,\sqrt 3\right)$, $C'\left
 
 ### Solution to Review Exercise 7
 
-(1) These points all have y-coordinate $3$, with x-coordinates varying in order. By **Basic Knowledge: Coordinates of a Point**, their distances to the $x$-axis are all the same; hence these points lie on one straight line, which is parallel to the $x$-axis (and lies above the $x$-axis at a distance of $3$ units).
+(1) These points all have y-coordinate $3$, with x-coordinates varying in order. By Coordinates of a Point, their distances to the $x$-axis are all the same; hence these points lie on one straight line, which is parallel to the $x$-axis (and lies above the $x$-axis at a distance of $3$ units).
 
 (2) These points all have x-coordinate $3$, with y-coordinates varying in order, and their distances to the $y$-axis are all the same. Hence these points lie on one straight line, which is parallel to the $y$-axis (lies to the right of the $y$-axis at a distance of $3$ units) and perpendicular to the $x$-axis. $\blacksquare$
-
 
 ---
 
@@ -171,12 +144,11 @@ That is, $A'\left(0,\sqrt 3\right)$, $B'\left(2\sqrt 3,\sqrt 3\right)$, $C'\left
 
 The figure shows a scatter plot with the horizontal axis representing weekly after-school time spent on the internet (unit: $h$) and the vertical axis representing weekly after-school time spent on physical exercise (unit: $h$), with data points for $10$ students.
 
-(1) By **Basic Knowledge: Rectangular Coordinate System**, let the horizontal axis represent out-of-class time spent on surfing the internet and the vertical axis represent out-of-class time spent on physical exercise; plot the $10$ points according to the data in the figure.
+(1) By Rectangular Coordinate System, let the horizontal axis represent out-of-class time spent on surfing the internet and the vertical axis represent out-of-class time spent on physical exercise; plot the $10$ points according to the data in the figure.
 
 (2) Points on the diagonal have equal x- and y-coordinates, meaning this student spends the same amount of time per week on physical exercise as on surfing the internet.
 
 (3) Points above and to the left of the diagonal have y-coordinate (exercise time) greater than x-coordinate (internet time), i.e. more time on physical exercise than on surfing the internet. Points below and to the right of the diagonal have y-coordinate less than x-coordinate, i.e. more time on surfing the internet than on physical exercise. $\blacksquare$
-
 
 ---
 
@@ -186,8 +158,7 @@ The figure shows a scatter plot with the horizontal axis representing weekly aft
 
 ### Solution to Review Exercise 9
 
-By **Basic Knowledge: Representing Geographic Locations with Coordinates**, choose Pagoda Hill (or the Yan'an Revolutionary Memorial) as the origin, east as the positive $x$-axis direction, north as the positive $y$-axis direction, and let one small square represent $350\,m$. Measure the grids of each location — Zaoyuan Revolutionary Site, Yan'an University, Yangjialing Revolutionary Site, Yan'an Revolutionary Memorial, Wangjiaping Revolutionary Site, Fenghuangshan Revolutionary Site, Pagoda Hill — relative to the origin, and write down their coordinates. $\blacksquare$
-
+By Representing Geographic Locations with Coordinates, choose Pagoda Hill (or the Yan'an Revolutionary Memorial) as the origin, east as the positive $x$-axis direction, north as the positive $y$-axis direction, and let one small square represent $350\,m$. Measure the grids of each location — Zaoyuan Revolutionary Site, Yan'an University, Yangjialing Revolutionary Site, Yan'an Revolutionary Memorial, Wangjiaping Revolutionary Site, Fenghuangshan Revolutionary Site, Pagoda Hill — relative to the origin, and write down their coordinates. $\blacksquare$
 
 ---
 
@@ -199,10 +170,9 @@ The figure shows a location map of five delivery stations, with the neighborhood
 
 ### Solution to Review Exercise 10
 
-By **Basic Knowledge: Representing Geographic Locations with Coordinates**, take the neighborhood committee as the origin, east as the positive $x$-axis direction, north as the positive $y$-axis direction, and choose a scale (such as one unit representing $500\,m$).
+By Representing Geographic Locations with Coordinates, take the neighborhood committee as the origin, east as the positive $x$-axis direction, north as the positive $y$-axis direction, and choose a scale (such as one unit representing $500\,m$).
 
 First (neighborhood committee): $\left(0,0\right)$. Second, north by east $30^\circ$, $2000\,m$: draw it according to the direction angle and distance. Third, due west $4500\,m$: $\left(-4500,0\right)$. Fourth, southeast $3000\,m$: draw a point $3000\,m$ away in the southeast direction. Fifth, due south $2500\,m$: $\left(0,-2500\right)$. Just mark these five points on the plan. $\blacksquare$
-
 
 ---
 
@@ -231,7 +201,6 @@ $$
 $$
 
 $\blacksquare$
-
 
 ---
 

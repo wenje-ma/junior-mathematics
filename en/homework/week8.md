@@ -1,25 +1,5 @@
 # week8
 
-> **Basic Knowledge: Rules for Addition of Rational Numbers**
-> 
-> When two numbers of the same sign are added, the sum takes the same sign; when two numbers of opposite signs are added, the sum takes the sign of the addend with the larger absolute value; adding two numbers that are opposites of each other gives $0$.
-
-> **Basic Knowledge: Rules for Subtraction of Rational Numbers**
-> 
-> Subtracting a number is equivalent to adding the opposite number of that number.
-
-> **Basic Knowledge: Rules for Multiplication of Rational Numbers**
-> 
-> When two numbers are multiplied, like signs give positive and opposite signs give negative, and the absolute value of the product equals the product of the absolute values of the factors.
-
-> **Basic Knowledge: Rules for Division of Rational Numbers**
-> 
-> Dividing by a number not equal to $0$ is equivalent to multiplying by the reciprocal of that number.
-
-> **Basic Knowledge: Scientific Notation**
-> 
-> Expressing a number greater than $10$ in the form $a\times 10^{n}$ ($1\le a< 10$, where $n$ is a positive integer).
-
 ---
 
 ## Activity 1
@@ -28,10 +8,9 @@
 
 ### Solution to Activity 1
 
-By **Basic Knowledge: Rules for Addition of Rational Numbers**, the total income, total expenditure, and total balance are respectively the algebraic sums of the income and expenditure data.
+By Rules for Addition of Rational Numbers, the total income, total expenditure, and total balance are respectively the algebraic sums of the income and expenditure data.
 
 Let the daily income/expenditure of a certain week be in turn $a_{1}$, $a_{2}$, $\cdots$, $a_{7}$ (income positive, expenditure negative). The total income is the sum of all the positive numbers, the total expenditure is the sum of the absolute values of all the negative numbers, and the total balance is the sum of the seven numbers. The average daily expenditure equals the total expenditure divided by the number of days, $7$. Comparing the proportions of the various expenditures, one can make reasonable suggestions for the family's expenditure. $\blacksquare$
-
 
 ---
 
@@ -43,6 +22,6 @@ The figure is a $3\times3$ magic-square grid with $9$ empty cells, into which th
 
 ### Solution to Activity 2
 
-By **Basic Knowledge: Rules for Addition of Rational Numbers**.
+By Rules for Addition of Rational Numbers.
 
 The sum of the nine numbers is $-4+\left(-3\right)+\cdots+4=0$; since the sums of the three rows are equal, the sum of the three numbers in each row is $0\div 3=0$. The number in the center cell appears a total of $4$ times in the horizontal, vertical, and the two diagonals, so it should be the middle number of the nine, $0$. Pair the nine numbers about $0$ as $-4$ with $4$, $-3$ with $3$, $-2$ with $2$, $-1$ with $1$, so that the two numbers on each line through the center are opposites of each other, that is, their sum is $0$. The filled magic square is as shown in the figure, and the sum of each row, each column, and each diagonal is $0$. $\blacksquare$

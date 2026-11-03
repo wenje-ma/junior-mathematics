@@ -1,10 +1,6 @@
 # week137
 
-> **Basic Knowledge: The Parabola $y=ax^2+bx+c$**
-> 
-> Axis of symmetry $x=-\frac b{2a}$, vertex $\left(-\frac b{2a},\frac{4ac-b^2}{4a}\right)$. When $a< 0$, the maximum is taken at the vertex; when $a> 0$, the minimum is taken at the vertex.
 ---
-
 
 ### Activity 1
 
@@ -20,7 +16,7 @@ $$
 y=\left(90+x\right)\left(100-x\right)=-x^2+10x+9000.
 $$
 
-By **Basic Knowledge**, $a=-1< 0$; the product is maximized at $x=-\frac{10}{2\left(-1\right)}=5$, at which both factors are $95$, and the maximum product is $95\times95=9025$.
+By The Parabola $y=ax^2+bx+c$, $a=-1< 0$; the product is maximized at $x=-\frac{10}{2\left(-1\right)}=5$, at which both factors are $95$, and the maximum product is $95\times95=9025$.
 
 (2) Let the number formed by the last two digits of the first factor be $x$; then the two factors are $900+x$ and $1000-x$, and the product is
 
@@ -28,7 +24,7 @@ $$
 y=\left(900+x\right)\left(1000-x\right)=-x^2+100x+900000.
 $$
 
-By **Basic Knowledge**, the product is maximized at $x=\frac{100}{2}=50$, at which both factors are $950$, and the maximum product is $950\times950=902500$.
+By The Parabola $y=ax^2+bx+c$, the product is maximized at $x=\frac{100}{2}=50$, at which both factors are $950$, and the maximum product is $950\times950=902500$.
 
 Pattern: when the sum of two positive numbers is fixed, the product is larger the closer the numbers are, and is maximized when they are equal. $\blacksquare$
 

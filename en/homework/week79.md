@@ -1,53 +1,6 @@
 # week79
 
-> **Basic Knowledge: Multiplication of a Monomial by a Monomial**
-> 
-> Multiply their coefficients and their powers with the same base separately to form factors of the product; for a letter appearing in only one monomial, take it together with its exponent as a factor of the product.
-> **Basic Knowledge: Division of Powers with the Same Base**
-> 
-> Divide powers with the same base by keeping the base and subtracting the exponents: a^m / a^n = a^{m-n}.
-> **Basic Knowledge: Division of a Monomial by a Monomial**
-> 
-> Divide the coefficients and the same-base powers separately; any letter appearing only in the dividend carries over to the quotient.
-> **Basic Knowledge: Division of a Polynomial by a Monomial**
-> 
-> Division of a Polynomial by a Monomial.
-> **Basic Knowledge: Multiplication of a Monomial by a Polynomial**
-> 
-> Multiply each term of the polynomial by the monomial and add the products.
-> **Basic Knowledge: Multiplication of a Polynomial by a Polynomial**
-> 
-> Multiply each term of one polynomial by each term of the other and add the products.
-> **Basic Knowledge: Zero Exponent Power**
-> 
-> Any nonzero number to the power 0 equals 1: a^0 = 1.
-
 ---
-
-
-> **Basic Knowledge: Multiplication of a Monomial by a Polynomial** 
-> 
-> Multiply each term of the polynomial by the monomial, then add the resulting products, i.e. $p\left(a+b+c\right)=pa+pb+pc$.
-
-> **Basic Knowledge: Multiplication of a Polynomial by a Polynomial** 
-> 
-> First multiply each term of one polynomial by each term of the other polynomial, then add the resulting products, i.e. $\left(a+b\right)\left(p+q\right)=ap+aq+bp+bq$.
-
-> **Basic Knowledge: Division of Powers with the Same Base** 
-> 
-> $a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ are both positive integers, $m> n$); that is, when dividing powers with the same base, the base is unchanged and the exponents are subtracted.
-
-> **Basic Knowledge: Zero Exponent Power** 
-> 
-> $a^0=1$ ($a\ne0$); that is, the $0$-th power of any number not equal to $0$ equals $1$.
-
-> **Basic Knowledge: Division of a Monomial by a Monomial** 
-> 
-> Divide the coefficients and the powers with the same base separately to form factors of the quotient; for a letter appearing only in the dividend, take it together with its exponent as a factor of the quotient.
-
-> **Basic Knowledge: Division of a Polynomial by a Monomial** 
-> 
-> First divide each term of this polynomial by the monomial, then add the resulting quotients.
 
 ## Exercise 1
 
@@ -63,7 +16,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Multiplication of a Monomial by a Monomial**.
+By Multiplication of a Monomial by a Monomial.
 
 (1) Incorrect. $3a^3\cdot2a^2=6a^{3+2}=6a^5$; for powers with the same base the exponents should be added.
 
@@ -87,7 +40,7 @@ By **Basic Knowledge: Multiplication of a Monomial by a Monomial**.
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $3x^2\cdot5x^3=15x^5$.
 
@@ -137,7 +90,7 @@ That is, the distance traveled by the satellite in orbiting the earth for $1\ \t
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Multiplication of a Monomial by a Polynomial**.
+By Multiplication of a Monomial by a Polynomial.
 
 (1) Incorrect. $\left(-2x\right)\left(x^2-x\right)=-2x^3+2x^2$; the second term $\left(-2x\right)\left(-x\right)$ should be positive.
 
@@ -157,7 +110,7 @@ By **Basic Knowledge: Multiplication of a Monomial by a Polynomial**.
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $3a\left(5a-2b\right)=15a^2-6ab$.
 
@@ -173,7 +126,7 @@ By **Basic Knowledge**.
 
 ### Solution to Exercise 7
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 $$
 x\left(x-1\right)+2x\left(x+1\right)-3x\left(2x-5\right)=x^2-x+2x^2+2x-6x^2+15x=-3x^2+16x.
@@ -213,7 +166,7 @@ Substituting $x=\frac12$, we get $-2\cdot\frac14+\frac12=-\frac12+\frac12=0$. $\
 
 ### Solution to Exercise 9
 
-By **Basic Knowledge: Multiplication of a Polynomial by a Polynomial**.
+By Multiplication of a Polynomial by a Polynomial.
 
 (1) $\left(2x+1\right)\left(x+3\right)=2x^2+6x+x+3=2x^2+7x+3$.
 
@@ -243,7 +196,7 @@ From the above results find a pattern; observe the figure and fill in the blank:
 
 ### Solution to Exercise 10
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $\left(x+2\right)\left(x+3\right)=x^2+5x+6$.
 
@@ -265,7 +218,7 @@ $\blacksquare$
 
 ### Solution to Exercise 11
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 $$\left(x-y\right)\left(x^2+xy+y^2\right)=x^3-y^3,$$
 
@@ -287,7 +240,7 @@ Substituting $x=5,y=5$, we have $x-y=0$, so the original expression $=0-\left(x+
 
 ### Solution to Exercise 12
 
-By **Basic Knowledge: Division of Powers with the Same Base** and **Basic Knowledge: Zero Exponent Power**.
+By Division of Powers with the Same Base and Zero Exponent Power.
 
 (1) $x^7\div x^5=x^2$.
 
@@ -311,7 +264,7 @@ By **Basic Knowledge: Division of Powers with the Same Base** and **Basic Knowle
 
 ### Solution to Exercise 13
 
-By **Basic Knowledge: Division of a Monomial by a Monomial**.
+By Division of a Monomial by a Monomial.
 
 (1) $\left(10ab^3\right)\div\left(-5ab\right)=-2b^2$.
 
@@ -331,7 +284,7 @@ By **Basic Knowledge: Division of a Monomial by a Monomial**.
 
 ### Solution to Exercise 14
 
-By **Basic Knowledge: Division of a Polynomial by a Monomial**.
+By Division of a Polynomial by a Monomial.
 
 (1) $\left(6ab+5a\right)\div a=6b+5$.
 
@@ -351,7 +304,7 @@ By **Basic Knowledge: Division of a Polynomial by a Monomial**.
 
 ### Solution to Problem 1
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $3x\cdot6x^2 y=18x^3 y$.
 
@@ -375,7 +328,7 @@ By **Basic Knowledge**.
 
 ### Solution to Problem 2
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $\left(4a-b^2\right)\left(-2b\right)=-8ab+2b^3$.
 
@@ -403,7 +356,7 @@ By **Basic Knowledge**.
 
 ### Solution to Problem 3
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $\left(x-6\right)\left(x-3\right)=x^2-9x+18$.
 
@@ -435,7 +388,7 @@ By **Basic Knowledge**.
 
 ### Solution to Problem 4
 
-By **Basic Knowledge** and **Basic Knowledge**.
+By Basic Knowledge and Basic Knowledge.
 
 (1) $\left(a^3\right)^2\div\left(a^2\right)^3=a^6\div a^6=1$.
 

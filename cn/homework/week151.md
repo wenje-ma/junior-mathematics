@@ -1,22 +1,6 @@
 # week151
 
-> **基础知识: 垂径定理**
-> 
-> 垂直于弦的直径平分弦, 并且平分弦所对的两条弧.
-> **基础知识: 圆心角, 弧, 弦的关系**
-> 
-> 在同圆或等圆中, 相等的圆心角所对的弧相等, 所对的弦也相等.
-> **基础知识: 圆周角定理**
-> 
-> 一条弧所对的圆周角等于它所对的圆心角的一半.
-> **基础知识: 圆周角推论**
-> 
-> 同弧或等弧所对的圆周角相等; 半圆所对的圆周角是直角; $90^\circ$ 的圆周角所对的弦是直径.
-> **基础知识: 圆内接四边形的性质**
-> 
-> 圆内接四边形的对角互补.
 ---
-
 
 ## 习题一
 
@@ -28,7 +12,7 @@
 
 ### 解答 习题一
 
-由**基础知识: 垂径定理**.
+由垂径定理.
 
 $OA=OB=1$, $AB=1$, 故 $\triangle OAB$ 为等边三角形, $\angle AOB=60^\circ$.
 
@@ -54,7 +38,7 @@ $\blacksquare$
 
 ### 解答 习题三
 
-由**基础知识: 垂径定理** 及**基础知识: 圆周角定理**.
+由垂径定理 及圆周角定理.
 
 $OA\perp BC$, 故 $\overset{\frown}{AB}=\overset{\frown}{AC}$, $\angle AOB$ 对应 $\overset{\frown}{AB}$, $\angle ADC$ 是 $\overset{\frown}{AC}$ 所对的圆周角, 故
 
@@ -70,7 +54,7 @@ $\blacksquare$
 
 ### 解答 习题四
 
-由**基础知识: 圆周角推论**, 直径所对圆周角为直角.
+由圆周角推论, 直径所对圆周角为直角.
 
 曲尺直角顶点靠在弧上时, 两边与直径两端对齐者为合格半圆形工件. $\blacksquare$
 
@@ -80,7 +64,7 @@ $\blacksquare$
 
 ### 解答 习题五
 
-由**基础知识: 圆内接四边形的性质**.
+由圆内接四边形的性质.
 
 平行四边形对角相等, 圆内接四边形对角互补, 故每对角均为 $90^\circ$, 故为矩形. $\blacksquare$
 
@@ -90,7 +74,7 @@ $\blacksquare$
 
 ### 解答 习题六
 
-由**基础知识: 垂径定理**.
+由垂径定理.
 
 圆心到 $AB$ 距离 $d_1=\sqrt{13^2-12^2}=5$; 到 $CD$ 距离 $d_2=\sqrt{13^2-5^2}=12$. 两弦在圆心同侧时距离为 $12-5=7$; 在异侧时为 $12+5=17$. $\blacksquare$
 
@@ -100,7 +84,7 @@ $\blacksquare$
 
 ### 解答 习题七
 
-由**基础知识: 垂径定理**.
+由垂径定理.
 
 $MN$ 垂直平分 $AB$, 故 $MN$ 过圆心 $O$. 又 $AB\parallel CD$, 故 $MN\perp CD$, 由垂径定理 $MN$ 平分 $CD$. $\blacksquare$
 
@@ -110,7 +94,7 @@ $MN$ 垂直平分 $AB$, 故 $MN$ 过圆心 $O$. 又 $AB\parallel CD$, 故 $MN\pe
 
 ### 解答 习题八
 
-由**基础知识: 垂径定理**.
+由垂径定理.
 
 设半径为 $R$, $AD=150$, $OD=R-45$. 在 $\text{Rt}\triangle OAD$ 中,
 
@@ -126,7 +110,7 @@ $$
 
 ### 解答 习题九
 
-由**基础知识: 圆心角, 弧, 弦的关系**.
+由圆心角, 弧, 弦的关系.
 
 $C$ 为 $\overset{\frown}{AB}$ 中点, 故 $\angle AOC=\angle COB=60^\circ$. $OA=OC$, $\triangle AOC$ 为等边三角形, $AC=OA$. 同理 $BC=OB$. 故 $OA=AC=CB=BO$, 四边形 $OACB$ 为菱形. $\blacksquare$
 
@@ -136,7 +120,7 @@ $C$ 为 $\overset{\frown}{AB}$ 中点, 故 $\angle AOC=\angle COB=60^\circ$. $OA
 
 ### 解答 习题十
 
-由**基础知识: 圆周角定理**.
+由圆周角定理.
 
 $\angle ABC=\angle APC=60^\circ$, $\angle BAC=\angle CPB=60^\circ$, 故 $\angle ACB=60^\circ$, $\triangle ABC$ 为等边三角形. $\blacksquare$
 
@@ -146,7 +130,7 @@ $\angle ABC=\angle APC=60^\circ$, $\angle BAC=\angle CPB=60^\circ$, 故 $\angle 
 
 ### 解答 习题十一
 
-由**基础知识: 圆心角, 弧, 弦的关系**.
+由圆心角, 弧, 弦的关系.
 
 $AD=BC$, 故 $\overset{\frown}{AD}=\overset{\frown}{BC}$. 两边同时加 $\overset{\frown}{AC}$, 得 $\overset{\frown}{ADC}=\overset{\frown}{BCD}$, 即 $\overset{\frown}{CD}=\overset{\frown}{AB}$, 故 $AB=CD$. $\blacksquare$
 
@@ -156,7 +140,7 @@ $AD=BC$, 故 $\overset{\frown}{AD}=\overset{\frown}{BC}$. 两边同时加 $\over
 
 ### 解答 习题十二
 
-由**基础知识: 垂径定理**.
+由垂径定理.
 
 设半径为 $R$, $OM=\sqrt{R^2-\left(AB/2\right)^2}$, $ON=\sqrt{R^2-\left(CD/2\right)^2}$. $AB> CD$ 时 $\left(AB/2\right)^2> \left(CD/2\right)^2$, 故 $OM< ON$. $\blacksquare$
 
@@ -166,7 +150,7 @@ $AD=BC$, 故 $\overset{\frown}{AD}=\overset{\frown}{BC}$. 两边同时加 $\over
 
 ### 解答 习题十三
 
-由**基础知识: 圆周角推论**.
+由圆周角推论.
 
 过 $A$ 作 $AB\perp MN$ 于 $B$. 在 $\text{Rt}\triangle AOB$ 中, $\angle AOB=30^\circ$, $AO=200$, 故 $AB=AO\sin30^\circ=100< 200$, 居民楼会受到噪声影响.
 
@@ -184,6 +168,6 @@ $\blacksquare$
 
 ### 解答 习题十四
 
-由**基础知识: 圆周角定理**.
+由圆周角定理.
 
 以 $AB$ 为弦作圆, $\angle ACB$ 是浅滩边界上的圆周角. 当船在圆外时, $\angle APB< \angle ACB$; 当船在圆内 (浅滩) 时, $\angle APB> \angle ACB$. 故保持 $\angle APB< \angle ACB$ 可使船在浅滩边界圆之外. $\blacksquare$

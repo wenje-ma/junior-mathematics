@@ -1,26 +1,6 @@
 # week130
 
-> **Basic Knowledge: Setting Up Equations for Word Problems**
-> 
-> The general steps for solving a practical problem by setting up a quadratic equation: analyze the problem, set up the unknown, write the equation according to the equal relation, solve the equation, check whether the roots make practical sense, and give the answer.
-> **Basic Knowledge: Growth-Rate and Decline-Rate Model**
-> 
-> Let the original quantity be $a$ and the average growth rate be $x$; after two changes it is $a\left(1+x\right)^2$. If the average decline rate is $x$, then after two changes it is $a\left(1-x\right)^2$.
-> **Basic Knowledge: Propagation Model**
-> 
-> If there is initially $1$ person, and in each round each $1$ person infects $x$ others on average, then after two rounds a total of $\left(1+x\right)^2$ people are infected.
-> **Basic Knowledge: Match-Schedule Model**
-> 
-> $n$ teams in a single round-robin play $\frac{n\left(n-1\right)}2$ matches in total; in a home-and-away double round-robin they play $n\left(n-1\right)$ matches.
-> **Basic Knowledge: Diagonals of a Convex Polygon**
-> 
-> A convex $n$-gon has $\frac{n\left(n-3\right)}2$ diagonals in total.
-> **Basic Knowledge: Growth-Rate Model**
-> 
-> If the original quantity is a and the average growth rate is x, then after two periods it is a(1+x)^2.
-
 ---
-
 
 ## Exercise 1
 
@@ -96,7 +76,7 @@ Rearranging gives $x^2+x-90=0$, i.e. $\left(x+10\right)\left(x-9\right)=0$, solv
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Growth-Rate Model**, let the average annual growth rate be $x$; after two years,
+By Growth-Rate Model, let the average annual growth rate be $x$; after two years,
 
 $$
 15000\left(1+x\right)^2=18000.
@@ -130,7 +110,7 @@ i.e. $n\left(n-1\right)=20$, $n^2-n-20=0$, i.e. $\left(n-5\right)\left(n+4\right
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge: Diagonals of a Convex Polygon**, a convex $n$-gon has $\frac{n\left(n-3\right)}2$ diagonals.
+By Diagonals of a Convex Polygon, a convex $n$-gon has $\frac{n\left(n-3\right)}2$ diagonals.
 
 With $20$ diagonals, set up $\frac{n\left(n-3\right)}2=20$, i.e. $n\left(n-3\right)=40$, $n^2-3n-40=0$, i.e. $\left(n-8\right)\left(n+5\right)=0$, solving gives $n=8$ (discarding the negative root). Hence it is an octagon.
 
@@ -170,7 +150,7 @@ i.e. $x\left(14-x\right)=48$, $x^2-14x+48=0$, i.e. $\left(x-6\right)\left(x-8\ri
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Match-Schedule Model**, $n$ teams in a double round-robin play $n\left(n-1\right)$ matches. Set up
+By Match-Schedule Model, $n$ teams in a double round-robin play $n\left(n-1\right)$ matches. Set up
 
 $$
 n\left(n-1\right)=90.
@@ -184,7 +164,7 @@ i.e. $n^2-n-90=0$, i.e. $\left(n-10\right)\left(n+9\right)=0$, solving gives $n=
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Growth-Rate Model**, let the average annual growth rate be $x$; after two years the volume is $635.2\left(1+x\right)^2$. Set up
+By Growth-Rate Model, let the average annual growth rate be $x$; after two years the volume is $635.2\left(1+x\right)^2$. Set up
 
 $$
 635.2\left(1+x\right)^2=1083.0.

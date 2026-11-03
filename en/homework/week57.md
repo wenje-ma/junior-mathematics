@@ -1,33 +1,5 @@
 # week57
 
-> **Basic Knowledge: Pie Chart**
-> 
-> A circle represents the population, each sector represents a part of the population, and the size of the sector reflects that part's percentage of the population; the sector's central angle $=360^\circ\times$ percentage.
-
-> **Basic Knowledge: Bar Chart**
-> 
-> The height of a small rectangle represents the quantity of each category, making it easy to compare the sizes of the data.
-
-> **Basic Knowledge: Line Chart**
-> 
-> The rise or fall of a broken line represents the increase or decrease of data over time, helping to show the development trend.
-
-> **Basic Knowledge: Frequency and Relative Frequency**
-> 
-> The number of data falling in each group is called the frequency; the ratio of the frequency to the total number of data is called the relative frequency.
-
-> **Basic Knowledge: Class Width and Number of Classes**
-> 
-> The distance between the two endpoints of each group is called the class width; the number of groups is called the number of classes. Dividing the range by the class width, taking the integer and adding $1$ gives the number of classes.
-
-> **Basic Knowledge: Frequency Distribution Histogram**
-> 
-> The horizontal axis represents the data groups and the vertical axis represents the frequency, using the area of a small rectangle (the height when equally spaced) to reflect the frequency of each group.
-
-> **Basic Knowledge: Trend Chart**
-> 
-> A statistical chart using a line (straight or curved) to describe the relationship between one quantity and another, helping to predict the change of one quantity from the change of the other.
-
 ---
 
 ## Exercise 1
@@ -48,7 +20,6 @@
 
 (3) The art club accounts for $10\%$. $\blacksquare$
 
-
 ---
 
 ## Exercise 2
@@ -65,7 +36,6 @@
 
 (2) Qingshan $\frac{1}{5}=20\%$, central angle $72^\circ$; Lvshui $\frac{2}{5}=40\%$, central angle $144^\circ$; Xiangyang $40\%$, central angle $144^\circ$. $\blacksquare$
 
-
 ---
 
 ## Exercise 3
@@ -75,7 +45,6 @@
 ### Solution to Exercise 3
 
 The total budget is $2100+1750+1100+550+350+500+350+300=7000$ yuan. Use a pie chart. The percentages of each item: food $30\%$, housing loan $25\%$, education $15.7\%$, transportation $7.9\%$, clothing $5\%$, medical care $7.1\%$, living goods $5\%$, other $4.3\%$. $\blacksquare$
-
 
 ---
 
@@ -87,8 +56,7 @@ The figure is a compound line chart with years (2013–2022) on the horizontal a
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Line Chart**, draw a composite line chart as shown. Except for a slight dip from 2014 to 2016, both exports and imports overall grow year by year, and the total exports exceed the total imports every year. $\blacksquare$
-
+By Line Chart, draw a composite line chart as shown. Except for a slight dip from 2014 to 2016, both exports and imports overall grow year by year, and the total exports exceed the total imports every year. $\blacksquare$
 
 ---
 
@@ -100,8 +68,7 @@ The figure is a frequency distribution histogram with height groups ($149\le x< 
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Frequency Distribution Histogram**, the histogram is as shown. The three groups $155\le x< 158$, $158\le x< 161$, $161\le x< 164$ have the most students, totaling $12+19+10=41$. Hence $40$ honor guard members may be selected from the height range $155\ \text{cm}$ to $164\ \text{cm}$ (excluding $164$). $\blacksquare$
-
+By Frequency Distribution Histogram, the histogram is as shown. The three groups $155\le x< 158$, $158\le x< 161$, $161\le x< 164$ have the most students, totaling $12+19+10=41$. Hence $40$ honor guard members may be selected from the height range $155\ \text{cm}$ to $164\ \text{cm}$ (excluding $164$). $\blacksquare$
 
 ---
 
@@ -113,8 +80,7 @@ The figure is a trend chart with maximum temperature ($^\circ\text{C}$) on the h
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge: Trend Chart**, plot the scatter points and draw the trend line as shown. The scatter points show an upward trend; the number of cups increases as the temperature rises. Extrapolating from the trend line, at a temperature of $30^\circ\text{C}$ about $155$ cups are sold. $\blacksquare$
-
+By Trend Chart, plot the scatter points and draw the trend line as shown. The scatter points show an upward trend; the number of cups increases as the temperature rises. Extrapolating from the trend line, at a temperature of $30^\circ\text{C}$ about $155$ cups are sold. $\blacksquare$
 
 ---
 
@@ -125,7 +91,6 @@ By **Basic Knowledge: Trend Chart**, plot the scatter points and draw the trend 
 ### Solution to Exercise 7
 
 Take the father's height as the horizontal axis and the son's height as the vertical axis, plot the scatter points and draw the trend line. The points lie roughly near an upward-sloping line, indicating that the taller the father, the taller the son. From the trend line, when the father is $175\ \text{cm}$ tall, the son is about $176\ \text{cm}$ tall. $\blacksquare$
-
 
 ---
 
@@ -142,7 +107,6 @@ Take the father's height as the horizontal axis and the son's height as the vert
 (1) Literature $\frac{50}{150}=33.3\%$, art $23.3\%$, popular science $18.7\%$, other $24.7\%$.
 
 (2) The number of popular-science books to buy is $4500\times\frac{28}{150}=840$. $\blacksquare$
-
 
 ---
 
@@ -168,7 +132,6 @@ Take the father's height as the horizontal axis and the son's height as the vert
 
 (4) The temperature is low in the early morning, rises gradually after $4$ o'clock, reaches the maximum at $14$ o'clock, and then falls gradually. $\blacksquare$
 
-
 ---
 
 ## Problem 3
@@ -178,7 +141,6 @@ Take the father's height as the horizontal axis and the son's height as the vert
 ### Solution to Problem 3
 
 Use a composite line chart to describe total automobile sales and new-energy sales, then a line chart to describe the new-energy proportion $\frac{\text{新能源}}{\text{总销量}}$: about $1.8\%,2.7\%,4.5\%,4.7\%,5.4\%,13.4\%,25.6\%$. It can be seen that the proportion of new-energy vehicle sales has risen rapidly since 2020. $\blacksquare$
-
 
 ---
 
@@ -208,7 +170,6 @@ Use a composite line chart to describe total automobile sales and new-energy sal
 
 (5) Most students have between $100\sim140$ skips, medium performance; a few exceed $180$ skips. $\blacksquare$
 
-
 ---
 
 ## Problem 5
@@ -224,7 +185,6 @@ Use a composite line chart to describe total automobile sales and new-energy sal
 (1) Planting $11\%-38\%=-27\%$, decreased; breeding $27\%-24\%=+3\%$, increased; tertiary industry $56\%-30\%=+26\%$, increased; other $6\%-8\%=-2\%$, decreased.
 
 (2) The tertiary industry already accounts for $56\%$ and grows fastest, so it may become the pillar industry. $\blacksquare$
-
 
 ---
 
@@ -242,7 +202,6 @@ Use a composite line chart to describe total automobile sales and new-energy sal
 
 (2) A side-by-side composite bar chart shows the urban and rural numbers within a province side by side, making it easier to compare. $\blacksquare$
 
-
 ---
 
 ## Problem 7
@@ -252,7 +211,6 @@ Use a composite line chart to describe total automobile sales and new-energy sal
 ### Solution to Problem 7
 
 The range is $24.4-18.5=5.9$; take a class width of $0.5$ and divide into about $12$ groups. Most weeks' sales fall between $20.0\sim23.0\ \text{t}$. Hence buying about $21\sim22\ \text{t}$ of flour each week is appropriate, meeting demand without causing backlog. $\blacksquare$
-
 
 ---
 
@@ -264,7 +222,6 @@ The range is $24.4-18.5=5.9$; take a class width of $0.5$ and divide into about 
 
 Take the year as the horizontal axis and GDP as the vertical axis; plot the points and draw the trend line. The overall trend is upward; extrapolating from the trend line, the 2023 GDP is about $128$ trillion yuan. $\blacksquare$
 
-
 ---
 
 ## Problem 9
@@ -274,7 +231,6 @@ Take the year as the horizontal axis and GDP as the vertical axis; plot the poin
 ### Solution to Problem 9
 
 Use a composite line chart: one line shows the export value, with a rapidly rising trend; the other shows the proportion, which rose from 1995 to 2010 and then stabilized around $30\%$. $\blacksquare$
-
 
 ---
 

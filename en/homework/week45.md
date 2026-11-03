@@ -1,21 +1,5 @@
 # week45
 
-> **Basic Knowledge: Linear Equation in Two Variables**
-> 
-> An equation that contains two unknowns, the expressions containing the unknowns are all integral expressions, and the degree of each term containing an unknown is $1$.
-
-> **Basic Knowledge: System of Linear Equations in Two Variables**
-> 
-> A system that contains two unknowns, the expressions containing the unknowns are all integral expressions, the degree of each term containing an unknown is $1$, and there are two equations in total.
-
-> **Basic Knowledge: Solution of a Linear Equation in Two Variables**
-> 
-> The values of the two unknowns that make the two sides of the linear equation in two variables equal.
-
-> **Basic Knowledge: Solution of a System of Linear Equations in Two Variables**
-> 
-> The common solution of the two equations in the system of linear equations in two variables.
-
 ---
 
 ## Exercise 1
@@ -24,7 +8,7 @@
 
 ### Solution to Exercise 1
 
-Let $x$ be the days before the upgrade and $y$ the days after the upgrade. By **Basic Knowledge: Linear Equation in Two Variables**, $x$, $y$ are the two unknowns; according to the problem,
+Let $x$ be the days before the upgrade and $y$ the days after the upgrade. By Linear Equation in Two Variables, $x$, $y$ are the two unknowns; according to the problem,
 
 $$
 \begin{cases}
@@ -43,7 +27,6 @@ i.e. $16+2y=28$, giving $y=6$, and hence $x=8-6=2$.
 
 Check: $2\times2+4\times6=4+24=28$, which fits the problem. Thus $2$ days were spent before the upgrade and $6$ days after the upgrade. $\blacksquare$
 
-
 ---
 
 ## Exercise 2
@@ -52,7 +35,7 @@ Check: $2\times2+4\times6=4+24=28$, which fits the problem. Thus $2$ days were s
 
 ### Solution to Exercise 2
 
-Let $x$ be the number of wins and $y$ the number of losses. By **Basic Knowledge: Linear Equation in Two Variables**, according to the problem,
+Let $x$ be the number of wins and $y$ the number of losses. By Linear Equation in Two Variables, according to the problem,
 
 $$
 \begin{cases}
@@ -64,7 +47,6 @@ $$
 Subtracting the two equations gives $x=6$, and hence $y=10-6=4$.
 
 Check: $2\times6+4=16$, which fits the problem. Thus this team won $6$ games and lost $4$ games. $\blacksquare$
-
 
 ---
 
@@ -78,14 +60,13 @@ Check: $2\times6+4=16$, which fits the problem. Thus this team won $6$ games and
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Solution of a Linear Equation in Two Variables**, the $x$, $y$ that make both sides of $3x+y=5$ equal are the solutions.
+By Solution of a Linear Equation in Two Variables, the $x$, $y$ that make both sides of $3x+y=5$ equal are the solutions.
 
 When $x=-2$, $y=5-3\times\left(-2\right)=11$; when $x=0$, $y=5$; when $x=0.4$, $y=5-3\times0.4=3.8$; when $x=\frac{5}{3}$, $y=5-3\times\frac{5}{3}=0$.
 
 When $y=-1$, $3x-1=5$, giving $x=2$; when $y=-2$, $3x-2=5$, giving $x=\frac{7}{3}$; when $y=-2.5$, $3x-2.5=5$, giving $x=2.5$; when $y=-3$, $3x-3=5$, giving $x=\frac{8}{3}$.
 
 Thus fill in the table in order: $y$ values $11$, $5$, $3.8$, $0$; $x$ values $2$, $\frac{7}{3}$, $2.5$, $\frac{8}{3}$. $\blacksquare$
-
 
 ---
 
@@ -106,10 +87,9 @@ is ( ).
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Solution of a System of Linear Equations in Two Variables**, a pair $x$, $y$ that satisfies both equations at the same time is the solution.
+By Solution of a System of Linear Equations in Two Variables, a pair $x$, $y$ that satisfies both equations at the same time is the solution.
 
 Substitute (C): $1+6\times0.5=1+3=4$, satisfying the first equation; $3\times1-0.5=2.5$, satisfying the second equation. Thus (C) is the solution of the system. $\blacksquare$
-
 
 ---
 
@@ -133,7 +113,6 @@ Since the sum of interior angles of a triangle is $180^\circ$, according to the 
 
 (3) When $y=60$, $x+2\times60=180$, giving $x=60$. $\blacksquare$
 
-
 ---
 
 ## Problem 4
@@ -142,7 +121,7 @@ Since the sum of interior angles of a triangle is $180^\circ$, according to the 
 
 ### Solution to Problem 4
 
-Let $x$ be the number of chickens and $y$ the number of rabbits. By **Basic Knowledge: Linear Equation in Two Variables**, according to the problem,
+Let $x$ be the number of chickens and $y$ the number of rabbits. By Linear Equation in Two Variables, according to the problem,
 
 $$
 \begin{cases}
@@ -154,7 +133,6 @@ $$
 Substitute $x=35-y$ into the second equation: $2\left(35-y\right)+4y=94$, i.e. $70+2y=94$, giving $y=12$, and hence $x=35-12=23$.
 
 Thus there are $23$ chickens and $12$ rabbits. $\blacksquare$
-
 
 ---
 

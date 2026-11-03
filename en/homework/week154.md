@@ -1,32 +1,6 @@
 # week154
 
-> **Basic Knowledge: Position of a Point Relative to a Circle**
-> 
-> $d> r$ outside the circle, $d=r$ on the circle, $d< r$ inside the circle.
-> **Basic Knowledge: Perpendicular Chord Theorem**
-> 
-> A diameter perpendicular to a chord bisects the chord and bisects the two arcs subtended by the chord.
-> **Basic Knowledge: Inscribed Angle Theorem**
-> 
-> The inscribed angle subtended by an arc is half of the central angle subtended by that arc.
-> **Basic Knowledge: Property of a Cyclic Quadrilateral**
-> 
-> The opposite angles of a cyclic quadrilateral are supplementary.
-> **Basic Knowledge: Arc Length Formula**
-> 
-> $l=\frac{n\pi R}{180}$.
-> **Basic Knowledge: Sector Area**
-> 
-> $S=\frac{n\pi R^2}{360}=\frac12 lR$.
-> **Basic Knowledge: Lateral and Total Surface Area of a Cone**
-> 
-> Lateral area S = pi r l; total area S = pi r l + pi r^2.
-> **Basic Knowledge: Three Points Determine a Circle**
-> 
-> Three non-collinear points determine a unique circle.
-
 ---
-
 
 ## Review Problem 1
 
@@ -58,7 +32,7 @@
 
 ### Solution to Review Problem 2
 
-By **Basic Knowledge: Three Points Determine a Circle**.
+By Three Points Determine a Circle.
 
 Draw the perpendicular bisector of $AB$; with $A$ as center and radius $3\,\text{cm}$, draw an arc meeting the perpendicular bisector at two points. Both points are centers, so two circles can be drawn. $\blacksquare$
 
@@ -72,7 +46,7 @@ Draw the perpendicular bisector of $AB$; with $A$ as center and radius $3\,\text
 
 ### Solution to Review Problem 3
 
-By **Basic Knowledge** and **Basic Knowledge**.
+By Basic Knowledge and Basic Knowledge.
 
 (1) $AC$ is a diameter, so $\angle ABC=\angle ADC=90^\circ$. $\angle BCD=180^\circ-\angle BAD=110^\circ$.
 
@@ -88,7 +62,7 @@ By **Basic Knowledge** and **Basic Knowledge**.
 
 ### Solution to Review Problem 4
 
-By **Basic Knowledge** and **Basic Knowledge**.
+By Basic Knowledge and Basic Knowledge.
 
 (1) $S=\frac{120\pi\cdot18^2}{360}=108\pi\approx339\,\text{m}^2$.
 
@@ -100,7 +74,7 @@ By **Basic Knowledge** and **Basic Knowledge**.
 
 ### Solution to Review Problem 5
 
-By **Basic Knowledge: Arc Length Formula**.
+By Arc Length Formula.
 
 Let the radius of the large semicircle be $R$, and the radii of the small semicircles be $r_i$. Since the sum of the diameters of the small semicircles equals the diameter of the large semicircle, $\sum 2r_i=2R$, so $\sum r_i=R$. $L_1=\pi R$, and $L_2=\sum \pi r_i=\pi R$. Hence $L_1=L_2$. $\blacksquare$
 
@@ -110,7 +84,7 @@ Let the radius of the large semicircle be $R$, and the radii of the small semici
 
 ### Solution to Review Problem 6
 
-By **Basic Knowledge: Three Points Determine a Circle**.
+By Three Points Determine a Circle.
 
 On each of the three arcs, take three points to construct the circumcircle, measure the radii, and compare. $\blacksquare$
 
@@ -120,7 +94,7 @@ On each of the three arcs, take three points to construct the circumcircle, meas
 
 ### Solution to Review Problem 7
 
-By **Basic Knowledge: Position of a Point Relative to a Circle**.
+By Position of a Point Relative to a Circle.
 
 The diagonals of a rhombus are perpendicular, and the distances from the four midpoints $E$, $F$, $G$, $H$ to $O$ all equal half the side length, so the four points are concyclic, with center $O$ and radius half the side length. $\blacksquare$
 
@@ -130,7 +104,7 @@ The diagonals of a rhombus are perpendicular, and the distances from the four mi
 
 ### Solution to Review Problem 8
 
-By **Basic Knowledge: Three Points Determine a Circle**.
+By Three Points Determine a Circle.
 
 The circumcenter of an acute triangle lies inside the triangle; the circumcenter of a right triangle lies at the midpoint of the hypotenuse; the circumcenter of an obtuse triangle lies outside the triangle. $\blacksquare$
 
@@ -140,7 +114,7 @@ The circumcenter of an acute triangle lies inside the triangle; the circumcenter
 
 ### Solution to Review Problem 9
 
-By **Basic Knowledge: Three Points Determine a Circle**.
+By Three Points Determine a Circle.
 
 Draw the perpendicular bisectors of $AB$ and $BC$ to find the center, then measure the distance from the center to $A$, which is the radius. $\blacksquare$
 
@@ -150,7 +124,7 @@ Draw the perpendicular bisectors of $AB$ and $BC$ to find the center, then measu
 
 ### Solution to Review Problem 10
 
-By **Basic Knowledge: Inscribed Angle Theorem**.
+By Inscribed Angle Theorem.
 
 Compare $\angle PAQ$ and $\angle PBQ$: the larger viewing angle gives the better shooting opportunity. If the angle subtended by the goal $PQ$ at $B$ is larger, it is better to pass to B; otherwise it is better for A to shoot directly. $\blacksquare$
 
@@ -160,7 +134,7 @@ Compare $\angle PAQ$ and $\angle PBQ$: the larger viewing angle gives the better
 
 ### Solution to Review Problem 11
 
-By **Basic Knowledge: Sector Area**.
+By Sector Area.
 
 The perimeter of the square is $40$, so after reshaping the sector arc length is $40-2\cdot10=20$. The sector radius is $10$, and the area is
 
@@ -176,7 +150,7 @@ $\blacksquare$
 
 ### Solution to Review Problem 12
 
-By **Basic Knowledge: Lateral and Total Surface Area of a Cone**.
+By Lateral and Total Surface Area of a Cone.
 
 Compute the sum of the lateral area of the cylinder and the lateral area of the cone, multiply by $100$ and then by $0.11$ to get the amount of zinc. $\blacksquare$
 
@@ -186,7 +160,7 @@ Compute the sum of the lateral area of the cylinder and the lateral area of the 
 
 ### Solution to Review Problem 13
 
-By **Basic Knowledge: Inscribed Angle Theorem**.
+By Inscribed Angle Theorem.
 
 $BC$ is a diameter, so $\angle BDC=\angle BEC=90^\circ$. $\angle DOE=2\angle DBE=2\angle A=120^\circ$. Also $OD=OE$, so $\triangle ODE$ is an isosceles triangle with vertex angle $120^\circ$. $\blacksquare$
 
@@ -200,7 +174,7 @@ $BC$ is a diameter, so $\angle BDC=\angle BEC=90^\circ$. $\angle DOE=2\angle DBE
 
 ### Solution to Review Problem 14
 
-By **Basic Knowledge** and **Basic Knowledge**.
+By Basic Knowledge and Basic Knowledge.
 
 (1) $AB=a+b$, and $OC=\frac{a+b}{2}$. By the altitude-orthogonality theorem, $CD^2=AD\cdot BD=ab$, so $CD=\sqrt{ab}$.
 

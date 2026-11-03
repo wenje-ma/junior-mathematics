@@ -1,13 +1,6 @@
 # week173
 
-> **Basic Knowledge: Front View, Top View, Left View**
-> 
-> The view obtained in the front plane by observing from front to back is called the front view; the view obtained in the horizontal plane by observing from top to bottom is called the top view; the view obtained in the side plane by observing from left to right is called the left view.
-> **Basic Knowledge: Projection Rules for the Three Views**
-> 
-> Length aligned, height level, width equal. Visible outlines are drawn as solid lines, and invisible outlines as dashed lines.
 ---
-
 
 ### Project 1
 
@@ -15,7 +8,7 @@
 
 ### Solution to Project 1
 
-By **Basic Knowledge: Projection Rules for the Three Views**, imagine the solid shape from the three views: the front view determines the front outline, the top view determines the base shape, and the left view determines the side shape. Cut out the nets corresponding to the three views, fold and glue them, and you obtain the cardboard solid model. $\blacksquare$
+By Projection Rules for the Three Views, imagine the solid shape from the three views: the front view determines the front outline, the top view determines the base shape, and the left view determines the side shape. Cut out the nets corresponding to the three views, fold and glue them, and you obtain the cardboard solid model. $\blacksquare$
 
 ### Project 2
 

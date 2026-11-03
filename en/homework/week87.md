@@ -1,32 +1,6 @@
 # week87
 
-> **Basic Knowledge: Fraction**
-> 
-> If $A,B$ denote two integral expressions and $B$ contains a letter, then the expression $\frac{A}{B}$ is called a fraction. A fraction is meaningful only when $B\ne0$.
-> **Basic Knowledge: Basic Property of Fractions**
-> 
-> The value of a fraction is unchanged if both numerator and denominator are multiplied (or divided) by the same nonzero expression.
-> **Basic Knowledge: finding a common denominator**
-> 
-> Convert fractions with different denominators to equivalent fractions with the same denominator.
-> **Basic Knowledge: reducing a fraction**
-> 
-> Cancel the common factors of the numerator and denominator of a fraction.
-
 ---
-
-
-> **Basic Knowledge: Basic Property of Fractions** 
-> 
-> Multiplying (or dividing) both the numerator and denominator of a fraction by the same integral expression not equal to $0$ does not change the value of the fraction, i.e. $\frac{A}{B}=\frac{A\cdot C}{B\cdot C}=\frac{A\div C}{B\div C}$ ($C\ne0$).
-
-> **Basic Knowledge: Reducing a Fraction and Simplest Fraction** 
-> 
-> According to the basic property of fractions, canceling the common factor of the numerator and denominator of a fraction is called reducing the fraction. A fraction whose numerator and denominator have no common factor is called a simplest fraction.
-
-> **Basic Knowledge: Finding a Common Denominator and Least Common Denominator** 
-> 
-> According to the basic property of fractions, converting several fractions with different denominators into fractions with the same denominator equal to the original ones is called finding a common denominator. Generally, the least common denominator is taken as the product of the highest powers of all factors of the denominators.
 
 ## Exercise 1
 
@@ -54,7 +28,7 @@ $\frac{1}{x}$, $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{a^2 b}{c}$, $\frac{x^2-
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge**, those whose denominator contains a letter are fractions.
+By Basic Knowledge, those whose denominator contains a letter are fractions.
 
 Fractions: $\frac{1}{x}$, $\frac{a^2 b}{c}$.
 
@@ -72,7 +46,7 @@ Integral expressions: $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{x^2-y^2}{\pi}$ (
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge**, the denominator is not $0$.
+By Basic Knowledge, the denominator is not $0$.
 
 (1) $3x\ne0$, i.e. $x\ne0$.
 
@@ -110,7 +84,7 @@ For the fraction to be $0$, the numerator must be $0$ and the denominator not $0
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: reducing a fraction**.
+By reducing a fraction.
 
 (1) $\frac{2bc}{ac}=\frac{2b}{a}$.
 
@@ -148,7 +122,7 @@ By **Basic Knowledge: reducing a fraction**.
 
 ### Solution to Exercise 7
 
-By **Basic Knowledge: finding a common denominator**.
+By finding a common denominator.
 
 (1) Least common denominator $6x^2 y^2$: $\frac{z}{2x^2 y}=\frac{3yz}{6x^2 y^2}$, $\frac{5}{6xy^2}=\frac{5x}{6x^2 y^2}$.
 
@@ -184,7 +158,7 @@ $\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y
 
 ### Solution to Problem 2
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 Fractions: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2 y}$, $\frac{2ab}{\left(a+b\right)^2}$.
 
@@ -228,7 +202,7 @@ The denominator is not $0$.
 
 ### Solution to Problem 4
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) $\frac{8a^2}{12a^3}=\frac{2}{3a}$.
 
@@ -252,7 +226,7 @@ By **Basic Knowledge**.
 
 ### Solution to Problem 5
 
-By **Basic Knowledge**.
+By Basic Knowledge.
 
 (1) Least common denominator $6x^2 y z^2$: $\frac{z}{3x^2 y}=\frac{2z^3}{6x^2 y z^2}$, $\frac{xy}{2z^2}=\frac{3x^3 y^2}{6x^2 y z^2}$.
 
@@ -274,7 +248,7 @@ By **Basic Knowledge**.
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Basic Property of Fractions**.
+By Basic Property of Fractions.
 
 (1) Multiply the denominator by $2a$, and the numerator by $2a$ as well: $\frac{3a}{5xy}=\frac{6a^2}{10axy}$.
 

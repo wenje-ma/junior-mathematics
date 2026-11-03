@@ -1,21 +1,5 @@
 # week43
 
-> **Basic Knowledge: Rectangular Coordinate System**
-> 
-> Draw two number lines perpendicular to each other in a plane with the same origin to form a rectangular coordinate system.
-
-> **Basic Knowledge: Coordinates of a Point**
-> 
-> The ordered pair $\left(x,y\right)$ is called the coordinates of a point in the plane; points correspond one-to-one with ordered pairs of real numbers.
-
-
-> **Basic Knowledge: Representing Geographic Locations with Coordinates**
-> 
-> By establishing a plane rectangular coordinate system, the positions of points in the plane can be represented by coordinates.
-> **Basic Knowledge: Representing Translation with Coordinates**
-> 
-> Representing Translation with Coordinates.
-
 ---
 
 ## Activity 1
@@ -30,14 +14,13 @@ In fact, the positions they describe are both correct. Do you know how Li Ming e
 
 ### Solution to Activity 1
 
-By **Basic Knowledge: Representing Geographic Locations with Coordinates**.
+By Representing Geographic Locations with Coordinates.
 
 Li Ming takes the Central Square as the origin, east as the positive $x$-axis direction, north as the positive $y$-axis direction, and one small square (representing $100\,m$) as one unit of length. The Peony Garden is $3$ squares east and $3$ squares north of the Central Square, so its coordinates are $\left(3,3\right)$.
 
 Zhang Hua's "about $420\,m$ northeast" means the Peony Garden lies in the northeast (north by east $45^\circ$) direction of the Central Square. By the Pythagorean theorem, both the horizontal and vertical distances are about $300\,m$, and the distance is $\sqrt{300^2+300^2}\approx 420\,m$. This is describing a position using a direction angle plus a distance.
 
 Similarly, one can describe the positions of attractions such as Yintai Terrace, Lake Pavilion, Wangchun Pavilion, Amusement Park, South Gate, West Gate, and East Gate using coordinates (Li Ming's method) or direction-and-distance (Zhang Hua's method). $\blacksquare$
-
 
 ---
 
@@ -47,7 +30,7 @@ Similarly, one can describe the positions of attractions such as Yintai Terrace,
 
 ### Solution to Activity 2
 
-By **Basic Knowledge: Representing Geographic Locations with Coordinates** and **Basic Knowledge: Representing Translation with Coordinates**.
+By Representing Geographic Locations with Coordinates and Representing Translation with Coordinates.
 
 Take the center of the formation's front row as the origin, the horizontal direction as the $x$-axis, the vertical direction as the $y$-axis, and one member occupying one unit square. Design the starting formation: let each member correspond to one coordinate, for example arranged in a $4\times 4$ square formation, with member coordinates $\left(1,1\right)$, $\left(1,2\right)$, $\cdots$, $\left(4,4\right)$.
 

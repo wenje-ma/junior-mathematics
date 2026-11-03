@@ -1,21 +1,5 @@
 # week16
 
-> **Basic Knowledge: Like Terms**
-> 
-> Terms that contain the same letters, with the same exponents on the same letters, are called like terms. Several constant terms are also like terms.
-
-> **Basic Knowledge: Combining Like Terms**
-> 
-> Combining like terms in a polynomial into a single term is called combining like terms. After combining like terms, the coefficient of the resulting term is the sum of the coefficients of the like terms before combining, while the letters together with their exponents remain unchanged.
-
-> **Basic Knowledge: Rule for Removing Parentheses**
-> 
-> When a number multiplies a polynomial, multiply the number outside the parentheses by each term inside them, then add the resulting products; in this way the parentheses can be removed. In particular, $+\left(x-3\right)=x-3$, $-\left(x-3\right)=-x+3$.
-
-> **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**
-> 
-> When adding or subtracting several integral expressions, first remove any parentheses, then combine like terms.
-
 ---
 
 ## Exercise 1
@@ -36,7 +20,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Combining Like Terms**, the coefficients of like terms are added, while the letters and exponents remain unchanged.
+By Combining Like Terms, the coefficients of like terms are added, while the letters and exponents remain unchanged.
 
 (1) $5x+4x=\left(5+4\right)x=9x$.
 
@@ -50,7 +34,6 @@ By **Basic Knowledge: Combining Like Terms**, the coefficients of like terms are
 
 (6) $-3x^{2}y+3xy^{2}+2x^{2}y-2xy^{2}=\left(-3+2\right)x^{2}y+\left(3-2\right)xy^{2}=-x^{2}y+xy^{2}$. $\blacksquare$
 
-
 ---
 
 ## Exercise 2
@@ -63,12 +46,11 @@ By **Basic Knowledge: Combining Like Terms**, the coefficients of like terms are
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**, first combine like terms, then substitute and evaluate.
+By Rule for Adding and Subtracting Integral Expressions, first combine like terms, then substitute and evaluate.
 
 (1) $3a+2b-5a-b=\left(3-5\right)a+\left(2-1\right)b=-2a+b$. When $a=-2$ and $b=1$, the original expression is $=-2\times\left(-2\right)+1=5$.
 
 (2) $3x-4x^{2}+7-3x+2x^{2}+1=\left(-4+2\right)x^{2}+\left(3-3\right)x+\left(7+1\right)=-2x^{2}+8$. When $x=-3$, the original expression is $=-2\times\left(-3\right)^{2}+8=-2\times9+8=-10$. $\blacksquare$
-
 
 ---
 
@@ -78,14 +60,13 @@ By **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**, fi
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**, the shaded area is the area of the large circle minus the area of the small circle.
+By Rule for Adding and Subtracting Integral Expressions, the shaded area is the area of the large circle minus the area of the small circle.
 
 The area of the large circle is $\pi R^{2}$, and the area of the small circle is $\frac{4}{9}$ of that, i.e. $\frac{4}{9}\pi R^{2}$. Hence the area of the shaded region is
 
 $$\pi R^{2}-\frac{4}{9}\pi R^{2}=\left(1-\frac{4}{9}\right)\pi R^{2}=\frac{5}{9}\pi R^{2}.$$
 
 $\blacksquare$
-
 
 ---
 
@@ -99,12 +80,11 @@ $\blacksquare$
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Rule for Removing Parentheses**, when a minus sign precedes the parentheses, every term inside changes sign.
+By Rule for Removing Parentheses, when a minus sign precedes the parentheses, every term inside changes sign.
 
 (1) Wrong. A minus sign precedes the parentheses, so every term inside should change sign; hence $a^{2}-\left(2a-b+c\right)=a^{2}-2a+b-c$.
 
 (2) Wrong. $-\left(x-y\right)=-x+y$, so $-\left(x-y\right)+\left(xy-1\right)=-x+y+xy-1$. $\blacksquare$
-
 
 ---
 
@@ -122,7 +102,7 @@ By **Basic Knowledge: Rule for Removing Parentheses**, when a minus sign precede
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Rule for Removing Parentheses**, when a plus sign precedes the parentheses they are removed directly, and when a minus sign precedes them every term inside changes sign.
+By Rule for Removing Parentheses, when a plus sign precedes the parentheses they are removed directly, and when a minus sign precedes them every term inside changes sign.
 
 (1) $a+\left(b-c\right)=a+b-c$.
 
@@ -131,7 +111,6 @@ By **Basic Knowledge: Rule for Removing Parentheses**, when a plus sign precedes
 (3) $\left(a-b\right)+\left(c+d\right)=a-b+c+d$.
 
 (4) $-\left(a+b\right)-\left(-c+d\right)=-a-b+c-d$. $\blacksquare$
-
 
 ---
 
@@ -149,7 +128,7 @@ By **Basic Knowledge: Rule for Removing Parentheses**, when a plus sign precedes
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge: Rule for Removing Parentheses** and **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**, first remove the parentheses, then combine like terms.
+By Rule for Removing Parentheses and Rule for Adding and Subtracting Integral Expressions, first remove the parentheses, then combine like terms.
 
 (1) $12\left(x-0.5\right)=12x-6$.
 
@@ -159,7 +138,6 @@ By **Basic Knowledge: Rule for Removing Parentheses** and **Basic Knowledge: Rul
 
 (4) $\frac{1}{3}\left(9y-3\right)+2\left(y+1\right)=3y-1+2y+2=5y+1$. $\blacksquare$
 
-
 ---
 
 ## Exercise 7
@@ -168,14 +146,13 @@ By **Basic Knowledge: Rule for Removing Parentheses** and **Basic Knowledge: Rul
 
 ### Solution to Exercise 7
 
-By **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**, the water fee is the sum of the two parts.
+By Rule for Adding and Subtracting Integral Expressions, the water fee is the sum of the two parts.
 
 The water usage is $20\ \text{m}^{3}$, of which $15\ \text{m}^{3}$ is charged at $a$ yuan per cubic meter, and the excess $20-15=5\ \text{m}^{3}$ is charged at $\left(a+2\right)$ yuan per cubic meter. Hence the water fee to be paid is
 
 $$15a+5\left(a+2\right)=15a+5a+10=20a+10\ \text{元}.$$
 
 $\blacksquare$
-
 
 ---
 
@@ -191,14 +168,13 @@ $\blacksquare$
 
 ### Solution to Exercise 8
 
-By **Basic Knowledge: Rule for Removing Parentheses** and **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**, first remove the parentheses, then combine like terms.
+By Rule for Removing Parentheses and Rule for Adding and Subtracting Integral Expressions, first remove the parentheses, then combine like terms.
 
 (1) $-\frac{1}{3}ab-4a^{2}+3a^{2}+\frac{2}{3}ab=\left(-\frac{1}{3}+\frac{2}{3}\right)ab+\left(-4+3\right)a^{2}=\frac{1}{3}ab-a^{2}$.
 
 (2) $x^{3}-x^{2}+x-1-2x^{3}+2x^{2}+2-1=\left(1-2\right)x^{3}+\left(-1+2\right)x^{2}+x+\left(-1+2-1\right)=-x^{3}+x^{2}+x$.
 
 (3) $\frac{1}{3}a-\frac{1}{2}a+\frac{4}{3}b+\frac{1}{4}c-6c+2b=\left(\frac{1}{3}-\frac{1}{2}\right)a+\left(\frac{4}{3}+2\right)b+\left(\frac{1}{4}-6\right)c=-\frac{1}{6}a+\frac{10}{3}b-\frac{23}{4}c$. $\blacksquare$
-
 
 ---
 
@@ -208,12 +184,11 @@ By **Basic Knowledge: Rule for Removing Parentheses** and **Basic Knowledge: Rul
 
 ### Solution to Exercise 9
 
-By **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**, first simplify, then evaluate.
+By Rule for Adding and Subtracting Integral Expressions, first simplify, then evaluate.
 
 $$x^{2}-5xy-3x^{2}-2+4xy+2x^{2}=\left(1-3+2\right)x^{2}+\left(-5+4\right)xy-2=-xy-2.$$
 
 When $x=-\frac{1}{9}$ and $y=\frac{9}{2}$, the original expression is $=-\left(-\frac{1}{9}\right)\times\frac{9}{2}-2=\frac{1}{2}-2=-\frac{3}{2}$. $\blacksquare$
-
 
 ---
 
@@ -223,14 +198,13 @@ When $x=-\frac{1}{9}$ and $y=\frac{9}{2}$, the original expression is $=-\left(-
 
 ### Solution to Exercise 10
 
-By **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**, the total cost is the sum of the two people's spending.
+By Rule for Adding and Subtracting Integral Expressions, the total cost is the sum of the two people's spending.
 
 Wang Fang spent $\left(3x+2y\right)$ yuan, and Li Ming spent $\left(4x+3y\right)$ yuan. Hence the total cost is
 
 $$\left(3x+2y\right)+\left(4x+3y\right)=7x+5y\ \text{元}.$$
 
 $\blacksquare$
-
 
 ---
 
@@ -248,7 +222,7 @@ $\blacksquare$
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Combining Like Terms**, the coefficients of like terms are added.
+By Combining Like Terms, the coefficients of like terms are added.
 
 (1) $2x-10.3x=\left(2-10.3\right)x=-8.3x$.
 
@@ -257,7 +231,6 @@ By **Basic Knowledge: Combining Like Terms**, the coefficients of like terms are
 (3) $-b+0.6b-3.6b=\left(-1+0.6-3.6\right)b=-4b$.
 
 (4) $m-n^{2}-6m+2n^{2}=\left(1-6\right)m+\left(-1+2\right)n^{2}=-5m+n^{2}$. $\blacksquare$
-
 
 ---
 
@@ -275,7 +248,7 @@ By **Basic Knowledge: Combining Like Terms**, the coefficients of like terms are
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Rule for Removing Parentheses** and **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**.
+By Rule for Removing Parentheses and Rule for Adding and Subtracting Integral Expressions.
 
 (1) $2\left(4x-0.5\right)=8x-1$.
 
@@ -284,7 +257,6 @@ By **Basic Knowledge: Rule for Removing Parentheses** and **Basic Knowledge: Rul
 (3) $-x+4x-4-3x-5=\left(-1+4-3\right)x-9=-9$.
 
 (4) $3a^{2}+a^{2}-2a^{2}+2a+3a-a^{2}=\left(3+1-2-1\right)a^{2}+\left(2+3\right)a=a^{2}+5a$. $\blacksquare$
-
 
 ---
 
@@ -302,7 +274,7 @@ By **Basic Knowledge: Rule for Removing Parentheses** and **Basic Knowledge: Rul
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**, first remove the parentheses, then combine like terms.
+By Rule for Adding and Subtracting Integral Expressions, first remove the parentheses, then combine like terms.
 
 (1) $5a+4c+7b+5c-3b-6a=\left(5-6\right)a+\left(7-3\right)b+\left(4+5\right)c=-a+4b+9c$.
 
@@ -311,7 +283,6 @@ By **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**, fi
 (3) $\frac{1}{3}x^{2}-1+3x-4x+4x^{2}-2=\left(\frac{1}{3}+4\right)x^{2}+\left(3-4\right)x+\left(-1-2\right)=\frac{13}{3}x^{2}-x-3$.
 
 (4) $3x^{2}-7x+4x-3+2x^{2}=\left(3+2\right)x^{2}+\left(-7+4\right)x-3=5x^{2}-3x-3$. $\blacksquare$
-
 
 ---
 
@@ -325,12 +296,11 @@ where $a=1$, $b=-\frac{1}{2}$.
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**, first simplify, then evaluate.
+By Rule for Adding and Subtracting Integral Expressions, first simplify, then evaluate.
 
 $$12a^{2}b-4ab^{2}-6ab^{2}+2a^{2}b-14a^{2}b=\left(12+2-14\right)a^{2}b+\left(-4-6\right)ab^{2}=-10ab^{2}.$$
 
 When $a=1$ and $b=-\frac{1}{2}$, the original expression is $=-10\times1\times\left(-\frac{1}{2}\right)^{2}=-10\times\frac{1}{4}=-\frac{5}{2}$. $\blacksquare$
-
 
 ---
 
@@ -340,14 +310,13 @@ When $a=1$ and $b=-\frac{1}{2}$, the original expression is $=-10\times1\times\l
 
 ### Solution to Problem 5
 
-By **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**, the altitudes of B and C are expressed using expressions containing $h$, and the altitude difference is the difference between them.
+By Rule for Adding and Subtracting Integral Expressions, the altitudes of B and C are expressed using expressions containing $h$, and the altitude difference is the difference between them.
 
 The altitude of place B is $\left(h+20\right)\ \text{m}$, and the altitude of place C is $\left(h-30\right)\ \text{m}$. The altitude difference between place B and place C is
 
 $$\left(h+20\right)-\left(h-30\right)=h+20-h+30=50\ \text{m}.$$
 
 $\blacksquare$
-
 
 ---
 
@@ -357,12 +326,11 @@ $\blacksquare$
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**, first simplify the original expression.
+By Rule for Adding and Subtracting Integral Expressions, first simplify the original expression.
 
 $$5a^{3}-a^{2}+3a-3a^{3}+a^{2}-a-2a^{3}-2a+2035=\left(5-3-2\right)a^{3}+\left(-1+1\right)a^{2}+\left(3-1-2\right)a+2035=2035.$$
 
 The simplified result is the constant $2035$, independent of the value of $a$. Hence the statements of students A, B and C are all correct. $\blacksquare$
-
 
 ---
 
@@ -376,7 +344,7 @@ The simplified result is the constant $2035$, independent of the value of $a$. H
 
 ### Solution to Problem 7
 
-By **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**, the side lengths and perimeter are expressed as integral expressions.
+By Rule for Adding and Subtracting Integral Expressions, the side lengths and perimeter are expressed as integral expressions.
 
 (1) The second side is $2a$ shorter than the first side, so its length is $\left(3a+2b\right)-2a=a+2b$. The third side is $2$ times the length of the second side plus $\left(a-b\right)$, so its length is $2\left(a+2b\right)+\left(a-b\right)=2a+4b+a-b=3a+3b$.
 
@@ -385,7 +353,6 @@ By **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**, th
 $$\left(3a+2b\right)+\left(a+2b\right)+\left(3a+3b\right)=7a+7b.$$
 
 $\blacksquare$
-
 
 ---
 
@@ -399,7 +366,7 @@ $\blacksquare$
 
 ### Solution to Problem 8
 
-By **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**, the area and perimeter are expressed as integral expressions containing $a$.
+By Rule for Adding and Subtracting Integral Expressions, the area and perimeter are expressed as integral expressions containing $a$.
 
 (1) The area of the four small squares in the lower part is $4a^{2}$, and the upper semicircle has radius $a$ and area $\frac{1}{2}\pi a^{2}$. Hence the area of the window is
 
@@ -411,7 +378,6 @@ $$\pi a+2a+2a+2a=\left(\pi+6\right)a\ \text{cm}.$$
 
 $\blacksquare$
 
-
 ---
 
 ## Problem 9
@@ -420,14 +386,13 @@ $\blacksquare$
 
 ### Solution to Problem 9
 
-By **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**, the prices are expressed as integral expressions containing $a$.
+By Rule for Adding and Subtracting Integral Expressions, the prices are expressed as integral expressions containing $a$.
 
 The original selling price is the cost plus $20\%$, i.e. $a+0.2a=1.2a$ yuan. The current selling price is $90\%$ of the original price, i.e. $1.2a\times0.9=1.08a$ yuan. The profit per item is the current selling price minus the cost, i.e.
 
 $$1.08a-a=0.08a\ \text{元}.$$
 
 $\blacksquare$
-
 
 ---
 
@@ -437,14 +402,13 @@ $\blacksquare$
 
 ### Solution to Problem 10
 
-By **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**, the number of points is expressed as an integral expression containing $n$.
+By Rule for Adding and Subtracting Integral Expressions, the number of points is expressed as an integral expression containing $n$.
 
 There are $n$ points on each side of the triangle, giving $3n$ points on the three sides, but the three vertices are each counted twice by two sides, so $3$ duplicate vertices must be subtracted. Therefore
 
 $$S=3n-3.$$
 
 When $n=5$, $S=3\times5-3=12$; when $n=7$, $S=3\times7-3=18$; when $n=11$, $S=3\times11-3=30$. $\blacksquare$
-
 
 ---
 
@@ -454,7 +418,7 @@ When $n=5$, $S=3\times5-3=12$; when $n=7$, $S=3\times7-3=18$; when $n=11$, $S=3\
 
 ### Solution to Problem 11
 
-By **Basic Knowledge: Rule for Adding and Subtracting Integral Expressions**, the surface area is the number of square faces seen from each direction multiplied by the area of each face.
+By Rule for Adding and Subtracting Integral Expressions, the surface area is the number of square faces seen from each direction multiplied by the area of each face.
 
 Viewing the figure from the six directions of front, back, left, right, top and bottom, $6$ square faces can be seen in each direction (stacked in three layers as shown). There are $6\times6=36$ square faces in total, each of area $a^{2}$. Hence the surface area is
 
@@ -468,7 +432,7 @@ $\blacksquare$
 
 ### Solution to Information Technology Application 1
 
-By **Basic Knowledge: Combining Like Terms**, finding the sum means combining like quantities.
+By Combining Like Terms, finding the sum means combining like quantities.
 
 The sum of the six numbers is
 

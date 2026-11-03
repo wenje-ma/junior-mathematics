@@ -1,18 +1,5 @@
 # week69
 
-
-> **Basic Knowledge: Determination of an Angle Bisector**
-> 
-> A point inside an angle that is equidistant from the two sides of the angle lies on the angle bisector.
-> **Basic Knowledge: Properties of an Angle Bisector**
-> 
-> Any point on the angle bisector is equidistant from the two sides of the angle.
-> **Basic Knowledge: SAS**
-> 
-> Two triangles are congruent if two sides and the included angle of one are equal to the corresponding parts of the other (abbreviated as "SAS").
-> **Basic Knowledge: HL**
-> 
-> Two right triangles are congruent if the hypotenuse and one leg of one are equal to the corresponding parts of the other (abbreviated as "HL").
 ---
 
 ## Exercise 1
@@ -21,8 +8,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Determination of an Angle Bisector**, points equidistant from $OA$, $OB$ lie on the bisector of $\angle AOB$. So first construct the bisector of $\angle AOB$ with straightedge and compass; its intersection with line $MN$ is the desired point $P$. $\blacksquare$
-
+By Determination of an Angle Bisector, points equidistant from $OA$, $OB$ lie on the bisector of $\angle AOB$. So first construct the bisector of $\angle AOB$ with straightedge and compass; its intersection with line $MN$ is the desired point $P$. $\blacksquare$
 
 ---
 
@@ -32,10 +18,9 @@ By **Basic Knowledge: Determination of an Angle Bisector**, points equidistant f
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Properties of an Angle Bisector**, $PD=PE$. In $\text{Rt}\triangle PDF$ and $\text{Rt}\triangle PEG$, $\angle PDF=\angle PEG=90^\circ$, $DF=EG$, $PD=PE$; by **Basic Knowledge: SAS**, $\triangle PDF\cong\triangle PEG$.
+By Properties of an Angle Bisector, $PD=PE$. In $\text{Rt}\triangle PDF$ and $\text{Rt}\triangle PEG$, $\angle PDF=\angle PEG=90^\circ$, $DF=EG$, $PD=PE$; by SAS, $\triangle PDF\cong\triangle PEG$.
 
-By **Basic Knowledge**, the corresponding sides satisfy $PF=PG$. $\blacksquare$
-
+By Basic Knowledge, the corresponding sides satisfy $PF=PG$. $\blacksquare$
 
 ---
 
@@ -47,10 +32,9 @@ By **Basic Knowledge**, the corresponding sides satisfy $PF=PG$. $\blacksquare$
 
 In $\triangle ABF$ and $\triangle CEF$, $\angle AFB=\angle CFE$ (vertical angles), $\angle ABF=\angle CEF=90^\circ$, $AB=CE$; by AAS, $\triangle ABF\cong\triangle CEF$, so $BF=EF$.
 
-In $\text{Rt}\triangle BDF$ and $\text{Rt}\triangle EDF$, $BF=EF$, and $DF$ is the common hypotenuse; by **Basic Knowledge: HL**, $\text{Rt}\triangle BDF\cong\text{Rt}\triangle EDF$, so $DB=DE$.
+In $\text{Rt}\triangle BDF$ and $\text{Rt}\triangle EDF$, $BF=EF$, and $DF$ is the common hypotenuse; by HL, $\text{Rt}\triangle BDF\cong\text{Rt}\triangle EDF$, so $DB=DE$.
 
-That is, point $D$ is equidistant from line $FB$ (on $AB$) and line $FE$ (on $CE$). By **Basic Knowledge: Determination of an Angle Bisector**, point $D$ lies on the bisector of $\angle BFE$, so $FD$ bisects $\angle BFE$. $\blacksquare$
-
+That is, point $D$ is equidistant from line $FB$ (on $AB$) and line $FE$ (on $CE$). By Determination of an Angle Bisector, point $D$ lies on the bisector of $\angle BFE$, so $FD$ bisects $\angle BFE$. $\blacksquare$
 
 ---
 
@@ -64,10 +48,9 @@ That is, point $D$ is equidistant from line $FB$ (on $AB$) and line $FE$ (on $CE
 
 ### Solution to Exercise 4
 
-(1) Through point $P$ draw perpendiculars to the lines of the three sides. Since $BF$ bisects $\angle CBD$ and $P$ lies on $BF$, by **Basic Knowledge: Properties of an Angle Bisector**, $P$ is equidistant from lines $AB$, $BC$. Similarly, since $CG$ bisects $\angle BCE$, $P$ is equidistant from lines $BC$, $CA$. Hence $P$ is equidistant from the lines of the three sides.
+(1) Through point $P$ draw perpendiculars to the lines of the three sides. Since $BF$ bisects $\angle CBD$ and $P$ lies on $BF$, by Properties of an Angle Bisector, $P$ is equidistant from lines $AB$, $BC$. Similarly, since $CG$ bisects $\angle BCE$, $P$ is equidistant from lines $BC$, $CA$. Hence $P$ is equidistant from the lines of the three sides.
 
-(2) By (1), $P$ is equidistant from lines $AB$, $CA$. By **Basic Knowledge: Determination of an Angle Bisector**, $P$ lies on the bisector of $\angle A$. $\blacksquare$
-
+(2) By (1), $P$ is equidistant from lines $AB$, $CA$. By Determination of an Angle Bisector, $P$ lies on the bisector of $\angle A$. $\blacksquare$
 
 ---
 
@@ -77,10 +60,9 @@ That is, point $D$ is equidistant from line $FB$ (on $AB$) and line $FE$ (on $CE
 
 ### Solution to Problem 1
 
-Since $AD$ is an angle bisector and by **Basic Knowledge: Properties of an Angle Bisector**, $DE=DF$. In $\text{Rt}\triangle BDE$ and $\text{Rt}\triangle CDF$, the hypotenuses satisfy $BD=CD$, and the legs satisfy $DE=DF$; by **Basic Knowledge: HL**, $\text{Rt}\triangle BDE\cong\text{Rt}\triangle CDF$.
+Since $AD$ is an angle bisector and by Properties of an Angle Bisector, $DE=DF$. In $\text{Rt}\triangle BDE$ and $\text{Rt}\triangle CDF$, the hypotenuses satisfy $BD=CD$, and the legs satisfy $DE=DF$; by HL, $\text{Rt}\triangle BDE\cong\text{Rt}\triangle CDF$.
 
-By **Basic Knowledge**, the corresponding legs satisfy $EB=FC$. $\blacksquare$
-
+By Basic Knowledge, the corresponding legs satisfy $EB=FC$. $\blacksquare$
 
 ---
 
@@ -92,10 +74,9 @@ By **Basic Knowledge**, the corresponding legs satisfy $EB=FC$. $\blacksquare$
 
 In $\triangle BCE$ and $\triangle CBD$, $\angle BEC=\angle CDB=90^\circ$, $\angle CBE=\angle BCD$ (from $AB=AC$), and $BC$ is a common side; by AAS, $\triangle BCE\cong\triangle CBD$, so $BE=CD$. From $AB=AC$, we get $AE=AD$.
 
-In $\text{Rt}\triangle AEF$ and $\text{Rt}\triangle ADF$, the hypotenuse $AF$ is common, and the legs satisfy $AE=AD$; by **Basic Knowledge: HL**, $\text{Rt}\triangle AEF\cong\text{Rt}\triangle ADF$, so $\angle AFE=\angle AFD$.
+In $\text{Rt}\triangle AEF$ and $\text{Rt}\triangle ADF$, the hypotenuse $AF$ is common, and the legs satisfy $AE=AD$; by HL, $\text{Rt}\triangle AEF\cong\text{Rt}\triangle ADF$, so $\angle AFE=\angle AFD$.
 
 That is, $FA$ bisects $\angle DFE$. $\blacksquare$
-
 
 ---
 
@@ -107,8 +88,7 @@ That is, $FA$ bisects $\angle DFE$. $\blacksquare$
 
 In $\triangle BOD$ and $\triangle COE$, $\angle BDO=\angle CEO=90^\circ$, $\angle BOD=\angle COE$ (vertical angles), $OB=OC$; by AAS, $\triangle BOD\cong\triangle COE$, so $OD=OE$.
 
-That is, point $O$ is equidistant from lines $AB$, $AC$. By **Basic Knowledge: Determination of an Angle Bisector**, point $O$ lies on the bisector of $\angle A$, so $\angle 1=\angle 2$. $\blacksquare$
-
+That is, point $O$ is equidistant from lines $AB$, $AC$. By Determination of an Angle Bisector, point $O$ lies on the bisector of $\angle A$, so $\angle 1=\angle 2$. $\blacksquare$
 
 ---
 
@@ -118,8 +98,7 @@ That is, point $O$ is equidistant from lines $AB$, $AC$. By **Basic Knowledge: D
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Determination of an Angle Bisector**, points equidistant from $BC$, $AB$ lie on the bisector of $\angle B$. So construct the bisector of $\angle B$; its intersection with side $AC$ is the desired point $P$. $\blacksquare$
-
+By Determination of an Angle Bisector, points equidistant from $BC$, $AB$ lie on the bisector of $\angle B$. So construct the bisector of $\angle B$; its intersection with side $AC$ is the desired point $P$. $\blacksquare$
 
 ---
 
@@ -131,8 +110,7 @@ By **Basic Knowledge: Determination of an Angle Bisector**, points equidistant f
 
 From $PE\parallel AB$, we get $\angle EPD=\angle BAD$; from $PF\parallel AC$, we get $\angle DPF=\angle CAD$. Since $AD$ is an angle bisector, $\angle BAD=\angle CAD$, so $\angle EPD=\angle DPF$, i.e. $PD$ bisects $\angle EPF$.
 
-By **Basic Knowledge: Properties of an Angle Bisector**, point $D$ lies on $PD$, so point $D$ is equidistant from $PE$ and $PF$. $\blacksquare$
-
+By Properties of an Angle Bisector, point $D$ lies on $PD$, so point $D$ is equidistant from $PE$ and $PF$. $\blacksquare$
 
 ---
 
@@ -142,10 +120,9 @@ By **Basic Knowledge: Properties of an Angle Bisector**, point $D$ lies on $PD$,
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Properties of an Angle Bisector**, $PD=PE$. Since $OC$ bisects $\angle AOB$, $PD\perp OA$, $PE\perp OB$, we get $\angle DPF=\angle EPF$. In $\triangle DPF$ and $\triangle EPF$, $PD=PE$, $\angle DPF=\angle EPF$, and $PF$ is a common side; by **Basic Knowledge: SAS**, $\triangle DPF\cong\triangle EPF$.
+By Properties of an Angle Bisector, $PD=PE$. Since $OC$ bisects $\angle AOB$, $PD\perp OA$, $PE\perp OB$, we get $\angle DPF=\angle EPF$. In $\triangle DPF$ and $\triangle EPF$, $PD=PE$, $\angle DPF=\angle EPF$, and $PF$ is a common side; by SAS, $\triangle DPF\cong\triangle EPF$.
 
-By **Basic Knowledge**, the corresponding sides satisfy $DF=EF$. $\blacksquare$
-
+By Basic Knowledge, the corresponding sides satisfy $DF=EF$. $\blacksquare$
 
 ---
 
@@ -155,10 +132,9 @@ By **Basic Knowledge**, the corresponding sides satisfy $DF=EF$. $\blacksquare$
 
 ### Solution to Problem 7
 
-$AD\perp EF$. Proof: since $AD$ is an angle bisector and by **Basic Knowledge: Properties of an Angle Bisector**, $DE=DF$. In $\text{Rt}\triangle ADE$ and $\text{Rt}\triangle ADF$, the hypotenuse $AD$ is common, and the legs satisfy $DE=DF$; by **Basic Knowledge: HL**, $\text{Rt}\triangle ADE\cong\text{Rt}\triangle ADF$, so $AE=AF$.
+$AD\perp EF$. Proof: since $AD$ is an angle bisector and by Properties of an Angle Bisector, $DE=DF$. In $\text{Rt}\triangle ADE$ and $\text{Rt}\triangle ADF$, the hypotenuse $AD$ is common, and the legs satisfy $DE=DF$; by HL, $\text{Rt}\triangle ADE\cong\text{Rt}\triangle ADF$, so $AE=AF$.
 
 Thus $\triangle AEF$ is isosceles, and $AG$ is the bisector of the vertex angle $\angle EAF$; by the "three lines in one" property of an isosceles triangle, $AG\perp EF$, i.e. $AD\perp EF$. $\blacksquare$
-
 
 ---
 
@@ -168,11 +144,11 @@ Thus $\triangle AEF$ is isosceles, and $AG$ is the bisector of the vertex angle 
 
 ### Solution to Problem 8
 
-Through $E$ draw $EF\perp AD$, with foot $F$. Since $DE$ bisects $\angle ADC$, $EC\perp DC$, $EF\perp AD$, by **Basic Knowledge: Properties of an Angle Bisector**, $EC=EF$.
+Through $E$ draw $EF\perp AD$, with foot $F$. Since $DE$ bisects $\angle ADC$, $EC\perp DC$, $EF\perp AD$, by Properties of an Angle Bisector, $EC=EF$.
 
 Since $E$ is the midpoint of $BC$, $EB=EC$, so $EB=EF$. Also $EB\perp AB$, $EF\perp AD$, i.e. point $E$ is equidistant from line $AB$ and line $AD$.
 
-By **Basic Knowledge: Determination of an Angle Bisector**, point $E$ lies on the bisector of $\angle DAB$, so $AE$ bisects $\angle DAB$. $\blacksquare$
+By Determination of an Angle Bisector, point $E$ lies on the bisector of $\angle DAB$, so $AE$ bisects $\angle DAB$. $\blacksquare$
 
 ## Illustrated History of Mathematics 1
 

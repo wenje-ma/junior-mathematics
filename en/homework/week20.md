@@ -1,35 +1,5 @@
 # week20
 
-> **Basic Knowledge: Properties of Equality 1**
-> 
-> Adding (or subtracting) the same number (or expression) to both sides of an equality keeps the result equal. If $a=b$, then $a\pm c=b\pm c$.
-
-> **Basic Knowledge: Properties of Equality 2**
-> 
-> Multiplying both sides of an equality by the same number, or dividing by the same number not equal to $0$, keeps the result equal.
-
-> **Basic Knowledge: Solving Equations by Combining Like Terms**
-> 
-> Combine the terms containing the unknown and combine the constant terms, reducing the equation to the form $ax=b$ ($a\ne0$).
-
-> **Basic Knowledge: Transposing Terms**
-> 
-> Moving a term from one side of an equality to the other side while changing its sign is called transposing terms. The basis for transposing is property 1 of equality.
-
-> **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**
-> 
-> The general steps for solving a linear equation in one variable are: clear the denominators, remove the parentheses, transpose terms, combine like terms, and make the coefficient $1$.
-
-> **Basic Knowledge: Combining Like Terms**
-> 
-> Combine like terms in a polynomial by adding their coefficients while keeping the letters and exponents unchanged.
-> **Basic Knowledge: General Steps**
-> 
-> General steps for solving a linear equation in one variable: clear denominators, remove parentheses, transpose terms, combine like terms, make the coefficient 1.
-> **Basic Knowledge: Solution of an Equation**
-> 
-> Solution of an Equation.
-
 ---
 
 ## Exercise 1
@@ -44,14 +14,13 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Combining Like Terms** and **Basic Knowledge: Transposing Terms**, solve step by step.
+By Combining Like Terms and Transposing Terms, solve step by step.
 
 (1) Transpose: $3x-4x=2-5$, combine: $-x=-3$, make the coefficient $1$: $x=3$.
 
 (2) Combine like terms: $7x-7=6x-2$, transpose: $7x-6x=-2+7$, giving $x=5$.
 
 (3) Combine: $-1.5x=6$, make the coefficient $1$: $x=-4$. $\blacksquare$
-
 
 ---
 
@@ -61,10 +30,9 @@ By **Basic Knowledge: Combining Like Terms** and **Basic Knowledge: Transposing 
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Combining Like Terms** and **Basic Knowledge: Transposing Terms**.
+By Combining Like Terms and Transposing Terms.
 
 Combining the left side: $16y-2.5y-7.5y=6y$. The right side: $5+6y$. This gives $6y=5+6y$, i.e. $0=5$, a contradiction, so this equation has no solution. $\blacksquare$
-
 
 ---
 
@@ -74,14 +42,13 @@ Combining the left side: $16y-2.5y-7.5y=6y$. The right side: $5+6y$. This gives 
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Combining Like Terms**, let the class have $x$ students.
+By Combining Like Terms, let the class have $x$ students.
 
 Originally the number of groups was $\frac{x}{8}$, and later it was $\frac{x}{14}$. The later number is $3$ less than the original:
 
 $$\frac{x}{8}-\frac{x}{14}=3.$$
 
 Reducing to a common denominator: $\frac{7x-4x}{56}=3$, i.e. $\frac{3x}{56}=3$, giving $x=56$. Hence the class has $56$ students. $\blacksquare$
-
 
 ---
 
@@ -97,14 +64,13 @@ Reducing to a common denominator: $\frac{7x-4x}{56}=3$, i.e. $\frac{3x}{56}=3$, 
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Transposing Terms** and **Basic Knowledge: Combining Like Terms**.
+By Transposing Terms and Combining Like Terms.
 
 (1) Transpose: $3x-8x=-10-5$, combine: $-5x=-15$, giving $x=3$.
 
 (2) Transpose: $-3x-5x=8-2$, combine: $-8x=6$, giving $x=-\frac{3}{4}$.
 
 (3) Combine: $7x-7=6x-2$, transpose: $7x-6x=-2+7$, giving $x=5$. $\blacksquare$
-
 
 ---
 
@@ -114,10 +80,9 @@ By **Basic Knowledge: Transposing Terms** and **Basic Knowledge: Combining Like 
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Transposing Terms**, let there be $x$ groups in total.
+By Transposing Terms, let there be $x$ groups in total.
 
 The total number of trees is unchanged: $10x-6=8x+2$. Transpose: $10x-8x=2+6$, combine: $2x=8$, giving $x=4$. Hence there were $4$ groups in total. $\blacksquare$
-
 
 ---
 
@@ -133,14 +98,13 @@ The total number of trees is unchanged: $10x-6=8x+2$. Transpose: $10x-8x=2+6$, c
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**, first remove the parentheses, then transpose and combine.
+By General Steps for Solving a Linear Equation in One Variable, first remove the parentheses, then transpose and combine.
 
 (1) Remove parentheses: $4x-60+6x=10$, combine: $10x-60=10$, transpose: $10x=70$, giving $x=7$.
 
 (2) Remove parentheses: $6x+15=8x+6-3$, i.e. $6x+15=8x+3$, transpose: $15-3=8x-6x$, combine: $12=2x$, giving $x=6$.
 
 (3) Remove parentheses: $4y-60+3y=6y-63+7y$, combine: $7y-60=13y-63$, transpose: $-60+63=13y-7y$, combine: $3=6y$, giving $y=\frac{1}{2}$. $\blacksquare$
-
 
 ---
 
@@ -156,14 +120,13 @@ By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variabl
 
 ### Solution to Exercise 7
 
-By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**, first clear the denominators.
+By General Steps for Solving a Linear Equation in One Variable, first clear the denominators.
 
 (1) Multiply both sides by $4$: $2\left(x+1\right)-4=8+\left(2-x\right)$. Remove parentheses: $2x+2-4=8+2-x$. Combine: $2x-2=10-x$. Transpose: $3x=12$, giving $x=4$.
 
 (2) Multiply both sides by $6$: $18x+3\left(x-1\right)=18-2\left(2x-1\right)$. Remove parentheses: $18x+3x-3=18-4x+2$. Combine: $21x-3=20-4x$. Transpose: $25x=23$, giving $x=\frac{23}{25}$.
 
 (3) Multiply both sides by $12$: $4\left(2x-1\right)-2\left(10x+1\right)=3\left(2x+1\right)-12$. Remove parentheses: $8x-4-20x-2=6x+3-12$. Combine: $-12x-6=6x-9$. Transpose: $-18x=-3$, giving $x=\frac{1}{6}$. $\blacksquare$
-
 
 ---
 
@@ -173,10 +136,9 @@ By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variabl
 
 ### Solution to Exercise 8
 
-By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**, remove the parentheses from the outside inward.
+By General Steps for Solving a Linear Equation in One Variable, remove the parentheses from the outside inward.
 
 First remove the square brackets: $\frac{3}{2}\cdot\frac{2}{3}\left(\frac{x}{4}-1\right)-\frac{3}{2}\cdot2-x=2$, i.e. $\left(\frac{x}{4}-1\right)-3-x=2$. Combine: $\frac{x}{4}-4-x=2$. Transpose: $-\frac{3}{4}x=6$, giving $x=-8$. $\blacksquare$
-
 
 ---
 
@@ -186,10 +148,9 @@ First remove the square brackets: $\frac{3}{2}\cdot\frac{2}{3}\left(\frac{x}{4}-
 
 ### Solution to Exercise 9
 
-By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**, let the train be $x\ \text{m}$ long.
+By General Steps for Solving a Linear Equation in One Variable, let the train be $x\ \text{m}$ long.
 
 The distance the train travels to pass through a tunnel is the tunnel length plus the train length. The speed is the same: $\frac{300+x}{20}=\frac{500+x}{30}$. Multiply both sides by $60$: $3\left(300+x\right)=2\left(500+x\right)$. Remove parentheses: $900+3x=1000+2x$. Transpose: $x=100$. The speed $=\frac{300+100}{20}=20\ \text{m/s}$. Hence the train is $100\ \text{m}$ long and its speed is $20\ \text{m/s}$. $\blacksquare$
-
 
 ---
 
@@ -213,7 +174,7 @@ The distance the train travels to pass through a tunnel is the tunnel length plu
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Transposing Terms** and **Basic Knowledge: General Steps**.
+By Transposing Terms and General Steps.
 
 (1) Transpose: $2x-x=-1-3$, giving $x=-4$.
 
@@ -228,7 +189,6 @@ By **Basic Knowledge: Transposing Terms** and **Basic Knowledge: General Steps**
 (6) Combine the right side: $5x-5=5x+1$, i.e. $-5=1$, a contradiction, so no solution.
 
 (7) Remove parentheses: $2x+16=3x-3$, transpose: $16+3=3x-2x$, giving $x=19$. $\blacksquare$
-
 
 ---
 
@@ -246,7 +206,7 @@ By **Basic Knowledge: Transposing Terms** and **Basic Knowledge: General Steps**
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**.
+By General Steps for Solving a Linear Equation in One Variable.
 
 (1) Remove parentheses: $3x-2=1-2x-2$, i.e. $3x-2=-2x-1$. Transpose: $5x=1$, giving $x=\frac{1}{5}$.
 
@@ -255,7 +215,6 @@ By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variabl
 (3) Remove parentheses: $2x+6x-3=16-x-1$. Combine: $8x-3=15-x$. Transpose: $9x=18$, giving $x=2$.
 
 (4) Remove what is inside the square brackets: $3\left(x-1\right)-2\left(x+2\right)=3x-3-2x-4=x-7$. The original expression: $3x-2\left(x-7\right)=15x-4$. Remove parentheses: $3x-2x+14=15x-4$. Combine: $x+14=15x-4$. Transpose: $18=14x$, giving $x=\frac{9}{7}$. $\blacksquare$
-
 
 ---
 
@@ -273,7 +232,7 @@ By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variabl
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**, first clear the denominators.
+By General Steps for Solving a Linear Equation in One Variable, first clear the denominators.
 
 (1) Multiply both sides by $6$: $3\left(x-2\right)=2\left(4x+1\right)$. Remove parentheses: $3x-6=8x+2$. Transpose: $-8=5x$, giving $x=-\frac{8}{5}$.
 
@@ -282,7 +241,6 @@ By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variabl
 (3) Multiply both sides by $6$: $3x-\left(5x+11\right)=6+2\left(2x-4\right)$. Remove parentheses: $3x-5x-11=6+4x-8$. Combine: $-2x-11=4x-2$. Transpose: $-9=6x$, giving $x=-\frac{3}{2}$.
 
 (4) Simplify: $\frac{0.1x-0.2}{0.02}=5x-10$, $\frac{x+1}{0.5}=2x+2$. The original expression: $5x-10-\left(2x+2\right)=3$. Combine: $3x-12=3$. Transpose: $3x=15$, giving $x=5$. $\blacksquare$
-
 
 ---
 
@@ -296,12 +254,11 @@ By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variabl
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**.
+By General Steps for Solving a Linear Equation in One Variable.
 
 (1) Set $2x+3=-5x+6$. Transpose: $2x+5x=6-3$, combine: $7x=3$, giving $x=\frac{3}{7}$.
 
 (2) Set $\left(2x+3\right)+\left(-5x+6\right)=0$. Combine: $-3x+9=0$. Transpose: $-3x=-9$, giving $x=3$. $\blacksquare$
-
 
 ---
 
@@ -311,12 +268,11 @@ By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variabl
 
 ### Solution to Problem 5
 
-By **Basic Knowledge: Solution of an Equation**, substitute $x=3$ into the equation.
+By Solution of an Equation, substitute $x=3$ into the equation.
 
 $$2\times3-a=1,\quad 6-a=1,\quad a=5.$$
 
 $\blacksquare$
-
 
 ---
 
@@ -326,10 +282,9 @@ $\blacksquare$
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Solution of an Equation**, first solve the first equation.
+By Solution of an Equation, first solve the first equation.
 
 From $3x+5=11$, we get $3x=6$, $x=2$. Substituting into $6x+3a=22$: $12+3a=22$, $3a=10$, giving $a=\frac{10}{3}$. $\blacksquare$
-
 
 ---
 
@@ -339,10 +294,9 @@ From $3x+5=11$, we get $3x=6$, $x=2$. Substituting into $6x+3a=22$: $12+3a=22$, 
 
 ### Solution to Problem 7
 
-By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**, first solve the equation.
+By General Steps for Solving a Linear Equation in One Variable, first solve the equation.
 
 Transpose: $x-3x=7+3-2a$, combine: $-2x=10-2a$, giving $x=a-5$. The solution is not nonnegative, i.e. $x< 0$, so $a-5< 0$, giving $a< 5$. $\blacksquare$
-
 
 ---
 
@@ -358,14 +312,13 @@ Transpose: $x-3x=7+3-2a$, combine: $-2x=10-2a$, giving $x=a-5$. The solution is 
 
 ### Solution to Problem 8
 
-By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**.
+By General Steps for Solving a Linear Equation in One Variable.
 
 (1) First remove what is inside the curly brackets: $\frac{4}{3}\left(\frac{1}{2}x-\frac{1}{4}\right)=\frac{2}{3}x-\frac{1}{3}$. The original expression: $\frac{3}{4}\left(\frac{2}{3}x-\frac{1}{3}-8\right)=\frac{3}{2}x$. i.e. $\frac{1}{2}x-\frac{1}{4}-6=\frac{3}{2}x$. Transpose: $-\frac{25}{4}=x$, giving $x=-\frac{25}{4}$.
 
 (2) Simplify the left side: $\frac{1}{2}\left[x-\frac{1}{2}x+\frac{1}{2}\right]=\frac{1}{2}\left[\frac{1}{2}x+\frac{1}{2}\right]=\frac{1}{4}x+\frac{1}{4}$. The right side $=\frac{2}{3}x-\frac{2}{3}$. Transpose: $\frac{1}{4}+\frac{2}{3}=\frac{2}{3}x-\frac{1}{4}x$. Combine: $\frac{11}{12}=\frac{5}{12}x$, giving $x=\frac{11}{5}$.
 
 (3) Simplify: $\frac{0.4y+0.9}{0.5}=0.8y+1.8$, $\frac{0.3y-0.2}{0.2}=1.5y-1$. The original expression: $0.8y+1.8-\left(1.5y-1\right)=1$. Combine: $-0.7y+2.8=1$. Transpose: $-0.7y=-1.8$, giving $y=\frac{18}{7}$. $\blacksquare$
-
 
 ---
 
@@ -375,14 +328,13 @@ By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variabl
 
 ### Solution to Problem 9
 
-By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**, let $x$ workers be assigned to produce studs.
+By General Steps for Solving a Linear Equation in One Variable, let $x$ workers be assigned to produce studs.
 
 There are $\left(22-x\right)$ workers producing nuts. Each day they produce $1200x$ studs and $20000\left(22-x\right)$ nuts. The matching relation: number of nuts $=2\times$ number of studs.
 
 $$20000\left(22-x\right)=2\times1200x.$$
 
 Simplifying: $20000\left(22-x\right)=2400x$, $440000-20000x=2400x$, $440000=22400x$, giving $x=\frac{440000}{22400}=\frac{275}{14}\approx19.6$. Taking an integer assignment: about $20$ workers produce studs and $2$ produce nuts. $\blacksquare$
-
 
 ---
 
@@ -392,14 +344,13 @@ Simplifying: $20000\left(22-x\right)=2400x$, $440000-20000x=2400x$, $440000=2240
 
 ### Solution to Problem 10
 
-By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**, let $x$ people be assigned to work first.
+By General Steps for Solving a Linear Equation in One Variable, let $x$ people be assigned to work first.
 
 Each person's hourly rate is $\frac{1}{40}$. The first $4\ \text{h}$ complete $\frac{4x}{40}$, and the next $8\ \text{h}$ complete $\frac{8\left(x+2\right)}{40}$. The total work is $1$:
 
 $$\frac{4x}{40}+\frac{8\left(x+2\right)}{40}=1.$$
 
 i.e. $4x+8\left(x+2\right)=40$, $4x+8x+16=40$, $12x=24$, giving $x=2$. Hence $2$ people should be assigned to work first. $\blacksquare$
-
 
 ---
 
@@ -409,10 +360,9 @@ i.e. $4x+8\left(x+2\right)=40$, $4x+8x+16=40$, $12x=24$, giving $x=2$. Hence $2$
 
 ### Solution to Problem 11
 
-By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**.
+By General Steps for Solving a Linear Equation in One Variable.
 
 Set $\frac{2x-1}{3}=\frac{x+2}{2}$. Multiply both sides by $6$: $2\left(2x-1\right)=3\left(x+2\right)$. Remove parentheses: $4x-2=3x+6$. Transpose: $x=8$. Hence when $x=8$ the two expressions have equal values. $\blacksquare$
-
 
 ---
 
@@ -422,10 +372,9 @@ Set $\frac{2x-1}{3}=\frac{x+2}{2}$. Multiply both sides by $6$: $2\left(2x-1\rig
 
 ### Solution to Problem 12
 
-By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**.
+By General Steps for Solving a Linear Equation in One Variable.
 
 Set $\frac{3x-1}{4}+\frac{5x+7}{6}=0$. Multiply both sides by $12$: $3\left(3x-1\right)+2\left(5x+7\right)=0$. Remove parentheses: $9x-3+10x+14=0$. Combine: $19x+11=0$, giving $x=-\frac{11}{19}$. $\blacksquare$
-
 
 ---
 
@@ -435,10 +384,9 @@ Set $\frac{3x-1}{4}+\frac{5x+7}{6}=0$. Multiply both sides by $12$: $3\left(3x-1
 
 ### Solution to Problem 13
 
-By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**, let the boat's speed in still water be $v\ \text{km/h}$.
+By General Steps for Solving a Linear Equation in One Variable, let the boat's speed in still water be $v\ \text{km/h}$.
 
 The downstream speed is $v+3$, and the upstream speed is $v-3$. The distance between the two docks is unchanged: $2\left(v+3\right)=2.5\left(v-3\right)$. Remove parentheses: $2v+6=2.5v-7.5$. Transpose: $13.5=0.5v$, giving $v=27$. Hence the boat's average speed in still water is $27\ \text{km/h}$. $\blacksquare$
-
 
 ---
 
@@ -448,14 +396,13 @@ The downstream speed is $v+3$, and the upstream speed is $v-3$. The distance bet
 
 ### Solution to Problem 14
 
-By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**, let $x$ be the number of $45$-seat buses originally planned.
+By General Steps for Solving a Linear Equation in One Variable, let $x$ be the number of $45$-seat buses originally planned.
 
 The number of students: $45x+15$. Renting $\left(x-1\right)$ $60$-seat buses, exactly full: $60\left(x-1\right)$.
 
 $$45x+15=60\left(x-1\right).$$
 
 Remove parentheses: $45x+15=60x-60$. Transpose: $75=15x$, giving $x=5$. The number of students $=45\times5+15=240$. Hence there are $240$ students, and $5$ $45$-seat buses were originally planned. $\blacksquare$
-
 
 ---
 
@@ -465,14 +412,13 @@ Remove parentheses: $45x+15=60x-60$. Transpose: $75=15x$, giving $x=5$. The numb
 
 ### Solution to Problem 15
 
-By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**, let $x$ be the number of swims.
+By General Steps for Solving a Linear Equation in One Variable, let $x$ be the number of swims.
 
 Total cost with the card: $80+x$ yuan. Total cost without the card: $3x$ yuan. Set the two equal:
 
 $$80+x=3x.$$
 
 Transpose: $80=2x$, giving $x=40$. Hence when swimming $40$ times, the two ways cost the same. $\blacksquare$
-
 
 ---
 
@@ -482,14 +428,13 @@ Transpose: $80=2x$, giving $x=40$. Hence when swimming $40$ times, the two ways 
 
 ### Solution to Problem 16
 
-By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**, let the marked price be $x$ yuan.
+By General Steps for Solving a Linear Equation in One Variable, let the marked price be $x$ yuan.
 
 The discounted selling price is $0.8x$ yuan. A $40\%$ profit margin means the profit is $40\%$ of the cost, i.e. profit $=60\times40\%=24$ yuan. Selling price $-$ cost $=$ profit:
 
 $$0.8x-60=24.$$
 
 Transpose: $0.8x=84$, giving $x=105$. Hence the marked price is $105$ yuan. $\blacksquare$
-
 
 ---
 
@@ -499,7 +444,7 @@ Transpose: $0.8x=84$, giving $x=105$. Hence the marked price is $105$ yuan. $\bl
 
 ### Solution to Problem 17
 
-By **Basic Knowledge: General Steps for Solving a Linear Equation in One Variable**, let the train be $x\ \text{m}$ long.
+By General Steps for Solving a Linear Equation in One Variable, let the train be $x\ \text{m}$ long.
 
 The distance through the tunnel is $\left(300+x\right)\ \text{m}$, and the speed is $\frac{300+x}{20}$. When the light illuminates the train, the train travels a distance equal to its own length $x$, and the speed is $\frac{x}{10}$. The train travels at uniform speed:
 
@@ -513,6 +458,6 @@ Multiply both sides by $20$: $300+x=2x$, giving $x=300$. Hence the train is $300
 
 ### Solution to Inquiry and Discovery 1
 
-By **Basic Knowledge: Properties of Equality 1** and **Basic Knowledge: Properties of Equality 2**, let $x=0.\overline{7}$.
+By Properties of Equality 1 and Properties of Equality 2, let $x=0.\overline{7}$.
 
 Multiply both sides by $10$: $10x=7.\overline{7}$. Subtracting the two equations: $10x-x=7.\overline{7}-0.\overline{7}=7$. i.e. $9x=7$, giving $x=\frac{7}{9}$. Hence $0.\overline{7}=\frac{7}{9}$. $\blacksquare$

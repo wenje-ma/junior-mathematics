@@ -1,16 +1,6 @@
 # week114
 
-> **Basic Knowledge: Linear Functions and Linear Equations in One Variable**
-> 
-> The solution of the linear equation in one variable $kx+b=0$ is precisely the x-coordinate of the intersection of the graph of the linear function $y=kx+b$ with the $x$-axis.
-> **Basic Knowledge: Linear Functions and Linear Inequalities in One Variable**
-> 
-> The solution set of the inequality $kx+b> 0$ is the range of values of the independent variable $x$ for which the value of the linear function $y=kx+b$ is greater than $0$; on the graph it corresponds to the part of the line $y=kx+b$ lying above the $x$-axis.
-> **Basic Knowledge: Linear Functions and Systems of Linear Equations in Two Variables**
-> 
-> The coordinates of the intersection of the graphs of two linear functions are precisely the solution of the corresponding system of linear equations in two variables.
 ---
-
 
 ## Exercise 1
 
@@ -20,9 +10,9 @@
 
 The figure shows a plane rectangular coordinate system; a straight line of slope $-2$ meeting the $y$-axis at $\left(0,8\right)$ and the $x$-axis at $\left(4,0\right)$, namely the graph of $y=-2x+8$.
 
-By **Basic Knowledge: Linear Functions and Linear Equations in One Variable**, the x-coordinate of the intersection of the line $y=-2x+8$ with the $x$-axis is the solution of the equation $-2x+8=0$. Setting $y=0$ gives $x=4$.
+By Linear Functions and Linear Equations in One Variable, the x-coordinate of the intersection of the line $y=-2x+8$ with the $x$-axis is the solution of the equation $-2x+8=0$. Setting $y=0$ gives $x=4$.
 
-By **Basic Knowledge: Linear Functions and Linear Inequalities in One Variable**, when the line lies above the $x$-axis we have $y> 0$, corresponding to $x< 4$; when the line lies below the $x$-axis we have $y< 0$, corresponding to $x> 4$. $\blacksquare$
+By Linear Functions and Linear Inequalities in One Variable, when the line lies above the $x$-axis we have $y> 0$, corresponding to $x< 4$; when the line lies below the $x$-axis we have $y< 0$, corresponding to $x> 4$. $\blacksquare$
 
 ## Exercise 2
 
@@ -30,7 +20,7 @@ By **Basic Knowledge: Linear Functions and Linear Inequalities in One Variable**
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Linear Functions and Systems of Linear Equations in Two Variables**, the coordinates of the intersection of the two lines are the solution of the system. The intersection is $\left(2, 1\right)$, so the solution is $x=2$, $y=1$.
+By Linear Functions and Systems of Linear Equations in Two Variables, the coordinates of the intersection of the two lines are the solution of the system. The intersection is $\left(2, 1\right)$, so the solution is $x=2$, $y=1$.
 
 Substituting $\left(2, 1\right)$ into $y=ax+2$ gives $1=2a+2$, so $a=-\frac{1}{2}$. $\blacksquare$
 
@@ -42,7 +32,7 @@ Substituting $\left(2, 1\right)$ into $y=ax+2$ gives $1=2a+2$, so $a=-\frac{1}{2
 
 Let the rental time be $x\ \text{h}$; the cost from Company A is $y_1=80+14x$, and the cost from Company B is $y_2=30x$.
 
-By **Basic Knowledge: Linear Functions and Systems of Linear Equations in Two Variables**, the two costs being equal means $y_1=y_2$, i.e. $80+14x=30x$, which gives $16x=80$ and hence $x=5$.
+By Linear Functions and Systems of Linear Equations in Two Variables, the two costs being equal means $y_1=y_2$, i.e. $80+14x=30x$, which gives $16x=80$ and hence $x=5$.
 
 Hence when the car is rented for $5\ \text{h}$, the costs from the two companies are equal. $\blacksquare$
 
@@ -52,7 +42,7 @@ Hence when the car is rented for $5\ \text{h}$, the costs from the two companies
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Linear Functions and Linear Equations in One Variable**, the solution of the equation is the x-coordinate of the intersection of the line $y=\frac{3}{2}x-6$ with the $x$-axis.
+By Linear Functions and Linear Equations in One Variable, the solution of the equation is the x-coordinate of the intersection of the line $y=\frac{3}{2}x-6$ with the $x$-axis.
 
 Setting $y=0$, we have $\frac{3}{2}x-6=0$, so $x=4$. $\blacksquare$
 
@@ -62,7 +52,7 @@ Setting $y=0$, we have $\frac{3}{2}x-6=0$, so $x=4$. $\blacksquare$
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Linear Functions and Linear Inequalities in One Variable**, $5x-10> 0$ means the value of $y=5x-10$ is greater than $0$, giving $x> 2$.
+By Linear Functions and Linear Inequalities in One Variable, $5x-10> 0$ means the value of $y=5x-10$ is greater than $0$, giving $x> 2$.
 
 $-2x-4< 0$ means the value of $y=-2x-4$ is less than $0$, giving $x> -2$. $\blacksquare$
 
@@ -74,7 +64,7 @@ $-2x-4< 0$ means the value of $y=-2x-4$ is less than $0$, giving $x> -2$. $\blac
 
 Rewrite the two equations as $y=-\frac{3}{2}x+\frac{5}{2}$ and $y=2x-8$.
 
-By **Basic Knowledge: Linear Functions and Systems of Linear Equations in Two Variables**, the coordinates of the intersection of the two lines are the solution. Setting $-\frac{3}{2}x+\frac{5}{2}=2x-8$ gives $x=3$; substituting into $y=2x-8$ gives $y=-2$. Hence the solution of the system is $x=3$, $y=-2$. $\blacksquare$
+By Linear Functions and Systems of Linear Equations in Two Variables, the coordinates of the intersection of the two lines are the solution. Setting $-\frac{3}{2}x+\frac{5}{2}=2x-8$ gives $x=3$; substituting into $y=2x-8$ gives $y=-2$. Hence the solution of the system is $x=3$, $y=-2$. $\blacksquare$
 
 ## Problem 4
 
@@ -90,7 +80,7 @@ By **Basic Knowledge: Linear Functions and Systems of Linear Equations in Two Va
 
 Over the interval $2 \leq x \leq 6$, Team B passes through $\left(2, 0\right)$ and $\left(6, 50\right)$; by the method of undetermined coefficients, $k=\frac{50-0}{6-2}=12.5$, $b=0-12.5\times2=-25$, so $y=12.5x-25$.
 
-(2) By **Basic Knowledge: Linear Functions and Systems of Linear Equations in Two Variables**, the lengths dug by the two teams being equal means $10x=12.5x-25$, giving $x=10$. But $x \leq 6$, so within the range shown the lengths are not equal. If we take the intersection of the graphs to be near $x=4$, then $10\times4=40$ and $12.5\times4-25=25$, which are not equal. Actually, from the figure the intersection is at $x=4, y=30$, so the lengths dug by the two teams are equal when $x=4$. $\blacksquare$
+(2) By Linear Functions and Systems of Linear Equations in Two Variables, the lengths dug by the two teams being equal means $10x=12.5x-25$, giving $x=10$. But $x \leq 6$, so within the range shown the lengths are not equal. If we take the intersection of the graphs to be near $x=4$, then $10\times4=40$ and $12.5\times4-25=25$, which are not equal. Actually, from the figure the intersection is at $x=4, y=30$, so the lengths dug by the two teams are equal when $x=4$. $\blacksquare$
 
 ## Problem 5
 

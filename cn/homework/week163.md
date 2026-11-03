@@ -1,68 +1,10 @@
 # week163
 
-> **基础知识: 相似三角形**
-> 
-> 在 $\triangle ABC$ 和 $\triangle A'B'C'$ 中, 如果 $\angle A=\angle A'$, $\angle B=\angle B'$, $\angle C=\angle C'$, 且 $\frac{AB}{A'B'}=\frac{BC}{B'C'}=\frac{AC}{A'C'}=k$, 则 $\triangle ABC\backsim\triangle A'B'C'$. 
-> **基础知识: AA**
-> 
-> 两角分别相等的两个三角形相似.
-> **基础知识: SAS**
-> 
-> 两边成比例且夹角相等的两个三角形相似.
-> **基础知识: SSS**
-> 
-> 三边成比例的两个三角形相似.
-> **基础知识: 对应线段**
-> 
-> 对应线段.
-> **基础知识: 平行线分线段成比例**
-> 
-> 两条直线被一组平行线所截, 所得的对应线段成比例.
-> **基础知识: 面积比**
-> 
-> 面积比.
-> **基础知识: 预备定理**
-> 
-> 平行于三角形一边的直线截其他两边, 所得的对应线段成比例, 且截得的三角形与原三角形相似.
-
 ---
 
 ---
 
 ---
-
-
-> **基础知识: 平行线分线段成比例** 
-> 
-> 两条直线被一组平行线所截, 所得的对应线段成比例. 
-
-> **基础知识: 预备定理** 
-> 
-> 平行于三角形一边的直线和其他两边相交, 所构成的三角形与原三角形相似. 
-
-> **基础知识: SSS** 
-> 
-> 三边成比例的两个三角形相似. 
-
-> **基础知识: SAS** 
-> 
-> 两边成比例且夹角相等的两个三角形相似. 
-
-> **基础知识: AA** 
-> 
-> 两角分别相等的两个三角形相似. 
-
-> **基础知识: HL** 
-> 
-> 斜边和一条直角边成比例的两个直角三角形相似. 
-
-> **基础知识: 对应线段** 
-> 
-> 相似三角形对应高的比, 对应中线的比与对应角平分线的比都等于相似比; 相似三角形对应线段的比等于相似比. 
-
-> **基础知识: 面积比** 
-> 
-> 相似三角形面积的比等于相似比的平方. 
 
 ## 练习一
 
@@ -70,7 +12,7 @@
 
 ### 解答 练习一
 
-由**基础知识: 平行线分线段成比例**, 三条平行线截两条直线, 对应线段成比例. 
+由平行线分线段成比例, 三条平行线截两条直线, 对应线段成比例. 
 
 $$
 \frac{BC}{CE}=\frac{AD}{DF}=\frac{AG+GD}{DF}=\frac{2+1}{5}=\frac{3}{5}.\ \blacksquare
@@ -82,7 +24,7 @@ $$
 
 ### 解答 练习二
 
-由**基础知识: 预备定理**, $DE\parallel BC$, 故 $\triangle ADE\backsim\triangle ABC$. 
+由预备定理, $DE\parallel BC$, 故 $\triangle ADE\backsim\triangle ABC$. 
 
 相似比为 $\frac{AD}{AB}=\frac{AD}{AD+DB}=\frac{3}{3+2}=\frac{3}{5}$. $\blacksquare$
 
@@ -102,7 +44,7 @@ $$
 \frac{AB}{A'B'}=\frac{8}{16}=\frac{1}{2},\quad\frac{AC}{A'C'}=\frac{15}{30}=\frac{1}{2}.
 $$
 
-两边成比例且夹角相等, 由**基础知识: SAS**, $\triangle ABC\backsim\triangle A'B'C'$. 
+两边成比例且夹角相等, 由SAS, $\triangle ABC\backsim\triangle A'B'C'$. 
 
 (2)
 
@@ -112,7 +54,7 @@ $$
 \frac{AC}{A'C'}=\frac{16}{25.6}=\frac{5}{8}.
 $$
 
-三边成比例, 由**基础知识: SSS**, $\triangle ABC\backsim\triangle A'B'C'$. $\blacksquare$
+三边成比例, 由SSS, $\triangle ABC\backsim\triangle A'B'C'$. $\blacksquare$
 
 ## 练习四
 
@@ -120,9 +62,9 @@ $$
 
 ### 解答 练习四
 
-第一组: $\frac{15}{27}=\frac{5}{9}$, $\frac{20}{36}=\frac{5}{9}$, $\frac{25}{45}=\frac{5}{9}$, 三边成比例, 由**基础知识: SSS**, 相似. 
+第一组: $\frac{15}{27}=\frac{5}{9}$, $\frac{20}{36}=\frac{5}{9}$, $\frac{25}{45}=\frac{5}{9}$, 三边成比例, 由SSS, 相似. 
 
-第二组: $\angle ACB=\angle DCE$ (对顶角), 且 $\frac{BC}{CE}=\frac{54}{36}=\frac{3}{2}$, $\frac{AC}{CD}=\frac{45}{30}=\frac{3}{2}$, 两边成比例且夹角相等, 由**基础知识: SAS**, 相似. $\blacksquare$
+第二组: $\angle ACB=\angle DCE$ (对顶角), 且 $\frac{BC}{CE}=\frac{54}{36}=\frac{3}{2}$, $\frac{AC}{CD}=\frac{45}{30}=\frac{3}{2}$, 两边成比例且夹角相等, 由SAS, 相似. $\blacksquare$
 
 ## 练习五
 
@@ -130,7 +72,7 @@ $$
 
 ### 解答 练习五
 
-由**基础知识: SSS**, 两个三角形三边对应成比例则相似. 边长 $2\ \text{cm}$ 可分别对应原三角形的三条边. 
+由SSS, 两个三角形三边对应成比例则相似. 边长 $2\ \text{cm}$ 可分别对应原三角形的三条边. 
 
 方案一: $2$ 对应 $4$, 相似比 $\frac{1}{2}$, 另两边为 $2.5\ \text{cm}$, $3\ \text{cm}$. 
 
@@ -148,7 +90,7 @@ $$
 
 设等腰三角形底角为 $\alpha$, 则顶角为 $180^\circ-2\alpha$. 
 
-底角相等的两个等腰三角形, 底角都为 $\alpha$, 顶角都为 $180^\circ-2\alpha$, 三角对应相等, 由**基础知识: AA**, 相似. 
+底角相等的两个等腰三角形, 底角都为 $\alpha$, 顶角都为 $180^\circ-2\alpha$, 三角对应相等, 由AA, 相似. 
 
 顶角相等的两个等腰三角形, 设顶角为 $\beta$, 则底角都为 $\frac{180^\circ-\beta}{2}$, 三角对应相等, 由 AA, 相似. $\blacksquare$
 
@@ -158,7 +100,7 @@ $$
 
 ### 解答 练习七
 
-(1) $CD\perp AB$, 故 $\angle ADC=90^\circ=\angle ACB$, 又 $\angle A$ 公共, 由**基础知识: AA**, $\triangle ACD\backsim\triangle ABC$. 
+(1) $CD\perp AB$, 故 $\angle ADC=90^\circ=\angle ACB$, 又 $\angle A$ 公共, 由AA, $\triangle ACD\backsim\triangle ABC$. 
 
 (2) $\angle CDB=90^\circ=\angle ACB$, 又 $\angle B$ 公共, 由 AA, $\triangle CBD\backsim\triangle ABC$. $\blacksquare$
 
@@ -174,7 +116,7 @@ $$
 \frac{3}{3k}=\frac{1}{k},\quad\frac{4}{4k}=\frac{1}{k}.
 $$
 
-两组直角边成比例, 夹角均为 $90^\circ$, 由**基础知识: SAS**, 一定相似. $\blacksquare$
+两组直角边成比例, 夹角均为 $90^\circ$, 由SAS, 一定相似. $\blacksquare$
 
 ## 练习九
 
@@ -182,7 +124,7 @@ $$
 
 ### 解答 练习九
 
-由**基础知识** 和**基础知识**. 
+由基础知识 和基础知识. 
 
 (1) 相似比为 $5$, 对应角平分线比等于相似比 $5$, 正确. 
 
@@ -194,7 +136,7 @@ $$
 
 ### 解答 练习十
 
-由**基础知识: 对应线段**, 相似三角形对应高的比等于相似比 $k$. 
+由对应线段, 相似三角形对应高的比等于相似比 $k$. 
 
 $AD$ 与 $A'D'$ 是对应高, $BE$ 与 $B'E'$ 也是对应高, 故
 
@@ -212,7 +154,7 @@ $$
 
 放缩比例为 $6:2=3:1$, 即相似比为 $3$. 
 
-由**基础知识: 面积比**, 面积比为相似比的平方, 即 $9$ 倍. $\blacksquare$
+由面积比, 面积比为相似比的平方, 即 $9$ 倍. $\blacksquare$
 
 ## 练习十二
 
@@ -266,9 +208,9 @@ $$
 
 ### 解答 习题二
 
-(1) $\frac{10}{150}=\frac{1}{15}$, $\frac{12}{180}=\frac{1}{15}$, $\frac{15}{225}=\frac{1}{15}$, 三边成比例, 由**基础知识: SSS**, 相似. 
+(1) $\frac{10}{150}=\frac{1}{15}$, $\frac{12}{180}=\frac{1}{15}$, $\frac{15}{225}=\frac{1}{15}$, 三边成比例, 由SSS, 相似. 
 
-(2) $\angle C=180^\circ-70^\circ-48^\circ=62^\circ=\angle C'$, 又 $\angle A=\angle A'=70^\circ$, 两角分别相等, 由**基础知识: AA**, 相似. $\blacksquare$
+(2) $\angle C=180^\circ-70^\circ-48^\circ=62^\circ=\angle C'$, 又 $\angle A=\angle A'=70^\circ$, 两角分别相等, 由AA, 相似. $\blacksquare$
 
 ## 习题三
 
@@ -276,9 +218,9 @@ $$
 
 ### 解答 习题三
 
-(1) 第一组: 两边比均为 $3:2$, 夹角 $98^\circ$ 相等, 由**基础知识: SAS**, 相似. 
+(1) 第一组: 两边比均为 $3:2$, 夹角 $98^\circ$ 相等, 由SAS, 相似. 
 
-(2) 第二组: $\angle 1=\angle 2$, 另有一组对应角相等, 由**基础知识: AA**, 相似; 对应边成比例可求出 $x,y$. $\blacksquare$
+(2) 第二组: $\angle 1=\angle 2$, 另有一组对应角相等, 由AA, 相似; 对应边成比例可求出 $x,y$. $\blacksquare$
 
 ## 习题四
 
@@ -290,7 +232,7 @@ $DE\parallel BC$, 故 $\angle AED=\angle C$.
 
 $EF\parallel AB$, 故 $\angle A=\angle CEF$. 
 
-在 $\triangle ADE$ 和 $\triangle EFC$ 中, $\angle A=\angle CEF$, $\angle AED=\angle C$, 由**基础知识: AA**, $\triangle ADE\backsim\triangle EFC$. $\blacksquare$
+在 $\triangle ADE$ 和 $\triangle EFC$ 中, $\angle A=\angle CEF$, $\angle AED=\angle C$, 由AA, $\triangle ADE\backsim\triangle EFC$. $\blacksquare$
 
 ## 习题五
 
@@ -298,7 +240,7 @@ $EF\parallel AB$, 故 $\angle A=\angle CEF$.
 
 ### 解答 习题五
 
-由**基础知识: 预备定理**, 平行于三角形一边的直线截得的三角形与原三角形相似. 
+由预备定理, 平行于三角形一边的直线截得的三角形与原三角形相似. 
 
 $DE\parallel BC$, 故 $\triangle ADE\backsim\triangle ABC$; $FG\parallel BC$, 故 $\triangle AFG\backsim\triangle ABC$. 因此 $\triangle ADE\backsim\triangle AFG\backsim\triangle ABC$. $\blacksquare$
 
@@ -318,7 +260,7 @@ $DE\parallel BC$, 故 $\triangle ADE\backsim\triangle ABC$; $FG\parallel BC$, �
 
 ### 解答 习题七
 
-在 $\text{Rt}\triangle ABC$ 中, $\angle BAC=90^\circ$, $AD\perp BC$. 由**基础知识: AA**, $\triangle ABD\backsim\triangle CBA$. 
+在 $\text{Rt}\triangle ABC$ 中, $\angle BAC=90^\circ$, $AD\perp BC$. 由AA, $\triangle ABD\backsim\triangle CBA$. 
 
 $$
 \frac{AB}{BC}=\frac{BD}{AB}\Rightarrow AB^2=BD\cdot BC.
@@ -334,7 +276,7 @@ $$
 
 ### 解答 习题八
 
-$\angle AOB=\angle DOC$ (对顶角), 且 $\frac{OA}{OD}=3=\frac{OB}{OC}$, 由**基础知识: SAS**, $\triangle OAB\backsim\triangle ODC$. 
+$\angle AOB=\angle DOC$ (对顶角), 且 $\frac{OA}{OD}=3=\frac{OB}{OC}$, 由SAS, $\triangle OAB\backsim\triangle ODC$. 
 
 $$
 \frac{AB}{CD}=\frac{OA}{OD}=3.
@@ -366,7 +308,7 @@ $$
 
 由光的反射定律, 反射角等于入射角, 故 $\angle LMK=\angle SMT$. 
 
-$\angle KLM=\angle TSM=90^\circ$, 由**基础知识: AA**, $\triangle KLM\backsim\triangle TSM$. 
+$\angle KLM=\angle TSM=90^\circ$, 由AA, $\triangle KLM\backsim\triangle TSM$. 
 
 $$
 \frac{KL}{TS}=\frac{LM}{SM}=\frac{0.3}{2}=\frac{3}{20}.
@@ -386,7 +328,7 @@ $EF\parallel BC\parallel AD$, $FG\parallel CD\parallel AB$.
 
 又 $\triangle AEF\backsim\triangle ABC$, $\triangle AFG\backsim\triangle ACD$, 对应边比均为 $\frac{AF}{AC}$. 
 
-故四边形 $AEFG$ 与 $ABCD$ 对应角相等, 对应边成比例, 由**基础知识**, 一直保持相似. $\blacksquare$
+故四边形 $AEFG$ 与 $ABCD$ 对应角相等, 对应边成比例, 由基础知识, 一直保持相似. $\blacksquare$
 
 ## 习题十二
 
@@ -394,9 +336,9 @@ $EF\parallel BC\parallel AD$, $FG\parallel CD\parallel AB$.
 
 ### 解答 习题十二
 
-由**基础知识**, $DE\parallel BC$, 故 $\triangle ADE\backsim\triangle ABC$. 
+由基础知识, $DE\parallel BC$, 故 $\triangle ADE\backsim\triangle ABC$. 
 
-由**基础知识**, $\frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\left(\frac{AD}{AB}\right)^2=\frac{1}{2}$. 
+由基础知识, $\frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\left(\frac{AD}{AB}\right)^2=\frac{1}{2}$. 
 
 故 $\frac{AD}{AB}=\frac{1}{\sqrt{2}}=\frac{\sqrt{2}}{2}$, 即 $D$ 在 $AB$ 上使 $AD:DB=\sqrt{2}:\left(2-\sqrt{2}\right)$. $\blacksquare$
 
@@ -406,7 +348,7 @@ $EF\parallel BC\parallel AD$, $FG\parallel CD\parallel AB$.
 
 ### 解答 习题十三
 
-$CD\perp AB$, 故 $\angle ADC=\angle CDB=90^\circ$. 又 $\frac{AD}{CD}=\frac{CD}{BD}$, 两边成比例且夹角相等, 由**基础知识: SAS**, $\triangle ACD\backsim\triangle CBD$. 
+$CD\perp AB$, 故 $\angle ADC=\angle CDB=90^\circ$. 又 $\frac{AD}{CD}=\frac{CD}{BD}$, 两边成比例且夹角相等, 由SAS, $\triangle ACD\backsim\triangle CBD$. 
 
 故 $\angle ACD=\angle B$. 
 
@@ -424,7 +366,7 @@ $$
 
 $x$ 秒时 $BD=2x$, $AD=AB-BD=8-2x$. 
 
-由**基础知识**, $DE\parallel BC$, $\triangle ADE\backsim\triangle ABC$, 故
+由基础知识, $DE\parallel BC$, $\triangle ADE\backsim\triangle ABC$, 故
 
 $$
 \frac{DE}{BC}=\frac{AD}{AB}=\frac{8-2x}{8}.
@@ -443,4 +385,4 @@ $$
 ### 解答 观察与猜想一
 
 谢尔宾斯基地毯由将正三角形四等分后挖去中间一个, 再对剩余小三角形重复操作得到; 雪花曲线由在等边三角形每条边中间向外作小等边三角形, 再重复操作得到. 两种图形中, 局部与整体形状相同, 即存在自相似性, 大大小小的三角形彼此相似. 这种具有自相似性的图形叫做分形图形. $\blacksquare$
-
+

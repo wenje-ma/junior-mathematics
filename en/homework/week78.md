@@ -1,25 +1,6 @@
 # week78
 
-> **Basic Knowledge: Multiplication of Powers with the Same Base**
-> 
-> In general, for any base $a$ and any positive integers $m,n$, $a^m\cdot a^n=a^{m+n}$; that is, when multiplying powers with the same base, the base is unchanged and the exponents are added. This property also holds when three or more powers with the same base are multiplied.
-> **Basic Knowledge: Power of a Power**
-> 
-> To raise a power to a power, keep the base and multiply the exponents: (a^m)^n = a^{mn}.
-> **Basic Knowledge: Power of a Product**
-> 
-> To raise a product to a power, raise each factor to that power and multiply: (ab)^n = a^n b^n.
-
 ---
-
-
-> **Basic Knowledge: Power of a Power** 
-> 
-> In general, for any base $a$ and any positive integers $m,n$, $\left(a^m\right)^n=a^{mn}$; that is, for a power of a power, the base is unchanged and the exponents are multiplied.
-
-> **Basic Knowledge: Power of a Product** 
-> 
-> In general, for any bases $a,b$ and any positive integer $n$, $\left(ab\right)^n=a^n b^n$; that is, the power of a product equals taking the power of each factor of the product separately and then multiplying the resulting powers. This property also holds for the power of a product of three or more factors.
 
 ## Exercise 1
 
@@ -35,7 +16,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Multiplication of Powers with the Same Base**, when multiplying powers with the same base the base is unchanged and the exponents are added.
+By Multiplication of Powers with the Same Base, when multiplying powers with the same base the base is unchanged and the exponents are added.
 
 (1) Incorrect. $a^3\cdot a^2=a^{3+2}=a^5$; the exponent was mistakenly treated by an operation other than addition.
 
@@ -59,7 +40,7 @@ By **Basic Knowledge: Multiplication of Powers with the Same Base**, when multip
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Multiplication of Powers with the Same Base**, the base is unchanged and the exponents are added.
+By Multiplication of Powers with the Same Base, the base is unchanged and the exponents are added.
 
 (1) $a^2\cdot a^6=a^{2+6}=a^8$.
 
@@ -81,11 +62,11 @@ By **Basic Knowledge: Multiplication of Powers with the Same Base**, the base is
 
 ### Solution to Exercise 3
 
-Judge by **Basic Knowledge: Power of a Power** and **Basic Knowledge: Power of a Product**.
+Judge by Power of a Power and Power of a Product.
 
 (1) Incorrect. $\left(a^5\right)^2=a^{5\times2}=a^{10}$; for a power of a power the exponents should be multiplied.
 
-(2) Incorrect. By **Basic Knowledge**, $\left(ab^2\right)^3=a^3\left(b^2\right)^3=a^3 b^6$; the power of the factor $a$ was omitted.
+(2) Incorrect. By Basic Knowledge, $\left(ab^2\right)^3=a^3\left(b^2\right)^3=a^3 b^6$; the power of the factor $a$ was omitted.
 
 (3) Incorrect. $\left(-2a\right)^2=\left(-2\right)^2 a^2=4a^2$; the coefficient $-2$ must also be squared. $\blacksquare$
 
@@ -103,7 +84,7 @@ Judge by **Basic Knowledge: Power of a Power** and **Basic Knowledge: Power of a
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Power of a Power** and **Basic Knowledge: Multiplication of Powers with the Same Base**.
+By Power of a Power and Multiplication of Powers with the Same Base.
 
 (1) $\left(10^3\right)^3=10^{3\times3}=10^9$.
 
@@ -127,7 +108,7 @@ By **Basic Knowledge: Power of a Power** and **Basic Knowledge: Multiplication o
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Power of a Product** and **Basic Knowledge: Multiplication of Powers with the Same Base**.
+By Power of a Product and Multiplication of Powers with the Same Base.
 
 (1) $\left(ab\right)^4=a^4 b^4$.
 
@@ -151,7 +132,7 @@ By **Basic Knowledge: Power of a Product** and **Basic Knowledge: Multiplication
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Multiplication of Powers with the Same Base**.
+By Multiplication of Powers with the Same Base.
 
 (1) $b^3\cdot b=b^4$.
 
@@ -175,7 +156,7 @@ By **Basic Knowledge: Multiplication of Powers with the Same Base**.
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Power of a Power**.
+By Power of a Power.
 
 (1) $\left(10^2\right)^8=10^{16}$.
 
@@ -199,7 +180,7 @@ By **Basic Knowledge: Power of a Power**.
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Power of a Product**.
+By Power of a Product.
 
 (1) $\left(2ab\right)^3=8a^3 b^3$.
 
@@ -223,7 +204,7 @@ By **Basic Knowledge: Power of a Product**.
 
 ### Solution to Problem 4
 
-Combining **Basic Knowledge**, **Basic Knowledge**, and **Basic Knowledge**.
+Combining Basic Knowledge, Basic Knowledge, and Basic Knowledge.
 
 (1) $x\cdot x^3+x^2\cdot x^2=x^4+x^4=2x^4$.
 
@@ -259,7 +240,7 @@ By the properties of operations on powers.
 
 ### Solution to Problem 6
 
-By **Basic Knowledge** and **Basic Knowledge**.
+By Basic Knowledge and Basic Knowledge.
 
 (1) $\left[\left(-2a^2 b^3\right)^3\right]^2=\left(-2a^2 b^3\right)^6=\left(-2\right)^6 a^{12} b^{18}=64a^{12} b^{18}$.
 
@@ -271,7 +252,7 @@ By **Basic Knowledge** and **Basic Knowledge**.
 
 ### Solution to Problem 7
 
-By **Basic Knowledge: Multiplication of Powers with the Same Base**, convert all units uniformly into bytes.
+By Multiplication of Powers with the Same Base, convert all units uniformly into bytes.
 
 $1\,GB=2^{10}\,MB=2^{10}\times2^{10}\,KB=2^{10}\times2^{10}\times2^{10}\,B=2^{30}\,B$.
 
@@ -287,7 +268,7 @@ That is, the capacity of this flash drive is $2^{36}$ bytes. $\blacksquare$
 
 ### Solution to Problem 8
 
-By **Basic Knowledge** and **Basic Knowledge**.
+By Basic Knowledge and Basic Knowledge.
 
 (1) $32^n=\left(2^5\right)^n=2^{5n}=b$, hence $2^{10n}=\left(2^{5n}\right)^2=b^2$. Also $2^{3m}=\left(2^m\right)^3=a^3$. Therefore
 

@@ -1,17 +1,5 @@
 # week53
 
-> **Basic Knowledge: System of Linear Inequalities in One Variable**
-> 
-> A system of inequalities formed by combining several linear inequalities in one variable.
-
-> **Basic Knowledge: Solution Set of a System of Inequalities**
-> 
-> The common part of the solution sets of the several inequalities.
-
-
-> **Basic Knowledge: Solving a System of Inequalities**
-> 
-> Find the solution set of each inequality in the group, then use the number line to find their intersection, which is the solution set of the inequality group.
 ---
 
 ## Exercise 1
@@ -24,12 +12,11 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Solving a System of Inequalities**.
+By Solving a System of Inequalities.
 
 (1) First inequality: $x> 2$. Second inequality: $x+8< 4x-1$, i.e. $x> 3$. The common part is $x> 3$.
 
 (2) First inequality: $x\ge8$. Second inequality: $\frac{2x+5}{3}< 3-x$; multiplying by $3$ gives $2x+5< 9-3x$, i.e. $x< \frac{4}{5}$. There is no common part between $x\ge8$ and $x< \frac{4}{5}$, so the system has no solution. $\blacksquare$
-
 
 ---
 
@@ -44,7 +31,6 @@ From the first inequality $5x+2> 3x-3$, we get $x> -\frac{5}{2}$.
 From the second inequality $\frac{1}{2}x-1\le7-\frac{3}{2}x$, we get $2x\le8$, i.e. $x\le4$.
 
 The common part is $-\frac{5}{2}< x\le4$, with integers $x=-2,-1,0,1,2,3,4$. $\blacksquare$
-
 
 ---
 
@@ -66,7 +52,6 @@ The common part is $-\frac{5}{2}< x\le4$, with integers $x=-2,-1,0,1,2,3,4$. $\b
 
 (3) First inequality: $\frac{5}{3}x> -4$, $x> -\frac{12}{5}$. Second inequality: $\frac{1}{4}x\le\frac{7}{8}$, $x\le\frac{7}{2}$. Common part $-\frac{12}{5}< x\le\frac{7}{2}$. $\blacksquare$
 
-
 ---
 
 ## Exercise 4
@@ -76,7 +61,6 @@ The common part is $-\frac{5}{2}< x\le4$, with integers $x=-2,-1,0,1,2,3,4$. $\b
 ### Solution to Exercise 4
 
 From $x+3> 6$ we get $x> 3$; from $2x-1< 10$ we get $x< \frac{11}{2}$. Common part $3< x< 5.5$, with integers $x=4,5$. $\blacksquare$
-
 
 ---
 
@@ -102,7 +86,6 @@ From $x+3> 6$ we get $x> 3$; from $2x-1< 10$ we get $x< \frac{11}{2}$. Common pa
 
 (4) $x> 4$ and $x< 2$, no common part, so no solution. $\blacksquare$
 
-
 ---
 
 ## Problem 2
@@ -127,7 +110,6 @@ From $x+3> 6$ we get $x> 3$; from $2x-1< 10$ we get $x< \frac{11}{2}$. Common pa
 
 (4) First inequality: $x< 0$; second inequality: $3x+6> 2x+6$, i.e. $x> 0$. No common part, so no solution. $\blacksquare$
 
-
 ---
 
 ## Problem 3
@@ -142,7 +124,6 @@ Second inequality: $3+x> \frac{1}{2}x+1$, i.e. $\frac{1}{2}x> -2$, $x> -4$.
 
 Common part $-4< x< 2$, with integers $x=-3,-2,-1,0,1$. $\blacksquare$
 
-
 ---
 
 ## Problem 4
@@ -152,7 +133,6 @@ Common part $-4< x< 2$, with integers $x=-3,-2,-1,0,1$. $\blacksquare$
 ### Solution to Problem 4
 
 From $2\le3x-7< 8$, add $7$ to each part: $9\le3x< 15$; divide by $3$: $3\le x< 5$. The integers are $x=3,4$. $\blacksquare$
-
 
 ---
 

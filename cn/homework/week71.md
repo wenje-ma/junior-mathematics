@@ -1,27 +1,5 @@
 # week71
 
-
-> **基础知识: SSS**
-> 
-> 三边分别相等的两个三角形全等 (可以简写成 "边边边" 或 "SSS").
-> **基础知识: SAS**
-> 
-> 两边及其夹角分别相等的两个三角形全等 (可以简写成 "边角边" 或 "SAS").
-> **基础知识: AAS**
-> 
-> 两角分别相等且其中一组等角的对边相等的两个三角形全等 (可以简写成 "角角边" 或 "AAS").
-> **基础知识: HL**
-> 
-> 斜边和一条直角边分别相等的两个直角三角形全等 (可以简写成 "斜边, 直角边" 或 "HL").
-> **基础知识: 角平分线的判定**
-> 
-> 角的内部到角的两边距离相等的点在角的平分线上.
-> **基础知识: 角平分线的性质**
-> 
-> 角的平分线上的点到角的两边的距离相等.
-> **基础知识: 三角形角平分线**
-> 
-> 三角形的三条角平分线相交于一点.
 ---
 
 ## 复习题一
@@ -31,7 +9,6 @@
 ### 解答 复习题一
 
 三个正方形的边长分别相等, 由对角线分割所得的三角形, 只要它们的两条直角边分别为正方形的边或相等, 即可由 SAS 判定全等. 图中所有由相等的边及直角所围成的三角形两两全等, 即同一个正方形沿对角线分成的两个三角形全等, 边长相等的对应三角形之间也全等. $\blacksquare$
-
 
 ---
 
@@ -49,7 +26,6 @@
 
 (2) 有. 以同一条底 $AD$ 或 $BC$ 上, 高相等的三角形为例, 如 $\triangle ABF$ 与 $\triangle DBF$, 它们有相同的底 $BF$ 且高相等, 面积相等, 但形状并不相同, 因而面积相等而不全等. $\blacksquare$
 
-
 ---
 
 ## 复习题三
@@ -58,10 +34,9 @@
 
 ### 解答 复习题三
 
-在 $\triangle ADB$ 和 $\triangle AEC$ 中, $AD=AE$, $BD=CE$, $AB=AC$, 由**基础知识: SSS**, $\triangle ADB\cong\triangle AEC$.
+在 $\triangle ADB$ 和 $\triangle AEC$ 中, $AD=AE$, $BD=CE$, $AB=AC$, 由SSS, $\triangle ADB\cong\triangle AEC$.
 
-由**基础知识**, 对应角 $\angle D=\angle E$. $\blacksquare$
-
+由基础知识, 对应角 $\angle D=\angle E$. $\blacksquare$
 
 ---
 
@@ -71,10 +46,9 @@
 
 ### 解答 复习题四
 
-由 $\angle 1=\angle 2$, 两边同时加上 $\angle ACE$, 得 $\angle ACB=\angle DCE$. 在 $\triangle ACB$ 和 $\triangle DCE$ 中, $CA=CD$, $\angle ACB=\angle DCE$, $BC=EC$, 由**基础知识: SAS**, $\triangle ACB\cong\triangle DCE$.
+由 $\angle 1=\angle 2$, 两边同时加上 $\angle ACE$, 得 $\angle ACB=\angle DCE$. 在 $\triangle ACB$ 和 $\triangle DCE$ 中, $CA=CD$, $\angle ACB=\angle DCE$, $BC=EC$, 由SAS, $\triangle ACB\cong\triangle DCE$.
 
-由**基础知识**, 对应边 $AB=DE$. $\blacksquare$
-
+由基础知识, 对应边 $AB=DE$. $\blacksquare$
 
 ---
 
@@ -84,10 +58,9 @@
 
 ### 解答 复习题五
 
-设 $AD$ 与 $BC$ 相交于点 $O$. 由 $CA\perp AB$, $DB\perp AB$, 得 $\angle CAO=\angle DBO=90^\circ$. 在 $\triangle ACO$ 和 $\triangle BDO$ 中, $\angle CAO=\angle DBO$, $\angle AOC=\angle BOD$ (对顶角), $\angle CAO$ 所对条件结合 $\angle CAD=\angle CBD$, 由**基础知识: AAS**, $\triangle ACO\cong\triangle BDO$.
+设 $AD$ 与 $BC$ 相交于点 $O$. 由 $CA\perp AB$, $DB\perp AB$, 得 $\angle CAO=\angle DBO=90^\circ$. 在 $\triangle ACO$ 和 $\triangle BDO$ 中, $\angle CAO=\angle DBO$, $\angle AOC=\angle BOD$ (对顶角), $\angle CAO$ 所对条件结合 $\angle CAD=\angle CBD$, 由AAS, $\triangle ACO\cong\triangle BDO$.
 
-由**基础知识**, 对应边 $CA=DB$. $\blacksquare$
-
+由基础知识, 对应边 $CA=DB$. $\blacksquare$
 
 ---
 
@@ -97,10 +70,9 @@
 
 ### 解答 复习题六
 
-由 $AC\perp BD$, 得 $\angle AEB=\angle CED=90^\circ$. 在 $\text{Rt}\triangle ABE$ 和 $\text{Rt}\triangle CDE$ 中, 斜边 $AB=CD$, 直角边 $AE=CE$, 由**基础知识: HL**, $\text{Rt}\triangle ABE\cong\text{Rt}\triangle CDE$.
+由 $AC\perp BD$, 得 $\angle AEB=\angle CED=90^\circ$. 在 $\text{Rt}\triangle ABE$ 和 $\text{Rt}\triangle CDE$ 中, 斜边 $AB=CD$, 直角边 $AE=CE$, 由HL, $\text{Rt}\triangle ABE\cong\text{Rt}\triangle CDE$.
 
-由**基础知识**, 对应直角边 $BE=DE$. $\blacksquare$
-
+由基础知识, 对应直角边 $BE=DE$. $\blacksquare$
 
 ---
 
@@ -110,10 +82,9 @@
 
 ### 解答 复习题七
 
-由 $D$ 是 $BC$ 中点, 得 $BD=CD$. 在 $\text{Rt}\triangle BDE$ 和 $\text{Rt}\triangle CDF$ 中, 斜边 $BD=CD$, 直角边 $BE=CF$, 由**基础知识: HL**, $\text{Rt}\triangle BDE\cong\text{Rt}\triangle CDF$.
+由 $D$ 是 $BC$ 中点, 得 $BD=CD$. 在 $\text{Rt}\triangle BDE$ 和 $\text{Rt}\triangle CDF$ 中, 斜边 $BD=CD$, 直角边 $BE=CF$, 由HL, $\text{Rt}\triangle BDE\cong\text{Rt}\triangle CDF$.
 
-由**基础知识**, 对应直角边 $DE=DF$. 即点 $D$ 到 $AB$, $AC$ 的距离相等. 由**基础知识: 角平分线的判定**, 点 $D$ 在 $\angle A$ 的平分线上, 故 $AD$ 是 $\triangle ABC$ 的角平分线. $\blacksquare$
-
+由基础知识, 对应直角边 $DE=DF$. 即点 $D$ 到 $AB$, $AC$ 的距离相等. 由角平分线的判定, 点 $D$ 在 $\angle A$ 的平分线上, 故 $AD$ 是 $\triangle ABC$ 的角平分线. $\blacksquare$
 
 ---
 
@@ -123,8 +94,7 @@
 
 ### 解答 复习题八
 
-由**基础知识: 角平分线的性质** 及**基础知识: 三角形角平分线**, 三角形三条角平分线交于一点, 且该点到三边距离相等. 故度假村应修在三条公路所围成三角形的三条角平分线的交点 (即内心) 处. $\blacksquare$
-
+由角平分线的性质 及三角形角平分线, 三角形三条角平分线交于一点, 且该点到三边距离相等. 故度假村应修在三条公路所围成三角形的三条角平分线的交点 (即内心) 处. $\blacksquare$
 
 ---
 
@@ -134,10 +104,9 @@
 
 ### 解答 复习题九
 
-相等. 由同速同时行驶, 得 $AC=BD$. 路线平行, 故 $\angle CAE=\angle DBF$. 又 $CE\perp AB$, $DF\perp AB$, 得 $\angle CEA=\angle DFB=90^\circ$. 在 $\triangle ACE$ 和 $\triangle BDF$ 中, $\angle CEA=\angle DFB$, $\angle CAE=\angle DBF$, $AC=BD$, 由**基础知识: AAS**, $\triangle ACE\cong\triangle BDF$.
+相等. 由同速同时行驶, 得 $AC=BD$. 路线平行, 故 $\angle CAE=\angle DBF$. 又 $CE\perp AB$, $DF\perp AB$, 得 $\angle CEA=\angle DFB=90^\circ$. 在 $\triangle ACE$ 和 $\triangle BDF$ 中, $\angle CEA=\angle DFB$, $\angle CAE=\angle DBF$, $AC=BD$, 由AAS, $\triangle ACE\cong\triangle BDF$.
 
-由**基础知识**, 对应边 $CE=DF$. $\blacksquare$
-
+由基础知识, 对应边 $CE=DF$. $\blacksquare$
 
 ---
 
@@ -147,10 +116,9 @@
 
 ### 解答 复习题十
 
-由 $C$ 是 $AB$ 中点, 得 $AC=CB$. 由 $CD\parallel BE$, 得 $\angle ACD=\angle CBE$. 在 $\triangle ACD$ 和 $\triangle CBE$ 中, $AC=CB$, $\angle ACD=\angle CBE$, $CD=BE$, 由**基础知识: SAS**, $\triangle ACD\cong\triangle CBE$.
+由 $C$ 是 $AB$ 中点, 得 $AC=CB$. 由 $CD\parallel BE$, 得 $\angle ACD=\angle CBE$. 在 $\triangle ACD$ 和 $\triangle CBE$ 中, $AC=CB$, $\angle ACD=\angle CBE$, $CD=BE$, 由SAS, $\triangle ACD\cong\triangle CBE$.
 
-由**基础知识**, 对应角 $\angle ADC=\angle CEB$, 这是内错角, 故 $AD\parallel CE$. $\blacksquare$
-
+由基础知识, 对应角 $\angle ADC=\angle CEB$, 这是内错角, 故 $AD\parallel CE$. $\blacksquare$
 
 ---
 
@@ -162,10 +130,9 @@
 
 由 $AD\perp CE$, $BE\perp CE$, 得 $\angle ADC=\angle CEB=90^\circ$. 由 $\angle ACB=90^\circ$, 得 $\angle ACD+\angle BCE=90^\circ$. 又在 $\text{Rt}\triangle ADC$ 中, $\angle ACD+\angle CAD=90^\circ$, 故 $\angle CAD=\angle BCE$.
 
-在 $\triangle ACD$ 和 $\triangle CBE$ 中, $\angle ADC=\angle CEB$, $\angle CAD=\angle BCE$, $AC=CB$, 由**基础知识: AAS**, $\triangle ACD\cong\triangle CBE$.
+在 $\triangle ACD$ 和 $\triangle CBE$ 中, $\angle ADC=\angle CEB$, $\angle CAD=\angle BCE$, $AC=CB$, 由AAS, $\triangle ACD\cong\triangle CBE$.
 
-由**基础知识**, $CD=BE$, $CE=AD=2.5$. 又 $CE=CD+DE$, 故 $CD=CE-DE=2.5-1.7=0.8$, 从而 $BE=0.8$. $\blacksquare$
-
+由基础知识, $CD=BE$, $CE=AD=2.5$. 又 $CE=CD+DE$, 故 $CD=CE-DE=2.5-1.7=0.8$, 从而 $BE=0.8$. $\blacksquare$
 
 ---
 
@@ -185,7 +152,6 @@ $$
 
 $\blacksquare$
 
-
 ---
 
 ## 复习题十三
@@ -196,10 +162,9 @@ $\blacksquare$
 
 $AD=A'D'$. 由 $\triangle ABC\cong\triangle A'B'C'$, 得 $AB=A'B'$, $BC=B'C'$, $\angle B=\angle B'$. 由 $AD$, $A'D'$ 为中线, 得 $BD=\frac{1}{2}BC$, $B'D'=\frac{1}{2}B'C'$, 故 $BD=B'D'$.
 
-在 $\triangle ABD$ 和 $\triangle A'B'D'$ 中, $AB=A'B'$, $\angle B=\angle B'$, $BD=B'D'$, 由**基础知识: SAS**, $\triangle ABD\cong\triangle A'B'D'$.
+在 $\triangle ABD$ 和 $\triangle A'B'D'$ 中, $AB=A'B'$, $\angle B=\angle B'$, $BD=B'D'$, 由SAS, $\triangle ABD\cong\triangle A'B'D'$.
 
-由**基础知识**, 对应边 $AD=A'D'$. $\blacksquare$
-
+由基础知识, 对应边 $AD=A'D'$. $\blacksquare$
 
 ---
 
@@ -209,7 +174,7 @@ $AD=A'D'$. 由 $\triangle ABC\cong\triangle A'B'C'$, 得 $AB=A'B'$, $BC=B'C'$, $
 
 ### 解答 复习题十四
 
-过点 $D$ 作 $DE\perp AB$, $DF\perp AC$, 垂足分别为 $E$, $F$. 由 $AD$ 是角平分线及**基础知识: 角平分线的性质**, $DE=DF$.
+过点 $D$ 作 $DE\perp AB$, $DF\perp AC$, 垂足分别为 $E$, $F$. 由 $AD$ 是角平分线及角平分线的性质, $DE=DF$.
 
 以 $AB$, $AC$ 为底, 两三角形的高同为 $DE=DF$, 故
 
@@ -218,7 +183,6 @@ $$
 $$
 
 即 $S_{\triangle ABD}:S_{\triangle ACD}=AB:AC$. $\blacksquare$
-
 
 ---
 
@@ -230,6 +194,6 @@ $$
 
 设 $\triangle ABC$ 与 $\triangle A'B'C'$ 中, $AB=A'B'$, $BC=B'C'$, $AD$, $A'D'$ 分别为 $BC$, $B'C'$ 边上的中线, 且 $AD=A'D'$.
 
-由 $D$, $D'$ 为中点, $BD=\frac{1}{2}BC=\frac{1}{2}B'C'=B'D'$. 在 $\triangle ABD$ 和 $\triangle A'B'D'$ 中, $AB=A'B'$, $BD=B'D'$, $AD=A'D'$, 由**基础知识: SSS**, $\triangle ABD\cong\triangle A'B'D'$, 故 $\angle B=\angle B'$.
+由 $D$, $D'$ 为中点, $BD=\frac{1}{2}BC=\frac{1}{2}B'C'=B'D'$. 在 $\triangle ABD$ 和 $\triangle A'B'D'$ 中, $AB=A'B'$, $BD=B'D'$, $AD=A'D'$, 由SSS, $\triangle ABD\cong\triangle A'B'D'$, 故 $\angle B=\angle B'$.
 
-在 $\triangle ABC$ 和 $\triangle A'B'C'$ 中, $AB=A'B'$, $\angle B=\angle B'$, $BC=B'C'$, 由**基础知识: SAS**, $\triangle ABC\cong\triangle A'B'C'$. $\blacksquare$
+在 $\triangle ABC$ 和 $\triangle A'B'C'$ 中, $AB=A'B'$, $\angle B=\angle B'$, $BC=B'C'$, 由SAS, $\triangle ABC\cong\triangle A'B'C'$. $\blacksquare$

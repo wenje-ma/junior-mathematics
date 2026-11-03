@@ -1,13 +1,6 @@
 # week122
 
-> **Basic Knowledge: Within-Group Sum of Squared Deviations**
-> 
-> Splitting the data into two groups, the sum of the two groups' own sums of squared deviations is called the within-group sum of squared deviations.
-> **Basic Knowledge: Grouping Principle**
-> 
-> Grouping is done according to the principle of minimizing the within-group sum of squared deviations (equivalently, maximizing the between-group sum of squared deviations).
 ---
-
 
 ## Exercise 1
 
@@ -27,7 +20,7 @@ Gap $3$: $\left\{788, 812, 847\right\}$ and $\left\{886, 910\right\}$, within-gr
 
 Gap $4$: $\left\{788, 812, 847, 886\right\}$ and $\left\{910\right\}$, within-group sum of squared deviations $=7798.75+0=7798.75$.
 
-By **Basic Knowledge: Grouping Principle**, gap $3$ has the smallest within-group sum of squared deviations. Hence split into $\left\{788, 812, 847\right\}$ and $\left\{886, 910\right\}$, i.e. $\left\{E, D, C\right\}$ and $\left\{B, A\right\}$. $\blacksquare$
+By Grouping Principle, gap $3$ has the smallest within-group sum of squared deviations. Hence split into $\left\{788, 812, 847\right\}$ and $\left\{886, 910\right\}$, i.e. $\left\{E, D, C\right\}$ and $\left\{B, A\right\}$. $\blacksquare$
 
 ## Problem 1
 
@@ -47,7 +40,7 @@ Gap $3$: $\left\{7, 9, 12\right\}$ and $\left\{13, 15\right\}$, within-group sum
 
 Gap $4$: $\left\{7, 9, 12, 13\right\}$ and $\left\{15\right\}$, within-group sum of squared deviations $=24.75+0=24.75$.
 
-By **Basic Knowledge: Grouping Principle**, gap $2$ has the smallest within-group sum of squared deviations. Hence split into $\left\{7, 9\right\}$ and $\left\{12, 13, 15\right\}$. $\blacksquare$
+By Grouping Principle, gap $2$ has the smallest within-group sum of squared deviations. Hence split into $\left\{7, 9\right\}$ and $\left\{12, 13, 15\right\}$. $\blacksquare$
 
 ## Problem 2
 

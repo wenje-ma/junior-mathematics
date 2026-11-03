@@ -1,13 +1,5 @@
 # week33
 
-> **Basic Knowledge: Translation**
-> 
-> In a plane, moving a figure by a certain distance in a certain direction is called a translation of the figure. The direction of translation is not limited to horizontal or vertical; it may be along any direction in the plane.
-
-> **Basic Knowledge: Properties of Translation**
-> 
-> Properties of Translation.
-
 ---
 
 ## Exercise 1
@@ -18,14 +10,13 @@ The figure shows grid paper with triangle $ABC$ drawn on it, and points $M$ and 
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Properties of Translation**, during translation every point on the figure moves the same distance in the same direction, and the segments connecting each pair of corresponding points are parallel and equal.
+By Properties of Translation, during translation every point on the figure moves the same distance in the same direction, and the segments connecting each pair of corresponding points are parallel and equal.
 
 Point $A$ moves to point $M$, i.e. translation by the direction and distance of $\boldsymbol{AM}$. Thus point $B$ moves the same distance in the same direction as $\boldsymbol{AM}$ to its corresponding point, and point $C$ likewise. Connecting the three points gives the triangle after the first translation.
 
 Then move point $A$ (now at $M$) to point $N$, i.e. translate once more by the direction and distance of $\boldsymbol{MN}$, giving the triangle after the second translation.
 
 Translating triangle $ABC$ directly so that point $A$ moves to point $N$ has translation vector $\boldsymbol{AN}$. By vector addition, $\boldsymbol{AN}=\boldsymbol{AM}+\boldsymbol{MN}$, i.e. the combined effect of first translating by $\boldsymbol{AM}$ and then by $\boldsymbol{MN}$ is the same as translating directly by $\boldsymbol{AN}$. Thus the triangle obtained by direct translation is in the same position as the triangle obtained after the second translation. $\blacksquare$
-
 
 ---
 
@@ -35,10 +26,9 @@ Translating triangle $ABC$ directly so that point $A$ moves to point $N$ has tra
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Properties of Translation**, the segments connecting each pair of corresponding points are parallel and equal.
+By Properties of Translation, the segments connecting each pair of corresponding points are parallel and equal.
 
 Connect $AA'$, through points $B$, $C$, $D$ respectively draw lines parallel to $AA'$, and on them mark off $BB'=CC'=DD'=AA'$ to obtain the corresponding points $B'$, $C'$, $D'$. Connect $A'B'C'D'$ in order to obtain the translated quadrilateral. $\blacksquare$
-
 
 ---
 
@@ -48,8 +38,7 @@ Connect $AA'$, through points $B$, $C$, $D$ respectively draw lines parallel to 
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Properties of Translation**, choose a basic figure and repeatedly translate it by the same distance in a certain direction to obtain a strip pattern; then repeatedly translate in another, non-parallel direction to tile the plane. Draw it by this method. $\blacksquare$
-
+By Properties of Translation, choose a basic figure and repeatedly translate it by the same distance in a certain direction to obtain a strip pattern; then repeatedly translate in another, non-parallel direction to tile the plane. Draw it by this method. $\blacksquare$
 
 ---
 
@@ -59,8 +48,7 @@ By **Basic Knowledge: Properties of Translation**, choose a basic figure and rep
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Translation** and **Basic Knowledge: Properties of Translation**, a pattern is formed by translation when identical basic figures are repeatedly arranged in a certain direction. Find the smallest basic figure that repeats in the pattern; that is the basic figure from which the whole pattern is formed by translation. $\blacksquare$
-
+By Translation and Properties of Translation, a pattern is formed by translation when identical basic figures are repeatedly arranged in a certain direction. Find the smallest basic figure that repeats in the pattern; that is the basic figure from which the whole pattern is formed by translation. $\blacksquare$
 
 ---
 
@@ -70,10 +58,9 @@ By **Basic Knowledge: Translation** and **Basic Knowledge: Properties of Transla
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Properties of Translation**, after translation the new figure has exactly the same shape and size as the original, and the segments connecting each pair of corresponding points are parallel and equal.
+By Properties of Translation, after translation the new figure has exactly the same shape and size as the original, and the segments connecting each pair of corresponding points are parallel and equal.
 
 The corresponding points are $A$ and $D$, $B$ and $E$, $C$ and $F$. Parallel segments: the connecting segments of corresponding points $AD\parallel BE\parallel CF$, as well as the corresponding sides $AB\parallel DE$, $AC\parallel DF$. Equal segments: the corresponding sides $AB=DE$, $BC=EF$, $AC=DF$, as well as the connecting segments of corresponding points $AD=BE=CF$. $\blacksquare$
-
 
 ---
 
@@ -83,10 +70,9 @@ The corresponding points are $A$ and $D$, $B$ and $E$, $C$ and $F$. Parallel seg
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Properties of Translation**, move every vertex by $1\,\text{cm}$ in the direction of the arrow.
+By Properties of Translation, move every vertex by $1\,\text{cm}$ in the direction of the arrow.
 
 Through $A$, $B$, $C$, $D$ respectively draw segments parallel to the arrow and of length $1\,\text{cm}$, obtaining the corresponding points $A'$, $B'$, $C'$, $D'$; connect them in order to obtain the translated quadrilateral $A'B'C'D'$. $\blacksquare$
-
 
 ---
 
@@ -98,7 +84,7 @@ The figure shows a parallelogram with base $a$ and height $h$; a right triangle 
 
 ### Solution to Problem 4
 
-By **Basic Knowledge: Properties of Translation**, translation does not change the shape or size of a figure.
+By Properties of Translation, translation does not change the shape or size of a figure.
 
 As shown in the figure, let the base of the parallelogram be $a$ and the height be $h$. Cut off a right triangle from one side of the parallelogram and translate it along the direction of the base to the other side; it exactly fills in to form a rectangle. This rectangle has length $a$ and width $h$.
 
@@ -110,7 +96,6 @@ $$
 
 Thus the area formula of the parallelogram is $S=ah$. $\blacksquare$
 
-
 ---
 
 ## Problem 5
@@ -119,8 +104,7 @@ Thus the area formula of the parallelogram is $S=ah$. $\blacksquare$
 
 ### Solution to Problem 5
 
-By **Basic Knowledge: Properties of Translation**, repeatedly translate this basic figure composed of $4$ triangles in different directions; it can be assembled into strip patterns or patterns that tile the plane. Assemble it yourself and share with your classmates. $\blacksquare$
-
+By Properties of Translation, repeatedly translate this basic figure composed of $4$ triangles in different directions; it can be assembled into strip patterns or patterns that tile the plane. Assemble it yourself and share with your classmates. $\blacksquare$
 
 ---
 
@@ -132,7 +116,7 @@ The figure shows a rectangular lawn of length $a$ and width $b$, with a winding 
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Properties of Translation**, translation does not change the shape or size of a figure.
+By Properties of Translation, translation does not change the shape or size of a figure.
 
 The left edge of the path translated $1\,\text{m}$ to the right is the right edge, which means the path has width $1\,\text{m}$ in any transverse direction. Translate the lawn on both sides of the path toward the middle and join them; they form a new rectangle whose width is still $b$ and whose length is reduced by $1$, namely $a-1$.
 
@@ -150,6 +134,6 @@ Thus the grass-covered area of this lawn is $\left(ab-b\right)\,\text{m}^2$. $\b
 
 ### Solution to Inquiry and Discovery 1
 
-By **Basic Knowledge: Translation** and **Basic Knowledge: Properties of Translation**, when drawing such patterns, first choose a basic figure, repeatedly move it by a certain distance in one direction, then repeatedly move it by a certain distance in another direction not parallel to the first; this gives a pattern that can be extended indefinitely.
+By Translation and Properties of Translation, when drawing such patterns, first choose a basic figure, repeatedly move it by a certain distance in one direction, then repeatedly move it by a certain distance in another direction not parallel to the first; this gives a pattern that can be extended indefinitely.
 
 The "bird" basic figure in the figure is drawn using translations on a square (up-to-down, down-to-up, left-to-right, right-to-left); this kind of translation moves from one place to another and ensures that the pattern fits together after translation without gaps. Then repeatedly translate this basic figure in two directions to tile the whole plane. Choose a basic figure yourself and repeat the translations in the two directions described above to design beautiful patterns. $\blacksquare$

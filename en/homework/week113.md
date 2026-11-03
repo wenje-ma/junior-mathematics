@@ -1,20 +1,6 @@
 # week113
 
-> **Basic Knowledge: Graph and Properties of the Direct Proportional Function**
-> 
-> The graph of the direct proportional function $y=kx$ ($k$ is a constant, $k \neq 0$) is a straight line passing through the origin. When $k> 0$, the line passes through the third and first quadrants, rises from left to right, and $y$ increases as $x$ increases; when $k< 0$, the line passes through the second and fourth quadrants, falls from left to right, and $y$ decreases as $x$ increases.
-> **Basic Knowledge: Graph and Properties of the Linear Function**
-> 
-> The graph of the linear function $y=kx+b$ ($k$ and $b$ are constants, $k \neq 0$) is a straight line, obtained by translating the line $y=kx$ by $\left|b\right|$ units of length ($b> 0$ upward, $b< 0$ downward). When $k> 0$, $y$ increases as $x$ increases; when $k< 0$, $y$ decreases as $x$ increases.
-> **Basic Knowledge: Method of Undetermined Coefficients**
-> 
-> The method of first setting up the function expression and then, according to the given conditions, determining the unknown coefficients in the expression so as to obtain the function expression is called the method of undetermined coefficients.
-> **Basic Knowledge: Direct Proportional Function**
-> 
-> A function of the form y = kx (k is a nonzero constant).
-
 ---
-
 
 ## Exercise 1
 
@@ -26,7 +12,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Graph and Properties of the Direct Proportional Function**, the graph of a direct proportional function is a straight line through the origin, so it suffices to determine one more point in order to draw it.
+By Graph and Properties of the Direct Proportional Function, the graph of a direct proportional function is a straight line through the origin, so it suffices to determine one more point in order to draw it.
 
 (1) $y=\frac{3}{2}x$ passes through the origin $\left(0, 0\right)$ and the point $\left(2, 3\right)$; drawing the straight line through these two points suffices.
 
@@ -40,7 +26,7 @@ The figure shows a plane rectangular coordinate system; a straight line through 
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Graph and Properties of the Direct Proportional Function**, when $k< 0$, $y$ decreases as $x$ increases.
+By Graph and Properties of the Direct Proportional Function, when $k< 0$, $y$ decreases as $x$ increases.
 
 Since $2 > -3$, and since $y$ decreases as $x$ increases when $k< 0$, we have $m < n$. $\blacksquare$
 
@@ -54,7 +40,7 @@ Set $y=0$, i.e. $2x-3=0$, which gives $x=\frac{3}{2}$; hence the intersection wi
 
 Set $x=0$; we get $y=-3$, so the intersection with the $y$-axis is $\left(0, -3\right)$.
 
-By **Basic Knowledge: Graph and Properties of the Linear Function**, $k=2> 0$ and $b=-3< 0$, so the line passes through the first, third and fourth quadrants, and $y$ increases as $x$ increases. $\blacksquare$
+By Graph and Properties of the Linear Function, $k=2> 0$ and $b=-3< 0$, so the line passes through the first, third and fourth quadrants, and $y$ increases as $x$ increases. $\blacksquare$
 
 ## Exercise 4
 
@@ -66,7 +52,7 @@ By **Basic Knowledge: Graph and Properties of the Linear Function**, $k=2> 0$ an
 
 ### Solution to Exercise 4
 
-(1) By **Basic Knowledge: Graph and Properties of the Linear Function**, the three functions all have $k$ equal to $1$, with $b$ equal to $-1$, $0$ and $1$ respectively. Their graphs are three mutually parallel straight lines with the same slope, in a vertical translation relationship.
+(1) By Graph and Properties of the Linear Function, the three functions all have $k$ equal to $1$, with $b$ equal to $-1$, $0$ and $1$ respectively. Their graphs are three mutually parallel straight lines with the same slope, in a vertical translation relationship.
 
 The figure shows a plane rectangular coordinate system with three parallel lines all of slope $1$, from bottom to top: $y=x-1$ (meeting the $y$-axis at $\left(0,-1\right)$), $y=x$ (through the origin), and $y=x+1$ (meeting the $y$-axis at $\left(0,1\right)$).
 
@@ -78,7 +64,7 @@ The figure shows a plane rectangular coordinate system with three parallel lines
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Graph and Properties of the Linear Function**, $k=4> 0$, so $y$ increases as $x$ increases.
+By Graph and Properties of the Linear Function, $k=4> 0$, so $y$ increases as $x$ increases.
 
 When $x=2$, $y=4\times2+7=15$. Since $y$ increases as $x$ increases, when $x> 2$ we have $y> 15$. $\blacksquare$
 
@@ -88,7 +74,7 @@ When $x=2$, $y=4\times2+7=15$. Since $y$ increases as $x$ increases, when $x> 2$
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge: Method of Undetermined Coefficients**, let the linear function be $y=kx+b$.
+By Method of Undetermined Coefficients, let the linear function be $y=kx+b$.
 
 Substituting $x=1$, $y=5$ and $x=-1$, $y=1$ respectively gives
 
@@ -104,7 +90,7 @@ Solving this system gives $k=2$, $b=3$. Hence the expression of this linear func
 
 ### Solution to Exercise 7
 
-By **Basic Knowledge: Method of Undetermined Coefficients**, let the linear function be $y=kx+b$.
+By Method of Undetermined Coefficients, let the linear function be $y=kx+b$.
 
 Substituting $\left(9, 0\right)$ and $\left(24, 20\right)$ respectively gives
 
@@ -120,7 +106,7 @@ Subtracting the two equations gives $15k=20$, so $k=\frac{4}{3}$. Substituting i
 
 ### Solution to Exercise 8
 
-From the graph, the line passes through the points $\left(25, 60\right)$ and $\left(30, 90\right)$. By **Basic Knowledge: Method of Undetermined Coefficients**, let $y=kx+b$.
+From the graph, the line passes through the points $\left(25, 60\right)$ and $\left(30, 90\right)$. By Method of Undetermined Coefficients, let $y=kx+b$.
 
 $$
 25k+b=60,\quad 30k+b=90.
@@ -148,7 +134,7 @@ $\blacksquare$
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Graph and Properties of the Direct Proportional Function**, $k=-5< 0$, so the graph passes through the second and fourth quadrants.
+By Graph and Properties of the Direct Proportional Function, $k=-5< 0$, so the graph passes through the second and fourth quadrants.
 
 It passes through the point $\left(0, 0\right)$ and the point $\left(1, -5\right)$, and $y$ decreases as $x$ increases. $\blacksquare$
 
@@ -176,7 +162,7 @@ $\blacksquare$
 
 ### Solution to Problem 4
 
-From the graph, the line passes through the points $\left(0, -3\right)$ and $\left(1, 2\right)$. By **Basic Knowledge: Method of Undetermined Coefficients**, let $y=kx+b$.
+From the graph, the line passes through the points $\left(0, -3\right)$ and $\left(1, 2\right)$. By Method of Undetermined Coefficients, let $y=kx+b$.
 
 $b=-3$, $k-3=2$, so $k=5$. Hence the function expression is $y=5x-3$. $\blacksquare$
 
@@ -192,7 +178,7 @@ $b=-3$, $k-3=2$, so $k=5$. Hence the function expression is $y=5x-3$. $\blacksqu
 
 ### Solution to Problem 5
 
-(1) By **Basic Knowledge: Method of Undetermined Coefficients**, let $y=kx+b$.
+(1) By Method of Undetermined Coefficients, let $y=kx+b$.
 
 $$
 -4k+b=9,\quad 6k+b=4.
@@ -212,7 +198,7 @@ The figure shows a plane rectangular coordinate system; a straight line of slope
 
 ### Solution to Problem 6
 
-By **Basic Knowledge: Graph and Properties of the Linear Function**, translating the line $y=kx+b$ upward by $m$ units of length gives $y=kx+b+m$, and translating it downward by $m$ units of length gives $y=kx+b-m$.
+By Graph and Properties of the Linear Function, translating the line $y=kx+b$ upward by $m$ units of length gives $y=kx+b+m$, and translating it downward by $m$ units of length gives $y=kx+b-m$.
 
 Translating upward by $2$ units of length gives $y=-2x+1+2=-2x+3$.
 
@@ -224,7 +210,7 @@ Translating downward by $3$ units of length gives $y=-2x+1-3=-2x-2$. $\blacksqua
 
 ### Solution to Problem 7
 
-By **Basic Knowledge: Graph and Properties of the Linear Function**, $k=-\frac{1}{3}< 0$, so $y$ decreases as $x$ increases.
+By Graph and Properties of the Linear Function, $k=-\frac{1}{3}< 0$, so $y$ decreases as $x$ increases.
 
 Since $-3 < -1.3 < 2$, we have $y_2 > y_1 > y_3$. $\blacksquare$
 
@@ -260,7 +246,7 @@ Since $-3 < -1.3 < 2$, we have $y_2 > y_1 > y_3$. $\blacksquare$
 
 (1) When $0 \leq x \leq 15$, the line passes through the origin and the point $\left(15, 45\right)$, so $y=3x$.
 
-When $x> 15$, the line passes through the points $\left(15, 45\right)$ and $\left(20, 60\right)$; by **Basic Knowledge: Method of Undetermined Coefficients**, $k=\frac{60-45}{20-15}=3$, $b=45-3\times15=0$... actually, from the data points $\left(15, 45\right)$ and $\left(20, 90\right)$ in the figure we see $k=\frac{90-45}{20-15}=9$, $b=45-9\times15=-90$, so $y=9x-90$.
+When $x> 15$, the line passes through the points $\left(15, 45\right)$ and $\left(20, 60\right)$; by Method of Undetermined Coefficients, $k=\frac{60-45}{20-15}=3$, $b=45-3\times15=0$... actually, from the data points $\left(15, 45\right)$ and $\left(20, 90\right)$ in the figure we see $k=\frac{90-45}{20-15}=9$, $b=45-9\times15=-90$, so $y=9x-90$.
 
 (2) When $x=9$, $0 \leq 9 \leq 15$, so $y=3\times9=27$ yuan.
 
@@ -276,7 +262,7 @@ When $y=102$, $102=9x-90$, so $x=21.33$. Hence about $21.3\ \text{t}$ of water w
 
 ### Solution to Problem 10
 
-(1) By **Basic Knowledge: Direct Proportional Function**, let $y=k\left(x+b\right)$.
+(1) By Direct Proportional Function, let $y=k\left(x+b\right)$.
 
 Substituting $x=-3$, $y=0$: $0=k\left(-3+b\right)$. Substituting $x=2$, $y=-10$: $-10=k\left(2+b\right)$.
 

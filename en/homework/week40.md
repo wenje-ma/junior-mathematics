@@ -1,21 +1,5 @@
 # week40
 
-> **Basic Knowledge: Square Root**
-> 
-> If $x^2=a$, then $x$ is called a square root of $a$.
-
-> **Basic Knowledge: Arithmetic Square Root**
-> 
-> The positive square root $\sqrt a$ of a positive number $a$ is called the arithmetic square root of $a$, and the arithmetic square root of $0$ is $0$.
-
-> **Basic Knowledge: Cube Root**
-> 
-> If $x^3=a$, then $x$ is called a cube root of $a$, denoted $\sqrt\left[3\right]{a}$.
-
-> **Basic Knowledge: Properties of Arithmetic Square Roots**
-> 
-> sqrt(a^2) = |a|: it equals a when a > = 0, and -a when a < 0.
-
 ---
 
 ## Review Exercise 1
@@ -26,7 +10,7 @@
 
 ### Solution to Review Exercise 1
 
-By **Basic Knowledge: Square Root** and **Basic Knowledge: Arithmetic Square Root**.
+By Square Root and Arithmetic Square Root.
 
 (1) $\because\left(\pm 0.6\right)^2=0.36$, $\therefore$ the square roots are $\pm 0.6$, and the arithmetic square root is $0.6$.
 
@@ -35,7 +19,6 @@ By **Basic Knowledge: Square Root** and **Basic Knowledge: Arithmetic Square Roo
 (3) $\left(-\frac{7}{8}\right)^2=\frac{49}{64}$, $\because\left(\pm\frac{7}{8}\right)^2=\frac{49}{64}$, $\therefore$ the square roots are $\pm\frac{7}{8}$, and the arithmetic square root is $\frac{7}{8}$.
 
 (4) $10^4=10000$, $\because\left(\pm 100\right)^2=10000$, $\therefore$ the square roots are $\pm 100$, and the arithmetic square root is $100$. $\blacksquare$
-
 
 ---
 
@@ -47,7 +30,7 @@ By **Basic Knowledge: Square Root** and **Basic Knowledge: Arithmetic Square Roo
 
 ### Solution to Review Exercise 2
 
-By **Basic Knowledge: Cube Root**.
+By Cube Root.
 
 (1) $\because\left(\frac{3}{2}\right)^3=\frac{27}{8}$, $\therefore\sqrt\left[3\right]{\frac{27}{8}}=\frac{3}{2}$.
 
@@ -56,7 +39,6 @@ By **Basic Knowledge: Cube Root**.
 (3) $\because\left(-0.9\right)^3=-0.729$, $\therefore\sqrt\left[3\right]{-0.729}=-0.9$.
 
 (4) The cube root of $36$ is $\sqrt\left[3\right]{36}$ (cannot be extracted exactly), $\approx 3.30$. $\blacksquare$
-
 
 ---
 
@@ -68,7 +50,7 @@ By **Basic Knowledge: Cube Root**.
 
 ### Solution to Review Exercise 3
 
-By **Basic Knowledge: Arithmetic Square Root**, **Basic Knowledge: Properties of Arithmetic Square Roots**, and **Basic Knowledge: Cube Root**.
+By Arithmetic Square Root, Properties of Arithmetic Square Roots, and Cube Root.
 
 (1) $1-\frac{16}{25}=\frac{9}{25}$, $\sqrt{\frac{9}{25}}=\frac{3}{5}$, so $-\sqrt{1-\frac{16}{25}}=-\frac{3}{5}$.
 
@@ -76,8 +58,7 @@ By **Basic Knowledge: Arithmetic Square Root**, **Basic Knowledge: Properties of
 
 (3) $\because 0.3^2=0.09$, $\therefore\pm\sqrt{0.09}=\pm 0.3$.
 
-(4) $\because\pi> 3$, $\therefore 3-\pi< 0$. By **Basic Knowledge: Properties of Arithmetic Square Roots**, $\sqrt{\left(3-\pi\right)^2}=\left|3-\pi\right|=\pi-3$. $\blacksquare$
-
+(4) $\because\pi> 3$, $\therefore 3-\pi< 0$. By Properties of Arithmetic Square Roots, $\sqrt{\left(3-\pi\right)^2}=\left|3-\pi\right|=\pi-3$. $\blacksquare$
 
 ---
 
@@ -99,7 +80,6 @@ Use a calculator.
 
 (4) $\sqrt\left[3\right]{0.43}\approx 0.755$. $\blacksquare$
 
-
 ---
 
 ## Review Exercise 5
@@ -116,7 +96,6 @@ Expand by the distributive law.
 
 (2) $\sqrt 3\left(\sqrt 3+\frac{1}{\sqrt 3}\right)=\left(\sqrt 3\right)^2+\sqrt 3\cdot\frac{1}{\sqrt 3}=3+1=4$. $\blacksquare$
 
-
 ---
 
 ## Review Exercise 6
@@ -131,7 +110,6 @@ Expand by the distributive law.
 
 (2) $\because 4^3=64< 91< 125=5^3$, $\therefore 4< \sqrt\left[3\right]{91}< 5$. Also $91-64=27$, $125-91=34$, so $91$ is closer to $64$; thus $\sqrt\left[3\right]{91}$ lies between $4$ and $5$, closer to $4$. $\blacksquare$
 
-
 ---
 
 ## Review Exercise 7
@@ -144,7 +122,6 @@ $\pi\approx 3.14$, and $\left|x\right|< \pi$ means $-\pi< x< \pi$, i.e. $-3.14< 
 
 Thus $x=-3$, $-2$, $-1$, $0$, $1$, $2$, $3$. Mark these points correspondingly on the number line. $\blacksquare$
 
-
 ---
 
 ## Review Exercise 8
@@ -155,7 +132,7 @@ The figure shows a circle and a square drawn side by side, both with area $2\pi\
 
 ### Solution to Review Exercise 8
 
-By **Basic Knowledge: Square Root**, find the side length and radius.
+By Square Root, find the side length and radius.
 
 Square: area $2\pi$, side length $a=\sqrt{2\pi}$, perimeter $C_正=4a=4\sqrt{2\pi}$.
 
@@ -164,7 +141,6 @@ Circle: area $\pi r^2=2\pi$, so $r^2=2$, $r=\sqrt 2$, perimeter $C_圆=2\pi r=2\
 Compare: $C_正=4\sqrt{2\pi}\approx 4\times 2.507=10.03$, $C_圆=2\pi\sqrt 2\approx 8.89$. Thus $C_正> C_圆$, and the square has the larger perimeter.
 
 Insight: when the areas are equal, the circle has a smaller perimeter than the square, i.e. the circle is the figure with the smallest perimeter for a given area. $\blacksquare$
-
 
 ---
 
@@ -181,7 +157,6 @@ When $h=1.5$, $s=\sqrt{16.74\times 1.5}=\sqrt{25.11}\approx 5.01\,km$.
 When $h=8.7$, $s=\sqrt{16.74\times 8.7}=\sqrt{145.64}\approx 12.07\,km$.
 
 Thus by the sea she can see about $5.01\,km$, and standing on the rock about $12.07\,km$. $\blacksquare$
-
 
 ---
 
@@ -203,7 +178,6 @@ Let the edge length of the cube be $x$; $x^3=1645553$, $x=\sqrt\left[3\right]{16
 
 That is, the edge length of the cube is about $118\,mm$. $\blacksquare$
 
-
 ---
 
 ## Review Exercise 11
@@ -218,6 +192,6 @@ The figure shows a shape composed of $5$ small squares of side length $1$.
 
 ### Solution to Review Exercise 11
 
-(1) The total area of the $5$ small squares of side length $1$ is $5$. The assembled large square also has area $5$, and by **Basic Knowledge: Square Root**, the side length of the large square is $\sqrt 5$. Cut along the diagonals of the small-square grid and reassemble the cut right triangles to form a large square of side length $\sqrt 5$.
+(1) The total area of the $5$ small squares of side length $1$ is $5$. The assembled large square also has area $5$, and by Square Root, the side length of the large square is $\sqrt 5$. Cut along the diagonals of the small-square grid and reassemble the cut right triangles to form a large square of side length $\sqrt 5$.
 
 (2) The side length of the large square is $\sqrt 5$. On the number line, draw an arc centered at the origin with radius $\sqrt 5$; its intersection with the positive axis represents $\sqrt 5$, and its intersection with the negative axis represents $-\sqrt 5$. $\blacksquare$

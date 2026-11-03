@@ -1,16 +1,6 @@
 # week138
 
-> **Basic Knowledge: Quadratic Function**
-> 
-> A function of the form $y=ax^2+bx+c$ ($a,b,c$ are constants, $a\ne0$) is called a quadratic function.
-> **Basic Knowledge: The Parabola $y=ax^2+bx+c$**
-> 
-> Axis of symmetry $x=-\frac b{2a}$, vertex $\left(-\frac b{2a},\frac{4ac-b^2}{4a}\right)$. When $a> 0$, the minimum is taken at the vertex; when $a< 0$, the maximum is taken at the vertex.
-> **Basic Knowledge: Quadratic Function and Quadratic Equation**
-> 
-> The horizontal coordinate of a common point between the parabola $y=ax^2+bx+c$ and the $x$-axis is a real root of the equation $ax^2+bx+c=0$.
 ---
-
 
 ## Review Problem 1
 
@@ -42,7 +32,7 @@ Expanding gives $y=1500x^2+3000x+1500$. $\blacksquare$
 
 (1) Substitute each point's horizontal coordinate. For (D), at $x=-\frac12$, $y=\frac14-4\left(-\frac12\right)-4=\frac14+2-4=-\frac74$, matching the vertical coordinate. Hence choose (D).
 
-(2) By **Basic Knowledge**, $y=a\left(x-h\right)^2$ has axis of symmetry $x=h$. Among the options, only (C) $y=-\frac12\left(x+2\right)^2=-\frac12\left(x-\left(-2\right)\right)^2$ has axis of symmetry $x=-2$. Hence choose (C). $\blacksquare$
+(2) By Basic Knowledge, $y=a\left(x-h\right)^2$ has axis of symmetry $x=h$. Among the options, only (C) $y=-\frac12\left(x+2\right)^2=-\frac12\left(x-\left(-2\right)\right)^2$ has axis of symmetry $x=-2$. Hence choose (C). $\blacksquare$
 
 ## Review Problem 3
 
@@ -60,7 +50,7 @@ The figure shows four parabolas plotted on the same rectangular coordinate plane
 
 ### Solution to Review Problem 3
 
-By **Basic Knowledge** and **Basic Knowledge**.
+By Basic Knowledge and Basic Knowledge.
 
 (1) $a=\frac15> 0$, opens upward; axis of symmetry $x=0$; vertex $\left(0,0\right)$.
 
@@ -88,7 +78,7 @@ The figure shows four parabolas plotted on the same rectangular coordinate plane
 
 ### Solution to Review Problem 4
 
-By **Basic Knowledge**, find the axis of symmetry and vertex.
+By Basic Knowledge, find the axis of symmetry and vertex.
 
 (1) $a=1$, $b=2$; axis of symmetry $x=-1$; vertex $\left(-1,-4\right)$; opens upward.
 
@@ -110,7 +100,7 @@ The graphs are as shown. $\blacksquare$
 
 ### Solution to Review Problem 5
 
-By **Basic Knowledge**, the extremum is taken at the vertex.
+By Basic Knowledge, the extremum is taken at the vertex.
 
 (1) $a=1> 0$; when $x=-\frac32$, the minimum $\frac{4\cdot1\cdot\left(-1\right)-9}{4}=-\frac{13}{4}$ is taken.
 
@@ -126,7 +116,7 @@ By **Basic Knowledge**, the extremum is taken at the vertex.
 
 ### Solution to Review Problem 6
 
-By **Basic Knowledge**, use the quadratic formula to find the roots.
+By Basic Knowledge, use the quadratic formula to find the roots.
 
 (1) $x=\frac{3\pm\sqrt{9+8}}4=\frac{3\pm\sqrt{17}}4$, i.e. $x\approx1.8$ or $x\approx-0.3$.
 
@@ -144,7 +134,7 @@ By **Basic Knowledge**, use the quadratic formula to find the roots.
 
 (1) The starting height is $h=1$; setting $h=1$ gives $-5t^2+12t+1=1$, i.e. $t\left(-5t+12\right)=0$, solving $t=0$ (at ejection) or $t=\frac{12}5=2.4\ \text{s}$. Hence it takes $2.4\ \text{s}$ to fall back to the starting height.
 
-(2) By **Basic Knowledge**, $a=-5< 0$; the maximum is taken at $t=\frac{12}{10}=1.2$, with $h_{\max}=-5\times1.2^2+12\times1.2+1=8.2\ \text{m}$. $\blacksquare$
+(2) By Basic Knowledge, $a=-5< 0$; the maximum is taken at $t=\frac{12}{10}=1.2$, with $h_{\max}=-5\times1.2^2+12\times1.2+1=8.2\ \text{m}$. $\blacksquare$
 
 ## Review Problem 8
 
@@ -152,7 +142,7 @@ By **Basic Knowledge**, use the quadratic formula to find the roots.
 
 ### Solution to Review Problem 8
 
-The aircraft stops when the taxiing distance reaches its maximum, corresponding to the vertex. By **Basic Knowledge**, $a=-1.5< 0$; it stops at $t=\frac{60}{3}=20\ \text{s}$, at which
+The aircraft stops when the taxiing distance reaches its maximum, corresponding to the vertex. By Basic Knowledge, $a=-1.5< 0$; it stops at $t=\frac{60}{3}=20\ \text{s}$, at which
 
 $$
 y_{\max}=60\times20-1.5\times400=600\ \text{m}.
@@ -180,7 +170,7 @@ $$
 S=x^2+\left(12-x\right)^2=2x^2-24x+144.
 $$
 
-By **Basic Knowledge**, $a=2> 0$; the minimum is taken at $x=\frac{24}{4}=6$, with $S_{\min}=36$. Hence when $E$ is the midpoint of side $AB$, the area of square $EFGH$ is minimized. $\blacksquare$
+By Basic Knowledge, $a=2> 0$; the minimum is taken at $x=\frac{24}{4}=6$, with $S_{\min}=36$. Hence when $E$ is the midpoint of side $AB$, the area of square $EFGH$ is minimized. $\blacksquare$
 
 ## Review Problem 10
 
@@ -190,7 +180,7 @@ By **Basic Knowledge**, $a=2> 0$; the minimum is taken at $x=\frac{24}{4}=6$, wi
 
 Let $AB$ be perpendicular to the wall, with length $x$; the fence consists of three sides in the $AB$ direction and one side in the $BC$ direction, hence $3x+BC=33$, i.e. $BC=33-3x$. The wall is $12\ \text{m}$ long, so $BC\le12$, i.e. $x\ge7$.
 
-The area is $S=x\left(33-3x\right)=-3x^2+33x$. By **Basic Knowledge**, the vertex is at $x=\frac{33}{6}=5.5$; since $x\ge7$ lies to the right of the vertex, $S$ decreases as $x$ increases. Hence the maximum is at $x=7$, with $BC=33-21=12$ and maximum area $S=7\times12=84\ \text{m}^2$. That is, $AB=7\ \text{m}$, $BC=12\ \text{m}$. $\blacksquare$
+The area is $S=x\left(33-3x\right)=-3x^2+33x$. By Basic Knowledge, the vertex is at $x=\frac{33}{6}=5.5$; since $x\ge7$ lies to the right of the vertex, $S$ decreases as $x$ increases. Hence the maximum is at $x=7$, with $BC=33-21=12$ and maximum area $S=7\times12=84\ \text{m}^2$. That is, $AB=7\ \text{m}$, $BC=12\ \text{m}$. $\blacksquare$
 
 ## Review Problem 11
 
@@ -212,7 +202,7 @@ $$
 
 where $0\le x\le20$ (price not above $70$ yuan, i.e. $x\le20$).
 
-(2) By **Basic Knowledge**, the vertex is at $x=\frac{105}{14}=7.5$; since $x$ is a positive integer, take $x=7$ or $x=8$. Then $y=22\times161=3542$ or $23\times154=3542$. Hence monthly profit is maximized at price $57$ yuan or $58$ yuan, with maximum $3542$ yuan.
+(2) By Basic Knowledge, the vertex is at $x=\frac{105}{14}=7.5$; since $x$ is a positive integer, take $x=7$ or $x=8$. Then $y=22\times161=3542$ or $23\times154=3542$. Hence monthly profit is maximized at price $57$ yuan or $58$ yuan, with maximum $3542$ yuan.
 
 (3) Setting $y=3500$ gives $-7x^2+105x+3150=3500$, i.e. $x^2-15x+50=0$, i.e. $\left(x-5\right)\left(x-10\right)=0$, solving $x=5$ or $x=10$, corresponding to prices $55$ yuan or $60$ yuan. Since the parabola opens downward, monthly profit is at least $3500$ yuan when $55\le$ price $\le60$. $\blacksquare$
 
@@ -228,7 +218,7 @@ $$
 S=2\pi b\cdot a=2\pi ab.
 $$
 
-By **Basic Knowledge**, $ab$ is maximized when $a=b$ (for fixed sum, product is maximized when equal), hence $a=b=9$. That is, when both adjacent sides are $9\ \text{cm}$, the cylinder's lateral surface area is maximized. $\blacksquare$
+By Basic Knowledge, $ab$ is maximized when $a=b$ (for fixed sum, product is maximized when equal), hence $a=b=9$. That is, when both adjacent sides are $9\ \text{cm}$, the cylinder's lateral surface area is maximized. $\blacksquare$
 
 ## Review Problem 13
 
@@ -242,7 +232,7 @@ $$
 S=\sum_{i=1}^n\left(x-x_i\right)^2=nx^2-2x\sum_{i=1}^n x_i+\sum_{i=1}^n x_i^2.
 $$
 
-This is a quadratic function in $x$, with $n> 0$ opening upward. By **Basic Knowledge**, when
+This is a quadratic function in $x$, with $n> 0$ opening upward. By Basic Knowledge, when
 
 $$
 x=\frac{2\sum x_i}{2n}=\frac{x_1+x_2+\cdots+x_n}{n}

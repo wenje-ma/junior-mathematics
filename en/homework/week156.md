@@ -1,23 +1,6 @@
 # week156
 
-> **Basic Knowledge: Incircle of a Triangle**
-> 
-> A circle tangent to all three sides of a triangle is called the incircle of the triangle; the center of the incircle is called the incenter of the triangle, and it is the intersection of the three angle bisectors of the triangle.
-> **Basic Knowledge: Regular Polygons and Circles**
-> 
-> Divide a circle into $n$ ($n\ge3$) equal parts, and the polygon obtained by joining the division points in order is a regular $n$-gon inscribed in the circle; this circle is called the circumcircle of the regular $n$-gon.
-> **Basic Knowledge: Properties of Regular Polygons**
-> 
-> The center of the circumcircle (or incircle) of a regular polygon is called the center; the circumradius is called the radius; the inradius is called the apothem; the central angle subtended by each side of a regular polygon is called the central angle. The central angle of a regular $n$-gon is $\frac{360^\circ}{n}$.
-> **Basic Knowledge: Arc Length Formula**
-> 
-> Arc length l = n*pi*R/180 where n is the central angle in degrees.
-> **Basic Knowledge: Tangent-Length Theorem**
-> 
-> Tangents from the same external point to a circle have equal lengths.
-
 ---
-
 
 ## Exercise 1
 
@@ -25,7 +8,7 @@
 
 ### Solution to Exercise 1
 
-By **Basic Knowledge: Incircle of a Triangle**.
+By Incircle of a Triangle.
 
 The incenter is the intersection of the angle bisectors, so $\angle OBC=\frac12\angle ABC=25^\circ$ and $\angle OCB=\frac12\angle ACB$. From the sum of the interior angles of a triangle, $\angle BOC=90^\circ+\frac12\angle A$. From $\angle A=180^\circ-\angle ABC-\angle ACB$, we get $\angle BOC=115^\circ$. $\blacksquare$
 
@@ -35,7 +18,7 @@ The incenter is the intersection of the angle bisectors, so $\angle OBC=\frac12\
 
 ### Solution to Exercise 2
 
-By **Basic Knowledge: Incircle of a Triangle**.
+By Incircle of a Triangle.
 
 The largest circle is the incircle. The altitude of the equilateral triangle is $h=2\sqrt3$, and the incircle radius is $r=\frac{h}{3}=\frac{2\sqrt3}{3}\,\text{cm}$. $\blacksquare$
 
@@ -45,7 +28,7 @@ The largest circle is the incircle. The altitude of the equilateral triangle is 
 
 ### Solution to Problem 1
 
-By **Basic Knowledge: Incircle of a Triangle**.
+By Incircle of a Triangle.
 
 The distances from the incenter to the three sides are all $r$; dividing the triangle into three smaller triangles, the sum of their areas is
 
@@ -61,7 +44,7 @@ $\blacksquare$
 
 ### Solution to Problem 2
 
-By **Basic Knowledge: Tangent-Length Theorem**.
+By Tangent-Length Theorem.
 
 Let $AF=AE=x$, $BF=BD=y$, and $CD=CE=z$. Then $x+y=13$, $y+z=14$, and $x+z=9$. Adding the three equations gives $2\left(x+y+z\right)=36$, so $x+y+z=18$. Solving gives $x=4$, $y=9$, $z=5$. That is, $AF=4$, $BD=9$, $CE=5$. $\blacksquare$
 
@@ -71,7 +54,7 @@ Let $AF=AE=x$, $BF=BD=y$, and $CD=CE=z$. Then $x+y=13$, $y+z=14$, and $x+z=9$. A
 
 ### Solution to Problem 3
 
-By **Basic Knowledge: Tangent-Length Theorem**.
+By Tangent-Length Theorem.
 
 Let $AE=AF=x$, $BF=BD=y$, and $CD=CE=z$. Then $x+y=c$, $y+z=a$, and $z+x=b$. Solving gives $x=\frac{b+c-a}{2}=s-a$, $y=\frac{a+c-b}{2}=s-b$, and $z=\frac{a+b-c}{2}=s-c$. $\blacksquare$
 
@@ -81,7 +64,7 @@ Let $AE=AF=x$, $BF=BD=y$, and $CD=CE=z$. Then $x+y=c$, $y+z=a$, and $z+x=b$. Sol
 
 ### Solution to Problem 4
 
-By **Basic Knowledge** and the conclusion of **Problem 3**.
+By Basic Knowledge and the conclusion of **Problem 3**.
 
 The area is $S=\frac12 ab$, and also $S=\frac12 r\left(a+b+c\right)$, hence
 
@@ -97,7 +80,7 @@ $\blacksquare$
 
 ### Solution to Problem 5
 
-By **Basic Knowledge: Incircle of a Triangle**.
+By Incircle of a Triangle.
 
 $$
 S=\frac12 rl.
@@ -115,7 +98,7 @@ $\blacksquare$
 
 ### Solution to Exercise 3
 
-By **Basic Knowledge: Regular Polygons and Circles**.
+By Regular Polygons and Circles.
 
 (1) Correct: equal chords subtend equal arcs, so equal sides mean equal arcs, giving a regular polygon.
 
@@ -127,7 +110,7 @@ By **Basic Knowledge: Regular Polygons and Circles**.
 
 ### Solution to Exercise 4
 
-By **Basic Knowledge: Properties of Regular Polygons**.
+By Properties of Regular Polygons.
 
 Equilateral triangle: side length $\sqrt3 R$, apothem $\frac{R}{2}$, area $\frac{3\sqrt3}{4}R^2$.
 
@@ -139,7 +122,7 @@ Square: side length $\sqrt2 R$, apothem $\frac{\sqrt2}{2}R$, area $2R^2$. $\blac
 
 ### Solution to Exercise 5
 
-By **Basic Knowledge: Properties of Regular Polygons**.
+By Properties of Regular Polygons.
 
 The diagonal of a square inscribed in a circle equals the diameter of the circle. The square has side length $4$ and diagonal $4\sqrt2$, so the diameter is at least $4\sqrt2\,\text{cm}$. $\blacksquare$
 
@@ -149,7 +132,7 @@ The diagonal of a square inscribed in a circle equals the diameter of the circle
 
 ### Solution to Exercise 6
 
-By **Basic Knowledge: Properties of Regular Polygons**.
+By Properties of Regular Polygons.
 
 The central angle is $=\frac{360^\circ}{5}=72^\circ$. Draw a circle of radius $2\,\text{cm}$, divide the circumference into five equal parts, and join the points in order to obtain the regular pentagon. $\blacksquare$
 
@@ -159,6 +142,6 @@ The central angle is $=\frac{360^\circ}{5}=72^\circ$. Draw a circle of radius $2
 
 ### Solution to Illustrated History of Mathematics 1
 
-By **Basic Knowledge: Arc Length Formula** and the circumference formula $C=2\pi R$.
+By Arc Length Formula and the circumference formula $C=2\pi R$.
 
 During the Three Kingdoms period in China, Liu Hui obtained $\pi\approx3.1416$ using his "cyclotomic method"; in the Northern and Southern Dynasties, Zu Chongzhi refined $\pi$ to between $3.1415926$ and $3.1415927$. In modern times, series and computers have computed it to trillions of digits. $\blacksquare$

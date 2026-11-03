@@ -1,49 +1,5 @@
 # week35
 
-> **Basic Knowledge: Vertical Angles Are Equal**
-> 
-> Vertical angles are equal.
-
-> **Basic Knowledge: Perpendicular**
-> 
-> When one of the four angles formed by two intersecting lines is a right angle, the two lines are said to be perpendicular to each other.
-
-> **Basic Knowledge: The Perpendicular Segment Is the Shortest**
-> 
-> Among all segments connecting a point outside a line to points on the line, the perpendicular segment is the shortest.
-
-> **Basic Knowledge: Transitivity of Parallelism**
-> 
-> If two lines are both parallel to a third line, then these two lines are also parallel to each other.
-
-> **Basic Knowledge: Criterion 2**
-> 
-> Equal alternate interior angles imply parallel lines.
-
-> **Basic Knowledge: Criterion 3**
-> 
-> Supplementary consecutive interior angles imply parallel lines.
-
-
-> **Basic Knowledge: Criterion 1**
-> 
-> When two lines are cut by a transversal, if the corresponding angles are equal, then the two lines are parallel. In short: corresponding angles equal, two lines parallel.
-> **Basic Knowledge: Parallel Axiom**
-> 
-> Through a point outside a given line, there is exactly one line parallel to the given line.
-> **Basic Knowledge: Properties of Translation**
-> 
-> Properties of Translation.
-> **Basic Knowledge: Property 1**
-> 
-> Property 1.
-> **Basic Knowledge: Property 2**
-> 
-> Property 2.
-> **Basic Knowledge: Property 3**
-> 
-> Property 3.
-
 ---
 
 ## Review Exercise 1
@@ -54,16 +10,15 @@ The figure shows lines $AB\perp CD$ with foot $O$, and a line $EF$ passing throu
 
 ### Solution to Review Exercise 1
 
-By **Basic Knowledge: Perpendicular**, $AB\perp CD$, so $\angle AOD=90^\circ$.
+By Perpendicular, $AB\perp CD$, so $\angle AOD=90^\circ$.
 
 $\angle 1$ and $\angle 2$ lie inside the right angle $\angle AOD$, and $\angle AOD=\angle 1+\angle 2$, so $\angle 2=90^\circ-\angle 1=90^\circ-26^\circ=64^\circ$.
 
-$\angle 3$ and $\angle 1$ are vertical angles; by **Basic Knowledge: Vertical Angles Are Equal**, $\angle 3=\angle 1=26^\circ$.
+$\angle 3$ and $\angle 1$ are vertical angles; by Vertical Angles Are Equal, $\angle 3=\angle 1=26^\circ$.
 
 $\angle BOE$ and $\angle 1$ share the side $OE$, while the other sides $OB$ and $OA$ are opposite extensions of each other; together they form a straight angle, so $\angle BOE=180^\circ-\angle 1=180^\circ-26^\circ=154^\circ$.
 
 Thus $\angle 2=64^\circ$, $\angle 3=26^\circ$, $\angle BOE=154^\circ$. $\blacksquare$
-
 
 ---
 
@@ -81,8 +36,7 @@ $$
 \angle ABC+\angle BCD=120^\circ+60^\circ=180^\circ.
 $$
 
-By **Basic Knowledge: Criterion 3**, supplementary consecutive interior angles imply parallel lines, so $AB\parallel DC$. $\blacksquare$
-
+By Criterion 3, supplementary consecutive interior angles imply parallel lines, so $AB\parallel DC$. $\blacksquare$
 
 ---
 
@@ -96,10 +50,9 @@ By **Basic Knowledge: Criterion 3**, supplementary consecutive interior angles i
 
 ### Solution to Review Exercise 3
 
-(1) Correct. By **Basic Knowledge: Transitivity of Parallelism**, if two lines are both parallel to a third line, then these two lines are also parallel to each other, so $a\parallel c$.
+(1) Correct. By Transitivity of Parallelism, if two lines are both parallel to a third line, then these two lines are also parallel to each other, so $a\parallel c$.
 
-(2) Wrong. In the same plane, if $a\perp b$ and $b\perp c$, then the corresponding angles that $a$, $c$ make with $b$ are both $90^\circ$; by **Basic Knowledge: Criterion 1**, equal corresponding angles imply parallel lines, so it should be $a\parallel c$, not $a\perp c$. Thus it is judged wrong. $\blacksquare$
-
+(2) Wrong. In the same plane, if $a\perp b$ and $b\perp c$, then the corresponding angles that $a$, $c$ make with $b$ are both $90^\circ$; by Criterion 1, equal corresponding angles imply parallel lines, so it should be $a\parallel c$, not $a\perp c$. Thus it is judged wrong. $\blacksquare$
 
 ---
 
@@ -117,8 +70,7 @@ The figure contains three small diagrams: (1) segment $AB$ with its midpoint $C$
 
 ### Solution to Review Exercise 4
 
-Draw step by step according to the statements: first take the midpoint $C$ of segment $AB$, and use a set square through $C$ to draw $CD\perp AB$; then measure the distance from point $P$ to line $AB$ as $3\,\text{cm}$, and through $P$ draw the perpendicular to $AB$; finally, by **Basic Knowledge: Parallel Axiom**, through point $P$ draw lines parallel to $AB$, $BC$, $AC$ respectively. This gives the figure satisfying the statements. $\blacksquare$
-
+Draw step by step according to the statements: first take the midpoint $C$ of segment $AB$, and use a set square through $C$ to draw $CD\perp AB$; then measure the distance from point $P$ to line $AB$ as $3\,\text{cm}$, and through $P$ draw the perpendicular to $AB$; finally, by Parallel Axiom, through point $P$ draw lines parallel to $AB$, $BC$, $AC$ respectively. This gives the figure satisfying the statements. $\blacksquare$
 
 ---
 
@@ -130,8 +82,7 @@ The figure shows a route diagram: from point $A$ a segment due east to $B$, from
 
 ### Solution to Review Exercise 5
 
-From $A$ draw a line due east to $B$, from $B$ draw a line east by south $15^\circ$ to $C$, then from $C$ resume the due east direction and continue drawing. Since from $C$ the direction returns to due east, it is the same direction as $AB$; by the corresponding-angle relationships in **Basic Knowledge: Property 1**, the turning of the route is self-consistent. Draw the route in the directions described above. $\blacksquare$
-
+From $A$ draw a line due east to $B$, from $B$ draw a line east by south $15^\circ$ to $C$, then from $C$ resume the due east direction and continue drawing. Since from $C$ the direction returns to due east, it is the same direction as $AB$; by the corresponding-angle relationships in Property 1, the turning of the route is self-consistent. Draw the route in the directions described above. $\blacksquare$
 
 ---
 
@@ -145,7 +96,7 @@ From $A$ draw a line due east to $B$, from $B$ draw a line east by south $15^\ci
 
 ### Solution to Review Exercise 6
 
-By **Basic Knowledge: Perpendicular**, $AB\perp AC$, so $\angle BAC=90^\circ$.
+By Perpendicular, $AB\perp AC$, so $\angle BAC=90^\circ$.
 
 (1) $\angle DAB=\angle 1+\angle BAC=30^\circ+90^\circ=120^\circ$, so
 
@@ -153,10 +104,9 @@ $$
 \angle DAB+\angle B=120^\circ+60^\circ=180^\circ.
 $$
 
-(2) $\angle DAB$ and $\angle B$ are the consecutive interior angles formed when lines $AD$, $BC$ are cut by line $AB$; it has been found that $\angle DAB+\angle B=180^\circ$. By **Basic Knowledge: Criterion 3**, supplementary consecutive interior angles imply parallel lines, so $AD\parallel BC$.
+(2) $\angle DAB$ and $\angle B$ are the consecutive interior angles formed when lines $AD$, $BC$ are cut by line $AB$; it has been found that $\angle DAB+\angle B=180^\circ$. By Criterion 3, supplementary consecutive interior angles imply parallel lines, so $AD\parallel BC$.
 
 The problem gives no supplementary or equal-angle relationship between $AB$ and $DC$, so $AB\parallel DC$ cannot be deduced, and it cannot be determined whether $AB$ and $DC$ are parallel. $\blacksquare$
-
 
 ---
 
@@ -168,12 +118,11 @@ The figure shows two parallel lines $a$, $b$ cut by a transversal $c$, with eigh
 
 ### Solution to Review Exercise 7
 
-Yes. Let the known angle be $\alpha$. By **Basic Knowledge: Property 1** through **Basic Knowledge: Property 3**, together with the vertical-angle and adjacent-supplementary-angle relationships, the eight angles have only two different degrees.
+Yes. Let the known angle be $\alpha$. By Property 1 through Property 3, together with the vertical-angle and adjacent-supplementary-angle relationships, the eight angles have only two different degrees.
 
 Let the known angle be $\angle 1=\alpha$. By the equality of vertical angles, $\angle 3=\alpha$, $\angle 5=\alpha$, $\angle 7=\alpha$. The remaining angles are supplementary to $\angle 1$, i.e. $\angle 2=\angle 4=\angle 6=\angle 8=180^\circ-\alpha$.
 
 Thus, knowing any one of $\angle 1\sim\angle 8$, all the others can be found: the angles equal to it equal $\alpha$, and the angles supplementary to it equal $180^\circ-\alpha$. $\blacksquare$
-
 
 ---
 
@@ -191,7 +140,7 @@ Thus, knowing any one of $\angle 1\sim\angle 8$, all the others can be found: th
 
 ### Solution to Review Exercise 8
 
-(1) By **Basic Knowledge: Criterion 2**, equal alternate interior angles imply parallel lines. $\angle 1$ and $\angle 2$ are the alternate interior angles formed when lines $AB$, $CD$ are cut by line $BC$, so $\angle 1=\angle 2$ can determine $AB\parallel CD$. Choose (B).
+(1) By Criterion 2, equal alternate interior angles imply parallel lines. $\angle 1$ and $\angle 2$ are the alternate interior angles formed when lines $AB$, $CD$ are cut by line $BC$, so $\angle 1=\angle 2$ can determine $AB\parallel CD$. Choose (B).
 
 (2) $\angle 1+\angle 2=180^\circ$ implies that the corresponding two lines are parallel; then by the properties of parallel lines, $\angle 3$ and $\angle 4$ are supplementary. Thus
 
@@ -201,7 +150,6 @@ $$
 
 Choose (A). $\blacksquare$
 
-
 ---
 
 ## Review Exercise 9
@@ -210,8 +158,7 @@ Choose (A). $\blacksquare$
 
 ### Solution to Review Exercise 9
 
-By **Basic Knowledge: Criterion 1**, **Basic Knowledge: Criterion 2**, and **Basic Knowledge: Criterion 3**: take any transversal intersecting the two groups of parallel lines, and measure the cut-off corresponding angles (or alternate interior angles, or consecutive interior angles). If the corresponding angles are equal (or the alternate interior angles are equal, or the consecutive interior angles are supplementary), then by the corresponding criterion the two groups of cut segments are respectively parallel. Check group by group to verify that the segments in the protective net are parallel. $\blacksquare$
-
+By Criterion 1, Criterion 2, and Criterion 3: take any transversal intersecting the two groups of parallel lines, and measure the cut-off corresponding angles (or alternate interior angles, or consecutive interior angles). If the corresponding angles are equal (or the alternate interior angles are equal, or the consecutive interior angles are supplementary), then by the corresponding criterion the two groups of cut segments are respectively parallel. Check group by group to verify that the segments in the protective net are parallel. $\blacksquare$
 
 ---
 
@@ -227,12 +174,11 @@ By **Basic Knowledge: Criterion 1**, **Basic Knowledge: Criterion 2**, and **Bas
 
 ### Solution to Review Exercise 10
 
-(1) By **Basic Knowledge: Parallel Axiom**, through point $P$ draw $PC\parallel OB$ meeting $OA$ at $C$, and $PD\parallel OA$ meeting $OB$ at $D$.
+(1) By Parallel Axiom, through point $P$ draw $PC\parallel OB$ meeting $OA$ at $C$, and $PD\parallel OA$ meeting $OB$ at $D$.
 
-(2) By **Basic Knowledge: Property 1** and **Basic Knowledge: Property 2**, with $PC\parallel OB$ and $PD\parallel OA$, the corresponding corresponding angles and alternate interior angles are equal. The equal angles in the figure are: $\angle AOB=\angle PCD=\angle PDB$, as well as corresponding angles deduced from parallelism such as $\angle OCP=\angle ODP$.
+(2) By Property 1 and Property 2, with $PC\parallel OB$ and $PD\parallel OA$, the corresponding corresponding angles and alternate interior angles are equal. The equal angles in the figure are: $\angle AOB=\angle PCD=\angle PDB$, as well as corresponding angles deduced from parallelism such as $\angle OCP=\angle ODP$.
 
-(3) By **Basic Knowledge: Property 3**, parallel lines give supplementary consecutive interior angles. The supplementary angles in the figure are the corresponding consecutive interior-angle combinations of $\angle OCP$ and $\angle CPD$, i.e. the adjacent angles of $\angle OCP+\angle ODP$; specifically, they are the consecutive interior angles formed by $PC\parallel OB$ and the consecutive interior angles formed by $PD\parallel OA$, whose sum is $180^\circ$. $\blacksquare$
-
+(3) By Property 3, parallel lines give supplementary consecutive interior angles. The supplementary angles in the figure are the corresponding consecutive interior-angle combinations of $\angle OCP$ and $\angle CPD$, i.e. the adjacent angles of $\angle OCP+\angle ODP$; specifically, they are the consecutive interior angles formed by $PC\parallel OB$ and the consecutive interior angles formed by $PD\parallel OA$, whose sum is $180^\circ$. $\blacksquare$
 
 ---
 
@@ -246,8 +192,7 @@ $AB\parallel CD$.
 
 $\because l_1\parallel l_2$, $AB\perp l_2$, $\therefore AB\perp l_1$ (a line perpendicular to one of two parallel lines must be perpendicular to the other).
 
-Also $CD\perp l_1$, so both $AB$ and $CD$ are perpendicular to $l_1$, and the corresponding angles they make with $l_1$ both equal $90^\circ$. By **Basic Knowledge: Criterion 1**, equal corresponding angles imply parallel lines, so $AB\parallel CD$. $\blacksquare$
-
+Also $CD\perp l_1$, so both $AB$ and $CD$ are perpendicular to $l_1$, and the corresponding angles they make with $l_1$ both equal $90^\circ$. By Criterion 1, equal corresponding angles imply parallel lines, so $AB\parallel CD$. $\blacksquare$
 
 ---
 
@@ -271,8 +216,7 @@ $\therefore\angle FDE=\angle A$. $\blacksquare$
 
 $\therefore\angle C=\angle D$.
 
-$\angle C$ and $\angle D$ are the alternate interior angles formed when lines $AC$, $DB$ are cut by line $CD$; by **Basic Knowledge: Criterion 2**, equal alternate interior angles imply parallel lines, so $AC\parallel DB$. $\blacksquare$
-
+$\angle C$ and $\angle D$ are the alternate interior angles formed when lines $AC$, $DB$ are cut by line $CD$; by Criterion 2, equal alternate interior angles imply parallel lines, so $AC\parallel DB$. $\blacksquare$
 
 ---
 
@@ -290,10 +234,9 @@ $\angle C$ and $\angle D$ are the alternate interior angles formed when lines $A
 
 (1) Hypothesis: the sum of two angles equals a straight angle; conclusion: the two angles are supplementary to each other. By the definition of supplementary angles, two angles whose sum is $180^\circ$ are supplementary, and a straight angle is $180^\circ$, so the proposition is correct.
 
-(2) Hypothesis: consecutive interior angles are equal; conclusion: the two lines are parallel. By **Basic Knowledge: Criterion 3**, it is supplementary consecutive interior angles (sum $180^\circ$), not equal ones, that determine parallelism. Counterexample: take the consecutive interior angles both equal to $60^\circ$ (equal but summing to $120^\circ\neq 180^\circ$), and the two lines are not parallel. Thus the proposition is wrong.
+(2) Hypothesis: consecutive interior angles are equal; conclusion: the two lines are parallel. By Criterion 3, it is supplementary consecutive interior angles (sum $180^\circ$), not equal ones, that determine parallelism. Counterexample: take the consecutive interior angles both equal to $60^\circ$ (equal but summing to $120^\circ\neq 180^\circ$), and the two lines are not parallel. Thus the proposition is wrong.
 
-(3) Hypothesis: two parallel lines are cut by a third line; conclusion: the alternate interior angles are equal. By **Basic Knowledge: Property 2**, parallel lines give equal alternate interior angles, so the proposition is correct. $\blacksquare$
-
+(3) Hypothesis: two parallel lines are cut by a third line; conclusion: the alternate interior angles are equal. By Property 2, parallel lines give equal alternate interior angles, so the proposition is correct. $\blacksquare$
 
 ---
 
@@ -303,8 +246,7 @@ $\angle C$ and $\angle D$ are the alternate interior angles formed when lines $A
 
 ### Solution to Review Exercise 14
 
-By **Basic Knowledge: Properties of Translation**, a pattern is obtained by repeatedly translating the smallest basic figure that repeats in it by the same distance in a certain direction. Find the smallest basic figure that repeats in the figure; that is the basic figure of the whole pattern. Repeatedly translate it along the direction in which the pattern extends to obtain the whole pattern. $\blacksquare$
-
+By Properties of Translation, a pattern is obtained by repeatedly translating the smallest basic figure that repeats in it by the same distance in a certain direction. Find the smallest basic figure that repeats in the figure; that is the basic figure of the whole pattern. Repeatedly translate it along the direction in which the pattern extends to obtain the whole pattern. $\blacksquare$
 
 ---
 
@@ -315,7 +257,6 @@ By **Basic Knowledge: Properties of Translation**, a pattern is obtained by repe
 ### Solution to Review Exercise 15
 
 Use a ruler to measure the length and width of each room, choose an appropriate scale (for example $1:100$), and convert the actual lengths to lengths on the drawing according to the scale. Draw the floor plan of the apartment according to the intersecting and parallel relationships of the wall lines; when designing a floor plan yourself, use segments that are perpendicular or parallel to each other to represent the walls. $\blacksquare$
-
 
 ---
 
@@ -335,8 +276,8 @@ from $PQ\parallel SR$ and $CM\perp SR$, we get $CM\perp PQ$.
 
 Both $BN$ and $CM$ are perpendicular to $PQ$ (and to $SR$), so $BN\parallel CM$.
 
-$BN\parallel CM$, with line $BC$ as the transversal; by **Basic Knowledge: Property 2**, equal alternate interior angles give $\angle NBC=\angle MCB$.
+$BN\parallel CM$, with line $BC$ as the transversal; by Property 2, equal alternate interior angles give $\angle NBC=\angle MCB$.
 
 Also $BN$ bisects $\angle ABC$, so $\angle ABC=2\angle NBC$; $CM$ bisects $\angle BCD$, so $\angle BCD=2\angle MCB$. Hence $\angle ABC=\angle BCD$.
 
-$\angle ABC$ and $\angle BCD$ are the alternate interior angles formed when lines $AB$, $CD$ are cut by line $BC$; by **Basic Knowledge: Criterion 2**, equal alternate interior angles imply parallel lines, so $CD\parallel AB$. $\blacksquare$
+$\angle ABC$ and $\angle BCD$ are the alternate interior angles formed when lines $AB$, $CD$ are cut by line $BC$; by Criterion 2, equal alternate interior angles imply parallel lines, so $CD\parallel AB$. $\blacksquare$

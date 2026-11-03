@@ -1,13 +1,6 @@
 # week131
 
-> **Basic Knowledge: Relation Between Roots and Coefficients**
-> 
-> If the two roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x_1,x_2$, then $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$.
-> **Basic Knowledge: Roots of a Quadratic Equation**
-> 
-> The value of the unknown that makes the two sides of a quadratic equation equal is the root of that equation.
 ---
-
 
 ### Activity 1
 
@@ -39,7 +32,7 @@ $$
 a+b+c=0.
 $$
 
-Under this condition, substituting $c=-a-b$ into the first equation gives $ax^2+bx-a-b=0$. It is easy to verify that $x=1$ satisfies it: $a+b-a-b=0$. By **Basic Knowledge: Relation Between Roots and Coefficients**, the product of the two roots is $\frac ca$; since one root is $1$, the other is $\frac ca$. Similarly, the second equation has roots $1$ and $\frac ab$, and the third has roots $1$ and $\frac bc$.
+Under this condition, substituting $c=-a-b$ into the first equation gives $ax^2+bx-a-b=0$. It is easy to verify that $x=1$ satisfies it: $a+b-a-b=0$. By Relation Between Roots and Coefficients, the product of the two roots is $\frac ca$; since one root is $1$, the other is $\frac ca$. Similarly, the second equation has roots $1$ and $\frac ab$, and the third has roots $1$ and $\frac bc$.
 
 Since $a,b,c$ are nonzero real numbers and $a+b+c=0$, these three "other roots" $\frac ca,\frac ab,\frac bc$ cannot all be equal (otherwise $a,b,c$ in geometric progression would require $1+r+r^2=0$, which has no real root); hence the unique common real root of the three equations is $x=1$.
 
