@@ -1,7 +1,5 @@
 # week114
 
----
-
 ## Exercise 1
 
 (Exercise 23.3, Problem 1) Draw the graph of the linear function $y=-2x+8$, and use the graph to solve the equation $-2x+8=0$ and the inequalities $-2x+8> 0$ and $-2x+8< 0$.

@@ -1,7 +1,5 @@
 # week149
 
----
-
 ## Exercise 1
 
 (Exercise 29.2, Problem 1) As shown in the figure, $AB$ and $CD$ are two chords of $\odot O$.

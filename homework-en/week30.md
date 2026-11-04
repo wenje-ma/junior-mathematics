@@ -1,7 +1,5 @@
 # week30
 
----
-
 ## Exercise 1
 
 (Exercise 7.1, Problem 1) In the following figures, are $\angle 1$ and $\angle 2$ vertical angles?
@@ -15,8 +13,6 @@ By Vertical Angles, for a pair of angles to be vertical angles they must simulta
 In figure (1), the sides of $\angle 1$ and $\angle 2$ are not opposite extensions of each other, so they are not vertical angles; in figure (2), $\angle 1$ and $\angle 2$ share a common vertex and their sides are respectively opposite extensions of each other, so they are vertical angles; in figure (3), $\angle 1$ and $\angle 2$ do not satisfy the opposite-extension condition, so they are not vertical angles; in figure (4), the sides of $\angle 1$ and $\angle 2$ are not opposite extensions of each other, so they are not vertical angles.
 
 In summary, only the $\angle 1$ and $\angle 2$ in figure (2) are vertical angles. $\blacksquare$
-
----
 
 ## Exercise 2
 
@@ -34,8 +30,6 @@ When $\angle\alpha=115^\circ$, the vertical angle is $115^\circ$, and both adjac
 
 When $\angle\alpha=m^\circ$, the vertical angle is $m^\circ$, and both adjacent supplementary angles are $\left(180-m\right)^\circ$, so the other three angles are $\left(180-m\right)^\circ$, $m^\circ$, $\left(180-m\right)^\circ$. $\blacksquare$
 
----
-
 ## Exercise 3
 
 (Exercise 7.1, Problem 3) As shown, lines $AB$, $CD$ intersect at point $O$, and $\angle AOC:\angle BOC=2:7$; then $\angle BOC=\;\_\_\;^\circ$, $\angle AOD=\;\_\_\;^\circ$.
@@ -52,8 +46,6 @@ Also $\angle AOC:\angle BOC=2:7$; set $\angle AOC=2k$, $\angle BOC=7k$; then $2k
 
 $\angle AOD$ and $\angle BOC$ share vertex $O$, and their sides are opposite extensions of each other; by Vertical Angles Are Equal, $\angle AOD=\angle BOC=140^\circ$. $\blacksquare$
 
----
-
 ## Exercise 4
 
 (Exercise 7.1, Problem 1) When the four angles formed by two intersecting lines are all equal, what is the positional relation between the two lines? Why?
@@ -64,8 +56,6 @@ The four angles sum to a full angle of $360^\circ$; since they are all equal, ea
 
 By Perpendicular, when one of the four angles formed by two intersecting lines is a right angle, the two lines are perpendicular. Here all four angles are $90^\circ$, so the two lines are perpendicular. $\blacksquare$
 
----
-
 ## Exercise 5
 
 (Exercise 7.1, Problem 2) As shown, through point $P$ draw the perpendiculars to lines $AB$ and $CD$ respectively, and measure the distance from point $P$ to line $AB$.
@@ -75,8 +65,6 @@ By Perpendicular, when one of the four angles formed by two intersecting lines i
 By Perpendicular Lines, through point $P$ there is exactly one line perpendicular to $AB$, and also exactly one line perpendicular to $CD$. Align one leg of a set square with $AB$, slide the set square along $AB$ until the other leg passes through point $P$, and draw a line along this leg; this gives the line through $P$ perpendicular to $AB$, with foot denoted $H$; draw the line through $P$ perpendicular to $CD$ in the same way.
 
 By Distance from a Point to a Line, the distance from point $P$ to line $AB$ is the length of the perpendicular segment $PH$; measure the length of $PH$ with a ruler to obtain it. $\blacksquare$
-
----
 
 ## Exercise 6
 
@@ -96,8 +84,6 @@ By Distance from a Point to a Line, the distance from a point to a line is the l
 
 (2) By The Perpendicular Segment Is the Shortest, among the segments joining an outside point to points on a line the perpendicular segment is the shortest. For point $A$, $AC$ is the perpendicular segment from $A$ to line $BC$, while $AB$ is an oblique segment, so $AB> AC$; for point $B$, $BC$ is the perpendicular segment from $B$ to line $AC$, while $AB$ is an oblique segment, so $AB> BC$. Therefore $AB$ is the longest of the three sides. $\blacksquare$
 
----
-
 ## Exercise 7
 
 (Exercise 7.1, Problem 1) Identify respectively the corresponding angles, alternate interior angles, and consecutive interior angles in each of the following figures.
@@ -108,8 +94,6 @@ By Corresponding Angles, Alternate Interior Angles, Consecutive Interior Angles,
 
 In each figure, the transversal is the line that intersects both lines being cut. A pair of angles on the same side of the two cut lines and on the same side of the transversal are corresponding angles; a pair between the two cut lines and on opposite sides of the transversal are alternate interior angles; a pair between the two cut lines and on the same side of the transversal are consecutive interior angles. Identify each pair by these criteria. $\blacksquare$
 
----
-
 ## Exercise 8
 
 (Exercise 7.1, Problem 2) As shown, with which angle is $\angle B$ an alternate interior angle? With which is it a consecutive interior angle? Which two lines are cut by which transversal to form them? Carry out the same discussion for $\angle C$.
@@ -119,8 +103,6 @@ In each figure, the transversal is the line that intersects both lines being cut
 By Corresponding Angles, Alternate Interior Angles, Consecutive Interior Angles, judge by the positions of the two angles and the transversal.
 
 The lines containing the two sides of $\angle B$ are respectively two cut lines, and the line cutting the other side of $\angle B$ is the transversal: $\angle B$ and the corresponding angle cut out by the other transversal form alternate interior angles or consecutive interior angles. To identify them, first fix the line containing one side of $\angle B$ as the transversal and the line containing the other side as one cut line, then find the corresponding angle formed with the second cut line; this determines $\angle B$'s alternate interior angle and consecutive interior angle; similarly for $\angle C$. $\blacksquare$
-
----
 
 ## Problem 1
 
@@ -144,8 +126,6 @@ By Adjacent Supplementary Angles and Vertical Angles, judge by common side and o
 
 (3) $\angle BOD$ and $\angle AOC$ are vertical angles; by Vertical Angles Are Equal, $\angle BOD=\angle AOC=50^\circ$. $\angle COB$ and $\angle AOC$ are adjacent supplementary angles; by Adjacent Supplementary Angles, $\angle COB=180^\circ-\angle AOC=180^\circ-50^\circ=130^\circ$. $\blacksquare$
 
----
-
 ## Problem 2
 
 (Problem 7.1, Review and Consolidation, Problem 2) As shown, draw a line $l$ on a sheet of semi-transparent paper, take any point $P$ on $l$ and any point $Q$ outside $l$, and fold out a line through $P$ perpendicular to $l$. How many such lines can be folded? Why? What about through point $Q$?
@@ -155,8 +135,6 @@ By Adjacent Supplementary Angles and Vertical Angles, judge by common side and o
 By Perpendicular Lines, in the same plane, through a given point there is exactly one line perpendicular to a given line.
 
 Point $P$ lies on line $l$; through $P$ there is exactly one line perpendicular to $l$, so only one line perpendicular to $l$ can be folded through $P$. Point $Q$ lies outside line $l$; through $Q$ there is likewise exactly one line perpendicular to $l$, so only one can be folded through $Q$. $\blacksquare$
-
----
 
 ## Problem 3
 
@@ -170,8 +148,6 @@ At point $C$, $\angle EOB=\angle EOC+\angle COB$, so $\angle COB=\angle EOB-\ang
 
 $\angle AOD$ and $\angle COB$ are vertical angles; by Vertical Angles Are Equal, $\angle AOD=\angle COB=55^\circ$. $\blacksquare$
 
----
-
 ## Problem 4
 
 (Problem 7.1, Review and Consolidation, Problem 4) As shown, draw $AE\perp BC$ and $CF\perp AD$, with feet $E$ and $F$ respectively.
@@ -179,8 +155,6 @@ $\angle AOD$ and $\angle COB$ are vertical angles; by Vertical Angles Are Equal,
 ### Solution to Problem 4
 
 By Perpendicular and Perpendicular Lines: align one leg of a set square with $BC$, slide it until the other leg passes through point $A$, and draw a line along this leg meeting $BC$ at $E$; then $AE\perp BC$ with foot $E$. Draw $CF\perp AD$ in the same way, with foot $F$. $\blacksquare$
-
----
 
 ## Problem 5
 
@@ -200,8 +174,6 @@ By the meaning of an angle bisector, $OA$ bisects $\angle EOC$, so $\angle AOC=\
 
 (2) $\angle EOC$ and $\angle EOD$ share side $OE$, and their other sides are opposite extensions of each other; by Adjacent Supplementary Angles, they are supplementary, i.e. $\angle EOC+\angle EOD=180^\circ$. Also $\angle EOC:\angle EOD=2:3$; set $\angle EOC=2k$, $\angle EOD=3k$; then $2k+3k=180^\circ$, giving $k=36^\circ$. Hence $\angle EOC=2k=72^\circ$, $\angle AOC=\frac{1}{2}\times 72^\circ=36^\circ$, and thus $\angle BOD=\angle AOC=36^\circ$. $\blacksquare$
 
----
-
 ## Problem 6
 
 (Problem 7.1, Comprehensive Application, Problem 6) As shown, these are the footprints left by student Li Ming after a long jump in PE class. What is his long jump result? (The scale is $1:160$.)
@@ -214,8 +186,6 @@ The long jump result is the distance from the footprint heel to the takeoff line
 
 Measure with a ruler the drawn length of the perpendicular segment from the heel to the takeoff line, denoted $l$ (unit: $\text{cm}$). By the scale $1:160$, the actual result is $160l$ (unit: $\text{cm}$), i.e. $1.6l$ (unit: $\text{m}$). Substitute the measured $l$ from the figure to obtain the actual long jump result. $\blacksquare$
 
----
-
 ## Problem 7
 
 (Problem 7.1, Comprehensive Application, Problem 7) As shown, which two lines are cut by which transversal to form $\angle 1$ and $\angle 2$, and $\angle 3$ and $\angle 4$ respectively? What positional relation do these angles have?
@@ -225,8 +195,6 @@ Measure with a ruler the drawn length of the perpendicular segment from the heel
 By Corresponding Angles, Alternate Interior Angles, Consecutive Interior Angles, first determine the three lines containing the sides of the two angles; the common line is the transversal, and the other two are the cut lines.
 
 $\angle 1$ and $\angle 2$ share one side on the transversal, while their other sides belong to the two cut lines; by their position between the two cut lines and on opposite sides of the transversal, they are alternate interior angles. Similarly for $\angle 3$ and $\angle 4$; by their position relative to the two cut lines and the transversal, judge them as the corresponding angles (or consecutive interior angles). Simply point out the common transversal in each case. $\blacksquare$
-
----
 
 ## Problem 8
 
@@ -245,8 +213,6 @@ $$
 $$
 
 $\angle ABC=180^\circ$ shows that rays $BA$ and $BC$ are opposite extensions of each other, i.e. $BA$ and $BC$ lie on the same line; hence the three points $A$, $B$, $C$ are on the same line. $\blacksquare$
-
----
 
 ## Problem 9
 

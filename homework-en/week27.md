@@ -1,7 +1,5 @@
 # week27
 
----
-
 ## Activity 1
 
 (Mathematical Activity, Activity 1, Problem 1) Observe the net of a cube, imagine the shape of the solid figure obtained after folding, draw the net on card paper according to the marked dimensions, and make it.
@@ -12,8 +10,6 @@ By Net, after the cube's net is folded, each face corresponds to and is adjacent
 
 The cube's net consists of six identical squares; draw the net to the dimensions shown ($6\ \text{cm}\times6\ \text{cm}$ for each face), cut and fold it to obtain a cube of side $6\ \text{cm}$. $\blacksquare$
 
----
-
 ## Activity 2
 
 (Mathematical Activity, Activity 1, Problem 2) Use transparent tape to "connect" several cube solids together, flip the paper cube, and observe what different shapes it can turn into.
@@ -23,8 +19,6 @@ The cube's net consists of six identical squares; draw the net to the dimensions
 By Solid Figure and A Moving Plane Forms a Solid, several cubes connected by tape can be flipped along the seams.
 
 At each connection it can flip $180^{\circ}$ about the tape; combining several connections yields many different solid shapes. Different flip directions and angles give different shapes. $\blacksquare$
-
----
 
 ## Activity 3
 
@@ -51,8 +45,6 @@ Connecting every other pair of points means drawing the diagonals of the regular
 The figure shows a circle with its inscribed regular pentagon: five equally spaced points on the circle (adjacent points separated by $72^{\circ}$) are arranged in order, and connecting every other pair of points (the five diagonals of the regular pentagon) yields a five-pointed star.
 
 $\blacksquare$
-
----
 
 ## Activity 4
 

@@ -1,7 +1,5 @@
 # week174
 
----
-
 ### Activity 1
 
 (Math Activity, Activity 1) Observe an object and draw its three views. Choose an object of simple shape, observe it from different directions, draw the three views, and ask a classmate to state the shape of the object based on the views.

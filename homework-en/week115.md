@@ -1,7 +1,5 @@
 # week115
 
----
-
 ## Exercise 1
 
 (Exercise 23.4, Problem 1) A laboratory maintains a constant temperature of $20\,^\circ\text{C}$ from $0{:}00$ to $2{:}00$, and from $2{:}00$ to $4{:}00$ warms up at a constant rate, rising by $5\,^\circ\text{C}$ per hour. Write the function expression for the laboratory temperature $T$ (in $^\circ\text{C}$) in terms of time $t$ (in h), and draw the graph.

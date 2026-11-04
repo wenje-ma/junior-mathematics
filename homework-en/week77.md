@@ -3,8 +3,6 @@
 > **Basic Conclusion** (Shortest Distance) 
 > 
 > Between two points, the segment is the shortest; among all segments joining a point outside a line to points on the line, the perpendicular segment is the shortest.
----
-
 ## Inquiry 1
 
 (Comprehensive and Practical Activity, Activity 1, Task 1, The Herdsman Watering His Horse Problem) A herdsman sets out from place $A$, waters his horse at the straight river bank $l$, and then goes to place $B$. Where on the riverbank should he water the horse so that the path $AC+CB$ is shortest? Here $A$ and $B$ lie on the same side of line $l$.

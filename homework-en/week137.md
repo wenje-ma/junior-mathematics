@@ -1,7 +1,5 @@
 # week137
 
----
-
 ### Activity 1
 
 (Math Activity, Activity 1, Problem 1) (1) Observe $91\times99$, $92\times98$, $\cdots$, $99\times91$ (both factors have tens digit $9$, and their units digits sum to $10$); conjecture which product is largest.

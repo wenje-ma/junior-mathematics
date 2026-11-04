@@ -1,7 +1,5 @@
 # week67
 
----
-
 ## 例题
 
 (教材例 如图 14.1-3) $\triangle ABC\cong\triangle BAD$, 点 $A$ 和点 $B$, 点 $C$ 和点 $D$ 是对应顶点, $\angle BAC=65^\circ$, $\angle ABC=26^\circ$, $AC$, $BD$ 的延长线相交于点 $E$. 求 $\angle CBD$, $\angle E$ 的度数.
@@ -34,8 +32,6 @@ $$
 
 故对应边为 $AB$ 与 $BD$, $BC$ 与 $DE$, $AC$ 与 $BE$; 另一组对应角为 $\angle ABC$ 与 $\angle BDE$. $\blacksquare$
 
----
-
 ## 练习二
 
 (练习 14.1 第 2 题) 如图, $\triangle OCA\cong\triangle OBD$, 点 $C$ 和点 $B$, 点 $A$ 和点 $D$ 是对应顶点. 说出这两个三角形中相等的边和角.
@@ -56,8 +52,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## 习题一
 
 (习题 14.1 复习巩固第 1 题) 如图, $\triangle ABC\cong\triangle CDA$, $AB$ 和 $CD$, $BC$ 和 $DA$ 是对应边. 写出其他对应边和对应角.
@@ -68,8 +62,6 @@ $\blacksquare$
 
 其他对应边为 $AC$ 与 $CA$. 对应角为 $\angle BAC$ 与 $\angle DCA$, $\angle B$ 与 $\angle D$, $\angle BCA$ 与 $\angle DAC$. $\blacksquare$
 
----
-
 ## 习题二
 
 (习题 14.1 复习巩固第 2 题) 如图, $\triangle ABN\cong\triangle ACM$, $AB$ 和 $AC$ 是对应边, $\angle B$ 和 $\angle C$ 是对应角. 写出其他对应边和对应角.
@@ -79,8 +71,6 @@ $\blacksquare$
 由 $AB\leftrightarrow AC$, $\angle B\leftrightarrow\angle C$, 知顶点对应为 $A\leftrightarrow A$, $B\leftrightarrow C$, $N\leftrightarrow M$.
 
 其他对应边为 $BN$ 与 $CM$, $AN$ 与 $AM$. 对应角为 $\angle ANB$ 与 $\angle AMC$, $\angle BAN$ 与 $\angle CAM$. $\blacksquare$
-
----
 
 ## 习题三
 
@@ -95,8 +85,6 @@ $$
 $$
 
 故 $\angle 1=66^\circ$. $\blacksquare$
-
----
 
 ## 习题四
 
@@ -119,8 +107,6 @@ HG=EG-EH=3.3-1.1=2.2.
 $$
 
 故 $NM=2.1$, $HG=2.2$. $\blacksquare$
-
----
 
 ## 习题五
 

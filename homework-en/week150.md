@@ -1,7 +1,5 @@
 # week150
 
----
-
 ## Exercise 1
 
 (Exercise 29.2, Problem 1) Determine whether the angles in the following figures are inscribed angles, and explain why.

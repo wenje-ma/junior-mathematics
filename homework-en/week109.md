@@ -1,7 +1,5 @@
 # week109
 
----
-
 ## Exercise 1
 
 (Exercise 22.2, Problem 1) (1) Draw the graph of the function $y=2x-1$;

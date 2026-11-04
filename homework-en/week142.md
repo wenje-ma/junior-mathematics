@@ -1,7 +1,5 @@
 # week142
 
----
-
 ## Review Problem 1
 
 (Review Problem, Review and Consolidation, Problem 1) Among the following expressions, the one in which $y$ is an inverse proportional function of $x$ is ( ).

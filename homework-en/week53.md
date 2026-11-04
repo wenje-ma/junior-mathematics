@@ -1,7 +1,5 @@
 # week53
 
----
-
 ## Exercise 1
 
 (Exercise 11.3, Problem 1) Solve the following systems of inequalities:
@@ -18,8 +16,6 @@ By Solving a System of Inequalities.
 
 (2) First inequality: $x\ge8$. Second inequality: $\frac{2x+5}{3}< 3-x$; multiplying by $3$ gives $2x+5< 9-3x$, i.e. $x< \frac{4}{5}$. There is no common part between $x\ge8$ and $x< \frac{4}{5}$, so the system has no solution. $\blacksquare$
 
----
-
 ## Exercise 2
 
 (Exercise 11.3, Problem 2) For which integer values of $x$ do both $5x+2> 3\left(x-1\right)$ and $\frac{1}{2}x-1\le7-\frac{3}{2}x$ hold?
@@ -31,8 +27,6 @@ From the first inequality $5x+2> 3x-3$, we get $x> -\frac{5}{2}$.
 From the second inequality $\frac{1}{2}x-1\le7-\frac{3}{2}x$, we get $2x\le8$, i.e. $x\le4$.
 
 The common part is $-\frac{5}{2}< x\le4$, with integers $x=-2,-1,0,1,2,3,4$. $\blacksquare$
-
----
 
 ## Exercise 3
 
@@ -52,8 +46,6 @@ The common part is $-\frac{5}{2}< x\le4$, with integers $x=-2,-1,0,1,2,3,4$. $\b
 
 (3) First inequality: $\frac{5}{3}x> -4$, $x> -\frac{12}{5}$. Second inequality: $\frac{1}{4}x\le\frac{7}{8}$, $x\le\frac{7}{2}$. Common part $-\frac{12}{5}< x\le\frac{7}{2}$. $\blacksquare$
 
----
-
 ## Exercise 4
 
 (Exercise 11.3, Problem 4) For which integer values of $x$ do both $x+3> 6$ and $2x-1< 10$ hold?
@@ -61,8 +53,6 @@ The common part is $-\frac{5}{2}< x\le4$, with integers $x=-2,-1,0,1,2,3,4$. $\b
 ### Solution to Exercise 4
 
 From $x+3> 6$ we get $x> 3$; from $2x-1< 10$ we get $x< \frac{11}{2}$. Common part $3< x< 5.5$, with integers $x=4,5$. $\blacksquare$
-
----
 
 ## Problem 1
 
@@ -86,8 +76,6 @@ From $x+3> 6$ we get $x> 3$; from $2x-1< 10$ we get $x< \frac{11}{2}$. Common pa
 
 (4) $x> 4$ and $x< 2$, no common part, so no solution. $\blacksquare$
 
----
-
 ## Problem 2
 
 (Exercise 11.3, Review and Consolidation, Problem 2) Solve the following systems of inequalities:
@@ -110,8 +98,6 @@ From $x+3> 6$ we get $x> 3$; from $2x-1< 10$ we get $x< \frac{11}{2}$. Common pa
 
 (4) First inequality: $x< 0$; second inequality: $3x+6> 2x+6$, i.e. $x> 0$. No common part, so no solution. $\blacksquare$
 
----
-
 ## Problem 3
 
 (Exercise 11.3, Review and Consolidation, Problem 3) For which integer values of $x$ do both $4\left(x-0.3\right)< 0.5x+5.8$ and $3+x> \frac{1}{2}x+1$ hold?
@@ -124,8 +110,6 @@ Second inequality: $3+x> \frac{1}{2}x+1$, i.e. $\frac{1}{2}x> -2$, $x> -4$.
 
 Common part $-4< x< 2$, with integers $x=-3,-2,-1,0,1$. $\blacksquare$
 
----
-
 ## Problem 4
 
 (Exercise 11.3, Review and Consolidation, Problem 4) For which integer values of $x$ does $2\le3x-7< 8$ hold?
@@ -133,8 +117,6 @@ Common part $-4< x< 2$, with integers $x=-3,-2,-1,0,1$. $\blacksquare$
 ### Solution to Problem 4
 
 From $2\le3x-7< 8$, add $7$ to each part: $9\le3x< 15$; divide by $3$: $3\le x< 5$. The integers are $x=3,4$. $\blacksquare$
-
----
 
 ## Problem 5
 

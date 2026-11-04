@@ -1,7 +1,5 @@
 # week167
 
----
-
 ## 练习一
 
 (练习 28.1 第 1 题) 如图, 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, 求 $\sin A$ 和 $\sin B$ 的值.

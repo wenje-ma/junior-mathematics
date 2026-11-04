@@ -1,7 +1,5 @@
 # week172
 
----
-
 ## Exercise 1
 
 (Exercise 29.2, Problem 1) Draw the three views of the regular triangular prism, cone, and hemisphere shown in the figure.

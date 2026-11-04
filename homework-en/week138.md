@@ -1,7 +1,5 @@
 # week138
 
----
-
 ## Review Problem 1
 
 (Review, Review and Consolidation, Problem 1) A city spent $1500$ ten-thousand yuan on landscaping last year; starting this year, it plans to increase annual spending by the same percentage $x$ each year for three consecutive years. Write the function expression for next year's spending in terms of $x$.

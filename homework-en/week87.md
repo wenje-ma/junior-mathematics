@@ -1,7 +1,5 @@
 # week87
 
----
-
 ## Exercise 1
 
 (Exercise 18.1, Problem 1) Write expressions for the following quantities:

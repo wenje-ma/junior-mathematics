@@ -1,11 +1,5 @@
 # week162
 
----
-
----
-
----
-
 ## Exercise 1
 
 (Exercise 27.1, Problem 1) Is the triangular ruler seen through a magnifying glass similar to the original triangular ruler?
@@ -183,4 +177,4 @@ $$
 i.e. $a^2=2b^2$, and $\frac{a}{b}=\sqrt{2}$.
 
 Each fold splits a rectangle with long-side ratio $\sqrt{2}:1$ by the same ratio, and the new rectangle still has length-to-width ratio $\sqrt{2}$; hence the rectangles obtained by continuing to fold are all similar to the original rectangle. $\blacksquare$
-
+

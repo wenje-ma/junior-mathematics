@@ -1,7 +1,5 @@
 # week84
 
----
-
 ## Exercise 1
 
 (Exercise 17.2, Problem 1) Can the following polynomials be factored using the difference of squares formula? Why?

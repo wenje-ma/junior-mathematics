@@ -1,7 +1,5 @@
 # week65
 
----
-
 ## 复习题一
 
 (复习题 复习巩固第 1 题) 下列四个条件:
@@ -30,8 +28,6 @@
 
 故能确定的是 (2)(3)(4). $\blacksquare$
 
----
-
 ## 复习题二
 
 (复习题 复习巩固第 2 题) 如图, 在 $\triangle ABC$ 中, $AD$, $AE$ 分别是边 $BC$ 上的中线和高, $AE=2$, $S_{\triangle ABD}=1.5$. 求 $BC$ 和 $DC$ 的长.
@@ -45,8 +41,6 @@ S_{\triangle ABD}=\frac{1}{2}\cdot BD\cdot AE=\frac{1}{2}\times BD\times2=1.5.
 $$
 
 解得 $BD=1.5$. 由中线, $D$ 是 $BC$ 的中点, 故 $BC=2BD=3$, $DC=BD=1.5$. $\blacksquare$
-
----
 
 ## 复习题三
 
@@ -74,8 +68,6 @@ $$
 
 左边即 $AB+AC$, 右边即 $BC$, 故 $AB+AC> BC$. 依次填 $BD$, $PC$, $BD+PC$, $BC$. $\blacksquare$
 
----
-
 ## 复习题四
 
 (复习题 复习巩固第 4 题) 求出下列各图形中 $x$ 的值.
@@ -98,8 +90,6 @@ $$
 
 解得 $x=60$. $\blacksquare$
 
----
-
 ## 复习题五
 
 (复习题 综合运用第 5 题) 如图, $\angle B=42^\circ$, $\angle A$ 比 $\angle 1$ 小 $10^\circ$, $\angle ACD=64^\circ$. 求证 $AB\parallel CD$.
@@ -115,8 +105,6 @@ $$
 解得 $2\angle 1=148^\circ$, $\angle 1=74^\circ$, 从而 $\angle A=64^\circ$.
 
 于是 $\angle A=\angle ACD=64^\circ$, 这两个角是直线 $AB$, $CD$ 被直线 $AC$ 所截得的内错角, 内错角相等, 故 $AB\parallel CD$. $\blacksquare$
-
----
 
 ## 复习题六
 
@@ -140,8 +128,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## 复习题七
 
 (复习题 综合运用第 7 题) 如图, 在 $\triangle ABC$ 中, $AD$ 是高, $AE$, $BF$ 是角平分线, 且 $AE$, $BF$ 相交于点 $O$, $\angle BAC=50^\circ$, $\angle C=70^\circ$. 求 $\angle DAC$ 和 $\angle BOA$ 的度数.
@@ -163,8 +149,6 @@ $$
 $$
 
 $\blacksquare$
-
----
 
 ## 复习题八
 
@@ -195,8 +179,6 @@ $$
 $$
 
 $\blacksquare$
-
----
 
 ## 复习题九
 

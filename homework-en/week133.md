@@ -1,7 +1,5 @@
 # week133
 
----
-
 ## Exercise 1
 
 (Exercise 26.1, Problem 1) Write out the quadratic coefficient, linear coefficient, and constant term of the following quadratic functions:

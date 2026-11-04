@@ -1,7 +1,5 @@
 # week81
 
----
-
 ### Activity 1
 
 (Mathematical Activity, Activity 1) The mystery in the calendar (continued). As shown in the figure is the calendar of a certain month.

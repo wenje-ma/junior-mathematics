@@ -1,7 +1,5 @@
 # week110
 
----
-
 ### Activity 1
 
 (Mathematical Activity, Activity 1, Problem 1) Body fat percentage is the proportion of fat mass in body weight. At different times, a person's waist circumference (denoted $l$, unit: cm) and weight (denoted $w$, unit: kg) change; from these variables, the body fat percentage at different times can be calculated. The specific calculation process is as follows:

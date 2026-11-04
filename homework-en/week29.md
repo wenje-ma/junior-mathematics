@@ -1,7 +1,5 @@
 # week29
 
----
-
 ## Inquiry 1
 
 (Comprehensive Practice, Problem 1) How long is the straightaway of a standard $400\ \text{m}$ track? What is the total length of the first lane? What shape are the curves?

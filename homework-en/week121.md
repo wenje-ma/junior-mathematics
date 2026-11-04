@@ -1,7 +1,5 @@
 # week121
 
----
-
 ## Exercise 1
 
 (Exercise 24.3, Problem 1) The boxplot of the air quality index for a city in month $9$ is shown in the figure.

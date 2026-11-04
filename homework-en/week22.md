@@ -1,7 +1,5 @@
 # week22
 
----
-
 ## Activity 1
 
 (Mathematical Activity, Activity 1, Problem 1) A city applies tiered water pricing to residential water: when a household's monthly usage does not exceed $22\ \text{m}^{3}$, it is charged at the basic water price; when it exceeds $22\ \text{m}^{3}$, the excess is charged at $1.5$ times the basic price. Given that a household used $20\ \text{m}^{3}$ in April and paid $46$ yuan, find the basic water price.
@@ -11,8 +9,6 @@
 By Steps for Solving Word Problems by Setting Up Equations, let the basic water price be $x$ yuan per cubic meter.
 
 The usage $20\ \text{m}^{3}$ does not exceed $22\ \text{m}^{3}$, so all is charged at the basic price: $20x=46$. Giving $x=2.3$. Hence the basic water price is $2.3$ yuan per cubic meter. $\blacksquare$
-
----
 
 ## Activity 2
 
@@ -28,8 +24,6 @@ $$22x+6\times1.5x=72.4.$$
 
 Simplifying: $22x+9x=72.4$, $31x=72.4$, giving $x=2.335\approx2.34$. The basic price is about $2.34$ yuan/$\text{m}^{3}$, and the excess is $1.5\times2.34=3.51$ yuan/$\text{m}^{3}$. $\blacksquare$
 
----
-
 ## Activity 3
 
 (Mathematical Activity, Activity 1, Problem 3) A household paid $86.4$ yuan in June; find its water usage in June.
@@ -43,8 +37,6 @@ From Activity 1, the basic price is $2.3$ yuan/$\text{m}^{3}$, and the excess is
 $$22\times2.3+\left(x-22\right)\times3.45=86.4.$$
 
 Simplifying: $50.6+3.45\left(x-22\right)=86.4$. $3.45\left(x-22\right)=35.8$. $x-22=10.38$. Giving $x\approx32.38\ \text{m}^{3}$. $\blacksquare$
-
----
 
 ## Activity 4
 

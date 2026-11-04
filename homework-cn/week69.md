@@ -1,7 +1,5 @@
 # week69
 
----
-
 ## 练习一
 
 (练习 14.3 第 1 题) 如图, 在直线 $MN$ 上求作一点 $P$, 使点 $P$ 在 $\angle AOB$ 的内部, 且点 $P$ 到射线 $OA$ 和 $OB$ 的距离相等.
@@ -9,8 +7,6 @@
 ### 解答 练习一
 
 由角平分线的判定, 到 $OA$, $OB$ 距离相等的点在 $\angle AOB$ 的平分线上. 故先用尺规作 $\angle AOB$ 的平分线, 该平分线与直线 $MN$ 的交点即为所求的点 $P$. $\blacksquare$
-
----
 
 ## 练习二
 
@@ -21,8 +17,6 @@
 由角平分线的性质, $PD=PE$. 在 $\text{Rt}\triangle PDF$ 和 $\text{Rt}\triangle PEG$ 中, $\angle PDF=\angle PEG=90^\circ$, $DF=EG$, $PD=PE$, 由SAS, $\triangle PDF\cong\triangle PEG$.
 
 由基础知识, 对应边 $PF=PG$. $\blacksquare$
-
----
 
 ## 练习三
 
@@ -35,8 +29,6 @@
 在 $\text{Rt}\triangle BDF$ 和 $\text{Rt}\triangle EDF$ 中, $BF=EF$, $DF$ 为公共斜边, 由HL, $\text{Rt}\triangle BDF\cong\text{Rt}\triangle EDF$, 故 $DB=DE$.
 
 即点 $D$ 到直线 $FB$ (在 $AB$ 上) 与直线 $FE$ (在 $CE$ 上) 的距离相等. 由角平分线的判定, 点 $D$ 在 $\angle BFE$ 的平分线上, 故 $FD$ 平分 $\angle BFE$. $\blacksquare$
-
----
 
 ## 练习四
 
@@ -52,8 +44,6 @@
 
 (2) 由 (1), $P$ 到直线 $AB$, $CA$ 的距离相等. 由角平分线的判定, $P$ 在 $\angle A$ 的平分线上. $\blacksquare$
 
----
-
 ## 习题一
 
 (习题 14.3 复习巩固第 1 题) 如图, 在 $\triangle ABC$ 中, $AD$ 是它的角平分线, 且 $BD=CD$, $DE\perp AB$, $DF\perp AC$, 垂足分别为 $E$, $F$. 求证 $EB=FC$.
@@ -63,8 +53,6 @@
 由 $AD$ 是角平分线及角平分线的性质, $DE=DF$. 在 $\text{Rt}\triangle BDE$ 和 $\text{Rt}\triangle CDF$ 中, 斜边 $BD=CD$, 直角边 $DE=DF$, 由HL, $\text{Rt}\triangle BDE\cong\text{Rt}\triangle CDF$.
 
 由基础知识, 对应直角边 $EB=FC$. $\blacksquare$
-
----
 
 ## 习题二
 
@@ -78,8 +66,6 @@
 
 即 $FA$ 平分 $\angle DFE$. $\blacksquare$
 
----
-
 ## 习题三
 
 (习题 14.3 复习巩固第 3 题) 如图, $CD\perp AB$, $BE\perp AC$, 垂足分别为 $D$, $E$, $BE$, $CD$ 相交于点 $O$, $OB=OC$. 求证 $\angle 1=\angle 2$.
@@ -90,8 +76,6 @@
 
 即点 $O$ 到直线 $AB$, $AC$ 的距离相等. 由角平分线的判定, 点 $O$ 在 $\angle A$ 的平分线上, 故 $\angle 1=\angle 2$. $\blacksquare$
 
----
-
 ## 习题四
 
 (习题 14.3 复习巩固第 4 题) 如图, 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^\circ$, 在边 $AC$ 上求作一点 $P$, 使点 $P$ 到边 $BC$ 和边 $AB$ 的距离相等.
@@ -99,8 +83,6 @@
 ### 解答 习题四
 
 由角平分线的判定, 到 $BC$, $AB$ 距离相等的点在 $\angle B$ 的平分线上. 故作 $\angle B$ 的平分线, 它与边 $AC$ 的交点即为所求的点 $P$. $\blacksquare$
-
----
 
 ## 习题五
 
@@ -112,8 +94,6 @@
 
 由角平分线的性质, 点 $D$ 在 $PD$ 上, 故点 $D$ 到 $PE$ 和 $PF$ 的距离相等. $\blacksquare$
 
----
-
 ## 习题六
 
 (习题 14.3 综合运用第 6 题) 如图, $OC$ 是 $\angle AOB$ 的平分线, $P$ 是 $OC$ 上的一点, $PD\perp OA$, $PE\perp OB$, 垂足分别为 $D$, $E$. $F$ 是 $OC$ 上的另一点, 连接 $DF$, $EF$. 求证 $DF=EF$.
@@ -124,8 +104,6 @@
 
 由基础知识, 对应边 $DF=EF$. $\blacksquare$
 
----
-
 ## 习题七
 
 (习题 14.3 拓广探索第 7 题) 如图, $AD$ 是 $\triangle ABC$ 的角平分线, $DE\perp AB$, $DF\perp AC$, 垂足分别为 $E$, $F$, 连接 $EF$, $EF$ 与 $AD$ 相交于点 $G$. $AD$ 与 $EF$ 垂直吗? 证明你的结论.
@@ -135,8 +113,6 @@
 $AD\perp EF$. 证明: 由 $AD$ 是角平分线及角平分线的性质, $DE=DF$. 在 $\text{Rt}\triangle ADE$ 和 $\text{Rt}\triangle ADF$ 中, 斜边 $AD$ 为公共边, 直角边 $DE=DF$, 由HL, $\text{Rt}\triangle ADE\cong\text{Rt}\triangle ADF$, 故 $AE=AF$.
 
 于是 $\triangle AEF$ 为等腰三角形, $AG$ 为顶角 $\angle EAF$ 的平分线, 由等腰三角形 "三线合一", $AG\perp EF$, 即 $AD\perp EF$. $\blacksquare$
-
----
 
 ## 习题八
 
@@ -149,8 +125,6 @@ $AD\perp EF$. 证明: 由 $AD$ 是角平分线及角平分线的性质, $DE=DF$.
 由 $E$ 是 $BC$ 中点, $EB=EC$, 故 $EB=EF$. 又 $EB\perp AB$, $EF\perp AD$, 即点 $E$ 到直线 $AB$ 与直线 $AD$ 的距离相等.
 
 由角平分线的判定, 点 $E$ 在 $\angle DAB$ 的平分线上, 故 $AE$ 平分 $\angle DAB$. $\blacksquare$
-
----
 
 ## 图说数学史一
 

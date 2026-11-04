@@ -1,7 +1,5 @@
 # week112
 
----
-
 ## Exercise 1
 
 (Exercise 23.1, Problem 1) Which of the following functions are linear functions? Which are also direct proportion functions?

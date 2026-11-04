@@ -1,7 +1,5 @@
 # week167
 
----
-
 ## Exercise 1
 
 (Exercise 28.1, Problem 1) As shown in the figure, in $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, find the values of $\sin A$ and $\sin B$.

@@ -1,7 +1,5 @@
 # week143
 
----
-
 ## Exercise 1
 
 (Exercise 28.1, Problem 1) Give some examples of rotation in real life and production, and identify the center of rotation and the angle of rotation in each.

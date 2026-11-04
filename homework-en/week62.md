@@ -1,7 +1,5 @@
 # week62
 
----
-
 ## Exercise 1
 
 (Exercise 13.2, Problem 1) Can the following three segments form a triangle? Why?
@@ -22,8 +20,6 @@ By Relationship Among the Three Sides of a Triangle, three segments form a trian
 
 (3) $5+6=11> 10$, $5+10=15> 6$, $6+10=16> 5$; the sum of any two sides is greater than the third, so they can form a triangle. $\blacksquare$
 
----
-
 ## Exercise 2
 
 (Exercise 13.2, Problem 2) Can one $4\ \text{dm}$ strip of wood and two $1\ \text{dm}$ strips form an isosceles triangle? What about two $4\ \text{dm}$ strips and one $1\ \text{dm}$ strip?
@@ -35,8 +31,6 @@ Check the two cases by Relationship Among the Three Sides of a Triangle.
 In the first case the side lengths are $4$, $1$, $1$: $1+1=2< 4$; the sum of two sides is not greater than the third, so an isosceles triangle cannot be formed.
 
 In the second case the side lengths are $4$, $4$, $1$: $4+1=5> 4$, $4+4=8> 1$; the three-side relationship holds, so an isosceles triangle can be formed. $\blacksquare$
-
----
 
 ## Exercise 3
 
@@ -51,8 +45,6 @@ By Median, take the midpoint of side $AB$ and join this midpoint to vertex $C$ t
 By Angle Bisector, draw the bisector of $\angle C$ to meet side $AB$ at a point; the segment between vertex $C$ and this intersection is the angle bisector.
 
 By Altitude, drop a perpendicular from vertex $C$ to the line of the opposite side $AB$; the segment between vertex $C$ and the foot is the altitude on side $AB$. All three are drawn in the figure. $\blacksquare$
-
----
 
 ## Exercise 4
 
@@ -72,8 +64,6 @@ By Median, a median divides the opposite side into two equal parts; by Angle Bis
 
 (2) $AD$ bisects $\angle BAC$, so $\angle 1=\angle 2$; $BE$ bisects $\angle ABC$, so $\angle 3=\frac{1}{2}\angle ABC$; $CF$ bisects $\angle ACB$, so $\angle ACB=2\angle 4$. $\blacksquare$
 
----
-
 ## Problem 1
 
 (Exercise 13.2, Review and Consolidation, Problem 1) The three side lengths of a triangle are $2$, $7$, $a$ respectively; then the range of $a$ is $\;\_\_\;$.
@@ -87,8 +77,6 @@ $$
 $$
 
 i.e. the range of $a$ is $5< a< 9$. $\blacksquare$
-
----
 
 ## Problem 2
 
@@ -108,8 +96,6 @@ Take $70$, $50$, $30$: $50+30=80> 70$; can form a triangle.
 
 Hence there are $2$ choices in total. $\blacksquare$
 
----
-
 ## Problem 3
 
 (Exercise 13.2, Review and Consolidation, Problem 3) For each triangle below, through vertex $A$ draw its median, angle bisector and altitude.
@@ -121,8 +107,6 @@ The figure shows three triangles arranged from left to right: (1) an acute trian
 By Median, take the midpoint of the opposite side $BC$ and join vertex $A$ to this midpoint to obtain the median; by Angle Bisector, draw the bisector of $\angle A$ to meet $BC$ to obtain the angle bisector; by Altitude, drop a perpendicular from vertex $A$ to the line of the opposite side $BC$ to obtain the altitude.
 
 For the acute triangle (1), the median, angle bisector and altitude all lie inside the triangle; for the right triangle (2), one altitude coincides with a leg; for the obtuse triangle (3), the foot of the altitude falls on the extension of side $BC$. All three are drawn in the figure. $\blacksquare$
-
----
 
 ## Problem 4
 
@@ -150,8 +134,6 @@ By Median, $E$ is the midpoint of $BC$; by Angle Bisector, $AD$ bisects $\angle 
 
 (4) $S_{\triangle ABC}=\frac{1}{2}\cdot BC\cdot AF=\frac{1}{2}\times8\times5=20$. Also $BE=\frac{1}{2}BC=4$, and when taking $BE$ as the base the altitude is still $AF$, so $S_{\triangle ABE}=\frac{1}{2}\cdot BE\cdot AF=\frac{1}{2}\times4\times5=10$. $\blacksquare$
 
----
-
 ## Problem 5
 
 (Exercise 13.2, Comprehensive Application, Problem 5) One side of an isosceles triangle has length $6$ and the perimeter is $20$; find the lengths of the other two sides.
@@ -165,8 +147,6 @@ If $6$ is a leg, then the base is $20-2\times6=8$, and the side lengths are $6$,
 If $6$ is the base, then the legs are $\frac{20-6}{2}=7$, and the side lengths are $7$, $7$, $6$. Since $7+6=13> 7$, a triangle can be formed.
 
 Hence the other two sides are $6$ and $8$, or $7$ and $7$. $\blacksquare$
-
----
 
 ## Problem 6
 
@@ -183,8 +163,6 @@ Check the two cases by Relationship Among the Three Sides of a Triangle.
 (1) If $5$ is a leg, the side lengths are $5$, $5$, $6$; since $5+5=10> 6$, the perimeter is $5+5+6=16$. If $6$ is a leg, the side lengths are $6$, $6$, $5$; since $6+5=11> 6$, the perimeter is $6+6+5=17$. Hence the perimeter is $16$ or $17$.
 
 (2) If $4$ is a leg, the side lengths are $4$, $4$, $9$; since $4+4=8< 9$, a triangle cannot be formed. If $9$ is a leg, the side lengths are $9$, $9$, $4$; since $9+4=13> 9$, the perimeter is $9+9+4=22$. Hence the perimeter is $22$. $\blacksquare$
-
----
 
 ## Problem 7
 
@@ -207,8 +185,6 @@ AD:CE=1:2.
 $$
 
 $\blacksquare$
-
----
 
 ## Problem 8
 

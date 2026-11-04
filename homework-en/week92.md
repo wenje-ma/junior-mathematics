@@ -1,7 +1,5 @@
 # week92
 
----
-
 ### Activity 1
 
 (Mathematical Activity, Activity 1) Explore the properties of proportions. Find a set of numbers $a,b,c,d$, all not equal to $0$, such that $\frac{a}{b}=\frac{c}{d}$ holds. Using this set of values, compute the values of the two fractions in each of the following groups, and see what relationship holds between them:

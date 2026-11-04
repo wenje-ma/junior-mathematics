@@ -1,7 +1,5 @@
 # week102
 
----
-
 ## Review Problem 1
 
 (Review Problem, Review and Consolidation, Problem 1)

@@ -1,7 +1,5 @@
 # week148
 
----
-
 ## Exercise 1
 
 (Exercise 29.2, Problem 1) As shown in the figure, the two circles are both centered at the point $O$. The chord $AB$ of the large circle intersects the small circle at the two points $C$ and $D$. Prove that $AC=BD$.

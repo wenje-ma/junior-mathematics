@@ -1,7 +1,5 @@
 # week5
 
----
-
 ## Exercise 1
 
 (Exercise 2.1, Problem 1) Express the following results using expressions:
@@ -17,8 +15,6 @@ By Rules for Addition of Rational Numbers, rise and income are positive, and fal
 (1) The temperature rises by $7\,^\circ\text{C}$ from $-4\,^\circ\text{C}$; the expression is $\left(-4\right)+7=3$, namely $3\,^\circ\text{C}$.
 
 (2) An income of $7$ yuan followed by an expenditure of $5$ yuan; the expression is $7+\left(-5\right)=2$, namely a balance of $2$ yuan. $\blacksquare$
-
----
 
 ## Exercise 2
 
@@ -39,8 +35,6 @@ By Rules for Addition of Rational Numbers.
 (4) $\left(-4\right)+4=0$; (5) $\left(-4\right)+14=10$; (6) $\left(-14\right)+4=-10$;
 
 (7) $6+\left(-6\right)=0$; (8) $0+\left(-6\right)=-6$; (9) $\left(-6\right)+0=-6$. $\blacksquare$
-
----
 
 ## Exercise 3
 
@@ -66,8 +60,6 @@ By Rules for Addition of Rational Numbers.
 
 (4) $12+\left(-23\right)=-\left(23-12\right)=-11$. $\blacksquare$
 
----
-
 ## Exercise 4
 
 (Exercise 2.1, Problem 4) Please use real-life examples to explain the meaning of $\left(-3\right)+2=-1$ and $\left(-3\right)+\left(-2\right)=-5$.
@@ -79,8 +71,6 @@ By Rules for Addition of Rational Numbers.
 $\left(-3\right)+2=-1$: for example, the temperature first drops by $3\,^\circ\text{C}$ and then rises by $2\,^\circ\text{C}$, ending up $1\,^\circ\text{C}$ lower than before.
 
 $\left(-3\right)+\left(-2\right)=-5$: for example, first spending $3$ yuan and then spending another $2$ yuan gives a total expenditure of $5$ yuan, that is, the balance decreases by $5$ yuan. $\blacksquare$
-
----
 
 ## Exercise 5
 
@@ -106,8 +96,6 @@ By Commutative Law of Addition and Associative Law of Addition, group together n
 
 (4) The original expression $=\left[3\frac{1}{4}+5\frac{3}{4}\right]+\left[\left(-2\frac{3}{5}\right)+\left(-8\frac{2}{5}\right)\right]=9+\left(-11\right)=-2$. $\blacksquare$
 
----
-
 ## Exercise 6
 
 (Exercise 2.1, Problem 2) A bank savings card has a balance of $450$ yuan; first $80$ yuan is withdrawn, and then $150$ yuan is deposited. How much yuan is left in the savings card?
@@ -120,8 +108,6 @@ $$450+\left(-80\right)+150=\left(450+150\right)-80=600-80=520.$$
 
 Hence there is $520$ yuan left in the savings card. $\blacksquare$
 
----
-
 ## Exercise 7
 
 (Exercise 2.1, Problem 3) An airplane at an altitude of $9000\ \text{m}$ first descends by $300\ \text{m}$ and then climbs by $500\ \text{m}$. What is the flight altitude of the airplane at this point, in meters?
@@ -133,8 +119,6 @@ By Rules for Addition of Rational Numbers, climbing is positive and descending i
 $$9000+\left(-300\right)+500=9000+200=9200.$$
 
 Hence the flight altitude of the airplane at this point is $9200\ \text{m}$. $\blacksquare$
-
----
 
 ## Exercise 8
 
@@ -160,8 +144,6 @@ By Rules for Subtraction of Rational Numbers, subtracting a number is equivalent
 
 (9) $\left(+2\frac{2}{7}\right)-\left(-3\frac{1}{2}\right)=2\frac{2}{7}+3\frac{1}{2}=5\frac{11}{14}$. $\blacksquare$
 
----
-
 ## Exercise 9
 
 (Exercise 2.1, Problem 2) Compute:
@@ -177,8 +159,6 @@ By Rules for Subtraction of Rational Numbers, "lower than" uses subtraction.
 (1) $2-8=-6\,^\circ\text{C}$.
 
 (2) $-3-6=-9\,^\circ\text{C}$. $\blacksquare$
-
----
 
 ## Exercise 10
 
@@ -204,8 +184,6 @@ By Rules for Subtraction of Rational Numbers, convert subtraction into addition,
 
 (4) The original expression $=\frac{3}{4}-\frac{7}{2}-\frac{1}{6}+\frac{2}{3}-1=\frac{9-42-2+8-12}{12}=-\frac{39}{12}=-\frac{13}{4}$. $\blacksquare$
 
----
-
 ## Exercise 11
 
 (Exercise 2.1, Problem 2) First rewrite the following expressions in the form omitting parentheses and plus signs, and then compute:
@@ -221,8 +199,6 @@ By Rules for Subtraction of Rational Numbers.
 (1) The original expression $=-52-37-19+24=-84$.
 
 (2) The original expression $=2\frac{3}{4}+\frac{1}{2}+3\frac{3}{4}-5\frac{1}{2}=\left(2\frac{3}{4}+3\frac{3}{4}\right)+\left(\frac{1}{2}-5\frac{1}{2}\right)=6\frac{1}{2}-5=\frac{3}{2}$. $\blacksquare$
-
----
 
 ## Problem 1
 
@@ -245,8 +221,6 @@ By Rules for Addition of Rational Numbers.
 (7) $\frac{2}{5}+\left(-\frac{3}{5}\right)=-\frac{1}{5}$; (8) $\left(-\frac{1}{3}\right)+\frac{2}{5}=\frac{-5+6}{15}=\frac{1}{15}$;
 
 (9) $\left(-3\frac{1}{4}\right)+\left(-1\frac{1}{12}\right)=-\left(3\frac{3}{12}+1\frac{1}{12}\right)=-4\frac{1}{3}$. $\blacksquare$
-
----
 
 ## Problem 2
 
@@ -272,8 +246,6 @@ By Commutative Law of Addition and Associative Law of Addition.
 
 (4) The original expression $=\left[\frac{1}{2}+\left(-\frac{1}{2}\right)\right]+\left[\left(-\frac{2}{3}\right)+\left(-\frac{1}{3}\right)\right]+\frac{4}{5}=0+\left(-1\right)+\frac{4}{5}=-\frac{1}{5}$. $\blacksquare$
 
----
-
 ## Problem 3
 
 (Exercise 2.1, Review and Consolidation, Problem 3) Compute:
@@ -289,8 +261,6 @@ By Rules for Subtraction of Rational Numbers.
 (1) $\left(-8\right)-8=-16$; (2) $\left(-8\right)-\left(-8\right)=0$; (3) $8-\left(-8\right)=16$; (4) $8-8=0$;
 
 (5) $0-6=-6$; (6) $0-\left(-6\right)=6$; (7) $16-47=-31$; (8) $\left(-3.8\right)-\left(+7\right)=-10.8$; (9) $\left(-5.9\right)-\left(-6.1\right)=0.2$. $\blacksquare$
-
----
 
 ## Problem 4
 
@@ -313,8 +283,6 @@ By Rules for Subtraction of Rational Numbers.
 (5) $-\frac{2}{3}-\left(-\frac{1}{6}\right)=-\frac{2}{3}+\frac{1}{6}=-\frac{1}{2}$; (6) $0-\left(-\frac{3}{4}\right)=\frac{3}{4}$;
 
 (7) $\left(-2\right)-\left(+\frac{2}{3}\right)=-2-\frac{2}{3}=-\frac{8}{3}$; (8) $\left(-16\frac{3}{4}\right)-\left(-10\frac{1}{4}\right)-\left(+1\frac{1}{2}\right)=-16\frac{3}{4}+10\frac{1}{4}-1\frac{1}{2}=-8$. $\blacksquare$
-
----
 
 ## Problem 5
 
@@ -348,8 +316,6 @@ By Rules for Subtraction of Rational Numbers and Commutative Law of Addition.
 
 (6) The original expression $=-\frac{2}{3}+5\frac{1}{6}+4\frac{5}{6}-9\frac{1}{3}=\left(-\frac{2}{3}-9\frac{1}{3}\right)+\left(5\frac{1}{6}+4\frac{5}{6}\right)=-10+10=0$. $\blacksquare$
 
----
-
 ## Problem 6
 
 (Exercise 2.1, Comprehensive Application, Problem 6) As shown in the figure, the highest point on land is the summit of Mount Everest, and the lowest point is the Dead Sea, a lake in western Asia. What is the difference in height between the two, in meters? (The height of Mount Everest is $8848.86\ \text{m}$, and the surface elevation of the Dead Sea is $-432\ \text{m}$.)
@@ -362,8 +328,6 @@ $$8848.86-\left(-432\right)=8848.86+432=9280.86.$$
 
 Hence the height difference between the two is $9280.86\ \text{m}$. $\blacksquare$
 
----
-
 ## Problem 7
 
 (Exercise 2.1, Comprehensive Application, Problem 7) One morning at a certain place the temperature is $-7\,^\circ\text{C}$; at noon it rises by $11\,^\circ\text{C}$, and at midnight it drops by $9\,^\circ\text{C}$. What is the temperature at midnight, in degrees Celsius?
@@ -375,8 +339,6 @@ By Rules for Addition of Rational Numbers and Rules for Subtraction of Rational 
 $$-7+11-9=-5.$$
 
 Hence the temperature at midnight is $-5\,^\circ\text{C}$. $\blacksquare$
-
----
 
 ## Problem 8
 
@@ -393,8 +355,6 @@ By Rules for Addition of Rational Numbers, find the sum of the profit/loss over 
 $$432-12.5-10.5+327-87+536.5+698=1883.5.$$
 
 The result is positive, so over the whole week there is a total profit of $1883.5$ yuan. $\blacksquare$
-
----
 
 ## Problem 9
 
@@ -418,8 +378,6 @@ $$200+\left(-5.5\right)=194.5.$$
 
 Hence these $8$ baskets of Chinese cabbage together weigh $194.5\ \text{kg}$. $\blacksquare$
 
----
-
 ## Problem 10
 
 (Exercise 2.1, Extension and Exploration, Problem 10) The highest and lowest temperatures each day over a week at a certain place are shown in the table below. Which day has the largest temperature difference? Which day has the smallest?
@@ -433,8 +391,6 @@ By Rules for Subtraction of Rational Numbers, the temperature difference $=$ hig
 The temperature difference on each day is: Monday $10-2=8$; Tuesday $12-1=11$; Wednesday $11-0=11$; Thursday $9-\left(-1\right)=10$; Friday $7-\left(-4\right)=11$; Saturday $5-\left(-5\right)=10$; Sunday $7-\left(-5\right)=12$.
 
 Comparing, $12> 11> 10> 8$, so Sunday has the largest temperature difference and Monday has the smallest. $\blacksquare$
-
----
 
 ## Problem 11
 
@@ -462,8 +418,6 @@ By Rules for Addition of Rational Numbers, the unknown addend equals the sum min
 
 Hence fill in in turn: $16$; $-3$; $18$; $-12$; $-7$; $7$. $\blacksquare$
 
----
-
 ## Problem 12
 
 (Exercise 2.1, Extension and Exploration, Problem 12) Compute the value of each of the following:
@@ -485,8 +439,6 @@ $$\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)=-8;$$
 $$\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)=-10.$$
 
 Adding several identical negative numbers is precisely that negative number multiplied by a positive integer, so we conjecture $\left(-2\right)\times 2=-4$, $\left(-2\right)\times 3=-6$, $\left(-2\right)\times 4=-8$, $\left(-2\right)\times 5=-10$. From this one may guess: when a negative number is multiplied by a positive number, the product is negative, and the absolute value of the product equals the product of the absolute values of the two numbers. $\blacksquare$
-
----
 
 ## Problem 13
 

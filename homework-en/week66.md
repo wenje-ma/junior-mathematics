@@ -1,7 +1,5 @@
 # week66
 
----
-
 ## Inquiry 1
 
 (Comprehensive and Practical Activity, Problem 1) Use a fulcrum to support a uniform triangular thin plate so that it stays balanced on the fulcrum. What is the relationship between the centroid position of the uniform triangular thin plate and the centroid position of the triangle?

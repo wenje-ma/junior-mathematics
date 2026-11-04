@@ -1,7 +1,5 @@
 # week157
 
----
-
 ### Activity 1
 
 (Mathematical Activity, Activity 1, A Flat Knot in a Strip of Paper) Take a long strip of paper of uniform width, tie a knot in it, then gently pull it tight and press it flat; you obtain the pentagon $ABCDE$ shown in the figure. Is it a regular pentagon? Explain why.

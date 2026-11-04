@@ -1,7 +1,5 @@
 # week51
 
----
-
 ## Exercise 1
 
 (Exercise 11.1, Problem 1) Express each of the following using an inequality:
@@ -34,8 +32,6 @@ By Inequality.
 
 (6) Let the number of new-energy buses be $x$; then $\frac{x}{12000}> 66\%$, i.e. $x> 7920$. $\blacksquare$
 
----
-
 ## Exercise 2
 
 (Exercise 11.1, Problem 2) Among the following numbers, which are solutions of the inequality $x+3> 6$?
@@ -49,8 +45,6 @@ $$
 By Solution of an Inequality, the values of $x$ making $x+3> 6$ hold are $x> 3$.
 
 Among the given numbers, $3.2> 3$, $4.8> 3$, $8> 3$, $12> 3$, so $3.2$, $4.8$, $8$, $12$ are solutions of the inequality. $\blacksquare$
-
----
 
 ## Exercise 3
 
@@ -71,8 +65,6 @@ By Property 1 of Inequalities and Property 2 of Inequalities.
 (2) Divide both sides by $2$: $x< 4$.
 
 (3) Add $2$ to both sides: $x> 2$. $\blacksquare$
-
----
 
 ## Exercise 4
 
@@ -106,8 +98,6 @@ By Property 1 of Inequalities, adding the same number to both sides leaves the d
 
 (6) $4p+1> 4q+1$. $\blacksquare$
 
----
-
 ## Exercise 5
 
 (Exercise 11.1, Problem 5) Given $m> 3$, express the range of each expression using an inequality:
@@ -131,8 +121,6 @@ By Property 1 of Inequalities, Property 2 of Inequalities, Property 3 of Inequal
 (3) Multiply both sides by $-2$ (direction reverses): $-2m< -6$.
 
 (4) Multiply both sides by $3$ then subtract $4$: $3m> 9$, $3m-4> 5$. $\blacksquare$
-
----
 
 ## Exercise 6
 
@@ -162,8 +150,6 @@ By Property 1 of Inequalities through Property 3 of Inequalities.
 
 The solution sets are represented on the number line as shown. $\blacksquare$
 
----
-
 ## Exercise 7
 
 (Exercise 11.1, Problem 7) On a certain day in Beijing the lowest temperature is $19\,^\circ\text{C}$ and the highest temperature is $28\,^\circ\text{C}$. Express the range of the temperature $t\,^\circ\text{C}$ on that day using an inequality.
@@ -178,8 +164,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## Problem 1
 
 (Exercise 11.1, Review and Consolidation, Problem 1) Among the following numbers, which are solutions of the inequality $2x+3> 9$?
@@ -191,8 +175,6 @@ $$
 ### Solution to Problem 1
 
 By Solution of an Inequality, $2x+3> 9$ is equivalent to $x> 3$. Among the given numbers, $3.01> 3$, $4> 3$, $6> 3$, $100> 3$, so $3.01$, $4$, $6$, $100$ are solutions. $\blacksquare$
-
----
 
 ## Problem 2
 
@@ -216,8 +198,6 @@ By Solution of an Inequality, $2x+3> 9$ is equivalent to $x> 3$. Among the given
 
 (4) Let the number of good-air-quality days in 2021 be $x$; then $x-224> 60$, i.e. $x> 284$. $\blacksquare$
 
----
-
 ## Problem 3
 
 (Exercise 11.1, Review and Consolidation, Problem 3) Write directly the solution set of each inequality:
@@ -240,8 +220,6 @@ By Solution of an Inequality, $2x+3> 9$ is equivalent to $x> 3$. Among the given
 
 (4) Dividing by $-3$ reverses the direction: $x> -\frac{10}{3}$. $\blacksquare$
 
----
-
 ## Problem 4
 
 (Exercise 11.1, Review and Consolidation, Problem 4) Given $m> n$, fill in the blanks with "$> $" or "$< $":
@@ -263,8 +241,6 @@ By Solution of an Inequality, $2x+3> 9$ is equivalent to $x> 3$. Among the given
 (3) By Property 3: $-\frac{1}{3}m< -\frac{1}{3}n$.
 
 (4) From $m> n$ we get $m+3n> n+3n=4n$, hence $m+3n> 4n$. $\blacksquare$
-
----
 
 ## Problem 5
 
@@ -292,8 +268,6 @@ The figure shows number lines representing the solution sets of four inequalitie
 
 The solution sets are represented on the number line as shown. $\blacksquare$
 
----
-
 ## Problem 6
 
 (Exercise 11.1, Comprehensive Application, Problem 6) The relationship between flame color and temperature: dark red begins at $650\,^\circ\text{C}$, cherry red begins at $750\,^\circ\text{C}$, and the temperature range between cherry red and dark red is about $650\sim750\,^\circ\text{C}$; a certain color tone has temperature $t$ satisfying $1260\le t\le1310\,^\circ\text{C}$. (1) Express the temperature range between dark red and cherry red using an inequality; (2) determine which color-tone segment $1260\le t\le1310$ belongs to.
@@ -303,8 +277,6 @@ The solution sets are represented on the number line as shown. $\blacksquare$
 (1) The temperature $t$ satisfies $650\le t\le750$.
 
 (2) From $1260\le t\le1310$, by comparison with the temperature table, this range belongs to the higher-temperature segment between bright cherry red and deep orange-yellow. $\blacksquare$
-
----
 
 ## Problem 7
 
@@ -319,8 +291,6 @@ The solution sets are represented on the number line as shown. $\blacksquare$
 (1) From $a> b$, multiply by $2$ and subtract $5$: $2a-5> 2b-5$.
 
 (2) From $a> b$, multiply by $-3.5$, reversing the direction: $-3.5a< -3.5b$, then add $1$: $-3.5a+1< -3.5b+1$, i.e. $-3.5b+1> -3.5a+1$. $\blacksquare$
-
----
 
 ## Problem 8
 
@@ -344,8 +314,6 @@ The solution sets are represented on the number line as shown. $\blacksquare$
 
 (4) $2y< y-1$, solution set $y< -1$. $\blacksquare$
 
----
-
 ## Problem 9
 
 (Exercise 11.1, Comprehensive Application, Problem 9) A part's blueprint specifies a length $L=40\pm0.02\ \text{mm}$. Within what range does the length $L$ of a qualified part lie?
@@ -360,8 +328,6 @@ $$
 
 i.e. $39.98\le L\le40.02$. $\blacksquare$
 
----
-
 ## Problem 10
 
 (Exercise 11.1, Comprehensive Application, Problem 10) The subway fare in a certain city: when the travel distance does not exceed a certain distance, the fare is $8$ yuan. Let the travel distance be $x\ \text{km}$; the distance range corresponding to the $8$-yuan fare is $0< x\le20$. Express the range of $x$ using an inequality.
@@ -369,8 +335,6 @@ i.e. $39.98\le L\le40.02$. $\blacksquare$
 ### Solution to Problem 10
 
 By Inequality, $0< x\le20$. $\blacksquare$
-
----
 
 ## Problem 11
 
@@ -385,8 +349,6 @@ $$
 $$
 
 Subtract $a+b$ from both sides: $9b> 9a$, hence $b> a$. $\blacksquare$
-
----
 
 ## Problem 12
 

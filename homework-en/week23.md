@@ -1,7 +1,5 @@
 # week23
 
----
-
 ## Review Problem 1
 
 (Review Problems, Review and Consolidation, Problem 1) Solve the following equations:
@@ -25,8 +23,6 @@ By General Steps for Solving a Linear Equation in One Variable.
 (3) Transpose: $2y+6y=11-3$, combine: $8y=8$, giving $y=1$.
 
 (4) Multiply both sides by $4$: $2x-24=3x$. Transpose: $-24=x$, giving $x=-24$. $\blacksquare$
-
----
 
 ## Review Problem 2
 
@@ -52,8 +48,6 @@ By General Steps for Solving a Linear Equation in One Variable.
 
 (4) Remove the square brackets: $\left(\frac{x}{4}-1\right)-3-x=2$. Combine: $\frac{x}{4}-4-x=2$. Transpose: $-\frac{3}{4}x=6$, giving $x=-8$. $\blacksquare$
 
----
-
 ## Review Problem 3
 
 (Review Problems, Review and Consolidation, Problem 3) For what value of $x$ are the values of the expressions $2\left(3x-1\right)$ and $3\left(\frac{2}{3}x-3\right)$ equal?
@@ -64,8 +58,6 @@ By General Steps for Solving a Linear Equation in One Variable.
 
 Set $2\left(3x-1\right)=3\left(\frac{2}{3}x-3\right)$. Remove parentheses: $6x-2=2x-9$. Transpose: $4x=-7$, giving $x=-\frac{7}{4}$. $\blacksquare$
 
----
-
 ## Review Problem 4
 
 (Review Problems, Review and Consolidation, Problem 4) For what value of $x$ are the values of the expressions $\frac{2x-1}{3}$ and $\frac{3x-5}{2}$ opposites of each other?
@@ -75,8 +67,6 @@ Set $2\left(3x-1\right)=3\left(\frac{2}{3}x-3\right)$. Remove parentheses: $6x-2
 By General Steps for Solving a Linear Equation in One Variable.
 
 Set $\frac{2x-1}{3}+\frac{3x-5}{2}=0$. Multiply both sides by $6$: $2\left(2x-1\right)+3\left(3x-5\right)=0$. Remove parentheses: $4x-2+9x-15=0$. Combine: $13x-17=0$, giving $x=\frac{17}{13}$. $\blacksquare$
-
----
 
 ## Review Problem 5
 
@@ -90,8 +80,6 @@ $$5\times\frac{1}{2}+3m-2=0.$$
 
 i.e. $\frac{5}{2}+3m-2=0$. $\frac{1}{2}+3m=0$. $3m=-\frac{1}{2}$. Giving $m=-\frac{1}{6}$. $\blacksquare$
 
----
-
 ## Review Problem 6
 
 (Review Problems, Review and Consolidation, Problem 6) Given that the solutions of the equations $\frac{x-m}{2}=\frac{x+m}{3}$ and $\frac{2x-3}{3}-2=\frac{3x}{8}$ are reciprocals of each other, find the value of $m$.
@@ -103,8 +91,6 @@ By General Steps for Solving a Linear Equation in One Variable, first solve the 
 The second equation: multiply both sides by $24$: $8\left(2x-3\right)-48=9x$. Remove parentheses: $16x-24-48=9x$. $7x=72$. Giving $x=\frac{72}{7}$. Its reciprocal is $\frac{7}{72}$.
 
 The first equation: multiply both sides by $6$: $3\left(x-m\right)=2\left(x+m\right)$. Remove parentheses: $3x-3m=2x+2m$. $x=5m$. Setting $5m=\frac{7}{72}$, giving $m=\frac{7}{360}$. $\blacksquare$
-
----
 
 ## Review Problem 7
 
@@ -120,8 +106,6 @@ $$x\left(\frac{1}{20}+\frac{1}{12}\right)=\frac{4}{5}.$$
 
 Simplifying: $x\cdot\frac{8}{60}=\frac{4}{5}$. $\frac{2x}{15}=\frac{4}{5}$. $2x=12$. Giving $x=6$. Hence the rest takes $6$ hours. $\blacksquare$
 
----
-
 ## Review Problem 8
 
 (Review Problems, Comprehensive Application, Problem 8) A shop first purchases $10$ pieces of a product in Guangzhou at $15$ yuan each, and later purchases $40$ pieces of the same product in Shenzhen at $12.5$ yuan each. If the shop wants a profit of $12\%$ when selling these products, what should the selling price per piece be?
@@ -135,8 +119,6 @@ Total cost $=15\times10+12.5\times40=150+500=650$ yuan. Total selling price $=50
 $$50x-650=650\times12\%.$$
 
 i.e. $50x-650=78$. $50x=728$. Giving $x=14.56$. Hence the selling price should be $14.56$ yuan per piece. $\blacksquare$
-
----
 
 ## Review Problem 9
 
@@ -152,8 +134,6 @@ $$40\left(36-x\right)=2\times25x.$$
 
 Simplifying: $40\left(36-x\right)=50x$. $1440-40x=50x$. $1440=90x$. Giving $x=16$. Hence $16$ sheets are used for bodies and $20$ sheets for bottoms. $\blacksquare$
 
----
-
 ## Review Problem 10
 
 (Review Problems, Extension and Exploration, Problem 10) A and B practice running on a $400\ \text{m}$ circular track; A runs $250\ \text{m}$ per minute and B runs $250\ \text{m}$ per minute. They start at the same place and time in the same direction; after how many minutes do they first meet?
@@ -167,8 +147,6 @@ The two have the same speed, so running in the same direction they never draw ap
 $$\left(350-250\right)x=400.$$
 
 $100x=400$. Giving $x=4$. Hence they first meet after $4$ minutes. $\blacksquare$
-
----
 
 ## Review Problem 11
 
@@ -184,8 +162,6 @@ $$50x=60\left(x-100\right).$$
 
 Remove parentheses: $50x=60x-6000$. Transpose: $6000=10x$. Giving $x=600$. Hence last year's cost per phone was $600$ yuan. $\blacksquare$
 
----
-
 ## Review Problem 12
 
 (Review Problems, Extension and Exploration, Problem 12) Someone rides a motorcycle from home to the train station. If he goes $30\ \text{km}$ per hour, he arrives $15\ \text{min}$ before the train departs; if he goes $18\ \text{km}$ per hour, he arrives $15\ \text{min}$ after the train departs. Now he plans to arrive at the station $10\ \text{min}$ before the train departs; find the required motorcycle speed.
@@ -199,8 +175,6 @@ $$\frac{s}{30}=t-\frac{15}{60},\quad \frac{s}{18}=t+\frac{15}{60}.$$
 Subtracting the two equations: $\frac{s}{18}-\frac{s}{30}=\frac{30}{60}=\frac{1}{2}$. $\frac{5s-3s}{90}=\frac{1}{2}$. $\frac{2s}{90}=\frac{1}{2}$. $s=22.5\ \text{km}$.
 
 From $\frac{22.5}{30}=t-0.25$, we get $t=1\ \text{h}$. If arriving $10\ \text{min}$ early, the time taken is $t-\frac{10}{60}=\frac{5}{6}\ \text{h}$. The speed $=\frac{22.5}{5/6}=22.5\times\frac{6}{5}=27\ \text{km/h}$. $\blacksquare$
-
----
 
 ## Review Problem 13
 
@@ -223,8 +197,6 @@ By Steps for Solving Word Problems by Setting Up Equations.
 
 (2) Let $x$ minutes of calls make the charges equal: $30+0.30x=0.40x$. $30=0.10x$. Giving $x=300$. Hence at $300$ minutes of calls the two plans charge the same. $\blacksquare$
 
----
-
 ## Review Problem 14
 
 (Review Problems, Extension and Exploration, Problem 14) A mall purchases basketballs at a unit price of $40$ yuan. If sold at $50$ yuan each, $500$ can be sold per month. From sales experience, for each $1$ yuan increase in price, sales decrease by $10$ units. If the mall wants a monthly profit of $8000$ yuan from these basketballs, at what price should they be sold?
@@ -238,8 +210,6 @@ The price is $\left(50+x\right)$ yuan, and sales are $\left(500-10x\right)$ unit
 $$\left(10+x\right)\left(500-10x\right)=8000.$$
 
 Expanding: $5000+500x-100x-10x^{2}=8000$. i.e. $-10x^{2}+400x-3000=0$. Simplifying: $x^{2}-40x+300=0$. Factoring: $\left(x-10\right)\left(x-30\right)=0$. Giving $x=10$ or $x=30$. The price should be set at $60$ yuan or $80$ yuan. $\blacksquare$
-
----
 
 ## Review Problem 15
 

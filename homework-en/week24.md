@@ -1,7 +1,5 @@
 # week24
 
----
-
 ## Exercise 1
 
 (Exercise 6.1, Problem 1) Name the solid figure that each of the following objects resembles: a math textbook resembles $\;\_\_\;$, a pyramid resembles $\;\_\_\;$, a watermelon resembles $\;\_\_\;$, a fluorescent lamp resembles $\;\_\_\;$.
@@ -12,8 +10,6 @@ By Solid Figure, judge the corresponding solid figure from the object's outer sh
 
 A math textbook's parts do not all lie in the same plane; it has six faces and resembles a rectangular prism. A pyramid has one base and four triangular faces and resembles a square pyramid. A watermelon is round and resembles a sphere. A fluorescent lamp is long and thin and resembles a cylinder. $\blacksquare$
 
----
-
 ## Exercise 2
 
 (Exercise 6.1, Problem 2) Match the following solid figures with their names by drawing lines: sphere, cylinder, cone, cube, triangular prism.
@@ -23,8 +19,6 @@ A math textbook's parts do not all lie in the same plane; it has six faces and r
 By Solid Figure, match the names according to the features of each solid figure.
 
 A sphere is a solid enclosed entirely by a curved surface; a cylinder consists of two circular bases and one lateral surface; a cone consists of one circular base and one curved lateral surface; a cube consists of six square faces; a triangular prism consists of two triangular bases and three rectangular faces. Draw lines matching each solid figure with its name as shown. $\blacksquare$
-
----
 
 ## Exercise 3
 
@@ -44,8 +38,6 @@ The figure consists of the three views of this L-shaped staircase from three dir
 
 $\blacksquare$
 
----
-
 ## Exercise 4
 
 (Exercise 6.1, Problem 2) A triangular prism is shown; the three figures on the right, (1) an inverted triangle, (2) two adjacent rectangles, (3) one rectangle, are each obtained by viewing the prism from which direction?
@@ -63,8 +55,6 @@ The triangular prism has triangular bases and three rectangular lateral faces.
 (3) One rectangle: from the left, one lateral rectangle is seen, i.e. viewing from the left gives one rectangle.
 
 $\blacksquare$
-
----
 
 ## Exercise 5
 
@@ -84,8 +74,6 @@ The figure shows the plane figures obtained by viewing a cylinder, a cone, and a
 
 $\blacksquare$
 
----
-
 ## Exercise 6
 
 (Exercise 6.1, Problem 2) Match each solid figure (cylinder, cone, triangular prism) with its net (figure (1) rectangle with two circles below, figure (2) sector with a circle below, figure (3) rectangle with triangles on two sides, figure (4) rectangle with circles on two sides, figure (5) three rectangles with two triangles above, figure (6) sector with a circle on the side) by drawing lines.
@@ -101,8 +89,6 @@ The net of a cone is one sector and one circle: figure (2) (sector with a circle
 The net of a triangular prism is two triangles and three rectangles: figure (3) (rectangle with triangles on two sides) and figure (5) (three rectangles with two triangles above) are both nets of a triangular prism.
 
 $\blacksquare$
-
----
 
 ## Problem 1
 
@@ -122,8 +108,6 @@ The net of a cylinder is one rectangle and two circles → match with the rectan
 
 $\blacksquare$
 
----
-
 ## Problem 2
 
 (Problem 6.1, Review and Consolidation, Problem 2) Viewing the cylinder, cone, and sphere from the front, the left, and the top respectively, what plane figures do you obtain?
@@ -140,8 +124,6 @@ By Plane Figure, view each solid figure from the three directions.
 
 $\blacksquare$
 
----
-
 ## Problem 3
 
 (Problem 6.1, Review and Consolidation, Problem 3) Which of the following plane figures, when rotated one full turn about an axis, produces the solid figure shown (a frustum of a cone)? (A: trapezoid with concave curved sides, B: trapezoid with convex curved sides, C: right trapezoid, D: hyperbola-shaped concave strip)
@@ -153,8 +135,6 @@ By A Moving Plane Forms a Solid, a plane figure rotated about an axis forms a so
 The target solid is a frustum of a cone (circular truncated cone), whose lateral side is a straight line. The plane figure that, rotated about the axis, produces a circular truncated cone should be a right trapezoid (one side perpendicular to the axis, one side parallel to the axis, and one slanted side). Hence figure (C), the right trapezoid, rotated one full turn about the axis, produces a circular truncated cone.
 
 $\blacksquare$
-
----
 
 ## Problem 4
 
@@ -169,8 +149,6 @@ The nets in the top row, left to right: rectangle with triangles on two sides (n
 The solids in the bottom row, left to right: cylinder, cube, triangular prism, cone.
 
 Corresponding matches: triangular prism ↔ rectangle with triangles on two sides; cone ↔ sector plus circle; cube ↔ six squares; cylinder ↔ rectangle plus circles on two sides. $\blacksquare$
-
----
 
 ## Problem 5
 
@@ -187,8 +165,6 @@ Viewing this cylinder from the front gives a rectangle of sides $5\ \text{cm}$ a
 The area of this rectangle $=5\times10=50\ \text{cm}^{2}$.
 
 $\blacksquare$
-
----
 
 ## Problem 6
 
@@ -214,8 +190,6 @@ Figure (6) cross shape (four cells in a horizontal row in the middle, one above 
 
 Hence figure (3) is not a net of a cube, while the rest (1)(2)(4)(5)(6) all are. $\blacksquare$
 
----
-
 ## Problem 7
 
 (Problem 6.1, Comprehensive Application, Problem 8) As shown, in a cube net the first row writes "China" "country" "dream", and the second row writes "I" "my" "dream" (the second row starts from the second column). After folding into a cube, what is the character on the face opposite to the face with "my"?
@@ -227,8 +201,6 @@ By Net, determine the opposite relations among the faces in the net.
 Net layout: the three cells of the first row are "China" "country" "dream"; the three cells of the second row are "I" "my" "dream" (starting from the second column).
 
 After folding into a cube, "country" and "my" are opposite (same column, separated by one row), "China" and "dream" (third cell of the first row) are opposite, and "I" and "dream" (third cell of the second row) are opposite. Hence the character on the face opposite to the "my" face is "country". $\blacksquare$
-
----
 
 ## Problem 8
 
@@ -248,8 +220,6 @@ The fourth (Y-shape of three quadrilaterals sharing a vertex): folds into a tria
 
 $\blacksquare$
 
----
-
 ## Problem 9
 
 (Problem 6.1, Comprehensive Application, Problem 9) As shown, a rectangular box has length, width, and height $a$, $b$, and $c$ respectively. An ant crawls along the surface from vertex $A$ to the opposite vertex $B$; find the length of the shortest path.
@@ -268,8 +238,6 @@ Unfold two adjacent faces of the box into the same plane; then the shortest path
 
 Taking the smallest of the three gives the shortest path. $\blacksquare$
 
----
-
 ## Problem 10
 
 (Problem 6.1, Extension and Exploration, Problem 10) Can you fold a square piece of paper into a triangular pyramid? Try it by hand.
@@ -281,8 +249,6 @@ By Net and the symmetry of folding.
 Fold the four corners of the square paper toward the center so that the four corner vertices meet at the center of the square. After folding, the four triangular faces form the lateral faces of a square pyramid with the center as the apex and the four sides of the square as the bases. If the square is folded twice along its two diagonals, then cut along the creases and unfolded, one obtains a net made of four triangular faces forming a triangular pyramid.
 
 $\blacksquare$
-
----
 
 ## Problem 11
 
@@ -297,8 +263,6 @@ The plane intersects the cube's faces; each face it intersects gives one edge. T
 The figure shows the various possible cross sections obtained by cutting a cube with a plane: a triangle (equilateral, isosceles, or scalene), a quadrilateral (square, rectangle, or trapezoid), a pentagon, and a hexagon.
 
 $\blacksquare$
-
----
 
 ## Problem 12
 

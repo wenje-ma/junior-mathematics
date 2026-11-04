@@ -1,7 +1,5 @@
 # week152
 
----
-
 ## Exercise 1
 
 (Exercise 29.3, Problem 1) Are two arcs of equal length equal arcs? Explain why.

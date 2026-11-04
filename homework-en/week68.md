@@ -1,7 +1,5 @@
 # week68
 
----
-
 ## Exercise 1
 
 (Exercise 14.2, Problem 1) As shown, there is a pond; to measure the distance between its two ends $A$ and $B$, first take a point $C$ on the flat ground, join $AC$ and extend it to point $D$ so that $CD=CA$, join $BC$ and extend it to point $E$ so that $CE=CB$, and join $DE$. The measured length of $DE$ is the distance between $A$ and $B$. Why?
@@ -11,8 +9,6 @@
 In $\triangle ABC$ and $\triangle DEC$, $CA=CD$, $CB=CE$, and $\angle ACB$ and $\angle DCE$ are vertical angles and equal. By SAS, $\triangle ABC\cong\triangle DEC$.
 
 By Properties of Congruent Triangles, the corresponding sides satisfy $AB=DE$, so the measured length of $DE$ is the distance between $A$ and $B$. $\blacksquare$
-
----
 
 ## Exercise 2
 
@@ -24,8 +20,6 @@ From $BE=CF$, we get $BE+EF=CF+EF$, i.e. $BF=CE$. In $\triangle ABF$ and $\trian
 
 By Properties of Congruent Triangles, the corresponding angles satisfy $\angle A=\angle D$. $\blacksquare$
 
----
-
 ## Exercise 3
 
 (Exercise 14.2, Problem 1) As shown, $AB\perp BC$, $AD\perp DC$, with feet at $B$, $D$ respectively, and $\angle 1=\angle 2$. Prove that $AB=AD$.
@@ -35,8 +29,6 @@ By Properties of Congruent Triangles, the corresponding angles satisfy $\angle A
 From $AB\perp BC$, $AD\perp DC$, we get $\angle B=\angle D=90^\circ$. In $\triangle ABC$ and $\triangle ADC$, $\angle 1=\angle 2$, $\angle B=\angle D$, and $AC$ is a common side; by AAS, $\triangle ABC\cong\triangle ADC$.
 
 By Properties of Congruent Triangles, the corresponding sides satisfy $AB=AD$. $\blacksquare$
-
----
 
 ## Exercise 4
 
@@ -48,8 +40,6 @@ From $AB\perp BF$, $DE\perp BF$, we get $\angle B=\angle D=90^\circ$. In $\trian
 
 By Properties of Congruent Triangles, the corresponding sides satisfy $AB=DE$, so the measured length of $DE$ is the length of $AB$. $\blacksquare$
 
----
-
 ## Exercise 5
 
 (Exercise 14.2, Problem 1) As shown, $AC=BD$, $BC=AD$. Prove that $\angle ABC=\angle BAD$.
@@ -59,8 +49,6 @@ By Properties of Congruent Triangles, the corresponding sides satisfy $AB=DE$, s
 In $\triangle ABC$ and $\triangle BAD$, $AC=BD$, $BC=AD$, and $AB$ is a common side; by SSS, $\triangle ABC\cong\triangle BAD$.
 
 By Properties of Congruent Triangles, the corresponding angles satisfy $\angle ABC=\angle BAD$. $\blacksquare$
-
----
 
 ## Exercise 6
 
@@ -72,8 +60,6 @@ In $\triangle OMC$ and $\triangle ONC$, $OM=ON$, $CM=CN$ (same try-square marks)
 
 By Properties of Congruent Triangles, the corresponding angles satisfy $\angle MOC=\angle NOC$, so $OC$ bisects $\angle AOB$. $\blacksquare$
 
----
-
 ## Exercise 7
 
 (Exercise 14.2, Problem 1) As shown, $C$ is the midpoint of road segment $AB$. Two people start from $C$ at the same time, walk along two straight lines at the same speed, and reach $D$, $E$ at the same time, with $DA\perp AB$, $EB\perp AB$. Are the distances from $D$, $E$ to road segment $AB$ equal? Why?
@@ -83,8 +69,6 @@ By Properties of Congruent Triangles, the corresponding angles satisfy $\angle M
 They are equal. Since $C$ is the midpoint of $AB$, $CA=CB$. The two people have the same speed and arrive at the same time, so $CD=CE$. In $\text{Rt}\triangle ACD$ and $\text{Rt}\triangle BCE$, the hypotenuses satisfy $CD=CE$, and the legs satisfy $CA=CB$; by HL, $\text{Rt}\triangle ACD\cong\text{Rt}\triangle BCE$.
 
 By Basic Knowledge, the corresponding legs satisfy $AD=BE$, i.e. the distances from $D$, $E$ to road segment $AB$ are equal. $\blacksquare$
-
----
 
 ## Exercise 8
 
@@ -96,8 +80,6 @@ From $AE\perp BC$, $DF\perp BC$, we get $\angle AEB=\angle DFC=90^\circ$. From $
 
 By Basic Knowledge, the corresponding legs satisfy $AE=DF$. $\blacksquare$
 
----
-
 ## Problem 1
 
 (Exercise 14.2, Review and Consolidation, Problem 1) As shown, $M$ is the midpoint of $AB$, $\angle AMC=\angle BMD$, $MC=MD$. Prove that $AC=BD$.
@@ -107,8 +89,6 @@ By Basic Knowledge, the corresponding legs satisfy $AE=DF$. $\blacksquare$
 Since $M$ is the midpoint of $AB$, $AM=BM$. In $\triangle AMC$ and $\triangle BMD$, $AM=BM$, $\angle AMC=\angle BMD$, $MC=MD$; by SAS, $\triangle AMC\cong\triangle BMD$.
 
 By Basic Knowledge, the corresponding sides satisfy $AC=BD$. $\blacksquare$
-
----
 
 ## Problem 2
 
@@ -120,8 +100,6 @@ In $\triangle ABE$ and $\triangle ACD$, $AB=AC$, $\angle A$ is a common angle, $
 
 By Basic Knowledge, the corresponding angles satisfy $\angle B=\angle C$. $\blacksquare$
 
----
-
 ## Problem 3
 
 (Exercise 14.2, Review and Consolidation, Problem 3) As shown, join the midpoints of two steel rods to make a caliper. To measure the inner-groove width $AB$ of a workpiece, what quantities need only be measured? Why?
@@ -131,8 +109,6 @@ By Basic Knowledge, the corresponding angles satisfy $\angle B=\angle C$. $\blac
 Only measure the length of the corresponding inner-groove side $CD$. Let the intersection of the two rods be $O$; then $O$ is the midpoint of both rods, so $OA=OD$, $OB=OC$. In $\triangle AOB$ and $\triangle DOC$, $OA=OD$, $\angle AOB=\angle DOC$ (vertical angles), $OB=OC$; by SAS, $\triangle AOB\cong\triangle DOC$.
 
 By Basic Knowledge, the corresponding sides satisfy $AB=CD$, so measuring $CD$ gives the inner-groove width $AB$. $\blacksquare$
-
----
 
 ## Problem 4
 
@@ -144,8 +120,6 @@ In $\triangle ABC$ and $\triangle ABD$, $\angle 3=\angle 4$, $AB$ is a common si
 
 By Basic Knowledge, the corresponding sides satisfy $AC=AD$. $\blacksquare$
 
----
-
 ## Problem 5
 
 (Exercise 14.2, Review and Consolidation, Problem 5) As shown, $\angle 1=\angle 2$, $\angle B=\angle D$. Prove that $AB=CD$.
@@ -155,8 +129,6 @@ By Basic Knowledge, the corresponding sides satisfy $AC=AD$. $\blacksquare$
 In $\triangle ABC$ and $\triangle CDA$, $\angle 1=\angle 2$, $\angle B=\angle D$, and $AC$ is a common side; by AAS, $\triangle ABC\cong\triangle CDA$.
 
 By Basic Knowledge, the corresponding sides satisfy $AB=CD$. $\blacksquare$
-
----
 
 ## Problem 6
 
@@ -168,8 +140,6 @@ They are equal. Since $CA=CB$, $\triangle ABC$ is isosceles, $\angle CAB=\angle 
 
 By Basic Knowledge, the corresponding sides satisfy $AD=BE$. $\blacksquare$
 
----
-
 ## Problem 7
 
 (Exercise 14.2, Review and Consolidation, Problem 7) As shown, $AB=AD$, $AC=AE$, $BC=DE$. Prove that $\angle BAC=\angle DAE$.
@@ -179,8 +149,6 @@ By Basic Knowledge, the corresponding sides satisfy $AD=BE$. $\blacksquare$
 In $\triangle ABC$ and $\triangle ADE$, $AB=AD$, $AC=AE$, $BC=DE$; by SSS, $\triangle ABC\cong\triangle ADE$.
 
 By Basic Knowledge, the corresponding angles satisfy $\angle BAC=\angle DAE$. $\blacksquare$
-
----
 
 ## Problem 8
 
@@ -192,8 +160,6 @@ In $\triangle ABC$ and $\triangle ADC$, $AB=AD$, $BC=DC$, and $AC$ is a common s
 
 By Basic Knowledge, the corresponding angles satisfy $\angle BAC=\angle DAC$, so $AE$ bisects the angle. $\blacksquare$
 
----
-
 ## Problem 9
 
 (Exercise 14.2, Review and Consolidation, Problem 9) As shown, point $C$ lies on side $OB$ of $\angle AOB$. Use a straightedge and compass to draw through point $C$ a line $CD$ parallel to ray $OA$.
@@ -202,8 +168,6 @@ By Basic Knowledge, the corresponding angles satisfy $\angle BAC=\angle DAC$, so
 
 At vertex $O$ draw an angle equal to the corresponding angle of $\angle AOB$: using the straightedge-and-compass method of drawing an angle equal to a given angle, draw through $C$ an angle $\angle BCD$ equal to $\angle BOA$, so that the two angles are corresponding angles; then $CD\parallel OA$. $\blacksquare$
 
----
-
 ## Problem 10
 
 (Exercise 14.2, Review and Consolidation, Problem 10) As shown, given $\triangle ABC$, use a straightedge and compass to construct $\triangle ABD$ such that $\angle BAD=\angle BAC$, $AD=AC$ (point $D$ and point $C$ are on opposite sides of $AB$).
@@ -211,8 +175,6 @@ At vertex $O$ draw an angle equal to the corresponding angle of $\angle AOB$: us
 ### Solution to Problem 10
 
 First, using the method of drawing an angle equal to a given angle, draw $\angle BAD=\angle BAC$ on the opposite side of $AB$ from $C$, then cut off $AD=AC$ on ray $AD$, join $BD$, and the desired $\triangle ABD$ is obtained. $\blacksquare$
-
----
 
 ## Problem 11
 
@@ -224,8 +186,6 @@ Since $AD$ is an altitude, $\angle ADB=\angle ADC=90^\circ$. In $\text{Rt}\trian
 
 By Basic Knowledge, the corresponding sides satisfy $BD=CD$, and the corresponding angles satisfy $\angle BAD=\angle CAD$. $\blacksquare$
 
----
-
 ## Problem 12
 
 (Exercise 14.2, Comprehensive Application, Problem 12) As shown, $AC\perp CB$, $DB\perp CB$, with feet at $C$, $B$ respectively, $AB=DC$. Prove that $\angle ABD=\angle ACD$.
@@ -235,8 +195,6 @@ By Basic Knowledge, the corresponding sides satisfy $BD=CD$, and the correspondi
 From $AC\perp CB$, $DB\perp CB$, we get $\angle ACB=\angle DBC=90^\circ$. In $\text{Rt}\triangle ABC$ and $\text{Rt}\triangle DCB$, the hypotenuses satisfy $AB=DC$, and the leg $BC$ is a common side; by HL, $\text{Rt}\triangle ABC\cong\text{Rt}\triangle DCB$.
 
 By Basic Knowledge, the corresponding angles satisfy $\angle ABC=\angle DCB$. Subtracting the right angles $\angle CBD$ and $\angle ACB$ from the two sides respectively gives $\angle ABD=\angle ACD$. $\blacksquare$
-
----
 
 ## Problem 13
 
@@ -248,8 +206,6 @@ From $BE=CF$, we get $BE+EC=CF+EC$, i.e. $BC=EF$. In $\triangle ABC$ and $\trian
 
 By Basic Knowledge, the corresponding angles satisfy $\angle A=\angle D$. $\blacksquare$
 
----
-
 ## Problem 14
 
 (Exercise 14.2, Comprehensive Application, Problem 14) As shown, $AC$ and $BD$ intersect at point $O$, $OA=OC$, $OB=OD$. Prove that $AB\parallel CD$.
@@ -260,8 +216,6 @@ In $\triangle AOB$ and $\triangle COD$, $OA=OC$, $\angle AOB=\angle COD$ (vertic
 
 By Basic Knowledge, the corresponding angles satisfy $\angle A=\angle C$, which are alternate interior angles, so $AB\parallel CD$. $\blacksquare$
 
----
-
 ## Problem 15
 
 (Exercise 14.2, Comprehensive Application, Problem 15) As shown, points $B$, $F$, $C$, $E$ lie on one straight line, $FB=CE$, $AB\parallel DE$, $AC\parallel DF$. Prove that $AB=DE$, $AC=DF$.
@@ -271,8 +225,6 @@ By Basic Knowledge, the corresponding angles satisfy $\angle A=\angle C$, which 
 From $FB=CE$, we get $FB+FC=CE+FC$, i.e. $BC=EF$. From $AB\parallel DE$, we get $\angle B=\angle E$; from $AC\parallel DF$, we get $\angle ACB=\angle DFE$. In $\triangle ABC$ and $\triangle DEF$, $\angle B=\angle E$, $BC=EF$, $\angle ACB=\angle DFE$; by ASA, $\triangle ABC\cong\triangle DEF$.
 
 By Basic Knowledge, the corresponding sides satisfy $AB=DE$, $AC=DF$. $\blacksquare$
-
----
 
 ## Problem 16
 
@@ -286,8 +238,6 @@ In $\triangle ABD$ and $\triangle A'B'D'$, $\angle BAD=\angle B'A'D'$, $AB=A'B'$
 
 By Basic Knowledge, the corresponding sides satisfy $AD=A'D'$. $\blacksquare$
 
----
-
 ## Problem 17
 
 (Exercise 14.2, Extension and Exploration, Problem 17) As shown, $D$ is a point on $AB$, $DF$ meets $AC$ at point $E$, $DE=FE$, $FC\parallel AB$. What is the relationship between $AE$ and $CE$? Prove your conclusion.
@@ -297,8 +247,6 @@ By Basic Knowledge, the corresponding sides satisfy $AD=A'D'$. $\blacksquare$
 $AE=CE$. Proof: from $FC\parallel AB$, we get $\angle ADE=\angle CFE$. In $\triangle ADE$ and $\triangle CFE$, $\angle AED=\angle CEF$ (vertical angles), $DE=FE$, $\angle ADE=\angle CFE$; by ASA, $\triangle ADE\cong\triangle CFE$.
 
 By Basic Knowledge, the corresponding sides satisfy $AE=CE$. $\blacksquare$
-
----
 
 ## Problem 18
 

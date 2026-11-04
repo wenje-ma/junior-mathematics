@@ -1,7 +1,5 @@
 # week129
 
----
-
 ## Exercise 1
 
 (Exercise 25.2, Problem 5) Without solving the equation, find the sum and product of the two roots $x_1,x_2$ of the following equations:

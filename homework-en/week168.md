@@ -1,7 +1,5 @@
 # week168
 
----
-
 ## Exercise 1
 
 (Exercise 28.2, Problem 1) In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, solve the right triangle according to the following conditions:

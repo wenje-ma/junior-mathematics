@@ -1,7 +1,5 @@
 # week122
 
----
-
 ## Exercise 1
 
 (Exercise 24.4, Problem 1) The annual per-capita domestic electricity consumption of $5$ cities one year is as follows. $A$: $910$, $B$: $886$, $C$: $847$, $D$: $812$, $E$: $788$ (in kW·h). According to the principle of minimizing the within-group sum of squared deviations, split these $5$ cities into two groups.

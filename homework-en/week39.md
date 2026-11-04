@@ -1,7 +1,5 @@
 # week39
 
----
-
 ## Activity 1
 
 (Mathematical Activity, Activity 1) Estimate the length and width of $A0$ paper. According to the international standard, $A$-series paper is rectangular, and $A0$ paper has area $1\,\text{m}^2$. Fold $A0$ paper in half along its long side and cut it open to get $A1$ paper; fold $A1$ paper in half along its long side and cut it open to get $A2$ paper; continuing in this way gives $A3$, $A4$ paper. Based on this, can you estimate the length and width of $A0$ paper in millimeters respectively (take integers)?
@@ -23,8 +21,6 @@ $$
 From $2^{-\frac14}\approx 0.8409\,\text{m}=841\,\text{mm}$, $x=\sqrt 2\,y\approx 1.1892\,\text{m}=1189\,\text{mm}$.
 
 Thus $A0$ paper has length about $1189\,\text{mm}$ and width about $841\,\text{mm}$. $\blacksquare$
-
----
 
 ## Activity 2
 

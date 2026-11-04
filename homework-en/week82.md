@@ -1,7 +1,5 @@
 # week82
 
----
-
 ## Review Problem 1
 
 (Review Problems, Review and Consolidation, Problem 1) Calculate:

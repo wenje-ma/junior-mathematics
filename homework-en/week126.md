@@ -1,7 +1,5 @@
 # week126
 
----
-
 ## Exercise 1
 
 (Exercise 25.1, Problem 1) Transform the following equations into the general form of a quadratic equation, and write out their quadratic coefficient, linear coefficient and constant term:

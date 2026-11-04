@@ -1,7 +1,5 @@
 # week15
 
----
-
 ## Exercise 1
 
 (Exercise 4.1, Problem 1) Fill in the table:
@@ -25,8 +23,6 @@ For $-t^{2}$, the numerical factor is $-1$ (omitted), the exponent of $t$ is $2$
 
 For $-2vt^{3}$, the numerical factor is $-2$, the exponent of $v$ is $1$, the exponent of $t$ is $3$, the degree is $1+3=4$, so the coefficient is $-2$ and the degree is $4$. $\blacksquare$
 
----
-
 ## Exercise 2
 
 (Exercise 4.1, Problem 2) Fill in the blanks with monomials, and state their coefficients and degrees.
@@ -47,8 +43,6 @@ By Monomial, an expression formed by the product of numbers or letters is a mono
 
 (3) The volume formula for a cone is $\frac{1}{3}\pi r^{2}h$, so the volume of this funnel is $\frac{1}{3}\pi r^{2}h$; its coefficient is $\frac{1}{3}\pi$ and its degree is $3$. $\blacksquare$
 
----
-
 ## Exercise 3
 
 (Exercise 4.1, Problem 1) Which of the following algebraic expressions are monomials? Which are polynomials?
@@ -62,8 +56,6 @@ By Monomial, a product of numbers or letters is a monomial; by Polynomial, a sum
 $4r^{2}$ is the product of the number $4$ and the letter $r$, and $3$ is a single number, so $4r^{2}$ and $3$ are monomials.
 
 $2a+1$ is the sum of the monomials $2a$ and $1$; $2x^{2}-5y+1$ is the sum of the monomials $2x^{2}$, $-5y$ and $1$; $\frac{3}{8}m^{3}-5n$ is the sum of the monomials $\frac{3}{8}m^{3}$ and $-5n$; so these three are polynomials. $\blacksquare$
-
----
 
 ## Exercise 4
 
@@ -88,8 +80,6 @@ For $\frac{1}{2}t^{2}-2t+3$, the terms are $\frac{1}{2}t^{2}$, $-2t$ and $3$, wi
 
 For $x^{3}-2y+x^{2}$, the terms are $x^{3}$, $-2y$ and $x^{2}$, with degrees $3$, $1$ and $2$ respectively; the highest degree is $3$, so the degree is $3$. $\blacksquare$
 
----
-
 ## Exercise 5
 
 (Exercise 4.1, Problem 3) One face of a component of the six components of a Luban lock consists of a rectangle of length $a$ and width $b$ together with several protruding parts; the dimensions marked in the figure are $a$, $b$, $c$ and $d$. The area of this face is $\;\_\_\;$.
@@ -102,8 +92,6 @@ $$ab-cd.$$
 
 $\blacksquare$
 
----
-
 ## Problem 1
 
 (Problem 4.1, Review and Consolidation, Problem 1) The coefficient of the monomial $-4a^{2}b^{3}c$ is $\;\_\_\;$, and its degree is $\;\_\_\;$.
@@ -113,8 +101,6 @@ $\blacksquare$
 By Coefficient of a Monomial, the numerical factor is the coefficient, so the coefficient of $-4a^{2}b^{3}c$ is $-4$.
 
 By Degree of a Monomial, the sum of the exponents of all letters is the degree. The exponent of $a$ is $2$, that of $b$ is $3$, that of $c$ is $1$, so the degree is $2+3+1=6$. Hence the coefficient is $-4$ and the degree is $6$. $\blacksquare$
-
----
 
 ## Problem 2
 
@@ -126,8 +112,6 @@ By Coefficient of a Monomial, the numerical factor is $2$; by Degree of a Monomi
 
 Take the letter $x$ with exponent $3$; then the monomial $2x^{3}$ has numerical factor $2$ and sum of letter exponents $3$, so $2x^{3}$ is a monomial with coefficient $2$ and degree $3$. $\blacksquare$
 
----
-
 ## Problem 3
 
 (Problem 4.1, Review and Consolidation, Problem 3) The terms of the polynomial $a^{4}-2a^{2}b+b^{2}$ are $\;\_\_\;$, and its degree is $\;\_\_\;$.
@@ -137,8 +121,6 @@ Take the letter $x$ with exponent $3$; then the monomial $2x^{3}$ has numerical 
 By Polynomial, each monomial is a term of the polynomial, and a term includes the plus or minus sign in front of it. Hence the terms of this polynomial are $a^{4}$, $-2a^{2}b$ and $b^{2}$.
 
 By Degree of a Polynomial, the degree of the term with the highest degree is the degree of the polynomial. The degree of $a^{4}$ is $4$, that of $-2a^{2}b$ is $3$, that of $b^{2}$ is $2$, and the highest degree is $4$. Hence the degree is $4$. $\blacksquare$
-
----
 
 ## Problem 4
 
@@ -156,8 +138,6 @@ $$2x+x^{2}+12+6=x^{2}+2x+18.$$
 
 By Degree of a Polynomial, the highest-degree term is $x^{2}$, so the degree is $2$. $\blacksquare$
 
----
-
 ## Problem 5
 
 (Problem 4.1, Comprehensive Application, Problem 5) During this year's National Day holiday, the number of visitors received by a certain park increased by $5.7\%$ over the same period last year. If the park received $x$ ten-thousand visitors over the same period last year, find the number of additional visitors received this National Day holiday compared with the same period last year.
@@ -171,8 +151,6 @@ Last year it received $x$ ten-thousand visitors, and this year's growth over las
 $$5.7\%\cdot x=0.057x\ \text{万人}.$$
 
 That is, this year it received $0.057x$ ten-thousand more visitors than the same period last year. $\blacksquare$
-
----
 
 ## Problem 6
 
@@ -190,8 +168,6 @@ $$10.5-5d\ \text{尺}.$$
 
 $\blacksquare$
 
----
-
 ## Problem 7
 
 (Problem 4.1, Comprehensive Application, Problem 7) Scoring rules for the World Cup volleyball tournament: a team that wins $3\!:\!0$ or $3\!:\!1$ earns $3$ points, and the losing team earns $0$ points; a team that wins $3\!:\!2$ earns $2$ points, and the losing team earns $1$ point. If a team wins $a$ matches by $3\!:\!1$, wins $b$ matches by $3\!:\!2$, and loses $c$ matches by $2\!:\!3$, then this team's total score can be expressed by a polynomial as $\;\_\_\;$.
@@ -208,8 +184,6 @@ $$3a+2b+c.$$
 
 $\blacksquare$
 
----
-
 ## Problem 8
 
 (Problem 4.1, Extension and Exploration, Problem 8) Let $n$ denote any integer. Express the following using algebraic expressions containing $n$:
@@ -225,8 +199,6 @@ By Monomial and Polynomial, integers can be expressed using algebraic expression
 (1) Any integer multiplied by $3$ gives a result divisible by $3$. Hence an integer divisible by $3$ is $3n$.
 
 (2) An integer divisible by $3$ is $3n$; adding $1$ gives a number that leaves remainder $1$ when divided by $3$. Hence an integer leaving remainder $1$ when divided by $3$ is $3n+1$. $\blacksquare$
-
----
 
 ## Problem 9
 

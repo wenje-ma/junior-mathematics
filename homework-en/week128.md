@@ -1,7 +1,5 @@
 # week128
 
----
-
 ## Exercise 1
 
 (Exercise 25.2, Problem 3) Solve the following equations by the formula method:

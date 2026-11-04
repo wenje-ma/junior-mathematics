@@ -1,7 +1,5 @@
 # week147
 
----
-
 ## Exercise 1
 
 (Exercise 29.1, Problem 1) How can one draw a circle of radius $5\,\text{m}$ on the playground? State your plan and the reason.

@@ -1,11 +1,5 @@
 # week166
 
----
-
----
-
----
-
 ### 复习题一
 
 (复习题 27 复习巩固第 1 题) 如图, 四边形 $EFGH$ 相似于四边形 $KLMN$, 求 $\angle E$, $\angle G$, $\angle N$ 的度数以及 $x,y,z$ 的值. ($EFGH$ 中 $\angle E=143^\circ$, $EF=4$, $FG=6$, $GH=10$, $EH=x$; $KLMN$ 中 $\angle L=67^\circ$, $\angle M=107^\circ$, $KL=10$, $LM=y$, $MN=z$, $KN=35$. )
@@ -185,4 +179,4 @@ h=1255+5=1260\ \text{步}.
 $$
 
 故山峰高度 $AB=1260$ 步, 水平距离 $BD=30750$ 步. $\blacksquare$
-
+

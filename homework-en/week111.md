@@ -1,7 +1,5 @@
 # week111
 
----
-
 ## Review Problem 1
 
 (Review Problem, Review and Consolidation, Problem 1) Places $A$ and $B$ are $10\ \text{km}$ apart; Li Ming sets out from $A$ by bicycle at $20\ \text{km/h}$ toward $B$. Let $x$ (unit: h) be the cycling time and $y$ (unit: km) be Li Ming's distance from $B$. Identify the constants and variables, the independent variable and the function, and write the analytic expression and the range of the independent variable.

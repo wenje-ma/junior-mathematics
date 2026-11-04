@@ -1,7 +1,5 @@
 # week153
 
----
-
 ### Activity 1
 
 (Mathematical Activity, Activity 1, Dividing the Circumference into Four Equal Parts) Draw any diameter $AB$ of $\odot O$; through the point $O$ draw a perpendicular to $AB$, intersecting $\odot O$ at the two points $C$ and $D$. Then the points $A$, $B$, $C$, $D$ divide $\odot O$ into four equal parts. Can you explain the reasoning? Further, how does one divide the circumference into eight equal parts or sixteen equal parts?

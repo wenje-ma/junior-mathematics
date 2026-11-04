@@ -1,7 +1,5 @@
 # week67
 
----
-
 ## Example
 
 (Textbook Example, as in Figure 14.1-3) $\triangle ABC\cong\triangle BAD$, where points $A$ and $B$, and points $C$ and $D$, are corresponding vertices; $\angle BAC=65^\circ$, $\angle ABC=26^\circ$; the extensions of $AC$ and $BD$ meet at point $E$. Find the degree measures of $\angle CBD$ and $\angle E$.
@@ -34,8 +32,6 @@ From the corresponding-angle relation, $A$ corresponds to $B$, $C$ corresponds t
 
 Hence the corresponding sides are $AB$ and $BD$, $BC$ and $DE$, $AC$ and $BE$; the other pair of corresponding angles are $\angle ABC$ and $\angle BDE$. $\blacksquare$
 
----
-
 ## Exercise 2
 
 (Exercise 14.1, Problem 2) As shown, $\triangle OCA\cong\triangle OBD$, where points $C$ and $B$, and points $A$ and $D$, are corresponding vertices. State the equal sides and angles in the two triangles.
@@ -56,8 +52,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## Problem 1
 
 (Exercise 14.1, Review and Consolidation, Problem 1) As shown, $\triangle ABC\cong\triangle CDA$, where $AB$ and $CD$, and $BC$ and $DA$, are corresponding sides. Write out the other corresponding sides and corresponding angles.
@@ -68,8 +62,6 @@ From the corresponding sides $AB\leftrightarrow CD$, $BC\leftrightarrow DA$, the
 
 The other corresponding side is $AC$ and $CA$. The corresponding angles are $\angle BAC$ and $\angle DCA$, $\angle B$ and $\angle D$, $\angle BCA$ and $\angle DAC$. $\blacksquare$
 
----
-
 ## Problem 2
 
 (Exercise 14.1, Review and Consolidation, Problem 2) As shown, $\triangle ABN\cong\triangle ACM$, where $AB$ and $AC$ are corresponding sides, and $\angle B$ and $\angle C$ are corresponding angles. Write out the other corresponding sides and corresponding angles.
@@ -79,8 +71,6 @@ The other corresponding side is $AC$ and $CA$. The corresponding angles are $\an
 From $AB\leftrightarrow AC$, $\angle B\leftrightarrow\angle C$, the vertex correspondence is $A\leftrightarrow A$, $B\leftrightarrow C$, $N\leftrightarrow M$.
 
 The other corresponding sides are $BN$ and $CM$, $AN$ and $AM$. The corresponding angles are $\angle ANB$ and $\angle AMC$, $\angle BAN$ and $\angle CAM$. $\blacksquare$
-
----
 
 ## Problem 3
 
@@ -95,8 +85,6 @@ $$
 $$
 
 Hence $\angle 1=66^\circ$. $\blacksquare$
-
----
 
 ## Problem 4
 
@@ -119,8 +107,6 @@ HG=EG-EH=3.3-1.1=2.2.
 $$
 
 Hence $NM=2.1$, $HG=2.2$. $\blacksquare$
-
----
 
 ## Problem 5
 

@@ -1,7 +1,5 @@
 # week71
 
----
-
 ## 复习题一
 
 (复习题 复习巩固第 1 题) 图中有三个正方形, 请说出图中所有的全等三角形.
@@ -9,8 +7,6 @@
 ### 解答 复习题一
 
 三个正方形的边长分别相等, 由对角线分割所得的三角形, 只要它们的两条直角边分别为正方形的边或相等, 即可由 SAS 判定全等. 图中所有由相等的边及直角所围成的三角形两两全等, 即同一个正方形沿对角线分成的两个三角形全等, 边长相等的对应三角形之间也全等. $\blacksquare$
-
----
 
 ## 复习题二
 
@@ -26,8 +22,6 @@
 
 (2) 有. 以同一条底 $AD$ 或 $BC$ 上, 高相等的三角形为例, 如 $\triangle ABF$ 与 $\triangle DBF$, 它们有相同的底 $BF$ 且高相等, 面积相等, 但形状并不相同, 因而面积相等而不全等. $\blacksquare$
 
----
-
 ## 复习题三
 
 (复习题 复习巩固第 3 题) 如图, $AB=AC$, $AD=BD=AE=CE$. 求证 $\angle D=\angle E$.
@@ -37,8 +31,6 @@
 在 $\triangle ADB$ 和 $\triangle AEC$ 中, $AD=AE$, $BD=CE$, $AB=AC$, 由SSS, $\triangle ADB\cong\triangle AEC$.
 
 由基础知识, 对应角 $\angle D=\angle E$. $\blacksquare$
-
----
 
 ## 复习题四
 
@@ -50,8 +42,6 @@
 
 由基础知识, 对应边 $AB=DE$. $\blacksquare$
 
----
-
 ## 复习题五
 
 (复习题 复习巩固第 5 题) 如图, 海岸上 $A$, $B$ 两个观测点, $B$ 在 $A$ 正东方, 海岛 $C$ 在 $A$ 正北方, 海岛 $D$ 在 $B$ 正北方. 若 $\angle CAD=\angle CBD$, 说明海岛 $C$, $D$ 到海岸的距离 $CA$, $DB$ 相等的理由.
@@ -61,8 +51,6 @@
 设 $AD$ 与 $BC$ 相交于点 $O$. 由 $CA\perp AB$, $DB\perp AB$, 得 $\angle CAO=\angle DBO=90^\circ$. 在 $\triangle ACO$ 和 $\triangle BDO$ 中, $\angle CAO=\angle DBO$, $\angle AOC=\angle BOD$ (对顶角), $\angle CAO$ 所对条件结合 $\angle CAD=\angle CBD$, 由AAS, $\triangle ACO\cong\triangle BDO$.
 
 由基础知识, 对应边 $CA=DB$. $\blacksquare$
-
----
 
 ## 复习题六
 
@@ -74,8 +62,6 @@
 
 由基础知识, 对应直角边 $BE=DE$. $\blacksquare$
 
----
-
 ## 复习题七
 
 (复习题 复习巩固第 7 题) 如图, 在 $\triangle ABC$ 中, $D$ 是 $BC$ 的中点, $DE\perp AB$, $DF\perp AC$, 垂足分别为 $E$, $F$, $BE=CF$. 求证 $AD$ 是 $\triangle ABC$ 的角平分线.
@@ -86,8 +72,6 @@
 
 由基础知识, 对应直角边 $DE=DF$. 即点 $D$ 到 $AB$, $AC$ 的距离相等. 由角平分线的判定, 点 $D$ 在 $\angle A$ 的平分线上, 故 $AD$ 是 $\triangle ABC$ 的角平分线. $\blacksquare$
 
----
-
 ## 复习题八
 
 (复习题 复习巩固第 8 题) 如图, 要在三条公路围成的平地上修建度假村, 使它到三条公路的距离相等, 应在何处修建?
@@ -95,8 +79,6 @@
 ### 解答 复习题八
 
 由角平分线的性质 及三角形角平分线, 三角形三条角平分线交于一点, 且该点到三边距离相等. 故度假村应修在三条公路所围成三角形的三条角平分线的交点 (即内心) 处. $\blacksquare$
-
----
 
 ## 复习题九
 
@@ -108,8 +90,6 @@
 
 由基础知识, 对应边 $CE=DF$. $\blacksquare$
 
----
-
 ## 复习题十
 
 (复习题 综合运用第 10 题) 如图, 点 $C$ 是 $AB$ 的中点, $CD\parallel BE$, 且 $CD=BE$. 求证 $AD\parallel CE$.
@@ -119,8 +99,6 @@
 由 $C$ 是 $AB$ 中点, 得 $AC=CB$. 由 $CD\parallel BE$, 得 $\angle ACD=\angle CBE$. 在 $\triangle ACD$ 和 $\triangle CBE$ 中, $AC=CB$, $\angle ACD=\angle CBE$, $CD=BE$, 由SAS, $\triangle ACD\cong\triangle CBE$.
 
 由基础知识, 对应角 $\angle ADC=\angle CEB$, 这是内错角, 故 $AD\parallel CE$. $\blacksquare$
-
----
 
 ## 复习题十一
 
@@ -133,8 +111,6 @@
 在 $\triangle ACD$ 和 $\triangle CBE$ 中, $\angle ADC=\angle CEB$, $\angle CAD=\angle BCE$, $AC=CB$, 由AAS, $\triangle ACD\cong\triangle CBE$.
 
 由基础知识, $CD=BE$, $CE=AD=2.5$. 又 $CE=CD+DE$, 故 $CD=CE-DE=2.5-1.7=0.8$, 从而 $BE=0.8$. $\blacksquare$
-
----
 
 ## 复习题十二
 
@@ -152,8 +128,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## 复习题十三
 
 (复习题 综合运用第 13 题) 如图, $\triangle ABC\cong\triangle A'B'C'$, $AD$, $A'D'$ 分别是两三角形对应边上的中线. $AD$ 与 $A'D'$ 有什么关系? 证明你的结论.
@@ -165,8 +139,6 @@ $AD=A'D'$. 由 $\triangle ABC\cong\triangle A'B'C'$, 得 $AB=A'B'$, $BC=B'C'$, $
 在 $\triangle ABD$ 和 $\triangle A'B'D'$ 中, $AB=A'B'$, $\angle B=\angle B'$, $BD=B'D'$, 由SAS, $\triangle ABD\cong\triangle A'B'D'$.
 
 由基础知识, 对应边 $AD=A'D'$. $\blacksquare$
-
----
 
 ## 复习题十四
 
@@ -183,8 +155,6 @@ $$
 $$
 
 即 $S_{\triangle ABD}:S_{\triangle ACD}=AB:AC$. $\blacksquare$
-
----
 
 ## 复习题十五
 

@@ -1,11 +1,5 @@
 # week163
 
----
-
----
-
----
-
 > **Basic Fact 27.2.1** (Parallel Lines Dividing Line Segments Proportionally) 
 > 
 > When two lines are cut by a set of parallel lines, the corresponding line segments obtained are proportional.
@@ -405,4 +399,4 @@ where $0\le x\le4$. The graph is a line segment from $\left(0,9\right)$ to $\lef
 ### Solution to Observation and Conjecture 1
 
 The Sierpinski carpet is obtained by dividing an equilateral triangle into four equal parts, removing the middle one, and repeating the operation on the remaining small triangles; the snowflake curve is obtained by constructing small equilateral triangles outward on the middle of each side of an equilateral triangle and repeating the operation. In both figures, the local and the whole have the same shape, i.e. there is self-similarity, and the triangles of various sizes are mutually similar. Such self-similar figures are called fractal figures. $\blacksquare$
-
+

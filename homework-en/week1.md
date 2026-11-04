@@ -1,7 +1,5 @@
 # week1
 
----
-
 ## Exercise 1
 
 (Exercise 1.1, Problem 1) Identify the positive and negative numbers among the following:
@@ -20,8 +18,6 @@ Also, $-1$, $-3.14$, $-\frac{2}{7}$ all have the sign "$-$" prefixed to positive
 
 By The Status of $0$, $0$ is neither a positive number nor a negative number. $\blacksquare$
 
----
-
 ## Exercise 2
 
 (Exercise 1.1, Problem 2) If $80\ \text{m}$ represents walking $80\ \text{m}$ to the right, then $\;\_\_\;$ represents walking $60\ \text{m}$ to the left.
@@ -29,8 +25,6 @@ By The Status of $0$, $0$ is neither a positive number nor a negative number. $\
 ### Solution to Exercise 2
 
 Walking to the right and walking to the left are quantities of opposite meaning. By Representing Quantities of Opposite Meaning, since walking to the right is represented by a positive number, walking to the left is represented by a negative number; hence walking $60\ \text{m}$ to the left is denoted by $-60\ \text{m}$. $\blacksquare$
-
----
 
 ## Exercise 3
 
@@ -40,8 +34,6 @@ Walking to the right and walking to the left are quantities of opposite meaning.
 
 Temperatures above zero and below zero are quantities of opposite meaning. By Representing Quantities of Opposite Meaning, since above zero is represented by a positive number, below zero is represented by a negative number; hence $150\,^\circ\text{C}$ below zero is denoted by $-150\,^\circ\text{C}$. $\blacksquare$
 
----
-
 ## Exercise 4
 
 (Exercise 1.1, Problem 4) In a football match, if Team A scoring $3$ goals is denoted by $+3$, then Team A conceding $2$ goals is denoted by $\;\_\_\;$.
@@ -49,8 +41,6 @@ Temperatures above zero and below zero are quantities of opposite meaning. By Re
 ### Solution to Exercise 4
 
 Scoring a goal and conceding a goal are quantities of opposite meaning. By Representing Quantities of Opposite Meaning, since scoring is represented by a positive number, conceding is represented by a negative number; hence conceding $2$ goals is denoted by $-2$. $\blacksquare$
-
----
 
 ## Problem 1
 
@@ -70,8 +60,6 @@ Also, $-\frac{5}{7}$, $-3$, $-25.8$, $-0.0001$, $-600$ all have the sign "$-$" p
 
 By The Status of $0$, $0$ is neither a positive number nor a negative number. $\blacksquare$
 
----
-
 ## Problem 2
 
 (Exercise 1.1, Review and Consolidation, Problem 2) One year, China's annual average precipitation increased by $53.5\ \text{mm}$ compared with the previous year; the following year it decreased by $81.5\ \text{mm}$ compared with the previous year; the third year it increased by $108.7\ \text{mm}$ compared with the previous year. Use positive and negative numbers to represent the annual change in China's average precipitation relative to the previous year over these three years.
@@ -81,8 +69,6 @@ By The Status of $0$, $0$ is neither a positive number nor a negative number. $\
 Increase and decrease are quantities of opposite meaning. By Representing Quantities of Opposite Meaning, since increase is represented by a positive number, decrease is represented by a negative number.
 
 The first year increased by $53.5\ \text{mm}$, denoted by $+53.5\ \text{mm}$; the second year decreased by $81.5\ \text{mm}$, denoted by $-81.5\ \text{mm}$; the third year increased by $108.7\ \text{mm}$, denoted by $+108.7\ \text{mm}$. $\blacksquare$
-
----
 
 ## Problem 3
 
@@ -94,8 +80,6 @@ This statement is not correct.
 
 By The Status of $0$, $0$ is neither a positive number nor a negative number. Thus there exists a number, $0$, that is neither positive nor negative, so neither "a number that is not positive must be negative" nor "a number that is not negative must be positive" holds. $\blacksquare$
 
----
-
 ## Problem 4
 
 (Exercise 1.1, Comprehensive Application, Problem 4) Scientific experiments show that the charge carried by the atomic nucleus and the charge carried by the electrons outside the nucleus are two opposite kinds of charge. By convention in physics, the charge of the atomic nucleus is positive charge, and the charge of the electrons outside the nucleus is negative charge. The nucleus and the extranuclear electron in a hydrogen atom each carry $1$ unit of charge. Express the charges they carry using positive and negative numbers.
@@ -106,8 +90,6 @@ The charge of the atomic nucleus is positive charge, and the charge of the extra
 
 In the hydrogen atom, the nucleus carries $1$ positive charge, denoted by $+1$; the extranuclear electron carries $1$ negative charge, denoted by $-1$. $\blacksquare$
 
----
-
 ## Problem 5
 
 (Exercise 1.1, Comprehensive Application, Problem 5) If moving an object $5\ \text{m}$ straight backward is denoted by moving $-5\ \text{m}$, what does it mean if the object then moves by $+5\ \text{m}$? How far is the object from its position before the two movements?
@@ -117,8 +99,6 @@ In the hydrogen atom, the nucleus carries $1$ positive charge, denoted by $+1$; 
 By Representing Quantities of Opposite Meaning, moving straight backward and moving straight forward are quantities of opposite meaning. Since moving straight backward is denoted by $-$, $+$ means moving straight forward; hence the object moving by $+5\ \text{m}$ means it moves $5\ \text{m}$ straight forward.
 
 The object first moves $5\ \text{m}$ straight backward and then $5\ \text{m}$ straight forward; the two movements are in opposite directions and cover equal distances, so it returns to its original position, which is $0\ \text{m}$ away from its position before the two movements. $\blacksquare$
-
----
 
 ## Problem 6
 
@@ -146,8 +126,6 @@ Group 1: $79.4=80-0.6$, below by $0.6$, corresponding to $-0.6$; Group 2: $80.6=
 
 Hence the corresponding numbers are $-0.6$, $+0.6$, $+0.8$, $-0.9$, $0$, $-0.4$, $+0.5$. $\blacksquare$
 
----
-
 ## Problem 7
 
 (Exercise 1.1, Extension and Exploration, Problem 7) One day at $12$ noon, the temperature at a certain place is $7\,^\circ\text{C}$. After $5\ \text{h}$ the temperature drops by $4\,^\circ\text{C}$, and after another $7\ \text{h}$ it drops by another $4\,^\circ\text{C}$. What is the temperature at $0$ o'clock the next day?
@@ -161,8 +139,6 @@ $$
 $$
 
 That is, the temperature at $0$ o'clock the next day is $-1\,^\circ\text{C}$. $\blacksquare$
-
----
 
 ## Problem 8
 

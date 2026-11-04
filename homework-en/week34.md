@@ -1,7 +1,5 @@
 # week34
 
----
-
 ## Activity 1
 
 (Mathematical Activity, Activity 1) How many ways do you have to draw parallel lines? After learning about parallel lines, three students—Li Ming, Liu Wei, and Wang Fang—each came up with a new method for drawing a line through a point outside a given line that is parallel to it.
@@ -23,8 +21,6 @@ In Liu Wei's method, $PQ\perp a$ and $l\perp a$, so both $PQ$ and $l$ are perpen
 Wang Fang folds the paper to create two crease lines that coincide with each other; after unfolding, the two crease lines do not intersect in the same plane, so they are parallel lines, and the method is correct.
 
 By Parallel Axiom, no matter which method is used, through point $P$ only one line parallel to $a$ can be drawn. $\blacksquare$
-
----
 
 ## Activity 2
 

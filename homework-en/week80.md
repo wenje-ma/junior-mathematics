@@ -1,7 +1,5 @@
 # week80
 
----
-
 ## Exercise 1
 
 (Exercise 16.3, Problem 1) Is each of the following calculations correct? If not, how should it be corrected?

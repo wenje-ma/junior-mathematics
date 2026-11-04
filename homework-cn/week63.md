@@ -1,7 +1,5 @@
 # week63
 
----
-
 ## 练习一
 
 (练习 13.3 第 1 题) 如图, 从 $A$ 处观测 $C$ 处的仰角 $\angle CAD=30^\circ$, 从 $B$ 处观测 $C$ 处的仰角 $\angle CBD=45^\circ$. 从 $C$ 处观测 $A$, $B$ 两处的视角 $\angle ACB$ 是多少度?
@@ -21,8 +19,6 @@ $$
 $$
 
 $\blacksquare$
-
----
 
 ## 练习二
 
@@ -50,8 +46,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## 练习三
 
 (练习 13.3 第 1 题) 如图, 在 $\triangle ABC$ 中, $\angle ACB=90^\circ$, $CD\perp AB$, 垂足为 $D$. $\angle ACD$ 与 $\angle B$ 有什么关系? 为什么?
@@ -64,8 +58,6 @@ $\angle ACD=\angle B$. 理由如下.
 
 $\angle ACD$ 与 $\angle B$ 都是 $\angle A$ 的余角, 故 $\angle ACD=\angle B$. $\blacksquare$
 
----
-
 ## 练习四
 
 (练习 13.3 第 2 题) 如图, 在 $\triangle ABC$ 中, $\angle C=90^\circ$, 点 $D$, $E$ 分别在边 $AB$, $AC$ 上, 且 $\angle 1=\angle 2$, $\triangle ADE$ 是直角三角形吗? 为什么?
@@ -77,8 +69,6 @@ $\triangle ADE$ 是直角三角形. 理由如下.
 由直角三角形的锐角互余, 在 $\text{Rt}\triangle ABC$ 中, $\angle A+\angle B=90^\circ$. 由 $\angle 1=\angle 2$ 且 $\angle 2$ 与 $\angle B$ 为同一组对应角, 得 $\angle ADE=\angle B$.
 
 故 $\angle A+\angle ADE=\angle A+\angle B=90^\circ$, 从而在 $\triangle ADE$ 中, $\angle AED=180^\circ-\left(\angle A+\angle ADE\right)=90^\circ$. 所以 $\triangle ADE$ 是直角三角形. $\blacksquare$
-
----
 
 ## 练习五
 
@@ -102,8 +92,6 @@ $\triangle ADE$ 是直角三角形. 理由如下.
 
 图 (6): 下方直角三角形中 $30^\circ$ 所对的另一锐角为 $60^\circ$, 由对顶角关系得 $\angle 1=60^\circ$, $\angle 2=30^\circ$. $\blacksquare$
 
----
-
 ## 习题一
 
 (习题 13.3 复习巩固第 1 题) 求出下列各图形中 $x$ 的值.
@@ -121,8 +109,6 @@ $\triangle ADE$ 是直角三角形. 理由如下.
 图 (3): $72^\circ+2x=180^\circ$, 故 $x=54^\circ$.
 
 图 (4): $x+\left(x-36^\circ\right)+\left(x+36^\circ\right)=3x=180^\circ$, 故 $x=60^\circ$. $\blacksquare$
-
----
 
 ## 习题二
 
@@ -144,8 +130,6 @@ $\triangle ADE$ 是直角三角形. 理由如下.
 
 (3) 不可以. 直角三角形中直角的外角为 $90^\circ$, 两个锐角的外角分别为 $180^\circ$ 减去一个锐角, 必大于 $90^\circ$, 故其外角都不是锐角. $\blacksquare$
 
----
-
 ## 习题三
 
 (习题 13.3 复习巩固第 3 题) 在 $\triangle ABC$ 中, $\angle B$ 比 $\angle A$ 大 $10^\circ$, $\angle C$ 比 $\angle B$ 大 $10^\circ$. 求 $\triangle ABC$ 各内角的度数.
@@ -159,8 +143,6 @@ x+\left(x+10^\circ\right)+\left(x+20^\circ\right)=180^\circ.
 $$
 
 解得 $3x=150^\circ$, 即 $x=50^\circ$. 故 $\angle A=50^\circ$, $\angle B=60^\circ$, $\angle C=70^\circ$. $\blacksquare$
-
----
 
 ## 习题四
 
@@ -184,8 +166,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## 习题五
 
 (习题 13.3 综合运用第 5 题) 如图, $AB\parallel CD$, $\angle A=40^\circ$, $\angle D=45^\circ$. 求 $\angle 1$ 和 $\angle 2$ 的度数.
@@ -202,8 +182,6 @@ $$
 
 故 $\angle 1=40^\circ$, $\angle 2=95^\circ$. $\blacksquare$
 
----
-
 ## 习题六
 
 (习题 13.3 综合运用第 6 题) 如图, $AB\parallel CD$, $AE$ 与 $CD$ 相交于点 $O$, $\angle A=45^\circ$, $\angle C=\angle E$. 求 $\angle C$ 的度数.
@@ -219,8 +197,6 @@ $$
 $$
 
 解得 $\angle C=67.5^\circ$. $\blacksquare$
-
----
 
 ## 习题七
 
@@ -248,8 +224,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## 习题八
 
 (习题 13.3 综合运用第 8 题) 如图, 在 $\triangle ABC$ 中, $D$ 是边 $AB$ 上一点, $E$ 是边 $AC$ 上一点, $BE$, $CD$ 相交于点 $F$, $\angle A=62^\circ$, $\angle ACD=35^\circ$, $\angle ABE=20^\circ$. 求 $\angle BDC$ 和 $\angle BFD$ 的度数.
@@ -269,8 +243,6 @@ $$
 $$
 
 $\blacksquare$
-
----
 
 ## 习题九
 
@@ -298,8 +270,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## 习题十
 
 (习题 13.3 拓广探索第 10 题) 如图, $AB\parallel CD$, $\angle BAE=\angle DCE=45^\circ$. 填空.
@@ -321,8 +291,6 @@ $$
 在 $\triangle AEC$ 中, 由三角形内角和定理, $\angle E=180^\circ-\left(\angle 1+\angle 2\right)=90^\circ$.
 
 故依次填 $180^\circ$, $90^\circ$, $90^\circ$. $\blacksquare$
-
----
 
 ## 习题十一
 

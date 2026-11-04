@@ -1,7 +1,5 @@
 # week35
 
----
-
 ## Review Exercise 1
 
 (Review Exercise, Review and Consolidation, Problem 1) As shown in the figure, line $AB\perp CD$, with foot at $O$; line $EF$ passes through point $O$, $\angle 1=26^\circ$. Find the degrees of $\angle 2$, $\angle 3$, and $\angle BOE$.
@@ -20,8 +18,6 @@ $\angle BOE$ and $\angle 1$ share the side $OE$, while the other sides $OB$ and 
 
 Thus $\angle 2=64^\circ$, $\angle 3=26^\circ$, $\angle BOE=154^\circ$. $\blacksquare$
 
----
-
 ## Review Exercise 2
 
 (Review Exercise, Review and Consolidation, Problem 2) The figure is a schematic diagram of a bent pipe, with corner angles $\angle ABC=120^\circ$, $\angle BCD=60^\circ$. Is it correct to say that pipes $AB$ and $DC$ are parallel? Why?
@@ -38,8 +34,6 @@ $$
 
 By Criterion 3, supplementary consecutive interior angles imply parallel lines, so $AB\parallel DC$. $\blacksquare$
 
----
-
 ## Review Exercise 3
 
 (Review Exercise, Review and Consolidation, Problem 3) True or false.
@@ -53,8 +47,6 @@ By Criterion 3, supplementary consecutive interior angles imply parallel lines, 
 (1) Correct. By Transitivity of Parallelism, if two lines are both parallel to a third line, then these two lines are also parallel to each other, so $a\parallel c$.
 
 (2) Wrong. In the same plane, if $a\perp b$ and $b\perp c$, then the corresponding angles that $a$, $c$ make with $b$ are both $90^\circ$; by Criterion 1, equal corresponding angles imply parallel lines, so it should be $a\parallel c$, not $a\perp c$. Thus it is judged wrong. $\blacksquare$
-
----
 
 ## Review Exercise 4
 
@@ -72,8 +64,6 @@ The figure contains three small diagrams: (1) segment $AB$ with its midpoint $C$
 
 Draw step by step according to the statements: first take the midpoint $C$ of segment $AB$, and use a set square through $C$ to draw $CD\perp AB$; then measure the distance from point $P$ to line $AB$ as $3\,\text{cm}$, and through $P$ draw the perpendicular to $AB$; finally, by Parallel Axiom, through point $P$ draw lines parallel to $AB$, $BC$, $AC$ respectively. This gives the figure satisfying the statements. $\blacksquare$
 
----
-
 ## Review Exercise 5
 
 (Review Exercise, Review and Consolidation, Problem 5) As shown in the figure, a person rides a bicycle from point $A$ due east to point $B$, then changes direction to east by south $15^\circ$, and after riding to point $C$ continues due east. Draw the route of continued travel.
@@ -83,8 +73,6 @@ The figure shows a route diagram: from point $A$ a segment due east to $B$, from
 ### Solution to Review Exercise 5
 
 From $A$ draw a line due east to $B$, from $B$ draw a line east by south $15^\circ$ to $C$, then from $C$ resume the due east direction and continue drawing. Since from $C$ the direction returns to due east, it is the same direction as $AB$; by the corresponding-angle relationships in Property 1, the turning of the route is self-consistent. Draw the route in the directions described above. $\blacksquare$
-
----
 
 ## Review Exercise 6
 
@@ -108,8 +96,6 @@ $$
 
 The problem gives no supplementary or equal-angle relationship between $AB$ and $DC$, so $AB\parallel DC$ cannot be deduced, and it cannot be determined whether $AB$ and $DC$ are parallel. $\blacksquare$
 
----
-
 ## Review Exercise 7
 
 (Review Exercise, Review and Consolidation, Problem 7) As shown in the figure, parallel lines $a$, $b$ are cut by line $c$. If you know the degree of one of $\angle 1\sim\angle 8$, can you find the degrees of the other angles? If yes, express the other angles in terms of one of them.
@@ -123,8 +109,6 @@ Yes. Let the known angle be $\alpha$. By Property 1 through Property 3, together
 Let the known angle be $\angle 1=\alpha$. By the equality of vertical angles, $\angle 3=\alpha$, $\angle 5=\alpha$, $\angle 7=\alpha$. The remaining angles are supplementary to $\angle 1$, i.e. $\angle 2=\angle 4=\angle 6=\angle 8=180^\circ-\alpha$.
 
 Thus, knowing any one of $\angle 1\sim\angle 8$, all the others can be found: the angles equal to it equal $\alpha$, and the angles supplementary to it equal $180^\circ-\alpha$. $\blacksquare$
-
----
 
 ## Review Exercise 8
 
@@ -150,8 +134,6 @@ $$
 
 Choose (A). $\blacksquare$
 
----
-
 ## Review Exercise 9
 
 (Review Exercise, Comprehensive Application, Problem 9) The figure shows a schematic diagram of a protective net, which can be regarded as composed of two groups of parallel lines. Can you verify that the segments are parallel by checking the sizes of some angles? Describe your method.
@@ -159,8 +141,6 @@ Choose (A). $\blacksquare$
 ### Solution to Review Exercise 9
 
 By Criterion 1, Criterion 2, and Criterion 3: take any transversal intersecting the two groups of parallel lines, and measure the cut-off corresponding angles (or alternate interior angles, or consecutive interior angles). If the corresponding angles are equal (or the alternate interior angles are equal, or the consecutive interior angles are supplementary), then by the corresponding criterion the two groups of cut segments are respectively parallel. Check group by group to verify that the segments in the protective net are parallel. $\blacksquare$
-
----
 
 ## Review Exercise 10
 
@@ -180,8 +160,6 @@ By Criterion 1, Criterion 2, and Criterion 3: take any transversal intersecting 
 
 (3) By Property 3, parallel lines give supplementary consecutive interior angles. The supplementary angles in the figure are the corresponding consecutive interior-angle combinations of $\angle OCP$ and $\angle CPD$, i.e. the adjacent angles of $\angle OCP+\angle ODP$; specifically, they are the consecutive interior angles formed by $PC\parallel OB$ and the consecutive interior angles formed by $PD\parallel OA$, whose sum is $180^\circ$. $\blacksquare$
 
----
-
 ## Review Exercise 11
 
 (Review Exercise, Comprehensive Application, Problem 11) As shown in the figure, line $l_1\parallel l_2$, $AB\perp l_2$, $CD\perp l_1$. Are $AB$ and $CD$ parallel? Why?
@@ -193,8 +171,6 @@ $AB\parallel CD$.
 $\because l_1\parallel l_2$, $AB\perp l_2$, $\therefore AB\perp l_1$ (a line perpendicular to one of two parallel lines must be perpendicular to the other).
 
 Also $CD\perp l_1$, so both $AB$ and $CD$ are perpendicular to $l_1$, and the corresponding angles they make with $l_1$ both equal $90^\circ$. By Criterion 1, equal corresponding angles imply parallel lines, so $AB\parallel CD$. $\blacksquare$
-
----
 
 ## Review Exercise 12
 
@@ -218,8 +194,6 @@ $\therefore\angle C=\angle D$.
 
 $\angle C$ and $\angle D$ are the alternate interior angles formed when lines $AC$, $DB$ are cut by line $CD$; by Criterion 2, equal alternate interior angles imply parallel lines, so $AC\parallel DB$. $\blacksquare$
 
----
-
 ## Review Exercise 13
 
 (Review Exercise, Extension and Exploration, Problem 13) Identify the hypothesis and conclusion of the following propositions, and judge whether they are correct or wrong. If wrong, give a counterexample.
@@ -238,8 +212,6 @@ $\angle C$ and $\angle D$ are the alternate interior angles formed when lines $A
 
 (3) Hypothesis: two parallel lines are cut by a third line; conclusion: the alternate interior angles are equal. By Property 2, parallel lines give equal alternate interior angles, so the proposition is correct. $\blacksquare$
 
----
-
 ## Review Exercise 14
 
 (Review Exercise, Extension and Exploration, Problem 14) The figure shows a local view of two overall patterns. Identify the basic figure in each, and explain how the whole pattern is obtained by translating the basic figure.
@@ -248,8 +220,6 @@ $\angle C$ and $\angle D$ are the alternate interior angles formed when lines $A
 
 By Properties of Translation, a pattern is obtained by repeatedly translating the smallest basic figure that repeats in it by the same distance in a certain direction. Find the smallest basic figure that repeats in the figure; that is the basic figure of the whole pattern. Repeatedly translate it along the direction in which the pattern extends to obtain the whole pattern. $\blacksquare$
 
----
-
 ## Review Exercise 15
 
 (Review Exercise, Extension and Exploration, Problem 15) As shown in the figure, this is the floor plan of an apartment; there are many intersecting and parallel lines in the figure. Measure your own home, choose an appropriate scale, and draw its floor plan. Can you design a floor plan yourself?
@@ -257,8 +227,6 @@ By Properties of Translation, a pattern is obtained by repeatedly translating th
 ### Solution to Review Exercise 15
 
 Use a ruler to measure the length and width of each room, choose an appropriate scale (for example $1:100$), and convert the actual lengths to lengths on the drawing according to the scale. Draw the floor plan of the apartment according to the intersecting and parallel relationships of the wall lines; when designing a floor plan yourself, use segments that are perpendicular or parallel to each other to represent the walls. $\blacksquare$
-
----
 
 ## Review Exercise 16
 

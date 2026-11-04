@@ -1,7 +1,5 @@
 # week75
 
----
-
 ### Activity 1
 
 (Mathematics Activity, Activity 1: Art Letters and Axis Symmetry) Among art letters, some characters, letters and digits are axisymmetric. Draw their axes of symmetry, or complete them; then write several more axisymmetric art letters and draw their axes of symmetry.

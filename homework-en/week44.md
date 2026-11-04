@@ -1,7 +1,5 @@
 # week44
 
----
-
 ## Review Exercise 1
 
 (Review Exercise, Review and Consolidation, Problem 1) Plot the following points in the rectangular coordinate system, and indicate the x-coordinate, y-coordinate, and the quadrant of each point: $A\left(2,3\right)$, $B\left(-2,3\right)$, $C\left(-2,-3\right)$, $D\left(2,-3\right)$.
@@ -20,8 +18,6 @@ $C\left(-2,-3\right)$: x-coordinate $-2$, y-coordinate $-3$, both negative, in t
 
 $D\left(2,-3\right)$: x-coordinate $2$, y-coordinate $-3$, x positive and y negative, in the fourth quadrant. $\blacksquare$
 
----
-
 ## Review Exercise 2
 
 (Review Exercise, Review and Consolidation, Problem 2) As shown in the figure, write down the coordinates of each vertex of the octagon.
@@ -37,8 +33,6 @@ $$
 $$
 
 $\blacksquare$
-
----
 
 ## Review Exercise 3
 
@@ -60,8 +54,6 @@ The figure shows a pattern formed by connecting four groups of points in a Carte
 
 Plot the points and connect them by group according to Coordinates of a Point. The four groups draw four figures that are symmetric about the origin and face different directions; together they look like a butterfly with spread wings (or a pinwheel). $\blacksquare$
 
----
-
 ## Review Exercise 4
 
 (Review Exercise, Review and Consolidation, Problem 4) The figure marks some places near Li Ming's home; all these places lie at intersections of grid lines.
@@ -82,8 +74,6 @@ By Coordinates of a Point, read off the coordinates of each place according to t
 
 (3) Connect these points in order to obtain a closed figure resembling a house (or an arrow). $\blacksquare$
 
----
-
 ## Review Exercise 5
 
 (Review Exercise, Comprehensive Application, Problem 5) As shown in the figure, a ship sails in fog; at a certain moment four targets $A$, $B$, $C$, $D$ appear on the radar screen. The radar display shows that target $A$ is at south by west $70^\circ$, $4\,n\,\text{mile}$ from the ship. Write down the direction and distance of the other three targets relative to the ship (the center position in the figure is the ship's position).
@@ -91,8 +81,6 @@ By Coordinates of a Point, read off the coordinates of each place according to t
 ### Solution to Review Exercise 5
 
 By Representing Geographic Locations with Coordinates, describe using a direction angle and a distance. Taking the ship (center of the screen) as the observation point, calibrate the scale and angle reference from $A$ being south by west $70^\circ$ and $4\,n\,\text{mile}$ away; then, according to the directions of $B$, $C$, $D$ on the screen and their distances to the center, write down their direction angles (such as north by east, or south by east by so many degrees) and distances relative to the ship. $\blacksquare$
-
----
 
 ## Review Exercise 6
 
@@ -112,8 +100,6 @@ $O\left(0,0\right)\to O'\left(-\sqrt 3,0\right)$.
 
 That is, $A'\left(0,\sqrt 3\right)$, $B'\left(2\sqrt 3,\sqrt 3\right)$, $C'\left(\sqrt 3,0\right)$, $O'\left(-\sqrt 3,0\right)$. $\blacksquare$
 
----
-
 ## Review Exercise 7
 
 (Review Exercise, Comprehensive Application, Problem 7)
@@ -127,8 +113,6 @@ That is, $A'\left(0,\sqrt 3\right)$, $B'\left(2\sqrt 3,\sqrt 3\right)$, $C'\left
 (1) These points all have y-coordinate $3$, with x-coordinates varying in order. By Coordinates of a Point, their distances to the $x$-axis are all the same; hence these points lie on one straight line, which is parallel to the $x$-axis (and lies above the $x$-axis at a distance of $3$ units).
 
 (2) These points all have x-coordinate $3$, with y-coordinates varying in order, and their distances to the $y$-axis are all the same. Hence these points lie on one straight line, which is parallel to the $y$-axis (lies to the right of the $y$-axis at a distance of $3$ units) and perpendicular to the $x$-axis. $\blacksquare$
-
----
 
 ## Review Exercise 8
 
@@ -150,8 +134,6 @@ The figure shows a scatter plot with the horizontal axis representing weekly aft
 
 (3) Points above and to the left of the diagonal have y-coordinate (exercise time) greater than x-coordinate (internet time), i.e. more time on physical exercise than on surfing the internet. Points below and to the right of the diagonal have y-coordinate less than x-coordinate, i.e. more time on surfing the internet than on physical exercise. $\blacksquare$
 
----
-
 ## Review Exercise 9
 
 (Review Exercise, Comprehensive Application, Problem 9) Students of Shuren Middle School plan to visit Yan'an, the revolutionary holy land. The figure is a distribution map of locations such as Pagoda Hill drawn by the school student union (the side length of each small square represents an actual distance of about $350\,m$). Please establish a rectangular coordinate system on the figure to represent the positions of the locations.
@@ -159,8 +141,6 @@ The figure shows a scatter plot with the horizontal axis representing weekly aft
 ### Solution to Review Exercise 9
 
 By Representing Geographic Locations with Coordinates, choose Pagoda Hill (or the Yan'an Revolutionary Memorial) as the origin, east as the positive $x$-axis direction, north as the positive $y$-axis direction, and let one small square represent $350\,m$. Measure the grids of each location — Zaoyuan Revolutionary Site, Yan'an University, Yangjialing Revolutionary Site, Yan'an Revolutionary Memorial, Wangjiaping Revolutionary Site, Fenghuangshan Revolutionary Site, Pagoda Hill — relative to the origin, and write down their coordinates. $\blacksquare$
-
----
 
 ## Review Exercise 10
 
@@ -173,8 +153,6 @@ The figure shows a location map of five delivery stations, with the neighborhood
 By Representing Geographic Locations with Coordinates, take the neighborhood committee as the origin, east as the positive $x$-axis direction, north as the positive $y$-axis direction, and choose a scale (such as one unit representing $500\,m$).
 
 First (neighborhood committee): $\left(0,0\right)$. Second, north by east $30^\circ$, $2000\,m$: draw it according to the direction angle and distance. Third, due west $4500\,m$: $\left(-4500,0\right)$. Fourth, southeast $3000\,m$: draw a point $3000\,m$ away in the southeast direction. Fifth, due south $2500\,m$: $\left(0,-2500\right)$. Just mark these five points on the plan. $\blacksquare$
-
----
 
 ## Review Exercise 11
 
@@ -201,8 +179,6 @@ $$
 $$
 
 $\blacksquare$
-
----
 
 ## Review Exercise 12
 

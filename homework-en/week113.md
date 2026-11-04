@@ -1,7 +1,5 @@
 # week113
 
----
-
 ## Exercise 1
 
 (Exercise 23.2, Problem 1) Use the method you think is simplest to draw the graphs of the following functions:

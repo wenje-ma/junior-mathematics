@@ -1,7 +1,5 @@
 # week168
 
----
-
 ## 练习一
 
 (练习 28.2 第 1 题) 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, 根据下列条件解直角三角形:

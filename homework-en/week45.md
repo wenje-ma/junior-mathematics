@@ -1,7 +1,5 @@
 # week45
 
----
-
 ## Exercise 1
 
 (Exercise 10.1, Problem 1) A peach-processing plant purchases $28\ \text{t}$ of yellow peaches for processing. At the start, only $2\ \text{t}$ can be processed per day; after upgrading the processing equipment, $4\ \text{t}$ can be processed per day, and it took a total of $8$ days to finish exactly. How many days were spent before and after the equipment upgrade respectively? Set up a system of linear equations in two variables, and find the solution according to the practical meaning of the problem.
@@ -27,8 +25,6 @@ i.e. $16+2y=28$, giving $y=6$, and hence $x=8-6=2$.
 
 Check: $2\times2+4\times6=4+24=28$, which fits the problem. Thus $2$ days were spent before the upgrade and $6$ days after the upgrade. $\blacksquare$
 
----
-
 ## Exercise 2
 
 (Exercise 10.1, Problem 2) In a basketball league, every game must produce a win or a loss; each team gets $2$ points for winning $1$ game and $1$ point for losing $1$ game. A certain team scored $16$ points in $10$ games. How many wins and losses did this team have respectively? Set up a system of linear equations in two variables, and find the solution according to the practical meaning of the problem.
@@ -48,8 +44,6 @@ Subtracting the two equations gives $x=6$, and hence $y=10-6=4$.
 
 Check: $2\times6+4=16$, which fits the problem. Thus this team won $6$ games and lost $4$ games. $\blacksquare$
 
----
-
 ## Problem 1
 
 (Exercise 10.1, Review and Consolidation, Problem 1) Fill in the table so that each pair of values of $x$, $y$ in the same row is a solution of the equation $3x+y=5$:
@@ -67,8 +61,6 @@ When $x=-2$, $y=5-3\times\left(-2\right)=11$; when $x=0$, $y=5$; when $x=0.4$, $
 When $y=-1$, $3x-1=5$, giving $x=2$; when $y=-2$, $3x-2=5$, giving $x=\frac{7}{3}$; when $y=-2.5$, $3x-2.5=5$, giving $x=2.5$; when $y=-3$, $3x-3=5$, giving $x=\frac{8}{3}$.
 
 Thus fill in the table in order: $y$ values $11$, $5$, $3.8$, $0$; $x$ values $2$, $\frac{7}{3}$, $2.5$, $\frac{8}{3}$. $\blacksquare$
-
----
 
 ## Problem 2
 
@@ -91,8 +83,6 @@ By Solution of a System of Linear Equations in Two Variables, a pair $x$, $y$ th
 
 Substitute (C): $1+6\times0.5=1+3=4$, satisfying the first equation; $3\times1-0.5=2.5$, satisfying the second equation. Thus (C) is the solution of the system. $\blacksquare$
 
----
-
 ## Problem 3
 
 (Exercise 10.1, Comprehensive Application, Problem 3) The three interior angles of a triangle are respectively $x^\circ$, $y^\circ$, $y^\circ$.
@@ -113,8 +103,6 @@ Since the sum of interior angles of a triangle is $180^\circ$, according to the 
 
 (3) When $y=60$, $x+2\times60=180$, giving $x=60$. $\blacksquare$
 
----
-
 ## Problem 4
 
 (Exercise 10.1, Comprehensive Application, Problem 4) Chickens and rabbits are in the same cage; there are $35$ heads in total and $94$ feet. How many chickens and how many rabbits are there?
@@ -133,8 +121,6 @@ $$
 Substitute $x=35-y$ into the second equation: $2\left(35-y\right)+4y=94$, i.e. $70+2y=94$, giving $y=12$, and hence $x=35-12=23$.
 
 Thus there are $23$ chickens and $12$ rabbits. $\blacksquare$
-
----
 
 ## Problem 5
 

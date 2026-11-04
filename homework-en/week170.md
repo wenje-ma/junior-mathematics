@@ -1,7 +1,5 @@
 # week170
 
----
-
 ## Review Problem 1
 
 (Review Problem, Review and Consolidation, Problem 1) In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, $a=2$, $c=6$. Find the values of $\sin A$, $\cos A$, and $\tan A$.

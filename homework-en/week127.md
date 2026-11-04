@@ -1,7 +1,5 @@
 # week127
 
----
-
 ## Exercise 1
 
 (Exercise 25.2, Problem 1) Solve the following equations:

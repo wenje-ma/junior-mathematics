@@ -1,7 +1,5 @@
 # week57
 
----
-
 ## Exercise 1
 
 (Exercise 12.2, Problem 1) Each seventh-grade student joins exactly one club. A survey finds: the literature club accounts for $40\%$, the dance club $20\%$, the art club $10\%$, and the rest join the basketball club. It is known that $20$ students join the art club.
@@ -20,8 +18,6 @@
 
 (3) The art club accounts for $10\%$. $\blacksquare$
 
----
-
 ## Exercise 2
 
 (Exercise 12.2, Problem 2) Students of a school come from three villages, Qingshan, Lvshui and Xiangyang, in the ratio $1:2:2$.
@@ -36,8 +32,6 @@
 
 (2) Qingshan $\frac{1}{5}=20\%$, central angle $72^\circ$; Lvshui $\frac{2}{5}=40\%$, central angle $144^\circ$; Xiangyang $40\%$, central angle $144^\circ$. $\blacksquare$
 
----
-
 ## Exercise 3
 
 (Exercise 12.2, Problem 3) Zhang Hua's family budget for next month: food $2100$ yuan, housing loan $1750$ yuan, education $1100$ yuan, transportation $550$ yuan, clothing $350$ yuan, medical care $500$ yuan, living goods and utilities $350$ yuan, other $300$ yuan. Choose an appropriate statistical chart to describe the percentage that each item occupies of the total budget.
@@ -45,8 +39,6 @@
 ### Solution to Exercise 3
 
 The total budget is $2100+1750+1100+550+350+500+350+300=7000$ yuan. Use a pie chart. The percentages of each item: food $30\%$, housing loan $25\%$, education $15.7\%$, transportation $7.9\%$, clothing $5\%$, medical care $7.1\%$, living goods $5\%$, other $4.3\%$. $\blacksquare$
-
----
 
 ## Exercise 4
 
@@ -58,8 +50,6 @@ The figure is a compound line chart with years (2013–2022) on the horizontal a
 
 By Line Chart, draw a composite line chart as shown. Except for a slight dip from 2014 to 2016, both exports and imports overall grow year by year, and the total exports exceed the total imports every year. $\blacksquare$
 
----
-
 ## Exercise 5
 
 (Exercise 12.2, Problem 5) The heights (cm) of 63 seventh-grade students: maximum $172$, minimum $149$, range $23$. Take a class width of $3$ and divide into $8$ groups: $149\le x< 152$, $152\le x< 155$, $\ldots$, $170\le x< 173$. The frequencies of the groups are $2,6,12,19,10,8,4,2$. Draw a frequency distribution histogram and state from which range to select the honor guard members.
@@ -69,8 +59,6 @@ The figure is a frequency distribution histogram with height groups ($149\le x< 
 ### Solution to Exercise 5
 
 By Frequency Distribution Histogram, the histogram is as shown. The three groups $155\le x< 158$, $158\le x< 161$, $161\le x< 164$ have the most students, totaling $12+19+10=41$. Hence $40$ honor guard members may be selected from the height range $155\ \text{cm}$ to $164\ \text{cm}$ (excluding $164$). $\blacksquare$
-
----
 
 ## Exercise 6
 
@@ -82,8 +70,6 @@ The figure is a trend chart with maximum temperature ($^\circ\text{C}$) on the h
 
 By Trend Chart, plot the scatter points and draw the trend line as shown. The scatter points show an upward trend; the number of cups increases as the temperature rises. Extrapolating from the trend line, at a temperature of $30^\circ\text{C}$ about $155$ cups are sold. $\blacksquare$
 
----
-
 ## Exercise 7
 
 (Exercise 12.2, Problem 7) The heights (cm) of 8 boys and their fathers: fathers $165,168,172,174,177,177,180,183$; sons $168,169,174,177,176,178,181,182$. Use a trend chart to describe the relationship between the son's height and the father's height, and estimate the son's height when the father is $175\ \text{cm}$ tall.
@@ -91,8 +77,6 @@ By Trend Chart, plot the scatter points and draw the trend line as shown. The sc
 ### Solution to Exercise 7
 
 Take the father's height as the horizontal axis and the son's height as the vertical axis, plot the scatter points and draw the trend line. The points lie roughly near an upward-sloping line, indicating that the taller the father, the taller the son. From the trend line, when the father is $175\ \text{cm}$ tall, the son is about $176\ \text{cm}$ tall. $\blacksquare$
-
----
 
 ## Problem 1
 
@@ -107,8 +91,6 @@ Take the father's height as the horizontal axis and the son's height as the vert
 (1) Literature $\frac{50}{150}=33.3\%$, art $23.3\%$, popular science $18.7\%$, other $24.7\%$.
 
 (2) The number of popular-science books to buy is $4500\times\frac{28}{150}=840$. $\blacksquare$
-
----
 
 ## Problem 2
 
@@ -132,8 +114,6 @@ Take the father's height as the horizontal axis and the son's height as the vert
 
 (4) The temperature is low in the early morning, rises gradually after $4$ o'clock, reaches the maximum at $14$ o'clock, and then falls gradually. $\blacksquare$
 
----
-
 ## Problem 3
 
 (Exercise 12.2, Review and Consolidation, Problem 3) China's automobile sales (ten thousand vehicles) from 2016 to 2022 were $2802.8,2887.9,2808.1,2576.9,2531.1,2627.5,2686.4$; new-energy vehicle sales were $50.7,77.7,125.6,120.6,136.7,352.1,688.7$. Choose an appropriate statistical chart to describe the changes and the trend of the new-energy proportion.
@@ -141,8 +121,6 @@ Take the father's height as the horizontal axis and the son's height as the vert
 ### Solution to Problem 3
 
 Use a composite line chart to describe total automobile sales and new-energy sales, then a line chart to describe the new-energy proportion $\frac{\text{新能源}}{\text{总销量}}$: about $1.8\%,2.7\%,4.5\%,4.7\%,5.4\%,13.4\%,25.6\%$. It can be seen that the proportion of new-energy vehicle sales has risen rapidly since 2020. $\blacksquare$
-
----
 
 ## Problem 4
 
@@ -170,8 +148,6 @@ Use a composite line chart to describe total automobile sales and new-energy sal
 
 (5) Most students have between $100\sim140$ skips, medium performance; a few exceed $180$ skips. $\blacksquare$
 
----
-
 ## Problem 5
 
 (Exercise 12.2, Comprehensive Application, Problem 5) Five years ago, the income proportions of Lvshui village were: planting $38\%$, breeding $24\%$, tertiary industry $30\%$, other $8\%$; now: planting $11\%$, breeding $27\%$, tertiary industry $56\%$, other $6\%$.
@@ -185,8 +161,6 @@ Use a composite line chart to describe total automobile sales and new-energy sal
 (1) Planting $11\%-38\%=-27\%$, decreased; breeding $27\%-24\%=+3\%$, increased; tertiary industry $56\%-30\%=+26\%$, increased; other $6\%-8\%=-2\%$, decreased.
 
 (2) The tertiary industry already accounts for $56\%$ and grows fastest, so it may become the pillar industry. $\blacksquare$
-
----
 
 ## Problem 6
 
@@ -202,8 +176,6 @@ Use a composite line chart to describe total automobile sales and new-energy sal
 
 (2) A side-by-side composite bar chart shows the urban and rural numbers within a province side by side, making it easier to compare. $\blacksquare$
 
----
-
 ## Problem 7
 
 (Exercise 12.2, Comprehensive Application, Problem 7) A flour wholesaler's $48$ weeks of sales (t): from $18.5$ to $24.4$. Group appropriately and draw a frequency distribution histogram, and analyze how many tons to buy each week.
@@ -211,8 +183,6 @@ Use a composite line chart to describe total automobile sales and new-energy sal
 ### Solution to Problem 7
 
 The range is $24.4-18.5=5.9$; take a class width of $0.5$ and divide into about $12$ groups. Most weeks' sales fall between $20.0\sim23.0\ \text{t}$. Hence buying about $21\sim22\ \text{t}$ of flour each week is appropriate, meeting demand without causing backlog. $\blacksquare$
-
----
 
 ## Problem 8
 
@@ -222,8 +192,6 @@ The range is $24.4-18.5=5.9$; take a class width of $0.5$ and divide into about 
 
 Take the year as the horizontal axis and GDP as the vertical axis; plot the points and draw the trend line. The overall trend is upward; extrapolating from the trend line, the 2023 GDP is about $128$ trillion yuan. $\blacksquare$
 
----
-
 ## Problem 9
 
 (Exercise 12.2, Extension and Exploration, Problem 9) The export value of high-tech products (hundred million US dollars) every five years from 1995 to 2020 was $101,370,2182,4924,6552,7763$; the percentage of total goods exports was $6.8\%,14.8\%,28.6\%,31.2\%,28.8\%,30.0\%$. Draw a statistical chart to show the development trend.
@@ -231,8 +199,6 @@ Take the year as the horizontal axis and GDP as the vertical axis; plot the poin
 ### Solution to Problem 9
 
 Use a composite line chart: one line shows the export value, with a rapidly rising trend; the other shows the proportion, which rose from 1995 to 2010 and then stabilized around $30\%$. $\blacksquare$
-
----
 
 ## Problem 10
 

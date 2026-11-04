@@ -1,7 +1,5 @@
 # week70
 
----
-
 ## Activity 1
 
 (Mathematics Activity, Activity 1: Designing Patterns Using Congruent Figures) Figure 1 shows two patterns designed from congruent figures. Observe which congruent figures and which congruent triangles are in each pattern, and find examples of congruent figures and congruent triangles around you.
@@ -9,8 +7,6 @@
 ### Solution to Activity 1
 
 The basic figures that coincide with one another in a pattern are congruent figures, among which the coinciding triangles are congruent triangles. In daily life, cards of the same suit in one deck of cards, floor tiles of the same model, and two figures cut out by folding and cutting paper are all congruent figures; patterns assembled from congruent triangles and identical triangular units in a building truss are congruent triangles. $\blacksquare$
-
----
 
 ## Activity 2
 

@@ -1,7 +1,5 @@
 # week52
 
----
-
 ## Exercise 1
 
 (Exercise 11.2, Problem 1) Solve the following inequalities and represent their solution sets on a number line:
@@ -26,8 +24,6 @@ By Solving a Linear Inequality in One Variable.
 
 (4) Multiply by $12$: $2\left(x+1\right)\ge3\left(2x-5\right)+12$, i.e. $2x+2\ge6x-3$, giving $x\le\frac{5}{4}$. $\blacksquare$
 
----
-
 ## Exercise 2
 
 (Exercise 11.2, Problem 2) Under what condition on $x$ or $y$ do the following relations hold?
@@ -50,8 +46,6 @@ By Solving a Linear Inequality in One Variable.
 
 (4) $3y+7< -8$, giving $y< -5$. $\blacksquare$
 
----
-
 ## Exercise 3
 
 (Exercise 11.2, Problem 3) A contest has $20$ questions in total; answering one correctly earns $10$ points, while a wrong or unanswered answer deducts $5$ points. If a total score above $90$ points is required to advance, at least how many questions must be answered correctly?
@@ -66,8 +60,6 @@ $$
 
 i.e. $10x-100+5x> 90$, $15x> 190$, $x> 12\frac{2}{3}$. Hence at least $13$ questions must be answered correctly. $\blacksquare$
 
----
-
 ## Exercise 4
 
 (Exercise 11.2, Problem 4) The energy consumption per ten thousand yuan of regional GDP in a certain place is $0.320\ \text{t}$ of standard coal. If this year it must drop by no less than $5\%$ compared with last year, at most how many tons of standard coal may this year's energy consumption per ten thousand yuan of regional GDP be?
@@ -75,8 +67,6 @@ i.e. $10x-100+5x> 90$, $15x> 190$, $x> 12\frac{2}{3}$. Hence at least $13$ quest
 ### Solution to Exercise 4
 
 Let this year's energy consumption be $x\ \text{t}$. By the statement $x\le0.320\left(1-5\%\right)=0.304$. Hence this year it is at most $0.304\ \text{t}$ of standard coal. $\blacksquare$
-
----
 
 ## Exercise 5
 
@@ -86,8 +76,6 @@ Let this year's energy consumption be $x\ \text{t}$. By the statement $x\le0.320
 
 The remaining distance is $6-1.2=4.8\ \text{km}$, and the remaining time is $10-2-2=6$ days. Let $x\ \text{km}$ be repaired per day thereafter; then $6x\ge4.8$, giving $x\ge0.8$. Hence on average at least $0.8\ \text{km}$ must be repaired per day thereafter. $\blacksquare$
 
----
-
 ## Exercise 6
 
 (Exercise 11.2, Problem 6) A shop buys $150$ bicycles at $340$ yuan each and sells them at $450$ yuan each. If the sales revenue must exceed the total purchase cost, at least how many must be sold?
@@ -95,8 +83,6 @@ The remaining distance is $6-1.2=4.8\ \text{km}$, and the remaining time is $10-
 ### Solution to Exercise 6
 
 Let $x$ be the number sold. The total purchase cost is $340\times150=51000$ yuan. By the statement $450x> 51000$, giving $x> 113\frac{1}{3}$. Hence at least $114$ must be sold. $\blacksquare$
-
----
 
 ## Exercise 7
 
@@ -112,8 +98,6 @@ $$
 
 i.e. $12x+400\le900$, $x\le41\frac{2}{3}$. Hence at most $41$ notebooks can be bought. $\blacksquare$
 
----
-
 ## Exercise 8
 
 (Exercise 11.2, Problem 8) A fruit shop spends $10000$ yuan buying $200\ \text{kg}$ each of large and small cherries; large cherries sell at $39$ yuan per kilogram and small cherries at $29$ yuan per kilogram. During transport the large cherries lose $20\%$, while the small cherries suffer no loss. If the profit must be no less than $90\%$ of the expected profit, at least how much per kilogram must the large cherries actually sell for?
@@ -127,8 +111,6 @@ $$
 $$
 
 i.e. $160x-4200\ge3240$, $160x\ge7440$, $x\ge46.5$. Hence the large cherries must actually sell for at least $46.5$ yuan per kilogram. $\blacksquare$
-
----
 
 ## Problem 1
 
@@ -160,8 +142,6 @@ i.e. $160x-4200\ge3240$, $160x\ge7440$, $x\ge46.5$. Hence the large cherries mus
 
 (6) Multiply by $12$: $2\left(y+1\right)-3\left(2y-5\right)\ge12$, i.e. $-4y+17\ge12$, giving $y\le\frac{5}{4}$. $\blacksquare$
 
----
-
 ## Problem 2
 
 (Exercise 11.2, Review and Consolidation, Problem 2) For what value of $a$ does the algebraic expression $\frac{4a+1}{6}$:
@@ -180,8 +160,6 @@ i.e. $160x-4200\ge3240$, $160x\ge7440$, $x\ge46.5$. Hence the large cherries mus
 
 (3) $\frac{4a+1}{6}=0$, i.e. $4a+1=0$, giving $a=-\frac{1}{4}$. $\blacksquare$
 
----
-
 ## Problem 3
 
 (Exercise 11.2, Review and Consolidation, Problem 3) Determine whether the following processes of solving inequalities are correct; if not, correct them:
@@ -195,8 +173,6 @@ i.e. $160x-4200\ge3240$, $160x\ge7440$, $x\ge46.5$. Hence the large cherries mus
 (1) Incorrect. From $-3x+2\ge-4$, transpose to get $-3x\ge-6$; dividing both sides by $-3$ reverses the direction, giving $x\le2$.
 
 (2) Incorrect. From $x-4< 2x+1$, transpose to get $-x< 5$; multiplying both sides by $-1$ reverses the direction, giving $x> -5$. $\blacksquare$
-
----
 
 ## Problem 4
 
@@ -220,8 +196,6 @@ i.e. $160x-4200\ge3240$, $160x\ge7440$, $x\ge46.5$. Hence the large cherries mus
 
 (4) Multiply by $6$: $3\left(2+x\right)\ge2\left(2x-1\right)-12$, giving $x\le20$; the positive-integer solutions are $1,2,\ldots,20$. $\blacksquare$
 
----
-
 ## Problem 5
 
 (Exercise 11.2, Comprehensive Application, Problem 5) In a long-distance race, Liu Wei is $100\ \text{m}$ from the finish and sprints at a speed of $6.5\ \text{m/s}$; at this moment Li Ming is $10\ \text{m}$ behind Liu Wei. At least what speed must Li Ming have to reach the finish before Liu Wei?
@@ -229,8 +203,6 @@ i.e. $160x-4200\ge3240$, $160x\ge7440$, $x\ge46.5$. Hence the large cherries mus
 ### Solution to Problem 5
 
 Liu Wei needs $\frac{100}{6.5}\ \text{s}$ to reach the finish. Li Ming is $110\ \text{m}$ from the finish; let his speed be $v\ \text{m/s}$. He needs $\frac{110}{v}< \frac{100}{6.5}$, giving $v> \frac{110\times6.5}{100}=7.15$. Hence Li Ming's speed must be at least $7.15\ \text{m/s}$. $\blacksquare$
-
----
 
 ## Problem 6
 
@@ -246,8 +218,6 @@ $$
 
 i.e. $330000+5000x-300000> 550000$, $5000x> 520000$, giving $x> 104$. Hence this batch contains at least $105$ computers. $\blacksquare$
 
----
-
 ## Problem 7
 
 (Exercise 11.2, Comprehensive Application, Problem 7) A fruit shop buys apples at $8.55$ yuan per kilogram, and during transport and sales an estimated $5\%$ normal loss occurs. At least what price per kilogram should the merchant set to avoid losing money?
@@ -261,8 +231,6 @@ $$
 $$
 
 giving $x\ge9$. Hence the selling price should be set at least at $9$ yuan per kilogram. $\blacksquare$
-
----
 
 ## Problem 8
 
@@ -278,8 +246,6 @@ $$
 
 i.e. $1.6x\ge1000$, giving $x\ge625$. Hence originally at least $625$ ten-thousand boxes were packaged per month. $\blacksquare$
 
----
-
 ## Problem 9
 
 (Exercise 11.2, Extension and Exploration, Problem 9) Find the solution sets of the inequalities $5x-1> 3\left(x+1\right)$ and $\frac{1}{2}x-1< 7-\frac{3}{2}x$, and write their common part.
@@ -291,8 +257,6 @@ From $5x-1> 3x+3$, we get $2x> 4$, i.e. $x> 2$.
 From $\frac{1}{2}x-1< 7-\frac{3}{2}x$, we get $2x< 8$, i.e. $x< 4$.
 
 Hence the common part is $2< x< 4$. $\blacksquare$
-
----
 
 ## Problem 10
 

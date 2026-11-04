@@ -1,7 +1,5 @@
 # week18
 
----
-
 ## Review Problem 1
 
 (Review Problem, Review and Consolidation, Problem 1) Which of the following integral expressions are monomials? Which are polynomials? For the monomials, state the coefficient and degree; for the polynomials, state the terms and degree:
@@ -26,8 +24,6 @@ $3x^{2}-y+3xy^{2}+x^{4}-1$ is a polynomial, with terms $3x^{2}$, $-y$, $3xy^{2}$
 
 $2x-y$ is a polynomial, with terms $2x$ and $-y$, and degree $1$. $\blacksquare$
 
----
-
 ## Review Problem 2
 
 (Review Problem, Review and Consolidation, Problem 2) Write a monomial such that its sum with the polynomial $m+2n^{2}$ is a monomial.
@@ -37,8 +33,6 @@ $2x-y$ is a polynomial, with terms $2x$ and $-y$, and degree $1$. $\blacksquare$
 By Like Terms and Combining Like Terms, for the sum to be a monomial, the terms of the original polynomial must cancel out or combine into a single term.
 
 Taking the monomial $-m-2n^{2}$ does not work (it is itself a polynomial). Taking the monomial $-m$, we have $\left(-m\right)+\left(m+2n^{2}\right)=2n^{2}$, which is a monomial. Hence $-m$ is the desired monomial. $\blacksquare$
-
----
 
 ## Review Problem 3
 
@@ -67,8 +61,6 @@ By Combining Like Terms, the coefficients of like terms are added.
 (4) $5x^{4}+3x^{2}y-8-3x^{2}y-x^{4}-2=4x^{4}-10$.
 
 (5) $7ab-3a^{2}b^{2}+7+8ab^{2}+2a^{2}b^{2}-3-5ab=2ab-a^{2}b^{2}+8ab^{2}+4$. $\blacksquare$
-
----
 
 ## Review Problem 4
 
@@ -102,8 +94,6 @@ By Rule for Removing Parentheses and Rule for Adding and Subtracting Integral Ex
 
 (6) $3x^{2}-5x+\frac{1}{2}x-3-2x^{2}=x^{2}-\frac{9}{2}x-3$. $\blacksquare$
 
----
-
 ## Review Problem 5
 
 (Review Problem, Review and Consolidation, Problem 5) First simplify, then evaluate:
@@ -119,8 +109,6 @@ By Rule for Adding and Subtracting Integral Expressions, first simplify, then ev
 (1) $\left(5-3-2\right)x^{2}+\left(-5+6\right)x+\left(4-5\right)=x-1$. When $x=-3$, the original expression is $=-3-1=-4$.
 
 (2) $2a^{2}b+ab^{2}-3a^{2}b+3-2ab^{2}-1=-a^{2}b-ab^{2}+2$. When $a=-2$ and $b=2$, the original expression is $=-\left(-2\right)^{2}\times2-\left(-2\right)\times2^{2}+2=-8+8+2=2$. $\blacksquare$
-
----
 
 ## Review Problem 6
 
@@ -144,8 +132,6 @@ $$\left(7b-3\right)-\left(6b+5\right)=b-8.$$
 
 $\blacksquare$
 
----
-
 ## Review Problem 7
 
 (Review Problem, Comprehensive Application, Problem 7) A ship first travels downstream for $3\ \text{h}$, then travels upstream for $1.5\ \text{h}$. Given that the ship's speed in still water is $a\ \text{km/h}$ and the current speed is $b\ \text{km/h}$, how many kilometers did the ship travel in total?
@@ -160,8 +146,6 @@ $$3\left(a+b\right)+1.5\left(a-b\right)=3a+3b+1.5a-1.5b=4.5a+1.5b\ \text{km}.$$
 
 $\blacksquare$
 
----
-
 ## Review Problem 8
 
 (Review Problem, Comprehensive Application, Problem 8) Small squares of equal side length form a set of patterned figures following a regular pattern, with some small squares colored. According to the pattern, how many colored small squares are in the $4$-th figure? What about the $n$-th figure?
@@ -171,8 +155,6 @@ $\blacksquare$
 By Combining Like Terms and Rule for Adding and Subtracting Integral Expressions, observe the pattern.
 
 As shown, the $1$-st figure has $2$ colored squares, the $2$-nd has $5$, and the $3$-rd has $8$; each additional figure adds $3$ colored squares. Hence the $n$-th figure has $3n-1$ colored squares. When $n=4$, there are $3\times4-1=11$. $\blacksquare$
-
----
 
 ## Review Problem 9
 
@@ -187,8 +169,6 @@ The original two-digit number is $10a+b$, and after swapping it is $10b+a$. The 
 $$\left(10a+b\right)+\left(10b+a\right)=11a+11b=11\left(a+b\right).$$
 
 Since $a$ and $b$ are integers, $11\left(a+b\right)$ is a multiple of $11$, so this sum is divisible by $11$. $\blacksquare$
-
----
 
 ## Review Problem 10
 

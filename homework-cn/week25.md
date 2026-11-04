@@ -1,7 +1,5 @@
 # week25
 
----
-
 ## 练习一
 
 (练习 6.2 第 1 题) 如图, 已知直线 $l$ 和直线上的点 $A$, $B$, $C$, 按要求画图:
@@ -26,8 +24,6 @@
 
 $\blacksquare$
 
----
-
 ## 练习二
 
 (练习 6.2 第 2 题) 延长线段 $AB$ 是指按从 $A$ 到 $B$ 的方向延长, 如图 (1); 反向延长线段 $AB$ 是指按从 $B$ 到 $A$ 的方向延长, 如图 (2). 分别画出延长线段 $AB$ 到 $C$, 使 $AC=2AB$.
@@ -41,8 +37,6 @@ $\blacksquare$
 图中线段 $AB$ 按从 $A$ 到 $B$ 的方向延长至点 $C$, 使 $BC=AB$, 故 $B$ 为 $AC$ 的中点, $AC=2AB$.
 
 $\blacksquare$
-
----
 
 ## 练习三
 
@@ -62,8 +56,6 @@ $$CD=CB-DB=4-1.5=2.5\ \text{cm}.$$
 
 $\blacksquare$
 
----
-
 ## 练习四
 
 (练习 6.2 第 1 题) 如图, 已知线段 $a$, $b$, 作一条线段, 使它等于 $2a-b$.
@@ -73,8 +65,6 @@ $\blacksquare$
 由线段的比较 和线段, 用尺规作图.
 
 先画射线 $AP$, 在射线上顺次截取 $AB=BC=a$, 则 $AC=2a$. 再从 $C$ 向 $A$ 方向截取 $CD=b$, 则 $AD=2a-b$. $\blacksquare$
-
----
 
 ## 练习五
 
@@ -87,8 +77,6 @@ $\blacksquare$
 $$MN=MC+CN=\frac{1}{2}AC+\frac{1}{2}BC=\frac{1}{2}\left(AC+BC\right)=\frac{1}{2}AB.$$
 
 因 $MN=6$, 故 $AB=2\times6=12$. $\blacksquare$
-
----
 
 ## 练习六
 
@@ -105,8 +93,6 @@ $M$ 是 $AD$ 的中点, 故 $MD=\frac{1}{2}AD=9$.
 $$MC=MD-CD=9-8=1.$$
 
 $\blacksquare$
-
----
 
 ## 习题一
 
@@ -132,8 +118,6 @@ $\blacksquare$
 
 $\blacksquare$
 
----
-
 ## 习题二
 
 (习题 6.2 复习巩固第 2 题) 如图, 在直线 $l$ 上顺次取 $A$, $B$, $C$ 三点, 使得 $AB=4\ \text{cm}$, $BC=3\ \text{cm}$. 如果 $O$ 是线段 $AC$ 的中点, 求线段 $OB$ 的长度.
@@ -150,8 +134,6 @@ $$OB=AB-AO=4-3.5=0.5\ \text{cm}.$$
 
 $\blacksquare$
 
----
-
 ## 习题三
 
 (习题 6.2 复习巩固第 3 题) 如图, 已知线段 $a$, $b$, 画一条线段, 使它等于 $a+2b$.
@@ -165,8 +147,6 @@ $\blacksquare$
 图中射线 $AP$ 上顺次截取 $AB=a$, $BC=b$, $CD=b$, 所得线段 $AD=a+2b$.
 
 $\blacksquare$
-
----
 
 ## 习题四
 
@@ -183,8 +163,6 @@ $D$ 是 $AC$ 的中点, 故 $AD=\frac{1}{2}AC=3\ \text{cm}$.
 $$BD=AB-AD=10-3=7\ \text{cm}.$$
 
 $\blacksquare$
-
----
 
 ## 习题五
 
@@ -208,8 +186,6 @@ $$BM=AB-AM=4-3=1\ \text{cm}.$$
 
 $\blacksquare$
 
----
-
 ## 习题六
 
 (习题 6.2 综合运用第 6 题) 已知线段 $AB=8\ \text{cm}$, 在直线 $AB$ 上画线段 $BC$, 使它等于 $3\ \text{cm}$, 求线段 $AC$ 的长.
@@ -225,8 +201,6 @@ $\blacksquare$
 图示两种情形:左图点 $C$ 在线段 $AB$ 上且 $BC=3\ \text{cm}$(此时 $AC=5\ \text{cm}$); 右图点 $C$ 在 $AB$ 的延长线上且 $BC=3\ \text{cm}$(此时 $AC=11\ \text{cm}$).
 
 故 $AC=5\ \text{cm}$ 或 $11\ \text{cm}$. $\blacksquare$
-
----
 
 ## 习题七
 
@@ -250,8 +224,6 @@ $$MN=\frac{1}{2}AC+\frac{1}{2}CB=\frac{1}{2}\left(AC+CB\right)=\frac{1}{2}a.$$
 
 故猜想 $MN=\frac{1}{2}a\ \text{cm}$. $\blacksquare$
 
----
-
 ## 习题八
 
 (习题 6.2 拓广探索第 8 题) 如图, 已知点 $A$, $B$, $C$ 在同一直线上, $M$, $N$ 分别是线段 $AC$, $BC$ 的中点.
@@ -270,8 +242,6 @@ $$MN=MC-CN=4-3=1\ \text{cm}.$$
 
 (2) 无论 $B$ 在 $A$, $C$ 之间还是 $C$ 在 $A$, $B$ 之间, $MN=\frac{1}{2}AB=\frac{1}{2}\times10=5\ \text{cm}$. $\blacksquare$
 
----
-
 ## 习题九
 
 (习题 6.2 拓广探索第 9 题) 如图, 把线段 $AB$ 延长到 $C$, 使 $BC=\frac{1}{2}AB$, 再延长 $BA$ 到 $D$, 使 $AD=\frac{1}{2}AB$. 若 $DC=20\ \text{cm}$, 求 $AB$ 的长.
@@ -285,8 +255,6 @@ $$MN=MC-CN=4-3=1\ \text{cm}.$$
 $$DC=AD+AB+BC=\frac{1}{2}x+x+\frac{1}{2}x=2x.$$
 
 因 $DC=20$, 故 $2x=20$, $x=10$. 即 $AB=10\ \text{cm}$. $\blacksquare$
-
----
 
 ## 习题十
 

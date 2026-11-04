@@ -1,7 +1,5 @@
 # week170
 
----
-
 ### 复习题一
 
 (复习题 复习巩固第 1 题) 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, $a=2$, $c=6$, 求 $\sin A$, $\cos A$ 和 $\tan A$ 的值.

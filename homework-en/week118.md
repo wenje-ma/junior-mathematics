@@ -1,7 +1,5 @@
 # week118
 
----
-
 ### Activity Preparation
 
 (Comprehensive and Practical Activity, Activity Preparation, Problem 1) Consult references to learn the four basic elements of a musical tone: intensity, pitch, duration, and timbre.

@@ -1,7 +1,5 @@
 # week14
 
----
-
 ## Review Problem 1
 
 (Review Problem, Review and Consolidation, Problem 1) Express the following using algebraic expressions:
@@ -26,8 +24,6 @@ By Writing Algebraic Expressions.
 
 (4) It costs $nc$ yuan; paying $1000$ yuan, the change is $\left(1000-nc\right)$ yuan. $\blacksquare$
 
----
-
 ## Review Problem 2
 
 (Review Problem, Review and Consolidation, Problem 2) Express the following using algebraic expressions:
@@ -48,8 +44,6 @@ By Writing Algebraic Expressions.
 
 (3) Li Ming runs $\frac{45000}{30}=1500\ \text{m}$ per day on average; Liu Wei runs $\frac{a}{30}\ \text{m}$ per day on average. Liu Wei runs $\left(\frac{a}{30}-1500\right)\ \text{m}$ more per day than Li Ming. $\blacksquare$
 
----
-
 ## Review Problem 3
 
 (Review Problem, Review and Consolidation, Problem 3) (1) If the length of a rectangle is $p$ and its width is $q$, what does $2\left(p+q\right)$ represent? (2) Give two examples illustrating the quantitative relationship in real problems represented by the algebraic expression $3a+2b$.
@@ -61,8 +55,6 @@ By Algebraic Expression.
 (1) $2\left(p+q\right)$ represents the perimeter of this rectangle.
 
 (2) Example 1: A buys $a$ kilograms of apples at $3$ yuan per kilogram, and B buys $b$ kilograms of bananas at $2$ yuan per kilogram, costing a total of $\left(3a+2b\right)$ yuan. Example 2: a car travels at $a\ \text{km/h}$ for $3\ \text{h}$, then at $b\ \text{km/h}$ for $2\ \text{h}$, traveling a total of $\left(3a+2b\right)\ \text{km}$. $\blacksquare$
-
----
 
 ## Review Problem 4
 
@@ -84,8 +76,6 @@ By Quantities in Inverse Proportion.
 
 (3) When the perimeter is constant, $x+y=6$ (the sum is constant), not the product, so the adjacent sides are not in inverse proportion. When the area is constant, $xy=12$ (the product is constant); by Quantities in Inverse Proportion, the adjacent sides are in inverse proportion. $\blacksquare$
 
----
-
 ## Review Problem 5
 
 (Review Problem, Review and Consolidation, Problem 5) Given the following values of $a$ and $b$, find the values of the algebraic expressions $a^{2}-b^{2}$ and $\left(a-b\right)^{2}$ respectively:
@@ -102,8 +92,6 @@ By Value of an Algebraic Expression.
 
 (2) When $a=2$ and $b=-\frac{1}{2}$, $a^{2}-b^{2}=4-\frac{1}{4}=\frac{15}{4}$, $\left(a-b\right)^{2}=\left(2+\frac{1}{2}\right)^{2}=\frac{25}{4}$. $\blacksquare$
 
----
-
 ## Review Problem 6
 
 (Review Problem, Comprehensive Application, Problem 6) The $1$-st row of an auditorium has $a$ seats, and each row after that has $1$ more seat than the previous row.
@@ -119,8 +107,6 @@ By Writing Algebraic Expressions and Value of an Algebraic Expression.
 (1) The $2$-nd row has $\left(a+1\right)$ seats, and the $3$-rd row has $\left(a+2\right)$ seats. Since each row has $1$ more seat than the previous row, the $n$-th row has $\left(a+n-1\right)$ seats.
 
 (2) When $a=20$, the $19$-th row has $20+19-1=38$ seats. $\blacksquare$
-
----
 
 ## Review Problem 7
 
@@ -144,8 +130,6 @@ $$S=\frac{1}{2}\times 6\times 2=6.$$
 
 Hence the area of the shaded region is $6$. $\blacksquare$
 
----
-
 ## Review Problem 8
 
 (Review Problem, Comprehensive Application, Problem 8) As shown in the figure, a set of square-shaped figures is made with counters: the $1$-st uses $4$ counters, the $2$-nd uses $8$ counters, and the $3$-rd uses $12$ counters. Continuing in this way, how many counters are needed to make the $n$-th figure?
@@ -155,8 +139,6 @@ Hence the area of the shaded region is $6$. $\blacksquare$
 By Writing Algebraic Expressions.
 
 The $1$-st uses $4=4\times 1$ counters, the $2$-nd $8=4\times 2$ counters, the $3$-rd $12=4\times 3$ counters; that is, each figure uses $4$ more counters than the previous one. Hence $4n$ counters are needed to make the $n$-th figure. $\blacksquare$
-
----
 
 ## Review Problem 9
 

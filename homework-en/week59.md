@@ -1,7 +1,5 @@
 # week59
 
----
-
 ## Review Problem 1
 
 (Review Problems, Review and Consolidation, Problem 1) What shortcomings exist in the cinema survey questionnaire?
@@ -11,8 +9,6 @@ Questionnaire: name, age; 1. the film watched tonight; 2. was the film good (ver
 ### Solution to Review Problem 1
 
 Shortcomings: (1) requiring the name involves personal privacy and may affect truthful answers; (2) question 2 has only three levels, lacking middle options such as "average / not good"; (3) question 3 about "buying popcorn" is unrelated to surveying the film's popularity and deviates from the theme; (4) the survey targets people who came to the cinema "tonight", so the sample is biased toward those already watching films and cannot represent all viewers. $\blacksquare$
-
----
 
 ## Review Problem 2
 
@@ -36,8 +32,6 @@ Shortcomings: (1) requiring the name involves personal privacy and may affect tr
 
 (4) Sample survey; fish in water cannot be counted comprehensively. $\blacksquare$
 
----
-
 ## Review Problem 3
 
 (Review Problems, Review and Consolidation, Problem 3) Are the following samples representative?
@@ -56,8 +50,6 @@ Shortcomings: (1) requiring the name involves personal privacy and may affect tr
 
 (3) Not representative; weekend sales are high and cannot represent weekdays. $\blacksquare$
 
----
-
 ## Review Problem 4
 
 (Review Problems, Review and Consolidation, Problem 4) The school clinic surveyed $30$ seventh-grade boys and found an average weight of $48\ \text{kg}$. Can this serve as an estimate of the average weight of seventh-grade students?
@@ -65,8 +57,6 @@ Shortcomings: (1) requiring the name involves personal privacy and may affect tr
 ### Solution to Review Problem 4
 
 It cannot. The sample contains only seventh-grade boys, includes neither girls nor other grades, and is not representative; it cannot represent the average weight of all seventh-grade students. $\blacksquare$
-
----
 
 ## Review Problem 5
 
@@ -82,8 +72,6 @@ It cannot. The sample contains only seventh-grade boys, includes neither girls n
 
 (2) Group D accounts for $40\%$, namely $80$ people. Groups A and C together account for $100\%-35\%-40\%=25\%$; from the bar chart, group A has $20$ people, $10\%$, so group C accounts for $15\%$, namely $30$ people. Those with no less than $90\ \text{min}$ are groups C and D, together accounting for $15\%+40\%=55\%$. The school-wide estimate is $1500\times55\%=825$ people. $\blacksquare$
 
----
-
 ## Review Problem 6
 
 (Review Problems, Review and Consolidation, Problem 6) Randomly sample the shoe sizes of $38$ girls: $35,37,41,35,37,36,37,38,36,37,37,38,35,34,39,35,40,36,37,36,38,39,37,39,36,35,36,37,38,34,40,37,35,38,40,36,37,36$.
@@ -98,8 +86,6 @@ It cannot. The sample contains only seventh-grade boys, includes neither girls n
 
 (2) Sizes 36 and 37 together account for $47.4\%$; the school should buy more sizes 36 and 37, and fewer sizes 34 and 41. $\blacksquare$
 
----
-
 ## Review Problem 7
 
 (Review Problems, Comprehensive Application, Problem 7) The operating mileage (km) of high-speed rail from 2013 to 2022 was $11028,16456,19838,22980,25164,29904,35388,37929,40139,42241$; the passenger volume (ten thousand people) was $52962,70378,96139,122128,175216,205430,235833,155707,192236,127533$. Choose an appropriate statistical chart to describe the changes.
@@ -109,8 +95,6 @@ The figure is a compound line chart with years (2013–2022) on the horizontal a
 ### Solution to Review Problem 7
 
 By Line Chart, draw a composite line chart as shown. The operating mileage grows steadily year by year; the passenger volume rose rapidly before 2019, fell from 2020 due to the pandemic, and had not recovered to the 2019 level by 2022. $\blacksquare$
-
----
 
 ## Review Problem 8
 
@@ -126,8 +110,6 @@ By Line Chart, draw a composite line chart as shown. The operating mileage grows
 
 (2) To keep $60\%$ of families unaffected, i.e. the water consumption corresponding to a cumulative relative frequency of $60\%$. Cumulating from the frequency distribution table, the water consumption of the $30$th family is about $9\ \text{t}$. Hence set the standard at $9\ \text{t}$, charging $1.5$ times for the excess, which keeps the water fee of the first $60\%$ of families unaffected. $\blacksquare$
 
----
-
 ## Review Problem 9
 
 (Review Problems, Comprehensive Application, Problem 9) The fuel consumption per hundred kilometers (L) of 30 cars of the same model: from $6.9$ to $8.3$. Statistically analyze the fuel consumption of this batch of cars.
@@ -135,8 +117,6 @@ By Line Chart, draw a composite line chart as shown. The operating mileage grows
 ### Solution to Review Problem 9
 
 Maximum $8.3$, minimum $6.9$, range $1.4$. Take a class width of $0.2$ for grouping. Most cars' fuel consumption falls between $7.2\sim7.8\ \text{L}$, averaging about $7.5\ \text{L}$; the consumption is relatively concentrated, with a few vehicles on the high side. $\blacksquare$
-
----
 
 ## Review Problem 10
 
@@ -147,8 +127,6 @@ The figure is a trend chart with advertising expenditure (10,000 yuan) on the ho
 ### Solution to Review Problem 10
 
 By Trend Chart, take advertising expenditure as the horizontal axis and sales revenue as the vertical axis; plot the points and draw the trend line as shown. The points show an upward trend. Extrapolating from the trend line, when the advertising expenditure is $8$ ten-thousand yuan, the sales revenue is about $44$ ten-thousand yuan. $\blacksquare$
-
----
 
 ## Review Problem 11
 

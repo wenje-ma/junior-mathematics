@@ -1,7 +1,5 @@
 # week36
 
----
-
 ## Exercise 1
 
 (Exercise 8.1, Problem 1) True or false.
@@ -26,8 +24,6 @@ By Properties of Square Roots, a positive number has two square roots that are o
 
 (4) By Properties of Square Roots, the square root of $0$ is $0$, so it is correct. $\blacksquare$
 
----
-
 ## Exercise 2
 
 (Exercise 8.1, Problem 2) Find the square roots of the following numbers:
@@ -43,8 +39,6 @@ By Square Root, find the number whose square equals the given number.
 (2) $6^2=36$, $\because\left(\pm 6\right)^2=36$, $\therefore 6^2$ has square roots $\pm 6$.
 
 (3) $\because\left(\pm 0.7\right)^2=0.49$, $\therefore 0.49$ has square roots $\pm 0.7$. $\blacksquare$
-
----
 
 ## Exercise 3
 
@@ -62,8 +56,6 @@ By Square Root, when $x^2=a$, $x=\pm\sqrt a$.
 
 (3) $\left(x-1\right)^2=1$, so $x-1=\pm\sqrt 1=\pm 1$. When $x-1=1$, $x=2$; when $x-1=-1$, $x=0$. Thus $x=2$ or $x=0$. $\blacksquare$
 
----
-
 ## Exercise 4
 
 (Exercise 8.1, Problem 1) Find the arithmetic square roots of the following numbers:
@@ -79,8 +71,6 @@ By Arithmetic Square Root, the arithmetic square root is the positive square roo
 (2) $\because\left(\frac{9}{7}\right)^2=\frac{81}{49}$, $\therefore\sqrt{\frac{81}{49}}=\frac{9}{7}$.
 
 (3) $5^2=25$, $\because 5^2=25$, $\therefore\sqrt{5^2}=5$. $\blacksquare$
-
----
 
 ## Exercise 5
 
@@ -98,8 +88,6 @@ By Arithmetic Square Root, $\sqrt a$ denotes the arithmetic square root, and $\p
 
 (3) $\because 13^2=169$, $\therefore\pm\sqrt{169}=\pm 13$. $\blacksquare$
 
----
-
 ## Exercise 6
 
 (Exercise 8.1, Problem 3) A volleyball court is rectangular, its length is $2$ times its width, and its area is $162\,\text{m}^2$. What are its length and width respectively?
@@ -113,8 +101,6 @@ x\cdot 2x=162,\quad 2x^2=162,\quad x^2=81.
 $$
 
 By Square Root, $x=\sqrt{81}=9$ (take the positive value). Thus the width is $9\,\text{m}$ and the length is $2x=18\,\text{m}$. $\blacksquare$
-
----
 
 ## Exercise 7
 
@@ -132,8 +118,6 @@ By Arithmetic Square Root, use a calculator to find the positive square root.
 
 (3) Using a calculator, $\sqrt{403}\approx 20.075$. $\blacksquare$
 
----
-
 ## Exercise 8
 
 (Exercise 8.1, Problem 2) Between which two consecutive integers does each of the following numbers lie?
@@ -149,8 +133,6 @@ By Size of the Arithmetic Square Root, compare with squares.
 (2) $\because 5^2=25< 26< 36=6^2$, $\therefore 5< \sqrt{26}< 6$, i.e. $\sqrt{26}$ lies between $5$ and $6$.
 
 (3) $\because 4^3=64< 83< 125=5^3$, $\therefore 4< \sqrt\left[3\right]{83}< 5$, i.e. $\sqrt\left[3\right]{83}$ lies between $4$ and $5$. $\blacksquare$
-
----
 
 ## Exercise 9
 
@@ -168,8 +150,6 @@ By Square Root, $x=\sqrt{35}\approx 5.92$. Thus the length is $5\sqrt{35}\approx
 
 A circle of radius $12\,\text{cm}$ has diameter $24\,\text{cm}$. The paper is about $23.7\,\text{cm}< 24\,\text{cm}$ wide, so the diameter does not fit along the width. Thus Wang Fang's idea is not feasible. $\blacksquare$
 
----
-
 ## Problem 1
 
 (Exercise 8.1, Review and Consolidation, Problem 1) Find the square roots of the following numbers:
@@ -186,8 +166,6 @@ By Square Root.
 
 (3) $\because\left(\pm 0.04\right)^2=0.0016$, $\therefore 0.0016$ has square roots $\pm 0.04$. $\blacksquare$
 
----
-
 ## Problem 2
 
 (Exercise 8.1, Review and Consolidation, Problem 2) Find the arithmetic square roots of the following numbers:
@@ -203,8 +181,6 @@ By Arithmetic Square Root.
 (2) $\because 0.2^2=0.04$, $\therefore\sqrt{0.04}=0.2$.
 
 (3) $10^2=100$, $\because 10^2=100$, $\therefore\sqrt{10^2}=10$. $\blacksquare$
-
----
 
 ## Problem 3
 
@@ -230,8 +206,6 @@ By Square Root and Arithmetic Square Root.
 
 (4) By Properties of Square Roots, the square root of $0$ is $0$, and by stipulation the arithmetic square root of $0$ is also $0$; correct. $\blacksquare$
 
----
-
 ## Problem 4
 
 (Exercise 8.1, Review and Consolidation, Problem 4) Use a calculator to find the value of each of the following (keep two decimal places):
@@ -247,8 +221,6 @@ By Arithmetic Square Root, use a calculator to find the positive square root and
 (2) $\sqrt{51.42534}\approx 7.17$.
 
 (3) $\sqrt{\frac{111}{14}}=\sqrt{7.928\cdots}\approx 2.82$. $\blacksquare$
-
----
 
 ## Problem 5
 
@@ -266,8 +238,6 @@ By Size of the Arithmetic Square Root, the larger the radicand, the larger the a
 
 (3) $\because 10> 9$, $\therefore\sqrt{10}> \sqrt 9=3$, so $\sqrt{10}-1> 2$, and hence $\frac{\sqrt{10}-1}{2}> 1$. $\blacksquare$
 
----
-
 ## Problem 6
 
 (Exercise 8.1, Review and Consolidation, Problem 6) Find the value of $x$ in each of the following:
@@ -284,8 +254,6 @@ By Square Root.
 
 (3) $x+2=\pm\sqrt{0.49}=\pm 0.7$. When $x+2=0.7$, $x=-1.3$; when $x+2=-0.7$, $x=-2.7$. Thus $x=-1.3$ or $x=-2.7$. $\blacksquare$
 
----
-
 ## Problem 7
 
 (Exercise 8.1, Comprehensive Application, Problem 7) Estimate the side length, in decimeters, of a square whose area is $3\,\text{dm}^2$ (keep two decimal places).
@@ -297,8 +265,6 @@ Let the side length be $x\,\text{dm}$; then $x^2=3$, and by Square Root, $x=\sqr
 $\because 1.7^2=2.89< 3< 3.24=1.8^2$, continue to refine: $1.73^2=2.9929< 3< 3.0276=1.74^2$, and further $1.732^2\approx 2.999< 3$. Thus $\sqrt 3\approx 1.73$.
 
 That is, the side length of the square is about $1.73\,\text{dm}$. $\blacksquare$
-
----
 
 ## Problem 8
 
@@ -316,8 +282,6 @@ $\sqrt{0.02551\cdots}\approx 0.1597$, so $t\approx 6.28\times 0.1597\approx 1.00
 
 That is, one complete swing takes about $1.00\,s$. $\blacksquare$
 
----
-
 ## Problem 9
 
 (Exercise 8.1, Comprehensive Application, Problem 9) If the area of a square is enlarged to $4$ times the original, by how many times does its side length become? What if the area is enlarged to $9$ times? What if to $n$ times?
@@ -331,8 +295,6 @@ When the area is enlarged to $4$ times the original, the new area is $4a^2$ and 
 When the area is enlarged to $9$ times the original, the new side length is $\sqrt{9a^2}=3a$, i.e. the side length becomes $3$ times the original.
 
 When the area is enlarged to $n$ times the original, the new side length is $\sqrt{na^2}=a\sqrt n$, i.e. the side length becomes $\sqrt n$ times the original. $\blacksquare$
-
----
 
 ## Problem 10
 
@@ -357,8 +319,6 @@ $$
 $$
 
 $\blacksquare$
-
----
 
 ## Problem 11
 

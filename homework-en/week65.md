@@ -1,7 +1,5 @@
 # week65
 
----
-
 ## Review Problem 1
 
 (Review Problems, Review and Consolidation, Problem 1) The following four conditions:
@@ -30,8 +28,6 @@ Condition (4): the ratio of the three exterior angles is $3:4:5$, and the exteri
 
 Hence those that can determine are (2)(3)(4). $\blacksquare$
 
----
-
 ## Review Problem 2
 
 (Review Problems, Review and Consolidation, Problem 2) As shown, in $\triangle ABC$, $AD$ and $AE$ are respectively the median and altitude on side $BC$, $AE=2$, $S_{\triangle ABD}=1.5$. Find the lengths of $BC$ and $DC$.
@@ -45,8 +41,6 @@ S_{\triangle ABD}=\frac{1}{2}\cdot BD\cdot AE=\frac{1}{2}\times BD\times2=1.5.
 $$
 
 Solving gives $BD=1.5$. By Median, $D$ is the midpoint of $BC$, so $BC=2BD=3$, $DC=BD=1.5$. $\blacksquare$
-
----
 
 ## Review Problem 3
 
@@ -74,8 +68,6 @@ $$
 
 The left side is $AB+AC$ and the right side is $BC$, so $AB+AC> BC$. Fill in successively $BD$, $PC$, $BD+PC$, $BC$. $\blacksquare$
 
----
-
 ## Review Problem 4
 
 (Review Problems, Review and Consolidation, Problem 4) Find the value of $x$ in each figure below.
@@ -98,8 +90,6 @@ $$
 
 solving gives $x=60$. $\blacksquare$
 
----
-
 ## Review Problem 5
 
 (Review Problems, Comprehensive Application, Problem 5) As shown, $\angle B=42^\circ$, $\angle A$ is $10^\circ$ smaller than $\angle 1$, $\angle ACD=64^\circ$. Prove that $AB\parallel CD$.
@@ -115,8 +105,6 @@ $$
 solving gives $2\angle 1=148^\circ$, $\angle 1=74^\circ$, hence $\angle A=64^\circ$.
 
 Thus $\angle A=\angle ACD=64^\circ$; these two angles are the alternate interior angles cut by line $AC$ across lines $AB$ and $CD$. Since the alternate interior angles are equal, $AB\parallel CD$. $\blacksquare$
-
----
 
 ## Review Problem 6
 
@@ -140,8 +128,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## Review Problem 7
 
 (Review Problems, Comprehensive Application, Problem 7) As shown, in $\triangle ABC$, $AD$ is an altitude, $AE$ and $BF$ are angle bisectors, and $AE$ and $BF$ intersect at point $O$, $\angle BAC=50^\circ$, $\angle C=70^\circ$. Find the degree measures of $\angle DAC$ and $\angle BOA$.
@@ -163,8 +149,6 @@ $$
 $$
 
 $\blacksquare$
-
----
 
 ## Review Problem 8
 
@@ -195,8 +179,6 @@ $$
 $$
 
 $\blacksquare$
-
----
 
 ## Review Problem 9
 

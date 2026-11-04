@@ -1,7 +1,5 @@
 # week69
 
----
-
 ## Exercise 1
 
 (Exercise 14.3, Problem 1) As shown, on line $MN$ construct a point $P$ such that point $P$ lies inside $\angle AOB$ and point $P$ is equidistant from rays $OA$ and $OB$.
@@ -9,8 +7,6 @@
 ### Solution to Exercise 1
 
 By Determination of an Angle Bisector, points equidistant from $OA$, $OB$ lie on the bisector of $\angle AOB$. So first construct the bisector of $\angle AOB$ with straightedge and compass; its intersection with line $MN$ is the desired point $P$. $\blacksquare$
-
----
 
 ## Exercise 2
 
@@ -21,8 +17,6 @@ By Determination of an Angle Bisector, points equidistant from $OA$, $OB$ lie on
 By Properties of an Angle Bisector, $PD=PE$. In $\text{Rt}\triangle PDF$ and $\text{Rt}\triangle PEG$, $\angle PDF=\angle PEG=90^\circ$, $DF=EG$, $PD=PE$; by SAS, $\triangle PDF\cong\triangle PEG$.
 
 By Basic Knowledge, the corresponding sides satisfy $PF=PG$. $\blacksquare$
-
----
 
 ## Exercise 3
 
@@ -35,8 +29,6 @@ In $\triangle ABF$ and $\triangle CEF$, $\angle AFB=\angle CFE$ (vertical angles
 In $\text{Rt}\triangle BDF$ and $\text{Rt}\triangle EDF$, $BF=EF$, and $DF$ is the common hypotenuse; by HL, $\text{Rt}\triangle BDF\cong\text{Rt}\triangle EDF$, so $DB=DE$.
 
 That is, point $D$ is equidistant from line $FB$ (on $AB$) and line $FE$ (on $CE$). By Determination of an Angle Bisector, point $D$ lies on the bisector of $\angle BFE$, so $FD$ bisects $\angle BFE$. $\blacksquare$
-
----
 
 ## Exercise 4
 
@@ -52,8 +44,6 @@ That is, point $D$ is equidistant from line $FB$ (on $AB$) and line $FE$ (on $CE
 
 (2) By (1), $P$ is equidistant from lines $AB$, $CA$. By Determination of an Angle Bisector, $P$ lies on the bisector of $\angle A$. $\blacksquare$
 
----
-
 ## Problem 1
 
 (Exercise 14.3, Review and Consolidation, Problem 1) As shown, in $\triangle ABC$, $AD$ is its angle bisector, and $BD=CD$, $DE\perp AB$, $DF\perp AC$, with feet at $E$, $F$ respectively. Prove that $EB=FC$.
@@ -63,8 +53,6 @@ That is, point $D$ is equidistant from line $FB$ (on $AB$) and line $FE$ (on $CE
 Since $AD$ is an angle bisector and by Properties of an Angle Bisector, $DE=DF$. In $\text{Rt}\triangle BDE$ and $\text{Rt}\triangle CDF$, the hypotenuses satisfy $BD=CD$, and the legs satisfy $DE=DF$; by HL, $\text{Rt}\triangle BDE\cong\text{Rt}\triangle CDF$.
 
 By Basic Knowledge, the corresponding legs satisfy $EB=FC$. $\blacksquare$
-
----
 
 ## Problem 2
 
@@ -78,8 +66,6 @@ In $\text{Rt}\triangle AEF$ and $\text{Rt}\triangle ADF$, the hypotenuse $AF$ is
 
 That is, $FA$ bisects $\angle DFE$. $\blacksquare$
 
----
-
 ## Problem 3
 
 (Exercise 14.3, Review and Consolidation, Problem 3) As shown, $CD\perp AB$, $BE\perp AC$, with feet at $D$, $E$ respectively, and $BE$, $CD$ intersect at point $O$, $OB=OC$. Prove that $\angle 1=\angle 2$.
@@ -90,8 +76,6 @@ In $\triangle BOD$ and $\triangle COE$, $\angle BDO=\angle CEO=90^\circ$, $\angl
 
 That is, point $O$ is equidistant from lines $AB$, $AC$. By Determination of an Angle Bisector, point $O$ lies on the bisector of $\angle A$, so $\angle 1=\angle 2$. $\blacksquare$
 
----
-
 ## Problem 4
 
 (Exercise 14.3, Review and Consolidation, Problem 4) As shown, in $\text{Rt}\triangle ABC$, $\angle C=90^\circ$, construct a point $P$ on side $AC$ such that $P$ is equidistant from side $BC$ and side $AB$.
@@ -99,8 +83,6 @@ That is, point $O$ is equidistant from lines $AB$, $AC$. By Determination of an 
 ### Solution to Problem 4
 
 By Determination of an Angle Bisector, points equidistant from $BC$, $AB$ lie on the bisector of $\angle B$. So construct the bisector of $\angle B$; its intersection with side $AC$ is the desired point $P$. $\blacksquare$
-
----
 
 ## Problem 5
 
@@ -112,8 +94,6 @@ From $PE\parallel AB$, we get $\angle EPD=\angle BAD$; from $PF\parallel AC$, we
 
 By Properties of an Angle Bisector, point $D$ lies on $PD$, so point $D$ is equidistant from $PE$ and $PF$. $\blacksquare$
 
----
-
 ## Problem 6
 
 (Exercise 14.3, Comprehensive Application, Problem 6) As shown, $OC$ is the bisector of $\angle AOB$, $P$ is a point on $OC$, $PD\perp OA$, $PE\perp OB$, with feet at $D$, $E$ respectively. $F$ is another point on $OC$; join $DF$, $EF$. Prove that $DF=EF$.
@@ -124,8 +104,6 @@ By Properties of an Angle Bisector, $PD=PE$. Since $OC$ bisects $\angle AOB$, $P
 
 By Basic Knowledge, the corresponding sides satisfy $DF=EF$. $\blacksquare$
 
----
-
 ## Problem 7
 
 (Exercise 14.3, Extension and Exploration, Problem 7) As shown, $AD$ is the angle bisector of $\triangle ABC$, $DE\perp AB$, $DF\perp AC$, with feet at $E$, $F$ respectively; join $EF$, and let $EF$ intersect $AD$ at point $G$. Is $AD$ perpendicular to $EF$? Prove your conclusion.
@@ -135,8 +113,6 @@ By Basic Knowledge, the corresponding sides satisfy $DF=EF$. $\blacksquare$
 $AD\perp EF$. Proof: since $AD$ is an angle bisector and by Properties of an Angle Bisector, $DE=DF$. In $\text{Rt}\triangle ADE$ and $\text{Rt}\triangle ADF$, the hypotenuse $AD$ is common, and the legs satisfy $DE=DF$; by HL, $\text{Rt}\triangle ADE\cong\text{Rt}\triangle ADF$, so $AE=AF$.
 
 Thus $\triangle AEF$ is isosceles, and $AG$ is the bisector of the vertex angle $\angle EAF$; by the "three lines in one" property of an isosceles triangle, $AG\perp EF$, i.e. $AD\perp EF$. $\blacksquare$
-
----
 
 ## Problem 8
 

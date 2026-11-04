@@ -1,7 +1,5 @@
 # week116
 
----
-
 ### Activity 1
 
 (Math Activity, Activity 1, Problem 1) Use a uniformly weighted ruler and some coins to do the following experiment:

@@ -1,7 +1,5 @@
 # week175
 
----
-
 ## Review Problem 1
 
 (Review Problem, Review and Consolidation, Problem 1) Find the object corresponding to the three views in the figure. Four sets of three views are given, corresponding to different solids respectively.

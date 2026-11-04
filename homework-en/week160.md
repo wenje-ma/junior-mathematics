@@ -1,7 +1,5 @@
 # week160
 
----
-
 ### Activity 1
 
 (Math Activity, Activity 1) The following table gives the length and width of $10$ rectangles of equal area; please complete the table. Let $\angle A$ be the common angle of these $10$ rectangles, draw the $10$ rectangles, then take the $10$ opposite vertices of $\angle A$, and connect the $10$ points in order with a smooth curve. Is this curve a branch of the graph of an inverse proportional function? Why?

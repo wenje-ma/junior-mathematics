@@ -1,7 +1,5 @@
 # week141
 
----
-
 ## Exercise 1
 
 (Exercise 27.3, Problem 1) Make a conical funnel with a volume of $120\ \text{cm}^3$.

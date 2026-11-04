@@ -1,7 +1,5 @@
 # week151
 
----
-
 ## Problem 1
 
 (Exercise 29.2, Review and Consolidation, Problem 1) As shown in the figure, in $\odot O$ of radius $1$, the chord $AB$ has length $1$.

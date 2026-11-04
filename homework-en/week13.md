@@ -1,7 +1,5 @@
 # week13
 
----
-
 ## Activity 1
 
 (Math Activity, Activity 1, Puzzle-Building Game, Problem (1)) As shown in the figure, matchsticks are used to build a row of figures made up of triangles. If the figure contains $2$, $3$, or $4$ triangles, how many matchsticks are needed respectively? If the figure contains $n$ triangles, how many matchsticks are needed?
@@ -15,8 +13,6 @@ By Forming Algebraic Expressions.
 $1$ triangle requires $3$ matchsticks; each additional triangle shares one side with the previous triangle, so only $2$ more matchsticks are needed. Hence $2$ triangles require $3+2=5$ matchsticks, $3$ triangles require $5+2=7$ matchsticks, and $4$ triangles require $7+2=9$ matchsticks.
 
 Following this pattern, $n$ triangles require $3+2\left(n-1\right)=2n+1$ matchsticks. $\blacksquare$
-
----
 
 ## Activity 2
 
@@ -35,8 +31,6 @@ The difference between the two is
 $$\left(n+1\right)^{2}-n^{2}=n^{2}+2n+1-n^{2}=2n+1.$$
 
 Hence the $n$-th square requires $2n+1$ more small squares than the $\left(n-1\right)$-th square. $\blacksquare$
-
----
 
 ## Activity 3
 

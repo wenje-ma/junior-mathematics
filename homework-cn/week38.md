@@ -1,7 +1,5 @@
 # week38
 
----
-
 ## 练习一
 
 (练习 8.3 第 1 题) 判断题.
@@ -30,8 +28,6 @@
 
 (5) 由实数与数轴, 实数与数轴上的点一一对应, 故正确. $\blacksquare$
 
----
-
 ## 练习二
 
 (练习 8.3 第 2 题) 在 $0$, $1$, $2$, $3$, $4$, $5$, $6$, $7$, $8$, $9$, $10$ 的平方根与立方根中, 哪些是有理数? 哪些是无理数?
@@ -43,8 +39,6 @@
 平方根: $\sqrt 0=0$, $\sqrt 1=1$, $\sqrt 4=2$, $\sqrt 9=3$ 是有理数; $\sqrt 2$, $\sqrt 3$, $\sqrt 5$, $\sqrt 6$, $\sqrt 7$, $\sqrt 8$, $\sqrt{10}$ 是无理数.
 
 立方根: $\sqrt\left[3\right] 0=0$, $\sqrt\left[3\right] 1=1$, $\sqrt\left[3\right] 8=2$ 是有理数; $\sqrt\left[3\right] 2$, $\sqrt\left[3\right] 3$, $\sqrt\left[3\right] 4$, $\sqrt\left[3\right] 5$, $\sqrt\left[3\right] 6$, $\sqrt\left[3\right] 7$, $\sqrt\left[3\right] 9$, $\sqrt\left[3\right]{10}$ 是无理数. $\blacksquare$
-
----
 
 ## 练习三
 
@@ -66,8 +60,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## 练习四
 
 (练习 8.3 第 1 题) 求下列各数的相反数与绝对值: $\sqrt{13}$, $-\sqrt 7$, $-\frac{\pi}{2}$, $1.4-\sqrt 2$, $\frac{\sqrt 5-1}{2}$, $0$.
@@ -87,8 +79,6 @@ $1.4-\sqrt 2\approx 1.4-1.414< 0$: 相反数为 $\sqrt 2-1.4$, 绝对值为 $\sq
 $\frac{\sqrt 5-1}{2}\approx\frac{2.236-1}{2}> 0$: 相反数为 $\frac{1-\sqrt 5}{2}$, 绝对值为 $\frac{\sqrt 5-1}{2}$.
 
 $0$: 相反数为 $0$, 绝对值为 $0$. $\blacksquare$
-
----
 
 ## 练习五
 
@@ -110,8 +100,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## 练习六
 
 (练习 8.3 第 3 题) 计算 (结果保留小数点后两位):
@@ -126,8 +114,6 @@ $\blacksquare$
 
 (2) $\sqrt\left[3\right]{6}\approx 1.817$, $\sqrt 6\approx 2.449$, 故 $\sqrt\left[3\right]{6}-\sqrt 6\approx 1.817-2.449=-0.63$. $\blacksquare$
 
----
-
 ## 习题一
 
 (习题 8.3 复习巩固第 1 题) 在下列各数中, 哪些是有理数? 哪些是无理数?
@@ -141,8 +127,6 @@ $3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $-\sqrt 6$, $\sqrt{36}$, $\sqrt\l
 $3.14$ 是有限小数, 有理数; $-\frac{22}{7}$ 是分数, 有理数; $\sqrt{\frac{3}{3}}=\sqrt 1=1$, 有理数; $-\sqrt 6$ 是开方开不尽的无限不循环小数, 无理数; $\sqrt{36}=6$, 有理数; $\sqrt\left[3\right]{5}$ 是无限不循环小数, 无理数; $\sqrt\left[3\right]{125}=5$, 有理数.
 
 故有理数为 $3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $\sqrt{36}$, $\sqrt\left[3\right]{125}$; 无理数为 $-\sqrt 6$, $\sqrt\left[3\right]{5}$. $\blacksquare$
-
----
 
 ## 习题二
 
@@ -159,8 +143,6 @@ $$
 $$
 
 $\blacksquare$
-
----
 
 ## 习题三
 
@@ -180,8 +162,6 @@ $\sqrt\left[3\right]{3}\approx 1.442< 2$, 故 $\sqrt\left[3\right]{3}-2< 0$, 其
 
 $\sqrt\left[3\right]{2}\approx 1.26> 1$, 故 $1-\sqrt\left[3\right]{2}< 0$, 其绝对值为 $\sqrt\left[3\right]{2}-1$. $\blacksquare$
 
----
-
 ## 习题四
 
 (习题 8.3 复习巩固第 4 题) 计算 (结果保留小数点后两位):
@@ -195,8 +175,6 @@ $\sqrt\left[3\right]{2}\approx 1.26> 1$, 故 $1-\sqrt\left[3\right]{2}< 0$, 其�
 (1) $\pi\approx 3.142$, $\sqrt{10}\approx 3.162$, 故 $\pi-\sqrt{10}\approx 3.142-3.162=-0.02$.
 
 (2) $\sqrt\left[3\right]{2}\approx 1.260$, $\sqrt 2\approx 1.414$, 故 $\sqrt\left[3\right]{2}-\sqrt 2\approx 1.260-1.414=-0.15$. $\blacksquare$
-
----
 
 ## 习题五
 
@@ -222,8 +200,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## 习题六
 
 (习题 8.3 综合运用第 6 题)
@@ -244,8 +220,6 @@ $\blacksquare$
 
 (3) 没有最小的正实数 (任意小的正数之间还能取更小的正数); 没有最小的实数 (实数可向负方向无限小). $\blacksquare$
 
----
-
 ## 习题七
 
 (习题 8.3 综合运用第 7 题) 写出所有符合下列条件的数:
@@ -265,8 +239,6 @@ $\blacksquare$
 (2) $\because 3^2=9< 10< 16=4^2$, $\therefore 3< \sqrt{10}< 4$, 故 $-4< -\sqrt{10}< -3$. 大于 $-\sqrt{10}$ 且小于 $\sqrt{10}$ 的整数为 $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
 
 (3) $\because 2^2=4< 6< 9=3^2$, $\therefore 2< \sqrt 6< 3$, 绝对值小于 $\sqrt 6$ 的整数为 $-2$, $-1$, $0$, $1$, $2$. $\blacksquare$
-
----
 
 ## 习题八
 
@@ -295,8 +267,6 @@ $$
 $$
 
 $\blacksquare$
-
----
 
 ## 习题九
 

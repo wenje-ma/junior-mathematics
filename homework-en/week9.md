@@ -1,7 +1,5 @@
 # week9
 
----
-
 ## Review Problem 1
 
 (Review Problem, Review and Consolidation, Problem 1) Compute:
@@ -19,8 +17,6 @@ By Rules for Addition of Rational Numbers and Rules for Multiplication of Ration
 (1) $100$; (2) $-38$; (3) $-70$; (4) $-11$; (5) $96$;
 
 (6) $-9$; (7) $-\frac{1}{2}$; (8) $\frac{75}{2}$; (9) $\frac{15}{16}$. $\blacksquare$
-
----
 
 ## Review Problem 2
 
@@ -54,8 +50,6 @@ By Order of Mixed Operations.
 
 (6) The original expression $=-\left(-2\right)+9\times\left(-2\right)=2-18=-16$. $\blacksquare$
 
----
-
 ## Review Problem 3
 
 (Review Problem, Review and Consolidation, Problem 3) What is the sum of two numbers that are opposites of each other? What is the product of two numbers that are reciprocals of each other?
@@ -68,8 +62,6 @@ For two numbers that are opposites of each other, such as $a$ and $-a$, their su
 
 For two numbers that are reciprocals of each other, by Reciprocal, their product is $1$. $\blacksquare$
 
----
-
 ## Review Problem 4
 
 (Review Problem, Review and Consolidation, Problem 4) Express the following numbers in scientific notation:
@@ -81,8 +73,6 @@ For two numbers that are reciprocals of each other, by Reciprocal, their product
 By Scientific Notation.
 
 (1) $100000000=1\times 10^{8}$; (2) $4500000=4.5\times 10^{6}$; (3) $692400000000=6.924\times 10^{11}$. $\blacksquare$
-
----
 
 ## Review Problem 5
 
@@ -97,8 +87,6 @@ By Scientific Notation.
 By Approximate Numbers.
 
 (1) $245.635\approx 245.6$; (2) $175.65\approx 176$; (3) $12.004\approx 12.00$; (4) $6.5378\approx 6.54$. $\blacksquare$
-
----
 
 ## Review Problem 6
 
@@ -116,8 +104,6 @@ By Algebraic Meaning of Absolute Value.
 
 (2) The original expression $=\left|-2+3\right|=\left|1\right|=1$. $\blacksquare$
 
----
-
 ## Review Problem 7
 
 (Review Problem, Comprehensive Application, Problem 7) Three football teams, red, yellow, and blue, play matches. The results are: the red team beats the yellow team with a score of $4:2$; the blue team beats the yellow team with a score of $3:1$; the red team loses to the blue team with a score of $2:3$. If goals scored are recorded as positive and goals conceded as negative, what is the goal difference of each of the three teams?
@@ -134,8 +120,6 @@ Blue team: goals scored $3+3=6$, goals conceded $1+2=3$, goal difference $=6+\le
 
 Hence the red team has a goal difference of $1$, the yellow team $-4$, and the blue team $3$. $\blacksquare$
 
----
-
 ## Review Problem 8
 
 (Review Problem, Comprehensive Application, Problem 8) The following are the mathematics test scores of ten students:
@@ -150,8 +134,6 @@ By Rules for Division of Rational Numbers, the average score is the total score 
 
 The total score $=82+83+78+66+95+75+61+93+82+81=796$. The average score $=796\div 10=79.6$ points. The scores are mostly concentrated in the $70\sim 90$ point range, estimated at about $80$ points, which is close to the computed result of $79.6$ points. $\blacksquare$
 
----
-
 ## Review Problem 9
 
 (Review Problem, Comprehensive Application, Problem 9) The profit/loss situation of a stationery store over a week is shown in the table below (profit recorded as positive, unit: yuan). Monday $-27.8$, Tuesday $-70.3$, Wednesday $200$, Thursday $138.1$, Friday $-8$, Saturday $\;\_\_\;$, Sunday $458$, total $188$. The profit/loss figure for Saturday in the table has been obscured by ink. Please compute the profit/loss figure for Saturday, and state whether Saturday was a profit or a loss and for what amount.
@@ -163,8 +145,6 @@ By Rules for Addition of Rational Numbers, the sum of the profit/loss over the s
 The sum of the six known days is $-27.8-70.3+200+138.1-8+458=690$. Hence the profit/loss figure for Saturday is $188-690=-502$.
 
 The result is negative, so Saturday was a loss, in the amount of $502$ yuan. $\blacksquare$
-
----
 
 ## Review Problem 10
 
@@ -178,8 +158,6 @@ $$7+3-11.5=-1.5.$$
 
 The result is negative, so at this point he is west of his station, and his distance from the station is $1.5\ \text{km}$. $\blacksquare$
 
----
-
 ## Review Problem 11
 
 (Review Problem, Comprehensive Application, Problem 11) In the range $0\sim 40\,^\circ\text{C}$, for each $1\,^\circ\text{C}$ rise in temperature, a certain metal wire elongates by about $0.002\ \text{mm}$; conversely, for each $1\,^\circ\text{C}$ drop in temperature, the metal wire shortens by about $0.002\ \text{mm}$. This metal wire at $20\,^\circ\text{C}$ is heated to $30\,^\circ\text{C}$ and then cooled down to $5\,^\circ\text{C}$. What change did the length of the metal wire undergo? By about how many millimeters did the final length elongate relative to the original length?
@@ -192,8 +170,6 @@ Heating from $20\,^\circ\text{C}$ to $30\,^\circ\text{C}$ raises the temperature
 
 The total change is $0.02-0.05=-0.03\ \text{mm}$, so the final length is shortened by about $0.03\ \text{mm}$ relative to the original length. $\blacksquare$
 
----
-
 ## Review Problem 12
 
 (Review Problem, Comprehensive Application, Problem 12) Over the year, the distance between the Earth and the Sun varies with time. The $1$ astronomical unit is the average distance between the Earth and the Sun, approximately $1.496$ hundred million kilometers. Express, in scientific notation, how many kilometers the $1$ astronomical unit is.
@@ -205,8 +181,6 @@ By Scientific Notation.
 $$1.496\text{ 亿千米}=149600000\ \text{km}=1.496\times 10^{8}\ \text{km}.$$
 
 Hence the $1$ astronomical unit is $1.496\times 10^{8}\ \text{km}$. $\blacksquare$
-
----
 
 ## Review Problem 13
 
@@ -223,8 +197,6 @@ By Powers and Comparing the Magnitude of Rational Numbers.
 (1) Take $a=\frac{1}{2}$; then $a^{2}=\frac{1}{4}$ and $a^{3}=\frac{1}{8}$. Since $\frac{1}{8}< \frac{1}{4}< \frac{1}{2}$, we get $a^{3}< a^{2}< a$.
 
 (2) Take $b=-\frac{1}{2}$; then $b^{2}=\frac{1}{4}$ and $b^{3}=-\frac{1}{8}$. Since $-\frac{1}{2}< -\frac{1}{8}< \frac{1}{4}$, we get $b< b^{3}< b^{2}$. $\blacksquare$
-
----
 
 ## Review Problem 14
 
@@ -243,8 +215,6 @@ By Powers and Comparing the Magnitude of Rational Numbers.
 (2) Correct. By Sign Rules for Powers, the positive even powers of the two opposite numbers $a$ and $-a$ are both positive and have the same absolute value, so $a^{2n}=\left(-a\right)^{2n}$.
 
 (3) Wrong. Counterexample: $a=1$, $b=-1$; we have $a> b$, but $\frac{1}{a}=1$ and $\frac{1}{b}=-1$, and at this point $\frac{1}{a}> \frac{1}{b}$, so the original statement does not hold. $\blacksquare$
-
----
 
 ## Review Problem 15
 

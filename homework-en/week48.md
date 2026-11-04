@@ -1,7 +1,5 @@
 # week48
 
----
-
 ## Exercise 1
 
 (Exercise 10.4, Problem 1) Solve the following systems of linear equations in three variables:
@@ -26,8 +24,6 @@ By Solving a System of Linear Equations in Three Variables, first eliminate vari
 
 (4) Add the first and second equations: $5x+2y=16$; add the second and third: $3x+4y=18$. Multiply the first by $2$ and subtract the second: $7x=14$, $x=2$, $y=3$, $z=6-2-3=1$. $\blacksquare$
 
----
-
 ## Exercise 2
 
 (Exercise 10.4, Problem 2) The sum of three numbers, A, B, C, is $35$; $2$ times number A is $5$ greater than number B; $\frac{1}{3}$ of number B equals $\frac{1}{2}$ of number C. Find the three numbers.
@@ -45,8 +41,6 @@ x+y+z=35,\\
 $$
 
 From $y=2x-5$, $z=\frac{2y}{3}=\frac{2\left(2x-5\right)}{3}$; substitute into the first equation and multiply by $3$: $3x+3\left(2x-5\right)+2\left(2x-5\right)=105$, giving $x=10$, $y=15$, $z=10$. Thus A is $10$, B is $15$, C is $10$. $\blacksquare$
-
----
 
 ## Exercise 3
 
@@ -66,8 +60,6 @@ $$
 
 Subtract the second from the first: $-a+b=3$; subtract the third from the second: $3a+2b=1$. From $b=a+3$, substitute: $3a+2\left(a+3\right)=1$, giving $a=-1$, $b=2$; substituting back into the third equation $1-2+c=4$, $c=5$. Thus $a=-1$, $b=2$, $c=5$. $\blacksquare$
 
----
-
 ## Problem 1
 
 (Exercise 10.4, Review and Consolidation, Problem 1) Solve the following systems of linear equations in three variables:
@@ -81,8 +73,6 @@ Subtract the second from the first: $-a+b=3$; subtract the third from the second
 (1) Substitute $y=2x-7$: $5x+3\left(2x-7\right)+2z=2$, i.e. $11x+2z=23$. Together with the third equation $3x-4z=4$, multiply the first by $2$ and add the second: $25x=50$, $x=2$, $y=-3$, $z=0.5$.
 
 (2) From the second equation $y=\frac{1+2z}{3}$; substitute into the first: $4x+6z=9$. Together with the third equation $7x+5z=\frac{19}{4}$, multiply the first by $5$ and the second by $6$ and subtract: $-22x=\frac{33}{2}$, $x=-\frac{3}{4}$; substituting back $-3+6z=9$, $z=2$, $y=\frac{5}{3}$. $\blacksquare$
-
----
 
 ## Problem 2
 
@@ -98,8 +88,6 @@ Subtract the second from the first: $-a+b=3$; subtract the third from the second
 
 (2) Multiply the second equation by $3$ and subtract the third: $4x+8z=20$, i.e. $x+2z=5$. Multiply the second by $2$ and add the first: $8x+13z=31$. From $x=5-2z$, substitute: $8\left(5-2z\right)+13z=31$, giving $z=3$, $x=-1$; substituting back into the second equation $-3-2y+15=11$, $y=\frac{1}{2}$. $\blacksquare$
 
----
-
 ## Problem 3
 
 (Exercise 10.4, Comprehensive Application, Problem 3) In the equation $y=ax^2+bx+c$, when $x=1$, $y=-2$; when $x=-1$, $y=20$; when $x=\frac{3}{2}$ and $x=\frac{1}{3}$, the values of $y$ are equal. Find the values of $a$, $b$, $c$.
@@ -110,8 +98,6 @@ Substituting gives $a+b+c=-2$, $a-b+c=20$; subtracting the two equations: $2b=-2
 
 Since $y$ is equal at $x=\frac{3}{2}$ and $x=\frac{1}{3}$, the axis of symmetry of the parabola is $x=\frac{1}{2}\left(\frac{3}{2}+\frac{1}{3}\right)=\frac{11}{12}$, i.e. $-\frac{b}{2a}=\frac{11}{12}$, giving $a=6$. Substituting back $6-11+c=-2$, $c=3$. Thus $a=6$, $b=-11$, $c=3$. $\blacksquare$
 
----
-
 ## Problem 4
 
 (Exercise 10.4, Comprehensive Application, Problem 4) A three-digit number: the tens digit equals $2$ times the hundreds digit; $3$ times the hundreds digit minus the units digit equals $\frac{1}{4}$ of the tens digit; and the sum of the digits is $11$. Find this three-digit number.
@@ -121,8 +107,6 @@ Since $y$ is equal at $x=\frac{3}{2}$ and $x=\frac{1}{3}$, the axis of symmetry 
 Let the hundreds, tens, and units digits be $x$, $y$, $z$ respectively. According to the problem $y=2x$, $3x-z=\frac{y}{4}=\frac{x}{2}$, $x+y+z=11$.
 
 From the second equation $z=3x-\frac{x}{2}=\frac{5}{2}x$; substitute into the third: $x+2x+\frac{5}{2}x=11$, giving $x=2$, $y=4$, $z=5$. Thus this three-digit number is $245$. $\blacksquare$
-
----
 
 ## Problem 5
 

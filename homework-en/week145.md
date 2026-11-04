@@ -1,7 +1,5 @@
 # week145
 
----
-
 ### Activity 1
 
 (Mathematical Activity, Activity 1, Designing Patterns Using Geometric Transformations) We can design a pattern using any one of translation, axial symmetry, and rotation, or we can design a pattern using a combination of them. As shown in the figure, taking the point $O$ as the center of rotation, rotate the figure counterclockwise through $90^\circ$ three times to produce Figure 3; then, taking $l$ as the axis of symmetry, produce Figure 4; translating Figure 4 gives the pattern in Figure 1. Can you identify the basic figure? Explain how the pattern is formed.

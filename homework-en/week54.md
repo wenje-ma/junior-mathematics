@@ -1,7 +1,5 @@
 # week54
 
----
-
 ## Activity 1
 
 (Mathematics Activity, Activity 1, Problem 1) Look up data to find the built-up area and the green coverage area of the city you live in, and calculate the green coverage rate. If this city plans to raise the green coverage rate to no less than $1.1$ times this year's rate next year, while the built-up area increases by $5\%$ over this year, by at least what percent must next year's green coverage area increase over this year's?
@@ -17,8 +15,6 @@ G'\ge1.1\times1.05\,G=1.155\,G.
 $$
 
 Hence next year's green coverage area must increase by at least $15.5\%$ over this year's. $\blacksquare$
-
----
 
 ## Activity 2
 

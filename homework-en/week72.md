@@ -1,7 +1,5 @@
 # week72
 
----
-
 ## Exercise 1
 
 (Exercise 15.1, Problem 1) Is each figure shown an axisymmetric figure? If so, point out its axis of symmetry.
@@ -12,8 +10,6 @@ The figure shows five diagrams arranged from left to right: (1) a butterfly faci
 
 By Axisymmetric Figure, a figure that can be folded along a line so that its two parts coincide is an axisymmetric figure. If such a line exists in the given figure, it is an axisymmetric figure and that line is its axis of symmetry; if no such line exists, it is not an axisymmetric figure. $\blacksquare$
 
----
-
 ## Exercise 2
 
 (Exercise 15.1, Problem 2) Are the two patterns in each figure shown symmetric about a line? If so, point out their axis of symmetry and find a pair of symmetric points.
@@ -23,8 +19,6 @@ The figure shows three groups arranged from left to right: (1) an orange Chinese
 ### Solution to Exercise 2
 
 By Symmetric About a Line, two patterns are symmetric about a line if folding them along a line makes them coincide. If such a line exists, it is the axis of symmetry, and the pair of points that coincide after folding are symmetric points. $\blacksquare$
-
----
 
 ## Exercise 3
 
@@ -41,8 +35,6 @@ By Properties of Axis Symmetry, the axis of symmetry $l$ perpendicularly bisects
 (1) The equal segments are $AO=A'O$, $AB=A'B'$, $BO=B'O$; line $l$ is the perpendicular bisector of segment $AA'$.
 
 (2) $\triangle OAB$ and $\triangle OA'B'$ are symmetric about line $l$, and $\triangle OAB\cong\triangle OA'B'$. By equal corresponding angles, $\angle ABO=\angle A'B'O$, $\angle A'OB'=\angle AOB$. $\blacksquare$
-
----
 
 ## Exercise 4
 
@@ -62,8 +54,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## Exercise 5
 
 (Exercise 15.1, Problem 2) As shown, $AB=AC$, $MB=MC$. Is line $AM$ the perpendicular bisector of segment $BC$? Why?
@@ -73,8 +63,6 @@ $\blacksquare$
 Yes. From $AB=AC$, point $A$ is equidistant from $B$, $C$; by Determination of the Perpendicular Bisector, point $A$ lies on the perpendicular bisector of $BC$. Similarly, from $MB=MC$, point $M$ also lies on the perpendicular bisector of $BC$.
 
 Two points determine a line, so line $AM$ is exactly the perpendicular bisector of segment $BC$. $\blacksquare$
-
----
 
 ## Exercise 6
 
@@ -94,8 +82,6 @@ Two points determine a line, so line $AM$ is exactly the perpendicular bisector 
 
 (3) Converse proposition: two triangles with corresponding angles equal are congruent. Does not hold; triangles with three respectively equal angles have the same shape but not necessarily the same size. $\blacksquare$
 
----
-
 ## Exercise 7
 
 (Exercise 15.1, Problem 1) Draw one axis of symmetry of each of the following figures.
@@ -103,8 +89,6 @@ Two points determine a line, so line $AM$ is exactly the perpendicular bisector 
 ### Solution to Exercise 7
 
 By Properties of Axis Symmetry, take any pair of symmetric points, draw the perpendicular bisector of the segment joining them, and it is an axis of symmetry of the figure. $\blacksquare$
-
----
 
 ## Exercise 8
 
@@ -114,8 +98,6 @@ By Properties of Axis Symmetry, take any pair of symmetric points, draw the perp
 
 On the line, on both sides of the point, take two points equidistant from it, then draw the perpendicular bisector of the segment joining these two points; it passes through the given point and is perpendicular to the given line, i.e. the desired perpendicular. $\blacksquare$
 
----
-
 ## Problem 1
 
 (Exercise 15.1, Review and Consolidation, Problem 1) Are the following figures axisymmetric? If so, draw their axes of symmetry.
@@ -123,8 +105,6 @@ On the line, on both sides of the point, take two points equidistant from it, th
 ### Solution to Problem 1
 
 By Axisymmetric Figure, a figure for which a line can be found such that folding makes its two parts coincide is an axisymmetric figure, and that line is its axis of symmetry. $\blacksquare$
-
----
 
 ## Problem 2
 
@@ -136,8 +116,6 @@ The figure shows a rhombus (whose two diagonals perpendicularly bisect each othe
 
 By Symmetric About a Line, the shaded triangle forms an axisymmetric pair with triangles that coincide with it about some line. When the four triangles are regarded as a whole, if a line exists such that folding makes the whole coincide, then it is an axisymmetric figure, and the number of such lines is the number of axes of symmetry. $\blacksquare$
 
----
-
 ## Problem 3
 
 (Exercise 15.1, Review and Consolidation, Problem 3) As shown, $\triangle ABC$ and $\triangle A'B'C'$ are symmetric about line $l$, $\angle B=90^\circ$, $A'B'=6$. Find the degree measure of $\angle B'$ and the length of $AB$.
@@ -145,8 +123,6 @@ By Symmetric About a Line, the shaded triangle forms an axisymmetric pair with t
 ### Solution to Problem 3
 
 By Properties of Axis Symmetry, two figures symmetric about a line are congruent, so corresponding angles and corresponding sides are equal. Hence $\angle B'=\angle B=90^\circ$, $AB=A'B'=6$. $\blacksquare$
-
----
 
 ## Problem 4
 
@@ -164,8 +140,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## Problem 5
 
 (Exercise 15.1, Review and Consolidation, Problem 5) As shown, $AB=AC$, $DB=DC$, and point $E$ lies on $AD$. Prove that $EB=EC$.
@@ -175,8 +149,6 @@ $\blacksquare$
 From $AB=AC$, point $A$ lies on the perpendicular bisector of $BC$; from $DB=DC$, point $D$ also lies on the perpendicular bisector of $BC$. Hence line $AD$ is the perpendicular bisector of $BC$.
 
 Point $E$ lies on $AD$; by Properties of the Perpendicular Bisector, $EB=EC$. $\blacksquare$
-
----
 
 ## Problem 6
 
@@ -196,8 +168,6 @@ Point $E$ lies on $AD$; by Properties of the Perpendicular Bisector, $EB=EC$. $\
 
 (3) Converse proposition: two triangles with corresponding sides equal are congruent. Holds (namely SSS). $\blacksquare$
 
----
-
 ## Problem 7
 
 (Exercise 15.1, Comprehensive Application, Problem 7) Are the following figures axisymmetric? If so, draw one axis of symmetry.
@@ -207,8 +177,6 @@ The figure shows six shapes arranged from left to right: (1) a light blue isosce
 ### Solution to Problem 7
 
 By Axisymmetric Figure, a figure for which a line can be found such that folding makes its two parts coincide is an axisymmetric figure, and that line is its axis of symmetry, as shown by the dashed line in the figure. $\blacksquare$
-
----
 
 ## Problem 8
 
@@ -220,8 +188,6 @@ In $\triangle AOB$ and $\triangle COD$, $\angle A=\angle C$, $OA=OC$, $\angle AO
 
 From $OB=OD$, point $O$ lies on the perpendicular bisector of $BD$; from $BE=DE$, point $E$ also lies on the perpendicular bisector of $BD$. Hence line $OE$ is the perpendicular bisector of segment $BD$. $\blacksquare$
 
----
-
 ## Problem 9
 
 (Exercise 15.1, Comprehensive Application, Problem 9) As shown, using segments $a$, $c$ respectively as one leg and the hypotenuse, construct a right triangle.
@@ -229,8 +195,6 @@ From $OB=OD$, point $O$ lies on the perpendicular bisector of $BD$; from $BE=DE$
 ### Solution to Problem 9
 
 First draw a line and cut off on it a leg equal to $a$, draw a perpendicular to the line through one endpoint, then with the other endpoint of the leg as center and $c$ as radius draw an arc meeting the perpendicular at a point; the desired right triangle is obtained. $\blacksquare$
-
----
 
 ## Problem 10
 
@@ -240,8 +204,6 @@ First draw a line and cut off on it a leg equal to $a$, draw a perpendicular to 
 
 Points equidistant from $A$, $B$ lie on the perpendicular bisector of segment $AB$. So draw the perpendicular bisector of $AB$; its intersection with highway $l$ is the stop location. $\blacksquare$
 
----
-
 ## Problem 11
 
 (Exercise 15.1, Comprehensive Application, Problem 11) As shown, $\triangle ABC$ and $\triangle A'B'C'$ are symmetric about line $l$; do the lines of the corresponding segments $AB$ and $A'B'$ intersect? What is the relationship between the intersection point and the axis of symmetry $l$?
@@ -250,8 +212,6 @@ Points equidistant from $A$, $B$ lie on the perpendicular bisector of segment $A
 
 If the lines of the corresponding segments $AB$ and $A'B'$ intersect, the intersection point lies on the axis of symmetry $l$; if they are parallel, then the lines of this pair of corresponding segments are parallel to the axis of symmetry $l$. The rule is: for two figures symmetric about a line, if corresponding segments intersect, their intersection point must lie on the axis of symmetry. $\blacksquare$
 
----
-
 ## Problem 12
 
 (Exercise 15.1, Extension and Exploration, Problem 12) A transmission tower should be equidistant from towns $A$, $B$ and equidistant from the two highways $m$, $n$. Where should it be built?
@@ -259,8 +219,6 @@ If the lines of the corresponding segments $AB$ and $A'B'$ intersect, the inters
 ### Solution to Problem 12
 
 Points equidistant from $A$, $B$ lie on the perpendicular bisector of $AB$; points equidistant from $m$, $n$ lie on the bisector of the angle between $m$, $n$. So draw the perpendicular bisector of $AB$ and the bisector of the angle between $m$, $n$; the intersection of the two lines is the transmission tower location. $\blacksquare$
-
----
 
 ## Problem 13
 

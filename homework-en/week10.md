@@ -1,7 +1,5 @@
 # week10
 
----
-
 ## Inquiry 1
 
 (Comprehensive Practice, Activity 1, Task 1, Problem 1) Binary is base-two, carrying one when reaching two, and the digits in each place are $0$ or $1$. Please express the binary number $\left(1011\right)_{2}$ as a sum of products of each digit with the corresponding power of the base, thereby converting it into a decimal number.

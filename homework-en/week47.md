@@ -1,7 +1,5 @@
 # week47
 
----
-
 ## Exercise 1
 
 (Exercise 10.3, Problem 1) A supermarket purchases type A and type B energy-saving lamps at $5$ yuan per lamp and $7$ yuan per lamp respectively, paying $50$ yuan in total; then at the same prices purchases $12$ type A lamps and $4$ type B lamps, paying $88$ yuan in total. What are the per-lamp purchase prices of type A and type B respectively?
@@ -18,8 +16,6 @@ $$
 $$
 
 Multiply the first equation by $4$: $12x+20y=200$; subtract the second: $16y=112$, $y=7$; substituting back $3x+35=50$, $x=5$. Thus type A is $5$ yuan per lamp and type B is $7$ yuan per lamp. $\blacksquare$
-
----
 
 ## Exercise 2
 
@@ -38,8 +34,6 @@ $$
 
 Multiply the first equation by $2$: $4x+6y=302$; subtract the second: $4y=124$, $y=31$; substituting back $2x+93=151$, $x=29$. Thus each *Journey to the West* is $29$ yuan and each *Water Margin* is $31$ yuan. $\blacksquare$
 
----
-
 ## Exercise 3
 
 (Exercise 10.3, Problem 3) Of the kitchen waste and construction waste received by a certain city in May, the treatable kitchen waste requires a treatment fee of $240$ yuan per ton and the treatable construction waste requires $150$ yuan per ton. The total treatment fee paid that month was $7020$ yuan; in June the treatable kitchen waste and construction waste received increased by $60\ \text{t}$ and $30\ \text{t}$ respectively, and the total treatment fee paid was $8520$ yuan. Find how many tons of treatable kitchen waste and construction waste were received in May.
@@ -56,8 +50,6 @@ $$
 $$
 
 Simplify: $8x+5y=234$, $5x+3y=142$. Multiply the first by $3$ and the second by $5$ and subtract: $x=8$; substituting back $40+3y=142$, $y=34$. Thus kitchen waste was $8\ \text{t}$ and construction waste was $34\ \text{t}$. $\blacksquare$
-
----
 
 ## Exercise 4
 
@@ -76,8 +68,6 @@ $$
 $$
 
 Simplify $\frac{y}{2\left(100-y\right)}=\frac{3}{4}$, i.e. $4y=6\left(100-y\right)$, giving $y=60$. Thus $AM=60\ \text{m}$. $\blacksquare$
-
----
 
 ## Exercise 5
 
@@ -98,8 +88,6 @@ Third column $2+\left(-3\right)+4y=2x+5$, giving $4y-1=2x+5$, i.e. $x-2y=-3$.
 
 Solving: $x+6y=5$, $x-2y=-3$; subtracting gives $8y=8$, $y=1$; substituting back $x+6=5$, $x=-1$. Thus $x=-1$, $y=1$. $\blacksquare$
 
----
-
 ## Exercise 6
 
 (Exercise 10.3, Problem 6) A river channel needs to be managed; given that team A can manage $12\ \text{m}$ per day and team B can manage $8\ \text{m}$ per day. If team A manages for a period first and team B manages the remainder, it takes $20$ days in total to finish, and the channel is $180\ \text{m}$ long. How many meters did team A and team B manage respectively?
@@ -116,8 +104,6 @@ x+y=180,\\
 $$
 
 Substitute $x=180-y$ and multiply by $24$: $2\left(180-y\right)+3y=480$, i.e. $y=120$, $x=60$. Thus team A managed $60\ \text{m}$ and team B managed $120\ \text{m}$. $\blacksquare$
-
----
 
 ## Exercise 7
 
@@ -138,8 +124,6 @@ Multiply the first equation by $2$: $4x+6y=31$; subtract the second: $x=4$; subs
 
 Thus $3$ large trucks and $5$ small trucks transport $3\times4+5\times2.5=12+12.5=24.5\ \text{t}$ in one trip. $\blacksquare$
 
----
-
 ## Exercise 8
 
 (Exercise 10.3, Problem 8) $20$ tourists at a scenic area ride the cable car; buying round-trip tickets and one-way tickets costs $1180$ yuan in total. Given that a round-trip ticket is $80$ yuan each and a one-way ticket is $45$ yuan each. How many round-trip tickets and one-way tickets were bought?
@@ -156,8 +140,6 @@ x+y=20,\\
 $$
 
 Substitute $y=20-x$: $80x+45\left(20-x\right)=1180$, i.e. $35x=280$, $x=8$, $y=12$. Thus $8$ round-trip tickets and $12$ one-way tickets. $\blacksquare$
-
----
 
 ## Exercise 9
 
@@ -178,8 +160,6 @@ Subtract the two equations: $x\left(\frac{1}{3}-\frac{1}{5}\right)=0.9-0.7=0.2$,
 
 The total distance is $1.5+1.6=3.1\ \text{km}$. $\blacksquare$
 
----
-
 ## Problem 1
 
 (Exercise 10.3, Review and Consolidation, Problem 1) Solve the following systems:
@@ -193,8 +173,6 @@ The total distance is $1.5+1.6=3.1\ \text{km}$. $\blacksquare$
 (1) From the first equation $y=3x-5$; substitute into the second $5y-3x=6$: $5\left(3x-5\right)-3x=6$, i.e. $12x=31$, $x=\frac{31}{12}$, $y=\frac{11}{4}$.
 
 (2) Multiply the first equation by $12$: $8x+9y=17$; multiply the second by $6$: $x-3y=-2$, i.e. $x=3y-2$. Substitute: $8\left(3y-2\right)+9y=17$, i.e. $33y=33$, $y=1$, $x=1$. $\blacksquare$
-
----
 
 ## Problem 2
 
@@ -213,8 +191,6 @@ $$
 
 Solving gives $x=48$, $y=50$. First-day average speed $\frac{48}{8}=6\ \text{km/h}$, second-day average speed $\frac{50}{10}=5\ \text{km/h}$. $\blacksquare$
 
----
-
 ## Problem 3
 
 (Exercise 10.3, Review and Consolidation, Problem 3) From *Algorithms Unified*: seven guests per room leaves seven guests over; nine guests per room leaves one room empty. How many guest rooms does the inn have, and how many guests arrived?
@@ -231,8 +207,6 @@ $$
 $$
 
 $7x+7=9x-9$, giving $x=8$, $y=63$. Thus there are $8$ guest rooms and $63$ guests. $\blacksquare$
-
----
 
 ## Problem 4
 
@@ -251,8 +225,6 @@ $$
 
 Substitute: $3\left(y+25\right)+2y=450$, i.e. $5y=375$, $y=75$, $x=100$. Thus type A is $100\ \text{t}$ and type B is $75\ \text{t}$. $\blacksquare$
 
----
-
 ## Problem 5
 
 (Exercise 10.3, Comprehensive Application, Problem 5) As shown in the figure, the school plans to design horizontal and vertical paths parallel to $AD$ and $AB$ respectively on a rectangular field $ABCD$ of length $18\ \text{m}$ and width $13\ \text{m}$, with turf laid on the rest. If the paths have equal width and the six lawn patches are identical in shape and size, and on one lawn patch the two sides satisfy $AM:AN=8:9$, what is the width of the path?
@@ -266,8 +238,6 @@ Let the path width be $d\ \text{m}$, each lawn patch width $w\ \text{m}$, and he
 Field width $18\ \text{m}$: $3w+2d=18$; field height $13\ \text{m}$: $2h+d=13$.
 
 Substitute: $24k+2d=18$, $18k+d=13$. From the second equation $d=13-18k$; substitute into the first: $24k+2\left(13-18k\right)=18$, i.e. $-12k=-8$, $k=\frac{2}{3}$, so $d=13-18\times\frac{2}{3}=1$. The path width is $1\ \text{m}$. $\blacksquare$
-
----
 
 ## Problem 6
 
@@ -288,8 +258,6 @@ Simplify: $2x+0.5z=25$, i.e. $z=50-4x$; $77.5x+20z=975$. Substitute: $77.5x+20\l
 
 The total number is $10+50+10=70$. $\blacksquare$
 
----
-
 ## Problem 7
 
 (Exercise 10.3, Comprehensive Application, Problem 7) A stationery store sells type A and type B writing brushes: type A up to $20$ brushes at retail price, and beyond that $0.4$ yuan cheaper per brush; type B up to $15$ brushes at retail price, and beyond that $0.6$ yuan cheaper per brush. A group of $20$ students each buys $1$ type A and $2$ type B, paying $325$ yuan in total; each buys $2$ type A and $1$ type B, paying $309$ yuan in total. What are the retail prices of type A and type B brushes?
@@ -303,8 +271,6 @@ First purchase: $20$ type A in total (exactly up to $20$, all at retail), $40$ t
 Second purchase: $40$ type A in total (of which $20$ at $a$ and $20$ at $a-0.4$), $20$ type B (of which $15$ at $b$ and $5$ at $b-0.6$). Cost $20a+20\left(a-0.4\right)+15b+5\left(b-0.6\right)=309$, i.e. $2a+b=16$.
 
 Solving: $a+2b=17$, $2a+b=16$, giving $a=5$, $b=6$. Thus type A retail price is $5$ yuan and type B is $6$ yuan. $\blacksquare$
-
----
 
 ## Problem 8
 
@@ -324,8 +290,6 @@ $$
 Divide the first equation by $3$: $13x+7y=132$. Divide the second by $4$: $13x+7y=129.5$.
 
 The left sides are the same but the right sides are $132\ne129.5$, a contradiction; thus the record is erroneous. $\blacksquare$
-
----
 
 ## Problem 9
 

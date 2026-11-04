@@ -1,7 +1,5 @@
 # week19
 
----
-
 ## Exercise 1
 
 (Exercise 5.1, Problem 1) Type A pencils cost $1.4$ yuan each, and type B pencils cost $1.8$ yuan each. With $23$ yuan, $15$ pencils of these two types were bought in total. How many pencils of each type were bought? (Just set up the equation.)
@@ -15,8 +13,6 @@ Let $x$ be the number of type A pencils bought; then $\left(15-x\right)$ type B 
 $$1.4x+1.8\left(15-x\right)=23.$$
 
 $\blacksquare$
-
----
 
 ## Exercise 2
 
@@ -32,8 +28,6 @@ $$90-x=40+x.$$
 
 $\blacksquare$
 
----
-
 ## Exercise 3
 
 (Exercise 5.1, Problem 3) The area of an annular workpiece is $200\ \text{cm}^{2}$, and the radius of the outer large circle is $10\ \text{cm}$. What is the radius of the inner small circle in centimeters? (Just set up the equation.)
@@ -48,8 +42,6 @@ $$100\pi-\pi r^{2}=200.$$
 
 $\blacksquare$
 
----
-
 ## Exercise 4
 
 (Exercise 5.1, Problem 1) Determine whether $x=2$ and $x=4$ are solutions of the equation $2x-3=5$.
@@ -61,8 +53,6 @@ By Solution of an Equation, substitute and check whether the left and right side
 When $x=2$, the left side $=2\times2-3=1$, the right side $=5$, and the left side $\ne$ the right side, so $x=2$ is not a solution of this equation.
 
 When $x=4$, the left side $=2\times4-3=5$, the right side $=5$, and the left side $=$ the right side, so $x=4$ is a solution of this equation. $\blacksquare$
-
----
 
 ## Exercise 5
 
@@ -83,8 +73,6 @@ By Equation and Linear Equation in One Variable.
 (2) $8y-9=9-y$ contains the unknown $y$, so it is an equation; it contains only one unknown of degree $1$, so it is a linear equation in one variable.
 
 (3) $x^{2}+2x+1=4$ contains the unknown $x$, so it is an equation; but the degree of $x$ is $2$, so it is not a linear equation in one variable. $\blacksquare$
-
----
 
 ## Exercise 6
 
@@ -110,8 +98,6 @@ By Properties of Equality 1 and Properties of Equality 2.
 
 (4) By property 2, divide both sides by $3$, so $x=2y$; fill in $2$. $\blacksquare$
 
----
-
 ## Exercise 7
 
 (Exercise 5.1, Problem 2) Use the properties of equality to solve the following equations and check:
@@ -135,8 +121,6 @@ By Properties of Equality 1 and Properties of Equality 2, transform the equation
 (3) Subtract $4$ from both sides, giving $5x=-4$; divide both sides by $5$, giving $x=-\frac{4}{5}$.
 
 (4) Subtract $2$ from both sides, giving $-\frac{1}{4}x=1$; multiply both sides by $-4$, giving $x=-4$. $\blacksquare$
-
----
 
 ## Problem 1
 
@@ -170,8 +154,6 @@ By Equation, translate the verbal language into equations.
 
 (6) $\frac{1}{2}b-7=a+b$. $\blacksquare$
 
----
-
 ## Problem 2
 
 (Problem 5.1, Review and Consolidation, Problem 2) Set up equations according to the quantities marked in the figures:
@@ -200,8 +182,6 @@ $$\frac{1}{2}x\left(x-1\right)=6.$$
 
 $\blacksquare$
 
----
-
 ## Problem 3
 
 (Problem 5.1, Review and Consolidation, Problem 3) Which of the following equations has $x=3$, $x=0$, and $x=-2$ as its respective solutions?
@@ -225,8 +205,6 @@ By Solution of an Equation, substitute and check.
 (3) Substituting $x=3$: left side $=9-2=7$, right side $=4+3=7$, so $x=3$ is the solution of (3).
 
 (4) Substituting $x=1$ (a value not given): left side $=-1$, right side $=-1$; none of the three given values is a solution of (4). $\blacksquare$
-
----
 
 ## Problem 4
 
@@ -252,8 +230,6 @@ By Transposition Rule and Combining Like Terms, transform the equation into the 
 
 (4) Add $2$ to both sides, giving $4x=4$; divide both sides by $4$, giving $x=1$. $\blacksquare$
 
----
-
 ## Problem 5
 
 (Problem 5.1, Comprehensive Application, Problem 5) Class (1) of Grade 7 in a school has $48$ students in total, and the number of girls is $3$ more than $\frac{4}{5}$ of the number of boys. How many boys are in this class? (Just set up the equation.)
@@ -267,8 +243,6 @@ The number of girls is $\frac{4}{5}x+3$, and the total is the sum of boys and gi
 $$x+\frac{4}{5}x+3=48.$$
 
 $\blacksquare$
-
----
 
 ## Problem 6
 
@@ -284,8 +258,6 @@ $$800x+400\left(20-x\right)=10000.$$
 
 $\blacksquare$
 
----
-
 ## Problem 7
 
 (Problem 5.1, Comprehensive Application, Problem 7) Last year the per capita disposable income of residents in a town was $30438$ yuan, an increase of $6.8\%$ over the year before last. What was the per capita disposable income of this town's residents in the year before last? (Just set up the equation.)
@@ -299,8 +271,6 @@ Last year's income is $x\left(1+6.8\%\right)$, i.e. $1.068x$. The equation is
 $$1.068x=30438.$$
 
 $\blacksquare$
-
----
 
 ## Problem 8
 
@@ -316,8 +286,6 @@ $$12000+800x=20800.$$
 
 $\blacksquare$
 
----
-
 ## Problem 9
 
 (Problem 5.1, Comprehensive Application, Problem 9) A cylindrical packaging box has height $12\ \text{cm}$ and surface area $108.5\pi\ \text{cm}^{2}$. What is the radius of its base in centimeters? (Just set up the equation.)
@@ -332,8 +300,6 @@ $$2\pi r^{2}+24\pi r=108.5\pi.$$
 
 $\blacksquare$
 
----
-
 ## Problem 10
 
 (Problem 5.1, Comprehensive Application, Problem 10) All the students in Class (1) of Grade 7 donated $428$ yuan, and each student in Class (2) of Grade 7 donated an average of $10$ yuan; the donation of Class (1) is $22$ yuan less than that of Class (2). How many students are in Class (2)? (Just set up the equation.)
@@ -347,8 +313,6 @@ The total donation of Class (2) is $10x$ yuan, and the donation of Class (1) is 
 $$10x-22=428.$$
 
 $\blacksquare$
-
----
 
 ## Problem 11
 

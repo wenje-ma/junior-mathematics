@@ -1,7 +1,5 @@
 # week120
 
----
-
 ## Exercise 1
 
 (Exercise 24.2, Problem 1) Two athletes, A and B, take a free-throw shooting test. Each shoots $10$ groups of $10$ shots. A's hit counts: $8$, $6$, $9$, $10$, $7$, $8$, $6$, $9$, $7$, $8$. B's hit counts: $7$, $8$, $8$, $7$, $9$, $8$, $7$, $8$, $8$, $7$. Which athlete's shooting is more consistent?

@@ -1,7 +1,5 @@
 # week43
 
----
-
 ## Activity 1
 
 (Mathematical Activity, Activity 1) Describe the positions of park attractions using coordinates. Spring has arrived; Grade 7 Class (2) organizes a spring outing to People's Park. Li Ming and Zhang Hua describe the position of the Peony Garden against the scenic schematic (the side length of each small square in the figure represents $100\,m$) as follows.
@@ -21,8 +19,6 @@ Li Ming takes the Central Square as the origin, east as the positive $x$-axis di
 Zhang Hua's "about $420\,m$ northeast" means the Peony Garden lies in the northeast (north by east $45^\circ$) direction of the Central Square. By the Pythagorean theorem, both the horizontal and vertical distances are about $300\,m$, and the distance is $\sqrt{300^2+300^2}\approx 420\,m$. This is describing a position using a direction angle plus a distance.
 
 Similarly, one can describe the positions of attractions such as Yintai Terrace, Lake Pavilion, Wangchun Pavilion, Amusement Park, South Gate, West Gate, and East Gate using coordinates (Li Ming's method) or direction-and-distance (Zhang Hua's method). $\blacksquare$
-
----
 
 ## Activity 2
 

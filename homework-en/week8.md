@@ -1,7 +1,5 @@
 # week8
 
----
-
 ## Activity 1
 
 (Math Activity, Activity 1, Organizing Household Income and Expenditure Accounts, Problem 1) Help a family record one month (or one week) of living income and expenditure accounts, recording income as positive and expenditure as negative; compute the total income, total expenditure, total balance, and average daily expenditure for the month (or week), and make reasonable suggestions for the family's expenditure.
@@ -11,8 +9,6 @@
 By Rules for Addition of Rational Numbers, the total income, total expenditure, and total balance are respectively the algebraic sums of the income and expenditure data.
 
 Let the daily income/expenditure of a certain week be in turn $a_{1}$, $a_{2}$, $\cdots$, $a_{7}$ (income positive, expenditure negative). The total income is the sum of all the positive numbers, the total expenditure is the sum of the absolute values of all the negative numbers, and the total balance is the sum of the seven numbers. The average daily expenditure equals the total expenditure divided by the number of days, $7$. Comparing the proportions of the various expenditures, one can make reasonable suggestions for the family's expenditure. $\blacksquare$
-
----
 
 ## Activity 2
 

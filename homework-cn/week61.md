@@ -1,7 +1,5 @@
 # week61
 
----
-
 ## 练习一
 
 (练习 13.1 第 1 题) 如图, 在 $\triangle ABC$ 中, $AB=BC=CA$, 点 $O$ 在 $\triangle ABC$ 内, $OA=OB=OC$, 找出图中的等腰三角形和等边三角形.
@@ -17,8 +15,6 @@
 由 $AB=BC=CA$, 知 $\triangle ABC$ 三边都相等, 故 $\triangle ABC$ 是等边三角形. 又由 $OA=OB$, 知 $\triangle OAB$ 是等腰三角形; 由 $OB=OC$, 知 $\triangle OBC$ 是等腰三角形; 由 $OC=OA$, 知 $\triangle OCA$ 是等腰三角形.
 
 故等腰三角形为 $\triangle OAB$, $\triangle OBC$, $\triangle OCA$, 等边三角形为 $\triangle ABC$. $\blacksquare$
-
----
 
 ## 练习二
 
@@ -38,8 +34,6 @@ $\triangle ABE$ 中, $\angle ABE=\angle ABC$ 为锐角 ($\triangle ABC$ 为直�
 
 综上, 直角三角形为 $\triangle ABC$, $\triangle ABD$, $\triangle ADE$, $\triangle ADC$; 锐角三角形为 $\triangle ABE$; 钝角三角形为 $\triangle AEC$. $\blacksquare$
 
----
-
 ## 习题一
 
 (习题 13.1 复习巩固第 1 题) 如图, 写出以 $\angle A$ 为角的三角形, 写出以 $BC$ 为边的三角形.
@@ -52,8 +46,6 @@ $\triangle ABE$ 中, $\angle ABE=\angle ABC$ 为锐角 ($\triangle ABC$ 为直�
 
 故以 $\angle A$ 为角的三角形是 $\triangle ABC$, $\triangle ABE$; 以 $BC$ 为边的三角形是 $\triangle ABC$, $\triangle BEC$, $\triangle BCD$. $\blacksquare$
 
----
-
 ## 习题二
 
 (习题 13.1 复习巩固第 2 题) 图中有几个三角形? 用符号表示这些三角形.
@@ -65,8 +57,6 @@ $\triangle ABE$ 中, $\angle ABE=\angle ABC$ 为锐角 ($\triangle ABC$ 为直�
 右图中, 点 $B,D,E,C$ 在同一条直线上, 点 $A$ 为该直线外一点, 且 $AB$, $AD$, $AE$, $AC$ 均已画出. 任取直线 $BC$ 上两点与点 $A$ 即可构成一个三角形, 共 $\binom{4}{2}=6$ 个.
 
 它们是 $\triangle ABC$, $\triangle ABD$, $\triangle ABE$, $\triangle ADE$, $\triangle ADC$, $\triangle AEC$. 故图中共有 $6$ 个三角形. $\blacksquare$
-
----
 
 ## 习题三
 
@@ -88,8 +78,6 @@ $\triangle ABE$ 中, $\angle ABE=\angle ABC$ 为锐角 ($\triangle ABC$ 为直�
 
 综上, 直角三角形为 $\triangle ABD$, $\triangle ADE$, $\triangle ADC$, $\triangle AEF$, $\triangle EFC$; 钝角三角形为 $\triangle ABC$, $\triangle AEC$; 锐角三角形为 $\triangle ABE$. $\blacksquare$
 
----
-
 ## 习题四
 
 (习题 13.1 综合运用第 4 题) 如图, $AB=BC=CD=DA=AC$, 找出图中的等腰三角形和等边三角形.
@@ -103,8 +91,6 @@ $\triangle ABE$ 中, $\angle ABE=\angle ABC$ 为锐角 ($\triangle ABC$ 为直�
 由 $AB=BC=AC$, 知 $\triangle ABC$ 三边相等, 是等边三角形; 由 $AD=DC=AC$, 知 $\triangle ADC$ 三边相等, 也是等边三角形.
 
 故等腰三角形为 $\triangle ABC$, $\triangle ADC$; 等边三角形为 $\triangle ABC$, $\triangle ADC$. $\blacksquare$
-
----
 
 ## 习题五
 

@@ -1,7 +1,5 @@
 # week139
 
----
-
 ## Exercise 1
 
 (Exercise 27.1, Problem 1) Use function expressions to represent the relation between the variables in the following problems:

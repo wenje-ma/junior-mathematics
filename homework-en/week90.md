@@ -1,7 +1,5 @@
 # week90
 
----
-
 ## Exercise 1
 
 (Exercise 18.4, Problem 1) Fill in the blanks:

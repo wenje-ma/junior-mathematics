@@ -1,7 +1,5 @@
 # week134
 
----
-
 ## Exercise 1
 
 (Exercise 26.2, Problem 1) In the same rectangular coordinate system, draw the graphs of the following quadratic functions:

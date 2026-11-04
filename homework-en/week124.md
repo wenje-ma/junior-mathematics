@@ -1,7 +1,5 @@
 # week124
 
----
-
 ## Review Problem 1
 
 (Review, Review and Consolidation, Problem 1) Determine whether the following statements are correct; if not, give a counterexample.

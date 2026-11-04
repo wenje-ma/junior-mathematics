@@ -1,7 +1,5 @@
 # week146
 
----
-
 ## Review Problem 1
 
 (Review Problem 28, Review and Consolidation, Problem 1) As shown in the figure, from what basic figure, and through what kind of rotation, is the pattern obtained?

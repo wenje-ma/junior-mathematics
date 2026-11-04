@@ -1,7 +1,5 @@
 # week2
 
----
-
 ## Exercise 1
 
 (Exercise 1.2, Problem 1) All positive rational numbers form the set of positive rational numbers, and all negative rational numbers form the set of negative rational numbers. Place the following rational numbers into the sets to which they belong:
@@ -20,8 +18,6 @@ Also, $-\frac{1}{9}$, $-5$, $-80$, $-4.2$ all have the sign "$-$" prefixed to po
 
 Hence the set of positive rational numbers is $\left\{15,\ 7,\ 0.5,\ 12,\ 2.3,\ \cdots\right\}$; the set of negative rational numbers is $\left\{-\frac{1}{9},\ -5,\ -80,\ -4.2,\ \cdots\right\}$. $\blacksquare$
 
----
-
 ## Exercise 2
 
 (Exercise 1.2, Problem 2) Identify the positive rational numbers, negative rational numbers, and integers among the following:
@@ -38,8 +34,6 @@ Also, $-15$, $-2$, $-0.\dot{4}$, $-\frac{10}{3}$ all have the sign "$-$" prefixe
 
 Among them, $-15$, $+6$, $-2$, $1$, $0$ are integers. $\blacksquare$
 
----
-
 ## Exercise 3
 
 (Exercise 1.2, Problem 3) Among $-12$, $\frac{4}{7}$, $19\%$, $50$, $-3.\dot{1}\dot{2}$, $-11$, $-5\%$, $6.3$, $2022$, the number of positive rational numbers is $\;\_\_\;$, among which the number of positive integers is $\;\_\_\;$; the number of negative rational numbers is $\;\_\_\;$, among which the number of negative integers is $\;\_\_\;$.
@@ -51,8 +45,6 @@ By Rational Numbers and Integers and Fractions.
 Among the given numbers, those greater than $0$ are $\frac{4}{7}$, $19\%$, $50$, $6.3$, $2022$, totaling $5$, so there are $5$ positive rational numbers; among them, the positive integers are $50$, $2022$, totaling $2$.
 
 Those obtained by prefixing a positive number with the sign "$-$" are $-12$, $-3.\dot{1}\dot{2}$, $-11$, $-5\%$, totaling $4$, so there are $4$ negative rational numbers; among them, the negative integers are $-12$, $-11$, totaling $2$. $\blacksquare$
-
----
 
 ## Exercise 4
 
@@ -68,8 +60,6 @@ From the figure, point $A$ is at the origin and represents $0$; point $B$ is to 
 
 Hence the numbers represented by points $A$, $B$, $C$, $D$, $E$ are $0$, $-2$, $1$, $-3$, $2.5$ respectively. $\blacksquare$
 
----
-
 ## Exercise 5
 
 (Exercise 1.2, Problem 2) Draw a number line and represent the following rational numbers on it:
@@ -83,8 +73,6 @@ On a number line with origin $0$, rightward as the positive direction, and unit 
 By Number Line, take the origin $0$, specify rightward as the positive direction, and choose an appropriate unit length. The positions of the numbers on the number line are: $-\frac{7}{2}=-3.5$, $-\frac{1}{2}=-0.5$, $\frac{3}{2}=1.5$, $\frac{9}{2}=4.5$.
 
 The corresponding points of the numbers on the number line are: $-5$ is $5$ grids to the left of the origin, $-3.5$ is $3.5$ grids to the left of the origin, $-0.5$ is $0.5$ grids to the left of the origin, $1.5$ is $1.5$ grids to the right of the origin, $3.5$ is $3.5$ grids to the right of the origin, $4.5$ is $4.5$ grids to the right of the origin, and $5$ is $5$ grids to the right of the origin, as shown in the figure. $\blacksquare$
-
----
 
 ## Exercise 6
 
@@ -100,8 +88,6 @@ There are $7$ in total. Among them, the negative integers are $-2$, $-1$, totali
 
 Hence fill in in turn: $7$; $-2$, $-1$, $0$, $1$, $2$, $3$, $4$; $2$. $\blacksquare$
 
----
-
 ## Exercise 7
 
 (Exercise 1.2, Problem 4) On the number line, point $A$ represents the number $-3$. Starting from point $A$, one moves $4$ unit lengths along the number line in a certain direction to reach point $B$. What number does point $B$ represent?
@@ -113,8 +99,6 @@ By Number Line, moving rightward increases the number, and moving leftward decre
 Point $A$ represents $-3$. If one moves rightward by $4$ unit lengths, then point $B$ represents $-3+4=1$; if one moves leftward by $4$ unit lengths, then point $B$ represents $-3-4=-7$.
 
 Hence the number represented by point $B$ is $1$ or $-7$. $\blacksquare$
-
----
 
 ## Exercise 8
 
@@ -148,8 +132,6 @@ By Opposite Numbers, an opposite number is a relationship between two numbers, a
 
 (6) any number $a$ has the opposite number $-a$; hence it is true. $\blacksquare$
 
----
-
 ## Exercise 9
 
 (Exercise 1.2, Problem 2) Write down the opposite number of each of the following:
@@ -162,8 +144,6 @@ By Opposite Numbers, prefixing a number with the sign "$-$" gives its opposite n
 
 The opposite number of $-\frac{9}{4}$ is $\frac{9}{4}$; the opposite number of $6$ is $-6$; the opposite number of $-8$ is $8$; the opposite number of $-3.5$ is $3.5$; the opposite number of $\frac{5}{2}$ is $-\frac{5}{2}$; the opposite number of $10$ is $-10$; the opposite number of $-100$ is $100$; the opposite number of $\frac{1}{3}$ is $-\frac{1}{3}$. $\blacksquare$
 
----
-
 ## Exercise 10
 
 (Exercise 1.2, Problem 3) If $a=-a$, then where is the point representing the number $a$ located on the number line?
@@ -175,8 +155,6 @@ By Opposite Numbers, $a$ and $-a$ are opposites of each other.
 If $a=-a$, then $a$ equals its own opposite number. By Opposite Numbers, the opposite number of $0$ is $0$, that is, $-0=0$. Hence the only number satisfying $a=-a$ is $a=0$.
 
 By Number Line, the point representing $0$ is the origin, so the point representing the number $a$ is at the origin of the number line. $\blacksquare$
-
----
 
 ## Exercise 11
 
@@ -192,8 +170,6 @@ $-\left(-7\right)$ represents the opposite number of $-7$, namely $7$; $-\left(+
 
 Hence the expressions simplify respectively to $7$, $-0.5$, $68$, $-3.8$. $\blacksquare$
 
----
-
 ## Exercise 12
 
 (Exercise 1.2, Problem 1) Write down the absolute value of each of the following:
@@ -207,8 +183,6 @@ By Algebraic Meaning of Absolute Value, the absolute value of a positive number 
 $8$ is positive, so $\left|8\right|=8$; $-3.9$ is negative, so $\left|-3.9\right|=3.9$; $-\frac{2}{11}$ is negative, so $\left|-\frac{2}{11}\right|=\frac{2}{11}$; $100$ is positive, so $\left|100\right|=100$; $7.5$ is positive, so $\left|7.5\right|=7.5$; $\left|0\right|=0$.
 
 Also, $-\left(-13\right)=13$, so $\left|-\left(-13\right)\right|=\left|13\right|=13$; $-\left(+18\right)=-18$, so $\left|-\left(+18\right)\right|=\left|-18\right|=18$. $\blacksquare$
-
----
 
 ## Exercise 13
 
@@ -230,8 +204,6 @@ By Absolute Value and Algebraic Meaning of Absolute Value.
 
 (3) The integers whose absolute value is less than $2$ satisfy $\left|a\right|< 2$, that is, $-2< a< 2$; the integers among them are $-1$, $0$, $1$, which are more than just $1$ and $-1$; hence it is false. $\blacksquare$
 
----
-
 ## Exercise 14
 
 (Exercise 1.2, Problem 3) If $\left|a\right|=\left|-2\right|$, then $a=\;\_\_\;$; if $m$ is a negative number and $\left|m\right|=10$, then $m=\;\_\_\;$.
@@ -244,8 +216,6 @@ On the number line there are two points whose distance from the origin is $2$ un
 
 Also, $m$ is a negative number and $\left|m\right|=10$. By Algebraic Meaning of Absolute Value, the absolute value of a negative number is its opposite number, so $m=-10$. $\blacksquare$
 
----
-
 ## Exercise 15
 
 (Exercise 1.2, Problem 4) Simplify each of the following:
@@ -257,8 +227,6 @@ $$+\left|-3.5\right|,\ -\left|+\frac{5}{6}\right|,\ -\left|-11\right|,\ \left|+\
 By Algebraic Meaning of Absolute Value and Opposite Numbers.
 
 $+\left|-3.5\right|=\left|3.5\right|=3.5$; $-\left|+\frac{5}{6}\right|=-\left|\frac{5}{6}\right|=-\frac{5}{6}$; $-\left|-11\right|=-\left|11\right|=-11$; $\left|+\left(-15\right)\right|=\left|-15\right|=15$; $\left|-\left(-7\right)\right|=\left|7\right|=7$; $\left|-\left(+9\right)\right|=\left|-9\right|=9$. $\blacksquare$
-
----
 
 ## Exercise 16
 
@@ -292,8 +260,6 @@ By Comparing the Magnitude of Rational Numbers, a positive number is greater tha
 
 (6) $-\left(-0.3\right)=0.3$, $\left|-\frac{1}{3}\right|=\frac{1}{3}$. Since $0.3< \frac{1}{3}$, we get $-\left(-0.3\right)< \left|-\frac{1}{3}\right|$. $\blacksquare$
 
----
-
 ## Exercise 17
 
 (Exercise 1.2, Problem 2) Arrange each group of numbers below in order from smallest to largest, and connect them with "$< $":
@@ -316,8 +282,6 @@ $$-\frac{3}{2}< -\frac{1}{2}< -0.3< -\frac{1}{4}< 0< +2.3.$$
 
 $\blacksquare$
 
----
-
 ## Exercise 18
 
 (Exercise 1.2, Problem 3) Below are the average January temperatures of several cities in China in a certain year. Arrange these temperatures in order from highest to lowest.
@@ -335,8 +299,6 @@ Hence arranged from highest to lowest:
 $$13.1> 3.8> 2.4> -4.6> -19.4.$$
 
 That is, Guangzhou $> $ Wuhan $> $ Nanjing $> $ Beijing $> $ Harbin. $\blacksquare$
-
----
 
 ## Problem 1
 
@@ -358,8 +320,6 @@ Among them, the integers are $3$, $0$, $120$, $-77$.
 
 Hence the set of positive rational numbers is $\left\{3,\ 1\frac{3}{4},\ 0.45,\ 120,\ 0.\dot{3},\ \cdots\right\}$; the set of negative rational numbers is $\left\{-\frac{4}{5},\ -77,\ -2.56,\ -123\frac{1}{2},\ \cdots\right\}$; the set of integers is $\left\{3,\ 0,\ 120,\ -77,\ \cdots\right\}$. $\blacksquare$
 
----
-
 ## Problem 2
 
 (Exercise 1.2, Review and Consolidation, Problem 2) As shown in the figure, on the number line the number represented by point $A$ is $\;\_\_\;$, the number represented by point $B$ is $\;\_\_\;$, the number represented by point $C$ is $\;\_\_\;$, the number represented by point $D$ is $\;\_\_\;$, the number represented by point $E$ is $\;\_\_\;$.
@@ -374,8 +334,6 @@ From the figure, point $A$ is at the origin and represents $0$; point $B$ is to 
 
 Hence fill in in turn: $0$; $2$; $-2.5$; $-3$; $2.5$. $\blacksquare$
 
----
-
 ## Problem 3
 
 (Exercise 1.2, Review and Consolidation, Problem 3) The opposite number of $7$ is $\;\_\_\;$, $-\frac{1}{4}$ is the opposite number of $\;\_\_\;$, and the number whose opposite number is itself is $\;\_\_\;$.
@@ -387,8 +345,6 @@ By Opposite Numbers, prefixing a number with the sign "$-$" gives its opposite n
 The opposite number of $7$ is $-7$. $-\frac{1}{4}$ and $\frac{1}{4}$ are opposites of each other, so $-\frac{1}{4}$ is the opposite number of $\frac{1}{4}$. Also, the opposite number of $0$ is $0$, so the number whose opposite number is itself is $0$.
 
 Hence fill in in turn: $-7$; $\frac{1}{4}$; $0$. $\blacksquare$
-
----
 
 ## Problem 4
 
@@ -403,8 +359,6 @@ By Algebraic Meaning of Absolute Value.
 $\left|-9\right|=9$; $\left|3.75\right|=3.75$; $\left|0\right|=0$; $\left|\frac{4}{3}\right|=\frac{4}{3}$; $\left|-0.001\right|=0.001$; $\left|-1\right|=1$.
 
 Comparing the absolute values: $9> 3.75> 1> \frac{4}{3}> 0.001> 0$. Hence $-9$ has the largest absolute value and $0$ has the smallest. $\blacksquare$
-
----
 
 ## Problem 5
 
@@ -438,8 +392,6 @@ By Comparing the Magnitude of Rational Numbers, for two negative numbers, the on
 
 (6) $-\left(-3\right)=3$, $-\left|-3.01\right|=-3.01$; a positive number is greater than a negative number, so $3> -3.01$, that is, $-\left(-3\right)> -\left|-3.01\right|$. $\blacksquare$
 
----
-
 ## Problem 6
 
 (Exercise 1.2, Comprehensive Application, Problem 6) Represent the following numbers on the number line:
@@ -453,8 +405,6 @@ On a number line with origin $0$, rightward as the positive direction, and unit 
 By Number Line, take the origin $0$, take rightward as the positive direction, and choose a unit length. Among them, $2\frac{4}{5}=2.8$, $-2\frac{4}{5}=-2.8$, $\frac{1}{2}=0.5$.
 
 The corresponding points of the numbers on the number line are: $-2.8$ is $2.8$ grids to the left of the origin, $-2$ is $2$ grids to the left of the origin, $-0.5$ is $0.5$ grids to the left of the origin, $0$ is the origin, $0.5$ is $0.5$ grids to the right of the origin, $1.2$ is $1.2$ grids to the right of the origin, $2$ is $2$ grids to the right of the origin, and $2.8$ is $2.8$ grids to the right of the origin, as shown in the figure. $\blacksquare$
-
----
 
 ## Problem 7
 
@@ -476,8 +426,6 @@ Nearsightedness exceeding $200$ degrees means the absolute value is greater than
 
 Hence $2$ students need to continuously wear glasses. $\blacksquare$
 
----
-
 ## Problem 8
 
 (Exercise 1.2, Extension and Exploration, Problem 8) On the number line, if points $A$ and $B$ represent two numbers that are opposites of each other, and the distance between these two points is $5$, then what are the numbers represented by these two points?
@@ -491,8 +439,6 @@ Let point $A$ represent $a$; then point $B$ represents $-a$. The distance betwee
 Hence $\left|a\right|=\frac{5}{2}=2.5$, that is, $a=2.5$ or $a=-2.5$.
 
 Hence the numbers represented by these two points are $2.5$ and $-2.5$. $\blacksquare$
-
----
 
 ## Problem 9
 

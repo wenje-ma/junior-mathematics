@@ -1,11 +1,5 @@
 # week166
 
----
-
----
-
----
-
 > **Criterion Theorem 27.2.2** (SSS) 
 > 
 > Two triangles whose three sides are proportional are similar.
@@ -193,4 +187,4 @@ h=1255+5=1260\ \text{步}.
 $$
 
 Thus the peak height is $AB=1260$ bu, and the horizontal distance is $BD=30750$ bu. $\blacksquare$
-
+

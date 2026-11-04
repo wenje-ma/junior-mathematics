@@ -1,11 +1,5 @@
 # week164
 
----
-
----
-
----
-
 ## Exercise 1
 
 (Exercise 27.3, Problem 1) As shown in the figure, $\triangle OAB$ and $\triangle OCD$ are homothetic figures. Are $AB$ and $CD$ parallel? Why?
@@ -133,4 +127,4 @@ By Basic Knowledge and Basic Knowledge.
 (2) When $O$ is the origin, both the ratio of the x-coordinates and the ratio of the y-coordinates of corresponding points equal $k$.
 
 (3) $\frac{OA'}{OA}=\frac{OB'}{OB}=\frac{OC'}{OC}=k$, i.e. the ratio of the distances from the center of homothety to the corresponding points equals the similarity ratio. $\blacksquare$
-
+

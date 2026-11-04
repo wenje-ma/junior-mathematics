@@ -1,7 +1,5 @@
 # week56
 
----
-
 ## Exercise 1
 
 (Exercise 12.1, Problem 1) Is the design of the following survey questions appropriate? Why?
@@ -20,8 +18,6 @@
 
 (3) Not appropriate. The statement first asserts "most students think", which induces the respondents; it is a leading question. $\blacksquare$
 
----
-
 ## Exercise 2
 
 (Exercise 12.1, Problem 2) Is the design of the following options appropriate?
@@ -36,8 +32,6 @@
 
 (2) Not appropriate. "Playing soccer" is a kind of "sports activity"; there is an inclusion relation among the options, making it hard for respondents to choose. $\blacksquare$
 
----
-
 ## Exercise 3
 
 (Exercise 12.1, Problem 3) Give an example of using a comprehensive survey in daily life.
@@ -46,8 +40,6 @@
 
 Measuring the heights of all students in a certain class to understand the height situation of that class is a comprehensive survey. $\blacksquare$
 
----
-
 ## Exercise 4
 
 (Exercise 12.1, Problem 4) To estimate the yield of seawater rice on $500$ equal-sized experimental fields, $50$ fields are drawn by simple random sampling for yield measurement. Identify the population, individual, sample and sample size of this sample survey.
@@ -55,8 +47,6 @@ Measuring the heights of all students in a certain class to understand the heigh
 ### Solution to Exercise 4
 
 By Population and Individual through Sample and Sample Size, the population is the yields of these $500$ experimental fields; the individual is the yield of each experimental field; the sample is the yields of the $50$ drawn experimental fields; the sample size is $50$. $\blacksquare$
-
----
 
 ## Exercise 5
 
@@ -72,8 +62,6 @@ By Population and Individual through Sample and Sample Size, the population is t
 
 (2) It cannot. The sample is only the $3$ students next to him, not randomly drawn; it lacks representativeness and cannot objectively reflect the heights of all students in the school. $\blacksquare$
 
----
-
 ## Exercise 6
 
 (Exercise 12.1, Problem 6) The names of the whole class are written on indistinguishable small slips of paper; after thorough stirring, $3$ slips are randomly drawn. Is this simple random sampling?
@@ -81,8 +69,6 @@ By Population and Individual through Sample and Sample Size, the population is t
 ### Solution to Exercise 6
 
 By Simple Random Sampling, every student has an equal chance of being selected, the slips are indistinguishable, and they are randomly drawn after stirring; hence it is simple random sampling. $\blacksquare$
-
----
 
 ## Exercise 7
 
@@ -106,8 +92,6 @@ By Simple Random Sampling, every student has an equal chance of being selected, 
 
 (4) Sample survey; the testing is destructive. $\blacksquare$
 
----
-
 ## Problem 1
 
 (Exercise 12.1, Review and Consolidation, Problem 1) Two ways of asking: (1) "Don't you think science-fiction films are more interesting than documentaries?" (2) "Which kind of film do you prefer, science-fiction films or documentaries?" Which is better?
@@ -115,8 +99,6 @@ By Simple Random Sampling, every student has an equal chance of being selected, 
 ### Solution to Problem 1
 
 The way in (2) is better. The way in (1) uses a rhetorical question with an obvious leading tendency and will induce the respondents; the way in (2) neutrally gives two options without subjective tendency. $\blacksquare$
-
----
 
 ## Problem 2
 
@@ -128,8 +110,6 @@ The way in (2) is better. The way in (1) uses a rhetorical question with an obvi
 
 By Simple Random Sampling, the sample should be randomly drawn from all students in the school. Hence choose (D). $\blacksquare$
 
----
-
 ## Problem 3
 
 (Exercise 12.1, Review and Consolidation, Problem 3) On a certain Sunday, a tea shop surveyed the first $50$ customers; more than half thought lemon tea was the most popular. Does this show that most customers like lemon tea best?
@@ -137,8 +117,6 @@ By Simple Random Sampling, the sample should be randomly drawn from all students
 ### Solution to Problem 3
 
 It does not. The survey was taken only on a certain Sunday and only from the first $50$ customers; the sample lacks representativeness and breadth, and one cannot infer most customers' preference from it. $\blacksquare$
-
----
 
 ## Problem 4
 
@@ -156,8 +134,6 @@ It does not. The survey was taken only on a certain Sunday and only from the fir
 
 (1) Comprehensive survey; (2) sample survey (destructive); (3) sample survey (destructive); (4) comprehensive survey (small scope). $\blacksquare$
 
----
-
 ## Problem 5
 
 (Exercise 12.1, Comprehensive Application, Problem 5) To understand the birth-month distribution of the whole class, conduct a comprehensive survey of the class; design a questionnaire and organize the data in a table.
@@ -166,8 +142,6 @@ It does not. The survey was taken only on a certain Sunday and only from the fir
 
 The questionnaire lists the months from month $1$ to month $12$, and each person single-selects their birth month. After collection, tally by month, count the number and percentage of people in each month, and make a frequency distribution table. $\blacksquare$
 
----
-
 ## Problem 6
 
 (Exercise 12.1, Comprehensive Application, Problem 6) The school buys performance costumes and randomly surveys $40$ students: $5$ wear size S, $16$ wear size M, $10$ wear size L, $5$ wear size XL, and $4$ wear size XXL. What suggestion should the school make?
@@ -175,8 +149,6 @@ The questionnaire lists the months from month $1$ to month $12$, and each person
 ### Solution to Problem 6
 
 From the sample, size M accounts for $\frac{16}{40}=40\%$, the most, and size L accounts for $25\%$; together they are $65\%$. It is suggested that the school buy more size-M and size-L costumes and fewer size-S, size-XL and size-XXL costumes, to meet the size needs of most students. $\blacksquare$
-
----
 
 ## Problem 7
 
@@ -187,8 +159,6 @@ From the sample, size M accounts for $\frac{16}{40}=40\%$, the most, and size L 
 From the given data (Beijing 2, Tianjin 3, Hebei 14, Shanxi 8, Inner Mongolia 29, Liaoning 19, Jilin 24, Heilongjiang 49, Shanghai 11, Jiangsu 17, Zhejiang 16, Anhui 7, Fujian 13, Hubei 22, Hunan 23, Guangdong 15, Guangxi 10, Hainan 32, Chongqing 26, Sichuan 21, Guizhou 9, Yunnan 21, Tibet 26, Shaanxi 9, Gansu ..., Qinghai ..., Ningxia ..., Xinjiang ...):
 
 $x< 5$: Beijing, Tianjin, totaling $2$ regions; $5\le x< 10$: Shanxi, Anhui, Guizhou, Shaanxi, etc.; the remaining intervals are counted according to where the data fall. Overall, more regions have $10\sim 25$ nature reserves, and Inner Mongolia and Heilongjiang have the largest numbers. $\blacksquare$
-
----
 
 ## Problem 8
 

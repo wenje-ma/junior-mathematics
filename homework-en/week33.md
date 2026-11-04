@@ -1,7 +1,5 @@
 # week33
 
----
-
 ## Exercise 1
 
 (Exercise 7.4, Problem 1) On grid paper, translate triangle $ABC$ so that point $A$ moves to point $M$. To what positions should points $B$ and $C$ move? Then translate the triangle again so that point $A$ moves from point $M$ to point $N$. Draw the triangles after the two translations respectively. If triangle $ABC$ is translated directly so that point $A$ moves to point $N$, is the translated triangle in the same position as the triangle obtained after the second translation above?
@@ -18,8 +16,6 @@ Then move point $A$ (now at $M$) to point $N$, i.e. translate once more by the d
 
 Translating triangle $ABC$ directly so that point $A$ moves to point $N$ has translation vector $\boldsymbol{AN}$. By vector addition, $\boldsymbol{AN}=\boldsymbol{AM}+\boldsymbol{MN}$, i.e. the combined effect of first translating by $\boldsymbol{AM}$ and then by $\boldsymbol{MN}$ is the same as translating directly by $\boldsymbol{AN}$. Thus the triangle obtained by direct translation is in the same position as the triangle obtained after the second translation. $\blacksquare$
 
----
-
 ## Exercise 2
 
 (Exercise 7.4, Problem 2) As shown in the figure, after translation, vertex $A$ of quadrilateral $ABCD$ moves to point $A'$. Draw the translated quadrilateral $A'B'C'D'$.
@@ -30,8 +26,6 @@ By Properties of Translation, the segments connecting each pair of corresponding
 
 Connect $AA'$, through points $B$, $C$, $D$ respectively draw lines parallel to $AA'$, and on them mark off $BB'=CC'=DD'=AA'$ to obtain the corresponding points $B'$, $C'$, $D'$. Connect $A'B'C'D'$ in order to obtain the translated quadrilateral. $\blacksquare$
 
----
-
 ## Exercise 3
 
 (Exercise 7.4, Problem 3) Using translation, draw the pattern shown in the figure.
@@ -40,8 +34,6 @@ Connect $AA'$, through points $B$, $C$, $D$ respectively draw lines parallel to 
 
 By Properties of Translation, choose a basic figure and repeatedly translate it by the same distance in a certain direction to obtain a strip pattern; then repeatedly translate in another, non-parallel direction to tile the plane. Draw it by this method. $\blacksquare$
 
----
-
 ## Problem 1
 
 (Exercise 7.4, Review and Consolidation, Problem 1) What figures can each pattern in the figure be formed by translation from?
@@ -49,8 +41,6 @@ By Properties of Translation, choose a basic figure and repeatedly translate it 
 ### Solution to Problem 1
 
 By Translation and Properties of Translation, a pattern is formed by translation when identical basic figures are repeatedly arranged in a certain direction. Find the smallest basic figure that repeats in the pattern; that is the basic figure from which the whole pattern is formed by translation. $\blacksquare$
-
----
 
 ## Problem 2
 
@@ -62,8 +52,6 @@ By Properties of Translation, after translation the new figure has exactly the s
 
 The corresponding points are $A$ and $D$, $B$ and $E$, $C$ and $F$. Parallel segments: the connecting segments of corresponding points $AD\parallel BE\parallel CF$, as well as the corresponding sides $AB\parallel DE$, $AC\parallel DF$. Equal segments: the corresponding sides $AB=DE$, $BC=EF$, $AC=DF$, as well as the connecting segments of corresponding points $AD=BE=CF$. $\blacksquare$
 
----
-
 ## Problem 3
 
 (Exercise 7.4, Review and Consolidation, Problem 3) Translate quadrilateral $ABCD$ by $1\,\text{cm}$ in the direction of the arrow, and draw the translated quadrilateral $A'B'C'D'$.
@@ -73,8 +61,6 @@ The corresponding points are $A$ and $D$, $B$ and $E$, $C$ and $F$. Parallel seg
 By Properties of Translation, move every vertex by $1\,\text{cm}$ in the direction of the arrow.
 
 Through $A$, $B$, $C$, $D$ respectively draw segments parallel to the arrow and of length $1\,\text{cm}$, obtaining the corresponding points $A'$, $B'$, $C'$, $D'$; connect them in order to obtain the translated quadrilateral $A'B'C'D'$. $\blacksquare$
-
----
 
 ## Problem 4
 
@@ -96,8 +82,6 @@ $$
 
 Thus the area formula of the parallelogram is $S=ah$. $\blacksquare$
 
----
-
 ## Problem 5
 
 (Exercise 7.4, Comprehensive Application, Problem 5) As shown in the figure, there is a figure composed of $4$ triangles. Through translation, what patterns can you form with it? Try it, and share your patterns with your classmates.
@@ -105,8 +89,6 @@ Thus the area formula of the parallelogram is $S=ah$. $\blacksquare$
 ### Solution to Problem 5
 
 By Properties of Translation, repeatedly translate this basic figure composed of $4$ triangles in different directions; it can be assembled into strip patterns or patterns that tile the plane. Assemble it yourself and share with your classmates. $\blacksquare$
-
----
 
 ## Problem 6
 

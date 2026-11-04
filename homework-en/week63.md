@@ -1,7 +1,5 @@
 # week63
 
----
-
 ## Exercise 1
 
 (Exercise 13.3, Problem 1) As shown, the elevation angle from point $A$ to point $C$ is $\angle CAD=30^\circ$, and the elevation angle from point $B$ to point $C$ is $\angle CBD=45^\circ$. What is the viewing angle $\angle ACB$ from point $C$ to points $A$ and $B$?
@@ -21,8 +19,6 @@ $$
 $$
 
 $\blacksquare$
-
----
 
 ## Exercise 2
 
@@ -50,8 +46,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## Exercise 3
 
 (Exercise 13.3, Problem 1) As shown, in $\triangle ABC$, $\angle ACB=90^\circ$, $CD\perp AB$ with foot at $D$. What is the relationship between $\angle ACD$ and $\angle B$? Why?
@@ -64,8 +58,6 @@ By The Acute Angles of a Right Triangle Are Complementary, in $\text{Rt}\triangl
 
 Both $\angle ACD$ and $\angle B$ are complementary to $\angle A$, so $\angle ACD=\angle B$. $\blacksquare$
 
----
-
 ## Exercise 4
 
 (Exercise 13.3, Problem 2) As shown, in $\triangle ABC$, $\angle C=90^\circ$, points $D$ and $E$ lie on sides $AB$ and $AC$ respectively, and $\angle 1=\angle 2$. Is $\triangle ADE$ a right triangle? Why?
@@ -77,8 +69,6 @@ $\triangle ADE$ is a right triangle. The reason is as follows.
 By The Acute Angles of a Right Triangle Are Complementary, in $\text{Rt}\triangle ABC$, $\angle A+\angle B=90^\circ$. Since $\angle 1=\angle 2$ and $\angle 2$ and $\angle B$ are the same pair of corresponding angles, we get $\angle ADE=\angle B$.
 
 Hence $\angle A+\angle ADE=\angle A+\angle B=90^\circ$, so in $\triangle ADE$, $\angle AED=180^\circ-\left(\angle A+\angle ADE\right)=90^\circ$. Therefore $\triangle ADE$ is a right triangle. $\blacksquare$
-
----
 
 ## Exercise 5
 
@@ -102,8 +92,6 @@ Figure (5): in the large triangle $\angle A=\angle B=\angle C=60^\circ$; suppose
 
 Figure (6): in the lower right triangle, the other acute angle opposite $30^\circ$ is $60^\circ$; by the vertical-angle relation, $\angle 1=60^\circ$, $\angle 2=30^\circ$. $\blacksquare$
 
----
-
 ## Problem 1
 
 (Exercise 13.3, Review and Consolidation, Problem 1) Find the value of $x$ in each figure below.
@@ -121,8 +109,6 @@ Figure (2): $3x=180^\circ$, so $x=60^\circ$.
 Figure (3): $72^\circ+2x=180^\circ$, so $x=54^\circ$.
 
 Figure (4): $x+\left(x-36^\circ\right)+\left(x+36^\circ\right)=3x=180^\circ$, so $x=60^\circ$. $\blacksquare$
-
----
 
 ## Problem 2
 
@@ -144,8 +130,6 @@ By Triangle Interior Angle Sum Theorem, the sum of the three interior angles of 
 
 (3) It cannot. In a right triangle, the exterior angle of the right angle is $90^\circ$, and the exterior angles of the two acute angles are respectively $180^\circ$ minus an acute angle, which must be greater than $90^\circ$; hence none of its exterior angles is acute. $\blacksquare$
 
----
-
 ## Problem 3
 
 (Exercise 13.3, Review and Consolidation, Problem 3) In $\triangle ABC$, $\angle B$ is $10^\circ$ greater than $\angle A$, and $\angle C$ is $10^\circ$ greater than $\angle B$. Find the degree measures of the interior angles of $\triangle ABC$.
@@ -159,8 +143,6 @@ x+\left(x+10^\circ\right)+\left(x+20^\circ\right)=180^\circ.
 $$
 
 Solving gives $3x=150^\circ$, i.e. $x=50^\circ$. Hence $\angle A=50^\circ$, $\angle B=60^\circ$, $\angle C=70^\circ$. $\blacksquare$
-
----
 
 ## Problem 4
 
@@ -184,8 +166,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## Problem 5
 
 (Exercise 13.3, Comprehensive Application, Problem 5) As shown, $AB\parallel CD$, $\angle A=40^\circ$, $\angle D=45^\circ$. Find the degree measures of $\angle 1$ and $\angle 2$.
@@ -202,8 +182,6 @@ $$
 
 Hence $\angle 1=40^\circ$, $\angle 2=95^\circ$. $\blacksquare$
 
----
-
 ## Problem 6
 
 (Exercise 13.3, Comprehensive Application, Problem 6) As shown, $AB\parallel CD$, $AE$ intersects $CD$ at point $O$, $\angle A=45^\circ$, $\angle C=\angle E$. Find the degree measure of $\angle C$.
@@ -219,8 +197,6 @@ $$
 $$
 
 Solving gives $\angle C=67.5^\circ$. $\blacksquare$
-
----
 
 ## Problem 7
 
@@ -248,8 +224,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## Problem 8
 
 (Exercise 13.3, Comprehensive Application, Problem 8) As shown, in $\triangle ABC$, $D$ is a point on side $AB$, $E$ is a point on side $AC$, $BE$ and $CD$ intersect at point $F$, $\angle A=62^\circ$, $\angle ACD=35^\circ$, $\angle ABE=20^\circ$. Find the degree measures of $\angle BDC$ and $\angle BFD$.
@@ -269,8 +243,6 @@ $$
 $$
 
 $\blacksquare$
-
----
 
 ## Problem 9
 
@@ -298,8 +270,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## Problem 10
 
 (Exercise 13.3, Extension and Exploration, Problem 10) As shown, $AB\parallel CD$, $\angle BAE=\angle DCE=45^\circ$. Fill in the blanks.
@@ -321,8 +291,6 @@ $$
 In $\triangle AEC$, by Triangle Interior Angle Sum Theorem, $\angle E=180^\circ-\left(\angle 1+\angle 2\right)=90^\circ$.
 
 Hence fill in successively $180^\circ$, $90^\circ$, $90^\circ$. $\blacksquare$
-
----
 
 ## Problem 11
 

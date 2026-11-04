@@ -1,7 +1,5 @@
 # week136
 
----
-
 ## Exercise 1
 
 (Exercise 26.4, Problem 1) If the wall in Example 2 is $8\ \text{m}$ long, how should the fence be arranged to maximize the area of the rectangular vegetable garden? What is the maximum area?

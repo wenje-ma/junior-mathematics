@@ -1,7 +1,5 @@
 # week26
 
----
-
 ## 练习一
 
 (练习 6.3 第 1 题) 如图, 点 $O$ 是直线 $AB$ 上一点, $\angle AOC=50^{\circ}$, 求 $\angle BOC$ 的度数.
@@ -13,8 +11,6 @@
 $$\angle BOC=180^{\circ}-\angle AOC=180^{\circ}-50^{\circ}=130^{\circ}.$$
 
 $\blacksquare$
-
----
 
 ## 练习二
 
@@ -40,8 +36,6 @@ $\blacksquare$
 
 (4) $180^{\circ}\div8=22.5^{\circ}=22^{\circ}30'$. $\blacksquare$
 
----
-
 ## 练习三
 
 (练习 6.3 第 3 题) 把 $33.28^{\circ}$ 用度, 分, 秒表示; 把 $108^{\circ}20'42''$ 用度表示.
@@ -58,8 +52,6 @@ $$42''=\frac{42}{60}'=0.7',\quad 20.7'=\frac{20.7}{60}^{\circ}=0.345^{\circ}.$$
 
 故 $108^{\circ}20'42''=108.345^{\circ}$. $\blacksquare$
 
----
-
 ## 练习四
 
 (练习 6.3 第 4 题) 钟表上 $2$ 时 $15$ 分时, 时针与分针的夹角是多少度?
@@ -71,8 +63,6 @@ $$42''=\frac{42}{60}'=0.7',\quad 20.7'=\frac{20.7}{60}^{\circ}=0.345^{\circ}.$$
 $2$ 时 $15$ 分时, 分针位置: $15\times6^{\circ}=90^{\circ}$. 时针位置: $2\times30^{\circ}+15\times0.5^{\circ}=60^{\circ}+7.5^{\circ}=67.5^{\circ}$.
 
 夹角: $90^{\circ}-67.5^{\circ}=22.5^{\circ}$. $\blacksquare$
-
----
 
 ## 练习五
 
@@ -89,8 +79,6 @@ $$\angle AOE=\angle AOC+\angle COE=40^{\circ}+25^{\circ}=65^{\circ}.$$
 $$\angle DOB=\frac{1}{2}\angle AOB=\frac{1}{2}\times65^{\circ}=32.5^{\circ}.$$
 
 $\blacksquare$
-
----
 
 ## 练习六
 
@@ -110,8 +98,6 @@ $$\angle AOD=\angle AOC+\angle COD=60^{\circ}+30^{\circ}=90^{\circ}.$$
 
 $\blacksquare$
 
----
-
 ## 练习七
 
 (练习 6.3 第 3 题) 如图, 已知 $\angle AOB=60^{\circ}$, $\angle BOC=40^{\circ}$, $OM$ 平分 $\angle AOC$, $ON$ 平分 $\angle BOC$, 求 $\angle MON$ 的度数.
@@ -129,8 +115,6 @@ $ON$ 平分 $\angle BOC$, 故 $\angle NOC=\frac{1}{2}\angle BOC=20^{\circ}$.
 $$\angle MON=\angle MOC-\angle NOC=50^{\circ}-20^{\circ}=30^{\circ}.$$
 
 $\blacksquare$
-
----
 
 ## 练习八
 
@@ -150,8 +134,6 @@ $$\angle AOD+\angle BOC=\left(90^{\circ}+\angle BOD\right)+\left(90^{\circ}-\ang
 
 $\blacksquare$
 
----
-
 ## 练习九
 
 (练习 6.3 第 2 题) 一个角的余角比它的补角的 $\frac{1}{3}$ 还少 $20^{\circ}$, 求这个角的度数.
@@ -165,8 +147,6 @@ $\blacksquare$
 $$90-x=\frac{1}{3}\left(180-x\right)-20.$$
 
 化简: $90-x=60-\frac{x}{3}-20$. $90-x=40-\frac{x}{3}$. $50=\frac{2x}{3}$. $x=75$. 故这个角为 $75^{\circ}$. $\blacksquare$
-
----
 
 ## 练习十
 
@@ -186,8 +166,6 @@ $$\angle DOE=\angle DOC+\angle COE=\frac{1}{2}\left(\angle AOC+\angle BOC\right)
 
 $\blacksquare$
 
----
-
 ## 练习十一
 
 (练习 6.3 第 4 题) 一个角的补角是它的余角的 $4$ 倍, 求这个角的度数.
@@ -200,8 +178,6 @@ $$180-x=4\left(90-x\right).$$
 
 化简: $180-x=360-4x$. $3x=180$. $x=60$. 故这个角为 $60^{\circ}$. $\blacksquare$
 
----
-
 ## 习题一
 
 (习题 6.3 复习巩固第 1 题) 下图中, 能用一个字母表示的角有哪些?
@@ -211,8 +187,6 @@ $$180-x=4\left(90-x\right).$$
 由角, 当顶点处只有一个角时, 可用顶点处的一个字母表示该角.
 
 题图中各顶点处的角: 若某顶点处只引出两条射线 (即只有一个角), 则该角可用顶点字母表示; 若某顶点处引出三条或更多射线 (即有多个角共顶点), 则不能只用一个字母表示, 必须用三个字母表示. 按此规则, 图中顶点处只有一个角的那些角可用一个字母表示. $\blacksquare$
-
----
 
 ## 习题二
 
@@ -230,8 +204,6 @@ $$180-x=4\left(90-x\right).$$
 
 (2) $0.5^{\circ}=0.5\times60'=30'$. 故 $108.5^{\circ}=108^{\circ}30'$. $\blacksquare$
 
----
-
 ## 习题三
 
 (习题 6.3 复习巩固第 3 题) 把下列各角用度表示:
@@ -247,8 +219,6 @@ $$180-x=4\left(90-x\right).$$
 (1) $30'=\frac{30}{60}^{\circ}=0.5^{\circ}$. 故 $50^{\circ}30'=50.5^{\circ}$.
 
 (2) $10'=\frac{10}{60}^{\circ}\approx0.167^{\circ}$. 故 $120^{\circ}10'\approx120.167^{\circ}$. $\blacksquare$
-
----
 
 ## 习题四
 
@@ -266,8 +236,6 @@ $$180-x=4\left(90-x\right).$$
 
 (2) $90^{\circ}-35^{\circ}27'=89^{\circ}60'-35^{\circ}27'=54^{\circ}33'$. $\blacksquare$
 
----
-
 ## 习题五
 
 (习题 6.3 复习巩固第 5 题) 如果 $\angle 1=\angle 2$, $\angle 2=\angle 3$, 那么 $\angle 1$ 与 $\angle 3$ 有什么关系?
@@ -277,8 +245,6 @@ $$180-x=4\left(90-x\right).$$
 由余角和补角的性质 的类比, 等量代换.
 
 因 $\angle 1=\angle 2$, $\angle 2=\angle 3$, 由等量代换得 $\angle 1=\angle 3$. $\blacksquare$
-
----
 
 ## 习题六
 
@@ -294,8 +260,6 @@ $$\angle BOC=\angle AOB-\angle AOC=90^{\circ}-56^{\circ}=34^{\circ}.$$
 
 $\blacksquare$
 
----
-
 ## 习题七
 
 (习题 6.3 复习巩固第 7 题) 已知 $\angle A=50^{\circ}$, 求 $\angle A$ 的余角和补角.
@@ -307,8 +271,6 @@ $\blacksquare$
 $\angle A$ 的余角 $=90^{\circ}-50^{\circ}=40^{\circ}$.
 
 $\angle A$ 的补角 $=180^{\circ}-50^{\circ}=130^{\circ}$. $\blacksquare$
-
----
 
 ## 习题八
 
@@ -322,8 +284,6 @@ $$180-x=3\left(90-x\right).$$
 
 化简: $180-x=270-3x$. $2x=90$. $x=45$. 故这个角为 $45^{\circ}$. $\blacksquare$
 
----
-
 ## 习题九
 
 (习题 6.3 复习巩固第 9 题) 如图, 要测量两堵墙所形成的角的度数, 但无法进入墙内, 如何测量?
@@ -333,8 +293,6 @@ $$180-x=3\left(90-x\right).$$
 由补角 和补角的性质.
 
 延长两堵墙各向外延伸, 测量外面的角. 外面的角与墙内角互为补角, 故墙内角 $=180^{\circ}-$ 外面角的度数. $\blacksquare$
-
----
 
 ## 习题十
 
@@ -357,8 +315,6 @@ $$\angle BOD=\angle BOC+\angle COD=40^{\circ}+30^{\circ}=70^{\circ}.$$
 $$\angle AOC=\angle AOE-\angle COE=140^{\circ}-60^{\circ}=80^{\circ}.$$
 
 $OB$ 平分 $\angle AOC$, 故 $\angle AOB=\frac{1}{2}\angle AOC=40^{\circ}$. $\blacksquare$
-
----
 
 ## 习题十一
 
@@ -388,8 +344,6 @@ $$\angle MON=\frac{1}{2}\left(\alpha+60^{\circ}\right)-30^{\circ}=\frac{\alpha}{
 
 $\blacksquare$
 
----
-
 ## 习题十二
 
 (习题 6.3 综合运用第 12 题) 如图, $\angle AOB$ 是平角, $OD$, $OC$, $OE$ 是三条射线, $OD$ 平分 $\angle AOC$, $OE$ 平分 $\angle BOC$, 求 $\angle DOE$ 的度数.
@@ -406,8 +360,6 @@ $$\angle DOE=\angle DOC+\angle COE=\frac{1}{2}\angle AOC+\frac{1}{2}\angle BOC=\
 
 $\blacksquare$
 
----
-
 ## 习题十三
 
 (习题 6.3 综合运用第 13 题) 已知 $\angle 1$ 是 $\angle 2$ 的补角, $\angle 1$ 又是 $\angle 3$ 的余角. 若 $\angle 2=110^{\circ}$, 求 $\angle 3$ 的度数.
@@ -419,8 +371,6 @@ $\blacksquare$
 $\angle 1$ 是 $\angle 2$ 的补角: $\angle 1=180^{\circ}-\angle 2=180^{\circ}-110^{\circ}=70^{\circ}$.
 
 $\angle 1$ 是 $\angle 3$ 的余角: $\angle 1+\angle 3=90^{\circ}$, 故 $\angle 3=90^{\circ}-70^{\circ}=20^{\circ}$. $\blacksquare$
-
----
 
 ## 习题十四
 
@@ -437,8 +387,6 @@ $\angle 1$ 是 $\angle 3$ 的余角: $\angle 1+\angle 3=90^{\circ}$, 故 $\angle
 图示两种情形:左图射线 $OC$ 在 $\angle AOB$ 内部且 $\angle BOC=30^\circ$, 此时 $\angle AOC=90^\circ$; 右图射线 $OC$ 在 $\angle AOB$ 外部且 $\angle BOC=30^\circ$, 此时 $\angle AOC=150^\circ$.
 
 故 $\angle AOC=90^{\circ}$ 或 $150^{\circ}$. $\blacksquare$
-
----
 
 ## 习题十五
 

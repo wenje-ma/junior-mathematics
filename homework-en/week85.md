@@ -1,7 +1,5 @@
 # week85
 
----
-
 ### Activity 1
 
 (Mathematical Activity, Activity 1) The pattern in the square of a two-digit number whose units digit is $5$. Given

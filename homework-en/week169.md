@@ -1,7 +1,5 @@
 # week169
 
----
-
 ### Activity 1
 
 (Math Activity, Activity 1) Make a clinometer and measure the height of a tree.

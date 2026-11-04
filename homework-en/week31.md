@@ -1,7 +1,5 @@
 # week31
 
----
-
 ## Exercise 1
 
 (Exercise 7.2, Problem 1) As shown in the figure, use a straightedge and a set square to draw parallel lines:
@@ -17,8 +15,6 @@ By Parallel Axiom, through a point outside a line there is exactly one line para
 (1) Align one edge of the set square with $BC$, press the straightedge against the other edge of the set square, slide the set square along the straightedge until the edge aligned with $BC$ passes through point $A$, and draw the line $MN$ along that edge; then $MN\parallel BC$.
 
 (2) In the same way: through point $C$ draw $CE\parallel DA$ meeting $AB$ at $E$, and through point $C$ draw $CF\parallel DB$ meeting the extension of $AB$ at $F$. $\blacksquare$
-
----
 
 ## Exercise 2
 
@@ -40,8 +36,6 @@ Using Criterion 1, Criterion 2, and Criterion 3, judge according to whether the 
 
 (3) $\angle D$ and $\angle DFE$ are the consecutive interior angles formed when lines $AD$, $EF$ are cut by line $DC$. Since $\angle D+\angle DFE=180^\circ$, by supplementary consecutive interior angles implying parallel lines, we get $AD\parallel EF$. $\blacksquare$
 
----
-
 ## Exercise 3
 
 (Exercise 7.2, Problem 2) As shown in the figure, carpenters often use a square to draw parallel lines. Can you explain the principle behind it?
@@ -51,8 +45,6 @@ Using Criterion 1, Criterion 2, and Criterion 3, judge according to whether the 
 Press one edge of the square against the edge line of the wood, and draw two lines along the other edge. The square ensures that both drawn lines are perpendicular to the edge line being pressed, i.e. the corresponding angles cut by the edge line are both equal to $90^\circ$.
 
 By Criterion 1, equal corresponding angles imply parallel lines, so the two drawn lines are parallel to each other. $\blacksquare$
-
----
 
 ## Exercise 4
 
@@ -64,8 +56,6 @@ The two rails are cut by the railroad ties. Given $\angle 2=90^\circ$.
 
 By Criterion 1, it suffices to measure the angle that is the corresponding angle of $\angle 2$; if it also equals $90^\circ$, the two rails are parallel. Thus it is enough to measure the angle that is the corresponding angle of $\angle 2$; if it equals $90^\circ$, then by equal corresponding angles implying parallel lines, the two rails are parallel. $\blacksquare$
 
----
-
 ## Exercise 5
 
 (Exercise 7.2, Problem 4) The figure shows an intersection where two roads are perpendicular to each other. Can you draw a schematic diagram of it (using two parallel segments to represent one road)? Using a similar method, can you draw a schematic diagram of an intersection where two roads meet at an angle of $45^\circ$?
@@ -73,8 +63,6 @@ By Criterion 1, it suffices to measure the angle that is the corresponding angle
 ### Solution to Exercise 5
 
 Use two parallel segments to represent the two sides of one road, with the two groups of parallel segments crossing each other. When perpendicular, the two groups of parallel segments meet at $90^\circ$; when at $45^\circ$, they meet at $45^\circ$. Draw the schematic diagram of the intersection in the way described above. $\blacksquare$
-
----
 
 ## Exercise 6
 
@@ -94,8 +82,6 @@ $\angle 1$ and $\angle 4$ are consecutive interior angles; by Property 3, parall
 
 Thus $\angle 2=54^\circ$, $\angle 3=54^\circ$, $\angle 4=126^\circ$. $\blacksquare$
 
----
-
 ## Exercise 7
 
 (Exercise 7.2, Problem 2) As shown in the figure, in triangle $ABC$, $D$ is a point on $AB$, $E$ is a point on $AC$, $\angle ADE=60^\circ$, $\angle B=60^\circ$, $\angle AED=40^\circ$.
@@ -113,8 +99,6 @@ $\angle ADE$ and $\angle B$ are the corresponding angles formed when lines $DE$,
 (2) $\angle C=40^\circ$.
 
 It has been proved that $DE\parallel BC$, and $\angle AED$ and $\angle C$ are the corresponding angles formed when lines $DE$, $BC$ are cut by line $AC$. By Property 1, parallel lines give equal corresponding angles, so $\angle C=\angle AED=40^\circ$. $\blacksquare$
-
----
 
 ## Exercise 8
 
@@ -136,8 +120,6 @@ The adjacent supplementary angle of $\angle 3$ and $\angle 4$ forms a correspond
 
 In summary, the correct ones are (1)(2)(3). $\blacksquare$
 
----
-
 ## Exercise 9
 
 (Exercise 7.2, Problem 1) As shown in the figure, if line $a\parallel b$ and $\angle 1+\angle 2=180^\circ$, then are lines $b$ and $c$ parallel? Why?
@@ -149,8 +131,6 @@ Line $b\parallel c$.
 Since $a\parallel b$, the vertical angle (or corresponding angle) of $\angle 1$ equals the corresponding angle formed when $a$, $b$ are cut. $\angle 1+\angle 2=180^\circ$, and the adjacent supplementary angle of $\angle 1$ is also supplementary to $\angle 1$, so $\angle 2$ equals the vertical angle of the adjacent supplementary angle of $\angle 1$. It follows that the corresponding angles (or consecutive interior angles) formed when lines $b$, $c$ are cut by a third line satisfy the parallel condition.
 
 Specifically, from $a\parallel b$ the corresponding angle of $\angle 1$ equals $\angle 1$, and it is supplementary to $\angle 2$, i.e. $\angle 1+\angle 2=180^\circ$ gives that the consecutive interior angles formed when $b$, $c$ are cut are supplementary. By Criterion 3, supplementary consecutive interior angles imply parallel lines, so $b\parallel c$. $\blacksquare$
-
----
 
 ## Exercise 10
 
@@ -168,8 +148,6 @@ $$
 
 i.e. $\angle EBC=\angle BCF$. These two angles are the alternate interior angles formed when lines $BE$, $CF$ are cut by line $BC$. By Criterion 2, equal alternate interior angles imply parallel lines, so $BE\parallel CF$. $\blacksquare$
 
----
-
 ## Problem 1
 
 (Exercise 7.2, Review and Consolidation, Problem 1) Read the following statements and draw the figures:
@@ -181,8 +159,6 @@ i.e. $\angle EBC=\angle BCF$. These two angles are the alternate interior angles
 ### Solution to Problem 1
 
 Draw step by step according to the statements: first draw the given lines and their intersection point, then by Parallel Axiom draw the parallel line through the specified point, and mark the intersection point to obtain the figure satisfying the statements. $\blacksquare$
-
----
 
 ## Problem 2
 
@@ -198,8 +174,6 @@ $$
 
 That is, $\angle ADE$ should be $31^\circ$. $\blacksquare$
 
----
-
 ## Problem 3
 
 (Exercise 7.2, Review and Consolidation, Problem 3) As shown in the figure, after a canal turns twice, its direction is the same as the original. If the first turning angle $\angle A=135^\circ$, what is the second turning angle $\angle B$? Why?
@@ -209,8 +183,6 @@ That is, $\angle ADE$ should be $31^\circ$. $\blacksquare$
 After the canal turns twice its direction is the same as the original, which means the lines on which the two segments of the canal before and after the turns lie are parallel. The two turning angles $\angle A$, $\angle B$ are the alternate interior angles formed when these two parallel lines are cut by the middle segment of the canal.
 
 By Property 2, parallel lines give equal alternate interior angles, so $\angle B=\angle A=135^\circ$. $\blacksquare$
-
----
 
 ## Problem 4
 
@@ -234,8 +206,6 @@ $\angle 1$ and $\angle 3$ are not criterion angles between lines $a$, $b$, so $\
 
 In summary, the ones that can determine line $a\parallel b$ are (2)(3). $\blacksquare$
 
----
-
 ## Problem 5
 
 (Exercise 7.2, Review and Consolidation, Problem 5) As shown in the figure, $a\parallel b$, lines $c$, $d$ are transversals, $\angle 1=80^\circ$, $\angle 5=70^\circ$. How many degrees are $\angle 2$, $\angle 3$, and $\angle 4$? Why?
@@ -254,8 +224,6 @@ $\angle 5$ and $\angle 4$ are the consecutive interior angles formed when lines 
 
 Thus $\angle 2=80^\circ$, $\angle 3=70^\circ$, $\angle 4=110^\circ$. $\blacksquare$
 
----
-
 ## Problem 6
 
 (Exercise 7.2, Review and Consolidation, Problem 6) As shown in the figure, there is a square piece of glass. How can you check whether its two opposite sides are parallel?
@@ -266,8 +234,6 @@ Press a straightedge or set square against one edge of the glass and slide it al
 
 By Criterion 1, if the corresponding angles cut in the two pressings are equal, then the opposite sides are parallel; otherwise they are not. Alternatively, measure the corresponding angles (or consecutive interior angles) at two adjacent sides and check using the corresponding criterion. $\blacksquare$
 
----
-
 ## Problem 7
 
 (Exercise 7.2, Review and Consolidation, Problem 7) Find the lines that are parallel to each other and the lines that are perpendicular to each other in the figure.
@@ -275,8 +241,6 @@ By Criterion 1, if the corresponding angles cut in the two pressings are equal, 
 ### Solution to Problem 7
 
 By Parallel, Perpendicular, and the criteria, observe the angle between each pair of lines in the figure: two lines with an angle of $90^\circ$ are perpendicular to each other; two lines judged by equal corresponding angles, equal alternate interior angles, or supplementary consecutive interior angles are parallel to each other. After checking each pair, list the lines that are parallel to each other and the lines that are perpendicular to each other in the figure. $\blacksquare$
-
----
 
 ## Problem 8
 
@@ -292,8 +256,6 @@ $\angle 2$ and $\angle 4$ are the consecutive interior angles formed when the tw
 
 Thus $\angle 3=45^\circ$, $\angle 4=58^\circ$. $\blacksquare$
 
----
-
 ## Problem 9
 
 (Exercise 7.2, Comprehensive Application, Problem 9) The figure shows a vertical-angle protractor. Can you explain the principle of measuring angles with it?
@@ -301,8 +263,6 @@ Thus $\angle 3=45^\circ$, $\angle 4=58^\circ$. $\blacksquare$
 ### Solution to Problem 9
 
 The vertical-angle protractor makes use of Vertical Angles Are Equal. Align the two sides of the angle being measured with the two intersecting edges of the protractor; the angle being measured and the angle read on the protractor are vertical angles. By the equality of vertical angles, the degree read on the protractor is the degree of the angle being measured. $\blacksquare$
-
----
 
 ## Problem 10
 
@@ -322,8 +282,6 @@ $$
 
 Thus $\angle E+\angle B=180^\circ$. $\blacksquare$
 
----
-
 ## Problem 11
 
 (Exercise 7.2, Comprehensive Application, Problem 11) As shown in the figure, many beautiful decorative patterns are designed using parallel stripes. Use parallel stripes to design some patterns and share them with your classmates.
@@ -331,8 +289,6 @@ Thus $\angle E+\angle B=180^\circ$. $\blacksquare$
 ### Solution to Problem 11
 
 By Parallel, draw groups of parallel lines (or segments); by varying the direction, spacing, and combination of the parallel stripes, various decorative patterns can be designed. Design them yourself and share them with your classmates. $\blacksquare$
-
----
 
 ## Problem 12
 
@@ -344,8 +300,6 @@ When $\angle 1=\angle 3$, $a\parallel b$. $\angle 1$ and $\angle 3$ are the corr
 
 When $\angle 2+\angle 3=180^\circ$, $a\parallel b$. $\angle 2$ and $\angle 3$ are the consecutive interior angles formed when lines $a$, $b$ are cut by transversal $c$; by Criterion 3, supplementary consecutive interior angles imply parallel lines, so $a\parallel b$. $\blacksquare$
 
----
-
 ## Problem 13
 
 (Exercise 7.2, Extension and Exploration, Problem 13) Observe the cuboid shown in the figure. Use symbols to express the positional relationships of the following pairs of edges: $A_1B_1$ _______ $AB$, $AA_1$ _______ $AB$, $A_1D_1$ _______ $D_1C_1$, $AD$ _______ $BC$. Can you find examples of these positional relationships in the classroom?
@@ -355,8 +309,6 @@ When $\angle 2+\angle 3=180^\circ$, $a\parallel b$. $\angle 2$ and $\angle 3$ ar
 By Parallel and Perpendicular: $A_1B_1$ and $AB$ lie in the same direction and do not intersect, so $A_1B_1\parallel AB$; $AA_1$ and $AB$ intersect at a right angle, so $AA_1\perp AB$; $A_1D_1$ and $D_1C_1$ intersect at a right angle, so $A_1D_1\perp D_1C_1$; $AD$ and $BC$ have the same direction and do not intersect, so $AD\parallel BC$.
 
 In the classroom, examples of these positional relationships include the opposite sides of the blackboard being parallel and adjacent sides of the blackboard being perpendicular. $\blacksquare$
-
----
 
 ## Problem 14
 

@@ -1,7 +1,5 @@
 # week17
 
----
-
 ## Activity 1
 
 (Math Activity, Activity 1, Problem 1) In a monthly calendar, what is the relationship between the sum of the $9$ numbers enclosed by a blue box ( $3\times3$ ) and the number at the exact center of the box? Does the relationship still hold after moving the box? Does it hold for any month's calendar?
@@ -16,8 +14,6 @@ $$\left(x-8\right)+\left(x-7\right)+\left(x-6\right)+\left(x-1\right)+x+\left(x+
 
 Hence the sum of the nine numbers is $9$ times the center number. This relationship holds for a $3\times3$ box at any position, because adjacent rows in the calendar always differ by $7$ and adjacent columns by $1$, and the offsets cancel out in the sum. Hence it holds for any month's calendar. $\blacksquare$
 
----
-
 ## Activity 2
 
 (Math Activity, Activity 1, Problem 2) Draw a "$+$"-shaped or "$H$"-shaped figure in the monthly calendar. What is the relationship among the numbers in the figure? Explain why.
@@ -31,8 +27,6 @@ The "$+$"-shaped figure contains the center $x$, the above $x-7$, the below $x+7
 $$\left(x-7\right)+\left(x-1\right)+x+\left(x+1\right)+\left(x+7\right)=5x.$$
 
 Hence the sum of the five numbers in the "$+$" shape is $5$ times the center number. This is because the vertical offsets $7$ and $-7$ cancel, and the horizontal offsets $1$ and $-1$ cancel. $\blacksquare$
-
----
 
 ## Activity 3
 

@@ -1,7 +1,5 @@
 # week64
 
----
-
 ## Activity 1
 
 (Mathematics Activity, Activity 1: Building Equilateral Triangles) Take some equal-length magnetic rods. Can $3$ rods form $1$ equilateral triangle, and can $6$ rods form $4$ equilateral triangles? With $9$ rods, at most how many equilateral triangles can be formed? (Hint: consider solid figures.)
@@ -14,8 +12,6 @@ In the plane, $3$ magnetic rods can enclose at most $1$ equilateral triangle. If
 
 Continuing to join on this basis, $9$ rods can build at most more equilateral-triangle faces; the regular tetrahedron and the joined structure give $5$ or more equilateral triangles. Hands-on verification shows that, with a solid structure, the number can be significantly more than with a planar arrangement. $\blacksquare$
 
----
-
 ## Activity 2
 
 (Mathematics Activity, Activity 2, Problem 1) Try to triangulate a quadrilateral, a pentagon and a hexagon; how many triangles can each be triangulated into? What about an $n$-gon?
@@ -25,8 +21,6 @@ Continuing to join on this basis, $9$ rods can build at most more equilateral-tr
 A quadrilateral can be triangulated into $2$ triangles by $1$ diagonal; a pentagon into $3$; a hexagon into $4$.
 
 Each additional side increases the number of triangles in the triangulation by $1$. Hence an $n$-gon can be triangulated into $n-2$ triangles. $\blacksquare$
-
----
 
 ## Activity 3
 

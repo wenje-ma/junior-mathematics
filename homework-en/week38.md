@@ -1,7 +1,5 @@
 # week38
 
----
-
 ## Exercise 1
 
 (Exercise 8.3, Problem 1) True or false.
@@ -30,8 +28,6 @@ By Irrational Number and Real Numbers and the Number Line.
 
 (5) By Real Numbers and the Number Line, there is a one-to-one correspondence between real numbers and points on the number line; correct. $\blacksquare$
 
----
-
 ## Exercise 2
 
 (Exercise 8.3, Problem 2) Among the square roots and cube roots of $0$, $1$, $2$, $3$, $4$, $5$, $6$, $7$, $8$, $9$, $10$, which are rational numbers and which are irrational numbers?
@@ -43,8 +39,6 @@ By Irrational Number, those whose root can be extracted exactly are rational num
 Square roots: $\sqrt 0=0$, $\sqrt 1=1$, $\sqrt 4=2$, $\sqrt 9=3$ are rational numbers; $\sqrt 2$, $\sqrt 3$, $\sqrt 5$, $\sqrt 6$, $\sqrt 7$, $\sqrt 8$, $\sqrt{10}$ are irrational numbers.
 
 Cube roots: $\sqrt\left[3\right] 0=0$, $\sqrt\left[3\right] 1=1$, $\sqrt\left[3\right] 8=2$ are rational numbers; $\sqrt\left[3\right] 2$, $\sqrt\left[3\right] 3$, $\sqrt\left[3\right] 4$, $\sqrt\left[3\right] 5$, $\sqrt\left[3\right] 6$, $\sqrt\left[3\right] 7$, $\sqrt\left[3\right] 9$, $\sqrt\left[3\right]{10}$ are irrational numbers. $\blacksquare$
-
----
 
 ## Exercise 3
 
@@ -66,8 +60,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## Exercise 4
 
 (Exercise 8.3, Problem 1) Find the opposite number and absolute value of each of the following: $\sqrt{13}$, $-\sqrt 7$, $-\frac{\pi}{2}$, $1.4-\sqrt 2$, $\frac{\sqrt 5-1}{2}$, $0$.
@@ -87,8 +79,6 @@ $1.4-\sqrt 2\approx 1.4-1.414< 0$: opposite number $\sqrt 2-1.4$, absolute value
 $\frac{\sqrt 5-1}{2}\approx\frac{2.236-1}{2}> 0$: opposite number $\frac{1-\sqrt 5}{2}$, absolute value $\frac{\sqrt 5-1}{2}$.
 
 $0$: opposite number $0$, absolute value $0$. $\blacksquare$
-
----
 
 ## Exercise 5
 
@@ -110,8 +100,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## Exercise 6
 
 (Exercise 8.3, Problem 3) Compute (keep two decimal places):
@@ -126,8 +114,6 @@ Replace the irrational numbers with approximate finite decimals, compute, then r
 
 (2) $\sqrt\left[3\right]{6}\approx 1.817$, $\sqrt 6\approx 2.449$, so $\sqrt\left[3\right]{6}-\sqrt 6\approx 1.817-2.449=-0.63$. $\blacksquare$
 
----
-
 ## Problem 1
 
 (Exercise 8.3, Review and Consolidation, Problem 1) Among the following numbers, which are rational numbers and which are irrational numbers?
@@ -141,8 +127,6 @@ By Irrational Number, a finite decimal or a non-terminating repeating decimal is
 $3.14$ is a finite decimal, rational; $-\frac{22}{7}$ is a fraction, rational; $\sqrt{\frac{3}{3}}=\sqrt 1=1$, rational; $-\sqrt 6$ is a non-terminating non-repeating decimal whose root cannot be extracted, irrational; $\sqrt{36}=6$, rational; $\sqrt\left[3\right]{5}$ is a non-terminating non-repeating decimal, irrational; $\sqrt\left[3\right]{125}=5$, rational.
 
 Thus the rational numbers are $3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $\sqrt{36}$, $\sqrt\left[3\right]{125}$; the irrational numbers are $-\sqrt 6$, $\sqrt\left[3\right]{5}$. $\blacksquare$
-
----
 
 ## Problem 2
 
@@ -159,8 +143,6 @@ $$
 $$
 
 $\blacksquare$
-
----
 
 ## Problem 3
 
@@ -180,8 +162,6 @@ $\sqrt\left[3\right]{3}\approx 1.442< 2$, so $\sqrt\left[3\right]{3}-2< 0$, whos
 
 $\sqrt\left[3\right]{2}\approx 1.26> 1$, so $1-\sqrt\left[3\right]{2}< 0$, whose absolute value is $\sqrt\left[3\right]{2}-1$. $\blacksquare$
 
----
-
 ## Problem 4
 
 (Exercise 8.3, Review and Consolidation, Problem 4) Compute (keep two decimal places):
@@ -195,8 +175,6 @@ Compute with approximate values, then round.
 (1) $\pi\approx 3.142$, $\sqrt{10}\approx 3.162$, so $\pi-\sqrt{10}\approx 3.142-3.162=-0.02$.
 
 (2) $\sqrt\left[3\right]{2}\approx 1.260$, $\sqrt 2\approx 1.414$, so $\sqrt\left[3\right]{2}-\sqrt 2\approx 1.260-1.414=-0.15$. $\blacksquare$
-
----
 
 ## Problem 5
 
@@ -222,8 +200,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## Problem 6
 
 (Exercise 8.3, Comprehensive Application, Problem 6)
@@ -244,8 +220,6 @@ By Real Numbers and the Number Line, real numbers can take continuous values on 
 
 (3) There is no smallest positive real number (between any two arbitrarily small positive numbers one can take an even smaller positive number); there is no smallest real number (real numbers can be infinitely small in the negative direction). $\blacksquare$
 
----
-
 ## Problem 7
 
 (Exercise 8.3, Comprehensive Application, Problem 7) Write down all numbers satisfying the following conditions:
@@ -265,8 +239,6 @@ Estimate the range of each irrational number.
 (2) $\because 3^2=9< 10< 16=4^2$, $\therefore 3< \sqrt{10}< 4$, so $-4< -\sqrt{10}< -3$. The integers greater than $-\sqrt{10}$ and less than $\sqrt{10}$ are $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
 
 (3) $\because 2^2=4< 6< 9=3^2$, $\therefore 2< \sqrt 6< 3$, so the integers whose absolute value is less than $\sqrt 6$ are $-2$, $-1$, $0$, $1$, $2$. $\blacksquare$
-
----
 
 ## Problem 8
 
@@ -295,8 +267,6 @@ $$
 $$
 
 $\blacksquare$
-
----
 
 ## Problem 9
 

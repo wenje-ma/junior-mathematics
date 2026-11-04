@@ -1,7 +1,5 @@
 # week12
 
----
-
 ## Exercise 1
 
 (Exercise 3.2, Problem 1) Fill in the diagram: input $a$, compute output according to $2-3a$. When $a$ takes respectively $10$, $4$, $0$, $-3$, $2$, what are the outputs?
@@ -13,8 +11,6 @@ By Value of an Algebraic Expression, substitute each value of $a$ into $2-3a$.
 When $a=10$, $2-3\times 10=-28$; when $a=4$, $2-3\times 4=-10$; when $a=0$, $2-0=2$; when $a=-3$, $2-3\times\left(-3\right)=11$; when $a=2$, $2-3\times 2=-4$.
 
 Hence the outputs in turn are $-28$, $-10$, $2$, $11$, $-4$. $\blacksquare$
-
----
 
 ## Exercise 2
 
@@ -32,8 +28,6 @@ By Value of an Algebraic Expression.
 
 (2) When $x=\frac{1}{2}$, $y=-4$, $x^{2}+2xy+y^{2}=\frac{1}{4}+2\times\frac{1}{2}\times\left(-4\right)+16=\frac{1}{4}-4+16=\frac{49}{4}$. $\blacksquare$
 
----
-
 ## Exercise 3
 
 (Exercise 3.2, Problem 3) A car departs from Location A, travels $3.5\ \text{km}$, and then travels at a speed of $v\ \text{km/h}$ for $t\ \text{h}$. Find the total distance traveled by the car. If $v=56$ and $t=0.5$, find the total distance traveled by the car.
@@ -47,8 +41,6 @@ By Value of an Algebraic Expression, when $v=56$ and $t=0.5$,
 $$3.5+vt=3.5+56\times 0.5=3.5+28=31.5.$$
 
 Hence the total distance traveled by the car is $31.5\ \text{km}$. $\blacksquare$
-
----
 
 ## Exercise 4
 
@@ -66,8 +58,6 @@ By Value of an Algebraic Expression.
 
 (2) The area of the trapezoid is $S=\frac{\left(a+b\right)h}{2}$; when $a=2$, $b=4$, and $h=5$, $S=\frac{\left(2+4\right)\times 5}{2}=15\ \text{cm}^{2}$. $\blacksquare$
 
----
-
 ## Exercise 5
 
 (Exercise 3.2, Problem 2) The length of a rectangular cardboard box is $a$, and both its width and height are $b$. Express the volume $V$ of this box in an algebraic expression. When $a=60\ \text{cm}$ and $b=40\ \text{cm}$, find the volume of this box.
@@ -82,8 +72,6 @@ $$V=60\times 40^{2}=60\times 1600=96000.$$
 
 Hence the volume of this cardboard box is $96000\ \text{cm}^{3}$. $\blacksquare$
 
----
-
 ## Exercise 6
 
 (Exercise 3.2, Problem 3) As shown in the figure, express the area of the annulus in an algebraic expression. When $R=15\ \text{cm}$ and $r=10\ \text{cm}$, find the area of the annulus (take $\pi$ as $3.14$).
@@ -97,8 +85,6 @@ By Value of an Algebraic Expression, when $R=15$ and $r=10$,
 $$S=3.14\times\left(15^{2}-10^{2}\right)=3.14\times 125=392.5.$$
 
 Hence the area of the annulus is $392.5\ \text{cm}^{2}$. $\blacksquare$
-
----
 
 ## Problem 1
 
@@ -116,8 +102,6 @@ By Value of an Algebraic Expression.
 
 (2) When $b=-\frac{1}{2}$, $1-b^{2}=1-\frac{1}{4}=\frac{3}{4}$. $\blacksquare$
 
----
-
 ## Problem 2
 
 (Exercise 3.2, Review and Consolidation, Problem 2) Given $a=12$ and $b=-18$, find the values of the algebraic expressions $a+b$, $a-b$, $ab$, and $\frac{b}{a}$.
@@ -131,8 +115,6 @@ $$a+b=12+\left(-18\right)=-6;\quad a-b=12-\left(-18\right)=30;$$
 $$ab=12\times\left(-18\right)=-216;\quad \frac{b}{a}=\frac{-18}{12}=-\frac{3}{2}.$$
 
 $\blacksquare$
-
----
 
 ## Problem 3
 
@@ -150,8 +132,6 @@ By Value of an Algebraic Expression.
 
 (2) When $a=-3$ and $b=2$, $a^{2}+b^{2}=9+4=13$, and $\left(a+b\right)^{2}=\left(-3+2\right)^{2}=1$. $\blacksquare$
 
----
-
 ## Problem 4
 
 (Exercise 3.2, Review and Consolidation, Problem 4) Find the values of the following algebraic expressions:
@@ -168,8 +148,6 @@ By Value of an Algebraic Expression.
 
 (2) When $a=7$, $b=3$, and $c=5$, $\left(a-c\right)^{2}+\frac{1}{4}b=\left(7-5\right)^{2}+\frac{3}{4}=4+\frac{3}{4}=\frac{19}{4}$. $\blacksquare$
 
----
-
 ## Problem 5
 
 (Exercise 3.2, Review and Consolidation, Problem 5) The volume of a cone is known to be $V=\frac{1}{3}\pi r^{2}h$, where $r$ is the base radius and $h$ is the height of the cone. When $r=15\ \text{cm}$ and $h=16\ \text{cm}$, find the volume of the cone (take $\pi$ as $3.14$).
@@ -181,8 +159,6 @@ By Value of an Algebraic Expression.
 $$V=\frac{1}{3}\times 3.14\times 15^{2}\times 16=\frac{1}{3}\times 3.14\times 225\times 16=3768.$$
 
 Hence the volume of the cone is $3768\ \text{cm}^{3}$. $\blacksquare$
-
----
 
 ## Problem 6
 
@@ -197,8 +173,6 @@ By Value of an Algebraic Expression, when $R=30$, $r=15$, and $a=120$,
 $$V=3.14\times\left(30^{2}-15^{2}\right)\times 120=3.14\times 675\times 120=254340.$$
 
 Hence the volume of this section of steel pipe is $254340\ \text{mm}^{3}$. $\blacksquare$
-
----
 
 ## Problem 7
 
@@ -219,8 +193,6 @@ By Forming Algebraic Expressions, time $=$ distance $\div$ speed.
 $$\frac{s}{b}-\frac{s}{a}=\frac{180}{60}-\frac{180}{72}=3-2.5=0.5.$$
 
 Hence Jia takes $0.5\ \text{h}$ less than Yi, that is, Jia arrives half an hour earlier than Yi. $\blacksquare$
-
----
 
 ## Problem 8
 

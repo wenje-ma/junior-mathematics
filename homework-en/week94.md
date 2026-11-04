@@ -1,7 +1,5 @@
 # week94
 
----
-
 ## Exercise 1
 
 (Exercise 19.1, Problem 1)

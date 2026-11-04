@@ -1,7 +1,5 @@
 # week125
 
----
-
 ### Activity Preparation
 
 (Comprehensive and Practical Activity, Activity Preparation) To establish and improve the national monitoring and evaluation mechanism for student physical fitness and to encourage students to take an active part in physical exercise, in 2014 the Ministry of Education issued the "National Standard for Student Physical Fitness (2014 Revision)". Please look up references to learn about the physical fitness test, and fill in the relevant data in Table 1, "Physical Fitness Test Registration Form", according to your own situation.

@@ -1,7 +1,5 @@
 # week108
 
----
-
 ## Exercise 1
 
 (Exercise 22.1, Problem 1) Identify the constants and variables in the following problems:

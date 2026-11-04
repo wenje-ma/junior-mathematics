@@ -1,7 +1,5 @@
 # week89
 
----
-
 ## Exercise 1
 
 (Exercise 18.3, Problem 1) Calculate:

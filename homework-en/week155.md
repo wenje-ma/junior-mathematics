@@ -1,7 +1,5 @@
 # week155
 
----
-
 ## Exercise 1
 
 (Exercise 30.1, Problem 1) The diameter of a circle is $13$. If the distance from the center to the line is respectively:

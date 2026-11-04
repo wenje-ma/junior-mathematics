@@ -1,7 +1,5 @@
 # week16
 
----
-
 ## 练习一
 
 (练习 4.2 第 1 题) 合并下列各式的同类项:
@@ -34,8 +32,6 @@
 
 (6) $-3x^{2}y+3xy^{2}+2x^{2}y-2xy^{2}=\left(-3+2\right)x^{2}y+\left(3-2\right)xy^{2}=-x^{2}y+xy^{2}$. $\blacksquare$
 
----
-
 ## 练习二
 
 (练习 4.2 第 2 题) 先化简, 再求值:
@@ -52,8 +48,6 @@
 
 (2) $3x-4x^{2}+7-3x+2x^{2}+1=\left(-4+2\right)x^{2}+\left(3-3\right)x+\left(7+1\right)=-2x^{2}+8$. 当 $x=-3$ 时, 原式 $=-2\times\left(-3\right)^{2}+8=-2\times9+8=-10$. $\blacksquare$
 
----
-
 ## 练习三
 
 (练习 4.2 第 3 题) 如图, 大圆的半径是 $R$, 小圆的面积是大圆面积的 $\frac{4}{9}$, 求阴影部分的面积.
@@ -67,8 +61,6 @@
 $$\pi R^{2}-\frac{4}{9}\pi R^{2}=\left(1-\frac{4}{9}\right)\pi R^{2}=\frac{5}{9}\pi R^{2}.$$
 
 $\blacksquare$
-
----
 
 ## 练习四
 
@@ -85,8 +77,6 @@ $\blacksquare$
 (1) 错误. 括号前是负号, 括号内各项应变号, 故 $a^{2}-\left(2a-b+c\right)=a^{2}-2a+b-c$.
 
 (2) 错误. $-\left(x-y\right)=-x+y$, 故 $-\left(x-y\right)+\left(xy-1\right)=-x+y+xy-1$. $\blacksquare$
-
----
 
 ## 练习五
 
@@ -112,8 +102,6 @@ $\blacksquare$
 
 (4) $-\left(a+b\right)-\left(-c+d\right)=-a-b+c-d$. $\blacksquare$
 
----
-
 ## 练习六
 
 (练习 4.2 第 3 题) 化简:
@@ -138,8 +126,6 @@ $\blacksquare$
 
 (4) $\frac{1}{3}\left(9y-3\right)+2\left(y+1\right)=3y-1+2y+2=5y+1$. $\blacksquare$
 
----
-
 ## 练习七
 
 (练习 4.2 第 4 题) 某地居民生活用水收费标准: 每月用水量不超过 $15\ \text{m}^{3}$, 每立方米 $a$ 元; 超过部分每立方米 $\left(a+2\right)$ 元. 若该家庭上月用水量为 $20\ \text{m}^{3}$, 则应缴水费多少元?
@@ -153,8 +139,6 @@ $\blacksquare$
 $$15a+5\left(a+2\right)=15a+5a+10=20a+10\ \text{元}.$$
 
 $\blacksquare$
-
----
 
 ## 练习八
 
@@ -176,8 +160,6 @@ $\blacksquare$
 
 (3) $\frac{1}{3}a-\frac{1}{2}a+\frac{4}{3}b+\frac{1}{4}c-6c+2b=\left(\frac{1}{3}-\frac{1}{2}\right)a+\left(\frac{4}{3}+2\right)b+\left(\frac{1}{4}-6\right)c=-\frac{1}{6}a+\frac{10}{3}b-\frac{23}{4}c$. $\blacksquare$
 
----
-
 ## 练习九
 
 (练习 4.2 第 2 题) 求 $x^{2}-5xy-3x^{2}-2\left(1-2xy-x^{2}\right)$ 的值, 其中 $x=-\frac{1}{9}$, $y=\frac{9}{2}$.
@@ -189,8 +171,6 @@ $\blacksquare$
 $$x^{2}-5xy-3x^{2}-2+4xy+2x^{2}=\left(1-3+2\right)x^{2}+\left(-5+4\right)xy-2=-xy-2.$$
 
 当 $x=-\frac{1}{9}$, $y=\frac{9}{2}$ 时, 原式 $=-\left(-\frac{1}{9}\right)\times\frac{9}{2}-2=\frac{1}{2}-2=-\frac{3}{2}$. $\blacksquare$
-
----
 
 ## 练习十
 
@@ -205,8 +185,6 @@ $$x^{2}-5xy-3x^{2}-2+4xy+2x^{2}=\left(1-3+2\right)x^{2}+\left(-5+4\right)xy-2=-x
 $$\left(3x+2y\right)+\left(4x+3y\right)=7x+5y\ \text{元}.$$
 
 $\blacksquare$
-
----
 
 ## 习题一
 
@@ -232,8 +210,6 @@ $\blacksquare$
 
 (4) $m-n^{2}-6m+2n^{2}=\left(1-6\right)m+\left(-1+2\right)n^{2}=-5m+n^{2}$. $\blacksquare$
 
----
-
 ## 习题二
 
 (习题 4.2 复习巩固第 2 题) 化简:
@@ -257,8 +233,6 @@ $\blacksquare$
 (3) $-x+4x-4-3x-5=\left(-1+4-3\right)x-9=-9$.
 
 (4) $3a^{2}+a^{2}-2a^{2}+2a+3a-a^{2}=\left(3+1-2-1\right)a^{2}+\left(2+3\right)a=a^{2}+5a$. $\blacksquare$
-
----
 
 ## 习题三
 
@@ -284,8 +258,6 @@ $\blacksquare$
 
 (4) $3x^{2}-7x+4x-3+2x^{2}=\left(3+2\right)x^{2}+\left(-7+4\right)x-3=5x^{2}-3x-3$. $\blacksquare$
 
----
-
 ## 习题四
 
 (习题 4.2 复习巩固第 4 题) 先化简, 再求值:
@@ -302,8 +274,6 @@ $$12a^{2}b-4ab^{2}-6ab^{2}+2a^{2}b-14a^{2}b=\left(12+2-14\right)a^{2}b+\left(-4-
 
 当 $a=1$, $b=-\frac{1}{2}$ 时, 原式 $=-10\times1\times\left(-\frac{1}{2}\right)^{2}=-10\times\frac{1}{4}=-\frac{5}{2}$. $\blacksquare$
 
----
-
 ## 习题五
 
 (习题 4.2 复习巩固第 5 题) 甲地的海拔是 $h\ \text{m}$, 乙地比甲地高 $20\ \text{m}$, 丙地比甲地低 $30\ \text{m}$. 列式表示乙, 丙两地的海拔, 并计算乙地与丙地的海拔差.
@@ -318,8 +288,6 @@ $$\left(h+20\right)-\left(h-30\right)=h+20-h+30=50\ \text{m}.$$
 
 $\blacksquare$
 
----
-
 ## 习题六
 
 (习题 4.2 综合运用第 6 题) 选择 $a$ 的一个值, 求 $5a^{3}-\left(a^{2}-3a+3a^{3}\right)+\left(a^{2}-a-2a^{3}\right)-2a+2035$ 的值. 甲说当 $a=0$ 时原式 $=2035$, 乙说当 $a=1$ 时原式 $=2035$, 丙说当 $a$ 为任何有理数时原式 $=2035$. 这三位同学的说法是否正确?
@@ -331,8 +299,6 @@ $\blacksquare$
 $$5a^{3}-a^{2}+3a-3a^{3}+a^{2}-a-2a^{3}-2a+2035=\left(5-3-2\right)a^{3}+\left(-1+1\right)a^{2}+\left(3-1-2\right)a+2035=2035.$$
 
 化简结果为常数 $2035$, 与 $a$ 的取值无关. 故甲, 乙, 丙三位同学的说法都正确. $\blacksquare$
-
----
 
 ## 习题七
 
@@ -353,8 +319,6 @@ $$5a^{3}-a^{2}+3a-3a^{3}+a^{2}-a-2a^{3}-2a+2035=\left(5-3-2\right)a^{3}+\left(-1
 $$\left(3a+2b\right)+\left(a+2b\right)+\left(3a+3b\right)=7a+7b.$$
 
 $\blacksquare$
-
----
 
 ## 习题八
 
@@ -378,8 +342,6 @@ $$\pi a+2a+2a+2a=\left(\pi+6\right)a\ \text{cm}.$$
 
 $\blacksquare$
 
----
-
 ## 习题九
 
 (习题 4.2 综合运用第 9 题) 一种商品每件进价为 $a$ 元, 商家原来在进价的基础上增加 $20\%$ 定为售价, 每件商品的售价为多少元? 现在由于库存积压, 商家按原售价的 $90\%$ 出售, 现售价为多少元? 每件还能盈利多少元?
@@ -394,8 +356,6 @@ $$1.08a-a=0.08a\ \text{元}.$$
 
 $\blacksquare$
 
----
-
 ## 习题十
 
 (习题 4.2 拓广探索第 10 题) 一些点组成形如三角形的图形, 每条"边"上有 $n$ ($n> 1$) 个点 (包括两个顶点), 这个图形中点的总数 $S$ 是多少? 当 $n=5$, $7$, $11$ 时, $S$ 各是多少?
@@ -409,8 +369,6 @@ $\blacksquare$
 $$S=3n-3.$$
 
 当 $n=5$ 时, $S=3\times5-3=12$; 当 $n=7$ 时, $S=3\times7-3=18$; 当 $n=11$ 时, $S=3\times11-3=30$. $\blacksquare$
-
----
 
 ## 习题十一
 

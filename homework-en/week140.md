@@ -1,7 +1,5 @@
 # week140
 
----
-
 ## Exercise 1
 
 (Exercise 27.2, Problem 1) The graph shown in the figure corresponds to which function expression? ( )

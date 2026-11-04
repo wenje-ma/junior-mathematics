@@ -1,7 +1,5 @@
 # week93
 
----
-
 ## Review Problem 1
 
 (Review Problems, Review and Consolidation, Problem 1) Among the following expressions, which are integral expressions? Which are fractions?

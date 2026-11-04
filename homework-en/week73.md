@@ -1,7 +1,5 @@
 # week73
 
----
-
 ## Exercise 1
 
 (Exercise 15.2, Problem 1) As shown, complete each figure into a figure symmetric about line $l$.

@@ -1,7 +1,5 @@
 # week74
 
----
-
 ## 练习一
 
 (练习 15.3 第 1 题) 如图, 在 $\triangle ABC$ 中, $AB=AD=DC$, $\angle BAD=26^\circ$. 求 $\angle B$ 和 $\angle C$ 的度数.

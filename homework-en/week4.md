@@ -1,7 +1,5 @@
 # week4
 
----
-
 ## Review Problem 1
 
 (Review Problem, Review and Consolidation, Problem 1) Fill in the blanks.
@@ -17,8 +15,6 @@ By Representing Quantities of Opposite Meaning, rise and fall, and income and ex
 (1) Since a rise is taken as positive, a fall is taken as negative; hence a drop of $2\,^\circ\text{C}$ is recorded as $-2\,^\circ\text{C}$.
 
 (2) Since income is taken as positive, expenditure is taken as negative; hence $-56$ yuan represents an expenditure of $56$ yuan. $\blacksquare$
-
----
 
 ## Review Problem 2
 
@@ -38,8 +34,6 @@ $$-4< -2< -1< 0< 2< 3.$$
 
 $\blacksquare$
 
----
-
 ## Review Problem 3
 
 (Review Problem, Review and Consolidation, Problem 3) Write down respectively the opposite number and the absolute value of $-2$, $-5$, and $7.5$.
@@ -49,8 +43,6 @@ $\blacksquare$
 By Opposite Numbers and Algebraic Meaning of Absolute Value.
 
 The opposite number of $-2$ is $2$, and $\left|-2\right|=2$; the opposite number of $-5$ is $5$, and $\left|-5\right|=5$; the opposite number of $7.5$ is $-7.5$, and $\left|7.5\right|=7.5$. $\blacksquare$
-
----
 
 ## Review Problem 4
 
@@ -76,8 +68,6 @@ First simplify, then compare by Comparing the Magnitude of Rational Numbers.
 
 (4) $-\left(+\frac{1}{2}\right)=-\frac{1}{2}$, $-\left|-\frac{1}{3}\right|=-\frac{1}{3}$. Since $\left|-\frac{1}{2}\right|=\frac{1}{2}=\frac{3}{6}> \left|-\frac{1}{3}\right|=\frac{1}{3}=\frac{2}{6}$, we get $-\frac{1}{2}< -\frac{1}{3}$, that is, $-\left(+\frac{1}{2}\right)< -\left|-\frac{1}{3}\right|$. $\blacksquare$
 
----
-
 ## Review Problem 5
 
 (Review Problem, Review and Consolidation, Problem 5) The table below shows the profits of a company over the four quarters of a certain year. Arrange them in order from highest to lowest.
@@ -96,8 +86,6 @@ $$31.5> 27.8> -6.8> -10.7.$$
 
 That is, third quarter $> $ fourth quarter $> $ first quarter $> $ second quarter. $\blacksquare$
 
----
-
 ## Review Problem 6
 
 (Review Problem, Review and Consolidation, Problem 6) In a certain year, the growth rate of China's per-capita water resources compared with the previous year was $-5.6\%$. Over the following three years, the annual growth rates compared with the previous year were respectively $-4.0\%$, $13.0\%$, $-9.6\%$. Which of these growth rates is the smallest? What does a negative growth rate indicate?
@@ -109,8 +97,6 @@ By Comparing the Magnitude of Rational Numbers, for two negative numbers, the on
 The four growth rates are $-5.6\%$, $-4.0\%$, $13.0\%$, $-9.6\%$. Among them, $13.0\%$ is positive and the rest are negative. Comparing the absolute values of the three negative numbers: $\left|-9.6\%\right|=9.6\%> \left|-5.6\%\right|=5.6\%> \left|-4.0\%\right|=4.0\%$, so $-9.6\%< -5.6\%< -4.0\%$.
 
 Hence the smallest growth rate is $-9.6\%$. By Representing Quantities of Opposite Meaning, a positive growth rate indicates that per-capita water resources increased compared with the previous year, and a negative growth rate indicates that per-capita water resources decreased compared with the previous year. $\blacksquare$
-
----
 
 ## Review Problem 7
 
@@ -125,8 +111,6 @@ By Integers and Fractions and Number Line, the integers $x$ satisfying $-3< x< 4
 $$x=-2,\ -1,\ 0,\ 1,\ 2,\ 3.$$
 
 Mark these $6$ points on the number line, as shown in the figure. $\blacksquare$
-
----
 
 ## Review Problem 8
 
@@ -154,8 +138,6 @@ $$-b< a< -a< b.$$
 
 Therefore choose (C). $\blacksquare$
 
----
-
 ## Review Problem 9
 
 (Review Problem, Extension and Exploration, Problem 9) As shown in the figure, $5$ volleyballs were tested, among which the number of grams exceeding the standard mass is recorded as a positive number.
@@ -171,8 +153,6 @@ By Representing Quantities of Opposite Meaning, exceeding the standard mass is r
 (1) $+5$ means the ball exceeds the standard mass by $5\ \text{g}$; $-3.5$ means it falls short of the standard mass by $3.5\ \text{g}$; $+0.7$ means it exceeds the standard mass by $0.7\ \text{g}$; $-2.5$ means it falls short of the standard mass by $2.5\ \text{g}$; $-0.6$ means it falls short of the standard mass by $0.6\ \text{g}$.
 
 (2) By Absolute Value, the smaller the absolute value of a number, the smaller its deviation from the standard mass. The absolute values of the deviations are $5$, $3.5$, $0.7$, $2.5$, $0.6$, among which $0.6$ is the smallest, so the ball recorded as $-0.6$ has the mass closest to the standard mass. $\blacksquare$
-
----
 
 ## Review Problem 10
 
@@ -195,8 +175,6 @@ By Rational Numbers and Integers and Fractions.
 (3) No. By Comparing the Magnitude of Rational Numbers, the negative integers are $-1$, $-2$, $-3$, $\cdots$, among which the largest is $-1$, so there is no negative integer greater than $-1$.
 
 (4) Numbers that are less than $-100$ and greater than $-103$ satisfy $-103< x< -100$, for example $-101$, $-102$, $-101.5$, and so on. $\blacksquare$
-
----
 
 ## Review Problem 11
 

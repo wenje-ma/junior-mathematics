@@ -1,7 +1,5 @@
 # week60
 
----
-
 ## Inquiry 1
 
 (Comprehensive and Practical Activity, Activity 1, Problem 1) Investigate the changing pattern of daylight duration in Beijing in 2024. It is known that on Minor Cold (January 6) sunrise is $7:36$, sunset is $17:04$, and daylight is $9\ \text{h}\ 28\ \text{min}$; at the spring equinox daylight is about $12\ \text{h}$; at the summer solstice about $15\ \text{h}$; at the winter solstice about $9\ \text{h}\ 28\ \text{min}$.

@@ -1,11 +1,5 @@
 # week165
 
----
-
----
-
----
-
 ### Activity 1
 
 (Math Activity, Activity 1: Measuring the Height of a Flagpole) Similar triangles can be used to calculate the heights of objects that cannot be measured directly. The figure shows several methods of measuring the height of a flagpole: using shadows, using a sighting pole, and using a mirror. Explain the principle behind each method.
@@ -29,4 +23,4 @@ By AA, both methods construct similar triangles and use the proportionality of c
 By Homothetic Figures, relative to the first flat artistic lettering, each vertex of the second three-dimensional lettering is offset in the same direction, and the corresponding segments are parallel to each other with equal ratios; i.e. the two styles of lettering form homothetic figures.
 
 The center of homothety lies on the ray corresponding to each stroke, and the ratio of corresponding segments equals the similarity ratio. Following this homothety relationship produces the three-dimensional lettering. $\blacksquare$
-
+

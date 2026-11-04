@@ -1,7 +1,5 @@
 # week171
 
----
-
 ## Exercise 1
 
 (Exercise 29.1, Problem 1) Connect each of the following objects to its projection with a line. The objects include a set square, a wooden stick, a teacup, etc., and their projections are a triangle, a line segment, a circle, etc., respectively.

@@ -1,7 +1,5 @@
 # week123
 
----
-
 ### Activity 1
 
 (Math Activity, Activity 1, Problem 1) Divide the class into several groups and complete the following activity together:

@@ -1,7 +1,5 @@
 # week144
 
----
-
 ## Exercise 1
 
 (Exercise 28.2, Problem 1) The two quadrilaterals in the figure are symmetric about some point. Mark their center of symmetry.

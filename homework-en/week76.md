@@ -1,7 +1,5 @@
 # week76
 
----
-
 ## Review Problem 1
 
 (Review Problems, Review and Consolidation, Problem 1) Are the following figures axially symmetric? If so, draw their axes of symmetry.

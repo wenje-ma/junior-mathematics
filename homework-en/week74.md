@@ -1,7 +1,5 @@
 # week74
 
----
-
 ## Exercise 1
 
 (Exercise 15.3, Problem 1) As shown, in $\triangle ABC$, $AB=AD=DC$, $\angle BAD=26^\circ$. Find the degree measures of $\angle B$ and $\angle C$.

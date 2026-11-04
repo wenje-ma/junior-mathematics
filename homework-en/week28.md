@@ -1,7 +1,5 @@
 # week28
 
----
-
 ## Review Problem 1
 
 (Review Problem, Review and Consolidation, Problem 1) State the names of the following figures.
@@ -11,8 +9,6 @@
 By Solid Figure and Plane Figure, determine the names from the features of the figures.
 
 The figures in the picture, from left to right, are: cube (six square faces), rectangular prism (six rectangular faces), cylinder (two circles plus a curved surface), cone (one circle plus a curved surface), sphere (entirely curved surface), quadrangular pyramid (one quadrilateral base plus four triangular side faces), and triangular prism (two triangular bases plus three rectangular side faces). $\blacksquare$
-
----
 
 ## Review Problem 2
 
@@ -25,8 +21,6 @@ By Plane Figure, looking down at each object gives the corresponding plane figur
 In the figure, object $A$ is an L-shaped stack of three cubes; from above two adjacent squares are seen, i.e. figure $b$ (square). Object $B$ is a kettle with a handle; from above a circular spout plus the outline of the handle on both sides is seen, i.e. figure $e$ (large circle with protrusions on two sides). Object $C$ is a spring; from above a hollow ring is seen, i.e. figure $d$ (small circle). Object $D$ is a packaging box; from above a rectangle is seen, i.e. figure $c$ (rectangle). Object $E$ is an hourglass-shaped cylinder; from above a circle is seen, i.e. figure $a$ (circle).
 
 The corresponding connections: $A\to b$, $B\to e$, $C\to d$, $D\to c$, $E\to a$. $\blacksquare$
-
----
 
 ## Review Problem 3
 
@@ -41,8 +35,6 @@ By Plane Figure, view each solid from three directions.
 (2) Cylinder: a rectangle from the front and left, a circle from above.
 
 (3) Cone: an isosceles triangle from the front and left, a circle with its center from above. $\blacksquare$
-
----
 
 ## Review Problem 4
 
@@ -72,8 +64,6 @@ In the figure there are four points $A$, $B$, $C$, $D$: draw line $AB$ through $
 
 $\blacksquare$
 
----
-
 ## Review Problem 5
 
 (Review Problem, Review and Consolidation, Problem 5) In a part diagram, $AD=76\ \text{mm}$, $BD=70\ \text{mm}$, $CD=19\ \text{mm}$; find the lengths of $AB$ and $BC$.
@@ -89,8 +79,6 @@ $$AB=AD-BD=76-70=6\ \text{mm}.$$
 $$BC=BD-CD=70-19=51\ \text{mm}.$$
 
 $\blacksquare$
-
----
 
 ## Review Problem 6
 
@@ -111,8 +99,6 @@ By Measuring Angles, Complementary Angle, and Supplementary Angle.
 (2) $33^{\circ}12'\times6=198^{\circ}72'=199^{\circ}12'$. $121^{\circ}\div3=40.333^{\circ}=40^{\circ}20'$.
 
 (3) Complement $=90^{\circ}-55^{\circ}17'=89^{\circ}60'-55^{\circ}17'=34^{\circ}43'$. Supplement $=180^{\circ}-55^{\circ}17'=179^{\circ}60'-55^{\circ}17'=124^{\circ}43'$. $\blacksquare$
-
----
 
 ## Review Problem 7
 
@@ -138,8 +124,6 @@ By Measuring Angles, Supplementary Angle, and Properties of Supplementary Angles
 
 (4) The acute angle $30^{\circ}$ and obtuse angle $100^{\circ}$ sum to $130^{\circ}\ne180^{\circ}$, so false. $\blacksquare$
 
----
-
 ## Review Problem 8
 
 (Review Problem, Comprehensive Application, Problem 8) Viewing a certain solid from the front, the left, and above gives three plane figures; name this solid and draw it.
@@ -154,8 +138,6 @@ The figure shows the three views of a solid: the front view is a rectangle, the 
 
 $\blacksquare$
 
----
-
 ## Review Problem 9
 
 (Review Problem, Comprehensive Application, Problem 9) Given that $BC$ is the diameter of the cylinder's base and $AB$ is the cylinder's height. On the cylinder's lateral surface, a loop of wire passing through points $A$, $C$ is embedded along the shortest path. Now cut the lateral surface open along $AB$; the resulting net of the lateral surface is ( ).
@@ -165,8 +147,6 @@ $\blacksquare$
 By Net and between two points the segment is the shortest.
 
 The lateral surface of the cylinder unfolds into a rectangle. Positions of $A$ and $C$ on the net: $A$ lies on one side of the rectangle, and $C$ lies at the corresponding position on the opposite side. The shortest path on the net is the straight segment joining $A$ and $C$. Since the wire loops once around the cylinder, $C$ has two symmetric positions on the net, and the shortest path is the diagonal of the rectangle. $\blacksquare$
-
----
 
 ## Review Problem 10
 
@@ -185,8 +165,6 @@ The three motions in the top row: (1) translate the triangle upward along the ar
 (3) Rotating a triangle about its hypotenuse $a$ one full turn gives a combination of two cones sharing a base.
 
 Corresponding connections: translation $\to$ prism, rotation about $l$ $\to$ cone, rotation about $a$ $\to$ double-cone combination. $\blacksquare$
-
----
 
 ## Review Problem 11
 
@@ -212,8 +190,6 @@ $$\angle NEM=\frac{1}{2}\times180^{\circ}=90^{\circ}.$$
 
 $\blacksquare$
 
----
-
 ## Review Problem 12
 
 (Review Problem, Extension and Exploration, Problem 12) Based on the information in the zoo map, state in what direction the Ocean World, the Lion-Tiger Park, the Monkey Hill, and the Elephant House are from the main entrance.
@@ -223,8 +199,6 @@ $\blacksquare$
 By Angle, taking the main entrance as the observation point, describe directions by the angle each attraction makes with true north.
 
 In the zoo map, the main entrance lies slightly left of center. Monkey Hill is north-by-west of the entrance; the Elephant House is southeast of Monkey Hill, i.e. north-by-east of the entrance; the Lion-Tiger Park is south-by-west of the entrance; Ocean World is south-by-east of the entrance. Hence, taking the entrance as observation point: Monkey Hill is north-by-west, the Elephant House is north-by-east, the Lion-Tiger Park is south-by-west, and Ocean World is south-by-east. $\blacksquare$
-
----
 
 ## Review Problem 13
 
@@ -239,8 +213,6 @@ For the quadrilateral $EFGH$ formed by joining the midpoints, measurement shows:
 In the figure, the midpoints of the four sides of quadrilateral $ABCD$ are $E$, $F$, $G$, $H$ respectively; joining $E$, $F$, $G$, $H$ in order forms quadrilateral $EFGH$.
 
 $\blacksquare$
-
----
 
 ## Review Problem 14
 

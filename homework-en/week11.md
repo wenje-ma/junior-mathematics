@@ -1,7 +1,5 @@
 # week11
 
----
-
 ## Exercise 1
 
 (Exercise 3.1, Problem 1) Fill in the blanks.
@@ -26,8 +24,6 @@ By Forming Algebraic Expressions.
 
 (4) The volume of a cube is the cube of its edge length, namely $a^{3}$. $\blacksquare$
 
----
-
 ## Exercise 2
 
 (Exercise 3.1, Problem 2) State the meaning of the following algebraic expressions:
@@ -46,8 +42,6 @@ By Algebraic Expressions.
 
 (4) $\frac{3a}{5b}$ means the quotient of $3$ times $a$ divided by $5$ times $b$. $\blacksquare$
 
----
-
 ## Exercise 3
 
 (Exercise 3.1, Problem 3) The algebraic expression $100-2x$ can represent quantities or quantitative relationships in different practical problems. Please give examples.
@@ -57,8 +51,6 @@ By Algebraic Expressions.
 By Algebraic Expressions.
 
 For example: having $100$ yuan, each pencil costs $2$ yuan; after buying $x$ pencils, $\left(100-2x\right)$ yuan remain. Or: a rope of length $100\ \text{cm}$, each time cutting off $2\ \text{cm}$; after cutting $x$ times, $\left(100-2x\right)\ \text{cm}$ remain. $\blacksquare$
-
----
 
 ## Exercise 4
 
@@ -80,8 +72,6 @@ By Forming Algebraic Expressions.
 
 (3) The quotient is $\frac{a^{2}}{b}$. $\blacksquare$
 
----
-
 ## Exercise 5
 
 (Exercise 3.1, Problem 2) A certain commodity costs $4.8$ yuan per bag, and $m$ bags were sold within one month. Express the revenue from selling this commodity this month in an algebraic expression.
@@ -94,8 +84,6 @@ $$4.8\times m=4.8m.$$
 
 Hence the revenue from selling this commodity this month is $4.8m$ yuan. $\blacksquare$
 
----
-
 ## Exercise 6
 
 (Exercise 3.1, Problem 3) There are two cotton fields. One has area $m\ \text{hm}^{2}$, with an average cotton yield of $a\ \text{kg}$ per hectare; the other has area $n\ \text{hm}^{2}$, with an average cotton yield of $b\ \text{kg}$ per hectare. Express the total cotton yield of the two fields in an algebraic expression.
@@ -105,8 +93,6 @@ Hence the revenue from selling this commodity this month is $4.8m$ yuan. $\black
 By Forming Algebraic Expressions.
 
 The first field yields $ma\ \text{kg}$ of cotton, and the second yields $nb\ \text{kg}$. Hence the total cotton yield of the two fields is $\left(ma+nb\right)\ \text{kg}$. $\blacksquare$
-
----
 
 ## Exercise 7
 
@@ -118,8 +104,6 @@ By Forming Algebraic Expressions.
 
 The area of the large square is $a^{2}\ \text{mm}^{2}$, and the area of the small square is $b^{2}\ \text{mm}^{2}$. The area of the remaining iron sheet is $\left(a^{2}-b^{2}\right)\ \text{mm}^{2}$. $\blacksquare$
 
----
-
 ## Exercise 8
 
 (Exercise 3.1, Problem 1) If the distance traveled by a car is fixed, then are the average speed and the time of the car in an inverse proportion relationship? Why?
@@ -129,8 +113,6 @@ The area of the large square is $a^{2}\ \text{mm}^{2}$, and the area of the smal
 By Quantities in Inverse Proportion.
 
 Distance $=$ speed $\times$ time. When the distance is fixed, the product of speed and time equals the distance (a fixed value); by Quantities in Inverse Proportion, the average speed and time are in an inverse proportion relationship. $\blacksquare$
-
----
 
 ## Exercise 9
 
@@ -150,8 +132,6 @@ By Quantities in Inverse Proportion.
 
 (3) Since $at=500$, we have $t=\frac{500}{a}$. By Quantities in Inverse Proportion, the product of $t$ and $a$ is constant, so $t$ and $a$ are in an inverse proportion relationship. $\blacksquare$
 
----
-
 ## Problem 1
 
 (Exercise 3.1, Review and Consolidation, Problem 1) Express in algebraic expressions:
@@ -163,8 +143,6 @@ By Quantities in Inverse Proportion.
 By Forming Algebraic Expressions.
 
 (1) $2m$; (2) $\frac{2}{3}n$; (3) $2x-1$; (4) $\frac{a^{3}}{b}$. $\blacksquare$
-
----
 
 ## Problem 2
 
@@ -183,8 +161,6 @@ By Algebraic Expressions.
 (3) $a^{2}+b^{2}$ means the sum of the square of $a$ and the square of $b$.
 
 (4) $\frac{n+1}{n-1}$ means the quotient of the sum of $n$ and $1$ divided by the difference between $n$ and $1$. $\blacksquare$
-
----
 
 ## Problem 3
 
@@ -210,8 +186,6 @@ By Forming Algebraic Expressions.
 
 (4) The bus takes $\left(t-1\right)\ \text{h}$, and its speed $=\frac{s}{t-1}\ \text{km/h}$. $\blacksquare$
 
----
-
 ## Problem 4
 
 (Exercise 3.1, Review and Consolidation, Problem 4) Determine whether the two quantities in each of the following are in an inverse proportion relationship, and give the reason:
@@ -232,8 +206,6 @@ By Quantities in Inverse Proportion.
 
 (3) Number of small red flowers $=$ $120$ per hour $\times$ time, that is, the ratio of the two is constant; this is a direct proportion relationship, not an inverse proportion relationship. $\blacksquare$
 
----
-
 ## Problem 5
 
 (Exercise 3.1, Review and Consolidation, Problem 5) A candy factory produces a batch of fruit candies. If these fruit candies are evenly packed into a number of bags, the number of candies per bag and the total number of bags are shown in the table below.
@@ -252,8 +224,6 @@ By Quantities in Inverse Proportion.
 
 (3) Since $mn=3600$, we have $n=\frac{3600}{m}$. By Quantities in Inverse Proportion, the product of $n$ and $m$ is constant, so $n$ and $m$ are in an inverse proportion relationship. $\blacksquare$
 
----
-
 ## Problem 6
 
 (Exercise 3.1, Comprehensive Application, Problem 6) (1) As shown in the figure, a hand-made beading work is strung from $5$ red beads and $5$ black beads. Red beads cost $a$ yuan each, and black beads cost $b$ yuan each. How much does it cost to buy all these beads? (2) Workshops A and B produce the same chemical product. Workshop A produces $a\ \text{t}$ per day, and Workshop B produces $b\ \text{t}$ per day. If both workshops produce for $5$ days, how many tons of chemical product are produced in total?
@@ -265,8 +235,6 @@ By Forming Algebraic Expressions.
 (1) The red beads cost $5a$ yuan, and the black beads cost $5b$ yuan, for a total cost of $\left(5a+5b\right)$ yuan.
 
 (2) The two workshops together produce $\left(a+b\right)\ \text{t}$ per day, and in $5$ days produce $5\left(a+b\right)\ \text{t}$ in total. $\blacksquare$
-
----
 
 ## Problem 7
 
@@ -284,8 +252,6 @@ By Algebraic Expressions.
 
 (2) $\frac{1}{2}a$ is half of $a$; $\frac{1}{2}+a$ is the sum of $a$ and $\frac{1}{2}$. Example: $\frac{1}{2}a$ represents half of $a$ yuan, and $\frac{1}{2}+a$ represents the quantity that is $\frac{1}{2}$ more than $a$. $\blacksquare$
 
----
-
 ## Problem 8
 
 (Exercise 3.1, Comprehensive Application, Problem 8) Observe a sequence of numbers: $5$, $10$, $15$, $20$, $25$, $\cdots$.
@@ -300,8 +266,6 @@ By Forming Algebraic Expressions.
 
 (2) The $n$-th number is $5n$. $\blacksquare$
 
----
-
 ## Problem 9
 
 (Exercise 3.1, Comprehensive Application, Problem 10) (1) Let $n$ denote any integer. Use an algebraic expression containing $n$ to represent any even number and any odd number. (2) The units digit of a three-digit number is $a$, the tens digit is $b$, and the hundreds digit is $c$. Use an algebraic expression containing $a$, $b$, and $c$ to represent this three-digit number.
@@ -313,8 +277,6 @@ By Forming Algebraic Expressions.
 (1) Even numbers are all multiples of $2$, so any even number is $2n$; odd numbers are $1$ greater than the adjacent even number, so any odd number is $2n+1$.
 
 (2) The hundreds digit $c$ represents $100c$, the tens digit $b$ represents $10b$, and the units digit $a$ represents $a$, so this three-digit number is $100c+10b+a$. $\blacksquare$
-
----
 
 ## Problem 10
 

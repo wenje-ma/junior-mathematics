@@ -1,7 +1,5 @@
 # week130
 
----
-
 ## Exercise 1
 
 (Exercise 25.3, Problem 1) How can a rope of length $40\ \text{m}$ be used to enclose a rectangular area of $75\ \text{m}^2$? Can it enclose a rectangular area of $101\ \text{m}^2$? If yes, describe how; if no, explain why.

@@ -1,7 +1,5 @@
 # week154
 
----
-
 ## Review Problem 1
 
 (Review Problem 29, Review and Consolidation, Problem 1) Multiple choice.

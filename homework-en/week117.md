@@ -1,7 +1,5 @@
 # week117
 
----
-
 ## Review Problem 1
 
 (Review, Review and Consolidation, Problem 1) Given that the graph of the direct proportional function $y=kx$ passes through the point $\left(-2, 4\right)$, then $k=\;\_\_\;$, and the graph of this function passes through the $\;\_\_\;$ quadrants.

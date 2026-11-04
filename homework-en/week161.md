@@ -1,7 +1,5 @@
 # week161
 
----
-
 ## Review Problem 1
 
 (Review Problem 26, Review and Consolidation, Problem 1) Express the following functions with their expressions:

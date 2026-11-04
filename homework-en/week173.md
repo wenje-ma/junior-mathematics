@@ -1,7 +1,5 @@
 # week173
 
----
-
 ### Project 1
 
 (Project Learning, Problem 1) Using cardboard as the main material, make solid models represented by the two sets of three views, respectively.

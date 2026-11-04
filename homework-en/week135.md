@@ -1,7 +1,5 @@
 # week135
 
----
-
 ## Exercise 1
 
 (Exercise 26.3, Problem 1) For the ball's flight height $h=20t-5t^2$, answer the following questions:

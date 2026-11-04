@@ -1,7 +1,5 @@
 # week26
 
----
-
 ## Exercise 1
 
 (Exercise 6.3, Problem 1) As shown, point $O$ lies on line $AB$, $\angle AOC=50^{\circ}$; find the degree measure of $\angle BOC$.
@@ -13,8 +11,6 @@ By Supplementary Angle, $O$ lies on line $AB$, so $\angle AOB=180^{\circ}$, and 
 $$\angle BOC=180^{\circ}-\angle AOC=180^{\circ}-50^{\circ}=130^{\circ}.$$
 
 $\blacksquare$
-
----
 
 ## Exercise 2
 
@@ -40,8 +36,6 @@ By Measuring Angles, calculate using the base-$60$ system of degrees, minutes, a
 
 (4) $180^{\circ}\div8=22.5^{\circ}=22^{\circ}30'$. $\blacksquare$
 
----
-
 ## Exercise 3
 
 (Exercise 6.3, Problem 3) Express $33.28^{\circ}$ in degrees, minutes, and seconds; express $108^{\circ}20'42''$ in degrees.
@@ -58,8 +52,6 @@ $$42''=\frac{42}{60}'=0.7',\quad 20.7'=\frac{20.7}{60}^{\circ}=0.345^{\circ}.$$
 
 Hence $108^{\circ}20'42''=108.345^{\circ}$. $\blacksquare$
 
----
-
 ## Exercise 4
 
 (Exercise 6.3, Problem 4) At $2$ o'clock and $15$ minutes on a clock, what is the angle between the hour hand and the minute hand?
@@ -71,8 +63,6 @@ By Measuring Angles, the hour hand turns $30^{\circ}$ per hour ($360^{\circ}\div
 At $2$ o'clock and $15$ minutes, the minute hand is at: $15\times6^{\circ}=90^{\circ}$. The hour hand is at: $2\times30^{\circ}+15\times0.5^{\circ}=60^{\circ}+7.5^{\circ}=67.5^{\circ}$.
 
 The angle: $90^{\circ}-67.5^{\circ}=22.5^{\circ}$. $\blacksquare$
-
----
 
 ## Exercise 5
 
@@ -89,8 +79,6 @@ If $\angle AOB=\angle AOE=65^{\circ}$, and $OD$ bisects $\angle AOB$, then
 $$\angle DOB=\frac{1}{2}\angle AOB=\frac{1}{2}\times65^{\circ}=32.5^{\circ}.$$
 
 $\blacksquare$
-
----
 
 ## Exercise 6
 
@@ -110,8 +98,6 @@ In the figure, with $O$ as the vertex, the rays $OA$ and $OB$ form $\angle AOB=1
 
 $\blacksquare$
 
----
-
 ## Exercise 7
 
 (Exercise 6.3, Problem 3) As shown, given $\angle AOB=60^{\circ}$, $\angle BOC=40^{\circ}$, $OM$ bisects $\angle AOC$, and $ON$ bisects $\angle BOC$; find the degree measure of $\angle MON$.
@@ -129,8 +115,6 @@ $ON$ bisects $\angle BOC$, so $\angle NOC=\frac{1}{2}\angle BOC=20^{\circ}$.
 $$\angle MON=\angle MOC-\angle NOC=50^{\circ}-20^{\circ}=30^{\circ}.$$
 
 $\blacksquare$
-
----
 
 ## Exercise 8
 
@@ -150,8 +134,6 @@ $$\angle AOD+\angle BOC=\left(90^{\circ}+\angle BOD\right)+\left(90^{\circ}-\ang
 
 $\blacksquare$
 
----
-
 ## Exercise 9
 
 (Exercise 6.3, Problem 2) The complement of an angle is $20^{\circ}$ less than $\frac{1}{3}$ of its supplement; find the degree measure of the angle.
@@ -165,8 +147,6 @@ Its complement is $\left(90-x\right)^{\circ}$, and its supplement is $\left(180-
 $$90-x=\frac{1}{3}\left(180-x\right)-20.$$
 
 Simplifying: $90-x=60-\frac{x}{3}-20$. $90-x=40-\frac{x}{3}$. $50=\frac{2x}{3}$. $x=75$. Hence the angle is $75^{\circ}$. $\blacksquare$
-
----
 
 ## Exercise 10
 
@@ -186,8 +166,6 @@ $$\angle DOE=\angle DOC+\angle COE=\frac{1}{2}\left(\angle AOC+\angle BOC\right)
 
 $\blacksquare$
 
----
-
 ## Exercise 11
 
 (Exercise 6.3, Problem 4) The supplement of an angle is $4$ times its complement; find the degree measure of the angle.
@@ -200,8 +178,6 @@ $$180-x=4\left(90-x\right).$$
 
 Simplifying: $180-x=360-4x$. $3x=180$. $x=60$. Hence the angle is $60^{\circ}$. $\blacksquare$
 
----
-
 ## Problem 1
 
 (Problem 6.3, Review and Consolidation, Problem 1) In the figure below, which angles can be denoted by a single letter?
@@ -211,8 +187,6 @@ Simplifying: $180-x=360-4x$. $3x=180$. $x=60$. Hence the angle is $60^{\circ}$. 
 By Angle, when there is only one angle at a vertex, it can be denoted by the single letter at that vertex.
 
 At each vertex in the figure: if only two rays emanate from a vertex (i.e. only one angle), that angle can be denoted by the vertex letter; if three or more rays emanate from a vertex (i.e. several angles share the vertex), it cannot be denoted by a single letter and must be denoted by three letters. By this rule, the angles that are alone at their vertex can be denoted by a single letter. $\blacksquare$
-
----
 
 ## Problem 2
 
@@ -230,8 +204,6 @@ By Measuring Angles, convert using the base-$60$ system.
 
 (2) $0.5^{\circ}=0.5\times60'=30'$. Hence $108.5^{\circ}=108^{\circ}30'$. $\blacksquare$
 
----
-
 ## Problem 3
 
 (Problem 6.3, Review and Consolidation, Problem 3) Express the following angles in degrees:
@@ -247,8 +219,6 @@ By Measuring Angles, convert using the base-$60$ system.
 (1) $30'=\frac{30}{60}^{\circ}=0.5^{\circ}$. Hence $50^{\circ}30'=50.5^{\circ}$.
 
 (2) $10'=\frac{10}{60}^{\circ}\approx0.167^{\circ}$. Hence $120^{\circ}10'\approx120.167^{\circ}$. $\blacksquare$
-
----
 
 ## Problem 4
 
@@ -266,8 +236,6 @@ By Measuring Angles.
 
 (2) $90^{\circ}-35^{\circ}27'=89^{\circ}60'-35^{\circ}27'=54^{\circ}33'$. $\blacksquare$
 
----
-
 ## Problem 5
 
 (Problem 6.3, Review and Consolidation, Problem 5) If $\angle 1=\angle 2$ and $\angle 2=\angle 3$, what is the relation between $\angle 1$ and $\angle 3$?
@@ -277,8 +245,6 @@ By Measuring Angles.
 By analogy with Properties of Complementary and Supplementary Angles, substitute equal quantities.
 
 Since $\angle 1=\angle 2$ and $\angle 2=\angle 3$, by substitution of equal quantities we get $\angle 1=\angle 3$. $\blacksquare$
-
----
 
 ## Problem 6
 
@@ -294,8 +260,6 @@ $$\angle BOC=\angle AOB-\angle AOC=90^{\circ}-56^{\circ}=34^{\circ}.$$
 
 $\blacksquare$
 
----
-
 ## Problem 7
 
 (Problem 6.3, Review and Consolidation, Problem 7) Given $\angle A=50^{\circ}$, find the complement and supplement of $\angle A$.
@@ -307,8 +271,6 @@ By Complementary Angle and Supplementary Angle.
 The complement of $\angle A$ $=90^{\circ}-50^{\circ}=40^{\circ}$.
 
 The supplement of $\angle A$ $=180^{\circ}-50^{\circ}=130^{\circ}$. $\blacksquare$
-
----
 
 ## Problem 8
 
@@ -322,8 +284,6 @@ $$180-x=3\left(90-x\right).$$
 
 Simplifying: $180-x=270-3x$. $2x=90$. $x=45$. Hence the angle is $45^{\circ}$. $\blacksquare$
 
----
-
 ## Problem 9
 
 (Problem 6.3, Review and Consolidation, Problem 9) As shown, you want to measure the angle formed by two walls, but you cannot go inside the walls; how do you measure it?
@@ -333,8 +293,6 @@ Simplifying: $180-x=270-3x$. $2x=90$. $x=45$. Hence the angle is $45^{\circ}$. $
 By Supplementary Angle and Properties of Supplementary Angles.
 
 Extend both walls outward and measure the outside angle. The outside angle and the inside-wall angle are supplementary, so the inside-wall angle $=180^{\circ}-$ the outside angle's measure. $\blacksquare$
-
----
 
 ## Problem 10
 
@@ -357,8 +315,6 @@ $$\angle BOD=\angle BOC+\angle COD=40^{\circ}+30^{\circ}=70^{\circ}.$$
 $$\angle AOC=\angle AOE-\angle COE=140^{\circ}-60^{\circ}=80^{\circ}.$$
 
 $OB$ bisects $\angle AOC$, so $\angle AOB=\frac{1}{2}\angle AOC=40^{\circ}$. $\blacksquare$
-
----
 
 ## Problem 11
 
@@ -388,8 +344,6 @@ $$\angle MON=\frac{1}{2}\left(\alpha+60^{\circ}\right)-30^{\circ}=\frac{\alpha}{
 
 $\blacksquare$
 
----
-
 ## Problem 12
 
 (Problem 6.3, Comprehensive Application, Problem 12) As shown, $\angle AOB$ is a straight angle, $OD$, $OC$, $OE$ are three rays, $OD$ bisects $\angle AOC$, and $OE$ bisects $\angle BOC$; find the degree measure of $\angle DOE$.
@@ -406,8 +360,6 @@ $$\angle DOE=\angle DOC+\angle COE=\frac{1}{2}\angle AOC+\frac{1}{2}\angle BOC=\
 
 $\blacksquare$
 
----
-
 ## Problem 13
 
 (Problem 6.3, Comprehensive Application, Problem 13) Given that $\angle 1$ is the supplement of $\angle 2$, and $\angle 1$ is also the complement of $\angle 3$. If $\angle 2=110^{\circ}$, find the degree measure of $\angle 3$.
@@ -419,8 +371,6 @@ By Complementary Angle and Supplementary Angle.
 $\angle 1$ is the supplement of $\angle 2$: $\angle 1=180^{\circ}-\angle 2=180^{\circ}-110^{\circ}=70^{\circ}$.
 
 $\angle 1$ is the complement of $\angle 3$: $\angle 1+\angle 3=90^{\circ}$, so $\angle 3=90^{\circ}-70^{\circ}=20^{\circ}$. $\blacksquare$
-
----
 
 ## Problem 14
 
@@ -437,8 +387,6 @@ If $OC$ lies outside $\angle AOB$: $\angle AOC=\angle AOB+\angle BOC=120^{\circ}
 The figure shows two cases: on the left, ray $OC$ lies inside $\angle AOB$ with $\angle BOC=30^{\circ}$, so $\angle AOC=90^{\circ}$; on the right, ray $OC$ lies outside $\angle AOB$ with $\angle BOC=30^{\circ}$, so $\angle AOC=150^{\circ}$.
 
 Hence $\angle AOC=90^{\circ}$ or $150^{\circ}$. $\blacksquare$
-
----
 
 ## Problem 15
 

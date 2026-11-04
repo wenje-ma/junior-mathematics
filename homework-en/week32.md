@@ -1,7 +1,5 @@
 # week32
 
----
-
 ## Exercise 1
 
 (Exercise 7.3, Problem 1) Give some examples of definitions you have learned.
@@ -10,8 +8,6 @@
 
 By Definition, a definition is a clear description of the essential features of a mathematical object. For example: "A line with a specified origin, positive direction, and unit length is called a number line"; "A ray starting from the vertex of an angle and dividing the angle into two equal angles is called the angle bisector of the angle"; "The length of the perpendicular segment from a point outside a line to the line is called the distance from the point to the line." These are all definitions you have learned. $\blacksquare$
 
----
-
 ## Exercise 2
 
 (Exercise 7.3, Problem 2) Give some examples of true propositions you have learned.
@@ -19,8 +15,6 @@ By Definition, a definition is a clear description of the essential features of 
 ### Solution to Exercise 2
 
 By Proposition, a true proposition is a proposition judged to be correct. For example: "Vertical angles are equal"; "If two lines are both parallel to a third line, then these two lines are also parallel to each other"; "Parallel lines give equal corresponding angles." These are all true propositions you have learned. $\blacksquare$
-
----
 
 ## Exercise 3
 
@@ -46,8 +40,6 @@ By Proposition, the part after "if" is the hypothesis and the part after "then" 
 
 (4) Rewrite as "If two lines are parallel, then the corresponding angles are equal." Hypothesis: two lines are parallel; conclusion: corresponding angles are equal. $\blacksquare$
 
----
-
 ## Exercise 4
 
 (Exercise 7.3, Problem 1) In the parentheses below, fill in the basis for the reasoning.
@@ -70,8 +62,6 @@ $\angle A$ and $\angle B$ are the consecutive interior angles formed when lines 
 
 Then from $AD\parallel BC$, $\angle C$ and $\angle D$ are the consecutive interior angles formed when lines $AD$, $BC$ are cut by line $CD$, so $\angle C+\angle D=180^\circ$ (parallel lines give supplementary consecutive interior angles). $\blacksquare$
 
----
-
 ## Exercise 5
 
 (Exercise 7.3, Problem 2) Is the proposition "corresponding angles are equal" correct? If yes, state the reason; if not, give a counterexample.
@@ -83,8 +73,6 @@ By Giving a Counterexample, it suffices to give an example that satisfies the hy
 The proposition "corresponding angles are equal" is false. Corresponding angles are equal only when the two lines being cut are parallel; when the two lines being cut are not parallel, the corresponding angles are not equal.
 
 Counterexample: draw two non-parallel lines cut by a third line; the pair of corresponding angles cut off are clearly unequal in size—they are corresponding angles but are not equal. Thus the proposition "corresponding angles are equal" is a false proposition. $\blacksquare$
-
----
 
 ## Problem 1
 
@@ -112,8 +100,6 @@ By Proposition, a proposition is a declarative statement that can be judged true
 
 In summary, (1)(2)(4) are propositions, among which (1)(2) are true propositions. $\blacksquare$
 
----
-
 ## Problem 2
 
 (Exercise 7.3, Review and Consolidation, Problem 2) As shown in the figure, express the following reasoning processes using symbols:
@@ -129,8 +115,6 @@ By Criterion 2 and Property 1, use $\because$ to mean "since" and $\therefore$ t
 (1) $\because\angle 1=\angle 2$, $\therefore AB\parallel EF$ (equal alternate interior angles imply parallel lines).
 
 (2) $\because DE\parallel BC$, $\therefore\angle 1=\angle B$, $\angle 3=\angle C$ (parallel lines give equal corresponding angles). $\blacksquare$
-
----
 
 ## Problem 3
 
@@ -157,8 +141,6 @@ Also $\because\angle ABC=\angle A'B'C'$,
 $\therefore\frac{1}{2}\angle ABC=\frac{1}{2}\angle A'B'C'$ (halves of equal quantities are equal).
 
 $\therefore\angle 1=\angle 2$. $\blacksquare$
-
----
 
 ## Problem 4
 

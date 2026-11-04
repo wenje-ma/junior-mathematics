@@ -1,7 +1,5 @@
 # week106
 
----
-
 ### Activity 1
 
 (Mathematical Activity, Activity 1, Golden Rectangle)

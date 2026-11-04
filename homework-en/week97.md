@@ -1,7 +1,5 @@
 # week97
 
----
-
 ### Activity 1
 
 (Mathematics Activity, Activity 1, Problem 1)

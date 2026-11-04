@@ -1,7 +1,5 @@
 # week119
 
----
-
 ## Exercise 1
 
 (Exercise 24.1, Problem 1) For the data $8$, $9$, $10$, $10$, $11$, the mean is $\;\_\_\;$, the median is $\;\_\_\;$, and the mode is $\;\_\_\;$.

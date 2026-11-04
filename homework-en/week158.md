@@ -1,7 +1,5 @@
 # week158
 
----
-
 ## Exercise 1
 
 (Exercise 26.1, Problem 1) Express the correspondence between the variables in the following problems using function expressions:

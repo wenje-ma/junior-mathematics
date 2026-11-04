@@ -1,7 +1,5 @@
 # week105
 
----
-
 ## Exercise 1
 
 (Exercise 21.3.1, Problem 1)

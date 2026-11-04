@@ -1,7 +1,5 @@
 # week40
 
----
-
 ## Review Exercise 1
 
 (Review Exercise, Review and Consolidation, Problem 1) Find the square roots and arithmetic square roots of the following numbers:
@@ -19,8 +17,6 @@ By Square Root and Arithmetic Square Root.
 (3) $\left(-\frac{7}{8}\right)^2=\frac{49}{64}$, $\because\left(\pm\frac{7}{8}\right)^2=\frac{49}{64}$, $\therefore$ the square roots are $\pm\frac{7}{8}$, and the arithmetic square root is $\frac{7}{8}$.
 
 (4) $10^4=10000$, $\because\left(\pm 100\right)^2=10000$, $\therefore$ the square roots are $\pm 100$, and the arithmetic square root is $100$. $\blacksquare$
-
----
 
 ## Review Exercise 2
 
@@ -40,8 +36,6 @@ By Cube Root.
 
 (4) The cube root of $36$ is $\sqrt\left[3\right]{36}$ (cannot be extracted exactly), $\approx 3.30$. $\blacksquare$
 
----
-
 ## Review Exercise 3
 
 (Review Exercise, Review and Consolidation, Problem 3) Find the value of each of the following:
@@ -59,8 +53,6 @@ By Arithmetic Square Root, Properties of Arithmetic Square Roots, and Cube Root.
 (3) $\because 0.3^2=0.09$, $\therefore\pm\sqrt{0.09}=\pm 0.3$.
 
 (4) $\because\pi> 3$, $\therefore 3-\pi< 0$. By Properties of Arithmetic Square Roots, $\sqrt{\left(3-\pi\right)^2}=\left|3-\pi\right|=\pi-3$. $\blacksquare$
-
----
 
 ## Review Exercise 4
 
@@ -80,8 +72,6 @@ Use a calculator.
 
 (4) $\sqrt\left[3\right]{0.43}\approx 0.755$. $\blacksquare$
 
----
-
 ## Review Exercise 5
 
 (Review Exercise, Review and Consolidation, Problem 5) Compute:
@@ -96,8 +86,6 @@ Expand by the distributive law.
 
 (2) $\sqrt 3\left(\sqrt 3+\frac{1}{\sqrt 3}\right)=\left(\sqrt 3\right)^2+\sqrt 3\cdot\frac{1}{\sqrt 3}=3+1=4$. $\blacksquare$
 
----
-
 ## Review Exercise 6
 
 (Review Exercise, Review and Consolidation, Problem 6) Between which two consecutive integers does each of the following numbers lie? Which integer is it closer to?
@@ -110,8 +98,6 @@ Expand by the distributive law.
 
 (2) $\because 4^3=64< 91< 125=5^3$, $\therefore 4< \sqrt\left[3\right]{91}< 5$. Also $91-64=27$, $125-91=34$, so $91$ is closer to $64$; thus $\sqrt\left[3\right]{91}$ lies between $4$ and $5$, closer to $4$. $\blacksquare$
 
----
-
 ## Review Exercise 7
 
 (Review Exercise, Comprehensive Application, Problem 7) Given $\left|x\right|< \pi$ ($x$ is an integer), find the values of $x$ and represent them on the number line.
@@ -121,8 +107,6 @@ Expand by the distributive law.
 $\pi\approx 3.14$, and $\left|x\right|< \pi$ means $-\pi< x< \pi$, i.e. $-3.14< x< 3.14$. The integers in this range are $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
 
 Thus $x=-3$, $-2$, $-1$, $0$, $1$, $2$, $3$. Mark these points correspondingly on the number line. $\blacksquare$
-
----
 
 ## Review Exercise 8
 
@@ -142,8 +126,6 @@ Compare: $C_正=4\sqrt{2\pi}\approx 4\times 2.507=10.03$, $C_圆=2\pi\sqrt 2\app
 
 Insight: when the areas are equal, the circle has a smaller perimeter than the square, i.e. the circle is the figure with the smallest perimeter for a given area. $\blacksquare$
 
----
-
 ## Review Exercise 9
 
 (Review Exercise, Comprehensive Application, Problem 9) On a clear day, the farthest distance $s$ (unit: $km$) a person standing by the sea can see over the ocean can be estimated by $s^2=16.74h$, where $h$ (unit: $m$) is the distance from the eye to sea level. Wang Fang stands by the sea observing, with her eye $1.5\,m$ above sea level; what is the farthest distance she can see in kilometers? If she stands on a rock by the sea, with her eye $8.7\,m$ above sea level, what is the farthest distance she can see in kilometers? (Keep two decimal places.)
@@ -157,8 +139,6 @@ When $h=1.5$, $s=\sqrt{16.74\times 1.5}=\sqrt{25.11}\approx 5.01\,km$.
 When $h=8.7$, $s=\sqrt{16.74\times 8.7}=\sqrt{145.64}\approx 12.07\,km$.
 
 Thus by the sea she can see about $5.01\,km$, and standing on the rock about $12.07\,km$. $\blacksquare$
-
----
 
 ## Review Exercise 10
 
@@ -177,8 +157,6 @@ Compute: $95^2=9025$, $V=3.14\times 9025\times 58=1645553\,\text{mm}^3$.
 Let the edge length of the cube be $x$; $x^3=1645553$, $x=\sqrt\left[3\right]{1645553}\approx 118$.
 
 That is, the edge length of the cube is about $118\,mm$. $\blacksquare$
-
----
 
 ## Review Exercise 11
 

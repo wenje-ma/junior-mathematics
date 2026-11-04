@@ -1,7 +1,5 @@
 # week156
 
----
-
 ## Exercise 1
 
 (Exercise 30.2, Problem 1) As shown in the figure, in $\odot O$, $\angle ABC=50^\circ$, and the point $P$ is the incenter of $\triangle ABC$. Find the measure of $\angle BOC$.

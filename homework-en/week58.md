@@ -1,7 +1,5 @@
 # week58
 
----
-
 ## Activity 1
 
 (Mathematics Activity, Activity 1, Problem 1) Estimate the average height of the whole class. Steps:
@@ -21,8 +19,6 @@ Let the heights of the $N$ students in the class be $x_1,x_2,\ldots,x_N$, and th
 Each time a sample of size $15$ is drawn, the sample average is $\overline{x}_k=\frac{1}{15}\sum_{j=1}^{15}x_{i_j}$. By Simple Random Sampling, each draw is unbiased, and $\overline{x}_k$ fluctuates up and down around $\overline{x}$.
 
 Comparison shows: the sample average generally does not equal the population average, but as the number of repetitions grows, the average of the sample averages approaches the population average. The larger the sample size, the more stably the sample average approaches the population average. $\blacksquare$
-
----
 
 ## Activity 2
 

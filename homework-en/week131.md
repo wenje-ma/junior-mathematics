@@ -1,7 +1,5 @@
 # week131
 
----
-
 ### Activity 1
 
 (Math Activity, Activity 1, Problem 1) Given $abc\ne0$, the following equations:

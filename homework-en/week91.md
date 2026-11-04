@@ -1,7 +1,5 @@
 # week91
 
----
-
 ## Exercise 1
 
 (Exercise 18.5, Problem 1) Solve the following equations:

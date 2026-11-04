@@ -1,7 +1,5 @@
 # week37
 
----
-
 ## Exercise 1
 
 (Exercise 8.2, Problem 1) True or false.
@@ -26,8 +24,6 @@ By Properties of Cube Roots, every number has exactly one cube root.
 
 (4) $\sqrt\left[3\right]{-8}=-2$, and the cube root of $-2$ is $\sqrt\left[3\right]{-2}$, not $-2$, so it is wrong. $\blacksquare$
 
----
-
 ## Exercise 2
 
 (Exercise 8.2, Problem 2) Find the cube roots of the following numbers:
@@ -44,8 +40,6 @@ By Cube Root, find the number whose cube equals the given number.
 
 (3) $\because\left(-\frac{4}{3}\right)^3=-\frac{64}{27}$, $\therefore\sqrt\left[3\right]{-\frac{64}{27}}=-\frac{4}{3}$. $\blacksquare$
 
----
-
 ## Exercise 3
 
 (Exercise 8.2, Problem 3) As shown in the figure, there is a Rubik's cube in the shape of a cube, with volume $216\,\text{cm}^3$. What is its edge length?
@@ -57,8 +51,6 @@ Let the edge length be $x\,\text{cm}$; by the volume formula of a cube, $x^3=216
 By Cube Root, $x=\sqrt\left[3\right]{216}$. $\because 6^3=216$, $\therefore x=6$.
 
 That is, the edge length of the Rubik's cube is $6\,\text{cm}$. $\blacksquare$
-
----
 
 ## Exercise 4
 
@@ -76,8 +68,6 @@ By Relationship Between Cubing and Extracting Cube Roots and Cube Root of a Nega
 
 (3) By Cube Root of a Negative Number, $\sqrt\left[3\right]{-\frac{8}{27}}=-\sqrt\left[3\right]{\frac{8}{27}}=-\frac{2}{3}$. $\blacksquare$
 
----
-
 ## Exercise 5
 
 (Exercise 8.2, Problem 2) Use a calculator to find the value of each of the following:
@@ -93,8 +83,6 @@ By Cube Root, use a calculator to find the cube root.
 (2) $\because 41^3=68921$, $\therefore\sqrt\left[3\right]{68921}=41$.
 
 (3) Using a calculator, $\sqrt\left[3\right]{0.028092}\approx 0.304$. $\blacksquare$
-
----
 
 ## Exercise 6
 
@@ -114,8 +102,6 @@ Compare with cubes.
 
 (4) $\because\left(-4\right)^3=-64< -28< -27=\left(-3\right)^3$, $\therefore-4< \sqrt\left[3\right]{-28}< -3$, lying between $-4$ and $-3$. $\blacksquare$
 
----
-
 ## Problem 1
 
 (Exercise 8.2, Review and Consolidation, Problem 1) Find the value of each of the following:
@@ -131,8 +117,6 @@ By Cube Root of a Negative Number and Cube Root.
 (2) $\because 9^3=729$, $\therefore\sqrt\left[3\right]{729}=9$, so $-\sqrt\left[3\right]{729}=-9$.
 
 (3) By Cube Root of a Negative Number, $\sqrt\left[3\right]{-\frac{1}{8}}=-\sqrt\left[3\right]{\frac{1}{8}}=-\frac{1}{2}$. $\blacksquare$
-
----
 
 ## Problem 2
 
@@ -150,8 +134,6 @@ By Cube Root, use a calculator.
 
 (3) $\sqrt\left[3\right]{25.986558}\approx 2.961$, so $\pm\sqrt\left[3\right]{25.986558}\approx\pm 2.961$. $\blacksquare$
 
----
-
 ## Problem 3
 
 (Exercise 8.2, Review and Consolidation, Problem 3) Compare the sizes of each group:
@@ -167,8 +149,6 @@ The cube root increases as the radicand increases.
 (2) $\because 2.5^3=15.625> 9$, $\therefore\sqrt\left[3\right]{9}< \sqrt\left[3\right]{15.625}=2.5$, i.e. $\sqrt\left[3\right]{9}< 2.5$.
 
 (3) $\because 3> 2$, $\therefore\sqrt\left[3\right]{3}> \sqrt\left[3\right]{2}$; taking opposites of both sides gives $-\sqrt\left[3\right]{3}< -\sqrt\left[3\right]{2}$. $\blacksquare$
-
----
 
 ## Problem 4
 
@@ -186,8 +166,6 @@ By Cube Root.
 
 (3) $x+1=\sqrt\left[3\right]{8}=2$, so $x=1$. $\blacksquare$
 
----
-
 ## Problem 5
 
 (Exercise 8.2, Comprehensive Application, Problem 5) Melt a cuboid iron block with length, width, and height of $21\,dm$, $20\,dm$, $19\,dm$ respectively and recast it into a cube iron block (ignoring loss). What is the edge length of this cube in decimeters (keep two decimal places)?
@@ -199,8 +177,6 @@ The volume of the cuboid is $21\times 20\times 19=7980\,dm^3$. When melted and r
 By Cube Root, $x=\sqrt\left[3\right]{7980}$. $\because 19^3=6859< 7980< 8000=20^3$, continue estimating: $19.98^3\approx 7976$. Thus $x\approx 19.98\,dm$.
 
 That is, the edge length of the cube is about $19.98\,dm$. $\blacksquare$
-
----
 
 ## Problem 6
 
@@ -224,8 +200,6 @@ By Cube Root, $r=\sqrt\left[3\right]{1313.4}\approx 10.95$.
 
 That is, the base radius $r$ is about $10.95\,\text{cm}$. $\blacksquare$
 
----
-
 ## Problem 7
 
 (Exercise 8.2, Comprehensive Application, Problem 7) If the volume of a cube is enlarged to $8$ times the original, by how many times does its edge length become? What if enlarged to $27$ times? What if to $n$ times?
@@ -239,8 +213,6 @@ When the volume is enlarged to $8$ times the original, the new volume is $8a^3$ 
 When the volume is enlarged to $27$ times the original, the new edge length is $\sqrt\left[3\right]{27a^3}=3a$, i.e. the edge length becomes $3$ times the original.
 
 When the volume is enlarged to $n$ times the original, the new edge length is $\sqrt\left[3\right]{n\,a^3}=a\sqrt\left[3\right]{n}$, i.e. the edge length becomes $\sqrt\left[3\right]{n}$ times the original. $\blacksquare$
-
----
 
 ## Problem 8
 
@@ -265,8 +237,6 @@ $$
 $$
 
 $\blacksquare$
-
----
 
 ## Problem 9
 

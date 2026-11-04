@@ -1,7 +1,5 @@
 # week156
 
----
-
 ## 练习一
 
 (练习 30.2 第 1 题) 如图, $\odot O$ 中, $\angle ABC=50^\circ$, 点 $P$ 是 $\triangle ABC$ 的内心, 求 $\angle BOC$ 的度数.

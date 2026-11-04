@@ -1,7 +1,5 @@
 # week132
 
----
-
 ## Review Problem 1
 
 (Review, Review and Consolidation, Problem 1) Solve the following equations:

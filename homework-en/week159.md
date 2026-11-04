@@ -1,7 +1,5 @@
 # week159
 
----
-
 ## Exercise 1
 
 (Exercise 26.2, Problem 1) A glassware manufacturing company wants to make a conical funnel with a volume of $1\ \text{L}$ ($1\ \text{L}=1\ \text{dm}^3$).

@@ -1,7 +1,5 @@
 # week100
 
----
-
 ## Exercise 1
 
 (Exercise 20.2, Problem 1)

@@ -1,7 +1,5 @@
 # week71
 
----
-
 ## Review Problem 1
 
 (Review Problems, Review and Consolidation, Problem 1) There are three squares in the figure; state all the congruent triangles in the figure.
@@ -9,8 +7,6 @@
 ### Solution to Review Problem 1
 
 The three squares have equal side lengths. The triangles cut out by the diagonals can be determined congruent by SAS whenever their two legs are respectively sides of the square or are equal. In the figure, all triangles bounded by equal sides and right angles are pairwise congruent: the two triangles into which one square is divided along its diagonal are congruent, and corresponding triangles with equal side lengths are also congruent. $\blacksquare$
-
----
 
 ## Review Problem 2
 
@@ -26,8 +22,6 @@ The three squares have equal side lengths. The triangles cut out by the diagonal
 
 (2) Yes. Taking, for example, triangles on the same base $AD$ or $BC$ with equal heights, such as $\triangle ABF$ and $\triangle DBF$, they share the same base $BF$ and have equal heights, so their areas are equal, but their shapes are not the same; hence they have equal area but are not congruent. $\blacksquare$
 
----
-
 ## Review Problem 3
 
 (Review Problems, Review and Consolidation, Problem 3) As shown, $AB=AC$, $AD=BD=AE=CE$. Prove that $\angle D=\angle E$.
@@ -37,8 +31,6 @@ The three squares have equal side lengths. The triangles cut out by the diagonal
 In $\triangle ADB$ and $\triangle AEC$, $AD=AE$, $BD=CE$, $AB=AC$; by SSS, $\triangle ADB\cong\triangle AEC$.
 
 By Basic Knowledge, the corresponding angles satisfy $\angle D=\angle E$. $\blacksquare$
-
----
 
 ## Review Problem 4
 
@@ -50,8 +42,6 @@ From $\angle 1=\angle 2$, adding $\angle ACE$ to both sides gives $\angle ACB=\a
 
 By Basic Knowledge, the corresponding sides satisfy $AB=DE$. $\blacksquare$
 
----
-
 ## Review Problem 5
 
 (Review Problems, Review and Consolidation, Problem 5) As shown, there are two observation points $A$, $B$ on the coast, $B$ is due east of $A$, island $C$ is due north of $A$, and island $D$ is due north of $B$. If $\angle CAD=\angle CBD$, explain why the distances $CA$, $DB$ from islands $C$, $D$ to the coast are equal.
@@ -61,8 +51,6 @@ By Basic Knowledge, the corresponding sides satisfy $AB=DE$. $\blacksquare$
 Let $AD$ and $BC$ intersect at point $O$. From $CA\perp AB$, $DB\perp AB$, we get $\angle CAO=\angle DBO=90^\circ$. In $\triangle ACO$ and $\triangle BDO$, $\angle CAO=\angle DBO$, $\angle AOC=\angle BOD$ (vertical angles), and with the condition on the opposite side of $\angle CAO$ combined with $\angle CAD=\angle CBD$, by AAS, $\triangle ACO\cong\triangle BDO$.
 
 By Basic Knowledge, the corresponding sides satisfy $CA=DB$. $\blacksquare$
-
----
 
 ## Review Problem 6
 
@@ -74,8 +62,6 @@ From $AC\perp BD$, we get $\angle AEB=\angle CED=90^\circ$. In $\text{Rt}\triang
 
 By Basic Knowledge, the corresponding legs satisfy $BE=DE$. $\blacksquare$
 
----
-
 ## Review Problem 7
 
 (Review Problems, Review and Consolidation, Problem 7) As shown, in $\triangle ABC$, $D$ is the midpoint of $BC$, $DE\perp AB$, $DF\perp AC$, with feet at $E$, $F$ respectively, $BE=CF$. Prove that $AD$ is the angle bisector of $\triangle ABC$.
@@ -86,8 +72,6 @@ Since $D$ is the midpoint of $BC$, $BD=CD$. In $\text{Rt}\triangle BDE$ and $\te
 
 By Basic Knowledge, the corresponding legs satisfy $DE=DF$. That is, point $D$ is equidistant from $AB$, $AC$. By Determination of an Angle Bisector, point $D$ lies on the bisector of $\angle A$, so $AD$ is the angle bisector of $\triangle ABC$. $\blacksquare$
 
----
-
 ## Review Problem 8
 
 (Review Problems, Review and Consolidation, Problem 8) As shown, a resort is to be built on the flat ground enclosed by three highways, so that it is equidistant from the three highways. Where should it be built?
@@ -95,8 +79,6 @@ By Basic Knowledge, the corresponding legs satisfy $DE=DF$. That is, point $D$ i
 ### Solution to Review Problem 8
 
 By Properties of an Angle Bisector and Angle Bisectors of a Triangle, the three angle bisectors of a triangle intersect at one point, which is equidistant from the three sides. Hence the resort should be built at the intersection of the three angle bisectors (i.e. the incenter) of the triangle enclosed by the three highways. $\blacksquare$
-
----
 
 ## Review Problem 9
 
@@ -108,8 +90,6 @@ They are equal. Since they travel at the same speed for the same time, $AC=BD$. 
 
 By Basic Knowledge, the corresponding sides satisfy $CE=DF$. $\blacksquare$
 
----
-
 ## Review Problem 10
 
 (Review Problems, Comprehensive Application, Problem 10) As shown, point $C$ is the midpoint of $AB$, $CD\parallel BE$, and $CD=BE$. Prove that $AD\parallel CE$.
@@ -119,8 +99,6 @@ By Basic Knowledge, the corresponding sides satisfy $CE=DF$. $\blacksquare$
 Since $C$ is the midpoint of $AB$, $AC=CB$. From $CD\parallel BE$, we get $\angle ACD=\angle CBE$. In $\triangle ACD$ and $\triangle CBE$, $AC=CB$, $\angle ACD=\angle CBE$, $CD=BE$; by SAS, $\triangle ACD\cong\triangle CBE$.
 
 By Basic Knowledge, the corresponding angles satisfy $\angle ADC=\angle CEB$, which are alternate interior angles, so $AD\parallel CE$. $\blacksquare$
-
----
 
 ## Review Problem 11
 
@@ -133,8 +111,6 @@ From $AD\perp CE$, $BE\perp CE$, we get $\angle ADC=\angle CEB=90^\circ$. From $
 In $\triangle ACD$ and $\triangle CBE$, $\angle ADC=\angle CEB$, $\angle CAD=\angle BCE$, $AC=CB$; by AAS, $\triangle ACD\cong\triangle CBE$.
 
 By Basic Knowledge, $CD=BE$, $CE=AD=2.5$. Also $CE=CD+DE$, so $CD=CE-DE=2.5-1.7=0.8$, hence $BE=0.8$. $\blacksquare$
-
----
 
 ## Review Problem 12
 
@@ -152,8 +128,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## Review Problem 13
 
 (Review Problems, Comprehensive Application, Problem 13) As shown, $\triangle ABC\cong\triangle A'B'C'$, and $AD$, $A'D'$ are respectively the medians on the corresponding sides of the two triangles. What relationship do $AD$ and $A'D'$ have? Prove your conclusion.
@@ -165,8 +139,6 @@ $AD=A'D'$. From $\triangle ABC\cong\triangle A'B'C'$, we get $AB=A'B'$, $BC=B'C'
 In $\triangle ABD$ and $\triangle A'B'D'$, $AB=A'B'$, $\angle B=\angle B'$, $BD=B'D'$; by SAS, $\triangle ABD\cong\triangle A'B'D'$.
 
 By Basic Knowledge, the corresponding sides satisfy $AD=A'D'$. $\blacksquare$
-
----
 
 ## Review Problem 14
 
@@ -183,8 +155,6 @@ $$
 $$
 
 That is, $S_{\triangle ABD}:S_{\triangle ACD}=AB:AC$. $\blacksquare$
-
----
 
 ## Review Problem 15
 

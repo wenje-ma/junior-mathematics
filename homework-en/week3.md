@@ -1,7 +1,5 @@
 # week3
 
----
-
 ## Activity 1
 
 (Math Activity, Activity 1, Weight Survey, Problem 1) The standard weight (unit: $\text{kg}$) for a child or adolescent is computed as follows: standard weight $=$ (age $\times 7-5\right)\div 2$. The table below shows the weight situation of $6$ students in a group in Grade 7, where the number of kilograms exceeding the standard weight is recorded as a positive number and the number of kilograms short of the standard weight is recorded as a negative number.
@@ -19,8 +17,6 @@ By Representing Quantities of Opposite Meaning, exceeding the standard weight is
 (1) In the table, the positive numbers are $+2$, $+10$, $+4.7$, that is, students numbered $2$, $4$, $5$ have weights exceeding the standard weight; the negative numbers are $-1.1$, $-0.5$, $-8.3$, that is, students numbered $1$, $3$, $6$ have weights falling short of the standard weight. Among the $6$ students in the group, $3$ exceed and $3$ fall short; the total excess is $2+10+4.7=16.7\ \text{kg}$, and the total shortfall is $\left|-1.1\right|+\left|-0.5\right|+\left|-8.3\right|=9.9\ \text{kg}$; the group as a whole is somewhat overweight.
 
 (2) By Absolute Value, the smaller the absolute value of a number, the smaller its deviation from $0$. The absolute values of the deviations are $1.1$, $2$, $0.5$, $10$, $4.7$, $8.3$, among which $0.5$ is the smallest, so the student numbered $3$ has the weight closest to the standard weight. Besides judging positive and negative numbers, one should also consider the magnitude of the absolute value of the deviation, that is, the extent to which the weight deviates from the standard weight, in order to judge whether the weight is standard. $\blacksquare$
-
----
 
 ## Activity 2
 

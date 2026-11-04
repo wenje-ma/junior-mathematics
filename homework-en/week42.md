@@ -1,7 +1,5 @@
 # week42
 
----
-
 ## Exercise 1
 
 (Exercise 9.2, Problem 1) As shown in the figure, if the coordinates of points $B$, $C$ are $B\left(-1,-2\right)$ and $C\left(1,-1\right)$ respectively, write down the coordinates of points $A$, $D$, $E$, $F$, $G$. Also, establish another rectangular coordinate system in the figure and write down the coordinates of the points.
@@ -11,8 +9,6 @@
 Determine the coordinate system from $B\left(-1,-2\right)$, $C\left(1,-1\right)$: the two points differ by $2$ horizontally and $1$ vertically, so each small grid is $1$ unit. According to the positions of the points relative to $B$, $C$, read off the coordinates (x-coordinate, y-coordinate) of $A$, $D$, $E$, $F$, $G$.
 
 If another origin is chosen to rebuild the system, the coordinates of all points are translated as a whole by a fixed vector; just write down the new coordinates. $\blacksquare$
-
----
 
 ## Exercise 2
 
@@ -28,8 +24,6 @@ School $\left(0,0\right)$. Li Ming's home is $1000$ east i.e. $x=2$, $1500$ nort
 
 Plot the positions of the school and the three homes in the coordinate system. $\blacksquare$
 
----
-
 ## Exercise 3
 
 (Exercise 9.2, Problem 3) The figure is a schematic diagram of the positions of three warships. Use direction and distance to describe the positions of the two warships at $A$, $B$ relative to the warship at $C$.
@@ -37,8 +31,6 @@ Plot the positions of the school and the three homes in the coordinate system. $
 ### Solution to Exercise 3
 
 By Representing Geographic Locations with Coordinates, describe using a direction angle and a distance. Taking the warship at $C$ as the observation point, measure from the angles and scale in the figure the direction angles (such as north by east, or south by west by so many degrees) and actual distances of $A$, $B$ relative to $C$; this describes the positions of the warships at $A$, $B$ relative to the warship at $C$. $\blacksquare$
-
----
 
 ## Exercise 4
 
@@ -52,8 +44,6 @@ By Representing Translation with Coordinates, translating right by $2$ units add
 
 The coordinates of the three vertices of the original triangle are $\left(-4,-1\right)$, $\left(1,1\right)$, $\left(-1,4\right)$. After translation: $\left(-4+2,-1+3\right)=\left(-2,2\right)$, $\left(1+2,1+3\right)=\left(3,4\right)$, $\left(-1+2,4+3\right)=\left(1,7\right)$. That is, $\left(-2,2\right)$, $\left(3,4\right)$, $\left(1,7\right)$. Choose (3). $\blacksquare$
 
----
-
 ## Exercise 5
 
 (Exercise 9.2, Problem 2) As shown in the figure, through what kind of translation can figure Ⅱ be obtained from figure Ⅰ? What changes in the coordinates of the corresponding points?
@@ -61,8 +51,6 @@ The coordinates of the three vertices of the original triangle are $\left(-4,-1\
 ### Solution to Exercise 5
 
 By Representing Translation with Coordinates, take a known point on figure Ⅰ and its corresponding point on figure Ⅱ, and compare the coordinates. The change in x-coordinate determines the left-right translation, and the change in y-coordinate determines the up-down translation. An increase in x-coordinate means moving right, a decrease means moving left; an increase in y-coordinate means moving up, a decrease means moving down. The coordinate changes of the corresponding points are exactly the same. $\blacksquare$
-
----
 
 ## Exercise 6
 
@@ -78,8 +66,6 @@ Segment $CD$ shifted left by $3$ (x-coordinate minus $3$) and down by $2$ (y-coo
 
 That is, $C\left(-2,1\right)$, $D\left(1,3\right)$, $E\left(-5,-1\right)$, $F\left(-2,1\right)$. $\blacksquare$
 
----
-
 ## Exercise 7
 
 (Exercise 9.2, Problem 1) As shown in the figure, after translating quadrilateral $ABCD$, the coordinates of vertex $C\left(2,3\right)$ become $\left(2,0\right)$. At this time, what do the coordinates of points $A\left(2,7\right)$, $B\left(1,5\right)$, $D\left(3,5\right)$ respectively become?
@@ -91,8 +77,6 @@ From $C\left(2,3\right)\to\left(2,0\right)$, the x-coordinate is unchanged and t
 By Representing Translation with Coordinates, the y-coordinate of all points is subtracted by $3$: $A\left(2,7\right)\to\left(2,4\right)$, $B\left(1,5\right)\to\left(1,2\right)$, $D\left(3,5\right)\to\left(3,2\right)$.
 
 That is, $A$ becomes $\left(2,4\right)$, $B$ becomes $\left(1,2\right)$, $D$ becomes $\left(3,2\right)$. $\blacksquare$
-
----
 
 ## Exercise 8
 
@@ -106,8 +90,6 @@ Compute the corresponding points: $A'\left(2-3,2+1\right)=\left(-1,3\right)$, $O
 
 Quadrilateral $A'O'C'B'$ has exactly the same size and shape as parallelogram $AOCB$, and can be regarded as obtained by translating $AOCB$ left by $3$ units of length and then up by $1$ unit of length. $\blacksquare$
 
----
-
 ## Exercise 9
 
 (Exercise 9.2, Problem 3) The three vertices of triangle $ABC$ have coordinates $A\left(-3,2\right)$, $B\left(1,1\right)$, $C\left(-1,-2\right)$. If triangle $ABC$ is translated so that point $A$ moves to point $\left(1,-2\right)$, write down one way of translating triangle $ABC$ along the coordinate-axis directions, and the coordinates of the corresponding points of $B$ and $C$.
@@ -120,8 +102,6 @@ By Representing Translation with Coordinates, add $4$ to the x-coordinate and su
 
 That is, the corresponding point of $B$ is $\left(5,-3\right)$, and the corresponding point of $C$ is $\left(3,-6\right)$. $\blacksquare$
 
----
-
 ## Problem 1
 
 (Exercise 9.2, Review and Consolidation, Problem 1) As shown in the figure, a robotic arm must move a workpiece from point $A$ to point $B$ in the figure, but the workpiece must not touch the obstacle in the figure. Use coordinates to write a route that the robotic arm might take during movement.
@@ -130,8 +110,6 @@ That is, the corresponding point of $B$ is $\left(5,-3\right)$, and the correspo
 
 By Representing Translation with Coordinates and Coordinates of a Point, the robotic arm can only move along the coordinate-axis directions (grid lines). Starting from $A$, first move along the $x$-axis direction to some safe vertical line on one side of the obstacle, then along the $y$-axis direction to the same horizontal line as $B$, and finally along the $x$-axis direction to reach $B$. Write down the coordinates of each turning point on this polyline, ensuring it does not pass through the grids occupied by the obstacle. $\blacksquare$
 
----
-
 ## Problem 2
 
 (Exercise 9.2, Review and Consolidation, Problem 2) The figure is a schematic diagram of a school. Establish an appropriate rectangular coordinate system and use coordinates to represent the positions of the teaching building, library, school gate, laboratory building, and flagpole.
@@ -139,8 +117,6 @@ By Representing Translation with Coordinates and Coordinates of a Point, the rob
 ### Solution to Problem 2
 
 By Representing Geographic Locations with Coordinates, choose the school gate (or flagpole) as the origin, east as the positive $x$-axis direction, north as the positive $y$-axis direction, and determine the unit length according to the scale. Measure the horizontal and vertical distances of each building relative to the origin, and write down the coordinates of the teaching building, library, school gate, laboratory building, and flagpole. $\blacksquare$
-
----
 
 ## Problem 3
 
@@ -151,8 +127,6 @@ By Representing Geographic Locations with Coordinates, choose the school gate (o
 By Representing Geographic Locations with Coordinates, describe using a direction angle and a distance. Taking Class $1$ at $A$ as the observation point, the angles in the figure show that $B$ is in the direction north by east $40^\circ$ (or the corresponding direction) of $A$, $5\,km$ away; thus the position of Class $2$ relative to Class $1$ is north by east $40^\circ$, $5\,km$.
 
 Conversely, the direction is reversed and the distance is unchanged: the position of Class $1$ relative to Class $2$ is south by west $40^\circ$, $5\,km$. $\blacksquare$
-
----
 
 ## Problem 4
 
@@ -178,8 +152,6 @@ $$
 
 $\blacksquare$
 
----
-
 ## Problem 5
 
 (Exercise 9.2, Review and Consolidation, Problem 5) As shown in the figure, translate parallelogram $ABCD$ to the left by $2$ units of length, then up by $3$ units of length, to obtain parallelogram $A'B'C'D'$. Draw the translated figure and indicate the coordinates of each vertex.
@@ -198,8 +170,6 @@ $$
 
 Connecting them in order gives the translated parallelogram $A'B'C'D'$. $\blacksquare$
 
----
-
 ## Problem 6
 
 (Exercise 9.2, Comprehensive Application, Problem 6) As shown in the figure, a rectangular coordinate system is established to label a leaf specimen. If the coordinates of point $A$ representing the "base" of the petiole are $\left(-1,-2\right)$ and the coordinates of point $B$ representing the "tip" of the leaf blade are $\left(2,6\right)$, write down the coordinates of points $C$, $D$, $E$, $F$ in the figure.
@@ -207,8 +177,6 @@ Connecting them in order gives the translated parallelogram $A'B'C'D'$. $\blacks
 ### Solution to Problem 6
 
 Determine the coordinate system from $A\left(-1,-2\right)$, $B\left(2,6\right)$: the x-coordinate difference is $2-\left(-1\right)=3$, the y-coordinate difference is $6-\left(-2\right)=8$, and the unit length is determined by the number of square grids. By Coordinates of a Point, read off the coordinates of $C$, $D$, $E$, $F$ according to the grids of each point relative to $A$, $B$. $\blacksquare$
-
----
 
 ## Problem 7
 
@@ -218,8 +186,6 @@ Determine the coordinate system from $A\left(-1,-2\right)$, $B\left(2,6\right)$:
 
 By Representing Geographic Locations with Coordinates, choose one corner point of the part as the origin and take the lines on which the two sides lie as the $x$-axis and $y$-axis. According to the dimensions marked in the figure (total length $38$, width $24$, circular-hole radius $r=4$, etc.), compute the horizontal and vertical distances of each vertex relative to the origin, and write down the coordinates of $A$, $B$, $C$, $D$, $E$, $F$, $G$ (unit: $mm$). $\blacksquare$
 
----
-
 ## Problem 8
 
 (Exercise 9.2, Comprehensive Application, Problem 8) As shown in the figure, when making animated cartoons, translation of figures is often used. The fawn goes from point $A$ to $B$, then to $C$, then to $D$. In each of these stages, what kind of translation took place?
@@ -227,8 +193,6 @@ By Representing Geographic Locations with Coordinates, choose one corner point o
 ### Solution to Problem 8
 
 By Representing Translation with Coordinates, compare the coordinate changes of corresponding points of the fawn between two adjacent positions. An increase in x-coordinate means translating right, a decrease means translating left; an increase in y-coordinate means translating up, a decrease means translating down. Read off the changes in x- and y-coordinates for each segment $A\to B$, $B\to C$, $C\to D$; this gives the direction and distance of each translation. $\blacksquare$
-
----
 
 ## Problem 9
 
@@ -248,8 +212,6 @@ By Representing Translation with Coordinates, add $2$ to the x-coordinate and su
 
 That is, the coordinates of $E$ are $\left(7,-12\right)$. $\blacksquare$
 
----
-
 ## Problem 10
 
 (Exercise 9.2, Extension and Exploration, Problem 10) As shown in the figure, this is part of a schematic diagram of a zoo drawn using a rectangular coordinate system. If this rectangular coordinate system takes due east and due north as the positive directions of the $x$-axis and $y$-axis respectively, and the coordinates of Monkey Mountain and Lion-Tiger Hill are $\left(2,1\right)$ and $\left(8,2\right)$ respectively, can you mark the position of the Panda House $\left(6,6\right)$ on this figure?
@@ -259,8 +221,6 @@ The figure shows a partial map of a zoo, marking Monkey Hill at $\left(2,1\right
 ### Solution to Problem 10
 
 Determine the coordinate system from Monkey Mountain $\left(2,1\right)$ and Lion-Tiger Hill $\left(8,2\right)$: the two points differ by $6$ horizontally and $1$ vertically; determine the unit length and locate the origin according to the grids in the figure. By Coordinates of a Point, for the Panda House $\left(6,6\right)$, take the x-coordinate $6$ on the $x$-axis and the y-coordinate $6$ on the $y$-axis; the intersection of the two perpendiculars is the position of the Panda House. $\blacksquare$
-
----
 
 ## Problem 11
 

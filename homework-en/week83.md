@@ -1,7 +1,5 @@
 # week83
 
----
-
 ## Exercise 1
 
 (Exercise 17.1, Problem 1) Which of the following transformations from left to right are factorizations? Which are not? Why?
