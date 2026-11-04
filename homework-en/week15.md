@@ -1,221 +1,395 @@
 # week15
 
+## Review Problem 1
+
+(Review Problem, Extension and Exploration, Problem 13) Draw any quadrilateral $ABCD$; let the midpoints of its four sides be $E$, $F$, $G$, $H$ respectively. Join $EF$, $FG$, $GH$, $HE$ and measure their lengths; what do you observe? Measure the degrees of $\angle 1$, $\angle 2$, $\angle 3$, $\angle 4$; what else do you observe?
+
+### Solution to Review Problem 1
+
+By Midpoint of a Segment and Angle.
+
+For the quadrilateral $EFGH$ formed by joining the midpoints, measurement shows: $EF=GH$, $FG=HE$, i.e. opposite sides are equal. Also $\angle 1=\angle 3$, $\angle 2=\angle 4$, i.e. opposite angles are equal. Thus one may conjecture: the quadrilateral formed by joining the midpoints of any quadrilateral is a parallelogram.
+
+In the figure, the midpoints of the four sides of quadrilateral $ABCD$ are $E$, $F$, $G$, $H$ respectively; joining $E$, $F$, $G$, $H$ in order forms quadrilateral $EFGH$.
+
+$\blacksquare$
+
+## Review Problem 2
+
+(Review Problem, Extension and Exploration, Problem 14) Find a point $O$ inside quadrilateral $ABCD$ such that the sum of its distances to the four vertices, $OA+OB+OC+OD$, is minimized; explain why.
+
+### Solution to Review Problem 2
+
+By between two points the segment is the shortest.
+
+Let $O$ be any point inside the quadrilateral; then
+
+$$OA+OC\ge AC,\quad OB+OD\ge BD.$$
+
+Adding the two inequalities: $OA+OB+OC+OD\ge AC+BD$.
+
+Equality holds if and only if $O$ lies on both diagonals $AC$ and $BD$, i.e. $O$ is the intersection of diagonals $AC$ and $BD$. Then $OA+OC=AC$, $OB+OD=BD$, and the sum of distances is minimized at $AC+BD$. $\blacksquare$
+
+## Inquiry 1
+
+(Comprehensive Practice, Problem 1) How long is the straightaway of a standard $400\ \text{m}$ track? What is the total length of the first lane? What shape are the curves?
+
+### Solution to Inquiry 1
+
+By Measuring Angles and the circumference formula for a circle.
+
+A standard $400\ \text{m}$ track consists of two straightaways and two semicircular curves; the two semicircular curves together form one full circle. The curve radius of the first lane is $36.5\ \text{m}$, so the curve length is $2\pi\times36.5\approx229.3\ \text{m}$.
+
+Total straightaway length $=400-229.3=170.7\ \text{m}$, so each straightaway is about $85.3\ \text{m}$ long.
+
+The curves are semicircular; the two curves together form one circle. $\blacksquare$
+
+## Inquiry 2
+
+(Comprehensive Practice, Problem 2) On a standard $400\ \text{m}$ track, are the starting points the same for races such as $100\ \text{m}$, $200\ \text{m}$, $400\ \text{m}$, $800\ \text{m}$, and $1500\ \text{m}$? Why?
+
+### Solution to Inquiry 2
+
+By Distance and the relation between a circle's circumference and its radius.
+
+The $100\ \text{m}$ race runs entirely on the straightaway, so the starting points are the same.
+
+The $200\ \text{m}$ and $400\ \text{m}$ races go through the curves; different lanes have different curve radii and hence different curve lengths. The outer lanes have larger curve radii and longer curve lengths. To make runners in all lanes run the same distance, the starting points of outer lanes must be moved forward; that is, the starting points differ by lane.
+
+The $800\ \text{m}$ and $1500\ \text{m}$ races also go through curves, so their starting points likewise differ by lane. $\blacksquare$
+
+## Inquiry 3
+
+(Comprehensive Practice, Problem 3) How should the starting line for a $400\ \text{m}$ race be marked on a school $400\ \text{m}$ track? How should the starting lines for a $4\times100\ \text{m}$ relay be marked?
+
+### Solution to Inquiry 3
+
+By Measuring Angles and Distance.
+
+$400\ \text{m}$ race: the first lane's starting line is set at the junction of straightaway and curve. For the other lanes, since an outer lane's curve length exceeds the inner lane's by $2\pi d$ ($d$ is the lane width), the starting line should be moved forward by the corresponding distance. The difference between adjacent lanes' starting lines is about $2\pi\times1.22\approx7.66\ \text{m}$.
+
+$4\times100\ \text{m}$ relay: each leg is $100\ \text{m}$; the start of each leg is set according to the track layout. The first leg starts at the curve, the second leg on the straightaway, the third leg at the curve, and the fourth leg on the straightaway. The starting lines of all lanes likewise need to be shifted forward. $\blacksquare$
+
+## Inquiry 4
+
+(Comprehensive Practice, Problem 4) If the school has only a $300\ \text{m}$ track, how should the starting line for a $200\ \text{m}$ race be marked?
+
+### Solution to Inquiry 4
+
+By Distance and the circumference formula for a circle.
+
+The curve radius of a $300\ \text{m}$ track is smaller than that of a standard $400\ \text{m}$ track. The $200\ \text{m}$ race goes through one curve; running $200\ \text{m}$ in the first lane exactly covers one curve plus a section of straightaway.
+
+The shift of each lane's starting line is still computed from the difference in curve length between adjacent lanes: $\Delta=2\pi d$, where $d$ is the lane width. Outer lanes' starting lines are shifted forward by $\Delta$, so runners in all lanes run the same distance. $\blacksquare$
+
+## Inquiry 5
+
+(Comprehensive Practice, Problem 5) What specific requirements are there for setting up a high jump competition area?
+
+### Solution to Inquiry 5
+
+By Distance.
+
+A high jump area includes an approach run, a crossbar, and a landing area. The approach run is at least $15\ \text{m}$ long and $1.22\ \text{m}$ to $1.25\ \text{m}$ wide. The distance between the supports at the two ends of the crossbar is $4\ \text{m}$. The landing area is a foam mat of no less than $5\ \text{m}\times3\ \text{m}$. $\blacksquare$
+
+## Inquiry 6
+
+(Comprehensive Practice, Problem 6) What are the length and width (in meters) of the rectangular sand pit in a long jump area? What are the design requirements for the approach area?
+
+### Solution to Inquiry 6
+
+By Distance.
+
+The long jump sand pit is rectangular, about $8\ \text{m}$ to $9\ \text{m}$ long and about $2.75\ \text{m}$ to $3\ \text{m}$ wide. The distance from the near edge of the pit to the takeoff board is $1.25\ \text{m}$ to $1.75\ \text{m}$. The approach run is at least $40\ \text{m}$ long and $1.22\ \text{m}$ to $1.25\ \text{m}$ wide. $\blacksquare$
+
+## Inquiry 7
+
+(Comprehensive Practice, Problem 7) The shot put area consists of part of a sector plus a circle. What is the circle's radius in meters? What is the radius of the circle to which the sector belongs? Approximately how many square meters does the area occupy?
+
+### Solution to Inquiry 7
+
+By Measuring Angles and the area formula for a circle.
+
+The inner diameter of the shot put throwing circle is $2.135\ \text{m}$, so its radius is $1.0675\ \text{m}$. The radius of the throwing sector is $25\ \text{m}$, and the sector's central angle is $34.92^{\circ}$.
+
+Throwing circle area $=\pi r^{2}=\pi\times1.0675^{2}\approx3.58\ \text{m}^{2}$.
+
+Sector area $=\frac{34.92^{\circ}}{360^{\circ}}\times\pi\times25^{2}\approx190.8\ \text{m}^{2}$.
+
+The total area is about $190.8+3.58\approx194.4\ \text{m}^{2}$. $\blacksquare$
+
+## Inquiry 8
+
+(Comprehensive Practice, Problem 8) The shot put competition area is rather special; where on the sports field should it be placed? Why?
+
+### Solution to Inquiry 8
+
+By between two points the segment is the shortest and safety considerations.
+
+Since the shot is thrown far and is dangerous, it should be placed in a corner of the field (outside the curves), away from the running track and other competition areas. This way it neither interferes with track events nor endangers spectators and athletes. $\blacksquare$
+
 ## Exercise 1
 
-(Exercise 4.1, Problem 1) Fill in the table:
+(Exercise 7.1, Problem 1) In the following figures, are $\angle 1$ and $\angle 2$ vertical angles?
 
-| Monomial | $2a^{2}$ | $-1.2h$ | $xy^{2}$ | $-t^{2}$ | $-2vt^{3}$ |
-|---|---|---|---|---|---|
-| Coefficient | $\;\_\_\;$ | $\;\_\_\;$ | $\;\_\_\;$ | $\;\_\_\;$ | $\;\_\_\;$ |
-| Degree | $\;\_\_\;$ | $\;\_\_\;$ | $\;\_\_\;$ | $\;\_\_\;$ | $\;\_\_\;$ |
+The figure shows four small diagrams (1)–(4) in sequence, each marking a pair of angles $\angle 1$ and $\angle 2$: in (1) the angles share a vertex but their sides are not opposite extensions; in (2) the angles share a vertex and their sides are respectively opposite extensions; in (3) the sides are not opposite extensions; in (4) the sides are not opposite extensions.
 
 ### Solution to Exercise 1
 
-By Coefficient of a Monomial, the numerical factor in a monomial is the coefficient; by Degree of a Monomial, the sum of the exponents of all letters is the degree.
+By Vertical Angles, for a pair of angles to be vertical angles they must simultaneously satisfy: sharing a common vertex, and the sides of one being respectively the opposite extensions of the sides of the other.
 
-For $2a^{2}$, the numerical factor is $2$, the exponent of the letter $a$ is $2$, so the coefficient is $2$ and the degree is $2$.
+In figure (1), the sides of $\angle 1$ and $\angle 2$ are not opposite extensions of each other, so they are not vertical angles; in figure (2), $\angle 1$ and $\angle 2$ share a common vertex and their sides are respectively opposite extensions of each other, so they are vertical angles; in figure (3), $\angle 1$ and $\angle 2$ do not satisfy the opposite-extension condition, so they are not vertical angles; in figure (4), the sides of $\angle 1$ and $\angle 2$ are not opposite extensions of each other, so they are not vertical angles.
 
-For $-1.2h$, the numerical factor is $-1.2$, the exponent of the letter $h$ is $1$, so the coefficient is $-1.2$ and the degree is $1$.
-
-For $xy^{2}$, the numerical factor is $1$ (omitted), the exponent of $x$ is $1$, the exponent of $y$ is $2$, the degree is $1+2=3$, so the coefficient is $1$ and the degree is $3$.
-
-For $-t^{2}$, the numerical factor is $-1$ (omitted), the exponent of $t$ is $2$, so the coefficient is $-1$ and the degree is $2$.
-
-For $-2vt^{3}$, the numerical factor is $-2$, the exponent of $v$ is $1$, the exponent of $t$ is $3$, the degree is $1+3=4$, so the coefficient is $-2$ and the degree is $4$. $\blacksquare$
+In summary, only the $\angle 1$ and $\angle 2$ in figure (2) are vertical angles. $\blacksquare$
 
 ## Exercise 2
 
-(Exercise 4.1, Problem 2) Fill in the blanks with monomials, and state their coefficients and degrees.
-
-(1) If the carbon emissions of using a batch of carbon dioxide refrigerant are $m\ \text{t}$, then the carbon emissions of a traditional refrigerant with the same amount are $\;\_\_\;\text{t}$.
-
-(2) If the profit from selling one item of this kind is $m$ yuan, then the total profit from selling $n$ items is $\;\_\_\;$ yuan.
-
-(3) The rain-collecting funnel of a rain gauge is cone-shaped, with an internal base radius of $r$ and a height of $h$. Then the volume of this funnel is $\;\_\_\;$.
+(Exercise 7.1, Problem 2) As shown, in a model of intersecting lines, if one of the angles formed by two wooden sticks $a$, $b$ is $\angle\alpha=35^\circ$, what are the other three angles? What if $\angle\alpha$ equals $90^\circ$, $115^\circ$, $m^\circ$?
 
 ### Solution to Exercise 2
 
-By Monomial, an expression formed by the product of numbers or letters is a monomial; the coefficient and degree are then determined by Coefficient of a Monomial and Degree of a Monomial.
+Two lines intersect to form four angles; the two angles adjacent to $\angle\alpha$ are both its adjacent supplementary angles, and the angle opposite $\angle\alpha$ is its vertical angle. By Adjacent Supplementary Angles, adjacent supplementary angles sum to $180^\circ$; by Vertical Angles Are Equal, the vertical angle equals $\angle\alpha$.
 
-(1) The carbon emissions of the traditional refrigerant are $3.985$ times those of the carbon dioxide refrigerant, so it is $3.985m\ \text{t}$; its coefficient is $3.985$ and its degree is $1$.
+When $\angle\alpha=35^\circ$, the vertical angle is $35^\circ$, and both adjacent supplementary angles are $180^\circ-35^\circ=145^\circ$, so the other three angles are $145^\circ$, $35^\circ$, $145^\circ$.
 
-(2) The profit per item is $m$ yuan, and selling $n$ items gives a total profit of $mn$ yuan; its coefficient is $1$ and its degree is $2$.
+When $\angle\alpha=90^\circ$, the vertical angle is $90^\circ$, and both adjacent supplementary angles are $180^\circ-90^\circ=90^\circ$, so the other three angles are all $90^\circ$.
 
-(3) The volume formula for a cone is $\frac{1}{3}\pi r^{2}h$, so the volume of this funnel is $\frac{1}{3}\pi r^{2}h$; its coefficient is $\frac{1}{3}\pi$ and its degree is $3$. $\blacksquare$
+When $\angle\alpha=115^\circ$, the vertical angle is $115^\circ$, and both adjacent supplementary angles are $180^\circ-115^\circ=65^\circ$, so the other three angles are $65^\circ$, $115^\circ$, $65^\circ$.
+
+When $\angle\alpha=m^\circ$, the vertical angle is $m^\circ$, and both adjacent supplementary angles are $\left(180-m\right)^\circ$, so the other three angles are $\left(180-m\right)^\circ$, $m^\circ$, $\left(180-m\right)^\circ$. $\blacksquare$
 
 ## Exercise 3
 
-(Exercise 4.1, Problem 1) Which of the following algebraic expressions are monomials? Which are polynomials?
-
-$$2a+1,\ 4r^{2},\ 2x^{2}-5y+1,\ 3,\ \frac{3}{8}m^{3}-5n.$$
+(Exercise 7.1, Problem 3) As shown, lines $AB$, $CD$ intersect at point $O$, and $\angle AOC:\angle BOC=2:7$; then $\angle BOC=\;\_\_\;^\circ$, $\angle AOD=\;\_\_\;^\circ$.
 
 ### Solution to Exercise 3
 
-By Monomial, a product of numbers or letters is a monomial; by Polynomial, a sum of several monomials is a polynomial.
+$\angle AOC$ and $\angle BOC$ share side $OC$, and their other sides are opposite extensions of each other; by Adjacent Supplementary Angles, they are supplementary, i.e.
 
-$4r^{2}$ is the product of the number $4$ and the letter $r$, and $3$ is a single number, so $4r^{2}$ and $3$ are monomials.
+$$
+\angle AOC+\angle BOC=180^\circ.
+$$
 
-$2a+1$ is the sum of the monomials $2a$ and $1$; $2x^{2}-5y+1$ is the sum of the monomials $2x^{2}$, $-5y$ and $1$; $\frac{3}{8}m^{3}-5n$ is the sum of the monomials $\frac{3}{8}m^{3}$ and $-5n$; so these three are polynomials. $\blacksquare$
+Also $\angle AOC:\angle BOC=2:7$; set $\angle AOC=2k$, $\angle BOC=7k$; then $2k+7k=180^\circ$, giving $k=20^\circ$. Hence $\angle BOC=7k=140^\circ$.
+
+$\angle AOD$ and $\angle BOC$ share vertex $O$, and their sides are opposite extensions of each other; by Vertical Angles Are Equal, $\angle AOD=\angle BOC=140^\circ$. $\blacksquare$
 
 ## Exercise 4
 
-(Exercise 4.1, Problem 2) Fill in the table:
-
-| Polynomial | $-5a^{2}b+2ab-b^{4}$ | $-2h+1$ | $rl+2r^{2}$ | $\frac{1}{2}t^{2}-2t+3$ | $x^{3}-2y+x^{2}$ |
-|---|---|---|---|---|---|
-| Terms | $\;\_\_\;$ | $\;\_\_\;$ | $\;\_\_\;$ | $\;\_\_\;$ | $\;\_\_\;$ |
-| Degree | $\;\_\_\;$ | $\;\_\_\;$ | $\;\_\_\;$ | $\;\_\_\;$ | $\;\_\_\;$ |
+(Exercise 7.1, Problem 1) When the four angles formed by two intersecting lines are all equal, what is the positional relation between the two lines? Why?
 
 ### Solution to Exercise 4
 
-By Polynomial, each monomial is a term of the polynomial, and a term includes the plus or minus sign in front of it; by Degree of a Polynomial, the degree of the term with the highest degree is the degree of the polynomial.
+The four angles sum to a full angle of $360^\circ$; since they are all equal, each angle is $360^\circ\div 4=90^\circ$.
 
-For $-5a^{2}b+2ab-b^{4}$, the terms are $-5a^{2}b$, $2ab$ and $-b^{4}$, whose degrees are respectively $3$, $2$ and $4$; the highest degree is $4$, so the degree is $4$.
-
-For $-2h+1$, the terms are $-2h$ and $1$, with degrees $1$ and $0$ respectively, so the degree is $1$.
-
-For $rl+2r^{2}$, the terms are $rl$ and $2r^{2}$, with degrees $2$ and $2$ respectively, so the degree is $2$.
-
-For $\frac{1}{2}t^{2}-2t+3$, the terms are $\frac{1}{2}t^{2}$, $-2t$ and $3$, with degrees $2$, $1$ and $0$ respectively, so the degree is $2$.
-
-For $x^{3}-2y+x^{2}$, the terms are $x^{3}$, $-2y$ and $x^{2}$, with degrees $3$, $1$ and $2$ respectively; the highest degree is $3$, so the degree is $3$. $\blacksquare$
+By Perpendicular, when one of the four angles formed by two intersecting lines is a right angle, the two lines are perpendicular. Here all four angles are $90^\circ$, so the two lines are perpendicular. $\blacksquare$
 
 ## Exercise 5
 
-(Exercise 4.1, Problem 3) One face of a component of the six components of a Luban lock consists of a rectangle of length $a$ and width $b$ together with several protruding parts; the dimensions marked in the figure are $a$, $b$, $c$ and $d$. The area of this face is $\;\_\_\;$.
+(Exercise 7.1, Problem 2) As shown, through point $P$ draw the perpendiculars to lines $AB$ and $CD$ respectively, and measure the distance from point $P$ to line $AB$.
 
 ### Solution to Exercise 5
 
-By Polynomial, the area of this face can be expressed as the sum of the areas of several parts. Figure (2) shows a rectangle of length $a$ and width $b$, with a rectangular notch of length $d$ and depth $c$ cut in the middle of its top edge; the area of the notch is $cd$. Hence the area of this face is the area of the large rectangle minus the area of the notch:
+By Perpendicular Lines, through point $P$ there is exactly one line perpendicular to $AB$, and also exactly one line perpendicular to $CD$. Align one leg of a set square with $AB$, slide the set square along $AB$ until the other leg passes through point $P$, and draw a line along this leg; this gives the line through $P$ perpendicular to $AB$, with foot denoted $H$; draw the line through $P$ perpendicular to $CD$ in the same way.
 
-$$ab-cd.$$
+By Distance from a Point to a Line, the distance from point $P$ to line $AB$ is the length of the perpendicular segment $PH$; measure the length of $PH$ with a ruler to obtain it. $\blacksquare$
 
-$\blacksquare$
+## Exercise 6
+
+(Exercise 7.1, Problem 3) As shown, in triangle $ABC$, $\angle C=90^\circ$.
+
+(1) State respectively which segments' lengths are the distance from point $A$ to line $CB$ and from point $B$ to line $AC$;
+
+(2) Among the three sides $AB$, $AC$, $CB$, which is longest? Why?
+
+The figure shows right triangle $ABC$ with $\angle C=90^\circ$, i.e. $AC\perp BC$, $AB$ the hypotenuse, and vertices $A$, $B$, $C$ labeled.
+
+### Solution to Exercise 6
+
+By Distance from a Point to a Line, the distance from a point to a line is the length of the perpendicular segment from that point to the line.
+
+(1) In triangle $ABC$, $\angle C=90^\circ$, i.e. $AC\perp BC$. The perpendicular segment from point $A$ to line $CB$ is $AC$, so the distance from $A$ to line $CB$ is the length of segment $AC$; the perpendicular segment from point $B$ to line $AC$ is $BC$, so the distance from $B$ to line $AC$ is the length of segment $BC$.
+
+(2) By The Perpendicular Segment Is the Shortest, among the segments joining an outside point to points on a line the perpendicular segment is the shortest. For point $A$, $AC$ is the perpendicular segment from $A$ to line $BC$, while $AB$ is an oblique segment, so $AB> AC$; for point $B$, $BC$ is the perpendicular segment from $B$ to line $AC$, while $AB$ is an oblique segment, so $AB> BC$. Therefore $AB$ is the longest of the three sides. $\blacksquare$
+
+## Exercise 7
+
+(Exercise 7.1, Problem 1) Identify respectively the corresponding angles, alternate interior angles, and consecutive interior angles in each of the following figures.
+
+### Solution to Exercise 7
+
+By Corresponding Angles, Alternate Interior Angles, Consecutive Interior Angles, first determine the two lines being cut and the transversal, then judge by the positions of the two angles.
+
+In each figure, the transversal is the line that intersects both lines being cut. A pair of angles on the same side of the two cut lines and on the same side of the transversal are corresponding angles; a pair between the two cut lines and on opposite sides of the transversal are alternate interior angles; a pair between the two cut lines and on the same side of the transversal are consecutive interior angles. Identify each pair by these criteria. $\blacksquare$
+
+## Exercise 8
+
+(Exercise 7.1, Problem 2) As shown, with which angle is $\angle B$ an alternate interior angle? With which is it a consecutive interior angle? Which two lines are cut by which transversal to form them? Carry out the same discussion for $\angle C$.
+
+### Solution to Exercise 8
+
+By Corresponding Angles, Alternate Interior Angles, Consecutive Interior Angles, judge by the positions of the two angles and the transversal.
+
+The lines containing the two sides of $\angle B$ are respectively two cut lines, and the line cutting the other side of $\angle B$ is the transversal: $\angle B$ and the corresponding angle cut out by the other transversal form alternate interior angles or consecutive interior angles. To identify them, first fix the line containing one side of $\angle B$ as the transversal and the line containing the other side as one cut line, then find the corresponding angle formed with the second cut line; this determines $\angle B$'s alternate interior angle and consecutive interior angle; similarly for $\angle C$. $\blacksquare$
 
 ## Problem 1
 
-(Problem 4.1, Review and Consolidation, Problem 1) The coefficient of the monomial $-4a^{2}b^{3}c$ is $\;\_\_\;$, and its degree is $\;\_\_\;$.
+(Problem 7.1, Review and Consolidation, Problem 1) As shown, lines $AB$, $CD$, $EF$ intersect at point $O$.
+
+(1) Write down the adjacent supplementary angles of $\angle AOC$ and $\angle BOE$;
+
+(2) Write down the vertical angles of $\angle DOA$ and $\angle EOC$;
+
+(3) If $\angle AOC=50^\circ$, find the degree measures of $\angle BOD$ and $\angle COB$.
+
+The figure shows three lines $AB$, $CD$, $EF$ intersecting at a single point $O$, with the letters $A,B$, $C,D$, $E,F$ marked at the two ends of each line respectively.
 
 ### Solution to Problem 1
 
-By Coefficient of a Monomial, the numerical factor is the coefficient, so the coefficient of $-4a^{2}b^{3}c$ is $-4$.
+By Adjacent Supplementary Angles and Vertical Angles, judge by common side and opposite extensions.
 
-By Degree of a Monomial, the sum of the exponents of all letters is the degree. The exponent of $a$ is $2$, that of $b$ is $3$, that of $c$ is $1$, so the degree is $2+3+1=6$. Hence the coefficient is $-4$ and the degree is $6$. $\blacksquare$
+(1) The sides of $\angle AOC$ are $OA$, $OC$; its adjacent supplementary angles are $\angle BOC$ (sharing side $OA$, with the other side the opposite extension of $OC$) and $\angle AOD$ (sharing side $OC$, with the other side the opposite extension of $OA$); hence the adjacent supplementary angles of $\angle AOC$ are $\angle BOC$ and $\angle AOD$. The sides of $\angle BOE$ are $OB$, $OE$; its adjacent supplementary angles are $\angle AOE$ and $\angle BOF$.
+
+(2) The sides of $\angle DOA$ are respectively the opposite extensions of the sides of $\angle BOC$, so the vertical angle of $\angle DOA$ is $\angle BOC$; the sides of $\angle EOC$ are respectively the opposite extensions of the sides of $\angle FOD$, so the vertical angle of $\angle EOC$ is $\angle FOD$.
+
+(3) $\angle BOD$ and $\angle AOC$ are vertical angles; by Vertical Angles Are Equal, $\angle BOD=\angle AOC=50^\circ$. $\angle COB$ and $\angle AOC$ are adjacent supplementary angles; by Adjacent Supplementary Angles, $\angle COB=180^\circ-\angle AOC=180^\circ-50^\circ=130^\circ$. $\blacksquare$
 
 ## Problem 2
 
-(Problem 4.1, Review and Consolidation, Problem 2) Write a monomial whose coefficient is $2$ and whose degree is $3$.
+(Problem 7.1, Review and Consolidation, Problem 2) As shown, draw a line $l$ on a sheet of semi-transparent paper, take any point $P$ on $l$ and any point $Q$ outside $l$, and fold out a line through $P$ perpendicular to $l$. How many such lines can be folded? Why? What about through point $Q$?
 
 ### Solution to Problem 2
 
-By Coefficient of a Monomial, the numerical factor is $2$; by Degree of a Monomial, the sum of the exponents of all letters is $3$.
+By Perpendicular Lines, in the same plane, through a given point there is exactly one line perpendicular to a given line.
 
-Take the letter $x$ with exponent $3$; then the monomial $2x^{3}$ has numerical factor $2$ and sum of letter exponents $3$, so $2x^{3}$ is a monomial with coefficient $2$ and degree $3$. $\blacksquare$
+Point $P$ lies on line $l$; through $P$ there is exactly one line perpendicular to $l$, so only one line perpendicular to $l$ can be folded through $P$. Point $Q$ lies outside line $l$; through $Q$ there is likewise exactly one line perpendicular to $l$, so only one can be folded through $Q$. $\blacksquare$
 
 ## Problem 3
 
-(Problem 4.1, Review and Consolidation, Problem 3) The terms of the polynomial $a^{4}-2a^{2}b+b^{2}$ are $\;\_\_\;$, and its degree is $\;\_\_\;$.
+(Problem 7.1, Review and Consolidation, Problem 3) As shown, lines $AB$, $CD$ intersect at point $O$, $EO\perp AB$ with foot $O$, and $\angle EOC=35^\circ$; find the degree measure of $\angle AOD$.
 
 ### Solution to Problem 3
 
-By Polynomial, each monomial is a term of the polynomial, and a term includes the plus or minus sign in front of it. Hence the terms of this polynomial are $a^{4}$, $-2a^{2}b$ and $b^{2}$.
+By Perpendicular, $EO\perp AB$, so $\angle EOB=90^\circ$.
 
-By Degree of a Polynomial, the degree of the term with the highest degree is the degree of the polynomial. The degree of $a^{4}$ is $4$, that of $-2a^{2}b$ is $3$, that of $b^{2}$ is $2$, and the highest degree is $4$. Hence the degree is $4$. $\blacksquare$
+At point $C$, $\angle EOB=\angle EOC+\angle COB$, so $\angle COB=\angle EOB-\angle EOC=90^\circ-35^\circ=55^\circ$.
+
+$\angle AOD$ and $\angle COB$ are vertical angles; by Vertical Angles Are Equal, $\angle AOD=\angle COB=55^\circ$. $\blacksquare$
 
 ## Problem 4
 
-(Problem 4.1, Review and Consolidation, Problem 4) The floor plan of a residence is divided into four regions Ⅰ, Ⅱ, Ⅲ and Ⅳ, with the side lengths of each region marked in the figure (unit: $\text{m}$). The building area of this residence can be expressed by a polynomial as $\;\_\_\;$, and the degree of this polynomial is $\;\_\_\;$.
+(Problem 7.1, Review and Consolidation, Problem 4) As shown, draw $AE\perp BC$ and $CF\perp AD$, with feet $E$ and $F$ respectively.
 
 ### Solution to Problem 4
 
-By Polynomial, the building area is the sum of the areas of the four regions.
-
-The four regions in the figure: region Ⅰ (upper left) has width $x$ and height $2$, area $2x$; region Ⅱ (lower left) has width $x$ and height $x$, area $x^{2}$; region Ⅲ (upper right) has width $4$ and height $3$, area $12$; region Ⅳ (lower right) has width $3$ and height $2$, area $6$.
-
-The building area is
-
-$$2x+x^{2}+12+6=x^{2}+2x+18.$$
-
-By Degree of a Polynomial, the highest-degree term is $x^{2}$, so the degree is $2$. $\blacksquare$
+By Perpendicular and Perpendicular Lines: align one leg of a set square with $BC$, slide it until the other leg passes through point $A$, and draw a line along this leg meeting $BC$ at $E$; then $AE\perp BC$ with foot $E$. Draw $CF\perp AD$ in the same way, with foot $F$. $\blacksquare$
 
 ## Problem 5
 
-(Problem 4.1, Comprehensive Application, Problem 5) During this year's National Day holiday, the number of visitors received by a certain park increased by $5.7\%$ over the same period last year. If the park received $x$ ten-thousand visitors over the same period last year, find the number of additional visitors received this National Day holiday compared with the same period last year.
+(Problem 7.1, Comprehensive Application, Problem 5) As shown, lines $AB$, $CD$ intersect at point $O$, and $OA$ bisects $\angle EOC$.
+
+(1) If $\angle EOC=70^\circ$, find the degree measure of $\angle BOD$;
+
+(2) If $\angle EOC:\angle EOD=2:3$, find the degree measure of $\angle BOD$.
+
+The figure shows lines $AB$, $CD$ intersecting at point $O$, with a ray $OE$ drawn from $O$ on the opposite side of $OA$ from ray $OC$, so that $OA$ lies inside $\angle EOC$ and bisects it.
 
 ### Solution to Problem 5
 
-By Monomial, the number of additional visitors is the product of last year's number of visitors and the growth rate.
+By the meaning of an angle bisector, $OA$ bisects $\angle EOC$, so $\angle AOC=\frac{1}{2}\angle EOC$. Also $\angle BOD$ and $\angle AOC$ are vertical angles; by Vertical Angles Are Equal, $\angle BOD=\angle AOC$.
 
-Last year it received $x$ ten-thousand visitors, and this year's growth over last year is $5.7\%$, so the number of additional visitors is
+(1) $\angle EOC=70^\circ$, so $\angle AOC=\frac{1}{2}\times 70^\circ=35^\circ$, hence $\angle BOD=\angle AOC=35^\circ$.
 
-$$5.7\%\cdot x=0.057x\ \text{万人}.$$
-
-That is, this year it received $0.057x$ ten-thousand more visitors than the same period last year. $\blacksquare$
+(2) $\angle EOC$ and $\angle EOD$ share side $OE$, and their other sides are opposite extensions of each other; by Adjacent Supplementary Angles, they are supplementary, i.e. $\angle EOC+\angle EOD=180^\circ$. Also $\angle EOC:\angle EOD=2:3$; set $\angle EOC=2k$, $\angle EOD=3k$; then $2k+3k=180^\circ$, giving $k=36^\circ$. Hence $\angle EOC=2k=72^\circ$, $\angle AOC=\frac{1}{2}\times 72^\circ=36^\circ$, and thus $\angle BOD=\angle AOC=36^\circ$. $\blacksquare$
 
 ## Problem 6
 
-(Problem 4.1, Comprehensive Application, Problem 6) The ancient Chinese text Zhou Bi Suan Jing mentions that, among the twelve solar terms, the difference in the length of the sun's shadow between each solar term and the next is approximately a constant $d$ chi. On the day of the Beginning of Spring, the shadow length is $10.5$ chi. Find the approximate shadow length on the day of the Beginning of Summer.
+(Problem 7.1, Comprehensive Application, Problem 6) As shown, these are the footprints left by student Li Ming after a long jump in PE class. What is his long jump result? (The scale is $1:160$.)
+
+(The accompanying picture is a real photo of footprints in the sand pit; the takeoff line and the footprint heel are marked in the figure. Just measure the drawn length of the perpendicular segment from the heel to the takeoff line.)
 
 ### Solution to Problem 6
 
-By Polynomial, the shadow length changes by a constant value from one solar term to the next, and its value is the initial value plus a number of differences.
+The long jump result is the distance from the footprint heel to the takeoff line. By The Perpendicular Segment Is the Shortest, this distance is the length of the perpendicular segment from the heel to the takeoff line.
 
-From the Beginning of Spring to the Beginning of Summer, the solar terms in between are Rain Water, Awakening of Insects, Spring Equinox, Pure Brightness and Grain Rain, making a total of $5$ solar-term intervals. The shadow length changes by $d$ chi per interval. According to the problem, the shadow gradually shortens from the Winter Solstice to the Summer Solstice, so from the Beginning of Spring to the Beginning of Summer the shadow length decreases by $5d$ chi.
-
-The shadow at the Beginning of Spring is $10.5$ chi, so on the day of the Beginning of Summer the shadow length is
-
-$$10.5-5d\ \text{尺}.$$
-
-$\blacksquare$
+Measure with a ruler the drawn length of the perpendicular segment from the heel to the takeoff line, denoted $l$ (unit: $\text{cm}$). By the scale $1:160$, the actual result is $160l$ (unit: $\text{cm}$), i.e. $1.6l$ (unit: $\text{m}$). Substitute the measured $l$ from the figure to obtain the actual long jump result. $\blacksquare$
 
 ## Problem 7
 
-(Problem 4.1, Comprehensive Application, Problem 7) Scoring rules for the World Cup volleyball tournament: a team that wins $3\!:\!0$ or $3\!:\!1$ earns $3$ points, and the losing team earns $0$ points; a team that wins $3\!:\!2$ earns $2$ points, and the losing team earns $1$ point. If a team wins $a$ matches by $3\!:\!1$, wins $b$ matches by $3\!:\!2$, and loses $c$ matches by $2\!:\!3$, then this team's total score can be expressed by a polynomial as $\;\_\_\;$.
+(Problem 7.1, Comprehensive Application, Problem 7) As shown, which two lines are cut by which transversal to form $\angle 1$ and $\angle 2$, and $\angle 3$ and $\angle 4$ respectively? What positional relation do these angles have?
 
 ### Solution to Problem 7
 
-By Polynomial, the total score is the sum of the points from each type of match.
+By Corresponding Angles, Alternate Interior Angles, Consecutive Interior Angles, first determine the three lines containing the sides of the two angles; the common line is the transversal, and the other two are the cut lines.
 
-Winning $a$ matches by $3\!:\!1$ earns $3$ points each, for a total of $3a$ points; winning $b$ matches by $3\!:\!2$ earns $2$ points each, for a total of $2b$ points; losing $c$ matches by $2\!:\!3$ earns $1$ point each, for a total of $c$ points.
-
-Hence the total score is
-
-$$3a+2b+c.$$
-
-$\blacksquare$
+$\angle 1$ and $\angle 2$ share one side on the transversal, while their other sides belong to the two cut lines; by their position between the two cut lines and on opposite sides of the transversal, they are alternate interior angles. Similarly for $\angle 3$ and $\angle 4$; by their position relative to the two cut lines and the transversal, judge them as the corresponding angles (or consecutive interior angles). Simply point out the common transversal in each case. $\blacksquare$
 
 ## Problem 8
 
-(Problem 4.1, Extension and Exploration, Problem 8) Let $n$ denote any integer. Express the following using algebraic expressions containing $n$:
+(Problem 7.1, Extension and Exploration, Problem 8) As shown, $AB\perp l$, $CB\perp l$, with $B$ the foot; then are the three points $A$, $B$, $C$ on the same line? Explain why.
 
-(1) An integer divisible by $3$;
-
-(2) An integer that leaves remainder $1$ when divided by $3$.
+The figure shows a horizontal line $l$, with point $B$ on $l$; from $B$ on opposite sides of $l$ are drawn rays $BA$ and $BC$ such that $AB\perp l$ and $CB\perp l$.
 
 ### Solution to Problem 8
 
-By Monomial and Polynomial, integers can be expressed using algebraic expressions containing $n$.
+The three points $A$, $B$, $C$ are on the same line.
 
-(1) Any integer multiplied by $3$ gives a result divisible by $3$. Hence an integer divisible by $3$ is $3n$.
+By Perpendicular, $AB\perp l$ and $CB\perp l$, so $\angle ABL=90^\circ$, $\angle CBL=90^\circ$, where $L$ is any direction on line $l$. Hence
 
-(2) An integer divisible by $3$ is $3n$; adding $1$ gives a number that leaves remainder $1$ when divided by $3$. Hence an integer leaving remainder $1$ when divided by $3$ is $3n+1$. $\blacksquare$
+$$
+\angle ABC=\angle ABL+\angle CBL=90^\circ+90^\circ=180^\circ.
+$$
+
+$\angle ABC=180^\circ$ shows that rays $BA$ and $BC$ are opposite extensions of each other, i.e. $BA$ and $BC$ lie on the same line; hence the three points $A$, $B$, $C$ are on the same line. $\blacksquare$
 
 ## Problem 9
 
-(Problem 4.1, Extension and Exploration, Problem 9) Part of the shoe-size correspondence is as follows: new size $220$ corresponds to old size $34$, new size $225$ to old size $35$, new size $230$ to old size $36$, new size $235$ to old size $37$, ..., new size $270$ corresponds to old size $a$.
+(Problem 7.1, Extension and Exploration, Problem 9) Lines $AB$, $CD$ intersect at point $O$.
 
-(1) Find the value of $a$;
+(1) $OE$, $OF$ are respectively the bisectors of $\angle AOC$, $\angle BOD$. Draw this figure.
 
-(2) If the new size is $m$ and the old size is $n$, write a formula that converts the old size into the new size.
+(2) Are rays $OE$ and $OF$ on the same line? Why?
 
 ### Solution to Problem 9
 
-By Polynomial, the correspondence between shoe sizes is a linear expression.
+(1) Draw lines $AB$, $CD$ intersecting at point $O$, then construct respectively the bisector $OE$ of $\angle AOC$ and the bisector $OF$ of $\angle BOD$.
 
-(1) Each increase of $5$ in the new size corresponds to an increase of $1$ in the old size. The new size goes from $235$ to $270$, an increase of $270-235=35$, i.e. $7$ groups of $5$, so the old size increases by $7$ groups of $1$ from $37$, giving $37+7=44$. Hence $a=44$.
+(2) Rays $OE$ and $OF$ are on the same line.
 
-(2) Let the old size be $n$ and the new size be $m$. From the correspondence data, each increase of $1$ in the old size corresponds to an increase of $5$ in the new size. When the old size is $34$, the new size is $220$, hence
+$\angle AOC$ and $\angle BOD$ are vertical angles; by Vertical Angles Are Equal, $\angle AOC=\angle BOD$. $OE$ bisects $\angle AOC$, so
 
-$$m=220+5\left(n-34\right)=5n+50.$$
+$$
+\angle EOC=\frac{1}{2}\angle AOC.
+$$
 
-That is, the formula converting the old size to the new size is $m=5n+50$. $\blacksquare$
+$OF$ bisects $\angle BOD$, and $\angle BOD$ and $\angle AOC$ are vertical angles; one side $OB$ is the opposite extension of $OA$, and the other side $OD$ is the opposite extension of $OC$, so
+
+$$
+\angle DOF=\frac{1}{2}\angle BOD=\frac{1}{2}\angle AOC=\angle EOC.
+$$
+
+Hence $\angle EOC=\angle DOF$. Also $OC$ and $OD$ are opposite extensions of each other; $\angle EOC$ and $\angle DOF$ lie on opposite sides of line $CD$ and are equal, showing that rays $OE$ and $OF$ are opposite extensions of each other; hence $OE$ and $OF$ lie on the same line. $\blacksquare$
+
+## Observation and Conjecture 1
+
+(Observation and Conjecture: Illusions when looking at figures)
+
+(1) In each group of Figure 1, which segment is longer, $a$ or $b$?
+
+(2) In each group of Figure 2, which blue circle is larger, $A$ or $B$?
+
+(3) In each group of Figure 3, are the blue segments parallel to each other? How can you check?
+
+The figure contains three groups of visual-illusion diagrams: Figure 1 shows two segments $a$, $b$ decorated at their endpoints with arrowheads (or feather tails) pointing in different directions, making the segments look unequal; Figure 2 shows two equal-sized blue circles $A$, $B$, surrounded respectively by a group of large circles and a group of small circles, making the circles look unequal; Figure 3 shows two blue segments with several diagonal short stripes between them, making the segments look non-parallel.
+
+### Solution to Observation and Conjecture 1
+
+Here intuition from naked-eye observation often disagrees with the actual facts; verification by measurement with a ruler or protractor is needed.
+
+(1) Intuitively the segments $a$ and $b$ may seem unequal in length, but measuring with a ruler shows that in each group $a$ and $b$ are actually equal.
+
+(2) Intuitively circles $A$ and $B$ may seem unequal in size, but measuring their diameters with a ruler shows they are actually equal.
+
+(3) In Figure 3, the segments look non-parallel because of the interference of the added patterns, but checking with a straightedge (or using the parallel-line criteria learned later) shows they are actually parallel.
+
+Thus conjectures obtained by observation are not necessarily correct; they must also be verified through experiments (measurements) and the like. $\blacksquare$

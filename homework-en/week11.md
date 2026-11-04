@@ -1,299 +1,365 @@
 # week11
 
-## Exercise 1
-
-(Exercise 3.1, Problem 1) Fill in the blanks.
-
-(1) Each package of books has $10$ volumes; $6$ packages have $\;\_\_\;$ volumes, and $n$ packages have $\;\_\_\;$ volumes;
-
-(2) Wang Fang is $m$ years old this year; last year she was $\;\_\_\;$ years old, and $6$ years later she will be $\;\_\_\;$ years old;
-
-(3) Put $p\ \text{kg}$ of sugar into $n$ packaging bags, with the same mass in each bag; each bag contains $\;\_\_\;\text{kg}$ of sugar;
-
-(4) The volume of a cube with edge length $a$ is $\;\_\_\;$.
-
-### Solution to Exercise 1
-
-By Forming Algebraic Expressions.
-
-(1) $6$ packages have $10\times 6=60$ volumes, and $n$ packages have $10n$ volumes.
-
-(2) Last year was $1$ year younger than this year, namely $\left(m-1\right)$ years old; $6$ years later will be $\left(m+6\right)$ years old.
-
-(3) Each bag contains $\frac{p}{n}\ \text{kg}$ of sugar.
-
-(4) The volume of a cube is the cube of its edge length, namely $a^{3}$. $\blacksquare$
-
-## Exercise 2
-
-(Exercise 3.1, Problem 2) State the meaning of the following algebraic expressions:
-
-(1) $2a+3c$; (2) $3\left(m-n\right)$; (3) $a^{2}+1$; (4) $\frac{3a}{5b}$.
-
-### Solution to Exercise 2
-
-By Algebraic Expressions.
-
-(1) $2a+3c$ means the sum of $2$ times $a$ and $3$ times $c$.
-
-(2) $3\left(m-n\right)$ means $3$ times the difference between $m$ and $n$.
-
-(3) $a^{2}+1$ means the sum of the square of $a$ and $1$.
-
-(4) $\frac{3a}{5b}$ means the quotient of $3$ times $a$ divided by $5$ times $b$. $\blacksquare$
-
-## Exercise 3
-
-(Exercise 3.1, Problem 3) The algebraic expression $100-2x$ can represent quantities or quantitative relationships in different practical problems. Please give examples.
-
-### Solution to Exercise 3
-
-By Algebraic Expressions.
-
-For example: having $100$ yuan, each pencil costs $2$ yuan; after buying $x$ pencils, $\left(100-2x\right)$ yuan remain. Or: a rope of length $100\ \text{cm}$, each time cutting off $2\ \text{cm}$; after cutting $x$ times, $\left(100-2x\right)\ \text{cm}$ remain. $\blacksquare$
-
-## Exercise 4
-
-(Exercise 3.1, Problem 1) Express in algebraic expressions:
-
-(1) the number that is $1$ greater than $2$ times $a$;
-
-(2) the difference between the opposite number of $a$ and half of $b$;
-
-(3) the quotient of the square of $a$ divided by $b$.
-
-### Solution to Exercise 4
-
-By Forming Algebraic Expressions.
-
-(1) $2$ times $a$ is $2a$, and the number $1$ greater than it is $2a+1$.
-
-(2) The opposite number of $a$ is $-a$, half of $b$ is $\frac{b}{2}$, and the difference is $-a-\frac{b}{2}$.
-
-(3) The quotient is $\frac{a^{2}}{b}$. $\blacksquare$
-
-## Exercise 5
-
-(Exercise 3.1, Problem 2) A certain commodity costs $4.8$ yuan per bag, and $m$ bags were sold within one month. Express the revenue from selling this commodity this month in an algebraic expression.
-
-### Solution to Exercise 5
-
-By Forming Algebraic Expressions, revenue $=$ unit price $\times$ quantity.
-
-$$4.8\times m=4.8m.$$
-
-Hence the revenue from selling this commodity this month is $4.8m$ yuan. $\blacksquare$
-
-## Exercise 6
-
-(Exercise 3.1, Problem 3) There are two cotton fields. One has area $m\ \text{hm}^{2}$, with an average cotton yield of $a\ \text{kg}$ per hectare; the other has area $n\ \text{hm}^{2}$, with an average cotton yield of $b\ \text{kg}$ per hectare. Express the total cotton yield of the two fields in an algebraic expression.
-
-### Solution to Exercise 6
-
-By Forming Algebraic Expressions.
-
-The first field yields $ma\ \text{kg}$ of cotton, and the second yields $nb\ \text{kg}$. Hence the total cotton yield of the two fields is $\left(ma+nb\right)\ \text{kg}$. $\blacksquare$
-
-## Exercise 7
-
-(Exercise 3.1, Problem 4) A small square iron sheet is cut out from a large square iron sheet. The side length of the large square is $a\ \text{mm}$, and the side length of the small square is $b\ \text{mm}$. Express the area of the remaining iron sheet in an algebraic expression.
-
-### Solution to Exercise 7
-
-By Forming Algebraic Expressions.
-
-The area of the large square is $a^{2}\ \text{mm}^{2}$, and the area of the small square is $b^{2}\ \text{mm}^{2}$. The area of the remaining iron sheet is $\left(a^{2}-b^{2}\right)\ \text{mm}^{2}$. $\blacksquare$
-
-## Exercise 8
-
-(Exercise 3.1, Problem 1) If the distance traveled by a car is fixed, then are the average speed and the time of the car in an inverse proportion relationship? Why?
-
-### Solution to Exercise 8
-
-By Quantities in Inverse Proportion.
-
-Distance $=$ speed $\times$ time. When the distance is fixed, the product of speed and time equals the distance (a fixed value); by Quantities in Inverse Proportion, the average speed and time are in an inverse proportion relationship. $\blacksquare$
-
-## Exercise 9
-
-(Exercise 3.1, Problem 3) A transportation company plans to ship a batch of goods. The relationship between the number of tons shipped per day and the number of days of shipping is shown in the table below.
-
-Tons shipped per day: $500$, $250$, $100$, $50$. Number of days of shipping: $1$, $2$, $5$, $10$.
-
-(1) How many tons are there in this batch of goods? (2) How does the number of days of shipping change as the number of tons shipped per day changes? (3) Let $t$ denote the number of days of shipping and $a$ the number of tons shipped per day. Express the relationship between $t$ and $a$ as a formula. What kind of proportion relationship is there between $t$ and $a$?
-
-### Solution to Exercise 9
-
-By Quantities in Inverse Proportion.
-
-(1) Since $500\times 1=250\times 2=100\times 5=50\times 10=500$, the batch of goods totals $500$ tons.
-
-(2) The larger the number of tons shipped per day, the smaller the number of days of shipping.
-
-(3) Since $at=500$, we have $t=\frac{500}{a}$. By Quantities in Inverse Proportion, the product of $t$ and $a$ is constant, so $t$ and $a$ are in an inverse proportion relationship. $\blacksquare$
-
 ## Problem 1
 
-(Exercise 3.1, Review and Consolidation, Problem 1) Express in algebraic expressions:
-
-(1) $2$ times $m$; (2) $\frac{2}{3}$ of $n$; (3) the number that is $1$ less than $2$ times $x$; (4) the quotient of the cube of $a$ divided by $b$.
+(Problem 5.2, Comprehensive Application, Problem 16) A shop opens and, to attract customers, sells all goods at a 20% discount. Given that a certain pair of leather shoes costs $60$ yuan wholesale and, after the 20% discount, the seller's profit margin is $40\%$, what is the marked price of these shoes?
 
 ### Solution to Problem 1
 
-By Forming Algebraic Expressions.
+By General Steps for Solving a Linear Equation in One Variable, let the marked price be $x$ yuan.
 
-(1) $2m$; (2) $\frac{2}{3}n$; (3) $2x-1$; (4) $\frac{a^{3}}{b}$. $\blacksquare$
+The discounted selling price is $0.8x$ yuan. A $40\%$ profit margin means the profit is $40\%$ of the cost, i.e. profit $=60\times40\%=24$ yuan. Selling price $-$ cost $=$ profit:
+
+$$0.8x-60=24.$$
+
+Transpose: $0.8x=84$, giving $x=105$. Hence the marked price is $105$ yuan. $\blacksquare$
 
 ## Problem 2
 
-(Exercise 3.1, Review and Consolidation, Problem 2) State the meaning of the following algebraic expressions:
-
-(1) $3x+6$; (2) $5\left(m-2\right)$; (3) $a^{2}+b^{2}$; (4) $\frac{n+1}{n-1}$.
+(Problem 5.2, Extension and Exploration, Problem 17) A train travels at uniform speed; passing through a tunnel $300\ \text{m}$ long takes $20\ \text{s}$. There is a lamp on top of the tunnel shining vertically downward, and the time the light illuminates the train is $10\ \text{s}$. From these data, can you find the length of the train? What is the length of the train?
 
 ### Solution to Problem 2
 
-By Algebraic Expressions.
+By General Steps for Solving a Linear Equation in One Variable, let the train be $x\ \text{m}$ long.
 
-(1) $3x+6$ means the sum of $3$ times $x$ and $6$.
+The distance through the tunnel is $\left(300+x\right)\ \text{m}$, and the speed is $\frac{300+x}{20}$. When the light illuminates the train, the train travels a distance equal to its own length $x$, and the speed is $\frac{x}{10}$. The train travels at uniform speed:
 
-(2) $5\left(m-2\right)$ means $5$ times the difference between $m$ and $2$.
+$$\frac{300+x}{20}=\frac{x}{10}.$$
 
-(3) $a^{2}+b^{2}$ means the sum of the square of $a$ and the square of $b$.
+Multiply both sides by $20$: $300+x=2x$, giving $x=300$. Hence the train is $300\ \text{m}$ long. $\blacksquare$
 
-(4) $\frac{n+1}{n-1}$ means the quotient of the sum of $n$ and $1$ divided by the difference between $n$ and $1$. $\blacksquare$
+## Inquiry and Discovery 1
+
+(Inquiry and Discovery: Converting a Repeating Decimal to a Fraction) Convert $0.\overline{7}$ to a fraction.
+
+### Solution to Inquiry and Discovery 1
+
+By Properties of Equality 1 and Properties of Equality 2, let $x=0.\overline{7}$.
+
+Multiply both sides by $10$: $10x=7.\overline{7}$. Subtracting the two equations: $10x-x=7.\overline{7}-0.\overline{7}=7$. i.e. $9x=7$, giving $x=\frac{7}{9}$. Hence $0.\overline{7}=\frac{7}{9}$. $\blacksquare$
+
+## Exercise 1
+
+(Exercise 5.3, Problem 1) Making one table requires $1$ tabletop and $4$ table legs; $1\ \text{m}^{3}$ of wood can make $20$ tabletops, or $400$ table legs. Given $12\ \text{m}^{3}$ of wood, how should the wood be allocated to make as many tables as possible?
+
+### Solution to Exercise 1
+
+By Steps for Solving Word Problems by Setting Up Equations, let $x\ \text{m}^{3}$ of wood be used for tabletops.
+
+Use $\left(12-x\right)\ \text{m}^{3}$ for table legs. The number of tabletops is $20x$, and the number of table legs is $400\left(12-x\right)$. Matching relation: number of legs $=4\times$ number of tabletops.
+
+$$400\left(12-x\right)=4\times20x.$$
+
+Simplifying: $400\left(12-x\right)=80x$, $4800-400x=80x$, $4800=480x$, giving $x=10$. Hence use $10\ \text{m}^{3}$ for tabletops and $2\ \text{m}^{3}$ for table legs. $\blacksquare$
+
+## Exercise 2
+
+(Exercise 5.3, Problem 2) A workshop can make $500$ type-A parts per day, or $250$ type-B parts per day; one type-A part and one type-B part form a set. To make the greatest number of complete sets within $30$ days, how many days should be spent making type-A parts and type-B parts respectively?
+
+### Solution to Exercise 2
+
+By Steps for Solving Word Problems by Setting Up Equations, let $x$ days be spent making type-A parts.
+
+Making type-B parts takes $\left(30-x\right)$ days. The number of type-A parts is $500x$, and type-B parts is $250\left(30-x\right)$. Matching relation:
+
+$$500x=250\left(30-x\right).$$
+
+Simplifying: $500x=7500-250x$, $750x=7500$, giving $x=10$. Hence type-A takes $10$ days and type-B takes $20$ days. $\blacksquare$
+
+## Exercise 3
+
+(Exercise 5.3, Problem 3) One person takes $50$ days to finish a job, and another person takes $75$ days working alone. Now the two work together, but halfway the second person leaves for another task; as a result the whole job is finished in $40$ days. How many days did the second person leave halfway?
+
+### Solution to Exercise 3
+
+By Steps for Solving Word Problems by Setting Up Equations, let the second person leave halfway for $x$ days.
+
+The two work together for $\left(40-x\right)$ days, and the first person works alone for $x$ days. The first person's rate is $\frac{1}{50}$, and the second person's rate is $\frac{1}{75}$. The total work is $1$:
+
+$$\frac{40}{50}+\frac{40-x}{75}=1.$$
+
+Simplifying: $\frac{4}{5}+\frac{40-x}{75}=1$. Multiply both sides by $75$: $60+40-x=75$, $100-x=75$, giving $x=25$. Hence the second person left halfway for $25$ days. $\blacksquare$
+
+## Exercise 4
+
+(Exercise 5.3, Problem 1) A piece of clothing is first marked up $50\%$ over cost, then sold at $8$ tenths of the marked price, yielding a profit of $28$ yuan. What is the cost of this clothing?
+
+### Solution to Exercise 4
+
+By Steps for Solving Word Problems by Setting Up Equations, let the cost be $x$ yuan.
+
+The marked price is $\left(1+50\%\right)x=1.5x$, and the discounted selling price is $0.8\times1.5x=1.2x$. Profit $=$ selling price $-$ cost:
+
+$$1.2x-x=28.$$
+
+i.e. $0.2x=28$, giving $x=140$. Hence the cost is $140$ yuan. $\blacksquare$
+
+## Exercise 5
+
+(Exercise 5.3, Problem 2) A product costs $1000$ yuan wholesale and sells for $1500$ yuan. Since sales are poor, the shop decides to reduce the price, but must keep the profit margin no lower than $5\%$. At most how many yuan can the price be reduced to sell this product?
+
+### Solution to Exercise 5
+
+By Steps for Solving Word Problems by Setting Up Equations, let the price be reduced by $x$ yuan.
+
+After the reduction the selling price is $\left(1500-x\right)$ yuan. The profit margin is no lower than $5\%$, i.e. profit $\ge 1000\times5\%=50$ yuan:
+
+$$1500-x-1000=50.$$
+
+i.e. $500-x=50$, giving $x=450$. Hence the shop can reduce the price by at most $450$ yuan. $\blacksquare$
+
+## Exercise 6
+
+(Exercise 5.3, Problem 1) A team scored $23$ points in a basketball game (with no free throws). Given that the number of 2-pointers made was $4$ more than the number of 3-pointers, how many 2-pointers and 3-pointers did the team make?
+
+### Solution to Exercise 6
+
+By Steps for Solving Word Problems by Setting Up Equations, let the number of 3-pointers made be $x$.
+
+The number of 2-pointers made is $\left(x+4\right)$. Total points: $3x+2\left(x+4\right)=23$. Simplifying: $3x+2x+8=23$, $5x=15$, giving $x=3$. So $3$ 3-pointers and $7$ 2-pointers. $\blacksquare$
+
+## Exercise 7
+
+(Exercise 5.3, Problem 2) The scoring rules for a football match are: a win gives $3$ points, a draw gives $1$ point, and a loss gives $0$ points. A football team must play $14$ matches in a season; it has now played $8$ matches, lost $1$, and has $17$ points. Question: in the first $8$ matches, how many did the team win?
+
+### Solution to Exercise 7
+
+By Steps for Solving Word Problems by Setting Up Equations, let it win $x$ matches.
+
+The number of draws is $\left(8-1-x\right)=\left(7-x\right)$. Points: $3x+\left(7-x\right)=17$. Simplifying: $2x+7=17$, $2x=10$, giving $x=5$. Hence in the first $8$ matches it won $5$. $\blacksquare$
+
+## Exercise 8
+
+(Exercise 5.3, Problem 1) A class plans to organize an outdoor study tour. Travel agencies A and B offer the same service quality, and both quote $200$ yuan per person. After negotiation, agency A offers a 25% discount for every tourist; agency B waives the travel cost of one tourist and gives the rest a 20% discount. Which agency should the class choose to pay the less travel cost?
+
+### Solution to Exercise 8
+
+By Steps for Solving Word Problems by Setting Up Equations, let $x$ students participate.
+
+Agency A cost: $200\times0.75x=150x$ yuan. Agency B cost: $200\times0.8\left(x-1\right)=160\left(x-1\right)$ yuan.
+
+Set the two equal: $150x=160\left(x-1\right)$, $150x=160x-160$, giving $x=16$. When $x< 16$, agency B is cheaper; when $x> 16$, agency A is cheaper; when $x=16$, the two cost the same. $\blacksquare$
+
+## Exercise 9
+
+(Exercise 5.3, Problem 2) There are two mobile-phone billing plans: Plan 1 has a monthly fee of $50$ yuan and a local call charge of $0.40$ yuan/min; Plan 2 has a monthly fee of $0$ yuan and a local call charge of $0.60$ yuan/min. At how many minutes of local calls per month do the two plans cost the same?
+
+### Solution to Exercise 9
+
+By Steps for Solving Word Problems by Setting Up Equations, let the calls be $x$ minutes.
+
+Plan 1 cost: $50+0.40x$ yuan. Plan 2 cost: $0.60x$ yuan. Set equal:
+
+$$50+0.40x=0.60x.$$
+
+Simplifying: $50=0.20x$, giving $x=250$. Hence at $250$ minutes of calls the two plans cost the same. $\blacksquare$
 
 ## Problem 3
 
-(Exercise 3.1, Review and Consolidation, Problem 3) Express in algebraic expressions:
-
-(1) The surface area of a cube with edge length $a$.
-
-(2) The Hua Luogeng Memorial Hall has cumulatively received $a$ ten thousand visitors so far, and is expected to receive an average of $b$ ten thousand visitors per year in the future. What is the total cumulative number of visitors after $c$ years, in ten thousand?
-
-(3) The interest rate for a one-year fixed deposit at a certain bank is $1.5\%$. If $a$ yuan is deposited, how much interest is received after one year? What is the sum of principal and interest?
-
-(4) The distance between Location A and Location B is $s\ \text{km}$. Li Ming originally planned to ride a bicycle from Location A to Location B, which would take $t\ \text{h}$; he later switched to taking a bus and arrived $1\ \text{h}$ earlier. What is the speed of the bus?
+(Problem 5.3, Review and Consolidation, Problem 1) A pastry factory must make a batch of boxed mooncakes before the Mid-Autumn Festival; each box contains $2$ large mooncakes and $4$ small mooncakes. Making $1$ large mooncake uses $0.05\ \text{kg}$ of flour, and $1$ small mooncake uses $0.02\ \text{kg}$ of flour. Given $4500\ \text{kg}$ of flour, how much flour should be used for each type of mooncake to produce the greatest number of boxed mooncakes?
 
 ### Solution to Problem 3
 
-By Forming Algebraic Expressions.
+By Steps for Solving Word Problems by Setting Up Equations, let $x\ \text{kg}$ of flour be used for large mooncakes.
 
-(1) A cube has $6$ faces, each of area $a^{2}$, so the surface area is $6a^{2}$.
+Use $\left(4500-x\right)\ \text{kg}$ for small mooncakes. The number of large mooncakes $\frac{x}{0.05}$, and small mooncakes $\frac{4500-x}{0.02}$. Each box has $2$ large and $4$ small:
 
-(2) In $c$ years, $bc$ ten thousand new visitors are added, so the cumulative total is $\left(a+bc\right)$ ten thousand people.
+$$\frac{x}{0.05}\div2=\frac{4500-x}{0.02}\div4.$$
 
-(3) Interest $=a\times 1.5\%=1.5\%a$ yuan; principal plus interest $=a+1.5\%a=\left(1+1.5\%\right)a$ yuan.
-
-(4) The bus takes $\left(t-1\right)\ \text{h}$, and its speed $=\frac{s}{t-1}\ \text{km/h}$. $\blacksquare$
+i.e. $\frac{x}{0.1}=\frac{4500-x}{0.08}$. Cross-multiplying: $0.08x=0.1\left(4500-x\right)$, $0.08x=450-0.1x$, $0.18x=450$, giving $x=2500$. Hence large mooncakes use $2500\ \text{kg}$ and small mooncakes use $2000\ \text{kg}$. $\blacksquare$
 
 ## Problem 4
 
-(Exercise 3.1, Review and Consolidation, Problem 4) Determine whether the two quantities in each of the following are in an inverse proportion relationship, and give the reason:
-
-(1) $200$ students participate in a formation drill, arranged with an equal number of people per row; the number of people per row and the number of rows;
-
-(2) The area of a triangle is $6\ \text{cm}^{2}$; the length of one side and the altitude on that side;
-
-(3) Zhang Hua can make $120$ small red flowers per hour; the number of small red flowers she makes and the time spent making them.
+(Problem 5.3, Review and Consolidation, Problem 2) A shop has two kinds of backpacks: each small backpack costs $10$ yuan less wholesale than each large backpack, yet their after-sale profit amounts are equal. The profit margin of each small backpack is $30\%$, and that of each large backpack is $20\%$. Find the wholesale prices of the two kinds of backpacks.
 
 ### Solution to Problem 4
 
-By Quantities in Inverse Proportion.
+By Steps for Solving Word Problems by Setting Up Equations, let the wholesale price of a small backpack be $x$ yuan.
 
-(1) Number per row $\times$ number of rows $=200$ (constant), so the number of people per row and the number of rows are in an inverse proportion relationship.
+The wholesale price of a large backpack is $\left(x+10\right)$ yuan. Small backpack profit $0.3x$, large backpack profit $0.2\left(x+10\right)$. Equal profit:
 
-(2) Triangle area $=\frac{1}{2}\times$ base $\times$ height; since the area is $6$, we have base $\times$ height $=12$ (constant), so the length of that side and the altitude on that side are in an inverse proportion relationship.
+$$0.3x=0.2\left(x+10\right).$$
 
-(3) Number of small red flowers $=$ $120$ per hour $\times$ time, that is, the ratio of the two is constant; this is a direct proportion relationship, not an inverse proportion relationship. $\blacksquare$
+Simplifying: $0.3x=0.2x+2$, $0.1x=2$, giving $x=20$. A small backpack costs $20$ yuan, and a large backpack costs $30$ yuan. $\blacksquare$
 
 ## Problem 5
 
-(Exercise 3.1, Review and Consolidation, Problem 5) A candy factory produces a batch of fruit candies. If these fruit candies are evenly packed into a number of bags, the number of candies per bag and the total number of bags are shown in the table below.
-
-Number of candies per bag: $10$, $12$, $18$, $20$, $24$. Total number of bags: $360$, $300$, $200$, $180$, $150$.
-
-(1) How many fruit candies are there in this batch? (2) How does the total number of bags change as the number of candies per bag changes? (3) Let $n$ denote the total number of bags and $m$ the number of candies per bag. Express the relationship between $n$ and $m$ as a formula. What kind of proportion relationship is there between $n$ and $m$?
+(Problem 5.3, Review and Consolidation, Problem 3) A messenger must deliver a letter to a certain place within a prescribed time. Walking $15\ \text{km}$ per hour, he arrives $24\ \text{min}$ early; walking $12\ \text{km}$ per hour, he is $15\ \text{min}$ late. Find the prescribed time in hours and the distance in kilometers.
 
 ### Solution to Problem 5
 
-By Quantities in Inverse Proportion.
+By Steps for Solving Word Problems by Setting Up Equations, let the prescribed time be $t$ hours.
 
-(1) Since $10\times 360=12\times 300=18\times 200=20\times 180=24\times 150=3600$, the batch of fruit candies totals $3600$ candies.
+Arriving $24\ \text{min}=\frac{24}{60}=0.4\ \text{h}$ early, the actual time taken is $\left(t-0.4\right)$ hours; arriving $15\ \text{min}=0.25\ \text{h}$ late, the actual time taken is $\left(t+0.25\right)$ hours. The distance is unchanged:
 
-(2) The larger the number of candies per bag, the smaller the total number of bags.
+$$15\left(t-0.4\right)=12\left(t+0.25\right).$$
 
-(3) Since $mn=3600$, we have $n=\frac{3600}{m}$. By Quantities in Inverse Proportion, the product of $n$ and $m$ is constant, so $n$ and $m$ are in an inverse proportion relationship. $\blacksquare$
+Remove parentheses: $15t-6=12t+3$. Transpose: $3t=9$, giving $t=3$. The distance $=15\left(3-0.4\right)=15\times2.6=39\ \text{km}$. Hence the prescribed time is $3$ hours and the distance is $39\ \text{km}$. $\blacksquare$
 
 ## Problem 6
 
-(Exercise 3.1, Comprehensive Application, Problem 6) (1) As shown in the figure, a hand-made beading work is strung from $5$ red beads and $5$ black beads. Red beads cost $a$ yuan each, and black beads cost $b$ yuan each. How much does it cost to buy all these beads? (2) Workshops A and B produce the same chemical product. Workshop A produces $a\ \text{t}$ per day, and Workshop B produces $b\ \text{t}$ per day. If both workshops produce for $5$ days, how many tons of chemical product are produced in total?
+(Problem 5.3, Review and Consolidation, Problem 4) Students at a school repair the playground themselves. Working alone, grade-7 students take $7.5\ \text{h}$; working alone, grade-8 students take $5\ \text{h}$. If grade-7 and grade-8 students work together for $1\ \text{h}$, and then grade-8 students finish the rest alone, how long in total does it take?
 
 ### Solution to Problem 6
 
-By Forming Algebraic Expressions.
+By Steps for Solving Word Problems by Setting Up Equations, let the total time be $t$ hours.
 
-(1) The red beads cost $5a$ yuan, and the black beads cost $5b$ yuan, for a total cost of $\left(5a+5b\right)$ yuan.
-
-(2) The two workshops together produce $\left(a+b\right)\ \text{t}$ per day, and in $5$ days produce $5\left(a+b\right)\ \text{t}$ in total. $\blacksquare$
+Working together for $1\ \text{h}$, grade 7 and 8 complete: $\frac{1}{7.5}+\frac{1}{5}=\frac{2}{15}+\frac{3}{15}=\frac{1}{3}$. The remaining $1-\frac{1}{3}=\frac{2}{3}$ is finished by grade 8 alone, taking $\frac{2}{3}\div\frac{1}{5}=\frac{10}{3}$ hours. The total time $t=1+\frac{10}{3}=\frac{13}{3}\ \text{h}$. $\blacksquare$
 
 ## Problem 7
 
-(Exercise 3.1, Comprehensive Application, Problem 7) State what is different in the meaning of each of the following pairs of algebraic expressions, and give examples of the quantitative relationships in practical problems that they represent:
-
-(1) $2m-1$ and $2\left(m-1\right)$;
-
-(2) $\frac{1}{2}a$ and $\frac{1}{2}+a$.
+(Problem 5.3, Review and Consolidation, Problem 5) Someone contracts a parts-processing task with a deadline. If he processes $13$ per day, then at the deadline $20$ parts remain unfinished; if he processes $16$ per day, then at the deadline he can process $16$ extra parts. Find the deadline in days and the total number of contracted parts.
 
 ### Solution to Problem 7
 
-By Algebraic Expressions.
+By Steps for Solving Word Problems by Setting Up Equations, let the deadline be $x$ days.
 
-(1) $2m-1$ is $2$ times $m$ minus $1$; $2\left(m-1\right)$ is $2$ times the difference between $m$ and $1$. Example: if $m$ is a certain number, $2m-1$ is $1$ less than twice it; $2\left(m-1\right)$ first subtracts and then multiplies by $2$.
-
-(2) $\frac{1}{2}a$ is half of $a$; $\frac{1}{2}+a$ is the sum of $a$ and $\frac{1}{2}$. Example: $\frac{1}{2}a$ represents half of $a$ yuan, and $\frac{1}{2}+a$ represents the quantity that is $\frac{1}{2}$ more than $a$. $\blacksquare$
+The total number of parts is unchanged: $13x+20=16x-16$. Transpose: $36=3x$, giving $x=12$. The total number of parts $=13\times12+20=176$. Hence the deadline is $12$ days and there are $176$ parts. $\blacksquare$
 
 ## Problem 8
 
-(Exercise 3.1, Comprehensive Application, Problem 8) Observe a sequence of numbers: $5$, $10$, $15$, $20$, $25$, $\cdots$.
+(Problem 5.3, Comprehensive Application, Problem 6) The basic price of residential electricity is $0.40$ yuan per kWh. If the monthly usage exceeds $a$ kWh, then the excess is charged at $120\%$ of the basic price.
 
-(1) What pattern do you think this sequence might follow? (2) According to the pattern, express the $n$-th number in an algebraic expression.
+(1) A household uses $84$ kWh in May and pays $35.52$ yuan; find $a$;
+
+(2) If the average electricity price for this household in June is $0.42$ yuan per kWh, how many kWh were used in June?
 
 ### Solution to Problem 8
 
-By Forming Algebraic Expressions.
+By Steps for Solving Word Problems by Setting Up Equations.
 
-(1) This sequence is in turn the $1$-fold, $2$-fold, $3$-fold, $4$-fold, and $5$-fold of $5$, that is, each number is $5$ greater than the previous one.
+(1) The $84$ kWh exceeds $a$ kWh. Electricity cost: $0.40a+0.40\times1.2\left(84-a\right)=35.52$. Simplifying: $0.4a+0.48\left(84-a\right)=35.52$. Remove parentheses: $0.4a+40.32-0.48a=35.52$. Combine: $-0.08a=-4.8$, giving $a=60$.
 
-(2) The $n$-th number is $5n$. $\blacksquare$
+(2) Let $x$ kWh be used in June. The average price is $0.42$ yuan per kWh, so the total cost is $0.42x$ yuan. By tiered pricing: $0.40\times60+0.48\left(x-60\right)=0.42x$. Simplifying: $24+0.48x-28.8=0.42x$. Combine: $0.06x=4.8$, giving $x=80$. Hence $80$ kWh were used in June. $\blacksquare$
 
 ## Problem 9
 
-(Exercise 3.1, Comprehensive Application, Problem 10) (1) Let $n$ denote any integer. Use an algebraic expression containing $n$ to represent any even number and any odd number. (2) The units digit of a three-digit number is $a$, the tens digit is $b$, and the hundreds digit is $c$. Use an algebraic expression containing $a$, $b$, and $c$ to represent this three-digit number.
+(Problem 5.3, Comprehensive Application, Problem 7) A dairy factory now has $9\ \text{t}$ of fresh milk. If sold directly on the market, each ton yields a profit of $500$ yuan; if made into yogurt, each ton yields $1200$ yuan; if made into milk tablets, each ton yields $2000$ yuan. The factory's capacity is: making yogurt, it can process $3\ \text{t}$ per day; making milk tablets, it can process $1\ \text{t}$ per day. Limited by personnel, the two processing methods cannot run simultaneously; limited by weather, this batch of milk must all be sold or processed within $4$ days. To this end, the factory has designed two feasible plans:
+
+Plan 1: make as much into milk tablets as possible, and sell the rest as fresh milk directly;
+
+Plan 2: make part into milk tablets and the rest into yogurt, finishing in exactly $4$ days.
+
+Which plan do you think yields the most profit, and why?
 
 ### Solution to Problem 9
 
-By Forming Algebraic Expressions.
+By Steps for Solving Word Problems by Setting Up Equations, calculate the profit of both plans separately.
 
-(1) Even numbers are all multiples of $2$, so any even number is $2n$; odd numbers are $1$ greater than the adjacent even number, so any odd number is $2n+1$.
+Plan 1: $4$ days of milk tablets make $4\ \text{t}$, and the remaining $5\ \text{t}$ are sold directly. Profit $=4\times2000+5\times500=8000+2500=10500$ yuan.
 
-(2) The hundreds digit $c$ represents $100c$, the tens digit $b$ represents $10b$, and the units digit $a$ represents $a$, so this three-digit number is $100c+10b+a$. $\blacksquare$
+Plan 2: let milk tablets take $x$ days and yogurt take $\left(4-x\right)$ days. The amount of milk tablets is $x\ \text{t}$, and yogurt is $3\left(4-x\right)\ \text{t}$. Total $9\ \text{t}$: $x+3\left(4-x\right)=9$. Simplifying: $x+12-3x=9$, $-2x=-3$, giving $x=1.5$. Milk tablets $1.5\ \text{t}$, yogurt $7.5\ \text{t}$. Profit $=1.5\times2000+7.5\times1200=3000+9000=12000$ yuan.
+
+Plan 2 profit $12000> 10500$, so Plan 2 yields the most profit. $\blacksquare$
 
 ## Problem 10
 
-(Exercise 3.1, Comprehensive Application, Problem 11) $3$ teams play a single round-robin tournament (each pair of teams plays one match). What is the total number of matches? What about $4$ teams? $5$ teams? $n$ teams?
+(Problem 5.3, Comprehensive Application, Problem 8) A shop opens and, to attract customers, sells all goods at a 20% discount. Given that a certain pair of sneakers costs $60$ yuan wholesale and, after the 20% discount, the seller's profit margin is $40\%$. What is the marked price of these shoes? What is the discounted price?
 
 ### Solution to Problem 10
 
-By Forming Algebraic Expressions.
+By Steps for Solving Word Problems by Setting Up Equations, let the marked price be $x$ yuan.
 
-For $3$ teams: $\frac{3\times 2}{2}=3$ matches; for $4$ teams: $\frac{4\times 3}{2}=6$ matches; for $5$ teams: $\frac{5\times 4}{2}=10$ matches.
+The discounted selling price is $0.8x$. Profit $=0.8x-60$, profit margin $40\%$: $\frac{0.8x-60}{60}=40\%$. i.e. $0.8x-60=24$, $0.8x=84$, giving $x=105$. Marked price $105$ yuan, discounted price $0.8\times105=84$ yuan. $\blacksquare$
 
-Each team plays one match against each of the remaining $\left(n-1\right)$ teams, giving $n\left(n-1\right)$ matches, but each match is counted once by each of the two teams, so for $n$ teams there are $\frac{n\left(n-1\right)}{2}$ matches in total. $\blacksquare$
+## Problem 11
+
+(Problem 5.3, Comprehensive Application, Problem 9) A project takes A $15$ days working alone, and B $12$ days working alone. First A and B work together for $3$ days, then A has another task and B finishes the rest alone. How many more days does B need to complete the whole project?
+
+### Solution to Problem 11
+
+By Steps for Solving Word Problems by Setting Up Equations, let B need $x$ more days.
+
+Working together for $3$ days they complete: $3\left(\frac{1}{15}+\frac{1}{12}\right)=3\times\frac{9}{60}=\frac{9}{20}$. The remaining $1-\frac{9}{20}=\frac{11}{20}$. B finishes alone: $\frac{x}{12}=\frac{11}{20}$. Giving $x=\frac{11}{20}\times12=\frac{33}{5}=6.6$ days. $\blacksquare$
+
+## Problem 12
+
+(Problem 5.3, Extension and Exploration, Problem 10) A city charges the monthly gas fee as follows: if gas usage does not exceed $60\ \text{m}^{3}$, it is charged at $0.8$ yuan per cubic meter; if it exceeds $60\ \text{m}^{3}$, the excess is charged at $1.2$ yuan per cubic meter. Given that a user's average gas price in April is $0.88$ yuan per cubic meter, how much gas fee should this user pay in April?
+
+### Solution to Problem 12
+
+By Steps for Solving Word Problems by Setting Up Equations, let the April gas usage be $x\ \text{m}^{3}$.
+
+The average price is $0.88$ yuan per cubic meter, so the total cost is $0.88x$ yuan. Since the average price $0.88> 0.8$, we have $x> 60$. Tiered billing: $0.8\times60+1.2\left(x-60\right)=0.88x$. Simplifying: $48+1.2x-72=0.88x$. Combine: $0.32x=24$, giving $x=75$. Total cost $=0.88\times75=66$ yuan. $\blacksquare$
+
+## Problem 13
+
+(Problem 5.3, Extension and Exploration, Problem 11) A company makes a product with a cost of $400$ yuan per piece and a selling price of $510$ yuan. This quarter it sold $m$ pieces. To further expand the market, the company decides to lower the cost while lowering the selling price. After market research, it predicts that next quarter the selling price per piece will drop $4\%$ and sales volume will rise $10\%$. To keep the sales profit unchanged, by how many yuan should the cost per piece be reduced?
+
+### Solution to Problem 13
+
+By Steps for Solving Word Problems by Setting Up Equations, let the cost be reduced by $x$ yuan per piece.
+
+This quarter's profit: $\left(510-400\right)m=110m$. Next quarter's selling price: $510\times\left(1-4\%\right)=510\times0.96=489.6$ yuan. Sales volume: $m\left(1+10\%\right)=1.1m$. Next quarter's cost: $\left(400-x\right)$ yuan. Profit unchanged:
+
+$$\left(489.6-400+x\right)\times1.1m=110m.$$
+
+Simplifying: $\left(89.6+x\right)\times1.1=110$. $98.56+1.1x=110$. $1.1x=11.44$. Giving $x=10.4$. Hence the cost per piece should be reduced by $10.4$ yuan. $\blacksquare$
+
+## Problem 14
+
+(Problem 5.3, Extension and Exploration, Problem 12) A boat travels downstream from dock A to dock B, then returns upstream, reaching dock C which lies between A and B; the total navigation is $7\ \text{h}$. Given that the boat's speed in still water is $7.5\ \text{km/h}$, the current speed is $2.5\ \text{km/h}$, and the voyage between docks A and C is $10\ \text{km}$, find the voyage between docks A and B.
+
+### Solution to Problem 14
+
+By Steps for Solving Word Problems by Setting Up Equations, let the A-to-B voyage be $x\ \text{km}$.
+
+The downstream speed $=7.5+2.5=10\ \text{km/h}$, and the upstream speed $=7.5-2.5=5\ \text{km/h}$. The B-to-C voyage is $\left(x-10\right)\ \text{km}$. Total time:
+
+$$\frac{x}{10}+\frac{x-10}{5}=7.$$
+
+Multiply both sides by $10$: $x+2\left(x-10\right)=70$. Remove parentheses: $x+2x-20=70$. Combine: $3x=90$, giving $x=30$. Hence the voyage between docks A and B is $30\ \text{km}$. $\blacksquare$
+
+## Problem 15
+
+(Problem 5.3, Extension and Exploration, Problem 13) A factory now has $360\ \text{kg}$ of type-A raw material and $290\ \text{kg}$ of type-B raw material, and plans to use them to make a total of $50$ pieces of products A and B. Making one piece of product A requires $9\ \text{kg}$ of type-A material and $3\ \text{kg}$ of type-B material; making one piece of product B requires $4\ \text{kg}$ of type-A material and $10\ \text{kg}$ of type-B material. Arranging the production quantities of A and B as required, how many plans are there?
+
+### Solution to Problem 15
+
+By Steps for Solving Word Problems by Setting Up Equations, let product A be $x$ pieces and product B be $\left(50-x\right)$ pieces.
+
+Type-A material: $9x+4\left(50-x\right)\le360$. Simplifying: $5x+200\le360$, $5x\le160$, $x\le32$.
+
+Type-B material: $3x+10\left(50-x\right)\le290$. Simplifying: $-7x+500\le290$, $-7x\le-210$, $x\ge30$.
+
+Hence $30\le x\le32$, $x$ an integer, $x=30,31,32$. There are three plans: A 30 pieces and B 20 pieces; A 31 pieces and B 19 pieces; A 32 pieces and B 18 pieces. $\blacksquare$
+
+## Problem 16
+
+(Problem 5.3, Extension and Exploration, Problem 14) A company has $9$ production workshops; each workshop now has the same number of finished products originally, and each workshop produces the same number of finished products per day. There are two groups of inspectors, A and B; group A has $8$ inspectors. They first spend $2$ days inspecting all finished products (both original and later-produced) in the first and second workshops, then spend another $3$ days inspecting all finished products in the third and fourth workshops; meanwhile, over these $5$ days, group B's inspectors also finish inspecting all finished products in the remaining $5$ workshops. If every inspector works at the same speed, each workshop originally has $a$ pieces of finished product, and each workshop produces $b$ pieces per day, find the number of inspectors in group B.
+
+### Solution to Problem 16
+
+By Steps for Solving Word Problems by Setting Up Equations, let group B have $n$ inspectors.
+
+Group A's first $2$ days inspect $2$ workshops: each workshop originally has $a$ pieces and produces $2b$ in $2$ days. The two workshops have $2\left(a+2b\right)$ pieces in total; $8$ inspectors finish in $2$ days, so each inspector per day inspects $\frac{2\left(a+2b\right)}{8\times2}=\frac{a+2b}{8}$ pieces.
+
+Group A's next $3$ days inspect $2$ workshops: each workshop produces $5b$ in $5$ days and originally has $a$ pieces. The two workshops have $2\left(a+5b\right)$ pieces in total; $8$ inspectors finish in $3$ days, so each inspector per day inspects $\frac{2\left(a+5b\right)}{8\times3}=\frac{a+5b}{12}$ pieces.
+
+Each person's speed is the same: $\frac{a+2b}{8}=\frac{a+5b}{12}$. Cross-multiplying: $12\left(a+2b\right)=8\left(a+5b\right)$. $12a+24b=8a+40b$. $4a=16b$, giving $a=4b$.
+
+Each inspector per day inspects: $\frac{a+2b}{8}=\frac{4b+2b}{8}=\frac{6b}{8}=\frac{3b}{4}$ pieces.
+
+Group B inspects $5$ workshops over $5$ days: each workshop produces $5b$ in $5$ days and originally has $a=4b$, so each workshop has $9b$ pieces. The $5$ workshops have $45b$ pieces in total. $n$ inspectors finish in $5$ days:
+
+$$n\times5\times\frac{3b}{4}=45b.$$
+
+Simplifying: $\frac{15nb}{4}=45b$. $n=12$. Hence group B has $12$ inspectors. $\blacksquare$
 
 ## Reading and Thinking 1
 
-(Reading and Thinking, Hua Luogeng) Reading material: Starting from a junior-high-school diploma, Hua Luogeng rose through self-reliance and self-study; he was the founder and pioneer of research in analytic number theory, classical groups, matrix geometry, and many other fields in China. "Hua's Theorem" and the "Hua-Wang Method" are recorded in the international history of mathematics. This column is a biographical reading piece about mathematicians, with no exercises.
+(Reading and Thinking: A First Look at Mathematical Models) What is a mathematical model? What kind of mathematical model does solving word problems by setting up equations belong to?
 
 ### Solution to Reading and Thinking 1
 
-From the material, Hua Luogeng succeeded through self-study under difficult conditions, devoted his life to mathematical research, and left more than $10$ monographs and $200$+ academic papers, embodying the mathematician's self-reliant and persistent spirit of exploration. It inspires learners to use letters to represent numbers and algebraic expressions to depict quantitative relationships, laying a foundation for later study of equations, inequalities, and functions. $\blacksquare$
+By Steps for Solving Word Problems by Setting Up Equations, a mathematical model is the mathematical structure obtained by abstracting and generalizing a real problem in mathematical language. Solving word problems by setting up equations expresses the equal-quantity relations in a real problem as a linear equation in one variable, which belongs to the equation model. $\blacksquare$
+
+## Activity 1
+
+(Mathematical Activity, Activity 1, Problem 1) A city applies tiered water pricing to residential water: when a household's monthly usage does not exceed $22\ \text{m}^{3}$, it is charged at the basic water price; when it exceeds $22\ \text{m}^{3}$, the excess is charged at $1.5$ times the basic price. Given that a household used $20\ \text{m}^{3}$ in April and paid $46$ yuan, find the basic water price.
+
+### Solution to Activity 1
+
+By Steps for Solving Word Problems by Setting Up Equations, let the basic water price be $x$ yuan per cubic meter.
+
+The usage $20\ \text{m}^{3}$ does not exceed $22\ \text{m}^{3}$, so all is charged at the basic price: $20x=46$. Giving $x=2.3$. Hence the basic water price is $2.3$ yuan per cubic meter. $\blacksquare$

@@ -1,131 +1,383 @@
 # week69
 
+## 复习题一
+
+(复习题 27 复习巩固第 4 题) 李华要在报纸上刊登广告, 一块 $10\ \text{cm}\times5\ \text{cm}$ 的长方形版面要付 $180$ 元的广告费. 如果他要把版面的边长扩大为原来的 $3$ 倍, 要付多少广告费 (假设每平方厘米版面的广告费相同)? 
+
+### 解答 复习题一
+
+原版面面积为 $10\times5=50\ \text{cm}^2$. 边长扩大为原来的 $3$ 倍, 面积扩大为原来的 $9$ 倍, 即 $450\ \text{cm}^2$. 
+
+广告费与面积成正比, 故应付 $180\times9=1620$ 元. $\blacksquare$
+
+## 复习题二
+
+(复习题 27 复习巩固第 5 题) 将如图所示的图形缩小, 使得缩小前后对应线段的比为 $2:1$. 
+
+### 解答 复习题二
+
+由位似图形, 在图形外或内取一位似中心, 连接中心与各顶点, 在连线上取各顶点到中心距离一半的对应点, 顺次连接, 所得图形即为缩小后图形, 对应线段比为 $2:1$. $\blacksquare$
+
+## 复习题三
+
+(复习题 27 综合运用第 6 题) 某同学的座位到黑板的距离是 $6\ \text{m}$, 老师在黑板上要写多大的字, 才能使这名同学看黑板上的字时, 与他看相距 $30\ \text{cm}$ 的教科书上的字的感觉相同 (教科书上的小四号字大小约为 $0.42\ \text{cm}\times0.42\ \text{cm}$)? 
+
+### 解答 复习题三
+
+感觉相同即视角相同, 字的大小与距离成正比. 
+
+距离比为 $6\ \text{m}:30\ \text{cm}=600:30=20:1$. 
+
+黑板上字的大小应为 $0.42\times20=8.4\ \text{cm}$, 即 $8.4\ \text{cm}\times8.4\ \text{cm}$. $\blacksquare$
+
+## 复习题四
+
+(复习题 27 综合运用第 7 题) 已知零件的外径为 $a$, 用交叉卡钳 (两条尺长 $AC$ 和 $BD$ 相等) 测量零件的内孔直径 $AB$. 如果 $OA:OC=OB:OD=n$, 且量得 $CD=b$, 求 $AB$ 以及零件厚度 $x$. 
+
+### 解答 复习题四
+
+$\angle AOB=\angle COD$ (对顶角), 且 $\frac{OA}{OC}=\frac{OB}{OD}=n$, 由SAS, $\triangle OAB\backsim\triangle OCD$. 
+
+$$
+\frac{AB}{CD}=\frac{OA}{OC}=n\Rightarrow AB=nb.
+$$
+
+零件外径为 $a$, 厚度 $x=\frac{a-AB}{2}=\frac{a-nb}{2}$. $\blacksquare$
+
+## 复习题五
+
+(复习题 27 综合运用第 8 题) 如图, $CD$ 是 $\odot O$ 的弦, $AB$ 是直径, 且 $CD\perp AB$, 垂足为 $P$, 求证 $PC^2=PA\cdot PB$. 
+
+### 解答 复习题五
+
+连接 $AC$, $BC$. $AB$ 为直径, 故 $\angle ACB=90^\circ$. 又 $CD\perp AB$, 故 $\angle APC=\angle CPB=90^\circ$. 
+
+在 $\triangle ACP$ 和 $\triangle CBP$ 中, $\angle A+\angle B=90^\circ$, $\angle ACP+\angle A=90^\circ$, 故 $\angle ACP=\angle B$. 由AA, $\triangle ACP\backsim\triangle CBP$. 
+
+$$
+\frac{PC}{PB}=\frac{PA}{PC}\Rightarrow PC^2=PA\cdot PB.\ \blacksquare
+$$
+
+## 复习题六
+
+(复习题 27 综合运用第 9 题) 如图, $AD\perp BC$, 垂足为 $D$, $BE\perp AC$, 垂足为 $E$, $AD$ 与 $BE$ 相交于点 $F$, 连接 $ED$. 找出图中一对相似三角形, 并说明相似的理由. 
+
+### 解答 复习题六
+
+$\angle AEF=\angle BDF=90^\circ$, $\angle AFE=\angle BFD$ (对顶角), 由AA, $\triangle AEF\backsim\triangle BDF$. $\blacksquare$
+
+## 复习题七
+
+(复习题 27 综合运用第 10 题) 如图, $\triangle ABC$ 的三条边与 $\triangle A'B'C'$ 的三条边满足 $A'B'\parallel AB$, $B'C'\parallel BC$, $A'C'\parallel AC$, 且 $OB=3OB'$. $\triangle ABC$ 的面积与 $\triangle A'B'C'$ 的面积之间有什么关系? 
+
+### 解答 复习题七
+
+由位似图形, 对应边平行且连线交于 $O$, 两三角形位似, 相似比为 $\frac{OB}{OB'}=3$. 
+
+由面积比, 面积比为相似比的平方, 即 $9$. 
+
+故 $S_{\triangle ABC}=9S_{\triangle A'B'C'}$. $\blacksquare$
+
+## 复习题八
+
+(复习题 27 拓广探索第 11 题) 如图, 一块材料的形状是锐角三角形 $ABC$, 边 $BC=120\ \text{mm}$, 高 $AD=80\ \text{mm}$. 把它加工成正方形零件, 使正方形的一边在 $BC$ 上, 其余两个顶点分别在 $AB$, $AC$ 上, 这个正方形零件的边长是多少? 
+
+图为锐角三角形 $ABC$, 底边 $BC=120\ \text{mm}$, 高 $AD=80\ \text{mm}$($D$ 在 $BC$ 上); 三角形内接有一个正方形, 正方形的一边在 $BC$ 上, 上边两端顶点分别在 $AB$ 和 $AC$ 上. 
+
+### 解答 复习题八
+
+设正方形边长为 $x$. 正方形上边平行于 $BC$, 截得的小三角形与 $\triangle ABC$ 相似. 
+
+小三角形的高为 $80-x$, 底为 $x$. 由相似三角形对应高之比等于相似比: 
+
+$$
+\frac{80-x}{80}=\frac{x}{120}.
+$$
+
+$$
+120\left(80-x\right)=80x\Rightarrow 9600=200x\Rightarrow x=48\ \text{mm}.\ \blacksquare
+$$
+
+## 复习题九
+
+(复习题 27 拓广探索第 12 题) 为了求出海岛上的山峰 $AB$ 的高度, 在 $D$ 处和 $F$ 处立标杆 $CD$ 和 $EF$, 标杆的高都是 $3$ 丈, $D$, $F$ 两处相隔 $1000$ 步 ($1$ 丈 $=10$ 尺, $1$ 步 $=6$ 尺), 并且 $AB$, $CD$ 和 $EF$ 在同一平面内. 从标杆 $CD$ 后退 $123$ 步的 $G$ 处, 可以看到顶峰 $A$ 和标杆顶端 $C$ 在一条直线上; 从标杆 $EF$ 后退 $127$ 步的 $H$ 处, 可以看到顶峰 $A$ 和标杆顶端 $E$ 在一条直线上. 山峰的高度 $AB$ 及它和标杆 $CD$ 的水平距离 $BD$ 各是多少步? 
+
+### 解答 复习题九
+
+标杆高 $3$ 丈 $=30$ 尺 $=5$ 步. 设 $AB=h$, $BD=d$. 
+
+由相似三角形, 从 $G$ 处看: $\frac{h-5}{d+123}=\frac{5}{123}$. 从 $H$ 处看: $\frac{h-5}{d+1000+127}=\frac{5}{127}$. 
+
+两式相除消去 $h-5$: 
+
+$$
+\frac{d+1127}{d+123}=\frac{127}{123}.
+$$
+
+$$
+123\left(d+1127\right)=127\left(d+123\right)\Rightarrow 123d+138621=127d+15621.
+$$
+
+$$
+4d=123000\Rightarrow d=30750\ \text{步}.
+$$
+
+代入 $\frac{h-5}{30750+123}=\frac{5}{123}$: 
+
+$$
+h-5=\frac{5\times30873}{123}=1255.
+$$
+
+$$
+h=1255+5=1260\ \text{步}.
+$$
+
+故山峰高度 $AB=1260$ 步, 水平距离 $BD=30750$ 步. $\blacksquare$
+
 ## 练习一
 
-(练习 14.3 第 1 题) 如图, 在直线 $MN$ 上求作一点 $P$, 使点 $P$ 在 $\angle AOB$ 的内部, 且点 $P$ 到射线 $OA$ 和 $OB$ 的距离相等.
+(练习 28.1 第 1 题) 如图, 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, 求 $\sin A$ 和 $\sin B$ 的值.
+
+(1) $AC=5$, $BC=3$;
+
+(2) $AC=1$, $AB=\sqrt{5}$.
 
 ### 解答 练习一
 
-由角平分线的判定, 到 $OA$, $OB$ 距离相等的点在 $\angle AOB$ 的平分线上. 故先用尺规作 $\angle AOB$ 的平分线, 该平分线与直线 $MN$ 的交点即为所求的点 $P$. $\blacksquare$
+由正弦, $\sin A$ 等于 $\angle A$ 的对边与斜边的比, $\sin B$ 等于 $\angle B$ 的对边与斜边的比.
+
+(1) 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, $AC=5$, $BC=3$. 由勾股定理得
+
+$$AB=\sqrt{AC^{2}+BC^{2}}=\sqrt{25+9}=\sqrt{34}.$$
+
+故
+
+$$\sin A=\frac{BC}{AB}=\frac{3}{\sqrt{34}}=\frac{3\sqrt{34}}{34},\quad \sin B=\frac{AC}{AB}=\frac{5}{\sqrt{34}}=\frac{5\sqrt{34}}{34}.$$
+
+(2) 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, $AC=1$, $AB=\sqrt{5}$. 由勾股定理得
+
+$$BC=\sqrt{AB^{2}-AC^{2}}=\sqrt{5-1}=2.$$
+
+故
+
+$$\sin A=\frac{BC}{AB}=\frac{2}{\sqrt{5}}=\frac{2\sqrt{5}}{5},\quad \sin B=\frac{AC}{AB}=\frac{1}{\sqrt{5}}=\frac{\sqrt{5}}{5}.\ \blacksquare$$
 
 ## 练习二
 
-(练习 14.3 第 2 题) 如图, $OC$ 是 $\angle AOB$ 的平分线, 点 $P$ 在 $OC$ 上, $PD\perp OA$, $PE\perp OB$, 垂足分别为 $D$, $E$. 点 $F$, $G$ 分别在 $OA$, $OB$ 上, $DF=EG$, 连接 $PF$, $PG$. 求证 $PF=PG$.
+(练习 28.1 第 2 题) 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, $\angle A=60^{\circ}$, 求 $\sin A$ 的值.
 
 ### 解答 练习二
 
-由角平分线的性质, $PD=PE$. 在 $\text{Rt}\triangle PDF$ 和 $\text{Rt}\triangle PEG$ 中, $\angle PDF=\angle PEG=90^\circ$, $DF=EG$, $PD=PE$, 由SAS, $\triangle PDF\cong\triangle PEG$.
+由特殊角的三角函数值, $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$.
 
-由基础知识, 对应边 $PF=PG$. $\blacksquare$
+故 $\sin A=\sin 60^{\circ}=\frac{\sqrt{3}}{2}$. $\blacksquare$
 
 ## 练习三
 
-(练习 14.3 第 1 题) 如图, $AB\perp CD$, $CE\perp AD$, 垂足分别为 $B$, $E$, $AB=CE$, $AB$, $CE$ 相交于点 $F$, 连接 $DF$. 求证 $FD$ 平分 $\angle BFE$.
+(练习 28.1 第 1 题) 分别求出下列直角三角形中两个锐角的正弦值, 余弦值和正切值.
+
+(1) $AB=13$, $AC=12$, $\angle C=90^{\circ}$;
+
+(2) $BC=3$, $AC=2$, $\angle C=90^{\circ}$.
 
 ### 解答 练习三
 
-在 $\triangle ABF$ 和 $\triangle CEF$ 中, $\angle AFB=\angle CFE$ (对顶角), $\angle ABF=\angle CEF=90^\circ$, $AB=CE$, 由 AAS, $\triangle ABF\cong\triangle CEF$, 故 $BF=EF$.
+由正弦, 余弦, 正切, 先由勾股定理求出未知边, 再代入定义.
 
-在 $\text{Rt}\triangle BDF$ 和 $\text{Rt}\triangle EDF$ 中, $BF=EF$, $DF$ 为公共斜边, 由HL, $\text{Rt}\triangle BDF\cong\text{Rt}\triangle EDF$, 故 $DB=DE$.
+(1) 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, $AB=13$, $AC=12$, 故
 
-即点 $D$ 到直线 $FB$ (在 $AB$ 上) 与直线 $FE$ (在 $CE$ 上) 的距离相等. 由角平分线的判定, 点 $D$ 在 $\angle BFE$ 的平分线上, 故 $FD$ 平分 $\angle BFE$. $\blacksquare$
+$$BC=\sqrt{AB^{2}-AC^{2}}=\sqrt{169-144}=5.$$
+
+因此
+
+$$\sin A=\frac{BC}{AB}=\frac{5}{13},\quad \cos A=\frac{AC}{AB}=\frac{12}{13},\quad \tan A=\frac{BC}{AC}=\frac{5}{12};$$
+
+$$\sin B=\frac{AC}{AB}=\frac{12}{13},\quad \cos B=\frac{BC}{AB}=\frac{5}{13},\quad \tan B=\frac{AC}{BC}=\frac{12}{5}.$$
+
+(2) 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, $BC=3$, $AC=2$, 故
+
+$$AB=\sqrt{AC^{2}+BC^{2}}=\sqrt{4+9}=\sqrt{13}.$$
+
+因此
+
+$$\sin A=\frac{BC}{AB}=\frac{3}{\sqrt{13}}=\frac{3\sqrt{13}}{13},\quad \cos A=\frac{AC}{AB}=\frac{2}{\sqrt{13}}=\frac{2\sqrt{13}}{13},\quad \tan A=\frac{BC}{AC}=\frac{3}{2};$$
+
+$$\sin B=\frac{AC}{AB}=\frac{2}{\sqrt{13}}=\frac{2\sqrt{13}}{13},\quad \cos B=\frac{BC}{AB}=\frac{3}{\sqrt{13}}=\frac{3\sqrt{13}}{13},\quad \tan B=\frac{AC}{BC}=\frac{2}{3}.\ \blacksquare$$
 
 ## 练习四
 
-(练习 14.3 第 2 题) 如图, 已知 $\triangle ABC$, $BF$ 是外角 $\angle CBD$ 的平分线, $CG$ 是外角 $\angle BCE$ 的平分线, $BF$, $CG$ 相交于点 $P$. 求证:
-
-(1) 点 $P$ 到三边 $AB$, $BC$, $CA$ 所在直线的距离相等;
-
-(2) 点 $P$ 在 $\angle A$ 的平分线上.
+(练习 28.1 第 2 题) 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$. 如果各边长都扩大到原来的 $2$ 倍, 那么 $\angle A$ 的正弦值, 余弦值和正切值有变化吗? 说明理由.
 
 ### 解答 练习四
 
-(1) 过点 $P$ 作到三边所在直线的垂线. 由 $BF$ 平分 $\angle CBD$ 且 $P$ 在 $BF$ 上, 由角平分线的性质, $P$ 到直线 $AB$, $BC$ 的距离相等. 同理由 $CG$ 平分 $\angle BCE$, $P$ 到直线 $BC$, $CA$ 的距离相等. 故 $P$ 到三边所在直线的距离相等.
+由锐角三角函数值的确定性, 锐角三角函数值只与角的大小有关, 与直角三角形的边长无关.
 
-(2) 由 (1), $P$ 到直线 $AB$, $CA$ 的距离相等. 由角平分线的判定, $P$ 在 $\angle A$ 的平分线上. $\blacksquare$
+各边长都扩大到原来的 $2$ 倍后, 新三角形与原三角形的三边之比不变, 即两三角形相似, 故 $\angle A$ 的大小不变. 由基础知识, 基础知识, 基础知识, $\sin A$, $\cos A$, $\tan A$ 分别为两边之比, 各边同乘 $2$ 后比值不变, 故 $\angle A$ 的正弦值, 余弦值和正切值均无变化. $\blacksquare$
+
+## 练习五
+
+(练习 28.1 第 1 题) 求下列各式的值:
+
+(1) $1-2\sin 30^{\circ}\cos 30^{\circ}$;
+
+(2) $3\tan 30^{\circ}-\tan 45^{\circ}+2\sin 60^{\circ}$;
+
+(3) $\left(\cos^{2}30^{\circ}+\sin^{2}30^{\circ}\right)\times\tan 60^{\circ}$.
+
+### 解答 练习五
+
+由特殊角的三角函数值, 代入各特殊角的函数值计算.
+
+(1) 代入 $\sin 30^{\circ}=\frac{1}{2}$, $\cos 30^{\circ}=\frac{\sqrt{3}}{2}$:
+
+$$1-2\sin 30^{\circ}\cos 30^{\circ}=1-2\times\frac{1}{2}\times\frac{\sqrt{3}}{2}=1-\frac{\sqrt{3}}{2}.$$
+
+(2) 代入 $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$, $\tan 45^{\circ}=1$, $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$:
+
+$$3\tan 30^{\circ}-\tan 45^{\circ}+2\sin 60^{\circ}=3\times\frac{\sqrt{3}}{3}-1+2\times\frac{\sqrt{3}}{2}=\sqrt{3}-1+\sqrt{3}=2\sqrt{3}-1.$$
+
+(3) 由 $\cos^{2}30^{\circ}+\sin^{2}30^{\circ}=\left(\frac{\sqrt{3}}{2}\right)^{2}+\left(\frac{1}{2}\right)^{2}=\frac{3}{4}+\frac{1}{4}=1$, 故
+
+$$\left(\cos^{2}30^{\circ}+\sin^{2}30^{\circ}\right)\times\tan 60^{\circ}=1\times\sqrt{3}=\sqrt{3}.\ \blacksquare$$
+
+## 练习六
+
+(练习 28.1 第 2 题) 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, $BC=\sqrt{7}$, $AC=\sqrt{21}$, 求 $\angle A$, $\angle B$ 的度数.
+
+### 解答 练习六
+
+由正切, $\tan A=\frac{BC}{AC}=\frac{\sqrt{7}}{\sqrt{21}}=\frac{\sqrt{7}}{\sqrt{3}\cdot\sqrt{7}}=\frac{1}{\sqrt{3}}=\frac{\sqrt{3}}{3}$.
+
+由特殊角的三角函数值, $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$, 故 $\angle A=30^{\circ}$.
+
+又由两锐角互余, $\angle B=90^{\circ}-\angle A=60^{\circ}$. $\blacksquare$
+
+## 练习七
+
+(练习 28.1 第 1 题) 用计算器求下列锐角三角函数值:
+
+(1) $\sin 20^{\circ}$, $\cos 70^{\circ}$; $\sin 35^{\circ}$, $\cos 55^{\circ}$; $\sin 15^{\circ}32'$, $\cos 74^{\circ}28'$;
+
+(2) $\tan 3^{\circ}8'$, $\tan 80^{\circ}25'43''$.
+
+### 解答 练习七
+
+用计算器计算得:
+
+(1) $\sin 20^{\circ}\approx 0.3420$, $\cos 70^{\circ}\approx 0.3420$; $\sin 35^{\circ}\approx 0.5736$, $\cos 55^{\circ}\approx 0.5736$; $\sin 15^{\circ}32'\approx 0.2678$, $\cos 74^{\circ}28'\approx 0.2678$.
+
+由此可见, $\sin\alpha=\cos\left(90^{\circ}-\alpha\right)$, 即一个锐角的正弦值等于它余角的余弦值.
+
+(2) $\tan 3^{\circ}8'\approx 0.0545$, $\tan 80^{\circ}25'43''\approx 5.930$. $\blacksquare$
+
+## 练习八
+
+(练习 28.1 第 2 题) 已知下列锐角三角函数值, 用计算器求其相应锐角的度数:
+
+(1) $\sin A=0.6275$, $\sin B=0.0547$;
+
+(2) $\cos A=0.6252$, $\cos B=0.1659$;
+
+(3) $\tan A=4.8425$, $\tan B=0.8816$.
+
+### 解答 练习八
+
+用计算器求反三角函数得:
+
+(1) $\angle A\approx 38.87^{\circ}\approx 38^{\circ}52'$, $\angle B\approx 3.14^{\circ}\approx 3^{\circ}8'$.
+
+(2) $\angle A\approx 51.30^{\circ}\approx 51^{\circ}18'$, $\angle B\approx 80.44^{\circ}\approx 80^{\circ}26'$.
+
+(3) $\angle A\approx 78.34^{\circ}\approx 78^{\circ}20'$, $\angle B\approx 41.40^{\circ}\approx 41^{\circ}24'$. $\blacksquare$
 
 ## 习题一
 
-(习题 14.3 复习巩固第 1 题) 如图, 在 $\triangle ABC$ 中, $AD$ 是它的角平分线, 且 $BD=CD$, $DE\perp AB$, $DF\perp AC$, 垂足分别为 $E$, $F$. 求证 $EB=FC$.
+(习题 28.1 复习巩固第 1 题) 分别求出图中 $\angle A$, $\angle B$ 的正弦值, 余弦值和正切值.
+
+(1) $\angle C=90^{\circ}$, $BC=2$, $AB=6$;
+
+(2) $\angle C=90^{\circ}$, $AC=6$, $BC=2$;
+
+(3) $\angle C=90^{\circ}$, $AC=\sqrt{2}$, $AB=\sqrt{6}$.
 
 ### 解答 习题一
 
-由 $AD$ 是角平分线及角平分线的性质, $DE=DF$. 在 $\text{Rt}\triangle BDE$ 和 $\text{Rt}\triangle CDF$ 中, 斜边 $BD=CD$, 直角边 $DE=DF$, 由HL, $\text{Rt}\triangle BDE\cong\text{Rt}\triangle CDF$.
+由基础知识, 基础知识, 基础知识, 先用勾股定理求未知边, 再代入.
 
-由基础知识, 对应直角边 $EB=FC$. $\blacksquare$
+(1) $AC=\sqrt{AB^{2}-BC^{2}}=\sqrt{36-4}=\sqrt{32}=4\sqrt{2}$. 故
+
+$$\sin A=\frac{BC}{AB}=\frac{1}{3},\ \cos A=\frac{AC}{AB}=\frac{2\sqrt{2}}{3},\ \tan A=\frac{BC}{AC}=\frac{2}{4\sqrt{2}}=\frac{\sqrt{2}}{4};$$
+
+$$\sin B=\frac{AC}{AB}=\frac{2\sqrt{2}}{3},\ \cos B=\frac{BC}{AB}=\frac{1}{3},\ \tan B=\frac{AC}{BC}=2\sqrt{2}.$$
+
+(2) $AB=\sqrt{AC^{2}+BC^{2}}=\sqrt{36+4}=\sqrt{40}=2\sqrt{10}$. 故
+
+$$\sin A=\frac{BC}{AB}=\frac{2}{2\sqrt{10}}=\frac{\sqrt{10}}{10},\ \cos A=\frac{AC}{AB}=\frac{6}{2\sqrt{10}}=\frac{3\sqrt{10}}{10},\ \tan A=\frac{BC}{AC}=\frac{1}{3};$$
+
+$$\sin B=\frac{AC}{AB}=\frac{3\sqrt{10}}{10},\ \cos B=\frac{BC}{AB}=\frac{\sqrt{10}}{10},\ \tan B=\frac{AC}{BC}=3.$$
+
+(3) $BC=\sqrt{AB^{2}-AC^{2}}=\sqrt{6-2}=2$. 故
+
+$$\sin A=\frac{BC}{AB}=\frac{2}{\sqrt{6}}=\frac{\sqrt{6}}{3},\ \cos A=\frac{AC}{AB}=\frac{\sqrt{2}}{\sqrt{6}}=\frac{\sqrt{3}}{3},\ \tan A=\frac{BC}{AC}=\frac{2}{\sqrt{2}}=\sqrt{2};$$
+
+$$\sin B=\frac{AC}{AB}=\frac{\sqrt{3}}{3},\ \cos B=\frac{BC}{AB}=\frac{\sqrt{6}}{3},\ \tan B=\frac{AC}{BC}=\frac{\sqrt{2}}{2}.\ \blacksquare$$
 
 ## 习题二
 
-(习题 14.3 复习巩固第 2 题) 如图, 在 $\triangle ABC$ 中, $AB=AC$, $BD\perp AC$, $CE\perp AB$, 垂足分别为 $D$, $E$, $BD$, $CE$ 相交于点 $F$. 求证 $FA$ 平分 $\angle DFE$.
+(习题 28.1 复习巩固第 2 题) 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$. 当 $\angle A$ 确定时, 它的正弦值是否随之确定? 余弦值呢? 正切值呢? 为什么?
 
 ### 解答 习题二
 
-在 $\triangle BCE$ 和 $\triangle CBD$ 中, $\angle BEC=\angle CDB=90^\circ$, $\angle CBE=\angle BCD$ (由 $AB=AC$), $BC$ 为公共边, 由 AAS, $\triangle BCE\cong\triangle CBD$, 故 $BE=CD$. 由 $AB=AC$, 得 $AE=AD$.
+由锐角三角函数值的确定性, 当锐角 $A$ 的度数一定时, 无论直角三角形大小如何, $\angle A$ 的对边与斜边的比, 邻边与斜边的比, 对边与邻边的比都是固定值.
 
-在 $\text{Rt}\triangle AEF$ 和 $\text{Rt}\triangle ADF$ 中, 斜边 $AF$ 为公共边, 直角边 $AE=AD$, 由HL, $\text{Rt}\triangle AEF\cong\text{Rt}\triangle ADF$, 故 $\angle AFE=\angle AFD$.
-
-即 $FA$ 平分 $\angle DFE$. $\blacksquare$
+故当 $\angle A$ 确定时, $\sin A$, $\cos A$, $\tan A$ 都随之唯一确定. $\blacksquare$
 
 ## 习题三
 
-(习题 14.3 复习巩固第 3 题) 如图, $CD\perp AB$, $BE\perp AC$, 垂足分别为 $D$, $E$, $BE$, $CD$ 相交于点 $O$, $OB=OC$. 求证 $\angle 1=\angle 2$.
+(习题 28.1 复习巩固第 3 题) 求下列各式的值:
+
+(1) $\sin 45^{\circ}+\frac{\sqrt{2}}{2}$;
+
+(2) $\sin 45^{\circ}\cos 60^{\circ}-\cos 45^{\circ}$;
+
+(3) $\cos^{2}45^{\circ}+\tan 60^{\circ}\cos 30^{\circ}$;
+
+(4) $\frac{1-\cos 30^{\circ}}{\sin 60^{\circ}}+\tan 30^{\circ}$.
 
 ### 解答 习题三
 
-在 $\triangle BOD$ 和 $\triangle COE$ 中, $\angle BDO=\angle CEO=90^\circ$, $\angle BOD=\angle COE$ (对顶角), $OB=OC$, 由 AAS, $\triangle BOD\cong\triangle COE$, 故 $OD=OE$.
+由特殊角的三角函数值, 代入计算.
 
-即点 $O$ 到直线 $AB$, $AC$ 的距离相等. 由角平分线的判定, 点 $O$ 在 $\angle A$ 的平分线上, 故 $\angle 1=\angle 2$. $\blacksquare$
+(1) $\sin 45^{\circ}=\frac{\sqrt{2}}{2}$, 故原式 $=\frac{\sqrt{2}}{2}+\frac{\sqrt{2}}{2}=\sqrt{2}$.
+
+(2) 原式 $=\frac{\sqrt{2}}{2}\times\frac{1}{2}-\frac{\sqrt{2}}{2}=\frac{\sqrt{2}}{4}-\frac{\sqrt{2}}{2}=-\frac{\sqrt{2}}{4}$.
+
+(3) 原式 $=\left(\frac{\sqrt{2}}{2}\right)^{2}+\sqrt{3}\times\frac{\sqrt{3}}{2}=\frac{1}{2}+\frac{3}{2}=2$.
+
+(4) 原式 $=\frac{1-\frac{\sqrt{3}}{2}}{\frac{\sqrt{3}}{2}}+\frac{\sqrt{3}}{3}=\frac{2-\sqrt{3}}{\sqrt{3}}+\frac{\sqrt{3}}{3}=\frac{2\sqrt{3}-3}{3}+\frac{\sqrt{3}}{3}=\sqrt{3}-1$. $\blacksquare$
 
 ## 习题四
 
-(习题 14.3 复习巩固第 4 题) 如图, 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^\circ$, 在边 $AC$ 上求作一点 $P$, 使点 $P$ 到边 $BC$ 和边 $AB$ 的距离相等.
+(习题 28.1 复习巩固第 4 题) 用计算器求图中 $\angle A$ 的正弦值, 余弦值和正切值.
+
+(1) $\angle C=90^{\circ}$, $BC=1.7$, $AC=2.4$;
+
+(2) $\angle C=90^{\circ}$, $AC=2$, $BC=1.5$;
+
+(3) $\angle C=90^{\circ}$, $AB=2.6$, $AC=2.2$.
 
 ### 解答 习题四
 
-由角平分线的判定, 到 $BC$, $AB$ 距离相等的点在 $\angle B$ 的平分线上. 故作 $\angle B$ 的平分线, 它与边 $AC$ 的交点即为所求的点 $P$. $\blacksquare$
+由勾股定理求出未知边, 再用基础知识, 基础知识, 基础知识 计算.
 
-## 习题五
+(1) $AB=\sqrt{1.7^{2}+2.4^{2}}=\sqrt{2.89+5.76}=\sqrt{8.65}\approx 2.941$. 故
 
-(习题 14.3 综合运用第 5 题) 如图, 在 $\triangle ABC$ 中, $AD$ 是它的角平分线, $P$ 是 $AD$ 上一点, $PE\parallel AB$ 交 $BC$ 于点 $E$, $PF\parallel AC$ 交 $BC$ 于点 $F$. 求证点 $D$ 到 $PE$ 和 $PF$ 的距离相等.
+$$\sin A\approx\frac{1.7}{2.941}\approx 0.578,\quad \cos A\approx\frac{2.4}{2.941}\approx 0.816,\quad \tan A=\frac{1.7}{2.4}\approx 0.708.$$
 
-### 解答 习题五
+(2) $AB=\sqrt{2^{2}+1.5^{2}}=\sqrt{4+2.25}=\sqrt{6.25}=2.5$. 故
 
-由 $PE\parallel AB$, 得 $\angle EPD=\angle BAD$; 由 $PF\parallel AC$, 得 $\angle DPF=\angle CAD$. 由 $AD$ 是角平分线, $\angle BAD=\angle CAD$, 故 $\angle EPD=\angle DPF$, 即 $PD$ 平分 $\angle EPF$.
+$$\sin A=\frac{1.5}{2.5}=0.6,\quad \cos A=\frac{2}{2.5}=0.8,\quad \tan A=\frac{1.5}{2}=0.75.$$
 
-由角平分线的性质, 点 $D$ 在 $PD$ 上, 故点 $D$ 到 $PE$ 和 $PF$ 的距离相等. $\blacksquare$
+(3) $BC=\sqrt{AB^{2}-AC^{2}}=\sqrt{2.6^{2}-2.2^{2}}=\sqrt{6.76-4.84}=\sqrt{1.92}\approx 1.386$. 故
 
-## 习题六
-
-(习题 14.3 综合运用第 6 题) 如图, $OC$ 是 $\angle AOB$ 的平分线, $P$ 是 $OC$ 上的一点, $PD\perp OA$, $PE\perp OB$, 垂足分别为 $D$, $E$. $F$ 是 $OC$ 上的另一点, 连接 $DF$, $EF$. 求证 $DF=EF$.
-
-### 解答 习题六
-
-由角平分线的性质, $PD=PE$. 由 $OC$ 平分 $\angle AOB$, $PD\perp OA$, $PE\perp OB$, 可得 $\angle DPF=\angle EPF$. 在 $\triangle DPF$ 和 $\triangle EPF$ 中, $PD=PE$, $\angle DPF=\angle EPF$, $PF$ 为公共边, 由SAS, $\triangle DPF\cong\triangle EPF$.
-
-由基础知识, 对应边 $DF=EF$. $\blacksquare$
-
-## 习题七
-
-(习题 14.3 拓广探索第 7 题) 如图, $AD$ 是 $\triangle ABC$ 的角平分线, $DE\perp AB$, $DF\perp AC$, 垂足分别为 $E$, $F$, 连接 $EF$, $EF$ 与 $AD$ 相交于点 $G$. $AD$ 与 $EF$ 垂直吗? 证明你的结论.
-
-### 解答 习题七
-
-$AD\perp EF$. 证明: 由 $AD$ 是角平分线及角平分线的性质, $DE=DF$. 在 $\text{Rt}\triangle ADE$ 和 $\text{Rt}\triangle ADF$ 中, 斜边 $AD$ 为公共边, 直角边 $DE=DF$, 由HL, $\text{Rt}\triangle ADE\cong\text{Rt}\triangle ADF$, 故 $AE=AF$.
-
-于是 $\triangle AEF$ 为等腰三角形, $AG$ 为顶角 $\angle EAF$ 的平分线, 由等腰三角形 "三线合一", $AG\perp EF$, 即 $AD\perp EF$. $\blacksquare$
-
-## 习题八
-
-(习题 14.3 拓广探索第 8 题) 如图, $\angle B=\angle C=90^\circ$, $E$ 是 $BC$ 的中点, $DE$ 平分 $\angle ADC$. 求证 $AE$ 平分 $\angle DAB$. (提示: 过点 $E$ 作 $EF\perp AD$, 垂足为 $F$.)
-
-### 解答 习题八
-
-过 $E$ 作 $EF\perp AD$, 垂足为 $F$. 由 $DE$ 平分 $\angle ADC$, $EC\perp DC$, $EF\perp AD$, 由角平分线的性质, $EC=EF$.
-
-由 $E$ 是 $BC$ 中点, $EB=EC$, 故 $EB=EF$. 又 $EB\perp AB$, $EF\perp AD$, 即点 $E$ 到直线 $AB$ 与直线 $AD$ 的距离相等.
-
-由角平分线的判定, 点 $E$ 在 $\angle DAB$ 的平分线上, 故 $AE$ 平分 $\angle DAB$. $\blacksquare$
-
-## 图说数学史一
-
-(图说数学史 公理化方法) 公理化方法是从尽可能少的基本概念和不加证明的原始命题 (公理, 公设) 出发, 用严格逻辑推理推导出其余命题的方法. 欧几里得《原本》以此建立了历史上第一个数学公理化体系, 即欧氏几何. 改变平行公设可得到非欧几何 (双曲几何, 球面几何), 它们分别对应三角形内角和小于, 大于 $180^\circ$.
+$$\sin A\approx\frac{1.386}{2.6}\approx 0.533,\quad \cos A=\frac{2.2}{2.6}\approx 0.846,\quad \tan A\approx\frac{1.386}{2.2}\approx 0.630.\ \blacksquare$$

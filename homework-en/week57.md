@@ -1,217 +1,415 @@
 # week57
 
+## Review Problem 1
+
+(Review, Comprehensive Application, Problem 6) The lower base of a right trapezoid is $2\ \text{cm}$ longer than the upper base, and its height is $1\ \text{cm}$ shorter than the upper base; its area is $8\ \text{cm}^2$. Draw this trapezoid.
+
+The figure shows a right trapezoid: the upper base is short, the lower base is $2\ \text{cm}$ longer, the left leg is perpendicular to both bases (i.e. the height), and the right leg is slanted; the final dimensions are upper base $3\ \text{cm}$, lower base $5\ \text{cm}$, height $2\ \text{cm}$.
+
+### Solution to Review Problem 1
+
+Let the upper base be $x\ \text{cm}$; then the lower base is $\left(x+2\right)\ \text{cm}$ and the height is $\left(x-1\right)\ \text{cm}$. By the trapezoid area formula, set up
+
+$$
+\frac12[x+(x+2)](x-1)=8.
+$$
+
+i.e. $\left(x+1\right)\left(x-1\right)=8$, $x^2-1=8$, $x^2=9$, solving gives $x=3$ (discarding the negative root). Hence the upper base is $3\ \text{cm}$, the lower base $5\ \text{cm}$, and the height $2\ \text{cm}$; the trapezoid is as shown. $\blacksquare$
+
+## Review Problem 2
+
+(Review, Comprehensive Application, Problem 7) The length-to-width ratio of a rectangular box is $5:2$, its height is $5\ \text{cm}$, and its surface area is $40\ \text{cm}^2$. Draw the net of this box.
+
+The figure shows a plane net of a rectangular box: six rectangular faces arranged in a cross or side-by-side pattern, with final dimensions length $2.5\ \text{cm}$, width $1\ \text{cm}$, height $5\ \text{cm}$.
+
+### Solution to Review Problem 2
+
+Let the length be $5a\ \text{cm}$, the width $2a\ \text{cm}$, and the height $5\ \text{cm}$. By the rectangular-box surface-area formula, set up
+
+$$
+2\left(5a\cdot2a+5a\cdot5+2a\cdot5\right)=40.
+$$
+
+i.e. $2\left(10a^2+25a+10a\right)=40$, $20a^2+70a=40$, i.e. $2a^2+7a-4=0$; factoring gives $\left(2a-1\right)\left(a+4\right)=0$, solving gives $a=\frac12$ (discarding the negative root). Hence the length is $2.5\ \text{cm}$, the width $1\ \text{cm}$, and the height $5\ \text{cm}$; the net is as shown. $\blacksquare$
+
+## Review Problem 3
+
+(Review, Comprehensive Application, Problem 8) A basketball league is to be organized in a single round-robin format; $15$ matches are planned. How many teams should be invited?
+
+### Solution to Review Problem 3
+
+By Match-Schedule Model, $n$ teams in a single round-robin play $\frac{n\left(n-1\right)}2$ matches. Set up
+
+$$
+\frac{n\left(n-1\right)}2=15.
+$$
+
+i.e. $n\left(n-1\right)=30$, $n^2-n-30=0$, i.e. $\left(n-6\right)\left(n+5\right)=0$, solving gives $n=6$ (discarding the negative root). Hence $6$ teams should be invited. $\blacksquare$
+
+## Review Problem 4
+
+(Review, Comprehensive Application, Problem 9) As shown in the figure, alongside a wall (whose length is unlimited), how can a fence of length $20\ \text{m}$ be used to enclose a rectangular vegetable garden of area $48\ \text{m}^2$?
+
+### Solution to Review Problem 4
+
+Let the side perpendicular to the wall be $x\ \text{m}$; then the side parallel to the wall is $\left(20-2x\right)\ \text{m}$. Since the area is $48\ \text{m}^2$, set up
+
+$$
+x\left(20-2x\right)=48.
+$$
+
+Rearranging gives $x^2-10x+24=0$, i.e. $\left(x-4\right)\left(x-6\right)=0$, solving gives $x=4$ or $x=6$.
+
+When $x=4$, the side parallel to the wall is $20-8=12\ \text{m}$; when $x=6$, it is $20-12=8\ \text{m}$. Both enclose an area of $48\ \text{m}^2$ and are both valid. $\blacksquare$
+
+## Review Problem 5
+
+(Review, Comprehensive Application, Problem 10) A bank, through two interest-rate cuts, lowered the annual interest rate on one-year deposits from $1.75\%$ to $1.50\%$. What was the average percentage rate cut each time (write the result in the form $a\%$, with $a$ rounded to two decimal places)?
+
+### Solution to Review Problem 5
+
+Let the average percentage rate cut each time be $x$; after two cuts the annual rate is $1.75\%\left(1-x\right)^2$. Set up
+
+$$
+1.75\%\left(1-x\right)^2=1.50\%.
+$$
+
+Hence $\left(1-x\right)^2=\frac{1.50}{1.75}=\frac67\approx0.8571$; since the cut rate is positive and $x< 1$, $1-x=\sqrt{0.8571}\approx0.9258$, hence
+
+$$
+x\approx0.0742=7.42\%.
+$$
+
+i.e. the average rate cut each time is about $7.42\%$. $\blacksquare$
+
+## Review Problem 6
+
+(Review, Comprehensive Application, Problem 11) In Lushui Village, the per-capita income in year $2020$ was $18000$ yuan and in year $2022$ was $21000$ yuan. Find the average annual growth rate of per-capita income (write the result in the form $a\%$, with $a$ rounded to two decimal places).
+
+### Solution to Review Problem 6
+
+Let the average annual growth rate be $x$; after two years the per-capita income is $18000\left(1+x\right)^2$. Set up
+
+$$
+18000\left(1+x\right)^2=21000.
+$$
+
+Hence $\left(1+x\right)^2=\frac{21000}{18000}=\frac76\approx1.1667$; since the growth rate is positive, $1+x=\sqrt{1.1667}\approx1.0801$, hence
+
+$$
+x\approx0.0801=8.01\%.
+$$
+
+i.e. the average annual growth rate of per-capita income is about $8.01\%$. $\blacksquare$
+
+## Review Problem 7
+
+(Review, Extension and Exploration, Problem 12) The figure on the right illustrates the "gui pile" in the pile-of-sheaves problems studied by the Southern Song mathematician Yang Hui. The problem reads: there is a gui-pile heap, with one bundle at the top and eight bundles across the base.
+
+(1) Can you solve this problem?
+
+(2) If this "gui pile" is continued further, i.e. the $n$th row has $n$ bundles, can you find how many rows from the top sum to $300$ bundles? (Hint: $1+2+3+\cdots+n=\frac{n\left(n+1\right)}2$.)
+
+### Solution to Review Problem 7
+
+The numbers of bundles in the gui pile, from top to bottom, are $1,2,3,\cdots,8$.
+
+(1) The total number of bundles is $1+2+3+\cdots+8=\frac{8\times9}2=36$ bundles.
+
+(2) Let the sum of the first $n$ rows be $300$; by the hint,
+
+$$
+\frac{n\left(n+1\right)}2=300.
+$$
+
+i.e. $n\left(n+1\right)=600$, $n^2+n-600=0$; by the quadratic formula, $n=\frac{-1\pm\sqrt{1+2400}}2=\frac{-1\pm49}2$, taking the positive root $n=24$. Hence the sum of the first $24$ rows is $300$ bundles. $\blacksquare$
+
+## Review Problem 8
+
+(Review, Extension and Exploration, Problem 13) A ball starts rolling forward at $5\ \text{m/s}$ and decelerates uniformly, coming to rest after $4\ \text{s}$.
+
+(1) On average, by how much does the ball's rolling speed decrease per second?
+
+(2) How many seconds does the ball take to roll $5\ \text{m}$ (rounded to one decimal place)?
+
+(Hint: in uniformly accelerated linear motion, the average velocity over each time interval (the arithmetic mean of the initial and final velocities) relates to the distance $l$ and time $t$ by $l=$ average velocity $\times t$.)
+
+### Solution to Review Problem 8
+
+(1) The ball's initial velocity is $5\ \text{m/s}$; after $4\ \text{s}$ the velocity drops to $0$, hence the average decrease per second is
+
+$$
+\frac{5-0}{4}=1.25\ \text{m/s}.
+$$
+
+(2) Let the velocity after rolling $t\ \text{s}$ be $5-1.25t\ \left(\text{m/s}\right)$. The average velocity over this interval is $\frac{5+\left(5-1.25t\right)}2$; by the hint, the distance is
+
+$$
+l=\frac{5+\left(5-1.25t\right)}2\cdot t=\left(5-\frac{1.25}2 t\right)t=5t-0.625t^2.
+$$
+
+Setting $l=5$ gives $5t-0.625t^2=5$, i.e. $t^2-8t+8=0$, solving gives $t=\frac{8\pm\sqrt{32}}2=4\pm2\sqrt2$. Since $t< 4$, take $t=4-2\sqrt2\approx1.2$. Hence the ball takes about $1.2\ \text{s}$ to roll $5\ \text{m}$. $\blacksquare$
+
 ## Exercise 1
 
-(Exercise 12.2, Problem 1) Each seventh-grade student joins exactly one club. A survey finds: the literature club accounts for $40\%$, the dance club $20\%$, the art club $10\%$, and the rest join the basketball club. It is known that $20$ students join the art club.
+(Exercise 26.1, Problem 1) Write out the quadratic coefficient, linear coefficient, and constant term of the following quadratic functions:
 
-(1) How many students are there in the seventh grade in total?
+(1) $y=8x^2-16x+8$;
 
-(2) How many students join the basketball club?
+(2) $y=x^2$;
 
-(3) What percentage of the whole grade joins the art club?
+(3) $y=-x^2+5$;
+
+(4) $y=2\left(x-1\right)^2-5$.
 
 ### Solution to Exercise 1
 
-(1) Since the art club's $20$ students account for $10\%$, the whole grade has $\frac{20}{10\%}=200$ students.
+By Quadratic Function, put each expression in the form $y=ax^2+bx+c$, then read off the coefficients.
 
-(2) The basketball club accounts for $1-40\%-20\%-10\%=30\%$, with $200\times30\%=60$ students.
+(1) $a=8$, $b=-16$, $c=8$.
 
-(3) The art club accounts for $10\%$. $\blacksquare$
+(2) $y=x^2$ is $y=x^2+0x+0$, hence $a=1$, $b=0$, $c=0$.
+
+(3) $y=-x^2+5$ is $y=-x^2+0x+5$, hence $a=-1$, $b=0$, $c=5$.
+
+(4) Expanding, $y=2\left(x^2-2x+1\right)-5=2x^2-4x-3$, hence $a=2$, $b=-4$, $c=-3$. $\blacksquare$
 
 ## Exercise 2
 
-(Exercise 12.2, Problem 2) Students of a school come from three villages, Qingshan, Lvshui and Xiangyang, in the ratio $1:2:2$.
-
-(1) If Qingshan village has $20$ students, how many students are there in the whole school?
-
-(2) Use a pie chart to show the percentages of students from the three villages.
+(Exercise 26.1, Problem 2) As shown in the figure, each side of a rectangular green area is increased by $x\ \text{m}$, and the expanded area is $y\ \text{m}^2$. The original green area is $30\ \text{m}$ long and $20\ \text{m}$ wide; write the function expression for $y$ in terms of $x$.
 
 ### Solution to Exercise 2
 
-(1) The total number of parts is $1+2+2=5$; Qingshan accounts for $\frac{1}{5}$, so the whole school has $20\div\frac{1}{5}=100$ students.
+After expansion, the green area is $\left(30+x\right)\ \text{m}$ long and $\left(20+x\right)\ \text{m}$ wide. By the rectangle area formula,
 
-(2) Qingshan $\frac{1}{5}=20\%$, central angle $72^\circ$; Lvshui $\frac{2}{5}=40\%$, central angle $144^\circ$; Xiangyang $40\%$, central angle $144^\circ$. $\blacksquare$
+$$
+y=\left(30+x\right)\left(20+x\right)=x^2+50x+600.
+$$
+
+Hence $y=x^2+50x+600$ (with $x\ge0$). $\blacksquare$
 
 ## Exercise 3
 
-(Exercise 12.2, Problem 3) Zhang Hua's family budget for next month: food $2100$ yuan, housing loan $1750$ yuan, education $1100$ yuan, transportation $550$ yuan, clothing $350$ yuan, medical care $500$ yuan, living goods and utilities $350$ yuan, other $300$ yuan. Choose an appropriate statistical chart to describe the percentage that each item occupies of the total budget.
+(Exercise 26.1, Problem 3) Pose a problem in which the relation between the variables can be represented by a quadratic function.
 
 ### Solution to Exercise 3
 
-The total budget is $2100+1750+1100+550+350+500+350+300=7000$ yuan. Use a pie chart. The percentages of each item: food $30\%$, housing loan $25\%$, education $15.7\%$, transportation $7.9\%$, clothing $5\%$, medical care $7.1\%$, living goods $5\%$, other $4.3\%$. $\blacksquare$
+For example: a square has side length $x$; write the function expression for its area $S$ in terms of the side length $x$.
 
-## Exercise 4
-
-(Exercise 12.2, Problem 4) China's total goods exports (hundred million yuan) from 2013 to 2022 were $137131,143884,141167,138419,153309,164129,172374,179279,214255,237412$; the total imports were $121038,120358,104336,104967,124790,140881,143254,142936,173159,180600$. Choose an appropriate statistical chart to describe and compare them.
-
-The figure is a compound line chart with years (2013–2022) on the horizontal axis and total import/export value of goods (100 million yuan) on the vertical axis; two lines respectively show total exports and total imports.
-
-### Solution to Exercise 4
-
-By Line Chart, draw a composite line chart as shown. Except for a slight dip from 2014 to 2016, both exports and imports overall grow year by year, and the total exports exceed the total imports every year. $\blacksquare$
-
-## Exercise 5
-
-(Exercise 12.2, Problem 5) The heights (cm) of 63 seventh-grade students: maximum $172$, minimum $149$, range $23$. Take a class width of $3$ and divide into $8$ groups: $149\le x< 152$, $152\le x< 155$, $\ldots$, $170\le x< 173$. The frequencies of the groups are $2,6,12,19,10,8,4,2$. Draw a frequency distribution histogram and state from which range to select the honor guard members.
-
-The figure is a frequency distribution histogram with height groups ($149\le x< 152$ through $170\le x< 173$, class width $3\,\text{cm}$) on the horizontal axis and frequency on the vertical axis; the group frequencies are respectively $2, 6, 12, 19, 10, 8, 4, 2$.
-
-### Solution to Exercise 5
-
-By Frequency Distribution Histogram, the histogram is as shown. The three groups $155\le x< 158$, $158\le x< 161$, $161\le x< 164$ have the most students, totaling $12+19+10=41$. Hence $40$ honor guard members may be selected from the height range $155\ \text{cm}$ to $164\ \text{cm}$ (excluding $164$). $\blacksquare$
-
-## Exercise 6
-
-(Exercise 12.2, Problem 6) For a drink shop, the data of the number of cold-drink cups sold in a day versus the day's highest temperature ($^\circ\text{C}$) are: temperature $12,13,17,19,20,22,24,25,28$; cups $50,69,74,90,108,97,119,125,154$. Use a trend chart to describe the relationship and estimate the number of cups sold at a temperature of $30^\circ\text{C}$.
-
-The figure is a trend chart with maximum temperature ($^\circ\text{C}$) on the horizontal axis and number of cold drinks sold on the vertical axis; scatter points are plotted with a trend line drawn through them.
-
-### Solution to Exercise 6
-
-By Trend Chart, plot the scatter points and draw the trend line as shown. The scatter points show an upward trend; the number of cups increases as the temperature rises. Extrapolating from the trend line, at a temperature of $30^\circ\text{C}$ about $155$ cups are sold. $\blacksquare$
-
-## Exercise 7
-
-(Exercise 12.2, Problem 7) The heights (cm) of 8 boys and their fathers: fathers $165,168,172,174,177,177,180,183$; sons $168,169,174,177,176,178,181,182$. Use a trend chart to describe the relationship between the son's height and the father's height, and estimate the son's height when the father is $175\ \text{cm}$ tall.
-
-### Solution to Exercise 7
-
-Take the father's height as the horizontal axis and the son's height as the vertical axis, plot the scatter points and draw the trend line. The points lie roughly near an upward-sloping line, indicating that the taller the father, the taller the son. From the trend line, when the father is $175\ \text{cm}$ tall, the son is about $176\ \text{cm}$ tall. $\blacksquare$
+By the square area formula, $S=x^2$, which is a quadratic function (with $a=1$, $b=0$, $c=0$). $\blacksquare$
 
 ## Problem 1
 
-(Exercise 12.2, Review and Consolidation, Problem 1) A sample survey of $150$ students' favorite extracurricular reading: literature $50$ people, art $35$ people, popular science $28$ people, other $37$ people.
-
-(1) Draw a pie chart to show the percentage of each category;
-
-(2) The school plans to buy $4500$ books; estimate how many popular-science books should be bought?
+(Exercise 26.1, Review and Consolidation, Problem 1) A store's sales in January are $50$ ten-thousand yuan, and the average monthly growth rate of sales in February and March is $x$; write the function expression for March sales (in ten-thousand yuan) in terms of $x$.
 
 ### Solution to Problem 1
 
-(1) Literature $\frac{50}{150}=33.3\%$, art $23.3\%$, popular science $18.7\%$, other $24.7\%$.
+January sales are $50$ ten-thousand yuan. February sales are $50\left(1+x\right)$ ten-thousand yuan, and March sales grow again on the February basis, giving
 
-(2) The number of popular-science books to buy is $4500\times\frac{28}{150}=840$. $\blacksquare$
+$$
+y=50\left(1+x\right)^2.
+$$
+
+Expanding gives $y=50x^2+100x+50$. Hence the function expression for March sales in terms of $x$ is $y=50\left(1+x\right)^2$. $\blacksquare$
 
 ## Problem 2
 
-(Exercise 12.2, Review and Consolidation, Problem 2) A line chart of the temperature in a place over a day: the temperature is lowest at $4:00$, namely $18^\circ\text{C}$, and highest at $14:00$, namely $32^\circ\text{C}$.
-
-(1) What is the highest temperature and at what time?
-
-(2) What is the lowest temperature and at what time?
-
-(3) Estimate the temperature at $7$ o'clock, $11$ o'clock, $15$ o'clock and $19$ o'clock.
-
-(4) Describe the temperature change.
+(Exercise 26.1, Review and Consolidation, Problem 2) Let the annual interest rate on a one-year fixed deposit in RMB be $x$; after one year, the bank automatically rolls the principal and interest over into another one-year fixed deposit. If the principal is $30000$ yuan, write the function expression for the sum of principal and interest $y$ after two years (in yuan) in terms of the annual rate $x$.
 
 ### Solution to Problem 2
 
-(1) The highest is $32^\circ\text{C}$, at $14:00$.
+After one year the sum of principal and interest is $30000\left(1+x\right)$ yuan; after rolling over for another year, the two-year sum is
 
-(2) The lowest is $18^\circ\text{C}$, at $4:00$.
+$$
+y=30000\left(1+x\right)^2.
+$$
 
-(3) About $22^\circ\text{C}$ at $7$ o'clock, $29^\circ\text{C}$ at $11$ o'clock, $31^\circ\text{C}$ at $15$ o'clock, $27^\circ\text{C}$ at $19$ o'clock.
-
-(4) The temperature is low in the early morning, rises gradually after $4$ o'clock, reaches the maximum at $14$ o'clock, and then falls gradually. $\blacksquare$
+Hence $y=30000\left(1+x\right)^2$. $\blacksquare$
 
 ## Problem 3
 
-(Exercise 12.2, Review and Consolidation, Problem 3) China's automobile sales (ten thousand vehicles) from 2016 to 2022 were $2802.8,2887.9,2808.1,2576.9,2531.1,2627.5,2686.4$; new-energy vehicle sales were $50.7,77.7,125.6,120.6,136.7,352.1,688.7$. Choose an appropriate statistical chart to describe the changes and the trend of the new-energy proportion.
+(Exercise 26.1, Comprehensive Application, Problem 3) As shown in the figure, a circular mirror is surrounded by a frame of width $5\ \text{cm}$. Given that the mirror surface costs $180$ yuan per square meter and the frame costs $100$ yuan per square meter, find the function expression for the price $y$ (in yuan) of the mirror in terms of the mirror radius $r$ (in $\text{m}$).
 
 ### Solution to Problem 3
 
-Use a composite line chart to describe total automobile sales and new-energy sales, then a line chart to describe the new-energy proportion $\frac{\text{新能源}}{\text{总销量}}$: about $1.8\%,2.7\%,4.5\%,4.7\%,5.4\%,13.4\%,25.6\%$. It can be seen that the proportion of new-energy vehicle sales has risen rapidly since 2020. $\blacksquare$
+The frame width is $5\ \text{cm}=0.05\ \text{m}$; hence the mirror radius is $r\ \text{m}$, and the outer radius including the frame is $\left(r+0.05\right)\ \text{m}$.
+
+The mirror surface area is $\pi r^2$, costing $180\pi r^2$ yuan. The frame area is $\pi\left(r+0.05\right)^2-\pi r^2$, costing $100\left[\pi\left(r+0.05\right)^2-\pi r^2\right]$ yuan. Hence the total price is
+
+$$
+y=180\pi r^2+100\pi\left[\left(r+0.05\right)^2-r^2\right].
+$$
+
+Expanding gives $y=180\pi r^2+100\pi\left(0.1r+0.0025\right)=180\pi r^2+10\pi r+0.25\pi$. $\blacksquare$
 
 ## Problem 4
 
-(Exercise 12.2, Review and Consolidation, Problem 4) Frequency table of the number of jump-rope skips in $60$ seconds for the whole class: $60\le x< 80$ frequency $3$; $80\le x< 100$ frequency $4$; $100\le x< 120$ frequency $17$; $120\le x< 140$ frequency $9$; $140\le x< 160$ frequency $8$; $160\le x< 180$ frequency $6$; $180\le x< 200$ frequency $1$.
+(Exercise 26.1, Extension and Exploration, Problem 4) As shown in the figure, a steel ball starts from rest at the top of an inclined plane and rolls down it; its speed increases by $1.5\ \text{m/s}$ each second.
 
-(1) How many students are in the class?
+(1) Write the function expression for the distance $l$ rolled by the ball (in $\text{m}$) in terms of rolling time $t$ (in $\text{s}$). (Hint: distance $=$ average velocity $\times$ time.)
 
-(2) What are the class width and the number of classes?
-
-(3) How many students are in the range $120\le x< 160$? What percentage?
-
-(4) Draw the histogram.
-
-(5) Evaluate the jump-rope performance.
+(2) If the inclined plane is $3\ \text{m}$ long, how long does the ball take to roll from the top to the bottom?
 
 ### Solution to Problem 4
 
-(1) The total number is $3+4+17+9+8+6+1=48$.
+(1) The ball starts from rest; at $t\ \text{s}$ its velocity is $1.5t\ \text{m/s}$, and the average velocity over this interval is $\frac{0+1.5t}2=0.75t$, hence
 
-(2) Class width $20$, number of classes $7$.
+$$
+l=0.75t\cdot t=0.75t^2.
+$$
 
-(3) $9+8=17$ students, accounting for $\frac{17}{48}\approx35.4\%$.
+(2) The plane is $3\ \text{m}$ long; setting $l=3$ gives $0.75t^2=3$, i.e. $t^2=4$, taking the positive root $t=2$. Hence it takes $2\ \text{s}$ to roll to the bottom. $\blacksquare$
 
-(4) The histogram uses $60,80,\ldots,200$ as the horizontal grouping points and the vertical axis as frequency.
+## Exercise 4
 
-(5) Most students have between $100\sim140$ skips, medium performance; a few exceed $180$ skips. $\blacksquare$
+(Exercise 26.2, Problem 1) In the same rectangular coordinate system, draw the graphs of the following quadratic functions:
+
+(1) $y=3x^2$;
+
+(2) $y=-3x^2$.
+
+The figure shows two parabolas in one plane rectangular coordinate system: $y=3x^2$ (opening upward, vertex at the origin, narrower) and $y=-3x^2$ (opening downward, vertex at the origin, the two symmetric about the $x$-axis).
+
+### Solution to Exercise 4
+
+By The Parabola $y=ax^2$, both parabolas have the $y$-axis as their axis of symmetry and the origin as vertex. (1) $a=3> 0$, opens upward; (2) $a=-3< 0$, opens downward; the two are symmetric about the $x$-axis, and the graphs are as shown. $\blacksquare$
+
+## Exercise 5
+
+(Exercise 26.2, Problem 2) State the opening direction, axis of symmetry, and vertex of the following parabolas, and how $y$ changes as $x$ increases:
+
+(1) $y=4x^2$;
+
+(2) $y=-4x^2$.
+
+### Solution to Exercise 5
+
+By The Parabola $y=ax^2$.
+
+(1) $a=4> 0$, opens upward; axis of symmetry is the $y$-axis; vertex is the origin $\left(0,0\right)$, the lowest point. For $x< 0$, $y$ decreases as $x$ increases; for $x> 0$, $y$ increases as $x$ increases.
+
+(2) $a=-4< 0$, opens downward; axis of symmetry is the $y$-axis; vertex is the origin $\left(0,0\right)$, the highest point. For $x< 0$, $y$ increases as $x$ increases; for $x> 0$, $y$ decreases as $x$ increases. $\blacksquare$
+
+## Exercise 6
+
+(Exercise 26.2, Problem 3) In the same rectangular coordinate system, draw the graphs of $y=x^2$, $y=x^2+1$, and $y=x^2-1$. State the positional relation among the three parabolas, and give their opening direction, axis of symmetry, and vertex respectively.
+
+The figure shows three parabolas of the same shape, all opening upward with the $y$-axis as axis of symmetry: $y=x^2$ with vertex at $\left(0,0\right)$, $y=x^2+1$ with vertex at $\left(0,1\right)$ (shifted up 1 unit), and $y=x^2-1$ with vertex at $\left(0,-1\right)$ (shifted down 1 unit).
+
+### Solution to Exercise 6
+
+By Translation, $y=x^2+1$ is obtained by translating $y=x^2$ up $1$ unit, and $y=x^2-1$ by translating $y=x^2$ down $1$ unit; the three parabolas have the same shape and differ only in vertical position. All three have $a=1> 0$, open upward, and share the $y$-axis as their axis of symmetry; their vertices are $\left(0,0\right)$, $\left(0,1\right)$, and $\left(0,-1\right)$ respectively. $\blacksquare$
+
+## Exercise 7
+
+(Exercise 26.2, Problem 4) In the same rectangular coordinate system, draw the graphs of $y=-x^2$, $y=-\left(x+2\right)^2$, and $y=-\left(x-2\right)^2$. State the positional relation among the three parabolas, and give their opening direction, axis of symmetry, and vertex respectively.
+
+The figure shows three parabolas of the same shape, all opening downward: $y=-x^2$ with vertex at $\left(0,0\right)$ and axis $x=0$, $y=-\left(x+2\right)^2$ with vertex at $\left(-2,0\right)$ and axis $x=-2$ (shifted left 2 units), and $y=-\left(x-2\right)^2$ with vertex at $\left(2,0\right)$ and axis $x=2$ (shifted right 2 units).
+
+### Solution to Exercise 7
+
+By Translation, $y=-\left(x+2\right)^2$ is obtained by translating $y=-x^2$ left $2$ units, and $y=-\left(x-2\right)^2$ by translating $y=-x^2$ right $2$ units. All three have $a=-1< 0$ and open downward; their axes of symmetry are $x=0$, $x=-2$, and $x=2$ respectively; their vertices are $\left(0,0\right)$, $\left(-2,0\right)$, and $\left(2,0\right)$ respectively. $\blacksquare$
+
+## Exercise 8
+
+(Exercise 26.2, Problem 5, Part (1)) State the opening direction, axis of symmetry, and vertex of the following parabolas, and how $y$ changes as $x$ increases:
+
+(1) $y=2\left(x+3\right)^2+5$;
+
+(2) $y=-3\left(x-1\right)^2-2$;
+
+(3) $y=4\left(x-3\right)^2+7$;
+
+(4) $y=-5\left(x+2\right)^2-6$.
+
+### Solution to Exercise 8
+
+By The Parabola $y=a\left(x-h\right^2+k$), read off the axis of symmetry $x=h$ and vertex $\left(h,k\right)$ from $h,k$.
+
+(1) $a=2> 0$, opens upward; axis of symmetry $x=-3$; vertex $\left(-3,5\right)$, the lowest point. For $x< -3$, $y$ decreases as $x$ increases; for $x> -3$, $y$ increases as $x$ increases.
+
+(2) $a=-3< 0$, opens downward; axis of symmetry $x=1$; vertex $\left(1,-2\right)$, the highest point. For $x< 1$, $y$ increases as $x$ increases; for $x> 1$, $y$ decreases as $x$ increases.
+
+(3) $a=4> 0$, opens upward; axis of symmetry $x=3$; vertex $\left(3,7\right)$, the lowest point. For $x< 3$, $y$ decreases as $x$ increases; for $x> 3$, $y$ increases as $x$ increases.
+
+(4) $a=-5< 0$, opens downward; axis of symmetry $x=-2$; vertex $\left(-2,-6\right)$, the highest point. For $x< -2$, $y$ increases as $x$ increases; for $x> -2$, $y$ decreases as $x$ increases. $\blacksquare$
+
+## Exercise 9
+
+(Exercise 26.2, Problem 5, Part (2)) State the maximum or minimum value of the following quadratic functions:
+
+(1) $y=2\left(x-3\right)^2+5$;
+
+(2) $y=-\left(x+2\right)^2-2$.
+
+### Solution to Exercise 9
+
+By The Parabola $y=a\left(x-h\right^2+k$).
+
+(1) $a=2> 0$, opens upward; when $x=3$, $y$ takes its minimum $5$, with no maximum.
+
+(2) $a=-1< 0$, opens downward; when $x=-2$, $y$ takes its maximum $-2$, with no minimum. $\blacksquare$
+
+## Exercise 10
+
+(Exercise 26.2, Problem 6) First determine the opening direction, axis of symmetry, and vertex of the following parabolas, state how $y$ changes as $x$ increases, then plot points and draw the graphs:
+
+(1) $y=-3x^2+12x-3$;
+
+(2) $y=4x^2-24x+26$;
+
+(3) $y=2x^2+8x-6$;
+
+(4) $y=\frac12x^2-2x-1$.
+
+The figure shows four side-by-side coordinate systems, each with one parabola: (1) $y=-3x^2+12x-3$, opening downward, vertex $\left(2,9\right)$; (2) $y=4x^2-24x+26$, opening upward, vertex $\left(3,-10\right)$; (3) $y=2x^2+8x-6$, opening upward, vertex $\left(-2,-14\right)$; (4) $y=\frac12x^2-2x-1$, opening upward, vertex $\left(2,-3\right)$.
+
+### Solution to Exercise 10
+
+By The Parabola $y=ax^2+bx+c$, the axis of symmetry is $x=-\frac b{2a}$ and the vertex's vertical coordinate is $\frac{4ac-b^2}{4a}$.
+
+(1) $a=-3$, $b=12$, $c=-3$. Axis of symmetry $x=-\frac{12}{2\left(-3\right)}=2$; vertex's vertical coordinate $\frac{4\left(-3\right)\left(-3\right)-144}{4\left(-3\right)}=\frac{36-144}{-12}=9$. Opens downward, vertex $\left(2,9\right)$; for $x< 2$, $y$ increases as $x$ increases, and for $x> 2$ it decreases.
+
+(2) $a=4$, $b=-24$, $c=26$. Axis of symmetry $x=\frac{24}{8}=3$; vertex's vertical coordinate $\frac{4\cdot4\cdot26-576}{16}=\frac{416-576}{16}=-10$. Opens upward, vertex $\left(3,-10\right)$.
+
+(3) $a=2$, $b=8$, $c=-6$. Axis of symmetry $x=-\frac84=-2$; vertex's vertical coordinate $\frac{4\cdot2\left(-6\right)-64}{8}=\frac{-48-64}{8}=-14$. Opens upward, vertex $\left(-2,-14\right)$.
+
+(4) $a=\frac12$, $b=-2$, $c=-1$. Axis of symmetry $x=\frac{2}{1}=2$; vertex's vertical coordinate $\frac{4\cdot\frac12\cdot\left(-1\right)-4}{2}=\frac{-2-4}{2}=-3$. Opens upward, vertex $\left(2,-3\right)$.
+
+The graphs are as shown. $\blacksquare$
+
+## Exercise 11
+
+(Exercise 26.2, Problem 7) Find the maximum or minimum value of the following functions:
+
+(1) $y=3x^2+2x$;
+
+(2) $y=-2x^2+8x-8$.
+
+### Solution to Exercise 11
+
+By Basic Knowledge, the extremum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac b{2a}$.
+
+(1) $a=3> 0$; when $x=-\frac{2}{6}=-\frac13$, the minimum $\frac{0-4}{12}=-\frac13$ is taken.
+
+(2) $a=-2< 0$; when $x=-\frac{8}{2\left(-2\right)}=2$, the maximum $\frac{4\left(-2\right)\left(-8\right)-64}{-8}=\frac{64-64}{-8}=0$ is taken. $\blacksquare$
 
 ## Problem 5
 
-(Exercise 12.2, Comprehensive Application, Problem 5) Five years ago, the income proportions of Lvshui village were: planting $38\%$, breeding $24\%$, tertiary industry $30\%$, other $8\%$; now: planting $11\%$, breeding $27\%$, tertiary industry $56\%$, other $6\%$.
+(Exercise 26.2, Review and Consolidation, Problem 1) In the same rectangular coordinate system, draw the graphs of the following quadratic functions and state their opening direction, axis of symmetry, and vertex:
 
-(1) Which items' income proportions increased and which decreased?
+(1) $y=5x^2$;
 
-(2) Following the current trend, which industry may become the pillar industry?
+(2) $y=-\frac15x^2$.
+
+The figure shows two parabolas in one plane rectangular coordinate system, both with the $y$-axis as axis of symmetry and the origin as vertex: $y=5x^2$ opening upward and narrow, and $y=-\frac15x^2$ opening downward and wide.
 
 ### Solution to Problem 5
 
-(1) Planting $11\%-38\%=-27\%$, decreased; breeding $27\%-24\%=+3\%$, increased; tertiary industry $56\%-30\%=+26\%$, increased; other $6\%-8\%=-2\%$, decreased.
+By The Parabola $y=ax^2$, both have the $y$-axis as their axis of symmetry and the origin as vertex.
 
-(2) The tertiary industry already accounts for $56\%$ and grows fastest, so it may become the pillar industry. $\blacksquare$
+(1) $a=5> 0$, opens upward; $\left|a\right|$ is larger, so the opening is narrower.
 
-## Problem 6
+(2) $a=-\frac15< 0$, opens downward; $\left|a\right|$ is smaller, so the opening is wider.
 
-(Exercise 12.2, Comprehensive Application, Problem 6) Province A has $150$ ten-thousand urban junior-high students and $13$ ten-thousand rural ones; Province B has $211$ ten-thousand urban and $40$ ten-thousand rural. Two kinds of composite bar charts.
-
-(1) Which chart better reflects the total number of junior-high students in the two provinces?
-
-(2) Which chart better compares the urban and rural numbers within Province A (or B)?
-
-### Solution to Problem 6
-
-(1) A stacked composite bar chart directly shows the totals of the two provinces, making it easier to compare totals.
-
-(2) A side-by-side composite bar chart shows the urban and rural numbers within a province side by side, making it easier to compare. $\blacksquare$
-
-## Problem 7
-
-(Exercise 12.2, Comprehensive Application, Problem 7) A flour wholesaler's $48$ weeks of sales (t): from $18.5$ to $24.4$. Group appropriately and draw a frequency distribution histogram, and analyze how many tons to buy each week.
-
-### Solution to Problem 7
-
-The range is $24.4-18.5=5.9$; take a class width of $0.5$ and divide into about $12$ groups. Most weeks' sales fall between $20.0\sim23.0\ \text{t}$. Hence buying about $21\sim22\ \text{t}$ of flour each week is appropriate, meeting demand without causing backlog. $\blacksquare$
-
-## Problem 8
-
-(Exercise 12.2, Comprehensive Application, Problem 8) China's GDP (hundred million yuan) from 2013 to 2022 was $592963,643563,688858,746395,832036,919281,986515,1013567,1149237,1210207$. Use a trend chart to describe and predict the 2023 GDP.
-
-### Solution to Problem 8
-
-Take the year as the horizontal axis and GDP as the vertical axis; plot the points and draw the trend line. The overall trend is upward; extrapolating from the trend line, the 2023 GDP is about $128$ trillion yuan. $\blacksquare$
-
-## Problem 9
-
-(Exercise 12.2, Extension and Exploration, Problem 9) The export value of high-tech products (hundred million US dollars) every five years from 1995 to 2020 was $101,370,2182,4924,6552,7763$; the percentage of total goods exports was $6.8\%,14.8\%,28.6\%,31.2\%,28.8\%,30.0\%$. Draw a statistical chart to show the development trend.
-
-### Solution to Problem 9
-
-Use a composite line chart: one line shows the export value, with a rapidly rising trend; the other shows the proportion, which rose from 1995 to 2010 and then stabilized around $30\%$. $\blacksquare$
-
-## Problem 10
-
-(Exercise 12.2, Extension and Exploration, Problem 10) China's urban green-space area by region in 2022 ($\text{hm}^2$): Guangdong $539604$, Jiangsu $319725$, Shandong $280650$, ... Tibet $6858$. Analyze the distribution.
-
-### Solution to Problem 10
-
-Group by area: eastern coastal provinces such as Guangdong, Jiangsu and Shandong have large green-space areas, while western provinces such as Tibet, Qinghai and Ningxia have small ones; the distribution is uneven. $\blacksquare$
-
-## Information Technology Application 1
-
-(Information Technology Application: Drawing Statistical Charts with IT Tools) Use a spreadsheet or GeoGebra to draw a frequency distribution histogram of the height data in this section ($149$ to $173$ cm), set the class-width slider to $2,3,4$ respectively, and observe the changes in the histogram shape.
-
-### Solution to Information Technology Application 1
-
-Enter the $63$ height data into a list, set the starting point at $149$ and the class width $d$. When $d=3$ there are $8$ groups, and the histogram is high in the middle and low on both sides; when $d=2$ the number of groups increases and the fluctuation grows; when $d=4$ the number of groups decreases and the shape becomes flatter. It can be seen that the choice of class width affects the histogram shape, and it must be chosen according to the problem. $\blacksquare$
+The graphs are as shown. $\blacksquare$

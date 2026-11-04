@@ -2,328 +2,322 @@
 
 ## Exercise 1
 
-(Exercise 7.2, Problem 1) As shown in the figure, use a straightedge and a set square to draw parallel lines:
-
-(1) Through point $A$ draw $MN\parallel BC$;
-
-(2) Through point $C$ draw $CE\parallel DA$, intersecting $AB$ at point $E$; through point $C$ draw $CF\parallel DB$, intersecting the extension of $AB$ at point $F$.
+(Exercise 14.2, Problem 2) As shown, points $E$, $F$ lie on $BC$, $BE=CF$, $AB=DC$, $\angle B=\angle C$. Prove that $\angle A=\angle D$.
 
 ### Solution to Exercise 1
 
-By Parallel Axiom, through a point outside a line there is exactly one line parallel to the given line.
+From $BE=CF$, we get $BE+EF=CF+EF$, i.e. $BF=CE$. In $\triangle ABF$ and $\triangle DCE$, $AB=DC$, $\angle B=\angle C$, $BF=CE$; by SAS, $\triangle ABF\cong\triangle DCE$.
 
-(1) Align one edge of the set square with $BC$, press the straightedge against the other edge of the set square, slide the set square along the straightedge until the edge aligned with $BC$ passes through point $A$, and draw the line $MN$ along that edge; then $MN\parallel BC$.
-
-(2) In the same way: through point $C$ draw $CE\parallel DA$ meeting $AB$ at $E$, and through point $C$ draw $CF\parallel DB$ meeting the extension of $AB$ at $F$. $\blacksquare$
+By Properties of Congruent Triangles, the corresponding angles satisfy $\angle A=\angle D$. $\blacksquare$
 
 ## Exercise 2
 
-(Exercise 7.2, Problem 1) As shown in the figure, $E$ is a point on $AB$, $F$ is a point on $DC$, and $G$ is a point on the extension of $BC$.
-
-(1) If $\angle B=\angle DCG$, which two lines can be judged to be parallel? Why?
-
-(2) If $\angle D=\angle DCG$, which two lines can be judged to be parallel? Why?
-
-(3) If $\angle D+\angle DFE=180^\circ$, which two lines can be judged to be parallel? Why?
+(Exercise 14.2, Problem 1) As shown, $AB\perp BC$, $AD\perp DC$, with feet at $B$, $D$ respectively, and $\angle 1=\angle 2$. Prove that $AB=AD$.
 
 ### Solution to Exercise 2
 
-Using Criterion 1, Criterion 2, and Criterion 3, judge according to whether the two angles are corresponding angles, alternate interior angles, or consecutive interior angles.
+From $AB\perp BC$, $AD\perp DC$, we get $\angle B=\angle D=90^\circ$. In $\triangle ABC$ and $\triangle ADC$, $\angle 1=\angle 2$, $\angle B=\angle D$, and $AC$ is a common side; by AAS, $\triangle ABC\cong\triangle ADC$.
 
-(1) $\angle B$ and $\angle DCG$ are the corresponding angles formed when lines $AB$, $DC$ are cut by line $BG$. Since $\angle B=\angle DCG$, by equal corresponding angles implying parallel lines, we get $AB\parallel DC$.
-
-(2) $\angle D$ and $\angle DCG$ are the alternate interior angles formed when lines $AD$, $BG$ are cut by line $DC$. Since $\angle D=\angle DCG$, by equal alternate interior angles implying parallel lines, we get $AD\parallel BG$ (i.e. $AD\parallel BC$).
-
-(3) $\angle D$ and $\angle DFE$ are the consecutive interior angles formed when lines $AD$, $EF$ are cut by line $DC$. Since $\angle D+\angle DFE=180^\circ$, by supplementary consecutive interior angles implying parallel lines, we get $AD\parallel EF$. $\blacksquare$
+By Properties of Congruent Triangles, the corresponding sides satisfy $AB=AD$. $\blacksquare$
 
 ## Exercise 3
 
-(Exercise 7.2, Problem 2) As shown in the figure, carpenters often use a square to draw parallel lines. Can you explain the principle behind it?
+(Exercise 14.2, Problem 2) As shown, to measure the distance between two opposite points $A$, $B$ across a pond, take $C$, $D$ on the perpendicular $BF$ to $AB$ so that $BC=CD$, then draw the perpendicular $DE$ to $BF$ so that $E$, $A$, $C$ lie on one straight line; then the measured length of $DE$ is the length of $AB$. Why?
 
 ### Solution to Exercise 3
 
-Press one edge of the square against the edge line of the wood, and draw two lines along the other edge. The square ensures that both drawn lines are perpendicular to the edge line being pressed, i.e. the corresponding angles cut by the edge line are both equal to $90^\circ$.
+From $AB\perp BF$, $DE\perp BF$, we get $\angle B=\angle D=90^\circ$. In $\triangle ABC$ and $\triangle EDC$, $BC=CD$, $\angle ACB=\angle ECD$ (vertical angles), $\angle B=\angle D$; by ASA, $\triangle ABC\cong\triangle EDC$.
 
-By Criterion 1, equal corresponding angles imply parallel lines, so the two drawn lines are parallel to each other. $\blacksquare$
+By Properties of Congruent Triangles, the corresponding sides satisfy $AB=DE$, so the measured length of $DE$ is the length of $AB$. $\blacksquare$
 
 ## Exercise 4
 
-(Exercise 7.2, Problem 3) When laying railroad tracks, the two rails must be parallel to each other. As shown in the figure, given that $\angle 2$ is a right angle, to determine whether the two rails are parallel, which other angle marked in the figure only needs to be measured? Why?
+(Exercise 14.2, Problem 1) As shown, $AC=BD$, $BC=AD$. Prove that $\angle ABC=\angle BAD$.
 
 ### Solution to Exercise 4
 
-The two rails are cut by the railroad ties. Given $\angle 2=90^\circ$.
+In $\triangle ABC$ and $\triangle BAD$, $AC=BD$, $BC=AD$, and $AB$ is a common side; by SSS, $\triangle ABC\cong\triangle BAD$.
 
-By Criterion 1, it suffices to measure the angle that is the corresponding angle of $\angle 2$; if it also equals $90^\circ$, the two rails are parallel. Thus it is enough to measure the angle that is the corresponding angle of $\angle 2$; if it equals $90^\circ$, then by equal corresponding angles implying parallel lines, the two rails are parallel. $\blacksquare$
+By Properties of Congruent Triangles, the corresponding angles satisfy $\angle ABC=\angle BAD$. $\blacksquare$
 
 ## Exercise 5
 
-(Exercise 7.2, Problem 4) The figure shows an intersection where two roads are perpendicular to each other. Can you draw a schematic diagram of it (using two parallel segments to represent one road)? Using a similar method, can you draw a schematic diagram of an intersection where two roads meet at an angle of $45^\circ$?
+(Exercise 14.2, Problem 2) A worker uses a try square to bisect an arbitrary angle: on the sides $OA$, $OB$ of $\angle AOB$ take $OM=ON$ respectively, move the try square so that the same marks on its two sides coincide with $M$, $N$ respectively, and the ray $OC$ through the square's vertex $C$ is the bisector. Why?
 
 ### Solution to Exercise 5
 
-Use two parallel segments to represent the two sides of one road, with the two groups of parallel segments crossing each other. When perpendicular, the two groups of parallel segments meet at $90^\circ$; when at $45^\circ$, they meet at $45^\circ$. Draw the schematic diagram of the intersection in the way described above. $\blacksquare$
+In $\triangle OMC$ and $\triangle ONC$, $OM=ON$, $CM=CN$ (same try-square marks), and $OC$ is a common side; by SSS, $\triangle OMC\cong\triangle ONC$.
+
+By Properties of Congruent Triangles, the corresponding angles satisfy $\angle MOC=\angle NOC$, so $OC$ bisects $\angle AOB$. $\blacksquare$
 
 ## Exercise 6
 
-(Exercise 7.2, Problem 1) As shown in the figure, line $a\parallel b$, $\angle 1=54^\circ$. How many degrees are $\angle 2$, $\angle 3$, and $\angle 4$?
-
-The figure shows two parallel lines $a$, $b$ cut by a transversal: at the intersection of $a$ and the transversal are marked $\angle 1$ and its vertical angle $\angle 2$; at the intersection of $b$ and the transversal are marked $\angle 3$ (alternate interior to $\angle 1$) and $\angle 4$ (consecutive interior to $\angle 1$).
+(Exercise 14.2, Problem 1) As shown, $C$ is the midpoint of road segment $AB$. Two people start from $C$ at the same time, walk along two straight lines at the same speed, and reach $D$, $E$ at the same time, with $DA\perp AB$, $EB\perp AB$. Are the distances from $D$, $E$ to road segment $AB$ equal? Why?
 
 ### Solution to Exercise 6
 
-By Property 1, Property 2, and Property 3, the relationships among the corresponding angles when two lines are parallel are as follows.
+They are equal. Since $C$ is the midpoint of $AB$, $CA=CB$. The two people have the same speed and arrive at the same time, so $CD=CE$. In $\text{Rt}\triangle ACD$ and $\text{Rt}\triangle BCE$, the hypotenuses satisfy $CD=CE$, and the legs satisfy $CA=CB$; by HL, $\text{Rt}\triangle ACD\cong\text{Rt}\triangle BCE$.
 
-$\angle 1$ and $\angle 2$ are vertical angles; by Vertical Angles Are Equal, $\angle 2=\angle 1=54^\circ$.
-
-$\angle 1$ and $\angle 3$ are the alternate interior angles formed when lines $a$, $b$ are cut by a transversal; by Property 2, parallel lines give equal alternate interior angles, so $\angle 3=\angle 1=54^\circ$.
-
-$\angle 1$ and $\angle 4$ are consecutive interior angles; by Property 3, parallel lines give supplementary consecutive interior angles, so $\angle 4=180^\circ-\angle 1=180^\circ-54^\circ=126^\circ$.
-
-Thus $\angle 2=54^\circ$, $\angle 3=54^\circ$, $\angle 4=126^\circ$. $\blacksquare$
+By Basic Knowledge, the corresponding legs satisfy $AD=BE$, i.e. the distances from $D$, $E$ to road segment $AB$ are equal. $\blacksquare$
 
 ## Exercise 7
 
-(Exercise 7.2, Problem 2) As shown in the figure, in triangle $ABC$, $D$ is a point on $AB$, $E$ is a point on $AC$, $\angle ADE=60^\circ$, $\angle B=60^\circ$, $\angle AED=40^\circ$.
-
-(1) Are $DE$ and $BC$ parallel? Why?
-
-(2) How many degrees is $\angle C$? Why?
+(Exercise 14.2, Problem 2) As shown, $AB=CD$, $AE\perp BC$, $DF\perp BC$, with feet at $E$, $F$ respectively, $CE=BF$. Prove that $AE=DF$.
 
 ### Solution to Exercise 7
 
-(1) $DE\parallel BC$.
+From $AE\perp BC$, $DF\perp BC$, we get $\angle AEB=\angle DFC=90^\circ$. From $CE=BF$, we get $CE-EF=BF-EF$, i.e. $CF=BE$. In $\text{Rt}\triangle ABE$ and $\text{Rt}\triangle DCF$, the hypotenuses satisfy $AB=CD$, and the legs satisfy $BE=CF$; by HL, $\text{Rt}\triangle ABE\cong\text{Rt}\triangle DCF$.
 
-$\angle ADE$ and $\angle B$ are the corresponding angles formed when lines $DE$, $BC$ are cut by line $AB$. Since $\angle ADE=60^\circ=\angle B$, by Criterion 1, equal corresponding angles imply parallel lines, so $DE\parallel BC$.
-
-(2) $\angle C=40^\circ$.
-
-It has been proved that $DE\parallel BC$, and $\angle AED$ and $\angle C$ are the corresponding angles formed when lines $DE$, $BC$ are cut by line $AC$. By Property 1, parallel lines give equal corresponding angles, so $\angle C=\angle AED=40^\circ$. $\blacksquare$
-
-## Exercise 8
-
-(Exercise 7.2, Problem 3) Place a right-angle set square and a strip of paper with parallel sides as shown in the figure. Then which of the following conclusions is correct? _______ (fill in the numbers).
-
-(1) $\angle 1=\angle 2$;　(2) $\angle 4+\angle 5=180^\circ$;　(3) $\angle 1+\angle 4=90^\circ$;　(4) $\angle 4+90^\circ=\angle 3$.
-
-### Solution to Exercise 8
-
-The two sides of the strip are parallel. The right angle of the set square is $90^\circ$.
-
-$\angle 1$ and $\angle 2$ are the corresponding angles formed when the two parallel sides are cut by one edge of the set square; by Property 1, $\angle 1=\angle 2$, so (1) is correct.
-
-$\angle 4$ and $\angle 5$ are the consecutive interior angles formed when the two parallel sides are cut by the other edge of the set square; by Property 3, parallel lines give supplementary consecutive interior angles, so $\angle 4+\angle 5=180^\circ$, and (2) is correct.
-
-The right angle of the set square together with $\angle 1$ and $\angle 4$ forms a straight angle, i.e. $\angle 1+90^\circ+\angle 4=180^\circ$, so $\angle 1+\angle 4=90^\circ$, and (3) is correct.
-
-The adjacent supplementary angle of $\angle 3$ and $\angle 4$ forms a corresponding-angle relationship, giving $\angle 3=180^\circ-\angle 4$, i.e. $\angle 4+\angle 3=180^\circ$, which does not agree with $\angle 4+90^\circ=\angle 3$, so (4) is wrong.
-
-In summary, the correct ones are (1)(2)(3). $\blacksquare$
-
-## Exercise 9
-
-(Exercise 7.2, Problem 1) As shown in the figure, if line $a\parallel b$ and $\angle 1+\angle 2=180^\circ$, then are lines $b$ and $c$ parallel? Why?
-
-### Solution to Exercise 9
-
-Line $b\parallel c$.
-
-Since $a\parallel b$, the vertical angle (or corresponding angle) of $\angle 1$ equals the corresponding angle formed when $a$, $b$ are cut. $\angle 1+\angle 2=180^\circ$, and the adjacent supplementary angle of $\angle 1$ is also supplementary to $\angle 1$, so $\angle 2$ equals the vertical angle of the adjacent supplementary angle of $\angle 1$. It follows that the corresponding angles (or consecutive interior angles) formed when lines $b$, $c$ are cut by a third line satisfy the parallel condition.
-
-Specifically, from $a\parallel b$ the corresponding angle of $\angle 1$ equals $\angle 1$, and it is supplementary to $\angle 2$, i.e. $\angle 1+\angle 2=180^\circ$ gives that the consecutive interior angles formed when $b$, $c$ are cut are supplementary. By Criterion 3, supplementary consecutive interior angles imply parallel lines, so $b\parallel c$. $\blacksquare$
-
-## Exercise 10
-
-(Exercise 7.2, Problem 2) As shown in the figure, $AB\parallel CD$ and $\angle 1=\angle 2$. Then are lines $BE$ and $CF$ parallel? Why?
-
-### Solution to Exercise 10
-
-$BE\parallel CF$.
-
-Since $AB\parallel CD$, take $BC$ as the transversal; then $\angle ABC=\angle BCD$ (parallel lines give equal alternate interior angles). Also $\angle 1=\angle 2$, so
-
-$$
-\angle ABC-\angle 1=\angle BCD-\angle 2,
-$$
-
-i.e. $\angle EBC=\angle BCF$. These two angles are the alternate interior angles formed when lines $BE$, $CF$ are cut by line $BC$. By Criterion 2, equal alternate interior angles imply parallel lines, so $BE\parallel CF$. $\blacksquare$
+By Basic Knowledge, the corresponding legs satisfy $AE=DF$. $\blacksquare$
 
 ## Problem 1
 
-(Exercise 7.2, Review and Consolidation, Problem 1) Read the following statements and draw the figures:
-
-(1) Line $AB$ is perpendicular to $CD$, with foot at $O$; point $P$ is a point on line $AB$, and line $EF$ passes through point $P$ and is parallel to line $CD$;
-
-(2) Lines $AB$, $CD$ intersect at point $O$; point $P$ is a point outside lines $AB$, $CD$; line $PE$ is parallel to line $CD$ and intersects line $AB$ at point $E$.
+(Exercise 14.2, Review and Consolidation, Problem 1) As shown, $M$ is the midpoint of $AB$, $\angle AMC=\angle BMD$, $MC=MD$. Prove that $AC=BD$.
 
 ### Solution to Problem 1
 
-Draw step by step according to the statements: first draw the given lines and their intersection point, then by Parallel Axiom draw the parallel line through the specified point, and mark the intersection point to obtain the figure satisfying the statements. $\blacksquare$
+Since $M$ is the midpoint of $AB$, $AM=BM$. In $\triangle AMC$ and $\triangle BMD$, $AM=BM$, $\angle AMC=\angle BMD$, $MC=MD$; by SAS, $\triangle AMC\cong\triangle BMD$.
+
+By Basic Knowledge, the corresponding sides satisfy $AC=BD$. $\blacksquare$
 
 ## Problem 2
 
-(Exercise 7.2, Review and Consolidation, Problem 2) As shown in the figure, to reinforce a house, a beam $DE$ is to be added to the truss so that $DE\parallel BC$. If $\angle ABC=31^\circ$, what should $\angle ADE$ be?
+(Exercise 14.2, Review and Consolidation, Problem 2) As shown, $AB=AC$, $AD=AE$. Prove that $\angle B=\angle C$.
 
 ### Solution to Problem 2
 
-$DE\parallel BC$, with line $AB$ as the transversal; $\angle ADE$ and $\angle ABC$ are corresponding angles. By Property 1, parallel lines give equal corresponding angles, so
+In $\triangle ABE$ and $\triangle ACD$, $AB=AC$, $\angle A$ is a common angle, $AE=AD$; by SAS, $\triangle ABE\cong\triangle ACD$.
 
-$$
-\angle ADE=\angle ABC=31^\circ.
-$$
-
-That is, $\angle ADE$ should be $31^\circ$. $\blacksquare$
+By Basic Knowledge, the corresponding angles satisfy $\angle B=\angle C$. $\blacksquare$
 
 ## Problem 3
 
-(Exercise 7.2, Review and Consolidation, Problem 3) As shown in the figure, after a canal turns twice, its direction is the same as the original. If the first turning angle $\angle A=135^\circ$, what is the second turning angle $\angle B$? Why?
+(Exercise 14.2, Review and Consolidation, Problem 3) As shown, join the midpoints of two steel rods to make a caliper. To measure the inner-groove width $AB$ of a workpiece, what quantities need only be measured? Why?
 
 ### Solution to Problem 3
 
-After the canal turns twice its direction is the same as the original, which means the lines on which the two segments of the canal before and after the turns lie are parallel. The two turning angles $\angle A$, $\angle B$ are the alternate interior angles formed when these two parallel lines are cut by the middle segment of the canal.
+Only measure the length of the corresponding inner-groove side $CD$. Let the intersection of the two rods be $O$; then $O$ is the midpoint of both rods, so $OA=OD$, $OB=OC$. In $\triangle AOB$ and $\triangle DOC$, $OA=OD$, $\angle AOB=\angle DOC$ (vertical angles), $OB=OC$; by SAS, $\triangle AOB\cong\triangle DOC$.
 
-By Property 2, parallel lines give equal alternate interior angles, so $\angle B=\angle A=135^\circ$. $\blacksquare$
+By Basic Knowledge, the corresponding sides satisfy $AB=CD$, so measuring $CD$ gives the inner-groove width $AB$. $\blacksquare$
 
 ## Problem 4
 
-(Exercise 7.2, Review and Consolidation, Problem 4) As shown in the figure, among the following conditions, the one that can determine line $a\parallel b$ is (　　).
-
-(1) $\angle 2+\angle 5=180^\circ$　(2) $\angle 2=\angle 4$　(3) $\angle 4+\angle 5=180^\circ$　(4) $\angle 1=\angle 3$
-
-The figure shows two lines $a$, $b$ cut by a transversal, with five angles $\angle 1$, $\angle 2$, $\angle 3$, $\angle 4$, $\angle 5$ marked at the two intersections.
+(Exercise 14.2, Review and Consolidation, Problem 4) As shown, $\angle 1=\angle 2$, $\angle 3=\angle 4$. Prove that $AC=AD$.
 
 ### Solution to Problem 4
 
-Using Criterion 1, Criterion 2, and Criterion 3, judge item by item what kind of positional angles each pair is when lines $a$, $b$ are cut by a transversal.
+In $\triangle ABC$ and $\triangle ABD$, $\angle 3=\angle 4$, $AB$ is a common side, and $\angle ABC=\angle ABD$ (derived from $\angle 1=\angle 2$); by ASA, $\triangle ABC\cong\triangle ABD$.
 
-$\angle 2$ and $\angle 5$ are not criterion angles formed when lines $a$, $b$ are cut by the same transversal, so their sum being $180^\circ$ cannot determine $a\parallel b$; thus (1) cannot.
-
-$\angle 2$ and $\angle 4$ are the alternate interior angles formed when lines $a$, $b$ are cut by a transversal; by Criterion 2, equal alternate interior angles imply parallel lines, so $\angle 2=\angle 4$ can determine $a\parallel b$; thus (2) can.
-
-$\angle 4$ and $\angle 5$ are the consecutive interior angles formed when lines $a$, $b$ are cut by a transversal; by Criterion 3, supplementary consecutive interior angles imply parallel lines, so $\angle 4+\angle 5=180^\circ$ can determine $a\parallel b$; thus (3) can.
-
-$\angle 1$ and $\angle 3$ are not criterion angles between lines $a$, $b$, so $\angle 1=\angle 3$ cannot determine $a\parallel b$; thus (4) cannot.
-
-In summary, the ones that can determine line $a\parallel b$ are (2)(3). $\blacksquare$
+By Basic Knowledge, the corresponding sides satisfy $AC=AD$. $\blacksquare$
 
 ## Problem 5
 
-(Exercise 7.2, Review and Consolidation, Problem 5) As shown in the figure, $a\parallel b$, lines $c$, $d$ are transversals, $\angle 1=80^\circ$, $\angle 5=70^\circ$. How many degrees are $\angle 2$, $\angle 3$, and $\angle 4$? Why?
-
-The figure shows two parallel lines $a$, $b$ cut by two transversals $c$, $d$: at the intersection of $a$ and $c$ is marked $\angle 1$; at the intersection of $a$ and $d$ is marked $\angle 5$; at the intersection of $b$ and $c$ is marked $\angle 2$ (alternate interior to $\angle 1$); at the intersection of $b$ and $d$ are marked $\angle 3$ (corresponding to $\angle 5$) and $\angle 4$ (consecutive interior to $\angle 5$).
+(Exercise 14.2, Review and Consolidation, Problem 5) As shown, $\angle 1=\angle 2$, $\angle B=\angle D$. Prove that $AB=CD$.
 
 ### Solution to Problem 5
 
-Using $a\parallel b$ and the positions of the angles, find the angles by Property 1 through Property 3.
+In $\triangle ABC$ and $\triangle CDA$, $\angle 1=\angle 2$, $\angle B=\angle D$, and $AC$ is a common side; by AAS, $\triangle ABC\cong\triangle CDA$.
 
-$\angle 1$ and $\angle 2$ are the alternate interior angles formed when lines $a$, $b$ are cut by transversal $c$; by Property 2, $\angle 2=\angle 1=80^\circ$.
-
-$\angle 5$ and $\angle 3$ are the corresponding angles formed when lines $a$, $b$ are cut by transversal $d$; by Property 1, $\angle 3=\angle 5=70^\circ$.
-
-$\angle 5$ and $\angle 4$ are the consecutive interior angles formed when lines $a$, $b$ are cut by transversal $d$; by Property 3, $\angle 4=180^\circ-\angle 5=180^\circ-70^\circ=110^\circ$.
-
-Thus $\angle 2=80^\circ$, $\angle 3=70^\circ$, $\angle 4=110^\circ$. $\blacksquare$
+By Basic Knowledge, the corresponding sides satisfy $AB=CD$. $\blacksquare$
 
 ## Problem 6
 
-(Exercise 7.2, Review and Consolidation, Problem 6) As shown in the figure, there is a square piece of glass. How can you check whether its two opposite sides are parallel?
+(Exercise 14.2, Review and Consolidation, Problem 6) As shown, from point $C$ the viewing angle $\angle C$ to points $A$, $B$ is acute, and point $C$ is equidistant from points $A$, $B$. Is the distance $AD$ from point $A$ to road segment $BC$ equal to the distance $BE$ from point $B$ to road segment $AC$? Why?
 
 ### Solution to Problem 6
 
-Press a straightedge or set square against one edge of the glass and slide it along the direction of the other edge (the same method as drawing parallel lines with a straightedge and set square), observing whether the opposite side always stays in contact.
+They are equal. Since $CA=CB$, $\triangle ABC$ is isosceles, $\angle CAB=\angle CBA$. Also $AD\perp BC$, $BE\perp AC$, so $\angle ADC=\angle BEC=90^\circ$. In $\triangle ACD$ and $\triangle BCE$, $\angle ADC=\angle BEC$, $\angle ACD=\angle BCE$ (common), $CA=CB$; by AAS, $\triangle ACD\cong\triangle BCE$.
 
-By Criterion 1, if the corresponding angles cut in the two pressings are equal, then the opposite sides are parallel; otherwise they are not. Alternatively, measure the corresponding angles (or consecutive interior angles) at two adjacent sides and check using the corresponding criterion. $\blacksquare$
+By Basic Knowledge, the corresponding sides satisfy $AD=BE$. $\blacksquare$
 
 ## Problem 7
 
-(Exercise 7.2, Review and Consolidation, Problem 7) Find the lines that are parallel to each other and the lines that are perpendicular to each other in the figure.
+(Exercise 14.2, Review and Consolidation, Problem 7) As shown, $AB=AD$, $AC=AE$, $BC=DE$. Prove that $\angle BAC=\angle DAE$.
 
 ### Solution to Problem 7
 
-By Parallel, Perpendicular, and the criteria, observe the angle between each pair of lines in the figure: two lines with an angle of $90^\circ$ are perpendicular to each other; two lines judged by equal corresponding angles, equal alternate interior angles, or supplementary consecutive interior angles are parallel to each other. After checking each pair, list the lines that are parallel to each other and the lines that are perpendicular to each other in the figure. $\blacksquare$
+In $\triangle ABC$ and $\triangle ADE$, $AB=AD$, $AC=AE$, $BC=DE$; by SSS, $\triangle ABC\cong\triangle ADE$.
+
+By Basic Knowledge, the corresponding angles satisfy $\angle BAC=\angle DAE$. $\blacksquare$
 
 ## Problem 8
 
-(Exercise 7.2, Comprehensive Application, Problem 8) When light travels from water into air, refraction occurs; rays that are parallel in water remain parallel after refraction into air. As shown in the figure, $\angle 1=45^\circ$, $\angle 2=122^\circ$. Find the degrees of $\angle 3$ and $\angle 4$ in the figure.
+(Exercise 14.2, Review and Consolidation, Problem 8) As shown, in an angle-bisecting instrument $AB=AD$, $BC=DC$. Place $A$ at the vertex of the angle, lay $AB$, $AD$ along the two sides of the angle, and draw the ray $AE$ along $AC$ as the bisector; explain why.
 
 ### Solution to Problem 8
 
-The two rays in water are parallel, and the two rays after refraction into air are also parallel.
+In $\triangle ABC$ and $\triangle ADC$, $AB=AD$, $BC=DC$, and $AC$ is a common side; by SSS, $\triangle ABC\cong\triangle ADC$.
 
-$\angle 1$ and $\angle 3$ are the corresponding angles formed when the two parallel rays are cut by the interface normal (or the interface); by Property 1, $\angle 3=\angle 1=45^\circ$.
-
-$\angle 2$ and $\angle 4$ are the consecutive interior angles formed when the two parallel rays are cut by the same line; by Property 3, parallel lines give supplementary consecutive interior angles, so $\angle 4=180^\circ-\angle 2=180^\circ-122^\circ=58^\circ$.
-
-Thus $\angle 3=45^\circ$, $\angle 4=58^\circ$. $\blacksquare$
+By Basic Knowledge, the corresponding angles satisfy $\angle BAC=\angle DAC$, so $AE$ bisects the angle. $\blacksquare$
 
 ## Problem 9
 
-(Exercise 7.2, Comprehensive Application, Problem 9) The figure shows a vertical-angle protractor. Can you explain the principle of measuring angles with it?
+(Exercise 14.2, Review and Consolidation, Problem 9) As shown, point $C$ lies on side $OB$ of $\angle AOB$. Use a straightedge and compass to draw through point $C$ a line $CD$ parallel to ray $OA$.
 
 ### Solution to Problem 9
 
-The vertical-angle protractor makes use of Vertical Angles Are Equal. Align the two sides of the angle being measured with the two intersecting edges of the protractor; the angle being measured and the angle read on the protractor are vertical angles. By the equality of vertical angles, the degree read on the protractor is the degree of the angle being measured. $\blacksquare$
+At vertex $O$ draw an angle equal to the corresponding angle of $\angle AOB$: using the straightedge-and-compass method of drawing an angle equal to a given angle, draw through $C$ an angle $\angle BCD$ equal to $\angle BOA$, so that the two angles are corresponding angles; then $CD\parallel OA$. $\blacksquare$
 
 ## Problem 10
 
-(Exercise 7.2, Comprehensive Application, Problem 10) As shown in the figure, if $AB\parallel FE$, $BC\parallel DE$, then what is $\angle E+\angle B$ equal to?
-
-The figure shows a broken line $ABC$ and another broken line $FED$, with $AB\parallel FE$ and $BC\parallel DE$; $\angle B$ is $\angle ABC$ and $\angle E$ is $\angle FED$.
+(Exercise 14.2, Review and Consolidation, Problem 10) As shown, given $\triangle ABC$, use a straightedge and compass to construct $\triangle ABD$ such that $\angle BAD=\angle BAC$, $AD=AC$ (point $D$ and point $C$ are on opposite sides of $AB$).
 
 ### Solution to Problem 10
 
-Since $AB\parallel FE$, take the transversal to jointly determine the angle relationship with $BC$, $DE$.
-
-Since $BC\parallel DE$, parallel lines give supplementary consecutive interior angles (or equal corresponding angles), yielding the corresponding angle relationship; from $AB\parallel FE$ another set of angle relationships is obtained. Combining the two: after two transfers of parallelism, $\angle E$ and $\angle B$ are consecutive interior angles to each other, i.e.
-
-$$
-\angle E+\angle B=180^\circ.
-$$
-
-Thus $\angle E+\angle B=180^\circ$. $\blacksquare$
+First, using the method of drawing an angle equal to a given angle, draw $\angle BAD=\angle BAC$ on the opposite side of $AB$ from $C$, then cut off $AD=AC$ on ray $AD$, join $BD$, and the desired $\triangle ABD$ is obtained. $\blacksquare$
 
 ## Problem 11
 
-(Exercise 7.2, Comprehensive Application, Problem 11) As shown in the figure, many beautiful decorative patterns are designed using parallel stripes. Use parallel stripes to design some patterns and share them with your classmates.
+(Exercise 14.2, Comprehensive Application, Problem 11) As shown, in $\triangle ABC$, $AB=AC$, $AD$ is an altitude. Prove that $BD=CD$, $\angle BAD=\angle CAD$.
 
 ### Solution to Problem 11
 
-By Parallel, draw groups of parallel lines (or segments); by varying the direction, spacing, and combination of the parallel stripes, various decorative patterns can be designed. Design them yourself and share them with your classmates. $\blacksquare$
+Since $AD$ is an altitude, $\angle ADB=\angle ADC=90^\circ$. In $\text{Rt}\triangle ABD$ and $\text{Rt}\triangle ACD$, the hypotenuses satisfy $AB=AC$, and the leg $AD$ is a common side; by HL, $\text{Rt}\triangle ABD\cong\text{Rt}\triangle ACD$.
+
+By Basic Knowledge, the corresponding sides satisfy $BD=CD$, and the corresponding angles satisfy $\angle BAD=\angle CAD$. $\blacksquare$
 
 ## Problem 12
 
-(Exercise 7.2, Extension and Exploration, Problem 12) As shown in the figure, when $\angle 1=\angle 3$, are lines $a$, $b$ parallel? When $\angle 2+\angle 3=180^\circ$, are lines $a$, $b$ parallel? Why?
+(Exercise 14.2, Comprehensive Application, Problem 12) As shown, $AC\perp CB$, $DB\perp CB$, with feet at $C$, $B$ respectively, $AB=DC$. Prove that $\angle ABD=\angle ACD$.
 
 ### Solution to Problem 12
 
-When $\angle 1=\angle 3$, $a\parallel b$. $\angle 1$ and $\angle 3$ are the corresponding angles (or alternate interior angles) formed when lines $a$, $b$ are cut by transversal $c$; by Criterion 1, equal corresponding angles imply parallel lines, so $a\parallel b$.
+From $AC\perp CB$, $DB\perp CB$, we get $\angle ACB=\angle DBC=90^\circ$. In $\text{Rt}\triangle ABC$ and $\text{Rt}\triangle DCB$, the hypotenuses satisfy $AB=DC$, and the leg $BC$ is a common side; by HL, $\text{Rt}\triangle ABC\cong\text{Rt}\triangle DCB$.
 
-When $\angle 2+\angle 3=180^\circ$, $a\parallel b$. $\angle 2$ and $\angle 3$ are the consecutive interior angles formed when lines $a$, $b$ are cut by transversal $c$; by Criterion 3, supplementary consecutive interior angles imply parallel lines, so $a\parallel b$. $\blacksquare$
+By Basic Knowledge, the corresponding angles satisfy $\angle ABC=\angle DCB$. Subtracting the right angles $\angle CBD$ and $\angle ACB$ from the two sides respectively gives $\angle ABD=\angle ACD$. $\blacksquare$
 
 ## Problem 13
 
-(Exercise 7.2, Extension and Exploration, Problem 13) Observe the cuboid shown in the figure. Use symbols to express the positional relationships of the following pairs of edges: $A_1B_1$ _______ $AB$, $AA_1$ _______ $AB$, $A_1D_1$ _______ $D_1C_1$, $AD$ _______ $BC$. Can you find examples of these positional relationships in the classroom?
+(Exercise 14.2, Comprehensive Application, Problem 13) As shown, points $B$, $E$, $C$, $F$ lie on one straight line, $AB=DE$, $AC=DF$, $BE=CF$. Prove that $\angle A=\angle D$.
 
 ### Solution to Problem 13
 
-By Parallel and Perpendicular: $A_1B_1$ and $AB$ lie in the same direction and do not intersect, so $A_1B_1\parallel AB$; $AA_1$ and $AB$ intersect at a right angle, so $AA_1\perp AB$; $A_1D_1$ and $D_1C_1$ intersect at a right angle, so $A_1D_1\perp D_1C_1$; $AD$ and $BC$ have the same direction and do not intersect, so $AD\parallel BC$.
+From $BE=CF$, we get $BE+EC=CF+EC$, i.e. $BC=EF$. In $\triangle ABC$ and $\triangle DEF$, $AB=DE$, $AC=DF$, $BC=EF$; by SSS, $\triangle ABC\cong\triangle DEF$.
 
-In the classroom, examples of these positional relationships include the opposite sides of the blackboard being parallel and adjacent sides of the blackboard being perpendicular. $\blacksquare$
+By Basic Knowledge, the corresponding angles satisfy $\angle A=\angle D$. $\blacksquare$
 
 ## Problem 14
 
-(Exercise 7.2, Extension and Exploration, Problem 14) As shown in the figure, the two mirrors in a periscope are placed parallel to each other. When light rays reflect off the mirrors, $\angle 1=\angle 2$, $\angle 3=\angle 4$. What is the relationship between $\angle 2$ and $\angle 3$? Why is the ray entering the periscope parallel to the ray leaving the periscope?
-
-The figure shows a cross-section of a periscope: two mirrors placed parallel to each other, one above the other; an incoming ray enters from one side, reflects off the first mirror, strikes the second mirror, and reflects out the other side. At the first mirror are marked $\angle 1$ (angle between incident ray and mirror) and $\angle 2$ (angle between reflected ray and mirror); at the second mirror are marked the corresponding $\angle 3$ and $\angle 4$.
+(Exercise 14.2, Comprehensive Application, Problem 14) As shown, $AC$ and $BD$ intersect at point $O$, $OA=OC$, $OB=OD$. Prove that $AB\parallel CD$.
 
 ### Solution to Problem 14
 
-The two mirrors are parallel to each other. The two reflected rays between them are cut by the mirrors (lines); $\angle 2$ and $\angle 3$ are the alternate interior angles formed when the two parallel mirrors are cut by the middle ray. By Property 2, parallel lines give equal alternate interior angles, so $\angle 2=\angle 3$.
+In $\triangle AOB$ and $\triangle COD$, $OA=OC$, $\angle AOB=\angle COD$ (vertical angles), $OB=OD$; by SAS, $\triangle AOB\cong\triangle COD$.
 
-Also given $\angle 1=\angle 2$, $\angle 3=\angle 4$, so $\angle 1=\angle 2=\angle 3=\angle 4$. Thus the alternate interior angles formed when the ray entering the periscope and the ray leaving the periscope are cut by the reflected ray between the mirrors
+By Basic Knowledge, the corresponding angles satisfy $\angle A=\angle C$, which are alternate interior angles, so $AB\parallel CD$. $\blacksquare$
 
-$$
-\angle 1+\angle 2=\angle 3+\angle 4
-$$
+## Problem 15
 
-hold. By Criterion 2, equal alternate interior angles imply parallel lines, so the ray entering the periscope is parallel to the ray leaving the periscope. $\blacksquare$
+(Exercise 14.2, Comprehensive Application, Problem 15) As shown, points $B$, $F$, $C$, $E$ lie on one straight line, $FB=CE$, $AB\parallel DE$, $AC\parallel DF$. Prove that $AB=DE$, $AC=DF$.
+
+### Solution to Problem 15
+
+From $FB=CE$, we get $FB+FC=CE+FC$, i.e. $BC=EF$. From $AB\parallel DE$, we get $\angle B=\angle E$; from $AC\parallel DF$, we get $\angle ACB=\angle DFE$. In $\triangle ABC$ and $\triangle DEF$, $\angle B=\angle E$, $BC=EF$, $\angle ACB=\angle DFE$; by ASA, $\triangle ABC\cong\triangle DEF$.
+
+By Basic Knowledge, the corresponding sides satisfy $AB=DE$, $AC=DF$. $\blacksquare$
+
+## Problem 16
+
+(Exercise 14.2, Comprehensive Application, Problem 16) As shown, $\triangle ABC\cong\triangle A'B'C'$, and $AD$, $A'D'$ are respectively the bisectors of the corresponding angles of the two triangles. Prove that $AD=A'D'$.
+
+### Solution to Problem 16
+
+From $\triangle ABC\cong\triangle A'B'C'$, we get $AB=A'B'$, $\angle B=\angle B'$, $\angle BAC=\angle B'A'C'$. Since $AD$, $A'D'$ are corresponding angle bisectors, $\angle BAD=\frac{1}{2}\angle BAC$, $\angle B'A'D'=\frac{1}{2}\angle B'A'C'$, so $\angle BAD=\angle B'A'D'$.
+
+In $\triangle ABD$ and $\triangle A'B'D'$, $\angle BAD=\angle B'A'D'$, $AB=A'B'$, $\angle B=\angle B'$; by ASA, $\triangle ABD\cong\triangle A'B'D'$.
+
+By Basic Knowledge, the corresponding sides satisfy $AD=A'D'$. $\blacksquare$
+
+## Problem 17
+
+(Exercise 14.2, Extension and Exploration, Problem 17) As shown, $D$ is a point on $AB$, $DF$ meets $AC$ at point $E$, $DE=FE$, $FC\parallel AB$. What is the relationship between $AE$ and $CE$? Prove your conclusion.
+
+### Solution to Problem 17
+
+$AE=CE$. Proof: from $FC\parallel AB$, we get $\angle ADE=\angle CFE$. In $\triangle ADE$ and $\triangle CFE$, $\angle AED=\angle CEF$ (vertical angles), $DE=FE$, $\angle ADE=\angle CFE$; by ASA, $\triangle ADE\cong\triangle CFE$.
+
+By Basic Knowledge, the corresponding sides satisfy $AE=CE$. $\blacksquare$
+
+## Problem 18
+
+(Exercise 14.2, Extension and Exploration, Problem 18) As shown, in $\triangle ABC$, $AB=AC$, point $D$ is the midpoint of $BC$, and point $E$ lies on $AD$. Find the congruent triangles in the figure and prove that they are congruent.
+
+### Solution to Problem 18
+
+In the figure, $\triangle ABD\cong\triangle ACD$, $\triangle ABE\cong\triangle ACE$, $\triangle DBE\cong\triangle DCE$.
+
+Since $D$ is the midpoint of $BC$, $BD=CD$. In $\triangle ABD$ and $\triangle ACD$, $AB=AC$, $BD=CD$, $AD$ is common; by SSS, $\triangle ABD\cong\triangle ACD$, giving $\angle BAE=\angle CAE$.
+
+In $\triangle ABE$ and $\triangle ACE$, $AB=AC$, $\angle BAE=\angle CAE$, $AE$ is common; by SAS, $\triangle ABE\cong\triangle ACE$, giving $BE=CE$.
+
+In $\triangle DBE$ and $\triangle DCE$, $BD=CD$, $BE=CE$, $DE$ is common; by SSS, $\triangle DBE\cong\triangle DCE$. $\blacksquare$
+
+## Information Technology Application 1
+
+(Information Technology Application: Exploring the Conditions for Triangle Congruence) On the basis that two sides are respectively equal, two triangles coincide and are congruent only when their included angle is also equal; if only an additional side is equal (SSA), congruence is not guaranteed. Similarly, two right triangles with two angles and their included side respectively equal, or with the hypotenuse and one leg respectively equal, can be determined congruent. This confirms SAS, ASA, SSS, AAS and HL as valid determination methods.
+
+## Exercise 8
+
+(Exercise 14.3, Problem 1) As shown, on line $MN$ construct a point $P$ such that point $P$ lies inside $\angle AOB$ and point $P$ is equidistant from rays $OA$ and $OB$.
+
+### Solution to Exercise 8
+
+By Determination of an Angle Bisector, points equidistant from $OA$, $OB$ lie on the bisector of $\angle AOB$. So first construct the bisector of $\angle AOB$ with straightedge and compass; its intersection with line $MN$ is the desired point $P$. $\blacksquare$
+
+## Exercise 9
+
+(Exercise 14.3, Problem 2) As shown, $OC$ is the bisector of $\angle AOB$, point $P$ lies on $OC$, $PD\perp OA$, $PE\perp OB$, with feet at $D$, $E$ respectively. Points $F$, $G$ lie on $OA$, $OB$ respectively, $DF=EG$; join $PF$, $PG$. Prove that $PF=PG$.
+
+### Solution to Exercise 9
+
+By Properties of an Angle Bisector, $PD=PE$. In $\text{Rt}\triangle PDF$ and $\text{Rt}\triangle PEG$, $\angle PDF=\angle PEG=90^\circ$, $DF=EG$, $PD=PE$; by SAS, $\triangle PDF\cong\triangle PEG$.
+
+By Basic Knowledge, the corresponding sides satisfy $PF=PG$. $\blacksquare$
+
+## Exercise 10
+
+(Exercise 14.3, Problem 1) As shown, $AB\perp CD$, $CE\perp AD$, with feet at $B$, $E$ respectively, $AB=CE$; $AB$ and $CE$ intersect at point $F$, and join $DF$. Prove that $FD$ bisects $\angle BFE$.
+
+### Solution to Exercise 10
+
+In $\triangle ABF$ and $\triangle CEF$, $\angle AFB=\angle CFE$ (vertical angles), $\angle ABF=\angle CEF=90^\circ$, $AB=CE$; by AAS, $\triangle ABF\cong\triangle CEF$, so $BF=EF$.
+
+In $\text{Rt}\triangle BDF$ and $\text{Rt}\triangle EDF$, $BF=EF$, and $DF$ is the common hypotenuse; by HL, $\text{Rt}\triangle BDF\cong\text{Rt}\triangle EDF$, so $DB=DE$.
+
+That is, point $D$ is equidistant from line $FB$ (on $AB$) and line $FE$ (on $CE$). By Determination of an Angle Bisector, point $D$ lies on the bisector of $\angle BFE$, so $FD$ bisects $\angle BFE$. $\blacksquare$
+
+## Exercise 11
+
+(Exercise 14.3, Problem 2) As shown, given $\triangle ABC$, $BF$ is the bisector of the exterior angle $\angle CBD$, $CG$ is the bisector of the exterior angle $\angle BCE$, and $BF$, $CG$ intersect at point $P$. Prove:
+
+(1) point $P$ is equidistant from the lines of the three sides $AB$, $BC$, $CA$;
+
+(2) point $P$ lies on the bisector of $\angle A$.
+
+### Solution to Exercise 11
+
+(1) Through point $P$ draw perpendiculars to the lines of the three sides. Since $BF$ bisects $\angle CBD$ and $P$ lies on $BF$, by Properties of an Angle Bisector, $P$ is equidistant from lines $AB$, $BC$. Similarly, since $CG$ bisects $\angle BCE$, $P$ is equidistant from lines $BC$, $CA$. Hence $P$ is equidistant from the lines of the three sides.
+
+(2) By (1), $P$ is equidistant from lines $AB$, $CA$. By Determination of an Angle Bisector, $P$ lies on the bisector of $\angle A$. $\blacksquare$
+
+## Problem 19
+
+(Exercise 14.3, Review and Consolidation, Problem 1) As shown, in $\triangle ABC$, $AD$ is its angle bisector, and $BD=CD$, $DE\perp AB$, $DF\perp AC$, with feet at $E$, $F$ respectively. Prove that $EB=FC$.
+
+### Solution to Problem 19
+
+Since $AD$ is an angle bisector and by Properties of an Angle Bisector, $DE=DF$. In $\text{Rt}\triangle BDE$ and $\text{Rt}\triangle CDF$, the hypotenuses satisfy $BD=CD$, and the legs satisfy $DE=DF$; by HL, $\text{Rt}\triangle BDE\cong\text{Rt}\triangle CDF$.
+
+By Basic Knowledge, the corresponding legs satisfy $EB=FC$. $\blacksquare$
+
+## Problem 20
+
+(Exercise 14.3, Review and Consolidation, Problem 2) As shown, in $\triangle ABC$, $AB=AC$, $BD\perp AC$, $CE\perp AB$, with feet at $D$, $E$ respectively, and $BD$, $CE$ intersect at point $F$. Prove that $FA$ bisects $\angle DFE$.
+
+### Solution to Problem 20
+
+In $\triangle BCE$ and $\triangle CBD$, $\angle BEC=\angle CDB=90^\circ$, $\angle CBE=\angle BCD$ (from $AB=AC$), and $BC$ is a common side; by AAS, $\triangle BCE\cong\triangle CBD$, so $BE=CD$. From $AB=AC$, we get $AE=AD$.
+
+In $\text{Rt}\triangle AEF$ and $\text{Rt}\triangle ADF$, the hypotenuse $AF$ is common, and the legs satisfy $AE=AD$; by HL, $\text{Rt}\triangle AEF\cong\text{Rt}\triangle ADF$, so $\angle AFE=\angle AFD$.
+
+That is, $FA$ bisects $\angle DFE$. $\blacksquare$

@@ -2,292 +2,367 @@
 
 ## Exercise 1
 
-(Exercise 6.1, Problem 1) Name the solid figure that each of the following objects resembles: a math textbook resembles $\;\_\_\;$, a pyramid resembles $\;\_\_\;$, a watermelon resembles $\;\_\_\;$, a fluorescent lamp resembles $\;\_\_\;$.
+(Exercise 10.3, Problem 9) From point A to point B there is a section of uphill road and a section of level road. If one keeps walking uphill at $3\ \text{km}$ per hour, on level ground at $4\ \text{km}$ per hour, and downhill at $5\ \text{km}$ per hour, then going from A to B takes $54\ \text{min}$, and returning from B to A takes $42\ \text{min}$. What is the total distance from A to B in kilometers?
 
 ### Solution to Exercise 1
 
-By Solid Figure, judge the corresponding solid figure from the object's outer shape.
+Let the uphill road be $x\ \text{km}$ and the level road $y\ \text{km}$. From A to B: uphill $x$, level $y$; from B to A: the former uphill becomes downhill. According to the problem,
 
-A math textbook's parts do not all lie in the same plane; it has six faces and resembles a rectangular prism. A pyramid has one base and four triangular faces and resembles a square pyramid. A watermelon is round and resembles a sphere. A fluorescent lamp is long and thin and resembles a cylinder. $\blacksquare$
+$$
+\begin{cases}
+\frac{x}{3}+\frac{y}{4}=\frac{54}{60},\\
+\frac{x}{5}+\frac{y}{4}=\frac{42}{60}.
+\end{cases}
+$$
 
-## Exercise 2
+Subtract the two equations: $x\left(\frac{1}{3}-\frac{1}{5}\right)=0.9-0.7=0.2$, i.e. $\frac{2}{15}x=0.2$, $x=1.5$. Substituting back $\frac{1.5}{3}+\frac{y}{4}=0.9$, we get $\frac{y}{4}=0.4$, $y=1.6$.
 
-(Exercise 6.1, Problem 2) Match the following solid figures with their names by drawing lines: sphere, cylinder, cone, cube, triangular prism.
-
-### Solution to Exercise 2
-
-By Solid Figure, match the names according to the features of each solid figure.
-
-A sphere is a solid enclosed entirely by a curved surface; a cylinder consists of two circular bases and one lateral surface; a cone consists of one circular base and one curved lateral surface; a cube consists of six square faces; a triangular prism consists of two triangular bases and three rectangular faces. Draw lines matching each solid figure with its name as shown. $\blacksquare$
-
-## Exercise 3
-
-(Exercise 6.1, Problem 1) As shown, a solid figure made of $9$ identical cubes; viewing it from the front, the left, and the top respectively, what plane figures do you obtain?
-
-### Solution to Exercise 3
-
-By Plane Figure and the method of viewing a solid figure from different directions.
-
-This solid figure is an L-shaped staircase made of $9$ cubes. From the front: the leftmost column has $2$ squares (stacked), and the four right columns each have $1$ square; the front view is a step shape with the left column height $2$ and the four right columns height $1$.
-
-From the left: the leftmost column has $2$ squares, and the two right columns each have $1$ square; the left view is a step shape with the left column height $2$ and the two right columns height $1$.
-
-From the top: the first row has $4$ squares (in a horizontal row), and the second row has $2$ squares at the far right; the top view is L-shaped (upper row $4$, lower row right $2$).
-
-The figure consists of the three views of this L-shaped staircase from three directions: the front view is a step shape with the left column height $2$ and the four right columns height $1$; the left view is a step shape with the left column height $2$ and the two right columns height $1$; the top view is an L shape (upper row of $4$ squares and $2$ squares at the far right of the lower row).
-
-$\blacksquare$
-
-## Exercise 4
-
-(Exercise 6.1, Problem 2) A triangular prism is shown; the three figures on the right, (1) an inverted triangle, (2) two adjacent rectangles, (3) one rectangle, are each obtained by viewing the prism from which direction?
-
-### Solution to Exercise 4
-
-By Plane Figure, view the triangular prism from different directions.
-
-The triangular prism has triangular bases and three rectangular lateral faces.
-
-(1) Inverted triangle: from the top (along the direction perpendicular to the base), what is seen is the triangular base, i.e. viewing from the top gives an inverted triangle.
-
-(2) Two adjacent rectangles: from the front, two adjacent lateral rectangles are seen, i.e. viewing from the front gives two adjacent rectangles.
-
-(3) One rectangle: from the left, one lateral rectangle is seen, i.e. viewing from the left gives one rectangle.
-
-$\blacksquare$
-
-## Exercise 5
-
-(Exercise 6.1, Problem 3) Viewing the following solid figures (cylinder, cone, sphere) from the front, the left, and the top respectively, what plane figures do you obtain?
-
-### Solution to Exercise 5
-
-By Plane Figure, view each solid figure from the three directions.
-
-(1) Cylinder: both front and left are rectangles (height is the rectangle's height, width is the base diameter), and the top is a circle.
-
-(2) Cone: both front and left are isosceles triangles, and the top is a circle (including the center point).
-
-(3) Sphere: front, left, and top are all circles of the same size.
-
-The figure shows the plane figures obtained by viewing a cylinder, a cone, and a sphere from the front, the left, and the top: for the cylinder, both front and left are rectangles and the top is a circle; for the cone, both front and left are isosceles triangles and the top is a circle with its center; for the sphere, all three directions are circles of the same size.
-
-$\blacksquare$
-
-## Exercise 6
-
-(Exercise 6.1, Problem 2) Match each solid figure (cylinder, cone, triangular prism) with its net (figure (1) rectangle with two circles below, figure (2) sector with a circle below, figure (3) rectangle with triangles on two sides, figure (4) rectangle with circles on two sides, figure (5) three rectangles with two triangles above, figure (6) sector with a circle on the side) by drawing lines.
-
-### Solution to Exercise 6
-
-By Net, match according to the unfolded shape of each solid figure.
-
-The net of a cylinder is one rectangle and two equal circles: figure (1) (rectangle with two circles below) and figure (4) (rectangle with circles on two sides) are both nets of a cylinder.
-
-The net of a cone is one sector and one circle: figure (2) (sector with a circle below) and figure (6) (sector with a circle on the side) are both nets of a cone.
-
-The net of a triangular prism is two triangles and three rectangles: figure (3) (rectangle with triangles on two sides) and figure (5) (three rectangles with two triangles above) are both nets of a triangular prism.
-
-$\blacksquare$
+The total distance is $1.5+1.6=3.1\ \text{km}$. $\blacksquare$
 
 ## Problem 1
 
-(Problem 6.1, Review and Consolidation, Problem 1) Match each solid figure (triangular prism, cone, cube, cylinder) with its net (figures: rectangle with triangles on two sides, sector plus circle, cross of six squares, rectangle plus circles on two sides) by drawing lines.
+(Exercise 10.3, Review and Consolidation, Problem 1) Solve the following systems:
+
+(1) $\begin{cases}3x-y=5,\\5y-1=3x+5;\end{cases}$
+
+(2) $\begin{cases}\frac{2x}{3}+\frac{3y}{4}=\frac{17}{12},\\\frac{x}{6}-\frac{y}{2}=-\frac{1}{3}.\end{cases}$
 
 ### Solution to Problem 1
 
-By Net, match according to the unfolded shape of each solid figure.
+(1) From the first equation $y=3x-5$; substitute into the second $5y-3x=6$: $5\left(3x-5\right)-3x=6$, i.e. $12x=31$, $x=\frac{31}{12}$, $y=\frac{11}{4}$.
 
-The net of a triangular prism is two triangles and three rectangles → match with the rectangle-with-triangles-on-two-sides figure.
-
-The net of a cone is one sector and one circle → match with the sector-plus-circle figure.
-
-The net of a cube is six squares → match with the cross-of-six-squares figure.
-
-The net of a cylinder is one rectangle and two circles → match with the rectangle-plus-circles-on-two-sides figure.
-
-$\blacksquare$
+(2) Multiply the first equation by $12$: $8x+9y=17$; multiply the second by $6$: $x-3y=-2$, i.e. $x=3y-2$. Substitute: $8\left(3y-2\right)+9y=17$, i.e. $33y=33$, $y=1$, $x=1$. $\blacksquare$
 
 ## Problem 2
 
-(Problem 6.1, Review and Consolidation, Problem 2) Viewing the cylinder, cone, and sphere from the front, the left, and the top respectively, what plane figures do you obtain?
+(Exercise 10.3, Review and Consolidation, Problem 2) Members of an outdoor sports club completed a two-day hike. The hiking times on the two days were $8\ \text{h}$ and $10\ \text{h}$ respectively, they walked $98\ \text{km}$ in total, and the first day was $2\ \text{km}$ shorter than the second. What were the average hiking speeds on the two days respectively?
 
 ### Solution to Problem 2
 
-By Plane Figure, view each solid figure from the three directions.
+Let $x\ \text{km}$ be the first day and $y\ \text{km}$ the second day. According to the problem,
 
-(1) Cylinder: front and left are rectangles, top is a circle.
+$$
+\begin{cases}
+x+y=98,\\
+y-x=2.
+\end{cases}
+$$
 
-(2) Cone: front and left are isosceles triangles, top is a circle with its center.
-
-(3) Sphere: all three directions are circles.
-
-$\blacksquare$
+Solving gives $x=48$, $y=50$. First-day average speed $\frac{48}{8}=6\ \text{km/h}$, second-day average speed $\frac{50}{10}=5\ \text{km/h}$. $\blacksquare$
 
 ## Problem 3
 
-(Problem 6.1, Review and Consolidation, Problem 3) Which of the following plane figures, when rotated one full turn about an axis, produces the solid figure shown (a frustum of a cone)? (A: trapezoid with concave curved sides, B: trapezoid with convex curved sides, C: right trapezoid, D: hyperbola-shaped concave strip)
+(Exercise 10.3, Review and Consolidation, Problem 3) From *Algorithms Unified*: seven guests per room leaves seven guests over; nine guests per room leaves one room empty. How many guest rooms does the inn have, and how many guests arrived?
 
 ### Solution to Problem 3
 
-By A Moving Plane Forms a Solid, a plane figure rotated about an axis forms a solid figure.
+Let $x$ be the guest rooms and $y$ the guests. According to the problem,
 
-The target solid is a frustum of a cone (circular truncated cone), whose lateral side is a straight line. The plane figure that, rotated about the axis, produces a circular truncated cone should be a right trapezoid (one side perpendicular to the axis, one side parallel to the axis, and one slanted side). Hence figure (C), the right trapezoid, rotated one full turn about the axis, produces a circular truncated cone.
+$$
+\begin{cases}
+7x+7=y,\\
+9\left(x-1\right)=y.
+\end{cases}
+$$
 
-$\blacksquare$
+$7x+7=9x-9$, giving $x=8$, $y=63$. Thus there are $8$ guest rooms and $63$ guests. $\blacksquare$
 
 ## Problem 4
 
-(Problem 6.1, Review and Consolidation, Problem 4) Match each solid figure with its net by drawing lines.
+(Exercise 10.3, Review and Consolidation, Problem 4) A port terminal uses type A and type B robots to move cargo. In $24\ \text{h}$, $3$ type A robots and $2$ type B robots move $450\ \text{t}$ of cargo in total, and each type A robot moves $25\ \text{t}$ more than a type B robot. What are the $24\ \text{h}$ cargo-moving amounts of each type A and type B robot respectively?
 
 ### Solution to Problem 4
 
-By Net, match according to the unfolded shape of each solid figure.
+Let $x\ \text{t}$ be moved in $24\ \text{h}$ by each type A robot and $y\ \text{t}$ by type B. According to the problem,
 
-The nets in the top row, left to right: rectangle with triangles on two sides (net of triangular prism), sector plus small circle (net of cone), cross of six squares (net of cube), rectangle with circles on two sides (net of cylinder).
+$$
+\begin{cases}
+x=y+25,\\
+3x+2y=450.
+\end{cases}
+$$
 
-The solids in the bottom row, left to right: cylinder, cube, triangular prism, cone.
-
-Corresponding matches: triangular prism ↔ rectangle with triangles on two sides; cone ↔ sector plus circle; cube ↔ six squares; cylinder ↔ rectangle plus circles on two sides. $\blacksquare$
+Substitute: $3\left(y+25\right)+2y=450$, i.e. $5y=375$, $y=75$, $x=100$. Thus type A is $100\ \text{t}$ and type B is $75\ \text{t}$. $\blacksquare$
 
 ## Problem 5
 
-(Problem 6.1, Review and Consolidation, Problem 5) As shown, a square of side $5\ \text{cm}$ is rotated one full turn about the line of one of its sides; what is the resulting geometric solid? Viewed from the front, what is the shape of the figure obtained? What is its area?
+(Exercise 10.3, Comprehensive Application, Problem 5) As shown in the figure, the school plans to design horizontal and vertical paths parallel to $AD$ and $AB$ respectively on a rectangular field $ABCD$ of length $18\ \text{m}$ and width $13\ \text{m}$, with turf laid on the rest. If the paths have equal width and the six lawn patches are identical in shape and size, and on one lawn patch the two sides satisfy $AM:AN=8:9$, what is the width of the path?
+
+The figure shows a rectangular field $ABCD$ measuring $18\,\text{m}$ by $13\,\text{m}$, with horizontal and vertical paths parallel to $AD$ and $AB$ dividing it into six lawn sections of identical shape and size.
 
 ### Solution to Problem 5
 
-By A Moving Plane Forms a Solid and Plane Figure.
+Let the path width be $d\ \text{m}$, each lawn patch width $w\ \text{m}$, and height $h\ \text{m}$. There are $2$ vertical paths horizontally and $1$ horizontal path vertically. By the problem $AM:AN=w:h=8:9$, so let $w=8k$, $h=9k$.
 
-The square rotated about one side as axis produces a cylinder, with base radius $5\ \text{cm}$ and height $5\ \text{cm}$.
+Field width $18\ \text{m}$: $3w+2d=18$; field height $13\ \text{m}$: $2h+d=13$.
 
-Viewing this cylinder from the front gives a rectangle of sides $5\ \text{cm}$ and $10\ \text{cm}$ (one side of the rectangle is the cylinder height $5\ \text{cm}$, the other is the base diameter $10\ \text{cm}$).
-
-The area of this rectangle $=5\times10=50\ \text{cm}^{2}$.
-
-$\blacksquare$
+Substitute: $24k+2d=18$, $18k+d=13$. From the second equation $d=13-18k$; substitute into the first: $24k+2\left(13-18k\right)=18$, i.e. $-12k=-8$, $k=\frac{2}{3}$, so $d=13-18\times\frac{2}{3}=1$. The path width is $1\ \text{m}$. $\blacksquare$
 
 ## Problem 6
 
-(Problem 6.1, Review and Consolidation, Problem 6) As shown in figures (1) to (6), are these all nets of a cube?
+(Exercise 10.3, Comprehensive Application, Problem 6) An advertising company makes display boards, brochures, and banners; the number of brochures is $5$ times the number of display boards. The time required and profit for each product are as follows: display board $1\ \text{h}$ each, profit $60$ yuan; brochure $0.2\ \text{h}$ each, profit $3.5$ yuan; banner $0.5\ \text{h}$ each, profit $20$ yuan. If making the three products takes $25\ \text{h}$ in total and the profit is $975$ yuan, find the total number of the three products.
 
 ### Solution to Problem 6
 
-By Net, judge whether each figure can be folded into a cube.
+Let $x$ be the display boards; then brochures are $5x$ and banners $z$. According to the problem,
 
-A cube's net has $11$ basic types; a field-shaped or L-shaped four-cell structure must not appear.
+$$
+\begin{cases}
+x+0.2\cdot5x+0.5z=25,\\
+60x+3.5\cdot5x+20z=975.
+\end{cases}
+$$
 
-Figure (1) cross shape (four cells in a horizontal row in the middle, one cell above and one below) → is a net of a cube (1-4-1 type).
+Simplify: $2x+0.5z=25$, i.e. $z=50-4x$; $77.5x+20z=975$. Substitute: $77.5x+20\left(50-4x\right)=975$, i.e. $-2.5x=-25$, $x=10$, $z=10$. Brochures are $50$.
 
-Figure (2) step shape (two cells protruding right on top, two cells in a horizontal row in the middle, one cell protruding left below) → is a net of a cube (1-3-2 type).
-
-Figure (3) T shape (three cells vertically, four cells horizontally below) → is not; three vertical cells plus four horizontal cells total $7$ cells, exceeding six faces.
-
-Figure (4) slanted step shape (four cells arranged diagonally) → is a net of a cube (2-2-2 type).
-
-Figure (5) offset cross shape → is a net of a cube (1-3-2 type).
-
-Figure (6) cross shape (four cells in a horizontal row in the middle, one above and two below) → is a net of a cube (1-4-1 type).
-
-Hence figure (3) is not a net of a cube, while the rest (1)(2)(4)(5)(6) all are. $\blacksquare$
+The total number is $10+50+10=70$. $\blacksquare$
 
 ## Problem 7
 
-(Problem 6.1, Comprehensive Application, Problem 8) As shown, in a cube net the first row writes "China" "country" "dream", and the second row writes "I" "my" "dream" (the second row starts from the second column). After folding into a cube, what is the character on the face opposite to the face with "my"?
+(Exercise 10.3, Comprehensive Application, Problem 7) A stationery store sells type A and type B writing brushes: type A up to $20$ brushes at retail price, and beyond that $0.4$ yuan cheaper per brush; type B up to $15$ brushes at retail price, and beyond that $0.6$ yuan cheaper per brush. A group of $20$ students each buys $1$ type A and $2$ type B, paying $325$ yuan in total; each buys $2$ type A and $1$ type B, paying $309$ yuan in total. What are the retail prices of type A and type B brushes?
 
 ### Solution to Problem 7
 
-By Net, determine the opposite relations among the faces in the net.
+Let $a$ yuan be the retail price of type A and $b$ yuan that of type B.
 
-Net layout: the three cells of the first row are "China" "country" "dream"; the three cells of the second row are "I" "my" "dream" (starting from the second column).
+First purchase: $20$ type A in total (exactly up to $20$, all at retail), $40$ type B (beyond $15$, of which $15$ at $b$ and $25$ at $b-0.6$). Cost $20a+15b+25\left(b-0.6\right)=325$, i.e. $a+2b=17$.
 
-After folding into a cube, "country" and "my" are opposite (same column, separated by one row), "China" and "dream" (third cell of the first row) are opposite, and "I" and "dream" (third cell of the second row) are opposite. Hence the character on the face opposite to the "my" face is "country". $\blacksquare$
+Second purchase: $40$ type A in total (of which $20$ at $a$ and $20$ at $a-0.4$), $20$ type B (of which $15$ at $b$ and $5$ at $b-0.6$). Cost $20a+20\left(a-0.4\right)+15b+5\left(b-0.6\right)=309$, i.e. $2a+b=16$.
+
+Solving: $a+2b=17$, $2a+b=16$, giving $a=5$, $b=6$. Thus type A retail price is $5$ yuan and type B is $6$ yuan. $\blacksquare$
 
 ## Problem 8
 
-(Problem 6.1, Comprehensive Application, Problem 9) As shown, what can each of the following figures be folded into? (Four nets: rectangle with a circle at each end, rectangle with a pentagon at each end, semicircle plus circle, Y-shape of three quadrilaterals)
+(Exercise 10.3, Comprehensive Application, Problem 8) A supermarket's accounts: one day sold $39$ toothbrushes and $21$ boxes of toothpaste, revenue $396$ yuan; another day at the same prices sold $52$ toothbrushes and $28$ boxes of toothpaste, revenue $518$ yuan. Is this record erroneous?
 
 ### Solution to Problem 8
 
-By Net, judge the folded solid figure from each net.
+Let $x$ yuan be each toothbrush and $y$ yuan each box of toothpaste. According to the problem,
 
-The first (rectangle with a circle at each end): folds into a cylinder.
+$$
+\begin{cases}
+39x+21y=396,\\
+52x+28y=518.
+\end{cases}
+$$
 
-The second (rectangle with a pentagon at each end): folds into a pentagonal prism.
+Divide the first equation by $3$: $13x+7y=132$. Divide the second by $4$: $13x+7y=129.5$.
 
-The third (semicircle plus circle): folds into a cone.
-
-The fourth (Y-shape of three quadrilaterals sharing a vertex): folds into a triangular prism.
-
-$\blacksquare$
+The left sides are the same but the right sides are $132\ne129.5$, a contradiction; thus the record is erroneous. $\blacksquare$
 
 ## Problem 9
 
-(Problem 6.1, Comprehensive Application, Problem 9) As shown, a rectangular box has length, width, and height $a$, $b$, and $c$ respectively. An ant crawls along the surface from vertex $A$ to the opposite vertex $B$; find the length of the shortest path.
+(Exercise 10.3, Extension and Exploration, Problem 9) Create a word problem with practical meaning such that its unknowns satisfy the system $\begin{cases}2x+3y=21,\\3x+4y=29.\end{cases}$ and solve the problem.
 
 ### Solution to Problem 9
 
-By Net, unfold the sides of the box into a plane figure and then find the shortest path.
+Example: buying $2$ fountain pens and $3$ notebooks costs $21$ yuan in total; buying $3$ fountain pens and $4$ notebooks costs $29$ yuan in total. Find the unit prices of the pen and the notebook.
 
-Unfold two adjacent faces of the box into the same plane; then the shortest path is the hypotenuse of a right triangle. There are three ways to unfold:
+Let $x$ yuan be the pen and $y$ yuan the notebook. Multiply the first equation by $3$: $6x+9y=63$; multiply the second by $2$: $6x+8y=58$; subtracting gives $y=5$; substituting back $2x+15=21$, $x=3$. Thus each fountain pen is $3$ yuan and each notebook is $5$ yuan. $\blacksquare$
 
-(1) Unfold the front and top: the legs are $\left(a+b\right)$ and $c$, and the path is $\sqrt{\left(a+b\right)^{2}+c^{2}}$.
+## Exercise 2
 
-(2) Unfold the front and right side: the legs are $a$ and $\left(b+c\right)$, and the path is $\sqrt{a^{2}+\left(b+c\right)^{2}}$.
+(Exercise 10.4, Problem 1) Solve the following systems of linear equations in three variables:
 
-(3) Unfold the left side and top: the legs are $\left(a+c\right)$ and $b$, and the path is $\sqrt{\left(a+c\right)^{2}+b^{2}}$.
+(1) $\begin{cases}x-2y=-9,\\y-z=3,\\2z+x=47;\end{cases}$
 
-Taking the smallest of the three gives the shortest path. $\blacksquare$
+(2) $\begin{cases}4x-9z=17,\\3x+y+15z=18,\\x+2y+3z=2;\end{cases}$
+
+(3) $\begin{cases}x+y=3,\\y+z=4,\\z+x=5;\end{cases}$
+
+(4) $\begin{cases}3x-y+z=4,\\2x+3y-z=12,\\x+y+z=6.\end{cases}$
+
+### Solution to Exercise 2
+
+By Solving a System of Linear Equations in Three Variables, first eliminate variables to reduce to a two-variable system.
+
+(1) From $y=z+3$, $x=2y-9=2z-3$; substitute into the third equation: $2z+2z-3=47$, giving $z=12.5$, $y=15.5$, $x=22$.
+
+(2) Multiply the second equation by $2$ and subtract the third: $5x+27z=34$. Also from the first equation $x=\frac{17+9z}{4}$; substitute and multiply by $4$: $5\left(17+9z\right)+108z=136$, giving $z=\frac{1}{3}$, $x=5$; substituting back into the second equation $15+y+5=18$, $y=-2$.
+
+(3) Add the three equations: $2\left(x+y+z\right)=12$, i.e. $x+y+z=6$; subtract the original equations respectively to get $z=3$, $x=2$, $y=1$.
+
+(4) Add the first and second equations: $5x+2y=16$; add the second and third: $3x+4y=18$. Multiply the first by $2$ and subtract the second: $7x=14$, $x=2$, $y=3$, $z=6-2-3=1$. $\blacksquare$
+
+## Exercise 3
+
+(Exercise 10.4, Problem 2) The sum of three numbers, A, B, C, is $35$; $2$ times number A is $5$ greater than number B; $\frac{1}{3}$ of number B equals $\frac{1}{2}$ of number C. Find the three numbers.
+
+### Solution to Exercise 3
+
+Let A, B, C be $x$, $y$, $z$ respectively. According to the problem,
+
+$$
+\begin{cases}
+x+y+z=35,\\
+2x=y+5,\\
+\frac{y}{3}=\frac{z}{2}.
+\end{cases}
+$$
+
+From $y=2x-5$, $z=\frac{2y}{3}=\frac{2\left(2x-5\right)}{3}$; substitute into the first equation and multiply by $3$: $3x+3\left(2x-5\right)+2\left(2x-5\right)=105$, giving $x=10$, $y=15$, $z=10$. Thus A is $10$, B is $15$, C is $10$. $\blacksquare$
+
+## Exercise 4
+
+(Exercise 10.4, Problem 3) In the equation $z=ax+by+c$, when $x=1$, $y=2$, $z=8$; when $x=2$, $y=1$, $z=5$; when $x=-1$, $y=-1$, $z=4$. Find the values of $a$, $b$, $c$.
+
+### Solution to Exercise 4
+
+Substituting gives
+
+$$
+\begin{cases}
+a+2b+c=8,\\
+2a+b+c=5,\\
+-a-b+c=4.
+\end{cases}
+$$
+
+Subtract the second from the first: $-a+b=3$; subtract the third from the second: $3a+2b=1$. From $b=a+3$, substitute: $3a+2\left(a+3\right)=1$, giving $a=-1$, $b=2$; substituting back into the third equation $1-2+c=4$, $c=5$. Thus $a=-1$, $b=2$, $c=5$. $\blacksquare$
 
 ## Problem 10
 
-(Problem 6.1, Extension and Exploration, Problem 10) Can you fold a square piece of paper into a triangular pyramid? Try it by hand.
+(Exercise 10.4, Review and Consolidation, Problem 1) Solve the following systems of linear equations in three variables:
+
+(1) $\begin{cases}y=2x-7,\\5x+3y+2z=2,\\3x-4z=4;\end{cases}$
+
+(2) $\begin{cases}4x+9y=12,\\3y-2z=1,\\7x+5z=\frac{19}{4}.\end{cases}$
 
 ### Solution to Problem 10
 
-By Net and the symmetry of folding.
+(1) Substitute $y=2x-7$: $5x+3\left(2x-7\right)+2z=2$, i.e. $11x+2z=23$. Together with the third equation $3x-4z=4$, multiply the first by $2$ and add the second: $25x=50$, $x=2$, $y=-3$, $z=0.5$.
 
-Fold the four corners of the square paper toward the center so that the four corner vertices meet at the center of the square. After folding, the four triangular faces form the lateral faces of a square pyramid with the center as the apex and the four sides of the square as the bases. If the square is folded twice along its two diagonals, then cut along the creases and unfolded, one obtains a net made of four triangular faces forming a triangular pyramid.
-
-$\blacksquare$
+(2) From the second equation $y=\frac{1+2z}{3}$; substitute into the first: $4x+6z=9$. Together with the third equation $7x+5z=\frac{19}{4}$, multiply the first by $5$ and the second by $6$ and subtract: $-22x=\frac{33}{2}$, $x=-\frac{3}{4}$; substituting back $-3+6z=9$, $z=2$, $y=\frac{5}{3}$. $\blacksquare$
 
 ## Problem 11
 
-(Problem 6.1, Extension and Exploration, Problem 11) Cutting a cube with a plane, how many sides can the cross section have? Draw the shape of the cross section.
+(Exercise 10.4, Review and Consolidation, Problem 2) Solve the following systems of linear equations in three variables:
+
+(1) $\begin{cases}\frac{x}{2}=\frac{y}{3}=\frac{z}{4},\\2x-y+2z=27;\end{cases}$
+
+(2) $\begin{cases}2x+4y+3z=9,\\3x-2y+5z=11,\\5x-6y+7z=13.\end{cases}$
 
 ### Solution to Problem 11
 
-By Plane Figure, the cross section is the plane figure obtained by the intersection of the plane with the cube's surface.
+(1) Let $\frac{x}{2}=\frac{y}{3}=\frac{z}{4}=k$; then $x=2k$, $y=3k$, $z=4k$. Substitute: $4k-3k+8k=27$, giving $k=3$, so $x=6$, $y=9$, $z=12$.
 
-The plane intersects the cube's faces; each face it intersects gives one edge. The cube has six faces, so the cross section intersects at most six faces and is at most a hexagon. The cross section can be a triangle (equilateral, isosceles, or scalene), a quadrilateral (square, rectangle, or trapezoid), a pentagon, or a hexagon.
-
-The figure shows the various possible cross sections obtained by cutting a cube with a plane: a triangle (equilateral, isosceles, or scalene), a quadrilateral (square, rectangle, or trapezoid), a pentagon, and a hexagon.
-
-$\blacksquare$
+(2) Multiply the second equation by $3$ and subtract the third: $4x+8z=20$, i.e. $x+2z=5$. Multiply the second by $2$ and add the first: $8x+13z=31$. From $x=5-2z$, substitute: $8\left(5-2z\right)+13z=31$, giving $z=3$, $x=-1$; substituting back into the second equation $-3-2y+15=11$, $y=\frac{1}{2}$. $\blacksquare$
 
 ## Problem 12
 
-(Problem 6.1, Extension and Exploration, Problem 11) As in figure (1), the net has four cells in a vertical column on the left (the third cell bears a red star), and three cells in a horizontal row on the right. Of the three cubes on the right (A: red star at upper-left of the front face, B: front face has a horizontal center line, C: front face has both horizontal and vertical center lines), which could be folded from this net?
+(Exercise 10.4, Comprehensive Application, Problem 3) In the equation $y=ax^2+bx+c$, when $x=1$, $y=-2$; when $x=-1$, $y=20$; when $x=\frac{3}{2}$ and $x=\frac{1}{3}$, the values of $y$ are equal. Find the values of $a$, $b$, $c$.
 
 ### Solution to Problem 12
 
-By Net, judge the visible faces of the folded cube from the pattern on the net.
+Substituting gives $a+b+c=-2$, $a-b+c=20$; subtracting the two equations: $2b=-22$, $b=-11$.
 
-In the net, the red star is in the third cell of the left vertical column. After folding, the face bearing the star is adjacent to the three horizontal cells. Since the left vertical column has four cells, after folding they form a set of lateral faces of the cube, and the star lies in the middle of a lateral face.
+Since $y$ is equal at $x=\frac{3}{2}$ and $x=\frac{1}{3}$, the axis of symmetry of the parabola is $x=\frac{1}{2}\left(\frac{3}{2}+\frac{1}{3}\right)=\frac{11}{12}$, i.e. $-\frac{b}{2a}=\frac{11}{12}$, giving $a=6$. Substituting back $6-11+c=-2$, $c=3$. Thus $a=6$, $b=-11$, $c=3$. $\blacksquare$
 
-Option A has the star at the upper-left of the front face, which does not match the star's position in the net (middle of a lateral face), so it is ruled out.
+## Problem 13
 
-Option B has a horizontal center line on the front face, corresponding to the edge formed after the common boundary of adjacent faces is folded. Option C has both a horizontal and a vertical center line, corresponding to the common edge of two adjacent faces.
+(Exercise 10.4, Comprehensive Application, Problem 4) A three-digit number: the tens digit equals $2$ times the hundreds digit; $3$ times the hundreds digit minus the units digit equals $\frac{1}{4}$ of the tens digit; and the sum of the digits is $11$. Find this three-digit number.
 
-After this net is folded, the two faces adjacent to the star face have edges along the fold lines, so a horizontal edge line can be seen from the front. Hence both options B and C could be folded from this net.
+### Solution to Problem 13
 
-$\blacksquare$
+Let the hundreds, tens, and units digits be $x$, $y$, $z$ respectively. According to the problem $y=2x$, $3x-z=\frac{y}{4}=\frac{x}{2}$, $x+y+z=11$.
 
-## Picture-Telling Math History 1
+From the second equation $z=3x-\frac{x}{2}=\frac{5}{2}x$; substitute into the third: $x+2x+\frac{5}{2}x=11$, giving $x=2$, $y=4$, $z=5$. Thus this three-digit number is $245$. $\blacksquare$
 
-(Picture-Telling Math History: The Origins of Geometry) How did geometric knowledge arise from human production and daily life?
+## Problem 14
 
-### Solution to Picture-Telling Math History 1
+(Exercise 10.4, Extension and Exploration, Problem 5) The total distance from point A to point B is $3.3\ \text{km}$, consisting of an uphill section, a level section, and a downhill section. Keeping uphill at $3\ \text{km}$ per hour, level at $4\ \text{km}$ per hour, and downhill at $5\ \text{km}$ per hour, going from A to B takes $51\ \text{min}$, and returning from B to A takes $53.4\ \text{min}$. Going from A to B, what are the distances of the uphill, level, and downhill sections respectively?
 
-By Points, Lines, Planes, and Solids, geometry originates from human abstraction of the shapes, sizes, and positional relations of objects in the real world.
+### Solution to Problem 14
 
-After the Nile flooded in ancient Egypt, land had to be re-surveyed, giving rise to methods of land measurement; in ancient China, farming required measuring field areas and setting calendars, accumulating rich geometric knowledge. Geometry gradually arose and developed from these practical needs. $\blacksquare$
+Let the uphill, level, and downhill sections be $x$, $y$, $z\ \text{km}$ respectively. According to the problem,
+
+$$
+\begin{cases}
+x+y+z=3.3,\\
+\frac{x}{3}+\frac{y}{4}+\frac{z}{5}=\frac{51}{60},\\
+\frac{z}{3}+\frac{y}{4}+\frac{x}{5}=\frac{53.4}{60}.
+\end{cases}
+$$
+
+Subtract the latter two equations: $\left(x-z\right)\left(\frac{1}{3}-\frac{1}{5}\right)=-0.04$, giving $x-z=-0.3$. Add the latter two equations: $\frac{8}{15}\left(x+z\right)+\frac{y}{2}=1.74$.
+
+From $x=z-0.3$, $y=3.6-2z$, substitute: $\left(2z-0.3\right)\frac{8}{15}+\frac{3.6-2z}{2}=1.74$, giving $z=1.5$, $x=1.2$, $y=0.6$. Thus uphill is $1.2\ \text{km}$, level is $0.6\ \text{km}$, downhill is $1.5\ \text{km}$. $\blacksquare$
+
+## Illustrated History of Mathematics 1
+
+(Illustrated History of Mathematics: Ancient Chinese Linear Systems) In the chapter "Fangcheng" of the *Nine Chapters on the Mathematical Art*, the direct division method is used to solve the system of three linear equations $\begin{cases}3x+2y+z=39,\\2x+3y+z=34,\\x+2y+3z=26.\end{cases}$ Try to solve this system.
+
+### Solution to Illustrated History of Mathematics 1
+
+By Solving a System of Linear Equations in Three Variables. Subtract the second from the first: $x-y=5$.
+
+Multiply the second equation by $3$ and subtract the first and third: $3\left(2x+3y+z\right)-\left(3x+2y+z\right)-\left(x+2y+3z\right)=3\times34-39-26=37$, giving $2x+5y-2z=37$. Switching the elimination: the approach of subtracting $3$ times the third equation from the first is more cumbersome, so substitute directly: from $x=y+5$, substitute into the first equation: $3\left(y+5\right)+2y+z=39$, i.e. $5y+z=24$. Substitute into the third: $\left(y+5\right)+2y+3z=26$, i.e. $3y+3z=21$, $y+z=7$.
+
+Solving $5y+z=24$, $y+z=7$; subtracting gives $4y=17$, $y=\frac{17}{4}$. Then $z=7-\frac{17}{4}=\frac{11}{4}$, $x=\frac{37}{4}$. Thus $x=\frac{37}{4}$, $y=\frac{17}{4}$, $z=\frac{11}{4}$. $\blacksquare$
+
+## Reading and Thinking 1
+
+(Reading and Thinking: Five Families Sharing a Well) Now there are five families sharing a well: family A's two ropes fall short by family B's one rope; family B's three ropes fall short by family C's one rope; family C's four ropes fall short by family D's one rope; family D's five ropes fall short by family E's one rope; family E's six ropes fall short by family A's one rope; and each family, adding the missing rope, just reaches the water. Let the rope lengths of the five families in order be $x$, $y$, $z$, $u$, $v$, and the well depth be $h$; then $\begin{cases}2x+y=h,\\3y+z=h,\\4z+u=h,\\5u+v=h,\\6v+x=h.\end{cases}$ Express $x$, $y$, $z$, $u$, $v$ all in terms of $h$.
+
+### Solution to Reading and Thinking 1
+
+By analogy with Solving a System of Linear Equations in Three Variables, substitute equation by equation.
+
+From $y=h-2x$. From $z=h-3y=h-3\left(h-2x\right)=6x-2h$. From $u=h-4z=h-4\left(6x-2h\right)=9h-24x$. From $v=h-5u=h-5\left(9h-24x\right)=120x-44h$. Substitute into the last equation: $6v+x=h$, i.e. $6\left(120x-44h\right)+x=h$, giving $721x=265h$, $x=\frac{265}{721}h$.
+
+Substituting back in order: $y=\frac{191}{721}h$, $z=\frac{148}{721}h$, $u=\frac{129}{721}h$, $v=\frac{73}{721}h$. $\blacksquare$
+
+## Activity 1
+
+(Mathematical Activity, Activity 1, Problem 1) In the rectangular coordinate system, mark some points whose coordinates are the solutions of the equation $x-y=0$; draw a line through any two of these points. What do you discover? Take any point on this line; are its coordinates a solution of the equation $x-y=0$?
+
+The figure shows a Cartesian coordinate plane with several points whose coordinates are solutions of the equation $x-y=0$; all these points lie on the line $y=x$.
+
+### Solution to Activity 1
+
+By Solution of a Linear Equation in Two Variables, the equation $x-y=0$ is $y=x$; it has infinitely many solutions, such as $\left(0,0\right)$, $\left(1,1\right)$, $\left(-1,-1\right)$, $\left(2,2\right)$, etc.
+
+Plotting these solutions as coordinates in the system, we find they all lie on the same line, which is $y=x$ (the angle bisector of the first and third quadrants). By the determinacy of a line, the line drawn through any two of them is this very line.
+
+Take any point on this line; its x-coordinate equals its y-coordinate, i.e. it satisfies $x-y=0$; thus the coordinates of this point are still a solution of the equation $x-y=0$. $\blacksquare$
+
+## Activity 2
+
+(Mathematical Activity, Activity 1, Problem 2) Based on the conclusion of the previous problem, in the same rectangular coordinate system draw the graphs of the two linear equations in the system
+
+$$
+\begin{cases}
+2x+y=4,\\
+x-y=-1
+\end{cases}
+$$
+
+and obtain the solution of this system from the graphs.
+
+The figure shows a Cartesian coordinate plane with the line $y=4-2x$ (through $\left(0,4\right)$ and $\left(2,0\right)$) and the line $y=x+1$ (through $\left(0,1\right)$ and $\left(1,2\right)$); the two lines intersect at the point $\left(1,2\right)$.
+
+### Solution to Activity 2
+
+The equation $2x+y=4$ is $y=4-2x$; take two points $\left(0,4\right)$, $\left(2,0\right)$ and connect them. The equation $x-y=-1$ is $y=x+1$; take two points $\left(0,1\right)$, $\left(1,2\right)$ and connect them.
+
+By Solution of a System of Linear Equations in Two Variables, the solution of the system is the common solution of the two equations, which on the graph is the intersection of the two lines. The two lines intersect at $\left(1,2\right)$, so the solution of the system is $\begin{cases}x=1,\\y=2.\end{cases}$
+
+Check by substitution: $2\times1+2=4$, $1-2=-1$, both hold. $\blacksquare$
+
+## Activity 3
+
+(Mathematical Activity, Activity 2, Problem 1) A car's front tire wears out after $60000\ \text{km}$ and the rear tire after $80000\ \text{km}$. If the front and rear tires are swapped only once during their service life, at what mileage should they be swapped so that both pairs wear out at the same time? Also find the total mileage when they wear out.
+
+### Solution to Activity 3
+
+Let $x\ \text{km}$ be the mileage at swap and $y\ \text{km}$ the total mileage when worn out. By Solving Word Problems by Setting Up a System of Equations, the front tire serves as the front tire for the first $x\ \text{km}$ and as the rear tire for the last $y-x\ \text{km}$; the rear tire serves as the rear tire for the first $x\ \text{km}$ and as the front tire for the last $y-x\ \text{km}$.
+
+Total wear of the front tire: $\frac{x}{60000}+\frac{y-x}{80000}=1$.
+
+Total wear of the rear tire: $\frac{x}{80000}+\frac{y-x}{60000}=1$.
+
+Subtracting the two equations gives $\frac{x}{60000}+\frac{y-x}{80000}=\frac{x}{80000}+\frac{y-x}{60000}$, simplifying to $y=2x$.
+
+Substitute into the first equation: $\frac{x}{60000}+\frac{x}{80000}=1$, i.e. $\frac{7x}{240000}=1$, giving $x=\frac{240000}{7}\approx34286\ \text{km}$, $y=\frac{480000}{7}\approx68571\ \text{km}$.
+
+Thus the swap should occur at about $34286\ \text{km}$, and the total mileage when worn out is about $68571\ \text{km}$. $\blacksquare$

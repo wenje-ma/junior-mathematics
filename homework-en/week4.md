@@ -1,191 +1,447 @@
 # week4
 
-## Review Problem 1
+## Problem 1
 
-(Review Problem, Review and Consolidation, Problem 1) Fill in the blanks.
+(Exercise 2.1, Extension and Exploration, Problem 11) Fill in the blanks.
 
-(1) If a temperature rise of $3\,^\circ\text{C}$ is recorded as $+3\,^\circ\text{C}$, then a drop of $2\,^\circ\text{C}$ is recorded as $\;\_\_\;^\circ\text{C}$;
+(1) $\;\_\_\;+11=27$;
 
-(2) If income is represented by a positive number and expenditure by a negative number, then $-56$ yuan represents $\;\_\_\;$ yuan.
+(2) $7+\;\_\_\;=4$;
 
-### Solution to Review Problem 1
+(3) $\left(-9\right)+\;\_\_\;=9$;
 
-By Representing Quantities of Opposite Meaning, rise and fall, and income and expenditure, are quantities of opposite meaning.
+(4) $12+\;\_\_\;=0$;
 
-(1) Since a rise is taken as positive, a fall is taken as negative; hence a drop of $2\,^\circ\text{C}$ is recorded as $-2\,^\circ\text{C}$.
+(5) $\left(-8\right)+\;\_\_\;=-15$;
 
-(2) Since income is taken as positive, expenditure is taken as negative; hence $-56$ yuan represents an expenditure of $56$ yuan. $\blacksquare$
+(6) $\;\_\_\;+\left(-13\right)=-6$.
 
-## Review Problem 2
+### Solution to Problem 1
 
-(Review Problem, Review and Consolidation, Problem 2) Represent the following numbers on the number line, arrange these numbers in order from smallest to largest, and then connect them with "$< $":
+By Rules for Addition of Rational Numbers, the unknown addend equals the sum minus the known addend.
 
-$$3,\ -4,\ 0,\ 2,\ -2,\ -1.$$
+(1) $27-11=16$; (2) $4-7=-3$; (3) $9-\left(-9\right)=18$;
 
-On a number line with origin $0$, rightward as the positive direction, and unit length $1$, mark the six points $3$, $-4$, $0$, $2$, $-2$, $-1$, arranged from left to right as $-4$, $-2$, $-1$, $0$, $2$, $3$.
+(4) $0-12=-12$; (5) $-15-\left(-8\right)=-7$; (6) $-6-\left(-13\right)=7$.
 
-### Solution to Review Problem 2
+Hence fill in in turn: $16$; $-3$; $18$; $-12$; $-7$; $7$. $\blacksquare$
 
-By Number Line and Comparing the Magnitude of Rational Numbers, a number on the left of the number line is smaller than a number on the right.
+## Problem 2
 
-Marking the numbers on the number line, from left to right they are $-4$, $-2$, $-1$, $0$, $2$, $3$. Hence arranged from smallest to largest:
+(Exercise 2.1, Extension and Exploration, Problem 12) Compute the value of each of the following:
 
-$$-4< -2< -1< 0< 2< 3.$$
+$$\left(-2\right)+\left(-2\right),\ \left(-2\right)+\left(-2\right)+\left(-2\right),\ \left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right),\ \left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right).$$
 
-$\blacksquare$
+Guess the value of the following: $\left(-2\right)\times 2$, $\left(-2\right)\times 3$, $\left(-2\right)\times 4$, $\left(-2\right)\times 5$. Can you further guess the rule for multiplying a negative number by a positive number?
 
-## Review Problem 3
+### Solution to Problem 2
 
-(Review Problem, Review and Consolidation, Problem 3) Write down respectively the opposite number and the absolute value of $-2$, $-5$, and $7.5$.
+By Rules for Addition of Rational Numbers.
 
-### Solution to Review Problem 3
+$$\left(-2\right)+\left(-2\right)=-4;$$
 
-By Opposite Numbers and Algebraic Meaning of Absolute Value.
+$$\left(-2\right)+\left(-2\right)+\left(-2\right)=-6;$$
 
-The opposite number of $-2$ is $2$, and $\left|-2\right|=2$; the opposite number of $-5$ is $5$, and $\left|-5\right|=5$; the opposite number of $7.5$ is $-7.5$, and $\left|7.5\right|=7.5$. $\blacksquare$
+$$\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)=-8;$$
 
-## Review Problem 4
+$$\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)=-10.$$
 
-(Review Problem, Review and Consolidation, Problem 4) Compare the magnitudes of each pair of numbers below:
+Adding several identical negative numbers is precisely that negative number multiplied by a positive integer, so we conjecture $\left(-2\right)\times 2=-4$, $\left(-2\right)\times 3=-6$, $\left(-2\right)\times 4=-8$, $\left(-2\right)\times 5=-10$. From this one may guess: when a negative number is multiplied by a positive number, the product is negative, and the absolute value of the product equals the product of the absolute values of the two numbers. $\blacksquare$
 
-(1) $+\left(-3\right)$ and $-\left(-4\right)$;
+## Problem 3
 
-(2) $-\left(-2\right)$ and $-\left|+2\right|$;
+(Exercise 2.1, Extension and Exploration, Problem 13) A road-maintenance team travels by car to patrol and maintain a north-south highway. One morning they set out from place $A$ and in the evening finally arrive at place $B$. Conventionally, northward is the positive direction, and that day's driving records (unit: $\text{km}$) are:
 
-(3) $+\left|-3\right|$ and $\left|-\left(+5\right)\right|$;
+$$+18,\ -9,\ +7,\ -14,\ -6,\ +13,\ -6,\ -8.$$
 
-(4) $-\left(+\frac{1}{2}\right)$ and $-\left|-\frac{1}{3}\right|$.
+Assume the car travels in a single direction under each driving record.
 
-### Solution to Review Problem 4
+(1) In which direction is place $B$ from place $A$? How far apart are they, in kilometers?
 
-First simplify, then compare by Comparing the Magnitude of Rational Numbers.
+(2) If the car consumes on average $a\ \text{L}$ of fuel per $1\ \text{km}$ driven, then how many liters of fuel did the car consume in total that day?
 
-(1) $+\left(-3\right)=-3$, $-\left(-4\right)=4$; a positive number is greater than a negative number, so $-3< 4$, that is, $+\left(-3\right)< -\left(-4\right)$.
+### Solution to Problem 3
 
-(2) $-\left(-2\right)=2$, $-\left|+2\right|=-2$; a positive number is greater than a negative number, so $2> -2$, that is, $-\left(-2\right)> -\left|+2\right|$.
+By Rules for Addition of Rational Numbers.
 
-(3) $+\left|-3\right|=3$, $\left|-\left(+5\right)\right|=\left|-5\right|=5$, so $3< 5$, that is, $+\left|-3\right|< \left|-\left(+5\right)\right|$.
+(1) The algebraic sum of the driving records is
 
-(4) $-\left(+\frac{1}{2}\right)=-\frac{1}{2}$, $-\left|-\frac{1}{3}\right|=-\frac{1}{3}$. Since $\left|-\frac{1}{2}\right|=\frac{1}{2}=\frac{3}{6}> \left|-\frac{1}{3}\right|=\frac{1}{3}=\frac{2}{6}$, we get $-\frac{1}{2}< -\frac{1}{3}$, that is, $-\left(+\frac{1}{2}\right)< -\left|-\frac{1}{3}\right|$. $\blacksquare$
+$$18-9+7-14-6+13-6-8=-5.$$
 
-## Review Problem 5
+The result is negative, so place $B$ is south of place $A$, and they are $5\ \text{km}$ apart.
 
-(Review Problem, Review and Consolidation, Problem 5) The table below shows the profits of a company over the four quarters of a certain year. Arrange them in order from highest to lowest.
+(2) The total distance traveled by the car is the sum of the absolute values of the records:
 
-First quarter $-6.8$ ten thousand yuan, second quarter $-10.7$ ten thousand yuan, third quarter $31.5$ ten thousand yuan, fourth quarter $27.8$ ten thousand yuan.
+$$\left|18\right|+\left|-9\right|+\left|7\right|+\left|-14\right|+\left|-6\right|+\left|13\right|+\left|-6\right|+\left|-8\right|=81.$$
 
-### Solution to Review Problem 5
+Hence the car consumed a total of $81a\ \text{L}$ of fuel that day. $\blacksquare$
 
-By Comparing the Magnitude of Rational Numbers, a positive number is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
+## Reading and Reflection 1
 
-The positive numbers are $31.5$, $27.8$, with $31.5> 27.8$. The negative numbers are $-6.8$, $-10.7$; since $\left|-6.8\right|=6.8< \left|-10.7\right|=10.7$, we get $-6.8> -10.7$.
+(Reading and Reflection, The Ancient Chinese Rules for Adding and Subtracting Positive and Negative Numbers — the Positive-Negative Method) Reading material: The "Equations" chapter of the Nine Chapters on the Mathematical Art proposed the "positive-negative method", namely the rules for adding and subtracting positive and negative numbers, which is the earliest rule for operating with positive and negative numbers in the world. This column is reading material on the history of mathematics and has no exercises.
 
-Hence arranged from highest to lowest:
+### Solution to Reading and Reflection 1
 
-$$31.5> 27.8> -6.8> -10.7.$$
+As can be seen from the material, ancient China was the first to systematically give the rules for adding and subtracting positive and negative numbers, the "positive-negative method", and distinguished positive and negative numbers by red and black counting rods. This is consistent with the idea embodied in Rules for Addition of Rational Numbers and Rules for Subtraction of Rational Numbers — "first determine the sign, then compute the absolute value" — and is an important achievement of ancient Chinese mathematics. $\blacksquare$
 
-That is, third quarter $> $ fourth quarter $> $ first quarter $> $ second quarter. $\blacksquare$
+## Exercise 1
 
-## Review Problem 6
+(Exercise 2.2, Problem 1) Compute:
 
-(Review Problem, Review and Consolidation, Problem 6) In a certain year, the growth rate of China's per-capita water resources compared with the previous year was $-5.6\%$. Over the following three years, the annual growth rates compared with the previous year were respectively $-4.0\%$, $13.0\%$, $-9.6\%$. Which of these growth rates is the smallest? What does a negative growth rate indicate?
+(1) $6\times\left(-9\right)$; (2) $\left(-4\right)\times 6$; (3) $\left(-6\right)\times\left(-1\right)$;
 
-### Solution to Review Problem 6
+(4) $\left(-6\right)\times 0$; (5) $\left(-4\right)\times\frac{1}{4}$; (6) $\frac{2}{3}\times\left(-\frac{9}{4}\right)$.
 
-By Comparing the Magnitude of Rational Numbers, for two negative numbers, the one with the larger absolute value is instead the smaller.
+### Solution to Exercise 1
 
-The four growth rates are $-5.6\%$, $-4.0\%$, $13.0\%$, $-9.6\%$. Among them, $13.0\%$ is positive and the rest are negative. Comparing the absolute values of the three negative numbers: $\left|-9.6\%\right|=9.6\%> \left|-5.6\%\right|=5.6\%> \left|-4.0\%\right|=4.0\%$, so $-9.6\%< -5.6\%< -4.0\%$.
+By Rules for Multiplication of Rational Numbers.
 
-Hence the smallest growth rate is $-9.6\%$. By Representing Quantities of Opposite Meaning, a positive growth rate indicates that per-capita water resources increased compared with the previous year, and a negative growth rate indicates that per-capita water resources decreased compared with the previous year. $\blacksquare$
+(1) $6\times\left(-9\right)=-54$; (2) $\left(-4\right)\times 6=-24$; (3) $\left(-6\right)\times\left(-1\right)=6$;
 
-## Review Problem 7
+(4) $\left(-6\right)\times 0=0$; (5) $\left(-4\right)\times\frac{1}{4}=-1$; (6) $\frac{2}{3}\times\left(-\frac{9}{4}\right)=-\frac{3}{2}$. $\blacksquare$
 
-(Review Problem, Comprehensive Application, Problem 7) Given that $x$ is an integer and $-3< x< 4$, represent on the number line all the numbers that $x$ can take.
+## Exercise 2
 
-On the number line, mark all the integer points strictly between $-3$ and $4$: $-2$, $-1$, $0$, $1$, $2$, $3$.
+(Exercise 2.2, Problem 2) A store sells a certain product at a reduced price, cutting $5$ yuan off each item, and sells $60$ items. Compared with selling the same number of items at the original price, what is the change in sales revenue?
 
-### Solution to Review Problem 7
+### Solution to Exercise 2
 
-By Integers and Fractions and Number Line, the integers $x$ satisfying $-3< x< 4$ are the integers strictly between $-3$ and $4$, namely
+By Rules for Multiplication of Rational Numbers, the price reduction per item is recorded as $-5$ yuan.
 
-$$x=-2,\ -1,\ 0,\ 1,\ 2,\ 3.$$
+$$\left(-5\right)\times 60=-300.$$
 
-Mark these $6$ points on the number line, as shown in the figure. $\blacksquare$
+Hence the sales revenue decreases by $300$ yuan. $\blacksquare$
 
-## Review Problem 8
+## Exercise 3
 
-(Review Problem, Comprehensive Application, Problem 8) The points representing the numbers $a$, $b$ on the number line are shown in the figure. Arrange $a$, $-a$, $b$, $-b$ in order from smallest to largest. The correct choice is ( ).
+(Exercise 2.2, Problem 3) Write down the reciprocal of each of the following:
 
-(A) $-b< -a< a< b$
+$$1,\ -1,\ \frac{1}{3},\ -\frac{1}{3},\ 5,\ -5,\ \frac{2}{3},\ -\frac{2}{3}.$$
 
-(B) $-a< -b< a< b$
+### Solution to Exercise 3
 
-(C) $-b< a< -a< b$
+By Reciprocal, two numbers whose product is $1$ are reciprocals of each other.
 
-(D) $-b< b< -a< a$
+The reciprocal of $1$ is $1$; the reciprocal of $-1$ is $-1$; the reciprocal of $\frac{1}{3}$ is $3$; the reciprocal of $-\frac{1}{3}$ is $-3$; the reciprocal of $5$ is $\frac{1}{5}$; the reciprocal of $-5$ is $-\frac{1}{5}$; the reciprocal of $\frac{2}{3}$ is $\frac{3}{2}$; the reciprocal of $-\frac{2}{3}$ is $-\frac{3}{2}$. $\blacksquare$
 
-On the number line, point $a$ is to the left of the origin and close to it, and point $b$ is to the right of the origin and far from it, that is, $a< 0< b$ and $\left|a\right|< \left|b\right|$.
+## Exercise 4
 
-### Solution to Review Problem 8
+(Exercise 2.2, Problem 1) Compute:
 
-By Number Line and Opposite Numbers, the figure shows $a< 0< b$, and the distance from point $a$ to the origin is less than the distance from point $b$ to the origin, that is, $\left|a\right|< \left|b\right|$.
+(1) $\left(-85\right)\times\left(-25\right)\times\left(-4\right)$;
 
-By Opposite Numbers, $-a> 0$, $-b< 0$, and $\left|-a\right|=\left|a\right|$, $\left|-b\right|=\left|b\right|$. On the number line, $-b$ is to the left of the origin and far from it, $a$ is to the left of the origin and close to it; $-a$ is to the right of the origin and close to it, and $b$ is to the right of the origin and far from it.
+(2) $\left(-\frac{7}{8}\right)\times 15\times\left(-1\frac{1}{7}\right)$;
 
-Hence arranged from smallest to largest:
+(3) $\left(\frac{9}{10}-\frac{1}{15}\right)\times 30$;
 
-$$-b< a< -a< b.$$
+(4) $\left(-\frac{6}{5}\right)\times\left(-\frac{2}{3}\right)+\left(-\frac{6}{5}\right)\times\left(+1\frac{3}{5}\right)$.
 
-Therefore choose (C). $\blacksquare$
+### Solution to Exercise 4
 
-## Review Problem 9
+By Associative Law of Multiplication and Distributive Law.
 
-(Review Problem, Extension and Exploration, Problem 9) As shown in the figure, $5$ volleyballs were tested, among which the number of grams exceeding the standard mass is recorded as a positive number.
+(1) The original expression $=\left(-85\right)\times\left[\left(-25\right)\times\left(-4\right)\right]=\left(-85\right)\times 100=-8500$.
 
-(1) What do $+5$, $-3.5$, $+0.7$, $-2.5$, $-0.6$ each mean?
+(2) The original expression $=\left(-\frac{7}{8}\right)\times\left(-\frac{8}{7}\right)\times 15=1\times 15=15$.
 
-(2) Which ball has the mass closest to the standard mass? Please explain why.
+(3) The original expression $=\frac{9}{10}\times 30-\frac{1}{15}\times 30=27-2=25$.
 
-### Solution to Review Problem 9
+(4) The original expression $=\left(-\frac{6}{5}\right)\times\left(-\frac{2}{3}+1\frac{3}{5}\right)=\left(-\frac{6}{5}\right)\times\frac{14}{15}=-\frac{28}{25}$. $\blacksquare$
 
-By Representing Quantities of Opposite Meaning, exceeding the standard mass is recorded as positive, and falling short of the standard mass is recorded as negative.
+## Exercise 5
 
-(1) $+5$ means the ball exceeds the standard mass by $5\ \text{g}$; $-3.5$ means it falls short of the standard mass by $3.5\ \text{g}$; $+0.7$ means it exceeds the standard mass by $0.7\ \text{g}$; $-2.5$ means it falls short of the standard mass by $2.5\ \text{g}$; $-0.6$ means it falls short of the standard mass by $0.6\ \text{g}$.
+(Exercise 2.2, Problem 2) Compute:
 
-(2) By Absolute Value, the smaller the absolute value of a number, the smaller its deviation from the standard mass. The absolute values of the deviations are $5$, $3.5$, $0.7$, $2.5$, $0.6$, among which $0.6$ is the smallest, so the ball recorded as $-0.6$ has the mass closest to the standard mass. $\blacksquare$
+(1) $\left(-\frac{5}{12}\right)\times\frac{8}{15}\times\frac{1}{2}\times\left(-\frac{2}{3}\right)$;
 
-## Review Problem 10
+(2) $\left(-1\right)\times\left(-\frac{5}{4}\right)\times\frac{8}{15}\times\frac{3}{2}\times\left(-\frac{2}{3}\right)\times 0\times\left(-1\right)$.
 
-(Review Problem, Extension and Exploration, Problem 10) (1) Are there negative numbers between $-1$ and $0$? What about between $0$ and $1$? If yes, give examples; if not, explain why.
+### Solution to Exercise 5
 
-(2) Are there negative integers between $-3$ and $-1$? Which integers lie between $-2$ and $2$?
+By Sign Rules for Multiplying Several Rational Numbers.
 
-(3) Is there a negative integer greater than $-1$?
+(1) There are two negative factors, so the product is positive: the original expression $=\frac{5}{12}\times\frac{8}{15}\times\frac{1}{2}\times\frac{2}{3}=\frac{2}{27}$.
 
-(4) Write down $3$ numbers that are less than $-100$ and greater than $-103$.
+(2) Since one of the factors is $0$, by Sign Rules for Multiplying Several Rational Numbers, the original expression $=0$. $\blacksquare$
 
-### Solution to Review Problem 10
+## Exercise 6
 
-By Rational Numbers and Integers and Fractions.
+(Exercise 2.2, Problem 1) Compute:
 
-(1) There are negative numbers between $-1$ and $0$, for example $-0.5$, $-\frac{1}{2}$, and so on; there are no negative numbers between $0$ and $1$, because the numbers between $0$ and $1$ are all greater than $0$ and are all positive numbers.
+(1) $\left(-18\right)\div 6$; (2) $\left(-63\right)\div\left(-7\right)$; (3) $1\div\left(-9\right)$;
 
-(2) There are no negative integers between $-3$ and $-1$ (excluding the endpoints), because the only integer between them is $-2$, but $-2$ is not in the open interval between $-3$ and $-1$; the integers between $-2$ and $2$ are $-1$, $0$, $1$.
+(4) $0\div\left(-8\right)$; (5) $\left(-6.5\right)\div 0.13$; (6) $\left(-\frac{6}{5}\right)\div\left(-\frac{2}{5}\right)$.
 
-(3) No. By Comparing the Magnitude of Rational Numbers, the negative integers are $-1$, $-2$, $-3$, $\cdots$, among which the largest is $-1$, so there is no negative integer greater than $-1$.
+### Solution to Exercise 6
 
-(4) Numbers that are less than $-100$ and greater than $-103$ satisfy $-103< x< -100$, for example $-101$, $-102$, $-101.5$, and so on. $\blacksquare$
+By Rules for Division of Rational Numbers.
 
-## Review Problem 11
+(1) $\left(-18\right)\div 6=-3$; (2) $\left(-63\right)\div\left(-7\right)=9$; (3) $1\div\left(-9\right)=-\frac{1}{9}$;
 
-(Review Problem, Extension and Exploration, Problem 11) If $\left|x\right|=2$, then must $x$ be $2$? If $\left|x\right|=0$, then what is $x$ equal to? If $x=-x$, then what is $x$ equal to?
+(4) $0\div\left(-8\right)=0$; (5) $\left(-6.5\right)\div 0.13=-50$; (6) $\left(-\frac{6}{5}\right)\div\left(-\frac{2}{5}\right)=3$. $\blacksquare$
 
-### Solution to Review Problem 11
+## Exercise 7
 
-By Absolute Value and Opposite Numbers.
+(Exercise 2.2, Problem 2) Simplify:
 
-If $\left|x\right|=2$, on the number line there are two points at distance $2$ unit lengths from the origin, representing $2$ and $-2$ respectively, so $x$ is not necessarily $2$; it could also be $-2$.
+(1) $\frac{-72}{9}$; (2) $\frac{-30}{-45}$; (3) $\frac{0}{-75}$; (4) $\frac{27}{-6}$.
 
-If $\left|x\right|=0$, the only point on the number line at distance $0$ from the origin is the origin itself, so $x=0$.
+### Solution to Exercise 7
 
-If $x=-x$, then $2x=0$, so $x=0$. $\blacksquare$
+By Rules for Division of Rational Numbers, a fraction bar means division.
+
+(1) $\frac{-72}{9}=-8$; (2) $\frac{-30}{-45}=\frac{2}{3}$; (3) $\frac{0}{-75}=0$; (4) $\frac{27}{-6}=-\frac{9}{2}$. $\blacksquare$
+
+## Exercise 8
+
+(Exercise 2.2, Problem 1) Compute:
+
+(1) $15\div\left(-6\right)$;
+
+(2) $\left(-36\frac{9}{11}\right)\div 9$;
+
+(3) $\left(-12\right)\div\left(-4\right)\div\left(-1\frac{1}{5}\right)$;
+
+(4) $\left(-\frac{2}{3}\right)\times\frac{8}{5}\div\left(-0.25\right)$.
+
+### Solution to Exercise 8
+
+By Rules for Division of Rational Numbers.
+
+(1) $15\div\left(-6\right)=-\frac{5}{2}$.
+
+(2) The original expression $=\left(-36\right)\div 9-\frac{9}{11}\div 9=-4-\frac{1}{11}=-\frac{45}{11}$.
+
+(3) The original expression $=3\div\left(-\frac{6}{5}\right)=3\times\left(-\frac{5}{6}\right)=-\frac{5}{2}$.
+
+(4) The original expression $=\left(-\frac{2}{3}\right)\times\frac{8}{5}\times\left(-4\right)=\frac{64}{15}$. $\blacksquare$
+
+## Exercise 9
+
+(Exercise 2.2, Problem 2) Compute:
+
+(1) $6-\left(-12\right)\div\left(-3\right)$;
+
+(2) $3\times\left(-4\right)+\left(-28\right)\div 7$;
+
+(3) $\left(-48\right)\div 8-\left(-25\right)\times\left(-6\right)$;
+
+(4) $42\times\left(-\frac{2}{3}\right)+\left(-\frac{3}{4}\right)\div\left(-0.5\right)$.
+
+### Solution to Exercise 9
+
+By Rules for Division of Rational Numbers and Rules for Multiplication of Rational Numbers, multiply and divide before adding and subtracting.
+
+(1) The original expression $=6-4=2$.
+
+(2) The original expression $=-12+\left(-4\right)=-16$.
+
+(3) The original expression $=-6-150=-156$.
+
+(4) The original expression $=-28+\frac{3}{2}=-\frac{53}{2}$. $\blacksquare$
+
+## Problem 4
+
+(Exercise 2.2, Review and Consolidation, Problem 1) Compute:
+
+(1) $\left(-8\right)\times\left(-7\right)$; (2) $12\times\left(-5\right)$; (3) $2.9\times\left(-0.4\right)$;
+
+(4) $\left(-30.5\right)\times 0.2$; (5) $100\times\left(-0.001\right)$; (6) $\left(-4.8\right)\times\left(-1.25\right)$.
+
+### Solution to Problem 4
+
+By Rules for Multiplication of Rational Numbers.
+
+(1) $56$; (2) $-60$; (3) $-1.16$; (4) $-6.1$; (5) $-0.1$; (6) $6$. $\blacksquare$
+
+## Problem 5
+
+(Exercise 2.2, Review and Consolidation, Problem 2) Compute:
+
+(1) $14\times\left(-\frac{8}{9}\right)$; (2) $\left(-\frac{5}{6}\right)\times\left(-\frac{3}{10}\right)$;
+
+(3) $\left(-3\frac{4}{15}\right)\times 25$; (4) $\left(-0.3\right)\times\left(-\frac{10}{7}\right)$.
+
+### Solution to Problem 5
+
+By Rules for Multiplication of Rational Numbers.
+
+(1) $-\frac{112}{9}$; (2) $\frac{1}{4}$; (3) $-\frac{245}{3}$; (4) $\frac{3}{7}$. $\blacksquare$
+
+## Problem 6
+
+(Exercise 2.2, Review and Consolidation, Problem 3) Write down the reciprocal of each of the following:
+
+(1) $-15$; (2) $-\frac{5}{9}$; (3) $-0.25$; (4) $0.17$; (5) $4\frac{1}{4}$; (6) $-5\frac{2}{5}$.
+
+### Solution to Problem 6
+
+By Reciprocal.
+
+(1) $-\frac{1}{15}$; (2) $-\frac{9}{5}$; (3) $-4$; (4) $\frac{100}{17}$; (5) $\frac{4}{17}$; (6) $-\frac{5}{27}$. $\blacksquare$
+
+## Problem 7
+
+(Exercise 2.2, Review and Consolidation, Problem 4) Compute:
+
+(1) $\left(-8\frac{2}{5}\right)\times 1.25\times\left(-8\right)$;
+
+(2) $\left(-10\right)\times\left(-8.24\right)\times\left(-0.1\right)$;
+
+(3) $\left(\frac{7}{9}-\frac{5}{6}+\frac{3}{4}-\frac{7}{18}\right)\times 36$;
+
+(4) $-\frac{3}{4}\times\left(8-1\frac{1}{3}-0.04\right)$.
+
+### Solution to Problem 7
+
+By Distributive Law and Associative Law of Multiplication.
+
+(1) The original expression $=\left(-\frac{42}{5}\right)\times\frac{5}{4}\times\left(-8\right)=84$.
+
+(2) The original expression $=-8.24$.
+
+(3) The original expression $=28-30+27-14=11$.
+
+(4) The original expression $=-6+1+0.03=-4.97$. $\blacksquare$
+
+## Problem 8
+
+(Exercise 2.2, Review and Consolidation, Problem 5) Compute:
+
+(1) $\left(-2\right)\times 3\times\left(-4\right)$; (2) $\left(-6\right)\times\left(-5\right)\times\left(-7\right)$;
+
+(3) $\left(-6\right)\times\left(-0.25\right)\times\frac{11}{14}$; (4) $\left(-17\right)\times\left(-49\right)\times 0\times 13$.
+
+### Solution to Problem 8
+
+By Sign Rules for Multiplying Several Rational Numbers.
+
+(1) Two negative factors, product positive, $24$. (2) Three negative factors, product negative, $-210$. (3) Two negative factors, product positive, $\frac{33}{28}$. (4) Contains the factor $0$, product is $0$. $\blacksquare$
+
+## Problem 9
+
+(Exercise 2.2, Review and Consolidation, Problem 6) Compute:
+
+(1) $16\div\left(-3\right)$; (2) $\left(-91\right)\div 13$; (3) $\left(-56\right)\div\left(-14\right)$;
+
+(4) $\frac{4}{5}\div\left(-1\right)$; (5) $\left(-16\right)\div\left(-48\right)$; (6) $\left(-0.25\right)\div\frac{3}{8}$.
+
+### Solution to Problem 9
+
+By Rules for Division of Rational Numbers.
+
+(1) $-\frac{16}{3}$; (2) $-7$; (3) $4$; (4) $-\frac{4}{5}$; (5) $\frac{1}{3}$; (6) $-\frac{2}{3}$. $\blacksquare$
+
+## Problem 10
+
+(Exercise 2.2, Review and Consolidation, Problem 7) Fill in the blanks.
+
+$1\times\left(-5\right)=\;\_\_\;$; $1\div\left(-5\right)=\;\_\_\;$; $1+\left(-5\right)=\;\_\_\;$; $1-\left(-5\right)=\;\_\_\;$;
+
+$\left(-1\right)\times\left(-5\right)=\;\_\_\;$; $\left(-1\right)\div\left(-5\right)=\;\_\_\;$; $\left(-1\right)+\left(-5\right)=\;\_\_\;$; $\left(-1\right)-\left(-5\right)=\;\_\_\;$.
+
+### Solution to Problem 10
+
+By Rules for Multiplication of Rational Numbers and Rules for Division of Rational Numbers.
+
+In turn: $-5$; $-\frac{1}{5}$; $-4$; $6$; $5$; $\frac{1}{5}$; $-6$; $4$. $\blacksquare$
+
+## Problem 11
+
+(Exercise 2.2, Review and Consolidation, Problem 8) Simplify:
+
+(1) $\frac{-21}{7}$; (2) $\frac{3}{-36}$; (3) $\frac{-54}{-8}$; (4) $\frac{-6}{-0.3}$.
+
+### Solution to Problem 11
+
+By Rules for Division of Rational Numbers.
+
+(1) $-3$; (2) $-\frac{1}{12}$; (3) $\frac{27}{4}$; (4) $20$. $\blacksquare$
+
+## Problem 12
+
+(Exercise 2.2, Review and Consolidation, Problem 9) Compute:
+
+(1) $0.1\div\left(-0.001\right)\div\left(-1\right)$;
+
+(2) $\left(-\frac{3}{4}\right)\times\left(-1\frac{1}{2}\right)\div\left(-2\frac{1}{4}\right)$;
+
+(3) $\left(-7\right)\times\left(-\frac{5}{6}\right)\times 0\div\left(-\frac{1}{3}\right)$;
+
+(4) $\left(-9\right)\times\left(-11\right)\div 3\div\left(-3\right)$.
+
+### Solution to Problem 12
+
+By Rules for Division of Rational Numbers.
+
+(1) The original expression $=-100\div\left(-1\right)=100$.
+
+(2) The original expression $=\frac{9}{8}\times\left(-\frac{4}{9}\right)=-\frac{1}{2}$.
+
+(3) Contains the factor $0$, so the original expression $=0$.
+
+(4) The original expression $=99\div 3\div\left(-3\right)=33\div\left(-3\right)=-11$. $\blacksquare$
+
+## Problem 13
+
+(Exercise 2.2, Comprehensive Application, Problem 10) Compute:
+
+(1) $\frac{2}{3}\times\left(-5\right)-\left(-3\right)\div\frac{3}{128}$;
+
+(2) $\left(-7\right)\times\left(-3\right)\times\left(-0.5\right)+\left(-12\right)\times\left(-2.6\right)$;
+
+(3) $\left(1\frac{3}{4}-\frac{7}{8}-\frac{7}{12}\right)\div\left(-\frac{7}{8}\right)+\left(-\frac{7}{8}\right)\div\left(1\frac{3}{4}-\frac{7}{8}-\frac{7}{12}\right)$.
+
+### Solution to Problem 13
+
+By Rules for Division of Rational Numbers and Rules for Multiplication of Rational Numbers.
+
+(1) The original expression $=-\frac{10}{3}+3\times\frac{128}{3}=-\frac{10}{3}+128=\frac{374}{3}$.
+
+(2) The original expression $=-10.5+31.2=20.7$.
+
+(3) Let $A=1\frac{3}{4}-\frac{7}{8}-\frac{7}{12}=\frac{7}{4}-\frac{7}{8}-\frac{7}{12}=\frac{7}{24}$. Then $A\div\left(-\frac{7}{8}\right)=\frac{7}{24}\times\left(-\frac{8}{7}\right)=-\frac{1}{3}$, and $\left(-\frac{7}{8}\right)\div A=\left(-\frac{7}{8}\right)\times\frac{24}{7}=-3$. Hence the original expression $=-\frac{1}{3}+\left(-3\right)=-\frac{10}{3}$. $\blacksquare$
+
+## Problem 14
+
+(Exercise 2.2, Comprehensive Application, Problem 12) Taking profit as a positive number, fill in the blanks with a positive or negative number:
+
+(1) The small store profits $250$ yuan per day on average; the profit over one month (counting $30$ days) is $\;\_\_\;$ yuan;
+
+(2) The small store's profit over one week is $1400$ yuan; the average daily profit is $\;\_\_\;$ yuan;
+
+(3) The small store loses a total of $840$ yuan over one week; the average daily profit is $\;\_\_\;$ yuan.
+
+### Solution to Problem 14
+
+By Rules for Multiplication of Rational Numbers and Rules for Division of Rational Numbers.
+
+(1) $250\times 30=7500$, fill in $7500$.
+
+(2) $1400\div 7=200$, fill in $200$.
+
+(3) Loss is recorded as negative, $\left(-840\right)\div 7=-120$, fill in $-120$. $\blacksquare$
+
+## Problem 15
+
+(Exercise 2.2, Comprehensive Application, Problem 13) A helicopter starts from an altitude of $450\ \text{m}$, first rises vertically at a speed of $4\ \text{m/s}$ for $60\ \text{s}$, and then descends vertically at a speed of $5\ \text{m/s}$ for $120\ \text{s}$. What is the altitude of the helicopter at this point?
+
+### Solution to Problem 15
+
+By Rules for Multiplication of Rational Numbers, rising is positive and descending is negative.
+
+$$450+4\times 60-5\times 120=450+240-600=90.$$
+
+Hence the altitude of the helicopter at this point is $90\ \text{m}$. $\blacksquare$
+
+## Problem 16
+
+(Exercise 2.2, Extension and Exploration, Problem 14) Compute $2\times 1$, $2\times\frac{1}{2}$, $2\times\left(-1\right)$, $2\times\left(-\frac{1}{2}\right)$. In connection with such concrete multiplications, do you think a nonzero rational number must be less than its $2$ times? Why?
+
+### Solution to Problem 16
+
+By Rules for Multiplication of Rational Numbers.
+
+$$2\times 1=2,\quad 2\times\frac{1}{2}=1,\quad 2\times\left(-1\right)=-2,\quad 2\times\left(-\frac{1}{2}\right)=-1.$$
+
+A nonzero rational number is not necessarily less than its $2$ times. When the number is positive, it is less than its $2$ times; when the number is negative, for instance $-1< 2$ does not hold, because $2\times\left(-1\right)=-2< -1$, that is, the $2$ times of a negative number is smaller than the number itself. $\blacksquare$

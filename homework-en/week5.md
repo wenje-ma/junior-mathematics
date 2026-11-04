@@ -1,477 +1,449 @@
 # week5
 
-## Exercise 1
-
-(Exercise 2.1, Problem 1) Express the following results using expressions:
-
-(1) the temperature rises by $7\,^\circ\text{C}$ from $-4\,^\circ\text{C}$;
-
-(2) an income of $7$ yuan, followed by an expenditure of $5$ yuan.
-
-### Solution to Exercise 1
-
-By Rules for Addition of Rational Numbers, rise and income are positive, and fall and expenditure are negative.
-
-(1) The temperature rises by $7\,^\circ\text{C}$ from $-4\,^\circ\text{C}$; the expression is $\left(-4\right)+7=3$, namely $3\,^\circ\text{C}$.
-
-(2) An income of $7$ yuan followed by an expenditure of $5$ yuan; the expression is $7+\left(-5\right)=2$, namely a balance of $2$ yuan. $\blacksquare$
-
-## Exercise 2
-
-(Exercise 2.1, Problem 2) Do mentally:
-
-(1) $\left(-4\right)+\left(-6\right)$; (2) $4+\left(-6\right)$; (3) $\left(-4\right)+6$;
-
-(4) $\left(-4\right)+4$; (5) $\left(-4\right)+14$; (6) $\left(-14\right)+4$;
-
-(7) $6+\left(-6\right)$; (8) $0+\left(-6\right)$; (9) $\left(-6\right)+0$.
-
-### Solution to Exercise 2
-
-By Rules for Addition of Rational Numbers.
-
-(1) $\left(-4\right)+\left(-6\right)=-10$; (2) $4+\left(-6\right)=-2$; (3) $\left(-4\right)+6=2$;
-
-(4) $\left(-4\right)+4=0$; (5) $\left(-4\right)+14=10$; (6) $\left(-14\right)+4=-10$;
-
-(7) $6+\left(-6\right)=0$; (8) $0+\left(-6\right)=-6$; (9) $\left(-6\right)+0=-6$. $\blacksquare$
-
-## Exercise 3
-
-(Exercise 2.1, Problem 3) Compute:
-
-(1) $15+\left(-22\right)$;
-
-(2) $\left(-13\right)+\left(-8\right)$;
-
-(3) $\left(-0.9\right)+1.5$;
-
-(4) $12+\left(-23\right)$.
-
-### Solution to Exercise 3
-
-By Rules for Addition of Rational Numbers.
-
-(1) $15+\left(-22\right)=-\left(22-15\right)=-7$;
-
-(2) $\left(-13\right)+\left(-8\right)=-\left(13+8\right)=-21$;
-
-(3) $\left(-0.9\right)+1.5=1.5-0.9=0.6$;
-
-(4) $12+\left(-23\right)=-\left(23-12\right)=-11$. $\blacksquare$
-
-## Exercise 4
-
-(Exercise 2.1, Problem 4) Please use real-life examples to explain the meaning of $\left(-3\right)+2=-1$ and $\left(-3\right)+\left(-2\right)=-5$.
-
-### Solution to Exercise 4
-
-By Rules for Addition of Rational Numbers.
-
-$\left(-3\right)+2=-1$: for example, the temperature first drops by $3\,^\circ\text{C}$ and then rises by $2\,^\circ\text{C}$, ending up $1\,^\circ\text{C}$ lower than before.
-
-$\left(-3\right)+\left(-2\right)=-5$: for example, first spending $3$ yuan and then spending another $2$ yuan gives a total expenditure of $5$ yuan, that is, the balance decreases by $5$ yuan. $\blacksquare$
-
-## Exercise 5
-
-(Exercise 2.1, Problem 1) Compute:
-
-(1) $23+\left(-17\right)+6+\left(-22\right)$;
-
-(2) $\left(-2\right)+3+1+\left(-3\right)+2+\left(-4\right)$;
-
-(3) $1+\left(-12\right)+13+\left(-16\right)$;
-
-(4) $3\frac{1}{4}+\left(-2\frac{3}{5}\right)+5\frac{3}{4}+\left(-8\frac{2}{5}\right)$.
-
-### Solution to Exercise 5
-
-By Commutative Law of Addition and Associative Law of Addition, group together numbers of the same sign.
-
-(1) The original expression $=\left(23+6\right)+\left[\left(-17\right)+\left(-22\right)\right]=29+\left(-39\right)=-10$.
-
-(2) The original expression $=\left[\left(-2\right)+\left(-3\right)+\left(-4\right)\right]+\left(3+1+2\right)=\left(-9\right)+6=-3$.
-
-(3) The original expression $=\left(1+13\right)+\left[\left(-12\right)+\left(-16\right)\right]=14+\left(-28\right)=-14$.
-
-(4) The original expression $=\left[3\frac{1}{4}+5\frac{3}{4}\right]+\left[\left(-2\frac{3}{5}\right)+\left(-8\frac{2}{5}\right)\right]=9+\left(-11\right)=-2$. $\blacksquare$
-
-## Exercise 6
-
-(Exercise 2.1, Problem 2) A bank savings card has a balance of $450$ yuan; first $80$ yuan is withdrawn, and then $150$ yuan is deposited. How much yuan is left in the savings card?
-
-### Solution to Exercise 6
-
-By Rules for Addition of Rational Numbers, depositing is positive and withdrawing is negative.
-
-$$450+\left(-80\right)+150=\left(450+150\right)-80=600-80=520.$$
-
-Hence there is $520$ yuan left in the savings card. $\blacksquare$
-
-## Exercise 7
-
-(Exercise 2.1, Problem 3) An airplane at an altitude of $9000\ \text{m}$ first descends by $300\ \text{m}$ and then climbs by $500\ \text{m}$. What is the flight altitude of the airplane at this point, in meters?
-
-### Solution to Exercise 7
-
-By Rules for Addition of Rational Numbers, climbing is positive and descending is negative.
-
-$$9000+\left(-300\right)+500=9000+200=9200.$$
-
-Hence the flight altitude of the airplane at this point is $9200\ \text{m}$. $\blacksquare$
-
-## Exercise 8
-
-(Exercise 2.1, Problem 1) Compute:
-
-(1) $6-9$; (2) $\left(+4\right)-\left(-7\right)$; (3) $\left(-5\right)-\left(-8\right)$;
-
-(4) $0-\left(-5\right)$; (5) $0-0.2$; (6) $\left(-2.5\right)-5.9$;
-
-(7) $1.9-\left(-0.6\right)$; (8) $\left(-\frac{1}{2}\right)-\frac{1}{4}$; (9) $\left(+2\frac{2}{7}\right)-\left(-3\frac{1}{2}\right)$.
-
-### Solution to Exercise 8
-
-By Rules for Subtraction of Rational Numbers, subtracting a number is equivalent to adding its opposite.
-
-(1) $6-9=6+\left(-9\right)=-3$; (2) $\left(+4\right)-\left(-7\right)=4+7=11$;
-
-(3) $\left(-5\right)-\left(-8\right)=-5+8=3$; (4) $0-\left(-5\right)=5$;
-
-(5) $0-0.2=-0.2$; (6) $\left(-2.5\right)-5.9=-8.4$;
-
-(7) $1.9-\left(-0.6\right)=1.9+0.6=2.5$; (8) $\left(-\frac{1}{2}\right)-\frac{1}{4}=-\frac{1}{2}-\frac{1}{4}=-\frac{3}{4}$;
-
-(9) $\left(+2\frac{2}{7}\right)-\left(-3\frac{1}{2}\right)=2\frac{2}{7}+3\frac{1}{2}=5\frac{11}{14}$. $\blacksquare$
-
-## Exercise 9
-
-(Exercise 2.1, Problem 2) Compute:
-
-(1) the temperature $8\,^\circ\text{C}$ lower than $2\,^\circ\text{C}$;
-
-(2) the temperature $6\,^\circ\text{C}$ lower than $-3\,^\circ\text{C}$.
-
-### Solution to Exercise 9
-
-By Rules for Subtraction of Rational Numbers, "lower than" uses subtraction.
-
-(1) $2-8=-6\,^\circ\text{C}$.
-
-(2) $-3-6=-9\,^\circ\text{C}$. $\blacksquare$
-
-## Exercise 10
-
-(Exercise 2.1, Problem 1) Compute:
-
-(1) $1-4+3-0.5$;
-
-(2) $-2.4+3.5-4.6+3.5$;
-
-(3) $\left(-7\right)-\left(+5\right)+\left(-4\right)-\left(-10\right)$;
-
-(4) $\frac{3}{4}-\frac{7}{2}+\left(-\frac{1}{6}\right)-\left(-\frac{2}{3}\right)-1$.
-
-### Solution to Exercise 10
-
-By Rules for Subtraction of Rational Numbers, convert subtraction into addition, and then combine by Commutative Law of Addition.
-
-(1) The original expression $=1-4+3-0.5=0-0.5=-0.5$.
-
-(2) The original expression $=\left(-2.4-4.6\right)+\left(3.5+3.5\right)=-7+7=0$.
-
-(3) The original expression $=-7-5-4+10=-6$.
-
-(4) The original expression $=\frac{3}{4}-\frac{7}{2}-\frac{1}{6}+\frac{2}{3}-1=\frac{9-42-2+8-12}{12}=-\frac{39}{12}=-\frac{13}{4}$. $\blacksquare$
-
-## Exercise 11
-
-(Exercise 2.1, Problem 2) First rewrite the following expressions in the form omitting parentheses and plus signs, and then compute:
-
-(1) $\left(-52\right)-\left(+37\right)+\left(-19\right)-\left(-24\right)$;
-
-(2) $\left(+2\frac{3}{4}\right)-\left(-\frac{1}{2}\right)-\left(-3\frac{3}{4}\right)-\left(+5\frac{1}{2}\right)$.
-
-### Solution to Exercise 11
-
-By Rules for Subtraction of Rational Numbers.
-
-(1) The original expression $=-52-37-19+24=-84$.
-
-(2) The original expression $=2\frac{3}{4}+\frac{1}{2}+3\frac{3}{4}-5\frac{1}{2}=\left(2\frac{3}{4}+3\frac{3}{4}\right)+\left(\frac{1}{2}-5\frac{1}{2}\right)=6\frac{1}{2}-5=\frac{3}{2}$. $\blacksquare$
-
 ## Problem 1
 
-(Exercise 2.1, Review and Consolidation, Problem 1) Compute:
+(Exercise 2.2, Extension and Exploration, Problem 15) Using the distributive law one obtains
 
-(1) $\left(-10\right)+\left(+6\right)$; (2) $\left(+12\right)+\left(-4\right)$; (3) $\left(-5\right)+\left(-7\right)$;
+$$-2\times 6+3\times 6=\left(-2+3\right)\times 6,\quad -2\times\left(-5\right)+3\times\left(-5\right)=\left(-2+3\right)\times\left(-5\right).$$
 
-(4) $\left(+6.2\right)+\left(-9.3\right)$; (5) $\left(-0.9\right)+\left(-2.7\right)$; (6) $\left(-2.1\right)+\left(+3.9\right)$;
-
-(7) $\frac{2}{5}+\left(-\frac{3}{5}\right)$; (8) $\left(-\frac{1}{3}\right)+\frac{2}{5}$; (9) $\left(-3\frac{1}{4}\right)+\left(-1\frac{1}{12}\right)$.
+If $a$ denotes any number, then using the distributive law, what is $-2a+3a$ equal to?
 
 ### Solution to Problem 1
 
-By Rules for Addition of Rational Numbers.
+By Distributive Law, use the distributive law in reverse.
 
-(1) $\left(-10\right)+\left(+6\right)=-4$; (2) $\left(+12\right)+\left(-4\right)=8$; (3) $\left(-5\right)+\left(-7\right)=-12$;
+$$-2a+3a=\left(-2+3\right)a=a.$$
 
-(4) $\left(+6.2\right)+\left(-9.3\right)=-3.1$; (5) $\left(-0.9\right)+\left(-2.7\right)=-3.6$; (6) $\left(-2.1\right)+\left(+3.9\right)=1.8$;
-
-(7) $\frac{2}{5}+\left(-\frac{3}{5}\right)=-\frac{1}{5}$; (8) $\left(-\frac{1}{3}\right)+\frac{2}{5}=\frac{-5+6}{15}=\frac{1}{15}$;
-
-(9) $\left(-3\frac{1}{4}\right)+\left(-1\frac{1}{12}\right)=-\left(3\frac{3}{12}+1\frac{1}{12}\right)=-4\frac{1}{3}$. $\blacksquare$
+Hence $-2a+3a=a$. $\blacksquare$
 
 ## Problem 2
 
-(Exercise 2.1, Review and Consolidation, Problem 2) Compute:
+(Exercise 2.2, Extension and Exploration, Problem 16) Compute $\left(-4\right)\div 2$, $4\div\left(-2\right)$, $\left(-4\right)\div\left(-2\right)$. In connection with such concrete divisions, do you think the following formulas hold ($a$, $b$ are rational numbers and $b\ne 0$)? What rule can be summed up from them?
 
-(1) $\left(-8\right)+10+2+\left(-1\right)$;
-
-(2) $5+\left(-6\right)+3+9+\left(-4\right)+\left(-7\right)$;
-
-(3) $\left(-0.8\right)+1.2+\left(-0.7\right)+\left(-2.1\right)+0.8+3.5$;
-
-(4) $\frac{1}{2}+\left(-\frac{2}{3}\right)+\frac{4}{5}+\left(-\frac{1}{2}\right)+\left(-\frac{1}{3}\right)$.
+$$\frac{-a}{b}=\frac{a}{-b}=-\frac{a}{b};\quad \frac{-a}{-b}=\frac{a}{b}.$$
 
 ### Solution to Problem 2
 
-By Commutative Law of Addition and Associative Law of Addition.
+By Rules for Division of Rational Numbers.
 
-(1) The original expression $=\left(-8-1\right)+\left(10+2\right)=-9+12=3$.
+$$\left(-4\right)\div 2=-2,\quad 4\div\left(-2\right)=-2,\quad \left(-4\right)\div\left(-2\right)=2.$$
 
-(2) The original expression $=\left(5+3+9\right)+\left[\left(-6\right)+\left(-4\right)+\left(-7\right)\right]=17+\left(-17\right)=0$.
+From $\left(-4\right)\div 2=4\div\left(-2\right)=-2$, it follows that $\frac{-a}{b}=\frac{a}{-b}=-\frac{a}{b}$ holds; from $\left(-4\right)\div\left(-2\right)=2=4\div 2$, it follows that $\frac{-a}{-b}=\frac{a}{b}$ holds. The rule: among the three signs of a fraction — numerator, denominator, and fraction bar — changing any two of them leaves the value of the fraction unchanged. $\blacksquare$
 
-(3) The original expression $=\left[\left(-0.8\right)+0.8\right]+1.2+\left(-0.7\right)+\left(-2.1\right)+3.5=1.2-2.8+3.5=1.9$.
+## Inquiry and Discovery 1
 
-(4) The original expression $=\left[\frac{1}{2}+\left(-\frac{1}{2}\right)\right]+\left[\left(-\frac{2}{3}\right)+\left(-\frac{1}{3}\right)\right]+\frac{4}{5}=0+\left(-1\right)+\frac{4}{5}=-\frac{1}{5}$. $\blacksquare$
+(Inquiry and Discovery, Viewing the Rules for Multiplication of Rational Numbers from the Perspective of Extending the Number System) Reading material: From the perspective of extending the number system while preserving the consistency of the operational laws, the distributive law yields $1\times\left(-1\right)=-1$, $0\times\left(-1\right)=0$, $\left(-1\right)\times\left(-1\right)=1$.
+
+### Solution to Inquiry and Discovery 1
+
+By Distributive Law.
+
+For $1\times\left(-1\right)$, if the distributive law holds, then $1\times\left(-1\right)+1\times 1=1\times\left[\left(-1\right)+1\right]=1\times 0=0$, and hence $1\times\left(-1\right)=-\left(1\times 1\right)=-1$.
+
+For $0\times\left(-1\right)$, similarly $0\times\left(-1\right)+0\times 1=0\times 0=0$, so $0\times\left(-1\right)=0$.
+
+For $\left(-1\right)\times\left(-1\right)$, $\left(-1\right)\times\left(-1\right)+1\times\left(-1\right)=\left[\left(-1\right)+1\right]\times\left(-1\right)=0$, so $\left(-1\right)\times\left(-1\right)=-\left[1\times\left(-1\right)\right]=-\left(-1\right)=1$.
+
+This shows that, in order to preserve the consistency of the operational laws, the rule "like signs give positive and opposite signs give negative" is reasonable. $\blacksquare$
+
+## Exercise 1
+
+(Exercise 2.3, Problem 1) (1) In $\left(-7\right)^{8}$, what are the base and the exponent? (2) In $\left(-10\right)^{8}$, what is $-10$ called? What is $8$ called? Is $\left(-10\right)^{8}$ positive or negative?
+
+### Solution to Exercise 1
+
+By Powers.
+
+(1) In $\left(-7\right)^{8}$, the base is $-7$ and the exponent is $8$.
+
+(2) In $\left(-10\right)^{8}$, $-10$ is called the base and $8$ is called the exponent. By Sign Rules for Powers, an even power of a negative number is positive, so $\left(-10\right)^{8}$ is positive. $\blacksquare$
+
+## Exercise 2
+
+(Exercise 2.3, Problem 2) Compute:
+
+(1) $\left(-1\right)^{10}$; (2) $\left(-1\right)^{7}$; (3) $8^{3}$; (4) $\left(-5\right)^{3}$;
+
+(5) $0.1^{3}$; (6) $\left(-\frac{1}{2}\right)^{4}$; (7) $\left(-10\right)^{4}$; (8) $\left(-10\right)^{5}$.
+
+### Solution to Exercise 2
+
+By Sign Rules for Powers.
+
+(1) $\left(-1\right)^{10}=1$; (2) $\left(-1\right)^{7}=-1$; (3) $8^{3}=512$; (4) $\left(-5\right)^{3}=-125$;
+
+(5) $0.1^{3}=0.001$; (6) $\left(-\frac{1}{2}\right)^{4}=\frac{1}{16}$; (7) $\left(-10\right)^{4}=10000$; (8) $\left(-10\right)^{5}=-100000$. $\blacksquare$
+
+## Exercise 3
+
+(Exercise 2.3, Problem 1) Compute:
+
+(1) $\left(-1\right)^{10}\times 2+\left(-2\right)^{3}\div 4$;
+
+(2) $\left(-5\right)^{3}-3\times\left(-\frac{1}{2}\right)^{4}$;
+
+(3) $1\frac{1}{5}\times\left(\frac{1}{3}-\frac{1}{2}\right)\times 3\frac{1}{11}\div\frac{5}{4}$;
+
+(4) $\left(-10\right)^{4}+\left[\left(-4\right)^{2}-\left(3+3^{2}\right)\times 2\right]$.
+
+### Solution to Exercise 3
+
+By Order of Mixed Operations on Rational Numbers.
+
+(1) The original expression $=1\times 2+\left(-8\right)\div 4=2-2=0$.
+
+(2) The original expression $=-125-3\times\frac{1}{16}=-\frac{2003}{16}$.
+
+(3) The original expression $=\frac{6}{5}\times\left(-\frac{1}{6}\right)\times\frac{34}{11}\times\frac{4}{5}=-\frac{136}{275}$.
+
+(4) The original expression $=10000+\left[16-12\times 2\right]=10000+\left(-8\right)=9992$. $\blacksquare$
+
+## Exercise 4
+
+(Exercise 2.3, Problem 1) Express the following numbers in scientific notation:
+
+$$100000,\ 7400000,\ 56000000,\ 567000000.$$
+
+### Solution to Exercise 4
+
+By Scientific Notation.
+
+$$100000=1\times 10^{5};\quad 7400000=7.4\times 10^{6};$$
+
+$$56000000=5.6\times 10^{7};\quad 567000000=5.67\times 10^{8}.$$
+
+$\blacksquare$
+
+## Exercise 5
+
+(Exercise 2.3, Problem 2) What were the original numbers of the following numbers expressed in scientific notation?
+
+$$1\times 10^{7},\ 4\times 10^{3},\ 8.5\times 10^{6},\ 7.04\times 10^{5},\ 3.96\times 10^{7}.$$
+
+### Solution to Exercise 5
+
+By Scientific Notation, $10^{n}$ means $1$ followed by $n$ copies of $0$.
+
+$$1\times 10^{7}=10000000;\quad 4\times 10^{3}=4000;\quad 8.5\times 10^{6}=8500000;$$
+
+$$7.04\times 10^{5}=704000;\quad 3.96\times 10^{7}=39600000.$$
+
+$\blacksquare$
+
+## Exercise 6
+
+(Exercise 2.3, Problem 3) China's land area is approximately $9600000\ \text{km}^{2}$. Express this number in scientific notation.
+
+### Solution to Exercise 6
+
+By Scientific Notation.
+
+$$9600000=9.6\times 10^{6}.$$
+
+Hence the land area is $9.6\times 10^{6}\ \text{km}^{2}$. $\blacksquare$
+
+## Exercise 7
+
+(Exercise 2.3, Problem 4) Take approximate numbers of the following by rounding:
+
+(1) $0.00356$ (accurate to the ten-thousandths place); (2) $61.235$ (accurate to the ones place);
+
+(3) $1.8935$ (accurate to $0.001$); (4) $0.0571$ (accurate to $0.1$).
+
+### Solution to Exercise 7
+
+By Approximate Numbers.
+
+(1) $0.00356\approx 0.0036$; (2) $61.235\approx 61$; (3) $1.8935\approx 1.894$; (4) $0.0571\approx 0.1$. $\blacksquare$
 
 ## Problem 3
 
-(Exercise 2.1, Review and Consolidation, Problem 3) Compute:
+(Exercise 2.3, Review and Consolidation, Problem 1) Compute:
 
-(1) $\left(-8\right)-8$; (2) $\left(-8\right)-\left(-8\right)$; (3) $8-\left(-8\right)$; (4) $8-8$;
+(1) $\left(-3\right)^{3}$; (2) $\left(-5\right)^{4}$; (3) $\left(-1.7\right)^{2}$;
 
-(5) $0-6$; (6) $0-\left(-6\right)$; (7) $16-47$; (8) $\left(-3.8\right)-\left(+7\right)$; (9) $\left(-5.9\right)-\left(-6.1\right)$.
+(4) $\left(-\frac{4}{3}\right)^{3}$; (5) $-\left(-2\right)^{3}$; (6) $\left(-2\right)^{2}\times\left(-3\right)^{2}$.
 
 ### Solution to Problem 3
 
-By Rules for Subtraction of Rational Numbers.
+By Sign Rules for Powers.
 
-(1) $\left(-8\right)-8=-16$; (2) $\left(-8\right)-\left(-8\right)=0$; (3) $8-\left(-8\right)=16$; (4) $8-8=0$;
+(1) $\left(-3\right)^{3}=-27$; (2) $\left(-5\right)^{4}=625$; (3) $\left(-1.7\right)^{2}=2.89$;
 
-(5) $0-6=-6$; (6) $0-\left(-6\right)=6$; (7) $16-47=-31$; (8) $\left(-3.8\right)-\left(+7\right)=-10.8$; (9) $\left(-5.9\right)-\left(-6.1\right)=0.2$. $\blacksquare$
+(4) $\left(-\frac{4}{3}\right)^{3}=-\frac{64}{27}$; (5) $-\left(-2\right)^{3}=-\left(-8\right)=8$; (6) $\left(-2\right)^{2}\times\left(-3\right)^{2}=4\times 9=36$. $\blacksquare$
 
 ## Problem 4
 
-(Exercise 2.1, Review and Consolidation, Problem 4) Compute:
+(Exercise 2.3, Review and Consolidation, Problem 3) Compute:
 
-(1) $\left(+\frac{2}{5}\right)-\left(-\frac{3}{5}\right)$; (2) $\left(-\frac{2}{5}\right)-\left(-\frac{3}{5}\right)$; (3) $\frac{1}{2}-\frac{1}{3}$;
+(1) $\left(-1\right)^{100}\times 5+\left(-2\right)^{4}\div 4$;
 
-(4) $\left(-\frac{1}{2}\right)-\frac{1}{3}$; (5) $-\frac{2}{3}-\left(-\frac{1}{6}\right)$; (6) $0-\left(-\frac{3}{4}\right)$;
+(2) $\left(-3\right)^{3}-3\times\left(-\frac{1}{3}\right)^{4}$;
 
-(7) $\left(-2\right)-\left(+\frac{2}{3}\right)$; (8) $\left(-16\frac{3}{4}\right)-\left(-10\frac{1}{4}\right)-\left(+1\frac{1}{2}\right)$.
+(3) $\frac{7}{6}\times\left(\frac{1}{6}-\frac{1}{3}\right)\times 3\frac{1}{4}\div\frac{3}{5}$;
+
+(4) $\left(-10\right)^{3}+\left[\left(-4\right)^{2}-\left(1-3^{2}\right)\times 2\right]$;
+
+(5) $\left(-\frac{2}{3}\right)\div\frac{4}{9}\times\left(-\frac{2}{3}\right)^{2}$;
+
+(6) $4+\left(-2\right)^{3}\times 5-\left(-0.28\right)\div 4$.
 
 ### Solution to Problem 4
 
-By Rules for Subtraction of Rational Numbers.
+By Order of Mixed Operations on Rational Numbers.
 
-(1) $\left(+\frac{2}{5}\right)-\left(-\frac{3}{5}\right)=\frac{2}{5}+\frac{3}{5}=1$; (2) $\left(-\frac{2}{5}\right)-\left(-\frac{3}{5}\right)=-\frac{2}{5}+\frac{3}{5}=\frac{1}{5}$;
+(1) The original expression $=1\times 5+16\div 4=5+4=9$.
 
-(3) $\frac{1}{2}-\frac{1}{3}=\frac{1}{6}$; (4) $\left(-\frac{1}{2}\right)-\frac{1}{3}=-\frac{5}{6}$;
+(2) The original expression $=-27-3\times\frac{1}{81}=-\frac{730}{27}$.
 
-(5) $-\frac{2}{3}-\left(-\frac{1}{6}\right)=-\frac{2}{3}+\frac{1}{6}=-\frac{1}{2}$; (6) $0-\left(-\frac{3}{4}\right)=\frac{3}{4}$;
+(3) The original expression $=\frac{7}{6}\times\left(-\frac{1}{6}\right)\times\frac{13}{4}\times\frac{5}{3}=-\frac{455}{432}$.
 
-(7) $\left(-2\right)-\left(+\frac{2}{3}\right)=-2-\frac{2}{3}=-\frac{8}{3}$; (8) $\left(-16\frac{3}{4}\right)-\left(-10\frac{1}{4}\right)-\left(+1\frac{1}{2}\right)=-16\frac{3}{4}+10\frac{1}{4}-1\frac{1}{2}=-8$. $\blacksquare$
+(4) The original expression $=-1000+\left[16-\left(-8\right)\times 2\right]=-1000+32=-968$.
+
+(5) The original expression $=\left(-\frac{2}{3}\right)\times\frac{9}{4}\times\frac{4}{9}=-\frac{2}{3}$.
+
+(6) The original expression $=4+\left(-8\right)\times 5-\left(-0.07\right)=4-40+0.07=-35.93$. $\blacksquare$
 
 ## Problem 5
 
-(Exercise 2.1, Review and Consolidation, Problem 5) Compute:
+(Exercise 2.3, Review and Consolidation, Problem 4) Express the following numbers in scientific notation:
 
-(1) $-4.2+5.7-8.4+10$;
-
-(2) $-\frac{1}{4}+\frac{5}{6}+\frac{2}{3}-\frac{1}{2}$;
-
-(3) $12-\left(-18\right)+\left(-7\right)-15$;
-
-(4) $4.7-\left(-8.9\right)-7.5+\left(-6\right)$;
-
-(5) $\left(-4\frac{7}{8}\right)-\left(-5\frac{1}{2}\right)+\left(-4\frac{1}{4}\right)-\left(+3\frac{1}{8}\right)$;
-
-(6) $\left(-\frac{2}{3}\right)+\left|0-5\frac{1}{6}\right|+\left|-4\frac{5}{6}\right|+\left(-9\frac{1}{3}\right)$.
+$$235000000,\ 188520000,\ 701000000000,\ 36000000.$$
 
 ### Solution to Problem 5
 
-By Rules for Subtraction of Rational Numbers and Commutative Law of Addition.
+By Scientific Notation.
 
-(1) The original expression $=\left(-4.2-8.4\right)+\left(5.7+10\right)=-12.6+15.7=3.1$.
+$$235000000=2.35\times 10^{8};\quad 188520000=1.8852\times 10^{8};$$
 
-(2) The original expression $=\frac{-3+10+8-6}{12}=\frac{9}{12}=\frac{3}{4}$.
+$$701000000000=7.01\times 10^{11};\quad 36000000=3.6\times 10^{7}.$$
 
-(3) The original expression $=12+18-7-15=8$.
-
-(4) The original expression $=4.7+8.9-7.5-6=0.1$.
-
-(5) The original expression $=-4\frac{7}{8}+5\frac{1}{2}-4\frac{1}{4}-3\frac{1}{8}=\left(-4\frac{7}{8}-3\frac{1}{8}\right)+\left(5\frac{1}{2}-4\frac{1}{4}\right)=-8+1\frac{1}{4}=-6\frac{3}{4}$.
-
-(6) The original expression $=-\frac{2}{3}+5\frac{1}{6}+4\frac{5}{6}-9\frac{1}{3}=\left(-\frac{2}{3}-9\frac{1}{3}\right)+\left(5\frac{1}{6}+4\frac{5}{6}\right)=-10+10=0$. $\blacksquare$
+$\blacksquare$
 
 ## Problem 6
 
-(Exercise 2.1, Comprehensive Application, Problem 6) As shown in the figure, the highest point on land is the summit of Mount Everest, and the lowest point is the Dead Sea, a lake in western Asia. What is the difference in height between the two, in meters? (The height of Mount Everest is $8848.86\ \text{m}$, and the surface elevation of the Dead Sea is $-432\ \text{m}$.)
+(Exercise 2.3, Review and Consolidation, Problem 5) What were the original numbers of the following numbers expressed in scientific notation?
+
+$$3\times 10^{7},\ 1.3\times 10^{3},\ 8.05\times 10^{6},\ 2.004\times 10^{5}.$$
 
 ### Solution to Problem 6
 
-By Rules for Subtraction of Rational Numbers, the height difference is the higher height minus the lower height.
+By Scientific Notation.
 
-$$8848.86-\left(-432\right)=8848.86+432=9280.86.$$
+$$3\times 10^{7}=30000000;\quad 1.3\times 10^{3}=1300;$$
 
-Hence the height difference between the two is $9280.86\ \text{m}$. $\blacksquare$
+$$8.05\times 10^{6}=8050000;\quad 2.004\times 10^{5}=200400.$$
+
+$\blacksquare$
 
 ## Problem 7
 
-(Exercise 2.1, Comprehensive Application, Problem 7) One morning at a certain place the temperature is $-7\,^\circ\text{C}$; at noon it rises by $11\,^\circ\text{C}$, and at midnight it drops by $9\,^\circ\text{C}$. What is the temperature at midnight, in degrees Celsius?
+(Exercise 2.3, Review and Consolidation, Problem 6) Take approximate numbers of the following by rounding:
+
+(1) $0.00457$ (accurate to $0.0001$); (2) $566.1235$ (accurate to the ones place);
+
+(3) $3.8963$ (accurate to $0.01$); (4) $0.0571$ (accurate to the thousandths place).
 
 ### Solution to Problem 7
 
-By Rules for Addition of Rational Numbers and Rules for Subtraction of Rational Numbers.
+By Approximate Numbers.
 
-$$-7+11-9=-5.$$
-
-Hence the temperature at midnight is $-5\,^\circ\text{C}$. $\blacksquare$
+(1) $0.00457\approx 0.0046$; (2) $566.1235\approx 566$; (3) $3.8963\approx 3.90$; (4) $0.0571\approx 0.057$. $\blacksquare$
 
 ## Problem 8
 
-(Exercise 2.1, Comprehensive Application, Problem 8) The profit/loss situation of a food store on each day of a week is as follows (profit recorded as positive):
-
-$$432\text{ 元},\ -12.5\text{ 元},\ -10.5\text{ 元},\ 327\text{ 元},\ -87\text{ 元},\ 536.5\text{ 元},\ 698\text{ 元}.$$
-
-What is the overall profit/loss of the food store over the whole week?
+(Exercise 2.3, Comprehensive Application, Problem 7) What number has square equal to $9$? What number has cube equal to $-27$?
 
 ### Solution to Problem 8
 
-By Rules for Addition of Rational Numbers, find the sum of the profit/loss over the seven days.
+By Sign Rules for Powers.
 
-$$432-12.5-10.5+327-87+536.5+698=1883.5.$$
+There are two numbers whose square equals $9$, because $3^{2}=9$ and $\left(-3\right)^{2}=9$, so the square of $\pm 3$ equals $9$.
 
-The result is positive, so over the whole week there is a total profit of $1883.5$ yuan. $\blacksquare$
+The number whose cube equals $-27$: since $\left(-3\right)^{3}=-27$, the cube of $-3$ equals $-27$. $\blacksquare$
 
 ## Problem 9
 
-(Exercise 2.1, Extension and Exploration, Problem 9) There are $8$ baskets of Chinese cabbage, taking $25\ \text{kg}$ per basket as the mass standard; the number of kilograms exceeding is recorded as a positive number and the number of kilograms short is recorded as a negative number. The recorded values after weighing (unit: $\text{kg}$) are:
-
-$$1.5,\ -3,\ 2,\ -0.5,\ 1,\ -2,\ -2,\ -2.5.$$
-
-What is the total mass of these $8$ baskets of Chinese cabbage, in kilograms?
+(Exercise 2.3, Comprehensive Application, Problem 8) A cuboid has length and width both equal to $a$ and height equal to $h$. How are its volume and surface area computed? When $a=2\ \text{cm}$ and $h=5\ \text{cm}$, what are its volume and surface area?
 
 ### Solution to Problem 9
 
-By Rules for Addition of Rational Numbers, first find the sum of the deviations, and then find the total mass.
+The base area of the cuboid is $a^{2}$; the volume is the base area times the height, and the surface area is the two bases plus the four side faces.
 
-The sum of the deviations is
+$$V=a^{2}h,\quad S=2a^{2}+4ah.$$
 
-$$1.5-3+2-0.5+1-2-2-2.5=-5.5.$$
+When $a=2$ and $h=5$,
 
-The standard total mass of the $8$ baskets is $25\times 8=200\ \text{kg}$, so the actual total mass is
+$$V=2^{2}\times 5=20\ \text{cm}^{3};\quad S=2\times 2^{2}+4\times 2\times 5=8+40=48\ \text{cm}^{2}.$$
 
-$$200+\left(-5.5\right)=194.5.$$
-
-Hence these $8$ baskets of Chinese cabbage together weigh $194.5\ \text{kg}$. $\blacksquare$
+Hence the volume is $20\ \text{cm}^{3}$ and the surface area is $48\ \text{cm}^{2}$. $\blacksquare$
 
 ## Problem 10
 
-(Exercise 2.1, Extension and Exploration, Problem 10) The highest and lowest temperatures each day over a week at a certain place are shown in the table below. Which day has the largest temperature difference? Which day has the smallest?
-
-Day: Mon, Tue, Wed, Thu, Fri, Sat, Sun. Highest temperature: $10$, $12$, $11$, $9$, $7$, $5$, $7$ ($^\circ\text{C}$). Lowest temperature: $2$, $1$, $0$, $-1$, $-4$, $-5$, $-5$ ($^\circ\text{C}$).
+(Exercise 2.3, Comprehensive Application, Problem 9) One day has $8.64\times 10^{4}\ \text{s}$. Taking a year as $365$ days, how many seconds are there in a year (express in scientific notation)?
 
 ### Solution to Problem 10
 
-By Rules for Subtraction of Rational Numbers, the temperature difference $=$ highest temperature $-$ lowest temperature.
+By Scientific Notation.
 
-The temperature difference on each day is: Monday $10-2=8$; Tuesday $12-1=11$; Wednesday $11-0=11$; Thursday $9-\left(-1\right)=10$; Friday $7-\left(-4\right)=11$; Saturday $5-\left(-5\right)=10$; Sunday $7-\left(-5\right)=12$.
+$$8.64\times 10^{4}\times 365=3153.6\times 10^{4}=3.1536\times 10^{7}.$$
 
-Comparing, $12> 11> 10> 8$, so Sunday has the largest temperature difference and Monday has the smallest. $\blacksquare$
+Hence a year has $3.1536\times 10^{7}\ \text{s}$. $\blacksquare$
 
 ## Problem 11
 
-(Exercise 2.1, Extension and Exploration, Problem 11) Fill in the blanks.
-
-(1) $\;\_\_\;+11=27$;
-
-(2) $7+\;\_\_\;=4$;
-
-(3) $\left(-9\right)+\;\_\_\;=9$;
-
-(4) $12+\;\_\_\;=0$;
-
-(5) $\left(-8\right)+\;\_\_\;=-15$;
-
-(6) $\;\_\_\;+\left(-13\right)=-6$.
+(Exercise 2.3, Comprehensive Application, Problem 10) The speed of the Earth revolving around the Sun is approximately $1.1\times 10^{5}\ \text{km/h}$, and the speed of sound propagating in air is approximately $340\ \text{m/s}$. Compare the magnitudes of the two speeds.
 
 ### Solution to Problem 11
 
-By Rules for Addition of Rational Numbers, the unknown addend equals the sum minus the known addend.
+Unify the units. $340\ \text{m/s}=340\times 3600\ \text{m/h}=1224000\ \text{m/h}=1224\ \text{km/h}$.
 
-(1) $27-11=16$; (2) $4-7=-3$; (3) $9-\left(-9\right)=18$;
-
-(4) $0-12=-12$; (5) $-15-\left(-8\right)=-7$; (6) $-6-\left(-13\right)=7$.
-
-Hence fill in in turn: $16$; $-3$; $18$; $-12$; $-7$; $7$. $\blacksquare$
+The Earth's revolution speed is $1.1\times 10^{5}=110000\ \text{km/h}$. Since $110000> 1224$, the speed of the Earth revolving around the Sun is greater than the speed of sound propagating in air. $\blacksquare$
 
 ## Problem 12
 
-(Exercise 2.1, Extension and Exploration, Problem 12) Compute the value of each of the following:
+(Exercise 2.3, Extension and Exploration, Problem 11) (1) Compute $0.1^{2}$, $1^{2}$, $10^{2}$, $100^{2}$. Observing these results, when the decimal point of the base moves one place to the left (or right), what is the pattern in the movement of the decimal point of the squared number?
 
-$$\left(-2\right)+\left(-2\right),\ \left(-2\right)+\left(-2\right)+\left(-2\right),\ \left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right),\ \left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right).$$
+(2) Compute $0.1^{3}$, $1^{3}$, $10^{3}$, $100^{3}$. What is the pattern in the movement of the decimal point of the cubed number?
 
-Guess the value of the following: $\left(-2\right)\times 2$, $\left(-2\right)\times 3$, $\left(-2\right)\times 4$, $\left(-2\right)\times 5$. Can you further guess the rule for multiplying a negative number by a positive number?
+(3) Compute $0.1^{4}$, $1^{4}$, $10^{4}$, $100^{4}$. What is the pattern in the movement of the decimal point of the fourth power?
 
 ### Solution to Problem 12
 
-By Rules for Addition of Rational Numbers.
+By Powers.
 
-$$\left(-2\right)+\left(-2\right)=-4;$$
+(1) $0.1^{2}=0.01$, $1^{2}=1$, $10^{2}=100$, $100^{2}=10000$. When the decimal point of the base moves one place, the decimal point of the squared number moves two places in the same direction.
 
-$$\left(-2\right)+\left(-2\right)+\left(-2\right)=-6;$$
+(2) $0.1^{3}=0.001$, $1^{3}=1$, $10^{3}=1000$, $100^{3}=1000000$. When the decimal point of the base moves one place, the decimal point of the cubed number moves three places in the same direction.
 
-$$\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)=-8;$$
-
-$$\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)=-10.$$
-
-Adding several identical negative numbers is precisely that negative number multiplied by a positive integer, so we conjecture $\left(-2\right)\times 2=-4$, $\left(-2\right)\times 3=-6$, $\left(-2\right)\times 4=-8$, $\left(-2\right)\times 5=-10$. From this one may guess: when a negative number is multiplied by a positive number, the product is negative, and the absolute value of the product equals the product of the absolute values of the two numbers. $\blacksquare$
+(3) $0.1^{4}=0.0001$, $1^{4}=1$, $10^{4}=10000$, $100^{4}=100000000$. When the decimal point of the base moves one place, the decimal point of the fourth power moves four places in the same direction. $\blacksquare$
 
 ## Problem 13
 
-(Exercise 2.1, Extension and Exploration, Problem 13) A road-maintenance team travels by car to patrol and maintain a north-south highway. One morning they set out from place $A$ and in the evening finally arrive at place $B$. Conventionally, northward is the positive direction, and that day's driving records (unit: $\text{km}$) are:
+(Exercise 2.3, Extension and Exploration, Problem 12) Compute $\left(-2\right)^{2}$, $2^{2}$, $\left(-2\right)^{3}$, $2^{3}$. In connection with such concrete powers, do you think the following hold when $a< 0$?
 
-$$+18,\ -9,\ +7,\ -14,\ -6,\ +13,\ -6,\ -8.$$
-
-Assume the car travels in a single direction under each driving record.
-
-(1) In which direction is place $B$ from place $A$? How far apart are they, in kilometers?
-
-(2) If the car consumes on average $a\ \text{L}$ of fuel per $1\ \text{km}$ driven, then how many liters of fuel did the car consume in total that day?
+(1) $a^{2}> 0$; (2) $a^{2}=\left(-a\right)^{2}$; (3) $a^{2}=-a^{2}$; (4) $a^{3}=-a^{3}$.
 
 ### Solution to Problem 13
 
+By Sign Rules for Powers.
+
+$$\left(-2\right)^{2}=4,\quad 2^{2}=4,\quad \left(-2\right)^{3}=-8,\quad 2^{3}=8.$$
+
+(1) When $a< 0$, $a^{2}$ is an even power of a negative number and is positive, so $a^{2}> 0$ holds.
+
+(2) $\left(-a\right)^{2}=\left(-2\right)^{2}=4=a^{2}$, so $a^{2}=\left(-a\right)^{2}$ holds.
+
+(3) Since $a^{2}> 0$ while $-a^{2}< 0$, the two cannot be equal, so $a^{2}=-a^{2}$ does not hold.
+
+(4) When $a< 0$, $a^{3}< 0$ and $-a^{3}> 0$, the two cannot be equal, so $a^{3}=-a^{3}$ does not hold. $\blacksquare$
+
+## Activity 1
+
+(Math Activity, Activity 1, Organizing Household Income and Expenditure Accounts, Problem 1) Help a family record one month (or one week) of living income and expenditure accounts, recording income as positive and expenditure as negative; compute the total income, total expenditure, total balance, and average daily expenditure for the month (or week), and make reasonable suggestions for the family's expenditure.
+
+### Solution to Activity 1
+
+By Rules for Addition of Rational Numbers, the total income, total expenditure, and total balance are respectively the algebraic sums of the income and expenditure data.
+
+Let the daily income/expenditure of a certain week be in turn $a_{1}$, $a_{2}$, $\cdots$, $a_{7}$ (income positive, expenditure negative). The total income is the sum of all the positive numbers, the total expenditure is the sum of the absolute values of all the negative numbers, and the total balance is the sum of the seven numbers. The average daily expenditure equals the total expenditure divided by the number of days, $7$. Comparing the proportions of the various expenditures, one can make reasonable suggestions for the family's expenditure. $\blacksquare$
+
+## Activity 2
+
+(Math Activity, Activity 2, Filling in a Magic Square, Problem 1) Please fill the $9$ numbers $-4$, $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$, $4$ into the $9$ empty cells of the magic square respectively, so that the sum of the numbers in each horizontal row, each vertical column, and the two diagonals are all equal.
+
+The figure is a $3\times3$ magic-square grid with $9$ empty cells, into which the numbers $-4$, $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$, $4$ are to be placed so that the sum of the three numbers in each horizontal row, each vertical column, and the two diagonals is equal.
+
+### Solution to Activity 2
+
 By Rules for Addition of Rational Numbers.
 
-(1) The algebraic sum of the driving records is
+The sum of the nine numbers is $-4+\left(-3\right)+\cdots+4=0$; since the sums of the three rows are equal, the sum of the three numbers in each row is $0\div 3=0$. The number in the center cell appears a total of $4$ times in the horizontal, vertical, and the two diagonals, so it should be the middle number of the nine, $0$. Pair the nine numbers about $0$ as $-4$ with $4$, $-3$ with $3$, $-2$ with $2$, $-1$ with $1$, so that the two numbers on each line through the center are opposites of each other, that is, their sum is $0$. The filled magic square is as shown in the figure, and the sum of each row, each column, and each diagonal is $0$. $\blacksquare$
 
-$$18-9+7-14-6+13-6-8=-5.$$
+## Review Problem 1
 
-The result is negative, so place $B$ is south of place $A$, and they are $5\ \text{km}$ apart.
+(Review Problem, Review and Consolidation, Problem 1) Compute:
 
-(2) The total distance traveled by the car is the sum of the absolute values of the records:
+(1) $-150+250$; (2) $-15+\left(-23\right)$; (3) $-5-65$; (4) $-26-\left(-15\right)$;
 
-$$\left|18\right|+\left|-9\right|+\left|7\right|+\left|-14\right|+\left|-6\right|+\left|13\right|+\left|-6\right|+\left|-8\right|=81.$$
+(5) $\left(-6\right)\times\left(-16\right)$; (6) $\left(-\frac{1}{3}\right)\times 27$; (7) $8\div\left(-16\right)$;
 
-Hence the car consumed a total of $81a\ \text{L}$ of fuel that day. $\blacksquare$
+(8) $\left(-25\right)\div\left(-\frac{2}{3}\right)$; (9) $\left(-\frac{3}{4}\right)\div\left(-\frac{4}{5}\right)$.
 
-## Reading and Reflection 1
+### Solution to Review Problem 1
 
-(Reading and Reflection, The Ancient Chinese Rules for Adding and Subtracting Positive and Negative Numbers — the Positive-Negative Method) Reading material: The "Equations" chapter of the Nine Chapters on the Mathematical Art proposed the "positive-negative method", namely the rules for adding and subtracting positive and negative numbers, which is the earliest rule for operating with positive and negative numbers in the world. This column is reading material on the history of mathematics and has no exercises.
+By Rules for Addition of Rational Numbers and Rules for Multiplication of Rational Numbers.
 
-### Solution to Reading and Reflection 1
+(1) $100$; (2) $-38$; (3) $-70$; (4) $-11$; (5) $96$;
 
-As can be seen from the material, ancient China was the first to systematically give the rules for adding and subtracting positive and negative numbers, the "positive-negative method", and distinguished positive and negative numbers by red and black counting rods. This is consistent with the idea embodied in Rules for Addition of Rational Numbers and Rules for Subtraction of Rational Numbers — "first determine the sign, then compute the absolute value" — and is an important achievement of ancient Chinese mathematics. $\blacksquare$
+(6) $-9$; (7) $-\frac{1}{2}$; (8) $\frac{75}{2}$; (9) $\frac{15}{16}$. $\blacksquare$
+
+## Review Problem 2
+
+(Review Problem, Review and Consolidation, Problem 2) Compute:
+
+(1) $6+\left(-\frac{1}{5}\right)-2-\left(-1.5\right)$;
+
+(2) $\left(-0.02\right)\times\left(-20\right)\times\left(-5\right)\times 4.5$;
+
+(3) $\left(-6.5\right)\times\left(-2\right)\div\left(-\frac{1}{3}\right)\div\left(-5\right)$;
+
+(4) $\left(-66\right)\times 4-\left(-2.5\right)\div\left(-0.1\right)$;
+
+(5) $\left(-2\right)^{2}\times 5-\left(-2\right)^{3}\div 4$;
+
+(6) $-\left(3-5\right)+3^{2}\times\left(1-3\right)$.
+
+### Solution to Review Problem 2
+
+By Order of Mixed Operations.
+
+(1) The original expression $=6-0.2-2+1.5=5.3=\frac{53}{10}$.
+
+(2) Three negative factors, product negative, the original expression $=-9$.
+
+(3) The original expression $=13\times\left(-3\right)\div\left(-5\right)=\frac{39}{5}$.
+
+(4) The original expression $=-264-25=-289$.
+
+(5) The original expression $=4\times 5-\left(-8\right)\div 4=20+2=22$.
+
+(6) The original expression $=-\left(-2\right)+9\times\left(-2\right)=2-18=-16$. $\blacksquare$
+
+## Review Problem 3
+
+(Review Problem, Review and Consolidation, Problem 3) What is the sum of two numbers that are opposites of each other? What is the product of two numbers that are reciprocals of each other?
+
+### Solution to Review Problem 3
+
+By Opposite Numbers and Reciprocal.
+
+For two numbers that are opposites of each other, such as $a$ and $-a$, their sum is $a+\left(-a\right)=0$, so the sum of two numbers that are opposites of each other is $0$.
+
+For two numbers that are reciprocals of each other, by Reciprocal, their product is $1$. $\blacksquare$
+
+## Review Problem 4
+
+(Review Problem, Review and Consolidation, Problem 4) Express the following numbers in scientific notation:
+
+(1) $100000000$; (2) $4500000$; (3) $692400000000$.
+
+### Solution to Review Problem 4
+
+By Scientific Notation.
+
+(1) $100000000=1\times 10^{8}$; (2) $4500000=4.5\times 10^{6}$; (3) $692400000000=6.924\times 10^{11}$. $\blacksquare$
+
+## Review Problem 5
+
+(Review Problem, Review and Consolidation, Problem 5) Take approximate numbers of the following by rounding:
+
+(1) $245.635$ (accurate to $0.1$); (2) $175.65$ (accurate to the ones place);
+
+(3) $12.004$ (accurate to the hundredths place); (4) $6.5378$ (accurate to $0.01$).
+
+### Solution to Review Problem 5
+
+By Approximate Numbers.
+
+(1) $245.635\approx 245.6$; (2) $175.65\approx 176$; (3) $12.004\approx 12.00$; (4) $6.5378\approx 6.54$. $\blacksquare$

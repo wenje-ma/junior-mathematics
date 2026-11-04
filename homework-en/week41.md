@@ -1,227 +1,453 @@
 # week41
 
-## Exercise 1
-
-(Exercise 9.1, Problem 1) Write down the coordinates of points $A$, $B$, $C$, $D$, $E$, $F$ in the figure.
-
-The figure shows a Cartesian coordinate plane with $x$-axis, $y$-axis, and origin marked, and six points $A$, $B$, $C$, $D$, $E$, $F$ plotted.
-
-### Solution to Exercise 1
-
-By Coordinates of a Point, draw a perpendicular from the point to the $x$-axis to get the x-coordinate, and to the $y$-axis to get the y-coordinate. Reading off the coordinates of the points,
-
-$$
-A\left(-3,-2\right),\ B\left(-5,4\right),\ C\left(5,-4\right),\ D\left(0,-3\right),\ E\left(2,5\right),\ F\left(-4,0\right).
-$$
-
-Among them, $D$ is on the $y$-axis (x-coordinate $0$), and $F$ is on the $x$-axis (y-coordinate $0$). $\blacksquare$
-
-## Exercise 2
-
-(Exercise 9.1, Problem 2) In the rectangular coordinate system shown, plot the following points: $L\left(-5,-3\right)$, $M\left(4,0\right)$, $N\left(-6,2\right)$, $P\left(5,-3.5\right)$, $Q\left(0,5\right)$, $R\left(6,2\right)$.
-
-### Solution to Exercise 2
-
-By Coordinates of a Point, first find the x-coordinate on the $x$-axis, then find the y-coordinate on the $y$-axis; the intersection of the two perpendiculars is the point. Plot $L\left(-5,-3\right)$, $M\left(4,0\right)$, $N\left(-6,2\right)$, $P\left(5,-3.5\right)$, $Q\left(0,5\right)$, $R\left(6,2\right)$ in order. Among them, $M\left(4,0\right)$ is on the $x$-axis, and $Q\left(0,5\right)$ is on the $y$-axis. $\blacksquare$
-
-## Exercise 3
-
-(Exercise 9.1, Problem 3) According to the position of the point, fill in the table using "$+$" and "$-$".
-
-### Solution to Exercise 3
-
-By Quadrants, in the first quadrant both x- and y-coordinates are positive, in the second quadrant the x-coordinate is negative and the y-coordinate positive, in the third quadrant both are negative, and in the fourth quadrant the x-coordinate is positive and the y-coordinate negative.
-
-First quadrant: x-coordinate $+$, y-coordinate $+$; second quadrant: x-coordinate $-$, y-coordinate $+$; third quadrant: x-coordinate $-$, y-coordinate $-$; fourth quadrant: x-coordinate $+$, y-coordinate $-$. $\blacksquare$
-
-## Exercise 4
-
-(Exercise 9.1, Problem 1) On grid paper there are two points $A$, $B$. If a rectangular coordinate system is established with point $B$ as the origin, then the coordinates of point $A$ are $\left(-2,1\right)$. If a rectangular coordinate system is established with point $A$ as the origin, then the coordinates of point $B$ are (　　).
-
-(1) $\left(-2,1\right)$　(2) $\left(2,-1\right)$　(3) $\left(-2,-1\right)$　(4) $\left(2,1\right)$
-
-### Solution to Exercise 4
-
-By One-to-One Correspondence Between Points and Coordinates, the relative positions of the two points do not change; only the origin moves from $B$ to $A$.
-
-With $B$ as the origin, $A\left(-2,1\right)$, which means $A$ is $2$ units to the left of $B$ and $1$ unit above. Conversely, with $A$ as the origin, $B$ is $2$ units to the right of $A$ and $1$ unit below, so the coordinates of $B$ are $\left(2,-1\right)$. Choose (2). $\blacksquare$
-
-## Exercise 5
-
-(Exercise 9.1, Problem 2) As shown in the figure, in right triangle $ABC$, $\angle C=90^\circ$, $AC=3$, $BC=4$. Establish a rectangular coordinate system and write down the coordinates of the three vertices of triangle $ABC$.
-
-The figure shows a right triangle $ABC$ in a Cartesian coordinate plane, with $\angle C=90^\circ$, $AC=3$, $BC=4$.
-
-### Solution to Exercise 5
-
-By Rectangular Coordinate System, choose point $C$ as the origin, the line on which $CA$ lies as the $y$-axis, and the line on which $CB$ lies as the $x$-axis.
-
-Then $C\left(0,0\right)$. $AC=3$ in the positive $y$-axis direction, so $A\left(0,3\right)$. $BC=4$ in the positive $x$-axis direction, so $B\left(4,0\right)$.
-
-That is, $A\left(0,3\right)$, $B\left(4,0\right)$, $C\left(0,0\right)$. (With a different coordinate system, the coordinates change accordingly.) $\blacksquare$
-
-## Exercise 6
-
-(Exercise 9.1, Problem 3) The figure shows the cross-section of a piece of angle steel. Establish an appropriate rectangular coordinate system and use coordinates to represent the positions of the vertices of the angle steel (the side length of each small square in the figure represents $10\,cm$).
-
-### Solution to Exercise 6
-
-By Rectangular Coordinate System, choose one right-angle vertex of the angle steel as the origin, and take the lines on which the two sides lie as the positive directions of the $x$-axis and $y$-axis respectively. Each small grid represents $10\,cm$; according to the number of grids of each vertex relative to the origin, write down its coordinates (x-coordinate, y-coordinate, in units of $10\,cm$). $\blacksquare$
-
 ## Problem 1
 
-(Exercise 9.1, Review and Consolidation, Problem 1) As shown in the figure, write down the coordinates of each point labeled with a letter, and indicate its x-coordinate and y-coordinate.
+(Exercise 18.3, Extension and Exploration, Problem 7) Calculate: $\frac{1}{x\left(x+1\right)}+\frac{1}{\left(x+1\right)\left(x+2\right)}+\frac{1}{\left(x+2\right)\left(x+3\right)}$.
 
 ### Solution to Problem 1
 
-By Coordinates of a Point, through each point draw perpendiculars to the $x$-axis and $y$-axis respectively, and read off the number corresponding to the foot. The coordinates of the points are
+Telescoping cancellation:
 
-$$
-A\left(-5,4\right),\ B\left(-2,2\right),\ C\left(4,4\right),\ D\left(2,1\right),\ E\left(5,-3\right),\ F\left(0,-2\right),\ G\left(-4,-4\right),\ H\left(-3,-1\right).
-$$
+$$\left(\frac1x-\frac{1}{x+1}\right)+\left(\frac{1}{x+1}-\frac{1}{x+2}\right)+\left(\frac{1}{x+2}-\frac{1}{x+3}\right)=\frac1x-\frac{1}{x+3}=\frac{3}{x\left(x+3\right)}.$$
 
-The first number of each point is the x-coordinate, and the second number is the y-coordinate. $\blacksquare$
+$\blacksquare$
 
 ## Problem 2
 
-(Exercise 9.1, Review and Consolidation, Problem 2) In the rectangular coordinate system, plot the following points: point $A$ is on the $y$-axis, above the origin, $2$ units of length from the origin; point $B$ is on the $x$-axis, to the right of the origin, $1$ unit of length from the origin; point $C$ is above the $x$-axis and to the right of the $y$-axis, at distance $2$ units of length from each coordinate axis; point $D$ is on the $x$-axis, to the right of the origin, $3$ units of length from the origin; point $E$ is above the $x$-axis and to the right of the $y$-axis, at distance $2$ units of length from the $x$-axis and $4$ units of length from the $y$-axis. Connect these points in order. What figure do you get?
+(Exercise 18.3, Extension and Exploration, Problem 8) A computer manufacturer produces a certain computer at a cost of $x$ yuan per unit. The company decides: if the selling price of each computer is $y$ yuan, what is the profit margin (profit margin $=\frac{售价-成本}{成本}$)? When $x=5000$ and $y=6000$, what is the profit margin?
 
 ### Solution to Problem 2
 
-By Coordinates of a Point, the distance to the $x$-axis is the absolute value of the y-coordinate, and the distance to the $y$-axis is the absolute value of the x-coordinate.
+Profit margin $=\frac{y-x}{x}$. Substituting $x=5000,y=6000$, we get $\frac{6000-5000}{5000}=\frac{1000}{5000}=0.2=20\%$. $\blacksquare$
 
-$A$ on the $y$-axis, $2$ from the origin (up): $A\left(0,2\right)$. $B$ on the $x$-axis, $1$ from the origin (right): $B\left(1,0\right)$. $C$ in the first quadrant, $2$ from both axes: $C\left(2,2\right)$. $D$ on the $x$-axis, $3$ from the origin (right): $D\left(3,0\right)$. $E$ at distance $2$ from the $x$-axis and $4$ from the $y$-axis (first quadrant): $E\left(4,2\right)$.
+## Reading and Thinking 1
 
-Connect $A$, $B$, $C$, $D$, $E$ in order; a figure resembling an arrow (or a small house) is obtained. $\blacksquare$
+(Reading and Thinking, Can the Water in a Container Be Poured Out?) A container holds $1\ \text{L}$ of water; the $1$-st pour removes $\frac12\ \text{L}$, the $2$-nd pour removes $\frac{1}{2\times3}\ \text{L}$, the $3$-rd pour removes $\frac{1}{3\times4}\ \text{L}$, $\cdots\cdots$ the $n$-th pour removes $\frac{1}{n\left(n+1\right)}\ \text{L}$. How much water has been poured out after $n$ pours? Can all the water be poured out?
+
+### Solution to Reading and Thinking 1
+
+The total amount of water poured out after $n$ pours is
+
+$$S_n=\frac12+\frac{1}{2\times3}+\frac{1}{3\times4}+\cdots+\frac{1}{n\left(n+1\right)}.$$
+
+Using the telescoping decomposition $\frac{1}{k\left(k+1\right)}=\frac1k-\frac{1}{k+1}$, we have
+
+$$S_n=\left(1-\frac12\right)+\left(\frac12-\frac13\right)+\cdots+\left(\frac1n-\frac{1}{n+1}\right)=1-\frac{1}{n+1}=\frac{n}{n+1}.$$
+
+No matter how large $n$ is, $S_n=\frac{n}{n+1}< 1$, so the $1\ \text{L}$ of water in the container can never be completely poured out. $\blacksquare$
+
+## Exercise 1
+
+(Exercise 18.4, Problem 1) Fill in the blanks:
+
+(1) $3^0=$ \;_\_\; , $3^{-2}=$ \;_\_\; ;
+
+(2) $\left(-3\right)^0=$ \;_\_\; , $\left(-3\right)^{-2}=$ \;_\_\; ;
+
+(3) $b^0=$ \;_\_\; , $b^{-2}=$ \;_\_\; ($b\ne0$).
+
+### Solution to Exercise 1
+
+By the zero exponent power $a^0=1$ ($a\ne0$) and Basic Knowledge.
+
+(1) $3^0=1$, $3^{-2}=\frac19$.
+
+(2) $\left(-3\right)^0=1$, $\left(-3\right)^{-2}=\frac19$.
+
+(3) $b^0=1$, $b^{-2}=\frac{1}{b^2}$. $\blacksquare$
+
+## Exercise 2
+
+(Exercise 18.4, Problem 2) Calculate:
+
+(1) $x^2 y^{-3}\cdot\left(x^{-1} y\right)^3$;
+
+(2) $\left(2ab^2 c^{-3}\right)^{-2}\div\left(a^{-2} b\right)^3$.
+
+### Solution to Exercise 2
+
+By Basic Knowledge.
+
+(1) $x^2 y^{-3}\cdot x^{-3} y^3=x^{-1} y^0=\frac1x$.
+
+(2) $\left(2ab^2 c^{-3}\right)^{-2}\div\left(a^{-2} b\right)^3=\frac{1}{4}a^{-2} b^{-4} c^6\div\left(a^{-6} b^3\right)=\frac{1}{4}a^4 b^{-7} c^6=\frac{a^4 c^6}{4b^7}$. $\blacksquare$
+
+## Exercise 3
+
+(Exercise 18.4, Problem 1) Write the following numbers in scientific notation: $0.000000001$, $0.0012$, $0.000000345$, $0.0000000108$.
+
+### Solution to Exercise 3
+
+By Basic Knowledge.
+
+$0.000000001=1\times10^{-9}$; $0.0012=1.2\times10^{-3}$; $0.000000345=3.45\times10^{-7}$; $0.0000000108=1.08\times10^{-8}$. $\blacksquare$
+
+## Exercise 4
+
+(Exercise 18.4, Problem 2) Calculate:
+
+(1) $\left(2\times10^{-6}\right)\times\left(3.2\times10^3\right)$;
+
+(2) $\left(2\times10^{-6}\right)^2\div\left(10^{-4}\right)^3$.
+
+### Solution to Exercise 4
+
+(1) $\left(2\times10^{-6}\right)\left(3.2\times10^3\right)=6.4\times10^{-3}$.
+
+(2) $\left(4\times10^{-12}\right)\div\left(10^{-12}\right)=4$. $\blacksquare$
 
 ## Problem 3
 
-(Exercise 9.1, Review and Consolidation, Problem 3) As shown in the figure, in the given rectangular coordinate system plot points $A\left(-4,-4\right)$, $B\left(-2,-2\right)$, $C\left(3,3\right)$, $D\left(5,5\right)$, $E\left(-3,-3\right)$, $F\left(0,0\right)$. What is the relationship among these points? Can you find some other similar points?
+(Exercise 18.4, Review and Consolidation, Problem 1) Fill in the blanks:
 
-The figure shows a Cartesian coordinate plane with points $A\left(-4,-4\right)$, $B\left(-2,-2\right)$, $C\left(3,3\right)$, $D\left(5,5\right)$, $E\left(-3,-3\right)$, $F\left(0,0\right)$ plotted; all these points lie on the line $y=x$.
+(1) If $\left(a-3\right)^{-2}$ is meaningful, then the range of $a$ is \;_\_\; ;
+
+(2) $1\div a^{-1}=$ \;_\_\; ; $a^2\cdot a^{-2}=$ \;_\_\; ; $\left(-ab^{-1}\right)^{-2}=$ \;_\_\; .
 
 ### Solution to Problem 3
 
-By Coordinates of a Point, plot the points. Observing, the x-coordinate of each point equals its y-coordinate: $-4=-4$, $-2=-2$, $3=3$, $5=5$, $-3=-3$, $0=0$.
+(1) $\left(a-3\right)^{-2}=\frac{1}{\left(a-3\right)^2}$, requiring $a-3\ne0$, i.e. $a\ne3$.
 
-Thus all these points lie on the line $y=x$. Similar points, such as $\left(1,1\right)$, $\left(2,2\right)$, $\left(-1,-1\right)$, $\left(4,4\right)$, etc., whose x-coordinate equals y-coordinate, all lie on this line. $\blacksquare$
+(2) $1\div a^{-1}=a$; $a^2\cdot a^{-2}=a^0=1$; $\left(-ab^{-1}\right)^{-2}=\frac{1}{\left(-a/b\right)^2}=\frac{b^2}{a^2}$. $\blacksquare$
 
 ## Problem 4
 
-(Exercise 9.1, Review and Consolidation, Problem 4) As shown in the figure, establish a rectangular coordinate system so that the coordinates of points $B$, $C$ are $\left(0,0\right)$ and $\left(4,0\right)$ respectively. Write down the coordinates of points $A$, $D$, $E$, $F$, $G$, and indicate the quadrant in which they lie.
+(Exercise 18.4, Review and Consolidation, Problem 2) Calculate:
 
-The figure shows a Cartesian coordinate plane with points $B\left(0,0\right)$, $C\left(4,0\right)$, $A\left(-2,2\right)$, $D\left(5,1\right)$, $E\left(4,2\right)$, $F\left(2,0\right)$, $G\left(1,4\right)$ plotted.
+(1) $\pi^0+\left(-2\right)^{-2}-\left(-1\right)^{-3}$;
+
+(2) $2^{-2}-5\times\left(-\frac35\right)^0\times\left(\frac52\right)^{-1}$.
 
 ### Solution to Problem 4
 
-With $B$ as the origin and the line on which $BC$ lies as the $x$-axis, $C\left(4,0\right)$. By Coordinates of a Point, read off the coordinates:
+(1) $1+\frac14-\left(-1\right)=1+\frac14+1=\frac94$.
 
-$$
-A\left(-2,2\right),\ D\left(5,1\right),\ E\left(4,2\right),\ F\left(2,0\right),\ G\left(1,4\right).
-$$
-
-Judge by Quadrants: $A\left(-2,2\right)$ has negative x and positive y, in the second quadrant; $D\left(5,1\right)$, $E\left(4,2\right)$, $G\left(1,4\right)$ have both x and y positive, in the first quadrant; $F\left(2,0\right)$ is on the $x$-axis, belonging to no quadrant; $B\left(0,0\right)$ is the origin, and $C\left(4,0\right)$ is on the $x$-axis. $\blacksquare$
+(2) $\frac14-5\times1\times\frac25=\frac14-2=-\frac74$. $\blacksquare$
 
 ## Problem 5
 
-(Exercise 9.1, Review and Consolidation, Problem 5) The figure is a schematic diagram of part of a Chinese chess board. Establish a rectangular coordinate system so that the piece "Shuai" is at point $\left(0,-4\right)$ and the piece "Ma" is at point $\left(3,-4\right)$; then the piece "Bing" is at point _______. If the "Ma" takes one more step, then the new position of the "Ma" is at point _______.
+(Exercise 18.4, Review and Consolidation, Problem 3) Calculate:
 
-The figure shows a partial Chinese chess board, with pieces "shuai", "ma", "bing", "xiang" marked.
+(1) $3a^{-2} b\cdot2ab^{-2}$;
+
+(2) $4xy^2 z\div\left(-2x^{-2} y z^{-1}\right)$;
+
+(3) $\left(-3ab^{-1}\right)^3$;
+
+(4) $\left(2m^2 n^{-2}\right)^2\cdot3m^{-3} n^3$.
 
 ### Solution to Problem 5
 
-By Coordinates of a Point, determine the coordinate system with Shuai $\left(0,-4\right)$ and Ma $\left(3,-4\right)$: they have the same y-coordinate and differ by $3$ in x-coordinate, so each small grid is $1$ unit, with the $x$-axis to the right and the $y$-axis upward.
+By Basic Knowledge.
 
-Reading off by the grids of the board, "Bing" is at $\left(-3,0\right)$ and "Xiang" is at $\left(3,0\right)$.
+(1) $3a^{-2} b\cdot2ab^{-2}=6a^{-1} b^{-1}=\frac{6}{ab}$.
 
-The "Ma" moves along the diagonal of an "L" shape; from $\left(3,-4\right)$ it can move along the board lines to $\left(1,-3\right)$ (it can also move to $\left(5,-3\right)$, $\left(2,-2\right)$, $\left(4,-2\right)$, etc.; any legal step within the board works). Take the new position of the "Ma" as $\left(1,-3\right)$.
+(2) $4xy^2 z\div\left(-2x^{-2} y z^{-1}\right)=-2x^3 y z^2$.
 
-Thus "Bing" is at $\left(-3,0\right)$, and after one more step the "Ma" can be at $\left(1,-3\right)$. $\blacksquare$
+(3) $\left(-3ab^{-1}\right)^3=-27a^3 b^{-3}=-\frac{27a^3}{b^3}$.
+
+(4) $4m^4 n^{-4}\cdot3m^{-3} n^3=12m n^{-1}=\frac{12m}{n}$. $\blacksquare$
 
 ## Problem 6
 
-(Exercise 9.1, Review and Consolidation, Problem 6) In the rectangular coordinate system, plot each of the following groups of points, and connect the points within each group in order with segments.
-
-(1) $\left(0,4\right)$, $\left(-2,2\right)$, $\left(-1,2\right)$, $\left(-3,0\right)$, $\left(-1,0\right)$, $\left(-4,-2\right)$, $\left(-1,-2\right)$, $\left(-1,-4\right)$, $\left(1,-4\right)$, $\left(1,-2\right)$, $\left(4,-2\right)$, $\left(1,0\right)$, $\left(3,0\right)$, $\left(1,2\right)$, $\left(2,2\right)$, $\left(0,4\right)$;
-
-(2) $\left(-2,2\right)$, $\left(0,2\right)$, $\left(0,1\right)$, $\left(-1,0\right)$, $\left(-1,-2\right)$, $\left(0,-3\right)$, $\left(4,-3\right)$, $\left(3,-2\right)$, $\left(6,0\right)$, $\left(0,0\right)$, $\left(1,1\right)$, $\left(1,2.5\right)$, $\left(0,3\right)$, $\left(-2,2\right)$.
-
-Observe the resulting figures. What do they resemble? Find the areas of the resulting figures.
+(Exercise 18.4, Review and Consolidation, Problem 4) Write the following numbers in scientific notation: $0.00001$, $0.00002$, $0.000000567$, $0.000000301$.
 
 ### Solution to Problem 6
 
-By Coordinates of a Point, plot the points and connect them. Plot and connect in order according to the given coordinates; a pattern drawn with coordinates is obtained (such as an animal and a vehicle). The area can be found by dividing the pattern into several triangles and rectangles, computing each separately, and adding them up. $\blacksquare$
+$0.00001=1\times10^{-5}$; $0.00002=2\times10^{-5}$; $0.000000567=5.67\times10^{-7}$; $0.000000301=3.01\times10^{-7}$. $\blacksquare$
 
 ## Problem 7
 
-(Exercise 9.1, Review and Consolidation, Problem 7) Establish a rectangular coordinate system, plot points $A\left(-2,4\right)$, $B\left(3,4\right)$, and draw line $AB$. If point $C$ is any point on line $AB$, what is the y-coordinate of point $C$? Think about it:
+(Exercise 18.4, Comprehensive Application, Problem 5) Calculate:
 
-(1) If some points lie on a line parallel to the $x$-axis, what is characteristic of their y-coordinates?
+(1) $\left(2\times10^{-3}\right)\times\left(5\times10^{-3}\right)$;
 
-(2) If some points lie on a line parallel to the $y$-axis, what is characteristic of their x-coordinates?
-
-The figure shows a Cartesian coordinate plane with points $A\left(-2,4\right)$, $B\left(3,4\right)$ and the horizontal line $AB$ through them (parallel to the $x$-axis).
+(2) $\left(3\times10^{-5}\right)^2\div\left(3\times10^{-1}\right)^2$.
 
 ### Solution to Problem 7
 
-Both $A\left(-2,4\right)$ and $B\left(3,4\right)$ have y-coordinate $4$, and all points on line $AB$ determined by the two points have y-coordinate $4$. Thus the y-coordinate of point $C$ is $4$.
+(1) $\left(2\times10^{-3}\right)\left(5\times10^{-3}\right)=10\times10^{-6}=1\times10^{-5}$.
 
-(1) By Coordinates of a Point, all points on a line parallel to the $x$-axis are at the same distance from the $x$-axis, so their y-coordinates are all equal.
-
-(2) All points on a line parallel to the $y$-axis are at the same distance from the $y$-axis, so their x-coordinates are all equal. $\blacksquare$
+(2) $\left(9\times10^{-10}\right)\div\left(9\times10^{-2}\right)=10^{-8}$. $\blacksquare$
 
 ## Problem 8
 
-(Exercise 9.1, Review and Consolidation, Problem 8) In the rectangular coordinate system, choose some points whose x- and y-coordinates satisfy the following conditions, mark their positions, and see in which quadrant or on which coordinate axis they lie:
+(Exercise 18.4, Comprehensive Application, Problem 6) Calculate:
 
-(1) The coordinates of point $P\left(x,y\right)$ satisfy $xy> 0$;
+(1) $\frac{a^{-2} b^3\left(-3a^{-1} b^2\right)}{6a^{-3} b^{-2}}$;
 
-(2) The coordinates of point $P\left(x,y\right)$ satisfy $xy< 0$;
-
-(3) The coordinates of point $P\left(x,y\right)$ satisfy $xy=0$.
+(2) $\left(\frac{x^2+xy}{x}\right)^{-1}\div\left(\frac{x-y}{x}\cdot\frac{x}{y-x}\right)^{-3}$.
 
 ### Solution to Problem 8
 
-By the signs of the x- and y-coordinates in each quadrant in Quadrants.
+(1) $\frac{-3a^{-3} b^5}{6a^{-3} b^{-2}}=-\frac12 b^7$.
 
-(1) $xy> 0$ means $x$, $y$ have the same sign: both positive is the first quadrant, both negative is the third quadrant. Thus these points lie in the first or third quadrant.
-
-(2) $xy< 0$ means $x$, $y$ have opposite signs: $x$ positive and $y$ negative is the fourth quadrant, $x$ negative and $y$ positive is the second quadrant. Thus these points lie in the second or fourth quadrant.
-
-(3) $xy=0$ means $x=0$ or $y=0$: points with $x=0$ lie on the $y$-axis, and points with $y=0$ lie on the $x$-axis. Thus these points lie on the coordinate axes. $\blacksquare$
+(2) $\left(\frac{x\left(x+y\right)}{x}\right)^{-1}\div\left(\frac{x-y}{x}\cdot\frac{x}{-\left(x-y\right)}\right)^{-3}=\frac{1}{x+y}\div\left(-1\right)^{-3}=\frac{1}{x+y}\div\left(-1\right)=-\frac{1}{x+y}$. $\blacksquare$
 
 ## Problem 9
 
-(Exercise 9.1, Comprehensive Application, Problem 9) Given points $O\left(0,0\right)$, $B\left(1,2\right)$, point $A$ lies on a coordinate axis, and $S_{\triangle OAB}=2$. Find the coordinates of point $A$ satisfying the conditions.
+(Exercise 18.4, Comprehensive Application, Problem 7) Given $x+x^{-1}=3$, find the values of $x^2+x^{-2}$ and $x^4+x^{-4}$.
 
 ### Solution to Problem 9
 
-Point $A$ lies on a coordinate axis; there are two cases.
+$\left(x+x^{-1}\right)^2=x^2+2+x^{-2}=9$, hence $x^2+x^{-2}=7$.
 
-If $A$ is on the $x$-axis, let $A\left(a,0\right)$. Taking $OA$ as the base, of length $\left|a\right|$, the height is the distance from point $B$ to the $x$-axis, namely the y-coordinate of $B$, which is $2$. By the triangle area formula,
-
-$$
-S_{\triangle OAB}=\frac{1}{2}\left|a\right|\cdot 2=\left|a\right|=2,
-$$
-
-so $a=\pm 2$, i.e. $A\left(2,0\right)$ or $A\left(-2,0\right)$.
-
-If $A$ is on the $y$-axis, let $A\left(0,b\right)$. Taking $OA$ as the base, of length $\left|b\right|$, the height is the distance from point $B$ to the $y$-axis, namely the x-coordinate of $B$, which is $1$. Then
-
-$$
-S_{\triangle OAB}=\frac{1}{2}\left|b\right|\cdot 1=2,
-$$
-
-so $\left|b\right|=4$, $b=\pm 4$, i.e. $A\left(0,4\right)$ or $A\left(0,-4\right)$.
-
-In summary, the points $A$ satisfying the conditions are $\left(2,0\right)$, $\left(-2,0\right)$, $\left(0,4\right)$, $\left(0,-4\right)$. $\blacksquare$
+$\left(x^2+x^{-2}\right)^2=x^4+2+x^{-4}=49$, hence $x^4+x^{-4}=47$. $\blacksquare$
 
 ## Problem 10
 
-(Exercise 9.1, Extension and Exploration, Problem 10) Design a figure that can be drawn using the coordinates of its vertices, tell these coordinates to your classmate, and see whether he can draw the figure you designed.
-
-The figure shows a shape (such as a "house") drawn by its vertex coordinates.
+(Exercise 18.4, Extension and Exploration, Problem 8) Given that the mass of $1$ water molecule is approximately $3\times10^{-26}\ \text{kg}$, and $1$ drop of water (taking $20$ drops as $1\ \text{g}$) contains approximately how many water molecules?
 
 ### Solution to Problem 10
 
-By One-to-One Correspondence Between Points and Coordinates, choose several key points of the figure, write down the coordinates of each point, and then specify the connecting order. For example, design a "house" figure whose vertex coordinates in order are $A\left(-2,0\right)$, $B\left(2,0\right)$, $C\left(2,2\right)$, $D\left(0,4\right)$, $E\left(-2,2\right)$, connected in the order $A\to B\to C\to D\to E\to A$. The classmate plots the points and connects them according to the coordinates to draw the figure. $\blacksquare$
+The mass of $1$ drop of water $=\frac{1}{20}\ \text{g}=5\times10^{-5}\ \text{kg}$.
+
+The number of water molecules $=\frac{5\times10^{-5}}{3\times10^{-26}}=\frac{5}{3}\times10^{21}\approx1.67\times10^{21}$ molecules. $\blacksquare$
+
+## Exercise 5
+
+(Exercise 18.5, Problem 1) Solve the following equations:
+
+(1) $\frac{5}{x}=\frac{7}{x-2}$;
+
+(2) $\frac{2}{x+3}=\frac{1}{x-1}$;
+
+(3) $\frac{12}{x}=\frac{2}{x+3}$;
+
+(4) $\frac{x}{x+1}=\frac{2 x}{3 x+3}+1$;
+
+(5) $\frac{2}{x-1}=\frac{4}{x^2-1}$;
+
+(6) $\frac{5}{x^2+x}-\frac{1}{x^2-x}=0$.
+
+### Solution to Exercise 5
+
+Clear the denominators to obtain an integral equation, then check.
+
+(1) Multiply by $x\left(x-2\right)$: $5\left(x-2\right)=7x$, $5x-10=7x$, $x=-5$. Checking $x\left(x-2\right)\ne0$, hence $x=-5$.
+
+(2) Multiply by $\left(x+3\right)\left(x-1\right)$: $2\left(x-1\right)=x+3$, $2x-2=x+3$, $x=5$. The check holds, hence $x=5$.
+
+(3) Multiply by $x\left(x+3\right)$: $12\left(x+3\right)=2x$, $12x+36=2x$, $x=-\frac{18}{5}$. The check holds.
+
+(4) Multiply by $3\left(x+1\right)$: $3x=2x+3\left(x+1\right)$, $3x=5x+3$, $x=-\frac32$. Checking $x+1\ne0$, holds.
+
+(5) Multiply by $\left(x-1\right)\left(x+1\right)$: $2\left(x+1\right)=4$, $x=1$. Checking $\left(x-1\right)\left(x+1\right)=0$, hence $x=1$ is not a solution; the original equation has no solution.
+
+(6) Multiply by $x\left(x+1\right)\left(x-1\right)$: $5\left(x-1\right)-\left(x+1\right)=0$, $5x-5-x-1=0$, $4x=6$, $x=\frac32$. The check holds. $\blacksquare$
+
+## Exercise 6
+
+(Exercise 18.5, Problem 1) Eighth-grade students go to the Museum of the Chinese People's War of Resistance Against Japanese Aggression, $30\ \text{km}$ from the school; some students set off first by coach, and after $5\ \text{min}$ the rest set off by minibus, and they arrive at the same time. Given that the average speed of the minibus is $1.2$ times that of the coach, find the average speed of the coach.
+
+### Solution to Exercise 6
+
+Let the coach's average speed be $x\ \text{km/h}$; then the minibus is $1.2x\ \text{km/h}$. $5\ \text{min}=\frac{1}{12}\ \text{h}$.
+
+$$\frac{30}{x}-\frac{30}{1.2x}=\frac{1}{12}.$$
+
+$$\frac{36-30}{1.2x}=\frac{1}{12},\quad \frac{6}{1.2x}=\frac{1}{12},\quad 1.2x=72,\quad x=60.$$
+
+Checking, when $x=60$ the denominator is not $0$. Hence the coach's average speed is $60\ \text{km/h}$. $\blacksquare$
+
+## Exercise 7
+
+(Exercise 18.5, Problem 2) A and B are making a certain mechanical part. Given that A makes $6$ more parts per hour than B, the time A takes to make $90$ parts equals the time B takes to make $60$ parts. Find how many parts A and B each make per hour.
+
+### Solution to Exercise 7
+
+Let B make $x$ parts per hour; then A makes $\left(x+6\right)$ parts per hour.
+
+$$\frac{90}{x+6}=\frac{60}{x}.$$
+
+$90x=60\left(x+6\right)=60x+360$, $30x=360$, $x=12$. The check holds.
+
+Hence B makes $12$ parts per hour, and A makes $18$ parts per hour. $\blacksquare$
+
+## Problem 11
+
+(Exercise 18.5, Review and Consolidation, Problem 1) Solve the following equations:
+
+(1) $\frac{1}{x}=\frac{5}{x+3}$;
+
+(2) $\frac{x}{x-1}=\frac{3}{2 x-2}-2$;
+
+(3) $\frac{2}{2 x-1}=\frac{4}{4 x^2-1}$;
+
+(4) $\frac{3}{x^2+2 x}-\frac{1}{x^2-2 x}=0$;
+
+(5) $\frac{x}{x-3}=\frac{x+1}{x-1}$;
+
+(6) $\frac{x-3}{x-2}+1=\frac{3}{2-x}$;
+
+(7) $\frac{2 x+1}{x^2+x}=\frac{5}{6 x+6}$;
+
+(8) $\frac{3}{2 x-1}=\frac{5}{6 x-2}$.
+
+### Solution to Problem 11
+
+(1) $x+3=5x$, $x=\frac34$. The check holds.
+
+(2) Multiply by $2\left(x-1\right)$: $2x=3-4\left(x-1\right)$, $2x=7-4x$, $x=\frac76$. The check holds.
+
+(3) Multiply by $\left(2x+1\right)\left(2x-1\right)$: $2\left(2x+1\right)=4$, $4x+2=4$, $x=\frac12$. Checking $2x-1=0$, the original equation has no solution.
+
+(4) Multiply by $x\left(x+2\right)\left(x-2\right)$: $3\left(x-2\right)-\left(x+2\right)=0$, $3x-6-x-2=0$, $2x=8$, $x=4$. The check holds.
+
+(5) $x\left(x-1\right)=\left(x+1\right)\left(x-3\right)$, $x^2-x=x^2-2x-3$, $x=-3$. The check holds.
+
+(6) Multiply by $x-2$: $x-3+x-2=-3$, $2x=2$, $x=1$. The check holds.
+
+(7) Multiply by $6x\left(x+1\right)$: $6\left(2x+1\right)=5x$, $12x+6=5x$, $x=-\frac67$. The check holds.
+
+(8) Multiply by $2\left(2x-1\right)$: $6=5$, a contradiction; the original equation has no solution. $\blacksquare$
+
+## Problem 12
+
+(Exercise 18.5, Comprehensive Application, Problem 2) Solve the following equations for $x$:
+
+(1) $\frac{1}{x-1}+a=1$ ($a\ne1$);
+
+(2) $\frac{m x-1}{x+1}=0$ ($m\ne0$, and $m\ne1$).
+
+### Solution to Problem 12
+
+(1) $\frac{1}{x-1}=1-a$, $x-1=\frac{1}{1-a}$, $x=1+\frac{1}{1-a}=\frac{2-a}{1-a}$. Checking $x\ne1$.
+
+(2) The numerator $mx-1=0$, $x=\frac1m$. Checking $x+1=\frac1m+1\ne0$ (since $m\ne-1$), holds. $\blacksquare$
+
+## Problem 13
+
+(Exercise 18.5, Comprehensive Application, Problem 3) A and B set off at the same time from places $6\ \text{km}$ and $10\ \text{km}$ from the destination respectively; the ratio of A's to B's average speeds is $3:4$, and A arrives at the destination $20\ \text{min}$ earlier than B. Find the average speeds of A and B.
+
+### Solution to Problem 13
+
+Let A's speed be $3x$ and B's speed be $4x$. $20\ \text{min}=\frac13\ \text{h}$.
+
+$$\frac{10}{4x}-\frac{6}{3x}=\frac13.$$
+
+$$\frac{5}{2x}-\frac{2}{x}=\frac13,\quad \frac{5-4}{2x}=\frac13,\quad \frac{1}{2x}=\frac13,\quad x=\frac32.$$
+
+Hence A's speed is $3x=4.5\ \text{km/h}$, and B's speed is $4x=6\ \text{km/h}$. $\blacksquare$
+
+## Problem 14
+
+(Exercise 18.5, Comprehensive Application, Problem 4) Machines of type $A,B$ are both used to transport chemical raw materials; a type $A$ machine transports $30\ \text{kg}$ more per hour than a type $B$ machine, and the time a type $A$ machine takes to transport $900\ \text{kg}$ equals the time a type $B$ machine takes to transport $600\ \text{kg}$. How much chemical raw material does each type of machine transport per hour?
+
+### Solution to Problem 14
+
+Let type $B$ transport $x\ \text{kg}$ per hour; then type $A$ is $\left(x+30\right)\ \text{kg}$.
+
+$$\frac{900}{x+30}=\frac{600}{x}.$$
+
+$900x=600\left(x+30\right)=600x+18000$, $300x=18000$, $x=60$. The check holds.
+
+Hence type $B$ is $60\ \text{kg}$ per hour, and type $A$ is $90\ \text{kg}$ per hour. $\blacksquare$
+
+## Problem 15
+
+(Exercise 18.5, Comprehensive Application, Problem 5) Wang Fang counts half of a batch of books in $3\ \text{h}$; Liu Wei joins in counting the other half, and together they count the other half in $1.2\ \text{h}$. How many hours does Liu Wei need to count this batch of books alone?
+
+### Solution to Problem 15
+
+Wang Fang counts half in $3\ \text{h}$, so she counts $\frac{1}{6}$ per hour. Let Liu Wei alone need $x\ \text{h}$, counting $\frac1x$ per hour. Together they count the other half ($\frac12$) in $1.2\ \text{h}$:
+
+$$1.2\left(\frac16+\frac1x\right)=\frac12.$$
+
+$$\frac{1.2}{6}+\frac{1.2}{x}=\frac12,\quad 0.2+\frac{1.2}{x}=0.5,\quad \frac{1.2}{x}=0.3,\quad x=4.$$
+
+The check holds. Hence Liu Wei alone needs $4\ \text{h}$. $\blacksquare$
+
+## Problem 16
+
+(Exercise 18.5, Extension and Exploration, Problem 7) After improving the corn variety, the average corn yield per hectare in Yingchun Village increased by $a\ \text{t}$; a plot that originally yielded $m\ \text{t}$ of corn now has a total increase of $20\ \text{t}$. What were the original and current average corn yields per hectare?
+
+### Solution to Problem 16
+
+Let the original yield per hectare be $x\ \text{t}$; then the area of the plot is $\frac{m}{x}$ hectares. Now the yield per hectare is $\left(x+a\right)\ \text{t}$, and the total increase is $a\cdot\frac{m}{x}=20$.
+
+$$\frac{am}{x}=20,\quad x=\frac{am}{20}.$$
+
+The original yield per hectare is $\frac{am}{20}\ \text{t}$, and the current is $\frac{am}{20}+a=\frac{a\left(m+20\right)}{20}\ \text{t}$. $\blacksquare$
+
+## Problem 17
+
+(Exercise 18.5, Extension and Exploration, Problem 8) Two groups start climbing a $450\ \text{m}$-high mountain at the same time; the average climbing speed of the first group is $1.2$ times that of the second group, and they reach the summit $15\ \text{min}$ earlier than the second group. What are the average climbing speeds of the two groups?
+
+### Solution to Problem 17
+
+Let the second group's speed be $x\ \text{m/min}$, and the first group's $1.2x$.
+
+$$\frac{450}{x}-\frac{450}{1.2x}=15.$$
+
+$$\frac{450}{x}-\frac{375}{x}=15,\quad \frac{75}{x}=15,\quad x=5.$$
+
+The check holds. Hence the second group's speed is $5\ \text{m/min}$, and the first group's is $6\ \text{m/min}$. $\blacksquare$
+
+## Activity 1
+
+(Mathematical Activity, Activity 1) Explore the properties of proportions. Find a set of numbers $a,b,c,d$, all not equal to $0$, such that $\frac{a}{b}=\frac{c}{d}$ holds. Using this set of values, compute the values of the two fractions in each of the following groups, and see what relationship holds between them:
+
+(1) $\frac{a}{c}$ and $\frac{b}{d}$;
+
+(2) $\frac{b}{a}$ and $\frac{d}{c}$;
+
+(3) $\frac{a+b}{b}$ and $\frac{c+d}{d}$;
+
+(4) $\frac{a+b}{a-b}$ and $\frac{c+d}{c-d}$ ($a\ne b$, $c\ne d$).
+
+Conjecture the relationship between the two fractions in each group, and prove your conjecture.
+
+### Solution to Activity 1
+
+Take $a=2,b=3,c=4,d=6$, satisfying $\frac{2}{3}=\frac46$.
+
+(1) $\frac{a}{c}=\frac12$, $\frac{b}{d}=\frac12$, equal.
+
+(2) $\frac{b}{a}=\frac32$, $\frac{d}{c}=\frac32$, equal.
+
+(3) $\frac{a+b}{b}=\frac53$, $\frac{c+d}{d}=\frac{10}{6}=\frac53$, equal.
+
+(4) $\frac{a+b}{a-b}=\frac{5}{-1}=-5$, $\frac{c+d}{c-d}=\frac{10}{-2}=-5$, equal.
+
+Proof: From $\frac{a}{b}=\frac{c}{d}=k$, we get $a=bk$, $c=dk$.
+
+(1) $\frac{a}{c}=\frac{bk}{dk}=\frac{b}{d}$.
+
+(2) $\frac{b}{a}=\frac{b}{bk}=\frac1k$, $\frac{d}{c}=\frac{d}{dk}=\frac1k$, equal.
+
+(3) $\frac{a+b}{b}=\frac{bk+b}{b}=k+1$, $\frac{c+d}{d}=\frac{dk+d}{d}=k+1$, equal.
+
+(4) $\frac{a+b}{a-b}=\frac{bk+b}{bk-b}=\frac{k+1}{k-1}$, $\frac{c+d}{c-d}=\frac{dk+d}{dk-d}=\frac{k+1}{k-1}$, equal. $\blacksquare$
+
+## Activity 2
+
+(Mathematical Activity, Activity 2) Explore the pattern in the values of $x^2+\frac{1}{x^2}$. Fill in the following table, and find the values of $x^2+\frac{1}{x^2}$ when $x=-3,-2,-1,-\frac12,-\frac13,\frac13,\frac12,1,2,3$ respectively. From the completed table, can you make some conjectures about the value of $x^2+\frac{1}{x^2}$? Can you prove your conjecture?
+
+### Solution to Activity 2
+
+Compute each value:
+
+$x=-3$: $9+\frac19=\frac{82}{9}$;
+
+$x=-2$: $4+\frac14=\frac{17}{4}$;
+
+$x=-1$: $1+1=2$;
+
+$x=-\frac12$: $\frac14+4=\frac{17}{4}$;
+
+$x=-\frac13$: $\frac19+9=\frac{82}{9}$;
+
+$x=\frac13$: same as $x=-\frac13$, $\frac{82}{9}$;
+
+$x=\frac12$: same as $x=-\frac12$, $\frac{17}{4}$;
+
+$x=1$: $2$;
+
+$x=2$: $\frac{17}{4}$;
+
+$x=3$: $\frac{82}{9}$.
+
+Conjecture: $x^2+\frac{1}{x^2}\ge2$, attaining the minimum $2$ when $x=\pm1$, and $x$ and $\frac1x$ give the same value.
+
+Proof: $x^2+\frac{1}{x^2}-2=\left(x-\frac1x\right)^2\ge0$, hence $x^2+\frac{1}{x^2}\ge2$, with equality when $x=\pm1$. $\blacksquare$

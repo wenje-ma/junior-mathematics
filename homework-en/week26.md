@@ -2,418 +2,496 @@
 
 ## Exercise 1
 
-(Exercise 6.3, Problem 1) As shown, point $O$ lies on line $AB$, $\angle AOC=50^{\circ}$; find the degree measure of $\angle BOC$.
+(Exercise 11.2, Problem 3) A contest has $20$ questions in total; answering one correctly earns $10$ points, while a wrong or unanswered answer deducts $5$ points. If a total score above $90$ points is required to advance, at least how many questions must be answered correctly?
 
 ### Solution to Exercise 1
 
-By Supplementary Angle, $O$ lies on line $AB$, so $\angle AOB=180^{\circ}$, and $\angle AOC$ and $\angle BOC$ are supplementary.
+Let $x$ be the number of questions answered correctly; then $\left(20-x\right)$ are wrong or unanswered. By the statement
 
-$$\angle BOC=180^{\circ}-\angle AOC=180^{\circ}-50^{\circ}=130^{\circ}.$$
+$$
+10x-5\left(20-x\right)> 90.
+$$
 
-$\blacksquare$
+i.e. $10x-100+5x> 90$, $15x> 190$, $x> 12\frac{2}{3}$. Hence at least $13$ questions must be answered correctly. $\blacksquare$
 
 ## Exercise 2
 
-(Exercise 6.3, Problem 2) Calculate:
-
-(1) $48^{\circ}39'+67^{\circ}31'$;
-
-(2) $90^{\circ}-28^{\circ}12'$;
-
-(3) $22^{\circ}16'\times5$;
-
-(4) $180^{\circ}\div8$.
+(Exercise 11.2, Problem 4) The energy consumption per ten thousand yuan of regional GDP in a certain place is $0.320\ \text{t}$ of standard coal. If this year it must drop by no less than $5\%$ compared with last year, at most how many tons of standard coal may this year's energy consumption per ten thousand yuan of regional GDP be?
 
 ### Solution to Exercise 2
 
-By Measuring Angles, calculate using the base-$60$ system of degrees, minutes, and seconds.
-
-(1) $48^{\circ}39'+67^{\circ}31'=115^{\circ}70'=116^{\circ}10'$.
-
-(2) $90^{\circ}-28^{\circ}12'=89^{\circ}60'-28^{\circ}12'=61^{\circ}48'$.
-
-(3) $22^{\circ}16'\times5=110^{\circ}80'=111^{\circ}20'$.
-
-(4) $180^{\circ}\div8=22.5^{\circ}=22^{\circ}30'$. $\blacksquare$
+Let this year's energy consumption be $x\ \text{t}$. By the statement $x\le0.320\left(1-5\%\right)=0.304$. Hence this year it is at most $0.304\ \text{t}$ of standard coal. $\blacksquare$
 
 ## Exercise 3
 
-(Exercise 6.3, Problem 3) Express $33.28^{\circ}$ in degrees, minutes, and seconds; express $108^{\circ}20'42''$ in degrees.
+(Exercise 11.2, Problem 5) A construction team must finish repairing a $6\ \text{km}$ road within $10$ days; in the first $2$ days it repaired $1.2\ \text{km}$ in total. Now it is required to finish at least $2$ days early. At least how many kilometers must be repaired on average per day thereafter?
 
 ### Solution to Exercise 3
 
-By Measuring Angles, convert using the base-$60$ system.
-
-$$0.28^{\circ}=0.28\times60'=16.8',\quad 0.8'=0.8\times60''=48''.$$
-
-Hence $33.28^{\circ}=33^{\circ}16'48''$.
-
-$$42''=\frac{42}{60}'=0.7',\quad 20.7'=\frac{20.7}{60}^{\circ}=0.345^{\circ}.$$
-
-Hence $108^{\circ}20'42''=108.345^{\circ}$. $\blacksquare$
+The remaining distance is $6-1.2=4.8\ \text{km}$, and the remaining time is $10-2-2=6$ days. Let $x\ \text{km}$ be repaired per day thereafter; then $6x\ge4.8$, giving $x\ge0.8$. Hence on average at least $0.8\ \text{km}$ must be repaired per day thereafter. $\blacksquare$
 
 ## Exercise 4
 
-(Exercise 6.3, Problem 4) At $2$ o'clock and $15$ minutes on a clock, what is the angle between the hour hand and the minute hand?
+(Exercise 11.2, Problem 6) A shop buys $150$ bicycles at $340$ yuan each and sells them at $450$ yuan each. If the sales revenue must exceed the total purchase cost, at least how many must be sold?
 
 ### Solution to Exercise 4
 
-By Measuring Angles, the hour hand turns $30^{\circ}$ per hour ($360^{\circ}\div12$) and $0.5^{\circ}$ per minute; the minute hand turns $6^{\circ}$ per minute ($360^{\circ}\div60$).
-
-At $2$ o'clock and $15$ minutes, the minute hand is at: $15\times6^{\circ}=90^{\circ}$. The hour hand is at: $2\times30^{\circ}+15\times0.5^{\circ}=60^{\circ}+7.5^{\circ}=67.5^{\circ}$.
-
-The angle: $90^{\circ}-67.5^{\circ}=22.5^{\circ}$. $\blacksquare$
+Let $x$ be the number sold. The total purchase cost is $340\times150=51000$ yuan. By the statement $450x> 51000$, giving $x> 113\frac{1}{3}$. Hence at least $114$ must be sold. $\blacksquare$
 
 ## Exercise 5
 
-(Exercise 6.3, Problem 1) As shown, $\angle AOC=40^{\circ}$, $\angle COE=25^{\circ}$, and $OD$ is the bisector of $\angle AOB$; find the degree measure of $\angle DOB$.
+(Exercise 11.2, Problem 7) A school buys a total of $100$ notebooks and gel pens; each notebook costs $16$ yuan and each gel pen costs $4$ yuan, and the total cost does not exceed $900$ yuan. At most how many notebooks can be bought?
 
 ### Solution to Exercise 5
 
-By Comparing and Operating on Angles and Angle Bisector.
+Let $x$ be the number of notebooks; then the number of gel pens is $\left(100-x\right)$. By the statement
 
-$$\angle AOE=\angle AOC+\angle COE=40^{\circ}+25^{\circ}=65^{\circ}.$$
+$$
+16x+4\left(100-x\right)\le900,
+$$
 
-If $\angle AOB=\angle AOE=65^{\circ}$, and $OD$ bisects $\angle AOB$, then
-
-$$\angle DOB=\frac{1}{2}\angle AOB=\frac{1}{2}\times65^{\circ}=32.5^{\circ}.$$
-
-$\blacksquare$
+i.e. $12x+400\le900$, $x\le41\frac{2}{3}$. Hence at most $41$ notebooks can be bought. $\blacksquare$
 
 ## Exercise 6
 
-(Exercise 6.3, Problem 2) As shown, $OC$ is the bisector of $\angle AOB$, and $OD$ is the bisector of $\angle BOC$. If $\angle AOB=120^{\circ}$, find the degree measure of $\angle AOD$.
+(Exercise 11.2, Problem 8) A fruit shop spends $10000$ yuan buying $200\ \text{kg}$ each of large and small cherries; large cherries sell at $39$ yuan per kilogram and small cherries at $29$ yuan per kilogram. During transport the large cherries lose $20\%$, while the small cherries suffer no loss. If the profit must be no less than $90\%$ of the expected profit, at least how much per kilogram must the large cherries actually sell for?
 
 ### Solution to Exercise 6
 
-By Angle Bisector.
+The expected profit (without loss) is $200\times39+200\times29-10000=13600-10000=3600$ yuan. Actually $200\times\left(1-20\%\right)=160\ \text{kg}$ of large cherries remain. Let the actual selling price of large cherries be $x$ yuan per kilogram; then
 
-$OC$ bisects $\angle AOB$, so $\angle BOC=\frac{1}{2}\angle AOB=60^{\circ}$.
+$$
+160x+200\times29-10000\ge3600\times90\%.
+$$
 
-$OD$ bisects $\angle BOC$, so $\angle COD=\frac{1}{2}\angle BOC=30^{\circ}$.
-
-$$\angle AOD=\angle AOC+\angle COD=60^{\circ}+30^{\circ}=90^{\circ}.$$
-
-In the figure, with $O$ as the vertex, the rays $OA$ and $OB$ form $\angle AOB=120^{\circ}$, ray $OC$ inside the angle bisects $\angle AOB$, and ray $OD$ inside the angle bisects $\angle BOC$.
-
-$\blacksquare$
-
-## Exercise 7
-
-(Exercise 6.3, Problem 3) As shown, given $\angle AOB=60^{\circ}$, $\angle BOC=40^{\circ}$, $OM$ bisects $\angle AOC$, and $ON$ bisects $\angle BOC$; find the degree measure of $\angle MON$.
-
-### Solution to Exercise 7
-
-By Angle Bisector.
-
-$$\angle AOC=\angle AOB+\angle BOC=60^{\circ}+40^{\circ}=100^{\circ}.$$
-
-$OM$ bisects $\angle AOC$, so $\angle MOC=\frac{1}{2}\angle AOC=50^{\circ}$.
-
-$ON$ bisects $\angle BOC$, so $\angle NOC=\frac{1}{2}\angle BOC=20^{\circ}$.
-
-$$\angle MON=\angle MOC-\angle NOC=50^{\circ}-20^{\circ}=30^{\circ}.$$
-
-$\blacksquare$
-
-## Exercise 8
-
-(Exercise 6.3, Problem 1) As shown, the right-angle vertices of two set squares coincide at point $O$; find the degree measure of $\angle AOD+\angle BOC$.
-
-### Solution to Exercise 8
-
-By Comparing and Operating on Angles and Complementary Angle.
-
-The right-angle vertices of the two set squares coincide, i.e. $\angle AOB=\angle COD=90^{\circ}$.
-
-$$\angle AOD=\angle AOB+\angle BOD=90^{\circ}+\angle BOD.$$
-
-$$\angle BOC=\angle COD-\angle BOD=90^{\circ}-\angle BOD.$$
-
-$$\angle AOD+\angle BOC=\left(90^{\circ}+\angle BOD\right)+\left(90^{\circ}-\angle BOD\right)=180^{\circ}.$$
-
-$\blacksquare$
-
-## Exercise 9
-
-(Exercise 6.3, Problem 2) The complement of an angle is $20^{\circ}$ less than $\frac{1}{3}$ of its supplement; find the degree measure of the angle.
-
-### Solution to Exercise 9
-
-By Complementary Angle and Supplementary Angle, let the angle be $x^{\circ}$.
-
-Its complement is $\left(90-x\right)^{\circ}$, and its supplement is $\left(180-x\right)^{\circ}$.
-
-$$90-x=\frac{1}{3}\left(180-x\right)-20.$$
-
-Simplifying: $90-x=60-\frac{x}{3}-20$. $90-x=40-\frac{x}{3}$. $50=\frac{2x}{3}$. $x=75$. Hence the angle is $75^{\circ}$. $\blacksquare$
-
-## Exercise 10
-
-(Exercise 6.3, Problem 3) As shown, point $O$ lies on line $AB$, $OD$ bisects $\angle AOC$, and $OE$ bisects $\angle BOC$; find the degree measure of $\angle DOE$.
-
-### Solution to Exercise 10
-
-By Angle Bisector and Supplementary Angle.
-
-$O$ lies on line $AB$, so $\angle AOC+\angle BOC=180^{\circ}$.
-
-$OD$ bisects $\angle AOC$, so $\angle DOC=\frac{1}{2}\angle AOC$.
-
-$OE$ bisects $\angle BOC$, so $\angle COE=\frac{1}{2}\angle BOC$.
-
-$$\angle DOE=\angle DOC+\angle COE=\frac{1}{2}\left(\angle AOC+\angle BOC\right)=\frac{1}{2}\times180^{\circ}=90^{\circ}.$$
-
-$\blacksquare$
-
-## Exercise 11
-
-(Exercise 6.3, Problem 4) The supplement of an angle is $4$ times its complement; find the degree measure of the angle.
-
-### Solution to Exercise 11
-
-By Complementary Angle and Supplementary Angle, let the angle be $x^{\circ}$.
-
-$$180-x=4\left(90-x\right).$$
-
-Simplifying: $180-x=360-4x$. $3x=180$. $x=60$. Hence the angle is $60^{\circ}$. $\blacksquare$
+i.e. $160x-4200\ge3240$, $160x\ge7440$, $x\ge46.5$. Hence the large cherries must actually sell for at least $46.5$ yuan per kilogram. $\blacksquare$
 
 ## Problem 1
 
-(Problem 6.3, Review and Consolidation, Problem 1) In the figure below, which angles can be denoted by a single letter?
+(Exercise 11.2, Review and Consolidation, Problem 1) Solve the following inequalities:
+
+(1) $3\left(2x+5\right)> 2\left(4x+3\right)$;
+
+(2) $10-4\left(x-4\right)\le2\left(x-1\right)$;
+
+(3) $\frac{2x-4}{7}< \frac{x-5}{2}$;
+
+(4) $\frac{2x-1}{3}\le\frac{3x-4}{6}$;
+
+(5) $\frac{3y-1}{5}-2> \frac{y+1}{4}$;
+
+(6) $\frac{y+1}{6}-\frac{2y-5}{4}\ge1$.
 
 ### Solution to Problem 1
 
-By Angle, when there is only one angle at a vertex, it can be denoted by the single letter at that vertex.
+(1) $6x+15> 8x+6$, giving $x< \frac{9}{2}$.
 
-At each vertex in the figure: if only two rays emanate from a vertex (i.e. only one angle), that angle can be denoted by the vertex letter; if three or more rays emanate from a vertex (i.e. several angles share the vertex), it cannot be denoted by a single letter and must be denoted by three letters. By this rule, the angles that are alone at their vertex can be denoted by a single letter. $\blacksquare$
+(2) $10-4x+16\le2x-2$, giving $x\ge\frac{14}{3}$.
+
+(3) Multiply by $14$: $4x-8< 7x-35$, giving $x> 9$.
+
+(4) Multiply by $6$: $4x-2\le3x-4$, giving $x\le-2$.
+
+(5) Multiply by $20$: $4\left(3y-1\right)-40> 5\left(y+1\right)$, i.e. $12y-44> 5y+5$, giving $y> 7$.
+
+(6) Multiply by $12$: $2\left(y+1\right)-3\left(2y-5\right)\ge12$, i.e. $-4y+17\ge12$, giving $y\le\frac{5}{4}$. $\blacksquare$
 
 ## Problem 2
 
-(Problem 6.3, Review and Consolidation, Problem 2) Express the following angles in degrees, minutes, and seconds:
+(Exercise 11.2, Review and Consolidation, Problem 2) For what value of $a$ does the algebraic expression $\frac{4a+1}{6}$:
 
-(1) $56.28^{\circ}$;
+(1) become positive;
 
-(2) $108.5^{\circ}$.
+(2) become less than $-2$;
+
+(3) equal $0$.
 
 ### Solution to Problem 2
 
-By Measuring Angles, convert using the base-$60$ system.
+(1) $\frac{4a+1}{6}> 0$, i.e. $4a+1> 0$, giving $a> -\frac{1}{4}$.
 
-(1) $0.28^{\circ}=0.28\times60'=16.8'$, $0.8'=0.8\times60''=48''$. Hence $56.28^{\circ}=56^{\circ}16'48''$.
+(2) $\frac{4a+1}{6}< -2$, i.e. $4a+1< -12$, giving $a< -\frac{13}{4}$.
 
-(2) $0.5^{\circ}=0.5\times60'=30'$. Hence $108.5^{\circ}=108^{\circ}30'$. $\blacksquare$
+(3) $\frac{4a+1}{6}=0$, i.e. $4a+1=0$, giving $a=-\frac{1}{4}$. $\blacksquare$
 
 ## Problem 3
 
-(Problem 6.3, Review and Consolidation, Problem 3) Express the following angles in degrees:
+(Exercise 11.2, Review and Consolidation, Problem 3) Determine whether the following processes of solving inequalities are correct; if not, correct them:
 
-(1) $50^{\circ}30'$;
+(1) $-3x+2\ge-4$, solved as $x\ge2$;
 
-(2) $120^{\circ}10'$.
+(2) $x-4< 2x+1$, solved as $x< -5$.
 
 ### Solution to Problem 3
 
-By Measuring Angles, convert using the base-$60$ system.
+(1) Incorrect. From $-3x+2\ge-4$, transpose to get $-3x\ge-6$; dividing both sides by $-3$ reverses the direction, giving $x\le2$.
 
-(1) $30'=\frac{30}{60}^{\circ}=0.5^{\circ}$. Hence $50^{\circ}30'=50.5^{\circ}$.
-
-(2) $10'=\frac{10}{60}^{\circ}\approx0.167^{\circ}$. Hence $120^{\circ}10'\approx120.167^{\circ}$. $\blacksquare$
+(2) Incorrect. From $x-4< 2x+1$, transpose to get $-x< 5$; multiplying both sides by $-1$ reverses the direction, giving $x> -5$. $\blacksquare$
 
 ## Problem 4
 
-(Problem 6.3, Review and Consolidation, Problem 4) Calculate:
+(Exercise 11.2, Review and Consolidation, Problem 4) Find the positive-integer solutions of the following inequalities:
 
-(1) $23^{\circ}30'+42^{\circ}30'$;
+(1) $x+2< 6$;
 
-(2) $90^{\circ}-35^{\circ}27'$.
+(2) $2x+5< 10$;
+
+(3) $\frac{x-3}{2}\ge\frac{2x-5}{3}$;
+
+(4) $\frac{2+x}{2}\ge\frac{2x-1}{3}-2$.
 
 ### Solution to Problem 4
 
-By Measuring Angles.
+(1) $x< 4$; the positive-integer solutions are $1,2,3$.
 
-(1) $23^{\circ}30'+42^{\circ}30'=65^{\circ}60'=66^{\circ}$.
+(2) $x< \frac{5}{2}$; the positive-integer solutions are $1,2$.
 
-(2) $90^{\circ}-35^{\circ}27'=89^{\circ}60'-35^{\circ}27'=54^{\circ}33'$. $\blacksquare$
+(3) Multiply by $6$: $3x-9\ge4x-10$, giving $x\le1$; the positive-integer solution is $1$.
+
+(4) Multiply by $6$: $3\left(2+x\right)\ge2\left(2x-1\right)-12$, giving $x\le20$; the positive-integer solutions are $1,2,\ldots,20$. $\blacksquare$
 
 ## Problem 5
 
-(Problem 6.3, Review and Consolidation, Problem 5) If $\angle 1=\angle 2$ and $\angle 2=\angle 3$, what is the relation between $\angle 1$ and $\angle 3$?
+(Exercise 11.2, Comprehensive Application, Problem 5) In a long-distance race, Liu Wei is $100\ \text{m}$ from the finish and sprints at a speed of $6.5\ \text{m/s}$; at this moment Li Ming is $10\ \text{m}$ behind Liu Wei. At least what speed must Li Ming have to reach the finish before Liu Wei?
 
 ### Solution to Problem 5
 
-By analogy with Properties of Complementary and Supplementary Angles, substitute equal quantities.
-
-Since $\angle 1=\angle 2$ and $\angle 2=\angle 3$, by substitution of equal quantities we get $\angle 1=\angle 3$. $\blacksquare$
+Liu Wei needs $\frac{100}{6.5}\ \text{s}$ to reach the finish. Li Ming is $110\ \text{m}$ from the finish; let his speed be $v\ \text{m/s}$. He needs $\frac{110}{v}< \frac{100}{6.5}$, giving $v> \frac{110\times6.5}{100}=7.15$. Hence Li Ming's speed must be at least $7.15\ \text{m/s}$. $\blacksquare$
 
 ## Problem 6
 
-(Problem 6.3, Review and Consolidation, Problem 6) As shown, $\angle AOB=\angle COD=90^{\circ}$, $\angle AOD=146^{\circ}$; find the degree measure of $\angle BOC$.
+(Exercise 11.2, Comprehensive Application, Problem 6) A shop sells $60$ computers in the first month at $5500$ yuan each, and from the second month on sells them at $5000$ yuan each. If the total sales revenue exceeds $55$ ten-thousand yuan, at least how many computers are in this batch?
 
 ### Solution to Problem 6
 
-By Comparing and Operating on Angles.
+Let this batch contain $x$ computers in total. By the statement
 
-$$\angle AOC=\angle AOD-\angle COD=146^{\circ}-90^{\circ}=56^{\circ}.$$
+$$
+5500\times60+5000\left(x-60\right)> 550000,
+$$
 
-$$\angle BOC=\angle AOB-\angle AOC=90^{\circ}-56^{\circ}=34^{\circ}.$$
-
-$\blacksquare$
+i.e. $330000+5000x-300000> 550000$, $5000x> 520000$, giving $x> 104$. Hence this batch contains at least $105$ computers. $\blacksquare$
 
 ## Problem 7
 
-(Problem 6.3, Review and Consolidation, Problem 7) Given $\angle A=50^{\circ}$, find the complement and supplement of $\angle A$.
+(Exercise 11.2, Comprehensive Application, Problem 7) A fruit shop buys apples at $8.55$ yuan per kilogram, and during transport and sales an estimated $5\%$ normal loss occurs. At least what price per kilogram should the merchant set to avoid losing money?
 
 ### Solution to Problem 7
 
-By Complementary Angle and Supplementary Angle.
+Let the selling price be $x$ yuan per kilogram. After deducting the $5\%$ loss, each kilogram yields the revenue of only $0.95\ \text{kg}$ sold; to avoid losing money we need
 
-The complement of $\angle A$ $=90^{\circ}-50^{\circ}=40^{\circ}$.
+$$
+0.95x\ge8.55,
+$$
 
-The supplement of $\angle A$ $=180^{\circ}-50^{\circ}=130^{\circ}$. $\blacksquare$
+giving $x\ge9$. Hence the selling price should be set at least at $9$ yuan per kilogram. $\blacksquare$
 
 ## Problem 8
 
-(Problem 6.3, Review and Consolidation, Problem 8) Given that the supplement of an angle is $3$ times its complement, find the angle.
+(Exercise 11.2, Comprehensive Application, Problem 8) After a food packaging line updates its equipment, the monthly packaging volume is $1.7$ times the original. Thus the packaging volume over $8$ months is at least $1000$ ten-thousand boxes more than the original packaging volume over $12$ months. At least how many ten-thousand boxes were packaged per month originally?
 
 ### Solution to Problem 8
 
-By Complementary Angle and Supplementary Angle, let the angle be $x^{\circ}$.
+Let $x$ ten-thousand boxes be packaged per month originally. By the statement
 
-$$180-x=3\left(90-x\right).$$
+$$
+8\times1.7x-12x\ge1000,
+$$
 
-Simplifying: $180-x=270-3x$. $2x=90$. $x=45$. Hence the angle is $45^{\circ}$. $\blacksquare$
+i.e. $1.6x\ge1000$, giving $x\ge625$. Hence originally at least $625$ ten-thousand boxes were packaged per month. $\blacksquare$
 
 ## Problem 9
 
-(Problem 6.3, Review and Consolidation, Problem 9) As shown, you want to measure the angle formed by two walls, but you cannot go inside the walls; how do you measure it?
+(Exercise 11.2, Extension and Exploration, Problem 9) Find the solution sets of the inequalities $5x-1> 3\left(x+1\right)$ and $\frac{1}{2}x-1< 7-\frac{3}{2}x$, and write their common part.
 
 ### Solution to Problem 9
 
-By Supplementary Angle and Properties of Supplementary Angles.
+From $5x-1> 3x+3$, we get $2x> 4$, i.e. $x> 2$.
 
-Extend both walls outward and measure the outside angle. The outside angle and the inside-wall angle are supplementary, so the inside-wall angle $=180^{\circ}-$ the outside angle's measure. $\blacksquare$
+From $\frac{1}{2}x-1< 7-\frac{3}{2}x$, we get $2x< 8$, i.e. $x< 4$.
+
+Hence the common part is $2< x< 4$. $\blacksquare$
 
 ## Problem 10
 
-(Problem 6.3, Comprehensive Application, Problem 10) As shown, $OB$ is the bisector of $\angle AOC$, and $OD$ is the bisector of $\angle COE$.
+(Exercise 11.2, Extension and Exploration, Problem 10) A school plans to rent type-A and type-B buses to transport $560$ students and $11$ teachers. Each type-A bus carries $40$ people at a rent of $1000$ yuan; each type-B bus carries $56$ people at a rent of $1200$ yuan. It plans to rent $11$ buses.
 
-(1) If $\angle AOB=40^{\circ}$ and $\angle DOE=30^{\circ}$, find the degree measure of $\angle BOD$;
+(1) At most how many type-A buses may be rented?
 
-(2) If $\angle AOE=140^{\circ}$ and $\angle COD=30^{\circ}$, find the degree measure of $\angle AOB$.
+(2) How many rental plans are there in total? Which has the lowest rent?
 
 ### Solution to Problem 10
 
-By Angle Bisector.
+Let $x$ be the number of type-A buses rented; then the number of type-B buses is $\left(11-x\right)$.
 
-(1) $OB$ bisects $\angle AOC$, so $\angle BOC=\angle AOB=40^{\circ}$. $OD$ bisects $\angle COE$, so $\angle COD=\angle DOE=30^{\circ}$.
+(1) The total number of people carried must be no less than $571$: $40x+56\left(11-x\right)\ge571$, i.e. $616-16x\ge571$, $x\le2.8$. Hence at most $2$ type-A buses may be rented.
 
-$$\angle BOD=\angle BOC+\angle COD=40^{\circ}+30^{\circ}=70^{\circ}.$$
+(2) $x$ may take $0,1,2$, giving three plans:
 
-(2) $OD$ bisects $\angle COE$, so $\angle COE=2\angle COD=60^{\circ}$.
+$x=0$: $11$ type-B buses, rent $13200$ yuan;
 
-$$\angle AOC=\angle AOE-\angle COE=140^{\circ}-60^{\circ}=80^{\circ}.$$
+$x=1$: $1$ type-A and $10$ type-B, rent $13000$ yuan;
 
-$OB$ bisects $\angle AOC$, so $\angle AOB=\frac{1}{2}\angle AOC=40^{\circ}$. $\blacksquare$
+$x=2$: $2$ type-A and $9$ type-B, rent $12800$ yuan.
+
+Hence renting $2$ type-A and $9$ type-B buses gives the lowest rent, namely $12800$ yuan. $\blacksquare$
+
+## Exercise 7
+
+(Exercise 11.3, Problem 1) Solve the following systems of inequalities:
+
+(1) $\begin{cases}2x-1> x+1,\\x+8< 4x-1;\end{cases}$
+
+(2) $\begin{cases}2x+3\ge x+11,\\\frac{2x+5}{3}-1< 2-x.\end{cases}$
+
+### Solution to Exercise 7
+
+By Solving a System of Inequalities.
+
+(1) First inequality: $x> 2$. Second inequality: $x+8< 4x-1$, i.e. $x> 3$. The common part is $x> 3$.
+
+(2) First inequality: $x\ge8$. Second inequality: $\frac{2x+5}{3}< 3-x$; multiplying by $3$ gives $2x+5< 9-3x$, i.e. $x< \frac{4}{5}$. There is no common part between $x\ge8$ and $x< \frac{4}{5}$, so the system has no solution. $\blacksquare$
+
+## Exercise 8
+
+(Exercise 11.3, Problem 2) For which integer values of $x$ do both $5x+2> 3\left(x-1\right)$ and $\frac{1}{2}x-1\le7-\frac{3}{2}x$ hold?
+
+### Solution to Exercise 8
+
+From the first inequality $5x+2> 3x-3$, we get $x> -\frac{5}{2}$.
+
+From the second inequality $\frac{1}{2}x-1\le7-\frac{3}{2}x$, we get $2x\le8$, i.e. $x\le4$.
+
+The common part is $-\frac{5}{2}< x\le4$, with integers $x=-2,-1,0,1,2,3,4$. $\blacksquare$
+
+## Exercise 9
+
+(Exercise 11.3, Problem 3) Solve the following systems of inequalities:
+
+(1) $\begin{cases}2x> 1-x,\\x+2< 4x-1;\end{cases}$
+
+(2) $\begin{cases}x-5> 1+2x,\\3x+2\le4x;\end{cases}$
+
+(3) $\begin{cases}\frac{2}{3}x+5> 1-x,\\x-1\le\frac{3}{4}x-\frac{1}{8}.\end{cases}$
+
+### Solution to Exercise 9
+
+(1) First inequality: $3x> 1$, $x> \frac{1}{3}$. Second inequality: $3x> 3$, $x> 1$. Common part $x> 1$.
+
+(2) First inequality: $-x> 6$, $x< -6$. Second inequality: $x\ge2$. No common part, so no solution.
+
+(3) First inequality: $\frac{5}{3}x> -4$, $x> -\frac{12}{5}$. Second inequality: $\frac{1}{4}x\le\frac{7}{8}$, $x\le\frac{7}{2}$. Common part $-\frac{12}{5}< x\le\frac{7}{2}$. $\blacksquare$
+
+## Exercise 10
+
+(Exercise 11.3, Problem 4) For which integer values of $x$ do both $x+3> 6$ and $2x-1< 10$ hold?
+
+### Solution to Exercise 10
+
+From $x+3> 6$ we get $x> 3$; from $2x-1< 10$ we get $x< \frac{11}{2}$. Common part $3< x< 5.5$, with integers $x=4,5$. $\blacksquare$
 
 ## Problem 11
 
-(Problem 6.3, Comprehensive Application, Problem 11) As shown, given $\angle AOB=90^{\circ}$, $\angle BOC=60^{\circ}$, $OM$ bisects $\angle AOC$, and $ON$ bisects $\angle BOC$.
+(Exercise 11.3, Review and Consolidation, Problem 1) Solve the following systems of inequalities:
 
-(1) Find the degree measure of $\angle MON$;
+(1) $\begin{cases}x-1< 3,\\x+1< 3;\end{cases}$
 
-(2) If $\angle AOB=\alpha$, with other conditions unchanged, find the degree measure of $\angle MON$.
+(2) $\begin{cases}x-1> 3,\\x+1> 3;\end{cases}$
+
+(3) $\begin{cases}x-1< 3,\\x+1> 3;\end{cases}$
+
+(4) $\begin{cases}x-1> 3,\\x+1< 3.\end{cases}$
 
 ### Solution to Problem 11
 
-By Angle Bisector.
+(1) $x< 4$ and $x< 2$, common part $x< 2$.
 
-(1) $\angle AOC=\angle AOB+\angle BOC=90^{\circ}+60^{\circ}=150^{\circ}$.
+(2) $x> 4$ and $x> 2$, common part $x> 4$.
 
-$OM$ bisects $\angle AOC$, so $\angle MOC=\frac{1}{2}\angle AOC=75^{\circ}$.
+(3) $x< 4$ and $x> 2$, common part $2< x< 4$.
 
-$ON$ bisects $\angle BOC$, so $\angle NOC=\frac{1}{2}\angle BOC=30^{\circ}$.
-
-$$\angle MON=\angle MOC-\angle NOC=75^{\circ}-30^{\circ}=45^{\circ}.$$
-
-(2) If $\angle AOB=\alpha$, then $\angle AOC=\alpha+60^{\circ}$.
-
-$$\angle MOC=\frac{1}{2}\left(\alpha+60^{\circ}\right),\quad \angle NOC=\frac{1}{2}\times60^{\circ}=30^{\circ}.$$
-
-$$\angle MON=\frac{1}{2}\left(\alpha+60^{\circ}\right)-30^{\circ}=\frac{\alpha}{2}.$$
-
-$\blacksquare$
+(4) $x> 4$ and $x< 2$, no common part, so no solution. $\blacksquare$
 
 ## Problem 12
 
-(Problem 6.3, Comprehensive Application, Problem 12) As shown, $\angle AOB$ is a straight angle, $OD$, $OC$, $OE$ are three rays, $OD$ bisects $\angle AOC$, and $OE$ bisects $\angle BOC$; find the degree measure of $\angle DOE$.
+(Exercise 11.3, Review and Consolidation, Problem 2) Solve the following systems of inequalities:
+
+(1) $\begin{cases}2x-1> 0,\\x+1\le3;\end{cases}$
+
+(2) $\begin{cases}3\left(x-1\right)+13< 5x-2\left(5-x\right),\\5-\left(2x+1\right)> 3-6x;\end{cases}$
+
+(3) $\begin{cases}x-3\left(x-2\right)\ge4,\\\frac{1+2x}{3}> x-1;\end{cases}$
+
+(4) $\begin{cases}\frac{x+4}{2}< 2,\\\frac{x+2}{2}> \frac{x+3}{3}.\end{cases}$
 
 ### Solution to Problem 12
 
-By Angle Bisector and Supplementary Angle.
+(1) $x> \frac{1}{2}$ and $x\le2$, common part $\frac{1}{2}< x\le2$.
 
-$\angle AOB=180^{\circ}$, so $\angle AOC+\angle BOC=180^{\circ}$.
+(2) First inequality: $3x+10< 7x-10$, i.e. $x> 5$; second inequality: $4-2x> 3-6x$, i.e. $x> -\frac{1}{4}$. Common part $x> 5$.
 
-$OD$ bisects $\angle AOC$, and $OE$ bisects $\angle BOC$.
+(3) First inequality: $-2x+6\ge4$, i.e. $x\le1$; second inequality: $1+2x> 3x-3$, i.e. $x< 4$. Common part $x\le1$.
 
-$$\angle DOE=\angle DOC+\angle COE=\frac{1}{2}\angle AOC+\frac{1}{2}\angle BOC=\frac{1}{2}\times180^{\circ}=90^{\circ}.$$
-
-$\blacksquare$
+(4) First inequality: $x< 0$; second inequality: $3x+6> 2x+6$, i.e. $x> 0$. No common part, so no solution. $\blacksquare$
 
 ## Problem 13
 
-(Problem 6.3, Comprehensive Application, Problem 13) Given that $\angle 1$ is the supplement of $\angle 2$, and $\angle 1$ is also the complement of $\angle 3$. If $\angle 2=110^{\circ}$, find the degree measure of $\angle 3$.
+(Exercise 11.3, Review and Consolidation, Problem 3) For which integer values of $x$ do both $4\left(x-0.3\right)< 0.5x+5.8$ and $3+x> \frac{1}{2}x+1$ hold?
 
 ### Solution to Problem 13
 
-By Complementary Angle and Supplementary Angle.
+First inequality: $4x-1.2< 0.5x+5.8$, i.e. $3.5x< 7$, $x< 2$.
 
-$\angle 1$ is the supplement of $\angle 2$: $\angle 1=180^{\circ}-\angle 2=180^{\circ}-110^{\circ}=70^{\circ}$.
+Second inequality: $3+x> \frac{1}{2}x+1$, i.e. $\frac{1}{2}x> -2$, $x> -4$.
 
-$\angle 1$ is the complement of $\angle 3$: $\angle 1+\angle 3=90^{\circ}$, so $\angle 3=90^{\circ}-70^{\circ}=20^{\circ}$. $\blacksquare$
+Common part $-4< x< 2$, with integers $x=-3,-2,-1,0,1$. $\blacksquare$
 
 ## Problem 14
 
-(Problem 6.3, Comprehensive Application, Problem 14) As shown, given $\angle AOB=120^{\circ}$, with vertex $O$ and side $OB$, draw $\angle BOC=30^{\circ}$; find the degree measure of $\angle AOC$.
+(Exercise 11.3, Review and Consolidation, Problem 4) For which integer values of $x$ does $2\le3x-7< 8$ hold?
 
 ### Solution to Problem 14
 
-By Comparing and Operating on Angles, $OC$ may lie inside $\angle AOB$, or outside it.
-
-If $OC$ lies inside $\angle AOB$: $\angle AOC=\angle AOB-\angle BOC=120^{\circ}-30^{\circ}=90^{\circ}$.
-
-If $OC$ lies outside $\angle AOB$: $\angle AOC=\angle AOB+\angle BOC=120^{\circ}+30^{\circ}=150^{\circ}$.
-
-The figure shows two cases: on the left, ray $OC$ lies inside $\angle AOB$ with $\angle BOC=30^{\circ}$, so $\angle AOC=90^{\circ}$; on the right, ray $OC$ lies outside $\angle AOB$ with $\angle BOC=30^{\circ}$, so $\angle AOC=150^{\circ}$.
-
-Hence $\angle AOC=90^{\circ}$ or $150^{\circ}$. $\blacksquare$
+From $2\le3x-7< 8$, add $7$ to each part: $9\le3x< 15$; divide by $3$: $3\le x< 5$. The integers are $x=3,4$. $\blacksquare$
 
 ## Problem 15
 
-(Problem 6.3, Extension and Exploration, Problem 15) As shown, $6$ rays $OA$, $OB$, $OC$, $OD$, $OE$, $OF$ emanate from point $O$, with $\angle AOB=100^{\circ}$, $\angle FOD=40^{\circ}$, $\angle EOF=30^{\circ}$, $OG$ bisects $\angle COE$, and $\angle COG=30^{\circ}$. Find the degree measure of $\angle BOC$.
+(Exercise 11.3, Comprehensive Application, Problem 5) Some books are distributed to several students: if each student gets $3$ books, $8$ books are left over; if each student gets $5$ books, the last student gets some books but fewer than $3$. How many books are there? How many students are there in total?
 
 ### Solution to Problem 15
 
-By Comparing and Operating on Angles and Angle Bisector.
+Let there be $n$ students in total and $m$ books. By the statement $m=3n+8$.
 
-By Measuring Angles, figure (1) shows the three exterior angles $\angle 1$, $\angle 2$, $\angle 3$ of triangle $ABC$; figure (2) shows the four exterior angles $\angle 1$, $\angle 2$, $\angle 3$, $\angle 4$ of a quadrilateral.
+When each student gets $5$ books, the first $n-1$ students together get $5\left(n-1\right)$ books, and the last student gets $m-5\left(n-1\right)$ books, with $0< m-5\left(n-1\right)< 3$.
 
-(1) Each exterior angle of a triangle is supplementary to its adjacent interior angle. The sum of the three exterior angles $=3\times180^{\circ}-$ the sum of the three interior angles $=540^{\circ}-180^{\circ}=360^{\circ}$. That is,
+Substituting: $0< 3n+8-5\left(n-1\right)< 3$, i.e. $0< 13-2n< 3$. From $13-2n> 0$ we get $n< 6.5$; from $13-2n< 3$ we get $n> 5$. Hence $n=6$, $m=3\times6+8=26$.
 
-$$\angle 1+\angle 2+\angle 3=360^{\circ}.$$
+Hence there are $26$ books and $6$ students in total. $\blacksquare$
 
-(2) Each exterior angle of a quadrilateral is supplementary to its adjacent interior angle. The sum of the four exterior angles $=4\times180^{\circ}-$ the sum of the four interior angles $=720^{\circ}-360^{\circ}=360^{\circ}$. That is,
+## Activity 1
 
-$$\angle 1+\angle 2+\angle 3+\angle 4=360^{\circ}.$$
+(Mathematics Activity, Activity 1, Problem 1) Look up data to find the built-up area and the green coverage area of the city you live in, and calculate the green coverage rate. If this city plans to raise the green coverage rate to no less than $1.1$ times this year's rate next year, while the built-up area increases by $5\%$ over this year, by at least what percent must next year's green coverage area increase over this year's?
 
-(3) Combining (1) and (2), we may conjecture: the sum of the exterior angles of any polygon is always $360^{\circ}$. $\blacksquare$
+### Solution to Activity 1
 
-## Reading and Thinking 1
+Let this year's built-up area be $S$ and the green coverage area be $G$; this year's coverage rate is $\frac{G}{S}$. Next year's built-up area is $1.05S$; let next year's green coverage area be $G'$.
 
-(Reading and Thinking: Measuring Angles) How did the degree system arise? What is radian measure?
+By the statement, next year's coverage rate is $\frac{G'}{1.05S}\ge1.1\cdot\frac{G}{S}$, i.e.
 
-### Solution to Reading and Thinking 1
+$$
+G'\ge1.1\times1.05\,G=1.155\,G.
+$$
 
-By Measuring Angles, the degree system originated from the ancient Babylonians' practice of dividing a circle into $360$ parts.
+Hence next year's green coverage area must increase by at least $15.5\%$ over this year's. $\blacksquare$
 
-The degree system uses degrees, minutes, and seconds as units, $1^{\circ}=60'$, $1'=60''$, and is base $60$. Radian measure measures an angle by the ratio of arc length to radius; $1$ radian is the central angle subtended by an arc equal in length to the radius, and a full angle $=2\pi$ radians. $\blacksquare$
+## Activity 2
+
+(Mathematics Activity, Activity 2, Problem 1) There are three cards, each with a number written on it. It is known that one of the numbers is the sum of the other two, but it is not known which card has the largest number. A says: "Adding the numbers on the three cards pairwise gives the sums $12$, $17$, $29$." Determine which of the three numbers is the largest, and find the three numbers.
+
+### Solution to Activity 2
+
+Let the three numbers be $a\le b\le c$, where $c=a+b$ (one number is the sum of the other two). The pairwise sums are $a+b$, $a+c$, $b+c$, i.e. $c$, $a+c$, $b+c$.
+
+Since $c$ is the largest number, among $a+c$ and $b+c$ we have $b+c> a+c$. The largest of the three sums is $b+c=29$, the middle one is $a+c=17$, and the smallest one is $c=12$.
+
+Then $c=12$, $a=17-12=5$, $b=29-12=17$. Verification gives $c=a+b=5+17=22\ne12$, a contradiction. Hence the largest number is not the $c$ in the form $c=a+b$; instead we set it differently: if $a$ were the largest number it would be impossible (since $a\le b\le c$). Re-setting the largest number to be $c$, then $c$ equals the sum of the other two, i.e. $c=a+b$; in this case the smallest sum is $a+b=c$, the middle one is $b+c$, and the largest one is $a+c$, which does not hold (since $a+c< b+c$).
+
+Comparing $a+c$ and $b+c$: from $a< b$ we get $a+c< b+c$. Hence the three sums, in order, are $c=a+b$, $a+c$, $b+c$, where the largest is $b+c=29$, the next is $a+c=17$, and the smallest is $c=12$. But $c=12$ and $c=a+b$, while $a=17-c=5$, $b=29-c=17$, and $a+b=22\ne c$.
+
+The contradiction shows that under the assumption "$c=a+b$" the smallest sum does not equal $c$. Actually the pairwise sums are $a+b=c$, $a+c$, $b+c$, with sizes $c< a+c< b+c$. By the statement, the largest sum $29$ is $b+c=29$, the next sum $17$ is $a+c=17$, and the smallest sum $12$ is $a+b=12$.
+
+Solving simultaneously: $a+b=12$, $a+c=17$, $b+c=29$. Adding the three equations: $2\left(a+b+c\right)=58$, $a+b+c=29$. Hence $c=29-12=17$, $b=29-17=12$, $a=29-29=0$.
+
+The three numbers are $0$, $12$, $17$, and the largest number is $17$. $\blacksquare$
+
+## Review Problem 1
+
+(Review Problems, Review and Consolidation, Problem 1) Solve the following inequalities:
+
+(1) $3\left(2x+7\right)> 23$;
+
+(2) $12-4\left(3x-1\right)\le2\left(2x-16\right)$;
+
+(3) $\frac{x+3}{5}< \frac{2x-5}{3}-1$;
+
+(4) $\frac{2x-1}{3}-\frac{3x-1}{2}\ge\frac{5}{12}$.
+
+### Solution to Review Problem 1
+
+(1) $6x+21> 23$, giving $x> \frac{1}{3}$.
+
+(2) $12-12x+4\le4x-32$, i.e. $48\le16x$, giving $x\ge3$.
+
+(3) Multiply by $15$: $3\left(x+3\right)< 5\left(2x-5\right)-15$, i.e. $3x+9< 10x-40$, giving $x> 7$.
+
+(4) Multiply by $12$: $4\left(2x-1\right)-6\left(3x-1\right)\ge5$, i.e. $-10x+2\ge5$, giving $x\le-\frac{3}{10}$. $\blacksquare$
+
+## Review Problem 2
+
+(Review Problems, Review and Consolidation, Problem 2) For what value of $a$ does the algebraic expression $15-7a$:
+
+(1) become greater than $1$;
+
+(2) become less than $1$;
+
+(3) equal $1$.
+
+### Solution to Review Problem 2
+
+(1) $15-7a> 1$, giving $a< 2$.
+
+(2) $15-7a< 1$, giving $a> 2$.
+
+(3) $15-7a=1$, giving $a=2$. $\blacksquare$
+
+## Review Problem 3
+
+(Review Problems, Review and Consolidation, Problem 3) Solve the following systems of inequalities:
+
+(1) $\begin{cases}2x+1> -1,\\2x+1< 3;\end{cases}$
+
+(2) $\begin{cases}-\left(x-1\right)> 3,\\2x+9> 3;\end{cases}$
+
+(3) $\begin{cases}3\left(x-1\right)+1> 5x-2\left(1-x\right),\\5-\left(2x-1\right)< -6x;\end{cases}$
+
+(4) $\begin{cases}-3\left(x-2\right)\ge4-x,\\\frac{1+2x}{3}> x-1.\end{cases}$
+
+### Solution to Review Problem 3
+
+(1) $x> -1$ and $x< 1$, common part $-1< x< 1$.
+
+(2) First inequality: $-x+1> 3$, $x< -2$. Second inequality: $2x> -6$, $x> -3$. Common part $-3< x< -2$.
+
+(3) First inequality: $3x-2> 7x-2$, $x< 0$. Second inequality: $6-2x< -6x$, $x< -\frac{3}{2}$. Common part $x< -\frac{3}{2}$.
+
+(4) First inequality: $-3x+6\ge4-x$, $x\le1$. Second inequality: $1+2x> 3x-3$, $x< 4$. Common part $x\le1$. $\blacksquare$
+
+## Review Problem 4
+
+(Review Problems, Review and Consolidation, Problem 4) Can $\frac{x+3}{5}$ be simultaneously greater than both $2x+3$ and $1-x$?
+
+### Solution to Review Problem 4
+
+From $\frac{x+3}{5}> 2x+3$, we get $x+3> 10x+15$, i.e. $x< -\frac{4}{3}$.
+
+From $\frac{x+3}{5}> 1-x$, we get $x+3> 5-5x$, i.e. $x> \frac{1}{3}$.
+
+There is no common part between $x< -\frac{4}{3}$ and $x> \frac{1}{3}$, so it cannot be simultaneously greater than both. $\blacksquare$
+
+## Review Problem 5
+
+(Review Problems, Review and Consolidation, Problem 5) Compare the sizes of $a$ and $2a$.
+
+### Solution to Review Problem 5
+
+Taking the difference: $a-2a=-a$.
+
+When $a> 0$, $-a< 0$, so $a< 2a$; when $a=0$, $a=2a$; when $a< 0$, $-a> 0$, so $a> 2a$. $\blacksquare$
+
+## Review Problem 6
+
+(Review Problems, Comprehensive Application, Problem 6) In a $5000\ \text{m}$ long-distance race, a student's best time is $16\ \text{min}\ 45\ \text{s}$. In this race he spent $10\ \text{min}\ 30\ \text{s}$ on the first $3000\ \text{m}$. At what average speed at least must he run the remaining $2000\ \text{m}$ to beat his best time?
+
+### Solution to Review Problem 6
+
+The remaining time is at most $16.75-10.5=6.25\ \text{min}$. Let the average speed on the remaining $2000\ \text{m}$ be $v\ \text{m/min}$; then $\frac{2000}{v}\le6.25$, giving $v\ge320\ \text{m/min}$. Hence it must be at least $320\ \text{m/min}$. $\blacksquare$

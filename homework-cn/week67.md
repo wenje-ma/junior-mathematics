@@ -1,125 +1,485 @@
 # week67
 
-## 例题
+## 复习题一
 
-(教材例 如图 14.1-3) $\triangle ABC\cong\triangle BAD$, 点 $A$ 和点 $B$, 点 $C$ 和点 $D$ 是对应顶点, $\angle BAC=65^\circ$, $\angle ABC=26^\circ$, $AC$, $BD$ 的延长线相交于点 $E$. 求 $\angle CBD$, $\angle E$ 的度数.
+(复习题 26 复习巩固第 4 题) 下面四个关系式中, $y$ 是 $x$ 的反比例函数的是 ( ).
 
-### 解答 例题
+(A) $y=\frac{1}{x^2}$; (B) $yx=-\sqrt{3}$; (C) $y=5x+6$; (D) $\sqrt{x}=\frac{1}{y}$.
 
-由全等三角形的性质, $\angle ABD=\angle BAC=65^\circ$.
+### 解答 复习题一
 
-故
+由基础知识, 反比例函数形如 $y=\frac{k}{x}$. 
 
-$$
-\angle CBD=\angle ABD-\angle ABC=65^\circ-26^\circ=39^\circ.
-$$
+(A) $y=\frac{1}{x^2}$, $y$ 与 $x^2$ 成反比; (B) $yx=-\sqrt{3}$ 即 $y=\frac{-\sqrt{3}}{x}$, 是反比例函数; (C) 是一次函数; (D) $y=\frac{1}{\sqrt{x}}$, 不是. 故选 (B). $\blacksquare$
 
-在 $\triangle AEB$ 中, $\angle BAE=\angle BAC=65^\circ$, $\angle ABE=\angle ABD=65^\circ$. 由三角形内角和定理,
+## 复习题二
 
-$$
-\angle E=180^\circ-\angle BAE-\angle ABE=180^\circ-65^\circ-65^\circ=50^\circ.
-$$
+(复习题 26 综合运用第 5 题) 在反比例函数 $y=\frac{k-1}{x}$ 的图象的每一支上, $y$ 都随 $x$ 的增大而减小, 求 $k$ 的取值范围. 
 
-故 $\angle CBD=39^\circ$, $\angle E=50^\circ$. $\blacksquare$
+### 解答 复习题二
+
+由基础知识, $y$ 随 $x$ 增大而减小说明 $k-1> 0$, 故 $k> 1$. $\blacksquare$
+
+## 复习题三
+
+(复习题 26 综合运用第 6 题) 一块砖的 $A,B,C$ 三个面的面积比是 $4:2:1$. 如果 $B$ 面向下放在地上, 地面所受压强为 $a\ \text{Pa}$, 那么 $A$ 面和 $C$ 面分别向下放在地上时, 地面所受压强各是多少? 
+
+### 解答 复习题三
+
+砖的重力 $F$ 不变, 由 $p=\frac{F}{S}$, 压强与受力面积成反比. 
+
+设 $A,B,C$ 面面积分别为 $4S,2S,S$. $B$ 面向下时 $p_B=\frac{F}{2S}=a$. 
+
+$A$ 面向下时 $p_A=\frac{F}{4S}=\frac{a}{2}$. 
+
+$C$ 面向下时 $p_C=\frac{F}{S}=2a$. $\blacksquare$
+
+## 复习题四
+
+(复习题 26 综合运用第 7 题) 已知某品牌显示器的寿命大约为 $2\times10^4\ \text{h}$. 
+
+(1) 这种显示器可工作的天数 $d$ 与平均每日工作的小时数 $t$ 之间具有怎样的函数关系? 
+
+(2) 如果平均每天工作 $10\ \text{h}$, 那么这种显示器大约可使用多长时间? 
+
+### 解答 复习题四
+
+(1) 总寿命等于天数乘以每日工作小时数, 即 $dt=2\times10^4$, 故 $d=\frac{20000}{t}$. 
+
+(2) 当 $t=10$ 时, $d=\frac{20000}{10}=2000$ 天. $\blacksquare$
+
+## 复习题五
+
+(复习题 26 综合运用第 8 题) 把下列函数的解析式与其图象对应起来: 
+
+(1) $y=\frac{2}{x}$; (2) $y=\frac{2}{\left|x\right|}$; (3) $y=-\frac{2}{x}$; (4) $y=-\frac{2}{\left|x\right|}$.
+
+图象 (A): 两支曲线都在 $x$ 轴上方; 图象 (B): 两支在第一, 第三象限; 图象 (C): 两支在第二, 第四象限; 图象 (D): 两支曲线都在 $x$ 轴下方. 
+
+### 解答 复习题五
+
+由基础知识. 
+
+(1) $y=\frac{2}{x}$, $k=2> 0$, 在第一, 第三象限, 对应 (B). 
+
+(2) $y=\frac{2}{\left|x\right|}$, 无论 $x$ 正负, $y> 0$, 两支都在 $x$ 轴上方, 对应 (A). 
+
+(3) $y=-\frac{2}{x}$, $k=-2< 0$, 在第二, 第四象限, 对应 (C). 
+
+(4) $y=-\frac{2}{\left|x\right|}$, 无论 $x$ 正负, $y< 0$, 两支都在 $x$ 轴下方, 对应 (D). 
+
+故 (1)-(B), (2)-(A), (3)-(C), (4)-(D). $\blacksquare$
+
+## 复习题六
+
+(复习题 26 拓广探索第 9 题) 两个不同的反比例函数的图象能否相交? 为什么? 
+
+### 解答 复习题六
+
+设两个不同的反比例函数为 $y=\frac{k_1}{x}$ 和 $y=\frac{k_2}{x}$, $k_1\ne k_2$. 
+
+若相交, 则 $\frac{k_1}{x}=\frac{k_2}{x}$, 即 $k_1=k_2$, 与 $k_1\ne k_2$ 矛盾. 
+
+故两个不同的反比例函数的图象不能相交. $\blacksquare$
+
+## 复习题七
+
+(复习题 26 拓广探索第 10 题) 在同一直角坐标系中, 若正比例函数 $y=k_1x$ 的图象与反比例函数 $y=\frac{k_2}{x}$ 的图象没有交点, 试确定 $k_1k_2$ 的取值范围. 
+
+### 解答 复习题七
+
+若有交点, 则 $k_1x=\frac{k_2}{x}$, 即 $k_1x^2=k_2$. 
+
+当 $k_1k_2> 0$ 时, $x^2=\frac{k_2}{k_1}> 0$, 有解, 两图象相交. 
+
+当 $k_1k_2< 0$ 时, $x^2=\frac{k_2}{k_1}< 0$, 无解, 两图象没有交点. 
+
+故 $k_1k_2< 0$. $\blacksquare$
+
+## 复习题八
+
+(复习题 26 拓广探索第 11 题) 市政府计划建设一项水利工程, 工程需要运送的土石方总量为 $10^6\ \text{m}^3$, 某运输公司承担了运送土石方的任务. 
+
+(1) 运输公司平均运送速度 $v$ (单位: $\text{m}^3/$天) 与完成运送任务所需时间 $t$ (单位: 天) 之间具有怎样的函数关系? 
+
+(2) 这个运输公司共有 $100$ 辆卡车, 每天可运送土石方 $10^4\ \text{m}^3$, 公司完成全部运输任务需要多长时间? 
+
+(3) 当公司以问题 (2) 中的速度工作了 $40$ 天后, 由于工程进度的需要, 剩下的所有运输任务必须在 $50$ 天内完成, 公司至少应增加多少辆卡车? 
+
+### 解答 复习题八
+
+(1) 由 $vt=10^6$, 得 $v=\frac{10^6}{t}$. 
+
+(2) 当 $v=10^4$ 时, $t=\frac{10^6}{10^4}=100$ 天. 
+
+(3) $40$ 天已运送 $40\times10^4=4\times10^5\ \text{m}^3$, 剩 $6\times10^5\ \text{m}^3$. $50$ 天内完成需每天运送 $\frac{6\times10^5}{50}=1.2\times10^4\ \text{m}^3$. 每辆卡车每天运送 $\frac{10^4}{100}=100\ \text{m}^3$, 需卡车 $\frac{1.2\times10^4}{100}=120$ 辆, 已有 $100$ 辆, 故至少应增加 $20$ 辆. $\blacksquare$
 
 ## 练习一
 
-(练习 14.1 第 1 题) 如图, $\triangle ABC\cong\triangle BDE$, $\angle A$ 和 $\angle EBD$, $\angle C$ 和 $\angle E$ 是对应角. 说出这两个三角形的对应边和另一组对应角.
+(练习 27.1 第 1 题) 从放大镜里看到的三角尺和原来的三角尺相似吗? 
 
 ### 解答 练习一
 
-由对应角的关系, $A$ 与 $B$ 对应, $C$ 与 $E$ 对应, 余下的 $B$ 与 $D$ 对应.
+由相似图形, 放大镜下的三角尺与原三角尺形状相同, 只是大小不同, 其中一个可看作由另一个放大得到. 
 
-故对应边为 $AB$ 与 $BD$, $BC$ 与 $DE$, $AC$ 与 $BE$; 另一组对应角为 $\angle ABC$ 与 $\angle BDE$. $\blacksquare$
+故它们相似. $\blacksquare$
 
 ## 练习二
 
-(练习 14.1 第 2 题) 如图, $\triangle OCA\cong\triangle OBD$, 点 $C$ 和点 $B$, 点 $A$ 和点 $D$ 是对应顶点. 说出这两个三角形中相等的边和角.
+(练习 27.1 第 2 题) 图形 (a)~(f) 中, 哪些与图形 (1) 或 (2) 相似? 
 
 ### 解答 练习二
 
-由对应顶点 $O\leftrightarrow O$, $C\leftrightarrow B$, $A\leftrightarrow D$, 及全等三角形的性质, 相等的边为
+由相似图形, 形状相同的图形相似. 图形中与 (1) 或 (2) 形状相同, 仅大小不同的那些图形与它们相似; 被拉伸或变形导致形状改变的图形不相似. $\blacksquare$
+
+## 练习三
+
+(练习 27.1 第 1 题) 在比例尺为 $1:10\,000\,000$ 的地图上, 量得甲, 乙两地的距离是 $30\ \text{cm}$, 求两地的实际距离. 
+
+### 解答 练习三
+
+比例尺 $=$ 图上距离 $:$ 实际距离, 即 $1:10\,000\,000=30\ \text{cm}:$ 实际距离. 
+
+实际距离 $=30\times10\,000\,000=3\times10^8\ \text{cm}=3000\ \text{km}$. $\blacksquare$
+
+## 练习四
+
+(练习 27.1 第 2 题) 如图所示的两个三角形相似吗? 为什么? (左边三角形两直角边均为 $5$, 右边三角形两直角边均为 $10$, 均为等腰直角三角形. )
+
+### 解答 练习四
+
+由相似多边形, 两个三角形角分别相等, 边成比例则相似. 
+
+两个三角形都是等腰直角三角形, 三个角分别为 $90^\circ,45^\circ,45^\circ$, 角对应相等. 三边比为 $5:5:5\sqrt{2}$ 与 $10:10:10\sqrt{2}$, 对应边比均为 $1:2$, 边成比例. 
+
+故两个三角形相似. $\blacksquare$
+
+## 练习五
+
+(练习 27.1 第 3 题) 如图所示的两个五边形相似, 求 $a,b,c,d$ 的值. (左五边形边长依次为 $3,5,2,c,d$; 右五边形对应边长依次为 $b,7.5,a,6,9$. )
+
+### 解答 练习五
+
+由相似多边形, 对应边成比例. 
+
+对应边比为 $\frac{5}{7.5}=\frac{2}{3}$. 
 
 $$
-OC=OB,\quad CA=BD,\quad OA=OD.
+\frac{3}{b}=\frac{2}{3}\Rightarrow b=4.5,\quad
+\frac{2}{a}=\frac{2}{3}\Rightarrow a=3,
 $$
 
-相等的角为
-
 $$
-\angle O=\angle O,\quad \angle C=\angle B,\quad \angle A=\angle D.
+\frac{c}{6}=\frac{2}{3}\Rightarrow c=4,\quad
+\frac{d}{9}=\frac{2}{3}\Rightarrow d=6.
 $$
 
-$\blacksquare$
+故 $a=3$, $b=4.5$, $c=4$, $d=6$. $\blacksquare$
 
 ## 习题一
 
-(习题 14.1 复习巩固第 1 题) 如图, $\triangle ABC\cong\triangle CDA$, $AB$ 和 $CD$, $BC$ 和 $DA$ 是对应边. 写出其他对应边和对应角.
+(习题 27.1 复习巩固第 1 题) 两地的实际距离是 $2000\ \text{m}$, 在地图上量得这两地的距离为 $2\ \text{cm}$, 这幅地图的比例尺是多少? 
 
 ### 解答 习题一
 
-由对应边 $AB\leftrightarrow CD$, $BC\leftrightarrow DA$, 知顶点对应为 $A\leftrightarrow C$, $B\leftrightarrow D$, $C\leftrightarrow A$.
+$2000\ \text{m}=200000\ \text{cm}$. 
 
-其他对应边为 $AC$ 与 $CA$. 对应角为 $\angle BAC$ 与 $\angle DCA$, $\angle B$ 与 $\angle D$, $\angle BCA$ 与 $\angle DAC$. $\blacksquare$
+比例尺 $=2:200000=1:100000$. $\blacksquare$
 
 ## 习题二
 
-(习题 14.1 复习巩固第 2 题) 如图, $\triangle ABN\cong\triangle ACM$, $AB$ 和 $AC$ 是对应边, $\angle B$ 和 $\angle C$ 是对应角. 写出其他对应边和对应角.
+(习题 27.1 复习巩固第 2 题) 任意两个矩形相似吗? 为什么? 
 
 ### 解答 习题二
 
-由 $AB\leftrightarrow AC$, $\angle B\leftrightarrow\angle C$, 知顶点对应为 $A\leftrightarrow A$, $B\leftrightarrow C$, $N\leftrightarrow M$.
+由相似多边形, 相似多边形要求角分别相等且边成比例. 
 
-其他对应边为 $BN$ 与 $CM$, $AN$ 与 $AM$. 对应角为 $\angle ANB$ 与 $\angle AMC$, $\angle BAN$ 与 $\angle CAM$. $\blacksquare$
+矩形的角都是 $90^\circ$, 角对应相等, 但边不一定成比例. 例如边长为 $1\times1$ 的正方形与 $2\times1$ 的长方形, 角都为 $90^\circ$, 但 $1:2\ne1:1$, 边不成比例. 
+
+故任意两个矩形不一定相似. $\blacksquare$
 
 ## 习题三
 
-(习题 14.1 综合运用第 3 题) 图中有两个全等三角形, 其中的字母表示三角形的边长, 则 $\angle 1$ 等于多少度?
+(习题 27.1 复习巩固第 3 题) 如图, $\triangle ABC$ 与 $\triangle DEF$ 相似, 求 $x,y$ 的值. ($\triangle ABC$ 中 $AB=7$, $BC=8$; $\triangle DEF$ 中 $FE=4$, $DF=12$, $DE=x$. )
 
 ### 解答 习题三
 
-两个三角形全等, 其内角分别对应相等. 已知两个内角为 $60^\circ$ 与 $54^\circ$, 由三角形内角和定理, 第三个内角为
+由相似多边形, $\triangle ABC\backsim\triangle DEF$, 对应边成比例. 
+
+相似比为 $\frac{BC}{FE}=\frac{8}{4}=2$. 
 
 $$
-180^\circ-60^\circ-54^\circ=66^\circ.
+\frac{AB}{DE}=2\Rightarrow\frac{7}{x}=2\Rightarrow x=3.5.
 $$
 
-故 $\angle 1=66^\circ$. $\blacksquare$
+$$
+\frac{AC}{DF}=2\Rightarrow AC=2\times12=24.
+$$
+
+故 $x=3.5$. $\blacksquare$
 
 ## 习题四
 
-(习题 14.1 综合运用第 4 题) 如图, $\triangle EFG\cong\triangle NMH$, $\angle F$ 和 $\angle M$ 是对应角. 在 $\triangle EFG$ 中, $FG$ 是最长边; 在 $\triangle NMH$ 中, $MH$ 是最长边, 且 $EF=2.1$, $EH=1.1$, $NH=3.3$.
+(习题 27.1 综合运用第 4 题) 试着在方格纸中画出与原图形相似的图形. 你用的是什么方法? 
 
-(1) 写出其他对应边及对应角;
-
-(2) 求线段 $NM$ 及线段 $HG$ 的长度.
+图为方格纸上的一个原图形(由若干线段组成的多边形)及其按相同倍数放大后的相似图形, 两图并排画在方格纸上, 各对应边平行, 各对应角相等. 
 
 ### 解答 习题四
 
-由 $\angle F\leftrightarrow\angle M$ 且最长边 $FG\leftrightarrow MH$, 知顶点对应为 $E\leftrightarrow N$, $F\leftrightarrow M$, $G\leftrightarrow H$.
-
-(1) 其他对应边为 $EF$ 与 $NM$, $EG$ 与 $NH$; 其他对应角为 $\angle E$ 与 $\angle N$, $\angle G$ 与 $\angle H$.
-
-(2) 由全等三角形的性质, $NM=EF=2.1$, $EG=NH=3.3$. 又点 $H$ 在线段 $EG$ 上, 故
-
-$$
-HG=EG-EH=3.3-1.1=2.2.
-$$
-
-故 $NM=2.1$, $HG=2.2$. $\blacksquare$
+由相似多边形, 将原图形各边长按相同倍数放大或缩小, 角度保持不变, 即可得到相似图形. 具体做法是在方格纸中数出原图形每条边所占格数, 乘以相同倍数后按比例绘制, 角的方向保持不变. $\blacksquare$
 
 ## 习题五
 
-(习题 14.1 拓广探索第 5 题) 如图, $\triangle ABC\cong\triangle DEC$, $CA$ 和 $CD$, $CB$ 和 $CE$ 是对应边. $\angle ACD$ 和 $\angle BCE$ 相等吗? 为什么?
+(习题 27.1 综合运用第 5 题) 如图, $DE\parallel BC$. 已知 $AD=2$, $DB=4$, $AE=2.5$, $EC=5$, $DE=3$, $BC=9$. (1) 求 $\frac{AD}{AB}$, $\frac{AE}{AC}$, $\frac{DE}{BC}$ 的值; (2) 证明 $\triangle ADE$ 与 $\triangle ABC$ 相似. 
 
 ### 解答 习题五
 
-相等. 由全等三角形的性质, 对应角 $\angle ACB=\angle DCE$.
-
-两边同时减去公共部分 $\angle DCB$, 得
+(1) $AB=AD+DB=2+4=6$, $AC=AE+EC=2.5+5=7.5$. 
 
 $$
-\angle ACD=\angle ACB-\angle DCB=\angle DCE-\angle DCB=\angle BCE.
+\frac{AD}{AB}=\frac{2}{6}=\frac{1}{3},\quad
+\frac{AE}{AC}=\frac{2.5}{7.5}=\frac{1}{3},\quad
+\frac{DE}{BC}=\frac{3}{9}=\frac{1}{3}.
 $$
 
-故 $\angle ACD=\angle BCE$. $\blacksquare$
+(2) $DE\parallel BC$, 故 $\angle ADE=\angle B$, $\angle AED=\angle C$, 且 $\angle A$ 公共, 角分别相等; 又由 (1) 三边比均为 $\frac{1}{3}$, 边成比例. 由基础知识, $\triangle ADE\backsim\triangle ABC$. $\blacksquare$
+
+## 习题六
+
+(习题 27.1 综合运用第 6 题) 矩形草坪长 $30\ \text{m}$, 宽 $20\ \text{m}$. 沿草坪四周有 $1\ \text{m}$ 宽的环行小路, 小路内外边缘形成的两个矩形相似吗? 说出你的理由. 
+
+### 解答 习题六
+
+内边缘矩形尺寸为 $30\times20$, 外边缘矩形尺寸为 $32\times22$. 
+
+$$
+\frac{30}{32}=\frac{15}{16},\quad\frac{20}{22}=\frac{10}{11}.
+$$
+
+$\frac{15}{16}\ne\frac{10}{11}$, 边不成比例. 
+
+由基础知识, 两个矩形不相似. $\blacksquare$
+
+## 习题七
+
+(习题 27.1 综合运用第 7 题) 如果两个多边形仅有角分别相等, 它们相似吗? 如果仅有边成比例呢? 若不一定相似, 请举出反例. 
+
+### 解答 习题七
+
+由相似多边形, 需要角分别相等且边成比例, 二者缺一不可. 
+
+仅有角相等不一定相似: 例如正方形与长方形, 角都为 $90^\circ$, 但边不成比例. 
+
+仅有边成比例不一定相似: 例如正方形与菱形, 边长比可相同, 但内角不一定对应相等. $\blacksquare$
+
+## 习题八
+
+(习题 27.1 拓广探索第 8 题) 将一张矩形纸片沿较长边的中点连线对折, 如果得到的两个矩形都和原来的矩形相似, 那么原来矩形的长宽比是多少? 将这张纸如此再对折下去, 得到的矩形都相似吗? 
+
+图为一个矩形纸片, 沿较长边的中点连线对折, 对折后得到一个较小的矩形; 原矩形长为 $a$, 宽为 $b$, 对折后新矩形的一边为 $b$, 另一边为 $\\frac a2$. 
+
+### 解答 习题八
+
+设原矩形长为 $a$, 宽为 $b$($a> b$). 沿较长边中点连线对折后, 新矩形尺寸为 $b\times\frac{a}{2}$. 
+
+由对折后的矩形与原矩形相似, 对应边成比例: 
+
+$$
+\frac{a}{b}=\frac{b}{a/2}=\frac{2b}{a}.
+$$
+
+即 $a^2=2b^2$, $\frac{a}{b}=\sqrt{2}$. 
+
+每次对折都是将长边 $\sqrt{2}:1$ 的矩形再按相同比例分割, 新矩形长宽比仍为 $\sqrt{2}$, 故继续对折下去得到的矩形都与原矩形相似. $\blacksquare$
+
+## 练习六
+
+(练习 27.2 第 1 题) 如图, $AB\parallel CD\parallel EF$, $AF$ 与 $BE$ 相交于点 $G$, 且 $AG=2$, $GD=1$, $DF=5$, 求 $\frac{BC}{CE}$ 的值. 
+
+### 解答 练习六
+
+由平行线分线段成比例, 三条平行线截两条直线, 对应线段成比例. 
+
+$$
+\frac{BC}{CE}=\frac{AD}{DF}=\frac{AG+GD}{DF}=\frac{2+1}{5}=\frac{3}{5}.\ \blacksquare
+$$
+
+## 练习七
+
+(练习 27.2 第 2 题) 如图, 在 $\triangle ABC$ 中, $DE\parallel BC$, 且 $AD=3$, $DB=2$. 写出图中的相似三角形, 并指出其相似比. 
+
+### 解答 练习七
+
+由预备定理, $DE\parallel BC$, 故 $\triangle ADE\backsim\triangle ABC$. 
+
+相似比为 $\frac{AD}{AB}=\frac{AD}{AD+DB}=\frac{3}{3+2}=\frac{3}{5}$. $\blacksquare$
+
+## 练习八
+
+(练习 27.2 第 1 题) 根据下列条件, 判断 $\triangle ABC$ 与 $\triangle A'B'C'$ 是否相似, 并说明理由: 
+
+(1) $\angle A=40^\circ$, $AB=8\ \text{cm}$, $AC=15\ \text{cm}$, $\angle A'=40^\circ$, $A'B'=16\ \text{cm}$, $A'C'=30\ \text{cm}$; 
+
+(2) $AB=10\ \text{cm}$, $BC=8\ \text{cm}$, $AC=16\ \text{cm}$, $A'B'=16\ \text{cm}$, $B'C'=12.8\ \text{cm}$, $A'C'=25.6\ \text{cm}$. 
+
+### 解答 练习八
+
+(1) $\angle A=\angle A'=40^\circ$, 且
+
+$$
+\frac{AB}{A'B'}=\frac{8}{16}=\frac{1}{2},\quad\frac{AC}{A'C'}=\frac{15}{30}=\frac{1}{2}.
+$$
+
+两边成比例且夹角相等, 由SAS, $\triangle ABC\backsim\triangle A'B'C'$. 
+
+(2)
+
+$$
+\frac{AB}{A'B'}=\frac{10}{16}=\frac{5}{8},\quad
+\frac{BC}{B'C'}=\frac{8}{12.8}=\frac{5}{8},\quad
+\frac{AC}{A'C'}=\frac{16}{25.6}=\frac{5}{8}.
+$$
+
+三边成比例, 由SSS, $\triangle ABC\backsim\triangle A'B'C'$. $\blacksquare$
+
+## 练习九
+
+(练习 27.2 第 2 题) 图中的两个三角形是否相似? 为什么? (左边三角形三边为 $15,20,25$; 右边三角形三边为 $27,36,45$. 另一组图形中, $\triangle ABC$ 与 $\triangle EDC$ 在点 $C$ 处形成对顶角, $BC=54$, $CE=36$, $AC=45$, $CD=30$. )
+
+### 解答 练习九
+
+第一组: $\frac{15}{27}=\frac{5}{9}$, $\frac{20}{36}=\frac{5}{9}$, $\frac{25}{45}=\frac{5}{9}$, 三边成比例, 由SSS, 相似. 
+
+第二组: $\angle ACB=\angle DCE$ (对顶角), 且 $\frac{BC}{CE}=\frac{54}{36}=\frac{3}{2}$, $\frac{AC}{CD}=\frac{45}{30}=\frac{3}{2}$, 两边成比例且夹角相等, 由SAS, 相似. $\blacksquare$
+
+## 练习十
+
+(练习 27.2 第 3 题) 要制作两个形状相同的三角形框架, 其中一个三角形框架的三边长分别为 $4\ \text{cm}$, $5\ \text{cm}$ 和 $6\ \text{cm}$, 另一个三角形框架的一边长为 $2\ \text{cm}$, 它的另外两条边长应当是多少? 你有几种制作方案? 
+
+### 解答 练习十
+
+由SSS, 两个三角形三边对应成比例则相似. 边长 $2\ \text{cm}$ 可分别对应原三角形的三条边. 
+
+方案一: $2$ 对应 $4$, 相似比 $\frac{1}{2}$, 另两边为 $2.5\ \text{cm}$, $3\ \text{cm}$. 
+
+方案二: $2$ 对应 $5$, 相似比 $\frac{2}{5}$, 另两边为 $\frac{8}{5}\ \text{cm}$, $\frac{12}{5}\ \text{cm}$. 
+
+方案三: $2$ 对应 $6$, 相似比 $\frac{1}{3}$, 另两边为 $\frac{4}{3}\ \text{cm}$, $\frac{5}{3}\ \text{cm}$. 
+
+共三种方案. $\blacksquare$
+
+## 练习十一
+
+(练习 27.2 第 1 题) 底角相等的两个等腰三角形是否相似? 顶角相等的两个等腰三角形呢? 证明你的结论. 
+
+### 解答 练习十一
+
+设等腰三角形底角为 $\alpha$, 则顶角为 $180^\circ-2\alpha$. 
+
+底角相等的两个等腰三角形, 底角都为 $\alpha$, 顶角都为 $180^\circ-2\alpha$, 三角对应相等, 由AA, 相似. 
+
+顶角相等的两个等腰三角形, 设顶角为 $\beta$, 则底角都为 $\frac{180^\circ-\beta}{2}$, 三角对应相等, 由 AA, 相似. $\blacksquare$
+
+## 练习十二
+
+(练习 27.2 第 2 题) 如图, $\text{Rt}\triangle ABC$ 中, $CD$ 是斜边 $AB$ 上的高. 求证: (1) $\triangle ACD\backsim\triangle ABC$; (2) $\triangle CBD\backsim\triangle ABC$. 
+
+### 解答 练习十二
+
+(1) $CD\perp AB$, 故 $\angle ADC=90^\circ=\angle ACB$, 又 $\angle A$ 公共, 由AA, $\triangle ACD\backsim\triangle ABC$. 
+
+(2) $\angle CDB=90^\circ=\angle ACB$, 又 $\angle B$ 公共, 由 AA, $\triangle CBD\backsim\triangle ABC$. $\blacksquare$
+
+## 练习十三
+
+(练习 27.2 第 3 题) 如果 $\text{Rt}\triangle ABC$ 的两条直角边分别为 $3$ 和 $4$, 那么以 $3k$ 和 $4k$($k$ 是正整数)为直角边的直角三角形一定与 $\text{Rt}\triangle ABC$ 相似吗? 为什么? 
+
+### 解答 练习十三
+
+两个直角三角形直角相等, 且
+
+$$
+\frac{3}{3k}=\frac{1}{k},\quad\frac{4}{4k}=\frac{1}{k}.
+$$
+
+两组直角边成比例, 夹角均为 $90^\circ$, 由SAS, 一定相似. $\blacksquare$
+
+## 练习十四
+
+(练习 27.2 第 1 题) 判断正误: (1) 一个三角形的各边长扩大为原来的 $5$ 倍, 这个三角形的角平分线也扩大为原来的 $5$ 倍; (2) 一个三角形的各边长扩大为原来的 $9$ 倍, 这个三角形的面积也扩大为原来的 $9$ 倍. 
+
+### 解答 练习十四
+
+由基础知识 和基础知识. 
+
+(1) 相似比为 $5$, 对应角平分线比等于相似比 $5$, 正确. 
+
+(2) 相似比为 $9$, 面积比等于相似比的平方, 即 $81$ 倍, 不是 $9$ 倍, 错误. $\blacksquare$
+
+## 练习十五
+
+(练习 27.2 第 2 题) 如图, $\triangle ABC$ 与 $\triangle A'B'C'$ 相似, $AD$, $BE$ 是 $\triangle ABC$ 的高, $A'D'$, $B'E'$ 是 $\triangle A'B'C'$ 的高, 求证 $\frac{AD}{A'D'}=\frac{BE}{B'E'}$. 
+
+### 解答 练习十五
+
+由对应线段, 相似三角形对应高的比等于相似比 $k$. 
+
+$AD$ 与 $A'D'$ 是对应高, $BE$ 与 $B'E'$ 也是对应高, 故
+
+$$
+\frac{AD}{A'D'}=k,\quad\frac{BE}{B'E'}=k,
+$$
+
+因此 $\frac{AD}{A'D'}=\frac{BE}{B'E'}$. $\blacksquare$
+
+## 练习十六
+
+(练习 27.2 第 3 题) 在一张复印出来的纸上, 一个三角形的一条边由原图中的 $2\ \text{cm}$ 变成了 $6\ \text{cm}$, 放缩比例是多少? 这个三角形的面积发生了怎样的变化? 
+
+### 解答 练习十六
+
+放缩比例为 $6:2=3:1$, 即相似比为 $3$. 
+
+由面积比, 面积比为相似比的平方, 即 $9$ 倍. $\blacksquare$
+
+## 练习十七
+
+(练习 27.2 第 1 题) 在某一时刻, 测得一根高为 $1.8\ \text{m}$ 的竹竿的影长为 $3\ \text{m}$, 同时测得一栋楼的影长为 $90\ \text{m}$, 这栋楼的高度是多少? 
+
+### 解答 练习十七
+
+同一时刻物高与影长成比例. 设楼高为 $h$, 则
+
+$$
+\frac{h}{90}=\frac{1.8}{3}.
+$$
+
+$$
+h=\frac{1.8\times90}{3}=54\ \text{m}.\ \blacksquare
+$$
+
+## 练习十八
+
+(练习 27.2 第 2 题) 如图, 测得 $BD=120\ \text{m}$, $DC=60\ \text{m}$, $EC=50\ \text{m}$, 求河宽 $AB$. 
+
+### 解答 练习十八
+
+$AB\perp BC$, $EC\perp BC$, 故 $\triangle ABD\backsim\triangle ECD$ (AA). 
+
+$$
+\frac{AB}{EC}=\frac{BD}{DC}=\frac{120}{60}=2.
+$$
+
+$$
+AB=2\times EC=2\times50=100\ \text{m}.\ \blacksquare
+$$
+
+## 习题九
+
+(习题 27.2 复习巩固第 1 题) 有一块三角形的草地, 它的一条边长为 $25\ \text{m}$. 在图纸上, 这条边的长为 $5\ \text{cm}$, 其他两条边的长都为 $4\ \text{cm}$, 求其他两边的实际长度. 
+
+### 解答 习题九
+
+图纸与实际的相似比为 $5\ \text{cm}:25\ \text{m}=5:2500=1:500$. 
+
+其他两边图纸长 $4\ \text{cm}$, 实际长度为 $4\times500=2000\ \text{cm}=20\ \text{m}$. $\blacksquare$

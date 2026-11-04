@@ -1,377 +1,489 @@
 # week51
 
-## Exercise 1
+## Review Problem 1
 
-(Exercise 11.1, Problem 1) Express each of the following using an inequality:
+(Review Problem, Extension and Exploration, Problem 8) A quadrilateral has two diagonals. How many diagonals does a pentagon have? A hexagon? What about an $n$-gon? Is the number $y$ of diagonals a function of the number of sides $n$? If so, write the analytic expression and draw the graph of the function.
 
-(1) $a$ is positive;
+### Solution to Review Problem 1
 
-(2) the sum of $5$ and $x$ is less than $7$;
+A quadrilateral has $2$ diagonals, a pentagon has $5$ diagonals, and a hexagon has $9$ diagonals.
 
-(3) the product of $-4$ and $m$ is greater than $8$;
-
-(4) the difference between $m$ and $1$ is less than $3$ times $m$;
-
-(5) the noise level in a certain park is below $50\ \text{dB}$;
-
-(6) a city has $12000$ buses, among which the proportion of new-energy buses exceeds $66\%$.
-
-### Solution to Exercise 1
-
-By Inequality.
-
-(1) $a> 0$.
-
-(2) $5+x< 7$.
-
-(3) $-4m> 8$.
-
-(4) $m-1< 3m$.
-
-(5) Let the noise level be $n\ \text{dB}$; then $n< 50$.
-
-(6) Let the number of new-energy buses be $x$; then $\frac{x}{12000}> 66\%$, i.e. $x> 7920$. $\blacksquare$
-
-## Exercise 2
-
-(Exercise 11.1, Problem 2) Among the following numbers, which are solutions of the inequality $x+3> 6$?
+An $n$-gon has $n$ vertices; each vertex connects by a diagonal to the other $n-3$ vertices (excluding itself and its two adjacent vertices); each diagonal is counted twice, so the number of diagonals is
 
 $$
--4,\ -2.5,\ 0,\ 1,\ 2.5,\ 3,\ 3.2,\ 4.8,\ 8,\ 12.
+y = \frac{n\left(n-3\right)}{2} \quad \left(n \geq 3,\ n \text{ 为整数}\right).
 $$
 
-### Solution to Exercise 2
+For each definite value of the number of sides $n$, the number of diagonals $y$ has a unique definite value corresponding to it, so $y$ is a function of $n$.
 
-By Solution of an Inequality, the values of $x$ making $x+3> 6$ hold are $x> 3$.
-
-Among the given numbers, $3.2> 3$, $4.8> 3$, $8> 3$, $12> 3$, so $3.2$, $4.8$, $8$, $12$ are solutions of the inequality. $\blacksquare$
-
-## Exercise 3
-
-(Exercise 11.1, Problem 3) State directly the solution set of each inequality:
-
-(1) $x+3> 6$;
-
-(2) $2x< 8$;
-
-(3) $x-2> 0$.
-
-### Solution to Exercise 3
-
-By Property 1 of Inequalities and Property 2 of Inequalities.
-
-(1) Subtract $3$ from both sides: $x> 3$.
-
-(2) Divide both sides by $2$: $x< 4$.
-
-(3) Add $2$ to both sides: $x> 2$. $\blacksquare$
-
-## Exercise 4
-
-(Exercise 11.1, Problem 4) When $p> q$, fill in the blanks with "$> $" or "$< $":
-
-(1) $p+12\;\_\_\;q+12$;
-
-(2) $p-2\;\_\_\;q-2$;
-
-(3) $p+2m\;\_\_\;q+2m$;
-
-(4) $-5p\;\_\_\;-5q$;
-
-(5) $\frac{p}{3}\;\_\_\;\frac{q}{3}$;
-
-(6) $4p+1\;\_\_\;4q+1$.
-
-### Solution to Exercise 4
-
-By Property 1 of Inequalities, adding the same number to both sides leaves the direction unchanged; by Property 2 of Inequalities, multiplying both sides by a positive number leaves the direction unchanged; by Property 3 of Inequalities, multiplying both sides by a negative number reverses the direction.
-
-(1) $p+12> q+12$.
-
-(2) $p-2> q-2$.
-
-(3) $p+2m> q+2m$.
-
-(4) $-5p< -5q$.
-
-(5) $\frac{p}{3}> \frac{q}{3}$.
-
-(6) $4p+1> 4q+1$. $\blacksquare$
-
-## Exercise 5
-
-(Exercise 11.1, Problem 5) Given $m> 3$, express the range of each expression using an inequality:
-
-(1) $m+5$;
-
-(2) $\frac{m}{6}$;
-
-(3) $-2m$;
-
-(4) $3m-4$.
-
-### Solution to Exercise 5
-
-By Property 1 of Inequalities, Property 2 of Inequalities, Property 3 of Inequalities.
-
-(1) Add $5$ to both sides: $m+5> 8$.
-
-(2) Divide both sides by $6$: $\frac{m}{6}> \frac{1}{2}$.
-
-(3) Multiply both sides by $-2$ (direction reverses): $-2m< -6$.
-
-(4) Multiply both sides by $3$ then subtract $4$: $3m> 9$, $3m-4> 5$. $\blacksquare$
-
-## Exercise 6
-
-(Exercise 11.1, Problem 6) Solve the following inequalities and represent their solution sets on a number line:
-
-(1) $x+5> -1$;
-
-(2) $4x< 3x+5$;
-
-(3) $17x\le67$;
-
-(4) $-8x> 10$.
-
-The figure shows number lines representing the solution sets of four inequalities respectively: $x> -6$, $x< 5$, $x\le\frac{67}{17}$, and $x< -\frac{5}{4}$.
-
-### Solution to Exercise 6
-
-By Property 1 of Inequalities through Property 3 of Inequalities.
-
-(1) Subtract $5$ from both sides: $x> -6$.
-
-(2) Subtract $3x$ from both sides: $x< 5$.
-
-(3) Divide both sides by $17$: $x\le\frac{67}{17}$.
-
-(4) Divide both sides by $-8$ (direction reverses): $x< -\frac{5}{4}$.
-
-The solution sets are represented on the number line as shown. $\blacksquare$
-
-## Exercise 7
-
-(Exercise 11.1, Problem 7) On a certain day in Beijing the lowest temperature is $19\,^\circ\text{C}$ and the highest temperature is $28\,^\circ\text{C}$. Express the range of the temperature $t\,^\circ\text{C}$ on that day using an inequality.
-
-### Solution to Exercise 7
-
-By Inequality, the temperature is no lower than the lowest temperature and no higher than the highest temperature, so
-
-$$
-19\le t\le28.
-$$
+The figure shows a plane rectangular coordinate system with horizontal axis number of sides $n$ and vertical axis number of diagonals $y$; it consists of isolated points $\left(3,0\right)$, $\left(4,2\right)$, $\left(5,5\right)$, $\left(6,9\right)$, etc., corresponding to the function values $y=\frac{n\left(n-3\right)}{2}$ for $n=3,4,5,6,\cdots$.
 
 $\blacksquare$
 
+## Exercise 1
+
+(Exercise 23.1, Problem 1) Which of the following functions are linear functions? Which are also direct proportion functions?
+
+(1) $y=-8x$;
+
+(2) $y=\frac{-5}{x}$;
+
+(3) $C=2\pi r$;
+
+(4) $y=5x^2+6$;
+
+(5) $y=2\left(x-4\right)$.
+
+### Solution to Exercise 1
+
+By Linear Function, a function of the form $y=kx+b$ ($k \neq 0$) is a linear function.
+
+(1) $y=-8x$ is $y=-8x+0$, which fits the form $y=kx+b$ with $k=-8 \neq 0$, so it is a linear function; and $b=0$, so it is also a direct proportion function.
+
+(2) $y=\frac{-5}{x}$ does not fit the form $y=kx+b$, so it is not a linear function.
+
+(3) $C=2\pi r$ is $C=2\pi r+0$, which fits the form $y=kx+b$ with $k=2\pi \neq 0$, so it is a linear function; and $b=0$, so it is also a direct proportion function.
+
+(4) In $y=5x^2+6$, the degree of $x$ is $2$, so it does not fit the form $y=kx+b$ and is not a linear function.
+
+(5) $y=2\left(x-4\right)=2x-8$, which fits the form $y=kx+b$ with $k=2 \neq 0$, so it is a linear function; but $b=-8 \neq 0$, so it is not a direct proportion function. $\blacksquare$
+
+## Exercise 2
+
+(Exercise 23.1, Problem 2) Use an analytic expression to represent the relation between $y$ and $x$ in the following problems:
+
+(1) A person's average monthly income over a year is $x$ yuan, and his total income for the year ($12$ months) is $y$ yuan;
+
+(2) A pool contains $20\ \text{m}^3$ of water; the inlet pipe is opened and water flows in at $3\ \text{m}^3/\text{h}$; after $x\ \text{h}$ the pool contains $y\ \text{m}^3$.
+
+### Solution to Exercise 2
+
+(1) Total income equals average monthly income times $12$, so $y=12x$.
+
+(2) After $x\ \text{h}$, $3x\ \text{m}^3$ flows in; adding the original $20\ \text{m}^3$, we get $y=20+3x$. $\blacksquare$
+
 ## Problem 1
 
-(Exercise 11.1, Review and Consolidation, Problem 1) Among the following numbers, which are solutions of the inequality $2x+3> 9$?
+(Exercise 23.1, Review and Consolidation, Problem 1) Which of the following functions are linear functions? Which are also direct proportion functions?
 
-$$
--4,\ -2,\ 0,\ 3,\ 3.01,\ 4,\ 6,\ 100.
-$$
+(1) $y=-0.2x$;
+
+(2) $y=-3\left(x+1\right)$;
+
+(3) $S=\pi r^2$;
+
+(4) $y=x^2$.
 
 ### Solution to Problem 1
 
-By Solution of an Inequality, $2x+3> 9$ is equivalent to $x> 3$. Among the given numbers, $3.01> 3$, $4> 3$, $6> 3$, $100> 3$, so $3.01$, $4$, $6$, $100$ are solutions. $\blacksquare$
+By Linear Function, a function of the form $y=kx+b$ ($k \neq 0$) is a linear function.
+
+(1) $y=-0.2x$ is $y=-0.2x+0$, so it is a linear function and also a direct proportion function.
+
+(2) $y=-3\left(x+1\right)=-3x-3$, so it is a linear function; but $b=-3 \neq 0$, so it is not a direct proportion function.
+
+(3) In $S=\pi r^2$, the degree of $r$ is $2$, so it is not a linear function.
+
+(4) In $y=x^2$, the degree of $x$ is $2$, so it is not a linear function. $\blacksquare$
 
 ## Problem 2
 
-(Exercise 11.1, Review and Consolidation, Problem 2) Express each of the following using an inequality:
+(Exercise 23.1, Review and Consolidation, Problem 2) Use an analytic expression to represent the relation between $y$ and $x$ in the following problems:
 
-(1) the sum of $a$ and $5$ is positive;
+(1) A rectangular box has length $2\ \text{cm}$, width $1.5\ \text{cm}$, and height $x\ \text{cm}$; its volume is $y\ \text{cm}^3$;
 
-(2) the difference between $b$ and $12$ is greater than $-5$;
-
-(3) $4$ times $c$ is no less than $8$;
-
-(4) in 2021 the number of good-air-quality days in a certain city exceeded the $224$ days of 2017 by more than $60$ days.
+(2) A tank contains $10\ \text{L}$ of water; water begins to drain at $0.5\ \text{L/min}$; the draining time is $x\ \text{min}$ and the remaining water is $y\ \text{L}$.
 
 ### Solution to Problem 2
 
-(1) $a+5> 0$.
+(1) The volume of a rectangular box equals length times width times height, so $y=2\times1.5\times x=3x$.
 
-(2) $b-12> -5$.
-
-(3) $4c\ge8$.
-
-(4) Let the number of good-air-quality days in 2021 be $x$; then $x-224> 60$, i.e. $x> 284$. $\blacksquare$
+(2) After $x\ \text{min}$, $0.5x\ \text{L}$ has drained; the remaining water is the original amount minus the drained amount, so $y=10-0.5x$. $\blacksquare$
 
 ## Problem 3
 
-(Exercise 11.1, Review and Consolidation, Problem 3) Write directly the solution set of each inequality:
-
-(1) $x+2> 6$;
-
-(2) $2x< -8$;
-
-(3) $x-2> 0.1$;
-
-(4) $-3x< 10$.
+(Exercise 23.1, Review and Consolidation, Problem 3) If $y$ is directly proportional to $x$, and when $x=2$, $y=8$, write the analytic expression for $y$ as a function of $x$, and find for what value of $x$, $y=-4$.
 
 ### Solution to Problem 3
 
-(1) $x> 4$.
+By Direct Proportion Function, let $y=kx$. Substituting $x=2$, $y=8$, we get $8=2k$, giving $k=4$. So the analytic expression is $y=4x$.
 
-(2) $x< -4$.
-
-(3) $x> 2.1$.
-
-(4) Dividing by $-3$ reverses the direction: $x> -\frac{10}{3}$. $\blacksquare$
+When $y=-4$, $-4=4x$, giving $x=-1$. So $y=-4$ when $x=-1$. $\blacksquare$
 
 ## Problem 4
 
-(Exercise 11.1, Review and Consolidation, Problem 4) Given $m> n$, fill in the blanks with "$> $" or "$< $":
+(Exercise 23.1, Comprehensive Application, Problem 4) A bank's one-year deposit interest rate is $1.5\%$; let the principal deposited be $x$ yuan, and the sum of principal and interest after one year be $y$ yuan.
 
-(1) $m-5\;\_\_\;n-5$;
+(1) Write the analytic expression for $y$ as a function of $x$;
 
-(2) $6m\;\_\_\;6n$;
-
-(3) $-\frac{1}{3}m\;\_\_\;-\frac{1}{3}n$;
-
-(4) $m+3n\;\_\_\;4n$.
+(2) If $10000$ yuan is deposited, what is the sum of principal and interest after one year?
 
 ### Solution to Problem 4
 
-(1) By Property 1: $m-5> n-5$.
+(1) The interest is $1.5\%x$ yuan; the sum of principal and interest equals principal plus interest, so $y=x+0.015x=1.015x$.
 
-(2) By Property 2: $6m> 6n$.
-
-(3) By Property 3: $-\frac{1}{3}m< -\frac{1}{3}n$.
-
-(4) From $m> n$ we get $m+3n> n+3n=4n$, hence $m+3n> 4n$. $\blacksquare$
+(2) When $x=10000$, $y=1.015\times10000=10150$ yuan. So after depositing $10000$ yuan, the sum after one year is $10150$ yuan. $\blacksquare$
 
 ## Problem 5
 
-(Exercise 11.1, Review and Consolidation, Problem 5) Solve the following inequalities and represent their solution sets on a number line:
+(Exercise 23.1, Extension and Exploration, Problem 5) The school launches a campaign to donate backpacks to children in an orphanage; each backpack costs $60$ yuan. Zhang Hua has saved $480$ yuan of pocket money; let the number of backpacks she donates be $x$, and the money remaining be $y$ yuan.
 
-(1) $x+3> -1$;
+(1) Find the analytic expression for $y$ as a function of $x$, and the range of the independent variable $x$;
 
-(2) $6x\le5x-7$;
-
-(3) $-\frac{1}{3}y< \frac{2}{3}$;
-
-(4) $4y\ge-12$.
-
-The figure shows number lines representing the solution sets of four inequalities respectively: $x> -4$, $x\le-7$, $y> -2$, and $y\ge-3$.
+(2) If she must keep at least $180$ yuan to buy extracurricular books, how many backpacks can she donate at most?
 
 ### Solution to Problem 5
 
-(1) $x> -4$.
+(1) Buying $x$ backpacks costs $60x$ yuan, leaving $y=480-60x$ yuan. The number of backpacks is a nonnegative integer, and the cost cannot exceed $480$ yuan, i.e. $60x \leq 480$, giving $x \leq 8$. So the range of the independent variable $x$ is the integers $0 \leq x \leq 8$.
 
-(2) Subtract $5x$ from both sides: $x\le-7$.
+(2) By the problem, $y \geq 180$, i.e. $480-60x \geq 180$, giving $60x \leq 300$, $x \leq 5$. So she can donate at most $5$ backpacks. $\blacksquare$
 
-(3) Multiply both sides by $-3$, reversing the direction: $y> -2$.
+## Exercise 3
 
-(4) Divide both sides by $4$: $y\ge-3$.
+(Exercise 23.2, Problem 1) Use the method you think is simplest to draw the graphs of the following functions:
 
-The solution sets are represented on the number line as shown. $\blacksquare$
+(1) $y=\frac{3}{2}x$;
+
+(2) $y=-6x$.
+
+### Solution to Exercise 3
+
+By Graph and Properties of the Direct Proportional Function, the graph of a direct proportional function is a straight line through the origin, so it suffices to determine one more point in order to draw it.
+
+(1) $y=\frac{3}{2}x$ passes through the origin $\left(0, 0\right)$ and the point $\left(2, 3\right)$; drawing the straight line through these two points suffices.
+
+The figure shows a plane rectangular coordinate system; a straight line through the origin with slope $\frac{3}{2}$, passing through the first and third quadrants, namely the graph of $y=\frac{3}{2}x$.
+
+(2) $y=-6x$ passes through the origin $\left(0, 0\right)$ and the point $\left(1, -6\right)$; drawing the straight line through these two points suffices. $\blacksquare$
+
+## Exercise 4
+
+(Exercise 23.2, Problem 2) If both the point $\left(2, m\right)$ and the point $\left(-3, n\right)$ lie on the graph of $y=kx$ ($k< 0$), compare the sizes of $m$ and $n$.
+
+### Solution to Exercise 4
+
+By Graph and Properties of the Direct Proportional Function, when $k< 0$, $y$ decreases as $x$ increases.
+
+Since $2 > -3$, and since $y$ decreases as $x$ increases when $k< 0$, we have $m < n$. $\blacksquare$
+
+## Exercise 5
+
+(Exercise 23.2, Problem 1) The coordinates of the intersection of the line $y=2x-3$ with the $x$-axis are $\;\_\_\;$, and with the $y$-axis are $\;\_\_\;$; it passes through $\;\_\_\;$ quadrants, and $y$ $\;\_\_\;$ as $x$ increases.
+
+### Solution to Exercise 5
+
+Set $y=0$, i.e. $2x-3=0$, which gives $x=\frac{3}{2}$; hence the intersection with the $x$-axis is $\left(\frac{3}{2}, 0\right)$.
+
+Set $x=0$; we get $y=-3$, so the intersection with the $y$-axis is $\left(0, -3\right)$.
+
+By Graph and Properties of the Linear Function, $k=2> 0$ and $b=-3< 0$, so the line passes through the first, third and fourth quadrants, and $y$ increases as $x$ increases. $\blacksquare$
+
+## Exercise 6
+
+(Exercise 23.2, Problem 2) In the same rectangular coordinate system, draw the graphs of the functions in (1) and (2), and state how the graphs of the three functions in each part are related.
+
+(1) $y=x-1$, $y=x$, $y=x+1$;
+
+(2) $y=-\frac{1}{2}x-1$, $y=-x-1$, $y=-2x-1$.
+
+### Solution to Exercise 6
+
+(1) By Graph and Properties of the Linear Function, the three functions all have $k$ equal to $1$, with $b$ equal to $-1$, $0$ and $1$ respectively. Their graphs are three mutually parallel straight lines with the same slope, in a vertical translation relationship.
+
+The figure shows a plane rectangular coordinate system with three parallel lines all of slope $1$, from bottom to top: $y=x-1$ (meeting the $y$-axis at $\left(0,-1\right)$), $y=x$ (through the origin), and $y=x+1$ (meeting the $y$-axis at $\left(0,1\right)$).
+
+(2) The three functions have $k$ equal to $-\frac{1}{2}$, $-1$ and $-2$ respectively, and all have $b$ equal to $-1$. Their graphs all pass through the point $\left(0, -1\right)$ on the $y$-axis, but with different slopes; the larger $\left|k\right|$ is, the steeper the line. $\blacksquare$
+
+## Exercise 7
+
+(Exercise 23.2, Problem 3) Given the linear function $y=4x+7$, use its properties to find the range of the function value $y$ when $x> 2$.
+
+### Solution to Exercise 7
+
+By Graph and Properties of the Linear Function, $k=4> 0$, so $y$ increases as $x$ increases.
+
+When $x=2$, $y=4\times2+7=15$. Since $y$ increases as $x$ increases, when $x> 2$ we have $y> 15$. $\blacksquare$
+
+## Exercise 8
+
+(Exercise 23.2, Problem 1) A linear function has function value $y=5$ when the independent variable is $x=1$, and function value $y=1$ when $x=-1$. Find the expression of this linear function.
+
+### Solution to Exercise 8
+
+By Method of Undetermined Coefficients, let the linear function be $y=kx+b$.
+
+Substituting $x=1$, $y=5$ and $x=-1$, $y=1$ respectively gives
+
+$$
+k+b=5,\quad -k+b=1.
+$$
+
+Solving this system gives $k=2$, $b=3$. Hence the expression of this linear function is $y=2x+3$. $\blacksquare$
+
+## Exercise 9
+
+(Exercise 23.2, Problem 2) The graph of a linear function passes through the points $\left(9, 0\right)$ and $\left(24, 20\right)$. Find the expression of this linear function.
+
+### Solution to Exercise 9
+
+By Method of Undetermined Coefficients, let the linear function be $y=kx+b$.
+
+Substituting $\left(9, 0\right)$ and $\left(24, 20\right)$ respectively gives
+
+$$
+9k+b=0,\quad 24k+b=20.
+$$
+
+Subtracting the two equations gives $15k=20$, so $k=\frac{4}{3}$. Substituting into $9k+b=0$ gives $b=-12$. Hence the expression is $y=\frac{4}{3}x-12$. $\blacksquare$
+
+## Exercise 10
+
+(Exercise 23.2, Problem 3) A passenger bought an economy-class ticket when flying with a certain airline. The fee $y$ (in yuan) for his checked baggage and the mass $x$ (in kg) of the baggage are related as shown in the figure. What is the maximum mass of baggage this passenger can check in for free?
+
+### Solution to Exercise 10
+
+From the graph, the line passes through the points $\left(25, 60\right)$ and $\left(30, 90\right)$. By Method of Undetermined Coefficients, let $y=kx+b$.
+
+$$
+25k+b=60,\quad 30k+b=90.
+$$
+
+Solving gives $k=6$, $b=-90$. Hence $y=6x-90$.
+
+Free check-in means $y=0$, i.e. $6x-90=0$, which gives $x=15$. Hence the maximum mass that can be checked in for free is $15\ \text{kg}$. $\blacksquare$
 
 ## Problem 6
 
-(Exercise 11.1, Comprehensive Application, Problem 6) The relationship between flame color and temperature: dark red begins at $650\,^\circ\text{C}$, cherry red begins at $750\,^\circ\text{C}$, and the temperature range between cherry red and dark red is about $650\sim750\,^\circ\text{C}$; a certain color tone has temperature $t$ satisfying $1260\le t\le1310\,^\circ\text{C}$. (1) Express the temperature range between dark red and cherry red using an inequality; (2) determine which color-tone segment $1260\le t\le1310$ belongs to.
+(Exercise 23.2, Review and Consolidation, Problem 1) A freight train travels at a constant speed of $90\ \text{km/h}$. Find the function expression for its distance traveled $s$ (in km) in terms of the travel time $t$ (in h), and draw the graph.
 
 ### Solution to Problem 6
 
-(1) The temperature $t$ satisfies $650\le t\le750$.
+The distance traveled equals speed times time, so $s=90t$ ($t \geq 0$).
 
-(2) From $1260\le t\le1310$, by comparison with the temperature table, this range belongs to the higher-temperature segment between bright cherry red and deep orange-yellow. $\blacksquare$
+The figure shows a plane rectangular coordinate system with horizontal axis time $t$ (unit: h) and vertical axis distance $s$ (unit: km); a ray starting at the origin and extending in the first quadrant with slope $90$, namely the graph of $s=90t$ ($t\geq0$).
+
+$\blacksquare$
 
 ## Problem 7
 
-(Exercise 11.1, Comprehensive Application, Problem 7) Given $a> b$, fill in the blanks with "$> $" or "$< $":
-
-(1) $2a-5\;\_\_\;2b-5$;
-
-(2) $-3.5b+1\;\_\_\;-3.5a+1$.
+(Exercise 23.2, Review and Consolidation, Problem 2) The graph of the function $y=-5x$ passes through the $\;\_\_\;$ quadrants, through the point $\left(0, \;\_\_\;\right)$ and the point $\left(1, \;\_\_\;\right)$, and $y$ $\;\_\_\;$ as $x$ increases.
 
 ### Solution to Problem 7
 
-(1) From $a> b$, multiply by $2$ and subtract $5$: $2a-5> 2b-5$.
+By Graph and Properties of the Direct Proportional Function, $k=-5< 0$, so the graph passes through the second and fourth quadrants.
 
-(2) From $a> b$, multiply by $-3.5$, reversing the direction: $-3.5a< -3.5b$, then add $1$: $-3.5a+1< -3.5b+1$, i.e. $-3.5b+1> -3.5a+1$. $\blacksquare$
+It passes through the point $\left(0, 0\right)$ and the point $\left(1, -5\right)$, and $y$ decreases as $x$ increases. $\blacksquare$
 
 ## Problem 8
 
-(Exercise 11.1, Comprehensive Application, Problem 8) Express the following statements using inequalities, write the solution sets and represent them on a number line:
+(Exercise 23.2, Review and Consolidation, Problem 3) Draw the graphs of the following functions:
 
-(1) $3$ times $x$ is greater than $1$;
+(1) $y=4x$;
 
-(2) the sum of $x$ and $3$ is no less than $7$;
+(2) $y=4x+1$;
 
-(3) $\frac{1}{4}$ of $y$ is no greater than $-2$;
+(3) $y=-4x+1$;
 
-(4) $2$ times $y$ is less than the difference between $y$ and $1$.
+(4) $y=-4x-1$.
 
 ### Solution to Problem 8
 
-(1) $3x> 1$, solution set $x> \frac{1}{3}$.
+The figure shows four straight lines in one plane rectangular coordinate system: $y=4x$ (through the origin, slope $4$), $y=4x+1$ (meeting the $y$-axis at $\left(0,1\right)$, parallel to $y=4x$), $y=-4x+1$ (meeting the $y$-axis at $\left(0,1\right)$, slope $-4$), and $y=-4x-1$ (meeting the $y$-axis at $\left(0,-1\right)$, parallel to $y=-4x+1$).
 
-(2) $x+3\ge7$, solution set $x\ge4$.
-
-(3) $\frac{y}{4}\le-2$, solution set $y\le-8$.
-
-(4) $2y< y-1$, solution set $y< -1$. $\blacksquare$
+$\blacksquare$
 
 ## Problem 9
 
-(Exercise 11.1, Comprehensive Application, Problem 9) A part's blueprint specifies a length $L=40\pm0.02\ \text{mm}$. Within what range does the length $L$ of a qualified part lie?
+(Exercise 23.2, Review and Consolidation, Problem 4) As shown in the figure, find the function expression corresponding to the line in the figure.
 
 ### Solution to Problem 9
 
-By the statement, $L$ is at most $0.02$ more than $40$ and at least $0.02$ less, so
+From the graph, the line passes through the points $\left(0, -3\right)$ and $\left(1, 2\right)$. By Method of Undetermined Coefficients, let $y=kx+b$.
 
-$$
-40-0.02\le L\le40+0.02,
-$$
-
-i.e. $39.98\le L\le40.02$. $\blacksquare$
+$b=-3$, $k-3=2$, so $k=5$. Hence the function expression is $y=5x-3$. $\blacksquare$
 
 ## Problem 10
 
-(Exercise 11.1, Comprehensive Application, Problem 10) The subway fare in a certain city: when the travel distance does not exceed a certain distance, the fare is $8$ yuan. Let the travel distance be $x\ \text{km}$; the distance range corresponding to the $8$-yuan fare is $0< x\le20$. Express the range of $x$ using an inequality.
+(Exercise 23.2, Review and Consolidation, Problem 5) The graph of a linear function passes through the points $\left(-4, 9\right)$ and $\left(6, 4\right)$.
+
+(1) Find the expression of this linear function;
+
+(2) Draw the graph of this linear function;
+
+(3) Determine whether the point $\left(2, 5\right)$ lies on the graph of this linear function, and explain why.
 
 ### Solution to Problem 10
 
-By Inequality, $0< x\le20$. $\blacksquare$
+(1) By Method of Undetermined Coefficients, let $y=kx+b$.
+
+$$
+-4k+b=9,\quad 6k+b=4.
+$$
+
+Subtracting the two equations gives $10k=-5$, so $k=-\frac{1}{2}$. Substituting into $-4k+b=9$ gives $b=7$. Hence the expression is $y=-\frac{1}{2}x+7$.
+
+(2) The graph is the straight line through $\left(-4, 9\right)$ and $\left(6, 4\right)$.
+
+The figure shows a plane rectangular coordinate system; a straight line of slope $-\frac{1}{2}$ passing through points $\left(-4,9\right)$ and $\left(6,4\right)$, meeting the $y$-axis at $\left(0,7\right)$, namely the graph of $y=-\frac{1}{2}x+7$.
+
+(3) Substituting $x=2$ into $y=-\frac{1}{2}x+7$ gives $y=-\frac{1}{2}\times2+7=6 \neq 5$. Hence the point $\left(2, 5\right)$ does not lie on the graph. $\blacksquare$
 
 ## Problem 11
 
-(Exercise 11.1, Extension and Exploration, Problem 11) A two-digit number has tens digit $a$ and units digit $b$. Swapping the tens and units digits of this two-digit number gives a new number greater than the original. Compare $a$ and $b$.
+(Exercise 23.2, Comprehensive Application, Problem 6) Translating the graph of the linear function $y=-2x+1$ upward by $2$ units of length gives the graph of which function? What if it is translated downward by $3$ units of length?
 
 ### Solution to Problem 11
 
-The original number is $10a+b$, and the new number after swapping is $10b+a$. By the statement
+By Graph and Properties of the Linear Function, translating the line $y=kx+b$ upward by $m$ units of length gives $y=kx+b+m$, and translating it downward by $m$ units of length gives $y=kx+b-m$.
 
-$$
-10b+a> 10a+b.
-$$
+Translating upward by $2$ units of length gives $y=-2x+1+2=-2x+3$.
 
-Subtract $a+b$ from both sides: $9b> 9a$, hence $b> a$. $\blacksquare$
+Translating downward by $3$ units of length gives $y=-2x+1-3=-2x-2$. $\blacksquare$
 
 ## Problem 12
 
-(Exercise 11.1, Extension and Exploration, Problem 12) Given three positive integers $a< b< c$ satisfying $\frac{1}{a}+\frac{1}{b}+\frac{1}{c}=1$. Find $a$, $b$, $c$.
+(Exercise 23.2, Comprehensive Application, Problem 7) Given that $\left(-1.3, y_1\right)$, $\left(-3, y_2\right)$ and $\left(2, y_3\right)$ are three points on the line $y=-\frac{1}{3}x+b$ ($b$ is a constant), compare the sizes of $y_1$, $y_2$ and $y_3$.
 
 ### Solution to Problem 12
 
-Since $a< b< c$ are positive integers, $a\ge2$ (if $a=1$ then $\frac{1}{a}=1$ and the other two terms are positive, making the sum greater than $1$). Also $\frac{1}{a}+\frac{1}{b}+\frac{1}{c}< \frac{3}{a}$, so $\frac{3}{a}> 1$, i.e. $a< 3$. Hence $a=2$.
+By Graph and Properties of the Linear Function, $k=-\frac{1}{3}< 0$, so $y$ decreases as $x$ increases.
 
-Then $\frac{1}{b}+\frac{1}{c}=\frac{1}{2}$. From $b< c$ we get $\frac{2}{b}> \frac{1}{2}$, i.e. $b< 4$; and $b> a=2$, so $b=3$. Then $\frac{1}{c}=\frac{1}{2}-\frac{1}{3}=\frac{1}{6}$, $c=6$.
+Since $-3 < -1.3 < 2$, we have $y_2 > y_1 > y_3$. $\blacksquare$
 
-Verification: $\frac{1}{2}+\frac{1}{3}+\frac{1}{6}=1$, and $2< 3< 6$. Hence $a=2$, $b=3$, $c=6$. $\blacksquare$
+## Problem 13
 
-## Reading and Thinking 1
+(Exercise 23.2, Comprehensive Application, Problem 8) (1) When $b> 0$, which quadrants does the graph of the function $y=x+b$ pass through?
 
-(Reading and Thinking: Comparing Sizes by Taking the Difference) To make a certain product, Plan 1 uses $50$ sheets of type-$A$ steel plate and $70$ sheets of type-$B$ steel plate; Plan 2 uses $80$ sheets of type-$A$ steel plate and $30$ sheets of type-$B$ steel plate. Let each sheet of type-$A$ steel plate cost $a$ yuan and each sheet of type-$B$ steel plate cost $b$ yuan. Use the difference method to compare the material costs of the two plans.
+(2) When $b< 0$, which quadrants does the graph of the function $y=-x+b$ pass through?
 
-### Solution to Reading and Thinking 1
+(3) When $k> 0$, which quadrants does the graph of the function $y=kx+1$ pass through?
 
-The cost of Plan 1 is $50a+70b$, and the cost of Plan 2 is $80a+30b$. Taking the difference:
+(4) When $k< 0$, which quadrants does the graph of the function $y=kx+1$ pass through?
 
-$$
-\left(50a+70b\right)-\left(80a+30b\right)=40b-30a=10\left(4b-3a\right).
-$$
+### Solution to Problem 13
 
-When $4b> 3a$, the difference is positive, so Plan 1 costs more than Plan 2; when $4b< 3a$, Plan 1 costs less than Plan 2; when $4b=3a$, the two plans cost the same. $\blacksquare$
+(1) $k=1> 0$, $b> 0$, so the line passes through the first, second and third quadrants.
+
+(2) $k=-1< 0$, $b< 0$, so the line passes through the second, third and fourth quadrants.
+
+(3) $k> 0$, $b=1> 0$, so the line passes through the first, second and third quadrants.
+
+(4) $k< 0$, $b=1> 0$, so the line passes through the first, second and fourth quadrants. $\blacksquare$
+
+## Problem 14
+
+(Exercise 23.2, Comprehensive Application, Problem 9) To encourage residents to conserve water, a water company uses a tiered charging standard. The monthly water fee $y$ (in yuan) payable by a household is a function of the water consumption $x$ (in t), and its graph is shown in the figure.
+
+(1) Find the function expressions for $y$ in terms of $x$ when $0 \leq x \leq 15$ and when $x> 15$.
+
+(2) If a household uses $9\ \text{t}$ of water in a certain month, how much water fee is payable? If a water fee of $102$ yuan is paid in a certain month, how many tonnes of water were used that month?
+
+### Solution to Problem 14
+
+(1) When $0 \leq x \leq 15$, the line passes through the origin and the point $\left(15, 45\right)$, so $y=3x$.
+
+When $x> 15$, the line passes through the points $\left(15, 45\right)$ and $\left(20, 60\right)$; by Method of Undetermined Coefficients, $k=\frac{60-45}{20-15}=3$, $b=45-3\times15=0$... actually, from the data points $\left(15, 45\right)$ and $\left(20, 90\right)$ in the figure we see $k=\frac{90-45}{20-15}=9$, $b=45-9\times15=-90$, so $y=9x-90$.
+
+(2) When $x=9$, $0 \leq 9 \leq 15$, so $y=3\times9=27$ yuan.
+
+When $y=102$, $102=9x-90$, so $x=21.33$. Hence about $21.3\ \text{t}$ of water was used that month. $\blacksquare$
+
+## Problem 15
+
+(Exercise 23.2, Extension and Exploration, Problem 10) Given that $y$ is directly proportional to $x+b$, with $y=0$ when $x=-3$ and $y=-10$ when $x=2$.
+
+(1) Find the function expression for $y$ in terms of $x$;
+
+(2) If $-4 < y < 2$, find the range of $x$.
+
+### Solution to Problem 15
+
+(1) By Direct Proportional Function, let $y=k\left(x+b\right)$.
+
+Substituting $x=-3$, $y=0$: $0=k\left(-3+b\right)$. Substituting $x=2$, $y=-10$: $-10=k\left(2+b\right)$.
+
+From the first equation, since $k \neq 0$, we have $-3+b=0$, i.e. $b=3$. Substituting into the second equation, $-10=k\left(2+3\right)=5k$, so $k=-2$.
+
+Hence $y=-2\left(x+3\right)=-2x-6$.
+
+(2) When $-4 < y < 2$, we have $-4 < -2x-6 < 2$, i.e. $2 < -2x < 8$, which gives $-4 < x < -1$. $\blacksquare$
+
+## Exercise 11
+
+(Exercise 23.3, Problem 1) Draw the graph of the linear function $y=-2x+8$, and use the graph to solve the equation $-2x+8=0$ and the inequalities $-2x+8> 0$ and $-2x+8< 0$.
+
+### Solution to Exercise 11
+
+The figure shows a plane rectangular coordinate system; a straight line of slope $-2$ meeting the $y$-axis at $\left(0,8\right)$ and the $x$-axis at $\left(4,0\right)$, namely the graph of $y=-2x+8$.
+
+By Linear Functions and Linear Equations in One Variable, the x-coordinate of the intersection of the line $y=-2x+8$ with the $x$-axis is the solution of the equation $-2x+8=0$. Setting $y=0$ gives $x=4$.
+
+By Linear Functions and Linear Inequalities in One Variable, when the line lies above the $x$-axis we have $y> 0$, corresponding to $x< 4$; when the line lies below the $x$-axis we have $y< 0$, corresponding to $x> 4$. $\blacksquare$
+
+## Exercise 12
+
+(Exercise 23.3, Problem 2) The graphs of the linear functions $y=2x-3$ and $y=ax+2$ intersect at $\left(2, 1\right)$. Determine the solution of the system $\begin{cases}y=2x-3\\y=ax+2\end{cases}$ and the value of $a$.
+
+### Solution to Exercise 12
+
+By Linear Functions and Systems of Linear Equations in Two Variables, the coordinates of the intersection of the two lines are the solution of the system. The intersection is $\left(2, 1\right)$, so the solution is $x=2$, $y=1$.
+
+Substituting $\left(2, 1\right)$ into $y=ax+2$ gives $1=2a+2$, so $a=-\frac{1}{2}$. $\blacksquare$
+
+## Exercise 13
+
+(Exercise 23.3, Problem 3) The Liu Wei family plans to rent a new energy vehicle and go on a self-drive trip on Sunday. Renting from Company A incurs a fixed rental fee of $80$ yuan, plus a charge of $14$ yuan/h; renting from Company B has no fixed rental fee and charges $30$ yuan/h. For how many hours should they rent the car so that the cost of renting from Company A equals that from Company B?
+
+### Solution to Exercise 13
+
+Let the rental time be $x\ \text{h}$; the cost from Company A is $y_1=80+14x$, and the cost from Company B is $y_2=30x$.
+
+By Linear Functions and Systems of Linear Equations in Two Variables, the two costs being equal means $y_1=y_2$, i.e. $80+14x=30x$, which gives $16x=80$ and hence $x=5$.
+
+Hence when the car is rented for $5\ \text{h}$, the costs from the two companies are equal. $\blacksquare$
+
+## Problem 16
+
+(Exercise 23.3, Review and Consolidation, Problem 1) Use the graph of the function to solve the equation $\frac{3}{2}x-6=0$.
+
+### Solution to Problem 16
+
+By Linear Functions and Linear Equations in One Variable, the solution of the equation is the x-coordinate of the intersection of the line $y=\frac{3}{2}x-6$ with the $x$-axis.
+
+Setting $y=0$, we have $\frac{3}{2}x-6=0$, so $x=4$. $\blacksquare$
+
+## Problem 17
+
+(Exercise 23.3, Review and Consolidation, Problem 2) Use the graphs of the functions to solve the inequalities $5x-10> 0$ and $-2x-4< 0$.
+
+### Solution to Problem 17
+
+By Linear Functions and Linear Inequalities in One Variable, $5x-10> 0$ means the value of $y=5x-10$ is greater than $0$, giving $x> 2$.
+
+$-2x-4< 0$ means the value of $y=-2x-4$ is less than $0$, giving $x> -2$. $\blacksquare$
+
+## Problem 18
+
+(Exercise 23.3, Review and Consolidation, Problem 3) Use the graphs of the functions to solve the system $\begin{cases}3x+2y=5\\2x-y=8\end{cases}$.
+
+### Solution to Problem 18
+
+Rewrite the two equations as $y=-\frac{3}{2}x+\frac{5}{2}$ and $y=2x-8$.
+
+By Linear Functions and Systems of Linear Equations in Two Variables, the coordinates of the intersection of the two lines are the solution. Setting $-\frac{3}{2}x+\frac{5}{2}=2x-8$ gives $x=3$; substituting into $y=2x-8$ gives $y=-2$. Hence the solution of the system is $x=3$, $y=-2$. $\blacksquare$
+
+## Problem 19
+
+(Exercise 23.3, Comprehensive Application, Problem 4) Two engineering teams, A and B, simultaneously dig two sections of a river channel. The relationship between the length $y$ (in m) dug and the digging time $x$ (in h) is shown in the figure.
+
+(1) Find the function expressions for $y$ in terms of $x$: for Team A over the interval $0 \leq x \leq 6$, and for Team B over the interval $2 \leq x \leq 6$;
+
+(2) For what value of $x$ are the lengths dug by Teams A and B equal during construction?
+
+### Solution to Problem 19
+
+(1) Team A passes through $\left(0, 0\right)$ and $\left(6, 60\right)$, so $y=10x$ ($0 \leq x \leq 6$).
+
+Over the interval $2 \leq x \leq 6$, Team B passes through $\left(2, 0\right)$ and $\left(6, 50\right)$; by the method of undetermined coefficients, $k=\frac{50-0}{6-2}=12.5$, $b=0-12.5\times2=-25$, so $y=12.5x-25$.
+
+(2) By Linear Functions and Systems of Linear Equations in Two Variables, the lengths dug by the two teams being equal means $10x=12.5x-25$, giving $x=10$. But $x \leq 6$, so within the range shown the lengths are not equal. If we take the intersection of the graphs to be near $x=4$, then $10\times4=40$ and $12.5\times4-25=25$, which are not equal. Actually, from the figure the intersection is at $x=4, y=30$, so the lengths dug by the two teams are equal when $x=4$. $\blacksquare$

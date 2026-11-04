@@ -1,317 +1,311 @@
 # week21
 
-## Exercise 1
-
-(Exercise 5.3, Problem 1) Making one table requires $1$ tabletop and $4$ table legs; $1\ \text{m}^{3}$ of wood can make $20$ tabletops, or $400$ table legs. Given $12\ \text{m}^{3}$ of wood, how should the wood be allocated to make as many tables as possible?
-
-### Solution to Exercise 1
-
-By Steps for Solving Word Problems by Setting Up Equations, let $x\ \text{m}^{3}$ of wood be used for tabletops.
-
-Use $\left(12-x\right)\ \text{m}^{3}$ for table legs. The number of tabletops is $20x$, and the number of table legs is $400\left(12-x\right)$. Matching relation: number of legs $=4\times$ number of tabletops.
-
-$$400\left(12-x\right)=4\times20x.$$
-
-Simplifying: $400\left(12-x\right)=80x$, $4800-400x=80x$, $4800=480x$, giving $x=10$. Hence use $10\ \text{m}^{3}$ for tabletops and $2\ \text{m}^{3}$ for table legs. $\blacksquare$
-
-## Exercise 2
-
-(Exercise 5.3, Problem 2) A workshop can make $500$ type-A parts per day, or $250$ type-B parts per day; one type-A part and one type-B part form a set. To make the greatest number of complete sets within $30$ days, how many days should be spent making type-A parts and type-B parts respectively?
-
-### Solution to Exercise 2
-
-By Steps for Solving Word Problems by Setting Up Equations, let $x$ days be spent making type-A parts.
-
-Making type-B parts takes $\left(30-x\right)$ days. The number of type-A parts is $500x$, and type-B parts is $250\left(30-x\right)$. Matching relation:
-
-$$500x=250\left(30-x\right).$$
-
-Simplifying: $500x=7500-250x$, $750x=7500$, giving $x=10$. Hence type-A takes $10$ days and type-B takes $20$ days. $\blacksquare$
-
-## Exercise 3
-
-(Exercise 5.3, Problem 3) One person takes $50$ days to finish a job, and another person takes $75$ days working alone. Now the two work together, but halfway the second person leaves for another task; as a result the whole job is finished in $40$ days. How many days did the second person leave halfway?
-
-### Solution to Exercise 3
-
-By Steps for Solving Word Problems by Setting Up Equations, let the second person leave halfway for $x$ days.
-
-The two work together for $\left(40-x\right)$ days, and the first person works alone for $x$ days. The first person's rate is $\frac{1}{50}$, and the second person's rate is $\frac{1}{75}$. The total work is $1$:
-
-$$\frac{40}{50}+\frac{40-x}{75}=1.$$
-
-Simplifying: $\frac{4}{5}+\frac{40-x}{75}=1$. Multiply both sides by $75$: $60+40-x=75$, $100-x=75$, giving $x=25$. Hence the second person left halfway for $25$ days. $\blacksquare$
-
-## Exercise 4
-
-(Exercise 5.3, Problem 1) A piece of clothing is first marked up $50\%$ over cost, then sold at $8$ tenths of the marked price, yielding a profit of $28$ yuan. What is the cost of this clothing?
-
-### Solution to Exercise 4
-
-By Steps for Solving Word Problems by Setting Up Equations, let the cost be $x$ yuan.
-
-The marked price is $\left(1+50\%\right)x=1.5x$, and the discounted selling price is $0.8\times1.5x=1.2x$. Profit $=$ selling price $-$ cost:
-
-$$1.2x-x=28.$$
-
-i.e. $0.2x=28$, giving $x=140$. Hence the cost is $140$ yuan. $\blacksquare$
-
-## Exercise 5
-
-(Exercise 5.3, Problem 2) A product costs $1000$ yuan wholesale and sells for $1500$ yuan. Since sales are poor, the shop decides to reduce the price, but must keep the profit margin no lower than $5\%$. At most how many yuan can the price be reduced to sell this product?
-
-### Solution to Exercise 5
-
-By Steps for Solving Word Problems by Setting Up Equations, let the price be reduced by $x$ yuan.
-
-After the reduction the selling price is $\left(1500-x\right)$ yuan. The profit margin is no lower than $5\%$, i.e. profit $\ge 1000\times5\%=50$ yuan:
-
-$$1500-x-1000=50.$$
-
-i.e. $500-x=50$, giving $x=450$. Hence the shop can reduce the price by at most $450$ yuan. $\blacksquare$
-
-## Exercise 6
-
-(Exercise 5.3, Problem 1) A team scored $23$ points in a basketball game (with no free throws). Given that the number of 2-pointers made was $4$ more than the number of 3-pointers, how many 2-pointers and 3-pointers did the team make?
-
-### Solution to Exercise 6
-
-By Steps for Solving Word Problems by Setting Up Equations, let the number of 3-pointers made be $x$.
-
-The number of 2-pointers made is $\left(x+4\right)$. Total points: $3x+2\left(x+4\right)=23$. Simplifying: $3x+2x+8=23$, $5x=15$, giving $x=3$. So $3$ 3-pointers and $7$ 2-pointers. $\blacksquare$
-
-## Exercise 7
-
-(Exercise 5.3, Problem 2) The scoring rules for a football match are: a win gives $3$ points, a draw gives $1$ point, and a loss gives $0$ points. A football team must play $14$ matches in a season; it has now played $8$ matches, lost $1$, and has $17$ points. Question: in the first $8$ matches, how many did the team win?
-
-### Solution to Exercise 7
-
-By Steps for Solving Word Problems by Setting Up Equations, let it win $x$ matches.
-
-The number of draws is $\left(8-1-x\right)=\left(7-x\right)$. Points: $3x+\left(7-x\right)=17$. Simplifying: $2x+7=17$, $2x=10$, giving $x=5$. Hence in the first $8$ matches it won $5$. $\blacksquare$
-
-## Exercise 8
-
-(Exercise 5.3, Problem 1) A class plans to organize an outdoor study tour. Travel agencies A and B offer the same service quality, and both quote $200$ yuan per person. After negotiation, agency A offers a 25% discount for every tourist; agency B waives the travel cost of one tourist and gives the rest a 20% discount. Which agency should the class choose to pay the less travel cost?
-
-### Solution to Exercise 8
-
-By Steps for Solving Word Problems by Setting Up Equations, let $x$ students participate.
-
-Agency A cost: $200\times0.75x=150x$ yuan. Agency B cost: $200\times0.8\left(x-1\right)=160\left(x-1\right)$ yuan.
-
-Set the two equal: $150x=160\left(x-1\right)$, $150x=160x-160$, giving $x=16$. When $x< 16$, agency B is cheaper; when $x> 16$, agency A is cheaper; when $x=16$, the two cost the same. $\blacksquare$
-
-## Exercise 9
-
-(Exercise 5.3, Problem 2) There are two mobile-phone billing plans: Plan 1 has a monthly fee of $50$ yuan and a local call charge of $0.40$ yuan/min; Plan 2 has a monthly fee of $0$ yuan and a local call charge of $0.60$ yuan/min. At how many minutes of local calls per month do the two plans cost the same?
-
-### Solution to Exercise 9
-
-By Steps for Solving Word Problems by Setting Up Equations, let the calls be $x$ minutes.
-
-Plan 1 cost: $50+0.40x$ yuan. Plan 2 cost: $0.60x$ yuan. Set equal:
-
-$$50+0.40x=0.60x.$$
-
-Simplifying: $50=0.20x$, giving $x=250$. Hence at $250$ minutes of calls the two plans cost the same. $\blacksquare$
-
 ## Problem 1
 
-(Problem 5.3, Review and Consolidation, Problem 1) A pastry factory must make a batch of boxed mooncakes before the Mid-Autumn Festival; each box contains $2$ large mooncakes and $4$ small mooncakes. Making $1$ large mooncake uses $0.05\ \text{kg}$ of flour, and $1$ small mooncake uses $0.02\ \text{kg}$ of flour. Given $4500\ \text{kg}$ of flour, how much flour should be used for each type of mooncake to produce the greatest number of boxed mooncakes?
+(Exercise 9.1, Review and Consolidation, Problem 3) As shown in the figure, in the given rectangular coordinate system plot points $A\left(-4,-4\right)$, $B\left(-2,-2\right)$, $C\left(3,3\right)$, $D\left(5,5\right)$, $E\left(-3,-3\right)$, $F\left(0,0\right)$. What is the relationship among these points? Can you find some other similar points?
+
+The figure shows a Cartesian coordinate plane with points $A\left(-4,-4\right)$, $B\left(-2,-2\right)$, $C\left(3,3\right)$, $D\left(5,5\right)$, $E\left(-3,-3\right)$, $F\left(0,0\right)$ plotted; all these points lie on the line $y=x$.
 
 ### Solution to Problem 1
 
-By Steps for Solving Word Problems by Setting Up Equations, let $x\ \text{kg}$ of flour be used for large mooncakes.
+By Coordinates of a Point, plot the points. Observing, the x-coordinate of each point equals its y-coordinate: $-4=-4$, $-2=-2$, $3=3$, $5=5$, $-3=-3$, $0=0$.
 
-Use $\left(4500-x\right)\ \text{kg}$ for small mooncakes. The number of large mooncakes $\frac{x}{0.05}$, and small mooncakes $\frac{4500-x}{0.02}$. Each box has $2$ large and $4$ small:
-
-$$\frac{x}{0.05}\div2=\frac{4500-x}{0.02}\div4.$$
-
-i.e. $\frac{x}{0.1}=\frac{4500-x}{0.08}$. Cross-multiplying: $0.08x=0.1\left(4500-x\right)$, $0.08x=450-0.1x$, $0.18x=450$, giving $x=2500$. Hence large mooncakes use $2500\ \text{kg}$ and small mooncakes use $2000\ \text{kg}$. $\blacksquare$
+Thus all these points lie on the line $y=x$. Similar points, such as $\left(1,1\right)$, $\left(2,2\right)$, $\left(-1,-1\right)$, $\left(4,4\right)$, etc., whose x-coordinate equals y-coordinate, all lie on this line. $\blacksquare$
 
 ## Problem 2
 
-(Problem 5.3, Review and Consolidation, Problem 2) A shop has two kinds of backpacks: each small backpack costs $10$ yuan less wholesale than each large backpack, yet their after-sale profit amounts are equal. The profit margin of each small backpack is $30\%$, and that of each large backpack is $20\%$. Find the wholesale prices of the two kinds of backpacks.
+(Exercise 9.1, Review and Consolidation, Problem 4) As shown in the figure, establish a rectangular coordinate system so that the coordinates of points $B$, $C$ are $\left(0,0\right)$ and $\left(4,0\right)$ respectively. Write down the coordinates of points $A$, $D$, $E$, $F$, $G$, and indicate the quadrant in which they lie.
+
+The figure shows a Cartesian coordinate plane with points $B\left(0,0\right)$, $C\left(4,0\right)$, $A\left(-2,2\right)$, $D\left(5,1\right)$, $E\left(4,2\right)$, $F\left(2,0\right)$, $G\left(1,4\right)$ plotted.
 
 ### Solution to Problem 2
 
-By Steps for Solving Word Problems by Setting Up Equations, let the wholesale price of a small backpack be $x$ yuan.
+With $B$ as the origin and the line on which $BC$ lies as the $x$-axis, $C\left(4,0\right)$. By Coordinates of a Point, read off the coordinates:
 
-The wholesale price of a large backpack is $\left(x+10\right)$ yuan. Small backpack profit $0.3x$, large backpack profit $0.2\left(x+10\right)$. Equal profit:
+$$
+A\left(-2,2\right),\ D\left(5,1\right),\ E\left(4,2\right),\ F\left(2,0\right),\ G\left(1,4\right).
+$$
 
-$$0.3x=0.2\left(x+10\right).$$
-
-Simplifying: $0.3x=0.2x+2$, $0.1x=2$, giving $x=20$. A small backpack costs $20$ yuan, and a large backpack costs $30$ yuan. $\blacksquare$
+Judge by Quadrants: $A\left(-2,2\right)$ has negative x and positive y, in the second quadrant; $D\left(5,1\right)$, $E\left(4,2\right)$, $G\left(1,4\right)$ have both x and y positive, in the first quadrant; $F\left(2,0\right)$ is on the $x$-axis, belonging to no quadrant; $B\left(0,0\right)$ is the origin, and $C\left(4,0\right)$ is on the $x$-axis. $\blacksquare$
 
 ## Problem 3
 
-(Problem 5.3, Review and Consolidation, Problem 3) A messenger must deliver a letter to a certain place within a prescribed time. Walking $15\ \text{km}$ per hour, he arrives $24\ \text{min}$ early; walking $12\ \text{km}$ per hour, he is $15\ \text{min}$ late. Find the prescribed time in hours and the distance in kilometers.
+(Exercise 9.1, Review and Consolidation, Problem 5) The figure is a schematic diagram of part of a Chinese chess board. Establish a rectangular coordinate system so that the piece "Shuai" is at point $\left(0,-4\right)$ and the piece "Ma" is at point $\left(3,-4\right)$; then the piece "Bing" is at point _______. If the "Ma" takes one more step, then the new position of the "Ma" is at point _______.
+
+The figure shows a partial Chinese chess board, with pieces "shuai", "ma", "bing", "xiang" marked.
 
 ### Solution to Problem 3
 
-By Steps for Solving Word Problems by Setting Up Equations, let the prescribed time be $t$ hours.
+By Coordinates of a Point, determine the coordinate system with Shuai $\left(0,-4\right)$ and Ma $\left(3,-4\right)$: they have the same y-coordinate and differ by $3$ in x-coordinate, so each small grid is $1$ unit, with the $x$-axis to the right and the $y$-axis upward.
 
-Arriving $24\ \text{min}=\frac{24}{60}=0.4\ \text{h}$ early, the actual time taken is $\left(t-0.4\right)$ hours; arriving $15\ \text{min}=0.25\ \text{h}$ late, the actual time taken is $\left(t+0.25\right)$ hours. The distance is unchanged:
+Reading off by the grids of the board, "Bing" is at $\left(-3,0\right)$ and "Xiang" is at $\left(3,0\right)$.
 
-$$15\left(t-0.4\right)=12\left(t+0.25\right).$$
+The "Ma" moves along the diagonal of an "L" shape; from $\left(3,-4\right)$ it can move along the board lines to $\left(1,-3\right)$ (it can also move to $\left(5,-3\right)$, $\left(2,-2\right)$, $\left(4,-2\right)$, etc.; any legal step within the board works). Take the new position of the "Ma" as $\left(1,-3\right)$.
 
-Remove parentheses: $15t-6=12t+3$. Transpose: $3t=9$, giving $t=3$. The distance $=15\left(3-0.4\right)=15\times2.6=39\ \text{km}$. Hence the prescribed time is $3$ hours and the distance is $39\ \text{km}$. $\blacksquare$
+Thus "Bing" is at $\left(-3,0\right)$, and after one more step the "Ma" can be at $\left(1,-3\right)$. $\blacksquare$
 
 ## Problem 4
 
-(Problem 5.3, Review and Consolidation, Problem 4) Students at a school repair the playground themselves. Working alone, grade-7 students take $7.5\ \text{h}$; working alone, grade-8 students take $5\ \text{h}$. If grade-7 and grade-8 students work together for $1\ \text{h}$, and then grade-8 students finish the rest alone, how long in total does it take?
+(Exercise 9.1, Review and Consolidation, Problem 6) In the rectangular coordinate system, plot each of the following groups of points, and connect the points within each group in order with segments.
+
+(1) $\left(0,4\right)$, $\left(-2,2\right)$, $\left(-1,2\right)$, $\left(-3,0\right)$, $\left(-1,0\right)$, $\left(-4,-2\right)$, $\left(-1,-2\right)$, $\left(-1,-4\right)$, $\left(1,-4\right)$, $\left(1,-2\right)$, $\left(4,-2\right)$, $\left(1,0\right)$, $\left(3,0\right)$, $\left(1,2\right)$, $\left(2,2\right)$, $\left(0,4\right)$;
+
+(2) $\left(-2,2\right)$, $\left(0,2\right)$, $\left(0,1\right)$, $\left(-1,0\right)$, $\left(-1,-2\right)$, $\left(0,-3\right)$, $\left(4,-3\right)$, $\left(3,-2\right)$, $\left(6,0\right)$, $\left(0,0\right)$, $\left(1,1\right)$, $\left(1,2.5\right)$, $\left(0,3\right)$, $\left(-2,2\right)$.
+
+Observe the resulting figures. What do they resemble? Find the areas of the resulting figures.
 
 ### Solution to Problem 4
 
-By Steps for Solving Word Problems by Setting Up Equations, let the total time be $t$ hours.
-
-Working together for $1\ \text{h}$, grade 7 and 8 complete: $\frac{1}{7.5}+\frac{1}{5}=\frac{2}{15}+\frac{3}{15}=\frac{1}{3}$. The remaining $1-\frac{1}{3}=\frac{2}{3}$ is finished by grade 8 alone, taking $\frac{2}{3}\div\frac{1}{5}=\frac{10}{3}$ hours. The total time $t=1+\frac{10}{3}=\frac{13}{3}\ \text{h}$. $\blacksquare$
+By Coordinates of a Point, plot the points and connect them. Plot and connect in order according to the given coordinates; a pattern drawn with coordinates is obtained (such as an animal and a vehicle). The area can be found by dividing the pattern into several triangles and rectangles, computing each separately, and adding them up. $\blacksquare$
 
 ## Problem 5
 
-(Problem 5.3, Review and Consolidation, Problem 5) Someone contracts a parts-processing task with a deadline. If he processes $13$ per day, then at the deadline $20$ parts remain unfinished; if he processes $16$ per day, then at the deadline he can process $16$ extra parts. Find the deadline in days and the total number of contracted parts.
+(Exercise 9.1, Review and Consolidation, Problem 7) Establish a rectangular coordinate system, plot points $A\left(-2,4\right)$, $B\left(3,4\right)$, and draw line $AB$. If point $C$ is any point on line $AB$, what is the y-coordinate of point $C$? Think about it:
+
+(1) If some points lie on a line parallel to the $x$-axis, what is characteristic of their y-coordinates?
+
+(2) If some points lie on a line parallel to the $y$-axis, what is characteristic of their x-coordinates?
+
+The figure shows a Cartesian coordinate plane with points $A\left(-2,4\right)$, $B\left(3,4\right)$ and the horizontal line $AB$ through them (parallel to the $x$-axis).
 
 ### Solution to Problem 5
 
-By Steps for Solving Word Problems by Setting Up Equations, let the deadline be $x$ days.
+Both $A\left(-2,4\right)$ and $B\left(3,4\right)$ have y-coordinate $4$, and all points on line $AB$ determined by the two points have y-coordinate $4$. Thus the y-coordinate of point $C$ is $4$.
 
-The total number of parts is unchanged: $13x+20=16x-16$. Transpose: $36=3x$, giving $x=12$. The total number of parts $=13\times12+20=176$. Hence the deadline is $12$ days and there are $176$ parts. $\blacksquare$
+(1) By Coordinates of a Point, all points on a line parallel to the $x$-axis are at the same distance from the $x$-axis, so their y-coordinates are all equal.
+
+(2) All points on a line parallel to the $y$-axis are at the same distance from the $y$-axis, so their x-coordinates are all equal. $\blacksquare$
 
 ## Problem 6
 
-(Problem 5.3, Comprehensive Application, Problem 6) The basic price of residential electricity is $0.40$ yuan per kWh. If the monthly usage exceeds $a$ kWh, then the excess is charged at $120\%$ of the basic price.
+(Exercise 9.1, Review and Consolidation, Problem 8) In the rectangular coordinate system, choose some points whose x- and y-coordinates satisfy the following conditions, mark their positions, and see in which quadrant or on which coordinate axis they lie:
 
-(1) A household uses $84$ kWh in May and pays $35.52$ yuan; find $a$;
+(1) The coordinates of point $P\left(x,y\right)$ satisfy $xy> 0$;
 
-(2) If the average electricity price for this household in June is $0.42$ yuan per kWh, how many kWh were used in June?
+(2) The coordinates of point $P\left(x,y\right)$ satisfy $xy< 0$;
+
+(3) The coordinates of point $P\left(x,y\right)$ satisfy $xy=0$.
 
 ### Solution to Problem 6
 
-By Steps for Solving Word Problems by Setting Up Equations.
+By the signs of the x- and y-coordinates in each quadrant in Quadrants.
 
-(1) The $84$ kWh exceeds $a$ kWh. Electricity cost: $0.40a+0.40\times1.2\left(84-a\right)=35.52$. Simplifying: $0.4a+0.48\left(84-a\right)=35.52$. Remove parentheses: $0.4a+40.32-0.48a=35.52$. Combine: $-0.08a=-4.8$, giving $a=60$.
+(1) $xy> 0$ means $x$, $y$ have the same sign: both positive is the first quadrant, both negative is the third quadrant. Thus these points lie in the first or third quadrant.
 
-(2) Let $x$ kWh be used in June. The average price is $0.42$ yuan per kWh, so the total cost is $0.42x$ yuan. By tiered pricing: $0.40\times60+0.48\left(x-60\right)=0.42x$. Simplifying: $24+0.48x-28.8=0.42x$. Combine: $0.06x=4.8$, giving $x=80$. Hence $80$ kWh were used in June. $\blacksquare$
+(2) $xy< 0$ means $x$, $y$ have opposite signs: $x$ positive and $y$ negative is the fourth quadrant, $x$ negative and $y$ positive is the second quadrant. Thus these points lie in the second or fourth quadrant.
+
+(3) $xy=0$ means $x=0$ or $y=0$: points with $x=0$ lie on the $y$-axis, and points with $y=0$ lie on the $x$-axis. Thus these points lie on the coordinate axes. $\blacksquare$
 
 ## Problem 7
 
-(Problem 5.3, Comprehensive Application, Problem 7) A dairy factory now has $9\ \text{t}$ of fresh milk. If sold directly on the market, each ton yields a profit of $500$ yuan; if made into yogurt, each ton yields $1200$ yuan; if made into milk tablets, each ton yields $2000$ yuan. The factory's capacity is: making yogurt, it can process $3\ \text{t}$ per day; making milk tablets, it can process $1\ \text{t}$ per day. Limited by personnel, the two processing methods cannot run simultaneously; limited by weather, this batch of milk must all be sold or processed within $4$ days. To this end, the factory has designed two feasible plans:
-
-Plan 1: make as much into milk tablets as possible, and sell the rest as fresh milk directly;
-
-Plan 2: make part into milk tablets and the rest into yogurt, finishing in exactly $4$ days.
-
-Which plan do you think yields the most profit, and why?
+(Exercise 9.1, Comprehensive Application, Problem 9) Given points $O\left(0,0\right)$, $B\left(1,2\right)$, point $A$ lies on a coordinate axis, and $S_{\triangle OAB}=2$. Find the coordinates of point $A$ satisfying the conditions.
 
 ### Solution to Problem 7
 
-By Steps for Solving Word Problems by Setting Up Equations, calculate the profit of both plans separately.
+Point $A$ lies on a coordinate axis; there are two cases.
 
-Plan 1: $4$ days of milk tablets make $4\ \text{t}$, and the remaining $5\ \text{t}$ are sold directly. Profit $=4\times2000+5\times500=8000+2500=10500$ yuan.
+If $A$ is on the $x$-axis, let $A\left(a,0\right)$. Taking $OA$ as the base, of length $\left|a\right|$, the height is the distance from point $B$ to the $x$-axis, namely the y-coordinate of $B$, which is $2$. By the triangle area formula,
 
-Plan 2: let milk tablets take $x$ days and yogurt take $\left(4-x\right)$ days. The amount of milk tablets is $x\ \text{t}$, and yogurt is $3\left(4-x\right)\ \text{t}$. Total $9\ \text{t}$: $x+3\left(4-x\right)=9$. Simplifying: $x+12-3x=9$, $-2x=-3$, giving $x=1.5$. Milk tablets $1.5\ \text{t}$, yogurt $7.5\ \text{t}$. Profit $=1.5\times2000+7.5\times1200=3000+9000=12000$ yuan.
+$$
+S_{\triangle OAB}=\frac{1}{2}\left|a\right|\cdot 2=\left|a\right|=2,
+$$
 
-Plan 2 profit $12000> 10500$, so Plan 2 yields the most profit. $\blacksquare$
+so $a=\pm 2$, i.e. $A\left(2,0\right)$ or $A\left(-2,0\right)$.
+
+If $A$ is on the $y$-axis, let $A\left(0,b\right)$. Taking $OA$ as the base, of length $\left|b\right|$, the height is the distance from point $B$ to the $y$-axis, namely the x-coordinate of $B$, which is $1$. Then
+
+$$
+S_{\triangle OAB}=\frac{1}{2}\left|b\right|\cdot 1=2,
+$$
+
+so $\left|b\right|=4$, $b=\pm 4$, i.e. $A\left(0,4\right)$ or $A\left(0,-4\right)$.
+
+In summary, the points $A$ satisfying the conditions are $\left(2,0\right)$, $\left(-2,0\right)$, $\left(0,4\right)$, $\left(0,-4\right)$. $\blacksquare$
 
 ## Problem 8
 
-(Problem 5.3, Comprehensive Application, Problem 8) A shop opens and, to attract customers, sells all goods at a 20% discount. Given that a certain pair of sneakers costs $60$ yuan wholesale and, after the 20% discount, the seller's profit margin is $40\%$. What is the marked price of these shoes? What is the discounted price?
+(Exercise 9.1, Extension and Exploration, Problem 10) Design a figure that can be drawn using the coordinates of its vertices, tell these coordinates to your classmate, and see whether he can draw the figure you designed.
+
+The figure shows a shape (such as a "house") drawn by its vertex coordinates.
 
 ### Solution to Problem 8
 
-By Steps for Solving Word Problems by Setting Up Equations, let the marked price be $x$ yuan.
+By One-to-One Correspondence Between Points and Coordinates, choose several key points of the figure, write down the coordinates of each point, and then specify the connecting order. For example, design a "house" figure whose vertex coordinates in order are $A\left(-2,0\right)$, $B\left(2,0\right)$, $C\left(2,2\right)$, $D\left(0,4\right)$, $E\left(-2,2\right)$, connected in the order $A\to B\to C\to D\to E\to A$. The classmate plots the points and connects them according to the coordinates to draw the figure. $\blacksquare$
 
-The discounted selling price is $0.8x$. Profit $=0.8x-60$, profit margin $40\%$: $\frac{0.8x-60}{60}=40\%$. i.e. $0.8x-60=24$, $0.8x=84$, giving $x=105$. Marked price $105$ yuan, discounted price $0.8\times105=84$ yuan. $\blacksquare$
+## Exercise 1
+
+(Exercise 9.2, Problem 1) As shown in the figure, if the coordinates of points $B$, $C$ are $B\left(-1,-2\right)$ and $C\left(1,-1\right)$ respectively, write down the coordinates of points $A$, $D$, $E$, $F$, $G$. Also, establish another rectangular coordinate system in the figure and write down the coordinates of the points.
+
+### Solution to Exercise 1
+
+Determine the coordinate system from $B\left(-1,-2\right)$, $C\left(1,-1\right)$: the two points differ by $2$ horizontally and $1$ vertically, so each small grid is $1$ unit. According to the positions of the points relative to $B$, $C$, read off the coordinates (x-coordinate, y-coordinate) of $A$, $D$, $E$, $F$, $G$.
+
+If another origin is chosen to rebuild the system, the coordinates of all points are translated as a whole by a fixed vector; just write down the new coordinates. $\blacksquare$
+
+## Exercise 2
+
+(Exercise 9.2, Problem 2) Li Ming's home is $1000\,m$ east of the school and then $1500\,m$ north; Zhang Hua's home is $2000\,m$ west of the school and then $500\,m$ south; Wang Fang's home is $1500\,m$ south of the school. Establish an appropriate rectangular coordinate system, draw the positions of the school and these three students' homes, and represent them with coordinates.
+
+The figure shows a location map with the school as reference point, marking the relative positions of the school, Li Ming's home, Zhang Hua's home, and Wang Fang's home.
+
+### Solution to Exercise 2
+
+By Representing Geographic Locations with Coordinates, take the school as the origin, east as the positive $x$-axis direction, north as the positive $y$-axis direction, and one unit of length representing $500\,m$.
+
+School $\left(0,0\right)$. Li Ming's home is $1000$ east i.e. $x=2$, $1500$ north i.e. $y=3$, so Li Ming's home $\left(1000,1500\right)$. Zhang Hua's home is $2000$ west i.e. $x=-2000$, $500$ south i.e. $y=-500$, so Zhang Hua's home $\left(-2000,-500\right)$. Wang Fang's home is $1500$ south, so Wang Fang's home $\left(0,-1500\right)$.
+
+Plot the positions of the school and the three homes in the coordinate system. $\blacksquare$
+
+## Exercise 3
+
+(Exercise 9.2, Problem 3) The figure is a schematic diagram of the positions of three warships. Use direction and distance to describe the positions of the two warships at $A$, $B$ relative to the warship at $C$.
+
+### Solution to Exercise 3
+
+By Representing Geographic Locations with Coordinates, describe using a direction angle and a distance. Taking the warship at $C$ as the observation point, measure from the angles and scale in the figure the direction angles (such as north by east, or south by west by so many degrees) and actual distances of $A$, $B$ relative to $C$; this describes the positions of the warships at $A$, $B$ relative to the warship at $C$. $\blacksquare$
+
+## Exercise 4
+
+(Exercise 9.2, Problem 1) As shown in the figure, translate the triangle to the right by $2$ units of length, then up by $3$ units of length. Then the coordinates of the three vertices after translation are respectively (　　).
+
+(1) $\left(2,2\right)$, $\left(3,4\right)$, $\left(1,7\right)$　(2) $\left(-2,2\right)$, $\left(4,3\right)$, $\left(1,7\right)$　(3) $\left(-2,2\right)$, $\left(3,4\right)$, $\left(1,7\right)$　(4) $\left(2,-2\right)$, $\left(3,3\right)$, $\left(1,7\right)$
+
+### Solution to Exercise 4
+
+By Representing Translation with Coordinates, translating right by $2$ units adds $2$ to every x-coordinate, and translating up by $3$ units adds $3$ to every y-coordinate.
+
+The coordinates of the three vertices of the original triangle are $\left(-4,-1\right)$, $\left(1,1\right)$, $\left(-1,4\right)$. After translation: $\left(-4+2,-1+3\right)=\left(-2,2\right)$, $\left(1+2,1+3\right)=\left(3,4\right)$, $\left(-1+2,4+3\right)=\left(1,7\right)$. That is, $\left(-2,2\right)$, $\left(3,4\right)$, $\left(1,7\right)$. Choose (3). $\blacksquare$
+
+## Exercise 5
+
+(Exercise 9.2, Problem 2) As shown in the figure, through what kind of translation can figure Ⅱ be obtained from figure Ⅰ? What changes in the coordinates of the corresponding points?
+
+### Solution to Exercise 5
+
+By Representing Translation with Coordinates, take a known point on figure Ⅰ and its corresponding point on figure Ⅱ, and compare the coordinates. The change in x-coordinate determines the left-right translation, and the change in y-coordinate determines the up-down translation. An increase in x-coordinate means moving right, a decrease means moving left; an increase in y-coordinate means moving up, a decrease means moving down. The coordinate changes of the corresponding points are exactly the same. $\blacksquare$
+
+## Exercise 6
+
+(Exercise 9.2, Problem 3) In the rectangular coordinate system, given points $A\left(0,-2\right)$, $B\left(3,0\right)$. First translate segment $AB$ to the left by $2$ units of length and up by $3$ units of length to obtain segment $CD$; then translate segment $CD$ to the left by $3$ units of length and down by $2$ units of length to obtain segment $EF$. Write down the coordinates of points $C$, $D$, $E$, $F$.
+
+### Solution to Exercise 6
+
+By Representing Translation with Coordinates.
+
+Segment $AB$ shifted left by $2$ (x-coordinate minus $2$) and up by $3$ (y-coordinate plus $3$) gives $CD$: $C=A$ translated $=\left(0-2,-2+3\right)=\left(-2,1\right)$, $D=B$ translated $=\left(3-2,0+3\right)=\left(1,3\right)$.
+
+Segment $CD$ shifted left by $3$ (x-coordinate minus $3$) and down by $2$ (y-coordinate minus $2$) gives $EF$: $E=C$ translated $=\left(-2-3,1-2\right)=\left(-5,-1\right)$, $F=D$ translated $=\left(1-3,3-2\right)=\left(-2,1\right)$.
+
+That is, $C\left(-2,1\right)$, $D\left(1,3\right)$, $E\left(-5,-1\right)$, $F\left(-2,1\right)$. $\blacksquare$
+
+## Exercise 7
+
+(Exercise 9.2, Problem 1) As shown in the figure, after translating quadrilateral $ABCD$, the coordinates of vertex $C\left(2,3\right)$ become $\left(2,0\right)$. At this time, what do the coordinates of points $A\left(2,7\right)$, $B\left(1,5\right)$, $D\left(3,5\right)$ respectively become?
+
+### Solution to Exercise 7
+
+From $C\left(2,3\right)\to\left(2,0\right)$, the x-coordinate is unchanged and the y-coordinate changes from $3$ to $0$, i.e. the y-coordinate is subtracted by $3$; this is a translation down by $3$ units of length.
+
+By Representing Translation with Coordinates, the y-coordinate of all points is subtracted by $3$: $A\left(2,7\right)\to\left(2,4\right)$, $B\left(1,5\right)\to\left(1,2\right)$, $D\left(3,5\right)\to\left(3,2\right)$.
+
+That is, $A$ becomes $\left(2,4\right)$, $B$ becomes $\left(1,2\right)$, $D$ becomes $\left(3,2\right)$. $\blacksquare$
+
+## Exercise 8
+
+(Exercise 9.2, Problem 2) As shown in the figure, the four vertices of parallelogram $AOCB$ have coordinates $A\left(2,2\right)$, $O\left(0,0\right)$, $C\left(4,0\right)$, $B\left(6,2\right)$. Subtract $3$ from the x-coordinate of each of these four vertices and simultaneously add $1$ to the y-coordinate, obtaining points $A'$, $O'$, $C'$, $B'$ respectively. What is the relationship between quadrilateral $A'O'C'B'$ and parallelogram $AOCB$?
+
+### Solution to Exercise 8
+
+By Representing Translation with Coordinates, subtracting $3$ from every x-coordinate is equivalent to translating the figure left by $3$ units of length, and adding $1$ to every y-coordinate is equivalent to translating it up by $1$ unit of length.
+
+Compute the corresponding points: $A'\left(2-3,2+1\right)=\left(-1,3\right)$, $O'\left(0-3,0+1\right)=\left(-3,1\right)$, $C'\left(4-3,0+1\right)=\left(1,1\right)$, $B'\left(6-3,2+1\right)=\left(3,3\right)$.
+
+Quadrilateral $A'O'C'B'$ has exactly the same size and shape as parallelogram $AOCB$, and can be regarded as obtained by translating $AOCB$ left by $3$ units of length and then up by $1$ unit of length. $\blacksquare$
+
+## Exercise 9
+
+(Exercise 9.2, Problem 3) The three vertices of triangle $ABC$ have coordinates $A\left(-3,2\right)$, $B\left(1,1\right)$, $C\left(-1,-2\right)$. If triangle $ABC$ is translated so that point $A$ moves to point $\left(1,-2\right)$, write down one way of translating triangle $ABC$ along the coordinate-axis directions, and the coordinates of the corresponding points of $B$ and $C$.
+
+### Solution to Exercise 9
+
+From $A\left(-3,2\right)\to\left(1,-2\right)$, the x-coordinate changes by $1-\left(-3\right)=4$ (add $4$), and the y-coordinate changes by $-2-2=-4$ (subtract $4$). Thus the triangle is first translated right by $4$ units of length, then down by $4$ units of length.
+
+By Representing Translation with Coordinates, add $4$ to the x-coordinate and subtract $4$ from the y-coordinate of all points: $B\left(1,1\right)\to\left(5,-3\right)$, $C\left(-1,-2\right)\to\left(3,-6\right)$.
+
+That is, the corresponding point of $B$ is $\left(5,-3\right)$, and the corresponding point of $C$ is $\left(3,-6\right)$. $\blacksquare$
 
 ## Problem 9
 
-(Problem 5.3, Comprehensive Application, Problem 9) A project takes A $15$ days working alone, and B $12$ days working alone. First A and B work together for $3$ days, then A has another task and B finishes the rest alone. How many more days does B need to complete the whole project?
+(Exercise 9.2, Review and Consolidation, Problem 1) As shown in the figure, a robotic arm must move a workpiece from point $A$ to point $B$ in the figure, but the workpiece must not touch the obstacle in the figure. Use coordinates to write a route that the robotic arm might take during movement.
 
 ### Solution to Problem 9
 
-By Steps for Solving Word Problems by Setting Up Equations, let B need $x$ more days.
-
-Working together for $3$ days they complete: $3\left(\frac{1}{15}+\frac{1}{12}\right)=3\times\frac{9}{60}=\frac{9}{20}$. The remaining $1-\frac{9}{20}=\frac{11}{20}$. B finishes alone: $\frac{x}{12}=\frac{11}{20}$. Giving $x=\frac{11}{20}\times12=\frac{33}{5}=6.6$ days. $\blacksquare$
+By Representing Translation with Coordinates and Coordinates of a Point, the robotic arm can only move along the coordinate-axis directions (grid lines). Starting from $A$, first move along the $x$-axis direction to some safe vertical line on one side of the obstacle, then along the $y$-axis direction to the same horizontal line as $B$, and finally along the $x$-axis direction to reach $B$. Write down the coordinates of each turning point on this polyline, ensuring it does not pass through the grids occupied by the obstacle. $\blacksquare$
 
 ## Problem 10
 
-(Problem 5.3, Extension and Exploration, Problem 10) A city charges the monthly gas fee as follows: if gas usage does not exceed $60\ \text{m}^{3}$, it is charged at $0.8$ yuan per cubic meter; if it exceeds $60\ \text{m}^{3}$, the excess is charged at $1.2$ yuan per cubic meter. Given that a user's average gas price in April is $0.88$ yuan per cubic meter, how much gas fee should this user pay in April?
+(Exercise 9.2, Review and Consolidation, Problem 2) The figure is a schematic diagram of a school. Establish an appropriate rectangular coordinate system and use coordinates to represent the positions of the teaching building, library, school gate, laboratory building, and flagpole.
 
 ### Solution to Problem 10
 
-By Steps for Solving Word Problems by Setting Up Equations, let the April gas usage be $x\ \text{m}^{3}$.
-
-The average price is $0.88$ yuan per cubic meter, so the total cost is $0.88x$ yuan. Since the average price $0.88> 0.8$, we have $x> 60$. Tiered billing: $0.8\times60+1.2\left(x-60\right)=0.88x$. Simplifying: $48+1.2x-72=0.88x$. Combine: $0.32x=24$, giving $x=75$. Total cost $=0.88\times75=66$ yuan. $\blacksquare$
+By Representing Geographic Locations with Coordinates, choose the school gate (or flagpole) as the origin, east as the positive $x$-axis direction, north as the positive $y$-axis direction, and determine the unit length according to the scale. Measure the horizontal and vertical distances of each building relative to the origin, and write down the coordinates of the teaching building, library, school gate, laboratory building, and flagpole. $\blacksquare$
 
 ## Problem 11
 
-(Problem 5.3, Extension and Exploration, Problem 11) A company makes a product with a cost of $400$ yuan per piece and a selling price of $510$ yuan. This quarter it sold $m$ pieces. To further expand the market, the company decides to lower the cost while lowering the selling price. After market research, it predicts that next quarter the selling price per piece will drop $4\%$ and sales volume will rise $10\%$. To keep the sales profit unchanged, by how many yuan should the cost per piece be reduced?
+(Exercise 9.2, Review and Consolidation, Problem 3) As shown in the figure, in an activity, Class $1$ at point $A$ is preparing to go to point $B$, $5\,km$ away, to meet Class $2$ at point $B$. How to describe the position of Class $2$ relative to Class $1$ using direction and distance? Conversely, how to describe the position of Class $1$ relative to Class $2$ using direction and distance?
 
 ### Solution to Problem 11
 
-By Steps for Solving Word Problems by Setting Up Equations, let the cost be reduced by $x$ yuan per piece.
+By Representing Geographic Locations with Coordinates, describe using a direction angle and a distance. Taking Class $1$ at $A$ as the observation point, the angles in the figure show that $B$ is in the direction north by east $40^\circ$ (or the corresponding direction) of $A$, $5\,km$ away; thus the position of Class $2$ relative to Class $1$ is north by east $40^\circ$, $5\,km$.
 
-This quarter's profit: $\left(510-400\right)m=110m$. Next quarter's selling price: $510\times\left(1-4\%\right)=510\times0.96=489.6$ yuan. Sales volume: $m\left(1+10\%\right)=1.1m$. Next quarter's cost: $\left(400-x\right)$ yuan. Profit unchanged:
-
-$$\left(489.6-400+x\right)\times1.1m=110m.$$
-
-Simplifying: $\left(89.6+x\right)\times1.1=110$. $98.56+1.1x=110$. $1.1x=11.44$. Giving $x=10.4$. Hence the cost per piece should be reduced by $10.4$ yuan. $\blacksquare$
+Conversely, the direction is reversed and the distance is unchanged: the position of Class $1$ relative to Class $2$ is south by west $40^\circ$, $5\,km$. $\blacksquare$
 
 ## Problem 12
 
-(Problem 5.3, Extension and Exploration, Problem 12) A boat travels downstream from dock A to dock B, then returns upstream, reaching dock C which lies between A and B; the total navigation is $7\ \text{h}$. Given that the boat's speed in still water is $7.5\ \text{km/h}$, the current speed is $2.5\ \text{km/h}$, and the voyage between docks A and C is $10\ \text{km}$, find the voyage between docks A and B.
+(Exercise 9.2, Review and Consolidation, Problem 4) As shown in the figure, in a flying display, $6$ planes $A$, $B$, $C$, $D$, $E$, $F$ fly in formation while keeping the formation unchanged. Write down their coordinates respectively. When plane $A$ flies to position $A'$, where do planes $B$, $C$, $D$, $E$, $F$ fly to? Use coordinates to represent the new positions of these $6$ planes.
+
+The figure shows a Cartesian coordinate plane with six planes at positions $A\left(1,1\right)$, $B\left(-3,1\right)$, $C\left(-1,-1\right)$, $D\left(-5,1\right)$, $E\left(-2,-2\right)$, $F\left(1,-3\right)$.
 
 ### Solution to Problem 12
 
-By Steps for Solving Word Problems by Setting Up Equations, let the A-to-B voyage be $x\ \text{km}$.
+By Coordinates of a Point, read off the initial coordinates of the planes:
 
-The downstream speed $=7.5+2.5=10\ \text{km/h}$, and the upstream speed $=7.5-2.5=5\ \text{km/h}$. The B-to-C voyage is $\left(x-10\right)\ \text{km}$. Total time:
+$$
+A\left(1,1\right),\ B\left(-3,1\right),\ C\left(-1,-1\right),\ D\left(-5,1\right),\ E\left(-2,-2\right),\ F\left(1,-3\right).
+$$
 
-$$\frac{x}{10}+\frac{x-10}{5}=7.$$
+$A$ flies to $A'\left(4,3\right)$; the translation vector is $\left(4-1,\,3-1\right)=\left(3,2\right)$, i.e. the whole formation is translated right by $3$ units and up by $2$ units.
 
-Multiply both sides by $10$: $x+2\left(x-10\right)=70$. Remove parentheses: $x+2x-20=70$. Combine: $3x=90$, giving $x=30$. Hence the voyage between docks A and B is $30\ \text{km}$. $\blacksquare$
+By Representing Translation with Coordinates, add $3$ to the x-coordinate and $2$ to the y-coordinate of each plane:
+
+$$
+A'\left(4,3\right),\ B'\left(0,3\right),\ C'\left(2,1\right),\ D'\left(-2,3\right),\ E'\left(1,0\right),\ F'\left(4,-1\right).
+$$
+
+$\blacksquare$
 
 ## Problem 13
 
-(Problem 5.3, Extension and Exploration, Problem 13) A factory now has $360\ \text{kg}$ of type-A raw material and $290\ \text{kg}$ of type-B raw material, and plans to use them to make a total of $50$ pieces of products A and B. Making one piece of product A requires $9\ \text{kg}$ of type-A material and $3\ \text{kg}$ of type-B material; making one piece of product B requires $4\ \text{kg}$ of type-A material and $10\ \text{kg}$ of type-B material. Arranging the production quantities of A and B as required, how many plans are there?
+(Exercise 9.2, Review and Consolidation, Problem 5) As shown in the figure, translate parallelogram $ABCD$ to the left by $2$ units of length, then up by $3$ units of length, to obtain parallelogram $A'B'C'D'$. Draw the translated figure and indicate the coordinates of each vertex.
+
+The figure shows parallelogram $ABCD$ in a Cartesian coordinate plane, with vertices $A\left(-2,-2\right)$, $B\left(2,-2\right)$, $C\left(3,2\right)$, $D\left(-1,2\right)$.
 
 ### Solution to Problem 13
 
-By Steps for Solving Word Problems by Setting Up Equations, let product A be $x$ pieces and product B be $\left(50-x\right)$ pieces.
+By Coordinates of a Point, read off the coordinates of the vertices of parallelogram $ABCD$: $A\left(-2,-2\right)$, $B\left(2,-2\right)$, $C\left(3,2\right)$, $D\left(-1,2\right)$.
 
-Type-A material: $9x+4\left(50-x\right)\le360$. Simplifying: $5x+200\le360$, $5x\le160$, $x\le32$.
+By Representing Translation with Coordinates, translating left by $2$ units subtracts $2$ from every x-coordinate, and translating up by $3$ units adds $3$ to every y-coordinate:
 
-Type-B material: $3x+10\left(50-x\right)\le290$. Simplifying: $-7x+500\le290$, $-7x\le-210$, $x\ge30$.
+$$
+A'\left(-4,1\right),\ B'\left(0,1\right),\ C'\left(1,5\right),\ D'\left(-3,5\right).
+$$
 
-Hence $30\le x\le32$, $x$ an integer, $x=30,31,32$. There are three plans: A 30 pieces and B 20 pieces; A 31 pieces and B 19 pieces; A 32 pieces and B 18 pieces. $\blacksquare$
+Connecting them in order gives the translated parallelogram $A'B'C'D'$. $\blacksquare$
 
 ## Problem 14
 
-(Problem 5.3, Extension and Exploration, Problem 14) A company has $9$ production workshops; each workshop now has the same number of finished products originally, and each workshop produces the same number of finished products per day. There are two groups of inspectors, A and B; group A has $8$ inspectors. They first spend $2$ days inspecting all finished products (both original and later-produced) in the first and second workshops, then spend another $3$ days inspecting all finished products in the third and fourth workshops; meanwhile, over these $5$ days, group B's inspectors also finish inspecting all finished products in the remaining $5$ workshops. If every inspector works at the same speed, each workshop originally has $a$ pieces of finished product, and each workshop produces $b$ pieces per day, find the number of inspectors in group B.
+(Exercise 9.2, Comprehensive Application, Problem 6) As shown in the figure, a rectangular coordinate system is established to label a leaf specimen. If the coordinates of point $A$ representing the "base" of the petiole are $\left(-1,-2\right)$ and the coordinates of point $B$ representing the "tip" of the leaf blade are $\left(2,6\right)$, write down the coordinates of points $C$, $D$, $E$, $F$ in the figure.
 
 ### Solution to Problem 14
 
-By Steps for Solving Word Problems by Setting Up Equations, let group B have $n$ inspectors.
-
-Group A's first $2$ days inspect $2$ workshops: each workshop originally has $a$ pieces and produces $2b$ in $2$ days. The two workshops have $2\left(a+2b\right)$ pieces in total; $8$ inspectors finish in $2$ days, so each inspector per day inspects $\frac{2\left(a+2b\right)}{8\times2}=\frac{a+2b}{8}$ pieces.
-
-Group A's next $3$ days inspect $2$ workshops: each workshop produces $5b$ in $5$ days and originally has $a$ pieces. The two workshops have $2\left(a+5b\right)$ pieces in total; $8$ inspectors finish in $3$ days, so each inspector per day inspects $\frac{2\left(a+5b\right)}{8\times3}=\frac{a+5b}{12}$ pieces.
-
-Each person's speed is the same: $\frac{a+2b}{8}=\frac{a+5b}{12}$. Cross-multiplying: $12\left(a+2b\right)=8\left(a+5b\right)$. $12a+24b=8a+40b$. $4a=16b$, giving $a=4b$.
-
-Each inspector per day inspects: $\frac{a+2b}{8}=\frac{4b+2b}{8}=\frac{6b}{8}=\frac{3b}{4}$ pieces.
-
-Group B inspects $5$ workshops over $5$ days: each workshop produces $5b$ in $5$ days and originally has $a=4b$, so each workshop has $9b$ pieces. The $5$ workshops have $45b$ pieces in total. $n$ inspectors finish in $5$ days:
-
-$$n\times5\times\frac{3b}{4}=45b.$$
-
-Simplifying: $\frac{15nb}{4}=45b$. $n=12$. Hence group B has $12$ inspectors. $\blacksquare$
-
-## Reading and Thinking 1
-
-(Reading and Thinking: A First Look at Mathematical Models) What is a mathematical model? What kind of mathematical model does solving word problems by setting up equations belong to?
-
-### Solution to Reading and Thinking 1
-
-By Steps for Solving Word Problems by Setting Up Equations, a mathematical model is the mathematical structure obtained by abstracting and generalizing a real problem in mathematical language. Solving word problems by setting up equations expresses the equal-quantity relations in a real problem as a linear equation in one variable, which belongs to the equation model. $\blacksquare$
+Determine the coordinate system from $A\left(-1,-2\right)$, $B\left(2,6\right)$: the x-coordinate difference is $2-\left(-1\right)=3$, the y-coordinate difference is $6-\left(-2\right)=8$, and the unit length is determined by the number of square grids. By Coordinates of a Point, read off the coordinates of $C$, $D$, $E$, $F$ according to the grids of each point relative to $A$, $B$. $\blacksquare$

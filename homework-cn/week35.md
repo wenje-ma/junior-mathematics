@@ -1,251 +1,593 @@
 # week35
 
-## 复习题一
+> **基本结论** (最短距离) 
+> 
+> 两点之间, 线段最短; 连接直线外一点与直线上各点的所有线段中, 垂线段最短.
 
-(复习题 复习巩固第 1 题) 如图, 直线 $AB\perp CD$, 垂足为 $O$, 直线 $EF$ 经过点 $O$, $\angle 1=26^\circ$, 求 $\angle 2$, $\angle 3$, $\angle BOE$ 的度数.
+## 探究一
 
-图中为直线 $AB\perp CD$, 垂足为 $O$, 另有直线 $EF$ 经过点 $O$; 在 $\angle AOD$ 内标出 $\angle 1$(位于 $OE$ 与 $OD$ 之间)与 $\angle 2$(位于 $OA$ 与 $OE$ 之间), 并标出 $\angle 1$ 的对顶角 $\angle 3$.
+(综合与实践 活动二 任务 1 饮马问题的拓展) 牧民从 $A$ 地出发, 先到草地边某一处牧马, 再到河边饮马, 最后回到 $A$ 处. 怎样走使路径最短?
 
-### 解答 复习题一
+### 解答 探究一
 
-由垂直, $AB\perp CD$, 故 $\angle AOD=90^\circ$.
+设草地边为直线 $m$, 河边为直线 $n$. 分别作点 $A$ 关于直线 $m$ 的对称点 $A_1$ 和关于直线 $n$ 的对称点 $A_2$, 连接 $A_1A_2$, 与 $m$, $n$ 的交点依次为牧马点 $P$ 和饮马点 $Q$, 则折线 $A\to P\to Q\to A$ 最短. 由轴对称, $AP=A_1P$, $QA=QA_2$, 路径长等于线段 $A_1A_2$, 由两点之间线段最短取最小. $\blacksquare$
 
-$\angle 1$ 与 $\angle 2$ 在直角 $\angle AOD$ 内, $\angle AOD=\angle 1+\angle 2$, 故 $\angle 2=90^\circ-\angle 1=90^\circ-26^\circ=64^\circ$.
+## 探究二
 
-$\angle 3$ 与 $\angle 1$ 是对顶角, 由对顶角相等, $\angle 3=\angle 1=26^\circ$.
+(综合与实践 活动三 任务 1 造桥选址问题) $A$, $B$ 两地在一条河的两岸, 河两岸为平行直线, 桥 $MN$ 必须与河岸垂直. 桥造在何处可使从 $A$ 到 $B$ 的路径 $AMNB$ 最短?
 
-$\angle BOE$ 与 $\angle 1$ 有公共边 $OE$, 另一边 $OB$ 与 $OA$ 互为反向延长线, 它们组成平角, 故 $\angle BOE=180^\circ-\angle 1=180^\circ-26^\circ=154^\circ$.
+### 解答 探究二
 
-故 $\angle 2=64^\circ$, $\angle 3=26^\circ$, $\angle BOE=154^\circ$. $\blacksquare$
+把点 $A$ 沿垂直于河岸的方向, 向河的方向平移一个河宽的距离, 得到点 $A'$. 连接 $A'B$, 与靠近 $B$ 一侧的河岸交于点 $N$, 过 $N$ 作河岸的垂线交另一河岸于点 $M$, 则 $MN$ 即为所造桥的位置.
 
-## 复习题二
+此时 $AM$ 经平移等于 $A'N$, 路径 $AMNB=A'N+NB+MN$, 其中 $MN$ 为定长 (河宽), 而 $A'N+NB\ge A'B$, 当 $N$ 落在 $A'B$ 上时取最小, 故路径最短. $\blacksquare$
 
-(复习题 复习巩固第 2 题) 如图是一根弯形管道的平面示意图, 其中的拐角 $\angle ABC=120^\circ$, $\angle BCD=60^\circ$, 这时说管道 $AB$ 与 $DC$ 平行对吗? 为什么?
+## 练习一
 
-### 解答 复习题二
+(练习 16.1 第 1 题) 下面的计算是否正确? 如果不正确, 应当怎样改正?
 
-这种说法是对的, $AB\parallel DC$.
+(1) $a^3\cdot a^2=a^6$;
 
-$\angle ABC$ 与 $\angle BCD$ 是直线 $AB$, $DC$ 被直线 $BC$ 所截得的同旁内角, 其和为
+(2) $a\cdot a^3=a^{0+3}=a^3$;
+
+(3) $m^3\cdot m^3=2m^3$;
+
+(4) $x^{2m}\cdot x^{4n-2}=x^{2m+4n-2}$.
+
+### 解答 练习一
+
+由同底数幂的乘法, 同底数幂相乘应底数不变, 指数相加.
+
+(1) 不正确. $a^3\cdot a^2=a^{3+2}=a^5$, 误把指数相乘当作了指数相加以外的运算.
+
+(2) 不正确. $a=a^1$, 故 $a\cdot a^3=a^{1+3}=a^4$, 误把 $a$ 的指数当作 $0$.
+
+(3) 不正确. $m^3\cdot m^3=m^{3+3}=m^6$, 误把同底数幂相乘与系数相加混淆.
+
+(4) 正确, $x^{2m}\cdot x^{4n-2}=x^{2m+4n-2}$. $\blacksquare$
+
+## 练习二
+
+(练习 16.1 第 2 题) 计算:
+
+(1) $a^2\cdot a^6$;
+
+(2) $b^5\cdot b$;
+
+(3) $y^{2n}\cdot y^{n+1}$;
+
+(4) $\left(-12\right)\times\left(-12\right)^2\times\left(-12\right)^3$.
+
+### 解答 练习二
+
+由同底数幂的乘法, 底数不变, 指数相加.
+
+(1) $a^2\cdot a^6=a^{2+6}=a^8$.
+
+(2) $b^5\cdot b=b^{5+1}=b^6$.
+
+(3) $y^{2n}\cdot y^{n+1}=y^{2n+n+1}=y^{3n+1}$.
+
+(4) 三个同底数幂相乘仍适用该性质, $\left(-12\right)\times\left(-12\right)^2\times\left(-12\right)^3=\left(-12\right)^{1+2+3}=\left(-12\right)^6=12^6$. $\blacksquare$
+
+## 练习三
+
+(练习 16.1 第 1 题) 下面的计算是否正确? 如果不正确, 应当怎样改正?
+
+(1) $\left(a^5\right)^2=a^7$;
+
+(2) $\left(ab^2\right)^3=ab^6$;
+
+(3) $\left(-2a\right)^2=-4a^2$.
+
+### 解答 练习三
+
+由幂的乘方 与积的乘方 判断.
+
+(1) 不正确. $\left(a^5\right)^2=a^{5\times2}=a^{10}$, 幂的乘方应指数相乘.
+
+(2) 不正确. 由基础知识, $\left(ab^2\right)^3=a^3\left(b^2\right)^3=a^3 b^6$, 漏乘了因式 $a$ 的乘方.
+
+(3) 不正确. $\left(-2a\right)^2=\left(-2\right)^2 a^2=4a^2$, 系数 $-2$ 也要平方. $\blacksquare$
+
+## 练习四
+
+(练习 16.1 第 2 题) 计算:
+
+(1) $\left(10^3\right)^3$;
+
+(2) $\left(x^3\right)^2$;
+
+(3) $-\left(x^m\right)^5$;
+
+(4) $\left(a^2\right)^3\cdot a^5$.
+
+### 解答 练习四
+
+由幂的乘方 与同底数幂的乘法.
+
+(1) $\left(10^3\right)^3=10^{3\times3}=10^9$.
+
+(2) $\left(x^3\right)^2=x^{3\times2}=x^6$.
+
+(3) $-\left(x^m\right)^5=-x^{5m}$.
+
+(4) $\left(a^2\right)^3\cdot a^5=a^6\cdot a^5=a^{6+5}=a^{11}$. $\blacksquare$
+
+## 练习五
+
+(练习 16.1 第 3 题) 计算:
+
+(1) $\left(ab\right)^4$;
+
+(2) $\left(-3\times10^2\right)^3$;
+
+(3) $\left(-\frac12 xy^2\right)^3$;
+
+(4) $\left(2ab^2\right)^3\cdot 2ab^2$.
+
+### 解答 练习五
+
+由积的乘方 与同底数幂的乘法.
+
+(1) $\left(ab\right)^4=a^4 b^4$.
+
+(2) $\left(-3\times10^2\right)^3=\left(-3\right)^3\times\left(10^2\right)^3=-27\times10^6=-2.7\times10^7$.
+
+(3) $\left(-\frac12 xy^2\right)^3=\left(-\frac12\right)^3 x^3 \left(y^2\right)^3=-\frac18 x^3 y^6$.
+
+(4) $\left(2ab^2\right)^3\cdot 2ab^2=8a^3 b^6\cdot 2ab^2=16a^4 b^8$. $\blacksquare$
+
+## 习题一
+
+(习题 16.1 复习巩固第 1 题) 计算:
+
+(1) $b^3\cdot b$;
+
+(2) $a^5\cdot a^2$;
+
+(3) $\left(-x\right)\cdot\left(-x\right)^2\cdot\left(-x\right)^3$;
+
+(4) $x^m\cdot x^{2m-1}$.
+
+### 解答 习题一
+
+由同底数幂的乘法.
+
+(1) $b^3\cdot b=b^4$.
+
+(2) $a^5\cdot a^2=a^7$.
+
+(3) $\left(-x\right)\cdot\left(-x\right)^2\cdot\left(-x\right)^3=\left(-x\right)^{1+2+3}=\left(-x\right)^6=x^6$.
+
+(4) $x^m\cdot x^{2m-1}=x^{m+2m-1}=x^{3m-1}$. $\blacksquare$
+
+## 习题二
+
+(习题 16.1 复习巩固第 2 题) 计算:
+
+(1) $\left(10^2\right)^8$;
+
+(2) $\left(x^m\right)^2$;
+
+(3) $\left[\left(-a\right)^3\right]^5$;
+
+(4) $-\left(x^2\right)^m$.
+
+### 解答 习题二
+
+由幂的乘方.
+
+(1) $\left(10^2\right)^8=10^{16}$.
+
+(2) $\left(x^m\right)^2=x^{2m}$.
+
+(3) $\left[\left(-a\right)^3\right]^5=\left(-a\right)^{15}=-a^{15}$.
+
+(4) $-\left(x^2\right)^m=-x^{2m}$. $\blacksquare$
+
+## 习题三
+
+(习题 16.1 复习巩固第 3 题) 计算:
+
+(1) $\left(2ab\right)^3$;
+
+(2) $\left(-3x\right)^4$;
+
+(3) $\left(x^m y^n\right)^2$;
+
+(4) $\left(-2\times10^3\right)^4$.
+
+### 解答 习题三
+
+由积的乘方.
+
+(1) $\left(2ab\right)^3=8a^3 b^3$.
+
+(2) $\left(-3x\right)^4=81x^4$.
+
+(3) $\left(x^m y^n\right)^2=x^{2m} y^{2n}$.
+
+(4) $\left(-2\times10^3\right)^4=16\times10^{12}=1.6\times10^{13}$. $\blacksquare$
+
+## 习题四
+
+(习题 16.1 复习巩固第 4 题) 计算:
+
+(1) $x\cdot x^3+x^2\cdot x^2$;
+
+(2) $\left(-3pq\right)^3$;
+
+(3) $-\left(-2a^2 b\right)^4$;
+
+(4) $a^3\cdot a^4\cdot a+\left(a^2\right)^4+\left(-2a^4\right)^2$.
+
+### 解答 习题四
+
+综合运用基础知识, 基础知识, 基础知识.
+
+(1) $x\cdot x^3+x^2\cdot x^2=x^4+x^4=2x^4$.
+
+(2) $\left(-3pq\right)^3=-27p^3 q^3$.
+
+(3) $-\left(-2a^2 b\right)^4=-\left(16a^8 b^4\right)=-16a^8 b^4$.
+
+(4) $a^3\cdot a^4\cdot a+\left(a^2\right)^4+\left(-2a^4\right)^2=a^8+a^8+4a^8=6a^8$. $\blacksquare$
+
+## 习题五
+
+(习题 16.1 综合运用第 5 题) 计算:
+
+(1) $\left(x^2\right)^3\cdot x^2-\left(x^4\right)^2$;
+
+(2) $7x^2\cdot x^5\cdot\left(-x\right)^5+5\left(x^4\right)^3$.
+
+### 解答 习题五
+
+由幂的运算性质.
+
+(1) $\left(x^2\right)^3\cdot x^2-\left(x^4\right)^2=x^6\cdot x^2-x^8=x^8-x^8=0$.
+
+(2) $7x^2\cdot x^5\cdot\left(-x\right)^5+5\left(x^4\right)^3=7x^7\cdot\left(-x^5\right)+5x^{12}=-7x^{12}+5x^{12}=-2x^{12}$. $\blacksquare$
+
+## 习题六
+
+(习题 16.1 综合运用第 6 题) 计算:
+
+(1) $\left[\left(-2a^2 b^3\right)^3\right]^2$;
+
+(2) $\left(-2xy^2\right)^6+\left(-3x^2 y^4\right)^3$.
+
+### 解答 习题六
+
+由基础知识 与基础知识.
+
+(1) $\left[\left(-2a^2 b^3\right)^3\right]^2=\left(-2a^2 b^3\right)^6=\left(-2\right)^6 a^{12} b^{18}=64a^{12} b^{18}$.
+
+(2) $\left(-2xy^2\right)^6+\left(-3x^2 y^4\right)^3=64x^6 y^{12}-27x^6 y^{12}=37x^6 y^{12}$. $\blacksquare$
+
+## 习题七
+
+(习题 16.1 综合运用第 7 题) 信息存储设备常用 $B,KB,MB,GB,TB$ 等作为存储量的单位, 其中 $1\,KB=2^{10}\,B$, $1\,MB=2^{10}\,KB$, $1\,GB=2^{10}\,MB$, $1\,TB=2^{10}\,GB$. 对于一个存储量为 $64\,GB$ 的闪存盘, 其容量有多少字节?
+
+### 解答 习题七
+
+由同底数幂的乘法, 把各单位换算统一为字节.
+
+$1\,GB=2^{10}\,MB=2^{10}\times2^{10}\,KB=2^{10}\times2^{10}\times2^{10}\,B=2^{30}\,B$.
+
+故 $64\,GB=64\times2^{30}\,B=2^6\times2^{30}\,B=2^{36}\,B$.
+
+即该闪存盘的容量为 $2^{36}$ 字节. $\blacksquare$
+
+## 习题八
+
+(习题 16.1 拓广探索第 8 题) (1) 已知 $2^m=a$, $32^n=b$, 求 $2^{3m+10n}$;
+
+(2) 已知 $x+2y-7=0$ ($x,y$ 都是正整数), 求 $2^x\cdot4^y$ 的值.
+
+### 解答 习题八
+
+由基础知识 与基础知识.
+
+(1) $32^n=\left(2^5\right)^n=2^{5n}=b$, 故 $2^{10n}=\left(2^{5n}\right)^2=b^2$. 又 $2^{3m}=\left(2^m\right)^3=a^3$. 故
+
+$$2^{3m+10n}=2^{3m}\cdot2^{10n}=a^3 b^2.$$
+
+(2) 由 $x+2y-7=0$ 得 $x+2y=7$. 又 $4^y=\left(2^2\right)^y=2^{2y}$, 故
+
+$$2^x\cdot4^y=2^x\cdot2^{2y}=2^{x+2y}=2^7=128.$$
+
+$\blacksquare$
+
+## 习题九
+
+(习题 16.1 拓广探索第 9 题) 若 $a^m=a^n$ ($a> 0$, $a\ne1$), 则 $m=n$. 请利用上面的结论解决下面的问题:
+
+(1) 如果 $2\times8^x\times16^x=2^{22}$, 求 $x$ 的值;
+
+(2) 如果 $\left(9^x\right)^2=3^8$, 求 $x$ 的值.
+
+### 解答 习题九
+
+先把等式两边化为同底的幂, 再由指数相等求解.
+
+(1) $8^x=\left(2^3\right)^x=2^{3x}$, $16^x=\left(2^4\right)^x=2^{4x}$. 故
+
+$$2\times8^x\times16^x=2^1\cdot2^{3x}\cdot2^{4x}=2^{1+7x}.$$
+
+由 $2^{1+7x}=2^{22}$ 得 $1+7x=22$, 解得 $x=3$.
+
+(2) $\left(9^x\right)^2=\left(\left(3^2\right)^x\right)^2=\left(3^{2x}\right)^2=3^{4x}$. 由 $3^{4x}=3^8$ 得 $4x=8$, 解得 $x=2$. $\blacksquare$
+
+## 练习六
+
+(练习 16.2 第 1 题) 下面的计算是否正确? 如果不正确, 应当怎样改正?
+
+(1) $3a^3\cdot2a^2=6a^6$;
+
+(2) $3x^2\cdot\left(-4x^2\right)=-12x^2$;
+
+(3) $5y^3\cdot3y^5=15y^{15}$;
+
+(4) $x^2 y^2\left(-xy^3\right)^2=x^4 y^8$.
+
+### 解答 练习六
+
+由单项式与单项式相乘.
+
+(1) 不正确. $3a^3\cdot2a^2=6a^{3+2}=6a^5$, 同底数幂应指数相加.
+
+(2) 不正确. $3x^2\cdot\left(-4x^2\right)=-12x^4$.
+
+(3) 不正确. $5y^3\cdot3y^5=15y^8$.
+
+(4) 正确, $x^2 y^2\cdot x^2 y^6=x^4 y^8$. $\blacksquare$
+
+## 练习七
+
+(练习 16.2 第 2 题) 计算:
+
+(1) $3x^2\cdot5x^3$;
+
+(2) $6x^2\cdot3xy$;
+
+(3) $4y\cdot\left(-2xy^2\right)$;
+
+(4) $-2ab^2\cdot\left(-3ab\right)$.
+
+### 解答 练习七
+
+由基础知识.
+
+(1) $3x^2\cdot5x^3=15x^5$.
+
+(2) $6x^2\cdot3xy=18x^3 y$.
+
+(3) $4y\cdot\left(-2xy^2\right)=-8xy^3$.
+
+(4) $-2ab^2\cdot\left(-3ab\right)=6a^2 b^3$. $\blacksquare$
+
+## 练习八
+
+(练习 16.2 第 3 题) 计算:
+
+(1) $\left(-3xy^2\right)^2\left(-2xy\right)^2$;
+
+(2) $\left(-a\right)^5-\left(2a\cdot3a\right)^2\cdot\left(-a\right)$.
+
+### 解答 练习八
+
+先乘方再相乘.
+
+(1) $\left(-3xy^2\right)^2\left(-2xy\right)^2=9x^2 y^4\cdot4x^2 y^2=36x^4 y^6$.
+
+(2) $\left(-a\right)^5-\left(6a^2\right)^2\cdot\left(-a\right)=-a^5-36a^4\cdot\left(-a\right)=-a^5+36a^5=35a^5$. $\blacksquare$
+
+## 练习九
+
+(练习 16.2 第 4 题) 卫星绕地球运动的速度 (即第一宇宙速度) 是 $7.9\times10^3\ \text{m/s}$, 求卫星绕地球运行 $1\ \text{h}$ 飞过的路程.
+
+### 解答 练习九
+
+路程等于速度乘时间. $1\ \text{h}=3600\ \text{s}=3.6\times10^3\ \text{s}$.
 
 $$
-\angle ABC+\angle BCD=120^\circ+60^\circ=180^\circ.
+\left(7.9\times10^3\right)\times\left(3.6\times10^3\right)=28.44\times10^6=2.844\times10^7\ \left(\text{m}\right).
 $$
 
-由判定方法 3, 同旁内角互补, 两直线平行, 故 $AB\parallel DC$. $\blacksquare$
+即卫星绕地球运行 $1\ \text{h}$ 飞过的路程约为 $2.844\times10^7\ \text{m}$. $\blacksquare$
 
-## 复习题三
+## 练习十
 
-(复习题 复习巩固第 3 题) 判断题.
+(练习 16.2 第 1 题) 下面的计算是否正确? 如果不正确, 应当怎样改正?
 
-(1) $a$, $b$, $c$ 是直线, 若 $a\parallel b$, $b\parallel c$, 则 $a\parallel c$;
+(1) $\left(-2x\right)\left(x^2-x\right)=-2x^3-2x^2$;
 
-(2) $a$, $b$, $c$ 是直线, 若 $a\perp b$, $b\perp c$, 则 $a\perp c$.
+(2) $a\left(b-c\right)+b\left(c-a\right)+c\left(a-b\right)=0$.
 
-### 解答 复习题三
+### 解答 练习十
 
-(1) 正确. 由平行的传递性, 两条直线都与第三条直线平行, 那么这两条直线也互相平行, 故 $a\parallel c$.
+由单项式与多项式相乘.
 
-(2) 错误. 在同一平面内, $a\perp b$ 且 $b\perp c$, 则 $a$, $c$ 与 $b$ 所成的同位角都为 $90^\circ$, 由判定方法 1, 同位角相等, 两直线平行, 应为 $a\parallel c$, 而非 $a\perp c$. 故判断为错. $\blacksquare$
+(1) 不正确. $\left(-2x\right)\left(x^2-x\right)=-2x^3+2x^2$, 第二项 $\left(-2x\right)\left(-x\right)$ 应为正.
 
-## 复习题四
+(2) 正确. $a\left(b-c\right)+b\left(c-a\right)+c\left(a-b\right)=ab-ac+bc-ab+ac-bc=0$. $\blacksquare$
 
-(复习题 复习巩固第 4 题) 根据下列语句画出图形:
+## 练习十一
 
-(1) 过线段 $AB$ 的中点 $C$, 画 $CD\perp AB$;
+(练习 16.2 第 2 题) 计算:
 
-(2) 点 $P$ 到直线 $AB$ 的距离是 $3\,\text{cm}$, 过点 $P$ 画直线 $AB$ 的垂线;
+(1) $3a\left(5a-2b\right)$;
 
-(3) 过三角形 $ABC$ 内的一点 $P$, 分别画 $AB$, $BC$, $AC$ 的平行线.
+(2) $-2xy\left(2xy^2-3xy\right)$;
 
-图中包含三幅小图:(1) 线段 $AB$ 及其中点 $C$, 过 $C$ 作 $CD\perp AB$;(2) 直线 $AB$ 外一点 $P$, $P$ 到 $AB$ 的距离为 $3\,\text{cm}$, 过 $P$ 作 $AB$ 的垂线;(3) 三角形 $ABC$ 内一点 $P$, 过 $P$ 分别作 $AB$, $BC$, $AC$ 的平行线.
+(3) $\left(x-3y\right)\left(-6x\right)$;
 
-### 解答 复习题四
+(4) $\left(-2ab\right)^2\left(2a-b+1\right)$.
 
-按语句逐步作图: 先取线段 $AB$ 中点 $C$, 用三角尺过 $C$ 作 $CD\perp AB$; 再量出点 $P$ 到直线 $AB$ 距离为 $3\,\text{cm}$, 过 $P$ 作 $AB$ 的垂线; 最后由平行公理, 过点 $P$ 分别作 $AB$, $BC$, $AC$ 的平行线. 即得符合语句的图形. $\blacksquare$
+### 解答 练习十一
 
-## 复习题五
+由基础知识.
 
-(复习题 复习巩固第 5 题) 如图, 某人骑自行车自 $A$ 处沿正东方向前进, 至 $B$ 处后, 行驶方向改为东偏南 $15^\circ$, 行驶到 $C$ 处仍按正东方向行驶, 画出继续行驶的路线.
+(1) $3a\left(5a-2b\right)=15a^2-6ab$.
 
-图中为一段路线示意图:从点 $A$ 向正东方向画线段到 $B$, 从 $B$ 向东偏南 $15^\circ$ 方向画线段到 $C$, 并标出正东方向.
+(2) $-2xy\left(2xy^2-3xy\right)=-4x^2 y^3+6x^2 y^2$.
 
-### 解答 复习题五
+(3) $\left(x-3y\right)\left(-6x\right)=-6x^2+18xy$.
 
-从 $A$ 沿正东画直线到 $B$, 从 $B$ 向东偏南 $15^\circ$ 画直线到 $C$, 再从 $C$ 恢复正东方向画直线继续前进即可. 由于从 $C$ 起又回到正东方向, 与 $AB$ 同向, 由性质 1 相应角的关系可知路线折转方向自洽. 按上述方向画出路线即可. $\blacksquare$
+(4) $\left(-2ab\right)^2\left(2a-b+1\right)=4a^2 b^2\left(2a-b+1\right)=8a^3 b^2-4a^2 b^3+4a^2 b^2$. $\blacksquare$
 
-## 复习题六
+## 练习十二
 
-(复习题 复习巩固第 6 题) 如图, $\angle 1=30^\circ$, $\angle B=60^\circ$, $AB\perp AC$, 垂足为 $A$.
+(练习 16.2 第 3 题) 计算: $x\left(x-1\right)+2x\left(x+1\right)-3x\left(2x-5\right)$.
 
-(1) $\angle DAB+\angle B$ 等于多少度?
+### 解答 练习十二
 
-(2) $AD$ 与 $BC$ 平行吗? $AB$ 与 $DC$ 平行吗?
-
-### 解答 复习题六
-
-由垂直, $AB\perp AC$, 故 $\angle BAC=90^\circ$.
-
-(1) $\angle DAB=\angle 1+\angle BAC=30^\circ+90^\circ=120^\circ$, 故
+由基础知识.
 
 $$
-\angle DAB+\angle B=120^\circ+60^\circ=180^\circ.
+x\left(x-1\right)+2x\left(x+1\right)-3x\left(2x-5\right)=x^2-x+2x^2+2x-6x^2+15x=-3x^2+16x.
 $$
 
-(2) $\angle DAB$ 与 $\angle B$ 是直线 $AD$, $BC$ 被直线 $AB$ 所截得的同旁内角, 已求得 $\angle DAB+\angle B=180^\circ$, 由判定方法 3, 同旁内角互补, 两直线平行, 故 $AD\parallel BC$.
+$\blacksquare$
 
-题中没有给出 $AB$ 与 $DC$ 之间角的互补或相等关系, 无法推出 $AB\parallel DC$, 故不能判定 $AB$ 与 $DC$ 平行. $\blacksquare$
+## 练习十三
 
-## 复习题七
+(练习 16.2 第 4 题) 先化简, 再求值: $x^2\left(x-1\right)-x\left(x^2+x-1\right)$, 其中 $x=\frac12$.
 
-(复习题 复习巩固第 7 题) 如图, 平行线 $a$, $b$ 被直线 $c$ 所截, 若知道 $\angle 1\sim\angle 8$ 中一个角的度数, 能否求出其他角的度数? 如果能, 用其中一个角表示出其他各角.
+### 解答 练习十三
 
-图中为两条平行直线 $a$, $b$ 被一条截线 $c$ 所截, 在两个交点处共标出八个角 $\angle 1$ 至 $\angle 8$.
-
-### 解答 复习题七
-
-能. 设已知其中一个角为 $\alpha$. 由性质 1 至性质 3 及对顶角, 邻补角关系, 八个角中只有两种不同的度数.
-
-设已知角为 $\angle 1=\alpha$. 由对顶角相等, $\angle 3=\alpha$, $\angle 5=\alpha$, $\angle 7=\alpha$. 其余各角与 $\angle 1$ 互补, 即 $\angle 2=\angle 4=\angle 6=\angle 8=180^\circ-\alpha$.
-
-故只要知道 $\angle 1\sim\angle 8$ 中任一角, 就能求出其余各角: 与它相等的角等于 $\alpha$, 与它互补的角等于 $180^\circ-\alpha$. $\blacksquare$
-
-## 复习题八
-
-(复习题 综合运用第 8 题) 选择题.
-
-(1) 如图 (1), 点 $E$ 在 $AC$ 的延长线上, 下列条件中能判断 $AB\parallel CD$ 的是 (　　).
-
-(A) $\angle 3=\angle 4$　(B) $\angle 1=\angle 2$　(C) $\angle D=\angle DCE$　(D) $\angle D+\angle ACD=180^\circ$
-
-(2) 如图 (2), $\angle 1+\angle 2=180^\circ$, $\angle 3=108^\circ$, 则 $\angle 4=$ (　　).
-
-(A) $72^\circ$　(B) $80^\circ$　(C) $82^\circ$　(D) $108^\circ$
-
-### 解答 复习题八
-
-(1) 由判定方法 2, 内错角相等, 两直线平行. $\angle 1$ 与 $\angle 2$ 是直线 $AB$, $CD$ 被直线 $BC$ 所截得的内错角, 故 $\angle 1=\angle 2$ 可判定 $AB\parallel CD$. 选 (B).
-
-(2) $\angle 1+\angle 2=180^\circ$ 推出相应两直线平行, 再由平行线的性质, $\angle 3$ 与 $\angle 4$ 互补. 故
+先化简再代入.
 
 $$
-\angle 4=180^\circ-\angle 3=180^\circ-108^\circ=72^\circ.
+x^2\left(x-1\right)-x\left(x^2+x-1\right)=x^3-x^2-x^3-x^2+x=-2x^2+x.
 $$
 
-选 (A). $\blacksquare$
+代入 $x=\frac12$, 得 $-2\cdot\frac14+\frac12=-\frac12+\frac12=0$. $\blacksquare$
 
-## 复习题九
+## 练习十四
 
-(复习题 综合运用第 9 题) 图中所示为防护网的示意图, 它可看成由两组平行线组成, 你能通过检验一些角的大小来验证其中的线段平行吗? 说出你的做法.
+(练习 16.2 第 1 题) 计算:
 
-### 解答 复习题九
+(1) $\left(2x+1\right)\left(x+3\right)$;
 
-由判定方法 1,判定方法 2,判定方法 3: 任取截线与两组平行线相交, 量出截得的同位角 (或内错角, 同旁内角). 若同位角相等 (或内错角相等, 或同旁内角互补), 由相应判定方法即可判定被截的两组线段分别平行. 逐组检验即可验证防护网中的线段平行. $\blacksquare$
+(2) $\left(m+2n\right)\left(3n-m\right)$;
 
-## 复习题十
+(3) $\left(a-1\right)^2$;
 
-(复习题 综合运用第 10 题) 如图, $\angle AOB$ 内有一点 $P$.
+(4) $\left(a+3b\right)\left(a-3b\right)$;
 
-(1) 过点 $P$ 画 $PC\parallel OB$, 交 $OA$ 于点 $C$, 画 $PD\parallel OA$, 交 $OB$ 于点 $D$;
+(5) $\left(2x^2-1\right)\left(x-4\right)$;
 
-(2) 写出图中相等的角;
+(6) $\left(x^2+2x+3\right)\left(2x-5\right)$.
 
-(3) 写出图中互补的角.
+### 解答 练习十四
 
-### 解答 复习题十
+由多项式与多项式相乘.
 
-(1) 由平行公理, 过点 $P$ 分别作 $PC\parallel OB$ 交 $OA$ 于 $C$, $PD\parallel OA$ 交 $OB$ 于 $D$.
+(1) $\left(2x+1\right)\left(x+3\right)=2x^2+6x+x+3=2x^2+7x+3$.
 
-(2) 由性质 1,性质 2, $PC\parallel OB$ 且 $PD\parallel OA$, 可得相应同位角, 内错角相等. 图中相等的角为: $\angle AOB=\angle PCD=\angle PDB$, 以及 $\angle OCP=\angle ODP$ 等由平行推得的对应角.
+(2) $\left(m+2n\right)\left(3n-m\right)=3mn-m^2+6n^2-2mn=mn-m^2+6n^2$.
 
-(3) 由性质 3, 两直线平行, 同旁内角互补. 图中互补的角为: $\angle OCP$ 与 $\angle CPD$ 的相应同旁内角组合, 即 $\angle OCP+\angle ODP$ 的邻角等; 具体为 $PC\parallel OB$ 所成的同旁内角与 $PD\parallel OA$ 所成的同旁内角, 它们的和为 $180^\circ$. $\blacksquare$
+(3) $\left(a-1\right)^2=a^2-2a+1$.
 
-## 复习题十一
+(4) $\left(a+3b\right)\left(a-3b\right)=a^2-9b^2$.
 
-(复习题 综合运用第 11 题) 如图, 直线 $l_1\parallel l_2$, $AB\perp l_2$, $CD\perp l_1$, $AB$ 和 $CD$ 平行吗? 为什么?
+(5) $\left(2x^2-1\right)\left(x-4\right)=2x^3-8x^2-x+4$.
 
-### 解答 复习题十一
+(6) $\left(x^2+2x+3\right)\left(2x-5\right)=2x^3-5x^2+4x^2-10x+6x-15=2x^3-x^2-4x-15$. $\blacksquare$
 
-$AB\parallel CD$.
+## 练习十五
 
-$\because l_1\parallel l_2$, $AB\perp l_2$, $\therefore AB\perp l_1$ (一条直线垂直于两条平行线中的一条, 必垂直于另一条).
+(练习 16.2 第 2 题) 计算:
 
-又 $CD\perp l_1$, 故 $AB$ 与 $CD$ 都垂直于 $l_1$, 它们与 $l_1$ 所成的同位角都等于 $90^\circ$. 由判定方法 1, 同位角相等, 两直线平行, 故 $AB\parallel CD$. $\blacksquare$
+(1) $\left(x+2\right)\left(x+3\right)$;
 
-## 复习题十二
+(2) $\left(x-4\right)\left(x+1\right)$;
 
-(复习题 综合运用第 12 题) 完成下面的证明.
+(3) $\left(x+4\right)\left(x-2\right)$;
 
-(1) 如图 (1), 点 $D$, $E$, $F$ 分别是三角形 $ABC$ 的边 $BC$, $CA$, $AB$ 上的点, $DE\parallel BA$, $DF\parallel CA$. 求证 $\angle FDE=\angle A$.
+(4) $\left(x-5\right)\left(x-3\right)$.
 
-(2) 如图 (2), $AB$ 和 $CD$ 相交于点 $O$, $\angle C=\angle COA$, $\angle D=\angle BOD$. 求证 $AC\parallel DB$.
+由上面计算的结果找规律, 观察图形, 填空: $\left(x+p\right)\left(x+q\right)=\left(\;\;\right)^2+\left(\;\;\right)x+\left(\;\;\right)$.
 
-### 解答 复习题十二
+### 解答 练习十五
 
-(1) 证明: $\because DE\parallel BA$, $\therefore\angle FDE=\angle BFD$ (两直线平行, 内错角相等).
+由基础知识.
 
-$\because DF\parallel CA$, $\therefore\angle BFD=\angle A$ (两直线平行, 同位角相等).
+(1) $\left(x+2\right)\left(x+3\right)=x^2+5x+6$.
 
-$\therefore\angle FDE=\angle A$. $\blacksquare$
+(2) $\left(x-4\right)\left(x+1\right)=x^2-3x-4$.
 
-(2) 证明: $\because\angle C=\angle COA$, $\angle D=\angle BOD$, 且 $\angle COA=\angle BOD$ (对顶角相等),
+(3) $\left(x+4\right)\left(x-2\right)=x^2+2x-8$.
 
-$\therefore\angle C=\angle D$.
+(4) $\left(x-5\right)\left(x-3\right)=x^2-8x+15$.
 
-$\angle C$ 与 $\angle D$ 是直线 $AC$, $DB$ 被直线 $CD$ 所截得的内错角, 由判定方法 2, 内错角相等, 两直线平行, 故 $AC\parallel DB$. $\blacksquare$
+观察各式: 二次项系数为 $1$, 一次项系数等于两常数之和, 常数项等于两常数之积. 故
 
-## 复习题十三
+$$\left(x+p\right)\left(x+q\right)=x^2+\left(p+q\right)x+pq.$$
 
-(复习题 拓广探索第 13 题) 指出下列命题的题设和结论, 并判断它们是正确的还是错误的. 如果是错误的, 举出一个反例.
+$\blacksquare$
 
-(1) 两个角的和等于平角时, 这两个角互为补角;
+## 练习十六
 
-(2) 同旁内角相等, 两直线平行;
+(练习 16.2 第 3 题) 先化简, 再求值: $\left(x-y\right)\left(x^2+xy+y^2\right)-\left(x+y\right)\left(x^2-y^2\right)$, 其中 $x=5$, $y=5$.
 
-(3) 两条平行直线被第三条直线所截, 内错角相等.
+### 解答 练习十六
 
-### 解答 复习题十三
+由基础知识.
 
-(1) 题设: 两个角的和等于平角; 结论: 这两个角互为补角. 由补角的定义, 和为 $180^\circ$ 的两个角互补, 平角为 $180^\circ$, 故命题正确.
+$$\left(x-y\right)\left(x^2+xy+y^2\right)=x^3-y^3,$$
 
-(2) 题设: 同旁内角相等; 结论: 两直线平行. 由判定方法 3, 同旁内角互补 (和为 $180^\circ$) 才能判定平行, 而非相等. 反例: 取同旁内角都等于 $60^\circ$ (相等但和为 $120^\circ\neq 180^\circ$), 两直线并不平行. 故命题错误.
+$$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y\right)=\left(x+y\right)^2\left(x-y\right).$$
 
-(3) 题设: 两条平行直线被第三条直线所截; 结论: 内错角相等. 由性质 2, 两直线平行, 内错角相等, 故命题正确. $\blacksquare$
+代入 $x=5,y=5$ 时 $x-y=0$, 故原式 $=0-\left(x+y\right)\cdot0=0$. $\blacksquare$
 
-## 复习题十四
+## 练习十七
 
-(复习题 拓广探索第 14 题) 如图是两个整体图案的局部, 分别指出其中的基本图形, 并说明怎样由基本图形平移得到整个图案.
+(练习 16.2 第 1 题) 计算:
 
-### 解答 复习题十四
+(1) $x^7\div x^5$;
 
-由平移的性质, 图案由其中重复出现的最小基本图形, 沿一定方向重复平移相同距离得到. 找出图中重复出现的最小基本图形, 即为整个图案的基本图形; 把它沿图案延展的方向重复平移, 即得到整个图案. $\blacksquare$
+(2) $m^8\div m^8$;
 
-## 复习题十五
+(3) $\left(-a\right)^{10}\div\left(-a\right)^7$;
 
-(复习题 拓广探索第 15 题) 如图, 这是一套住房的平面图, 图中有许多相交线和平行线. 量量你家的住房, 选择适当的比例尺, 画出它的平面图. 你能自己设计一个户型图吗?
+(4) $\left(xy\right)^5\div\left(xy\right)^3$.
 
-### 解答 复习题十五
+### 解答 练习十七
 
-用刻度尺量出各房间的长和宽, 选择适当比例尺 (例如 $1:100$), 把实际长度按比例尺换算为图上长度. 按墙线的相交与平行关系画出户型平面图即可; 自己设计户型图时, 用互相垂直或平行的线段表示各面墙. $\blacksquare$
+由同底数幂的除法 与零指数幂.
 
-## 复习题十六
+(1) $x^7\div x^5=x^2$.
 
-(复习题 拓广探索第 16 题) 一张台球桌的桌面如图所示, 一个球从桌面上的点 $A$ 滚向桌边 $PQ$, 碰着 $PQ$ 上的点 $B$ 后便反弹而滚向桌边 $RS$, 碰着 $RS$ 上的点 $C$ 便反弹而滚向点 $D$. 已知 $PQ\parallel SR$, $AB$, $BC$, $CD$ 都是直线, 且 $\angle ABC$ 的平分线 $BN$ 垂直于 $PQ$, $\angle BCD$ 的平分线 $CM$ 垂直于 $SR$, 那么, 球经过两次反弹后所滚的路径 $CD$ 是否平行于原来的路径 $AB$?
+(2) $m^8\div m^8=m^0=1$.
 
-图中为台球桌桌面示意图, 长边 $PQ\parallel SR$; 球从点 $A$ 滚到 $PQ$ 上的点 $B$, 反弹后滚到 $RS$ 上的点 $C$, 再反弹后滚向点 $D$; $BN$ 平分 $\angle ABC$ 且垂直于 $PQ$, $CM$ 平分 $\angle BCD$ 且垂直于 $SR$.
+(3) $\left(-a\right)^{10}\div\left(-a\right)^7=\left(-a\right)^3=-a^3$.
 
-### 解答 复习题十六
+(4) $\left(xy\right)^5\div\left(xy\right)^3=\left(xy\right)^2=x^2 y^2$. $\blacksquare$
 
-$CD\parallel AB$.
+## 练习十八
 
-$\because BN$ 平分 $\angle ABC$ 且 $BN\perp PQ$, 又 $PQ\parallel SR$,
+(练习 16.2 第 2 题) 计算:
 
-由 $PQ\parallel SR$ 及 $CM\perp SR$, 得 $CM\perp PQ$.
+(1) $\left(10ab^3\right)\div\left(-5ab\right)$;
 
-$BN$ 与 $CM$ 都垂直于 $PQ$ (及 $SR$), 故 $BN\parallel CM$.
+(2) $\left(-8a^2 b^3\right)\div\left(6ab^2\right)$;
 
-$BN\parallel CM$, 直线 $BC$ 为截线, 由性质 2, 内错角相等, 得 $\angle NBC=\angle MCB$.
+(3) $\left(-21x^2 y^4\right)\div\left(-3x^2 y^3\right)$;
 
-又 $BN$ 平分 $\angle ABC$, 故 $\angle ABC=2\angle NBC$; $CM$ 平分 $\angle BCD$, 故 $\angle BCD=2\angle MCB$. 于是 $\angle ABC=\angle BCD$.
+(4) $\left(6\times10^8\right)\div\left(3\times10^5\right)$.
 
-$\angle ABC$ 与 $\angle BCD$ 是直线 $AB$, $CD$ 被直线 $BC$ 所截得的内错角, 由判定方法 2, 内错角相等, 两直线平行, 故 $CD\parallel AB$. $\blacksquare$
+### 解答 练习十八
+
+由单项式除以单项式.
+
+(1) $\left(10ab^3\right)\div\left(-5ab\right)=-2b^2$.
+
+(2) $\left(-8a^2 b^3\right)\div\left(6ab^2\right)=-\frac43 ab$.
+
+(3) $\left(-21x^2 y^4\right)\div\left(-3x^2 y^3\right)=7y$.
+
+(4) $\left(6\times10^8\right)\div\left(3\times10^5\right)=2\times10^3$. $\blacksquare$

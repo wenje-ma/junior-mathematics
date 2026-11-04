@@ -1,233 +1,465 @@
 # week42
 
-## Exercise 1
+## Review Problem 1
 
-(Exercise 9.2, Problem 1) As shown in the figure, if the coordinates of points $B$, $C$ are $B\left(-1,-2\right)$ and $C\left(1,-1\right)$ respectively, write down the coordinates of points $A$, $D$, $E$, $F$, $G$. Also, establish another rectangular coordinate system in the figure and write down the coordinates of the points.
+(Review Problems, Review and Consolidation, Problem 1) Among the following expressions, which are integral expressions? Which are fractions?
 
-### Solution to Exercise 1
+$\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y}$, $\frac{2ab}{\left(a+b\right)^2}$.
 
-Determine the coordinate system from $B\left(-1,-2\right)$, $C\left(1,-1\right)$: the two points differ by $2$ horizontally and $1$ vertically, so each small grid is $1$ unit. According to the positions of the points relative to $B$, $C$, read off the coordinates (x-coordinate, y-coordinate) of $A$, $D$, $E$, $F$, $G$.
+### Solution to Review Problem 1
 
-If another origin is chosen to rebuild the system, the coordinates of all points are translated as a whole by a fixed vector; just write down the new coordinates. $\blacksquare$
+Integral expressions: $\frac{x}{3}$, $\frac{a+5}{15}$.
 
-## Exercise 2
+Fractions: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2 y}$, $\frac{2ab}{\left(a+b\right)^2}$. $\blacksquare$
 
-(Exercise 9.2, Problem 2) Li Ming's home is $1000\,m$ east of the school and then $1500\,m$ north; Zhang Hua's home is $2000\,m$ west of the school and then $500\,m$ south; Wang Fang's home is $1500\,m$ south of the school. Establish an appropriate rectangular coordinate system, draw the positions of the school and these three students' homes, and represent them with coordinates.
+## Review Problem 2
 
-The figure shows a location map with the school as reference point, marking the relative positions of the school, Li Ming's home, Zhang Hua's home, and Wang Fang's home.
+(Review Problems, Review and Consolidation, Problem 2) Calculate:
 
-### Solution to Exercise 2
+(1) $\frac{s-2 t}{3 s}\cdot\frac{6 s^2}{s+2 t}$;
 
-By Representing Geographic Locations with Coordinates, take the school as the origin, east as the positive $x$-axis direction, north as the positive $y$-axis direction, and one unit of length representing $500\,m$.
+(2) $\frac{x-y}{x+y}\div\left(x-y\right)^2$;
 
-School $\left(0,0\right)$. Li Ming's home is $1000$ east i.e. $x=2$, $1500$ north i.e. $y=3$, so Li Ming's home $\left(1000,1500\right)$. Zhang Hua's home is $2000$ west i.e. $x=-2000$, $500$ south i.e. $y=-500$, so Zhang Hua's home $\left(-2000,-500\right)$. Wang Fang's home is $1500$ south, so Wang Fang's home $\left(0,-1500\right)$.
+(3) $\frac{2 a}{a+1}+\frac{2}{a+1}$;
 
-Plot the positions of the school and the three homes in the coordinate system. $\blacksquare$
+(4) $\frac{u-2 v}{u+2 v}-\frac{2}{u^2-4 v^2}$;
 
-## Exercise 3
+(5) $\left(x^{-2} y^3\right)^{-3}$;
 
-(Exercise 9.2, Problem 3) The figure is a schematic diagram of the positions of three warships. Use direction and distance to describe the positions of the two warships at $A$, $B$ relative to the warship at $C$.
+(6) $\left(-\frac{3 x}{y^3 z}\right)^2$.
 
-### Solution to Exercise 3
+### Solution to Review Problem 2
 
-By Representing Geographic Locations with Coordinates, describe using a direction angle and a distance. Taking the warship at $C$ as the observation point, measure from the angles and scale in the figure the direction angles (such as north by east, or south by west by so many degrees) and actual distances of $A$, $B$ relative to $C$; this describes the positions of the warships at $A$, $B$ relative to the warship at $C$. $\blacksquare$
+(1) $\frac{\left(s-2t\right)\cdot6s^2}{3s\left(s+2t\right)}=\frac{2s\left(s-2t\right)}{s+2t}$.
 
-## Exercise 4
+(2) $\frac{x-y}{x+y}\cdot\frac{1}{\left(x-y\right)^2}=\frac{1}{\left(x+y\right)\left(x-y\right)}=\frac{1}{x^2-y^2}$.
 
-(Exercise 9.2, Problem 1) As shown in the figure, translate the triangle to the right by $2$ units of length, then up by $3$ units of length. Then the coordinates of the three vertices after translation are respectively (　　).
+(3) $\frac{2a+2}{a+1}=\frac{2\left(a+1\right)}{a+1}=2$.
 
-(1) $\left(2,2\right)$, $\left(3,4\right)$, $\left(1,7\right)$　(2) $\left(-2,2\right)$, $\left(4,3\right)$, $\left(1,7\right)$　(3) $\left(-2,2\right)$, $\left(3,4\right)$, $\left(1,7\right)$　(4) $\left(2,-2\right)$, $\left(3,3\right)$, $\left(1,7\right)$
+(4) $\frac{\left(u-2v\right)^2-2}{\left(u+2v\right)\left(u-2v\right)}=\frac{u^2-4uv+4v^2-2}{u^2-4v^2}$.
 
-### Solution to Exercise 4
+(5) $\left(x^{-2} y^3\right)^{-3}=x^6 y^{-9}=\frac{x^6}{y^9}$.
 
-By Representing Translation with Coordinates, translating right by $2$ units adds $2$ to every x-coordinate, and translating up by $3$ units adds $3$ to every y-coordinate.
+(6) $\left(-\frac{3x}{y^3 z}\right)^2=\frac{9x^2}{y^6 z^2}$. $\blacksquare$
 
-The coordinates of the three vertices of the original triangle are $\left(-4,-1\right)$, $\left(1,1\right)$, $\left(-1,4\right)$. After translation: $\left(-4+2,-1+3\right)=\left(-2,2\right)$, $\left(1+2,1+3\right)=\left(3,4\right)$, $\left(-1+2,4+3\right)=\left(1,7\right)$. That is, $\left(-2,2\right)$, $\left(3,4\right)$, $\left(1,7\right)$. Choose (3). $\blacksquare$
+## Review Problem 3
 
-## Exercise 5
+(Review Problems, Review and Consolidation, Problem 3) Calculate:
 
-(Exercise 9.2, Problem 2) As shown in the figure, through what kind of translation can figure Ⅱ be obtained from figure Ⅰ? What changes in the coordinates of the corresponding points?
+(1) $\frac{2 m}{3 n}\cdot\left(\frac{3 n}{p}\right)^2\div\frac{m n}{p^2}$;
 
-### Solution to Exercise 5
+(2) $a^2 b^3\cdot\left(a b^2\right)^{-2}$;
 
-By Representing Translation with Coordinates, take a known point on figure Ⅰ and its corresponding point on figure Ⅱ, and compare the coordinates. The change in x-coordinate determines the left-right translation, and the change in y-coordinate determines the up-down translation. An increase in x-coordinate means moving right, a decrease means moving left; an increase in y-coordinate means moving up, a decrease means moving down. The coordinate changes of the corresponding points are exactly the same. $\blacksquare$
+(3) $\frac{x^2-16}{x^2+8 x+16}+\frac{x}{x-4}$;
 
-## Exercise 6
+(4) $\left(\frac{p q^2}{r}\right)^3\div\frac{2 p r^2}{r+12 q}$;
 
-(Exercise 9.2, Problem 3) In the rectangular coordinate system, given points $A\left(0,-2\right)$, $B\left(3,0\right)$. First translate segment $AB$ to the left by $2$ units of length and up by $3$ units of length to obtain segment $CD$; then translate segment $CD$ to the left by $3$ units of length and down by $2$ units of length to obtain segment $EF$. Write down the coordinates of points $C$, $D$, $E$, $F$.
+(5) $1\div\left(2 x+1-\frac{x^2}{x}\right)$;
 
-### Solution to Exercise 6
+(6) $\frac{a-b}{a}\div\left(a-\frac{2 a b-b^2}{a}\right)$;
 
-By Representing Translation with Coordinates.
+(7) $1-\frac{a+b}{a+2 b}\div\frac{a^2-b^2}{a^2+4 a b+4 b^2}$;
 
-Segment $AB$ shifted left by $2$ (x-coordinate minus $2$) and up by $3$ (y-coordinate plus $3$) gives $CD$: $C=A$ translated $=\left(0-2,-2+3\right)=\left(-2,1\right)$, $D=B$ translated $=\left(3-2,0+3\right)=\left(1,3\right)$.
+(8) $\left(x-y+\frac{4 x y}{x-y}\right)\left(x+y-\frac{4 x y}{x+y}\right)$.
 
-Segment $CD$ shifted left by $3$ (x-coordinate minus $3$) and down by $2$ (y-coordinate minus $2$) gives $EF$: $E=C$ translated $=\left(-2-3,1-2\right)=\left(-5,-1\right)$, $F=D$ translated $=\left(1-3,3-2\right)=\left(-2,1\right)$.
+### Solution to Review Problem 3
 
-That is, $C\left(-2,1\right)$, $D\left(1,3\right)$, $E\left(-5,-1\right)$, $F\left(-2,1\right)$. $\blacksquare$
+(1) $\frac{2m}{3n}\cdot\frac{9n^2}{p^2}\cdot\frac{p^2}{mn}=\frac{6n}{n}=6$.
 
-## Exercise 7
+(2) $a^2 b^3\cdot a^{-2} b^{-4}=b^{-1}=\frac1b$.
 
-(Exercise 9.2, Problem 1) As shown in the figure, after translating quadrilateral $ABCD$, the coordinates of vertex $C\left(2,3\right)$ become $\left(2,0\right)$. At this time, what do the coordinates of points $A\left(2,7\right)$, $B\left(1,5\right)$, $D\left(3,5\right)$ respectively become?
+(3) $\frac{\left(x+4\right)\left(x-4\right)}{\left(x+4\right)^2}+\frac{x}{x-4}=\frac{x-4}{x+4}+\frac{x}{x-4}=\frac{\left(x-4\right)^2+x\left(x+4\right)}{\left(x+4\right)\left(x-4\right)}=\frac{2x^2-4x+16}{x^2-16}$.
 
-### Solution to Exercise 7
+(4) $\frac{p^3 q^6}{r^3}\cdot\frac{r+12q}{2pr^2}=\frac{p^2 q^6\left(r+12q\right)}{2r^5}$.
 
-From $C\left(2,3\right)\to\left(2,0\right)$, the x-coordinate is unchanged and the y-coordinate changes from $3$ to $0$, i.e. the y-coordinate is subtracted by $3$; this is a translation down by $3$ units of length.
+(5) $1\div\left(2x+1-x\right)=1\div\left(x+1\right)=\frac{1}{x+1}$.
 
-By Representing Translation with Coordinates, the y-coordinate of all points is subtracted by $3$: $A\left(2,7\right)\to\left(2,4\right)$, $B\left(1,5\right)\to\left(1,2\right)$, $D\left(3,5\right)\to\left(3,2\right)$.
+(6) $\frac{a-b}{a}\div\frac{a^2-2ab+b^2}{a}=\frac{a-b}{a}\cdot\frac{a}{\left(a-b\right)^2}=\frac{1}{a-b}$.
 
-That is, $A$ becomes $\left(2,4\right)$, $B$ becomes $\left(1,2\right)$, $D$ becomes $\left(3,2\right)$. $\blacksquare$
+(7) $1-\frac{a+b}{a+2b}\cdot\frac{\left(a+2b\right)^2}{\left(a+b\right)\left(a-b\right)}=1-\frac{a+2b}{a-b}=\frac{a-b-a-2b}{a-b}=-\frac{3b}{a-b}$.
 
-## Exercise 8
+(8) $\frac{\left(x-y\right)^2+4xy}{x-y}\cdot\frac{\left(x+y\right)^2-4xy}{x+y}=\frac{\left(x+y\right)^2}{x-y}\cdot\frac{\left(x-y\right)^2}{x+y}=\left(x+y\right)\left(x-y\right)=x^2-y^2$. $\blacksquare$
 
-(Exercise 9.2, Problem 2) As shown in the figure, the four vertices of parallelogram $AOCB$ have coordinates $A\left(2,2\right)$, $O\left(0,0\right)$, $C\left(4,0\right)$, $B\left(6,2\right)$. Subtract $3$ from the x-coordinate of each of these four vertices and simultaneously add $1$ to the y-coordinate, obtaining points $A'$, $O'$, $C'$, $B'$ respectively. What is the relationship between quadrilateral $A'O'C'B'$ and parallelogram $AOCB$?
+## Review Problem 4
 
-### Solution to Exercise 8
+(Review Problems, Review and Consolidation, Problem 4) Solve the following equations:
 
-By Representing Translation with Coordinates, subtracting $3$ from every x-coordinate is equivalent to translating the figure left by $3$ units of length, and adding $1$ to every y-coordinate is equivalent to translating it up by $1$ unit of length.
+(1) $\frac{5 x+2}{x^2+x}=\frac{3}{x+1}$;
 
-Compute the corresponding points: $A'\left(2-3,2+1\right)=\left(-1,3\right)$, $O'\left(0-3,0+1\right)=\left(-3,1\right)$, $C'\left(4-3,0+1\right)=\left(1,1\right)$, $B'\left(6-3,2+1\right)=\left(3,3\right)$.
+(2) $\frac{2 x}{2 x-5}-\frac{2}{2 x+5}=1$.
 
-Quadrilateral $A'O'C'B'$ has exactly the same size and shape as parallelogram $AOCB$, and can be regarded as obtained by translating $AOCB$ left by $3$ units of length and then up by $1$ unit of length. $\blacksquare$
+### Solution to Review Problem 4
 
-## Exercise 9
+(1) Multiply by $x\left(x+1\right)$: $5x+2=3x$, $2x=-2$, $x=-1$. Checking $x+1=0$, the original equation has no solution.
 
-(Exercise 9.2, Problem 3) The three vertices of triangle $ABC$ have coordinates $A\left(-3,2\right)$, $B\left(1,1\right)$, $C\left(-1,-2\right)$. If triangle $ABC$ is translated so that point $A$ moves to point $\left(1,-2\right)$, write down one way of translating triangle $ABC$ along the coordinate-axis directions, and the coordinates of the corresponding points of $B$ and $C$.
+(2) Multiply by $\left(2x-5\right)\left(2x+5\right)$: $2x\left(2x+5\right)-2\left(2x-5\right)=\left(2x-5\right)\left(2x+5\right)$, $4x^2+10x-4x+10=4x^2-25$, $6x=-35$, $x=-\frac{35}{6}$. The check holds. $\blacksquare$
 
-### Solution to Exercise 9
+## Review Problem 5
 
-From $A\left(-3,2\right)\to\left(1,-2\right)$, the x-coordinate changes by $1-\left(-3\right)=4$ (add $4$), and the y-coordinate changes by $-2-2=-4$ (subtract $4$). Thus the triangle is first translated right by $4$ units of length, then down by $4$ units of length.
+(Review Problems, Comprehensive Application, Problem 5) Under what conditions on $x$ are the following expressions meaningful?
 
-By Representing Translation with Coordinates, add $4$ to the x-coordinate and subtract $4$ from the y-coordinate of all points: $B\left(1,1\right)\to\left(5,-3\right)$, $C\left(-1,-2\right)\to\left(3,-6\right)$.
+(1) $\frac{x-2}{2 x+1}-\frac{1}{x-2}$;
 
-That is, the corresponding point of $B$ is $\left(5,-3\right)$, and the corresponding point of $C$ is $\left(3,-6\right)$. $\blacksquare$
+(2) $\frac{3 x}{x+2}\div\frac{x-2}{2 x-3}$.
 
-## Problem 1
+### Solution to Review Problem 5
 
-(Exercise 9.2, Review and Consolidation, Problem 1) As shown in the figure, a robotic arm must move a workpiece from point $A$ to point $B$ in the figure, but the workpiece must not touch the obstacle in the figure. Use coordinates to write a route that the robotic arm might take during movement.
+All denominators and divisors are not $0$.
 
-### Solution to Problem 1
+(1) $2x+1\ne0$, $x-2\ne0$, i.e. $x\ne-\frac12$ and $x\ne2$.
 
-By Representing Translation with Coordinates and Coordinates of a Point, the robotic arm can only move along the coordinate-axis directions (grid lines). Starting from $A$, first move along the $x$-axis direction to some safe vertical line on one side of the obstacle, then along the $y$-axis direction to the same horizontal line as $B$, and finally along the $x$-axis direction to reach $B$. Write down the coordinates of each turning point on this polyline, ensuring it does not pass through the grids occupied by the obstacle. $\blacksquare$
+(2) $x+2\ne0$, $x-2\ne0$, $2x-3\ne0$, i.e. $x\ne-2,2,\frac32$. $\blacksquare$
 
-## Problem 2
+## Review Problem 6
 
-(Exercise 9.2, Review and Consolidation, Problem 2) The figure is a schematic diagram of a school. Establish an appropriate rectangular coordinate system and use coordinates to represent the positions of the teaching building, library, school gate, laboratory building, and flagpole.
+(Review Problems, Comprehensive Application, Problem 6) (1) For what value of $x$ is the value of the fraction $\frac{3x-6}{2x+1}$ equal to $0$?
 
-### Solution to Problem 2
+(2) For what value of $x$ is the value of the fraction $\frac{2x+1}{x^2}$ positive?
 
-By Representing Geographic Locations with Coordinates, choose the school gate (or flagpole) as the origin, east as the positive $x$-axis direction, north as the positive $y$-axis direction, and determine the unit length according to the scale. Measure the horizontal and vertical distances of each building relative to the origin, and write down the coordinates of the teaching building, library, school gate, laboratory building, and flagpole. $\blacksquare$
+(3) For what value of $x$ is the value of the fraction $\frac{x-2}{x^2}$ negative?
 
-## Problem 3
+### Solution to Review Problem 6
 
-(Exercise 9.2, Review and Consolidation, Problem 3) As shown in the figure, in an activity, Class $1$ at point $A$ is preparing to go to point $B$, $5\,km$ away, to meet Class $2$ at point $B$. How to describe the position of Class $2$ relative to Class $1$ using direction and distance? Conversely, how to describe the position of Class $1$ relative to Class $2$ using direction and distance?
+(1) The numerator $3x-6=0$ and the denominator $2x+1\ne0$, giving $x=2$.
 
-### Solution to Problem 3
+(2) $x^2> 0$ (always true, $x\ne0$), requiring $2x+1> 0$, i.e. $x> -\frac12$ and $x\ne0$.
 
-By Representing Geographic Locations with Coordinates, describe using a direction angle and a distance. Taking Class $1$ at $A$ as the observation point, the angles in the figure show that $B$ is in the direction north by east $40^\circ$ (or the corresponding direction) of $A$, $5\,km$ away; thus the position of Class $2$ relative to Class $1$ is north by east $40^\circ$, $5\,km$.
+(3) $x^2> 0$ ($x\ne0$), requiring $x-2< 0$, i.e. $x< 2$ and $x\ne0$. $\blacksquare$
 
-Conversely, the direction is reversed and the distance is unchanged: the position of Class $1$ relative to Class $2$ is south by west $40^\circ$, $5\,km$. $\blacksquare$
+## Review Problem 7
 
-## Problem 4
+(Review Problems, Comprehensive Application, Problem 7) Under what circumstances are the values of $2\left(x+1\right)^{-1}$ and $3\left(x-2\right)^{-1}$ equal?
 
-(Exercise 9.2, Review and Consolidation, Problem 4) As shown in the figure, in a flying display, $6$ planes $A$, $B$, $C$, $D$, $E$, $F$ fly in formation while keeping the formation unchanged. Write down their coordinates respectively. When plane $A$ flies to position $A'$, where do planes $B$, $C$, $D$, $E$, $F$ fly to? Use coordinates to represent the new positions of these $6$ planes.
+### Solution to Review Problem 7
 
-The figure shows a Cartesian coordinate plane with six planes at positions $A\left(1,1\right)$, $B\left(-3,1\right)$, $C\left(-1,-1\right)$, $D\left(-5,1\right)$, $E\left(-2,-2\right)$, $F\left(1,-3\right)$.
+$$\frac{2}{x+1}=\frac{3}{x-2}.$$
 
-### Solution to Problem 4
+$2\left(x-2\right)=3\left(x+1\right)$, $2x-4=3x+3$, $x=-7$. Checking $x+1\ne0$, $x-2\ne0$, holds. Hence the two expressions are equal when $x=-7$. $\blacksquare$
 
-By Coordinates of a Point, read off the initial coordinates of the planes:
+## Review Problem 8
 
-$$
-A\left(1,1\right),\ B\left(-3,1\right),\ C\left(-1,-1\right),\ D\left(-5,1\right),\ E\left(-2,-2\right),\ F\left(1,-3\right).
-$$
+(Review Problems, Comprehensive Application, Problem 8) (1) First simplify, then evaluate: $\frac{x^2-1}{x^2-2x+1}\div\frac{x+1}{x-1}\cdot\frac{1-x}{1+x}$, where $x=\frac12$;
 
-$A$ flies to $A'\left(4,3\right)$; the translation vector is $\left(4-1,\,3-1\right)=\left(3,2\right)$, i.e. the whole formation is translated right by $3$ units and up by $2$ units.
+(2) When $x=-3.2$, find the value of $\frac{x^2-4x+4}{x^2-4}\div\frac{x-2}{x^2+2x+3}$.
 
-By Representing Translation with Coordinates, add $3$ to the x-coordinate and $2$ to the y-coordinate of each plane:
+### Solution to Review Problem 8
 
-$$
-A'\left(4,3\right),\ B'\left(0,3\right),\ C'\left(2,1\right),\ D'\left(-2,3\right),\ E'\left(1,0\right),\ F'\left(4,-1\right).
-$$
+(1) $\frac{\left(x+1\right)\left(x-1\right)}{\left(x-1\right)^2}\cdot\frac{x-1}{x+1}\cdot\frac{1-x}{1+x}=\frac{1-x}{1+x}$. Substituting $x=\frac12$, we get $\frac{1-\frac12}{1+\frac12}=\frac13$.
+
+(2) $\frac{\left(x-2\right)^2}{\left(x+2\right)\left(x-2\right)}\cdot\frac{x^2+2x+3}{x-2}=\frac{x^2+2x+3}{x+2}$. Substituting $x=-3.2$, we get $\frac{10.24-6.4+3}{-1.2}=\frac{6.84}{-1.2}=-5.7$. $\blacksquare$
+
+## Review Problem 9
+
+(Review Problems, Comprehensive Application, Problem 9) A factory now produces $50$ more machines per day on average than originally planned; the time required to produce $600$ machines now equals the time required to produce $450$ machines under the original plan. How many machines are produced per day on average now?
+
+### Solution to Review Problem 9
+
+Let the current daily production be $x$ machines; the original plan was $\left(x-50\right)$ machines.
+
+$$\frac{600}{x}=\frac{450}{x-50}.$$
+
+$600\left(x-50\right)=450x$, $600x-30000=450x$, $150x=30000$, $x=200$. The check holds.
+
+Hence the current average daily production is $200$ machines. $\blacksquare$
+
+## Review Problem 10
+
+(Review Problems, Comprehensive Application, Problem 10) The work efficiency of one harvester is equivalent to $150$ times that of one farmer; using this machine to harvest $10\ \text{hm}^2$ of wheat takes $1\ \text{h}$ less than $100$ farmers harvesting this wheat by hand. How many hectares of wheat does this harvester harvest per hour?
+
+### Solution to Review Problem 10
+
+Let a farmer harvest $x\ \text{hm}^2$ per hour; the harvester is $150x$.
+
+$$\frac{10}{100x}-\frac{10}{150x}=1.$$
+
+$$\frac{1}{10x}-\frac{1}{15x}=1,\quad \frac{3-2}{30x}=1,\quad x=\frac{1}{30}.$$
+
+The harvester harvests $150x=5\ \text{hm}^2$ per hour. $\blacksquare$
+
+## Review Problem 11
+
+(Review Problems, Comprehensive Application, Problem 11) A car heads toward a destination $180\ \text{km}$ from its starting point; in the first hour after departure it travels at the originally planned constant speed, and after one hour it travels at $1.5$ times the original constant speed, arriving at the destination $40\ \text{min}$ earlier than originally planned. Find the speed in the first hour.
+
+### Solution to Review Problem 11
+
+Let the speed in the first hour be $x\ \text{km/h}$. The planned time is $\frac{180}{x}$. The actual time is $1+\frac{180-x}{1.5x}$. It is $\frac{2}{3}\ \text{h}$ early:
+
+$$\frac{180}{x}-\left(1+\frac{180-x}{1.5x}\right)=\frac23.$$
+
+$$\frac{180}{x}-1-\frac{120}{x}+\frac{2}{3}=\frac23,\quad \frac{60}{x}-1=0,\quad x=60.$$
+
+The check holds. Hence the speed in the first hour is $60\ \text{km/h}$. $\blacksquare$
+
+## Review Problem 12
+
+(Review Problems, Extension and Exploration, Problem 12) As shown in the figure, the semicircular tracks at the two ends of a sports field have outer diameter $R$ and inner diameter $r$; the middle is a straight track, and the total area of the whole track is $S$. Use an expression containing $S,R,r$ to represent the length $a$ of the straight track.
+
+The figure shows a top-view schematic of a standard oval sports-field track: the two ends are semicircular curves with outer radius $R$ and inner radius $r$; the two middle parallel straight sections each have length $a$, and the width of each straight section is $R-r$.
+
+### Solution to Review Problem 12
+
+The two semicircles together form an annulus with area $\pi\left(R^2-r^2\right)$; the two straight tracks have area $2a\left(R-r\right)$ (each of width $R-r$). The total area is
+
+$$S=\pi\left(R^2-r^2\right)+2a\left(R-r\right)=\left(R-r\right)\left[\pi\left(R+r\right)+2a\right].$$
+
+Solving gives
+
+$$a=\frac{\frac{S}{R-r}-\pi\left(R+r\right)}{2}.$$
 
 $\blacksquare$
 
-## Problem 5
+## Review Problem 13
 
-(Exercise 9.2, Review and Consolidation, Problem 5) As shown in the figure, translate parallelogram $ABCD$ to the left by $2$ units of length, then up by $3$ units of length, to obtain parallelogram $A'B'C'D'$. Draw the translated figure and indicate the coordinates of each vertex.
+(Review Problems, Extension and Exploration, Problem 13) (1) Can the value of the expression $\frac{a}{bc}+\frac{b}{ca}+\frac{c}{ab}$ be $0$? Why?
 
-The figure shows parallelogram $ABCD$ in a Cartesian coordinate plane, with vertices $A\left(-2,-2\right)$, $B\left(2,-2\right)$, $C\left(3,2\right)$, $D\left(-1,2\right)$.
+(2) Can the value of the expression $\frac{a-b}{\left(b-c\right)\left(c-a\right)}+\frac{b-c}{\left(a-b\right)\left(c-a\right)}+\frac{c-a}{\left(a-b\right)\left(b-c\right)}$ be $0$? Why?
 
-### Solution to Problem 5
+### Solution to Review Problem 13
 
-By Coordinates of a Point, read off the coordinates of the vertices of parallelogram $ABCD$: $A\left(-2,-2\right)$, $B\left(2,-2\right)$, $C\left(3,2\right)$, $D\left(-1,2\right)$.
+(1) Finding a common denominator: $\frac{a^2+b^2+c^2}{abc}$. For the value to be $0$, we need $a^2+b^2+c^2=0$, i.e. $a=b=c=0$, which contradicts the denominator $abc\ne0$. Hence it cannot be $0$.
 
-By Representing Translation with Coordinates, translating left by $2$ units subtracts $2$ from every x-coordinate, and translating up by $3$ units adds $3$ to every y-coordinate:
+(2) Finding a common denominator, with common denominator $\left(a-b\right)\left(b-c\right)\left(c-a\right)$:
 
-$$
-A'\left(-4,1\right),\ B'\left(0,1\right),\ C'\left(1,5\right),\ D'\left(-3,5\right).
-$$
+The numerator $=\left(a-b\right)^2+\left(b-c\right)^2+\left(c-a\right)^2$. For the value to be $0$, we need $a=b=c$, which contradicts the denominator not being $0$. Hence it cannot be $0$. $\blacksquare$
 
-Connecting them in order gives the translated parallelogram $A'B'C'D'$. $\blacksquare$
+## Exercise 1
 
-## Problem 6
+(Exercise 19.1, Problem 1)
 
-(Exercise 9.2, Comprehensive Application, Problem 6) As shown in the figure, a rectangular coordinate system is established to label a leaf specimen. If the coordinates of point $A$ representing the "base" of the petiole are $\left(-1,-2\right)$ and the coordinates of point $B$ representing the "tip" of the leaf blade are $\left(2,6\right)$, write down the coordinates of points $C$, $D$, $E$, $F$ in the figure.
+To draw a rectangle with area \(18\ \text{cm}^{2}\) such that the ratio of its length to its width is \(3:2\), what should its length and width be?
 
-### Solution to Problem 6
+Let the length of the rectangle be \(3k\) and the width be \(2k\) (\(k> 0\)).
 
-Determine the coordinate system from $A\left(-1,-2\right)$, $B\left(2,6\right)$: the x-coordinate difference is $2-\left(-1\right)=3$, the y-coordinate difference is $6-\left(-2\right)=8$, and the unit length is determined by the number of square grids. By Coordinates of a Point, read off the coordinates of $C$, $D$, $E$, $F$ according to the grids of each point relative to $A$, $B$. $\blacksquare$
-
-## Problem 7
-
-(Exercise 9.2, Comprehensive Application, Problem 7) The dimensions (unit: $mm$) of a rectangular part are as shown in the figure. Establish an appropriate rectangular coordinate system and use coordinates to represent the positions of points $A$, $B$, $C$, $D$, $E$, $F$, $G$.
-
-### Solution to Problem 7
-
-By Representing Geographic Locations with Coordinates, choose one corner point of the part as the origin and take the lines on which the two sides lie as the $x$-axis and $y$-axis. According to the dimensions marked in the figure (total length $38$, width $24$, circular-hole radius $r=4$, etc.), compute the horizontal and vertical distances of each vertex relative to the origin, and write down the coordinates of $A$, $B$, $C$, $D$, $E$, $F$, $G$ (unit: $mm$). $\blacksquare$
-
-## Problem 8
-
-(Exercise 9.2, Comprehensive Application, Problem 8) As shown in the figure, when making animated cartoons, translation of figures is often used. The fawn goes from point $A$ to $B$, then to $C$, then to $D$. In each of these stages, what kind of translation took place?
-
-### Solution to Problem 8
-
-By Representing Translation with Coordinates, compare the coordinate changes of corresponding points of the fawn between two adjacent positions. An increase in x-coordinate means translating right, a decrease means translating left; an increase in y-coordinate means translating up, a decrease means translating down. Read off the changes in x- and y-coordinates for each segment $A\to B$, $B\to C$, $C\to D$; this gives the direction and distance of each translation. $\blacksquare$
-
-## Problem 9
-
-(Exercise 9.2, Comprehensive Application, Problem 9) As shown in the figure, in the rectangular coordinate system, the vertices $A$, $B$ of triangle $ABC$ have coordinates $A\left(3,6\right)$, $B\left(-3,3\right)$. Triangle $ABC$ is translated to obtain triangle $CDE$, so that point $A$ is translated to point $C$. Then what are the coordinates of point $E$, the corresponding point after point $C$ is translated?
-
-### Solution to Problem 9
-
-Read off from the figure that point $C$ has coordinates $\left(5,-3\right)$. The translation moves $A\left(3,6\right)$ to $C\left(5,-3\right)$; the translation vector is
+By Basic Knowledge, the area of a rectangle is length times width, so
 
 $$
-\left(5-3,\,-3-6\right)=\left(2,-9\right),
+3k\cdot 2k=18,\quad 6k^{2}=18,\quad k^{2}=3.
 $$
 
-i.e. translate right by $2$ units of length and down by $9$ units of length.
+By Basic Knowledge, the positive number \(k\) satisfies \(k=\sqrt{3}\).
 
-By Representing Translation with Coordinates, add $2$ to the x-coordinate and subtract $9$ from the y-coordinate of all points. The corresponding point of point $C\left(5,-3\right)$ after translation is $E=\left(5+2,\,-3-9\right)=\left(7,-12\right)$.
+Therefore the length is \(3\sqrt{3}\ \text{cm}\) and the width is \(2\sqrt{3}\ \text{cm}\).
 
-That is, the coordinates of $E$ are $\left(7,-12\right)$. $\blacksquare$
+\(\blacksquare\)
 
-## Problem 10
+(Exercise 19.1, Problem 2)
 
-(Exercise 9.2, Extension and Exploration, Problem 10) As shown in the figure, this is part of a schematic diagram of a zoo drawn using a rectangular coordinate system. If this rectangular coordinate system takes due east and due north as the positive directions of the $x$-axis and $y$-axis respectively, and the coordinates of Monkey Mountain and Lion-Tiger Hill are $\left(2,1\right)$ and $\left(8,2\right)$ respectively, can you mark the position of the Panda House $\left(6,6\right)$ on this figure?
+Under what conditions on \(a\) are the following expressions meaningful within the set of real numbers?
 
-The figure shows a partial map of a zoo, marking Monkey Hill at $\left(2,1\right)$ and Lion-Tiger Hill at $\left(8,2\right)$.
+(1) \(\sqrt{a-1}\);　(2) \(\sqrt{5-a}\);　(3) \(\sqrt{2a^{2}+1}\).
 
-### Solution to Problem 10
+By Basic Knowledge, a quadratic radical is meaningful if and only if the radicand is nonnegative.
 
-Determine the coordinate system from Monkey Mountain $\left(2,1\right)$ and Lion-Tiger Hill $\left(8,2\right)$: the two points differ by $6$ horizontally and $1$ vertically; determine the unit length and locate the origin according to the grids in the figure. By Coordinates of a Point, for the Panda House $\left(6,6\right)$, take the x-coordinate $6$ on the $x$-axis and the y-coordinate $6$ on the $y$-axis; the intersection of the two perpendiculars is the position of the Panda House. $\blacksquare$
+(1) Setting \(a-1\ge 0\), we get \(a\ge 1\).
 
-## Problem 11
+(2) Setting \(5-a\ge 0\), we get \(a\le 5\).
 
-(Exercise 9.2, Extension and Exploration, Problem 11) As shown in the figure, triangle $COB$ is the figure obtained after triangle $AOB$ undergoes some transformation. Observe the relationship between the coordinates of point $A$ and its corresponding point $C$. An arbitrary point $M$ inside triangle $AOB$ has coordinates $\left(x,y\right)$; after point $M$ undergoes this transformation, point $N$ is obtained. What are the coordinates of point $N$?
+(3) For any real number \(a\), \(a^{2}\ge 0\), hence \(2a^{2}+1\ge 1> 0\), so \(a\) may be any real number.
 
-### Solution to Problem 11
+\(\blacksquare\)
 
-Read off from the figure the corresponding points $A\left(2,3\right)$ and $C\left(2,-3\right)$. Comparing them, they have the same x-coordinate and y-coordinates that are opposite numbers of each other. Thus this transformation is axial symmetry about the $x$-axis.
+(Exercise 19.1, Problem 3)
 
-By the coordinate rule for symmetry about the $x$-axis, after any point $M\left(x,y\right)$ is symmetric about the $x$-axis, its x-coordinate is unchanged and its y-coordinate changes sign, so $N\left(x,-y\right)$. $\blacksquare$
+When \(a=5\), the value of \(\sqrt{\frac{a-1}{2}}\) is \;_\_\;.
+
+Substituting \(a=5\) into the radicand, by Basic Knowledge, the radicand
+
+$$
+\frac{a-1}{2}=\frac{5-1}{2}=2\ge 0
+$$
+
+is meaningful.
+
+Hence the original expression \(=\sqrt{2}\).
+
+\(\blacksquare\)
+
+## Exercise 2
+
+(Exercise 19.1, Problem 1)
+
+Calculate:
+
+(1) \((\sqrt{3})^{2}\);　(2) \((3\sqrt{2})^{2}\).
+
+(1) By Basic Knowledge, \((\sqrt{3})^{2}=3\).
+
+(2) By Basic Knowledge and the power of a product,
+
+$$
+\left(3\sqrt{2}\right)^{2}=3^{2}\cdot\left(\sqrt{2}\right)^{2}=9\times 2=18.
+$$
+
+\(\blacksquare\)
+
+(Exercise 19.1, Problem 2)
+
+Simplify:
+
+(1) \(\sqrt{0.3^{2}}\);　(2) \(\sqrt{(-17)^{2}}\);　(3) \(-\sqrt{(-\pi)^{2}}\);　(4) \(\sqrt{10^{-2}}\).
+
+By Basic Knowledge, \(\sqrt{a^{2}}=|a|\).
+
+(1) \(\sqrt{0.3^{2}}=|0.3|=0.3\).
+
+(2) \(\sqrt{(-17)^{2}}=|-17|=17\).
+
+(3) \(-\sqrt{(-\pi)^{2}}=-|\pi|=-\pi\).
+
+(4) \(\sqrt{10^{-2}}=\sqrt{(10^{-1})^{2}}=|10^{-1}|=\frac{1}{10}\).
+
+\(\blacksquare\)
+
+## Problem 1
+
+(Exercise 19.1, Review and Consolidation, Problem 1)
+
+Under what conditions on \(a\) are the following expressions meaningful within the set of real numbers?
+
+(1) \(\sqrt{a+2}\);　(2) \(\sqrt{3-a}\);　(3) \(\sqrt{5a^{2}}\);　(4) \(\sqrt{2a+1}\).
+
+By Basic Knowledge, set each radicand to be nonnegative.
+
+(1) \(a+2\ge 0\), giving \(a\ge -2\).
+
+(2) \(3-a\ge 0\), giving \(a\le 3\).
+
+(3) Since \(a^{2}\ge 0\), \(5a^{2}\ge 0\) always holds, and \(a\) may be any real number.
+
+(4) \(2a+1\ge 0\), giving \(a\ge -\frac{1}{2}\).
+
+\(\blacksquare\)
+
+(Exercise 19.1, Review and Consolidation, Problem 2)
+
+Calculate:
+
+(1) \((\sqrt{5})^{2}\);　(2) \((-\sqrt{0.2})^{2}\);　(3) \(\left(\sqrt{\frac{3}{5}}\right)^{2}\);　(4) \((5\sqrt{5})^{2}\);　(5) \(\left(-7\sqrt{\frac{2}{7}}\right)^{2}\);　(6) \(\sqrt{(-10)^{2}}\);　(7) \(\sqrt{\left(-\frac{2}{3}\right)^{2}}\);　(8) \(-\sqrt{\left(-\frac{2}{5}\right)^{2}}\).
+
+Compute using Basic Knowledge and Basic Knowledge.
+
+(1) \((\sqrt{5})^{2}=5\).
+
+(2) \((-\sqrt{0.2})^{2}=(\sqrt{0.2})^{2}=0.2\).
+
+(3) \(\left(\sqrt{\frac{3}{5}}\right)^{2}=\frac{3}{5}\).
+
+(4) \((5\sqrt{5})^{2}=25\times 5=125\).
+
+(5) \(\left(-7\sqrt{\frac{2}{7}}\right)^{2}=49\times\frac{2}{7}=14\).
+
+(6) \(\sqrt{(-10)^{2}}=|-10|=10\).
+
+(7) \(\sqrt{\left(-\frac{2}{3}\right)^{2}}=\left|-\frac{2}{3}\right|=\frac{2}{3}\).
+
+(8) \(-\sqrt{\left(-\frac{2}{5}\right)^{2}}=-\frac{2}{5}\).
+
+\(\blacksquare\)
+
+(Exercise 19.1, Review and Consolidation, Problem 3)
+
+Express using algebraic expressions:
+
+(1) the radius of a circle with area \(S\);
+
+(2) the lengths of two adjacent sides of a rectangle with area \(S\) and with the ratio of the two adjacent sides equal to \(1:2\).
+
+(1) Let the circle's radius be \(r\). From the circle area formula \(S=\pi r^{2}\), we get \(r^{2}=\frac{S}{\pi}\).
+
+By Basic Knowledge, the positive number \(r=\sqrt{\frac{S}{\pi}}\).
+
+(2) Let the two adjacent side lengths be \(k\) and \(2k\) (\(k> 0\)). From the rectangle area \(S=k\cdot 2k=2k^{2}\), we get \(k^{2}=\frac{S}{2}\).
+
+By Basic Knowledge, \(k=\sqrt{\frac{S}{2}}\), so the two adjacent side lengths are \(\sqrt{\frac{S}{2}}\) and \(2\sqrt{\frac{S}{2}}\).
+
+\(\blacksquare\)
+
+(Exercise 19.1, Review and Consolidation, Problem 4)
+
+Using \(a=(\sqrt{a})^{2}\) (\(a\ge 0\)), write each of the following nonnegative numbers as the square of a nonnegative number:
+
+(1) \(5\);　(2) \(2.5\);　(3) \(\frac{1}{2}\);　(4) \(0\).
+
+By Basic Knowledge, every nonnegative number equals the square of its principal square root.
+
+(1) \(5=(\sqrt{5})^{2}\).
+
+(2) \(2.5=(\sqrt{2.5})^{2}\).
+
+(3) \(\frac{1}{2}=\left(\sqrt{\frac{1}{2}}\right)^{2}\).
+
+(4) \(0=(\sqrt{0})^{2}=0^{2}\).
+
+\(\blacksquare\)
+
+## Problem 2
+
+(Exercise 19.1, Comprehensive Application, Problem 5)
+
+It is known that the area of a large circle equals the sum of the areas of two small circles. If the radius of the large circle is \(r\), and the radii of the two small circles are \(2\) and \(3\) respectively, find the value of \(r\).
+
+From the circle area formula, the large circle's area is \(\pi r^{2}\), and the two small circles' areas are \(\pi\cdot 2^{2}\) and \(\pi\cdot 3^{2}\).
+
+According to the problem,
+
+$$
+\pi r^{2}=\pi\cdot 2^{2}+\pi\cdot 3^{2}=13\pi.
+$$
+
+Hence \(r^{2}=13\). By Basic Knowledge, the positive number \(r=\sqrt{13}\).
+
+\(\blacksquare\)
+
+(Exercise 19.1, Comprehensive Application, Problem 6)
+
+The area of \(\triangle ABC\) is \(12\), and the altitude to side \(AB\) is \(4\) times the length of \(AB\). Find the length of \(AB\).
+
+Let \(AB=x\); then the altitude to \(AB\) is \(4x\).
+
+From the triangle area formula,
+
+$$
+\frac{1}{2}\cdot x\cdot 4x=12,\quad 2x^{2}=12,\quad x^{2}=6.
+$$
+
+By Basic Knowledge, the positive number \(x=\sqrt{6}\), i.e. \(AB=\sqrt{6}\).
+
+\(\blacksquare\)
+
+(Exercise 19.1, Comprehensive Application, Problem 7)
+
+Under what conditions on \(x\) are the following expressions meaningful within the set of real numbers?
+
+(1) \(\sqrt{x^{2}+1}\);　(2) \(\sqrt{(x-1)^{2}}\);　(3) \(\sqrt{\frac{1}{x}}\);　(4) \(\frac{1}{\sqrt{x+1}}\).
+
+By Basic Knowledge, the radicand of a quadratic radical must be nonnegative; the denominator must also be nonzero.
+
+(1) Since \(x^{2}\ge 0\), \(x^{2}+1> 0\) always holds, and \(x\) may be any real number.
+
+(2) Since \((x-1)^{2}\ge 0\) always holds, \(x\) may be any real number.
+
+(3) We require \(\frac{1}{x}\ge 0\) and \(x\ne 0\), hence \(x> 0\).
+
+(4) We require \(x+1> 0\) (both the radicand nonnegative and the denominator nonzero), hence \(x> -1\).
+
+\(\blacksquare\)
+
+(Exercise 19.1, Comprehensive Application, Problem 8)
+
+A small ball falls freely from a height \(h\) (unit: \(\text{m}\)) above the ground, and the time it takes to reach the ground is \(t\) (unit: \(\text{s}\)). Experiment shows that \(h\) is directly proportional to \(t^{2}\), and when \(h=20\), \(t=2\). Express \(t\) using an algebraic expression containing \(h\), and find the time it takes the ball to reach the ground when \(h=10\) and when \(h=25\).
+
+Since \(h\) is directly proportional to \(t^{2}\), set \(h=kt^{2}\).
+
+Substituting \(h=20\) and \(t=2\), we get \(20=k\cdot 4\), hence \(k=5\), i.e. \(h=5t^{2}\).
+
+Hence \(t^{2}=\frac{h}{5}\). By Basic Knowledge, time is nonnegative, so
+
+$$
+t=\sqrt{\frac{h}{5}}.
+$$
+
+When \(h=10\), \(t=\sqrt{\frac{10}{5}}=\sqrt{2}\ \text{s}\).
+
+When \(h=25\), \(t=\sqrt{\frac{25}{5}}=\sqrt{5}\ \text{s}\).
+
+\(\blacksquare\)

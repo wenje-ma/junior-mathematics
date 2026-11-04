@@ -2,328 +2,424 @@
 
 ## Exercise 1
 
-(Exercise 5.1, Problem 1) Type A pencils cost $1.4$ yuan each, and type B pencils cost $1.8$ yuan each. With $23$ yuan, $15$ pencils of these two types were bought in total. How many pencils of each type were bought? (Just set up the equation.)
+(Exercise 8.2, Problem 2) Find the cube roots of the following numbers:
+
+(1) $-1$;　(2) $0.008$;　(3) $-\frac{64}{27}$.
 
 ### Solution to Exercise 1
 
-By Equation, set up the unknown and write the equation according to the equality relation.
+By Cube Root, find the number whose cube equals the given number.
 
-Let $x$ be the number of type A pencils bought; then $\left(15-x\right)$ type B pencils were bought. The type A pencils cost $1.4x$ yuan, and the type B pencils cost $1.8\left(15-x\right)$ yuan. According to the total cost of $23$ yuan, the equation is
+(1) $\because\left(-1\right)^3=-1$, $\therefore\sqrt\left[3\right]{-1}=-1$.
 
-$$1.4x+1.8\left(15-x\right)=23.$$
+(2) $\because 0.2^3=0.008$, $\therefore\sqrt\left[3\right]{0.008}=0.2$.
 
-$\blacksquare$
+(3) $\because\left(-\frac{4}{3}\right)^3=-\frac{64}{27}$, $\therefore\sqrt\left[3\right]{-\frac{64}{27}}=-\frac{4}{3}$. $\blacksquare$
 
 ## Exercise 2
 
-(Exercise 5.1, Problem 2) There are two cables; the first is $90\ \text{m}$ long and the second is $40\ \text{m}$ long. A section is to be cut from the first and attached to the second so that the two cables have equal lengths. Find the length of the section cut off. (Just set up the equation.)
+(Exercise 8.2, Problem 3) As shown in the figure, there is a Rubik's cube in the shape of a cube, with volume $216\,\text{cm}^3$. What is its edge length?
 
 ### Solution to Exercise 2
 
-By Equation, let the cut-off length be $x\ \text{m}$.
+Let the edge length be $x\,\text{cm}$; by the volume formula of a cube, $x^3=216$.
 
-After cutting, the first is $\left(90-x\right)\ \text{m}$ long and the second is $\left(40+x\right)\ \text{m}$ long. The two are equal, so the equation is
+By Cube Root, $x=\sqrt\left[3\right]{216}$. $\because 6^3=216$, $\therefore x=6$.
 
-$$90-x=40+x.$$
-
-$\blacksquare$
+That is, the edge length of the Rubik's cube is $6\,\text{cm}$. $\blacksquare$
 
 ## Exercise 3
 
-(Exercise 5.1, Problem 3) The area of an annular workpiece is $200\ \text{cm}^{2}$, and the radius of the outer large circle is $10\ \text{cm}$. What is the radius of the inner small circle in centimeters? (Just set up the equation.)
+(Exercise 8.2, Problem 1) Find the value of each of the following:
+
+(1) $\sqrt\left[3\right]{0.027}$;　(2) $\sqrt\left[3\right]{\left(-7\right)^3}$;　(3) $\sqrt\left[3\right]{-\frac{8}{27}}$.
 
 ### Solution to Exercise 3
 
-By Equation, let the radius of the inner small circle be $r\ \text{cm}$.
+By Relationship Between Cubing and Extracting Cube Roots and Cube Root of a Negative Number.
 
-The annulus area is the large circle area minus the small circle area: $\pi\cdot10^{2}-\pi r^{2}=200$. The equation is
+(1) $\because 0.3^3=0.027$, $\therefore\sqrt\left[3\right]{0.027}=0.3$.
 
-$$100\pi-\pi r^{2}=200.$$
+(2) By Relationship Between Cubing and Cube Root, $\sqrt\left[3\right]{\left(-7\right)^3}=-7$.
 
-$\blacksquare$
+(3) By Cube Root of a Negative Number, $\sqrt\left[3\right]{-\frac{8}{27}}=-\sqrt\left[3\right]{\frac{8}{27}}=-\frac{2}{3}$. $\blacksquare$
 
 ## Exercise 4
 
-(Exercise 5.1, Problem 1) Determine whether $x=2$ and $x=4$ are solutions of the equation $2x-3=5$.
+(Exercise 8.2, Problem 2) Use a calculator to find the value of each of the following:
+
+(1) $\sqrt\left[3\right]{6859}$;　(2) $\sqrt\left[3\right]{68921}$;　(3) $\sqrt\left[3\right]{0.028092}$ (keep three decimal places).
 
 ### Solution to Exercise 4
 
-By Solution of an Equation, substitute and check whether the left and right sides are equal.
+By Cube Root, use a calculator to find the cube root.
 
-When $x=2$, the left side $=2\times2-3=1$, the right side $=5$, and the left side $\ne$ the right side, so $x=2$ is not a solution of this equation.
+(1) $\because 19^3=6859$, $\therefore\sqrt\left[3\right]{6859}=19$.
 
-When $x=4$, the left side $=2\times4-3=5$, the right side $=5$, and the left side $=$ the right side, so $x=4$ is a solution of this equation. $\blacksquare$
+(2) $\because 41^3=68921$, $\therefore\sqrt\left[3\right]{68921}=41$.
+
+(3) Using a calculator, $\sqrt\left[3\right]{0.028092}\approx 0.304$. $\blacksquare$
 
 ## Exercise 5
 
-(Exercise 5.1, Problem 2) Which of the following equalities are equations? Which are linear equations in one variable?
+(Exercise 8.2, Problem 3) Between which two consecutive integers does each of the following numbers lie?
 
-(1) $2+3=3+2$;
-
-(2) $8y-9=9-y$;
-
-(3) $x^{2}+2x+1=4$.
+(1) $\sqrt\left[3\right]{7}$;　(2) $\sqrt\left[3\right]{99}$;　(3) $\sqrt\left[3\right]{635}$;　(4) $\sqrt\left[3\right]{-28}$.
 
 ### Solution to Exercise 5
 
-By Equation and Linear Equation in One Variable.
+Compare with cubes.
 
-(1) $2+3=3+2$ contains no unknown, so it is not an equation.
+(1) $\because 1^3=1< 7< 8=2^3$, $\therefore 1< \sqrt\left[3\right]{7}< 2$, lying between $1$ and $2$.
 
-(2) $8y-9=9-y$ contains the unknown $y$, so it is an equation; it contains only one unknown of degree $1$, so it is a linear equation in one variable.
+(2) $\because 4^3=64< 99< 125=5^3$, $\therefore 4< \sqrt\left[3\right]{99}< 5$, lying between $4$ and $5$.
 
-(3) $x^{2}+2x+1=4$ contains the unknown $x$, so it is an equation; but the degree of $x$ is $2$, so it is not a linear equation in one variable. $\blacksquare$
+(3) $\because 8^3=512< 635< 729=9^3$, $\therefore 8< \sqrt\left[3\right]{635}< 9$, lying between $8$ and $9$.
 
-## Exercise 6
-
-(Exercise 5.1, Problem 1) Fill in the blanks according to the properties of equality:
-
-(1) If $x=y$, then $x+1=y+\;\_\_\;$;
-
-(2) If $x+2=y+2$, then $\;\_\_\;=y$;
-
-(3) If $x=y$, then $\;\_\_\;\cdot x=5y$;
-
-(4) If $3x=6y$, then $x=\;\_\_\;\cdot y$.
-
-### Solution to Exercise 6
-
-By Properties of Equality 1 and Properties of Equality 2.
-
-(1) By property 1, add $1$ to both sides, so $x+1=y+1$; fill in $1$.
-
-(2) By property 1, subtract $2$ from both sides, so $x=y$; fill in $x$.
-
-(3) By property 2, multiply both sides by $5$, so $5x=5y$; fill in $5$.
-
-(4) By property 2, divide both sides by $3$, so $x=2y$; fill in $2$. $\blacksquare$
-
-## Exercise 7
-
-(Exercise 5.1, Problem 2) Use the properties of equality to solve the following equations and check:
-
-(1) $x-5=6$;
-
-(2) $0.3x=45$;
-
-(3) $5x+4=0$;
-
-(4) $2-\frac{1}{4}x=3$.
-
-### Solution to Exercise 7
-
-By Properties of Equality 1 and Properties of Equality 2, transform the equation step by step into the form $x=m$.
-
-(1) Add $5$ to both sides, giving $x=11$.
-
-(2) Divide both sides by $0.3$, giving $x=150$.
-
-(3) Subtract $4$ from both sides, giving $5x=-4$; divide both sides by $5$, giving $x=-\frac{4}{5}$.
-
-(4) Subtract $2$ from both sides, giving $-\frac{1}{4}x=1$; multiply both sides by $-4$, giving $x=-4$. $\blacksquare$
+(4) $\because\left(-4\right)^3=-64< -28< -27=\left(-3\right)^3$, $\therefore-4< \sqrt\left[3\right]{-28}< -3$, lying between $-4$ and $-3$. $\blacksquare$
 
 ## Problem 1
 
-(Problem 5.1, Review and Consolidation, Problem 1) Write equations to represent:
+(Exercise 8.2, Review and Consolidation, Problem 1) Find the value of each of the following:
 
-(1) The number that is $5$ greater than $a$ equals $8$;
-
-(2) One third of $b$ equals $9$;
-
-(3) The sum of $2$ times $x$ and $10$ equals $18$;
-
-(4) The difference between one third of $x$ and $y$ equals $6$;
-
-(5) The number that is $5$ greater than $3$ times $a$ equals $4$ times $a$;
-
-(6) The number that is $7$ less than half of $b$ equals the sum of $a$ and $b$.
+(1) $-\sqrt\left[3\right]{0.125}$;　(2) $-\sqrt\left[3\right]{729}$;　(3) $\sqrt\left[3\right]{-\frac{1}{8}}$.
 
 ### Solution to Problem 1
 
-By Equation, translate the verbal language into equations.
+By Cube Root of a Negative Number and Cube Root.
 
-(1) $a+5=8$.
+(1) $\because 0.5^3=0.125$, $\therefore\sqrt\left[3\right]{0.125}=0.5$, so $-\sqrt\left[3\right]{0.125}=-0.5$.
 
-(2) $\frac{1}{3}b=9$.
+(2) $\because 9^3=729$, $\therefore\sqrt\left[3\right]{729}=9$, so $-\sqrt\left[3\right]{729}=-9$.
 
-(3) $2x+10=18$.
-
-(4) $\frac{1}{3}x-y=6$.
-
-(5) $3a+5=4a$.
-
-(6) $\frac{1}{2}b-7=a+b$. $\blacksquare$
+(3) By Cube Root of a Negative Number, $\sqrt\left[3\right]{-\frac{1}{8}}=-\sqrt\left[3\right]{\frac{1}{8}}=-\frac{1}{2}$. $\blacksquare$
 
 ## Problem 2
 
-(Problem 5.1, Review and Consolidation, Problem 2) Set up equations according to the quantities marked in the figures:
+(Exercise 8.2, Review and Consolidation, Problem 2) Use a calculator to find the value of each of the following (keep three decimal places):
 
-(1) The total length of the line segment is $\left(x+2\right)+\left(x+3\right)=x+\left(x+1\right)$, and the perimeter is $14$;
-
-(2) The rectangle has length $x$, width $x-1$, and area $6$;
-
-(3) The large square has side length $x$, the small square has side length $3x$, and the perimeter relation is as shown.
+(1) $\sqrt\left[3\right]{5572}$;　(2) $-\sqrt\left[3\right]{\frac{11}{3}}$;　(3) $\pm\sqrt\left[3\right]{25.986558}$.
 
 ### Solution to Problem 2
 
-By Equation, set up equations according to the equality relations in the figures.
+By Cube Root, use a calculator.
 
-(1) The total length of the segment is $14$, and the sum of its parts is $\left(x+2\right)+\left(x+3\right)$, so $\left(x+2\right)+\left(x+3\right)=14$.
+(1) $\sqrt\left[3\right]{5572}\approx 17.727$.
 
-(2) The rectangle area is length times width: $x\left(x-1\right)=6$.
+(2) $\frac{11}{3}\approx 3.667$, $\sqrt\left[3\right]{3.667}\approx 1.542$, so $-\sqrt\left[3\right]{\frac{11}{3}}\approx-1.542$.
 
-(3) Figure (2) is an isosceles triangle with base angle $x^{\circ}$ and vertex angle $\left(3x\right)^{\circ}$. Since the sum of the interior angles of a triangle is $180^{\circ}$, the equation is
-
-$$x+x+3x=180.$$
-
-Figure (3) is a right triangle with legs $x$ and $\left(x-1\right)$, and area $6$. By the right-triangle area formula $\frac{1}{2}\times\text{底}\times\text{高}=6$, the equation is
-
-$$\frac{1}{2}x\left(x-1\right)=6.$$
-
-$\blacksquare$
+(3) $\sqrt\left[3\right]{25.986558}\approx 2.961$, so $\pm\sqrt\left[3\right]{25.986558}\approx\pm 2.961$. $\blacksquare$
 
 ## Problem 3
 
-(Problem 5.1, Review and Consolidation, Problem 3) Which of the following equations has $x=3$, $x=0$, and $x=-2$ as its respective solutions?
+(Exercise 8.2, Review and Consolidation, Problem 3) Compare the sizes of each group:
 
-(1) $5x+7=7-2x$;
-
-(2) $6x-8=8x-4$;
-
-(3) $3x-2=4+x$;
-
-(4) $2x-3=5x-6$.
+(1) $\sqrt\left[3\right]{7}$ and $2$;　(2) $\sqrt\left[3\right]{9}$ and $2.5$;　(3) $-\sqrt\left[3\right]{3}$ and $-\sqrt\left[3\right]{2}$.
 
 ### Solution to Problem 3
 
-By Solution of an Equation, substitute and check.
+The cube root increases as the radicand increases.
 
-(1) Substituting $x=0$: left side $=7$, right side $=7$, so $x=0$ is the solution of (1).
+(1) $\because 2^3=8> 7$, $\therefore\sqrt\left[3\right]{7}< \sqrt\left[3\right]{8}=2$, i.e. $\sqrt\left[3\right]{7}< 2$.
 
-(2) Substituting $x=-2$: left side $=-12-8=-20$, right side $=-16-4=-20$, so $x=-2$ is the solution of (2).
+(2) $\because 2.5^3=15.625> 9$, $\therefore\sqrt\left[3\right]{9}< \sqrt\left[3\right]{15.625}=2.5$, i.e. $\sqrt\left[3\right]{9}< 2.5$.
 
-(3) Substituting $x=3$: left side $=9-2=7$, right side $=4+3=7$, so $x=3$ is the solution of (3).
-
-(4) Substituting $x=1$ (a value not given): left side $=-1$, right side $=-1$; none of the three given values is a solution of (4). $\blacksquare$
+(3) $\because 3> 2$, $\therefore\sqrt\left[3\right]{3}> \sqrt\left[3\right]{2}$; taking opposites of both sides gives $-\sqrt\left[3\right]{3}< -\sqrt\left[3\right]{2}$. $\blacksquare$
 
 ## Problem 4
 
-(Problem 5.1, Review and Consolidation, Problem 4) Use the properties of equality to solve the following equations:
+(Exercise 8.2, Comprehensive Application, Problem 4) Find the value of $x$ in each of the following:
 
-(1) $x-4=29$;
-
-(2) $\frac{1}{2}x+2=6$;
-
-(3) $\frac{1}{3}x+1=4$;
-
-(4) $4x-2=2$.
+(1) $x^3=-0.064$;　(2) $x^3-3=\frac{3}{8}$;　(3) $\left(x+1\right)^3=8$.
 
 ### Solution to Problem 4
 
-By Transposition Rule and Combining Like Terms, transform the equation into the form $x=m$.
+By Cube Root.
 
-(1) Add $4$ to both sides, giving $x=33$.
+(1) $x=\sqrt\left[3\right]{-0.064}$. $\because 0.4^3=0.064$, $\therefore x=-0.4$.
 
-(2) Subtract $2$ from both sides, giving $\frac{1}{2}x=4$; multiply both sides by $2$, giving $x=8$.
+(2) $x^3=3+\frac{3}{8}=\frac{27}{8}$, $x=\sqrt\left[3\right]{\frac{27}{8}}=\frac{3}{2}$.
 
-(3) Subtract $1$ from both sides, giving $\frac{1}{3}x=3$; multiply both sides by $3$, giving $x=9$.
-
-(4) Add $2$ to both sides, giving $4x=4$; divide both sides by $4$, giving $x=1$. $\blacksquare$
+(3) $x+1=\sqrt\left[3\right]{8}=2$, so $x=1$. $\blacksquare$
 
 ## Problem 5
 
-(Problem 5.1, Comprehensive Application, Problem 5) Class (1) of Grade 7 in a school has $48$ students in total, and the number of girls is $3$ more than $\frac{4}{5}$ of the number of boys. How many boys are in this class? (Just set up the equation.)
+(Exercise 8.2, Comprehensive Application, Problem 5) Melt a cuboid iron block with length, width, and height of $21\,dm$, $20\,dm$, $19\,dm$ respectively and recast it into a cube iron block (ignoring loss). What is the edge length of this cube in decimeters (keep two decimal places)?
 
 ### Solution to Problem 5
 
-By Equation, let the number of boys be $x$.
+The volume of the cuboid is $21\times 20\times 19=7980\,dm^3$. When melted and recast into a cube, the volume is unchanged; let the edge length of the cube be $x\,dm$, then $x^3=7980$.
 
-The number of girls is $\frac{4}{5}x+3$, and the total is the sum of boys and girls. The equation is
+By Cube Root, $x=\sqrt\left[3\right]{7980}$. $\because 19^3=6859< 7980< 8000=20^3$, continue estimating: $19.98^3\approx 7976$. Thus $x\approx 19.98\,dm$.
 
-$$x+\frac{4}{5}x+3=48.$$
-
-$\blacksquare$
+That is, the edge length of the cube is about $19.98\,dm$. $\blacksquare$
 
 ## Problem 6
 
-(Problem 5.1, Comprehensive Application, Problem 6) A scholarship of $10000$ yuan is awarded to $20$ students in two prize categories; each first-prize student gets $800$ yuan, and each second-prize student gets $400$ yuan. How many students receive the first prize? (Just set up the equation.)
+(Exercise 8.2, Comprehensive Application, Problem 6) As shown in the figure, there is a cylindrical retractable bollard with volume $22600\,\text{cm}^3$; its height $h$ is $5.48$ times the base radius $r$. What is the base radius $r$ in centimeters? (Take $\pi$ as $3.14$, keep two decimal places.)
 
 ### Solution to Problem 6
 
-By Equation, let $x$ be the number of first-prize students.
+The volume of a cylinder is $V=\pi r^2 h$. From $h=5.48r$,
 
-There are $\left(20-x\right)$ second-prize students. The total scholarship is $800x+400\left(20-x\right)=10000$. The equation is
+$$
+V=\pi r^2\cdot 5.48r=5.48\pi r^3.
+$$
 
-$$800x+400\left(20-x\right)=10000.$$
+Substitute $V=22600$, $\pi=3.14$:
 
-$\blacksquare$
+$$
+r^3=\frac{22600}{5.48\times 3.14}=\frac{22600}{17.2072}\approx 1313.4.
+$$
+
+By Cube Root, $r=\sqrt\left[3\right]{1313.4}\approx 10.95$.
+
+That is, the base radius $r$ is about $10.95\,\text{cm}$. $\blacksquare$
 
 ## Problem 7
 
-(Problem 5.1, Comprehensive Application, Problem 7) Last year the per capita disposable income of residents in a town was $30438$ yuan, an increase of $6.8\%$ over the year before last. What was the per capita disposable income of this town's residents in the year before last? (Just set up the equation.)
+(Exercise 8.2, Comprehensive Application, Problem 7) If the volume of a cube is enlarged to $8$ times the original, by how many times does its edge length become? What if enlarged to $27$ times? What if to $n$ times?
 
 ### Solution to Problem 7
 
-By Equation, let the income in the year before last be $x$ yuan.
+Let the original cube have edge length $a$ and volume $a^3$.
 
-Last year's income is $x\left(1+6.8\%\right)$, i.e. $1.068x$. The equation is
+When the volume is enlarged to $8$ times the original, the new volume is $8a^3$ and the new edge length is $\sqrt\left[3\right]{8a^3}=2a$, i.e. the edge length becomes $2$ times the original.
 
-$$1.068x=30438.$$
+When the volume is enlarged to $27$ times the original, the new edge length is $\sqrt\left[3\right]{27a^3}=3a$, i.e. the edge length becomes $3$ times the original.
 
-$\blacksquare$
+When the volume is enlarged to $n$ times the original, the new edge length is $\sqrt\left[3\right]{n\,a^3}=a\sqrt\left[3\right]{n}$, i.e. the edge length becomes $\sqrt\left[3\right]{n}$ times the original. $\blacksquare$
 
 ## Problem 8
 
-(Problem 5.1, Comprehensive Application, Problem 8) A car has already traveled $12000\ \text{km}$, and it is planned to travel another $800\ \text{km}$ each month. After how many months will the total distance traveled by this car be $20800\ \text{km}$? (Just set up the equation.)
+(Exercise 8.2, Extension and Exploration, Problem 8)
+
+(1) Find the values of $\left(\sqrt\left[3\right]{0}\right)^3$, $\left(\sqrt\left[3\right]{8}\right)^3$, $\left(\sqrt\left[3\right]{-8}\right)^3$, $\left(\sqrt\left[3\right]{27}\right)^3$, $\left(\sqrt\left[3\right]{-27}\right)^3$. For any number $a$, what does $\left(\sqrt\left[3\right]{a}\right)^3$ equal?
+
+(2) Find the values of $\sqrt\left[3\right]{0^3}$, $\sqrt\left[3\right]{2^3}$, $\sqrt\left[3\right]{\left(-2\right)^3}$, $\sqrt\left[3\right]{\left(-3\right)^3}$, $\sqrt\left[3\right]{4^3}$. For any number $a$, what does $\sqrt\left[3\right]{a^3}$ equal?
 
 ### Solution to Problem 8
 
-By Equation, let the total distance be $20800\ \text{km}$ after $x$ months.
+(1) $\left(\sqrt\left[3\right]{0}\right)^3=0$, $\left(\sqrt\left[3\right]{8}\right)^3=8$, $\left(\sqrt\left[3\right]{-8}\right)^3=-8$, $\left(\sqrt\left[3\right]{27}\right)^3=27$, $\left(\sqrt\left[3\right]{-27}\right)^3=-27$. By Relationship Between Cubing and Extracting Cube Roots, for any number $a$,
 
-The total distance is the distance already traveled plus the distance traveled in $x$ months: $12000+800x=20800$. The equation is
+$$
+\left(\sqrt\left[3\right]{a}\right)^3=a.
+$$
 
-$$12000+800x=20800.$$
+(2) $\sqrt\left[3\right]{0^3}=0$, $\sqrt\left[3\right]{2^3}=2$, $\sqrt\left[3\right]{\left(-2\right)^3}=-2$, $\sqrt\left[3\right]{\left(-3\right)^3}=-3$, $\sqrt\left[3\right]{4^3}=4$. By Relationship Between Cubing and Cube Root, for any number $a$,
+
+$$
+\sqrt\left[3\right]{a^3}=a.
+$$
 
 $\blacksquare$
 
 ## Problem 9
 
-(Problem 5.1, Comprehensive Application, Problem 9) A cylindrical packaging box has height $12\ \text{cm}$ and surface area $108.5\pi\ \text{cm}^{2}$. What is the radius of its base in centimeters? (Just set up the equation.)
+(Exercise 8.2, Extension and Exploration, Problem 9) Arbitrarily pick a number, say $1234$, use a calculator to extract its cube root, then extract the cube root of the resulting cube root, and so on. What do you find?
 
 ### Solution to Problem 9
 
-By Equation, let the base radius be $r\ \text{cm}$.
+By the behavior of the cube root as the radicand changes, repeatedly extract cube roots of $1234$: $\sqrt\left[3\right]{1234}\approx 10.7$, then extract the cube root again $\approx 2.2$, then again $\approx 1.3$, then again $\approx 1.09$, … The result gradually approaches $1$.
 
-The cylinder surface area is the two base areas plus the lateral area: $2\pi r^{2}+2\pi r\cdot12=108.5\pi$. The equation is
+In general, repeatedly extracting cube roots of a number greater than $1$ gradually decreases the result toward $1$. $\blacksquare$
 
-$$2\pi r^{2}+24\pi r=108.5\pi.$$
+## Exercise 6
+
+(Exercise 8.3, Problem 1) True or false.
+
+(1) All non-terminating decimals are irrational numbers;
+
+(2) All irrational numbers are non-terminating decimals;
+
+(3) All numbers expressed with a radical sign are irrational numbers;
+
+(4) All rational numbers can be represented by points on the number line, and conversely, all points on the number line represent rational numbers;
+
+(5) All real numbers can be represented by points on the number line, and conversely, all points on the number line represent real numbers.
+
+### Solution to Exercise 6
+
+By Irrational Number and Real Numbers and the Number Line.
+
+(1) A non-terminating repeating decimal is a rational number, not an irrational number, so it is wrong.
+
+(2) An irrational number is a non-terminating non-repeating decimal, so it is certainly a non-terminating decimal; correct.
+
+(3) For example, $\sqrt 4=2$ is a rational number, so a number expressed with a radical sign is not necessarily an irrational number; wrong.
+
+(4) Points on the number line represent not only rational numbers but also irrational numbers, so it is wrong.
+
+(5) By Real Numbers and the Number Line, there is a one-to-one correspondence between real numbers and points on the number line; correct. $\blacksquare$
+
+## Exercise 7
+
+(Exercise 8.3, Problem 2) Among the square roots and cube roots of $0$, $1$, $2$, $3$, $4$, $5$, $6$, $7$, $8$, $9$, $10$, which are rational numbers and which are irrational numbers?
+
+### Solution to Exercise 7
+
+By Irrational Number, those whose root can be extracted exactly are rational numbers, and those whose root cannot be extracted exactly are irrational numbers.
+
+Square roots: $\sqrt 0=0$, $\sqrt 1=1$, $\sqrt 4=2$, $\sqrt 9=3$ are rational numbers; $\sqrt 2$, $\sqrt 3$, $\sqrt 5$, $\sqrt 6$, $\sqrt 7$, $\sqrt 8$, $\sqrt{10}$ are irrational numbers.
+
+Cube roots: $\sqrt\left[3\right] 0=0$, $\sqrt\left[3\right] 1=1$, $\sqrt\left[3\right] 8=2$ are rational numbers; $\sqrt\left[3\right] 2$, $\sqrt\left[3\right] 3$, $\sqrt\left[3\right] 4$, $\sqrt\left[3\right] 5$, $\sqrt\left[3\right] 6$, $\sqrt\left[3\right] 7$, $\sqrt\left[3\right] 9$, $\sqrt\left[3\right]{10}$ are irrational numbers. $\blacksquare$
+
+## Exercise 8
+
+(Exercise 8.3, Problem 3) Represent the following real numbers on the number line and compare their sizes (connected by "$< $"): $-2$, $\sqrt 2$, $\frac{3}{2}$, $-\pi$.
+
+The figure shows a number line with origin and positive direction marked; from left to right, four points are marked: $-\pi$ (about $-3.14$), $-2$, $\sqrt 2$ (about $1.414$), and $\frac{3}{2}=1.5$.
+
+### Solution to Exercise 8
+
+By Real Numbers and the Number Line, numbers to the right on the number line are larger than numbers to the left.
+
+Estimate the sizes: $-\pi\approx-3.14$, $-2$, $\sqrt 2\approx 1.414$, $\frac{3}{2}=1.5$. From left to right on the number line they are $-\pi$, $-2$, $\sqrt 2$, $\frac{3}{2}$.
+
+Thus
+
+$$
+-\pi< -2< \sqrt 2< \frac{3}{2}.
+$$
 
 $\blacksquare$
+
+## Exercise 9
+
+(Exercise 8.3, Problem 1) Find the opposite number and absolute value of each of the following: $\sqrt{13}$, $-\sqrt 7$, $-\frac{\pi}{2}$, $1.4-\sqrt 2$, $\frac{\sqrt 5-1}{2}$, $0$.
+
+### Solution to Exercise 9
+
+By Opposite Numbers and Absolute Value, the opposite number is $-a$; for the absolute value, a positive number takes itself and a negative number takes its opposite.
+
+$\sqrt{13}$: opposite number $-\sqrt{13}$, absolute value $\sqrt{13}$.
+
+$-\sqrt 7$: opposite number $\sqrt 7$, absolute value $\sqrt 7$.
+
+$-\frac{\pi}{2}$: opposite number $\frac{\pi}{2}$, absolute value $\frac{\pi}{2}$.
+
+$1.4-\sqrt 2\approx 1.4-1.414< 0$: opposite number $\sqrt 2-1.4$, absolute value $\sqrt 2-1.4$.
+
+$\frac{\sqrt 5-1}{2}\approx\frac{2.236-1}{2}> 0$: opposite number $\frac{1-\sqrt 5}{2}$, absolute value $\frac{\sqrt 5-1}{2}$.
+
+$0$: opposite number $0$, absolute value $0$. $\blacksquare$
+
+## Exercise 10
+
+(Exercise 8.3, Problem 2) Compute:
+
+(1) $2\sqrt 5-3\sqrt 5$;　(2) $3\sqrt 3-\left|1-\sqrt\left[3\right]{3}\right|$.
+
+### Solution to Exercise 10
+
+By Opposite Number and Absolute Value, the operation rules for rational numbers apply to real numbers.
+
+(1) By the distributive law, $2\sqrt 5-3\sqrt 5=\left(2-3\right)\sqrt 5=-\sqrt 5$.
+
+(2) $\because\sqrt\left[3\right]{3}\approx 1.442> 1$, $\therefore 1-\sqrt\left[3\right]{3}< 0$, so $\left|1-\sqrt\left[3\right]{3}\right|=\sqrt\left[3\right]{3}-1$. Hence
+
+$$
+3\sqrt 3-\left|1-\sqrt\left[3\right]{3}\right|=3\sqrt 3-\left(\sqrt\left[3\right]{3}-1\right)=3\sqrt 3-\sqrt\left[3\right]{3}+1.
+$$
+
+$\blacksquare$
+
+## Exercise 11
+
+(Exercise 8.3, Problem 3) Compute (keep two decimal places):
+
+(1) $\sqrt{17}+\sqrt{22}$;　(2) $\sqrt\left[3\right]{6}-\sqrt 6$.
+
+### Solution to Exercise 11
+
+Replace the irrational numbers with approximate finite decimals, compute, then round.
+
+(1) $\sqrt{17}\approx 4.123$, $\sqrt{22}\approx 4.690$, so $\sqrt{17}+\sqrt{22}\approx 4.123+4.690=8.81$.
+
+(2) $\sqrt\left[3\right]{6}\approx 1.817$, $\sqrt 6\approx 2.449$, so $\sqrt\left[3\right]{6}-\sqrt 6\approx 1.817-2.449=-0.63$. $\blacksquare$
 
 ## Problem 10
 
-(Problem 5.1, Comprehensive Application, Problem 10) All the students in Class (1) of Grade 7 donated $428$ yuan, and each student in Class (2) of Grade 7 donated an average of $10$ yuan; the donation of Class (1) is $22$ yuan less than that of Class (2). How many students are in Class (2)? (Just set up the equation.)
+(Exercise 8.3, Review and Consolidation, Problem 1) Among the following numbers, which are rational numbers and which are irrational numbers?
+
+$3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $-\sqrt 6$, $\sqrt{36}$, $\sqrt\left[3\right]{5}$, $\sqrt\left[3\right]{125}$.
 
 ### Solution to Problem 10
 
-By Equation, let Class (2) have $x$ students.
+By Irrational Number, a finite decimal or a non-terminating repeating decimal is a rational number, and a non-terminating non-repeating decimal is an irrational number.
 
-The total donation of Class (2) is $10x$ yuan, and the donation of Class (1) is $22$ yuan less than that of Class (2), i.e. $10x-22=428$. The equation is
+$3.14$ is a finite decimal, rational; $-\frac{22}{7}$ is a fraction, rational; $\sqrt{\frac{3}{3}}=\sqrt 1=1$, rational; $-\sqrt 6$ is a non-terminating non-repeating decimal whose root cannot be extracted, irrational; $\sqrt{36}=6$, rational; $\sqrt\left[3\right]{5}$ is a non-terminating non-repeating decimal, irrational; $\sqrt\left[3\right]{125}=5$, rational.
 
-$$10x-22=428.$$
-
-$\blacksquare$
+Thus the rational numbers are $3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $\sqrt{36}$, $\sqrt\left[3\right]{125}$; the irrational numbers are $-\sqrt 6$, $\sqrt\left[3\right]{5}$. $\blacksquare$
 
 ## Problem 11
 
-(Problem 5.1, Extension and Exploration, Problem 11) The units digit of a two-digit number is $1$, and the tens digit is $x$. Swap $1$ and $x$; the new two-digit number is $18$ less than the original. What is the value of $x$?
+(Exercise 8.3, Review and Consolidation, Problem 2) Represent the following real numbers on the number line and compare their sizes (connected by "$< $"): $-\frac{1}{3}$, $-1.5$, $\sqrt{2^2}$, $\left|-3\right|$.
 
 ### Solution to Problem 11
 
-By Equation and Solution of an Equation, set up the equation and solve it.
+Simplify: $\sqrt{2^2}=2$, $\left|-3\right|=3$. The numbers are $-\frac{1}{3}\approx-0.33$, $-1.5$, $2$, $3$.
 
-The original two-digit number is $10x+1$, and after swapping it is $10+x$. Since the new number is $18$ less than the original, the equation is
+By Real Numbers and the Number Line, values increase from left to right on the number line, so
 
-$$\left(10x+1\right)-\left(10+x\right)=18.$$
+$$
+-1.5< -\frac{1}{3}< \sqrt{2^2}< \left|-3\right|.
+$$
 
-Simplifying gives $9x-9=18$, i.e. $9x=27$, so $x=3$. $\blacksquare$
+$\blacksquare$
+
+## Problem 12
+
+(Exercise 8.3, Review and Consolidation, Problem 3) Find the absolute value of each of the following: $\sqrt\left[3\right]{-8}$, $\sqrt{17}$, $-\sqrt{\frac{2}{3}}$, $\sqrt\left[3\right]{3}-2$, $1-\sqrt\left[3\right]{2}$.
+
+### Solution to Problem 12
+
+By Absolute Value, a positive number's absolute value is itself, and a negative number's is its opposite.
+
+$\sqrt\left[3\right]{-8}=-2$, whose absolute value is $2$.
+
+$\sqrt{17}> 0$, whose absolute value is $\sqrt{17}$.
+
+$-\sqrt{\frac{2}{3}}< 0$, whose absolute value is $\sqrt{\frac{2}{3}}$.
+
+$\sqrt\left[3\right]{3}\approx 1.442< 2$, so $\sqrt\left[3\right]{3}-2< 0$, whose absolute value is $2-\sqrt\left[3\right]{3}$.
+
+$\sqrt\left[3\right]{2}\approx 1.26> 1$, so $1-\sqrt\left[3\right]{2}< 0$, whose absolute value is $\sqrt\left[3\right]{2}-1$. $\blacksquare$
+
+## Problem 13
+
+(Exercise 8.3, Review and Consolidation, Problem 4) Compute (keep two decimal places):
+
+(1) $\pi-\sqrt{10}$;　(2) $\sqrt\left[3\right]{2}-\sqrt 2$.
+
+### Solution to Problem 13
+
+Compute with approximate values, then round.
+
+(1) $\pi\approx 3.142$, $\sqrt{10}\approx 3.162$, so $\pi-\sqrt{10}\approx 3.142-3.162=-0.02$.
+
+(2) $\sqrt\left[3\right]{2}\approx 1.260$, $\sqrt 2\approx 1.414$, so $\sqrt\left[3\right]{2}-\sqrt 2\approx 1.260-1.414=-0.15$. $\blacksquare$
+
+## Problem 14
+
+(Exercise 8.3, Review and Consolidation, Problem 5) Compute:
+
+(1) $2\left(\sqrt 6-\sqrt 7\right)-\left|2\sqrt 6-\sqrt 7\right|$;　(2) $\left(-\sqrt 2\right)^2+\left(-\sqrt\left[3\right]{2}\right)^3$.
+
+### Solution to Problem 14
+
+By Opposite Number and Absolute Value and the operations of squaring and cubing.
+
+(1) $\because 2\sqrt 6\approx 4.899> \sqrt 7\approx 2.646$, $\therefore 2\sqrt 6-\sqrt 7> 0$, so $\left|2\sqrt 6-\sqrt 7\right|=2\sqrt 6-\sqrt 7$. Hence
+
+$$
+2\left(\sqrt 6-\sqrt 7\right)-\left(2\sqrt 6-\sqrt 7\right)=2\sqrt 6-2\sqrt 7-2\sqrt 6+\sqrt 7=-\sqrt 7.
+$$
+
+(2) $\left(-\sqrt 2\right)^2=\left(\sqrt 2\right)^2=2$, $\left(-\sqrt\left[3\right]{2}\right)^3=-\left(\sqrt\left[3\right]{2}\right)^3=-2$, so
+
+$$
+\left(-\sqrt 2\right)^2+\left(-\sqrt\left[3\right]{2}\right)^3=2+\left(-2\right)=0.
+$$
+
+$\blacksquare$

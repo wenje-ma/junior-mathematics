@@ -2,294 +2,528 @@
 
 ## Exercise 1
 
-(Exercise 8.3, Problem 1) True or false.
-
-(1) All non-terminating decimals are irrational numbers;
-
-(2) All irrational numbers are non-terminating decimals;
-
-(3) All numbers expressed with a radical sign are irrational numbers;
-
-(4) All rational numbers can be represented by points on the number line, and conversely, all points on the number line represent rational numbers;
-
-(5) All real numbers can be represented by points on the number line, and conversely, all points on the number line represent real numbers.
+(Exercise 17.1, Problem 2) First factor, then evaluate: $4a^2\left(x+7\right)-3\left(x+7\right)$, where $a=-5$, $x=3$.
 
 ### Solution to Exercise 1
 
-By Irrational Number and Real Numbers and the Number Line.
+$$4a^2\left(x+7\right)-3\left(x+7\right)=\left(x+7\right)\left(4a^2-3\right).$$
 
-(1) A non-terminating repeating decimal is a rational number, not an irrational number, so it is wrong.
-
-(2) An irrational number is a non-terminating non-repeating decimal, so it is certainly a non-terminating decimal; correct.
-
-(3) For example, $\sqrt 4=2$ is a rational number, so a number expressed with a radical sign is not necessarily an irrational number; wrong.
-
-(4) Points on the number line represent not only rational numbers but also irrational numbers, so it is wrong.
-
-(5) By Real Numbers and the Number Line, there is a one-to-one correspondence between real numbers and points on the number line; correct. $\blacksquare$
-
-## Exercise 2
-
-(Exercise 8.3, Problem 2) Among the square roots and cube roots of $0$, $1$, $2$, $3$, $4$, $5$, $6$, $7$, $8$, $9$, $10$, which are rational numbers and which are irrational numbers?
-
-### Solution to Exercise 2
-
-By Irrational Number, those whose root can be extracted exactly are rational numbers, and those whose root cannot be extracted exactly are irrational numbers.
-
-Square roots: $\sqrt 0=0$, $\sqrt 1=1$, $\sqrt 4=2$, $\sqrt 9=3$ are rational numbers; $\sqrt 2$, $\sqrt 3$, $\sqrt 5$, $\sqrt 6$, $\sqrt 7$, $\sqrt 8$, $\sqrt{10}$ are irrational numbers.
-
-Cube roots: $\sqrt\left[3\right] 0=0$, $\sqrt\left[3\right] 1=1$, $\sqrt\left[3\right] 8=2$ are rational numbers; $\sqrt\left[3\right] 2$, $\sqrt\left[3\right] 3$, $\sqrt\left[3\right] 4$, $\sqrt\left[3\right] 5$, $\sqrt\left[3\right] 6$, $\sqrt\left[3\right] 7$, $\sqrt\left[3\right] 9$, $\sqrt\left[3\right]{10}$ are irrational numbers. $\blacksquare$
-
-## Exercise 3
-
-(Exercise 8.3, Problem 3) Represent the following real numbers on the number line and compare their sizes (connected by "$< $"): $-2$, $\sqrt 2$, $\frac{3}{2}$, $-\pi$.
-
-The figure shows a number line with origin and positive direction marked; from left to right, four points are marked: $-\pi$ (about $-3.14$), $-2$, $\sqrt 2$ (about $1.414$), and $\frac{3}{2}=1.5$.
-
-### Solution to Exercise 3
-
-By Real Numbers and the Number Line, numbers to the right on the number line are larger than numbers to the left.
-
-Estimate the sizes: $-\pi\approx-3.14$, $-2$, $\sqrt 2\approx 1.414$, $\frac{3}{2}=1.5$. From left to right on the number line they are $-\pi$, $-2$, $\sqrt 2$, $\frac{3}{2}$.
-
-Thus
-
-$$
--\pi< -2< \sqrt 2< \frac{3}{2}.
-$$
-
-$\blacksquare$
-
-## Exercise 4
-
-(Exercise 8.3, Problem 1) Find the opposite number and absolute value of each of the following: $\sqrt{13}$, $-\sqrt 7$, $-\frac{\pi}{2}$, $1.4-\sqrt 2$, $\frac{\sqrt 5-1}{2}$, $0$.
-
-### Solution to Exercise 4
-
-By Opposite Numbers and Absolute Value, the opposite number is $-a$; for the absolute value, a positive number takes itself and a negative number takes its opposite.
-
-$\sqrt{13}$: opposite number $-\sqrt{13}$, absolute value $\sqrt{13}$.
-
-$-\sqrt 7$: opposite number $\sqrt 7$, absolute value $\sqrt 7$.
-
-$-\frac{\pi}{2}$: opposite number $\frac{\pi}{2}$, absolute value $\frac{\pi}{2}$.
-
-$1.4-\sqrt 2\approx 1.4-1.414< 0$: opposite number $\sqrt 2-1.4$, absolute value $\sqrt 2-1.4$.
-
-$\frac{\sqrt 5-1}{2}\approx\frac{2.236-1}{2}> 0$: opposite number $\frac{1-\sqrt 5}{2}$, absolute value $\frac{\sqrt 5-1}{2}$.
-
-$0$: opposite number $0$, absolute value $0$. $\blacksquare$
-
-## Exercise 5
-
-(Exercise 8.3, Problem 2) Compute:
-
-(1) $2\sqrt 5-3\sqrt 5$;　(2) $3\sqrt 3-\left|1-\sqrt\left[3\right]{3}\right|$.
-
-### Solution to Exercise 5
-
-By Opposite Number and Absolute Value, the operation rules for rational numbers apply to real numbers.
-
-(1) By the distributive law, $2\sqrt 5-3\sqrt 5=\left(2-3\right)\sqrt 5=-\sqrt 5$.
-
-(2) $\because\sqrt\left[3\right]{3}\approx 1.442> 1$, $\therefore 1-\sqrt\left[3\right]{3}< 0$, so $\left|1-\sqrt\left[3\right]{3}\right|=\sqrt\left[3\right]{3}-1$. Hence
-
-$$
-3\sqrt 3-\left|1-\sqrt\left[3\right]{3}\right|=3\sqrt 3-\left(\sqrt\left[3\right]{3}-1\right)=3\sqrt 3-\sqrt\left[3\right]{3}+1.
-$$
-
-$\blacksquare$
-
-## Exercise 6
-
-(Exercise 8.3, Problem 3) Compute (keep two decimal places):
-
-(1) $\sqrt{17}+\sqrt{22}$;　(2) $\sqrt\left[3\right]{6}-\sqrt 6$.
-
-### Solution to Exercise 6
-
-Replace the irrational numbers with approximate finite decimals, compute, then round.
-
-(1) $\sqrt{17}\approx 4.123$, $\sqrt{22}\approx 4.690$, so $\sqrt{17}+\sqrt{22}\approx 4.123+4.690=8.81$.
-
-(2) $\sqrt\left[3\right]{6}\approx 1.817$, $\sqrt 6\approx 2.449$, so $\sqrt\left[3\right]{6}-\sqrt 6\approx 1.817-2.449=-0.63$. $\blacksquare$
+Substituting $a=-5,x=3$, we get $\left(3+7\right)\left(4\times25-3\right)=10\times97=970$. $\blacksquare$
 
 ## Problem 1
 
-(Exercise 8.3, Review and Consolidation, Problem 1) Among the following numbers, which are rational numbers and which are irrational numbers?
+(Exercise 17.1, Review and Consolidation, Problem 1) Which of the following transformations from left to right are factorizations? Which are not? Why?
 
-$3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $-\sqrt 6$, $\sqrt{36}$, $\sqrt\left[3\right]{5}$, $\sqrt\left[3\right]{125}$.
+(1) $6ax-3ax^2=3ax\left(2-x\right)$;
+
+(2) $a^2-b^2+1=\left(a+b\right)\left(a-b\right)+1$;
+
+(3) $x\left(x-y\right)-y\left(x-y\right)=\left(x-y\right)^2$;
+
+(4) $a^2 b-3ab^2+ab=ab\left(a-3b+1\right)$.
 
 ### Solution to Problem 1
 
-By Irrational Number, a finite decimal or a non-terminating repeating decimal is a rational number, and a non-terminating non-repeating decimal is an irrational number.
+By Basic Knowledge.
 
-$3.14$ is a finite decimal, rational; $-\frac{22}{7}$ is a fraction, rational; $\sqrt{\frac{3}{3}}=\sqrt 1=1$, rational; $-\sqrt 6$ is a non-terminating non-repeating decimal whose root cannot be extracted, irrational; $\sqrt{36}=6$, rational; $\sqrt\left[3\right]{5}$ is a non-terminating non-repeating decimal, irrational; $\sqrt\left[3\right]{125}=5$, rational.
+(1) Yes; the right side is a product.
 
-Thus the rational numbers are $3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $\sqrt{36}$, $\sqrt\left[3\right]{125}$; the irrational numbers are $-\sqrt 6$, $\sqrt\left[3\right]{5}$. $\blacksquare$
+(2) No; the right side $+\left(1\right)$ is still a sum.
+
+(3) Yes; $\left(x-y\right)^2$ is a product.
+
+(4) Yes; the right side is a product. $\blacksquare$
 
 ## Problem 2
 
-(Exercise 8.3, Review and Consolidation, Problem 2) Represent the following real numbers on the number line and compare their sizes (connected by "$< $"): $-\frac{1}{3}$, $-1.5$, $\sqrt{2^2}$, $\left|-3\right|$.
+(Exercise 17.1, Review and Consolidation, Problem 2) Factor:
+
+(1) $x+xy$;
+
+(2) $-2x+3x^2$;
+
+(3) $a^2 b+5ab-b$;
+
+(4) $2mn-n^2+8n$.
 
 ### Solution to Problem 2
 
-Simplify: $\sqrt{2^2}=2$, $\left|-3\right|=3$. The numbers are $-\frac{1}{3}\approx-0.33$, $-1.5$, $2$, $3$.
+By Basic Knowledge.
 
-By Real Numbers and the Number Line, values increase from left to right on the number line, so
+(1) $x+xy=x\left(1+y\right)$.
 
-$$
--1.5< -\frac{1}{3}< \sqrt{2^2}< \left|-3\right|.
-$$
+(2) $-2x+3x^2=x\left(3x-2\right)$.
 
-$\blacksquare$
+(3) $a^2 b+5ab-b=b\left(a^2+5a-1\right)$.
+
+(4) $2mn-n^2+8n=n\left(2m-n+8\right)$. $\blacksquare$
 
 ## Problem 3
 
-(Exercise 8.3, Review and Consolidation, Problem 3) Find the absolute value of each of the following: $\sqrt\left[3\right]{-8}$, $\sqrt{17}$, $-\sqrt{\frac{2}{3}}$, $\sqrt\left[3\right]{3}-2$, $1-\sqrt\left[3\right]{2}$.
+(Exercise 17.1, Review and Consolidation, Problem 3) Calculate using factoring:
+
+(1) $999^2+999$;
+
+(2) $17\times0.11+37\times0.11-46\times0.11$.
 
 ### Solution to Problem 3
 
-By Absolute Value, a positive number's absolute value is itself, and a negative number's is its opposite.
+(1) $999^2+999=999\left(999+1\right)=999\times1000=999000$.
 
-$\sqrt\left[3\right]{-8}=-2$, whose absolute value is $2$.
-
-$\sqrt{17}> 0$, whose absolute value is $\sqrt{17}$.
-
-$-\sqrt{\frac{2}{3}}< 0$, whose absolute value is $\sqrt{\frac{2}{3}}$.
-
-$\sqrt\left[3\right]{3}\approx 1.442< 2$, so $\sqrt\left[3\right]{3}-2< 0$, whose absolute value is $2-\sqrt\left[3\right]{3}$.
-
-$\sqrt\left[3\right]{2}\approx 1.26> 1$, so $1-\sqrt\left[3\right]{2}< 0$, whose absolute value is $\sqrt\left[3\right]{2}-1$. $\blacksquare$
+(2) $17\times0.11+37\times0.11-46\times0.11=0.11\left(17+37-46\right)=0.11\times8=0.88$. $\blacksquare$
 
 ## Problem 4
 
-(Exercise 8.3, Review and Consolidation, Problem 4) Compute (keep two decimal places):
+(Exercise 17.1, Review and Consolidation, Problem 4) Factor:
 
-(1) $\pi-\sqrt{10}$;　(2) $\sqrt\left[3\right]{2}-\sqrt 2$.
+(1) $2mn^2+mn$;
+
+(2) $6xy^2-8x^2 y^3$;
+
+(3) $6a^2 b+9ab^2-15ab$;
+
+(4) $3m^2 n-3mn+6n$;
+
+(5) $4x^2 y^3+8x^3 y^2+12x^4 y$;
+
+(6) $2m\left(x-y\right)-3n\left(x-y\right)$;
+
+(7) $2a\left(a-b\right)^2-\left(a-b\right)^3$;
+
+(8) $x^2\left(3y-6\right)+x\left(6-3y\right)$.
 
 ### Solution to Problem 4
 
-Compute with approximate values, then round.
+By Basic Knowledge.
 
-(1) $\pi\approx 3.142$, $\sqrt{10}\approx 3.162$, so $\pi-\sqrt{10}\approx 3.142-3.162=-0.02$.
+(1) $2mn^2+mn=mn\left(2n+1\right)$.
 
-(2) $\sqrt\left[3\right]{2}\approx 1.260$, $\sqrt 2\approx 1.414$, so $\sqrt\left[3\right]{2}-\sqrt 2\approx 1.260-1.414=-0.15$. $\blacksquare$
+(2) $6xy^2-8x^2 y^3=2xy^2\left(3-4xy\right)$.
+
+(3) $6a^2 b+9ab^2-15ab=3ab\left(2a+3b-5\right)$.
+
+(4) $3m^2 n-3mn+6n=3n\left(m^2-m+2\right)$.
+
+(5) $4x^2 y^3+8x^3 y^2+12x^4 y=4x^2 y\left(y^2+2xy+3x^2\right)$.
+
+(6) $2m\left(x-y\right)-3n\left(x-y\right)=\left(x-y\right)\left(2m-3n\right)$.
+
+(7) $2a\left(a-b\right)^2-\left(a-b\right)^3=\left(a-b\right)^2\left[2a-\left(a-b\right)\right]=\left(a-b\right)^2\left(a+b\right)$.
+
+(8) $x^2\left(3y-6\right)+x\left(6-3y\right)=x\left(3y-6\right)\left(x-1\right)$. $\blacksquare$
 
 ## Problem 5
 
-(Exercise 8.3, Review and Consolidation, Problem 5) Compute:
+(Exercise 17.1, Comprehensive Application, Problem 5) First factor, then evaluate:
 
-(1) $2\left(\sqrt 6-\sqrt 7\right)-\left|2\sqrt 6-\sqrt 7\right|$;　(2) $\left(-\sqrt 2\right)^2+\left(-\sqrt\left[3\right]{2}\right)^3$.
+(1) $\left(a-2\right)^2-6\left(2-a\right)$, where $a=-2$;
+
+(2) $4x\left(y+4\right)-x\left(y+4\right)^2$, where $x=2$, $y=5$.
 
 ### Solution to Problem 5
 
-By Opposite Number and Absolute Value and the operations of squaring and cubing.
+(1) $\left(a-2\right)^2-6\left(2-a\right)=\left(a-2\right)^2+6\left(a-2\right)=\left(a-2\right)\left(a-2+6\right)=\left(a-2\right)\left(a+4\right)$. Substituting $a=-2$, we get $\left(-4\right)\left(2\right)=-8$.
 
-(1) $\because 2\sqrt 6\approx 4.899> \sqrt 7\approx 2.646$, $\therefore 2\sqrt 6-\sqrt 7> 0$, so $\left|2\sqrt 6-\sqrt 7\right|=2\sqrt 6-\sqrt 7$. Hence
-
-$$
-2\left(\sqrt 6-\sqrt 7\right)-\left(2\sqrt 6-\sqrt 7\right)=2\sqrt 6-2\sqrt 7-2\sqrt 6+\sqrt 7=-\sqrt 7.
-$$
-
-(2) $\left(-\sqrt 2\right)^2=\left(\sqrt 2\right)^2=2$, $\left(-\sqrt\left[3\right]{2}\right)^3=-\left(\sqrt\left[3\right]{2}\right)^3=-2$, so
-
-$$
-\left(-\sqrt 2\right)^2+\left(-\sqrt\left[3\right]{2}\right)^3=2+\left(-2\right)=0.
-$$
-
-$\blacksquare$
+(2) $4x\left(y+4\right)-x\left(y+4\right)^2=x\left(y+4\right)\left[4-\left(y+4\right)\right]=x\left(y+4\right)\left(-y\right)=-xy\left(y+4\right)$. Substituting $x=2,y=5$, we get $-2\cdot5\cdot9=-90$. $\blacksquare$
 
 ## Problem 6
 
-(Exercise 8.3, Comprehensive Application, Problem 6)
-
-(1) Is there a smallest positive integer? Is there a smallest integer?
-
-(2) Is there a smallest rational number? Is there a smallest irrational number?
-
-(3) Is there a smallest positive real number? Is there a smallest real number?
+(Exercise 17.1, Comprehensive Application, Problem 6) Given $ab=2$, $a-4b=-5$, find the value of $a^2 b-4ab^2+ab$.
 
 ### Solution to Problem 6
 
-By Real Numbers and the Number Line, real numbers can take continuous values on the number line.
+$$a^2 b-4ab^2+ab=ab\left(a-4b+1\right).$$
 
-(1) The smallest positive integer is $1$; there is no smallest integer (negative integers can be infinitely small).
-
-(2) There is no smallest rational number, and no smallest irrational number (negative numbers can be infinitely small).
-
-(3) There is no smallest positive real number (between any two arbitrarily small positive numbers one can take an even smaller positive number); there is no smallest real number (real numbers can be infinitely small in the negative direction). $\blacksquare$
+Substituting $ab=2$, $a-4b=-5$, we get $2\left(-5+1\right)=-8$. $\blacksquare$
 
 ## Problem 7
 
-(Exercise 8.3, Comprehensive Application, Problem 7) Write down all numbers satisfying the following conditions:
-
-(1) All positive integers less than $\sqrt{37}$;
-
-(2) All integers greater than $-\sqrt{10}$ and less than $\sqrt{10}$;
-
-(3) All integers whose absolute value is less than $\sqrt 6$.
+(Exercise 17.1, Comprehensive Application, Problem 7) Let $n$ be an odd number. Prove that the remainder of $n^2$ divided by $8$ is $1$.
 
 ### Solution to Problem 7
 
-Estimate the range of each irrational number.
+Let $n=2k+1$ ($k$ is an integer); then
 
-(1) $\because 6^2=36< 37< 49=7^2$, $\therefore 6< \sqrt{37}< 7$, so the positive integers less than $\sqrt{37}$ are $1$, $2$, $3$, $4$, $5$, $6$.
+$$n^2=\left(2k+1\right)^2=4k^2+4k+1=4k\left(k+1\right)+1.$$
 
-(2) $\because 3^2=9< 10< 16=4^2$, $\therefore 3< \sqrt{10}< 4$, so $-4< -\sqrt{10}< -3$. The integers greater than $-\sqrt{10}$ and less than $\sqrt{10}$ are $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
+$k$ and $k+1$ are two consecutive integers, so one of them must be even; hence $k\left(k+1\right)$ is even, say $k\left(k+1\right)=2t$. Then
 
-(3) $\because 2^2=4< 6< 9=3^2$, $\therefore 2< \sqrt 6< 3$, so the integers whose absolute value is less than $\sqrt 6$ are $-2$, $-1$, $0$, $1$, $2$. $\blacksquare$
+$$n^2=4\cdot2t+1=8t+1.$$
+
+Hence $n^2$ leaves a remainder of $1$ when divided by $8$. $\blacksquare$
 
 ## Problem 8
 
-(Exercise 8.3, Comprehensive Application, Problem 8) As shown in the figure, the areas of two squares inside a rectangle are $3\,\text{cm}^2$ and $1\,\text{cm}^2$ respectively.
-
-(1) Find the perimeter of the rectangle;
-
-(2) Find the sum of the areas of the two shaded parts in the figure.
-
-The figure shows a large rectangle containing two squares placed side by side: the larger square has area $3\,\text{cm}^2$ (side $\sqrt 3$), the smaller square has area $1\,\text{cm}^2$ (side $1$); the two shaded regions are the parts of the large rectangle remaining after removing the two squares.
+(Exercise 17.1, Comprehensive Application, Problem 8) Given that the three side lengths of a triangle are $a,b,c$, and $ab-ac=b^2-bc$, prove that this triangle is isosceles.
 
 ### Solution to Problem 8
 
-The square of area $3\,\text{cm}^2$ has side length $\sqrt 3\,\text{cm}$, and the square of area $1\,\text{cm}^2$ has side length $1\,\text{cm}$.
+Rearrange terms and extract the common factor:
 
-(1) The large rectangle has length $\sqrt 3+1$ and width $\sqrt 3$. Thus the perimeter is
+$$ab-ac-b^2+bc=0,$$
 
-$$
-2\left[\left(\sqrt 3+1\right)+\sqrt 3\right]=2\left(2\sqrt 3+1\right)=4\sqrt 3+2\quad\left(\text{cm}\right).
-$$
+$$a\left(b-c\right)-b\left(b-c\right)=0,$$
 
-(2) The two shaded parts can be assembled into a small rectangle of length $\sqrt 3-1$ and width $1$, so the sum of their areas is
+$$\left(b-c\right)\left(a-b\right)=0.$$
 
-$$
-\left(\sqrt 3-1\right)\times 1=\sqrt 3-1\quad\left(\text{cm}^2\right).
-$$
+Hence $b=c$ or $a=b$, i.e. at least two sides of the triangle are equal; therefore this triangle is isosceles. $\blacksquare$
 
-$\blacksquare$
+## Exercise 2
+
+(Exercise 17.2, Problem 1) Can the following polynomials be factored using the difference of squares formula? Why?
+
+(1) $x^2+y^2$;
+
+(2) $x^2-y^2$;
+
+(3) $-x^2+y^2$;
+
+(4) $-x^2-y^2$.
+
+### Solution to Exercise 2
+
+By Basic Knowledge, the difference of squares formula requires the two terms to have opposite signs and both be squares.
+
+(1) No; the two terms have the same sign.
+
+(2) Yes; $x^2-y^2=\left(x+y\right)\left(x-y\right)$.
+
+(3) Yes; $-x^2+y^2=y^2-x^2=\left(y+x\right)\left(y-x\right)$.
+
+(4) No; after factoring out the minus sign it is $-\left(x^2+y^2\right)$, with the two terms having the same sign. $\blacksquare$
+
+## Exercise 3
+
+(Exercise 17.2, Problem 2) Factor:
+
+(1) $36-m^2$;
+
+(2) $49n^2-1$;
+
+(3) $a^2-\frac{1}{25}b^2$;
+
+(4) $81a^2-16b^4$;
+
+(5) $4b^2-\left(b+c\right)^2$;
+
+(6) $\left(m+n\right)^2-\left(m-2n\right)^2$.
+
+### Solution to Exercise 3
+
+By Basic Knowledge.
+
+(1) $36-m^2=\left(6+m\right)\left(6-m\right)$.
+
+(2) $49n^2-1=\left(7n+1\right)\left(7n-1\right)$.
+
+(3) $a^2-\frac{1}{25}b^2=\left(a+\frac15 b\right)\left(a-\frac15 b\right)$.
+
+(4) $81a^2-16b^4=\left(9a+4b^2\right)\left(9a-4b^2\right)$.
+
+(5) $4b^2-\left(b+c\right)^2=\left[2b+\left(b+c\right)\right]\left[2b-\left(b+c\right)\right]=\left(3b+c\right)\left(b-c\right)$.
+
+(6) $\left(m+n\right)^2-\left(m-2n\right)^2=\left[\left(m+n\right)+\left(m-2n\right)\right]\left[\left(m+n\right)-\left(m-2n\right)\right]=\left(2m-n\right)\left(3n\right)$. $\blacksquare$
+
+## Exercise 4
+
+(Exercise 17.2, Problem 1) Are the following polynomials perfect square trinomials? Why?
+
+(1) $a^2-4a+4$;
+
+(2) $1+4a^2$;
+
+(3) $4b^2+4b-1$;
+
+(4) $a^2+ab+b^2$.
+
+### Solution to Exercise 4
+
+By Basic Knowledge, a perfect square trinomial must be the sum of two squares plus or minus $2$ times their product.
+
+(1) Yes; $a^2-2\cdot a\cdot2+2^2=\left(a-2\right)^2$.
+
+(2) No; the middle term equal to $2$ times the product is missing.
+
+(3) No; the constant term should be a positive square number, and the signs do not match.
+
+(4) No; $ab$ should be $2ab$. $\blacksquare$
+
+## Exercise 5
+
+(Exercise 17.2, Problem 2) Factor:
+
+(1) $a^2+2a+1$;
+
+(2) $x^2-12x+36$;
+
+(3) $4x^2-4x+1$;
+
+(4) $4p^2+12pq+9q^2$;
+
+(5) $\left(x+y\right)^2-10\left(x+y\right)+25$;
+
+(6) $-2xy-x^2-y^2$.
+
+### Solution to Exercise 5
+
+By Basic Knowledge.
+
+(1) $a^2+2a+1=\left(a+1\right)^2$.
+
+(2) $x^2-12x+36=\left(x-6\right)^2$.
+
+(3) $4x^2-4x+1=\left(2x-1\right)^2$.
+
+(4) $4p^2+12pq+9q^2=\left(2p+3q\right)^2$.
+
+(5) $\left(x+y\right)^2-10\left(x+y\right)+25=\left(x+y-5\right)^2$.
+
+(6) $-2xy-x^2-y^2=-\left(x^2+2xy+y^2\right)=-\left(x+y\right)^2$. $\blacksquare$
+
+## Exercise 6
+
+(Exercise 17.2, Problem 1) Factor:
+
+(1) $x^2 y-4y$;
+
+(2) $a^3-2a^2+a$;
+
+(3) $ax^2+2a^2 x+a^3$;
+
+(4) $-a^4+16$;
+
+(5) $3a-6ax+3ax^2$;
+
+(6) $-4bx^2+8bxy-4by^2$.
+
+### Solution to Exercise 6
+
+First extract the common factor, then use the formula; factor until no further factorization is possible.
+
+(1) $x^2 y-4y=y\left(x^2-4\right)=y\left(x+2\right)\left(x-2\right)$.
+
+(2) $a^3-2a^2+a=a\left(a^2-2a+1\right)=a\left(a-1\right)^2$.
+
+(3) $ax^2+2a^2 x+a^3=a\left(x^2+2ax+a^2\right)=a\left(x+a\right)^2$.
+
+(4) $-a^4+16=16-a^4=\left(4+a^2\right)\left(4-a^2\right)=\left(4+a^2\right)\left(2+a\right)\left(2-a\right)$.
+
+(5) $3a-6ax+3ax^2=3a\left(1-2x+x^2\right)=3a\left(x-1\right)^2$.
+
+(6) $-4bx^2+8bxy-4by^2=-4b\left(x^2-2xy+y^2\right)=-4b\left(x-y\right)^2$. $\blacksquare$
+
+## Exercise 7
+
+(Exercise 17.2, Problem 2) Factor:
+
+(1) $\left(a-b\right)^2+4ab$;
+
+(2) $\left(p-4\right)\left(p+1\right)+3p$.
+
+### Solution to Exercise 7
+
+(1) $\left(a-b\right)^2+4ab=a^2-2ab+b^2+4ab=a^2+2ab+b^2=\left(a+b\right)^2$.
+
+(2) $\left(p-4\right)\left(p+1\right)+3p=p^2-3p-4+3p=p^2-4=\left(p+2\right)\left(p-2\right)$. $\blacksquare$
 
 ## Problem 9
 
-(Exercise 8.3, Extension and Exploration, Problem 9) Given the number $0.101001000100001\cdots$, its characteristic is: viewed from left to right, between two adjacent $1$'s there is successively one more $0$. Is this number rational or irrational? Why?
+(Exercise 17.2, Review and Consolidation, Problem 1) Factor:
+
+(1) $9a^2-16$;
+
+(2) $81x^2-64y^2$;
+
+(3) $m^2-\frac{1}{36}$;
+
+(4) $\frac{25}{9}y^2-\frac{1}{49}z^2$.
 
 ### Solution to Problem 9
 
-By Irrational Number, a non-terminating non-repeating decimal is an irrational number.
+By Basic Knowledge.
 
-Although the decimal part of this number is non-terminating, between two adjacent $1$'s there is successively one more $0$, so the decimal part has no repeating period; it is a non-terminating non-repeating decimal. Thus it is not a rational number but an irrational number. $\blacksquare$
+(1) $9a^2-16=\left(3a+4\right)\left(3a-4\right)$.
 
-## Reading and Reflection 1
+(2) $81x^2-64y^2=\left(9x+8y\right)\left(9x-8y\right)$.
 
-(Reading and Reflection: Why $\sqrt 2$ Is Not a Rational Number) The ancient Greek Pythagorean school held that all quantities could be represented by integers or ratios of integers. Later it was discovered that the diagonal of a square of side length $1$ could not be represented by an integer or a ratio of integers. Explain why $\sqrt 2$ is not a rational number.
+(3) $m^2-\frac{1}{36}=\left(m+\frac16\right)\left(m-\frac16\right)$.
 
-### Solution to Reading and Reflection 1
+(4) $\frac{25}{9}y^2-\frac{1}{49}z^2=\left(\frac53 y+\frac17 z\right)\left(\frac53 y-\frac17 z\right)$. $\blacksquare$
 
-Use proof by contradiction. Suppose $\sqrt 2$ is rational; then there exist two coprime positive integers $p$, $q$ such that
+## Problem 10
 
-$$
-\frac{p}{q}=\sqrt 2.
-$$
+(Exercise 17.2, Review and Consolidation, Problem 2) Factor:
 
-Squaring both sides gives $p^2=2q^2$. Since $2q^2$ is even, $p^2$ is even, and only the square of an even number is even, so $p$ is also even. Let $p=2r$ ($r$ a positive integer); substituting gives $4r^2=2q^2$, i.e. $q^2=2r^2$, so $q$ is also even.
+(1) $a^2-4ab+4b^2$;
 
-Thus both $p$ and $q$ are even, contradicting the assumption that $p$, $q$ are coprime. This contradiction shows that $\sqrt 2$ cannot be written as a fraction, i.e. $\sqrt 2$ is not a rational number. $\blacksquare$
+(2) $-x^2+10xy-25y^2$;
+
+(3) $4+12\left(x-y\right)+9\left(x-y\right)^2$;
+
+(4) $-\left(m+n\right)^2+4\left(m+n\right)-4$.
+
+### Solution to Problem 10
+
+By Basic Knowledge.
+
+(1) $a^2-4ab+4b^2=\left(a-2b\right)^2$.
+
+(2) $-x^2+10xy-25y^2=-\left(x^2-10xy+25y^2\right)=-\left(x-5y\right)^2$.
+
+(3) $4+12\left(x-y\right)+9\left(x-y\right)^2=\left[2+3\left(x-y\right)\right]^2=\left(2+3x-3y\right)^2$.
+
+(4) $-\left(m+n\right)^2+4\left(m+n\right)-4=-\left[\left(m+n\right)^2-4\left(m+n\right)+4\right]=-\left(m+n-2\right)^2$. $\blacksquare$
+
+## Problem 11
+
+(Exercise 17.2, Review and Consolidation, Problem 3) Factor:
+
+(1) $18y^3-27y^4-3y^2$;
+
+(2) $m^4-18m^2+81$;
+
+(3) $x^4-16y^4$;
+
+(4) $\left(a^2+b^2-c^2\right)^2-\left(a^2-b^2-c^2\right)^2$.
+
+### Solution to Problem 11
+
+Comprehensively use the method of extracting the common factor and the method of using formulas.
+
+(1) $18y^3-27y^4-3y^2=-3y^2\left(9y^2-6y+1\right)=-3y^2\left(3y-1\right)^2$.
+
+(2) $m^4-18m^2+81=\left(m^2-9\right)^2=\left(m+3\right)^2\left(m-3\right)^2$.
+
+(3) $x^4-16y^4=\left(x^2+4y^2\right)\left(x^2-4y^2\right)=\left(x^2+4y^2\right)\left(x+2y\right)\left(x-2y\right)$.
+
+(4) Let $A=a^2-c^2$; the original expression $=\left(A+b^2\right)^2-\left(A-b^2\right)^2=\left(2A\right)\left(2b^2\right)=4b^2\left(a^2-c^2\right)=4b^2\left(a+c\right)\left(a-c\right)$. $\blacksquare$
+
+## Problem 12
+
+(Exercise 17.2, Comprehensive Application, Problem 4) Calculate using factoring:
+
+(1) $103^2+103\times194+97^2$;
+
+(2) $2021^2-2020^2+2010^2-2009^2$.
+
+### Solution to Problem 12
+
+(1) $103^2+103\times194+97^2=103^2+2\cdot103\cdot97+97^2=\left(103+97\right)^2=200^2=40000$.
+
+(2) $2021^2-2020^2=\left(2021+2020\right)\left(2021-2020\right)=4041$, $2010^2-2009^2=\left(2010+2009\right)\left(2010-2009\right)=4019$. The original expression $=4041+4019=8060$. $\blacksquare$
+
+## Problem 13
+
+(Exercise 17.2, Comprehensive Application, Problem 5) Given $xy=4$, $x+y=5$, find $x^3 y+2x^2 y^2+xy^3$.
+
+### Solution to Problem 13
+
+$$x^3 y+2x^2 y^2+xy^3=xy\left(x^2+2xy+y^2\right)=xy\left(x+y\right)^2.$$
+
+Substituting $xy=4$, $x+y=5$, we get $4\times25=100$. $\blacksquare$
+
+## Problem 14
+
+(Exercise 17.2, Comprehensive Application, Problem 6) Factor:
+
+(1) $\left(2ab+1\right)^2-a^4 b^4$;
+
+(2) $\left(p+q\right)^2-6\left(p^2-q^2\right)+9\left(p-q\right)^2$.
+
+### Solution to Problem 14
+
+(1) $\left(2ab+1\right)^2-\left(a^2 b^2\right)^2=\left[\left(2ab+1\right)+a^2 b^2\right]\left[\left(2ab+1\right)-a^2 b^2\right]=\left(ab+1\right)^2\left[-\left(ab-1\right)^2+2\right]$. Note that $2ab+1-a^2 b^2=1+2ab-a^2 b^2$; over the real numbers it suffices to keep the original expression, so the result is $\left(2ab+1+a^2 b^2\right)\left(2ab+1-a^2 b^2\right)=\left(ab+1\right)^2\left(2ab+1-a^2 b^2\right)$.
+
+(2) Note that $p^2-q^2=\left(p+q\right)\left(p-q\right)$; let $A=p+q$, $B=p-q$; the original expression $=A^2-6AB+9B^2=\left(A-3B\right)^2=\left[\left(p+q\right)-3\left(p-q\right)\right]^2=\left(-2p+4q\right)^2=4\left(2q-p\right)^2$. $\blacksquare$
+
+## Problem 15
+
+(Exercise 17.2, Extension and Exploration, Problem 7) Given that $n$ is a positive integer, prove that $\left(4n+3\right)^2-\left(2n+3\right)^2$ is divisible by $24$.
+
+### Solution to Problem 15
+
+By the difference of squares formula:
+
+$$\left(4n+3\right)^2-\left(2n+3\right)^2=\left[\left(4n+3\right)+\left(2n+3\right)\right]\left[\left(4n+3\right)-\left(2n+3\right)\right]=\left(6n+6\right)\left(2n\right)=12n\left(n+1\right).$$
+
+$n$ and $n+1$ are consecutive integers, so one of them must be even; hence $n\left(n+1\right)=2k$, and the original expression $=12\cdot2k=24k$. Therefore it is divisible by $24$. $\blacksquare$
+
+## Problem 16
+
+(Exercise 17.2, Extension and Exploration, Problem 8) Given that $4y^2+my+9$ is a perfect square trinomial, find the value of $m$.
+
+### Solution to Problem 16
+
+$4y^2=\left(2y\right)^2$, $9=3^2$. The middle term of a perfect square trinomial should be $\pm2\cdot2y\cdot3=\pm12y$. Hence $m=\pm12$. $\blacksquare$
+
+## Problem 17
+
+(Exercise 17.2, Extension and Exploration, Problem 9) Observe the following expressions. What conclusion can you draw? Can you prove your conclusion?
+
+$1^2+1^2\times2^2+2^2=\left(1+1+1\right)^2$,
+
+$2^2+2^2\times3^2+3^2=\left(4+2+1\right)^2$,
+
+$3^2+3^2\times4^2+4^2=\left(9+3+1\right)^2$,
+
+$\cdots\cdots$
+
+### Solution to Problem 17
+
+Conjecture: $n^2+n^2\left(n+1\right)^2+\left(n+1\right)^2=\left[n^2+n+1\right]^2$.
+
+Proof: the left side $=n^2+\left(n+1\right)^2+n^2\left(n+1\right)^2$. Expand the right side:
+
+$$\left(n^2+n+1\right)^2=n^4+n^2+1+2n^3+2n^2+2n=n^4+2n^3+3n^2+2n+1.$$
+
+Expanding the left side: $n^2+n^2+2n+1+n^2\left(n^2+2n+1\right)=2n^2+2n+1+n^4+2n^3+n^2=n^4+2n^3+3n^2+2n+1$. The two sides are equal, so the conjecture holds. $\blacksquare$
+
+## Reading and Thinking 1
+
+(Reading and Thinking, Factoring of the form $x^2+\left(p+q\right)x+pq$) Use $x^2+\left(p+q\right)x+pq=\left(x+p\right)\left(x+q\right)$ to factor:
+
+(1) $x^2+7x+10$;
+
+(2) $x^2-2x-8$;
+
+(3) $y^2-7y+12$;
+
+(4) $x^2+7x-18$.
+
+### Solution to Reading and Thinking 1
+
+By $x^2+\left(p+q\right)x+pq=\left(x+p\right)\left(x+q\right)$, find two numbers whose sum is the coefficient of the linear term and whose product is the constant term.
+
+(1) $10=2\times5$, $2+5=7$, hence $x^2+7x+10=\left(x+2\right)\left(x+5\right)$.
+
+(2) $-8=2\times\left(-4\right)$, $2+\left(-4\right)=-2$, hence $x^2-2x-8=\left(x+2\right)\left(x-4\right)$.
+
+(3) $12=\left(-3\right)\times\left(-4\right)$, $-3+\left(-4\right)=-7$, hence $y^2-7y+12=\left(y-3\right)\left(y-4\right)$.
+
+(4) $-18=9\times\left(-2\right)$, $9+\left(-2\right)=7$, hence $x^2+7x-18=\left(x+9\right)\left(x-2\right)$. $\blacksquare$
+
+## Activity 1
+
+(Mathematical Activity, Activity 1) The pattern in the square of a two-digit number whose units digit is $5$. Given
+
+$15\times15=225=1\times2\times100+25$,
+
+$25\times25=625=2\times3\times100+25$,
+
+$35\times35=1225=3\times4\times100+25$,
+
+$\cdots\cdots$
+
+Can you write out the general pattern? Can you prove your conclusion using what you have learned?
+
+### Solution to Activity 1
+
+Pattern: for a two-digit number whose units digit is $5$, write it as $10n+5$; then
+
+$$\left(10n+5\right)^2=100n\left(n+1\right)+25.$$
+
+Proof: expand the left side
+
+$$\left(10n+5\right)^2=100n^2+100n+25=100n\left(n+1\right)+25.$$
+
+That is, the square of a number ending in $5$ equals $100$ times the product of its tens digit and the number $1$ greater than it, plus $25$. $\blacksquare$

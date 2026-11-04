@@ -1,267 +1,387 @@
 # week68
 
-## 练习一
-
-(练习 14.2 第 1 题) 如图, 有一池塘, 要测池塘两端 $A$, $B$ 的距离, 可先在平地上取一个点 $C$, 连接 $AC$ 并延长到点 $D$, 使 $CD=CA$, 连接 $BC$ 并延长到点 $E$, 使 $CE=CB$, 连接 $DE$. 量出 $DE$ 的长就是 $A$, $B$ 的距离, 为什么?
-
-### 解答 练习一
-
-在 $\triangle ABC$ 和 $\triangle DEC$ 中, $CA=CD$, $CB=CE$, 且 $\angle ACB$ 与 $\angle DCE$ 为对顶角, 相等. 由SAS, $\triangle ABC\cong\triangle DEC$.
-
-由全等三角形的性质, 对应边 $AB=DE$, 故量出 $DE$ 的长就是 $A$, $B$ 的距离. $\blacksquare$
-
-## 练习二
-
-(练习 14.2 第 2 题) 如图, 点 $E$, $F$ 在 $BC$ 上, $BE=CF$, $AB=DC$, $\angle B=\angle C$. 求证 $\angle A=\angle D$.
-
-### 解答 练习二
-
-由 $BE=CF$, 得 $BE+EF=CF+EF$, 即 $BF=CE$. 在 $\triangle ABF$ 和 $\triangle DCE$ 中, $AB=DC$, $\angle B=\angle C$, $BF=CE$, 由SAS, $\triangle ABF\cong\triangle DCE$.
-
-由全等三角形的性质, 对应角 $\angle A=\angle D$. $\blacksquare$
-
-## 练习三
-
-(练习 14.2 第 1 题) 如图, $AB\perp BC$, $AD\perp DC$, 垂足分别为 $B$, $D$, 且 $\angle 1=\angle 2$. 求证 $AB=AD$.
-
-### 解答 练习三
-
-由 $AB\perp BC$, $AD\perp DC$, 得 $\angle B=\angle D=90^\circ$. 在 $\triangle ABC$ 和 $\triangle ADC$ 中, $\angle 1=\angle 2$, $\angle B=\angle D$, $AC$ 为公共边, 由AAS, $\triangle ABC\cong\triangle ADC$.
-
-由全等三角形的性质, 对应边 $AB=AD$. $\blacksquare$
-
-## 练习四
-
-(练习 14.2 第 2 题) 如图, 要测量池塘两岸相对的两点 $A$, $B$ 的距离, 可在 $AB$ 的垂线 $BF$ 上取 $C$, $D$, 使 $BC=CD$, 再作 $BF$ 的垂线 $DE$, 使 $E$ 与 $A$, $C$ 在一条直线上, 这时测得 $DE$ 的长就是 $AB$ 的长, 为什么?
-
-### 解答 练习四
-
-由 $AB\perp BF$, $DE\perp BF$, 得 $\angle B=\angle D=90^\circ$. 在 $\triangle ABC$ 和 $\triangle EDC$ 中, $BC=CD$, $\angle ACB=\angle ECD$ (对顶角), $\angle B=\angle D$, 由ASA, $\triangle ABC\cong\triangle EDC$.
-
-由全等三角形的性质, 对应边 $AB=DE$, 故测得的 $DE$ 长就是 $AB$ 的长. $\blacksquare$
-
-## 练习五
-
-(练习 14.2 第 1 题) 如图, $AC=BD$, $BC=AD$. 求证 $\angle ABC=\angle BAD$.
-
-### 解答 练习五
-
-在 $\triangle ABC$ 和 $\triangle BAD$ 中, $AC=BD$, $BC=AD$, $AB$ 为公共边, 由SSS, $\triangle ABC\cong\triangle BAD$.
-
-由全等三角形的性质, 对应角 $\angle ABC=\angle BAD$. $\blacksquare$
-
-## 练习六
-
-(练习 14.2 第 2 题) 工人师傅用角尺平分任意角: 在 $\angle AOB$ 的边 $OA$, $OB$ 上分别取 $OM=ON$, 移动角尺使角尺两边相同刻度分别与 $M$, $N$ 重合, 过角尺顶点 $C$ 的射线 $OC$ 便是平分线, 为什么?
-
-### 解答 练习六
-
-在 $\triangle OMC$ 和 $\triangle ONC$ 中, $OM=ON$, $CM=CN$ (角尺相同刻度), $OC$ 为公共边, 由SSS, $\triangle OMC\cong\triangle ONC$.
-
-由全等三角形的性质, 对应角 $\angle MOC=\angle NOC$, 故 $OC$ 平分 $\angle AOB$. $\blacksquare$
-
-## 练习七
-
-(练习 14.2 第 1 题) 如图, $C$ 是路段 $AB$ 的中点, 两人从 $C$ 同时出发, 以相同速度分别沿两条直线行走, 同时到达 $D$, $E$, 且 $DA\perp AB$, $EB\perp AB$. $D$, $E$ 到路段 $AB$ 的距离相等吗? 为什么?
-
-### 解答 练习七
-
-相等. 由 $C$ 是 $AB$ 中点, 得 $CA=CB$. 两人速度相同且同时到达, 故 $CD=CE$. 在 $\text{Rt}\triangle ACD$ 和 $\text{Rt}\triangle BCE$ 中, 斜边 $CD=CE$, 直角边 $CA=CB$, 由HL, $\text{Rt}\triangle ACD\cong\text{Rt}\triangle BCE$.
-
-由基础知识, 对应直角边 $AD=BE$, 即 $D$, $E$ 到路段 $AB$ 的距离相等. $\blacksquare$
-
-## 练习八
-
-(练习 14.2 第 2 题) 如图, $AB=CD$, $AE\perp BC$, $DF\perp BC$, 垂足分别为 $E$, $F$, $CE=BF$. 求证 $AE=DF$.
-
-### 解答 练习八
-
-由 $AE\perp BC$, $DF\perp BC$, 得 $\angle AEB=\angle DFC=90^\circ$. 由 $CE=BF$, 得 $CE-EF=BF-EF$, 即 $CF=BE$. 在 $\text{Rt}\triangle ABE$ 和 $\text{Rt}\triangle DCF$ 中, 斜边 $AB=CD$, 直角边 $BE=CF$, 由HL, $\text{Rt}\triangle ABE\cong\text{Rt}\triangle DCF$.
-
-由基础知识, 对应直角边 $AE=DF$. $\blacksquare$
-
 ## 习题一
 
-(习题 14.2 复习巩固第 1 题) 如图, $M$ 是 $AB$ 的中点, $\angle AMC=\angle BMD$, $MC=MD$. 求证 $AC=BD$.
+(习题 27.2 复习巩固第 2 题) 根据下列条件, 判断 $\triangle ABC$ 与 $\triangle A'B'C'$ 是否相似, 并说明理由: 
+
+(1) $AB=10\ \text{cm}$, $BC=12\ \text{cm}$, $AC=15\ \text{cm}$, $A'B'=150\ \text{cm}$, $B'C'=180\ \text{cm}$, $A'C'=225\ \text{cm}$; 
+
+(2) $\angle A=70^\circ$, $\angle B=48^\circ$, $\angle A'=70^\circ$, $\angle C'=62^\circ$. 
 
 ### 解答 习题一
 
-由 $M$ 是 $AB$ 中点, 得 $AM=BM$. 在 $\triangle AMC$ 和 $\triangle BMD$ 中, $AM=BM$, $\angle AMC=\angle BMD$, $MC=MD$, 由SAS, $\triangle AMC\cong\triangle BMD$.
+(1) $\frac{10}{150}=\frac{1}{15}$, $\frac{12}{180}=\frac{1}{15}$, $\frac{15}{225}=\frac{1}{15}$, 三边成比例, 由SSS, 相似. 
 
-由基础知识, 对应边 $AC=BD$. $\blacksquare$
+(2) $\angle C=180^\circ-70^\circ-48^\circ=62^\circ=\angle C'$, 又 $\angle A=\angle A'=70^\circ$, 两角分别相等, 由AA, 相似. $\blacksquare$
 
 ## 习题二
 
-(习题 14.2 复习巩固第 2 题) 如图, $AB=AC$, $AD=AE$. 求证 $\angle B=\angle C$.
+(习题 27.2 复习巩固第 3 题) 如图, (1) 判断两个三角形是否相似; (2) 求 $x$ 和 $y$ 的值. (第一组: 两边成比例且夹角 $98^\circ$ 相等; 第二组: $\angle 1=\angle 2$, 两角对应相等. )
 
 ### 解答 习题二
 
-在 $\triangle ABE$ 和 $\triangle ACD$ 中, $AB=AC$, $\angle A$ 为公共角, $AE=AD$, 由SAS, $\triangle ABE\cong\triangle ACD$.
+(1) 第一组: 两边比均为 $3:2$, 夹角 $98^\circ$ 相等, 由SAS, 相似. 
 
-由基础知识, 对应角 $\angle B=\angle C$. $\blacksquare$
+(2) 第二组: $\angle 1=\angle 2$, 另有一组对应角相等, 由AA, 相似; 对应边成比例可求出 $x,y$. $\blacksquare$
 
 ## 习题三
 
-(习题 14.2 复习巩固第 3 题) 如图, 把两根钢条的中点连在一起做成卡钳. 要测量工件内槽宽 $AB$, 只需测量哪些量? 为什么?
+(习题 27.2 复习巩固第 4 题) 如图, $\triangle ABC$ 中, $DE\parallel BC$, $EF\parallel AB$, 求证 $\triangle ADE\backsim\triangle EFC$. 
 
 ### 解答 习题三
 
-只需测量内槽对应边 $CD$ 的长. 设两钢条交点为 $O$, 则 $O$ 是两钢条中点, 故 $OA=OD$, $OB=OC$. 在 $\triangle AOB$ 和 $\triangle DOC$ 中, $OA=OD$, $\angle AOB=\angle DOC$ (对顶角), $OB=OC$, 由SAS, $\triangle AOB\cong\triangle DOC$.
+$DE\parallel BC$, 故 $\angle AED=\angle C$. 
 
-由基础知识, 对应边 $AB=CD$, 故量出 $CD$ 即得内槽宽 $AB$. $\blacksquare$
+$EF\parallel AB$, 故 $\angle A=\angle CEF$. 
+
+在 $\triangle ADE$ 和 $\triangle EFC$ 中, $\angle A=\angle CEF$, $\angle AED=\angle C$, 由AA, $\triangle ADE\backsim\triangle EFC$. $\blacksquare$
 
 ## 习题四
 
-(习题 14.2 复习巩固第 4 题) 如图, $\angle 1=\angle 2$, $\angle 3=\angle 4$. 求证 $AC=AD$.
+(习题 27.2 复习巩固第 5 题) 如图, $\triangle ABC$ 中, $DE\parallel FG\parallel BC$, 找出图中所有的相似三角形. 
 
 ### 解答 习题四
 
-在 $\triangle ABC$ 和 $\triangle ABD$ 中, $\angle 3=\angle 4$, $AB$ 为公共边, $\angle ABC=\angle ABD$ (由 $\angle 1=\angle 2$ 推得), 由ASA, $\triangle ABC\cong\triangle ABD$.
+由预备定理, 平行于三角形一边的直线截得的三角形与原三角形相似. 
 
-由基础知识, 对应边 $AC=AD$. $\blacksquare$
+$DE\parallel BC$, 故 $\triangle ADE\backsim\triangle ABC$; $FG\parallel BC$, 故 $\triangle AFG\backsim\triangle ABC$. 因此 $\triangle ADE\backsim\triangle AFG\backsim\triangle ABC$. $\blacksquare$
 
 ## 习题五
 
-(习题 14.2 复习巩固第 5 题) 如图, $\angle 1=\angle 2$, $\angle B=\angle D$. 求证 $AB=CD$.
+(习题 27.2 复习巩固第 6 题) 如果把两条直角边分别为 $30\ \text{cm}$, $40\ \text{cm}$ 的直角三角形按相似比 $\frac{3}{5}$ 进行缩小, 得到的直角三角形的两条直角边的长和面积各是多少? 
 
 ### 解答 习题五
 
-在 $\triangle ABC$ 和 $\triangle CDA$ 中, $\angle 1=\angle 2$, $\angle B=\angle D$, $AC$ 为公共边, 由AAS, $\triangle ABC\cong\triangle CDA$.
+缩小后两条直角边分别为 $30\times\frac{3}{5}=18\ \text{cm}$ 和 $40\times\frac{3}{5}=24\ \text{cm}$. 
 
-由基础知识, 对应边 $AB=CD$. $\blacksquare$
+面积为 $\frac{1}{2}\times18\times24=216\ \text{cm}^2$. $\blacksquare$
 
 ## 习题六
 
-(习题 14.2 复习巩固第 6 题) 如图, 从 $C$ 地看 $A$, $B$ 两地的视角 $\angle C$ 是锐角, $C$ 地与 $A$, $B$ 两地距离相等. $A$ 地到路段 $BC$ 的距离 $AD$ 与 $B$ 地到路段 $AC$ 的距离 $BE$ 相等吗? 为什么?
+(习题 27.2 综合运用第 7 题) 如图, $AD$ 是 $\text{Rt}\triangle ABC$ 斜边上的高. 若 $AB=4\ \text{cm}$, $BC=10\ \text{cm}$, 求 $BD$ 的长. 
 
 ### 解答 习题六
 
-相等. 由 $CA=CB$, 知 $\triangle ABC$ 为等腰三角形, $\angle CAB=\angle CBA$. 又 $AD\perp BC$, $BE\perp AC$, 故 $\angle ADC=\angle BEC=90^\circ$. 在 $\triangle ACD$ 和 $\triangle BCE$ 中, $\angle ADC=\angle BEC$, $\angle ACD=\angle BCE$ (公共), $CA=CB$, 由AAS, $\triangle ACD\cong\triangle BCE$.
+在 $\text{Rt}\triangle ABC$ 中, $\angle BAC=90^\circ$, $AD\perp BC$. 由AA, $\triangle ABD\backsim\triangle CBA$. 
 
-由基础知识, 对应边 $AD=BE$. $\blacksquare$
+$$
+\frac{AB}{BC}=\frac{BD}{AB}\Rightarrow AB^2=BD\cdot BC.
+$$
+
+$$
+BD=\frac{AB^2}{BC}=\frac{16}{10}=1.6\ \text{cm}.\ \blacksquare
+$$
 
 ## 习题七
 
-(习题 14.2 复习巩固第 7 题) 如图, $AB=AD$, $AC=AE$, $BC=DE$. 求证 $\angle BAC=\angle DAE$.
+(习题 27.2 综合运用第 8 题) 如图, 比例规由长度相等的两脚 $AD$ 和 $BC$ 交叉构成. 螺丝钉固定在刻度 $3$ 的地方, 即 $OA=3OD$, $OB=3OC$, $A$, $B$ 分别在线段 $l$ 的两个端点上. 这时 $CD$ 与 $AB$ 有什么关系? 为什么? 
 
 ### 解答 习题七
 
-在 $\triangle ABC$ 和 $\triangle ADE$ 中, $AB=AD$, $AC=AE$, $BC=DE$, 由SSS, $\triangle ABC\cong\triangle ADE$.
+$\angle AOB=\angle DOC$ (对顶角), 且 $\frac{OA}{OD}=3=\frac{OB}{OC}$, 由SAS, $\triangle OAB\backsim\triangle ODC$. 
 
-由基础知识, 对应角 $\angle BAC=\angle DAE$. $\blacksquare$
+$$
+\frac{AB}{CD}=\frac{OA}{OD}=3.
+$$
+
+故 $AB=3CD$. $\blacksquare$
 
 ## 习题八
 
-(习题 14.2 复习巩固第 8 题) 如图, 平分角仪器中 $AB=AD$, $BC=DC$. 将 $A$ 放在角顶点, $AB$, $AD$ 沿角两边放下, 沿 $AC$ 画射线 $AE$ 即平分线, 说明道理.
+(习题 27.2 综合运用第 9 题) 如图, 利用标杆 $BE$ 测量建筑物的高度. 标杆 $BE$ 高 $1.2\ \text{m}$, 测得 $AB=1.6\ \text{m}$, $BC=12.4\ \text{m}$, 楼高 $CD$ 是多少? 
 
 ### 解答 习题八
 
-在 $\triangle ABC$ 和 $\triangle ADC$ 中, $AB=AD$, $BC=DC$, $AC$ 为公共边, 由SSS, $\triangle ABC\cong\triangle ADC$.
+$BE\perp AC$, $CD\perp AC$, 故 $BE\parallel CD$, $\triangle ABE\backsim\triangle ACD$ (AA). 
 
-由基础知识, 对应角 $\angle BAC=\angle DAC$, 故 $AE$ 平分该角. $\blacksquare$
+$$
+\frac{BE}{CD}=\frac{AB}{AC}=\frac{1.6}{1.6+12.4}=\frac{1.6}{14}.
+$$
+
+$$
+CD=\frac{1.2\times14}{1.6}=10.5\ \text{m}.\ \blacksquare
+$$
 
 ## 习题九
 
-(习题 14.2 复习巩固第 9 题) 如图, 点 $C$ 在 $\angle AOB$ 的边 $OB$ 上. 利用直尺和圆规过点 $C$ 作射线 $OA$ 的平行线 $CD$.
+(习题 27.2 综合运用第 10 题) 如图, 为了测量一栋楼的高度, 王青同学在她脚下放了一面镜子, 然后向后退, 直到她刚好在镜子中看到楼的顶部. 这时 $\angle LMK$ 等于 $\angle SMT$ 吗? 如果王青身高 $1.55\ \text{m}$, 眼睛距地面 $1.50\ \text{m}$, 量得 $LM=30\ \text{cm}$, $MS=2\ \text{m}$, 这栋楼有多高? 
 
 ### 解答 习题九
 
-以 $O$ 为顶点作一个角等于 $\angle AOB$ 的同位角: 利用作一个角等于已知角的尺规方法, 过 $C$ 作 $\angle BCD$ 等于 $\angle BOA$, 使这两个角为同位角, 则 $CD\parallel OA$. $\blacksquare$
+由光的反射定律, 反射角等于入射角, 故 $\angle LMK=\angle SMT$. 
+
+$\angle KLM=\angle TSM=90^\circ$, 由AA, $\triangle KLM\backsim\triangle TSM$. 
+
+$$
+\frac{KL}{TS}=\frac{LM}{SM}=\frac{0.3}{2}=\frac{3}{20}.
+$$
+
+$KL=1.50\ \text{m}$, 故 $TS=1.50\times\frac{20}{3}=10\ \text{m}$. $\blacksquare$
 
 ## 习题十
 
-(习题 14.2 复习巩固第 10 题) 如图, 已知 $\triangle ABC$. 利用直尺和圆规作 $\triangle ABD$, 使 $\angle BAD=\angle BAC$, $AD=AC$ (点 $D$ 与 $C$ 在 $AB$ 不同侧).
+(习题 27.2 综合运用第 11 题) 如图, 四边形 $ABCD$ 是矩形, 点 $F$ 在对角线 $AC$ 上运动, $EF\parallel BC$, $FG\parallel CD$, 四边形 $AEFG$ 和四边形 $ABCD$ 一直保持相似吗? 证明你的结论. 
 
 ### 解答 习题十
 
-先利用作一个角等于已知角的方法, 在 $AB$ 与 $C$ 异侧作 $\angle BAD=\angle BAC$, 再在射线 $AD$ 上截取 $AD=AC$, 连接 $BD$, 即得所求的 $\triangle ABD$. $\blacksquare$
+$EF\parallel BC\parallel AD$, $FG\parallel CD\parallel AB$. 
+
+在矩形 $ABCD$ 中, $\angle A=\angle B=\angle C=\angle D=90^\circ$. 在四边形 $AEFG$ 中, $EF\parallel AG$, $FG\parallel AE$, 故四个角也都为 $90^\circ$. 
+
+又 $\triangle AEF\backsim\triangle ABC$, $\triangle AFG\backsim\triangle ACD$, 对应边比均为 $\frac{AF}{AC}$. 
+
+故四边形 $AEFG$ 与 $ABCD$ 对应角相等, 对应边成比例, 由基础知识, 一直保持相似. $\blacksquare$
 
 ## 习题十一
 
-(习题 14.2 综合运用第 11 题) 如图, 在 $\triangle ABC$ 中, $AB=AC$, $AD$ 是高. 求证 $BD=CD$, $\angle BAD=\angle CAD$.
+(习题 27.2 综合运用第 12 题) 如图, 平行于 $BC$ 的直线 $DE$ 把 $\triangle ABC$ 分成面积相等的两部分, 试确定点 $D$ (或 $E$) 的位置. 
 
 ### 解答 习题十一
 
-由 $AD$ 是高, 得 $\angle ADB=\angle ADC=90^\circ$. 在 $\text{Rt}\triangle ABD$ 和 $\text{Rt}\triangle ACD$ 中, 斜边 $AB=AC$, 直角边 $AD$ 为公共边, 由HL, $\text{Rt}\triangle ABD\cong\text{Rt}\triangle ACD$.
+由基础知识, $DE\parallel BC$, 故 $\triangle ADE\backsim\triangle ABC$. 
 
-由基础知识, 对应边 $BD=CD$, 对应角 $\angle BAD=\angle CAD$. $\blacksquare$
+由基础知识, $\frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\left(\frac{AD}{AB}\right)^2=\frac{1}{2}$. 
+
+故 $\frac{AD}{AB}=\frac{1}{\sqrt{2}}=\frac{\sqrt{2}}{2}$, 即 $D$ 在 $AB$ 上使 $AD:DB=\sqrt{2}:\left(2-\sqrt{2}\right)$. $\blacksquare$
 
 ## 习题十二
 
-(习题 14.2 综合运用第 12 题) 如图, $AC\perp CB$, $DB\perp CB$, 垂足分别为 $C$, $B$, $AB=DC$. 求证 $\angle ABD=\angle ACD$.
+(习题 27.2 拓广探索第 13 题) 如图, $\triangle ABC$ 中, $CD$ 是边 $AB$ 上的高, 且 $\frac{AD}{CD}=\frac{CD}{BD}$, 求 $\angle ACB$ 的大小. 
 
 ### 解答 习题十二
 
-由 $AC\perp CB$, $DB\perp CB$, 得 $\angle ACB=\angle DBC=90^\circ$. 在 $\text{Rt}\triangle ABC$ 和 $\text{Rt}\triangle DCB$ 中, 斜边 $AB=DC$, 直角边 $BC$ 为公共边, 由HL, $\text{Rt}\triangle ABC\cong\text{Rt}\triangle DCB$.
+$CD\perp AB$, 故 $\angle ADC=\angle CDB=90^\circ$. 又 $\frac{AD}{CD}=\frac{CD}{BD}$, 两边成比例且夹角相等, 由SAS, $\triangle ACD\backsim\triangle CBD$. 
 
-由基础知识, 对应角 $\angle ABC=\angle DCB$. 两边分别减去直角 $\angle CBD$ 与 $\angle ACB$, 得 $\angle ABD=\angle ACD$. $\blacksquare$
+故 $\angle ACD=\angle B$. 
+
+$$
+\angle ACB=\angle ACD+\angle BCD=\angle B+\angle BCD=90^\circ.\ \blacksquare
+$$
 
 ## 习题十三
 
-(习题 14.2 综合运用第 13 题) 如图, 点 $B$, $E$, $C$, $F$ 在一条直线上, $AB=DE$, $AC=DF$, $BE=CF$. 求证 $\angle A=\angle D$.
+(习题 27.2 拓广探索第 14 题) 如图, $\triangle ABC$ 中, $AB=8$, $AC=6$, $BC=9$. 动点 $D$ 以每秒 $2$ 个单位长度的速度从点 $B$ 出发沿边 $BA$ 向点 $A$ 运动, 此时直线 $DE\parallel BC$, 交 $AC$ 于点 $E$. 记 $x$ 秒时 $DE$ 的长度为 $y$, 写出 $y$ 关于 $x$ 的函数解析式, 并画出它的图象. 
+
+图为 $\triangle ABC$, $AB=8$, $AC=6$, $BC=9$; 点 $D$ 在边 $BA$ 上从 $B$ 向 $A$ 运动, 过 $D$ 作 $DE\parallel BC$ 交 $AC$ 于 $E$. 
 
 ### 解答 习题十三
 
-由 $BE=CF$, 得 $BE+EC=CF+EC$, 即 $BC=EF$. 在 $\triangle ABC$ 和 $\triangle DEF$ 中, $AB=DE$, $AC=DF$, $BC=EF$, 由SSS, $\triangle ABC\cong\triangle DEF$.
+$x$ 秒时 $BD=2x$, $AD=AB-BD=8-2x$. 
 
-由基础知识, 对应角 $\angle A=\angle D$. $\blacksquare$
+由基础知识, $DE\parallel BC$, $\triangle ADE\backsim\triangle ABC$, 故
+
+$$
+\frac{DE}{BC}=\frac{AD}{AB}=\frac{8-2x}{8}.
+$$
+
+$$
+y=DE=9\cdot\frac{8-2x}{8}=9-\frac{9}{4}x.
+$$
+
+其中 $0\le x\le4$. 图象为一条从 $\left(0,9\right)$ 到 $\left(4,0\right)$ 的线段. $\blacksquare$
+
+## 观察与猜想一
+
+(观察与猜想 奇妙的分形图形) 谢尔宾斯基地毯和雪花曲线中大大小小的三角形之间有什么关系? 
+
+### 解答 观察与猜想一
+
+谢尔宾斯基地毯由将正三角形四等分后挖去中间一个, 再对剩余小三角形重复操作得到; 雪花曲线由在等边三角形每条边中间向外作小等边三角形, 再重复操作得到. 两种图形中, 局部与整体形状相同, 即存在自相似性, 大大小小的三角形彼此相似. 这种具有自相似性的图形叫做分形图形. $\blacksquare$
+
+## 练习一
+
+(练习 27.3 第 1 题) 如图, $\triangle OAB$ 和 $\triangle OCD$ 是位似图形, $AB$ 与 $CD$ 平行吗? 为什么? 
+
+### 解答 练习一
+
+由位似图形, 位似图形是特殊的相似图形, 对应边互相平行. 
+
+$\triangle OAB$ 与 $\triangle OCD$ 位似, $AB$ 与 $CD$ 是对应边, 故 $AB\parallel CD$. $\blacksquare$
+
+## 练习二
+
+(练习 27.3 第 2 题) 如图, 以点 $O$ 为位似中心, 将 $\triangle ABC$ 按相似比 $3$ 放大. 
+
+图为 $\triangle ABC$, 形外有一点 $O$, 需以 $O$ 为位似中心将 $\triangle ABC$ 按相似比 $3$ 放大. 
+
+### 解答 练习二
+
+由基础知识, 连接 $OA,OB,OC$ 并延长, 在延长线上取 $A',B',C'$ 使 $OA'=3OA$, $OB'=3OB$, $OC'=3OC$, 顺次连接 $A',B',C'$, 所得 $\triangle A'B'C'$ 即为所求放大后的三角形. $\blacksquare$
+
+## 练习三
+
+(练习 27.3 第 1 题) 如图, 把 $\triangle AOB$ 缩小后得到 $\triangle COD$, 求 $\triangle COD$ 与 $\triangle AOB$ 的相似比. ($A\left(2,4\right)$, $B\left(5,0\right)$, $C\left(1,2\right)$, $D\left(2.5,0\right)$. )
+
+### 解答 练习三
+
+由位似图形, 相似比为对应点到位似中心距离之比. 
+
+$$
+\frac{OC}{OA}=\frac{\sqrt{1^2+2^2}}{\sqrt{2^2+4^2}}=\frac{\sqrt{5}}{\sqrt{20}}=\frac{1}{2}.
+$$
+
+故相似比为 $\frac{1}{2}$. $\blacksquare$
+
+## 练习四
+
+(练习 27.3 第 2 题) 如图, $\triangle ABO$ 三个顶点的坐标分别为 $A\left(4,-5\right)$, $B\left(6,0\right)$, $O\left(0,0\right)$. 以原点 $O$ 为位似中心, 把这个三角形按相似比 $2$ 放大, 得到 $\triangle A'B'O'$. 写出 $\triangle A'B'O'$ 三个顶点的坐标. 
+
+### 解答 练习四
+
+由位似的坐标规律, 以原点为位似中心, 相似比 $k=2$, 点 $\left(x,y\right)$ 对应 $\left(kx,ky\right)$ 或 $\left(-kx,-ky\right)$. 
+
+一组对应坐标为 $A'\left(8,-10\right)$, $B'\left(12,0\right)$, $O'\left(0,0\right)$; 另一组为 $A''\left(-8,10\right)$, $B''\left(-12,0\right)$, $O''\left(0,0\right)$. $\blacksquare$
 
 ## 习题十四
 
-(习题 14.2 综合运用第 14 题) 如图, $AC$ 和 $BD$ 相交于点 $O$, $OA=OC$, $OB=OD$. 求证 $AB\parallel CD$.
+(习题 27.3 复习巩固第 1 题) 如图, 如果虚线图形与实线图形是位似图形, 求它们的相似比并找出位似中心. 
 
 ### 解答 习题十四
 
-在 $\triangle AOB$ 和 $\triangle COD$ 中, $OA=OC$, $\angle AOB=\angle COD$ (对顶角), $OB=OD$, 由SAS, $\triangle AOB\cong\triangle COD$.
-
-由基础知识, 对应角 $\angle A=\angle C$, 这是内错角, 故 $AB\parallel CD$. $\blacksquare$
+由位似图形, 对应顶点连线的交点为位似中心, 对应边之比为相似比. 图中虚线图形与实线图形对应顶点连线交于一点, 该点即位似中心; 对应边长度之比即为相似比. $\blacksquare$
 
 ## 习题十五
 
-(习题 14.2 综合运用第 15 题) 如图, 点 $B$, $F$, $C$, $E$ 在一条直线上, $FB=CE$, $AB\parallel DE$, $AC\parallel DF$. 求证 $AB=DE$, $AC=DF$.
+(习题 27.3 复习巩固第 2 题) 如图, 以点 $P$ 为位似中心, 将五角星的边长缩小为原来的 $\frac{1}{2}$. 
 
 ### 解答 习题十五
 
-由 $FB=CE$, 得 $FB+FC=CE+FC$, 即 $BC=EF$. 由 $AB\parallel DE$, 得 $\angle B=\angle E$; 由 $AC\parallel DF$, 得 $\angle ACB=\angle DFE$. 在 $\triangle ABC$ 和 $\triangle DEF$ 中, $\angle B=\angle E$, $BC=EF$, $\angle ACB=\angle DFE$, 由ASA, $\triangle ABC\cong\triangle DEF$.
-
-由基础知识, 对应边 $AB=DE$, $AC=DF$. $\blacksquare$
+由基础知识, 连接位似中心 $P$ 与五角星各顶点, 在每条连线上取中点, 顺次连接这些中点, 所得五角星即为边长缩小为原来 $\frac{1}{2}$ 的位似图形. $\blacksquare$
 
 ## 习题十六
 
-(习题 14.2 综合运用第 16 题) 如图, $\triangle ABC\cong\triangle A'B'C'$, $AD$, $A'D'$ 分别是两三角形对应角的平分线. 求证 $AD=A'D'$.
+(习题 27.3 复习巩固第 3 题) $\triangle ABC$ 三个顶点的坐标分别为 $A\left(2,2\right)$, $B\left(4,2\right)$, $C\left(6,4\right)$. 以原点 $O$ 为位似中心, 将 $\triangle ABC$ 缩小得到 $\triangle DEF$, 使 $\triangle DEF$ 与 $\triangle ABC$ 对应边的比为 $1:2$, 这时 $\triangle DEF$ 各个顶点的坐标分别是多少? 
 
 ### 解答 习题十六
 
-由 $\triangle ABC\cong\triangle A'B'C'$, 得 $AB=A'B'$, $\angle B=\angle B'$, $\angle BAC=\angle B'A'C'$. 由 $AD$, $A'D'$ 是对应角平分线, 得 $\angle BAD=\frac{1}{2}\angle BAC$, $\angle B'A'D'=\frac{1}{2}\angle B'A'C'$, 故 $\angle BAD=\angle B'A'D'$.
+由位似的坐标规律, 相似比 $k=\frac{1}{2}$, 点 $\left(x,y\right)$ 对应 $\left(\frac{x}{2},\frac{y}{2}\right)$ 或 $\left(-\frac{x}{2},-\frac{y}{2}\right)$. 
 
-在 $\triangle ABD$ 和 $\triangle A'B'D'$ 中, $\angle BAD=\angle B'A'D'$, $AB=A'B'$, $\angle B=\angle B'$, 由ASA, $\triangle ABD\cong\triangle A'B'D'$.
-
-由基础知识, 对应边 $AD=A'D'$. $\blacksquare$
+一组: $D\left(1,1\right)$, $E\left(2,1\right)$, $F\left(3,2\right)$. 另一组: $D\left(-1,-1\right)$, $E\left(-2,-1\right)$, $F\left(-3,-2\right)$. $\blacksquare$
 
 ## 习题十七
 
-(习题 14.2 拓广探索第 17 题) 如图, $D$ 是 $AB$ 上一点, $DF$ 交 $AC$ 于点 $E$, $DE=FE$, $FC\parallel AB$. $AE$ 与 $CE$ 有什么关系? 证明你的结论.
+(习题 27.3 综合运用第 4 题) 如图, 正方形 $EFGH$, $IJKL$ 都是正方形 $ABCD$ 的位似图形, 点 $P$ 是位似中心. (1) 哪个图形与正方形 $ABCD$ 的相似比为 $3$? (2) 正方形 $IJKL$ 是正方形 $EFGH$ 的位似图形吗? 如果是, 求相似比. (3) 正方形 $EFGH$ 与正方形 $ABCD$ 的相似比是多少? 
 
 ### 解答 习题十七
 
-$AE=CE$. 证明: 由 $FC\parallel AB$, 得 $\angle ADE=\angle CFE$. 在 $\triangle ADE$ 和 $\triangle CFE$ 中, $\angle AED=\angle CEF$ (对顶角), $DE=FE$, $\angle ADE=\angle CFE$, 由ASA, $\triangle ADE\cong\triangle CFE$.
+由位似图形. 
 
-由基础知识, 对应边 $AE=CE$. $\blacksquare$
+(1) 正方形 $IJKL$ 最大, 与 $ABCD$ 的相似比为 $3$. 
+
+(2) $IJKL$ 与 $EFGH$ 对应顶点连线都经过位似中心 $P$, 且对应边平行, 故 $IJKL$ 是 $EFGH$ 的位似图形. $IJKL$ 与 $ABCD$ 相似比为 $3$, $EFGH$ 与 $ABCD$ 相似比为 $\frac{3}{2}$, 故 $IJKL$ 与 $EFGH$ 的相似比为 $\frac{3}{3/2}=2$. 
+
+(3) 正方形 $EFGH$ 与正方形 $ABCD$ 的相似比为 $\frac{3}{2}$. $\blacksquare$
 
 ## 习题十八
 
-(习题 14.2 拓广探索第 18 题) 如图, 在 $\triangle ABC$ 中, $AB=AC$, 点 $D$ 是 $BC$ 的中点, 点 $E$ 在 $AD$ 上. 找出图中的全等三角形, 并证明它们全等.
+(习题 27.3 综合运用第 5 题) 如图, 矩形 $AOBC$ 各点的坐标分别为 $A\left(0,3\right)$, $O\left(0,0\right)$, $B\left(4,0\right)$, $C\left(4,3\right)$. 以原点 $O$ 为位似中心, 将这个矩形按相似比 $\frac{1}{2}$ 缩小, 写出新矩形各顶点的坐标. 
 
 ### 解答 习题十八
 
-图中有 $\triangle ABD\cong\triangle ACD$, $\triangle ABE\cong\triangle ACE$, $\triangle DBE\cong\triangle DCE$.
+由位似的坐标规律, 相似比 $k=\frac{1}{2}$. 
 
-由 $D$ 是 $BC$ 中点, 得 $BD=CD$. 在 $\triangle ABD$ 和 $\triangle ACD$ 中, $AB=AC$, $BD=CD$, $AD$ 公共, 由SSS, $\triangle ABD\cong\triangle ACD$, 得 $\angle BAE=\angle CAE$.
+新矩形顶点坐标为 $A'\left(0,1.5\right)$, $O'\left(0,0\right)$, $B'\left(2,0\right)$, $C'\left(2,1.5\right)$. $\blacksquare$
 
-在 $\triangle ABE$ 和 $\triangle ACE$ 中, $AB=AC$, $\angle BAE=\angle CAE$, $AE$ 公共, 由SAS, $\triangle ABE\cong\triangle ACE$, 得 $BE=CE$.
+## 习题十九
 
-在 $\triangle DBE$ 和 $\triangle DCE$ 中, $BD=CD$, $BE=CE$, $DE$ 公共, 由SSS, $\triangle DBE\cong\triangle DCE$. $\blacksquare$
+(习题 27.3 综合运用第 6 题) 如图, 图中的图案与 "A" 字图案 (虚线图案) 相比, 发生了什么变化? 对应点的坐标之间有什么关系? (虚线图案顶点为 $\left(2,4\right)$, $\left(4,4\right)$ 等; 实线图案顶点为 $\left(2,8\right)$ 等. )
+
+图为平面直角坐标系中的两个"A"字图案: 虚线图案(较小)顶点为 $\left(2,4\right)$, $\left(4,4\right)$ 等, 实线图案(较大)顶点为 $\left(2,8\right)$ 等, 两图案以原点为位似中心, 相似比为 $2$. 
+
+### 解答 习题十九
+
+实线图案是虚线图案以原点为位似中心, 相似比 $2$ 放大后的位似图形. 对应点坐标由 $\left(x,y\right)$ 变为 $\left(2x,2y\right)$. $\blacksquare$
+
+## 习题二十
+
+(习题 27.3 拓广探索第 7 题) 如图, 以点 $Q$ 为位似中心, 画出与矩形 $MNPQ$ 的相似比为 $0.75$ 的一个图形. 
+
+图为矩形 $MNPQ$, 点 $Q$ 为其一个顶点, 需以 $Q$ 为位似中心画出与矩形 $MNPQ$ 相似比为 $0.75$ 的图形. 
+
+### 解答 习题二十
+
+由位似图形, 以 $Q$ 为位似中心, 连接 $QM,QN,QP$, 在各连线上取对应点 $M',N',P'$ 使 $QM'=0.75\,QM$, $QN'=0.75\,QN$, $QP'=0.75\,QP$, 顺次连接 $M',N',P',Q$, 所得矩形即为所求. $\blacksquare$
 
 ## 信息技术应用一
 
-(信息技术应用 探究三角形全等的条件) 在两边分别相等的基础上, 只有再添加它们的夹角相等时, 两三角形才重合全等; 若仅添加一边相等 (SSA), 不能保证全等. 类似地, 两角和它们的夹边分别相等, 斜边和一直角边分别相等的两直角三角形能判定全等. 由此确认 SAS, ASA, SSS, AAS, HL 为有效判定方法.
+(信息技术应用 探索位似的性质) (1) 度量位似图形对应边的比, 它与相似比 $k$ 有什么关系? (2) 以 $O$ 为原点, 对应点的横, 纵坐标之比与 $k$ 有什么关系? (3) 度量 $OA,OA',OB,OB',OC,OC'$, 你有什么发现? 
+
+### 解答 信息技术应用一
+
+由基础知识 和基础知识. 
+
+(1) 对应边的比等于相似比 $k$. 
+
+(2) 以 $O$ 为原点时, 对应点横坐标之比和纵坐标之比都等于 $k$. 
+
+(3) $\frac{OA'}{OA}=\frac{OB'}{OB}=\frac{OC'}{OC}=k$, 即位似中心到对应点的距离之比等于相似比. $\blacksquare$
+
+## 活动一
+
+(数学活动 活动 1 测量旗杆的高度) 利用相似三角形可以计算某些不能直接测量的物体的高度. 图中显示了测量旗杆高度的几种方法: 利用影子, 利用标杆, 利用镜子. 说出各种方法的道理. 
+
+### 解答 活动一
+
+由AA, 两种方法都通过构造相似三角形, 利用对应边成比例求旗杆高度. 
+
+(1) 利用影子: 同一时刻太阳光线平行, 旗杆与其影子, 竹竿与其影子分别构成两个直角三角形, 两锐角对应相等, 相似, 物高与影长成比例. 
+
+(2) 利用标杆: 标杆与旗杆都垂直于地面, 人眼, 标杆顶, 旗杆顶共线, 构成两个相似直角三角形, 对应边成比例. 
+
+(3) 利用镜子: 由反射定律入射角等于反射角, 人眼, 镜中旗杆顶像, 旗杆顶构成两个相似直角三角形, 对应边成比例. $\blacksquare$
+
+## 活动二
+
+(数学活动 活动 2 位似与美术字) 观察美术字, 第二种比第一种更有立体感. 量一量两幅图中每个美术字上端各条线段, 发现对应线段的比有什么关系? 图中由第一种美术字写出第二种美术字的方法中, 位似图形以及位似中心在哪里? 
+
+### 解答 活动二
+
+由位似图形, 第二种立体美术字相对于第一种平面美术字, 每个顶点都沿同一方向偏移, 对应线段互相平行且比值相等, 即两种美术字构成位似图形. 
+
+位似中心在每个笔画对应的放射线上, 对应线段的比等于相似比. 按此位似关系即可写出立体美术字. $\blacksquare$
+
+## 复习题一
+
+(复习题 27 复习巩固第 1 题) 如图, 四边形 $EFGH$ 相似于四边形 $KLMN$, 求 $\angle E$, $\angle G$, $\angle N$ 的度数以及 $x,y,z$ 的值. ($EFGH$ 中 $\angle E=143^\circ$, $EF=4$, $FG=6$, $GH=10$, $EH=x$; $KLMN$ 中 $\angle L=67^\circ$, $\angle M=107^\circ$, $KL=10$, $LM=y$, $MN=z$, $KN=35$. )
+
+### 解答 复习题一
+
+由相似多边形, $EFGH\backsim KLMN$, 对应角相等, 对应边成比例. 
+
+相似比为 $\frac{EF}{KL}=\frac{4}{10}=\frac{2}{5}$. 
+
+$\angle E=\angle K=143^\circ$, $\angle G=\angle M=107^\circ$. 四边形内角和为 $360^\circ$, 故 $\angle H=\angle N=360^\circ-143^\circ-67^\circ-107^\circ=43^\circ$. 
+
+$$
+\frac{FG}{LM}=\frac{2}{5}\Rightarrow\frac{6}{y}=\frac{2}{5}\Rightarrow y=15.
+$$
+
+$$
+\frac{GH}{MN}=\frac{2}{5}\Rightarrow\frac{10}{z}=\frac{2}{5}\Rightarrow z=25.
+$$
+
+$$
+\frac{EH}{KN}=\frac{2}{5}\Rightarrow\frac{x}{35}=\frac{2}{5}\Rightarrow x=14.
+$$
+
+故 $\angle E=143^\circ$, $\angle G=107^\circ$, $\angle N=43^\circ$, $x=14$, $y=15$, $z=25$. $\blacksquare$
+
+## 复习题二
+
+(复习题 27 复习巩固第 2 题) $\triangle ABC$ 的三边长分别为 $5$, $12$, $13$, 与它相似的 $\triangle DEF$ 的最小边长为 $15$, 求 $\triangle DEF$ 的其他两条边长和周长. 
+
+### 解答 复习题二
+
+相似比为 $\frac{15}{5}=3$. 
+
+其他两条边长为 $12\times3=36$ 和 $13\times3=39$. 
+
+周长为 $15+36+39=90$. $\blacksquare$
+
+## 复习题三
+
+(复习题 27 复习巩固第 3 题) 根据图中所注的条件, 判断图中两个三角形是否相似, 并求出 $x$ 和 $y$ 的值. (第一组: $\angle 1=\angle 2$, 两角对应相等; 第二组: 两边成比例且夹角相等. )
+
+### 解答 复习题三
+
+由AA 和SAS, 两组图形中的两个三角形均相似. 对应边成比例即可求出 $x,y$. $\blacksquare$

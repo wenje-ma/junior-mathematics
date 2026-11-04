@@ -1,39 +1,429 @@
 # week3
 
-## Activity 1
+## Review Problem 1
 
-(Math Activity, Activity 1, Weight Survey, Problem 1) The standard weight (unit: $\text{kg}$) for a child or adolescent is computed as follows: standard weight $=$ (age $\times 7-5\right)\div 2$. The table below shows the weight situation of $6$ students in a group in Grade 7, where the number of kilograms exceeding the standard weight is recorded as a positive number and the number of kilograms short of the standard weight is recorded as a negative number.
+(Review Problem, Extension and Exploration, Problem 10) (1) Are there negative numbers between $-1$ and $0$? What about between $0$ and $1$? If yes, give examples; if not, explain why.
 
-Number $1$, $2$, $3$, $4$, $5$, $6$; weight situation $-1.1$, $+2$, $-0.5$, $+10$, $+4.7$, $-8.3$.
+(2) Are there negative integers between $-3$ and $-1$? Which integers lie between $-2$ and $2$?
 
-(1) Which students in the table have weights exceeding the standard weight? Analyze how the students in this group exceed or fall short of the standard weight.
+(3) Is there a negative integer greater than $-1$?
 
-(2) Which student in the table has the weight closest to the standard weight? To understand the weight situation of the students, besides judging positive and negative numbers, what else should one consider?
+(4) Write down $3$ numbers that are less than $-100$ and greater than $-103$.
 
-### Solution to Activity 1
+### Solution to Review Problem 1
 
-By Representing Quantities of Opposite Meaning, exceeding the standard weight is recorded as a positive number, and falling short of the standard weight is recorded as a negative number.
+By Rational Numbers and Integers and Fractions.
 
-(1) In the table, the positive numbers are $+2$, $+10$, $+4.7$, that is, students numbered $2$, $4$, $5$ have weights exceeding the standard weight; the negative numbers are $-1.1$, $-0.5$, $-8.3$, that is, students numbered $1$, $3$, $6$ have weights falling short of the standard weight. Among the $6$ students in the group, $3$ exceed and $3$ fall short; the total excess is $2+10+4.7=16.7\ \text{kg}$, and the total shortfall is $\left|-1.1\right|+\left|-0.5\right|+\left|-8.3\right|=9.9\ \text{kg}$; the group as a whole is somewhat overweight.
+(1) There are negative numbers between $-1$ and $0$, for example $-0.5$, $-\frac{1}{2}$, and so on; there are no negative numbers between $0$ and $1$, because the numbers between $0$ and $1$ are all greater than $0$ and are all positive numbers.
 
-(2) By Absolute Value, the smaller the absolute value of a number, the smaller its deviation from $0$. The absolute values of the deviations are $1.1$, $2$, $0.5$, $10$, $4.7$, $8.3$, among which $0.5$ is the smallest, so the student numbered $3$ has the weight closest to the standard weight. Besides judging positive and negative numbers, one should also consider the magnitude of the absolute value of the deviation, that is, the extent to which the weight deviates from the standard weight, in order to judge whether the weight is standard. $\blacksquare$
+(2) There are no negative integers between $-3$ and $-1$ (excluding the endpoints), because the only integer between them is $-2$, but $-2$ is not in the open interval between $-3$ and $-1$; the integers between $-2$ and $2$ are $-1$, $0$, $1$.
 
-## Activity 2
+(3) No. By Comparing the Magnitude of Rational Numbers, the negative integers are $-1$, $-2$, $-3$, $\cdots$, among which the largest is $-1$, so there is no negative integer greater than $-1$.
 
-(Math Activity, Activity 2, Number Guessing Game, Problem 1) Two people work together to complete the game according to the following steps:
+(4) Numbers that are less than $-100$ and greater than $-103$ satisfy $-103< x< -100$, for example $-101$, $-102$, $-101.5$, and so on. $\blacksquare$
 
-(1) The first student silently thinks of an integer in the interval $-50\sim 50$ and remembers it;
+## Review Problem 2
 
-(2) The second student makes a guess about the number the first student is thinking of; the first student compares this number with the number in mind and then answers "too big", "too small", or "equal"; if equal, the second student has guessed correctly;
+(Review Problem, Extension and Exploration, Problem 11) If $\left|x\right|=2$, then must $x$ be $2$? If $\left|x\right|=0$, then what is $x$ equal to? If $x=-x$, then what is $x$ equal to?
 
-(3) If the second student has not guessed correctly, adjust the guess according to the first student's answer;
+### Solution to Review Problem 2
 
-(4) Repeat steps (2) and (3) until the number is guessed.
+By Absolute Value and Opposite Numbers.
 
-Please play this game and think about how to guess so as to find the number faster. Play the game several more times to test whether your number-guessing strategy is effective.
+If $\left|x\right|=2$, on the number line there are two points at distance $2$ unit lengths from the origin, representing $2$ and $-2$ respectively, so $x$ is not necessarily $2$; it could also be $-2$.
 
-### Solution to Activity 2
+If $\left|x\right|=0$, the only point on the number line at distance $0$ from the origin is the origin itself, so $x=0$.
 
-By Comparing the Magnitude of Rational Numbers, each answer "too big" or "too small" narrows the range in which the target number lies.
+If $x=-x$, then $2x=0$, so $x=0$. $\blacksquare$
 
-The number in mind lies in $-50\sim 50$, giving $101$ integers in total. Using a bisection strategy, each time guess the midpoint of the current interval: first guess $0$; if "too big", the target lies in $-50\sim 0$; if "too small", the target lies in $0\sim 50$. Each time the interval length is reduced by about half; since $2^6=64< 101\le 128=2^7$, the number can be guessed in at most $7$ tries. Taking the midpoint each time rather than guessing arbitrarily guarantees that about half of the possible numbers are ruled out each time, and hence is the fastest. $\blacksquare$
+## Exercise 1
+
+(Exercise 2.1, Problem 1) Express the following results using expressions:
+
+(1) the temperature rises by $7\,^\circ\text{C}$ from $-4\,^\circ\text{C}$;
+
+(2) an income of $7$ yuan, followed by an expenditure of $5$ yuan.
+
+### Solution to Exercise 1
+
+By Rules for Addition of Rational Numbers, rise and income are positive, and fall and expenditure are negative.
+
+(1) The temperature rises by $7\,^\circ\text{C}$ from $-4\,^\circ\text{C}$; the expression is $\left(-4\right)+7=3$, namely $3\,^\circ\text{C}$.
+
+(2) An income of $7$ yuan followed by an expenditure of $5$ yuan; the expression is $7+\left(-5\right)=2$, namely a balance of $2$ yuan. $\blacksquare$
+
+## Exercise 2
+
+(Exercise 2.1, Problem 2) Do mentally:
+
+(1) $\left(-4\right)+\left(-6\right)$; (2) $4+\left(-6\right)$; (3) $\left(-4\right)+6$;
+
+(4) $\left(-4\right)+4$; (5) $\left(-4\right)+14$; (6) $\left(-14\right)+4$;
+
+(7) $6+\left(-6\right)$; (8) $0+\left(-6\right)$; (9) $\left(-6\right)+0$.
+
+### Solution to Exercise 2
+
+By Rules for Addition of Rational Numbers.
+
+(1) $\left(-4\right)+\left(-6\right)=-10$; (2) $4+\left(-6\right)=-2$; (3) $\left(-4\right)+6=2$;
+
+(4) $\left(-4\right)+4=0$; (5) $\left(-4\right)+14=10$; (6) $\left(-14\right)+4=-10$;
+
+(7) $6+\left(-6\right)=0$; (8) $0+\left(-6\right)=-6$; (9) $\left(-6\right)+0=-6$. $\blacksquare$
+
+## Exercise 3
+
+(Exercise 2.1, Problem 3) Compute:
+
+(1) $15+\left(-22\right)$;
+
+(2) $\left(-13\right)+\left(-8\right)$;
+
+(3) $\left(-0.9\right)+1.5$;
+
+(4) $12+\left(-23\right)$.
+
+### Solution to Exercise 3
+
+By Rules for Addition of Rational Numbers.
+
+(1) $15+\left(-22\right)=-\left(22-15\right)=-7$;
+
+(2) $\left(-13\right)+\left(-8\right)=-\left(13+8\right)=-21$;
+
+(3) $\left(-0.9\right)+1.5=1.5-0.9=0.6$;
+
+(4) $12+\left(-23\right)=-\left(23-12\right)=-11$. $\blacksquare$
+
+## Exercise 4
+
+(Exercise 2.1, Problem 4) Please use real-life examples to explain the meaning of $\left(-3\right)+2=-1$ and $\left(-3\right)+\left(-2\right)=-5$.
+
+### Solution to Exercise 4
+
+By Rules for Addition of Rational Numbers.
+
+$\left(-3\right)+2=-1$: for example, the temperature first drops by $3\,^\circ\text{C}$ and then rises by $2\,^\circ\text{C}$, ending up $1\,^\circ\text{C}$ lower than before.
+
+$\left(-3\right)+\left(-2\right)=-5$: for example, first spending $3$ yuan and then spending another $2$ yuan gives a total expenditure of $5$ yuan, that is, the balance decreases by $5$ yuan. $\blacksquare$
+
+## Exercise 5
+
+(Exercise 2.1, Problem 1) Compute:
+
+(1) $23+\left(-17\right)+6+\left(-22\right)$;
+
+(2) $\left(-2\right)+3+1+\left(-3\right)+2+\left(-4\right)$;
+
+(3) $1+\left(-12\right)+13+\left(-16\right)$;
+
+(4) $3\frac{1}{4}+\left(-2\frac{3}{5}\right)+5\frac{3}{4}+\left(-8\frac{2}{5}\right)$.
+
+### Solution to Exercise 5
+
+By Commutative Law of Addition and Associative Law of Addition, group together numbers of the same sign.
+
+(1) The original expression $=\left(23+6\right)+\left[\left(-17\right)+\left(-22\right)\right]=29+\left(-39\right)=-10$.
+
+(2) The original expression $=\left[\left(-2\right)+\left(-3\right)+\left(-4\right)\right]+\left(3+1+2\right)=\left(-9\right)+6=-3$.
+
+(3) The original expression $=\left(1+13\right)+\left[\left(-12\right)+\left(-16\right)\right]=14+\left(-28\right)=-14$.
+
+(4) The original expression $=\left[3\frac{1}{4}+5\frac{3}{4}\right]+\left[\left(-2\frac{3}{5}\right)+\left(-8\frac{2}{5}\right)\right]=9+\left(-11\right)=-2$. $\blacksquare$
+
+## Exercise 6
+
+(Exercise 2.1, Problem 2) A bank savings card has a balance of $450$ yuan; first $80$ yuan is withdrawn, and then $150$ yuan is deposited. How much yuan is left in the savings card?
+
+### Solution to Exercise 6
+
+By Rules for Addition of Rational Numbers, depositing is positive and withdrawing is negative.
+
+$$450+\left(-80\right)+150=\left(450+150\right)-80=600-80=520.$$
+
+Hence there is $520$ yuan left in the savings card. $\blacksquare$
+
+## Exercise 7
+
+(Exercise 2.1, Problem 3) An airplane at an altitude of $9000\ \text{m}$ first descends by $300\ \text{m}$ and then climbs by $500\ \text{m}$. What is the flight altitude of the airplane at this point, in meters?
+
+### Solution to Exercise 7
+
+By Rules for Addition of Rational Numbers, climbing is positive and descending is negative.
+
+$$9000+\left(-300\right)+500=9000+200=9200.$$
+
+Hence the flight altitude of the airplane at this point is $9200\ \text{m}$. $\blacksquare$
+
+## Exercise 8
+
+(Exercise 2.1, Problem 1) Compute:
+
+(1) $6-9$; (2) $\left(+4\right)-\left(-7\right)$; (3) $\left(-5\right)-\left(-8\right)$;
+
+(4) $0-\left(-5\right)$; (5) $0-0.2$; (6) $\left(-2.5\right)-5.9$;
+
+(7) $1.9-\left(-0.6\right)$; (8) $\left(-\frac{1}{2}\right)-\frac{1}{4}$; (9) $\left(+2\frac{2}{7}\right)-\left(-3\frac{1}{2}\right)$.
+
+### Solution to Exercise 8
+
+By Rules for Subtraction of Rational Numbers, subtracting a number is equivalent to adding its opposite.
+
+(1) $6-9=6+\left(-9\right)=-3$; (2) $\left(+4\right)-\left(-7\right)=4+7=11$;
+
+(3) $\left(-5\right)-\left(-8\right)=-5+8=3$; (4) $0-\left(-5\right)=5$;
+
+(5) $0-0.2=-0.2$; (6) $\left(-2.5\right)-5.9=-8.4$;
+
+(7) $1.9-\left(-0.6\right)=1.9+0.6=2.5$; (8) $\left(-\frac{1}{2}\right)-\frac{1}{4}=-\frac{1}{2}-\frac{1}{4}=-\frac{3}{4}$;
+
+(9) $\left(+2\frac{2}{7}\right)-\left(-3\frac{1}{2}\right)=2\frac{2}{7}+3\frac{1}{2}=5\frac{11}{14}$. $\blacksquare$
+
+## Exercise 9
+
+(Exercise 2.1, Problem 2) Compute:
+
+(1) the temperature $8\,^\circ\text{C}$ lower than $2\,^\circ\text{C}$;
+
+(2) the temperature $6\,^\circ\text{C}$ lower than $-3\,^\circ\text{C}$.
+
+### Solution to Exercise 9
+
+By Rules for Subtraction of Rational Numbers, "lower than" uses subtraction.
+
+(1) $2-8=-6\,^\circ\text{C}$.
+
+(2) $-3-6=-9\,^\circ\text{C}$. $\blacksquare$
+
+## Exercise 10
+
+(Exercise 2.1, Problem 1) Compute:
+
+(1) $1-4+3-0.5$;
+
+(2) $-2.4+3.5-4.6+3.5$;
+
+(3) $\left(-7\right)-\left(+5\right)+\left(-4\right)-\left(-10\right)$;
+
+(4) $\frac{3}{4}-\frac{7}{2}+\left(-\frac{1}{6}\right)-\left(-\frac{2}{3}\right)-1$.
+
+### Solution to Exercise 10
+
+By Rules for Subtraction of Rational Numbers, convert subtraction into addition, and then combine by Commutative Law of Addition.
+
+(1) The original expression $=1-4+3-0.5=0-0.5=-0.5$.
+
+(2) The original expression $=\left(-2.4-4.6\right)+\left(3.5+3.5\right)=-7+7=0$.
+
+(3) The original expression $=-7-5-4+10=-6$.
+
+(4) The original expression $=\frac{3}{4}-\frac{7}{2}-\frac{1}{6}+\frac{2}{3}-1=\frac{9-42-2+8-12}{12}=-\frac{39}{12}=-\frac{13}{4}$. $\blacksquare$
+
+## Exercise 11
+
+(Exercise 2.1, Problem 2) First rewrite the following expressions in the form omitting parentheses and plus signs, and then compute:
+
+(1) $\left(-52\right)-\left(+37\right)+\left(-19\right)-\left(-24\right)$;
+
+(2) $\left(+2\frac{3}{4}\right)-\left(-\frac{1}{2}\right)-\left(-3\frac{3}{4}\right)-\left(+5\frac{1}{2}\right)$.
+
+### Solution to Exercise 11
+
+By Rules for Subtraction of Rational Numbers.
+
+(1) The original expression $=-52-37-19+24=-84$.
+
+(2) The original expression $=2\frac{3}{4}+\frac{1}{2}+3\frac{3}{4}-5\frac{1}{2}=\left(2\frac{3}{4}+3\frac{3}{4}\right)+\left(\frac{1}{2}-5\frac{1}{2}\right)=6\frac{1}{2}-5=\frac{3}{2}$. $\blacksquare$
+
+## Problem 1
+
+(Exercise 2.1, Review and Consolidation, Problem 1) Compute:
+
+(1) $\left(-10\right)+\left(+6\right)$; (2) $\left(+12\right)+\left(-4\right)$; (3) $\left(-5\right)+\left(-7\right)$;
+
+(4) $\left(+6.2\right)+\left(-9.3\right)$; (5) $\left(-0.9\right)+\left(-2.7\right)$; (6) $\left(-2.1\right)+\left(+3.9\right)$;
+
+(7) $\frac{2}{5}+\left(-\frac{3}{5}\right)$; (8) $\left(-\frac{1}{3}\right)+\frac{2}{5}$; (9) $\left(-3\frac{1}{4}\right)+\left(-1\frac{1}{12}\right)$.
+
+### Solution to Problem 1
+
+By Rules for Addition of Rational Numbers.
+
+(1) $\left(-10\right)+\left(+6\right)=-4$; (2) $\left(+12\right)+\left(-4\right)=8$; (3) $\left(-5\right)+\left(-7\right)=-12$;
+
+(4) $\left(+6.2\right)+\left(-9.3\right)=-3.1$; (5) $\left(-0.9\right)+\left(-2.7\right)=-3.6$; (6) $\left(-2.1\right)+\left(+3.9\right)=1.8$;
+
+(7) $\frac{2}{5}+\left(-\frac{3}{5}\right)=-\frac{1}{5}$; (8) $\left(-\frac{1}{3}\right)+\frac{2}{5}=\frac{-5+6}{15}=\frac{1}{15}$;
+
+(9) $\left(-3\frac{1}{4}\right)+\left(-1\frac{1}{12}\right)=-\left(3\frac{3}{12}+1\frac{1}{12}\right)=-4\frac{1}{3}$. $\blacksquare$
+
+## Problem 2
+
+(Exercise 2.1, Review and Consolidation, Problem 2) Compute:
+
+(1) $\left(-8\right)+10+2+\left(-1\right)$;
+
+(2) $5+\left(-6\right)+3+9+\left(-4\right)+\left(-7\right)$;
+
+(3) $\left(-0.8\right)+1.2+\left(-0.7\right)+\left(-2.1\right)+0.8+3.5$;
+
+(4) $\frac{1}{2}+\left(-\frac{2}{3}\right)+\frac{4}{5}+\left(-\frac{1}{2}\right)+\left(-\frac{1}{3}\right)$.
+
+### Solution to Problem 2
+
+By Commutative Law of Addition and Associative Law of Addition.
+
+(1) The original expression $=\left(-8-1\right)+\left(10+2\right)=-9+12=3$.
+
+(2) The original expression $=\left(5+3+9\right)+\left[\left(-6\right)+\left(-4\right)+\left(-7\right)\right]=17+\left(-17\right)=0$.
+
+(3) The original expression $=\left[\left(-0.8\right)+0.8\right]+1.2+\left(-0.7\right)+\left(-2.1\right)+3.5=1.2-2.8+3.5=1.9$.
+
+(4) The original expression $=\left[\frac{1}{2}+\left(-\frac{1}{2}\right)\right]+\left[\left(-\frac{2}{3}\right)+\left(-\frac{1}{3}\right)\right]+\frac{4}{5}=0+\left(-1\right)+\frac{4}{5}=-\frac{1}{5}$. $\blacksquare$
+
+## Problem 3
+
+(Exercise 2.1, Review and Consolidation, Problem 3) Compute:
+
+(1) $\left(-8\right)-8$; (2) $\left(-8\right)-\left(-8\right)$; (3) $8-\left(-8\right)$; (4) $8-8$;
+
+(5) $0-6$; (6) $0-\left(-6\right)$; (7) $16-47$; (8) $\left(-3.8\right)-\left(+7\right)$; (9) $\left(-5.9\right)-\left(-6.1\right)$.
+
+### Solution to Problem 3
+
+By Rules for Subtraction of Rational Numbers.
+
+(1) $\left(-8\right)-8=-16$; (2) $\left(-8\right)-\left(-8\right)=0$; (3) $8-\left(-8\right)=16$; (4) $8-8=0$;
+
+(5) $0-6=-6$; (6) $0-\left(-6\right)=6$; (7) $16-47=-31$; (8) $\left(-3.8\right)-\left(+7\right)=-10.8$; (9) $\left(-5.9\right)-\left(-6.1\right)=0.2$. $\blacksquare$
+
+## Problem 4
+
+(Exercise 2.1, Review and Consolidation, Problem 4) Compute:
+
+(1) $\left(+\frac{2}{5}\right)-\left(-\frac{3}{5}\right)$; (2) $\left(-\frac{2}{5}\right)-\left(-\frac{3}{5}\right)$; (3) $\frac{1}{2}-\frac{1}{3}$;
+
+(4) $\left(-\frac{1}{2}\right)-\frac{1}{3}$; (5) $-\frac{2}{3}-\left(-\frac{1}{6}\right)$; (6) $0-\left(-\frac{3}{4}\right)$;
+
+(7) $\left(-2\right)-\left(+\frac{2}{3}\right)$; (8) $\left(-16\frac{3}{4}\right)-\left(-10\frac{1}{4}\right)-\left(+1\frac{1}{2}\right)$.
+
+### Solution to Problem 4
+
+By Rules for Subtraction of Rational Numbers.
+
+(1) $\left(+\frac{2}{5}\right)-\left(-\frac{3}{5}\right)=\frac{2}{5}+\frac{3}{5}=1$; (2) $\left(-\frac{2}{5}\right)-\left(-\frac{3}{5}\right)=-\frac{2}{5}+\frac{3}{5}=\frac{1}{5}$;
+
+(3) $\frac{1}{2}-\frac{1}{3}=\frac{1}{6}$; (4) $\left(-\frac{1}{2}\right)-\frac{1}{3}=-\frac{5}{6}$;
+
+(5) $-\frac{2}{3}-\left(-\frac{1}{6}\right)=-\frac{2}{3}+\frac{1}{6}=-\frac{1}{2}$; (6) $0-\left(-\frac{3}{4}\right)=\frac{3}{4}$;
+
+(7) $\left(-2\right)-\left(+\frac{2}{3}\right)=-2-\frac{2}{3}=-\frac{8}{3}$; (8) $\left(-16\frac{3}{4}\right)-\left(-10\frac{1}{4}\right)-\left(+1\frac{1}{2}\right)=-16\frac{3}{4}+10\frac{1}{4}-1\frac{1}{2}=-8$. $\blacksquare$
+
+## Problem 5
+
+(Exercise 2.1, Review and Consolidation, Problem 5) Compute:
+
+(1) $-4.2+5.7-8.4+10$;
+
+(2) $-\frac{1}{4}+\frac{5}{6}+\frac{2}{3}-\frac{1}{2}$;
+
+(3) $12-\left(-18\right)+\left(-7\right)-15$;
+
+(4) $4.7-\left(-8.9\right)-7.5+\left(-6\right)$;
+
+(5) $\left(-4\frac{7}{8}\right)-\left(-5\frac{1}{2}\right)+\left(-4\frac{1}{4}\right)-\left(+3\frac{1}{8}\right)$;
+
+(6) $\left(-\frac{2}{3}\right)+\left|0-5\frac{1}{6}\right|+\left|-4\frac{5}{6}\right|+\left(-9\frac{1}{3}\right)$.
+
+### Solution to Problem 5
+
+By Rules for Subtraction of Rational Numbers and Commutative Law of Addition.
+
+(1) The original expression $=\left(-4.2-8.4\right)+\left(5.7+10\right)=-12.6+15.7=3.1$.
+
+(2) The original expression $=\frac{-3+10+8-6}{12}=\frac{9}{12}=\frac{3}{4}$.
+
+(3) The original expression $=12+18-7-15=8$.
+
+(4) The original expression $=4.7+8.9-7.5-6=0.1$.
+
+(5) The original expression $=-4\frac{7}{8}+5\frac{1}{2}-4\frac{1}{4}-3\frac{1}{8}=\left(-4\frac{7}{8}-3\frac{1}{8}\right)+\left(5\frac{1}{2}-4\frac{1}{4}\right)=-8+1\frac{1}{4}=-6\frac{3}{4}$.
+
+(6) The original expression $=-\frac{2}{3}+5\frac{1}{6}+4\frac{5}{6}-9\frac{1}{3}=\left(-\frac{2}{3}-9\frac{1}{3}\right)+\left(5\frac{1}{6}+4\frac{5}{6}\right)=-10+10=0$. $\blacksquare$
+
+## Problem 6
+
+(Exercise 2.1, Comprehensive Application, Problem 6) As shown in the figure, the highest point on land is the summit of Mount Everest, and the lowest point is the Dead Sea, a lake in western Asia. What is the difference in height between the two, in meters? (The height of Mount Everest is $8848.86\ \text{m}$, and the surface elevation of the Dead Sea is $-432\ \text{m}$.)
+
+### Solution to Problem 6
+
+By Rules for Subtraction of Rational Numbers, the height difference is the higher height minus the lower height.
+
+$$8848.86-\left(-432\right)=8848.86+432=9280.86.$$
+
+Hence the height difference between the two is $9280.86\ \text{m}$. $\blacksquare$
+
+## Problem 7
+
+(Exercise 2.1, Comprehensive Application, Problem 7) One morning at a certain place the temperature is $-7\,^\circ\text{C}$; at noon it rises by $11\,^\circ\text{C}$, and at midnight it drops by $9\,^\circ\text{C}$. What is the temperature at midnight, in degrees Celsius?
+
+### Solution to Problem 7
+
+By Rules for Addition of Rational Numbers and Rules for Subtraction of Rational Numbers.
+
+$$-7+11-9=-5.$$
+
+Hence the temperature at midnight is $-5\,^\circ\text{C}$. $\blacksquare$
+
+## Problem 8
+
+(Exercise 2.1, Comprehensive Application, Problem 8) The profit/loss situation of a food store on each day of a week is as follows (profit recorded as positive):
+
+$$432\text{ 元},\ -12.5\text{ 元},\ -10.5\text{ 元},\ 327\text{ 元},\ -87\text{ 元},\ 536.5\text{ 元},\ 698\text{ 元}.$$
+
+What is the overall profit/loss of the food store over the whole week?
+
+### Solution to Problem 8
+
+By Rules for Addition of Rational Numbers, find the sum of the profit/loss over the seven days.
+
+$$432-12.5-10.5+327-87+536.5+698=1883.5.$$
+
+The result is positive, so over the whole week there is a total profit of $1883.5$ yuan. $\blacksquare$
+
+## Problem 9
+
+(Exercise 2.1, Extension and Exploration, Problem 9) There are $8$ baskets of Chinese cabbage, taking $25\ \text{kg}$ per basket as the mass standard; the number of kilograms exceeding is recorded as a positive number and the number of kilograms short is recorded as a negative number. The recorded values after weighing (unit: $\text{kg}$) are:
+
+$$1.5,\ -3,\ 2,\ -0.5,\ 1,\ -2,\ -2,\ -2.5.$$
+
+What is the total mass of these $8$ baskets of Chinese cabbage, in kilograms?
+
+### Solution to Problem 9
+
+By Rules for Addition of Rational Numbers, first find the sum of the deviations, and then find the total mass.
+
+The sum of the deviations is
+
+$$1.5-3+2-0.5+1-2-2-2.5=-5.5.$$
+
+The standard total mass of the $8$ baskets is $25\times 8=200\ \text{kg}$, so the actual total mass is
+
+$$200+\left(-5.5\right)=194.5.$$
+
+Hence these $8$ baskets of Chinese cabbage together weigh $194.5\ \text{kg}$. $\blacksquare$
+
+## Problem 10
+
+(Exercise 2.1, Extension and Exploration, Problem 10) The highest and lowest temperatures each day over a week at a certain place are shown in the table below. Which day has the largest temperature difference? Which day has the smallest?
+
+Day: Mon, Tue, Wed, Thu, Fri, Sat, Sun. Highest temperature: $10$, $12$, $11$, $9$, $7$, $5$, $7$ ($^\circ\text{C}$). Lowest temperature: $2$, $1$, $0$, $-1$, $-4$, $-5$, $-5$ ($^\circ\text{C}$).
+
+### Solution to Problem 10
+
+By Rules for Subtraction of Rational Numbers, the temperature difference $=$ highest temperature $-$ lowest temperature.
+
+The temperature difference on each day is: Monday $10-2=8$; Tuesday $12-1=11$; Wednesday $11-0=11$; Thursday $9-\left(-1\right)=10$; Friday $7-\left(-4\right)=11$; Saturday $5-\left(-5\right)=10$; Sunday $7-\left(-5\right)=12$.
+
+Comparing, $12> 11> 10> 8$, so Sunday has the largest temperature difference and Monday has the smallest. $\blacksquare$

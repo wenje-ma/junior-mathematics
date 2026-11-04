@@ -2,332 +2,516 @@
 
 ## 练习一
 
-(练习 8.1 第 1 题) 判断题.
+(练习 16.2 第 3 题) 计算:
 
-(1) $1$ 的平方根是 $1$;
+(1) $\left(6ab+5a\right)\div a$;
 
-(2) $-1$ 的平方根是 $-1$;
-
-(3) $0.5$ 是 $0.25$ 的一个平方根;
-
-(4) $0$ 的平方根是 $0$.
+(2) $\left(15x^2 y-10xy^2\right)\div\left(5xy\right)$.
 
 ### 解答 练习一
 
-由平方根的性质, 正数有两个互为相反数的平方根, $0$ 的平方根是 $0$, 负数没有平方根.
+由多项式除以单项式.
 
-(1) $1$ 的平方根是 $\pm 1$, 而不只是 $1$, 故错误.
+(1) $\left(6ab+5a\right)\div a=6b+5$.
 
-(2) $-1$ 是负数, 负数没有平方根, 故错误.
-
-(3) $\because 0.5^2=0.25$, $\therefore 0.5$ 是 $0.25$ 的一个平方根 ($0.25$ 的平方根为 $\pm 0.5$), 故正确.
-
-(4) 由平方根的性质, $0$ 的平方根是 $0$, 故正确. $\blacksquare$
-
-## 练习二
-
-(练习 8.1 第 2 题) 求下列各数的平方根:
-
-(1) $\frac{64}{81}$;　(2) $6^2$;　(3) $0.49$.
-
-### 解答 练习二
-
-由平方根, 找平方等于该数的数.
-
-(1) $\because\left(\pm\frac{8}{9}\right)^2=\frac{64}{81}$, $\therefore\frac{64}{81}$ 的平方根是 $\pm\frac{8}{9}$.
-
-(2) $6^2=36$, $\because\left(\pm 6\right)^2=36$, $\therefore 6^2$ 的平方根是 $\pm 6$.
-
-(3) $\because\left(\pm 0.7\right)^2=0.49$, $\therefore 0.49$ 的平方根是 $\pm 0.7$. $\blacksquare$
-
-## 练习三
-
-(练习 8.1 第 3 题) 求下列各式中 $x$ 的值:
-
-(1) $x^2=25$;　(2) $9x^2=4$;　(3) $\left(x-1\right)^2=1$.
-
-### 解答 练习三
-
-由平方根, $x^2=a$ 时 $x=\pm\sqrt a$.
-
-(1) $x^2=25$, 故 $x=\pm\sqrt{25}=\pm 5$.
-
-(2) $9x^2=4$, 即 $x^2=\frac{4}{9}$, 故 $x=\pm\sqrt{\frac{4}{9}}=\pm\frac{2}{3}$.
-
-(3) $\left(x-1\right)^2=1$, 故 $x-1=\pm\sqrt 1=\pm 1$. 当 $x-1=1$ 时 $x=2$; 当 $x-1=-1$ 时 $x=0$. 故 $x=2$ 或 $x=0$. $\blacksquare$
-
-## 练习四
-
-(练习 8.1 第 1 题) 求下列各数的算术平方根:
-
-(1) $0.09$;　(2) $\frac{81}{49}$;　(3) $5^2$.
-
-### 解答 练习四
-
-由算术平方根, 算术平方根是正的那个平方根.
-
-(1) $\because 0.3^2=0.09$, $\therefore\sqrt{0.09}=0.3$.
-
-(2) $\because\left(\frac{9}{7}\right)^2=\frac{81}{49}$, $\therefore\sqrt{\frac{81}{49}}=\frac{9}{7}$.
-
-(3) $5^2=25$, $\because 5^2=25$, $\therefore\sqrt{5^2}=5$. $\blacksquare$
-
-## 练习五
-
-(练习 8.1 第 2 题) 求下列各式的值:
-
-(1) $\sqrt{36}$;　(2) $-\sqrt{0.64}$;　(3) $\pm\sqrt{169}$.
-
-### 解答 练习五
-
-由算术平方根, $\sqrt a$ 表示算术平方根, $\pm\sqrt a$ 表示两个平方根.
-
-(1) $\because 6^2=36$, $\therefore\sqrt{36}=6$.
-
-(2) $\because 0.8^2=0.64$, $\therefore\sqrt{0.64}=0.8$, 故 $-\sqrt{0.64}=-0.8$.
-
-(3) $\because 13^2=169$, $\therefore\pm\sqrt{169}=\pm 13$. $\blacksquare$
-
-## 练习六
-
-(练习 8.1 第 3 题) 排球比赛场地呈长方形, 长是宽的 $2$ 倍, 面积为 $162\,\text{m}^2$. 它的长与宽分别是多少?
-
-### 解答 练习六
-
-设宽为 $x\,\text{m}$, 则长为 $2x\,\text{m}$. 由长方形面积公式,
-
-$$
-x\cdot 2x=162,\quad 2x^2=162,\quad x^2=81.
-$$
-
-由平方根, $x=\sqrt{81}=9$ (取正). 故宽为 $9\,\text{m}$, 长为 $2x=18\,\text{m}$. $\blacksquare$
-
-## 练习七
-
-(练习 8.1 第 1 题) 用计算器求下列各式的值:
-
-(1) $\sqrt{961}$;　(2) $\sqrt{96.04}$;　(3) $\sqrt{403}$ (结果保留小数点后三位).
-
-### 解答 练习七
-
-由算术平方根, 用计算器求正平方根.
-
-(1) $\because 31^2=961$, $\therefore\sqrt{961}=31$.
-
-(2) 用计算器算得 $\sqrt{96.04}=9.8$.
-
-(3) 用计算器算得 $\sqrt{403}\approx 20.075$. $\blacksquare$
-
-## 练习八
-
-(练习 8.1 第 2 题) 下列各数分别介于哪两个相邻的整数之间?
-
-(1) $\sqrt 5$;　(2) $\sqrt{26}$;　(3) $\sqrt\left[3\right]{83}$.
-
-### 解答 练习八
-
-由算术平方根的大小, 比较平方数.
-
-(1) $\because 2^2=4< 5< 9=3^2$, $\therefore 2< \sqrt 5< 3$, 即 $\sqrt 5$ 介于 $2$ 与 $3$ 之间.
-
-(2) $\because 5^2=25< 26< 36=6^2$, $\therefore 5< \sqrt{26}< 6$, 即 $\sqrt{26}$ 介于 $5$ 与 $6$ 之间.
-
-(3) $\because 4^3=64< 83< 125=5^3$, $\therefore 4< \sqrt\left[3\right]{83}< 5$, 即 $\sqrt\left[3\right]{83}$ 介于 $4$ 与 $5$ 之间. $\blacksquare$
-
-## 练习九
-
-(练习 8.1 第 3 题) 长方形画纸的面积为 $700\,\text{cm}^2$, 长与宽的比为 $5:4$. 王芳想从中裁出半径为 $12\,\text{cm}$ 的圆形画纸, 她的想法可行吗?
-
-### 解答 练习九
-
-设长为 $5x\,\text{cm}$, 宽为 $4x\,\text{cm}$. 由面积,
-
-$$
-5x\cdot 4x=700,\quad 20x^2=700,\quad x^2=35.
-$$
-
-由平方根, $x=\sqrt{35}\approx 5.92$. 故长为 $5\sqrt{35}\approx 29.6\,\text{cm}$, 宽为 $4\sqrt{35}\approx 23.7\,\text{cm}$.
-
-半径 $12\,\text{cm}$ 的圆直径为 $24\,\text{cm}$. 画纸宽约 $23.7\,\text{cm}< 24\,\text{cm}$, 直径放不进宽边. 故王芳的想法不可行. $\blacksquare$
+(2) $\left(15x^2 y-10xy^2\right)\div\left(5xy\right)=3x-2y$. $\blacksquare$
 
 ## 习题一
 
-(习题 8.1 复习巩固第 1 题) 求下列各数的平方根:
+(习题 16.2 复习巩固第 1 题) 计算:
 
-(1) $81$;　(2) $\frac{1}{10^6}$;　(3) $0.0016$.
+(1) $3x\cdot6x^2 y$;
+
+(2) $a^2 b\left(-3ab^2\right)$;
+
+(3) $4x^2 y\left(-xy^2\right)^3$;
+
+(4) $\left(1.25\times10^5\right)\times\left(2\times10^3\right)^3$.
 
 ### 解答 习题一
 
-由平方根.
+由基础知识.
 
-(1) $\because\left(\pm 9\right)^2=81$, $\therefore 81$ 的平方根是 $\pm 9$.
+(1) $3x\cdot6x^2 y=18x^3 y$.
 
-(2) $\because\left(\pm\frac{1}{10^3}\right)^2=\frac{1}{10^6}$, $\therefore\frac{1}{10^6}$ 的平方根是 $\pm\frac{1}{10^3}=\pm 0.001$.
+(2) $a^2 b\left(-3ab^2\right)=-3a^3 b^3$.
 
-(3) $\because\left(\pm 0.04\right)^2=0.0016$, $\therefore 0.0016$ 的平方根是 $\pm 0.04$. $\blacksquare$
+(3) $4x^2 y\left(-xy^2\right)^3=4x^2 y\cdot\left(-x^3 y^6\right)=-4x^5 y^7$.
+
+(4) $\left(1.25\times10^5\right)\times\left(2\times10^3\right)^3=1.25\times10^5\times8\times10^9=10\times10^{14}=1\times10^{15}$. $\blacksquare$
 
 ## 习题二
 
-(习题 8.1 复习巩固第 2 题) 求下列各数的算术平方根:
+(习题 16.2 复习巩固第 2 题) 计算:
 
-(1) $\frac{25}{64}$;　(2) $0.04$;　(3) $10^2$.
+(1) $\left(4a-b^2\right)\left(-2b\right)$;
+
+(2) $2x^2\left(x-\frac12\right)$;
+
+(3) $5ab\left(2a-b+0.2\right)$;
+
+(4) $\left(2a^2-\frac23 a-\frac49\right)\left(-9a\right)$.
 
 ### 解答 习题二
 
-由算术平方根.
+由基础知识.
 
-(1) $\because\left(\frac{5}{8}\right)^2=\frac{25}{64}$, $\therefore\sqrt{\frac{25}{64}}=\frac{5}{8}$.
+(1) $\left(4a-b^2\right)\left(-2b\right)=-8ab+2b^3$.
 
-(2) $\because 0.2^2=0.04$, $\therefore\sqrt{0.04}=0.2$.
+(2) $2x^2\left(x-\frac12\right)=2x^3-x^2$.
 
-(3) $10^2=100$, $\because 10^2=100$, $\therefore\sqrt{10^2}=10$. $\blacksquare$
+(3) $5ab\left(2a-b+0.2\right)=10a^2 b-5ab^2+ab$.
+
+(4) $\left(2a^2-\frac23 a-\frac49\right)\left(-9a\right)=-18a^3+6a^2+4a$. $\blacksquare$
 
 ## 习题三
 
-(习题 8.1 复习巩固第 3 题) 判断题.
+(习题 16.2 复习巩固第 3 题) 计算:
 
-(1) $\sqrt 5$ 是 $5$ 的一个平方根;
+(1) $\left(x-6\right)\left(x-3\right)$;
 
-(2) $\left(-3\right)^2$ 的算术平方根是 $-3$;
+(2) $\left(x+\frac12\right)\left(x-\frac13\right)$;
 
-(3) $\sqrt 4$ 的平方根是 $\pm 2$;
+(3) $\left(3x+2\right)\left(x+2\right)$;
 
-(4) $0$ 的平方根与算术平方根都是 $0$.
+(4) $\left(4y-1\right)\left(5-y\right)$;
+
+(5) $\left(x-2\right)\left(x^2+4\right)$;
+
+(6) $\left(x-1\right)\left(x^2+x+1\right)$.
 
 ### 解答 习题三
 
-由平方根 与算术平方根.
+由基础知识.
 
-(1) $\because\left(\sqrt 5\right)^2=5$, $\therefore\sqrt 5$ 是 $5$ 的一个平方根, 正确.
+(1) $\left(x-6\right)\left(x-3\right)=x^2-9x+18$.
 
-(2) $\left(-3\right)^2=9$, $9$ 的算术平方根是 $3$, 不是 $-3$, 故错误.
+(2) $\left(x+\frac12\right)\left(x-\frac13\right)=x^2+\frac16 x-\frac16$.
 
-(3) $\sqrt 4=2$, 而 $2$ 的平方根是 $\pm\sqrt 2$, 故 $\sqrt 4$ 的平方根是 $\pm\sqrt 2$, 不是 $\pm 2$, 错误.
+(3) $\left(3x+2\right)\left(x+2\right)=3x^2+8x+4$.
 
-(4) 由平方根的性质, $0$ 的平方根是 $0$, 由规定 $0$ 的算术平方根也是 $0$, 正确. $\blacksquare$
+(4) $\left(4y-1\right)\left(5-y\right)=20y-4y^2-5+y=-4y^2+21y-5$.
+
+(5) $\left(x-2\right)\left(x^2+4\right)=x^3+4x-2x^2-8=x^3-2x^2+4x-8$.
+
+(6) $\left(x-1\right)\left(x^2+x+1\right)=x^3+x^2+x-x^2-x-1=x^3-1$. $\blacksquare$
 
 ## 习题四
 
-(习题 8.1 复习巩固第 4 题) 用计算器求下列各式的值 (结果保留小数点后两位):
+(习题 16.2 复习巩固第 4 题) 计算:
 
-(1) $\sqrt{408}$;　(2) $\sqrt{51.42534}$;　(3) $\sqrt{\frac{111}{14}}$.
+(1) $\left(a^3\right)^2\div\left(a^2\right)^3$;
+
+(2) $\left(ab^2\right)^3\div\left(-ab\right)^2$;
+
+(3) $\left(25a^3 b^2\right)\div\left(5ab\right)^2$;
+
+(4) $\left(14m^2 n\right)^2\div\left(7m^2\right)\div\left(7m\right)$;
+
+(5) $\left(-5a^3 b^5 c+35a^2 b^3 c^2-abc\right)\div\left(-abc\right)$;
+
+(6) $\left(-81x^{n+5}+15x^{n+1}-3x^{n-1}\right)\div\left(-3x^{n-1}\right)$.
 
 ### 解答 习题四
 
-由算术平方根, 用计算器求正平方根后四舍五入.
+由基础知识 与基础知识.
 
-(1) $\sqrt{408}\approx 20.20$.
+(1) $\left(a^3\right)^2\div\left(a^2\right)^3=a^6\div a^6=1$.
 
-(2) $\sqrt{51.42534}\approx 7.17$.
+(2) $\left(ab^2\right)^3\div\left(-ab\right)^2=a^3 b^6\div\left(a^2 b^2\right)=ab^4$.
 
-(3) $\sqrt{\frac{111}{14}}=\sqrt{7.928\cdots}\approx 2.82$. $\blacksquare$
+(3) $\left(25a^3 b^2\right)\div\left(25a^2 b^2\right)=a$.
+
+(4) $\left(14m^2 n\right)^2\div\left(7m^2\right)\div\left(7m\right)=196m^4 n^2\div\left(7m^2\right)\div\left(7m\right)=28m^2 n^2\div\left(7m\right)=4mn^2$.
+
+(5) $\left(-5a^3 b^5 c+35a^2 b^3 c^2-abc\right)\div\left(-abc\right)=5a^2 b^4-35ab^2 c+1$.
+
+(6) $\left(-81x^{n+5}+15x^{n+1}-3x^{n-1}\right)\div\left(-3x^{n-1}\right)=27x^6-5x^2+1$. $\blacksquare$
 
 ## 习题五
 
-(习题 8.1 复习巩固第 5 题) 比较下列各组数的大小:
+(习题 16.2 复习巩固第 5 题) 计算:
 
-(1) $\sqrt{65}$ 与 $8$;　(2) $\sqrt{33}$ 与 $\sqrt{22}$;　(3) $\frac{\sqrt{10}-1}{2}$ 与 $1$.
+(1) $\left(-3x^2 y\right)^2\cdot\left(-\frac23 xyz\right)\div\left(\frac34 xy^2\right)$;
+
+(2) $\left(-4ab^3-18ab\right)\div\left(-12ab^2\right)$;
+
+(3) $\left(x-3\right)\left(x-2\right)-6\left(x^2+x-1\right)$;
+
+(4) $\left(-4ab^3+8a^2 b^2\right)\div\left(4ab\right)-\left(2a+b\right)\left(a-b\right)$.
 
 ### 解答 习题五
 
-由算术平方根的大小, 被开方数大的算术平方根大.
+混合运算, 先乘方再乘除后加减.
 
-(1) $\because 8^2=64< 65$, $\therefore\sqrt{65}> \sqrt{64}=8$, 即 $\sqrt{65}> 8$.
+(1) $\left(-3x^2 y\right)^2\cdot\left(-\frac23 xyz\right)\div\left(\frac34 xy^2\right)=9x^4 y^2\cdot\left(-\frac23 xyz\right)\div\left(\frac34 xy^2\right)=-6x^5 y^3 z\div\left(\frac34 xy^2\right)=-8x^4 yz$.
 
-(2) $\because 33> 22$, $\therefore\sqrt{33}> \sqrt{22}$.
+(2) $\left(-4ab^3-18ab\right)\div\left(-12ab^2\right)=\frac13 b+\frac{3}{2b}$.
 
-(3) $\because 10> 9$, $\therefore\sqrt{10}> \sqrt 9=3$, 故 $\sqrt{10}-1> 2$, 从而 $\frac{\sqrt{10}-1}{2}> 1$. $\blacksquare$
+(3) $\left(x-3\right)\left(x-2\right)-6\left(x^2+x-1\right)=x^2-5x+6-6x^2-6x+6=-5x^2-11x+12$.
+
+(4) $\left(-4ab^3+8a^2 b^2\right)\div\left(4ab\right)-\left(2a+b\right)\left(a-b\right)=-b^2+2ab-\left(2a^2-2ab+ab-b^2\right)=-b^2+2ab-2a^2+ab+b^2=-2a^2+3ab$. $\blacksquare$
 
 ## 习题六
 
-(习题 8.1 复习巩固第 6 题) 求下列各式中 $x$ 的值:
+(习题 16.2 综合运用第 6 题) 计算:
 
-(1) $x^2-100=0$;　(2) $25x^2=36$;　(3) $\left(x+2\right)^2=0.49$.
+(1) $\left[5a^4\cdot a^2-\left(3a^3\right)^2\right]\div\left(2a^2\right)^2$;
+
+(2) $\left[\left(ab+1\right)\left(ab-1\right)-2a^2 b^2+1\right]\div\left(-ab\right)^2$.
 
 ### 解答 习题六
 
-由平方根.
+先化简括号内再做除法.
 
-(1) $x^2=100$, 故 $x=\pm\sqrt{100}=\pm 10$.
+(1) $\left[5a^6-9a^6\right]\div\left(4a^4\right)=\left(-4a^6\right)\div\left(4a^4\right)=-a^2$.
 
-(2) $x^2=\frac{36}{25}$, 故 $x=\pm\sqrt{\frac{36}{25}}=\pm\frac{6}{5}$.
-
-(3) $x+2=\pm\sqrt{0.49}=\pm 0.7$. 当 $x+2=0.7$ 时 $x=-1.3$; 当 $x+2=-0.7$ 时 $x=-2.7$. 故 $x=-1.3$ 或 $x=-2.7$. $\blacksquare$
+(2) $\left[\left(a^2 b^2-1\right)-2a^2 b^2+1\right]\div\left(a^2 b^2\right)=\left(-a^2 b^2\right)\div\left(a^2 b^2\right)=-1$. $\blacksquare$
 
 ## 习题七
 
-(习题 8.1 综合运用第 7 题) 估算面积为 $3\,\text{dm}^2$ 的正方形的边长是多少分米 (结果保留小数点后两位).
+(习题 16.2 综合运用第 7 题) 先化简, 再求值:
+
+(1) $x\left(1-x^2\right)+x^2\left(x-1\right)+x\left(x+1\right)$, 其中 $x=2$;
+
+(2) $\left(a^2 b-2ab^2-b^3\right)\div b-\left(a+b\right)^2$, 其中 $a=\frac12$, $b=-1$.
 
 ### 解答 习题七
 
-设边长为 $x\,\text{dm}$, 则 $x^2=3$, 由平方根, $x=\sqrt 3$.
+(1) $x-x^3+x^3-x^2+x^2+x=2x$. 代入 $x=2$, 得 $4$.
 
-$\because 1.7^2=2.89< 3< 3.24=1.8^2$, 继续精确: $1.73^2=2.9929< 3< 3.0276=1.74^2$, 再 $1.732^2\approx 2.999< 3$. 故 $\sqrt 3\approx 1.73$.
-
-即正方形边长约为 $1.73\,\text{dm}$. $\blacksquare$
+(2) 原式 $=a^2-2ab-b^2-\left(a^2+2ab+b^2\right)=-4ab-2b^2$. 代入 $a=\frac12,b=-1$, 得 $-4\cdot\frac12\cdot\left(-1\right)-2\cdot1=2-2=0$. $\blacksquare$
 
 ## 习题八
 
-(习题 8.1 综合运用第 8 题) 摆钟的钟摆自由摆动, 摆动一个来回所用的时间 $t$ (单位: $s$) 与钟摆的长度 $l$ (单位: $m$) 之间满足 $t=2\pi\sqrt{\frac{l}{g}}$. 当钟摆的长度为 $0.25\,m$ 时, 摆动一个来回所用的时间是多少秒? ($\pi$ 取 $3.14$, $g$ 取 $9.8\,m/s^2$, 结果保留小数点后两位.)
+(习题 16.2 综合运用第 8 题) 已知 $3x-4y=3$ ($x,y$ 为正整数), 求 $27^x\div9^{2y}$.
 
 ### 解答 习题八
 
-把 $l=0.25$, $g=9.8$, $\pi=3.14$ 代入 $t=2\pi\sqrt{\frac{l}{g}}$.
+化为同底的幂. $27^x=\left(3^3\right)^x=3^{3x}$, $9^{2y}=\left(3^2\right)^{2y}=3^{4y}$.
 
-$$
-t=2\times 3.14\times\sqrt{\frac{0.25}{9.8}}=6.28\times\sqrt{0.02551\cdots}.
-$$
-
-$\sqrt{0.02551\cdots}\approx 0.1597$, 故 $t\approx 6.28\times 0.1597\approx 1.00$.
-
-即摆动一个来回所用时间约为 $1.00\,s$. $\blacksquare$
-
-## 习题九
-
-(习题 8.1 综合运用第 9 题) 一个正方形的面积扩大为原来的 $4$ 倍, 它的边长变为原来的多少倍? 面积扩大为原来的 $9$ 倍呢? $n$ 倍呢?
-
-### 解答 习题九
-
-设原正方形边长为 $a$, 面积为 $a^2$.
-
-面积扩大为原来的 $4$ 倍时, 新面积为 $4a^2$, 新边长为 $\sqrt{4a^2}=2a$, 即边长变为原来的 $2$ 倍.
-
-面积扩大为原来的 $9$ 倍时, 新边长为 $\sqrt{9a^2}=3a$, 即边长变为原来的 $3$ 倍.
-
-面积扩大为原来的 $n$ 倍时, 新边长为 $\sqrt{na^2}=a\sqrt n$, 即边长变为原来的 $\sqrt n$ 倍. $\blacksquare$
-
-## 习题十
-
-(习题 8.1 拓广探索第 10 题)
-
-(1) 求 $\left(\sqrt 0\right)^2$, $\left(\sqrt 4\right)^2$, $\left(\sqrt 9\right)^2$, $\left(\sqrt{25}\right)^2$, $\left(\sqrt{36}\right)^2$ 的值. 对于任意非负数 $a$, $\left(\sqrt a\right)^2$ 等于多少?
-
-(2) 求 $\sqrt{0^2}$, $\sqrt{2^2}$, $\sqrt{\left(-3\right)^2}$, $\sqrt{5^2}$, $\sqrt{\left(-6\right)^2}$ 的值. 对于任意数 $a$, $\sqrt{a^2}$ 等于多少?
-
-### 解答 习题十
-
-(1) $\left(\sqrt 0\right)^2=0$, $\left(\sqrt 4\right)^2=4$, $\left(\sqrt 9\right)^2=9$, $\left(\sqrt{25}\right)^2=25$, $\left(\sqrt{36}\right)^2=36$. 由平方与开方的关系, 对任意非负数 $a$,
-
-$$
-\left(\sqrt a\right)^2=a.
-$$
-
-(2) $\sqrt{0^2}=0$, $\sqrt{2^2}=2$, $\sqrt{\left(-3\right)^2}=\sqrt 9=3$, $\sqrt{5^2}=5$, $\sqrt{\left(-6\right)^2}=\sqrt{36}=6$. 可见当 $a\ge 0$ 时 $\sqrt{a^2}=a$, 当 $a< 0$ 时 $\sqrt{a^2}=-a$. 由算术平方根的性质, 对任意数 $a$,
-
-$$
-\sqrt{a^2}=\left|a\right|.
-$$
+$$27^x\div9^{2y}=3^{3x}\div3^{4y}=3^{3x-4y}=3^3=27.$$
 
 $\blacksquare$
 
+## 习题九
+
+(习题 16.2 综合运用第 9 题) 计算图中阴影所示绿地的面积 (长度单位: $\text{m}$).
+
+图中为一个大长方形, 水平方向从左到右分段宽度依次为 $a$, $2a$, $2a$, $2a$, $a$ (总宽 $8a$), 竖直方向总高为 $2.5a+1.5a=4a$; 底部并排留有两个空白小长方形, 每个尺寸为 $2a\times2.5a$, 其余部分为阴影绿地.
+
+### 解答 习题九
+
+由图, 整个外框矩形的宽为 $a+2a+2a+2a+a=8a$, 高为 $2.5a+1.5a=4a$, 外框面积为 $8a\cdot4a=32a^2$.
+
+底部两个空白小矩形各为 $2a\times2.5a$, 面积共 $2\cdot\left(2a\cdot2.5a\right)=10a^2$.
+
+故阴影绿地面积为
+
+$$32a^2-10a^2=22a^2\ \left(\text{m}^2\right).$$
+
+$\blacksquare$
+
+## 习题十
+
+(习题 16.2 综合运用第 10 题) 如图, 有一张长方形纸板, 在它的四角各切去一个同样的正方形, 然后将四周突出部分折起, 制成一个高为 $a\ \text{cm}$ 的长方体形状的无盖纸盒. 如果纸盒的容积为 $4a^2 b\ \text{cm}^3$, 底面长方形的一边长为 $b$ ($b< 4a$) $\text{cm}$, 求原长方形纸板的长和宽.
+
+(题图为长方形纸板四角切去小正方形后折起的展开示意图.)
+
+### 解答 习题十
+
+纸盒高为 $a$, 故四角切去的正方形边长为 $a$. 设纸盒底面另一边长为 $x$, 则底面积为 $bx$. 由容积
+
+$$bx\cdot a=4a^2 b,$$
+
+解得 $x=4a$.
+
+故纸盒底面两边为 $b$ 与 $4a$. 原纸板长比底面长多出 $2a$, 宽比底面宽多出 $2a$. 因 $b< 4a$, 取底面长边 $4a$ 对应纸板长边, 则原纸板长为 $4a+2a=6a\ \text{cm}$, 宽为 $b+2a\ \text{cm}$. $\blacksquare$
+
 ## 习题十一
 
-(习题 8.1 拓广探索第 11 题) 任意找一个正数, 比如 $1234$, 利用计算器对它开平方, 再对得到的算术平方根开平方……如此进行下去, 你有什么发现?
+(习题 16.2 拓广探索第 11 题) 确定下列各式中 $m$ 的值 (其中 $p,q$ 为正整数):
+
+(1) $\left(x+4\right)\left(x+9\right)=x^2+mx+36$;
+
+(2) $\left(x-2\right)\left(x-18\right)=x^2+mx+36$;
+
+(3) $\left(x+3\right)\left(x+p\right)=x^2+mx+36$;
+
+(4) $\left(x-6\right)\left(x-p\right)=x^2+mx+36$;
+
+(5) $\left(x+p\right)\left(x+q\right)=x^2+mx+36$.
 
 ### 解答 习题十一
 
-由算术平方根的大小, 对正数不断开平方.
+由 $\left(x+p\right)\left(x+q\right)=x^2+\left(p+q\right)x+pq$, 一次项系数为两常数之和.
 
-对 $1234$ 连续开平方: $\sqrt{1234}\approx 35.1$, 再开平方 $\sqrt{35.1}\approx 5.92$, 再开 $\approx 2.43$, 再开 $\approx 1.56$, 再开 $\approx 1.25$, …… 随着开平方次数增多, 结果逐渐接近 $1$.
+(1) $\left(x+4\right)\left(x+9\right)=x^2+13x+36$, 故 $m=13$.
 
-一般地, 大于 $1$ 的正数不断开平方, 结果逐渐减小并趋近于 $1$. $\blacksquare$
+(2) $\left(x-2\right)\left(x-18\right)=x^2-20x+36$, 故 $m=-20$.
+
+(3) $3p=36$, 得 $p=12$, 故 $m=3+p=15$.
+
+(4) $\left(-6\right)\left(-p\right)=36$, 得 $p=6$, 故 $m=-6-p=-12$.
+
+(5) $pq=36$, $m=p+q$. 因 $p,q$ 为正整数, 取 $\left(p,q\right)=\left(1,36\right),\left(2,18\right),\left(3,12\right),\left(4,9\right),\left(6,6\right)$, 相应 $m=37,20,15,13,12$. $\blacksquare$
+
+## 练习二
+
+(练习 16.3 第 1 题) 下面的计算对不对? 如果不对, 应当怎样改正?
+
+(1) $\left(x+2\right)\left(x-2\right)=x^2-2$;
+
+(2) $\left(2a-5\right)\left(2a+5\right)=4a^2-25$;
+
+(3) $\left(-3ab-1\right)\left(3ab-1\right)=1-9a^2 b^2$.
+
+### 解答 练习二
+
+由平方差公式.
+
+(1) 不对. $\left(x+2\right)\left(x-2\right)=x^2-4$, 误把 $2$ 的平方漏掉.
+
+(2) 对, $\left(2a-5\right)\left(2a+5\right)=\left(2a\right)^2-5^2=4a^2-25$.
+
+(3) 对, 把 $-1$ 看作相同项, $3ab$ 看作相反项, $\left(-1\right)^2-\left(3ab\right)^2=1-9a^2 b^2$. $\blacksquare$
+
+## 练习三
+
+(练习 16.3 第 2 题) 计算:
+
+(1) $\left(a+3b\right)\left(a-3b\right)$;
+
+(2) $\left(3+2a\right)\left(-3+2a\right)$;
+
+(3) $\left(2x^2-y\right)\left(2x^2+y\right)$;
+
+(4) $51\times49$.
+
+### 解答 练习三
+
+由基础知识.
+
+(1) $\left(a+3b\right)\left(a-3b\right)=a^2-9b^2$.
+
+(2) $\left(3+2a\right)\left(-3+2a\right)=\left(2a\right)^2-3^2=4a^2-9$.
+
+(3) $\left(2x^2-y\right)\left(2x^2+y\right)=4x^4-y^2$.
+
+(4) $51\times49=\left(50+1\right)\left(50-1\right)=2500-1=2499$. $\blacksquare$
+
+## 练习四
+
+(练习 16.3 第 3 题) 计算:
+
+(1) $102\times98$;
+
+(2) $\left(y+2\right)\left(y-2\right)\left(y^2+4\right)$.
+
+### 解答 练习四
+
+由基础知识.
+
+(1) $102\times98=\left(100+2\right)\left(100-2\right)=10000-4=9996$.
+
+(2) $\left(y+2\right)\left(y-2\right)\left(y^2+4\right)=\left(y^2-4\right)\left(y^2+4\right)=y^4-16$. $\blacksquare$
+
+## 练习五
+
+(练习 16.3 第 1 题) 下面的计算是否正确? 如果不正确, 应当怎样改正?
+
+(1) $\left(x+y\right)^2=x^2+y^2$;
+
+(2) $\left(x-y\right)^2=x^2-y^2$.
+
+### 解答 练习五
+
+由完全平方公式.
+
+(1) 不正确. $\left(x+y\right)^2=x^2+2xy+y^2$, 漏掉了积的 $2$ 倍项.
+
+(2) 不正确. $\left(x-y\right)^2=x^2-2xy+y^2$, 误把完全平方当作平方差. $\blacksquare$
+
+## 练习六
+
+(练习 16.3 第 2 题) 计算:
+
+(1) $\left(2a+5b\right)^2$;
+
+(2) $\left(4x-3y\right)^2$;
+
+(3) $\left(-2m+n\right)^2$;
+
+(4) $\left(1.5a-\frac23 b\right)^2$.
+
+### 解答 练习六
+
+由基础知识.
+
+(1) $\left(2a+5b\right)^2=4a^2+20ab+25b^2$.
+
+(2) $\left(4x-3y\right)^2=16x^2-24xy+9y^2$.
+
+(3) $\left(-2m+n\right)^2=4m^2-4mn+n^2$.
+
+(4) $\left(1.5a-\frac23 b\right)^2=\frac94 a^2-2ab+\frac49 b^2$. $\blacksquare$
+
+## 练习七
+
+(练习 16.3 第 3 题) 计算:
+
+(1) $102^2$;
+
+(2) $99^2$.
+
+### 解答 练习七
+
+由基础知识.
+
+(1) $102^2=\left(100+2\right)^2=10000+400+4=10404$.
+
+(2) $99^2=\left(100-1\right)^2=10000-200+1=9801$. $\blacksquare$
+
+## 练习八
+
+(练习 16.3 第 1 题) 在括号内填入适当的项:
+
+(1) $a+2b-c=a+\left(\;\;\right)$;
+
+(2) $a-b-c+d=a-\left(\;\;\right)$;
+
+(3) $a-b+c=a-\left(\;\;\right)$;
+
+(4) $a+b-c=a-\left(\;\;\right)$.
+
+### 解答 练习八
+
+由添括号法则.
+
+(1) $a+2b-c=a+\left(2b-c\right)$.
+
+(2) $a-b-c+d=a-\left(b+c-d\right)$.
+
+(3) $a-b+c=a-\left(b-c\right)$.
+
+(4) $a+b-c=a-\left(c-b\right)$. $\blacksquare$
+
+## 练习九
+
+(练习 16.3 第 2 题) 去括号:
+
+(1) $a-\left(b-c\right)$;
+
+(2) $a-\left(-b-c\right)$.
+
+### 解答 练习九
+
+由基础知识 的反向去括号.
+
+(1) $a-\left(b-c\right)=a-b+c$.
+
+(2) $a-\left(-b-c\right)=a+b+c$. $\blacksquare$
+
+## 练习十
+
+(练习 16.3 第 3 题) 下面各式的变形是否正确? 如果不正确, 应当怎样改正?
+
+(1) $a+b-c=a-\left(b-c\right)$;
+
+(2) $a-b+c=a-\left(b+c\right)$.
+
+### 解答 练习十
+
+由基础知识.
+
+(1) 不正确. $a+b-c=a-\left(-b+c\right)=a-\left(c-b\right)$.
+
+(2) 不正确. $a-b+c=a-\left(b-c\right)$. $\blacksquare$
+
+## 练习十一
+
+(练习 16.3 第 4 题) 计算:
+
+(1) $\left(a+2b-1\right)^2$;
+
+(2) $\left(2x+y+z\right)\left(2x-y-z\right)$.
+
+### 解答 练习十一
+
+先分组再用公式.
+
+(1) $\left(a+2b-1\right)^2=\left[a+\left(2b-1\right)\right]^2=a^2+2a\left(2b-1\right)+\left(2b-1\right)^2=a^2+4ab-2a+4b^2-4b+1$.
+
+(2) $\left(2x+y+z\right)\left(2x-y-z\right)=\left[2x+\left(y+z\right)\right]\left[2x-\left(y+z\right)\right]=4x^2-\left(y+z\right)^2=4x^2-y^2-2yz-z^2$. $\blacksquare$
+
+## 习题十二
+
+(习题 16.3 复习巩固第 1 题) 下列各式能否用平方差公式计算? 如果能, 把结果写出来:
+
+(1) $\left(x+y\right)\left(x-y\right)$;
+
+(2) $\left(x-y\right)\left(y-x\right)$;
+
+(3) $\left(x+y\right)\left(-x-y\right)$;
+
+(4) $\left(x-y\right)\left(-x-y\right)$.
+
+### 解答 习题十二
+
+由基础知识, 平方差公式要求两因式中一组相同, 一组相反.
+
+(1) 能, $\left(x+y\right)\left(x-y\right)=x^2-y^2$.
+
+(2) 不能, 两项都相反, $-\left(x-y\right)^2$.
+
+(3) 不能, 两项都相反, $-\left(x+y\right)^2$.
+
+(4) 能, $\left(x-y\right)\left(-x-y\right)=\left(-y+x\right)\left(-y-x\right)=\left(-y\right)^2-x^2=y^2-x^2$. $\blacksquare$
+
+## 习题十三
+
+(习题 16.3 复习巩固第 2 题) 计算:
+
+(1) $\left(2m+3\right)\left(2m-3\right)$;
+
+(2) $\left(-\frac14 x-2y\right)\left(\frac14 x-2y\right)$;
+
+(3) $\left(a+2b\right)\left(a-2b\right)$;
+
+(4) $1003\times997$.
+
+### 解答 习题十三
+
+由基础知识.
+
+(1) $\left(2m+3\right)\left(2m-3\right)=4m^2-9$.
+
+(2) $\left(-\frac14 x-2y\right)\left(\frac14 x-2y\right)=\left(-2y\right)^2-\left(\frac14 x\right)^2=4y^2-\frac{1}{16}x^2$.
+
+(3) $\left(a+2b\right)\left(a-2b\right)=a^2-4b^2$.
+
+(4) $1003\times997=\left(1000+3\right)\left(1000-3\right)=1000000-9=999991$. $\blacksquare$
+
+## 习题十四
+
+(习题 16.3 复习巩固第 3 题) 计算:
+
+(1) $\left(2a+5b\right)^2$;
+
+(2) $\frac34 x-\frac23 y\right)^2$;
+
+(3) $\left(-2m-7n\right)^2$;
+
+(4) $101^2$.
+
+### 解答 习题十四
+
+由基础知识.
+
+(1) $\left(2a+5b\right)^2=4a^2+20ab+25b^2$.
+
+(2) $\left(\frac34 x-\frac23 y\right)^2=\frac{9}{16}x^2-xy+\frac49 y^2$.
+
+(3) $\left(-2m-7n\right)^2=4m^2+28mn+49n^2$.
+
+(4) $101^2=\left(100+1\right)^2=10201$. $\blacksquare$

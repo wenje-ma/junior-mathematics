@@ -2,398 +2,368 @@
 
 ## Exercise 1
 
-(Exercise 4.2, Problem 1) Combine like terms in each of the following:
+(Exercise 7.2, Problem 1) As shown in the figure, use a straightedge and a set square to draw parallel lines:
 
-(1) $5x+4x$;
+(1) Through point $A$ draw $MN\parallel BC$;
 
-(2) $\frac{1}{3}y-\frac{2}{3}y+2y$;
-
-(3) $-7ab+6ab$;
-
-(4) $10y^{2}-0.5y^{2}$;
-
-(5) $mn^{2}+3mn^{2}$;
-
-(6) $-3x^{2}y+3xy^{2}+2x^{2}y-2xy^{2}$.
+(2) Through point $C$ draw $CE\parallel DA$, intersecting $AB$ at point $E$; through point $C$ draw $CF\parallel DB$, intersecting the extension of $AB$ at point $F$.
 
 ### Solution to Exercise 1
 
-By Combining Like Terms, the coefficients of like terms are added, while the letters and exponents remain unchanged.
+By Parallel Axiom, through a point outside a line there is exactly one line parallel to the given line.
 
-(1) $5x+4x=\left(5+4\right)x=9x$.
+(1) Align one edge of the set square with $BC$, press the straightedge against the other edge of the set square, slide the set square along the straightedge until the edge aligned with $BC$ passes through point $A$, and draw the line $MN$ along that edge; then $MN\parallel BC$.
 
-(2) $\frac{1}{3}y-\frac{2}{3}y+2y=\left(\frac{1}{3}-\frac{2}{3}+2\right)y=\frac{5}{3}y$.
-
-(3) $-7ab+6ab=\left(-7+6\right)ab=-ab$.
-
-(4) $10y^{2}-0.5y^{2}=\left(10-0.5\right)y^{2}=9.5y^{2}$.
-
-(5) $mn^{2}+3mn^{2}=\left(1+3\right)mn^{2}=4mn^{2}$.
-
-(6) $-3x^{2}y+3xy^{2}+2x^{2}y-2xy^{2}=\left(-3+2\right)x^{2}y+\left(3-2\right)xy^{2}=-x^{2}y+xy^{2}$. $\blacksquare$
+(2) In the same way: through point $C$ draw $CE\parallel DA$ meeting $AB$ at $E$, and through point $C$ draw $CF\parallel DB$ meeting the extension of $AB$ at $F$. $\blacksquare$
 
 ## Exercise 2
 
-(Exercise 4.2, Problem 2) First simplify, then evaluate:
+(Exercise 7.2, Problem 1) As shown in the figure, $E$ is a point on $AB$, $F$ is a point on $DC$, and $G$ is a point on the extension of $BC$.
 
-(1) $3a+2b-5a-b$, where $a=-2$, $b=1$;
+(1) If $\angle B=\angle DCG$, which two lines can be judged to be parallel? Why?
 
-(2) $3x-4x^{2}+7-3x+2x^{2}+1$, where $x=-3$.
+(2) If $\angle D=\angle DCG$, which two lines can be judged to be parallel? Why?
+
+(3) If $\angle D+\angle DFE=180^\circ$, which two lines can be judged to be parallel? Why?
 
 ### Solution to Exercise 2
 
-By Rule for Adding and Subtracting Integral Expressions, first combine like terms, then substitute and evaluate.
+Using Criterion 1, Criterion 2, and Criterion 3, judge according to whether the two angles are corresponding angles, alternate interior angles, or consecutive interior angles.
 
-(1) $3a+2b-5a-b=\left(3-5\right)a+\left(2-1\right)b=-2a+b$. When $a=-2$ and $b=1$, the original expression is $=-2\times\left(-2\right)+1=5$.
+(1) $\angle B$ and $\angle DCG$ are the corresponding angles formed when lines $AB$, $DC$ are cut by line $BG$. Since $\angle B=\angle DCG$, by equal corresponding angles implying parallel lines, we get $AB\parallel DC$.
 
-(2) $3x-4x^{2}+7-3x+2x^{2}+1=\left(-4+2\right)x^{2}+\left(3-3\right)x+\left(7+1\right)=-2x^{2}+8$. When $x=-3$, the original expression is $=-2\times\left(-3\right)^{2}+8=-2\times9+8=-10$. $\blacksquare$
+(2) $\angle D$ and $\angle DCG$ are the alternate interior angles formed when lines $AD$, $BG$ are cut by line $DC$. Since $\angle D=\angle DCG$, by equal alternate interior angles implying parallel lines, we get $AD\parallel BG$ (i.e. $AD\parallel BC$).
+
+(3) $\angle D$ and $\angle DFE$ are the consecutive interior angles formed when lines $AD$, $EF$ are cut by line $DC$. Since $\angle D+\angle DFE=180^\circ$, by supplementary consecutive interior angles implying parallel lines, we get $AD\parallel EF$. $\blacksquare$
 
 ## Exercise 3
 
-(Exercise 4.2, Problem 3) As shown in the figure, the radius of the large circle is $R$, and the area of the small circle is $\frac{4}{9}$ of the area of the large circle. Find the area of the shaded region.
+(Exercise 7.2, Problem 2) As shown in the figure, carpenters often use a square to draw parallel lines. Can you explain the principle behind it?
 
 ### Solution to Exercise 3
 
-By Rule for Adding and Subtracting Integral Expressions, the shaded area is the area of the large circle minus the area of the small circle.
+Press one edge of the square against the edge line of the wood, and draw two lines along the other edge. The square ensures that both drawn lines are perpendicular to the edge line being pressed, i.e. the corresponding angles cut by the edge line are both equal to $90^\circ$.
 
-The area of the large circle is $\pi R^{2}$, and the area of the small circle is $\frac{4}{9}$ of that, i.e. $\frac{4}{9}\pi R^{2}$. Hence the area of the shaded region is
-
-$$\pi R^{2}-\frac{4}{9}\pi R^{2}=\left(1-\frac{4}{9}\right)\pi R^{2}=\frac{5}{9}\pi R^{2}.$$
-
-$\blacksquare$
+By Criterion 1, equal corresponding angles imply parallel lines, so the two drawn lines are parallel to each other. $\blacksquare$
 
 ## Exercise 4
 
-(Exercise 4.2, Problem 1) Are the following processes of removing parentheses correct? If wrong, please correct them.
-
-(1) $a^{2}-\left(2a-b+c\right)=a^{2}-2a-b+c$;
-
-(2) $-\left(x-y\right)+\left(xy-1\right)=-x-y+xy-1$.
+(Exercise 7.2, Problem 3) When laying railroad tracks, the two rails must be parallel to each other. As shown in the figure, given that $\angle 2$ is a right angle, to determine whether the two rails are parallel, which other angle marked in the figure only needs to be measured? Why?
 
 ### Solution to Exercise 4
 
-By Rule for Removing Parentheses, when a minus sign precedes the parentheses, every term inside changes sign.
+The two rails are cut by the railroad ties. Given $\angle 2=90^\circ$.
 
-(1) Wrong. A minus sign precedes the parentheses, so every term inside should change sign; hence $a^{2}-\left(2a-b+c\right)=a^{2}-2a+b-c$.
-
-(2) Wrong. $-\left(x-y\right)=-x+y$, so $-\left(x-y\right)+\left(xy-1\right)=-x+y+xy-1$. $\blacksquare$
+By Criterion 1, it suffices to measure the angle that is the corresponding angle of $\angle 2$; if it also equals $90^\circ$, the two rails are parallel. Thus it is enough to measure the angle that is the corresponding angle of $\angle 2$; if it equals $90^\circ$, then by equal corresponding angles implying parallel lines, the two rails are parallel. $\blacksquare$
 
 ## Exercise 5
 
-(Exercise 4.2, Problem 2) Remove the parentheses:
-
-(1) $a+\left(b-c\right)$;
-
-(2) $a-\left(-b+c\right)$;
-
-(3) $\left(a-b\right)+\left(c+d\right)$;
-
-(4) $-\left(a+b\right)-\left(-c+d\right)$.
+(Exercise 7.2, Problem 4) The figure shows an intersection where two roads are perpendicular to each other. Can you draw a schematic diagram of it (using two parallel segments to represent one road)? Using a similar method, can you draw a schematic diagram of an intersection where two roads meet at an angle of $45^\circ$?
 
 ### Solution to Exercise 5
 
-By Rule for Removing Parentheses, when a plus sign precedes the parentheses they are removed directly, and when a minus sign precedes them every term inside changes sign.
-
-(1) $a+\left(b-c\right)=a+b-c$.
-
-(2) $a-\left(-b+c\right)=a+b-c$.
-
-(3) $\left(a-b\right)+\left(c+d\right)=a-b+c+d$.
-
-(4) $-\left(a+b\right)-\left(-c+d\right)=-a-b+c-d$. $\blacksquare$
+Use two parallel segments to represent the two sides of one road, with the two groups of parallel segments crossing each other. When perpendicular, the two groups of parallel segments meet at $90^\circ$; when at $45^\circ$, they meet at $45^\circ$. Draw the schematic diagram of the intersection in the way described above. $\blacksquare$
 
 ## Exercise 6
 
-(Exercise 4.2, Problem 3) Simplify:
+(Exercise 7.2, Problem 1) As shown in the figure, line $a\parallel b$, $\angle 1=54^\circ$. How many degrees are $\angle 2$, $\angle 3$, and $\angle 4$?
 
-(1) $12\left(x-0.5\right)$;
-
-(2) $-5\left(1-\frac{1}{5}x\right)$;
-
-(3) $-5a+\left(3a-2\right)-\left(3a-7\right)$;
-
-(4) $\frac{1}{3}\left(9y-3\right)+2\left(y+1\right)$.
+The figure shows two parallel lines $a$, $b$ cut by a transversal: at the intersection of $a$ and the transversal are marked $\angle 1$ and its vertical angle $\angle 2$; at the intersection of $b$ and the transversal are marked $\angle 3$ (alternate interior to $\angle 1$) and $\angle 4$ (consecutive interior to $\angle 1$).
 
 ### Solution to Exercise 6
 
-By Rule for Removing Parentheses and Rule for Adding and Subtracting Integral Expressions, first remove the parentheses, then combine like terms.
+By Property 1, Property 2, and Property 3, the relationships among the corresponding angles when two lines are parallel are as follows.
 
-(1) $12\left(x-0.5\right)=12x-6$.
+$\angle 1$ and $\angle 2$ are vertical angles; by Vertical Angles Are Equal, $\angle 2=\angle 1=54^\circ$.
 
-(2) $-5\left(1-\frac{1}{5}x\right)=-5+x$.
+$\angle 1$ and $\angle 3$ are the alternate interior angles formed when lines $a$, $b$ are cut by a transversal; by Property 2, parallel lines give equal alternate interior angles, so $\angle 3=\angle 1=54^\circ$.
 
-(3) $-5a+\left(3a-2\right)-\left(3a-7\right)=-5a+3a-2-3a+7=-5a+5$.
+$\angle 1$ and $\angle 4$ are consecutive interior angles; by Property 3, parallel lines give supplementary consecutive interior angles, so $\angle 4=180^\circ-\angle 1=180^\circ-54^\circ=126^\circ$.
 
-(4) $\frac{1}{3}\left(9y-3\right)+2\left(y+1\right)=3y-1+2y+2=5y+1$. $\blacksquare$
+Thus $\angle 2=54^\circ$, $\angle 3=54^\circ$, $\angle 4=126^\circ$. $\blacksquare$
 
 ## Exercise 7
 
-(Exercise 4.2, Problem 4) The household water rate in a certain place: if the monthly water usage does not exceed $15\ \text{m}^{3}$, each cubic meter costs $a$ yuan; for the amount in excess, each cubic meter costs $\left(a+2\right)$ yuan. If this household's water usage last month was $20\ \text{m}^{3}$, how much water fee should be paid?
+(Exercise 7.2, Problem 2) As shown in the figure, in triangle $ABC$, $D$ is a point on $AB$, $E$ is a point on $AC$, $\angle ADE=60^\circ$, $\angle B=60^\circ$, $\angle AED=40^\circ$.
+
+(1) Are $DE$ and $BC$ parallel? Why?
+
+(2) How many degrees is $\angle C$? Why?
 
 ### Solution to Exercise 7
 
-By Rule for Adding and Subtracting Integral Expressions, the water fee is the sum of the two parts.
+(1) $DE\parallel BC$.
 
-The water usage is $20\ \text{m}^{3}$, of which $15\ \text{m}^{3}$ is charged at $a$ yuan per cubic meter, and the excess $20-15=5\ \text{m}^{3}$ is charged at $\left(a+2\right)$ yuan per cubic meter. Hence the water fee to be paid is
+$\angle ADE$ and $\angle B$ are the corresponding angles formed when lines $DE$, $BC$ are cut by line $AB$. Since $\angle ADE=60^\circ=\angle B$, by Criterion 1, equal corresponding angles imply parallel lines, so $DE\parallel BC$.
 
-$$15a+5\left(a+2\right)=15a+5a+10=20a+10\ \text{元}.$$
+(2) $\angle C=40^\circ$.
 
-$\blacksquare$
+It has been proved that $DE\parallel BC$, and $\angle AED$ and $\angle C$ are the corresponding angles formed when lines $DE$, $BC$ are cut by line $AC$. By Property 1, parallel lines give equal corresponding angles, so $\angle C=\angle AED=40^\circ$. $\blacksquare$
 
 ## Exercise 8
 
-(Exercise 4.2, Problem 1) Calculate:
+(Exercise 7.2, Problem 3) Place a right-angle set square and a strip of paper with parallel sides as shown in the figure. Then which of the following conclusions is correct? _______ (fill in the numbers).
 
-(1) $-\frac{1}{3}ab-4a^{2}+3a^{2}-\left(-\frac{2}{3}ab\right)$;
-
-(2) $x^{3}-\left(x^{2}-x+1\right)-2\left(x^{3}-x^{2}-1\right)-1$;
-
-(3) $\frac{1}{3}a-\frac{1}{2}\left(a-\frac{8}{3}b-\frac{1}{2}c\right)+3\left(-2c+\frac{2}{3}b\right)$.
+(1) $\angle 1=\angle 2$;　(2) $\angle 4+\angle 5=180^\circ$;　(3) $\angle 1+\angle 4=90^\circ$;　(4) $\angle 4+90^\circ=\angle 3$.
 
 ### Solution to Exercise 8
 
-By Rule for Removing Parentheses and Rule for Adding and Subtracting Integral Expressions, first remove the parentheses, then combine like terms.
+The two sides of the strip are parallel. The right angle of the set square is $90^\circ$.
 
-(1) $-\frac{1}{3}ab-4a^{2}+3a^{2}+\frac{2}{3}ab=\left(-\frac{1}{3}+\frac{2}{3}\right)ab+\left(-4+3\right)a^{2}=\frac{1}{3}ab-a^{2}$.
+$\angle 1$ and $\angle 2$ are the corresponding angles formed when the two parallel sides are cut by one edge of the set square; by Property 1, $\angle 1=\angle 2$, so (1) is correct.
 
-(2) $x^{3}-x^{2}+x-1-2x^{3}+2x^{2}+2-1=\left(1-2\right)x^{3}+\left(-1+2\right)x^{2}+x+\left(-1+2-1\right)=-x^{3}+x^{2}+x$.
+$\angle 4$ and $\angle 5$ are the consecutive interior angles formed when the two parallel sides are cut by the other edge of the set square; by Property 3, parallel lines give supplementary consecutive interior angles, so $\angle 4+\angle 5=180^\circ$, and (2) is correct.
 
-(3) $\frac{1}{3}a-\frac{1}{2}a+\frac{4}{3}b+\frac{1}{4}c-6c+2b=\left(\frac{1}{3}-\frac{1}{2}\right)a+\left(\frac{4}{3}+2\right)b+\left(\frac{1}{4}-6\right)c=-\frac{1}{6}a+\frac{10}{3}b-\frac{23}{4}c$. $\blacksquare$
+The right angle of the set square together with $\angle 1$ and $\angle 4$ forms a straight angle, i.e. $\angle 1+90^\circ+\angle 4=180^\circ$, so $\angle 1+\angle 4=90^\circ$, and (3) is correct.
+
+The adjacent supplementary angle of $\angle 3$ and $\angle 4$ forms a corresponding-angle relationship, giving $\angle 3=180^\circ-\angle 4$, i.e. $\angle 4+\angle 3=180^\circ$, which does not agree with $\angle 4+90^\circ=\angle 3$, so (4) is wrong.
+
+In summary, the correct ones are (1)(2)(3). $\blacksquare$
 
 ## Exercise 9
 
-(Exercise 4.2, Problem 2) Find the value of $x^{2}-5xy-3x^{2}-2\left(1-2xy-x^{2}\right)$, where $x=-\frac{1}{9}$, $y=\frac{9}{2}$.
+(Exercise 7.2, Problem 1) As shown in the figure, if line $a\parallel b$ and $\angle 1+\angle 2=180^\circ$, then are lines $b$ and $c$ parallel? Why?
 
 ### Solution to Exercise 9
 
-By Rule for Adding and Subtracting Integral Expressions, first simplify, then evaluate.
+Line $b\parallel c$.
 
-$$x^{2}-5xy-3x^{2}-2+4xy+2x^{2}=\left(1-3+2\right)x^{2}+\left(-5+4\right)xy-2=-xy-2.$$
+Since $a\parallel b$, the vertical angle (or corresponding angle) of $\angle 1$ equals the corresponding angle formed when $a$, $b$ are cut. $\angle 1+\angle 2=180^\circ$, and the adjacent supplementary angle of $\angle 1$ is also supplementary to $\angle 1$, so $\angle 2$ equals the vertical angle of the adjacent supplementary angle of $\angle 1$. It follows that the corresponding angles (or consecutive interior angles) formed when lines $b$, $c$ are cut by a third line satisfy the parallel condition.
 
-When $x=-\frac{1}{9}$ and $y=\frac{9}{2}$, the original expression is $=-\left(-\frac{1}{9}\right)\times\frac{9}{2}-2=\frac{1}{2}-2=-\frac{3}{2}$. $\blacksquare$
+Specifically, from $a\parallel b$ the corresponding angle of $\angle 1$ equals $\angle 1$, and it is supplementary to $\angle 2$, i.e. $\angle 1+\angle 2=180^\circ$ gives that the consecutive interior angles formed when $b$, $c$ are cut are supplementary. By Criterion 3, supplementary consecutive interior angles imply parallel lines, so $b\parallel c$. $\blacksquare$
 
 ## Exercise 10
 
-(Exercise 4.2, Problem 3) The unit price of a notebook is $x$ yuan, and the unit price of a gel pen is $y$ yuan. Wang Fang bought $3$ notebooks and $2$ gel pens; Li Ming bought $4$ notebooks and $3$ gel pens. Buying these notebooks and gel pens, how much did Wang Fang and Li Ming spend in total?
+(Exercise 7.2, Problem 2) As shown in the figure, $AB\parallel CD$ and $\angle 1=\angle 2$. Then are lines $BE$ and $CF$ parallel? Why?
 
 ### Solution to Exercise 10
 
-By Rule for Adding and Subtracting Integral Expressions, the total cost is the sum of the two people's spending.
+$BE\parallel CF$.
 
-Wang Fang spent $\left(3x+2y\right)$ yuan, and Li Ming spent $\left(4x+3y\right)$ yuan. Hence the total cost is
+Since $AB\parallel CD$, take $BC$ as the transversal; then $\angle ABC=\angle BCD$ (parallel lines give equal alternate interior angles). Also $\angle 1=\angle 2$, so
 
-$$\left(3x+2y\right)+\left(4x+3y\right)=7x+5y\ \text{元}.$$
+$$
+\angle ABC-\angle 1=\angle BCD-\angle 2,
+$$
 
-$\blacksquare$
+i.e. $\angle EBC=\angle BCF$. These two angles are the alternate interior angles formed when lines $BE$, $CF$ are cut by line $BC$. By Criterion 2, equal alternate interior angles imply parallel lines, so $BE\parallel CF$. $\blacksquare$
 
 ## Problem 1
 
-(Problem 4.2, Review and Consolidation, Problem 1) Combine like terms:
+(Exercise 7.2, Review and Consolidation, Problem 1) Read the following statements and draw the figures:
 
-(1) $2x-10.3x$;
+(1) Line $AB$ is perpendicular to $CD$, with foot at $O$; point $P$ is a point on line $AB$, and line $EF$ passes through point $P$ and is parallel to line $CD$;
 
-(2) $3x-x-5x$;
-
-(3) $-b+0.6b-3.6b$;
-
-(4) $m-n^{2}-6m+2n^{2}$.
+(2) Lines $AB$, $CD$ intersect at point $O$; point $P$ is a point outside lines $AB$, $CD$; line $PE$ is parallel to line $CD$ and intersects line $AB$ at point $E$.
 
 ### Solution to Problem 1
 
-By Combining Like Terms, the coefficients of like terms are added.
-
-(1) $2x-10.3x=\left(2-10.3\right)x=-8.3x$.
-
-(2) $3x-x-5x=\left(3-1-5\right)x=-3x$.
-
-(3) $-b+0.6b-3.6b=\left(-1+0.6-3.6\right)b=-4b$.
-
-(4) $m-n^{2}-6m+2n^{2}=\left(1-6\right)m+\left(-1+2\right)n^{2}=-5m+n^{2}$. $\blacksquare$
+Draw step by step according to the statements: first draw the given lines and their intersection point, then by Parallel Axiom draw the parallel line through the specified point, and mark the intersection point to obtain the figure satisfying the statements. $\blacksquare$
 
 ## Problem 2
 
-(Problem 4.2, Review and Consolidation, Problem 2) Simplify:
-
-(1) $2\left(4x-0.5\right)$;
-
-(2) $-3\left(1-x\right)$;
-
-(3) $-x+2\left(2x-2\right)-\left(3x+5\right)$;
-
-(4) $3a^{2}+a^{2}-\left(2a^{2}-2a\right)+\left(3a-a^{2}\right)$.
+(Exercise 7.2, Review and Consolidation, Problem 2) As shown in the figure, to reinforce a house, a beam $DE$ is to be added to the truss so that $DE\parallel BC$. If $\angle ABC=31^\circ$, what should $\angle ADE$ be?
 
 ### Solution to Problem 2
 
-By Rule for Removing Parentheses and Rule for Adding and Subtracting Integral Expressions.
+$DE\parallel BC$, with line $AB$ as the transversal; $\angle ADE$ and $\angle ABC$ are corresponding angles. By Property 1, parallel lines give equal corresponding angles, so
 
-(1) $2\left(4x-0.5\right)=8x-1$.
+$$
+\angle ADE=\angle ABC=31^\circ.
+$$
 
-(2) $-3\left(1-x\right)=-3+3x$.
-
-(3) $-x+4x-4-3x-5=\left(-1+4-3\right)x-9=-9$.
-
-(4) $3a^{2}+a^{2}-2a^{2}+2a+3a-a^{2}=\left(3+1-2-1\right)a^{2}+\left(2+3\right)a=a^{2}+5a$. $\blacksquare$
+That is, $\angle ADE$ should be $31^\circ$. $\blacksquare$
 
 ## Problem 3
 
-(Problem 4.2, Review and Consolidation, Problem 3) Calculate:
-
-(1) $\left(5a+4c+7b\right)+\left(5c-3b-6a\right)$;
-
-(2) $\left(8xy-x^{2}+y^{2}\right)-\left(x^{2}-y^{2}+8xy\right)$;
-
-(3) $\left(\frac{1}{3}x^{2}-1+3x\right)-4\left(x-x^{2}+\frac{1}{2}\right)$;
-
-(4) $3x^{2}-\left[7x-\left(4x-3\right)-2x^{2}\right]$.
+(Exercise 7.2, Review and Consolidation, Problem 3) As shown in the figure, after a canal turns twice, its direction is the same as the original. If the first turning angle $\angle A=135^\circ$, what is the second turning angle $\angle B$? Why?
 
 ### Solution to Problem 3
 
-By Rule for Adding and Subtracting Integral Expressions, first remove the parentheses, then combine like terms.
+After the canal turns twice its direction is the same as the original, which means the lines on which the two segments of the canal before and after the turns lie are parallel. The two turning angles $\angle A$, $\angle B$ are the alternate interior angles formed when these two parallel lines are cut by the middle segment of the canal.
 
-(1) $5a+4c+7b+5c-3b-6a=\left(5-6\right)a+\left(7-3\right)b+\left(4+5\right)c=-a+4b+9c$.
-
-(2) $8xy-x^{2}+y^{2}-x^{2}+y^{2}-8xy=\left(-1-1\right)x^{2}+\left(1+1\right)y^{2}=-2x^{2}+2y^{2}$.
-
-(3) $\frac{1}{3}x^{2}-1+3x-4x+4x^{2}-2=\left(\frac{1}{3}+4\right)x^{2}+\left(3-4\right)x+\left(-1-2\right)=\frac{13}{3}x^{2}-x-3$.
-
-(4) $3x^{2}-7x+4x-3+2x^{2}=\left(3+2\right)x^{2}+\left(-7+4\right)x-3=5x^{2}-3x-3$. $\blacksquare$
+By Property 2, parallel lines give equal alternate interior angles, so $\angle B=\angle A=135^\circ$. $\blacksquare$
 
 ## Problem 4
 
-(Problem 4.2, Review and Consolidation, Problem 4) First simplify, then evaluate:
+(Exercise 7.2, Review and Consolidation, Problem 4) As shown in the figure, among the following conditions, the one that can determine line $a\parallel b$ is (　　).
 
-$$4\left(3a^{2}b-ab^{2}\right)-2\left(3ab^{2}-a^{2}b\right)-14a^{2}b,$$
+(1) $\angle 2+\angle 5=180^\circ$　(2) $\angle 2=\angle 4$　(3) $\angle 4+\angle 5=180^\circ$　(4) $\angle 1=\angle 3$
 
-where $a=1$, $b=-\frac{1}{2}$.
+The figure shows two lines $a$, $b$ cut by a transversal, with five angles $\angle 1$, $\angle 2$, $\angle 3$, $\angle 4$, $\angle 5$ marked at the two intersections.
 
 ### Solution to Problem 4
 
-By Rule for Adding and Subtracting Integral Expressions, first simplify, then evaluate.
+Using Criterion 1, Criterion 2, and Criterion 3, judge item by item what kind of positional angles each pair is when lines $a$, $b$ are cut by a transversal.
 
-$$12a^{2}b-4ab^{2}-6ab^{2}+2a^{2}b-14a^{2}b=\left(12+2-14\right)a^{2}b+\left(-4-6\right)ab^{2}=-10ab^{2}.$$
+$\angle 2$ and $\angle 5$ are not criterion angles formed when lines $a$, $b$ are cut by the same transversal, so their sum being $180^\circ$ cannot determine $a\parallel b$; thus (1) cannot.
 
-When $a=1$ and $b=-\frac{1}{2}$, the original expression is $=-10\times1\times\left(-\frac{1}{2}\right)^{2}=-10\times\frac{1}{4}=-\frac{5}{2}$. $\blacksquare$
+$\angle 2$ and $\angle 4$ are the alternate interior angles formed when lines $a$, $b$ are cut by a transversal; by Criterion 2, equal alternate interior angles imply parallel lines, so $\angle 2=\angle 4$ can determine $a\parallel b$; thus (2) can.
+
+$\angle 4$ and $\angle 5$ are the consecutive interior angles formed when lines $a$, $b$ are cut by a transversal; by Criterion 3, supplementary consecutive interior angles imply parallel lines, so $\angle 4+\angle 5=180^\circ$ can determine $a\parallel b$; thus (3) can.
+
+$\angle 1$ and $\angle 3$ are not criterion angles between lines $a$, $b$, so $\angle 1=\angle 3$ cannot determine $a\parallel b$; thus (4) cannot.
+
+In summary, the ones that can determine line $a\parallel b$ are (2)(3). $\blacksquare$
 
 ## Problem 5
 
-(Problem 4.2, Review and Consolidation, Problem 5) The altitude of place A is $h\ \text{m}$; place B is $20\ \text{m}$ higher than place A, and place C is $30\ \text{m}$ lower than place A. Express the altitudes of places B and C with expressions, and calculate the difference in altitude between place B and place C.
+(Exercise 7.2, Review and Consolidation, Problem 5) As shown in the figure, $a\parallel b$, lines $c$, $d$ are transversals, $\angle 1=80^\circ$, $\angle 5=70^\circ$. How many degrees are $\angle 2$, $\angle 3$, and $\angle 4$? Why?
+
+The figure shows two parallel lines $a$, $b$ cut by two transversals $c$, $d$: at the intersection of $a$ and $c$ is marked $\angle 1$; at the intersection of $a$ and $d$ is marked $\angle 5$; at the intersection of $b$ and $c$ is marked $\angle 2$ (alternate interior to $\angle 1$); at the intersection of $b$ and $d$ are marked $\angle 3$ (corresponding to $\angle 5$) and $\angle 4$ (consecutive interior to $\angle 5$).
 
 ### Solution to Problem 5
 
-By Rule for Adding and Subtracting Integral Expressions, the altitudes of B and C are expressed using expressions containing $h$, and the altitude difference is the difference between them.
+Using $a\parallel b$ and the positions of the angles, find the angles by Property 1 through Property 3.
 
-The altitude of place B is $\left(h+20\right)\ \text{m}$, and the altitude of place C is $\left(h-30\right)\ \text{m}$. The altitude difference between place B and place C is
+$\angle 1$ and $\angle 2$ are the alternate interior angles formed when lines $a$, $b$ are cut by transversal $c$; by Property 2, $\angle 2=\angle 1=80^\circ$.
 
-$$\left(h+20\right)-\left(h-30\right)=h+20-h+30=50\ \text{m}.$$
+$\angle 5$ and $\angle 3$ are the corresponding angles formed when lines $a$, $b$ are cut by transversal $d$; by Property 1, $\angle 3=\angle 5=70^\circ$.
 
-$\blacksquare$
+$\angle 5$ and $\angle 4$ are the consecutive interior angles formed when lines $a$, $b$ are cut by transversal $d$; by Property 3, $\angle 4=180^\circ-\angle 5=180^\circ-70^\circ=110^\circ$.
+
+Thus $\angle 2=80^\circ$, $\angle 3=70^\circ$, $\angle 4=110^\circ$. $\blacksquare$
 
 ## Problem 6
 
-(Problem 4.2, Comprehensive Application, Problem 6) Choose a value of $a$ and find the value of $5a^{3}-\left(a^{2}-3a+3a^{3}\right)+\left(a^{2}-a-2a^{3}\right)-2a+2035$. Student A says that when $a=0$ the original expression is $=2035$, student B says that when $a=1$ it is $=2035$, and student C says that for any rational number $a$ it is $=2035$. Are these three students' statements correct?
+(Exercise 7.2, Review and Consolidation, Problem 6) As shown in the figure, there is a square piece of glass. How can you check whether its two opposite sides are parallel?
 
 ### Solution to Problem 6
 
-By Rule for Adding and Subtracting Integral Expressions, first simplify the original expression.
+Press a straightedge or set square against one edge of the glass and slide it along the direction of the other edge (the same method as drawing parallel lines with a straightedge and set square), observing whether the opposite side always stays in contact.
 
-$$5a^{3}-a^{2}+3a-3a^{3}+a^{2}-a-2a^{3}-2a+2035=\left(5-3-2\right)a^{3}+\left(-1+1\right)a^{2}+\left(3-1-2\right)a+2035=2035.$$
-
-The simplified result is the constant $2035$, independent of the value of $a$. Hence the statements of students A, B and C are all correct. $\blacksquare$
+By Criterion 1, if the corresponding angles cut in the two pressings are equal, then the opposite sides are parallel; otherwise they are not. Alternatively, measure the corresponding angles (or consecutive interior angles) at two adjacent sides and check using the corresponding criterion. $\blacksquare$
 
 ## Problem 7
 
-(Problem 4.2, Comprehensive Application, Problem 7) Given that the first side of a triangle has length $3a+2b$ ($a> 0$, $b> 0$), the second side is $2a$ shorter than the first side, and the third side is $a-b$ longer than $2$ times the length of the second side.
-
-(1) Find the lengths of the second and third sides;
-
-(2) Find the perimeter of this triangle.
+(Exercise 7.2, Review and Consolidation, Problem 7) Find the lines that are parallel to each other and the lines that are perpendicular to each other in the figure.
 
 ### Solution to Problem 7
 
-By Rule for Adding and Subtracting Integral Expressions, the side lengths and perimeter are expressed as integral expressions.
-
-(1) The second side is $2a$ shorter than the first side, so its length is $\left(3a+2b\right)-2a=a+2b$. The third side is $2$ times the length of the second side plus $\left(a-b\right)$, so its length is $2\left(a+2b\right)+\left(a-b\right)=2a+4b+a-b=3a+3b$.
-
-(2) The perimeter is the sum of the three sides:
-
-$$\left(3a+2b\right)+\left(a+2b\right)+\left(3a+3b\right)=7a+7b.$$
-
-$\blacksquare$
+By Parallel, Perpendicular, and the criteria, observe the angle between each pair of lines in the figure: two lines with an angle of $90^\circ$ are perpendicular to each other; two lines judged by equal corresponding angles, equal alternate interior angles, or supplementary consecutive interior angles are parallel to each other. After checking each pair, list the lines that are parallel to each other and the lines that are perpendicular to each other in the figure. $\blacksquare$
 
 ## Problem 8
 
-(Problem 4.2, Comprehensive Application, Problem 8) The upper part of a window is a semicircle, and the lower part consists of four small squares of equal side length. Given that the side length of the small squares in the lower part is $a\ \text{cm}$, calculate:
-
-(1) The area of the window;
-
-(2) The total length of the outer frame of the window.
+(Exercise 7.2, Comprehensive Application, Problem 8) When light travels from water into air, refraction occurs; rays that are parallel in water remain parallel after refraction into air. As shown in the figure, $\angle 1=45^\circ$, $\angle 2=122^\circ$. Find the degrees of $\angle 3$ and $\angle 4$ in the figure.
 
 ### Solution to Problem 8
 
-By Rule for Adding and Subtracting Integral Expressions, the area and perimeter are expressed as integral expressions containing $a$.
+The two rays in water are parallel, and the two rays after refraction into air are also parallel.
 
-(1) The area of the four small squares in the lower part is $4a^{2}$, and the upper semicircle has radius $a$ and area $\frac{1}{2}\pi a^{2}$. Hence the area of the window is
+$\angle 1$ and $\angle 3$ are the corresponding angles formed when the two parallel rays are cut by the interface normal (or the interface); by Property 1, $\angle 3=\angle 1=45^\circ$.
 
-$$4a^{2}+\frac{1}{2}\pi a^{2}=\left(4+\frac{\pi}{2}\right)a^{2}\ \text{cm}^{2}.$$
+$\angle 2$ and $\angle 4$ are the consecutive interior angles formed when the two parallel rays are cut by the same line; by Property 3, parallel lines give supplementary consecutive interior angles, so $\angle 4=180^\circ-\angle 2=180^\circ-122^\circ=58^\circ$.
 
-(2) The lower outer frame consists of the bottom and the two sides, and the upper part is a semicircular arc. The total length of the outer frame is the sum of the semicircular circumference $\pi a$ and the three lower sides (the two sides of height $2a$ plus the bottom of width $2a$):
-
-$$\pi a+2a+2a+2a=\left(\pi+6\right)a\ \text{cm}.$$
-
-$\blacksquare$
+Thus $\angle 3=45^\circ$, $\angle 4=58^\circ$. $\blacksquare$
 
 ## Problem 9
 
-(Problem 4.2, Comprehensive Application, Problem 9) The purchase cost of an item is $a$ yuan each. The seller originally set the selling price by adding $20\%$ to the purchase cost. What is the selling price of each item? Now, due to overstock, the seller sells at $90\%$ of the original selling price. What is the current selling price? How much profit remains per item?
+(Exercise 7.2, Comprehensive Application, Problem 9) The figure shows a vertical-angle protractor. Can you explain the principle of measuring angles with it?
 
 ### Solution to Problem 9
 
-By Rule for Adding and Subtracting Integral Expressions, the prices are expressed as integral expressions containing $a$.
-
-The original selling price is the cost plus $20\%$, i.e. $a+0.2a=1.2a$ yuan. The current selling price is $90\%$ of the original price, i.e. $1.2a\times0.9=1.08a$ yuan. The profit per item is the current selling price minus the cost, i.e.
-
-$$1.08a-a=0.08a\ \text{元}.$$
-
-$\blacksquare$
+The vertical-angle protractor makes use of Vertical Angles Are Equal. Align the two sides of the angle being measured with the two intersecting edges of the protractor; the angle being measured and the angle read on the protractor are vertical angles. By the equality of vertical angles, the degree read on the protractor is the degree of the angle being measured. $\blacksquare$
 
 ## Problem 10
 
-(Problem 4.2, Extension and Exploration, Problem 10) Some points form a triangle-shaped figure, with $n$ ($n> 1$) points on each "side" (including the two vertices). What is the total number $S$ of points in this figure? When $n=5$, $7$, $11$, what are the respective values of $S$?
+(Exercise 7.2, Comprehensive Application, Problem 10) As shown in the figure, if $AB\parallel FE$, $BC\parallel DE$, then what is $\angle E+\angle B$ equal to?
+
+The figure shows a broken line $ABC$ and another broken line $FED$, with $AB\parallel FE$ and $BC\parallel DE$; $\angle B$ is $\angle ABC$ and $\angle E$ is $\angle FED$.
 
 ### Solution to Problem 10
 
-By Rule for Adding and Subtracting Integral Expressions, the number of points is expressed as an integral expression containing $n$.
+Since $AB\parallel FE$, take the transversal to jointly determine the angle relationship with $BC$, $DE$.
 
-There are $n$ points on each side of the triangle, giving $3n$ points on the three sides, but the three vertices are each counted twice by two sides, so $3$ duplicate vertices must be subtracted. Therefore
+Since $BC\parallel DE$, parallel lines give supplementary consecutive interior angles (or equal corresponding angles), yielding the corresponding angle relationship; from $AB\parallel FE$ another set of angle relationships is obtained. Combining the two: after two transfers of parallelism, $\angle E$ and $\angle B$ are consecutive interior angles to each other, i.e.
 
-$$S=3n-3.$$
+$$
+\angle E+\angle B=180^\circ.
+$$
 
-When $n=5$, $S=3\times5-3=12$; when $n=7$, $S=3\times7-3=18$; when $n=11$, $S=3\times11-3=30$. $\blacksquare$
+Thus $\angle E+\angle B=180^\circ$. $\blacksquare$
 
 ## Problem 11
 
-(Problem 4.2, Extension and Exploration, Problem 11) $10$ cubes of edge length $a\ \text{cm}$ are arranged in the shape shown in the figure. What is the surface area of this figure in square centimeters?
+(Exercise 7.2, Comprehensive Application, Problem 11) As shown in the figure, many beautiful decorative patterns are designed using parallel stripes. Use parallel stripes to design some patterns and share them with your classmates.
 
 ### Solution to Problem 11
 
-By Rule for Adding and Subtracting Integral Expressions, the surface area is the number of square faces seen from each direction multiplied by the area of each face.
+By Parallel, draw groups of parallel lines (or segments); by varying the direction, spacing, and combination of the parallel stripes, various decorative patterns can be designed. Design them yourself and share them with your classmates. $\blacksquare$
 
-Viewing the figure from the six directions of front, back, left, right, top and bottom, $6$ square faces can be seen in each direction (stacked in three layers as shown). There are $6\times6=36$ square faces in total, each of area $a^{2}$. Hence the surface area is
+## Problem 12
 
-$$36a^{2}\ \text{cm}^{2}.$$
+(Exercise 7.2, Extension and Exploration, Problem 12) As shown in the figure, when $\angle 1=\angle 3$, are lines $a$, $b$ parallel? When $\angle 2+\angle 3=180^\circ$, are lines $a$, $b$ parallel? Why?
 
-$\blacksquare$
+### Solution to Problem 12
 
-## Information Technology Application 1
+When $\angle 1=\angle 3$, $a\parallel b$. $\angle 1$ and $\angle 3$ are the corresponding angles (or alternate interior angles) formed when lines $a$, $b$ are cut by transversal $c$; by Criterion 1, equal corresponding angles imply parallel lines, so $a\parallel b$.
 
-(Information Technology Application: Using a Spreadsheet for Data Calculation) In a spreadsheet, the cells $A1$, $A2$, $A3$, $A4$, $A5$ and $A6$ contain respectively $163$, $223$, $516$, $87$, $198$ and $379$. Find their sum and their average.
+When $\angle 2+\angle 3=180^\circ$, $a\parallel b$. $\angle 2$ and $\angle 3$ are the consecutive interior angles formed when lines $a$, $b$ are cut by transversal $c$; by Criterion 3, supplementary consecutive interior angles imply parallel lines, so $a\parallel b$. $\blacksquare$
 
-### Solution to Information Technology Application 1
+## Problem 13
 
-By Combining Like Terms, finding the sum means combining like quantities.
+(Exercise 7.2, Extension and Exploration, Problem 13) Observe the cuboid shown in the figure. Use symbols to express the positional relationships of the following pairs of edges: $A_1B_1$ _______ $AB$, $AA_1$ _______ $AB$, $A_1D_1$ _______ $D_1C_1$, $AD$ _______ $BC$. Can you find examples of these positional relationships in the classroom?
 
-The sum of the six numbers is
+### Solution to Problem 13
 
-$$163+223+516+87+198+379=1566.$$
+By Parallel and Perpendicular: $A_1B_1$ and $AB$ lie in the same direction and do not intersect, so $A_1B_1\parallel AB$; $AA_1$ and $AB$ intersect at a right angle, so $AA_1\perp AB$; $A_1D_1$ and $D_1C_1$ intersect at a right angle, so $A_1D_1\perp D_1C_1$; $AD$ and $BC$ have the same direction and do not intersect, so $AD\parallel BC$.
 
-The average is the sum divided by the count: $\frac{1566}{6}=261$. $\blacksquare$
+In the classroom, examples of these positional relationships include the opposite sides of the blackboard being parallel and adjacent sides of the blackboard being perpendicular. $\blacksquare$
+
+## Problem 14
+
+(Exercise 7.2, Extension and Exploration, Problem 14) As shown in the figure, the two mirrors in a periscope are placed parallel to each other. When light rays reflect off the mirrors, $\angle 1=\angle 2$, $\angle 3=\angle 4$. What is the relationship between $\angle 2$ and $\angle 3$? Why is the ray entering the periscope parallel to the ray leaving the periscope?
+
+The figure shows a cross-section of a periscope: two mirrors placed parallel to each other, one above the other; an incoming ray enters from one side, reflects off the first mirror, strikes the second mirror, and reflects out the other side. At the first mirror are marked $\angle 1$ (angle between incident ray and mirror) and $\angle 2$ (angle between reflected ray and mirror); at the second mirror are marked the corresponding $\angle 3$ and $\angle 4$.
+
+### Solution to Problem 14
+
+The two mirrors are parallel to each other. The two reflected rays between them are cut by the mirrors (lines); $\angle 2$ and $\angle 3$ are the alternate interior angles formed when the two parallel mirrors are cut by the middle ray. By Property 2, parallel lines give equal alternate interior angles, so $\angle 2=\angle 3$.
+
+Also given $\angle 1=\angle 2$, $\angle 3=\angle 4$, so $\angle 1=\angle 2=\angle 3=\angle 4$. Thus the alternate interior angles formed when the ray entering the periscope and the ray leaving the periscope are cut by the reflected ray between the mirrors
+
+$$
+\angle 1+\angle 2=\angle 3+\angle 4
+$$
+
+hold. By Criterion 2, equal alternate interior angles imply parallel lines, so the ray entering the periscope is parallel to the ray leaving the periscope. $\blacksquare$
+
+## Exercise 11
+
+(Exercise 7.3, Problem 1) Give some examples of definitions you have learned.
+
+### Solution to Exercise 11
+
+By Definition, a definition is a clear description of the essential features of a mathematical object. For example: "A line with a specified origin, positive direction, and unit length is called a number line"; "A ray starting from the vertex of an angle and dividing the angle into two equal angles is called the angle bisector of the angle"; "The length of the perpendicular segment from a point outside a line to the line is called the distance from the point to the line." These are all definitions you have learned. $\blacksquare$
+
+## Exercise 12
+
+(Exercise 7.3, Problem 2) Give some examples of true propositions you have learned.
+
+### Solution to Exercise 12
+
+By Proposition, a true proposition is a proposition judged to be correct. For example: "Vertical angles are equal"; "If two lines are both parallel to a third line, then these two lines are also parallel to each other"; "Parallel lines give equal corresponding angles." These are all true propositions you have learned. $\blacksquare$
+
+## Exercise 13
+
+(Exercise 7.3, Problem 3) Identify the hypothesis and conclusion of the following propositions:
+
+(1) If $a=b$, then $5a=5b$;
+
+(2) If $AB\perp CD$, with foot at $O$, then $\angle AOC=90^\circ$;
+
+(3) If $\angle 1=\angle 2$, $\angle 2=\angle 3$, then $\angle 1=\angle 3$;
+
+(4) Parallel lines give equal corresponding angles.
+
+### Solution to Exercise 13
+
+By Proposition, the part after "if" is the hypothesis and the part after "then" is the conclusion; if the hypothesis and conclusion are not obvious, first rewrite it in the form "If …, then …".
+
+(1) Hypothesis: $a=b$; conclusion: $5a=5b$.
+
+(2) Hypothesis: $AB\perp CD$, with foot at $O$; conclusion: $\angle AOC=90^\circ$.
+
+(3) Hypothesis: $\angle 1=\angle 2$ and $\angle 2=\angle 3$; conclusion: $\angle 1=\angle 3$.
+
+(4) Rewrite as "If two lines are parallel, then the corresponding angles are equal." Hypothesis: two lines are parallel; conclusion: corresponding angles are equal. $\blacksquare$

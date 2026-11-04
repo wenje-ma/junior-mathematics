@@ -1,267 +1,407 @@
 # week68
 
-## Exercise 1
+> **Basic Fact 27.2.1** (Parallel Lines Dividing Line Segments Proportionally) 
+> 
+> When two lines are cut by a set of parallel lines, the corresponding line segments obtained are proportional.
 
-(Exercise 14.2, Problem 1) As shown, there is a pond; to measure the distance between its two ends $A$ and $B$, first take a point $C$ on the flat ground, join $AC$ and extend it to point $D$ so that $CD=CA$, join $BC$ and extend it to point $E$ so that $CE=CB$, and join $DE$. The measured length of $DE$ is the distance between $A$ and $B$. Why?
+> **Criterion Theorem 27.2.2** (SSS) 
+> 
+> Two triangles whose three sides are proportional are similar.
 
-### Solution to Exercise 1
+> **Criterion Theorem 27.2.3** (SAS) 
+> 
+> Two triangles with two sides proportional and the included angle equal are similar.
 
-In $\triangle ABC$ and $\triangle DEC$, $CA=CD$, $CB=CE$, and $\angle ACB$ and $\angle DCE$ are vertical angles and equal. By SAS, $\triangle ABC\cong\triangle DEC$.
+> **Criterion Theorem 27.2.4** (AA) 
+> 
+> Two triangles with two pairs of corresponding angles equal are similar.
 
-By Properties of Congruent Triangles, the corresponding sides satisfy $AB=DE$, so the measured length of $DE$ is the distance between $A$ and $B$. $\blacksquare$
-
-## Exercise 2
-
-(Exercise 14.2, Problem 2) As shown, points $E$, $F$ lie on $BC$, $BE=CF$, $AB=DC$, $\angle B=\angle C$. Prove that $\angle A=\angle D$.
-
-### Solution to Exercise 2
-
-From $BE=CF$, we get $BE+EF=CF+EF$, i.e. $BF=CE$. In $\triangle ABF$ and $\triangle DCE$, $AB=DC$, $\angle B=\angle C$, $BF=CE$; by SAS, $\triangle ABF\cong\triangle DCE$.
-
-By Properties of Congruent Triangles, the corresponding angles satisfy $\angle A=\angle D$. $\blacksquare$
-
-## Exercise 3
-
-(Exercise 14.2, Problem 1) As shown, $AB\perp BC$, $AD\perp DC$, with feet at $B$, $D$ respectively, and $\angle 1=\angle 2$. Prove that $AB=AD$.
-
-### Solution to Exercise 3
-
-From $AB\perp BC$, $AD\perp DC$, we get $\angle B=\angle D=90^\circ$. In $\triangle ABC$ and $\triangle ADC$, $\angle 1=\angle 2$, $\angle B=\angle D$, and $AC$ is a common side; by AAS, $\triangle ABC\cong\triangle ADC$.
-
-By Properties of Congruent Triangles, the corresponding sides satisfy $AB=AD$. $\blacksquare$
-
-## Exercise 4
-
-(Exercise 14.2, Problem 2) As shown, to measure the distance between two opposite points $A$, $B$ across a pond, take $C$, $D$ on the perpendicular $BF$ to $AB$ so that $BC=CD$, then draw the perpendicular $DE$ to $BF$ so that $E$, $A$, $C$ lie on one straight line; then the measured length of $DE$ is the length of $AB$. Why?
-
-### Solution to Exercise 4
-
-From $AB\perp BF$, $DE\perp BF$, we get $\angle B=\angle D=90^\circ$. In $\triangle ABC$ and $\triangle EDC$, $BC=CD$, $\angle ACB=\angle ECD$ (vertical angles), $\angle B=\angle D$; by ASA, $\triangle ABC\cong\triangle EDC$.
-
-By Properties of Congruent Triangles, the corresponding sides satisfy $AB=DE$, so the measured length of $DE$ is the length of $AB$. $\blacksquare$
-
-## Exercise 5
-
-(Exercise 14.2, Problem 1) As shown, $AC=BD$, $BC=AD$. Prove that $\angle ABC=\angle BAD$.
-
-### Solution to Exercise 5
-
-In $\triangle ABC$ and $\triangle BAD$, $AC=BD$, $BC=AD$, and $AB$ is a common side; by SSS, $\triangle ABC\cong\triangle BAD$.
-
-By Properties of Congruent Triangles, the corresponding angles satisfy $\angle ABC=\angle BAD$. $\blacksquare$
-
-## Exercise 6
-
-(Exercise 14.2, Problem 2) A worker uses a try square to bisect an arbitrary angle: on the sides $OA$, $OB$ of $\angle AOB$ take $OM=ON$ respectively, move the try square so that the same marks on its two sides coincide with $M$, $N$ respectively, and the ray $OC$ through the square's vertex $C$ is the bisector. Why?
-
-### Solution to Exercise 6
-
-In $\triangle OMC$ and $\triangle ONC$, $OM=ON$, $CM=CN$ (same try-square marks), and $OC$ is a common side; by SSS, $\triangle OMC\cong\triangle ONC$.
-
-By Properties of Congruent Triangles, the corresponding angles satisfy $\angle MOC=\angle NOC$, so $OC$ bisects $\angle AOB$. $\blacksquare$
-
-## Exercise 7
-
-(Exercise 14.2, Problem 1) As shown, $C$ is the midpoint of road segment $AB$. Two people start from $C$ at the same time, walk along two straight lines at the same speed, and reach $D$, $E$ at the same time, with $DA\perp AB$, $EB\perp AB$. Are the distances from $D$, $E$ to road segment $AB$ equal? Why?
-
-### Solution to Exercise 7
-
-They are equal. Since $C$ is the midpoint of $AB$, $CA=CB$. The two people have the same speed and arrive at the same time, so $CD=CE$. In $\text{Rt}\triangle ACD$ and $\text{Rt}\triangle BCE$, the hypotenuses satisfy $CD=CE$, and the legs satisfy $CA=CB$; by HL, $\text{Rt}\triangle ACD\cong\text{Rt}\triangle BCE$.
-
-By Basic Knowledge, the corresponding legs satisfy $AD=BE$, i.e. the distances from $D$, $E$ to road segment $AB$ are equal. $\blacksquare$
-
-## Exercise 8
-
-(Exercise 14.2, Problem 2) As shown, $AB=CD$, $AE\perp BC$, $DF\perp BC$, with feet at $E$, $F$ respectively, $CE=BF$. Prove that $AE=DF$.
-
-### Solution to Exercise 8
-
-From $AE\perp BC$, $DF\perp BC$, we get $\angle AEB=\angle DFC=90^\circ$. From $CE=BF$, we get $CE-EF=BF-EF$, i.e. $CF=BE$. In $\text{Rt}\triangle ABE$ and $\text{Rt}\triangle DCF$, the hypotenuses satisfy $AB=CD$, and the legs satisfy $BE=CF$; by HL, $\text{Rt}\triangle ABE\cong\text{Rt}\triangle DCF$.
-
-By Basic Knowledge, the corresponding legs satisfy $AE=DF$. $\blacksquare$
+> **Criterion Theorem 27.2.5** (HL) 
+> 
+> Two right triangles whose hypotenuses and one leg are proportional are similar.
 
 ## Problem 1
 
-(Exercise 14.2, Review and Consolidation, Problem 1) As shown, $M$ is the midpoint of $AB$, $\angle AMC=\angle BMD$, $MC=MD$. Prove that $AC=BD$.
+(Problem 27.2, Review and Consolidation, Problem 2) Based on the following conditions, determine whether $\triangle ABC$ and $\triangle A'B'C'$ are similar, and explain your reasoning:
+
+(1) $AB=10\ \text{cm}$, $BC=12\ \text{cm}$, $AC=15\ \text{cm}$, $A'B'=150\ \text{cm}$, $B'C'=180\ \text{cm}$, $A'C'=225\ \text{cm}$;
+
+(2) $\angle A=70^\circ$, $\angle B=48^\circ$, $\angle A'=70^\circ$, $\angle C'=62^\circ$.
 
 ### Solution to Problem 1
 
-Since $M$ is the midpoint of $AB$, $AM=BM$. In $\triangle AMC$ and $\triangle BMD$, $AM=BM$, $\angle AMC=\angle BMD$, $MC=MD$; by SAS, $\triangle AMC\cong\triangle BMD$.
+(1) $\frac{10}{150}=\frac{1}{15}$, $\frac{12}{180}=\frac{1}{15}$, $\frac{15}{225}=\frac{1}{15}$; the three sides are proportional, so by **Criterion Theorem 27.2.2** (SSS), they are similar.
 
-By Basic Knowledge, the corresponding sides satisfy $AC=BD$. $\blacksquare$
+(2) $\angle C=180^\circ-70^\circ-48^\circ=62^\circ=\angle C'$, and $\angle A=\angle A'=70^\circ$; two pairs of corresponding angles are equal, so by **Criterion Theorem 27.2.4** (AA), they are similar. $\blacksquare$
 
 ## Problem 2
 
-(Exercise 14.2, Review and Consolidation, Problem 2) As shown, $AB=AC$, $AD=AE$. Prove that $\angle B=\angle C$.
+(Problem 27.2, Review and Consolidation, Problem 3) As shown in the figure, (1) determine whether the two triangles are similar; (2) find the values of $x$ and $y$. (First group: two sides proportional and included angle $98^\circ$ equal; second group: $\angle 1=\angle 2$, two pairs of corresponding angles equal.)
 
 ### Solution to Problem 2
 
-In $\triangle ABE$ and $\triangle ACD$, $AB=AC$, $\angle A$ is a common angle, $AE=AD$; by SAS, $\triangle ABE\cong\triangle ACD$.
+(1) First group: the ratios of the two sides are both $3:2$, and the included angle $98^\circ$ is equal; by **Criterion Theorem 27.2.3** (SAS), they are similar.
 
-By Basic Knowledge, the corresponding angles satisfy $\angle B=\angle C$. $\blacksquare$
+(2) Second group: $\angle 1=\angle 2$, and there is another pair of equal corresponding angles; by **Criterion Theorem 27.2.4** (AA), they are similar; the corresponding sides are proportional, from which $x,y$ can be found. $\blacksquare$
 
 ## Problem 3
 
-(Exercise 14.2, Review and Consolidation, Problem 3) As shown, join the midpoints of two steel rods to make a caliper. To measure the inner-groove width $AB$ of a workpiece, what quantities need only be measured? Why?
+(Problem 27.2, Review and Consolidation, Problem 4) As shown in the figure, in $\triangle ABC$, $DE\parallel BC$, $EF\parallel AB$. Prove that $\triangle ADE\backsim\triangle EFC$.
 
 ### Solution to Problem 3
 
-Only measure the length of the corresponding inner-groove side $CD$. Let the intersection of the two rods be $O$; then $O$ is the midpoint of both rods, so $OA=OD$, $OB=OC$. In $\triangle AOB$ and $\triangle DOC$, $OA=OD$, $\angle AOB=\angle DOC$ (vertical angles), $OB=OC$; by SAS, $\triangle AOB\cong\triangle DOC$.
+$DE\parallel BC$, so $\angle AED=\angle C$.
 
-By Basic Knowledge, the corresponding sides satisfy $AB=CD$, so measuring $CD$ gives the inner-groove width $AB$. $\blacksquare$
+$EF\parallel AB$, so $\angle A=\angle CEF$.
+
+In $\triangle ADE$ and $\triangle EFC$, $\angle A=\angle CEF$, $\angle AED=\angle C$; by **Criterion Theorem 27.2.4** (AA), $\triangle ADE\backsim\triangle EFC$. $\blacksquare$
 
 ## Problem 4
 
-(Exercise 14.2, Review and Consolidation, Problem 4) As shown, $\angle 1=\angle 2$, $\angle 3=\angle 4$. Prove that $AC=AD$.
+(Problem 27.2, Review and Consolidation, Problem 5) As shown in the figure, in $\triangle ABC$, $DE\parallel FG\parallel BC$. Find all similar triangles in the figure.
 
 ### Solution to Problem 4
 
-In $\triangle ABC$ and $\triangle ABD$, $\angle 3=\angle 4$, $AB$ is a common side, and $\angle ABC=\angle ABD$ (derived from $\angle 1=\angle 2$); by ASA, $\triangle ABC\cong\triangle ABD$.
+By Preliminary Theorem, a triangle cut by a line parallel to one side of the original is similar to the original triangle.
 
-By Basic Knowledge, the corresponding sides satisfy $AC=AD$. $\blacksquare$
+$DE\parallel BC$, so $\triangle ADE\backsim\triangle ABC$; $FG\parallel BC$, so $\triangle AFG\backsim\triangle ABC$. Therefore $\triangle ADE\backsim\triangle AFG\backsim\triangle ABC$. $\blacksquare$
 
 ## Problem 5
 
-(Exercise 14.2, Review and Consolidation, Problem 5) As shown, $\angle 1=\angle 2$, $\angle B=\angle D$. Prove that $AB=CD$.
+(Problem 27.2, Review and Consolidation, Problem 6) If a right triangle with legs $30\ \text{cm}$ and $40\ \text{cm}$ is reduced by a similarity ratio of $\frac{3}{5}$, what are the lengths of the two legs and the area of the resulting right triangle?
 
 ### Solution to Problem 5
 
-In $\triangle ABC$ and $\triangle CDA$, $\angle 1=\angle 2$, $\angle B=\angle D$, and $AC$ is a common side; by AAS, $\triangle ABC\cong\triangle CDA$.
+After reduction, the two legs are $30\times\frac{3}{5}=18\ \text{cm}$ and $40\times\frac{3}{5}=24\ \text{cm}$.
 
-By Basic Knowledge, the corresponding sides satisfy $AB=CD$. $\blacksquare$
+The area is $\frac{1}{2}\times18\times24=216\ \text{cm}^2$. $\blacksquare$
 
 ## Problem 6
 
-(Exercise 14.2, Review and Consolidation, Problem 6) As shown, from point $C$ the viewing angle $\angle C$ to points $A$, $B$ is acute, and point $C$ is equidistant from points $A$, $B$. Is the distance $AD$ from point $A$ to road segment $BC$ equal to the distance $BE$ from point $B$ to road segment $AC$? Why?
+(Problem 27.2, Comprehensive Application, Problem 7) As shown in the figure, $AD$ is the altitude to the hypotenuse of $\text{Rt}\triangle ABC$. If $AB=4\ \text{cm}$, $BC=10\ \text{cm}$, find the length of $BD$.
 
 ### Solution to Problem 6
 
-They are equal. Since $CA=CB$, $\triangle ABC$ is isosceles, $\angle CAB=\angle CBA$. Also $AD\perp BC$, $BE\perp AC$, so $\angle ADC=\angle BEC=90^\circ$. In $\triangle ACD$ and $\triangle BCE$, $\angle ADC=\angle BEC$, $\angle ACD=\angle BCE$ (common), $CA=CB$; by AAS, $\triangle ACD\cong\triangle BCE$.
+In $\text{Rt}\triangle ABC$, $\angle BAC=90^\circ$, $AD\perp BC$. By **Criterion Theorem 27.2.4** (AA), $\triangle ABD\backsim\triangle CBA$.
 
-By Basic Knowledge, the corresponding sides satisfy $AD=BE$. $\blacksquare$
+$$
+\frac{AB}{BC}=\frac{BD}{AB}\Rightarrow AB^2=BD\cdot BC.
+$$
+
+$$
+BD=\frac{AB^2}{BC}=\frac{16}{10}=1.6\ \text{cm}.\ \blacksquare
+$$
 
 ## Problem 7
 
-(Exercise 14.2, Review and Consolidation, Problem 7) As shown, $AB=AD$, $AC=AE$, $BC=DE$. Prove that $\angle BAC=\angle DAE$.
+(Problem 27.2, Comprehensive Application, Problem 8) As shown in the figure, a proportional compass consists of two equal-length legs $AD$ and $BC$ crossing each other. The screw is fixed at the scale mark $3$, i.e. $OA=3OD$, $OB=3OC$, with $A$, $B$ at the two endpoints of segment $l$. What is the relationship between $CD$ and $AB$? Why?
 
 ### Solution to Problem 7
 
-In $\triangle ABC$ and $\triangle ADE$, $AB=AD$, $AC=AE$, $BC=DE$; by SSS, $\triangle ABC\cong\triangle ADE$.
+$\angle AOB=\angle DOC$ (vertical angles), and $\frac{OA}{OD}=3=\frac{OB}{OC}$; by **Criterion Theorem 27.2.3** (SAS), $\triangle OAB\backsim\triangle ODC$.
 
-By Basic Knowledge, the corresponding angles satisfy $\angle BAC=\angle DAE$. $\blacksquare$
+$$
+\frac{AB}{CD}=\frac{OA}{OD}=3.
+$$
+
+Therefore $AB=3CD$. $\blacksquare$
 
 ## Problem 8
 
-(Exercise 14.2, Review and Consolidation, Problem 8) As shown, in an angle-bisecting instrument $AB=AD$, $BC=DC$. Place $A$ at the vertex of the angle, lay $AB$, $AD$ along the two sides of the angle, and draw the ray $AE$ along $AC$ as the bisector; explain why.
+(Problem 27.2, Comprehensive Application, Problem 9) As shown in the figure, a sighting pole $BE$ is used to measure the height of a building. The sighting pole $BE$ is $1.2\ \text{m}$ high, and $AB=1.6\ \text{m}$, $BC=12.4\ \text{m}$ are measured. What is the height $CD$ of the building?
 
 ### Solution to Problem 8
 
-In $\triangle ABC$ and $\triangle ADC$, $AB=AD$, $BC=DC$, and $AC$ is a common side; by SSS, $\triangle ABC\cong\triangle ADC$.
+$BE\perp AC$, $CD\perp AC$, so $BE\parallel CD$, and $\triangle ABE\backsim\triangle ACD$ (AA).
 
-By Basic Knowledge, the corresponding angles satisfy $\angle BAC=\angle DAC$, so $AE$ bisects the angle. $\blacksquare$
+$$
+\frac{BE}{CD}=\frac{AB}{AC}=\frac{1.6}{1.6+12.4}=\frac{1.6}{14}.
+$$
+
+$$
+CD=\frac{1.2\times14}{1.6}=10.5\ \text{m}.\ \blacksquare
+$$
 
 ## Problem 9
 
-(Exercise 14.2, Review and Consolidation, Problem 9) As shown, point $C$ lies on side $OB$ of $\angle AOB$. Use a straightedge and compass to draw through point $C$ a line $CD$ parallel to ray $OA$.
+(Problem 27.2, Comprehensive Application, Problem 10) As shown in the figure, to measure the height of a building, student Wang Qing places a mirror at her feet and then steps backward until she can just see the top of the building in the mirror. At this time, is $\angle LMK$ equal to $\angle SMT$? If Wang Qing is $1.55\ \text{m}$ tall, her eyes are $1.50\ \text{m}$ above the ground, and $LM=30\ \text{cm}$, $MS=2\ \text{m}$ are measured, how tall is the building?
 
 ### Solution to Problem 9
 
-At vertex $O$ draw an angle equal to the corresponding angle of $\angle AOB$: using the straightedge-and-compass method of drawing an angle equal to a given angle, draw through $C$ an angle $\angle BCD$ equal to $\angle BOA$, so that the two angles are corresponding angles; then $CD\parallel OA$. $\blacksquare$
+By the law of reflection, the angle of reflection equals the angle of incidence, so $\angle LMK=\angle SMT$.
+
+$\angle KLM=\angle TSM=90^\circ$; by **Criterion Theorem 27.2.4** (AA), $\triangle KLM\backsim\triangle TSM$.
+
+$$
+\frac{KL}{TS}=\frac{LM}{SM}=\frac{0.3}{2}=\frac{3}{20}.
+$$
+
+$KL=1.50\ \text{m}$, so $TS=1.50\times\frac{20}{3}=10\ \text{m}$. $\blacksquare$
 
 ## Problem 10
 
-(Exercise 14.2, Review and Consolidation, Problem 10) As shown, given $\triangle ABC$, use a straightedge and compass to construct $\triangle ABD$ such that $\angle BAD=\angle BAC$, $AD=AC$ (point $D$ and point $C$ are on opposite sides of $AB$).
+(Problem 27.2, Comprehensive Application, Problem 11) As shown in the figure, $ABCD$ is a rectangle, point $F$ moves on the diagonal $AC$, $EF\parallel BC$, $FG\parallel CD$. Do rectangle $AEFG$ and rectangle $ABCD$ always remain similar? Prove your conclusion.
 
 ### Solution to Problem 10
 
-First, using the method of drawing an angle equal to a given angle, draw $\angle BAD=\angle BAC$ on the opposite side of $AB$ from $C$, then cut off $AD=AC$ on ray $AD$, join $BD$, and the desired $\triangle ABD$ is obtained. $\blacksquare$
+$EF\parallel BC\parallel AD$, $FG\parallel CD\parallel AB$.
+
+In rectangle $ABCD$, $\angle A=\angle B=\angle C=\angle D=90^\circ$. In quadrilateral $AEFG$, $EF\parallel AG$, $FG\parallel AE$, so its four angles are also all $90^\circ$.
+
+Also, $\triangle AEF\backsim\triangle ABC$, $\triangle AFG\backsim\triangle ACD$, and the ratio of corresponding sides is $\frac{AF}{AC}$ in both.
+
+Thus quadrilateral $AEFG$ and $ABCD$ have equal corresponding angles and proportional corresponding sides; by Basic Knowledge, they always remain similar. $\blacksquare$
 
 ## Problem 11
 
-(Exercise 14.2, Comprehensive Application, Problem 11) As shown, in $\triangle ABC$, $AB=AC$, $AD$ is an altitude. Prove that $BD=CD$, $\angle BAD=\angle CAD$.
+(Problem 27.2, Comprehensive Application, Problem 12) As shown in the figure, the line $DE$ parallel to $BC$ divides $\triangle ABC$ into two parts of equal area. Determine the position of point $D$ (or $E$).
 
 ### Solution to Problem 11
 
-Since $AD$ is an altitude, $\angle ADB=\angle ADC=90^\circ$. In $\text{Rt}\triangle ABD$ and $\text{Rt}\triangle ACD$, the hypotenuses satisfy $AB=AC$, and the leg $AD$ is a common side; by HL, $\text{Rt}\triangle ABD\cong\text{Rt}\triangle ACD$.
+By Basic Knowledge, $DE\parallel BC$, so $\triangle ADE\backsim\triangle ABC$.
 
-By Basic Knowledge, the corresponding sides satisfy $BD=CD$, and the corresponding angles satisfy $\angle BAD=\angle CAD$. $\blacksquare$
+By Basic Knowledge, $\frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\left(\frac{AD}{AB}\right)^2=\frac{1}{2}$.
+
+Thus $\frac{AD}{AB}=\frac{1}{\sqrt{2}}=\frac{\sqrt{2}}{2}$, i.e. $D$ lies on $AB$ such that $AD:DB=\sqrt{2}:\left(2-\sqrt{2}\right)$. $\blacksquare$
 
 ## Problem 12
 
-(Exercise 14.2, Comprehensive Application, Problem 12) As shown, $AC\perp CB$, $DB\perp CB$, with feet at $C$, $B$ respectively, $AB=DC$. Prove that $\angle ABD=\angle ACD$.
+(Problem 27.2, Extension and Exploration, Problem 13) As shown in the figure, in $\triangle ABC$, $CD$ is the altitude to side $AB$, and $\frac{AD}{CD}=\frac{CD}{BD}$. Find the size of $\angle ACB$.
 
 ### Solution to Problem 12
 
-From $AC\perp CB$, $DB\perp CB$, we get $\angle ACB=\angle DBC=90^\circ$. In $\text{Rt}\triangle ABC$ and $\text{Rt}\triangle DCB$, the hypotenuses satisfy $AB=DC$, and the leg $BC$ is a common side; by HL, $\text{Rt}\triangle ABC\cong\text{Rt}\triangle DCB$.
+$CD\perp AB$, so $\angle ADC=\angle CDB=90^\circ$. Also $\frac{AD}{CD}=\frac{CD}{BD}$; the two sides are proportional and the included angle is equal, so by **Criterion Theorem 27.2.3** (SAS), $\triangle ACD\backsim\triangle CBD$.
 
-By Basic Knowledge, the corresponding angles satisfy $\angle ABC=\angle DCB$. Subtracting the right angles $\angle CBD$ and $\angle ACB$ from the two sides respectively gives $\angle ABD=\angle ACD$. $\blacksquare$
+Thus $\angle ACD=\angle B$.
+
+$$
+\angle ACB=\angle ACD+\angle BCD=\angle B+\angle BCD=90^\circ.\ \blacksquare
+$$
 
 ## Problem 13
 
-(Exercise 14.2, Comprehensive Application, Problem 13) As shown, points $B$, $E$, $C$, $F$ lie on one straight line, $AB=DE$, $AC=DF$, $BE=CF$. Prove that $\angle A=\angle D$.
+(Problem 27.2, Extension and Exploration, Problem 14) As shown in the figure, in $\triangle ABC$, $AB=8$, $AC=6$, $BC=9$. A moving point $D$ starts from point $B$ and moves along side $BA$ toward point $A$ at a speed of $2$ units per second, while the line $DE\parallel BC$ meets $AC$ at point $E$. Let $y$ be the length of $DE$ after $x$ seconds. Write the function expression for $y$ in terms of $x$ and draw its graph.
+
+The figure shows $\triangle ABC$ with $AB=8$, $AC=6$, and $BC=9$; point $D$ moves along side $BA$ from $B$ toward $A$, and through $D$ a line $DE\parallel BC$ is drawn meeting $AC$ at $E$.
 
 ### Solution to Problem 13
 
-From $BE=CF$, we get $BE+EC=CF+EC$, i.e. $BC=EF$. In $\triangle ABC$ and $\triangle DEF$, $AB=DE$, $AC=DF$, $BC=EF$; by SSS, $\triangle ABC\cong\triangle DEF$.
+After $x$ seconds, $BD=2x$, $AD=AB-BD=8-2x$.
 
-By Basic Knowledge, the corresponding angles satisfy $\angle A=\angle D$. $\blacksquare$
+By Basic Knowledge, $DE\parallel BC$, $\triangle ADE\backsim\triangle ABC$, so
+
+$$
+\frac{DE}{BC}=\frac{AD}{AB}=\frac{8-2x}{8}.
+$$
+
+$$
+y=DE=9\cdot\frac{8-2x}{8}=9-\frac{9}{4}x.
+$$
+
+where $0\le x\le4$. The graph is a line segment from $\left(0,9\right)$ to $\left(4,0\right)$. $\blacksquare$
+
+## Observation and Conjecture 1
+
+(Observation and Conjecture: Wonderful Fractal Figures) What is the relationship among the triangles of various sizes in the Sierpinski carpet and the snowflake curve?
+
+### Solution to Observation and Conjecture 1
+
+The Sierpinski carpet is obtained by dividing an equilateral triangle into four equal parts, removing the middle one, and repeating the operation on the remaining small triangles; the snowflake curve is obtained by constructing small equilateral triangles outward on the middle of each side of an equilateral triangle and repeating the operation. In both figures, the local and the whole have the same shape, i.e. there is self-similarity, and the triangles of various sizes are mutually similar. Such self-similar figures are called fractal figures. $\blacksquare$
+
+## Exercise 1
+
+(Exercise 27.3, Problem 1) As shown in the figure, $\triangle OAB$ and $\triangle OCD$ are homothetic figures. Are $AB$ and $CD$ parallel? Why?
+
+### Solution to Exercise 1
+
+By Homothetic Figures, homothetic figures are special similar figures, and their corresponding sides are parallel to each other.
+
+$\triangle OAB$ and $\triangle OCD$ are homothetic, and $AB$ and $CD$ are corresponding sides, so $AB\parallel CD$. $\blacksquare$
+
+## Exercise 2
+
+(Exercise 27.3, Problem 2) As shown in the figure, take point $O$ as the center of homothety and enlarge $\triangle ABC$ by a similarity ratio of $3$.
+
+The figure shows $\triangle ABC$ with a point $O$ outside it; the task is to take $O$ as the center of homothety and enlarge $\triangle ABC$ by a similarity ratio of $3$.
+
+### Solution to Exercise 2
+
+By Basic Knowledge, connect and extend $OA,OB,OC$, take $A',B',C'$ on the extended lines such that $OA'=3OA$, $OB'=3OB$, $OC'=3OC$, and connect $A',B',C'$ in order; the resulting $\triangle A'B'C'$ is the desired enlarged triangle. $\blacksquare$
+
+## Exercise 3
+
+(Exercise 27.3, Problem 1) As shown in the figure, reducing $\triangle AOB$ gives $\triangle COD$. Find the similarity ratio of $\triangle COD$ to $\triangle AOB$. ($A\left(2,4\right)$, $B\left(5,0\right)$, $C\left(1,2\right)$, $D\left(2.5,0\right)$.)
+
+### Solution to Exercise 3
+
+By Homothetic Figures, the similarity ratio is the ratio of the distances from the corresponding points to the center of homothety.
+
+$$
+\frac{OC}{OA}=\frac{\sqrt{1^2+2^2}}{\sqrt{2^2+4^2}}=\frac{\sqrt{5}}{\sqrt{20}}=\frac{1}{2}.
+$$
+
+Thus the similarity ratio is $\frac{1}{2}$. $\blacksquare$
+
+## Exercise 4
+
+(Exercise 27.3, Problem 2) As shown in the figure, the coordinates of the three vertices of $\triangle ABO$ are $A\left(4,-5\right)$, $B\left(6,0\right)$, $O\left(0,0\right)$. Taking the origin $O$ as the center of homothety, enlarge this triangle by a similarity ratio of $2$ to obtain $\triangle A'B'O'$. Write the coordinates of the three vertices of $\triangle A'B'O'$.
+
+### Solution to Exercise 4
+
+By Coordinate Rule for Homothety, with the origin as the center of homothety and similarity ratio $k=2$, the point $\left(x,y\right)$ corresponds to $\left(kx,ky\right)$ or $\left(-kx,-ky\right)$.
+
+One set of corresponding coordinates is $A'\left(8,-10\right)$, $B'\left(12,0\right)$, $O'\left(0,0\right)$; the other set is $A''\left(-8,10\right)$, $B''\left(-12,0\right)$, $O''\left(0,0\right)$. $\blacksquare$
 
 ## Problem 14
 
-(Exercise 14.2, Comprehensive Application, Problem 14) As shown, $AC$ and $BD$ intersect at point $O$, $OA=OC$, $OB=OD$. Prove that $AB\parallel CD$.
+(Problem 27.3, Review and Consolidation, Problem 1) As shown in the figure, if the dashed figure and the solid figure are homothetic, find their similarity ratio and locate the center of homothety.
 
 ### Solution to Problem 14
 
-In $\triangle AOB$ and $\triangle COD$, $OA=OC$, $\angle AOB=\angle COD$ (vertical angles), $OB=OD$; by SAS, $\triangle AOB\cong\triangle COD$.
-
-By Basic Knowledge, the corresponding angles satisfy $\angle A=\angle C$, which are alternate interior angles, so $AB\parallel CD$. $\blacksquare$
+By Homothetic Figures, the intersection of the connecting lines of corresponding vertices is the center of homothety, and the ratio of corresponding sides is the similarity ratio. In the figure, the connecting lines of the corresponding vertices of the dashed and solid figures meet at one point, which is the center of homothety; the ratio of the lengths of corresponding sides is the similarity ratio. $\blacksquare$
 
 ## Problem 15
 
-(Exercise 14.2, Comprehensive Application, Problem 15) As shown, points $B$, $F$, $C$, $E$ lie on one straight line, $FB=CE$, $AB\parallel DE$, $AC\parallel DF$. Prove that $AB=DE$, $AC=DF$.
+(Problem 27.3, Review and Consolidation, Problem 2) As shown in the figure, take point $P$ as the center of homothety and reduce the side lengths of the five-pointed star to $\frac{1}{2}$ of the original.
 
 ### Solution to Problem 15
 
-From $FB=CE$, we get $FB+FC=CE+FC$, i.e. $BC=EF$. From $AB\parallel DE$, we get $\angle B=\angle E$; from $AC\parallel DF$, we get $\angle ACB=\angle DFE$. In $\triangle ABC$ and $\triangle DEF$, $\angle B=\angle E$, $BC=EF$, $\angle ACB=\angle DFE$; by ASA, $\triangle ABC\cong\triangle DEF$.
-
-By Basic Knowledge, the corresponding sides satisfy $AB=DE$, $AC=DF$. $\blacksquare$
+By Basic Knowledge, connect the center of homothety $P$ to each vertex of the five-pointed star, take the midpoint on each connecting line, and connect these midpoints in order; the resulting five-pointed star is the homothetic figure with side lengths reduced to $\frac{1}{2}$ of the original. $\blacksquare$
 
 ## Problem 16
 
-(Exercise 14.2, Comprehensive Application, Problem 16) As shown, $\triangle ABC\cong\triangle A'B'C'$, and $AD$, $A'D'$ are respectively the bisectors of the corresponding angles of the two triangles. Prove that $AD=A'D'$.
+(Problem 27.3, Review and Consolidation, Problem 3) The coordinates of the three vertices of $\triangle ABC$ are $A\left(2,2\right)$, $B\left(4,2\right)$, $C\left(6,4\right)$. Taking the origin $O$ as the center of homothety, reduce $\triangle ABC$ to obtain $\triangle DEF$, such that the ratio of corresponding sides of $\triangle DEF$ to $\triangle ABC$ is $1:2$. What are the coordinates of each vertex of $\triangle DEF$ at this time?
 
 ### Solution to Problem 16
 
-From $\triangle ABC\cong\triangle A'B'C'$, we get $AB=A'B'$, $\angle B=\angle B'$, $\angle BAC=\angle B'A'C'$. Since $AD$, $A'D'$ are corresponding angle bisectors, $\angle BAD=\frac{1}{2}\angle BAC$, $\angle B'A'D'=\frac{1}{2}\angle B'A'C'$, so $\angle BAD=\angle B'A'D'$.
+By Coordinate Rule for Homothety, the similarity ratio is $k=\frac{1}{2}$, and the point $\left(x,y\right)$ corresponds to $\left(\frac{x}{2},\frac{y}{2}\right)$ or $\left(-\frac{x}{2},-\frac{y}{2}\right)$.
 
-In $\triangle ABD$ and $\triangle A'B'D'$, $\angle BAD=\angle B'A'D'$, $AB=A'B'$, $\angle B=\angle B'$; by ASA, $\triangle ABD\cong\triangle A'B'D'$.
-
-By Basic Knowledge, the corresponding sides satisfy $AD=A'D'$. $\blacksquare$
+One set: $D\left(1,1\right)$, $E\left(2,1\right)$, $F\left(3,2\right)$. The other set: $D\left(-1,-1\right)$, $E\left(-2,-1\right)$, $F\left(-3,-2\right)$. $\blacksquare$
 
 ## Problem 17
 
-(Exercise 14.2, Extension and Exploration, Problem 17) As shown, $D$ is a point on $AB$, $DF$ meets $AC$ at point $E$, $DE=FE$, $FC\parallel AB$. What is the relationship between $AE$ and $CE$? Prove your conclusion.
+(Problem 27.3, Comprehensive Application, Problem 4) As shown in the figure, squares $EFGH$ and $IJKL$ are both homothetic figures of square $ABCD$, and point $P$ is the center of homothety. (1) Which figure has similarity ratio $3$ to square $ABCD$? (2) Is square $IJKL$ a homothetic figure of square $EFGH$? If so, find the similarity ratio. (3) What is the similarity ratio of square $EFGH$ to square $ABCD$?
 
 ### Solution to Problem 17
 
-$AE=CE$. Proof: from $FC\parallel AB$, we get $\angle ADE=\angle CFE$. In $\triangle ADE$ and $\triangle CFE$, $\angle AED=\angle CEF$ (vertical angles), $DE=FE$, $\angle ADE=\angle CFE$; by ASA, $\triangle ADE\cong\triangle CFE$.
+By Homothetic Figures.
 
-By Basic Knowledge, the corresponding sides satisfy $AE=CE$. $\blacksquare$
+(1) Square $IJKL$ is the largest, with similarity ratio $3$ to $ABCD$.
+
+(2) The connecting lines of corresponding vertices of $IJKL$ and $EFGH$ all pass through the center of homothety $P$, and the corresponding sides are parallel, so $IJKL$ is a homothetic figure of $EFGH$. The similarity ratio of $IJKL$ to $ABCD$ is $3$, and the similarity ratio of $EFGH$ to $ABCD$ is $\frac{3}{2}$, so the similarity ratio of $IJKL$ to $EFGH$ is $\frac{3}{3/2}=2$.
+
+(3) The similarity ratio of square $EFGH$ to square $ABCD$ is $\frac{3}{2}$. $\blacksquare$
 
 ## Problem 18
 
-(Exercise 14.2, Extension and Exploration, Problem 18) As shown, in $\triangle ABC$, $AB=AC$, point $D$ is the midpoint of $BC$, and point $E$ lies on $AD$. Find the congruent triangles in the figure and prove that they are congruent.
+(Problem 27.3, Comprehensive Application, Problem 5) As shown in the figure, the coordinates of the vertices of rectangle $AOBC$ are $A\left(0,3\right)$, $O\left(0,0\right)$, $B\left(4,0\right)$, $C\left(4,3\right)$. Taking the origin $O$ as the center of homothety, reduce this rectangle by a similarity ratio of $\frac{1}{2}$. Write the coordinates of the vertices of the new rectangle.
 
 ### Solution to Problem 18
 
-In the figure, $\triangle ABD\cong\triangle ACD$, $\triangle ABE\cong\triangle ACE$, $\triangle DBE\cong\triangle DCE$.
+By Coordinate Rule for Homothety, the similarity ratio is $k=\frac{1}{2}$.
 
-Since $D$ is the midpoint of $BC$, $BD=CD$. In $\triangle ABD$ and $\triangle ACD$, $AB=AC$, $BD=CD$, $AD$ is common; by SSS, $\triangle ABD\cong\triangle ACD$, giving $\angle BAE=\angle CAE$.
+The coordinates of the vertices of the new rectangle are $A'\left(0,1.5\right)$, $O'\left(0,0\right)$, $B'\left(2,0\right)$, $C'\left(2,1.5\right)$. $\blacksquare$
 
-In $\triangle ABE$ and $\triangle ACE$, $AB=AC$, $\angle BAE=\angle CAE$, $AE$ is common; by SAS, $\triangle ABE\cong\triangle ACE$, giving $BE=CE$.
+## Problem 19
 
-In $\triangle DBE$ and $\triangle DCE$, $BD=CD$, $BE=CE$, $DE$ is common; by SSS, $\triangle DBE\cong\triangle DCE$. $\blacksquare$
+(Problem 27.3, Comprehensive Application, Problem 6) As shown in the figure, compared with the \"A\"-shaped pattern (the dashed pattern), what change has occurred to the pattern in the figure? What is the relationship between the coordinates of corresponding points? (The vertices of the dashed pattern are $\left(2,4\right)$, $\left(4,4\right)$, etc.; the vertices of the solid pattern are $\left(2,8\right)$, etc.)
+
+The figure shows two "A"-shaped patterns in a rectangular coordinate plane: a smaller dashed pattern with vertices $\left(2,4\right)$, $\left(4,4\right)$, etc., and a larger solid pattern with vertices $\left(2,8\right)$, etc.; the two patterns are homothetic with the origin as center and similarity ratio $2$.
+
+### Solution to Problem 19
+
+The solid pattern is the homothetic figure obtained by enlarging the dashed pattern by similarity ratio $2$ with the origin as the center of homothety. The coordinates of corresponding points change from $\left(x,y\right)$ to $\left(2x,2y\right)$. $\blacksquare$
+
+## Problem 20
+
+(Problem 27.3, Extension and Exploration, Problem 7) As shown in the figure, take point $Q$ as the center of homothety and draw a figure with similarity ratio $0.75$ to rectangle $MNPQ$.
+
+The figure shows rectangle $MNPQ$ with point $Q$ as one of its vertices; the task is to take $Q$ as the center of homothety and draw a figure with similarity ratio $0.75$ to rectangle $MNPQ$.
+
+### Solution to Problem 20
+
+By Homothetic Figures, taking $Q$ as the center of homothety, connect $QM,QN,QP$, take corresponding points $M',N',P'$ on each connecting line such that $QM'=0.75\,QM$, $QN'=0.75\,QN$, $QP'=0.75\,QP$, and connect $M',N',P',Q$ in order; the resulting rectangle is the desired one. $\blacksquare$
 
 ## Information Technology Application 1
 
-(Information Technology Application: Exploring the Conditions for Triangle Congruence) On the basis that two sides are respectively equal, two triangles coincide and are congruent only when their included angle is also equal; if only an additional side is equal (SSA), congruence is not guaranteed. Similarly, two right triangles with two angles and their included side respectively equal, or with the hypotenuse and one leg respectively equal, can be determined congruent. This confirms SAS, ASA, SSS, AAS and HL as valid determination methods.
+(Information Technology Application: Exploring the Properties of Homothety) (1) Measure the ratio of corresponding sides of homothetic figures; what is its relationship to the similarity ratio $k$? (2) Taking $O$ as the origin, what is the relationship between the ratio of the x-coordinates (and y-coordinates) of corresponding points and $k$? (3) Measure $OA,OA',OB,OB',OC,OC'$; what do you find?
+
+### Solution to Information Technology Application 1
+
+By Basic Knowledge and Basic Knowledge.
+
+(1) The ratio of corresponding sides equals the similarity ratio $k$.
+
+(2) When $O$ is the origin, both the ratio of the x-coordinates and the ratio of the y-coordinates of corresponding points equal $k$.
+
+(3) $\frac{OA'}{OA}=\frac{OB'}{OB}=\frac{OC'}{OC}=k$, i.e. the ratio of the distances from the center of homothety to the corresponding points equals the similarity ratio. $\blacksquare$
+
+## Activity 1
+
+(Math Activity, Activity 1: Measuring the Height of a Flagpole) Similar triangles can be used to calculate the heights of objects that cannot be measured directly. The figure shows several methods of measuring the height of a flagpole: using shadows, using a sighting pole, and using a mirror. Explain the principle behind each method.
+
+### Solution to Activity 1
+
+By AA, both methods construct similar triangles and use the proportionality of corresponding sides to find the height of the flagpole.
+
+(1) Using shadows: at the same moment the sun's rays are parallel; the flagpole and its shadow, and the bamboo pole and its shadow, form two right triangles respectively, whose two acute angles correspond and are equal, so they are similar, and the object height is proportional to the shadow length.
+
+(2) Using a sighting pole: both the sighting pole and the flagpole are perpendicular to the ground; the eye, the top of the sighting pole, and the top of the flagpole are collinear, forming two similar right triangles whose corresponding sides are proportional.
+
+(3) Using a mirror: by the law of reflection the angle of incidence equals the angle of reflection; the eye, the image of the flagpole's top in the mirror, and the flagpole's top form two similar right triangles whose corresponding sides are proportional. $\blacksquare$
+
+## Activity 2
+
+(Math Activity, Activity 2: Homothety and Artistic Lettering) Observe the artistic lettering; the second style has more three-dimensionality than the first. Measure each segment at the top of each artistic letter in the two figures; what relationship do you find among the ratios of the corresponding segments? In the method of producing the second style from the first, where are the homothetic figures and the center of homothety?
+
+### Solution to Activity 2
+
+By Homothetic Figures, relative to the first flat artistic lettering, each vertex of the second three-dimensional lettering is offset in the same direction, and the corresponding segments are parallel to each other with equal ratios; i.e. the two styles of lettering form homothetic figures.
+
+The center of homothety lies on the ray corresponding to each stroke, and the ratio of corresponding segments equals the similarity ratio. Following this homothety relationship produces the three-dimensional lettering. $\blacksquare$
+
+## Review Problem 1
+
+(Review Problem 27, Review and Consolidation, Problem 1) As shown in the figure, quadrilateral $EFGH$ is similar to quadrilateral $KLMN$. Find the angles $\angle E$, $\angle G$, $\angle N$ and the values of $x,y,z$. (In $EFGH$, $\angle E=143^\circ$, $EF=4$, $FG=6$, $GH=10$, $EH=x$; in $KLMN$, $\angle L=67^\circ$, $\angle M=107^\circ$, $KL=10$, $LM=y$, $MN=z$, $KN=35$.)
+
+### Solution to Review Problem 1
+
+By Similar Polygons, $EFGH\backsim KLMN$, the corresponding angles are equal, and the corresponding sides are proportional.
+
+The similarity ratio is $\frac{EF}{KL}=\frac{4}{10}=\frac{2}{5}$.
+
+$\angle E=\angle K=143^\circ$, $\angle G=\angle M=107^\circ$. The sum of interior angles of a quadrilateral is $360^\circ$, so $\angle H=\angle N=360^\circ-143^\circ-67^\circ-107^\circ=43^\circ$.
+
+$$
+\frac{FG}{LM}=\frac{2}{5}\Rightarrow\frac{6}{y}=\frac{2}{5}\Rightarrow y=15.
+$$
+
+$$
+\frac{GH}{MN}=\frac{2}{5}\Rightarrow\frac{10}{z}=\frac{2}{5}\Rightarrow z=25.
+$$
+
+$$
+\frac{EH}{KN}=\frac{2}{5}\Rightarrow\frac{x}{35}=\frac{2}{5}\Rightarrow x=14.
+$$
+
+Thus $\angle E=143^\circ$, $\angle G=107^\circ$, $\angle N=43^\circ$, $x=14$, $y=15$, $z=25$. $\blacksquare$
+
+## Review Problem 2
+
+(Review Problem 27, Review and Consolidation, Problem 2) The side lengths of $\triangle ABC$ are $5$, $12$, and $13$. The shortest side of the similar triangle $\triangle DEF$ is $15$. Find the other two side lengths and the perimeter of $\triangle DEF$.
+
+### Solution to Review Problem 2
+
+The similarity ratio is $\frac{15}{5}=3$.
+
+The other two side lengths are $12\times3=36$ and $13\times3=39$.
+
+The perimeter is $15+36+39=90$. $\blacksquare$
+
+## Review Problem 3
+
+(Review Problem 27, Review and Consolidation, Problem 3) Based on the conditions marked in the figure, determine whether the two triangles in the figure are similar, and find the values of $x$ and $y$. (First group: $\angle 1=\angle 2$, two pairs of corresponding angles equal; second group: two sides proportional and the included angle equal.)
+
+### Solution to Review Problem 3
+
+By **Criterion Theorem 27.2.4** (AA) and **Criterion Theorem 27.2.3** (SAS), the two triangles in each group are similar. The corresponding sides are proportional, from which $x,y$ can be found. $\blacksquare$

@@ -1,175 +1,421 @@
 # week40
 
-## Review Exercise 1
+## Exercise 1
 
-(Review Exercise, Review and Consolidation, Problem 1) Find the square roots and arithmetic square roots of the following numbers:
+(Exercise 18.2, Problem 1) Calculate:
 
-(1) $0.36$;　(2) $\frac{25}{16}$;　(3) $\left(-\frac{7}{8}\right)^2$;　(4) $10^4$.
+(1) $\frac{3a}{4b}\cdot\frac{2b}{a^2}$;
 
-### Solution to Review Exercise 1
+(2) $\frac{6 x^2 y}{4 x y^2}\cdot\frac{2 x}{3 y}$;
 
-By Square Root and Arithmetic Square Root.
+(3) $\frac{n^2}{2 m}\cdot\frac{4 m}{5 n^3}$;
 
-(1) $\because\left(\pm 0.6\right)^2=0.36$, $\therefore$ the square roots are $\pm 0.6$, and the arithmetic square root is $0.6$.
+(4) $\frac{a+b}{2 ab}\cdot\frac{4 a^2 b}{\left(a+b\right)^2}$.
 
-(2) $\because\left(\pm\frac{5}{4}\right)^2=\frac{25}{16}$, $\therefore$ the square roots are $\pm\frac{5}{4}$, and the arithmetic square root is $\frac{5}{4}$.
+### Solution to Exercise 1
 
-(3) $\left(-\frac{7}{8}\right)^2=\frac{49}{64}$, $\because\left(\pm\frac{7}{8}\right)^2=\frac{49}{64}$, $\therefore$ the square roots are $\pm\frac{7}{8}$, and the arithmetic square root is $\frac{7}{8}$.
+By Basic Knowledge.
 
-(4) $10^4=10000$, $\because\left(\pm 100\right)^2=10000$, $\therefore$ the square roots are $\pm 100$, and the arithmetic square root is $100$. $\blacksquare$
+(1) $\frac{3a}{4b}\cdot\frac{2b}{a^2}=\frac{6ab}{4a^2 b}=\frac{3}{2a}$.
 
-## Review Exercise 2
+(2) $\frac{6x^2 y}{4xy^2}\cdot\frac{2x}{3y}=\frac{12x^3 y}{12x y^3}=\frac{x^2}{y^2}$.
 
-(Review Exercise, Review and Consolidation, Problem 2) Find the cube roots of the following numbers:
+(3) $\frac{n^2}{2m}\cdot\frac{4m}{5n^3}=\frac{4m n^2}{10m n^3}=\frac{2}{5n}$.
 
-(1) $\frac{27}{8}$;　(2) $-\frac{1}{64}$;　(3) $-0.729$;　(4) $36$.
+(4) $\frac{a+b}{2ab}\cdot\frac{4a^2 b}{\left(a+b\right)^2}=\frac{4a^2 b\left(a+b\right)}{2ab\left(a+b\right)^2}=\frac{2a}{a+b}$. $\blacksquare$
 
-### Solution to Review Exercise 2
+## Exercise 2
 
-By Cube Root.
+(Exercise 18.2, Problem 2) Calculate:
 
-(1) $\because\left(\frac{3}{2}\right)^3=\frac{27}{8}$, $\therefore\sqrt\left[3\right]{\frac{27}{8}}=\frac{3}{2}$.
+(1) $\frac{4 x}{3 y}\cdot\frac{y}{2 x^3}$;
 
-(2) $\because\left(-\frac{1}{4}\right)^3=-\frac{1}{64}$, $\therefore\sqrt\left[3\right]{-\frac{1}{64}}=-\frac{1}{4}$.
+(2) $\frac{a^2 b}{2 c^2}\cdot\frac{-4 c}{5 a b}$.
 
-(3) $\because\left(-0.9\right)^3=-0.729$, $\therefore\sqrt\left[3\right]{-0.729}=-0.9$.
+### Solution to Exercise 2
 
-(4) The cube root of $36$ is $\sqrt\left[3\right]{36}$ (cannot be extracted exactly), $\approx 3.30$. $\blacksquare$
+By Basic Knowledge.
 
-## Review Exercise 3
+(1) $\frac{4x}{3y}\cdot\frac{y}{2x^3}=\frac{4xy}{6x^3 y}=\frac{2}{3x^2}$.
 
-(Review Exercise, Review and Consolidation, Problem 3) Find the value of each of the following:
+(2) $\frac{a^2 b}{2c^2}\cdot\frac{-4c}{5ab}=-\frac{4a^2 bc}{10abc^2}=-\frac{2a}{5c}$. $\blacksquare$
 
-(1) $-\sqrt{1-\frac{16}{25}}$;　(2) $\sqrt\left[3\right]{10^3}$;　(3) $\pm\sqrt{0.09}$;　(4) $\sqrt{\left(3-\pi\right)^2}$.
+## Exercise 3
 
-### Solution to Review Exercise 3
+(Exercise 18.2, Problem 1) Calculate:
 
-By Arithmetic Square Root, Properties of Arithmetic Square Roots, and Cube Root.
+(1) $\frac{2}{x}\div\frac{4}{x}$;
 
-(1) $1-\frac{16}{25}=\frac{9}{25}$, $\sqrt{\frac{9}{25}}=\frac{3}{5}$, so $-\sqrt{1-\frac{16}{25}}=-\frac{3}{5}$.
+(2) $\frac{5}{x y}\div\left(-\frac{15}{x}\right)$;
 
-(2) $\sqrt\left[3\right]{10^3}=10$.
+(3) $\frac{4}{3 x y}\div\frac{2}{3 x y^2}$;
 
-(3) $\because 0.3^2=0.09$, $\therefore\pm\sqrt{0.09}=\pm 0.3$.
+(4) $\frac{a^2-4}{a^2+4 a+4}\div\left(a+2\right)$.
 
-(4) $\because\pi> 3$, $\therefore 3-\pi< 0$. By Properties of Arithmetic Square Roots, $\sqrt{\left(3-\pi\right)^2}=\left|3-\pi\right|=\pi-3$. $\blacksquare$
+### Solution to Exercise 3
 
-## Review Exercise 4
+By Basic Knowledge.
 
-(Review Exercise, Review and Consolidation, Problem 4) Use a calculator to find the value of each of the following:
+(1) $\frac{2}{x}\div\frac{4}{x}=\frac{2}{x}\cdot\frac{x}{4}=\frac12$.
 
-(1) $\sqrt{180625}$;　(2) $-\sqrt{9.77}$ (keep three decimal places);　(3) $\sqrt\left[3\right]{39304}$;　(4) $\sqrt\left[3\right]{0.43}$ (keep three decimal places).
+(2) $\frac{5}{xy}\div\left(-\frac{15}{x}\right)=\frac{5}{xy}\cdot\left(-\frac{x}{15}\right)=-\frac{1}{3y}$.
 
-### Solution to Review Exercise 4
+(3) $\frac{4}{3xy}\div\frac{2}{3xy^2}=\frac{4}{3xy}\cdot\frac{3xy^2}{2}=2y$.
 
-Use a calculator.
+(4) $\frac{a^2-4}{a^2+4a+4}\div\left(a+2\right)=\frac{\left(a+2\right)\left(a-2\right)}{\left(a+2\right)^2}\cdot\frac{1}{a+2}=\frac{a-2}{\left(a+2\right)^2}$. $\blacksquare$
 
-(1) $\because 425^2=180625$, $\therefore\sqrt{180625}=425$.
+## Exercise 4
 
-(2) $\sqrt{9.77}\approx 3.126$, so $-\sqrt{9.77}\approx-3.126$.
+(Exercise 18.2, Problem 2) Calculate:
 
-(3) $\because 34^3=39304$, $\therefore\sqrt\left[3\right]{39304}=34$.
+(1) $\frac{3 x}{4 y}\cdot\frac{16 y}{9 x^2}$;
 
-(4) $\sqrt\left[3\right]{0.43}\approx 0.755$. $\blacksquare$
+(2) $\left(xy-x^2\right)\div\frac{x-y}{xy}$.
 
-## Review Exercise 5
+### Solution to Exercise 4
 
-(Review Exercise, Review and Consolidation, Problem 5) Compute:
+(1) $\frac{3x}{4y}\cdot\frac{16y}{9x^2}=\frac{48xy}{36x^2 y}=\frac{4}{3x}$.
 
-(1) $\sqrt 2\left(\sqrt 2+2\right)$;　(2) $\sqrt 3\left(\sqrt 3+\frac{1}{\sqrt 3}\right)$.
+(2) $\left(xy-x^2\right)\div\frac{x-y}{xy}=x\left(y-x\right)\cdot\frac{xy}{x-y}=-x\left(x-y\right)\cdot\frac{xy}{x-y}=-x^2 y$. $\blacksquare$
 
-### Solution to Review Exercise 5
+## Exercise 5
 
-Expand by the distributive law.
+(Exercise 18.2, Problem 1) Are the following expressions correct? Why?
 
-(1) $\sqrt 2\left(\sqrt 2+2\right)=\left(\sqrt 2\right)^2+2\sqrt 2=2+2\sqrt 2$.
+(1) $\left(\frac{b^2}{a}\right)^3=\frac{b^6}{a^3}$;
 
-(2) $\sqrt 3\left(\sqrt 3+\frac{1}{\sqrt 3}\right)=\left(\sqrt 3\right)^2+\sqrt 3\cdot\frac{1}{\sqrt 3}=3+1=4$. $\blacksquare$
+(2) $\left(-\frac{b^2}{a}\right)^3=-\frac{b^6}{a^3}$;
 
-## Review Exercise 6
+(3) $\left(\frac{2 a}{a+b}\right)^2=\frac{4 a^2}{a^2+b^2}$.
 
-(Review Exercise, Review and Consolidation, Problem 6) Between which two consecutive integers does each of the following numbers lie? Which integer is it closer to?
+### Solution to Exercise 5
 
-(1) $\sqrt{91}$;　(2) $\sqrt\left[3\right]{91}$.
+By Basic Knowledge.
 
-### Solution to Review Exercise 6
+(1) Correct; $\left(\frac{b^2}{a}\right)^3=\frac{\left(b^2\right)^3}{a^3}=\frac{b^6}{a^3}$.
 
-(1) $\because 9^2=81< 91< 100=10^2$, $\therefore 9< \sqrt{91}< 10$. Also $91-81=10$, $100-91=9$, so $91$ is closer to $100$; thus $\sqrt{91}$ lies between $9$ and $10$, closer to $10$.
+(2) Correct; $\left(-\frac{b^2}{a}\right)^3=-\frac{b^6}{a^3}$.
 
-(2) $\because 4^3=64< 91< 125=5^3$, $\therefore 4< \sqrt\left[3\right]{91}< 5$. Also $91-64=27$, $125-91=34$, so $91$ is closer to $64$; thus $\sqrt\left[3\right]{91}$ lies between $4$ and $5$, closer to $4$. $\blacksquare$
+(3) Incorrect; $\left(\frac{2a}{a+b}\right)^2=\frac{4a^2}{\left(a+b\right)^2}$, the denominator should also be squared. $\blacksquare$
 
-## Review Exercise 7
+## Exercise 6
 
-(Review Exercise, Comprehensive Application, Problem 7) Given $\left|x\right|< \pi$ ($x$ is an integer), find the values of $x$ and represent them on the number line.
+(Exercise 18.2, Problem 2) Calculate:
 
-### Solution to Review Exercise 7
+(1) $\left(\frac{2 x}{-y}\right)^2$;
 
-$\pi\approx 3.14$, and $\left|x\right|< \pi$ means $-\pi< x< \pi$, i.e. $-3.14< x< 3.14$. The integers in this range are $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
+(2) $\left(\frac{a^2 b}{-c}\right)^3\div\left(\frac{a b}{c^2}\right)^2$.
 
-Thus $x=-3$, $-2$, $-1$, $0$, $1$, $2$, $3$. Mark these points correspondingly on the number line. $\blacksquare$
+### Solution to Exercise 6
 
-## Review Exercise 8
+By Basic Knowledge.
 
-(Review Exercise, Comprehensive Application, Problem 8) A circle and a square both have area $2\pi\,\text{cm}^2$. Which one has the larger perimeter? What insight can you draw from this?
+(1) $\left(\frac{2x}{-y}\right)^2=\frac{4x^2}{y^2}$.
 
-The figure shows a circle and a square drawn side by side, both with area $2\pi\,\text{cm}^2$.
+(2) $\frac{a^6 b^3}{-c^3}\div\frac{a^2 b^2}{c^4}=-\frac{a^6 b^3}{c^3}\cdot\frac{c^4}{a^2 b^2}=-a^4 b c$. $\blacksquare$
 
-### Solution to Review Exercise 8
+## Problem 1
 
-By Square Root, find the side length and radius.
+(Exercise 18.2, Review and Consolidation, Problem 1) Calculate:
 
-Square: area $2\pi$, side length $a=\sqrt{2\pi}$, perimeter $C_正=4a=4\sqrt{2\pi}$.
+(1) $\frac{3}{a}\cdot\frac{a^2}{9}$;
 
-Circle: area $\pi r^2=2\pi$, so $r^2=2$, $r=\sqrt 2$, perimeter $C_圆=2\pi r=2\pi\sqrt 2$.
+(2) $\frac{3 y}{6 x^2}\div\frac{y^2}{10 x}$;
 
-Compare: $C_正=4\sqrt{2\pi}\approx 4\times 2.507=10.03$, $C_圆=2\pi\sqrt 2\approx 8.89$. Thus $C_正> C_圆$, and the square has the larger perimeter.
+(3) $\frac{3}{4 x y^3}\cdot\frac{2 x^2 y}{27}$;
 
-Insight: when the areas are equal, the circle has a smaller perimeter than the square, i.e. the circle is the figure with the smallest perimeter for a given area. $\blacksquare$
+(4) $\frac{6 a b^2}{c^2 d}\div\frac{3 a b}{2 c d^2}$.
 
-## Review Exercise 9
+### Solution to Problem 1
 
-(Review Exercise, Comprehensive Application, Problem 9) On a clear day, the farthest distance $s$ (unit: $km$) a person standing by the sea can see over the ocean can be estimated by $s^2=16.74h$, where $h$ (unit: $m$) is the distance from the eye to sea level. Wang Fang stands by the sea observing, with her eye $1.5\,m$ above sea level; what is the farthest distance she can see in kilometers? If she stands on a rock by the sea, with her eye $8.7\,m$ above sea level, what is the farthest distance she can see in kilometers? (Keep two decimal places.)
+(1) $\frac{3}{a}\cdot\frac{a^2}{9}=\frac{a}{3}$.
 
-### Solution to Review Exercise 9
+(2) $\frac{3y}{6x^2}\div\frac{y^2}{10x}=\frac{3y}{6x^2}\cdot\frac{10x}{y^2}=\frac{5}{xy}$.
 
-From $s^2=16.74h$, $s=\sqrt{16.74h}$ (take the positive value).
+(3) $\frac{3}{4xy^3}\cdot\frac{2x^2 y}{27}=\frac{6x^2 y}{108xy^3}=\frac{x}{18y^2}$.
 
-When $h=1.5$, $s=\sqrt{16.74\times 1.5}=\sqrt{25.11}\approx 5.01\,km$.
+(4) $\frac{6ab^2}{c^2 d}\div\frac{3ab}{2cd^2}=\frac{6ab^2}{c^2 d}\cdot\frac{2cd^2}{3ab}=\frac{4bd}{c}$. $\blacksquare$
 
-When $h=8.7$, $s=\sqrt{16.74\times 8.7}=\sqrt{145.64}\approx 12.07\,km$.
+## Problem 2
 
-Thus by the sea she can see about $5.01\,km$, and standing on the rock about $12.07\,km$. $\blacksquare$
+(Exercise 18.2, Review and Consolidation, Problem 2) Calculate:
 
-## Review Exercise 10
+(1) $\frac{2 a}{a+1}+\frac{a^2}{a+1}$;
 
-(Review Exercise, Extension and Exploration, Problem 10) A cube iron block is completely immersed in the water of a cylindrical glass, and the water level rises by $58\,mm$. If the inner base radius of the glass is $95\,mm$, what is the edge length of the cube in millimeters? (Take $\pi$ as $3.14$, take integers.)
+(2) $\frac{m^2-16}{12-3 m}\div\frac{m+4}{m^2-4 m}$;
 
-### Solution to Review Exercise 10
+(3) $\frac{x^2+x}{x-1}\div\frac{x}{x-1}$;
 
-The cylindrical volume of the raised water level equals the volume of the cube. The volume of the raised part is
+(4) $\frac{2 x}{x-1}\div\frac{x}{x-1}$.
 
-$$
-V=\pi r^2 h=3.14\times 95^2\times 58.
-$$
+### Solution to Problem 2
 
-Compute: $95^2=9025$, $V=3.14\times 9025\times 58=1645553\,\text{mm}^3$.
+(1) Note that this is addition; $\frac{2a}{a+1}+\frac{a^2}{a+1}=\frac{a^2+2a}{a+1}=\frac{a\left(a+2\right)}{a+1}$.
 
-Let the edge length of the cube be $x$; $x^3=1645553$, $x=\sqrt\left[3\right]{1645553}\approx 118$.
+(2) $\frac{m^2-16}{12-3m}\div\frac{m+4}{m^2-4m}=\frac{\left(m+4\right)\left(m-4\right)}{3\left(4-m\right)}\cdot\frac{m\left(m-4\right)}{m+4}=\frac{\left(m-4\right)}{3\left(-\left(m-4\right)\right)}\cdot m\left(m-4\right)=-\frac{m\left(m-4\right)}{3}$.
 
-That is, the edge length of the cube is about $118\,mm$. $\blacksquare$
+(3) $\frac{x^2+x}{x-1}\div\frac{x}{x-1}=\frac{x\left(x+1\right)}{x-1}\cdot\frac{x-1}{x}=x+1$.
 
-## Review Exercise 11
+(4) $\frac{2x}{x-1}\div\frac{x}{x-1}=\frac{2x}{x-1}\cdot\frac{x-1}{x}=2$. $\blacksquare$
 
-(Review Exercise, Extension and Exploration, Problem 11)
+## Problem 3
 
-(1) How can the figure composed of $5$ small squares of side length $1$ (as shown) be cut and reassembled into a large square?
+(Exercise 18.2, Review and Consolidation, Problem 3) Calculate:
 
-(2) On the number line, draw the point corresponding to the side length of this large square.
+(1) $\left(\frac{-2 a^2 b}{3 c}\right)^3$;
 
-The figure shows a shape composed of $5$ small squares of side length $1$.
+(2) $\left(\frac{2 x}{-y}\right)^2$;
 
-### Solution to Review Exercise 11
+(3) $\left(\frac{a^2 b}{-c}\right)^3\div\left(\frac{a b^2}{c^2}\right)^2$;
 
-(1) The total area of the $5$ small squares of side length $1$ is $5$. The assembled large square also has area $5$, and by Square Root, the side length of the large square is $\sqrt 5$. Cut along the diagonals of the small-square grid and reassemble the cut right triangles to form a large square of side length $\sqrt 5$.
+(4) $\left(\frac{x^2}{y}\right)^2\cdot\left(-\frac{y^2}{x}\right)^3$.
 
-(2) The side length of the large square is $\sqrt 5$. On the number line, draw an arc centered at the origin with radius $\sqrt 5$; its intersection with the positive axis represents $\sqrt 5$, and its intersection with the negative axis represents $-\sqrt 5$. $\blacksquare$
+### Solution to Problem 3
+
+By Basic Knowledge.
+
+(1) $\left(\frac{-2a^2 b}{3c}\right)^3=-\frac{8a^6 b^3}{27c^3}$.
+
+(2) $\left(\frac{2x}{-y}\right)^2=\frac{4x^2}{y^2}$.
+
+(3) $\frac{-a^6 b^3}{c^3}\div\frac{a^2 b^4}{c^4}=-\frac{a^6 b^3}{c^3}\cdot\frac{c^4}{a^2 b^4}=-\frac{a^4 c}{b}$.
+
+(4) $\frac{x^4}{y^2}\cdot\left(-\frac{y^6}{x^3}\right)=-x y^4$. $\blacksquare$
+
+## Problem 4
+
+(Exercise 18.2, Comprehensive Application, Problem 4) Calculate:
+
+(1) $\left(\frac{a^2 b}{-c}\right)^2\cdot\left(\frac{c^2}{-ab}\right)^3\div\left(\frac{bc}{a}\right)^4$;
+
+(2) $\frac{a-b}{a^2+a b}\div\frac{a^2-a b}{a^2-b^2}$.
+
+### Solution to Problem 4
+
+(1) $\frac{a^4 b^2}{c^2}\cdot\left(-\frac{c^6}{a^3 b^3}\right)\div\frac{b^4 c^4}{a^4}=-\frac{a^4 b^2 c^6}{a^3 b^3 c^2}\cdot\frac{a^4}{b^4 c^4}=-\frac{a^5}{b^5}$.
+
+(2) $\frac{a-b}{a\left(a+b\right)}\div\frac{a\left(a-b\right)}{\left(a+b\right)\left(a-b\right)}=\frac{a-b}{a\left(a+b\right)}\cdot\frac{\left(a+b\right)\left(a-b\right)}{a\left(a-b\right)}=\frac{a-b}{a^2}$. $\blacksquare$
+
+## Problem 5
+
+(Exercise 18.2, Comprehensive Application, Problem 5) Calculate:
+
+(1) $\frac{m}{3 n}\div\frac{n}{9 m}\cdot\frac{3 m}{n^2}$;
+
+(2) $\left(\frac{2 x}{x+y}-\frac{x}{x-y}\right)\cdot\frac{x^2-y^2}{x}$.
+
+### Solution to Problem 5
+
+(1) $\frac{m}{3n}\cdot\frac{9m}{n}\cdot\frac{3m}{n^2}=\frac{27m^3}{3n^4}=\frac{9m^3}{n^4}$.
+
+(2) $\left(\frac{2x}{x+y}-\frac{x}{x-y}\right)\cdot\frac{\left(x+y\right)\left(x-y\right)}{x}=\frac{2x\left(x-y\right)-x\left(x+y\right)}{\left(x+y\right)\left(x-y\right)}\cdot\frac{\left(x+y\right)\left(x-y\right)}{x}=2\left(x-y\right)-\left(x+y\right)=x-3y$. $\blacksquare$
+
+## Problem 6
+
+(Exercise 18.2, Comprehensive Application, Problem 6) As shown in the figure, there are two rectangular flower beds, A and B. Flower bed A has length $a$ and width $b$; flower bed B has length $\left(a+b\right)$ and width $\left(a-b\right)$ ($a> b$). Which flower bed has the larger area? By how much?
+
+The figure shows two rectangular flower beds placed side by side: on the left, flower bed A with length $a$ and width $b$; on the right, flower bed B with length $\left(a+b\right)$ and width $\left(a-b\right)$ ($a> b$).
+
+### Solution to Problem 6
+
+The area of flower bed A is $S_1=ab$, and the area of flower bed B is $S_2=\left(a+b\right)\left(a-b\right)=a^2-b^2$.
+
+Compare $S_2-S_1=a^2-b^2-ab$. Since $a> b> 0$, for example when $a=2,b=1$, we have $S_2=3$, $S_1=2$, so $S_2> S_1$. In general, the question asks "which is larger and by how much":
+
+$$S_2-S_1=a^2-b^2-ab.$$
+
+When $a^2-ab-b^2> 0$, i.e. $a> \frac{1+\sqrt5}{2}b$, flower bed B is larger. Under the textbook setup, the area of flower bed B is $a^2-b^2$ and that of A is $ab$, so B is larger than A by $\left(a^2-b^2-ab\right)$. $\blacksquare$
+
+## Problem 7
+
+(Exercise 18.2, Comprehensive Application, Problem 7) A car makes a round trip between two places A and B $a\ \text{km}$ apart; the speed going is $v_1\ \text{km/h}$ and the speed returning is $v_2\ \text{km/h}$. Find the average speed for the round trip.
+
+### Solution to Problem 7
+
+The time going is $\frac{a}{v_1}$, and the time returning is $\frac{a}{v_2}$. The total distance is $2a$, and the total time is $\frac{a}{v_1}+\frac{a}{v_2}$.
+
+Average speed
+
+$$\overline v=\frac{2a}{\frac{a}{v_1}+\frac{a}{v_2}}=\frac{2a}{a\frac{v_1+v_2}{v_1 v_2}}=\frac{2v_1 v_2}{v_1+v_2}\ \left(\text{km/h}\right).$$
+
+$\blacksquare$
+
+## Problem 8
+
+(Exercise 18.2, Extension and Exploration, Problem 8) Calculate: $\frac{x^2-4 y^2}{x^2+2 x y+y^2}\div\frac{x+2 y}{x^2+xy}\cdot\frac{x}{x-2 y}$.
+
+### Solution to Problem 8
+
+$$\frac{\left(x+2y\right)\left(x-2y\right)}{\left(x+y\right)^2}\div\frac{x+2y}{x\left(x+y\right)}\cdot\frac{x}{x-2y}=\frac{\left(x+2y\right)\left(x-2y\right)}{\left(x+y\right)^2}\cdot\frac{x\left(x+y\right)}{x+2y}\cdot\frac{x}{x-2y}=\frac{x^2}{x+y}.$$
+
+$\blacksquare$
+
+## Exercise 7
+
+(Exercise 18.3, Problem 1) Calculate:
+
+(1) $\frac{3}{a}+\frac{1}{a}$;
+
+(2) $\frac{m}{m-n}-\frac{n}{m-n}$;
+
+(3) $\frac{x^2}{x+y}+\frac{y^2+2xy}{x+y}$;
+
+(4) $\frac{a^2}{a-1}-a-1$.
+
+### Solution to Exercise 7
+
+By Addition and Subtraction of Fractions with the Same Denominator.
+
+(1) $\frac{3}{a}+\frac{1}{a}=\frac{4}{a}$.
+
+(2) $\frac{m}{m-n}-\frac{n}{m-n}=\frac{m-n}{m-n}=1$.
+
+(3) $\frac{x^2}{x+y}+\frac{y^2+2xy}{x+y}=\frac{x^2+2xy+y^2}{x+y}=\frac{\left(x+y\right)^2}{x+y}=x+y$.
+
+(4) $\frac{a^2}{a-1}-a-1=\frac{a^2-\left(a+1\right)\left(a-1\right)}{a-1}=\frac{a^2-\left(a^2-1\right)}{a-1}=\frac{1}{a-1}$. $\blacksquare$
+
+## Exercise 8
+
+(Exercise 18.3, Problem 1) Calculate:
+
+(1) $\frac{1}{2 c^2 d}+\frac{1}{3 c d^2}$;
+
+(2) $\frac{1}{p-q}+\frac{1}{p+q}$;
+
+(3) $\frac{a}{a^2-4}-\frac{1}{a+2}$;
+
+(4) $\frac{a}{a-b}+\frac{b^2}{ab-a^2}$.
+
+### Solution to Exercise 8
+
+By Addition and Subtraction of Fractions with Different Denominators.
+
+(1) Common denominator $6c^2 d^2$: $\frac{1}{2c^2 d}+\frac{1}{3cd^2}=\frac{3d+2c}{6c^2 d^2}$.
+
+(2) Common denominator $\left(p-q\right)\left(p+q\right)$: $\frac{\left(p+q\right)+\left(p-q\right)}{\left(p-q\right)\left(p+q\right)}=\frac{2p}{p^2-q^2}$.
+
+(3) Common denominator $\left(a+2\right)\left(a-2\right)$: $\frac{a}{\left(a+2\right)\left(a-2\right)}-\frac{a-2}{\left(a+2\right)\left(a-2\right)}=\frac{a-\left(a-2\right)}{\left(a+2\right)\left(a-2\right)}=\frac{2}{a^2-4}$.
+
+(4) $\frac{a}{a-b}+\frac{b^2}{a\left(b-a\right)}=\frac{a}{a-b}-\frac{b^2}{a\left(a-b\right)}=\frac{a^2-b^2}{a\left(a-b\right)}=\frac{a+b}{a}$. $\blacksquare$
+
+## Exercise 9
+
+(Exercise 18.3, Problem 2) Calculate:
+
+(1) $1+\frac{1}{a}$;
+
+(2) $1-\frac{1}{a+1}$.
+
+### Solution to Exercise 9
+
+(1) $1+\frac{1}{a}=\frac{a+1}{a}$.
+
+(2) $1-\frac{1}{a+1}=\frac{\left(a+1\right)-1}{a+1}=\frac{a}{a+1}$. $\blacksquare$
+
+## Problem 9
+
+(Exercise 18.3, Review and Consolidation, Problem 1) Calculate:
+
+(1) $\frac{3}{a}+\frac{a-15}{5 a}$;
+
+(2) $\frac{2 y}{3 x^2 y^2}+\frac{5 x}{3 x^2 y^2}$;
+
+(3) $\frac{a+1}{a-1}-\frac{a}{a-1}$;
+
+(4) $\frac{x^2}{x-2}-\frac{4 x}{x-2}+\frac{4}{x-2}$.
+
+### Solution to Problem 9
+
+By Basic Knowledge.
+
+(1) $\frac{15}{5a}+\frac{a-15}{5a}=\frac{a}{5a}=\frac15$.
+
+(2) $\frac{2y+5x}{3x^2 y^2}$.
+
+(3) $\frac{a+1-a}{a-1}=\frac{1}{a-1}$.
+
+(4) $\frac{x^2-4x+4}{x-2}=\frac{\left(x-2\right)^2}{x-2}=x-2$. $\blacksquare$
+
+## Problem 10
+
+(Exercise 18.3, Review and Consolidation, Problem 2) Calculate:
+
+(1) $\frac{1}{x}-\frac{1}{x+1}$;
+
+(2) $\frac{1}{a+2}-\frac{1}{a-2}$;
+
+(3) $\frac{1}{x+y}+\frac{1}{x-y}$;
+
+(4) $\frac{x}{x+1}-\frac{2}{x^2-1}$.
+
+### Solution to Problem 10
+
+By Basic Knowledge.
+
+(1) $\frac{\left(x+1\right)-x}{x\left(x+1\right)}=\frac{1}{x\left(x+1\right)}$.
+
+(2) $\frac{\left(a-2\right)-\left(a+2\right)}{\left(a+2\right)\left(a-2\right)}=\frac{-4}{a^2-4}=-\frac{4}{a^2-4}$.
+
+(3) $\frac{\left(x-y\right)+\left(x+y\right)}{\left(x+y\right)\left(x-y\right)}=\frac{2x}{x^2-y^2}$.
+
+(4) $\frac{x}{x+1}-\frac{2}{\left(x+1\right)\left(x-1\right)}=\frac{x\left(x-1\right)-2}{\left(x+1\right)\left(x-1\right)}=\frac{x^2-x-2}{\left(x+1\right)\left(x-1\right)}=\frac{\left(x-2\right)\left(x+1\right)}{\left(x+1\right)\left(x-1\right)}=\frac{x-2}{x-1}$. $\blacksquare$
+
+## Problem 11
+
+(Exercise 18.3, Review and Consolidation, Problem 3) Calculate:
+
+(1) $\frac{2 a}{a^2-4}-\frac{1}{a-2}$;
+
+(2) $\frac{y}{x+y}+\frac{xy}{y^2-x^2}$;
+
+(3) $\frac{1}{x+1}-1+\frac{1}{1-x}$;
+
+(4) $\frac{2 y}{x-y}-\frac{2 x}{y-x}$.
+
+### Solution to Problem 11
+
+(1) $\frac{2a}{\left(a+2\right)\left(a-2\right)}-\frac{a+2}{\left(a+2\right)\left(a-2\right)}=\frac{a-2}{\left(a+2\right)\left(a-2\right)}=\frac{1}{a+2}$.
+
+(2) $\frac{y}{x+y}+\frac{xy}{\left(y-x\right)\left(y+x\right)}=\frac{y\left(y-x\right)+xy}{\left(x+y\right)\left(y-x\right)}=\frac{y^2}{\left(x+y\right)\left(y-x\right)}=\frac{y^2}{y^2-x^2}$.
+
+(3) $\frac{1}{x+1}-1-\frac{1}{x-1}=\frac{\left(x-1\right)-\left(x+1\right)\left(x-1\right)-\left(x+1\right)}{\left(x+1\right)\left(x-1\right)}=\frac{x-1-x^2+1-x-1}{x^2-1}=\frac{-x^2-x-1}{x^2-1}$.
+
+(4) $\frac{2y}{x-y}+\frac{2x}{x-y}=\frac{2x+2y}{x-y}$. $\blacksquare$
+
+## Problem 12
+
+(Exercise 18.3, Comprehensive Application, Problem 4) Calculate:
+
+(1) $\left(\frac{a}{a-2}-\frac{a}{a+2}\right)\div\frac{a}{a-2}$;
+
+(2) $\left(\frac{3 a}{a-3}-\frac{a}{a+3}\right)\cdot\frac{a^2-9}{a}$.
+
+### Solution to Problem 12
+
+(1) $\frac{a\left(a+2\right)-a\left(a-2\right)}{\left(a-2\right)\left(a+2\right)}\cdot\frac{a-2}{a}=\frac{4a}{\left(a-2\right)\left(a+2\right)}\cdot\frac{a-2}{a}=\frac{4}{a+2}$.
+
+(2) $\frac{3a\left(a+3\right)-a\left(a-3\right)}{\left(a-3\right)\left(a+3\right)}\cdot\frac{\left(a-3\right)\left(a+3\right)}{a}=\frac{3a^2+9a-a^2+3a}{a}=\frac{2a^2+12a}{a}=2a+12$. $\blacksquare$
+
+## Problem 13
+
+(Exercise 18.3, Comprehensive Application, Problem 5) First simplify, then evaluate:
+
+(1) $\left(\frac{x^2-y^2}{xy}\right)^2\div\left(x+y\right)^2\cdot\left(\frac{x}{x-y}\right)^3$, where $x=2$, $y=1$.
+
+### Solution to Problem 13
+
+$$\frac{\left(x^2-y^2\right)^2}{x^2 y^2}\cdot\frac{1}{\left(x+y\right)^2}\cdot\frac{x^3}{\left(x-y\right)^3}=\frac{\left(x+y\right)^2\left(x-y\right)^2}{x^2 y^2}\cdot\frac{1}{\left(x+y\right)^2}\cdot\frac{x^3}{\left(x-y\right)^3}=\frac{x}{y^2\left(x-y\right)}.$$
+
+Substituting $x=2,y=1$, we get $\frac{2}{1\cdot1}=2$. $\blacksquare$
+
+## Problem 14
+
+(Exercise 18.3, Comprehensive Application, Problem 6) Calculate: $\frac{1}{1\times2}+\frac{1}{2\times3}+\frac{1}{3\times4}+\cdots+\frac{1}{99\times100}$.
+
+### Solution to Problem 14
+
+Using the telescoping decomposition $\frac{1}{n\left(n+1\right)}=\frac1n-\frac{1}{n+1}$:
+
+$$\left(1-\frac12\right)+\left(\frac12-\frac13\right)+\cdots+\left(\frac{1}{99}-\frac{1}{100}\right)=1-\frac{1}{100}=\frac{99}{100}.$$
+
+$\blacksquare$

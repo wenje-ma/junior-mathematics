@@ -1,359 +1,583 @@
 # week46
 
-## Exercise 1
-
-(Exercise 10.2, Problem 1) Rewrite the following equations in the form that expresses $y$ in terms of an expression containing $x$:
-
-(1) $3x+y-1=0$;
-
-(2) $2x-y=3$.
-
-### Solution to Exercise 1
-
-By Substitution Elimination, leave $y$ alone on one side of the equals sign.
-
-(1) Transposing gives $y=1-3x$.
-
-(2) Transposing gives $y=2x-3$. $\blacksquare$
-
-## Exercise 2
-
-(Exercise 10.2, Problem 2) Solve the following systems by the substitution method:
-
-(1) $\begin{cases}2x-y=5,\\3x+4y=2;\end{cases}$
-
-(2) $\begin{cases}3x-2y=5,\\2x+y=8;\end{cases}$
-
-(3) $\begin{cases}4a-3b=5,\\2a+b=5;\end{cases}$
-
-(4) $\begin{cases}s-3t=-2,\\s+5t=6.\end{cases}$
-
-### Solution to Exercise 2
-
-By Substitution Elimination, solve for one unknown from one equation and substitute into the other.
-
-(1) From the first equation $y=2x-5$; substitute into the second: $3x+4\left(2x-5\right)=2$, i.e. $11x=22$, giving $x=2$, $y=-1$.
-
-(2) From the second equation $y=8-2x$; substitute into the first: $3x-2\left(8-2x\right)=5$, i.e. $7x=21$, giving $x=3$, $y=2$.
-
-(3) From the second equation $b=5-2a$; substitute into the first: $4a-3\left(5-2a\right)=5$, i.e. $10a=20$, giving $a=2$, $b=1$.
-
-(4) From the first equation $s=3t-2$; substitute into the second: $3t-2+5t=6$, giving $t=1$, $s=1$. $\blacksquare$
-
-## Exercise 3
-
-(Exercise 10.2, Problem 3) Solve the following systems by the substitution method:
-
-(1) $\begin{cases}4x-3y=-2,\\5x+4y=13;\end{cases}$
-
-(2) $\begin{cases}3m+2n=17,\\2m-3n=-6.\end{cases}$
-
-### Solution to Exercise 3
-
-By Substitution Elimination.
-
-(1) From the first equation $y=\frac{4x+2}{3}$; substitute into the second and multiply by $3$: $15x+4\left(4x+2\right)=39$, i.e. $31x=31$, giving $x=1$, $y=2$.
-
-(2) From the first equation $m=\frac{17-2n}{3}$; substitute into the second and multiply by $3$: $2\left(17-2n\right)-9n=-18$, i.e. $-13n=-52$, giving $n=4$, $m=3$. $\blacksquare$
-
-## Exercise 4
-
-(Exercise 10.2, Problem 4) A product comes in two packages: large box and small box. $3$ large boxes and $4$ small boxes hold $108$ bottles in total; $2$ large boxes and $3$ small boxes hold $76$ bottles in total. How many bottles does each large box and each small box hold?
-
-### Solution to Exercise 4
-
-Let $x$ be the bottles held by a large box and $y$ the bottles held by a small box. According to the problem,
-
-$$
-\begin{cases}
-3x+4y=108,\\
-2x+3y=76.
-\end{cases}
-$$
-
-By Addition-Subtraction Elimination, multiply the first equation by $2$ and the second by $3$: $6x+8y=216$, $6x+9y=228$; subtracting gives $y=12$, and substituting gives $3x+48=108$, $x=20$.
-
-Thus a large box holds $20$ bottles and a small box holds $12$ bottles. $\blacksquare$
-
-## Exercise 5
-
-(Exercise 10.2, Problem 5) Solve the following systems by the addition-subtraction method:
-
-(1) $\begin{cases}x+2y=9,\\3x-2y=-1;\end{cases}$
-
-(2) $\begin{cases}2a-3b=-9,\\7a-3b=6;\end{cases}$
-
-(3) $\begin{cases}5x+2y=27,\\5x-4y=21;\end{cases}$
-
-(4) $\begin{cases}\frac{x}{3}-5y=13,\\x+5y=-41.\end{cases}$
-
-### Solution to Exercise 5
-
-By Addition-Subtraction Elimination.
-
-(1) Add the two equations: $4x=8$, giving $x=2$; substituting back $2+2y=9$, $y=3.5$.
-
-(2) Subtract the two equations: $5a=15$, giving $a=3$; substituting back $6-3b=-9$, $b=5$.
-
-(3) Subtract the two equations: $6y=6$, giving $y=1$; substituting back $5x+2=27$, $x=5$.
-
-(4) Add the two equations: $\frac{4}{3}x=-28$, giving $x=-21$; substituting back $-21+5y=-41$, $y=-4$. $\blacksquare$
-
-## Exercise 6
-
-(Exercise 10.2, Problem 6) Solve the following systems by the addition-subtraction method:
-
-(1) $\begin{cases}3x+4y=16,\\5x-6y=33;\end{cases}$
-
-(2) $\begin{cases}2x+3y=-\frac{20}{9},\\3x+2y=-\frac{5}{3}.\end{cases}$
-
-### Solution to Exercise 6
-
-By Addition-Subtraction Elimination.
-
-(1) Multiply the first equation by $3$: $9x+12y=48$; multiply the second by $2$: $10x-12y=66$; adding gives $19x=114$, $x=6$; substituting back $18+4y=16$, $y=-0.5$.
-
-(2) Multiply the first equation by $3$: $6x+9y=-\frac{20}{3}$; multiply the second by $2$: $6x+4y=-\frac{10}{3}$; subtracting gives $5y=-\frac{10}{3}$, $y=-\frac{2}{3}$; substituting back $2x-2=-\frac{20}{9}$, $x=-\frac{1}{9}$. $\blacksquare$
-
-## Exercise 7
-
-(Exercise 10.2, Problem 7) Perch and eggplant are home-cooked dishes. A restaurant paid a total of $44$ yuan for perch and eggplant one day; perch is $35$ yuan per kilogram and eggplant is $6$ yuan per kilogram, and the eggplant bought was $0.5\ \text{kg}$ more than the perch. How many kilograms of perch and eggplant did the restaurant buy?
-
-### Solution to Exercise 7
-
-Let $x\ \text{kg}$ be the perch bought and $y\ \text{kg}$ the eggplant. According to the problem,
-
-$$
-\begin{cases}
-y=x+0.5,\\
-35x+6y=44.
-\end{cases}
-$$
-
-By Substitution Elimination, substituting gives $35x+6\left(x+0.5\right)=44$, i.e. $41x=41$, $x=1$, $y=1.5$.
-
-Thus $1\ \text{kg}$ of perch and $1.5\ \text{kg}$ of eggplant were bought. $\blacksquare$
-
 ## Problem 1
 
-(Exercise 10.2, Review and Consolidation, Problem 1) Rewrite the following equations in the form that expresses $y$ in terms of an expression containing $x$:
+(Exercise 20.2, Comprehensive Application, Problem 4)
 
-(1) $\frac{3}{2}x+2y=1$;
+In \(\triangle ABC\), \(AB=13,\ BC=10\), and the median \(AD\) to side \(BC\) is \(12\). Find the length of \(AC\).
 
-(2) $\frac{1}{4}x+\frac{7}{4}y=2$;
+\(D\) is the midpoint of \(BC\), so \(BD=DC=5\).
 
-(3) $5x-3y=x+2y$;
+In \(\triangle ABD\), \(AD^{2}+BD^{2}=12^{2}+5^{2}=169=13^{2}=AB^{2}\).
 
-(4) $2\left(3y-3\right)=6x+4$.
+By Basic Knowledge, \(\angle ADB=90^{\circ}\), i.e. \(AD\perp BC\).
 
-### Solution to Problem 1
+Hence \(AD\) is also the perpendicular bisector of \(BC\), so \(AC=AB=13\).
 
-By Substitution Elimination.
+\(\blacksquare\)
 
-(1) $2y=1-\frac{3}{2}x$, giving $y=\frac{1}{2}-\frac{3}{4}x$.
+(Exercise 20.2, Comprehensive Application, Problem 5)
 
-(2) Multiply by $4$ to get $x+7y=8$, giving $y=\frac{8-x}{7}$.
+As shown in the figure, in square \(ABCD\), \(E\) is the midpoint of \(BC\), \(F\) is a point on \(CD\), and \(CF=\frac{1}{4}CD\). Prove that \(\angle AEF=90^{\circ}\).
 
-(3) Transpose $4x=5y$, giving $y=\frac{4}{5}x$.
+Let the side length of the square be \(4a\); then \(BE=EC=2a\), \(CF=a\), \(DF=3a\).
 
-(4) $6y-6=6x+4$, giving $y=x+\frac{5}{3}$. $\blacksquare$
+Apply the Pythagorean theorem in the right triangles:
+
+$$
+AE^{2}=AB^{2}+BE^{2}=\left(4a\right)^{2}+\left(2a\right)^{2}=20a^{2},
+$$
+
+$$
+EF^{2}=EC^{2}+CF^{2}=\left(2a\right)^{2}+a^{2}=5a^{2},
+$$
+
+$$
+AF^{2}=AD^{2}+DF^{2}=\left(4a\right)^{2}+\left(3a\right)^{2}=25a^{2}.
+$$
+
+Hence \(AE^{2}+EF^{2}=20a^{2}+5a^{2}=25a^{2}=AF^{2}\).
+
+By Basic Knowledge, \(\triangle AEF\) is a right triangle, and \(\angle AEF=90^{\circ}\).
+
+\(\blacksquare\)
 
 ## Problem 2
 
-(Exercise 10.2, Review and Consolidation, Problem 2) Solve the following systems by the substitution method:
+(Exercise 20.2, Extension and Exploration, Problem 6)
 
-(1) $\begin{cases}y=x+3,\\7x+5y=9;\end{cases}$
+We know that \(3,4,5\) is a Pythagorean triple. Is \(3k,4k,5k\) (where \(k\) is a positive integer) also a Pythagorean triple? In general, if \(a,b,c\) is a Pythagorean triple, is \(ak,bk,ck\) (where \(k\) is a positive integer) also a Pythagorean triple?
 
-(2) $\begin{cases}3s-t=5,\\5s+2t=15;\end{cases}$
+If \(a,b,c\) is a Pythagorean triple, then \(a^{2}+b^{2}=c^{2}\).
 
-(3) $\begin{cases}2x+3y=-5,\\3x-4y=18;\end{cases}$
+For \(3k,4k,5k\),
 
-(4) $\begin{cases}\frac{x+y}{3}+\frac{x-y}{2}=6,\\3\left(x+y\right)-2\left(x-y\right)=28.\end{cases}$
+$$
+\left(3k\right)^{2}+\left(4k\right)^{2}=9k^{2}+16k^{2}=25k^{2}=\left(5k\right)^{2}.
+$$
 
-### Solution to Problem 2
+Therefore \(3k,4k,5k\) is a Pythagorean triple.
 
-By Substitution Elimination.
+In general,
 
-(1) Substitute: $7x+5\left(x+3\right)=9$, i.e. $12x=-6$, $x=-0.5$, $y=2.5$.
+$$
+\left(ak\right)^{2}+\left(bk\right)^{2}=a^{2}k^{2}+b^{2}k^{2}=\left(a^{2}+b^{2}\right)k^{2}=c^{2}k^{2}=\left(ck\right)^{2}.
+$$
 
-(2) From $t=3s-5$, substitute: $5s+2\left(3s-5\right)=15$, i.e. $11s=25$, $s=\frac{25}{11}$, $t=\frac{20}{11}$.
+Therefore \(ak,bk,ck\) is also a Pythagorean triple.
 
-(3) Multiply the first equation by $3$ and the second by $2$, then subtract: $17y=-51$, $y=-3$; substituting back $2x-9=-5$, $x=2$.
+\(\blacksquare\)
 
-(4) Let $u=x+y$, $v=x-y$. Then $\frac{u}{3}+\frac{v}{2}=6$ i.e. $2u+3v=36$, and $3u-2v=28$. Multiply the first by $2$ and the second by $3$ and add: $13u=156$, $u=12$; substituting back $36-2v=28$, $v=4$. Thus $x=\frac{u+v}{2}=8$, $y=\frac{u-v}{2}=4$. $\blacksquare$
+## Picturing the History of Mathematics 1
+
+(Picturing the History of Mathematics, Mathematical Treasure — the Pythagorean Theorem)
+
+Proposition 48 of Euclid's *Elements* is exactly the converse of the Pythagorean theorem. Restate it in today's language: if the sum of the squares of two sides of a triangle equals the square of the third side, then the triangle is a right triangle.
+
+This is exactly Converse of the Pythagorean Theorem. It and the Pythagorean theorem are converses of each other: the former gives a property of a right triangle (a relation among the sides), while the latter gives a method for determining whether a triangle is a right triangle.
+
+\(\blacksquare\)
+
+## Activity 1
+
+(Mathematics Activity, Activity 1, Problem 1)
+
+Figure 1(1) looks like a tree and is called a "Pythagorean tree". To draw this pattern, one first draws a figure as in Figure 2 (a right triangle and two small squares on its two legs), then, based on the two small squares, draws two figures of the same shape on top of each, as in Figure 3. Repeating this and finally filling in colors yields the "Pythagorean tree". Explain the mathematics behind each step.
+
+The figure shows, from left to right, the construction of the Pythagorean tree: Figure 2 is a right triangle with one small square drawn outward on each of its two legs; Figure 3 repeats, on top of each of the two small squares of Figure 2, a smaller right triangle and two still smaller squares; Figure 1(1) is the colored fractal tree-like pattern obtained after repeating the above process many times.
+
+Each time two new small squares "grow", a right triangle is drawn with the side of the existing square on the hypotenuse as its hypotenuse, and then two new squares are drawn on the two legs.
+
+By Pythagorean Theorem, the sum of the areas of the two new small squares equals the area of the old square.
+
+Thus two still smaller squares grow on each existing square; the areas shrink level by level while maintaining the relation "the sum of the areas of the two small squares equals the area of the previous-level square", and infinite repetition forms a self-similar tree pattern.
+
+\(\blacksquare\)
+
+(Mathematics Activity, Activity 1, Problem 2)
+
+Draw in the same way and repeat the process many times on the newly generated figures, and an infinitely growing tree pattern is formed. Try to create a pattern related to the Pythagorean theorem and explain the mathematical secret it contains.
+
+Take an isosceles right triangle with its two legs on top of the same square.
+
+Each time the process is repeated on the two small squares, the side length of the two small squares is \(\frac{\sqrt{2}}{2}\) times that of the previous level, and their area is half of the previous level.
+
+By Pythagorean Theorem, the sum of the areas of the two new squares at each level equals the area of its parent square.
+
+Therefore the sum of the areas of all the outermost small squares equals exactly the area of the original square — this is the mathematical secret of "area conservation" in the Pythagorean tree pattern.
+
+\(\blacksquare\)
+
+## Review Problem 1
+
+(Review Problem, Review and Consolidation, Problem 1)
+
+As shown in the figure, point \(D\) lies on side \(AB\) of \(Rt\triangle ABC\), \(AD=8,\ DB=2,\ CD=17\). Find the lengths of \(AC\) and \(BC\).
+
+From the figure, \(\angle A=90^{\circ}\), so \(AC\perp AB\), and \(AB=AD+DB=10\).
+
+In \(Rt\triangle ACD\), by Basic Knowledge,
+
+$$
+AC^{2}=CD^{2}-AD^{2}=17^{2}-8^{2}=289-64=225,
+$$
+
+so \(AC=15\).
+
+In \(Rt\triangle ABC\),
+
+$$
+BC^{2}=AB^{2}+AC^{2}=100+225=325,
+$$
+
+so \(BC=\sqrt{325}=5\sqrt{13}\).
+
+\(\blacksquare\)
+
+(Review Problem, Review and Consolidation, Problem 2)
+
+Two people start from the same point at the same time. One walks due north at \(20\ \text{m/min}\), and the other walks due east at \(30\ \text{m/min}\). How far apart are they after \(10\ \text{min}\) (round to an integer)?
+
+After \(10\ \text{min}\), the northbound person has walked \(200\ \text{m}\) and the eastbound person has walked \(300\ \text{m}\); the two directions are perpendicular.
+
+By Basic Knowledge, the distance
+
+$$
+d=\sqrt{200^{2}+300^{2}}=\sqrt{130000}\approx 361\ \text{m}.
+$$
+
+\(\blacksquare\)
+
+(Review Problem, Review and Consolidation, Problem 3)
+
+As shown in the figure, a plane through the apex \(P\) of a cone and the center \(O\) of its base circle cuts the cone in the cross-section \(\triangle PAB\), where \(PA=PB\) and \(AB\) is the diameter of the base circle \(O\) of the cone. Given \(PA=7,\ AB=4\), find the area of the cross-section \(\triangle PAB\).
+
+In isosceles triangle \(PAB\), the base \(AB=4\), and the altitude to the base passes through the center \(O\) (\(O\) is the midpoint of \(AB\)).
+
+By Basic Knowledge, the altitude \(PO=\sqrt{PA^{2}-AO^{2}}=\sqrt{49-4}=\sqrt{45}=3\sqrt{5}\).
+
+Therefore the area \(S=\frac{1}{2}\times AB\times PO=\frac{1}{2}\times 4\times 3\sqrt{5}=6\sqrt{5}\).
+
+\(\blacksquare\)
+
+(Review Problem, Review and Consolidation, Problem 4)
+
+As shown in the figure, a tent has length \(l=2.6\ \text{m}\), and its cross-section is an isosceles triangle with base \(a=2\ \text{m}\) and height \(h=1.8\ \text{m}\). How many square meters of fabric are at least needed to make this tent (excluding the bottom) (keep one decimal place)?
+
+The leg length of the isosceles cross-section triangle is, by Basic Knowledge:
+
+$$
+s=\sqrt{\left(\frac{a}{2}\right)^{2}+h^{2}}=\sqrt{1+3.24}=\sqrt{4.24}\approx 2.06\ \text{m}.
+$$
+
+The two sloping sides of the tent are each rectangles of length \(l\) and width \(s\), excluding the bottom.
+
+Therefore the fabric area is \(2\times l\times s=2\times 2.6\times 2.06\approx 10.7\ \text{m}^{2}\).
+
+\(\blacksquare\)
+
+(Review Problem, Review and Consolidation, Problem 5)
+
+As shown in the figure, each small square has side length \(1\).
+
+(1) Find the area and perimeter of quadrilateral \(ABCD\);
+
+(2) Is \(\angle BCD\) a right angle? Explain why.
+
+(1) From the grid-point coordinates, compute each side length:
+
+$$
+AB=\sqrt{3^{2}+4^{2}}=5,\ BC=\sqrt{2^{2}+1^{2}}=\sqrt{5},
+$$
+
+$$
+CD=\sqrt{1^{2}+2^{2}}=\sqrt{5},\ DA=\sqrt{3^{2}+1^{2}}=\sqrt{10}.
+$$
+
+The perimeter \(=5+\sqrt{5}+\sqrt{5}+\sqrt{10}=5+2\sqrt{5}+\sqrt{10}\).
+
+The area is found by the cut-and-paste method: the area of the enclosing rectangle minus the surrounding triangles gives \(S=12\).
+
+(2) Connect \(BD\); \(BD=\sqrt{4^{2}+2^{2}}=\sqrt{20}=2\sqrt{5}\).
+
+And \(BC^{2}+CD^{2}=5+5=10\ne 20=BD^{2}\).
+
+By Basic Knowledge, \(\angle BCD\) is not a right angle.
+
+\(\blacksquare\)
+
+## Review Problem 2
+
+(Review Problem, Comprehensive Application, Problem 6)
+
+As shown in the figure, in a triangular support, \(AD\perp BC\) with foot \(D\), \(AB=2\ \text{m},\ AC=1.5\ \text{m},\ DC=0.9\ \text{m}\).
+
+(1) Find the length of \(BD\);
+
+(2) Determine the shape of the outer frame \(\triangle ABC\) of the support, and explain why.
+
+(1) In \(Rt\triangle ADC\), \(AD^{2}=AC^{2}-DC^{2}=2.25-0.81=1.44\), so \(AD=1.2\).
+
+In \(Rt\triangle ADB\), \(BD^{2}=AB^{2}-AD^{2}=4-1.44=2.56\), so \(BD=1.6\ \text{m}\).
+
+(2) \(BC=BD+DC=1.6+0.9=2.5\ \text{m}\).
+
+And \(AB^{2}+AC^{2}=4+2.25=6.25=2.5^{2}=BC^{2}\).
+
+By Basic Knowledge, \(\triangle ABC\) is a right triangle, \(\angle BAC=90^{\circ}\).
+
+\(\blacksquare\)
+
+(Review Problem, Comprehensive Application, Problem 7)
+
+As shown in the figure, a bamboo is \(1\) zhang tall; after it breaks, the top lands \(3\) chi from the base of the bamboo. How high above the ground is the break? (\(1\) zhang \(=10\) chi.)
+
+Let the break be \(x\) chi above the ground; then the broken part is \(10-x\) chi long.
+
+The broken part is the hypotenuse, and the vertical segment \(x\) and the horizontal distance \(3\) chi are the two legs.
+
+By Basic Knowledge,
+
+$$
+x^{2}+3^{2}=\left(10-x\right)^{2},\quad x^{2}+9=100-20x+x^{2},
+$$
+
+$$
+20x=91,\quad x=4.55.
+$$
+
+Therefore the break is \(4.55\) chi above the ground.
+
+\(\blacksquare\)
+
+(Review Problem, Comprehensive Application, Problem 8)
+
+The ancient Greek philosopher Plato once pointed out that if \(m\) is an integer greater than \(1\), \(a=2m,\ b=m^{2}-1,\ c=m^{2}+1\), then \(a,b,c\) is a Pythagorean triple. Do you think this statement is correct? If so, give a proof, and use this conclusion to write out some Pythagorean triples.
+
+Calculating:
+
+$$
+a^{2}+b^{2}=\left(2m\right)^{2}+\left(m^{2}-1\right)^{2}=4m^{2}+m^{4}-2m^{2}+1=m^{4}+2m^{2}+1=\left(m^{2}+1\right)^{2}=c^{2}.
+$$
+
+Also \(a,b,c\) are all positive integers, so by Basic Knowledge, \(a,b,c\) is a Pythagorean triple.
+
+Taking \(m=2\): \(a=4,\ b=3,\ c=5\).
+
+Taking \(m=3\): \(a=6,\ b=8,\ c=10\).
+
+Taking \(m=4\): \(a=8,\ b=15,\ c=17\).
+
+\(\blacksquare\)
+
+## Review Problem 3
+
+(Review Problem, Extension and Exploration, Problem 9)
+
+As shown in the figure, a rectangle is made up of \(5\) squares of side length \(1\). Cut it up and reassemble it into a large square.
+
+The sum of the areas of the five small squares is \(5\), so the large square has side length \(\sqrt{5}\).
+
+And \(\sqrt{5}=\sqrt{1^{2}+2^{2}}\) is the hypotenuse of a right triangle with legs \(1,2\).
+
+Cut the original rectangle (a \(1\times 5\) strip) along segments of length \(\sqrt{5}\), and it can be reassembled into a large square of side length \(\sqrt{5}\).
+
+\(\blacksquare\)
+
+(Review Problem, Extension and Exploration, Problem 10)
+
+Can a \(70\ \text{cm}\) stick fit inside a rectangular wooden box with length, width and height \(50\ \text{cm},40\ \text{cm},30\ \text{cm}\)?
+
+The space diagonal of the rectangular box, by the extension of Basic Knowledge:
+
+$$
+d=\sqrt{50^{2}+40^{2}+30^{2}}=\sqrt{2500+1600+900}=\sqrt{5000}\approx 70.7\ \text{cm}.
+$$
+
+Since \(70.7> 70\), the stick fits inside the box.
+
+\(\blacksquare\)
+
+(Review Problem, Extension and Exploration, Problem 11)
+
+A rectangular stone bench in a park is shown in the figure. If an ant crawls from point \(M\) to point \(N\) at \(3\ \text{cm/s}\), what is the shortest time needed (keep one decimal place)?
+
+The bench is \(40\ \text{cm}\) long and \(30\ \text{cm}\) high. The ant crawls along the surface from \(M\) to \(N\); after unfolding the surface, the shortest path is the hypotenuse of legs \(40\) and \(30\).
+
+By Basic Knowledge,
+
+$$
+MN=\sqrt{40^{2}+30^{2}}=\sqrt{2500}=50\ \text{cm}.
+$$
+
+The time \(t=\frac{50}{3}\approx 16.7\ \text{s}\).
+
+\(\blacksquare\)
+
+(Review Problem, Extension and Exploration, Problem 12)
+
+The three side lengths of \(\triangle ABC\) are \(a,b,c\), and its area is \(S\). Use the Pythagorean theorem to prove the Qin Jiushao formula
+
+$$
+S=\sqrt{\frac{1}{4}\left[a^{2}b^{2}-\left(\frac{a^{2}+b^{2}-c^{2}}{2}\right)^{2}\right]}.
+$$
+
+Let the altitude to side \(AC=b\) be \(BD=h\), with foot \(D\); write \(CD=x\); then \(AD=b-x\).
+
+By Basic Knowledge,
+
+$$
+h^{2}=a^{2}-x^{2},\quad h^{2}=c^{2}-\left(b-x\right)^{2}.
+$$
+
+Equating gives \(a^{2}-x^{2}=c^{2}-b^{2}+2bx-x^{2}\), i.e. \(x=\frac{a^{2}+b^{2}-c^{2}}{2b}\).
+
+Hence
+
+$$
+h^{2}=a^{2}-\left(\frac{a^{2}+b^{2}-c^{2}}{2b}\right)^{2}.
+$$
+
+The area \(S=\frac{1}{2}bh\), so
+
+$$
+S^{2}=\frac{b^{2}}{4}\cdot h^{2}=\frac{1}{4}\left[a^{2}b^{2}-\left(\frac{a^{2}+b^{2}-c^{2}}{2}\right)^{2}\right].
+$$
+
+Taking the square root gives the Qin Jiushao formula.
+
+\(\blacksquare\)
+
+## Exercise 1
+
+(Exercise 21.1.1, Problem 1)
+
+Find the value of \(x\) in the following figures:
+
+(1) The four interior angles of a quadrilateral are \(75^{\circ},120^{\circ},80^{\circ},x^{\circ}\);
+
+(2) The four interior angles of a quadrilateral are \(140^{\circ},3x^{\circ},2x^{\circ},4x^{\circ}\).
+
+By Basic Knowledge, the interior angle sum of a quadrilateral is \(360^{\circ}\).
+
+(1) \(75+120+80+x=360\), giving \(x=85\).
+
+(2) \(140+3x+2x+4x=360\), i.e. \(9x=220\), giving \(x=\frac{220}{9}\).
+
+\(\blacksquare\)
+
+(Exercise 21.1.1, Problem 2)
+
+If one pair of opposite angles of a quadrilateral is supplementary, what is the relation between the other pair of opposite angles?
+
+By Basic Knowledge, the interior angle sum of a quadrilateral is \(360^{\circ}\).
+
+One pair of opposite angles is supplementary, summing to \(180^{\circ}\).
+
+Therefore the other pair of opposite angles sums to \(360^{\circ}-180^{\circ}=180^{\circ}\), i.e. the other pair is also supplementary.
+
+\(\blacksquare\)
+
+(Exercise 21.1.1, Problem 3)
+
+Which of the following figures are rigid?
+
+Triangles are rigid, while quadrilaterals are not.
+
+Therefore, any wooden frame made purely of triangles is rigid, while a frame containing quadrilaterals is not rigid until a diagonal is added.
+
+\(\blacksquare\)
+
+## Exercise 2
+
+(Exercise 21.1.2, Problem 1)
+
+Find the value of \(x\) in the following figures:
+
+(1) The interior angles of a pentagon are, in order, \(120^{\circ},150^{\circ},135^{\circ},2x^{\circ},x^{\circ}\);
+
+(2) In pentagon \(ABCDE\), \(AB\parallel CD\), and the remaining angles are as shown.
+
+By Basic Knowledge, the interior angle sum of a pentagon is \((5-2)\times 180^{\circ}=540^{\circ}\).
+
+(1) \(120+150+135+2x+x=540\), i.e. \(3x=135\), giving \(x=45\).
+
+(2) From \(AB\parallel CD\), the consecutive interior angles are supplementary; combining this with the interior angle sum of \(540^{\circ}\), solve for \(x\).
+
+\(\blacksquare\)
+
+(Exercise 21.1.2, Problem 2)
+
+(1) The interior angle sum of a polygon is \(1080^{\circ}\). How many sides does this polygon have?
+
+(2) Each interior angle of a polygon is \(120^{\circ}\). How many sides does it have?
+
+(3) Each exterior angle of a polygon is \(72^{\circ}\). How many sides does it have?
+
+(1) By Basic Knowledge, \((n-2)\times 180^{\circ}=1080^{\circ}\), giving \(n=8\), i.e. an octagon.
+
+(2) Each interior angle is \(120^{\circ}\), so each exterior angle is \(60^{\circ}\). By Basic Knowledge, \(n=\frac{360^{\circ}}{60^{\circ}}=6\), i.e. a hexagon.
+
+(3) By Basic Knowledge, \(n=\frac{360^{\circ}}{72^{\circ}}=5\), i.e. a pentagon.
+
+\(\blacksquare\)
 
 ## Problem 3
 
-(Exercise 10.2, Review and Consolidation, Problem 3) Solve the following systems by the addition-subtraction method:
+(Exercise 21.1, Review and Consolidation, Problem 1)
 
-(1) $\begin{cases}3u+2t=7,\\6u-2t=11;\end{cases}$
+Can all four angles of a quadrilateral be acute? Can they all be obtuse? Can they all be right? Why?
 
-(2) $\begin{cases}2a+b=3,\\3a+b=4;\end{cases}$
+By Basic Knowledge, the interior angle sum of a quadrilateral is \(360^{\circ}\).
 
-(3) $\begin{cases}2x-5y=7,\\4x-3y=7;\end{cases}$
+If all four are acute, their sum is less than \(360^{\circ}\), a contradiction, so no.
 
-(4) $\begin{cases}\frac{1}{3}x-\frac{3}{2}y=-3,\\5x+y=2.\end{cases}$
+If all four are obtuse, their sum is greater than \(360^{\circ}\), a contradiction, so no.
 
-### Solution to Problem 3
+When all four are right angles, their sum is exactly \(360^{\circ}\), which is possible (e.g. a rectangle).
 
-By Addition-Subtraction Elimination.
+\(\blacksquare\)
 
-(1) Add: $9u=18$, $u=2$; substituting back $6+2t=7$, $t=0.5$.
+(Exercise 21.1, Review and Consolidation, Problem 2)
 
-(2) Subtract: $a=1$; substituting back $2+b=3$, $b=1$.
+Fill in the table: the interior and exterior angle sums for polygons with \(3,4,5,6,8,12,20\) sides.
 
-(3) Multiply the first equation by $2$: $4x-10y=14$; subtract the second equation: $-7y=7$, $y=-1$; substituting back $2x+5=7$, $x=1$.
+By Basic Knowledge, the interior angle sum is \((n-2)\times 180^{\circ}\); by Basic Knowledge, the exterior angle sum is always \(360^{\circ}\).
 
-(4) From the second equation $y=2-5x$; substitute into the first and multiply by $6$: $2x-9\left(2-5x\right)=-18$, i.e. $47x=0$, $x=0$, $y=2$. $\blacksquare$
+(1) Triangle: interior sum \(180^{\circ}\), exterior sum \(360^{\circ}\).
+
+(2) Quadrilateral: interior sum \(360^{\circ}\), exterior sum \(360^{\circ}\).
+
+(3) Pentagon: interior sum \(540^{\circ}\), exterior sum \(360^{\circ}\).
+
+(4) Hexagon: interior sum \(720^{\circ}\), exterior sum \(360^{\circ}\).
+
+(5) Octagon: interior sum \(1080^{\circ}\), exterior sum \(360^{\circ}\).
+
+(6) Dodecagon: interior sum \(1800^{\circ}\), exterior sum \(360^{\circ}\).
+
+(7) Icosagon: interior sum \(3240^{\circ}\), exterior sum \(360^{\circ}\).
+
+\(\blacksquare\)
+
+(Exercise 21.1, Review and Consolidation, Problem 3)
+
+Find the degree measure of each interior angle of a regular pentagon and a regular decagon.
+
+Each interior angle of a regular \(n\)-gon is \(\frac{(n-2)\times 180^{\circ}}{n}\).
+
+Regular pentagon: \(\frac{3\times 180^{\circ}}{5}=108^{\circ}\).
+
+Regular decagon: \(\frac{8\times 180^{\circ}}{10}=144^{\circ}\).
+
+\(\blacksquare\)
+
+(Exercise 21.1, Review and Consolidation, Problem 4)
+
+(1) The interior angle sum of a polygon equals its exterior angle sum. Find its number of sides.
+
+(2) The interior angle sum of a polygon is half its exterior angle sum. Find its number of sides.
+
+(1) From \((n-2)\times 180^{\circ}=360^{\circ}\), we get \(n=4\), i.e. a quadrilateral.
+
+(2) From \((n-2)\times 180^{\circ}=\frac{1}{2}\times 360^{\circ}=180^{\circ}\), we get \(n=3\), i.e. a triangle.
+
+\(\blacksquare\)
 
 ## Problem 4
 
-(Exercise 10.2, Comprehensive Application, Problem 4) A travel agency organizes $200$ people to visit Huaguo Ridge and Yunshui Cave; the number going to Huaguo Ridge is $1$ less than $2$ times the number going to Yunshui Cave. How many people go to each of the two places?
+(Exercise 21.1, Comprehensive Application, Problem 5)
 
-### Solution to Problem 4
+As shown in the figure, in quadrilateral \(ABCD\), \(\angle A=\angle C,\ \angle B=\angle D\). What is the positional relation between \(AB\) and \(DC\)? Why? What about \(BC\) and \(AD\)?
 
-Let $x$ be the people going to Yunshui Cave and $y$ the people going to Huaguo Ridge. According to the problem,
+By Basic Knowledge, \(\angle A+\angle B+\angle C+\angle D=360^{\circ}\).
+
+Substituting \(\angle A=\angle C,\ \angle B=\angle D\), we get \(2\angle A+2\angle B=360^{\circ}\), i.e. \(\angle A+\angle B=180^{\circ}\).
+
+The consecutive interior angles are supplementary, so \(AD\parallel BC\).
+
+Similarly, \(\angle A+\angle D=180^{\circ}\), so \(AB\parallel DC\).
+
+\(\blacksquare\)
+
+(Exercise 21.1, Comprehensive Application, Problem 6)
+
+As shown in the figure, take any point \(O\) inside an \(n\)-gon and connect \(O\) to each vertex of the \(n\)-gon. Into how many triangles is the \(n\)-gon divided? Use this method to derive the interior angle sum formula for an \(n\)-gon.
+
+Connecting the internal point \(O\) to the vertices gives \(n\) triangles in total.
+
+The interior angle sum of these \(n\) triangles is \(n\times 180^{\circ}\), of which the angles at vertex \(O\) sum to a full angle of \(360^{\circ}\).
+
+Therefore the interior angle sum of the \(n\)-gon is
 
 $$
-\begin{cases}
-x+y=200,\\
-y=2x-1.
-\end{cases}
+n\times 180^{\circ}-360^{\circ}=\left(n-2\right)\times 180^{\circ}.
 $$
 
-Substitute: $x+2x-1=200$, giving $x=67$, $y=133$. Thus $67$ people go to Yunshui Cave and $133$ people go to Huaguo Ridge. $\blacksquare$
+\(\blacksquare\)
+
+(Exercise 21.1, Comprehensive Application, Problem 7)
+
+As shown in the figure, the interior angles of pentagon \(ABCDE\) are all equal, and \(\angle 1=\angle 2,\ \angle 3=\angle 4\). Find the value of \(x\).
+
+Each interior angle of the pentagon is \(108^{\circ}\).
+
+In the triangle containing \(\angle 1,\angle 2\), \(\angle 1=\angle 2=\frac{180^{\circ}-108^{\circ}}{2}=36^{\circ}\).
+
+Similarly, \(\angle 3=\angle 4=36^{\circ}\).
+
+Therefore \(x=108^{\circ}-36^{\circ}-36^{\circ}=36^{\circ}\).
+
+\(\blacksquare\)
 
 ## Problem 5
 
-(Exercise 10.2, Comprehensive Application, Problem 5) A boat sailing downstream (by Downstream and Upstream Speeds) travels $20\ \text{km}$ per hour; sailing upstream, it travels $16\ \text{km}$ per hour. Find the speed of the boat in still water and the speed of the current.
+(Exercise 21.1, Extension and Exploration, Problem 8)
 
-### Solution to Problem 5
+As shown in the figure, in quadrilateral \(ABCD\), \(AC,BD\) are its two diagonals. Compare \(AC+BD\) with the perimeter of the quadrilateral.
 
-Let $x\ \text{km/h}$ be the boat's speed in still water and $y\ \text{km/h}$ the current speed. According to the problem,
+Let the diagonals intersect at \(O\).
 
-$$
-\begin{cases}
-x+y=20,\\
-x-y=16.
-\end{cases}
-$$
+In \(\triangle OAB\), \(OA+OB> AB\); similarly \(OB+OC> BC\), \(OC+OD> CD\), \(OD+OA> DA\).
 
-Add the two equations: $2x=36$, $x=18$; substituting back $18+y=20$, $y=2$. Thus the boat's speed in still water is $18\ \text{km/h}$ and the current speed is $2\ \text{km/h}$. $\blacksquare$
+Adding the four inequalities: \(2(OA+OB+OC+OD)> AB+BC+CD+DA\), i.e. \(2(AC+BD)> \) perimeter.
 
-## Problem 6
+Therefore \(AC+BD> \frac{1}{2}\) perimeter.
 
-(Exercise 10.2, Comprehensive Application, Problem 6) A science experience hall has two experience items: "Embracing the Moon from the Ninth Heaven" and "Exploring the Deep Sea". $2$ people experiencing "Embracing the Moon from the Ninth Heaven" and $3$ people experiencing "Exploring the Deep Sea" once cost $130$ yuan in total; $4$ people experiencing "Embracing the Moon from the Ninth Heaven" and $2$ people experiencing "Exploring the Deep Sea" once cost $140$ yuan in total. How much is each item per person per experience?
+\(\blacksquare\)
 
-### Solution to Problem 6
+(Exercise 21.1, Extension and Exploration, Problem 9)
 
-Let $x$ yuan be the per-person price of "Embracing the Moon from the Ninth Heaven" and $y$ yuan that of "Exploring the Deep Sea". According to the problem,
+As shown in the figure, to keep a quadrilateral wooden frame (made by nailing \(4\) strips) from deforming, at least how many more strips must be nailed? What about a pentagonal frame and a hexagonal frame?
 
-$$
-\begin{cases}
-2x+3y=130,\\
-4x+2y=140.
-\end{cases}
-$$
+Adding \(1\) diagonal to a quadrilateral frame divides it into two triangles, so at least \(1\) more strip is needed.
 
-Multiply the first equation by $2$: $4x+6y=260$; subtract the second: $4y=120$, $y=30$; substituting back $2x+90=130$, $x=20$. Thus "Embracing the Moon from the Ninth Heaven" is $20$ yuan per person and "Exploring the Deep Sea" is $30$ yuan per person. $\blacksquare$
+A pentagonal frame needs to be divided into \(3\) triangles, requiring at least \(2\) more strips.
 
-## Problem 7
+A hexagonal frame needs to be divided into \(4\) triangles, requiring at least \(3\) more strips.
 
-(Exercise 10.2, Comprehensive Application, Problem 7) Solve the following systems:
+\(\blacksquare\)
 
-(1) $\begin{cases}3\left(x-1\right)=y+5,\\3\left(x+5\right)=5\left(y-1\right);\end{cases}$
+## Inquiry and Discovery 1
 
-(2) $\begin{cases}\frac{2u}{3}+\frac{3v}{4}=\frac{1}{2},\\\frac{4u}{5}+\frac{5v}{6}=\frac{7}{15}.\end{cases}$
+(Inquiry and Discovery, Tiling the Plane with Polygons)
 
-### Solution to Problem 7
+(1) Tiling the plane separately with equilateral triangles, squares, regular pentagons and regular hexagons of the same side length: which of these can tile the plane?
 
-(1) From the first equation $y=3x-8$; substitute into the second: $3x+15=5\left(3x-8\right)-5$, i.e. $12x=60$, $x=5$, $y=7$.
+(2) Can arbitrary triangles or quadrilaterals of the same shape and size tile the plane?
 
-(2) Multiply the first equation by $12$: $8u+9v=6$; multiply the second by $30$: $24u+25v=14$. Multiply the first by $3$ and subtract the second: $2v=4$, $v=2$; substituting back $8u+18=6$, $u=-\frac{3}{2}$. $\blacksquare$
+(1) Tiling requires the sum of the interior angles at a vertex point to be \(360^{\circ}\).
 
-## Problem 8
+An equilateral triangle has interior angle \(60^{\circ}\), and \(6\times 60^{\circ}=360^{\circ}\), so it tiles.
 
-(Exercise 10.2, Comprehensive Application, Problem 8) From the *Sunzi Suanjing*: using a rope to measure a log, the rope has $4.5$ chi left over; folding the rope in half and measuring the log again, the log has $1$ chi left over. How long is the log in chi?
+A square has interior angle \(90^{\circ}\), and \(4\times 90^{\circ}=360^{\circ}\), so it tiles.
 
-### Solution to Problem 8
+A regular pentagon has interior angle \(108^{\circ}\), and \(108^{\circ}\) does not divide \(360^{\circ}\), so it does not tile.
 
-Let $x$ chi be the log's length and $y$ chi the rope's length. According to the problem,
+A regular hexagon has interior angle \(120^{\circ}\), and \(3\times 120^{\circ}=360^{\circ}\), so it tiles.
 
-$$
-\begin{cases}
-y=x+4.5,\\
-\frac{y}{2}=x-1.
-\end{cases}
-$$
+(2) An arbitrary triangle has interior angle sum \(180^{\circ}\); two identical triangles together make \(360^{\circ}\), so it tiles.
 
-Substitute: $\frac{x+4.5}{2}=x-1$, i.e. $x+4.5=2x-2$, giving $x=6.5$, $y=11$. Thus the log is $6.5$ chi long. $\blacksquare$
+An arbitrary quadrilateral has interior angle sum \(360^{\circ}\), and four different interior angles meet exactly at a vertex, so it tiles.
 
-## Problem 9
-
-(Exercise 10.2, Comprehensive Application, Problem 9) In a certain city, the distance included in the taxi flag-down fare does not exceed $3\ \text{km}$; the part beyond $3\ \text{km}$ is charged an additional distance fee at a fixed rate. Zhang Hua's first ride traveled $7\ \text{km}$, and the flag-down fare plus distance fee totaled $17.2$ yuan; the second ride traveled $13\ \text{km}$, totaling $28$ yuan. Find the flag-down fare and the distance-fare rate beyond $3\ \text{km}$.
-
-### Solution to Problem 9
-
-Let $x$ yuan be the flag-down fare and $z$ yuan per kilometer beyond $3\ \text{km}$. According to the problem,
-
-$$
-\begin{cases}
-x+\left(7-3\right)z=17.2,\\
-x+\left(13-3\right)z=28.
-\end{cases}
-$$
-
-Subtract the two equations: $6z=10.8$, $z=1.8$; substituting back $x+4\times1.8=17.2$, $x=10$. Thus the flag-down fare is $10$ yuan, and beyond $3\ \text{km}$ the distance fare is $1.8$ yuan per kilometer. $\blacksquare$
-
-## Problem 10
-
-(Exercise 10.2, Comprehensive Application, Problem 10) For an arts festival, Grade 7 Class (1) rented performance costumes for $5$ boys and $3$ girls at a total of $190$ yuan; Class (2) rented costumes for $11$ boys and $12$ girls at a total of $580$ yuan. What are the rents per set for boys' and girls' performance costumes?
-
-### Solution to Problem 10
-
-Let $x$ yuan be the rent per set of boys' costume and $y$ yuan that of girls' costume. According to the problem,
-
-$$
-\begin{cases}
-5x+3y=190,\\
-11x+12y=580.
-\end{cases}
-$$
-
-Multiply the first equation by $4$: $20x+12y=760$; subtract the second: $9x=180$, $x=20$; substituting back $100+3y=190$, $y=30$. Thus each set of boys' costume is $20$ yuan and each set of girls' costume is $30$ yuan. $\blacksquare$
-
-## Problem 11
-
-(Exercise 10.2, Comprehensive Application, Problem 11) $2$ large harvesters and $5$ small harvesters working simultaneously for $2\ \text{h}$ harvest $3.6\ \text{hm}^2$ of wheat in total; $3$ large harvesters and $2$ small harvesters working simultaneously for $5\ \text{h}$ harvest $8\ \text{hm}^2$ of wheat in total. How many hectares does $1$ large harvester and $1$ small harvester harvest per hour respectively?
-
-### Solution to Problem 11
-
-Let $x\ \text{hm}^2$ be harvested per hour by $1$ large harvester and $y\ \text{hm}^2$ by a small harvester. According to the problem,
-
-$$
-\begin{cases}
-2\left(2x+5y\right)=3.6,\\
-5\left(3x+2y\right)=8.
-\end{cases}
-$$
-
-Simplify: $2x+5y=1.8$, $3x+2y=1.6$. Multiply the first by $2$ and the second by $5$ and subtract: $11x=4.4$, $x=0.4$; substituting back $0.8+5y=1.8$, $y=0.2$. Thus a large harvester harvests $0.4\ \text{hm}^2$ per hour and a small harvester $0.2\ \text{hm}^2$ per hour. $\blacksquare$
-
-## Problem 12
-
-(Exercise 10.2, Extension and Exploration, Problem 12) "Two Fruits Price Problem": nine hundred and ninety-nine wen buy sweet fruits and bitter fruits totaling one thousand; eleven wen buy nine sweet fruits, and four wen buy seven bitter fruits. How many sweet fruits and bitter fruits were bought? How many wen does each sweet fruit and each bitter fruit cost?
-
-### Solution to Problem 12
-
-Let $x$ be the number of sweet fruits and $y$ the number of bitter fruits. According to the problem,
-
-$$
-\begin{cases}
-x+y=1000,\\
-\frac{11}{9}x+\frac{4}{7}y=999.
-\end{cases}
-$$
-
-Substitute $y=1000-x$ and multiply by $63$: $77x+36\left(1000-x\right)=999\times63$, i.e. $41x=26937$, $x=657$, $y=343$.
-
-Each sweet fruit costs $\frac{11}{9}$ wen and each bitter fruit costs $\frac{4}{7}$ wen. Thus there are $657$ sweet fruits and $343$ bitter fruits. $\blacksquare$
+\(\blacksquare\)

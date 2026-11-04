@@ -1,161 +1,549 @@
 # week55
 
-## Review Problem 1
+## Exercise 1
 
-(Review Problems, Review and Consolidation, Problem 1) Solve the following inequalities:
+(Exercise 25.2, Problem 2, Part (1)) Fill in the blanks:
 
-(1) $3\left(2x+7\right)> 23$;
+(1) $x^2+10x+\;\_\_\_\;=\left(x+\;\_\_\_\;\right)^2$;
 
-(2) $12-4\left(3x-1\right)\le2\left(2x-16\right)$;
+(2) $x^2-12x+\;\_\_\_\;=\left(x-\;\_\_\_\;\right)^2$;
 
-(3) $\frac{x+3}{5}< \frac{2x-5}{3}-1$;
+(3) $x^2+5x+\;\_\_\_\;=\left(x+\;\_\_\_\;\right)^2$;
 
-(4) $\frac{2x-1}{3}-\frac{3x-1}{2}\ge\frac{5}{12}$.
+(4) $x^2-\frac23x+\;\_\_\_\;=\left(x-\;\_\_\_\;\right)^2$.
 
-### Solution to Review Problem 1
+### Solution to Exercise 1
 
-(1) $6x+21> 23$, giving $x> \frac{1}{3}$.
+By Method of Completing the Square, when the quadratic coefficient is $1$, add to both sides the square of half the linear coefficient, namely $\left(\frac{b}{2}\right)^2$.
 
-(2) $12-12x+4\le4x-32$, i.e. $48\le16x$, giving $x\ge3$.
+(1) The linear coefficient is $10$; the square of half is $5^2=25$, so $x^2+10x+25=\left(x+5\right)^2$.
 
-(3) Multiply by $15$: $3\left(x+3\right)< 5\left(2x-5\right)-15$, i.e. $3x+9< 10x-40$, giving $x> 7$.
+(2) The linear coefficient is $-12$; the square of half is $\left(-6\right)^2=36$, so $x^2-12x+36=\left(x-6\right)^2$.
 
-(4) Multiply by $12$: $4\left(2x-1\right)-6\left(3x-1\right)\ge5$, i.e. $-10x+2\ge5$, giving $x\le-\frac{3}{10}$. $\blacksquare$
+(3) The linear coefficient is $5$; the square of half is $\left(\frac52\right)^2=\frac{25}{4}$, so $x^2+5x+\frac{25}{4}=\left(x+\frac52\right)^2$.
 
-## Review Problem 2
+(4) The linear coefficient is $-\frac23$; the square of half is $\left(-\frac13\right)^2=\frac19$, so $x^2-\frac23x+\frac19=\left(x-\frac13\right)^2$. $\blacksquare$
 
-(Review Problems, Review and Consolidation, Problem 2) For what value of $a$ does the algebraic expression $15-7a$:
+## Exercise 2
 
-(1) become greater than $1$;
+(Exercise 25.2, Problem 2, Part (2)) Solve the following equations:
 
-(2) become less than $1$;
+(1) $x^2+10x+9=0$;
 
-(3) equal $1$.
+(2) $x^2-x-\frac74=0$;
 
-### Solution to Review Problem 2
+(3) $3x^2+6x-4=0$;
 
-(1) $15-7a> 1$, giving $a< 2$.
+(4) $4x^2-6x-3=0$;
 
-(2) $15-7a< 1$, giving $a> 2$.
+(5) $x^2+4x-9=2x-11$;
 
-(3) $15-7a=1$, giving $a=2$. $\blacksquare$
+(6) $x\left(x+4\right)=8x+4$.
 
-## Review Problem 3
+### Solution to Exercise 2
 
-(Review Problems, Review and Consolidation, Problem 3) Solve the following systems of inequalities:
+By Method of Completing the Square, first transpose terms; if the quadratic coefficient is not $1$, first make it $1$, then add to both sides the square of half the linear coefficient, and take square roots by Basic Knowledge.
 
-(1) $\begin{cases}2x+1> -1,\\2x+1< 3;\end{cases}$
-
-(2) $\begin{cases}-\left(x-1\right)> 3,\\2x+9> 3;\end{cases}$
-
-(3) $\begin{cases}3\left(x-1\right)+1> 5x-2\left(1-x\right),\\5-\left(2x-1\right)< -6x;\end{cases}$
-
-(4) $\begin{cases}-3\left(x-2\right)\ge4-x,\\\frac{1+2x}{3}> x-1.\end{cases}$
-
-### Solution to Review Problem 3
-
-(1) $x> -1$ and $x< 1$, common part $-1< x< 1$.
-
-(2) First inequality: $-x+1> 3$, $x< -2$. Second inequality: $2x> -6$, $x> -3$. Common part $-3< x< -2$.
-
-(3) First inequality: $3x-2> 7x-2$, $x< 0$. Second inequality: $6-2x< -6x$, $x< -\frac{3}{2}$. Common part $x< -\frac{3}{2}$.
-
-(4) First inequality: $-3x+6\ge4-x$, $x\le1$. Second inequality: $1+2x> 3x-3$, $x< 4$. Common part $x\le1$. $\blacksquare$
-
-## Review Problem 4
-
-(Review Problems, Review and Consolidation, Problem 4) Can $\frac{x+3}{5}$ be simultaneously greater than both $2x+3$ and $1-x$?
-
-### Solution to Review Problem 4
-
-From $\frac{x+3}{5}> 2x+3$, we get $x+3> 10x+15$, i.e. $x< -\frac{4}{3}$.
-
-From $\frac{x+3}{5}> 1-x$, we get $x+3> 5-5x$, i.e. $x> \frac{1}{3}$.
-
-There is no common part between $x< -\frac{4}{3}$ and $x> \frac{1}{3}$, so it cannot be simultaneously greater than both. $\blacksquare$
-
-## Review Problem 5
-
-(Review Problems, Review and Consolidation, Problem 5) Compare the sizes of $a$ and $2a$.
-
-### Solution to Review Problem 5
-
-Taking the difference: $a-2a=-a$.
-
-When $a> 0$, $-a< 0$, so $a< 2a$; when $a=0$, $a=2a$; when $a< 0$, $-a> 0$, so $a> 2a$. $\blacksquare$
-
-## Review Problem 6
-
-(Review Problems, Comprehensive Application, Problem 6) In a $5000\ \text{m}$ long-distance race, a student's best time is $16\ \text{min}\ 45\ \text{s}$. In this race he spent $10\ \text{min}\ 30\ \text{s}$ on the first $3000\ \text{m}$. At what average speed at least must he run the remaining $2000\ \text{m}$ to beat his best time?
-
-### Solution to Review Problem 6
-
-The remaining time is at most $16.75-10.5=6.25\ \text{min}$. Let the average speed on the remaining $2000\ \text{m}$ be $v\ \text{m/min}$; then $\frac{2000}{v}\le6.25$, giving $v\ge320\ \text{m/min}$. Hence it must be at least $320\ \text{m/min}$. $\blacksquare$
-
-## Review Problem 7
-
-(Review Problems, Comprehensive Application, Problem 7) An elevator has a rated load of $1050\ \text{kg}$. Two passengers weigh $70\ \text{kg}$ and $75\ \text{kg}$ respectively, a trolley weighs $21\ \text{kg}$, and each box of tiles weighs $51\ \text{kg}$. At most how many boxes of tiles can be loaded in one trip?
-
-### Solution to Review Problem 7
-
-Let $x$ be the number of boxes of tiles loaded. By the statement
+(1) Transposing terms gives $x^2+10x=-9$; completing the square,
 
 $$
-70+75+21+51x\le1050,
+\left(x+5\right)^2=-9+25=16.
 $$
 
-i.e. $166+51x\le1050$, $51x\le884$, giving $x\le17.3$. Hence at most $17$ boxes of tiles can be loaded in one trip. $\blacksquare$
+Hence $x+5=\pm4$, i.e. $x_1=-1$, $x_2=-9$.
 
-## Review Problem 8
-
-(Review Problems, Comprehensive Application, Problem 8) In a basketball game, a team's free throws score $10$ points in total, and it made a total of $48$ shots of $2$-point and $3$-point types. If the total score exceeds $110$ points, at least how many $3$-point shots were made?
-
-### Solution to Review Problem 8
-
-Let $x$ be the number of $3$-point shots made; then the number of $2$-point shots is $\left(48-x\right)$. By the statement
+(2) Transposing terms gives $x^2-x=\frac74$; completing the square,
 
 $$
-10+3x+2\left(48-x\right)> 110,
+\left(x-\frac12\right)^2=\frac74+\frac14=2.
 $$
 
-i.e. $106+x> 110$, giving $x> 4$. Hence at least $5$ $3$-point shots were made. $\blacksquare$
+Hence $x-\frac12=\pm\sqrt2$, i.e. $x=\frac12\pm\sqrt2$.
 
-## Review Problem 9
-
-(Review Problems, Comprehensive Application, Problem 9) A dealer buys a total of $20$ type-A and type-B cars. Type-A costs $27$ ten-thousand yuan to buy and sells for $27.8$ ten-thousand yuan; type-B costs $24.4$ ten-thousand yuan to buy and sells for $25.8$ ten-thousand yuan. If the profit after selling them all exceeds $20.5$ ten-thousand yuan, at most how many type-A cars were bought?
-
-### Solution to Review Problem 9
-
-Let $x$ be the number of type-A cars bought; then the number of type-B cars is $\left(20-x\right)$. The profit on each type-A car is $0.8$ ten-thousand yuan, and on each type-B car is $1.4$ ten-thousand yuan. By the statement
+(3) Transposing terms and making the coefficient $1$ gives $x^2+2x=\frac43$; completing the square,
 
 $$
-0.8x+1.4\left(20-x\right)> 20.5,
+\left(x+1\right)^2=\frac43+1=\frac73.
 $$
 
-i.e. $28-0.6x> 20.5$, giving $x< 12.5$. Hence at most $12$ type-A cars were bought. $\blacksquare$
+Hence $x+1=\pm\sqrt{\frac73}=\pm\frac{\sqrt{21}}{3}$, i.e. $x=-1\pm\frac{\sqrt{21}}{3}$.
 
-## Review Problem 10
+(4) Transposing terms and making the coefficient $1$ gives $x^2-\frac32x=\frac34$; completing the square,
 
-(Review Problems, Extension and Exploration, Problem 10) A calculation program: input $x$, output $4x+1$; if the result is greater than $85$, stop; otherwise take the result as the new $x$ and input it again.
+$$
+\left(x-\frac34\right)^2=\frac34+\frac9{16}=\frac{21}{16}.
+$$
 
-(1) It stops after inputting $x$ once; find the range of $x$;
+Hence $x-\frac34=\pm\frac{\sqrt{21}}4$, i.e. $x=\frac{3\pm\sqrt{21}}4$.
 
-(2) It stops after inputting $x$ twice; find the range of $x$.
+(5) Transposing terms and combining like terms gives $x^2+2x=-2$; completing the square gives $\left(x+1\right)^2=-1$. By Basic Knowledge, the right side $-1< 0$, whereas $\left(x+1\right)^2\ge0$, so the original equation has no real root.
 
-### Solution to Review Problem 10
+(6) Removing parentheses and transposing terms gives $x^2-4x=4$; completing the square,
 
-(1) Stops once: $4x+1> 85$, giving $x> 21$.
+$$
+\left(x-2\right)^2=8.
+$$
 
-(2) Stops twice: the first does not satisfy $4x+1\le85$, i.e. $x\le21$; the second $4\left(4x+1\right)+1> 85$, i.e. $16x+5> 85$, $x> 5$. Hence $5< x\le21$. $\blacksquare$
+Hence $x-2=\pm2\sqrt2$, i.e. $x=2\pm2\sqrt2$. $\blacksquare$
 
-## Review Problem 11
+## Problem 1
 
-(Review Problems, Extension and Exploration, Problem 11) Two people, A and B, each carry a bucket to draw water from the same tap; A needs $a\ \text{min}$ to draw water and B needs $b\ \text{min}$. How should the order of the two be arranged so that the total time spent by both (from the start until both have finished drawing water) is minimized?
+(Exercise 25.2, Review and Consolidation, Problem 1) Solve the following equations:
 
-### Solution to Review Problem 11
+(1) $36x^2-1=0$;
 
-If A draws first: the total time is $a+\left(a+b\right)=2a+b$.
+(2) $4x^2=49$;
 
-If B draws first: the total time is $b+\left(a+b\right)=a+2b$.
+(3) $\left(x+5\right)^2=25$;
 
-The difference between the two is $\left(2a+b\right)-\left(a+2b\right)=a-b$. When $a< b$, A drawing first gives less total time; when $a> b$, B drawing first gives less total time. Hence the person with the shorter drawing time should go first. $\blacksquare$
+(4) $x^2+2x+1=4$.
+
+### Solution to Problem 1
+
+Put the equations in the form $x^2=p$ or $\left(x+n\right)^2=p$, and take square roots by Basic Knowledge and Basic Knowledge.
+
+(1) Transposing terms and making the coefficient $1$ gives $x^2=\frac1{36}$, hence $x=\pm\frac16$.
+
+(2) Making the coefficient $1$ gives $x^2=\frac{49}4$, hence $x=\pm\frac72$.
+
+(3) From $\left(x+5\right)^2=25$, $x+5=\pm5$, hence $x_1=0$, $x_2=-10$.
+
+(4) Writing the left side as a perfect square gives $\left(x+1\right)^2=4$, hence $x+1=\pm2$, i.e. $x_1=1$, $x_2=-3$. $\blacksquare$
+
+## Problem 2
+
+(Exercise 25.2, Review and Consolidation, Problem 2) Fill in the blanks:
+
+(1) $x^2+6x+\;\_\_\_\;=\left(x+\;\_\_\_\;\right)^2$;
+
+(2) $x^2-x+\;\_\_\_\;=\left(x-\;\_\_\_\;\right)^2$;
+
+(3) $4x^2+4x+\;\_\_\_\;=\left(2x+\;\_\_\_\;\right)^2$;
+
+(4) $x^2-\frac25x+\;\_\_\_\;=\left(x-\;\_\_\_\;\right)^2$.
+
+### Solution to Problem 2
+
+By Method of Completing the Square, add the square of half the linear coefficient.
+
+(1) The linear coefficient is $6$; the square of half is $3^2=9$, so $x^2+6x+9=\left(x+3\right)^2$.
+
+(2) The linear coefficient is $-1$; the square of half is $\left(-\frac12\right)^2=\frac14$, so $x^2-x+\frac14=\left(x-\frac12\right)^2$.
+
+(3) $4x^2+4x=\left(2x\right)^2+2\cdot\left(2x\right)\cdot1$; by $\left(a+b\right)^2=a^2+2ab+b^2$, $4x^2+4x+1=\left(2x+1\right)^2$.
+
+(4) The linear coefficient is $-\frac25$; the square of half is $\left(-\frac15\right)^2=\frac1{25}$, so $x^2-\frac25x+\frac1{25}=\left(x-\frac15\right)^2$. $\blacksquare$
+
+## Problem 3
+
+(Exercise 25.2, Review and Consolidation, Problem 3) Solve the following equations by completing the square:
+
+(1) $x^2+10x+16=0$;
+
+(2) $x^2-x-\frac34=0$;
+
+(3) $3x^2+6x-5=0$;
+
+(4) $4x^2-x-9=0$.
+
+### Solution to Problem 3
+
+By Method of Completing the Square, transpose terms and complete the square, then take square roots by Basic Knowledge.
+
+(1) Transposing terms gives $x^2+10x=-16$; completing the square gives $\left(x+5\right)^2=9$, hence $x+5=\pm3$, i.e. $x_1=-2$, $x_2=-8$.
+
+(2) Transposing terms gives $x^2-x=\frac34$; completing the square gives $\left(x-\frac12\right)^2=1$, hence $x-\frac12=\pm1$, i.e. $x_1=\frac32$, $x_2=-\frac12$.
+
+(3) Transposing terms and making the coefficient $1$ gives $x^2+2x=\frac53$; completing the square,
+
+$$
+\left(x+1\right)^2=\frac53+1=\frac83.
+$$
+
+Hence $x+1=\pm\sqrt{\frac83}=\pm\frac{2\sqrt6}{3}$, i.e. $x=-1\pm\frac{2\sqrt6}{3}$.
+
+(4) Transposing terms and making the coefficient $1$ gives $x^2-\frac14x=\frac94$; completing the square,
+
+$$
+\left(x-\frac18\right)^2=\frac94+\frac1{64}=\frac{145}{64}.
+$$
+
+Hence $x-\frac18=\pm\frac{\sqrt{145}}8$, i.e. $x=\frac{1\pm\sqrt{145}}8$. $\blacksquare$
+
+## Exercise 3
+
+(Exercise 25.2, Problem 3) Solve the following equations by the formula method:
+
+(1) $x^2+x-6=0$;
+
+(2) $x^2-\sqrt3\,x-\frac14=0$;
+
+(3) $3x^2-6x+4=0$;
+
+(4) $2x^2-3x=0$;
+
+(5) $x^2+4x+8=4x+11$;
+
+(6) $x\left(2x-4\right)=5-8x$.
+
+### Solution to Exercise 3
+
+First put the equation in general form, determine $a,b,c$, use Basic Knowledge to compute $\Delta=b^2-4ac$, use Basic Knowledge to determine the nature of the roots, then use Quadratic Formula to find the roots.
+
+(1) $a=1$, $b=1$, $c=-6$, $\Delta=1^2-4\cdot1\cdot\left(-6\right)=25> 0$, hence
+
+$$
+x=\frac{-1\pm\sqrt{25}}2=\frac{-1\pm5}2,
+$$
+
+i.e. $x_1=2$, $x_2=-3$.
+
+(2) $a=1$, $b=-\sqrt3$, $c=-\frac14$, $\Delta=\left(-\sqrt3\right)^2-4\cdot1\cdot\left(-\frac14\right)=4> 0$, hence
+
+$$
+x=\frac{\sqrt3\pm\sqrt4}{2}=\frac{\sqrt3\pm2}2.
+$$
+
+(3) $a=3$, $b=-6$, $c=4$, $\Delta=\left(-6\right)^2-4\cdot3\cdot4=36-48=-12< 0$. By Basic Knowledge, the original equation has no real root.
+
+(4) $a=2$, $b=-3$, $c=0$, $\Delta=\left(-3\right)^2-0=9> 0$, hence $x=\frac{3\pm3}{4}$, i.e. $x_1=\frac32$, $x_2=0$.
+
+(5) Transposing terms and combining like terms gives $x^2-3=0$. $a=1$, $b=0$, $c=-3$, $\Delta=12> 0$, hence $x=\pm\sqrt3$.
+
+(6) Removing parentheses and transposing terms gives $2x^2+4x-5=0$. $a=2$, $b=4$, $c=-5$, $\Delta=16+40=56> 0$, hence
+
+$$
+x=\frac{-4\pm\sqrt{56}}{4}=\frac{-4\pm2\sqrt{14}}4=\frac{-2\pm\sqrt{14}}2. \blacksquare
+$$
+
+## Exercise 4
+
+(Exercise 25.2, Problem 4, Part (1)) Solve the following equations:
+
+(1) $x^2+x=0$;
+
+(2) $x^2-2\sqrt3\,x=0$;
+
+(3) $3x^2-6x=-3$;
+
+(4) $4x^2-81=0$;
+
+(5) $3x\left(2x+1\right)=4x+2$;
+
+(6) $\left(x-4\right)^2=\left(5-2x\right)^2$.
+
+### Solution to Exercise 4
+
+By Factoring Method, put one side of the equation as the product of two linear factors and the other side as $0$, then set each factor equal to $0$ by Basic Knowledge.
+
+(1) Factoring the left side gives $x\left(x+1\right)=0$, hence $x=0$ or $x+1=0$, i.e. $x_1=0$, $x_2=-1$.
+
+(2) Factoring the left side gives $x\left(x-2\sqrt3\right)=0$, hence $x_1=0$, $x_2=2\sqrt3$.
+
+(3) Transposing terms gives $3x^2-6x+3=0$, i.e. $3\left(x-1\right)^2=0$, hence $x_1=x_2=1$.
+
+(4) By the difference-of-squares formula, $\left(2x+9\right)\left(2x-9\right)=0$, hence $2x+9=0$ or $2x-9=0$, i.e. $x=\pm\frac92$.
+
+(5) Factoring the right side gives $4x+2=2\left(2x+1\right)$; transposing terms gives $3x\left(2x+1\right)-2\left(2x+1\right)=0$, i.e. $\left(2x+1\right)\left(3x-2\right)=0$, hence $2x+1=0$ or $3x-2=0$, i.e. $x_1=-\frac12$, $x_2=\frac23$.
+
+(6) Transposing terms gives $\left(x-4\right)^2-\left(5-2x\right)^2=0$; by the difference-of-squares formula,
+
+$$
+\left[\left(x-4\right)-\left(5-2x\right)\right]\left[\left(x-4\right)+\left(5-2x\right)\right]=0,
+$$
+
+i.e. $\left(3x-9\right)\left(1-x\right)=0$, hence $3x-9=0$ or $1-x=0$, i.e. $x_1=3$, $x_2=1$. $\blacksquare$
+
+## Exercise 5
+
+(Exercise 25.2, Problem 4, Part (2)) As shown in the figure, increasing the radius of a small circular field by $5\ \text{m}$ gives a large circular field; the ratio of the large field's area to the small field's area is $9:4$. Find the radius of the small field.
+
+### Solution to Exercise 5
+
+Let the small field's radius be $r\ \text{m}$; then the large field's radius is $\left(r+5\right)\ \text{m}$. By the circle-area formula and the ratio $9:4$ of the two areas,
+
+$$
+\frac{\pi\left(r+5\right)^2}{\pi r^2}=\frac94.
+$$
+
+Canceling $\pi$ gives $\frac{\left(r+5\right)^2}{r^2}=\frac94$. Since radii are positive, taking the positive square root of both sides gives $\frac{r+5}{r}=\frac32$. Hence $2\left(r+5\right)=3r$, solving gives
+
+$$
+r=10.
+$$
+
+Hence the small field's radius is $10\ \text{m}$. $\blacksquare$
+
+## Problem 4
+
+(Exercise 25.2, Review and Consolidation, Problem 4) Use the discriminant to determine the nature of the roots of the following equations:
+
+(1) $2x^2-3x-\frac32=0$;
+
+(2) $16x^2-24x+9=0$;
+
+(3) $x^2-4\sqrt2\,x+9=0$;
+
+(4) $3x+10=2x^2+8x$.
+
+### Solution to Problem 4
+
+By Basic Knowledge, compute $\Delta=b^2-4ac$, then determine the nature of the roots by Basic Knowledge.
+
+(1) $a=2$, $b=-3$, $c=-\frac32$, $\Delta=\left(-3\right)^2-4\cdot2\cdot\left(-\frac32\right)=9+12=21> 0$, so the equation has two unequal real roots.
+
+(2) $a=16$, $b=-24$, $c=9$, $\Delta=\left(-24\right)^2-4\cdot16\cdot9=576-576=0$, so the equation has two equal real roots.
+
+(3) $a=1$, $b=-4\sqrt2$, $c=9$, $\Delta=\left(-4\sqrt2\right)^2-4\cdot1\cdot9=32-36=-4< 0$, so the equation has no real root.
+
+(4) Transposing terms and combining like terms gives $2x^2+5x-10=0$. $a=2$, $b=5$, $c=-10$, $\Delta=25-4\cdot2\cdot\left(-10\right)=25+80=105> 0$, so the equation has two unequal real roots. $\blacksquare$
+
+## Problem 5
+
+(Exercise 25.2, Review and Consolidation, Problem 5) Solve the following equations by the formula method:
+
+(1) $x^2+x-12=0$;
+
+(2) $x^2-\sqrt2\,x-\frac14=0$;
+
+(3) $x\left(x-4\right)=2-8x$;
+
+(4) $x^2+2\sqrt5\,x+10=0$.
+
+### Solution to Problem 5
+
+Use Basic Knowledge to find $\Delta$, and Quadratic Formula to find the roots.
+
+(1) $a=1$, $b=1$, $c=-12$, $\Delta=1+48=49> 0$, hence $x=\frac{-1\pm7}{2}$, i.e. $x_1=3$, $x_2=-4$.
+
+(2) $a=1$, $b=-\sqrt2$, $c=-\frac14$, $\Delta=2+1=3> 0$, hence $x=\frac{\sqrt2\pm\sqrt3}{2}$.
+
+(3) Removing parentheses and transposing terms gives $x^2+4x-2=0$. $a=1$, $b=4$, $c=-2$, $\Delta=16+8=24> 0$, hence $x=\frac{-4\pm2\sqrt6}{2}=-2\pm\sqrt6$.
+
+(4) $a=1$, $b=2\sqrt5$, $c=10$, $\Delta=\left(2\sqrt5\right)^2-40=20-40=-20< 0$. By Basic Knowledge, the equation has no real root. $\blacksquare$
+
+## Problem 6
+
+(Exercise 25.2, Review and Consolidation, Problem 6) Solve the following equations by the factoring method:
+
+(1) $3x^2-12x=-12$;
+
+(2) $4x^2-144=0$;
+
+(3) $3x\left(x-1\right)=2\left(x-1\right)$;
+
+(4) $\left(2x-1\right)^2=\left(3-x\right)^2$.
+
+### Solution to Problem 6
+
+Factor by Factoring Method, then set each factor equal to $0$ by Basic Knowledge.
+
+(1) Transposing terms gives $3x^2-12x+12=0$, i.e. $3\left(x-1\right)^2=0$, hence $x_1=x_2=2$.
+
+(2) Transposing terms gives $x^2=36$, i.e. $\left(x+6\right)\left(x-6\right)=0$, hence $x_1=6$, $x_2=-6$.
+
+(3) Transposing terms gives $3x\left(x-1\right)-2\left(x-1\right)=0$, i.e. $\left(x-1\right)\left(3x-2\right)=0$, hence $x-1=0$ or $3x-2=0$, i.e. $x_1=1$, $x_2=\frac23$.
+
+(4) Transposing terms gives $\left(2x-1\right)^2-\left(3-x\right)^2=0$; by the difference-of-squares formula,
+
+$$
+\left[\left(2x-1\right)-\left(3-x\right)\right]\left[\left(2x-1\right)+\left(3-x\right)\right]=0,
+$$
+
+i.e. $\left(3x-4\right)\left(x+2\right)=0$, hence $3x-4=0$ or $x+2=0$, i.e. $x_1=\frac43$, $x_2=-2$. $\blacksquare$
+
+## Exercise 6
+
+(Exercise 25.2, Problem 5) Without solving the equation, find the sum and product of the two roots $x_1,x_2$ of the following equations:
+
+(1) $x^2-3x=15$;
+
+(2) $3x^2+2=1-4x$;
+
+(3) $5x^2-1=4x^2-x$;
+
+(4) $2x^2-x+2=3x+1$.
+
+### Solution to Exercise 6
+
+First put each equation in general form $ax^2+bx+c=0$, and directly use Relation Between Roots and Coefficients to find $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$.
+
+(1) Transposing terms gives $x^2-3x-15=0$, hence $x_1+x_2=3$, $x_1x_2=-15$.
+
+(2) Transposing terms and combining like terms gives $3x^2+4x+1=0$, hence $x_1+x_2=-\frac43$, $x_1x_2=\frac13$.
+
+(3) Transposing terms and combining like terms gives $x^2+x-1=0$, hence $x_1+x_2=-1$, $x_1x_2=-1$.
+
+(4) Transposing terms and combining like terms gives $2x^2-4x+1=0$, hence $x_1+x_2=2$, $x_1x_2=\frac12$. $\blacksquare$
+
+## Problem 7
+
+(Exercise 25.2, Review and Consolidation, Problem 7) Find the sum and product of the two roots $x_1,x_2$ of the following equations:
+
+(1) $x^2-3x+2=10$;
+
+(2) $5x^2+x-5=0$;
+
+(3) $x^2+x=56$;
+
+(4) $7x^2-5=x+8$.
+
+### Solution to Problem 7
+
+First put in general form, then find the sum and product by Relation Between Roots and Coefficients.
+
+(1) Transposing terms gives $x^2-3x-8=0$, hence $x_1+x_2=3$, $x_1x_2=-8$.
+
+(2) $a=5$, $b=1$, $c=-5$, hence $x_1+x_2=-\frac15$, $x_1x_2=-1$.
+
+(3) Transposing terms gives $x^2+x-56=0$, hence $x_1+x_2=-1$, $x_1x_2=-56$.
+
+(4) Transposing terms and combining like terms gives $7x^2-x-13=0$, hence $x_1+x_2=\frac17$, $x_1x_2=-\frac{13}{7}$. $\blacksquare$
+
+## Problem 8
+
+(Exercise 25.2, Comprehensive Application, Problem 8) The two legs of a right triangle differ in length by $5$, and its area is $7$; find the length of the hypotenuse.
+
+### Solution to Problem 8
+
+Let the two legs be $a,b$ (take $a> b$ without loss of generality); then $a-b=5$, and since the area is $\frac12ab=7$,
+
+$$
+ab=14.
+$$
+
+By the Pythagorean theorem, the hypotenuse $c$ satisfies $c^2=a^2+b^2$. From $\left(a-b\right)^2=a^2-2ab+b^2$,
+
+$$
+a^2+b^2=\left(a-b\right)^2+2ab=5^2+2\times14=25+28=53.
+$$
+
+Hence $c^2=53$, and the hypotenuse is $c=\sqrt{53}$. $\blacksquare$
+
+## Problem 9
+
+(Exercise 25.2, Comprehensive Application, Problem 9) Solve the following equations by an appropriate method:
+
+(1) $3x^2=54$;
+
+(2) $x^2-4=8$;
+
+(3) $3x^2-1=2x$;
+
+(4) $x^2-6x+9=\left(5-2x\right)^2$.
+
+### Solution to Problem 9
+
+Choose direct square-root extraction or the factoring method according to the form of each equation.
+
+(1) Making the coefficient $1$ gives $x^2=18$, hence $x=\pm3\sqrt2$.
+
+(2) Transposing terms gives $x^2=12$, hence $x=\pm2\sqrt3$.
+
+(3) Transposing terms gives $3x^2-2x-1=0$; factoring gives $\left(3x+1\right)\left(x-1\right)=0$, hence $x_1=1$, $x_2=-\frac13$.
+
+(4) Writing the left side as $\left(x-3\right)^2$ and transposing terms gives $\left(x-3\right)^2-\left(5-2x\right)^2=0$; by the difference-of-squares formula,
+
+$$
+\left[\left(x-3\right)-\left(5-2x\right)\right]\left[\left(x-3\right)+\left(5-2x\right)\right]=0,
+$$
+
+i.e. $\left(3x-8\right)\left(2-x\right)=0$, hence $x_1=\frac83$, $x_2=2$. $\blacksquare$
+
+## Problem 10
+
+(Exercise 25.2, Comprehensive Application, Problem 10) No matter what value $p$ takes, does the equation $\left(x-3\right)\left(x-2\right)-p^2=0$ always have two unequal real roots? If so, find the two roots; if not, explain why.
+
+### Solution to Problem 10
+
+First put the equation in general form and compute the discriminant. Removing parentheses,
+
+$$
+x^2-5x+6-p^2=0.
+$$
+
+Its discriminant is
+
+$$
+\Delta=\left(-5\right)^2-4\cdot1\cdot\left(6-p^2\right)=25-24+4p^2=1+4p^2.
+$$
+
+Since $p^2\ge0$ for every real number $p$, $1+4p^2\ge1> 0$, i.e. $\Delta> 0$ always holds. Hence no matter what value $p$ takes, the equation always has two unequal real roots.
+
+By the quadratic formula, the two roots are
+
+$$
+x=\frac{5\pm\sqrt{1+4p^2}}2. \blacksquare
+$$
+
+## Problem 11
+
+(Exercise 25.2, Extension and Exploration, Problem 11) Given that the two roots of $2x^2-6x+3=0$ are $x_1,x_2$, find the values of:
+
+(1) $\frac1{x_1}+\frac1{x_2}$;
+
+(2) $x_1^2+x_2^2$.
+
+### Solution to Problem 11
+
+By Relation Between Roots and Coefficients, for $2x^2-6x+3=0$, $a=2$, $b=-6$, $c=3$, hence
+
+$$
+x_1+x_2=-\frac{-6}{2}=3,\quad x_1x_2=\frac32.
+$$
+
+(1) Taking a common denominator,
+
+$$
+\frac1{x_1}+\frac1{x_2}=\frac{x_1+x_2}{x_1x_2}=\frac{3}{3/2}=2.
+$$
+
+(2) From $\left(x_1+x_2\right)^2=x_1^2+2x_1x_2+x_2^2$,
+
+$$
+x_1^2+x_2^2=\left(x_1+x_2\right)^2-2x_1x_2=3^2-2\times\frac32=9-3=6. \blacksquare
+$$
+
+## Problem 12
+
+(Exercise 25.2, Extension and Exploration, Problem 12) (1) Since $x^3-8x^2+19x-12=\left(x-1\right)\left(x-3\right)\left(x-4\right)$, the numbers $1,3,4$ are the three roots of the cubic equation $x^3-8x^2+19x-12=0$. Compute $1+3+4$, $1\times3+3\times4+4\times1$, and $1\times3\times4$; what is their relation to the coefficients of $x^3-8x^2+19x-12=0$?
+
+(2) If the cubic equation $ax^3+bx^2+cx+d=0$ has three real roots $x_1,x_2,x_3$, then $ax^3+bx^2+cx+d$ can be written as $a\left(x-x_1\right)\left(x-x_2\right)\left(x-x_3\right)$. From this, can you discover the relation between $x_1,x_2,x_3$ and the coefficients $a,b,c,d$ of the cubic equation?
+
+### Solution to Problem 12
+
+(1) Computing,
+
+$$
+1+3+4=8,
+$$
+
+$$
+1\times3+3\times4+4\times1=3+12+4=19,
+$$
+
+$$
+1\times3\times4=12.
+$$
+
+In $x^3-8x^2+19x-12=0$, the quadratic coefficient is $-8$, the linear coefficient is $19$, and the constant term is $-12$. We see: the sum of the three roots, $8$, equals the negative of the quadratic coefficient; the sum of pairwise products, $19$, equals the linear coefficient; the product of the three roots, $12$, equals the negative of the constant term.
+
+(2) Expand $a\left(x-x_1\right)\left(x-x_2\right)\left(x-x_3\right)$. First expand the last two factors,
+
+$$
+\left(x-x_2\right)\left(x-x_3\right)=x^2-\left(x_2+x_3\right)x+x_2x_3,
+$$
+
+then multiply by $\left(x-x_1\right)$,
+
+$$
+a\left(x-x_1\right)\left(x-x_2\right)\left(x-x_3\right)=a\left[x^3-\left(x_1+x_2+x_3\right)x^2+\left(x_1x_2+x_2x_3+x_3x_1\right)x-x_1x_2x_3\right].
+$$
+
+Comparing corresponding coefficients with $ax^3+bx^2+cx+d$,
+
+$$
+x_1+x_2+x_3=-\frac ba,\quad x_1x_2+x_2x_3+x_3x_1=\frac ca,\quad x_1x_2x_3=-\frac da.
+$$
+
+This is the relation between roots and coefficients for a cubic equation. $\blacksquare$

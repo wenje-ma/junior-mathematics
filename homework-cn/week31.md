@@ -2,328 +2,322 @@
 
 ## 练习一
 
-(练习 7.2 第 1 题) 如图, 用直尺和三角尺画平行线:
-
-(1) 过点 $A$ 画 $MN\parallel BC$;
-
-(2) 过点 $C$ 画 $CE\parallel DA$, 与 $AB$ 交于点 $E$; 过点 $C$ 画 $CF\parallel DB$, 与 $AB$ 的延长线交于点 $F$.
+(练习 14.2 第 2 题) 如图, 点 $E$, $F$ 在 $BC$ 上, $BE=CF$, $AB=DC$, $\angle B=\angle C$. 求证 $\angle A=\angle D$.
 
 ### 解答 练习一
 
-由平行公理, 过直线外一点有且只有一条直线与已知直线平行.
+由 $BE=CF$, 得 $BE+EF=CF+EF$, 即 $BF=CE$. 在 $\triangle ABF$ 和 $\triangle DCE$ 中, $AB=DC$, $\angle B=\angle C$, $BF=CE$, 由SAS, $\triangle ABF\cong\triangle DCE$.
 
-(1) 把三角尺一边与 $BC$ 重合, 直尺靠紧三角尺另一边, 沿直尺推动三角尺使与 $BC$ 重合的边经过点 $A$, 沿该边画直线 $MN$, 则 $MN\parallel BC$.
-
-(2) 同法: 过点 $C$ 作 $CE\parallel DA$ 交 $AB$ 于 $E$, 过点 $C$ 作 $CF\parallel DB$ 交 $AB$ 的延长线于 $F$ 即得. $\blacksquare$
+由全等三角形的性质, 对应角 $\angle A=\angle D$. $\blacksquare$
 
 ## 练习二
 
-(练习 7.2 第 1 题) 如图, $E$ 是 $AB$ 上一点, $F$ 是 $DC$ 上一点, $G$ 是 $BC$ 的延长线上一点.
-
-(1) 如果 $\angle B=\angle DCG$, 那么可以判断哪两条直线平行? 为什么?
-
-(2) 如果 $\angle D=\angle DCG$, 那么可以判断哪两条直线平行? 为什么?
-
-(3) 如果 $\angle D+\angle DFE=180^\circ$, 那么可以判断哪两条直线平行? 为什么?
+(练习 14.2 第 1 题) 如图, $AB\perp BC$, $AD\perp DC$, 垂足分别为 $B$, $D$, 且 $\angle 1=\angle 2$. 求证 $AB=AD$.
 
 ### 解答 练习二
 
-由判定方法 1, 判定方法 2, 判定方法 3, 按两角是同位角, 内错角还是同旁内角判断.
+由 $AB\perp BC$, $AD\perp DC$, 得 $\angle B=\angle D=90^\circ$. 在 $\triangle ABC$ 和 $\triangle ADC$ 中, $\angle 1=\angle 2$, $\angle B=\angle D$, $AC$ 为公共边, 由AAS, $\triangle ABC\cong\triangle ADC$.
 
-(1) $\angle B$ 与 $\angle DCG$ 是直线 $AB$, $DC$ 被直线 $BG$ 所截得的同位角. 由 $\angle B=\angle DCG$, 根据同位角相等, 两直线平行, 可得 $AB\parallel DC$.
-
-(2) $\angle D$ 与 $\angle DCG$ 是直线 $AD$, $BG$ 被直线 $DC$ 所截得的内错角. 由 $\angle D=\angle DCG$, 根据内错角相等, 两直线平行, 可得 $AD\parallel BG$ (即 $AD\parallel BC$).
-
-(3) $\angle D$ 与 $\angle DFE$ 是直线 $AD$, $EF$ 被直线 $DC$ 所截得的同旁内角. 由 $\angle D+\angle DFE=180^\circ$, 根据同旁内角互补, 两直线平行, 可得 $AD\parallel EF$. $\blacksquare$
+由全等三角形的性质, 对应边 $AB=AD$. $\blacksquare$
 
 ## 练习三
 
-(练习 7.2 第 2 题) 如图, 木工常用角尺画平行线, 你能说出其中的道理吗?
+(练习 14.2 第 2 题) 如图, 要测量池塘两岸相对的两点 $A$, $B$ 的距离, 可在 $AB$ 的垂线 $BF$ 上取 $C$, $D$, 使 $BC=CD$, 再作 $BF$ 的垂线 $DE$, 使 $E$ 与 $A$, $C$ 在一条直线上, 这时测得 $DE$ 的长就是 $AB$ 的长, 为什么?
 
 ### 解答 练习三
 
-用角尺的一边靠紧木料的边缘直线, 沿另一边画出两条直线. 角尺保证画出的两条直线都与靠紧的边缘直线垂直, 即这两条直线被边缘直线所截得的同位角都等于 $90^\circ$.
+由 $AB\perp BF$, $DE\perp BF$, 得 $\angle B=\angle D=90^\circ$. 在 $\triangle ABC$ 和 $\triangle EDC$ 中, $BC=CD$, $\angle ACB=\angle ECD$ (对顶角), $\angle B=\angle D$, 由ASA, $\triangle ABC\cong\triangle EDC$.
 
-由判定方法 1, 同位角相等, 两直线平行, 故画出的两条直线互相平行. $\blacksquare$
+由全等三角形的性质, 对应边 $AB=DE$, 故测得的 $DE$ 长就是 $AB$ 的长. $\blacksquare$
 
 ## 练习四
 
-(练习 7.2 第 3 题) 在铺设钢轨时, 两条钢轨必须是互相平行的. 如图, 已知 $\angle 2$ 是直角, 要判断两条钢轨是否平行, 只需要再度量图中标出的哪个角? 为什么?
+(练习 14.2 第 1 题) 如图, $AC=BD$, $BC=AD$. 求证 $\angle ABC=\angle BAD$.
 
 ### 解答 练习四
 
-两条钢轨被轨枕所截. 已知 $\angle 2=90^\circ$.
+在 $\triangle ABC$ 和 $\triangle BAD$ 中, $AC=BD$, $BC=AD$, $AB$ 为公共边, 由SSS, $\triangle ABC\cong\triangle BAD$.
 
-由判定方法 1, 只要再量出与 $\angle 2$ 成同位角的那个角也等于 $90^\circ$, 即可判定两钢轨平行. 故只需再度量与 $\angle 2$ 成同位角的那个角; 若它等于 $90^\circ$, 由同位角相等, 两直线平行, 即可知两钢轨平行. $\blacksquare$
+由全等三角形的性质, 对应角 $\angle ABC=\angle BAD$. $\blacksquare$
 
 ## 练习五
 
-(练习 7.2 第 4 题) 如图是两条道路互相垂直的交叉路口, 你能画出它的平面示意图 (用两条平行线段表示一条道路) 吗? 你能用类似的方法, 画出两条道路成 $45^\circ$ 角的交叉路口的平面示意图吗?
+(练习 14.2 第 2 题) 工人师傅用角尺平分任意角: 在 $\angle AOB$ 的边 $OA$, $OB$ 上分别取 $OM=ON$, 移动角尺使角尺两边相同刻度分别与 $M$, $N$ 重合, 过角尺顶点 $C$ 的射线 $OC$ 便是平分线, 为什么?
 
 ### 解答 练习五
 
-用两条平行线段表示一条道路的两边, 两组平行线段互相交叉. 互相垂直时, 两组平行线段成 $90^\circ$; 成 $45^\circ$ 时, 两组平行线段成 $45^\circ$. 按上述方式画出交叉路口的平面示意图即可. $\blacksquare$
+在 $\triangle OMC$ 和 $\triangle ONC$ 中, $OM=ON$, $CM=CN$ (角尺相同刻度), $OC$ 为公共边, 由SSS, $\triangle OMC\cong\triangle ONC$.
+
+由全等三角形的性质, 对应角 $\angle MOC=\angle NOC$, 故 $OC$ 平分 $\angle AOB$. $\blacksquare$
 
 ## 练习六
 
-(练习 7.2 第 1 题) 如图, 直线 $a\parallel b$, $\angle 1=54^\circ$, $\angle 2$, $\angle 3$, $\angle 4$ 各是多少度?
-
-图中为两条平行直线 $a$, $b$ 被一条截线所截:在 $a$ 与截线的交点处标出 $\angle 1$ 及其对顶角 $\angle 2$, 在 $b$ 与截线的交点处标出与 $\angle 1$ 成内错角的 $\angle 3$ 和与 $\angle 1$ 成同旁内角的 $\angle 4$.
+(练习 14.2 第 1 题) 如图, $C$ 是路段 $AB$ 的中点, 两人从 $C$ 同时出发, 以相同速度分别沿两条直线行走, 同时到达 $D$, $E$, 且 $DA\perp AB$, $EB\perp AB$. $D$, $E$ 到路段 $AB$ 的距离相等吗? 为什么?
 
 ### 解答 练习六
 
-由性质 1,性质 2,性质 3, 两直线平行时相应角的关系如下.
+相等. 由 $C$ 是 $AB$ 中点, 得 $CA=CB$. 两人速度相同且同时到达, 故 $CD=CE$. 在 $\text{Rt}\triangle ACD$ 和 $\text{Rt}\triangle BCE$ 中, 斜边 $CD=CE$, 直角边 $CA=CB$, 由HL, $\text{Rt}\triangle ACD\cong\text{Rt}\triangle BCE$.
 
-$\angle 1$ 与 $\angle 2$ 是对顶角, 由对顶角相等, $\angle 2=\angle 1=54^\circ$.
-
-$\angle 1$ 与 $\angle 3$ 是直线 $a$, $b$ 被截线所截得的内错角, 由性质 2, 两直线平行, 内错角相等, $\angle 3=\angle 1=54^\circ$.
-
-$\angle 1$ 与 $\angle 4$ 是同旁内角, 由性质 3, 两直线平行, 同旁内角互补, $\angle 4=180^\circ-\angle 1=180^\circ-54^\circ=126^\circ$.
-
-故 $\angle 2=54^\circ$, $\angle 3=54^\circ$, $\angle 4=126^\circ$. $\blacksquare$
+由基础知识, 对应直角边 $AD=BE$, 即 $D$, $E$ 到路段 $AB$ 的距离相等. $\blacksquare$
 
 ## 练习七
 
-(练习 7.2 第 2 题) 如图, 在三角形 $ABC$ 中, $D$ 是 $AB$ 上一点, $E$ 是 $AC$ 上一点, $\angle ADE=60^\circ$, $\angle B=60^\circ$, $\angle AED=40^\circ$.
-
-(1) $DE$ 和 $BC$ 平行吗? 为什么?
-
-(2) $\angle C$ 是多少度? 为什么?
+(练习 14.2 第 2 题) 如图, $AB=CD$, $AE\perp BC$, $DF\perp BC$, 垂足分别为 $E$, $F$, $CE=BF$. 求证 $AE=DF$.
 
 ### 解答 练习七
 
-(1) $DE\parallel BC$.
+由 $AE\perp BC$, $DF\perp BC$, 得 $\angle AEB=\angle DFC=90^\circ$. 由 $CE=BF$, 得 $CE-EF=BF-EF$, 即 $CF=BE$. 在 $\text{Rt}\triangle ABE$ 和 $\text{Rt}\triangle DCF$ 中, 斜边 $AB=CD$, 直角边 $BE=CF$, 由HL, $\text{Rt}\triangle ABE\cong\text{Rt}\triangle DCF$.
 
-$\angle ADE$ 与 $\angle B$ 是直线 $DE$, $BC$ 被直线 $AB$ 所截得的同位角, 由 $\angle ADE=60^\circ=\angle B$, 根据判定方法 1, 同位角相等, 两直线平行, 故 $DE\parallel BC$.
-
-(2) $\angle C=40^\circ$.
-
-已证 $DE\parallel BC$, $\angle AED$ 与 $\angle C$ 是直线 $DE$, $BC$ 被直线 $AC$ 所截得的同位角, 由性质 1, 两直线平行, 同位角相等, 故 $\angle C=\angle AED=40^\circ$. $\blacksquare$
-
-## 练习八
-
-(练习 7.2 第 3 题) 将一个直角三角尺与两边平行的纸条如图放置, 则下列结论正确的是\_\_\_\_ (填序号).
-
-(1) $\angle 1=\angle 2$;　(2) $\angle 4+\angle 5=180^\circ$;　(3) $\angle 1+\angle 4=90^\circ$;　(4) $\angle 4+90^\circ=\angle 3$.
-
-### 解答 练习八
-
-纸条的两边平行. 直角三角尺的直角为 $90^\circ$.
-
-$\angle 1$ 与 $\angle 2$ 是两平行边被三角尺一边所截得的同位角, 由性质 1, $\angle 1=\angle 2$, 故 (1) 正确.
-
-$\angle 4$ 与 $\angle 5$ 是两平行边被三角尺另一边所截得的同旁内角, 由性质 3, 两直线平行, 同旁内角互补, $\angle 4+\angle 5=180^\circ$, 故 (2) 正确.
-
-三角尺的直角与 $\angle 1$, $\angle 4$ 拼成平角, 即 $\angle 1+90^\circ+\angle 4=180^\circ$, 故 $\angle 1+\angle 4=90^\circ$, (3) 正确.
-
-$\angle 3$ 与 $\angle 4$ 的邻补角成同位角关系, 推得 $\angle 3=180^\circ-\angle 4$, 即 $\angle 4+\angle 3=180^\circ$, 与 $\angle 4+90^\circ=\angle 3$ 不符, 故 (4) 错误.
-
-综上, 正确的是 (1)(2)(3). $\blacksquare$
-
-## 练习九
-
-(练习 7.2 第 1 题) 如图, 如果直线 $a\parallel b$, $\angle 1+\angle 2=180^\circ$, 那么直线 $b$ 和 $c$ 平行吗? 为什么?
-
-### 解答 练习九
-
-直线 $b\parallel c$.
-
-由 $a\parallel b$, 设 $\angle 1$ 的对顶角 (或同位角) 与 $a$, $b$ 被截所成的相应角相等. $\angle 1+\angle 2=180^\circ$, 而 $\angle 1$ 的邻补角与 $\angle 1$ 也互补, 故 $\angle 2$ 等于 $\angle 1$ 的邻补角的对顶角. 由此推得直线 $b$, $c$ 被第三条直线所截的同位角 (或同旁内角) 满足平行条件.
-
-具体地, 由 $a\parallel b$ 得 $\angle 1$ 的同位角等于 $\angle 1$, 它与 $\angle 2$ 互补, 即 $\angle 1+\angle 2=180^\circ$ 给出 $b$, $c$ 被截的同旁内角互补, 由判定方法 3, 同旁内角互补, 两直线平行, 故 $b\parallel c$. $\blacksquare$
-
-## 练习十
-
-(练习 7.2 第 2 题) 如图, $AB\parallel CD$, 且 $\angle 1=\angle 2$, 那么直线 $BE$ 与 $CF$ 平行吗? 为什么?
-
-### 解答 练习十
-
-$BE\parallel CF$.
-
-由 $AB\parallel CD$, 设 $BC$ 为截线, 则 $\angle ABC=\angle BCD$ (两直线平行, 内错角相等). 又 $\angle 1=\angle 2$, 故
-
-$$
-\angle ABC-\angle 1=\angle BCD-\angle 2,
-$$
-
-即 $\angle EBC=\angle BCF$. 这两个角是直线 $BE$, $CF$ 被直线 $BC$ 所截得的内错角. 由判定方法 2, 内错角相等, 两直线平行, 故 $BE\parallel CF$. $\blacksquare$
+由基础知识, 对应直角边 $AE=DF$. $\blacksquare$
 
 ## 习题一
 
-(习题 7.2 复习巩固第 1 题) 读下列语句, 并画出图形:
-
-(1) 直线 $AB$ 垂直于 $CD$, 垂足是 $O$, 点 $P$ 是直线 $AB$ 上一点, 直线 $EF$ 经过点 $P$ 且与直线 $CD$ 平行;
-
-(2) 直线 $AB$, $CD$ 相交于点 $O$, 点 $P$ 是直线 $AB$, $CD$ 外的一点, 直线 $PE$ 与直线 $CD$ 平行, 且与直线 $AB$ 相交于点 $E$.
+(习题 14.2 复习巩固第 1 题) 如图, $M$ 是 $AB$ 的中点, $\angle AMC=\angle BMD$, $MC=MD$. 求证 $AC=BD$.
 
 ### 解答 习题一
 
-按语句逐步作图: 先画已知直线及交点, 再由平行公理 过指定点画平行线, 标出交点即得符合语句的图形. $\blacksquare$
+由 $M$ 是 $AB$ 中点, 得 $AM=BM$. 在 $\triangle AMC$ 和 $\triangle BMD$ 中, $AM=BM$, $\angle AMC=\angle BMD$, $MC=MD$, 由SAS, $\triangle AMC\cong\triangle BMD$.
+
+由基础知识, 对应边 $AC=BD$. $\blacksquare$
 
 ## 习题二
 
-(习题 7.2 复习巩固第 2 题) 如图, 为了加固房屋, 要在屋架上加一根横梁 $DE$, 使 $DE\parallel BC$. 如果 $\angle ABC=31^\circ$, $\angle ADE$ 应为多少度?
+(习题 14.2 复习巩固第 2 题) 如图, $AB=AC$, $AD=AE$. 求证 $\angle B=\angle C$.
 
 ### 解答 习题二
 
-$DE\parallel BC$, 直线 $AB$ 为截线, $\angle ADE$ 与 $\angle ABC$ 是同位角. 由性质 1, 两直线平行, 同位角相等, 故
+在 $\triangle ABE$ 和 $\triangle ACD$ 中, $AB=AC$, $\angle A$ 为公共角, $AE=AD$, 由SAS, $\triangle ABE\cong\triangle ACD$.
 
-$$
-\angle ADE=\angle ABC=31^\circ.
-$$
-
-即 $\angle ADE$ 应为 $31^\circ$. $\blacksquare$
+由基础知识, 对应角 $\angle B=\angle C$. $\blacksquare$
 
 ## 习题三
 
-(习题 7.2 复习巩固第 3 题) 如图, 一条水渠两次转弯后, 和原来的方向相同. 如果第一次的拐角 $\angle A=135^\circ$, 第二次的拐角 $\angle B$ 是多少度? 为什么?
+(习题 14.2 复习巩固第 3 题) 如图, 把两根钢条的中点连在一起做成卡钳. 要测量工件内槽宽 $AB$, 只需测量哪些量? 为什么?
 
 ### 解答 习题三
 
-水渠两次转弯后和原来方向相同, 说明转弯前后的两段水渠所在直线平行. 两次拐角 $\angle A$, $\angle B$ 是这两条平行直线被中间一段水渠所截得的内错角.
+只需测量内槽对应边 $CD$ 的长. 设两钢条交点为 $O$, 则 $O$ 是两钢条中点, 故 $OA=OD$, $OB=OC$. 在 $\triangle AOB$ 和 $\triangle DOC$ 中, $OA=OD$, $\angle AOB=\angle DOC$ (对顶角), $OB=OC$, 由SAS, $\triangle AOB\cong\triangle DOC$.
 
-由性质 2, 两直线平行, 内错角相等, 故 $\angle B=\angle A=135^\circ$. $\blacksquare$
+由基础知识, 对应边 $AB=CD$, 故量出 $CD$ 即得内槽宽 $AB$. $\blacksquare$
 
 ## 习题四
 
-(习题 7.2 复习巩固第 4 题) 如图, 在下列条件中, 能判断直线 $a\parallel b$ 的是 (　　).
-
-(1) $\angle 2+\angle 5=180^\circ$　(2) $\angle 2=\angle 4$　(3) $\angle 4+\angle 5=180^\circ$　(4) $\angle 1=\angle 3$
-
-图中为两条直线 $a$, $b$ 被一条截线所截, 在两个交点处共标出 $\angle 1$, $\angle 2$, $\angle 3$, $\angle 4$, $\angle 5$ 五个角.
+(习题 14.2 复习巩固第 4 题) 如图, $\angle 1=\angle 2$, $\angle 3=\angle 4$. 求证 $AC=AD$.
 
 ### 解答 习题四
 
-由判定方法 1,判定方法 2,判定方法 3, 逐项判断各角是直线 $a$, $b$ 被截线所截的哪种位置角.
+在 $\triangle ABC$ 和 $\triangle ABD$ 中, $\angle 3=\angle 4$, $AB$ 为公共边, $\angle ABC=\angle ABD$ (由 $\angle 1=\angle 2$ 推得), 由ASA, $\triangle ABC\cong\triangle ABD$.
 
-$\angle 2$ 与 $\angle 5$ 不是直线 $a$, $b$ 被同一条截线所截得的判定角, 其和为 $180^\circ$ 不能判定 $a\parallel b$, 故 (1) 不能.
-
-$\angle 2$ 与 $\angle 4$ 是直线 $a$, $b$ 被截线所截得的内错角, 由判定方法 2, 内错角相等, 两直线平行, $\angle 2=\angle 4$ 可判定 $a\parallel b$, 故 (2) 能.
-
-$\angle 4$ 与 $\angle 5$ 是直线 $a$, $b$ 被截线所截得的同旁内角, 由判定方法 3, 同旁内角互补, 两直线平行, $\angle 4+\angle 5=180^\circ$ 可判定 $a\parallel b$, 故 (3) 能.
-
-$\angle 1$ 与 $\angle 3$ 不是直线 $a$, $b$ 之间的判定角, $\angle 1=\angle 3$ 不能判定 $a\parallel b$, 故 (4) 不能.
-
-综上, 能判断直线 $a\parallel b$ 的是 (2)(3). $\blacksquare$
+由基础知识, 对应边 $AC=AD$. $\blacksquare$
 
 ## 习题五
 
-(习题 7.2 复习巩固第 5 题) 如图, $a\parallel b$, 直线 $c$, $d$ 是截线, $\angle 1=80^\circ$, $\angle 5=70^\circ$. $\angle 2$, $\angle 3$, $\angle 4$ 各是多少度? 为什么?
-
-图中为两条平行直线 $a$, $b$ 被两条截线 $c$, $d$ 所截:在 $a$ 与 $c$ 的交点处标出 $\angle 1$, 在 $a$ 与 $d$ 的交点处标出 $\angle 5$; 在 $b$ 与 $c$ 的交点处标出与 $\angle 1$ 成内错角的 $\angle 2$, 在 $b$ 与 $d$ 的交点处标出与 $\angle 5$ 成同位角的 $\angle 3$ 及与 $\angle 5$ 成同旁内角的 $\angle 4$.
+(习题 14.2 复习巩固第 5 题) 如图, $\angle 1=\angle 2$, $\angle B=\angle D$. 求证 $AB=CD$.
 
 ### 解答 习题五
 
-由 $a\parallel b$ 及各角位置, 用性质 1 至性质 3 求角.
+在 $\triangle ABC$ 和 $\triangle CDA$ 中, $\angle 1=\angle 2$, $\angle B=\angle D$, $AC$ 为公共边, 由AAS, $\triangle ABC\cong\triangle CDA$.
 
-$\angle 1$ 与 $\angle 2$ 是直线 $a$, $b$ 被截线 $c$ 所截得的内错角, 由性质 2, $\angle 2=\angle 1=80^\circ$.
-
-$\angle 5$ 与 $\angle 3$ 是直线 $a$, $b$ 被截线 $d$ 所截得的同位角, 由性质 1, $\angle 3=\angle 5=70^\circ$.
-
-$\angle 5$ 与 $\angle 4$ 是直线 $a$, $b$ 被截线 $d$ 所截得的同旁内角, 由性质 3, $\angle 4=180^\circ-\angle 5=180^\circ-70^\circ=110^\circ$.
-
-故 $\angle 2=80^\circ$, $\angle 3=70^\circ$, $\angle 4=110^\circ$. $\blacksquare$
+由基础知识, 对应边 $AB=CD$. $\blacksquare$
 
 ## 习题六
 
-(习题 7.2 复习巩固第 6 题) 如图, 有一块方形玻璃, 如何检验它相对的两条边是否平行?
+(习题 14.2 复习巩固第 6 题) 如图, 从 $C$ 地看 $A$, $B$ 两地的视角 $\angle C$ 是锐角, $C$ 地与 $A$, $B$ 两地距离相等. $A$ 地到路段 $BC$ 的距离 $AD$ 与 $B$ 地到路段 $AC$ 的距离 $BE$ 相等吗? 为什么?
 
 ### 解答 习题六
 
-用直尺或三角尺靠紧玻璃的一边, 沿另一边的方向推移 (如同用直尺和三角尺画平行线的方法), 观察相对的边是否始终贴合.
+相等. 由 $CA=CB$, 知 $\triangle ABC$ 为等腰三角形, $\angle CAB=\angle CBA$. 又 $AD\perp BC$, $BE\perp AC$, 故 $\angle ADC=\angle BEC=90^\circ$. 在 $\triangle ACD$ 和 $\triangle BCE$ 中, $\angle ADC=\angle BEC$, $\angle ACD=\angle BCE$ (公共), $CA=CB$, 由AAS, $\triangle ACD\cong\triangle BCE$.
 
-由判定方法 1, 若两次靠紧时截得的同位角相等, 则相对两边平行; 否则不平行. 也可量出相邻两边处同位角 (或同旁内角) 的大小, 用相应判定方法检验. $\blacksquare$
+由基础知识, 对应边 $AD=BE$. $\blacksquare$
 
 ## 习题七
 
-(习题 7.2 复习巩固第 7 题) 找出图中互相平行的直线和互相垂直的直线.
+(习题 14.2 复习巩固第 7 题) 如图, $AB=AD$, $AC=AE$, $BC=DE$. 求证 $\angle BAC=\angle DAE$.
 
 ### 解答 习题七
 
-由平行,垂直 及判定方法, 逐对观察图中各直线的夹角: 夹角为 $90^\circ$ 的两直线互相垂直; 用同位角相等, 内错角相等或同旁内角互补判定的两直线互相平行. 逐对检查后列出图中互相平行与互相垂直的直线即可. $\blacksquare$
+在 $\triangle ABC$ 和 $\triangle ADE$ 中, $AB=AD$, $AC=AE$, $BC=DE$, 由SSS, $\triangle ABC\cong\triangle ADE$.
+
+由基础知识, 对应角 $\angle BAC=\angle DAE$. $\blacksquare$
 
 ## 习题八
 
-(习题 7.2 综合运用第 8 题) 当光线从水中射向空气时, 要发生折射, 在水中平行的光线, 折射到空气中也是平行的. 如图, $\angle 1=45^\circ$, $\angle 2=122^\circ$, 求图中 $\angle 3$, $\angle 4$ 的度数.
+(习题 14.2 复习巩固第 8 题) 如图, 平分角仪器中 $AB=AD$, $BC=DC$. 将 $A$ 放在角顶点, $AB$, $AD$ 沿角两边放下, 沿 $AC$ 画射线 $AE$ 即平分线, 说明道理.
 
 ### 解答 习题八
 
-水中两条光线平行, 折射到空气中的两条光线也平行.
+在 $\triangle ABC$ 和 $\triangle ADC$ 中, $AB=AD$, $BC=DC$, $AC$ 为公共边, 由SSS, $\triangle ABC\cong\triangle ADC$.
 
-$\angle 1$ 与 $\angle 3$ 是两条平行光线被界面法线 (或界面) 所截得的同位角, 由性质 1, $\angle 3=\angle 1=45^\circ$.
-
-$\angle 2$ 与 $\angle 4$ 是两条平行光线被同一直线所截得的同旁内角, 由性质 3, 两直线平行, 同旁内角互补, 故 $\angle 4=180^\circ-\angle 2=180^\circ-122^\circ=58^\circ$.
-
-故 $\angle 3=45^\circ$, $\angle 4=58^\circ$. $\blacksquare$
+由基础知识, 对应角 $\angle BAC=\angle DAC$, 故 $AE$ 平分该角. $\blacksquare$
 
 ## 习题九
 
-(习题 7.2 综合运用第 9 题) 图中是对顶角量角器, 你能说出用它测量角的原理吗?
+(习题 14.2 复习巩固第 9 题) 如图, 点 $C$ 在 $\angle AOB$ 的边 $OB$ 上. 利用直尺和圆规过点 $C$ 作射线 $OA$ 的平行线 $CD$.
 
 ### 解答 习题九
 
-对顶角量角器利用了对顶角相等. 把被测角的两边与量角器的两条相交边对齐, 被测角与量角器上读出的角互为对顶角, 由对顶角相等, 量角器上读出的度数就是被测角的度数. $\blacksquare$
+以 $O$ 为顶点作一个角等于 $\angle AOB$ 的同位角: 利用作一个角等于已知角的尺规方法, 过 $C$ 作 $\angle BCD$ 等于 $\angle BOA$, 使这两个角为同位角, 则 $CD\parallel OA$. $\blacksquare$
 
 ## 习题十
 
-(习题 7.2 综合运用第 10 题) 如图, 若 $AB\parallel FE$, $BC\parallel DE$, 则 $\angle E+\angle B$ 等于多少度?
-
-图中为一条折线 $ABC$ 与另一条折线 $FED$, 其中 $AB\parallel FE$, $BC\parallel DE$; $\angle B$ 即 $\angle ABC$, $\angle E$ 即 $\angle FED$.
+(习题 14.2 复习巩固第 10 题) 如图, 已知 $\triangle ABC$. 利用直尺和圆规作 $\triangle ABD$, 使 $\angle BAD=\angle BAC$, $AD=AC$ (点 $D$ 与 $C$ 在 $AB$ 不同侧).
 
 ### 解答 习题十
 
-由 $AB\parallel FE$, 设截线与 $BC$, $DE$ 共同确定角的关系.
-
-由 $BC\parallel DE$, 两直线平行, 同旁内角互补 (或同位角相等) 得相应角的关系; 由 $AB\parallel FE$ 又得另一组角的关系. 综合两式: $\angle E$ 与 $\angle B$ 经两次平行传递后互为同旁内角, 即
-
-$$
-\angle E+\angle B=180^\circ.
-$$
-
-故 $\angle E+\angle B=180^\circ$. $\blacksquare$
+先利用作一个角等于已知角的方法, 在 $AB$ 与 $C$ 异侧作 $\angle BAD=\angle BAC$, 再在射线 $AD$ 上截取 $AD=AC$, 连接 $BD$, 即得所求的 $\triangle ABD$. $\blacksquare$
 
 ## 习题十一
 
-(习题 7.2 综合运用第 11 题) 如图, 许多漂亮的装饰图案是用平行条纹设计的. 请你用平行条纹设计一些图案, 并与同学交流一下.
+(习题 14.2 综合运用第 11 题) 如图, 在 $\triangle ABC$ 中, $AB=AC$, $AD$ 是高. 求证 $BD=CD$, $\angle BAD=\angle CAD$.
 
 ### 解答 习题十一
 
-由平行, 画出一组组互相平行的直线 (或线段), 通过改变平行条纹的方向, 间距和组合, 即可设计出各种装饰图案. 自己设计并与同学交流即可. $\blacksquare$
+由 $AD$ 是高, 得 $\angle ADB=\angle ADC=90^\circ$. 在 $\text{Rt}\triangle ABD$ 和 $\text{Rt}\triangle ACD$ 中, 斜边 $AB=AC$, 直角边 $AD$ 为公共边, 由HL, $\text{Rt}\triangle ABD\cong\text{Rt}\triangle ACD$.
+
+由基础知识, 对应边 $BD=CD$, 对应角 $\angle BAD=\angle CAD$. $\blacksquare$
 
 ## 习题十二
 
-(习题 7.2 拓广探索第 12 题) 如图, 当 $\angle 1=\angle 3$ 时, 直线 $a$, $b$ 平行吗? 当 $\angle 2+\angle 3=180^\circ$ 时, 直线 $a$, $b$ 平行吗? 为什么?
+(习题 14.2 综合运用第 12 题) 如图, $AC\perp CB$, $DB\perp CB$, 垂足分别为 $C$, $B$, $AB=DC$. 求证 $\angle ABD=\angle ACD$.
 
 ### 解答 习题十二
 
-当 $\angle 1=\angle 3$ 时, $a\parallel b$. $\angle 1$ 与 $\angle 3$ 是直线 $a$, $b$ 被截线 $c$ 所截得的同位角 (或内错角), 由判定方法 1, 同位角相等, 两直线平行, 故 $a\parallel b$.
+由 $AC\perp CB$, $DB\perp CB$, 得 $\angle ACB=\angle DBC=90^\circ$. 在 $\text{Rt}\triangle ABC$ 和 $\text{Rt}\triangle DCB$ 中, 斜边 $AB=DC$, 直角边 $BC$ 为公共边, 由HL, $\text{Rt}\triangle ABC\cong\text{Rt}\triangle DCB$.
 
-当 $\angle 2+\angle 3=180^\circ$ 时, $a\parallel b$. $\angle 2$ 与 $\angle 3$ 是直线 $a$, $b$ 被截线 $c$ 所截得的同旁内角, 由判定方法 3, 同旁内角互补, 两直线平行, 故 $a\parallel b$. $\blacksquare$
+由基础知识, 对应角 $\angle ABC=\angle DCB$. 两边分别减去直角 $\angle CBD$ 与 $\angle ACB$, 得 $\angle ABD=\angle ACD$. $\blacksquare$
 
 ## 习题十三
 
-(习题 7.2 拓广探索第 13 题) 观察如图所示的长方体, 用符号表示下列两条棱的位置关系: $A_1B_1$ \_\_\_ $AB$, $AA_1$ \_\_\_ $AB$, $A_1D_1$ \_\_\_ $D_1C_1$, $AD$ \_\_\_ $BC$. 你能在教室里找到这些位置关系的实例吗?
+(习题 14.2 综合运用第 13 题) 如图, 点 $B$, $E$, $C$, $F$ 在一条直线上, $AB=DE$, $AC=DF$, $BE=CF$. 求证 $\angle A=\angle D$.
 
 ### 解答 习题十三
 
-由平行 与垂直: $A_1B_1$ 与 $AB$ 在同一方向不相交, 故 $A_1B_1\parallel AB$; $AA_1$ 与 $AB$ 相交成直角, 故 $AA_1\perp AB$; $A_1D_1$ 与 $D_1C_1$ 相交成直角, 故 $A_1D_1\perp D_1C_1$; $AD$ 与 $BC$ 方向相同不相交, 故 $AD\parallel BC$.
+由 $BE=CF$, 得 $BE+EC=CF+EC$, 即 $BC=EF$. 在 $\triangle ABC$ 和 $\triangle DEF$ 中, $AB=DE$, $AC=DF$, $BC=EF$, 由SSS, $\triangle ABC\cong\triangle DEF$.
 
-教室里如黑板的对边平行, 黑板相邻边垂直等都是这些位置关系的实例. $\blacksquare$
+由基础知识, 对应角 $\angle A=\angle D$. $\blacksquare$
 
 ## 习题十四
 
-(习题 7.2 拓广探索第 14 题) 如图, 潜望镜中的两面镜子是互相平行放置的, 光线经过镜子反射时, $\angle 1=\angle 2$, $\angle 3=\angle 4$, $\angle 2$ 和 $\angle 3$ 有什么关系? 为什么进入潜望镜的光线和离开潜望镜的光线是平行的?
-
-图中为潜望镜剖面示意图:上下两面镜子互相平行放置, 入射光线从一侧射入, 经第一面镜子反射后射到第二面镜子, 再反射后从另一侧射出; 在第一面镜子处标出入射光线与镜子的夹角 $\angle 1$ 和反射光线与镜子的夹角 $\angle 2$, 在第二面镜子处标出相应的 $\angle 3$ 和 $\angle 4$.
+(习题 14.2 综合运用第 14 题) 如图, $AC$ 和 $BD$ 相交于点 $O$, $OA=OC$, $OB=OD$. 求证 $AB\parallel CD$.
 
 ### 解答 习题十四
 
-两面镜子互相平行. 它们之间的两条反射光线被镜子 (直线) 所截, $\angle 2$ 与 $\angle 3$ 是这两条平行镜子被中间光线所截得的内错角. 由性质 2, 两直线平行, 内错角相等, 故 $\angle 2=\angle 3$.
+在 $\triangle AOB$ 和 $\triangle COD$ 中, $OA=OC$, $\angle AOB=\angle COD$ (对顶角), $OB=OD$, 由SAS, $\triangle AOB\cong\triangle COD$.
 
-又已知 $\angle 1=\angle 2$, $\angle 3=\angle 4$, 故 $\angle 1=\angle 2=\angle 3=\angle 4$. 于是进入潜望镜的光线与离开潜望镜的光线被镜子间的反射光线所截得的内错角
+由基础知识, 对应角 $\angle A=\angle C$, 这是内错角, 故 $AB\parallel CD$. $\blacksquare$
 
-$$
-\angle 1+\angle 2=\angle 3+\angle 4
-$$
+## 习题十五
 
-成立. 由判定方法 2, 内错角相等, 两直线平行, 故进入潜望镜的光线与离开潜望镜的光线平行. $\blacksquare$
+(习题 14.2 综合运用第 15 题) 如图, 点 $B$, $F$, $C$, $E$ 在一条直线上, $FB=CE$, $AB\parallel DE$, $AC\parallel DF$. 求证 $AB=DE$, $AC=DF$.
+
+### 解答 习题十五
+
+由 $FB=CE$, 得 $FB+FC=CE+FC$, 即 $BC=EF$. 由 $AB\parallel DE$, 得 $\angle B=\angle E$; 由 $AC\parallel DF$, 得 $\angle ACB=\angle DFE$. 在 $\triangle ABC$ 和 $\triangle DEF$ 中, $\angle B=\angle E$, $BC=EF$, $\angle ACB=\angle DFE$, 由ASA, $\triangle ABC\cong\triangle DEF$.
+
+由基础知识, 对应边 $AB=DE$, $AC=DF$. $\blacksquare$
+
+## 习题十六
+
+(习题 14.2 综合运用第 16 题) 如图, $\triangle ABC\cong\triangle A'B'C'$, $AD$, $A'D'$ 分别是两三角形对应角的平分线. 求证 $AD=A'D'$.
+
+### 解答 习题十六
+
+由 $\triangle ABC\cong\triangle A'B'C'$, 得 $AB=A'B'$, $\angle B=\angle B'$, $\angle BAC=\angle B'A'C'$. 由 $AD$, $A'D'$ 是对应角平分线, 得 $\angle BAD=\frac{1}{2}\angle BAC$, $\angle B'A'D'=\frac{1}{2}\angle B'A'C'$, 故 $\angle BAD=\angle B'A'D'$.
+
+在 $\triangle ABD$ 和 $\triangle A'B'D'$ 中, $\angle BAD=\angle B'A'D'$, $AB=A'B'$, $\angle B=\angle B'$, 由ASA, $\triangle ABD\cong\triangle A'B'D'$.
+
+由基础知识, 对应边 $AD=A'D'$. $\blacksquare$
+
+## 习题十七
+
+(习题 14.2 拓广探索第 17 题) 如图, $D$ 是 $AB$ 上一点, $DF$ 交 $AC$ 于点 $E$, $DE=FE$, $FC\parallel AB$. $AE$ 与 $CE$ 有什么关系? 证明你的结论.
+
+### 解答 习题十七
+
+$AE=CE$. 证明: 由 $FC\parallel AB$, 得 $\angle ADE=\angle CFE$. 在 $\triangle ADE$ 和 $\triangle CFE$ 中, $\angle AED=\angle CEF$ (对顶角), $DE=FE$, $\angle ADE=\angle CFE$, 由ASA, $\triangle ADE\cong\triangle CFE$.
+
+由基础知识, 对应边 $AE=CE$. $\blacksquare$
+
+## 习题十八
+
+(习题 14.2 拓广探索第 18 题) 如图, 在 $\triangle ABC$ 中, $AB=AC$, 点 $D$ 是 $BC$ 的中点, 点 $E$ 在 $AD$ 上. 找出图中的全等三角形, 并证明它们全等.
+
+### 解答 习题十八
+
+图中有 $\triangle ABD\cong\triangle ACD$, $\triangle ABE\cong\triangle ACE$, $\triangle DBE\cong\triangle DCE$.
+
+由 $D$ 是 $BC$ 中点, 得 $BD=CD$. 在 $\triangle ABD$ 和 $\triangle ACD$ 中, $AB=AC$, $BD=CD$, $AD$ 公共, 由SSS, $\triangle ABD\cong\triangle ACD$, 得 $\angle BAE=\angle CAE$.
+
+在 $\triangle ABE$ 和 $\triangle ACE$ 中, $AB=AC$, $\angle BAE=\angle CAE$, $AE$ 公共, 由SAS, $\triangle ABE\cong\triangle ACE$, 得 $BE=CE$.
+
+在 $\triangle DBE$ 和 $\triangle DCE$ 中, $BD=CD$, $BE=CE$, $DE$ 公共, 由SSS, $\triangle DBE\cong\triangle DCE$. $\blacksquare$
+
+## 信息技术应用一
+
+(信息技术应用 探究三角形全等的条件) 在两边分别相等的基础上, 只有再添加它们的夹角相等时, 两三角形才重合全等; 若仅添加一边相等 (SSA), 不能保证全等. 类似地, 两角和它们的夹边分别相等, 斜边和一直角边分别相等的两直角三角形能判定全等. 由此确认 SAS, ASA, SSS, AAS, HL 为有效判定方法.
+
+## 练习八
+
+(练习 14.3 第 1 题) 如图, 在直线 $MN$ 上求作一点 $P$, 使点 $P$ 在 $\angle AOB$ 的内部, 且点 $P$ 到射线 $OA$ 和 $OB$ 的距离相等.
+
+### 解答 练习八
+
+由角平分线的判定, 到 $OA$, $OB$ 距离相等的点在 $\angle AOB$ 的平分线上. 故先用尺规作 $\angle AOB$ 的平分线, 该平分线与直线 $MN$ 的交点即为所求的点 $P$. $\blacksquare$
+
+## 练习九
+
+(练习 14.3 第 2 题) 如图, $OC$ 是 $\angle AOB$ 的平分线, 点 $P$ 在 $OC$ 上, $PD\perp OA$, $PE\perp OB$, 垂足分别为 $D$, $E$. 点 $F$, $G$ 分别在 $OA$, $OB$ 上, $DF=EG$, 连接 $PF$, $PG$. 求证 $PF=PG$.
+
+### 解答 练习九
+
+由角平分线的性质, $PD=PE$. 在 $\text{Rt}\triangle PDF$ 和 $\text{Rt}\triangle PEG$ 中, $\angle PDF=\angle PEG=90^\circ$, $DF=EG$, $PD=PE$, 由SAS, $\triangle PDF\cong\triangle PEG$.
+
+由基础知识, 对应边 $PF=PG$. $\blacksquare$
+
+## 练习十
+
+(练习 14.3 第 1 题) 如图, $AB\perp CD$, $CE\perp AD$, 垂足分别为 $B$, $E$, $AB=CE$, $AB$, $CE$ 相交于点 $F$, 连接 $DF$. 求证 $FD$ 平分 $\angle BFE$.
+
+### 解答 练习十
+
+在 $\triangle ABF$ 和 $\triangle CEF$ 中, $\angle AFB=\angle CFE$ (对顶角), $\angle ABF=\angle CEF=90^\circ$, $AB=CE$, 由 AAS, $\triangle ABF\cong\triangle CEF$, 故 $BF=EF$.
+
+在 $\text{Rt}\triangle BDF$ 和 $\text{Rt}\triangle EDF$ 中, $BF=EF$, $DF$ 为公共斜边, 由HL, $\text{Rt}\triangle BDF\cong\text{Rt}\triangle EDF$, 故 $DB=DE$.
+
+即点 $D$ 到直线 $FB$ (在 $AB$ 上) 与直线 $FE$ (在 $CE$ 上) 的距离相等. 由角平分线的判定, 点 $D$ 在 $\angle BFE$ 的平分线上, 故 $FD$ 平分 $\angle BFE$. $\blacksquare$
+
+## 练习十一
+
+(练习 14.3 第 2 题) 如图, 已知 $\triangle ABC$, $BF$ 是外角 $\angle CBD$ 的平分线, $CG$ 是外角 $\angle BCE$ 的平分线, $BF$, $CG$ 相交于点 $P$. 求证:
+
+(1) 点 $P$ 到三边 $AB$, $BC$, $CA$ 所在直线的距离相等;
+
+(2) 点 $P$ 在 $\angle A$ 的平分线上.
+
+### 解答 练习十一
+
+(1) 过点 $P$ 作到三边所在直线的垂线. 由 $BF$ 平分 $\angle CBD$ 且 $P$ 在 $BF$ 上, 由角平分线的性质, $P$ 到直线 $AB$, $BC$ 的距离相等. 同理由 $CG$ 平分 $\angle BCE$, $P$ 到直线 $BC$, $CA$ 的距离相等. 故 $P$ 到三边所在直线的距离相等.
+
+(2) 由 (1), $P$ 到直线 $AB$, $CA$ 的距离相等. 由角平分线的判定, $P$ 在 $\angle A$ 的平分线上. $\blacksquare$
+
+## 习题十九
+
+(习题 14.3 复习巩固第 1 题) 如图, 在 $\triangle ABC$ 中, $AD$ 是它的角平分线, 且 $BD=CD$, $DE\perp AB$, $DF\perp AC$, 垂足分别为 $E$, $F$. 求证 $EB=FC$.
+
+### 解答 习题十九
+
+由 $AD$ 是角平分线及角平分线的性质, $DE=DF$. 在 $\text{Rt}\triangle BDE$ 和 $\text{Rt}\triangle CDF$ 中, 斜边 $BD=CD$, 直角边 $DE=DF$, 由HL, $\text{Rt}\triangle BDE\cong\text{Rt}\triangle CDF$.
+
+由基础知识, 对应直角边 $EB=FC$. $\blacksquare$
+
+## 习题二十
+
+(习题 14.3 复习巩固第 2 题) 如图, 在 $\triangle ABC$ 中, $AB=AC$, $BD\perp AC$, $CE\perp AB$, 垂足分别为 $D$, $E$, $BD$, $CE$ 相交于点 $F$. 求证 $FA$ 平分 $\angle DFE$.
+
+### 解答 习题二十
+
+在 $\triangle BCE$ 和 $\triangle CBD$ 中, $\angle BEC=\angle CDB=90^\circ$, $\angle CBE=\angle BCD$ (由 $AB=AC$), $BC$ 为公共边, 由 AAS, $\triangle BCE\cong\triangle CBD$, 故 $BE=CD$. 由 $AB=AC$, 得 $AE=AD$.
+
+在 $\text{Rt}\triangle AEF$ 和 $\text{Rt}\triangle ADF$ 中, 斜边 $AF$ 为公共边, 直角边 $AE=AD$, 由HL, $\text{Rt}\triangle AEF\cong\text{Rt}\triangle ADF$, 故 $\angle AFE=\angle AFD$.
+
+即 $FA$ 平分 $\angle DFE$. $\blacksquare$

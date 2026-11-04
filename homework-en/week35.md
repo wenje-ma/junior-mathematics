@@ -1,251 +1,569 @@
 # week35
 
-## Review Exercise 1
+> **Basic Conclusion** (Shortest Distance) 
+> 
+> Between two points, the segment is the shortest; among all segments joining a point outside a line to points on the line, the perpendicular segment is the shortest.
 
-(Review Exercise, Review and Consolidation, Problem 1) As shown in the figure, line $AB\perp CD$, with foot at $O$; line $EF$ passes through point $O$, $\angle 1=26^\circ$. Find the degrees of $\angle 2$, $\angle 3$, and $\angle BOE$.
+## Inquiry 1
 
-The figure shows lines $AB\perp CD$ with foot $O$, and a line $EF$ passing through $O$; inside $\angle AOD$ are marked $\angle 1$ (between $OE$ and $OD$) and $\angle 2$ (between $OA$ and $OE$), and the vertical angle of $\angle 1$ is marked as $\angle 3$.
+(Comprehensive and Practical Activity, Activity 2, Task 1, Extension of the Horse-Watering Problem) A herdsman sets out from place $A$, first grazes his horse at a spot on the edge of the grassland, then waters the horse at the riverbank, and finally returns to place $A$. How should he walk so that the path is shortest?
 
-### Solution to Review Exercise 1
+### Solution to Inquiry 1
 
-By Perpendicular, $AB\perp CD$, so $\angle AOD=90^\circ$.
+Let the edge of the grassland be line $m$ and the riverbank be line $n$. Construct the reflection $A_1$ of point $A$ about line $m$ and the reflection $A_2$ about line $n$; connect $A_1A_2$, whose intersections with $m$ and $n$ are in turn the grazing point $P$ and the watering point $Q$; then the broken path $A\to P\to Q\to A$ is shortest. By axial symmetry, $AP=A_1P$ and $QA=QA_2$, so the path length equals the segment $A_1A_2$, which is minimal by the shortest-segment-between-two-points principle. $\blacksquare$
 
-$\angle 1$ and $\angle 2$ lie inside the right angle $\angle AOD$, and $\angle AOD=\angle 1+\angle 2$, so $\angle 2=90^\circ-\angle 1=90^\circ-26^\circ=64^\circ$.
+## Inquiry 2
 
-$\angle 3$ and $\angle 1$ are vertical angles; by Vertical Angles Are Equal, $\angle 3=\angle 1=26^\circ$.
+(Comprehensive and Practical Activity, Activity 3, Task 1, The Bridge-Building Site-Selection Problem) Places $A$ and $B$ lie on the two banks of a river, the two banks of the river are parallel lines, and the bridge $MN$ must be perpendicular to the banks. Where should the bridge be built so that the path $AMNB$ from $A$ to $B$ is shortest?
 
-$\angle BOE$ and $\angle 1$ share the side $OE$, while the other sides $OB$ and $OA$ are opposite extensions of each other; together they form a straight angle, so $\angle BOE=180^\circ-\angle 1=180^\circ-26^\circ=154^\circ$.
+### Solution to Inquiry 2
 
-Thus $\angle 2=64^\circ$, $\angle 3=26^\circ$, $\angle BOE=154^\circ$. $\blacksquare$
+Translate point $A$ by a distance equal to the river width in the direction perpendicular to the banks toward the river, obtaining point $A'$. Connect $A'B$, which meets the bank on the side near $B$ at point $N$; through $N$ draw a perpendicular to the bank meeting the opposite bank at point $M$; then $MN$ is the position of the bridge.
 
-## Review Exercise 2
+Here $AM$ equals $A'N$ after translation, so the path $AMNB=A'N+NB+MN$, where $MN$ has fixed length (the river width), while $A'N+NB\ge A'B$, which is minimal when $N$ lies on $A'B$; hence the path is shortest. $\blacksquare$
 
-(Review Exercise, Review and Consolidation, Problem 2) The figure is a schematic diagram of a bent pipe, with corner angles $\angle ABC=120^\circ$, $\angle BCD=60^\circ$. Is it correct to say that pipes $AB$ and $DC$ are parallel? Why?
+## Exercise 1
 
-### Solution to Review Exercise 2
+(Exercise 16.1, Problem 1) Is each of the following calculations correct? If not, how should it be corrected?
 
-This statement is correct: $AB\parallel DC$.
+(1) $a^3\cdot a^2=a^6$;
 
-$\angle ABC$ and $\angle BCD$ are the consecutive interior angles formed when lines $AB$, $DC$ are cut by line $BC$, and their sum is
+(2) $a\cdot a^3=a^{0+3}=a^3$;
+
+(3) $m^3\cdot m^3=2m^3$;
+
+(4) $x^{2m}\cdot x^{4n-2}=x^{2m+4n-2}$.
+
+### Solution to Exercise 1
+
+By Multiplication of Powers with the Same Base, when multiplying powers with the same base the base is unchanged and the exponents are added.
+
+(1) Incorrect. $a^3\cdot a^2=a^{3+2}=a^5$; the exponent was mistakenly treated by an operation other than addition.
+
+(2) Incorrect. $a=a^1$, hence $a\cdot a^3=a^{1+3}=a^4$; the exponent of $a$ was mistakenly taken as $0$.
+
+(3) Incorrect. $m^3\cdot m^3=m^{3+3}=m^6$; the multiplication of powers with the same base was confused with adding the coefficients.
+
+(4) Correct, $x^{2m}\cdot x^{4n-2}=x^{2m+4n-2}$. $\blacksquare$
+
+## Exercise 2
+
+(Exercise 16.1, Problem 2) Calculate:
+
+(1) $a^2\cdot a^6$;
+
+(2) $b^5\cdot b$;
+
+(3) $y^{2n}\cdot y^{n+1}$;
+
+(4) $\left(-12\right)\times\left(-12\right)^2\times\left(-12\right)^3$.
+
+### Solution to Exercise 2
+
+By Multiplication of Powers with the Same Base, the base is unchanged and the exponents are added.
+
+(1) $a^2\cdot a^6=a^{2+6}=a^8$.
+
+(2) $b^5\cdot b=b^{5+1}=b^6$.
+
+(3) $y^{2n}\cdot y^{n+1}=y^{2n+n+1}=y^{3n+1}$.
+
+(4) This property still applies to the product of three powers with the same base, $\left(-12\right)\times\left(-12\right)^2\times\left(-12\right)^3=\left(-12\right)^{1+2+3}=\left(-12\right)^6=12^6$. $\blacksquare$
+
+## Exercise 3
+
+(Exercise 16.1, Problem 1) Is each of the following calculations correct? If not, how should it be corrected?
+
+(1) $\left(a^5\right)^2=a^7$;
+
+(2) $\left(ab^2\right)^3=ab^6$;
+
+(3) $\left(-2a\right)^2=-4a^2$.
+
+### Solution to Exercise 3
+
+Judge by Power of a Power and Power of a Product.
+
+(1) Incorrect. $\left(a^5\right)^2=a^{5\times2}=a^{10}$; for a power of a power the exponents should be multiplied.
+
+(2) Incorrect. By Basic Knowledge, $\left(ab^2\right)^3=a^3\left(b^2\right)^3=a^3 b^6$; the power of the factor $a$ was omitted.
+
+(3) Incorrect. $\left(-2a\right)^2=\left(-2\right)^2 a^2=4a^2$; the coefficient $-2$ must also be squared. $\blacksquare$
+
+## Exercise 4
+
+(Exercise 16.1, Problem 2) Calculate:
+
+(1) $\left(10^3\right)^3$;
+
+(2) $\left(x^3\right)^2$;
+
+(3) $-\left(x^m\right)^5$;
+
+(4) $\left(a^2\right)^3\cdot a^5$.
+
+### Solution to Exercise 4
+
+By Power of a Power and Multiplication of Powers with the Same Base.
+
+(1) $\left(10^3\right)^3=10^{3\times3}=10^9$.
+
+(2) $\left(x^3\right)^2=x^{3\times2}=x^6$.
+
+(3) $-\left(x^m\right)^5=-x^{5m}$.
+
+(4) $\left(a^2\right)^3\cdot a^5=a^6\cdot a^5=a^{6+5}=a^{11}$. $\blacksquare$
+
+## Exercise 5
+
+(Exercise 16.1, Problem 3) Calculate:
+
+(1) $\left(ab\right)^4$;
+
+(2) $\left(-3\times10^2\right)^3$;
+
+(3) $\left(-\frac12 xy^2\right)^3$;
+
+(4) $\left(2ab^2\right)^3\cdot 2ab^2$.
+
+### Solution to Exercise 5
+
+By Power of a Product and Multiplication of Powers with the Same Base.
+
+(1) $\left(ab\right)^4=a^4 b^4$.
+
+(2) $\left(-3\times10^2\right)^3=\left(-3\right)^3\times\left(10^2\right)^3=-27\times10^6=-2.7\times10^7$.
+
+(3) $\left(-\frac12 xy^2\right)^3=\left(-\frac12\right)^3 x^3 \left(y^2\right)^3=-\frac18 x^3 y^6$.
+
+(4) $\left(2ab^2\right)^3\cdot 2ab^2=8a^3 b^6\cdot 2ab^2=16a^4 b^8$. $\blacksquare$
+
+## Problem 1
+
+(Exercise 16.1, Review and Consolidation, Problem 1) Calculate:
+
+(1) $b^3\cdot b$;
+
+(2) $a^5\cdot a^2$;
+
+(3) $\left(-x\right)\cdot\left(-x\right)^2\cdot\left(-x\right)^3$;
+
+(4) $x^m\cdot x^{2m-1}$.
+
+### Solution to Problem 1
+
+By Multiplication of Powers with the Same Base.
+
+(1) $b^3\cdot b=b^4$.
+
+(2) $a^5\cdot a^2=a^7$.
+
+(3) $\left(-x\right)\cdot\left(-x\right)^2\cdot\left(-x\right)^3=\left(-x\right)^{1+2+3}=\left(-x\right)^6=x^6$.
+
+(4) $x^m\cdot x^{2m-1}=x^{m+2m-1}=x^{3m-1}$. $\blacksquare$
+
+## Problem 2
+
+(Exercise 16.1, Review and Consolidation, Problem 2) Calculate:
+
+(1) $\left(10^2\right)^8$;
+
+(2) $\left(x^m\right)^2$;
+
+(3) $\left[\left(-a\right)^3\right]^5$;
+
+(4) $-\left(x^2\right)^m$.
+
+### Solution to Problem 2
+
+By Power of a Power.
+
+(1) $\left(10^2\right)^8=10^{16}$.
+
+(2) $\left(x^m\right)^2=x^{2m}$.
+
+(3) $\left[\left(-a\right)^3\right]^5=\left(-a\right)^{15}=-a^{15}$.
+
+(4) $-\left(x^2\right)^m=-x^{2m}$. $\blacksquare$
+
+## Problem 3
+
+(Exercise 16.1, Review and Consolidation, Problem 3) Calculate:
+
+(1) $\left(2ab\right)^3$;
+
+(2) $\left(-3x\right)^4$;
+
+(3) $\left(x^m y^n\right)^2$;
+
+(4) $\left(-2\times10^3\right)^4$.
+
+### Solution to Problem 3
+
+By Power of a Product.
+
+(1) $\left(2ab\right)^3=8a^3 b^3$.
+
+(2) $\left(-3x\right)^4=81x^4$.
+
+(3) $\left(x^m y^n\right)^2=x^{2m} y^{2n}$.
+
+(4) $\left(-2\times10^3\right)^4=16\times10^{12}=1.6\times10^{13}$. $\blacksquare$
+
+## Problem 4
+
+(Exercise 16.1, Review and Consolidation, Problem 4) Calculate:
+
+(1) $x\cdot x^3+x^2\cdot x^2$;
+
+(2) $\left(-3pq\right)^3$;
+
+(3) $-\left(-2a^2 b\right)^4$;
+
+(4) $a^3\cdot a^4\cdot a+\left(a^2\right)^4+\left(-2a^4\right)^2$.
+
+### Solution to Problem 4
+
+Combining Basic Knowledge, Basic Knowledge, and Basic Knowledge.
+
+(1) $x\cdot x^3+x^2\cdot x^2=x^4+x^4=2x^4$.
+
+(2) $\left(-3pq\right)^3=-27p^3 q^3$.
+
+(3) $-\left(-2a^2 b\right)^4=-\left(16a^8 b^4\right)=-16a^8 b^4$.
+
+(4) $a^3\cdot a^4\cdot a+\left(a^2\right)^4+\left(-2a^4\right)^2=a^8+a^8+4a^8=6a^8$. $\blacksquare$
+
+## Problem 5
+
+(Exercise 16.1, Comprehensive Application, Problem 5) Calculate:
+
+(1) $\left(x^2\right)^3\cdot x^2-\left(x^4\right)^2$;
+
+(2) $7x^2\cdot x^5\cdot\left(-x\right)^5+5\left(x^4\right)^3$.
+
+### Solution to Problem 5
+
+By the properties of operations on powers.
+
+(1) $\left(x^2\right)^3\cdot x^2-\left(x^4\right)^2=x^6\cdot x^2-x^8=x^8-x^8=0$.
+
+(2) $7x^2\cdot x^5\cdot\left(-x\right)^5+5\left(x^4\right)^3=7x^7\cdot\left(-x^5\right)+5x^{12}=-7x^{12}+5x^{12}=-2x^{12}$. $\blacksquare$
+
+## Problem 6
+
+(Exercise 16.1, Comprehensive Application, Problem 6) Calculate:
+
+(1) $\left[\left(-2a^2 b^3\right)^3\right]^2$;
+
+(2) $\left(-2xy^2\right)^6+\left(-3x^2 y^4\right)^3$.
+
+### Solution to Problem 6
+
+By Basic Knowledge and Basic Knowledge.
+
+(1) $\left[\left(-2a^2 b^3\right)^3\right]^2=\left(-2a^2 b^3\right)^6=\left(-2\right)^6 a^{12} b^{18}=64a^{12} b^{18}$.
+
+(2) $\left(-2xy^2\right)^6+\left(-3x^2 y^4\right)^3=64x^6 y^{12}-27x^6 y^{12}=37x^6 y^{12}$. $\blacksquare$
+
+## Problem 7
+
+(Exercise 16.1, Comprehensive Application, Problem 7) Information storage devices commonly use units such as $B,KB,MB,GB,TB$ for storage capacity, where $1\,KB=2^{10}\,B$, $1\,MB=2^{10}\,KB$, $1\,GB=2^{10}\,MB$, $1\,TB=2^{10}\,GB$. For a flash drive with a capacity of $64\,GB$, how many bytes is its capacity?
+
+### Solution to Problem 7
+
+By Multiplication of Powers with the Same Base, convert all units uniformly into bytes.
+
+$1\,GB=2^{10}\,MB=2^{10}\times2^{10}\,KB=2^{10}\times2^{10}\times2^{10}\,B=2^{30}\,B$.
+
+Hence $64\,GB=64\times2^{30}\,B=2^6\times2^{30}\,B=2^{36}\,B$.
+
+That is, the capacity of this flash drive is $2^{36}$ bytes. $\blacksquare$
+
+## Problem 8
+
+(Exercise 16.1, Extension and Exploration, Problem 8) (1) Given $2^m=a$, $32^n=b$, find $2^{3m+10n}$;
+
+(2) Given $x+2y-7=0$ ($x,y$ are both positive integers), find the value of $2^x\cdot4^y$.
+
+### Solution to Problem 8
+
+By Basic Knowledge and Basic Knowledge.
+
+(1) $32^n=\left(2^5\right)^n=2^{5n}=b$, hence $2^{10n}=\left(2^{5n}\right)^2=b^2$. Also $2^{3m}=\left(2^m\right)^3=a^3$. Therefore
+
+$$2^{3m+10n}=2^{3m}\cdot2^{10n}=a^3 b^2.$$
+
+(2) From $x+2y-7=0$ we get $x+2y=7$. Also $4^y=\left(2^2\right)^y=2^{2y}$, hence
+
+$$2^x\cdot4^y=2^x\cdot2^{2y}=2^{x+2y}=2^7=128.$$
+
+$\blacksquare$
+
+## Problem 9
+
+(Exercise 16.1, Extension and Exploration, Problem 9) If $a^m=a^n$ ($a> 0$, $a\ne1$), then $m=n$. Use the above conclusion to solve the following problems:
+
+(1) If $2\times8^x\times16^x=2^{22}$, find the value of $x$;
+
+(2) If $\left(9^x\right)^2=3^8$, find the value of $x$.
+
+### Solution to Problem 9
+
+First reduce both sides of the equation to powers with the same base, then solve by equating the exponents.
+
+(1) $8^x=\left(2^3\right)^x=2^{3x}$, $16^x=\left(2^4\right)^x=2^{4x}$. Hence
+
+$$2\times8^x\times16^x=2^1\cdot2^{3x}\cdot2^{4x}=2^{1+7x}.$$
+
+From $2^{1+7x}=2^{22}$ we get $1+7x=22$, which gives $x=3$.
+
+(2) $\left(9^x\right)^2=\left(\left(3^2\right)^x\right)^2=\left(3^{2x}\right)^2=3^{4x}$. From $3^{4x}=3^8$ we get $4x=8$, which gives $x=2$. $\blacksquare$
+
+## Exercise 6
+
+(Exercise 16.2, Problem 1) Is each of the following calculations correct? If not, how should it be corrected?
+
+(1) $3a^3\cdot2a^2=6a^6$;
+
+(2) $3x^2\cdot\left(-4x^2\right)=-12x^2$;
+
+(3) $5y^3\cdot3y^5=15y^{15}$;
+
+(4) $x^2 y^2\left(-xy^3\right)^2=x^4 y^8$.
+
+### Solution to Exercise 6
+
+By Multiplication of a Monomial by a Monomial.
+
+(1) Incorrect. $3a^3\cdot2a^2=6a^{3+2}=6a^5$; for powers with the same base the exponents should be added.
+
+(2) Incorrect. $3x^2\cdot\left(-4x^2\right)=-12x^4$.
+
+(3) Incorrect. $5y^3\cdot3y^5=15y^8$.
+
+(4) Correct, $x^2 y^2\cdot x^2 y^6=x^4 y^8$. $\blacksquare$
+
+## Exercise 7
+
+(Exercise 16.2, Problem 2) Calculate:
+
+(1) $3x^2\cdot5x^3$;
+
+(2) $6x^2\cdot3xy$;
+
+(3) $4y\cdot\left(-2xy^2\right)$;
+
+(4) $-2ab^2\cdot\left(-3ab\right)$.
+
+### Solution to Exercise 7
+
+By Basic Knowledge.
+
+(1) $3x^2\cdot5x^3=15x^5$.
+
+(2) $6x^2\cdot3xy=18x^3 y$.
+
+(3) $4y\cdot\left(-2xy^2\right)=-8xy^3$.
+
+(4) $-2ab^2\cdot\left(-3ab\right)=6a^2 b^3$. $\blacksquare$
+
+## Exercise 8
+
+(Exercise 16.2, Problem 3) Calculate:
+
+(1) $\left(-3xy^2\right)^2\left(-2xy\right)^2$;
+
+(2) $\left(-a\right)^5-\left(2a\cdot3a\right)^2\cdot\left(-a\right)$.
+
+### Solution to Exercise 8
+
+Take powers first, then multiply.
+
+(1) $\left(-3xy^2\right)^2\left(-2xy\right)^2=9x^2 y^4\cdot4x^2 y^2=36x^4 y^6$.
+
+(2) $\left(-a\right)^5-\left(6a^2\right)^2\cdot\left(-a\right)=-a^5-36a^4\cdot\left(-a\right)=-a^5+36a^5=35a^5$. $\blacksquare$
+
+## Exercise 9
+
+(Exercise 16.2, Problem 4) The speed of a satellite orbiting the earth (the first cosmic velocity) is $7.9\times10^3\ \text{m/s}$. Find the distance traveled by the satellite in orbiting the earth for $1\ \text{h}$.
+
+### Solution to Exercise 9
+
+The distance equals speed multiplied by time. $1\ \text{h}=3600\ \text{s}=3.6\times10^3\ \text{s}$.
 
 $$
-\angle ABC+\angle BCD=120^\circ+60^\circ=180^\circ.
+\left(7.9\times10^3\right)\times\left(3.6\times10^3\right)=28.44\times10^6=2.844\times10^7\ \left(\text{m}\right).
 $$
 
-By Criterion 3, supplementary consecutive interior angles imply parallel lines, so $AB\parallel DC$. $\blacksquare$
+That is, the distance traveled by the satellite in orbiting the earth for $1\ \text{h}$ is approximately $2.844\times10^7\ \text{m}$. $\blacksquare$
 
-## Review Exercise 3
+## Exercise 10
 
-(Review Exercise, Review and Consolidation, Problem 3) True or false.
+(Exercise 16.2, Problem 1) Is each of the following calculations correct? If not, how should it be corrected?
 
-(1) $a$, $b$, $c$ are lines; if $a\parallel b$, $b\parallel c$, then $a\parallel c$;
+(1) $\left(-2x\right)\left(x^2-x\right)=-2x^3-2x^2$;
 
-(2) $a$, $b$, $c$ are lines; if $a\perp b$, $b\perp c$, then $a\perp c$.
+(2) $a\left(b-c\right)+b\left(c-a\right)+c\left(a-b\right)=0$.
 
-### Solution to Review Exercise 3
+### Solution to Exercise 10
 
-(1) Correct. By Transitivity of Parallelism, if two lines are both parallel to a third line, then these two lines are also parallel to each other, so $a\parallel c$.
+By Multiplication of a Monomial by a Polynomial.
 
-(2) Wrong. In the same plane, if $a\perp b$ and $b\perp c$, then the corresponding angles that $a$, $c$ make with $b$ are both $90^\circ$; by Criterion 1, equal corresponding angles imply parallel lines, so it should be $a\parallel c$, not $a\perp c$. Thus it is judged wrong. $\blacksquare$
+(1) Incorrect. $\left(-2x\right)\left(x^2-x\right)=-2x^3+2x^2$; the second term $\left(-2x\right)\left(-x\right)$ should be positive.
 
-## Review Exercise 4
+(2) Correct. $a\left(b-c\right)+b\left(c-a\right)+c\left(a-b\right)=ab-ac+bc-ab+ac-bc=0$. $\blacksquare$
 
-(Review Exercise, Review and Consolidation, Problem 4) Draw the figures according to the following statements:
+## Exercise 11
 
-(1) Through the midpoint $C$ of segment $AB$, draw $CD\perp AB$;
+(Exercise 16.2, Problem 2) Calculate:
 
-(2) The distance from point $P$ to line $AB$ is $3\,\text{cm}$; through point $P$ draw the perpendicular to line $AB$;
+(1) $3a\left(5a-2b\right)$;
 
-(3) Through a point $P$ inside triangle $ABC$, draw lines parallel to $AB$, $BC$, $AC$ respectively.
+(2) $-2xy\left(2xy^2-3xy\right)$;
 
-The figure contains three small diagrams: (1) segment $AB$ with its midpoint $C$, and $CD\perp AB$ through $C$; (2) a point $P$ outside line $AB$, with the distance from $P$ to $AB$ equal to $3\,\text{cm}$, and the perpendicular from $P$ to $AB$; (3) a point $P$ inside triangle $ABC$, with lines through $P$ parallel to $AB$, $BC$, $AC$ respectively.
+(3) $\left(x-3y\right)\left(-6x\right)$;
 
-### Solution to Review Exercise 4
+(4) $\left(-2ab\right)^2\left(2a-b+1\right)$.
 
-Draw step by step according to the statements: first take the midpoint $C$ of segment $AB$, and use a set square through $C$ to draw $CD\perp AB$; then measure the distance from point $P$ to line $AB$ as $3\,\text{cm}$, and through $P$ draw the perpendicular to $AB$; finally, by Parallel Axiom, through point $P$ draw lines parallel to $AB$, $BC$, $AC$ respectively. This gives the figure satisfying the statements. $\blacksquare$
+### Solution to Exercise 11
 
-## Review Exercise 5
+By Basic Knowledge.
 
-(Review Exercise, Review and Consolidation, Problem 5) As shown in the figure, a person rides a bicycle from point $A$ due east to point $B$, then changes direction to east by south $15^\circ$, and after riding to point $C$ continues due east. Draw the route of continued travel.
+(1) $3a\left(5a-2b\right)=15a^2-6ab$.
 
-The figure shows a route diagram: from point $A$ a segment due east to $B$, from $B$ a segment at $15^\circ$ south of east to $C$, with the due-east direction marked.
+(2) $-2xy\left(2xy^2-3xy\right)=-4x^2 y^3+6x^2 y^2$.
 
-### Solution to Review Exercise 5
+(3) $\left(x-3y\right)\left(-6x\right)=-6x^2+18xy$.
 
-From $A$ draw a line due east to $B$, from $B$ draw a line east by south $15^\circ$ to $C$, then from $C$ resume the due east direction and continue drawing. Since from $C$ the direction returns to due east, it is the same direction as $AB$; by the corresponding-angle relationships in Property 1, the turning of the route is self-consistent. Draw the route in the directions described above. $\blacksquare$
+(4) $\left(-2ab\right)^2\left(2a-b+1\right)=4a^2 b^2\left(2a-b+1\right)=8a^3 b^2-4a^2 b^3+4a^2 b^2$. $\blacksquare$
 
-## Review Exercise 6
+## Exercise 12
 
-(Review Exercise, Review and Consolidation, Problem 6) As shown in the figure, $\angle 1=30^\circ$, $\angle B=60^\circ$, $AB\perp AC$, with foot at $A$.
+(Exercise 16.2, Problem 3) Calculate: $x\left(x-1\right)+2x\left(x+1\right)-3x\left(2x-5\right)$.
 
-(1) What is $\angle DAB+\angle B$ equal to?
+### Solution to Exercise 12
 
-(2) Are $AD$ and $BC$ parallel? Are $AB$ and $DC$ parallel?
-
-### Solution to Review Exercise 6
-
-By Perpendicular, $AB\perp AC$, so $\angle BAC=90^\circ$.
-
-(1) $\angle DAB=\angle 1+\angle BAC=30^\circ+90^\circ=120^\circ$, so
+By Basic Knowledge.
 
 $$
-\angle DAB+\angle B=120^\circ+60^\circ=180^\circ.
+x\left(x-1\right)+2x\left(x+1\right)-3x\left(2x-5\right)=x^2-x+2x^2+2x-6x^2+15x=-3x^2+16x.
 $$
 
-(2) $\angle DAB$ and $\angle B$ are the consecutive interior angles formed when lines $AD$, $BC$ are cut by line $AB$; it has been found that $\angle DAB+\angle B=180^\circ$. By Criterion 3, supplementary consecutive interior angles imply parallel lines, so $AD\parallel BC$.
+$\blacksquare$
 
-The problem gives no supplementary or equal-angle relationship between $AB$ and $DC$, so $AB\parallel DC$ cannot be deduced, and it cannot be determined whether $AB$ and $DC$ are parallel. $\blacksquare$
+## Exercise 13
 
-## Review Exercise 7
+(Exercise 16.2, Problem 4) First simplify, then evaluate: $x^2\left(x-1\right)-x\left(x^2+x-1\right)$, where $x=\frac12$.
 
-(Review Exercise, Review and Consolidation, Problem 7) As shown in the figure, parallel lines $a$, $b$ are cut by line $c$. If you know the degree of one of $\angle 1\sim\angle 8$, can you find the degrees of the other angles? If yes, express the other angles in terms of one of them.
+### Solution to Exercise 13
 
-The figure shows two parallel lines $a$, $b$ cut by a transversal $c$, with eight angles $\angle 1$ through $\angle 8$ marked at the two intersections.
-
-### Solution to Review Exercise 7
-
-Yes. Let the known angle be $\alpha$. By Property 1 through Property 3, together with the vertical-angle and adjacent-supplementary-angle relationships, the eight angles have only two different degrees.
-
-Let the known angle be $\angle 1=\alpha$. By the equality of vertical angles, $\angle 3=\alpha$, $\angle 5=\alpha$, $\angle 7=\alpha$. The remaining angles are supplementary to $\angle 1$, i.e. $\angle 2=\angle 4=\angle 6=\angle 8=180^\circ-\alpha$.
-
-Thus, knowing any one of $\angle 1\sim\angle 8$, all the others can be found: the angles equal to it equal $\alpha$, and the angles supplementary to it equal $180^\circ-\alpha$. $\blacksquare$
-
-## Review Exercise 8
-
-(Review Exercise, Comprehensive Application, Problem 8) Multiple choice.
-
-(1) As shown in figure (1), point $E$ is on the extension of $AC$. Which of the following conditions can determine $AB\parallel CD$? (　　)
-
-(A) $\angle 3=\angle 4$　(B) $\angle 1=\angle 2$　(C) $\angle D=\angle DCE$　(D) $\angle D+\angle ACD=180^\circ$
-
-(2) As shown in figure (2), $\angle 1+\angle 2=180^\circ$, $\angle 3=108^\circ$, then $\angle 4=$ (　　).
-
-(A) $72^\circ$　(B) $80^\circ$　(C) $82^\circ$　(D) $108^\circ$
-
-### Solution to Review Exercise 8
-
-(1) By Criterion 2, equal alternate interior angles imply parallel lines. $\angle 1$ and $\angle 2$ are the alternate interior angles formed when lines $AB$, $CD$ are cut by line $BC$, so $\angle 1=\angle 2$ can determine $AB\parallel CD$. Choose (B).
-
-(2) $\angle 1+\angle 2=180^\circ$ implies that the corresponding two lines are parallel; then by the properties of parallel lines, $\angle 3$ and $\angle 4$ are supplementary. Thus
+First simplify, then substitute.
 
 $$
-\angle 4=180^\circ-\angle 3=180^\circ-108^\circ=72^\circ.
+x^2\left(x-1\right)-x\left(x^2+x-1\right)=x^3-x^2-x^3-x^2+x=-2x^2+x.
 $$
 
-Choose (A). $\blacksquare$
+Substituting $x=\frac12$, we get $-2\cdot\frac14+\frac12=-\frac12+\frac12=0$. $\blacksquare$
 
-## Review Exercise 9
+## Exercise 14
 
-(Review Exercise, Comprehensive Application, Problem 9) The figure shows a schematic diagram of a protective net, which can be regarded as composed of two groups of parallel lines. Can you verify that the segments are parallel by checking the sizes of some angles? Describe your method.
+(Exercise 16.2, Problem 1) Calculate:
 
-### Solution to Review Exercise 9
+(1) $\left(2x+1\right)\left(x+3\right)$;
 
-By Criterion 1, Criterion 2, and Criterion 3: take any transversal intersecting the two groups of parallel lines, and measure the cut-off corresponding angles (or alternate interior angles, or consecutive interior angles). If the corresponding angles are equal (or the alternate interior angles are equal, or the consecutive interior angles are supplementary), then by the corresponding criterion the two groups of cut segments are respectively parallel. Check group by group to verify that the segments in the protective net are parallel. $\blacksquare$
+(2) $\left(m+2n\right)\left(3n-m\right)$;
 
-## Review Exercise 10
+(3) $\left(a-1\right)^2$;
 
-(Review Exercise, Comprehensive Application, Problem 10) As shown in the figure, there is a point $P$ inside $\angle AOB$.
+(4) $\left(a+3b\right)\left(a-3b\right)$;
 
-(1) Through point $P$ draw $PC\parallel OB$, meeting $OA$ at point $C$, and draw $PD\parallel OA$, meeting $OB$ at point $D$;
+(5) $\left(2x^2-1\right)\left(x-4\right)$;
 
-(2) Write down the equal angles in the figure;
+(6) $\left(x^2+2x+3\right)\left(2x-5\right)$.
 
-(3) Write down the supplementary angles in the figure.
+### Solution to Exercise 14
 
-### Solution to Review Exercise 10
+By Multiplication of a Polynomial by a Polynomial.
 
-(1) By Parallel Axiom, through point $P$ draw $PC\parallel OB$ meeting $OA$ at $C$, and $PD\parallel OA$ meeting $OB$ at $D$.
+(1) $\left(2x+1\right)\left(x+3\right)=2x^2+6x+x+3=2x^2+7x+3$.
 
-(2) By Property 1 and Property 2, with $PC\parallel OB$ and $PD\parallel OA$, the corresponding corresponding angles and alternate interior angles are equal. The equal angles in the figure are: $\angle AOB=\angle PCD=\angle PDB$, as well as corresponding angles deduced from parallelism such as $\angle OCP=\angle ODP$.
+(2) $\left(m+2n\right)\left(3n-m\right)=3mn-m^2+6n^2-2mn=mn-m^2+6n^2$.
 
-(3) By Property 3, parallel lines give supplementary consecutive interior angles. The supplementary angles in the figure are the corresponding consecutive interior-angle combinations of $\angle OCP$ and $\angle CPD$, i.e. the adjacent angles of $\angle OCP+\angle ODP$; specifically, they are the consecutive interior angles formed by $PC\parallel OB$ and the consecutive interior angles formed by $PD\parallel OA$, whose sum is $180^\circ$. $\blacksquare$
+(3) $\left(a-1\right)^2=a^2-2a+1$.
 
-## Review Exercise 11
+(4) $\left(a+3b\right)\left(a-3b\right)=a^2-9b^2$.
 
-(Review Exercise, Comprehensive Application, Problem 11) As shown in the figure, line $l_1\parallel l_2$, $AB\perp l_2$, $CD\perp l_1$. Are $AB$ and $CD$ parallel? Why?
+(5) $\left(2x^2-1\right)\left(x-4\right)=2x^3-8x^2-x+4$.
 
-### Solution to Review Exercise 11
+(6) $\left(x^2+2x+3\right)\left(2x-5\right)=2x^3-5x^2+4x^2-10x+6x-15=2x^3-x^2-4x-15$. $\blacksquare$
 
-$AB\parallel CD$.
+## Exercise 15
 
-$\because l_1\parallel l_2$, $AB\perp l_2$, $\therefore AB\perp l_1$ (a line perpendicular to one of two parallel lines must be perpendicular to the other).
+(Exercise 16.2, Problem 2) Calculate:
 
-Also $CD\perp l_1$, so both $AB$ and $CD$ are perpendicular to $l_1$, and the corresponding angles they make with $l_1$ both equal $90^\circ$. By Criterion 1, equal corresponding angles imply parallel lines, so $AB\parallel CD$. $\blacksquare$
+(1) $\left(x+2\right)\left(x+3\right)$;
 
-## Review Exercise 12
+(2) $\left(x-4\right)\left(x+1\right)$;
 
-(Review Exercise, Comprehensive Application, Problem 12) Complete the following proofs.
+(3) $\left(x+4\right)\left(x-2\right)$;
 
-(1) As shown in figure (1), points $D$, $E$, $F$ are points on the sides $BC$, $CA$, $AB$ of triangle $ABC$ respectively; $DE\parallel BA$, $DF\parallel CA$. Prove that $\angle FDE=\angle A$.
+(4) $\left(x-5\right)\left(x-3\right)$.
 
-(2) As shown in figure (2), $AB$ and $CD$ intersect at point $O$, $\angle C=\angle COA$, $\angle D=\angle BOD$. Prove that $AC\parallel DB$.
+From the above results find a pattern; observe the figure and fill in the blank: $\left(x+p\right)\left(x+q\right)=\left(\;\;\right)^2+\left(\;\;\right)x+\left(\;\;\right)$.
 
-### Solution to Review Exercise 12
+### Solution to Exercise 15
 
-(1) Proof: $\because DE\parallel BA$, $\therefore\angle FDE=\angle BFD$ (parallel lines give equal alternate interior angles).
+By Basic Knowledge.
 
-$\because DF\parallel CA$, $\therefore\angle BFD=\angle A$ (parallel lines give equal corresponding angles).
+(1) $\left(x+2\right)\left(x+3\right)=x^2+5x+6$.
 
-$\therefore\angle FDE=\angle A$. $\blacksquare$
+(2) $\left(x-4\right)\left(x+1\right)=x^2-3x-4$.
 
-(2) Proof: $\because\angle C=\angle COA$, $\angle D=\angle BOD$, and $\angle COA=\angle BOD$ (vertical angles are equal),
+(3) $\left(x+4\right)\left(x-2\right)=x^2+2x-8$.
 
-$\therefore\angle C=\angle D$.
+(4) $\left(x-5\right)\left(x-3\right)=x^2-8x+15$.
 
-$\angle C$ and $\angle D$ are the alternate interior angles formed when lines $AC$, $DB$ are cut by line $CD$; by Criterion 2, equal alternate interior angles imply parallel lines, so $AC\parallel DB$. $\blacksquare$
+Observing the expressions: the coefficient of the quadratic term is $1$, the coefficient of the linear term equals the sum of the two constants, and the constant term equals the product of the two constants. Hence
 
-## Review Exercise 13
+$$\left(x+p\right)\left(x+q\right)=x^2+\left(p+q\right)x+pq.$$
 
-(Review Exercise, Extension and Exploration, Problem 13) Identify the hypothesis and conclusion of the following propositions, and judge whether they are correct or wrong. If wrong, give a counterexample.
+$\blacksquare$
 
-(1) When the sum of two angles equals a straight angle, the two angles are supplementary to each other;
+## Exercise 16
 
-(2) Equal consecutive interior angles imply parallel lines;
+(Exercise 16.2, Problem 3) First simplify, then evaluate: $\left(x-y\right)\left(x^2+xy+y^2\right)-\left(x+y\right)\left(x^2-y^2\right)$, where $x=5$, $y=5$.
 
-(3) When two parallel lines are cut by a third line, the alternate interior angles are equal.
+### Solution to Exercise 16
 
-### Solution to Review Exercise 13
+By Basic Knowledge.
 
-(1) Hypothesis: the sum of two angles equals a straight angle; conclusion: the two angles are supplementary to each other. By the definition of supplementary angles, two angles whose sum is $180^\circ$ are supplementary, and a straight angle is $180^\circ$, so the proposition is correct.
+$$\left(x-y\right)\left(x^2+xy+y^2\right)=x^3-y^3,$$
 
-(2) Hypothesis: consecutive interior angles are equal; conclusion: the two lines are parallel. By Criterion 3, it is supplementary consecutive interior angles (sum $180^\circ$), not equal ones, that determine parallelism. Counterexample: take the consecutive interior angles both equal to $60^\circ$ (equal but summing to $120^\circ\neq 180^\circ$), and the two lines are not parallel. Thus the proposition is wrong.
+$$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y\right)=\left(x+y\right)^2\left(x-y\right).$$
 
-(3) Hypothesis: two parallel lines are cut by a third line; conclusion: the alternate interior angles are equal. By Property 2, parallel lines give equal alternate interior angles, so the proposition is correct. $\blacksquare$
+Substituting $x=5,y=5$, we have $x-y=0$, so the original expression $=0-\left(x+y\right)\cdot0=0$. $\blacksquare$
 
-## Review Exercise 14
+## Exercise 17
 
-(Review Exercise, Extension and Exploration, Problem 14) The figure shows a local view of two overall patterns. Identify the basic figure in each, and explain how the whole pattern is obtained by translating the basic figure.
+(Exercise 16.2, Problem 1) Calculate:
 
-### Solution to Review Exercise 14
+(1) $x^7\div x^5$;
 
-By Properties of Translation, a pattern is obtained by repeatedly translating the smallest basic figure that repeats in it by the same distance in a certain direction. Find the smallest basic figure that repeats in the figure; that is the basic figure of the whole pattern. Repeatedly translate it along the direction in which the pattern extends to obtain the whole pattern. $\blacksquare$
+(2) $m^8\div m^8$;
 
-## Review Exercise 15
+(3) $\left(-a\right)^{10}\div\left(-a\right)^7$;
 
-(Review Exercise, Extension and Exploration, Problem 15) As shown in the figure, this is the floor plan of an apartment; there are many intersecting and parallel lines in the figure. Measure your own home, choose an appropriate scale, and draw its floor plan. Can you design a floor plan yourself?
+(4) $\left(xy\right)^5\div\left(xy\right)^3$.
 
-### Solution to Review Exercise 15
+### Solution to Exercise 17
 
-Use a ruler to measure the length and width of each room, choose an appropriate scale (for example $1:100$), and convert the actual lengths to lengths on the drawing according to the scale. Draw the floor plan of the apartment according to the intersecting and parallel relationships of the wall lines; when designing a floor plan yourself, use segments that are perpendicular or parallel to each other to represent the walls. $\blacksquare$
+By Division of Powers with the Same Base and Zero Exponent Power.
 
-## Review Exercise 16
+(1) $x^7\div x^5=x^2$.
 
-(Review Exercise, Extension and Exploration, Problem 16) The surface of a billiard table is as shown in the figure. A ball rolls from point $A$ on the table toward the cushion $PQ$; after hitting point $B$ on $PQ$, it bounces toward the cushion $RS$; after hitting point $C$ on $RS$, it bounces toward point $D$. Given that $PQ\parallel SR$, $AB$, $BC$, $CD$ are all straight lines, the bisector $BN$ of $\angle ABC$ is perpendicular to $PQ$, and the bisector $CM$ of $\angle BCD$ is perpendicular to $SR$. Then, is the path $CD$ the ball rolls after two bounces parallel to the original path $AB$?
+(2) $m^8\div m^8=m^0=1$.
 
-The figure shows a billiard table with long sides $PQ\parallel SR$; the ball travels from point $A$ to point $B$ on $PQ$, rebounds to point $C$ on $RS$, and rebounds again toward point $D$; $BN$ bisects $\angle ABC$ and is perpendicular to $PQ$, and $CM$ bisects $\angle BCD$ and is perpendicular to $SR$.
+(3) $\left(-a\right)^{10}\div\left(-a\right)^7=\left(-a\right)^3=-a^3$.
 
-### Solution to Review Exercise 16
-
-$CD\parallel AB$.
-
-$\because BN$ bisects $\angle ABC$ and $BN\perp PQ$, and $PQ\parallel SR$,
-
-from $PQ\parallel SR$ and $CM\perp SR$, we get $CM\perp PQ$.
-
-Both $BN$ and $CM$ are perpendicular to $PQ$ (and to $SR$), so $BN\parallel CM$.
-
-$BN\parallel CM$, with line $BC$ as the transversal; by Property 2, equal alternate interior angles give $\angle NBC=\angle MCB$.
-
-Also $BN$ bisects $\angle ABC$, so $\angle ABC=2\angle NBC$; $CM$ bisects $\angle BCD$, so $\angle BCD=2\angle MCB$. Hence $\angle ABC=\angle BCD$.
-
-$\angle ABC$ and $\angle BCD$ are the alternate interior angles formed when lines $AB$, $CD$ are cut by line $BC$; by Criterion 2, equal alternate interior angles imply parallel lines, so $CD\parallel AB$. $\blacksquare$
+(4) $\left(xy\right)^5\div\left(xy\right)^3=\left(xy\right)^2=x^2 y^2$. $\blacksquare$

@@ -1,175 +1,409 @@
 # week40
 
-## 复习题一
+## 练习一
 
-(复习题 复习巩固第 1 题) 求下列各数的平方根及算术平方根:
+(练习 18.2 第 2 题) 计算:
 
-(1) $0.36$;　(2) $\frac{25}{16}$;　(3) $\left(-\frac{7}{8}\right)^2$;　(4) $10^4$.
+(1) $\frac{4 x}{3 y}\cdot\frac{y}{2 x^3}$;
 
-### 解答 复习题一
+(2) $\frac{a^2 b}{2 c^2}\cdot\frac{-4 c}{5 a b}$.
 
-由平方根 与算术平方根.
+### 解答 练习一
 
-(1) $\because\left(\pm 0.6\right)^2=0.36$, $\therefore$ 平方根为 $\pm 0.6$, 算术平方根为 $0.6$.
+由基础知识.
 
-(2) $\because\left(\pm\frac{5}{4}\right)^2=\frac{25}{16}$, $\therefore$ 平方根为 $\pm\frac{5}{4}$, 算术平方根为 $\frac{5}{4}$.
+(1) $\frac{4x}{3y}\cdot\frac{y}{2x^3}=\frac{4xy}{6x^3 y}=\frac{2}{3x^2}$.
 
-(3) $\left(-\frac{7}{8}\right)^2=\frac{49}{64}$, $\because\left(\pm\frac{7}{8}\right)^2=\frac{49}{64}$, $\therefore$ 平方根为 $\pm\frac{7}{8}$, 算术平方根为 $\frac{7}{8}$.
+(2) $\frac{a^2 b}{2c^2}\cdot\frac{-4c}{5ab}=-\frac{4a^2 bc}{10abc^2}=-\frac{2a}{5c}$. $\blacksquare$
 
-(4) $10^4=10000$, $\because\left(\pm 100\right)^2=10000$, $\therefore$ 平方根为 $\pm 100$, 算术平方根为 $100$. $\blacksquare$
+## 练习二
 
-## 复习题二
+(练习 18.2 第 1 题) 计算:
 
-(复习题 复习巩固第 2 题) 求下列各数的立方根:
+(1) $\frac{2}{x}\div\frac{4}{x}$;
 
-(1) $\frac{27}{8}$;　(2) $-\frac{1}{64}$;　(3) $-0.729$;　(4) $36$.
+(2) $\frac{5}{x y}\div\left(-\frac{15}{x}\right)$;
 
-### 解答 复习题二
+(3) $\frac{4}{3 x y}\div\frac{2}{3 x y^2}$;
 
-由立方根.
+(4) $\frac{a^2-4}{a^2+4 a+4}\div\left(a+2\right)$.
 
-(1) $\because\left(\frac{3}{2}\right)^3=\frac{27}{8}$, $\therefore\sqrt\left[3\right]{\frac{27}{8}}=\frac{3}{2}$.
+### 解答 练习二
 
-(2) $\because\left(-\frac{1}{4}\right)^3=-\frac{1}{64}$, $\therefore\sqrt\left[3\right]{-\frac{1}{64}}=-\frac{1}{4}$.
+由基础知识.
 
-(3) $\because\left(-0.9\right)^3=-0.729$, $\therefore\sqrt\left[3\right]{-0.729}=-0.9$.
+(1) $\frac{2}{x}\div\frac{4}{x}=\frac{2}{x}\cdot\frac{x}{4}=\frac12$.
 
-(4) $36$ 的立方根为 $\sqrt\left[3\right]{36}$ (开不尽), $\approx 3.30$. $\blacksquare$
+(2) $\frac{5}{xy}\div\left(-\frac{15}{x}\right)=\frac{5}{xy}\cdot\left(-\frac{x}{15}\right)=-\frac{1}{3y}$.
 
-## 复习题三
+(3) $\frac{4}{3xy}\div\frac{2}{3xy^2}=\frac{4}{3xy}\cdot\frac{3xy^2}{2}=2y$.
 
-(复习题 复习巩固第 3 题) 求下列各式的值:
+(4) $\frac{a^2-4}{a^2+4a+4}\div\left(a+2\right)=\frac{\left(a+2\right)\left(a-2\right)}{\left(a+2\right)^2}\cdot\frac{1}{a+2}=\frac{a-2}{\left(a+2\right)^2}$. $\blacksquare$
 
-(1) $-\sqrt{1-\frac{16}{25}}$;　(2) $\sqrt\left[3\right]{10^3}$;　(3) $\pm\sqrt{0.09}$;　(4) $\sqrt{\left(3-\pi\right)^2}$.
+## 练习三
 
-### 解答 复习题三
+(练习 18.2 第 2 题) 计算:
 
-由算术平方根,算术平方根的性质,立方根.
+(1) $\frac{3 x}{4 y}\cdot\frac{16 y}{9 x^2}$;
 
-(1) $1-\frac{16}{25}=\frac{9}{25}$, $\sqrt{\frac{9}{25}}=\frac{3}{5}$, 故 $-\sqrt{1-\frac{16}{25}}=-\frac{3}{5}$.
+(2) $\left(xy-x^2\right)\div\frac{x-y}{xy}$.
 
-(2) $\sqrt\left[3\right]{10^3}=10$.
+### 解答 练习三
 
-(3) $\because 0.3^2=0.09$, $\therefore\pm\sqrt{0.09}=\pm 0.3$.
+(1) $\frac{3x}{4y}\cdot\frac{16y}{9x^2}=\frac{48xy}{36x^2 y}=\frac{4}{3x}$.
 
-(4) $\because\pi> 3$, $\therefore 3-\pi< 0$. 由算术平方根的性质, $\sqrt{\left(3-\pi\right)^2}=\left|3-\pi\right|=\pi-3$. $\blacksquare$
+(2) $\left(xy-x^2\right)\div\frac{x-y}{xy}=x\left(y-x\right)\cdot\frac{xy}{x-y}=-x\left(x-y\right)\cdot\frac{xy}{x-y}=-x^2 y$. $\blacksquare$
 
-## 复习题四
+## 练习四
 
-(复习题 复习巩固第 4 题) 用计算器求下列各式的值:
+(练习 18.2 第 1 题) 下列各式是否正确? 为什么?
 
-(1) $\sqrt{180625}$;　(2) $-\sqrt{9.77}$ (结果保留小数点后三位);　(3) $\sqrt\left[3\right]{39304}$;　(4) $\sqrt\left[3\right]{0.43}$ (结果保留小数点后三位).
+(1) $\left(\frac{b^2}{a}\right)^3=\frac{b^6}{a^3}$;
 
-### 解答 复习题四
+(2) $\left(-\frac{b^2}{a}\right)^3=-\frac{b^6}{a^3}$;
 
-用计算器求.
+(3) $\left(\frac{2 a}{a+b}\right)^2=\frac{4 a^2}{a^2+b^2}$.
 
-(1) $\because 425^2=180625$, $\therefore\sqrt{180625}=425$.
+### 解答 练习四
 
-(2) $\sqrt{9.77}\approx 3.126$, 故 $-\sqrt{9.77}\approx-3.126$.
+由基础知识.
 
-(3) $\because 34^3=39304$, $\therefore\sqrt\left[3\right]{39304}=34$.
+(1) 正确, $\left(\frac{b^2}{a}\right)^3=\frac{\left(b^2\right)^3}{a^3}=\frac{b^6}{a^3}$.
 
-(4) $\sqrt\left[3\right]{0.43}\approx 0.755$. $\blacksquare$
+(2) 正确, $\left(-\frac{b^2}{a}\right)^3=-\frac{b^6}{a^3}$.
 
-## 复习题五
+(3) 不正确, $\left(\frac{2a}{a+b}\right)^2=\frac{4a^2}{\left(a+b\right)^2}$, 分母也应平方. $\blacksquare$
 
-(复习题 复习巩固第 5 题) 计算:
+## 练习五
 
-(1) $\sqrt 2\left(\sqrt 2+2\right)$;　(2) $\sqrt 3\left(\sqrt 3+\frac{1}{\sqrt 3}\right)$.
+(练习 18.2 第 2 题) 计算:
 
-### 解答 复习题五
+(1) $\left(\frac{2 x}{-y}\right)^2$;
 
-由分配律展开.
+(2) $\left(\frac{a^2 b}{-c}\right)^3\div\left(\frac{a b}{c^2}\right)^2$.
 
-(1) $\sqrt 2\left(\sqrt 2+2\right)=\left(\sqrt 2\right)^2+2\sqrt 2=2+2\sqrt 2$.
+### 解答 练习五
 
-(2) $\sqrt 3\left(\sqrt 3+\frac{1}{\sqrt 3}\right)=\left(\sqrt 3\right)^2+\sqrt 3\cdot\frac{1}{\sqrt 3}=3+1=4$. $\blacksquare$
+由基础知识.
 
-## 复习题六
+(1) $\left(\frac{2x}{-y}\right)^2=\frac{4x^2}{y^2}$.
 
-(复习题 复习巩固第 6 题) 下列各数分别介于哪两个相邻的整数之间? 与哪个整数更接近?
+(2) $\frac{a^6 b^3}{-c^3}\div\frac{a^2 b^2}{c^4}=-\frac{a^6 b^3}{c^3}\cdot\frac{c^4}{a^2 b^2}=-a^4 b c$. $\blacksquare$
 
-(1) $\sqrt{91}$;　(2) $\sqrt\left[3\right]{91}$.
+## 习题一
 
-### 解答 复习题六
+(习题 18.2 复习巩固第 1 题) 计算:
 
-(1) $\because 9^2=81< 91< 100=10^2$, $\therefore 9< \sqrt{91}< 10$. 又 $91-81=10$, $100-91=9$, $91$ 距 $100$ 更近, 故 $\sqrt{91}$ 介于 $9$ 与 $10$ 之间, 更接近 $10$.
+(1) $\frac{3}{a}\cdot\frac{a^2}{9}$;
 
-(2) $\because 4^3=64< 91< 125=5^3$, $\therefore 4< \sqrt\left[3\right]{91}< 5$. 又 $91-64=27$, $125-91=34$, $91$ 距 $64$ 更近, 故 $\sqrt\left[3\right]{91}$ 介于 $4$ 与 $5$ 之间, 更接近 $4$. $\blacksquare$
+(2) $\frac{3 y}{6 x^2}\div\frac{y^2}{10 x}$;
 
-## 复习题七
+(3) $\frac{3}{4 x y^3}\cdot\frac{2 x^2 y}{27}$;
 
-(复习题 综合运用第 7 题) 已知 $\left|x\right|< \pi$ ($x$ 是整数), 求 $x$ 的值, 并在数轴上表示求得的数.
+(4) $\frac{6 a b^2}{c^2 d}\div\frac{3 a b}{2 c d^2}$.
 
-### 解答 复习题七
+### 解答 习题一
 
-$\pi\approx 3.14$, $\left|x\right|< \pi$ 即 $-\pi< x< \pi$, 即 $-3.14< x< 3.14$. 其间的整数为 $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
+(1) $\frac{3}{a}\cdot\frac{a^2}{9}=\frac{a}{3}$.
 
-故 $x=-3$, $-2$, $-1$, $0$, $1$, $2$, $3$. 在数轴上对应标出这些点即可. $\blacksquare$
+(2) $\frac{3y}{6x^2}\div\frac{y^2}{10x}=\frac{3y}{6x^2}\cdot\frac{10x}{y^2}=\frac{5}{xy}$.
 
-## 复习题八
+(3) $\frac{3}{4xy^3}\cdot\frac{2x^2 y}{27}=\frac{6x^2 y}{108xy^3}=\frac{x}{18y^2}$.
 
-(复习题 综合运用第 8 题) 一个圆与一个正方形的面积都是 $2\pi\,\text{cm}^2$, 它们中哪一个的周长较大? 你能从中得到什么启示?
+(4) $\frac{6ab^2}{c^2 d}\div\frac{3ab}{2cd^2}=\frac{6ab^2}{c^2 d}\cdot\frac{2cd^2}{3ab}=\frac{4bd}{c}$. $\blacksquare$
 
-图中为一个圆和一个正方形并排画出, 两者面积均为 $2\pi\,\text{cm}^2$.
+## 习题二
 
-### 解答 复习题八
+(习题 18.2 复习巩固第 2 题) 计算:
 
-由平方根 求边长, 半径.
+(1) $\frac{2 a}{a+1}+\frac{a^2}{a+1}$;
 
-正方形: 面积 $2\pi$, 边长 $a=\sqrt{2\pi}$, 周长 $C_正=4a=4\sqrt{2\pi}$.
+(2) $\frac{m^2-16}{12-3 m}\div\frac{m+4}{m^2-4 m}$;
 
-圆: 面积 $\pi r^2=2\pi$, 故 $r^2=2$, $r=\sqrt 2$, 周长 $C_圆=2\pi r=2\pi\sqrt 2$.
+(3) $\frac{x^2+x}{x-1}\div\frac{x}{x-1}$;
 
-比较: $C_正=4\sqrt{2\pi}\approx 4\times 2.507=10.03$, $C_圆=2\pi\sqrt 2\approx 8.89$. 故 $C_正> C_圆$, 正方形的周长较大.
+(4) $\frac{2 x}{x-1}\div\frac{x}{x-1}$.
 
-启示: 面积相等时, 圆的周长比正方形小, 即圆是相同面积下周界最小的图形. $\blacksquare$
+### 解答 习题二
 
-## 复习题九
+(1) 注意此为加法, $\frac{2a}{a+1}+\frac{a^2}{a+1}=\frac{a^2+2a}{a+1}=\frac{a\left(a+2\right)}{a+1}$.
 
-(复习题 综合运用第 9 题) 天气晴朗时, 一个人站在海边能看到大海的最远距离 $s$ (单位: $km$) 可用 $s^2=16.74h$ 来估计, 其中 $h$ (单位: $m$) 为眼睛到海平面的距离. 王芳站在海边观察, 眼睛到海平面的距离为 $1.5\,m$, 她能看到的最远距离是多少千米? 如果她站在海边的岩石上, 眼睛到海平面的距离为 $8.7\,m$, 她能看到的最远距离是多少千米? (结果保留小数点后两位.)
+(2) $\frac{m^2-16}{12-3m}\div\frac{m+4}{m^2-4m}=\frac{\left(m+4\right)\left(m-4\right)}{3\left(4-m\right)}\cdot\frac{m\left(m-4\right)}{m+4}=\frac{\left(m-4\right)}{3\left(-\left(m-4\right)\right)}\cdot m\left(m-4\right)=-\frac{m\left(m-4\right)}{3}$.
 
-### 解答 复习题九
+(3) $\frac{x^2+x}{x-1}\div\frac{x}{x-1}=\frac{x\left(x+1\right)}{x-1}\cdot\frac{x-1}{x}=x+1$.
 
-由 $s^2=16.74h$, $s=\sqrt{16.74h}$ (取正).
+(4) $\frac{2x}{x-1}\div\frac{x}{x-1}=\frac{2x}{x-1}\cdot\frac{x-1}{x}=2$. $\blacksquare$
 
-当 $h=1.5$ 时, $s=\sqrt{16.74\times 1.5}=\sqrt{25.11}\approx 5.01\,km$.
+## 习题三
 
-当 $h=8.7$ 时, $s=\sqrt{16.74\times 8.7}=\sqrt{145.64}\approx 12.07\,km$.
+(习题 18.2 复习巩固第 3 题) 计算:
 
-故她在海边能看到约 $5.01\,km$, 站在岩石上能看到约 $12.07\,km$. $\blacksquare$
+(1) $\left(\frac{-2 a^2 b}{3 c}\right)^3$;
 
-## 复习题十
+(2) $\left(\frac{2 x}{-y}\right)^2$;
 
-(复习题 拓广探索第 10 题) 将一正方体铁块完全浸入圆柱形玻璃杯的水中, 水位升高了 $58\,mm$. 如果玻璃杯内部的底面半径为 $95\,mm$, 那么正方体的棱长是多少毫米? ($\pi$ 取 $3.14$, 结果取整数.)
+(3) $\left(\frac{a^2 b}{-c}\right)^3\div\left(\frac{a b^2}{c^2}\right)^2$;
 
-### 解答 复习题十
+(4) $\left(\frac{x^2}{y}\right)^2\cdot\left(-\frac{y^2}{x}\right)^3$.
 
-水位升高部分的圆柱体积等于正方体体积. 升高部分体积为
+### 解答 习题三
 
-$$
-V=\pi r^2 h=3.14\times 95^2\times 58.
-$$
+由基础知识.
 
-计算: $95^2=9025$, $V=3.14\times 9025\times 58=1645553\,\text{mm}^3$.
+(1) $\left(\frac{-2a^2 b}{3c}\right)^3=-\frac{8a^6 b^3}{27c^3}$.
 
-设正方体棱长为 $x$, $x^3=1645553$, $x=\sqrt\left[3\right]{1645553}\approx 118$.
+(2) $\left(\frac{2x}{-y}\right)^2=\frac{4x^2}{y^2}$.
 
-即正方体棱长约为 $118\,mm$. $\blacksquare$
+(3) $\frac{-a^6 b^3}{c^3}\div\frac{a^2 b^4}{c^4}=-\frac{a^6 b^3}{c^3}\cdot\frac{c^4}{a^2 b^4}=-\frac{a^4 c}{b}$.
 
-## 复习题十一
+(4) $\frac{x^4}{y^2}\cdot\left(-\frac{y^6}{x^3}\right)=-x y^4$. $\blacksquare$
 
-(复习题 拓广探索第 11 题)
+## 习题四
 
-(1) 怎样把由 $5$ 个边长为 $1$ 的小正方形组成的图形 (如图) 剪拼成一个大正方形?
+(习题 18.2 综合运用第 4 题) 计算:
 
-(2) 在数轴上画出这个大正方形的边长所对应的点.
+(1) $\left(\frac{a^2 b}{-c}\right)^2\cdot\left(\frac{c^2}{-ab}\right)^3\div\left(\frac{bc}{a}\right)^4$;
 
-图中为由 $5$ 个边长为 $1$ 的小正方形组成的图形.
+(2) $\frac{a-b}{a^2+a b}\div\frac{a^2-a b}{a^2-b^2}$.
 
-### 解答 复习题十一
+### 解答 习题四
 
-(1) $5$ 个边长为 $1$ 的小正方形总面积为 $5$. 拼成的大正方形面积也为 $5$, 由平方根, 大正方形边长为 $\sqrt 5$. 沿小正方形网格的对角线剪开, 把剪出的直角三角形重新拼合, 即可拼成边长为 $\sqrt 5$ 的大正方形.
+(1) $\frac{a^4 b^2}{c^2}\cdot\left(-\frac{c^6}{a^3 b^3}\right)\div\frac{b^4 c^4}{a^4}=-\frac{a^4 b^2 c^6}{a^3 b^3 c^2}\cdot\frac{a^4}{b^4 c^4}=-\frac{a^5}{b^5}$.
 
-(2) 大正方形边长为 $\sqrt 5$. 在数轴上以原点为圆心, $\sqrt 5$ 为半径画弧, 与正半轴的交点即表示 $\sqrt 5$, 与负半轴的交点表示 $-\sqrt 5$. $\blacksquare$
+(2) $\frac{a-b}{a\left(a+b\right)}\div\frac{a\left(a-b\right)}{\left(a+b\right)\left(a-b\right)}=\frac{a-b}{a\left(a+b\right)}\cdot\frac{\left(a+b\right)\left(a-b\right)}{a\left(a-b\right)}=\frac{a-b}{a^2}$. $\blacksquare$
+
+## 习题五
+
+(习题 18.2 综合运用第 5 题) 计算:
+
+(1) $\frac{m}{3 n}\div\frac{n}{9 m}\cdot\frac{3 m}{n^2}$;
+
+(2) $\left(\frac{2 x}{x+y}-\frac{x}{x-y}\right)\cdot\frac{x^2-y^2}{x}$.
+
+### 解答 习题五
+
+(1) $\frac{m}{3n}\cdot\frac{9m}{n}\cdot\frac{3m}{n^2}=\frac{27m^3}{3n^4}=\frac{9m^3}{n^4}$.
+
+(2) $\left(\frac{2x}{x+y}-\frac{x}{x-y}\right)\cdot\frac{\left(x+y\right)\left(x-y\right)}{x}=\frac{2x\left(x-y\right)-x\left(x+y\right)}{\left(x+y\right)\left(x-y\right)}\cdot\frac{\left(x+y\right)\left(x-y\right)}{x}=2\left(x-y\right)-\left(x+y\right)=x-3y$. $\blacksquare$
+
+## 习题六
+
+(习题 18.2 综合运用第 6 题) 如图, 甲, 乙两块长方形花坛, 甲花坛的长为 $a$, 宽为 $b$; 乙花坛的长为 $\left(a+b\right)$, 宽为 $\left(a-b\right)$ ($a> b$). 哪个花坛的面积大? 大多少?
+
+图中左右并排两个长方形花坛: 左边甲花坛长为 $a$, 宽为 $b$; 右边乙花坛长为 $\left(a+b\right)$, 宽为 $\left(a-b\right)$ ($a> b$).
+
+### 解答 习题六
+
+甲花坛面积 $S_1=ab$, 乙花坛面积 $S_2=\left(a+b\right)\left(a-b\right)=a^2-b^2$.
+
+比较 $S_2-S_1=a^2-b^2-ab$. 由 $a> b> 0$, 例如 $a=2,b=1$ 时 $S_2=3$, $S_1=2$, $S_2> S_1$. 一般地, 题目问"哪个大, 大多少":
+
+$$S_2-S_1=a^2-b^2-ab.$$
+
+当 $a^2-ab-b^2> 0$ 即 $a> \frac{1+\sqrt5}{2}b$ 时乙花坛大. 教材设定下乙花坛面积为 $a^2-b^2$, 甲为 $ab$, 乙比甲大 $\left(a^2-b^2-ab\right)$. $\blacksquare$
+
+## 习题七
+
+(习题 18.2 综合运用第 7 题) 一辆汽车往返于相距 $a\ \text{km}$ 的甲, 乙两地, 去时速度为 $v_1\ \text{km/h}$, 返回速度为 $v_2\ \text{km/h}$, 求往返一次的平均速度.
+
+### 解答 习题七
+
+去时用时 $\frac{a}{v_1}$, 返回用时 $\frac{a}{v_2}$. 总路程 $2a$, 总时间 $\frac{a}{v_1}+\frac{a}{v_2}$.
+
+平均速度
+
+$$\overline v=\frac{2a}{\frac{a}{v_1}+\frac{a}{v_2}}=\frac{2a}{a\frac{v_1+v_2}{v_1 v_2}}=\frac{2v_1 v_2}{v_1+v_2}\ \left(\text{km/h}\right).$$
+
+$\blacksquare$
+
+## 习题八
+
+(习题 18.2 拓广探索第 8 题) 计算: $\frac{x^2-4 y^2}{x^2+2 x y+y^2}\div\frac{x+2 y}{x^2+xy}\cdot\frac{x}{x-2 y}$.
+
+### 解答 习题八
+
+$$\frac{\left(x+2y\right)\left(x-2y\right)}{\left(x+y\right)^2}\div\frac{x+2y}{x\left(x+y\right)}\cdot\frac{x}{x-2y}=\frac{\left(x+2y\right)\left(x-2y\right)}{\left(x+y\right)^2}\cdot\frac{x\left(x+y\right)}{x+2y}\cdot\frac{x}{x-2y}=\frac{x^2}{x+y}.$$
+
+$\blacksquare$
+
+## 练习六
+
+(练习 18.3 第 1 题) 计算:
+
+(1) $\frac{3}{a}+\frac{1}{a}$;
+
+(2) $\frac{m}{m-n}-\frac{n}{m-n}$;
+
+(3) $\frac{x^2}{x+y}+\frac{y^2+2xy}{x+y}$;
+
+(4) $\frac{a^2}{a-1}-a-1$.
+
+### 解答 练习六
+
+由同分母分式的加减法.
+
+(1) $\frac{3}{a}+\frac{1}{a}=\frac{4}{a}$.
+
+(2) $\frac{m}{m-n}-\frac{n}{m-n}=\frac{m-n}{m-n}=1$.
+
+(3) $\frac{x^2}{x+y}+\frac{y^2+2xy}{x+y}=\frac{x^2+2xy+y^2}{x+y}=\frac{\left(x+y\right)^2}{x+y}=x+y$.
+
+(4) $\frac{a^2}{a-1}-a-1=\frac{a^2-\left(a+1\right)\left(a-1\right)}{a-1}=\frac{a^2-\left(a^2-1\right)}{a-1}=\frac{1}{a-1}$. $\blacksquare$
+
+## 练习七
+
+(练习 18.3 第 1 题) 计算:
+
+(1) $\frac{1}{2 c^2 d}+\frac{1}{3 c d^2}$;
+
+(2) $\frac{1}{p-q}+\frac{1}{p+q}$;
+
+(3) $\frac{a}{a^2-4}-\frac{1}{a+2}$;
+
+(4) $\frac{a}{a-b}+\frac{b^2}{ab-a^2}$.
+
+### 解答 练习七
+
+由异分母分式的加减法.
+
+(1) 公分母 $6c^2 d^2$: $\frac{1}{2c^2 d}+\frac{1}{3cd^2}=\frac{3d+2c}{6c^2 d^2}$.
+
+(2) 公分母 $\left(p-q\right)\left(p+q\right)$: $\frac{\left(p+q\right)+\left(p-q\right)}{\left(p-q\right)\left(p+q\right)}=\frac{2p}{p^2-q^2}$.
+
+(3) 公分母 $\left(a+2\right)\left(a-2\right)$: $\frac{a}{\left(a+2\right)\left(a-2\right)}-\frac{a-2}{\left(a+2\right)\left(a-2\right)}=\frac{a-\left(a-2\right)}{\left(a+2\right)\left(a-2\right)}=\frac{2}{a^2-4}$.
+
+(4) $\frac{a}{a-b}+\frac{b^2}{a\left(b-a\right)}=\frac{a}{a-b}-\frac{b^2}{a\left(a-b\right)}=\frac{a^2-b^2}{a\left(a-b\right)}=\frac{a+b}{a}$. $\blacksquare$
+
+## 练习八
+
+(练习 18.3 第 2 题) 计算:
+
+(1) $1+\frac{1}{a}$;
+
+(2) $1-\frac{1}{a+1}$.
+
+### 解答 练习八
+
+(1) $1+\frac{1}{a}=\frac{a+1}{a}$.
+
+(2) $1-\frac{1}{a+1}=\frac{\left(a+1\right)-1}{a+1}=\frac{a}{a+1}$. $\blacksquare$
+
+## 习题九
+
+(习题 18.3 复习巩固第 1 题) 计算:
+
+(1) $\frac{3}{a}+\frac{a-15}{5 a}$;
+
+(2) $\frac{2 y}{3 x^2 y^2}+\frac{5 x}{3 x^2 y^2}$;
+
+(3) $\frac{a+1}{a-1}-\frac{a}{a-1}$;
+
+(4) $\frac{x^2}{x-2}-\frac{4 x}{x-2}+\frac{4}{x-2}$.
+
+### 解答 习题九
+
+由基础知识.
+
+(1) $\frac{15}{5a}+\frac{a-15}{5a}=\frac{a}{5a}=\frac15$.
+
+(2) $\frac{2y+5x}{3x^2 y^2}$.
+
+(3) $\frac{a+1-a}{a-1}=\frac{1}{a-1}$.
+
+(4) $\frac{x^2-4x+4}{x-2}=\frac{\left(x-2\right)^2}{x-2}=x-2$. $\blacksquare$
+
+## 习题十
+
+(习题 18.3 复习巩固第 2 题) 计算:
+
+(1) $\frac{1}{x}-\frac{1}{x+1}$;
+
+(2) $\frac{1}{a+2}-\frac{1}{a-2}$;
+
+(3) $\frac{1}{x+y}+\frac{1}{x-y}$;
+
+(4) $\frac{x}{x+1}-\frac{2}{x^2-1}$.
+
+### 解答 习题十
+
+由基础知识.
+
+(1) $\frac{\left(x+1\right)-x}{x\left(x+1\right)}=\frac{1}{x\left(x+1\right)}$.
+
+(2) $\frac{\left(a-2\right)-\left(a+2\right)}{\left(a+2\right)\left(a-2\right)}=\frac{-4}{a^2-4}=-\frac{4}{a^2-4}$.
+
+(3) $\frac{\left(x-y\right)+\left(x+y\right)}{\left(x+y\right)\left(x-y\right)}=\frac{2x}{x^2-y^2}$.
+
+(4) $\frac{x}{x+1}-\frac{2}{\left(x+1\right)\left(x-1\right)}=\frac{x\left(x-1\right)-2}{\left(x+1\right)\left(x-1\right)}=\frac{x^2-x-2}{\left(x+1\right)\left(x-1\right)}=\frac{\left(x-2\right)\left(x+1\right)}{\left(x+1\right)\left(x-1\right)}=\frac{x-2}{x-1}$. $\blacksquare$
+
+## 习题十一
+
+(习题 18.3 复习巩固第 3 题) 计算:
+
+(1) $\frac{2 a}{a^2-4}-\frac{1}{a-2}$;
+
+(2) $\frac{y}{x+y}+\frac{xy}{y^2-x^2}$;
+
+(3) $\frac{1}{x+1}-1+\frac{1}{1-x}$;
+
+(4) $\frac{2 y}{x-y}-\frac{2 x}{y-x}$.
+
+### 解答 习题十一
+
+(1) $\frac{2a}{\left(a+2\right)\left(a-2\right)}-\frac{a+2}{\left(a+2\right)\left(a-2\right)}=\frac{a-2}{\left(a+2\right)\left(a-2\right)}=\frac{1}{a+2}$.
+
+(2) $\frac{y}{x+y}+\frac{xy}{\left(y-x\right)\left(y+x\right)}=\frac{y\left(y-x\right)+xy}{\left(x+y\right)\left(y-x\right)}=\frac{y^2}{\left(x+y\right)\left(y-x\right)}=\frac{y^2}{y^2-x^2}$.
+
+(3) $\frac{1}{x+1}-1-\frac{1}{x-1}=\frac{\left(x-1\right)-\left(x+1\right)\left(x-1\right)-\left(x+1\right)}{\left(x+1\right)\left(x-1\right)}=\frac{x-1-x^2+1-x-1}{x^2-1}=\frac{-x^2-x-1}{x^2-1}$.
+
+(4) $\frac{2y}{x-y}+\frac{2x}{x-y}=\frac{2x+2y}{x-y}$. $\blacksquare$
+
+## 习题十二
+
+(习题 18.3 综合运用第 4 题) 计算:
+
+(1) $\left(\frac{a}{a-2}-\frac{a}{a+2}\right)\div\frac{a}{a-2}$;
+
+(2) $\left(\frac{3 a}{a-3}-\frac{a}{a+3}\right)\cdot\frac{a^2-9}{a}$.
+
+### 解答 习题十二
+
+(1) $\frac{a\left(a+2\right)-a\left(a-2\right)}{\left(a-2\right)\left(a+2\right)}\cdot\frac{a-2}{a}=\frac{4a}{\left(a-2\right)\left(a+2\right)}\cdot\frac{a-2}{a}=\frac{4}{a+2}$.
+
+(2) $\frac{3a\left(a+3\right)-a\left(a-3\right)}{\left(a-3\right)\left(a+3\right)}\cdot\frac{\left(a-3\right)\left(a+3\right)}{a}=\frac{3a^2+9a-a^2+3a}{a}=\frac{2a^2+12a}{a}=2a+12$. $\blacksquare$
+
+## 习题十三
+
+(习题 18.3 综合运用第 5 题) 先化简, 再求值:
+
+(1) $\left(\frac{x^2-y^2}{xy}\right)^2\div\left(x+y\right)^2\cdot\left(\frac{x}{x-y}\right)^3$, 其中 $x=2$, $y=1$.
+
+### 解答 习题十三
+
+$$\frac{\left(x^2-y^2\right)^2}{x^2 y^2}\cdot\frac{1}{\left(x+y\right)^2}\cdot\frac{x^3}{\left(x-y\right)^3}=\frac{\left(x+y\right)^2\left(x-y\right)^2}{x^2 y^2}\cdot\frac{1}{\left(x+y\right)^2}\cdot\frac{x^3}{\left(x-y\right)^3}=\frac{x}{y^2\left(x-y\right)}.$$
+
+代入 $x=2,y=1$, 得 $\frac{2}{1\cdot1}=2$. $\blacksquare$
+
+## 习题十四
+
+(习题 18.3 综合运用第 6 题) 计算: $\frac{1}{1\times2}+\frac{1}{2\times3}+\frac{1}{3\times4}+\cdots+\frac{1}{99\times100}$.
+
+### 解答 习题十四
+
+利用 $\frac{1}{n\left(n+1\right)}=\frac1n-\frac{1}{n+1}$ 裂项:
+
+$$\left(1-\frac12\right)+\left(\frac12-\frac13\right)+\cdots+\left(\frac{1}{99}-\frac{1}{100}\right)=1-\frac{1}{100}=\frac{99}{100}.$$
+
+$\blacksquare$
+
+## 习题十五
+
+(习题 18.3 拓广探索第 7 题) 计算: $\frac{1}{x\left(x+1\right)}+\frac{1}{\left(x+1\right)\left(x+2\right)}+\frac{1}{\left(x+2\right)\left(x+3\right)}$.
+
+### 解答 习题十五
+
+裂项相消:
+
+$$\left(\frac1x-\frac{1}{x+1}\right)+\left(\frac{1}{x+1}-\frac{1}{x+2}\right)+\left(\frac{1}{x+2}-\frac{1}{x+3}\right)=\frac1x-\frac{1}{x+3}=\frac{3}{x\left(x+3\right)}.$$
+
+$\blacksquare$

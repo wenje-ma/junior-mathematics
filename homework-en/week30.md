@@ -1,267 +1,475 @@
 # week30
 
-## Exercise 1
-
-(Exercise 7.1, Problem 1) In the following figures, are $\angle 1$ and $\angle 2$ vertical angles?
-
-The figure shows four small diagrams (1)–(4) in sequence, each marking a pair of angles $\angle 1$ and $\angle 2$: in (1) the angles share a vertex but their sides are not opposite extensions; in (2) the angles share a vertex and their sides are respectively opposite extensions; in (3) the sides are not opposite extensions; in (4) the sides are not opposite extensions.
-
-### Solution to Exercise 1
-
-By Vertical Angles, for a pair of angles to be vertical angles they must simultaneously satisfy: sharing a common vertex, and the sides of one being respectively the opposite extensions of the sides of the other.
-
-In figure (1), the sides of $\angle 1$ and $\angle 2$ are not opposite extensions of each other, so they are not vertical angles; in figure (2), $\angle 1$ and $\angle 2$ share a common vertex and their sides are respectively opposite extensions of each other, so they are vertical angles; in figure (3), $\angle 1$ and $\angle 2$ do not satisfy the opposite-extension condition, so they are not vertical angles; in figure (4), the sides of $\angle 1$ and $\angle 2$ are not opposite extensions of each other, so they are not vertical angles.
-
-In summary, only the $\angle 1$ and $\angle 2$ in figure (2) are vertical angles. $\blacksquare$
-
-## Exercise 2
-
-(Exercise 7.1, Problem 2) As shown, in a model of intersecting lines, if one of the angles formed by two wooden sticks $a$, $b$ is $\angle\alpha=35^\circ$, what are the other three angles? What if $\angle\alpha$ equals $90^\circ$, $115^\circ$, $m^\circ$?
-
-### Solution to Exercise 2
-
-Two lines intersect to form four angles; the two angles adjacent to $\angle\alpha$ are both its adjacent supplementary angles, and the angle opposite $\angle\alpha$ is its vertical angle. By Adjacent Supplementary Angles, adjacent supplementary angles sum to $180^\circ$; by Vertical Angles Are Equal, the vertical angle equals $\angle\alpha$.
-
-When $\angle\alpha=35^\circ$, the vertical angle is $35^\circ$, and both adjacent supplementary angles are $180^\circ-35^\circ=145^\circ$, so the other three angles are $145^\circ$, $35^\circ$, $145^\circ$.
-
-When $\angle\alpha=90^\circ$, the vertical angle is $90^\circ$, and both adjacent supplementary angles are $180^\circ-90^\circ=90^\circ$, so the other three angles are all $90^\circ$.
-
-When $\angle\alpha=115^\circ$, the vertical angle is $115^\circ$, and both adjacent supplementary angles are $180^\circ-115^\circ=65^\circ$, so the other three angles are $65^\circ$, $115^\circ$, $65^\circ$.
-
-When $\angle\alpha=m^\circ$, the vertical angle is $m^\circ$, and both adjacent supplementary angles are $\left(180-m\right)^\circ$, so the other three angles are $\left(180-m\right)^\circ$, $m^\circ$, $\left(180-m\right)^\circ$. $\blacksquare$
-
-## Exercise 3
-
-(Exercise 7.1, Problem 3) As shown, lines $AB$, $CD$ intersect at point $O$, and $\angle AOC:\angle BOC=2:7$; then $\angle BOC=\;\_\_\;^\circ$, $\angle AOD=\;\_\_\;^\circ$.
-
-### Solution to Exercise 3
-
-$\angle AOC$ and $\angle BOC$ share side $OC$, and their other sides are opposite extensions of each other; by Adjacent Supplementary Angles, they are supplementary, i.e.
-
-$$
-\angle AOC+\angle BOC=180^\circ.
-$$
-
-Also $\angle AOC:\angle BOC=2:7$; set $\angle AOC=2k$, $\angle BOC=7k$; then $2k+7k=180^\circ$, giving $k=20^\circ$. Hence $\angle BOC=7k=140^\circ$.
-
-$\angle AOD$ and $\angle BOC$ share vertex $O$, and their sides are opposite extensions of each other; by Vertical Angles Are Equal, $\angle AOD=\angle BOC=140^\circ$. $\blacksquare$
-
-## Exercise 4
-
-(Exercise 7.1, Problem 1) When the four angles formed by two intersecting lines are all equal, what is the positional relation between the two lines? Why?
-
-### Solution to Exercise 4
-
-The four angles sum to a full angle of $360^\circ$; since they are all equal, each angle is $360^\circ\div 4=90^\circ$.
-
-By Perpendicular, when one of the four angles formed by two intersecting lines is a right angle, the two lines are perpendicular. Here all four angles are $90^\circ$, so the two lines are perpendicular. $\blacksquare$
-
-## Exercise 5
-
-(Exercise 7.1, Problem 2) As shown, through point $P$ draw the perpendiculars to lines $AB$ and $CD$ respectively, and measure the distance from point $P$ to line $AB$.
-
-### Solution to Exercise 5
-
-By Perpendicular Lines, through point $P$ there is exactly one line perpendicular to $AB$, and also exactly one line perpendicular to $CD$. Align one leg of a set square with $AB$, slide the set square along $AB$ until the other leg passes through point $P$, and draw a line along this leg; this gives the line through $P$ perpendicular to $AB$, with foot denoted $H$; draw the line through $P$ perpendicular to $CD$ in the same way.
-
-By Distance from a Point to a Line, the distance from point $P$ to line $AB$ is the length of the perpendicular segment $PH$; measure the length of $PH$ with a ruler to obtain it. $\blacksquare$
-
-## Exercise 6
-
-(Exercise 7.1, Problem 3) As shown, in triangle $ABC$, $\angle C=90^\circ$.
-
-(1) State respectively which segments' lengths are the distance from point $A$ to line $CB$ and from point $B$ to line $AC$;
-
-(2) Among the three sides $AB$, $AC$, $CB$, which is longest? Why?
-
-The figure shows right triangle $ABC$ with $\angle C=90^\circ$, i.e. $AC\perp BC$, $AB$ the hypotenuse, and vertices $A$, $B$, $C$ labeled.
-
-### Solution to Exercise 6
-
-By Distance from a Point to a Line, the distance from a point to a line is the length of the perpendicular segment from that point to the line.
-
-(1) In triangle $ABC$, $\angle C=90^\circ$, i.e. $AC\perp BC$. The perpendicular segment from point $A$ to line $CB$ is $AC$, so the distance from $A$ to line $CB$ is the length of segment $AC$; the perpendicular segment from point $B$ to line $AC$ is $BC$, so the distance from $B$ to line $AC$ is the length of segment $BC$.
-
-(2) By The Perpendicular Segment Is the Shortest, among the segments joining an outside point to points on a line the perpendicular segment is the shortest. For point $A$, $AC$ is the perpendicular segment from $A$ to line $BC$, while $AB$ is an oblique segment, so $AB> AC$; for point $B$, $BC$ is the perpendicular segment from $B$ to line $AC$, while $AB$ is an oblique segment, so $AB> BC$. Therefore $AB$ is the longest of the three sides. $\blacksquare$
-
-## Exercise 7
-
-(Exercise 7.1, Problem 1) Identify respectively the corresponding angles, alternate interior angles, and consecutive interior angles in each of the following figures.
-
-### Solution to Exercise 7
-
-By Corresponding Angles, Alternate Interior Angles, Consecutive Interior Angles, first determine the two lines being cut and the transversal, then judge by the positions of the two angles.
-
-In each figure, the transversal is the line that intersects both lines being cut. A pair of angles on the same side of the two cut lines and on the same side of the transversal are corresponding angles; a pair between the two cut lines and on opposite sides of the transversal are alternate interior angles; a pair between the two cut lines and on the same side of the transversal are consecutive interior angles. Identify each pair by these criteria. $\blacksquare$
-
-## Exercise 8
-
-(Exercise 7.1, Problem 2) As shown, with which angle is $\angle B$ an alternate interior angle? With which is it a consecutive interior angle? Which two lines are cut by which transversal to form them? Carry out the same discussion for $\angle C$.
-
-### Solution to Exercise 8
-
-By Corresponding Angles, Alternate Interior Angles, Consecutive Interior Angles, judge by the positions of the two angles and the transversal.
-
-The lines containing the two sides of $\angle B$ are respectively two cut lines, and the line cutting the other side of $\angle B$ is the transversal: $\angle B$ and the corresponding angle cut out by the other transversal form alternate interior angles or consecutive interior angles. To identify them, first fix the line containing one side of $\angle B$ as the transversal and the line containing the other side as one cut line, then find the corresponding angle formed with the second cut line; this determines $\angle B$'s alternate interior angle and consecutive interior angle; similarly for $\angle C$. $\blacksquare$
-
 ## Problem 1
 
-(Problem 7.1, Review and Consolidation, Problem 1) As shown, lines $AB$, $CD$, $EF$ intersect at point $O$.
-
-(1) Write down the adjacent supplementary angles of $\angle AOC$ and $\angle BOE$;
-
-(2) Write down the vertical angles of $\angle DOA$ and $\angle EOC$;
-
-(3) If $\angle AOC=50^\circ$, find the degree measures of $\angle BOD$ and $\angle COB$.
-
-The figure shows three lines $AB$, $CD$, $EF$ intersecting at a single point $O$, with the letters $A,B$, $C,D$, $E,F$ marked at the two ends of each line respectively.
+(Exercise 13.3, Extension and Exploration, Problem 11) As shown, $CE$ is the bisector of the exterior angle $\angle ACD$ of $\triangle ABC$, and $CE$ meets the extension of $BA$ at point $E$. Prove that $\angle BAC=\angle B+2\angle E$.
 
 ### Solution to Problem 1
 
-By Adjacent Supplementary Angles and Vertical Angles, judge by common side and opposite extensions.
+By Relationship Between an Exterior Angle and the Non-adjacent Interior Angles, $\angle BAC$ is the exterior angle of $\triangle ACE$ at point $A$, so
 
-(1) The sides of $\angle AOC$ are $OA$, $OC$; its adjacent supplementary angles are $\angle BOC$ (sharing side $OA$, with the other side the opposite extension of $OC$) and $\angle AOD$ (sharing side $OC$, with the other side the opposite extension of $OA$); hence the adjacent supplementary angles of $\angle AOC$ are $\angle BOC$ and $\angle AOD$. The sides of $\angle BOE$ are $OB$, $OE$; its adjacent supplementary angles are $\angle AOE$ and $\angle BOF$.
+$$
+\angle BAC=\angle ACE+\angle E.
+$$
 
-(2) The sides of $\angle DOA$ are respectively the opposite extensions of the sides of $\angle BOC$, so the vertical angle of $\angle DOA$ is $\angle BOC$; the sides of $\angle EOC$ are respectively the opposite extensions of the sides of $\angle FOD$, so the vertical angle of $\angle EOC$ is $\angle FOD$.
+Also $\angle ACD$ is an exterior angle of $\triangle ABC$, so
 
-(3) $\angle BOD$ and $\angle AOC$ are vertical angles; by Vertical Angles Are Equal, $\angle BOD=\angle AOC=50^\circ$. $\angle COB$ and $\angle AOC$ are adjacent supplementary angles; by Adjacent Supplementary Angles, $\angle COB=180^\circ-\angle AOC=180^\circ-50^\circ=130^\circ$. $\blacksquare$
+$$
+\angle ACD=\angle B+\angle BAC.
+$$
+
+Since $CE$ bisects $\angle ACD$, we get $\angle ACD=2\angle ACE$. Substituting into the above:
+
+$$
+2\angle ACE=\angle B+\angle BAC.
+$$
+
+Substituting $\angle ACE=\angle BAC-\angle E$:
+
+$$
+2\left(\angle BAC-\angle E\right)=\angle B+\angle BAC,
+$$
+
+which simplifies to $\angle BAC=\angle B+2\angle E$. $\blacksquare$
+
+## Reading and Thinking 1
+
+(Reading and Thinking: Why We Need Proof) Observation and experiment are important ways to discover mathematical conclusions, but because observation may be imprecise, experimental objects are limited in number and may not be general, conclusions reached by observation and experiment are not necessarily correct. Therefore, whether a mathematical proposition is correct must be confirmed through reasoning and argument; proof is a necessary step for confirming a mathematical conclusion.
+
+## Activity 1
+
+(Mathematics Activity, Activity 1: Building Equilateral Triangles) Take some equal-length magnetic rods. Can $3$ rods form $1$ equilateral triangle, and can $6$ rods form $4$ equilateral triangles? With $9$ rods, at most how many equilateral triangles can be formed? (Hint: consider solid figures.)
+
+The figure shows, from left to right, structures built with equal-length magnetic rods: $3$ rods enclose $1$ equilateral triangle in the plane; $6$ rods form a perspective drawing of a regular tetrahedron, all $4$ faces of which are equilateral triangles; and further joined solid structures are shown built with $9$ rods.
+
+### Solution to Activity 1
+
+In the plane, $3$ magnetic rods can enclose at most $1$ equilateral triangle. If we consider a solid figure, build a regular tetrahedron with $6$ equal-length rods; it has $6$ edges and $4$ faces, each face being an equilateral triangle, so $6$ rods can form $4$ equilateral triangles.
+
+Continuing to join on this basis, $9$ rods can build at most more equilateral-triangle faces; the regular tetrahedron and the joined structure give $5$ or more equilateral triangles. Hands-on verification shows that, with a solid structure, the number can be significantly more than with a planar arrangement. $\blacksquare$
+
+## Activity 2
+
+(Mathematics Activity, Activity 2, Problem 1) Try to triangulate a quadrilateral, a pentagon and a hexagon; how many triangles can each be triangulated into? What about an $n$-gon?
+
+### Solution to Activity 2
+
+A quadrilateral can be triangulated into $2$ triangles by $1$ diagonal; a pentagon into $3$; a hexagon into $4$.
+
+Each additional side increases the number of triangles in the triangulation by $1$. Hence an $n$-gon can be triangulated into $n-2$ triangles. $\blacksquare$
+
+## Activity 3
+
+(Mathematics Activity, Activity 2, Problem 2) Triangulate a quadrilateral; how many triangulation methods do you have? What about a pentagon? Verify using $\frac{D_{n+1}}{D_n}=\frac{4n-6}{n}$ ($D_3=1$), and compute the number of triangulation methods for a hexagon and a heptagon.
+
+### Solution to Activity 3
+
+Starting from $D_3=1$, compute in turn:
+
+$$
+\frac{D_4}{D_3}=\frac{4\times3-6}{3}=2,\quad D_4=2;
+$$
+
+$$
+\frac{D_5}{D_4}=\frac{4\times4-6}{4}=\frac{5}{2},\quad D_5=5;
+$$
+
+$$
+\frac{D_6}{D_5}=\frac{4\times5-6}{5}=\frac{14}{5},\quad D_6=14;
+$$
+
+$$
+\frac{D_7}{D_6}=\frac{4\times6-6}{6}=3,\quad D_7=42.
+$$
+
+Hence a quadrilateral has $2$ triangulation methods, a pentagon has $5$, a hexagon has $14$, and a heptagon has $42$. $\blacksquare$
+
+## Review Problem 1
+
+(Review Problems, Review and Consolidation, Problem 1) The following four conditions:
+
+(1) in $\triangle ABC$, $\angle A$ and $\angle B$ are both acute;
+
+(2) the degree measures of the three interior angles of $\triangle ABC$ are in the ratio $1:2:3$;
+
+(3) in $\triangle ABC$, $\angle A-\angle B=\angle C$;
+
+(4) the degree measures of the three exterior angles of $\triangle ABC$ are in the ratio $3:4:5$.
+
+Among them, those that determine that $\triangle ABC$ is a right triangle are $\;\_\_\;$ (fill in only the numbers).
+
+### Solution to Review Problem 1
+
+Judge each by Triangle Interior Angle Sum Theorem and The Acute Angles of a Right Triangle Are Complementary.
+
+Condition (1): two angles being acute does not determine whether the third is a right angle; cannot determine.
+
+Condition (2): the ratio of the three interior angles is $1:2:3$, so the largest angle is $\frac{3}{1+2+3}\times180^\circ=90^\circ$; can determine.
+
+Condition (3): $\angle A-\angle B=\angle C$, i.e. $\angle A=\angle B+\angle C$. Also $\angle A+\angle B+\angle C=180^\circ$, so $2\angle A=180^\circ$, $\angle A=90^\circ$; can determine.
+
+Condition (4): the ratio of the three exterior angles is $3:4:5$, and the exterior-angle sum is $360^\circ$, so the three exterior angles are $90^\circ$, $120^\circ$, $150^\circ$, and the corresponding interior angles are $90^\circ$, $60^\circ$, $30^\circ$; one interior angle is $90^\circ$, so can determine.
+
+Hence those that can determine are (2)(3)(4). $\blacksquare$
+
+## Review Problem 2
+
+(Review Problems, Review and Consolidation, Problem 2) As shown, in $\triangle ABC$, $AD$ and $AE$ are respectively the median and altitude on side $BC$, $AE=2$, $S_{\triangle ABD}=1.5$. Find the lengths of $BC$ and $DC$.
+
+### Solution to Review Problem 2
+
+By Altitude, when taking $BD$ as the base the altitude is $AE$. By the triangle area formula,
+
+$$
+S_{\triangle ABD}=\frac{1}{2}\cdot BD\cdot AE=\frac{1}{2}\times BD\times2=1.5.
+$$
+
+Solving gives $BD=1.5$. By Median, $D$ is the midpoint of $BC$, so $BC=2BD=3$, $DC=BD=1.5$. $\blacksquare$
+
+## Review Problem 3
+
+(Review Problems, Review and Consolidation, Problem 3) Fill in the blanks: since the sum of two sides of a triangle is greater than the third, $AB+AD> \;\_\_\;$, $PD+CD> \;\_\_\;$; adding the left and right sides respectively gives $AB+AD+PD+CD> \;\_\_\;$, i.e. $AB+AC> \;\_\_\;$.
+
+### Solution to Review Problem 3
+
+By Relationship Among the Three Sides of a Triangle, in $\triangle ABD$,
+
+$$
+AB+AD> BD.
+$$
+
+In $\triangle PCD$,
+
+$$
+PD+CD> PC.
+$$
+
+Adding the left and right sides of the two equations respectively:
+
+$$
+AB+AD+PD+CD> BD+PC.
+$$
+
+The left side is $AB+AC$ and the right side is $BC$, so $AB+AC> BC$. Fill in successively $BD$, $PC$, $BD+PC$, $BC$. $\blacksquare$
+
+## Review Problem 4
+
+(Review Problems, Review and Consolidation, Problem 4) Find the value of $x$ in each figure below.
+
+The figure shows three diagrams arranged from left to right: in figure (1), a right triangle with one given acute angle $50^\circ$, and $x$ is the other acute angle; in figure (2), an isosceles triangle with vertex angle $40^\circ$ and the two equal base angles both equal to $x$; in figure (3), a triangle whose exterior angle is $\left(x+70^\circ\right)$ and whose two non-adjacent interior angles are $x^\circ$ and $\left(x+10^\circ\right)$.
+
+### Solution to Review Problem 4
+
+By Triangle Interior Angle Sum Theorem and Relationship Between an Exterior Angle and the Non-adjacent Interior Angles.
+
+Figure (1): one acute angle of the right triangle is $50^\circ$, so $x=90^\circ-50^\circ=40^\circ$.
+
+Figure (2): the vertex angle is $40^\circ$ and the two base angles are equal, so $x=\frac{180^\circ-40^\circ}{2}=70^\circ$.
+
+Figure (3): the exterior angle $\left(x+70^\circ\right)$ equals the sum of the two non-adjacent interior angles $x^\circ$ and $\left(x+10^\circ\right)$, so
+
+$$
+x+70=x+\left(x+10\right),
+$$
+
+solving gives $x=60$. $\blacksquare$
+
+## Review Problem 5
+
+(Review Problems, Comprehensive Application, Problem 5) As shown, $\angle B=42^\circ$, $\angle A$ is $10^\circ$ smaller than $\angle 1$, $\angle ACD=64^\circ$. Prove that $AB\parallel CD$.
+
+### Solution to Review Problem 5
+
+By Triangle Interior Angle Sum Theorem, in $\triangle ABC$, $\angle A+\angle B+\angle 1=180^\circ$. Also $\angle A=\angle 1-10^\circ$, $\angle B=42^\circ$; substituting:
+
+$$
+\left(\angle 1-10^\circ\right)+42^\circ+\angle 1=180^\circ,
+$$
+
+solving gives $2\angle 1=148^\circ$, $\angle 1=74^\circ$, hence $\angle A=64^\circ$.
+
+Thus $\angle A=\angle ACD=64^\circ$; these two angles are the alternate interior angles cut by line $AC$ across lines $AB$ and $CD$. Since the alternate interior angles are equal, $AB\parallel CD$. $\blacksquare$
+
+## Review Problem 6
+
+(Review Problems, Comprehensive Application, Problem 6) As shown, in $\triangle ABC$, $\angle C=\angle ABC=2\angle A$, and $BD$ is the altitude on side $AC$. Find the degree measure of $\angle DBC$.
+
+### Solution to Review Problem 6
+
+By Triangle Interior Angle Sum Theorem,
+
+$$
+\angle A+2\angle A+2\angle A=180^\circ,
+$$
+
+solving gives $\angle A=36^\circ$, so $\angle C=72^\circ$.
+
+By Altitude, $BD\perp AC$; in $\text{Rt}\triangle BDC$, by The Acute Angles of a Right Triangle Are Complementary,
+
+$$
+\angle DBC=90^\circ-\angle C=90^\circ-72^\circ=18^\circ.
+$$
+
+$\blacksquare$
+
+## Review Problem 7
+
+(Review Problems, Comprehensive Application, Problem 7) As shown, in $\triangle ABC$, $AD$ is an altitude, $AE$ and $BF$ are angle bisectors, and $AE$ and $BF$ intersect at point $O$, $\angle BAC=50^\circ$, $\angle C=70^\circ$. Find the degree measures of $\angle DAC$ and $\angle BOA$.
+
+### Solution to Review Problem 7
+
+By Triangle Interior Angle Sum Theorem,
+
+$$
+\angle ABC=180^\circ-50^\circ-70^\circ=60^\circ.
+$$
+
+By Altitude, $AD\perp BC$; in $\text{Rt}\triangle ADC$, $\angle DAC=90^\circ-\angle C=90^\circ-70^\circ=20^\circ$.
+
+By Angle Bisector, $AE$ bisects $\angle BAC$, so $\angle BAO=25^\circ$; $BF$ bisects $\angle ABC$, so $\angle ABO=30^\circ$. In $\triangle ABO$,
+
+$$
+\angle BOA=180^\circ-\angle BAO-\angle ABO=180^\circ-25^\circ-30^\circ=125^\circ.
+$$
+
+$\blacksquare$
+
+## Review Problem 8
+
+(Review Problems, Extension and Exploration, Problem 8) As shown, in $\triangle ABC$, $BE$ and $CF$ are angle bisectors, and $BE$ and $CF$ intersect at point $G$. Prove:
+
+(1) $\angle BGC=180^\circ-\frac{1}{2}\left(\angle ABC+\angle ACB\right)$;
+
+(2) $\angle BGC=90^\circ+\frac{1}{2}\angle A$.
+
+### Solution to Review Problem 8
+
+By Angle Bisector, $BE$ bisects $\angle ABC$ and $CF$ bisects $\angle ACB$, so
+
+$$
+\angle GBC=\frac{1}{2}\angle ABC,\quad \angle GCB=\frac{1}{2}\angle ACB.
+$$
+
+(1) In $\triangle BGC$, by Triangle Interior Angle Sum Theorem,
+
+$$
+\angle BGC=180^\circ-\angle GBC-\angle GCB=180^\circ-\frac{1}{2}\left(\angle ABC+\angle ACB\right).
+$$
+
+(2) Also in $\triangle ABC$, $\angle ABC+\angle ACB=180^\circ-\angle A$; substituting:
+
+$$
+\angle BGC=180^\circ-\frac{1}{2}\left(180^\circ-\angle A\right)=90^\circ+\frac{1}{2}\angle A.
+$$
+
+$\blacksquare$
+
+## Review Problem 9
+
+(Review Problems, Extension and Exploration, Problem 9) As shown, join $AC$, $AD$, $BD$, $BE$, $CE$; prove that $\angle A+\angle B+\angle C+\angle D+\angle E=180^\circ$.
+
+The figure shows a five-pointed star, with the five pointed tips labeled $A$, $B$, $C$, $D$, $E$ clockwise starting from the top vertex; the five segments $AC$, $AD$, $BD$, $BE$, $CE$ cross one another inside, enclosing a central pentagon.
+
+### Solution to Review Problem 9
+
+Suppose segment $BE$ intersects $CD$ and $AD$. By Relationship Between an Exterior Angle and the Non-adjacent Interior Angles, in the triangle formed in the middle of the five-pointed star, the sum of the two non-adjacent interior angles equals the corresponding exterior angle, and these exterior angles can in turn be converted into the sum of two interior angles of the central triangle.
+
+The sum of the three interior angles of the central triangle is $180^\circ$, and the five pointed angles $\angle A$, $\angle B$, $\angle C$, $\angle D$, $\angle E$ respectively equal, through the exterior-angle relation, the sums of the corresponding non-adjacent interior angles. Hence
+
+$$
+\angle A+\angle B+\angle C+\angle D+\angle E=180^\circ.
+$$
+
+$\blacksquare$
+
+## Inquiry 1
+
+(Comprehensive and Practical Activity, Problem 1) Use a fulcrum to support a uniform triangular thin plate so that it stays balanced on the fulcrum. What is the relationship between the centroid position of the uniform triangular thin plate and the centroid position of the triangle?
+
+### Solution to Inquiry 1
+
+By **Conclusion (Comprehensive and Practical Activity 1)** (Centroid of Simple Figures), the centroid of a uniform triangular thin plate is exactly the intersection of the triangle's three medians. When the thin plate stays exactly balanced on the fulcrum, the point where the fulcrum contacts the plate is precisely the centroid of the triangle. The two positions coincide. $\blacksquare$
+
+## Inquiry 2
+
+(Comprehensive and Practical Activity, Problem 2) How do we determine the centroid position of common geometric figures such as a segment, square, rectangle and parallelogram? What common feature do their centroid positions share?
+
+### Solution to Inquiry 2
+
+By **Conclusion (Comprehensive and Practical Activity 1)** (Centroid of Simple Figures), the centroid of a segment is its midpoint; a square, rectangle and parallelogram are all centrally symmetric figures, and their centroid is their center of symmetry, i.e. the intersection of the two diagonals.
+
+These figures are all simple figures that are axis-symmetric or centrally symmetric, and their centroids all lie on the center of symmetry or the intersection of the medians. A triangle is not a centrally symmetric figure, but its centroid still lies at the intersection of the three medians, i.e. at the geometric center of the figure. $\blacksquare$
+
+## Inquiry 3
+
+(Comprehensive and Practical Activity, Problem 3) Divide a figure into two parts; let the areas of the two parts be $S_1$, $S_2$ and their centroid coordinates be $\left(x_1,y_1\right)$, $\left(x_2,y_2\right)$. Write the quantitative relationship between the centroid coordinates of the whole and the centroid coordinates of the two parts.
+
+### Solution to Inquiry 3
+
+By **Conclusion (Comprehensive and Practical Activity 2)** (Centroid of Composite Figures), the horizontal and vertical coordinates of the whole centroid are respectively the area-weighted averages of the two parts' centroid coordinates:
+
+$$
+\overline x=\frac{S_1 x_1+S_2 x_2}{S_1+S_2},\quad \overline y=\frac{S_1 y_1+S_2 y_2}{S_1+S_2}.
+$$
+
+When the two parts have equal area, $\overline x=\frac{x_1+x_2}{2}$, $\overline y=\frac{y_1+y_2}{2}$, i.e. the centroid lies at the midpoint of the line joining the two parts' centroids. $\blacksquare$
+
+## Inquiry 4
+
+(Comprehensive and Practical Activity, Problem 4) Find the centroid position of the "L"-shaped steel-angle cross section in the figure (outer contour $30\ \text{cm}\times30\ \text{cm}$, wall thickness $10\ \text{cm}$).
+
+The figure shows an "L"-shaped (steel-angle) cross section: a $30\ \text{cm}\times30\ \text{cm}$ square with a $20\ \text{cm}\times20\ \text{cm}$ square removed from the upper-right corner, giving a wall thickness of $10\ \text{cm}$; it consists of a left vertical strip $10\ \text{cm}\times30\ \text{cm}$ and a bottom horizontal strip $20\ \text{cm}\times10\ \text{cm}$.
+
+### Solution to Inquiry 4
+
+Set up a rectangular coordinate system, take the lower-left corner of the cross section as the origin, and let the two sides lie along the positive coordinate axes. Divide the L-shape into two rectangles:
+
+Vertical rectangle: width $10\ \text{cm}$, height $30\ \text{cm}$, area $S_1=300\ \text{cm}^2$, centroid $\left(x_1,y_1\right)=\left(5,15\right)$.
+
+Horizontal rectangle (deducting the overlapping part at the bottom): length $20\ \text{cm}$, width $10\ \text{cm}$, area $S_2=200\ \text{cm}^2$, centroid $\left(x_2,y_2\right)=\left(20,5\right)$.
+
+By **Conclusion (Comprehensive and Practical Activity 2)** (Centroid of Composite Figures),
+
+$$
+\overline x=\frac{S_1 x_1+S_2 x_2}{S_1+S_2}=\frac{300\times5+200\times20}{300+200}=\frac{5500}{500}=11,
+$$
+
+$$
+\overline y=\frac{S_1 y_1+S_2 y_2}{S_1+S_2}=\frac{300\times15+200\times5}{500}=\frac{5500}{500}=11.
+$$
+
+Hence the centroid of this L-shaped cross section lies $11\ \text{cm}$ from both outer edges. $\blacksquare$
+
+## Example
+
+(Textbook Example, as in Figure 14.1-3) $\triangle ABC\cong\triangle BAD$, where points $A$ and $B$, and points $C$ and $D$, are corresponding vertices; $\angle BAC=65^\circ$, $\angle ABC=26^\circ$; the extensions of $AC$ and $BD$ meet at point $E$. Find the degree measures of $\angle CBD$ and $\angle E$.
+
+### Solution to Example
+
+By Properties of Congruent Triangles, $\angle ABD=\angle BAC=65^\circ$.
+
+Hence
+
+$$
+\angle CBD=\angle ABD-\angle ABC=65^\circ-26^\circ=39^\circ.
+$$
+
+In $\triangle AEB$, $\angle BAE=\angle BAC=65^\circ$, $\angle ABE=\angle ABD=65^\circ$. By the triangle interior angle sum theorem,
+
+$$
+\angle E=180^\circ-\angle BAE-\angle ABE=180^\circ-65^\circ-65^\circ=50^\circ.
+$$
+
+Hence $\angle CBD=39^\circ$, $\angle E=50^\circ$. $\blacksquare$
+
+## Exercise 1
+
+(Exercise 14.1, Problem 1) As shown, $\triangle ABC\cong\triangle BDE$, where $\angle A$ and $\angle EBD$, and $\angle C$ and $\angle E$, are corresponding angles. State the corresponding sides and the other pair of corresponding angles of the two triangles.
+
+### Solution to Exercise 1
+
+From the corresponding-angle relation, $A$ corresponds to $B$, $C$ corresponds to $E$, and the remaining $B$ corresponds to $D$.
+
+Hence the corresponding sides are $AB$ and $BD$, $BC$ and $DE$, $AC$ and $BE$; the other pair of corresponding angles are $\angle ABC$ and $\angle BDE$. $\blacksquare$
+
+## Exercise 2
+
+(Exercise 14.1, Problem 2) As shown, $\triangle OCA\cong\triangle OBD$, where points $C$ and $B$, and points $A$ and $D$, are corresponding vertices. State the equal sides and angles in the two triangles.
+
+### Solution to Exercise 2
+
+From the corresponding vertices $O\leftrightarrow O$, $C\leftrightarrow B$, $A\leftrightarrow D$, and Properties of Congruent Triangles, the equal sides are
+
+$$
+OC=OB,\quad CA=BD,\quad OA=OD.
+$$
+
+The equal angles are
+
+$$
+\angle O=\angle O,\quad \angle C=\angle B,\quad \angle A=\angle D.
+$$
+
+$\blacksquare$
 
 ## Problem 2
 
-(Problem 7.1, Review and Consolidation, Problem 2) As shown, draw a line $l$ on a sheet of semi-transparent paper, take any point $P$ on $l$ and any point $Q$ outside $l$, and fold out a line through $P$ perpendicular to $l$. How many such lines can be folded? Why? What about through point $Q$?
+(Exercise 14.1, Review and Consolidation, Problem 1) As shown, $\triangle ABC\cong\triangle CDA$, where $AB$ and $CD$, and $BC$ and $DA$, are corresponding sides. Write out the other corresponding sides and corresponding angles.
 
 ### Solution to Problem 2
 
-By Perpendicular Lines, in the same plane, through a given point there is exactly one line perpendicular to a given line.
+From the corresponding sides $AB\leftrightarrow CD$, $BC\leftrightarrow DA$, the vertex correspondence is $A\leftrightarrow C$, $B\leftrightarrow D$, $C\leftrightarrow A$.
 
-Point $P$ lies on line $l$; through $P$ there is exactly one line perpendicular to $l$, so only one line perpendicular to $l$ can be folded through $P$. Point $Q$ lies outside line $l$; through $Q$ there is likewise exactly one line perpendicular to $l$, so only one can be folded through $Q$. $\blacksquare$
+The other corresponding side is $AC$ and $CA$. The corresponding angles are $\angle BAC$ and $\angle DCA$, $\angle B$ and $\angle D$, $\angle BCA$ and $\angle DAC$. $\blacksquare$
 
 ## Problem 3
 
-(Problem 7.1, Review and Consolidation, Problem 3) As shown, lines $AB$, $CD$ intersect at point $O$, $EO\perp AB$ with foot $O$, and $\angle EOC=35^\circ$; find the degree measure of $\angle AOD$.
+(Exercise 14.1, Review and Consolidation, Problem 2) As shown, $\triangle ABN\cong\triangle ACM$, where $AB$ and $AC$ are corresponding sides, and $\angle B$ and $\angle C$ are corresponding angles. Write out the other corresponding sides and corresponding angles.
 
 ### Solution to Problem 3
 
-By Perpendicular, $EO\perp AB$, so $\angle EOB=90^\circ$.
+From $AB\leftrightarrow AC$, $\angle B\leftrightarrow\angle C$, the vertex correspondence is $A\leftrightarrow A$, $B\leftrightarrow C$, $N\leftrightarrow M$.
 
-At point $C$, $\angle EOB=\angle EOC+\angle COB$, so $\angle COB=\angle EOB-\angle EOC=90^\circ-35^\circ=55^\circ$.
-
-$\angle AOD$ and $\angle COB$ are vertical angles; by Vertical Angles Are Equal, $\angle AOD=\angle COB=55^\circ$. $\blacksquare$
+The other corresponding sides are $BN$ and $CM$, $AN$ and $AM$. The corresponding angles are $\angle ANB$ and $\angle AMC$, $\angle BAN$ and $\angle CAM$. $\blacksquare$
 
 ## Problem 4
 
-(Problem 7.1, Review and Consolidation, Problem 4) As shown, draw $AE\perp BC$ and $CF\perp AD$, with feet $E$ and $F$ respectively.
+(Exercise 14.1, Comprehensive Application, Problem 3) There are two congruent triangles in the figure, where the letters denote the side lengths of the triangles; then what is the degree measure of $\angle 1$?
 
 ### Solution to Problem 4
 
-By Perpendicular and Perpendicular Lines: align one leg of a set square with $BC$, slide it until the other leg passes through point $A$, and draw a line along this leg meeting $BC$ at $E$; then $AE\perp BC$ with foot $E$. Draw $CF\perp AD$ in the same way, with foot $F$. $\blacksquare$
+The two triangles are congruent, and their interior angles correspond to equal values. Given that two interior angles are $60^\circ$ and $54^\circ$, by the triangle interior angle sum theorem the third interior angle is
+
+$$
+180^\circ-60^\circ-54^\circ=66^\circ.
+$$
+
+Hence $\angle 1=66^\circ$. $\blacksquare$
 
 ## Problem 5
 
-(Problem 7.1, Comprehensive Application, Problem 5) As shown, lines $AB$, $CD$ intersect at point $O$, and $OA$ bisects $\angle EOC$.
+(Exercise 14.1, Comprehensive Application, Problem 4) As shown, $\triangle EFG\cong\triangle NMH$, and $\angle F$ and $\angle M$ are corresponding angles. In $\triangle EFG$, $FG$ is the longest side; in $\triangle NMH$, $MH$ is the longest side, and $EF=2.1$, $EH=1.1$, $NH=3.3$.
 
-(1) If $\angle EOC=70^\circ$, find the degree measure of $\angle BOD$;
+(1) Write out the other corresponding sides and corresponding angles;
 
-(2) If $\angle EOC:\angle EOD=2:3$, find the degree measure of $\angle BOD$.
-
-The figure shows lines $AB$, $CD$ intersecting at point $O$, with a ray $OE$ drawn from $O$ on the opposite side of $OA$ from ray $OC$, so that $OA$ lies inside $\angle EOC$ and bisects it.
+(2) Find the lengths of segment $NM$ and segment $HG$.
 
 ### Solution to Problem 5
 
-By the meaning of an angle bisector, $OA$ bisects $\angle EOC$, so $\angle AOC=\frac{1}{2}\angle EOC$. Also $\angle BOD$ and $\angle AOC$ are vertical angles; by Vertical Angles Are Equal, $\angle BOD=\angle AOC$.
+From $\angle F\leftrightarrow\angle M$ and the longest sides $FG\leftrightarrow MH$, the vertex correspondence is $E\leftrightarrow N$, $F\leftrightarrow M$, $G\leftrightarrow H$.
 
-(1) $\angle EOC=70^\circ$, so $\angle AOC=\frac{1}{2}\times 70^\circ=35^\circ$, hence $\angle BOD=\angle AOC=35^\circ$.
+(1) The other corresponding sides are $EF$ and $NM$, $EG$ and $NH$; the other corresponding angles are $\angle E$ and $\angle N$, $\angle G$ and $\angle H$.
 
-(2) $\angle EOC$ and $\angle EOD$ share side $OE$, and their other sides are opposite extensions of each other; by Adjacent Supplementary Angles, they are supplementary, i.e. $\angle EOC+\angle EOD=180^\circ$. Also $\angle EOC:\angle EOD=2:3$; set $\angle EOC=2k$, $\angle EOD=3k$; then $2k+3k=180^\circ$, giving $k=36^\circ$. Hence $\angle EOC=2k=72^\circ$, $\angle AOC=\frac{1}{2}\times 72^\circ=36^\circ$, and thus $\angle BOD=\angle AOC=36^\circ$. $\blacksquare$
+(2) By Properties of Congruent Triangles, $NM=EF=2.1$, $EG=NH=3.3$. Also point $H$ lies on segment $EG$, so
+
+$$
+HG=EG-EH=3.3-1.1=2.2.
+$$
+
+Hence $NM=2.1$, $HG=2.2$. $\blacksquare$
 
 ## Problem 6
 
-(Problem 7.1, Comprehensive Application, Problem 6) As shown, these are the footprints left by student Li Ming after a long jump in PE class. What is his long jump result? (The scale is $1:160$.)
-
-(The accompanying picture is a real photo of footprints in the sand pit; the takeoff line and the footprint heel are marked in the figure. Just measure the drawn length of the perpendicular segment from the heel to the takeoff line.)
+(Exercise 14.1, Extension and Exploration, Problem 5) As shown, $\triangle ABC\cong\triangle DEC$, where $CA$ and $CD$, and $CB$ and $CE$, are corresponding sides. Are $\angle ACD$ and $\angle BCE$ equal? Why?
 
 ### Solution to Problem 6
 
-The long jump result is the distance from the footprint heel to the takeoff line. By The Perpendicular Segment Is the Shortest, this distance is the length of the perpendicular segment from the heel to the takeoff line.
+They are equal. By Properties of Congruent Triangles, the corresponding angles satisfy $\angle ACB=\angle DCE$.
 
-Measure with a ruler the drawn length of the perpendicular segment from the heel to the takeoff line, denoted $l$ (unit: $\text{cm}$). By the scale $1:160$, the actual result is $160l$ (unit: $\text{cm}$), i.e. $1.6l$ (unit: $\text{m}$). Substitute the measured $l$ from the figure to obtain the actual long jump result. $\blacksquare$
-
-## Problem 7
-
-(Problem 7.1, Comprehensive Application, Problem 7) As shown, which two lines are cut by which transversal to form $\angle 1$ and $\angle 2$, and $\angle 3$ and $\angle 4$ respectively? What positional relation do these angles have?
-
-### Solution to Problem 7
-
-By Corresponding Angles, Alternate Interior Angles, Consecutive Interior Angles, first determine the three lines containing the sides of the two angles; the common line is the transversal, and the other two are the cut lines.
-
-$\angle 1$ and $\angle 2$ share one side on the transversal, while their other sides belong to the two cut lines; by their position between the two cut lines and on opposite sides of the transversal, they are alternate interior angles. Similarly for $\angle 3$ and $\angle 4$; by their position relative to the two cut lines and the transversal, judge them as the corresponding angles (or consecutive interior angles). Simply point out the common transversal in each case. $\blacksquare$
-
-## Problem 8
-
-(Problem 7.1, Extension and Exploration, Problem 8) As shown, $AB\perp l$, $CB\perp l$, with $B$ the foot; then are the three points $A$, $B$, $C$ on the same line? Explain why.
-
-The figure shows a horizontal line $l$, with point $B$ on $l$; from $B$ on opposite sides of $l$ are drawn rays $BA$ and $BC$ such that $AB\perp l$ and $CB\perp l$.
-
-### Solution to Problem 8
-
-The three points $A$, $B$, $C$ are on the same line.
-
-By Perpendicular, $AB\perp l$ and $CB\perp l$, so $\angle ABL=90^\circ$, $\angle CBL=90^\circ$, where $L$ is any direction on line $l$. Hence
+Subtracting the common part $\angle DCB$ from both sides gives
 
 $$
-\angle ABC=\angle ABL+\angle CBL=90^\circ+90^\circ=180^\circ.
+\angle ACD=\angle ACB-\angle DCB=\angle DCE-\angle DCB=\angle BCE.
 $$
 
-$\angle ABC=180^\circ$ shows that rays $BA$ and $BC$ are opposite extensions of each other, i.e. $BA$ and $BC$ lie on the same line; hence the three points $A$, $B$, $C$ are on the same line. $\blacksquare$
+Hence $\angle ACD=\angle BCE$. $\blacksquare$
 
-## Problem 9
+## Exercise 3
 
-(Problem 7.1, Extension and Exploration, Problem 9) Lines $AB$, $CD$ intersect at point $O$.
+(Exercise 14.2, Problem 1) As shown, there is a pond; to measure the distance between its two ends $A$ and $B$, first take a point $C$ on the flat ground, join $AC$ and extend it to point $D$ so that $CD=CA$, join $BC$ and extend it to point $E$ so that $CE=CB$, and join $DE$. The measured length of $DE$ is the distance between $A$ and $B$. Why?
 
-(1) $OE$, $OF$ are respectively the bisectors of $\angle AOC$, $\angle BOD$. Draw this figure.
+### Solution to Exercise 3
 
-(2) Are rays $OE$ and $OF$ on the same line? Why?
+In $\triangle ABC$ and $\triangle DEC$, $CA=CD$, $CB=CE$, and $\angle ACB$ and $\angle DCE$ are vertical angles and equal. By SAS, $\triangle ABC\cong\triangle DEC$.
 
-### Solution to Problem 9
-
-(1) Draw lines $AB$, $CD$ intersecting at point $O$, then construct respectively the bisector $OE$ of $\angle AOC$ and the bisector $OF$ of $\angle BOD$.
-
-(2) Rays $OE$ and $OF$ are on the same line.
-
-$\angle AOC$ and $\angle BOD$ are vertical angles; by Vertical Angles Are Equal, $\angle AOC=\angle BOD$. $OE$ bisects $\angle AOC$, so
-
-$$
-\angle EOC=\frac{1}{2}\angle AOC.
-$$
-
-$OF$ bisects $\angle BOD$, and $\angle BOD$ and $\angle AOC$ are vertical angles; one side $OB$ is the opposite extension of $OA$, and the other side $OD$ is the opposite extension of $OC$, so
-
-$$
-\angle DOF=\frac{1}{2}\angle BOD=\frac{1}{2}\angle AOC=\angle EOC.
-$$
-
-Hence $\angle EOC=\angle DOF$. Also $OC$ and $OD$ are opposite extensions of each other; $\angle EOC$ and $\angle DOF$ lie on opposite sides of line $CD$ and are equal, showing that rays $OE$ and $OF$ are opposite extensions of each other; hence $OE$ and $OF$ lie on the same line. $\blacksquare$
-
-## Observation and Conjecture 1
-
-(Observation and Conjecture: Illusions when looking at figures)
-
-(1) In each group of Figure 1, which segment is longer, $a$ or $b$?
-
-(2) In each group of Figure 2, which blue circle is larger, $A$ or $B$?
-
-(3) In each group of Figure 3, are the blue segments parallel to each other? How can you check?
-
-The figure contains three groups of visual-illusion diagrams: Figure 1 shows two segments $a$, $b$ decorated at their endpoints with arrowheads (or feather tails) pointing in different directions, making the segments look unequal; Figure 2 shows two equal-sized blue circles $A$, $B$, surrounded respectively by a group of large circles and a group of small circles, making the circles look unequal; Figure 3 shows two blue segments with several diagonal short stripes between them, making the segments look non-parallel.
-
-### Solution to Observation and Conjecture 1
-
-Here intuition from naked-eye observation often disagrees with the actual facts; verification by measurement with a ruler or protractor is needed.
-
-(1) Intuitively the segments $a$ and $b$ may seem unequal in length, but measuring with a ruler shows that in each group $a$ and $b$ are actually equal.
-
-(2) Intuitively circles $A$ and $B$ may seem unequal in size, but measuring their diameters with a ruler shows they are actually equal.
-
-(3) In Figure 3, the segments look non-parallel because of the interference of the added patterns, but checking with a straightedge (or using the parallel-line criteria learned later) shows they are actually parallel.
-
-Thus conjectures obtained by observation are not necessarily correct; they must also be verified through experiments (measurements) and the like. $\blacksquare$
+By Properties of Congruent Triangles, the corresponding sides satisfy $AB=DE$, so the measured length of $DE$ is the distance between $A$ and $B$. $\blacksquare$

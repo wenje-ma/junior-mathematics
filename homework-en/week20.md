@@ -1,411 +1,407 @@
 # week20
 
-## Exercise 1
-
-(Exercise 5.2, Problem 1) Solve the following equations:
-
-(1) $5+3x=2+4x$;
-
-(2) $3x-7+4x=6x-2$;
-
-(3) $-3x+1.5x=2\times5-4$.
-
-### Solution to Exercise 1
-
-By Combining Like Terms and Transposing Terms, solve step by step.
-
-(1) Transpose: $3x-4x=2-5$, combine: $-x=-3$, make the coefficient $1$: $x=3$.
-
-(2) Combine like terms: $7x-7=6x-2$, transpose: $7x-6x=-2+7$, giving $x=5$.
-
-(3) Combine: $-1.5x=6$, make the coefficient $1$: $x=-4$. $\blacksquare$
-
-## Exercise 2
-
-(Exercise 5.2, Problem 2) Solve the equation: $16y-2.5y-7.5y=5-\left(-6y\right)$.
-
-### Solution to Exercise 2
-
-By Combining Like Terms and Transposing Terms.
-
-Combining the left side: $16y-2.5y-7.5y=6y$. The right side: $5+6y$. This gives $6y=5+6y$, i.e. $0=5$, a contradiction, so this equation has no solution. $\blacksquare$
-
-## Exercise 3
-
-(Exercise 5.2, Problem 3) A class is divided into groups for an activity. Originally there were $8$ people per group; later the groups were reorganized to $14$ people per group, reducing the number of groups by $3$. How many students are in this class?
-
-### Solution to Exercise 3
-
-By Combining Like Terms, let the class have $x$ students.
-
-Originally the number of groups was $\frac{x}{8}$, and later it was $\frac{x}{14}$. The later number is $3$ less than the original:
-
-$$\frac{x}{8}-\frac{x}{14}=3.$$
-
-Reducing to a common denominator: $\frac{7x-4x}{56}=3$, i.e. $\frac{3x}{56}=3$, giving $x=56$. Hence the class has $56$ students. $\blacksquare$
-
-## Exercise 4
-
-(Exercise 5.2, Problem 1) Solve the following equations:
-
-(1) $3x+5=8x-10$;
-
-(2) $2-3x=5x+8$;
-
-(3) $3x-7+4x=6x-2$.
-
-### Solution to Exercise 4
-
-By Transposing Terms and Combining Like Terms.
-
-(1) Transpose: $3x-8x=-10-5$, combine: $-5x=-15$, giving $x=3$.
-
-(2) Transpose: $-3x-5x=8-2$, combine: $-8x=6$, giving $x=-\frac{3}{4}$.
-
-(3) Combine: $7x-7=6x-2$, transpose: $7x-6x=-2+7$, giving $x=5$. $\blacksquare$
-
-## Exercise 5
-
-(Exercise 5.2, Problem 2) Set up an equation to solve: a class carries out a tree-planting activity divided into several groups. If each group plants $10$ trees, $6$ extra trees are planted; if each group plants $8$ trees, $2$ trees are short. How many groups were there in total?
-
-### Solution to Exercise 5
-
-By Transposing Terms, let there be $x$ groups in total.
-
-The total number of trees is unchanged: $10x-6=8x+2$. Transpose: $10x-8x=2+6$, combine: $2x=8$, giving $x=4$. Hence there were $4$ groups in total. $\blacksquare$
-
-## Exercise 6
-
-(Exercise 5.2, Problem 3) Solve the following equations:
-
-(1) $4x-3\left(20-2x\right)=10$;
-
-(2) $3\left(2x+5\right)=2\left(4x+3\right)-3$;
-
-(3) $4y-3\left(20-y\right)=6y-7\left(9-y\right)$.
-
-### Solution to Exercise 6
-
-By General Steps for Solving a Linear Equation in One Variable, first remove the parentheses, then transpose and combine.
-
-(1) Remove parentheses: $4x-60+6x=10$, combine: $10x-60=10$, transpose: $10x=70$, giving $x=7$.
-
-(2) Remove parentheses: $6x+15=8x+6-3$, i.e. $6x+15=8x+3$, transpose: $15-3=8x-6x$, combine: $12=2x$, giving $x=6$.
-
-(3) Remove parentheses: $4y-60+3y=6y-63+7y$, combine: $7y-60=13y-63$, transpose: $-60+63=13y-7y$, combine: $3=6y$, giving $y=\frac{1}{2}$. $\blacksquare$
-
-## Exercise 7
-
-(Exercise 5.2, Problem 1) Solve the following equations:
-
-(1) $\frac{x+1}{2}-1=2+\frac{2-x}{4}$;
-
-(2) $3x+\frac{x-1}{2}=3-\frac{2x-1}{3}$;
-
-(3) $\frac{2x-1}{3}-\frac{10x+1}{6}=\frac{2x+1}{4}-1$.
-
-### Solution to Exercise 7
-
-By General Steps for Solving a Linear Equation in One Variable, first clear the denominators.
-
-(1) Multiply both sides by $4$: $2\left(x+1\right)-4=8+\left(2-x\right)$. Remove parentheses: $2x+2-4=8+2-x$. Combine: $2x-2=10-x$. Transpose: $3x=12$, giving $x=4$.
-
-(2) Multiply both sides by $6$: $18x+3\left(x-1\right)=18-2\left(2x-1\right)$. Remove parentheses: $18x+3x-3=18-4x+2$. Combine: $21x-3=20-4x$. Transpose: $25x=23$, giving $x=\frac{23}{25}$.
-
-(3) Multiply both sides by $12$: $4\left(2x-1\right)-2\left(10x+1\right)=3\left(2x+1\right)-12$. Remove parentheses: $8x-4-20x-2=6x+3-12$. Combine: $-12x-6=6x-9$. Transpose: $-18x=-3$, giving $x=\frac{1}{6}$. $\blacksquare$
-
-## Exercise 8
-
-(Exercise 5.2, Problem 2) Solve the equation: $\frac{3}{2}\left[\frac{2}{3}\left(\frac{x}{4}-1\right)-2\right]-x=2$.
-
-### Solution to Exercise 8
-
-By General Steps for Solving a Linear Equation in One Variable, remove the parentheses from the outside inward.
-
-First remove the square brackets: $\frac{3}{2}\cdot\frac{2}{3}\left(\frac{x}{4}-1\right)-\frac{3}{2}\cdot2-x=2$, i.e. $\left(\frac{x}{4}-1\right)-3-x=2$. Combine: $\frac{x}{4}-4-x=2$. Transpose: $-\frac{3}{4}x=6$, giving $x=-8$. $\blacksquare$
-
-## Exercise 9
-
-(Exercise 5.2, Problem 3) A train passing through a tunnel $300\ \text{m}$ long takes $20\ \text{s}$; at the same speed, passing through a tunnel $500\ \text{m}$ long takes $30\ \text{s}$. Find the length and speed of the train.
-
-### Solution to Exercise 9
-
-By General Steps for Solving a Linear Equation in One Variable, let the train be $x\ \text{m}$ long.
-
-The distance the train travels to pass through a tunnel is the tunnel length plus the train length. The speed is the same: $\frac{300+x}{20}=\frac{500+x}{30}$. Multiply both sides by $60$: $3\left(300+x\right)=2\left(500+x\right)$. Remove parentheses: $900+3x=1000+2x$. Transpose: $x=100$. The speed $=\frac{300+100}{20}=20\ \text{m/s}$. Hence the train is $100\ \text{m}$ long and its speed is $20\ \text{m/s}$. $\blacksquare$
-
 ## Problem 1
 
-(Problem 5.2, Review and Consolidation, Problem 1) Solve the following equations:
+(Exercise 8.3, Comprehensive Application, Problem 6)
 
-(1) $2x+3=x-1$;
+(1) Is there a smallest positive integer? Is there a smallest integer?
 
-(2) $8x+7=6x+9$;
+(2) Is there a smallest rational number? Is there a smallest irrational number?
 
-(3) $5x-2=7x+16$;
-
-(4) $7-2x=3-4x$;
-
-(5) $0.5x-0.7=6.5-1.3x$;
-
-(6) $3x-5=5x-2x+1$;
-
-(7) $2\left(x+8\right)=3\left(x-1\right)$.
+(3) Is there a smallest positive real number? Is there a smallest real number?
 
 ### Solution to Problem 1
 
-By Transposing Terms and General Steps.
+By Real Numbers and the Number Line, real numbers can take continuous values on the number line.
 
-(1) Transpose: $2x-x=-1-3$, giving $x=-4$.
+(1) The smallest positive integer is $1$; there is no smallest integer (negative integers can be infinitely small).
 
-(2) Transpose: $8x-6x=9-7$, combine: $2x=2$, giving $x=1$.
+(2) There is no smallest rational number, and no smallest irrational number (negative numbers can be infinitely small).
 
-(3) Transpose: $5x-7x=16+2$, combine: $-2x=18$, giving $x=-9$.
-
-(4) Transpose: $-2x+4x=3-7$, combine: $2x=-4$, giving $x=-2$.
-
-(5) Transpose: $0.5x+1.3x=6.5+0.7$, combine: $1.8x=7.2$, giving $x=4$.
-
-(6) Combine the right side: $5x-5=5x+1$, i.e. $-5=1$, a contradiction, so no solution.
-
-(7) Remove parentheses: $2x+16=3x-3$, transpose: $16+3=3x-2x$, giving $x=19$. $\blacksquare$
+(3) There is no smallest positive real number (between any two arbitrarily small positive numbers one can take an even smaller positive number); there is no smallest real number (real numbers can be infinitely small in the negative direction). $\blacksquare$
 
 ## Problem 2
 
-(Problem 5.2, Review and Consolidation, Problem 2) Solve the following equations:
+(Exercise 8.3, Comprehensive Application, Problem 7) Write down all numbers satisfying the following conditions:
 
-(1) $3x-2=1-2\left(x+1\right)$;
+(1) All positive integers less than $\sqrt{37}$;
 
-(2) $2\left(x-2\right)-3\left(4x-1\right)=9\left(1-x\right)$;
+(2) All integers greater than $-\sqrt{10}$ and less than $\sqrt{10}$;
 
-(3) $2x+3\left(2x-1\right)=16-\left(x+1\right)$;
-
-(4) $3x-2\left[3\left(x-1\right)-2\left(x+2\right)\right]=3\left(5x-2\right)$.
+(3) All integers whose absolute value is less than $\sqrt 6$.
 
 ### Solution to Problem 2
 
-By General Steps for Solving a Linear Equation in One Variable.
+Estimate the range of each irrational number.
 
-(1) Remove parentheses: $3x-2=1-2x-2$, i.e. $3x-2=-2x-1$. Transpose: $5x=1$, giving $x=\frac{1}{5}$.
+(1) $\because 6^2=36< 37< 49=7^2$, $\therefore 6< \sqrt{37}< 7$, so the positive integers less than $\sqrt{37}$ are $1$, $2$, $3$, $4$, $5$, $6$.
 
-(2) Remove parentheses: $2x-4-12x+3=9-9x$. Combine: $-10x-1=9-9x$. Transpose: $-10x+9x=9+1$, giving $x=-10$.
+(2) $\because 3^2=9< 10< 16=4^2$, $\therefore 3< \sqrt{10}< 4$, so $-4< -\sqrt{10}< -3$. The integers greater than $-\sqrt{10}$ and less than $\sqrt{10}$ are $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
 
-(3) Remove parentheses: $2x+6x-3=16-x-1$. Combine: $8x-3=15-x$. Transpose: $9x=18$, giving $x=2$.
-
-(4) Remove what is inside the square brackets: $3\left(x-1\right)-2\left(x+2\right)=3x-3-2x-4=x-7$. The original expression: $3x-2\left(x-7\right)=15x-4$. Remove parentheses: $3x-2x+14=15x-4$. Combine: $x+14=15x-4$. Transpose: $18=14x$, giving $x=\frac{9}{7}$. $\blacksquare$
+(3) $\because 2^2=4< 6< 9=3^2$, $\therefore 2< \sqrt 6< 3$, so the integers whose absolute value is less than $\sqrt 6$ are $-2$, $-1$, $0$, $1$, $2$. $\blacksquare$
 
 ## Problem 3
 
-(Problem 5.2, Review and Consolidation, Problem 3) Solve the following equations:
+(Exercise 8.3, Comprehensive Application, Problem 8) As shown in the figure, the areas of two squares inside a rectangle are $3\,\text{cm}^2$ and $1\,\text{cm}^2$ respectively.
 
-(1) $\frac{x-2}{2}=\frac{4x+1}{3}$;
+(1) Find the perimeter of the rectangle;
 
-(2) $\frac{2x-1}{3}=\frac{3x-5}{4}$;
+(2) Find the sum of the areas of the two shaded parts in the figure.
 
-(3) $\frac{x}{2}-\frac{5x+11}{6}=1+\frac{2x-4}{3}$;
-
-(4) $\frac{0.1x-0.2}{0.02}-\frac{x+1}{0.5}=3$.
+The figure shows a large rectangle containing two squares placed side by side: the larger square has area $3\,\text{cm}^2$ (side $\sqrt 3$), the smaller square has area $1\,\text{cm}^2$ (side $1$); the two shaded regions are the parts of the large rectangle remaining after removing the two squares.
 
 ### Solution to Problem 3
 
-By General Steps for Solving a Linear Equation in One Variable, first clear the denominators.
+The square of area $3\,\text{cm}^2$ has side length $\sqrt 3\,\text{cm}$, and the square of area $1\,\text{cm}^2$ has side length $1\,\text{cm}$.
 
-(1) Multiply both sides by $6$: $3\left(x-2\right)=2\left(4x+1\right)$. Remove parentheses: $3x-6=8x+2$. Transpose: $-8=5x$, giving $x=-\frac{8}{5}$.
+(1) The large rectangle has length $\sqrt 3+1$ and width $\sqrt 3$. Thus the perimeter is
 
-(2) Multiply both sides by $12$: $4\left(2x-1\right)=3\left(3x-5\right)$. Remove parentheses: $8x-4=9x-15$. Transpose: $11=x$, giving $x=11$.
+$$
+2\left[\left(\sqrt 3+1\right)+\sqrt 3\right]=2\left(2\sqrt 3+1\right)=4\sqrt 3+2\quad\left(\text{cm}\right).
+$$
 
-(3) Multiply both sides by $6$: $3x-\left(5x+11\right)=6+2\left(2x-4\right)$. Remove parentheses: $3x-5x-11=6+4x-8$. Combine: $-2x-11=4x-2$. Transpose: $-9=6x$, giving $x=-\frac{3}{2}$.
+(2) The two shaded parts can be assembled into a small rectangle of length $\sqrt 3-1$ and width $1$, so the sum of their areas is
 
-(4) Simplify: $\frac{0.1x-0.2}{0.02}=5x-10$, $\frac{x+1}{0.5}=2x+2$. The original expression: $5x-10-\left(2x+2\right)=3$. Combine: $3x-12=3$. Transpose: $3x=15$, giving $x=5$. $\blacksquare$
-
-## Problem 4
-
-(Problem 5.2, Review and Consolidation, Problem 4) Solve with an equation: for what value of $x$ do the values of $2x+3$ and $-5x+6$:
-
-(1) become equal?
-
-(2) become opposites of each other?
-
-### Solution to Problem 4
-
-By General Steps for Solving a Linear Equation in One Variable.
-
-(1) Set $2x+3=-5x+6$. Transpose: $2x+5x=6-3$, combine: $7x=3$, giving $x=\frac{3}{7}$.
-
-(2) Set $\left(2x+3\right)+\left(-5x+6\right)=0$. Combine: $-3x+9=0$. Transpose: $-3x=-9$, giving $x=3$. $\blacksquare$
-
-## Problem 5
-
-(Problem 5.2, Review and Consolidation, Problem 5) Given that $3$ is a solution of the equation $2x-a=1$ in $x$, find the value of $a$.
-
-### Solution to Problem 5
-
-By Solution of an Equation, substitute $x=3$ into the equation.
-
-$$2\times3-a=1,\quad 6-a=1,\quad a=5.$$
+$$
+\left(\sqrt 3-1\right)\times 1=\sqrt 3-1\quad\left(\text{cm}^2\right).
+$$
 
 $\blacksquare$
 
+## Problem 4
+
+(Exercise 8.3, Extension and Exploration, Problem 9) Given the number $0.101001000100001\cdots$, its characteristic is: viewed from left to right, between two adjacent $1$'s there is successively one more $0$. Is this number rational or irrational? Why?
+
+### Solution to Problem 4
+
+By Irrational Number, a non-terminating non-repeating decimal is an irrational number.
+
+Although the decimal part of this number is non-terminating, between two adjacent $1$'s there is successively one more $0$, so the decimal part has no repeating period; it is a non-terminating non-repeating decimal. Thus it is not a rational number but an irrational number. $\blacksquare$
+
+## Reading and Reflection 1
+
+(Reading and Reflection: Why $\sqrt 2$ Is Not a Rational Number) The ancient Greek Pythagorean school held that all quantities could be represented by integers or ratios of integers. Later it was discovered that the diagonal of a square of side length $1$ could not be represented by an integer or a ratio of integers. Explain why $\sqrt 2$ is not a rational number.
+
+### Solution to Reading and Reflection 1
+
+Use proof by contradiction. Suppose $\sqrt 2$ is rational; then there exist two coprime positive integers $p$, $q$ such that
+
+$$
+\frac{p}{q}=\sqrt 2.
+$$
+
+Squaring both sides gives $p^2=2q^2$. Since $2q^2$ is even, $p^2$ is even, and only the square of an even number is even, so $p$ is also even. Let $p=2r$ ($r$ a positive integer); substituting gives $4r^2=2q^2$, i.e. $q^2=2r^2$, so $q$ is also even.
+
+Thus both $p$ and $q$ are even, contradicting the assumption that $p$, $q$ are coprime. This contradiction shows that $\sqrt 2$ cannot be written as a fraction, i.e. $\sqrt 2$ is not a rational number. $\blacksquare$
+
+## Activity 1
+
+(Mathematical Activity, Activity 1) Estimate the length and width of $A0$ paper. According to the international standard, $A$-series paper is rectangular, and $A0$ paper has area $1\,\text{m}^2$. Fold $A0$ paper in half along its long side and cut it open to get $A1$ paper; fold $A1$ paper in half along its long side and cut it open to get $A2$ paper; continuing in this way gives $A3$, $A4$ paper. Based on this, can you estimate the length and width of $A0$ paper in millimeters respectively (take integers)?
+
+### Solution to Activity 1
+
+Let the length of $A0$ paper be $x$ and the width be $y$. After folding in half along the long side, the new paper ($A1$) has length $y$ and width $\frac{x}{2}$. All sizes of paper have the same shape (the length-to-width ratio is unchanged), so the ratio is equal before and after folding:
+
+$$
+\frac{x}{y}=\frac{y}{x/2}=\frac{2y}{x}.
+$$
+
+Thus $x^2=2y^2$, i.e. $x=\sqrt 2\,y$. Also the area of $A0$ is $xy=1$; substituting gives
+
+$$
+\sqrt 2\,y^2=1,\quad y^2=\frac{1}{\sqrt 2},\quad y=\sqrt{\frac{1}{\sqrt 2}}=2^{-\frac14}.
+$$
+
+From $2^{-\frac14}\approx 0.8409\,\text{m}=841\,\text{mm}$, $x=\sqrt 2\,y\approx 1.1892\,\text{m}=1189\,\text{mm}$.
+
+Thus $A0$ paper has length about $1189\,\text{mm}$ and width about $841\,\text{mm}$. $\blacksquare$
+
+## Activity 2
+
+(Mathematical Activity, Activity 2) Finding cube roots by mental arithmetic. The Chinese mathematician Hua Luogeng once blurted out that the cube root of $59319$ is $39$. Do you know how he calculated it so quickly?
+
+(1) From $10^3=1000$, $100^3=1000000$, can you determine how many digits $\sqrt\left[3\right]{59319}$ has?
+
+(2) Since the units digit of $59319$ is $9$, can you determine what the units digit of $\sqrt\left[3\right]{59319}$ is?
+
+(3) If you delete the last three digits $319$ of $59319$ to get the number $59$, and $3^3=27$, $4^3=64$, can you determine what the tens digit of $\sqrt\left[3\right]{59319}$ is?
+
+### Solution to Activity 2
+
+By Cube Root, determine each digit using the pattern of cubes.
+
+(1) $\because 10^3=1000< 59319< 1000000=100^3$, $\therefore 10< \sqrt\left[3\right]{59319}< 100$, i.e. $\sqrt\left[3\right]{59319}$ is a two-digit number.
+
+(2) The only units digit whose cube still has units digit $9$ is $9$ ($9^3=729$, units digit $9$), so the units digit of $\sqrt\left[3\right]{59319}$ is $9$.
+
+(3) Deleting the last three digits $319$ gives $59$; $\because 3^3=27< 59< 64=4^3$, $\therefore$ the cube root corresponding to the tens digit lies between $3$ and $4$; take the smaller $3$, i.e. the tens digit is $3$.
+
+In summary, $\sqrt\left[3\right]{59319}=39$. $\blacksquare$
+
+## Review Exercise 1
+
+(Review Exercise, Review and Consolidation, Problem 1) Find the square roots and arithmetic square roots of the following numbers:
+
+(1) $0.36$;　(2) $\frac{25}{16}$;　(3) $\left(-\frac{7}{8}\right)^2$;　(4) $10^4$.
+
+### Solution to Review Exercise 1
+
+By Square Root and Arithmetic Square Root.
+
+(1) $\because\left(\pm 0.6\right)^2=0.36$, $\therefore$ the square roots are $\pm 0.6$, and the arithmetic square root is $0.6$.
+
+(2) $\because\left(\pm\frac{5}{4}\right)^2=\frac{25}{16}$, $\therefore$ the square roots are $\pm\frac{5}{4}$, and the arithmetic square root is $\frac{5}{4}$.
+
+(3) $\left(-\frac{7}{8}\right)^2=\frac{49}{64}$, $\because\left(\pm\frac{7}{8}\right)^2=\frac{49}{64}$, $\therefore$ the square roots are $\pm\frac{7}{8}$, and the arithmetic square root is $\frac{7}{8}$.
+
+(4) $10^4=10000$, $\because\left(\pm 100\right)^2=10000$, $\therefore$ the square roots are $\pm 100$, and the arithmetic square root is $100$. $\blacksquare$
+
+## Review Exercise 2
+
+(Review Exercise, Review and Consolidation, Problem 2) Find the cube roots of the following numbers:
+
+(1) $\frac{27}{8}$;　(2) $-\frac{1}{64}$;　(3) $-0.729$;　(4) $36$.
+
+### Solution to Review Exercise 2
+
+By Cube Root.
+
+(1) $\because\left(\frac{3}{2}\right)^3=\frac{27}{8}$, $\therefore\sqrt\left[3\right]{\frac{27}{8}}=\frac{3}{2}$.
+
+(2) $\because\left(-\frac{1}{4}\right)^3=-\frac{1}{64}$, $\therefore\sqrt\left[3\right]{-\frac{1}{64}}=-\frac{1}{4}$.
+
+(3) $\because\left(-0.9\right)^3=-0.729$, $\therefore\sqrt\left[3\right]{-0.729}=-0.9$.
+
+(4) The cube root of $36$ is $\sqrt\left[3\right]{36}$ (cannot be extracted exactly), $\approx 3.30$. $\blacksquare$
+
+## Review Exercise 3
+
+(Review Exercise, Review and Consolidation, Problem 3) Find the value of each of the following:
+
+(1) $-\sqrt{1-\frac{16}{25}}$;　(2) $\sqrt\left[3\right]{10^3}$;　(3) $\pm\sqrt{0.09}$;　(4) $\sqrt{\left(3-\pi\right)^2}$.
+
+### Solution to Review Exercise 3
+
+By Arithmetic Square Root, Properties of Arithmetic Square Roots, and Cube Root.
+
+(1) $1-\frac{16}{25}=\frac{9}{25}$, $\sqrt{\frac{9}{25}}=\frac{3}{5}$, so $-\sqrt{1-\frac{16}{25}}=-\frac{3}{5}$.
+
+(2) $\sqrt\left[3\right]{10^3}=10$.
+
+(3) $\because 0.3^2=0.09$, $\therefore\pm\sqrt{0.09}=\pm 0.3$.
+
+(4) $\because\pi> 3$, $\therefore 3-\pi< 0$. By Properties of Arithmetic Square Roots, $\sqrt{\left(3-\pi\right)^2}=\left|3-\pi\right|=\pi-3$. $\blacksquare$
+
+## Review Exercise 4
+
+(Review Exercise, Review and Consolidation, Problem 4) Use a calculator to find the value of each of the following:
+
+(1) $\sqrt{180625}$;　(2) $-\sqrt{9.77}$ (keep three decimal places);　(3) $\sqrt\left[3\right]{39304}$;　(4) $\sqrt\left[3\right]{0.43}$ (keep three decimal places).
+
+### Solution to Review Exercise 4
+
+Use a calculator.
+
+(1) $\because 425^2=180625$, $\therefore\sqrt{180625}=425$.
+
+(2) $\sqrt{9.77}\approx 3.126$, so $-\sqrt{9.77}\approx-3.126$.
+
+(3) $\because 34^3=39304$, $\therefore\sqrt\left[3\right]{39304}=34$.
+
+(4) $\sqrt\left[3\right]{0.43}\approx 0.755$. $\blacksquare$
+
+## Review Exercise 5
+
+(Review Exercise, Review and Consolidation, Problem 5) Compute:
+
+(1) $\sqrt 2\left(\sqrt 2+2\right)$;　(2) $\sqrt 3\left(\sqrt 3+\frac{1}{\sqrt 3}\right)$.
+
+### Solution to Review Exercise 5
+
+Expand by the distributive law.
+
+(1) $\sqrt 2\left(\sqrt 2+2\right)=\left(\sqrt 2\right)^2+2\sqrt 2=2+2\sqrt 2$.
+
+(2) $\sqrt 3\left(\sqrt 3+\frac{1}{\sqrt 3}\right)=\left(\sqrt 3\right)^2+\sqrt 3\cdot\frac{1}{\sqrt 3}=3+1=4$. $\blacksquare$
+
+## Review Exercise 6
+
+(Review Exercise, Review and Consolidation, Problem 6) Between which two consecutive integers does each of the following numbers lie? Which integer is it closer to?
+
+(1) $\sqrt{91}$;　(2) $\sqrt\left[3\right]{91}$.
+
+### Solution to Review Exercise 6
+
+(1) $\because 9^2=81< 91< 100=10^2$, $\therefore 9< \sqrt{91}< 10$. Also $91-81=10$, $100-91=9$, so $91$ is closer to $100$; thus $\sqrt{91}$ lies between $9$ and $10$, closer to $10$.
+
+(2) $\because 4^3=64< 91< 125=5^3$, $\therefore 4< \sqrt\left[3\right]{91}< 5$. Also $91-64=27$, $125-91=34$, so $91$ is closer to $64$; thus $\sqrt\left[3\right]{91}$ lies between $4$ and $5$, closer to $4$. $\blacksquare$
+
+## Review Exercise 7
+
+(Review Exercise, Comprehensive Application, Problem 7) Given $\left|x\right|< \pi$ ($x$ is an integer), find the values of $x$ and represent them on the number line.
+
+### Solution to Review Exercise 7
+
+$\pi\approx 3.14$, and $\left|x\right|< \pi$ means $-\pi< x< \pi$, i.e. $-3.14< x< 3.14$. The integers in this range are $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
+
+Thus $x=-3$, $-2$, $-1$, $0$, $1$, $2$, $3$. Mark these points correspondingly on the number line. $\blacksquare$
+
+## Review Exercise 8
+
+(Review Exercise, Comprehensive Application, Problem 8) A circle and a square both have area $2\pi\,\text{cm}^2$. Which one has the larger perimeter? What insight can you draw from this?
+
+The figure shows a circle and a square drawn side by side, both with area $2\pi\,\text{cm}^2$.
+
+### Solution to Review Exercise 8
+
+By Square Root, find the side length and radius.
+
+Square: area $2\pi$, side length $a=\sqrt{2\pi}$, perimeter $C_正=4a=4\sqrt{2\pi}$.
+
+Circle: area $\pi r^2=2\pi$, so $r^2=2$, $r=\sqrt 2$, perimeter $C_圆=2\pi r=2\pi\sqrt 2$.
+
+Compare: $C_正=4\sqrt{2\pi}\approx 4\times 2.507=10.03$, $C_圆=2\pi\sqrt 2\approx 8.89$. Thus $C_正> C_圆$, and the square has the larger perimeter.
+
+Insight: when the areas are equal, the circle has a smaller perimeter than the square, i.e. the circle is the figure with the smallest perimeter for a given area. $\blacksquare$
+
+## Review Exercise 9
+
+(Review Exercise, Comprehensive Application, Problem 9) On a clear day, the farthest distance $s$ (unit: $km$) a person standing by the sea can see over the ocean can be estimated by $s^2=16.74h$, where $h$ (unit: $m$) is the distance from the eye to sea level. Wang Fang stands by the sea observing, with her eye $1.5\,m$ above sea level; what is the farthest distance she can see in kilometers? If she stands on a rock by the sea, with her eye $8.7\,m$ above sea level, what is the farthest distance she can see in kilometers? (Keep two decimal places.)
+
+### Solution to Review Exercise 9
+
+From $s^2=16.74h$, $s=\sqrt{16.74h}$ (take the positive value).
+
+When $h=1.5$, $s=\sqrt{16.74\times 1.5}=\sqrt{25.11}\approx 5.01\,km$.
+
+When $h=8.7$, $s=\sqrt{16.74\times 8.7}=\sqrt{145.64}\approx 12.07\,km$.
+
+Thus by the sea she can see about $5.01\,km$, and standing on the rock about $12.07\,km$. $\blacksquare$
+
+## Review Exercise 10
+
+(Review Exercise, Extension and Exploration, Problem 10) A cube iron block is completely immersed in the water of a cylindrical glass, and the water level rises by $58\,mm$. If the inner base radius of the glass is $95\,mm$, what is the edge length of the cube in millimeters? (Take $\pi$ as $3.14$, take integers.)
+
+### Solution to Review Exercise 10
+
+The cylindrical volume of the raised water level equals the volume of the cube. The volume of the raised part is
+
+$$
+V=\pi r^2 h=3.14\times 95^2\times 58.
+$$
+
+Compute: $95^2=9025$, $V=3.14\times 9025\times 58=1645553\,\text{mm}^3$.
+
+Let the edge length of the cube be $x$; $x^3=1645553$, $x=\sqrt\left[3\right]{1645553}\approx 118$.
+
+That is, the edge length of the cube is about $118\,mm$. $\blacksquare$
+
+## Review Exercise 11
+
+(Review Exercise, Extension and Exploration, Problem 11)
+
+(1) How can the figure composed of $5$ small squares of side length $1$ (as shown) be cut and reassembled into a large square?
+
+(2) On the number line, draw the point corresponding to the side length of this large square.
+
+The figure shows a shape composed of $5$ small squares of side length $1$.
+
+### Solution to Review Exercise 11
+
+(1) The total area of the $5$ small squares of side length $1$ is $5$. The assembled large square also has area $5$, and by Square Root, the side length of the large square is $\sqrt 5$. Cut along the diagonals of the small-square grid and reassemble the cut right triangles to form a large square of side length $\sqrt 5$.
+
+(2) The side length of the large square is $\sqrt 5$. On the number line, draw an arc centered at the origin with radius $\sqrt 5$; its intersection with the positive axis represents $\sqrt 5$, and its intersection with the negative axis represents $-\sqrt 5$. $\blacksquare$
+
+## Exercise 1
+
+(Exercise 9.1, Problem 1) Write down the coordinates of points $A$, $B$, $C$, $D$, $E$, $F$ in the figure.
+
+The figure shows a Cartesian coordinate plane with $x$-axis, $y$-axis, and origin marked, and six points $A$, $B$, $C$, $D$, $E$, $F$ plotted.
+
+### Solution to Exercise 1
+
+By Coordinates of a Point, draw a perpendicular from the point to the $x$-axis to get the x-coordinate, and to the $y$-axis to get the y-coordinate. Reading off the coordinates of the points,
+
+$$
+A\left(-3,-2\right),\ B\left(-5,4\right),\ C\left(5,-4\right),\ D\left(0,-3\right),\ E\left(2,5\right),\ F\left(-4,0\right).
+$$
+
+Among them, $D$ is on the $y$-axis (x-coordinate $0$), and $F$ is on the $x$-axis (y-coordinate $0$). $\blacksquare$
+
+## Exercise 2
+
+(Exercise 9.1, Problem 2) In the rectangular coordinate system shown, plot the following points: $L\left(-5,-3\right)$, $M\left(4,0\right)$, $N\left(-6,2\right)$, $P\left(5,-3.5\right)$, $Q\left(0,5\right)$, $R\left(6,2\right)$.
+
+### Solution to Exercise 2
+
+By Coordinates of a Point, first find the x-coordinate on the $x$-axis, then find the y-coordinate on the $y$-axis; the intersection of the two perpendiculars is the point. Plot $L\left(-5,-3\right)$, $M\left(4,0\right)$, $N\left(-6,2\right)$, $P\left(5,-3.5\right)$, $Q\left(0,5\right)$, $R\left(6,2\right)$ in order. Among them, $M\left(4,0\right)$ is on the $x$-axis, and $Q\left(0,5\right)$ is on the $y$-axis. $\blacksquare$
+
+## Exercise 3
+
+(Exercise 9.1, Problem 3) According to the position of the point, fill in the table using "$+$" and "$-$".
+
+### Solution to Exercise 3
+
+By Quadrants, in the first quadrant both x- and y-coordinates are positive, in the second quadrant the x-coordinate is negative and the y-coordinate positive, in the third quadrant both are negative, and in the fourth quadrant the x-coordinate is positive and the y-coordinate negative.
+
+First quadrant: x-coordinate $+$, y-coordinate $+$; second quadrant: x-coordinate $-$, y-coordinate $+$; third quadrant: x-coordinate $-$, y-coordinate $-$; fourth quadrant: x-coordinate $+$, y-coordinate $-$. $\blacksquare$
+
+## Exercise 4
+
+(Exercise 9.1, Problem 1) On grid paper there are two points $A$, $B$. If a rectangular coordinate system is established with point $B$ as the origin, then the coordinates of point $A$ are $\left(-2,1\right)$. If a rectangular coordinate system is established with point $A$ as the origin, then the coordinates of point $B$ are (　　).
+
+(1) $\left(-2,1\right)$　(2) $\left(2,-1\right)$　(3) $\left(-2,-1\right)$　(4) $\left(2,1\right)$
+
+### Solution to Exercise 4
+
+By One-to-One Correspondence Between Points and Coordinates, the relative positions of the two points do not change; only the origin moves from $B$ to $A$.
+
+With $B$ as the origin, $A\left(-2,1\right)$, which means $A$ is $2$ units to the left of $B$ and $1$ unit above. Conversely, with $A$ as the origin, $B$ is $2$ units to the right of $A$ and $1$ unit below, so the coordinates of $B$ are $\left(2,-1\right)$. Choose (2). $\blacksquare$
+
+## Exercise 5
+
+(Exercise 9.1, Problem 2) As shown in the figure, in right triangle $ABC$, $\angle C=90^\circ$, $AC=3$, $BC=4$. Establish a rectangular coordinate system and write down the coordinates of the three vertices of triangle $ABC$.
+
+The figure shows a right triangle $ABC$ in a Cartesian coordinate plane, with $\angle C=90^\circ$, $AC=3$, $BC=4$.
+
+### Solution to Exercise 5
+
+By Rectangular Coordinate System, choose point $C$ as the origin, the line on which $CA$ lies as the $y$-axis, and the line on which $CB$ lies as the $x$-axis.
+
+Then $C\left(0,0\right)$. $AC=3$ in the positive $y$-axis direction, so $A\left(0,3\right)$. $BC=4$ in the positive $x$-axis direction, so $B\left(4,0\right)$.
+
+That is, $A\left(0,3\right)$, $B\left(4,0\right)$, $C\left(0,0\right)$. (With a different coordinate system, the coordinates change accordingly.) $\blacksquare$
+
+## Exercise 6
+
+(Exercise 9.1, Problem 3) The figure shows the cross-section of a piece of angle steel. Establish an appropriate rectangular coordinate system and use coordinates to represent the positions of the vertices of the angle steel (the side length of each small square in the figure represents $10\,cm$).
+
+### Solution to Exercise 6
+
+By Rectangular Coordinate System, choose one right-angle vertex of the angle steel as the origin, and take the lines on which the two sides lie as the positive directions of the $x$-axis and $y$-axis respectively. Each small grid represents $10\,cm$; according to the number of grids of each vertex relative to the origin, write down its coordinates (x-coordinate, y-coordinate, in units of $10\,cm$). $\blacksquare$
+
+## Problem 5
+
+(Exercise 9.1, Review and Consolidation, Problem 1) As shown in the figure, write down the coordinates of each point labeled with a letter, and indicate its x-coordinate and y-coordinate.
+
+### Solution to Problem 5
+
+By Coordinates of a Point, through each point draw perpendiculars to the $x$-axis and $y$-axis respectively, and read off the number corresponding to the foot. The coordinates of the points are
+
+$$
+A\left(-5,4\right),\ B\left(-2,2\right),\ C\left(4,4\right),\ D\left(2,1\right),\ E\left(5,-3\right),\ F\left(0,-2\right),\ G\left(-4,-4\right),\ H\left(-3,-1\right).
+$$
+
+The first number of each point is the x-coordinate, and the second number is the y-coordinate. $\blacksquare$
+
 ## Problem 6
 
-(Problem 5.2, Review and Consolidation, Problem 6) If the solution of the equation $3x+5=11$ is also a solution of the equation $6x+3a=22$ in $x$, find the value of $a$.
+(Exercise 9.1, Review and Consolidation, Problem 2) In the rectangular coordinate system, plot the following points: point $A$ is on the $y$-axis, above the origin, $2$ units of length from the origin; point $B$ is on the $x$-axis, to the right of the origin, $1$ unit of length from the origin; point $C$ is above the $x$-axis and to the right of the $y$-axis, at distance $2$ units of length from each coordinate axis; point $D$ is on the $x$-axis, to the right of the origin, $3$ units of length from the origin; point $E$ is above the $x$-axis and to the right of the $y$-axis, at distance $2$ units of length from the $x$-axis and $4$ units of length from the $y$-axis. Connect these points in order. What figure do you get?
 
 ### Solution to Problem 6
 
-By Solution of an Equation, first solve the first equation.
+By Coordinates of a Point, the distance to the $x$-axis is the absolute value of the y-coordinate, and the distance to the $y$-axis is the absolute value of the x-coordinate.
 
-From $3x+5=11$, we get $3x=6$, $x=2$. Substituting into $6x+3a=22$: $12+3a=22$, $3a=10$, giving $a=\frac{10}{3}$. $\blacksquare$
+$A$ on the $y$-axis, $2$ from the origin (up): $A\left(0,2\right)$. $B$ on the $x$-axis, $1$ from the origin (right): $B\left(1,0\right)$. $C$ in the first quadrant, $2$ from both axes: $C\left(2,2\right)$. $D$ on the $x$-axis, $3$ from the origin (right): $D\left(3,0\right)$. $E$ at distance $2$ from the $x$-axis and $4$ from the $y$-axis (first quadrant): $E\left(4,2\right)$.
 
-## Problem 7
-
-(Problem 5.2, Review and Consolidation, Problem 7) If the solution of the equation $x+2a-3=3x+7$ is not a nonnegative number, find the range of $a$.
-
-### Solution to Problem 7
-
-By General Steps for Solving a Linear Equation in One Variable, first solve the equation.
-
-Transpose: $x-3x=7+3-2a$, combine: $-2x=10-2a$, giving $x=a-5$. The solution is not nonnegative, i.e. $x< 0$, so $a-5< 0$, giving $a< 5$. $\blacksquare$
-
-## Problem 8
-
-(Problem 5.2, Comprehensive Application, Problem 8) Solve the following equations:
-
-(1) $\frac{3}{4}\left[\frac{4}{3}\left(\frac{1}{2}x-\frac{1}{4}\right)-8\right]=\frac{3}{2}x$;
-
-(2) $\frac{1}{2}\left[x-\frac{1}{2}\left(x-1\right)\right]=\frac{2}{3}\left(x-1\right)$;
-
-(3) $\frac{0.4y+0.9}{0.5}-\frac{0.3y-0.2}{0.2}=1$.
-
-### Solution to Problem 8
-
-By General Steps for Solving a Linear Equation in One Variable.
-
-(1) First remove what is inside the curly brackets: $\frac{4}{3}\left(\frac{1}{2}x-\frac{1}{4}\right)=\frac{2}{3}x-\frac{1}{3}$. The original expression: $\frac{3}{4}\left(\frac{2}{3}x-\frac{1}{3}-8\right)=\frac{3}{2}x$. i.e. $\frac{1}{2}x-\frac{1}{4}-6=\frac{3}{2}x$. Transpose: $-\frac{25}{4}=x$, giving $x=-\frac{25}{4}$.
-
-(2) Simplify the left side: $\frac{1}{2}\left[x-\frac{1}{2}x+\frac{1}{2}\right]=\frac{1}{2}\left[\frac{1}{2}x+\frac{1}{2}\right]=\frac{1}{4}x+\frac{1}{4}$. The right side $=\frac{2}{3}x-\frac{2}{3}$. Transpose: $\frac{1}{4}+\frac{2}{3}=\frac{2}{3}x-\frac{1}{4}x$. Combine: $\frac{11}{12}=\frac{5}{12}x$, giving $x=\frac{11}{5}$.
-
-(3) Simplify: $\frac{0.4y+0.9}{0.5}=0.8y+1.8$, $\frac{0.3y-0.2}{0.2}=1.5y-1$. The original expression: $0.8y+1.8-\left(1.5y-1\right)=1$. Combine: $-0.7y+2.8=1$. Transpose: $-0.7y=-1.8$, giving $y=\frac{18}{7}$. $\blacksquare$
-
-## Problem 9
-
-(Problem 5.2, Comprehensive Application, Problem 9) A workshop has $22$ workers; each worker can produce either $1200$ studs or $20000$ nuts per day. $1$ stud needs to be matched with $2$ nuts. So that the studs and nuts produced each day exactly match each other, how many workers should be assigned to produce studs and how many to produce nuts?
-
-### Solution to Problem 9
-
-By General Steps for Solving a Linear Equation in One Variable, let $x$ workers be assigned to produce studs.
-
-There are $\left(22-x\right)$ workers producing nuts. Each day they produce $1200x$ studs and $20000\left(22-x\right)$ nuts. The matching relation: number of nuts $=2\times$ number of studs.
-
-$$20000\left(22-x\right)=2\times1200x.$$
-
-Simplifying: $20000\left(22-x\right)=2400x$, $440000-20000x=2400x$, $440000=22400x$, giving $x=\frac{440000}{22400}=\frac{275}{14}\approx19.6$. Taking an integer assignment: about $20$ workers produce studs and $2$ produce nuts. $\blacksquare$
-
-## Problem 10
-
-(Problem 5.2, Comprehensive Application, Problem 10) Sorting a batch of books takes one person $40\ \text{h}$. It is now planned that some people work for $4\ \text{h}$ first, then $2$ more people join them to work for $8\ \text{h}$, completing the job. Assuming these people all have the same work rate, how many people should be assigned to work first?
-
-### Solution to Problem 10
-
-By General Steps for Solving a Linear Equation in One Variable, let $x$ people be assigned to work first.
-
-Each person's hourly rate is $\frac{1}{40}$. The first $4\ \text{h}$ complete $\frac{4x}{40}$, and the next $8\ \text{h}$ complete $\frac{8\left(x+2\right)}{40}$. The total work is $1$:
-
-$$\frac{4x}{40}+\frac{8\left(x+2\right)}{40}=1.$$
-
-i.e. $4x+8\left(x+2\right)=40$, $4x+8x+16=40$, $12x=24$, giving $x=2$. Hence $2$ people should be assigned to work first. $\blacksquare$
-
-## Problem 11
-
-(Problem 5.2, Comprehensive Application, Problem 11) Set up an equation to solve: for what value of $x$ are the values of the expressions $\frac{2x-1}{3}$ and $\frac{x+2}{2}$ equal?
-
-### Solution to Problem 11
-
-By General Steps for Solving a Linear Equation in One Variable.
-
-Set $\frac{2x-1}{3}=\frac{x+2}{2}$. Multiply both sides by $6$: $2\left(2x-1\right)=3\left(x+2\right)$. Remove parentheses: $4x-2=3x+6$. Transpose: $x=8$. Hence when $x=8$ the two expressions have equal values. $\blacksquare$
-
-## Problem 12
-
-(Problem 5.2, Comprehensive Application, Problem 12) For what value of $x$ are the values of $\frac{3x-1}{4}$ and $\frac{5x+7}{6}$ opposites of each other?
-
-### Solution to Problem 12
-
-By General Steps for Solving a Linear Equation in One Variable.
-
-Set $\frac{3x-1}{4}+\frac{5x+7}{6}=0$. Multiply both sides by $12$: $3\left(3x-1\right)+2\left(5x+7\right)=0$. Remove parentheses: $9x-3+10x+14=0$. Combine: $19x+11=0$, giving $x=-\frac{11}{19}$. $\blacksquare$
-
-## Problem 13
-
-(Problem 5.2, Comprehensive Application, Problem 13) A boat travels downstream from dock A to dock B in $2\ \text{h}$; returning upstream from dock B to dock A takes $2.5\ \text{h}$. Given that the current speed is $3\ \text{km/h}$, find the average speed of the boat in still water.
-
-### Solution to Problem 13
-
-By General Steps for Solving a Linear Equation in One Variable, let the boat's speed in still water be $v\ \text{km/h}$.
-
-The downstream speed is $v+3$, and the upstream speed is $v-3$. The distance between the two docks is unchanged: $2\left(v+3\right)=2.5\left(v-3\right)$. Remove parentheses: $2v+6=2.5v-7.5$. Transpose: $13.5=0.5v$, giving $v=27$. Hence the boat's average speed in still water is $27\ \text{km/h}$. $\blacksquare$
-
-## Problem 14
-
-(Problem 5.2, Comprehensive Application, Problem 14) A middle school organizes a spring outing. It was originally planned to rent several $45$-seat buses, but $15$ people would have no seats; if the same number of $60$-seat buses were rented, one bus would be left over and the rest would be exactly full. Find the number of students and the number of $45$-seat buses originally planned.
-
-### Solution to Problem 14
-
-By General Steps for Solving a Linear Equation in One Variable, let $x$ be the number of $45$-seat buses originally planned.
-
-The number of students: $45x+15$. Renting $\left(x-1\right)$ $60$-seat buses, exactly full: $60\left(x-1\right)$.
-
-$$45x+15=60\left(x-1\right).$$
-
-Remove parentheses: $45x+15=60x-60$. Transpose: $75=15x$, giving $x=5$. The number of students $=45\times5+15=240$. Hence there are $240$ students, and $5$ $45$-seat buses were originally planned. $\blacksquare$
-
-## Problem 15
-
-(Problem 5.2, Comprehensive Application, Problem 15) A swimming pool sells summer membership cards each year from June to August; each card is $80$ yuan, for personal use only. With the card, each admission ticket is $1$ yuan; without the card, each admission ticket is $3$ yuan. Under what circumstances do buying the card and not buying the card cost the same?
-
-### Solution to Problem 15
-
-By General Steps for Solving a Linear Equation in One Variable, let $x$ be the number of swims.
-
-Total cost with the card: $80+x$ yuan. Total cost without the card: $3x$ yuan. Set the two equal:
-
-$$80+x=3x.$$
-
-Transpose: $80=2x$, giving $x=40$. Hence when swimming $40$ times, the two ways cost the same. $\blacksquare$
-
-## Problem 16
-
-(Problem 5.2, Comprehensive Application, Problem 16) A shop opens and, to attract customers, sells all goods at a 20% discount. Given that a certain pair of leather shoes costs $60$ yuan wholesale and, after the 20% discount, the seller's profit margin is $40\%$, what is the marked price of these shoes?
-
-### Solution to Problem 16
-
-By General Steps for Solving a Linear Equation in One Variable, let the marked price be $x$ yuan.
-
-The discounted selling price is $0.8x$ yuan. A $40\%$ profit margin means the profit is $40\%$ of the cost, i.e. profit $=60\times40\%=24$ yuan. Selling price $-$ cost $=$ profit:
-
-$$0.8x-60=24.$$
-
-Transpose: $0.8x=84$, giving $x=105$. Hence the marked price is $105$ yuan. $\blacksquare$
-
-## Problem 17
-
-(Problem 5.2, Extension and Exploration, Problem 17) A train travels at uniform speed; passing through a tunnel $300\ \text{m}$ long takes $20\ \text{s}$. There is a lamp on top of the tunnel shining vertically downward, and the time the light illuminates the train is $10\ \text{s}$. From these data, can you find the length of the train? What is the length of the train?
-
-### Solution to Problem 17
-
-By General Steps for Solving a Linear Equation in One Variable, let the train be $x\ \text{m}$ long.
-
-The distance through the tunnel is $\left(300+x\right)\ \text{m}$, and the speed is $\frac{300+x}{20}$. When the light illuminates the train, the train travels a distance equal to its own length $x$, and the speed is $\frac{x}{10}$. The train travels at uniform speed:
-
-$$\frac{300+x}{20}=\frac{x}{10}.$$
-
-Multiply both sides by $20$: $300+x=2x$, giving $x=300$. Hence the train is $300\ \text{m}$ long. $\blacksquare$
-
-## Inquiry and Discovery 1
-
-(Inquiry and Discovery: Converting a Repeating Decimal to a Fraction) Convert $0.\overline{7}$ to a fraction.
-
-### Solution to Inquiry and Discovery 1
-
-By Properties of Equality 1 and Properties of Equality 2, let $x=0.\overline{7}$.
-
-Multiply both sides by $10$: $10x=7.\overline{7}$. Subtracting the two equations: $10x-x=7.\overline{7}-0.\overline{7}=7$. i.e. $9x=7$, giving $x=\frac{7}{9}$. Hence $0.\overline{7}=\frac{7}{9}$. $\blacksquare$
+Connect $A$, $B$, $C$, $D$, $E$ in order; a figure resembling an arrow (or a small house) is obtained. $\blacksquare$

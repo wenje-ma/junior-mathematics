@@ -1,169 +1,367 @@
 # week71
 
+## 习题一
+
+(习题 28.2 综合运用第 8 题) 如图, 一枚运载火箭从地面 $L$ 处发射. 当火箭到达 $A$ 点时, 从位于地面 $R$ 处的雷达站测得 $AR$ 的距离是 $6\ \text{km}$, 仰角为 $43^{\circ}$; $1\ \text{s}$ 后火箭到达 $B$ 点, 此时测得仰角为 $45.54^{\circ}$. 这枚火箭从 $A$ 到 $B$ 的平均速度是多少 (结果取小数点后两位)?
+
+图为火箭发射示意图: 火箭从地面 $L$ 处竖直向上发射, 雷达站位于地面 $R$ 处, $LR$ 为水平距离; 当火箭到达 $A$ 点时, 测得 $AR=6\ \text{km}$, 仰角 $\angle ARL=43^\circ$; $1\ \text{s}$ 后到达 $B$ 点, 仰角变为 $\angle BRL=45.54^\circ$, $A,B,L$ 在同一条竖直线上. 
+
+### 解答 习题一
+
+设 $LR$ 的水平距离为 $d$. 在 $\text{Rt}\triangle ALR$ 中, $AR=6\ \text{km}$, $\angle ARL=43^{\circ}$.
+
+$AL=AR\cdot\sin 43^{\circ}=6\times\sin 43^{\circ}\approx 6\times 0.6820\approx 4.092\ \text{km}$.
+
+$LR=AR\cdot\cos 43^{\circ}=6\times\cos 43^{\circ}\approx 6\times 0.7314\approx 4.388\ \text{km}$.
+
+在 $\text{Rt}\triangle BLR$ 中, $\angle BRL=45.54^{\circ}$, $BL=LR\cdot\tan 45.54^{\circ}\approx 4.388\times 1.0198\approx 4.475\ \text{km}$.
+
+$AB=BL-AL\approx 4.475-4.092=0.383\ \text{km}=383\ \text{m}$.
+
+平均速度 $=\frac{383}{1}=383.00\ \text{m/s}$. $\blacksquare$
+
+## 习题二
+
+(习题 28.2 综合运用第 9 题) 如图, 为方便行人横过马路, 打算修建一座高 $5\ \text{m}$ 的过街天桥. 已知天桥的斜面坡度为 $1:1.5$, 计算斜坡 $AB$ 的长度 (结果取整数).
+
+### 解答 习题二
+
+坡度 $i=1:1.5$, 即铅直高度与水平宽度之比为 $1:1.5$. 铅直高度 $5\ \text{m}$, 故水平宽度 $=5\times 1.5=7.5\ \text{m}$.
+
+由勾股定理, 斜坡长 $AB=\sqrt{5^{2}+7.5^{2}}=\sqrt{25+56.25}=\sqrt{81.25}\approx 9\ \text{m}$. $\blacksquare$
+
+## 习题三
+
+(习题 28.2 拓广探索第 10 题) 海中有一小岛 $P$, 在以 $P$ 为圆心, 半径为 $16\sqrt{2}\ \text{n mile}$ 的圆形海域内有暗礁. 一轮船自西向东航行, 它在 $A$ 处时测得小岛 $P$ 位于北偏东 $60^{\circ}$ 方向上, 且 $AP=32\ \text{n mile}$. 若轮船继续向正东方向航行, 轮船有无触礁危险? 如果有危险, 轮船自 $A$ 处开始沿南偏东多少度的方向航行, 能安全通过这一海域?
+
+### 解答 习题三
+
+过 $P$ 作 $PH\perp$ 航线 (正东方向) 于 $H$. 在 $A$ 处, $P$ 在北偏东 $60^{\circ}$, 即 $AP$ 与正东方向夹角为 $30^{\circ}$.
+
+$PH=AP\cdot\sin 30^{\circ}=32\times\frac{1}{2}=16\ \text{n mile}$.
+
+暗礁半径为 $16\sqrt{2}\approx 22.63\ \text{n mile}$. 因为 $PH=16< 16\sqrt{2}$, 故轮船继续向正东航行有触礁危险.
+
+设轮船沿南偏东 $\theta$ 方向航行可安全通过, 即从 $A$ 出发的航线与 $P$ 的距离等于暗礁半径 $16\sqrt{2}$. 新航线过 $A$, 设其与正东方向夹角为 $\varphi$ (向南偏). 新航线到 $P$ 的距离为 $d=AP\cdot\sin\left(30^{\circ}-\varphi\right)$.
+
+令 $d=16\sqrt{2}$, 即 $32\sin\left(30^{\circ}-\varphi\right)=16\sqrt{2}$, $\sin\left(30^{\circ}-\varphi\right)=\frac{\sqrt{2}}{2}$. 故 $30^{\circ}-\varphi=45^{\circ}$ (不可能), 或 $30^{\circ}-\varphi=135^{\circ}$ (不可能).
+
+实际上, 从 $A$ 出发避开暗礁圆的临界航线为圆的切线. 切线与 $AP$ 的夹角满足 $\sin\psi=\frac{16\sqrt{2}}{32}=\frac{\sqrt{2}}{2}$, 故 $\psi=45^{\circ}$. 原方向为北偏东 $60^{\circ}$ (即与正东成 $30^{\circ}$ 向北), 需向南偏转 $45^{\circ}-30^{\circ}=15^{\circ}$, 即沿南偏东 $45^{\circ}$ 方向航行可安全通过. $\blacksquare$
+
+## 习题四
+
+(习题 28.2 拓广探索第 11 题) 根据图中标出的三角形区域的位置, 计算三角形区域的面积 (结果取整数). 图中: 三角形 $ABC$, $AC=1700\ \text{m}$, 在 $A$ 处测得 $C$ 在北偏东 $62^{\circ}$ 方向; $BC=2720\ \text{m}$, 在 $B$ 处测得 $C$ 在北偏西 $54^{\circ}$ 方向.
+
+图为三角形区域 $ABC$ 的位置示意图: $AC=1700\ \text{m}$, 在 $A$ 处测得 $C$ 在北偏东 $62^\circ$ 方向; $BC=2720\ \text{m}$, 在 $B$ 处测得 $C$ 在北偏西 $54^\circ$ 方向; 图中附有指北方向标. 
+
+### 解答 习题四
+
+以 $A$ 为原点建立坐标系, 东为 $x$ 轴正方向, 北为 $y$ 轴正方向.
+
+$C$ 在 $A$ 的北偏东 $62^{\circ}$ 方向, 距离 $1700\ \text{m}$, 故
+
+$$x_C=1700\sin 62^{\circ}\approx 1700\times 0.88295=1501.0,$$
+
+$$y_C=1700\cos 62^{\circ}\approx 1700\times 0.46947=798.1.$$
+
+$C$ 在 $B$ 的北偏西 $54^{\circ}$ 方向, 距离 $2720\ \text{m}$, 故
+
+$$x_C-x_B=-2720\sin 54^{\circ}\approx-2720\times 0.80902=-2200.6,$$
+
+$$y_C-y_B=2720\cos 54^{\circ}\approx 2720\times 0.58779=1598.8.$$
+
+因此 $x_B=x_C+2200.6\approx 3701.6$, $y_B=y_C-1598.8\approx-800.7$.
+
+由坐标求面积公式:
+
+$$S=\frac{1}{2}\left|x_A\left(y_B-y_C\right)+x_B\left(y_C-y_A\right)+x_C\left(y_A-y_B\right)\right|$$
+
+$$=\frac{1}{2}\left|0+3701.6\times 798.1+1501.0\times 800.7\right|$$
+
+$$=\frac{1}{2}\left|2954300+1201800\right|\approx 2078050\ \text{m}^{2}.$$
+
+即三角形区域面积约为 $2078050\ \text{m}^{2}$. $\blacksquare$
+
+## 阅读与思考一
+
+(阅读与思考 山坡的高度) 测量大坝的高度与测量山的高度有何不同? 如何利用"化曲为直, 以直代曲"的思想测量山高?
+
+### 解答 阅读与思考一
+
+大坝的坡面是直的, 坝坡, 坝高与水平线构成直角三角形, 测出坡角 $\alpha$ 和坡面长度 $l$, 即可由 $h=l\sin\alpha$ 直接算出坝高.
+
+山坡是"曲"的, 不能简单归结为一个直角三角形. 解决方法是把山坡化整为零, 划分为若干小段, 每段近似为直线, 量出每段坡长 $l_{i}$, 测出相应坡角 $\alpha_{i}$, 算出该段高度 $h_{i}=l_{i}\sin\alpha_{i}$, 再积零为整, $h=\sum h_{i}$, 即得山高. 这种"化整为零, 积零为整", "化曲为直, 以直代曲"的做法体现了微积分的基本思想. $\blacksquare$
+
+## 活动一
+
+(数学活动 活动 1) 制作测角仪, 测量树的高度.
+
+(1) 把一根细线固定在半圆形量角器的圆心处, 细线的另一端系一个小重物, 制成一个简单的测角仪;
+
+(2) 将这个仪器用手托起, 拿到眼前, 使视线沿着仪器的直径刚好到达树的最高点;
+
+(3) 得出仰角 $\alpha$ 的度数;
+
+(4) 测出你到树的底部的距离;
+
+(5) 计算这棵树的高度.
+
+### 解答 活动一
+
+测角仪利用铅垂线指示竖直方向, 量角器直径对准树顶时, 铅垂线所指刻度即为仰角 $\alpha$.
+
+设观测者到树底的水平距离为 $d$, 测角仪 (视线) 离地面高度为 $h_{0}$. 树高出视线部分为 $h'$, 在直角三角形中, 由正切, $\tan\alpha=\frac{h'}{d}$, 故 $h'=d\tan\alpha$.
+
+树的总高度为
+
+$$H=h_{0}+d\tan\alpha.\ \blacksquare$$
+
+## 活动二
+
+(数学活动 活动 2) 利用测角仪测量塔高.
+
+(1) 在塔前的平地上选择一点 $A$, 用测角仪测出看塔顶的仰角 $\alpha$;
+
+(2) 在 $A$ 点和塔之间选择一点 $B$, 测出由 $B$ 点看塔顶的仰角 $\beta$;
+
+(3) 量出 $A$, $B$ 两点间的距离;
+
+(4) 计算塔的高度.
+
+### 解答 活动二
+
+设塔高为 $H$ (从测角仪水平线算起), 塔底到 $B$ 的水平距离为 $x$. 测角仪离地面高度为 $h_{0}$.
+
+在 $B$ 处: $H=x\tan\beta$.
+
+在 $A$ 处: $H=\left(x+AB\right)\tan\alpha$.
+
+联立: $x\tan\beta=\left(x+AB\right)\tan\alpha$.
+
+$$x=\frac{AB\cdot\tan\alpha}{\tan\beta-\tan\alpha}.$$
+
+故
+
+$$H=x\tan\beta=\frac{AB\cdot\tan\alpha\cdot\tan\beta}{\tan\beta-\tan\alpha}.$$
+
+塔的实际高度为 $H+h_{0}$. $\blacksquare$
+
 ## 复习题一
 
-(复习题 复习巩固第 1 题) 图中有三个正方形, 请说出图中所有的全等三角形.
+(复习题 复习巩固第 1 题) 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, $a=2$, $c=6$, 求 $\sin A$, $\cos A$ 和 $\tan A$ 的值.
 
 ### 解答 复习题一
 
-三个正方形的边长分别相等, 由对角线分割所得的三角形, 只要它们的两条直角边分别为正方形的边或相等, 即可由 SAS 判定全等. 图中所有由相等的边及直角所围成的三角形两两全等, 即同一个正方形沿对角线分成的两个三角形全等, 边长相等的对应三角形之间也全等. $\blacksquare$
+由勾股定理, $b=\sqrt{c^{2}-a^{2}}=\sqrt{36-4}=\sqrt{32}=4\sqrt{2}$.
+
+由基础知识, 基础知识, 基础知识:
+
+$$\sin A=\frac{a}{c}=\frac{2}{6}=\frac{1}{3},\quad \cos A=\frac{b}{c}=\frac{4\sqrt{2}}{6}=\frac{2\sqrt{2}}{3},\quad \tan A=\frac{a}{b}=\frac{2}{4\sqrt{2}}=\frac{\sqrt{2}}{4}.\ \blacksquare$$
 
 ## 复习题二
 
-(复习题 复习巩固第 2 题) 如图, 在长方形 $ABCD$ 中, $AF\perp BD$, 垂足为 $E$, $AF$ 交 $BC$ 于点 $F$, 连接 $DF$.
-
-(1) 图中有全等三角形吗?
-
-(2) 图中有面积相等但不全等的三角形吗?
+(复习题 复习巩固第 2 题) 在 $\triangle ABC$ 中, $\angle C=90^{\circ}$, $\cos A=\frac{\sqrt{3}}{2}$, $AC=4\sqrt{3}$, 求 $BC$ 的长.
 
 ### 解答 复习题二
 
-(1) 有. 例如 $\triangle ABD$ 与 $\triangle CDB$, 由 $AB=CD$, $AD=CB$, $\angle BAD=\angle DCB=90^\circ$, 由 SAS 可判定全等.
+由余弦, $\cos A=\frac{AC}{AB}=\frac{\sqrt{3}}{2}$, 故 $AB=\frac{AC}{\cos A}=\frac{4\sqrt{3}}{\sqrt{3}/2}=8$.
 
-(2) 有. 以同一条底 $AD$ 或 $BC$ 上, 高相等的三角形为例, 如 $\triangle ABF$ 与 $\triangle DBF$, 它们有相同的底 $BF$ 且高相等, 面积相等, 但形状并不相同, 因而面积相等而不全等. $\blacksquare$
+由勾股定理, $BC=\sqrt{AB^{2}-AC^{2}}=\sqrt{64-48}=\sqrt{16}=4$. $\blacksquare$
 
 ## 复习题三
 
-(复习题 复习巩固第 3 题) 如图, $AB=AC$, $AD=BD=AE=CE$. 求证 $\angle D=\angle E$.
+(复习题 复习巩固第 3 题) 求下列各式的值:
+
+(1) $\sqrt{2}\cos 45^{\circ}-\tan 45^{\circ}$;
+
+(2) $\sqrt{3}\sin 60^{\circ}+\tan 60^{\circ}-2\cos^{2}30^{\circ}$.
 
 ### 解答 复习题三
 
-在 $\triangle ADB$ 和 $\triangle AEC$ 中, $AD=AE$, $BD=CE$, $AB=AC$, 由SSS, $\triangle ADB\cong\triangle AEC$.
+由特殊角的三角函数值.
 
-由基础知识, 对应角 $\angle D=\angle E$. $\blacksquare$
+(1) $\sqrt{2}\times\frac{\sqrt{2}}{2}-1=1-1=0$.
+
+(2) $\sqrt{3}\times\frac{\sqrt{3}}{2}+\sqrt{3}-2\times\left(\frac{\sqrt{3}}{2}\right)^{2}=\frac{3}{2}+\sqrt{3}-\frac{3}{2}=\sqrt{3}$. $\blacksquare$
 
 ## 复习题四
 
-(复习题 复习巩固第 4 题) 如图, $CA=CD$, $\angle 1=\angle 2$, $BC=EC$. 求证 $AB=DE$.
+(复习题 复习巩固第 4 题) 用计算器求下列各式的值:
+
+(1) $\cos 76^{\circ}39'+\sin 17^{\circ}52'$;
+
+(2) $\sin 57^{\circ}18'-\tan 22^{\circ}30'$;
+
+(3) $\tan 83^{\circ}6'-\cos 4^{\circ}59'$;
+
+(4) $\tan 12^{\circ}30'-\sin 15^{\circ}$.
 
 ### 解答 复习题四
 
-由 $\angle 1=\angle 2$, 两边同时加上 $\angle ACE$, 得 $\angle ACB=\angle DCE$. 在 $\triangle ACB$ 和 $\triangle DCE$ 中, $CA=CD$, $\angle ACB=\angle DCE$, $BC=EC$, 由SAS, $\triangle ACB\cong\triangle DCE$.
+用计算器计算:
 
-由基础知识, 对应边 $AB=DE$. $\blacksquare$
+(1) $\cos 76^{\circ}39'\approx 0.231$, $\sin 17^{\circ}52'\approx 0.307$, 和约为 $0.538$.
+
+(2) $\sin 57^{\circ}18'\approx 0.841$, $\tan 22^{\circ}30'\approx 0.414$, 差约为 $0.427$.
+
+(3) $\tan 83^{\circ}6'\approx 8.26$, $\cos 4^{\circ}59'\approx 0.996$, 差约为 $7.26$.
+
+(4) $\tan 12^{\circ}30'\approx 0.222$, $\sin 15^{\circ}\approx 0.259$, 差约为 $-0.037$. $\blacksquare$
 
 ## 复习题五
 
-(复习题 复习巩固第 5 题) 如图, 海岸上 $A$, $B$ 两个观测点, $B$ 在 $A$ 正东方, 海岛 $C$ 在 $A$ 正北方, 海岛 $D$ 在 $B$ 正北方. 若 $\angle CAD=\angle CBD$, 说明海岛 $C$, $D$ 到海岸的距离 $CA$, $DB$ 相等的理由.
+(复习题 复习巩固第 5 题) 已知下列锐角的三角函数值, 用计算器求锐角 $A$ 的度数:
+
+(1) $\cos A=0.7651$;
+
+(2) $\sin A=0.9343$;
+
+(3) $\tan A=35.26$;
+
+(4) $\tan A=0.707$.
 
 ### 解答 复习题五
 
-设 $AD$ 与 $BC$ 相交于点 $O$. 由 $CA\perp AB$, $DB\perp AB$, 得 $\angle CAO=\angle DBO=90^\circ$. 在 $\triangle ACO$ 和 $\triangle BDO$ 中, $\angle CAO=\angle DBO$, $\angle AOC=\angle BOD$ (对顶角), $\angle CAO$ 所对条件结合 $\angle CAD=\angle CBD$, 由AAS, $\triangle ACO\cong\triangle BDO$.
+(1) $\angle A\approx 40.08^{\circ}\approx 40^{\circ}5'$.
 
-由基础知识, 对应边 $CA=DB$. $\blacksquare$
+(2) $\angle A\approx 69.09^{\circ}\approx 69^{\circ}5'$.
+
+(3) $\angle A\approx 88.37^{\circ}\approx 88^{\circ}22'$.
+
+(4) $\angle A\approx 35.27^{\circ}\approx 35^{\circ}16'$. $\blacksquare$
 
 ## 复习题六
 
-(复习题 复习巩固第 6 题) 如图, $AB=CD$, $AC\perp BD$, 垂足为 $E$, $AE=CE$. 求证 $BE=DE$.
+(复习题 复习巩固第 6 题) 等腰三角形的底角是 $30^{\circ}$, 腰长为 $2\sqrt{3}$, 求它的周长.
 
 ### 解答 复习题六
 
-由 $AC\perp BD$, 得 $\angle AEB=\angle CED=90^\circ$. 在 $\text{Rt}\triangle ABE$ 和 $\text{Rt}\triangle CDE$ 中, 斜边 $AB=CD$, 直角边 $AE=CE$, 由HL, $\text{Rt}\triangle ABE\cong\text{Rt}\triangle CDE$.
+设等腰三角形腰长 $l=2\sqrt{3}$, 底角 $30^{\circ}$. 作底边上的高 $h$, 则
 
-由基础知识, 对应直角边 $BE=DE$. $\blacksquare$
+$$h=l\sin 30^{\circ}=2\sqrt{3}\times\frac{1}{2}=\sqrt{3}.$$
+
+底边一半 $=l\cos 30^{\circ}=2\sqrt{3}\times\frac{\sqrt{3}}{2}=3$, 底边长 $=6$.
+
+周长 $=2l+$ 底边 $=2\times 2\sqrt{3}+6=4\sqrt{3}+6$. $\blacksquare$
 
 ## 复习题七
 
-(复习题 复习巩固第 7 题) 如图, 在 $\triangle ABC$ 中, $D$ 是 $BC$ 的中点, $DE\perp AB$, $DF\perp AC$, 垂足分别为 $E$, $F$, $BE=CF$. 求证 $AD$ 是 $\triangle ABC$ 的角平分线.
+(复习题 复习巩固第 7 题) 从一艘船上测得海岸上高为 $42\ \text{m}$ 的灯塔顶部的仰角为 $33^{\circ}$ 时, 船离海岸多远 (结果取整数)?
 
 ### 解答 复习题七
 
-由 $D$ 是 $BC$ 中点, 得 $BD=CD$. 在 $\text{Rt}\triangle BDE$ 和 $\text{Rt}\triangle CDF$ 中, 斜边 $BD=CD$, 直角边 $BE=CF$, 由HL, $\text{Rt}\triangle BDE\cong\text{Rt}\triangle CDF$.
+在直角三角形中, 灯塔高 $42\ \text{m}$ 为对边, 仰角 $33^{\circ}$, 船到海岸的水平距离为邻边.
 
-由基础知识, 对应直角边 $DE=DF$. 即点 $D$ 到 $AB$, $AC$ 的距离相等. 由角平分线的判定, 点 $D$ 在 $\angle A$ 的平分线上, 故 $AD$ 是 $\triangle ABC$ 的角平分线. $\blacksquare$
+由正切, $\tan 33^{\circ}=\frac{42}{d}$, 故 $d=\frac{42}{\tan 33^{\circ}}\approx\frac{42}{0.6494}\approx 65\ \text{m}$. $\blacksquare$
 
 ## 复习题八
 
-(复习题 复习巩固第 8 题) 如图, 要在三条公路围成的平地上修建度假村, 使它到三条公路的距离相等, 应在何处修建?
+(复习题 综合运用第 8 题) 如图, 两座建筑物的水平距离 $BC$ 为 $428.3\ \text{m}$, 从 $A$ 点测得 $D$ 点的俯角 $\alpha$ 为 $35^{\circ}12'$, 测得 $C$ 点的俯角 $\beta$ 为 $43^{\circ}24'$, 求这两座建筑物的高度 (结果保留小数点后一位).
+
+图为两座竖直建筑物: 较高建筑物 $AC$($C$ 为底部), 较矮建筑物 $BD$($D$ 为顶部, $B$ 为底部), 两建筑底部水平距离 $BC=428.3\ \text{m}$; 从较高建筑物顶部 $A$ 测得 $D$ 点俯角为 $\alpha=35^\circ12'$, 测得 $C$ 点俯角为 $\beta=43^\circ24'$. 
 
 ### 解答 复习题八
 
-由角平分线的性质 及三角形角平分线, 三角形三条角平分线交于一点, 且该点到三边距离相等. 故度假村应修在三条公路所围成三角形的三条角平分线的交点 (即内心) 处. $\blacksquare$
+设较高建筑物 $AC=H$, 较矮建筑物 $BD=h$. 水平距离 $BC=428.3\ \text{m}$.
+
+从 $A$ 测 $C$ 的俯角 $\beta=43^{\circ}24'\approx 43.4^{\circ}$, 故
+
+$$H=BC\cdot\tan\beta=428.3\times\tan 43.4^{\circ}\approx 428.3\times 0.9455\approx 404.9\ \text{m}.$$
+
+从 $A$ 测 $D$ 的俯角 $\alpha=35^{\circ}12'\approx 35.2^{\circ}$, $A$ 与 $D$ 的高度差为
+
+$$H-h=BC\cdot\tan\alpha=428.3\times\tan 35.2^{\circ}\approx 428.3\times 0.7064\approx 302.6\ \text{m}.$$
+
+故 $h=404.9-302.6=102.3\ \text{m}$.
+
+两座建筑物高度分别约为 $404.9\ \text{m}$ 和 $102.3\ \text{m}$. $\blacksquare$
 
 ## 复习题九
 
-(复习题 综合运用第 9 题) 如图, 两车从路段 $AB$ 两端同时出发, 沿平行路线以相同速度行驶, 相同时间后分别到达 $C$, $D$. $C$, $D$ 到路段 $AB$ 的距离 $CE$, $DF$ 相等吗? 为什么?
+(复习题 综合运用第 9 题) 某型号飞机的机翼形状如图所示, 根据图中数据计算 $AC$, $BD$ 和 $AB$ 的长度 (结果保留小数点后两位). 图中: 四边形 $CDBA$, $CD$ 为左侧竖直边, $CD=3.40\ \text{m}$; $DB$ 为下侧水平边, $DB=5.00\ \text{m}$; 在 $C$ 处 $\angle DCA=45^{\circ}$; 在 $B$ 处 $\angle DBA=30^{\circ}$.
+
+图为飞机机翼形状的四边形 $CDBA$: 左侧竖边 $CD=3.40\ \text{m}$, 下侧水平边 $DB=5.00\ \text{m}$, 上边 $CA$ 从 $C$ 向右上倾斜且与竖直方向成 $45^\circ$, 右边 $BA$ 从 $B$ 向左上倾斜且与水平方向成 $30^\circ$, $CA$ 与 $BA$ 交于 $A$. 
 
 ### 解答 复习题九
 
-相等. 由同速同时行驶, 得 $AC=BD$. 路线平行, 故 $\angle CAE=\angle DBF$. 又 $CE\perp AB$, $DF\perp AB$, 得 $\angle CEA=\angle DFB=90^\circ$. 在 $\triangle ACE$ 和 $\triangle BDF$ 中, $\angle CEA=\angle DFB$, $\angle CAE=\angle DBF$, $AC=BD$, 由AAS, $\triangle ACE\cong\triangle BDF$.
+以 $D$ 为原点, $DB$ 方向为 $x$ 轴, $DC$ 方向为 $y$ 轴, 则 $D=\left(0,0\right)$, $C=\left(0,3.40\right)$, $B=\left(5.00,0\right)$.
 
-由基础知识, 对应边 $CE=DF$. $\blacksquare$
+过 $C$ 的上边 $CA$ 与竖直方向成 $45^{\circ}$, 故其斜率为 $-1$, 方程为 $y=3.40-x$.
+
+过 $B$ 的边 $BA$ 与水平方向成 $30^{\circ}$ 向左上方倾斜, 方程为 $y=\frac{5.00-x}{\sqrt{3}}$.
+
+联立: $3.40-x=\frac{5.00-x}{\sqrt{3}}$.
+
+$$x=\frac{3.40\sqrt{3}-5.00}{\sqrt{3}-1}\approx\frac{5.889-5.00}{0.732}\approx 1.214.$$
+
+$$y=3.40-1.214=2.186.$$
+
+故 $A=\left(1.214,2.186\right)$.
+
+$$AC=\frac{x}{\cos 45^{\circ}}=\frac{1.214}{0.7071}\approx 1.72\ \text{m}.$$
+
+$$BD=5.00\ \text{m}.$$
+
+$$AB=\frac{5.00-1.214}{\cos 30^{\circ}}=\frac{3.786}{0.8660}\approx 4.37\ \text{m}.\ \blacksquare$$
 
 ## 复习题十
 
-(复习题 综合运用第 10 题) 如图, 点 $C$ 是 $AB$ 的中点, $CD\parallel BE$, 且 $CD=BE$. 求证 $AD\parallel CE$.
+(复习题 综合运用第 10 题) 如图, 要想使人安全地攀上斜靠在墙面上的梯子的顶端, 梯子与地面所成的角 $\alpha$ 一般要满足 $50^{\circ}\le\alpha\le 75^{\circ}$. 现有一架长 $6\ \text{m}$ 的梯子.
+
+(1) 使用这架梯子最高可以安全攀上多高的墙 (结果保留小数点后一位)?
+
+(2) 当梯子底端距离墙面 $2.4\ \text{m}$ 时, $\alpha$ 等于多少度 (结果取整数)? 此时人是否能够安全使用这架梯子?
+
+图为一架梯子斜靠在竖直墙面上, 梯子底端在水平地面上, 梯子与地面所成角为 $\alpha$, 梯子顶端靠在墙面上. 
 
 ### 解答 复习题十
 
-由 $C$ 是 $AB$ 中点, 得 $AC=CB$. 由 $CD\parallel BE$, 得 $\angle ACD=\angle CBE$. 在 $\triangle ACD$ 和 $\triangle CBE$ 中, $AC=CB$, $\angle ACD=\angle CBE$, $CD=BE$, 由SAS, $\triangle ACD\cong\triangle CBE$.
+(1) 最高攀墙高度对应最大角 $\alpha=75^{\circ}$. 由正弦,
 
-由基础知识, 对应角 $\angle ADC=\angle CEB$, 这是内错角, 故 $AD\parallel CE$. $\blacksquare$
+$$h=6\sin 75^{\circ}\approx 6\times 0.9659\approx 5.8\ \text{m}.$$
+
+(2) 梯子底端距墙 $2.4\ \text{m}$, 即邻边 $=2.4$, 斜边 $=6$. 由余弦,
+
+$$\cos\alpha=\frac{2.4}{6}=0.4,\quad \alpha\approx 66.42^{\circ}\approx 66^{\circ}.$$
+
+因为 $50^{\circ}\le 66^{\circ}\le 75^{\circ}$, 故此时人能安全使用这架梯子. $\blacksquare$
 
 ## 复习题十一
 
-(复习题 综合运用第 11 题) 如图, $\angle ACB=90^\circ$, $AC=BC$, $AD\perp CE$, $BE\perp CE$, 垂足分别为 $D$, $E$, $AD=2.5$, $DE=1.7$. 求 $BE$ 的长.
+(复习题 综合运用第 11 题) 如图, 折叠矩形 $ABCD$ 的一边 $AD$, 使点 $D$ 落在 $BC$ 边的点 $F$ 处. 已知折痕 $AE=5\sqrt{5}\ \text{cm}$, 且 $\tan\angle EFC=\frac{3}{4}$.
+
+(1) $\triangle AFB$ 与 $\triangle FEC$ 有什么关系?
+
+(2) 求矩形 $ABCD$ 的周长.
+
+图为矩形 $ABCD$, 将边 $AD$ 沿折痕 $AE$ 折叠, 使点 $D$ 落在 $BC$ 边上的点 $F$ 处, $E$ 在 $CD$ 边上. 
 
 ### 解答 复习题十一
 
-由 $AD\perp CE$, $BE\perp CE$, 得 $\angle ADC=\angle CEB=90^\circ$. 由 $\angle ACB=90^\circ$, 得 $\angle ACD+\angle BCE=90^\circ$. 又在 $\text{Rt}\triangle ADC$ 中, $\angle ACD+\angle CAD=90^\circ$, 故 $\angle CAD=\angle BCE$.
+由折叠性质, $AF=AD$, $EF=DE$, $\angle AFE=\angle D=90^{\circ}$.
 
-在 $\triangle ACD$ 和 $\triangle CBE$ 中, $\angle ADC=\angle CEB$, $\angle CAD=\angle BCE$, $AC=CB$, 由AAS, $\triangle ACD\cong\triangle CBE$.
+(1) 因为 $\angle AFE=90^{\circ}$, 所以 $\angle AFB+\angle EFC=90^{\circ}$. 在 $\text{Rt}\triangle AFB$ 中, $\angle AFB+\angle BAF=90^{\circ}$, 故 $\angle BAF=\angle EFC$. 又 $\angle B=\angle C=90^{\circ}$, 故 $\triangle AFB\sim\triangle FEC$.
 
-由基础知识, $CD=BE$, $CE=AD=2.5$. 又 $CE=CD+DE$, 故 $CD=CE-DE=2.5-1.7=0.8$, 从而 $BE=0.8$. $\blacksquare$
+(2) 在 $\text{Rt}\triangle EFC$ 中, $\tan\angle EFC=\frac{EC}{FC}=\frac{3}{4}$. 设 $EC=3k$, $FC=4k$, 则 $EF=5k$.
+
+$DE=EF=5k$, $CD=DE+EC=5k+3k=8k$, 故 $AB=8k$.
+
+由 $\triangle AFB\sim\triangle FEC$, 相似比 $=\frac{AB}{FC}=\frac{8k}{4k}=2$. 故 $AF=2\cdot EF=10k$, $BF=2\cdot EC=6k$.
+
+$AD=AF=10k$, $BC=BF+FC=6k+4k=10k$.
+
+在 $\text{Rt}\triangle ADE$ 中, $AE=\sqrt{AD^{2}+DE^{2}}=\sqrt{100k^{2}+25k^{2}}=\sqrt{125}\,k=5\sqrt{5}\,k$.
+
+由 $AE=5\sqrt{5}$, 得 $k=1$. 故 $AB=8\ \text{cm}$, $BC=10\ \text{cm}$.
+
+矩形周长 $=2\left(8+10\right)=36\ \text{cm}$. $\blacksquare$
 
 ## 复习题十二
 
-(复习题 综合运用第 12 题) 如图, 三角形纸片 $ABC$ 中, $AB=8\ \text{cm}$, $BC=6\ \text{cm}$, $AC=5\ \text{cm}$. 沿过点 $B$ 的直线折叠, 使点 $C$ 落在 $AB$ 边上的点 $E$ 处, 折痕为 $BD$. 求 $\triangle AED$ 的周长.
+(复习题 综合运用第 12 题) $\square ABCD$ 中, 已知 $AB$, $BC$ 及其夹角 $\angle B$ ($\angle B$ 是锐角), 能求出 $\square ABCD$ 的面积 $S$ 吗? 如果能, 用 $AB$, $BC$ 及其夹角 $\angle B$ 表示 $S$.
 
 ### 解答 复习题十二
 
-由折叠, $\triangle BCD\cong\triangle BED$, 故 $BE=BC=6$, $DE=DC$.
+能. 过 $A$ 作 $AE\perp BC$ 于 $E$. 在 $\text{Rt}\triangle ABE$ 中, 由正弦, $AE=AB\cdot\sin B$.
 
-于是 $AE=AB-BE=8-6=2$. $\triangle AED$ 的周长为
-
-$$
-AE+AD+DE=AE+AD+DC=AE+AC=2+5=7\ \text{cm}.
-$$
-
-$\blacksquare$
-
-## 复习题十三
-
-(复习题 综合运用第 13 题) 如图, $\triangle ABC\cong\triangle A'B'C'$, $AD$, $A'D'$ 分别是两三角形对应边上的中线. $AD$ 与 $A'D'$ 有什么关系? 证明你的结论.
-
-### 解答 复习题十三
-
-$AD=A'D'$. 由 $\triangle ABC\cong\triangle A'B'C'$, 得 $AB=A'B'$, $BC=B'C'$, $\angle B=\angle B'$. 由 $AD$, $A'D'$ 为中线, 得 $BD=\frac{1}{2}BC$, $B'D'=\frac{1}{2}B'C'$, 故 $BD=B'D'$.
-
-在 $\triangle ABD$ 和 $\triangle A'B'D'$ 中, $AB=A'B'$, $\angle B=\angle B'$, $BD=B'D'$, 由SAS, $\triangle ABD\cong\triangle A'B'D'$.
-
-由基础知识, 对应边 $AD=A'D'$. $\blacksquare$
-
-## 复习题十四
-
-(复习题 拓广探索第 14 题) 如图, 在 $\triangle ABC$ 中, $AD$ 是它的角平分线. 求证 $S_{\triangle ABD}:S_{\triangle ACD}=AB:AC$.
-
-### 解答 复习题十四
-
-过点 $D$ 作 $DE\perp AB$, $DF\perp AC$, 垂足分别为 $E$, $F$. 由 $AD$ 是角平分线及角平分线的性质, $DE=DF$.
-
-以 $AB$, $AC$ 为底, 两三角形的高同为 $DE=DF$, 故
-
-$$
-\frac{S_{\triangle ABD}}{S_{\triangle ACD}}=\frac{\frac{1}{2}\cdot AB\cdot DE}{\frac{1}{2}\cdot AC\cdot DF}=\frac{AB}{AC}.
-$$
-
-即 $S_{\triangle ABD}:S_{\triangle ACD}=AB:AC$. $\blacksquare$
-
-## 复习题十五
-
-(复习题 拓广探索第 15 题) 求证: 如果两个三角形有两条边和其中一边上的中线分别相等, 那么这两个三角形全等.
-
-### 解答 复习题十五
-
-设 $\triangle ABC$ 与 $\triangle A'B'C'$ 中, $AB=A'B'$, $BC=B'C'$, $AD$, $A'D'$ 分别为 $BC$, $B'C'$ 边上的中线, 且 $AD=A'D'$.
-
-由 $D$, $D'$ 为中点, $BD=\frac{1}{2}BC=\frac{1}{2}B'C'=B'D'$. 在 $\triangle ABD$ 和 $\triangle A'B'D'$ 中, $AB=A'B'$, $BD=B'D'$, $AD=A'D'$, 由SSS, $\triangle ABD\cong\triangle A'B'D'$, 故 $\angle B=\angle B'$.
-
-在 $\triangle ABC$ 和 $\triangle A'B'C'$ 中, $AB=A'B'$, $\angle B=\angle B'$, $BC=B'C'$, 由SAS, $\triangle ABC\cong\triangle A'B'C'$. $\blacksquare$
+平行四边形面积 $S=BC\cdot AE=AB\cdot BC\cdot\sin B$. $\blacksquare$

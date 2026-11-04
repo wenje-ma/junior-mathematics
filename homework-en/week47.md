@@ -2,301 +2,504 @@
 
 ## Exercise 1
 
-(Exercise 10.3, Problem 1) A supermarket purchases type A and type B energy-saving lamps at $5$ yuan per lamp and $7$ yuan per lamp respectively, paying $50$ yuan in total; then at the same prices purchases $12$ type A lamps and $4$ type B lamps, paying $88$ yuan in total. What are the per-lamp purchase prices of type A and type B respectively?
+(Exercise 21.2.1, Problem 1)
 
-### Solution to Exercise 1
+In \(\square ABCD\),
 
-Let $x$ yuan be the price of each type A lamp and $y$ yuan that of each type B lamp. By Solving Word Problems by Setting Up a System of Equations, according to the problem,
+(1) Given \(AB=5,\ BC=3\), find the lengths of the other two sides;
 
-$$
-\begin{cases}
-3x+5y=50,\\
-12x+4y=88.
-\end{cases}
-$$
+(2) Given \(\angle A=38^{\circ}\), find the degree measures of the other interior angles.
 
-Multiply the first equation by $4$: $12x+20y=200$; subtract the second: $16y=112$, $y=7$; substituting back $3x+35=50$, $x=5$. Thus type A is $5$ yuan per lamp and type B is $7$ yuan per lamp. $\blacksquare$
+By Basic Knowledge and Basic Knowledge.
+
+(1) \(CD=AB=5,\ DA=BC=3\).
+
+(2) \(\angle C=\angle A=38^{\circ}\); adjacent angles are supplementary, \(\angle B=\angle D=180^{\circ}-38^{\circ}=142^{\circ}\).
+
+\(\blacksquare\)
+
+(Exercise 21.2.1, Problem 2)
+
+As shown in the figure, the diagonals \(AC,BD\) of \(\square ABCD\) intersect at point \(O\), \(BC=10,\ AC=8,\ BD=14\). What is the perimeter of \(\triangle AOD\)? Which of \(\triangle ABC\) and \(\triangle DBC\) has the longer perimeter? By how much?
+
+By Basic Knowledge, \(OA=OC=4,\ OD=OB=7\).
+
+Also \(AD=BC=10\), so the perimeter of \(\triangle AOD\) \(=4+7+10=21\).
+
+The perimeter of \(\triangle ABC\) \(=AB+BC+AC=AB+10+8=AB+18\).
+
+The perimeter of \(\triangle DBC\) \(=DB+BC+CD=14+10+AB=AB+24\).
+
+Therefore \(\triangle DBC\) has the longer perimeter, by \(6\).
+
+\(\blacksquare\)
+
+(Exercise 21.2.1, Problem 3)
+
+As shown in the figure, two strips with parallel opposite sides are crossed and overlapped; the overlapping part forms a quadrilateral. Rotate one of the strips. What is the relation between the lengths of segments \(AD\) and \(BC\)? Why?
+
+The overlapping quadrilateral has both pairs of opposite sides parallel; by Basic Knowledge it is a parallelogram.
+
+By Basic Knowledge, opposite sides are equal, so \(AD=BC\).
+
+\(\blacksquare\)
 
 ## Exercise 2
 
-(Exercise 10.3, Problem 2) *Journey to the West* and *Water Margin* are classic works of Chinese literature. Buying $2$ copies of *Journey to the West* and $3$ copies of *Water Margin* costs $151$ yuan in total; buying $4$ copies of *Journey to the West* and $2$ copies of *Water Margin* costs $178$ yuan in total. How much does each copy of *Journey to the West* and *Water Margin* cost?
+(Exercise 21.2.2, Problem 1)
 
-### Solution to Exercise 2
+As shown in the figure, quadrilateral \(ABCD\) is a parallelogram, \(\angle ABC=70^{\circ}\), \(BE\) bisects \(\angle ABC\) and meets \(AD\) at point \(E\), and \(DF\parallel EB\) meets \(BC\) at point \(F\). Find the size of \(\angle 1\).
 
-Let $x$ yuan be the price of each *Journey to the West* and $y$ yuan that of each *Water Margin*. According to the problem,
+Since \(BE\) bisects \(\angle ABC=70^{\circ}\), we get \(\angle EBC=35^{\circ}\).
+
+Since \(AD\parallel BC\) and \(DF\parallel EB\), quadrilateral \(EBFD\) is a parallelogram.
+
+Therefore \(\angle 1=\angle EBC=35^{\circ}\).
+
+\(\blacksquare\)
+
+(Exercise 21.2.2, Problem 2)
+
+As shown in the figure, \(\square ABCD\) has perimeter \(16\), the diagonals \(AC,BD\) intersect at point \(O\), and point \(E\) lies on \(AD\) with \(OE\perp AC\). Find the perimeter of \(\triangle CDE\).
+
+By Basic Knowledge, \(O\) is the midpoint of \(AC\).
+
+Also \(OE\perp AC\), so \(OE\) is the perpendicular bisector of \(AC\), and \(EA=EC\).
+
+The perimeter of \(\triangle CDE\) \(=CD+DE+EC=CD+DE+EA=CD+AD\).
+
+And \(CD+AD=\frac{16}{2}=8\).
+
+\(\blacksquare\)
+
+(Exercise 21.2.2, Problem 3)
+
+As shown in the figure, in trapezoid \(ABCD\), \(AD\parallel BC,\ \angle C=90^{\circ},\ AD=3,\ AB=4,\ BC=5\), \(E\) is a point on side \(BC\), and \(AB\parallel DE\). Find the distance between \(AD\) and \(BC\).
+
+Since \(AD\parallel BC\) and \(AB\parallel DE\), quadrilateral \(ABED\) is a parallelogram, so \(BE=AD=3\).
+
+Hence \(EC=BC-BE=2\).
+
+In \(Rt\triangle DEC\), \(DE=AB=4,\ EC=2\); by the Pythagorean theorem
 
 $$
-\begin{cases}
-2x+3y=151,\\
-4x+2y=178.
-\end{cases}
+DC=\sqrt{DE^{2}-EC^{2}}=\sqrt{16-4}=\sqrt{12}=2\sqrt{3}.
 $$
 
-Multiply the first equation by $2$: $4x+6y=302$; subtract the second: $4y=124$, $y=31$; substituting back $2x+93=151$, $x=29$. Thus each *Journey to the West* is $29$ yuan and each *Water Margin* is $31$ yuan. $\blacksquare$
+i.e. the distance between \(AD\) and \(BC\) is \(2\sqrt{3}\).
+
+\(\blacksquare\)
 
 ## Exercise 3
 
-(Exercise 10.3, Problem 3) Of the kitchen waste and construction waste received by a certain city in May, the treatable kitchen waste requires a treatment fee of $240$ yuan per ton and the treatable construction waste requires $150$ yuan per ton. The total treatment fee paid that month was $7020$ yuan; in June the treatable kitchen waste and construction waste received increased by $60\ \text{t}$ and $30\ \text{t}$ respectively, and the total treatment fee paid was $8520$ yuan. Find how many tons of treatable kitchen waste and construction waste were received in May.
+(Exercise 21.2.2, Problem 1)
 
-### Solution to Exercise 3
+As shown in the figure, in quadrilateral \(ABCD\), \(\angle ADB=\angle CBD,\ \angle C+\angle ABC=180^{\circ}\). Is quadrilateral \(ABCD\) a parallelogram? Explain why.
 
-Let $x\ \text{t}$ be the May kitchen waste and $y\ \text{t}$ the construction waste. According to the problem,
+From \(\angle ADB=\angle CBD\), we get \(AD\parallel BC\).
 
-$$
-\begin{cases}
-240x+150y=7020,\\
-300x+180y=8520.
-\end{cases}
-$$
+From \(\angle C+\angle ABC=180^{\circ}\), we get \(AB\parallel DC\).
 
-Simplify: $8x+5y=234$, $5x+3y=142$. Multiply the first by $3$ and the second by $5$ and subtract: $x=8$; substituting back $40+3y=142$, $y=34$. Thus kitchen waste was $8\ \text{t}$ and construction waste was $34\ \text{t}$. $\blacksquare$
+Both pairs of opposite sides are parallel; by Basic Knowledge, quadrilateral \(ABCD\) is a parallelogram.
+
+\(\blacksquare\)
+
+(Exercise 21.2.2, Problem 2)
+
+As shown in the figure, \(AB=DC=EF,\ AD=BC,\ DE=CF\). Which segments in the figure are parallel?
+
+Since \(AB=DC\) and \(AD=BC\), quadrilateral \(ABCD\) has both pairs of opposite sides equal; by Basic Knowledge it is a parallelogram, so \(AB\parallel DC\), \(AD\parallel BC\).
+
+Similarly, \(DC=EF,\ DE=CF\), so quadrilateral \(DEFC\) is a parallelogram, and \(DC\parallel EF\), \(DE\parallel CF\).
+
+\(\blacksquare\)
+
+(Exercise 21.2.2, Problem 3)
+
+As shown in the figure, the diagonals \(AC,BD\) of \(\square ABCD\) intersect at point \(O\), and \(E,F\) are the midpoints of \(OA,OC\), respectively; connect \(DE,DF,BE,BF\). Prove that quadrilateral \(DEBF\) is a parallelogram.
+
+By Basic Knowledge, \(OB=OD,\ OA=OC\).
+
+\(E,F\) are the midpoints of \(OA,OC\), so \(OE=OF\).
+
+Hence the diagonals \(BD,EF\) of quadrilateral \(DEBF\) bisect each other; by Basic Knowledge, it is a parallelogram.
+
+\(\blacksquare\)
 
 ## Exercise 4
 
-(Exercise 10.3, Problem 4) As shown in the figure, a rectangular plot of land $200\ \text{m}$ long and $100\ \text{m}$ wide is to be planted with two crops, type A and type B, such that the ratio of the total yield of crop A to crop B is $3:4$. The ratio of the per-unit-area yield of crop A to crop B is $1:2$. The plot is now divided along the other direction (horizontal) into two rectangles $DMNC$ and $MABN$, planted with crop A and crop B respectively. Find the length of $AM$.
+(Exercise 21.2.2, Problem 1)
 
-The figure shows a rectangular field $200\,\text{m}$ long and $100\,\text{m}$ wide, divided horizontally into two rectangles $DMNC$ and $MABN$, with point $M$ marked on the dividing line.
+As shown in the figure, to ensure that the two straight rails of a railway are parallel, it suffices to make the parallel sleepers between them equal in length. Can you explain why?
 
-### Solution to Exercise 4
+The sleepers between the two rails are parallel and equal.
 
-Let $AM=y\ \text{m}$. After the horizontal division, rectangle $MABN$ (crop A) is $200\ \text{m}$ long and $AM$ wide, with area $200y$; rectangle $DMNC$ (crop B) is $200\ \text{m}$ long and $100-y$ wide, with area $200\left(100-y\right)$.
+By Basic Knowledge, a quadrilateral with one pair of opposite sides parallel and equal is a parallelogram, so the two rails are parallel.
 
-The per-unit-area yield ratio of A to B is $1:2$, so the total yield ratio is
+\(\blacksquare\)
 
-$$
-\frac{200y\cdot1}{200\left(100-y\right)\cdot2}=\frac{3}{4}.
-$$
+(Exercise 21.2.2, Problem 2)
 
-Simplify $\frac{y}{2\left(100-y\right)}=\frac{3}{4}$, i.e. $4y=6\left(100-y\right)$, giving $y=60$. Thus $AM=60\ \text{m}$. $\blacksquare$
+As shown in the figure, in \(\square ABCD\), \(BD\) is a diagonal; through \(A,C\) draw \(AE\perp BD,\ CF\perp BD\), with feet \(E,F\), respectively. Prove that quadrilateral \(AFCE\) is a parallelogram.
+
+From \(AE\perp BD,\ CF\perp BD\), we get \(AE\parallel CF\).
+
+Also from \(\triangle AED\cong\triangle CFB\) (\(AD=BC\), alternate interior angles equal), we get \(AE=CF\).
+
+By Basic Knowledge, quadrilateral \(AFCE\) is a parallelogram.
+
+\(\blacksquare\)
+
+(Exercise 21.2.2, Problem 3)
+
+As shown in the figure, in a figure made of six congruent equilateral triangles, how many parallelograms are there? Why?
+
+In the figure made of six congruent equilateral triangles, every rhombus formed by two adjacent equilateral triangles is a parallelogram.
+
+There are \(3\) parallelograms in total, because each pair of parallel and equal opposite sides is formed by two equilateral triangles sharing an edge.
+
+\(\blacksquare\)
 
 ## Exercise 5
 
-(Exercise 10.3, Problem 5) The figure is a $3\times3$ magic square; given that the sum of the three numbers in each row, each column, and each diagonal is equal, find the values of $x$, $y$.
+(Exercise 21.2.3, Problem 1)
 
-| $2x$ | $3$ | $2$ |
-|------|-----|-----|
-|  | $x+2y$ | $-3$ |
-|  |  | $4y$ |
+As shown in the figure, in \(\triangle ABC\), \(D,E,F\) are the midpoints of \(AB,BC,CA\), respectively. Using these points as vertices, how many parallelograms can you draw in the figure? Why are they parallelograms?
 
-### Solution to Exercise 5
+By Basic Knowledge, \(DE\parallel AC,\ EF\parallel AB,\ FD\parallel BC\).
 
-By Solving Word Problems by Setting Up a System of Equations, let the remaining positions be $d,e,g,h$ in order. The sum of the first row is $2x+3+2=2x+5$, so the sum of every row, column, and diagonal is $2x+5$.
+Therefore \(ADEF\), \(DBEF\), \(DECF\) are all parallelograms, \(3\) in total.
 
-Main diagonal $2x+\left(x+2y\right)+4y=2x+5$, giving $x+6y=5$.
+\(\blacksquare\)
 
-Third column $2+\left(-3\right)+4y=2x+5$, giving $4y-1=2x+5$, i.e. $x-2y=-3$.
+(Exercise 21.2.3, Problem 2)
 
-Solving: $x+6y=5$, $x-2y=-3$; subtracting gives $8y=8$, $y=1$; substituting back $x+6=5$, $x=-1$. Thus $x=-1$, $y=1$. $\blacksquare$
+As shown in the figure, the medians \(BD,CE\) of \(\triangle ABC\) intersect at point \(O\), and \(F,G\) are the midpoints of \(OB,OC\), respectively. Prove that quadrilateral \(DEFG\) is a parallelogram.
 
-## Exercise 6
+\(D,E\) are the midpoints of \(AB,AC\); by Basic Knowledge, \(DE\parallel BC,\ DE=\frac{1}{2}BC\).
 
-(Exercise 10.3, Problem 6) A river channel needs to be managed; given that team A can manage $12\ \text{m}$ per day and team B can manage $8\ \text{m}$ per day. If team A manages for a period first and team B manages the remainder, it takes $20$ days in total to finish, and the channel is $180\ \text{m}$ long. How many meters did team A and team B manage respectively?
+\(F,G\) are the midpoints of \(OB,OC\); similarly \(FG\parallel BC,\ FG=\frac{1}{2}BC\).
 
-### Solution to Exercise 6
+Therefore \(DE\parallel FG\) and \(DE=FG\); by Basic Knowledge, quadrilateral \(DEFG\) is a parallelogram.
 
-Let $x\ \text{m}$ be what team A manages and $y\ \text{m}$ what team B manages. According to the problem,
+\(\blacksquare\)
 
-$$
-\begin{cases}
-x+y=180,\\
-\frac{x}{12}+\frac{y}{8}=20.
-\end{cases}
-$$
+(Exercise 21.2.3, Problem 3)
 
-Substitute $x=180-y$ and multiply by $24$: $2\left(180-y\right)+3y=480$, i.e. $y=120$, $x=60$. Thus team A managed $60\ \text{m}$ and team B managed $120\ \text{m}$. $\blacksquare$
+As shown in the figure, points \(A,B\) are separated by a pond; choose a point \(C\) outside \(AB\) and connect \(AC\) and \(BC\). How can you use the triangle midline theorem to measure the distance between \(A\) and \(B\)?
 
-## Exercise 7
+Take the midpoints \(M,N\) of \(AC,BC\) and measure \(MN\).
 
-(Exercise 10.3, Problem 7) Given that $2$ large trucks and $3$ small trucks can transport $15.5\ \text{t}$ of goods in one trip; $5$ large trucks and $6$ small trucks can transport $35\ \text{t}$ in one trip. Find how many tons $3$ large trucks and $5$ small trucks can transport in one trip.
+By Basic Knowledge, \(MN=\frac{1}{2}AB\), so \(AB=2MN\).
 
-### Solution to Exercise 7
-
-Let $x\ \text{t}$ be transported per trip by a large truck and $y\ \text{t}$ by a small truck. According to the problem,
-
-$$
-\begin{cases}
-2x+3y=15.5,\\
-5x+6y=35.
-\end{cases}
-$$
-
-Multiply the first equation by $2$: $4x+6y=31$; subtract the second: $x=4$; substituting back $8+3y=15.5$, $y=2.5$.
-
-Thus $3$ large trucks and $5$ small trucks transport $3\times4+5\times2.5=12+12.5=24.5\ \text{t}$ in one trip. $\blacksquare$
-
-## Exercise 8
-
-(Exercise 10.3, Problem 8) $20$ tourists at a scenic area ride the cable car; buying round-trip tickets and one-way tickets costs $1180$ yuan in total. Given that a round-trip ticket is $80$ yuan each and a one-way ticket is $45$ yuan each. How many round-trip tickets and one-way tickets were bought?
-
-### Solution to Exercise 8
-
-Let $x$ be the round-trip tickets and $y$ the one-way tickets. According to the problem,
-
-$$
-\begin{cases}
-x+y=20,\\
-80x+45y=1180.
-\end{cases}
-$$
-
-Substitute $y=20-x$: $80x+45\left(20-x\right)=1180$, i.e. $35x=280$, $x=8$, $y=12$. Thus $8$ round-trip tickets and $12$ one-way tickets. $\blacksquare$
-
-## Exercise 9
-
-(Exercise 10.3, Problem 9) From point A to point B there is a section of uphill road and a section of level road. If one keeps walking uphill at $3\ \text{km}$ per hour, on level ground at $4\ \text{km}$ per hour, and downhill at $5\ \text{km}$ per hour, then going from A to B takes $54\ \text{min}$, and returning from B to A takes $42\ \text{min}$. What is the total distance from A to B in kilometers?
-
-### Solution to Exercise 9
-
-Let the uphill road be $x\ \text{km}$ and the level road $y\ \text{km}$. From A to B: uphill $x$, level $y$; from B to A: the former uphill becomes downhill. According to the problem,
-
-$$
-\begin{cases}
-\frac{x}{3}+\frac{y}{4}=\frac{54}{60},\\
-\frac{x}{5}+\frac{y}{4}=\frac{42}{60}.
-\end{cases}
-$$
-
-Subtract the two equations: $x\left(\frac{1}{3}-\frac{1}{5}\right)=0.9-0.7=0.2$, i.e. $\frac{2}{15}x=0.2$, $x=1.5$. Substituting back $\frac{1.5}{3}+\frac{y}{4}=0.9$, we get $\frac{y}{4}=0.4$, $y=1.6$.
-
-The total distance is $1.5+1.6=3.1\ \text{km}$. $\blacksquare$
+\(\blacksquare\)
 
 ## Problem 1
 
-(Exercise 10.3, Review and Consolidation, Problem 1) Solve the following systems:
+(Exercise 21.2, Review and Consolidation, Problem 1)
 
-(1) $\begin{cases}3x-y=5,\\5y-1=3x+5;\end{cases}$
+If quadrilateral \(ABCD\) is a parallelogram, \(AB=6\), and \(AB\) is \(\frac{3}{16}\) of the perimeter of \(\square ABCD\), what is the length of \(BC\)?
 
-(2) $\begin{cases}\frac{2x}{3}+\frac{3y}{4}=\frac{17}{12},\\\frac{x}{6}-\frac{y}{2}=-\frac{1}{3}.\end{cases}$
+From \(AB=\frac{3}{16}\times\) perimeter, the perimeter \(=6\times\frac{16}{3}=32\).
 
-### Solution to Problem 1
+Therefore \(AB+BC=16\), \(BC=10\).
 
-(1) From the first equation $y=3x-5$; substitute into the second $5y-3x=6$: $5\left(3x-5\right)-3x=6$, i.e. $12x=31$, $x=\frac{31}{12}$, $y=\frac{11}{4}$.
+\(\blacksquare\)
 
-(2) Multiply the first equation by $12$: $8x+9y=17$; multiply the second by $6$: $x-3y=-2$, i.e. $x=3y-2$. Substitute: $8\left(3y-2\right)+9y=17$, i.e. $33y=33$, $y=1$, $x=1$. $\blacksquare$
+(Exercise 21.2, Review and Consolidation, Problem 2)
+
+As shown in the figure, a cardboard with parallel opposite sides is inserted into a beam of parallel light rays. If \(\angle 1\) between the light ray and the lower right of the cardboard is \(72^{\circ}15'\), what is \(\angle 2\) between the light ray and the upper left of the cardboard? Why?
+
+The cardboard has both pairs of opposite sides parallel, forming a parallelogram.
+
+By Basic Knowledge, opposite angles are equal, so \(\angle 2=\angle 1=72^{\circ}15'\).
+
+\(\blacksquare\)
+
+(Exercise 21.2, Review and Consolidation, Problem 3)
+
+As shown in the figure, the diagonals \(AC,BD\) of \(\square ABCD\) intersect at point \(O\), and \(AC+BD=36,\ AB=11\). Find the perimeter of \(\triangle OCD\).
+
+By Basic Knowledge, \(OC=\frac{1}{2}AC,\ OD=\frac{1}{2}BD\).
+
+Therefore \(OC+OD=\frac{1}{2}(AC+BD)=18\).
+
+Also \(CD=AB=11\), so the perimeter of \(\triangle OCD\) \(=18+11=29\).
+
+\(\blacksquare\)
+
+(Exercise 21.2, Review and Consolidation, Problem 4)
+
+In \(\square ABCD\), \(\angle A=45^{\circ},\ AB=4,\ AD=2\). Find the area of \(\square ABCD\).
+
+Taking \(AB\) as the base, the height is \(AD\sin 45^{\circ}=2\times\frac{\sqrt{2}}{2}=\sqrt{2}\).
+
+Therefore the area \(S=AB\times h=4\sqrt{2}\).
+
+\(\blacksquare\)
+
+(Exercise 21.2, Review and Consolidation, Problem 5)
+
+As shown in the figure, in \(\square ABCD\), points \(E,F\) lie on \(BC,AD\), respectively, and \(AF=CE\). Prove that quadrilateral \(AECF\) is a parallelogram.
+
+From \(AD\parallel BC\), we get \(AF\parallel CE\).
+
+Also \(AF=CE\); by Basic Knowledge, quadrilateral \(AECF\) is a parallelogram.
+
+\(\blacksquare\)
+
+(Exercise 21.2, Review and Consolidation, Problem 6)
+
+As shown in the figure, the diagonals \(AC,BD\) of \(\square ABCD\) intersect at point \(O\), and \(E,F,G,H\) are the midpoints of \(AO,BO,CO,DO\), respectively. Prove that quadrilateral \(EFGH\) is a parallelogram.
+
+By Basic Knowledge, \(OA=OC,\ OB=OD\).
+
+\(E,G\) are the midpoints of \(AO,CO\), so \(OE=OG\); similarly \(OF=OH\).
+
+The diagonals of quadrilateral \(EFGH\) bisect each other; by Basic Knowledge, it is a parallelogram.
+
+\(\blacksquare\)
+
+(Exercise 21.2, Review and Consolidation, Problem 7)
+
+As shown in the figure, a ball is struck on a rectangular billiard table, and its path happens to be quadrilateral \(EFGH\). Each time the ball hits a cushion, the angle between the incoming direction and the cushion equals the angle between the outgoing direction and the cushion. Is quadrilateral \(EFGH\) a parallelogram? Why?
+
+Since the angle of incidence equals the angle of reflection, the vertical-angle relations at each cushion give \(EF\parallel GH\), \(FG\parallel HE\).
+
+Both pairs of opposite sides are parallel; by Basic Knowledge, quadrilateral \(EFGH\) is a parallelogram.
+
+\(\blacksquare\)
+
+(Exercise 21.2, Review and Consolidation, Problem 8)
+
+As shown in the figure, quadrilaterals \(AEFD\) and \(EBCF\) are both parallelograms. Prove that quadrilateral \(ABCD\) is a parallelogram.
+
+Since \(AEFD\) is a parallelogram, we get \(AD\parallel EF,\ AD=EF\).
+
+Since \(EBCF\) is a parallelogram, we get \(BC\parallel EF,\ BC=EF\).
+
+Therefore \(AD\parallel BC\) and \(AD=BC\); by Basic Knowledge, quadrilateral \(ABCD\) is a parallelogram.
+
+\(\blacksquare\)
+
+(Exercise 21.2, Review and Consolidation, Problem 9)
+
+As shown in the figure, lines \(l_{1}\parallel l_{2}\). Are the areas of \(\triangle ABC\) and \(\triangle DBC\) equal? Why? Can you draw some other triangles with the same area as \(\triangle ABC\)?
+
+\(\triangle ABC\) and \(\triangle DBC\) share the base \(BC\), and \(A,D\) both lie on the line \(l_{1}\) parallel to \(BC\), so their heights are equal.
+
+Therefore the two triangles have equal area.
+
+Any triangle formed by \(B,C\) and a point on \(l_{1}\) has the same area as \(\triangle ABC\).
+
+\(\blacksquare\)
 
 ## Problem 2
 
-(Exercise 10.3, Review and Consolidation, Problem 2) Members of an outdoor sports club completed a two-day hike. The hiking times on the two days were $8\ \text{h}$ and $10\ \text{h}$ respectively, they walked $98\ \text{km}$ in total, and the first day was $2\ \text{km}$ shorter than the second. What were the average hiking speeds on the two days respectively?
+(Exercise 21.2, Comprehensive Application, Problem 10)
 
-### Solution to Problem 2
+As shown in the figure, in \(\square ABCD\), point \(E\) lies on \(BC\), \(\angle ADE=30^{\circ}\), \(EA\) bisects \(\angle BED\), \(DE=8\). Find the area of \(\triangle ADE\).
 
-Let $x\ \text{km}$ be the first day and $y\ \text{km}$ the second day. According to the problem,
+Since \(AD\parallel BC\), \(\angle DAE=\angle AEB\).
 
-$$
-\begin{cases}
-x+y=98,\\
-y-x=2.
-\end{cases}
-$$
+\(EA\) bisects \(\angle BED\), so \(\angle AEB=\angle AED\), hence \(\angle DAE=\angle AED\); \(\triangle ADE\) is isosceles, \(AD=DE=8\).
 
-Solving gives $x=48$, $y=50$. First-day average speed $\frac{48}{8}=6\ \text{km/h}$, second-day average speed $\frac{50}{10}=5\ \text{km/h}$. $\blacksquare$
+The area \(S=\frac{1}{2}\cdot AD\cdot DE\cdot\sin 30^{\circ}=\frac{1}{2}\times 8\times 8\times\frac{1}{2}=16\).
 
-## Problem 3
+\(\blacksquare\)
 
-(Exercise 10.3, Review and Consolidation, Problem 3) From *Algorithms Unified*: seven guests per room leaves seven guests over; nine guests per room leaves one room empty. How many guest rooms does the inn have, and how many guests arrived?
+(Exercise 21.2, Comprehensive Application, Problem 11)
 
-### Solution to Problem 3
+As shown in the figure, in trapezoid \(ABCD\), \(AB\parallel DC,\ \angle A=\angle B\). Prove \(AD=BC\).
 
-Let $x$ be the guest rooms and $y$ the guests. According to the problem,
+Through \(D,C\) draw perpendiculars to \(AB\), with feet \(E,F\).
 
-$$
-\begin{cases}
-7x+7=y,\\
-9\left(x-1\right)=y.
-\end{cases}
-$$
+The two perpendiculars are the distance between parallel lines and are equal.
 
-$7x+7=9x-9$, giving $x=8$, $y=63$. Thus there are $8$ guest rooms and $63$ guests. $\blacksquare$
+In the two right triangles, \(\angle A=\angle B\) and the heights are equal, so the triangles are congruent, hence \(AD=BC\).
 
-## Problem 4
+\(\blacksquare\)
 
-(Exercise 10.3, Review and Consolidation, Problem 4) A port terminal uses type A and type B robots to move cargo. In $24\ \text{h}$, $3$ type A robots and $2$ type B robots move $450\ \text{t}$ of cargo in total, and each type A robot moves $25\ \text{t}$ more than a type B robot. What are the $24\ \text{h}$ cargo-moving amounts of each type A and type B robot respectively?
+(Exercise 21.2, Comprehensive Application, Problem 12)
 
-### Solution to Problem 4
+As shown in the figure, the vertices \(O,A,C\) of \(\square OABC\) have coordinates \((0,0),(a,0),(b,c)\), respectively. Find the coordinates of vertex \(B\).
 
-Let $x\ \text{t}$ be moved in $24\ \text{h}$ by each type A robot and $y\ \text{t}$ by type B. According to the problem,
+Since opposite sides of a parallelogram are parallel and equal, the vector \(\overrightarrow{OB}=\overrightarrow{OA}+\overrightarrow{OC}\).
 
-$$
-\begin{cases}
-x=y+25,\\
-3x+2y=450.
-\end{cases}
-$$
+Therefore \(B\) has coordinates \((a+b,c)\).
 
-Substitute: $3\left(y+25\right)+2y=450$, i.e. $5y=375$, $y=75$, $x=100$. Thus type A is $100\ \text{t}$ and type B is $75\ \text{t}$. $\blacksquare$
+\(\blacksquare\)
 
-## Problem 5
+(Exercise 21.2, Comprehensive Application, Problem 13)
 
-(Exercise 10.3, Comprehensive Application, Problem 5) As shown in the figure, the school plans to design horizontal and vertical paths parallel to $AD$ and $AB$ respectively on a rectangular field $ABCD$ of length $18\ \text{m}$ and width $13\ \text{m}$, with turf laid on the rest. If the paths have equal width and the six lawn patches are identical in shape and size, and on one lawn patch the two sides satisfy $AM:AN=8:9$, what is the width of the path?
+As shown in the figure, given \(\triangle ABC\), through \(A,B,C\) draw \(B'C'\parallel CB,\ C'A'\parallel AC,\ A'B'\parallel BA\), respectively. What is the relation between \(\angle ABC\) and \(\angle B'\)? What about segments \(AB'\) and \(AC'\)? Why?
 
-The figure shows a rectangular field $ABCD$ measuring $18\,\text{m}$ by $13\,\text{m}$, with horizontal and vertical paths parallel to $AD$ and $AB$ dividing it into six lawn sections of identical shape and size.
+From the parallel relations, several parallelograms are formed in the figure.
 
-### Solution to Problem 5
+\(\angle B'\) and \(\angle ABC\) are opposite angles of a parallelogram, so \(\angle B'=\angle ABC\).
 
-Let the path width be $d\ \text{m}$, each lawn patch width $w\ \text{m}$, and height $h\ \text{m}$. There are $2$ vertical paths horizontally and $1$ horizontal path vertically. By the problem $AM:AN=w:h=8:9$, so let $w=8k$, $h=9k$.
+Also \(AB'=AC\), \(AC'=AB\).
 
-Field width $18\ \text{m}$: $3w+2d=18$; field height $13\ \text{m}$: $2h+d=13$.
+\(\blacksquare\)
 
-Substitute: $24k+2d=18$, $18k+d=13$. From the second equation $d=13-18k$; substitute into the first: $24k+2\left(13-18k\right)=18$, i.e. $-12k=-8$, $k=\frac{2}{3}$, so $d=13-18\times\frac{2}{3}=1$. The path width is $1\ \text{m}$. $\blacksquare$
+(Exercise 21.2, Comprehensive Application, Problem 14)
 
-## Problem 6
+As shown in the figure, the diagonals \(AC,BD\) of quadrilateral \(ABCD\) intersect at point \(O\), \(AD=12,\ DO=OB=5,\ AC=26,\ \angle ADB=90^{\circ}\). Find the length of \(BC\) and the area of quadrilateral \(ABCD\).
 
-(Exercise 10.3, Comprehensive Application, Problem 6) An advertising company makes display boards, brochures, and banners; the number of brochures is $5$ times the number of display boards. The time required and profit for each product are as follows: display board $1\ \text{h}$ each, profit $60$ yuan; brochure $0.2\ \text{h}$ each, profit $3.5$ yuan; banner $0.5\ \text{h}$ each, profit $20$ yuan. If making the three products takes $25\ \text{h}$ in total and the profit is $975$ yuan, find the total number of the three products.
+In \(Rt\triangle ADO\), \(AO=\sqrt{AD^{2}+DO^{2}}=\sqrt{144+25}=13\).
 
-### Solution to Problem 6
+Therefore \(OC=AC-AO=13\), i.e. \(O\) bisects both \(AC\) and \(BD\).
 
-Let $x$ be the display boards; then brochures are $5x$ and banners $z$. According to the problem,
+By Basic Knowledge, \(ABCD\) is a parallelogram, so \(BC=AD=12\).
 
-$$
-\begin{cases}
-x+0.2\cdot5x+0.5z=25,\\
-60x+3.5\cdot5x+20z=975.
-\end{cases}
-$$
+The area \(S=BD\times AD=10\times 12=120\).
 
-Simplify: $2x+0.5z=25$, i.e. $z=50-4x$; $77.5x+20z=975$. Substitute: $77.5x+20\left(50-4x\right)=975$, i.e. $-2.5x=-25$, $x=10$, $z=10$. Brochures are $50$.
+\(\blacksquare\)
 
-The total number is $10+50+10=70$. $\blacksquare$
+(Exercise 21.2, Comprehensive Application, Problem 15)
 
-## Problem 7
+As shown in the figure, in \(\square ABCD\), through a point \(P\) on diagonal \(BD\) draw \(EF\parallel BC,\ GH\parallel AB\). Which two parallelograms in the figure have equal area? Why?
 
-(Exercise 10.3, Comprehensive Application, Problem 7) A stationery store sells type A and type B writing brushes: type A up to $20$ brushes at retail price, and beyond that $0.4$ yuan cheaper per brush; type B up to $15$ brushes at retail price, and beyond that $0.6$ yuan cheaper per brush. A group of $20$ students each buys $1$ type A and $2$ type B, paying $325$ yuan in total; each buys $2$ type A and $1$ type B, paying $309$ yuan in total. What are the retail prices of type A and type B brushes?
+The parallelogram is divided by the two lines through \(P\) into four small parallelograms, of which the two symmetric about \(BD\) have equal area.
 
-### Solution to Problem 7
+i.e. quadrilaterals \(AEPG\) and \(PHCF\) have equal area (subtracting the two parts divided by the diagonal).
 
-Let $a$ yuan be the retail price of type A and $b$ yuan that of type B.
+\(\blacksquare\)
 
-First purchase: $20$ type A in total (exactly up to $20$, all at retail), $40$ type B (beyond $15$, of which $15$ at $b$ and $25$ at $b-0.6$). Cost $20a+15b+25\left(b-0.6\right)=325$, i.e. $a+2b=17$.
+(Exercise 21.2, Comprehensive Application, Problem 16)
 
-Second purchase: $40$ type A in total (of which $20$ at $a$ and $20$ at $a-0.4$), $20$ type B (of which $15$ at $b$ and $5$ at $b-0.6$). Cost $20a+20\left(a-0.4\right)+15b+5\left(b-0.6\right)=309$, i.e. $2a+b=16$.
+As shown in the figure, cut a parallelogram from cardboard, find the intersection \(O\) of its diagonals, lay a thin straight strip on the cardboard, pin it at point \(O\), and let the strip rotate freely about \(O\). Flick the strip and let it stop. What conclusion can you draw?
 
-Solving: $a+2b=17$, $2a+b=16$, giving $a=5$, $b=6$. Thus type A retail price is $5$ yuan and type B is $6$ yuan. $\blacksquare$
+By Basic Knowledge, a parallelogram is centrally symmetric with center of symmetry \(O\), the intersection of the diagonals.
 
-## Problem 8
+Therefore a line through \(O\) divides the parallelogram into two congruent parts, i.e. of equal area and centrally symmetric about \(O\).
 
-(Exercise 10.3, Comprehensive Application, Problem 8) A supermarket's accounts: one day sold $39$ toothbrushes and $21$ boxes of toothpaste, revenue $396$ yuan; another day at the same prices sold $52$ toothbrushes and $28$ boxes of toothpaste, revenue $518$ yuan. Is this record erroneous?
+\(\blacksquare\)
 
-### Solution to Problem 8
+(Exercise 21.2, Extension and Exploration, Problem 17)
 
-Let $x$ yuan be each toothbrush and $y$ yuan each box of toothpaste. According to the problem,
+Prove: the sum of the squares of the lengths of the two diagonals of a parallelogram equals the sum of the squares of the four sides.
+
+Let in \(\square ABCD\), \(AB=CD=a,\ BC=AD=b\), and diagonals \(AC=m,\ BD=n\).
+
+This follows from the properties of parallelograms:
 
 $$
-\begin{cases}
-39x+21y=396,\\
-52x+28y=518.
-\end{cases}
+m^{2}+n^{2}=2\left(a^{2}+b^{2}\right)=2a^{2}+2b^{2}=AB^{2}+BC^{2}+CD^{2}+DA^{2}.
 $$
 
-Divide the first equation by $3$: $13x+7y=132$. Divide the second by $4$: $13x+7y=129.5$.
+i.e. the sum of the squares of the two diagonals equals the sum of the squares of the four sides.
 
-The left sides are the same but the right sides are $132\ne129.5$, a contradiction; thus the record is erroneous. $\blacksquare$
+\(\blacksquare\)
 
-## Problem 9
+## Exercise 6
 
-(Exercise 10.3, Extension and Exploration, Problem 9) Create a word problem with practical meaning such that its unknowns satisfy the system $\begin{cases}2x+3y=21,\\3x+4y=29.\end{cases}$ and solve the problem.
+(Exercise 21.3.1, Problem 1)
 
-### Solution to Problem 9
+One diagonal of a rectangle has length \(8\), and one of the angles formed by the two diagonals is \(120^{\circ}\). Find the lengths of two adjacent sides of this rectangle.
 
-Example: buying $2$ fountain pens and $3$ notebooks costs $21$ yuan in total; buying $3$ fountain pens and $4$ notebooks costs $29$ yuan in total. Find the unit prices of the pen and the notebook.
+The diagonals of a rectangle are equal and bisect each other, so half a diagonal has length \(4\).
 
-Let $x$ yuan be the pen and $y$ yuan the notebook. Multiply the first equation by $3$: $6x+9y=63$; multiply the second by $2$: $6x+8y=58$; subtracting gives $y=5$; substituting back $2x+15=21$, $x=3$. Thus each fountain pen is $3$ yuan and each notebook is $5$ yuan. $\blacksquare$
+The triangle opposite the \(120^{\circ}\) angle is isosceles with apex angle \(120^{\circ}\) and equal sides \(4\); its base is one side of the rectangle, of length \(2\times 4\sin 60^{\circ}=4\sqrt{3}\).
+
+The other side from a right triangle: \(\sqrt{8^{2}-(4\sqrt{3})^{2}}=4\).
+
+Therefore the adjacent sides are \(4\) and \(4\sqrt{3}\).
+
+\(\blacksquare\)
+
+(Exercise 21.3.1, Problem 2)
+
+As shown in the figure, quadrilateral \(ABCD\) is a rectangle, point \(E\) lies on the extension of \(BC\), and \(DE\parallel AC\). Is \(\triangle DBE\) an isosceles triangle? Explain why.
+
+Since \(DE\parallel AC\) and \(CE\parallel AD\), quadrilateral \(ACED\) is a parallelogram, so \(DE=AC\).
+
+The diagonals of a rectangle are equal, \(AC=BD\), so \(DE=BD\).
+
+Therefore \(\triangle DBE\) is an isosceles triangle.
+
+\(\blacksquare\)
+
+## Exercise 7
+
+(Exercise 21.3.1, Problem 1)
+
+Prove: a quadrilateral with four equal angles is a rectangle.
+
+The four angles of a quadrilateral sum to \(360^{\circ}\); if they are equal, each is \(90^{\circ}\).
+
+Both pairs of opposite angles are \(90^{\circ}\), so both pairs of opposite sides are parallel, and the quadrilateral is a parallelogram.
+
+Also one angle is a right angle; by Basic Knowledge, it is a rectangle.
+
+\(\blacksquare\)
+
+(Exercise 21.3.1, Problem 2)
+
+As shown in the figure, the diagonals \(AC,BD\) of \(\square ABCD\) intersect at point \(O\), \(\triangle OAB\) is equilateral, and \(AB=2\). Find the area of \(\square ABCD\).
+
+\(\triangle OAB\) is equilateral, \(OA=OB=AB=2\), so the diagonals \(AC=BD=4\).
+
+A parallelogram with equal diagonals is a rectangle.
+
+One side of the rectangle is \(AB=2\); by the Pythagorean theorem the other side \(=\sqrt{4^{2}-2^{2}}=2\sqrt{3}\).
+
+Area \(=2\times 2\sqrt{3}=4\sqrt{3}\).
+
+\(\blacksquare\)
+
+(Exercise 21.3.1, Problem 3)
+
+As shown in the figure, in \(\triangle ABC\), \(AB=AC\), \(D,E\) are the midpoints of segments \(BC,AD\), respectively; through point \(A\) draw \(AF\parallel BC\) meeting the extension of \(BE\) at point \(F\), and connect \(CF\). Prove that quadrilateral \(ADCF\) is a rectangle.
+
+Since \(AF\parallel BC\), \(\triangle AEF\cong\triangle DEB\), so \(AF=DB\).
+
+\(D\) is the midpoint of \(BC\), \(DB=DC\), so \(AF=DC\) and \(AF\parallel DC\).
+
+Quadrilateral \(ADCF\) is a parallelogram.
+
+Also \(AB=AC\); by the three-line coincidence of an isosceles triangle, \(AD\perp BC\), i.e. \(\angle ADC=90^{\circ}\).
+
+Therefore parallelogram \(ADCF\) is a rectangle.
+
+\(\blacksquare\)
+
+## Exercise 8
+
+(Exercise 21.3.2, Problem 1)
+
+Quadrilateral \(ABCD\) is a rhombus, the diagonals \(AC,BD\) intersect at point \(O\), and \(AB=5,\ AO=4\). Find the lengths of \(AC,BD\) and the area of rhombus \(ABCD\).
+
+By Basic Knowledge, \(AC\perp BD\).
+
+In \(Rt\triangle AOB\), \(BO=\sqrt{AB^{2}-AO^{2}}=\sqrt{25-16}=3\).
+
+Therefore \(AC=2AO=8,\ BD=2BO=6\).
+
+Area of the rhombus \(=\frac{1}{2}\times AC\times BD=\frac{1}{2}\times 8\times 6=24\).
+
+\(\blacksquare\)
+
+(Exercise 21.3.2, Problem 2)
+
+As shown in the figure, in rhombus \(ABCD\), \(BD=4,\ \angle A:\angle ABC=1:2\). Find the perimeter of \(\triangle ABD\).
+
+Adjacent angles of a rhombus are supplementary, \(\angle A+\angle ABC=180^{\circ}\); with ratio \(1:2\), \(\angle A=60^{\circ}\).
+
+Also \(AB=AD\), so \(\triangle ABD\) is equilateral, \(AB=AD=BD=4\).
+
+Therefore the perimeter \(=12\).
+
+\(\blacksquare\)
+
+(Exercise 21.3.2, Problem 3)
+
+As shown in the figure, in rhombus \(ABCD\), \(\angle A=60^{\circ}\), connect diagonal \(BD\); \(E,F\) are the midpoints of sides \(AB,BC\), respectively; connect \(DE,DF,EF\). Prove that \(\triangle DEF\) is equilateral.
+
+\(\angle A=60^{\circ}\) and \(AB=AD\), so \(\triangle ABD\) is equilateral.
+
+\(E\) is the midpoint of \(AB\), so \(DE\perp AB\). Similarly \(DF\perp BC\).
+
+By the symmetry of the rhombus and that \(E,F\) are midpoints, one can prove \(DE=DF=EF\), so \(\triangle DEF\) is equilateral.
+
+\(\blacksquare\)

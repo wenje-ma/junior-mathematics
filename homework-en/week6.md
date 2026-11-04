@@ -1,409 +1,497 @@
 # week6
 
+## Review Problem 1
+
+(Review Problem, Review and Consolidation, Problem 6) Compute:
+
+(1) $-2-\left|-3\right|$;
+
+(2) $\left|-2-\left(-3\right)\right|$.
+
+### Solution to Review Problem 1
+
+By Algebraic Meaning of Absolute Value.
+
+(1) The original expression $=-2-3=-5$.
+
+(2) The original expression $=\left|-2+3\right|=\left|1\right|=1$. $\blacksquare$
+
+## Review Problem 2
+
+(Review Problem, Comprehensive Application, Problem 7) Three football teams, red, yellow, and blue, play matches. The results are: the red team beats the yellow team with a score of $4:2$; the blue team beats the yellow team with a score of $3:1$; the red team loses to the blue team with a score of $2:3$. If goals scored are recorded as positive and goals conceded as negative, what is the goal difference of each of the three teams?
+
+### Solution to Review Problem 2
+
+By Rules for Addition of Rational Numbers, the goal difference is the sum of goals scored and goals conceded.
+
+Red team: goals scored $4+2=6$, goals conceded $2+3=5$, goal difference $=6+\left(-5\right)=1$.
+
+Yellow team: goals scored $2+1=3$, goals conceded $4+3=7$, goal difference $=3+\left(-7\right)=-4$.
+
+Blue team: goals scored $3+3=6$, goals conceded $1+2=3$, goal difference $=6+\left(-3\right)=3$.
+
+Hence the red team has a goal difference of $1$, the yellow team $-4$, and the blue team $3$. $\blacksquare$
+
+## Review Problem 3
+
+(Review Problem, Comprehensive Application, Problem 8) The following are the mathematics test scores of ten students:
+
+$$82,\ 83,\ 78,\ 66,\ 95,\ 75,\ 61,\ 93,\ 82,\ 81.$$
+
+First estimate their average score, and then compute the average score on that basis, thereby checking your ability to estimate.
+
+### Solution to Review Problem 3
+
+By Rules for Division of Rational Numbers, the average score is the total score divided by the number of students.
+
+The total score $=82+83+78+66+95+75+61+93+82+81=796$. The average score $=796\div 10=79.6$ points. The scores are mostly concentrated in the $70\sim 90$ point range, estimated at about $80$ points, which is close to the computed result of $79.6$ points. $\blacksquare$
+
+## Review Problem 4
+
+(Review Problem, Comprehensive Application, Problem 9) The profit/loss situation of a stationery store over a week is shown in the table below (profit recorded as positive, unit: yuan). Monday $-27.8$, Tuesday $-70.3$, Wednesday $200$, Thursday $138.1$, Friday $-8$, Saturday $\;\_\_\;$, Sunday $458$, total $188$. The profit/loss figure for Saturday in the table has been obscured by ink. Please compute the profit/loss figure for Saturday, and state whether Saturday was a profit or a loss and for what amount.
+
+### Solution to Review Problem 4
+
+By Rules for Addition of Rational Numbers, the sum of the profit/loss over the seven days equals the total of $188$ yuan.
+
+The sum of the six known days is $-27.8-70.3+200+138.1-8+458=690$. Hence the profit/loss figure for Saturday is $188-690=-502$.
+
+The result is negative, so Saturday was a loss, in the amount of $502$ yuan. $\blacksquare$
+
+## Review Problem 5
+
+(Review Problem, Comprehensive Application, Problem 10) A track patrol officer patrols and maintains an east-west railway. Starting from his station, he first walks $7\ \text{km}$ eastward, then another $3\ \text{km}$ eastward, and then turns back and walks $11.5\ \text{km}$ westward. In which direction is he from his station at this point? How far is he from his station, in kilometers?
+
+### Solution to Review Problem 5
+
+By Rules for Addition of Rational Numbers, eastward is positive and westward is negative.
+
+$$7+3-11.5=-1.5.$$
+
+The result is negative, so at this point he is west of his station, and his distance from the station is $1.5\ \text{km}$. $\blacksquare$
+
+## Review Problem 6
+
+(Review Problem, Comprehensive Application, Problem 11) In the range $0\sim 40\,^\circ\text{C}$, for each $1\,^\circ\text{C}$ rise in temperature, a certain metal wire elongates by about $0.002\ \text{mm}$; conversely, for each $1\,^\circ\text{C}$ drop in temperature, the metal wire shortens by about $0.002\ \text{mm}$. This metal wire at $20\,^\circ\text{C}$ is heated to $30\,^\circ\text{C}$ and then cooled down to $5\,^\circ\text{C}$. What change did the length of the metal wire undergo? By about how many millimeters did the final length elongate relative to the original length?
+
+### Solution to Review Problem 6
+
+By Rules for Multiplication of Rational Numbers.
+
+Heating from $20\,^\circ\text{C}$ to $30\,^\circ\text{C}$ raises the temperature by $10\,^\circ\text{C}$, elongating $10\times 0.002=0.02\ \text{mm}$; then cooling from $30\,^\circ\text{C}$ to $5\,^\circ\text{C}$ lowers the temperature by $25\,^\circ\text{C}$, shortening $25\times 0.002=0.05\ \text{mm}$.
+
+The total change is $0.02-0.05=-0.03\ \text{mm}$, so the final length is shortened by about $0.03\ \text{mm}$ relative to the original length. $\blacksquare$
+
+## Review Problem 7
+
+(Review Problem, Comprehensive Application, Problem 12) Over the year, the distance between the Earth and the Sun varies with time. The $1$ astronomical unit is the average distance between the Earth and the Sun, approximately $1.496$ hundred million kilometers. Express, in scientific notation, how many kilometers the $1$ astronomical unit is.
+
+### Solution to Review Problem 7
+
+By Scientific Notation.
+
+$$1.496\text{ 亿千米}=149600000\ \text{km}=1.496\times 10^{8}\ \text{km}.$$
+
+Hence the $1$ astronomical unit is $1.496\times 10^{8}\ \text{km}$. $\blacksquare$
+
+## Review Problem 8
+
+(Review Problem, Extension and Exploration, Problem 13) In connection with operations on concrete numbers, generalize through special cases, and then compare the magnitudes of the following:
+
+(1) a positive number $a$ less than $1$, the square of $a$, the cube of $a$;
+
+(2) a negative number $b$ greater than $-1$, the square of $b$, the cube of $b$.
+
+### Solution to Review Problem 8
+
+By Powers and Comparing the Magnitude of Rational Numbers.
+
+(1) Take $a=\frac{1}{2}$; then $a^{2}=\frac{1}{4}$ and $a^{3}=\frac{1}{8}$. Since $\frac{1}{8}< \frac{1}{4}< \frac{1}{2}$, we get $a^{3}< a^{2}< a$.
+
+(2) Take $b=-\frac{1}{2}$; then $b^{2}=\frac{1}{4}$ and $b^{3}=-\frac{1}{8}$. Since $-\frac{1}{2}< -\frac{1}{8}< \frac{1}{4}$, we get $b< b^{3}< b^{2}$. $\blacksquare$
+
+## Review Problem 9
+
+(Review Problem, Extension and Exploration, Problem 14) In connection with concrete numbers, generalize through special cases, and then determine whether the following statements are correct. If you think they are correct, give the reason; if you think they are wrong, give a counterexample.
+
+(1) No number equals its opposite number;
+
+(2) the same positive even power of two numbers that are opposites of each other is equal;
+
+(3) if $a$ is greater than $b$, then the reciprocal of $a$ is less than the reciprocal of $b$.
+
+### Solution to Review Problem 9
+
+(1) Wrong. By Opposite Numbers, the opposite number of $0$ is $0$, that is, $0$ equals its opposite number.
+
+(2) Correct. By Sign Rules for Powers, the positive even powers of the two opposite numbers $a$ and $-a$ are both positive and have the same absolute value, so $a^{2n}=\left(-a\right)^{2n}$.
+
+(3) Wrong. Counterexample: $a=1$, $b=-1$; we have $a> b$, but $\frac{1}{a}=1$ and $\frac{1}{b}=-1$, and at this point $\frac{1}{a}> \frac{1}{b}$, so the original statement does not hold. $\blacksquare$
+
+## Review Problem 10
+
+(Review Problem, Extension and Exploration, Problem 15) Use a calculator to compute the following expressions, and write the results on the blanks:
+
+$$1\times 1=\;\_\_\;;\quad 11\times 11=\;\_\_\;;\quad 111\times 111=\;\_\_\;;\quad 1111\times 1111=\;\_\_\;.$$
+
+(1) What did you discover? (2) Without a calculator, can you directly write down the result of $111111111\times 111111111$?
+
+### Solution to Review Problem 10
+
+By computation,
+
+$$1\times 1=1;\quad 11\times 11=121;\quad 111\times 111=12321;\quad 1111\times 1111=1234321.$$
+
+(1) The rule: when a number made up of $n$ copies of $1$ is multiplied by itself, the result increases from $1$ to $n$ and then decreases back to $1$, namely $123\cdots n\cdots 321$.
+
+(2) $111111111$ is made up of $9$ copies of $1$, so
+
+$$111111111\times 111111111=12345678987654321.$$
+
+$\blacksquare$
+
+## Inquiry 1
+
+(Comprehensive Practice, Activity 1, Task 1, Problem 1) Binary is base-two, carrying one when reaching two, and the digits in each place are $0$ or $1$. Please express the binary number $\left(1011\right)_{2}$ as a sum of products of each digit with the corresponding power of the base, thereby converting it into a decimal number.
+
+### Solution to Inquiry 1
+
+By Powers, binary places have base $2$, and from right to left are respectively $2^{0}$, $2^{1}$, $2^{2}$, $2^{3}$.
+
+$$\left(1011\right)_{2}=1\times 2^{3}+0\times 2^{2}+1\times 2^{1}+1\times 2^{0}=8+0+2+1=11.$$
+
+Hence $\left(1011\right)_{2}=11$. $\blacksquare$
+
+## Inquiry 2
+
+(Comprehensive Practice, Activity 1, Task 2, Problem 1) Convert $89$ into a binary number and an octal number.
+
+### Solution to Inquiry 2
+
+By Powers.
+
+Converting to binary: $89=64+16+8+1=2^{6}+2^{4}+2^{3}+2^{0}$, so
+
+$$89=\left(1011001\right)_{2}.$$
+
+Converting to octal: $89=1\times 8^{2}+5\times 8^{1}+1\times 8^{0}=64+40+1$, so
+
+$$89=\left(151\right)_{8}.$$
+
+$\blacksquare$
+
+## Inquiry 3
+
+(Comprehensive Practice, Activity 1, Task 3, Problem 1) Through studying the conversion between binary numbers and decimal numbers, what discoveries do you have? Furthermore, can you perform conversions between numbers in other bases?
+
+### Solution to Inquiry 3
+
+By Powers, any base-$k$ number $\left(a_{n}a_{n-1}\cdots a_{1}a_{0}\right)_{k}$ can be written as
+
+$$a_{n}k^{n}+a_{n-1}k^{n-1}+\cdots+a_{1}k+a_{0}.$$
+
+Expanding this and summing gives the decimal number. Conversely, repeatedly dividing the decimal number by the base $k$ and arranging the remainders from bottom to top gives the base-$k$ number. Hence decimal numbers can be converted back and forth with any base, such as binary, octal, and hexadecimal. $\blacksquare$
+
+## Inquiry 4
+
+(Comprehensive Practice, Activity 2, Task 2, Problem (1)) According to the rules of binary addition, compute $\left(10010\right)_{2}+\left(111\right)_{2}$, and discuss the calculation method.
+
+### Solution to Inquiry 4
+
+Binary addition carries one when reaching two. First convert to decimal to check: $\left(10010\right)_{2}=18$, $\left(111\right)_{2}=7$, and the sum is $25$.
+
+Vertical addition:
+
+$$\begin{array}{r} 10010\\ +\quad 111\\ \hline 11001\end{array}$$
+
+Hence $\left(10010\right)_{2}+\left(111\right)_{2}=\left(11001\right)_{2}=25$. $\blacksquare$
+
+## Inquiry 5
+
+(Comprehensive Practice, Activity 2, Task 2, Problem (2)) (1) Compute $45+23$; (2) convert $45$ and $23$ into binary numbers respectively, use the rules of binary addition to compute their sum, and then convert the sum back to a decimal number; (3) compare whether the results of (1) and (2) are the same.
+
+### Solution to Inquiry 5
+
+(1) $45+23=68$.
+
+(2) By Powers, $45=32+8+4+1=\left(101101\right)_{2}$ and $23=16+4+2+1=\left(10111\right)_{2}$. Adding in binary:
+
+$$\begin{array}{r} 101101\\ +\quad 10111\\ \hline 1000100\end{array}$$
+
+$\left(1000100\right)_{2}=64+4=68$.
+
+(3) By (1) and (2), both results are $68$, so the two are the same. $\blacksquare$
+
+## Inquiry 6
+
+(Comprehensive Practice, Activity 2, Task 4, Problem 1) When studying astronomy and calendars, the ancients once also used base-seven, base-twelve, and base-sixty numeral systems. To this day, we still use the timekeeping methods of $7$ days in a week, $12$ months in a year, and $60$ minutes in an hour. In connection with practical problems such as angles and time, discuss in groups the rules of base-sixty addition.
+
+### Solution to Inquiry 6
+
+Base sixty carries one when reaching sixty, that is, when a place reaches $60$, carry $1$ to the higher place. When computing, add the same digit places; if the sum reaches $60$, subtract $60$ and carry $1$ to the higher place. For example, adding times: $45$ minutes $+30$ minutes $=75$ minutes $=1$ hour $15$ minutes. Adding angles works the same way: when $60'$ is reached, carry $1^\circ$. $\blacksquare$
+
 ## Exercise 1
 
-(Exercise 2.2, Problem 1) Compute:
+(Exercise 3.1, Problem 1) Fill in the blanks.
 
-(1) $6\times\left(-9\right)$; (2) $\left(-4\right)\times 6$; (3) $\left(-6\right)\times\left(-1\right)$;
+(1) Each package of books has $10$ volumes; $6$ packages have $\;\_\_\;$ volumes, and $n$ packages have $\;\_\_\;$ volumes;
 
-(4) $\left(-6\right)\times 0$; (5) $\left(-4\right)\times\frac{1}{4}$; (6) $\frac{2}{3}\times\left(-\frac{9}{4}\right)$.
+(2) Wang Fang is $m$ years old this year; last year she was $\;\_\_\;$ years old, and $6$ years later she will be $\;\_\_\;$ years old;
+
+(3) Put $p\ \text{kg}$ of sugar into $n$ packaging bags, with the same mass in each bag; each bag contains $\;\_\_\;\text{kg}$ of sugar;
+
+(4) The volume of a cube with edge length $a$ is $\;\_\_\;$.
 
 ### Solution to Exercise 1
 
-By Rules for Multiplication of Rational Numbers.
+By Forming Algebraic Expressions.
 
-(1) $6\times\left(-9\right)=-54$; (2) $\left(-4\right)\times 6=-24$; (3) $\left(-6\right)\times\left(-1\right)=6$;
+(1) $6$ packages have $10\times 6=60$ volumes, and $n$ packages have $10n$ volumes.
 
-(4) $\left(-6\right)\times 0=0$; (5) $\left(-4\right)\times\frac{1}{4}=-1$; (6) $\frac{2}{3}\times\left(-\frac{9}{4}\right)=-\frac{3}{2}$. $\blacksquare$
+(2) Last year was $1$ year younger than this year, namely $\left(m-1\right)$ years old; $6$ years later will be $\left(m+6\right)$ years old.
+
+(3) Each bag contains $\frac{p}{n}\ \text{kg}$ of sugar.
+
+(4) The volume of a cube is the cube of its edge length, namely $a^{3}$. $\blacksquare$
 
 ## Exercise 2
 
-(Exercise 2.2, Problem 2) A store sells a certain product at a reduced price, cutting $5$ yuan off each item, and sells $60$ items. Compared with selling the same number of items at the original price, what is the change in sales revenue?
+(Exercise 3.1, Problem 2) State the meaning of the following algebraic expressions:
+
+(1) $2a+3c$; (2) $3\left(m-n\right)$; (3) $a^{2}+1$; (4) $\frac{3a}{5b}$.
 
 ### Solution to Exercise 2
 
-By Rules for Multiplication of Rational Numbers, the price reduction per item is recorded as $-5$ yuan.
+By Algebraic Expressions.
 
-$$\left(-5\right)\times 60=-300.$$
+(1) $2a+3c$ means the sum of $2$ times $a$ and $3$ times $c$.
 
-Hence the sales revenue decreases by $300$ yuan. $\blacksquare$
+(2) $3\left(m-n\right)$ means $3$ times the difference between $m$ and $n$.
+
+(3) $a^{2}+1$ means the sum of the square of $a$ and $1$.
+
+(4) $\frac{3a}{5b}$ means the quotient of $3$ times $a$ divided by $5$ times $b$. $\blacksquare$
 
 ## Exercise 3
 
-(Exercise 2.2, Problem 3) Write down the reciprocal of each of the following:
-
-$$1,\ -1,\ \frac{1}{3},\ -\frac{1}{3},\ 5,\ -5,\ \frac{2}{3},\ -\frac{2}{3}.$$
+(Exercise 3.1, Problem 3) The algebraic expression $100-2x$ can represent quantities or quantitative relationships in different practical problems. Please give examples.
 
 ### Solution to Exercise 3
 
-By Reciprocal, two numbers whose product is $1$ are reciprocals of each other.
+By Algebraic Expressions.
 
-The reciprocal of $1$ is $1$; the reciprocal of $-1$ is $-1$; the reciprocal of $\frac{1}{3}$ is $3$; the reciprocal of $-\frac{1}{3}$ is $-3$; the reciprocal of $5$ is $\frac{1}{5}$; the reciprocal of $-5$ is $-\frac{1}{5}$; the reciprocal of $\frac{2}{3}$ is $\frac{3}{2}$; the reciprocal of $-\frac{2}{3}$ is $-\frac{3}{2}$. $\blacksquare$
+For example: having $100$ yuan, each pencil costs $2$ yuan; after buying $x$ pencils, $\left(100-2x\right)$ yuan remain. Or: a rope of length $100\ \text{cm}$, each time cutting off $2\ \text{cm}$; after cutting $x$ times, $\left(100-2x\right)\ \text{cm}$ remain. $\blacksquare$
 
 ## Exercise 4
 
-(Exercise 2.2, Problem 1) Compute:
+(Exercise 3.1, Problem 1) Express in algebraic expressions:
 
-(1) $\left(-85\right)\times\left(-25\right)\times\left(-4\right)$;
+(1) the number that is $1$ greater than $2$ times $a$;
 
-(2) $\left(-\frac{7}{8}\right)\times 15\times\left(-1\frac{1}{7}\right)$;
+(2) the difference between the opposite number of $a$ and half of $b$;
 
-(3) $\left(\frac{9}{10}-\frac{1}{15}\right)\times 30$;
-
-(4) $\left(-\frac{6}{5}\right)\times\left(-\frac{2}{3}\right)+\left(-\frac{6}{5}\right)\times\left(+1\frac{3}{5}\right)$.
+(3) the quotient of the square of $a$ divided by $b$.
 
 ### Solution to Exercise 4
 
-By Associative Law of Multiplication and Distributive Law.
+By Forming Algebraic Expressions.
 
-(1) The original expression $=\left(-85\right)\times\left[\left(-25\right)\times\left(-4\right)\right]=\left(-85\right)\times 100=-8500$.
+(1) $2$ times $a$ is $2a$, and the number $1$ greater than it is $2a+1$.
 
-(2) The original expression $=\left(-\frac{7}{8}\right)\times\left(-\frac{8}{7}\right)\times 15=1\times 15=15$.
+(2) The opposite number of $a$ is $-a$, half of $b$ is $\frac{b}{2}$, and the difference is $-a-\frac{b}{2}$.
 
-(3) The original expression $=\frac{9}{10}\times 30-\frac{1}{15}\times 30=27-2=25$.
-
-(4) The original expression $=\left(-\frac{6}{5}\right)\times\left(-\frac{2}{3}+1\frac{3}{5}\right)=\left(-\frac{6}{5}\right)\times\frac{14}{15}=-\frac{28}{25}$. $\blacksquare$
+(3) The quotient is $\frac{a^{2}}{b}$. $\blacksquare$
 
 ## Exercise 5
 
-(Exercise 2.2, Problem 2) Compute:
-
-(1) $\left(-\frac{5}{12}\right)\times\frac{8}{15}\times\frac{1}{2}\times\left(-\frac{2}{3}\right)$;
-
-(2) $\left(-1\right)\times\left(-\frac{5}{4}\right)\times\frac{8}{15}\times\frac{3}{2}\times\left(-\frac{2}{3}\right)\times 0\times\left(-1\right)$.
+(Exercise 3.1, Problem 2) A certain commodity costs $4.8$ yuan per bag, and $m$ bags were sold within one month. Express the revenue from selling this commodity this month in an algebraic expression.
 
 ### Solution to Exercise 5
 
-By Sign Rules for Multiplying Several Rational Numbers.
+By Forming Algebraic Expressions, revenue $=$ unit price $\times$ quantity.
 
-(1) There are two negative factors, so the product is positive: the original expression $=\frac{5}{12}\times\frac{8}{15}\times\frac{1}{2}\times\frac{2}{3}=\frac{2}{27}$.
+$$4.8\times m=4.8m.$$
 
-(2) Since one of the factors is $0$, by Sign Rules for Multiplying Several Rational Numbers, the original expression $=0$. $\blacksquare$
+Hence the revenue from selling this commodity this month is $4.8m$ yuan. $\blacksquare$
 
 ## Exercise 6
 
-(Exercise 2.2, Problem 1) Compute:
-
-(1) $\left(-18\right)\div 6$; (2) $\left(-63\right)\div\left(-7\right)$; (3) $1\div\left(-9\right)$;
-
-(4) $0\div\left(-8\right)$; (5) $\left(-6.5\right)\div 0.13$; (6) $\left(-\frac{6}{5}\right)\div\left(-\frac{2}{5}\right)$.
+(Exercise 3.1, Problem 3) There are two cotton fields. One has area $m\ \text{hm}^{2}$, with an average cotton yield of $a\ \text{kg}$ per hectare; the other has area $n\ \text{hm}^{2}$, with an average cotton yield of $b\ \text{kg}$ per hectare. Express the total cotton yield of the two fields in an algebraic expression.
 
 ### Solution to Exercise 6
 
-By Rules for Division of Rational Numbers.
+By Forming Algebraic Expressions.
 
-(1) $\left(-18\right)\div 6=-3$; (2) $\left(-63\right)\div\left(-7\right)=9$; (3) $1\div\left(-9\right)=-\frac{1}{9}$;
-
-(4) $0\div\left(-8\right)=0$; (5) $\left(-6.5\right)\div 0.13=-50$; (6) $\left(-\frac{6}{5}\right)\div\left(-\frac{2}{5}\right)=3$. $\blacksquare$
+The first field yields $ma\ \text{kg}$ of cotton, and the second yields $nb\ \text{kg}$. Hence the total cotton yield of the two fields is $\left(ma+nb\right)\ \text{kg}$. $\blacksquare$
 
 ## Exercise 7
 
-(Exercise 2.2, Problem 2) Simplify:
-
-(1) $\frac{-72}{9}$; (2) $\frac{-30}{-45}$; (3) $\frac{0}{-75}$; (4) $\frac{27}{-6}$.
+(Exercise 3.1, Problem 4) A small square iron sheet is cut out from a large square iron sheet. The side length of the large square is $a\ \text{mm}$, and the side length of the small square is $b\ \text{mm}$. Express the area of the remaining iron sheet in an algebraic expression.
 
 ### Solution to Exercise 7
 
-By Rules for Division of Rational Numbers, a fraction bar means division.
+By Forming Algebraic Expressions.
 
-(1) $\frac{-72}{9}=-8$; (2) $\frac{-30}{-45}=\frac{2}{3}$; (3) $\frac{0}{-75}=0$; (4) $\frac{27}{-6}=-\frac{9}{2}$. $\blacksquare$
+The area of the large square is $a^{2}\ \text{mm}^{2}$, and the area of the small square is $b^{2}\ \text{mm}^{2}$. The area of the remaining iron sheet is $\left(a^{2}-b^{2}\right)\ \text{mm}^{2}$. $\blacksquare$
 
 ## Exercise 8
 
-(Exercise 2.2, Problem 1) Compute:
-
-(1) $15\div\left(-6\right)$;
-
-(2) $\left(-36\frac{9}{11}\right)\div 9$;
-
-(3) $\left(-12\right)\div\left(-4\right)\div\left(-1\frac{1}{5}\right)$;
-
-(4) $\left(-\frac{2}{3}\right)\times\frac{8}{5}\div\left(-0.25\right)$.
+(Exercise 3.1, Problem 1) If the distance traveled by a car is fixed, then are the average speed and the time of the car in an inverse proportion relationship? Why?
 
 ### Solution to Exercise 8
 
-By Rules for Division of Rational Numbers.
+By Quantities in Inverse Proportion.
 
-(1) $15\div\left(-6\right)=-\frac{5}{2}$.
-
-(2) The original expression $=\left(-36\right)\div 9-\frac{9}{11}\div 9=-4-\frac{1}{11}=-\frac{45}{11}$.
-
-(3) The original expression $=3\div\left(-\frac{6}{5}\right)=3\times\left(-\frac{5}{6}\right)=-\frac{5}{2}$.
-
-(4) The original expression $=\left(-\frac{2}{3}\right)\times\frac{8}{5}\times\left(-4\right)=\frac{64}{15}$. $\blacksquare$
+Distance $=$ speed $\times$ time. When the distance is fixed, the product of speed and time equals the distance (a fixed value); by Quantities in Inverse Proportion, the average speed and time are in an inverse proportion relationship. $\blacksquare$
 
 ## Exercise 9
 
-(Exercise 2.2, Problem 2) Compute:
+(Exercise 3.1, Problem 3) A transportation company plans to ship a batch of goods. The relationship between the number of tons shipped per day and the number of days of shipping is shown in the table below.
 
-(1) $6-\left(-12\right)\div\left(-3\right)$;
+Tons shipped per day: $500$, $250$, $100$, $50$. Number of days of shipping: $1$, $2$, $5$, $10$.
 
-(2) $3\times\left(-4\right)+\left(-28\right)\div 7$;
-
-(3) $\left(-48\right)\div 8-\left(-25\right)\times\left(-6\right)$;
-
-(4) $42\times\left(-\frac{2}{3}\right)+\left(-\frac{3}{4}\right)\div\left(-0.5\right)$.
+(1) How many tons are there in this batch of goods? (2) How does the number of days of shipping change as the number of tons shipped per day changes? (3) Let $t$ denote the number of days of shipping and $a$ the number of tons shipped per day. Express the relationship between $t$ and $a$ as a formula. What kind of proportion relationship is there between $t$ and $a$?
 
 ### Solution to Exercise 9
 
-By Rules for Division of Rational Numbers and Rules for Multiplication of Rational Numbers, multiply and divide before adding and subtracting.
+By Quantities in Inverse Proportion.
 
-(1) The original expression $=6-4=2$.
+(1) Since $500\times 1=250\times 2=100\times 5=50\times 10=500$, the batch of goods totals $500$ tons.
 
-(2) The original expression $=-12+\left(-4\right)=-16$.
+(2) The larger the number of tons shipped per day, the smaller the number of days of shipping.
 
-(3) The original expression $=-6-150=-156$.
-
-(4) The original expression $=-28+\frac{3}{2}=-\frac{53}{2}$. $\blacksquare$
+(3) Since $at=500$, we have $t=\frac{500}{a}$. By Quantities in Inverse Proportion, the product of $t$ and $a$ is constant, so $t$ and $a$ are in an inverse proportion relationship. $\blacksquare$
 
 ## Problem 1
 
-(Exercise 2.2, Review and Consolidation, Problem 1) Compute:
+(Exercise 3.1, Review and Consolidation, Problem 1) Express in algebraic expressions:
 
-(1) $\left(-8\right)\times\left(-7\right)$; (2) $12\times\left(-5\right)$; (3) $2.9\times\left(-0.4\right)$;
-
-(4) $\left(-30.5\right)\times 0.2$; (5) $100\times\left(-0.001\right)$; (6) $\left(-4.8\right)\times\left(-1.25\right)$.
+(1) $2$ times $m$; (2) $\frac{2}{3}$ of $n$; (3) the number that is $1$ less than $2$ times $x$; (4) the quotient of the cube of $a$ divided by $b$.
 
 ### Solution to Problem 1
 
-By Rules for Multiplication of Rational Numbers.
+By Forming Algebraic Expressions.
 
-(1) $56$; (2) $-60$; (3) $-1.16$; (4) $-6.1$; (5) $-0.1$; (6) $6$. $\blacksquare$
+(1) $2m$; (2) $\frac{2}{3}n$; (3) $2x-1$; (4) $\frac{a^{3}}{b}$. $\blacksquare$
 
 ## Problem 2
 
-(Exercise 2.2, Review and Consolidation, Problem 2) Compute:
+(Exercise 3.1, Review and Consolidation, Problem 2) State the meaning of the following algebraic expressions:
 
-(1) $14\times\left(-\frac{8}{9}\right)$; (2) $\left(-\frac{5}{6}\right)\times\left(-\frac{3}{10}\right)$;
-
-(3) $\left(-3\frac{4}{15}\right)\times 25$; (4) $\left(-0.3\right)\times\left(-\frac{10}{7}\right)$.
+(1) $3x+6$; (2) $5\left(m-2\right)$; (3) $a^{2}+b^{2}$; (4) $\frac{n+1}{n-1}$.
 
 ### Solution to Problem 2
 
-By Rules for Multiplication of Rational Numbers.
+By Algebraic Expressions.
 
-(1) $-\frac{112}{9}$; (2) $\frac{1}{4}$; (3) $-\frac{245}{3}$; (4) $\frac{3}{7}$. $\blacksquare$
+(1) $3x+6$ means the sum of $3$ times $x$ and $6$.
+
+(2) $5\left(m-2\right)$ means $5$ times the difference between $m$ and $2$.
+
+(3) $a^{2}+b^{2}$ means the sum of the square of $a$ and the square of $b$.
+
+(4) $\frac{n+1}{n-1}$ means the quotient of the sum of $n$ and $1$ divided by the difference between $n$ and $1$. $\blacksquare$
 
 ## Problem 3
 
-(Exercise 2.2, Review and Consolidation, Problem 3) Write down the reciprocal of each of the following:
+(Exercise 3.1, Review and Consolidation, Problem 3) Express in algebraic expressions:
 
-(1) $-15$; (2) $-\frac{5}{9}$; (3) $-0.25$; (4) $0.17$; (5) $4\frac{1}{4}$; (6) $-5\frac{2}{5}$.
+(1) The surface area of a cube with edge length $a$.
+
+(2) The Hua Luogeng Memorial Hall has cumulatively received $a$ ten thousand visitors so far, and is expected to receive an average of $b$ ten thousand visitors per year in the future. What is the total cumulative number of visitors after $c$ years, in ten thousand?
+
+(3) The interest rate for a one-year fixed deposit at a certain bank is $1.5\%$. If $a$ yuan is deposited, how much interest is received after one year? What is the sum of principal and interest?
+
+(4) The distance between Location A and Location B is $s\ \text{km}$. Li Ming originally planned to ride a bicycle from Location A to Location B, which would take $t\ \text{h}$; he later switched to taking a bus and arrived $1\ \text{h}$ earlier. What is the speed of the bus?
 
 ### Solution to Problem 3
 
-By Reciprocal.
+By Forming Algebraic Expressions.
 
-(1) $-\frac{1}{15}$; (2) $-\frac{9}{5}$; (3) $-4$; (4) $\frac{100}{17}$; (5) $\frac{4}{17}$; (6) $-\frac{5}{27}$. $\blacksquare$
+(1) A cube has $6$ faces, each of area $a^{2}$, so the surface area is $6a^{2}$.
+
+(2) In $c$ years, $bc$ ten thousand new visitors are added, so the cumulative total is $\left(a+bc\right)$ ten thousand people.
+
+(3) Interest $=a\times 1.5\%=1.5\%a$ yuan; principal plus interest $=a+1.5\%a=\left(1+1.5\%\right)a$ yuan.
+
+(4) The bus takes $\left(t-1\right)\ \text{h}$, and its speed $=\frac{s}{t-1}\ \text{km/h}$. $\blacksquare$
 
 ## Problem 4
 
-(Exercise 2.2, Review and Consolidation, Problem 4) Compute:
+(Exercise 3.1, Review and Consolidation, Problem 4) Determine whether the two quantities in each of the following are in an inverse proportion relationship, and give the reason:
 
-(1) $\left(-8\frac{2}{5}\right)\times 1.25\times\left(-8\right)$;
+(1) $200$ students participate in a formation drill, arranged with an equal number of people per row; the number of people per row and the number of rows;
 
-(2) $\left(-10\right)\times\left(-8.24\right)\times\left(-0.1\right)$;
+(2) The area of a triangle is $6\ \text{cm}^{2}$; the length of one side and the altitude on that side;
 
-(3) $\left(\frac{7}{9}-\frac{5}{6}+\frac{3}{4}-\frac{7}{18}\right)\times 36$;
-
-(4) $-\frac{3}{4}\times\left(8-1\frac{1}{3}-0.04\right)$.
+(3) Zhang Hua can make $120$ small red flowers per hour; the number of small red flowers she makes and the time spent making them.
 
 ### Solution to Problem 4
 
-By Distributive Law and Associative Law of Multiplication.
+By Quantities in Inverse Proportion.
 
-(1) The original expression $=\left(-\frac{42}{5}\right)\times\frac{5}{4}\times\left(-8\right)=84$.
+(1) Number per row $\times$ number of rows $=200$ (constant), so the number of people per row and the number of rows are in an inverse proportion relationship.
 
-(2) The original expression $=-8.24$.
+(2) Triangle area $=\frac{1}{2}\times$ base $\times$ height; since the area is $6$, we have base $\times$ height $=12$ (constant), so the length of that side and the altitude on that side are in an inverse proportion relationship.
 
-(3) The original expression $=28-30+27-14=11$.
-
-(4) The original expression $=-6+1+0.03=-4.97$. $\blacksquare$
+(3) Number of small red flowers $=$ $120$ per hour $\times$ time, that is, the ratio of the two is constant; this is a direct proportion relationship, not an inverse proportion relationship. $\blacksquare$
 
 ## Problem 5
 
-(Exercise 2.2, Review and Consolidation, Problem 5) Compute:
+(Exercise 3.1, Review and Consolidation, Problem 5) A candy factory produces a batch of fruit candies. If these fruit candies are evenly packed into a number of bags, the number of candies per bag and the total number of bags are shown in the table below.
 
-(1) $\left(-2\right)\times 3\times\left(-4\right)$; (2) $\left(-6\right)\times\left(-5\right)\times\left(-7\right)$;
+Number of candies per bag: $10$, $12$, $18$, $20$, $24$. Total number of bags: $360$, $300$, $200$, $180$, $150$.
 
-(3) $\left(-6\right)\times\left(-0.25\right)\times\frac{11}{14}$; (4) $\left(-17\right)\times\left(-49\right)\times 0\times 13$.
+(1) How many fruit candies are there in this batch? (2) How does the total number of bags change as the number of candies per bag changes? (3) Let $n$ denote the total number of bags and $m$ the number of candies per bag. Express the relationship between $n$ and $m$ as a formula. What kind of proportion relationship is there between $n$ and $m$?
 
 ### Solution to Problem 5
 
-By Sign Rules for Multiplying Several Rational Numbers.
+By Quantities in Inverse Proportion.
 
-(1) Two negative factors, product positive, $24$. (2) Three negative factors, product negative, $-210$. (3) Two negative factors, product positive, $\frac{33}{28}$. (4) Contains the factor $0$, product is $0$. $\blacksquare$
+(1) Since $10\times 360=12\times 300=18\times 200=20\times 180=24\times 150=3600$, the batch of fruit candies totals $3600$ candies.
+
+(2) The larger the number of candies per bag, the smaller the total number of bags.
+
+(3) Since $mn=3600$, we have $n=\frac{3600}{m}$. By Quantities in Inverse Proportion, the product of $n$ and $m$ is constant, so $n$ and $m$ are in an inverse proportion relationship. $\blacksquare$
 
 ## Problem 6
 
-(Exercise 2.2, Review and Consolidation, Problem 6) Compute:
-
-(1) $16\div\left(-3\right)$; (2) $\left(-91\right)\div 13$; (3) $\left(-56\right)\div\left(-14\right)$;
-
-(4) $\frac{4}{5}\div\left(-1\right)$; (5) $\left(-16\right)\div\left(-48\right)$; (6) $\left(-0.25\right)\div\frac{3}{8}$.
+(Exercise 3.1, Comprehensive Application, Problem 6) (1) As shown in the figure, a hand-made beading work is strung from $5$ red beads and $5$ black beads. Red beads cost $a$ yuan each, and black beads cost $b$ yuan each. How much does it cost to buy all these beads? (2) Workshops A and B produce the same chemical product. Workshop A produces $a\ \text{t}$ per day, and Workshop B produces $b\ \text{t}$ per day. If both workshops produce for $5$ days, how many tons of chemical product are produced in total?
 
 ### Solution to Problem 6
 
-By Rules for Division of Rational Numbers.
+By Forming Algebraic Expressions.
 
-(1) $-\frac{16}{3}$; (2) $-7$; (3) $4$; (4) $-\frac{4}{5}$; (5) $\frac{1}{3}$; (6) $-\frac{2}{3}$. $\blacksquare$
+(1) The red beads cost $5a$ yuan, and the black beads cost $5b$ yuan, for a total cost of $\left(5a+5b\right)$ yuan.
+
+(2) The two workshops together produce $\left(a+b\right)\ \text{t}$ per day, and in $5$ days produce $5\left(a+b\right)\ \text{t}$ in total. $\blacksquare$
 
 ## Problem 7
 
-(Exercise 2.2, Review and Consolidation, Problem 7) Fill in the blanks.
+(Exercise 3.1, Comprehensive Application, Problem 7) State what is different in the meaning of each of the following pairs of algebraic expressions, and give examples of the quantitative relationships in practical problems that they represent:
 
-$1\times\left(-5\right)=\;\_\_\;$; $1\div\left(-5\right)=\;\_\_\;$; $1+\left(-5\right)=\;\_\_\;$; $1-\left(-5\right)=\;\_\_\;$;
+(1) $2m-1$ and $2\left(m-1\right)$;
 
-$\left(-1\right)\times\left(-5\right)=\;\_\_\;$; $\left(-1\right)\div\left(-5\right)=\;\_\_\;$; $\left(-1\right)+\left(-5\right)=\;\_\_\;$; $\left(-1\right)-\left(-5\right)=\;\_\_\;$.
+(2) $\frac{1}{2}a$ and $\frac{1}{2}+a$.
 
 ### Solution to Problem 7
 
-By Rules for Multiplication of Rational Numbers and Rules for Division of Rational Numbers.
+By Algebraic Expressions.
 
-In turn: $-5$; $-\frac{1}{5}$; $-4$; $6$; $5$; $\frac{1}{5}$; $-6$; $4$. $\blacksquare$
+(1) $2m-1$ is $2$ times $m$ minus $1$; $2\left(m-1\right)$ is $2$ times the difference between $m$ and $1$. Example: if $m$ is a certain number, $2m-1$ is $1$ less than twice it; $2\left(m-1\right)$ first subtracts and then multiplies by $2$.
+
+(2) $\frac{1}{2}a$ is half of $a$; $\frac{1}{2}+a$ is the sum of $a$ and $\frac{1}{2}$. Example: $\frac{1}{2}a$ represents half of $a$ yuan, and $\frac{1}{2}+a$ represents the quantity that is $\frac{1}{2}$ more than $a$. $\blacksquare$
 
 ## Problem 8
 
-(Exercise 2.2, Review and Consolidation, Problem 8) Simplify:
+(Exercise 3.1, Comprehensive Application, Problem 8) Observe a sequence of numbers: $5$, $10$, $15$, $20$, $25$, $\cdots$.
 
-(1) $\frac{-21}{7}$; (2) $\frac{3}{-36}$; (3) $\frac{-54}{-8}$; (4) $\frac{-6}{-0.3}$.
+(1) What pattern do you think this sequence might follow? (2) According to the pattern, express the $n$-th number in an algebraic expression.
 
 ### Solution to Problem 8
 
-By Rules for Division of Rational Numbers.
+By Forming Algebraic Expressions.
 
-(1) $-3$; (2) $-\frac{1}{12}$; (3) $\frac{27}{4}$; (4) $20$. $\blacksquare$
+(1) This sequence is in turn the $1$-fold, $2$-fold, $3$-fold, $4$-fold, and $5$-fold of $5$, that is, each number is $5$ greater than the previous one.
 
-## Problem 9
-
-(Exercise 2.2, Review and Consolidation, Problem 9) Compute:
-
-(1) $0.1\div\left(-0.001\right)\div\left(-1\right)$;
-
-(2) $\left(-\frac{3}{4}\right)\times\left(-1\frac{1}{2}\right)\div\left(-2\frac{1}{4}\right)$;
-
-(3) $\left(-7\right)\times\left(-\frac{5}{6}\right)\times 0\div\left(-\frac{1}{3}\right)$;
-
-(4) $\left(-9\right)\times\left(-11\right)\div 3\div\left(-3\right)$.
-
-### Solution to Problem 9
-
-By Rules for Division of Rational Numbers.
-
-(1) The original expression $=-100\div\left(-1\right)=100$.
-
-(2) The original expression $=\frac{9}{8}\times\left(-\frac{4}{9}\right)=-\frac{1}{2}$.
-
-(3) Contains the factor $0$, so the original expression $=0$.
-
-(4) The original expression $=99\div 3\div\left(-3\right)=33\div\left(-3\right)=-11$. $\blacksquare$
-
-## Problem 10
-
-(Exercise 2.2, Comprehensive Application, Problem 10) Compute:
-
-(1) $\frac{2}{3}\times\left(-5\right)-\left(-3\right)\div\frac{3}{128}$;
-
-(2) $\left(-7\right)\times\left(-3\right)\times\left(-0.5\right)+\left(-12\right)\times\left(-2.6\right)$;
-
-(3) $\left(1\frac{3}{4}-\frac{7}{8}-\frac{7}{12}\right)\div\left(-\frac{7}{8}\right)+\left(-\frac{7}{8}\right)\div\left(1\frac{3}{4}-\frac{7}{8}-\frac{7}{12}\right)$.
-
-### Solution to Problem 10
-
-By Rules for Division of Rational Numbers and Rules for Multiplication of Rational Numbers.
-
-(1) The original expression $=-\frac{10}{3}+3\times\frac{128}{3}=-\frac{10}{3}+128=\frac{374}{3}$.
-
-(2) The original expression $=-10.5+31.2=20.7$.
-
-(3) Let $A=1\frac{3}{4}-\frac{7}{8}-\frac{7}{12}=\frac{7}{4}-\frac{7}{8}-\frac{7}{12}=\frac{7}{24}$. Then $A\div\left(-\frac{7}{8}\right)=\frac{7}{24}\times\left(-\frac{8}{7}\right)=-\frac{1}{3}$, and $\left(-\frac{7}{8}\right)\div A=\left(-\frac{7}{8}\right)\times\frac{24}{7}=-3$. Hence the original expression $=-\frac{1}{3}+\left(-3\right)=-\frac{10}{3}$. $\blacksquare$
-
-## Problem 11
-
-(Exercise 2.2, Comprehensive Application, Problem 12) Taking profit as a positive number, fill in the blanks with a positive or negative number:
-
-(1) The small store profits $250$ yuan per day on average; the profit over one month (counting $30$ days) is $\;\_\_\;$ yuan;
-
-(2) The small store's profit over one week is $1400$ yuan; the average daily profit is $\;\_\_\;$ yuan;
-
-(3) The small store loses a total of $840$ yuan over one week; the average daily profit is $\;\_\_\;$ yuan.
-
-### Solution to Problem 11
-
-By Rules for Multiplication of Rational Numbers and Rules for Division of Rational Numbers.
-
-(1) $250\times 30=7500$, fill in $7500$.
-
-(2) $1400\div 7=200$, fill in $200$.
-
-(3) Loss is recorded as negative, $\left(-840\right)\div 7=-120$, fill in $-120$. $\blacksquare$
-
-## Problem 12
-
-(Exercise 2.2, Comprehensive Application, Problem 13) A helicopter starts from an altitude of $450\ \text{m}$, first rises vertically at a speed of $4\ \text{m/s}$ for $60\ \text{s}$, and then descends vertically at a speed of $5\ \text{m/s}$ for $120\ \text{s}$. What is the altitude of the helicopter at this point?
-
-### Solution to Problem 12
-
-By Rules for Multiplication of Rational Numbers, rising is positive and descending is negative.
-
-$$450+4\times 60-5\times 120=450+240-600=90.$$
-
-Hence the altitude of the helicopter at this point is $90\ \text{m}$. $\blacksquare$
-
-## Problem 13
-
-(Exercise 2.2, Extension and Exploration, Problem 14) Compute $2\times 1$, $2\times\frac{1}{2}$, $2\times\left(-1\right)$, $2\times\left(-\frac{1}{2}\right)$. In connection with such concrete multiplications, do you think a nonzero rational number must be less than its $2$ times? Why?
-
-### Solution to Problem 13
-
-By Rules for Multiplication of Rational Numbers.
-
-$$2\times 1=2,\quad 2\times\frac{1}{2}=1,\quad 2\times\left(-1\right)=-2,\quad 2\times\left(-\frac{1}{2}\right)=-1.$$
-
-A nonzero rational number is not necessarily less than its $2$ times. When the number is positive, it is less than its $2$ times; when the number is negative, for instance $-1< 2$ does not hold, because $2\times\left(-1\right)=-2< -1$, that is, the $2$ times of a negative number is smaller than the number itself. $\blacksquare$
-
-## Problem 14
-
-(Exercise 2.2, Extension and Exploration, Problem 15) Using the distributive law one obtains
-
-$$-2\times 6+3\times 6=\left(-2+3\right)\times 6,\quad -2\times\left(-5\right)+3\times\left(-5\right)=\left(-2+3\right)\times\left(-5\right).$$
-
-If $a$ denotes any number, then using the distributive law, what is $-2a+3a$ equal to?
-
-### Solution to Problem 14
-
-By Distributive Law, use the distributive law in reverse.
-
-$$-2a+3a=\left(-2+3\right)a=a.$$
-
-Hence $-2a+3a=a$. $\blacksquare$
-
-## Problem 15
-
-(Exercise 2.2, Extension and Exploration, Problem 16) Compute $\left(-4\right)\div 2$, $4\div\left(-2\right)$, $\left(-4\right)\div\left(-2\right)$. In connection with such concrete divisions, do you think the following formulas hold ($a$, $b$ are rational numbers and $b\ne 0$)? What rule can be summed up from them?
-
-$$\frac{-a}{b}=\frac{a}{-b}=-\frac{a}{b};\quad \frac{-a}{-b}=\frac{a}{b}.$$
-
-### Solution to Problem 15
-
-By Rules for Division of Rational Numbers.
-
-$$\left(-4\right)\div 2=-2,\quad 4\div\left(-2\right)=-2,\quad \left(-4\right)\div\left(-2\right)=2.$$
-
-From $\left(-4\right)\div 2=4\div\left(-2\right)=-2$, it follows that $\frac{-a}{b}=\frac{a}{-b}=-\frac{a}{b}$ holds; from $\left(-4\right)\div\left(-2\right)=2=4\div 2$, it follows that $\frac{-a}{-b}=\frac{a}{b}$ holds. The rule: among the three signs of a fraction — numerator, denominator, and fraction bar — changing any two of them leaves the value of the fraction unchanged. $\blacksquare$
-
-## Inquiry and Discovery 1
-
-(Inquiry and Discovery, Viewing the Rules for Multiplication of Rational Numbers from the Perspective of Extending the Number System) Reading material: From the perspective of extending the number system while preserving the consistency of the operational laws, the distributive law yields $1\times\left(-1\right)=-1$, $0\times\left(-1\right)=0$, $\left(-1\right)\times\left(-1\right)=1$.
-
-### Solution to Inquiry and Discovery 1
-
-By Distributive Law.
-
-For $1\times\left(-1\right)$, if the distributive law holds, then $1\times\left(-1\right)+1\times 1=1\times\left[\left(-1\right)+1\right]=1\times 0=0$, and hence $1\times\left(-1\right)=-\left(1\times 1\right)=-1$.
-
-For $0\times\left(-1\right)$, similarly $0\times\left(-1\right)+0\times 1=0\times 0=0$, so $0\times\left(-1\right)=0$.
-
-For $\left(-1\right)\times\left(-1\right)$, $\left(-1\right)\times\left(-1\right)+1\times\left(-1\right)=\left[\left(-1\right)+1\right]\times\left(-1\right)=0$, so $\left(-1\right)\times\left(-1\right)=-\left[1\times\left(-1\right)\right]=-\left(-1\right)=1$.
-
-This shows that, in order to preserve the consistency of the operational laws, the rule "like signs give positive and opposite signs give negative" is reasonable. $\blacksquare$
+(2) The $n$-th number is $5n$. $\blacksquare$

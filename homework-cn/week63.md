@@ -2,328 +2,494 @@
 
 ## 练习一
 
-(练习 13.3 第 1 题) 如图, 从 $A$ 处观测 $C$ 处的仰角 $\angle CAD=30^\circ$, 从 $B$ 处观测 $C$ 处的仰角 $\angle CBD=45^\circ$. 从 $C$ 处观测 $A$, $B$ 两处的视角 $\angle ACB$ 是多少度?
+(练习 29.2 第 3 题) 如图是一个隧道的横截面, 它的形状是以点 $O$ 为圆心的圆的一部分. 如果 $M$ 是 $\odot O$ 中弦 $CD$ 的中点, $EM$ 经过圆心 $O$ 交 $\odot O$ 于点 $E$, 且 $CD=4\,\text{m}$, $EM=6\,\text{m}$. 求 $\odot O$ 的半径长.
+
+图为隧道横截面: 上部是一段以 $O$ 为圆心的圆弧, 下部为水平的弦 $CD$, $M$ 为弦 $CD$ 的中点, $EM$ 为过圆心 $O$ 的竖直线段, 上端 $E$ 在圆弧最高点, $M$ 在 $CD$ 上, $EM$ 垂直于 $CD$. 
 
 ### 解答 练习一
 
-由外角与不相邻内角的关系, $\angle CBD$ 是 $\triangle ABC$ 在点 $B$ 处的外角, 它等于不相邻的两个内角 $\angle CAD$ 与 $\angle ACB$ 的和.
+由垂径定理, $EM\perp CD$, $M$ 为垂足.
+
+设半径为 $R$, 则 $OC=R$, $OM=EM-R=6-R$, $CM=\frac12 CD=2$. 在 $\text{Rt}\triangle OMC$ 中,
 
 $$
-\angle CBD=\angle CAD+\angle ACB.
+R^2=2^2+\left(6-R\right)^2=4+36-12R+R^2.
 $$
 
-代入 $\angle CBD=45^\circ$, $\angle CAD=30^\circ$, 得
-
-$$
-\angle ACB=45^\circ-30^\circ=15^\circ.
-$$
-
-$\blacksquare$
+化简得 $12R=40$, 故 $R=\frac{10}{3}\,\text{m}$. $\blacksquare$
 
 ## 练习二
 
-(练习 13.3 第 2 题) 如图, 在 $\triangle ABC$ 中, $\angle A=40^\circ$, 求 $\angle B+\angle C+\angle ADE+\angle AED$ 的度数.
+(练习 29.2 第 1 题) 如图, $AB$, $CD$ 是 $\odot O$ 的两条弦.
+
+(1) 如果 $AB=CD$, 那么 $\_\_\_$;
+
+(2) 如果 $\overset{\frown}{AB}=\overset{\frown}{CD}$, 那么 $\_\_\_$;
+
+(3) 如果 $\angle AOB=\angle COD$, 那么 $\_\_\_$;
+
+(4) 如果 $AB=CD$, $OE\perp AB$, $OF\perp CD$, 垂足分别为 $E$, $F$, $OE$ 与 $OF$ 相等吗? 为什么?
 
 ### 解答 练习二
 
-由三角形内角和定理, 在 $\triangle ABC$ 中,
+由圆心角, 弧, 弦的关系.
 
-$$
-\angle B+\angle C=180^\circ-\angle A=180^\circ-40^\circ=140^\circ.
-$$
+(1) $\angle AOB=\angle COD$, $\overset{\frown}{AB}=\overset{\frown}{CD}$.
 
-在 $\triangle ADE$ 中, 同理 $\angle DAE$ 与 $\angle A$ 为同一角, 故
+(2) $AB=CD$, $\angle AOB=\angle COD$.
 
-$$
-\angle ADE+\angle AED=180^\circ-\angle A=140^\circ.
-$$
+(3) $AB=CD$, $\overset{\frown}{AB}=\overset{\frown}{CD}$.
 
-因此
-
-$$
-\angle B+\angle C+\angle ADE+\angle AED=140^\circ+140^\circ=280^\circ.
-$$
-
-$\blacksquare$
+(4) $OE=OF$. 由 $AB=CD$, 在 $\triangle OAB$ 与 $\triangle OCD$ 中 $OA=OB=OC=OD$, 两三角形全等, 且 $OE$, $OF$ 为对应边上的高, 故 $OE=OF$. $\blacksquare$
 
 ## 练习三
 
-(练习 13.3 第 1 题) 如图, 在 $\triangle ABC$ 中, $\angle ACB=90^\circ$, $CD\perp AB$, 垂足为 $D$. $\angle ACD$ 与 $\angle B$ 有什么关系? 为什么?
+(练习 29.2 第 2 题) 如图, $AB$ 是 $\odot O$ 的直径, $\overset{\frown}{BC}=\overset{\frown}{CD}=\overset{\frown}{DE}$, $\angle COD=35^\circ$, 求 $\angle AOE$ 的度数.
 
 ### 解答 练习三
 
-$\angle ACD=\angle B$. 理由如下.
+由圆心角, 弧, 弦的关系.
 
-由直角三角形的锐角互余, 在 $\text{Rt}\triangle ABC$ 中, $\angle A+\angle B=90^\circ$. 又在 $\text{Rt}\triangle ACD$ 中, $\angle A+\angle ACD=90^\circ$.
+$\overset{\frown}{BC}=\overset{\frown}{CD}=\overset{\frown}{DE}$, 故 $\angle BOC=\angle COD=\angle DOE=35^\circ$. 三段圆心角共 $3\times35^\circ=105^\circ$. $AB$ 为直径, $\angle AOB=180^\circ$, 故
 
-$\angle ACD$ 与 $\angle B$ 都是 $\angle A$ 的余角, 故 $\angle ACD=\angle B$. $\blacksquare$
+$$
+\angle AOE=180^\circ-105^\circ=75^\circ.
+$$
+
+$\blacksquare$
 
 ## 练习四
 
-(练习 13.3 第 2 题) 如图, 在 $\triangle ABC$ 中, $\angle C=90^\circ$, 点 $D$, $E$ 分别在边 $AB$, $AC$ 上, 且 $\angle 1=\angle 2$, $\triangle ADE$ 是直角三角形吗? 为什么?
+(练习 29.2 第 3 题) 如图, $OA$, $OB$, $OC$ 是 $\odot O$ 的三条半径, $\overset{\frown}{AC}=\overset{\frown}{BC}$, $M$, $N$ 分别是 $OA$, $OB$ 的中点. 求证 $MC=NC$.
 
 ### 解答 练习四
 
-$\triangle ADE$ 是直角三角形. 理由如下.
+由圆心角, 弧, 弦的关系.
 
-由直角三角形的锐角互余, 在 $\text{Rt}\triangle ABC$ 中, $\angle A+\angle B=90^\circ$. 由 $\angle 1=\angle 2$ 且 $\angle 2$ 与 $\angle B$ 为同一组对应角, 得 $\angle ADE=\angle B$.
-
-故 $\angle A+\angle ADE=\angle A+\angle B=90^\circ$, 从而在 $\triangle ADE$ 中, $\angle AED=180^\circ-\left(\angle A+\angle ADE\right)=90^\circ$. 所以 $\triangle ADE$ 是直角三角形. $\blacksquare$
+$\overset{\frown}{AC}=\overset{\frown}{BC}$, 故 $\angle AOC=\angle BOC$. $M$, $N$ 分别为 $OA$, $OB$ 中点, 故 $OM=\frac12 OA=\frac12 OB=ON$. 在 $\triangle OMC$ 与 $\triangle ONC$ 中, $OM=ON$, $\angle MOC=\angle NOC$, $OC$ 公共, 故 $\triangle OMC\cong\triangle ONC$, 从而 $MC=NC$. $\blacksquare$
 
 ## 练习五
 
-(练习 13.3 第 1 题) 说出下列各图形中 $\angle 1$ 和 $\angle 2$ 的度数.
-
-图中从左到右, 从上到下排列六个三角形: 图 (1) 中已知两内角分别为 $80^\circ$ 和 $60^\circ$, $\angle 1$ 为第三个内角, $\angle 2$ 为其中一个内角的外角; 图 (2) 中已知两角分别为 $30^\circ$ 和 $40^\circ$, $\angle 1$ 为第三个内角, $\angle 2$ 为其外角; 图 (3) 为直角三角形, 已知一锐角为 $40^\circ$, $\angle 1$ 为另一锐角, $\angle 2$ 为该 $40^\circ$ 锐角的外角; 图 (4) 中已知 $\angle A=70^\circ$, $\angle B=40^\circ$, $\angle 1$ 为 $\angle A$ 的外角, $\angle 2$ 为第三个内角; 图 (5) 为等边三角形, 从 $AB$ 边上一点连至顶点 $C$, 已知 $\angle 2=20^\circ$, $\angle 1$ 为小三角形中的一个角; 图 (6) 中两直线相交, 下方直角三角形含 $30^\circ$ 锐角, $\angle 1$ 与 $\angle 2$ 为交点处相应的对顶角.
+(练习 29.2 第 1 题) 判断下列图形中的角是不是圆周角, 并说明理由.
 
 ### 解答 练习五
 
-由三角形内角和定理 及外角与不相邻内角的关系.
+由圆周角.
 
-图 (1): 两内角为 $80^\circ$, $60^\circ$, 故 $\angle 1=180^\circ-80^\circ-60^\circ=40^\circ$, $\angle 2=80^\circ+60^\circ=140^\circ$.
+圆周角必须满足顶点在圆上且两边都与圆相交. 顶点不在圆上者不是; 只有一边与圆相交者也不是. $\blacksquare$
 
-图 (2): 两底角为 $30^\circ$, $40^\circ$, 故 $\angle 1=180^\circ-30^\circ-40^\circ=110^\circ$, $\angle 2=30^\circ+40^\circ=70^\circ$.
+## 练习六
 
-图 (3): 直角三角形一锐角为 $40^\circ$, 故 $\angle 1=90^\circ-40^\circ=50^\circ$, $\angle 2=180^\circ-40^\circ=140^\circ$.
+(练习 29.2 第 2 题) 如图, $OA$, $OB$, $OC$ 都是 $\odot O$ 的半径, $\angle AOB=2\angle BOC$, 求证 $\angle ACB=2\angle BAC$.
 
-图 (4): $\angle A=70^\circ$, $\angle B=40^\circ$, 故 $\angle 2=180^\circ-70^\circ-40^\circ=70^\circ$, $\angle 1=70^\circ+40^\circ=110^\circ$.
+### 解答 练习六
 
-图 (5): 大三角形 $\angle A=\angle B=\angle C=60^\circ$, 设从 $AB$ 上一点连至 $C$, 已知 $\angle 2=20^\circ$, 则在相应小三角形中算得 $\angle 1=80^\circ$.
+由圆周角定理.
 
-图 (6): 下方直角三角形中 $30^\circ$ 所对的另一锐角为 $60^\circ$, 由对顶角关系得 $\angle 1=60^\circ$, $\angle 2=30^\circ$. $\blacksquare$
+$\angle ACB$ 是 $\overset{\frown}{AB}$ 所对的圆周角, 故 $\angle ACB=\frac12\angle AOB$. $\angle BAC$ 是 $\overset{\frown}{BC}$ 所对的圆周角, 故 $\angle BAC=\frac12\angle BOC$. 由 $\angle AOB=2\angle BOC$, 得
+
+$$
+\angle ACB=\frac12\cdot 2\angle BOC=2\cdot\frac12\angle BOC=2\angle BAC.
+$$
+
+$\blacksquare$
+
+## 练习七
+
+(练习 29.2 第 3 题) 如图, 你能用三角尺确定一张圆形纸片的圆心吗? 有几种方法?
+
+### 解答 练习七
+
+由圆周角推论.
+
+方法一: 用三角尺的直角顶点在圆上不同两点画两条直角边与圆相交的弦, 两条直角边所对弦为直径, 两直径交点即圆心.
+
+方法二: 将三角尺直角顶点放在圆上, 两直角边与圆交于两点, 连此两点即为直径; 换位置再画一条直径, 交点即圆心. $\blacksquare$
+
+## 练习八
+
+(练习 29.2 第 1 题) 如图, 圆内接四边形 $ABCD$ 的对角线 $AC$, $BD$ 把它的四个内角分成八个角, 这八个角中哪些相等? 为什么?
+
+### 解答 练习八
+
+由圆周角定理.
+
+同弧所对的圆周角相等. $\angle BAC$ 与 $\angle BDC$ 都对 $\overset{\frown}{BC}$, 故相等; $\angle CBD$ 与 $\angle CAD$ 都对 $\overset{\frown}{CD}$, 故相等; $\angle ACD$ 与 $\angle ABD$ 都对 $\overset{\frown}{AD}$, 故相等; $\angle ADB$ 与 $\angle ACB$ 都对 $\overset{\frown}{AB}$, 故相等. $\blacksquare$
+
+## 练习九
+
+(练习 29.2 第 2 题) 如图, 四边形 $ABCD$ 是 $\odot O$ 的内接四边形, $E$ 为 $CB$ 延长线上一点. 若 $\angle D=110^\circ$, 求 $\angle ABE$ 的度数.
+
+### 解答 练习九
+
+由圆内接四边形的性质.
+
+圆内接四边形对角互补, $\angle ABC+\angle D=180^\circ$, 故 $\angle ABC=180^\circ-110^\circ=70^\circ$. 又 $E$ 在 $CB$ 延长线上, $\angle ABE+\angle ABC=180^\circ$, 故 $\angle ABE=110^\circ$. $\blacksquare$
+
+## 练习十
+
+(练习 29.2 第 3 题) 如图, 四边形 $ABCD$ 是 $\odot O$ 的内接四边形, 且 $AB=AD$. 若 $\angle C=78^\circ$, 求 $\angle ABD$ 的度数.
+
+### 解答 练习十
+
+由圆内接四边形的性质.
+
+$\angle A+\angle C=180^\circ$, 故 $\angle A=102^\circ$. 在 $\triangle ABD$ 中, $AB=AD$, 故
+
+$$
+\angle ABD=\angle ADB=\frac{180^\circ-102^\circ}{2}=39^\circ.
+$$
+
+$\blacksquare$
 
 ## 习题一
 
-(习题 13.3 复习巩固第 1 题) 求出下列各图形中 $x$ 的值.
+(习题 29.2 复习巩固第 1 题) 如图, 在半径为 $1$ 的 $\odot O$ 中, 弦 $AB$ 的长为 $1$.
 
-图中从左到右排列四个三角形: 图 (1) 中三内角分别为 $39^\circ$, $108^\circ$ 和 $x$; 图 (2) 中三个内角均为 $x$ (即 $3x$); 图 (3) 中两内角分别为 $72^\circ$ 和 $2x$; 图 (4) 中三内角分别为 $x$, $x-36^\circ$, $x+36^\circ$.
+(1) 求 $\angle AOB$ 的度数;
+
+(2) 求点 $O$ 到 $AB$ 的距离.
 
 ### 解答 习题一
 
-由三角形内角和定理, 三内角之和为 $180^\circ$.
+由垂径定理.
 
-图 (1): $x=180^\circ-39^\circ-108^\circ=33^\circ$.
+$OA=OB=1$, $AB=1$, 故 $\triangle OAB$ 为等边三角形, $\angle AOB=60^\circ$.
 
-图 (2): $3x=180^\circ$, 故 $x=60^\circ$.
-
-图 (3): $72^\circ+2x=180^\circ$, 故 $x=54^\circ$.
-
-图 (4): $x+\left(x-36^\circ\right)+\left(x+36^\circ\right)=3x=180^\circ$, 故 $x=60^\circ$. $\blacksquare$
+点 $O$ 到 $AB$ 的距离 $d=\sqrt{1^2-\left(1/2\right)^2}=\frac{\sqrt3}{2}$. $\blacksquare$
 
 ## 习题二
 
-(习题 13.3 复习巩固第 2 题)
-
-(1) 一个三角形最多有几个直角? 为什么?
-
-(2) 一个三角形最多有几个钝角? 为什么?
-
-(3) 直角三角形的外角可以是锐角吗? 为什么?
+(习题 29.2 复习巩固第 2 题) 如图, 在 $\odot O$ 中, $AB=AC$, $\angle C=75^\circ$, 求 $\angle A$ 的度数.
 
 ### 解答 习题二
 
-由三角形内角和定理, 三角形三内角之和为 $180^\circ$.
+$AB=AC$, $\triangle ABC$ 为等腰三角形, $\angle B=\angle C=75^\circ$, 故
 
-(1) 最多 $1$ 个直角. 若有两个直角, 其和已达 $180^\circ$, 第三个角只能为 $0^\circ$, 不能构成三角形.
+$$
+\angle A=180^\circ-75^\circ-75^\circ=30^\circ.
+$$
 
-(2) 最多 $1$ 个钝角. 若有两个钝角, 其和已超过 $180^\circ$, 与三内角和为 $180^\circ$ 矛盾.
-
-(3) 不可以. 直角三角形中直角的外角为 $90^\circ$, 两个锐角的外角分别为 $180^\circ$ 减去一个锐角, 必大于 $90^\circ$, 故其外角都不是锐角. $\blacksquare$
+$\blacksquare$
 
 ## 习题三
 
-(习题 13.3 复习巩固第 3 题) 在 $\triangle ABC$ 中, $\angle B$ 比 $\angle A$ 大 $10^\circ$, $\angle C$ 比 $\angle B$ 大 $10^\circ$. 求 $\triangle ABC$ 各内角的度数.
+(习题 29.2 复习巩固第 3 题) 如图, 在 $\odot O$ 中, $OA\perp BC$, $\angle AOB=50^\circ$, 求 $\angle ADC$ 的度数.
 
 ### 解答 习题三
 
-由三角形内角和定理, 设 $\angle A=x$, 则 $\angle B=x+10^\circ$, $\angle C=x+20^\circ$.
+由垂径定理 及圆周角定理.
+
+$OA\perp BC$, 故 $\overset{\frown}{AB}=\overset{\frown}{AC}$, $\angle AOB$ 对应 $\overset{\frown}{AB}$, $\angle ADC$ 是 $\overset{\frown}{AC}$ 所对的圆周角, 故
 
 $$
-x+\left(x+10^\circ\right)+\left(x+20^\circ\right)=180^\circ.
+\angle ADC=\frac12\angle AOB=25^\circ.
 $$
 
-解得 $3x=150^\circ$, 即 $x=50^\circ$. 故 $\angle A=50^\circ$, $\angle B=60^\circ$, $\angle C=70^\circ$. $\blacksquare$
+$\blacksquare$
 
 ## 习题四
 
-(习题 13.3 复习巩固第 4 题) 如图, 在 $\triangle ABC$ 中, $AD\perp BC$, 垂足为 $D$, $\angle 1=\angle 2$, $\angle C=65^\circ$. 求 $\angle BAC$ 的度数.
+(习题 29.2 复习巩固第 4 题) 如图, 用直角曲尺检查半圆形的工件, 哪个工件是合格的? 为什么?
 
 ### 解答 习题四
 
-在 $\text{Rt}\triangle ADC$ 中, 由直角三角形的锐角互余,
+由圆周角推论, 直径所对圆周角为直角.
 
-$$
-\angle DAC=90^\circ-\angle C=90^\circ-65^\circ=25^\circ.
-$$
-
-在 $\text{Rt}\triangle ADB$ 中, $\angle ADB=90^\circ$, 故 $\angle 1+\angle 2=90^\circ$. 由 $\angle 1=\angle 2$, 得 $\angle 1=45^\circ$.
-
-因此
-
-$$
-\angle BAC=\angle 1+\angle DAC=45^\circ+25^\circ=70^\circ.
-$$
-
-$\blacksquare$
+曲尺直角顶点靠在弧上时, 两边与直径两端对齐者为合格半圆形工件. $\blacksquare$
 
 ## 习题五
 
-(习题 13.3 综合运用第 5 题) 如图, $AB\parallel CD$, $\angle A=40^\circ$, $\angle D=45^\circ$. 求 $\angle 1$ 和 $\angle 2$ 的度数.
+(习题 29.2 复习巩固第 5 题) 求证: 圆内接平行四边形是矩形.
 
 ### 解答 习题五
 
-由 $AB\parallel CD$, 直线 $AC$ 截这组平行线所得内错角相等, 故 $\angle 1=\angle A=40^\circ$. 同理, 直线 $BD$ 截得 $\angle DBA=\angle D=45^\circ$.
+由圆内接四边形的性质.
 
-在 $\triangle AOB$ 中, 由三角形内角和定理,
-
-$$
-\angle 2=180^\circ-\angle A-\angle DBA=180^\circ-40^\circ-45^\circ=95^\circ.
-$$
-
-故 $\angle 1=40^\circ$, $\angle 2=95^\circ$. $\blacksquare$
+平行四边形对角相等, 圆内接四边形对角互补, 故每对角均为 $90^\circ$, 故为矩形. $\blacksquare$
 
 ## 习题六
 
-(习题 13.3 综合运用第 6 题) 如图, $AB\parallel CD$, $AE$ 与 $CD$ 相交于点 $O$, $\angle A=45^\circ$, $\angle C=\angle E$. 求 $\angle C$ 的度数.
+(习题 29.2 复习巩固第 6 题) $\odot O$ 的半径为 $13$, $AB$, $CD$ 是 $\odot O$ 的两条弦, $AB\parallel CD$, $AB=24$, $CD=10$. 求 $AB$ 和 $CD$ 之间的距离.
 
 ### 解答 习题六
 
-由 $AB\parallel CD$, 直线 $AE$ 截得内错角相等, 故 $\angle COE=\angle A=45^\circ$.
+由垂径定理.
 
-在 $\triangle COE$ 中, 由三角形内角和定理 及 $\angle C=\angle E$,
-
-$$
-2\angle C+45^\circ=180^\circ.
-$$
-
-解得 $\angle C=67.5^\circ$. $\blacksquare$
+圆心到 $AB$ 距离 $d_1=\sqrt{13^2-12^2}=5$; 到 $CD$ 距离 $d_2=\sqrt{13^2-5^2}=12$. 两弦在圆心同侧时距离为 $12-5=7$; 在异侧时为 $12+5=17$. $\blacksquare$
 
 ## 习题七
 
-(习题 13.3 综合运用第 7 题) 如图, $B$ 处在 $A$ 处的南偏西 $45^\circ$ 方向, $C$ 处在 $A$ 处的南偏东 $15^\circ$ 方向, $C$ 处在 $B$ 处的北偏东 $80^\circ$ 方向. 求 $\angle ACB$ 的度数.
+(习题 29.2 综合运用第 7 题) 如图, $AB$, $CD$ 是 $\odot O$ 的两条平行弦, $MN$ 是 $AB$ 的垂直平分线. 求证 $MN$ 垂直平分 $CD$.
 
 ### 解答 习题七
 
-在点 $A$ 处, 正南方向为基准, $B$ 在其西 $45^\circ$, $C$ 在其东 $15^\circ$, 故
+由垂径定理.
 
-$$
-\angle BAC=45^\circ+15^\circ=60^\circ.
-$$
-
-点 $A$ 与点 $B$ 的南北方向线互相平行, 由内错角相等, 从 $B$ 看 $A$ 为北偏东 $45^\circ$. 又 $C$ 在 $B$ 的北偏东 $80^\circ$, 故
-
-$$
-\angle ABC=80^\circ-45^\circ=35^\circ.
-$$
-
-由三角形内角和定理,
-
-$$
-\angle ACB=180^\circ-\angle BAC-\angle ABC=180^\circ-60^\circ-35^\circ=85^\circ.
-$$
-
-$\blacksquare$
+$MN$ 垂直平分 $AB$, 故 $MN$ 过圆心 $O$. 又 $AB\parallel CD$, 故 $MN\perp CD$, 由垂径定理 $MN$ 平分 $CD$. $\blacksquare$
 
 ## 习题八
 
-(习题 13.3 综合运用第 8 题) 如图, 在 $\triangle ABC$ 中, $D$ 是边 $AB$ 上一点, $E$ 是边 $AC$ 上一点, $BE$, $CD$ 相交于点 $F$, $\angle A=62^\circ$, $\angle ACD=35^\circ$, $\angle ABE=20^\circ$. 求 $\angle BDC$ 和 $\angle BFD$ 的度数.
+(习题 29.2 综合运用第 8 题) 如图, 一条公路的转弯处是一段圆弧 $\overset{\frown}{AB}$, 点 $O$ 是这段弧所在圆的圆心. $AB=300\,\text{m}$, $C$ 是 $\overset{\frown}{AB}$ 上一点, $OC\perp AB$, 垂足为 $D$, $CD=45\,\text{m}$. 求这段弯路所在圆的半径长.
 
 ### 解答 习题八
 
-由外角与不相邻内角的关系, $\angle BDC$ 是 $\triangle ADC$ 在点 $D$ 处的外角, 故
+由垂径定理.
+
+设半径为 $R$, $AD=150$, $OD=R-45$. 在 $\text{Rt}\triangle OAD$ 中,
 
 $$
-\angle BDC=\angle A+\angle ACD=62^\circ+35^\circ=97^\circ.
+R^2=150^2+\left(R-45\right)^2=22500+R^2-90R+2025.
 $$
 
-在 $\triangle BDF$ 中, $\angle BDF=\angle BDC=97^\circ$, $\angle DBF=\angle ABE=20^\circ$. 由三角形内角和定理,
-
-$$
-\angle BFD=180^\circ-\angle BDF-\angle DBF=180^\circ-97^\circ-20^\circ=63^\circ.
-$$
-
-$\blacksquare$
+化简得 $90R=24525$, $R=272.5\,\text{m}$. $\blacksquare$
 
 ## 习题九
 
-(习题 13.3 综合运用第 9 题) 如图, 在 $\triangle ABC$ 中, $\angle A=100^\circ$, $\angle 1=\angle 2$, $\angle 3=\angle 4$. 求 $x$ 的值.
+(习题 29.2 综合运用第 9 题) 如图, $A$, $B$ 是 $\odot O$ 上的两点, $\angle AOB=120^\circ$, $C$ 是 $\overset{\frown}{AB}$ 的中点. 求证四边形 $OACB$ 是菱形.
 
 ### 解答 习题九
 
-由三角形内角和定理,
+由圆心角, 弧, 弦的关系.
+
+$C$ 为 $\overset{\frown}{AB}$ 中点, 故 $\angle AOC=\angle COB=60^\circ$. $OA=OC$, $\triangle AOC$ 为等边三角形, $AC=OA$. 同理 $BC=OB$. 故 $OA=AC=CB=BO$, 四边形 $OACB$ 为菱形. $\blacksquare$
+
+## 习题十
+
+(习题 29.2 综合运用第 10 题) 如图, $A$, $P$, $B$, $C$ 是 $\odot O$ 上的四个点, $\angle APC=\angle CPB=60^\circ$. 判断 $\triangle ABC$ 的形状, 并证明你的结论.
+
+### 解答 习题十
+
+由圆周角定理.
+
+$\angle ABC=\angle APC=60^\circ$, $\angle BAC=\angle CPB=60^\circ$, 故 $\angle ACB=60^\circ$, $\triangle ABC$ 为等边三角形. $\blacksquare$
+
+## 习题十一
+
+(习题 29.2 综合运用第 11 题) 如图, $AD$, $BC$ 是 $\odot O$ 上的两条弦, $AD=BC$. 判断 $AB$ 和 $CD$ 的长是否相等, 并证明你的结论.
+
+### 解答 习题十一
+
+由圆心角, 弧, 弦的关系.
+
+$AD=BC$, 故 $\overset{\frown}{AD}=\overset{\frown}{BC}$. 两边同时加 $\overset{\frown}{AC}$, 得 $\overset{\frown}{ADC}=\overset{\frown}{BCD}$, 即 $\overset{\frown}{CD}=\overset{\frown}{AB}$, 故 $AB=CD$. $\blacksquare$
+
+## 习题十二
+
+(习题 29.2 综合运用第 12 题) 如图, $AB$, $CD$ 是 $\odot O$ 上的两条弦, $OM\perp AB$, $ON\perp CD$, 垂足分别为 $M$, $N$. 如果 $AB> CD$, $OM$ 和 $ON$ 的大小有什么关系? 为什么?
+
+### 解答 习题十二
+
+由垂径定理.
+
+设半径为 $R$, $OM=\sqrt{R^2-\left(AB/2\right)^2}$, $ON=\sqrt{R^2-\left(CD/2\right)^2}$. $AB> CD$ 时 $\left(AB/2\right)^2> \left(CD/2\right)^2$, 故 $OM< ON$. $\blacksquare$
+
+## 习题十三
+
+(习题 29.2 拓广探索第 13 题) 如图, 铁路 $MN$ 和公路 $PQ$ 在点 $O$ 处交会, $\angle QON=30^\circ$, 在点 $A$ 处有一栋居民楼, $AO=200\,\text{m}$. 如果火车行驶时周围 $200\,\text{m}$ 以内会受到噪声影响, 那么火车在铁路 $MN$ 上沿 $QN$ 方向行驶时, 居民楼是否会受到噪声影响? 如果火车行驶的速度为 $72\,\text{km/h}$, 居民楼受噪声影响的时间为多少秒?
+
+### 解答 习题十三
+
+由圆周角推论.
+
+过 $A$ 作 $AB\perp MN$ 于 $B$. 在 $\text{Rt}\triangle AOB$ 中, $\angle AOB=30^\circ$, $AO=200$, 故 $AB=AO\sin30^\circ=100< 200$, 居民楼会受到噪声影响.
+
+以 $A$ 为圆心, $200$ 为半径作圆, 交 $MN$ 于 $C$, $D$. $BC=\sqrt{200^2-100^2}=100\sqrt3$, $CD=200\sqrt3$. 车速 $72\,\text{km/h}=20\,\text{m/s}$, 故影响时间为
 
 $$
-\angle B+\angle C=180^\circ-\angle A=80^\circ.
-$$
-
-由 $\angle 1=\angle 2$, 得 $\angle B=2\angle 2$; 由 $\angle 3=\angle 4$, 得 $\angle C=2\angle 4$. 故
-
-$$
-2\angle 2+2\angle 4=80^\circ,\quad \angle 2+\angle 4=40^\circ.
-$$
-
-在含 $x$ 的三角形中,
-
-$$
-x=180^\circ-\left(\angle 2+\angle 4\right)=180^\circ-40^\circ=140^\circ.
+\frac{200\sqrt3}{20}=10\sqrt3\approx17.3\,\text{s}.
 $$
 
 $\blacksquare$
 
-## 习题十
+## 习题十四
 
-(习题 13.3 拓广探索第 10 题) 如图, $AB\parallel CD$, $\angle BAE=\angle DCE=45^\circ$. 填空.
+(习题 29.2 拓广探索第 14 题) 如图, 一个海港在 $\overset{\frown}{AB}$ 范围内是浅滩. 为了使深水船只不进入浅滩, 需要测量船所在位置与两个灯塔的视角 $\angle APB$, 并把它与已知的危险角 $\angle ACB$ 相比较, 航行中保持 $\angle APB< \angle ACB$. 你知道这样做的道理吗?
 
-### 解答 习题十
+### 解答 习题十四
 
-由 $AB\parallel CD$, 直线 $AE$, $CE$ 截出的同旁内角之和为 $180^\circ$, 故
+由圆周角定理.
 
-$$
-\angle 1+45^\circ+\angle 2+45^\circ=180^\circ.
-$$
+以 $AB$ 为弦作圆, $\angle ACB$ 是浅滩边界上的圆周角. 当船在圆外时, $\angle APB< \angle ACB$; 当船在圆内 (浅滩) 时, $\angle APB> \angle ACB$. 故保持 $\angle APB< \angle ACB$ 可使船在浅滩边界圆之外. $\blacksquare$
 
-从而
+## 练习十一
 
-$$
-\angle 1+\angle 2=180^\circ-90^\circ=90^\circ.
-$$
+(练习 29.3 第 1 题) 弧长相等的两段弧是等弧吗? 并说明理由.
 
-在 $\triangle AEC$ 中, 由三角形内角和定理, $\angle E=180^\circ-\left(\angle 1+\angle 2\right)=90^\circ$.
+### 解答 练习十一
 
-故依次填 $180^\circ$, $90^\circ$, $90^\circ$. $\blacksquare$
+由弧长公式.
 
-## 习题十一
+不一定. 等弧要求在同圆或等圆中能够重合, 弧长相等但所在圆半径不同时, 所对圆心角不同, 不能重合. $\blacksquare$
 
-(习题 13.3 拓广探索第 11 题) 如图, $CE$ 是 $\triangle ABC$ 的外角 $\angle ACD$ 的平分线, 且 $CE$ 交 $BA$ 的延长线于点 $E$. 求证 $\angle BAC=\angle B+2\angle E$.
+## 练习十二
 
-### 解答 习题十一
+(练习 29.3 第 2 题) 如图, 有一段弯道是圆弧形的, 弯道长是 $12\,\text{m}$, 弧所对的圆心角是 $81^\circ$, 这段圆弧所在圆的半径 $R$ 是多少米?
 
-由外角与不相邻内角的关系, $\angle BAC$ 是 $\triangle ACE$ 在点 $A$ 处的外角, 故
+### 解答 练习十二
+
+由弧长公式.
 
 $$
-\angle BAC=\angle ACE+\angle E.
+12=\frac{81\pi R}{180},\quad R=\frac{12\times180}{81\pi}=\frac{240}{9\pi}\approx8.5\,\text{m}.
 $$
 
-又 $\angle ACD$ 是 $\triangle ABC$ 的外角, 故
+$\blacksquare$
+
+## 练习十三
+
+(练习 29.3 第 3 题) 如图, $\triangle ABC$ 是边长为 $a$ 的等边三角形, $D$, $E$, $F$ 分别是 $BC$, $CA$, $AB$ 的中点, 以 $A$, $B$, $C$ 三点为圆心, $\frac{a}{2}$ 为半径作圆. 求图中阴影部分的面积.
+
+### 解答 练习十三
+
+由扇形面积公式.
+
+三个扇形圆心角均为 $60^\circ$, 半径为 $\frac{a}{2}$. 三个扇形面积之和为
 
 $$
-\angle ACD=\angle B+\angle BAC.
+3\cdot\frac{60\pi \left(a/2\right)^2}{360}=\frac{\pi a^2}{8}.
 $$
 
-由 $CE$ 平分 $\angle ACD$, 得 $\angle ACD=2\angle ACE$. 代入上式:
+等边三角形面积为 $\frac{\sqrt3}{4}a^2$, 故阴影面积为
 
 $$
-2\angle ACE=\angle B+\angle BAC.
+\frac{\sqrt3}{4}a^2-\frac{\pi a^2}{8}=\frac{a^2}{8}\left(2\sqrt3-\pi\right).
 $$
 
-将 $\angle ACE=\angle BAC-\angle E$ 代入:
+$\blacksquare$
+
+## 练习十四
+
+(练习 29.3 第 1 题) 圆锥的底面半径是 $6$, 母线长 $18$, 求它的侧面展开图的圆心角.
+
+### 解答 练习十四
+
+由圆锥的侧面积和全面积.
+
+底面周长为 $2\pi\cdot6=12\pi$, 即侧面展开扇形弧长. 扇形半径为母线 $18$, 由弧长公式 $12\pi=\frac{n\pi\cdot18}{180}$, 得 $n=120^\circ$. $\blacksquare$
+
+## 练习十五
+
+(练习 29.3 第 2 题) 如图, 圆锥形烟囱帽的底面圆的直径是 $80\,\text{cm}$, 母线长是 $50\,\text{cm}$, 制作 $100$ 个这样的烟囱帽至少需要多少平方米铁皮?
+
+### 解答 练习十五
+
+由圆锥的侧面积和全面积.
+
+底面半径 $r=40\,\text{cm}$, 一个烟囱帽侧面积为 $\pi\cdot40\cdot50=2000\pi\,\text{cm}^2$. $100$ 个共 $200000\pi\,\text{cm}^2=20\pi\,\text{m}^2\approx62.8\,\text{m}^2$. $\blacksquare$
+
+## 习题十五
+
+(习题 29.3 复习巩固第 1 题) 填空题.
+
+(1) $75^\circ$ 的圆心角所对的弧长是 $2.5\pi$, 则此弧所在圆的半径为 $\_\_\_$;
+
+(2) 一个扇形的弧长是 $20\pi$, 面积是 $240\pi$, 则这个扇形的圆心角为 $\_\_\_$;
+
+(3) 用一个圆心角为 $120^\circ$, 半径为 $4$ 的扇形作一个圆锥的侧面, 这个圆锥的底面圆的半径为 $\_\_\_$.
+
+### 解答 习题十五
+
+由基础知识 及基础知识.
+
+(1) $2.5\pi=\frac{75\pi R}{180}$, 得 $R=6$.
+
+(2) $S=\frac12 lR$, $240\pi=\frac12\cdot20\pi\cdot R$, $R=24$. 又 $20\pi=\frac{n\pi\cdot24}{180}$, $n=150^\circ$.
+
+(3) 扇形弧长 $l=\frac{120\pi\cdot4}{180}=\frac{8\pi}{3}$, 即底面周长 $2\pi r=\frac{8\pi}{3}$, $r=\frac43$. $\blacksquare$
+
+## 习题十六
+
+(习题 29.3 复习巩固第 2 题) 如图, 两个大小一样的传送轮连接着一条传送带. 求这条传送带的长.
+
+### 解答 习题十六
+
+由弧长公式.
+
+传送带由两段外公切线和两个半圆组成. 两半圆合为一个整圆周长 $2\pi R$, 两段公切线各为中心距 $d$. 总长为 $2d+2\pi R$. $\blacksquare$
+
+## 习题十七
+
+(习题 29.3 复习巩固第 3 题) 如图, 正方形的边长为 $a$, 以各边为直径在正方形内画半圆. 求阴影部分的面积.
+
+### 解答 习题十七
+
+由扇形面积公式.
+
+四个半圆面积之和为 $4\cdot\frac12\pi\left(a/2\right)^2=\frac{\pi a^2}{2}$, 正方形面积为 $a^2$. 阴影面积 (四个半圆重叠部分) 为
 
 $$
-2\left(\angle BAC-\angle E\right)=\angle B+\angle BAC,
+\frac{\pi a^2}{2}-a^2=\frac{a^2}{2}\left(\pi-2\right).
 $$
 
-化简得 $\angle BAC=\angle B+2\angle E$. $\blacksquare$
+$\blacksquare$
 
-## 阅读与思考一
+## 习题十八
 
-(阅读与思考 为什么要证明) 观察, 试验是发现数学结论的重要途径, 但由于观察可能有误差, 试验对象数量有限且未必具有一般性, 由观察, 试验得到的结论未必正确. 因此一个数学命题是否正确, 必须经过推理论证才能确认, 证明是确认数学结论的必要步骤.
+(习题 29.3 复习巩固第 4 题) 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^\circ$, $AC=3$, $BC=4$. 把 $\triangle ABC$ 分别沿三边所在直线旋转一周. 求所得三个几何体的全面积.
+
+### 解答 习题十八
+
+由圆锥的侧面积和全面积.
+
+$AB=5$.
+
+沿 $AC$ 旋转: 圆锥底面半径 $4$, 母线 $5$, 全面积 $\pi\cdot4\cdot5+\pi\cdot4^2=36\pi$.
+
+沿 $BC$ 旋转: 圆锥底面半径 $3$, 母线 $5$, 全面积 $\pi\cdot3\cdot5+\pi\cdot3^2=24\pi$.
+
+沿 $AB$ 旋转: 两个同底圆锥, 底面半径 $r=\frac{3\times4}{5}=\frac{12}{5}$, 母线分别为 $3$, $4$, 全面积 $\pi\cdot\frac{12}{5}\cdot\left(3+4\right)=\frac{84\pi}{5}$. $\blacksquare$
+
+## 习题十九
+
+(习题 29.3 综合运用第 5 题) 在航海中, $1\,\text{n mile}$ 近似等于赤道所在圆中 $1'$ 的圆心角所对的弧长. 已知地球半径约为 $6370\,\text{km}$, $1\,\text{n mile}$ 约等于多少米?
+
+### 解答 习题十九
+
+由弧长公式.
+
+$1'=\frac{1}{60}^\circ$, 故
+
+$$
+l=\frac{\pi\cdot6370}{180\cdot60}\approx1.853\,\text{km}=1853\,\text{m}.
+$$
+
+$\blacksquare$
+
+## 习题二十
+
+(习题 29.3 综合运用第 6 题) 如图, 扇形纸扇完全打开后, 外侧两竹条所在直线 $AB$, $AC$ 之间的夹角为 $120^\circ$. 若 $AB$ 的长为 $30\,\text{cm}$, $BD$ 的长为 $20\,\text{cm}$, 求扇面 $BDEC$ 的面积.
+
+### 解答 习题二十
+
+由扇形面积公式.
+
+扇面面积为大扇形 (半径 $30$) 减小扇形 (半径 $10$):
+
+$$
+\frac{120\pi}{360}\left(30^2-10^2\right)=\frac{\pi}{3}\cdot800=\frac{800\pi}{3}\approx837\,\text{cm}^2.
+$$
+
+$\blacksquare$
+
+## 习题二十一
+
+(习题 29.3 综合运用第 7 题) 如图, 粮仓的顶部是圆锥形, 这个圆锥的底面圆的周长为 $32\,\text{m}$, 母线长 $7\,\text{m}$. 为了防雨, 需要在它的顶部铺上油毡, 所需油毡的面积至少是多少?
+
+### 解答 习题二十一
+
+由圆锥的侧面积和全面积.
+
+侧面积 $\frac12\cdot32\cdot7=112\,\text{m}^2$. $\blacksquare$
+
+## 习题二十二
+
+(习题 29.3 拓广探索第 8 题) 如图, 从一块直径是 $1\,\text{m}$ 的圆形铁皮上剪下一个圆心角为 $90^\circ$ 的扇形, 求剩余部分的面积. 如果将剪下来的扇形围成一个圆锥, 圆锥的底面圆的半径长是多少?
+
+### 解答 习题二十二
+
+由基础知识 及基础知识.
+
+圆半径 $0.5\,\text{m}$. 扇形半径为 $\frac{\sqrt2}{2}\,\text{m}$ (正方形对角线一半). 扇形面积 $\frac{90\pi}{360}\cdot\left(\frac{\sqrt2}{2}\right)^2=\frac{\pi}{8}$. 圆面积 $\pi\cdot0.5^2=\frac{\pi}{4}$, 剩余面积 $\frac{\pi}{4}-\frac{\pi}{8}=\frac{\pi}{8}\,\text{m}^2$.
+
+扇形弧长 $l=\frac{90\pi}{180}\cdot\frac{\sqrt2}{2}=\frac{\sqrt2\pi}{4}$, 圆锥底面半径 $r=\frac{l}{2\pi}=\frac{\sqrt2}{8}\approx0.18\,\text{m}$. $\blacksquare$
