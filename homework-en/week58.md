@@ -1,30 +1,26 @@
 # week58
 
+> **Conclusion 26.2.1 (The Parabola $y=ax^2$)**
+> 
+> The axis of symmetry of the parabola $y=ax^2$ is the $y$-axis, and its vertex is the origin. When $a> 0$ it opens upward and the vertex is the lowest point; when $a< 0$ it opens downward and the vertex is the highest point. The larger $\left|a\right|$ is, the narrower the opening. When $a> 0$, $y$ decreases as $x$ increases for $x< 0$, and $y$ increases as $x$ increases for $x> 0$; when $a< 0$ the reverse holds.
+
+> **Conclusion 26.2.2 (Translation)**
+> 
+> Translating the parabola $y=ax^2$ upward ($k> 0$) or downward ($k< 0$) by $\left|k\right|$ units gives $y=ax^2+k$; translating it left ($h< 0$) or right ($h> 0$) by $\left|h\right|$ units gives $y=a\left(x-h\right)^2$; combining both translations gives $y=a\left(x-h\right)^2+k$.
+
+> **Conclusion 26.2.3 (The Parabola $y=a\left(x-h\right)**
+> 
+> ^2+k$) It opens upward when $a> 0$ and downward when $a< 0$; its axis of symmetry is $x=h$; its vertex is $\left(h,k\right)$. When $a> 0$, the minimum $k$ is taken at $x=h$; when $a< 0$, the maximum $k$ is taken at $x=h$.
+
+> **Conclusion 26.2.4 (The Parabola $y=ax^2+bx+c$)**
+> 
+> Completing the square gives $y=a\left(x+\frac b{2a}\right)^2+\frac{4ac-b^2}{4a}$; the axis of symmetry is $x=-\frac b{2a}$ and the vertex is $\left(-\frac b{2a},\frac{4ac-b^2}{4a}\right)$. When $a> 0$, the minimum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac b{2a}$; when $a< 0$, the maximum is taken there.
+
+> **Conclusion 26.3.1 (Relation Between a Quadratic Function and a Quadratic Equation)**
+> 
+> The horizontal coordinate $x_0$ of a common point between the parabola $y=ax^2+bx+c$ and the $x$-axis is precisely a real root of the equation $ax^2+bx+c=0$. The parabola having no common point, one common point, or two common points with the $x$-axis corresponds respectively to the equation having no real root, two equal real roots, or two unequal real roots.
+
 ## Problem 1
-
-(Exercise 26.2, Review and Consolidation, Problem 2) In the same rectangular coordinate system, draw the graphs of each of the following groups of quadratic functions, and state their axis of symmetry and vertex:
-
-(1) $y=-\frac13x^2+3$, $y=-\frac13x^2-2$;
-
-(2) $y=\frac14\left(x-3\right)^2$, $y=\frac14\left(x+1\right)^2$;
-
-(3) $y=2\left(x+\frac32\right)^2-5$, $y=2\left(x-\frac12\right)^2+1$.
-
-The figure shows three side-by-side coordinate systems, each with two parabolas: (1) two parabolas with $a=-\frac13$, opening downward, both with the $y$-axis as axis of symmetry, vertices at $\left(0,3\right)$ and $\left(0,-2\right)$; (2) two parabolas with $a=\frac14$, opening upward, axes $x=3$ and $x=-1$, vertices at $\left(3,0\right)$ and $\left(-1,0\right)$; (3) two parabolas with $a=2$, opening upward, axes $x=-\frac32$ and $x=\frac12$, vertices at $\left(-\frac32,-5\right)$ and $\left(\frac12,1\right)$.
-
-### Solution to Problem 1
-
-By Basic Knowledge and Basic Knowledge.
-
-(1) Both have $a=-\frac13$ and are related by vertical translation; both have the $y$-axis as their axis of symmetry, with vertices $\left(0,3\right)$ and $\left(0,-2\right)$ respectively.
-
-(2) Both have $a=\frac14$ and are related by horizontal translation; their axes of symmetry are $x=3$ and $x=-1$, with vertices $\left(3,0\right)$ and $\left(-1,0\right)$ respectively.
-
-(3) Both have $a=2$; their axes of symmetry are $x=-\frac32$ and $x=\frac12$, with vertices $\left(-\frac32,-5\right)$ and $\left(\frac12,1\right)$ respectively.
-
-The graphs are as shown. $\blacksquare$
-
-## Problem 2
 
 (Exercise 26.2, Review and Consolidation, Problem 3) First determine the opening direction, axis of symmetry, and vertex of the following parabolas, then plot points and draw the graphs:
 
@@ -38,7 +34,7 @@ The graphs are as shown. $\blacksquare$
 
 The figure shows four side-by-side coordinate systems, each with one parabola: (1) $y=x^2+2x-5$, opening upward, vertex $\left(-1,-8\right)$; (2) $y=-2x^2+6x+3$, opening downward, vertex $\left(\frac32,\frac{15}2\right)$; (3) $y=2x^2+4x-5$, opening upward, vertex $\left(-1,-7\right)$; (4) $y=-\frac14x^2+2x-3$, opening downward, vertex $\left(4,1\right)$.
 
-### Solution to Problem 2
+### Solution to Problem 1
 
 By Basic Knowledge, find the axis of symmetry $x=-\frac b{2a}$ and the vertex.
 
@@ -52,7 +48,7 @@ By Basic Knowledge, find the axis of symmetry $x=-\frac b{2a}$ and the vertex.
 
 The graphs are as shown. $\blacksquare$
 
-## Problem 3
+## Problem 2
 
 (Exercise 26.2, Review and Consolidation, Problem 4) Find the maximum or minimum value of the following quadratic functions:
 
@@ -64,7 +60,7 @@ The graphs are as shown. $\blacksquare$
 
 (4) $y=\frac14x^2-2x+5$.
 
-### Solution to Problem 3
+### Solution to Problem 2
 
 By Basic Knowledge, the extremum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac b{2a}$.
 
@@ -76,11 +72,11 @@ By Basic Knowledge, the extremum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac b{2a
 
 (4) $a=\frac14> 0$; when $x=-\frac{-2}{2\left(1/4\right)}=4$, the minimum $\frac{4\cdot\frac14\cdot5-4}{1}=\frac{5-4}{1}=1$ is taken. $\blacksquare$
 
-## Problem 4
+## Problem 3
 
 (Exercise 26.2, Review and Consolidation, Problem 5) Given that the vertex of the parabola $y=-\frac12x^2+bx+c$ is $\left(5,\frac{17}2\right)$, find $b,c$.
 
-### Solution to Problem 4
+### Solution to Problem 3
 
 By Basic Knowledge, the axis of symmetry is $x=-\frac b{2a}$. Here $a=-\frac12$ and the vertex's horizontal coordinate is $5$, hence
 
@@ -90,7 +86,7 @@ $$
 
 i.e. $b=5$. Since the vertex's vertical coordinate is $\frac{17}2$, and at $x=5$, $y=-\frac12\cdot25+5\cdot5+c=-\frac{25}2+25+c=\frac{25}2+c$, setting it equal to $\frac{17}2$ gives $c=\frac{17}2-\frac{25}2=-4$. Hence $b=5$, $c=-4$. $\blacksquare$
 
-## Problem 5
+## Problem 4
 
 (Exercise 26.2, Comprehensive Application, Problem 6) Fill in the blanks:
 
@@ -98,7 +94,7 @@ i.e. $b=5$. Since the vertex's vertical coordinate is $\frac{17}2$, and at $x=5$
 
 (2) In a rectangular coordinate system, translate the parabola $y=2x^2+4x+3$ down by $1$ unit, then right by $1$ unit; the function expression of the resulting parabola is $\_\_\_\_.$
 
-### Solution to Problem 5
+### Solution to Problem 4
 
 By Translation.
 
@@ -106,11 +102,11 @@ By Translation.
 
 (2) $y=2x^2+4x+3=2\left(x+1\right)^2+1$; translating down $1$ unit gives $y=2\left(x+1\right)^2$, then right $1$ unit gives $y=2x^2$. Hence fill in $y=2x^2$. $\blacksquare$
 
-## Problem 6
+## Problem 5
 
 (Exercise 26.2, Comprehensive Application, Problem 7) As shown in the figure, a football player kicks a free kick from point $A$, and the ball's flight path is a parabola. When the ball reaches its highest point, it strikes point $B$ on the $2.44\ \text{m}$-high goal crossbar. Let $C$ be the point on the ground directly below $B$, with $AC=24.4\ \text{m}$. Find the function expression for the ball's vertical height $y$ (in $\text{m}$) in terms of its horizontal distance $x$ (in $\text{m}$) from $A$.
 
-### Solution to Problem 6
+### Solution to Problem 5
 
 Take $A$ as the origin and the ground line as the $x$-axis to set up the coordinate system. The ball strikes $B$ at its highest point, and $B$ is directly above $C$ with $AC=24.4$, so the vertex is $\left(24.4,2.44\right)$. Let the parabola be $y=a\left(x-24.4\right)^2+2.44$. It passes through $A\left(0,0\right)$; substituting,
 
@@ -124,11 +120,11 @@ $$
 y=-\frac1{244}\left(x-24.4\right)^2+2.44. \blacksquare
 $$
 
-## Problem 7
+## Problem 6
 
 (Exercise 26.2, Extension and Exploration, Problem 8) The parabola $y=ax^2+bx+c$ passes through $\left(-1,-22\right)$, $\left(0,-8\right)$, and $\left(2,8\right)$. Find its opening direction, axis of symmetry, and vertex.
 
-### Solution to Problem 7
+### Solution to Problem 6
 
 Substitute the three points into $y=ax^2+bx+c$. Substituting $\left(0,-8\right)$ gives $c=-8$. Substituting $\left(-1,-22\right)$ gives $a-b-8=-22$, i.e. $a-b=-14$. Substituting $\left(2,8\right)$ gives $4a+2b-8=8$, i.e. $2a+b=8$.
 
@@ -140,7 +136,7 @@ $$
 
 $a=-2< 0$, opens downward. By Basic Knowledge, the axis of symmetry is $x=-\frac{12}{2\left(-2\right)}=3$, and the vertex's vertical coordinate is $-2\cdot9+36-8=10$. Hence the axis of symmetry is the line $x=3$, and the vertex is $\left(3,10\right)$. $\blacksquare$
 
-## Problem 8
+## Problem 7
 
 (Exercise 26.2, Extension and Exploration, Problem 9) As shown in the figure, in a rectangular coordinate system, point $A$ has coordinates $\left(0,2\right)$. Take any point $M$ on the $x$-axis, join $AM$, draw the perpendicular bisector $l_1$ of segment $AM$, and draw the perpendicular $l_2$ to the $x$-axis through $M$; let the intersection of $l_1,l_2$ be $P$. Varying $M$ repeatedly gives corresponding points $P$; joining them with a smooth curve gives the curve $l$.
 
@@ -148,7 +144,7 @@ $a=-2< 0$, opens downward. By Basic Knowledge, the axis of symmetry is $x=-\frac
 
 (2) Let $P$ have coordinates $\left(x,y\right)$; using the conclusion of (1), find the relation satisfied by $x,y$, and thereby determine what kind of curve $l$ is.
 
-### Solution to Problem 8
+### Solution to Problem 7
 
 (1) Since $P$ lies on the perpendicular bisector $l_1$ of segment $AM$, and points on the perpendicular bisector are equidistant from the segment's endpoints,
 
@@ -206,7 +202,7 @@ By Relation Between a Quadratic Function and a Quadratic Equation, the roots are
 
 (2) $-x^2-2x+1=0$ is $x^2+2x-1=0$, $x=\frac{-2\pm\sqrt8}2=-1\pm\sqrt2$, giving roots approximately $0.4$ and $-2.4$. $\blacksquare$
 
-## Problem 9
+## Problem 8
 
 (Exercise 26.3, Review and Consolidation, Problem 1) Given the function $y=x^2-2x-2$.
 
@@ -216,13 +212,13 @@ By Relation Between a Quadratic Function and a Quadratic Equation, the roots are
 
 The figure shows the graph of the quadratic function $y=x^2-2x-2$ in a rectangular coordinate plane: an upward-opening parabola with vertex $\left(1,-3\right)$, axis of symmetry the line $x=1$, intersecting the $x$-axis at approximately $\left(-0.7,0\right)$ and $\left(2.7,0\right)$, and the $y$-axis at $\left(0,-2\right)$.
 
-### Solution to Problem 9
+### Solution to Problem 8
 
 (1) The graph is an upward-opening parabola with axis of symmetry $x=1$ and vertex $\left(1,-3\right)$, as shown.
 
 (2) The function value being $0$ means $x^2-2x-2=0$. By the quadratic formula, $x=\frac{2\pm\sqrt{4+8}}2=1\pm\sqrt3$, i.e. $x\approx2.7$ or $x\approx-0.7$. By Relation Between a Quadratic Function and a Quadratic Equation, these are precisely the horizontal coordinates of the common points between the graph and the $x$-axis. $\blacksquare$
 
-## Problem 10
+## Problem 9
 
 (Exercise 26.3, Review and Consolidation, Problem 2) Using the function graphs, find approximate values of the roots of the following equations (rounded to one decimal place):
 
@@ -230,7 +226,7 @@ The figure shows the graph of the quadratic function $y=x^2-2x-2$ in a rectangul
 
 (2) $-x^2+3x+1=0$.
 
-### Solution to Problem 10
+### Solution to Problem 9
 
 By Relation Between a Quadratic Function and a Quadratic Equation, use the quadratic formula to find the corresponding roots.
 
@@ -238,7 +234,7 @@ By Relation Between a Quadratic Function and a Quadratic Equation, use the quadr
 
 (2) $-x^2+3x+1=0$ is $x^2-3x-1=0$, $x=\frac{3\pm\sqrt{13}}2$, i.e. $x\approx3.3$ or $x\approx-0.3$. $\blacksquare$
 
-## Problem 11
+## Problem 10
 
 (Exercise 26.3, Comprehensive Application, Problem 3) Does the graph of each of the following functions have a common point with the $x$-axis? If so, write the coordinates of the common point(s):
 
@@ -246,7 +242,7 @@ By Relation Between a Quadratic Function and a Quadratic Equation, use the quadr
 
 (2) $y=2x^2-4x-6$.
 
-### Solution to Problem 11
+### Solution to Problem 10
 
 Use Relation Between a Quadratic Function and a Quadratic Equation and the discriminant $\Delta=b^2-4ac$ to decide.
 
@@ -254,11 +250,11 @@ Use Relation Between a Quadratic Function and a Quadratic Equation and the discr
 
 (2) $\Delta=\left(-4\right)^2-4\cdot2\cdot\left(-6\right)=16+48=64> 0$; the graph has two common points with the $x$-axis. By the quadratic formula, $x=\frac{4\pm8}{4}$, i.e. $x=3$ or $x=-1$; the common points are $\left(3,0\right)$ and $\left(-1,0\right)$. $\blacksquare$
 
-## Problem 12
+## Problem 11
 
 (Exercise 26.3, Comprehensive Application, Problem 4) A car accelerates over a period of time; the function expression for the distance traveled $l$ (in $\text{m}$) in terms of time $t$ (in $\text{s}$) is measured to be $l=9t+\frac12t^2$. How far has the car traveled after $10\ \text{s}$? How long does it take to travel $180\ \text{m}$?
 
-### Solution to Problem 12
+### Solution to Problem 11
 
 Substituting $t=10$ gives $l=9\times10+\frac12\times100=90+50=140\ \text{m}$. Hence after $10\ \text{s}$ the car has traveled $140\ \text{m}$.
 
@@ -270,7 +266,7 @@ $$
 
 taking the positive root $t=12$. Hence it takes $12\ \text{s}$ to travel $180\ \text{m}$. $\blacksquare$
 
-## Problem 13
+## Problem 12
 
 (Exercise 26.3, Extension and Exploration, Problem 5) Draw the graph of $y=x^2-2x-3$ and use it to answer:
 
@@ -282,7 +278,7 @@ taking the positive root $t=12$. Hence it takes $12\ \text{s}$ to travel $180\ \
 
 The figure shows the graph of the quadratic function $y=x^2-2x-3$ in a rectangular coordinate plane: an upward-opening parabola with vertex $\left(1,-4\right)$, axis of symmetry the line $x=1$, intersecting the $x$-axis at $\left(-1,0\right)$ and $\left(3,0\right)$, and the $y$-axis at $\left(0,-3\right)$.
 
-### Solution to Problem 13
+### Solution to Problem 12
 
 Factoring, $y=x^2-2x-3=\left(x-3\right)\left(x+1\right)$; the parabola opens upward and intersects the $x$-axis at $\left(-1,0\right)$ and $\left(3,0\right)$, as shown.
 
@@ -292,7 +288,7 @@ Factoring, $y=x^2-2x-3=\left(x-3\right)\left(x+1\right)$; the parabola opens upw
 
 (3) The part below the $x$-axis corresponds to function values less than $0$, i.e. $-1< x< 3$. $\blacksquare$
 
-## Problem 14
+## Problem 13
 
 (Exercise 26.3, Extension and Exploration, Problem 6) If $a> 0$, where is the vertex of the parabola $y=ax^2+bx+c$ in the following cases?
 
@@ -304,7 +300,7 @@ Factoring, $y=x^2-2x-3=\left(x-3\right)\left(x+1\right)$; the parabola opens upw
 
 What if $a< 0$?
 
-### Solution to Problem 14
+### Solution to Problem 13
 
 By Relation Between a Quadratic Function and a Quadratic Equation, the number of common points with the $x$-axis corresponds to the nature of the roots; the vertex's vertical coordinate is $\frac{4ac-b^2}{4a}$.
 
@@ -410,11 +406,11 @@ The arch parabola is $y=-\frac4{25}x^2$. After the water rises $1\ \text{m}$, th
 
 The boat is $4\ \text{m}$ wide, so its edges are at $x=\pm2$. The arch at $x=2$ has vertical coordinate $y=-\frac4{25}\times4=-\frac{16}{25}=-0.64$. Since $-0.64> -1$, the arch is above the boat top, leaving $0.36\ \text{m}$ clearance. Hence the boat can pass under the arch. $\blacksquare$
 
-## Problem 15
+## Problem 14
 
 (Exercise 26.4, Review and Consolidation, Problem 1) Liu Wei practices standing vertical jumps; after takeoff, the distance of his feet from the ground is $y=-5t^2+3.6t$. Find how high his feet are off the ground at the highest point.
 
-### Solution to Problem 15
+### Solution to Problem 14
 
 By The Parabola $y=ax^2+bx+c$, $a=-5< 0$; the maximum is taken at $t=-\frac{3.6}{2\left(-5\right)}=0.36$,
 
@@ -424,11 +420,11 @@ $$
 
 Hence at the highest point his feet are $0.648\ \text{m}$ off the ground. $\blacksquare$
 
-## Problem 16
+## Problem 15
 
 (Exercise 26.4, Review and Consolidation, Problem 2) After braking, a car travels distance $l=15t-6t^2$. How far does the car go from braking to stopping?
 
-### Solution to Problem 16
+### Solution to Problem 15
 
 The car stops when its velocity is zero, i.e. when the distance reaches its maximum, corresponding to the vertex of the parabola. By The Parabola $y=ax^2+bx+c$, $a=-6< 0$; the maximum is taken at $t=-\frac{15}{2\left(-6\right)}=1.25$,
 
@@ -437,3 +433,31 @@ l_{\max}=15\times1.25-6\times1.25^2=9.375\ \text{m}.
 $$
 
 Hence the car travels $9.375\ \text{m}$ after braking. $\blacksquare$
+
+## Problem 16
+
+(Exercise 26.4, Review and Consolidation, Problem 3) A firework's height is $h=39t-5t^2$. How long after being lit does it detonate at its highest point? What is the maximum height?
+
+### Solution to Problem 16
+
+By The Parabola $y=ax^2+bx+c$, $a=-5< 0$; the maximum is taken at $t=\frac{39}{10}=3.9\ \text{s}$,
+
+$$
+h_{\max}=39\times3.9-5\times3.9^2=76.05\ \text{m}.
+$$
+
+Hence it detonates at its highest point $3.9\ \text{s}$ after being lit, with maximum height $76.05\ \text{m}$. $\blacksquare$
+
+## Problem 17
+
+(Exercise 26.4, Review and Consolidation, Problem 4) A fence of total length $l$ encloses a rectangular field, with one side $x$. For what $x$ is the area $S$ maximized? What is the maximum area? What shape is the field then?
+
+### Solution to Problem 17
+
+One side is $x$ and the adjacent side is $\frac l2-x$; the area is
+
+$$
+S=x\left(\frac l2-x\right)=-x^2+\frac l2x.
+$$
+
+By The Parabola $y=ax^2+bx+c$, $a=-1< 0$; the maximum is taken at $x=\frac l4$, with $S_{\max}=\frac l4\cdot\frac l4=\frac{l^2}{16}$. The adjacent side is then also $\frac l4$, so the field is a square. $\blacksquare$

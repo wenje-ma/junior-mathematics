@@ -1,12 +1,52 @@
 # week65
 
+> **Definition 26.1.1 (Inverse Proportional Function)**
+> 
+> A function of the form $y=\frac{k}{x}$ (where $k$ is a constant and $k\ne0$) is called an inverse proportional function, and the range of the independent variable $x$ is all real numbers except $0$.
+
+> **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**
+> 
+> The graph of $y=\frac{k}{x}$ is a hyperbola. When $k> 0$, the two branches lie in the first and third quadrants, and in each quadrant $y$ decreases as $x$ increases; when $k< 0$, the two branches lie in the second and fourth quadrants, and in each quadrant $y$ increases as $x$ increases.
+
+> **Definition 26.1.3 (Method of Undetermined Coefficients)**
+> 
+> Given the coordinates of a point on the graph of an inverse proportional function, substituting into $y=\frac{k}{x}$ yields $k$, thereby determining the function expression.
+
+> **Theorem 29.2.3 (Inscribed Angle Theorem)**
+> 
+> The inscribed angle subtended by an arc is half of the central angle subtended by that arc.
+
+> **Theorem 30.1.1 (Tangent Property)**
+> 
+> A tangent line to a circle is perpendicular to the radius through the point of tangency.
+
+> **Theorem 30.1.2 (Tangent Criterion)**
+> 
+> A line passing through the outer end of a radius and perpendicular to that radius is a tangent line to the circle.
+
+> **Theorem 30.1.3 (Tangent-Length Theorem)**
+> 
+> From a point outside a circle, the two tangent segments to the circle have equal length, and the line joining this point to the center bisects the angle between the two tangent lines.
+
+> **Definition 30.2.1 (Incircle of a Triangle)**
+> 
+> A circle tangent to all three sides of a triangle is called the incircle of the triangle; the center of the incircle is called the incenter of the triangle, and it is the intersection of the three angle bisectors of the triangle.
+
+> **Theorem 30.3.1 (Regular Polygons and Circles)**
+> 
+> Divide a circle into $n$ ($n\ge3$) equal parts, and the polygon obtained by joining the division points in order is a regular $n$-gon inscribed in the circle; this circle is called the circumcircle of the regular $n$-gon.
+
+> **Property 30.3.1 (Properties of Regular Polygons)**
+> 
+> The center of the circumcircle (or incircle) of a regular polygon is called the center; the circumradius is called the radius; the inradius is called the apothem; the central angle subtended by each side of a regular polygon is called the central angle. The central angle of a regular $n$-gon is $\frac{360^\circ}{n}$.
+
 ## Exercise 1
 
 (Exercise 30.2, Problem 1) As shown in the figure, in $\odot O$, $\angle ABC=50^\circ$, and the point $P$ is the incenter of $\triangle ABC$. Find the measure of $\angle BOC$.
 
 ### Solution to Exercise 1
 
-By Incircle of a Triangle.
+By **Definition 30.2.1 (Incircle of a Triangle)**.
 
 The incenter is the intersection of the angle bisectors, so $\angle OBC=\frac12\angle ABC=25^\circ$ and $\angle OCB=\frac12\angle ACB$. From the sum of the interior angles of a triangle, $\angle BOC=90^\circ+\frac12\angle A$. From $\angle A=180^\circ-\angle ABC-\angle ACB$, we get $\angle BOC=115^\circ$. $\blacksquare$
 
@@ -16,7 +56,7 @@ The incenter is the intersection of the angle bisectors, so $\angle OBC=\frac12\
 
 ### Solution to Exercise 2
 
-By Incircle of a Triangle.
+By **Definition 30.2.1 (Incircle of a Triangle)**.
 
 The largest circle is the incircle. The altitude of the equilateral triangle is $h=2\sqrt3$, and the incircle radius is $r=\frac{h}{3}=\frac{2\sqrt3}{3}\,\text{cm}$. $\blacksquare$
 
@@ -26,7 +66,7 @@ The largest circle is the incircle. The altitude of the equilateral triangle is 
 
 ### Solution to Problem 1
 
-By Incircle of a Triangle.
+By **Definition 30.2.1 (Incircle of a Triangle)**.
 
 The distances from the incenter to the three sides are all $r$; dividing the triangle into three smaller triangles, the sum of their areas is
 
@@ -42,7 +82,7 @@ $\blacksquare$
 
 ### Solution to Problem 2
 
-By Tangent-Length Theorem.
+By **Theorem 30.1.3 (Tangent-Length Theorem)**.
 
 Let $AF=AE=x$, $BF=BD=y$, and $CD=CE=z$. Then $x+y=13$, $y+z=14$, and $x+z=9$. Adding the three equations gives $2\left(x+y+z\right)=36$, so $x+y+z=18$. Solving gives $x=4$, $y=9$, $z=5$. That is, $AF=4$, $BD=9$, $CE=5$. $\blacksquare$
 
@@ -52,7 +92,7 @@ Let $AF=AE=x$, $BF=BD=y$, and $CD=CE=z$. Then $x+y=13$, $y+z=14$, and $x+z=9$. A
 
 ### Solution to Problem 3
 
-By Tangent-Length Theorem.
+By **Theorem 30.1.3 (Tangent-Length Theorem)**.
 
 Let $AE=AF=x$, $BF=BD=y$, and $CD=CE=z$. Then $x+y=c$, $y+z=a$, and $z+x=b$. Solving gives $x=\frac{b+c-a}{2}=s-a$, $y=\frac{a+c-b}{2}=s-b$, and $z=\frac{a+b-c}{2}=s-c$. $\blacksquare$
 
@@ -62,7 +102,7 @@ Let $AE=AF=x$, $BF=BD=y$, and $CD=CE=z$. Then $x+y=c$, $y+z=a$, and $z+x=b$. Sol
 
 ### Solution to Problem 4
 
-By Basic Knowledge and the conclusion of **Problem 3**.
+By **Definition 30.2.1 (Incircle of a Triangle)** and the conclusion of **Problem 3**.
 
 The area is $S=\frac12 ab$, and also $S=\frac12 r\left(a+b+c\right)$, hence
 
@@ -78,7 +118,7 @@ $\blacksquare$
 
 ### Solution to Problem 5
 
-By Incircle of a Triangle.
+By **Definition 30.2.1 (Incircle of a Triangle)**.
 
 $$
 S=\frac12 rl.
@@ -96,7 +136,7 @@ $\blacksquare$
 
 ### Solution to Exercise 3
 
-By Regular Polygons and Circles.
+By **Theorem 30.3.1 (Regular Polygons and Circles)**.
 
 (1) Correct: equal chords subtend equal arcs, so equal sides mean equal arcs, giving a regular polygon.
 
@@ -150,7 +190,7 @@ During the Three Kingdoms period in China, Liu Hui obtained $\pi\approx3.1416$ u
 
 ### Solution to Activity 1
 
-By Regular Polygons and Circles.
+By **Theorem 30.3.1 (Regular Polygons and Circles)**.
 
 The strip has uniform width, so after pressing flat the pentagon has equal sides, and each interior angle is $108^\circ$; hence $ABCDE$ is a regular pentagon. $\blacksquare$
 
@@ -180,7 +220,7 @@ The equation has equal roots, so the discriminant is $36-4m=0$, and $m=9$. $\bla
 
 ### Solution to Review Problem 2
 
-By Basic Knowledge and Basic Knowledge.
+By **Theorem 30.1.3 (Tangent-Length Theorem)** and **Theorem 29.2.3 (Inscribed Angle Theorem)**.
 
 $\angle AOB=180^\circ-70^\circ=110^\circ$, and $\angle ACB=\frac12\angle AOB=55^\circ$. $\blacksquare$
 
@@ -200,7 +240,7 @@ The central angle is $\frac{360^\circ}{6}=60^\circ$, and the arc length is $l=\f
 
 ### Solution to Review Problem 4
 
-By Tangent-Length Theorem.
+By **Theorem 30.1.3 (Tangent-Length Theorem)**.
 
 $EA=EC$ and $FB=FC$, so the perimeter is $PE+EF+PF=PE+EC+CF+PF=PE+EA+FB+PF=PA+PB=8$. $\blacksquare$
 
@@ -210,7 +250,7 @@ $EA=EC$ and $FB=FC$, so the perimeter is $PE+EF+PF=PE+EC+CF+PF=PE+EA+FB+PF=PA+PB
 
 ### Solution to Review Problem 5
 
-By Tangent Criterion.
+By **Theorem 30.1.2 (Tangent Criterion)**.
 
 The rhombus has side length $5$, and $BD=6$. Compute the circumcircle of $\triangle ABC$, and it suffices to prove that $DE$ is perpendicular to the radius through $C$. $\blacksquare$
 
@@ -220,7 +260,7 @@ The rhombus has side length $5$, and $BD=6$. Compute the circumcircle of $\trian
 
 ### Solution to Review Problem 6
 
-By Tangent Criterion.
+By **Theorem 30.1.2 (Tangent Criterion)**.
 
 Join $OD$. Since $D$ is the midpoint of $\overset{\frown}{BC}$, $OD\perp BC$. Also $AB$ is a diameter, so $AC\perp BC$, and hence $OD\parallel AC$. Since $DE\perp AC$, we have $DE\perp OD$, and so $DE$ is a tangent. $\blacksquare$
 
@@ -230,7 +270,7 @@ Join $OD$. Since $D$ is the midpoint of $\overset{\frown}{BC}$, $OD\perp BC$. Al
 
 ### Solution to Review Problem 7
 
-By Incircle of a Triangle.
+By **Definition 30.2.1 (Incircle of a Triangle)**.
 
 Let the radius be $r$. The incircle is tangent to $AC$ at $E$, so $OE=r$ and $OE\parallel BC$. From $\frac{OE}{CD}=\frac{AO}{AD}$, solving gives $r=\frac{4}{5}$. $\blacksquare$
 
@@ -240,7 +280,7 @@ Let the radius be $r$. The incircle is tangent to $AC$ at $E$, so $OE=r$ and $OE
 
 ### Solution to Review Problem 8
 
-By Tangent-Length Theorem.
+By **Theorem 30.1.3 (Tangent-Length Theorem)**.
 
 The product identity follows from the tangent-length theorem and the similarity relations. $\blacksquare$
 
@@ -250,7 +290,7 @@ The product identity follows from the tangent-length theorem and the similarity 
 
 ### Solution to Review Problem 9
 
-By Incircle of a Triangle and Basic Knowledge.
+By **Definition 30.2.1 (Incircle of a Triangle)** and **Theorem 29.2.3 (Inscribed Angle Theorem)**.
 
 $E$ is the incenter, so $AD$ bisects $\angle BAC$. Computation gives $\angle DBE=\angle DEB$, so $DB=DE$. Similarly $DC=DE$. Hence $DB=DE=DC$, and $D$ is the center. $\blacksquare$
 
@@ -312,7 +352,7 @@ Compute the difference between the area of the sector $OAE$ and the small triang
 
 ### Solution to Exercise 7
 
-By Inverse Proportional Function, two variables are inversely proportional when their product is a constant.
+By **Definition 26.1.1 (Inverse Proportional Function)**, two variables are inversely proportional when their product is a constant.
 
 (1) The volume equals the filling rate times the time, i.e. $vt=2000$, so
 
@@ -342,7 +382,7 @@ $$
 
 ### Solution to Exercise 8
 
-By Inverse Proportional Function, an inverse proportional function has the form $y=\frac{k}{x}$, i.e. $xy=k$ ($k\ne0$).
+By **Definition 26.1.1 (Inverse Proportional Function)**, an inverse proportional function has the form $y=\frac{k}{x}$, i.e. $xy=k$ ($k\ne0$).
 
 $y=4x$ is a direct proportional function; $\frac{y}{x}=3$ means $y=3x$, a direct proportional function; $y=-\frac{2}{x}$ fits the form $y=\frac{k}{x}$ with $k=-2$; $y=6x+1$ is a linear function; $y=x^2-1$ is a quadratic function; in $y=\frac{1}{x^2}$, $y$ is inversely proportional to $x^2$, rather than $y$ being inversely proportional to $x$; $xy=123$ means $y=\frac{123}{x}$, which fits the inverse proportional function form.
 
@@ -360,7 +400,7 @@ Thus the relations in which $y$ is an inverse proportional function of $x$ are $
 
 ### Solution to Exercise 9
 
-By Inverse Proportional Function and Method of Undetermined Coefficients, let $y=\frac{k}{x^2}$.
+By **Definition 26.1.1 (Inverse Proportional Function)** and **Definition 26.1.3 (Method of Undetermined Coefficients)**, let $y=\frac{k}{x^2}$.
 
 Substituting $x=3$, $y=4$ gives $4=\frac{k}{9}$, and solving gives $k=36$.
 
@@ -384,7 +424,7 @@ The figure shows a hyperbola in a rectangular coordinate plane, with its two bra
 
 ### Solution to Exercise 10
 
-By Graph and Properties of the Inverse Proportional Function, the graph of an inverse proportional function is a hyperbola, not a straight line or a parabola.
+By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**, the graph of an inverse proportional function is a hyperbola, not a straight line or a parabola.
 
 (1) (A) and (B) are straight lines, (D) is a parabola, and only (C) is a hyperbola, so choose (C).
 
@@ -400,7 +440,7 @@ By Graph and Properties of the Inverse Proportional Function, the graph of an in
 
 ### Solution to Exercise 11
 
-By Graph and Properties of the Inverse Proportional Function.
+By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**.
 
 (1) $k=5> 0$, so the two branches of the hyperbola lie in the first and third quadrants, respectively.
 
@@ -416,9 +456,9 @@ By Graph and Properties of the Inverse Proportional Function.
 
 ### Solution to Exercise 12
 
-By Method of Undetermined Coefficients, let $y=\frac{k}{x}$. Substituting $A\left(3,-4\right)$ gives $-4=\frac{k}{3}$, so $k=-12$, and hence $y=\frac{-12}{x}$.
+By **Definition 26.1.3 (Method of Undetermined Coefficients)**, let $y=\frac{k}{x}$. Substituting $A\left(3,-4\right)$ gives $-4=\frac{k}{3}$, so $k=-12$, and hence $y=\frac{-12}{x}$.
 
-(1) $k=-12< 0$, so by Basic Knowledge, the graph lies in the second and fourth quadrants, and on each branch $y$ increases as $x$ increases.
+(1) $k=-12< 0$, so by **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**, the graph lies in the second and fourth quadrants, and on each branch $y$ increases as $x$ increases.
 
 (2) $B\left(-3,4\right)$: $\left(-3\right)\times4=-12=k$, on the graph; $C\left(-2,6\right)$: $\left(-2\right)\times6=-12=k$, on the graph; $D\left(3,4\right)$: $3\times4=12\ne-12$, not on the graph. $\blacksquare$
 
@@ -428,7 +468,7 @@ By Method of Undetermined Coefficients, let $y=\frac{k}{x}$. Substituting $A\lef
 
 ### Solution to Exercise 13
 
-By Graph and Properties of the Inverse Proportional Function, $k=1> 0$, so in each quadrant $y$ decreases as $x$ increases.
+By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**, $k=1> 0$, so in each quadrant $y$ decreases as $x$ increases.
 
 Since $x_1$, $x_2$ have the same sign, $A$ and $B$ lie in the same quadrant. From $x_1< x_2$, on the same branch $y$ decreases as $x$ increases, so $y_1> y_2$.
 
@@ -444,7 +484,7 @@ This can also be verified from the expression: $y_1-y_2=\frac{1}{x_1}-\frac{1}{x
 
 ### Solution to Problem 6
 
-By Inverse Proportional Function.
+By **Definition 26.1.1 (Inverse Proportional Function)**.
 
 (1) The volume of a cylinder is $V=Sh$; since $V$ is constant, $S=\frac{V}{h}$, which is an inverse proportional function.
 
@@ -458,7 +498,7 @@ By Inverse Proportional Function.
 
 ### Solution to Problem 7
 
-By Inverse Proportional Function, an inverse proportional function has the form $y=\frac{k}{x}$, where the denominator can only be a first-order monomial in $x$.
+By **Definition 26.1.1 (Inverse Proportional Function)**, an inverse proportional function has the form $y=\frac{k}{x}$, where the denominator can only be a first-order monomial in $x$.
 
 (A) is a direct proportional function; (B) $y=-\frac{\sqrt{5}}{3x}=\frac{-\sqrt{5}/3}{x}$, which fits an inverse proportional function; (C) is a quadratic function; (D) has denominator $x+1$, not $x$. So choose (B). $\blacksquare$
 
@@ -474,36 +514,10 @@ By Inverse Proportional Function, an inverse proportional function has the form 
 
 ### Solution to Problem 8
 
-By Graph and Properties of the Inverse Proportional Function.
+By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**.
 
 (1) The graph lies in the first and third quadrants, $k> 0$, and $y$ decreases as $x$ increases.
 
 (2) The graph lies in the second and fourth quadrants, $k< 0$, and $y$ increases as $x$ increases.
 
 (3) Substituting $\left(1,3\right)$ gives $3=\frac{k}{1}$, so $k=3> 0$, and $y$ decreases as $x$ increases. $\blacksquare$
-
-## Problem 9
-
-(Problem 26.1, Comprehensive Application, Problem 4) If $y$ is an inverse proportional function of $x$, is $x$ also an inverse proportional function of $y$?
-
-### Solution to Problem 9
-
-By Inverse Proportional Function, let $y=\frac{k}{x}$ ($k\ne0$); then $x=\frac{k}{y}$, and $k$ is still a nonzero constant.
-
-Therefore $x$ is also an inverse proportional function of $y$. $\blacksquare$
-
-## Problem 10
-
-(Problem 26.1, Comprehensive Application, Problem 5) One of the intersection points of the graph of the direct proportional function $y=x$ and the graph of the inverse proportional function $y=\frac{k}{x}$ has y-coordinate $2$.
-
-(1) When $x=-3$, find the value of the inverse proportional function $y=\frac{k}{x}$;
-
-(2) When $-3< x< -1$, find the range of values of the inverse proportional function $y=\frac{k}{x}$.
-
-### Solution to Problem 10
-
-The intersection point has y-coordinate $2$ and lies on $y=x$, so its x-coordinate is also $2$, i.e. the intersection point is $\left(2,2\right)$. Substituting into $y=\frac{k}{x}$ gives $2=\frac{k}{2}$, so $k=4$, and hence $y=\frac{4}{x}$.
-
-(1) When $x=-3$, $y=\frac{4}{-3}=-\frac{4}{3}$.
-
-(2) $k=4> 0$, and in the third quadrant $y$ decreases as $x$ increases. When $x=-3$, $y=-\frac{4}{3}$; when $x=-1$, $y=-4$. Since $-3< x< -1$, we have $-4< y< -\frac{4}{3}$. $\blacksquare$

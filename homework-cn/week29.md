@@ -1,10 +1,192 @@
 # week29
 
+> **定义 13.1.1 (三角形)**
+> 
+> 由不在同一条直线上的三条线段首尾顺次相接所组成的图形叫作三角形.
+
+> **定义 13.1.2 (边, 顶点与内角)**
+> 
+> 组成三角形的线段叫作三角形的边, 相邻两边的公共端点叫作三角形的顶点, 相邻两边所组成的角叫作三角形的内角, 简称三角形的角. 顶点是 $A,B,C$ 的三角形记作 $\triangle ABC$.
+
+> **定义 13.1.3 (等腰三角形)**
+> 
+> 有两边相等的三角形叫作等腰三角形, 其中相等的两边叫作腰, 另一边叫作底边, 两腰的夹角叫作顶角, 腰和底边的夹角叫作底角.
+
+> **定义 13.1.4 (等边三角形)**
+> 
+> 三边都相等的三角形叫作等边三角形, 等边三角形是特殊的等腰三角形.
+
+> **定义 13.1.5 (三角形按边的分类)**
+> 
+> 按边的相等关系, 三角形先分为三边都不相等的三角形和等腰三角形, 等腰三角形再分为底边和腰不相等的等腰三角形和等边三角形.
+
+> **结论 13.2.1 (三角形三边关系)**
+> 
+> 三角形任意两边的和大于第三边, 任意两边的差小于第三边. 反之, 三条线段中任意两条的和大于第三条时, 它们才能组成三角形.
+
+> **定义 13.2.1 (三角形的中线)**
+> 
+> 连接三角形的顶点和它所对边的中点所得的线段叫作三角形的中线. 一个三角形有三条中线, 它们相交于一点, 该点叫作三角形的重心.
+
+> **定义 13.2.1 (中线)**
+> 
+> 连接顶点与对边中点的线段叫作中线, 三条中线交于重心.
+
+> **结论 13.2.2 (三角形的稳定性)**
+> 
+> 三角形木架的形状不会改变, 三角形是具有稳定性的图形.
+
+> **定义 13.2.2 (三角形的角平分线)**
+> 
+> 三角形的一个角的平分线交这个角所对的边于一点, 顶点与该交点间的线段叫作三角形的角平分线. 三条角平分线相交于一点.
+
+> **定义 13.2.2 (角平分线)**
+> 
+> 角的平分线与对边相交所得线段叫作三角形的角平分线.
+
+> **定义 13.2.3 (三角形的高)**
+> 
+> 从三角形的顶点向它所对的边所在直线画垂线, 顶点与垂足间的线段叫作三角形的高.
+
+> **结论 13.2.3 (高的位置)**
+> 
+> 锐角三角形的三条高都在三角形内部; 直角三角形有两条高恰好是它的两条直角边; 钝角三角形有两条高在三角形外部, 两个垂足落在边的延长线上.
+
+> **定义 13.2.3 (高)**
+> 
+> 从顶点向对边所在直线作垂线, 顶点与垂足间的线段叫作高.
+
+> **定理 13.3.1 (三角形内角和定理)**
+> 
+> 三角形的内角和等于 $180^\circ$.
+
+> **结论 13.3.1 (直角三角形的锐角互余)**
+> 
+> 直角三角形的两个锐角互余; 反之, 有两个角互余的三角形是直角三角形. 直角三角形记作 $\text{Rt}\triangle$.
+
+> **定义 13.3.1 (三角形的外角)**
+> 
+> 三角形的一边与另一边的延长线组成的角, 叫作三角形的外角.
+
+> **推论 13.3.1 (外角与不相邻内角的关系)**
+> 
+> 三角形的外角等于与它不相邻的两个内角的和. 三角形的三个外角和等于 $360^\circ$.
+
 ## 习题一
+
+(习题 13.1 综合运用第 3 题) 如图, 在 $\triangle ABC$ 中, $AD\perp BC$, 垂足为 $D$, $\angle BAC$ 是钝角, $E$ 是 $DC$ 上一点, 且 $\angle BAE$ 是锐角, $EF\perp AC$, 垂足为 $F$.
+
+(1) 图中有几个三角形? 用符号表示这些三角形.
+
+(2) 找出图中的锐角三角形, 直角三角形和钝角三角形.
+
+图中为三角形 $ABC$($\angle BAC$ 为钝角), $AD\perp BC$ 垂足为 $D$, 点 $E$ 在 $DC$ 上, $EF\perp AC$ 垂足为 $F$.
+
+### 解答 习题一
+
+(1) 由 $B,D,E,C$ 在直线 $BC$ 上顺次排列且 $AB$, $AD$, $AE$, $AC$ 均已画出, 得 $\triangle ABD$, $\triangle ABE$, $\triangle ADE$, $\triangle ADC$, $\triangle AEC$, $\triangle ABC$; 又由 $EF\perp AC$ 将 $\triangle AEC$ 内部分为 $\triangle AEF$ 与 $\triangle EFC$, 它们本身也是三角形. 故图中共有 $8$ 个三角形: $\triangle ABD$, $\triangle ABE$, $\triangle ADE$, $\triangle ADC$, $\triangle AEC$, $\triangle ABC$, $\triangle AEF$, $\triangle EFC$.
+
+(2) 由 $AD\perp BC$, 知 $\angle ADB=\angle ADE=\angle ADC=90^\circ$, 故 $\triangle ABD$, $\triangle ADE$, $\triangle ADC$ 是直角三角形; 由 $EF\perp AC$, 知 $\angle AFE=\angle CFE=90^\circ$, 故 $\triangle AEF$, $\triangle EFC$ 是直角三角形.
+
+由 $\angle BAC$ 为钝角, 知 $\triangle ABC$ 是钝角三角形. 同练习二的推理, $\triangle AEC$ 在点 $E$ 处的角为钝角, 故 $\triangle AEC$ 是钝角三角形. 余下的 $\triangle ABE$ 三个角均为锐角, 故它是锐角三角形.
+
+综上, 直角三角形为 $\triangle ABD$, $\triangle ADE$, $\triangle ADC$, $\triangle AEF$, $\triangle EFC$; 钝角三角形为 $\triangle ABC$, $\triangle AEC$; 锐角三角形为 $\triangle ABE$. $\blacksquare$
+
+## 习题二
+
+(习题 13.1 综合运用第 4 题) 如图, $AB=BC=CD=DA=AC$, 找出图中的等腰三角形和等边三角形.
+
+图中为两个等边三角形 $ABC$ 和 $ADC$, 以 $AC$ 为公共边, 顶点 $B$, $D$ 分别在 $AC$ 两侧.
+
+### 解答 习题二
+
+由**定义 13.1.3 (等腰三角形)** 及**定义 13.1.4 (等边三角形)**, 图中的三角形为 $\triangle ABC$ 与 $\triangle ADC$, 它们以 $AC$ 为公共边, 顶点分别在 $AC$ 两侧.
+
+由 $AB=BC=AC$, 知 $\triangle ABC$ 三边相等, 是等边三角形; 由 $AD=DC=AC$, 知 $\triangle ADC$ 三边相等, 也是等边三角形.
+
+故等腰三角形为 $\triangle ABC$, $\triangle ADC$; 等边三角形为 $\triangle ABC$, $\triangle ADC$. $\blacksquare$
+
+## 习题三
+
+(习题 13.1 拓广探索第 5 题) 如图, 已知点 $A,B$ 在直线 $a$ 上, 点 $C,D,E$ 在直线 $b$ 上. 以点 $A,B,C,D,E$ 中的任意三点作为三角形的顶点, 一共可以组成多少个三角形? 分别写出这些三角形.
+
+图中两条直线 $a$, $b$, 点 $A,B$ 在直线 $a$ 上, 点 $C,D,E$ 在直线 $b$ 上.
+
+### 解答 习题三
+
+从 $5$ 个点中任取 $3$ 个, 共有 $\binom{5}{3}=10$ 种取法. 其中 $C,D,E$ 三点同在直线 $b$ 上, 不能构成三角形, 应去掉 $1$ 种; 而 $A,B$ 同在直线 $a$ 上但仅有两点, 不含三点共线的情形.
+
+故一共可组成 $10-1=9$ 个三角形, 它们是 $\triangle ABC$, $\triangle ABD$, $\triangle ABE$, $\triangle ACD$, $\triangle ACE$, $\triangle ADE$, $\triangle BCD$, $\triangle BCE$, $\triangle BDE$. $\blacksquare$
+
+## 练习一
+
+(练习 13.2 第 1 题) 下列长度的三条线段能否组成三角形? 为什么?
+
+(1) $3$, $4$, $8$;
+
+(2) $5$, $6$, $11$;
+
+(3) $5$, $6$, $10$.
+
+### 解答 练习一
+
+由三角形三边关系, 三条线段能组成三角形当且仅当任意两条线段的和大于第三条线段.
+
+(1) $3+4=7< 8$, 不满足两边的和大于第三边, 故不能组成三角形.
+
+(2) $5+6=11$, 不大于 $11$, 故不能组成三角形.
+
+(3) $5+6=11> 10$, $5+10=15> 6$, $6+10=16> 5$, 任意两边的和都大于第三边, 故能组成三角形. $\blacksquare$
+
+## 练习二
+
+(练习 13.2 第 2 题) 一根 $4\ \text{dm}$ 长的木条和两根 $1\ \text{dm}$ 长的木条, 能否组成一个等腰三角形? 两根 $4\ \text{dm}$ 长的木条和一根 $1\ \text{dm}$ 长的木条呢?
+
+### 解答 练习二
+
+由三角形三边关系 检验两种情形.
+
+第一种情形三边长为 $4$, $1$, $1$: $1+1=2< 4$, 不满足两边的和大于第三边, 故不能组成等腰三角形.
+
+第二种情形三边长为 $4$, $4$, $1$: $4+1=5> 4$, $4+4=8> 1$, 满足三边关系, 故能组成等腰三角形. $\blacksquare$
+
+## 练习三
+
+(练习 13.2 第 1 题) 如图, 过 $\triangle ABC$ 的顶点 $C$ 分别画出它的中线, 角平分线和高.
+
+图中为一个任意三角形 $ABC$, 顶点 $C$ 在上方, 边 $AB$ 水平放置在下方.
+
+### 解答 练习三
+
+由**定义 13.2.1 (中线)**, 取边 $AB$ 的中点, 连接该中点与顶点 $C$, 即得 $AB$ 边上的中线.
+
+由**定义 13.2.2 (角平分线)**, 作 $\angle C$ 的平分线交边 $AB$ 于一点, 顶点 $C$ 与该交点间的线段即为角平分线.
+
+由**定义 13.2.3 (高)**, 从顶点 $C$ 向对边 $AB$ 所在直线作垂线, 顶点 $C$ 与垂足间的线段即为 $AB$ 边上的高. 三者均已在图中画出. $\blacksquare$
+
+## 练习四
+
+(练习 13.2 第 2 题) 填空题.
+
+(1) 如图 (1), $AD$, $BE$, $CF$ 是 $\triangle ABC$ 的三条中线, 则 $BD=\;\_\_\; $, $AE=\frac{1}{2}\;\_\_\; $, $AB=2\;\_\_\; $;
+
+(2) 如图 (2), $AD$, $BE$, $CF$ 是 $\triangle ABC$ 的三条角平分线, 则 $\angle 1=\;\_\_\; $, $\angle 3=\frac{1}{2}\;\_\_\; $, $\angle ACB=2\;\_\_\; $.
+
+图中左右并排两个三角形: 图 (1) 中 $D$, $E$, $F$ 依次为边 $BC$, $AC$, $AB$ 的中点, $AD$, $BE$, $CF$ 为三条中线; 图 (2) 中 $AD$, $BE$, $CF$ 依次平分 $\angle BAC$, $\angle ABC$, $\angle ACB$ 并分别交对边于 $D$, $E$, $F$.
+
+### 解答 练习四
+
+由**定义 13.2.1 (中线)**, 中线把对边分成相等的两段; 由**定义 13.2.2 (角平分线)**, 角平分线把该角分成两个相等的角.
+
+(1) $D$ 是 $BC$ 的中点, 故 $BD=DC$; $E$ 是 $AC$ 的中点, 故 $AE=\frac{1}{2}AC$; $F$ 是 $AB$ 的中点, 故 $AB=2AF$.
+
+(2) $AD$ 平分 $\angle BAC$, 故 $\angle 1=\angle 2$; $BE$ 平分 $\angle ABC$, 故 $\angle 3=\frac{1}{2}\angle ABC$; $CF$ 平分 $\angle ACB$, 故 $\angle ACB=2\angle 4$. $\blacksquare$
+
+## 习题四
 
 (习题 13.2 复习巩固第 1 题) 三角形的三边长分别为 $2$, $7$, $a$, 则 $a$ 的取值范围是 $\;\_\_\; $.
 
-### 解答 习题一
+### 解答 习题四
 
 由三角形三边关系, 第三边 $a$ 应满足另两边的和大于 $a$ 且另两边的差小于 $a$.
 
@@ -14,11 +196,11 @@ $$
 
 即 $a$ 的取值范围是 $5< a< 9$. $\blacksquare$
 
-## 习题二
+## 习题五
 
 (习题 13.2 复习巩固第 2 题) 长为 $100\ \text{cm}$, $70\ \text{cm}$, $50\ \text{cm}$, $30\ \text{cm}$ 的四根木条, 选其中三根组成三角形, 有几种选法? 为什么?
 
-### 解答 习题二
+### 解答 习题五
 
 由三角形三边关系, 从四根中任取三根检验:
 
@@ -32,19 +214,19 @@ $$
 
 故共有 $2$ 种选法. $\blacksquare$
 
-## 习题三
+## 习题六
 
 (习题 13.2 复习巩固第 3 题) 对于下面每个三角形, 分别过顶点 $A$ 画出它的中线, 角平分线和高.
 
 图中从左到右依次排列三个三角形: (1) 为锐角三角形, 顶点 $A$ 在上方, $BC$ 为水平底边; (2) 为直角三角形, $\angle A=90^\circ$; (3) 为钝角三角形, $\angle A$ 为钝角, $BC$ 为水平底边.
 
-### 解答 习题三
+### 解答 习题六
 
-由中线, 取对边 $BC$ 的中点, 连接顶点 $A$ 与该中点即得中线; 由角平分线, 作 $\angle A$ 的平分线交 $BC$ 即得角平分线; 由高, 从顶点 $A$ 向对边 $BC$ 所在直线作垂线即得高.
+由**定义 13.2.1 (中线)**, 取对边 $BC$ 的中点, 连接顶点 $A$ 与该中点即得中线; 由**定义 13.2.2 (角平分线)**, 作 $\angle A$ 的平分线交 $BC$ 即得角平分线; 由**定义 13.2.3 (高)**, 从顶点 $A$ 向对边 $BC$ 所在直线作垂线即得高.
 
 对锐角三角形 (1), 中线, 角平分线, 高都在三角形内部; 对直角三角形 (2), 其中一条高与直角边重合; 对钝角三角形 (3), 高的垂足落在边 $BC$ 的延长线上. 三者已在图中分别画出. $\blacksquare$
 
-## 习题四
+## 习题七
 
 (习题 13.2 复习巩固第 4 题) 如图, 在 $\triangle ABC$ 中, $AE$ 是中线, $AD$ 是角平分线, $AF$ 是高. 填空:
 
@@ -58,9 +240,9 @@ $$
 
 图中为 $\triangle ABC$, 边 $BC$ 水平, 顶点 $A$ 在上方; $E$ 为 $BC$ 的中点, $D$ 为角平分线 $AD$ 与 $BC$ 的交点, $F$ 为垂足且 $AF\perp BC$.
 
-### 解答 习题四
+### 解答 习题七
 
-由中线, $E$ 是 $BC$ 的中点; 由角平分线, $AD$ 平分 $\angle BAC$; 由高, $AF\perp BC$.
+由**定义 13.2.1 (中线)**, $E$ 是 $BC$ 的中点; 由**定义 13.2.2 (角平分线)**, $AD$ 平分 $\angle BAC$; 由**定义 13.2.3 (高)**, $AF\perp BC$.
 
 (1) $BE=EC=\frac{1}{2}BC$.
 
@@ -70,11 +252,11 @@ $$
 
 (4) $S_{\triangle ABC}=\frac{1}{2}\cdot BC\cdot AF=\frac{1}{2}\times8\times5=20$. 又 $BE=\frac{1}{2}BC=4$, 且以 $BE$ 为底时高同为 $AF$, 故 $S_{\triangle ABE}=\frac{1}{2}\cdot BE\cdot AF=\frac{1}{2}\times4\times5=10$. $\blacksquare$
 
-## 习题五
+## 习题八
 
 (习题 13.2 综合运用第 5 题) 一个等腰三角形的一边长为 $6$, 周长为 $20$, 求其他两边的长.
 
-### 解答 习题五
+### 解答 习题八
 
 该边 $6$ 可能是腰, 也可能是底边, 分两种情形讨论, 并用三角形三边关系 检验.
 
@@ -84,7 +266,7 @@ $$
 
 故其他两边的长为 $6$ 和 $8$, 或 $7$ 和 $7$. $\blacksquare$
 
-## 习题六
+## 习题九
 
 (习题 13.2 综合运用第 6 题)
 
@@ -92,7 +274,7 @@ $$
 
 (2) 已知等腰三角形的一边长为 $4$, 一边长为 $9$, 求它的周长.
 
-### 解答 习题六
+### 解答 习题九
 
 由三角形三边关系 对两种情形检验.
 
@@ -100,15 +282,15 @@ $$
 
 (2) 若 $4$ 为腰, 三边长为 $4$, $4$, $9$, 由 $4+4=8< 9$, 不能组成三角形. 若 $9$ 为腰, 三边长为 $9$, $9$, $4$, 由 $9+4=13> 9$, 周长为 $9+9+4=22$. 故周长为 $22$. $\blacksquare$
 
-## 习题七
+## 习题十
 
 (习题 13.2 拓广探索第 7 题) 如图, 在 $\triangle ABC$ 中, 若 $AB=2$, $BC=4$, 则 $\triangle ABC$ 的高 $AD$ 与 $CE$ 的比是多少? (提示: 利用三角形的面积公式.)
 
 图中为 $\triangle ABC$, 边 $BC$ 水平, 顶点 $A$ 在上方, $AB=2$, $BC=4$; $AD$ 是从 $A$ 向 $BC$ 作的高, 垂足 $D$ 在 $BC$ 上; $CE$ 是从 $C$ 向 $AB$ 作的高, 垂足 $E$ 在 $AB$ 上.
 
-### 解答 习题七
+### 解答 习题十
 
-由高, $AD$ 是边 $BC$ 上的高, $CE$ 是边 $AB$ 上的高. 同一三角形的面积可以用两组底高分别表示.
+由**定义 13.2.3 (高)**, $AD$ 是边 $BC$ 上的高, $CE$ 是边 $AB$ 上的高. 同一三角形的面积可以用两组底高分别表示.
 
 $$
 S_{\triangle ABC}=\frac{1}{2}\cdot BC\cdot AD=\frac{1}{2}\cdot AB\cdot CE.
@@ -122,13 +304,13 @@ $$
 
 $\blacksquare$
 
-## 习题八
+## 习题十一
 
 (习题 13.2 拓广探索第 8 题) 如图, 在 $\triangle ABC$ 中, $AD$ 是它的角平分线, $DE\parallel AC$, $DE$ 交 $AB$ 于点 $E$, $DF\parallel AB$, $DF$ 交 $AC$ 于点 $F$. 图中 $\angle 1$ 与 $\angle 2$ 有什么关系? 为什么?
 
 图中为 $\triangle ABC$, $AD$ 平分 $\angle BAC$ 交 $BC$ 于 $D$; 过 $D$ 作 $DE\parallel AC$ 交 $AB$ 于 $E$, 作 $DF\parallel AB$ 交 $AC$ 于 $F$; $\angle 1$ 为 $AD$ 与 $DE$ 的夹角 $\angle ADE$, $\angle 2$ 为 $AD$ 与 $DF$ 的夹角 $\angle ADF$.
 
-### 解答 习题八
+### 解答 习题十一
 
 $\angle 1=\angle 2$. 理由如下.
 
@@ -136,17 +318,17 @@ $\angle 1=\angle 2$. 理由如下.
 
 由 $DF\parallel AB$, 直线 $AD$ 截这组平行线所得的内错角相等, 故 $\angle 2=\angle BAD$.
 
-又由角平分线, $AD$ 平分 $\angle BAC$, 故 $\angle BAD=\angle DAC$.
+又由**定义 13.2.2 (角平分线)**, $AD$ 平分 $\angle BAC$, 故 $\angle BAD=\angle DAC$.
 
 综上, $\angle 1=\angle DAC=\angle BAD=\angle 2$, 即 $\angle 1=\angle 2$. $\blacksquare$
 
-## 练习一
+## 练习五
 
 (练习 13.3 第 1 题) 如图, 从 $A$ 处观测 $C$ 处的仰角 $\angle CAD=30^\circ$, 从 $B$ 处观测 $C$ 处的仰角 $\angle CBD=45^\circ$. 从 $C$ 处观测 $A$, $B$ 两处的视角 $\angle ACB$ 是多少度?
 
-### 解答 练习一
+### 解答 练习五
 
-由外角与不相邻内角的关系, $\angle CBD$ 是 $\triangle ABC$ 在点 $B$ 处的外角, 它等于不相邻的两个内角 $\angle CAD$ 与 $\angle ACB$ 的和.
+由**推论 13.3.1 (外角与不相邻内角的关系)**, $\angle CBD$ 是 $\triangle ABC$ 在点 $B$ 处的外角, 它等于不相邻的两个内角 $\angle CAD$ 与 $\angle ACB$ 的和.
 
 $$
 \angle CBD=\angle CAD+\angle ACB.
@@ -160,13 +342,13 @@ $$
 
 $\blacksquare$
 
-## 练习二
+## 练习六
 
 (练习 13.3 第 2 题) 如图, 在 $\triangle ABC$ 中, $\angle A=40^\circ$, 求 $\angle B+\angle C+\angle ADE+\angle AED$ 的度数.
 
-### 解答 练习二
+### 解答 练习六
 
-由三角形内角和定理, 在 $\triangle ABC$ 中,
+由**定理 13.3.1 (三角形内角和定理)**, 在 $\triangle ABC$ 中,
 
 $$
 \angle B+\angle C=180^\circ-\angle A=180^\circ-40^\circ=140^\circ.
@@ -186,11 +368,11 @@ $$
 
 $\blacksquare$
 
-## 练习三
+## 练习七
 
 (练习 13.3 第 1 题) 如图, 在 $\triangle ABC$ 中, $\angle ACB=90^\circ$, $CD\perp AB$, 垂足为 $D$. $\angle ACD$ 与 $\angle B$ 有什么关系? 为什么?
 
-### 解答 练习三
+### 解答 练习七
 
 $\angle ACD=\angle B$. 理由如下.
 
@@ -198,11 +380,11 @@ $\angle ACD=\angle B$. 理由如下.
 
 $\angle ACD$ 与 $\angle B$ 都是 $\angle A$ 的余角, 故 $\angle ACD=\angle B$. $\blacksquare$
 
-## 练习四
+## 练习八
 
 (练习 13.3 第 2 题) 如图, 在 $\triangle ABC$ 中, $\angle C=90^\circ$, 点 $D$, $E$ 分别在边 $AB$, $AC$ 上, 且 $\angle 1=\angle 2$, $\triangle ADE$ 是直角三角形吗? 为什么?
 
-### 解答 练习四
+### 解答 练习八
 
 $\triangle ADE$ 是直角三角形. 理由如下.
 
@@ -210,15 +392,15 @@ $\triangle ADE$ 是直角三角形. 理由如下.
 
 故 $\angle A+\angle ADE=\angle A+\angle B=90^\circ$, 从而在 $\triangle ADE$ 中, $\angle AED=180^\circ-\left(\angle A+\angle ADE\right)=90^\circ$. 所以 $\triangle ADE$ 是直角三角形. $\blacksquare$
 
-## 练习五
+## 练习九
 
 (练习 13.3 第 1 题) 说出下列各图形中 $\angle 1$ 和 $\angle 2$ 的度数.
 
 图中从左到右, 从上到下排列六个三角形: 图 (1) 中已知两内角分别为 $80^\circ$ 和 $60^\circ$, $\angle 1$ 为第三个内角, $\angle 2$ 为其中一个内角的外角; 图 (2) 中已知两角分别为 $30^\circ$ 和 $40^\circ$, $\angle 1$ 为第三个内角, $\angle 2$ 为其外角; 图 (3) 为直角三角形, 已知一锐角为 $40^\circ$, $\angle 1$ 为另一锐角, $\angle 2$ 为该 $40^\circ$ 锐角的外角; 图 (4) 中已知 $\angle A=70^\circ$, $\angle B=40^\circ$, $\angle 1$ 为 $\angle A$ 的外角, $\angle 2$ 为第三个内角; 图 (5) 为等边三角形, 从 $AB$ 边上一点连至顶点 $C$, 已知 $\angle 2=20^\circ$, $\angle 1$ 为小三角形中的一个角; 图 (6) 中两直线相交, 下方直角三角形含 $30^\circ$ 锐角, $\angle 1$ 与 $\angle 2$ 为交点处相应的对顶角.
 
-### 解答 练习五
+### 解答 练习九
 
-由三角形内角和定理 及外角与不相邻内角的关系.
+由**定理 13.3.1 (三角形内角和定理)** 及**推论 13.3.1 (外角与不相邻内角的关系)**.
 
 图 (1): 两内角为 $80^\circ$, $60^\circ$, 故 $\angle 1=180^\circ-80^\circ-60^\circ=40^\circ$, $\angle 2=80^\circ+60^\circ=140^\circ$.
 
@@ -232,15 +414,15 @@ $\triangle ADE$ 是直角三角形. 理由如下.
 
 图 (6): 下方直角三角形中 $30^\circ$ 所对的另一锐角为 $60^\circ$, 由对顶角关系得 $\angle 1=60^\circ$, $\angle 2=30^\circ$. $\blacksquare$
 
-## 习题九
+## 习题十二
 
 (习题 13.3 复习巩固第 1 题) 求出下列各图形中 $x$ 的值.
 
 图中从左到右排列四个三角形: 图 (1) 中三内角分别为 $39^\circ$, $108^\circ$ 和 $x$; 图 (2) 中三个内角均为 $x$ (即 $3x$); 图 (3) 中两内角分别为 $72^\circ$ 和 $2x$; 图 (4) 中三内角分别为 $x$, $x-36^\circ$, $x+36^\circ$.
 
-### 解答 习题九
+### 解答 习题十二
 
-由三角形内角和定理, 三内角之和为 $180^\circ$.
+由**定理 13.3.1 (三角形内角和定理)**, 三内角之和为 $180^\circ$.
 
 图 (1): $x=180^\circ-39^\circ-108^\circ=33^\circ$.
 
@@ -250,7 +432,7 @@ $\triangle ADE$ 是直角三角形. 理由如下.
 
 图 (4): $x+\left(x-36^\circ\right)+\left(x+36^\circ\right)=3x=180^\circ$, 故 $x=60^\circ$. $\blacksquare$
 
-## 习题十
+## 习题十三
 
 (习题 13.3 复习巩固第 2 题)
 
@@ -260,9 +442,9 @@ $\triangle ADE$ 是直角三角形. 理由如下.
 
 (3) 直角三角形的外角可以是锐角吗? 为什么?
 
-### 解答 习题十
+### 解答 习题十三
 
-由三角形内角和定理, 三角形三内角之和为 $180^\circ$.
+由**定理 13.3.1 (三角形内角和定理)**, 三角形三内角之和为 $180^\circ$.
 
 (1) 最多 $1$ 个直角. 若有两个直角, 其和已达 $180^\circ$, 第三个角只能为 $0^\circ$, 不能构成三角形.
 
@@ -270,164 +452,16 @@ $\triangle ADE$ 是直角三角形. 理由如下.
 
 (3) 不可以. 直角三角形中直角的外角为 $90^\circ$, 两个锐角的外角分别为 $180^\circ$ 减去一个锐角, 必大于 $90^\circ$, 故其外角都不是锐角. $\blacksquare$
 
-## 习题十一
+## 习题十四
 
 (习题 13.3 复习巩固第 3 题) 在 $\triangle ABC$ 中, $\angle B$ 比 $\angle A$ 大 $10^\circ$, $\angle C$ 比 $\angle B$ 大 $10^\circ$. 求 $\triangle ABC$ 各内角的度数.
 
-### 解答 习题十一
+### 解答 习题十四
 
-由三角形内角和定理, 设 $\angle A=x$, 则 $\angle B=x+10^\circ$, $\angle C=x+20^\circ$.
+由**定理 13.3.1 (三角形内角和定理)**, 设 $\angle A=x$, 则 $\angle B=x+10^\circ$, $\angle C=x+20^\circ$.
 
 $$
 x+\left(x+10^\circ\right)+\left(x+20^\circ\right)=180^\circ.
 $$
 
 解得 $3x=150^\circ$, 即 $x=50^\circ$. 故 $\angle A=50^\circ$, $\angle B=60^\circ$, $\angle C=70^\circ$. $\blacksquare$
-
-## 习题十二
-
-(习题 13.3 复习巩固第 4 题) 如图, 在 $\triangle ABC$ 中, $AD\perp BC$, 垂足为 $D$, $\angle 1=\angle 2$, $\angle C=65^\circ$. 求 $\angle BAC$ 的度数.
-
-### 解答 习题十二
-
-在 $\text{Rt}\triangle ADC$ 中, 由直角三角形的锐角互余,
-
-$$
-\angle DAC=90^\circ-\angle C=90^\circ-65^\circ=25^\circ.
-$$
-
-在 $\text{Rt}\triangle ADB$ 中, $\angle ADB=90^\circ$, 故 $\angle 1+\angle 2=90^\circ$. 由 $\angle 1=\angle 2$, 得 $\angle 1=45^\circ$.
-
-因此
-
-$$
-\angle BAC=\angle 1+\angle DAC=45^\circ+25^\circ=70^\circ.
-$$
-
-$\blacksquare$
-
-## 习题十三
-
-(习题 13.3 综合运用第 5 题) 如图, $AB\parallel CD$, $\angle A=40^\circ$, $\angle D=45^\circ$. 求 $\angle 1$ 和 $\angle 2$ 的度数.
-
-### 解答 习题十三
-
-由 $AB\parallel CD$, 直线 $AC$ 截这组平行线所得内错角相等, 故 $\angle 1=\angle A=40^\circ$. 同理, 直线 $BD$ 截得 $\angle DBA=\angle D=45^\circ$.
-
-在 $\triangle AOB$ 中, 由三角形内角和定理,
-
-$$
-\angle 2=180^\circ-\angle A-\angle DBA=180^\circ-40^\circ-45^\circ=95^\circ.
-$$
-
-故 $\angle 1=40^\circ$, $\angle 2=95^\circ$. $\blacksquare$
-
-## 习题十四
-
-(习题 13.3 综合运用第 6 题) 如图, $AB\parallel CD$, $AE$ 与 $CD$ 相交于点 $O$, $\angle A=45^\circ$, $\angle C=\angle E$. 求 $\angle C$ 的度数.
-
-### 解答 习题十四
-
-由 $AB\parallel CD$, 直线 $AE$ 截得内错角相等, 故 $\angle COE=\angle A=45^\circ$.
-
-在 $\triangle COE$ 中, 由三角形内角和定理 及 $\angle C=\angle E$,
-
-$$
-2\angle C+45^\circ=180^\circ.
-$$
-
-解得 $\angle C=67.5^\circ$. $\blacksquare$
-
-## 习题十五
-
-(习题 13.3 综合运用第 7 题) 如图, $B$ 处在 $A$ 处的南偏西 $45^\circ$ 方向, $C$ 处在 $A$ 处的南偏东 $15^\circ$ 方向, $C$ 处在 $B$ 处的北偏东 $80^\circ$ 方向. 求 $\angle ACB$ 的度数.
-
-### 解答 习题十五
-
-在点 $A$ 处, 正南方向为基准, $B$ 在其西 $45^\circ$, $C$ 在其东 $15^\circ$, 故
-
-$$
-\angle BAC=45^\circ+15^\circ=60^\circ.
-$$
-
-点 $A$ 与点 $B$ 的南北方向线互相平行, 由内错角相等, 从 $B$ 看 $A$ 为北偏东 $45^\circ$. 又 $C$ 在 $B$ 的北偏东 $80^\circ$, 故
-
-$$
-\angle ABC=80^\circ-45^\circ=35^\circ.
-$$
-
-由三角形内角和定理,
-
-$$
-\angle ACB=180^\circ-\angle BAC-\angle ABC=180^\circ-60^\circ-35^\circ=85^\circ.
-$$
-
-$\blacksquare$
-
-## 习题十六
-
-(习题 13.3 综合运用第 8 题) 如图, 在 $\triangle ABC$ 中, $D$ 是边 $AB$ 上一点, $E$ 是边 $AC$ 上一点, $BE$, $CD$ 相交于点 $F$, $\angle A=62^\circ$, $\angle ACD=35^\circ$, $\angle ABE=20^\circ$. 求 $\angle BDC$ 和 $\angle BFD$ 的度数.
-
-### 解答 习题十六
-
-由外角与不相邻内角的关系, $\angle BDC$ 是 $\triangle ADC$ 在点 $D$ 处的外角, 故
-
-$$
-\angle BDC=\angle A+\angle ACD=62^\circ+35^\circ=97^\circ.
-$$
-
-在 $\triangle BDF$ 中, $\angle BDF=\angle BDC=97^\circ$, $\angle DBF=\angle ABE=20^\circ$. 由三角形内角和定理,
-
-$$
-\angle BFD=180^\circ-\angle BDF-\angle DBF=180^\circ-97^\circ-20^\circ=63^\circ.
-$$
-
-$\blacksquare$
-
-## 习题十七
-
-(习题 13.3 综合运用第 9 题) 如图, 在 $\triangle ABC$ 中, $\angle A=100^\circ$, $\angle 1=\angle 2$, $\angle 3=\angle 4$. 求 $x$ 的值.
-
-### 解答 习题十七
-
-由三角形内角和定理,
-
-$$
-\angle B+\angle C=180^\circ-\angle A=80^\circ.
-$$
-
-由 $\angle 1=\angle 2$, 得 $\angle B=2\angle 2$; 由 $\angle 3=\angle 4$, 得 $\angle C=2\angle 4$. 故
-
-$$
-2\angle 2+2\angle 4=80^\circ,\quad \angle 2+\angle 4=40^\circ.
-$$
-
-在含 $x$ 的三角形中,
-
-$$
-x=180^\circ-\left(\angle 2+\angle 4\right)=180^\circ-40^\circ=140^\circ.
-$$
-
-$\blacksquare$
-
-## 习题十八
-
-(习题 13.3 拓广探索第 10 题) 如图, $AB\parallel CD$, $\angle BAE=\angle DCE=45^\circ$. 填空.
-
-### 解答 习题十八
-
-由 $AB\parallel CD$, 直线 $AE$, $CE$ 截出的同旁内角之和为 $180^\circ$, 故
-
-$$
-\angle 1+45^\circ+\angle 2+45^\circ=180^\circ.
-$$
-
-从而
-
-$$
-\angle 1+\angle 2=180^\circ-90^\circ=90^\circ.
-$$
-
-在 $\triangle AEC$ 中, 由三角形内角和定理, $\angle E=180^\circ-\left(\angle 1+\angle 2\right)=90^\circ$.
-
-故依次填 $180^\circ$, $90^\circ$, $90^\circ$. $\blacksquare$

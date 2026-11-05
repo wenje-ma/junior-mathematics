@@ -1,6 +1,116 @@
 # week36
 
+> **Definition 16.2.1 (Multiplication of a Monomial by a Monomial)**
+> 
+> Multiply their coefficients and their powers with the same base separately to form factors of the product; for a letter appearing in only one monomial, take it together with its exponent as a factor of the product.
+
+> **Definition 16.2.2 (Multiplication of a Monomial by a Polynomial)**
+> 
+> Multiply each term of the polynomial by the monomial, then add the resulting products, i.e. $p\left(a+b+c\right)=pa+pb+pc$.
+
+> **Definition 16.2.3 (Multiplication of a Polynomial by a Polynomial)**
+> 
+> First multiply each term of one polynomial by each term of the other polynomial, then add the resulting products, i.e. $\left(a+b\right)\left(p+q\right)=ap+aq+bp+bq$.
+
+> **Definition 16.2.4 (Division of Powers with the Same Base)**
+> 
+> $a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ are both positive integers, $m> n$); that is, when dividing powers with the same base, the base is unchanged and the exponents are subtracted.
+
+> **Definition 16.2.5 (Zero Exponent Power)**
+> 
+> $a^0=1$ ($a\ne0$); that is, the $0$-th power of any number not equal to $0$ equals $1$.
+
+> **Definition 16.2.6 (Division of a Monomial by a Monomial)**
+> 
+> Divide the coefficients and the powers with the same base separately to form factors of the quotient; for a letter appearing only in the dividend, take it together with its exponent as a factor of the quotient.
+
+> **Definition 16.2.7 (Division of a Polynomial by a Monomial)**
+> 
+> First divide each term of this polynomial by the monomial, then add the resulting quotients.
+
+> **Definition 16.3.1 (Difference of Squares Formula)**
+> 
+> $\left(a+b\right)\left(a-b\right)=a^2-b^2$, that is, the product of the sum of two numbers and the difference of the same two numbers equals the difference of their squares.
+
+> **Definition 16.3.2 (Perfect Square Formula)**
+> 
+> The square of the sum (or difference) of two numbers equals the sum of their squares plus (or minus) $2$ times their product, i.e. $\left(a+b\right)^2=a^2+2ab+b^2$, $\left(a-b\right)^2=a^2-2ab+b^2$.
+
+> **Definition 16.3.3 (Rule for Adding Parentheses)**
+> 
+> When the sign before the parentheses is positive, all terms enclosed keep their signs; when the sign before the parentheses is negative, all terms enclosed change their signs, i.e. $a+b+c=a+\left(b+c\right)$, $a-b-c=a-\left(b+c\right)$.
+
 ## Exercise 1
+
+(Exercise 16.2, Problem 2) Calculate:
+
+(1) $\left(x+2\right)\left(x+3\right)$;
+
+(2) $\left(x-4\right)\left(x+1\right)$;
+
+(3) $\left(x+4\right)\left(x-2\right)$;
+
+(4) $\left(x-5\right)\left(x-3\right)$.
+
+From the above results find a pattern; observe the figure and fill in the blank: $\left(x+p\right)\left(x+q\right)=\left(\;\;\right)^2+\left(\;\;\right)x+\left(\;\;\right)$.
+
+### Solution to Exercise 1
+
+By **Definition 16.2.3 (Multiplication of a Polynomial by a Polynomial)**.
+
+(1) $\left(x+2\right)\left(x+3\right)=x^2+5x+6$.
+
+(2) $\left(x-4\right)\left(x+1\right)=x^2-3x-4$.
+
+(3) $\left(x+4\right)\left(x-2\right)=x^2+2x-8$.
+
+(4) $\left(x-5\right)\left(x-3\right)=x^2-8x+15$.
+
+Observing the expressions: the coefficient of the quadratic term is $1$, the coefficient of the linear term equals the sum of the two constants, and the constant term equals the product of the two constants. Hence
+
+$$\left(x+p\right)\left(x+q\right)=x^2+\left(p+q\right)x+pq.$$
+
+$\blacksquare$
+
+## Exercise 2
+
+(Exercise 16.2, Problem 3) First simplify, then evaluate: $\left(x-y\right)\left(x^2+xy+y^2\right)-\left(x+y\right)\left(x^2-y^2\right)$, where $x=5$, $y=5$.
+
+### Solution to Exercise 2
+
+By **Definition 16.2.3 (Multiplication of a Polynomial by a Polynomial)**.
+
+$$\left(x-y\right)\left(x^2+xy+y^2\right)=x^3-y^3,$$
+
+$$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y\right)=\left(x+y\right)^2\left(x-y\right).$$
+
+Substituting $x=5,y=5$, we have $x-y=0$, so the original expression $=0-\left(x+y\right)\cdot0=0$. $\blacksquare$
+
+## Exercise 3
+
+(Exercise 16.2, Problem 1) Calculate:
+
+(1) $x^7\div x^5$;
+
+(2) $m^8\div m^8$;
+
+(3) $\left(-a\right)^{10}\div\left(-a\right)^7$;
+
+(4) $\left(xy\right)^5\div\left(xy\right)^3$.
+
+### Solution to Exercise 3
+
+By **Definition 16.2.4 (Division of Powers with the Same Base)** and **Definition 16.2.5 (Zero Exponent Power)**.
+
+(1) $x^7\div x^5=x^2$.
+
+(2) $m^8\div m^8=m^0=1$.
+
+(3) $\left(-a\right)^{10}\div\left(-a\right)^7=\left(-a\right)^3=-a^3$.
+
+(4) $\left(xy\right)^5\div\left(xy\right)^3=\left(xy\right)^2=x^2 y^2$. $\blacksquare$
+
+## Exercise 4
 
 (Exercise 16.2, Problem 2) Calculate:
 
@@ -12,9 +122,9 @@
 
 (4) $\left(6\times10^8\right)\div\left(3\times10^5\right)$.
 
-### Solution to Exercise 1
+### Solution to Exercise 4
 
-By Division of a Monomial by a Monomial.
+By **Definition 16.2.6 (Division of a Monomial by a Monomial)**.
 
 (1) $\left(10ab^3\right)\div\left(-5ab\right)=-2b^2$.
 
@@ -24,7 +134,7 @@ By Division of a Monomial by a Monomial.
 
 (4) $\left(6\times10^8\right)\div\left(3\times10^5\right)=2\times10^3$. $\blacksquare$
 
-## Exercise 2
+## Exercise 5
 
 (Exercise 16.2, Problem 3) Calculate:
 
@@ -32,9 +142,9 @@ By Division of a Monomial by a Monomial.
 
 (2) $\left(15x^2 y-10xy^2\right)\div\left(5xy\right)$.
 
-### Solution to Exercise 2
+### Solution to Exercise 5
 
-By Division of a Polynomial by a Monomial.
+By **Definition 16.2.7 (Division of a Polynomial by a Monomial)**.
 
 (1) $\left(6ab+5a\right)\div a=6b+5$.
 
@@ -54,7 +164,7 @@ By Division of a Polynomial by a Monomial.
 
 ### Solution to Problem 1
 
-By Basic Knowledge.
+By **Definition 16.2.1 (Multiplication of a Monomial by a Monomial)**.
 
 (1) $3x\cdot6x^2 y=18x^3 y$.
 
@@ -78,7 +188,7 @@ By Basic Knowledge.
 
 ### Solution to Problem 2
 
-By Basic Knowledge.
+By **Definition 16.2.2 (Multiplication of a Monomial by a Polynomial)**.
 
 (1) $\left(4a-b^2\right)\left(-2b\right)=-8ab+2b^3$.
 
@@ -106,7 +216,7 @@ By Basic Knowledge.
 
 ### Solution to Problem 3
 
-By Basic Knowledge.
+By **Definition 16.2.3 (Multiplication of a Polynomial by a Polynomial)**.
 
 (1) $\left(x-6\right)\left(x-3\right)=x^2-9x+18$.
 
@@ -138,7 +248,7 @@ By Basic Knowledge.
 
 ### Solution to Problem 4
 
-By Basic Knowledge and Basic Knowledge.
+By **Definition 16.2.6 (Division of a Monomial by a Monomial)** and **Definition 16.2.7 (Division of a Polynomial by a Monomial)**.
 
 (1) $\left(a^3\right)^2\div\left(a^2\right)^3=a^6\div a^6=1$.
 
@@ -280,7 +390,7 @@ From $\left(x+p\right)\left(x+q\right)=x^2+\left(p+q\right)x+pq$, the coefficien
 
 (5) $pq=36$, $m=p+q$. Since $p,q$ are positive integers, take $\left(p,q\right)=\left(1,36\right),\left(2,18\right),\left(3,12\right),\left(4,9\right),\left(6,6\right)$, giving respectively $m=37,20,15,13,12$. $\blacksquare$
 
-## Exercise 3
+## Exercise 6
 
 (Exercise 16.3, Problem 1) Is each of the following calculations correct? If not, how should it be corrected?
 
@@ -290,9 +400,9 @@ From $\left(x+p\right)\left(x+q\right)=x^2+\left(p+q\right)x+pq$, the coefficien
 
 (3) $\left(-3ab-1\right)\left(3ab-1\right)=1-9a^2 b^2$.
 
-### Solution to Exercise 3
+### Solution to Exercise 6
 
-By Difference of Squares Formula.
+By **Definition 16.3.1 (Difference of Squares Formula)**.
 
 (1) Incorrect. $\left(x+2\right)\left(x-2\right)=x^2-4$; the square of $2$ was mistakenly omitted.
 
@@ -300,7 +410,7 @@ By Difference of Squares Formula.
 
 (3) Correct, taking $-1$ as the common term and $3ab$ as the opposite term, $\left(-1\right)^2-\left(3ab\right)^2=1-9a^2 b^2$. $\blacksquare$
 
-## Exercise 4
+## Exercise 7
 
 (Exercise 16.3, Problem 2) Calculate:
 
@@ -312,9 +422,9 @@ By Difference of Squares Formula.
 
 (4) $51\times49$.
 
-### Solution to Exercise 4
+### Solution to Exercise 7
 
-By Basic Knowledge.
+By **Definition 16.3.1 (Difference of Squares Formula)**.
 
 (1) $\left(a+3b\right)\left(a-3b\right)=a^2-9b^2$.
 
@@ -324,7 +434,7 @@ By Basic Knowledge.
 
 (4) $51\times49=\left(50+1\right)\left(50-1\right)=2500-1=2499$. $\blacksquare$
 
-## Exercise 5
+## Exercise 8
 
 (Exercise 16.3, Problem 3) Calculate:
 
@@ -332,15 +442,15 @@ By Basic Knowledge.
 
 (2) $\left(y+2\right)\left(y-2\right)\left(y^2+4\right)$.
 
-### Solution to Exercise 5
+### Solution to Exercise 8
 
-By Basic Knowledge.
+By **Definition 16.3.1 (Difference of Squares Formula)**.
 
 (1) $102\times98=\left(100+2\right)\left(100-2\right)=10000-4=9996$.
 
 (2) $\left(y+2\right)\left(y-2\right)\left(y^2+4\right)=\left(y^2-4\right)\left(y^2+4\right)=y^4-16$. $\blacksquare$
 
-## Exercise 6
+## Exercise 9
 
 (Exercise 16.3, Problem 1) Is each of the following calculations correct? If not, how should it be corrected?
 
@@ -348,15 +458,15 @@ By Basic Knowledge.
 
 (2) $\left(x-y\right)^2=x^2-y^2$.
 
-### Solution to Exercise 6
+### Solution to Exercise 9
 
-By Perfect Square Formula.
+By **Definition 16.3.2 (Perfect Square Formula)**.
 
 (1) Incorrect. $\left(x+y\right)^2=x^2+2xy+y^2$; the $2$ times the product term was omitted.
 
 (2) Incorrect. $\left(x-y\right)^2=x^2-2xy+y^2$; the perfect square was mistakenly treated as a difference of squares. $\blacksquare$
 
-## Exercise 7
+## Exercise 10
 
 (Exercise 16.3, Problem 2) Calculate:
 
@@ -368,9 +478,9 @@ By Perfect Square Formula.
 
 (4) $\left(1.5a-\frac23 b\right)^2$.
 
-### Solution to Exercise 7
+### Solution to Exercise 10
 
-By Basic Knowledge.
+By **Definition 16.3.2 (Perfect Square Formula)**.
 
 (1) $\left(2a+5b\right)^2=4a^2+20ab+25b^2$.
 
@@ -380,7 +490,7 @@ By Basic Knowledge.
 
 (4) $\left(1.5a-\frac23 b\right)^2=\frac94 a^2-2ab+\frac49 b^2$. $\blacksquare$
 
-## Exercise 8
+## Exercise 11
 
 (Exercise 16.3, Problem 3) Calculate:
 
@@ -388,15 +498,15 @@ By Basic Knowledge.
 
 (2) $99^2$.
 
-### Solution to Exercise 8
+### Solution to Exercise 11
 
-By Basic Knowledge.
+By **Definition 16.3.2 (Perfect Square Formula)**.
 
 (1) $102^2=\left(100+2\right)^2=10000+400+4=10404$.
 
 (2) $99^2=\left(100-1\right)^2=10000-200+1=9801$. $\blacksquare$
 
-## Exercise 9
+## Exercise 12
 
 (Exercise 16.3, Problem 1) Fill in the appropriate terms in the parentheses:
 
@@ -408,9 +518,9 @@ By Basic Knowledge.
 
 (4) $a+b-c=a-\left(\;\;\right)$.
 
-### Solution to Exercise 9
+### Solution to Exercise 12
 
-By Rule for Adding Parentheses.
+By **Definition 16.3.3 (Rule for Adding Parentheses)**.
 
 (1) $a+2b-c=a+\left(2b-c\right)$.
 
@@ -420,7 +530,7 @@ By Rule for Adding Parentheses.
 
 (4) $a+b-c=a-\left(c-b\right)$. $\blacksquare$
 
-## Exercise 10
+## Exercise 13
 
 (Exercise 16.3, Problem 2) Remove the parentheses:
 
@@ -428,15 +538,15 @@ By Rule for Adding Parentheses.
 
 (2) $a-\left(-b-c\right)$.
 
-### Solution to Exercise 10
+### Solution to Exercise 13
 
-By the reverse removal of parentheses from Basic Knowledge.
+By the reverse removal of parentheses from **Definition 16.3.3 (Rule for Adding Parentheses)**.
 
 (1) $a-\left(b-c\right)=a-b+c$.
 
 (2) $a-\left(-b-c\right)=a+b+c$. $\blacksquare$
 
-## Exercise 11
+## Exercise 14
 
 (Exercise 16.3, Problem 3) Is each of the following transformations correct? If not, how should it be corrected?
 
@@ -444,98 +554,10 @@ By the reverse removal of parentheses from Basic Knowledge.
 
 (2) $a-b+c=a-\left(b+c\right)$.
 
-### Solution to Exercise 11
+### Solution to Exercise 14
 
-By Basic Knowledge.
+By **Definition 16.3.3 (Rule for Adding Parentheses)**.
 
 (1) Incorrect. $a+b-c=a-\left(-b+c\right)=a-\left(c-b\right)$.
 
 (2) Incorrect. $a-b+c=a-\left(b-c\right)$. $\blacksquare$
-
-## Exercise 12
-
-(Exercise 16.3, Problem 4) Calculate:
-
-(1) $\left(a+2b-1\right)^2$;
-
-(2) $\left(2x+y+z\right)\left(2x-y-z\right)$.
-
-### Solution to Exercise 12
-
-First group, then apply the formula.
-
-(1) $\left(a+2b-1\right)^2=\left[a+\left(2b-1\right)\right]^2=a^2+2a\left(2b-1\right)+\left(2b-1\right)^2=a^2+4ab-2a+4b^2-4b+1$.
-
-(2) $\left(2x+y+z\right)\left(2x-y-z\right)=\left[2x+\left(y+z\right)\right]\left[2x-\left(y+z\right)\right]=4x^2-\left(y+z\right)^2=4x^2-y^2-2yz-z^2$. $\blacksquare$
-
-## Problem 12
-
-(Exercise 16.3, Review and Consolidation, Problem 1) Can each of the following expressions be computed by the difference of squares formula? If so, write out the result:
-
-(1) $\left(x+y\right)\left(x-y\right)$;
-
-(2) $\left(x-y\right)\left(y-x\right)$;
-
-(3) $\left(x+y\right)\left(-x-y\right)$;
-
-(4) $\left(x-y\right)\left(-x-y\right)$.
-
-### Solution to Problem 12
-
-By Basic Knowledge, the difference of squares formula requires one pair of identical and one pair of opposite terms among the two factors.
-
-(1) Yes, $\left(x+y\right)\left(x-y\right)=x^2-y^2$.
-
-(2) No; both terms are opposite, $-\left(x-y\right)^2$.
-
-(3) No; both terms are opposite, $-\left(x+y\right)^2$.
-
-(4) Yes, $\left(x-y\right)\left(-x-y\right)=\left(-y+x\right)\left(-y-x\right)=\left(-y\right)^2-x^2=y^2-x^2$. $\blacksquare$
-
-## Problem 13
-
-(Exercise 16.3, Review and Consolidation, Problem 2) Calculate:
-
-(1) $\left(2m+3\right)\left(2m-3\right)$;
-
-(2) $\left(-\frac14 x-2y\right)\left(\frac14 x-2y\right)$;
-
-(3) $\left(a+2b\right)\left(a-2b\right)$;
-
-(4) $1003\times997$.
-
-### Solution to Problem 13
-
-By Basic Knowledge.
-
-(1) $\left(2m+3\right)\left(2m-3\right)=4m^2-9$.
-
-(2) $\left(-\frac14 x-2y\right)\left(\frac14 x-2y\right)=\left(-2y\right)^2-\left(\frac14 x\right)^2=4y^2-\frac{1}{16}x^2$.
-
-(3) $\left(a+2b\right)\left(a-2b\right)=a^2-4b^2$.
-
-(4) $1003\times997=\left(1000+3\right)\left(1000-3\right)=1000000-9=999991$. $\blacksquare$
-
-## Problem 14
-
-(Exercise 16.3, Review and Consolidation, Problem 3) Calculate:
-
-(1) $\left(2a+5b\right)^2$;
-
-(2) $\frac34 x-\frac23 y\right)^2$;
-
-(3) $\left(-2m-7n\right)^2$;
-
-(4) $101^2$.
-
-### Solution to Problem 14
-
-By Basic Knowledge.
-
-(1) $\left(2a+5b\right)^2=4a^2+20ab+25b^2$.
-
-(2) $\left(\frac34 x-\frac23 y\right)^2=\frac{9}{16}x^2-xy+\frac49 y^2$.
-
-(3) $\left(-2m-7n\right)^2=4m^2+28mn+49n^2$.
-
-(4) $101^2=\left(100+1\right)^2=10201$. $\blacksquare$

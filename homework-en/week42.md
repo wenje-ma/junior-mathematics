@@ -1,5 +1,113 @@
 # week42
 
+> **Definition 18.1.2 (Basic Property of Fractions)**
+> 
+> Multiplying (or dividing) both the numerator and denominator of a fraction by the same integral expression not equal to $0$ does not change the value of the fraction, i.e. $\frac{A}{B}=\frac{A\cdot C}{B\cdot C}=\frac{A\div C}{B\div C}$ ($C\ne0$).
+
+> **Definition 18.2.1 (Rule for Multiplying Fractions)**
+> 
+> To multiply a fraction by a fraction, take the product of the numerators as the numerator of the result and the product of the denominators as the denominator, i.e. $\frac{a}{b}\cdot\frac{c}{d}=\frac{ac}{bd}$.
+
+> **Definition 18.2.2 (Rule for Dividing Fractions)**
+> 
+> To divide a fraction by a fraction, invert the numerator and denominator of the divisor and multiply by the dividend, i.e. $\frac{a}{b}\div\frac{c}{d}=\frac{ad}{bc}$.
+
+> **Definition 18.3.1 (Addition and Subtraction of Fractions with the Same Denominator)**
+> 
+> $\frac{a}{c}\pm\frac{b}{c}=\frac{a\pm b}{c}$.
+
+> **Definition 18.3.2 (Addition and Subtraction of Fractions with Different Denominators)**
+> 
+> To add or subtract fractions with different denominators, first find a common denominator to convert them into fractions with the same denominator, then add or subtract, i.e. $\frac{a}{b}\pm\frac{c}{d}=\frac{ad\pm bc}{bd}$.
+
+> **Definition 18.5.2 (Checking the Solution of a Fractional Equation)**
+> 
+> After clearing denominators when solving a fractional equation, substitute the solution of the integral equation into the least common denominator; if the value of the least common denominator is not $0$, then the solution of the integral equation is the solution of the original fractional equation; otherwise, this solution is not a solution of the original fractional equation.
+
+> **Definition 19.1.1 (Quadratic Radical)**
+> 
+> An expression of the form \(\sqrt{a}\) (\(a\ge 0\)) is called a quadratic radical.
+
+> **Property 19.1.1 (Nonnegativity of the Quadratic Radical)**
+> 
+> When \(a\ge 0\), \(\sqrt{a}\ge 0\).
+
+> **Property 19.1.2 (Squaring and Taking the Square Root Are Inverse I)**
+> 
+> \((\sqrt{a})^{2}=a\) (\(a\ge 0\)).
+
+> **Property 19.1.3 (Squaring and Taking the Square Root Are Inverse II)**
+> 
+> \(\sqrt{a^{2}}=|a|\); when \(a\ge 0\), \(\sqrt{a^{2}}=a\), and when \(a< 0\), \(\sqrt{a^{2}}=-a\).
+
+## Activity 1
+
+(Mathematical Activity, Activity 1) Explore the properties of proportions. Find a set of numbers $a,b,c,d$, all not equal to $0$, such that $\frac{a}{b}=\frac{c}{d}$ holds. Using this set of values, compute the values of the two fractions in each of the following groups, and see what relationship holds between them:
+
+(1) $\frac{a}{c}$ and $\frac{b}{d}$;
+
+(2) $\frac{b}{a}$ and $\frac{d}{c}$;
+
+(3) $\frac{a+b}{b}$ and $\frac{c+d}{d}$;
+
+(4) $\frac{a+b}{a-b}$ and $\frac{c+d}{c-d}$ ($a\ne b$, $c\ne d$).
+
+Conjecture the relationship between the two fractions in each group, and prove your conjecture.
+
+### Solution to Activity 1
+
+Take $a=2,b=3,c=4,d=6$, satisfying $\frac{2}{3}=\frac46$.
+
+(1) $\frac{a}{c}=\frac12$, $\frac{b}{d}=\frac12$, equal.
+
+(2) $\frac{b}{a}=\frac32$, $\frac{d}{c}=\frac32$, equal.
+
+(3) $\frac{a+b}{b}=\frac53$, $\frac{c+d}{d}=\frac{10}{6}=\frac53$, equal.
+
+(4) $\frac{a+b}{a-b}=\frac{5}{-1}=-5$, $\frac{c+d}{c-d}=\frac{10}{-2}=-5$, equal.
+
+Proof: From $\frac{a}{b}=\frac{c}{d}=k$, we get $a=bk$, $c=dk$.
+
+(1) $\frac{a}{c}=\frac{bk}{dk}=\frac{b}{d}$.
+
+(2) $\frac{b}{a}=\frac{b}{bk}=\frac1k$, $\frac{d}{c}=\frac{d}{dk}=\frac1k$, equal.
+
+(3) $\frac{a+b}{b}=\frac{bk+b}{b}=k+1$, $\frac{c+d}{d}=\frac{dk+d}{d}=k+1$, equal.
+
+(4) $\frac{a+b}{a-b}=\frac{bk+b}{bk-b}=\frac{k+1}{k-1}$, $\frac{c+d}{c-d}=\frac{dk+d}{dk-d}=\frac{k+1}{k-1}$, equal. $\blacksquare$
+
+## Activity 2
+
+(Mathematical Activity, Activity 2) Explore the pattern in the values of $x^2+\frac{1}{x^2}$. Fill in the following table, and find the values of $x^2+\frac{1}{x^2}$ when $x=-3,-2,-1,-\frac12,-\frac13,\frac13,\frac12,1,2,3$ respectively. From the completed table, can you make some conjectures about the value of $x^2+\frac{1}{x^2}$? Can you prove your conjecture?
+
+### Solution to Activity 2
+
+Compute each value:
+
+$x=-3$: $9+\frac19=\frac{82}{9}$;
+
+$x=-2$: $4+\frac14=\frac{17}{4}$;
+
+$x=-1$: $1+1=2$;
+
+$x=-\frac12$: $\frac14+4=\frac{17}{4}$;
+
+$x=-\frac13$: $\frac19+9=\frac{82}{9}$;
+
+$x=\frac13$: same as $x=-\frac13$, $\frac{82}{9}$;
+
+$x=\frac12$: same as $x=-\frac12$, $\frac{17}{4}$;
+
+$x=1$: $2$;
+
+$x=2$: $\frac{17}{4}$;
+
+$x=3$: $\frac{82}{9}$.
+
+Conjecture: $x^2+\frac{1}{x^2}\ge2$, attaining the minimum $2$ when $x=\pm1$, and $x$ and $\frac1x$ give the same value.
+
+Proof: $x^2+\frac{1}{x^2}-2=\left(x-\frac1x\right)^2\ge0$, hence $x^2+\frac{1}{x^2}\ge2$, with equality when $x=\pm1$. $\blacksquare$
+
 ## Review Problem 1
 
 (Review Problems, Review and Consolidation, Problem 1) Among the following expressions, which are integral expressions? Which are fractions?
@@ -230,7 +338,7 @@ To draw a rectangle with area \(18\ \text{cm}^{2}\) such that the ratio of its l
 
 Let the length of the rectangle be \(3k\) and the width be \(2k\) (\(k> 0\)).
 
-By Basic Knowledge, the area of a rectangle is length times width, so
+By **Definition 19.1.1 (Quadratic Radical)**, the area of a rectangle is length times width, so
 
 $$
 3k\cdot 2k=18,\quad 6k^{2}=18,\quad k^{2}=3.
@@ -248,7 +356,7 @@ Under what conditions on \(a\) are the following expressions meaningful within t
 
 (1) \(\sqrt{a-1}\);　(2) \(\sqrt{5-a}\);　(3) \(\sqrt{2a^{2}+1}\).
 
-By Basic Knowledge, a quadratic radical is meaningful if and only if the radicand is nonnegative.
+By **Definition 19.1.1 (Quadratic Radical)**, a quadratic radical is meaningful if and only if the radicand is nonnegative.
 
 (1) Setting \(a-1\ge 0\), we get \(a\ge 1\).
 
@@ -262,7 +370,7 @@ By Basic Knowledge, a quadratic radical is meaningful if and only if the radican
 
 When \(a=5\), the value of \(\sqrt{\frac{a-1}{2}}\) is \;_\_\;.
 
-Substituting \(a=5\) into the radicand, by Basic Knowledge, the radicand
+Substituting \(a=5\) into the radicand, by **Definition 19.1.1 (Quadratic Radical)**, the radicand
 
 $$
 \frac{a-1}{2}=\frac{5-1}{2}=2\ge 0
@@ -318,7 +426,7 @@ Under what conditions on \(a\) are the following expressions meaningful within t
 
 (1) \(\sqrt{a+2}\);　(2) \(\sqrt{3-a}\);　(3) \(\sqrt{5a^{2}}\);　(4) \(\sqrt{2a+1}\).
 
-By Basic Knowledge, set each radicand to be nonnegative.
+By **Definition 19.1.1 (Quadratic Radical)**, set each radicand to be nonnegative.
 
 (1) \(a+2\ge 0\), giving \(a\ge -2\).
 
@@ -389,77 +497,5 @@ By Basic Knowledge, every nonnegative number equals the square of its principal 
 (3) \(\frac{1}{2}=\left(\sqrt{\frac{1}{2}}\right)^{2}\).
 
 (4) \(0=(\sqrt{0})^{2}=0^{2}\).
-
-\(\blacksquare\)
-
-## Problem 2
-
-(Exercise 19.1, Comprehensive Application, Problem 5)
-
-It is known that the area of a large circle equals the sum of the areas of two small circles. If the radius of the large circle is \(r\), and the radii of the two small circles are \(2\) and \(3\) respectively, find the value of \(r\).
-
-From the circle area formula, the large circle's area is \(\pi r^{2}\), and the two small circles' areas are \(\pi\cdot 2^{2}\) and \(\pi\cdot 3^{2}\).
-
-According to the problem,
-
-$$
-\pi r^{2}=\pi\cdot 2^{2}+\pi\cdot 3^{2}=13\pi.
-$$
-
-Hence \(r^{2}=13\). By Basic Knowledge, the positive number \(r=\sqrt{13}\).
-
-\(\blacksquare\)
-
-(Exercise 19.1, Comprehensive Application, Problem 6)
-
-The area of \(\triangle ABC\) is \(12\), and the altitude to side \(AB\) is \(4\) times the length of \(AB\). Find the length of \(AB\).
-
-Let \(AB=x\); then the altitude to \(AB\) is \(4x\).
-
-From the triangle area formula,
-
-$$
-\frac{1}{2}\cdot x\cdot 4x=12,\quad 2x^{2}=12,\quad x^{2}=6.
-$$
-
-By Basic Knowledge, the positive number \(x=\sqrt{6}\), i.e. \(AB=\sqrt{6}\).
-
-\(\blacksquare\)
-
-(Exercise 19.1, Comprehensive Application, Problem 7)
-
-Under what conditions on \(x\) are the following expressions meaningful within the set of real numbers?
-
-(1) \(\sqrt{x^{2}+1}\);　(2) \(\sqrt{(x-1)^{2}}\);　(3) \(\sqrt{\frac{1}{x}}\);　(4) \(\frac{1}{\sqrt{x+1}}\).
-
-By Basic Knowledge, the radicand of a quadratic radical must be nonnegative; the denominator must also be nonzero.
-
-(1) Since \(x^{2}\ge 0\), \(x^{2}+1> 0\) always holds, and \(x\) may be any real number.
-
-(2) Since \((x-1)^{2}\ge 0\) always holds, \(x\) may be any real number.
-
-(3) We require \(\frac{1}{x}\ge 0\) and \(x\ne 0\), hence \(x> 0\).
-
-(4) We require \(x+1> 0\) (both the radicand nonnegative and the denominator nonzero), hence \(x> -1\).
-
-\(\blacksquare\)
-
-(Exercise 19.1, Comprehensive Application, Problem 8)
-
-A small ball falls freely from a height \(h\) (unit: \(\text{m}\)) above the ground, and the time it takes to reach the ground is \(t\) (unit: \(\text{s}\)). Experiment shows that \(h\) is directly proportional to \(t^{2}\), and when \(h=20\), \(t=2\). Express \(t\) using an algebraic expression containing \(h\), and find the time it takes the ball to reach the ground when \(h=10\) and when \(h=25\).
-
-Since \(h\) is directly proportional to \(t^{2}\), set \(h=kt^{2}\).
-
-Substituting \(h=20\) and \(t=2\), we get \(20=k\cdot 4\), hence \(k=5\), i.e. \(h=5t^{2}\).
-
-Hence \(t^{2}=\frac{h}{5}\). By Basic Knowledge, time is nonnegative, so
-
-$$
-t=\sqrt{\frac{h}{5}}.
-$$
-
-When \(h=10\), \(t=\sqrt{\frac{10}{5}}=\sqrt{2}\ \text{s}\).
-
-When \(h=25\), \(t=\sqrt{\frac{25}{5}}=\sqrt{5}\ \text{s}\).
 
 \(\blacksquare\)

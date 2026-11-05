@@ -1,12 +1,76 @@
 # week57
 
+> **Conclusion 25.2.1 (Direct Square Root Extraction)**
+> 
+> For the equation $x^2=p$: (1) when $p> 0$, the equation has two unequal real roots $x=\pm\sqrt p$; (2) when $p=0$, the equation has two equal real roots $x_1=x_2=0$; (3) when $p< 0$, since $x^2\ge0$ for every real number $x$, the equation has no real root.
+
+> **Definition 25.2.2 (Discriminant)**
+> 
+> The expression $b^2-4ac$ can determine the nature of the roots of the quadratic equation $ax^2+bx+c=0$; it is called the discriminant, denoted $\Delta=b^2-4ac$.
+
+> **Conclusion 25.2.3 (Nature of the Roots)**
+> 
+> For the equation $ax^2+bx+c=0\ \left(a\ne0\right)$: when $\Delta> 0$, the equation has two unequal real roots; when $\Delta=0$, the equation has two equal real roots; when $\Delta< 0$, the equation has no real root.
+
+> **Definition 25.2.3 (Quadratic Formula)**
+> 
+> When $\Delta\ge0$, the real roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$; this expression is called the quadratic formula. The method of substituting the coefficients into the quadratic formula to find the roots directly is called the formula method.
+
+> **Conclusion 25.2.5 (Relation Between Roots and Coefficients)**
+> 
+> If the two roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x_1,x_2$, then $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$. This relation can also be obtained by comparing coefficients in the factorization $ax^2+bx+c=a\left(x-x_1\right)\left(x-x_2\right)$.
+
+> **Conclusion 25.3.4 (Match-Schedule Model)**
+> 
+> $n$ teams in a single round-robin play $\frac{n\left(n-1\right)}2$ matches in total; in a home-and-away double round-robin they play $n\left(n-1\right)$ matches.
+
+> **Definition 26.1.1 (Quadratic Function)**
+> 
+> In general, a function of the form $y=ax^2+bx+c$ ($a,b,c$ are constants, $a\ne0$) is called a quadratic function. Here $x$ is the independent variable, and $a,b,c$ are respectively the quadratic coefficient, the linear coefficient, and the constant term of the function expression.
+
+> **Conclusion 26.2.1 (The Parabola $y=ax^2$)**
+> 
+> The axis of symmetry of the parabola $y=ax^2$ is the $y$-axis, and its vertex is the origin. When $a> 0$ it opens upward and the vertex is the lowest point; when $a< 0$ it opens downward and the vertex is the highest point. The larger $\left|a\right|$ is, the narrower the opening. When $a> 0$, $y$ decreases as $x$ increases for $x< 0$, and $y$ increases as $x$ increases for $x> 0$; when $a< 0$ the reverse holds.
+
+> **Conclusion 26.2.2 (Translation)**
+> 
+> Translating the parabola $y=ax^2$ upward ($k> 0$) or downward ($k< 0$) by $\left|k\right|$ units gives $y=ax^2+k$; translating it left ($h< 0$) or right ($h> 0$) by $\left|h\right|$ units gives $y=a\left(x-h\right)^2$; combining both translations gives $y=a\left(x-h\right)^2+k$.
+
+> **Conclusion 26.2.3 (The Parabola $y=a\left(x-h\right)**
+> 
+> ^2+k$) It opens upward when $a> 0$ and downward when $a< 0$; its axis of symmetry is $x=h$; its vertex is $\left(h,k\right)$. When $a> 0$, the minimum $k$ is taken at $x=h$; when $a< 0$, the maximum $k$ is taken at $x=h$.
+
+> **Conclusion 26.2.4 (The Parabola $y=ax^2+bx+c$)**
+> 
+> Completing the square gives $y=a\left(x+\frac b{2a}\right)^2+\frac{4ac-b^2}{4a}$; the axis of symmetry is $x=-\frac b{2a}$ and the vertex is $\left(-\frac b{2a},\frac{4ac-b^2}{4a}\right)$. When $a> 0$, the minimum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac b{2a}$; when $a< 0$, the maximum is taken there.
+
 ## Review Problem 1
+
+(Review, Comprehensive Application, Problem 5) Given the equation in $x$, $2x^2-\left(4k+1\right)x+2k^2-1=0$, for what value of $k$ does the equation have two unequal real roots, two equal real roots, and no real root?
+
+### Solution to Review Problem 1
+
+By **Definition 25.2.2 (Discriminant)**, compute the discriminant, where $a=2$, $b=-\left(4k+1\right)$, $c=2k^2-1$, hence
+
+$$
+\Delta=\left(4k+1\right)^2-4\cdot2\cdot\left(2k^2-1\right)=16k^2+8k+1-16k^2+8=8k+9.
+$$
+
+By Nature of the Roots:
+
+When $\Delta> 0$, i.e. $8k+9> 0$, $k> -\frac98$, the equation has two unequal real roots;
+
+When $\Delta=0$, i.e. $k=-\frac98$, the equation has two equal real roots;
+
+When $\Delta< 0$, i.e. $k< -\frac98$, the equation has no real root. $\blacksquare$
+
+## Review Problem 2
 
 (Review, Comprehensive Application, Problem 6) The lower base of a right trapezoid is $2\ \text{cm}$ longer than the upper base, and its height is $1\ \text{cm}$ shorter than the upper base; its area is $8\ \text{cm}^2$. Draw this trapezoid.
 
 The figure shows a right trapezoid: the upper base is short, the lower base is $2\ \text{cm}$ longer, the left leg is perpendicular to both bases (i.e. the height), and the right leg is slanted; the final dimensions are upper base $3\ \text{cm}$, lower base $5\ \text{cm}$, height $2\ \text{cm}$.
 
-### Solution to Review Problem 1
+### Solution to Review Problem 2
 
 Let the upper base be $x\ \text{cm}$; then the lower base is $\left(x+2\right)\ \text{cm}$ and the height is $\left(x-1\right)\ \text{cm}$. By the trapezoid area formula, set up
 
@@ -16,13 +80,13 @@ $$
 
 i.e. $\left(x+1\right)\left(x-1\right)=8$, $x^2-1=8$, $x^2=9$, solving gives $x=3$ (discarding the negative root). Hence the upper base is $3\ \text{cm}$, the lower base $5\ \text{cm}$, and the height $2\ \text{cm}$; the trapezoid is as shown. $\blacksquare$
 
-## Review Problem 2
+## Review Problem 3
 
 (Review, Comprehensive Application, Problem 7) The length-to-width ratio of a rectangular box is $5:2$, its height is $5\ \text{cm}$, and its surface area is $40\ \text{cm}^2$. Draw the net of this box.
 
 The figure shows a plane net of a rectangular box: six rectangular faces arranged in a cross or side-by-side pattern, with final dimensions length $2.5\ \text{cm}$, width $1\ \text{cm}$, height $5\ \text{cm}$.
 
-### Solution to Review Problem 2
+### Solution to Review Problem 3
 
 Let the length be $5a\ \text{cm}$, the width $2a\ \text{cm}$, and the height $5\ \text{cm}$. By the rectangular-box surface-area formula, set up
 
@@ -32,11 +96,11 @@ $$
 
 i.e. $2\left(10a^2+25a+10a\right)=40$, $20a^2+70a=40$, i.e. $2a^2+7a-4=0$; factoring gives $\left(2a-1\right)\left(a+4\right)=0$, solving gives $a=\frac12$ (discarding the negative root). Hence the length is $2.5\ \text{cm}$, the width $1\ \text{cm}$, and the height $5\ \text{cm}$; the net is as shown. $\blacksquare$
 
-## Review Problem 3
+## Review Problem 4
 
 (Review, Comprehensive Application, Problem 8) A basketball league is to be organized in a single round-robin format; $15$ matches are planned. How many teams should be invited?
 
-### Solution to Review Problem 3
+### Solution to Review Problem 4
 
 By Match-Schedule Model, $n$ teams in a single round-robin play $\frac{n\left(n-1\right)}2$ matches. Set up
 
@@ -46,11 +110,11 @@ $$
 
 i.e. $n\left(n-1\right)=30$, $n^2-n-30=0$, i.e. $\left(n-6\right)\left(n+5\right)=0$, solving gives $n=6$ (discarding the negative root). Hence $6$ teams should be invited. $\blacksquare$
 
-## Review Problem 4
+## Review Problem 5
 
 (Review, Comprehensive Application, Problem 9) As shown in the figure, alongside a wall (whose length is unlimited), how can a fence of length $20\ \text{m}$ be used to enclose a rectangular vegetable garden of area $48\ \text{m}^2$?
 
-### Solution to Review Problem 4
+### Solution to Review Problem 5
 
 Let the side perpendicular to the wall be $x\ \text{m}$; then the side parallel to the wall is $\left(20-2x\right)\ \text{m}$. Since the area is $48\ \text{m}^2$, set up
 
@@ -62,11 +126,11 @@ Rearranging gives $x^2-10x+24=0$, i.e. $\left(x-4\right)\left(x-6\right)=0$, sol
 
 When $x=4$, the side parallel to the wall is $20-8=12\ \text{m}$; when $x=6$, it is $20-12=8\ \text{m}$. Both enclose an area of $48\ \text{m}^2$ and are both valid. $\blacksquare$
 
-## Review Problem 5
+## Review Problem 6
 
 (Review, Comprehensive Application, Problem 10) A bank, through two interest-rate cuts, lowered the annual interest rate on one-year deposits from $1.75\%$ to $1.50\%$. What was the average percentage rate cut each time (write the result in the form $a\%$, with $a$ rounded to two decimal places)?
 
-### Solution to Review Problem 5
+### Solution to Review Problem 6
 
 Let the average percentage rate cut each time be $x$; after two cuts the annual rate is $1.75\%\left(1-x\right)^2$. Set up
 
@@ -82,11 +146,11 @@ $$
 
 i.e. the average rate cut each time is about $7.42\%$. $\blacksquare$
 
-## Review Problem 6
+## Review Problem 7
 
 (Review, Comprehensive Application, Problem 11) In Lushui Village, the per-capita income in year $2020$ was $18000$ yuan and in year $2022$ was $21000$ yuan. Find the average annual growth rate of per-capita income (write the result in the form $a\%$, with $a$ rounded to two decimal places).
 
-### Solution to Review Problem 6
+### Solution to Review Problem 7
 
 Let the average annual growth rate be $x$; after two years the per-capita income is $18000\left(1+x\right)^2$. Set up
 
@@ -102,7 +166,7 @@ $$
 
 i.e. the average annual growth rate of per-capita income is about $8.01\%$. $\blacksquare$
 
-## Review Problem 7
+## Review Problem 8
 
 (Review, Extension and Exploration, Problem 12) The figure on the right illustrates the "gui pile" in the pile-of-sheaves problems studied by the Southern Song mathematician Yang Hui. The problem reads: there is a gui-pile heap, with one bundle at the top and eight bundles across the base.
 
@@ -110,7 +174,7 @@ i.e. the average annual growth rate of per-capita income is about $8.01\%$. $\bl
 
 (2) If this "gui pile" is continued further, i.e. the $n$th row has $n$ bundles, can you find how many rows from the top sum to $300$ bundles? (Hint: $1+2+3+\cdots+n=\frac{n\left(n+1\right)}2$.)
 
-### Solution to Review Problem 7
+### Solution to Review Problem 8
 
 The numbers of bundles in the gui pile, from top to bottom, are $1,2,3,\cdots,8$.
 
@@ -124,7 +188,7 @@ $$
 
 i.e. $n\left(n+1\right)=600$, $n^2+n-600=0$; by the quadratic formula, $n=\frac{-1\pm\sqrt{1+2400}}2=\frac{-1\pm49}2$, taking the positive root $n=24$. Hence the sum of the first $24$ rows is $300$ bundles. $\blacksquare$
 
-## Review Problem 8
+## Review Problem 9
 
 (Review, Extension and Exploration, Problem 13) A ball starts rolling forward at $5\ \text{m/s}$ and decelerates uniformly, coming to rest after $4\ \text{s}$.
 
@@ -134,7 +198,7 @@ i.e. $n\left(n+1\right)=600$, $n^2+n-600=0$; by the quadratic formula, $n=\frac{
 
 (Hint: in uniformly accelerated linear motion, the average velocity over each time interval (the arithmetic mean of the initial and final velocities) relates to the distance $l$ and time $t$ by $l=$ average velocity $\times t$.)
 
-### Solution to Review Problem 8
+### Solution to Review Problem 9
 
 (1) The ball's initial velocity is $5\ \text{m/s}$; after $4\ \text{s}$ the velocity drops to $0$, hence the average decrease per second is
 
@@ -164,7 +228,7 @@ Setting $l=5$ gives $5t-0.625t^2=5$, i.e. $t^2-8t+8=0$, solving gives $t=\frac{8
 
 ### Solution to Exercise 1
 
-By Quadratic Function, put each expression in the form $y=ax^2+bx+c$, then read off the coefficients.
+By **Definition 26.1.1 (Quadratic Function)**, put each expression in the form $y=ax^2+bx+c$, then read off the coefficients.
 
 (1) $a=8$, $b=-16$, $c=8$.
 
@@ -411,5 +475,29 @@ By The Parabola $y=ax^2$, both have the $y$-axis as their axis of symmetry and t
 (1) $a=5> 0$, opens upward; $\left|a\right|$ is larger, so the opening is narrower.
 
 (2) $a=-\frac15< 0$, opens downward; $\left|a\right|$ is smaller, so the opening is wider.
+
+The graphs are as shown. $\blacksquare$
+
+## Problem 6
+
+(Exercise 26.2, Review and Consolidation, Problem 2) In the same rectangular coordinate system, draw the graphs of each of the following groups of quadratic functions, and state their axis of symmetry and vertex:
+
+(1) $y=-\frac13x^2+3$, $y=-\frac13x^2-2$;
+
+(2) $y=\frac14\left(x-3\right)^2$, $y=\frac14\left(x+1\right)^2$;
+
+(3) $y=2\left(x+\frac32\right)^2-5$, $y=2\left(x-\frac12\right)^2+1$.
+
+The figure shows three side-by-side coordinate systems, each with two parabolas: (1) two parabolas with $a=-\frac13$, opening downward, both with the $y$-axis as axis of symmetry, vertices at $\left(0,3\right)$ and $\left(0,-2\right)$; (2) two parabolas with $a=\frac14$, opening upward, axes $x=3$ and $x=-1$, vertices at $\left(3,0\right)$ and $\left(-1,0\right)$; (3) two parabolas with $a=2$, opening upward, axes $x=-\frac32$ and $x=\frac12$, vertices at $\left(-\frac32,-5\right)$ and $\left(\frac12,1\right)$.
+
+### Solution to Problem 6
+
+By Basic Knowledge and Basic Knowledge.
+
+(1) Both have $a=-\frac13$ and are related by vertical translation; both have the $y$-axis as their axis of symmetry, with vertices $\left(0,3\right)$ and $\left(0,-2\right)$ respectively.
+
+(2) Both have $a=\frac14$ and are related by horizontal translation; their axes of symmetry are $x=3$ and $x=-1$, with vertices $\left(3,0\right)$ and $\left(-1,0\right)$ respectively.
+
+(3) Both have $a=2$; their axes of symmetry are $x=-\frac32$ and $x=\frac12$, with vertices $\left(-\frac32,-5\right)$ and $\left(\frac12,1\right)$ respectively.
 
 The graphs are as shown. $\blacksquare$

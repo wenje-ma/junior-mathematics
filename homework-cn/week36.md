@@ -1,6 +1,140 @@
 # week36
 
+> **定义 16.2.1 (单项式与单项式相乘)**
+> 
+> 把它们的系数, 同底数幂分别相乘作为积的因式, 对于只在一个单项式里含有的字母, 则连同它的指数作为积的一个因式.
+
+> **定义 16.2.2 (单项式与多项式相乘)**
+> 
+> 用单项式去乘多项式的每一项, 再把所得的积相加, 即 $p\left(a+b+c\right)=pa+pb+pc$.
+
+> **定义 16.2.3 (多项式与多项式相乘)**
+> 
+> 先用一个多项式的每一项乘另一个多项式的每一项, 再把所得的积相加, 即 $\left(a+b\right)\left(p+q\right)=ap+aq+bp+bq$.
+
+> **定义 16.2.4 (同底数幂的除法)**
+> 
+> $a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ 都是正整数, $m> n$), 即同底数幂相除, 底数不变, 指数相减.
+
+> **定义 16.2.5 (零指数幂)**
+> 
+> $a^0=1$ ($a\ne0$), 即任何不等于 $0$ 的数的 $0$ 次幂都等于 $1$.
+
+> **定义 16.2.6 (单项式除以单项式)**
+> 
+> 把系数与同底数幂分别相除作为商的因式, 对于只在被除式里含有的字母, 则连同它的指数作为商的一个因式.
+
+> **定义 16.2.7 (多项式除以单项式)**
+> 
+> 先把这个多项式的每一项除以这个单项式, 再把所得的商相加.
+
+> **定义 16.3.1 (平方差公式)**
+> 
+> 两个数的和与这两个数的差的积等于这两个数的平方差, 即 $\left(a+b\right)\left(a-b\right)=a^2-b^2$.
+
+> **定义 16.3.2 (完全平方公式)**
+> 
+> 两个数的和 (或差) 的平方等于它们的平方和加上 (或减去) 它们积的 $2$ 倍, 即 $\left(a+b\right)^2=a^2+2ab+b^2$, $\left(a-b\right)^2=a^2-2ab+b^2$.
+
+> **定义 16.3.3 (添括号法则)**
+> 
+> 括号前面是正号, 括到括号里的各项都不变符号; 括号前面是负号, 括到括号里的各项都改变符号, 即 $a+b+c=a+\left(b+c\right)$, $a-b-c=a-\left(b+c\right)$.
+
 ## 练习一
+
+(练习 16.2 第 2 题) 计算:
+
+(1) $\left(x+2\right)\left(x+3\right)$;
+
+(2) $\left(x-4\right)\left(x+1\right)$;
+
+(3) $\left(x+4\right)\left(x-2\right)$;
+
+(4) $\left(x-5\right)\left(x-3\right)$.
+
+由上面计算的结果找规律, 观察图形, 填空: $\left(x+p\right)\left(x+q\right)=\left(\;\;\right)^2+\left(\;\;\right)x+\left(\;\;\right)$.
+
+### 解答 练习一
+
+由**定义 16.2.3 (多项式与多项式相乘)**.
+
+(1) $\left(x+2\right)\left(x+3\right)=x^2+5x+6$.
+
+(2) $\left(x-4\right)\left(x+1\right)=x^2-3x-4$.
+
+(3) $\left(x+4\right)\left(x-2\right)=x^2+2x-8$.
+
+(4) $\left(x-5\right)\left(x-3\right)=x^2-8x+15$.
+
+观察各式: 二次项系数为 $1$, 一次项系数等于两常数之和, 常数项等于两常数之积. 故
+
+$$\left(x+p\right)\left(x+q\right)=x^2+\left(p+q\right)x+pq.$$
+
+$\blacksquare$
+
+## 练习二
+
+(练习 16.2 第 3 题) 先化简, 再求值: $\left(x-y\right)\left(x^2+xy+y^2\right)-\left(x+y\right)\left(x^2-y^2\right)$, 其中 $x=5$, $y=5$.
+
+### 解答 练习二
+
+由**定义 16.2.3 (多项式与多项式相乘)**.
+
+$$\left(x-y\right)\left(x^2+xy+y^2\right)=x^3-y^3,$$
+
+$$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y\right)=\left(x+y\right)^2\left(x-y\right).$$
+
+代入 $x=5,y=5$ 时 $x-y=0$, 故原式 $=0-\left(x+y\right)\cdot0=0$. $\blacksquare$
+
+## 练习三
+
+(练习 16.2 第 1 题) 计算:
+
+(1) $x^7\div x^5$;
+
+(2) $m^8\div m^8$;
+
+(3) $\left(-a\right)^{10}\div\left(-a\right)^7$;
+
+(4) $\left(xy\right)^5\div\left(xy\right)^3$.
+
+### 解答 练习三
+
+由**定义 16.2.4 (同底数幂的除法)** 与**定义 16.2.5 (零指数幂)**.
+
+(1) $x^7\div x^5=x^2$.
+
+(2) $m^8\div m^8=m^0=1$.
+
+(3) $\left(-a\right)^{10}\div\left(-a\right)^7=\left(-a\right)^3=-a^3$.
+
+(4) $\left(xy\right)^5\div\left(xy\right)^3=\left(xy\right)^2=x^2 y^2$. $\blacksquare$
+
+## 练习四
+
+(练习 16.2 第 2 题) 计算:
+
+(1) $\left(10ab^3\right)\div\left(-5ab\right)$;
+
+(2) $\left(-8a^2 b^3\right)\div\left(6ab^2\right)$;
+
+(3) $\left(-21x^2 y^4\right)\div\left(-3x^2 y^3\right)$;
+
+(4) $\left(6\times10^8\right)\div\left(3\times10^5\right)$.
+
+### 解答 练习四
+
+由**定义 16.2.6 (单项式除以单项式)**.
+
+(1) $\left(10ab^3\right)\div\left(-5ab\right)=-2b^2$.
+
+(2) $\left(-8a^2 b^3\right)\div\left(6ab^2\right)=-\frac43 ab$.
+
+(3) $\left(-21x^2 y^4\right)\div\left(-3x^2 y^3\right)=7y$.
+
+(4) $\left(6\times10^8\right)\div\left(3\times10^5\right)=2\times10^3$. $\blacksquare$
+
+## 练习五
 
 (练习 16.2 第 3 题) 计算:
 
@@ -8,9 +142,9 @@
 
 (2) $\left(15x^2 y-10xy^2\right)\div\left(5xy\right)$.
 
-### 解答 练习一
+### 解答 练习五
 
-由多项式除以单项式.
+由**定义 16.2.7 (多项式除以单项式)**.
 
 (1) $\left(6ab+5a\right)\div a=6b+5$.
 
@@ -30,7 +164,7 @@
 
 ### 解答 习题一
 
-由基础知识.
+由**定义 16.2.1 (单项式与单项式相乘)**.
 
 (1) $3x\cdot6x^2 y=18x^3 y$.
 
@@ -54,7 +188,7 @@
 
 ### 解答 习题二
 
-由基础知识.
+由**定义 16.2.2 (单项式与多项式相乘)**.
 
 (1) $\left(4a-b^2\right)\left(-2b\right)=-8ab+2b^3$.
 
@@ -82,7 +216,7 @@
 
 ### 解答 习题三
 
-由基础知识.
+由**定义 16.2.3 (多项式与多项式相乘)**.
 
 (1) $\left(x-6\right)\left(x-3\right)=x^2-9x+18$.
 
@@ -114,7 +248,7 @@
 
 ### 解答 习题四
 
-由基础知识 与基础知识.
+由**定义 16.2.6 (单项式除以单项式)** 与**定义 16.2.7 (多项式除以单项式)**.
 
 (1) $\left(a^3\right)^2\div\left(a^2\right)^3=a^6\div a^6=1$.
 
@@ -256,7 +390,7 @@ $$bx\cdot a=4a^2 b,$$
 
 (5) $pq=36$, $m=p+q$. 因 $p,q$ 为正整数, 取 $\left(p,q\right)=\left(1,36\right),\left(2,18\right),\left(3,12\right),\left(4,9\right),\left(6,6\right)$, 相应 $m=37,20,15,13,12$. $\blacksquare$
 
-## 练习二
+## 练习六
 
 (练习 16.3 第 1 题) 下面的计算对不对? 如果不对, 应当怎样改正?
 
@@ -266,9 +400,9 @@ $$bx\cdot a=4a^2 b,$$
 
 (3) $\left(-3ab-1\right)\left(3ab-1\right)=1-9a^2 b^2$.
 
-### 解答 练习二
+### 解答 练习六
 
-由平方差公式.
+由**定义 16.3.1 (平方差公式)**.
 
 (1) 不对. $\left(x+2\right)\left(x-2\right)=x^2-4$, 误把 $2$ 的平方漏掉.
 
@@ -276,7 +410,7 @@ $$bx\cdot a=4a^2 b,$$
 
 (3) 对, 把 $-1$ 看作相同项, $3ab$ 看作相反项, $\left(-1\right)^2-\left(3ab\right)^2=1-9a^2 b^2$. $\blacksquare$
 
-## 练习三
+## 练习七
 
 (练习 16.3 第 2 题) 计算:
 
@@ -288,9 +422,9 @@ $$bx\cdot a=4a^2 b,$$
 
 (4) $51\times49$.
 
-### 解答 练习三
+### 解答 练习七
 
-由基础知识.
+由**定义 16.3.1 (平方差公式)**.
 
 (1) $\left(a+3b\right)\left(a-3b\right)=a^2-9b^2$.
 
@@ -300,7 +434,7 @@ $$bx\cdot a=4a^2 b,$$
 
 (4) $51\times49=\left(50+1\right)\left(50-1\right)=2500-1=2499$. $\blacksquare$
 
-## 练习四
+## 练习八
 
 (练习 16.3 第 3 题) 计算:
 
@@ -308,15 +442,15 @@ $$bx\cdot a=4a^2 b,$$
 
 (2) $\left(y+2\right)\left(y-2\right)\left(y^2+4\right)$.
 
-### 解答 练习四
+### 解答 练习八
 
-由基础知识.
+由**定义 16.3.1 (平方差公式)**.
 
 (1) $102\times98=\left(100+2\right)\left(100-2\right)=10000-4=9996$.
 
 (2) $\left(y+2\right)\left(y-2\right)\left(y^2+4\right)=\left(y^2-4\right)\left(y^2+4\right)=y^4-16$. $\blacksquare$
 
-## 练习五
+## 练习九
 
 (练习 16.3 第 1 题) 下面的计算是否正确? 如果不正确, 应当怎样改正?
 
@@ -324,15 +458,15 @@ $$bx\cdot a=4a^2 b,$$
 
 (2) $\left(x-y\right)^2=x^2-y^2$.
 
-### 解答 练习五
+### 解答 练习九
 
-由完全平方公式.
+由**定义 16.3.2 (完全平方公式)**.
 
 (1) 不正确. $\left(x+y\right)^2=x^2+2xy+y^2$, 漏掉了积的 $2$ 倍项.
 
 (2) 不正确. $\left(x-y\right)^2=x^2-2xy+y^2$, 误把完全平方当作平方差. $\blacksquare$
 
-## 练习六
+## 练习十
 
 (练习 16.3 第 2 题) 计算:
 
@@ -344,9 +478,9 @@ $$bx\cdot a=4a^2 b,$$
 
 (4) $\left(1.5a-\frac23 b\right)^2$.
 
-### 解答 练习六
+### 解答 练习十
 
-由基础知识.
+由**定义 16.3.2 (完全平方公式)**.
 
 (1) $\left(2a+5b\right)^2=4a^2+20ab+25b^2$.
 
@@ -356,7 +490,7 @@ $$bx\cdot a=4a^2 b,$$
 
 (4) $\left(1.5a-\frac23 b\right)^2=\frac94 a^2-2ab+\frac49 b^2$. $\blacksquare$
 
-## 练习七
+## 练习十一
 
 (练习 16.3 第 3 题) 计算:
 
@@ -364,15 +498,15 @@ $$bx\cdot a=4a^2 b,$$
 
 (2) $99^2$.
 
-### 解答 练习七
+### 解答 练习十一
 
-由基础知识.
+由**定义 16.3.2 (完全平方公式)**.
 
 (1) $102^2=\left(100+2\right)^2=10000+400+4=10404$.
 
 (2) $99^2=\left(100-1\right)^2=10000-200+1=9801$. $\blacksquare$
 
-## 练习八
+## 练习十二
 
 (练习 16.3 第 1 题) 在括号内填入适当的项:
 
@@ -384,9 +518,9 @@ $$bx\cdot a=4a^2 b,$$
 
 (4) $a+b-c=a-\left(\;\;\right)$.
 
-### 解答 练习八
+### 解答 练习十二
 
-由添括号法则.
+由**定义 16.3.3 (添括号法则)**.
 
 (1) $a+2b-c=a+\left(2b-c\right)$.
 
@@ -396,7 +530,7 @@ $$bx\cdot a=4a^2 b,$$
 
 (4) $a+b-c=a-\left(c-b\right)$. $\blacksquare$
 
-## 练习九
+## 练习十三
 
 (练习 16.3 第 2 题) 去括号:
 
@@ -404,15 +538,15 @@ $$bx\cdot a=4a^2 b,$$
 
 (2) $a-\left(-b-c\right)$.
 
-### 解答 练习九
+### 解答 练习十三
 
-由基础知识 的反向去括号.
+由**定义 16.3.3 (添括号法则)** 的反向去括号.
 
 (1) $a-\left(b-c\right)=a-b+c$.
 
 (2) $a-\left(-b-c\right)=a+b+c$. $\blacksquare$
 
-## 练习十
+## 练习十四
 
 (练习 16.3 第 3 题) 下面各式的变形是否正确? 如果不正确, 应当怎样改正?
 
@@ -420,98 +554,10 @@ $$bx\cdot a=4a^2 b,$$
 
 (2) $a-b+c=a-\left(b+c\right)$.
 
-### 解答 练习十
+### 解答 练习十四
 
-由基础知识.
+由**定义 16.3.3 (添括号法则)**.
 
 (1) 不正确. $a+b-c=a-\left(-b+c\right)=a-\left(c-b\right)$.
 
 (2) 不正确. $a-b+c=a-\left(b-c\right)$. $\blacksquare$
-
-## 练习十一
-
-(练习 16.3 第 4 题) 计算:
-
-(1) $\left(a+2b-1\right)^2$;
-
-(2) $\left(2x+y+z\right)\left(2x-y-z\right)$.
-
-### 解答 练习十一
-
-先分组再用公式.
-
-(1) $\left(a+2b-1\right)^2=\left[a+\left(2b-1\right)\right]^2=a^2+2a\left(2b-1\right)+\left(2b-1\right)^2=a^2+4ab-2a+4b^2-4b+1$.
-
-(2) $\left(2x+y+z\right)\left(2x-y-z\right)=\left[2x+\left(y+z\right)\right]\left[2x-\left(y+z\right)\right]=4x^2-\left(y+z\right)^2=4x^2-y^2-2yz-z^2$. $\blacksquare$
-
-## 习题十二
-
-(习题 16.3 复习巩固第 1 题) 下列各式能否用平方差公式计算? 如果能, 把结果写出来:
-
-(1) $\left(x+y\right)\left(x-y\right)$;
-
-(2) $\left(x-y\right)\left(y-x\right)$;
-
-(3) $\left(x+y\right)\left(-x-y\right)$;
-
-(4) $\left(x-y\right)\left(-x-y\right)$.
-
-### 解答 习题十二
-
-由基础知识, 平方差公式要求两因式中一组相同, 一组相反.
-
-(1) 能, $\left(x+y\right)\left(x-y\right)=x^2-y^2$.
-
-(2) 不能, 两项都相反, $-\left(x-y\right)^2$.
-
-(3) 不能, 两项都相反, $-\left(x+y\right)^2$.
-
-(4) 能, $\left(x-y\right)\left(-x-y\right)=\left(-y+x\right)\left(-y-x\right)=\left(-y\right)^2-x^2=y^2-x^2$. $\blacksquare$
-
-## 习题十三
-
-(习题 16.3 复习巩固第 2 题) 计算:
-
-(1) $\left(2m+3\right)\left(2m-3\right)$;
-
-(2) $\left(-\frac14 x-2y\right)\left(\frac14 x-2y\right)$;
-
-(3) $\left(a+2b\right)\left(a-2b\right)$;
-
-(4) $1003\times997$.
-
-### 解答 习题十三
-
-由基础知识.
-
-(1) $\left(2m+3\right)\left(2m-3\right)=4m^2-9$.
-
-(2) $\left(-\frac14 x-2y\right)\left(\frac14 x-2y\right)=\left(-2y\right)^2-\left(\frac14 x\right)^2=4y^2-\frac{1}{16}x^2$.
-
-(3) $\left(a+2b\right)\left(a-2b\right)=a^2-4b^2$.
-
-(4) $1003\times997=\left(1000+3\right)\left(1000-3\right)=1000000-9=999991$. $\blacksquare$
-
-## 习题十四
-
-(习题 16.3 复习巩固第 3 题) 计算:
-
-(1) $\left(2a+5b\right)^2$;
-
-(2) $\frac34 x-\frac23 y\right)^2$;
-
-(3) $\left(-2m-7n\right)^2$;
-
-(4) $101^2$.
-
-### 解答 习题十四
-
-由基础知识.
-
-(1) $\left(2a+5b\right)^2=4a^2+20ab+25b^2$.
-
-(2) $\left(\frac34 x-\frac23 y\right)^2=\frac{9}{16}x^2-xy+\frac49 y^2$.
-
-(3) $\left(-2m-7n\right)^2=4m^2+28mn+49n^2$.
-
-(4) $101^2=\left(100+1\right)^2=10201$. $\blacksquare$

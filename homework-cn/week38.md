@@ -1,10 +1,178 @@
 # week38
 
+> **定义 16.1.1 (同底数幂的乘法)**
+> 
+> 一般地, 对于任意底数 $a$ 与任意正整数 $m,n$, $a^m\cdot a^n=a^{m+n}$, 即同底数幂相乘, 底数不变, 指数相加. 三个或三个以上同底数幂相乘也具有这一性质.
+
+> **定义 16.1.2 (幂的乘方)**
+> 
+> 一般地, 对于任意底数 $a$ 与任意正整数 $m,n$, $\left(a^m\right)^n=a^{mn}$, 即幂的乘方, 底数不变, 指数相乘.
+
+> **定义 16.1.3 (积的乘方)**
+> 
+> 一般地, 对于任意底数 $a,b$ 与任意正整数 $n$, $\left(ab\right)^n=a^n b^n$, 即积的乘方等于把积的每一个因式分别乘方, 再把所得的幂相乘. 三个或三个以上因式的积的乘方也具有这一性质.
+
+> **定义 16.2.4 (同底数幂的除法)**
+> 
+> $a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ 都是正整数, $m> n$), 即同底数幂相除, 底数不变, 指数相减.
+
+> **定义 16.3.1 (平方差公式)**
+> 
+> 两个数的和与这两个数的差的积等于这两个数的平方差, 即 $\left(a+b\right)\left(a-b\right)=a^2-b^2$.
+
+> **定义 16.3.2 (完全平方公式)**
+> 
+> 两个数的和 (或差) 的平方等于它们的平方和加上 (或减去) 它们积的 $2$ 倍, 即 $\left(a+b\right)^2=a^2+2ab+b^2$, $\left(a-b\right)^2=a^2-2ab+b^2$.
+
+> **定义 17.1.1 (因式分解)**
+> 
+> 把一个多项式化成几个整式的乘积的形式, 叫作这个多项式的因式分解, 也叫作把这个多项式分解因式. 因式分解与整式乘法是方向相反的变形.
+
+> **定义 17.1.2 (公因式)**
+> 
+> 多项式各项都含有的公共的因式, 叫作这个多项式各项的公因式.
+
+> **定义 17.1.3 (提公因式法)**
+> 
+> 如果多项式的各项有公因式, 可以把这个公因式提取出来, 将多项式写成公因式与另一个因式的乘积的形式.
+
+> **定义 17.2.1 (平方差公式法)**
+> 
+> $a^2-b^2=\left(a+b\right)\left(a-b\right)$.
+
+> **定义 17.2.2 (完全平方式)**
+> 
+> $a^2+2ab+b^2$ 和 $a^2-2ab+b^2$ 这样的式子叫作完全平方式.
+
+> **定义 17.2.3 (完全平方公式法)**
+> 
+> $a^2+2ab+b^2=\left(a+b\right)^2$, $a^2-2ab+b^2=\left(a-b\right)^2$.
+
+> **定义 17.2.4 (公式法)**
+> 
+> 把乘法公式的等号两边互换, 运用公式把多项式分解因式. 分解因式要进行到每一个多项式因式都不能再分解为止.
+
+## 复习题一
+
+(复习题 拓广探索第 12 题) 某种产品的原料提价, 因而厂家决定对产品进行提价, 现有三种方案:
+
+(1) 第一次提价 $p\%$, 第二次提价 $q\%$;
+
+(2) 第一次提价 $q\%$, 第二次提价 $p\%$;
+
+(3) 第一, 二次提价均为 $\frac{p+q}{2}\%$.
+
+其中 $p,q$ 是不相等的正数. 三种方案哪种提价最多?
+
+### 解答 复习题一
+
+设原价为 $1$, 各方案最终价格:
+
+(1) $P_1=\left(1+p\%\right)\left(1+q\%\right)=1+p\%+q\%+pq\%^2$.
+
+(2) $P_2=\left(1+q\%\right)\left(1+p\%\right)$, 与 $P_1$ 相同.
+
+(3) $P_3=\left(1+\frac{p+q}{2}\%\right)^2=1+\left(p+q\right)\%+\frac{\left(p+q\right)^2}{4}\%^2$.
+
+比较 $P_3$ 与 $P_1$ 的差:
+
+$$P_3-P_1=\left[\frac{\left(p+q\right)^2}{4}-pq\right]\%^2=\frac{\left(p-q\right)^2}{4}\%^2> 0.$$
+
+因 $p\ne q$, 故 $P_3> P_1=P_2$, 方案 (3) 提价最多. $\blacksquare$
+
 ## 练习一
+
+(练习 17.1 第 1 题) 下列由左边到右边的式子变形, 哪些是因式分解? 哪些不是? 为什么?
+
+(1) $4a\left(a+2b\right)=4a^2+8ab$;
+
+(2) $a^2-4=\left(a+2\right)\left(a-2\right)$;
+
+(3) $x^2-3x+2=x\left(x-3\right)+2$.
+
+### 解答 练习一
+
+由**定义 17.1.1 (因式分解)**, 因式分解的结果必须是几个整式的乘积.
+
+(1) 不是, 是整式乘法, 由积化为和.
+
+(2) 是, $a^2-4$ 化为 $\left(a+2\right)\left(a-2\right)$ 两个整式的乘积.
+
+(3) 不是, 右边 $x\left(x-3\right)+2$ 仍是和的形式, 不是乘积. $\blacksquare$
+
+## 练习二
+
+(练习 17.1 第 2 题) 分解因式:
+
+(1) $ax-ay$;
+
+(2) $a^2-2a$;
+
+(3) $a^2+ab$;
+
+(4) $xy-y^2+yz$.
+
+### 解答 练习二
+
+由**定义 17.1.3 (提公因式法)**.
+
+(1) $ax-ay=a\left(x-y\right)$.
+
+(2) $a^2-2a=a\left(a-2\right)$.
+
+(3) $a^2+ab=a\left(a+b\right)$.
+
+(4) $xy-y^2+yz=y\left(x-y+z\right)$. $\blacksquare$
+
+## 练习三
+
+(练习 17.1 第 3 题) 利用因式分解计算:
+
+(1) $1.99^2+1.99\times0.01$;
+
+(2) $49\times20.2^2+52\times20.2^2-20.2^2$;
+
+(3) $5\times3^4+4\times3^4+9\times3^2$.
+
+### 解答 练习三
+
+由**定义 17.1.3 (提公因式法)**.
+
+(1) $1.99^2+1.99\times0.01=1.99\left(1.99+0.01\right)=1.99\times2=3.98$.
+
+(2) $49\times20.2^2+52\times20.2^2-20.2^2=20.2^2\left(49+52-1\right)=20.2^2\times100=40804$.
+
+(3) $5\times3^4+4\times3^4+9\times3^2=9\times3^4+9\times3^2=9\times3^2\left(9+1\right)=81\times10=810$. $\blacksquare$
+
+## 练习四
+
+(练习 17.1 第 1 题) 分解因式:
+
+(1) $8m^2 n+2mn$;
+
+(2) $4a^2 b+10ab-ab^2$;
+
+(3) $p\left(a^2+b^2\right)-q\left(a^2+b^2\right)$;
+
+(4) $2a\left(y-z\right)^3-4b\left(z-y\right)^3$.
+
+### 解答 练习四
+
+由**定义 17.1.3 (提公因式法)**.
+
+(1) $8m^2 n+2mn=2mn\left(4m+1\right)$.
+
+(2) $4a^2 b+10ab-ab^2=ab\left(4a+10-b\right)$.
+
+(3) $p\left(a^2+b^2\right)-q\left(a^2+b^2\right)=\left(a^2+b^2\right)\left(p-q\right)$.
+
+(4) 因 $\left(z-y\right)^3=-\left(y-z\right)^3$, 故 $2a\left(y-z\right)^3-4b\left(z-y\right)^3=\left(y-z\right)^3\left(2a+4b\right)=2\left(y-z\right)^3\left(a+2b\right)$. $\blacksquare$
+
+## 练习五
 
 (练习 17.1 第 2 题) 先分解因式, 再求值: $4a^2\left(x+7\right)-3\left(x+7\right)$, 其中 $a=-5$, $x=3$.
 
-### 解答 练习一
+### 解答 练习五
 
 $$4a^2\left(x+7\right)-3\left(x+7\right)=\left(x+7\right)\left(4a^2-3\right).$$
 
@@ -24,7 +192,7 @@ $$4a^2\left(x+7\right)-3\left(x+7\right)=\left(x+7\right)\left(4a^2-3\right).$$
 
 ### 解答 习题一
 
-由基础知识.
+由**定义 17.1.1 (因式分解)**.
 
 (1) 是, 右边为乘积.
 
@@ -48,7 +216,7 @@ $$4a^2\left(x+7\right)-3\left(x+7\right)=\left(x+7\right)\left(4a^2-3\right).$$
 
 ### 解答 习题二
 
-由基础知识.
+由**定义 17.1.3 (提公因式法)**.
 
 (1) $x+xy=x\left(1+y\right)$.
 
@@ -94,7 +262,7 @@ $$4a^2\left(x+7\right)-3\left(x+7\right)=\left(x+7\right)\left(4a^2-3\right).$$
 
 ### 解答 习题四
 
-由基础知识.
+由**定义 17.1.3 (提公因式法)**.
 
 (1) $2mn^2+mn=mn\left(2n+1\right)$.
 
@@ -168,7 +336,7 @@ $$\left(b-c\right)\left(a-b\right)=0.$$
 
 故 $b=c$ 或 $a=b$, 即三角形至少有两边相等, 所以这个三角形是等腰三角形. $\blacksquare$
 
-## 练习二
+## 练习六
 
 (练习 17.2 第 1 题) 下列多项式能否利用平方差公式分解因式? 为什么?
 
@@ -180,9 +348,9 @@ $$\left(b-c\right)\left(a-b\right)=0.$$
 
 (4) $-x^2-y^2$.
 
-### 解答 练习二
+### 解答 练习六
 
-由基础知识, 平方差公式要求两项异号且均为平方.
+由**定义 17.2.1 (平方差公式法)**, 平方差公式要求两项异号且均为平方.
 
 (1) 不能, 两项同号.
 
@@ -192,7 +360,7 @@ $$\left(b-c\right)\left(a-b\right)=0.$$
 
 (4) 不能, 提取负号后为 $-\left(x^2+y^2\right)$, 两项同号. $\blacksquare$
 
-## 练习三
+## 练习七
 
 (练习 17.2 第 2 题) 分解因式:
 
@@ -208,9 +376,9 @@ $$\left(b-c\right)\left(a-b\right)=0.$$
 
 (6) $\left(m+n\right)^2-\left(m-2n\right)^2$.
 
-### 解答 练习三
+### 解答 练习七
 
-由基础知识.
+由**定义 17.2.1 (平方差公式法)**.
 
 (1) $36-m^2=\left(6+m\right)\left(6-m\right)$.
 
@@ -224,7 +392,7 @@ $$\left(b-c\right)\left(a-b\right)=0.$$
 
 (6) $\left(m+n\right)^2-\left(m-2n\right)^2=\left[\left(m+n\right)+\left(m-2n\right)\right]\left[\left(m+n\right)-\left(m-2n\right)\right]=\left(2m-n\right)\left(3n\right)$. $\blacksquare$
 
-## 练习四
+## 练习八
 
 (练习 17.2 第 1 题) 下列多项式是不是完全平方式? 为什么?
 
@@ -236,9 +404,9 @@ $$\left(b-c\right)\left(a-b\right)=0.$$
 
 (4) $a^2+ab+b^2$.
 
-### 解答 练习四
+### 解答 练习八
 
-由基础知识, 完全平方式须为两平方和加或减积的 $2$ 倍.
+由**定义 17.2.2 (完全平方式)**, 完全平方式须为两平方和加或减积的 $2$ 倍.
 
 (1) 是, $a^2-2\cdot a\cdot2+2^2=\left(a-2\right)^2$.
 
@@ -248,7 +416,7 @@ $$\left(b-c\right)\left(a-b\right)=0.$$
 
 (4) 不是, $ab$ 应为 $2ab$. $\blacksquare$
 
-## 练习五
+## 练习九
 
 (练习 17.2 第 2 题) 分解因式:
 
@@ -264,9 +432,9 @@ $$\left(b-c\right)\left(a-b\right)=0.$$
 
 (6) $-2xy-x^2-y^2$.
 
-### 解答 练习五
+### 解答 练习九
 
-由基础知识.
+由**定义 17.2.3 (完全平方公式法)**.
 
 (1) $a^2+2a+1=\left(a+1\right)^2$.
 
@@ -280,7 +448,7 @@ $$\left(b-c\right)\left(a-b\right)=0.$$
 
 (6) $-2xy-x^2-y^2=-\left(x^2+2xy+y^2\right)=-\left(x+y\right)^2$. $\blacksquare$
 
-## 练习六
+## 练习十
 
 (练习 17.2 第 1 题) 分解因式:
 
@@ -296,7 +464,7 @@ $$\left(b-c\right)\left(a-b\right)=0.$$
 
 (6) $-4bx^2+8bxy-4by^2$.
 
-### 解答 练习六
+### 解答 练习十
 
 先提公因式再用公式, 分解到不能再分.
 
@@ -312,7 +480,7 @@ $$\left(b-c\right)\left(a-b\right)=0.$$
 
 (6) $-4bx^2+8bxy-4by^2=-4b\left(x^2-2xy+y^2\right)=-4b\left(x-y\right)^2$. $\blacksquare$
 
-## 练习七
+## 练习十一
 
 (练习 17.2 第 2 题) 分解因式:
 
@@ -320,7 +488,7 @@ $$\left(b-c\right)\left(a-b\right)=0.$$
 
 (2) $\left(p-4\right)\left(p+1\right)+3p$.
 
-### 解答 练习七
+### 解答 练习十一
 
 (1) $\left(a-b\right)^2+4ab=a^2-2ab+b^2+4ab=a^2+2ab+b^2=\left(a+b\right)^2$.
 
@@ -340,7 +508,7 @@ $$\left(b-c\right)\left(a-b\right)=0.$$
 
 ### 解答 习题九
 
-由基础知识.
+由**定义 17.2.1 (平方差公式法)**.
 
 (1) $9a^2-16=\left(3a+4\right)\left(3a-4\right)$.
 
@@ -364,7 +532,7 @@ $$\left(b-c\right)\left(a-b\right)=0.$$
 
 ### 解答 习题十
 
-由基础知识.
+由**定义 17.2.3 (完全平方公式法)**.
 
 (1) $a^2-4ab+4b^2=\left(a-2b\right)^2$.
 
@@ -455,75 +623,3 @@ $n$ 与 $n+1$ 为连续整数, 必有一个偶数, 故 $n\left(n+1\right)=2k$, �
 ### 解答 习题十六
 
 $4y^2=\left(2y\right)^2$, $9=3^2$. 完全平方式中间项应为 $\pm2\cdot2y\cdot3=\pm12y$. 故 $m=\pm12$. $\blacksquare$
-
-## 习题十七
-
-(习题 17.2 拓广探索第 9 题) 观察下列式子, 你得出了什么结论? 你能证明你的结论吗?
-
-$1^2+1^2\times2^2+2^2=\left(1+1+1\right)^2$,
-
-$2^2+2^2\times3^2+3^2=\left(4+2+1\right)^2$,
-
-$3^2+3^2\times4^2+4^2=\left(9+3+1\right)^2$,
-
-$\cdots\cdots$
-
-### 解答 习题十七
-
-猜想: $n^2+n^2\left(n+1\right)^2+\left(n+1\right)^2=\left[n^2+n+1\right]^2$.
-
-证明: 左边 $=n^2+\left(n+1\right)^2+n^2\left(n+1\right)^2$. 展开右边:
-
-$$\left(n^2+n+1\right)^2=n^4+n^2+1+2n^3+2n^2+2n=n^4+2n^3+3n^2+2n+1.$$
-
-左边展开: $n^2+n^2+2n+1+n^2\left(n^2+2n+1\right)=2n^2+2n+1+n^4+2n^3+n^2=n^4+2n^3+3n^2+2n+1$. 两边相等, 猜想成立. $\blacksquare$
-
-## 阅读与思考一
-
-(阅读与思考 $x^2+\left(p+q\right)x+pq$ 型式子的因式分解) 利用 $x^2+\left(p+q\right)x+pq=\left(x+p\right)\left(x+q\right)$ 分解因式:
-
-(1) $x^2+7x+10$;
-
-(2) $x^2-2x-8$;
-
-(3) $y^2-7y+12$;
-
-(4) $x^2+7x-18$.
-
-### 解答 阅读与思考一
-
-由 $x^2+\left(p+q\right)x+pq=\left(x+p\right)\left(x+q\right)$, 找两数之和为一次项系数, 积为常数项.
-
-(1) $10=2\times5$, $2+5=7$, 故 $x^2+7x+10=\left(x+2\right)\left(x+5\right)$.
-
-(2) $-8=2\times\left(-4\right)$, $2+\left(-4\right)=-2$, 故 $x^2-2x-8=\left(x+2\right)\left(x-4\right)$.
-
-(3) $12=\left(-3\right)\times\left(-4\right)$, $-3+\left(-4\right)=-7$, 故 $y^2-7y+12=\left(y-3\right)\left(y-4\right)$.
-
-(4) $-18=9\times\left(-2\right)$, $9+\left(-2\right)=7$, 故 $x^2+7x-18=\left(x+9\right)\left(x-2\right)$. $\blacksquare$
-
-## 活动一
-
-(数学活动 活动 1) 个位数字是 $5$ 的两位数平方的规律. 已知
-
-$15\times15=225=1\times2\times100+25$,
-
-$25\times25=625=2\times3\times100+25$,
-
-$35\times35=1225=3\times4\times100+25$,
-
-$\cdots\cdots$
-
-你能写出一般的规律吗? 你能用所学知识证明你的结论吗?
-
-### 解答 活动一
-
-规律: 个位数字是 $5$ 的两位数, 设其为 $10n+5$, 则
-
-$$\left(10n+5\right)^2=100n\left(n+1\right)+25.$$
-
-证明: 展开左边
-
-$$\left(10n+5\right)^2=100n^2+100n+25=100n\left(n+1\right)+25.$$
-
-即个位为 $5$ 的数的平方等于十位数字与比它大 $1$ 的数的积的 $100$ 倍再加 $25$. $\blacksquare$

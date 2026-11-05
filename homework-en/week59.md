@@ -1,40 +1,28 @@
 # week59
 
+> **Definition 26.1.1 (Quadratic Function)**
+> 
+> In general, a function of the form $y=ax^2+bx+c$ ($a,b,c$ are constants, $a\ne0$) is called a quadratic function. Here $x$ is the independent variable, and $a,b,c$ are respectively the quadratic coefficient, the linear coefficient, and the constant term of the function expression.
+
+> **Conclusion 26.2.4 (The Parabola $y=ax^2+bx+c$)**
+> 
+> Completing the square gives $y=a\left(x+\frac b{2a}\right)^2+\frac{4ac-b^2}{4a}$; the axis of symmetry is $x=-\frac b{2a}$ and the vertex is $\left(-\frac b{2a},\frac{4ac-b^2}{4a}\right)$. When $a> 0$, the minimum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac b{2a}$; when $a< 0$, the maximum is taken there.
+
+> **Conclusion 26.3.1 (Quadratic Function and Quadratic Equation)**
+> 
+> The horizontal coordinate of a common point between the parabola $y=ax^2+bx+c$ and the $x$-axis is a real root of the equation $ax^2+bx+c=0$.
+
+> **Definition 27.1.1 (Inverse Proportional Function)**
+> 
+> A function of the form $y=\frac kx$ ($k$ is a constant, $k\ne0$) is called an inverse proportional function, with independent variable $x\ne0$.
+
 ## Problem 1
-
-(Exercise 26.4, Review and Consolidation, Problem 3) A firework's height is $h=39t-5t^2$. How long after being lit does it detonate at its highest point? What is the maximum height?
-
-### Solution to Problem 1
-
-By The Parabola $y=ax^2+bx+c$, $a=-5< 0$; the maximum is taken at $t=\frac{39}{10}=3.9\ \text{s}$,
-
-$$
-h_{\max}=39\times3.9-5\times3.9^2=76.05\ \text{m}.
-$$
-
-Hence it detonates at its highest point $3.9\ \text{s}$ after being lit, with maximum height $76.05\ \text{m}$. $\blacksquare$
-
-## Problem 2
-
-(Exercise 26.4, Review and Consolidation, Problem 4) A fence of total length $l$ encloses a rectangular field, with one side $x$. For what $x$ is the area $S$ maximized? What is the maximum area? What shape is the field then?
-
-### Solution to Problem 2
-
-One side is $x$ and the adjacent side is $\frac l2-x$; the area is
-
-$$
-S=x\left(\frac l2-x\right)=-x^2+\frac l2x.
-$$
-
-By The Parabola $y=ax^2+bx+c$, $a=-1< 0$; the maximum is taken at $x=\frac l4$, with $S_{\max}=\frac l4\cdot\frac l4=\frac{l^2}{16}$. The adjacent side is then also $\frac l4$, so the field is a square. $\blacksquare$
-
-## Problem 3
 
 (Exercise 26.4, Comprehensive Application, Problem 5) As shown in the figure, material of length $6\ \text{m}$ makes a window frame with a semicircle on top and a rectangle below. For what bottom width $x$ is the light-transmitting area $S$ maximized (rounded to one decimal place)?
 
 The figure shows a window frame: the lower part is a rectangle and the upper part is a semicircle whose diameter coincides with the rectangle's bottom side, i.e. the bottom width $x$; the frame material consists of the rectangle's bottom side, its two vertical sides, and the top semicircular arc.
 
-### Solution to Problem 3
+### Solution to Problem 1
 
 Let the rectangle height be $h$; the semicircle diameter is $x$, and its arc length is $\frac{\pi x}2$. Since the total material length is $6$, $x+2h+\frac{\pi x}2=6$, hence $h=3-\frac x2-\frac{\pi x}4$.
 
@@ -46,13 +34,13 @@ $$
 
 By The Parabola $y=ax^2+bx+c$, the area is maximized when $x=\frac{3}{2\left(\frac12+\frac\pi8\right)}=\frac{12}{4+\pi}\approx1.7\ \text{m}$. $\blacksquare$
 
-## Problem 4
+## Problem 2
 
 (Exercise 26.4, Comprehensive Application, Problem 6) A triangular piece of material is shown, with $\angle A=30^\circ$, $\angle C=90^\circ$, and $AB=12\ \text{cm}$. A rectangle $CDEF$ is cut out, with $D,E,F$ lying on $BC,AB,AC$ respectively. To maximize the rectangle's area, where should $E$ be chosen?
 
 The figure shows right triangle $ABC$ with $\angle C=90^\circ$, $\angle A=30^\circ$, and hypotenuse $AB=12\ \text{cm}$; inside it is inscribed rectangle $CDEF$, where $C$ is the right-angle vertex, $D$ lies on leg $BC$, $E$ lies on hypotenuse $AB$, and $F$ lies on leg $AC$.
 
-### Solution to Problem 4
+### Solution to Problem 2
 
 In right triangle $ABC$, $\angle A=30^\circ$, $AB=12$, hence $BC=AB\sin30^\circ=6$, $AC=AB\cos30^\circ=6\sqrt3$.
 
@@ -64,11 +52,11 @@ $$
 
 By The Parabola $y=ax^2+bx+c$, the maximum is taken at $x=\frac{6}{2/\sqrt3}=\frac{3\sqrt3}2$; then $E$'s horizontal coordinate is $6-\frac{3\sqrt3/2}{\sqrt3}=\frac92$. Hence $E$ should be chosen on $AB$ such that $CF=\frac{3\sqrt3}2\ \text{cm}$, maximizing the rectangle's area. $\blacksquare$
 
-## Problem 5
+## Problem 3
 
 (Exercise 26.4, Comprehensive Application, Problem 7) A hotel has $50$ rooms; at $180$ yuan/day every room is occupied. Each increase of $10$ yuan/day leaves one room vacant. Each occupied room costs $20$ yuan/day to service. At what room rate is profit maximized?
 
-### Solution to Problem 5
+### Solution to Problem 3
 
 Let the room rate increase by $10x$ yuan; then the rate is $\left(180+10x\right)$ yuan and the number of occupied rooms is $\left(50-x\right)$. The profit per room is $\left(180+10x-20\right)$ yuan, and the total profit is
 
@@ -78,7 +66,7 @@ $$
 
 By The Parabola $y=ax^2+bx+c$, $a=-10< 0$; the maximum is taken at $x=\frac{340}{20}=17$, at which the rate is $180+10\times17=350$ yuan/day. Hence profit is maximized at a room rate of $350$ yuan/day. $\blacksquare$
 
-## Problem 6
+## Problem 4
 
 (Exercise 26.4, Comprehensive Application, Problem 8) An aquatic product costs $40$ yuan/kg; at $50$ yuan/kg, $500\ \text{kg}$ are sold per month. For each $1$ yuan/kg increase in the selling price $x$, monthly sales volume decreases by $10\ \text{kg}$.
 
@@ -90,7 +78,7 @@ By The Parabola $y=ax^2+bx+c$, $a=-10< 0$; the maximum is taken at $x=\frac{340}
 
 (4) At what selling price is profit maximized? What is the maximum profit?
 
-### Solution to Problem 6
+### Solution to Problem 4
 
 (1) At price $x$ yuan/kg, monthly sales volume is $500-10\left(x-50\right)=1000-10x$, and profit per kilogram is $\left(x-40\right)$ yuan, hence
 
@@ -104,21 +92,21 @@ $$
 
 (4) By The Parabola $y=ax^2+bx+c$, $a=-10< 0$; the maximum is taken at $x=\frac{1400}{20}=70$, with $y_{\max}=\left(70-40\right)\left(1000-700\right)=9000$ yuan. Hence profit is maximized at price $70$ yuan/kg, with maximum $9000$ yuan. $\blacksquare$
 
-## Problem 7
+## Problem 5
 
 (Exercise 26.4, Extension and Exploration, Problem 9) A three-arch bridge has three parabolic arches; the two small arches are identical. At normal water level, the large arch spans $20\ \text{m}$ across the water, its vertex is $8\ \text{m}$ above the water, and the small arches' vertices are $5\ \text{m}$ above the water. Find the water-surface width of the large arch when the water rises just enough to submerge the small arches (rounded to one decimal place).
 
-### Solution to Problem 7
+### Solution to Problem 5
 
 Take the large arch's vertex as the origin and its axis of symmetry as the $y$-axis, with parabola $y=ax^2$. At normal water level the surface is at $y=-8$, spanning $20\ \text{m}$ and passing through $\left(10,-8\right)$; hence $-8=a\cdot100$, giving $a=-\frac2{25}$, i.e. $y=-\frac2{25}x^2$.
 
 When the water rises just to submerge the small arches, it has risen $5\ \text{m}$, so the surface is at $y=-8+5=-3$. Setting $y=-3$ gives $-3=-\frac2{25}x^2$, $x^2=\frac{75}2$, $x=\pm\sqrt{37.5}\approx\pm6.12$. Hence the large arch's water-surface width is about $2\times6.12=12.2\ \text{m}$. $\blacksquare$
 
-## Problem 8
+## Problem 6
 
 (Exercise 26.4, Extension and Exploration, Problem 10) Using a line segment of fixed length $l$, form a rectangle and a circle respectively. Which shape has the larger area? Why?
 
-### Solution to Problem 8
+### Solution to Problem 6
 
 Forming a circle, the circumference is $l$, the radius is $r=\frac l{2\pi}$, and the area is
 
@@ -410,3 +398,43 @@ S=2\pi b\cdot a=2\pi ab.
 $$
 
 By Basic Knowledge, $ab$ is maximized when $a=b$ (for fixed sum, product is maximized when equal), hence $a=b=9$. That is, when both adjacent sides are $9\ \text{cm}$, the cylinder's lateral surface area is maximized. $\blacksquare$
+
+## Review Problem 13
+
+(Review, Extension and Exploration, Problem 13) A route's length is measured $n$ times, giving $x_1,x_2,\cdots,x_n$. Using $x$ as an approximation, for what value of $x$ is $\left(x-x_1\right)^2+\left(x-x_2\right)^2+\cdots+\left(x-x_n\right)^2$ minimized? Which common statistic is this value?
+
+### Solution to Review Problem 13
+
+Expanding,
+
+$$
+S=\sum_{i=1}^n\left(x-x_i\right)^2=nx^2-2x\sum_{i=1}^n x_i+\sum_{i=1}^n x_i^2.
+$$
+
+This is a quadratic function in $x$, with $n> 0$ opening upward. By Basic Knowledge, when
+
+$$
+x=\frac{2\sum x_i}{2n}=\frac{x_1+x_2+\cdots+x_n}{n}
+$$
+
+$S$ is minimized. This value is precisely the arithmetic mean of the $n$ measurements. $\blacksquare$
+
+## Exercise 1
+
+(Exercise 27.1, Problem 1) Use function expressions to represent the relation between the variables in the following problems:
+
+(1) A swimming pool has volume $2000\ \text{m}^3$; the time $t$ (in $\text{h}$) to fill it varies with the filling rate $v$ (in $\text{m}^3/\text{h}$);
+
+(2) A school divides a $1000\ \text{m}^2$ practice field equally among several classes; the area $y$ (in $\text{m}^2$) per class varies with the number of classes $x$;
+
+(3) In a circuit the voltage is $U=3\ \text{V}$; the current $I$ (in $\text{A}$) varies with the resistance $R$ (in $\Omega$).
+
+### Solution to Exercise 1
+
+Using the equalities in each problem, write the expressions by **Definition 27.1.1 (Inverse Proportional Function)**.
+
+(1) Since volume equals filling rate times time, $vt=2000$, hence $t=\frac{2000}{v}$.
+
+(2) Since total area equals per-class area times number of classes, $xy=1000$, hence $y=\frac{1000}{x}$.
+
+(3) By Ohm's law $U=IR$, i.e. $IR=3$, hence $I=\frac3R$. $\blacksquare$

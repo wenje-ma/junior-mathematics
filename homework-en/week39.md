@@ -1,6 +1,114 @@
 # week39
 
+> **Definition 17.1.3 (Method of Extracting the Common Factor)**
+> 
+> If the terms of a polynomial have a common factor, this common factor can be extracted, writing the polynomial as the product of the common factor and another factor.
+
+> **Definition 17.2.1 (Method Using the Difference of Squares Formula)**
+> 
+> $a^2-b^2=\left(a+b\right)\left(a-b\right)$.
+
+> **Definition 17.2.2 (Perfect Square Trinomial)**
+> 
+> Expressions such as $a^2+2ab+b^2$ and $a^2-2ab+b^2$ are called perfect square trinomials.
+
+> **Definition 17.2.3 (Method Using the Perfect Square Formula)**
+> 
+> $a^2+2ab+b^2=\left(a+b\right)^2$, $a^2-2ab+b^2=\left(a-b\right)^2$.
+
+> **Definition 17.2.4 (Method of Using Formulas)**
+> 
+> Swap the two sides of a multiplication formula, and use the formula to factor a polynomial. Factoring should be carried on until each polynomial factor can no longer be factored.
+
+> **Definition 18.1.1 (Fraction)**
+> 
+> If $A,B$ denote two integral expressions and $B$ contains a letter, then the expression $\frac{A}{B}$ is called a fraction. A fraction is meaningful only when $B\ne0$.
+
+> **Definition 18.1.2 (Basic Property of Fractions)**
+> 
+> Multiplying (or dividing) both the numerator and denominator of a fraction by the same integral expression not equal to $0$ does not change the value of the fraction, i.e. $\frac{A}{B}=\frac{A\cdot C}{B\cdot C}=\frac{A\div C}{B\div C}$ ($C\ne0$).
+
+> **Definition 18.1.3 (Reducing a Fraction and Simplest Fraction)**
+> 
+> According to the basic property of fractions, canceling the common factor of the numerator and denominator of a fraction is called reducing the fraction. A fraction whose numerator and denominator have no common factor is called a simplest fraction.
+
+> **Definition 18.1.4 (Finding a Common Denominator and Least Common Denominator)**
+> 
+> According to the basic property of fractions, converting several fractions with different denominators into fractions with the same denominator equal to the original ones is called finding a common denominator. Generally, the least common denominator is taken as the product of the highest powers of all factors of the denominators.
+
+## Problem 1
+
+(Exercise 17.2, Extension and Exploration, Problem 9) Observe the following expressions. What conclusion can you draw? Can you prove your conclusion?
+
+$1^2+1^2\times2^2+2^2=\left(1+1+1\right)^2$,
+
+$2^2+2^2\times3^2+3^2=\left(4+2+1\right)^2$,
+
+$3^2+3^2\times4^2+4^2=\left(9+3+1\right)^2$,
+
+$\cdots\cdots$
+
+### Solution to Problem 1
+
+Conjecture: $n^2+n^2\left(n+1\right)^2+\left(n+1\right)^2=\left[n^2+n+1\right]^2$.
+
+Proof: the left side $=n^2+\left(n+1\right)^2+n^2\left(n+1\right)^2$. Expand the right side:
+
+$$\left(n^2+n+1\right)^2=n^4+n^2+1+2n^3+2n^2+2n=n^4+2n^3+3n^2+2n+1.$$
+
+Expanding the left side: $n^2+n^2+2n+1+n^2\left(n^2+2n+1\right)=2n^2+2n+1+n^4+2n^3+n^2=n^4+2n^3+3n^2+2n+1$. The two sides are equal, so the conjecture holds. $\blacksquare$
+
+## Reading and Thinking 1
+
+(Reading and Thinking, Factoring of the form $x^2+\left(p+q\right)x+pq$) Use $x^2+\left(p+q\right)x+pq=\left(x+p\right)\left(x+q\right)$ to factor:
+
+(1) $x^2+7x+10$;
+
+(2) $x^2-2x-8$;
+
+(3) $y^2-7y+12$;
+
+(4) $x^2+7x-18$.
+
+### Solution to Reading and Thinking 1
+
+By $x^2+\left(p+q\right)x+pq=\left(x+p\right)\left(x+q\right)$, find two numbers whose sum is the coefficient of the linear term and whose product is the constant term.
+
+(1) $10=2\times5$, $2+5=7$, hence $x^2+7x+10=\left(x+2\right)\left(x+5\right)$.
+
+(2) $-8=2\times\left(-4\right)$, $2+\left(-4\right)=-2$, hence $x^2-2x-8=\left(x+2\right)\left(x-4\right)$.
+
+(3) $12=\left(-3\right)\times\left(-4\right)$, $-3+\left(-4\right)=-7$, hence $y^2-7y+12=\left(y-3\right)\left(y-4\right)$.
+
+(4) $-18=9\times\left(-2\right)$, $9+\left(-2\right)=7$, hence $x^2+7x-18=\left(x+9\right)\left(x-2\right)$. $\blacksquare$
+
 ## Activity 1
+
+(Mathematical Activity, Activity 1) The pattern in the square of a two-digit number whose units digit is $5$. Given
+
+$15\times15=225=1\times2\times100+25$,
+
+$25\times25=625=2\times3\times100+25$,
+
+$35\times35=1225=3\times4\times100+25$,
+
+$\cdots\cdots$
+
+Can you write out the general pattern? Can you prove your conclusion using what you have learned?
+
+### Solution to Activity 1
+
+Pattern: for a two-digit number whose units digit is $5$, write it as $10n+5$; then
+
+$$\left(10n+5\right)^2=100n\left(n+1\right)+25.$$
+
+Proof: expand the left side
+
+$$\left(10n+5\right)^2=100n^2+100n+25=100n\left(n+1\right)+25.$$
+
+That is, the square of a number ending in $5$ equals $100$ times the product of its tens digit and the number $1$ greater than it, plus $25$. $\blacksquare$
+
+## Activity 2
 
 (Mathematical Activity, Activity 2) Generating passwords using factoring. First factor the given polynomial, then assign values to the factors to generate factor codes, and arrange the factor codes in increasing order to form a password. For example, for the polynomial $x^2 y-4y=y\left(x+2\right)\left(x-2\right)$, taking $x=15,y=12$ gives the factor codes $12,17,13$, arranged as $121317$.
 
@@ -10,7 +118,7 @@
 
 (3) Write a polynomial yourself, and generate a password using the above method.
 
-### Solution to Activity 1
+### Solution to Activity 2
 
 First factor: $16p^4-q^4=\left(4p^2+q^2\right)\left(4p^2-q^2\right)=\left(4p^2+q^2\right)\left(2p+q\right)\left(2p-q\right)$.
 
@@ -34,7 +142,7 @@ First factor: $16p^4-q^4=\left(4p^2+q^2\right)\left(4p^2-q^2\right)=\left(4p^2+q
 
 ### Solution to Review Problem 1
 
-By Basic Knowledge.
+By **Definition 17.1.3 (Method of Extracting the Common Factor)**.
 
 (1) $15a^3+10a^2=5a^2\left(3a+2\right)$.
 
@@ -58,7 +166,7 @@ By Basic Knowledge.
 
 ### Solution to Review Problem 2
 
-By Basic Knowledge.
+By **Definition 17.2.1 (Method Using the Difference of Squares Formula)**.
 
 (1) $1-36b^2=\left(1+6b\right)\left(1-6b\right)$.
 
@@ -86,7 +194,7 @@ By Basic Knowledge.
 
 ### Solution to Review Problem 3
 
-By Basic Knowledge.
+By **Definition 17.2.3 (Method Using the Perfect Square Formula)**.
 
 (1) $1+10t+25t^2=\left(1+5t\right)^2$.
 
@@ -204,7 +312,7 @@ $\frac{1}{x}$, $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{a^2 b}{c}$, $\frac{x^2-
 
 ### Solution to Exercise 2
 
-By Basic Knowledge, those whose denominator contains a letter are fractions.
+By **Definition 18.1.1 (Fraction)**, those whose denominator contains a letter are fractions.
 
 Fractions: $\frac{1}{x}$, $\frac{a^2 b}{c}$.
 
@@ -222,7 +330,7 @@ Integral expressions: $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{x^2-y^2}{\pi}$ (
 
 ### Solution to Exercise 3
 
-By Basic Knowledge, the denominator is not $0$.
+By **Definition 18.1.1 (Fraction)**, the denominator is not $0$.
 
 (1) $3x\ne0$, i.e. $x\ne0$.
 
@@ -260,7 +368,7 @@ For the fraction to be $0$, the numerator must be $0$ and the denominator not $0
 
 ### Solution to Exercise 5
 
-By reducing a fraction.
+By **Definition 18.1.3 (Reducing a Fraction and Simplest Fraction)**.
 
 (1) $\frac{2bc}{ac}=\frac{2b}{a}$.
 
@@ -298,7 +406,7 @@ By reducing a fraction.
 
 ### Solution to Exercise 7
 
-By finding a common denominator.
+By **Definition 18.1.4 (Finding a Common Denominator and Least Common Denominator)**.
 
 (1) Least common denominator $6x^2 y^2$: $\frac{z}{2x^2 y}=\frac{3yz}{6x^2 y^2}$, $\frac{5}{6xy^2}=\frac{5x}{6x^2 y^2}$.
 
@@ -308,7 +416,7 @@ By finding a common denominator.
 
 (4) $a^2-2a+1=\left(a-1\right)^2$, $a^2-1=\left(a-1\right)\left(a+1\right)$, least common denominator $\left(a-1\right)^2\left(a+1\right)$: $\frac{1}{\left(a-1\right)^2}=\frac{a+1}{\left(a-1\right)^2\left(a+1\right)}$, $\frac{1}{\left(a-1\right)\left(a+1\right)}=\frac{a-1}{\left(a-1\right)^2\left(a+1\right)}$. $\blacksquare$
 
-## Problem 1
+## Problem 2
 
 (Exercise 18.1, Review and Consolidation, Problem 1) Write expressions:
 
@@ -318,7 +426,7 @@ By finding a common denominator.
 
 (3) The total number of students in a school is $m$, among which boys make up $\frac35$ of all students; then the number of girls is \;_\_\; .
 
-### Solution to Problem 1
+### Solution to Problem 2
 
 (1) The original plan is $\frac{m}{n}$ per year, and the actual is $\frac{m}{n-1}$ per year; the extra afforestation is $\frac{m}{n-1}-\frac{m}{n}=\frac{m}{n\left(n-1\right)}$ hectares.
 
@@ -326,21 +434,21 @@ By finding a common denominator.
 
 (3) Girls make up $1-\frac35=\frac25$, so the number of girls is $\frac{2}{5}m$. $\blacksquare$
 
-## Problem 2
+## Problem 3
 
 (Exercise 18.1, Review and Consolidation, Problem 2) Among the following expressions, which are integral expressions? Which are fractions?
 
 $\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y}$, $\frac{2ab}{\left(a+b\right)^2}$.
 
-### Solution to Problem 2
+### Solution to Problem 3
 
-By Basic Knowledge.
+By **Definition 18.1.1 (Fraction)**.
 
 Fractions: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2 y}$, $\frac{2ab}{\left(a+b\right)^2}$.
 
 Integral expressions: $\frac{x}{3}$, $\frac{a+5}{15}$. $\blacksquare$
 
-## Problem 3
+## Problem 4
 
 (Exercise 18.1, Review and Consolidation, Problem 3) Under what conditions on $x$ is the fraction meaningful?
 
@@ -352,7 +460,7 @@ Integral expressions: $\frac{x}{3}$, $\frac{a+5}{15}$. $\blacksquare$
 
 (4) $\frac{1}{x^2-9}$.
 
-### Solution to Problem 3
+### Solution to Problem 4
 
 The denominator is not $0$.
 
@@ -364,7 +472,7 @@ The denominator is not $0$.
 
 (4) $x^2-9\ne0$, i.e. $x\ne\pm3$. $\blacksquare$
 
-## Problem 4
+## Problem 5
 
 (Exercise 18.1, Review and Consolidation, Problem 4) Reduce:
 
@@ -376,9 +484,9 @@ The denominator is not $0$.
 
 (4) $\frac{x^2-25}{x^2+10x+25}$.
 
-### Solution to Problem 4
+### Solution to Problem 5
 
-By Basic Knowledge.
+By **Definition 18.1.3 (Reducing a Fraction and Simplest Fraction)**.
 
 (1) $\frac{8a^2}{12a^3}=\frac{2}{3a}$.
 
@@ -388,7 +496,7 @@ By Basic Knowledge.
 
 (4) $\frac{x^2-25}{x^2+10x+25}=\frac{\left(x+5\right)\left(x-5\right)}{\left(x+5\right)^2}=\frac{x-5}{x+5}$. $\blacksquare$
 
-## Problem 5
+## Problem 6
 
 (Exercise 18.1, Review and Consolidation, Problem 5) Find a common denominator:
 
@@ -400,9 +508,9 @@ By Basic Knowledge.
 
 (4) $\frac{1}{x^2-9}$ and $\frac{1}{2 x+6}$.
 
-### Solution to Problem 5
+### Solution to Problem 6
 
-By Basic Knowledge.
+By **Definition 18.1.4 (Finding a Common Denominator and Least Common Denominator)**.
 
 (1) Least common denominator $6x^2 y z^2$: $\frac{z}{3x^2 y}=\frac{2z^3}{6x^2 y z^2}$, $\frac{xy}{2z^2}=\frac{3x^3 y^2}{6x^2 y z^2}$.
 
@@ -412,7 +520,7 @@ By Basic Knowledge.
 
 (4) $x^2-9=\left(x+3\right)\left(x-3\right)$, $2x+6=2\left(x+3\right)$, least common denominator $2\left(x+3\right)\left(x-3\right)$: $\frac{1}{\left(x+3\right)\left(x-3\right)}=\frac{2}{2\left(x+3\right)\left(x-3\right)}$, $\frac{1}{2\left(x+3\right)}=\frac{x-3}{2\left(x+3\right)\left(x-3\right)}$. $\blacksquare$
 
-## Problem 6
+## Problem 7
 
 (Exercise 18.1, Comprehensive Application, Problem 6) Fill in the blanks:
 
@@ -422,82 +530,12 @@ By Basic Knowledge.
 
 (3) $\frac{2 x}{x^2-3 x}=\frac{2}{\left(\;\;\right)}$.
 
-### Solution to Problem 6
+### Solution to Problem 7
 
-By Basic Property of Fractions.
+By **Definition 18.1.2 (Basic Property of Fractions)**.
 
 (1) Multiply the denominator by $2a$, and the numerator by $2a$ as well: $\frac{3a}{5xy}=\frac{6a^2}{10axy}$.
 
 (2) $a^2-4=\left(a+2\right)\left(a-2\right)$, reduce: $\frac{a+2}{\left(a+2\right)\left(a-2\right)}=\frac{1}{a-2}$.
 
 (3) $x^2-3x=x\left(x-3\right)$, reduce: $\frac{2x}{x\left(x-3\right)}=\frac{2}{x-3}$. $\blacksquare$
-
-## Problem 7
-
-(Exercise 18.1, Comprehensive Application, Problem 7) Without changing the value of the fraction, make both the numerator and denominator of the following fractions contain no negative sign:
-
-(1) $\frac{-5 y}{-x^2}$;
-
-(2) $\frac{-a}{2 b}$;
-
-(3) $\frac{2 m}{-3 n}$;
-
-(4) $-\frac{-x}{2 y}$.
-
-### Solution to Problem 7
-
-By the basic property of fractions, when numerator and denominator have the same sign the result is positive.
-
-(1) $\frac{-5y}{-x^2}=\frac{5y}{x^2}$.
-
-(2) $\frac{-a}{2b}=-\frac{a}{2b}$.
-
-(3) $\frac{2m}{-3n}=-\frac{2m}{3n}$.
-
-(4) $-\frac{-x}{2y}=\frac{x}{2y}$. $\blacksquare$
-
-## Problem 8
-
-(Exercise 18.1, Comprehensive Application, Problem 8) Without changing the value of the fraction, make the coefficient of the highest-degree term in both the numerator and denominator of the following fractions positive:
-
-(1) $\frac{-x^2}{-x}$;
-
-(2) $\frac{1-x^2}{1+x}$;
-
-(3) $\frac{-x-1}{x-1}$.
-
-### Solution to Problem 8
-
-(1) $\frac{-x^2}{-x}=\frac{x^2}{x}$.
-
-(2) $\frac{1-x^2}{1+x}=\frac{-\left(x^2-1\right)}{x+1}=\frac{1-x}{1}$... rearranging gives $\frac{-\left(x^2-1\right)}{x+1}=-\frac{x^2-1}{x+1}$.
-
-(3) $\frac{-x-1}{x-1}=-\frac{x+1}{x-1}$. $\blacksquare$
-
-## Problem 9
-
-(Exercise 18.1, Extension and Exploration, Problem 9) A and B are driving on a highway; A travels $20\ \text{km}$ more per hour than B. Given that the time A takes to travel $400\ \text{km}$ is the same as the time B takes to travel $300\ \text{km}$, find the average speeds of A and B.
-
-### Solution to Problem 9
-
-Let B's average speed be $x\ \text{km/h}$; then A's is $\left(x+20\right)\ \text{km/h}$. Since the times are equal:
-
-$$\frac{400}{x+20}=\frac{300}{x}.$$
-
-Cross-multiplying: $400x=300\left(x+20\right)=300x+6000$, solving gives $x=60$.
-
-Hence B's average speed is $60\ \text{km/h}$, and A's is $80\ \text{km/h}$. $\blacksquare$
-
-## Problem 10
-
-(Exercise 18.1, Extension and Exploration, Problem 10) For a certain job, A alone needs $a$ days to finish it, and B alone needs $b$ days. What is the amount of work completed when A and B work together for $3$ days?
-
-### Solution to Problem 10
-
-A completes $\frac1a$ per day, B completes $\frac1b$ per day; together they complete $\frac1a+\frac1b$ per day.
-
-The amount of work completed in $3$ days of joint work is
-
-$$3\left(\frac1a+\frac1b\right)=\frac{3\left(a+b\right)}{ab}.$$
-
-$\blacksquare$

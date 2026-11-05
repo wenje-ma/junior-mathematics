@@ -1,10 +1,178 @@
 # week38
 
+> **Definition 16.1.1 (Multiplication of Powers with the Same Base)**
+> 
+> In general, for any base $a$ and any positive integers $m,n$, $a^m\cdot a^n=a^{m+n}$; that is, when multiplying powers with the same base, the base is unchanged and the exponents are added. This property also holds when three or more powers with the same base are multiplied.
+
+> **Definition 16.1.2 (Power of a Power)**
+> 
+> In general, for any base $a$ and any positive integers $m,n$, $\left(a^m\right)^n=a^{mn}$; that is, for a power of a power, the base is unchanged and the exponents are multiplied.
+
+> **Definition 16.1.3 (Power of a Product)**
+> 
+> In general, for any bases $a,b$ and any positive integer $n$, $\left(ab\right)^n=a^n b^n$; that is, the power of a product equals taking the power of each factor of the product separately and then multiplying the resulting powers. This property also holds for the power of a product of three or more factors.
+
+> **Definition 16.2.4 (Division of Powers with the Same Base)**
+> 
+> $a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ are both positive integers, $m> n$); that is, when dividing powers with the same base, the base is unchanged and the exponents are subtracted.
+
+> **Definition 16.3.1 (Difference of Squares Formula)**
+> 
+> $\left(a+b\right)\left(a-b\right)=a^2-b^2$, that is, the product of the sum of two numbers and the difference of the same two numbers equals the difference of their squares.
+
+> **Definition 16.3.2 (Perfect Square Formula)**
+> 
+> The square of the sum (or difference) of two numbers equals the sum of their squares plus (or minus) $2$ times their product, i.e. $\left(a+b\right)^2=a^2+2ab+b^2$, $\left(a-b\right)^2=a^2-2ab+b^2$.
+
+> **Definition 17.1.1 (Factoring)**
+> 
+> Writing a polynomial as a product of several integral expressions is called factoring this polynomial, also called decomposing the polynomial into factors. Factoring and polynomial multiplication are inverse transformations.
+
+> **Definition 17.1.2 (Common Factor)**
+> 
+> A common factor shared by all terms of a polynomial is called the common factor of the terms of this polynomial.
+
+> **Definition 17.1.3 (Method of Extracting the Common Factor)**
+> 
+> If the terms of a polynomial have a common factor, this common factor can be extracted, writing the polynomial as the product of the common factor and another factor.
+
+> **Definition 17.2.1 (Method Using the Difference of Squares Formula)**
+> 
+> $a^2-b^2=\left(a+b\right)\left(a-b\right)$.
+
+> **Definition 17.2.2 (Perfect Square Trinomial)**
+> 
+> Expressions such as $a^2+2ab+b^2$ and $a^2-2ab+b^2$ are called perfect square trinomials.
+
+> **Definition 17.2.3 (Method Using the Perfect Square Formula)**
+> 
+> $a^2+2ab+b^2=\left(a+b\right)^2$, $a^2-2ab+b^2=\left(a-b\right)^2$.
+
+> **Definition 17.2.4 (Method of Using Formulas)**
+> 
+> Swap the two sides of a multiplication formula, and use the formula to factor a polynomial. Factoring should be carried on until each polynomial factor can no longer be factored.
+
+## Review Problem 1
+
+(Review Problems, Extension and Exploration, Problem 12) The raw materials for a certain product have risen in price, so the manufacturer decides to raise the product's price. There are three schemes:
+
+(1) first raise the price by $p\%$, then by $q\%$;
+
+(2) first raise the price by $q\%$, then by $p\%$;
+
+(3) both the first and second raises are $\frac{p+q}{2}\%$.
+
+Here $p,q$ are unequal positive numbers. Which of the three schemes gives the largest price increase?
+
+### Solution to Review Problem 1
+
+Let the original price be $1$; the final price under each scheme:
+
+(1) $P_1=\left(1+p\%\right)\left(1+q\%\right)=1+p\%+q\%+pq\%^2$.
+
+(2) $P_2=\left(1+q\%\right)\left(1+p\%\right)$, the same as $P_1$.
+
+(3) $P_3=\left(1+\frac{p+q}{2}\%\right)^2=1+\left(p+q\right)\%+\frac{\left(p+q\right)^2}{4}\%^2$.
+
+Compare the difference between $P_3$ and $P_1$:
+
+$$P_3-P_1=\left[\frac{\left(p+q\right)^2}{4}-pq\right]\%^2=\frac{\left(p-q\right)^2}{4}\%^2> 0.$$
+
+Since $p\ne q$, we have $P_3> P_1=P_2$, so scheme (3) gives the largest price increase. $\blacksquare$
+
 ## Exercise 1
+
+(Exercise 17.1, Problem 1) Which of the following transformations from left to right are factorizations? Which are not? Why?
+
+(1) $4a\left(a+2b\right)=4a^2+8ab$;
+
+(2) $a^2-4=\left(a+2\right)\left(a-2\right)$;
+
+(3) $x^2-3x+2=x\left(x-3\right)+2$.
+
+### Solution to Exercise 1
+
+By **Definition 17.1.1 (Factoring)**, the result of a factorization must be a product of several integral expressions.
+
+(1) No; it is polynomial multiplication, going from a product to a sum.
+
+(2) Yes; $a^2-4$ is written as the product of two integral expressions, $\left(a+2\right)\left(a-2\right)$.
+
+(3) No; the right side $x\left(x-3\right)+2$ is still in the form of a sum, not a product. $\blacksquare$
+
+## Exercise 2
+
+(Exercise 17.1, Problem 2) Factor:
+
+(1) $ax-ay$;
+
+(2) $a^2-2a$;
+
+(3) $a^2+ab$;
+
+(4) $xy-y^2+yz$.
+
+### Solution to Exercise 2
+
+By **Definition 17.1.3 (Method of Extracting the Common Factor)**.
+
+(1) $ax-ay=a\left(x-y\right)$.
+
+(2) $a^2-2a=a\left(a-2\right)$.
+
+(3) $a^2+ab=a\left(a+b\right)$.
+
+(4) $xy-y^2+yz=y\left(x-y+z\right)$. $\blacksquare$
+
+## Exercise 3
+
+(Exercise 17.1, Problem 3) Calculate using factoring:
+
+(1) $1.99^2+1.99\times0.01$;
+
+(2) $49\times20.2^2+52\times20.2^2-20.2^2$;
+
+(3) $5\times3^4+4\times3^4+9\times3^2$.
+
+### Solution to Exercise 3
+
+By **Definition 17.1.3 (Method of Extracting the Common Factor)**.
+
+(1) $1.99^2+1.99\times0.01=1.99\left(1.99+0.01\right)=1.99\times2=3.98$.
+
+(2) $49\times20.2^2+52\times20.2^2-20.2^2=20.2^2\left(49+52-1\right)=20.2^2\times100=40804$.
+
+(3) $5\times3^4+4\times3^4+9\times3^2=9\times3^4+9\times3^2=9\times3^2\left(9+1\right)=81\times10=810$. $\blacksquare$
+
+## Exercise 4
+
+(Exercise 17.1, Problem 1) Factor:
+
+(1) $8m^2 n+2mn$;
+
+(2) $4a^2 b+10ab-ab^2$;
+
+(3) $p\left(a^2+b^2\right)-q\left(a^2+b^2\right)$;
+
+(4) $2a\left(y-z\right)^3-4b\left(z-y\right)^3$.
+
+### Solution to Exercise 4
+
+By **Definition 17.1.3 (Method of Extracting the Common Factor)**.
+
+(1) $8m^2 n+2mn=2mn\left(4m+1\right)$.
+
+(2) $4a^2 b+10ab-ab^2=ab\left(4a+10-b\right)$.
+
+(3) $p\left(a^2+b^2\right)-q\left(a^2+b^2\right)=\left(a^2+b^2\right)\left(p-q\right)$.
+
+(4) Since $\left(z-y\right)^3=-\left(y-z\right)^3$, we have $2a\left(y-z\right)^3-4b\left(z-y\right)^3=\left(y-z\right)^3\left(2a+4b\right)=2\left(y-z\right)^3\left(a+2b\right)$. $\blacksquare$
+
+## Exercise 5
 
 (Exercise 17.1, Problem 2) First factor, then evaluate: $4a^2\left(x+7\right)-3\left(x+7\right)$, where $a=-5$, $x=3$.
 
-### Solution to Exercise 1
+### Solution to Exercise 5
 
 $$4a^2\left(x+7\right)-3\left(x+7\right)=\left(x+7\right)\left(4a^2-3\right).$$
 
@@ -24,7 +192,7 @@ Substituting $a=-5,x=3$, we get $\left(3+7\right)\left(4\times25-3\right)=10\tim
 
 ### Solution to Problem 1
 
-By Basic Knowledge.
+By **Definition 17.1.1 (Factoring)**.
 
 (1) Yes; the right side is a product.
 
@@ -48,7 +216,7 @@ By Basic Knowledge.
 
 ### Solution to Problem 2
 
-By Basic Knowledge.
+By **Definition 17.1.3 (Method of Extracting the Common Factor)**.
 
 (1) $x+xy=x\left(1+y\right)$.
 
@@ -94,7 +262,7 @@ By Basic Knowledge.
 
 ### Solution to Problem 4
 
-By Basic Knowledge.
+By **Definition 17.1.3 (Method of Extracting the Common Factor)**.
 
 (1) $2mn^2+mn=mn\left(2n+1\right)$.
 
@@ -168,7 +336,7 @@ $$\left(b-c\right)\left(a-b\right)=0.$$
 
 Hence $b=c$ or $a=b$, i.e. at least two sides of the triangle are equal; therefore this triangle is isosceles. $\blacksquare$
 
-## Exercise 2
+## Exercise 6
 
 (Exercise 17.2, Problem 1) Can the following polynomials be factored using the difference of squares formula? Why?
 
@@ -180,9 +348,9 @@ Hence $b=c$ or $a=b$, i.e. at least two sides of the triangle are equal; therefo
 
 (4) $-x^2-y^2$.
 
-### Solution to Exercise 2
+### Solution to Exercise 6
 
-By Basic Knowledge, the difference of squares formula requires the two terms to have opposite signs and both be squares.
+By **Definition 17.2.1 (Method Using the Difference of Squares Formula)**, the difference of squares formula requires the two terms to have opposite signs and both be squares.
 
 (1) No; the two terms have the same sign.
 
@@ -192,7 +360,7 @@ By Basic Knowledge, the difference of squares formula requires the two terms to 
 
 (4) No; after factoring out the minus sign it is $-\left(x^2+y^2\right)$, with the two terms having the same sign. $\blacksquare$
 
-## Exercise 3
+## Exercise 7
 
 (Exercise 17.2, Problem 2) Factor:
 
@@ -208,9 +376,9 @@ By Basic Knowledge, the difference of squares formula requires the two terms to 
 
 (6) $\left(m+n\right)^2-\left(m-2n\right)^2$.
 
-### Solution to Exercise 3
+### Solution to Exercise 7
 
-By Basic Knowledge.
+By **Definition 17.2.1 (Method Using the Difference of Squares Formula)**.
 
 (1) $36-m^2=\left(6+m\right)\left(6-m\right)$.
 
@@ -224,7 +392,7 @@ By Basic Knowledge.
 
 (6) $\left(m+n\right)^2-\left(m-2n\right)^2=\left[\left(m+n\right)+\left(m-2n\right)\right]\left[\left(m+n\right)-\left(m-2n\right)\right]=\left(2m-n\right)\left(3n\right)$. $\blacksquare$
 
-## Exercise 4
+## Exercise 8
 
 (Exercise 17.2, Problem 1) Are the following polynomials perfect square trinomials? Why?
 
@@ -236,9 +404,9 @@ By Basic Knowledge.
 
 (4) $a^2+ab+b^2$.
 
-### Solution to Exercise 4
+### Solution to Exercise 8
 
-By Basic Knowledge, a perfect square trinomial must be the sum of two squares plus or minus $2$ times their product.
+By **Definition 17.2.2 (Perfect Square Trinomial)**, a perfect square trinomial must be the sum of two squares plus or minus $2$ times their product.
 
 (1) Yes; $a^2-2\cdot a\cdot2+2^2=\left(a-2\right)^2$.
 
@@ -248,7 +416,7 @@ By Basic Knowledge, a perfect square trinomial must be the sum of two squares pl
 
 (4) No; $ab$ should be $2ab$. $\blacksquare$
 
-## Exercise 5
+## Exercise 9
 
 (Exercise 17.2, Problem 2) Factor:
 
@@ -264,9 +432,9 @@ By Basic Knowledge, a perfect square trinomial must be the sum of two squares pl
 
 (6) $-2xy-x^2-y^2$.
 
-### Solution to Exercise 5
+### Solution to Exercise 9
 
-By Basic Knowledge.
+By **Definition 17.2.3 (Method Using the Perfect Square Formula)**.
 
 (1) $a^2+2a+1=\left(a+1\right)^2$.
 
@@ -280,7 +448,7 @@ By Basic Knowledge.
 
 (6) $-2xy-x^2-y^2=-\left(x^2+2xy+y^2\right)=-\left(x+y\right)^2$. $\blacksquare$
 
-## Exercise 6
+## Exercise 10
 
 (Exercise 17.2, Problem 1) Factor:
 
@@ -296,7 +464,7 @@ By Basic Knowledge.
 
 (6) $-4bx^2+8bxy-4by^2$.
 
-### Solution to Exercise 6
+### Solution to Exercise 10
 
 First extract the common factor, then use the formula; factor until no further factorization is possible.
 
@@ -312,7 +480,7 @@ First extract the common factor, then use the formula; factor until no further f
 
 (6) $-4bx^2+8bxy-4by^2=-4b\left(x^2-2xy+y^2\right)=-4b\left(x-y\right)^2$. $\blacksquare$
 
-## Exercise 7
+## Exercise 11
 
 (Exercise 17.2, Problem 2) Factor:
 
@@ -320,7 +488,7 @@ First extract the common factor, then use the formula; factor until no further f
 
 (2) $\left(p-4\right)\left(p+1\right)+3p$.
 
-### Solution to Exercise 7
+### Solution to Exercise 11
 
 (1) $\left(a-b\right)^2+4ab=a^2-2ab+b^2+4ab=a^2+2ab+b^2=\left(a+b\right)^2$.
 
@@ -340,7 +508,7 @@ First extract the common factor, then use the formula; factor until no further f
 
 ### Solution to Problem 9
 
-By Basic Knowledge.
+By **Definition 17.2.1 (Method Using the Difference of Squares Formula)**.
 
 (1) $9a^2-16=\left(3a+4\right)\left(3a-4\right)$.
 
@@ -364,7 +532,7 @@ By Basic Knowledge.
 
 ### Solution to Problem 10
 
-By Basic Knowledge.
+By **Definition 17.2.3 (Method Using the Perfect Square Formula)**.
 
 (1) $a^2-4ab+4b^2=\left(a-2b\right)^2$.
 
@@ -455,75 +623,3 @@ $n$ and $n+1$ are consecutive integers, so one of them must be even; hence $n\le
 ### Solution to Problem 16
 
 $4y^2=\left(2y\right)^2$, $9=3^2$. The middle term of a perfect square trinomial should be $\pm2\cdot2y\cdot3=\pm12y$. Hence $m=\pm12$. $\blacksquare$
-
-## Problem 17
-
-(Exercise 17.2, Extension and Exploration, Problem 9) Observe the following expressions. What conclusion can you draw? Can you prove your conclusion?
-
-$1^2+1^2\times2^2+2^2=\left(1+1+1\right)^2$,
-
-$2^2+2^2\times3^2+3^2=\left(4+2+1\right)^2$,
-
-$3^2+3^2\times4^2+4^2=\left(9+3+1\right)^2$,
-
-$\cdots\cdots$
-
-### Solution to Problem 17
-
-Conjecture: $n^2+n^2\left(n+1\right)^2+\left(n+1\right)^2=\left[n^2+n+1\right]^2$.
-
-Proof: the left side $=n^2+\left(n+1\right)^2+n^2\left(n+1\right)^2$. Expand the right side:
-
-$$\left(n^2+n+1\right)^2=n^4+n^2+1+2n^3+2n^2+2n=n^4+2n^3+3n^2+2n+1.$$
-
-Expanding the left side: $n^2+n^2+2n+1+n^2\left(n^2+2n+1\right)=2n^2+2n+1+n^4+2n^3+n^2=n^4+2n^3+3n^2+2n+1$. The two sides are equal, so the conjecture holds. $\blacksquare$
-
-## Reading and Thinking 1
-
-(Reading and Thinking, Factoring of the form $x^2+\left(p+q\right)x+pq$) Use $x^2+\left(p+q\right)x+pq=\left(x+p\right)\left(x+q\right)$ to factor:
-
-(1) $x^2+7x+10$;
-
-(2) $x^2-2x-8$;
-
-(3) $y^2-7y+12$;
-
-(4) $x^2+7x-18$.
-
-### Solution to Reading and Thinking 1
-
-By $x^2+\left(p+q\right)x+pq=\left(x+p\right)\left(x+q\right)$, find two numbers whose sum is the coefficient of the linear term and whose product is the constant term.
-
-(1) $10=2\times5$, $2+5=7$, hence $x^2+7x+10=\left(x+2\right)\left(x+5\right)$.
-
-(2) $-8=2\times\left(-4\right)$, $2+\left(-4\right)=-2$, hence $x^2-2x-8=\left(x+2\right)\left(x-4\right)$.
-
-(3) $12=\left(-3\right)\times\left(-4\right)$, $-3+\left(-4\right)=-7$, hence $y^2-7y+12=\left(y-3\right)\left(y-4\right)$.
-
-(4) $-18=9\times\left(-2\right)$, $9+\left(-2\right)=7$, hence $x^2+7x-18=\left(x+9\right)\left(x-2\right)$. $\blacksquare$
-
-## Activity 1
-
-(Mathematical Activity, Activity 1) The pattern in the square of a two-digit number whose units digit is $5$. Given
-
-$15\times15=225=1\times2\times100+25$,
-
-$25\times25=625=2\times3\times100+25$,
-
-$35\times35=1225=3\times4\times100+25$,
-
-$\cdots\cdots$
-
-Can you write out the general pattern? Can you prove your conclusion using what you have learned?
-
-### Solution to Activity 1
-
-Pattern: for a two-digit number whose units digit is $5$, write it as $10n+5$; then
-
-$$\left(10n+5\right)^2=100n\left(n+1\right)+25.$$
-
-Proof: expand the left side
-
-$$\left(10n+5\right)^2=100n^2+100n+25=100n\left(n+1\right)+25.$$
-
-That is, the square of a number ending in $5$ equals $100$ times the product of its tens digit and the number $1$ greater than it, plus $25$. $\blacksquare$

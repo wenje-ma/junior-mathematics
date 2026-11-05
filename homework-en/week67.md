@@ -1,50 +1,102 @@
 # week67
 
-> **Basic Fact 27.2.1** (Parallel Lines Dividing Line Segments Proportionally) 
+> **Definition 26.1.1 (Inverse Proportional Function)**
+> 
+> A function of the form $y=\frac{k}{x}$ (where $k$ is a constant and $k\ne0$) is called an inverse proportional function, and the range of the independent variable $x$ is all real numbers except $0$.
+
+> **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**
+> 
+> The graph of $y=\frac{k}{x}$ is a hyperbola. When $k> 0$, the two branches lie in the first and third quadrants, and in each quadrant $y$ decreases as $x$ increases; when $k< 0$, the two branches lie in the second and fourth quadrants, and in each quadrant $y$ increases as $x$ increases.
+
+> **Definition 27.1.1 (Similar Figures)**
+> 
+> Figures with the same shape are called similar figures; two figures are similar if one can be obtained from the other by enlarging or reducing it.
+
+> **Definition 27.1.2 (Proportional Line Segments)**
+> 
+> For four line segments $a,b,c,d$, if $\frac{a}{b}=\frac{c}{d}$ (i.e. $ad=bc$), then the four line segments are said to be proportional.
+
+> **Definition 27.1.3 (Similar Polygons)**
+> 
+> Two polygons with the same number of sides are called similar polygons if their corresponding angles are equal and their corresponding sides are proportional; the ratio of corresponding sides of similar polygons is called the similarity ratio. The corresponding angles of similar polygons are equal, and their corresponding sides are proportional.
+
+> **Definition 27.2.1 (Similar Triangles)**
+> 
+> In $\triangle ABC$ and $\triangle A'B'C'$, if $\angle A=\angle A'$, $\angle B=\angle B'$, $\angle C=\angle C'$, and $\frac{AB}{A'B'}=\frac{BC}{B'C'}=\frac{AC}{A'C'}=k$, then $\triangle ABC\backsim\triangle A'B'C'$.
+
+> **Basic Fact 27.2.1 (Parallel Lines Dividing Line Segments Proportionally)**
 > 
 > When two lines are cut by a set of parallel lines, the corresponding line segments obtained are proportional.
 
-> **Criterion Theorem 27.2.2** (SSS) 
+> **Theorem 27.2.1 (Preliminary Theorem)**
+> 
+> A line parallel to one side of a triangle and intersecting the other two sides forms a triangle similar to the original triangle.
+
+> **Property 27.2.1 (Corresponding Line Segments)**
+> 
+> The ratio of corresponding altitudes, the ratio of corresponding medians, and the ratio of corresponding angle bisectors of similar triangles all equal the similarity ratio; the ratio of corresponding line segments of similar triangles equals the similarity ratio.
+
+> **Criterion Theorem 27.2.2 (SSS)**
 > 
 > Two triangles whose three sides are proportional are similar.
 
-> **Criterion Theorem 27.2.3** (SAS) 
+> **Property 27.2.2 (Area Ratio)**
+> 
+> The ratio of the areas of similar triangles equals the square of the similarity ratio.
+
+> **Criterion Theorem 27.2.3 (SAS)**
 > 
 > Two triangles with two sides proportional and the included angle equal are similar.
 
-> **Criterion Theorem 27.2.4** (AA) 
+> **Criterion Theorem 27.2.4 (AA)**
 > 
 > Two triangles with two pairs of corresponding angles equal are similar.
 
-> **Criterion Theorem 27.2.5** (HL) 
+> **Criterion Theorem 27.2.5 (HL)**
 > 
 > Two right triangles whose hypotenuses and one leg are proportional are similar.
 
 ## Review Problem 1
 
+(Review Problem 26, Review and Consolidation, Problem 3) Fill in the blanks:
+
+(1) The graph of the function $y=\frac{10}{x}$ lies in the $\;\_\_\_\;$ quadrant(s), and in each quadrant, $y$ $\;\_\_\_\;$ as $x$ increases;
+
+(2) The graph of the function $y=-\frac{10}{x}$ lies in the $\;\_\_\_\;$ quadrant(s), and in each quadrant, $y$ $\;\_\_\_\;$ as $x$ increases.
+
+### Solution to Review Problem 1
+
+By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**.
+
+(1) $k=10> 0$, the graph lies in the first and third quadrants, and $y$ decreases as $x$ increases.
+
+(2) $k=-10< 0$, the graph lies in the second and fourth quadrants, and $y$ increases as $x$ increases. $\blacksquare$
+
+## Review Problem 2
+
 (Review Problem 26, Review and Consolidation, Problem 4) Among the following four relations, the one in which $y$ is an inverse proportional function of $x$ is ( ).
 
 (A) $y=\frac{1}{x^2}$; (B) $yx=-\sqrt{3}$; (C) $y=5x+6$; (D) $\sqrt{x}=\frac{1}{y}$.
 
-### Solution to Review Problem 1
+### Solution to Review Problem 2
 
-By Basic Knowledge, an inverse proportional function has the form $y=\frac{k}{x}$.
+By **Definition 26.1.1 (Inverse Proportional Function)**, an inverse proportional function has the form $y=\frac{k}{x}$.
 
 (A) $y=\frac{1}{x^2}$, $y$ is inversely proportional to $x^2$; (B) $yx=-\sqrt{3}$ means $y=\frac{-\sqrt{3}}{x}$, which is an inverse proportional function; (C) is a linear function; (D) $y=\frac{1}{\sqrt{x}}$, which is not. So choose (B). $\blacksquare$
 
-## Review Problem 2
+## Review Problem 3
 
 (Review Problem 26, Comprehensive Application, Problem 5) On each branch of the graph of the inverse proportional function $y=\frac{k-1}{x}$, $y$ decreases as $x$ increases. Find the range of $k$.
 
-### Solution to Review Problem 2
+### Solution to Review Problem 3
 
-By Basic Knowledge, $y$ decreasing as $x$ increases means $k-1> 0$, so $k> 1$. $\blacksquare$
+By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**, $y$ decreasing as $x$ increases means $k-1> 0$, so $k> 1$. $\blacksquare$
 
-## Review Problem 3
+## Review Problem 4
 
 (Review Problem 26, Comprehensive Application, Problem 6) The areas of the three faces $A,B,C$ of a brick are in the ratio $4:2:1$. If the $B$ face is placed downward on the ground, the pressure on the ground is $a\ \text{Pa}$. What are the pressures on the ground when the $A$ face and the $C$ face are placed downward, respectively?
 
-### Solution to Review Problem 3
+### Solution to Review Problem 4
 
 The gravity $F$ of the brick is constant; by $p=\frac{F}{S}$, the pressure is inversely proportional to the contact area.
 
@@ -54,7 +106,7 @@ When the $A$ face is down, $p_A=\frac{F}{4S}=\frac{a}{2}$.
 
 When the $C$ face is down, $p_C=\frac{F}{S}=2a$. $\blacksquare$
 
-## Review Problem 4
+## Review Problem 5
 
 (Review Problem 26, Comprehensive Application, Problem 7) It is known that the service life of a certain brand of display is about $2\times10^4\ \text{h}$.
 
@@ -62,13 +114,13 @@ When the $C$ face is down, $p_C=\frac{F}{S}=2a$. $\blacksquare$
 
 (2) If it works $10\ \text{h}$ per day on average, about how long can this display be used?
 
-### Solution to Review Problem 4
+### Solution to Review Problem 5
 
 (1) The total life equals the number of days times the daily hours, i.e. $dt=2\times10^4$, so $d=\frac{20000}{t}$.
 
 (2) When $t=10$, $d=\frac{20000}{10}=2000$ days. $\blacksquare$
 
-## Review Problem 5
+## Review Problem 6
 
 (Review Problem 26, Comprehensive Application, Problem 8) Match the expressions of the following functions with their graphs:
 
@@ -76,9 +128,9 @@ When the $C$ face is down, $p_C=\frac{F}{S}=2a$. $\blacksquare$
 
 Graph (A): both branches lie above the $x$-axis; Graph (B): both branches lie in the first and third quadrants; Graph (C): both branches lie in the second and fourth quadrants; Graph (D): both branches lie below the $x$-axis.
 
-### Solution to Review Problem 5
+### Solution to Review Problem 6
 
-By Basic Knowledge.
+By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**.
 
 (1) $y=\frac{2}{x}$, $k=2> 0$, lies in the first and third quadrants, corresponding to (B).
 
@@ -90,11 +142,11 @@ By Basic Knowledge.
 
 Thus (1)-(B), (2)-(A), (3)-(C), (4)-(D). $\blacksquare$
 
-## Review Problem 6
+## Review Problem 7
 
 (Review Problem 26, Extension and Exploration, Problem 9) Can the graphs of two different inverse proportional functions intersect? Why?
 
-### Solution to Review Problem 6
+### Solution to Review Problem 7
 
 Let the two different inverse proportional functions be $y=\frac{k_1}{x}$ and $y=\frac{k_2}{x}$, with $k_1\ne k_2$.
 
@@ -102,11 +154,11 @@ If they intersect, then $\frac{k_1}{x}=\frac{k_2}{x}$, i.e. $k_1=k_2$, which con
 
 Therefore the graphs of two different inverse proportional functions cannot intersect. $\blacksquare$
 
-## Review Problem 7
+## Review Problem 8
 
 (Review Problem 26, Extension and Exploration, Problem 10) In the same rectangular coordinate system, if the graph of the direct proportional function $y=k_1x$ and the graph of the inverse proportional function $y=\frac{k_2}{x}$ have no intersection point, determine the range of $k_1k_2$.
 
-### Solution to Review Problem 7
+### Solution to Review Problem 8
 
 If there is an intersection point, then $k_1x=\frac{k_2}{x}$, i.e. $k_1x^2=k_2$.
 
@@ -116,7 +168,7 @@ When $k_1k_2< 0$, $x^2=\frac{k_2}{k_1}< 0$, which has no solution, and the two g
 
 Therefore $k_1k_2< 0$. $\blacksquare$
 
-## Review Problem 8
+## Review Problem 9
 
 (Review Problem 26, Extension and Exploration, Problem 11) The city government plans to build a water conservancy project. The total volume of earth and stone to be transported for the project is $10^6\ \text{m}^3$, and a certain transport company undertakes the task of transporting the earth and stone.
 
@@ -126,7 +178,7 @@ Therefore $k_1k_2< 0$. $\blacksquare$
 
 (3) After the company has worked for $40$ days at the speed in problem (2), due to the needs of the project schedule, all the remaining transport tasks must be completed within $50$ days. At least how many additional trucks should the company add?
 
-### Solution to Review Problem 8
+### Solution to Review Problem 9
 
 (1) From $vt=10^6$, we get $v=\frac{10^6}{t}$.
 
@@ -140,7 +192,7 @@ Therefore $k_1k_2< 0$. $\blacksquare$
 
 ### Solution to Exercise 1
 
-By Similar Figures, the triangular ruler under the magnifying glass and the original triangular ruler have the same shape, differing only in size, and one can be regarded as obtained by enlarging the other.
+By **Definition 27.1.1 (Similar Figures)**, the triangular ruler under the magnifying glass and the original triangular ruler have the same shape, differing only in size, and one can be regarded as obtained by enlarging the other.
 
 Therefore they are similar. $\blacksquare$
 
@@ -150,7 +202,7 @@ Therefore they are similar. $\blacksquare$
 
 ### Solution to Exercise 2
 
-By Similar Figures, figures with the same shape are similar. Among the figures, those that have the same shape as (1) or (2) and differ only in size are similar to them; figures whose shape is changed by stretching or deformation are not similar. $\blacksquare$
+By **Definition 27.1.1 (Similar Figures)**, figures with the same shape are similar. Among the figures, those that have the same shape as (1) or (2) and differ only in size are similar to them; figures whose shape is changed by stretching or deformation are not similar. $\blacksquare$
 
 ## Exercise 3
 
@@ -168,7 +220,7 @@ The actual distance $=30\times10\,000\,000=3\times10^8\ \text{cm}=3000\ \text{km
 
 ### Solution to Exercise 4
 
-By Similar Polygons, two triangles are similar if their corresponding angles are equal and their corresponding sides are proportional.
+By **Definition 27.1.3 (Similar Polygons)**, two triangles are similar if their corresponding angles are equal and their corresponding sides are proportional.
 
 Both triangles are isosceles right triangles, with three angles $90^\circ,45^\circ,45^\circ$, so the corresponding angles are equal. The side ratios are $5:5:5\sqrt{2}$ and $10:10:10\sqrt{2}$, and the ratio of corresponding sides is $1:2$, so the sides are proportional.
 
@@ -180,7 +232,7 @@ Therefore the two triangles are similar. $\blacksquare$
 
 ### Solution to Exercise 5
 
-By Similar Polygons, the corresponding sides are proportional.
+By **Definition 27.1.3 (Similar Polygons)**, the corresponding sides are proportional.
 
 The ratio of corresponding sides is $\frac{5}{7.5}=\frac{2}{3}$.
 
@@ -212,7 +264,7 @@ The scale is $=2:200000=1:100000$. $\blacksquare$
 
 ### Solution to Problem 2
 
-By Similar Polygons, similar polygons require both that the corresponding angles are equal and that the sides are proportional.
+By **Definition 27.1.3 (Similar Polygons)**, similar polygons require both that the corresponding angles are equal and that the sides are proportional.
 
 All angles of a rectangle are $90^\circ$, so the corresponding angles are equal, but the sides are not necessarily proportional. For example, a square with sides $1\times1$ and a rectangle $2\times1$ both have angles of $90^\circ$, but $1:2\ne1:1$, so the sides are not proportional.
 
@@ -224,7 +276,7 @@ Therefore any two rectangles are not necessarily similar. $\blacksquare$
 
 ### Solution to Problem 3
 
-By Similar Polygons, $\triangle ABC\backsim\triangle DEF$, and the corresponding sides are proportional.
+By **Definition 27.1.3 (Similar Polygons)**, $\triangle ABC\backsim\triangle DEF$, and the corresponding sides are proportional.
 
 The similarity ratio is $\frac{BC}{FE}=\frac{8}{4}=2$.
 
@@ -246,7 +298,7 @@ The figure shows on grid paper an original figure (a polygon made of several lin
 
 ### Solution to Problem 4
 
-By Similar Polygons, enlarge or reduce each side of the original figure by the same factor, keeping the angles unchanged, to obtain a similar figure. Specifically, count the number of grid squares occupied by each side of the original figure on the grid paper, multiply by the same factor, and draw proportionally, keeping the directions of the angles unchanged. $\blacksquare$
+By **Definition 27.1.3 (Similar Polygons)**, enlarge or reduce each side of the original figure by the same factor, keeping the angles unchanged, to obtain a similar figure. Specifically, count the number of grid squares occupied by each side of the original figure on the grid paper, multiply by the same factor, and draw proportionally, keeping the directions of the angles unchanged. $\blacksquare$
 
 ## Problem 5
 
@@ -262,7 +314,7 @@ $$
 \frac{DE}{BC}=\frac{3}{9}=\frac{1}{3}.
 $$
 
-(2) $DE\parallel BC$, so $\angle ADE=\angle B$, $\angle AED=\angle C$, and $\angle A$ is common; thus the corresponding angles are equal; also from (1), the ratios of the three sides are all $\frac{1}{3}$, so the sides are proportional. By Basic Knowledge, $\triangle ADE\backsim\triangle ABC$. $\blacksquare$
+(2) $DE\parallel BC$, so $\angle ADE=\angle B$, $\angle AED=\angle C$, and $\angle A$ is common; thus the corresponding angles are equal; also from (1), the ratios of the three sides are all $\frac{1}{3}$, so the sides are proportional. By **Definition 27.1.3 (Similar Polygons)**, $\triangle ADE\backsim\triangle ABC$. $\blacksquare$
 
 ## Problem 6
 
@@ -278,7 +330,7 @@ $$
 
 $\frac{15}{16}\ne\frac{10}{11}$, so the sides are not proportional.
 
-By Basic Knowledge, the two rectangles are not similar. $\blacksquare$
+By **Definition 27.1.3 (Similar Polygons)**, the two rectangles are not similar. $\blacksquare$
 
 ## Problem 7
 
@@ -286,7 +338,7 @@ By Basic Knowledge, the two rectangles are not similar. $\blacksquare$
 
 ### Solution to Problem 7
 
-By Similar Polygons, both equal corresponding angles and proportional sides are required; neither is dispensable.
+By **Definition 27.1.3 (Similar Polygons)**, both equal corresponding angles and proportional sides are required; neither is dispensable.
 
 Having only equal angles does not necessarily imply similarity: for example, a square and a rectangle both have angles of $90^\circ$, but their sides are not proportional.
 
@@ -330,7 +382,7 @@ $$
 
 ### Solution to Exercise 7
 
-By Preliminary Theorem, $DE\parallel BC$, so $\triangle ADE\backsim\triangle ABC$.
+By **Theorem 27.2.1 (Preliminary Theorem)**, $DE\parallel BC$, so $\triangle ADE\backsim\triangle ABC$.
 
 The similarity ratio is $\frac{AD}{AB}=\frac{AD}{AD+DB}=\frac{3}{3+2}=\frac{3}{5}$. $\blacksquare$
 
@@ -477,29 +529,3 @@ $$
 $$
 h=\frac{1.8\times90}{3}=54\ \text{m}.\ \blacksquare
 $$
-
-## Exercise 18
-
-(Exercise 27.2, Problem 2) As shown in the figure, $BD=120\ \text{m}$, $DC=60\ \text{m}$, $EC=50\ \text{m}$ are measured. Find the river width $AB$.
-
-### Solution to Exercise 18
-
-$AB\perp BC$, $EC\perp BC$, so $\triangle ABD\backsim\triangle ECD$ (AA).
-
-$$
-\frac{AB}{EC}=\frac{BD}{DC}=\frac{120}{60}=2.
-$$
-
-$$
-AB=2\times EC=2\times50=100\ \text{m}.\ \blacksquare
-$$
-
-## Problem 9
-
-(Problem 27.2, Review and Consolidation, Problem 1) There is a triangular meadow with one side of length $25\ \text{m}$. On the drawing, this side is $5\ \text{cm}$ long, and the other two sides are both $4\ \text{cm}$ long. Find the actual lengths of the other two sides.
-
-### Solution to Problem 9
-
-The similarity ratio between the drawing and the actual is $5\ \text{cm}:25\ \text{m}=5:2500=1:500$.
-
-The other two sides are $4\ \text{cm}$ on the drawing, so their actual lengths are $4\times500=2000\ \text{cm}=20\ \text{m}$. $\blacksquare$

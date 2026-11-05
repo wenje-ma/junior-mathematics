@@ -1,5 +1,65 @@
 # week54
 
+> **Definition 24.1.1 (Arithmetic Mean)**
+> 
+> $\overline{x}=\frac{x_1+x_2+\cdots+x_n}{n}$.
+
+> **Definition 24.1.2 (Weighted Average)**
+> 
+> If the weights of the $n$ numbers $x_1, x_2, \ldots, x_n$ are $w_1, w_2, \ldots, w_n$ respectively, then $\overline{x}=\frac{x_1w_1+x_2w_2+\cdots+x_nw_n}{w_1+w_2+\cdots+w_n}$ is called the weighted average of these $n$ numbers.
+
+> **Definition 24.1.3 (Median)**
+> 
+> The number in the middle position after the data are arranged in ascending order.
+
+> **Definition 24.1.4 (Mode)**
+> 
+> The data value that appears most frequently.
+
+> **Definition 24.2.3 (Variance)**
+> 
+> $s^2=\frac{\left(x_1-\overline{x}\right)^2+\cdots+\left(x_n-\overline{x}\right)^2}{n}$.
+
+> **Definition 24.3.1 (Quartiles)**
+> 
+> $Q_1$, $Q_2$, $Q_3$ divide the data into four equal parts.
+
+> **Definition 24.4.1 (Within-Group Sum of Squared Deviations)**
+> 
+> Splitting the data into two groups, the sum of the two groups' own sums of squared deviations is called the within-group sum of squared deviations.
+
+> **Conclusion 24.4.2 (Grouping Principle)**
+> 
+> Grouping is done according to the principle of minimizing the within-group sum of squared deviations (equivalently, maximizing the between-group sum of squared deviations).
+
+> **Definition 25.1.1 (Quadratic Equation in One Unknown)**
+> 
+> In general, if an equation contains only one unknown and all expressions containing the unknown are integral expressions, and the highest degree of the unknown is $2$, then such an equation is called a quadratic equation in one unknown.
+
+> **Definition 25.1.2 (General Form of a Quadratic Equation)**
+> 
+> The general form of a quadratic equation is $ax^2+bx+c=0\ \left(a\ne0\right)$, where $ax^2$ is the quadratic term and $a$ is the quadratic coefficient; $bx$ is the linear term and $b$ is the linear coefficient; $c$ is the constant term. The requirement $a\ne0$ ensures the equation is indeed quadratic.
+
+> **Definition 25.1.3 (Roots of a Quadratic Equation)**
+> 
+> The value of the unknown that makes the two sides of a quadratic equation equal is the solution of the equation; the solution of a quadratic equation is also called its root.
+
+## Problem 1
+
+(Exercise 24.4, Comprehensive Application, Problem 2) The output values of $6$ enterprises in a town last year are as follows. $A$: $3$, $B$: $12$, $C$: $4$, $D$: $8$, $E$: $9$, $F$: $15$ (in 100 million yuan). According to the principle of minimizing the within-group sum of squared deviations of annual output, split these $6$ enterprises into two groups.
+
+### Solution to Problem 1
+
+Arrange the data in ascending order: $3$, $4$, $8$, $9$, $12$, $15$.
+
+There are $5$ ways to split. Compute each within-group sum of squared deviations:
+
+Gap $1$: $0+\left(4+16+49+144+225-5\times10.4\right)=...$
+
+After computation, gap $3$ ($\left\{3, 4, 8\right\}$ and $\left\{9, 12, 15\right\}$) has the smallest within-group sum of squared deviations.
+
+Hence split into $\left\{A, C, D\right\}$ ($3$, $4$, $8$) and $\left\{E, B, F\right\}$ ($9$, $12$, $15$). $\blacksquare$
+
 ## Activity 1
 
 (Math Activity, Activity 1, Problem 1) Divide the class into several groups and complete the following activity together:
@@ -12,7 +72,7 @@
 
 ### Solution to Activity 1
 
-(1) By Arithmetic Mean, sum the pulse rates of all group members and divide by the number of people to get the mean. By Median, arrange the pulse rates in ascending order and take the number in the middle position as the median. By Mode, the pulse rate that appears most often is the mode.
+(1) By **Definition 24.1.1 (Arithmetic Mean)**, sum the pulse rates of all group members and divide by the number of people to get the mean. By **Definition 24.1.3 (Median)**, arrange the pulse rates in ascending order and take the number in the middle position as the median. By **Definition 24.1.4 (Mode)**, the pulse rate that appears most often is the mode.
 
 (2) After exchanging among groups, pool the whole class's data, compute the class mean, and use it as the estimate of the number of heartbeats per minute at rest.
 
@@ -30,7 +90,7 @@
 
 ### Solution to Activity 2
 
-(1) By Arithmetic Mean and Variance, compute the mean and variance of each group and of the whole class.
+(1) By **Definition 24.1.1 (Arithmetic Mean)** and **Definition 24.2.3 (Variance)**, compute the mean and variance of each group and of the whole class.
 
 (2) Each group's mean fluctuates around the class mean, some above it and some below it. This reflects the random deviation between the sample mean and the population mean.
 
@@ -68,7 +128,7 @@
 
 ### Solution to Review Problem 2
 
-By Arithmetic Mean,
+By **Definition 24.1.1 (Arithmetic Mean)**,
 
 $$
 \overline{x} = \frac{183+209+195+178+204+215+191+208+167+197}{10} = \frac{1947}{10} = 194.7.
@@ -82,13 +142,13 @@ Hence about $195$ cars pass through the intersection on average. $\blacksquare$
 
 ### Solution to Review Problem 3
 
-By Arithmetic Mean,
+By **Definition 24.1.1 (Arithmetic Mean)**,
 
 $$
 \overline{x} = \frac{1.15+1.04+\cdots+1.16}{20} \approx 1.17.
 $$
 
-By Variance,
+By **Definition 24.2.3 (Variance)**,
 
 $$
 s^2 = \frac{\left(1.15-1.17\right)^2+\left(1.04-1.17\right)^2+\cdots+\left(1.16-1.17\right)^2}{20} \approx 0.005.
@@ -108,9 +168,9 @@ Hence the estimated mean mass is about $1.17\ \text{kg}$, and the variance about
 
 (1) Month $7$ the year before last: mean about $60.0$, variance about $120.0$. Month $7$ last year: mean about $32.0$, variance about $90.0$.
 
-By Quartiles, the year before last: $Q_1\approx52.0$, $Q_2\approx58.0$, $Q_3\approx69.0$. Last year: $Q_1\approx25.0$, $Q_2\approx33.0$, $Q_3\approx38.0$.
+By **Definition 24.3.1 (Quartiles)**, the year before last: $Q_1\approx52.0$, $Q_2\approx58.0$, $Q_3\approx69.0$. Last year: $Q_1\approx25.0$, $Q_2\approx33.0$, $Q_3\approx38.0$.
 
-(2) By Variance, both last year's mean and variance are markedly lower than the year before last's, showing that the air quality index in month $7$ last year dropped overall, with smaller fluctuation; the air quality improved markedly. $\blacksquare$
+(2) By **Definition 24.2.3 (Variance)**, both last year's mean and variance are markedly lower than the year before last's, showing that the air quality index in month $7$ last year dropped overall, with smaller fluctuation; the air quality improved markedly. $\blacksquare$
 
 ## Activity Preparation
 
@@ -164,7 +224,7 @@ A bar chart may be chosen to describe the frequency distribution of each grade, 
 
 ### Solution to Activity 1, Task 4
 
-(1) By Arithmetic Mean, compute the sample mean $\overline{x}$. By Median, compute the median. By Mode, find the mode. By Variance, compute the variance. By Quartiles, compute $Q_1$, $Q_2$, $Q_3$. Use the sample statistics to estimate the whole grade's population; for instance, if the sample shows $60\%$ at Good level or above, estimate that about $60\%$ of grade-8 boys are at Good level or above in the standing long jump.
+(1) By **Definition 24.1.1 (Arithmetic Mean)**, compute the sample mean $\overline{x}$. By **Definition 24.1.3 (Median)**, compute the median. By **Definition 24.1.4 (Mode)**, find the mode. By **Definition 24.2.3 (Variance)**, compute the variance. By **Definition 24.3.1 (Quartiles)**, compute $Q_1$, $Q_2$, $Q_3$. Use the sample statistics to estimate the whole grade's population; for instance, if the sample shows $60\%$ at Good level or above, estimate that about $60\%$ of grade-8 boys are at Good level or above in the standing long jump.
 
 (2) The sample data are suitable for grouping. One can group them into the four grades in Table 2 (Excellent, Good, Pass, Fail), or use a finer grouping of $20$ cm per group. Grouping should follow Grouping Principle, minimizing the within-group sum of squared deviations. Based on the grouping, provide targeted training help to students in the Fail and Pass groups. $\blacksquare$
 
@@ -246,7 +306,7 @@ Each of the three optional topics can be completed following the statistical pro
 
 ### Solution to Exercise 1
 
-By General Form of a Quadratic Equation, first remove parentheses, transpose terms and combine like terms to put the equation in the form $ax^2+bx+c=0\ \left(a\ne0\right)$, then read off the coefficients.
+By **Definition 25.1.2 (General Form of a Quadratic Equation)**, first remove parentheses, transpose terms and combine like terms to put the equation in the form $ax^2+bx+c=0\ \left(a\ne0\right)$, then read off the coefficients.
 
 (1) Transposing terms,
 
@@ -292,7 +352,7 @@ Hence the quadratic coefficient is $3$, the linear coefficient is $-4$, and the 
 
 ### Solution to Exercise 2
 
-Set up the unknown, write the equation according to the quantities in the problem, then transform it into general form by Basic Knowledge.
+Set up the unknown, write the equation according to the quantities in the problem, then transform it into general form by **Definition 25.1.2 (General Form of a Quadratic Equation)**.
 
 (1) Let the side length of a square be $x$; the area of one square is $x^2$. Since the sum of the areas of $4$ squares is $25$,
 
@@ -318,7 +378,7 @@ $$
 
 i.e. $x=1-2x+x^2$; transposing terms gives the general form $x^2-3x+1=0$. $\blacksquare$
 
-## Problem 1
+## Problem 2
 
 (Exercise 25.1, Review and Consolidation, Problem 1) Transform the following equations into the general form of a quadratic equation, and write out their quadratic coefficient, linear coefficient and constant term:
 
@@ -330,9 +390,9 @@ i.e. $x=1-2x+x^2$; transposing terms gives the general form $x^2-3x+1=0$. $\blac
 
 (4) $\left(3x-2\right)\left(x+1\right)=x\left(2x+1\right)$.
 
-### Solution to Problem 1
+### Solution to Problem 2
 
-By General Form of a Quadratic Equation, first put it in the form $ax^2+bx+c=0\ \left(a\ne0\right)$, then read off the coefficients.
+By **Definition 25.1.2 (General Form of a Quadratic Equation)**, first put it in the form $ax^2+bx+c=0\ \left(a\ne0\right)$, then read off the coefficients.
 
 (1) Transposing terms gives $4x^2+5x-81=0$. The quadratic coefficient is $4$, the linear coefficient is $5$, and the constant term is $-81$.
 
@@ -342,7 +402,7 @@ By General Form of a Quadratic Equation, first put it in the form $ax^2+bx+c=0\ 
 
 (4) Removing parentheses gives $3x^2+3x-2x-2=2x^2+x$, i.e. $3x^2+x-2=2x^2+x$; transposing terms and combining like terms gives $x^2-2=0$. The quadratic coefficient is $1$, the linear coefficient is $0$, and the constant term is $-2$. $\blacksquare$
 
-## Problem 2
+## Problem 3
 
 (Exercise 25.1, Review and Consolidation, Problem 2) For each of the following problems, set up a quadratic equation and transform it into the general form:
 
@@ -352,9 +412,9 @@ By General Form of a Quadratic Equation, first put it in the form $ax^2+bx+c=0\ 
 
 (3) One leg of a right triangle is $2$ times as long as the other, and the hypotenuse is $5$; find the length of the shorter leg.
 
-### Solution to Problem 2
+### Solution to Problem 3
 
-Set up the equations according to the geometric relations in each problem, then transform them into general form by Basic Knowledge.
+Set up the equations according to the geometric relations in each problem, then transform them into general form by **Definition 25.1.2 (General Form of a Quadratic Equation)**.
 
 (1) By the circle-area formula $\pi r^2=2\pi$,
 
@@ -380,7 +440,7 @@ $$
 
 i.e. $5x^2=25$; transposing terms gives the general form $x^2-5=0$. $\blacksquare$
 
-## Problem 3
+## Problem 4
 
 (Exercise 25.1, Review and Consolidation, Problem 3) Which of the following numbers are roots of the quadratic equation $x^2+x-12=0$? Why?
 
@@ -388,9 +448,9 @@ $$
 -4,\ -3,\ -2,\ -1,\ 0,\ 1,\ 2,\ 3,\ 4.
 $$
 
-### Solution to Problem 3
+### Solution to Problem 4
 
-By Roots of a Quadratic Equation, only the values of the unknown that make the two sides equal are roots; hence test them one by one.
+By **Definition 25.1.3 (Roots of a Quadratic Equation)**, only the values of the unknown that make the two sides equal are roots; hence test them one by one.
 
 When $x=-4$, $\left(-4\right)^2+\left(-4\right)-12=16-4-12=0$; the left side equals the right, so $-4$ is a root.
 
@@ -398,11 +458,11 @@ When $x=3$, $3^2+3-12=9+3-12=0$; the left side equals the right, so $3$ is a roo
 
 Substituting the remaining numbers, the left side is never $0$, and none satisfies the equation. Hence, among the given numbers, only $-4$ and $3$ are roots of $x^2+x-12=0$. $\blacksquare$
 
-## Problem 4
+## Problem 5
 
 (Exercise 25.1, Comprehensive Application, Problem 4) The "Tianmu Bilei Chengchu Jiefa" (A Quick Method of Multiplication and Division by Comparisons for Fields), written by the Southern Song mathematician Yang Hui, records the following problem: the area of a rectangular field is 864 bu, and the width is 12 bu less than the length; find the width and the length. Set up an equation for this problem and transform it into the general form of a quadratic equation.
 
-### Solution to Problem 4
+### Solution to Problem 5
 
 Let the rectangle's length be $x$ bu; since the width is $12$ bu less than the length, the width is $x-12$ bu. Since the area of a rectangle is length times width and the area is $864$ bu,
 
@@ -410,7 +470,7 @@ $$
 x\left(x-12\right)=864.
 $$
 
-Removing parentheses and transposing terms, by Basic Knowledge the general form is
+Removing parentheses and transposing terms, by **Definition 25.1.2 (General Form of a Quadratic Equation)** the general form is
 
 $$
 x^2-12x-864=0.
@@ -418,7 +478,7 @@ $$
 
 Hence the equation set up is $x\left(x-12\right)=864$, in general form $x^2-12x-864=0$. $\blacksquare$
 
-## Problem 5
+## Problem 6
 
 (Exercise 25.1, Extension and Exploration, Problem 5) If $2$ is a root of the equation $x^2-c=0$, solve the following:
 
@@ -426,9 +486,9 @@ Hence the equation set up is $x\left(x-12\right)=864$, in general form $x^2-12x-
 
 (2) Does this equation have any other root? If so, find it.
 
-### Solution to Problem 5
+### Solution to Problem 6
 
-By Roots of a Quadratic Equation, a root must make the two sides equal.
+By **Definition 25.1.3 (Roots of a Quadratic Equation)**, a root must make the two sides equal.
 
 (1) Substituting $x=2$ into $x^2-c=0$ gives $2^2-c=0$, i.e. $4-c=0$, hence
 
@@ -437,35 +497,3 @@ c=4.
 $$
 
 (2) Substituting $c=4$ back, the equation is $x^2-4=0$, i.e. $x^2=4$. By the meaning of square roots, $x=\pm2$, so the equation has two roots $x=2$ and $x=-2$. Since one root is known to be $2$, the other root is $-2$. $\blacksquare$
-
-## Exercise 3
-
-(Exercise 25.2, Problem 1) Solve the following equations:
-
-(1) $x^2-9=0$;
-
-(2) $2x^2-8=0$;
-
-(3) $9x^2-5=3$;
-
-(4) $\left(x+6\right)^2-9=0$;
-
-(5) $3\left(x-1\right)^2-6=0$;
-
-(6) $x^2-4x+4=5$.
-
-### Solution to Exercise 3
-
-Put each equation in the form $x^2=p$ or $\left(x+n\right)^2=p$, and solve by direct square root extraction using Basic Knowledge or Basic Knowledge.
-
-(1) Transposing terms gives $x^2=9$. By Basic Knowledge, $x=\pm3$, i.e. $x_1=3$, $x_2=-3$.
-
-(2) Transposing terms and making the coefficient $1$ gives $x^2=4$. Hence $x=\pm2$, i.e. $x_1=2$, $x_2=-2$.
-
-(3) Transposing terms and combining gives $9x^2=8$, i.e. $x^2=\frac89$. Hence $x=\pm\frac{2\sqrt2}{3}$.
-
-(4) Transposing terms gives $\left(x+6\right)^2=9$. By Basic Knowledge, $x+6=\pm3$, hence $x_1=-3$, $x_2=-9$.
-
-(5) Transposing terms and making the coefficient $1$ gives $\left(x-1\right)^2=2$, hence $x-1=\pm\sqrt2$, i.e. $x=1\pm\sqrt2$.
-
-(6) Writing the left side as a perfect square gives $\left(x-2\right)^2=5$, hence $x-2=\pm\sqrt5$, i.e. $x=2\pm\sqrt5$. $\blacksquare$

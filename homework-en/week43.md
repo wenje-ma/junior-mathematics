@@ -1,6 +1,114 @@
 # week43
 
+> **Definition 19.1.1 (Quadratic Radical)**
+> 
+> An expression of the form \(\sqrt{a}\) (\(a\ge 0\)) is called a quadratic radical.
+
+> **Property 19.1.1 (Nonnegativity of the Quadratic Radical)**
+> 
+> When \(a\ge 0\), \(\sqrt{a}\ge 0\).
+
+> **Property 19.1.2 (Squaring and Taking the Square Root Are Inverse I)**
+> 
+> \((\sqrt{a})^{2}=a\) (\(a\ge 0\)).
+
+> **Property 19.1.3 (Squaring and Taking the Square Root Are Inverse II)**
+> 
+> \(\sqrt{a^{2}}=|a|\); when \(a\ge 0\), \(\sqrt{a^{2}}=a\), and when \(a< 0\), \(\sqrt{a^{2}}=-a\).
+
+> **Rule 19.2.1 (Multiplication)**
+> 
+> \(\sqrt{a}\cdot\sqrt{b}=\sqrt{ab}\) (\(a\ge 0,\ b\ge 0\)).
+
+> **Definition 19.2.1 (Simplest Quadratic Radical)**
+> 
+> A quadratic radical whose radicand contains no denominator and contains no factor or expression that can be taken out of the radical is called a simplest quadratic radical.
+
+> **Rule 19.2.2 (Multiplication in Reverse)**
+> 
+> \(\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}\) (\(a\ge 0,\ b\ge 0\)).
+
+> **Rule 19.2.3 (Division)**
+> 
+> \(\frac{\sqrt{a}}{\sqrt{b}}=\sqrt{\frac{a}{b}}\) (\(a\ge 0,\ b> 0\)).
+
+> **Rule 19.2.4 (Division in Reverse)**
+> 
+> \(\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}\) (\(a\ge 0,\ b> 0\)).
+
 ## Problem 1
+
+(Exercise 19.1, Comprehensive Application, Problem 5)
+
+It is known that the area of a large circle equals the sum of the areas of two small circles. If the radius of the large circle is \(r\), and the radii of the two small circles are \(2\) and \(3\) respectively, find the value of \(r\).
+
+From the circle area formula, the large circle's area is \(\pi r^{2}\), and the two small circles' areas are \(\pi\cdot 2^{2}\) and \(\pi\cdot 3^{2}\).
+
+According to the problem,
+
+$$
+\pi r^{2}=\pi\cdot 2^{2}+\pi\cdot 3^{2}=13\pi.
+$$
+
+Hence \(r^{2}=13\). By Basic Knowledge, the positive number \(r=\sqrt{13}\).
+
+\(\blacksquare\)
+
+(Exercise 19.1, Comprehensive Application, Problem 6)
+
+The area of \(\triangle ABC\) is \(12\), and the altitude to side \(AB\) is \(4\) times the length of \(AB\). Find the length of \(AB\).
+
+Let \(AB=x\); then the altitude to \(AB\) is \(4x\).
+
+From the triangle area formula,
+
+$$
+\frac{1}{2}\cdot x\cdot 4x=12,\quad 2x^{2}=12,\quad x^{2}=6.
+$$
+
+By Basic Knowledge, the positive number \(x=\sqrt{6}\), i.e. \(AB=\sqrt{6}\).
+
+\(\blacksquare\)
+
+(Exercise 19.1, Comprehensive Application, Problem 7)
+
+Under what conditions on \(x\) are the following expressions meaningful within the set of real numbers?
+
+(1) \(\sqrt{x^{2}+1}\);　(2) \(\sqrt{(x-1)^{2}}\);　(3) \(\sqrt{\frac{1}{x}}\);　(4) \(\frac{1}{\sqrt{x+1}}\).
+
+By **Definition 19.1.1 (Quadratic Radical)**, the radicand of a quadratic radical must be nonnegative; the denominator must also be nonzero.
+
+(1) Since \(x^{2}\ge 0\), \(x^{2}+1> 0\) always holds, and \(x\) may be any real number.
+
+(2) Since \((x-1)^{2}\ge 0\) always holds, \(x\) may be any real number.
+
+(3) We require \(\frac{1}{x}\ge 0\) and \(x\ne 0\), hence \(x> 0\).
+
+(4) We require \(x+1> 0\) (both the radicand nonnegative and the denominator nonzero), hence \(x> -1\).
+
+\(\blacksquare\)
+
+(Exercise 19.1, Comprehensive Application, Problem 8)
+
+A small ball falls freely from a height \(h\) (unit: \(\text{m}\)) above the ground, and the time it takes to reach the ground is \(t\) (unit: \(\text{s}\)). Experiment shows that \(h\) is directly proportional to \(t^{2}\), and when \(h=20\), \(t=2\). Express \(t\) using an algebraic expression containing \(h\), and find the time it takes the ball to reach the ground when \(h=10\) and when \(h=25\).
+
+Since \(h\) is directly proportional to \(t^{2}\), set \(h=kt^{2}\).
+
+Substituting \(h=20\) and \(t=2\), we get \(20=k\cdot 4\), hence \(k=5\), i.e. \(h=5t^{2}\).
+
+Hence \(t^{2}=\frac{h}{5}\). By Basic Knowledge, time is nonnegative, so
+
+$$
+t=\sqrt{\frac{h}{5}}.
+$$
+
+When \(h=10\), \(t=\sqrt{\frac{10}{5}}=\sqrt{2}\ \text{s}\).
+
+When \(h=25\), \(t=\sqrt{\frac{25}{5}}=\sqrt{5}\ \text{s}\).
+
+\(\blacksquare\)
+
+## Problem 2
 
 (Exercise 19.1, Extension and Exploration, Problem 9)
 
@@ -8,11 +116,11 @@
 
 (2) Given that \(\sqrt{24n}\) is an integer, find the minimum value of the positive integer \(n\).
 
-(1) By Basic Knowledge, we require \(18-n\ge 0\), i.e. \(n\le 18\). Let \(\sqrt{18-n}=m\) be an integer; then \(18-n=m^{2}\ge 0\).
+(1) By **Definition 19.1.1 (Quadratic Radical)**, we require \(18-n\ge 0\), i.e. \(n\le 18\). Let \(\sqrt{18-n}=m\) be an integer; then \(18-n=m^{2}\ge 0\).
 
 Hence \(m^{2}\) can be \(0,1,4,9,16\), with corresponding \(n=18,17,14,9,2\).
 
-(2) By Basic Knowledge, we require \(24n\ge 0\). Let \(\sqrt{24n}=k\) be an integer; then \(24n=k^{2}\).
+(2) By **Definition 19.1.1 (Quadratic Radical)**, we require \(24n\ge 0\). Let \(\sqrt{24n}=k\) be an integer; then \(24n=k^{2}\).
 
 Factor \(24\) into primes: \(24=2^{3}\cdot 3\). For \(24n\) to be a perfect square, the exponent of each prime factor must be even, so \(n\) must supply at least one \(2\) and one \(3\), i.e. \(n=2\times 3=6\).
 
@@ -190,7 +298,7 @@ $$
 
 \(\blacksquare\)
 
-## Problem 2
+## Problem 3
 
 (Exercise 19.2, Review and Consolidation, Problem 1)
 
@@ -280,7 +388,7 @@ Hence the original expression \(=\frac{8+\sqrt{24}}{4}=\frac{8+2\sqrt{6}}{4}=\fr
 
 \(\blacksquare\)
 
-## Problem 3
+## Problem 4
 
 (Exercise 19.2, Comprehensive Application, Problem 6)
 
@@ -352,7 +460,7 @@ $$
 
 \(\blacksquare\)
 
-## Problem 4
+## Problem 5
 
 (Exercise 19.2, Extension and Exploration, Problem 11)
 
@@ -409,59 +517,5 @@ Observe the results of the above problems. What pattern can you find? Use the pa
 Pattern: with \(n\) nines, the result is \(10^{n}\).
 
 Hence with \(100\) nines, the result is \(10^{100}\).
-
-\(\blacksquare\)
-
-## Exercise 4
-
-(Exercise 19.3, Problem 1)
-
-Are the following calculations correct? Why?
-
-(1) \(\sqrt{4}+\sqrt{9}=\sqrt{4+9}\); (2) \(\sqrt{8}-\sqrt{3}=\sqrt{8-3}\); (3) \(3\sqrt{2}-\sqrt{2}=2\sqrt{2}\).
-
-By Basic Knowledge, quadratic radicals must first be simplified before combining those with the same radicand; one cannot directly add or subtract the radicands.
-
-(1) Incorrect. The left side \(=2+3=5\), while the right side \(=\sqrt{13}\ne 5\).
-
-(2) Incorrect. \(\sqrt{8}\) and \(\sqrt{3}\) have different radicands and cannot be combined; the left side cannot be further simplified to \(\sqrt{5}\).
-
-(3) Correct. \(3\sqrt{2}-\sqrt{2}=(3-1)\sqrt{2}=2\sqrt{2}\).
-
-\(\blacksquare\)
-
-(Exercise 19.3, Problem 2)
-
-Calculate:
-
-(1) \(2\sqrt{7}-6\sqrt{7}\); (2) \(\sqrt{12}+\sqrt{27}-3\sqrt{\frac{1}{3}}\); (3) \(\sqrt{18}+(\sqrt{98}-\sqrt{27})\); (4) \(\left(\sqrt{24}+\sqrt{0.5}\right)-\left(\sqrt{\frac{1}{8}}-\sqrt{6}\right)\).
-
-By Basic Knowledge, first simplify and then combine.
-
-(1) \(2\sqrt{7}-6\sqrt{7}=(2-6)\sqrt{7}=-4\sqrt{7}\).
-
-(2) \(\sqrt{12}+\sqrt{27}-3\sqrt{\frac{1}{3}}=2\sqrt{3}+3\sqrt{3}-\sqrt{3}=4\sqrt{3}\).
-
-(3) \(\sqrt{18}+(\sqrt{98}-\sqrt{27})=3\sqrt{2}+7\sqrt{2}-3\sqrt{3}=10\sqrt{2}-3\sqrt{3}\).
-
-(4) \(\left(\sqrt{24}+\sqrt{0.5}\right)-\left(\sqrt{\frac{1}{8}}-\sqrt{6}\right)=2\sqrt{6}+\frac{\sqrt{2}}{2}-\frac{\sqrt{2}}{4}+\sqrt{6}=3\sqrt{6}+\frac{\sqrt{2}}{4}\).
-
-\(\blacksquare\)
-
-(Exercise 19.3, Problem 3)
-
-As shown in the figure, two circles have the same center, and their areas are \(62.8\) and \(141.3\), respectively. Find the width \(d\) of the annulus (take \(\pi=3.14\)).
-
-Let the radius of the large circle be \(R\) and the radius of the small circle be \(r\); then \(d=R-r\).
-
-By the circle area formula, \(\pi R^{2}=141.3\), \(\pi r^{2}=62.8\).
-
-Hence
-
-$$
-R=\sqrt{\frac{141.3}{3.14}}=\sqrt{45}=3\sqrt{5},\quad r=\sqrt{\frac{62.8}{3.14}}=\sqrt{20}=2\sqrt{5}.
-$$
-
-Therefore \(d=R-r=3\sqrt{5}-2\sqrt{5}=\sqrt{5}\).
 
 \(\blacksquare\)

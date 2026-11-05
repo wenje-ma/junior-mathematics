@@ -1,6 +1,126 @@
 # week37
 
+> **Definition 16.1.1 (Multiplication of Powers with the Same Base)**
+> 
+> In general, for any base $a$ and any positive integers $m,n$, $a^m\cdot a^n=a^{m+n}$; that is, when multiplying powers with the same base, the base is unchanged and the exponents are added. This property also holds when three or more powers with the same base are multiplied.
+
+> **Definition 16.1.2 (Power of a Power)**
+> 
+> In general, for any base $a$ and any positive integers $m,n$, $\left(a^m\right)^n=a^{mn}$; that is, for a power of a power, the base is unchanged and the exponents are multiplied.
+
+> **Definition 16.1.3 (Power of a Product)**
+> 
+> In general, for any bases $a,b$ and any positive integer $n$, $\left(ab\right)^n=a^n b^n$; that is, the power of a product equals taking the power of each factor of the product separately and then multiplying the resulting powers. This property also holds for the power of a product of three or more factors.
+
+> **Definition 16.2.3 (Multiplication of a Polynomial by a Polynomial)**
+> 
+> First multiply each term of one polynomial by each term of the other polynomial, then add the resulting products, i.e. $\left(a+b\right)\left(p+q\right)=ap+aq+bp+bq$.
+
+> **Definition 16.2.4 (Division of Powers with the Same Base)**
+> 
+> $a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ are both positive integers, $m> n$); that is, when dividing powers with the same base, the base is unchanged and the exponents are subtracted.
+
+> **Definition 16.3.1 (Difference of Squares Formula)**
+> 
+> $\left(a+b\right)\left(a-b\right)=a^2-b^2$, that is, the product of the sum of two numbers and the difference of the same two numbers equals the difference of their squares.
+
+> **Definition 16.3.2 (Perfect Square Formula)**
+> 
+> The square of the sum (or difference) of two numbers equals the sum of their squares plus (or minus) $2$ times their product, i.e. $\left(a+b\right)^2=a^2+2ab+b^2$, $\left(a-b\right)^2=a^2-2ab+b^2$.
+
+> **Definition 16.3.3 (Rule for Adding Parentheses)**
+> 
+> When the sign before the parentheses is positive, all terms enclosed keep their signs; when the sign before the parentheses is negative, all terms enclosed change their signs, i.e. $a+b+c=a+\left(b+c\right)$, $a-b-c=a-\left(b+c\right)$.
+
+## Exercise 1
+
+(Exercise 16.3, Problem 4) Calculate:
+
+(1) $\left(a+2b-1\right)^2$;
+
+(2) $\left(2x+y+z\right)\left(2x-y-z\right)$.
+
+### Solution to Exercise 1
+
+First group, then apply the formula.
+
+(1) $\left(a+2b-1\right)^2=\left[a+\left(2b-1\right)\right]^2=a^2+2a\left(2b-1\right)+\left(2b-1\right)^2=a^2+4ab-2a+4b^2-4b+1$.
+
+(2) $\left(2x+y+z\right)\left(2x-y-z\right)=\left[2x+\left(y+z\right)\right]\left[2x-\left(y+z\right)\right]=4x^2-\left(y+z\right)^2=4x^2-y^2-2yz-z^2$. $\blacksquare$
+
 ## Problem 1
+
+(Exercise 16.3, Review and Consolidation, Problem 1) Can each of the following expressions be computed by the difference of squares formula? If so, write out the result:
+
+(1) $\left(x+y\right)\left(x-y\right)$;
+
+(2) $\left(x-y\right)\left(y-x\right)$;
+
+(3) $\left(x+y\right)\left(-x-y\right)$;
+
+(4) $\left(x-y\right)\left(-x-y\right)$.
+
+### Solution to Problem 1
+
+By **Definition 16.3.1 (Difference of Squares Formula)**, the difference of squares formula requires one pair of identical and one pair of opposite terms among the two factors.
+
+(1) Yes, $\left(x+y\right)\left(x-y\right)=x^2-y^2$.
+
+(2) No; both terms are opposite, $-\left(x-y\right)^2$.
+
+(3) No; both terms are opposite, $-\left(x+y\right)^2$.
+
+(4) Yes, $\left(x-y\right)\left(-x-y\right)=\left(-y+x\right)\left(-y-x\right)=\left(-y\right)^2-x^2=y^2-x^2$. $\blacksquare$
+
+## Problem 2
+
+(Exercise 16.3, Review and Consolidation, Problem 2) Calculate:
+
+(1) $\left(2m+3\right)\left(2m-3\right)$;
+
+(2) $\left(-\frac14 x-2y\right)\left(\frac14 x-2y\right)$;
+
+(3) $\left(a+2b\right)\left(a-2b\right)$;
+
+(4) $1003\times997$.
+
+### Solution to Problem 2
+
+By **Definition 16.3.1 (Difference of Squares Formula)**.
+
+(1) $\left(2m+3\right)\left(2m-3\right)=4m^2-9$.
+
+(2) $\left(-\frac14 x-2y\right)\left(\frac14 x-2y\right)=\left(-2y\right)^2-\left(\frac14 x\right)^2=4y^2-\frac{1}{16}x^2$.
+
+(3) $\left(a+2b\right)\left(a-2b\right)=a^2-4b^2$.
+
+(4) $1003\times997=\left(1000+3\right)\left(1000-3\right)=1000000-9=999991$. $\blacksquare$
+
+## Problem 3
+
+(Exercise 16.3, Review and Consolidation, Problem 3) Calculate:
+
+(1) $\left(2a+5b\right)^2$;
+
+(2) $\frac34 x-\frac23 y\right)^2$;
+
+(3) $\left(-2m-7n\right)^2$;
+
+(4) $101^2$.
+
+### Solution to Problem 3
+
+By **Definition 16.3.2 (Perfect Square Formula)**.
+
+(1) $\left(2a+5b\right)^2=4a^2+20ab+25b^2$.
+
+(2) $\left(\frac34 x-\frac23 y\right)^2=\frac{9}{16}x^2-xy+\frac49 y^2$.
+
+(3) $\left(-2m-7n\right)^2=4m^2+28mn+49n^2$.
+
+(4) $101^2=\left(100+1\right)^2=10201$. $\blacksquare$
+
+## Problem 4
 
 (Exercise 16.3, Review and Consolidation, Problem 4) Calculate:
 
@@ -16,9 +136,9 @@
 
 (6) $\left(a-\frac12 b^2\right)^2$.
 
-### Solution to Problem 1
+### Solution to Problem 4
 
-By Basic Knowledge and Basic Knowledge.
+By **Definition 16.3.1 (Difference of Squares Formula)** and **Definition 16.3.2 (Perfect Square Formula)**.
 
 (1) $\left(2a+5b\right)\left(2a-5b\right)=4a^2-25b^2$.
 
@@ -32,7 +152,7 @@ By Basic Knowledge and Basic Knowledge.
 
 (6) $\left(a-\frac12 b^2\right)^2=a^2-ab^2+\frac14 b^4$. $\blacksquare$
 
-## Problem 2
+## Problem 5
 
 (Exercise 16.3, Comprehensive Application, Problem 5) Calculate:
 
@@ -42,7 +162,7 @@ By Basic Knowledge and Basic Knowledge.
 
 (3) $\left(2x+3\right)^2-\left(2x-3\right)\left(2x+3\right)$.
 
-### Solution to Problem 2
+### Solution to Problem 5
 
 (1) $\left(2a+3b\right)^2-\left(2a-3b\right)^2=\left(4a^2+12ab+9b^2\right)-\left(4a^2-12ab+9b^2\right)=24ab$.
 
@@ -50,13 +170,13 @@ By Basic Knowledge and Basic Knowledge.
 
 (3) $\left(2x+3\right)^2-\left(2x-3\right)\left(2x+3\right)=\left(4x^2+12x+9\right)-\left(4x^2-9\right)=12x+18$. $\blacksquare$
 
-## Problem 3
+## Problem 6
 
 (Exercise 16.3, Comprehensive Application, Problem 6) As shown in the figure, a circular steel plate of diameter $a+b$ has two circles of diameters $a$ and $b$ cut out from it. Find the area of the remaining steel plate.
 
 The figure shows a large circle of diameter $a+b$, from which two smaller circles are cut out at the lower-left and lower-right positions: one of diameter $a$ and one of diameter $b$; the two small circles are externally tangent to each other and each internally tangent to the large circle, and the remaining region is the shaded steel plate.
 
-### Solution to Problem 3
+### Solution to Problem 6
 
 The large circle has diameter $a+b$, radius $\frac{a+b}{2}$, and area $\pi\left(\frac{a+b}{2}\right)^2$. The two cut-out circles have radii $\frac a2$ and $\frac b2$, with total area $\pi\left(\frac a2\right)^2+\pi\left(\frac b2\right)^2$.
 
@@ -66,37 +186,37 @@ $$S=\pi\frac{\left(a+b\right)^2}{4}-\pi\frac{a^2}{4}-\pi\frac{b^2}{4}=\pi\frac{a
 
 $\blacksquare$
 
-## Problem 4
+## Problem 7
 
 (Exercise 16.3, Comprehensive Application, Problem 7) First simplify, then evaluate: $\left(2x-y\right)\left(y+2x\right)-\left(2y+x\right)\left(2y-x\right)$, where $x=1$, $y=2$.
 
-### Solution to Problem 4
+### Solution to Problem 7
 
-By Basic Knowledge.
+By **Definition 16.3.1 (Difference of Squares Formula)**.
 
 $$\left(2x-y\right)\left(2x+y\right)-\left(2y+x\right)\left(2y-x\right)=\left(4x^2-y^2\right)-\left(4y^2-x^2\right)=5x^2-5y^2.$$
 
 Substituting $x=1,y=2$, we get $5-20=-15$. $\blacksquare$
 
-## Problem 5
+## Problem 8
 
 (Exercise 16.3, Extension and Exploration, Problem 8) Given $a+b=5$, $ab=3$, find the value of $a^2+b^2$.
 
-### Solution to Problem 5
+### Solution to Problem 8
 
-By Basic Knowledge, $\left(a+b\right)^2=a^2+2ab+b^2$.
+By **Definition 16.3.2 (Perfect Square Formula)**, $\left(a+b\right)^2=a^2+2ab+b^2$.
 
 $$a^2+b^2=\left(a+b\right)^2-2ab=25-6=19.$$
 
 $\blacksquare$
 
-## Problem 6
+## Problem 9
 
 (Exercise 16.3, Extension and Exploration, Problem 9) Calculate: $2\left(3+1\right)\left(3^2+1\right)\left(3^4+1\right)\cdots\left(3^{32}+1\right)+1$.
 
-### Solution to Problem 6
+### Solution to Problem 9
 
-Repeatedly apply Difference of Squares Formula. Write the leading $2$ as $\left(3-1\right)$, then
+Repeatedly apply **Definition 16.3.1 (Difference of Squares Formula)**. Write the leading $2$ as $\left(3-1\right)$, then
 
 $$\left(3-1\right)\left(3+1\right)=3^2-1,$$
 
@@ -126,7 +246,7 @@ Hence the original expression $=\left(3^{64}-1\right)+1=3^{64}$. $\blacksquare$
 
 (2) With a calendar from another month, as long as the box still spans two adjacent rows and two adjacent columns, the pattern is the same.
 
-(3) Let the number in the upper-left corner of the box be $n$; then to its right in the same row is $n+1$, and in the row below are $n+7$ and $n+8$. Expanding by Basic Knowledge:
+(3) Let the number in the upper-left corner of the box be $n$; then to its right in the same row is $n+1$, and in the row below are $n+7$ and $n+8$. Expanding by **Definition 16.3.1 (Difference of Squares Formula)**:
 
 $$n\left(n+8\right)-\left(n+1\right)\left(n+7\right)=n^2+8n-\left(n^2+8n+7\right)=-7.$$
 
@@ -154,7 +274,7 @@ Hence the difference is always $-7$, independent of $n$.
 
 ② $50\times50=2500$, $53\times47=2491$, $74\times26=1924$, $91\times9=819$. The sum of the two numbers in each group is $100$; similarly, the closer the two numbers are to $50$, the larger the product.
 
-(2) Let the sum of the two numbers be the fixed value $S$, with the two numbers being $\frac S2+d$ and $\frac S2-d$. By Basic Knowledge:
+(2) Let the sum of the two numbers be the fixed value $S$, with the two numbers being $\frac S2+d$ and $\frac S2-d$. By **Definition 16.3.1 (Difference of Squares Formula)**:
 
 $$\left(\frac S2+d\right)\left(\frac S2-d\right)=\frac{S^2}{4}-d^2.$$
 
@@ -196,7 +316,7 @@ After expanding and combining like terms, the coefficients of each term agree wi
 
 ### Solution to Review Problem 1
 
-By Basic Knowledge and Basic Knowledge.
+By **Definition 16.1.1 (Multiplication of Powers with the Same Base)** and **Definition 16.1.2 (Power of a Power)**.
 
 (1) $100\times10^3\times10^2=10^2\times10^3\times10^2=10^7$.
 
@@ -362,120 +482,4 @@ The mass is $11.8692\times7.8\approx92.58\ \left(\text{t}\right)$. $\blacksquare
 
 ### Solution to Review Problem 11
 
-By Division of Powers with the Same Base, $x^{m-n}=x^m\div x^n=64\div8=8$. $\blacksquare$
-
-## Review Problem 12
-
-(Review Problems, Extension and Exploration, Problem 12) The raw materials for a certain product have risen in price, so the manufacturer decides to raise the product's price. There are three schemes:
-
-(1) first raise the price by $p\%$, then by $q\%$;
-
-(2) first raise the price by $q\%$, then by $p\%$;
-
-(3) both the first and second raises are $\frac{p+q}{2}\%$.
-
-Here $p,q$ are unequal positive numbers. Which of the three schemes gives the largest price increase?
-
-### Solution to Review Problem 12
-
-Let the original price be $1$; the final price under each scheme:
-
-(1) $P_1=\left(1+p\%\right)\left(1+q\%\right)=1+p\%+q\%+pq\%^2$.
-
-(2) $P_2=\left(1+q\%\right)\left(1+p\%\right)$, the same as $P_1$.
-
-(3) $P_3=\left(1+\frac{p+q}{2}\%\right)^2=1+\left(p+q\right)\%+\frac{\left(p+q\right)^2}{4}\%^2$.
-
-Compare the difference between $P_3$ and $P_1$:
-
-$$P_3-P_1=\left[\frac{\left(p+q\right)^2}{4}-pq\right]\%^2=\frac{\left(p-q\right)^2}{4}\%^2> 0.$$
-
-Since $p\ne q$, we have $P_3> P_1=P_2$, so scheme (3) gives the largest price increase. $\blacksquare$
-
-## Exercise 1
-
-(Exercise 17.1, Problem 1) Which of the following transformations from left to right are factorizations? Which are not? Why?
-
-(1) $4a\left(a+2b\right)=4a^2+8ab$;
-
-(2) $a^2-4=\left(a+2\right)\left(a-2\right)$;
-
-(3) $x^2-3x+2=x\left(x-3\right)+2$.
-
-### Solution to Exercise 1
-
-By Basic Knowledge, the result of a factorization must be a product of several integral expressions.
-
-(1) No; it is polynomial multiplication, going from a product to a sum.
-
-(2) Yes; $a^2-4$ is written as the product of two integral expressions, $\left(a+2\right)\left(a-2\right)$.
-
-(3) No; the right side $x\left(x-3\right)+2$ is still in the form of a sum, not a product. $\blacksquare$
-
-## Exercise 2
-
-(Exercise 17.1, Problem 2) Factor:
-
-(1) $ax-ay$;
-
-(2) $a^2-2a$;
-
-(3) $a^2+ab$;
-
-(4) $xy-y^2+yz$.
-
-### Solution to Exercise 2
-
-By Method of Extracting the Common Factor.
-
-(1) $ax-ay=a\left(x-y\right)$.
-
-(2) $a^2-2a=a\left(a-2\right)$.
-
-(3) $a^2+ab=a\left(a+b\right)$.
-
-(4) $xy-y^2+yz=y\left(x-y+z\right)$. $\blacksquare$
-
-## Exercise 3
-
-(Exercise 17.1, Problem 3) Calculate using factoring:
-
-(1) $1.99^2+1.99\times0.01$;
-
-(2) $49\times20.2^2+52\times20.2^2-20.2^2$;
-
-(3) $5\times3^4+4\times3^4+9\times3^2$.
-
-### Solution to Exercise 3
-
-By Basic Knowledge.
-
-(1) $1.99^2+1.99\times0.01=1.99\left(1.99+0.01\right)=1.99\times2=3.98$.
-
-(2) $49\times20.2^2+52\times20.2^2-20.2^2=20.2^2\left(49+52-1\right)=20.2^2\times100=40804$.
-
-(3) $5\times3^4+4\times3^4+9\times3^2=9\times3^4+9\times3^2=9\times3^2\left(9+1\right)=81\times10=810$. $\blacksquare$
-
-## Exercise 4
-
-(Exercise 17.1, Problem 1) Factor:
-
-(1) $8m^2 n+2mn$;
-
-(2) $4a^2 b+10ab-ab^2$;
-
-(3) $p\left(a^2+b^2\right)-q\left(a^2+b^2\right)$;
-
-(4) $2a\left(y-z\right)^3-4b\left(z-y\right)^3$.
-
-### Solution to Exercise 4
-
-By Basic Knowledge.
-
-(1) $8m^2 n+2mn=2mn\left(4m+1\right)$.
-
-(2) $4a^2 b+10ab-ab^2=ab\left(4a+10-b\right)$.
-
-(3) $p\left(a^2+b^2\right)-q\left(a^2+b^2\right)=\left(a^2+b^2\right)\left(p-q\right)$.
-
-(4) Since $\left(z-y\right)^3=-\left(y-z\right)^3$, we have $2a\left(y-z\right)^3-4b\left(z-y\right)^3=\left(y-z\right)^3\left(2a+4b\right)=2\left(y-z\right)^3\left(a+2b\right)$. $\blacksquare$
+By **Definition 16.2.4 (Division of Powers with the Same Base)**, $x^{m-n}=x^m\div x^n=64\div8=8$. $\blacksquare$

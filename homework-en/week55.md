@@ -1,6 +1,74 @@
 # week55
 
+> **Conclusion 25.2.1 (Direct Square Root Extraction)**
+> 
+> For the equation $x^2=p$: (1) when $p> 0$, the equation has two unequal real roots $x=\pm\sqrt p$; (2) when $p=0$, the equation has two equal real roots $x_1=x_2=0$; (3) when $p< 0$, since $x^2\ge0$ for every real number $x$, the equation has no real root.
+
+> **Definition 25.2.1 (Method of Completing the Square)**
+> 
+> The method of solving a quadratic equation by fitting it into a perfect-square form is called completing the square. Completing the square is based on $a^2\pm2ab+b^2=\left(a\pm b\right)^2$, i.e. adding to both sides the square of half the linear coefficient.
+
+> **Conclusion 25.2.2 (Reducing the Degree After Completing the Square)**
+> 
+> After completing the square, a quadratic equation can be put in the form $\left(x+n\right)^2=p$: (1) when $p> 0$, $x=-n\pm\sqrt p$; (2) when $p=0$, $x_1=x_2=-n$; (3) when $p< 0$, since $\left(x+n\right)^2\ge0$, the equation has no real root.
+
+> **Definition 25.2.2 (Discriminant)**
+> 
+> The expression $b^2-4ac$ can determine the nature of the roots of the quadratic equation $ax^2+bx+c=0$; it is called the discriminant, denoted $\Delta=b^2-4ac$.
+
+> **Conclusion 25.2.3 (Nature of the Roots)**
+> 
+> For the equation $ax^2+bx+c=0\ \left(a\ne0\right)$: when $\Delta> 0$, the equation has two unequal real roots; when $\Delta=0$, the equation has two equal real roots; when $\Delta< 0$, the equation has no real root.
+
+> **Definition 25.2.3 (Quadratic Formula)**
+> 
+> When $\Delta\ge0$, the real roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$; this expression is called the quadratic formula. The method of substituting the coefficients into the quadratic formula to find the roots directly is called the formula method.
+
+> **Conclusion 25.2.4 (Product Is Zero)**
+> 
+> If $ab=0$, then $a=0$ or $b=0$; conversely, if $a=0$ or $b=0$, then $ab=0$.
+
+> **Definition 25.2.4 (Factoring Method)**
+> 
+> First factor the equation so that it becomes the product of two linear expressions equal to $0$, then set each linear expression equal to $0$, thereby reducing the degree; this method of solving a quadratic equation is called the factoring method.
+
+> **Conclusion 25.2.5 (Relation Between Roots and Coefficients)**
+> 
+> If the two roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x_1,x_2$, then $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$. This relation can also be obtained by comparing coefficients in the factorization $ax^2+bx+c=a\left(x-x_1\right)\left(x-x_2\right)$.
+
 ## Exercise 1
+
+(Exercise 25.2, Problem 1) Solve the following equations:
+
+(1) $x^2-9=0$;
+
+(2) $2x^2-8=0$;
+
+(3) $9x^2-5=3$;
+
+(4) $\left(x+6\right)^2-9=0$;
+
+(5) $3\left(x-1\right)^2-6=0$;
+
+(6) $x^2-4x+4=5$.
+
+### Solution to Exercise 1
+
+Put each equation in the form $x^2=p$ or $\left(x+n\right)^2=p$, and solve by direct square root extraction using Basic Knowledge or Basic Knowledge.
+
+(1) Transposing terms gives $x^2=9$. By Basic Knowledge, $x=\pm3$, i.e. $x_1=3$, $x_2=-3$.
+
+(2) Transposing terms and making the coefficient $1$ gives $x^2=4$. Hence $x=\pm2$, i.e. $x_1=2$, $x_2=-2$.
+
+(3) Transposing terms and combining gives $9x^2=8$, i.e. $x^2=\frac89$. Hence $x=\pm\frac{2\sqrt2}{3}$.
+
+(4) Transposing terms gives $\left(x+6\right)^2=9$. By Basic Knowledge, $x+6=\pm3$, hence $x_1=-3$, $x_2=-9$.
+
+(5) Transposing terms and making the coefficient $1$ gives $\left(x-1\right)^2=2$, hence $x-1=\pm\sqrt2$, i.e. $x=1\pm\sqrt2$.
+
+(6) Writing the left side as a perfect square gives $\left(x-2\right)^2=5$, hence $x-2=\pm\sqrt5$, i.e. $x=2\pm\sqrt5$. $\blacksquare$
+
+## Exercise 2
 
 (Exercise 25.2, Problem 2, Part (1)) Fill in the blanks:
 
@@ -12,9 +80,9 @@
 
 (4) $x^2-\frac23x+\;\_\_\_\;=\left(x-\;\_\_\_\;\right)^2$.
 
-### Solution to Exercise 1
+### Solution to Exercise 2
 
-By Method of Completing the Square, when the quadratic coefficient is $1$, add to both sides the square of half the linear coefficient, namely $\left(\frac{b}{2}\right)^2$.
+By **Definition 25.2.1 (Method of Completing the Square)**, when the quadratic coefficient is $1$, add to both sides the square of half the linear coefficient, namely $\left(\frac{b}{2}\right)^2$.
 
 (1) The linear coefficient is $10$; the square of half is $5^2=25$, so $x^2+10x+25=\left(x+5\right)^2$.
 
@@ -24,7 +92,7 @@ By Method of Completing the Square, when the quadratic coefficient is $1$, add t
 
 (4) The linear coefficient is $-\frac23$; the square of half is $\left(-\frac13\right)^2=\frac19$, so $x^2-\frac23x+\frac19=\left(x-\frac13\right)^2$. $\blacksquare$
 
-## Exercise 2
+## Exercise 3
 
 (Exercise 25.2, Problem 2, Part (2)) Solve the following equations:
 
@@ -40,9 +108,9 @@ By Method of Completing the Square, when the quadratic coefficient is $1$, add t
 
 (6) $x\left(x+4\right)=8x+4$.
 
-### Solution to Exercise 2
+### Solution to Exercise 3
 
-By Method of Completing the Square, first transpose terms; if the quadratic coefficient is not $1$, first make it $1$, then add to both sides the square of half the linear coefficient, and take square roots by Basic Knowledge.
+By **Definition 25.2.1 (Method of Completing the Square)**, first transpose terms; if the quadratic coefficient is not $1$, first make it $1$, then add to both sides the square of half the linear coefficient, and take square roots by Basic Knowledge.
 
 (1) Transposing terms gives $x^2+10x=-9$; completing the square,
 
@@ -124,7 +192,7 @@ Put the equations in the form $x^2=p$ or $\left(x+n\right)^2=p$, and take square
 
 ### Solution to Problem 2
 
-By Method of Completing the Square, add the square of half the linear coefficient.
+By **Definition 25.2.1 (Method of Completing the Square)**, add the square of half the linear coefficient.
 
 (1) The linear coefficient is $6$; the square of half is $3^2=9$, so $x^2+6x+9=\left(x+3\right)^2$.
 
@@ -148,7 +216,7 @@ By Method of Completing the Square, add the square of half the linear coefficien
 
 ### Solution to Problem 3
 
-By Method of Completing the Square, transpose terms and complete the square, then take square roots by Basic Knowledge.
+By **Definition 25.2.1 (Method of Completing the Square)**, transpose terms and complete the square, then take square roots by Basic Knowledge.
 
 (1) Transposing terms gives $x^2+10x=-16$; completing the square gives $\left(x+5\right)^2=9$, hence $x+5=\pm3$, i.e. $x_1=-2$, $x_2=-8$.
 
@@ -170,7 +238,7 @@ $$
 
 Hence $x-\frac18=\pm\frac{\sqrt{145}}8$, i.e. $x=\frac{1\pm\sqrt{145}}8$. $\blacksquare$
 
-## Exercise 3
+## Exercise 4
 
 (Exercise 25.2, Problem 3) Solve the following equations by the formula method:
 
@@ -186,9 +254,9 @@ Hence $x-\frac18=\pm\frac{\sqrt{145}}8$, i.e. $x=\frac{1\pm\sqrt{145}}8$. $\blac
 
 (6) $x\left(2x-4\right)=5-8x$.
 
-### Solution to Exercise 3
+### Solution to Exercise 4
 
-First put the equation in general form, determine $a,b,c$, use Basic Knowledge to compute $\Delta=b^2-4ac$, use Basic Knowledge to determine the nature of the roots, then use Quadratic Formula to find the roots.
+First put the equation in general form, determine $a,b,c$, use **Definition 25.2.2 (Discriminant)** to compute $\Delta=b^2-4ac$, use Basic Knowledge to determine the nature of the roots, then use **Definition 25.2.3 (Quadratic Formula)** to find the roots.
 
 (1) $a=1$, $b=1$, $c=-6$, $\Delta=1^2-4\cdot1\cdot\left(-6\right)=25> 0$, hence
 
@@ -216,7 +284,7 @@ $$
 x=\frac{-4\pm\sqrt{56}}{4}=\frac{-4\pm2\sqrt{14}}4=\frac{-2\pm\sqrt{14}}2. \blacksquare
 $$
 
-## Exercise 4
+## Exercise 5
 
 (Exercise 25.2, Problem 4, Part (1)) Solve the following equations:
 
@@ -232,9 +300,9 @@ $$
 
 (6) $\left(x-4\right)^2=\left(5-2x\right)^2$.
 
-### Solution to Exercise 4
+### Solution to Exercise 5
 
-By Factoring Method, put one side of the equation as the product of two linear factors and the other side as $0$, then set each factor equal to $0$ by Basic Knowledge.
+By **Definition 25.2.4 (Factoring Method)**, put one side of the equation as the product of two linear factors and the other side as $0$, then set each factor equal to $0$ by Basic Knowledge.
 
 (1) Factoring the left side gives $x\left(x+1\right)=0$, hence $x=0$ or $x+1=0$, i.e. $x_1=0$, $x_2=-1$.
 
@@ -254,11 +322,11 @@ $$
 
 i.e. $\left(3x-9\right)\left(1-x\right)=0$, hence $3x-9=0$ or $1-x=0$, i.e. $x_1=3$, $x_2=1$. $\blacksquare$
 
-## Exercise 5
+## Exercise 6
 
 (Exercise 25.2, Problem 4, Part (2)) As shown in the figure, increasing the radius of a small circular field by $5\ \text{m}$ gives a large circular field; the ratio of the large field's area to the small field's area is $9:4$. Find the radius of the small field.
 
-### Solution to Exercise 5
+### Solution to Exercise 6
 
 Let the small field's radius be $r\ \text{m}$; then the large field's radius is $\left(r+5\right)\ \text{m}$. By the circle-area formula and the ratio $9:4$ of the two areas,
 
@@ -288,7 +356,7 @@ Hence the small field's radius is $10\ \text{m}$. $\blacksquare$
 
 ### Solution to Problem 4
 
-By Basic Knowledge, compute $\Delta=b^2-4ac$, then determine the nature of the roots by Basic Knowledge.
+By **Definition 25.2.2 (Discriminant)**, compute $\Delta=b^2-4ac$, then determine the nature of the roots by Basic Knowledge.
 
 (1) $a=2$, $b=-3$, $c=-\frac32$, $\Delta=\left(-3\right)^2-4\cdot2\cdot\left(-\frac32\right)=9+12=21> 0$, so the equation has two unequal real roots.
 
@@ -312,7 +380,7 @@ By Basic Knowledge, compute $\Delta=b^2-4ac$, then determine the nature of the r
 
 ### Solution to Problem 5
 
-Use Basic Knowledge to find $\Delta$, and Quadratic Formula to find the roots.
+Use **Definition 25.2.2 (Discriminant)** to find $\Delta$, and **Definition 25.2.3 (Quadratic Formula)** to find the roots.
 
 (1) $a=1$, $b=1$, $c=-12$, $\Delta=1+48=49> 0$, hence $x=\frac{-1\pm7}{2}$, i.e. $x_1=3$, $x_2=-4$.
 
@@ -336,7 +404,7 @@ Use Basic Knowledge to find $\Delta$, and Quadratic Formula to find the roots.
 
 ### Solution to Problem 6
 
-Factor by Factoring Method, then set each factor equal to $0$ by Basic Knowledge.
+Factor by **Definition 25.2.4 (Factoring Method)**, then set each factor equal to $0$ by Basic Knowledge.
 
 (1) Transposing terms gives $3x^2-12x+12=0$, i.e. $3\left(x-1\right)^2=0$, hence $x_1=x_2=2$.
 
@@ -352,7 +420,7 @@ $$
 
 i.e. $\left(3x-4\right)\left(x+2\right)=0$, hence $3x-4=0$ or $x+2=0$, i.e. $x_1=\frac43$, $x_2=-2$. $\blacksquare$
 
-## Exercise 6
+## Exercise 7
 
 (Exercise 25.2, Problem 5) Without solving the equation, find the sum and product of the two roots $x_1,x_2$ of the following equations:
 
@@ -364,7 +432,7 @@ i.e. $\left(3x-4\right)\left(x+2\right)=0$, hence $3x-4=0$ or $x+2=0$, i.e. $x_1
 
 (4) $2x^2-x+2=3x+1$.
 
-### Solution to Exercise 6
+### Solution to Exercise 7
 
 First put each equation in general form $ax^2+bx+c=0$, and directly use Relation Between Roots and Coefficients to find $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$.
 
@@ -503,47 +571,3 @@ $$
 $$
 x_1^2+x_2^2=\left(x_1+x_2\right)^2-2x_1x_2=3^2-2\times\frac32=9-3=6. \blacksquare
 $$
-
-## Problem 12
-
-(Exercise 25.2, Extension and Exploration, Problem 12) (1) Since $x^3-8x^2+19x-12=\left(x-1\right)\left(x-3\right)\left(x-4\right)$, the numbers $1,3,4$ are the three roots of the cubic equation $x^3-8x^2+19x-12=0$. Compute $1+3+4$, $1\times3+3\times4+4\times1$, and $1\times3\times4$; what is their relation to the coefficients of $x^3-8x^2+19x-12=0$?
-
-(2) If the cubic equation $ax^3+bx^2+cx+d=0$ has three real roots $x_1,x_2,x_3$, then $ax^3+bx^2+cx+d$ can be written as $a\left(x-x_1\right)\left(x-x_2\right)\left(x-x_3\right)$. From this, can you discover the relation between $x_1,x_2,x_3$ and the coefficients $a,b,c,d$ of the cubic equation?
-
-### Solution to Problem 12
-
-(1) Computing,
-
-$$
-1+3+4=8,
-$$
-
-$$
-1\times3+3\times4+4\times1=3+12+4=19,
-$$
-
-$$
-1\times3\times4=12.
-$$
-
-In $x^3-8x^2+19x-12=0$, the quadratic coefficient is $-8$, the linear coefficient is $19$, and the constant term is $-12$. We see: the sum of the three roots, $8$, equals the negative of the quadratic coefficient; the sum of pairwise products, $19$, equals the linear coefficient; the product of the three roots, $12$, equals the negative of the constant term.
-
-(2) Expand $a\left(x-x_1\right)\left(x-x_2\right)\left(x-x_3\right)$. First expand the last two factors,
-
-$$
-\left(x-x_2\right)\left(x-x_3\right)=x^2-\left(x_2+x_3\right)x+x_2x_3,
-$$
-
-then multiply by $\left(x-x_1\right)$,
-
-$$
-a\left(x-x_1\right)\left(x-x_2\right)\left(x-x_3\right)=a\left[x^3-\left(x_1+x_2+x_3\right)x^2+\left(x_1x_2+x_2x_3+x_3x_1\right)x-x_1x_2x_3\right].
-$$
-
-Comparing corresponding coefficients with $ax^3+bx^2+cx+d$,
-
-$$
-x_1+x_2+x_3=-\frac ba,\quad x_1x_2+x_2x_3+x_3x_1=\frac ca,\quad x_1x_2x_3=-\frac da.
-$$
-
-This is the relation between roots and coefficients for a cubic equation. $\blacksquare$

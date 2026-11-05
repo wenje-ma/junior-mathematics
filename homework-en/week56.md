@@ -1,5 +1,89 @@
 # week56
 
+> **Definition 25.1.3 (Roots of a Quadratic Equation)**
+> 
+> The value of the unknown that makes the two sides of a quadratic equation equal is the solution of the equation; the solution of a quadratic equation is also called its root.
+
+> **Conclusion 25.2.1 (Direct Square Root Extraction)**
+> 
+> For the equation $x^2=p$: (1) when $p> 0$, the equation has two unequal real roots $x=\pm\sqrt p$; (2) when $p=0$, the equation has two equal real roots $x_1=x_2=0$; (3) when $p< 0$, since $x^2\ge0$ for every real number $x$, the equation has no real root.
+
+> **Conclusion 25.2.3 (Nature of the Roots)**
+> 
+> For the equation $ax^2+bx+c=0\ \left(a\ne0\right)$: when $\Delta> 0$, the equation has two unequal real roots; when $\Delta=0$, the equation has two equal real roots; when $\Delta< 0$, the equation has no real root.
+
+> **Definition 25.2.3 (Quadratic Formula)**
+> 
+> When $\Delta\ge0$, the real roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$; this expression is called the quadratic formula. The method of substituting the coefficients into the quadratic formula to find the roots directly is called the formula method.
+
+> **Conclusion 25.2.5 (Relation Between Roots and Coefficients)**
+> 
+> If the two roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x_1,x_2$, then $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$. This relation can also be obtained by comparing coefficients in the factorization $ax^2+bx+c=a\left(x-x_1\right)\left(x-x_2\right)$.
+
+> **Conclusion 25.3.1 (Setting Up Equations for Word Problems)**
+> 
+> The general steps for solving a practical problem by setting up a quadratic equation: analyze the problem, set up the unknown, write the equation according to the equal relation, solve the equation, check whether the roots make practical sense, and give the answer.
+
+> **Conclusion 25.3.2 (Growth-Rate and Decline-Rate Model)**
+> 
+> Let the original quantity be $a$ and the average growth rate be $x$; after two changes it is $a\left(1+x\right)^2$. If the average decline rate is $x$, then after two changes it is $a\left(1-x\right)^2$.
+
+> **Conclusion 25.3.3 (Propagation Model)**
+> 
+> If there is initially $1$ person, and in each round each $1$ person infects $x$ others on average, then after two rounds a total of $\left(1+x\right)^2$ people are infected.
+
+> **Conclusion 25.3.4 (Match-Schedule Model)**
+> 
+> $n$ teams in a single round-robin play $\frac{n\left(n-1\right)}2$ matches in total; in a home-and-away double round-robin they play $n\left(n-1\right)$ matches.
+
+> **Conclusion 25.3.5 (Diagonals of a Convex Polygon)**
+> 
+> A convex $n$-gon has $\frac{n\left(n-3\right)}2$ diagonals in total.
+
+## Problem 1
+
+(Exercise 25.2, Extension and Exploration, Problem 12) (1) Since $x^3-8x^2+19x-12=\left(x-1\right)\left(x-3\right)\left(x-4\right)$, the numbers $1,3,4$ are the three roots of the cubic equation $x^3-8x^2+19x-12=0$. Compute $1+3+4$, $1\times3+3\times4+4\times1$, and $1\times3\times4$; what is their relation to the coefficients of $x^3-8x^2+19x-12=0$?
+
+(2) If the cubic equation $ax^3+bx^2+cx+d=0$ has three real roots $x_1,x_2,x_3$, then $ax^3+bx^2+cx+d$ can be written as $a\left(x-x_1\right)\left(x-x_2\right)\left(x-x_3\right)$. From this, can you discover the relation between $x_1,x_2,x_3$ and the coefficients $a,b,c,d$ of the cubic equation?
+
+### Solution to Problem 1
+
+(1) Computing,
+
+$$
+1+3+4=8,
+$$
+
+$$
+1\times3+3\times4+4\times1=3+12+4=19,
+$$
+
+$$
+1\times3\times4=12.
+$$
+
+In $x^3-8x^2+19x-12=0$, the quadratic coefficient is $-8$, the linear coefficient is $19$, and the constant term is $-12$. We see: the sum of the three roots, $8$, equals the negative of the quadratic coefficient; the sum of pairwise products, $19$, equals the linear coefficient; the product of the three roots, $12$, equals the negative of the constant term.
+
+(2) Expand $a\left(x-x_1\right)\left(x-x_2\right)\left(x-x_3\right)$. First expand the last two factors,
+
+$$
+\left(x-x_2\right)\left(x-x_3\right)=x^2-\left(x_2+x_3\right)x+x_2x_3,
+$$
+
+then multiply by $\left(x-x_1\right)$,
+
+$$
+a\left(x-x_1\right)\left(x-x_2\right)\left(x-x_3\right)=a\left[x^3-\left(x_1+x_2+x_3\right)x^2+\left(x_1x_2+x_2x_3+x_3x_1\right)x-x_1x_2x_3\right].
+$$
+
+Comparing corresponding coefficients with $ax^3+bx^2+cx+d$,
+
+$$
+x_1+x_2+x_3=-\frac ba,\quad x_1x_2+x_2x_3+x_3x_1=\frac ca,\quad x_1x_2x_3=-\frac da.
+$$
+
+This is the relation between roots and coefficients for a cubic equation. $\blacksquare$
+
 ## Reading and Thinking 1
 
 (Reading and Thinking, Quadratic Equations and the Golden Ratio) Take a point $C$ on the segment $AB$, dividing $AB$ into two unequal parts $AC$ and $CB$, with $AC< CB$, such that $AC:CB=CB:AB$. Let $AB=1$ and $CB=x$; find $x$.
@@ -140,11 +224,11 @@ With $20$ diagonals, set up $\frac{n\left(n-3\right)}2=20$, i.e. $n\left(n-3\rig
 
 With $18$ diagonals, set up $\frac{n\left(n-3\right)}2=18$, i.e. $n\left(n-3\right)=36$, $n^2-3n-36=0$, whose discriminant is $\Delta=\left(-3\right)^2+144=153$, not a perfect square, so $n$ is not an integer. Hence there is no polygon with exactly $18$ diagonals. $\blacksquare$
 
-## Problem 1
+## Problem 2
 
 (Exercise 25.3, Review and Consolidation, Problem 1) The sum of two numbers is $26$ and their product is $168$; find the two numbers.
 
-### Solution to Problem 1
+### Solution to Problem 2
 
 Let one number be $x$; then the other is $26-x$. Since the product is $168$, set up
 
@@ -154,11 +238,11 @@ $$
 
 Rearranging gives $x^2-26x+168=0$, whose discriminant is $\Delta=26^2-4\times168=676-672=4$, hence $x=\frac{26\pm2}{2}$, i.e. $x=14$ or $x=12$. Hence the two numbers are $12$ and $14$. $\blacksquare$
 
-## Problem 2
+## Problem 3
 
 (Exercise 25.3, Review and Consolidation, Problem 2) The two legs of a right triangle sum to $14$, and its area is $24$; find the lengths of the two legs.
 
-### Solution to Problem 2
+### Solution to Problem 3
 
 Let one leg be $x$; then the other is $14-x$. Since the area of a right triangle is half the product of its legs, set up
 
@@ -168,11 +252,11 @@ $$
 
 i.e. $x\left(14-x\right)=48$, $x^2-14x+48=0$, i.e. $\left(x-6\right)\left(x-8\right)=0$, solving gives $x=6$ or $x=8$. Hence the two legs are $6$ and $8$. $\blacksquare$
 
-## Problem 3
+## Problem 4
 
 (Exercise 25.3, Review and Consolidation, Problem 3) A football league uses a double round-robin; if $90$ matches are played by the end of the season, how many teams participate?
 
-### Solution to Problem 3
+### Solution to Problem 4
 
 By Match-Schedule Model, $n$ teams in a double round-robin play $n\left(n-1\right)$ matches. Set up
 
@@ -182,11 +266,11 @@ $$
 
 i.e. $n^2-n-90=0$, i.e. $\left(n-10\right)\left(n+9\right)=0$, solving gives $n=10$ (discarding the negative root). Hence $10$ teams participate. $\blacksquare$
 
-## Problem 4
+## Problem 5
 
 (Exercise 25.3, Review and Consolidation, Problem 4) In year $2019$ China's express delivery volume was $635.2$ billion pieces, rising to $1083.0$ billion pieces in year $2021$. What was the average annual growth rate over these two years (write the result in the form $a\%$, with $a$ rounded to one decimal place)?
 
-### Solution to Problem 4
+### Solution to Problem 5
 
 By Growth-Rate Model, let the average annual growth rate be $x$; after two years the volume is $635.2\left(1+x\right)^2$. Set up
 
@@ -202,11 +286,11 @@ $$
 
 i.e. the average annual growth rate over these two years is about $30.6\%$. $\blacksquare$
 
-## Problem 5
+## Problem 6
 
 (Exercise 25.3, Comprehensive Application, Problem 5) The two diagonals of a rhombus sum to $10$, and its area is $12$; find the perimeter of the rhombus.
 
-### Solution to Problem 5
+### Solution to Problem 6
 
 Let the two diagonals be $d_1,d_2$. Since their sum is $10$, $d_1+d_2=10$. The area of a rhombus is half the product of its diagonals; since the area is $12$, $\frac12 d_1d_2=12$, i.e. $d_1d_2=24$.
 
@@ -218,11 +302,11 @@ $$
 4\sqrt{13}. \blacksquare
 $$
 
-## Problem 6
+## Problem 7
 
 (Exercise 25.3, Comprehensive Application, Problem 6) As shown in the figure, a photo of length $22\ \text{cm}$ and width $29\ \text{cm}$ is to be framed; the four sides of the frame must have equal width, and the area of the frame is one quarter of the photo's area. What should the frame width be in cm (rounded to one decimal place)?
 
-### Solution to Problem 6
+### Solution to Problem 7
 
 The photo area is $22\times29=638\ \text{cm}^2$. Let the frame width be $x\ \text{cm}$; then the overall dimensions including the frame are $\left(22+2x\right)$ and $\left(29+2x\right)$, and the frame area is the overall area minus the photo area. Since the frame area is one quarter of the photo area, set up
 
@@ -244,11 +328,11 @@ $$
 
 i.e. the frame width is about $1.5\ \text{cm}$. $\blacksquare$
 
-## Problem 7
+## Problem 8
 
 (Exercise 25.3, Comprehensive Application, Problem 7) The three sides of a right triangle are all positive integers; the hypotenuse is $1$ longer than one leg and $8$ longer than the other. Does such a right triangle exist? If so, how many are there?
 
-### Solution to Problem 7
+### Solution to Problem 8
 
 Let the hypotenuse be $c$; then the two legs are $c-1$ and $c-8$. By the Pythagorean theorem, set up
 
@@ -260,11 +344,11 @@ Expanding gives $c^2-2c+1+c^2-16c+64=c^2$, i.e. $c^2-18c+65=0$, i.e. $\left(c-5\
 
 When $c=5$, the other leg $c-8=-3< 0$, which does not fit the problem, so discard it. When $c=13$, the two legs are $12$ and $5$, both positive integers. Hence such a right triangle exists, and there is exactly one, with sides $5,12,13$. $\blacksquare$
 
-## Problem 8
+## Problem 9
 
 (Exercise 25.3, Extension and Exploration, Problem 8) As shown in the figure, a design of width $20\ \text{cm}$ and length $30\ \text{cm}$ is to have two horizontal and two vertical colored strips; the ratio of the horizontal to vertical strip width is $3:2$. If the strips are to occupy one quarter of the design's area, how should their widths be chosen (rounded to one decimal place)?
 
-### Solution to Problem 8
+### Solution to Problem 9
 
 The design area is $20\times30=600\ \text{cm}^2$. Since the strips occupy one quarter, the blank area is $\frac34\times600=450\ \text{cm}^2$.
 
@@ -282,7 +366,7 @@ $$
 
 Taking the smaller positive root, $y=\frac{10-5\sqrt3}{2}\approx0.67$. Hence the horizontal strip width is $3y\approx2.0\ \text{cm}$ and the vertical strip width is $2y\approx1.3\ \text{cm}$. $\blacksquare$
 
-## Problem 9
+## Problem 10
 
 (Exercise 25.3, Extension and Exploration, Problem 9) As shown in the figure, the segment $AB$ has length $1$, and points $C,D,E$ lie on $AB$.
 
@@ -294,7 +378,7 @@ Taking the smaller positive root, $y=\frac{10-5\sqrt3}{2}\approx0.67$. Hence the
 
 What pattern do the above results reveal?
 
-### Solution to Problem 9
+### Solution to Problem 10
 
 (1) Let $AC=x$; then $CB=1-x$. Since $AC^2=CB\cdot AB$ and $AB=1$, set up
 
@@ -479,23 +563,3 @@ First put in general form, then find the sum and product by Relation Between Roo
 (3) Rearranging gives $3x^2-2x-6=0$, hence $x_1+x_2=\frac23$, $x_1x_2=-2$.
 
 (4) Rearranging gives $x^2-4x-7=0$, hence $x_1+x_2=4$, $x_1x_2=-7$. $\blacksquare$
-
-## Review Problem 5
-
-(Review, Comprehensive Application, Problem 5) Given the equation in $x$, $2x^2-\left(4k+1\right)x+2k^2-1=0$, for what value of $k$ does the equation have two unequal real roots, two equal real roots, and no real root?
-
-### Solution to Review Problem 5
-
-By Basic Knowledge, compute the discriminant, where $a=2$, $b=-\left(4k+1\right)$, $c=2k^2-1$, hence
-
-$$
-\Delta=\left(4k+1\right)^2-4\cdot2\cdot\left(2k^2-1\right)=16k^2+8k+1-16k^2+8=8k+9.
-$$
-
-By Nature of the Roots:
-
-When $\Delta> 0$, i.e. $8k+9> 0$, $k> -\frac98$, the equation has two unequal real roots;
-
-When $\Delta=0$, i.e. $k=-\frac98$, the equation has two equal real roots;
-
-When $\Delta< 0$, i.e. $k< -\frac98$, the equation has no real root. $\blacksquare$

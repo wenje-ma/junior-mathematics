@@ -1,6 +1,78 @@
 # week3
 
+> **Definition 1.1.1 (Positive Number)**
+> 
+> Numbers greater than $0$ are called positive numbers.
+
+> **Definition 1.1.2 (Negative Number)**
+> 
+> Numbers obtained by prefixing a positive number with the sign "$-$" are called negative numbers.
+
+> **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**
+> 
+> Quantities of opposite meaning are represented by positive and negative numbers respectively.
+
+> **Definition 1.2.1 (Integers and Fractions)**
+> 
+> Positive integers, $0$, and negative integers are collectively called integers; positive fractions and negative fractions are collectively called fractions.
+
+> **Definition 1.2.2 (Rational Numbers)**
+> 
+> Numbers that can be written in fraction form are called rational numbers.
+
+> **Definition 1.2.3 (Number Line)**
+> 
+> A straight line on which an origin, a positive direction, and a unit length are specified is called a number line.
+
+> **Definition 1.2.4 (Opposite Numbers)**
+> 
+> Two numbers that differ only in sign are opposites of each other; the opposite number of $0$ is $0$.
+
+> **Definition 1.2.5 (Absolute Value)**
+> 
+> The distance on the number line between the point representing a number $a$ and the origin is called the absolute value of the number $a$, denoted by $\left|a\right|$.
+
+> **Definition 1.2.6 (Algebraic Meaning of Absolute Value)**
+> 
+> The absolute value of a positive number is itself; the absolute value of a negative number is its opposite number; the absolute value of $0$ is $0$.
+
+> **Definition 1.2.7 (Comparing the Magnitude of Rational Numbers)**
+> 
+> A positive number is greater than $0$, $0$ is greater than a negative number, and a positive number is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
+
+> **Definition 2.1.1 (Rules for Addition of Rational Numbers)**
+> 
+> When two numbers of the same sign are added, the sum takes the same sign; when two numbers of opposite signs are added, the sum takes the sign of the addend with the larger absolute value; adding two numbers that are opposites of each other gives $0$.
+
+> **Definition 2.1.2 (Commutative Law of Addition)**
+> 
+> In the addition of rational numbers, when two numbers are added, swapping the positions of the addends does not change the sum, that is, $a+b=b+a$.
+
+> **Definition 2.1.3 (Associative Law of Addition)**
+> 
+> In the addition of rational numbers, when three numbers are added, adding the first two first, or adding the last two first, does not change the sum, that is, $\left(a+b\right)+c=a+\left(b+c\right)$.
+
+> **Definition 2.1.4 (Rules for Subtraction of Rational Numbers)**
+> 
+> Subtracting a number is equivalent to adding the opposite number of that number.
+
 ## Review Problem 1
+
+(Review Problem, Extension and Exploration, Problem 9) As shown in the figure, $5$ volleyballs were tested, among which the number of grams exceeding the standard mass is recorded as a positive number.
+
+(1) What do $+5$, $-3.5$, $+0.7$, $-2.5$, $-0.6$ each mean?
+
+(2) Which ball has the mass closest to the standard mass? Please explain why.
+
+### Solution to Review Problem 1
+
+By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**, exceeding the standard mass is recorded as positive, and falling short of the standard mass is recorded as negative.
+
+(1) $+5$ means the ball exceeds the standard mass by $5\ \text{g}$; $-3.5$ means it falls short of the standard mass by $3.5\ \text{g}$; $+0.7$ means it exceeds the standard mass by $0.7\ \text{g}$; $-2.5$ means it falls short of the standard mass by $2.5\ \text{g}$; $-0.6$ means it falls short of the standard mass by $0.6\ \text{g}$.
+
+(2) By **Definition 1.2.5 (Absolute Value)**, the smaller the absolute value of a number, the smaller its deviation from the standard mass. The absolute values of the deviations are $5$, $3.5$, $0.7$, $2.5$, $0.6$, among which $0.6$ is the smallest, so the ball recorded as $-0.6$ has the mass closest to the standard mass. $\blacksquare$
+
+## Review Problem 2
 
 (Review Problem, Extension and Exploration, Problem 10) (1) Are there negative numbers between $-1$ and $0$? What about between $0$ and $1$? If yes, give examples; if not, explain why.
 
@@ -10,25 +82,25 @@
 
 (4) Write down $3$ numbers that are less than $-100$ and greater than $-103$.
 
-### Solution to Review Problem 1
+### Solution to Review Problem 2
 
-By Rational Numbers and Integers and Fractions.
+By **Definition 1.2.2 (Rational Numbers)** and **Definition 1.2.1 (Integers and Fractions)**.
 
 (1) There are negative numbers between $-1$ and $0$, for example $-0.5$, $-\frac{1}{2}$, and so on; there are no negative numbers between $0$ and $1$, because the numbers between $0$ and $1$ are all greater than $0$ and are all positive numbers.
 
 (2) There are no negative integers between $-3$ and $-1$ (excluding the endpoints), because the only integer between them is $-2$, but $-2$ is not in the open interval between $-3$ and $-1$; the integers between $-2$ and $2$ are $-1$, $0$, $1$.
 
-(3) No. By Comparing the Magnitude of Rational Numbers, the negative integers are $-1$, $-2$, $-3$, $\cdots$, among which the largest is $-1$, so there is no negative integer greater than $-1$.
+(3) No. By **Definition 1.2.7 (Comparing the Magnitude of Rational Numbers)**, the negative integers are $-1$, $-2$, $-3$, $\cdots$, among which the largest is $-1$, so there is no negative integer greater than $-1$.
 
 (4) Numbers that are less than $-100$ and greater than $-103$ satisfy $-103< x< -100$, for example $-101$, $-102$, $-101.5$, and so on. $\blacksquare$
 
-## Review Problem 2
+## Review Problem 3
 
 (Review Problem, Extension and Exploration, Problem 11) If $\left|x\right|=2$, then must $x$ be $2$? If $\left|x\right|=0$, then what is $x$ equal to? If $x=-x$, then what is $x$ equal to?
 
-### Solution to Review Problem 2
+### Solution to Review Problem 3
 
-By Absolute Value and Opposite Numbers.
+By **Definition 1.2.5 (Absolute Value)** and **Definition 1.2.4 (Opposite Numbers)**.
 
 If $\left|x\right|=2$, on the number line there are two points at distance $2$ unit lengths from the origin, representing $2$ and $-2$ respectively, so $x$ is not necessarily $2$; it could also be $-2$.
 
@@ -46,7 +118,7 @@ If $x=-x$, then $2x=0$, so $x=0$. $\blacksquare$
 
 ### Solution to Exercise 1
 
-By Rules for Addition of Rational Numbers, rise and income are positive, and fall and expenditure are negative.
+By **Definition 2.1.1 (Rules for Addition of Rational Numbers)**, rise and income are positive, and fall and expenditure are negative.
 
 (1) The temperature rises by $7\,^\circ\text{C}$ from $-4\,^\circ\text{C}$; the expression is $\left(-4\right)+7=3$, namely $3\,^\circ\text{C}$.
 
@@ -64,7 +136,7 @@ By Rules for Addition of Rational Numbers, rise and income are positive, and fal
 
 ### Solution to Exercise 2
 
-By Rules for Addition of Rational Numbers.
+By **Definition 2.1.1 (Rules for Addition of Rational Numbers)**.
 
 (1) $\left(-4\right)+\left(-6\right)=-10$; (2) $4+\left(-6\right)=-2$; (3) $\left(-4\right)+6=2$;
 
@@ -86,7 +158,7 @@ By Rules for Addition of Rational Numbers.
 
 ### Solution to Exercise 3
 
-By Rules for Addition of Rational Numbers.
+By **Definition 2.1.1 (Rules for Addition of Rational Numbers)**.
 
 (1) $15+\left(-22\right)=-\left(22-15\right)=-7$;
 
@@ -102,7 +174,7 @@ By Rules for Addition of Rational Numbers.
 
 ### Solution to Exercise 4
 
-By Rules for Addition of Rational Numbers.
+By **Definition 2.1.1 (Rules for Addition of Rational Numbers)**.
 
 $\left(-3\right)+2=-1$: for example, the temperature first drops by $3\,^\circ\text{C}$ and then rises by $2\,^\circ\text{C}$, ending up $1\,^\circ\text{C}$ lower than before.
 
@@ -122,7 +194,7 @@ $\left(-3\right)+\left(-2\right)=-5$: for example, first spending $3$ yuan and t
 
 ### Solution to Exercise 5
 
-By Commutative Law of Addition and Associative Law of Addition, group together numbers of the same sign.
+By **Definition 2.1.2 (Commutative Law of Addition)** and **Definition 2.1.3 (Associative Law of Addition)**, group together numbers of the same sign.
 
 (1) The original expression $=\left(23+6\right)+\left[\left(-17\right)+\left(-22\right)\right]=29+\left(-39\right)=-10$.
 
@@ -138,7 +210,7 @@ By Commutative Law of Addition and Associative Law of Addition, group together n
 
 ### Solution to Exercise 6
 
-By Rules for Addition of Rational Numbers, depositing is positive and withdrawing is negative.
+By **Definition 2.1.1 (Rules for Addition of Rational Numbers)**, depositing is positive and withdrawing is negative.
 
 $$450+\left(-80\right)+150=\left(450+150\right)-80=600-80=520.$$
 
@@ -150,7 +222,7 @@ Hence there is $520$ yuan left in the savings card. $\blacksquare$
 
 ### Solution to Exercise 7
 
-By Rules for Addition of Rational Numbers, climbing is positive and descending is negative.
+By **Definition 2.1.1 (Rules for Addition of Rational Numbers)**, climbing is positive and descending is negative.
 
 $$9000+\left(-300\right)+500=9000+200=9200.$$
 
@@ -168,7 +240,7 @@ Hence the flight altitude of the airplane at this point is $9200\ \text{m}$. $\b
 
 ### Solution to Exercise 8
 
-By Rules for Subtraction of Rational Numbers, subtracting a number is equivalent to adding its opposite.
+By **Definition 2.1.4 (Rules for Subtraction of Rational Numbers)**, subtracting a number is equivalent to adding its opposite.
 
 (1) $6-9=6+\left(-9\right)=-3$; (2) $\left(+4\right)-\left(-7\right)=4+7=11$;
 
@@ -190,7 +262,7 @@ By Rules for Subtraction of Rational Numbers, subtracting a number is equivalent
 
 ### Solution to Exercise 9
 
-By Rules for Subtraction of Rational Numbers, "lower than" uses subtraction.
+By **Definition 2.1.4 (Rules for Subtraction of Rational Numbers)**, "lower than" uses subtraction.
 
 (1) $2-8=-6\,^\circ\text{C}$.
 
@@ -210,7 +282,7 @@ By Rules for Subtraction of Rational Numbers, "lower than" uses subtraction.
 
 ### Solution to Exercise 10
 
-By Rules for Subtraction of Rational Numbers, convert subtraction into addition, and then combine by Commutative Law of Addition.
+By **Definition 2.1.4 (Rules for Subtraction of Rational Numbers)**, convert subtraction into addition, and then combine by **Definition 2.1.2 (Commutative Law of Addition)**.
 
 (1) The original expression $=1-4+3-0.5=0-0.5=-0.5$.
 
@@ -230,7 +302,7 @@ By Rules for Subtraction of Rational Numbers, convert subtraction into addition,
 
 ### Solution to Exercise 11
 
-By Rules for Subtraction of Rational Numbers.
+By **Definition 2.1.4 (Rules for Subtraction of Rational Numbers)**.
 
 (1) The original expression $=-52-37-19+24=-84$.
 
@@ -248,7 +320,7 @@ By Rules for Subtraction of Rational Numbers.
 
 ### Solution to Problem 1
 
-By Rules for Addition of Rational Numbers.
+By **Definition 2.1.1 (Rules for Addition of Rational Numbers)**.
 
 (1) $\left(-10\right)+\left(+6\right)=-4$; (2) $\left(+12\right)+\left(-4\right)=8$; (3) $\left(-5\right)+\left(-7\right)=-12$;
 
@@ -272,7 +344,7 @@ By Rules for Addition of Rational Numbers.
 
 ### Solution to Problem 2
 
-By Commutative Law of Addition and Associative Law of Addition.
+By **Definition 2.1.2 (Commutative Law of Addition)** and **Definition 2.1.3 (Associative Law of Addition)**.
 
 (1) The original expression $=\left(-8-1\right)+\left(10+2\right)=-9+12=3$.
 
@@ -292,7 +364,7 @@ By Commutative Law of Addition and Associative Law of Addition.
 
 ### Solution to Problem 3
 
-By Rules for Subtraction of Rational Numbers.
+By **Definition 2.1.4 (Rules for Subtraction of Rational Numbers)**.
 
 (1) $\left(-8\right)-8=-16$; (2) $\left(-8\right)-\left(-8\right)=0$; (3) $8-\left(-8\right)=16$; (4) $8-8=0$;
 
@@ -310,7 +382,7 @@ By Rules for Subtraction of Rational Numbers.
 
 ### Solution to Problem 4
 
-By Rules for Subtraction of Rational Numbers.
+By **Definition 2.1.4 (Rules for Subtraction of Rational Numbers)**.
 
 (1) $\left(+\frac{2}{5}\right)-\left(-\frac{3}{5}\right)=\frac{2}{5}+\frac{3}{5}=1$; (2) $\left(-\frac{2}{5}\right)-\left(-\frac{3}{5}\right)=-\frac{2}{5}+\frac{3}{5}=\frac{1}{5}$;
 
@@ -338,7 +410,7 @@ By Rules for Subtraction of Rational Numbers.
 
 ### Solution to Problem 5
 
-By Rules for Subtraction of Rational Numbers and Commutative Law of Addition.
+By **Definition 2.1.4 (Rules for Subtraction of Rational Numbers)** and **Definition 2.1.2 (Commutative Law of Addition)**.
 
 (1) The original expression $=\left(-4.2-8.4\right)+\left(5.7+10\right)=-12.6+15.7=3.1$.
 
@@ -358,7 +430,7 @@ By Rules for Subtraction of Rational Numbers and Commutative Law of Addition.
 
 ### Solution to Problem 6
 
-By Rules for Subtraction of Rational Numbers, the height difference is the higher height minus the lower height.
+By **Definition 2.1.4 (Rules for Subtraction of Rational Numbers)**, the height difference is the higher height minus the lower height.
 
 $$8848.86-\left(-432\right)=8848.86+432=9280.86.$$
 
@@ -370,7 +442,7 @@ Hence the height difference between the two is $9280.86\ \text{m}$. $\blacksquar
 
 ### Solution to Problem 7
 
-By Rules for Addition of Rational Numbers and Rules for Subtraction of Rational Numbers.
+By **Definition 2.1.1 (Rules for Addition of Rational Numbers)** and **Definition 2.1.4 (Rules for Subtraction of Rational Numbers)**.
 
 $$-7+11-9=-5.$$
 
@@ -386,7 +458,7 @@ What is the overall profit/loss of the food store over the whole week?
 
 ### Solution to Problem 8
 
-By Rules for Addition of Rational Numbers, find the sum of the profit/loss over the seven days.
+By **Definition 2.1.1 (Rules for Addition of Rational Numbers)**, find the sum of the profit/loss over the seven days.
 
 $$432-12.5-10.5+327-87+536.5+698=1883.5.$$
 
@@ -402,7 +474,7 @@ What is the total mass of these $8$ baskets of Chinese cabbage, in kilograms?
 
 ### Solution to Problem 9
 
-By Rules for Addition of Rational Numbers, first find the sum of the deviations, and then find the total mass.
+By **Definition 2.1.1 (Rules for Addition of Rational Numbers)**, first find the sum of the deviations, and then find the total mass.
 
 The sum of the deviations is
 
@@ -413,17 +485,3 @@ The standard total mass of the $8$ baskets is $25\times 8=200\ \text{kg}$, so th
 $$200+\left(-5.5\right)=194.5.$$
 
 Hence these $8$ baskets of Chinese cabbage together weigh $194.5\ \text{kg}$. $\blacksquare$
-
-## Problem 10
-
-(Exercise 2.1, Extension and Exploration, Problem 10) The highest and lowest temperatures each day over a week at a certain place are shown in the table below. Which day has the largest temperature difference? Which day has the smallest?
-
-Day: Mon, Tue, Wed, Thu, Fri, Sat, Sun. Highest temperature: $10$, $12$, $11$, $9$, $7$, $5$, $7$ ($^\circ\text{C}$). Lowest temperature: $2$, $1$, $0$, $-1$, $-4$, $-5$, $-5$ ($^\circ\text{C}$).
-
-### Solution to Problem 10
-
-By Rules for Subtraction of Rational Numbers, the temperature difference $=$ highest temperature $-$ lowest temperature.
-
-The temperature difference on each day is: Monday $10-2=8$; Tuesday $12-1=11$; Wednesday $11-0=11$; Thursday $9-\left(-1\right)=10$; Friday $7-\left(-4\right)=11$; Saturday $5-\left(-5\right)=10$; Sunday $7-\left(-5\right)=12$.
-
-Comparing, $12> 11> 10> 8$, so Sunday has the largest temperature difference and Monday has the smallest. $\blacksquare$

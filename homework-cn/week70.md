@@ -1,5 +1,37 @@
 # week70
 
+> **定义 28.1.1 (正弦)**
+> 
+> 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, 我们把锐角 $A$ 的对边与斜边的比叫做 $\angle A$ 的正弦 (sine), 记作 $\sin A$, 即
+
+> **结论 28.1.1 (锐角三角函数值的确定性)**
+> 
+> 在 $\text{Rt}\triangle ABC$ 中, 当锐角 $A$ 的度数一定时, 无论这个直角三角形大小如何, $\angle A$ 的对边与斜边的比, 邻边与斜边的比, 对边与邻边的比都是固定值.
+
+> **定义 28.1.2 (余弦)**
+> 
+> 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, 我们把锐角 $A$ 的邻边与斜边的比叫做 $\angle A$ 的余弦 (cosine), 记作 $\cos A$, 即
+
+> **结论 28.1.2 (特殊角的三角函数值)**
+> 
+> $\sin 30^{\circ}=\frac{1}{2}$, $\cos 30^{\circ}=\frac{\sqrt{3}}{2}$, $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$; $\sin 45^{\circ}=\frac{\sqrt{2}}{2}$, $\cos 45^{\circ}=\frac{\sqrt{2}}{2}$, $\tan 45^{\circ}=1$; $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$, $\cos 60^{\circ}=\frac{1}{2}$, $\tan 60^{\circ}=\sqrt{3}$.
+
+> **定义 28.1.3 (正切)**
+> 
+> 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, 我们把锐角 $A$ 的对边与邻边的比叫做 $\angle A$ 的正切 (tangent), 记作 $\tan A$, 即
+
+> **定义 28.2.1 (解直角三角形)**
+> 
+> 直角三角形中, 除直角外, 共有五个元素, 即三条边和两个锐角. 由直角三角形中的已知元素, 求出其余未知元素的过程, 叫做解直角三角形.
+
+> **结论 28.2.1 (直角三角形元素间的关系)**
+> 
+> $a^{2}+b^{2}=c^{2}$; $\angle A+\angle B=90^{\circ}$; $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$, $\tan A=\frac{a}{b}$.
+
+> **结论 28.2.2 (仰角与俯角)**
+> 
+> 在视线与水平线所成的角中, 视线在水平线上方的角叫做仰角, 视线在水平线下方的角叫做俯角.
+
 ## 习题一
 
 (习题 28.1 复习巩固第 5 题) 已知下列锐角三角函数值, 用计算器求锐角 $A$, $B$ 的度数:
@@ -36,7 +68,7 @@
 
 ### 解答 习题二
 
-由正弦, 在 $\text{Rt}\triangle ABC$ 中, $\sin A=\frac{CB}{AB}$, 故 (C) 等于 $\sin A$.
+由**定义 28.1.1 (正弦)**, 在 $\text{Rt}\triangle ABC$ 中, $\sin A=\frac{CB}{AB}$, 故 (C) 等于 $\sin A$.
 
 在 $\text{Rt}\triangle ACD$ 中, $\angle ADC=90^{\circ}$, $\sin A=\frac{CD}{AC}$, 故 (A) 等于 $\sin A$.
 
@@ -54,11 +86,11 @@
 
 钢架为等腰三角形 $ABC$, $CD$ 为中柱, $CD\perp AB$, $CD=3.5\ \text{m}$, $\angle A=\angle B=32^{\circ}$, $AD=DB$.
 
-在 $\text{Rt}\triangle ACD$ 中, 由正弦,
+在 $\text{Rt}\triangle ACD$ 中, 由**定义 28.1.1 (正弦)**,
 
 $$\sin A=\frac{CD}{AC}\implies AC=\frac{CD}{\sin 32^{\circ}}=\frac{3.5}{\sin 32^{\circ}}\approx\frac{3.5}{0.5299}\approx 6.605\ \text{m}.$$
 
-由正切,
+由**定义 28.1.3 (正切)**,
 
 $$\tan A=\frac{CD}{AD}\implies AD=\frac{CD}{\tan 32^{\circ}}=\frac{3.5}{\tan 32^{\circ}}\approx\frac{3.5}{0.6249}\approx 5.601\ \text{m}.$$
 
@@ -74,7 +106,7 @@ $$\tan A=\frac{CD}{AD}\implies AD=\frac{CD}{\tan 32^{\circ}}=\frac{3.5}{\tan 32^
 
 平行四边形 $ABCD$ 中, $AB=62.31\ \text{cm}$, $AD=35.24\ \text{cm}$, $\angle A=35^{\circ}40'$.
 
-过 $D$ 作 $DE\perp AB$, 垂足为 $E$. 在 $\text{Rt}\triangle ADE$ 中, 由正弦,
+过 $D$ 作 $DE\perp AB$, 垂足为 $E$. 在 $\text{Rt}\triangle ADE$ 中, 由**定义 28.1.1 (正弦)**,
 
 $$DE=AD\cdot\sin A=35.24\times\sin 35^{\circ}40'.$$
 
@@ -98,7 +130,7 @@ $35^{\circ}40'=35.67^{\circ}$, $\sin 35.67^{\circ}\approx 0.5830$, 故 $DE\appro
 
 用计算器计算得: $\sin 15^{\circ}\approx 0.259$, $\sin 18^{\circ}\approx 0.309$, $\sin 20^{\circ}\approx 0.342$, $\sin 22^{\circ}\approx 0.375$, $\sin 80^{\circ}\approx 0.985$, $\sin 82^{\circ}\approx 0.990$, $\sin 84^{\circ}\approx 0.995$; $\cos 15^{\circ}\approx 0.966$, $\cos 18^{\circ}\approx 0.951$, $\cos 20^{\circ}\approx 0.940$, $\cos 22^{\circ}\approx 0.927$, $\cos 80^{\circ}\approx 0.174$, $\cos 82^{\circ}\approx 0.139$, $\cos 84^{\circ}\approx 0.105$; $\tan 15^{\circ}\approx 0.268$, $\tan 18^{\circ}\approx 0.325$, $\tan 20^{\circ}\approx 0.364$, $\tan 22^{\circ}\approx 0.404$, $\tan 80^{\circ}\approx 5.671$, $\tan 82^{\circ}\approx 7.115$, $\tan 84^{\circ}\approx 9.514$.
 
-由基础知识, 基础知识, 基础知识, 在锐角范围内, 随着角度增大, 对边 $a$ 相对增大, 邻边 $b$ 相对减小, 故 $\sin A$ 随角度增大而增大, $\cos A$ 随角度增大而减小, $\tan A$ 随角度增大而增大. $\blacksquare$
+由**定义 28.1.1 (正弦)**, **定义 28.1.2 (余弦)**, **定义 28.1.3 (正切)**, 在锐角范围内, 随着角度增大, 对边 $a$ 相对增大, 邻边 $b$ 相对减小, 故 $\sin A$ 随角度增大而增大, $\cos A$ 随角度增大而减小, $\tan A$ 随角度增大而增大. $\blacksquare$
 
 ## 习题六
 
@@ -106,7 +138,7 @@ $35^{\circ}40'=35.67^{\circ}$, $\sin 35.67^{\circ}\approx 0.5830$, 故 $DE\appro
 
 ### 解答 习题六
 
-由正弦 和余弦, $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$.
+由**定义 28.1.1 (正弦)** 和**定义 28.1.2 (余弦)**, $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$.
 
 由勾股定理 $a^{2}+b^{2}=c^{2}$, 故
 
@@ -124,7 +156,7 @@ $$\sin^{2}A+\cos^{2}A=\frac{a^{2}}{c^{2}}+\frac{b^{2}}{c^{2}}=\frac{a^{2}+b^{2}}
 
 设圆心为 $O$, 弦为 $AB$, 圆心角 $\angle AOB=\theta$. 作 $OC\perp AB$ 于 $C$, 则 $C$ 为 $AB$ 中点, $\angle AOC=\frac{\theta}{2}$.
 
-在 $\text{Rt}\triangle AOC$ 中, 由正弦,
+在 $\text{Rt}\triangle AOC$ 中, 由**定义 28.1.1 (正弦)**,
 
 $$\sin\frac{\theta}{2}=\frac{AC}{OA}=\frac{l/2}{r}.$$
 
@@ -164,7 +196,7 @@ $\cos A=\frac{b}{c}=\frac{20}{30}=\frac{2}{3}$, 用计算器得 $\angle A\approx
 
 ### 解答 练习二
 
-设 $D$ 到建筑物的水平距离 $DC=40\ \text{m}$. 在 $\text{Rt}\triangle BDC$ 中, $\angle BDC=45^{\circ}$, 由正切,
+设 $D$ 到建筑物的水平距离 $DC=40\ \text{m}$. 在 $\text{Rt}\triangle BDC$ 中, $\angle BDC=45^{\circ}$, 由**定义 28.1.3 (正切)**,
 
 $$BC=DC\cdot\tan 45^{\circ}=40\times 1=40\ \text{m}.$$
 
@@ -184,7 +216,7 @@ $$AC=DC\cdot\tan 50^{\circ}\approx 40\times 1.1918\approx 47.67\ \text{m}.$$
 
 在 $\triangle BDE$ 中, $\angle DBE=40^{\circ}$, $\angle BDE=50^{\circ}$, 故 $\angle BED=180^{\circ}-40^{\circ}-50^{\circ}=90^{\circ}$, 即 $\triangle BDE$ 为直角三角形, $\angle E=90^{\circ}$.
 
-在 $\text{Rt}\triangle BDE$ 中, 由正弦,
+在 $\text{Rt}\triangle BDE$ 中, 由**定义 28.1.1 (正弦)**,
 
 $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\times 0.6428\approx 334.3\ \text{m}.$$
 
@@ -254,9 +286,9 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 等腰三角形 $ABC$ 中, $AD\perp BC$, $D$ 为 $BC$ 中点, 故 $BD=\frac{BC}{2}=5\ \text{m}$.
 
-在 $\text{Rt}\triangle ABD$ 中, 由正切, $AD=BD\cdot\tan 36^{\circ}\approx 5\times 0.7265\approx 3.6\ \text{m}$.
+在 $\text{Rt}\triangle ABD$ 中, 由**定义 28.1.3 (正切)**, $AD=BD\cdot\tan 36^{\circ}\approx 5\times 0.7265\approx 3.6\ \text{m}$.
 
-由余弦, $\cos B=\frac{BD}{AB}$, 故 $AB=\frac{BD}{\cos 36^{\circ}}\approx\frac{5}{0.8090}\approx 6.2\ \text{m}$. $\blacksquare$
+由**定义 28.1.2 (余弦)**, $\cos B=\frac{BD}{AB}$, 故 $AB=\frac{BD}{\cos 36^{\circ}}\approx\frac{5}{0.8090}\approx 6.2\ \text{m}$. $\blacksquare$
 
 ## 习题九
 
@@ -266,7 +298,7 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, $AC=1200\ \text{m}$, 俯角 $\alpha=16^{\circ}31'\approx 16.52^{\circ}$. 由内错角相等, $\angle ABC=\alpha$.
 
-由正弦, $\sin\alpha=\frac{AC}{AB}$, 故 $AB=\frac{AC}{\sin\alpha}=\frac{1200}{\sin 16.52^{\circ}}\approx\frac{1200}{0.2843}\approx 4221\ \text{m}$. $\blacksquare$
+由**定义 28.1.1 (正弦)**, $\sin\alpha=\frac{AC}{AB}$, 故 $AB=\frac{AC}{\sin\alpha}=\frac{1200}{\sin 16.52^{\circ}}\approx\frac{1200}{0.2843}\approx 4221\ \text{m}$. $\blacksquare$
 
 ## 习题十
 
@@ -276,7 +308,7 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 在直角三角形中, 灯塔高度 $55\ \text{m}$ 为对边, 俯角 $21^{\circ}$, 帆船到灯塔的直线距离为斜边.
 
-由正弦, $\sin 21^{\circ}=\frac{55}{d}$, 故 $d=\frac{55}{\sin 21^{\circ}}\approx\frac{55}{0.3584}\approx 153\ \text{m}$. $\blacksquare$
+由**定义 28.1.1 (正弦)**, $\sin 21^{\circ}=\frac{55}{d}$, 故 $d=\frac{55}{\sin 21^{\circ}}\approx\frac{55}{0.3584}\approx 153\ \text{m}$. $\blacksquare$
 
 ## 习题十一
 
@@ -286,7 +318,7 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 
 水平距离 $5.5\ \text{m}$ 为邻边, 坡面距离为斜边, 坡角 $24^{\circ}$.
 
-由余弦, $\cos 24^{\circ}=\frac{5.5}{d}$, 故 $d=\frac{5.5}{\cos 24^{\circ}}\approx\frac{5.5}{0.9135}\approx 6.0\ \text{m}$. $\blacksquare$
+由**定义 28.1.2 (余弦)**, $\cos 24^{\circ}=\frac{5.5}{d}$, 故 $d=\frac{5.5}{\cos 24^{\circ}}\approx\frac{5.5}{0.9135}\approx 6.0\ \text{m}$. $\blacksquare$
 
 ## 习题十二
 
@@ -307,13 +339,3 @@ $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\time
 (2) $\angle B=90^{\circ}-\angle A$. 由 $\sin A=\frac{a}{c}$, $c=\frac{a}{\sin A}$. $b=\sqrt{c^{2}-a^{2}}$, 或 $b=\frac{a}{\tan A}$.
 
 (3) 由 $\sin A=\frac{a}{c}$ 求 $\angle A$. $\angle B=90^{\circ}-\angle A$. $b=\sqrt{c^{2}-a^{2}}$. $\blacksquare$
-
-## 习题十三
-
-(习题 28.2 综合运用第 7 题) 如图, 一座金字塔下底面是边长为 $130\ \text{m}$ 的正方形, 且每一个侧面与底面成 $65^{\circ}$ 角, 这座金字塔原来有多高 (结果取整数)?
-
-### 解答 习题十三
-
-金字塔底面正方形边长 $130\ \text{m}$, 侧面与底面成 $65^{\circ}$ 角. 高 $h$ 与底面中心到边的距离 $d=\frac{130}{2}=65\ \text{m}$ 构成直角三角形, 侧面与底面的二面角为 $65^{\circ}$.
-
-由正切, $\tan 65^{\circ}=\frac{h}{65}$, 故 $h=65\times\tan 65^{\circ}\approx 65\times 2.1445\approx 139\ \text{m}$. $\blacksquare$

@@ -1,5 +1,65 @@
 # week53
 
+> **Definition 22.2.1 (Graph of a Function)**
+> 
+> Generally, for a function, if each pair of corresponding values of the independent variable and the function is taken as the x- and y-coordinates of a point, then the figure formed by these points in the coordinate plane is the graph of the function.
+
+> **Conclusion 22.2.2 (Steps for Plotting Points to Draw a Function Graph)**
+> 
+> First step: make a table; second step: plot the points; third step: connect the points.
+
+> **Conclusion 22.2.3 (Three Representations of a Function)**
+> 
+> The analytical method, the tabular method, and the graphical method.
+
+> **Definition 24.1.1 (Arithmetic Mean)**
+> 
+> $\overline{x}=\frac{x_1+x_2+\cdots+x_n}{n}$.
+
+> **Definition 24.1.2 (Weighted Average)**
+> 
+> If the weights of the $n$ numbers $x_1, x_2, \ldots, x_n$ are $w_1, w_2, \ldots, w_n$ respectively, then $\overline{x}=\frac{x_1w_1+x_2w_2+\cdots+x_nw_n}{w_1+w_2+\cdots+w_n}$ is called the weighted average of these $n$ numbers.
+
+> **Definition 24.1.3 (Median)**
+> 
+> The number in the middle position after the data are arranged in ascending order.
+
+> **Definition 24.1.4 (Mode)**
+> 
+> The data value that appears most frequently.
+
+> **Definition 24.2.1 (Deviation)**
+> 
+> For $n$ data $x_1, x_2, \ldots, x_n$, let $\overline{x}$ denote their mean; then $x_i-\overline{x}$ is called the deviation of $x_i$ from the mean $\overline{x}$.
+
+> **Definition 24.2.2 (Sum of Squared Deviations)**
+> 
+> $\left(x_1-\overline{x}\right)^2+\left(x_2-\overline{x}\right)^2+\cdots+\left(x_n-\overline{x}\right)^2$ is called the sum of squared deviations of these $n$ data from the mean, denoted $d^2$.
+
+> **Definition 24.2.3 (Variance)**
+> 
+> $s^2=\frac{\left(x_1-\overline{x}\right)^2+\cdots+\left(x_n-\overline{x}\right)^2}{n}$.
+
+> **Definition 24.3.1 (Quartiles)**
+> 
+> $Q_1$, $Q_2$, $Q_3$ divide the data into four equal parts.
+
+> **Definition 24.3.2 (Boxplot)**
+> 
+> A plot drawn using the five values of a set of data — the minimum, the first quartile, the median, the third quartile, and the maximum — is called a boxplot.
+
+> **Definition 24.3.3 (Interquartile Range)**
+> 
+> The difference between the third quartile and the first quartile is called the interquartile range.
+
+> **Definition 24.4.1 (Within-Group Sum of Squared Deviations)**
+> 
+> Splitting the data into two groups, the sum of the two groups' own sums of squared deviations is called the within-group sum of squared deviations.
+
+> **Conclusion 24.4.2 (Grouping Principle)**
+> 
+> Grouping is done according to the principle of minimizing the within-group sum of squared deviations (equivalently, maximizing the between-group sum of squared deviations).
+
 ## Activity 1
 
 (Comprehensive and Practical Activity, Activity 2, Task 1) A graph is made of points; when drawing a function graph, one must plot the positions of points in a rectangular coordinate system, which requires first determining the x- and y-coordinates of the points. Similarly, when writing music, one records a musical tone by recording the two basic elements pitch and duration. Consult references to analyze how staff notation records these two elements of a musical tone. In what ways is the way of writing music in staff notation similar to locating a point in a rectangular coordinate system?
@@ -16,7 +76,7 @@
 
 ### Solution to Activity 2, Task 2
 
-By Graph of a Function, a rectangular coordinate system can describe a musical melody: the horizontal axis represents time and the vertical axis represents pitch. Each note corresponds to a point, with the x-coordinate being the start time of the note and the y-coordinate being its pitch. The time value of a note is represented by the length of a line segment.
+By **Definition 22.2.1 (Graph of a Function)**, a rectangular coordinate system can describe a musical melody: the horizontal axis represents time and the vertical axis represents pitch. Each note corresponds to a point, with the x-coordinate being the start time of the note and the y-coordinate being its pitch. The time value of a note is represented by the length of a line segment.
 
 During the time span represented by the score, each instant corresponds to a unique pitch, i.e. pitch is a function of time. Connecting the points corresponding to the notes in order with line segments gives a melody line reflecting the changes in pitch and duration of the piece.
 
@@ -32,7 +92,7 @@ Taking the "Defend the Yellow River" passage as an example, convert each note's 
 
 (1) The curves drawn by different people may differ, for reasons including: different ways of quantifying pitch (some using frequency, others using note-name numbers), different choices of scale on the time axis, and different ways of representing note durations.
 
-(2) By Graph of a Function, during the time span represented by the score, each instant corresponds to a unique pitch; that is, for each definite value of time $t$, the pitch $y$ has a uniquely determined value corresponding to it. Hence the melody curve can be regarded as a function graph. But note that transitions between notes (such as glissandi) may not be a strict one-to-one correspondence, and the pitch is undefined at rests. $\blacksquare$
+(2) By **Definition 22.2.1 (Graph of a Function)**, during the time span represented by the score, each instant corresponds to a unique pitch; that is, for each definite value of time $t$, the pitch $y$ has a uniquely determined value corresponding to it. Hence the melody curve can be regarded as a function graph. But note that transitions between notes (such as glissandi) may not be a strict one-to-one correspondence, and the pitch is undefined at rests. $\blacksquare$
 
 ## Exercise 1
 
@@ -40,11 +100,11 @@ Taking the "Defend the Yellow River" passage as an example, convert each note's 
 
 ### Solution to Exercise 1
 
-By Arithmetic Mean, the mean is $=\frac{8+9+10+10+11}{5}=9.6$.
+By **Definition 24.1.1 (Arithmetic Mean)**, the mean is $=\frac{8+9+10+10+11}{5}=9.6$.
 
-By Median, the data are already in ascending order; there are $5$ (odd) of them, so the middle position is the $3$rd, namely $10$.
+By **Definition 24.1.3 (Median)**, the data are already in ascending order; there are $5$ (odd) of them, so the middle position is the $3$rd, namely $10$.
 
-By Mode, $10$ appears $2$ times, the most often, so the mode is $10$. $\blacksquare$
+By **Definition 24.1.4 (Mode)**, $10$ appears $2$ times, the most often, so the mode is $10$. $\blacksquare$
 
 ## Exercise 2
 
@@ -52,7 +112,7 @@ By Mode, $10$ appears $2$ times, the most often, so the mode is $10$. $\blacksqu
 
 ### Solution to Exercise 2
 
-By Weighted Average,
+By **Definition 24.1.2 (Weighted Average)**,
 
 $$
 \overline{x} = \frac{100\times1+80\times3+50\times7+30\times4}{1+3+7+4} = \frac{100+240+350+120}{15} = \frac{810}{15} = 54.
@@ -76,7 +136,7 @@ The median is the number in the middle position after the data are arranged by s
 
 ### Solution to Problem 1
 
-By Arithmetic Mean,
+By **Definition 24.1.1 (Arithmetic Mean)**,
 
 $$
 \overline{x} = \frac{22.36+22.35+22.33+22.35+22.37+22.34+22.38+22.36+22.32+22.35}{10} = \frac{223.51}{10} = 22.351.
@@ -90,15 +150,15 @@ Hence the estimated average length of this batch is $22.351\ \text{mm}$. $\black
 
 ### Solution to Problem 2
 
-By Weighted Average,
+By **Definition 24.1.2 (Weighted Average)**,
 
 $$
 \overline{x} = \frac{1.45\times1+1.50\times2+1.60\times4+1.65\times3+1.70\times3+1.75\times2}{15} = \frac{24.5}{15} \approx 1.63.
 $$
 
-By Median, there are $15$ data (odd), so the median is the $8$th. Cumulative counts: $1$, $3$, $7$, $10$; the $8$th falls in the $1.65$ group, so the median is $1.65$.
+By **Definition 24.1.3 (Median)**, there are $15$ data (odd), so the median is the $8$th. Cumulative counts: $1$, $3$, $7$, $10$; the $8$th falls in the $1.65$ group, so the median is $1.65$.
 
-By Mode, $1.60$ appears $4$ times, the most, so the mode is $1.60$. $\blacksquare$
+By **Definition 24.1.4 (Mode)**, $1.60$ appears $4$ times, the most, so the mode is $1.60$. $\blacksquare$
 
 ## Problem 3
 
@@ -124,7 +184,7 @@ By Mode, $1.60$ appears $4$ times, the most, so the mode is $1.60$. $\blacksquar
 
 ### Solution to Problem 4
 
-By Weighted Average,
+By **Definition 24.1.2 (Weighted Average)**,
 
 $$
 \overline{x} = \frac{0.15\times15+0.21\times7+0.18\times10}{15+7+10} = \frac{2.25+1.47+1.8}{32} = \frac{5.52}{32} = 0.1725 \approx 0.17.
@@ -142,7 +202,7 @@ Hence the per-capita arable land area of the three towns is about $0.17\ \text{h
 
 ### Solution to Problem 5
 
-(1) By Weighted Average, the weights are $2$, $3$, $5$.
+(1) By **Definition 24.1.2 (Weighted Average)**, the weights are $2$, $3$, $5$.
 
 A: $\frac{70\times2+50\times3+80\times5}{10}=\frac{140+150+400}{10}=69$.
 
@@ -176,7 +236,7 @@ B's mean: $\overline{x}_乙=\frac{7+8+8+7+9+8+7+8+8+7}{10}=7.7$.
 
 B's variance: $s^2_乙=\frac{\left(7-7.7\right)^2+\left(8-7.7\right)^2+\cdots+\left(7-7.7\right)^2}{10}=\frac{0.49+0.09+0.09+0.49+1.69+0.09+0.49+0.09+0.09+0.49}{10}=\frac{3.7}{10}=0.37$.
 
-By Variance, $s^2_甲 > s^2_乙$; B's variance is smaller, so B's shooting is more consistent. $\blacksquare$
+By **Definition 24.2.3 (Variance)**, $s^2_甲 > s^2_乙$; B's variance is smaller, so B's shooting is more consistent. $\blacksquare$
 
 ## Exercise 5
 
@@ -196,7 +256,7 @@ B's mean: $\overline{x}_乙=\frac{2+3+1+1+0+2+1+1+0+1}{10}=1.2$.
 
 B's variance: $s^2_乙=\frac{\left(2-1.2\right)^2+\left(3-1.2\right)^2+\left(1-1.2\right)^2+\cdots}{10}=\frac{0.64+3.24+0.04+0.04+1.44+0.64+0.04+0.04+1.44+0.04}{10}=\frac{7.6}{10}=0.76$.
 
-(2) By Variance, A and B have the same mean, but $s^2_甲 > s^2_乙$; B's variance is smaller, so machine B performs better. $\blacksquare$
+(2) By **Definition 24.2.3 (Variance)**, A and B have the same mean, but $s^2_甲 > s^2_乙$; B's variance is smaller, so machine B performs better. $\blacksquare$
 
 ## Problem 6
 
@@ -216,7 +276,7 @@ B's mean: $\overline{x}_乙=\frac{505+507+505+498+505+506+505+505+506+506}{10}=5
 
 B's variance: $s^2_乙=\frac{\left(505-504.8\right)^2+\cdots+\left(506-504.8\right)^2}{10}\approx5.36$.
 
-(2) By Variance, $s^2_甲 > s^2_乙$; B's variance is smaller, so machine B packages more consistently. $\blacksquare$
+(2) By **Definition 24.2.3 (Variance)**, $s^2_甲 > s^2_乙$; B's variance is smaller, so machine B packages more consistently. $\blacksquare$
 
 ## Problem 7
 
@@ -236,7 +296,7 @@ B's average seedling height: $\overline{x}_乙=\frac{11+16+17+14+13+19+6+8+10+16
 
 B's variance: $s^2_乙=\frac{\left(11-13\right)^2+\left(16-13\right)^2+\cdots+\left(16-13\right)^2}{10}=15.8$.
 
-By Variance, $s^2_甲 < s^2_乙$; A's variance is smaller, so variety A grows more uniformly. $\blacksquare$
+By **Definition 24.2.3 (Variance)**, $s^2_甲 < s^2_乙$; A's variance is smaller, so variety A grows more uniformly. $\blacksquare$
 
 ## Exercise 6
 
@@ -250,7 +310,7 @@ By Variance, $s^2_甲 < s^2_乙$; A's variance is smaller, so variety A grows mo
 
 (1) From the boxplot, the minimum is about $20$, the maximum about $100$, $Q_1$ about $40$, $Q_2$ (median) about $55$, and $Q_3$ about $75$.
 
-(2) By Interquartile Range, the interquartile range is $75-40=35$, showing that the middle $50\%$ of the data lies between $40$ and $75$. The median $55$ shows that on half the days the air quality index is below $55$. The box is offset to the right, showing the data distribution is right-skewed, i.e. a few days have a high air quality index. $\blacksquare$
+(2) By **Definition 24.3.3 (Interquartile Range)**, the interquartile range is $75-40=35$, showing that the middle $50\%$ of the data lies between $40$ and $75$. The median $55$ shows that on half the days the air quality index is below $55$. The box is offset to the right, showing the data distribution is right-skewed, i.e. a few days have a high air quality index. $\blacksquare$
 
 ## Exercise 7
 
@@ -262,11 +322,11 @@ Group A's rope-skipping scores are $182$, $194$, $143$, $185$, $156$. Arranged i
 
 Group B's rope-skipping scores are $199$, $148$, $242$, $170$, $141$. Arranged in ascending order: $141$, $148$, $170$, $199$, $242$.
 
-By Quartiles, Group A has $5$ data; the median is $Q_2=182$ (the $3$rd number). The median of the lower half $143$, $156$ is $Q_1=\frac{143+156}{2}=149.5$. The median of the upper half $185$, $194$ is $Q_3=\frac{185+194}{2}=189.5$. The minimum is $143$ and the maximum is $194$.
+By **Definition 24.3.1 (Quartiles)**, Group A has $5$ data; the median is $Q_2=182$ (the $3$rd number). The median of the lower half $143$, $156$ is $Q_1=\frac{143+156}{2}=149.5$. The median of the upper half $185$, $194$ is $Q_3=\frac{185+194}{2}=189.5$. The minimum is $143$ and the maximum is $194$.
 
 Group B has $5$ data; the median is $Q_2=170$ (the $3$rd number). The median of the lower half $141$, $148$ is $Q_1=\frac{141+148}{2}=144.5$. The median of the upper half $199$, $242$ is $Q_3=\frac{199+242}{2}=220.5$. The minimum is $141$ and the maximum is $242$.
 
-By Boxplot, draw the boxplots of the two sets in the same figure.
+By **Definition 24.3.2 (Boxplot)**, draw the boxplots of the two sets in the same figure.
 
 The figure shows two boxplots side by side on the same horizontal axis (rope-skipping scores, unit: skips): the upper Group A box spans from $Q_1=149.5$ to $Q_3=189.5$, with the median line at $182$, whiskers extending left to the minimum $143$ and right to the maximum $194$; the lower Group B box spans from $Q_1=144.5$ to $Q_3=220.5$, with the median line at $170$, whiskers extending left to the minimum $141$ and right to the maximum $242$.
 
@@ -284,7 +344,7 @@ From the boxplots: Group A's median $182$ is higher than Group B's median $170$,
 
 (1) Arrange the data in ascending order: $2$, $3$, $6$, $9$, $10$, $10$, $12$, $12$, $14$. There are $9$ data.
 
-By Quartiles, $Q_2$ (the median) is the $5$th number, namely $10$. The lower half is $2$, $3$, $6$, $9$, with median $Q_1=\frac{3+6}{2}=4.5$. The upper half is $10$, $12$, $12$, $14$, with median $Q_3=\frac{12+12}{2}=12$.
+By **Definition 24.3.1 (Quartiles)**, $Q_2$ (the median) is the $5$th number, namely $10$. The lower half is $2$, $3$, $6$, $9$, with median $Q_1=\frac{3+6}{2}=4.5$. The upper half is $10$, $12$, $12$, $14$, with median $Q_3=\frac{12+12}{2}=12$.
 
 (2) The minimum is $2$ and the maximum is $14$. The interquartile range is $12-4.5=7.5$. The box is long, showing the sales figures are fairly dispersed. $\blacksquare$
 
@@ -294,7 +354,7 @@ By Quartiles, $Q_2$ (the median) is the $5$th number, namely $10$. The lower hal
 
 ### Solution to Problem 9
 
-By Quartiles, the median of the $40$ data is $Q_2=\frac{75+75}{2}=75$. $Q_1$ is the median of the first $20$ numbers, i.e. the average of the $10$th and $11$th, $\frac{69+69}{2}=69$. $Q_3$ is the median of the last $20$ numbers, i.e. the average of the $30$th and $31$st, $\frac{83+85}{2}=84$.
+By **Definition 24.3.1 (Quartiles)**, the median of the $40$ data is $Q_2=\frac{75+75}{2}=75$. $Q_1$ is the median of the first $20$ numbers, i.e. the average of the $10$th and $11$th, $\frac{69+69}{2}=69$. $Q_3$ is the median of the last $20$ numbers, i.e. the average of the $30$th and $31$st, $\frac{83+85}{2}=84$.
 
 The interquartile range is $84-69=15$. The median $75$ shows half the students scored above $75$. The minimum is $32$ and the maximum $99$, a wide spread. $\blacksquare$
 
@@ -337,19 +397,3 @@ Gap $3$: $\left\{7, 9, 12\right\}$ and $\left\{13, 15\right\}$, within-group sum
 Gap $4$: $\left\{7, 9, 12, 13\right\}$ and $\left\{15\right\}$, within-group sum of squared deviations $=24.75+0=24.75$.
 
 By Grouping Principle, gap $2$ has the smallest within-group sum of squared deviations. Hence split into $\left\{7, 9\right\}$ and $\left\{12, 13, 15\right\}$. $\blacksquare$
-
-## Problem 11
-
-(Exercise 24.4, Comprehensive Application, Problem 2) The output values of $6$ enterprises in a town last year are as follows. $A$: $3$, $B$: $12$, $C$: $4$, $D$: $8$, $E$: $9$, $F$: $15$ (in 100 million yuan). According to the principle of minimizing the within-group sum of squared deviations of annual output, split these $6$ enterprises into two groups.
-
-### Solution to Problem 11
-
-Arrange the data in ascending order: $3$, $4$, $8$, $9$, $12$, $15$.
-
-There are $5$ ways to split. Compute each within-group sum of squared deviations:
-
-Gap $1$: $0+\left(4+16+49+144+225-5\times10.4\right)=...$
-
-After computation, gap $3$ ($\left\{3, 4, 8\right\}$ and $\left\{9, 12, 15\right\}$) has the smallest within-group sum of squared deviations.
-
-Hence split into $\left\{A, C, D\right\}$ ($3$, $4$, $8$) and $\left\{E, B, F\right\}$ ($9$, $12$, $15$). $\blacksquare$

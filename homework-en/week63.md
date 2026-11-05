@@ -1,24 +1,58 @@
 # week63
 
+> **Theorem 29.2.1 (Perpendicular Chord Theorem)**
+> 
+> A diameter perpendicular to a chord bisects the chord and bisects the two arcs subtended by the chord.
+
+> **Definition 29.2.1 (Central Angle)**
+> 
+> An angle whose vertex is at the center of a circle is called a central angle.
+
+> **Property 29.2.2 (Rotational Symmetry of a Circle)**
+> 
+> A circle is a centrally symmetric figure, and its center is its center of symmetry; rotating a circle about its center through any angle gives a figure that coincides with the original.
+
+> **Theorem 29.2.2 (Relationship Among Central Angles, Arcs, and Chords)**
+> 
+> In the same circle or equal circles, equal central angles subtend equal arcs and equal chords; equal arcs subtend equal central angles and equal chords; equal chords subtend equal central angles, and their major arcs and minor arcs are respectively equal.
+
+> **Definition 29.2.2 (Inscribed Angle)**
+> 
+> An angle whose vertex lies on a circle and whose both sides intersect the circle is called an inscribed angle.
+
+> **Corollary 29.2.2 (Corollary to the Inscribed Angle Theorem)**
+> 
+> Inscribed angles subtended by the same arc or equal arcs are equal; the inscribed angle subtended by a semicircle (or a diameter) is a right angle; the chord subtended by an inscribed angle of $90^\circ$ is a diameter.
+
+> **Theorem 29.2.3 (Inscribed Angle Theorem)**
+> 
+> The inscribed angle subtended by an arc is half of the central angle subtended by that arc.
+
+> **Definition 29.2.3 (Polygon Inscribed in a Circle)**
+> 
+> If all vertices of a polygon lie on the same circle, the polygon is called a polygon inscribed in the circle, and the circle is called the circumcircle of the polygon.
+
+> **Property 29.2.3 (Property of a Cyclic Quadrilateral)**
+> 
+> The opposite angles of a cyclic quadrilateral are supplementary.
+
+> **Formula 29.3.1 (Arc Length Formula)**
+> 
+> In a circle of radius $R$, the arc length subtended by a central angle of $n^\circ$ is $l=\frac{n\pi R}{180}$.
+
+> **Definition 29.3.1 (Generatrix of a Cone)**
+> 
+> The segment joining the vertex of a cone to any point on the circumference of its base is called the generatrix of the cone.
+
+> **Formula 29.3.2 (Sector Area Formula)**
+> 
+> In a circle of radius $R$, the area of a sector with central angle $n^\circ$ is $S=\frac{n\pi R^2}{360}=\frac12 lR$, where $l$ is the arc length of the sector.
+
+> **Formula 29.3.3 (Lateral and Total Surface Area of a Cone)**
+> 
+> If the generatrix length of a cone is $l$ and the base radius is $r$, then the lateral area is $\pi rl$ and the total surface area is $\pi r\left(r+l\right)$.
+
 ## Exercise 1
-
-(Exercise 29.2, Problem 3) The figure shows the cross-section of a tunnel, whose shape is part of a circle centered at the point $O$. If $M$ is the midpoint of the chord $CD$ in $\odot O$, $EM$ passes through the center $O$ and meets $\odot O$ at the point $E$, and $CD=4\,\text{m}$, $EM=6\,\text{m}$, find the radius of $\odot O$.
-
-The figure shows the cross-section of a tunnel: the upper part is an arc of a circle centered at $O$, and the lower part is the horizontal chord $CD$; $M$ is the midpoint of chord $CD$, and $EM$ is a vertical segment passing through the center $O$, with its upper endpoint $E$ at the highest point of the arc and $M$ lying on $CD$, where $EM\perp CD$.
-
-### Solution to Exercise 1
-
-By Perpendicular Chord Theorem, $EM\perp CD$, and $M$ is the foot.
-
-Let the radius be $R$; then $OC=R$, $OM=EM-R=6-R$, and $CM=\frac12 CD=2$. In $\text{Rt}\triangle OMC$,
-
-$$
-R^2=2^2+\left(6-R\right)^2=4+36-12R+R^2.
-$$
-
-Simplifying gives $12R=40$, so $R=\frac{10}{3}\,\text{m}$. $\blacksquare$
-
-## Exercise 2
 
 (Exercise 29.2, Problem 1) As shown in the figure, $AB$ and $CD$ are two chords of $\odot O$.
 
@@ -30,9 +64,9 @@ Simplifying gives $12R=40$, so $R=\frac{10}{3}\,\text{m}$. $\blacksquare$
 
 (4) If $AB=CD$, $OE\perp AB$, $OF\perp CD$, with feet $E$ and $F$ respectively, are $OE$ and $OF$ equal? Why?
 
-### Solution to Exercise 2
+### Solution to Exercise 1
 
-By Relationship Among Central Angles, Arcs, and Chords.
+By **Theorem 29.2.2 (Relationship Among Central Angles, Arcs, and Chords)**.
 
 (1) $\angle AOB=\angle COD$, $\overset{\frown}{AB}=\overset{\frown}{CD}$.
 
@@ -42,13 +76,13 @@ By Relationship Among Central Angles, Arcs, and Chords.
 
 (4) $OE=OF$. Since $AB=CD$, in $\triangle OAB$ and $\triangle OCD$ we have $OA=OB=OC=OD$; the two triangles are congruent, and $OE$ and $OF$ are the altitudes on corresponding sides, so $OE=OF$. $\blacksquare$
 
-## Exercise 3
+## Exercise 2
 
 (Exercise 29.2, Problem 2) As shown in the figure, $AB$ is a diameter of $\odot O$, $\overset{\frown}{BC}=\overset{\frown}{CD}=\overset{\frown}{DE}$, and $\angle COD=35^\circ$. Find the measure of $\angle AOE$.
 
-### Solution to Exercise 3
+### Solution to Exercise 2
 
-By Relationship Among Central Angles, Arcs, and Chords.
+By **Theorem 29.2.2 (Relationship Among Central Angles, Arcs, and Chords)**.
 
 Since $\overset{\frown}{BC}=\overset{\frown}{CD}=\overset{\frown}{DE}$, we have $\angle BOC=\angle COD=\angle DOE=35^\circ$. The three central angles total $3\times35^\circ=105^\circ$. Since $AB$ is a diameter, $\angle AOB=180^\circ$, hence
 
@@ -58,33 +92,33 @@ $$
 
 $\blacksquare$
 
-## Exercise 4
+## Exercise 3
 
 (Exercise 29.2, Problem 3) As shown in the figure, $OA$, $OB$, $OC$ are three radii of $\odot O$, $\overset{\frown}{AC}=\overset{\frown}{BC}$, and $M$, $N$ are the midpoints of $OA$, $OB$ respectively. Prove that $MC=NC$.
 
-### Solution to Exercise 4
+### Solution to Exercise 3
 
-By Relationship Among Central Angles, Arcs, and Chords.
+By **Theorem 29.2.2 (Relationship Among Central Angles, Arcs, and Chords)**.
 
 Since $\overset{\frown}{AC}=\overset{\frown}{BC}$, we have $\angle AOC=\angle BOC$. Since $M$, $N$ are the midpoints of $OA$, $OB$ respectively, $OM=\frac12 OA=\frac12 OB=ON$. In $\triangle OMC$ and $\triangle ONC$, $OM=ON$, $\angle MOC=\angle NOC$, and $OC$ is common, so $\triangle OMC\cong\triangle ONC$, and hence $MC=NC$. $\blacksquare$
 
-## Exercise 5
+## Exercise 4
 
 (Exercise 29.2, Problem 1) Determine whether the angles in the following figures are inscribed angles, and explain why.
 
-### Solution to Exercise 5
+### Solution to Exercise 4
 
-By Inscribed Angle.
+By **Definition 29.2.2 (Inscribed Angle)**.
 
 An inscribed angle must have its vertex on the circle and both sides intersecting the circle. If the vertex is not on the circle, it is not one; if only one side intersects the circle, it is not one either. $\blacksquare$
 
-## Exercise 6
+## Exercise 5
 
 (Exercise 29.2, Problem 2) As shown in the figure, $OA$, $OB$, $OC$ are all radii of $\odot O$, and $\angle AOB=2\angle BOC$. Prove that $\angle ACB=2\angle BAC$.
 
-### Solution to Exercise 6
+### Solution to Exercise 5
 
-By Inscribed Angle Theorem.
+By **Theorem 29.2.3 (Inscribed Angle Theorem)**.
 
 $\angle ACB$ is the inscribed angle subtended by $\overset{\frown}{AB}$, so $\angle ACB=\frac12\angle AOB$. $\angle BAC$ is the inscribed angle subtended by $\overset{\frown}{BC}$, so $\angle BAC=\frac12\angle BOC$. From $\angle AOB=2\angle BOC$, we get
 
@@ -94,43 +128,43 @@ $$
 
 $\blacksquare$
 
-## Exercise 7
+## Exercise 6
 
 (Exercise 29.2, Problem 3) As shown in the figure, can you use a set square to determine the center of a circular sheet of paper? How many methods are there?
 
-### Solution to Exercise 7
+### Solution to Exercise 6
 
-By Corollary to the Inscribed Angle Theorem.
+By **Corollary 29.2.2 (Corollary to the Inscribed Angle Theorem)**.
 
 Method 1: With the right-angle vertex of the set square at two different points on the circle, draw two chords whose right-angle sides intersect the circle; the chords subtended by the two right-angle sides are diameters, and the intersection of the two diameters is the center.
 
 Method 2: Place the right-angle vertex of the set square on the circle; the two right-angle sides intersect the circle at two points, and joining these two points gives a diameter. Move to another position and draw another diameter; the intersection is the center. $\blacksquare$
 
-## Exercise 8
+## Exercise 7
 
 (Exercise 29.2, Problem 1) As shown in the figure, the diagonals $AC$ and $BD$ of the cyclic quadrilateral $ABCD$ divide its four interior angles into eight angles. Which of these eight angles are equal? Why?
 
-### Solution to Exercise 8
+### Solution to Exercise 7
 
-By Inscribed Angle Theorem.
+By **Theorem 29.2.3 (Inscribed Angle Theorem)**.
 
 Inscribed angles subtended by the same arc are equal. $\angle BAC$ and $\angle BDC$ both subtend $\overset{\frown}{BC}$, so they are equal; $\angle CBD$ and $\angle CAD$ both subtend $\overset{\frown}{CD}$, so they are equal; $\angle ACD$ and $\angle ABD$ both subtend $\overset{\frown}{AD}$, so they are equal; $\angle ADB$ and $\angle ACB$ both subtend $\overset{\frown}{AB}$, so they are equal. $\blacksquare$
 
-## Exercise 9
+## Exercise 8
 
 (Exercise 29.2, Problem 2) As shown in the figure, the quadrilateral $ABCD$ is a quadrilateral inscribed in $\odot O$, and $E$ is a point on the extension of $CB$. If $\angle D=110^\circ$, find the measure of $\angle ABE$.
 
-### Solution to Exercise 9
+### Solution to Exercise 8
 
 By Property of a Cyclic Quadrilateral.
 
 The opposite angles of a cyclic quadrilateral are supplementary, so $\angle ABC+\angle D=180^\circ$, hence $\angle ABC=180^\circ-110^\circ=70^\circ$. Also $E$ lies on the extension of $CB$, so $\angle ABE+\angle ABC=180^\circ$, hence $\angle ABE=110^\circ$. $\blacksquare$
 
-## Exercise 10
+## Exercise 9
 
 (Exercise 29.2, Problem 3) As shown in the figure, the quadrilateral $ABCD$ is a quadrilateral inscribed in $\odot O$, and $AB=AD$. If $\angle C=78^\circ$, find the measure of $\angle ABD$.
 
-### Solution to Exercise 10
+### Solution to Exercise 9
 
 By Property of a Cyclic Quadrilateral.
 
@@ -152,7 +186,7 @@ $\blacksquare$
 
 ### Solution to Problem 1
 
-By Perpendicular Chord Theorem.
+By **Theorem 29.2.1 (Perpendicular Chord Theorem)**.
 
 $OA=OB=1$ and $AB=1$, so $\triangle OAB$ is equilateral, and $\angle AOB=60^\circ$.
 
@@ -178,7 +212,7 @@ $\blacksquare$
 
 ### Solution to Problem 3
 
-By Perpendicular Chord Theorem and Inscribed Angle Theorem.
+By **Theorem 29.2.1 (Perpendicular Chord Theorem)** and **Theorem 29.2.3 (Inscribed Angle Theorem)**.
 
 $OA\perp BC$, so $\overset{\frown}{AB}=\overset{\frown}{AC}$; $\angle AOB$ corresponds to $\overset{\frown}{AB}$, and $\angle ADC$ is the inscribed angle subtended by $\overset{\frown}{AC}$, hence
 
@@ -194,7 +228,7 @@ $\blacksquare$
 
 ### Solution to Problem 4
 
-By Corollary to the Inscribed Angle Theorem, the inscribed angle subtended by a diameter is a right angle.
+By **Corollary 29.2.2 (Corollary to the Inscribed Angle Theorem)**, the inscribed angle subtended by a diameter is a right angle.
 
 When the right-angle vertex of the try-square rests on the arc, the workpiece whose two sides align with the two ends of the diameter is an acceptable semicircular workpiece. $\blacksquare$
 
@@ -214,7 +248,7 @@ The opposite angles of a parallelogram are equal, and the opposite angles of a c
 
 ### Solution to Problem 6
 
-By Perpendicular Chord Theorem.
+By **Theorem 29.2.1 (Perpendicular Chord Theorem)**.
 
 The distance from the center to $AB$ is $d_1=\sqrt{13^2-12^2}=5$; the distance to $CD$ is $d_2=\sqrt{13^2-5^2}=12$. If the two chords are on the same side of the center, the distance is $12-5=7$; if on opposite sides, it is $12+5=17$. $\blacksquare$
 
@@ -224,7 +258,7 @@ The distance from the center to $AB$ is $d_1=\sqrt{13^2-12^2}=5$; the distance t
 
 ### Solution to Problem 7
 
-By Perpendicular Chord Theorem.
+By **Theorem 29.2.1 (Perpendicular Chord Theorem)**.
 
 $MN$ perpendicularly bisects $AB$, so $MN$ passes through the center $O$. Also $AB\parallel CD$, so $MN\perp CD$; by the perpendicular chord theorem, $MN$ bisects $CD$. $\blacksquare$
 
@@ -234,7 +268,7 @@ $MN$ perpendicularly bisects $AB$, so $MN$ passes through the center $O$. Also $
 
 ### Solution to Problem 8
 
-By Perpendicular Chord Theorem.
+By **Theorem 29.2.1 (Perpendicular Chord Theorem)**.
 
 Let the radius be $R$; then $AD=150$ and $OD=R-45$. In $\text{Rt}\triangle OAD$,
 
@@ -250,7 +284,7 @@ Simplifying gives $90R=24525$, so $R=272.5\,\text{m}$. $\blacksquare$
 
 ### Solution to Problem 9
 
-By Relationship Among Central Angles, Arcs, and Chords.
+By **Theorem 29.2.2 (Relationship Among Central Angles, Arcs, and Chords)**.
 
 Since $C$ is the midpoint of $\overset{\frown}{AB}$, $\angle AOC=\angle COB=60^\circ$. $OA=OC$, so $\triangle AOC$ is equilateral and $AC=OA$. Similarly $BC=OB$. Hence $OA=AC=CB=BO$, and the quadrilateral $OACB$ is a rhombus. $\blacksquare$
 
@@ -260,7 +294,7 @@ Since $C$ is the midpoint of $\overset{\frown}{AB}$, $\angle AOC=\angle COB=60^\
 
 ### Solution to Problem 10
 
-By Inscribed Angle Theorem.
+By **Theorem 29.2.3 (Inscribed Angle Theorem)**.
 
 $\angle ABC=\angle APC=60^\circ$ and $\angle BAC=\angle CPB=60^\circ$, so $\angle ACB=60^\circ$, and $\triangle ABC$ is equilateral. $\blacksquare$
 
@@ -270,7 +304,7 @@ $\angle ABC=\angle APC=60^\circ$ and $\angle BAC=\angle CPB=60^\circ$, so $\angl
 
 ### Solution to Problem 11
 
-By Relationship Among Central Angles, Arcs, and Chords.
+By **Theorem 29.2.2 (Relationship Among Central Angles, Arcs, and Chords)**.
 
 $AD=BC$, so $\overset{\frown}{AD}=\overset{\frown}{BC}$. Adding $\overset{\frown}{AC}$ to both gives $\overset{\frown}{ADC}=\overset{\frown}{BCD}$, i.e. $\overset{\frown}{CD}=\overset{\frown}{AB}$, so $AB=CD$. $\blacksquare$
 
@@ -280,7 +314,7 @@ $AD=BC$, so $\overset{\frown}{AD}=\overset{\frown}{BC}$. Adding $\overset{\frown
 
 ### Solution to Problem 12
 
-By Perpendicular Chord Theorem.
+By **Theorem 29.2.1 (Perpendicular Chord Theorem)**.
 
 Let the radius be $R$; then $OM=\sqrt{R^2-\left(AB/2\right)^2}$ and $ON=\sqrt{R^2-\left(CD/2\right)^2}$. When $AB> CD$, we have $\left(AB/2\right)^2> \left(CD/2\right)^2$, so $OM< ON$. $\blacksquare$
 
@@ -290,7 +324,7 @@ Let the radius be $R$; then $OM=\sqrt{R^2-\left(AB/2\right)^2}$ and $ON=\sqrt{R^
 
 ### Solution to Problem 13
 
-By Corollary to the Inscribed Angle Theorem.
+By **Corollary 29.2.2 (Corollary to the Inscribed Angle Theorem)**.
 
 Through $A$ draw $AB\perp MN$ at $B$. In $\text{Rt}\triangle AOB$, $\angle AOB=30^\circ$ and $AO=200$, so $AB=AO\sin30^\circ=100< 200$, and the residential building will be affected by noise.
 
@@ -308,25 +342,25 @@ $\blacksquare$
 
 ### Solution to Problem 14
 
-By Inscribed Angle Theorem.
+By **Theorem 29.2.3 (Inscribed Angle Theorem)**.
 
 Draw a circle with chord $AB$; $\angle ACB$ is the inscribed angle on the shoal boundary. When the ship is outside the circle, $\angle APB< \angle ACB$; when the ship is inside the circle (the shoal), $\angle APB> \angle ACB$. Hence keeping $\angle APB< \angle ACB$ keeps the ship outside the shoal boundary circle. $\blacksquare$
 
-## Exercise 11
+## Exercise 10
 
 (Exercise 29.3, Problem 1) Are two arcs of equal length equal arcs? Explain why.
 
-### Solution to Exercise 11
+### Solution to Exercise 10
 
 By Arc Length Formula.
 
 Not necessarily. Equal arcs require that they be able to coincide in the same circle or equal circles; when two arcs have equal length but lie in circles of different radii, the central angles they subtend differ, so they cannot coincide. $\blacksquare$
 
-## Exercise 12
+## Exercise 11
 
 (Exercise 29.3, Problem 2) As shown in the figure, a bend in a road is a circular arc, the bend is $12\,\text{m}$ long, and the central angle subtended by the arc is $81^\circ$. What is the radius $R$, in meters, of the circle containing this arc?
 
-### Solution to Exercise 12
+### Solution to Exercise 11
 
 By Arc Length Formula.
 
@@ -336,11 +370,11 @@ $$
 
 $\blacksquare$
 
-## Exercise 13
+## Exercise 12
 
 (Exercise 29.3, Problem 3) As shown in the figure, $\triangle ABC$ is an equilateral triangle of side length $a$; $D$, $E$, $F$ are the midpoints of $BC$, $CA$, $AB$ respectively. With the points $A$, $B$, $C$ as centers and radius $\frac{a}{2}$, draw circles. Find the area of the shaded part in the figure.
 
-### Solution to Exercise 13
+### Solution to Exercise 12
 
 By Sector Area Formula.
 
@@ -358,21 +392,21 @@ $$
 
 $\blacksquare$
 
-## Exercise 14
+## Exercise 13
 
 (Exercise 29.3, Problem 1) The base radius of a cone is $6$, and the generatrix length is $18$. Find the central angle of its lateral development.
 
-### Solution to Exercise 14
+### Solution to Exercise 13
 
 By Lateral and Total Surface Area of a Cone.
 
 The base circumference is $2\pi\cdot6=12\pi$, which is the arc length of the sector in the lateral development. The sector radius is the generatrix $18$; by the arc length formula, $12\pi=\frac{n\pi\cdot18}{180}$, giving $n=120^\circ$. $\blacksquare$
 
-## Exercise 15
+## Exercise 14
 
 (Exercise 29.3, Problem 2) As shown in the figure, the base circle of a conical chimney cap has diameter $80\,\text{cm}$, and the generatrix length is $50\,\text{cm}$. To make $100$ such chimney caps, at least how many square meters of sheet iron are needed?
 
-### Solution to Exercise 15
+### Solution to Exercise 14
 
 By Lateral and Total Surface Area of a Cone.
 

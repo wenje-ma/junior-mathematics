@@ -1,6 +1,108 @@
 # week6
 
+> **Definition 1.2.4 (Opposite Numbers)**
+> 
+> Two numbers that differ only in sign are opposites of each other; the opposite number of $0$ is $0$.
+
+> **Definition 1.2.6 (Algebraic Meaning of Absolute Value)**
+> 
+> The absolute value of a positive number is itself; the absolute value of a negative number is its opposite number; the absolute value of $0$ is $0$.
+
+> **Definition 1.2.7 (Comparing the Magnitude of Rational Numbers)**
+> 
+> A positive number is greater than $0$, $0$ is greater than a negative number, and a positive number is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
+
+> **Definition 2.1.1 (Rules for Addition of Rational Numbers)**
+> 
+> When two numbers of the same sign are added, the sum takes the same sign; when two numbers of opposite signs are added, the sum takes the sign of the addend with the larger absolute value; adding two numbers that are opposites of each other gives $0$.
+
+> **Definition 2.1.4 (Rules for Subtraction of Rational Numbers)**
+> 
+> Subtracting a number is equivalent to adding the opposite number of that number.
+
+> **Definition 2.2.1 (Rules for Multiplication of Rational Numbers)**
+> 
+> When two numbers are multiplied, like signs give positive and opposite signs give negative, and the absolute value of the product equals the product of the absolute values of the factors.
+
+> **Definition 2.2.2 (Reciprocal)**
+> 
+> Two numbers whose product is $1$ are reciprocals of each other.
+
+> **Definition 2.2.7 (Rules for Division of Rational Numbers)**
+> 
+> Dividing by a number not equal to $0$ is equivalent to multiplying by the reciprocal of that number.
+
+> **Definition 2.3.1 (Powers)**
+> 
+> The operation of finding the product of $n$ identical factors is called exponentiation, and the result of exponentiation is called a power. In $a^{n}$, $a$ is called the base and $n$ is called the exponent.
+
+> **Definition 2.3.2 (Sign Rules for Powers)**
+> 
+> An odd power of a negative number is negative, and an even power of a negative number is positive; any positive-integer power of a positive number is positive; any positive-integer power of $0$ is $0$.
+
+> **Definition 2.3.3 (Order of Mixed Operations)**
+> 
+> First exponentiation, then multiplication and division, and finally addition and subtraction; operations at the same level from left to right; if there are parentheses, first carry out the operations inside the parentheses.
+
+> **Definition 2.3.4 (Scientific Notation)**
+> 
+> Expressing a number greater than $10$ in the form $a\times 10^{n}$ ($1\le a< 10$, where $n$ is a positive integer).
+
+> **Definition 2.3.5 (Approximate Numbers)**
+> 
+> When taking an approximate number by the rounding method, one says that the approximate number is accurate to the digit to which it is rounded.
+
+> **Definition 3.1.1 (Algebraic Expressions)**
+> 
+> An expression formed by connecting numbers or letters representing numbers with operation symbols is called an algebraic expression. A single number or letter alone is also an algebraic expression.
+
+> **Definition 3.1.2 (Forming Algebraic Expressions)**
+> 
+> Expressing the quantitative relationships in a problem as expressions containing numbers, letters, and operation symbols.
+
+> **Definition 3.1.3 (Quantities in Inverse Proportion)**
+> 
+> Two related quantities: if one quantity changes and the other changes along with it, and the product of the two quantities is constant, then the two quantities are called quantities in inverse proportion, and the relationship between them is called an inverse proportion relationship. If the letters $x$ and $y$ are used to represent the two related quantities, and $k$ is used to represent their product ($k$ is a fixed value, and $k\ne 0$), then the inverse proportion relationship can be expressed as $xy=k$.
+
 ## Review Problem 1
+
+(Review Problem, Review and Consolidation, Problem 3) What is the sum of two numbers that are opposites of each other? What is the product of two numbers that are reciprocals of each other?
+
+### Solution to Review Problem 1
+
+By **Definition 1.2.4 (Opposite Numbers)** and **Definition 2.2.2 (Reciprocal)**.
+
+For two numbers that are opposites of each other, such as $a$ and $-a$, their sum is $a+\left(-a\right)=0$, so the sum of two numbers that are opposites of each other is $0$.
+
+For two numbers that are reciprocals of each other, by **Definition 2.2.2 (Reciprocal)**, their product is $1$. $\blacksquare$
+
+## Review Problem 2
+
+(Review Problem, Review and Consolidation, Problem 4) Express the following numbers in scientific notation:
+
+(1) $100000000$; (2) $4500000$; (3) $692400000000$.
+
+### Solution to Review Problem 2
+
+By **Definition 2.3.4 (Scientific Notation)**.
+
+(1) $100000000=1\times 10^{8}$; (2) $4500000=4.5\times 10^{6}$; (3) $692400000000=6.924\times 10^{11}$. $\blacksquare$
+
+## Review Problem 3
+
+(Review Problem, Review and Consolidation, Problem 5) Take approximate numbers of the following by rounding:
+
+(1) $245.635$ (accurate to $0.1$); (2) $175.65$ (accurate to the ones place);
+
+(3) $12.004$ (accurate to the hundredths place); (4) $6.5378$ (accurate to $0.01$).
+
+### Solution to Review Problem 3
+
+By **Definition 2.3.5 (Approximate Numbers)**.
+
+(1) $245.635\approx 245.6$; (2) $175.65\approx 176$; (3) $12.004\approx 12.00$; (4) $6.5378\approx 6.54$. $\blacksquare$
+
+## Review Problem 4
 
 (Review Problem, Review and Consolidation, Problem 6) Compute:
 
@@ -8,21 +110,21 @@
 
 (2) $\left|-2-\left(-3\right)\right|$.
 
-### Solution to Review Problem 1
+### Solution to Review Problem 4
 
-By Algebraic Meaning of Absolute Value.
+By **Definition 1.2.6 (Algebraic Meaning of Absolute Value)**.
 
 (1) The original expression $=-2-3=-5$.
 
 (2) The original expression $=\left|-2+3\right|=\left|1\right|=1$. $\blacksquare$
 
-## Review Problem 2
+## Review Problem 5
 
 (Review Problem, Comprehensive Application, Problem 7) Three football teams, red, yellow, and blue, play matches. The results are: the red team beats the yellow team with a score of $4:2$; the blue team beats the yellow team with a score of $3:1$; the red team loses to the blue team with a score of $2:3$. If goals scored are recorded as positive and goals conceded as negative, what is the goal difference of each of the three teams?
 
-### Solution to Review Problem 2
+### Solution to Review Problem 5
 
-By Rules for Addition of Rational Numbers, the goal difference is the sum of goals scored and goals conceded.
+By **Definition 2.1.1 (Rules for Addition of Rational Numbers)**, the goal difference is the sum of goals scored and goals conceded.
 
 Red team: goals scored $4+2=6$, goals conceded $2+3=5$, goal difference $=6+\left(-5\right)=1$.
 
@@ -32,7 +134,7 @@ Blue team: goals scored $3+3=6$, goals conceded $1+2=3$, goal difference $=6+\le
 
 Hence the red team has a goal difference of $1$, the yellow team $-4$, and the blue team $3$. $\blacksquare$
 
-## Review Problem 3
+## Review Problem 6
 
 (Review Problem, Comprehensive Application, Problem 8) The following are the mathematics test scores of ten students:
 
@@ -40,61 +142,61 @@ $$82,\ 83,\ 78,\ 66,\ 95,\ 75,\ 61,\ 93,\ 82,\ 81.$$
 
 First estimate their average score, and then compute the average score on that basis, thereby checking your ability to estimate.
 
-### Solution to Review Problem 3
+### Solution to Review Problem 6
 
-By Rules for Division of Rational Numbers, the average score is the total score divided by the number of students.
+By **Definition 2.2.7 (Rules for Division of Rational Numbers)**, the average score is the total score divided by the number of students.
 
 The total score $=82+83+78+66+95+75+61+93+82+81=796$. The average score $=796\div 10=79.6$ points. The scores are mostly concentrated in the $70\sim 90$ point range, estimated at about $80$ points, which is close to the computed result of $79.6$ points. $\blacksquare$
 
-## Review Problem 4
+## Review Problem 7
 
 (Review Problem, Comprehensive Application, Problem 9) The profit/loss situation of a stationery store over a week is shown in the table below (profit recorded as positive, unit: yuan). Monday $-27.8$, Tuesday $-70.3$, Wednesday $200$, Thursday $138.1$, Friday $-8$, Saturday $\;\_\_\;$, Sunday $458$, total $188$. The profit/loss figure for Saturday in the table has been obscured by ink. Please compute the profit/loss figure for Saturday, and state whether Saturday was a profit or a loss and for what amount.
 
-### Solution to Review Problem 4
+### Solution to Review Problem 7
 
-By Rules for Addition of Rational Numbers, the sum of the profit/loss over the seven days equals the total of $188$ yuan.
+By **Definition 2.1.1 (Rules for Addition of Rational Numbers)**, the sum of the profit/loss over the seven days equals the total of $188$ yuan.
 
 The sum of the six known days is $-27.8-70.3+200+138.1-8+458=690$. Hence the profit/loss figure for Saturday is $188-690=-502$.
 
 The result is negative, so Saturday was a loss, in the amount of $502$ yuan. $\blacksquare$
 
-## Review Problem 5
+## Review Problem 8
 
 (Review Problem, Comprehensive Application, Problem 10) A track patrol officer patrols and maintains an east-west railway. Starting from his station, he first walks $7\ \text{km}$ eastward, then another $3\ \text{km}$ eastward, and then turns back and walks $11.5\ \text{km}$ westward. In which direction is he from his station at this point? How far is he from his station, in kilometers?
 
-### Solution to Review Problem 5
+### Solution to Review Problem 8
 
-By Rules for Addition of Rational Numbers, eastward is positive and westward is negative.
+By **Definition 2.1.1 (Rules for Addition of Rational Numbers)**, eastward is positive and westward is negative.
 
 $$7+3-11.5=-1.5.$$
 
 The result is negative, so at this point he is west of his station, and his distance from the station is $1.5\ \text{km}$. $\blacksquare$
 
-## Review Problem 6
+## Review Problem 9
 
 (Review Problem, Comprehensive Application, Problem 11) In the range $0\sim 40\,^\circ\text{C}$, for each $1\,^\circ\text{C}$ rise in temperature, a certain metal wire elongates by about $0.002\ \text{mm}$; conversely, for each $1\,^\circ\text{C}$ drop in temperature, the metal wire shortens by about $0.002\ \text{mm}$. This metal wire at $20\,^\circ\text{C}$ is heated to $30\,^\circ\text{C}$ and then cooled down to $5\,^\circ\text{C}$. What change did the length of the metal wire undergo? By about how many millimeters did the final length elongate relative to the original length?
 
-### Solution to Review Problem 6
+### Solution to Review Problem 9
 
-By Rules for Multiplication of Rational Numbers.
+By **Definition 2.2.1 (Rules for Multiplication of Rational Numbers)**.
 
 Heating from $20\,^\circ\text{C}$ to $30\,^\circ\text{C}$ raises the temperature by $10\,^\circ\text{C}$, elongating $10\times 0.002=0.02\ \text{mm}$; then cooling from $30\,^\circ\text{C}$ to $5\,^\circ\text{C}$ lowers the temperature by $25\,^\circ\text{C}$, shortening $25\times 0.002=0.05\ \text{mm}$.
 
 The total change is $0.02-0.05=-0.03\ \text{mm}$, so the final length is shortened by about $0.03\ \text{mm}$ relative to the original length. $\blacksquare$
 
-## Review Problem 7
+## Review Problem 10
 
 (Review Problem, Comprehensive Application, Problem 12) Over the year, the distance between the Earth and the Sun varies with time. The $1$ astronomical unit is the average distance between the Earth and the Sun, approximately $1.496$ hundred million kilometers. Express, in scientific notation, how many kilometers the $1$ astronomical unit is.
 
-### Solution to Review Problem 7
+### Solution to Review Problem 10
 
-By Scientific Notation.
+By **Definition 2.3.4 (Scientific Notation)**.
 
 $$1.496\text{ 亿千米}=149600000\ \text{km}=1.496\times 10^{8}\ \text{km}.$$
 
 Hence the $1$ astronomical unit is $1.496\times 10^{8}\ \text{km}$. $\blacksquare$
 
-## Review Problem 8
+## Review Problem 11
 
 (Review Problem, Extension and Exploration, Problem 13) In connection with operations on concrete numbers, generalize through special cases, and then compare the magnitudes of the following:
 
@@ -102,15 +204,15 @@ Hence the $1$ astronomical unit is $1.496\times 10^{8}\ \text{km}$. $\blacksquar
 
 (2) a negative number $b$ greater than $-1$, the square of $b$, the cube of $b$.
 
-### Solution to Review Problem 8
+### Solution to Review Problem 11
 
-By Powers and Comparing the Magnitude of Rational Numbers.
+By **Definition 2.3.1 (Powers)** and **Definition 1.2.7 (Comparing the Magnitude of Rational Numbers)**.
 
 (1) Take $a=\frac{1}{2}$; then $a^{2}=\frac{1}{4}$ and $a^{3}=\frac{1}{8}$. Since $\frac{1}{8}< \frac{1}{4}< \frac{1}{2}$, we get $a^{3}< a^{2}< a$.
 
 (2) Take $b=-\frac{1}{2}$; then $b^{2}=\frac{1}{4}$ and $b^{3}=-\frac{1}{8}$. Since $-\frac{1}{2}< -\frac{1}{8}< \frac{1}{4}$, we get $b< b^{3}< b^{2}$. $\blacksquare$
 
-## Review Problem 9
+## Review Problem 12
 
 (Review Problem, Extension and Exploration, Problem 14) In connection with concrete numbers, generalize through special cases, and then determine whether the following statements are correct. If you think they are correct, give the reason; if you think they are wrong, give a counterexample.
 
@@ -120,15 +222,15 @@ By Powers and Comparing the Magnitude of Rational Numbers.
 
 (3) if $a$ is greater than $b$, then the reciprocal of $a$ is less than the reciprocal of $b$.
 
-### Solution to Review Problem 9
+### Solution to Review Problem 12
 
-(1) Wrong. By Opposite Numbers, the opposite number of $0$ is $0$, that is, $0$ equals its opposite number.
+(1) Wrong. By **Definition 1.2.4 (Opposite Numbers)**, the opposite number of $0$ is $0$, that is, $0$ equals its opposite number.
 
-(2) Correct. By Sign Rules for Powers, the positive even powers of the two opposite numbers $a$ and $-a$ are both positive and have the same absolute value, so $a^{2n}=\left(-a\right)^{2n}$.
+(2) Correct. By **Definition 2.3.2 (Sign Rules for Powers)**, the positive even powers of the two opposite numbers $a$ and $-a$ are both positive and have the same absolute value, so $a^{2n}=\left(-a\right)^{2n}$.
 
 (3) Wrong. Counterexample: $a=1$, $b=-1$; we have $a> b$, but $\frac{1}{a}=1$ and $\frac{1}{b}=-1$, and at this point $\frac{1}{a}> \frac{1}{b}$, so the original statement does not hold. $\blacksquare$
 
-## Review Problem 10
+## Review Problem 13
 
 (Review Problem, Extension and Exploration, Problem 15) Use a calculator to compute the following expressions, and write the results on the blanks:
 
@@ -136,7 +238,7 @@ $$1\times 1=\;\_\_\;;\quad 11\times 11=\;\_\_\;;\quad 111\times 111=\;\_\_\;;\qu
 
 (1) What did you discover? (2) Without a calculator, can you directly write down the result of $111111111\times 111111111$?
 
-### Solution to Review Problem 10
+### Solution to Review Problem 13
 
 By computation,
 
@@ -156,7 +258,7 @@ $\blacksquare$
 
 ### Solution to Inquiry 1
 
-By Powers, binary places have base $2$, and from right to left are respectively $2^{0}$, $2^{1}$, $2^{2}$, $2^{3}$.
+By **Definition 2.3.1 (Powers)**, binary places have base $2$, and from right to left are respectively $2^{0}$, $2^{1}$, $2^{2}$, $2^{3}$.
 
 $$\left(1011\right)_{2}=1\times 2^{3}+0\times 2^{2}+1\times 2^{1}+1\times 2^{0}=8+0+2+1=11.$$
 
@@ -168,7 +270,7 @@ Hence $\left(1011\right)_{2}=11$. $\blacksquare$
 
 ### Solution to Inquiry 2
 
-By Powers.
+By **Definition 2.3.1 (Powers)**.
 
 Converting to binary: $89=64+16+8+1=2^{6}+2^{4}+2^{3}+2^{0}$, so
 
@@ -186,7 +288,7 @@ $\blacksquare$
 
 ### Solution to Inquiry 3
 
-By Powers, any base-$k$ number $\left(a_{n}a_{n-1}\cdots a_{1}a_{0}\right)_{k}$ can be written as
+By **Definition 2.3.1 (Powers)**, any base-$k$ number $\left(a_{n}a_{n-1}\cdots a_{1}a_{0}\right)_{k}$ can be written as
 
 $$a_{n}k^{n}+a_{n-1}k^{n-1}+\cdots+a_{1}k+a_{0}.$$
 
@@ -214,7 +316,7 @@ Hence $\left(10010\right)_{2}+\left(111\right)_{2}=\left(11001\right)_{2}=25$. $
 
 (1) $45+23=68$.
 
-(2) By Powers, $45=32+8+4+1=\left(101101\right)_{2}$ and $23=16+4+2+1=\left(10111\right)_{2}$. Adding in binary:
+(2) By **Definition 2.3.1 (Powers)**, $45=32+8+4+1=\left(101101\right)_{2}$ and $23=16+4+2+1=\left(10111\right)_{2}$. Adding in binary:
 
 $$\begin{array}{r} 101101\\ +\quad 10111\\ \hline 1000100\end{array}$$
 
@@ -244,7 +346,7 @@ Base sixty carries one when reaching sixty, that is, when a place reaches $60$, 
 
 ### Solution to Exercise 1
 
-By Forming Algebraic Expressions.
+By **Definition 3.1.2 (Forming Algebraic Expressions)**.
 
 (1) $6$ packages have $10\times 6=60$ volumes, and $n$ packages have $10n$ volumes.
 
@@ -262,7 +364,7 @@ By Forming Algebraic Expressions.
 
 ### Solution to Exercise 2
 
-By Algebraic Expressions.
+By **Definition 3.1.1 (Algebraic Expressions)**.
 
 (1) $2a+3c$ means the sum of $2$ times $a$ and $3$ times $c$.
 
@@ -278,7 +380,7 @@ By Algebraic Expressions.
 
 ### Solution to Exercise 3
 
-By Algebraic Expressions.
+By **Definition 3.1.1 (Algebraic Expressions)**.
 
 For example: having $100$ yuan, each pencil costs $2$ yuan; after buying $x$ pencils, $\left(100-2x\right)$ yuan remain. Or: a rope of length $100\ \text{cm}$, each time cutting off $2\ \text{cm}$; after cutting $x$ times, $\left(100-2x\right)\ \text{cm}$ remain. $\blacksquare$
 
@@ -294,7 +396,7 @@ For example: having $100$ yuan, each pencil costs $2$ yuan; after buying $x$ pen
 
 ### Solution to Exercise 4
 
-By Forming Algebraic Expressions.
+By **Definition 3.1.2 (Forming Algebraic Expressions)**.
 
 (1) $2$ times $a$ is $2a$, and the number $1$ greater than it is $2a+1$.
 
@@ -308,7 +410,7 @@ By Forming Algebraic Expressions.
 
 ### Solution to Exercise 5
 
-By Forming Algebraic Expressions, revenue $=$ unit price $\times$ quantity.
+By **Definition 3.1.2 (Forming Algebraic Expressions)**, revenue $=$ unit price $\times$ quantity.
 
 $$4.8\times m=4.8m.$$
 
@@ -320,7 +422,7 @@ Hence the revenue from selling this commodity this month is $4.8m$ yuan. $\black
 
 ### Solution to Exercise 6
 
-By Forming Algebraic Expressions.
+By **Definition 3.1.2 (Forming Algebraic Expressions)**.
 
 The first field yields $ma\ \text{kg}$ of cotton, and the second yields $nb\ \text{kg}$. Hence the total cotton yield of the two fields is $\left(ma+nb\right)\ \text{kg}$. $\blacksquare$
 
@@ -330,7 +432,7 @@ The first field yields $ma\ \text{kg}$ of cotton, and the second yields $nb\ \te
 
 ### Solution to Exercise 7
 
-By Forming Algebraic Expressions.
+By **Definition 3.1.2 (Forming Algebraic Expressions)**.
 
 The area of the large square is $a^{2}\ \text{mm}^{2}$, and the area of the small square is $b^{2}\ \text{mm}^{2}$. The area of the remaining iron sheet is $\left(a^{2}-b^{2}\right)\ \text{mm}^{2}$. $\blacksquare$
 
@@ -340,9 +442,9 @@ The area of the large square is $a^{2}\ \text{mm}^{2}$, and the area of the smal
 
 ### Solution to Exercise 8
 
-By Quantities in Inverse Proportion.
+By **Definition 3.1.3 (Quantities in Inverse Proportion)**.
 
-Distance $=$ speed $\times$ time. When the distance is fixed, the product of speed and time equals the distance (a fixed value); by Quantities in Inverse Proportion, the average speed and time are in an inverse proportion relationship. $\blacksquare$
+Distance $=$ speed $\times$ time. When the distance is fixed, the product of speed and time equals the distance (a fixed value); by **Definition 3.1.3 (Quantities in Inverse Proportion)**, the average speed and time are in an inverse proportion relationship. $\blacksquare$
 
 ## Exercise 9
 
@@ -354,13 +456,13 @@ Tons shipped per day: $500$, $250$, $100$, $50$. Number of days of shipping: $1$
 
 ### Solution to Exercise 9
 
-By Quantities in Inverse Proportion.
+By **Definition 3.1.3 (Quantities in Inverse Proportion)**.
 
 (1) Since $500\times 1=250\times 2=100\times 5=50\times 10=500$, the batch of goods totals $500$ tons.
 
 (2) The larger the number of tons shipped per day, the smaller the number of days of shipping.
 
-(3) Since $at=500$, we have $t=\frac{500}{a}$. By Quantities in Inverse Proportion, the product of $t$ and $a$ is constant, so $t$ and $a$ are in an inverse proportion relationship. $\blacksquare$
+(3) Since $at=500$, we have $t=\frac{500}{a}$. By **Definition 3.1.3 (Quantities in Inverse Proportion)**, the product of $t$ and $a$ is constant, so $t$ and $a$ are in an inverse proportion relationship. $\blacksquare$
 
 ## Problem 1
 
@@ -370,7 +472,7 @@ By Quantities in Inverse Proportion.
 
 ### Solution to Problem 1
 
-By Forming Algebraic Expressions.
+By **Definition 3.1.2 (Forming Algebraic Expressions)**.
 
 (1) $2m$; (2) $\frac{2}{3}n$; (3) $2x-1$; (4) $\frac{a^{3}}{b}$. $\blacksquare$
 
@@ -382,7 +484,7 @@ By Forming Algebraic Expressions.
 
 ### Solution to Problem 2
 
-By Algebraic Expressions.
+By **Definition 3.1.1 (Algebraic Expressions)**.
 
 (1) $3x+6$ means the sum of $3$ times $x$ and $6$.
 
@@ -406,7 +508,7 @@ By Algebraic Expressions.
 
 ### Solution to Problem 3
 
-By Forming Algebraic Expressions.
+By **Definition 3.1.2 (Forming Algebraic Expressions)**.
 
 (1) A cube has $6$ faces, each of area $a^{2}$, so the surface area is $6a^{2}$.
 
@@ -428,7 +530,7 @@ By Forming Algebraic Expressions.
 
 ### Solution to Problem 4
 
-By Quantities in Inverse Proportion.
+By **Definition 3.1.3 (Quantities in Inverse Proportion)**.
 
 (1) Number per row $\times$ number of rows $=200$ (constant), so the number of people per row and the number of rows are in an inverse proportion relationship.
 
@@ -446,52 +548,10 @@ Number of candies per bag: $10$, $12$, $18$, $20$, $24$. Total number of bags: $
 
 ### Solution to Problem 5
 
-By Quantities in Inverse Proportion.
+By **Definition 3.1.3 (Quantities in Inverse Proportion)**.
 
 (1) Since $10\times 360=12\times 300=18\times 200=20\times 180=24\times 150=3600$, the batch of fruit candies totals $3600$ candies.
 
 (2) The larger the number of candies per bag, the smaller the total number of bags.
 
-(3) Since $mn=3600$, we have $n=\frac{3600}{m}$. By Quantities in Inverse Proportion, the product of $n$ and $m$ is constant, so $n$ and $m$ are in an inverse proportion relationship. $\blacksquare$
-
-## Problem 6
-
-(Exercise 3.1, Comprehensive Application, Problem 6) (1) As shown in the figure, a hand-made beading work is strung from $5$ red beads and $5$ black beads. Red beads cost $a$ yuan each, and black beads cost $b$ yuan each. How much does it cost to buy all these beads? (2) Workshops A and B produce the same chemical product. Workshop A produces $a\ \text{t}$ per day, and Workshop B produces $b\ \text{t}$ per day. If both workshops produce for $5$ days, how many tons of chemical product are produced in total?
-
-### Solution to Problem 6
-
-By Forming Algebraic Expressions.
-
-(1) The red beads cost $5a$ yuan, and the black beads cost $5b$ yuan, for a total cost of $\left(5a+5b\right)$ yuan.
-
-(2) The two workshops together produce $\left(a+b\right)\ \text{t}$ per day, and in $5$ days produce $5\left(a+b\right)\ \text{t}$ in total. $\blacksquare$
-
-## Problem 7
-
-(Exercise 3.1, Comprehensive Application, Problem 7) State what is different in the meaning of each of the following pairs of algebraic expressions, and give examples of the quantitative relationships in practical problems that they represent:
-
-(1) $2m-1$ and $2\left(m-1\right)$;
-
-(2) $\frac{1}{2}a$ and $\frac{1}{2}+a$.
-
-### Solution to Problem 7
-
-By Algebraic Expressions.
-
-(1) $2m-1$ is $2$ times $m$ minus $1$; $2\left(m-1\right)$ is $2$ times the difference between $m$ and $1$. Example: if $m$ is a certain number, $2m-1$ is $1$ less than twice it; $2\left(m-1\right)$ first subtracts and then multiplies by $2$.
-
-(2) $\frac{1}{2}a$ is half of $a$; $\frac{1}{2}+a$ is the sum of $a$ and $\frac{1}{2}$. Example: $\frac{1}{2}a$ represents half of $a$ yuan, and $\frac{1}{2}+a$ represents the quantity that is $\frac{1}{2}$ more than $a$. $\blacksquare$
-
-## Problem 8
-
-(Exercise 3.1, Comprehensive Application, Problem 8) Observe a sequence of numbers: $5$, $10$, $15$, $20$, $25$, $\cdots$.
-
-(1) What pattern do you think this sequence might follow? (2) According to the pattern, express the $n$-th number in an algebraic expression.
-
-### Solution to Problem 8
-
-By Forming Algebraic Expressions.
-
-(1) This sequence is in turn the $1$-fold, $2$-fold, $3$-fold, $4$-fold, and $5$-fold of $5$, that is, each number is $5$ greater than the previous one.
-
-(2) The $n$-th number is $5n$. $\blacksquare$
+(3) Since $mn=3600$, we have $n=\frac{3600}{m}$. By **Definition 3.1.3 (Quantities in Inverse Proportion)**, the product of $n$ and $m$ is constant, so $n$ and $m$ are in an inverse proportion relationship. $\blacksquare$

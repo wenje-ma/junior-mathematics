@@ -1,5 +1,179 @@
 # week28
 
+> **Definition 12.1.1 (Comprehensive Survey)**
+> 
+> A survey conducted on the entire population of objects.
+
+> **Definition 12.1.2 (Population and Individual)**
+> 
+> The entire set of objects to be investigated is called the population; each object under investigation that makes up the population is called an individual.
+
+> **Definition 12.1.3 (Sample Survey)**
+> 
+> Surveying only a part of the objects and then inferring the situation of the entire population from the survey data.
+
+> **Definition 12.1.4 (Sample)**
+> 
+> A part of the individuals drawn from the population.
+
+> **Definition 12.1.6 (Simple Random Sampling)**
+> 
+> Every individual in the population has an equal chance of being selected.
+
+> **Definition 12.2.1 (Pie Chart)**
+> 
+> A circle represents the population, each sector represents a part of the population, and the size of the sector reflects that part's percentage of the population; the sector's central angle $=360^\circ\times$ percentage.
+
+> **Definition 12.2.2 (Bar Chart)**
+> 
+> The height of a small rectangle represents the quantity of each category, making it easy to compare the sizes of the data.
+
+> **Definition 12.2.3 (Line Chart)**
+> 
+> The rise or fall of a broken line represents the change of data over time.
+
+> **Definition 12.2.4 (Frequency and Relative Frequency)**
+> 
+> The number of data falling in each group is called the frequency; the ratio of the frequency to the total number of data is called the relative frequency.
+
+> **Definition 12.2.5 (Class Width and Number of Classes)**
+> 
+> The distance between the two endpoints of each group is called the class width; the number of groups is called the number of classes. Dividing the range by the class width, taking the integer and adding $1$ gives the number of classes.
+
+> **Definition 12.2.6 (Frequency Distribution Histogram)**
+> 
+> The horizontal axis represents the data groups and the vertical axis represents the frequency, using the area of a small rectangle (the height when equally spaced) to reflect the frequency of each group.
+
+> **Definition 12.2.7 (Trend Chart)**
+> 
+> A statistical chart using a line to describe the relationship between one quantity and another.
+
+> **Formula 12.5.1 (Daylight Duration)**
+> 
+> Daylight duration $=$ (noon time $-$ sunrise time) $\times2=$ (sunset time $-$ noon time) $\times2$.
+
+> **Definition 13.1.1 (Triangle)**
+> 
+> The figure formed by three segments not on the same line, joined end to end in order, is called a triangle.
+
+> **Definition 13.1.2 (Sides, Vertices and Interior Angles)**
+> 
+> The segments making up a triangle are called the sides of the triangle; the common endpoint of two adjacent sides is called a vertex of the triangle; the angle formed by two adjacent sides is called an interior angle of the triangle, briefly an angle of the triangle. A triangle with vertices $A,B,C$ is denoted $\triangle ABC$.
+
+> **Definition 13.1.3 (Isosceles Triangle)**
+> 
+> A triangle with two equal sides is called an isosceles triangle; the two equal sides are called the legs, the other side is called the base, the angle between the two legs is called the vertex angle, and the angle between a leg and the base is called a base angle.
+
+> **Definition 13.1.4 (Equilateral Triangle)**
+> 
+> A triangle with all three sides equal is called an equilateral triangle; an equilateral triangle is a special isosceles triangle.
+
+> **Definition 13.1.5 (Classification of Triangles by Sides)**
+> 
+> By the equality relation of sides, triangles are first divided into scalene triangles and isosceles triangles; isosceles triangles are further divided into isosceles triangles whose base and legs are unequal and equilateral triangles.
+
+## Problem 1
+
+(Exercise 12.2, Review and Consolidation, Problem 3) China's automobile sales (ten thousand vehicles) from 2016 to 2022 were $2802.8,2887.9,2808.1,2576.9,2531.1,2627.5,2686.4$; new-energy vehicle sales were $50.7,77.7,125.6,120.6,136.7,352.1,688.7$. Choose an appropriate statistical chart to describe the changes and the trend of the new-energy proportion.
+
+### Solution to Problem 1
+
+Use a composite line chart to describe total automobile sales and new-energy sales, then a line chart to describe the new-energy proportion $\frac{\text{新能源}}{\text{总销量}}$: about $1.8\%,2.7\%,4.5\%,4.7\%,5.4\%,13.4\%,25.6\%$. It can be seen that the proportion of new-energy vehicle sales has risen rapidly since 2020. $\blacksquare$
+
+## Problem 2
+
+(Exercise 12.2, Review and Consolidation, Problem 4) Frequency table of the number of jump-rope skips in $60$ seconds for the whole class: $60\le x< 80$ frequency $3$; $80\le x< 100$ frequency $4$; $100\le x< 120$ frequency $17$; $120\le x< 140$ frequency $9$; $140\le x< 160$ frequency $8$; $160\le x< 180$ frequency $6$; $180\le x< 200$ frequency $1$.
+
+(1) How many students are in the class?
+
+(2) What are the class width and the number of classes?
+
+(3) How many students are in the range $120\le x< 160$? What percentage?
+
+(4) Draw the histogram.
+
+(5) Evaluate the jump-rope performance.
+
+### Solution to Problem 2
+
+(1) The total number is $3+4+17+9+8+6+1=48$.
+
+(2) Class width $20$, number of classes $7$.
+
+(3) $9+8=17$ students, accounting for $\frac{17}{48}\approx35.4\%$.
+
+(4) The histogram uses $60,80,\ldots,200$ as the horizontal grouping points and the vertical axis as frequency.
+
+(5) Most students have between $100\sim140$ skips, medium performance; a few exceed $180$ skips. $\blacksquare$
+
+## Problem 3
+
+(Exercise 12.2, Comprehensive Application, Problem 5) Five years ago, the income proportions of Lvshui village were: planting $38\%$, breeding $24\%$, tertiary industry $30\%$, other $8\%$; now: planting $11\%$, breeding $27\%$, tertiary industry $56\%$, other $6\%$.
+
+(1) Which items' income proportions increased and which decreased?
+
+(2) Following the current trend, which industry may become the pillar industry?
+
+### Solution to Problem 3
+
+(1) Planting $11\%-38\%=-27\%$, decreased; breeding $27\%-24\%=+3\%$, increased; tertiary industry $56\%-30\%=+26\%$, increased; other $6\%-8\%=-2\%$, decreased.
+
+(2) The tertiary industry already accounts for $56\%$ and grows fastest, so it may become the pillar industry. $\blacksquare$
+
+## Problem 4
+
+(Exercise 12.2, Comprehensive Application, Problem 6) Province A has $150$ ten-thousand urban junior-high students and $13$ ten-thousand rural ones; Province B has $211$ ten-thousand urban and $40$ ten-thousand rural. Two kinds of composite bar charts.
+
+(1) Which chart better reflects the total number of junior-high students in the two provinces?
+
+(2) Which chart better compares the urban and rural numbers within Province A (or B)?
+
+### Solution to Problem 4
+
+(1) A stacked composite bar chart directly shows the totals of the two provinces, making it easier to compare totals.
+
+(2) A side-by-side composite bar chart shows the urban and rural numbers within a province side by side, making it easier to compare. $\blacksquare$
+
+## Problem 5
+
+(Exercise 12.2, Comprehensive Application, Problem 7) A flour wholesaler's $48$ weeks of sales (t): from $18.5$ to $24.4$. Group appropriately and draw a frequency distribution histogram, and analyze how many tons to buy each week.
+
+### Solution to Problem 5
+
+The range is $24.4-18.5=5.9$; take a class width of $0.5$ and divide into about $12$ groups. Most weeks' sales fall between $20.0\sim23.0\ \text{t}$. Hence buying about $21\sim22\ \text{t}$ of flour each week is appropriate, meeting demand without causing backlog. $\blacksquare$
+
+## Problem 6
+
+(Exercise 12.2, Comprehensive Application, Problem 8) China's GDP (hundred million yuan) from 2013 to 2022 was $592963,643563,688858,746395,832036,919281,986515,1013567,1149237,1210207$. Use a trend chart to describe and predict the 2023 GDP.
+
+### Solution to Problem 6
+
+Take the year as the horizontal axis and GDP as the vertical axis; plot the points and draw the trend line. The overall trend is upward; extrapolating from the trend line, the 2023 GDP is about $128$ trillion yuan. $\blacksquare$
+
+## Problem 7
+
+(Exercise 12.2, Extension and Exploration, Problem 9) The export value of high-tech products (hundred million US dollars) every five years from 1995 to 2020 was $101,370,2182,4924,6552,7763$; the percentage of total goods exports was $6.8\%,14.8\%,28.6\%,31.2\%,28.8\%,30.0\%$. Draw a statistical chart to show the development trend.
+
+### Solution to Problem 7
+
+Use a composite line chart: one line shows the export value, with a rapidly rising trend; the other shows the proportion, which rose from 1995 to 2010 and then stabilized around $30\%$. $\blacksquare$
+
+## Problem 8
+
+(Exercise 12.2, Extension and Exploration, Problem 10) China's urban green-space area by region in 2022 ($\text{hm}^2$): Guangdong $539604$, Jiangsu $319725$, Shandong $280650$, ... Tibet $6858$. Analyze the distribution.
+
+### Solution to Problem 8
+
+Group by area: eastern coastal provinces such as Guangdong, Jiangsu and Shandong have large green-space areas, while western provinces such as Tibet, Qinghai and Ningxia have small ones; the distribution is uneven. $\blacksquare$
+
+## Information Technology Application 1
+
+(Information Technology Application: Drawing Statistical Charts with IT Tools) Use a spreadsheet or GeoGebra to draw a frequency distribution histogram of the height data in this section ($149$ to $173$ cm), set the class-width slider to $2,3,4$ respectively, and observe the changes in the histogram shape.
+
+### Solution to Information Technology Application 1
+
+Enter the $63$ height data into a list, set the starting point at $149$ and the class width $d$. When $d=3$ there are $8$ groups, and the histogram is high in the middle and low on both sides; when $d=2$ the number of groups increases and the fluctuation grows; when $d=4$ the number of groups decreases and the shape becomes flatter. It can be seen that the choice of class width affects the histogram shape, and it must be chosen according to the problem. $\blacksquare$
+
 ## Activity 1
 
 (Mathematics Activity, Activity 1, Problem 1) Estimate the average height of the whole class. Steps:
@@ -16,7 +190,7 @@
 
 Let the heights of the $N$ students in the class be $x_1,x_2,\ldots,x_N$, and the population average height be $\overline{x}=\frac{1}{N}\sum_{i=1}^N x_i$.
 
-Each time a sample of size $15$ is drawn, the sample average is $\overline{x}_k=\frac{1}{15}\sum_{j=1}^{15}x_{i_j}$. By Simple Random Sampling, each draw is unbiased, and $\overline{x}_k$ fluctuates up and down around $\overline{x}$.
+Each time a sample of size $15$ is drawn, the sample average is $\overline{x}_k=\frac{1}{15}\sum_{j=1}^{15}x_{i_j}$. By **Definition 12.1.6 (Simple Random Sampling)**, each draw is unbiased, and $\overline{x}_k$ fluctuates up and down around $\overline{x}$.
 
 Comparison shows: the sample average generally does not equal the population average, but as the number of repetitions grows, the average of the sample averages approaches the population average. The larger the sample size, the more stably the sample average approaches the population average. $\blacksquare$
 
@@ -132,7 +306,7 @@ The figure is a compound line chart with years (2013–2022) on the horizontal a
 
 ### Solution to Review Problem 7
 
-By Line Chart, draw a composite line chart as shown. The operating mileage grows steadily year by year; the passenger volume rose rapidly before 2019, fell from 2020 due to the pandemic, and had not recovered to the 2019 level by 2022. $\blacksquare$
+By **Definition 12.2.3 (Line Chart)**, draw a composite line chart as shown. The operating mileage grows steadily year by year; the passenger volume rose rapidly before 2019, fell from 2020 due to the pandemic, and had not recovered to the 2019 level by 2022. $\blacksquare$
 
 ## Review Problem 8
 
@@ -164,7 +338,7 @@ The figure is a trend chart with advertising expenditure (10,000 yuan) on the ho
 
 ### Solution to Review Problem 10
 
-By Trend Chart, take advertising expenditure as the horizontal axis and sales revenue as the vertical axis; plot the points and draw the trend line as shown. The points show an upward trend. Extrapolating from the trend line, when the advertising expenditure is $8$ ten-thousand yuan, the sales revenue is about $44$ ten-thousand yuan. $\blacksquare$
+By **Definition 12.2.7 (Trend Chart)**, take advertising expenditure as the horizontal axis and sales revenue as the vertical axis; plot the points and draw the trend line as shown. The points show an upward trend. Extrapolating from the trend line, when the advertising expenditure is $8$ ten-thousand yuan, the sales revenue is about $44$ ten-thousand yuan. $\blacksquare$
 
 ## Review Problem 11
 
@@ -238,7 +412,7 @@ The figure shows an equilateral triangle $ABC$ ($AB=BC=CA$) with an interior poi
 
 ### Solution to Exercise 1
 
-By Isosceles Triangle, a triangle with two equal sides is isosceles; by Equilateral Triangle, a triangle with all three sides equal is equilateral.
+By **Definition 13.1.3 (Isosceles Triangle)**, a triangle with two equal sides is isosceles; by **Definition 13.1.4 (Equilateral Triangle)**, a triangle with all three sides equal is equilateral.
 
 The triangles in the figure are $\triangle ABC$, $\triangle OAB$, $\triangle OBC$, $\triangle OCA$.
 
@@ -264,118 +438,26 @@ In $\triangle ABE$, $\angle ABE=\angle ABC$ is acute ($\triangle ABC$ is a right
 
 In summary, the right triangles are $\triangle ABC$, $\triangle ABD$, $\triangle ADE$, $\triangle ADC$; the acute triangle is $\triangle ABE$; the obtuse triangle is $\triangle AEC$. $\blacksquare$
 
-## Problem 1
+## Problem 9
 
 (Exercise 13.1, Review and Consolidation, Problem 1) As shown, write the triangles having $\angle A$ as an angle, and write the triangles having $BC$ as a side.
 
 The figure shows triangle $ABC$ with point $D$ outside the triangle; segment $BD$ intersects $AC$ at point $E$, and segment $DC$ is drawn.
 
-### Solution to Problem 1
+### Solution to Problem 9
 
 The segments drawn in the left figure are $AB$, $BC$, $CA$, $BD$ (point $E$ is the intersection of $AC$ and $BD$), $DC$. The triangles having $\angle A$ as an angle, i.e. whose vertex contains $A$, are $\triangle ABC$, $\triangle ABE$; the triangles having $BC$ as a side are $\triangle ABC$, $\triangle BEC$, $\triangle BCD$.
 
 Hence the triangles having $\angle A$ as an angle are $\triangle ABC$, $\triangle ABE$; the triangles having $BC$ as a side are $\triangle ABC$, $\triangle BEC$, $\triangle BCD$. $\blacksquare$
 
-## Problem 2
+## Problem 10
 
 (Exercise 13.1, Review and Consolidation, Problem 2) How many triangles are in the figure? Denote these triangles with symbols.
 
 The figure shows points $B,D,E,C$ on the same line, with point $A$ off the line; segments $AB$, $AD$, $AE$, $AC$ are drawn.
 
-### Solution to Problem 2
+### Solution to Problem 10
 
 In the right figure, points $B,D,E,C$ lie on the same line, point $A$ is outside this line, and $AB$, $AD$, $AE$, $AC$ are all drawn. Choosing any two points on line $BC$ together with point $A$ forms a triangle, giving $\binom{4}{2}=6$ in total.
 
 They are $\triangle ABC$, $\triangle ABD$, $\triangle ABE$, $\triangle ADE$, $\triangle ADC$, $\triangle AEC$. Hence there are $6$ triangles in the figure. $\blacksquare$
-
-## Problem 3
-
-(Exercise 13.1, Comprehensive Application, Problem 3) As shown, in $\triangle ABC$, $AD\perp BC$ with foot at $D$, $\angle BAC$ is obtuse, $E$ is a point on $DC$, $\angle BAE$ is acute, and $EF\perp AC$ with foot at $F$.
-
-(1) How many triangles are in the figure? Denote these triangles with symbols.
-
-(2) Find the acute triangles, right triangles and obtuse triangles in the figure.
-
-The figure shows triangle $ABC$ ($\angle BAC$ is obtuse), with $AD\perp BC$ at foot $D$, point $E$ on $DC$, and $EF\perp AC$ at foot $F$.
-
-### Solution to Problem 3
-
-(1) Since $B,D,E,C$ lie in order on line $BC$ and $AB$, $AD$, $AE$, $AC$ are all drawn, we have $\triangle ABD$, $\triangle ABE$, $\triangle ADE$, $\triangle ADC$, $\triangle AEC$, $\triangle ABC$; also $EF\perp AC$ divides the interior of $\triangle AEC$ into $\triangle AEF$ and $\triangle EFC$, which are themselves triangles. Hence there are $8$ triangles in total: $\triangle ABD$, $\triangle ABE$, $\triangle ADE$, $\triangle ADC$, $\triangle AEC$, $\triangle ABC$, $\triangle AEF$, $\triangle EFC$.
-
-(2) From $AD\perp BC$, $\angle ADB=\angle ADE=\angle ADC=90^\circ$, so $\triangle ABD$, $\triangle ADE$, $\triangle ADC$ are right triangles; from $EF\perp AC$, $\angle AFE=\angle CFE=90^\circ$, so $\triangle AEF$, $\triangle EFC$ are right triangles.
-
-Since $\angle BAC$ is obtuse, $\triangle ABC$ is an obtuse triangle. By the same reasoning as in Exercise 2, the angle of $\triangle AEC$ at point $E$ is obtuse, so $\triangle AEC$ is an obtuse triangle. The remaining $\triangle ABE$ has all three angles acute, so it is an acute triangle.
-
-In summary, the right triangles are $\triangle ABD$, $\triangle ADE$, $\triangle ADC$, $\triangle AEF$, $\triangle EFC$; the obtuse triangles are $\triangle ABC$, $\triangle AEC$; the acute triangle is $\triangle ABE$. $\blacksquare$
-
-## Problem 4
-
-(Exercise 13.1, Comprehensive Application, Problem 4) As shown, $AB=BC=CD=DA=AC$. Find the isosceles triangles and equilateral triangles in the figure.
-
-The figure shows two equilateral triangles $ABC$ and $ADC$ sharing side $AC$, with vertices $B$ and $D$ on opposite sides of $AC$.
-
-### Solution to Problem 4
-
-By Isosceles Triangle and Equilateral Triangle, the triangles in the figure are $\triangle ABC$ and $\triangle ADC$, sharing $AC$ as a common side, with vertices on opposite sides of $AC$.
-
-From $AB=BC=AC$, all three sides of $\triangle ABC$ are equal, so it is equilateral; from $AD=DC=AC$, all three sides of $\triangle ADC$ are equal, so it is also equilateral.
-
-Hence the isosceles triangles are $\triangle ABC$, $\triangle ADC$; the equilateral triangles are $\triangle ABC$, $\triangle ADC$. $\blacksquare$
-
-## Problem 5
-
-(Exercise 13.1, Extension and Exploration, Problem 5) As shown, points $A,B$ lie on line $a$, and points $C,D,E$ lie on line $b$. Taking any three of the points $A,B,C,D,E$ as the vertices of a triangle, how many triangles can be formed in total? Write out these triangles.
-
-The figure shows two lines $a$ and $b$, with points $A,B$ on line $a$ and points $C,D,E$ on line $b$.
-
-### Solution to Problem 5
-
-Choosing any $3$ of the $5$ points gives $\binom{5}{3}=10$ choices. Among them, the three points $C,D,E$ lie on line $b$ and cannot form a triangle, so $1$ choice is removed; while $A,B$ lie on line $a$ but are only two points, so there is no case of three collinear points.
-
-Hence a total of $10-1=9$ triangles can be formed: $\triangle ABC$, $\triangle ABD$, $\triangle ABE$, $\triangle ACD$, $\triangle ACE$, $\triangle ADE$, $\triangle BCD$, $\triangle BCE$, $\triangle BDE$. $\blacksquare$
-
-## Exercise 3
-
-(Exercise 13.2, Problem 1) Can the following three segments form a triangle? Why?
-
-(1) $3$, $4$, $8$;
-
-(2) $5$, $6$, $11$;
-
-(3) $5$, $6$, $10$.
-
-### Solution to Exercise 3
-
-By Relationship Among the Three Sides of a Triangle, three segments form a triangle if and only if the sum of any two is greater than the third.
-
-(1) $3+4=7< 8$; the sum of two sides is not greater than the third, so they cannot form a triangle.
-
-(2) $5+6=11$, which is not greater than $11$, so they cannot form a triangle.
-
-(3) $5+6=11> 10$, $5+10=15> 6$, $6+10=16> 5$; the sum of any two sides is greater than the third, so they can form a triangle. $\blacksquare$
-
-## Exercise 4
-
-(Exercise 13.2, Problem 2) Can one $4\ \text{dm}$ strip of wood and two $1\ \text{dm}$ strips form an isosceles triangle? What about two $4\ \text{dm}$ strips and one $1\ \text{dm}$ strip?
-
-### Solution to Exercise 4
-
-Check the two cases by Relationship Among the Three Sides of a Triangle.
-
-In the first case the side lengths are $4$, $1$, $1$: $1+1=2< 4$; the sum of two sides is not greater than the third, so an isosceles triangle cannot be formed.
-
-In the second case the side lengths are $4$, $4$, $1$: $4+1=5> 4$, $4+4=8> 1$; the three-side relationship holds, so an isosceles triangle can be formed. $\blacksquare$
-
-## Exercise 5
-
-(Exercise 13.2, Problem 1) As shown, through vertex $C$ of $\triangle ABC$, draw its median, angle bisector and altitude respectively.
-
-The figure shows an arbitrary triangle $ABC$, with vertex $C$ on top and side $AB$ placed horizontally at the bottom.
-
-### Solution to Exercise 5
-
-By Median, take the midpoint of side $AB$ and join this midpoint to vertex $C$ to obtain the median on side $AB$.
-
-By Angle Bisector, draw the bisector of $\angle C$ to meet side $AB$ at a point; the segment between vertex $C$ and this intersection is the angle bisector.
-
-By Altitude, drop a perpendicular from vertex $C$ to the line of the opposite side $AB$; the segment between vertex $C$ and the foot is the altitude on side $AB$. All three are drawn in the figure. $\blacksquare$

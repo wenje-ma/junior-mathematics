@@ -1,52 +1,24 @@
 # week60
 
-## Review Problem 1
+> **Definition 27.1.1 (Inverse Proportional Function)**
+> 
+> A function of the form $y=\frac kx$ ($k$ is a constant, $k\ne0$) is called an inverse proportional function, with independent variable $x\ne0$.
 
-(Review, Extension and Exploration, Problem 13) A route's length is measured $n$ times, giving $x_1,x_2,\cdots,x_n$. Using $x$ as an approximation, for what value of $x$ is $\left(x-x_1\right)^2+\left(x-x_2\right)^2+\cdots+\left(x-x_n\right)^2$ minimized? Which common statistic is this value?
+> **Conclusion 27.2.1 (Graph and Properties of Inverse Proportional Function)**
+> 
+> The graph of $y=\frac kx$ is a hyperbola consisting of two branches. When $k> 0$, the two branches lie in the first and third quadrants respectively, and within each quadrant $y$ decreases as $x$ increases; when $k< 0$, the two branches lie in the second and fourth quadrants respectively, and within each quadrant $y$ increases as $x$ increases.
 
-### Solution to Review Problem 1
-
-Expanding,
-
-$$
-S=\sum_{i=1}^n\left(x-x_i\right)^2=nx^2-2x\sum_{i=1}^n x_i+\sum_{i=1}^n x_i^2.
-$$
-
-This is a quadratic function in $x$, with $n> 0$ opening upward. By Basic Knowledge, when
-
-$$
-x=\frac{2\sum x_i}{2n}=\frac{x_1+x_2+\cdots+x_n}{n}
-$$
-
-$S$ is minimized. This value is precisely the arithmetic mean of the $n$ measurements. $\blacksquare$
+> **Conclusion 27.2.1 (Properties of the Inverse Proportional Function)**
+> 
+> When $k> 0$, the graph lies in the first and third quadrants, and within each quadrant $y$ decreases as $x$ increases; when $k< 0$, it lies in the second and fourth quadrants, and within each quadrant $y$ increases as $x$ increases.
 
 ## Exercise 1
 
-(Exercise 27.1, Problem 1) Use function expressions to represent the relation between the variables in the following problems:
-
-(1) A swimming pool has volume $2000\ \text{m}^3$; the time $t$ (in $\text{h}$) to fill it varies with the filling rate $v$ (in $\text{m}^3/\text{h}$);
-
-(2) A school divides a $1000\ \text{m}^2$ practice field equally among several classes; the area $y$ (in $\text{m}^2$) per class varies with the number of classes $x$;
-
-(3) In a circuit the voltage is $U=3\ \text{V}$; the current $I$ (in $\text{A}$) varies with the resistance $R$ (in $\Omega$).
+(Exercise 27.1, Problem 2) Given that $y$ is an inverse proportional function of $x$, and $y=4$ when $x=-2$. Find the function expression and the domain of the independent variable.
 
 ### Solution to Exercise 1
 
-Using the equalities in each problem, write the expressions by Inverse Proportional Function.
-
-(1) Since volume equals filling rate times time, $vt=2000$, hence $t=\frac{2000}{v}$.
-
-(2) Since total area equals per-class area times number of classes, $xy=1000$, hence $y=\frac{1000}{x}$.
-
-(3) By Ohm's law $U=IR$, i.e. $IR=3$, hence $I=\frac3R$. $\blacksquare$
-
-## Exercise 2
-
-(Exercise 27.1, Problem 2) Given that $y$ is an inverse proportional function of $x$, and $y=4$ when $x=-2$. Find the function expression and the domain of the independent variable.
-
-### Solution to Exercise 2
-
-By Inverse Proportional Function, let $y=\frac kx$. Substituting $x=-2$, $y=4$ gives $4=\frac{k}{-2}$, solving $k=-8$. Hence
+By **Definition 27.1.1 (Inverse Proportional Function)**, let $y=\frac kx$. Substituting $x=-2$, $y=4$ gives $4=\frac{k}{-2}$, solving $k=-8$. Hence
 
 $$
 y=\frac{-8}{x},
@@ -110,7 +82,7 @@ Since $y$ is inversely proportional to $x^2$, let $y=\frac k{x^2}$.
 
 (3) Setting $y=6$ gives $6=\frac{36}{x^2}$, i.e. $x^2=6$, hence $x=\pm\sqrt6$. $\blacksquare$
 
-## Exercise 3
+## Exercise 2
 
 (Exercise 27.2, Problem 1) The graph shown in the figure corresponds to which function expression? ( )
 
@@ -118,19 +90,19 @@ Since $y$ is inversely proportional to $x^2$, let $y=\frac k{x^2}$.
 
 The figure shows a hyperbola in a rectangular coordinate plane, with its two branches lying respectively in the first quadrant and the third quadrant; the first-quadrant branch passes through the point $\left(1,4\right)$, and the two coordinate axes serve as asymptotes.
 
-### Solution to Exercise 3
+### Solution to Exercise 2
 
 The curve in the figure is a hyperbola lying in the first and third quadrants, so $k> 0$, eliminating (A)(B) (which are lines) and (D) ($k< 0$). The curve passes through $\left(1,4\right)$, which satisfies $y=\frac4x$. Hence choose (C). $\blacksquare$
 
-## Exercise 4
+## Exercise 3
 
 (Exercise 27.2, Problem 2) The graph of $y=\frac kx$ lies in the second and fourth quadrants; then $k$ $\_\_\_\_0$; within each quadrant, as $x$ increases, $y$ $\_\_\_\_$.
 
-### Solution to Exercise 4
+### Solution to Exercise 3
 
 By Basic Knowledge, when the graph lies in the second and fourth quadrants, $k< 0$, and within each quadrant $y$ increases as $x$ increases. Hence fill in $< $ and increasing respectively. $\blacksquare$
 
-## Exercise 5
+## Exercise 4
 
 (Exercise 27.2, Problem 3) The graph of an inverse proportional function passes through $A\left(2,6\right)$.
 
@@ -138,7 +110,7 @@ By Basic Knowledge, when the graph lies in the second and fourth quadrants, $k< 
 
 (2) Are points $B\left(3,4\right)$, $C\left(2\frac12,-3\frac15\right)$, $D\left(2,-6\right)$ on this function's graph?
 
-### Solution to Exercise 5
+### Solution to Exercise 4
 
 Let $y=\frac kx$; substituting $A\left(2,6\right)$ gives $k=2\times6=12$.
 
@@ -146,19 +118,19 @@ Let $y=\frac kx$; substituting $A\left(2,6\right)$ gives $k=2\times6=12$.
 
 (2) Check whether the product of each point's coordinates equals $k=12$. $B\left(3,4\right)$: $3\times4=12$, on the graph; $C\left(\frac52,-\frac{16}5\right)$: $\frac52\times\left(-\frac{16}5\right)=-8\ne12$, not on the graph; $D\left(2,-6\right)$: $2\times\left(-6\right)=-12\ne12$, not on the graph. $\blacksquare$
 
-## Exercise 6
+## Exercise 5
 
 (Exercise 27.2, Problem 4) One branch of the graph of $y=\frac{m+2}{x}$ lies in the second quadrant. In which quadrant does the other branch lie? What is the range of the constant $m$?
 
-### Solution to Exercise 6
+### Solution to Exercise 5
 
 By Basic Knowledge, one branch in the second quadrant means $k=m+2< 0$, so the other branch must lie in the fourth quadrant, and $m+2< 0$, i.e. $m< -2$. $\blacksquare$
 
-## Exercise 7
+## Exercise 6
 
 (Exercise 27.2, Problem 5) Points $A\left(1,y_1\right)$ and $B\left(2,y_2\right)$ lie on the graph of $y=-\frac2x$; compare $y_1,y_2$.
 
-### Solution to Exercise 7
+### Solution to Exercise 6
 
 $k=-2< 0$; by Basic Knowledge, within each quadrant $y$ increases as $x$ increases. Here $x_1=1< x_2=2$, and both points lie in the fourth quadrant, hence $y_1< y_2$. Direct computation: $y_1=-2$, $y_2=-1$, also giving $y_1< y_2$. $\blacksquare$
 
@@ -252,7 +224,7 @@ When $k> 0$, the graph of $y=kx$ is a line through the origin in the first and t
 
 (2) $k> 0$; within each quadrant $y$ decreases as $x$ increases. If $A,B$ lie on the same branch and $y_1> y_2$, then $x_1< x_2$. $\blacksquare$
 
-## Exercise 8
+## Exercise 7
 
 (Exercise 27.3, Problem 1) Make a conical funnel with a volume of $120\ \text{cm}^3$.
 
@@ -260,7 +232,7 @@ When $k> 0$, the graph of $y=kx$ is a line through the origin in the first and t
 
 (2) If the area of the funnel opening is at most $50\ \text{cm}^2$, what is the minimum depth of the funnel?
 
-### Solution to Exercise 8
+### Solution to Exercise 7
 
 (1) From the cone volume formula $\frac13Sh=120$, we get
 
@@ -270,7 +242,7 @@ $$
 
 (2) Set $S\le50$, i.e. $\frac{360}{h}\le50$; since $h> 0$, we get $h\ge7.2$. Hence the depth of the funnel is at least $7.2\ \text{cm}$. $\blacksquare$
 
-## Exercise 9
+## Exercise 8
 
 (Exercise 27.3, Problem 2) Xiao Zhang buys a car priced at $18$ ten thousand yuan, with a down payment of $6$ ten thousand yuan, and pays off the remaining balance within $36$ months. He plans to pay off the balance in $x$ months, with an average monthly repayment of $y$ ten thousand yuan.
 
@@ -280,7 +252,7 @@ $$
 
 (3) If the monthly repayment is at most $5000$ yuan, how many months at least are needed to pay it off?
 
-### Solution to Exercise 9
+### Solution to Exercise 8
 
 The remaining balance is $18-6=12$ ten thousand yuan.
 
@@ -290,7 +262,7 @@ The remaining balance is $18-6=12$ ten thousand yuan.
 
 (3) $5000$ yuan $=0.5$ ten thousand yuan. Set $y\le0.5$, i.e. $\frac{12}{x}\le0.5$, we get $x\ge24$. Hence at least $24$ months are needed. $\blacksquare$
 
-## Exercise 10
+## Exercise 9
 
 (Exercise 27.3, Problem 3) The prescription strength $y$ of a myopia lens is an inverse proportional function of the focal length $x$ (unit: $\text{m}$), and its graph passes through the point $\left(0.25,400\right)$.
 
@@ -298,7 +270,7 @@ The remaining balance is $18-6=12$ ten thousand yuan.
 
 (2) If the lens is $500$ degrees, find its focal length.
 
-### Solution to Exercise 10
+### Solution to Exercise 9
 
 Let $y=\frac kx$; substituting $\left(0.25,400\right)$ gives $k=0.25\times400=100$, hence
 
@@ -308,7 +280,7 @@ $$
 
 Set $y=500$, we get $500=\frac{100}{x}$, i.e. $x=0.2\ \text{m}$. Hence the focal length is $0.2\ \text{m}$. $\blacksquare$
 
-## Exercise 11
+## Exercise 10
 
 (Exercise 27.3, Problem 4) The variable resistance $R$ of an electric appliance ranges over $110\sim220\ \Omega$, the voltage is $U=220\ \text{V}$, and the power is $P=\frac{U^2}{R}$.
 
@@ -316,7 +288,7 @@ Set $y=500$, we get $500=\frac{100}{x}$, i.e. $x=0.2\ \text{m}$. Hence the focal
 
 (2) What is the range of the power $P$ of this appliance?
 
-### Solution to Exercise 11
+### Solution to Exercise 10
 
 (1) $P=\frac{220^2}{R}=\frac{48400}{R}$.
 
@@ -481,24 +453,68 @@ i.e. $h$ and $\rho$ are in inverse proportion.
 
 (2) Substituting $h=6.99$ gives $\rho=\frac{7.2}{6.99}\approx1.03\ \text{g/cm}^3$. Hence the density of milk is about $1.03\ \text{g/cm}^3$. $\blacksquare$
 
-## Review Problem 2
+## Review Problem 1
 
 (Review Problem, Review and Consolidation, Problem 1) Among the following expressions, the one in which $y$ is an inverse proportional function of $x$ is ( ).
 
 (A) $y=\frac1{x^2}$ (B) $yx=-\sqrt3$ (C) $y=5x+6$ (D) $\sqrt x=\frac1y$
 
-### Solution to Review Problem 2
+### Solution to Review Problem 1
 
-By Basic Knowledge, an inverse proportional function can be written in the form $y=\frac kx$, i.e. $xy=k$. In (B), $yx=-\sqrt3$, i.e. $y=\frac{-\sqrt3}{x}$, which fits. In (A), $y$ is in inverse proportion to $x^2$; (C) is a linear function; (D) rearranges to $y=1/\sqrt x$, which is not an inverse proportional function. Therefore choose (B). $\blacksquare$
+By **Definition 27.1.1 (Inverse Proportional Function)**, an inverse proportional function can be written in the form $y=\frac kx$, i.e. $xy=k$. In (B), $yx=-\sqrt3$, i.e. $y=\frac{-\sqrt3}{x}$, which fits. In (A), $y$ is in inverse proportion to $x^2$; (C) is a linear function; (D) rearranges to $y=1/\sqrt x$, which is not an inverse proportional function. Therefore choose (B). $\blacksquare$
 
-## Review Problem 3
+## Review Problem 2
 
 (Review Problem, Review and Consolidation, Problem 2) For the inverse proportional function $y=\frac3x$, when $x=-\frac12$, what is the value of the function $y$?
 
-### Solution to Review Problem 3
+### Solution to Review Problem 2
 
 Substituting $x=-\frac12$ gives
 
 $$
 y=\frac{3}{-1/2}=-6. \blacksquare
 $$
+
+## Review Problem 3
+
+(Review Problem, Review and Consolidation, Problem 3) Fill in the blanks:
+
+(1) The graph of the function $y=\frac{10}{x}$ lies in the $\_\_\_\_$ quadrant(s), and in each quadrant, as $x$ increases, $y$ $\_\_\_\_$;
+
+(2) The graph of the function $y=-\frac{10}{x}$ lies in the $\_\_\_\_$ quadrant(s), and in each quadrant, as $x$ increases, $y$ $\_\_\_\_$.
+
+### Solution to Review Problem 3
+
+By Basic Knowledge.
+
+(1) $k=10> 0$, so the graph lies in the first and third quadrants, and in each quadrant $y$ decreases as $x$ increases.
+
+(2) $k=-10< 0$, so the graph lies in the second and fourth quadrants, and in each quadrant $y$ increases as $x$ increases. $\blacksquare$
+
+## Review Problem 4
+
+(Review Problem, Review and Consolidation, Problem 4) Given the inverse proportional function $y=\frac kx$ ($k\ne0$), when $x=-6$, $y=\frac23$.
+
+(1) Find the function expression for $y$ in terms of $x$ and the range of the independent variable;
+
+(2) Determine whether the points $\left(-2,2\right)$ and $\left(1,4\right)$ lie on the graph of this function.
+
+### Solution to Review Problem 4
+
+(1) Substituting $x=-6$, $y=\frac23$ gives $k=\left(-6\right)\times\frac23=-4$, hence
+
+$$
+y=-\frac4x,
+$$
+
+and the range of the independent variable $x$ is $x\ne0$.
+
+(2) Check whether the product of the x- and y-coordinates equals $k=-4$. Point $\left(-2,2\right)$: $\left(-2\right)\times2=-4$, on the graph. Point $\left(1,4\right)$: $1\times4=4\ne-4$, not on the graph. $\blacksquare$
+
+## Review Problem 5
+
+(Review Problem, Comprehensive Application, Problem 5) For the inverse proportional function $y=\frac{k-1}{x}$, in every quadrant $y$ decreases as $x$ increases. Find the range of $k$.
+
+### Solution to Review Problem 5
+
+By Basic Knowledge, for $y$ to decrease as $x$ increases in each quadrant, we need $k-1> 0$, hence $k> 1$. $\blacksquare$

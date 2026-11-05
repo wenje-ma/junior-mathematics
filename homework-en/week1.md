@@ -1,5 +1,53 @@
 # week1
 
+> **Definition 1.1.1 (Positive Number)**
+> 
+> Numbers greater than $0$ are called positive numbers.
+
+> **Definition 1.1.2 (Negative Number)**
+> 
+> Numbers obtained by prefixing a positive number with the sign "$-$" are called negative numbers.
+
+> **Definition 1.1.3 (Sign)**
+> 
+> The "$+$" and "$-$" signs preceding a number are called the sign of that number.
+
+> **Definition 1.1.4 (Status of $0$)**
+> 
+> $0$ is neither a positive number nor a negative number.
+
+> **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**
+> 
+> Quantities of opposite meaning are represented by positive and negative numbers respectively.
+
+> **Definition 1.2.1 (Integers and Fractions)**
+> 
+> Positive integers, $0$, and negative integers are collectively called integers; positive fractions and negative fractions are collectively called fractions.
+
+> **Definition 1.2.2 (Rational Numbers)**
+> 
+> Numbers that can be written in fraction form are called rational numbers.
+
+> **Definition 1.2.3 (Number Line)**
+> 
+> A straight line on which an origin, a positive direction, and a unit length are specified is called a number line.
+
+> **Definition 1.2.4 (Opposite Numbers)**
+> 
+> Two numbers that differ only in sign are opposites of each other; the opposite number of $0$ is $0$.
+
+> **Definition 1.2.5 (Absolute Value)**
+> 
+> The distance on the number line between the point representing a number $a$ and the origin is called the absolute value of the number $a$, denoted by $\left|a\right|$.
+
+> **Definition 1.2.6 (Algebraic Meaning of Absolute Value)**
+> 
+> The absolute value of a positive number is itself; the absolute value of a negative number is its opposite number; the absolute value of $0$ is $0$.
+
+> **Definition 1.2.7 (Comparing the Magnitude of Rational Numbers)**
+> 
+> A positive number is greater than $0$, $0$ is greater than a negative number, and a positive number is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
+
 ## Exercise 1
 
 (Exercise 1.1, Problem 1) Identify the positive and negative numbers among the following:
@@ -10,13 +58,13 @@ $$
 
 ### Solution to Exercise 1
 
-By Positive Numbers and Negative Numbers, numbers greater than $0$ are positive numbers, and numbers obtained by prefixing a positive number with the sign "$-$" are negative numbers.
+By **Definition 1.1.1 (Positive Number)** and **Definition 1.1.2 (Negative Number)**, numbers greater than $0$ are positive numbers, and numbers obtained by prefixing a positive number with the sign "$-$" are negative numbers.
 
 Among the given numbers, $\frac{4}{3}> 0$, $2.5> 0$, $+\frac{1}{4}> 0$, $120> 0$, so $\frac{4}{3}$, $2.5$, $+\frac{1}{4}$, $120$ are positive numbers.
 
 Also, $-1$, $-3.14$, $-\frac{2}{7}$ all have the sign "$-$" prefixed to positive numbers, so $-1$, $-3.14$, $-\frac{2}{7}$ are negative numbers.
 
-By The Status of $0$, $0$ is neither a positive number nor a negative number. $\blacksquare$
+By **Definition 1.1.4 (Status of $0$)**, $0$ is neither a positive number nor a negative number. $\blacksquare$
 
 ## Exercise 2
 
@@ -24,7 +72,7 @@ By The Status of $0$, $0$ is neither a positive number nor a negative number. $\
 
 ### Solution to Exercise 2
 
-Walking to the right and walking to the left are quantities of opposite meaning. By Representing Quantities of Opposite Meaning, since walking to the right is represented by a positive number, walking to the left is represented by a negative number; hence walking $60\ \text{m}$ to the left is denoted by $-60\ \text{m}$. $\blacksquare$
+Walking to the right and walking to the left are quantities of opposite meaning. By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**, since walking to the right is represented by a positive number, walking to the left is represented by a negative number; hence walking $60\ \text{m}$ to the left is denoted by $-60\ \text{m}$. $\blacksquare$
 
 ## Exercise 3
 
@@ -32,7 +80,7 @@ Walking to the right and walking to the left are quantities of opposite meaning.
 
 ### Solution to Exercise 3
 
-Temperatures above zero and below zero are quantities of opposite meaning. By Representing Quantities of Opposite Meaning, since above zero is represented by a positive number, below zero is represented by a negative number; hence $150\,^\circ\text{C}$ below zero is denoted by $-150\,^\circ\text{C}$. $\blacksquare$
+Temperatures above zero and below zero are quantities of opposite meaning. By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**, since above zero is represented by a positive number, below zero is represented by a negative number; hence $150\,^\circ\text{C}$ below zero is denoted by $-150\,^\circ\text{C}$. $\blacksquare$
 
 ## Exercise 4
 
@@ -40,7 +88,7 @@ Temperatures above zero and below zero are quantities of opposite meaning. By Re
 
 ### Solution to Exercise 4
 
-Scoring a goal and conceding a goal are quantities of opposite meaning. By Representing Quantities of Opposite Meaning, since scoring is represented by a positive number, conceding is represented by a negative number; hence conceding $2$ goals is denoted by $-2$. $\blacksquare$
+Scoring a goal and conceding a goal are quantities of opposite meaning. By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**, since scoring is represented by a positive number, conceding is represented by a negative number; hence conceding $2$ goals is denoted by $-2$. $\blacksquare$
 
 ## Problem 1
 
@@ -52,13 +100,13 @@ $$
 
 ### Solution to Problem 1
 
-By Positive Numbers and Negative Numbers, numbers greater than $0$ are positive numbers, and numbers obtained by prefixing a positive number with the sign "$-$" are negative numbers.
+By **Definition 1.1.1 (Positive Number)** and **Definition 1.1.2 (Negative Number)**, numbers greater than $0$ are positive numbers, and numbers obtained by prefixing a positive number with the sign "$-$" are negative numbers.
 
 Among the given numbers, $5> 0$, $0.56> 0$, $\frac{12}{5}> 0$, $+2> 0$, so $5$, $0.56$, $\frac{12}{5}$, $+2$ are positive numbers.
 
 Also, $-\frac{5}{7}$, $-3$, $-25.8$, $-0.0001$, $-600$ all have the sign "$-$" prefixed to positive numbers, so they are negative numbers.
 
-By The Status of $0$, $0$ is neither a positive number nor a negative number. $\blacksquare$
+By **Definition 1.1.4 (Status of $0$)**, $0$ is neither a positive number nor a negative number. $\blacksquare$
 
 ## Problem 2
 
@@ -66,7 +114,7 @@ By The Status of $0$, $0$ is neither a positive number nor a negative number. $\
 
 ### Solution to Problem 2
 
-Increase and decrease are quantities of opposite meaning. By Representing Quantities of Opposite Meaning, since increase is represented by a positive number, decrease is represented by a negative number.
+Increase and decrease are quantities of opposite meaning. By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**, since increase is represented by a positive number, decrease is represented by a negative number.
 
 The first year increased by $53.5\ \text{mm}$, denoted by $+53.5\ \text{mm}$; the second year decreased by $81.5\ \text{mm}$, denoted by $-81.5\ \text{mm}$; the third year increased by $108.7\ \text{mm}$, denoted by $+108.7\ \text{mm}$. $\blacksquare$
 
@@ -78,7 +126,7 @@ The first year increased by $53.5\ \text{mm}$, denoted by $+53.5\ \text{mm}$; th
 
 This statement is not correct.
 
-By The Status of $0$, $0$ is neither a positive number nor a negative number. Thus there exists a number, $0$, that is neither positive nor negative, so neither "a number that is not positive must be negative" nor "a number that is not negative must be positive" holds. $\blacksquare$
+By **Definition 1.1.4 (Status of $0$)**, $0$ is neither a positive number nor a negative number. Thus there exists a number, $0$, that is neither positive nor negative, so neither "a number that is not positive must be negative" nor "a number that is not negative must be positive" holds. $\blacksquare$
 
 ## Problem 4
 
@@ -86,7 +134,7 @@ By The Status of $0$, $0$ is neither a positive number nor a negative number. Th
 
 ### Solution to Problem 4
 
-The charge of the atomic nucleus is positive charge, and the charge of the extranuclear electron is negative charge; the two are quantities of opposite meaning. By Representing Quantities of Opposite Meaning, positive charge is represented by a positive number and negative charge by a negative number.
+The charge of the atomic nucleus is positive charge, and the charge of the extranuclear electron is negative charge; the two are quantities of opposite meaning. By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**, positive charge is represented by a positive number and negative charge by a negative number.
 
 In the hydrogen atom, the nucleus carries $1$ positive charge, denoted by $+1$; the extranuclear electron carries $1$ negative charge, denoted by $-1$. $\blacksquare$
 
@@ -96,7 +144,7 @@ In the hydrogen atom, the nucleus carries $1$ positive charge, denoted by $+1$; 
 
 ### Solution to Problem 5
 
-By Representing Quantities of Opposite Meaning, moving straight backward and moving straight forward are quantities of opposite meaning. Since moving straight backward is denoted by $-$, $+$ means moving straight forward; hence the object moving by $+5\ \text{m}$ means it moves $5\ \text{m}$ straight forward.
+By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**, moving straight backward and moving straight forward are quantities of opposite meaning. Since moving straight backward is denoted by $-$, $+$ means moving straight forward; hence the object moving by $+5\ \text{m}$ means it moves $5\ \text{m}$ straight forward.
 
 The object first moves $5\ \text{m}$ straight backward and then $5\ \text{m}$ straight forward; the two movements are in opposite directions and cover equal distances, so it returns to its original position, which is $0\ \text{m}$ away from its position before the two movements. $\blacksquare$
 
@@ -120,7 +168,7 @@ $$
 
 Hence the mean is $\frac{560}{7}=80\ \left(\text{m}\right)$.
 
-Taking $80\ \text{m}$ as the standard, the amount above is represented by a positive number and the amount below by a negative number. By Representing Quantities of Opposite Meaning:
+Taking $80\ \text{m}$ as the standard, the amount above is represented by a positive number and the amount below by a negative number. By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**:
 
 Group 1: $79.4=80-0.6$, below by $0.6$, corresponding to $-0.6$; Group 2: $80.6=80+0.6$, above by $0.6$, corresponding to $+0.6$; Group 3: $80.8=80+0.8$, above by $0.8$, corresponding to $+0.8$; Group 4: $79.1=80-0.9$, below by $0.9$, corresponding to $-0.9$; Group 5: $80=80$, neither above nor below, corresponding to $0$; Group 6: $79.6=80-0.4$, below by $0.4$, corresponding to $-0.4$; Group 7: $80.5=80+0.5$, above by $0.5$, corresponding to $+0.5$.
 
@@ -146,7 +194,7 @@ That is, the temperature at $0$ o'clock the next day is $-1\,^\circ\text{C}$. $\
 
 ### Solution to Problem 8
 
-According to the problem, rotating counterclockwise is denoted by $+$ and rotating clockwise by $-$, so counterclockwise rotation is taken as positive and clockwise rotation as negative. By Representing Quantities of Opposite Meaning, the numbers in the unlocking code represent in turn the small divisions of the three rotations, and the number aligned with the marker line equals the algebraic sum of the rotations.
+According to the problem, rotating counterclockwise is denoted by $+$ and rotating clockwise by $-$, so counterclockwise rotation is taken as positive and clockwise rotation as negative. By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**, the numbers in the unlocking code represent in turn the small divisions of the three rotations, and the number aligned with the marker line equals the algebraic sum of the rotations.
 
 Unlocking code "$+5,\ -2,\ +3$": first rotate counterclockwise by $5$ divisions, then clockwise by $2$ divisions, then counterclockwise by $3$ divisions; the number aligned with the marker line is
 
@@ -174,7 +222,7 @@ Set of positive rational numbers: $\left\{\;\cdots\;\right\}$. Set of negative r
 
 ### Solution to Exercise 5
 
-By Rational Numbers, numbers that can be written as positive fractions are positive rational numbers, and numbers that can be written as negative fractions are negative rational numbers.
+By **Definition 1.2.2 (Rational Numbers)**, numbers that can be written as positive fractions are positive rational numbers, and numbers that can be written as negative fractions are negative rational numbers.
 
 Among the given numbers, $15> 0$, $7> 0$, $0.5> 0$, $12> 0$, $2.3> 0$, so they are positive rational numbers.
 
@@ -190,7 +238,7 @@ $$-15,\ +6,\ -2,\ -0.\dot{4},\ 1,\ \frac{3}{5},\ 0,\ 3\frac{1}{4},\ 0.63,\ -\fra
 
 ### Solution to Exercise 6
 
-By Rational Numbers, numbers greater than $0$ are positive rational numbers, and numbers obtained by prefixing a positive number with the sign "$-$" are negative rational numbers. By Integers and Fractions, positive integers, $0$, and negative integers are collectively called integers.
+By **Definition 1.2.2 (Rational Numbers)**, numbers greater than $0$ are positive rational numbers, and numbers obtained by prefixing a positive number with the sign "$-$" are negative rational numbers. By **Definition 1.2.1 (Integers and Fractions)**, positive integers, $0$, and negative integers are collectively called integers.
 
 Among the given numbers, $+6$, $1$, $\frac{3}{5}$, $3\frac{1}{4}$, $0.63$ are all greater than $0$, so they are positive rational numbers.
 
@@ -204,7 +252,7 @@ Among them, $-15$, $+6$, $-2$, $1$, $0$ are integers. $\blacksquare$
 
 ### Solution to Exercise 7
 
-By Rational Numbers and Integers and Fractions.
+By **Definition 1.2.2 (Rational Numbers)** and **Definition 1.2.1 (Integers and Fractions)**.
 
 Among the given numbers, those greater than $0$ are $\frac{4}{7}$, $19\%$, $50$, $6.3$, $2022$, totaling $5$, so there are $5$ positive rational numbers; among them, the positive integers are $50$, $2022$, totaling $2$.
 
@@ -218,7 +266,7 @@ On the number line, with the origin $0$ as its center, rightward as the positive
 
 ### Solution to Exercise 8
 
-By Number Line, the origin on the number line represents $0$, to the right of the origin is the positive direction, to the left is the negative direction, and each grid is $1$ unit length.
+By **Definition 1.2.3 (Number Line)**, the origin on the number line represents $0$, to the right of the origin is the positive direction, to the left is the negative direction, and each grid is $1$ unit length.
 
 From the figure, point $A$ is at the origin and represents $0$; point $B$ is to the left of the origin, $2$ unit lengths away, and represents $-2$; point $C$ is to the right of the origin, $1$ unit length away, and represents $1$; point $D$ is to the left of the origin, $3$ unit lengths away, and represents $-3$; point $E$ is to the right of the origin, $2.5$ unit lengths away, and represents $2.5$.
 
@@ -234,7 +282,7 @@ On a number line with origin $0$, rightward as the positive direction, and unit 
 
 ### Solution to Exercise 9
 
-By Number Line, take the origin $0$, specify rightward as the positive direction, and choose an appropriate unit length. The positions of the numbers on the number line are: $-\frac{7}{2}=-3.5$, $-\frac{1}{2}=-0.5$, $\frac{3}{2}=1.5$, $\frac{9}{2}=4.5$.
+By **Definition 1.2.3 (Number Line)**, take the origin $0$, specify rightward as the positive direction, and choose an appropriate unit length. The positions of the numbers on the number line are: $-\frac{7}{2}=-3.5$, $-\frac{1}{2}=-0.5$, $\frac{3}{2}=1.5$, $\frac{9}{2}=4.5$.
 
 The corresponding points of the numbers on the number line are: $-5$ is $5$ grids to the left of the origin, $-3.5$ is $3.5$ grids to the left of the origin, $-0.5$ is $0.5$ grids to the left of the origin, $1.5$ is $1.5$ grids to the right of the origin, $3.5$ is $3.5$ grids to the right of the origin, $4.5$ is $4.5$ grids to the right of the origin, and $5$ is $5$ grids to the right of the origin, as shown in the figure. $\blacksquare$
 
@@ -244,7 +292,7 @@ The corresponding points of the numbers on the number line are: $-5$ is $5$ grid
 
 ### Solution to Exercise 10
 
-By Number Line, the integer points on the number line are arranged in order. The integers between $-2$ and $4$ (including the endpoints) are
+By **Definition 1.2.3 (Number Line)**, the integer points on the number line are arranged in order. The integers between $-2$ and $4$ (including the endpoints) are
 
 $$-2,\ -1,\ 0,\ 1,\ 2,\ 3,\ 4.$$
 
@@ -258,7 +306,7 @@ Hence fill in in turn: $7$; $-2$, $-1$, $0$, $1$, $2$, $3$, $4$; $2$. $\blacksqu
 
 ### Solution to Exercise 11
 
-By Number Line, moving rightward increases the number, and moving leftward decreases the number.
+By **Definition 1.2.3 (Number Line)**, moving rightward increases the number, and moving leftward decreases the number.
 
 Point $A$ represents $-3$. If one moves rightward by $4$ unit lengths, then point $B$ represents $-3+4=1$; if one moves leftward by $4$ unit lengths, then point $B$ represents $-3-4=-7$.
 
@@ -282,7 +330,7 @@ Hence the number represented by point $B$ is $1$ or $-7$. $\blacksquare$
 
 ### Solution to Exercise 12
 
-By Opposite Numbers, an opposite number is a relationship between two numbers, and one cannot say of a single number in isolation that it is an opposite number.
+By **Definition 1.2.4 (Opposite Numbers)**, an opposite number is a relationship between two numbers, and one cannot say of a single number in isolation that it is an opposite number.
 
 (1) $-6$ is a single number in isolation, and one cannot say it is an opposite number; hence it is false.
 
@@ -304,7 +352,7 @@ $$-\frac{9}{4},\ 6,\ -8,\ -3.5,\ \frac{5}{2},\ 10,\ -100,\ \frac{1}{3}.$$
 
 ### Solution to Exercise 13
 
-By Opposite Numbers, prefixing a number with the sign "$-$" gives its opposite number.
+By **Definition 1.2.4 (Opposite Numbers)**, prefixing a number with the sign "$-$" gives its opposite number.
 
 The opposite number of $-\frac{9}{4}$ is $\frac{9}{4}$; the opposite number of $6$ is $-6$; the opposite number of $-8$ is $8$; the opposite number of $-3.5$ is $3.5$; the opposite number of $\frac{5}{2}$ is $-\frac{5}{2}$; the opposite number of $10$ is $-10$; the opposite number of $-100$ is $100$; the opposite number of $\frac{1}{3}$ is $-\frac{1}{3}$. $\blacksquare$
 
@@ -314,11 +362,11 @@ The opposite number of $-\frac{9}{4}$ is $\frac{9}{4}$; the opposite number of $
 
 ### Solution to Exercise 14
 
-By Opposite Numbers, $a$ and $-a$ are opposites of each other.
+By **Definition 1.2.4 (Opposite Numbers)**, $a$ and $-a$ are opposites of each other.
 
-If $a=-a$, then $a$ equals its own opposite number. By Opposite Numbers, the opposite number of $0$ is $0$, that is, $-0=0$. Hence the only number satisfying $a=-a$ is $a=0$.
+If $a=-a$, then $a$ equals its own opposite number. By **Definition 1.2.4 (Opposite Numbers)**, the opposite number of $0$ is $0$, that is, $-0=0$. Hence the only number satisfying $a=-a$ is $a=0$.
 
-By Number Line, the point representing $0$ is the origin, so the point representing the number $a$ is at the origin of the number line. $\blacksquare$
+By **Definition 1.2.3 (Number Line)**, the point representing $0$ is the origin, so the point representing the number $a$ is at the origin of the number line. $\blacksquare$
 
 ## Exercise 15
 
@@ -328,7 +376,7 @@ $$-\left(-7\right),\ -\left(+0.5\right),\ -\left(-68\right),\ -\left(+3.8\right)
 
 ### Solution to Exercise 15
 
-By Opposite Numbers, prefixing a number with the sign "$-$" gives the opposite number of the original number.
+By **Definition 1.2.4 (Opposite Numbers)**, prefixing a number with the sign "$-$" gives the opposite number of the original number.
 
 $-\left(-7\right)$ represents the opposite number of $-7$, namely $7$; $-\left(+0.5\right)$ represents the opposite number of $+0.5$, namely $-0.5$; $-\left(-68\right)$ represents the opposite number of $-68$, namely $68$; $-\left(+3.8\right)$ represents the opposite number of $+3.8$, namely $-3.8$.
 
@@ -342,7 +390,7 @@ $$8,\ -3.9,\ -\frac{2}{11},\ 100,\ 7.5,\ 0,\ -\left(-13\right),\ -\left(+18\righ
 
 ### Solution to Exercise 16
 
-By Algebraic Meaning of Absolute Value, the absolute value of a positive number is itself, the absolute value of a negative number is its opposite number, and the absolute value of $0$ is $0$.
+By **Definition 1.2.6 (Algebraic Meaning of Absolute Value)**, the absolute value of a positive number is itself, the absolute value of a negative number is its opposite number, and the absolute value of $0$ is $0$.
 
 $8$ is positive, so $\left|8\right|=8$; $-3.9$ is negative, so $\left|-3.9\right|=3.9$; $-\frac{2}{11}$ is negative, so $\left|-\frac{2}{11}\right|=\frac{2}{11}$; $100$ is positive, so $\left|100\right|=100$; $7.5$ is positive, so $\left|7.5\right|=7.5$; $\left|0\right|=0$.
 
@@ -360,11 +408,11 @@ Also, $-\left(-13\right)=13$, so $\left|-\left(-13\right)\right|=\left|13\right|
 
 ### Solution to Exercise 17
 
-By Absolute Value and Algebraic Meaning of Absolute Value.
+By **Definition 1.2.5 (Absolute Value)** and **Definition 1.2.6 (Algebraic Meaning of Absolute Value)**.
 
 (1) The absolute value of $0$ is $0$, that is, the absolute value of $0$ is also itself, but $0$ is not a positive number; hence it is false.
 
-(2) When $a\ne0$, $a$ is a positive or negative number. By Algebraic Meaning of Absolute Value, the absolute value of both a positive and a negative number is greater than $0$; hence it is true.
+(2) When $a\ne0$, $a$ is a positive or negative number. By **Definition 1.2.6 (Algebraic Meaning of Absolute Value)**, the absolute value of both a positive and a negative number is greater than $0$; hence it is true.
 
 (3) The integers whose absolute value is less than $2$ satisfy $\left|a\right|< 2$, that is, $-2< a< 2$; the integers among them are $-1$, $0$, $1$, which are more than just $1$ and $-1$; hence it is false. $\blacksquare$
 
@@ -374,11 +422,11 @@ By Absolute Value and Algebraic Meaning of Absolute Value.
 
 ### Solution to Exercise 18
 
-By Algebraic Meaning of Absolute Value, $\left|-2\right|=2$, so $\left|a\right|=2$.
+By **Definition 1.2.6 (Algebraic Meaning of Absolute Value)**, $\left|-2\right|=2$, so $\left|a\right|=2$.
 
 On the number line there are two points whose distance from the origin is $2$ unit lengths, representing $2$ and $-2$ respectively, so $a=2$ or $a=-2$.
 
-Also, $m$ is a negative number and $\left|m\right|=10$. By Algebraic Meaning of Absolute Value, the absolute value of a negative number is its opposite number, so $m=-10$. $\blacksquare$
+Also, $m$ is a negative number and $\left|m\right|=10$. By **Definition 1.2.6 (Algebraic Meaning of Absolute Value)**, the absolute value of a negative number is its opposite number, so $m=-10$. $\blacksquare$
 
 ## Exercise 19
 
@@ -388,7 +436,7 @@ $$+\left|-3.5\right|,\ -\left|+\frac{5}{6}\right|,\ -\left|-11\right|,\ \left|+\
 
 ### Solution to Exercise 19
 
-By Algebraic Meaning of Absolute Value and Opposite Numbers.
+By **Definition 1.2.6 (Algebraic Meaning of Absolute Value)** and **Definition 1.2.4 (Opposite Numbers)**.
 
 $+\left|-3.5\right|=\left|3.5\right|=3.5$; $-\left|+\frac{5}{6}\right|=-\left|\frac{5}{6}\right|=-\frac{5}{6}$; $-\left|-11\right|=-\left|11\right|=-11$; $\left|+\left(-15\right)\right|=\left|-15\right|=15$; $\left|-\left(-7\right)\right|=\left|7\right|=7$; $\left|-\left(+9\right)\right|=\left|-9\right|=9$. $\blacksquare$
 
@@ -410,7 +458,7 @@ $+\left|-3.5\right|=\left|3.5\right|=3.5$; $-\left|+\frac{5}{6}\right|=-\left|\f
 
 ### Solution to Exercise 20
 
-By Comparing the Magnitude of Rational Numbers, a positive number is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
+By **Definition 1.2.7 (Comparing the Magnitude of Rational Numbers)**, a positive number is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
 
 (1) $3$ is positive and $-5$ is negative, so $3> -5$.
 

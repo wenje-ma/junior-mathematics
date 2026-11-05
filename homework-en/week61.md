@@ -1,54 +1,46 @@
 # week61
 
+> **Definition 27.1.1 (Inverse Proportional Function)**
+> 
+> A function of the form $y=\frac kx$ ($k$ is a constant, $k\ne0$) is called an inverse proportional function, with independent variable $x\ne0$.
+
+> **Conclusion 27.2.1 (Properties of the Inverse Proportional Function)**
+> 
+> When $k> 0$, the graph lies in the first and third quadrants, and within each quadrant $y$ decreases as $x$ increases; when $k< 0$, it lies in the second and fourth quadrants, and within each quadrant $y$ increases as $x$ increases.
+
+> **Definition 28.1.1 (Rotation of a Figure)**
+> 
+> Rotating a plane figure about a point $O$ in the plane through an angle is called rotation of the figure.
+
+> **Property 28.1.1 (Properties of Rotation)**
+> 
+> The figures before and after rotation are congruent; corresponding points are equidistant from the center of rotation; the angle formed by the segments joining corresponding points to the center of rotation equals the angle of rotation.
+
+> **Definition 28.1.2 (Corresponding Point)**
+> 
+> If a point $P$ on a figure becomes the point $P'$ after rotation, then these two points are called corresponding points of this rotation.
+
+> **Definition 28.2.1 (Central Symmetry)**
+> 
+> If a figure is rotated about a point through $180^\circ$ and the rotated figure can coincide with another figure, then the two figures are centrally symmetric about this point.
+
+> **Property 28.2.1 (Properties of Central Symmetry)**
+> 
+> For two figures that are centrally symmetric, the segments joining symmetric points pass through the center of symmetry and are bisected by it.
+
+> **Definition 28.2.2 (Centrally Symmetric Figure)**
+> 
+> If a figure is rotated about a point through $180^\circ$ and the rotated figure can coincide with the original figure, then the figure is called a centrally symmetric figure, and this point is its center of symmetry.
+
+> **Property 28.2.2 (Coordinates of Points Symmetric about the Origin)**
+> 
+> When two points are symmetric about the origin, their coordinates have opposite signs, i.e. the point symmetric to $P\left(x,y\right)$ about the origin is $P'\left(-x,-y\right)$.
+
 ## Review Problem 1
-
-(Review Problem, Review and Consolidation, Problem 3) Fill in the blanks:
-
-(1) The graph of the function $y=\frac{10}{x}$ lies in the $\_\_\_\_$ quadrant(s), and in each quadrant, as $x$ increases, $y$ $\_\_\_\_$;
-
-(2) The graph of the function $y=-\frac{10}{x}$ lies in the $\_\_\_\_$ quadrant(s), and in each quadrant, as $x$ increases, $y$ $\_\_\_\_$.
-
-### Solution to Review Problem 1
-
-By Basic Knowledge.
-
-(1) $k=10> 0$, so the graph lies in the first and third quadrants, and in each quadrant $y$ decreases as $x$ increases.
-
-(2) $k=-10< 0$, so the graph lies in the second and fourth quadrants, and in each quadrant $y$ increases as $x$ increases. $\blacksquare$
-
-## Review Problem 2
-
-(Review Problem, Review and Consolidation, Problem 4) Given the inverse proportional function $y=\frac kx$ ($k\ne0$), when $x=-6$, $y=\frac23$.
-
-(1) Find the function expression for $y$ in terms of $x$ and the range of the independent variable;
-
-(2) Determine whether the points $\left(-2,2\right)$ and $\left(1,4\right)$ lie on the graph of this function.
-
-### Solution to Review Problem 2
-
-(1) Substituting $x=-6$, $y=\frac23$ gives $k=\left(-6\right)\times\frac23=-4$, hence
-
-$$
-y=-\frac4x,
-$$
-
-and the range of the independent variable $x$ is $x\ne0$.
-
-(2) Check whether the product of the x- and y-coordinates equals $k=-4$. Point $\left(-2,2\right)$: $\left(-2\right)\times2=-4$, on the graph. Point $\left(1,4\right)$: $1\times4=4\ne-4$, not on the graph. $\blacksquare$
-
-## Review Problem 3
-
-(Review Problem, Comprehensive Application, Problem 5) For the inverse proportional function $y=\frac{k-1}{x}$, in every quadrant $y$ decreases as $x$ increases. Find the range of $k$.
-
-### Solution to Review Problem 3
-
-By Basic Knowledge, for $y$ to decrease as $x$ increases in each quadrant, we need $k-1> 0$, hence $k> 1$. $\blacksquare$
-
-## Review Problem 4
 
 (Review Problem, Comprehensive Application, Problem 6) The areas of the three faces $A,B,C$ of a brick are in the ratio $4:2:1$. If the $B$ face is placed downward on the ground, the pressure intensity on the ground is $p$. When the $A$ face and the $C$ face are placed downward respectively, what is the pressure intensity on the ground in each case?
 
-### Solution to Review Problem 4
+### Solution to Review Problem 1
 
 Let the areas of the three faces $A,B,C$ be $4S,2S,S$. The weight $F$ of the brick is constant, and the pressure intensity is $p=\frac FS$.
 
@@ -60,7 +52,7 @@ When the $C$ face is down, $p_C=\frac FS=\frac{2Sp}{S}=2p$.
 
 Hence when the $A$ face is down the pressure intensity is $\frac p2$, and when the $C$ face is down it is $2p$. $\blacksquare$
 
-## Review Problem 5
+## Review Problem 2
 
 (Review Problem, Comprehensive Application, Problem 7) The lifespan of a certain brand of monitor is about $3\times10^4\ \text{h}$.
 
@@ -68,37 +60,37 @@ Hence when the $A$ face is down the pressure intensity is $\frac p2$, and when t
 
 (2) If it works an average of $10\ \text{h}$ per day, approximately how many days can it be used?
 
-### Solution to Review Problem 5
+### Solution to Review Problem 2
 
 (1) From $dt=3\times10^4$, we get $d=\frac{30000}{t}$.
 
 (2) When $t=10$, $d=\frac{30000}{10}=3000$ days. $\blacksquare$
 
-## Review Problem 6
+## Review Problem 3
 
 (Review Problem, Comprehensive Application, Problem 8) Match the function expressions below with their graphs: given the graphs of $y=k/x$ for the two cases $k> 0$ and $k< 0$.
 
-### Solution to Review Problem 6
+### Solution to Review Problem 3
 
 By Basic Knowledge, the graph for $k> 0$ is a hyperbola in the first and third quadrants, and the graph for $k< 0$ is a hyperbola in the second and fourth quadrants; match them accordingly. $\blacksquare$
 
-## Review Problem 7
+## Review Problem 4
 
 (Review Problem, Extension and Exploration, Problem 9) Do the graphs of two different inverse proportional functions have any common points? Why?
 
-### Solution to Review Problem 7
+### Solution to Review Problem 4
 
 Let the two inverse proportional functions be $y=\frac{k_1}{x}$ and $y=\frac{k_2}{x}$, with $k_1\ne k_2$. If they had a common point $\left(x,y\right)$, then $\frac{k_1}{x}=\frac{k_2}{x}$, i.e. $k_1=k_2$, contradicting $k_1\ne k_2$. Hence the graphs of two different inverse proportional functions have no common points. $\blacksquare$
 
-## Review Problem 8
+## Review Problem 5
 
 (Review Problem, Extension and Exploration, Problem 10) In the same rectangular coordinate system, the graph of the direct proportional function $y=k_1x$ and the graph of the inverse proportional function $y=\frac{k_2}{x}$ have no common point. Determine the range of $k_1,k_2$.
 
-### Solution to Review Problem 8
+### Solution to Review Problem 5
 
 If they had an intersection, then $k_1x=\frac{k_2}{x}$, i.e. $x^2=\frac{k_2}{k_1}$. For the two to have no common point, this equation must have no real solution, i.e. $\frac{k_2}{k_1}< 0$. Hence $k_1,k_2$ have opposite signs. $\blacksquare$
 
-## Review Problem 9
+## Review Problem 6
 
 (Review Problem, Extension and Exploration, Problem 11) A water conservancy project needs to transport a total of $10^6\ \text{m}^3$ of earth and stone.
 
@@ -106,7 +98,7 @@ If they had an intersection, then $k_1x=\frac{k_2}{x}$, i.e. $x^2=\frac{k_2}{k_1
 
 (2) There are originally $100$ trucks, which together transport $10^4\ \text{m}^3$ per day. After $40$ days of transport, the remaining task must be completed within $50$ days. At least how many additional trucks should be added?
 
-### Solution to Review Problem 9
+### Solution to Review Problem 6
 
 (1) From $vt=10^6$, we get $v=\frac{10^6}{t}$.
 
@@ -118,7 +110,7 @@ If they had an intersection, then $k_1x=\frac{k_2}{x}$, i.e. $x^2=\frac{k_2}{k_1
 
 ### Solution to Exercise 1
 
-By Rotation of a Figure, rotation is the turning of a figure about a fixed point through an angle.
+By **Definition 28.1.1 (Rotation of a Figure)**, rotation is the turning of a figure about a fixed point through an angle.
 
 The hands of a clock turn about the center of the dial: the center of rotation is the center of the dial, and the angle of rotation is the angle the hand turns through; the blades of a windmill turn about the center of the axle: the center of rotation is the center of the axle, and the angle of rotation is the angle between adjacent blades; a steering wheel turns about its central axis: the center of rotation is the center of the axis, and the angle of rotation is the angle the wheel turns through. $\blacksquare$
 
@@ -130,7 +122,7 @@ The figure shows a straight lever with fulcrum $O$; a heavy object hangs from th
 
 ### Solution to Exercise 2
 
-By Rotation of a Figure and Corresponding Point, the lever turns about the fulcrum $O$.
+By **Definition 28.1.1 (Rotation of a Figure)** and **Definition 28.1.2 (Corresponding Point)**, the lever turns about the fulcrum $O$.
 
 The center of rotation of the lever is the fulcrum $O$; the angle formed by the two positions of the lever before and after turning is the angle of rotation ($\angle AOA'$ in the figure). $\blacksquare$
 
@@ -176,7 +168,7 @@ The figure shows several groups of rotation-pattern examples: each group takes a
 
 ### Solution to Exercise 5
 
-By Rotation of a Figure and Properties of Rotation.
+By **Definition 28.1.1 (Rotation of a Figure)** and Properties of Rotation.
 
 (1) The center of rotation determines about which point the basic figure turns, and the angle of rotation determines through how many degrees it turns; when the two differ, the position and the opening angle of the resulting pattern differ.
 
@@ -188,7 +180,7 @@ By Rotation of a Figure and Properties of Rotation.
 
 ### Solution to Problem 1
 
-By Rotation of a Figure.
+By **Definition 28.1.1 (Rotation of a Figure)**.
 
 Snowflake pattern: the center of rotation is the center of the snowflake, and the angle of rotation is the central angle subtended by two adjacent branches, $60^\circ$; windmill pattern: the center of rotation is the center of the windmill, and the angle of rotation is the central angle subtended by two adjacent blades, $90^\circ$. $\blacksquare$
 
@@ -268,7 +260,7 @@ Hence $\angle ABE=60^\circ$, $\angle DAE=60^\circ$, $\angle BED=30^\circ$. $\bla
 
 ### Solution to Problem 6
 
-By Rotation of a Figure.
+By **Definition 28.1.1 (Rotation of a Figure)**.
 
 The windmill pattern is obtained from a single basic blade (a right trapezoid or a triangle) rotated successively three times through $90^\circ$ about the center of the windmill; the center of rotation is the center of the windmill, and each angle of rotation is $90^\circ$. $\blacksquare$
 
@@ -352,7 +344,7 @@ Join $O$ to each vertex; on the extended ray take the corresponding point such t
 
 ### Solution to Exercise 8
 
-By Centrally Symmetric Figure.
+By **Definition 28.2.2 (Centrally Symmetric Figure)**.
 
 A circle coincides with itself after being rotated about its center through $180^\circ$, so a circle is a centrally symmetric figure, with the center of the circle as its center of symmetry. $\blacksquare$
 
@@ -362,7 +354,7 @@ A circle coincides with itself after being rotated about its center through $180
 
 ### Solution to Exercise 9
 
-By Centrally Symmetric Figure, a figure that coincides with itself after being rotated about its center through $180^\circ$ is a centrally symmetric figure.
+By **Definition 28.2.2 (Centrally Symmetric Figure)**, a figure that coincides with itself after being rotated about its center through $180^\circ$ is a centrally symmetric figure.
 
 Among the given patterns, those that coincide with themselves after being rotated about their center through $180^\circ$ are centrally symmetric figures; otherwise they are not. Examples: a segment, a parallelogram, a rectangle, a rhombus, a square, a circle, a windmill, etc. $\blacksquare$
 
@@ -424,7 +416,7 @@ Construct the symmetric points of each vertex about $O$ and join them in order t
 
 ### Solution to Problem 10
 
-By Centrally Symmetric Figure.
+By **Definition 28.2.2 (Centrally Symmetric Figure)**.
 
 A figure that coincides with itself after being rotated about its center through $180^\circ$ is a centrally symmetric figure, with the center about which it rotates as the center of symmetry; otherwise it is not a centrally symmetric figure. $\blacksquare$
 
@@ -454,7 +446,7 @@ $a=-5$, $b=-1$. $\blacksquare$
 
 ### Solution to Problem 13
 
-By Centrally Symmetric Figure.
+By **Definition 28.2.2 (Centrally Symmetric Figure)**.
 
 If the two semicircles are centrally symmetric about some point, then that point is the midpoint of $O_1O_2$; after the figure is rotated about this point through $180^\circ$, the two semicircles swap positions and coincide. Hence this figure is a centrally symmetric figure, with the center of symmetry at the midpoint of the segment $O_1O_2$. $\blacksquare$
 
@@ -467,3 +459,37 @@ If the two semicircles are centrally symmetric about some point, then that point
 By Properties of Central Symmetry.
 
 Rotate $\triangle ABC$ about the midpoint of the side $BC$ through $180^\circ$ to obtain a triangle symmetric to it about this midpoint; the two triangles form a parallelogram with $AB$ and $AC$ as adjacent sides. $\blacksquare$
+
+## Problem 15
+
+(Exercise 28.2, Comprehensive Application, Problem 7) As shown in the figure, explain how to obtain $\triangle DEC$ from $\triangle ABC$ through translation, axial symmetry, or rotation.
+
+### Solution to Problem 15
+
+By Properties of Central Symmetry.
+
+Observing the corresponding vertices, if $C$ is the common point among the corresponding vertices and $A$, $B$ correspond to $D$, $E$ respectively, then $\triangle ABC$ can be rotated about the point $C$ through an appropriate angle to obtain $\triangle DEC$. $\blacksquare$
+
+## Problem 16
+
+(Exercise 28.2, Comprehensive Application, Problem 8) There is a rectangular plot of land whose adjacent side lengths are $10\,\text{m}$ and $6\,\text{m}$. A flower bed is to be created on the plot such that its area is half the area of the plot and its shape is a centrally symmetric figure. How should it be designed (provide two design schemes)?
+
+### Solution to Problem 16
+
+By **Definition 28.2.2 (Centrally Symmetric Figure)**.
+
+The area of the rectangular plot is $10\times6=60\,\text{m}^2$, and the area of the flower bed is $30\,\text{m}^2$.
+
+Scheme 1: taking the center of the rectangle as the center of symmetry, take the flower bed to be a small rectangle concentric with the large one, with area half that of the large rectangle.
+
+Scheme 2: taking the center of the rectangle as the center of symmetry, take the flower bed to be a rhombus inscribed in the rectangle (joining the midpoints of the sides), with area half that of the rectangle. $\blacksquare$
+
+## Problem 17
+
+(Exercise 28.2, Comprehensive Application, Problem 9) In the rectangular coordinate system, construct the point $B$ symmetric to the point $A\left(-3,2\right)$ about the $x$-axis, then construct the point $C$ symmetric to the point $B$ about the $y$-axis. Write the coordinates of the point $C$. What is the relationship between the point $A$ and the point $C$? What can you conclude from this?
+
+### Solution to Problem 17
+
+A point symmetric about the $x$-axis keeps its x-coordinate and takes the opposite y-coordinate, so $B\left(-3,-2\right)$. A point symmetric about the $y$-axis keeps its y-coordinate and takes the opposite x-coordinate, so $C\left(3,-2\right)$.
+
+The coordinates of $C\left(3,-2\right)$ and $A\left(-3,2\right)$ have opposite signs, so $A$ and $C$ are symmetric about the origin. It follows: reflecting a point first about the $x$-axis and then about the $y$-axis is equivalent to central symmetry of the point about the origin. $\blacksquare$

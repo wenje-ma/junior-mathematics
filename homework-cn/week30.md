@@ -1,12 +1,228 @@
 # week30
 
+> **结论 13.1.1 (三角形三边关系)**
+> 
+> 三角形任意两边的和大于第三边, 任意两边的差小于第三边.
+
+> **结论 13.2.1 (三角形三边关系)**
+> 
+> 三角形任意两边的和大于第三边, 任意两边的差小于第三边. 反之, 三条线段中任意两条的和大于第三条时, 它们才能组成三角形.
+
+> **定义 13.2.1 (中线)**
+> 
+> 连接顶点与对边中点的线段叫作中线, 三条中线交于重心.
+
+> **定义 13.2.1 (三角形的重心)**
+> 
+> 三角形的三条中线相交于一点, 该点叫作三角形的重心, 匀质三角形薄板的重心就位于此点.
+
+> **定义 13.2.2 (角平分线)**
+> 
+> 角的平分线与对边相交所得线段叫作三角形的角平分线.
+
+> **定义 13.2.3 (高)**
+> 
+> 从顶点向对边所在直线作垂线, 顶点与垂足间的线段叫作高.
+
+> **定理 13.3.1 (三角形内角和定理)**
+> 
+> 三角形的内角和等于 $180^\circ$.
+
+> **结论 13.3.1 (直角三角形的锐角互余)**
+> 
+> 直角三角形的两个锐角互余; 反之, 有两个角互余的三角形是直角三角形. 直角三角形记作 $\text{Rt}\triangle$.
+
+> **定义 13.3.1 (三角形的外角)**
+> 
+> 三角形的一边与另一边的延长线组成的角, 叫作三角形的外角.
+
+> **推论 13.3.1 (外角与不相邻内角的关系)**
+> 
+> 三角形的外角等于与它不相邻的两个内角的和. 三角形的三个外角和等于 $360^\circ$.
+
+> **结论 13.3.1 (直角三角形锐角互余)**
+> 
+> 直角三角形的两个锐角互余; 有两个角互余的三角形是直角三角形.
+
+> **定义 14.1.1 (全等形与全等三角形)**
+> 
+> 能够完全重合的两个图形叫作全等形; 能够完全重合的两个三角形叫作全等三角形, 记作 $\triangle ABC\cong\triangle A'B'C'$.
+
+> **结论 14.1.1 (全等三角形的性质)**
+> 
+> 全等三角形的对应边相等, 对应角相等.
+
+> **定义 14.1.2 (对应元素)**
+> 
+> 把两个全等三角形重合到一起, 重合的顶点叫作对应顶点, 重合的边叫作对应边, 重合的角叫作对应角.
+
+> **结论 数学活动一 (三角剖分)**
+> 
+> 把一个多边形用连接它的不相邻顶点且不在内部相交的线段划分为若干个三角形, 叫作多边形的三角剖分. $n$ 边形的三角剖分得到 $n-2$ 个三角形, 不同剖分方法数 $D_n$ 满足 $\frac{D_{n+1}}{D_n}=\frac{4n-6}{n}$ ($D_3=1$).
+
+> **结论 综合与实践一 (简单图形的重心)**
+> 
+> 匀质线段的重心为它的中点; 正方形, 长方形, 平行四边形等中心对称图形的重心为其对称中心 (对角线交点); 三角形的重心为三条中线的交点.
+
+> **结论 综合与实践二 (组合图形的重心)**
+> 
+> 把组合图形分割成若干已知重心位置的简单图形, 设第 $i$ 部分的面积为 $S_i$, 重心坐标为 $\left(x_i,y_i\right)$, 则整体重心坐标为
+
 ## 习题一
 
-(习题 13.3 拓广探索第 11 题) 如图, $CE$ 是 $\triangle ABC$ 的外角 $\angle ACD$ 的平分线, 且 $CE$ 交 $BA$ 的延长线于点 $E$. 求证 $\angle BAC=\angle B+2\angle E$.
+(习题 13.3 复习巩固第 4 题) 如图, 在 $\triangle ABC$ 中, $AD\perp BC$, 垂足为 $D$, $\angle 1=\angle 2$, $\angle C=65^\circ$. 求 $\angle BAC$ 的度数.
 
 ### 解答 习题一
 
-由外角与不相邻内角的关系, $\angle BAC$ 是 $\triangle ACE$ 在点 $A$ 处的外角, 故
+在 $\text{Rt}\triangle ADC$ 中, 由直角三角形的锐角互余,
+
+$$
+\angle DAC=90^\circ-\angle C=90^\circ-65^\circ=25^\circ.
+$$
+
+在 $\text{Rt}\triangle ADB$ 中, $\angle ADB=90^\circ$, 故 $\angle 1+\angle 2=90^\circ$. 由 $\angle 1=\angle 2$, 得 $\angle 1=45^\circ$.
+
+因此
+
+$$
+\angle BAC=\angle 1+\angle DAC=45^\circ+25^\circ=70^\circ.
+$$
+
+$\blacksquare$
+
+## 习题二
+
+(习题 13.3 综合运用第 5 题) 如图, $AB\parallel CD$, $\angle A=40^\circ$, $\angle D=45^\circ$. 求 $\angle 1$ 和 $\angle 2$ 的度数.
+
+### 解答 习题二
+
+由 $AB\parallel CD$, 直线 $AC$ 截这组平行线所得内错角相等, 故 $\angle 1=\angle A=40^\circ$. 同理, 直线 $BD$ 截得 $\angle DBA=\angle D=45^\circ$.
+
+在 $\triangle AOB$ 中, 由**定理 13.3.1 (三角形内角和定理)**,
+
+$$
+\angle 2=180^\circ-\angle A-\angle DBA=180^\circ-40^\circ-45^\circ=95^\circ.
+$$
+
+故 $\angle 1=40^\circ$, $\angle 2=95^\circ$. $\blacksquare$
+
+## 习题三
+
+(习题 13.3 综合运用第 6 题) 如图, $AB\parallel CD$, $AE$ 与 $CD$ 相交于点 $O$, $\angle A=45^\circ$, $\angle C=\angle E$. 求 $\angle C$ 的度数.
+
+### 解答 习题三
+
+由 $AB\parallel CD$, 直线 $AE$ 截得内错角相等, 故 $\angle COE=\angle A=45^\circ$.
+
+在 $\triangle COE$ 中, 由**定理 13.3.1 (三角形内角和定理)** 及 $\angle C=\angle E$,
+
+$$
+2\angle C+45^\circ=180^\circ.
+$$
+
+解得 $\angle C=67.5^\circ$. $\blacksquare$
+
+## 习题四
+
+(习题 13.3 综合运用第 7 题) 如图, $B$ 处在 $A$ 处的南偏西 $45^\circ$ 方向, $C$ 处在 $A$ 处的南偏东 $15^\circ$ 方向, $C$ 处在 $B$ 处的北偏东 $80^\circ$ 方向. 求 $\angle ACB$ 的度数.
+
+### 解答 习题四
+
+在点 $A$ 处, 正南方向为基准, $B$ 在其西 $45^\circ$, $C$ 在其东 $15^\circ$, 故
+
+$$
+\angle BAC=45^\circ+15^\circ=60^\circ.
+$$
+
+点 $A$ 与点 $B$ 的南北方向线互相平行, 由内错角相等, 从 $B$ 看 $A$ 为北偏东 $45^\circ$. 又 $C$ 在 $B$ 的北偏东 $80^\circ$, 故
+
+$$
+\angle ABC=80^\circ-45^\circ=35^\circ.
+$$
+
+由**定理 13.3.1 (三角形内角和定理)**,
+
+$$
+\angle ACB=180^\circ-\angle BAC-\angle ABC=180^\circ-60^\circ-35^\circ=85^\circ.
+$$
+
+$\blacksquare$
+
+## 习题五
+
+(习题 13.3 综合运用第 8 题) 如图, 在 $\triangle ABC$ 中, $D$ 是边 $AB$ 上一点, $E$ 是边 $AC$ 上一点, $BE$, $CD$ 相交于点 $F$, $\angle A=62^\circ$, $\angle ACD=35^\circ$, $\angle ABE=20^\circ$. 求 $\angle BDC$ 和 $\angle BFD$ 的度数.
+
+### 解答 习题五
+
+由**推论 13.3.1 (外角与不相邻内角的关系)**, $\angle BDC$ 是 $\triangle ADC$ 在点 $D$ 处的外角, 故
+
+$$
+\angle BDC=\angle A+\angle ACD=62^\circ+35^\circ=97^\circ.
+$$
+
+在 $\triangle BDF$ 中, $\angle BDF=\angle BDC=97^\circ$, $\angle DBF=\angle ABE=20^\circ$. 由**定理 13.3.1 (三角形内角和定理)**,
+
+$$
+\angle BFD=180^\circ-\angle BDF-\angle DBF=180^\circ-97^\circ-20^\circ=63^\circ.
+$$
+
+$\blacksquare$
+
+## 习题六
+
+(习题 13.3 综合运用第 9 题) 如图, 在 $\triangle ABC$ 中, $\angle A=100^\circ$, $\angle 1=\angle 2$, $\angle 3=\angle 4$. 求 $x$ 的值.
+
+### 解答 习题六
+
+由**定理 13.3.1 (三角形内角和定理)**,
+
+$$
+\angle B+\angle C=180^\circ-\angle A=80^\circ.
+$$
+
+由 $\angle 1=\angle 2$, 得 $\angle B=2\angle 2$; 由 $\angle 3=\angle 4$, 得 $\angle C=2\angle 4$. 故
+
+$$
+2\angle 2+2\angle 4=80^\circ,\quad \angle 2+\angle 4=40^\circ.
+$$
+
+在含 $x$ 的三角形中,
+
+$$
+x=180^\circ-\left(\angle 2+\angle 4\right)=180^\circ-40^\circ=140^\circ.
+$$
+
+$\blacksquare$
+
+## 习题七
+
+(习题 13.3 拓广探索第 10 题) 如图, $AB\parallel CD$, $\angle BAE=\angle DCE=45^\circ$. 填空.
+
+### 解答 习题七
+
+由 $AB\parallel CD$, 直线 $AE$, $CE$ 截出的同旁内角之和为 $180^\circ$, 故
+
+$$
+\angle 1+45^\circ+\angle 2+45^\circ=180^\circ.
+$$
+
+从而
+
+$$
+\angle 1+\angle 2=180^\circ-90^\circ=90^\circ.
+$$
+
+在 $\triangle AEC$ 中, 由**定理 13.3.1 (三角形内角和定理)**, $\angle E=180^\circ-\left(\angle 1+\angle 2\right)=90^\circ$.
+
+故依次填 $180^\circ$, $90^\circ$, $90^\circ$. $\blacksquare$
+
+## 习题八
+
+(习题 13.3 拓广探索第 11 题) 如图, $CE$ 是 $\triangle ABC$ 的外角 $\angle ACD$ 的平分线, 且 $CE$ 交 $BA$ 的延长线于点 $E$. 求证 $\angle BAC=\angle B+2\angle E$.
+
+### 解答 习题八
+
+由**推论 13.3.1 (外角与不相邻内角的关系)**, $\angle BAC$ 是 $\triangle ACE$ 在点 $A$ 处的外角, 故
 
 $$
 \angle BAC=\angle ACE+\angle E.
@@ -100,7 +316,7 @@ $$
 
 ### 解答 复习题一
 
-由三角形内角和定理 及直角三角形锐角互余 逐一判断.
+由**定理 13.3.1 (三角形内角和定理)** 及直角三角形锐角互余 逐一判断.
 
 条件 (1): 两个角为锐角不能确定第三个角是否为直角, 不能确定.
 
@@ -118,13 +334,13 @@ $$
 
 ### 解答 复习题二
 
-由高, 以 $BD$ 为底时高为 $AE$. 由三角形面积公式,
+由**定义 13.2.3 (高)**, 以 $BD$ 为底时高为 $AE$. 由三角形面积公式,
 
 $$
 S_{\triangle ABD}=\frac{1}{2}\cdot BD\cdot AE=\frac{1}{2}\times BD\times2=1.5.
 $$
 
-解得 $BD=1.5$. 由中线, $D$ 是 $BC$ 的中点, 故 $BC=2BD=3$, $DC=BD=1.5$. $\blacksquare$
+解得 $BD=1.5$. 由**定义 13.2.1 (中线)**, $D$ 是 $BC$ 的中点, 故 $BC=2BD=3$, $DC=BD=1.5$. $\blacksquare$
 
 ## 复习题三
 
@@ -160,7 +376,7 @@ $$
 
 ### 解答 复习题四
 
-由三角形内角和定理 及外角与不相邻内角的关系.
+由**定理 13.3.1 (三角形内角和定理)** 及**推论 13.3.1 (外角与不相邻内角的关系)**.
 
 图 (1): 直角三角形中一锐角为 $50^\circ$, 故 $x=90^\circ-50^\circ=40^\circ$.
 
@@ -180,7 +396,7 @@ $$
 
 ### 解答 复习题五
 
-由三角形内角和定理, 在 $\triangle ABC$ 中, $\angle A+\angle B+\angle 1=180^\circ$. 又 $\angle A=\angle 1-10^\circ$, $\angle B=42^\circ$, 代入:
+由**定理 13.3.1 (三角形内角和定理)**, 在 $\triangle ABC$ 中, $\angle A+\angle B+\angle 1=180^\circ$. 又 $\angle A=\angle 1-10^\circ$, $\angle B=42^\circ$, 代入:
 
 $$
 \left(\angle 1-10^\circ\right)+42^\circ+\angle 1=180^\circ,
@@ -196,7 +412,7 @@ $$
 
 ### 解答 复习题六
 
-由三角形内角和定理,
+由**定理 13.3.1 (三角形内角和定理)**,
 
 $$
 \angle A+2\angle A+2\angle A=180^\circ,
@@ -204,7 +420,7 @@ $$
 
 解得 $\angle A=36^\circ$, 故 $\angle C=72^\circ$.
 
-由高, $BD\perp AC$, 在 $\text{Rt}\triangle BDC$ 中, 由直角三角形锐角互余,
+由**定义 13.2.3 (高)**, $BD\perp AC$, 在 $\text{Rt}\triangle BDC$ 中, 由直角三角形锐角互余,
 
 $$
 \angle DBC=90^\circ-\angle C=90^\circ-72^\circ=18^\circ.
@@ -218,15 +434,15 @@ $\blacksquare$
 
 ### 解答 复习题七
 
-由三角形内角和定理,
+由**定理 13.3.1 (三角形内角和定理)**,
 
 $$
 \angle ABC=180^\circ-50^\circ-70^\circ=60^\circ.
 $$
 
-由高, $AD\perp BC$, 在 $\text{Rt}\triangle ADC$ 中, $\angle DAC=90^\circ-\angle C=90^\circ-70^\circ=20^\circ$.
+由**定义 13.2.3 (高)**, $AD\perp BC$, 在 $\text{Rt}\triangle ADC$ 中, $\angle DAC=90^\circ-\angle C=90^\circ-70^\circ=20^\circ$.
 
-由角平分线, $AE$ 平分 $\angle BAC$, 故 $\angle BAO=25^\circ$; $BF$ 平分 $\angle ABC$, 故 $\angle ABO=30^\circ$. 在 $\triangle ABO$ 中,
+由**定义 13.2.2 (角平分线)**, $AE$ 平分 $\angle BAC$, 故 $\angle BAO=25^\circ$; $BF$ 平分 $\angle ABC$, 故 $\angle ABO=30^\circ$. 在 $\triangle ABO$ 中,
 
 $$
 \angle BOA=180^\circ-\angle BAO-\angle ABO=180^\circ-25^\circ-30^\circ=125^\circ.
@@ -244,13 +460,13 @@ $\blacksquare$
 
 ### 解答 复习题八
 
-由角平分线, $BE$ 平分 $\angle ABC$, $CF$ 平分 $\angle ACB$, 故
+由**定义 13.2.2 (角平分线)**, $BE$ 平分 $\angle ABC$, $CF$ 平分 $\angle ACB$, 故
 
 $$
 \angle GBC=\frac{1}{2}\angle ABC,\quad \angle GCB=\frac{1}{2}\angle ACB.
 $$
 
-(1) 在 $\triangle BGC$ 中, 由三角形内角和定理,
+(1) 在 $\triangle BGC$ 中, 由**定理 13.3.1 (三角形内角和定理)**,
 
 $$
 \angle BGC=180^\circ-\angle GBC-\angle GCB=180^\circ-\frac{1}{2}\left(\angle ABC+\angle ACB\right).
@@ -272,7 +488,7 @@ $\blacksquare$
 
 ### 解答 复习题九
 
-设线段 $BE$ 与 $CD$, $AD$ 相交. 由外角与不相邻内角的关系, 五角星中间形成的三角形中, 两个不相邻内角之和等于相应外角, 这些外角又可转化为中央三角形的两个内角之和.
+设线段 $BE$ 与 $CD$, $AD$ 相交. 由**推论 13.3.1 (外角与不相邻内角的关系)**, 五角星中间形成的三角形中, 两个不相邻内角之和等于相应外角, 这些外角又可转化为中央三角形的两个内角之和.
 
 中央三角形的三个内角之和为 $180^\circ$, 而五个尖角 $\angle A$, $\angle B$, $\angle C$, $\angle D$, $\angle E$ 恰好分别等于这三个内角通过外角关系转化后的各个不相邻内角之和. 故
 
@@ -361,115 +577,3 @@ $$
 $$
 
 故 $\angle CBD=39^\circ$, $\angle E=50^\circ$. $\blacksquare$
-
-## 练习一
-
-(练习 14.1 第 1 题) 如图, $\triangle ABC\cong\triangle BDE$, $\angle A$ 和 $\angle EBD$, $\angle C$ 和 $\angle E$ 是对应角. 说出这两个三角形的对应边和另一组对应角.
-
-### 解答 练习一
-
-由对应角的关系, $A$ 与 $B$ 对应, $C$ 与 $E$ 对应, 余下的 $B$ 与 $D$ 对应.
-
-故对应边为 $AB$ 与 $BD$, $BC$ 与 $DE$, $AC$ 与 $BE$; 另一组对应角为 $\angle ABC$ 与 $\angle BDE$. $\blacksquare$
-
-## 练习二
-
-(练习 14.1 第 2 题) 如图, $\triangle OCA\cong\triangle OBD$, 点 $C$ 和点 $B$, 点 $A$ 和点 $D$ 是对应顶点. 说出这两个三角形中相等的边和角.
-
-### 解答 练习二
-
-由对应顶点 $O\leftrightarrow O$, $C\leftrightarrow B$, $A\leftrightarrow D$, 及全等三角形的性质, 相等的边为
-
-$$
-OC=OB,\quad CA=BD,\quad OA=OD.
-$$
-
-相等的角为
-
-$$
-\angle O=\angle O,\quad \angle C=\angle B,\quad \angle A=\angle D.
-$$
-
-$\blacksquare$
-
-## 习题二
-
-(习题 14.1 复习巩固第 1 题) 如图, $\triangle ABC\cong\triangle CDA$, $AB$ 和 $CD$, $BC$ 和 $DA$ 是对应边. 写出其他对应边和对应角.
-
-### 解答 习题二
-
-由对应边 $AB\leftrightarrow CD$, $BC\leftrightarrow DA$, 知顶点对应为 $A\leftrightarrow C$, $B\leftrightarrow D$, $C\leftrightarrow A$.
-
-其他对应边为 $AC$ 与 $CA$. 对应角为 $\angle BAC$ 与 $\angle DCA$, $\angle B$ 与 $\angle D$, $\angle BCA$ 与 $\angle DAC$. $\blacksquare$
-
-## 习题三
-
-(习题 14.1 复习巩固第 2 题) 如图, $\triangle ABN\cong\triangle ACM$, $AB$ 和 $AC$ 是对应边, $\angle B$ 和 $\angle C$ 是对应角. 写出其他对应边和对应角.
-
-### 解答 习题三
-
-由 $AB\leftrightarrow AC$, $\angle B\leftrightarrow\angle C$, 知顶点对应为 $A\leftrightarrow A$, $B\leftrightarrow C$, $N\leftrightarrow M$.
-
-其他对应边为 $BN$ 与 $CM$, $AN$ 与 $AM$. 对应角为 $\angle ANB$ 与 $\angle AMC$, $\angle BAN$ 与 $\angle CAM$. $\blacksquare$
-
-## 习题四
-
-(习题 14.1 综合运用第 3 题) 图中有两个全等三角形, 其中的字母表示三角形的边长, 则 $\angle 1$ 等于多少度?
-
-### 解答 习题四
-
-两个三角形全等, 其内角分别对应相等. 已知两个内角为 $60^\circ$ 与 $54^\circ$, 由三角形内角和定理, 第三个内角为
-
-$$
-180^\circ-60^\circ-54^\circ=66^\circ.
-$$
-
-故 $\angle 1=66^\circ$. $\blacksquare$
-
-## 习题五
-
-(习题 14.1 综合运用第 4 题) 如图, $\triangle EFG\cong\triangle NMH$, $\angle F$ 和 $\angle M$ 是对应角. 在 $\triangle EFG$ 中, $FG$ 是最长边; 在 $\triangle NMH$ 中, $MH$ 是最长边, 且 $EF=2.1$, $EH=1.1$, $NH=3.3$.
-
-(1) 写出其他对应边及对应角;
-
-(2) 求线段 $NM$ 及线段 $HG$ 的长度.
-
-### 解答 习题五
-
-由 $\angle F\leftrightarrow\angle M$ 且最长边 $FG\leftrightarrow MH$, 知顶点对应为 $E\leftrightarrow N$, $F\leftrightarrow M$, $G\leftrightarrow H$.
-
-(1) 其他对应边为 $EF$ 与 $NM$, $EG$ 与 $NH$; 其他对应角为 $\angle E$ 与 $\angle N$, $\angle G$ 与 $\angle H$.
-
-(2) 由全等三角形的性质, $NM=EF=2.1$, $EG=NH=3.3$. 又点 $H$ 在线段 $EG$ 上, 故
-
-$$
-HG=EG-EH=3.3-1.1=2.2.
-$$
-
-故 $NM=2.1$, $HG=2.2$. $\blacksquare$
-
-## 习题六
-
-(习题 14.1 拓广探索第 5 题) 如图, $\triangle ABC\cong\triangle DEC$, $CA$ 和 $CD$, $CB$ 和 $CE$ 是对应边. $\angle ACD$ 和 $\angle BCE$ 相等吗? 为什么?
-
-### 解答 习题六
-
-相等. 由全等三角形的性质, 对应角 $\angle ACB=\angle DCE$.
-
-两边同时减去公共部分 $\angle DCB$, 得
-
-$$
-\angle ACD=\angle ACB-\angle DCB=\angle DCE-\angle DCB=\angle BCE.
-$$
-
-故 $\angle ACD=\angle BCE$. $\blacksquare$
-
-## 练习三
-
-(练习 14.2 第 1 题) 如图, 有一池塘, 要测池塘两端 $A$, $B$ 的距离, 可先在平地上取一个点 $C$, 连接 $AC$ 并延长到点 $D$, 使 $CD=CA$, 连接 $BC$ 并延长到点 $E$, 使 $CE=CB$, 连接 $DE$. 量出 $DE$ 的长就是 $A$, $B$ 的距离, 为什么?
-
-### 解答 练习三
-
-在 $\triangle ABC$ 和 $\triangle DEC$ 中, $CA=CD$, $CB=CE$, 且 $\angle ACB$ 与 $\angle DCE$ 为对顶角, 相等. 由SAS, $\triangle ABC\cong\triangle DEC$.
-
-由全等三角形的性质, 对应边 $AB=DE$, 故量出 $DE$ 的长就是 $A$, $B$ 的距离. $\blacksquare$

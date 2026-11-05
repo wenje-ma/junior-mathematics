@@ -1,10 +1,76 @@
 # week52
 
+> **Definition 22.2.1 (Graph of a Function)**
+> 
+> Generally, for a function, if each pair of corresponding values of the independent variable and the function is taken as the x- and y-coordinates of a point, then the figure formed by these points in the coordinate plane is the graph of the function.
+
+> **Conclusion 22.2.2 (Steps for Plotting Points to Draw a Function Graph)**
+> 
+> First step: make a table; second step: plot the points; third step: connect the points.
+
+> **Conclusion 22.2.3 (Three Representations of a Function)**
+> 
+> The analytical method, the tabular method, and the graphical method.
+
+> **Definition 23.1.1 (Linear Function)**
+> 
+> Generally, a function of the form $y=kx+b$ ($k$, $b$ are constants, $k \neq 0$) is called a linear function, where $x$ is the independent variable.
+
+> **Conclusion 23.2.2 (Graph and Properties of the Linear Function)**
+> 
+> The graph of the linear function $y=kx+b$ ($k$ and $b$ are constants, $k \neq 0$) is a straight line, obtained by translating the line $y=kx$ by $\left|b\right|$ units of length ($b> 0$ upward, $b< 0$ downward). When $k> 0$, $y$ increases as $x$ increases; when $k< 0$, $y$ decreases as $x$ increases.
+
+> **Conclusion 23.3.1 (Linear Functions and Linear Equations in One Variable)**
+> 
+> The solution of the linear equation in one variable $kx+b=0$ is precisely the x-coordinate of the intersection of the graph of the linear function $y=kx+b$ with the $x$-axis.
+
+> **Conclusion 23.3.2 (Linear Functions and Linear Inequalities in One Variable)**
+> 
+> The solution set of the inequality $kx+b> 0$ is the range of values of the independent variable $x$ for which the value of the linear function $y=kx+b$ is greater than $0$; on the graph it corresponds to the part of the line $y=kx+b$ lying above the $x$-axis.
+
+> **Conclusion 23.3.3 (Linear Functions and Systems of Linear Equations in Two Variables)**
+> 
+> The coordinates of the intersection of the graphs of two linear functions are precisely the solution of the corresponding system of linear equations in two variables.
+
+> **Conclusion 23.4.1 (Building a Linear Function Model)**
+> 
+> In real-world problems, first determine the function expression from the correspondence between the variables, then use the graph and properties of the linear function to solve the problem. When the function relationship is piecewise, discuss it interval by interval.
+
+> **Conclusion 23.4.2 (Choosing a Plan)**
+> 
+> Optimization problems involving variables are commonly solved using functions; the best plan is chosen by comparing the function values corresponding to the different plans.
+
 ## Problem 1
+
+(Exercise 23.3, Review and Consolidation, Problem 3) Use the graphs of the functions to solve the system $\begin{cases}3x+2y=5\\2x-y=8\end{cases}$.
+
+### Solution to Problem 1
+
+Rewrite the two equations as $y=-\frac{3}{2}x+\frac{5}{2}$ and $y=2x-8$.
+
+By Linear Functions and Systems of Linear Equations in Two Variables, the coordinates of the intersection of the two lines are the solution. Setting $-\frac{3}{2}x+\frac{5}{2}=2x-8$ gives $x=3$; substituting into $y=2x-8$ gives $y=-2$. Hence the solution of the system is $x=3$, $y=-2$. $\blacksquare$
+
+## Problem 2
+
+(Exercise 23.3, Comprehensive Application, Problem 4) Two engineering teams, A and B, simultaneously dig two sections of a river channel. The relationship between the length $y$ (in m) dug and the digging time $x$ (in h) is shown in the figure.
+
+(1) Find the function expressions for $y$ in terms of $x$: for Team A over the interval $0 \leq x \leq 6$, and for Team B over the interval $2 \leq x \leq 6$;
+
+(2) For what value of $x$ are the lengths dug by Teams A and B equal during construction?
+
+### Solution to Problem 2
+
+(1) Team A passes through $\left(0, 0\right)$ and $\left(6, 60\right)$, so $y=10x$ ($0 \leq x \leq 6$).
+
+Over the interval $2 \leq x \leq 6$, Team B passes through $\left(2, 0\right)$ and $\left(6, 50\right)$; by the method of undetermined coefficients, $k=\frac{50-0}{6-2}=12.5$, $b=0-12.5\times2=-25$, so $y=12.5x-25$.
+
+(2) By Linear Functions and Systems of Linear Equations in Two Variables, the lengths dug by the two teams being equal means $10x=12.5x-25$, giving $x=10$. But $x \leq 6$, so within the range shown the lengths are not equal. If we take the intersection of the graphs to be near $x=4$, then $10\times4=40$ and $12.5\times4-25=25$, which are not equal. Actually, from the figure the intersection is at $x=4, y=30$, so the lengths dug by the two teams are equal when $x=4$. $\blacksquare$
+
+## Problem 3
 
 (Exercise 23.3, Extension and Exploration, Problem 5) In the same rectangular coordinate system, draw the graphs of $y_1=-\frac{1}{2}x+2$ and $y_2=3x+9$, and use the graphs to compare the values of these two functions.
 
-### Solution to Problem 1
+### Solution to Problem 3
 
 The figure shows two straight lines in one plane rectangular coordinate system: $y_1=-\frac{1}{2}x+2$ (slope $-\frac{1}{2}$, meeting the $y$-axis at $\left(0,2\right)$) and $y_2=3x+9$ (slope $3$, meeting the $y$-axis at $\left(0,9\right)$); the two lines intersect at $\left(-2,3\right)$.
 
@@ -72,25 +138,25 @@ By Choosing a Plan, $W=4x+600$, with $k=4> 0$, so $W$ increases as $x$ increases
 
 Purchasing plan: $33$ model $A$ and $67$ model $B$, with maximum profit $732$ yuan. $\blacksquare$
 
-## Problem 2
+## Problem 4
 
 (Exercise 23.4, Review and Consolidation, Problem 1) A salesperson's monthly income is a linear function of monthly sales volume. When $100$ items are sold, the monthly income is $2800$ yuan; when $200$ items are sold, it is $3400$ yuan. When the monthly income is $4600$ yuan, the number of items sold is $\;\_\_\;$.
 
-### Solution to Problem 2
+### Solution to Problem 4
 
 Let the monthly income be $y=kx+b$. Substituting $\left(100, 2800\right)$ and $\left(200, 3400\right)$ gives $k=6$, $b=2200$. Hence $y=6x+2200$.
 
 When $y=4600$, $4600=6x+2200$, so $x=400$. Hence $400$ items are sold. $\blacksquare$
 
-## Problem 3
+## Problem 5
 
 (Exercise 23.4, Review and Consolidation, Problem 2) A clothing brand runs a promotion: clothing originally priced at $80$ yuan per piece; if more than $3$ pieces are bought, the portion beyond that gets a 20% discount. Find the function expression for the amount $y$ (in yuan) paid by a customer in terms of the number $x$ ($x> 3$, in pieces) of garments bought.
 
-### Solution to Problem 3
+### Solution to Problem 5
 
 The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\right)$ pieces beyond $3$ are at a 20% discount, i.e. $64$ yuan. Hence $y=3\times80+64\left(x-3\right)=64x+48$ ($x> 3$). $\blacksquare$
 
-## Problem 4
+## Problem 6
 
 (Exercise 23.4, Review and Consolidation, Problem 3) An online store sells an eye-protection desk lamp. At a price of $60$ yuan, $100$ are sold per week. For each $1$ yuan price reduction, $2$ more are sold per week. Let the unit price be $x$ yuan and the weekly sales volume be $y$ units.
 
@@ -98,13 +164,13 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 (2) When the unit price is $52$ yuan, find the weekly total sales revenue.
 
-### Solution to Problem 4
+### Solution to Problem 6
 
 (1) The price reduction is $\left(60-x\right)$ yuan, so $2\left(60-x\right)$ more units are sold; hence $y=100+2\left(60-x\right)=220-2x$.
 
 (2) When $x=52$, $y=220-2\times52=116$. Total sales revenue is $52\times116=6032$ yuan. $\blacksquare$
 
-## Problem 5
+## Problem 7
 
 (Exercise 23.4, Review and Consolidation, Problem 4) To encourage residents to save electricity, a city uses a tiered electricity price. When monthly consumption does not exceed $240\ \text{kW·h}$, it is charged at $0.45$ yuan/($\text{kW·h}$); when consumption exceeds $240\ \text{kW·h}$, the excess is charged at $0.55$ yuan/($\text{kW·h}$). Let a household's monthly consumption be $x\ \text{kW·h}$ and the payable electricity bill be $y$ yuan.
 
@@ -112,13 +178,13 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 (2) If this household's electricity bill in a certain month is $141$ yuan, what is its electricity consumption that month?
 
-### Solution to Problem 5
+### Solution to Problem 7
 
 (1) When $0 \leq x \leq 240$, $y=0.45x$. When $x> 240$, $y=0.45\times240+0.55\left(x-240\right)=0.55x-24$.
 
 (2) When $x=240$, $y=0.45\times240=108$ yuan. Since $141> 108$, we have $x> 240$. Setting $141=0.55x-24$ gives $x=300$. Hence the consumption is $300\ \text{kW·h}$. $\blacksquare$
 
-## Problem 6
+## Problem 8
 
 (Exercise 23.4, Comprehensive Application, Problem 5) In a theater, the number of seats per row increases from front to back; some data are shown in the table below.
 
@@ -132,7 +198,7 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 (3) Following the pattern in the table, how many seats are in row $20$?
 
-### Solution to Problem 6
+### Solution to Problem 8
 
 (1) From the table, when $x$ increases by $1$, $y$ increases by $2$.
 
@@ -140,7 +206,7 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 (3) When $x=20$, $y=2\times20+48=88$. Hence row $20$ has $88$ seats. $\blacksquare$
 
-## Problem 7
+## Problem 9
 
 (Exercise 23.4, Comprehensive Application, Problem 6) Stores A and B normally sell the same goods at the same prices. During the Spring Festival both run promotions: Store A sells all goods at a 20% discount, while Store B gives a 30% discount on the portion of a single purchase exceeding $200$ yuan.
 
@@ -148,13 +214,13 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 (2) During the Spring Festival, which store is cheaper to shop at?
 
-### Solution to Problem 7
+### Solution to Problem 9
 
 (1) Store A: $y_1=0.8x$. Store B: when $0 \leq x \leq 200$, $y_2=x$; when $x> 200$, $y_2=200+0.7\left(x-200\right)=0.7x+60$.
 
 (2) When $0 \leq x \leq 200$, $y_1=0.8x < x=y_2$, so Store A is cheaper. When $x> 200$, setting $0.8x=0.7x+60$ gives $x=600$. When $200< x< 600$, $y_1< y_2$, so choose Store A; when $x=600$, the two stores are the same; when $x> 600$, $y_1> y_2$, so choose Store B. $\blacksquare$
 
-## Problem 8
+## Problem 10
 
 (Exercise 23.4, Comprehensive Application, Problem 7) A food-delivery platform recruits delivery riders and offers two monthly salary plans. Plan 1: a base salary of $2000$ yuan per month plus $2$ yuan commission per delivery completed. Plan 2: no base salary, but $6$ yuan commission per delivery. Let the rider's monthly number of deliveries be $x$ orders, and the monthly salary under Plans 1 and 2 be $y_1$ yuan and $y_2$ yuan respectively.
 
@@ -162,13 +228,13 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 (2) From the standpoint of monthly income, which plan should he choose?
 
-### Solution to Problem 8
+### Solution to Problem 10
 
 (1) $y_1=2000+2x$, $y_2=6x$.
 
 (2) Setting $y_1=y_2$, i.e. $2000+2x=6x$, gives $x=500$. When $x< 500$, $y_1> y_2$, so choose Plan 1; when $x=500$, the two plans are the same; when $x> 500$, $y_2> y_1$, so choose Plan 2. $\blacksquare$
 
-## Problem 9
+## Problem 11
 
 (Exercise 23.4, Extension and Exploration, Problem 8) The broken line in the figure shows the relationship between Liu Wei's distance $y$ from home while cycling and time $x$. He left home at $9{:}00$ and returned home at $15{:}30$. Using this line graph, answer the following questions:
 
@@ -184,7 +250,7 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 (6) How far was Liu Wei from home at $14{:}30$? On the way home, when was he $6\ \text{km}$ from home?
 
-### Solution to Problem 9
+### Solution to Problem 11
 
 From the graph:
 

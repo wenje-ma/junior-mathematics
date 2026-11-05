@@ -1,26 +1,76 @@
 # week66
 
+> **Definition 26.1.1 (Inverse Proportional Function)**
+> 
+> A function of the form $y=\frac{k}{x}$ (where $k$ is a constant and $k\ne0$) is called an inverse proportional function, and the range of the independent variable $x$ is all real numbers except $0$.
+
+> **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**
+> 
+> The graph of $y=\frac{k}{x}$ is a hyperbola. When $k> 0$, the two branches lie in the first and third quadrants, and in each quadrant $y$ decreases as $x$ increases; when $k< 0$, the two branches lie in the second and fourth quadrants, and in each quadrant $y$ increases as $x$ increases.
+
+> **Definition 26.1.3 (Method of Undetermined Coefficients)**
+> 
+> Given the coordinates of a point on the graph of an inverse proportional function, substituting into $y=\frac{k}{x}$ yields $k$, thereby determining the function expression.
+
+> **Definition 26.2.1 (Modeling with Inverse Proportional Functions in Real-World Problems)**
+> 
+> When the product of two variables is a nonzero constant, i.e. $xy=k$ ($k\ne0$), the two variables are in an inverse proportional function relationship.
+
+> **Definition 26.2.2 (Principle of the Lever)**
+> 
+> the resistance $\times$ the resistance arm $=$ the effort $\times$ the effort arm, i.e. $F_1l_1=F_2l_2$.
+
+> **Definition 26.2.3 (Electrical Relations)**
+> 
+> The power $P$, voltage $U$, and resistance $R$ of an electrical appliance satisfy $PR=U^2$, i.e. $P=\frac{U^2}{R}$.
+
 ## Problem 1
 
-(Problem 26.1, Comprehensive Application, Problem 6) If $y$ is an inverse proportional function of $z$, and $z$ is an inverse proportional function of $x$, what kind of functional relationship holds between $y$ and $x$?
+(Problem 26.1, Comprehensive Application, Problem 4) If $y$ is an inverse proportional function of $x$, is $x$ also an inverse proportional function of $y$?
 
 ### Solution to Problem 1
 
-By Inverse Proportional Function, let $y=\frac{k_1}{z}$ and $z=\frac{k_2}{x}$ ($k_1,k_2\ne0$).
+By **Definition 26.1.1 (Inverse Proportional Function)**, let $y=\frac{k}{x}$ ($k\ne0$); then $x=\frac{k}{y}$, and $k$ is still a nonzero constant.
 
-Substituting gives $y=\frac{k_1}{k_2/x}=\frac{k_1}{k_2}x$, where $\frac{k_1}{k_2}$ is a nonzero constant. Therefore $y$ is a direct proportional function of $x$. $\blacksquare$
+Therefore $x$ is also an inverse proportional function of $y$. $\blacksquare$
 
 ## Problem 2
 
-(Problem 26.1, Comprehensive Application, Problem 7) If $y$ is an inverse proportional function of $z$, and $z$ is a direct proportional function of $x$, with $x\ne0$, what kind of functional relationship holds between $y$ and $x$?
+(Problem 26.1, Comprehensive Application, Problem 5) One of the intersection points of the graph of the direct proportional function $y=x$ and the graph of the inverse proportional function $y=\frac{k}{x}$ has y-coordinate $2$.
+
+(1) When $x=-3$, find the value of the inverse proportional function $y=\frac{k}{x}$;
+
+(2) When $-3< x< -1$, find the range of values of the inverse proportional function $y=\frac{k}{x}$.
 
 ### Solution to Problem 2
+
+The intersection point has y-coordinate $2$ and lies on $y=x$, so its x-coordinate is also $2$, i.e. the intersection point is $\left(2,2\right)$. Substituting into $y=\frac{k}{x}$ gives $2=\frac{k}{2}$, so $k=4$, and hence $y=\frac{4}{x}$.
+
+(1) When $x=-3$, $y=\frac{4}{-3}=-\frac{4}{3}$.
+
+(2) $k=4> 0$, and in the third quadrant $y$ decreases as $x$ increases. When $x=-3$, $y=-\frac{4}{3}$; when $x=-1$, $y=-4$. Since $-3< x< -1$, we have $-4< y< -\frac{4}{3}$. $\blacksquare$
+
+## Problem 3
+
+(Problem 26.1, Comprehensive Application, Problem 6) If $y$ is an inverse proportional function of $z$, and $z$ is an inverse proportional function of $x$, what kind of functional relationship holds between $y$ and $x$?
+
+### Solution to Problem 3
+
+By **Definition 26.1.1 (Inverse Proportional Function)**, let $y=\frac{k_1}{z}$ and $z=\frac{k_2}{x}$ ($k_1,k_2\ne0$).
+
+Substituting gives $y=\frac{k_1}{k_2/x}=\frac{k_1}{k_2}x$, where $\frac{k_1}{k_2}$ is a nonzero constant. Therefore $y$ is a direct proportional function of $x$. $\blacksquare$
+
+## Problem 4
+
+(Problem 26.1, Comprehensive Application, Problem 7) If $y$ is an inverse proportional function of $z$, and $z$ is a direct proportional function of $x$, with $x\ne0$, what kind of functional relationship holds between $y$ and $x$?
+
+### Solution to Problem 4
 
 Let $y=\frac{k_1}{z}$ and $z=k_2x$ ($k_1,k_2\ne0$).
 
 Substituting gives $y=\frac{k_1}{k_2x}=\frac{k_1/k_2}{x}$, where $\frac{k_1}{k_2}$ is a nonzero constant. Therefore $y$ is an inverse proportional function of $x$. $\blacksquare$
 
-## Problem 3
+## Problem 5
 
 (Problem 26.1, Extension and Exploration, Problem 8) In the same rectangular coordinate system, the graphs of the functions $y=kx$ and $y=\frac{k}{x}$ ($k\ne0$) are roughly ( ).
 
@@ -28,9 +78,9 @@ Substituting gives $y=\frac{k_1}{k_2x}=\frac{k_1/k_2}{x}$, where $\frac{k_1}{k_2
 
 (A) (1)(2); (B) (1)(3); (C) (2)(4); (D) (3)(4).
 
-### Solution to Problem 3
+### Solution to Problem 5
 
-By Graph and Properties of the Inverse Proportional Function, the $k$ in $y=kx$ and $y=\frac{k}{x}$ has the same sign.
+By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**, the $k$ in $y=kx$ and $y=\frac{k}{x}$ has the same sign.
 
 If $k> 0$, the line $y=kx$ passes through the first and third quadrants, and the hyperbola $y=\frac{k}{x}$ also lies in the first and third quadrants, corresponding to Figure (2).
 
@@ -38,7 +88,7 @@ If $k< 0$, the line passes through the second and fourth quadrants, and the hype
 
 So choose (C). $\blacksquare$
 
-## Problem 4
+## Problem 6
 
 (Problem 26.1, Extension and Exploration, Problem 9) One branch of the graph of the inverse proportional function $y=\frac{w-\sqrt{2}}{x}$ lies in the first quadrant.
 
@@ -46,9 +96,9 @@ So choose (C). $\blacksquare$
 
 (2) Take any two points $A\left(x_1,y_1\right)$ and $B\left(x_2,y_2\right)$ on the graph of this function. If $y_1> y_2$, what is the size relationship between $x_1$ and $x_2$?
 
-### Solution to Problem 4
+### Solution to Problem 6
 
-By Graph and Properties of the Inverse Proportional Function.
+By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**.
 
 (1) One branch lies in the first quadrant, which means $w-\sqrt{2}> 0$, so the other branch lies in the third quadrant, and $w> \sqrt{2}$.
 
@@ -64,7 +114,7 @@ The figure shows multiple hyperbolas of the inverse proportional function $y=\fr
 
 ### Solution to Information Technology Application 1
 
-By Graph and Properties of the Inverse Proportional Function.
+By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**.
 
 (1) The point symmetric to any point $\left(a,\frac{1}{a}\right)$ on the graph of $y=\frac{1}{x}$ about the line $y=-x$ is $\left(-\frac{1}{a},-a\right)$, and $\left(-\frac{1}{a}\right)\cdot\left(-a\right)=1$, so this point still lies on $y=\frac{1}{x}$. Hence the graph is symmetric about the line $y=-x$. In general, the graph of $y=\frac{k}{x}$ is symmetric both about the line $y=x$ and about the line $y=-x$.
 
@@ -106,7 +156,7 @@ $$
 v=\frac{480}{t}.
 $$
 
-(2) When $t=4$, $v=\frac{480}{4}=120\ \text{km/h}$. By Basic Knowledge, $v$ increases as $t$ decreases, so to return within $4\ \text{h}$, the average speed must be at least $120\ \text{km/h}$. $\blacksquare$
+(2) When $t=4$, $v=\frac{480}{4}=120\ \text{km/h}$. By **Definition 26.2.1 (Modeling with Inverse Proportional Functions in Real-World Problems)**, $v$ increases as $t$ decreases, so to return within $4\ \text{h}$, the average speed must be at least $120\ \text{km/h}$. $\blacksquare$
 
 ## Exercise 3
 
@@ -126,15 +176,15 @@ $$
 
 (2) Each tile has area $80\ \text{cm}^2=0.008\ \text{m}^2$; substituting gives $n=\frac{5000}{0.008}=625000$ tiles. The ratio of gray : white : blue is $2:2:1$, totaling $5$ parts, each part being $625000\div5=125000$ tiles. Thus $250000$ gray tiles, $250000$ white tiles, and $125000$ blue tiles are needed. $\blacksquare$
 
-## Problem 5
+## Problem 7
 
 (Problem 26.2, Review and Consolidation, Problem 1) Give an example of an inverse proportional function used in everyday life.
 
-### Solution to Problem 5
+### Solution to Problem 7
 
-By Modeling with Inverse Proportional Functions in Real-World Problems, when the distance is fixed, the average speed is inversely proportional to the travel time, i.e. $v=\frac{s}{t}$, where the distance $s$ is a constant. For example, the Beijing–Shanghai railway has a total length of $1463\ \text{km}$, and the average train speed $v$ is inversely proportional to the total travel time $t$. $\blacksquare$
+By **Definition 26.2.1 (Modeling with Inverse Proportional Functions in Real-World Problems)**, when the distance is fixed, the average speed is inversely proportional to the travel time, i.e. $v=\frac{s}{t}$, where the distance $s$ is a constant. For example, the Beijing–Shanghai railway has a total length of $1463\ \text{km}$, and the average train speed $v$ is inversely proportional to the total travel time $t$. $\blacksquare$
 
-## Problem 6
+## Problem 8
 
 (Problem 26.2, Review and Consolidation, Problem 2) An agricultural university plans to build a rectangular experimental field with an area of $2\times10^6\ \text{m}^2$.
 
@@ -142,7 +192,7 @@ By Modeling with Inverse Proportional Functions in Real-World Problems, when the
 
 (2) If the ratio of the length to the width of the experimental field is $2:1$, what are the length and width of the field?
 
-### Solution to Problem 6
+### Solution to Problem 8
 
 (1) The area of the rectangle is $xy=2\times10^6$, so
 
@@ -152,17 +202,17 @@ $$
 
 (2) From $y:x=2:1$, we get $y=2x$. Substituting into $xy=2\times10^6$ gives $2x^2=2\times10^6$, $x^2=10^6$, $x=1000\ \text{m}$, $y=2000\ \text{m}$. $\blacksquare$
 
-## Problem 7
+## Problem 9
 
 (Problem 26.2, Review and Consolidation, Problem 3) Xiao Yan's family used a prepaid electricity card to buy $1000\ \text{kW·h}$ of electricity. What is the functional relationship between the number of days $m$ this electricity will last and the average daily electricity usage $n$ of Xiao Yan's family? If the family uses $4\ \text{kW·h}$ of electricity per day on average, how long will this electricity last?
 
-### Solution to Problem 7
+### Solution to Problem 9
 
 The total electricity equals the number of days times the daily usage, i.e. $mn=1000$, so $m=\frac{1000}{n}$.
 
 When $n=4$, $m=\frac{1000}{4}=250$ days. $\blacksquare$
 
-## Problem 8
+## Problem 10
 
 (Problem 26.2, Review and Consolidation, Problem 4) It is known that the current $I$ (unit: $\text{A}$) through a closed circuit and the resistance $R$ (unit: $\Omega$) of the circuit are in an inverse proportional function relationship. Fill in the following table (round results to two decimal places):
 
@@ -180,27 +230,27 @@ I/\text{A} & & & & & & &
 \end{array}
 $$
 
-### Solution to Problem 8
+### Solution to Problem 10
 
-By Electrical Relations, $IR=U$, where $U$ is constant. From the table, when $R=20$, $I=5$ (at the intersection of the two tables), we get $U=100\ \text{V}$, so $I=\frac{100}{R}$.
+By **Definition 26.2.3 (Electrical Relations)**, $IR=U$, where $U$ is constant. From the table, when $R=20$, $I=5$ (at the intersection of the two tables), we get $U=100\ \text{V}$, so $I=\frac{100}{R}$.
 
 First row: $I=1\Rightarrow R=100$; $I=2\Rightarrow R=50$; $I=3\Rightarrow R\approx33.33$; $I=4\Rightarrow R=25$; $I=5\Rightarrow R=20$.
 
 Second row: $R=20\Rightarrow I=5$; $R=25\Rightarrow I=4$; $R=30\Rightarrow I\approx3.33$; $R=50\Rightarrow I=2$; $R=65\Rightarrow I\approx1.54$; $R=80\Rightarrow I=1.25$; $R=90\Rightarrow I\approx1.11$. $\blacksquare$
 
-## Problem 9
+## Problem 11
 
 (Problem 26.2, Review and Consolidation, Problem 5) Given that the distance between Place A and Place B is $s$ (unit: $\text{km}$), and a car travels at a constant speed from Place A to Place B, the graph of the travel time $t$ (unit: $\text{h}$) of the car as a function of the speed $v$ (unit: $\text{km/h}$) is ( ).
 
 (A) an increasing curve through the origin; (B) a straight line through the origin; (C) a decreasing hyperbola branch in the first quadrant; (D) two hyperbola branches in the first and third quadrants.
 
-### Solution to Problem 9
+### Solution to Problem 11
 
 From $vt=s$, with $s$ constant, we get $t=\frac{s}{v}$, $v> 0$, $t> 0$.
 
-By Basic Knowledge, $k=s> 0$, so the graph is the branch of the hyperbola in the first quadrant, decreasing as $v$ increases. So choose (C). $\blacksquare$
+By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**, $k=s> 0$, so the graph is the branch of the hyperbola in the first quadrant, decreasing as $v$ increases. So choose (C). $\blacksquare$
 
-## Problem 10
+## Problem 12
 
 (Problem 26.2, Comprehensive Application, Problem 6) A sealed container holds a fixed mass of carbon dioxide. As the volume $V$ (unit: $\text{m}^3$) of the container changes, the density $\rho$ (unit: $\text{kg/m}^3$) of the gas changes accordingly. It is known that the density $\rho$ and the volume $V$ are in an inverse proportional function relationship; its graph is shown in the figure and passes through the point $A\left(5,1.98\right)$.
 
@@ -210,7 +260,7 @@ By Basic Knowledge, $k=s> 0$, so the graph is the branch of the hyperbola in the
 
 The figure shows a branch of a hyperbola in the first quadrant of a rectangular coordinate plane, with volume $V$ (in $\text{m}^3$) on the horizontal axis and density $\rho$ (in $\text{kg/m}^3$) on the vertical axis; the curve passes through point $A\left(5,1.98\right)$ and approaches both coordinate axes as asymptotes.
 
-### Solution to Problem 10
+### Solution to Problem 12
 
 Let $\rho=\frac{k}{V}$. Substituting $A\left(5,1.98\right)$ gives $1.98=\frac{k}{5}$, so $k=9.9$.
 
@@ -218,7 +268,7 @@ Let $\rho=\frac{k}{V}$. Substituting $A\left(5,1.98\right)$ gives $1.98=\frac{k}
 
 (2) When $V=9$, $\rho=\frac{9.9}{9}=1.1\ \text{kg/m}^3$. $\blacksquare$
 
-## Problem 11
+## Problem 13
 
 (Problem 26.2, Comprehensive Application, Problem 7) The Red Star granary needs to put $1200\ \text{t}$ of corn from the drying yard into storage.
 
@@ -228,7 +278,7 @@ Let $\rho=\frac{k}{V}$. Substituting $A\left(5,1.98\right)$ gives $1.98=\frac{k}
 
 (3) After the granary workers have worked continuously for two days, the weather forecast says it will rain in the next few days. The granary decides to put all the remaining corn into storage the next day. At least how many additional workers are needed?
 
-### Solution to Problem 11
+### Solution to Problem 13
 
 (1) From $dv=1200$, we get $d=\frac{1200}{v}$.
 
@@ -236,7 +286,7 @@ Let $\rho=\frac{k}{V}$. Substituting $A\left(5,1.98\right)$ gives $1.98=\frac{k}
 
 (3) In two days, $2\times300=600\ \text{t}$ has been put into storage, leaving $600\ \text{t}$. Each worker stores $300\div60=5\ \text{t}$ per day. To store $600\ \text{t}$ in one day requires $600\div5=120$ people; there are already $60$ people, so at least $60$ additional workers are needed. $\blacksquare$
 
-## Problem 12
+## Problem 14
 
 (Problem 26.2, Extension and Exploration, Problem 8) It is known that the voltage of a storage battery is constant. When the battery is in use, the current $I$ (unit: $\text{A}$) and the resistance $R$ (unit: $\Omega$) are in an inverse proportional function relationship; its graph is shown in the figure and passes through the point $\left(9,4\right)$.
 
@@ -250,7 +300,7 @@ Let $\rho=\frac{k}{V}$. Substituting $A\left(5,1.98\right)$ gives $1.98=\frac{k}
 
 The figure shows a branch of a hyperbola in the first quadrant of a rectangular coordinate plane, with resistance $R$ (in $\Omega$) on the horizontal axis and current $I$ (in A) on the vertical axis; the curve passes through the point $\left(9,4\right)$ and approaches both coordinate axes as asymptotes.
 
-### Solution to Problem 12
+### Solution to Problem 14
 
 Let $I=\frac{U}{R}$. Substituting $\left(9,4\right)$ gives $4=\frac{U}{9}$, so $U=36$.
 
@@ -262,7 +312,7 @@ Let $I=\frac{U}{R}$. Substituting $\left(9,4\right)$ gives $4=\frac{U}{9}$, so $
 
 (4) From $I\le10$, i.e. $\frac{36}{R}\le10$, we get $R\ge3.6\ \Omega$. Thus the variable resistance should be controlled at no less than $3.6\ \Omega$. $\blacksquare$
 
-## Problem 13
+## Problem 15
 
 (Problem 26.2, Extension and Exploration, Problem 9) The fuel tank of a car has a capacity of $70\ \text{L}$. Xiao Wang fills the tank and drives from the county town to the provincial capital $300\ \text{km}$ away to pick up a guest, and immediately returns along the same road after picking up the guest. Please answer the following questions:
 
@@ -270,7 +320,7 @@ Let $I=\frac{U}{R}$. Substituting $\left(9,4\right)$ gives $4=\frac{U}{9}$, so $
 
 (2) Xiao Wang drives to the provincial capital at an average fuel consumption of $0.1\ \text{L}$ per kilometer. On the return trip, because of rain, Xiao Wang slows down, and the average fuel consumption per kilometer doubles. If Xiao Wang continues to drive at this speed, can he return to the county town without refueling? If not, how much more fuel is needed at least?
 
-### Solution to Problem 13
+### Solution to Problem 15
 
 (1) The total distance times the fuel consumption per kilometer equals the total fuel, i.e. $sb=70$, so $s=\frac{70}{b}$.
 
@@ -284,7 +334,7 @@ Let $I=\frac{U}{R}$. Substituting $\left(9,4\right)$ gives $4=\frac{U}{9}$, so $
 
 ### Solution to Reading and Reflection 1
 
-By Basic Knowledge, the pressure is $p=\frac{F}{S}$; when the force $F$ is fixed, $p$ and $S$ are inversely proportional.
+By **Definition 26.2.1 (Modeling with Inverse Proportional Functions in Real-World Problems)**, the pressure is $p=\frac{F}{S}$; when the force $F$ is fixed, $p$ and $S$ are inversely proportional.
 
 (1) When the blade is ground thinner, the contact area $S$ between the blade and the object decreases; from $p=\frac{F}{S}$, at fixed force $F$ the pressure $p$ increases, making the knife sharper. Tank tracks are wide and long, increasing the contact area $S$ and reducing the pressure on the ground, so that the tank does not sink into soft ground.
 
@@ -320,7 +370,7 @@ The figure shows a uniform wooden rod suspended horizontally by a string at its 
 
 ### Solution to Activity 2
 
-By Principle of the Lever, the moment on the left is $9.8\times25=245$; at balance, $F\cdot L=245$, i.e. $F=\frac{245}{L}$.
+By **Definition 26.2.2 (Principle of the Lever)**, the moment on the left is $9.8\times25=245$; at balance, $F\cdot L=245$, i.e. $F=\frac{245}{L}$.
 
 $L=5\Rightarrow F=49$; $10\Rightarrow24.5$; $15\Rightarrow\frac{49}{3}\approx16.33$; $20\Rightarrow12.25$; $25\Rightarrow9.8$; $30\Rightarrow\frac{49}{6}\approx8.17$; $35\Rightarrow7$; $40\Rightarrow6.125$; $45\Rightarrow\frac{49}{9}\approx5.44$.
 
@@ -350,24 +400,8 @@ For the function $y=\frac{3}{x}$, when $x> 0$, $y\;\_\_\_\;0$, and at this time 
 
 ### Solution to Review Problem 2
 
-By Graph and Properties of the Inverse Proportional Function.
+By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**.
 
 $y=\frac{3}{x}$, $k=3> 0$; when $x> 0$, $y> 0$, and the graph lies in the first quadrant.
 
 $y=-\frac{3}{x}$, $k=-3< 0$; when $x< 0$, $y=\frac{-3}{x}=\frac{-3}{\text{负数}}> 0$, and the graph lies in the first quadrant. $\blacksquare$
-
-## Review Problem 3
-
-(Review Problem 26, Review and Consolidation, Problem 3) Fill in the blanks:
-
-(1) The graph of the function $y=\frac{10}{x}$ lies in the $\;\_\_\_\;$ quadrant(s), and in each quadrant, $y$ $\;\_\_\_\;$ as $x$ increases;
-
-(2) The graph of the function $y=-\frac{10}{x}$ lies in the $\;\_\_\_\;$ quadrant(s), and in each quadrant, $y$ $\;\_\_\_\;$ as $x$ increases.
-
-### Solution to Review Problem 3
-
-By Basic Knowledge.
-
-(1) $k=10> 0$, the graph lies in the first and third quadrants, and $y$ decreases as $x$ increases.
-
-(2) $k=-10< 0$, the graph lies in the second and fourth quadrants, and $y$ increases as $x$ increases. $\blacksquare$

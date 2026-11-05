@@ -1,5 +1,133 @@
 # week47
 
+> **Conclusion 21.1.1 (Interior Angle Sum of a Quadrilateral)**
+> 
+> The interior angle sum of a quadrilateral is \(360^{\circ}\).
+
+> **Conclusion 21.1.2 (Exterior Angle Sum of a Quadrilateral)**
+> 
+> The exterior angle sum of a quadrilateral is \(360^{\circ}\).
+
+> **Conclusion 21.1.3 (Interior Angle Sum of a Polygon)**
+> 
+> The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
+
+> **Conclusion 21.1.4 (Exterior Angle Sum of a Polygon)**
+> 
+> The exterior angle sum of a polygon is \(360^{\circ}\).
+
+> **Definition 21.2.1 (Parallelogram)**
+> 
+> A quadrilateral with both pairs of opposite sides parallel is called a parallelogram, denoted \(\square ABCD\).
+
+> **Property 21.2.1 (Opposite Sides)**
+> 
+> Opposite sides of a parallelogram are equal.
+
+> **Criterion 21.2.1 (Opposite Sides)**
+> 
+> A quadrilateral with both pairs of opposite sides equal is a parallelogram.
+
+> **Property 21.2.2 (Opposite Angles)**
+> 
+> Opposite angles of a parallelogram are equal.
+
+> **Theorem 21.2.2 (Triangle Midline Theorem)**
+> 
+> The midline of a triangle is parallel to the third side and equal to half of it.
+
+> **Property 21.2.3 (Diagonals)**
+> 
+> The diagonals of a parallelogram bisect each other.
+
+> **Criterion 21.2.3 (Diagonals)**
+> 
+> A quadrilateral whose diagonals bisect each other is a parallelogram.
+
+> **Criterion 21.2.4 (One Pair of Opposite Sides)**
+> 
+> A quadrilateral with one pair of opposite sides parallel and equal is a parallelogram.
+
+> **Definition 21.3.1 (Rectangle)**
+> 
+> A parallelogram with one right angle is called a rectangle.
+
+> **Conclusion 21.3.1 (Median to the Hypotenuse of a Right Triangle)**
+> 
+> The median to the hypotenuse of a right triangle equals half the hypotenuse.
+
+> **Criterion 21.3.1 (Diagonals)**
+> 
+> A parallelogram with equal diagonals is a rectangle.
+
+> **Property 21.3.2 (Diagonals of a Rectangle)**
+> 
+> The diagonals of a rectangle are equal.
+
+> **Definition 21.3.2 (Rhombus)**
+> 
+> A parallelogram with one pair of adjacent sides equal is called a rhombus.
+
+> **Definition 21.3.3 (Square)**
+> 
+> A parallelogram with one pair of adjacent sides equal and one right angle is called a square.
+
+> **Property 21.3.4 (Diagonals of a Rhombus)**
+> 
+> The two diagonals of a rhombus are perpendicular, and each diagonal bisects a pair of opposite angles.
+
+## Problem 1
+
+(Exercise 21.1, Extension and Exploration, Problem 8)
+
+As shown in the figure, in quadrilateral \(ABCD\), \(AC,BD\) are its two diagonals. Compare \(AC+BD\) with the perimeter of the quadrilateral.
+
+Let the diagonals intersect at \(O\).
+
+In \(\triangle OAB\), \(OA+OB> AB\); similarly \(OB+OC> BC\), \(OC+OD> CD\), \(OD+OA> DA\).
+
+Adding the four inequalities: \(2(OA+OB+OC+OD)> AB+BC+CD+DA\), i.e. \(2(AC+BD)> \) perimeter.
+
+Therefore \(AC+BD> \frac{1}{2}\) perimeter.
+
+\(\blacksquare\)
+
+(Exercise 21.1, Extension and Exploration, Problem 9)
+
+As shown in the figure, to keep a quadrilateral wooden frame (made by nailing \(4\) strips) from deforming, at least how many more strips must be nailed? What about a pentagonal frame and a hexagonal frame?
+
+Adding \(1\) diagonal to a quadrilateral frame divides it into two triangles, so at least \(1\) more strip is needed.
+
+A pentagonal frame needs to be divided into \(3\) triangles, requiring at least \(2\) more strips.
+
+A hexagonal frame needs to be divided into \(4\) triangles, requiring at least \(3\) more strips.
+
+\(\blacksquare\)
+
+## Inquiry and Discovery 1
+
+(Inquiry and Discovery, Tiling the Plane with Polygons)
+
+(1) Tiling the plane separately with equilateral triangles, squares, regular pentagons and regular hexagons of the same side length: which of these can tile the plane?
+
+(2) Can arbitrary triangles or quadrilaterals of the same shape and size tile the plane?
+
+(1) Tiling requires the sum of the interior angles at a vertex point to be \(360^{\circ}\).
+
+An equilateral triangle has interior angle \(60^{\circ}\), and \(6\times 60^{\circ}=360^{\circ}\), so it tiles.
+
+A square has interior angle \(90^{\circ}\), and \(4\times 90^{\circ}=360^{\circ}\), so it tiles.
+
+A regular pentagon has interior angle \(108^{\circ}\), and \(108^{\circ}\) does not divide \(360^{\circ}\), so it does not tile.
+
+A regular hexagon has interior angle \(120^{\circ}\), and \(3\times 120^{\circ}=360^{\circ}\), so it tiles.
+
+(2) An arbitrary triangle has interior angle sum \(180^{\circ}\); two identical triangles together make \(360^{\circ}\), so it tiles.
+
+An arbitrary quadrilateral has interior angle sum \(360^{\circ}\), and four different interior angles meet exactly at a vertex, so it tiles.
+
+\(\blacksquare\)
+
 ## Exercise 1
 
 (Exercise 21.2.1, Problem 1)
@@ -38,7 +166,7 @@ Therefore \(\triangle DBC\) has the longer perimeter, by \(6\).
 
 As shown in the figure, two strips with parallel opposite sides are crossed and overlapped; the overlapping part forms a quadrilateral. Rotate one of the strips. What is the relation between the lengths of segments \(AD\) and \(BC\)? Why?
 
-The overlapping quadrilateral has both pairs of opposite sides parallel; by Basic Knowledge it is a parallelogram.
+The overlapping quadrilateral has both pairs of opposite sides parallel; by **Definition 21.2.1 (Parallelogram)** it is a parallelogram.
 
 By Basic Knowledge, opposite sides are equal, so \(AD=BC\).
 
@@ -100,7 +228,7 @@ From \(\angle ADB=\angle CBD\), we get \(AD\parallel BC\).
 
 From \(\angle C+\angle ABC=180^{\circ}\), we get \(AB\parallel DC\).
 
-Both pairs of opposite sides are parallel; by Basic Knowledge, quadrilateral \(ABCD\) is a parallelogram.
+Both pairs of opposite sides are parallel; by **Definition 21.2.1 (Parallelogram)**, quadrilateral \(ABCD\) is a parallelogram.
 
 \(\blacksquare\)
 
@@ -166,7 +294,7 @@ There are \(3\) parallelograms in total, because each pair of parallel and equal
 
 As shown in the figure, in \(\triangle ABC\), \(D,E,F\) are the midpoints of \(AB,BC,CA\), respectively. Using these points as vertices, how many parallelograms can you draw in the figure? Why are they parallelograms?
 
-By Basic Knowledge, \(DE\parallel AC,\ EF\parallel AB,\ FD\parallel BC\).
+By **Theorem 21.2.2 (Triangle Midline Theorem)**, \(DE\parallel AC,\ EF\parallel AB,\ FD\parallel BC\).
 
 Therefore \(ADEF\), \(DBEF\), \(DECF\) are all parallelograms, \(3\) in total.
 
@@ -176,7 +304,7 @@ Therefore \(ADEF\), \(DBEF\), \(DECF\) are all parallelograms, \(3\) in total.
 
 As shown in the figure, the medians \(BD,CE\) of \(\triangle ABC\) intersect at point \(O\), and \(F,G\) are the midpoints of \(OB,OC\), respectively. Prove that quadrilateral \(DEFG\) is a parallelogram.
 
-\(D,E\) are the midpoints of \(AB,AC\); by Basic Knowledge, \(DE\parallel BC,\ DE=\frac{1}{2}BC\).
+\(D,E\) are the midpoints of \(AB,AC\); by **Theorem 21.2.2 (Triangle Midline Theorem)**, \(DE\parallel BC,\ DE=\frac{1}{2}BC\).
 
 \(F,G\) are the midpoints of \(OB,OC\); similarly \(FG\parallel BC,\ FG=\frac{1}{2}BC\).
 
@@ -190,11 +318,11 @@ As shown in the figure, points \(A,B\) are separated by a pond; choose a point \
 
 Take the midpoints \(M,N\) of \(AC,BC\) and measure \(MN\).
 
-By Basic Knowledge, \(MN=\frac{1}{2}AB\), so \(AB=2MN\).
+By **Theorem 21.2.2 (Triangle Midline Theorem)**, \(MN=\frac{1}{2}AB\), so \(AB=2MN\).
 
 \(\blacksquare\)
 
-## Problem 1
+## Problem 2
 
 (Exercise 21.2, Review and Consolidation, Problem 1)
 
@@ -266,7 +394,7 @@ As shown in the figure, a ball is struck on a rectangular billiard table, and it
 
 Since the angle of incidence equals the angle of reflection, the vertical-angle relations at each cushion give \(EF\parallel GH\), \(FG\parallel HE\).
 
-Both pairs of opposite sides are parallel; by Basic Knowledge, quadrilateral \(EFGH\) is a parallelogram.
+Both pairs of opposite sides are parallel; by **Definition 21.2.1 (Parallelogram)**, quadrilateral \(EFGH\) is a parallelogram.
 
 \(\blacksquare\)
 
@@ -294,7 +422,7 @@ Any triangle formed by \(B,C\) and a point on \(l_{1}\) has the same area as \(\
 
 \(\blacksquare\)
 
-## Problem 2
+## Problem 3
 
 (Exercise 21.2, Comprehensive Application, Problem 10)
 
@@ -430,7 +558,7 @@ The four angles of a quadrilateral sum to \(360^{\circ}\); if they are equal, ea
 
 Both pairs of opposite angles are \(90^{\circ}\), so both pairs of opposite sides are parallel, and the quadrilateral is a parallelogram.
 
-Also one angle is a right angle; by Basic Knowledge, it is a rectangle.
+Also one angle is a right angle; by **Definition 21.3.1 (Rectangle)**, it is a rectangle.
 
 \(\blacksquare\)
 
@@ -461,45 +589,5 @@ Quadrilateral \(ADCF\) is a parallelogram.
 Also \(AB=AC\); by the three-line coincidence of an isosceles triangle, \(AD\perp BC\), i.e. \(\angle ADC=90^{\circ}\).
 
 Therefore parallelogram \(ADCF\) is a rectangle.
-
-\(\blacksquare\)
-
-## Exercise 8
-
-(Exercise 21.3.2, Problem 1)
-
-Quadrilateral \(ABCD\) is a rhombus, the diagonals \(AC,BD\) intersect at point \(O\), and \(AB=5,\ AO=4\). Find the lengths of \(AC,BD\) and the area of rhombus \(ABCD\).
-
-By Basic Knowledge, \(AC\perp BD\).
-
-In \(Rt\triangle AOB\), \(BO=\sqrt{AB^{2}-AO^{2}}=\sqrt{25-16}=3\).
-
-Therefore \(AC=2AO=8,\ BD=2BO=6\).
-
-Area of the rhombus \(=\frac{1}{2}\times AC\times BD=\frac{1}{2}\times 8\times 6=24\).
-
-\(\blacksquare\)
-
-(Exercise 21.3.2, Problem 2)
-
-As shown in the figure, in rhombus \(ABCD\), \(BD=4,\ \angle A:\angle ABC=1:2\). Find the perimeter of \(\triangle ABD\).
-
-Adjacent angles of a rhombus are supplementary, \(\angle A+\angle ABC=180^{\circ}\); with ratio \(1:2\), \(\angle A=60^{\circ}\).
-
-Also \(AB=AD\), so \(\triangle ABD\) is equilateral, \(AB=AD=BD=4\).
-
-Therefore the perimeter \(=12\).
-
-\(\blacksquare\)
-
-(Exercise 21.3.2, Problem 3)
-
-As shown in the figure, in rhombus \(ABCD\), \(\angle A=60^{\circ}\), connect diagonal \(BD\); \(E,F\) are the midpoints of sides \(AB,BC\), respectively; connect \(DE,DF,EF\). Prove that \(\triangle DEF\) is equilateral.
-
-\(\angle A=60^{\circ}\) and \(AB=AD\), so \(\triangle ABD\) is equilateral.
-
-\(E\) is the midpoint of \(AB\), so \(DE\perp AB\). Similarly \(DF\perp BC\).
-
-By the symmetry of the rhombus and that \(E,F\) are midpoints, one can prove \(DE=DF=EF\), so \(\triangle DEF\) is equilateral.
 
 \(\blacksquare\)

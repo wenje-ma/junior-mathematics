@@ -1,54 +1,76 @@
 # week62
 
+> **Definition 28.1.1 (Rotation of a Figure)**
+> 
+> Rotating a plane figure about a point $O$ in the plane through an angle is called rotation of the figure.
+
+> **Property 28.1.1 (Properties of Rotation)**
+> 
+> The figures before and after rotation are congruent; corresponding points are equidistant from the center of rotation; the angle formed by the segments joining corresponding points to the center of rotation equals the angle of rotation.
+
+> **Definition 28.2.1 (Central Symmetry)**
+> 
+> If a figure is rotated about a point through $180^\circ$ and the rotated figure can coincide with another figure, then the two figures are centrally symmetric about this point.
+
+> **Property 28.2.1 (Properties of Central Symmetry)**
+> 
+> For two figures that are centrally symmetric, the segments joining symmetric points pass through the center of symmetry and are bisected by it.
+
+> **Definition 28.2.2 (Centrally Symmetric Figure)**
+> 
+> If a figure is rotated about a point through $180^\circ$ and the rotated figure can coincide with the original figure, then the figure is called a centrally symmetric figure, and this point is its center of symmetry.
+
+> **Property 28.2.2 (Coordinates of Points Symmetric about the Origin)**
+> 
+> When two points are symmetric about the origin, their coordinates have opposite signs, i.e. the point symmetric to $P\left(x,y\right)$ about the origin is $P'\left(-x,-y\right)$.
+
+> **Definition 29.1.1 (Circle)**
+> 
+> In a plane, the figure formed by the other endpoint $P$ as the segment $OP$ rotates through a full turn about its fixed endpoint $O$ is called a circle. The fixed endpoint $O$ is called the center of the circle, and the segment $OP$ is called the radius. The circle with center $O$ is denoted $\odot O$.
+
+> **Property 29.1.1 (Position of a Point Relative to a Circle)**
+> 
+> Let the radius of $\odot O$ be $r$, and let the distance from the point $P$ to the center be $OP=d$. Then: the point $P$ is outside the circle $\Leftrightarrow d> r$; the point $P$ is on the circle $\Leftrightarrow d=r$; the point $P$ is inside the circle $\Leftrightarrow d< r$.
+
+> **Theorem 29.1.1 (Three Points Determine a Circle)**
+> 
+> Three points not on the same line determine a circle. The circle passing through the three vertices of a triangle is called the circumcircle of the triangle, and the center of the circumcircle is called the circumcenter of the triangle.
+
+> **Method 29.1.1 (Proof by Contradiction)**
+> 
+> First make an assumption opposite to the conclusion, then derive a result that contradicts a definition, basic fact, theorem, or the hypotheses; from the contradiction it is concluded that the assumption is incorrect, and hence the original proposition holds.
+
+> **Definition 29.1.2 (Chord, Diameter, Arc)**
+> 
+> The segment joining any two points on a circle is called a chord; a chord passing through the center is called a diameter; the part between any two points on a circle is called an arc; an arc larger than a semicircle is called a major arc, and an arc smaller than a semicircle is called a minor arc.
+
+> **Property 29.2.1 (Axial Symmetry of a Circle)**
+> 
+> A circle is an axially symmetric figure, and the line on which any diameter lies is an axis of symmetry of the circle.
+
+> **Theorem 29.2.1 (Perpendicular Chord Theorem)**
+> 
+> A diameter perpendicular to a chord bisects the chord and bisects the two arcs subtended by the chord.
+
+> **Corollary 29.2.1 (Corollary to the Perpendicular Chord Theorem)**
+> 
+> A diameter that bisects a chord (which is not a diameter) is perpendicular to the chord and bisects the two arcs subtended by the chord.
+
 ## Problem 1
-
-(Exercise 28.2, Comprehensive Application, Problem 7) As shown in the figure, explain how to obtain $\triangle DEC$ from $\triangle ABC$ through translation, axial symmetry, or rotation.
-
-### Solution to Problem 1
-
-By Properties of Central Symmetry.
-
-Observing the corresponding vertices, if $C$ is the common point among the corresponding vertices and $A$, $B$ correspond to $D$, $E$ respectively, then $\triangle ABC$ can be rotated about the point $C$ through an appropriate angle to obtain $\triangle DEC$. $\blacksquare$
-
-## Problem 2
-
-(Exercise 28.2, Comprehensive Application, Problem 8) There is a rectangular plot of land whose adjacent side lengths are $10\,\text{m}$ and $6\,\text{m}$. A flower bed is to be created on the plot such that its area is half the area of the plot and its shape is a centrally symmetric figure. How should it be designed (provide two design schemes)?
-
-### Solution to Problem 2
-
-By Centrally Symmetric Figure.
-
-The area of the rectangular plot is $10\times6=60\,\text{m}^2$, and the area of the flower bed is $30\,\text{m}^2$.
-
-Scheme 1: taking the center of the rectangle as the center of symmetry, take the flower bed to be a small rectangle concentric with the large one, with area half that of the large rectangle.
-
-Scheme 2: taking the center of the rectangle as the center of symmetry, take the flower bed to be a rhombus inscribed in the rectangle (joining the midpoints of the sides), with area half that of the rectangle. $\blacksquare$
-
-## Problem 3
-
-(Exercise 28.2, Comprehensive Application, Problem 9) In the rectangular coordinate system, construct the point $B$ symmetric to the point $A\left(-3,2\right)$ about the $x$-axis, then construct the point $C$ symmetric to the point $B$ about the $y$-axis. Write the coordinates of the point $C$. What is the relationship between the point $A$ and the point $C$? What can you conclude from this?
-
-### Solution to Problem 3
-
-A point symmetric about the $x$-axis keeps its x-coordinate and takes the opposite y-coordinate, so $B\left(-3,-2\right)$. A point symmetric about the $y$-axis keeps its y-coordinate and takes the opposite x-coordinate, so $C\left(3,-2\right)$.
-
-The coordinates of $C\left(3,-2\right)$ and $A\left(-3,2\right)$ have opposite signs, so $A$ and $C$ are symmetric about the origin. It follows: reflecting a point first about the $x$-axis and then about the $y$-axis is equivalent to central symmetry of the point about the origin. $\blacksquare$
-
-## Problem 4
 
 (Exercise 28.2, Extension and Exploration, Problem 10) As shown in the figure, a line passing through the intersection of the diagonals of a rhombus divides the rhombus into two trapezoids. Are these two trapezoids congruent? Why?
 
-### Solution to Problem 4
+### Solution to Problem 1
 
-By Centrally Symmetric Figure, a rhombus is a centrally symmetric figure, with the intersection of its diagonals as the center of symmetry.
+By **Definition 28.2.2 (Centrally Symmetric Figure)**, a rhombus is a centrally symmetric figure, with the intersection of its diagonals as the center of symmetry.
 
 The two parts into which a line through the center of symmetry divides the rhombus are centrally symmetric about the center of symmetry, so the two trapezoids are congruent. $\blacksquare$
 
-## Problem 5
+## Problem 2
 
 (Exercise 28.2, Extension and Exploration, Problem 11) As shown in the figure, $\triangle ADE$ and $\triangle CBF$ are two equilateral triangles outside $\square ABCD$. Using the knowledge of rotation, show that $\triangle ADE$ and $\triangle CBF$ are centrally symmetric.
 
-### Solution to Problem 5
+### Solution to Problem 2
 
 By Properties of Central Symmetry.
 
@@ -60,7 +82,7 @@ The intersection $O$ of the diagonals of $\square ABCD$ is its center of symmetr
 
 ### Solution to Reading and Thinking 1
 
-By Centrally Symmetric Figure and the concept of a rotationally symmetric figure.
+By **Definition 28.2.2 (Centrally Symmetric Figure)** and the concept of a rotationally symmetric figure.
 
 A regular $n$-gon coincides with itself after being rotated about its center through $\frac{360^\circ}{n}$, so a regular $n$-gon is a rotationally symmetric figure, with angle of rotation an integer multiple of $\frac{360^\circ}{n}$. A regular hexagon coincides with itself after rotating through $60^\circ$, and a regular pentagon after rotating through $72^\circ$. When $n$ is even, rotating through $180^\circ$ makes it coincide with itself, and in this case the regular $n$-gon is also a centrally symmetric figure. $\blacksquare$
 
@@ -82,7 +104,7 @@ The figure shows a set of pattern-design diagrams: Figure 1 (a repeating border 
 
 ### Solution to Activity 1
 
-By Rotation of a Figure, Properties of Rotation, and Properties of Central Symmetry.
+By **Definition 28.1.1 (Rotation of a Figure)**, Properties of Rotation, and Properties of Central Symmetry.
 
 The basic figure of the pattern is a right triangle (or a quarter of the figure) in Figure 2. Formation process: rotate the basic figure counterclockwise about the point $O$ through $90^\circ$, three times in succession, with an angle of rotation of $90^\circ$ each time, obtaining four congruent figures that make up Figure 3; then, taking the line $l$ as the axis of symmetry, produce the axially symmetric figure to obtain Figure 4; finally, translate Figure 4 horizontally to obtain the repeatedly arranged pattern. $\blacksquare$
 
@@ -92,7 +114,7 @@ The basic figure of the pattern is a right triangle (or a quarter of the figure)
 
 ### Solution to Review Problem 1
 
-By Rotation of a Figure.
+By **Definition 28.1.1 (Rotation of a Figure)**.
 
 The pattern is obtained by rotating a single basic figure about its center, several times in succession, through the same angle (e.g. $90^\circ$); the center of rotation is the center of the pattern. $\blacksquare$
 
@@ -118,7 +140,7 @@ Join $SA$, $SB$, $SC$; rotate them clockwise about $S$ through $30^\circ$, takin
 
 ### Solution to Review Problem 3
 
-By Central Symmetry and Properties of Central Symmetry.
+By **Definition 28.2.1 (Central Symmetry)** and Properties of Central Symmetry.
 
 (1) The diagonals of the square intersect at $O$; the centrally symmetric triangles are the two opposite triangles (e.g. the two triangles cut out by a diagonal are symmetric about $O$).
 
@@ -130,7 +152,7 @@ By Central Symmetry and Properties of Central Symmetry.
 
 ### Solution to Review Problem 4
 
-By Centrally Symmetric Figure.
+By **Definition 28.2.2 (Centrally Symmetric Figure)**.
 
 An artistic character that coincides with its original form after being rotated about its own center through $180^\circ$ is a centrally symmetric figure, with the center of the character as the center of symmetry; otherwise it is not. $\blacksquare$
 
@@ -162,7 +184,7 @@ $\blacksquare$
 
 ### Solution to Review Problem 6
 
-By Centrally Symmetric Figure.
+By **Definition 28.2.2 (Centrally Symmetric Figure)**.
 
 The desired figure is one that is both axially symmetric (has an axis of symmetry) and centrally symmetric (coincides after rotating about its center through $180^\circ$), e.g. a segment, a rectangle, a rhombus, a square, a circle, etc. $\blacksquare$
 
@@ -208,7 +230,7 @@ By Properties of Rotation.
 
 ### Solution to Review Problem 9
 
-By Centrally Symmetric Figure.
+By **Definition 28.2.2 (Centrally Symmetric Figure)**.
 
 These patterns coincide with themselves after being rotated about their center through $180^\circ$, so they are centrally symmetric figures; the four shaded parts have equal area, and the total shaded area is half the area of the square. In designing, simply make the four parts centrally symmetric about the center and equal in area. $\blacksquare$
 
@@ -220,7 +242,7 @@ The figure shows the outline of a sheet of paper: after joining $EB$, the left p
 
 ### Solution to Review Problem 10
 
-By Centrally Symmetric Figure, both the rectangle and the rhombus are centrally symmetric figures.
+By **Definition 28.2.2 (Centrally Symmetric Figure)**, both the rectangle and the rhombus are centrally symmetric figures.
 
 The center of symmetry of the rectangle $FABE$ is the intersection of its diagonals, and the center of symmetry of the rhombus $EBCD$ is the intersection of its diagonals. A line through the two centers divides each of the two centrally symmetric figures into two parts of equal area, so this line divides the whole sheet into two parts of equal area. $\blacksquare$
 
@@ -230,7 +252,7 @@ The center of symmetry of the rectangle $FABE$ is the intersection of its diagon
 
 ### Solution to Review Problem 11
 
-By Rotation of a Figure.
+By **Definition 28.1.1 (Rotation of a Figure)**.
 
 The composition of two axial symmetries (axes $l_1$ and $l_2$ intersecting at $O$) is equivalent to a rotation about the point $O$, with angle of rotation twice the angle between $l_1$ and $l_2$. Hence the figure $G_2$ can be obtained by rotating the figure $G$ about the point $O$, with center of rotation $O$ and angle of rotation twice the angle between $l_1$ and $l_2$. $\blacksquare$
 
@@ -240,7 +262,7 @@ The composition of two axial symmetries (axes $l_1$ and $l_2$ intersecting at $O
 
 ### Solution to Exercise 1
 
-By Circle.
+By **Definition 29.1.1 (Circle)**.
 
 Take a rope of length $5\,\text{m}$; fix one end at the center and tie a pen to the other end. Pull the rope taut and rotate it through a full turn about the fixed point; the path of the pen tip is a circle of radius $5\,\text{m}$. $\blacksquare$
 
@@ -250,7 +272,7 @@ Take a rope of length $5\,\text{m}$; fix one end at the center and tie a pen to 
 
 ### Solution to Exercise 2
 
-By Circle.
+By **Definition 29.1.1 (Circle)**.
 
 The trunk radius is $\frac{23}{2}=11.5\,\text{cm}$, and over $20$ years of growth the radius increases on average each year by
 
@@ -286,7 +308,7 @@ By Position of a Point Relative to a Circle, $r=10$.
 
 ### Solution to Exercise 4
 
-By Three Points Determine a Circle.
+By **Theorem 29.1.1 (Three Points Determine a Circle)**.
 
 Take the midpoint $O$ of $AB$. In $\text{Rt}\triangle ABC$, the median to the hypotenuse is half the hypotenuse, so $OA=OB=OC=\frac12 AB$. Therefore the three points $A$, $B$, $C$ are equidistant from the point $O$, so they lie on the same circle with center $O$ and radius $OA$. $\blacksquare$
 
@@ -296,7 +318,7 @@ Take the midpoint $O$ of $AB$. In $\text{Rt}\triangle ABC$, the median to the hy
 
 ### Solution to Exercise 5
 
-By Three Points Determine a Circle, the center lies on the perpendicular bisector of a chord.
+By **Theorem 29.1.1 (Three Points Determine a Circle)**, the center lies on the perpendicular bisector of a chord.
 
 Rest the $CD$ edge of the tool on the circle so that $A$ and $B$ lie on the circle, and draw a line along $CD$; move to another position and draw another line. The intersection of the two lines is the center. $\blacksquare$
 
@@ -308,7 +330,7 @@ The figure shows equilateral triangle $ABC$ with side length $2$, all three vert
 
 ### Solution to Exercise 6
 
-By Three Points Determine a Circle.
+By **Theorem 29.1.1 (Three Points Determine a Circle)**.
 
 The circumcenter of an equilateral triangle lies on its altitude. The altitude is $h=\sqrt{2^2-1^2}=\sqrt3$. Let the circumradius be $R$: the distance from the circumcenter to a vertex is $R$, and the distance to a side is $h-R$. From $\frac{R}{h}=\frac{2}{3}$, we get
 
@@ -338,7 +360,7 @@ By Proof by Contradiction.
 
 Suppose a triangle has two right angles; then the sum of these two angles is $180^\circ$, and the third angle is $0^\circ$, contradicting that the interior angles of a triangle sum to $180^\circ$ and each angle is greater than $0^\circ$. Hence the assumption is false, and a triangle cannot have two right angles. $\blacksquare$
 
-## Problem 6
+## Problem 3
 
 (Exercise 29.1, Review and Consolidation, Problem 1) Given that the points $A$, $B$ lie on $\odot O_1$ and the points $C$, $D$ lie on $\odot O_2$, determine whether the following statements are correct:
 
@@ -350,9 +372,9 @@ Suppose a triangle has two right angles; then the sum of these two angles is $18
 
 (4) If $O_1B=O_2D$, then $\overset{\frown}{AB}$ and $\overset{\frown}{CD}$ are equal arcs.
 
-### Solution to Problem 6
+### Solution to Problem 3
 
-By Circle and Chord, Diameter, Arc.
+By **Definition 29.1.1 (Circle)** and **Definition 29.1.2 (Chord, Diameter, Arc)**.
 
 (1) False: equal chord lengths do not imply equal radii.
 
@@ -362,43 +384,43 @@ By Circle and Chord, Diameter, Arc.
 
 (4) False: equal radii do not imply equal arcs; an arc also depends on the central angle it subtends. $\blacksquare$
 
-## Problem 7
+## Problem 4
 
 (Exercise 29.1, Review and Consolidation, Problem 2) In physical education, Li Ming's and Wang Fang's shot-put results are $6.2\,\text{m}$ and $5.1\,\text{m}$ respectively. In which region of the figure do their shot puts land?
 
-### Solution to Problem 7
+### Solution to Problem 4
 
 By Position of a Point Relative to a Circle.
 
 The result $6.2\,\text{m}$ lands in the annulus from $6\,\text{m}$ to $7\,\text{m}$ from the throwing point; $5.1\,\text{m}$ lands in the annulus from $5\,\text{m}$ to $6\,\text{m}$. $\blacksquare$
 
-## Problem 8
+## Problem 5
 
 (Exercise 29.1, Review and Consolidation, Problem 3) Draw the figure formed by all points whose distance from the given point $O$ is greater than or equal to $2\,\text{cm}$ and less than or equal to $3\,\text{cm}$.
 
 The figure shows an annulus centered at fixed point $O$: the inner circle has radius $2\,\text{cm}$ and the outer circle has radius $3\,\text{cm}$; the region between the two circles (including both inner and outer boundaries) is the required figure.
 
-### Solution to Problem 8
+### Solution to Problem 5
 
 By Position of a Point Relative to a Circle.
 
 The figure is an annulus centered at $O$ with inner radius $2\,\text{cm}$ and outer radius $3\,\text{cm}$ (including the boundary). $\blacksquare$
 
-## Problem 9
+## Problem 6
 
 (Exercise 29.1, Review and Consolidation, Problem 4) Prove that a diameter is the longest chord in a circle.
 
-### Solution to Problem 9
+### Solution to Problem 6
 
-By Chord, Diameter.
+By **Definition 29.1.2 (Chord, Diameter, Arc)**.
 
 Let $AB$ be a diameter, $CD$ any chord, and the center $O$. Join $OC$, $OD$; then $AB=OA+OB=OC+OD$. In $\triangle OCD$, $OC+OD\ge CD$, so $AB\ge CD$. That is, a diameter is the longest chord in a circle. $\blacksquare$
 
-## Problem 10
+## Problem 7
 
 (Exercise 29.1, Comprehensive Application, Problem 5) The diagonals $AC$ and $BD$ of the rectangle $ABCD$ intersect at the point $O$, and the points $E$, $F$, $G$, $H$ are the midpoints of $OA$, $OB$, $OC$, $OD$ respectively. Prove that the four points $E$, $F$, $G$, $H$ lie on the same circle with center $O$.
 
-### Solution to Problem 10
+### Solution to Problem 7
 
 By Position of a Point Relative to a Circle.
 
@@ -410,37 +432,37 @@ $$
 
 The four points are equidistant from $O$, so they lie on the same circle with center $O$. $\blacksquare$
 
-## Problem 11
+## Problem 8
 
 (Exercise 29.1, Comprehensive Application, Problem 6) A circular glass mirror is broken. To order a replacement of the same size, the radius of the original mirror must be determined. Trace the points $A$, $B$, $C$ on the edge of the remnant, giving $\triangle ABC$. Can you find the radius of this circular glass mirror? Illustrate with a construction.
 
-### Solution to Problem 11
+### Solution to Problem 8
 
-By Three Points Determine a Circle.
+By **Theorem 29.1.1 (Three Points Determine a Circle)**.
 
 Draw the perpendicular bisectors of $AB$ and $BC$; their intersection is the center $O$, and $OA$ is the radius. $\blacksquare$
 
-## Problem 12
+## Problem 9
 
 (Exercise 29.1, Comprehensive Application, Problem 7) As shown in the figure, in $\odot O$, $AB$ and $CD$ are diameters. Prove that $AD\parallel BC$.
 
-### Solution to Problem 12
+### Solution to Problem 9
 
-By Circle.
+By **Definition 29.1.1 (Circle)**.
 
 $OA=OD=OC=OB$; in the quadrilateral $ADBC$, the diagonals $AB$ and $CD$ bisect each other, so $ADBC$ is a parallelogram, and hence $AD\parallel BC$. $\blacksquare$
 
-## Problem 13
+## Problem 10
 
 (Exercise 29.1, Comprehensive Application, Problem 8) Use proof by contradiction to show that in the same plane, if a line intersects one of two parallel lines, it must also intersect the other.
 
-### Solution to Problem 13
+### Solution to Problem 10
 
 By Proof by Contradiction.
 
 Let $a\parallel b$, and let the line $c$ intersect $a$. Suppose $c$ does not intersect $b$; then $c\parallel b$. From $a\parallel b$ and $c\parallel b$, through the intersection point on the line $a$ there are two lines $a$ and $c$, both parallel to $b$, contradicting the statement that through a point outside a line there is exactly one line parallel to the given line. Hence the assumption is false, and $c$ must intersect $b$. $\blacksquare$
 
-## Problem 14
+## Problem 11
 
 (Exercise 29.1, Extension and Exploration, Problem 9) In $\odot O$, the points $C$, $D$ lie on the chord $AB$, and $AC=BD$.
 
@@ -448,7 +470,7 @@ Let $a\parallel b$, and let the line $c$ intersect $a$. Suppose $c$ does not int
 
 (2) As in Figure (2), the chord $AB$ does not pass through the center $O$. Are $OC$ and $OD$ still equal? Explain why.
 
-### Solution to Problem 14
+### Solution to Problem 11
 
 By Position of a Point Relative to a Circle.
 
@@ -462,7 +484,7 @@ By Position of a Point Relative to a Circle.
 
 ### Solution to Inquiry and Discovery 1
 
-By Circle.
+By **Definition 29.1.1 (Circle)**.
 
 When a circular wheel rolls, the distance from the center to the ground always equals the radius, so the carriage is smooth. A curve of constant width has the same width in every direction; the Reuleaux triangle is the most common curve of constant width besides the circle, and a roller with it as cross-section can also move heavy loads horizontally. $\blacksquare$
 
@@ -472,7 +494,7 @@ When a circular wheel rolls, the distance from the center to the ground always e
 
 ### Solution to Exercise 9
 
-By Perpendicular Chord Theorem.
+By **Theorem 29.2.1 (Perpendicular Chord Theorem)**.
 
 Through $O$ draw $OH\perp AB$ at $H$. In the large circle, $OH$ bisects $AB$, so $AH=BH$; in the small circle, $OH$ bisects $CD$, so $CH=DH$. Subtracting the two equations gives $AH-CH=BH-DH$, i.e. $AC=BD$. $\blacksquare$
 
@@ -482,6 +504,24 @@ Through $O$ draw $OH\perp AB$ at $H$. In the large circle, $OH$ bisects $AB$, so
 
 ### Solution to Exercise 10
 
-By Perpendicular Chord Theorem.
+By **Theorem 29.2.1 (Perpendicular Chord Theorem)**.
 
 $OD\perp AB$ and $OE\perp AC$, so $\angle ADO=\angle AEO=90^\circ$; also $\angle DAE=90^\circ$, so the quadrilateral $ADOE$ is a rectangle. Since $AB=AC$, the perpendicular chord theorem gives $AD=\frac12 AB$ and $AE=\frac12 AC$, so $AD=AE$. The adjacent sides of the rectangle $ADOE$ are equal, so it is a square. $\blacksquare$
+
+## Exercise 11
+
+(Exercise 29.2, Problem 3) The figure shows the cross-section of a tunnel, whose shape is part of a circle centered at the point $O$. If $M$ is the midpoint of the chord $CD$ in $\odot O$, $EM$ passes through the center $O$ and meets $\odot O$ at the point $E$, and $CD=4\,\text{m}$, $EM=6\,\text{m}$, find the radius of $\odot O$.
+
+The figure shows the cross-section of a tunnel: the upper part is an arc of a circle centered at $O$, and the lower part is the horizontal chord $CD$; $M$ is the midpoint of chord $CD$, and $EM$ is a vertical segment passing through the center $O$, with its upper endpoint $E$ at the highest point of the arc and $M$ lying on $CD$, where $EM\perp CD$.
+
+### Solution to Exercise 11
+
+By **Theorem 29.2.1 (Perpendicular Chord Theorem)**, $EM\perp CD$, and $M$ is the foot.
+
+Let the radius be $R$; then $OC=R$, $OM=EM-R=6-R$, and $CM=\frac12 CD=2$. In $\text{Rt}\triangle OMC$,
+
+$$
+R^2=2^2+\left(6-R\right)^2=4+36-12R+R^2.
+$$
+
+Simplifying gives $12R=40$, so $R=\frac{10}{3}\,\text{m}$. $\blacksquare$

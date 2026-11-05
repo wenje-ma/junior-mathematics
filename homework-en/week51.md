@@ -1,10 +1,88 @@
 # week51
 
+> **Definition 22.1.1 (Constants and Variables)**
+> 
+> In a process of change, we call a quantity whose value remains constant a constant, and a quantity whose value changes a variable.
+
+> **Definition 22.1.2 (Function)**
+> 
+> Generally, in a process of change, if there are two variables $x$ and $y$, and for each definite value of $x$, $y$ has a unique definite value corresponding to it, then we say $x$ is the independent variable and $y$ is a function of $x$.
+
+> **Definition 22.2.1 (Graph of a Function)**
+> 
+> Generally, for a function, if each pair of corresponding values of the independent variable and the function is taken as the x- and y-coordinates of a point, then the figure formed by these points in the coordinate plane is the graph of the function.
+
+> **Conclusion 22.2.2 (Steps for Plotting a Graph by the Point-Plotting Method)**
+> 
+> Step 1, make a table — list some values of the independent variable and their corresponding function values; Step 2, plot points — in the plane rectangular coordinate system, take the independent variable value as the x-coordinate and the corresponding function value as the y-coordinate, and plot the points corresponding to the table values; Step 3, join the points — in order of increasing x-coordinate, connect the plotted points with a smooth curve.
+
+> **Definition 23.1.1 (Linear Function)**
+> 
+> Generally, a function of the form $y=kx+b$ ($k$, $b$ are constants, $k \neq 0$) is called a linear function, where $x$ is the independent variable.
+
+> **Definition 23.1.2 (Direct Proportion Function)**
+> 
+> A function of the form $y=kx$ ($k$ is a constant, $k \neq 0$) is called a direct proportion function, where $k$ is called the proportionality coefficient. A direct proportion function is the special linear function when $b=0$.
+
+> **Conclusion 23.2.1 (Graph and Properties of the Direct Proportional Function)**
+> 
+> The graph of the direct proportional function $y=kx$ ($k$ is a constant, $k \neq 0$) is a straight line passing through the origin. When $k> 0$, the line passes through the third and first quadrants, rises from left to right, and $y$ increases as $x$ increases; when $k< 0$, the line passes through the second and fourth quadrants, falls from left to right, and $y$ decreases as $x$ increases.
+
+> **Conclusion 23.2.2 (Graph and Properties of the Linear Function)**
+> 
+> The graph of the linear function $y=kx+b$ ($k$ and $b$ are constants, $k \neq 0$) is a straight line, obtained by translating the line $y=kx$ by $\left|b\right|$ units of length ($b> 0$ upward, $b< 0$ downward). When $k> 0$, $y$ increases as $x$ increases; when $k< 0$, $y$ decreases as $x$ increases.
+
+> **Conclusion 23.2.3 (Method of Undetermined Coefficients)**
+> 
+> The method of first setting up the function expression and then, according to the given conditions, determining the unknown coefficients in the expression so as to obtain the function expression is called the method of undetermined coefficients.
+
+> **Conclusion 23.3.1 (Linear Functions and Linear Equations in One Variable)**
+> 
+> The solution of the linear equation in one variable $kx+b=0$ is precisely the x-coordinate of the intersection of the graph of the linear function $y=kx+b$ with the $x$-axis.
+
+> **Conclusion 23.3.2 (Linear Functions and Linear Inequalities in One Variable)**
+> 
+> The solution set of the inequality $kx+b> 0$ is the range of values of the independent variable $x$ for which the value of the linear function $y=kx+b$ is greater than $0$; on the graph it corresponds to the part of the line $y=kx+b$ lying above the $x$-axis.
+
+> **Conclusion 23.3.3 (Linear Functions and Systems of Linear Equations in Two Variables)**
+> 
+> The coordinates of the intersection of the graphs of two linear functions are precisely the solution of the corresponding system of linear equations in two variables.
+
 ## Review Problem 1
+
+(Review Problem, Comprehensive Application, Problem 6) (1) Draw the graph of the function $y=\left|x-1\right|$;
+
+(2) Let $P\left(x, 0\right)$ be a moving point on the $x$-axis; its distance to the point on the $x$-axis representing $-3$ is $y$. Find the analytic expression for $y$ as a function of $x$, and draw the graph of this function.
+
+### Solution to Review Problem 1
+
+(1) When $x \geq 1$, $y=x-1$; when $x < 1$, $y=1-x$. Make a table, plot and join points, obtaining a V-shaped graph with vertex at $\left(1, 0\right)$.
+
+The figure shows a plane rectangular coordinate system; a V-shaped polyline opening upward with vertex at $\left(1,0\right)$, the left ray having slope $-1$ and the right ray slope $1$, namely the graph of $y=\left|x-1\right|$.
+
+(2) The distance from $P\left(x, 0\right)$ to $\left(-3, 0\right)$ is $\left|x-\left(-3\right)\right|=\left|x+3\right|$. So the analytic expression is $y=\left|x+3\right|$, and the graph is V-shaped with vertex at $\left(-3, 0\right)$. $\blacksquare$
+
+## Review Problem 2
+
+(Review Problem, Extension and Exploration, Problem 7) In the same plane rectangular coordinate system, draw the graphs of the functions $y=x$ and $y=\frac{1}{x}$. Using these two graphs, answer:
+
+(1) For what values of $x$ is $x$ greater than $\frac{1}{x}$?
+
+(2) For what values of $x$ is $x$ less than $\frac{1}{x}$?
+
+### Solution to Review Problem 2
+
+The figure shows one plane rectangular coordinate system containing: a straight line $y=x$ through the origin with slope $1$; and a hyperbola with two branches in the first and third quadrants, with the two coordinate axes as asymptotes, namely the graph of $y=\frac{1}{x}$; the two graphs intersect at $\left(1,1\right)$ and $\left(-1,-1\right)$.
+
+(1) From the graphs, when the graph of $y=x$ lies above the graph of $y=\frac{1}{x}$, $x > \frac{1}{x}$, i.e. $-1 < x < 0$ or $x > 1$.
+
+(2) When the graph of $y=x$ lies below the graph of $y=\frac{1}{x}$, $x < \frac{1}{x}$, i.e. $x < -1$ or $0 < x < 1$. $\blacksquare$
+
+## Review Problem 3
 
 (Review Problem, Extension and Exploration, Problem 8) A quadrilateral has two diagonals. How many diagonals does a pentagon have? A hexagon? What about an $n$-gon? Is the number $y$ of diagonals a function of the number of sides $n$? If so, write the analytic expression and draw the graph of the function.
 
-### Solution to Review Problem 1
+### Solution to Review Problem 3
 
 A quadrilateral has $2$ diagonals, a pentagon has $5$ diagonals, and a hexagon has $9$ diagonals.
 
@@ -36,7 +114,7 @@ $\blacksquare$
 
 ### Solution to Exercise 1
 
-By Linear Function, a function of the form $y=kx+b$ ($k \neq 0$) is a linear function.
+By **Definition 23.1.1 (Linear Function)**, a function of the form $y=kx+b$ ($k \neq 0$) is a linear function.
 
 (1) $y=-8x$ is $y=-8x+0$, which fits the form $y=kx+b$ with $k=-8 \neq 0$, so it is a linear function; and $b=0$, so it is also a direct proportion function.
 
@@ -76,7 +154,7 @@ By Linear Function, a function of the form $y=kx+b$ ($k \neq 0$) is a linear fun
 
 ### Solution to Problem 1
 
-By Linear Function, a function of the form $y=kx+b$ ($k \neq 0$) is a linear function.
+By **Definition 23.1.1 (Linear Function)**, a function of the form $y=kx+b$ ($k \neq 0$) is a linear function.
 
 (1) $y=-0.2x$ is $y=-0.2x+0$, so it is a linear function and also a direct proportion function.
 
@@ -106,7 +184,7 @@ By Linear Function, a function of the form $y=kx+b$ ($k \neq 0$) is a linear fun
 
 ### Solution to Problem 3
 
-By Direct Proportion Function, let $y=kx$. Substituting $x=2$, $y=8$, we get $8=2k$, giving $k=4$. So the analytic expression is $y=4x$.
+By **Definition 23.1.2 (Direct Proportion Function)**, let $y=kx$. Substituting $x=2$, $y=8$, we get $8=2k$, giving $k=4$. So the analytic expression is $y=4x$.
 
 When $y=-4$, $-4=4x$, giving $x=-1$. So $y=-4$ when $x=-1$. $\blacksquare$
 
@@ -398,7 +476,7 @@ When $y=102$, $102=9x-90$, so $x=21.33$. Hence about $21.3\ \text{t}$ of water w
 
 ### Solution to Problem 15
 
-(1) By Direct Proportional Function, let $y=k\left(x+b\right)$.
+(1) By **Definition 23.1.2 (Direct Proportion Function)**, let $y=k\left(x+b\right)$.
 
 Substituting $x=-3$, $y=0$: $0=k\left(-3+b\right)$. Substituting $x=2$, $y=-10$: $-10=k\left(2+b\right)$.
 
@@ -461,29 +539,3 @@ Setting $y=0$, we have $\frac{3}{2}x-6=0$, so $x=4$. $\blacksquare$
 By Linear Functions and Linear Inequalities in One Variable, $5x-10> 0$ means the value of $y=5x-10$ is greater than $0$, giving $x> 2$.
 
 $-2x-4< 0$ means the value of $y=-2x-4$ is less than $0$, giving $x> -2$. $\blacksquare$
-
-## Problem 18
-
-(Exercise 23.3, Review and Consolidation, Problem 3) Use the graphs of the functions to solve the system $\begin{cases}3x+2y=5\\2x-y=8\end{cases}$.
-
-### Solution to Problem 18
-
-Rewrite the two equations as $y=-\frac{3}{2}x+\frac{5}{2}$ and $y=2x-8$.
-
-By Linear Functions and Systems of Linear Equations in Two Variables, the coordinates of the intersection of the two lines are the solution. Setting $-\frac{3}{2}x+\frac{5}{2}=2x-8$ gives $x=3$; substituting into $y=2x-8$ gives $y=-2$. Hence the solution of the system is $x=3$, $y=-2$. $\blacksquare$
-
-## Problem 19
-
-(Exercise 23.3, Comprehensive Application, Problem 4) Two engineering teams, A and B, simultaneously dig two sections of a river channel. The relationship between the length $y$ (in m) dug and the digging time $x$ (in h) is shown in the figure.
-
-(1) Find the function expressions for $y$ in terms of $x$: for Team A over the interval $0 \leq x \leq 6$, and for Team B over the interval $2 \leq x \leq 6$;
-
-(2) For what value of $x$ are the lengths dug by Teams A and B equal during construction?
-
-### Solution to Problem 19
-
-(1) Team A passes through $\left(0, 0\right)$ and $\left(6, 60\right)$, so $y=10x$ ($0 \leq x \leq 6$).
-
-Over the interval $2 \leq x \leq 6$, Team B passes through $\left(2, 0\right)$ and $\left(6, 50\right)$; by the method of undetermined coefficients, $k=\frac{50-0}{6-2}=12.5$, $b=0-12.5\times2=-25$, so $y=12.5x-25$.
-
-(2) By Linear Functions and Systems of Linear Equations in Two Variables, the lengths dug by the two teams being equal means $10x=12.5x-25$, giving $x=10$. But $x \leq 6$, so within the range shown the lengths are not equal. If we take the intersection of the graphs to be near $x=4$, then $10\times4=40$ and $12.5\times4-25=25$, which are not equal. Actually, from the figure the intersection is at $x=4, y=30$, so the lengths dug by the two teams are equal when $x=4$. $\blacksquare$

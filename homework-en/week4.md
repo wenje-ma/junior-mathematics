@@ -1,6 +1,64 @@
 # week4
 
+> **Definition 2.1.1 (Rules for Addition of Rational Numbers)**
+> 
+> When two numbers of the same sign are added, the sum takes the same sign; when two numbers of opposite signs are added, the sum takes the sign of the addend with the larger absolute value; adding two numbers that are opposites of each other gives $0$.
+
+> **Definition 2.1.2 (Commutative Law of Addition)**
+> 
+> In the addition of rational numbers, when two numbers are added, swapping the positions of the addends does not change the sum, that is, $a+b=b+a$.
+
+> **Definition 2.1.3 (Associative Law of Addition)**
+> 
+> In the addition of rational numbers, when three numbers are added, adding the first two first, or adding the last two first, does not change the sum, that is, $\left(a+b\right)+c=a+\left(b+c\right)$.
+
+> **Definition 2.1.4 (Rules for Subtraction of Rational Numbers)**
+> 
+> Subtracting a number is equivalent to adding the opposite number of that number.
+
+> **Definition 2.2.1 (Rules for Multiplication of Rational Numbers)**
+> 
+> When two numbers are multiplied, like signs give positive and opposite signs give negative, and the absolute value of the product equals the product of the absolute values of the factors.
+
+> **Definition 2.2.2 (Reciprocal)**
+> 
+> Two numbers whose product is $1$ are reciprocals of each other.
+
+> **Definition 2.2.3 (Commutative Law of Multiplication)**
+> 
+> When two numbers are multiplied, swapping the positions of the factors does not change the product, that is, $ab=ba$.
+
+> **Definition 2.2.4 (Associative Law of Multiplication)**
+> 
+> When three numbers are multiplied, multiplying the first two first, or multiplying the last two first, does not change the product, that is, $\left(ab\right)c=a\left(bc\right)$.
+
+> **Definition 2.2.5 (Distributive Law)**
+> 
+> Multiplying a number by the sum of two numbers is equivalent to multiplying that number separately by the two numbers and then adding the products, that is, $a\left(b+c\right)=ab+ac$.
+
+> **Definition 2.2.6 (Sign Rules for Multiplying Several Rational Numbers)**
+> 
+> When several numbers not equal to $0$ are multiplied, the product is positive when the number of negative factors is even and negative when the number of negative factors is odd. When several numbers are multiplied and one of the factors is $0$, the product is $0$.
+
+> **Definition 2.2.7 (Rules for Division of Rational Numbers)**
+> 
+> Dividing by a number not equal to $0$ is equivalent to multiplying by the reciprocal of that number.
+
 ## Problem 1
+
+(Exercise 2.1, Extension and Exploration, Problem 10) The highest and lowest temperatures each day over a week at a certain place are shown in the table below. Which day has the largest temperature difference? Which day has the smallest?
+
+Day: Mon, Tue, Wed, Thu, Fri, Sat, Sun. Highest temperature: $10$, $12$, $11$, $9$, $7$, $5$, $7$ ($^\circ\text{C}$). Lowest temperature: $2$, $1$, $0$, $-1$, $-4$, $-5$, $-5$ ($^\circ\text{C}$).
+
+### Solution to Problem 1
+
+By **Definition 2.1.4 (Rules for Subtraction of Rational Numbers)**, the temperature difference $=$ highest temperature $-$ lowest temperature.
+
+The temperature difference on each day is: Monday $10-2=8$; Tuesday $12-1=11$; Wednesday $11-0=11$; Thursday $9-\left(-1\right)=10$; Friday $7-\left(-4\right)=11$; Saturday $5-\left(-5\right)=10$; Sunday $7-\left(-5\right)=12$.
+
+Comparing, $12> 11> 10> 8$, so Sunday has the largest temperature difference and Monday has the smallest. $\blacksquare$
+
+## Problem 2
 
 (Exercise 2.1, Extension and Exploration, Problem 11) Fill in the blanks.
 
@@ -16,9 +74,9 @@
 
 (6) $\;\_\_\;+\left(-13\right)=-6$.
 
-### Solution to Problem 1
+### Solution to Problem 2
 
-By Rules for Addition of Rational Numbers, the unknown addend equals the sum minus the known addend.
+By **Definition 2.1.1 (Rules for Addition of Rational Numbers)**, the unknown addend equals the sum minus the known addend.
 
 (1) $27-11=16$; (2) $4-7=-3$; (3) $9-\left(-9\right)=18$;
 
@@ -26,7 +84,7 @@ By Rules for Addition of Rational Numbers, the unknown addend equals the sum min
 
 Hence fill in in turn: $16$; $-3$; $18$; $-12$; $-7$; $7$. $\blacksquare$
 
-## Problem 2
+## Problem 3
 
 (Exercise 2.1, Extension and Exploration, Problem 12) Compute the value of each of the following:
 
@@ -34,9 +92,9 @@ $$\left(-2\right)+\left(-2\right),\ \left(-2\right)+\left(-2\right)+\left(-2\rig
 
 Guess the value of the following: $\left(-2\right)\times 2$, $\left(-2\right)\times 3$, $\left(-2\right)\times 4$, $\left(-2\right)\times 5$. Can you further guess the rule for multiplying a negative number by a positive number?
 
-### Solution to Problem 2
+### Solution to Problem 3
 
-By Rules for Addition of Rational Numbers.
+By **Definition 2.1.1 (Rules for Addition of Rational Numbers)**.
 
 $$\left(-2\right)+\left(-2\right)=-4;$$
 
@@ -48,7 +106,7 @@ $$\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right
 
 Adding several identical negative numbers is precisely that negative number multiplied by a positive integer, so we conjecture $\left(-2\right)\times 2=-4$, $\left(-2\right)\times 3=-6$, $\left(-2\right)\times 4=-8$, $\left(-2\right)\times 5=-10$. From this one may guess: when a negative number is multiplied by a positive number, the product is negative, and the absolute value of the product equals the product of the absolute values of the two numbers. $\blacksquare$
 
-## Problem 3
+## Problem 4
 
 (Exercise 2.1, Extension and Exploration, Problem 13) A road-maintenance team travels by car to patrol and maintain a north-south highway. One morning they set out from place $A$ and in the evening finally arrive at place $B$. Conventionally, northward is the positive direction, and that day's driving records (unit: $\text{km}$) are:
 
@@ -60,9 +118,9 @@ Assume the car travels in a single direction under each driving record.
 
 (2) If the car consumes on average $a\ \text{L}$ of fuel per $1\ \text{km}$ driven, then how many liters of fuel did the car consume in total that day?
 
-### Solution to Problem 3
+### Solution to Problem 4
 
-By Rules for Addition of Rational Numbers.
+By **Definition 2.1.1 (Rules for Addition of Rational Numbers)**.
 
 (1) The algebraic sum of the driving records is
 
@@ -82,7 +140,7 @@ Hence the car consumed a total of $81a\ \text{L}$ of fuel that day. $\blacksquar
 
 ### Solution to Reading and Reflection 1
 
-As can be seen from the material, ancient China was the first to systematically give the rules for adding and subtracting positive and negative numbers, the "positive-negative method", and distinguished positive and negative numbers by red and black counting rods. This is consistent with the idea embodied in Rules for Addition of Rational Numbers and Rules for Subtraction of Rational Numbers — "first determine the sign, then compute the absolute value" — and is an important achievement of ancient Chinese mathematics. $\blacksquare$
+As can be seen from the material, ancient China was the first to systematically give the rules for adding and subtracting positive and negative numbers, the "positive-negative method", and distinguished positive and negative numbers by red and black counting rods. This is consistent with the idea embodied in **Definition 2.1.1 (Rules for Addition of Rational Numbers)** and **Definition 2.1.4 (Rules for Subtraction of Rational Numbers)** — "first determine the sign, then compute the absolute value" — and is an important achievement of ancient Chinese mathematics. $\blacksquare$
 
 ## Exercise 1
 
@@ -94,7 +152,7 @@ As can be seen from the material, ancient China was the first to systematically 
 
 ### Solution to Exercise 1
 
-By Rules for Multiplication of Rational Numbers.
+By **Definition 2.2.1 (Rules for Multiplication of Rational Numbers)**.
 
 (1) $6\times\left(-9\right)=-54$; (2) $\left(-4\right)\times 6=-24$; (3) $\left(-6\right)\times\left(-1\right)=6$;
 
@@ -106,7 +164,7 @@ By Rules for Multiplication of Rational Numbers.
 
 ### Solution to Exercise 2
 
-By Rules for Multiplication of Rational Numbers, the price reduction per item is recorded as $-5$ yuan.
+By **Definition 2.2.1 (Rules for Multiplication of Rational Numbers)**, the price reduction per item is recorded as $-5$ yuan.
 
 $$\left(-5\right)\times 60=-300.$$
 
@@ -120,7 +178,7 @@ $$1,\ -1,\ \frac{1}{3},\ -\frac{1}{3},\ 5,\ -5,\ \frac{2}{3},\ -\frac{2}{3}.$$
 
 ### Solution to Exercise 3
 
-By Reciprocal, two numbers whose product is $1$ are reciprocals of each other.
+By **Definition 2.2.2 (Reciprocal)**, two numbers whose product is $1$ are reciprocals of each other.
 
 The reciprocal of $1$ is $1$; the reciprocal of $-1$ is $-1$; the reciprocal of $\frac{1}{3}$ is $3$; the reciprocal of $-\frac{1}{3}$ is $-3$; the reciprocal of $5$ is $\frac{1}{5}$; the reciprocal of $-5$ is $-\frac{1}{5}$; the reciprocal of $\frac{2}{3}$ is $\frac{3}{2}$; the reciprocal of $-\frac{2}{3}$ is $-\frac{3}{2}$. $\blacksquare$
 
@@ -138,7 +196,7 @@ The reciprocal of $1$ is $1$; the reciprocal of $-1$ is $-1$; the reciprocal of 
 
 ### Solution to Exercise 4
 
-By Associative Law of Multiplication and Distributive Law.
+By **Definition 2.2.4 (Associative Law of Multiplication)** and **Definition 2.2.5 (Distributive Law)**.
 
 (1) The original expression $=\left(-85\right)\times\left[\left(-25\right)\times\left(-4\right)\right]=\left(-85\right)\times 100=-8500$.
 
@@ -158,11 +216,11 @@ By Associative Law of Multiplication and Distributive Law.
 
 ### Solution to Exercise 5
 
-By Sign Rules for Multiplying Several Rational Numbers.
+By **Definition 2.2.6 (Sign Rules for Multiplying Several Rational Numbers)**.
 
 (1) There are two negative factors, so the product is positive: the original expression $=\frac{5}{12}\times\frac{8}{15}\times\frac{1}{2}\times\frac{2}{3}=\frac{2}{27}$.
 
-(2) Since one of the factors is $0$, by Sign Rules for Multiplying Several Rational Numbers, the original expression $=0$. $\blacksquare$
+(2) Since one of the factors is $0$, by **Definition 2.2.6 (Sign Rules for Multiplying Several Rational Numbers)**, the original expression $=0$. $\blacksquare$
 
 ## Exercise 6
 
@@ -174,7 +232,7 @@ By Sign Rules for Multiplying Several Rational Numbers.
 
 ### Solution to Exercise 6
 
-By Rules for Division of Rational Numbers.
+By **Definition 2.2.7 (Rules for Division of Rational Numbers)**.
 
 (1) $\left(-18\right)\div 6=-3$; (2) $\left(-63\right)\div\left(-7\right)=9$; (3) $1\div\left(-9\right)=-\frac{1}{9}$;
 
@@ -188,7 +246,7 @@ By Rules for Division of Rational Numbers.
 
 ### Solution to Exercise 7
 
-By Rules for Division of Rational Numbers, a fraction bar means division.
+By **Definition 2.2.7 (Rules for Division of Rational Numbers)**, a fraction bar means division.
 
 (1) $\frac{-72}{9}=-8$; (2) $\frac{-30}{-45}=\frac{2}{3}$; (3) $\frac{0}{-75}=0$; (4) $\frac{27}{-6}=-\frac{9}{2}$. $\blacksquare$
 
@@ -206,7 +264,7 @@ By Rules for Division of Rational Numbers, a fraction bar means division.
 
 ### Solution to Exercise 8
 
-By Rules for Division of Rational Numbers.
+By **Definition 2.2.7 (Rules for Division of Rational Numbers)**.
 
 (1) $15\div\left(-6\right)=-\frac{5}{2}$.
 
@@ -230,7 +288,7 @@ By Rules for Division of Rational Numbers.
 
 ### Solution to Exercise 9
 
-By Rules for Division of Rational Numbers and Rules for Multiplication of Rational Numbers, multiply and divide before adding and subtracting.
+By **Definition 2.2.7 (Rules for Division of Rational Numbers)** and **Definition 2.2.1 (Rules for Multiplication of Rational Numbers)**, multiply and divide before adding and subtracting.
 
 (1) The original expression $=6-4=2$.
 
@@ -240,7 +298,7 @@ By Rules for Division of Rational Numbers and Rules for Multiplication of Ration
 
 (4) The original expression $=-28+\frac{3}{2}=-\frac{53}{2}$. $\blacksquare$
 
-## Problem 4
+## Problem 5
 
 (Exercise 2.2, Review and Consolidation, Problem 1) Compute:
 
@@ -248,13 +306,13 @@ By Rules for Division of Rational Numbers and Rules for Multiplication of Ration
 
 (4) $\left(-30.5\right)\times 0.2$; (5) $100\times\left(-0.001\right)$; (6) $\left(-4.8\right)\times\left(-1.25\right)$.
 
-### Solution to Problem 4
+### Solution to Problem 5
 
-By Rules for Multiplication of Rational Numbers.
+By **Definition 2.2.1 (Rules for Multiplication of Rational Numbers)**.
 
 (1) $56$; (2) $-60$; (3) $-1.16$; (4) $-6.1$; (5) $-0.1$; (6) $6$. $\blacksquare$
 
-## Problem 5
+## Problem 6
 
 (Exercise 2.2, Review and Consolidation, Problem 2) Compute:
 
@@ -262,25 +320,25 @@ By Rules for Multiplication of Rational Numbers.
 
 (3) $\left(-3\frac{4}{15}\right)\times 25$; (4) $\left(-0.3\right)\times\left(-\frac{10}{7}\right)$.
 
-### Solution to Problem 5
+### Solution to Problem 6
 
-By Rules for Multiplication of Rational Numbers.
+By **Definition 2.2.1 (Rules for Multiplication of Rational Numbers)**.
 
 (1) $-\frac{112}{9}$; (2) $\frac{1}{4}$; (3) $-\frac{245}{3}$; (4) $\frac{3}{7}$. $\blacksquare$
 
-## Problem 6
+## Problem 7
 
 (Exercise 2.2, Review and Consolidation, Problem 3) Write down the reciprocal of each of the following:
 
 (1) $-15$; (2) $-\frac{5}{9}$; (3) $-0.25$; (4) $0.17$; (5) $4\frac{1}{4}$; (6) $-5\frac{2}{5}$.
 
-### Solution to Problem 6
+### Solution to Problem 7
 
-By Reciprocal.
+By **Definition 2.2.2 (Reciprocal)**.
 
 (1) $-\frac{1}{15}$; (2) $-\frac{9}{5}$; (3) $-4$; (4) $\frac{100}{17}$; (5) $\frac{4}{17}$; (6) $-\frac{5}{27}$. $\blacksquare$
 
-## Problem 7
+## Problem 8
 
 (Exercise 2.2, Review and Consolidation, Problem 4) Compute:
 
@@ -292,9 +350,9 @@ By Reciprocal.
 
 (4) $-\frac{3}{4}\times\left(8-1\frac{1}{3}-0.04\right)$.
 
-### Solution to Problem 7
+### Solution to Problem 8
 
-By Distributive Law and Associative Law of Multiplication.
+By **Definition 2.2.5 (Distributive Law)** and **Definition 2.2.4 (Associative Law of Multiplication)**.
 
 (1) The original expression $=\left(-\frac{42}{5}\right)\times\frac{5}{4}\times\left(-8\right)=84$.
 
@@ -304,7 +362,7 @@ By Distributive Law and Associative Law of Multiplication.
 
 (4) The original expression $=-6+1+0.03=-4.97$. $\blacksquare$
 
-## Problem 8
+## Problem 9
 
 (Exercise 2.2, Review and Consolidation, Problem 5) Compute:
 
@@ -312,13 +370,13 @@ By Distributive Law and Associative Law of Multiplication.
 
 (3) $\left(-6\right)\times\left(-0.25\right)\times\frac{11}{14}$; (4) $\left(-17\right)\times\left(-49\right)\times 0\times 13$.
 
-### Solution to Problem 8
+### Solution to Problem 9
 
-By Sign Rules for Multiplying Several Rational Numbers.
+By **Definition 2.2.6 (Sign Rules for Multiplying Several Rational Numbers)**.
 
 (1) Two negative factors, product positive, $24$. (2) Three negative factors, product negative, $-210$. (3) Two negative factors, product positive, $\frac{33}{28}$. (4) Contains the factor $0$, product is $0$. $\blacksquare$
 
-## Problem 9
+## Problem 10
 
 (Exercise 2.2, Review and Consolidation, Problem 6) Compute:
 
@@ -326,13 +384,13 @@ By Sign Rules for Multiplying Several Rational Numbers.
 
 (4) $\frac{4}{5}\div\left(-1\right)$; (5) $\left(-16\right)\div\left(-48\right)$; (6) $\left(-0.25\right)\div\frac{3}{8}$.
 
-### Solution to Problem 9
+### Solution to Problem 10
 
-By Rules for Division of Rational Numbers.
+By **Definition 2.2.7 (Rules for Division of Rational Numbers)**.
 
 (1) $-\frac{16}{3}$; (2) $-7$; (3) $4$; (4) $-\frac{4}{5}$; (5) $\frac{1}{3}$; (6) $-\frac{2}{3}$. $\blacksquare$
 
-## Problem 10
+## Problem 11
 
 (Exercise 2.2, Review and Consolidation, Problem 7) Fill in the blanks.
 
@@ -340,25 +398,25 @@ $1\times\left(-5\right)=\;\_\_\;$; $1\div\left(-5\right)=\;\_\_\;$; $1+\left(-5\
 
 $\left(-1\right)\times\left(-5\right)=\;\_\_\;$; $\left(-1\right)\div\left(-5\right)=\;\_\_\;$; $\left(-1\right)+\left(-5\right)=\;\_\_\;$; $\left(-1\right)-\left(-5\right)=\;\_\_\;$.
 
-### Solution to Problem 10
+### Solution to Problem 11
 
-By Rules for Multiplication of Rational Numbers and Rules for Division of Rational Numbers.
+By **Definition 2.2.1 (Rules for Multiplication of Rational Numbers)** and **Definition 2.2.7 (Rules for Division of Rational Numbers)**.
 
 In turn: $-5$; $-\frac{1}{5}$; $-4$; $6$; $5$; $\frac{1}{5}$; $-6$; $4$. $\blacksquare$
 
-## Problem 11
+## Problem 12
 
 (Exercise 2.2, Review and Consolidation, Problem 8) Simplify:
 
 (1) $\frac{-21}{7}$; (2) $\frac{3}{-36}$; (3) $\frac{-54}{-8}$; (4) $\frac{-6}{-0.3}$.
 
-### Solution to Problem 11
+### Solution to Problem 12
 
-By Rules for Division of Rational Numbers.
+By **Definition 2.2.7 (Rules for Division of Rational Numbers)**.
 
 (1) $-3$; (2) $-\frac{1}{12}$; (3) $\frac{27}{4}$; (4) $20$. $\blacksquare$
 
-## Problem 12
+## Problem 13
 
 (Exercise 2.2, Review and Consolidation, Problem 9) Compute:
 
@@ -370,9 +428,9 @@ By Rules for Division of Rational Numbers.
 
 (4) $\left(-9\right)\times\left(-11\right)\div 3\div\left(-3\right)$.
 
-### Solution to Problem 12
+### Solution to Problem 13
 
-By Rules for Division of Rational Numbers.
+By **Definition 2.2.7 (Rules for Division of Rational Numbers)**.
 
 (1) The original expression $=-100\div\left(-1\right)=100$.
 
@@ -382,7 +440,7 @@ By Rules for Division of Rational Numbers.
 
 (4) The original expression $=99\div 3\div\left(-3\right)=33\div\left(-3\right)=-11$. $\blacksquare$
 
-## Problem 13
+## Problem 14
 
 (Exercise 2.2, Comprehensive Application, Problem 10) Compute:
 
@@ -392,9 +450,9 @@ By Rules for Division of Rational Numbers.
 
 (3) $\left(1\frac{3}{4}-\frac{7}{8}-\frac{7}{12}\right)\div\left(-\frac{7}{8}\right)+\left(-\frac{7}{8}\right)\div\left(1\frac{3}{4}-\frac{7}{8}-\frac{7}{12}\right)$.
 
-### Solution to Problem 13
+### Solution to Problem 14
 
-By Rules for Division of Rational Numbers and Rules for Multiplication of Rational Numbers.
+By **Definition 2.2.7 (Rules for Division of Rational Numbers)** and **Definition 2.2.1 (Rules for Multiplication of Rational Numbers)**.
 
 (1) The original expression $=-\frac{10}{3}+3\times\frac{128}{3}=-\frac{10}{3}+128=\frac{374}{3}$.
 
@@ -402,7 +460,7 @@ By Rules for Division of Rational Numbers and Rules for Multiplication of Ration
 
 (3) Let $A=1\frac{3}{4}-\frac{7}{8}-\frac{7}{12}=\frac{7}{4}-\frac{7}{8}-\frac{7}{12}=\frac{7}{24}$. Then $A\div\left(-\frac{7}{8}\right)=\frac{7}{24}\times\left(-\frac{8}{7}\right)=-\frac{1}{3}$, and $\left(-\frac{7}{8}\right)\div A=\left(-\frac{7}{8}\right)\times\frac{24}{7}=-3$. Hence the original expression $=-\frac{1}{3}+\left(-3\right)=-\frac{10}{3}$. $\blacksquare$
 
-## Problem 14
+## Problem 15
 
 (Exercise 2.2, Comprehensive Application, Problem 12) Taking profit as a positive number, fill in the blanks with a positive or negative number:
 
@@ -412,36 +470,12 @@ By Rules for Division of Rational Numbers and Rules for Multiplication of Ration
 
 (3) The small store loses a total of $840$ yuan over one week; the average daily profit is $\;\_\_\;$ yuan.
 
-### Solution to Problem 14
+### Solution to Problem 15
 
-By Rules for Multiplication of Rational Numbers and Rules for Division of Rational Numbers.
+By **Definition 2.2.1 (Rules for Multiplication of Rational Numbers)** and **Definition 2.2.7 (Rules for Division of Rational Numbers)**.
 
 (1) $250\times 30=7500$, fill in $7500$.
 
 (2) $1400\div 7=200$, fill in $200$.
 
 (3) Loss is recorded as negative, $\left(-840\right)\div 7=-120$, fill in $-120$. $\blacksquare$
-
-## Problem 15
-
-(Exercise 2.2, Comprehensive Application, Problem 13) A helicopter starts from an altitude of $450\ \text{m}$, first rises vertically at a speed of $4\ \text{m/s}$ for $60\ \text{s}$, and then descends vertically at a speed of $5\ \text{m/s}$ for $120\ \text{s}$. What is the altitude of the helicopter at this point?
-
-### Solution to Problem 15
-
-By Rules for Multiplication of Rational Numbers, rising is positive and descending is negative.
-
-$$450+4\times 60-5\times 120=450+240-600=90.$$
-
-Hence the altitude of the helicopter at this point is $90\ \text{m}$. $\blacksquare$
-
-## Problem 16
-
-(Exercise 2.2, Extension and Exploration, Problem 14) Compute $2\times 1$, $2\times\frac{1}{2}$, $2\times\left(-1\right)$, $2\times\left(-\frac{1}{2}\right)$. In connection with such concrete multiplications, do you think a nonzero rational number must be less than its $2$ times? Why?
-
-### Solution to Problem 16
-
-By Rules for Multiplication of Rational Numbers.
-
-$$2\times 1=2,\quad 2\times\frac{1}{2}=1,\quad 2\times\left(-1\right)=-2,\quad 2\times\left(-\frac{1}{2}\right)=-1.$$
-
-A nonzero rational number is not necessarily less than its $2$ times. When the number is positive, it is less than its $2$ times; when the number is negative, for instance $-1< 2$ does not hold, because $2\times\left(-1\right)=-2< -1$, that is, the $2$ times of a negative number is smaller than the number itself. $\blacksquare$

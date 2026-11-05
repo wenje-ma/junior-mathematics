@@ -1,6 +1,98 @@
 # week48
 
+> **Theorem 20.1.1 (Pythagorean Theorem)**
+> 
+> In a right triangle, the sum of the squares of the two legs equals the square of the hypotenuse. If the two legs of a right triangle are \(a,b\) and the hypotenuse is \(c\), then \(a^{2}+b^{2}=c^{2}\).
+
+> **Conclusion 21.1.1 (Interior Angle Sum of a Quadrilateral)**
+> 
+> The interior angle sum of a quadrilateral is \(360^{\circ}\).
+
+> **Conclusion 21.1.3 (Interior Angle Sum of a Polygon)**
+> 
+> The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
+
+> **Property 21.2.1 (Opposite Sides)**
+> 
+> Opposite sides of a parallelogram are equal.
+
+> **Property 21.2.3 (Diagonals)**
+> 
+> The diagonals of a parallelogram bisect each other.
+
+> **Criterion 21.2.3 (Diagonals)**
+> 
+> A quadrilateral whose diagonals bisect each other is a parallelogram.
+
+> **Definition 21.3.1 (Rectangle)**
+> 
+> A parallelogram with one right angle is called a rectangle.
+
+> **Conclusion 21.3.1 (Median to the Hypotenuse of a Right Triangle)**
+> 
+> The median to the hypotenuse of a right triangle equals half the hypotenuse.
+
+> **Criterion 21.3.1 (Diagonals)**
+> 
+> A parallelogram with equal diagonals is a rectangle.
+
+> **Property 21.3.2 (Diagonals of a Rectangle)**
+> 
+> The diagonals of a rectangle are equal.
+
+> **Definition 21.3.2 (Rhombus)**
+> 
+> A parallelogram with one pair of adjacent sides equal is called a rhombus.
+
+> **Definition 21.3.3 (Square)**
+> 
+> A parallelogram with one pair of adjacent sides equal and one right angle is called a square.
+
+> **Property 21.3.4 (Diagonals of a Rhombus)**
+> 
+> The two diagonals of a rhombus are perpendicular, and each diagonal bisects a pair of opposite angles.
+
 ## Exercise 1
+
+(Exercise 21.3.2, Problem 1)
+
+Quadrilateral \(ABCD\) is a rhombus, the diagonals \(AC,BD\) intersect at point \(O\), and \(AB=5,\ AO=4\). Find the lengths of \(AC,BD\) and the area of rhombus \(ABCD\).
+
+By Basic Knowledge, \(AC\perp BD\).
+
+In \(Rt\triangle AOB\), \(BO=\sqrt{AB^{2}-AO^{2}}=\sqrt{25-16}=3\).
+
+Therefore \(AC=2AO=8,\ BD=2BO=6\).
+
+Area of the rhombus \(=\frac{1}{2}\times AC\times BD=\frac{1}{2}\times 8\times 6=24\).
+
+\(\blacksquare\)
+
+(Exercise 21.3.2, Problem 2)
+
+As shown in the figure, in rhombus \(ABCD\), \(BD=4,\ \angle A:\angle ABC=1:2\). Find the perimeter of \(\triangle ABD\).
+
+Adjacent angles of a rhombus are supplementary, \(\angle A+\angle ABC=180^{\circ}\); with ratio \(1:2\), \(\angle A=60^{\circ}\).
+
+Also \(AB=AD\), so \(\triangle ABD\) is equilateral, \(AB=AD=BD=4\).
+
+Therefore the perimeter \(=12\).
+
+\(\blacksquare\)
+
+(Exercise 21.3.2, Problem 3)
+
+As shown in the figure, in rhombus \(ABCD\), \(\angle A=60^{\circ}\), connect diagonal \(BD\); \(E,F\) are the midpoints of sides \(AB,BC\), respectively; connect \(DE,DF,EF\). Prove that \(\triangle DEF\) is equilateral.
+
+\(\angle A=60^{\circ}\) and \(AB=AD\), so \(\triangle ABD\) is equilateral.
+
+\(E\) is the midpoint of \(AB\), so \(DE\perp AB\). Similarly \(DF\perp BC\).
+
+By the symmetry of the rhombus and that \(E,F\) are midpoints, one can prove \(DE=DF=EF\), so \(\triangle DEF\) is equilateral.
+
+\(\blacksquare\)
+
+## Exercise 2
 
 (Exercise 21.3.2, Problem 1)
 
@@ -34,7 +126,7 @@ The folded quadrilateral has four equal sides, so it is a rhombus.
 
 \(\blacksquare\)
 
-## Exercise 2
+## Exercise 3
 
 (Exercise 21.3.3, Problem 1)
 
@@ -70,7 +162,7 @@ Therefore \(AF=BE\), and the two lines are perpendicular.
 
 \(\blacksquare\)
 
-## Exercise 3
+## Exercise 4
 
 (Exercise 21.3.3, Problem 1)
 
@@ -348,7 +440,7 @@ Let \(MN=2\); then square \(MNAB\) has side length \(2\).
 
 After folding in Step 2, \(D\) is the midpoint of \(MN\), so \(CD=1,\ BC=2\).
 
-In \(Rt\triangle BCD\), by Basic Knowledge,
+In \(Rt\triangle BCD\), by **Theorem 20.1.1 (Pythagorean Theorem)**,
 
 $$
 BD=\sqrt{BC^{2}+CD^{2}}=\sqrt{4+1}=\sqrt{5}.
@@ -380,7 +472,7 @@ As shown in the figure, there are two square pieces of paper of different sizes.
 
 Let the small square have side \(a\) and the large square side \(b\); then the combined large square has side \(\sqrt{a^{2}+b^{2}}\).
 
-On one side of the large square, mark off length \(a\) to obtain a segment of length \(\sqrt{a^{2}+b^{2}}\) (by Basic Knowledge, the hypotenuse of legs \(a,b\)).
+On one side of the large square, mark off length \(a\) to obtain a segment of length \(\sqrt{a^{2}+b^{2}}\) (by **Theorem 20.1.1 (Pythagorean Theorem)**, the hypotenuse of legs \(a,b\)).
 
 Cut along this segment and, using the out-in complementary method, cut the two small squares into several pieces and rearrange them into a large square of side \(\sqrt{a^{2}+b^{2}}\).
 
@@ -481,91 +573,5 @@ By the triangle midline theorem, \(EF\parallel AB\parallel GH\), \(FG\parallel B
 The diagonals of a square are perpendicular and equal, so the midpoint quadrilateral has equal and perpendicular adjacent sides.
 
 Therefore \(EFGH\) is a square.
-
-\(\blacksquare\)
-
-## Review Problem 2
-
-(Review Problem, Comprehensive Application, Problem 8)
-
-As shown in the figure, the interior angles of hexagon \(ABCDEF\) are all equal, and \(\angle DAB=60^{\circ}\). What is the positional relation between \(AB\) and \(DE\)? Does \(BC\) have this relation with \(EF\)? Prove your conclusion.
-
-Each interior angle of an equiangular hexagon \(=\frac{(6-2)\times 180^{\circ}}{6}=120^{\circ}\).
-
-From \(\angle DAB=60^{\circ}\) and each interior angle \(120^{\circ}\), the consecutive interior angles are supplementary, so \(AB\parallel DE\).
-
-Similarly \(BC\parallel EF\).
-
-\(\blacksquare\)
-
-(Review Problem, Comprehensive Application, Problem 9)
-
-As shown in the figure, quadrilateral \(ABCD\) is a parallelogram, \(BE\parallel DF\), and they meet diagonal \(AC\) at points \(E,F\), respectively; connect \(ED,BF\). Prove \(\angle 1=\angle 2\).
-
-From \(BE\parallel DF\) and \(AB\parallel CD\), one can prove \(\triangle ABE\cong\triangle CDF\), giving \(BE=DF\).
-
-Therefore quadrilateral \(BEDF\) is a parallelogram, \(ED\parallel BF\).
-
-By equal alternate interior angles, \(\angle 1=\angle 2\).
-
-\(\blacksquare\)
-
-(Review Problem, Comprehensive Application, Problem 10)
-
-The quadrilateral obtained by joining the midpoints of the sides of any quadrilateral in order is called a midpoint quadrilateral.
-
-(1) What shape is the midpoint quadrilateral of a parallelogram? Why?
-
-(2) What shapes are the midpoint quadrilaterals of a rectangle, a rhombus and a square? Why?
-
-(1) By the triangle midline theorem, both pairs of opposite sides of the midpoint quadrilateral are parallel and equal to half the original diagonals, so it is a parallelogram.
-
-(2) The diagonals of a rectangle are equal, so the midpoint quadrilateral has equal adjacent sides, i.e. a rhombus.
-
-The diagonals of a rhombus are perpendicular, so the midpoint quadrilateral has perpendicular adjacent sides, i.e. a rectangle.
-
-The diagonals of a square are perpendicular and equal, so the midpoint quadrilateral has perpendicular and equal adjacent sides, i.e. a square.
-
-\(\blacksquare\)
-
-(Review Problem, Comprehensive Application, Problem 11)
-
-If a quadrilateral is an axisymmetric figure and has two perpendicular axes of symmetry, must it be a rhombus? Must it be a square?
-
-Two perpendicular axes of symmetry show that the quadrilateral is symmetric about both axes, and its diagonals perpendicularly bisect each other.
-
-Therefore it must be a rhombus.
-
-But it need not be a square, because the diagonals need not be equal (a rhombus's diagonals need not be equal).
-
-\(\blacksquare\)
-
-(Review Problem, Comprehensive Application, Problem 12)
-
-With two congruent triangular pieces of paper, what quadrilaterals can you form? To form a rectangle, what kind of two congruent triangles are needed? What about to form a rhombus or a square?
-
-Two congruent triangles form a parallelogram (by flipping along corresponding sides).
-
-To form a rectangle, two congruent right triangles are needed.
-
-To form a rhombus, two congruent isosceles triangles are needed.
-
-To form a square, two congruent isosceles right triangles are needed.
-
-\(\blacksquare\)
-
-(Review Problem, Comprehensive Application, Problem 13)
-
-If you have no protractor or set square nearby and need to construct a \(30^{\circ}\) angle, you can use the following method: (1) fold rectangular paper \(ABCD\) so that \(AD\) coincides with \(BC\), obtaining crease \(EF\); (2) fold the paper once more so that point \(A\) lands on \(EF\) and the crease passes through point \(B\), obtaining crease \(BM\) and also segment \(BN\). This gives \(\angle ABM,\angle MBN,\angle NBC\) all equal to \(30^{\circ}\). Write out the proof.
-
-After folding, \(EF\) is a midline, \(EF\parallel AD\parallel BC\).
-
-Folding makes \(A\) land at \(N\) on \(EF\), and the crease passes through \(B\), so \(BA=BN\).
-
-In \(Rt\triangle BNE\), \(BE=\frac{1}{2}AB=\frac{1}{2}BN\), so \(\angle BNE=30^{\circ},\ \angle EBN=60^{\circ}\).
-
-Hence \(\angle ABN=60^{\circ}\), and crease \(BM\) bisects \(\angle ABN\), giving \(\angle ABM=\angle MBN=30^{\circ}\).
-
-Also \(\angle ABC=90^{\circ}\), so \(\angle NBC=90^{\circ}-60^{\circ}=30^{\circ}\).
 
 \(\blacksquare\)

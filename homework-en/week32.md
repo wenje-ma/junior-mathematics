@@ -1,58 +1,212 @@
 # week32
 
+> **Definition 14.1.1 (Congruent Figures and Congruent Triangles)**
+> 
+> Two figures that can coincide completely are called congruent figures; two triangles that can coincide completely are called congruent triangles, denoted $\triangle ABC\cong\triangle A'B'C'$.
+
+> **Conclusion 14.1.1 (Properties of Congruent Triangles)**
+> 
+> Corresponding sides of congruent triangles are equal, and corresponding angles are equal.
+
+> **Basic Fact 14.2.1 (Side-Angle-Side, SAS)**
+> 
+> Two triangles are congruent if two sides and their included angle are respectively equal; abbreviated as "side-angle-side" or SAS.
+
+> **Conclusion 14.2.1 (Angle-Angle-Side, AAS)**
+> 
+> Two triangles are congruent if two angles are respectively equal and the opposite side of one pair of equal angles is equal; abbreviated as "angle-angle-side" or AAS.
+
+> **Basic Fact 14.2.1 (SAS)**
+> 
+> Two triangles are congruent if two sides and their included angle are respectively equal.
+
+> **Conclusion 14.2.1 (AAS)**
+> 
+> Two triangles are congruent if two angles are respectively equal and the opposite side of one pair of equal angles is equal.
+
+> **Basic Fact 14.2.2 (Angle-Side-Angle, ASA)**
+> 
+> Two triangles are congruent if two angles and their included side are respectively equal; abbreviated as "angle-side-angle" or ASA.
+
+> **Conclusion 14.2.2 (Hypotenuse-Leg, HL)**
+> 
+> Two right triangles are congruent if the hypotenuse and one leg are respectively equal; abbreviated as "hypotenuse-leg" or HL.
+
+> **Conclusion 14.2.2 (HL)**
+> 
+> Two right triangles are congruent if the hypotenuse and one leg are respectively equal.
+
+> **Basic Fact 14.2.2 (ASA)**
+> 
+> Two triangles are congruent if two angles and their included side are respectively equal.
+
+> **Basic Fact 14.2.3 (Side-Side-Side, SSS)**
+> 
+> Two triangles are congruent if the three sides are respectively equal; abbreviated as "side-side-side" or SSS; this shows that a triangle has stability.
+
+> **Basic Fact 14.2.3 (SSS)**
+> 
+> Two triangles are congruent if the three sides are respectively equal.
+
+> **Conclusion 14.3.1 (Properties of an Angle Bisector)**
+> 
+> A point on the bisector of an angle is equidistant from the two sides of the angle.
+
+> **Conclusion 14.3.2 (Determination of an Angle Bisector)**
+> 
+> A point inside an angle that is equidistant from the two sides lies on the bisector of the angle; the bisector of an angle (excluding the vertex) can be regarded as the set of all points inside the angle equidistant from the two sides.
+
+> **Conclusion 14.3.3 (Angle Bisectors of a Triangle)**
+> 
+> The three angle bisectors of a triangle intersect at one point, which is equidistant from the three sides.
+
+> **Definition 15.1.1 (Axisymmetric Figure)**
+> 
+> If a plane figure can be folded along a line so that the parts on both sides of the line coincide with each other, the figure is called an axisymmetric figure, and the line is called its axis of symmetry; the points that coincide after folding are called symmetric points. If folding one figure along a line makes it coincide with another figure, the two figures are said to be symmetric about that line.
+
+> **Conclusion 15.1.1 (Properties of Axis Symmetry)**
+> 
+> Two figures symmetric about a line are congruent; the axis of symmetry is the perpendicular bisector of the segment joining any pair of symmetric points, i.e. the segment joining symmetric points is perpendicularly bisected by the axis of symmetry.
+
+> **Definition 15.1.2 (Perpendicular Bisector of a Segment)**
+> 
+> The line passing through the midpoint of a segment and perpendicular to it is called the perpendicular bisector of the segment.
+
+> **Conclusion 15.1.2 (Properties of the Perpendicular Bisector)**
+> 
+> A point on the perpendicular bisector of a segment is equidistant from the two endpoints of the segment.
+
+> **Conclusion 15.1.3 (Determination of the Perpendicular Bisector)**
+> 
+> A point equidistant from the two endpoints of a segment lies on the perpendicular bisector of the segment. The perpendicular bisector of a segment can be regarded as the set of all points equidistant from the two endpoints.
+
+> **Definition 15.1.3 (Converse Propositions)**
+> 
+> Two propositions whose hypothesis and conclusion are exactly reversed are called converse propositions; if the converse proposition of a theorem is proved to be true, then the two are converse theorems of each other.
+
+## Information Technology Application 1
+
+(Information Technology Application: Exploring the Conditions for Triangle Congruence) On the basis that two sides are respectively equal, two triangles coincide and are congruent only when their included angle is also equal; if only an additional side is equal (SSA), congruence is not guaranteed. Similarly, two right triangles with two angles and their included side respectively equal, or with the hypotenuse and one leg respectively equal, can be determined congruent. This confirms SAS, ASA, SSS, AAS and HL as valid determination methods.
+
+## Exercise 1
+
+(Exercise 14.3, Problem 1) As shown, on line $MN$ construct a point $P$ such that point $P$ lies inside $\angle AOB$ and point $P$ is equidistant from rays $OA$ and $OB$.
+
+### Solution to Exercise 1
+
+By Determination of an Angle Bisector, points equidistant from $OA$, $OB$ lie on the bisector of $\angle AOB$. So first construct the bisector of $\angle AOB$ with straightedge and compass; its intersection with line $MN$ is the desired point $P$. $\blacksquare$
+
+## Exercise 2
+
+(Exercise 14.3, Problem 2) As shown, $OC$ is the bisector of $\angle AOB$, point $P$ lies on $OC$, $PD\perp OA$, $PE\perp OB$, with feet at $D$, $E$ respectively. Points $F$, $G$ lie on $OA$, $OB$ respectively, $DF=EG$; join $PF$, $PG$. Prove that $PF=PG$.
+
+### Solution to Exercise 2
+
+By Properties of an Angle Bisector, $PD=PE$. In $\text{Rt}\triangle PDF$ and $\text{Rt}\triangle PEG$, $\angle PDF=\angle PEG=90^\circ$, $DF=EG$, $PD=PE$; by SAS, $\triangle PDF\cong\triangle PEG$.
+
+By Basic Knowledge, the corresponding sides satisfy $PF=PG$. $\blacksquare$
+
+## Exercise 3
+
+(Exercise 14.3, Problem 1) As shown, $AB\perp CD$, $CE\perp AD$, with feet at $B$, $E$ respectively, $AB=CE$; $AB$ and $CE$ intersect at point $F$, and join $DF$. Prove that $FD$ bisects $\angle BFE$.
+
+### Solution to Exercise 3
+
+In $\triangle ABF$ and $\triangle CEF$, $\angle AFB=\angle CFE$ (vertical angles), $\angle ABF=\angle CEF=90^\circ$, $AB=CE$; by AAS, $\triangle ABF\cong\triangle CEF$, so $BF=EF$.
+
+In $\text{Rt}\triangle BDF$ and $\text{Rt}\triangle EDF$, $BF=EF$, and $DF$ is the common hypotenuse; by HL, $\text{Rt}\triangle BDF\cong\text{Rt}\triangle EDF$, so $DB=DE$.
+
+That is, point $D$ is equidistant from line $FB$ (on $AB$) and line $FE$ (on $CE$). By Determination of an Angle Bisector, point $D$ lies on the bisector of $\angle BFE$, so $FD$ bisects $\angle BFE$. $\blacksquare$
+
+## Exercise 4
+
+(Exercise 14.3, Problem 2) As shown, given $\triangle ABC$, $BF$ is the bisector of the exterior angle $\angle CBD$, $CG$ is the bisector of the exterior angle $\angle BCE$, and $BF$, $CG$ intersect at point $P$. Prove:
+
+(1) point $P$ is equidistant from the lines of the three sides $AB$, $BC$, $CA$;
+
+(2) point $P$ lies on the bisector of $\angle A$.
+
+### Solution to Exercise 4
+
+(1) Through point $P$ draw perpendiculars to the lines of the three sides. Since $BF$ bisects $\angle CBD$ and $P$ lies on $BF$, by Properties of an Angle Bisector, $P$ is equidistant from lines $AB$, $BC$. Similarly, since $CG$ bisects $\angle BCE$, $P$ is equidistant from lines $BC$, $CA$. Hence $P$ is equidistant from the lines of the three sides.
+
+(2) By (1), $P$ is equidistant from lines $AB$, $CA$. By Determination of an Angle Bisector, $P$ lies on the bisector of $\angle A$. $\blacksquare$
+
 ## Problem 1
+
+(Exercise 14.3, Review and Consolidation, Problem 1) As shown, in $\triangle ABC$, $AD$ is its angle bisector, and $BD=CD$, $DE\perp AB$, $DF\perp AC$, with feet at $E$, $F$ respectively. Prove that $EB=FC$.
+
+### Solution to Problem 1
+
+Since $AD$ is an angle bisector and by Properties of an Angle Bisector, $DE=DF$. In $\text{Rt}\triangle BDE$ and $\text{Rt}\triangle CDF$, the hypotenuses satisfy $BD=CD$, and the legs satisfy $DE=DF$; by HL, $\text{Rt}\triangle BDE\cong\text{Rt}\triangle CDF$.
+
+By Basic Knowledge, the corresponding legs satisfy $EB=FC$. $\blacksquare$
+
+## Problem 2
+
+(Exercise 14.3, Review and Consolidation, Problem 2) As shown, in $\triangle ABC$, $AB=AC$, $BD\perp AC$, $CE\perp AB$, with feet at $D$, $E$ respectively, and $BD$, $CE$ intersect at point $F$. Prove that $FA$ bisects $\angle DFE$.
+
+### Solution to Problem 2
+
+In $\triangle BCE$ and $\triangle CBD$, $\angle BEC=\angle CDB=90^\circ$, $\angle CBE=\angle BCD$ (from $AB=AC$), and $BC$ is a common side; by AAS, $\triangle BCE\cong\triangle CBD$, so $BE=CD$. From $AB=AC$, we get $AE=AD$.
+
+In $\text{Rt}\triangle AEF$ and $\text{Rt}\triangle ADF$, the hypotenuse $AF$ is common, and the legs satisfy $AE=AD$; by HL, $\text{Rt}\triangle AEF\cong\text{Rt}\triangle ADF$, so $\angle AFE=\angle AFD$.
+
+That is, $FA$ bisects $\angle DFE$. $\blacksquare$
+
+## Problem 3
 
 (Exercise 14.3, Review and Consolidation, Problem 3) As shown, $CD\perp AB$, $BE\perp AC$, with feet at $D$, $E$ respectively, and $BE$, $CD$ intersect at point $O$, $OB=OC$. Prove that $\angle 1=\angle 2$.
 
-### Solution to Problem 1
+### Solution to Problem 3
 
 In $\triangle BOD$ and $\triangle COE$, $\angle BDO=\angle CEO=90^\circ$, $\angle BOD=\angle COE$ (vertical angles), $OB=OC$; by AAS, $\triangle BOD\cong\triangle COE$, so $OD=OE$.
 
 That is, point $O$ is equidistant from lines $AB$, $AC$. By Determination of an Angle Bisector, point $O$ lies on the bisector of $\angle A$, so $\angle 1=\angle 2$. $\blacksquare$
 
-## Problem 2
+## Problem 4
 
 (Exercise 14.3, Review and Consolidation, Problem 4) As shown, in $\text{Rt}\triangle ABC$, $\angle C=90^\circ$, construct a point $P$ on side $AC$ such that $P$ is equidistant from side $BC$ and side $AB$.
 
-### Solution to Problem 2
+### Solution to Problem 4
 
 By Determination of an Angle Bisector, points equidistant from $BC$, $AB$ lie on the bisector of $\angle B$. So construct the bisector of $\angle B$; its intersection with side $AC$ is the desired point $P$. $\blacksquare$
 
-## Problem 3
+## Problem 5
 
 (Exercise 14.3, Comprehensive Application, Problem 5) As shown, in $\triangle ABC$, $AD$ is its angle bisector, $P$ is a point on $AD$, $PE\parallel AB$ meets $BC$ at point $E$, and $PF\parallel AC$ meets $BC$ at point $F$. Prove that point $D$ is equidistant from $PE$ and $PF$.
 
-### Solution to Problem 3
+### Solution to Problem 5
 
 From $PE\parallel AB$, we get $\angle EPD=\angle BAD$; from $PF\parallel AC$, we get $\angle DPF=\angle CAD$. Since $AD$ is an angle bisector, $\angle BAD=\angle CAD$, so $\angle EPD=\angle DPF$, i.e. $PD$ bisects $\angle EPF$.
 
 By Properties of an Angle Bisector, point $D$ lies on $PD$, so point $D$ is equidistant from $PE$ and $PF$. $\blacksquare$
 
-## Problem 4
+## Problem 6
 
 (Exercise 14.3, Comprehensive Application, Problem 6) As shown, $OC$ is the bisector of $\angle AOB$, $P$ is a point on $OC$, $PD\perp OA$, $PE\perp OB$, with feet at $D$, $E$ respectively. $F$ is another point on $OC$; join $DF$, $EF$. Prove that $DF=EF$.
 
-### Solution to Problem 4
+### Solution to Problem 6
 
 By Properties of an Angle Bisector, $PD=PE$. Since $OC$ bisects $\angle AOB$, $PD\perp OA$, $PE\perp OB$, we get $\angle DPF=\angle EPF$. In $\triangle DPF$ and $\triangle EPF$, $PD=PE$, $\angle DPF=\angle EPF$, and $PF$ is a common side; by SAS, $\triangle DPF\cong\triangle EPF$.
 
 By Basic Knowledge, the corresponding sides satisfy $DF=EF$. $\blacksquare$
 
-## Problem 5
+## Problem 7
 
 (Exercise 14.3, Extension and Exploration, Problem 7) As shown, $AD$ is the angle bisector of $\triangle ABC$, $DE\perp AB$, $DF\perp AC$, with feet at $E$, $F$ respectively; join $EF$, and let $EF$ intersect $AD$ at point $G$. Is $AD$ perpendicular to $EF$? Prove your conclusion.
 
-### Solution to Problem 5
+### Solution to Problem 7
 
 $AD\perp EF$. Proof: since $AD$ is an angle bisector and by Properties of an Angle Bisector, $DE=DF$. In $\text{Rt}\triangle ADE$ and $\text{Rt}\triangle ADF$, the hypotenuse $AD$ is common, and the legs satisfy $DE=DF$; by HL, $\text{Rt}\triangle ADE\cong\text{Rt}\triangle ADF$, so $AE=AF$.
 
 Thus $\triangle AEF$ is isosceles, and $AG$ is the bisector of the vertex angle $\angle EAF$; by the "three lines in one" property of an isosceles triangle, $AG\perp EF$, i.e. $AD\perp EF$. $\blacksquare$
 
-## Problem 6
+## Problem 8
 
 (Exercise 14.3, Extension and Exploration, Problem 8) As shown, $\angle B=\angle C=90^\circ$, $E$ is the midpoint of $BC$, and $DE$ bisects $\angle ADC$. Prove that $AE$ bisects $\angle DAB$. (Hint: through point $E$ draw $EF\perp AD$, with foot $F$.)
 
-### Solution to Problem 6
+### Solution to Problem 8
 
 Through $E$ draw $EF\perp AD$, with foot $F$. Since $DE$ bisects $\angle ADC$, $EC\perp DC$, $EF\perp AD$, by Properties of an Angle Bisector, $EC=EF$.
 
@@ -252,118 +406,12 @@ Since $D$, $D'$ are midpoints, $BD=\frac{1}{2}BC=\frac{1}{2}B'C'=B'D'$. In $\tri
 
 In $\triangle ABC$ and $\triangle A'B'C'$, $AB=A'B'$, $\angle B=\angle B'$, $BC=B'C'$; by SAS, $\triangle ABC\cong\triangle A'B'C'$. $\blacksquare$
 
-## Exercise 1
+## Exercise 5
 
 (Exercise 15.1, Problem 1) Is each figure shown an axisymmetric figure? If so, point out its axis of symmetry.
 
 The figure shows five diagrams arranged from left to right: (1) a butterfly facing the viewer with wings spread; (2) five small paper planes scattered irregularly across the picture; (3) a rectangular bridge-shaped road sign with a green background and white pattern; (4) a circular Tai Chi (yin-yang) symbol with two fish eyes; (5) a light blue square.
 
-### Solution to Exercise 1
-
-By Axisymmetric Figure, a figure that can be folded along a line so that its two parts coincide is an axisymmetric figure. If such a line exists in the given figure, it is an axisymmetric figure and that line is its axis of symmetry; if no such line exists, it is not an axisymmetric figure. $\blacksquare$
-
-## Exercise 2
-
-(Exercise 15.1, Problem 2) Are the two patterns in each figure shown symmetric about a line? If so, point out their axis of symmetry and find a pair of symmetric points.
-
-The figure shows three groups arranged from left to right: (1) an orange Chinese "double happiness" character; (2) two orange letters "F" placed side by side with exactly the same orientation; (3) two letters "F", the right one being the left one mirrored left-to-right.
-
-### Solution to Exercise 2
-
-By Symmetric About a Line, two patterns are symmetric about a line if folding them along a line makes them coincide. If such a line exists, it is the axis of symmetry, and the pair of points that coincide after folding are symmetric points. $\blacksquare$
-
-## Exercise 3
-
-(Exercise 15.1, Problem 3) As shown, segment $AB$ and $A'B'$ are symmetric about line $l$, $AA'$ meets line $l$ at point $O$, and join $BO$, $B'O$.
-
-(1) Which segments in the figure are equal? What is the perpendicular bisector of segment $AA'$?
-
-(2) How are $\triangle OAB$ and $\triangle OA'B'$ related about line $l$? Are they congruent? $\angle ABO=$? $\angle A'OB'=$?
-
-### Solution to Exercise 3
-
-By Properties of Axis Symmetry, the axis of symmetry $l$ perpendicularly bisects $AA'$, so $AO=A'O$.
-
-(1) The equal segments are $AO=A'O$, $AB=A'B'$, $BO=B'O$; line $l$ is the perpendicular bisector of segment $AA'$.
-
-(2) $\triangle OAB$ and $\triangle OA'B'$ are symmetric about line $l$, and $\triangle OAB\cong\triangle OA'B'$. By equal corresponding angles, $\angle ABO=\angle A'B'O$, $\angle A'OB'=\angle AOB$. $\blacksquare$
-
-## Exercise 4
-
-(Exercise 15.1, Problem 1) As shown, $AD\perp BC$, $BD=DC$, and point $C$ lies on the perpendicular bisector of $AE$. What is the relationship among the lengths of $AB$, $AC$, $CE$? What is the relationship between $AB+BD$ and $DE$?
-
-### Solution to Exercise 4
-
-Since $AD\perp BC$ and $BD=DC$, line $AD$ perpendicularly bisects $BC$. Point $A$ lies on $AD$; by Properties of the Perpendicular Bisector, $AB=AC$.
-
-Since point $C$ lies on the perpendicular bisector of $AE$, similarly by Basic Knowledge, $AC=CE$. Hence $AB=AC=CE$.
-
-Also $BD=DC$, so
-
-$$
-AB+BD=CE+DC=DE.
-$$
-
-$\blacksquare$
-
-## Exercise 5
-
-(Exercise 15.1, Problem 2) As shown, $AB=AC$, $MB=MC$. Is line $AM$ the perpendicular bisector of segment $BC$? Why?
-
 ### Solution to Exercise 5
 
-Yes. From $AB=AC$, point $A$ is equidistant from $B$, $C$; by Determination of the Perpendicular Bisector, point $A$ lies on the perpendicular bisector of $BC$. Similarly, from $MB=MC$, point $M$ also lies on the perpendicular bisector of $BC$.
-
-Two points determine a line, so line $AM$ is exactly the perpendicular bisector of segment $BC$. $\blacksquare$
-
-## Exercise 6
-
-(Exercise 15.1, Problem 3) Write the converse proposition of each of the following propositions, and determine whether these converse propositions hold.
-
-(1) If two lines are parallel, corresponding angles are equal;
-
-(2) if two real numbers are equal, then their absolute values are equal;
-
-(3) corresponding angles of congruent triangles are equal.
-
-### Solution to Exercise 6
-
-(1) Converse proposition: if corresponding angles are equal, then two lines are parallel. Holds.
-
-(2) Converse proposition: if the absolute values of two real numbers are equal, then the two real numbers are equal. Does not hold; for example, the absolute values of $5$ and $-5$ are equal but the numbers themselves are not.
-
-(3) Converse proposition: two triangles with corresponding angles equal are congruent. Does not hold; triangles with three respectively equal angles have the same shape but not necessarily the same size. $\blacksquare$
-
-## Exercise 7
-
-(Exercise 15.1, Problem 1) Draw one axis of symmetry of each of the following figures.
-
-### Solution to Exercise 7
-
-By Properties of Axis Symmetry, take any pair of symmetric points, draw the perpendicular bisector of the segment joining them, and it is an axis of symmetry of the figure. $\blacksquare$
-
-## Exercise 8
-
-(Exercise 15.1, Problem 3) Straightedge-and-compass construction: through a point on a given line, draw the perpendicular to that line.
-
-### Solution to Exercise 8
-
-On the line, on both sides of the point, take two points equidistant from it, then draw the perpendicular bisector of the segment joining these two points; it passes through the given point and is perpendicular to the given line, i.e. the desired perpendicular. $\blacksquare$
-
-## Problem 7
-
-(Exercise 15.1, Review and Consolidation, Problem 1) Are the following figures axisymmetric? If so, draw their axes of symmetry.
-
-### Solution to Problem 7
-
-By Axisymmetric Figure, a figure for which a line can be found such that folding makes its two parts coincide is an axisymmetric figure, and that line is its axis of symmetry. $\blacksquare$
-
-## Problem 8
-
-(Exercise 15.1, Review and Consolidation, Problem 2) Which triangles in the figure form an axisymmetric pair with the shaded triangle? If the $4$ triangles are regarded as a whole, is it an axisymmetric figure? How many axes of symmetry are there in total?
-
-The figure shows a rhombus (whose two diagonals perpendicularly bisect each other) divided into four triangles by its two diagonals; the two upper triangles are labeled $1$ and $2$ from left to right, the lower-right triangle is labeled $3$, and the lower-left triangle is shaded orange.
-
-### Solution to Problem 8
-
-By Symmetric About a Line, the shaded triangle forms an axisymmetric pair with triangles that coincide with it about some line. When the four triangles are regarded as a whole, if a line exists such that folding makes the whole coincide, then it is an axisymmetric figure, and the number of such lines is the number of axes of symmetry. $\blacksquare$
+By **Definition 15.1.1 (Axisymmetric Figure)**, a figure that can be folded along a line so that its two parts coincide is an axisymmetric figure. If such a line exists in the given figure, it is an axisymmetric figure and that line is its axis of symmetry; if no such line exists, it is not an axisymmetric figure. $\blacksquare$

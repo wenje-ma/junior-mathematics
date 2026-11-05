@@ -1,12 +1,50 @@
 # week71
 
+> **Definition 28.1.1 (Sine)**
+> 
+> In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the opposite side to the hypotenuse of the acute angle $A$ the sine of $\angle A$, denoted $\sin A$, i.e.
+
+> **Definition 28.1.2 (Cosine)**
+> 
+> In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the adjacent side to the hypotenuse of the acute angle $A$ the cosine of $\angle A$, denoted $\cos A$, i.e.
+
+> **Conclusion 28.1.2 (Trigonometric Function Values of Special Angles)**
+> 
+> $\sin 30^{\circ}=\frac{1}{2}$, $\cos 30^{\circ}=\frac{\sqrt{3}}{2}$, $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$; $\sin 45^{\circ}=\frac{\sqrt{2}}{2}$, $\cos 45^{\circ}=\frac{\sqrt{2}}{2}$, $\tan 45^{\circ}=1$; $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$, $\cos 60^{\circ}=\frac{1}{2}$, $\tan 60^{\circ}=\sqrt{3}$.
+
+> **Definition 28.1.3 (Tangent)**
+> 
+> In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the opposite side to the adjacent side of the acute angle $A$ the tangent of $\angle A$, denoted $\tan A$, i.e.
+
+> **Definition 28.2.1 (Solving a Right Triangle)**
+> 
+> In a right triangle, apart from the right angle, there are five elements in all, namely the three sides and the two acute angles. The process of finding the remaining unknown elements from the known elements of the right triangle is called solving a right triangle.
+
+> **Conclusion 28.2.1 (Relationships Among the Elements of a Right Triangle)**
+> 
+> $a^{2}+b^{2}=c^{2}$; $\angle A+\angle B=90^{\circ}$; $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$, $\tan A=\frac{a}{b}$.
+
+> **Conclusion 28.2.2 (Angle of Elevation and Angle of Depression)**
+> 
+> Among the angles formed by the line of sight and the horizontal line, the angle above the horizontal line is called the angle of elevation, and the angle below the horizontal line is called the angle of depression.
+
 ## Problem 1
+
+(Problem 28.2, Comprehensive Application, Problem 7) As shown in the figure, the base of a pyramid is a square of side $130\ \text{m}$, and each lateral face makes an angle of $65^{\circ}$ with the base. How high was this pyramid originally (round to an integer)?
+
+### Solution to Problem 1
+
+The square base of the pyramid has side $130\ \text{m}$, and the lateral faces make an angle of $65^{\circ}$ with the base. The height $h$ and the distance $d=\frac{130}{2}=65\ \text{m}$ from the center of the base to a side form a right triangle, with the dihedral angle between the lateral face and the base being $65^{\circ}$.
+
+By **Definition 28.1.3 (Tangent)**, $\tan 65^{\circ}=\frac{h}{65}$, so $h=65\times\tan 65^{\circ}\approx 65\times 2.1445\approx 139\ \text{m}$. $\blacksquare$
+
+## Problem 2
 
 (Problem 28.2, Comprehensive Application, Problem 8) As shown in the figure, a launch vehicle is launched from point $L$ on the ground. When the rocket reaches point $A$, the distance $AR$ measured from a radar station at point $R$ on the ground is $6\ \text{km}$, with an angle of elevation of $43^{\circ}$; $1\ \text{s}$ later the rocket reaches point $B$, at which time the measured angle of elevation is $45.54^{\circ}$. What is the average speed of this rocket from $A$ to $B$ (round to two decimal places)?
 
 The figure shows a rocket launch diagram: the rocket launches vertically upward from ground point $L$, and the radar station is at ground point $R$, with $LR$ being the horizontal distance; when the rocket reaches point $A$, $AR=6\ \text{km}$ and angle of elevation $\angle ARL=43^\circ$; $1\ \text{s}$ later at point $B$, the angle of elevation is $\angle BRL=45.54^\circ$, and $A,B,L$ lie on the same vertical line.
 
-### Solution to Problem 1
+### Solution to Problem 2
 
 Let the horizontal distance $LR$ be $d$. In $\text{Rt}\triangle ALR$, $AR=6\ \text{km}$, $\angle ARL=43^{\circ}$.
 
@@ -20,21 +58,21 @@ $AB=BL-AL\approx 4.475-4.092=0.383\ \text{km}=383\ \text{m}$.
 
 The average speed $=\frac{383}{1}=383.00\ \text{m/s}$. $\blacksquare$
 
-## Problem 2
+## Problem 3
 
 (Problem 28.2, Comprehensive Application, Problem 9) As shown in the figure, to facilitate pedestrians crossing the road, an overpass $5\ \text{m}$ high is to be built. Given that the slope grade of the overpass is $1:1.5$, calculate the length of the slope $AB$ (round to an integer).
 
-### Solution to Problem 2
+### Solution to Problem 3
 
 The grade $i=1:1.5$, i.e. the ratio of vertical height to horizontal width is $1:1.5$. The vertical height is $5\ \text{m}$, so the horizontal width $=5\times 1.5=7.5\ \text{m}$.
 
 By the Pythagorean theorem, the slope length is $AB=\sqrt{5^{2}+7.5^{2}}=\sqrt{25+56.25}=\sqrt{81.25}\approx 9\ \text{m}$. $\blacksquare$
 
-## Problem 3
+## Problem 4
 
 (Problem 28.2, Extension and Exploration, Problem 10) There is a small island $P$ in the sea, and within a circular sea area centered at $P$ with radius $16\sqrt{2}\ \text{n mile}$ there are reefs. A ship sails from west to east; at point $A$ the island $P$ is measured to be in the direction $60^{\circ}$ east of north, and $AP=32\ \text{n mile}$. If the ship continues due east, is there a danger of striking a reef? If there is danger, at how many degrees east of south should the ship sail from point $A$ to safely pass through this sea area?
 
-### Solution to Problem 3
+### Solution to Problem 4
 
 Draw $PH\perp$ the course (due east) through $P$ at $H$. At point $A$, $P$ is $60^{\circ}$ east of north, i.e. the angle between $AP$ and due east is $30^{\circ}$.
 
@@ -48,13 +86,13 @@ Setting $d=16\sqrt{2}$, i.e. $32\sin\left(30^{\circ}-\varphi\right)=16\sqrt{2}$,
 
 Actually, the critical course from $A$ that avoids the reef circle is a tangent to the circle. The angle between the tangent and $AP$ satisfies $\sin\psi=\frac{16\sqrt{2}}{32}=\frac{\sqrt{2}}{2}$, so $\psi=45^{\circ}$. The original direction was $60^{\circ}$ east of north (i.e. $30^{\circ}$ north of due east); it must be deflected $45^{\circ}-30^{\circ}=15^{\circ}$ toward the south, i.e. sailing in the direction $45^{\circ}$ east of south passes safely. $\blacksquare$
 
-## Problem 4
+## Problem 5
 
 (Problem 28.2, Extension and Exploration, Problem 11) Based on the positions of the triangular region marked in the figure, calculate the area of the triangular region (round to an integer). In the figure: triangle $ABC$, $AC=1700\ \text{m}$; at $A$, $C$ is measured to be in the direction $62^{\circ}$ east of north; $BC=2720\ \text{m}$; at $B$, $C$ is measured to be in the direction $54^{\circ}$ west of north.
 
 The figure shows a position diagram of triangular region $ABC$: $AC=1700\ \text{m}$, and from $A$, $C$ is observed in the direction $62^\circ$ east of north; $BC=2720\ \text{m}$, and from $B$, $C$ is observed in the direction $54^\circ$ west of north; a north-direction marker is included in the figure.
 
-### Solution to Problem 4
+### Solution to Problem 5
 
 Set up a coordinate system with $A$ as the origin, east as the positive $x$-axis and north as the positive $y$-axis.
 
@@ -110,7 +148,7 @@ A hillside is \"curved\" and cannot be simply reduced to a single right triangle
 
 The clinometer uses a plumb line to indicate the vertical direction; when the protractor's diameter is aimed at the top of the tree, the reading pointed to by the plumb line is the angle of elevation $\alpha$.
 
-Let the horizontal distance from the observer to the base of the tree be $d$, and the height of the clinometer (line of sight) above the ground be $h_{0}$. The part of the tree above the line of sight is $h'$; in the right triangle, by Tangent, $\tan\alpha=\frac{h'}{d}$, so $h'=d\tan\alpha$.
+Let the horizontal distance from the observer to the base of the tree be $d$, and the height of the clinometer (line of sight) above the ground be $h_{0}$. The part of the tree above the line of sight is $h'$; in the right triangle, by **Definition 28.1.3 (Tangent)**, $\tan\alpha=\frac{h'}{d}$, so $h'=d\tan\alpha$.
 
 The total height of the tree is
 
@@ -154,7 +192,7 @@ The actual height of the tower is $H+h_{0}$. $\blacksquare$
 
 By the Pythagorean theorem, $b=\sqrt{c^{2}-a^{2}}=\sqrt{36-4}=\sqrt{32}=4\sqrt{2}$.
 
-By Basic Knowledge, Basic Knowledge, and Basic Knowledge:
+By **Definition 28.1.1 (Sine)**, **Definition 28.1.2 (Cosine)**, and **Definition 28.1.3 (Tangent)**:
 
 $$\sin A=\frac{a}{c}=\frac{2}{6}=\frac{1}{3},\quad \cos A=\frac{b}{c}=\frac{4\sqrt{2}}{6}=\frac{2\sqrt{2}}{3},\quad \tan A=\frac{a}{b}=\frac{2}{4\sqrt{2}}=\frac{\sqrt{2}}{4}.\ \blacksquare$$
 
@@ -164,7 +202,7 @@ $$\sin A=\frac{a}{c}=\frac{2}{6}=\frac{1}{3},\quad \cos A=\frac{b}{c}=\frac{4\sq
 
 ### Solution to Review Problem 2
 
-By Cosine, $\cos A=\frac{AC}{AB}=\frac{\sqrt{3}}{2}$, so $AB=\frac{AC}{\cos A}=\frac{4\sqrt{3}}{\sqrt{3}/2}=8$.
+By **Definition 28.1.2 (Cosine)**, $\cos A=\frac{AC}{AB}=\frac{\sqrt{3}}{2}$, so $AB=\frac{AC}{\cos A}=\frac{4\sqrt{3}}{\sqrt{3}/2}=8$.
 
 By the Pythagorean theorem, $BC=\sqrt{AB^{2}-AC^{2}}=\sqrt{64-48}=\sqrt{16}=4$. $\blacksquare$
 
@@ -252,7 +290,7 @@ The perimeter $=2l+$ the base $=2\times 2\sqrt{3}+6=4\sqrt{3}+6$. $\blacksquare$
 
 In the right triangle, the lighthouse height $42\ \text{m}$ is the opposite side, the angle of elevation is $33^{\circ}$, and the horizontal distance from the ship to the shore is the adjacent side.
 
-By Tangent, $\tan 33^{\circ}=\frac{42}{d}$, so $d=\frac{42}{\tan 33^{\circ}}\approx\frac{42}{0.6494}\approx 65\ \text{m}$. $\blacksquare$
+By **Definition 28.1.3 (Tangent)**, $\tan 33^{\circ}=\frac{42}{d}$, so $d=\frac{42}{\tan 33^{\circ}}\approx\frac{42}{0.6494}\approx 65\ \text{m}$. $\blacksquare$
 
 ## Review Problem 8
 
@@ -316,11 +354,11 @@ The figure shows a ladder leaning against a vertical wall, with its foot on the 
 
 ### Solution to Review Problem 10
 
-(1) The maximum climb height corresponds to the maximum angle $\alpha=75^{\circ}$. By Sine,
+(1) The maximum climb height corresponds to the maximum angle $\alpha=75^{\circ}$. By **Definition 28.1.1 (Sine)**,
 
 $$h=6\sin 75^{\circ}\approx 6\times 0.9659\approx 5.8\ \text{m}.$$
 
-(2) The foot of the ladder is $2.4\ \text{m}$ from the wall, i.e. the adjacent side $=2.4$ and the hypotenuse $=6$. By Cosine,
+(2) The foot of the ladder is $2.4\ \text{m}$ from the wall, i.e. the adjacent side $=2.4$ and the hypotenuse $=6$. By **Definition 28.1.2 (Cosine)**,
 
 $$\cos\alpha=\frac{2.4}{6}=0.4,\quad \alpha\approx 66.42^{\circ}\approx 66^{\circ}.$$
 
@@ -362,6 +400,6 @@ The rectangle perimeter $=2\left(8+10\right)=36\ \text{cm}$. $\blacksquare$
 
 ### Solution to Review Problem 12
 
-Yes. Draw $AE\perp BC$ through $A$ at $E$. In $\text{Rt}\triangle ABE$, by Sine, $AE=AB\cdot\sin B$.
+Yes. Draw $AE\perp BC$ through $A$ at $E$. In $\text{Rt}\triangle ABE$, by **Definition 28.1.1 (Sine)**, $AE=AB\cdot\sin B$.
 
 The parallelogram area is $S=BC\cdot AE=AB\cdot BC\cdot\sin B$. $\blacksquare$

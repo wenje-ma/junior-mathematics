@@ -1,5 +1,61 @@
 # week72
 
+> **Definition 28.1.1 (Sine)**
+> 
+> In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the opposite side to the hypotenuse of the acute angle $A$ the sine of $\angle A$, denoted $\sin A$, i.e.
+
+> **Definition 28.1.2 (Cosine)**
+> 
+> In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the adjacent side to the hypotenuse of the acute angle $A$ the cosine of $\angle A$, denoted $\cos A$, i.e.
+
+> **Conclusion 28.1.2 (Trigonometric Function Values of Special Angles)**
+> 
+> $\sin 30^{\circ}=\frac{1}{2}$, $\cos 30^{\circ}=\frac{\sqrt{3}}{2}$, $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$; $\sin 45^{\circ}=\frac{\sqrt{2}}{2}$, $\cos 45^{\circ}=\frac{\sqrt{2}}{2}$, $\tan 45^{\circ}=1$; $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$, $\cos 60^{\circ}=\frac{1}{2}$, $\tan 60^{\circ}=\sqrt{3}$.
+
+> **Definition 28.1.3 (Tangent)**
+> 
+> In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the opposite side to the adjacent side of the acute angle $A$ the tangent of $\angle A$, denoted $\tan A$, i.e.
+
+> **Conclusion 28.2.1 (Relationships Among the Elements of a Right Triangle)**
+> 
+> $a^{2}+b^{2}=c^{2}$; $\angle A+\angle B=90^{\circ}$; $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$, $\tan A=\frac{a}{b}$.
+
+> **Definition 29.1.1 (Projection)**
+> 
+> The shadow obtained by shining light on an object and projecting it onto a certain plane (the ground, a wall, etc.) is called the projection of the object; the shining light rays are called projection lines, and the plane on which the projection lies is called the projection plane.
+
+> **Conclusion 29.1.1 (Orthogonal Projection Rule for a Line Segment)**
+> 
+> When a line segment is parallel to the projection plane, its orthogonal projection is a segment of the same length; when it is inclined to the projection plane, its orthogonal projection is a shortened segment; when it is perpendicular to the projection plane, its orthogonal projection is a single point.
+
+> **Definition 29.1.2 (Parallel Projection)**
+> 
+> The projection formed by parallel light rays is called parallel projection. For example, the shadow (a solar shadow) formed when an object is illuminated by sunlight is parallel projection.
+
+> **Conclusion 29.1.2 (Orthogonal Projection Rule for a Plane Figure)**
+> 
+> When a plane figure is parallel to the projection plane, its orthogonal projection is exactly the same in shape and size as the original figure; when it is inclined, its orthogonal projection is not exactly the same as the original figure; when it is perpendicular, its orthogonal projection becomes a line segment.
+
+> **Definition 29.1.3 (Central Projection)**
+> 
+> The projection formed by light rays emitted from a single point (a point light source) is called central projection. For example, the shadow formed when an object is illuminated by the light emitted from a light bulb.
+
+> **Definition 29.1.4 (Orthogonal Projection)**
+> 
+> The projection produced when the projection lines are perpendicular to the projection plane is called orthogonal projection.
+
+> **Definition 29.2.1 (View)**
+> 
+> When we observe an object from a certain direction, the plane figure we see is called a view of the object. A view can be regarded as the orthogonal projection of the object under light from a certain direction.
+
+> **Conclusion 29.2.1 (Projection Rules for the Three Views)**
+> 
+> Length aligned, height level, width equal. Visible outlines are drawn as solid lines, and invisible outlines as dashed lines.
+
+> **Definition 29.2.2 (Front View, Top View, Left View)**
+> 
+> The view obtained in the front plane by observing from front to back is called the front view; the view obtained in the horizontal plane by observing from top to bottom is called the top view; the view obtained in the side plane by observing from left to right is called the left view.
+
 ## Review Problem 1
 
 (Review Problem, Extension and Exploration, Problem 13) It is known that the radius of a circle is $R$.
@@ -40,7 +96,7 @@ $$\frac{a}{\sin A}=\frac{b}{\sin B}=\frac{c}{\sin C}.\ \blacksquare$$
 
 ### Solution to Exercise 1
 
-By Projection and Orthogonal Projection Rule for a Plane Figure: when the set square is parallel to the projection plane, its orthogonal projection is a triangle; when the wooden stick is parallel to the projection plane, its orthogonal projection is an equal-length segment, and when perpendicular it is a point; the orthogonal projection of the teacup (a cylinder) from top to bottom is a circle, and from the side it is a rectangle. Just connect them according to the correspondence of shapes. $\blacksquare$
+By **Definition 29.1.1 (Projection)** and Orthogonal Projection Rule for a Plane Figure: when the set square is parallel to the projection plane, its orthogonal projection is a triangle; when the wooden stick is parallel to the projection plane, its orthogonal projection is an equal-length segment, and when perpendicular it is a point; the orthogonal projection of the teacup (a cylinder) from top to bottom is a circle, and from the side it is a rectangle. Just connect them according to the correspondence of shapes. $\blacksquare$
 
 ## Exercise 2
 
@@ -62,7 +118,7 @@ By Basic Knowledge and Basic Knowledge:
 
 ### Solution to Problem 1
 
-By Parallel Projection, the sun's rays are parallel light rays. In Beijing, in the morning the sun is in the southeast and shadows fall toward the northwest; in the afternoon the sun is in the southwest and shadows fall toward the northeast. When facing due south to take the photo, in the afternoon the object's shadow falls toward the left side of the frame, slightly toward the east. Thus the photo in which the shadow falls toward the northeast (the left-front of the frame) was taken in the afternoon. $\blacksquare$
+By **Definition 29.1.2 (Parallel Projection)**, the sun's rays are parallel light rays. In Beijing, in the morning the sun is in the southeast and shadows fall toward the northwest; in the afternoon the sun is in the southwest and shadows fall toward the northeast. When facing due south to take the photo, in the afternoon the object's shadow falls toward the left side of the frame, slightly toward the east. Thus the photo in which the shadow falls toward the northeast (the left-front of the frame) was taken in the afternoon. $\blacksquare$
 
 ## Problem 2
 
@@ -70,7 +126,7 @@ By Parallel Projection, the sun's rays are parallel light rays. In Beijing, in t
 
 ### Solution to Problem 2
 
-By Projection and the orthogonal projection rules, connect according to the correspondence between the object's shape and the projection outline: the orthogonal projection of a rectangular box is a rectangle; the orthogonal projection of a cone (from the front) is an isosceles triangle and (from above) a circle with a center; the orthogonal projection of a sphere is always a circle. $\blacksquare$
+By **Definition 29.1.1 (Projection)** and the orthogonal projection rules, connect according to the correspondence between the object's shape and the projection outline: the orthogonal projection of a rectangular box is a rectangle; the orthogonal projection of a cone (from the front) is an isosceles triangle and (from above) a circle with a center; the orthogonal projection of a sphere is always a circle. $\blacksquare$
 
 ## Problem 3
 
@@ -150,7 +206,7 @@ By Projection Rules for the Three Views, the three views of the three solids are
 
 ### Solution to Exercise 4
 
-Comprehensive judgment by Front View, Top View, Left View:
+Comprehensive judgment by **Definition 29.2.2 (Front View, Top View, Left View)**:
 
 (1) Both the front view and the left view are rectangles, and the top view is a circle; the object is a cylinder.
 
@@ -196,7 +252,7 @@ The total surface area $=48000\pi+36000\pi=84000\pi\approx 263894\ \text{cm}^{2}
 
 ### Solution to Problem 6
 
-By Basic Knowledge and Basic Knowledge: the three views of a rectangular box are all rectangles; the front and left views of a cylinder are rectangles and its top view is a circle; the front view of a regular pentagonal prism is a combination of rectangles and its top view is a regular pentagon. Connect them according to this correspondence. $\blacksquare$
+By **Definition 29.2.2 (Front View, Top View, Left View)** and Basic Knowledge: the three views of a rectangular box are all rectangles; the front and left views of a cylinder are rectangles and its top view is a circle; the front view of a regular pentagonal prism is a combination of rectangles and its top view is a regular pentagon. Connect them according to this correspondence. $\blacksquare$
 
 ## Problem 7
 
@@ -380,7 +436,7 @@ $$V=\frac{1}{3}\pi r^{2}h=\frac{1}{3}\pi\times 25\times 12=100\pi.\ \blacksquare
 
 ### Solution to Activity 1
 
-By Basic Knowledge and Basic Knowledge, observe the object from the three directions of the front, the top, and the left, and draw the front view, top view, and left view, taking care that the three views are length-aligned, height-level, and width-equal. If a classmate cannot state the object's shape from the views, it means the views are not expressed clearly enough and the drawing needs improvement. $\blacksquare$
+By **Definition 29.2.2 (Front View, Top View, Left View)** and Basic Knowledge, observe the object from the three directions of the front, the top, and the left, and draw the front view, top view, and left view, taking care that the three views are length-aligned, height-level, and width-equal. If a classmate cannot state the object's shape from the views, it means the views are not expressed clearly enough and the drawing needs improvement. $\blacksquare$
 
 ## Activity 2
 
@@ -410,7 +466,7 @@ A pen holder is usually cylindrical or prismatic. When designing, first determin
 
 ### Solution to Review Problem 3
 
-By Basic Knowledge and Basic Knowledge, judge comprehensively from the shapes of the front view, top view, and left view: all three views being rectangles corresponds to a rectangular box; the front and left views being rectangles and the top view a circle corresponds to a cylinder; the front and left views being triangles and the top view a circle with a center corresponds to a cone; all three views being circles corresponds to a sphere. $\blacksquare$
+By **Definition 29.2.2 (Front View, Top View, Left View)** and Basic Knowledge, judge comprehensively from the shapes of the front view, top view, and left view: all three views being rectangles corresponds to a rectangular box; the front and left views being rectangles and the top view a circle corresponds to a cylinder; the front and left views being triangles and the top view a circle with a center corresponds to a cone; all three views being circles corresponds to a sphere. $\blacksquare$
 
 ## Review Problem 4
 

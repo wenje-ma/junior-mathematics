@@ -1,5 +1,37 @@
 # week70
 
+> **Definition 28.1.1 (Sine)**
+> 
+> In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the opposite side to the hypotenuse of the acute angle $A$ the sine of $\angle A$, denoted $\sin A$, i.e.
+
+> **Conclusion 28.1.1 (Determinacy of Acute Angle Trigonometric Function Values)**
+> 
+> In $\text{Rt}\triangle ABC$, when the measure of the acute angle $A$ is fixed, regardless of the size of the right triangle, the ratio of the opposite side to the hypotenuse, the ratio of the adjacent side to the hypotenuse, and the ratio of the opposite side to the adjacent side of $\angle A$ are all fixed values.
+
+> **Definition 28.1.2 (Cosine)**
+> 
+> In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the adjacent side to the hypotenuse of the acute angle $A$ the cosine of $\angle A$, denoted $\cos A$, i.e.
+
+> **Conclusion 28.1.2 (Trigonometric Function Values of Special Angles)**
+> 
+> $\sin 30^{\circ}=\frac{1}{2}$, $\cos 30^{\circ}=\frac{\sqrt{3}}{2}$, $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$; $\sin 45^{\circ}=\frac{\sqrt{2}}{2}$, $\cos 45^{\circ}=\frac{\sqrt{2}}{2}$, $\tan 45^{\circ}=1$; $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$, $\cos 60^{\circ}=\frac{1}{2}$, $\tan 60^{\circ}=\sqrt{3}$.
+
+> **Definition 28.1.3 (Tangent)**
+> 
+> In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the opposite side to the adjacent side of the acute angle $A$ the tangent of $\angle A$, denoted $\tan A$, i.e.
+
+> **Definition 28.2.1 (Solving a Right Triangle)**
+> 
+> In a right triangle, apart from the right angle, there are five elements in all, namely the three sides and the two acute angles. The process of finding the remaining unknown elements from the known elements of the right triangle is called solving a right triangle.
+
+> **Conclusion 28.2.1 (Relationships Among the Elements of a Right Triangle)**
+> 
+> $a^{2}+b^{2}=c^{2}$; $\angle A+\angle B=90^{\circ}$; $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$, $\tan A=\frac{a}{b}$.
+
+> **Conclusion 28.2.2 (Angle of Elevation and Angle of Depression)**
+> 
+> Among the angles formed by the line of sight and the horizontal line, the angle above the horizontal line is called the angle of elevation, and the angle below the horizontal line is called the angle of depression.
+
 ## Problem 1
 
 (Problem 28.1, Review and Consolidation, Problem 5) Given the following acute angle trigonometric function values, use a calculator to find the measures of acute angles $A$ and $B$:
@@ -36,7 +68,7 @@ The figure shows right triangle $ABC$ with $\angle ACB=90^\circ$, and $CD$ is th
 
 ### Solution to Problem 2
 
-By Sine, in $\text{Rt}\triangle ABC$, $\sin A=\frac{CB}{AB}$, so (C) equals $\sin A$.
+By **Definition 28.1.1 (Sine)**, in $\text{Rt}\triangle ABC$, $\sin A=\frac{CB}{AB}$, so (C) equals $\sin A$.
 
 In $\text{Rt}\triangle ACD$, $\angle ADC=90^{\circ}$, $\sin A=\frac{CD}{AC}$, so (A) equals $\sin A$.
 
@@ -54,11 +86,11 @@ The figure shows an A-frame (isosceles triangle) steel frame $ABC$, with middle 
 
 The steel frame is the isosceles triangle $ABC$, with $CD$ as the center post, $CD\perp AB$, $CD=3.5\ \text{m}$, $\angle A=\angle B=32^{\circ}$, $AD=DB$.
 
-In $\text{Rt}\triangle ACD$, by Sine,
+In $\text{Rt}\triangle ACD$, by **Definition 28.1.1 (Sine)**,
 
 $$\sin A=\frac{CD}{AC}\implies AC=\frac{CD}{\sin 32^{\circ}}=\frac{3.5}{\sin 32^{\circ}}\approx\frac{3.5}{0.5299}\approx 6.605\ \text{m}.$$
 
-By Tangent,
+By **Definition 28.1.3 (Tangent)**,
 
 $$\tan A=\frac{CD}{AD}\implies AD=\frac{CD}{\tan 32^{\circ}}=\frac{3.5}{\tan 32^{\circ}}\approx\frac{3.5}{0.6249}\approx 5.601\ \text{m}.$$
 
@@ -74,7 +106,7 @@ The figure shows parallelogram board $ABCD$ with adjacent sides $AB=62.31\ \text
 
 In parallelogram $ABCD$, $AB=62.31\ \text{cm}$, $AD=35.24\ \text{cm}$, $\angle A=35^{\circ}40'$.
 
-Draw $DE\perp AB$ through $D$, with foot $E$. In $\text{Rt}\triangle ADE$, by Sine,
+Draw $DE\perp AB$ through $D$, with foot $E$. In $\text{Rt}\triangle ADE$, by **Definition 28.1.1 (Sine)**,
 
 $$DE=AD\cdot\sin A=35.24\times\sin 35^{\circ}40'.$$
 
@@ -98,7 +130,7 @@ As the measure of the acute angle $A$ continuously increases, what is the trend 
 
 Using a calculator: $\sin 15^{\circ}\approx 0.259$, $\sin 18^{\circ}\approx 0.309$, $\sin 20^{\circ}\approx 0.342$, $\sin 22^{\circ}\approx 0.375$, $\sin 80^{\circ}\approx 0.985$, $\sin 82^{\circ}\approx 0.990$, $\sin 84^{\circ}\approx 0.995$; $\cos 15^{\circ}\approx 0.966$, $\cos 18^{\circ}\approx 0.951$, $\cos 20^{\circ}\approx 0.940$, $\cos 22^{\circ}\approx 0.927$, $\cos 80^{\circ}\approx 0.174$, $\cos 82^{\circ}\approx 0.139$, $\cos 84^{\circ}\approx 0.105$; $\tan 15^{\circ}\approx 0.268$, $\tan 18^{\circ}\approx 0.325$, $\tan 20^{\circ}\approx 0.364$, $\tan 22^{\circ}\approx 0.404$, $\tan 80^{\circ}\approx 5.671$, $\tan 82^{\circ}\approx 7.115$, $\tan 84^{\circ}\approx 9.514$.
 
-By Basic Knowledge, Basic Knowledge, and Basic Knowledge, within the range of acute angles, as the angle increases, the opposite side $a$ relatively increases and the adjacent side $b$ relatively decreases; hence $\sin A$ increases as the angle increases, $\cos A$ decreases as the angle increases, and $\tan A$ increases as the angle increases. $\blacksquare$
+By **Definition 28.1.1 (Sine)**, **Definition 28.1.2 (Cosine)**, and **Definition 28.1.3 (Tangent)**, within the range of acute angles, as the angle increases, the opposite side $a$ relatively increases and the adjacent side $b$ relatively decreases; hence $\sin A$ increases as the angle increases, $\cos A$ decreases as the angle increases, and $\tan A$ increases as the angle increases. $\blacksquare$
 
 ## Problem 6
 
@@ -106,7 +138,7 @@ By Basic Knowledge, Basic Knowledge, and Basic Knowledge, within the range of ac
 
 ### Solution to Problem 6
 
-By Sine and Cosine, $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$.
+By **Definition 28.1.1 (Sine)** and **Definition 28.1.2 (Cosine)**, $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$.
 
 By the Pythagorean theorem $a^{2}+b^{2}=c^{2}$, so
 
@@ -124,7 +156,7 @@ Thus $\sin^{2}A+\cos^{2}A=1$, and $\tan A=\frac{\sin A}{\cos A}$. $\blacksquare$
 
 Let the center be $O$, the chord be $AB$, and the central angle $\angle AOB=\theta$. Draw $OC\perp AB$ at $C$; then $C$ is the midpoint of $AB$, and $\angle AOC=\frac{\theta}{2}$.
 
-In $\text{Rt}\triangle AOC$, by Sine,
+In $\text{Rt}\triangle AOC$, by **Definition 28.1.1 (Sine)**,
 
 $$\sin\frac{\theta}{2}=\frac{AC}{OA}=\frac{l/2}{r}.$$
 
@@ -164,7 +196,7 @@ The figure shows a vertical building $BC$ with flagpole $AB$ on top; point $D$ o
 
 ### Solution to Exercise 2
 
-Let the horizontal distance from $D$ to the building be $DC=40\ \text{m}$. In $\text{Rt}\triangle BDC$, $\angle BDC=45^{\circ}$; by Tangent,
+Let the horizontal distance from $D$ to the building be $DC=40\ \text{m}$. In $\text{Rt}\triangle BDC$, $\angle BDC=45^{\circ}$; by **Definition 28.1.3 (Tangent)**,
 
 $$BC=DC\cdot\tan 45^{\circ}=40\times 1=40\ \text{m}.$$
 
@@ -184,7 +216,7 @@ Since $A$, $C$, $E$ are collinear and $\angle ABD=140^{\circ}$, $\angle DBE=180^
 
 In $\triangle BDE$, $\angle DBE=40^{\circ}$, $\angle BDE=50^{\circ}$, so $\angle BED=180^{\circ}-40^{\circ}-50^{\circ}=90^{\circ}$; i.e. $\triangle BDE$ is a right triangle with $\angle E=90^{\circ}$.
 
-In $\text{Rt}\triangle BDE$, by Sine,
+In $\text{Rt}\triangle BDE$, by **Definition 28.1.1 (Sine)**,
 
 $$\sin\angle DBE=\frac{DE}{BD}\implies DE=BD\cdot\sin 40^{\circ}\approx 520\times 0.6428\approx 334.3\ \text{m}.$$
 
@@ -254,9 +286,9 @@ Solve by Basic Knowledge.
 
 In the isosceles triangle $ABC$, $AD\perp BC$, and $D$ is the midpoint of $BC$, so $BD=\frac{BC}{2}=5\ \text{m}$.
 
-In $\text{Rt}\triangle ABD$, by Tangent, $AD=BD\cdot\tan 36^{\circ}\approx 5\times 0.7265\approx 3.6\ \text{m}$.
+In $\text{Rt}\triangle ABD$, by **Definition 28.1.3 (Tangent)**, $AD=BD\cdot\tan 36^{\circ}\approx 5\times 0.7265\approx 3.6\ \text{m}$.
 
-By Cosine, $\cos B=\frac{BD}{AB}$, so $AB=\frac{BD}{\cos 36^{\circ}}\approx\frac{5}{0.8090}\approx 6.2\ \text{m}$. $\blacksquare$
+By **Definition 28.1.2 (Cosine)**, $\cos B=\frac{BD}{AB}$, so $AB=\frac{BD}{\cos 36^{\circ}}\approx\frac{5}{0.8090}\approx 6.2\ \text{m}$. $\blacksquare$
 
 ## Problem 9
 
@@ -266,7 +298,7 @@ By Cosine, $\cos B=\frac{BD}{AB}$, so $AB=\frac{BD}{\cos 36^{\circ}}\approx\frac
 
 In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, $AC=1200\ \text{m}$, angle of depression $\alpha=16^{\circ}31'\approx 16.52^{\circ}$. By the equality of alternate interior angles, $\angle ABC=\alpha$.
 
-By Sine, $\sin\alpha=\frac{AC}{AB}$, so $AB=\frac{AC}{\sin\alpha}=\frac{1200}{\sin 16.52^{\circ}}\approx\frac{1200}{0.2843}\approx 4221\ \text{m}$. $\blacksquare$
+By **Definition 28.1.1 (Sine)**, $\sin\alpha=\frac{AC}{AB}$, so $AB=\frac{AC}{\sin\alpha}=\frac{1200}{\sin 16.52^{\circ}}\approx\frac{1200}{0.2843}\approx 4221\ \text{m}$. $\blacksquare$
 
 ## Problem 10
 
@@ -276,7 +308,7 @@ By Sine, $\sin\alpha=\frac{AC}{AB}$, so $AB=\frac{AC}{\sin\alpha}=\frac{1200}{\s
 
 In the right triangle, the lighthouse height $55\ \text{m}$ is the opposite side, the angle of depression is $21^{\circ}$, and the straight-line distance from the boat to the lighthouse is the hypotenuse.
 
-By Sine, $\sin 21^{\circ}=\frac{55}{d}$, so $d=\frac{55}{\sin 21^{\circ}}\approx\frac{55}{0.3584}\approx 153\ \text{m}$. $\blacksquare$
+By **Definition 28.1.1 (Sine)**, $\sin 21^{\circ}=\frac{55}{d}$, so $d=\frac{55}{\sin 21^{\circ}}\approx\frac{55}{0.3584}\approx 153\ \text{m}$. $\blacksquare$
 
 ## Problem 11
 
@@ -286,7 +318,7 @@ By Sine, $\sin 21^{\circ}=\frac{55}{d}$, so $d=\frac{55}{\sin 21^{\circ}}\approx
 
 The horizontal distance $5.5\ \text{m}$ is the adjacent side, the slope distance is the hypotenuse, and the slope angle is $24^{\circ}$.
 
-By Cosine, $\cos 24^{\circ}=\frac{5.5}{d}$, so $d=\frac{5.5}{\cos 24^{\circ}}\approx\frac{5.5}{0.9135}\approx 6.0\ \text{m}$. $\blacksquare$
+By **Definition 28.1.2 (Cosine)**, $\cos 24^{\circ}=\frac{5.5}{d}$, so $d=\frac{5.5}{\cos 24^{\circ}}\approx\frac{5.5}{0.9135}\approx 6.0\ \text{m}$. $\blacksquare$
 
 ## Problem 12
 
@@ -307,13 +339,3 @@ By Relationships Among the Elements of a Right Triangle.
 (2) $\angle B=90^{\circ}-\angle A$. From $\sin A=\frac{a}{c}$, $c=\frac{a}{\sin A}$. $b=\sqrt{c^{2}-a^{2}}$, or $b=\frac{a}{\tan A}$.
 
 (3) Find $\angle A$ from $\sin A=\frac{a}{c}$. $\angle B=90^{\circ}-\angle A$. $b=\sqrt{c^{2}-a^{2}}$. $\blacksquare$
-
-## Problem 13
-
-(Problem 28.2, Comprehensive Application, Problem 7) As shown in the figure, the base of a pyramid is a square of side $130\ \text{m}$, and each lateral face makes an angle of $65^{\circ}$ with the base. How high was this pyramid originally (round to an integer)?
-
-### Solution to Problem 13
-
-The square base of the pyramid has side $130\ \text{m}$, and the lateral faces make an angle of $65^{\circ}$ with the base. The height $h$ and the distance $d=\frac{130}{2}=65\ \text{m}$ from the center of the base to a side form a right triangle, with the dihedral angle between the lateral face and the base being $65^{\circ}$.
-
-By Tangent, $\tan 65^{\circ}=\frac{h}{65}$, so $h=65\times\tan 65^{\circ}\approx 65\times 2.1445\approx 139\ \text{m}$. $\blacksquare$

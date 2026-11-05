@@ -1,5 +1,45 @@
 # week2
 
+> **Definition 1.1.1 (Positive Number)**
+> 
+> Numbers greater than $0$ are called positive numbers.
+
+> **Definition 1.1.2 (Negative Number)**
+> 
+> Numbers obtained by prefixing a positive number with the sign "$-$" are called negative numbers.
+
+> **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**
+> 
+> Quantities of opposite meaning are represented by positive and negative numbers respectively.
+
+> **Definition 1.2.1 (Integers and Fractions)**
+> 
+> Positive integers, $0$, and negative integers are collectively called integers; positive fractions and negative fractions are collectively called fractions.
+
+> **Definition 1.2.2 (Rational Numbers)**
+> 
+> Numbers that can be written in fraction form are called rational numbers.
+
+> **Definition 1.2.3 (Number Line)**
+> 
+> A straight line on which an origin, a positive direction, and a unit length are specified is called a number line.
+
+> **Definition 1.2.4 (Opposite Numbers)**
+> 
+> Two numbers that differ only in sign are opposites of each other; the opposite number of $0$ is $0$.
+
+> **Definition 1.2.5 (Absolute Value)**
+> 
+> The distance on the number line between the point representing a number $a$ and the origin is called the absolute value of the number $a$, denoted by $\left|a\right|$.
+
+> **Definition 1.2.6 (Algebraic Meaning of Absolute Value)**
+> 
+> The absolute value of a positive number is itself; the absolute value of a negative number is its opposite number; the absolute value of $0$ is $0$.
+
+> **Definition 1.2.7 (Comparing the Magnitude of Rational Numbers)**
+> 
+> A positive number is greater than $0$, $0$ is greater than a negative number, and a positive number is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
+
 ## Exercise 1
 
 (Exercise 1.2, Problem 2) Arrange each group of numbers below in order from smallest to largest, and connect them with "$< $":
@@ -10,7 +50,7 @@
 
 ### Solution to Exercise 1
 
-By Comparing the Magnitude of Rational Numbers, a negative number is less than $0$, and $0$ is less than a positive number; for two negative numbers, the one with the larger absolute value is instead the smaller.
+By **Definition 1.2.7 (Comparing the Magnitude of Rational Numbers)**, a negative number is less than $0$, and $0$ is less than a positive number; for two negative numbers, the one with the larger absolute value is instead the smaller.
 
 (1) Among the negative numbers, $\left|-10\right|=10> \left|-3\right|=3$, so $-10< -3$; the positive numbers satisfy $0< 2< 5< 8$. Hence arranged from smallest to largest:
 
@@ -30,7 +70,7 @@ Beijing $-4.6\,^\circ\text{C}$, Wuhan $3.8\,^\circ\text{C}$, Guangzhou $13.1\,^\
 
 ### Solution to Exercise 2
 
-By Comparing the Magnitude of Rational Numbers, a positive number is greater than $0$, $0$ is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
+By **Definition 1.2.7 (Comparing the Magnitude of Rational Numbers)**, a positive number is greater than $0$, $0$ is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
 
 The positive numbers are $3.8$, $13.1$, $2.4$, with $13.1> 3.8> 2.4$. The negative numbers are $-4.6$, $-19.4$; since $\left|-4.6\right|=4.6< \left|-19.4\right|=19.4$, we get $-4.6> -19.4$.
 
@@ -50,7 +90,7 @@ Set of positive rational numbers: $\left\{\;\cdots\;\right\}$. Set of negative r
 
 ### Solution to Problem 1
 
-By Rational Numbers and Integers and Fractions.
+By **Definition 1.2.2 (Rational Numbers)** and **Definition 1.2.1 (Integers and Fractions)**.
 
 The numbers greater than $0$ are $3$, $1\frac{3}{4}$, $0.45$, $120$, $0.\dot{3}$; they are positive rational numbers.
 
@@ -68,7 +108,7 @@ On the number line, with the origin $0$ as its center, rightward as the positive
 
 ### Solution to Problem 2
 
-By Number Line, the origin represents $0$, to the right is positive, to the left is negative.
+By **Definition 1.2.3 (Number Line)**, the origin represents $0$, to the right is positive, to the left is negative.
 
 From the figure, point $A$ is at the origin and represents $0$; point $B$ is to the right of the origin, $2$ unit lengths away, and represents $2$; point $C$ is to the left of the origin, $2.5$ unit lengths away, and represents $-2.5$; point $D$ is to the left of the origin, $3$ unit lengths away, and represents $-3$; point $E$ is to the right of the origin, $2.5$ unit lengths away, and represents $2.5$.
 
@@ -80,7 +120,7 @@ Hence fill in in turn: $0$; $2$; $-2.5$; $-3$; $2.5$. $\blacksquare$
 
 ### Solution to Problem 3
 
-By Opposite Numbers, prefixing a number with the sign "$-$" gives its opposite number.
+By **Definition 1.2.4 (Opposite Numbers)**, prefixing a number with the sign "$-$" gives its opposite number.
 
 The opposite number of $7$ is $-7$. $-\frac{1}{4}$ and $\frac{1}{4}$ are opposites of each other, so $-\frac{1}{4}$ is the opposite number of $\frac{1}{4}$. Also, the opposite number of $0$ is $0$, so the number whose opposite number is itself is $0$.
 
@@ -94,7 +134,7 @@ $$-9,\ 3.75,\ 0,\ \frac{4}{3},\ -0.001,\ -1.$$
 
 ### Solution to Problem 4
 
-By Algebraic Meaning of Absolute Value.
+By **Definition 1.2.6 (Algebraic Meaning of Absolute Value)**.
 
 $\left|-9\right|=9$; $\left|3.75\right|=3.75$; $\left|0\right|=0$; $\left|\frac{4}{3}\right|=\frac{4}{3}$; $\left|-0.001\right|=0.001$; $\left|-1\right|=1$.
 
@@ -118,7 +158,7 @@ Comparing the absolute values: $9> 3.75> 1> \frac{4}{3}> 0.001> 0$. Hence $-9$ h
 
 ### Solution to Problem 5
 
-By Comparing the Magnitude of Rational Numbers, for two negative numbers, the one with the larger absolute value is instead the smaller.
+By **Definition 1.2.7 (Comparing the Magnitude of Rational Numbers)**, for two negative numbers, the one with the larger absolute value is instead the smaller.
 
 (1) $\left|-\frac{2}{7}\right|=\frac{2}{7}< \left|-\frac{4}{7}\right|=\frac{4}{7}$, so $-\frac{2}{7}> -\frac{4}{7}$.
 
@@ -142,7 +182,7 @@ On a number line with origin $0$, rightward as the positive direction, and unit 
 
 ### Solution to Problem 6
 
-By Number Line, take the origin $0$, take rightward as the positive direction, and choose a unit length. Among them, $2\frac{4}{5}=2.8$, $-2\frac{4}{5}=-2.8$, $\frac{1}{2}=0.5$.
+By **Definition 1.2.3 (Number Line)**, take the origin $0$, take rightward as the positive direction, and choose a unit length. Among them, $2\frac{4}{5}=2.8$, $-2\frac{4}{5}=-2.8$, $\frac{1}{2}=0.5$.
 
 The corresponding points of the numbers on the number line are: $-2.8$ is $2.8$ grids to the left of the origin, $-2$ is $2$ grids to the left of the origin, $-0.5$ is $0.5$ grids to the left of the origin, $0$ is the origin, $0.5$ is $0.5$ grids to the right of the origin, $1.2$ is $1.2$ grids to the right of the origin, $2$ is $2$ grids to the right of the origin, and $2.8$ is $2.8$ grids to the right of the origin, as shown in the figure. $\blacksquare$
 
@@ -156,7 +196,7 @@ Usually, when nearsightedness exceeds $200$ degrees, one must continuously wear 
 
 ### Solution to Problem 7
 
-According to the problem, the records of nearsightedness degrees are negative numbers, and their absolute values are precisely the degrees of nearsightedness. By Algebraic Meaning of Absolute Value.
+According to the problem, the records of nearsightedness degrees are negative numbers, and their absolute values are precisely the degrees of nearsightedness. By **Definition 1.2.6 (Algebraic Meaning of Absolute Value)**.
 
 The absolute values of the records are respectively
 
@@ -172,7 +212,7 @@ Hence $2$ students need to continuously wear glasses. $\blacksquare$
 
 ### Solution to Problem 8
 
-By Opposite Numbers, two numbers $a$ and $-a$ that are opposites of each other are symmetric about the origin on the number line and are equidistant from the origin.
+By **Definition 1.2.4 (Opposite Numbers)**, two numbers $a$ and $-a$ that are opposites of each other are symmetric about the origin on the number line and are equidistant from the origin.
 
 Let point $A$ represent $a$; then point $B$ represents $-a$. The distance between the two points is $\left|a-\left(-a\right)\right|=\left|2a\right|=5$.
 
@@ -192,7 +232,7 @@ Hence the numbers represented by these two points are $2.5$ and $-2.5$. $\blacks
 
 ### Solution to Problem 9
 
-By Opposite Numbers and Comparing the Magnitude of Rational Numbers.
+By **Definition 1.2.4 (Opposite Numbers)** and **Definition 1.2.7 (Comparing the Magnitude of Rational Numbers)**.
 
 (1) If $a=-a$, then $2a=0$, so $a=0$.
 
@@ -222,11 +262,11 @@ Number $1$, $2$, $3$, $4$, $5$, $6$; weight situation $-1.1$, $+2$, $-0.5$, $+10
 
 ### Solution to Activity 1
 
-By Representing Quantities of Opposite Meaning, exceeding the standard weight is recorded as a positive number, and falling short of the standard weight is recorded as a negative number.
+By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**, exceeding the standard weight is recorded as a positive number, and falling short of the standard weight is recorded as a negative number.
 
 (1) In the table, the positive numbers are $+2$, $+10$, $+4.7$, that is, students numbered $2$, $4$, $5$ have weights exceeding the standard weight; the negative numbers are $-1.1$, $-0.5$, $-8.3$, that is, students numbered $1$, $3$, $6$ have weights falling short of the standard weight. Among the $6$ students in the group, $3$ exceed and $3$ fall short; the total excess is $2+10+4.7=16.7\ \text{kg}$, and the total shortfall is $\left|-1.1\right|+\left|-0.5\right|+\left|-8.3\right|=9.9\ \text{kg}$; the group as a whole is somewhat overweight.
 
-(2) By Absolute Value, the smaller the absolute value of a number, the smaller its deviation from $0$. The absolute values of the deviations are $1.1$, $2$, $0.5$, $10$, $4.7$, $8.3$, among which $0.5$ is the smallest, so the student numbered $3$ has the weight closest to the standard weight. Besides judging positive and negative numbers, one should also consider the magnitude of the absolute value of the deviation, that is, the extent to which the weight deviates from the standard weight, in order to judge whether the weight is standard. $\blacksquare$
+(2) By **Definition 1.2.5 (Absolute Value)**, the smaller the absolute value of a number, the smaller its deviation from $0$. The absolute values of the deviations are $1.1$, $2$, $0.5$, $10$, $4.7$, $8.3$, among which $0.5$ is the smallest, so the student numbered $3$ has the weight closest to the standard weight. Besides judging positive and negative numbers, one should also consider the magnitude of the absolute value of the deviation, that is, the extent to which the weight deviates from the standard weight, in order to judge whether the weight is standard. $\blacksquare$
 
 ## Activity 2
 
@@ -244,7 +284,7 @@ Please play this game and think about how to guess so as to find the number fast
 
 ### Solution to Activity 2
 
-By Comparing the Magnitude of Rational Numbers, each answer "too big" or "too small" narrows the range in which the target number lies.
+By **Definition 1.2.7 (Comparing the Magnitude of Rational Numbers)**, each answer "too big" or "too small" narrows the range in which the target number lies.
 
 The number in mind lies in $-50\sim 50$, giving $101$ integers in total. Using a bisection strategy, each time guess the midpoint of the current interval: first guess $0$; if "too big", the target lies in $-50\sim 0$; if "too small", the target lies in $0\sim 50$. Each time the interval length is reduced by about half; since $2^6=64< 101\le 128=2^7$, the number can be guessed in at most $7$ tries. Taking the midpoint each time rather than guessing arbitrarily guarantees that about half of the possible numbers are ruled out each time, and hence is the fastest. $\blacksquare$
 
@@ -258,7 +298,7 @@ The number in mind lies in $-50\sim 50$, giving $101$ integers in total. Using a
 
 ### Solution to Review Problem 1
 
-By Representing Quantities of Opposite Meaning, rise and fall, and income and expenditure, are quantities of opposite meaning.
+By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**, rise and fall, and income and expenditure, are quantities of opposite meaning.
 
 (1) Since a rise is taken as positive, a fall is taken as negative; hence a drop of $2\,^\circ\text{C}$ is recorded as $-2\,^\circ\text{C}$.
 
@@ -274,7 +314,7 @@ On a number line with origin $0$, rightward as the positive direction, and unit 
 
 ### Solution to Review Problem 2
 
-By Number Line and Comparing the Magnitude of Rational Numbers, a number on the left of the number line is smaller than a number on the right.
+By **Definition 1.2.3 (Number Line)** and **Definition 1.2.7 (Comparing the Magnitude of Rational Numbers)**, a number on the left of the number line is smaller than a number on the right.
 
 Marking the numbers on the number line, from left to right they are $-4$, $-2$, $-1$, $0$, $2$, $3$. Hence arranged from smallest to largest:
 
@@ -288,7 +328,7 @@ $\blacksquare$
 
 ### Solution to Review Problem 3
 
-By Opposite Numbers and Algebraic Meaning of Absolute Value.
+By **Definition 1.2.4 (Opposite Numbers)** and **Definition 1.2.6 (Algebraic Meaning of Absolute Value)**.
 
 The opposite number of $-2$ is $2$, and $\left|-2\right|=2$; the opposite number of $-5$ is $5$, and $\left|-5\right|=5$; the opposite number of $7.5$ is $-7.5$, and $\left|7.5\right|=7.5$. $\blacksquare$
 
@@ -306,7 +346,7 @@ The opposite number of $-2$ is $2$, and $\left|-2\right|=2$; the opposite number
 
 ### Solution to Review Problem 4
 
-First simplify, then compare by Comparing the Magnitude of Rational Numbers.
+First simplify, then compare by **Definition 1.2.7 (Comparing the Magnitude of Rational Numbers)**.
 
 (1) $+\left(-3\right)=-3$, $-\left(-4\right)=4$; a positive number is greater than a negative number, so $-3< 4$, that is, $+\left(-3\right)< -\left(-4\right)$.
 
@@ -324,7 +364,7 @@ First quarter $-6.8$ ten thousand yuan, second quarter $-10.7$ ten thousand yuan
 
 ### Solution to Review Problem 5
 
-By Comparing the Magnitude of Rational Numbers, a positive number is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
+By **Definition 1.2.7 (Comparing the Magnitude of Rational Numbers)**, a positive number is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
 
 The positive numbers are $31.5$, $27.8$, with $31.5> 27.8$. The negative numbers are $-6.8$, $-10.7$; since $\left|-6.8\right|=6.8< \left|-10.7\right|=10.7$, we get $-6.8> -10.7$.
 
@@ -340,11 +380,11 @@ That is, third quarter $> $ fourth quarter $> $ first quarter $> $ second quarte
 
 ### Solution to Review Problem 6
 
-By Comparing the Magnitude of Rational Numbers, for two negative numbers, the one with the larger absolute value is instead the smaller.
+By **Definition 1.2.7 (Comparing the Magnitude of Rational Numbers)**, for two negative numbers, the one with the larger absolute value is instead the smaller.
 
 The four growth rates are $-5.6\%$, $-4.0\%$, $13.0\%$, $-9.6\%$. Among them, $13.0\%$ is positive and the rest are negative. Comparing the absolute values of the three negative numbers: $\left|-9.6\%\right|=9.6\%> \left|-5.6\%\right|=5.6\%> \left|-4.0\%\right|=4.0\%$, so $-9.6\%< -5.6\%< -4.0\%$.
 
-Hence the smallest growth rate is $-9.6\%$. By Representing Quantities of Opposite Meaning, a positive growth rate indicates that per-capita water resources increased compared with the previous year, and a negative growth rate indicates that per-capita water resources decreased compared with the previous year. $\blacksquare$
+Hence the smallest growth rate is $-9.6\%$. By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**, a positive growth rate indicates that per-capita water resources increased compared with the previous year, and a negative growth rate indicates that per-capita water resources decreased compared with the previous year. $\blacksquare$
 
 ## Review Problem 7
 
@@ -354,7 +394,7 @@ On the number line, mark all the integer points strictly between $-3$ and $4$: $
 
 ### Solution to Review Problem 7
 
-By Integers and Fractions and Number Line, the integers $x$ satisfying $-3< x< 4$ are the integers strictly between $-3$ and $4$, namely
+By **Definition 1.2.1 (Integers and Fractions)** and **Definition 1.2.3 (Number Line)**, the integers $x$ satisfying $-3< x< 4$ are the integers strictly between $-3$ and $4$, namely
 
 $$x=-2,\ -1,\ 0,\ 1,\ 2,\ 3.$$
 
@@ -376,28 +416,12 @@ On the number line, point $a$ is to the left of the origin and close to it, and 
 
 ### Solution to Review Problem 8
 
-By Number Line and Opposite Numbers, the figure shows $a< 0< b$, and the distance from point $a$ to the origin is less than the distance from point $b$ to the origin, that is, $\left|a\right|< \left|b\right|$.
+By **Definition 1.2.3 (Number Line)** and **Definition 1.2.4 (Opposite Numbers)**, the figure shows $a< 0< b$, and the distance from point $a$ to the origin is less than the distance from point $b$ to the origin, that is, $\left|a\right|< \left|b\right|$.
 
-By Opposite Numbers, $-a> 0$, $-b< 0$, and $\left|-a\right|=\left|a\right|$, $\left|-b\right|=\left|b\right|$. On the number line, $-b$ is to the left of the origin and far from it, $a$ is to the left of the origin and close to it; $-a$ is to the right of the origin and close to it, and $b$ is to the right of the origin and far from it.
+By **Definition 1.2.4 (Opposite Numbers)**, $-a> 0$, $-b< 0$, and $\left|-a\right|=\left|a\right|$, $\left|-b\right|=\left|b\right|$. On the number line, $-b$ is to the left of the origin and far from it, $a$ is to the left of the origin and close to it; $-a$ is to the right of the origin and close to it, and $b$ is to the right of the origin and far from it.
 
 Hence arranged from smallest to largest:
 
 $$-b< a< -a< b.$$
 
 Therefore choose (C). $\blacksquare$
-
-## Review Problem 9
-
-(Review Problem, Extension and Exploration, Problem 9) As shown in the figure, $5$ volleyballs were tested, among which the number of grams exceeding the standard mass is recorded as a positive number.
-
-(1) What do $+5$, $-3.5$, $+0.7$, $-2.5$, $-0.6$ each mean?
-
-(2) Which ball has the mass closest to the standard mass? Please explain why.
-
-### Solution to Review Problem 9
-
-By Representing Quantities of Opposite Meaning, exceeding the standard mass is recorded as positive, and falling short of the standard mass is recorded as negative.
-
-(1) $+5$ means the ball exceeds the standard mass by $5\ \text{g}$; $-3.5$ means it falls short of the standard mass by $3.5\ \text{g}$; $+0.7$ means it exceeds the standard mass by $0.7\ \text{g}$; $-2.5$ means it falls short of the standard mass by $2.5\ \text{g}$; $-0.6$ means it falls short of the standard mass by $0.6\ \text{g}$.
-
-(2) By Absolute Value, the smaller the absolute value of a number, the smaller its deviation from the standard mass. The absolute values of the deviations are $5$, $3.5$, $0.7$, $2.5$, $0.6$, among which $0.6$ is the smallest, so the ball recorded as $-0.6$ has the mass closest to the standard mass. $\blacksquare$

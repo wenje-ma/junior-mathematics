@@ -1,6 +1,82 @@
 # week46
 
+> **Theorem 20.1.1 (Pythagorean Theorem)**
+> 
+> In a right triangle, the sum of the squares of the two legs equals the square of the hypotenuse. If the two legs of a right triangle are \(a,b\) and the hypotenuse is \(c\), then \(a^{2}+b^{2}=c^{2}\).
+
+> **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**
+> 
+> If the three side lengths \(a,b,c\) of a triangle satisfy \(a^{2}+b^{2}=c^{2}\), then this triangle is a right triangle.
+
+> **Definition 20.2.1 (Pythagorean Triples)**
+> 
+> Three positive integers that can be the three side lengths of a right triangle are called a Pythagorean triple.
+
+> **Conclusion 21.1.1 (Interior Angle Sum of a Quadrilateral)**
+> 
+> The interior angle sum of a quadrilateral is \(360^{\circ}\).
+
+> **Conclusion 21.1.2 (Exterior Angle Sum of a Quadrilateral)**
+> 
+> The exterior angle sum of a quadrilateral is \(360^{\circ}\).
+
+> **Conclusion 21.1.3 (Interior Angle Sum of a Polygon)**
+> 
+> The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
+
+> **Conclusion 21.1.4 (Exterior Angle Sum of a Polygon)**
+> 
+> The exterior angle sum of a polygon is \(360^{\circ}\).
+
 ## Problem 1
+
+(Exercise 20.2, Review and Consolidation, Problem 1)
+
+Determine whether the triangle formed by the segments \(a,b,c\) is a right triangle:
+
+(1) \(a=9,\ b=40,\ c=41\); (2) \(a=\sqrt{41},\ b=4,\ c=5\); (3) \(a=\frac{5}{4},\ b=1,\ c=\frac{3}{4}\); (4) \(a=40,\ b=50,\ c=60\).
+
+By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**.
+
+(1) \(9^{2}+40^{2}=1681=41^{2}\), is a right triangle.
+
+(2) \(4^{2}+5^{2}=41=(\sqrt{41})^{2}\), is a right triangle.
+
+(3) \(\left(\frac{3}{4}\right)^{2}+1^{2}=\frac{9}{16}+1=\frac{25}{16}=\left(\frac{5}{4}\right)^{2}\), is a right triangle.
+
+(4) \(40^{2}+50^{2}=4100\ne 3600=60^{2}\), not a right triangle.
+
+\(\blacksquare\)
+
+(Exercise 20.2, Review and Consolidation, Problem 2)
+
+Given three segments of lengths \(6,10,x\), they can form exactly one right triangle. Find \(x\).
+
+There are two cases:
+
+If \(x\) is the hypotenuse, then \(x^{2}=6^{2}+10^{2}=136\), so \(x=\sqrt{136}=2\sqrt{34}\).
+
+If \(10\) is the hypotenuse, then \(x^{2}=10^{2}-6^{2}=64\), so \(x=8\).
+
+Therefore \(x=8\) or \(x=2\sqrt{34}\).
+
+\(\blacksquare\)
+
+(Exercise 20.2, Review and Consolidation, Problem 3)
+
+Liu Wei first walked \(80\ \text{m}\) east, then walked \(60\ \text{m}\) in another direction, and then walked \(100\ \text{m}\) in a third direction, at which point he returned exactly to the starting point. In which direction did Liu Wei walk \(60\ \text{m}\)? Explain why.
+
+The three distances \(80,60,100\) form a triangle that returns to the starting point.
+
+From \(80^{2}+60^{2}=6400+3600=10000=100^{2}\).
+
+By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**, these three segments form a right triangle, and the \(80\) and \(60\) segments are perpendicular.
+
+The first segment goes \(80\ \text{m}\) east, so the second segment of \(60\ \text{m}\) goes due south (or due north).
+
+\(\blacksquare\)
+
+## Problem 2
 
 (Exercise 20.2, Comprehensive Application, Problem 4)
 
@@ -10,7 +86,7 @@ In \(\triangle ABC\), \(AB=13,\ BC=10\), and the median \(AD\) to side \(BC\) is
 
 In \(\triangle ABD\), \(AD^{2}+BD^{2}=12^{2}+5^{2}=169=13^{2}=AB^{2}\).
 
-By Basic Knowledge, \(\angle ADB=90^{\circ}\), i.e. \(AD\perp BC\).
+By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**, \(\angle ADB=90^{\circ}\), i.e. \(AD\perp BC\).
 
 Hence \(AD\) is also the perpendicular bisector of \(BC\), so \(AC=AB=13\).
 
@@ -38,11 +114,11 @@ $$
 
 Hence \(AE^{2}+EF^{2}=20a^{2}+5a^{2}=25a^{2}=AF^{2}\).
 
-By Basic Knowledge, \(\triangle AEF\) is a right triangle, and \(\angle AEF=90^{\circ}\).
+By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**, \(\triangle AEF\) is a right triangle, and \(\angle AEF=90^{\circ}\).
 
 \(\blacksquare\)
 
-## Problem 2
+## Problem 3
 
 (Exercise 20.2, Extension and Exploration, Problem 6)
 
@@ -74,7 +150,7 @@ Therefore \(ak,bk,ck\) is also a Pythagorean triple.
 
 Proposition 48 of Euclid's *Elements* is exactly the converse of the Pythagorean theorem. Restate it in today's language: if the sum of the squares of two sides of a triangle equals the square of the third side, then the triangle is a right triangle.
 
-This is exactly Converse of the Pythagorean Theorem. It and the Pythagorean theorem are converses of each other: the former gives a property of a right triangle (a relation among the sides), while the latter gives a method for determining whether a triangle is a right triangle.
+This is exactly **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**. It and the Pythagorean theorem are converses of each other: the former gives a property of a right triangle (a relation among the sides), while the latter gives a method for determining whether a triangle is a right triangle.
 
 \(\blacksquare\)
 
@@ -88,7 +164,7 @@ The figure shows, from left to right, the construction of the Pythagorean tree: 
 
 Each time two new small squares "grow", a right triangle is drawn with the side of the existing square on the hypotenuse as its hypotenuse, and then two new squares are drawn on the two legs.
 
-By Pythagorean Theorem, the sum of the areas of the two new small squares equals the area of the old square.
+By **Theorem 20.1.1 (Pythagorean Theorem)**, the sum of the areas of the two new small squares equals the area of the old square.
 
 Thus two still smaller squares grow on each existing square; the areas shrink level by level while maintaining the relation "the sum of the areas of the two small squares equals the area of the previous-level square", and infinite repetition forms a self-similar tree pattern.
 
@@ -102,7 +178,7 @@ Take an isosceles right triangle with its two legs on top of the same square.
 
 Each time the process is repeated on the two small squares, the side length of the two small squares is \(\frac{\sqrt{2}}{2}\) times that of the previous level, and their area is half of the previous level.
 
-By Pythagorean Theorem, the sum of the areas of the two new squares at each level equals the area of its parent square.
+By **Theorem 20.1.1 (Pythagorean Theorem)**, the sum of the areas of the two new squares at each level equals the area of its parent square.
 
 Therefore the sum of the areas of all the outermost small squares equals exactly the area of the original square — this is the mathematical secret of "area conservation" in the Pythagorean tree pattern.
 
@@ -116,7 +192,7 @@ As shown in the figure, point \(D\) lies on side \(AB\) of \(Rt\triangle ABC\), 
 
 From the figure, \(\angle A=90^{\circ}\), so \(AC\perp AB\), and \(AB=AD+DB=10\).
 
-In \(Rt\triangle ACD\), by Basic Knowledge,
+In \(Rt\triangle ACD\), by **Theorem 20.1.1 (Pythagorean Theorem)**,
 
 $$
 AC^{2}=CD^{2}-AD^{2}=17^{2}-8^{2}=289-64=225,
@@ -140,7 +216,7 @@ Two people start from the same point at the same time. One walks due north at \(
 
 After \(10\ \text{min}\), the northbound person has walked \(200\ \text{m}\) and the eastbound person has walked \(300\ \text{m}\); the two directions are perpendicular.
 
-By Basic Knowledge, the distance
+By **Theorem 20.1.1 (Pythagorean Theorem)**, the distance
 
 $$
 d=\sqrt{200^{2}+300^{2}}=\sqrt{130000}\approx 361\ \text{m}.
@@ -154,7 +230,7 @@ As shown in the figure, a plane through the apex \(P\) of a cone and the center 
 
 In isosceles triangle \(PAB\), the base \(AB=4\), and the altitude to the base passes through the center \(O\) (\(O\) is the midpoint of \(AB\)).
 
-By Basic Knowledge, the altitude \(PO=\sqrt{PA^{2}-AO^{2}}=\sqrt{49-4}=\sqrt{45}=3\sqrt{5}\).
+By **Theorem 20.1.1 (Pythagorean Theorem)**, the altitude \(PO=\sqrt{PA^{2}-AO^{2}}=\sqrt{49-4}=\sqrt{45}=3\sqrt{5}\).
 
 Therefore the area \(S=\frac{1}{2}\times AB\times PO=\frac{1}{2}\times 4\times 3\sqrt{5}=6\sqrt{5}\).
 
@@ -164,7 +240,7 @@ Therefore the area \(S=\frac{1}{2}\times AB\times PO=\frac{1}{2}\times 4\times 3
 
 As shown in the figure, a tent has length \(l=2.6\ \text{m}\), and its cross-section is an isosceles triangle with base \(a=2\ \text{m}\) and height \(h=1.8\ \text{m}\). How many square meters of fabric are at least needed to make this tent (excluding the bottom) (keep one decimal place)?
 
-The leg length of the isosceles cross-section triangle is, by Basic Knowledge:
+The leg length of the isosceles cross-section triangle is, by **Theorem 20.1.1 (Pythagorean Theorem)**:
 
 $$
 s=\sqrt{\left(\frac{a}{2}\right)^{2}+h^{2}}=\sqrt{1+3.24}=\sqrt{4.24}\approx 2.06\ \text{m}.
@@ -202,7 +278,7 @@ The area is found by the cut-and-paste method: the area of the enclosing rectang
 
 And \(BC^{2}+CD^{2}=5+5=10\ne 20=BD^{2}\).
 
-By Basic Knowledge, \(\angle BCD\) is not a right angle.
+By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**, \(\angle BCD\) is not a right angle.
 
 \(\blacksquare\)
 
@@ -224,7 +300,7 @@ In \(Rt\triangle ADB\), \(BD^{2}=AB^{2}-AD^{2}=4-1.44=2.56\), so \(BD=1.6\ \text
 
 And \(AB^{2}+AC^{2}=4+2.25=6.25=2.5^{2}=BC^{2}\).
 
-By Basic Knowledge, \(\triangle ABC\) is a right triangle, \(\angle BAC=90^{\circ}\).
+By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**, \(\triangle ABC\) is a right triangle, \(\angle BAC=90^{\circ}\).
 
 \(\blacksquare\)
 
@@ -236,7 +312,7 @@ Let the break be \(x\) chi above the ground; then the broken part is \(10-x\) ch
 
 The broken part is the hypotenuse, and the vertical segment \(x\) and the horizontal distance \(3\) chi are the two legs.
 
-By Basic Knowledge,
+By **Theorem 20.1.1 (Pythagorean Theorem)**,
 
 $$
 x^{2}+3^{2}=\left(10-x\right)^{2},\quad x^{2}+9=100-20x+x^{2},
@@ -260,7 +336,7 @@ $$
 a^{2}+b^{2}=\left(2m\right)^{2}+\left(m^{2}-1\right)^{2}=4m^{2}+m^{4}-2m^{2}+1=m^{4}+2m^{2}+1=\left(m^{2}+1\right)^{2}=c^{2}.
 $$
 
-Also \(a,b,c\) are all positive integers, so by Basic Knowledge, \(a,b,c\) is a Pythagorean triple.
+Also \(a,b,c\) are all positive integers, so by **Definition 20.2.1 (Pythagorean Triples)**, \(a,b,c\) is a Pythagorean triple.
 
 Taking \(m=2\): \(a=4,\ b=3,\ c=5\).
 
@@ -288,7 +364,7 @@ Cut the original rectangle (a \(1\times 5\) strip) along segments of length \(\s
 
 Can a \(70\ \text{cm}\) stick fit inside a rectangular wooden box with length, width and height \(50\ \text{cm},40\ \text{cm},30\ \text{cm}\)?
 
-The space diagonal of the rectangular box, by the extension of Basic Knowledge:
+The space diagonal of the rectangular box, by the extension of **Theorem 20.1.1 (Pythagorean Theorem)**:
 
 $$
 d=\sqrt{50^{2}+40^{2}+30^{2}}=\sqrt{2500+1600+900}=\sqrt{5000}\approx 70.7\ \text{cm}.
@@ -304,7 +380,7 @@ A rectangular stone bench in a park is shown in the figure. If an ant crawls fro
 
 The bench is \(40\ \text{cm}\) long and \(30\ \text{cm}\) high. The ant crawls along the surface from \(M\) to \(N\); after unfolding the surface, the shortest path is the hypotenuse of legs \(40\) and \(30\).
 
-By Basic Knowledge,
+By **Theorem 20.1.1 (Pythagorean Theorem)**,
 
 $$
 MN=\sqrt{40^{2}+30^{2}}=\sqrt{2500}=50\ \text{cm}.
@@ -324,7 +400,7 @@ $$
 
 Let the altitude to side \(AC=b\) be \(BD=h\), with foot \(D\); write \(CD=x\); then \(AD=b-x\).
 
-By Basic Knowledge,
+By **Theorem 20.1.1 (Pythagorean Theorem)**,
 
 $$
 h^{2}=a^{2}-x^{2},\quad h^{2}=c^{2}-\left(b-x\right)^{2}.
@@ -422,7 +498,7 @@ By Basic Knowledge, the interior angle sum of a pentagon is \((5-2)\times 180^{\
 
 \(\blacksquare\)
 
-## Problem 3
+## Problem 4
 
 (Exercise 21.1, Review and Consolidation, Problem 1)
 
@@ -484,7 +560,7 @@ Regular decagon: \(\frac{8\times 180^{\circ}}{10}=144^{\circ}\).
 
 \(\blacksquare\)
 
-## Problem 4
+## Problem 5
 
 (Exercise 21.1, Comprehensive Application, Problem 5)
 
@@ -527,57 +603,5 @@ In the triangle containing \(\angle 1,\angle 2\), \(\angle 1=\angle 2=\frac{180^
 Similarly, \(\angle 3=\angle 4=36^{\circ}\).
 
 Therefore \(x=108^{\circ}-36^{\circ}-36^{\circ}=36^{\circ}\).
-
-\(\blacksquare\)
-
-## Problem 5
-
-(Exercise 21.1, Extension and Exploration, Problem 8)
-
-As shown in the figure, in quadrilateral \(ABCD\), \(AC,BD\) are its two diagonals. Compare \(AC+BD\) with the perimeter of the quadrilateral.
-
-Let the diagonals intersect at \(O\).
-
-In \(\triangle OAB\), \(OA+OB> AB\); similarly \(OB+OC> BC\), \(OC+OD> CD\), \(OD+OA> DA\).
-
-Adding the four inequalities: \(2(OA+OB+OC+OD)> AB+BC+CD+DA\), i.e. \(2(AC+BD)> \) perimeter.
-
-Therefore \(AC+BD> \frac{1}{2}\) perimeter.
-
-\(\blacksquare\)
-
-(Exercise 21.1, Extension and Exploration, Problem 9)
-
-As shown in the figure, to keep a quadrilateral wooden frame (made by nailing \(4\) strips) from deforming, at least how many more strips must be nailed? What about a pentagonal frame and a hexagonal frame?
-
-Adding \(1\) diagonal to a quadrilateral frame divides it into two triangles, so at least \(1\) more strip is needed.
-
-A pentagonal frame needs to be divided into \(3\) triangles, requiring at least \(2\) more strips.
-
-A hexagonal frame needs to be divided into \(4\) triangles, requiring at least \(3\) more strips.
-
-\(\blacksquare\)
-
-## Inquiry and Discovery 1
-
-(Inquiry and Discovery, Tiling the Plane with Polygons)
-
-(1) Tiling the plane separately with equilateral triangles, squares, regular pentagons and regular hexagons of the same side length: which of these can tile the plane?
-
-(2) Can arbitrary triangles or quadrilaterals of the same shape and size tile the plane?
-
-(1) Tiling requires the sum of the interior angles at a vertex point to be \(360^{\circ}\).
-
-An equilateral triangle has interior angle \(60^{\circ}\), and \(6\times 60^{\circ}=360^{\circ}\), so it tiles.
-
-A square has interior angle \(90^{\circ}\), and \(4\times 90^{\circ}=360^{\circ}\), so it tiles.
-
-A regular pentagon has interior angle \(108^{\circ}\), and \(108^{\circ}\) does not divide \(360^{\circ}\), so it does not tile.
-
-A regular hexagon has interior angle \(120^{\circ}\), and \(3\times 120^{\circ}=360^{\circ}\), so it tiles.
-
-(2) An arbitrary triangle has interior angle sum \(180^{\circ}\); two identical triangles together make \(360^{\circ}\), so it tiles.
-
-An arbitrary quadrilateral has interior angle sum \(360^{\circ}\), and four different interior angles meet exactly at a vertex, so it tiles.
 
 \(\blacksquare\)

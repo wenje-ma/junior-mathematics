@@ -1,6 +1,202 @@
 # week20
 
+> **Definition 8.1.1 (Square Root)**
+> 
+> If a number $x$ has square equal to $a$, i.e. $x^2=a$, then this number $x$ is called a square root (or second root) of $a$. The operation of finding the square root of a number is called extracting the square root, and extracting the square root and squaring are inverse operations of each other.
+
+> **Definition 8.1.2 (Arithmetic Square Root)**
+> 
+> The positive square root $\sqrt a$ of a positive number $a$ is called the arithmetic square root of $a$, and $a$ is called the radicand. It is stipulated that the arithmetic square root of $0$ is $0$, i.e. $\sqrt 0=0$. The square roots of a positive number $a$ are denoted by $\pm\sqrt a$.
+
+> **Property 8.1.3 (Relationship Between Squaring and Extracting Roots)**
+> 
+> For any nonnegative number $a$, $\left(\sqrt a\right)^2=a$; for any number $a$, $\sqrt{a^2}=\left|a\right|$.
+
+> **Definition 8.2.1 (Cube Root)**
+> 
+> If a number $x$ has cube equal to $a$, i.e. $x^3=a$, then this number $x$ is called a cube root (or third root) of $a$, denoted $\sqrt\left[3\right]{a}$, where $3$ is the index of the root. The operation of finding the cube root of a number is called extracting the cube root, and extracting the cube root and cubing are inverse operations of each other.
+
+> **Property 8.2.2 (Cube Root of a Negative Number)**
+> 
+> $\sqrt\left[3\right]{-a}=-\sqrt\left[3\right]{a}$.
+
+> **Definition 8.3.1 (Irrational Number)**
+> 
+> A non-terminating non-repeating decimal is also called an irrational number. Irrational numbers are divided into positive and negative.
+
+> **Property 8.3.1 (Real Numbers and the Number Line)**
+> 
+> There is a one-to-one correspondence between real numbers and points on the number line. The real number represented by a point to the right on the number line is always larger than that represented by a point to the left.
+
+> **Definition 8.3.2 (Real Number)**
+> 
+> Rational numbers and irrational numbers are collectively called real numbers. Real numbers are divided into positive real numbers, $0$, and negative real numbers.
+
+> **Property 8.3.2 (Opposite Numbers and Absolute Value)**
+> 
+> The opposite number of a real number $a$ is $-a$. The absolute value of a positive real number is itself, the absolute value of a negative real number is its opposite number, and the absolute value of $0$ is $0$. The operation rules and properties of rational numbers also apply to real numbers.
+
+## Exercise 1
+
+(Exercise 8.3, Problem 3) Represent the following real numbers on the number line and compare their sizes (connected by "$< $"): $-2$, $\sqrt 2$, $\frac{3}{2}$, $-\pi$.
+
+The figure shows a number line with origin and positive direction marked; from left to right, four points are marked: $-\pi$ (about $-3.14$), $-2$, $\sqrt 2$ (about $1.414$), and $\frac{3}{2}=1.5$.
+
+### Solution to Exercise 1
+
+By Real Numbers and the Number Line, numbers to the right on the number line are larger than numbers to the left.
+
+Estimate the sizes: $-\pi\approx-3.14$, $-2$, $\sqrt 2\approx 1.414$, $\frac{3}{2}=1.5$. From left to right on the number line they are $-\pi$, $-2$, $\sqrt 2$, $\frac{3}{2}$.
+
+Thus
+
+$$
+-\pi< -2< \sqrt 2< \frac{3}{2}.
+$$
+
+$\blacksquare$
+
+## Exercise 2
+
+(Exercise 8.3, Problem 1) Find the opposite number and absolute value of each of the following: $\sqrt{13}$, $-\sqrt 7$, $-\frac{\pi}{2}$, $1.4-\sqrt 2$, $\frac{\sqrt 5-1}{2}$, $0$.
+
+### Solution to Exercise 2
+
+By Opposite Numbers and Absolute Value, the opposite number is $-a$; for the absolute value, a positive number takes itself and a negative number takes its opposite.
+
+$\sqrt{13}$: opposite number $-\sqrt{13}$, absolute value $\sqrt{13}$.
+
+$-\sqrt 7$: opposite number $\sqrt 7$, absolute value $\sqrt 7$.
+
+$-\frac{\pi}{2}$: opposite number $\frac{\pi}{2}$, absolute value $\frac{\pi}{2}$.
+
+$1.4-\sqrt 2\approx 1.4-1.414< 0$: opposite number $\sqrt 2-1.4$, absolute value $\sqrt 2-1.4$.
+
+$\frac{\sqrt 5-1}{2}\approx\frac{2.236-1}{2}> 0$: opposite number $\frac{1-\sqrt 5}{2}$, absolute value $\frac{\sqrt 5-1}{2}$.
+
+$0$: opposite number $0$, absolute value $0$. $\blacksquare$
+
+## Exercise 3
+
+(Exercise 8.3, Problem 2) Compute:
+
+(1) $2\sqrt 5-3\sqrt 5$;　(2) $3\sqrt 3-\left|1-\sqrt\left[3\right]{3}\right|$.
+
+### Solution to Exercise 3
+
+By Opposite Number and Absolute Value, the operation rules for rational numbers apply to real numbers.
+
+(1) By the distributive law, $2\sqrt 5-3\sqrt 5=\left(2-3\right)\sqrt 5=-\sqrt 5$.
+
+(2) $\because\sqrt\left[3\right]{3}\approx 1.442> 1$, $\therefore 1-\sqrt\left[3\right]{3}< 0$, so $\left|1-\sqrt\left[3\right]{3}\right|=\sqrt\left[3\right]{3}-1$. Hence
+
+$$
+3\sqrt 3-\left|1-\sqrt\left[3\right]{3}\right|=3\sqrt 3-\left(\sqrt\left[3\right]{3}-1\right)=3\sqrt 3-\sqrt\left[3\right]{3}+1.
+$$
+
+$\blacksquare$
+
+## Exercise 4
+
+(Exercise 8.3, Problem 3) Compute (keep two decimal places):
+
+(1) $\sqrt{17}+\sqrt{22}$;　(2) $\sqrt\left[3\right]{6}-\sqrt 6$.
+
+### Solution to Exercise 4
+
+Replace the irrational numbers with approximate finite decimals, compute, then round.
+
+(1) $\sqrt{17}\approx 4.123$, $\sqrt{22}\approx 4.690$, so $\sqrt{17}+\sqrt{22}\approx 4.123+4.690=8.81$.
+
+(2) $\sqrt\left[3\right]{6}\approx 1.817$, $\sqrt 6\approx 2.449$, so $\sqrt\left[3\right]{6}-\sqrt 6\approx 1.817-2.449=-0.63$. $\blacksquare$
+
 ## Problem 1
+
+(Exercise 8.3, Review and Consolidation, Problem 1) Among the following numbers, which are rational numbers and which are irrational numbers?
+
+$3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $-\sqrt 6$, $\sqrt{36}$, $\sqrt\left[3\right]{5}$, $\sqrt\left[3\right]{125}$.
+
+### Solution to Problem 1
+
+By **Definition 8.3.1 (Irrational Number)**, a finite decimal or a non-terminating repeating decimal is a rational number, and a non-terminating non-repeating decimal is an irrational number.
+
+$3.14$ is a finite decimal, rational; $-\frac{22}{7}$ is a fraction, rational; $\sqrt{\frac{3}{3}}=\sqrt 1=1$, rational; $-\sqrt 6$ is a non-terminating non-repeating decimal whose root cannot be extracted, irrational; $\sqrt{36}=6$, rational; $\sqrt\left[3\right]{5}$ is a non-terminating non-repeating decimal, irrational; $\sqrt\left[3\right]{125}=5$, rational.
+
+Thus the rational numbers are $3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $\sqrt{36}$, $\sqrt\left[3\right]{125}$; the irrational numbers are $-\sqrt 6$, $\sqrt\left[3\right]{5}$. $\blacksquare$
+
+## Problem 2
+
+(Exercise 8.3, Review and Consolidation, Problem 2) Represent the following real numbers on the number line and compare their sizes (connected by "$< $"): $-\frac{1}{3}$, $-1.5$, $\sqrt{2^2}$, $\left|-3\right|$.
+
+### Solution to Problem 2
+
+Simplify: $\sqrt{2^2}=2$, $\left|-3\right|=3$. The numbers are $-\frac{1}{3}\approx-0.33$, $-1.5$, $2$, $3$.
+
+By Real Numbers and the Number Line, values increase from left to right on the number line, so
+
+$$
+-1.5< -\frac{1}{3}< \sqrt{2^2}< \left|-3\right|.
+$$
+
+$\blacksquare$
+
+## Problem 3
+
+(Exercise 8.3, Review and Consolidation, Problem 3) Find the absolute value of each of the following: $\sqrt\left[3\right]{-8}$, $\sqrt{17}$, $-\sqrt{\frac{2}{3}}$, $\sqrt\left[3\right]{3}-2$, $1-\sqrt\left[3\right]{2}$.
+
+### Solution to Problem 3
+
+By Absolute Value, a positive number's absolute value is itself, and a negative number's is its opposite.
+
+$\sqrt\left[3\right]{-8}=-2$, whose absolute value is $2$.
+
+$\sqrt{17}> 0$, whose absolute value is $\sqrt{17}$.
+
+$-\sqrt{\frac{2}{3}}< 0$, whose absolute value is $\sqrt{\frac{2}{3}}$.
+
+$\sqrt\left[3\right]{3}\approx 1.442< 2$, so $\sqrt\left[3\right]{3}-2< 0$, whose absolute value is $2-\sqrt\left[3\right]{3}$.
+
+$\sqrt\left[3\right]{2}\approx 1.26> 1$, so $1-\sqrt\left[3\right]{2}< 0$, whose absolute value is $\sqrt\left[3\right]{2}-1$. $\blacksquare$
+
+## Problem 4
+
+(Exercise 8.3, Review and Consolidation, Problem 4) Compute (keep two decimal places):
+
+(1) $\pi-\sqrt{10}$;　(2) $\sqrt\left[3\right]{2}-\sqrt 2$.
+
+### Solution to Problem 4
+
+Compute with approximate values, then round.
+
+(1) $\pi\approx 3.142$, $\sqrt{10}\approx 3.162$, so $\pi-\sqrt{10}\approx 3.142-3.162=-0.02$.
+
+(2) $\sqrt\left[3\right]{2}\approx 1.260$, $\sqrt 2\approx 1.414$, so $\sqrt\left[3\right]{2}-\sqrt 2\approx 1.260-1.414=-0.15$. $\blacksquare$
+
+## Problem 5
+
+(Exercise 8.3, Review and Consolidation, Problem 5) Compute:
+
+(1) $2\left(\sqrt 6-\sqrt 7\right)-\left|2\sqrt 6-\sqrt 7\right|$;　(2) $\left(-\sqrt 2\right)^2+\left(-\sqrt\left[3\right]{2}\right)^3$.
+
+### Solution to Problem 5
+
+By Opposite Number and Absolute Value and the operations of squaring and cubing.
+
+(1) $\because 2\sqrt 6\approx 4.899> \sqrt 7\approx 2.646$, $\therefore 2\sqrt 6-\sqrt 7> 0$, so $\left|2\sqrt 6-\sqrt 7\right|=2\sqrt 6-\sqrt 7$. Hence
+
+$$
+2\left(\sqrt 6-\sqrt 7\right)-\left(2\sqrt 6-\sqrt 7\right)=2\sqrt 6-2\sqrt 7-2\sqrt 6+\sqrt 7=-\sqrt 7.
+$$
+
+(2) $\left(-\sqrt 2\right)^2=\left(\sqrt 2\right)^2=2$, $\left(-\sqrt\left[3\right]{2}\right)^3=-\left(\sqrt\left[3\right]{2}\right)^3=-2$, so
+
+$$
+\left(-\sqrt 2\right)^2+\left(-\sqrt\left[3\right]{2}\right)^3=2+\left(-2\right)=0.
+$$
+
+$\blacksquare$
+
+## Problem 6
 
 (Exercise 8.3, Comprehensive Application, Problem 6)
 
@@ -10,7 +206,7 @@
 
 (3) Is there a smallest positive real number? Is there a smallest real number?
 
-### Solution to Problem 1
+### Solution to Problem 6
 
 By Real Numbers and the Number Line, real numbers can take continuous values on the number line.
 
@@ -20,7 +216,7 @@ By Real Numbers and the Number Line, real numbers can take continuous values on 
 
 (3) There is no smallest positive real number (between any two arbitrarily small positive numbers one can take an even smaller positive number); there is no smallest real number (real numbers can be infinitely small in the negative direction). $\blacksquare$
 
-## Problem 2
+## Problem 7
 
 (Exercise 8.3, Comprehensive Application, Problem 7) Write down all numbers satisfying the following conditions:
 
@@ -30,7 +226,7 @@ By Real Numbers and the Number Line, real numbers can take continuous values on 
 
 (3) All integers whose absolute value is less than $\sqrt 6$.
 
-### Solution to Problem 2
+### Solution to Problem 7
 
 Estimate the range of each irrational number.
 
@@ -40,7 +236,7 @@ Estimate the range of each irrational number.
 
 (3) $\because 2^2=4< 6< 9=3^2$, $\therefore 2< \sqrt 6< 3$, so the integers whose absolute value is less than $\sqrt 6$ are $-2$, $-1$, $0$, $1$, $2$. $\blacksquare$
 
-## Problem 3
+## Problem 8
 
 (Exercise 8.3, Comprehensive Application, Problem 8) As shown in the figure, the areas of two squares inside a rectangle are $3\,\text{cm}^2$ and $1\,\text{cm}^2$ respectively.
 
@@ -50,7 +246,7 @@ Estimate the range of each irrational number.
 
 The figure shows a large rectangle containing two squares placed side by side: the larger square has area $3\,\text{cm}^2$ (side $\sqrt 3$), the smaller square has area $1\,\text{cm}^2$ (side $1$); the two shaded regions are the parts of the large rectangle remaining after removing the two squares.
 
-### Solution to Problem 3
+### Solution to Problem 8
 
 The square of area $3\,\text{cm}^2$ has side length $\sqrt 3\,\text{cm}$, and the square of area $1\,\text{cm}^2$ has side length $1\,\text{cm}$.
 
@@ -68,13 +264,13 @@ $$
 
 $\blacksquare$
 
-## Problem 4
+## Problem 9
 
 (Exercise 8.3, Extension and Exploration, Problem 9) Given the number $0.101001000100001\cdots$, its characteristic is: viewed from left to right, between two adjacent $1$'s there is successively one more $0$. Is this number rational or irrational? Why?
 
-### Solution to Problem 4
+### Solution to Problem 9
 
-By Irrational Number, a non-terminating non-repeating decimal is an irrational number.
+By **Definition 8.3.1 (Irrational Number)**, a non-terminating non-repeating decimal is an irrational number.
 
 Although the decimal part of this number is non-terminating, between two adjacent $1$'s there is successively one more $0$, so the decimal part has no repeating period; it is a non-terminating non-repeating decimal. Thus it is not a rational number but an irrational number. $\blacksquare$
 
@@ -128,7 +324,7 @@ Thus $A0$ paper has length about $1189\,\text{mm}$ and width about $841\,\text{m
 
 ### Solution to Activity 2
 
-By Cube Root, determine each digit using the pattern of cubes.
+By **Definition 8.2.1 (Cube Root)**, determine each digit using the pattern of cubes.
 
 (1) $\because 10^3=1000< 59319< 1000000=100^3$, $\therefore 10< \sqrt\left[3\right]{59319}< 100$, i.e. $\sqrt\left[3\right]{59319}$ is a two-digit number.
 
@@ -146,7 +342,7 @@ In summary, $\sqrt\left[3\right]{59319}=39$. $\blacksquare$
 
 ### Solution to Review Exercise 1
 
-By Square Root and Arithmetic Square Root.
+By **Definition 8.1.1 (Square Root)** and **Definition 8.1.2 (Arithmetic Square Root)**.
 
 (1) $\because\left(\pm 0.6\right)^2=0.36$, $\therefore$ the square roots are $\pm 0.6$, and the arithmetic square root is $0.6$.
 
@@ -164,7 +360,7 @@ By Square Root and Arithmetic Square Root.
 
 ### Solution to Review Exercise 2
 
-By Cube Root.
+By **Definition 8.2.1 (Cube Root)**.
 
 (1) $\because\left(\frac{3}{2}\right)^3=\frac{27}{8}$, $\therefore\sqrt\left[3\right]{\frac{27}{8}}=\frac{3}{2}$.
 
@@ -182,7 +378,7 @@ By Cube Root.
 
 ### Solution to Review Exercise 3
 
-By Arithmetic Square Root, Properties of Arithmetic Square Roots, and Cube Root.
+By **Definition 8.1.2 (Arithmetic Square Root)**, Properties of Arithmetic Square Roots, and **Definition 8.2.1 (Cube Root)**.
 
 (1) $1-\frac{16}{25}=\frac{9}{25}$, $\sqrt{\frac{9}{25}}=\frac{3}{5}$, so $-\sqrt{1-\frac{16}{25}}=-\frac{3}{5}$.
 
@@ -277,131 +473,3 @@ When $h=1.5$, $s=\sqrt{16.74\times 1.5}=\sqrt{25.11}\approx 5.01\,km$.
 When $h=8.7$, $s=\sqrt{16.74\times 8.7}=\sqrt{145.64}\approx 12.07\,km$.
 
 Thus by the sea she can see about $5.01\,km$, and standing on the rock about $12.07\,km$. $\blacksquare$
-
-## Review Exercise 10
-
-(Review Exercise, Extension and Exploration, Problem 10) A cube iron block is completely immersed in the water of a cylindrical glass, and the water level rises by $58\,mm$. If the inner base radius of the glass is $95\,mm$, what is the edge length of the cube in millimeters? (Take $\pi$ as $3.14$, take integers.)
-
-### Solution to Review Exercise 10
-
-The cylindrical volume of the raised water level equals the volume of the cube. The volume of the raised part is
-
-$$
-V=\pi r^2 h=3.14\times 95^2\times 58.
-$$
-
-Compute: $95^2=9025$, $V=3.14\times 9025\times 58=1645553\,\text{mm}^3$.
-
-Let the edge length of the cube be $x$; $x^3=1645553$, $x=\sqrt\left[3\right]{1645553}\approx 118$.
-
-That is, the edge length of the cube is about $118\,mm$. $\blacksquare$
-
-## Review Exercise 11
-
-(Review Exercise, Extension and Exploration, Problem 11)
-
-(1) How can the figure composed of $5$ small squares of side length $1$ (as shown) be cut and reassembled into a large square?
-
-(2) On the number line, draw the point corresponding to the side length of this large square.
-
-The figure shows a shape composed of $5$ small squares of side length $1$.
-
-### Solution to Review Exercise 11
-
-(1) The total area of the $5$ small squares of side length $1$ is $5$. The assembled large square also has area $5$, and by Square Root, the side length of the large square is $\sqrt 5$. Cut along the diagonals of the small-square grid and reassemble the cut right triangles to form a large square of side length $\sqrt 5$.
-
-(2) The side length of the large square is $\sqrt 5$. On the number line, draw an arc centered at the origin with radius $\sqrt 5$; its intersection with the positive axis represents $\sqrt 5$, and its intersection with the negative axis represents $-\sqrt 5$. $\blacksquare$
-
-## Exercise 1
-
-(Exercise 9.1, Problem 1) Write down the coordinates of points $A$, $B$, $C$, $D$, $E$, $F$ in the figure.
-
-The figure shows a Cartesian coordinate plane with $x$-axis, $y$-axis, and origin marked, and six points $A$, $B$, $C$, $D$, $E$, $F$ plotted.
-
-### Solution to Exercise 1
-
-By Coordinates of a Point, draw a perpendicular from the point to the $x$-axis to get the x-coordinate, and to the $y$-axis to get the y-coordinate. Reading off the coordinates of the points,
-
-$$
-A\left(-3,-2\right),\ B\left(-5,4\right),\ C\left(5,-4\right),\ D\left(0,-3\right),\ E\left(2,5\right),\ F\left(-4,0\right).
-$$
-
-Among them, $D$ is on the $y$-axis (x-coordinate $0$), and $F$ is on the $x$-axis (y-coordinate $0$). $\blacksquare$
-
-## Exercise 2
-
-(Exercise 9.1, Problem 2) In the rectangular coordinate system shown, plot the following points: $L\left(-5,-3\right)$, $M\left(4,0\right)$, $N\left(-6,2\right)$, $P\left(5,-3.5\right)$, $Q\left(0,5\right)$, $R\left(6,2\right)$.
-
-### Solution to Exercise 2
-
-By Coordinates of a Point, first find the x-coordinate on the $x$-axis, then find the y-coordinate on the $y$-axis; the intersection of the two perpendiculars is the point. Plot $L\left(-5,-3\right)$, $M\left(4,0\right)$, $N\left(-6,2\right)$, $P\left(5,-3.5\right)$, $Q\left(0,5\right)$, $R\left(6,2\right)$ in order. Among them, $M\left(4,0\right)$ is on the $x$-axis, and $Q\left(0,5\right)$ is on the $y$-axis. $\blacksquare$
-
-## Exercise 3
-
-(Exercise 9.1, Problem 3) According to the position of the point, fill in the table using "$+$" and "$-$".
-
-### Solution to Exercise 3
-
-By Quadrants, in the first quadrant both x- and y-coordinates are positive, in the second quadrant the x-coordinate is negative and the y-coordinate positive, in the third quadrant both are negative, and in the fourth quadrant the x-coordinate is positive and the y-coordinate negative.
-
-First quadrant: x-coordinate $+$, y-coordinate $+$; second quadrant: x-coordinate $-$, y-coordinate $+$; third quadrant: x-coordinate $-$, y-coordinate $-$; fourth quadrant: x-coordinate $+$, y-coordinate $-$. $\blacksquare$
-
-## Exercise 4
-
-(Exercise 9.1, Problem 1) On grid paper there are two points $A$, $B$. If a rectangular coordinate system is established with point $B$ as the origin, then the coordinates of point $A$ are $\left(-2,1\right)$. If a rectangular coordinate system is established with point $A$ as the origin, then the coordinates of point $B$ are (　　).
-
-(1) $\left(-2,1\right)$　(2) $\left(2,-1\right)$　(3) $\left(-2,-1\right)$　(4) $\left(2,1\right)$
-
-### Solution to Exercise 4
-
-By One-to-One Correspondence Between Points and Coordinates, the relative positions of the two points do not change; only the origin moves from $B$ to $A$.
-
-With $B$ as the origin, $A\left(-2,1\right)$, which means $A$ is $2$ units to the left of $B$ and $1$ unit above. Conversely, with $A$ as the origin, $B$ is $2$ units to the right of $A$ and $1$ unit below, so the coordinates of $B$ are $\left(2,-1\right)$. Choose (2). $\blacksquare$
-
-## Exercise 5
-
-(Exercise 9.1, Problem 2) As shown in the figure, in right triangle $ABC$, $\angle C=90^\circ$, $AC=3$, $BC=4$. Establish a rectangular coordinate system and write down the coordinates of the three vertices of triangle $ABC$.
-
-The figure shows a right triangle $ABC$ in a Cartesian coordinate plane, with $\angle C=90^\circ$, $AC=3$, $BC=4$.
-
-### Solution to Exercise 5
-
-By Rectangular Coordinate System, choose point $C$ as the origin, the line on which $CA$ lies as the $y$-axis, and the line on which $CB$ lies as the $x$-axis.
-
-Then $C\left(0,0\right)$. $AC=3$ in the positive $y$-axis direction, so $A\left(0,3\right)$. $BC=4$ in the positive $x$-axis direction, so $B\left(4,0\right)$.
-
-That is, $A\left(0,3\right)$, $B\left(4,0\right)$, $C\left(0,0\right)$. (With a different coordinate system, the coordinates change accordingly.) $\blacksquare$
-
-## Exercise 6
-
-(Exercise 9.1, Problem 3) The figure shows the cross-section of a piece of angle steel. Establish an appropriate rectangular coordinate system and use coordinates to represent the positions of the vertices of the angle steel (the side length of each small square in the figure represents $10\,cm$).
-
-### Solution to Exercise 6
-
-By Rectangular Coordinate System, choose one right-angle vertex of the angle steel as the origin, and take the lines on which the two sides lie as the positive directions of the $x$-axis and $y$-axis respectively. Each small grid represents $10\,cm$; according to the number of grids of each vertex relative to the origin, write down its coordinates (x-coordinate, y-coordinate, in units of $10\,cm$). $\blacksquare$
-
-## Problem 5
-
-(Exercise 9.1, Review and Consolidation, Problem 1) As shown in the figure, write down the coordinates of each point labeled with a letter, and indicate its x-coordinate and y-coordinate.
-
-### Solution to Problem 5
-
-By Coordinates of a Point, through each point draw perpendiculars to the $x$-axis and $y$-axis respectively, and read off the number corresponding to the foot. The coordinates of the points are
-
-$$
-A\left(-5,4\right),\ B\left(-2,2\right),\ C\left(4,4\right),\ D\left(2,1\right),\ E\left(5,-3\right),\ F\left(0,-2\right),\ G\left(-4,-4\right),\ H\left(-3,-1\right).
-$$
-
-The first number of each point is the x-coordinate, and the second number is the y-coordinate. $\blacksquare$
-
-## Problem 6
-
-(Exercise 9.1, Review and Consolidation, Problem 2) In the rectangular coordinate system, plot the following points: point $A$ is on the $y$-axis, above the origin, $2$ units of length from the origin; point $B$ is on the $x$-axis, to the right of the origin, $1$ unit of length from the origin; point $C$ is above the $x$-axis and to the right of the $y$-axis, at distance $2$ units of length from each coordinate axis; point $D$ is on the $x$-axis, to the right of the origin, $3$ units of length from the origin; point $E$ is above the $x$-axis and to the right of the $y$-axis, at distance $2$ units of length from the $x$-axis and $4$ units of length from the $y$-axis. Connect these points in order. What figure do you get?
-
-### Solution to Problem 6
-
-By Coordinates of a Point, the distance to the $x$-axis is the absolute value of the y-coordinate, and the distance to the $y$-axis is the absolute value of the x-coordinate.
-
-$A$ on the $y$-axis, $2$ from the origin (up): $A\left(0,2\right)$. $B$ on the $x$-axis, $1$ from the origin (right): $B\left(1,0\right)$. $C$ in the first quadrant, $2$ from both axes: $C\left(2,2\right)$. $D$ on the $x$-axis, $3$ from the origin (right): $D\left(3,0\right)$. $E$ at distance $2$ from the $x$-axis and $4$ from the $y$-axis (first quadrant): $E\left(4,2\right)$.
-
-Connect $A$, $B$, $C$, $D$, $E$ in order; a figure resembling an arrow (or a small house) is obtained. $\blacksquare$

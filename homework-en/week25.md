@@ -1,5 +1,156 @@
 # week25
 
+> **Definition 10.1.3 (Solution of a Linear Equation in Two Variables)**
+> 
+> The values of the two unknowns that make the two sides of the linear equation in two variables equal.
+
+> **Definition 10.1.4 (Solution of a System of Linear Equations in Two Variables)**
+> 
+> The common solution of the two equations in the system of linear equations in two variables.
+
+> **Definition 10.2.2 (Substitution Elimination)**
+> 
+> Express one unknown of one equation in terms of an expression containing the other unknown, then substitute it into the other equation to eliminate the unknown; abbreviated as substitution method.
+
+> **Definition 10.2.3 (Addition-Subtraction Elimination)**
+> 
+> When the coefficients of the same unknown in the two equations are opposite or equal, add or subtract both sides respectively to eliminate this unknown; abbreviated as addition-subtraction method.
+
+> **Method 10.3.1 (Solving Word Problems by Setting Up a System of Equations)**
+> 
+> Set up the unknowns, find the equal relationships, set up the system, solve and check.
+
+> **Definition 10.4.1 (System of Linear Equations in Three Variables)**
+> 
+> A system that contains three unknowns, the expressions containing the unknowns are all integral expressions, the degree of each term containing an unknown is $1$, and there are three equations in total.
+
+> **Method 10.4.2 (Solving a System of Linear Equations in Three Variables)**
+> 
+> Through substitution elimination or addition-subtraction elimination, first eliminate one unknown to convert the three-variable system into a two-variable system, then convert it into a one-variable linear equation.
+
+> **Definition 11.1.1 (Inequality)**
+> 
+> An expression using the symbols "$< $" or "$> $" to denote size/order relations.
+
+> **Property 11.1.1 (Property 1 of Inequalities)**
+> 
+> $a> b\Rightarrow a\pm c> b\pm c$.
+
+> **Definition 11.1.2 (Solution of an Inequality)**
+> 
+> A value of the unknown that makes the inequality hold.
+
+> **Property 11.1.2 (Property 2 of Inequalities)**
+> 
+> $a> b,\ c> 0\Rightarrow ac> bc$.
+
+> **Definition 11.1.3 (Solution Set of an Inequality)**
+> 
+> The set consisting of all the solutions of an inequality containing an unknown.
+
+> **Property 11.1.3 (Property 3 of Inequalities)**
+> 
+> $a> b,\ c< 0\Rightarrow ac< bc$.
+
+## Problem 1
+
+(Exercise 10.4, Extension and Exploration, Problem 5) The total distance from point A to point B is $3.3\ \text{km}$, consisting of an uphill section, a level section, and a downhill section. Keeping uphill at $3\ \text{km}$ per hour, level at $4\ \text{km}$ per hour, and downhill at $5\ \text{km}$ per hour, going from A to B takes $51\ \text{min}$, and returning from B to A takes $53.4\ \text{min}$. Going from A to B, what are the distances of the uphill, level, and downhill sections respectively?
+
+### Solution to Problem 1
+
+Let the uphill, level, and downhill sections be $x$, $y$, $z\ \text{km}$ respectively. According to the problem,
+
+$$
+\begin{cases}
+x+y+z=3.3,\\
+\frac{x}{3}+\frac{y}{4}+\frac{z}{5}=\frac{51}{60},\\
+\frac{z}{3}+\frac{y}{4}+\frac{x}{5}=\frac{53.4}{60}.
+\end{cases}
+$$
+
+Subtract the latter two equations: $\left(x-z\right)\left(\frac{1}{3}-\frac{1}{5}\right)=-0.04$, giving $x-z=-0.3$. Add the latter two equations: $\frac{8}{15}\left(x+z\right)+\frac{y}{2}=1.74$.
+
+From $x=z-0.3$, $y=3.6-2z$, substitute: $\left(2z-0.3\right)\frac{8}{15}+\frac{3.6-2z}{2}=1.74$, giving $z=1.5$, $x=1.2$, $y=0.6$. Thus uphill is $1.2\ \text{km}$, level is $0.6\ \text{km}$, downhill is $1.5\ \text{km}$. $\blacksquare$
+
+## Illustrated History of Mathematics 1
+
+(Illustrated History of Mathematics: Ancient Chinese Linear Systems) In the chapter "Fangcheng" of the *Nine Chapters on the Mathematical Art*, the direct division method is used to solve the system of three linear equations $\begin{cases}3x+2y+z=39,\\2x+3y+z=34,\\x+2y+3z=26.\end{cases}$ Try to solve this system.
+
+### Solution to Illustrated History of Mathematics 1
+
+By Solving a System of Linear Equations in Three Variables. Subtract the second from the first: $x-y=5$.
+
+Multiply the second equation by $3$ and subtract the first and third: $3\left(2x+3y+z\right)-\left(3x+2y+z\right)-\left(x+2y+3z\right)=3\times34-39-26=37$, giving $2x+5y-2z=37$. Switching the elimination: the approach of subtracting $3$ times the third equation from the first is more cumbersome, so substitute directly: from $x=y+5$, substitute into the first equation: $3\left(y+5\right)+2y+z=39$, i.e. $5y+z=24$. Substitute into the third: $\left(y+5\right)+2y+3z=26$, i.e. $3y+3z=21$, $y+z=7$.
+
+Solving $5y+z=24$, $y+z=7$; subtracting gives $4y=17$, $y=\frac{17}{4}$. Then $z=7-\frac{17}{4}=\frac{11}{4}$, $x=\frac{37}{4}$. Thus $x=\frac{37}{4}$, $y=\frac{17}{4}$, $z=\frac{11}{4}$. $\blacksquare$
+
+## Reading and Thinking 1
+
+(Reading and Thinking: Five Families Sharing a Well) Now there are five families sharing a well: family A's two ropes fall short by family B's one rope; family B's three ropes fall short by family C's one rope; family C's four ropes fall short by family D's one rope; family D's five ropes fall short by family E's one rope; family E's six ropes fall short by family A's one rope; and each family, adding the missing rope, just reaches the water. Let the rope lengths of the five families in order be $x$, $y$, $z$, $u$, $v$, and the well depth be $h$; then $\begin{cases}2x+y=h,\\3y+z=h,\\4z+u=h,\\5u+v=h,\\6v+x=h.\end{cases}$ Express $x$, $y$, $z$, $u$, $v$ all in terms of $h$.
+
+### Solution to Reading and Thinking 1
+
+By analogy with Solving a System of Linear Equations in Three Variables, substitute equation by equation.
+
+From $y=h-2x$. From $z=h-3y=h-3\left(h-2x\right)=6x-2h$. From $u=h-4z=h-4\left(6x-2h\right)=9h-24x$. From $v=h-5u=h-5\left(9h-24x\right)=120x-44h$. Substitute into the last equation: $6v+x=h$, i.e. $6\left(120x-44h\right)+x=h$, giving $721x=265h$, $x=\frac{265}{721}h$.
+
+Substituting back in order: $y=\frac{191}{721}h$, $z=\frac{148}{721}h$, $u=\frac{129}{721}h$, $v=\frac{73}{721}h$. $\blacksquare$
+
+## Activity 1
+
+(Mathematical Activity, Activity 1, Problem 1) In the rectangular coordinate system, mark some points whose coordinates are the solutions of the equation $x-y=0$; draw a line through any two of these points. What do you discover? Take any point on this line; are its coordinates a solution of the equation $x-y=0$?
+
+The figure shows a Cartesian coordinate plane with several points whose coordinates are solutions of the equation $x-y=0$; all these points lie on the line $y=x$.
+
+### Solution to Activity 1
+
+By **Definition 10.1.3 (Solution of a Linear Equation in Two Variables)**, the equation $x-y=0$ is $y=x$; it has infinitely many solutions, such as $\left(0,0\right)$, $\left(1,1\right)$, $\left(-1,-1\right)$, $\left(2,2\right)$, etc.
+
+Plotting these solutions as coordinates in the system, we find they all lie on the same line, which is $y=x$ (the angle bisector of the first and third quadrants). By the determinacy of a line, the line drawn through any two of them is this very line.
+
+Take any point on this line; its x-coordinate equals its y-coordinate, i.e. it satisfies $x-y=0$; thus the coordinates of this point are still a solution of the equation $x-y=0$. $\blacksquare$
+
+## Activity 2
+
+(Mathematical Activity, Activity 1, Problem 2) Based on the conclusion of the previous problem, in the same rectangular coordinate system draw the graphs of the two linear equations in the system
+
+$$
+\begin{cases}
+2x+y=4,\\
+x-y=-1
+\end{cases}
+$$
+
+and obtain the solution of this system from the graphs.
+
+The figure shows a Cartesian coordinate plane with the line $y=4-2x$ (through $\left(0,4\right)$ and $\left(2,0\right)$) and the line $y=x+1$ (through $\left(0,1\right)$ and $\left(1,2\right)$); the two lines intersect at the point $\left(1,2\right)$.
+
+### Solution to Activity 2
+
+The equation $2x+y=4$ is $y=4-2x$; take two points $\left(0,4\right)$, $\left(2,0\right)$ and connect them. The equation $x-y=-1$ is $y=x+1$; take two points $\left(0,1\right)$, $\left(1,2\right)$ and connect them.
+
+By **Definition 10.1.4 (Solution of a System of Linear Equations in Two Variables)**, the solution of the system is the common solution of the two equations, which on the graph is the intersection of the two lines. The two lines intersect at $\left(1,2\right)$, so the solution of the system is $\begin{cases}x=1,\\y=2.\end{cases}$
+
+Check by substitution: $2\times1+2=4$, $1-2=-1$, both hold. $\blacksquare$
+
+## Activity 3
+
+(Mathematical Activity, Activity 2, Problem 1) A car's front tire wears out after $60000\ \text{km}$ and the rear tire after $80000\ \text{km}$. If the front and rear tires are swapped only once during their service life, at what mileage should they be swapped so that both pairs wear out at the same time? Also find the total mileage when they wear out.
+
+### Solution to Activity 3
+
+Let $x\ \text{km}$ be the mileage at swap and $y\ \text{km}$ the total mileage when worn out. By Solving Word Problems by Setting Up a System of Equations, the front tire serves as the front tire for the first $x\ \text{km}$ and as the rear tire for the last $y-x\ \text{km}$; the rear tire serves as the rear tire for the first $x\ \text{km}$ and as the front tire for the last $y-x\ \text{km}$.
+
+Total wear of the front tire: $\frac{x}{60000}+\frac{y-x}{80000}=1$.
+
+Total wear of the rear tire: $\frac{x}{80000}+\frac{y-x}{60000}=1$.
+
+Subtracting the two equations gives $\frac{x}{60000}+\frac{y-x}{80000}=\frac{x}{80000}+\frac{y-x}{60000}$, simplifying to $y=2x$.
+
+Substitute into the first equation: $\frac{x}{60000}+\frac{x}{80000}=1$, i.e. $\frac{7x}{240000}=1$, giving $x=\frac{240000}{7}\approx34286\ \text{km}$, $y=\frac{480000}{7}\approx68571\ \text{km}$.
+
+Thus the swap should occur at about $34286\ \text{km}$, and the total mileage when worn out is about $68571\ \text{km}$. $\blacksquare$
+
 ## Review Exercise 1
 
 (Review Exercise, Review and Consolidation, Problem 1) Solve the following systems by the substitution method:
@@ -14,7 +165,7 @@
 
 ### Solution to Review Exercise 1
 
-By Substitution Elimination.
+By **Definition 10.2.2 (Substitution Elimination)**.
 
 (1) $2b+3=3b+20$, giving $b=-17$, $a=-31$.
 
@@ -38,7 +189,7 @@ By Substitution Elimination.
 
 ### Solution to Review Exercise 2
 
-By Addition-Subtraction Elimination.
+By **Definition 10.2.3 (Addition-Subtraction Elimination)**.
 
 (1) Add the two equations: $-m=22$, $m=-22$, $b=77$.
 
@@ -217,7 +368,7 @@ Thus there are two plans: buy $3$ type A and $33$ type C, or buy $7$ type B and 
 
 ### Solution to Exercise 1
 
-By Inequality.
+By **Definition 11.1.1 (Inequality)**.
 
 (1) $a> 0$.
 
@@ -241,7 +392,7 @@ $$
 
 ### Solution to Exercise 2
 
-By Solution of an Inequality, the values of $x$ making $x+3> 6$ hold are $x> 3$.
+By **Definition 11.1.2 (Solution of an Inequality)**, the values of $x$ making $x+3> 6$ hold are $x> 3$.
 
 Among the given numbers, $3.2> 3$, $4.8> 3$, $8> 3$, $12> 3$, so $3.2$, $4.8$, $8$, $12$ are solutions of the inequality. $\blacksquare$
 
@@ -355,7 +506,7 @@ The solution sets are represented on the number line as shown. $\blacksquare$
 
 ### Solution to Exercise 7
 
-By Inequality, the temperature is no lower than the lowest temperature and no higher than the highest temperature, so
+By **Definition 11.1.1 (Inequality)**, the temperature is no lower than the lowest temperature and no higher than the highest temperature, so
 
 $$
 19\le t\le28.
@@ -363,7 +514,7 @@ $$
 
 $\blacksquare$
 
-## Problem 1
+## Problem 2
 
 (Exercise 11.1, Review and Consolidation, Problem 1) Among the following numbers, which are solutions of the inequality $2x+3> 9$?
 
@@ -371,11 +522,11 @@ $$
 -4,\ -2,\ 0,\ 3,\ 3.01,\ 4,\ 6,\ 100.
 $$
 
-### Solution to Problem 1
+### Solution to Problem 2
 
-By Solution of an Inequality, $2x+3> 9$ is equivalent to $x> 3$. Among the given numbers, $3.01> 3$, $4> 3$, $6> 3$, $100> 3$, so $3.01$, $4$, $6$, $100$ are solutions. $\blacksquare$
+By **Definition 11.1.2 (Solution of an Inequality)**, $2x+3> 9$ is equivalent to $x> 3$. Among the given numbers, $3.01> 3$, $4> 3$, $6> 3$, $100> 3$, so $3.01$, $4$, $6$, $100$ are solutions. $\blacksquare$
 
-## Problem 2
+## Problem 3
 
 (Exercise 11.1, Review and Consolidation, Problem 2) Express each of the following using an inequality:
 
@@ -387,7 +538,7 @@ By Solution of an Inequality, $2x+3> 9$ is equivalent to $x> 3$. Among the given
 
 (4) in 2021 the number of good-air-quality days in a certain city exceeded the $224$ days of 2017 by more than $60$ days.
 
-### Solution to Problem 2
+### Solution to Problem 3
 
 (1) $a+5> 0$.
 
@@ -397,7 +548,7 @@ By Solution of an Inequality, $2x+3> 9$ is equivalent to $x> 3$. Among the given
 
 (4) Let the number of good-air-quality days in 2021 be $x$; then $x-224> 60$, i.e. $x> 284$. $\blacksquare$
 
-## Problem 3
+## Problem 4
 
 (Exercise 11.1, Review and Consolidation, Problem 3) Write directly the solution set of each inequality:
 
@@ -409,7 +560,7 @@ By Solution of an Inequality, $2x+3> 9$ is equivalent to $x> 3$. Among the given
 
 (4) $-3x< 10$.
 
-### Solution to Problem 3
+### Solution to Problem 4
 
 (1) $x> 4$.
 
@@ -419,7 +570,7 @@ By Solution of an Inequality, $2x+3> 9$ is equivalent to $x> 3$. Among the given
 
 (4) Dividing by $-3$ reverses the direction: $x> -\frac{10}{3}$. $\blacksquare$
 
-## Problem 4
+## Problem 5
 
 (Exercise 11.1, Review and Consolidation, Problem 4) Given $m> n$, fill in the blanks with "$> $" or "$< $":
 
@@ -431,7 +582,7 @@ By Solution of an Inequality, $2x+3> 9$ is equivalent to $x> 3$. Among the given
 
 (4) $m+3n\;\_\_\;4n$.
 
-### Solution to Problem 4
+### Solution to Problem 5
 
 (1) By Property 1: $m-5> n-5$.
 
@@ -440,183 +591,3 @@ By Solution of an Inequality, $2x+3> 9$ is equivalent to $x> 3$. Among the given
 (3) By Property 3: $-\frac{1}{3}m< -\frac{1}{3}n$.
 
 (4) From $m> n$ we get $m+3n> n+3n=4n$, hence $m+3n> 4n$. $\blacksquare$
-
-## Problem 5
-
-(Exercise 11.1, Review and Consolidation, Problem 5) Solve the following inequalities and represent their solution sets on a number line:
-
-(1) $x+3> -1$;
-
-(2) $6x\le5x-7$;
-
-(3) $-\frac{1}{3}y< \frac{2}{3}$;
-
-(4) $4y\ge-12$.
-
-The figure shows number lines representing the solution sets of four inequalities respectively: $x> -4$, $x\le-7$, $y> -2$, and $y\ge-3$.
-
-### Solution to Problem 5
-
-(1) $x> -4$.
-
-(2) Subtract $5x$ from both sides: $x\le-7$.
-
-(3) Multiply both sides by $-3$, reversing the direction: $y> -2$.
-
-(4) Divide both sides by $4$: $y\ge-3$.
-
-The solution sets are represented on the number line as shown. $\blacksquare$
-
-## Problem 6
-
-(Exercise 11.1, Comprehensive Application, Problem 6) The relationship between flame color and temperature: dark red begins at $650\,^\circ\text{C}$, cherry red begins at $750\,^\circ\text{C}$, and the temperature range between cherry red and dark red is about $650\sim750\,^\circ\text{C}$; a certain color tone has temperature $t$ satisfying $1260\le t\le1310\,^\circ\text{C}$. (1) Express the temperature range between dark red and cherry red using an inequality; (2) determine which color-tone segment $1260\le t\le1310$ belongs to.
-
-### Solution to Problem 6
-
-(1) The temperature $t$ satisfies $650\le t\le750$.
-
-(2) From $1260\le t\le1310$, by comparison with the temperature table, this range belongs to the higher-temperature segment between bright cherry red and deep orange-yellow. $\blacksquare$
-
-## Problem 7
-
-(Exercise 11.1, Comprehensive Application, Problem 7) Given $a> b$, fill in the blanks with "$> $" or "$< $":
-
-(1) $2a-5\;\_\_\;2b-5$;
-
-(2) $-3.5b+1\;\_\_\;-3.5a+1$.
-
-### Solution to Problem 7
-
-(1) From $a> b$, multiply by $2$ and subtract $5$: $2a-5> 2b-5$.
-
-(2) From $a> b$, multiply by $-3.5$, reversing the direction: $-3.5a< -3.5b$, then add $1$: $-3.5a+1< -3.5b+1$, i.e. $-3.5b+1> -3.5a+1$. $\blacksquare$
-
-## Problem 8
-
-(Exercise 11.1, Comprehensive Application, Problem 8) Express the following statements using inequalities, write the solution sets and represent them on a number line:
-
-(1) $3$ times $x$ is greater than $1$;
-
-(2) the sum of $x$ and $3$ is no less than $7$;
-
-(3) $\frac{1}{4}$ of $y$ is no greater than $-2$;
-
-(4) $2$ times $y$ is less than the difference between $y$ and $1$.
-
-### Solution to Problem 8
-
-(1) $3x> 1$, solution set $x> \frac{1}{3}$.
-
-(2) $x+3\ge7$, solution set $x\ge4$.
-
-(3) $\frac{y}{4}\le-2$, solution set $y\le-8$.
-
-(4) $2y< y-1$, solution set $y< -1$. $\blacksquare$
-
-## Problem 9
-
-(Exercise 11.1, Comprehensive Application, Problem 9) A part's blueprint specifies a length $L=40\pm0.02\ \text{mm}$. Within what range does the length $L$ of a qualified part lie?
-
-### Solution to Problem 9
-
-By the statement, $L$ is at most $0.02$ more than $40$ and at least $0.02$ less, so
-
-$$
-40-0.02\le L\le40+0.02,
-$$
-
-i.e. $39.98\le L\le40.02$. $\blacksquare$
-
-## Problem 10
-
-(Exercise 11.1, Comprehensive Application, Problem 10) The subway fare in a certain city: when the travel distance does not exceed a certain distance, the fare is $8$ yuan. Let the travel distance be $x\ \text{km}$; the distance range corresponding to the $8$-yuan fare is $0< x\le20$. Express the range of $x$ using an inequality.
-
-### Solution to Problem 10
-
-By Inequality, $0< x\le20$. $\blacksquare$
-
-## Problem 11
-
-(Exercise 11.1, Extension and Exploration, Problem 11) A two-digit number has tens digit $a$ and units digit $b$. Swapping the tens and units digits of this two-digit number gives a new number greater than the original. Compare $a$ and $b$.
-
-### Solution to Problem 11
-
-The original number is $10a+b$, and the new number after swapping is $10b+a$. By the statement
-
-$$
-10b+a> 10a+b.
-$$
-
-Subtract $a+b$ from both sides: $9b> 9a$, hence $b> a$. $\blacksquare$
-
-## Problem 12
-
-(Exercise 11.1, Extension and Exploration, Problem 12) Given three positive integers $a< b< c$ satisfying $\frac{1}{a}+\frac{1}{b}+\frac{1}{c}=1$. Find $a$, $b$, $c$.
-
-### Solution to Problem 12
-
-Since $a< b< c$ are positive integers, $a\ge2$ (if $a=1$ then $\frac{1}{a}=1$ and the other two terms are positive, making the sum greater than $1$). Also $\frac{1}{a}+\frac{1}{b}+\frac{1}{c}< \frac{3}{a}$, so $\frac{3}{a}> 1$, i.e. $a< 3$. Hence $a=2$.
-
-Then $\frac{1}{b}+\frac{1}{c}=\frac{1}{2}$. From $b< c$ we get $\frac{2}{b}> \frac{1}{2}$, i.e. $b< 4$; and $b> a=2$, so $b=3$. Then $\frac{1}{c}=\frac{1}{2}-\frac{1}{3}=\frac{1}{6}$, $c=6$.
-
-Verification: $\frac{1}{2}+\frac{1}{3}+\frac{1}{6}=1$, and $2< 3< 6$. Hence $a=2$, $b=3$, $c=6$. $\blacksquare$
-
-## Reading and Thinking 1
-
-(Reading and Thinking: Comparing Sizes by Taking the Difference) To make a certain product, Plan 1 uses $50$ sheets of type-$A$ steel plate and $70$ sheets of type-$B$ steel plate; Plan 2 uses $80$ sheets of type-$A$ steel plate and $30$ sheets of type-$B$ steel plate. Let each sheet of type-$A$ steel plate cost $a$ yuan and each sheet of type-$B$ steel plate cost $b$ yuan. Use the difference method to compare the material costs of the two plans.
-
-### Solution to Reading and Thinking 1
-
-The cost of Plan 1 is $50a+70b$, and the cost of Plan 2 is $80a+30b$. Taking the difference:
-
-$$
-\left(50a+70b\right)-\left(80a+30b\right)=40b-30a=10\left(4b-3a\right).
-$$
-
-When $4b> 3a$, the difference is positive, so Plan 1 costs more than Plan 2; when $4b< 3a$, Plan 1 costs less than Plan 2; when $4b=3a$, the two plans cost the same. $\blacksquare$
-
-## Exercise 8
-
-(Exercise 11.2, Problem 1) Solve the following inequalities and represent their solution sets on a number line:
-
-(1) $5x+15> 4x-1$;
-
-(2) $2\left(x+5\right)\le3\left(x-5\right)$;
-
-(3) $\frac{x-1}{7}> \frac{2x+5}{3}$;
-
-(4) $\frac{x+1}{6}\ge\frac{2x-5}{4}+1$.
-
-### Solution to Exercise 8
-
-By Solving a Linear Inequality in One Variable.
-
-(1) Transpose terms: $x> -16$.
-
-(2) $2x+10\le3x-15$, transpose terms: $x\ge25$.
-
-(3) Multiply by $21$: $3\left(x-1\right)> 7\left(2x+5\right)$, i.e. $3x-3> 14x+35$, giving $x< -\frac{38}{11}$.
-
-(4) Multiply by $12$: $2\left(x+1\right)\ge3\left(2x-5\right)+12$, i.e. $2x+2\ge6x-3$, giving $x\le\frac{5}{4}$. $\blacksquare$
-
-## Exercise 9
-
-(Exercise 11.2, Problem 2) Under what condition on $x$ or $y$ do the following relations hold?
-
-(1) $2\left(x+1\right)\ge1$;
-
-(2) $4x+7\ge6$;
-
-(3) $y-1\le2y-3$;
-
-(4) $\frac{3y+7}{4}< -2$.
-
-### Solution to Exercise 9
-
-(1) $2x+2\ge1$, giving $x\ge-\frac{1}{2}$.
-
-(2) $4x\ge-1$, giving $x\ge-\frac{1}{4}$.
-
-(3) $y-1\le2y-3$, giving $y\ge2$.
-
-(4) $3y+7< -8$, giving $y< -5$. $\blacksquare$

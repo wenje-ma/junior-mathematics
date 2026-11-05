@@ -1,5 +1,73 @@
 # week64
 
+> **Property 29.1.1 (Position of a Point Relative to a Circle)**
+> 
+> Let the radius of $\odot O$ be $r$, and let the distance from the point $P$ to the center be $OP=d$. Then: the point $P$ is outside the circle $\Leftrightarrow d> r$; the point $P$ is on the circle $\Leftrightarrow d=r$; the point $P$ is inside the circle $\Leftrightarrow d< r$.
+
+> **Theorem 29.1.1 (Three Points Determine a Circle)**
+> 
+> Three points not on the same line determine a circle. The circle passing through the three vertices of a triangle is called the circumcircle of the triangle, and the center of the circumcircle is called the circumcenter of the triangle.
+
+> **Theorem 29.2.1 (Perpendicular Chord Theorem)**
+> 
+> A diameter perpendicular to a chord bisects the chord and bisects the two arcs subtended by the chord.
+
+> **Theorem 29.2.2 (Relationship Among Central Angles, Arcs, and Chords)**
+> 
+> In the same circle or equal circles, equal central angles subtend equal arcs and equal chords; equal arcs subtend equal central angles and equal chords; equal chords subtend equal central angles, and their major arcs and minor arcs are respectively equal.
+
+> **Corollary 29.2.2 (Corollary to the Inscribed Angle Theorem)**
+> 
+> Inscribed angles subtended by the same arc or equal arcs are equal; the inscribed angle subtended by a semicircle (or a diameter) is a right angle; the chord subtended by an inscribed angle of $90^\circ$ is a diameter.
+
+> **Theorem 29.2.3 (Inscribed Angle Theorem)**
+> 
+> The inscribed angle subtended by an arc is half of the central angle subtended by that arc.
+
+> **Property 29.2.3 (Property of a Cyclic Quadrilateral)**
+> 
+> The opposite angles of a cyclic quadrilateral are supplementary.
+
+> **Formula 29.3.1 (Arc Length Formula)**
+> 
+> In a circle of radius $R$, the arc length subtended by a central angle of $n^\circ$ is $l=\frac{n\pi R}{180}$.
+
+> **Definition 29.3.1 (Generatrix of a Cone)**
+> 
+> The segment joining the vertex of a cone to any point on the circumference of its base is called the generatrix of the cone.
+
+> **Formula 29.3.2 (Sector Area Formula)**
+> 
+> In a circle of radius $R$, the area of a sector with central angle $n^\circ$ is $S=\frac{n\pi R^2}{360}=\frac12 lR$, where $l$ is the arc length of the sector.
+
+> **Formula 29.3.2 (Sector Area)**
+> 
+> $S=\frac{n\pi R^2}{360}=\frac12 lR$.
+
+> **Formula 29.3.3 (Lateral and Total Surface Area of a Cone)**
+> 
+> If the generatrix length of a cone is $l$ and the base radius is $r$, then the lateral area is $\pi rl$ and the total surface area is $\pi r\left(r+l\right)$.
+
+> **Definition 30.1.1 (Position of a Line Relative to a Circle)**
+> 
+> A line and a circle with no common point are called disjoint; with exactly one common point they are tangent, the line is called the tangent line to the circle, and the point is called the point of tangency; with two common points they are called intersecting.
+
+> **Property 30.1.1 (Position-Relation Criterion)**
+> 
+> Let the radius of $\odot O$ be $r$ and the distance from the center to the line be $d$; then $d> r$ means disjoint, $d=r$ means tangent, and $d< r$ means intersecting.
+
+> **Theorem 30.1.1 (Tangent Property)**
+> 
+> A tangent line to a circle is perpendicular to the radius through the point of tangency.
+
+> **Theorem 30.1.2 (Tangent Criterion)**
+> 
+> A line passing through the outer end of a radius and perpendicular to that radius is a tangent line to the circle.
+
+> **Theorem 30.1.3 (Tangent-Length Theorem)**
+> 
+> From a point outside a circle, the two tangent segments to the circle have equal length, and the line joining this point to the center bisects the angle between the two tangent lines.
+
 ## Problem 1
 
 (Exercise 29.3, Extension and Exploration, Problem 9) The figure shows a circular flower bed that is to be divided into four parts of equal area. Please provide at least two design schemes.
@@ -18,7 +86,7 @@ Method 2: Draw a concentric small circle (with radius half that of the large cir
 
 ### Solution to Activity 1
 
-By Relationship Among Central Angles, Arcs, and Chords.
+By **Theorem 29.2.2 (Relationship Among Central Angles, Arcs, and Chords)**.
 
 $AB$ is a diameter and $OC\perp AB$, so $\angle AOC=\angle COB=\angle BOD=\angle DOA=90^\circ$. Since equal central angles subtend equal arcs, $\overset{\frown}{AC}=\overset{\frown}{CB}=\overset{\frown}{BD}=\overset{\frown}{DA}$, dividing the circumference into four equal parts.
 
@@ -64,7 +132,7 @@ The condition that a circle can be drawn through the four vertices of a quadrila
 
 ### Solution to Review Problem 2
 
-By Three Points Determine a Circle.
+By **Theorem 29.1.1 (Three Points Determine a Circle)**.
 
 Draw the perpendicular bisector of $AB$; with $A$ as center and radius $3\,\text{cm}$, draw an arc meeting the perpendicular bisector at two points. Both points are centers, so two circles can be drawn. $\blacksquare$
 
@@ -78,7 +146,7 @@ Draw the perpendicular bisector of $AB$; with $A$ as center and radius $3\,\text
 
 ### Solution to Review Problem 3
 
-By Basic Knowledge and Basic Knowledge.
+By Basic Knowledge and **Theorem 29.2.1 (Perpendicular Chord Theorem)**.
 
 (1) $AC$ is a diameter, so $\angle ABC=\angle ADC=90^\circ$. $\angle BCD=180^\circ-\angle BAD=110^\circ$.
 
@@ -116,7 +184,7 @@ Let the radius of the large semicircle be $R$, and the radii of the small semici
 
 ### Solution to Review Problem 6
 
-By Three Points Determine a Circle.
+By **Theorem 29.1.1 (Three Points Determine a Circle)**.
 
 On each of the three arcs, take three points to construct the circumcircle, measure the radii, and compare. $\blacksquare$
 
@@ -136,7 +204,7 @@ The diagonals of a rhombus are perpendicular, and the distances from the four mi
 
 ### Solution to Review Problem 8
 
-By Three Points Determine a Circle.
+By **Theorem 29.1.1 (Three Points Determine a Circle)**.
 
 The circumcenter of an acute triangle lies inside the triangle; the circumcenter of a right triangle lies at the midpoint of the hypotenuse; the circumcenter of an obtuse triangle lies outside the triangle. $\blacksquare$
 
@@ -146,7 +214,7 @@ The circumcenter of an acute triangle lies inside the triangle; the circumcenter
 
 ### Solution to Review Problem 9
 
-By Three Points Determine a Circle.
+By **Theorem 29.1.1 (Three Points Determine a Circle)**.
 
 Draw the perpendicular bisectors of $AB$ and $BC$ to find the center, then measure the distance from the center to $A$, which is the radius. $\blacksquare$
 
@@ -156,7 +224,7 @@ Draw the perpendicular bisectors of $AB$ and $BC$ to find the center, then measu
 
 ### Solution to Review Problem 10
 
-By Inscribed Angle Theorem.
+By **Theorem 29.2.3 (Inscribed Angle Theorem)**.
 
 Compare $\angle PAQ$ and $\angle PBQ$: the larger viewing angle gives the better shooting opportunity. If the angle subtended by the goal $PQ$ at $B$ is larger, it is better to pass to B; otherwise it is better for A to shoot directly. $\blacksquare$
 
@@ -192,7 +260,7 @@ Compute the sum of the lateral area of the cylinder and the lateral area of the 
 
 ### Solution to Review Problem 13
 
-By Inscribed Angle Theorem.
+By **Theorem 29.2.3 (Inscribed Angle Theorem)**.
 
 $BC$ is a diameter, so $\angle BDC=\angle BEC=90^\circ$. $\angle DOE=2\angle DBE=2\angle A=120^\circ$. Also $OD=OE$, so $\triangle ODE$ is an isosceles triangle with vertex angle $120^\circ$. $\blacksquare$
 
@@ -206,7 +274,7 @@ $BC$ is a diameter, so $\angle BDC=\angle BEC=90^\circ$. $\angle DOE=2\angle DBE
 
 ### Solution to Review Problem 14
 
-By Basic Knowledge and Basic Knowledge.
+By **Theorem 29.2.1 (Perpendicular Chord Theorem)** and **Corollary 29.2.2 (Corollary to the Inscribed Angle Theorem)**.
 
 (1) $AB=a+b$, and $OC=\frac{a+b}{2}$. By the altitude-orthogonality theorem, $CD^2=AD\cdot BD=ab$, so $CD=\sqrt{ab}$.
 
@@ -262,7 +330,7 @@ The distance from $M$ to $OA$ is $d=OM\sin30^\circ=2.5$.
 
 ### Solution to Exercise 3
 
-By Tangent Criterion.
+By **Theorem 30.1.2 (Tangent Criterion)**.
 
 $AB$ is a diameter, and $O$ lies on $AB$. $AB=AC$ and $\angle ABC=45^\circ$, so $\angle ACB=45^\circ$ and $\angle BAC=90^\circ$, i.e. $AC\perp AB$. Also $A$ lies on the circle, so $AC$ is a tangent line to $\odot O$. $\blacksquare$
 
@@ -272,7 +340,7 @@ $AB$ is a diameter, and $O$ lies on $AB$. $AB=AC$ and $\angle ABC=45^\circ$, so 
 
 ### Solution to Exercise 4
 
-By Tangent Property.
+By **Theorem 30.1.1 (Tangent Property)**.
 
 $l_1\perp AB$ and $l_2\perp AB$, so $l_1\parallel l_2$. $\blacksquare$
 
@@ -282,7 +350,7 @@ $l_1\perp AB$ and $l_2\perp AB$, so $l_1\parallel l_2$. $\blacksquare$
 
 ### Solution to Exercise 5
 
-By Basic Knowledge and Perpendicular Chord Theorem.
+By **Theorem 30.1.1 (Tangent Property)** and **Theorem 29.2.1 (Perpendicular Chord Theorem)**.
 
 $OP\perp AB$; by the perpendicular chord theorem, $P$ bisects $AB$, so $AP=BP$. $\blacksquare$
 
@@ -292,7 +360,7 @@ $OP\perp AB$; by the perpendicular chord theorem, $P$ bisects $AB$, so $AP=BP$. 
 
 ### Solution to Exercise 6
 
-By Tangent-Length Theorem.
+By **Theorem 30.1.3 (Tangent-Length Theorem)**.
 
 $PA=PB$ and $OA\perp PA$, so $\angle PAB=90^\circ-25^\circ=65^\circ$. $\angle PBA=\angle PAB=65^\circ$, so $\angle P=180^\circ-130^\circ=50^\circ$. $\blacksquare$
 
@@ -306,7 +374,7 @@ $PA=PB$ and $OA\perp PA$, so $\angle PAB=90^\circ-25^\circ=65^\circ$. $\angle PB
 
 ### Solution to Exercise 7
 
-By Tangent-Length Theorem.
+By **Theorem 30.1.3 (Tangent-Length Theorem)**.
 
 (1) $OA\perp PA$, $OB\perp PB$, $OP\perp AB$.
 
@@ -344,7 +412,7 @@ $AB=5$, and the distance from $C$ to $AB$ is $d=\frac{AC\cdot BC}{AB}=\frac{12}{
 
 ### Solution to Problem 3
 
-By Tangent Property.
+By **Theorem 30.1.1 (Tangent Property)**.
 
 (1) $VT=\sqrt{UV^2-r^2}=\sqrt{28^2-25^2}=\sqrt{159}\approx12.6\,\text{cm}$.
 
@@ -356,7 +424,7 @@ By Tangent Property.
 
 ### Solution to Problem 4
 
-By Tangent Criterion.
+By **Theorem 30.1.2 (Tangent Criterion)**.
 
 Join $OC$. $OA=OB$ and $CA=CB$, so $OC\perp AB$ (the three-line coincidence in an isosceles triangle). $C$ lies on the circle, so $AB$ is a tangent. $\blacksquare$
 
@@ -366,7 +434,7 @@ Join $OC$. $OA=OB$ and $CA=CB$, so $OC\perp AB$ (the three-line coincidence in a
 
 ### Solution to Problem 5
 
-By Basic Knowledge and Basic Knowledge.
+By **Theorem 30.1.1 (Tangent Property)** and **Corollary 29.2.2 (Corollary to the Inscribed Angle Theorem)**.
 
 $BC$ is a tangent, so $BC\perp AB$. $AD=DC$, and in $\text{Rt}\triangle ABC$, $D$ is the midpoint of $AC$, so $BD=AD=DC$, and $\triangle ABD$ is isosceles. Also $AB$ is a diameter, so $\angle ADB=90^\circ$, and hence $\angle ABD=45^\circ$. $\blacksquare$
 
@@ -376,7 +444,7 @@ $BC$ is a tangent, so $BC\perp AB$. $AD=DC$, and in $\text{Rt}\triangle ABC$, $D
 
 ### Solution to Problem 6
 
-By Tangent-Length Theorem.
+By **Theorem 30.1.3 (Tangent-Length Theorem)**.
 
 $\angle BCE=35^\circ$, and the angle between a tangent and a chord equals the inscribed angle subtended, so $\angle BAC=35^\circ$. $\angle P=180^\circ-2\times\left(90^\circ-35^\circ\right)=70^\circ$. $\blacksquare$
 
@@ -386,7 +454,7 @@ $\angle BCE=35^\circ$, and the angle between a tangent and a chord equals the in
 
 ### Solution to Problem 7
 
-By Tangent Criterion.
+By **Theorem 30.1.2 (Tangent Criterion)**.
 
 Join $OB$. From the related calculation of $\angle BOC=2\angle BDC=2\left(180^\circ-\angle A-\angle C\right)$: $\angle OBC=\angle C=27^\circ$, and $\angle ABO=180^\circ-36^\circ-27^\circ-27^\circ=90^\circ$, so $AB\perp OB$, and $AB$ is a tangent. $\blacksquare$
 
@@ -396,7 +464,7 @@ Join $OB$. From the related calculation of $\angle BOC=2\angle BDC=2\left(180^\c
 
 ### Solution to Problem 8
 
-By Tangent Property.
+By **Theorem 30.1.1 (Tangent Property)**.
 
 The two walls are mutually perpendicular tangent lines, and the distance from the center to each wall equals the radius $r$. $WY$ is the horizontal projection of the distance from the center to the wall corner, so $r=WY=0.65\,\text{m}$. $\blacksquare$
 
@@ -406,7 +474,7 @@ The two walls are mutually perpendicular tangent lines, and the distance from th
 
 ### Solution to Problem 9
 
-By Tangent-Length Theorem.
+By **Theorem 30.1.3 (Tangent-Length Theorem)**.
 
 $BO$ bisects $\angle ABC$, and $CO$ bisects $\angle BCD$. $AB\parallel CD$, so $\angle ABC+\angle BCD=180^\circ$, hence $\angle OBC+\angle OCB=90^\circ$ and $\angle BOC=90^\circ$. $BC=\sqrt{6^2+8^2}=10$. $\blacksquare$
 
@@ -416,7 +484,7 @@ $BO$ bisects $\angle ABC$, and $CO$ bisects $\angle BCD$. $AB\parallel CD$, so $
 
 ### Solution to Problem 10
 
-By Tangent Property.
+By **Theorem 30.1.1 (Tangent Property)**.
 
 Join $OC$. $OC\perp CD$ and $AD\perp CD$, so $OC\parallel AD$. $\angle DAC=\angle OCA=\angle OAC$, so $AC$ bisects $\angle DAB$. $\blacksquare$
 
@@ -426,7 +494,7 @@ Join $OC$. $OC\perp CD$ and $AD\perp CD$, so $OC\parallel AD$. $\angle DAC=\angl
 
 ### Solution to Problem 11
 
-By Basic Knowledge and Basic Knowledge.
+By **Theorem 30.1.1 (Tangent Property)** and **Theorem 29.2.3 (Inscribed Angle Theorem)**.
 
 $DP\parallel AC$, so $\angle PDB=\angle BAC=38^\circ$. $DP$ is a tangent, and the tangent-chord angle gives $\angle BDP=\angle BAD=38^\circ$. From the related calculation of $\angle ACD=\angle ABD$, we get $\angle ACD=26^\circ$. $\blacksquare$
 
@@ -436,7 +504,7 @@ $DP\parallel AC$, so $\angle PDB=\angle BAC=38^\circ$. $DP$ is a tangent, and th
 
 ### Solution to Problem 12
 
-By Tangent Criterion.
+By **Theorem 30.1.2 (Tangent Criterion)**.
 
 Join $OE$ and $AE$. $AB$ is a diameter, so $\angle AEB=90^\circ$; $D$ is the midpoint of the hypotenuse $AC$ of $\text{Rt}\triangle AEC$, so $DE=DA=DC$. $OE=OA$, $OD$ is common, and $\triangle ODE\cong\triangle ODA$, so $\angle OED=\angle OAD=90^\circ$, and hence $DE$ is a tangent. $\blacksquare$
 
@@ -446,7 +514,7 @@ Join $OE$ and $AE$. $AB$ is a diameter, so $\angle AEB=90^\circ$; $D$ is the mid
 
 ### Solution to Problem 13
 
-By Inscribed Angle Theorem.
+By **Theorem 29.2.3 (Inscribed Angle Theorem)**.
 
 The two equal circles have equal radii, so $O_1O_2=r$. $\triangle O_1AO_2$ is equilateral, so $\angle O_1AO_2=60^\circ$. $AB\perp O_1O_2$, so $\angle O_1AB=30^\circ$. $\blacksquare$
 

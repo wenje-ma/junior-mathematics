@@ -1,6 +1,96 @@
 # week44
 
+> **Definition 19.1.1 (Quadratic Radical)**
+> 
+> An expression of the form \(\sqrt{a}\) (\(a\ge 0\)) is called a quadratic radical.
+
+> **Property 19.1.1 (Nonnegativity of Quadratic Radicals)**
+> 
+> When \(a\ge 0\), \(\sqrt{a}\ge 0\).
+
+> **Rule 19.2.1 (Multiplication)**
+> 
+> \(\sqrt{a}\cdot\sqrt{b}=\sqrt{ab}\) (\(a\ge 0,\ b\ge 0\)).
+
+> **Rule 19.2.2 (Multiplication in Reverse)**
+> 
+> \(\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}\) (\(a\ge 0,\ b\ge 0\)).
+
+> **Rule 19.2.3 (Division)**
+> 
+> \(\frac{\sqrt{a}}{\sqrt{b}}=\sqrt{\frac{a}{b}}\) (\(a\ge 0,\ b> 0\)).
+
+> **Rule 19.2.4 (Division in Reverse)**
+> 
+> \(\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}\) (\(a\ge 0,\ b> 0\)).
+
+> **Rule 19.3.1 (Addition and Subtraction)**
+> 
+> When adding and subtracting quadratic radicals, first reduce the quadratic radicals to simplest form, and then combine the quadratic radicals with the same radicand; the method of combining is similar to combining like terms.
+
+> **Conclusion 19.3.1 (Heron–Qin Jiushao Formula)**
+> 
+> If the three side lengths of a triangle are \(a,b,c\), write \(p=\frac{a+b+c}{2}\), then the triangle area is \(S=\sqrt{p(p-a)(p-b)(p-c)}\).
+
+> **Rule 19.3.2 (Mixed Operations)**
+> 
+> In the mixed operations of addition, subtraction, multiplication, division and powers of quadratic radicals, the operation order and operation laws for real numbers as well as the polynomial multiplication formulas still apply.
+
 ## Exercise 1
+
+(Exercise 19.3, Problem 1)
+
+Are the following calculations correct? Why?
+
+(1) \(\sqrt{4}+\sqrt{9}=\sqrt{4+9}\); (2) \(\sqrt{8}-\sqrt{3}=\sqrt{8-3}\); (3) \(3\sqrt{2}-\sqrt{2}=2\sqrt{2}\).
+
+By Basic Knowledge, quadratic radicals must first be simplified before combining those with the same radicand; one cannot directly add or subtract the radicands.
+
+(1) Incorrect. The left side \(=2+3=5\), while the right side \(=\sqrt{13}\ne 5\).
+
+(2) Incorrect. \(\sqrt{8}\) and \(\sqrt{3}\) have different radicands and cannot be combined; the left side cannot be further simplified to \(\sqrt{5}\).
+
+(3) Correct. \(3\sqrt{2}-\sqrt{2}=(3-1)\sqrt{2}=2\sqrt{2}\).
+
+\(\blacksquare\)
+
+(Exercise 19.3, Problem 2)
+
+Calculate:
+
+(1) \(2\sqrt{7}-6\sqrt{7}\); (2) \(\sqrt{12}+\sqrt{27}-3\sqrt{\frac{1}{3}}\); (3) \(\sqrt{18}+(\sqrt{98}-\sqrt{27})\); (4) \(\left(\sqrt{24}+\sqrt{0.5}\right)-\left(\sqrt{\frac{1}{8}}-\sqrt{6}\right)\).
+
+By Basic Knowledge, first simplify and then combine.
+
+(1) \(2\sqrt{7}-6\sqrt{7}=(2-6)\sqrt{7}=-4\sqrt{7}\).
+
+(2) \(\sqrt{12}+\sqrt{27}-3\sqrt{\frac{1}{3}}=2\sqrt{3}+3\sqrt{3}-\sqrt{3}=4\sqrt{3}\).
+
+(3) \(\sqrt{18}+(\sqrt{98}-\sqrt{27})=3\sqrt{2}+7\sqrt{2}-3\sqrt{3}=10\sqrt{2}-3\sqrt{3}\).
+
+(4) \(\left(\sqrt{24}+\sqrt{0.5}\right)-\left(\sqrt{\frac{1}{8}}-\sqrt{6}\right)=2\sqrt{6}+\frac{\sqrt{2}}{2}-\frac{\sqrt{2}}{4}+\sqrt{6}=3\sqrt{6}+\frac{\sqrt{2}}{4}\).
+
+\(\blacksquare\)
+
+(Exercise 19.3, Problem 3)
+
+As shown in the figure, two circles have the same center, and their areas are \(62.8\) and \(141.3\), respectively. Find the width \(d\) of the annulus (take \(\pi=3.14\)).
+
+Let the radius of the large circle be \(R\) and the radius of the small circle be \(r\); then \(d=R-r\).
+
+By the circle area formula, \(\pi R^{2}=141.3\), \(\pi r^{2}=62.8\).
+
+Hence
+
+$$
+R=\sqrt{\frac{141.3}{3.14}}=\sqrt{45}=3\sqrt{5},\quad r=\sqrt{\frac{62.8}{3.14}}=\sqrt{20}=2\sqrt{5}.
+$$
+
+Therefore \(d=R-r=3\sqrt{5}-2\sqrt{5}=\sqrt{5}\).
+
+\(\blacksquare\)
+
+## Exercise 2
 
 (Exercise 19.3, Problem 1)
 
@@ -280,7 +370,7 @@ Under what conditions on \(x\) are the following expressions meaningful over the
 
 (1) \(\sqrt{3+x}\); (2) \(\frac{1}{\sqrt{2x-1}}\); (3) \(\frac{1}{\sqrt{2-3x}}\); (4) \(\sqrt{(x-1)^{2}}\).
 
-By Basic Knowledge, the radicand must be nonnegative, and the denominator must also be nonzero.
+By **Definition 19.1.1 (Quadratic Radical)**, the radicand must be nonnegative, and the denominator must also be nonzero.
 
 (1) \(3+x\ge 0\), giving \(x\ge -3\).
 
@@ -421,71 +511,5 @@ $$
 $$
 
 Since the current is nonnegative, \(I=\sqrt{6}\approx 2.45\ \text{A}\).
-
-\(\blacksquare\)
-
-## Review Problem 3
-
-(Review Problem, Extension and Exploration, Problem 9)
-
-Given that \(n\) is a positive integer and \(\sqrt{189n}\) is an integer, find the minimum value of \(n\).
-
-Factor \(189\) into primes: \(189=3^{3}\times 7\).
-
-For \(189n\) to be a perfect square, the exponents of all prime factors must be even; hence \(n\) must supply at least one more \(3\) and one more \(7\).
-
-Hence \(n=3\times 7=21\).
-
-Then \(189n=3969=63^{2}\), so the minimum value of \(n\) is \(21\).
-
-\(\blacksquare\)
-
-(Review Problem, Extension and Exploration, Problem 10)
-
-(1) Divide the area of a circle into four equal parts. How many ways of dividing can you think of?
-
-(2) As shown in the figure, three concentric circles centered at \(O\) divide the area of the large circle \(O\) (with radius \(OA\)) into four equal parts. If \(OA=r\), find the lengths of the radii \(OB,OC,OD\) of these three circles.
-
-(1) Draw two mutually perpendicular diameters through the center to divide the circle's area into four equal parts; one may also divide the circle into four sectors. There is more than one way.
-
-(2) By the problem, the four annular regions (including the innermost circle) each occupy \(\frac{1}{4}\) of the large circle's area.
-
-Let the radii of the four circles be \(OD< OC< OB< OA=r\).
-
-The area of the innermost circle is \(\frac{1}{4}\pi r^{2}\), so \(\pi OD^{2}=\frac{1}{4}\pi r^{2}\), giving \(OD=\frac{r}{2}\).
-
-The combined area of the two inner circles is \(\frac{1}{2}\pi r^{2}\), so \(\pi OC^{2}=\frac{1}{2}\pi r^{2}\), giving \(OC=\frac{r}{\sqrt{2}}=\frac{\sqrt{2}r}{2}\).
-
-The combined area of the three inner circles is \(\frac{3}{4}\pi r^{2}\), so \(\pi OB^{2}=\frac{3}{4}\pi r^{2}\), giving \(OB=\frac{\sqrt{3}r}{2}\).
-
-\(\blacksquare\)
-
-(Review Problem, Extension and Exploration, Problem 11)
-
-Determine whether the following equalities hold:
-
-$$
-\sqrt{2+\frac{2}{3}}=2\sqrt{\frac{2}{3}},\quad \sqrt{3+\frac{3}{8}}=3\sqrt{\frac{3}{8}},\quad \sqrt{4+\frac{4}{15}}=4\sqrt{\frac{4}{15}}.
-$$
-
-If they hold, can you see the pattern? Express this pattern using letters, and give a proof.
-
-Verify the first: the left side is \(\sqrt{\frac{8}{3}}\), and the right side \(2\sqrt{\frac{2}{3}}=\sqrt{\frac{8}{3}}\), so it holds.
-
-Similarly, the second \(\sqrt{\frac{27}{8}}=3\sqrt{\frac{3}{8}}\) and the third \(\sqrt{\frac{64}{15}}=4\sqrt{\frac{4}{15}}\) both hold.
-
-Pattern: for an integer \(n\) greater than \(1\),
-
-$$
-\sqrt{n+\frac{n}{n^{2}-1}}=n\sqrt{\frac{n}{n^{2}-1}}.
-$$
-
-Proof: the radicand on the left side
-
-$$
-n+\frac{n}{n^{2}-1}=\frac{n\left(n^{2}-1\right)+n}{n^{2}-1}=\frac{n^{3}}{n^{2}-1}=n^{2}\cdot\frac{n}{n^{2}-1}.
-$$
-
-By Basic Knowledge, taking the square root gives \(n\sqrt{\frac{n}{n^{2}-1}}\), which equals the right side.
 
 \(\blacksquare\)

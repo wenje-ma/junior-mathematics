@@ -1,6 +1,198 @@
 # week18
 
+> **Theorem 7.1.1 (Vertical Angles Are Equal)**
+> 
+> Vertical angles are equal.
+
+> **Theorem 7.1.2 (The Perpendicular Segment Is the Shortest)**
+> 
+> Among all segments joining a point outside a line to points on the line, the perpendicular segment is the shortest. Stated briefly: the perpendicular segment is the shortest.
+
+> **Definition 7.1.3 (Perpendicular)**
+> 
+> When one of the four angles formed by two intersecting lines is a right angle, the two lines are said to be perpendicular to each other, written $a\perp b$. One of the lines is called the perpendicular line of the other, and the intersection is called the foot of the perpendicular.
+
+> **Basic Fact 7.2.1 (Parallel Axiom)**
+> 
+> Through a point outside a given line there is exactly one line parallel to the given line.
+
+> **Theorem 7.2.1 (Transitivity of Parallelism)**
+> 
+> If two lines are both parallel to a third line, then these two lines are also parallel to each other. That is, if $b\parallel a$, $c\parallel a$, then $b\parallel c$.
+
+> **Property 7.2.1 (Property 1)**
+> 
+> When two parallel lines are cut by a third line, the corresponding angles are equal. In short: parallel lines give equal corresponding angles.
+
+> **Basic Fact 7.2.2 (Criterion 1)**
+> 
+> If two lines are cut by a third line and the corresponding angles are equal, then the two lines are parallel. In short: equal corresponding angles imply parallel lines.
+
+> **Theorem 7.2.2 (Criterion 2)**
+> 
+> If two lines are cut by a third line and the alternate interior angles are equal, then the two lines are parallel. In short: equal alternate interior angles imply parallel lines.
+
+> **Property 7.2.2 (Property 2)**
+> 
+> When two parallel lines are cut by a third line, the alternate interior angles are equal. In short: parallel lines give equal alternate interior angles.
+
+> **Theorem 7.2.3 (Criterion 3)**
+> 
+> If two lines are cut by a third line and the consecutive interior angles are supplementary, then the two lines are parallel. In short: supplementary consecutive interior angles imply parallel lines.
+
+> **Property 7.2.3 (Property 3)**
+> 
+> When two parallel lines are cut by a third line, the consecutive interior angles are supplementary. In short: parallel lines give supplementary consecutive interior angles.
+
+> **Property 7.4.1 (Properties of Translation)**
+> 
+> After translation, the new figure has exactly the same shape and size as the original figure; the segments connecting each pair of corresponding points are parallel (or lie on the same line) and equal.
+
+> **Definition 8.1.1 (Square Root)**
+> 
+> If a number $x$ has square equal to $a$, i.e. $x^2=a$, then this number $x$ is called a square root (or second root) of $a$. The operation of finding the square root of a number is called extracting the square root, and extracting the square root and squaring are inverse operations of each other.
+
+> **Property 8.1.1 (Properties of Square Roots)**
+> 
+> A positive number has two square roots, which are opposite numbers of each other; the square root of $0$ is $0$; a negative number has no square root.
+
+> **Definition 8.1.2 (Arithmetic Square Root)**
+> 
+> The positive square root $\sqrt a$ of a positive number $a$ is called the arithmetic square root of $a$, and $a$ is called the radicand. It is stipulated that the arithmetic square root of $0$ is $0$, i.e. $\sqrt 0=0$. The square roots of a positive number $a$ are denoted by $\pm\sqrt a$.
+
+> **Property 8.1.2 (Size of the Arithmetic Square Root)**
+> 
+> The larger the radicand, the larger the corresponding arithmetic square root (this holds for all positive numbers).
+
+> **Property 8.1.3 (Relationship Between Squaring and Extracting Roots)**
+> 
+> For any nonnegative number $a$, $\left(\sqrt a\right)^2=a$; for any number $a$, $\sqrt{a^2}=\left|a\right|$.
+
 ## Review Exercise 1
+
+(Review Exercise, Review and Consolidation, Problem 2) The figure is a schematic diagram of a bent pipe, with corner angles $\angle ABC=120^\circ$, $\angle BCD=60^\circ$. Is it correct to say that pipes $AB$ and $DC$ are parallel? Why?
+
+### Solution to Review Exercise 1
+
+This statement is correct: $AB\parallel DC$.
+
+$\angle ABC$ and $\angle BCD$ are the consecutive interior angles formed when lines $AB$, $DC$ are cut by line $BC$, and their sum is
+
+$$
+\angle ABC+\angle BCD=120^\circ+60^\circ=180^\circ.
+$$
+
+By **Theorem 7.2.3 (Criterion 3)**, supplementary consecutive interior angles imply parallel lines, so $AB\parallel DC$. $\blacksquare$
+
+## Review Exercise 2
+
+(Review Exercise, Review and Consolidation, Problem 3) True or false.
+
+(1) $a$, $b$, $c$ are lines; if $a\parallel b$, $b\parallel c$, then $a\parallel c$;
+
+(2) $a$, $b$, $c$ are lines; if $a\perp b$, $b\perp c$, then $a\perp c$.
+
+### Solution to Review Exercise 2
+
+(1) Correct. By **Theorem 7.2.1 (Transitivity of Parallelism)**, if two lines are both parallel to a third line, then these two lines are also parallel to each other, so $a\parallel c$.
+
+(2) Wrong. In the same plane, if $a\perp b$ and $b\perp c$, then the corresponding angles that $a$, $c$ make with $b$ are both $90^\circ$; by Criterion 1, equal corresponding angles imply parallel lines, so it should be $a\parallel c$, not $a\perp c$. Thus it is judged wrong. $\blacksquare$
+
+## Review Exercise 3
+
+(Review Exercise, Review and Consolidation, Problem 4) Draw the figures according to the following statements:
+
+(1) Through the midpoint $C$ of segment $AB$, draw $CD\perp AB$;
+
+(2) The distance from point $P$ to line $AB$ is $3\,\text{cm}$; through point $P$ draw the perpendicular to line $AB$;
+
+(3) Through a point $P$ inside triangle $ABC$, draw lines parallel to $AB$, $BC$, $AC$ respectively.
+
+The figure contains three small diagrams: (1) segment $AB$ with its midpoint $C$, and $CD\perp AB$ through $C$; (2) a point $P$ outside line $AB$, with the distance from $P$ to $AB$ equal to $3\,\text{cm}$, and the perpendicular from $P$ to $AB$; (3) a point $P$ inside triangle $ABC$, with lines through $P$ parallel to $AB$, $BC$, $AC$ respectively.
+
+### Solution to Review Exercise 3
+
+Draw step by step according to the statements: first take the midpoint $C$ of segment $AB$, and use a set square through $C$ to draw $CD\perp AB$; then measure the distance from point $P$ to line $AB$ as $3\,\text{cm}$, and through $P$ draw the perpendicular to $AB$; finally, by Parallel Axiom, through point $P$ draw lines parallel to $AB$, $BC$, $AC$ respectively. This gives the figure satisfying the statements. $\blacksquare$
+
+## Review Exercise 4
+
+(Review Exercise, Review and Consolidation, Problem 5) As shown in the figure, a person rides a bicycle from point $A$ due east to point $B$, then changes direction to east by south $15^\circ$, and after riding to point $C$ continues due east. Draw the route of continued travel.
+
+The figure shows a route diagram: from point $A$ a segment due east to $B$, from $B$ a segment at $15^\circ$ south of east to $C$, with the due-east direction marked.
+
+### Solution to Review Exercise 4
+
+From $A$ draw a line due east to $B$, from $B$ draw a line east by south $15^\circ$ to $C$, then from $C$ resume the due east direction and continue drawing. Since from $C$ the direction returns to due east, it is the same direction as $AB$; by the corresponding-angle relationships in Property 1, the turning of the route is self-consistent. Draw the route in the directions described above. $\blacksquare$
+
+## Review Exercise 5
+
+(Review Exercise, Review and Consolidation, Problem 6) As shown in the figure, $\angle 1=30^\circ$, $\angle B=60^\circ$, $AB\perp AC$, with foot at $A$.
+
+(1) What is $\angle DAB+\angle B$ equal to?
+
+(2) Are $AD$ and $BC$ parallel? Are $AB$ and $DC$ parallel?
+
+### Solution to Review Exercise 5
+
+By **Definition 7.1.3 (Perpendicular)**, $AB\perp AC$, so $\angle BAC=90^\circ$.
+
+(1) $\angle DAB=\angle 1+\angle BAC=30^\circ+90^\circ=120^\circ$, so
+
+$$
+\angle DAB+\angle B=120^\circ+60^\circ=180^\circ.
+$$
+
+(2) $\angle DAB$ and $\angle B$ are the consecutive interior angles formed when lines $AD$, $BC$ are cut by line $AB$; it has been found that $\angle DAB+\angle B=180^\circ$. By **Theorem 7.2.3 (Criterion 3)**, supplementary consecutive interior angles imply parallel lines, so $AD\parallel BC$.
+
+The problem gives no supplementary or equal-angle relationship between $AB$ and $DC$, so $AB\parallel DC$ cannot be deduced, and it cannot be determined whether $AB$ and $DC$ are parallel. $\blacksquare$
+
+## Review Exercise 6
+
+(Review Exercise, Review and Consolidation, Problem 7) As shown in the figure, parallel lines $a$, $b$ are cut by line $c$. If you know the degree of one of $\angle 1\sim\angle 8$, can you find the degrees of the other angles? If yes, express the other angles in terms of one of them.
+
+The figure shows two parallel lines $a$, $b$ cut by a transversal $c$, with eight angles $\angle 1$ through $\angle 8$ marked at the two intersections.
+
+### Solution to Review Exercise 6
+
+Yes. Let the known angle be $\alpha$. By Property 1 through Property 3, together with the vertical-angle and adjacent-supplementary-angle relationships, the eight angles have only two different degrees.
+
+Let the known angle be $\angle 1=\alpha$. By the equality of vertical angles, $\angle 3=\alpha$, $\angle 5=\alpha$, $\angle 7=\alpha$. The remaining angles are supplementary to $\angle 1$, i.e. $\angle 2=\angle 4=\angle 6=\angle 8=180^\circ-\alpha$.
+
+Thus, knowing any one of $\angle 1\sim\angle 8$, all the others can be found: the angles equal to it equal $\alpha$, and the angles supplementary to it equal $180^\circ-\alpha$. $\blacksquare$
+
+## Review Exercise 7
+
+(Review Exercise, Comprehensive Application, Problem 8) Multiple choice.
+
+(1) As shown in figure (1), point $E$ is on the extension of $AC$. Which of the following conditions can determine $AB\parallel CD$? (　　)
+
+(A) $\angle 3=\angle 4$　(B) $\angle 1=\angle 2$　(C) $\angle D=\angle DCE$　(D) $\angle D+\angle ACD=180^\circ$
+
+(2) As shown in figure (2), $\angle 1+\angle 2=180^\circ$, $\angle 3=108^\circ$, then $\angle 4=$ (　　).
+
+(A) $72^\circ$　(B) $80^\circ$　(C) $82^\circ$　(D) $108^\circ$
+
+### Solution to Review Exercise 7
+
+(1) By **Theorem 7.2.2 (Criterion 2)**, equal alternate interior angles imply parallel lines. $\angle 1$ and $\angle 2$ are the alternate interior angles formed when lines $AB$, $CD$ are cut by line $BC$, so $\angle 1=\angle 2$ can determine $AB\parallel CD$. Choose (B).
+
+(2) $\angle 1+\angle 2=180^\circ$ implies that the corresponding two lines are parallel; then by the properties of parallel lines, $\angle 3$ and $\angle 4$ are supplementary. Thus
+
+$$
+\angle 4=180^\circ-\angle 3=180^\circ-108^\circ=72^\circ.
+$$
+
+Choose (A). $\blacksquare$
+
+## Review Exercise 8
+
+(Review Exercise, Comprehensive Application, Problem 9) The figure shows a schematic diagram of a protective net, which can be regarded as composed of two groups of parallel lines. Can you verify that the segments are parallel by checking the sizes of some angles? Describe your method.
+
+### Solution to Review Exercise 8
+
+By Criterion 1, **Theorem 7.2.2 (Criterion 2)**, and **Theorem 7.2.3 (Criterion 3)**: take any transversal intersecting the two groups of parallel lines, and measure the cut-off corresponding angles (or alternate interior angles, or consecutive interior angles). If the corresponding angles are equal (or the alternate interior angles are equal, or the consecutive interior angles are supplementary), then by the corresponding criterion the two groups of cut segments are respectively parallel. Check group by group to verify that the segments in the protective net are parallel. $\blacksquare$
+
+## Review Exercise 9
 
 (Review Exercise, Comprehensive Application, Problem 10) As shown in the figure, there is a point $P$ inside $\angle AOB$.
 
@@ -10,7 +202,7 @@
 
 (3) Write down the supplementary angles in the figure.
 
-### Solution to Review Exercise 1
+### Solution to Review Exercise 9
 
 (1) By Parallel Axiom, through point $P$ draw $PC\parallel OB$ meeting $OA$ at $C$, and $PD\parallel OA$ meeting $OB$ at $D$.
 
@@ -18,11 +210,11 @@
 
 (3) By Property 3, parallel lines give supplementary consecutive interior angles. The supplementary angles in the figure are the corresponding consecutive interior-angle combinations of $\angle OCP$ and $\angle CPD$, i.e. the adjacent angles of $\angle OCP+\angle ODP$; specifically, they are the consecutive interior angles formed by $PC\parallel OB$ and the consecutive interior angles formed by $PD\parallel OA$, whose sum is $180^\circ$. $\blacksquare$
 
-## Review Exercise 2
+## Review Exercise 10
 
 (Review Exercise, Comprehensive Application, Problem 11) As shown in the figure, line $l_1\parallel l_2$, $AB\perp l_2$, $CD\perp l_1$. Are $AB$ and $CD$ parallel? Why?
 
-### Solution to Review Exercise 2
+### Solution to Review Exercise 10
 
 $AB\parallel CD$.
 
@@ -30,7 +222,7 @@ $\because l_1\parallel l_2$, $AB\perp l_2$, $\therefore AB\perp l_1$ (a line per
 
 Also $CD\perp l_1$, so both $AB$ and $CD$ are perpendicular to $l_1$, and the corresponding angles they make with $l_1$ both equal $90^\circ$. By Criterion 1, equal corresponding angles imply parallel lines, so $AB\parallel CD$. $\blacksquare$
 
-## Review Exercise 3
+## Review Exercise 11
 
 (Review Exercise, Comprehensive Application, Problem 12) Complete the following proofs.
 
@@ -38,7 +230,7 @@ Also $CD\perp l_1$, so both $AB$ and $CD$ are perpendicular to $l_1$, and the co
 
 (2) As shown in figure (2), $AB$ and $CD$ intersect at point $O$, $\angle C=\angle COA$, $\angle D=\angle BOD$. Prove that $AC\parallel DB$.
 
-### Solution to Review Exercise 3
+### Solution to Review Exercise 11
 
 (1) Proof: $\because DE\parallel BA$, $\therefore\angle FDE=\angle BFD$ (parallel lines give equal alternate interior angles).
 
@@ -50,9 +242,9 @@ $\therefore\angle FDE=\angle A$. $\blacksquare$
 
 $\therefore\angle C=\angle D$.
 
-$\angle C$ and $\angle D$ are the alternate interior angles formed when lines $AC$, $DB$ are cut by line $CD$; by Criterion 2, equal alternate interior angles imply parallel lines, so $AC\parallel DB$. $\blacksquare$
+$\angle C$ and $\angle D$ are the alternate interior angles formed when lines $AC$, $DB$ are cut by line $CD$; by **Theorem 7.2.2 (Criterion 2)**, equal alternate interior angles imply parallel lines, so $AC\parallel DB$. $\blacksquare$
 
-## Review Exercise 4
+## Review Exercise 12
 
 (Review Exercise, Extension and Exploration, Problem 13) Identify the hypothesis and conclusion of the following propositions, and judge whether they are correct or wrong. If wrong, give a counterexample.
 
@@ -62,37 +254,37 @@ $\angle C$ and $\angle D$ are the alternate interior angles formed when lines $A
 
 (3) When two parallel lines are cut by a third line, the alternate interior angles are equal.
 
-### Solution to Review Exercise 4
+### Solution to Review Exercise 12
 
 (1) Hypothesis: the sum of two angles equals a straight angle; conclusion: the two angles are supplementary to each other. By the definition of supplementary angles, two angles whose sum is $180^\circ$ are supplementary, and a straight angle is $180^\circ$, so the proposition is correct.
 
-(2) Hypothesis: consecutive interior angles are equal; conclusion: the two lines are parallel. By Criterion 3, it is supplementary consecutive interior angles (sum $180^\circ$), not equal ones, that determine parallelism. Counterexample: take the consecutive interior angles both equal to $60^\circ$ (equal but summing to $120^\circ\neq 180^\circ$), and the two lines are not parallel. Thus the proposition is wrong.
+(2) Hypothesis: consecutive interior angles are equal; conclusion: the two lines are parallel. By **Theorem 7.2.3 (Criterion 3)**, it is supplementary consecutive interior angles (sum $180^\circ$), not equal ones, that determine parallelism. Counterexample: take the consecutive interior angles both equal to $60^\circ$ (equal but summing to $120^\circ\neq 180^\circ$), and the two lines are not parallel. Thus the proposition is wrong.
 
 (3) Hypothesis: two parallel lines are cut by a third line; conclusion: the alternate interior angles are equal. By Property 2, parallel lines give equal alternate interior angles, so the proposition is correct. $\blacksquare$
 
-## Review Exercise 5
+## Review Exercise 13
 
 (Review Exercise, Extension and Exploration, Problem 14) The figure shows a local view of two overall patterns. Identify the basic figure in each, and explain how the whole pattern is obtained by translating the basic figure.
 
-### Solution to Review Exercise 5
+### Solution to Review Exercise 13
 
 By Properties of Translation, a pattern is obtained by repeatedly translating the smallest basic figure that repeats in it by the same distance in a certain direction. Find the smallest basic figure that repeats in the figure; that is the basic figure of the whole pattern. Repeatedly translate it along the direction in which the pattern extends to obtain the whole pattern. $\blacksquare$
 
-## Review Exercise 6
+## Review Exercise 14
 
 (Review Exercise, Extension and Exploration, Problem 15) As shown in the figure, this is the floor plan of an apartment; there are many intersecting and parallel lines in the figure. Measure your own home, choose an appropriate scale, and draw its floor plan. Can you design a floor plan yourself?
 
-### Solution to Review Exercise 6
+### Solution to Review Exercise 14
 
 Use a ruler to measure the length and width of each room, choose an appropriate scale (for example $1:100$), and convert the actual lengths to lengths on the drawing according to the scale. Draw the floor plan of the apartment according to the intersecting and parallel relationships of the wall lines; when designing a floor plan yourself, use segments that are perpendicular or parallel to each other to represent the walls. $\blacksquare$
 
-## Review Exercise 7
+## Review Exercise 15
 
 (Review Exercise, Extension and Exploration, Problem 16) The surface of a billiard table is as shown in the figure. A ball rolls from point $A$ on the table toward the cushion $PQ$; after hitting point $B$ on $PQ$, it bounces toward the cushion $RS$; after hitting point $C$ on $RS$, it bounces toward point $D$. Given that $PQ\parallel SR$, $AB$, $BC$, $CD$ are all straight lines, the bisector $BN$ of $\angle ABC$ is perpendicular to $PQ$, and the bisector $CM$ of $\angle BCD$ is perpendicular to $SR$. Then, is the path $CD$ the ball rolls after two bounces parallel to the original path $AB$?
 
 The figure shows a billiard table with long sides $PQ\parallel SR$; the ball travels from point $A$ to point $B$ on $PQ$, rebounds to point $C$ on $RS$, and rebounds again toward point $D$; $BN$ bisects $\angle ABC$ and is perpendicular to $PQ$, and $CM$ bisects $\angle BCD$ and is perpendicular to $SR$.
 
-### Solution to Review Exercise 7
+### Solution to Review Exercise 15
 
 $CD\parallel AB$.
 
@@ -106,7 +298,7 @@ $BN\parallel CM$, with line $BC$ as the transversal; by Property 2, equal altern
 
 Also $BN$ bisects $\angle ABC$, so $\angle ABC=2\angle NBC$; $CM$ bisects $\angle BCD$, so $\angle BCD=2\angle MCB$. Hence $\angle ABC=\angle BCD$.
 
-$\angle ABC$ and $\angle BCD$ are the alternate interior angles formed when lines $AB$, $CD$ are cut by line $BC$; by Criterion 2, equal alternate interior angles imply parallel lines, so $CD\parallel AB$. $\blacksquare$
+$\angle ABC$ and $\angle BCD$ are the alternate interior angles formed when lines $AB$, $CD$ are cut by line $BC$; by **Theorem 7.2.2 (Criterion 2)**, equal alternate interior angles imply parallel lines, so $CD\parallel AB$. $\blacksquare$
 
 ## Exercise 1
 
@@ -140,7 +332,7 @@ By Properties of Square Roots, a positive number has two square roots that are o
 
 ### Solution to Exercise 2
 
-By Square Root, find the number whose square equals the given number.
+By **Definition 8.1.1 (Square Root)**, find the number whose square equals the given number.
 
 (1) $\because\left(\pm\frac{8}{9}\right)^2=\frac{64}{81}$, $\therefore\frac{64}{81}$ has square roots $\pm\frac{8}{9}$.
 
@@ -156,7 +348,7 @@ By Square Root, find the number whose square equals the given number.
 
 ### Solution to Exercise 3
 
-By Square Root, when $x^2=a$, $x=\pm\sqrt a$.
+By **Definition 8.1.1 (Square Root)**, when $x^2=a$, $x=\pm\sqrt a$.
 
 (1) $x^2=25$, so $x=\pm\sqrt{25}=\pm 5$.
 
@@ -172,7 +364,7 @@ By Square Root, when $x^2=a$, $x=\pm\sqrt a$.
 
 ### Solution to Exercise 4
 
-By Arithmetic Square Root, the arithmetic square root is the positive square root.
+By **Definition 8.1.2 (Arithmetic Square Root)**, the arithmetic square root is the positive square root.
 
 (1) $\because 0.3^2=0.09$, $\therefore\sqrt{0.09}=0.3$.
 
@@ -188,7 +380,7 @@ By Arithmetic Square Root, the arithmetic square root is the positive square roo
 
 ### Solution to Exercise 5
 
-By Arithmetic Square Root, $\sqrt a$ denotes the arithmetic square root, and $\pm\sqrt a$ denotes the two square roots.
+By **Definition 8.1.2 (Arithmetic Square Root)**, $\sqrt a$ denotes the arithmetic square root, and $\pm\sqrt a$ denotes the two square roots.
 
 (1) $\because 6^2=36$, $\therefore\sqrt{36}=6$.
 
@@ -208,7 +400,7 @@ $$
 x\cdot 2x=162,\quad 2x^2=162,\quad x^2=81.
 $$
 
-By Square Root, $x=\sqrt{81}=9$ (take the positive value). Thus the width is $9\,\text{m}$ and the length is $2x=18\,\text{m}$. $\blacksquare$
+By **Definition 8.1.1 (Square Root)**, $x=\sqrt{81}=9$ (take the positive value). Thus the width is $9\,\text{m}$ and the length is $2x=18\,\text{m}$. $\blacksquare$
 
 ## Exercise 7
 
@@ -218,7 +410,7 @@ By Square Root, $x=\sqrt{81}=9$ (take the positive value). Thus the width is $9\
 
 ### Solution to Exercise 7
 
-By Arithmetic Square Root, use a calculator to find the positive square root.
+By **Definition 8.1.2 (Arithmetic Square Root)**, use a calculator to find the positive square root.
 
 (1) $\because 31^2=961$, $\therefore\sqrt{961}=31$.
 
@@ -254,7 +446,7 @@ $$
 5x\cdot 4x=700,\quad 20x^2=700,\quad x^2=35.
 $$
 
-By Square Root, $x=\sqrt{35}\approx 5.92$. Thus the length is $5\sqrt{35}\approx 29.6\,\text{cm}$ and the width is $4\sqrt{35}\approx 23.7\,\text{cm}$.
+By **Definition 8.1.1 (Square Root)**, $x=\sqrt{35}\approx 5.92$. Thus the length is $5\sqrt{35}\approx 29.6\,\text{cm}$ and the width is $4\sqrt{35}\approx 23.7\,\text{cm}$.
 
 A circle of radius $12\,\text{cm}$ has diameter $24\,\text{cm}$. The paper is about $23.7\,\text{cm}< 24\,\text{cm}$ wide, so the diameter does not fit along the width. Thus Wang Fang's idea is not feasible. $\blacksquare$
 
@@ -266,7 +458,7 @@ A circle of radius $12\,\text{cm}$ has diameter $24\,\text{cm}$. The paper is ab
 
 ### Solution to Problem 1
 
-By Square Root.
+By **Definition 8.1.1 (Square Root)**.
 
 (1) $\because\left(\pm 9\right)^2=81$, $\therefore 81$ has square roots $\pm 9$.
 
@@ -282,7 +474,7 @@ By Square Root.
 
 ### Solution to Problem 2
 
-By Arithmetic Square Root.
+By **Definition 8.1.2 (Arithmetic Square Root)**.
 
 (1) $\because\left(\frac{5}{8}\right)^2=\frac{25}{64}$, $\therefore\sqrt{\frac{25}{64}}=\frac{5}{8}$.
 
@@ -304,7 +496,7 @@ By Arithmetic Square Root.
 
 ### Solution to Problem 3
 
-By Square Root and Arithmetic Square Root.
+By **Definition 8.1.1 (Square Root)** and **Definition 8.1.2 (Arithmetic Square Root)**.
 
 (1) $\because\left(\sqrt 5\right)^2=5$, $\therefore\sqrt 5$ is a square root of $5$, correct.
 
@@ -313,153 +505,3 @@ By Square Root and Arithmetic Square Root.
 (3) $\sqrt 4=2$, and the square roots of $2$ are $\pm\sqrt 2$, so the square roots of $\sqrt 4$ are $\pm\sqrt 2$, not $\pm 2$; wrong.
 
 (4) By Properties of Square Roots, the square root of $0$ is $0$, and by stipulation the arithmetic square root of $0$ is also $0$; correct. $\blacksquare$
-
-## Problem 4
-
-(Exercise 8.1, Review and Consolidation, Problem 4) Use a calculator to find the value of each of the following (keep two decimal places):
-
-(1) $\sqrt{408}$;　(2) $\sqrt{51.42534}$;　(3) $\sqrt{\frac{111}{14}}$.
-
-### Solution to Problem 4
-
-By Arithmetic Square Root, use a calculator to find the positive square root and round.
-
-(1) $\sqrt{408}\approx 20.20$.
-
-(2) $\sqrt{51.42534}\approx 7.17$.
-
-(3) $\sqrt{\frac{111}{14}}=\sqrt{7.928\cdots}\approx 2.82$. $\blacksquare$
-
-## Problem 5
-
-(Exercise 8.1, Review and Consolidation, Problem 5) Compare the sizes of each group:
-
-(1) $\sqrt{65}$ and $8$;　(2) $\sqrt{33}$ and $\sqrt{22}$;　(3) $\frac{\sqrt{10}-1}{2}$ and $1$.
-
-### Solution to Problem 5
-
-By Size of the Arithmetic Square Root, the larger the radicand, the larger the arithmetic square root.
-
-(1) $\because 8^2=64< 65$, $\therefore\sqrt{65}> \sqrt{64}=8$, i.e. $\sqrt{65}> 8$.
-
-(2) $\because 33> 22$, $\therefore\sqrt{33}> \sqrt{22}$.
-
-(3) $\because 10> 9$, $\therefore\sqrt{10}> \sqrt 9=3$, so $\sqrt{10}-1> 2$, and hence $\frac{\sqrt{10}-1}{2}> 1$. $\blacksquare$
-
-## Problem 6
-
-(Exercise 8.1, Review and Consolidation, Problem 6) Find the value of $x$ in each of the following:
-
-(1) $x^2-100=0$;　(2) $25x^2=36$;　(3) $\left(x+2\right)^2=0.49$.
-
-### Solution to Problem 6
-
-By Square Root.
-
-(1) $x^2=100$, so $x=\pm\sqrt{100}=\pm 10$.
-
-(2) $x^2=\frac{36}{25}$, so $x=\pm\sqrt{\frac{36}{25}}=\pm\frac{6}{5}$.
-
-(3) $x+2=\pm\sqrt{0.49}=\pm 0.7$. When $x+2=0.7$, $x=-1.3$; when $x+2=-0.7$, $x=-2.7$. Thus $x=-1.3$ or $x=-2.7$. $\blacksquare$
-
-## Problem 7
-
-(Exercise 8.1, Comprehensive Application, Problem 7) Estimate the side length, in decimeters, of a square whose area is $3\,\text{dm}^2$ (keep two decimal places).
-
-### Solution to Problem 7
-
-Let the side length be $x\,\text{dm}$; then $x^2=3$, and by Square Root, $x=\sqrt 3$.
-
-$\because 1.7^2=2.89< 3< 3.24=1.8^2$, continue to refine: $1.73^2=2.9929< 3< 3.0276=1.74^2$, and further $1.732^2\approx 2.999< 3$. Thus $\sqrt 3\approx 1.73$.
-
-That is, the side length of the square is about $1.73\,\text{dm}$. $\blacksquare$
-
-## Problem 8
-
-(Exercise 8.1, Comprehensive Application, Problem 8) The pendulum of a pendulum clock swings freely; the time $t$ (unit: $s$) for one complete swing back and forth satisfies $t=2\pi\sqrt{\frac{l}{g}}$ in relation to the pendulum length $l$ (unit: $m$). When the pendulum length is $0.25\,m$, how many seconds does one complete swing take? (Take $\pi$ as $3.14$, $g$ as $9.8\,m/s^2$, keep two decimal places.)
-
-### Solution to Problem 8
-
-Substitute $l=0.25$, $g=9.8$, $\pi=3.14$ into $t=2\pi\sqrt{\frac{l}{g}}$.
-
-$$
-t=2\times 3.14\times\sqrt{\frac{0.25}{9.8}}=6.28\times\sqrt{0.02551\cdots}.
-$$
-
-$\sqrt{0.02551\cdots}\approx 0.1597$, so $t\approx 6.28\times 0.1597\approx 1.00$.
-
-That is, one complete swing takes about $1.00\,s$. $\blacksquare$
-
-## Problem 9
-
-(Exercise 8.1, Comprehensive Application, Problem 9) If the area of a square is enlarged to $4$ times the original, by how many times does its side length become? What if the area is enlarged to $9$ times? What if to $n$ times?
-
-### Solution to Problem 9
-
-Let the original square have side length $a$ and area $a^2$.
-
-When the area is enlarged to $4$ times the original, the new area is $4a^2$ and the new side length is $\sqrt{4a^2}=2a$, i.e. the side length becomes $2$ times the original.
-
-When the area is enlarged to $9$ times the original, the new side length is $\sqrt{9a^2}=3a$, i.e. the side length becomes $3$ times the original.
-
-When the area is enlarged to $n$ times the original, the new side length is $\sqrt{na^2}=a\sqrt n$, i.e. the side length becomes $\sqrt n$ times the original. $\blacksquare$
-
-## Problem 10
-
-(Exercise 8.1, Extension and Exploration, Problem 10)
-
-(1) Find the values of $\left(\sqrt 0\right)^2$, $\left(\sqrt 4\right)^2$, $\left(\sqrt 9\right)^2$, $\left(\sqrt{25}\right)^2$, $\left(\sqrt{36}\right)^2$. For any nonnegative number $a$, what does $\left(\sqrt a\right)^2$ equal?
-
-(2) Find the values of $\sqrt{0^2}$, $\sqrt{2^2}$, $\sqrt{\left(-3\right)^2}$, $\sqrt{5^2}$, $\sqrt{\left(-6\right)^2}$. For any number $a$, what does $\sqrt{a^2}$ equal?
-
-### Solution to Problem 10
-
-(1) $\left(\sqrt 0\right)^2=0$, $\left(\sqrt 4\right)^2=4$, $\left(\sqrt 9\right)^2=9$, $\left(\sqrt{25}\right)^2=25$, $\left(\sqrt{36}\right)^2=36$. By Relationship Between Squaring and Extracting Roots, for any nonnegative number $a$,
-
-$$
-\left(\sqrt a\right)^2=a.
-$$
-
-(2) $\sqrt{0^2}=0$, $\sqrt{2^2}=2$, $\sqrt{\left(-3\right)^2}=\sqrt 9=3$, $\sqrt{5^2}=5$, $\sqrt{\left(-6\right)^2}=\sqrt{36}=6$. It can be seen that when $a\ge 0$, $\sqrt{a^2}=a$, and when $a< 0$, $\sqrt{a^2}=-a$. By Properties of Arithmetic Square Roots, for any number $a$,
-
-$$
-\sqrt{a^2}=\left|a\right|.
-$$
-
-$\blacksquare$
-
-## Problem 11
-
-(Exercise 8.1, Extension and Exploration, Problem 11) Arbitrarily pick a positive number, say $1234$, use a calculator to take its square root, then take the square root of the resulting arithmetic square root, and so on. What do you find?
-
-### Solution to Problem 11
-
-By Size of the Arithmetic Square Root, repeatedly take square roots of the positive number.
-
-Repeatedly take square roots of $1234$: $\sqrt{1234}\approx 35.1$, then $\sqrt{35.1}\approx 5.92$, then $\approx 2.43$, then $\approx 1.56$, then $\approx 1.25$, … As the number of square-root extractions increases, the result gradually approaches $1$.
-
-In general, repeatedly taking square roots of a positive number greater than $1$ gradually decreases the result toward $1$. $\blacksquare$
-
-## Exercise 10
-
-(Exercise 8.2, Problem 1) True or false.
-
-(1) $-3$ is a cube root of $-27$;
-
-(2) $\pm 3$ are cube roots of $27$;
-
-(3) The cube root of $\left(-1\right)^3$ is $-1$;
-
-(4) The cube root of $\sqrt\left[3\right]{-8}$ is $-2$.
-
-### Solution to Exercise 10
-
-By Properties of Cube Roots, every number has exactly one cube root.
-
-(1) $\because\left(-3\right)^3=-27$, $\therefore -3$ is a cube root of $-27$, correct.
-
-(2) The cube root of $27$ is $3$ (unique), and $-3$ is not a cube root of $27$, so it is wrong.
-
-(3) $\left(-1\right)^3=-1$, and the cube root of $-1$ is $-1$, so it is correct.
-
-(4) $\sqrt\left[3\right]{-8}=-2$, and the cube root of $-2$ is $\sqrt\left[3\right]{-2}$, not $-2$, so it is wrong. $\blacksquare$

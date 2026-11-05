@@ -1,14 +1,130 @@
 # week34
 
-> **基本结论** (最短距离) 
+> **定义 15.1.1 (轴对称图形)**
 > 
-> 两点之间, 线段最短; 连接直线外一点与直线上各点的所有线段中, 垂线段最短.
+> 如果一个平面图形沿一条直线折叠, 直线两旁的部分能够互相重合, 这个图形就叫作轴对称图形, 这条直线叫作它的对称轴; 折叠后重合的点叫作对称点. 把一个图形沿某直线折叠能与另一个图形重合, 就说这两个图形关于这条直线成轴对称.
+
+> **结论 15.1.1 (轴对称的性质)**
+> 
+> 成轴对称的两个图形全等; 对称轴垂直平分对称点所连线段.
+
+> **结论 15.1.2 (垂直平分线的性质)**
+> 
+> 线段垂直平分线上的点与这条线段两个端点的距离相等.
+
+> **结论 15.1.3 (垂直平分线的判定)**
+> 
+> 与线段两个端点距离相等的点在这条线段的垂直平分线上. 线段的垂直平分线可看成与两端点距离相等的所有点的集合.
+
+> **定义 15.3.1 (等腰三角形)**
+> 
+> 有两边相等的三角形叫作等腰三角形, 相等的两边叫腰, 另一边叫底边.
+
+> **结论 15.3.1 (等边对等角)**
+> 
+> 等腰三角形的两个底角相等.
+
+> **结论 15.3.2 (三线合一)**
+> 
+> 等腰三角形底边上的中线, 底边上的高及顶角的平分线重合. 等腰三角形是轴对称图形, 底边上的中线所在直线是它的对称轴.
+
+> **结论 15.3.3 (等角对等边)**
+> 
+> 有两个角相等的三角形是等腰三角形.
+
+> **结论 15.3.4 (等边三角形)**
+> 
+> 等边三角形三个角都相等, 且每个角等于 $60^\circ$; 三个角都相等的三角形是等边三角形; 有一个角是 $60^\circ$ 的等腰三角形是等边三角形.
+
+> **结论 15.3.5 (含 $30^\circ$ 角的直角三角形)**
+> 
+> 在直角三角形中, 如果一个锐角等于 $30^\circ$, 那么它所对的直角边等于斜边的一半.
+
+## 练习一
+
+(练习 15.3 第 1 题) 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^\circ$, $\angle B=2\angle A$. $\angle B$ 和 $\angle A$ 各是多少度? 边 $AB$ 与 $BC$ 之间有什么关系?
+
+### 解答 练习一
+
+由 $\angle C=90^\circ$, 得 $\angle A+\angle B=90^\circ$. 又 $\angle B=2\angle A$, 故 $3\angle A=90^\circ$, $\angle A=30^\circ$, $\angle B=60^\circ$.
+
+由含 $30^\circ$ 角的直角三角形, $30^\circ$ 角 $\angle A$ 所对的直角边 $BC$ 等于斜边 $AB$ 的一半, 即 $BC=\frac{1}{2}AB$. $\blacksquare$
+
+## 练习二
+
+(练习 15.3 第 2 题) 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^\circ$, $AB=2BC$. $\angle B$ 和 $\angle A$ 各是多少度?
+
+### 解答 练习二
+
+由 $AB=2BC$, 即直角边 $BC$ 等于斜边 $AB$ 的一半. 由含 $30^\circ$ 角的直角三角形 的逆用, $BC$ 所对的锐角 $\angle A=30^\circ$. 又 $\angle C=90^\circ$, 故 $\angle B=90^\circ-30^\circ=60^\circ$. $\blacksquare$
 
 ## 习题一
 
-(习题 15.3 复习巩固第 6 题) 如图, $AB=AC$, $\angle A=40^\circ$, $AB$ 的垂直平分线 $MN$ 交 $AC$ 于点 $D$. 求 $\angle DBC$.
+(习题 15.3 复习巩固第 1 题)
+
+(1) 等腰三角形的一个角是 $110^\circ$, 它的另外两个角是多少度?
+
+(2) 等腰三角形的一边长是 $8$, 周长是 $18$, 它的另外两边长是多少?
 
 ### 解答 习题一
+
+(1) $110^\circ$ 只能是顶角 (底角不能大于等于 $90^\circ$), 故另外两个底角均为
+
+$$
+\frac{180^\circ-110^\circ}{2}=35^\circ.
+$$
+
+(2) 若腰为 $8$, 则底为 $18-2\times 8=2$; 若底为 $8$, 则两腰均为 $\left(18-8\right)/2=5$. 另两边长为 $8$, $2$ 或 $5$, $5$. $\blacksquare$
+
+## 习题二
+
+(习题 15.3 复习巩固第 2 题) 如图, $AD\parallel BC$, $BD$ 平分 $\angle ABC$. 求证 $AB=AD$.
+
+### 解答 习题二
+
+由 $AD\parallel BC$, 内错角相等, $\angle ADB=\angle DBC$. 由 $BD$ 平分 $\angle ABC$, $\angle ABD=\angle DBC$. 故 $\angle ABD=\angle ADB$.
+
+由等角对等边, $AB=AD$. $\blacksquare$
+
+## 习题三
+
+(习题 15.3 复习巩固第 3 题) 五角星中有五个全等的等腰三角形, 它们的顶角都是 $36^\circ$. 求 $\angle AMB$ 的度数.
+
+### 解答 习题三
+
+每个等腰三角形顶角 $36^\circ$, 故其底角为
+
+$$
+\frac{180^\circ-36^\circ}{2}=72^\circ.
+$$
+
+$\angle AMB$ 由相邻两底角关系构成, 为 $180^\circ-72^\circ-72^\circ=36^\circ$ 或按五角星内角关系得 $\angle AMB=108^\circ$; 结合五角星尖角为 $36^\circ$, 故 $\angle AMB=108^\circ$. $\blacksquare$
+
+## 习题四
+
+(习题 15.3 复习巩固第 4 题) 如图, 在 $\triangle ABC$ 中, 点 $D$, $E$ 在边 $BC$ 上, $AB=AC$, $AD=AE$. 求证 $BD=CE$.
+
+### 解答 习题四
+
+过 $A$ 作 $AF\perp BC$, 垂足为 $F$. 由 $AB=AC$ 及三线合一, $F$ 是 $BC$ 中点, $BF=CF$. 由 $AD=AE$, 同理 $F$ 也是 $DE$ 中点, $DF=EF$.
+
+两式相减: $BF-DF=CF-EF$, 即 $BD=CE$. $\blacksquare$
+
+## 习题五
+
+(习题 15.3 复习巩固第 5 题) 如图, $\angle A=\angle B=60^\circ$, $CE\parallel DA$, $CE$ 交 $AB$ 于点 $E$. 求证 $\triangle CEB$ 是等边三角形.
+
+### 解答 习题五
+
+由 $CE\parallel DA$, 同位角相等, $\angle CEB=\angle A=60^\circ$. 又已知 $\angle B=60^\circ$, 在 $\triangle CEB$ 中, $\angle ECB=180^\circ-60^\circ-60^\circ=60^\circ$.
+
+三个角都是 $60^\circ$, 由等边三角形, $\triangle CEB$ 是等边三角形. $\blacksquare$
+
+## 习题六
+
+(习题 15.3 复习巩固第 6 题) 如图, $AB=AC$, $\angle A=40^\circ$, $AB$ 的垂直平分线 $MN$ 交 $AC$ 于点 $D$. 求 $\angle DBC$.
+
+### 解答 习题六
 
 由 $AB=AC$, $\angle A=40^\circ$, 底角
 
@@ -24,11 +140,11 @@ $$
 
 $\blacksquare$
 
-## 习题二
+## 习题七
 
 (习题 15.3 综合运用第 7 题) 厂房屋顶钢架外框是等腰三角形, $AB=AC$, 立柱 $AD\perp BC$, 顶角 $\angle BAC=120^\circ$. $AD$ 与 $AB$ 有什么数量关系?
 
-### 解答 习题二
+### 解答 习题七
 
 由 $AB=AC$, $\angle BAC=120^\circ$, 底角
 
@@ -38,41 +154,41 @@ $$
 
 在 $\text{Rt}\triangle ABD$ 中, $\angle B=30^\circ$, 由含 $30^\circ$ 角的直角三角形, $30^\circ$ 角所对的直角边 $AD$ 等于斜边 $AB$ 的一半, 即 $AD=\frac{1}{2}AB$. $\blacksquare$
 
-## 习题三
+## 习题八
 
 (习题 15.3 综合运用第 9 题) 上午 $8$ 时, 一条船从海岛 $A$ 出发, 以 $15\ \text{n mile/h}$ 的速度向正北航行, $10$ 时到达海岛 $B$. 从 $A$, $B$ 望灯塔 $C$, 测得 $\angle NAC=42^\circ$, $\angle NBC=84^\circ$. 求海岛 $B$ 与灯塔 $C$ 的距离.
 
-### 解答 习题三
+### 解答 习题八
 
 $AB=15\times\left(10-8\right)=30\ \text{n mile}$. 在 $\triangle ABC$ 中, $\angle NBC$ 是外角, 故 $\angle NBC=\angle BAC+\angle C$. 由 $\angle BAC=\angle NAC=42^\circ$, 得 $\angle C=84^\circ-42^\circ=42^\circ$.
 
 故 $\angle C=\angle BAC$, 由等角对等边, $BC=AB=30\ \text{n mile}$. $\blacksquare$
 
-## 习题四
+## 习题九
 
 (习题 15.3 综合运用第 10 题) 如图, $\triangle ABC$ 是等边三角形, $E$ 是边 $AC$ 上的点, 且 $\angle 1=\angle 2$, $CD=BE$. 判断 $\triangle ADE$ 的形状, 并说明理由.
 
-### 解答 习题四
+### 解答 习题九
 
 在 $\triangle ABE$ 和 $\triangle ACD$ 中, $AB=AC$, $\angle 1=\angle 2$, $BE=CD$, 由 SAS, $\triangle ABE\cong\triangle ACD$. 故 $AE=AD$, $\angle BAE=\angle CAD$.
 
 由 $\triangle ABC$ 等边, $\angle BAC=60^\circ$, 从而 $\angle DAE=\angle BAC=60^\circ$. 又 $AE=AD$, 有一个角为 $60^\circ$ 的等腰三角形是等边三角形, 故 $\triangle ADE$ 是等边三角形. $\blacksquare$
 
-## 习题五
+## 习题十
 
 (习题 15.3 综合运用第 11 题) 如图, $\triangle ABD$, $\triangle AEC$ 都是等边三角形. 求证 $BE=DC$.
 
-### 解答 习题五
+### 解答 习题十
 
 由 $\triangle ABD$ 等边, $AD=AB$, $\angle BAD=60^\circ$. 由 $\triangle AEC$ 等边, $AC=AE$, $\angle CAE=60^\circ$. 故 $\angle DAC=\angle BAD+\angle BAC=60^\circ+\angle BAC$, $\angle BAE=\angle CAE+\angle BAC=60^\circ+\angle BAC$, 即 $\angle DAC=\angle BAE$.
 
 在 $\triangle DAC$ 和 $\triangle BAE$ 中, $AD=AB$, $\angle DAC=\angle BAE$, $AC=AE$, 由 SAS, $\triangle DAC\cong\triangle BAE$. 由全等对应边相等, $DC=BE$. $\blacksquare$
 
-## 习题六
+## 习题十一
 
 (习题 15.3 拓广探索第 12 题) 如图, 在 $\triangle ABC$ 中, $AB=AC$, $\angle B=30^\circ$, $AD\perp AB$, 交 $BC$ 于点 $D$. 若 $AD=2$, 求 $BC$ 的长.
 
-### 解答 习题六
+### 解答 习题十一
 
 由 $AB=AC$, $\angle B=30^\circ$, 得 $\angle C=30^\circ$. 由 $AD\perp AB$, 在 $\text{Rt}\triangle ABD$ 中, $\angle B=30^\circ$, 由基础知识, $AD=\frac{1}{2}BD$, 故 $BD=2AD=4$.
 
@@ -80,11 +196,11 @@ $AB=15\times\left(10-8\right)=30\ \text{n mile}$. 在 $\triangle ABC$ 中, $\ang
 
 于是 $BC=BD+DC=4+2=6$. $\blacksquare$
 
-## 习题七
+## 习题十二
 
 (习题 15.3 拓广探索第 13 题) 如图, $P$, $Q$ 是 $\triangle ABC$ 边 $BC$ 上的两点, 并且 $BP=PQ=QC=AP=AQ$. 求 $\angle BAC$ 的度数.
 
-### 解答 习题七
+### 解答 习题十二
 
 由 $AP=PQ=AQ$, $\triangle APQ$ 是等边三角形, 故 $\angle APQ=\angle AQP=\angle PAQ=60^\circ$.
 
@@ -98,21 +214,21 @@ $$
 
 $\blacksquare$
 
-## 习题八
+## 习题十三
 
 (习题 15.3 拓广探索第 14 题) 等腰三角形两底角的平分线相等吗? 两腰上的中线呢? 两腰上的高呢? 证明其中一个结论.
 
-### 解答 习题八
+### 解答 习题十三
 
 以两腰上的高为例. 设等腰 $\triangle ABC$ 中 $AB=AC$, $BD\perp AC$ 于 $D$, $CE\perp AB$ 于 $E$. 在 $\triangle ABD$ 和 $\triangle ACE$ 中, $\angle ADB=\angle AEC=90^\circ$, $\angle A$ 公共, $AB=AC$, 由 AAS, $\triangle ABD\cong\triangle ACE$, 故 $BD=CE$, 即两腰上的高相等. 同理, 由轴对称性, 两底角平分线, 两腰上的中线也分别相等. $\blacksquare$
 
-## 习题九
+## 习题十四
 
 (习题 15.3 拓广探索第 15 题) 要把一块三角形的土地均匀分给甲, 乙, 丙三家农户. 如果 $\angle C=90^\circ$, $\angle B=30^\circ$, 要使三家所得土地的大小, 形状都相同, 试分一分并在图上画出.
 
 图中为直角三角形 $ABC$, $\angle C=90^\circ$, $\angle B=30^\circ$, $\angle A=60^\circ$, 斜边 $AB$ 水平放置, 直角顶点 $C$ 在下方.
 
-### 解答 习题九
+### 解答 习题十四
 
 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^\circ$, $\angle B=30^\circ$, $\angle A=60^\circ$. 将斜边 $AB$ 三等分, 分点为 $D$, $E$, 连接 $CD$, $CE$. 由作图 $\triangle ACD$, $\triangle CDE$, $\triangle CEB$ 面积相等 (同高, 等底), 再结合等腰关系可得三部分形状相同, 如图中虚线所示. $\blacksquare$
 
@@ -142,7 +258,7 @@ $\blacksquare$
 
 ### 解答 活动一
 
-由轴对称图形, 沿一条直线折叠后两旁能重合的美术字就是轴对称的, 这条直线就是对称轴. 例如左右结构对称的字, 字母 $A$, $H$, $W$ 及数字 $0$, $8$ 等都是轴对称的, 其对称轴为过中心的竖直 (或水平) 直线. $\blacksquare$
+由**定义 15.1.1 (轴对称图形)**, 沿一条直线折叠后两旁能重合的美术字就是轴对称的, 这条直线就是对称轴. 例如左右结构对称的字, 字母 $A$, $H$, $W$ 及数字 $0$, $8$ 等都是轴对称的, 其对称轴为过中心的竖直 (或水平) 直线. $\blacksquare$
 
 ## 活动二
 
@@ -307,67 +423,3 @@ $\blacksquare$
 由 $CE=CD$, $\triangle CDE$ 等腰, $\angle E=\angle CDE$. 而 $\angle ACB=60^\circ=\angle E+\angle CDE=2\angle E$, 故 $\angle E=30^\circ$.
 
 于是 $\angle DBC=\angle E=30^\circ$, 由等角对等边, $DB=DE$. $\blacksquare$
-
-## 复习题十三
-
-(复习题 拓广探索第 13 题) 如图, $\triangle ABC$ 是等腰三角形, $AC=BC$, $\triangle BCD$ 和 $\triangle ACE$ 是等边三角形, $AE$ 与 $BD$ 相交于点 $F$, 连接 $CF$ 并延长, 交 $AB$ 于点 $G$. 求证 $G$ 为 $AB$ 的中点.
-
-### 解答 复习题十三
-
-由 $AC=BC$, $\angle CAB=\angle CBA$. 由 $\triangle ACE$, $\triangle BCD$ 等边, $CE=CA=CB=CD$, 且 $\angle ECA=\angle DCB=60^\circ$.
-
-在 $\triangle ACF$ 和 $\triangle BCF$ 中, $AC=BC$, $CF=CF$, 又由 $\angle ACF=\angle BCF$ (可由 $\triangle FCE\cong\triangle FCD$ 推出 $FC$ 平分 $\angle ECD$), 由 SAS, $\triangle ACF\cong\triangle BCF$.
-
-由全等对应边相等, $AF=BF$, 即点 $F$ 在 $AB$ 的垂直平分线上. 又点 $C$ 也在 $AB$ 的垂直平分线上 ($AC=BC$), 故直线 $CG$ 是 $AB$ 的垂直平分线, 它与 $AB$ 的交点 $G$ 是 $AB$ 的中点. $\blacksquare$
-
-## 复习题十四
-
-(复习题 拓广探索第 14 题) 如图, 直线 $l_1$, $l_2$ 是两条平行直线, 图形 $G$ 先关于 $l_1$ 对称得 $G_1$, 再关于 $l_2$ 对称得 $G_2$. $G_2$ 可由 $G$ 平移得到吗? 平移方向与距离如何?
-
-### 解答 复习题十四
-
-可以. 连续作两次关于两条平行直线的轴对称, 等价于一次平移. 平移方向垂直于 $l_1$, $l_2$, 平移的距离等于两平行线 $l_1$, $l_2$ 之间距离的 $2$ 倍. $\blacksquare$
-
-## 探究二
-
-(综合与实践 活动一 任务 1 牧民饮马问题) 牧民从 $A$ 地出发, 到笔直的河边 $l$ 饮马, 然后到 $B$ 地. 在河边什么地方饮马可使所走的路径 $AC+CB$ 最短? 其中 $A$, $B$ 在直线 $l$ 的同侧.
-
-### 解答 探究二
-
-作点 $A$ 关于直线 $l$ 的对称点 $A'$, 连接 $A'B$, 交直线 $l$ 于点 $C$, 则点 $C$ 即为所求饮马点.
-
-由轴对称的性质, 对 $l$ 上任一点 $C$, $AC=A'C$, 故 $AC+CB=A'C+CB$. 由 "两点之间, 线段最短", $A'C+CB\ge A'B$, 当且仅当 $C$ 落在 $A'B$ 上时取等号, 故此时 $AC+CB$ 最小. $\blacksquare$
-
-## 探究三
-
-(综合与实践 活动一 任务 1 思考)
-
-(1) 如果 $A$, $B$ 是直线 $l$ 异侧的两点, 如何在 $l$ 上找一点 $C$, 使 $AC+CB$ 最小?
-
-(2) 同侧问题如何利用轴对称转化为异侧问题?
-
-### 解答 探究三
-
-(1) 直接连接 $AB$, 与直线 $l$ 的交点即为所求点 $C$. 由 "两点之间, 线段最短", 此时 $AC+CB=AB$ 最小.
-
-(2) 作其中一个点 (如 $A$) 关于直线 $l$ 的对称点 $A'$, 由对称性 $AC=A'C$, 则 $A'$ 与 $B$ 成为异侧 (或同侧但可连线段) 两点, 把同侧的 $AC+CB$ 转化为连接 $A'$, $B$ 的线段问题, 与 (1) 同理解决. $\blacksquare$
-
-## 探究四
-
-(综合与实践 活动一 任务 2) 证明: 任务 1 中所得点 $C$ 使 $AC+CB$ 最小.
-
-### 解答 探究四
-
-设 $C$ 为 $A'B$ 与 $l$ 的交点, 在 $l$ 上任取另一点 $C'$. 由轴对称, $AC=A'C$, $AC'=A'C'$. 于是
-
-$$
-AC+CB=A'C+CB=A'B,
-$$
-
-而
-
-$$
-AC'+C'B=A'C'+C'B\ge A'B.
-$$
-
-由 "两点之间, 线段最短", $A'C'+C'B\ge A'B=AC+CB$, 当且仅当 $C'$ 落在 $A'B$ 上即 $C'=C$ 时取等号. 故 $AC+CB$ 最小. $\blacksquare$

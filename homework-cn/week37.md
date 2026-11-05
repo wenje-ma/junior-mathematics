@@ -1,6 +1,126 @@
 # week37
 
+> **定义 16.1.1 (同底数幂的乘法)**
+> 
+> 一般地, 对于任意底数 $a$ 与任意正整数 $m,n$, $a^m\cdot a^n=a^{m+n}$, 即同底数幂相乘, 底数不变, 指数相加. 三个或三个以上同底数幂相乘也具有这一性质.
+
+> **定义 16.1.2 (幂的乘方)**
+> 
+> 一般地, 对于任意底数 $a$ 与任意正整数 $m,n$, $\left(a^m\right)^n=a^{mn}$, 即幂的乘方, 底数不变, 指数相乘.
+
+> **定义 16.1.3 (积的乘方)**
+> 
+> 一般地, 对于任意底数 $a,b$ 与任意正整数 $n$, $\left(ab\right)^n=a^n b^n$, 即积的乘方等于把积的每一个因式分别乘方, 再把所得的幂相乘. 三个或三个以上因式的积的乘方也具有这一性质.
+
+> **定义 16.2.3 (多项式与多项式相乘)**
+> 
+> 先用一个多项式的每一项乘另一个多项式的每一项, 再把所得的积相加, 即 $\left(a+b\right)\left(p+q\right)=ap+aq+bp+bq$.
+
+> **定义 16.2.4 (同底数幂的除法)**
+> 
+> $a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ 都是正整数, $m> n$), 即同底数幂相除, 底数不变, 指数相减.
+
+> **定义 16.3.1 (平方差公式)**
+> 
+> 两个数的和与这两个数的差的积等于这两个数的平方差, 即 $\left(a+b\right)\left(a-b\right)=a^2-b^2$.
+
+> **定义 16.3.2 (完全平方公式)**
+> 
+> 两个数的和 (或差) 的平方等于它们的平方和加上 (或减去) 它们积的 $2$ 倍, 即 $\left(a+b\right)^2=a^2+2ab+b^2$, $\left(a-b\right)^2=a^2-2ab+b^2$.
+
+> **定义 16.3.3 (添括号法则)**
+> 
+> 括号前面是正号, 括到括号里的各项都不变符号; 括号前面是负号, 括到括号里的各项都改变符号, 即 $a+b+c=a+\left(b+c\right)$, $a-b-c=a-\left(b+c\right)$.
+
+## 练习一
+
+(练习 16.3 第 4 题) 计算:
+
+(1) $\left(a+2b-1\right)^2$;
+
+(2) $\left(2x+y+z\right)\left(2x-y-z\right)$.
+
+### 解答 练习一
+
+先分组再用公式.
+
+(1) $\left(a+2b-1\right)^2=\left[a+\left(2b-1\right)\right]^2=a^2+2a\left(2b-1\right)+\left(2b-1\right)^2=a^2+4ab-2a+4b^2-4b+1$.
+
+(2) $\left(2x+y+z\right)\left(2x-y-z\right)=\left[2x+\left(y+z\right)\right]\left[2x-\left(y+z\right)\right]=4x^2-\left(y+z\right)^2=4x^2-y^2-2yz-z^2$. $\blacksquare$
+
 ## 习题一
+
+(习题 16.3 复习巩固第 1 题) 下列各式能否用平方差公式计算? 如果能, 把结果写出来:
+
+(1) $\left(x+y\right)\left(x-y\right)$;
+
+(2) $\left(x-y\right)\left(y-x\right)$;
+
+(3) $\left(x+y\right)\left(-x-y\right)$;
+
+(4) $\left(x-y\right)\left(-x-y\right)$.
+
+### 解答 习题一
+
+由**定义 16.3.1 (平方差公式)**, 平方差公式要求两因式中一组相同, 一组相反.
+
+(1) 能, $\left(x+y\right)\left(x-y\right)=x^2-y^2$.
+
+(2) 不能, 两项都相反, $-\left(x-y\right)^2$.
+
+(3) 不能, 两项都相反, $-\left(x+y\right)^2$.
+
+(4) 能, $\left(x-y\right)\left(-x-y\right)=\left(-y+x\right)\left(-y-x\right)=\left(-y\right)^2-x^2=y^2-x^2$. $\blacksquare$
+
+## 习题二
+
+(习题 16.3 复习巩固第 2 题) 计算:
+
+(1) $\left(2m+3\right)\left(2m-3\right)$;
+
+(2) $\left(-\frac14 x-2y\right)\left(\frac14 x-2y\right)$;
+
+(3) $\left(a+2b\right)\left(a-2b\right)$;
+
+(4) $1003\times997$.
+
+### 解答 习题二
+
+由**定义 16.3.1 (平方差公式)**.
+
+(1) $\left(2m+3\right)\left(2m-3\right)=4m^2-9$.
+
+(2) $\left(-\frac14 x-2y\right)\left(\frac14 x-2y\right)=\left(-2y\right)^2-\left(\frac14 x\right)^2=4y^2-\frac{1}{16}x^2$.
+
+(3) $\left(a+2b\right)\left(a-2b\right)=a^2-4b^2$.
+
+(4) $1003\times997=\left(1000+3\right)\left(1000-3\right)=1000000-9=999991$. $\blacksquare$
+
+## 习题三
+
+(习题 16.3 复习巩固第 3 题) 计算:
+
+(1) $\left(2a+5b\right)^2$;
+
+(2) $\frac34 x-\frac23 y\right)^2$;
+
+(3) $\left(-2m-7n\right)^2$;
+
+(4) $101^2$.
+
+### 解答 习题三
+
+由**定义 16.3.2 (完全平方公式)**.
+
+(1) $\left(2a+5b\right)^2=4a^2+20ab+25b^2$.
+
+(2) $\left(\frac34 x-\frac23 y\right)^2=\frac{9}{16}x^2-xy+\frac49 y^2$.
+
+(3) $\left(-2m-7n\right)^2=4m^2+28mn+49n^2$.
+
+(4) $101^2=\left(100+1\right)^2=10201$. $\blacksquare$
+
+## 习题四
 
 (习题 16.3 复习巩固第 4 题) 计算:
 
@@ -16,9 +136,9 @@
 
 (6) $\left(a-\frac12 b^2\right)^2$.
 
-### 解答 习题一
+### 解答 习题四
 
-由基础知识 与基础知识.
+由**定义 16.3.1 (平方差公式)** 与**定义 16.3.2 (完全平方公式)**.
 
 (1) $\left(2a+5b\right)\left(2a-5b\right)=4a^2-25b^2$.
 
@@ -32,7 +152,7 @@
 
 (6) $\left(a-\frac12 b^2\right)^2=a^2-ab^2+\frac14 b^4$. $\blacksquare$
 
-## 习题二
+## 习题五
 
 (习题 16.3 综合运用第 5 题) 计算:
 
@@ -42,7 +162,7 @@
 
 (3) $\left(2x+3\right)^2-\left(2x-3\right)\left(2x+3\right)$.
 
-### 解答 习题二
+### 解答 习题五
 
 (1) $\left(2a+3b\right)^2-\left(2a-3b\right)^2=\left(4a^2+12ab+9b^2\right)-\left(4a^2-12ab+9b^2\right)=24ab$.
 
@@ -50,13 +170,13 @@
 
 (3) $\left(2x+3\right)^2-\left(2x-3\right)\left(2x+3\right)=\left(4x^2+12x+9\right)-\left(4x^2-9\right)=12x+18$. $\blacksquare$
 
-## 习题三
+## 习题六
 
 (习题 16.3 综合运用第 6 题) 如图, 一块直径为 $a+b$ 的圆形钢板, 从中挖去直径分别为 $a$ 与 $b$ 的两个圆, 求剩下的钢板面积.
 
 图中为一个大圆 (直径 $a+b$), 内部左下, 右下位置分别挖去两个小圆: 一个直径为 $a$, 一个直径为 $b$, 两小圆外切且均与大圆内切, 剩余部分为阴影钢板.
 
-### 解答 习题三
+### 解答 习题六
 
 大圆直径为 $a+b$, 半径 $\frac{a+b}{2}$, 面积 $\pi\left(\frac{a+b}{2}\right)^2$. 挖去两圆半径分别为 $\frac a2$ 与 $\frac b2$, 面积和为 $\pi\left(\frac a2\right)^2+\pi\left(\frac b2\right)^2$.
 
@@ -66,37 +186,37 @@ $$S=\pi\frac{\left(a+b\right)^2}{4}-\pi\frac{a^2}{4}-\pi\frac{b^2}{4}=\pi\frac{a
 
 $\blacksquare$
 
-## 习题四
+## 习题七
 
 (习题 16.3 综合运用第 7 题) 先化简, 再求值: $\left(2x-y\right)\left(y+2x\right)-\left(2y+x\right)\left(2y-x\right)$, 其中 $x=1$, $y=2$.
 
-### 解答 习题四
+### 解答 习题七
 
-由基础知识.
+由**定义 16.3.1 (平方差公式)**.
 
 $$\left(2x-y\right)\left(2x+y\right)-\left(2y+x\right)\left(2y-x\right)=\left(4x^2-y^2\right)-\left(4y^2-x^2\right)=5x^2-5y^2.$$
 
 代入 $x=1,y=2$, 得 $5-20=-15$. $\blacksquare$
 
-## 习题五
+## 习题八
 
 (习题 16.3 拓广探索第 8 题) 已知 $a+b=5$, $ab=3$, 求 $a^2+b^2$ 的值.
 
-### 解答 习题五
+### 解答 习题八
 
-由基础知识, $\left(a+b\right)^2=a^2+2ab+b^2$.
+由**定义 16.3.2 (完全平方公式)**, $\left(a+b\right)^2=a^2+2ab+b^2$.
 
 $$a^2+b^2=\left(a+b\right)^2-2ab=25-6=19.$$
 
 $\blacksquare$
 
-## 习题六
+## 习题九
 
 (习题 16.3 拓广探索第 9 题) 计算: $2\left(3+1\right)\left(3^2+1\right)\left(3^4+1\right)\cdots\left(3^{32}+1\right)+1$.
 
-### 解答 习题六
+### 解答 习题九
 
-反复用平方差公式. 把最前面的 $2$ 写成 $\left(3-1\right)$, 则
+反复用**定义 16.3.1 (平方差公式)**. 把最前面的 $2$ 写成 $\left(3-1\right)$, 则
 
 $$\left(3-1\right)\left(3+1\right)=3^2-1,$$
 
@@ -126,7 +246,7 @@ $$\left(3^{32}-1\right)\left(3^{32}+1\right)=3^{64}-1.$$
 
 (2) 换一个月的月历, 只要方框仍是相邻两行两列, 规律相同.
 
-(3) 设方框左上角的数为 $n$, 则同行右侧为 $n+1$, 下行为 $n+7$ 与 $n+8$. 由基础知识 展开:
+(3) 设方框左上角的数为 $n$, 则同行右侧为 $n+1$, 下行为 $n+7$ 与 $n+8$. 由**定义 16.3.1 (平方差公式)** 展开:
 
 $$n\left(n+8\right)-\left(n+1\right)\left(n+7\right)=n^2+8n-\left(n^2+8n+7\right)=-7.$$
 
@@ -154,7 +274,7 @@ $$n\left(n+8\right)-\left(n+1\right)\left(n+7\right)=n^2+8n-\left(n^2+8n+7\right
 
 ② $50\times50=2500$, $53\times47=2491$, $74\times26=1924$, $91\times9=819$. 每组两数之和均为 $100$, 同样两数越接近 $50$, 积越大.
 
-(2) 设两数之和为定值 $S$, 两数分别为 $\frac S2+d$ 与 $\frac S2-d$. 由基础知识:
+(2) 设两数之和为定值 $S$, 两数分别为 $\frac S2+d$ 与 $\frac S2-d$. 由**定义 16.3.1 (平方差公式)**:
 
 $$\left(\frac S2+d\right)\left(\frac S2-d\right)=\frac{S^2}{4}-d^2.$$
 
@@ -196,7 +316,7 @@ $$\left(a+b\right)^6=\left(\left(a+b\right)^3\right)^2=\left(a^3+3a^2 b+3ab^2+b^
 
 ### 解答 复习题一
 
-由基础知识 与基础知识.
+由**定义 16.1.1 (同底数幂的乘法)** 与**定义 16.1.2 (幂的乘方)**.
 
 (1) $100\times10^3\times10^2=10^2\times10^3\times10^2=10^7$.
 
@@ -362,120 +482,4 @@ $$V=\pi\left(\frac{D^2}{4}-\frac{d^2}{4}\right)h=3.14\times\frac{1-0.16}{4}\time
 
 ### 解答 复习题十一
 
-由同底数幂的除法, $x^{m-n}=x^m\div x^n=64\div8=8$. $\blacksquare$
-
-## 复习题十二
-
-(复习题 拓广探索第 12 题) 某种产品的原料提价, 因而厂家决定对产品进行提价, 现有三种方案:
-
-(1) 第一次提价 $p\%$, 第二次提价 $q\%$;
-
-(2) 第一次提价 $q\%$, 第二次提价 $p\%$;
-
-(3) 第一, 二次提价均为 $\frac{p+q}{2}\%$.
-
-其中 $p,q$ 是不相等的正数. 三种方案哪种提价最多?
-
-### 解答 复习题十二
-
-设原价为 $1$, 各方案最终价格:
-
-(1) $P_1=\left(1+p\%\right)\left(1+q\%\right)=1+p\%+q\%+pq\%^2$.
-
-(2) $P_2=\left(1+q\%\right)\left(1+p\%\right)$, 与 $P_1$ 相同.
-
-(3) $P_3=\left(1+\frac{p+q}{2}\%\right)^2=1+\left(p+q\right)\%+\frac{\left(p+q\right)^2}{4}\%^2$.
-
-比较 $P_3$ 与 $P_1$ 的差:
-
-$$P_3-P_1=\left[\frac{\left(p+q\right)^2}{4}-pq\right]\%^2=\frac{\left(p-q\right)^2}{4}\%^2> 0.$$
-
-因 $p\ne q$, 故 $P_3> P_1=P_2$, 方案 (3) 提价最多. $\blacksquare$
-
-## 练习一
-
-(练习 17.1 第 1 题) 下列由左边到右边的式子变形, 哪些是因式分解? 哪些不是? 为什么?
-
-(1) $4a\left(a+2b\right)=4a^2+8ab$;
-
-(2) $a^2-4=\left(a+2\right)\left(a-2\right)$;
-
-(3) $x^2-3x+2=x\left(x-3\right)+2$.
-
-### 解答 练习一
-
-由基础知识, 因式分解的结果必须是几个整式的乘积.
-
-(1) 不是, 是整式乘法, 由积化为和.
-
-(2) 是, $a^2-4$ 化为 $\left(a+2\right)\left(a-2\right)$ 两个整式的乘积.
-
-(3) 不是, 右边 $x\left(x-3\right)+2$ 仍是和的形式, 不是乘积. $\blacksquare$
-
-## 练习二
-
-(练习 17.1 第 2 题) 分解因式:
-
-(1) $ax-ay$;
-
-(2) $a^2-2a$;
-
-(3) $a^2+ab$;
-
-(4) $xy-y^2+yz$.
-
-### 解答 练习二
-
-由提公因式法.
-
-(1) $ax-ay=a\left(x-y\right)$.
-
-(2) $a^2-2a=a\left(a-2\right)$.
-
-(3) $a^2+ab=a\left(a+b\right)$.
-
-(4) $xy-y^2+yz=y\left(x-y+z\right)$. $\blacksquare$
-
-## 练习三
-
-(练习 17.1 第 3 题) 利用因式分解计算:
-
-(1) $1.99^2+1.99\times0.01$;
-
-(2) $49\times20.2^2+52\times20.2^2-20.2^2$;
-
-(3) $5\times3^4+4\times3^4+9\times3^2$.
-
-### 解答 练习三
-
-由基础知识.
-
-(1) $1.99^2+1.99\times0.01=1.99\left(1.99+0.01\right)=1.99\times2=3.98$.
-
-(2) $49\times20.2^2+52\times20.2^2-20.2^2=20.2^2\left(49+52-1\right)=20.2^2\times100=40804$.
-
-(3) $5\times3^4+4\times3^4+9\times3^2=9\times3^4+9\times3^2=9\times3^2\left(9+1\right)=81\times10=810$. $\blacksquare$
-
-## 练习四
-
-(练习 17.1 第 1 题) 分解因式:
-
-(1) $8m^2 n+2mn$;
-
-(2) $4a^2 b+10ab-ab^2$;
-
-(3) $p\left(a^2+b^2\right)-q\left(a^2+b^2\right)$;
-
-(4) $2a\left(y-z\right)^3-4b\left(z-y\right)^3$.
-
-### 解答 练习四
-
-由基础知识.
-
-(1) $8m^2 n+2mn=2mn\left(4m+1\right)$.
-
-(2) $4a^2 b+10ab-ab^2=ab\left(4a+10-b\right)$.
-
-(3) $p\left(a^2+b^2\right)-q\left(a^2+b^2\right)=\left(a^2+b^2\right)\left(p-q\right)$.
-
-(4) 因 $\left(z-y\right)^3=-\left(y-z\right)^3$, 故 $2a\left(y-z\right)^3-4b\left(z-y\right)^3=\left(y-z\right)^3\left(2a+4b\right)=2\left(y-z\right)^3\left(a+2b\right)$. $\blacksquare$
+由**定义 16.2.4 (同底数幂的除法)**, $x^{m-n}=x^m\div x^n=64\div8=8$. $\blacksquare$

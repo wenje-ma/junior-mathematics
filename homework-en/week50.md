@@ -1,6 +1,46 @@
 # week50
 
+> **Definition 22.1.1 (Constants and Variables)**
+> 
+> In a process of change, we call a quantity whose value remains constant a constant, and a quantity whose value changes a variable.
+
+> **Definition 22.1.2 (Function)**
+> 
+> Generally, in a process of change, if there are two variables $x$ and $y$, and for each definite value of $x$, $y$ has a unique definite value corresponding to it, then we say $x$ is the independent variable and $y$ is a function of $x$.
+
+> **Definition 22.2.1 (Graph of a Function)**
+> 
+> Generally, for a function, if each pair of corresponding values of the independent variable and the function is taken as the x- and y-coordinates of a point, then the figure formed by these points in the coordinate plane is the graph of the function.
+
+> **Conclusion 22.2.2 (Steps for Plotting a Graph by the Point-Plotting Method)**
+> 
+> Step 1, make a table — list some values of the independent variable and their corresponding function values; Step 2, plot points — in the plane rectangular coordinate system, take the independent variable value as the x-coordinate and the corresponding function value as the y-coordinate, and plot the points corresponding to the table values; Step 3, join the points — in order of increasing x-coordinate, connect the plotted points with a smooth curve.
+
+> **Conclusion 22.2.3 (Three Ways of Representing a Function)**
+> 
+> Analytic method: express the functional relation by a mathematical expression; Tabular method: list the corresponding values of the independent variable and the function in a table; Graphical method: express the functional relation by a graph.
+
 ## Exercise 1
+
+(Exercise 22.2, Problem 2) (1) Draw the graph of the function $y=x^2+1$.
+
+(2) Observing the graph of $y=x^2+1$, when $x< 0$, does $y$ increase as $x$ increases or does $y$ decrease as $x$ increases? What about when $x> 0$?
+
+### Solution to Exercise 1
+
+(1) By Steps for Plotting a Graph by the Point-Plotting Method, make a table:
+
+| $x$ | $\cdots$ | $-2$ | $-1$ | $0$ | $1$ | $2$ | $\cdots$ |
+|---|---|---|---|---|---|---|---|
+| $y=x^2+1$ | $\cdots$ | $5$ | $2$ | $1$ | $2$ | $5$ | $\cdots$ |
+
+Plot points in the plane rectangular coordinate system and connect them with a smooth curve, obtaining an upward-opening curve.
+
+The figure shows a plane rectangular coordinate system with integer tick marks on both axes; an upward-opening parabola symmetric about the $y$-axis, with vertex $\left(0,1\right)$ and passing through $\left(-1,2\right)$, $\left(1,2\right)$, $\left(-2,5\right)$, $\left(2,5\right)$, namely the graph of $y=x^2+1$.
+
+(2) From the graph, when $x< 0$, the curve descends from left to right, i.e. $y$ decreases as $x$ increases; when $x> 0$, the curve rises from left to right, i.e. $y$ increases as $x$ increases. $\blacksquare$
+
+## Exercise 2
 
 (Exercise 22.2, Problem 1) A landscaping team is greening a park and takes a break in the middle. The functional relation between the greened area $S$ and the working time $t$ is shown in the figure.
 
@@ -10,9 +50,9 @@
 
 (3) After the break, how much area did the team green per hour?
 
-### Solution to Exercise 1
+### Solution to Exercise 2
 
-By Graph of a Function, the x-coordinate of a point on the graph is the working time $t$, and the y-coordinate is the greened area $S$.
+By **Definition 22.2.1 (Graph of a Function)**, the x-coordinate of a point on the graph is the working time $t$, and the y-coordinate is the greened area $S$.
 
 (1) From the graph, from $t=0$ to $t=1\ \text{h}$, the greened area increases from $0$ to $60\ \text{m}^2$, so the team was working. Thus before the break the team worked for $1\ \text{h}$, and the greened area was $60\ \text{m}^2$.
 
@@ -20,7 +60,7 @@ By Graph of a Function, the x-coordinate of a point on the graph is the working 
 
 (3) From $t=2\ \text{h}$ to $t=4\ \text{h}$, the greened area increases from $60\ \text{m}^2$ to $160\ \text{m}^2$. After the break the team worked $4-2=2\ \text{h}$ and greened $160-60=100\ \text{m}^2$. Thus the area greened per hour is $100 \div 2 = 50\ \text{m}^2/\text{h}$. $\blacksquare$
 
-## Exercise 2
+## Exercise 3
 
 (Exercise 22.2, Problem 2) As shown in the figure, this is the graph of temperature versus time for Beijing and Shanghai on a certain day.
 
@@ -30,9 +70,9 @@ By Graph of a Function, the x-coordinate of a point on the graph is the working 
 
 (3) What other information can you get from the graph?
 
-### Solution to Exercise 2
+### Solution to Exercise 3
 
-By Graph of a Function, the intersection of the two curves means the two places have the same temperature at that time.
+By **Definition 22.2.1 (Graph of a Function)**, the intersection of the two curves means the two places have the same temperature at that time.
 
 (1) From the graph, the temperature curves of Beijing and Shanghai intersect at $7{:}00$ and $12{:}00$, so during this day at $7{:}00$ and $12{:}00$ the two places have the same temperature.
 
@@ -40,21 +80,21 @@ By Graph of a Function, the intersection of the two curves means the two places 
 
 (3) From the graph, Beijing's highest temperature this day is about $10\,^\circ\text{C}$ and lowest about $-3\,^\circ\text{C}$; Shanghai's highest is about $18\,^\circ\text{C}$ and lowest about $6\,^\circ\text{C}$; Shanghai is overall warmer than Beijing. $\blacksquare$
 
-## Exercise 3
+## Exercise 4
 
 (Exercise 22.2, Problem 3) As shown in the figure, construct a problem scenario whose functional relation can be represented by the graph.
 
-### Solution to Exercise 3
+### Solution to Exercise 4
 
-By Graph of a Function, the graph shows the distance from home $y$ (unit: m) versus time $t$ (unit: min): it takes about $15\ \text{min}$ to go from $0$ to $1000\ \text{m}$, there is a stop in the middle, then return home.
+By **Definition 22.2.1 (Graph of a Function)**, the graph shows the distance from home $y$ (unit: m) versus time $t$ (unit: min): it takes about $15\ \text{min}$ to go from $0$ to $1000\ \text{m}$, there is a stop in the middle, then return home.
 
 Construct the scenario: Xiao Ming leaves home, walks at a steady pace for $15\ \text{min}$ to a library $1000\ \text{m}$ from home, stays there for a while reading, then walks steadily home. Here $y$ is Xiao Ming's distance from home and $t$ is time. $\blacksquare$
 
-## Exercise 4
+## Exercise 5
 
 (Exercise 22.2, Problem 1) Use the tabular and analytic methods to represent the interior angle sum $m$ (unit: degrees) of an $n$-gon as a function of the number of sides $n$.
 
-### Solution to Exercise 4
+### Solution to Exercise 5
 
 By the polygon interior angle sum formula, the interior angle sum of an $n$-gon is $\left(n-2\right)\times180^\circ$.
 
@@ -68,11 +108,11 @@ Tabular method:
 
 $\blacksquare$
 
-## Exercise 5
+## Exercise 6
 
 (Exercise 22.2, Problem 2) Use the analytic and graphical methods to represent the perimeter $C$ of an equilateral triangle as a function of its side length $a$.
 
-### Solution to Exercise 5
+### Solution to Exercise 6
 
 An equilateral triangle has three equal sides, so its perimeter is three times the side length.
 
@@ -84,13 +124,13 @@ The figure shows a plane rectangular coordinate system with horizontal axis $a$ 
 
 $\blacksquare$
 
-## Exercise 6
+## Exercise 7
 
 (Exercise 22.2, Problem 3) A boat moves at a steady speed along a straight line toward a dock. At $0\ \text{min}$, $2\ \text{min}$, $4\ \text{min}$, $6\ \text{min}$, the distances from the boat to the dock are measured as $200\ \text{m}$, $150\ \text{m}$, $100\ \text{m}$, $50\ \text{m}$. Is the distance $s$ (unit: m) from the boat to the dock a function of time $t$ (unit: min)? If so, write the analytic expression, draw the graph, and calculate how long it takes the boat to reach the dock.
 
-### Solution to Exercise 6
+### Solution to Exercise 7
 
-By Function, for each definite value of time $t$, the distance $s$ from the boat to the dock has a unique definite value, so $s$ is a function of $t$.
+By **Definition 22.1.2 (Function)**, for each definite value of time $t$, the distance $s$ from the boat to the dock has a unique definite value, so $s$ is a function of $t$.
 
 The boat moves at a steady speed of $\left(200-150\right)\div 2 = 25\ \text{m/min}$. The initial distance is $200\ \text{m}$, so the analytic expression is
 
@@ -128,7 +168,7 @@ $\blacksquare$
 
 ### Solution to Problem 2
 
-By Function, for each definite value of $x$, $y$ has a unique definite value corresponding to it. Draw a line perpendicular to the $x$-axis; if it intersects the curve at only one point, then $y$ is a function of $x$.
+By **Definition 22.1.2 (Function)**, for each definite value of $x$, $y$ has a unique definite value corresponding to it. Draw a line perpendicular to the $x$-axis; if it intersects the curve at only one point, then $y$ is a function of $x$.
 
 (1) A line perpendicular to the $x$-axis meets the curve at only one point, so $y$ is a function of $x$.
 
@@ -162,7 +202,7 @@ Thus the graph that best represents $y$ vs $x$ is: a segment starting at some po
 
 ### Solution to Problem 4
 
-By Graph of a Function, the x-coordinate is time $x$, and the y-coordinate is distance from home $y$.
+By **Definition 22.2.1 (Graph of a Function)**, the x-coordinate is time $x$, and the y-coordinate is distance from home $y$.
 
 (1) From the y-coordinate, the stadium is $2.5\ \text{km}$ from home; from the x-coordinate, it took Liu Wei $15\ \text{min}$ to reach the stadium.
 
@@ -186,7 +226,7 @@ By Graph of a Function, the x-coordinate is time $x$, and the y-coordinate is di
 
 ### Solution to Problem 5
 
-(1) By Function, for each definite value of the release angle $x$, the maximum distance $y$ has a unique definite value, so $y$ is a function of $x$.
+(1) By **Definition 22.1.2 (Function)**, for each definite value of the release angle $x$, the maximum distance $y$ has a unique definite value, so $y$ is a function of $x$.
 
 (2) From the table, as the release angle increases from $38^\circ$ to $42^\circ$, the maximum distance increases from $21.70\ \text{m}$ to $21.91\ \text{m}$; that is, the maximum distance increases with the release angle, but the rate of increase gradually slows. $\blacksquare$
 
@@ -254,7 +294,7 @@ $\blacksquare$
 
 ### Solution to Problem 9
 
-By Graph of a Function, the y-coordinate is the distance $y$ from city $A$, and the x-coordinate is the time $t$.
+By **Definition 22.2.1 (Graph of a Function)**, the y-coordinate is the distance $y$ from city $A$, and the x-coordinate is the time $t$.
 
 (1) From the graph, both cars reach city $B$, and the distance traveled is $300\ \text{km}$.
 
@@ -280,7 +320,7 @@ Measure and record each student's waist circumference $l$ and weight $w$, fill i
 
 ### Solution to Activity 1
 
-By Function, $a$ is a function of $l$, $b$ is a function of $w$, $d$ is a function of $a$ and $b$, and $p$ is a function of $d$ and $w$.
+By **Definition 22.1.2 (Function)**, $a$ is a function of $l$, $b$ is a function of $w$, $d$ is a function of $a$ and $b$, and $p$ is a function of $d$ and $w$.
 
 (1) From $a=0.74l$, substitute each student's waist circumference $l$ to obtain the corresponding value of $a$.
 
@@ -298,9 +338,9 @@ Fill the above results into the body fat measurement table; comparing with the i
 
 ### Solution to Review Problem 1
 
-By Constants and Variables, the distance $10\ \text{km}$ between $A$ and $B$ and the cycling speed $20\ \text{km/h}$ remain constant, so they are constants. The cycling time $x$ and the distance $y$ from $B$ change, so $x$ and $y$ are variables.
+By **Definition 22.1.1 (Constants and Variables)**, the distance $10\ \text{km}$ between $A$ and $B$ and the cycling speed $20\ \text{km/h}$ remain constant, so they are constants. The cycling time $x$ and the distance $y$ from $B$ change, so $x$ and $y$ are variables.
 
-By Function, for each definite value of the cycling time $x$, the distance $y$ from $B$ has a unique definite value, so $y$ is a function of $x$, where $x$ is the independent variable.
+By **Definition 22.1.2 (Function)**, for each definite value of the cycling time $x$, the distance $y$ from $B$ has a unique definite value, so $y$ is a function of $x$, where $x$ is the independent variable.
 
 After cycling for $x\ \text{h}$, Li Ming has traveled $20x\ \text{km}$, and his distance from $B$ is $10-20x$. So the analytic expression is $y=10-20x$.
 
@@ -320,7 +360,7 @@ The cycling time cannot be negative, and once Li Ming reaches $B$ the distance i
 
 ### Solution to Review Problem 2
 
-(1) By Function, for each definite value of the water level $x$, the storage capacity $y$ has a unique definite value, so $y$ is a function of $x$.
+(1) By **Definition 22.1.2 (Function)**, for each definite value of the water level $x$, the storage capacity $y$ has a unique definite value, so $y$ is a function of $x$.
 
 (2) From the table, as the water level rises from $95\ \text{m}$ to $128\ \text{m}$, the storage capacity increases from $1.05\times10^7\ \text{m}^3$ to $1.03\times10^8\ \text{m}^3$; that is, the storage capacity increases as the water level rises. $\blacksquare$
 
@@ -332,7 +372,7 @@ $\left(-2, -1\right)$, $\left(-1, 0\right)$, $\left(0, 1\right)$, $\left(1, 2\ri
 
 ### Solution to Review Problem 3
 
-By Graph of a Function, the coordinates of a point on the graph satisfy the analytic expression.
+By **Definition 22.2.1 (Graph of a Function)**, the coordinates of a point on the graph satisfy the analytic expression.
 
 Substitute $x=-2$ into $y=\frac{1}{2}x+1$: $y=\frac{1}{2}\times\left(-2\right)+1=0 \neq -1$, so $\left(-2, -1\right)$ is not on the graph.
 
@@ -373,33 +413,3 @@ By the triangle inequality (the sum of two sides greater than the third), $2x > 
 The figure shows a plane rectangular coordinate system with horizontal axis leg length $x$ and vertical axis base length $y$; a line segment joining the open endpoints $\left(5,10\right)$ and $\left(10,0\right)$ (endpoints excluded), namely the graph of $y=20-2x$ ($5< x< 10$).
 
 $\blacksquare$
-
-## Review Problem 6
-
-(Review Problem, Comprehensive Application, Problem 6) (1) Draw the graph of the function $y=\left|x-1\right|$;
-
-(2) Let $P\left(x, 0\right)$ be a moving point on the $x$-axis; its distance to the point on the $x$-axis representing $-3$ is $y$. Find the analytic expression for $y$ as a function of $x$, and draw the graph of this function.
-
-### Solution to Review Problem 6
-
-(1) When $x \geq 1$, $y=x-1$; when $x < 1$, $y=1-x$. Make a table, plot and join points, obtaining a V-shaped graph with vertex at $\left(1, 0\right)$.
-
-The figure shows a plane rectangular coordinate system; a V-shaped polyline opening upward with vertex at $\left(1,0\right)$, the left ray having slope $-1$ and the right ray slope $1$, namely the graph of $y=\left|x-1\right|$.
-
-(2) The distance from $P\left(x, 0\right)$ to $\left(-3, 0\right)$ is $\left|x-\left(-3\right)\right|=\left|x+3\right|$. So the analytic expression is $y=\left|x+3\right|$, and the graph is V-shaped with vertex at $\left(-3, 0\right)$. $\blacksquare$
-
-## Review Problem 7
-
-(Review Problem, Extension and Exploration, Problem 7) In the same plane rectangular coordinate system, draw the graphs of the functions $y=x$ and $y=\frac{1}{x}$. Using these two graphs, answer:
-
-(1) For what values of $x$ is $x$ greater than $\frac{1}{x}$?
-
-(2) For what values of $x$ is $x$ less than $\frac{1}{x}$?
-
-### Solution to Review Problem 7
-
-The figure shows one plane rectangular coordinate system containing: a straight line $y=x$ through the origin with slope $1$; and a hyperbola with two branches in the first and third quadrants, with the two coordinate axes as asymptotes, namely the graph of $y=\frac{1}{x}$; the two graphs intersect at $\left(1,1\right)$ and $\left(-1,-1\right)$.
-
-(1) From the graphs, when the graph of $y=x$ lies above the graph of $y=\frac{1}{x}$, $x > \frac{1}{x}$, i.e. $-1 < x < 0$ or $x > 1$.
-
-(2) When the graph of $y=x$ lies below the graph of $y=\frac{1}{x}$, $x < \frac{1}{x}$, i.e. $x < -1$ or $0 < x < 1$. $\blacksquare$

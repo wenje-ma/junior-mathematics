@@ -1,12 +1,224 @@
 # week15
 
+> **Definition 6.1.1 (Solid Figure)**
+> 
+> A geometric figure whose parts do not all lie in the same plane is called a solid figure.
+
+> **Definition 6.1.2 (Plane Figure)**
+> 
+> A geometric figure whose parts all lie in the same plane is called a plane figure.
+
+> **Definition 6.1.3 (Net)**
+> 
+> Some solid figures are enclosed by several plane figures; if their surfaces are cut open appropriately, they can be unfolded into plane figures. Such a plane figure is called the net of the corresponding solid figure.
+
+> **Definition 6.1.4 (Points, Lines, Planes, and Solids)**
+> 
+> A geometric solid is also called a solid for short. What encloses a solid is a surface; where two surfaces intersect forms a line; where two lines intersect is a point.
+
+> **Definition 6.1.5 (A Moving Point Forms a Line, a Moving Line Forms a Plane, a Moving Plane Forms a Solid)**
+> 
+> A moving point forms a line, a moving line forms a plane, and a moving plane forms a solid.
+
+> **Definition 6.2.1 (Line)**
+> 
+> Through two points there is one line, and only one line. In short: two points determine a line.
+
+> **Definition 6.2.5 (Basic Fact about Segments)**
+> 
+> Between two points, the segment is the shortest.
+
+> **Definition 6.2.6 (Distance)**
+> 
+> The length of the segment joining two points is called the distance between them.
+
+> **Definition 6.2.7 (Midpoint of a Segment)**
+> 
+> Point $M$ divides segment $AB$ into two equal segments $AM$ and $MB$; point $M$ is called the midpoint of segment $AB$.
+
+> **Definition 6.3.1 (Angle)**
+> 
+> The figure formed by two rays with a common endpoint is called an angle.
+
+> **Definition 6.3.2 (Measuring Angles)**
+> 
+> $1^{\circ}=60'$, $1'=60''$. A full angle $=360^{\circ}$.
+
+> **Definition 6.3.4 (Angle Bisector)**
+> 
+> A ray starting from the vertex of an angle that divides the angle into two equal angles is called the angle bisector.
+
+> **Definition 6.3.5 (Complementary Angle)**
+> 
+> If the sum of two angles equals $90^{\circ}$ (a right angle), we say the two angles are complementary to each other; that is, each angle is the complement of the other.
+
+> **Definition 6.3.6 (Supplementary Angle)**
+> 
+> If the sum of two angles equals $180^{\circ}$ (a straight angle), we say the two angles are supplementary to each other; that is, each angle is the supplement of the other.
+
+> **Definition 6.3.7 (Properties of Complementary and Supplementary Angles)**
+> 
+> Complements of the same angle (or of equal angles) are equal; supplements of the same angle (or of equal angles) are equal.
+
+> **Definition 7.1.1 (Adjacent Supplementary Angles)**
+> 
+> Among the four angles formed by two intersecting lines, two angles that share one common side and whose other sides are opposite extensions of each other are adjacent supplementary angles. Adjacent supplementary angles are supplementary, i.e. their sum is $180^\circ$.
+
+> **Theorem 7.1.1 (Vertical Angles Are Equal)**
+> 
+> Vertical angles are equal.
+
+> **Basic Fact 7.1.1 (Perpendicular Lines)**
+> 
+> In the same plane, through a given point there is exactly one line perpendicular to a given line.
+
+> **Definition 7.1.2 (Vertical Angles)**
+> 
+> Among the four angles formed by two intersecting lines, two angles that share a common vertex and whose sides are respectively the opposite extensions of each other's sides are vertical angles.
+
+> **Theorem 7.1.2 (The Perpendicular Segment Is the Shortest)**
+> 
+> Among all segments joining a point outside a line to points on the line, the perpendicular segment is the shortest. Stated briefly: the perpendicular segment is the shortest.
+
+> **Definition 7.1.3 (Perpendicular)**
+> 
+> When one of the four angles formed by two intersecting lines is a right angle, the two lines are said to be perpendicular to each other, written $a\perp b$. One of the lines is called the perpendicular line of the other, and the intersection is called the foot of the perpendicular.
+
+> **Definition 7.1.4 (Distance from a Point to a Line)**
+> 
+> The length of the perpendicular segment from a point outside a line to the line is called the distance from the point to the line.
+
+> **Definition 7.1.5 (Corresponding Angles, Alternate Interior Angles, Consecutive Interior Angles)**
+> 
+> When two lines are cut by a third line: a pair of angles on the same side of the two lines and on the same side of the transversal are called corresponding angles; a pair of angles between the two lines and on opposite sides of the transversal are called alternate interior angles; a pair of angles between the two lines and on the same side of the transversal are called consecutive interior angles.
+
 ## Review Problem 1
 
-(Review Problem, Extension and Exploration, Problem 13) Draw any quadrilateral $ABCD$; let the midpoints of its four sides be $E$, $F$, $G$, $H$ respectively. Join $EF$, $FG$, $GH$, $HE$ and measure their lengths; what do you observe? Measure the degrees of $\angle 1$, $\angle 2$, $\angle 3$, $\angle 4$; what else do you observe?
+(Review Problem, Review and Consolidation, Problem 6) Fill in the blanks:
+
+(1) At $6$ o'clock and $20$ minutes, the hour hand and minute hand of a clock form an angle of $\;\_\_\;^{\circ}$;
+
+(2) $33^{\circ}12'\times6=\;\_\_\;$, $121^{\circ}\div3=\;\_\_\;$;
+
+(3) If $\angle A=55^{\circ}17'$, then the complement of $\angle A$ is $\;\_\_\;$, and the supplement of $\angle A$ is $\;\_\_\;$.
 
 ### Solution to Review Problem 1
 
-By Midpoint of a Segment and Angle.
+By **Definition 6.3.2 (Measuring Angles)**, **Definition 6.3.5 (Complementary Angle)**, and **Definition 6.3.6 (Supplementary Angle)**.
+
+(1) At $6$ o'clock and $20$ minutes: the minute hand is at $20\times6^{\circ}=120^{\circ}$. The hour hand is at $6\times30^{\circ}+20\times0.5^{\circ}=180^{\circ}+10^{\circ}=190^{\circ}$. The angle $=\left|190^{\circ}-120^{\circ}\right|=70^{\circ}$.
+
+(2) $33^{\circ}12'\times6=198^{\circ}72'=199^{\circ}12'$. $121^{\circ}\div3=40.333^{\circ}=40^{\circ}20'$.
+
+(3) Complement $=90^{\circ}-55^{\circ}17'=89^{\circ}60'-55^{\circ}17'=34^{\circ}43'$. Supplement $=180^{\circ}-55^{\circ}17'=179^{\circ}60'-55^{\circ}17'=124^{\circ}43'$. $\blacksquare$
+
+## Review Problem 2
+
+(Review Problem, Review and Consolidation, Problem 7) True or false:
+
+(1) $37^{\circ}28'> 37.5^{\circ}$;
+
+(2) If two angles are both supplements of the same angle, then they are equal;
+
+(3) The supplement of an angle is always greater than the angle itself;
+
+(4) An acute angle and an obtuse angle are supplementary.
+
+### Solution to Review Problem 2
+
+By **Definition 6.3.2 (Measuring Angles)**, **Definition 6.3.6 (Supplementary Angle)**, and **Definition 6.3.7 (Properties of Complementary and Supplementary Angles)**.
+
+(1) $37.5^{\circ}=37^{\circ}30'$. $37^{\circ}28'< 37^{\circ}30'$, so false.
+
+(2) By **Definition 6.3.7 (Properties of Complementary and Supplementary Angles)**, true.
+
+(3) If the angle is obtuse (e.g. $120^{\circ}$), its supplement is $60^{\circ}$, smaller than the original angle, so false.
+
+(4) The acute angle $30^{\circ}$ and obtuse angle $100^{\circ}$ sum to $130^{\circ}\ne180^{\circ}$, so false. $\blacksquare$
+
+## Review Problem 3
+
+(Review Problem, Comprehensive Application, Problem 8) Viewing a certain solid from the front, the left, and above gives three plane figures; name this solid and draw it.
+
+### Solution to Review Problem 3
+
+By **Definition 6.1.2 (Plane Figure)**, reconstruct the solid from its three views.
+
+In the figure: the front view is a rectangle, the left view is a circle, and the top view is a rectangle. The front and top views are both rectangles while the left view is a circle; this is the three-view drawing of a horizontally placed cylinder (its axis runs left-to-right). Hence the solid is a cylinder.
+
+The figure shows the three views of a solid: the front view is a rectangle, the left view is a circle, and the top view is a rectangle (the three-view drawing of a horizontally placed cylinder).
+
+$\blacksquare$
+
+## Review Problem 4
+
+(Review Problem, Comprehensive Application, Problem 9) Given that $BC$ is the diameter of the cylinder's base and $AB$ is the cylinder's height. On the cylinder's lateral surface, a loop of wire passing through points $A$, $C$ is embedded along the shortest path. Now cut the lateral surface open along $AB$; the resulting net of the lateral surface is ( ).
+
+### Solution to Review Problem 4
+
+By **Definition 6.1.3 (Net)** and **Definition 6.2.5 (Basic Fact about Segments)**.
+
+The lateral surface of the cylinder unfolds into a rectangle. Positions of $A$ and $C$ on the net: $A$ lies on one side of the rectangle, and $C$ lies at the corresponding position on the opposite side. The shortest path on the net is the straight segment joining $A$ and $C$. Since the wire loops once around the cylinder, $C$ has two symmetric positions on the net, and the shortest path is the diagonal of the rectangle. $\blacksquare$
+
+## Review Problem 5
+
+(Review Problem, Comprehensive Application, Problem 10) The triangles at the top undergo the motions marked in the figure to produce the solids at the bottom. Connect each plane figure to its corresponding solid with a line.
+
+### Solution to Review Problem 5
+
+By **Definition 6.1.5 (A Moving Point Forms a Line, a Moving Line Forms a Plane, a Moving Plane Forms a Solid)**.
+
+The three motions in the top row: (1) translate the triangle upward along the arrow, (2) rotate the triangle one full turn about line $l$, (3) rotate the triangle one full turn about line $a$. The three solids in the bottom row: a cone, a double-cone combination, and a prism.
+
+(1) Translating the triangle upward gives a prism (a triangular prism).
+
+(2) Rotating a right triangle about its leg $l$ one full turn gives a cone.
+
+(3) Rotating a triangle about its hypotenuse $a$ one full turn gives a combination of two cones sharing a base.
+
+Corresponding connections: translation $\to$ prism, rotation about $l$ $\to$ cone, rotation about $a$ $\to$ double-cone combination. $\blacksquare$
+
+## Review Problem 6
+
+(Review Problem, Extension and Exploration, Problem 11) Points $E$, $F$ lie respectively on sides $AB$, $CD$ of a rectangular sheet $ABCD$; join $EF$. Fold $\angle BEF$ so that point $B$ lands at $B'$ on line $EF$, giving crease $EM$; fold $\angle AEF$ so that point $A$ lands at $A'$ on line $EF$, giving crease $EN$. Find the degree measure of $\angle NEM$.
+
+### Solution to Review Problem 6
+
+By **Definition 6.3.4 (Angle Bisector)** and the properties of folding.
+
+After folding, $EM$ is the bisector of $\angle BEB'$, and $EN$ is the bisector of $\angle AEA'$.
+
+Since $A$, $E$, $B$ lie on the same line, $\angle AEB=180^{\circ}$.
+
+$$\angle NEM=\angle NEA'+\angle A'EF+\angle FEB'+\angle B'EM.$$
+
+By folding: $\angle NEA'=\angle NEA$, $\angle B'EM=\angle BEM$.
+
+$$\angle NEM=\frac{1}{2}\angle AEA'+\frac{1}{2}\angle BEB'=\frac{1}{2}\left(\angle AEA'+\angle BEB'\right).$$
+
+Since $A'$, $B'$ lie on line $EF$, $\angle AEA'+\angle BEB'=\angle AEB=180^{\circ}$. Hence
+
+$$\angle NEM=\frac{1}{2}\times180^{\circ}=90^{\circ}.$$
+
+$\blacksquare$
+
+## Review Problem 7
+
+(Review Problem, Extension and Exploration, Problem 12) Based on the information in the zoo map, state in what direction the Ocean World, the Lion-Tiger Park, the Monkey Hill, and the Elephant House are from the main entrance.
+
+### Solution to Review Problem 7
+
+By **Definition 6.3.1 (Angle)**, taking the main entrance as the observation point, describe directions by the angle each attraction makes with true north.
+
+In the zoo map, the main entrance lies slightly left of center. Monkey Hill is north-by-west of the entrance; the Elephant House is southeast of Monkey Hill, i.e. north-by-east of the entrance; the Lion-Tiger Park is south-by-west of the entrance; Ocean World is south-by-east of the entrance. Hence, taking the entrance as observation point: Monkey Hill is north-by-west, the Elephant House is north-by-east, the Lion-Tiger Park is south-by-west, and Ocean World is south-by-east. $\blacksquare$
+
+## Review Problem 8
+
+(Review Problem, Extension and Exploration, Problem 13) Draw any quadrilateral $ABCD$; let the midpoints of its four sides be $E$, $F$, $G$, $H$ respectively. Join $EF$, $FG$, $GH$, $HE$ and measure their lengths; what do you observe? Measure the degrees of $\angle 1$, $\angle 2$, $\angle 3$, $\angle 4$; what else do you observe?
+
+### Solution to Review Problem 8
+
+By **Definition 6.2.7 (Midpoint of a Segment)** and **Definition 6.3.1 (Angle)**.
 
 For the quadrilateral $EFGH$ formed by joining the midpoints, measurement shows: $EF=GH$, $FG=HE$, i.e. opposite sides are equal. Also $\angle 1=\angle 3$, $\angle 2=\angle 4$, i.e. opposite angles are equal. Thus one may conjecture: the quadrilateral formed by joining the midpoints of any quadrilateral is a parallelogram.
 
@@ -14,13 +226,13 @@ In the figure, the midpoints of the four sides of quadrilateral $ABCD$ are $E$, 
 
 $\blacksquare$
 
-## Review Problem 2
+## Review Problem 9
 
 (Review Problem, Extension and Exploration, Problem 14) Find a point $O$ inside quadrilateral $ABCD$ such that the sum of its distances to the four vertices, $OA+OB+OC+OD$, is minimized; explain why.
 
-### Solution to Review Problem 2
+### Solution to Review Problem 9
 
-By between two points the segment is the shortest.
+By **Definition 6.2.5 (Basic Fact about Segments)**.
 
 Let $O$ be any point inside the quadrilateral; then
 
@@ -36,7 +248,7 @@ Equality holds if and only if $O$ lies on both diagonals $AC$ and $BD$, i.e. $O$
 
 ### Solution to Inquiry 1
 
-By Measuring Angles and the circumference formula for a circle.
+By **Definition 6.3.2 (Measuring Angles)** and the circumference formula for a circle.
 
 A standard $400\ \text{m}$ track consists of two straightaways and two semicircular curves; the two semicircular curves together form one full circle. The curve radius of the first lane is $36.5\ \text{m}$, so the curve length is $2\pi\times36.5\approx229.3\ \text{m}$.
 
@@ -50,7 +262,7 @@ The curves are semicircular; the two curves together form one circle. $\blacksqu
 
 ### Solution to Inquiry 2
 
-By Distance and the relation between a circle's circumference and its radius.
+By **Definition 6.2.6 (Distance)** and the relation between a circle's circumference and its radius.
 
 The $100\ \text{m}$ race runs entirely on the straightaway, so the starting points are the same.
 
@@ -64,7 +276,7 @@ The $800\ \text{m}$ and $1500\ \text{m}$ races also go through curves, so their 
 
 ### Solution to Inquiry 3
 
-By Measuring Angles and Distance.
+By **Definition 6.3.2 (Measuring Angles)** and **Definition 6.2.6 (Distance)**.
 
 $400\ \text{m}$ race: the first lane's starting line is set at the junction of straightaway and curve. For the other lanes, since an outer lane's curve length exceeds the inner lane's by $2\pi d$ ($d$ is the lane width), the starting line should be moved forward by the corresponding distance. The difference between adjacent lanes' starting lines is about $2\pi\times1.22\approx7.66\ \text{m}$.
 
@@ -76,7 +288,7 @@ $4\times100\ \text{m}$ relay: each leg is $100\ \text{m}$; the start of each leg
 
 ### Solution to Inquiry 4
 
-By Distance and the circumference formula for a circle.
+By **Definition 6.2.6 (Distance)** and the circumference formula for a circle.
 
 The curve radius of a $300\ \text{m}$ track is smaller than that of a standard $400\ \text{m}$ track. The $200\ \text{m}$ race goes through one curve; running $200\ \text{m}$ in the first lane exactly covers one curve plus a section of straightaway.
 
@@ -88,7 +300,7 @@ The shift of each lane's starting line is still computed from the difference in 
 
 ### Solution to Inquiry 5
 
-By Distance.
+By **Definition 6.2.6 (Distance)**.
 
 A high jump area includes an approach run, a crossbar, and a landing area. The approach run is at least $15\ \text{m}$ long and $1.22\ \text{m}$ to $1.25\ \text{m}$ wide. The distance between the supports at the two ends of the crossbar is $4\ \text{m}$. The landing area is a foam mat of no less than $5\ \text{m}\times3\ \text{m}$. $\blacksquare$
 
@@ -98,7 +310,7 @@ A high jump area includes an approach run, a crossbar, and a landing area. The a
 
 ### Solution to Inquiry 6
 
-By Distance.
+By **Definition 6.2.6 (Distance)**.
 
 The long jump sand pit is rectangular, about $8\ \text{m}$ to $9\ \text{m}$ long and about $2.75\ \text{m}$ to $3\ \text{m}$ wide. The distance from the near edge of the pit to the takeoff board is $1.25\ \text{m}$ to $1.75\ \text{m}$. The approach run is at least $40\ \text{m}$ long and $1.22\ \text{m}$ to $1.25\ \text{m}$ wide. $\blacksquare$
 
@@ -108,7 +320,7 @@ The long jump sand pit is rectangular, about $8\ \text{m}$ to $9\ \text{m}$ long
 
 ### Solution to Inquiry 7
 
-By Measuring Angles and the area formula for a circle.
+By **Definition 6.3.2 (Measuring Angles)** and the area formula for a circle.
 
 The inner diameter of the shot put throwing circle is $2.135\ \text{m}$, so its radius is $1.0675\ \text{m}$. The radius of the throwing sector is $25\ \text{m}$, and the sector's central angle is $34.92^{\circ}$.
 
@@ -124,7 +336,7 @@ The total area is about $190.8+3.58\approx194.4\ \text{m}^{2}$. $\blacksquare$
 
 ### Solution to Inquiry 8
 
-By between two points the segment is the shortest and safety considerations.
+By **Definition 6.2.5 (Basic Fact about Segments)** and safety considerations.
 
 Since the shot is thrown far and is dangerous, it should be placed in a corner of the field (outside the curves), away from the running track and other competition areas. This way it neither interferes with track events nor endangers spectators and athletes. $\blacksquare$
 
@@ -136,7 +348,7 @@ The figure shows four small diagrams (1)–(4) in sequence, each marking a pair 
 
 ### Solution to Exercise 1
 
-By Vertical Angles, for a pair of angles to be vertical angles they must simultaneously satisfy: sharing a common vertex, and the sides of one being respectively the opposite extensions of the sides of the other.
+By **Definition 7.1.2 (Vertical Angles)**, for a pair of angles to be vertical angles they must simultaneously satisfy: sharing a common vertex, and the sides of one being respectively the opposite extensions of the sides of the other.
 
 In figure (1), the sides of $\angle 1$ and $\angle 2$ are not opposite extensions of each other, so they are not vertical angles; in figure (2), $\angle 1$ and $\angle 2$ share a common vertex and their sides are respectively opposite extensions of each other, so they are vertical angles; in figure (3), $\angle 1$ and $\angle 2$ do not satisfy the opposite-extension condition, so they are not vertical angles; in figure (4), the sides of $\angle 1$ and $\angle 2$ are not opposite extensions of each other, so they are not vertical angles.
 
@@ -148,7 +360,7 @@ In summary, only the $\angle 1$ and $\angle 2$ in figure (2) are vertical angles
 
 ### Solution to Exercise 2
 
-Two lines intersect to form four angles; the two angles adjacent to $\angle\alpha$ are both its adjacent supplementary angles, and the angle opposite $\angle\alpha$ is its vertical angle. By Adjacent Supplementary Angles, adjacent supplementary angles sum to $180^\circ$; by Vertical Angles Are Equal, the vertical angle equals $\angle\alpha$.
+Two lines intersect to form four angles; the two angles adjacent to $\angle\alpha$ are both its adjacent supplementary angles, and the angle opposite $\angle\alpha$ is its vertical angle. By **Definition 7.1.1 (Adjacent Supplementary Angles)**, adjacent supplementary angles sum to $180^\circ$; by **Theorem 7.1.1 (Vertical Angles Are Equal)**, the vertical angle equals $\angle\alpha$.
 
 When $\angle\alpha=35^\circ$, the vertical angle is $35^\circ$, and both adjacent supplementary angles are $180^\circ-35^\circ=145^\circ$, so the other three angles are $145^\circ$, $35^\circ$, $145^\circ$.
 
@@ -164,7 +376,7 @@ When $\angle\alpha=m^\circ$, the vertical angle is $m^\circ$, and both adjacent 
 
 ### Solution to Exercise 3
 
-$\angle AOC$ and $\angle BOC$ share side $OC$, and their other sides are opposite extensions of each other; by Adjacent Supplementary Angles, they are supplementary, i.e.
+$\angle AOC$ and $\angle BOC$ share side $OC$, and their other sides are opposite extensions of each other; by **Definition 7.1.1 (Adjacent Supplementary Angles)**, they are supplementary, i.e.
 
 $$
 \angle AOC+\angle BOC=180^\circ.
@@ -172,7 +384,7 @@ $$
 
 Also $\angle AOC:\angle BOC=2:7$; set $\angle AOC=2k$, $\angle BOC=7k$; then $2k+7k=180^\circ$, giving $k=20^\circ$. Hence $\angle BOC=7k=140^\circ$.
 
-$\angle AOD$ and $\angle BOC$ share vertex $O$, and their sides are opposite extensions of each other; by Vertical Angles Are Equal, $\angle AOD=\angle BOC=140^\circ$. $\blacksquare$
+$\angle AOD$ and $\angle BOC$ share vertex $O$, and their sides are opposite extensions of each other; by **Theorem 7.1.1 (Vertical Angles Are Equal)**, $\angle AOD=\angle BOC=140^\circ$. $\blacksquare$
 
 ## Exercise 4
 
@@ -182,7 +394,7 @@ $\angle AOD$ and $\angle BOC$ share vertex $O$, and their sides are opposite ext
 
 The four angles sum to a full angle of $360^\circ$; since they are all equal, each angle is $360^\circ\div 4=90^\circ$.
 
-By Perpendicular, when one of the four angles formed by two intersecting lines is a right angle, the two lines are perpendicular. Here all four angles are $90^\circ$, so the two lines are perpendicular. $\blacksquare$
+By **Definition 7.1.3 (Perpendicular)**, when one of the four angles formed by two intersecting lines is a right angle, the two lines are perpendicular. Here all four angles are $90^\circ$, so the two lines are perpendicular. $\blacksquare$
 
 ## Exercise 5
 
@@ -192,7 +404,7 @@ By Perpendicular, when one of the four angles formed by two intersecting lines i
 
 By Perpendicular Lines, through point $P$ there is exactly one line perpendicular to $AB$, and also exactly one line perpendicular to $CD$. Align one leg of a set square with $AB$, slide the set square along $AB$ until the other leg passes through point $P$, and draw a line along this leg; this gives the line through $P$ perpendicular to $AB$, with foot denoted $H$; draw the line through $P$ perpendicular to $CD$ in the same way.
 
-By Distance from a Point to a Line, the distance from point $P$ to line $AB$ is the length of the perpendicular segment $PH$; measure the length of $PH$ with a ruler to obtain it. $\blacksquare$
+By **Definition 7.1.4 (Distance from a Point to a Line)**, the distance from point $P$ to line $AB$ is the length of the perpendicular segment $PH$; measure the length of $PH$ with a ruler to obtain it. $\blacksquare$
 
 ## Exercise 6
 
@@ -206,11 +418,11 @@ The figure shows right triangle $ABC$ with $\angle C=90^\circ$, i.e. $AC\perp BC
 
 ### Solution to Exercise 6
 
-By Distance from a Point to a Line, the distance from a point to a line is the length of the perpendicular segment from that point to the line.
+By **Definition 7.1.4 (Distance from a Point to a Line)**, the distance from a point to a line is the length of the perpendicular segment from that point to the line.
 
 (1) In triangle $ABC$, $\angle C=90^\circ$, i.e. $AC\perp BC$. The perpendicular segment from point $A$ to line $CB$ is $AC$, so the distance from $A$ to line $CB$ is the length of segment $AC$; the perpendicular segment from point $B$ to line $AC$ is $BC$, so the distance from $B$ to line $AC$ is the length of segment $BC$.
 
-(2) By The Perpendicular Segment Is the Shortest, among the segments joining an outside point to points on a line the perpendicular segment is the shortest. For point $A$, $AC$ is the perpendicular segment from $A$ to line $BC$, while $AB$ is an oblique segment, so $AB> AC$; for point $B$, $BC$ is the perpendicular segment from $B$ to line $AC$, while $AB$ is an oblique segment, so $AB> BC$. Therefore $AB$ is the longest of the three sides. $\blacksquare$
+(2) By **Theorem 7.1.2 (The Perpendicular Segment Is the Shortest)**, among the segments joining an outside point to points on a line the perpendicular segment is the shortest. For point $A$, $AC$ is the perpendicular segment from $A$ to line $BC$, while $AB$ is an oblique segment, so $AB> AC$; for point $B$, $BC$ is the perpendicular segment from $B$ to line $AC$, while $AB$ is an oblique segment, so $AB> BC$. Therefore $AB$ is the longest of the three sides. $\blacksquare$
 
 ## Exercise 7
 
@@ -218,7 +430,7 @@ By Distance from a Point to a Line, the distance from a point to a line is the l
 
 ### Solution to Exercise 7
 
-By Corresponding Angles, Alternate Interior Angles, Consecutive Interior Angles, first determine the two lines being cut and the transversal, then judge by the positions of the two angles.
+By **Definition 7.1.5 (Corresponding Angles, Alternate Interior Angles, Consecutive Interior Angles)**, first determine the two lines being cut and the transversal, then judge by the positions of the two angles.
 
 In each figure, the transversal is the line that intersects both lines being cut. A pair of angles on the same side of the two cut lines and on the same side of the transversal are corresponding angles; a pair between the two cut lines and on opposite sides of the transversal are alternate interior angles; a pair between the two cut lines and on the same side of the transversal are consecutive interior angles. Identify each pair by these criteria. $\blacksquare$
 
@@ -228,7 +440,7 @@ In each figure, the transversal is the line that intersects both lines being cut
 
 ### Solution to Exercise 8
 
-By Corresponding Angles, Alternate Interior Angles, Consecutive Interior Angles, judge by the positions of the two angles and the transversal.
+By **Definition 7.1.5 (Corresponding Angles, Alternate Interior Angles, Consecutive Interior Angles)**, judge by the positions of the two angles and the transversal.
 
 The lines containing the two sides of $\angle B$ are respectively two cut lines, and the line cutting the other side of $\angle B$ is the transversal: $\angle B$ and the corresponding angle cut out by the other transversal form alternate interior angles or consecutive interior angles. To identify them, first fix the line containing one side of $\angle B$ as the transversal and the line containing the other side as one cut line, then find the corresponding angle formed with the second cut line; this determines $\angle B$'s alternate interior angle and consecutive interior angle; similarly for $\angle C$. $\blacksquare$
 
@@ -246,13 +458,13 @@ The figure shows three lines $AB$, $CD$, $EF$ intersecting at a single point $O$
 
 ### Solution to Problem 1
 
-By Adjacent Supplementary Angles and Vertical Angles, judge by common side and opposite extensions.
+By **Definition 7.1.1 (Adjacent Supplementary Angles)** and **Definition 7.1.2 (Vertical Angles)**, judge by common side and opposite extensions.
 
 (1) The sides of $\angle AOC$ are $OA$, $OC$; its adjacent supplementary angles are $\angle BOC$ (sharing side $OA$, with the other side the opposite extension of $OC$) and $\angle AOD$ (sharing side $OC$, with the other side the opposite extension of $OA$); hence the adjacent supplementary angles of $\angle AOC$ are $\angle BOC$ and $\angle AOD$. The sides of $\angle BOE$ are $OB$, $OE$; its adjacent supplementary angles are $\angle AOE$ and $\angle BOF$.
 
 (2) The sides of $\angle DOA$ are respectively the opposite extensions of the sides of $\angle BOC$, so the vertical angle of $\angle DOA$ is $\angle BOC$; the sides of $\angle EOC$ are respectively the opposite extensions of the sides of $\angle FOD$, so the vertical angle of $\angle EOC$ is $\angle FOD$.
 
-(3) $\angle BOD$ and $\angle AOC$ are vertical angles; by Vertical Angles Are Equal, $\angle BOD=\angle AOC=50^\circ$. $\angle COB$ and $\angle AOC$ are adjacent supplementary angles; by Adjacent Supplementary Angles, $\angle COB=180^\circ-\angle AOC=180^\circ-50^\circ=130^\circ$. $\blacksquare$
+(3) $\angle BOD$ and $\angle AOC$ are vertical angles; by **Theorem 7.1.1 (Vertical Angles Are Equal)**, $\angle BOD=\angle AOC=50^\circ$. $\angle COB$ and $\angle AOC$ are adjacent supplementary angles; by **Definition 7.1.1 (Adjacent Supplementary Angles)**, $\angle COB=180^\circ-\angle AOC=180^\circ-50^\circ=130^\circ$. $\blacksquare$
 
 ## Problem 2
 
@@ -270,126 +482,8 @@ Point $P$ lies on line $l$; through $P$ there is exactly one line perpendicular 
 
 ### Solution to Problem 3
 
-By Perpendicular, $EO\perp AB$, so $\angle EOB=90^\circ$.
+By **Definition 7.1.3 (Perpendicular)**, $EO\perp AB$, so $\angle EOB=90^\circ$.
 
 At point $C$, $\angle EOB=\angle EOC+\angle COB$, so $\angle COB=\angle EOB-\angle EOC=90^\circ-35^\circ=55^\circ$.
 
-$\angle AOD$ and $\angle COB$ are vertical angles; by Vertical Angles Are Equal, $\angle AOD=\angle COB=55^\circ$. $\blacksquare$
-
-## Problem 4
-
-(Problem 7.1, Review and Consolidation, Problem 4) As shown, draw $AE\perp BC$ and $CF\perp AD$, with feet $E$ and $F$ respectively.
-
-### Solution to Problem 4
-
-By Perpendicular and Perpendicular Lines: align one leg of a set square with $BC$, slide it until the other leg passes through point $A$, and draw a line along this leg meeting $BC$ at $E$; then $AE\perp BC$ with foot $E$. Draw $CF\perp AD$ in the same way, with foot $F$. $\blacksquare$
-
-## Problem 5
-
-(Problem 7.1, Comprehensive Application, Problem 5) As shown, lines $AB$, $CD$ intersect at point $O$, and $OA$ bisects $\angle EOC$.
-
-(1) If $\angle EOC=70^\circ$, find the degree measure of $\angle BOD$;
-
-(2) If $\angle EOC:\angle EOD=2:3$, find the degree measure of $\angle BOD$.
-
-The figure shows lines $AB$, $CD$ intersecting at point $O$, with a ray $OE$ drawn from $O$ on the opposite side of $OA$ from ray $OC$, so that $OA$ lies inside $\angle EOC$ and bisects it.
-
-### Solution to Problem 5
-
-By the meaning of an angle bisector, $OA$ bisects $\angle EOC$, so $\angle AOC=\frac{1}{2}\angle EOC$. Also $\angle BOD$ and $\angle AOC$ are vertical angles; by Vertical Angles Are Equal, $\angle BOD=\angle AOC$.
-
-(1) $\angle EOC=70^\circ$, so $\angle AOC=\frac{1}{2}\times 70^\circ=35^\circ$, hence $\angle BOD=\angle AOC=35^\circ$.
-
-(2) $\angle EOC$ and $\angle EOD$ share side $OE$, and their other sides are opposite extensions of each other; by Adjacent Supplementary Angles, they are supplementary, i.e. $\angle EOC+\angle EOD=180^\circ$. Also $\angle EOC:\angle EOD=2:3$; set $\angle EOC=2k$, $\angle EOD=3k$; then $2k+3k=180^\circ$, giving $k=36^\circ$. Hence $\angle EOC=2k=72^\circ$, $\angle AOC=\frac{1}{2}\times 72^\circ=36^\circ$, and thus $\angle BOD=\angle AOC=36^\circ$. $\blacksquare$
-
-## Problem 6
-
-(Problem 7.1, Comprehensive Application, Problem 6) As shown, these are the footprints left by student Li Ming after a long jump in PE class. What is his long jump result? (The scale is $1:160$.)
-
-(The accompanying picture is a real photo of footprints in the sand pit; the takeoff line and the footprint heel are marked in the figure. Just measure the drawn length of the perpendicular segment from the heel to the takeoff line.)
-
-### Solution to Problem 6
-
-The long jump result is the distance from the footprint heel to the takeoff line. By The Perpendicular Segment Is the Shortest, this distance is the length of the perpendicular segment from the heel to the takeoff line.
-
-Measure with a ruler the drawn length of the perpendicular segment from the heel to the takeoff line, denoted $l$ (unit: $\text{cm}$). By the scale $1:160$, the actual result is $160l$ (unit: $\text{cm}$), i.e. $1.6l$ (unit: $\text{m}$). Substitute the measured $l$ from the figure to obtain the actual long jump result. $\blacksquare$
-
-## Problem 7
-
-(Problem 7.1, Comprehensive Application, Problem 7) As shown, which two lines are cut by which transversal to form $\angle 1$ and $\angle 2$, and $\angle 3$ and $\angle 4$ respectively? What positional relation do these angles have?
-
-### Solution to Problem 7
-
-By Corresponding Angles, Alternate Interior Angles, Consecutive Interior Angles, first determine the three lines containing the sides of the two angles; the common line is the transversal, and the other two are the cut lines.
-
-$\angle 1$ and $\angle 2$ share one side on the transversal, while their other sides belong to the two cut lines; by their position between the two cut lines and on opposite sides of the transversal, they are alternate interior angles. Similarly for $\angle 3$ and $\angle 4$; by their position relative to the two cut lines and the transversal, judge them as the corresponding angles (or consecutive interior angles). Simply point out the common transversal in each case. $\blacksquare$
-
-## Problem 8
-
-(Problem 7.1, Extension and Exploration, Problem 8) As shown, $AB\perp l$, $CB\perp l$, with $B$ the foot; then are the three points $A$, $B$, $C$ on the same line? Explain why.
-
-The figure shows a horizontal line $l$, with point $B$ on $l$; from $B$ on opposite sides of $l$ are drawn rays $BA$ and $BC$ such that $AB\perp l$ and $CB\perp l$.
-
-### Solution to Problem 8
-
-The three points $A$, $B$, $C$ are on the same line.
-
-By Perpendicular, $AB\perp l$ and $CB\perp l$, so $\angle ABL=90^\circ$, $\angle CBL=90^\circ$, where $L$ is any direction on line $l$. Hence
-
-$$
-\angle ABC=\angle ABL+\angle CBL=90^\circ+90^\circ=180^\circ.
-$$
-
-$\angle ABC=180^\circ$ shows that rays $BA$ and $BC$ are opposite extensions of each other, i.e. $BA$ and $BC$ lie on the same line; hence the three points $A$, $B$, $C$ are on the same line. $\blacksquare$
-
-## Problem 9
-
-(Problem 7.1, Extension and Exploration, Problem 9) Lines $AB$, $CD$ intersect at point $O$.
-
-(1) $OE$, $OF$ are respectively the bisectors of $\angle AOC$, $\angle BOD$. Draw this figure.
-
-(2) Are rays $OE$ and $OF$ on the same line? Why?
-
-### Solution to Problem 9
-
-(1) Draw lines $AB$, $CD$ intersecting at point $O$, then construct respectively the bisector $OE$ of $\angle AOC$ and the bisector $OF$ of $\angle BOD$.
-
-(2) Rays $OE$ and $OF$ are on the same line.
-
-$\angle AOC$ and $\angle BOD$ are vertical angles; by Vertical Angles Are Equal, $\angle AOC=\angle BOD$. $OE$ bisects $\angle AOC$, so
-
-$$
-\angle EOC=\frac{1}{2}\angle AOC.
-$$
-
-$OF$ bisects $\angle BOD$, and $\angle BOD$ and $\angle AOC$ are vertical angles; one side $OB$ is the opposite extension of $OA$, and the other side $OD$ is the opposite extension of $OC$, so
-
-$$
-\angle DOF=\frac{1}{2}\angle BOD=\frac{1}{2}\angle AOC=\angle EOC.
-$$
-
-Hence $\angle EOC=\angle DOF$. Also $OC$ and $OD$ are opposite extensions of each other; $\angle EOC$ and $\angle DOF$ lie on opposite sides of line $CD$ and are equal, showing that rays $OE$ and $OF$ are opposite extensions of each other; hence $OE$ and $OF$ lie on the same line. $\blacksquare$
-
-## Observation and Conjecture 1
-
-(Observation and Conjecture: Illusions when looking at figures)
-
-(1) In each group of Figure 1, which segment is longer, $a$ or $b$?
-
-(2) In each group of Figure 2, which blue circle is larger, $A$ or $B$?
-
-(3) In each group of Figure 3, are the blue segments parallel to each other? How can you check?
-
-The figure contains three groups of visual-illusion diagrams: Figure 1 shows two segments $a$, $b$ decorated at their endpoints with arrowheads (or feather tails) pointing in different directions, making the segments look unequal; Figure 2 shows two equal-sized blue circles $A$, $B$, surrounded respectively by a group of large circles and a group of small circles, making the circles look unequal; Figure 3 shows two blue segments with several diagonal short stripes between them, making the segments look non-parallel.
-
-### Solution to Observation and Conjecture 1
-
-Here intuition from naked-eye observation often disagrees with the actual facts; verification by measurement with a ruler or protractor is needed.
-
-(1) Intuitively the segments $a$ and $b$ may seem unequal in length, but measuring with a ruler shows that in each group $a$ and $b$ are actually equal.
-
-(2) Intuitively circles $A$ and $B$ may seem unequal in size, but measuring their diameters with a ruler shows they are actually equal.
-
-(3) In Figure 3, the segments look non-parallel because of the interference of the added patterns, but checking with a straightedge (or using the parallel-line criteria learned later) shows they are actually parallel.
-
-Thus conjectures obtained by observation are not necessarily correct; they must also be verified through experiments (measurements) and the like. $\blacksquare$
+$\angle AOD$ and $\angle COB$ are vertical angles; by **Theorem 7.1.1 (Vertical Angles Are Equal)**, $\angle AOD=\angle COB=55^\circ$. $\blacksquare$

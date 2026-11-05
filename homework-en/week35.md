@@ -1,22 +1,154 @@
 # week35
 
-> **Basic Conclusion** (Shortest Distance) 
+> **Conclusion 15.1.1 (Properties of Axial Symmetry)**
+> 
+> Two figures that are axially symmetric are congruent; the axis of symmetry perpendicularly bisects the segment joining the symmetric points.
+
+> **Conclusion 15.1.2 (Properties of the Perpendicular Bisector)**
+> 
+> A point on the perpendicular bisector of a segment is equidistant from the two endpoints of the segment.
+
+> **Conclusion 15.1.3 (Criterion for the Perpendicular Bisector)**
+> 
+> A point equidistant from the two endpoints of a segment lies on the perpendicular bisector of that segment.
+
+> **Conclusion 15.3.1 (Equal Sides Opposite Equal Angles)**
+> 
+> The two base angles of an isosceles triangle are equal.
+
+> **Conclusion 15.3.2 (Three Lines Coincide)**
+> 
+> The median to the base, the altitude to the base, and the bisector of the vertex angle of an isosceles triangle coincide.
+
+> **Conclusion 15.3.3 (Equal Angles Opposite Equal Sides)**
+> 
+> A triangle with two equal angles is an isosceles triangle.
+
+> **Conclusion 15.3.5 (Right Triangle with a $30^\circ$ Angle)**
+> 
+> The leg opposite the $30^\circ$ acute angle equals half of the hypotenuse.
+
+> **Definition 16.1.1 (Multiplication of Powers with the Same Base)**
+> 
+> In general, for any base $a$ and any positive integers $m,n$, $a^m\cdot a^n=a^{m+n}$; that is, when multiplying powers with the same base, the base is unchanged and the exponents are added. This property also holds when three or more powers with the same base are multiplied.
+
+> **Definition 16.1.2 (Power of a Power)**
+> 
+> In general, for any base $a$ and any positive integers $m,n$, $\left(a^m\right)^n=a^{mn}$; that is, for a power of a power, the base is unchanged and the exponents are multiplied.
+
+> **Definition 16.1.3 (Power of a Product)**
+> 
+> In general, for any bases $a,b$ and any positive integer $n$, $\left(ab\right)^n=a^n b^n$; that is, the power of a product equals taking the power of each factor of the product separately and then multiplying the resulting powers. This property also holds for the power of a product of three or more factors.
+
+> **Definition 16.2.1 (Multiplication of a Monomial by a Monomial)**
+> 
+> Multiply their coefficients and their powers with the same base separately to form factors of the product; for a letter appearing in only one monomial, take it together with its exponent as a factor of the product.
+
+> **Definition 16.2.2 (Multiplication of a Monomial by a Polynomial)**
+> 
+> Multiply each term of the polynomial by the monomial, then add the resulting products, i.e. $p\left(a+b+c\right)=pa+pb+pc$.
+
+> **Definition 16.2.3 (Multiplication of a Polynomial by a Polynomial)**
+> 
+> First multiply each term of one polynomial by each term of the other polynomial, then add the resulting products, i.e. $\left(a+b\right)\left(p+q\right)=ap+aq+bp+bq$.
+
+> **Definition 16.2.4 (Division of Powers with the Same Base)**
+> 
+> $a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ are both positive integers, $m> n$); that is, when dividing powers with the same base, the base is unchanged and the exponents are subtracted.
+
+> **Definition 16.2.5 (Zero Exponent Power)**
+> 
+> $a^0=1$ ($a\ne0$); that is, the $0$-th power of any number not equal to $0$ equals $1$.
+
+> **Definition 16.2.6 (Division of a Monomial by a Monomial)**
+> 
+> Divide the coefficients and the powers with the same base separately to form factors of the quotient; for a letter appearing only in the dividend, take it together with its exponent as a factor of the quotient.
+
+> **Definition 16.2.7 (Division of a Polynomial by a Monomial)**
+> 
+> First divide each term of this polynomial by the monomial, then add the resulting quotients.
+
+> **Basic Conclusion (Shortest Distance)**
 > 
 > Between two points, the segment is the shortest; among all segments joining a point outside a line to points on the line, the perpendicular segment is the shortest.
 
+## Review Problem 1
+
+(Review Problems, Extension and Exploration, Problem 13) As shown in the figure, $\triangle ABC$ is isosceles with $AC=BC$, and $\triangle BCD$ and $\triangle ACE$ are equilateral. $AE$ and $BD$ intersect at point $F$; connect $CF$ and extend it to meet $AB$ at point $G$. Prove that $G$ is the midpoint of $AB$.
+
+### Solution to Review Problem 1
+
+Since $AC=BC$, $\angle CAB=\angle CBA$. Since $\triangle ACE$ and $\triangle BCD$ are equilateral, $CE=CA=CB=CD$, and $\angle ECA=\angle DCB=60^\circ$.
+
+In $\triangle ACF$ and $\triangle BCF$, $AC=BC$ and $CF=CF$; moreover $\angle ACF=\angle BCF$ (which follows from $\triangle FCE\cong\triangle FCD$, showing that $FC$ bisects $\angle ECD$). By SAS, $\triangle ACF\cong\triangle BCF$.
+
+By the equal corresponding sides of congruent triangles, $AF=BF$, that is, point $F$ lies on the perpendicular bisector of $AB$. Point $C$ also lies on the perpendicular bisector of $AB$ ($AC=BC$), so the line $CG$ is the perpendicular bisector of $AB$, and its intersection $G$ with $AB$ is the midpoint of $AB$. $\blacksquare$
+
+## Review Problem 2
+
+(Review Problems, Extension and Exploration, Problem 14) As shown in the figure, the lines $l_1$ and $l_2$ are parallel. The figure $G$ is first reflected about $l_1$ to obtain $G_1$, then reflected about $l_2$ to obtain $G_2$. Can $G_2$ be obtained from $G$ by a translation? What are the direction and distance of the translation?
+
+### Solution to Review Problem 2
+
+Yes. Two successive reflections about two parallel lines are equivalent to a single translation. The direction of the translation is perpendicular to $l_1$ and $l_2$, and the distance of the translation equals $2$ times the distance between the two parallel lines $l_1$ and $l_2$. $\blacksquare$
+
 ## Inquiry 1
 
-(Comprehensive and Practical Activity, Activity 2, Task 1, Extension of the Horse-Watering Problem) A herdsman sets out from place $A$, first grazes his horse at a spot on the edge of the grassland, then waters the horse at the riverbank, and finally returns to place $A$. How should he walk so that the path is shortest?
+(Comprehensive and Practical Activity, Activity 1, Task 1, The Herdsman Watering His Horse Problem) A herdsman sets out from place $A$, waters his horse at the straight river bank $l$, and then goes to place $B$. Where on the riverbank should he water the horse so that the path $AC+CB$ is shortest? Here $A$ and $B$ lie on the same side of line $l$.
 
 ### Solution to Inquiry 1
 
-Let the edge of the grassland be line $m$ and the riverbank be line $n$. Construct the reflection $A_1$ of point $A$ about line $m$ and the reflection $A_2$ about line $n$; connect $A_1A_2$, whose intersections with $m$ and $n$ are in turn the grazing point $P$ and the watering point $Q$; then the broken path $A\to P\to Q\to A$ is shortest. By axial symmetry, $AP=A_1P$ and $QA=QA_2$, so the path length equals the segment $A_1A_2$, which is minimal by the shortest-segment-between-two-points principle. $\blacksquare$
+Construct the reflection $A'$ of point $A$ about line $l$, connect $A'B$, and let it meet line $l$ at point $C$; then point $C$ is the desired watering point.
+
+By Properties of Axial Symmetry, for any point $C$ on $l$, $AC=A'C$, hence $AC+CB=A'C+CB$. By "between two points, the segment is the shortest", $A'C+CB\ge A'B$, with equality if and only if $C$ lies on $A'B$, so at that point $AC+CB$ is minimal. $\blacksquare$
 
 ## Inquiry 2
 
-(Comprehensive and Practical Activity, Activity 3, Task 1, The Bridge-Building Site-Selection Problem) Places $A$ and $B$ lie on the two banks of a river, the two banks of the river are parallel lines, and the bridge $MN$ must be perpendicular to the banks. Where should the bridge be built so that the path $AMNB$ from $A$ to $B$ is shortest?
+(Comprehensive and Practical Activity, Activity 1, Task 1, Consideration)
+
+(1) If $A$ and $B$ are two points on opposite sides of line $l$, how does one find a point $C$ on $l$ so that $AC+CB$ is minimal?
+
+(2) How can the same-side problem be converted into an opposite-side problem by axial symmetry?
 
 ### Solution to Inquiry 2
+
+(1) Directly connect $AB$; its intersection with line $l$ is the desired point $C$. By "between two points, the segment is the shortest", at this point $AC+CB=AB$ is minimal.
+
+(2) Construct the reflection $A'$ of one of the points (say $A$) about line $l$; by symmetry $AC=A'C$, so $A'$ and $B$ become two points on opposite sides (or on the same side but with a connectable segment), converting the same-side $AC+CB$ into the problem of connecting $A'$ and $B$, which is solved in the same way as (1). $\blacksquare$
+
+## Inquiry 3
+
+(Comprehensive and Practical Activity, Activity 1, Task 2) Prove: the point $C$ obtained in Task 1 makes $AC+CB$ minimal.
+
+### Solution to Inquiry 3
+
+Let $C$ be the intersection of $A'B$ and $l$, and take any other point $C'$ on $l$. By axial symmetry, $AC=A'C$ and $AC'=A'C'$. Then
+
+$$
+AC+CB=A'C+CB=A'B,
+$$
+
+whereas
+
+$$
+AC'+C'B=A'C'+C'B\ge A'B.
+$$
+
+By "between two points, the segment is the shortest", $A'C'+C'B\ge A'B=AC+CB$, with equality if and only if $C'$ lies on $A'B$, i.e. $C'=C$. Hence $AC+CB$ is minimal. $\blacksquare$
+
+## Inquiry 4
+
+(Comprehensive and Practical Activity, Activity 2, Task 1, Extension of the Horse-Watering Problem) A herdsman sets out from place $A$, first grazes his horse at a spot on the edge of the grassland, then waters the horse at the riverbank, and finally returns to place $A$. How should he walk so that the path is shortest?
+
+### Solution to Inquiry 4
+
+Let the edge of the grassland be line $m$ and the riverbank be line $n$. Construct the reflection $A_1$ of point $A$ about line $m$ and the reflection $A_2$ about line $n$; connect $A_1A_2$, whose intersections with $m$ and $n$ are in turn the grazing point $P$ and the watering point $Q$; then the broken path $A\to P\to Q\to A$ is shortest. By axial symmetry, $AP=A_1P$ and $QA=QA_2$, so the path length equals the segment $A_1A_2$, which is minimal by the shortest-segment-between-two-points principle. $\blacksquare$
+
+## Inquiry 5
+
+(Comprehensive and Practical Activity, Activity 3, Task 1, The Bridge-Building Site-Selection Problem) Places $A$ and $B$ lie on the two banks of a river, the two banks of the river are parallel lines, and the bridge $MN$ must be perpendicular to the banks. Where should the bridge be built so that the path $AMNB$ from $A$ to $B$ is shortest?
+
+### Solution to Inquiry 5
 
 Translate point $A$ by a distance equal to the river width in the direction perpendicular to the banks toward the river, obtaining point $A'$. Connect $A'B$, which meets the bank on the side near $B$ at point $N$; through $N$ draw a perpendicular to the bank meeting the opposite bank at point $M$; then $MN$ is the position of the bridge.
 
@@ -36,7 +168,7 @@ Here $AM$ equals $A'N$ after translation, so the path $AMNB=A'N+NB+MN$, where $M
 
 ### Solution to Exercise 1
 
-By Multiplication of Powers with the Same Base, when multiplying powers with the same base the base is unchanged and the exponents are added.
+By **Definition 16.1.1 (Multiplication of Powers with the Same Base)**, when multiplying powers with the same base the base is unchanged and the exponents are added.
 
 (1) Incorrect. $a^3\cdot a^2=a^{3+2}=a^5$; the exponent was mistakenly treated by an operation other than addition.
 
@@ -60,7 +192,7 @@ By Multiplication of Powers with the Same Base, when multiplying powers with the
 
 ### Solution to Exercise 2
 
-By Multiplication of Powers with the Same Base, the base is unchanged and the exponents are added.
+By **Definition 16.1.1 (Multiplication of Powers with the Same Base)**, the base is unchanged and the exponents are added.
 
 (1) $a^2\cdot a^6=a^{2+6}=a^8$.
 
@@ -82,11 +214,11 @@ By Multiplication of Powers with the Same Base, the base is unchanged and the ex
 
 ### Solution to Exercise 3
 
-Judge by Power of a Power and Power of a Product.
+Judge by **Definition 16.1.2 (Power of a Power)** and **Definition 16.1.3 (Power of a Product)**.
 
 (1) Incorrect. $\left(a^5\right)^2=a^{5\times2}=a^{10}$; for a power of a power the exponents should be multiplied.
 
-(2) Incorrect. By Basic Knowledge, $\left(ab^2\right)^3=a^3\left(b^2\right)^3=a^3 b^6$; the power of the factor $a$ was omitted.
+(2) Incorrect. By **Definition 16.1.3 (Power of a Product)**, $\left(ab^2\right)^3=a^3\left(b^2\right)^3=a^3 b^6$; the power of the factor $a$ was omitted.
 
 (3) Incorrect. $\left(-2a\right)^2=\left(-2\right)^2 a^2=4a^2$; the coefficient $-2$ must also be squared. $\blacksquare$
 
@@ -104,7 +236,7 @@ Judge by Power of a Power and Power of a Product.
 
 ### Solution to Exercise 4
 
-By Power of a Power and Multiplication of Powers with the Same Base.
+By **Definition 16.1.2 (Power of a Power)** and **Definition 16.1.1 (Multiplication of Powers with the Same Base)**.
 
 (1) $\left(10^3\right)^3=10^{3\times3}=10^9$.
 
@@ -128,7 +260,7 @@ By Power of a Power and Multiplication of Powers with the Same Base.
 
 ### Solution to Exercise 5
 
-By Power of a Product and Multiplication of Powers with the Same Base.
+By **Definition 16.1.3 (Power of a Product)** and **Definition 16.1.1 (Multiplication of Powers with the Same Base)**.
 
 (1) $\left(ab\right)^4=a^4 b^4$.
 
@@ -152,7 +284,7 @@ By Power of a Product and Multiplication of Powers with the Same Base.
 
 ### Solution to Problem 1
 
-By Multiplication of Powers with the Same Base.
+By **Definition 16.1.1 (Multiplication of Powers with the Same Base)**.
 
 (1) $b^3\cdot b=b^4$.
 
@@ -176,7 +308,7 @@ By Multiplication of Powers with the Same Base.
 
 ### Solution to Problem 2
 
-By Power of a Power.
+By **Definition 16.1.2 (Power of a Power)**.
 
 (1) $\left(10^2\right)^8=10^{16}$.
 
@@ -200,7 +332,7 @@ By Power of a Power.
 
 ### Solution to Problem 3
 
-By Power of a Product.
+By **Definition 16.1.3 (Power of a Product)**.
 
 (1) $\left(2ab\right)^3=8a^3 b^3$.
 
@@ -224,7 +356,7 @@ By Power of a Product.
 
 ### Solution to Problem 4
 
-Combining Basic Knowledge, Basic Knowledge, and Basic Knowledge.
+Combining **Definition 16.1.1 (Multiplication of Powers with the Same Base)**, **Definition 16.1.2 (Power of a Power)**, and **Definition 16.1.3 (Power of a Product)**.
 
 (1) $x\cdot x^3+x^2\cdot x^2=x^4+x^4=2x^4$.
 
@@ -260,7 +392,7 @@ By the properties of operations on powers.
 
 ### Solution to Problem 6
 
-By Basic Knowledge and Basic Knowledge.
+By **Definition 16.1.2 (Power of a Power)** and **Definition 16.1.3 (Power of a Product)**.
 
 (1) $\left[\left(-2a^2 b^3\right)^3\right]^2=\left(-2a^2 b^3\right)^6=\left(-2\right)^6 a^{12} b^{18}=64a^{12} b^{18}$.
 
@@ -272,7 +404,7 @@ By Basic Knowledge and Basic Knowledge.
 
 ### Solution to Problem 7
 
-By Multiplication of Powers with the Same Base, convert all units uniformly into bytes.
+By **Definition 16.1.1 (Multiplication of Powers with the Same Base)**, convert all units uniformly into bytes.
 
 $1\,GB=2^{10}\,MB=2^{10}\times2^{10}\,KB=2^{10}\times2^{10}\times2^{10}\,B=2^{30}\,B$.
 
@@ -288,7 +420,7 @@ That is, the capacity of this flash drive is $2^{36}$ bytes. $\blacksquare$
 
 ### Solution to Problem 8
 
-By Basic Knowledge and Basic Knowledge.
+By **Definition 16.1.1 (Multiplication of Powers with the Same Base)** and **Definition 16.1.2 (Power of a Power)**.
 
 (1) $32^n=\left(2^5\right)^n=2^{5n}=b$, hence $2^{10n}=\left(2^{5n}\right)^2=b^2$. Also $2^{3m}=\left(2^m\right)^3=a^3$. Therefore
 
@@ -334,7 +466,7 @@ From $2^{1+7x}=2^{22}$ we get $1+7x=22$, which gives $x=3$.
 
 ### Solution to Exercise 6
 
-By Multiplication of a Monomial by a Monomial.
+By **Definition 16.2.1 (Multiplication of a Monomial by a Monomial)**.
 
 (1) Incorrect. $3a^3\cdot2a^2=6a^{3+2}=6a^5$; for powers with the same base the exponents should be added.
 
@@ -358,7 +490,7 @@ By Multiplication of a Monomial by a Monomial.
 
 ### Solution to Exercise 7
 
-By Basic Knowledge.
+By **Definition 16.2.1 (Multiplication of a Monomial by a Monomial)**.
 
 (1) $3x^2\cdot5x^3=15x^5$.
 
@@ -408,7 +540,7 @@ That is, the distance traveled by the satellite in orbiting the earth for $1\ \t
 
 ### Solution to Exercise 10
 
-By Multiplication of a Monomial by a Polynomial.
+By **Definition 16.2.2 (Multiplication of a Monomial by a Polynomial)**.
 
 (1) Incorrect. $\left(-2x\right)\left(x^2-x\right)=-2x^3+2x^2$; the second term $\left(-2x\right)\left(-x\right)$ should be positive.
 
@@ -428,7 +560,7 @@ By Multiplication of a Monomial by a Polynomial.
 
 ### Solution to Exercise 11
 
-By Basic Knowledge.
+By **Definition 16.2.2 (Multiplication of a Monomial by a Polynomial)**.
 
 (1) $3a\left(5a-2b\right)=15a^2-6ab$.
 
@@ -444,7 +576,7 @@ By Basic Knowledge.
 
 ### Solution to Exercise 12
 
-By Basic Knowledge.
+By **Definition 16.2.2 (Multiplication of a Monomial by a Polynomial)**.
 
 $$
 x\left(x-1\right)+2x\left(x+1\right)-3x\left(2x-5\right)=x^2-x+2x^2+2x-6x^2+15x=-3x^2+16x.
@@ -484,7 +616,7 @@ Substituting $x=\frac12$, we get $-2\cdot\frac14+\frac12=-\frac12+\frac12=0$. $\
 
 ### Solution to Exercise 14
 
-By Multiplication of a Polynomial by a Polynomial.
+By **Definition 16.2.3 (Multiplication of a Polynomial by a Polynomial)**.
 
 (1) $\left(2x+1\right)\left(x+3\right)=2x^2+6x+x+3=2x^2+7x+3$.
 
@@ -497,73 +629,3 @@ By Multiplication of a Polynomial by a Polynomial.
 (5) $\left(2x^2-1\right)\left(x-4\right)=2x^3-8x^2-x+4$.
 
 (6) $\left(x^2+2x+3\right)\left(2x-5\right)=2x^3-5x^2+4x^2-10x+6x-15=2x^3-x^2-4x-15$. $\blacksquare$
-
-## Exercise 15
-
-(Exercise 16.2, Problem 2) Calculate:
-
-(1) $\left(x+2\right)\left(x+3\right)$;
-
-(2) $\left(x-4\right)\left(x+1\right)$;
-
-(3) $\left(x+4\right)\left(x-2\right)$;
-
-(4) $\left(x-5\right)\left(x-3\right)$.
-
-From the above results find a pattern; observe the figure and fill in the blank: $\left(x+p\right)\left(x+q\right)=\left(\;\;\right)^2+\left(\;\;\right)x+\left(\;\;\right)$.
-
-### Solution to Exercise 15
-
-By Basic Knowledge.
-
-(1) $\left(x+2\right)\left(x+3\right)=x^2+5x+6$.
-
-(2) $\left(x-4\right)\left(x+1\right)=x^2-3x-4$.
-
-(3) $\left(x+4\right)\left(x-2\right)=x^2+2x-8$.
-
-(4) $\left(x-5\right)\left(x-3\right)=x^2-8x+15$.
-
-Observing the expressions: the coefficient of the quadratic term is $1$, the coefficient of the linear term equals the sum of the two constants, and the constant term equals the product of the two constants. Hence
-
-$$\left(x+p\right)\left(x+q\right)=x^2+\left(p+q\right)x+pq.$$
-
-$\blacksquare$
-
-## Exercise 16
-
-(Exercise 16.2, Problem 3) First simplify, then evaluate: $\left(x-y\right)\left(x^2+xy+y^2\right)-\left(x+y\right)\left(x^2-y^2\right)$, where $x=5$, $y=5$.
-
-### Solution to Exercise 16
-
-By Basic Knowledge.
-
-$$\left(x-y\right)\left(x^2+xy+y^2\right)=x^3-y^3,$$
-
-$$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y\right)=\left(x+y\right)^2\left(x-y\right).$$
-
-Substituting $x=5,y=5$, we have $x-y=0$, so the original expression $=0-\left(x+y\right)\cdot0=0$. $\blacksquare$
-
-## Exercise 17
-
-(Exercise 16.2, Problem 1) Calculate:
-
-(1) $x^7\div x^5$;
-
-(2) $m^8\div m^8$;
-
-(3) $\left(-a\right)^{10}\div\left(-a\right)^7$;
-
-(4) $\left(xy\right)^5\div\left(xy\right)^3$.
-
-### Solution to Exercise 17
-
-By Division of Powers with the Same Base and Zero Exponent Power.
-
-(1) $x^7\div x^5=x^2$.
-
-(2) $m^8\div m^8=m^0=1$.
-
-(3) $\left(-a\right)^{10}\div\left(-a\right)^7=\left(-a\right)^3=-a^3$.
-
-(4) $\left(xy\right)^5\div\left(xy\right)^3=\left(xy\right)^2=x^2 y^2$. $\blacksquare$

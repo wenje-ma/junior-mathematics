@@ -1,10 +1,76 @@
 # week41
 
+> **Definition 18.3.1 (Addition and Subtraction of Fractions with the Same Denominator)**
+> 
+> $\frac{a}{c}\pm\frac{b}{c}=\frac{a\pm b}{c}$.
+
+> **Definition 18.3.2 (Addition and Subtraction of Fractions with Different Denominators)**
+> 
+> To add or subtract fractions with different denominators, first find a common denominator to convert them into fractions with the same denominator, then add or subtract, i.e. $\frac{a}{b}\pm\frac{c}{d}=\frac{ad\pm bc}{bd}$.
+
+> **Definition 18.4.1 (Negative Integer Exponent Power)**
+> 
+> When $n$ is a positive integer, $a^{-n}=\frac{1}{a^n}$ ($a\ne0$), i.e. $a^{-n}$ is the reciprocal of $a^n$.
+
+> **Definition 18.4.2 (Properties of Integer Exponent Powers)**
+> 
+> (1) $a^m\cdot a^n=a^{m+n}$; (2) $\left(a^m\right)^n=a^{mn}$; (3) $\left(ab\right)^n=a^n b^n$ ($m,n$ are integers, the base is nonzero).
+
+> **Definition 18.4.3 (Scientific Notation for Positive Numbers Less Than 1)**
+> 
+> A positive number less than $1$ can be written in the form $a\times10^{-n}$, where $1\le a< 10$, and $n$ is a positive integer.
+
+> **Definition 18.5.1 (Fractional Equation)**
+> 
+> An equation whose denominator contains an unknown is called a fractional equation.
+
+> **Definition 18.5.2 (Checking the Solution of a Fractional Equation)**
+> 
+> After clearing denominators when solving a fractional equation, substitute the solution of the integral equation into the least common denominator; if the value of the least common denominator is not $0$, then the solution of the integral equation is the solution of the original fractional equation; otherwise, this solution is not a solution of the original fractional equation.
+
 ## Problem 1
+
+(Exercise 18.3, Comprehensive Application, Problem 4) Calculate:
+
+(1) $\left(\frac{a}{a-2}-\frac{a}{a+2}\right)\div\frac{a}{a-2}$;
+
+(2) $\left(\frac{3 a}{a-3}-\frac{a}{a+3}\right)\cdot\frac{a^2-9}{a}$.
+
+### Solution to Problem 1
+
+(1) $\frac{a\left(a+2\right)-a\left(a-2\right)}{\left(a-2\right)\left(a+2\right)}\cdot\frac{a-2}{a}=\frac{4a}{\left(a-2\right)\left(a+2\right)}\cdot\frac{a-2}{a}=\frac{4}{a+2}$.
+
+(2) $\frac{3a\left(a+3\right)-a\left(a-3\right)}{\left(a-3\right)\left(a+3\right)}\cdot\frac{\left(a-3\right)\left(a+3\right)}{a}=\frac{3a^2+9a-a^2+3a}{a}=\frac{2a^2+12a}{a}=2a+12$. $\blacksquare$
+
+## Problem 2
+
+(Exercise 18.3, Comprehensive Application, Problem 5) First simplify, then evaluate:
+
+(1) $\left(\frac{x^2-y^2}{xy}\right)^2\div\left(x+y\right)^2\cdot\left(\frac{x}{x-y}\right)^3$, where $x=2$, $y=1$.
+
+### Solution to Problem 2
+
+$$\frac{\left(x^2-y^2\right)^2}{x^2 y^2}\cdot\frac{1}{\left(x+y\right)^2}\cdot\frac{x^3}{\left(x-y\right)^3}=\frac{\left(x+y\right)^2\left(x-y\right)^2}{x^2 y^2}\cdot\frac{1}{\left(x+y\right)^2}\cdot\frac{x^3}{\left(x-y\right)^3}=\frac{x}{y^2\left(x-y\right)}.$$
+
+Substituting $x=2,y=1$, we get $\frac{2}{1\cdot1}=2$. $\blacksquare$
+
+## Problem 3
+
+(Exercise 18.3, Comprehensive Application, Problem 6) Calculate: $\frac{1}{1\times2}+\frac{1}{2\times3}+\frac{1}{3\times4}+\cdots+\frac{1}{99\times100}$.
+
+### Solution to Problem 3
+
+Using the telescoping decomposition $\frac{1}{n\left(n+1\right)}=\frac1n-\frac{1}{n+1}$:
+
+$$\left(1-\frac12\right)+\left(\frac12-\frac13\right)+\cdots+\left(\frac{1}{99}-\frac{1}{100}\right)=1-\frac{1}{100}=\frac{99}{100}.$$
+
+$\blacksquare$
+
+## Problem 4
 
 (Exercise 18.3, Extension and Exploration, Problem 7) Calculate: $\frac{1}{x\left(x+1\right)}+\frac{1}{\left(x+1\right)\left(x+2\right)}+\frac{1}{\left(x+2\right)\left(x+3\right)}$.
 
-### Solution to Problem 1
+### Solution to Problem 4
 
 Telescoping cancellation:
 
@@ -12,11 +78,11 @@ $$\left(\frac1x-\frac{1}{x+1}\right)+\left(\frac{1}{x+1}-\frac{1}{x+2}\right)+\l
 
 $\blacksquare$
 
-## Problem 2
+## Problem 5
 
 (Exercise 18.3, Extension and Exploration, Problem 8) A computer manufacturer produces a certain computer at a cost of $x$ yuan per unit. The company decides: if the selling price of each computer is $y$ yuan, what is the profit margin (profit margin $=\frac{售价-成本}{成本}$)? When $x=5000$ and $y=6000$, what is the profit margin?
 
-### Solution to Problem 2
+### Solution to Problem 5
 
 Profit margin $=\frac{y-x}{x}$. Substituting $x=5000,y=6000$, we get $\frac{6000-5000}{5000}=\frac{1000}{5000}=0.2=20\%$. $\blacksquare$
 
@@ -48,7 +114,7 @@ No matter how large $n$ is, $S_n=\frac{n}{n+1}< 1$, so the $1\ \text{L}$ of wate
 
 ### Solution to Exercise 1
 
-By the zero exponent power $a^0=1$ ($a\ne0$) and Basic Knowledge.
+By the zero exponent power $a^0=1$ ($a\ne0$) and **Definition 18.4.1 (Negative Integer Exponent Power)**.
 
 (1) $3^0=1$, $3^{-2}=\frac19$.
 
@@ -66,7 +132,7 @@ By the zero exponent power $a^0=1$ ($a\ne0$) and Basic Knowledge.
 
 ### Solution to Exercise 2
 
-By Basic Knowledge.
+By **Definition 18.4.2 (Properties of Integer Exponent Powers)**.
 
 (1) $x^2 y^{-3}\cdot x^{-3} y^3=x^{-1} y^0=\frac1x$.
 
@@ -78,7 +144,7 @@ By Basic Knowledge.
 
 ### Solution to Exercise 3
 
-By Basic Knowledge.
+By **Definition 18.4.3 (Scientific Notation for Positive Numbers Less Than 1)**.
 
 $0.000000001=1\times10^{-9}$; $0.0012=1.2\times10^{-3}$; $0.000000345=3.45\times10^{-7}$; $0.0000000108=1.08\times10^{-8}$. $\blacksquare$
 
@@ -96,7 +162,7 @@ $0.000000001=1\times10^{-9}$; $0.0012=1.2\times10^{-3}$; $0.000000345=3.45\times
 
 (2) $\left(4\times10^{-12}\right)\div\left(10^{-12}\right)=4$. $\blacksquare$
 
-## Problem 3
+## Problem 6
 
 (Exercise 18.4, Review and Consolidation, Problem 1) Fill in the blanks:
 
@@ -104,13 +170,13 @@ $0.000000001=1\times10^{-9}$; $0.0012=1.2\times10^{-3}$; $0.000000345=3.45\times
 
 (2) $1\div a^{-1}=$ \;_\_\; ; $a^2\cdot a^{-2}=$ \;_\_\; ; $\left(-ab^{-1}\right)^{-2}=$ \;_\_\; .
 
-### Solution to Problem 3
+### Solution to Problem 6
 
 (1) $\left(a-3\right)^{-2}=\frac{1}{\left(a-3\right)^2}$, requiring $a-3\ne0$, i.e. $a\ne3$.
 
 (2) $1\div a^{-1}=a$; $a^2\cdot a^{-2}=a^0=1$; $\left(-ab^{-1}\right)^{-2}=\frac{1}{\left(-a/b\right)^2}=\frac{b^2}{a^2}$. $\blacksquare$
 
-## Problem 4
+## Problem 7
 
 (Exercise 18.4, Review and Consolidation, Problem 2) Calculate:
 
@@ -118,13 +184,13 @@ $0.000000001=1\times10^{-9}$; $0.0012=1.2\times10^{-3}$; $0.000000345=3.45\times
 
 (2) $2^{-2}-5\times\left(-\frac35\right)^0\times\left(\frac52\right)^{-1}$.
 
-### Solution to Problem 4
+### Solution to Problem 7
 
 (1) $1+\frac14-\left(-1\right)=1+\frac14+1=\frac94$.
 
 (2) $\frac14-5\times1\times\frac25=\frac14-2=-\frac74$. $\blacksquare$
 
-## Problem 5
+## Problem 8
 
 (Exercise 18.4, Review and Consolidation, Problem 3) Calculate:
 
@@ -136,9 +202,9 @@ $0.000000001=1\times10^{-9}$; $0.0012=1.2\times10^{-3}$; $0.000000345=3.45\times
 
 (4) $\left(2m^2 n^{-2}\right)^2\cdot3m^{-3} n^3$.
 
-### Solution to Problem 5
+### Solution to Problem 8
 
-By Basic Knowledge.
+By **Definition 18.4.2 (Properties of Integer Exponent Powers)**.
 
 (1) $3a^{-2} b\cdot2ab^{-2}=6a^{-1} b^{-1}=\frac{6}{ab}$.
 
@@ -148,15 +214,15 @@ By Basic Knowledge.
 
 (4) $4m^4 n^{-4}\cdot3m^{-3} n^3=12m n^{-1}=\frac{12m}{n}$. $\blacksquare$
 
-## Problem 6
+## Problem 9
 
 (Exercise 18.4, Review and Consolidation, Problem 4) Write the following numbers in scientific notation: $0.00001$, $0.00002$, $0.000000567$, $0.000000301$.
 
-### Solution to Problem 6
+### Solution to Problem 9
 
 $0.00001=1\times10^{-5}$; $0.00002=2\times10^{-5}$; $0.000000567=5.67\times10^{-7}$; $0.000000301=3.01\times10^{-7}$. $\blacksquare$
 
-## Problem 7
+## Problem 10
 
 (Exercise 18.4, Comprehensive Application, Problem 5) Calculate:
 
@@ -164,13 +230,13 @@ $0.00001=1\times10^{-5}$; $0.00002=2\times10^{-5}$; $0.000000567=5.67\times10^{-
 
 (2) $\left(3\times10^{-5}\right)^2\div\left(3\times10^{-1}\right)^2$.
 
-### Solution to Problem 7
+### Solution to Problem 10
 
 (1) $\left(2\times10^{-3}\right)\left(5\times10^{-3}\right)=10\times10^{-6}=1\times10^{-5}$.
 
 (2) $\left(9\times10^{-10}\right)\div\left(9\times10^{-2}\right)=10^{-8}$. $\blacksquare$
 
-## Problem 8
+## Problem 11
 
 (Exercise 18.4, Comprehensive Application, Problem 6) Calculate:
 
@@ -178,27 +244,27 @@ $0.00001=1\times10^{-5}$; $0.00002=2\times10^{-5}$; $0.000000567=5.67\times10^{-
 
 (2) $\left(\frac{x^2+xy}{x}\right)^{-1}\div\left(\frac{x-y}{x}\cdot\frac{x}{y-x}\right)^{-3}$.
 
-### Solution to Problem 8
+### Solution to Problem 11
 
 (1) $\frac{-3a^{-3} b^5}{6a^{-3} b^{-2}}=-\frac12 b^7$.
 
 (2) $\left(\frac{x\left(x+y\right)}{x}\right)^{-1}\div\left(\frac{x-y}{x}\cdot\frac{x}{-\left(x-y\right)}\right)^{-3}=\frac{1}{x+y}\div\left(-1\right)^{-3}=\frac{1}{x+y}\div\left(-1\right)=-\frac{1}{x+y}$. $\blacksquare$
 
-## Problem 9
+## Problem 12
 
 (Exercise 18.4, Comprehensive Application, Problem 7) Given $x+x^{-1}=3$, find the values of $x^2+x^{-2}$ and $x^4+x^{-4}$.
 
-### Solution to Problem 9
+### Solution to Problem 12
 
 $\left(x+x^{-1}\right)^2=x^2+2+x^{-2}=9$, hence $x^2+x^{-2}=7$.
 
 $\left(x^2+x^{-2}\right)^2=x^4+2+x^{-4}=49$, hence $x^4+x^{-4}=47$. $\blacksquare$
 
-## Problem 10
+## Problem 13
 
 (Exercise 18.4, Extension and Exploration, Problem 8) Given that the mass of $1$ water molecule is approximately $3\times10^{-26}\ \text{kg}$, and $1$ drop of water (taking $20$ drops as $1\ \text{g}$) contains approximately how many water molecules?
 
-### Solution to Problem 10
+### Solution to Problem 13
 
 The mass of $1$ drop of water $=\frac{1}{20}\ \text{g}=5\times10^{-5}\ \text{kg}$.
 
@@ -264,7 +330,7 @@ $90x=60\left(x+6\right)=60x+360$, $30x=360$, $x=12$. The check holds.
 
 Hence B makes $12$ parts per hour, and A makes $18$ parts per hour. $\blacksquare$
 
-## Problem 11
+## Problem 14
 
 (Exercise 18.5, Review and Consolidation, Problem 1) Solve the following equations:
 
@@ -284,7 +350,7 @@ Hence B makes $12$ parts per hour, and A makes $18$ parts per hour. $\blacksquar
 
 (8) $\frac{3}{2 x-1}=\frac{5}{6 x-2}$.
 
-### Solution to Problem 11
+### Solution to Problem 14
 
 (1) $x+3=5x$, $x=\frac34$. The check holds.
 
@@ -302,7 +368,7 @@ Hence B makes $12$ parts per hour, and A makes $18$ parts per hour. $\blacksquar
 
 (8) Multiply by $2\left(2x-1\right)$: $6=5$, a contradiction; the original equation has no solution. $\blacksquare$
 
-## Problem 12
+## Problem 15
 
 (Exercise 18.5, Comprehensive Application, Problem 2) Solve the following equations for $x$:
 
@@ -310,17 +376,17 @@ Hence B makes $12$ parts per hour, and A makes $18$ parts per hour. $\blacksquar
 
 (2) $\frac{m x-1}{x+1}=0$ ($m\ne0$, and $m\ne1$).
 
-### Solution to Problem 12
+### Solution to Problem 15
 
 (1) $\frac{1}{x-1}=1-a$, $x-1=\frac{1}{1-a}$, $x=1+\frac{1}{1-a}=\frac{2-a}{1-a}$. Checking $x\ne1$.
 
 (2) The numerator $mx-1=0$, $x=\frac1m$. Checking $x+1=\frac1m+1\ne0$ (since $m\ne-1$), holds. $\blacksquare$
 
-## Problem 13
+## Problem 16
 
 (Exercise 18.5, Comprehensive Application, Problem 3) A and B set off at the same time from places $6\ \text{km}$ and $10\ \text{km}$ from the destination respectively; the ratio of A's to B's average speeds is $3:4$, and A arrives at the destination $20\ \text{min}$ earlier than B. Find the average speeds of A and B.
 
-### Solution to Problem 13
+### Solution to Problem 16
 
 Let A's speed be $3x$ and B's speed be $4x$. $20\ \text{min}=\frac13\ \text{h}$.
 
@@ -330,11 +396,11 @@ $$\frac{5}{2x}-\frac{2}{x}=\frac13,\quad \frac{5-4}{2x}=\frac13,\quad \frac{1}{2
 
 Hence A's speed is $3x=4.5\ \text{km/h}$, and B's speed is $4x=6\ \text{km/h}$. $\blacksquare$
 
-## Problem 14
+## Problem 17
 
 (Exercise 18.5, Comprehensive Application, Problem 4) Machines of type $A,B$ are both used to transport chemical raw materials; a type $A$ machine transports $30\ \text{kg}$ more per hour than a type $B$ machine, and the time a type $A$ machine takes to transport $900\ \text{kg}$ equals the time a type $B$ machine takes to transport $600\ \text{kg}$. How much chemical raw material does each type of machine transport per hour?
 
-### Solution to Problem 14
+### Solution to Problem 17
 
 Let type $B$ transport $x\ \text{kg}$ per hour; then type $A$ is $\left(x+30\right)\ \text{kg}$.
 
@@ -344,11 +410,11 @@ $900x=600\left(x+30\right)=600x+18000$, $300x=18000$, $x=60$. The check holds.
 
 Hence type $B$ is $60\ \text{kg}$ per hour, and type $A$ is $90\ \text{kg}$ per hour. $\blacksquare$
 
-## Problem 15
+## Problem 18
 
 (Exercise 18.5, Comprehensive Application, Problem 5) Wang Fang counts half of a batch of books in $3\ \text{h}$; Liu Wei joins in counting the other half, and together they count the other half in $1.2\ \text{h}$. How many hours does Liu Wei need to count this batch of books alone?
 
-### Solution to Problem 15
+### Solution to Problem 18
 
 Wang Fang counts half in $3\ \text{h}$, so she counts $\frac{1}{6}$ per hour. Let Liu Wei alone need $x\ \text{h}$, counting $\frac1x$ per hour. Together they count the other half ($\frac12$) in $1.2\ \text{h}$:
 
@@ -358,11 +424,11 @@ $$\frac{1.2}{6}+\frac{1.2}{x}=\frac12,\quad 0.2+\frac{1.2}{x}=0.5,\quad \frac{1.
 
 The check holds. Hence Liu Wei alone needs $4\ \text{h}$. $\blacksquare$
 
-## Problem 16
+## Problem 19
 
 (Exercise 18.5, Extension and Exploration, Problem 7) After improving the corn variety, the average corn yield per hectare in Yingchun Village increased by $a\ \text{t}$; a plot that originally yielded $m\ \text{t}$ of corn now has a total increase of $20\ \text{t}$. What were the original and current average corn yields per hectare?
 
-### Solution to Problem 16
+### Solution to Problem 19
 
 Let the original yield per hectare be $x\ \text{t}$; then the area of the plot is $\frac{m}{x}$ hectares. Now the yield per hectare is $\left(x+a\right)\ \text{t}$, and the total increase is $a\cdot\frac{m}{x}=20$.
 
@@ -370,11 +436,11 @@ $$\frac{am}{x}=20,\quad x=\frac{am}{20}.$$
 
 The original yield per hectare is $\frac{am}{20}\ \text{t}$, and the current is $\frac{am}{20}+a=\frac{a\left(m+20\right)}{20}\ \text{t}$. $\blacksquare$
 
-## Problem 17
+## Problem 20
 
 (Exercise 18.5, Extension and Exploration, Problem 8) Two groups start climbing a $450\ \text{m}$-high mountain at the same time; the average climbing speed of the first group is $1.2$ times that of the second group, and they reach the summit $15\ \text{min}$ earlier than the second group. What are the average climbing speeds of the two groups?
 
-### Solution to Problem 17
+### Solution to Problem 20
 
 Let the second group's speed be $x\ \text{m/min}$, and the first group's $1.2x$.
 
@@ -383,71 +449,3 @@ $$\frac{450}{x}-\frac{450}{1.2x}=15.$$
 $$\frac{450}{x}-\frac{375}{x}=15,\quad \frac{75}{x}=15,\quad x=5.$$
 
 The check holds. Hence the second group's speed is $5\ \text{m/min}$, and the first group's is $6\ \text{m/min}$. $\blacksquare$
-
-## Activity 1
-
-(Mathematical Activity, Activity 1) Explore the properties of proportions. Find a set of numbers $a,b,c,d$, all not equal to $0$, such that $\frac{a}{b}=\frac{c}{d}$ holds. Using this set of values, compute the values of the two fractions in each of the following groups, and see what relationship holds between them:
-
-(1) $\frac{a}{c}$ and $\frac{b}{d}$;
-
-(2) $\frac{b}{a}$ and $\frac{d}{c}$;
-
-(3) $\frac{a+b}{b}$ and $\frac{c+d}{d}$;
-
-(4) $\frac{a+b}{a-b}$ and $\frac{c+d}{c-d}$ ($a\ne b$, $c\ne d$).
-
-Conjecture the relationship between the two fractions in each group, and prove your conjecture.
-
-### Solution to Activity 1
-
-Take $a=2,b=3,c=4,d=6$, satisfying $\frac{2}{3}=\frac46$.
-
-(1) $\frac{a}{c}=\frac12$, $\frac{b}{d}=\frac12$, equal.
-
-(2) $\frac{b}{a}=\frac32$, $\frac{d}{c}=\frac32$, equal.
-
-(3) $\frac{a+b}{b}=\frac53$, $\frac{c+d}{d}=\frac{10}{6}=\frac53$, equal.
-
-(4) $\frac{a+b}{a-b}=\frac{5}{-1}=-5$, $\frac{c+d}{c-d}=\frac{10}{-2}=-5$, equal.
-
-Proof: From $\frac{a}{b}=\frac{c}{d}=k$, we get $a=bk$, $c=dk$.
-
-(1) $\frac{a}{c}=\frac{bk}{dk}=\frac{b}{d}$.
-
-(2) $\frac{b}{a}=\frac{b}{bk}=\frac1k$, $\frac{d}{c}=\frac{d}{dk}=\frac1k$, equal.
-
-(3) $\frac{a+b}{b}=\frac{bk+b}{b}=k+1$, $\frac{c+d}{d}=\frac{dk+d}{d}=k+1$, equal.
-
-(4) $\frac{a+b}{a-b}=\frac{bk+b}{bk-b}=\frac{k+1}{k-1}$, $\frac{c+d}{c-d}=\frac{dk+d}{dk-d}=\frac{k+1}{k-1}$, equal. $\blacksquare$
-
-## Activity 2
-
-(Mathematical Activity, Activity 2) Explore the pattern in the values of $x^2+\frac{1}{x^2}$. Fill in the following table, and find the values of $x^2+\frac{1}{x^2}$ when $x=-3,-2,-1,-\frac12,-\frac13,\frac13,\frac12,1,2,3$ respectively. From the completed table, can you make some conjectures about the value of $x^2+\frac{1}{x^2}$? Can you prove your conjecture?
-
-### Solution to Activity 2
-
-Compute each value:
-
-$x=-3$: $9+\frac19=\frac{82}{9}$;
-
-$x=-2$: $4+\frac14=\frac{17}{4}$;
-
-$x=-1$: $1+1=2$;
-
-$x=-\frac12$: $\frac14+4=\frac{17}{4}$;
-
-$x=-\frac13$: $\frac19+9=\frac{82}{9}$;
-
-$x=\frac13$: same as $x=-\frac13$, $\frac{82}{9}$;
-
-$x=\frac12$: same as $x=-\frac12$, $\frac{17}{4}$;
-
-$x=1$: $2$;
-
-$x=2$: $\frac{17}{4}$;
-
-$x=3$: $\frac{82}{9}$.
-
-Conjecture: $x^2+\frac{1}{x^2}\ge2$, attaining the minimum $2$ when $x=\pm1$, and $x$ and $\frac1x$ give the same value.
-
-Proof: $x^2+\frac{1}{x^2}-2=\left(x-\frac1x\right)^2\ge0$, hence $x^2+\frac{1}{x^2}\ge2$, with equality when $x=\pm1$. $\blacksquare$

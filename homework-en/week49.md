@@ -1,6 +1,144 @@
 # week49
 
+> **Conclusion 21.1.1 (Interior Angle Sum of a Quadrilateral)**
+> 
+> The interior angle sum of a quadrilateral is \(360^{\circ}\).
+
+> **Conclusion 21.1.3 (Interior Angle Sum of a Polygon)**
+> 
+> The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
+
+> **Property 21.2.1 (Opposite Sides)**
+> 
+> Opposite sides of a parallelogram are equal.
+
+> **Property 21.2.3 (Diagonals)**
+> 
+> The diagonals of a parallelogram bisect each other.
+
+> **Criterion 21.2.3 (Diagonals)**
+> 
+> A quadrilateral whose diagonals bisect each other is a parallelogram.
+
+> **Property 21.3.2 (Diagonals of a Rectangle)**
+> 
+> The diagonals of a rectangle are equal.
+
+> **Property 21.3.4 (Diagonals of a Rhombus)**
+> 
+> The two diagonals of a rhombus are perpendicular, and each diagonal bisects a pair of opposite angles.
+
+> **Definition 22.1.1 (Constants and Variables)**
+> 
+> In a process of change, we call a quantity whose value remains constant a constant, and a quantity whose value changes a variable.
+
+> **Definition 22.1.2 (Function)**
+> 
+> Generally, in a process of change, if there are two variables $x$ and $y$, and for each definite value of $x$, $y$ has a unique definite value corresponding to it, then we say $x$ is the independent variable and $y$ is a function of $x$.
+
+> **Definition 22.1.3 (Analytic Expression of a Function)**
+> 
+> Using a mathematical expression in the independent variable, as in $y=50-0.1x$, to express the relation between the function and the independent variable is a common way of representing a function; such an expression is called the analytic expression of the function.
+
+> **Definition 22.2.1 (Graph of a Function)**
+> 
+> Generally, for a function, if each pair of corresponding values of the independent variable and the function is taken as the x- and y-coordinates of a point, then the figure formed by these points in the coordinate plane is the graph of the function.
+
+> **Conclusion 22.2.2 (Steps for Plotting a Graph by the Point-Plotting Method)**
+> 
+> Step 1, make a table — list some values of the independent variable and their corresponding function values; Step 2, plot points — in the plane rectangular coordinate system, take the independent variable value as the x-coordinate and the corresponding function value as the y-coordinate, and plot the points corresponding to the table values; Step 3, join the points — in order of increasing x-coordinate, connect the plotted points with a smooth curve.
+
+> **Conclusion 22.2.3 (Three Ways of Representing a Function)**
+> 
+> Analytic method: express the functional relation by a mathematical expression; Tabular method: list the corresponding values of the independent variable and the function in a table; Graphical method: express the functional relation by a graph.
+
 ## Review Problem 1
+
+(Review Problem, Comprehensive Application, Problem 8)
+
+As shown in the figure, the interior angles of hexagon \(ABCDEF\) are all equal, and \(\angle DAB=60^{\circ}\). What is the positional relation between \(AB\) and \(DE\)? Does \(BC\) have this relation with \(EF\)? Prove your conclusion.
+
+Each interior angle of an equiangular hexagon \(=\frac{(6-2)\times 180^{\circ}}{6}=120^{\circ}\).
+
+From \(\angle DAB=60^{\circ}\) and each interior angle \(120^{\circ}\), the consecutive interior angles are supplementary, so \(AB\parallel DE\).
+
+Similarly \(BC\parallel EF\).
+
+\(\blacksquare\)
+
+(Review Problem, Comprehensive Application, Problem 9)
+
+As shown in the figure, quadrilateral \(ABCD\) is a parallelogram, \(BE\parallel DF\), and they meet diagonal \(AC\) at points \(E,F\), respectively; connect \(ED,BF\). Prove \(\angle 1=\angle 2\).
+
+From \(BE\parallel DF\) and \(AB\parallel CD\), one can prove \(\triangle ABE\cong\triangle CDF\), giving \(BE=DF\).
+
+Therefore quadrilateral \(BEDF\) is a parallelogram, \(ED\parallel BF\).
+
+By equal alternate interior angles, \(\angle 1=\angle 2\).
+
+\(\blacksquare\)
+
+(Review Problem, Comprehensive Application, Problem 10)
+
+The quadrilateral obtained by joining the midpoints of the sides of any quadrilateral in order is called a midpoint quadrilateral.
+
+(1) What shape is the midpoint quadrilateral of a parallelogram? Why?
+
+(2) What shapes are the midpoint quadrilaterals of a rectangle, a rhombus and a square? Why?
+
+(1) By the triangle midline theorem, both pairs of opposite sides of the midpoint quadrilateral are parallel and equal to half the original diagonals, so it is a parallelogram.
+
+(2) The diagonals of a rectangle are equal, so the midpoint quadrilateral has equal adjacent sides, i.e. a rhombus.
+
+The diagonals of a rhombus are perpendicular, so the midpoint quadrilateral has perpendicular adjacent sides, i.e. a rectangle.
+
+The diagonals of a square are perpendicular and equal, so the midpoint quadrilateral has perpendicular and equal adjacent sides, i.e. a square.
+
+\(\blacksquare\)
+
+(Review Problem, Comprehensive Application, Problem 11)
+
+If a quadrilateral is an axisymmetric figure and has two perpendicular axes of symmetry, must it be a rhombus? Must it be a square?
+
+Two perpendicular axes of symmetry show that the quadrilateral is symmetric about both axes, and its diagonals perpendicularly bisect each other.
+
+Therefore it must be a rhombus.
+
+But it need not be a square, because the diagonals need not be equal (a rhombus's diagonals need not be equal).
+
+\(\blacksquare\)
+
+(Review Problem, Comprehensive Application, Problem 12)
+
+With two congruent triangular pieces of paper, what quadrilaterals can you form? To form a rectangle, what kind of two congruent triangles are needed? What about to form a rhombus or a square?
+
+Two congruent triangles form a parallelogram (by flipping along corresponding sides).
+
+To form a rectangle, two congruent right triangles are needed.
+
+To form a rhombus, two congruent isosceles triangles are needed.
+
+To form a square, two congruent isosceles right triangles are needed.
+
+\(\blacksquare\)
+
+(Review Problem, Comprehensive Application, Problem 13)
+
+If you have no protractor or set square nearby and need to construct a \(30^{\circ}\) angle, you can use the following method: (1) fold rectangular paper \(ABCD\) so that \(AD\) coincides with \(BC\), obtaining crease \(EF\); (2) fold the paper once more so that point \(A\) lands on \(EF\) and the crease passes through point \(B\), obtaining crease \(BM\) and also segment \(BN\). This gives \(\angle ABM,\angle MBN,\angle NBC\) all equal to \(30^{\circ}\). Write out the proof.
+
+After folding, \(EF\) is a midline, \(EF\parallel AD\parallel BC\).
+
+Folding makes \(A\) land at \(N\) on \(EF\), and the crease passes through \(B\), so \(BA=BN\).
+
+In \(Rt\triangle BNE\), \(BE=\frac{1}{2}AB=\frac{1}{2}BN\), so \(\angle BNE=30^{\circ},\ \angle EBN=60^{\circ}\).
+
+Hence \(\angle ABN=60^{\circ}\), and crease \(BM\) bisects \(\angle ABN\), giving \(\angle ABM=\angle MBN=30^{\circ}\).
+
+Also \(\angle ABC=90^{\circ}\), so \(\angle NBC=90^{\circ}-60^{\circ}=30^{\circ}\).
+
+\(\blacksquare\)
+
+## Review Problem 2
 
 (Review Problem, Comprehensive Application, Problem 14)
 
@@ -60,11 +198,11 @@ Therefore the overlap area always equals \(\frac{1}{4}\) of the original square'
 
 ### Solution to Exercise 1
 
-(1) By Constants and Variables, the value of the filling rate $0.1\ \text{m}^3/\text{min}$ remains constant, so the filling rate is a constant. The values of the filling time $x$ and the filled amount $y$ change, so the filling time $x$ and the filled amount $y$ are variables.
+(1) By **Definition 22.1.1 (Constants and Variables)**, the value of the filling rate $0.1\ \text{m}^3/\text{min}$ remains constant, so the filling rate is a constant. The values of the filling time $x$ and the filled amount $y$ change, so the filling time $x$ and the filled amount $y$ are variables.
 
-(2) By Constants and Variables, the values of the year $x$ and the GDP $y$ both change, so the year $x$ and the GDP $y$ are variables; in this problem there is no quantity whose value remains constant.
+(2) By **Definition 22.1.1 (Constants and Variables)**, the values of the year $x$ and the GDP $y$ both change, so the year $x$ and the GDP $y$ are variables; in this problem there is no quantity whose value remains constant.
 
-(3) By Constants and Variables, the base length $5$ of the parallelogram remains constant, so the base length is a constant. The values of the height $h$ and the area $S$ change, so the height $h$ and the area $S$ are variables. $\blacksquare$
+(3) By **Definition 22.1.1 (Constants and Variables)**, the base length $5$ of the parallelogram remains constant, so the base length is a constant. The values of the height $h$ and the area $S$ change, so the height $h$ and the area $S$ are variables. $\blacksquare$
 
 ## Exercise 2
 
@@ -72,7 +210,7 @@ Therefore the overlap area always equals \(\frac{1}{4}\) of the original square'
 
 ### Solution to Exercise 2
 
-By Constants and Variables, a quantity whose value remains constant is a constant, and a quantity whose value changes is a variable.
+By **Definition 22.1.1 (Constants and Variables)**, a quantity whose value remains constant is a constant, and a quantity whose value changes is a variable.
 
 (1) A car travels at a constant speed of $60\ \text{km/h}$; the distance traveled $s$ changes with the travel time $t$. Here the speed $60\ \text{km/h}$ is a constant, and the travel time $t$ and the distance traveled $s$ are variables.
 
@@ -96,7 +234,7 @@ By Constants and Variables, a quantity whose value remains constant is a constan
 
 ### Solution to Exercise 3
 
-By Function, in a process of change, if for each definite value of $x$, $y$ has a unique definite value corresponding to it, then $y$ is a function of $x$.
+By **Definition 22.1.2 (Function)**, in a process of change, if for each definite value of $x$, $y$ has a unique definite value corresponding to it, then $y$ is a function of $x$.
 
 (1) For each definite value of the side length $x$ of the square, the area $S=x^2$ has a unique definite value corresponding to it, so $S$ is a function of $x$, where $x$ is the independent variable and $S$ is a function of $x$.
 
@@ -112,7 +250,7 @@ By Function, in a process of change, if for each definite value of $x$, $y$ has 
 
 ### Solution to Exercise 4
 
-By Function, in a process of change, if for each definite value of $x$, $y$ has a unique definite value corresponding to it, then $y$ is a function of $x$.
+By **Definition 22.1.2 (Function)**, in a process of change, if for each definite value of $x$, $y$ has a unique definite value corresponding to it, then $y$ is a function of $x$.
 
 Movie tickets cost $40$ yuan each; $x$ tickets are sold for one showing, and the box-office revenue is $y$ yuan. For each definite value of the number of tickets sold $x$, the revenue $y=40x$ has a unique definite value corresponding to it, so $y$ is a function of $x$, where $x$ is the independent variable and $y$ is a function of $x$. $\blacksquare$
 
@@ -126,9 +264,9 @@ Movie tickets cost $40$ yuan each; $x$ tickets are sold for one showing, and the
 
 ### Solution to Exercise 5
 
-(1) By Function, for each definite value of time $t$, the remaining water $V$ has a unique definite value corresponding to it, so $V$ is a function of $t$. Here $t$ is the independent variable and $V$ is a function of $t$. By Analytic Expression of a Function, the analytic expression is $V=10-0.05t$.
+(1) By **Definition 22.1.2 (Function)**, for each definite value of time $t$, the remaining water $V$ has a unique definite value corresponding to it, so $V$ is a function of $t$. Here $t$ is the independent variable and $V$ is a function of $t$. By **Definition 22.1.3 (Analytic Expression of a Function)**, the analytic expression is $V=10-0.05t$.
 
-(2) By Function, for each definite value of the population $n$, the per-capita cultivated area $y$ has a unique definite value corresponding to it, so $y$ is a function of $n$. Here $n$ is the independent variable and $y$ is a function of $n$. By Analytic Expression of a Function, the analytic expression is $y=\frac{10^6}{n}$. $\blacksquare$
+(2) By **Definition 22.1.2 (Function)**, for each definite value of the population $n$, the per-capita cultivated area $y$ has a unique definite value corresponding to it, so $y$ is a function of $n$. Here $n$ is the independent variable and $y$ is a function of $n$. By **Definition 22.1.3 (Analytic Expression of a Function)**, the analytic expression is $y=\frac{10^6}{n}$. $\blacksquare$
 
 ## Exercise 6
 
@@ -142,7 +280,7 @@ $$
 S = \frac{\left(2+x\right) \times 3}{2} = \frac{3}{2}\left(x+2\right).
 $$
 
-By Analytic Expression of a Function, $S=\frac{3}{2}\left(x+2\right)$ is the desired analytic expression.
+By **Definition 22.1.3 (Analytic Expression of a Function)**, $S=\frac{3}{2}\left(x+2\right)$ is the desired analytic expression.
 
 The lower base $x$ is greater than the upper base $2\ \text{cm}$, i.e. $x> 2$; the lower base $x$ is no more than $5\ \text{cm}$, i.e. $x \leq 5$. Hence the range of the independent variable $x$ is $2 < x \leq 5$. $\blacksquare$
 
@@ -152,7 +290,7 @@ The lower base $x$ is greater than the upper base $2\ \text{cm}$, i.e. $x> 2$; t
 
 ### Solution to Exercise 7
 
-By Function and Analytic Expression of a Function, a functional relation expressible by an analytic expression means the correspondence between variables can be written as a mathematical expression.
+By **Definition 22.1.2 (Function)** and **Definition 22.1.3 (Analytic Expression of a Function)**, a functional relation expressible by an analytic expression means the correspondence between variables can be written as a mathematical expression.
 
 A car travels at a constant speed of $60\ \text{km/h}$; the distance $s$ (unit: km) changes with the travel time $t$ (unit: h). The analytic expression is $s=60t$, where $t$ is the independent variable. The travel time cannot be negative, so the range of the independent variable $t$ is $t \geq 0$. $\blacksquare$
 
@@ -168,7 +306,7 @@ A car travels at a constant speed of $60\ \text{km/h}$; the distance $s$ (unit: 
 
 ### Solution to Problem 1
 
-By Constants and Variables, a quantity whose value remains constant is a constant, and a quantity whose value changes is a variable.
+By **Definition 22.1.1 (Constants and Variables)**, a quantity whose value remains constant is a constant, and a quantity whose value changes is a variable.
 
 (1) The total number of books $10$ remains constant, so $10$ is a constant. The numbers of books $x$ and $y$ in the two drawers change, so $x$ and $y$ are variables.
 
@@ -190,7 +328,7 @@ By Constants and Variables, a quantity whose value remains constant is a constan
 
 ### Solution to Problem 2
 
-By Function, in a process of change, if for each definite value of $x$, $y$ has a unique definite value corresponding to it, then $y$ is a function of $x$.
+By **Definition 22.1.2 (Function)**, in a process of change, if for each definite value of $x$, $y$ has a unique definite value corresponding to it, then $y$ is a function of $x$.
 
 (1) For each definite value of the natural number $n$, the number of primes $m$ less than $n$ has a unique definite value corresponding to it, so $m$ is a function of $n$, where $n$ is the independent variable and $m$ is a function of $n$.
 
@@ -202,11 +340,11 @@ By Function, in a process of change, if for each definite value of $x$, $y$ has 
 
 ### Solution to Problem 3
 
-By Constants and Variables, the unit price $0.4$ yuan per pencil remains constant, so the unit price is a constant. The number of pencils $x$ and the total cost $y$ change, so $x$ and $y$ are variables.
+By **Definition 22.1.1 (Constants and Variables)**, the unit price $0.4$ yuan per pencil remains constant, so the unit price is a constant. The number of pencils $x$ and the total cost $y$ change, so $x$ and $y$ are variables.
 
-By Function, for each definite value of the number of pencils $x$, the total cost $y$ has a unique definite value corresponding to it, so $y$ is a function of $x$, where $x$ is the independent variable and $y$ is a function of $x$.
+By **Definition 22.1.2 (Function)**, for each definite value of the number of pencils $x$, the total cost $y$ has a unique definite value corresponding to it, so $y$ is a function of $x$, where $x$ is the independent variable and $y$ is a function of $x$.
 
-By Analytic Expression of a Function, the total cost equals the unit price times the number of pencils, so the analytic expression is $y=0.4x$. $\blacksquare$
+By **Definition 22.1.3 (Analytic Expression of a Function)**, the total cost equals the unit price times the number of pencils, so the analytic expression is $y=0.4x$. $\blacksquare$
 
 ## Problem 4
 
@@ -214,9 +352,9 @@ By Analytic Expression of a Function, the total cost equals the unit price times
 
 ### Solution to Problem 4
 
-By Constants and Variables, the base length $5$ of the triangle remains constant, so the base length is a constant. The height $h$ to the base and the area $S$ change, so $h$ and $S$ are variables.
+By **Definition 22.1.1 (Constants and Variables)**, the base length $5$ of the triangle remains constant, so the base length is a constant. The height $h$ to the base and the area $S$ change, so $h$ and $S$ are variables.
 
-By Function, for each definite value of the height $h$ to the base, the area $S$ has a unique definite value corresponding to it, so $S$ is a function of $h$, where $h$ is the independent variable and $S$ is a function of $h$.
+By **Definition 22.1.2 (Function)**, for each definite value of the height $h$ to the base, the area $S$ has a unique definite value corresponding to it, so $S$ is a function of $h$, where $h$ is the independent variable and $S$ is a function of $h$.
 
 By the triangle area formula, the area equals half the base times the height, so
 
@@ -248,7 +386,7 @@ The filled table is:
 |---|---|---|---|---|---|---|
 | Display $y$ | $7$ | $11$ | $-3$ | $5$ | $207$ | $-5.4$ |
 
-By Function, for each definite value of the input $x$, the displayed result $y=2x+5$ has a unique definite value corresponding to it, so $y$ is a function of $x$. $\blacksquare$
+By **Definition 22.1.2 (Function)**, for each definite value of the input $x$, the displayed result $y=2x+5$ has a unique definite value corresponding to it, so $y$ is a function of $x$. $\blacksquare$
 
 ## Problem 6
 
@@ -262,7 +400,7 @@ By Function, for each definite value of the input $x$, the displayed result $y=2
 
 ### Solution to Problem 6
 
-By Function, if for each definite value of $x$, $y$ has a unique definite value corresponding to it, then $y$ is a function of $x$.
+By **Definition 22.1.2 (Function)**, if for each definite value of $x$, $y$ has a unique definite value corresponding to it, then $y$ is a function of $x$.
 
 (1) For each definite value of $x$, $y=3x-5$ has a unique definite value corresponding to it, so $y$ is a function of $x$.
 
@@ -298,7 +436,7 @@ For $y=\sqrt{x-1}$, the radicand cannot be negative, i.e. $x-1 \geq 0$, so $x \g
 
 ### Solution to Problem 8
 
-By Function, in a process of change, if for each definite value of $v$, $T$ has a unique definite value corresponding to it, then $T$ is a function of $v$.
+By **Definition 22.1.2 (Function)**, in a process of change, if for each definite value of $v$, $T$ has a unique definite value corresponding to it, then $T$ is a function of $v$.
 
 From the table, for each definite value of the wind-force level $v$, the perceived temperature $T$ has a unique definite value corresponding to it, so $T$ is a function of $v$. $\blacksquare$
 
@@ -312,7 +450,7 @@ From the table, for each definite value of the wind-force level $v$, the perceiv
 
 ### Solution to Problem 9
 
-(1) By Function, in a process of change, if for each definite value of $t$, $y$ has a unique definite value corresponding to it, then $y$ is a function of $t$. From the forgetting curve, for each definite value of time $t$, the retained amount $y$ has a unique definite value corresponding to it, so $y$ is a function of $t$.
+(1) By **Definition 22.1.2 (Function)**, in a process of change, if for each definite value of $t$, $y$ has a unique definite value corresponding to it, then $y$ is a function of $t$. From the forgetting curve, for each definite value of time $t$, the retained amount $y$ has a unique definite value corresponding to it, so $y$ is a function of $t$.
 
 (2) From the forgetting curve, the retained amount decreases fastest in a short time after first memorization, then the decrease slows down. Therefore, for newly learned material, one should review promptly after learning and consolidate it before forgetting sets in, so as to slow the decline of retention. $\blacksquare$
 
@@ -334,30 +472,10 @@ Plot points $\left(x, y\right)$ in the plane rectangular coordinate system and c
 
 The figure shows a plane rectangular coordinate system with integer tick marks on both axes; a straight line through points $\left(0,-1\right)$ and $\left(1,1\right)$ (slope $2$), namely the graph of $y=2x-1$.
 
-(2) By Graph of a Function, the coordinates of a point on the graph satisfy the analytic expression.
+(2) By **Definition 22.2.1 (Graph of a Function)**, the coordinates of a point on the graph satisfy the analytic expression.
 
 Substitute $x=-2.5$ into $y=2x-1$: $y=2\times\left(-2.5\right)-1=-6 \neq -4$, so point $A\left(-2.5, -4\right)$ is not on the graph.
 
 Substitute $x=1$ into $y=2x-1$: $y=2\times1-1=1 \neq 3$, so point $B\left(1, 3\right)$ is not on the graph.
 
 Substitute $x=2.5$ into $y=2x-1$: $y=2\times2.5-1=4$, which matches the y-coordinate of point $C$, so point $C\left(2.5, 4\right)$ is on the graph. $\blacksquare$
-
-## Exercise 9
-
-(Exercise 22.2, Problem 2) (1) Draw the graph of the function $y=x^2+1$.
-
-(2) Observing the graph of $y=x^2+1$, when $x< 0$, does $y$ increase as $x$ increases or does $y$ decrease as $x$ increases? What about when $x> 0$?
-
-### Solution to Exercise 9
-
-(1) By Steps for Plotting a Graph by the Point-Plotting Method, make a table:
-
-| $x$ | $\cdots$ | $-2$ | $-1$ | $0$ | $1$ | $2$ | $\cdots$ |
-|---|---|---|---|---|---|---|---|
-| $y=x^2+1$ | $\cdots$ | $5$ | $2$ | $1$ | $2$ | $5$ | $\cdots$ |
-
-Plot points in the plane rectangular coordinate system and connect them with a smooth curve, obtaining an upward-opening curve.
-
-The figure shows a plane rectangular coordinate system with integer tick marks on both axes; an upward-opening parabola symmetric about the $y$-axis, with vertex $\left(0,1\right)$ and passing through $\left(-1,2\right)$, $\left(1,2\right)$, $\left(-2,5\right)$, $\left(2,5\right)$, namely the graph of $y=x^2+1$.
-
-(2) From the graph, when $x< 0$, the curve descends from left to right, i.e. $y$ decreases as $x$ increases; when $x> 0$, the curve rises from left to right, i.e. $y$ increases as $x$ increases. $\blacksquare$

@@ -1,12 +1,224 @@
 # week30
 
+> **Conclusion (Mathematics Activity 1) (Triangulation)**
+> 
+> Dividing a polygon into several triangles by joining its non-adjacent vertices with segments that do not intersect in the interior is called a triangulation of the polygon. A triangulation of an $n$-gon yields $n-2$ triangles, and the number $D_n$ of different triangulation methods satisfies $\frac{D_{n+1}}{D_n}=\frac{4n-6}{n}$ ($D_3=1$).
+
+> **Conclusion (Comprehensive and Practical Activity 1) (Centroid of Simple Figures)**
+> 
+> The centroid of a uniform segment is its midpoint; the centroid of a centrally symmetric figure such as a square, rectangle or parallelogram is its center of symmetry (the intersection of the diagonals); the centroid of a triangle is the intersection of the three medians.
+
+> **Conclusion (Comprehensive and Practical Activity 2) (Centroid of Composite Figures)**
+> 
+> Divide the composite figure into several simple figures whose centroid positions are known; let the area of the $i$-th part be $S_i$ and its centroid coordinates be $\left(x_i,y_i\right)$. Then the centroid coordinates of the whole are
+
+> **Conclusion 13.1.1 (Relationship Among the Three Sides of a Triangle)**
+> 
+> In a triangle, the sum of any two sides is greater than the third, and the difference of any two sides is less than the third.
+
+> **Conclusion 13.2.1 (Relationship Among the Three Sides of a Triangle)**
+> 
+> In a triangle, the sum of any two sides is greater than the third side, and the difference of any two sides is less than the third side. Conversely, three segments can form a triangle only when the sum of any two is greater than the third.
+
+> **Definition 13.2.1 (Median)**
+> 
+> The segment joining a vertex to the midpoint of the opposite side is called a median; the three medians meet at the centroid.
+
+> **Definition 13.2.1 (Centroid of a Triangle)**
+> 
+> The three medians of a triangle intersect at one point, called the centroid of the triangle; the centroid of a uniform triangular thin plate lies at this point.
+
+> **Definition 13.2.2 (Angle Bisector)**
+> 
+> The segment obtained where the bisector of an angle meets the opposite side is called an angle bisector of the triangle.
+
+> **Definition 13.2.3 (Altitude)**
+> 
+> Dropping a perpendicular from a vertex to the line of the opposite side, the segment between the vertex and the foot is called an altitude.
+
+> **Theorem 13.3.1 (Triangle Interior Angle Sum Theorem)**
+> 
+> The sum of the interior angles of a triangle equals $180^\circ$.
+
+> **Conclusion 13.3.1 (The Acute Angles of a Right Triangle Are Complementary)**
+> 
+> The two acute angles of a right triangle are complementary; conversely, a triangle with two complementary angles is a right triangle. A right triangle is denoted $\text{Rt}\triangle$.
+
+> **Definition 13.3.1 (Exterior Angle of a Triangle)**
+> 
+> The angle formed by one side of a triangle and the extension of another side is called an exterior angle of the triangle.
+
+> **Corollary 13.3.1 (Relationship Between an Exterior Angle and the Non-adjacent Interior Angles)**
+> 
+> An exterior angle of a triangle equals the sum of the two interior angles not adjacent to it. The sum of the three exterior angles of a triangle equals $360^\circ$.
+
+> **Definition 14.1.1 (Congruent Figures and Congruent Triangles)**
+> 
+> Two figures that can coincide completely are called congruent figures; two triangles that can coincide completely are called congruent triangles, denoted $\triangle ABC\cong\triangle A'B'C'$.
+
+> **Conclusion 14.1.1 (Properties of Congruent Triangles)**
+> 
+> Corresponding sides of congruent triangles are equal, and corresponding angles are equal.
+
+> **Definition 14.1.2 (Corresponding Elements)**
+> 
+> Putting two congruent triangles together to coincide, the coinciding vertices are called corresponding vertices, the coinciding sides are called corresponding sides, and the coinciding angles are called corresponding angles.
+
 ## Problem 1
 
-(Exercise 13.3, Extension and Exploration, Problem 11) As shown, $CE$ is the bisector of the exterior angle $\angle ACD$ of $\triangle ABC$, and $CE$ meets the extension of $BA$ at point $E$. Prove that $\angle BAC=\angle B+2\angle E$.
+(Exercise 13.3, Review and Consolidation, Problem 4) As shown, in $\triangle ABC$, $AD\perp BC$ with foot at $D$, $\angle 1=\angle 2$, $\angle C=65^\circ$. Find the degree measure of $\angle BAC$.
 
 ### Solution to Problem 1
 
-By Relationship Between an Exterior Angle and the Non-adjacent Interior Angles, $\angle BAC$ is the exterior angle of $\triangle ACE$ at point $A$, so
+In $\text{Rt}\triangle ADC$, by The Acute Angles of a Right Triangle Are Complementary,
+
+$$
+\angle DAC=90^\circ-\angle C=90^\circ-65^\circ=25^\circ.
+$$
+
+In $\text{Rt}\triangle ADB$, $\angle ADB=90^\circ$, so $\angle 1+\angle 2=90^\circ$. From $\angle 1=\angle 2$, we get $\angle 1=45^\circ$.
+
+Therefore
+
+$$
+\angle BAC=\angle 1+\angle DAC=45^\circ+25^\circ=70^\circ.
+$$
+
+$\blacksquare$
+
+## Problem 2
+
+(Exercise 13.3, Comprehensive Application, Problem 5) As shown, $AB\parallel CD$, $\angle A=40^\circ$, $\angle D=45^\circ$. Find the degree measures of $\angle 1$ and $\angle 2$.
+
+### Solution to Problem 2
+
+Since $AB\parallel CD$, the alternate interior angles cut by line $AC$ are equal, so $\angle 1=\angle A=40^\circ$. Similarly, line $BD$ cuts out $\angle DBA=\angle D=45^\circ$.
+
+In $\triangle AOB$, by **Theorem 13.3.1 (Triangle Interior Angle Sum Theorem)**,
+
+$$
+\angle 2=180^\circ-\angle A-\angle DBA=180^\circ-40^\circ-45^\circ=95^\circ.
+$$
+
+Hence $\angle 1=40^\circ$, $\angle 2=95^\circ$. $\blacksquare$
+
+## Problem 3
+
+(Exercise 13.3, Comprehensive Application, Problem 6) As shown, $AB\parallel CD$, $AE$ intersects $CD$ at point $O$, $\angle A=45^\circ$, $\angle C=\angle E$. Find the degree measure of $\angle C$.
+
+### Solution to Problem 3
+
+Since $AB\parallel CD$, the alternate interior angles cut by line $AE$ are equal, so $\angle COE=\angle A=45^\circ$.
+
+In $\triangle COE$, by **Theorem 13.3.1 (Triangle Interior Angle Sum Theorem)** and $\angle C=\angle E$,
+
+$$
+2\angle C+45^\circ=180^\circ.
+$$
+
+Solving gives $\angle C=67.5^\circ$. $\blacksquare$
+
+## Problem 4
+
+(Exercise 13.3, Comprehensive Application, Problem 7) As shown, point $B$ is in the direction $45^\circ$ west of south from point $A$, point $C$ is in the direction $15^\circ$ east of south from point $A$, and point $C$ is in the direction $80^\circ$ east of north from point $B$. Find the degree measure of $\angle ACB$.
+
+### Solution to Problem 4
+
+At point $A$, taking the due-south direction as the reference, $B$ is $45^\circ$ to its west and $C$ is $15^\circ$ to its east, so
+
+$$
+\angle BAC=45^\circ+15^\circ=60^\circ.
+$$
+
+The due-north/south lines through points $A$ and $B$ are parallel; by equal alternate interior angles, viewing $A$ from $B$ is $45^\circ$ east of north. Also $C$ is $80^\circ$ east of north from $B$, so
+
+$$
+\angle ABC=80^\circ-45^\circ=35^\circ.
+$$
+
+By **Theorem 13.3.1 (Triangle Interior Angle Sum Theorem)**,
+
+$$
+\angle ACB=180^\circ-\angle BAC-\angle ABC=180^\circ-60^\circ-35^\circ=85^\circ.
+$$
+
+$\blacksquare$
+
+## Problem 5
+
+(Exercise 13.3, Comprehensive Application, Problem 8) As shown, in $\triangle ABC$, $D$ is a point on side $AB$, $E$ is a point on side $AC$, $BE$ and $CD$ intersect at point $F$, $\angle A=62^\circ$, $\angle ACD=35^\circ$, $\angle ABE=20^\circ$. Find the degree measures of $\angle BDC$ and $\angle BFD$.
+
+### Solution to Problem 5
+
+By **Corollary 13.3.1 (Relationship Between an Exterior Angle and the Non-adjacent Interior Angles)**, $\angle BDC$ is the exterior angle of $\triangle ADC$ at point $D$, so
+
+$$
+\angle BDC=\angle A+\angle ACD=62^\circ+35^\circ=97^\circ.
+$$
+
+In $\triangle BDF$, $\angle BDF=\angle BDC=97^\circ$, $\angle DBF=\angle ABE=20^\circ$. By **Theorem 13.3.1 (Triangle Interior Angle Sum Theorem)**,
+
+$$
+\angle BFD=180^\circ-\angle BDF-\angle DBF=180^\circ-97^\circ-20^\circ=63^\circ.
+$$
+
+$\blacksquare$
+
+## Problem 6
+
+(Exercise 13.3, Comprehensive Application, Problem 9) As shown, in $\triangle ABC$, $\angle A=100^\circ$, $\angle 1=\angle 2$, $\angle 3=\angle 4$. Find the value of $x$.
+
+### Solution to Problem 6
+
+By **Theorem 13.3.1 (Triangle Interior Angle Sum Theorem)**,
+
+$$
+\angle B+\angle C=180^\circ-\angle A=80^\circ.
+$$
+
+From $\angle 1=\angle 2$, we get $\angle B=2\angle 2$; from $\angle 3=\angle 4$, we get $\angle C=2\angle 4$. Hence
+
+$$
+2\angle 2+2\angle 4=80^\circ,\quad \angle 2+\angle 4=40^\circ.
+$$
+
+In the triangle containing $x$,
+
+$$
+x=180^\circ-\left(\angle 2+\angle 4\right)=180^\circ-40^\circ=140^\circ.
+$$
+
+$\blacksquare$
+
+## Problem 7
+
+(Exercise 13.3, Extension and Exploration, Problem 10) As shown, $AB\parallel CD$, $\angle BAE=\angle DCE=45^\circ$. Fill in the blanks.
+
+### Solution to Problem 7
+
+Since $AB\parallel CD$, the sum of the same-side interior angles cut by lines $AE$ and $CE$ is $180^\circ$, so
+
+$$
+\angle 1+45^\circ+\angle 2+45^\circ=180^\circ.
+$$
+
+Thus
+
+$$
+\angle 1+\angle 2=180^\circ-90^\circ=90^\circ.
+$$
+
+In $\triangle AEC$, by **Theorem 13.3.1 (Triangle Interior Angle Sum Theorem)**, $\angle E=180^\circ-\left(\angle 1+\angle 2\right)=90^\circ$.
+
+Hence fill in successively $180^\circ$, $90^\circ$, $90^\circ$. $\blacksquare$
+
+## Problem 8
+
+(Exercise 13.3, Extension and Exploration, Problem 11) As shown, $CE$ is the bisector of the exterior angle $\angle ACD$ of $\triangle ABC$, and $CE$ meets the extension of $BA$ at point $E$. Prove that $\angle BAC=\angle B+2\angle E$.
+
+### Solution to Problem 8
+
+By **Corollary 13.3.1 (Relationship Between an Exterior Angle and the Non-adjacent Interior Angles)**, $\angle BAC$ is the exterior angle of $\triangle ACE$ at point $A$, so
 
 $$
 \angle BAC=\angle ACE+\angle E.
@@ -100,7 +312,7 @@ Among them, those that determine that $\triangle ABC$ is a right triangle are $\
 
 ### Solution to Review Problem 1
 
-Judge each by Triangle Interior Angle Sum Theorem and The Acute Angles of a Right Triangle Are Complementary.
+Judge each by **Theorem 13.3.1 (Triangle Interior Angle Sum Theorem)** and The Acute Angles of a Right Triangle Are Complementary.
 
 Condition (1): two angles being acute does not determine whether the third is a right angle; cannot determine.
 
@@ -118,13 +330,13 @@ Hence those that can determine are (2)(3)(4). $\blacksquare$
 
 ### Solution to Review Problem 2
 
-By Altitude, when taking $BD$ as the base the altitude is $AE$. By the triangle area formula,
+By **Definition 13.2.3 (Altitude)**, when taking $BD$ as the base the altitude is $AE$. By the triangle area formula,
 
 $$
 S_{\triangle ABD}=\frac{1}{2}\cdot BD\cdot AE=\frac{1}{2}\times BD\times2=1.5.
 $$
 
-Solving gives $BD=1.5$. By Median, $D$ is the midpoint of $BC$, so $BC=2BD=3$, $DC=BD=1.5$. $\blacksquare$
+Solving gives $BD=1.5$. By **Definition 13.2.1 (Median)**, $D$ is the midpoint of $BC$, so $BC=2BD=3$, $DC=BD=1.5$. $\blacksquare$
 
 ## Review Problem 3
 
@@ -160,7 +372,7 @@ The figure shows three diagrams arranged from left to right: in figure (1), a ri
 
 ### Solution to Review Problem 4
 
-By Triangle Interior Angle Sum Theorem and Relationship Between an Exterior Angle and the Non-adjacent Interior Angles.
+By **Theorem 13.3.1 (Triangle Interior Angle Sum Theorem)** and **Corollary 13.3.1 (Relationship Between an Exterior Angle and the Non-adjacent Interior Angles)**.
 
 Figure (1): one acute angle of the right triangle is $50^\circ$, so $x=90^\circ-50^\circ=40^\circ$.
 
@@ -180,7 +392,7 @@ solving gives $x=60$. $\blacksquare$
 
 ### Solution to Review Problem 5
 
-By Triangle Interior Angle Sum Theorem, in $\triangle ABC$, $\angle A+\angle B+\angle 1=180^\circ$. Also $\angle A=\angle 1-10^\circ$, $\angle B=42^\circ$; substituting:
+By **Theorem 13.3.1 (Triangle Interior Angle Sum Theorem)**, in $\triangle ABC$, $\angle A+\angle B+\angle 1=180^\circ$. Also $\angle A=\angle 1-10^\circ$, $\angle B=42^\circ$; substituting:
 
 $$
 \left(\angle 1-10^\circ\right)+42^\circ+\angle 1=180^\circ,
@@ -196,7 +408,7 @@ Thus $\angle A=\angle ACD=64^\circ$; these two angles are the alternate interior
 
 ### Solution to Review Problem 6
 
-By Triangle Interior Angle Sum Theorem,
+By **Theorem 13.3.1 (Triangle Interior Angle Sum Theorem)**,
 
 $$
 \angle A+2\angle A+2\angle A=180^\circ,
@@ -204,7 +416,7 @@ $$
 
 solving gives $\angle A=36^\circ$, so $\angle C=72^\circ$.
 
-By Altitude, $BD\perp AC$; in $\text{Rt}\triangle BDC$, by The Acute Angles of a Right Triangle Are Complementary,
+By **Definition 13.2.3 (Altitude)**, $BD\perp AC$; in $\text{Rt}\triangle BDC$, by The Acute Angles of a Right Triangle Are Complementary,
 
 $$
 \angle DBC=90^\circ-\angle C=90^\circ-72^\circ=18^\circ.
@@ -218,15 +430,15 @@ $\blacksquare$
 
 ### Solution to Review Problem 7
 
-By Triangle Interior Angle Sum Theorem,
+By **Theorem 13.3.1 (Triangle Interior Angle Sum Theorem)**,
 
 $$
 \angle ABC=180^\circ-50^\circ-70^\circ=60^\circ.
 $$
 
-By Altitude, $AD\perp BC$; in $\text{Rt}\triangle ADC$, $\angle DAC=90^\circ-\angle C=90^\circ-70^\circ=20^\circ$.
+By **Definition 13.2.3 (Altitude)**, $AD\perp BC$; in $\text{Rt}\triangle ADC$, $\angle DAC=90^\circ-\angle C=90^\circ-70^\circ=20^\circ$.
 
-By Angle Bisector, $AE$ bisects $\angle BAC$, so $\angle BAO=25^\circ$; $BF$ bisects $\angle ABC$, so $\angle ABO=30^\circ$. In $\triangle ABO$,
+By **Definition 13.2.2 (Angle Bisector)**, $AE$ bisects $\angle BAC$, so $\angle BAO=25^\circ$; $BF$ bisects $\angle ABC$, so $\angle ABO=30^\circ$. In $\triangle ABO$,
 
 $$
 \angle BOA=180^\circ-\angle BAO-\angle ABO=180^\circ-25^\circ-30^\circ=125^\circ.
@@ -244,13 +456,13 @@ $\blacksquare$
 
 ### Solution to Review Problem 8
 
-By Angle Bisector, $BE$ bisects $\angle ABC$ and $CF$ bisects $\angle ACB$, so
+By **Definition 13.2.2 (Angle Bisector)**, $BE$ bisects $\angle ABC$ and $CF$ bisects $\angle ACB$, so
 
 $$
 \angle GBC=\frac{1}{2}\angle ABC,\quad \angle GCB=\frac{1}{2}\angle ACB.
 $$
 
-(1) In $\triangle BGC$, by Triangle Interior Angle Sum Theorem,
+(1) In $\triangle BGC$, by **Theorem 13.3.1 (Triangle Interior Angle Sum Theorem)**,
 
 $$
 \angle BGC=180^\circ-\angle GBC-\angle GCB=180^\circ-\frac{1}{2}\left(\angle ABC+\angle ACB\right).
@@ -272,7 +484,7 @@ The figure shows a five-pointed star, with the five pointed tips labeled $A$, $B
 
 ### Solution to Review Problem 9
 
-Suppose segment $BE$ intersects $CD$ and $AD$. By Relationship Between an Exterior Angle and the Non-adjacent Interior Angles, in the triangle formed in the middle of the five-pointed star, the sum of the two non-adjacent interior angles equals the corresponding exterior angle, and these exterior angles can in turn be converted into the sum of two interior angles of the central triangle.
+Suppose segment $BE$ intersects $CD$ and $AD$. By **Corollary 13.3.1 (Relationship Between an Exterior Angle and the Non-adjacent Interior Angles)**, in the triangle formed in the middle of the five-pointed star, the sum of the two non-adjacent interior angles equals the corresponding exterior angle, and these exterior angles can in turn be converted into the sum of two interior angles of the central triangle.
 
 The sum of the three interior angles of the central triangle is $180^\circ$, and the five pointed angles $\angle A$, $\angle B$, $\angle C$, $\angle D$, $\angle E$ respectively equal, through the exterior-angle relation, the sums of the corresponding non-adjacent interior angles. Hence
 
@@ -361,115 +573,3 @@ $$
 $$
 
 Hence $\angle CBD=39^\circ$, $\angle E=50^\circ$. $\blacksquare$
-
-## Exercise 1
-
-(Exercise 14.1, Problem 1) As shown, $\triangle ABC\cong\triangle BDE$, where $\angle A$ and $\angle EBD$, and $\angle C$ and $\angle E$, are corresponding angles. State the corresponding sides and the other pair of corresponding angles of the two triangles.
-
-### Solution to Exercise 1
-
-From the corresponding-angle relation, $A$ corresponds to $B$, $C$ corresponds to $E$, and the remaining $B$ corresponds to $D$.
-
-Hence the corresponding sides are $AB$ and $BD$, $BC$ and $DE$, $AC$ and $BE$; the other pair of corresponding angles are $\angle ABC$ and $\angle BDE$. $\blacksquare$
-
-## Exercise 2
-
-(Exercise 14.1, Problem 2) As shown, $\triangle OCA\cong\triangle OBD$, where points $C$ and $B$, and points $A$ and $D$, are corresponding vertices. State the equal sides and angles in the two triangles.
-
-### Solution to Exercise 2
-
-From the corresponding vertices $O\leftrightarrow O$, $C\leftrightarrow B$, $A\leftrightarrow D$, and Properties of Congruent Triangles, the equal sides are
-
-$$
-OC=OB,\quad CA=BD,\quad OA=OD.
-$$
-
-The equal angles are
-
-$$
-\angle O=\angle O,\quad \angle C=\angle B,\quad \angle A=\angle D.
-$$
-
-$\blacksquare$
-
-## Problem 2
-
-(Exercise 14.1, Review and Consolidation, Problem 1) As shown, $\triangle ABC\cong\triangle CDA$, where $AB$ and $CD$, and $BC$ and $DA$, are corresponding sides. Write out the other corresponding sides and corresponding angles.
-
-### Solution to Problem 2
-
-From the corresponding sides $AB\leftrightarrow CD$, $BC\leftrightarrow DA$, the vertex correspondence is $A\leftrightarrow C$, $B\leftrightarrow D$, $C\leftrightarrow A$.
-
-The other corresponding side is $AC$ and $CA$. The corresponding angles are $\angle BAC$ and $\angle DCA$, $\angle B$ and $\angle D$, $\angle BCA$ and $\angle DAC$. $\blacksquare$
-
-## Problem 3
-
-(Exercise 14.1, Review and Consolidation, Problem 2) As shown, $\triangle ABN\cong\triangle ACM$, where $AB$ and $AC$ are corresponding sides, and $\angle B$ and $\angle C$ are corresponding angles. Write out the other corresponding sides and corresponding angles.
-
-### Solution to Problem 3
-
-From $AB\leftrightarrow AC$, $\angle B\leftrightarrow\angle C$, the vertex correspondence is $A\leftrightarrow A$, $B\leftrightarrow C$, $N\leftrightarrow M$.
-
-The other corresponding sides are $BN$ and $CM$, $AN$ and $AM$. The corresponding angles are $\angle ANB$ and $\angle AMC$, $\angle BAN$ and $\angle CAM$. $\blacksquare$
-
-## Problem 4
-
-(Exercise 14.1, Comprehensive Application, Problem 3) There are two congruent triangles in the figure, where the letters denote the side lengths of the triangles; then what is the degree measure of $\angle 1$?
-
-### Solution to Problem 4
-
-The two triangles are congruent, and their interior angles correspond to equal values. Given that two interior angles are $60^\circ$ and $54^\circ$, by the triangle interior angle sum theorem the third interior angle is
-
-$$
-180^\circ-60^\circ-54^\circ=66^\circ.
-$$
-
-Hence $\angle 1=66^\circ$. $\blacksquare$
-
-## Problem 5
-
-(Exercise 14.1, Comprehensive Application, Problem 4) As shown, $\triangle EFG\cong\triangle NMH$, and $\angle F$ and $\angle M$ are corresponding angles. In $\triangle EFG$, $FG$ is the longest side; in $\triangle NMH$, $MH$ is the longest side, and $EF=2.1$, $EH=1.1$, $NH=3.3$.
-
-(1) Write out the other corresponding sides and corresponding angles;
-
-(2) Find the lengths of segment $NM$ and segment $HG$.
-
-### Solution to Problem 5
-
-From $\angle F\leftrightarrow\angle M$ and the longest sides $FG\leftrightarrow MH$, the vertex correspondence is $E\leftrightarrow N$, $F\leftrightarrow M$, $G\leftrightarrow H$.
-
-(1) The other corresponding sides are $EF$ and $NM$, $EG$ and $NH$; the other corresponding angles are $\angle E$ and $\angle N$, $\angle G$ and $\angle H$.
-
-(2) By Properties of Congruent Triangles, $NM=EF=2.1$, $EG=NH=3.3$. Also point $H$ lies on segment $EG$, so
-
-$$
-HG=EG-EH=3.3-1.1=2.2.
-$$
-
-Hence $NM=2.1$, $HG=2.2$. $\blacksquare$
-
-## Problem 6
-
-(Exercise 14.1, Extension and Exploration, Problem 5) As shown, $\triangle ABC\cong\triangle DEC$, where $CA$ and $CD$, and $CB$ and $CE$, are corresponding sides. Are $\angle ACD$ and $\angle BCE$ equal? Why?
-
-### Solution to Problem 6
-
-They are equal. By Properties of Congruent Triangles, the corresponding angles satisfy $\angle ACB=\angle DCE$.
-
-Subtracting the common part $\angle DCB$ from both sides gives
-
-$$
-\angle ACD=\angle ACB-\angle DCB=\angle DCE-\angle DCB=\angle BCE.
-$$
-
-Hence $\angle ACD=\angle BCE$. $\blacksquare$
-
-## Exercise 3
-
-(Exercise 14.2, Problem 1) As shown, there is a pond; to measure the distance between its two ends $A$ and $B$, first take a point $C$ on the flat ground, join $AC$ and extend it to point $D$ so that $CD=CA$, join $BC$ and extend it to point $E$ so that $CE=CB$, and join $DE$. The measured length of $DE$ is the distance between $A$ and $B$. Why?
-
-### Solution to Exercise 3
-
-In $\triangle ABC$ and $\triangle DEC$, $CA=CD$, $CB=CE$, and $\angle ACB$ and $\angle DCE$ are vertical angles and equal. By SAS, $\triangle ABC\cong\triangle DEC$.
-
-By Properties of Congruent Triangles, the corresponding sides satisfy $AB=DE$, so the measured length of $DE$ is the distance between $A$ and $B$. $\blacksquare$
