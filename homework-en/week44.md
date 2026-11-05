@@ -2,27 +2,27 @@
 
 > **Definition 19.1.1 (Quadratic Radical)**
 > 
-> An expression of the form \(\sqrt{a}\) (\(a\ge 0\)) is called a quadratic radical.
+> An expression of the form \(\sqrt{a}\) (\(a\ge0\)) is called a quadratic radical.
 
 > **Property 19.1.1 (Nonnegativity of Quadratic Radicals)**
 > 
-> When \(a\ge 0\), \(\sqrt{a}\ge 0\).
+> When \(a\ge0\), \(\sqrt{a}\ge0\).
 
 > **Rule 19.2.1 (Multiplication)**
 > 
-> \(\sqrt{a}\cdot\sqrt{b}=\sqrt{ab}\) (\(a\ge 0,\ b\ge 0\)).
+> \(\sqrt{a}\cdot\sqrt{b}=\sqrt{ab}\) (\(a\ge0,\,b\ge0\)).
 
 > **Rule 19.2.2 (Multiplication in Reverse)**
 > 
-> \(\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}\) (\(a\ge 0,\ b\ge 0\)).
+> \(\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}\) (\(a\ge0,\,b\ge0\)).
 
 > **Rule 19.2.3 (Division)**
 > 
-> \(\frac{\sqrt{a}}{\sqrt{b}}=\sqrt{\frac{a}{b}}\) (\(a\ge 0,\ b> 0\)).
+> \(\frac{\sqrt{a}}{\sqrt{b}}=\sqrt{\frac{a}{b}}\) (\(a\ge0,\,b>0\)).
 
 > **Rule 19.2.4 (Division in Reverse)**
 > 
-> \(\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}\) (\(a\ge 0,\ b> 0\)).
+> \(\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}\) (\(a\ge0,\,b>0\)).
 
 > **Rule 19.3.1 (Addition and Subtraction)**
 > 
@@ -46,7 +46,7 @@ Are the following calculations correct? Why?
 
 By Basic Knowledge, quadratic radicals must first be simplified before combining those with the same radicand; one cannot directly add or subtract the radicands.
 
-(1) Incorrect. The left side \(=2+3=5\), while the right side \(=\sqrt{13}\ne 5\).
+(1) Incorrect. The left side \(=2+3=5\), while the right side \(=\sqrt{13}\ne5\).
 
 (2) Incorrect. \(\sqrt{8}\) and \(\sqrt{3}\) have different radicands and cannot be combined; the left side cannot be further simplified to \(\sqrt{5}\).
 
@@ -78,12 +78,12 @@ As shown in the figure, two circles have the same center, and their areas are \(
 
 Let the radius of the large circle be \(R\) and the radius of the small circle be \(r\); then \(d=R-r\).
 
-By the circle area formula, \(\pi R^{2}=141.3\), \(\pi r^{2}=62.8\).
+By the circle area formula, \(\pi{R}^{2}=141.3\), \(\pi{r}^{2}=62.8\).
 
 Hence
 
 $$
-R=\sqrt{\frac{141.3}{3.14}}=\sqrt{45}=3\sqrt{5},\quad r=\sqrt{\frac{62.8}{3.14}}=\sqrt{20}=2\sqrt{5}.
+R=\sqrt{\frac{141.3}{3.14}}=\sqrt{45}=3\sqrt{5},\quad{r}=\sqrt{\frac{62.8}{3.14}}=\sqrt{20}=2\sqrt{5}.
 $$
 
 Therefore \(d=R-r=3\sqrt{5}-2\sqrt{5}=\sqrt{5}\).
@@ -180,7 +180,7 @@ By Basic Knowledge.
 
 (3) \((5\sqrt{3}+2\sqrt{5})^{2}=75+20\sqrt{15}+20=95+20\sqrt{15}\).
 
-(4) \(\left(\sqrt{48}+\frac{1}{4}\sqrt{6}\right)\div\sqrt{27}=\frac{4\sqrt{3}}{3\sqrt{3}}+\frac{\sqrt{6}}{4\cdot 3\sqrt{3}}=\frac{4}{3}+\frac{\sqrt{2}}{12}\).
+(4) \(\left(\sqrt{48}+\frac{1}{4}\sqrt{6}\right)\div\sqrt{27}=\frac{4\sqrt{3}}{3\sqrt{3}}+\frac{\sqrt{6}}{4\cdot3\sqrt{3}}=\frac{4}{3}+\frac{\sqrt{2}}{12}\).
 
 \(\blacksquare\)
 
@@ -188,7 +188,7 @@ By Basic Knowledge.
 
 (Exercise 19.3, Comprehensive Application, Problem 4)
 
-Given \(\sqrt{5}\approx 2.236\), find the approximate value of \(\frac{1}{5}\sqrt{5}-\frac{5}{4}\sqrt{\frac{4}{5}}+\sqrt{45}\) (keep two decimal places).
+Given \(\sqrt{5}\approx2.236\), find the approximate value of \(\frac{1}{5}\sqrt{5}-\frac{5}{4}\sqrt{\frac{4}{5}}+\sqrt{45}\) (keep two decimal places).
 
 First simplify:
 
@@ -202,13 +202,13 @@ $$
 \text{原式}=\frac{\sqrt{5}}{5}-\frac{\sqrt{5}}{2}+3\sqrt{5}=\sqrt{5}\left(\frac{1}{5}-\frac{1}{2}+3\right)=\frac{27}{10}\sqrt{5}.
 $$
 
-Substituting \(\sqrt{5}\approx 2.236\), the original expression \(\approx 2.7\times 2.236\approx 6.04\).
+Substituting \(\sqrt{5}\approx2.236\), the original expression \(\approx2.7\times2.236\approx6.04\).
 
 \(\blacksquare\)
 
 (Exercise 19.3, Comprehensive Application, Problem 5)
 
-Given \(x=\sqrt{3}+1,\ y=\sqrt{3}-1\), find the values of the following expressions:
+Given \(x=\sqrt{3}+1,\,y=\sqrt{3}-1\), find the values of the following expressions:
 
 (1) \(x^{2}+2xy+y^{2}\); (2) \(x^{2}-y^{2}\).
 
@@ -218,31 +218,31 @@ Since \(x+y=2\sqrt{3}\), the original expression \(=(2\sqrt{3})^{2}=12\).
 
 (2) By the difference-of-squares formula, \(x^{2}-y^{2}=(x+y)(x-y)\).
 
-Since \(x+y=2\sqrt{3}\) and \(x-y=2\), the original expression \(=2\sqrt{3}\times 2=4\sqrt{3}\).
+Since \(x+y=2\sqrt{3}\) and \(x-y=2\), the original expression \(=2\sqrt{3}\times2=4\sqrt{3}\).
 
 \(\blacksquare\)
 
 (Exercise 19.3, Comprehensive Application, Problem 6)
 
-Given two squares with side lengths \((\sqrt{5}+\sqrt{2})\ \text{m}\) and \((\sqrt{5}-\sqrt{2})\ \text{m}\), their areas are \(S_{1},S_{2}\), respectively.
+Given two squares with side lengths \((\sqrt{5}+\sqrt{2})\,\text{m}\) and \((\sqrt{5}-\sqrt{2})\,\text{m}\), their areas are \(S_{1},S_{2}\), respectively.
 
 (1) Find the value of \(S_{1}+S_{2}\);
 
-(2) Using a piece of wire of length \(20\ \text{m}\), can these two squares be enclosed?
+(2) Using a piece of wire of length \(20\,\text{m}\), can these two squares be enclosed?
 
 (1) By the square area formula,
 
 $$
-S_{1}=\left(\sqrt{5}+\sqrt{2}\right)^{2}=7+2\sqrt{10},\quad S_{2}=\left(\sqrt{5}-\sqrt{2}\right)^{2}=7-2\sqrt{10}.
+S_{1}=\left(\sqrt{5}+\sqrt{2}\right)^{2}=7+2\sqrt{10},\quad{S}_{2}=\left(\sqrt{5}-\sqrt{2}\right)^{2}=7-2\sqrt{10}.
 $$
 
-Therefore \(S_{1}+S_{2}=14\ \text{m}^{2}\).
+Therefore \(S_{1}+S_{2}=14\,\text{m}^{2}\).
 
 (2) The sum of the perimeters of the two squares is \(4(\sqrt{5}+\sqrt{2})+4(\sqrt{5}-\sqrt{2})=8\sqrt{5}\).
 
-Since \(\sqrt{5}\approx 2.236\), we get \(8\sqrt{5}\approx 17.89< 20\).
+Since \(\sqrt{5}\approx2.236\), we get \(8\sqrt{5}\approx17.89<20\).
 
-Therefore a \(20\ \text{m}\) piece of wire is sufficient to enclose these two squares.
+Therefore a \(20\,\text{m}\) piece of wire is sufficient to enclose these two squares.
 
 \(\blacksquare\)
 
@@ -272,15 +272,15 @@ Therefore \(a-\frac{1}{a}=\pm\sqrt{6}\).
 
 For each of the following equations, a set of numbers is given in the parentheses; find the solutions of the equation from them:
 
-(1) \(2x^{2}-6=0\), \((\sqrt{3},\ \sqrt{6},\ -\sqrt{3},\ -\sqrt{6})\);
+(1) \(2x^{2}-6=0\), \((\sqrt{3},\,\sqrt{6},\,-\sqrt{3},\,-\sqrt{6})\);
 
-(2) \(2(x+5)^{2}=24\), \((5+2\sqrt{3},\ 5-2\sqrt{3},\ -5+2\sqrt{3},\ -5-2\sqrt{3})\).
+(2) \(2(x+5)^{2}=24\), \((5+2\sqrt{3},\,5-2\sqrt{3},\,-5+2\sqrt{3},\,-5-2\sqrt{3})\).
 
 (1) From \(2x^{2}-6=0\), we get \(x^{2}=3\), hence \(x=\pm\sqrt{3}\).
 
 The solutions in the parentheses are \(\sqrt{3}\) and \(-\sqrt{3}\).
 
-(2) From \(2(x+5)^{2}=24\), we get \((x+5)^{2}=12\), hence \(x+5=\pm 2\sqrt{3}\), i.e. \(x=-5\pm 2\sqrt{3}\).
+(2) From \(2(x+5)^{2}=24\), we get \((x+5)^{2}=12\), hence \(x+5=\pm2\sqrt{3}\), i.e. \(x=-5\pm2\sqrt{3}\).
 
 The solutions in the parentheses are \(-5+2\sqrt{3}\) and \(-5-2\sqrt{3}\).
 
@@ -290,14 +290,14 @@ The solutions in the parentheses are \(-5+2\sqrt{3}\) and \(-5-2\sqrt{3}\).
 
 (Reading and Thinking, Heron–Qin Jiushao Formula)
 
-If the three side lengths of a triangle are \(a=7,\ b=8,\ c=9\), use Heron–Qin Jiushao Formula to find the area of this triangle.
+If the three side lengths of a triangle are \(a=7,\,b=8,\,c=9\), use Heron–Qin Jiushao Formula to find the area of this triangle.
 
 Write the semiperimeter \(p=\frac{a+b+c}{2}=\frac{7+8+9}{2}=12\).
 
 By Basic Knowledge,
 
 $$
-S=\sqrt{p\left(p-a\right)\left(p-b\right)\left(p-c\right)}=\sqrt{12\times 5\times 4\times 3}=\sqrt{720}=12\sqrt{5}.
+S=\sqrt{p\left(p-a\right)\left(p-b\right)\left(p-c\right)}=\sqrt{12\times5\times4\times3}=\sqrt{720}=12\sqrt{5}.
 $$
 
 \(\blacksquare\)
@@ -311,16 +311,16 @@ Books and paper have fixed standard lengths and widths. Use a calculator to find
 Calculate by dividing the length of each sheet by its width:
 
 $$
-\frac{210}{148}\approx 1.419,\quad \frac{297}{210}\approx 1.414,\quad \frac{420}{297}\approx 1.414,
+\frac{210}{148}\approx1.419,\quad\frac{297}{210}\approx1.414,\quad\frac{420}{297}\approx1.414,
 $$
 
 $$
-\frac{594}{420}\approx 1.414,\quad \frac{841}{594}\approx 1.416.
+\frac{594}{420}\approx1.414,\quad\frac{841}{594}\approx1.416.
 $$
 
-Similarly, for type B paper, \(\frac{257}{182}\approx 1.412\), \(\frac{364}{257}\approx 1.416\), and so on, are all approximately \(1.414\).
+Similarly, for type B paper, \(\frac{257}{182}\approx1.412\), \(\frac{364}{257}\approx1.416\), and so on, are all approximately \(1.414\).
 
-By Basic Knowledge, \(\sqrt{2}\approx 1.414\).
+By Basic Knowledge, \(\sqrt{2}\approx1.414\).
 
 It can be seen that the length-to-width ratio of each paper size is approximately \(\sqrt{2}\); that is, they are all rectangles of the same shape, merely scaled proportionally.
 
@@ -372,13 +372,13 @@ Under what conditions on \(x\) are the following expressions meaningful over the
 
 By **Definition 19.1.1 (Quadratic Radical)**, the radicand must be nonnegative, and the denominator must also be nonzero.
 
-(1) \(3+x\ge 0\), giving \(x\ge -3\).
+(1) \(3+x\ge0\), giving \(x\ge-3\).
 
-(2) \(2x-1> 0\), giving \(x> \frac{1}{2}\).
+(2) \(2x-1>0\), giving \(x>\frac{1}{2}\).
 
-(3) \(2-3x> 0\), giving \(x< \frac{2}{3}\).
+(3) \(2-3x>0\), giving \(x<\frac{2}{3}\).
 
-(4) \((x-1)^{2}\ge 0\) always holds; \(x\) may be any real number.
+(4) \((x-1)^{2}\ge0\) always holds; \(x\) may be any real number.
 
 \(\blacksquare\)
 
@@ -390,7 +390,7 @@ Simplify:
 
 Use Basic Knowledge and Basic Knowledge to reduce to simplest form.
 
-(1) \(\sqrt{500}=\sqrt{100\times 5}=10\sqrt{5}\).
+(1) \(\sqrt{500}=\sqrt{100\times5}=10\sqrt{5}\).
 
 (2) \(\sqrt{12x}=2\sqrt{3x}\).
 
@@ -408,11 +408,11 @@ Use Basic Knowledge and Basic Knowledge to reduce to simplest form.
 
 Calculate:
 
-(1) \(\left(\sqrt{24}-\sqrt{\frac{1}{2}}\right)-\left(\sqrt{54}+\sqrt{\frac{1}{8}}\right)\); (2) \(2\sqrt{12}\times\sqrt{\frac{3}{4}}\div 5\sqrt{2}\); (3) \((2\sqrt{3}+\sqrt{6})(2\sqrt{3}-\sqrt{6})\); (4) \((2\sqrt{48}-3\sqrt{27})\div\sqrt{6}\); (5) \((2\sqrt{2}+3\sqrt{3})^{2}\); (6) \(\left(\frac{3}{2}\sqrt{\frac{5}{3}}-\frac{\sqrt{5}}{4}\right)^{2}\).
+(1) \(\left(\sqrt{24}-\sqrt{\frac{1}{2}}\right)-\left(\sqrt{54}+\sqrt{\frac{1}{8}}\right)\); (2) \(2\sqrt{12}\times\sqrt{\frac{3}{4}}\div5\sqrt{2}\); (3) \((2\sqrt{3}+\sqrt{6})(2\sqrt{3}-\sqrt{6})\); (4) \((2\sqrt{48}-3\sqrt{27})\div\sqrt{6}\); (5) \((2\sqrt{2}+3\sqrt{3})^{2}\); (6) \(\left(\frac{3}{2}\sqrt{\frac{5}{3}}-\frac{\sqrt{5}}{4}\right)^{2}\).
 
 (1) \(\left(\sqrt{24}-\sqrt{\frac{1}{2}}\right)-\left(\sqrt{54}+\sqrt{\frac{1}{8}}\right)=2\sqrt{6}-\frac{\sqrt{2}}{2}-3\sqrt{6}-\frac{\sqrt{2}}{4}=-\sqrt{6}-\frac{3\sqrt{2}}{4}\).
 
-(2) \(2\sqrt{12}\times\sqrt{\frac{3}{4}}\div 5\sqrt{2}=2\cdot\frac{\sqrt{9}}{5\sqrt{2}}=\frac{6}{5\sqrt{2}}=\frac{3\sqrt{2}}{5}\).
+(2) \(2\sqrt{12}\times\sqrt{\frac{3}{4}}\div5\sqrt{2}=2\cdot\frac{\sqrt{9}}{5\sqrt{2}}=\frac{6}{5\sqrt{2}}=\frac{3\sqrt{2}}{5}\).
 
 (3) \((2\sqrt{3}+\sqrt{6})(2\sqrt{3}-\sqrt{6})=12-6=6\).
 
@@ -428,7 +428,7 @@ Calculate:
 
 A square has side length \(a\). Its area equals the area of a rectangle of length \(96\) and width \(12\). Find \(a\).
 
-By the problem, \(a^{2}=96\times 12=1152\).
+By the problem, \(a^{2}=96\times12=1152\).
 
 Therefore \(a=\sqrt{1152}=24\sqrt{2}\).
 
@@ -491,7 +491,7 @@ $$
 When \(n=2\),
 
 $$
-\left(\frac{1+\sqrt{5}}{2}\right)^{2}=\frac{3+\sqrt{5}}{2},\quad \left(\frac{1-\sqrt{5}}{2}\right)^{2}=\frac{3-\sqrt{5}}{2}.
+\left(\frac{1+\sqrt{5}}{2}\right)^{2}=\frac{3+\sqrt{5}}{2},\quad\left(\frac{1-\sqrt{5}}{2}\right)^{2}=\frac{3-\sqrt{5}}{2}.
 $$
 
 Subtracting gives \(\sqrt{5}\), and multiplying by \(\frac{1}{\sqrt{5}}\) gives \(1\).
@@ -502,14 +502,14 @@ Therefore the \(1\)-st and \(2\)-nd numbers are both \(1\).
 
 (Review Problem, Comprehensive Application, Problem 8)
 
-The current \(I\), the wire resistance \(R\), the energized time \(t\) and the heat \(Q\) produced satisfy \(Q=I^{2}Rt\). Given that the wire resistance is \(5\ \Omega\) and the wire produces \(30\ \text{J}\) of heat in \(1\ \text{s}\), find the value of the current \(I\) (keep two decimal places).
+The current \(I\), the wire resistance \(R\), the energized time \(t\) and the heat \(Q\) produced satisfy \(Q=I^{2}Rt\). Given that the wire resistance is \(5\,\Omega\) and the wire produces \(30\,\text{J}\) of heat in \(1\,\text{s}\), find the value of the current \(I\) (keep two decimal places).
 
-Substituting \(Q=30,\ R=5,\ t=1\) into \(Q=I^{2}Rt\) gives
+Substituting \(Q=30,\,R=5,\,t=1\) into \(Q=I^{2}Rt\) gives
 
 $$
-30=I^{2}\times 5\times 1,\quad I^{2}=6.
+30=I^{2}\times5\times1,\quad{I}^{2}=6.
 $$
 
-Since the current is nonnegative, \(I=\sqrt{6}\approx 2.45\ \text{A}\).
+Since the current is nonnegative, \(I=\sqrt{6}\approx2.45\,\text{A}\).
 
 \(\blacksquare\)

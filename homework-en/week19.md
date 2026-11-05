@@ -10,7 +10,7 @@
 
 > **Definition 8.1.2 (Arithmetic Square Root)**
 > 
-> The positive square root $\sqrt a$ of a positive number $a$ is called the arithmetic square root of $a$, and $a$ is called the radicand. It is stipulated that the arithmetic square root of $0$ is $0$, i.e. $\sqrt 0=0$. The square roots of a positive number $a$ are denoted by $\pm\sqrt a$.
+> The positive square root $\sqrt{a}$ of a positive number $a$ is called the arithmetic square root of $a$, and $a$ is called the radicand. It is stipulated that the arithmetic square root of $0$ is $0$, i.e. $\sqrt0=0$. The square roots of a positive number $a$ are denoted by $\pm\sqrt{a}$.
 
 > **Property 8.1.2 (Size of the Arithmetic Square Root)**
 > 
@@ -18,7 +18,7 @@
 
 > **Property 8.1.3 (Relationship Between Squaring and Extracting Roots)**
 > 
-> For any nonnegative number $a$, $\left(\sqrt a\right)^2=a$; for any number $a$, $\sqrt{a^2}=\left|a\right|$.
+> For any nonnegative number $a$, $\left(\sqrt{a}\right)^2=a$; for any number $a$, $\sqrt{a^2}=\left|a\right|$.
 
 > **Definition 8.2.1 (Cube Root)**
 > 
@@ -62,11 +62,11 @@
 
 By **Definition 8.1.2 (Arithmetic Square Root)**, use a calculator to find the positive square root and round.
 
-(1) $\sqrt{408}\approx 20.20$.
+(1) $\sqrt{408}\approx20.20$.
 
-(2) $\sqrt{51.42534}\approx 7.17$.
+(2) $\sqrt{51.42534}\approx7.17$.
 
-(3) $\sqrt{\frac{111}{14}}=\sqrt{7.928\cdots}\approx 2.82$. $\blacksquare$
+(3) $\sqrt{\frac{111}{14}}=\sqrt{7.928\cdots}\approx2.82$. $\blacksquare$
 
 ## Problem 2
 
@@ -78,11 +78,11 @@ By **Definition 8.1.2 (Arithmetic Square Root)**, use a calculator to find the p
 
 By Size of the Arithmetic Square Root, the larger the radicand, the larger the arithmetic square root.
 
-(1) $\because 8^2=64< 65$, $\therefore\sqrt{65}> \sqrt{64}=8$, i.e. $\sqrt{65}> 8$.
+(1) $\because8^2=64<65$, $\therefore\sqrt{65}>\sqrt{64}=8$, i.e. $\sqrt{65}>8$.
 
-(2) $\because 33> 22$, $\therefore\sqrt{33}> \sqrt{22}$.
+(2) $\because33>22$, $\therefore\sqrt{33}>\sqrt{22}$.
 
-(3) $\because 10> 9$, $\therefore\sqrt{10}> \sqrt 9=3$, so $\sqrt{10}-1> 2$, and hence $\frac{\sqrt{10}-1}{2}> 1$. $\blacksquare$
+(3) $\because10>9$, $\therefore\sqrt{10}>\sqrt9=3$, so $\sqrt{10}-1>2$, and hence $\frac{\sqrt{10}-1}{2}>1$. $\blacksquare$
 
 ## Problem 3
 
@@ -94,11 +94,11 @@ By Size of the Arithmetic Square Root, the larger the radicand, the larger the a
 
 By **Definition 8.1.1 (Square Root)**.
 
-(1) $x^2=100$, so $x=\pm\sqrt{100}=\pm 10$.
+(1) $x^2=100$, so $x=\pm\sqrt{100}=\pm10$.
 
 (2) $x^2=\frac{36}{25}$, so $x=\pm\sqrt{\frac{36}{25}}=\pm\frac{6}{5}$.
 
-(3) $x+2=\pm\sqrt{0.49}=\pm 0.7$. When $x+2=0.7$, $x=-1.3$; when $x+2=-0.7$, $x=-2.7$. Thus $x=-1.3$ or $x=-2.7$. $\blacksquare$
+(3) $x+2=\pm\sqrt{0.49}=\pm0.7$. When $x+2=0.7$, $x=-1.3$; when $x+2=-0.7$, $x=-2.7$. Thus $x=-1.3$ or $x=-2.7$. $\blacksquare$
 
 ## Problem 4
 
@@ -106,9 +106,9 @@ By **Definition 8.1.1 (Square Root)**.
 
 ### Solution to Problem 4
 
-Let the side length be $x\,\text{dm}$; then $x^2=3$, and by **Definition 8.1.1 (Square Root)**, $x=\sqrt 3$.
+Let the side length be $x\,\text{dm}$; then $x^2=3$, and by **Definition 8.1.1 (Square Root)**, $x=\sqrt3$.
 
-$\because 1.7^2=2.89< 3< 3.24=1.8^2$, continue to refine: $1.73^2=2.9929< 3< 3.0276=1.74^2$, and further $1.732^2\approx 2.999< 3$. Thus $\sqrt 3\approx 1.73$.
+$\because1.7^2=2.89<3<3.24=1.8^2$, continue to refine: $1.73^2=2.9929<3<3.0276=1.74^2$, and further $1.732^2\approx2.999<3$. Thus $\sqrt3\approx1.73$.
 
 That is, the side length of the square is about $1.73\,\text{dm}$. $\blacksquare$
 
@@ -121,10 +121,10 @@ That is, the side length of the square is about $1.73\,\text{dm}$. $\blacksquare
 Substitute $l=0.25$, $g=9.8$, $\pi=3.14$ into $t=2\pi\sqrt{\frac{l}{g}}$.
 
 $$
-t=2\times 3.14\times\sqrt{\frac{0.25}{9.8}}=6.28\times\sqrt{0.02551\cdots}.
+t=2\times3.14\times\sqrt{\frac{0.25}{9.8}}=6.28\times\sqrt{0.02551\cdots}.
 $$
 
-$\sqrt{0.02551\cdots}\approx 0.1597$, so $t\approx 6.28\times 0.1597\approx 1.00$.
+$\sqrt{0.02551\cdots}\approx0.1597$, so $t\approx6.28\times0.1597\approx1.00$.
 
 That is, one complete swing takes about $1.00\,s$. $\blacksquare$
 
@@ -140,25 +140,25 @@ When the area is enlarged to $4$ times the original, the new area is $4a^2$ and 
 
 When the area is enlarged to $9$ times the original, the new side length is $\sqrt{9a^2}=3a$, i.e. the side length becomes $3$ times the original.
 
-When the area is enlarged to $n$ times the original, the new side length is $\sqrt{na^2}=a\sqrt n$, i.e. the side length becomes $\sqrt n$ times the original. $\blacksquare$
+When the area is enlarged to $n$ times the original, the new side length is $\sqrt{na^2}=a\sqrt{n}$, i.e. the side length becomes $\sqrt{n}$ times the original. $\blacksquare$
 
 ## Problem 7
 
 (Exercise 8.1, Extension and Exploration, Problem 10)
 
-(1) Find the values of $\left(\sqrt 0\right)^2$, $\left(\sqrt 4\right)^2$, $\left(\sqrt 9\right)^2$, $\left(\sqrt{25}\right)^2$, $\left(\sqrt{36}\right)^2$. For any nonnegative number $a$, what does $\left(\sqrt a\right)^2$ equal?
+(1) Find the values of $\left(\sqrt0\right)^2$, $\left(\sqrt4\right)^2$, $\left(\sqrt9\right)^2$, $\left(\sqrt{25}\right)^2$, $\left(\sqrt{36}\right)^2$. For any nonnegative number $a$, what does $\left(\sqrt{a}\right)^2$ equal?
 
 (2) Find the values of $\sqrt{0^2}$, $\sqrt{2^2}$, $\sqrt{\left(-3\right)^2}$, $\sqrt{5^2}$, $\sqrt{\left(-6\right)^2}$. For any number $a$, what does $\sqrt{a^2}$ equal?
 
 ### Solution to Problem 7
 
-(1) $\left(\sqrt 0\right)^2=0$, $\left(\sqrt 4\right)^2=4$, $\left(\sqrt 9\right)^2=9$, $\left(\sqrt{25}\right)^2=25$, $\left(\sqrt{36}\right)^2=36$. By Relationship Between Squaring and Extracting Roots, for any nonnegative number $a$,
+(1) $\left(\sqrt0\right)^2=0$, $\left(\sqrt4\right)^2=4$, $\left(\sqrt9\right)^2=9$, $\left(\sqrt{25}\right)^2=25$, $\left(\sqrt{36}\right)^2=36$. By Relationship Between Squaring and Extracting Roots, for any nonnegative number $a$,
 
 $$
-\left(\sqrt a\right)^2=a.
+\left(\sqrt{a}\right)^2=a.
 $$
 
-(2) $\sqrt{0^2}=0$, $\sqrt{2^2}=2$, $\sqrt{\left(-3\right)^2}=\sqrt 9=3$, $\sqrt{5^2}=5$, $\sqrt{\left(-6\right)^2}=\sqrt{36}=6$. It can be seen that when $a\ge 0$, $\sqrt{a^2}=a$, and when $a< 0$, $\sqrt{a^2}=-a$. By Properties of Arithmetic Square Roots, for any number $a$,
+(2) $\sqrt{0^2}=0$, $\sqrt{2^2}=2$, $\sqrt{\left(-3\right)^2}=\sqrt9=3$, $\sqrt{5^2}=5$, $\sqrt{\left(-6\right)^2}=\sqrt{36}=6$. It can be seen that when $a\ge0$, $\sqrt{a^2}=a$, and when $a<0$, $\sqrt{a^2}=-a$. By Properties of Arithmetic Square Roots, for any number $a$,
 
 $$
 \sqrt{a^2}=\left|a\right|.
@@ -174,7 +174,7 @@ $\blacksquare$
 
 By Size of the Arithmetic Square Root, repeatedly take square roots of the positive number.
 
-Repeatedly take square roots of $1234$: $\sqrt{1234}\approx 35.1$, then $\sqrt{35.1}\approx 5.92$, then $\approx 2.43$, then $\approx 1.56$, then $\approx 1.25$, … As the number of square-root extractions increases, the result gradually approaches $1$.
+Repeatedly take square roots of $1234$: $\sqrt{1234}\approx35.1$, then $\sqrt{35.1}\approx5.92$, then $\approx2.43$, then $\approx1.56$, then $\approx1.25$, … As the number of square-root extractions increases, the result gradually approaches $1$.
 
 In general, repeatedly taking square roots of a positive number greater than $1$ gradually decreases the result toward $1$. $\blacksquare$
 
@@ -184,7 +184,7 @@ In general, repeatedly taking square roots of a positive number greater than $1$
 
 (1) $-3$ is a cube root of $-27$;
 
-(2) $\pm 3$ are cube roots of $27$;
+(2) $\pm3$ are cube roots of $27$;
 
 (3) The cube root of $\left(-1\right)^3$ is $-1$;
 
@@ -194,7 +194,7 @@ In general, repeatedly taking square roots of a positive number greater than $1$
 
 By Properties of Cube Roots, every number has exactly one cube root.
 
-(1) $\because\left(-3\right)^3=-27$, $\therefore -3$ is a cube root of $-27$, correct.
+(1) $\because\left(-3\right)^3=-27$, $\therefore-3$ is a cube root of $-27$, correct.
 
 (2) The cube root of $27$ is $3$ (unique), and $-3$ is not a cube root of $27$, so it is wrong.
 
@@ -214,7 +214,7 @@ By **Definition 8.2.1 (Cube Root)**, find the number whose cube equals the given
 
 (1) $\because\left(-1\right)^3=-1$, $\therefore\sqrt\left[3\right]{-1}=-1$.
 
-(2) $\because 0.2^3=0.008$, $\therefore\sqrt\left[3\right]{0.008}=0.2$.
+(2) $\because0.2^3=0.008$, $\therefore\sqrt\left[3\right]{0.008}=0.2$.
 
 (3) $\because\left(-\frac{4}{3}\right)^3=-\frac{64}{27}$, $\therefore\sqrt\left[3\right]{-\frac{64}{27}}=-\frac{4}{3}$. $\blacksquare$
 
@@ -226,7 +226,7 @@ By **Definition 8.2.1 (Cube Root)**, find the number whose cube equals the given
 
 Let the edge length be $x\,\text{cm}$; by the volume formula of a cube, $x^3=216$.
 
-By **Definition 8.2.1 (Cube Root)**, $x=\sqrt\left[3\right]{216}$. $\because 6^3=216$, $\therefore x=6$.
+By **Definition 8.2.1 (Cube Root)**, $x=\sqrt\left[3\right]{216}$. $\because6^3=216$, $\therefore{x}=6$.
 
 That is, the edge length of the Rubik's cube is $6\,\text{cm}$. $\blacksquare$
 
@@ -240,7 +240,7 @@ That is, the edge length of the Rubik's cube is $6\,\text{cm}$. $\blacksquare$
 
 By Relationship Between Cubing and Extracting Cube Roots and Cube Root of a Negative Number.
 
-(1) $\because 0.3^3=0.027$, $\therefore\sqrt\left[3\right]{0.027}=0.3$.
+(1) $\because0.3^3=0.027$, $\therefore\sqrt\left[3\right]{0.027}=0.3$.
 
 (2) By Relationship Between Cubing and Cube Root, $\sqrt\left[3\right]{\left(-7\right)^3}=-7$.
 
@@ -256,11 +256,11 @@ By Relationship Between Cubing and Extracting Cube Roots and Cube Root of a Nega
 
 By **Definition 8.2.1 (Cube Root)**, use a calculator to find the cube root.
 
-(1) $\because 19^3=6859$, $\therefore\sqrt\left[3\right]{6859}=19$.
+(1) $\because19^3=6859$, $\therefore\sqrt\left[3\right]{6859}=19$.
 
-(2) $\because 41^3=68921$, $\therefore\sqrt\left[3\right]{68921}=41$.
+(2) $\because41^3=68921$, $\therefore\sqrt\left[3\right]{68921}=41$.
 
-(3) Using a calculator, $\sqrt\left[3\right]{0.028092}\approx 0.304$. $\blacksquare$
+(3) Using a calculator, $\sqrt\left[3\right]{0.028092}\approx0.304$. $\blacksquare$
 
 ## Exercise 6
 
@@ -272,13 +272,13 @@ By **Definition 8.2.1 (Cube Root)**, use a calculator to find the cube root.
 
 Compare with cubes.
 
-(1) $\because 1^3=1< 7< 8=2^3$, $\therefore 1< \sqrt\left[3\right]{7}< 2$, lying between $1$ and $2$.
+(1) $\because1^3=1<7<8=2^3$, $\therefore1<\sqrt\left[3\right]{7}<2$, lying between $1$ and $2$.
 
-(2) $\because 4^3=64< 99< 125=5^3$, $\therefore 4< \sqrt\left[3\right]{99}< 5$, lying between $4$ and $5$.
+(2) $\because4^3=64<99<125=5^3$, $\therefore4<\sqrt\left[3\right]{99}<5$, lying between $4$ and $5$.
 
-(3) $\because 8^3=512< 635< 729=9^3$, $\therefore 8< \sqrt\left[3\right]{635}< 9$, lying between $8$ and $9$.
+(3) $\because8^3=512<635<729=9^3$, $\therefore8<\sqrt\left[3\right]{635}<9$, lying between $8$ and $9$.
 
-(4) $\because\left(-4\right)^3=-64< -28< -27=\left(-3\right)^3$, $\therefore-4< \sqrt\left[3\right]{-28}< -3$, lying between $-4$ and $-3$. $\blacksquare$
+(4) $\because\left(-4\right)^3=-64<-28<-27=\left(-3\right)^3$, $\therefore-4<\sqrt\left[3\right]{-28}<-3$, lying between $-4$ and $-3$. $\blacksquare$
 
 ## Problem 9
 
@@ -290,9 +290,9 @@ Compare with cubes.
 
 By Cube Root of a Negative Number and **Definition 8.2.1 (Cube Root)**.
 
-(1) $\because 0.5^3=0.125$, $\therefore\sqrt\left[3\right]{0.125}=0.5$, so $-\sqrt\left[3\right]{0.125}=-0.5$.
+(1) $\because0.5^3=0.125$, $\therefore\sqrt\left[3\right]{0.125}=0.5$, so $-\sqrt\left[3\right]{0.125}=-0.5$.
 
-(2) $\because 9^3=729$, $\therefore\sqrt\left[3\right]{729}=9$, so $-\sqrt\left[3\right]{729}=-9$.
+(2) $\because9^3=729$, $\therefore\sqrt\left[3\right]{729}=9$, so $-\sqrt\left[3\right]{729}=-9$.
 
 (3) By Cube Root of a Negative Number, $\sqrt\left[3\right]{-\frac{1}{8}}=-\sqrt\left[3\right]{\frac{1}{8}}=-\frac{1}{2}$. $\blacksquare$
 
@@ -306,11 +306,11 @@ By Cube Root of a Negative Number and **Definition 8.2.1 (Cube Root)**.
 
 By **Definition 8.2.1 (Cube Root)**, use a calculator.
 
-(1) $\sqrt\left[3\right]{5572}\approx 17.727$.
+(1) $\sqrt\left[3\right]{5572}\approx17.727$.
 
-(2) $\frac{11}{3}\approx 3.667$, $\sqrt\left[3\right]{3.667}\approx 1.542$, so $-\sqrt\left[3\right]{\frac{11}{3}}\approx-1.542$.
+(2) $\frac{11}{3}\approx3.667$, $\sqrt\left[3\right]{3.667}\approx1.542$, so $-\sqrt\left[3\right]{\frac{11}{3}}\approx-1.542$.
 
-(3) $\sqrt\left[3\right]{25.986558}\approx 2.961$, so $\pm\sqrt\left[3\right]{25.986558}\approx\pm 2.961$. $\blacksquare$
+(3) $\sqrt\left[3\right]{25.986558}\approx2.961$, so $\pm\sqrt\left[3\right]{25.986558}\approx\pm2.961$. $\blacksquare$
 
 ## Problem 11
 
@@ -322,11 +322,11 @@ By **Definition 8.2.1 (Cube Root)**, use a calculator.
 
 The cube root increases as the radicand increases.
 
-(1) $\because 2^3=8> 7$, $\therefore\sqrt\left[3\right]{7}< \sqrt\left[3\right]{8}=2$, i.e. $\sqrt\left[3\right]{7}< 2$.
+(1) $\because2^3=8>7$, $\therefore\sqrt\left[3\right]{7}<\sqrt\left[3\right]{8}=2$, i.e. $\sqrt\left[3\right]{7}<2$.
 
-(2) $\because 2.5^3=15.625> 9$, $\therefore\sqrt\left[3\right]{9}< \sqrt\left[3\right]{15.625}=2.5$, i.e. $\sqrt\left[3\right]{9}< 2.5$.
+(2) $\because2.5^3=15.625>9$, $\therefore\sqrt\left[3\right]{9}<\sqrt\left[3\right]{15.625}=2.5$, i.e. $\sqrt\left[3\right]{9}<2.5$.
 
-(3) $\because 3> 2$, $\therefore\sqrt\left[3\right]{3}> \sqrt\left[3\right]{2}$; taking opposites of both sides gives $-\sqrt\left[3\right]{3}< -\sqrt\left[3\right]{2}$. $\blacksquare$
+(3) $\because3>2$, $\therefore\sqrt\left[3\right]{3}>\sqrt\left[3\right]{2}$; taking opposites of both sides gives $-\sqrt\left[3\right]{3}<-\sqrt\left[3\right]{2}$. $\blacksquare$
 
 ## Problem 12
 
@@ -338,7 +338,7 @@ The cube root increases as the radicand increases.
 
 By **Definition 8.2.1 (Cube Root)**.
 
-(1) $x=\sqrt\left[3\right]{-0.064}$. $\because 0.4^3=0.064$, $\therefore x=-0.4$.
+(1) $x=\sqrt\left[3\right]{-0.064}$. $\because0.4^3=0.064$, $\therefore{x}=-0.4$.
 
 (2) $x^3=3+\frac{3}{8}=\frac{27}{8}$, $x=\sqrt\left[3\right]{\frac{27}{8}}=\frac{3}{2}$.
 
@@ -350,9 +350,9 @@ By **Definition 8.2.1 (Cube Root)**.
 
 ### Solution to Problem 13
 
-The volume of the cuboid is $21\times 20\times 19=7980\,dm^3$. When melted and recast into a cube, the volume is unchanged; let the edge length of the cube be $x\,dm$, then $x^3=7980$.
+The volume of the cuboid is $21\times20\times19=7980\,dm^3$. When melted and recast into a cube, the volume is unchanged; let the edge length of the cube be $x\,dm$, then $x^3=7980$.
 
-By **Definition 8.2.1 (Cube Root)**, $x=\sqrt\left[3\right]{7980}$. $\because 19^3=6859< 7980< 8000=20^3$, continue estimating: $19.98^3\approx 7976$. Thus $x\approx 19.98\,dm$.
+By **Definition 8.2.1 (Cube Root)**, $x=\sqrt\left[3\right]{7980}$. $\because19^3=6859<7980<8000=20^3$, continue estimating: $19.98^3\approx7976$. Thus $x\approx19.98\,dm$.
 
 That is, the edge length of the cube is about $19.98\,dm$. $\blacksquare$
 
@@ -362,19 +362,19 @@ That is, the edge length of the cube is about $19.98\,dm$. $\blacksquare$
 
 ### Solution to Problem 14
 
-The volume of a cylinder is $V=\pi r^2 h$. From $h=5.48r$,
+The volume of a cylinder is $V=\pi{r}^2h$. From $h=5.48r$,
 
 $$
-V=\pi r^2\cdot 5.48r=5.48\pi r^3.
+V=\pi{r}^2\cdot5.48r=5.48\pi{r}^3.
 $$
 
 Substitute $V=22600$, $\pi=3.14$:
 
 $$
-r^3=\frac{22600}{5.48\times 3.14}=\frac{22600}{17.2072}\approx 1313.4.
+r^3=\frac{22600}{5.48\times3.14}=\frac{22600}{17.2072}\approx1313.4.
 $$
 
-By **Definition 8.2.1 (Cube Root)**, $r=\sqrt\left[3\right]{1313.4}\approx 10.95$.
+By **Definition 8.2.1 (Cube Root)**, $r=\sqrt\left[3\right]{1313.4}\approx10.95$.
 
 That is, the base radius $r$ is about $10.95\,\text{cm}$. $\blacksquare$
 
@@ -422,7 +422,7 @@ $\blacksquare$
 
 ### Solution to Problem 17
 
-By the behavior of the cube root as the radicand changes, repeatedly extract cube roots of $1234$: $\sqrt\left[3\right]{1234}\approx 10.7$, then extract the cube root again $\approx 2.2$, then again $\approx 1.3$, then again $\approx 1.09$, … The result gradually approaches $1$.
+By the behavior of the cube root as the radicand changes, repeatedly extract cube roots of $1234$: $\sqrt\left[3\right]{1234}\approx10.7$, then extract the cube root again $\approx2.2$, then again $\approx1.3$, then again $\approx1.09$, … The result gradually approaches $1$.
 
 In general, repeatedly extracting cube roots of a number greater than $1$ gradually decreases the result toward $1$. $\blacksquare$
 
@@ -448,7 +448,7 @@ By **Definition 8.3.1 (Irrational Number)** and Real Numbers and the Number Line
 
 (2) An irrational number is a non-terminating non-repeating decimal, so it is certainly a non-terminating decimal; correct.
 
-(3) For example, $\sqrt 4=2$ is a rational number, so a number expressed with a radical sign is not necessarily an irrational number; wrong.
+(3) For example, $\sqrt4=2$ is a rational number, so a number expressed with a radical sign is not necessarily an irrational number; wrong.
 
 (4) Points on the number line represent not only rational numbers but also irrational numbers, so it is wrong.
 
@@ -462,6 +462,6 @@ By **Definition 8.3.1 (Irrational Number)** and Real Numbers and the Number Line
 
 By **Definition 8.3.1 (Irrational Number)**, those whose root can be extracted exactly are rational numbers, and those whose root cannot be extracted exactly are irrational numbers.
 
-Square roots: $\sqrt 0=0$, $\sqrt 1=1$, $\sqrt 4=2$, $\sqrt 9=3$ are rational numbers; $\sqrt 2$, $\sqrt 3$, $\sqrt 5$, $\sqrt 6$, $\sqrt 7$, $\sqrt 8$, $\sqrt{10}$ are irrational numbers.
+Square roots: $\sqrt0=0$, $\sqrt1=1$, $\sqrt4=2$, $\sqrt9=3$ are rational numbers; $\sqrt2$, $\sqrt3$, $\sqrt5$, $\sqrt6$, $\sqrt7$, $\sqrt8$, $\sqrt{10}$ are irrational numbers.
 
-Cube roots: $\sqrt\left[3\right] 0=0$, $\sqrt\left[3\right] 1=1$, $\sqrt\left[3\right] 8=2$ are rational numbers; $\sqrt\left[3\right] 2$, $\sqrt\left[3\right] 3$, $\sqrt\left[3\right] 4$, $\sqrt\left[3\right] 5$, $\sqrt\left[3\right] 6$, $\sqrt\left[3\right] 7$, $\sqrt\left[3\right] 9$, $\sqrt\left[3\right]{10}$ are irrational numbers. $\blacksquare$
+Cube roots: $\sqrt\left[3\right]0=0$, $\sqrt\left[3\right]1=1$, $\sqrt\left[3\right]8=2$ are rational numbers; $\sqrt\left[3\right]2$, $\sqrt\left[3\right]3$, $\sqrt\left[3\right]4$, $\sqrt\left[3\right]5$, $\sqrt\left[3\right]6$, $\sqrt\left[3\right]7$, $\sqrt\left[3\right]9$, $\sqrt\left[3\right]{10}$ are irrational numbers. $\blacksquare$

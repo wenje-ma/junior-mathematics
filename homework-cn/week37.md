@@ -2,7 +2,7 @@
 
 > **定义 16.1.1 (同底数幂的乘法)**
 > 
-> 一般地, 对于任意底数 $a$ 与任意正整数 $m,n$, $a^m\cdot a^n=a^{m+n}$, 即同底数幂相乘, 底数不变, 指数相加. 三个或三个以上同底数幂相乘也具有这一性质.
+> 一般地, 对于任意底数 $a$ 与任意正整数 $m,n$, $a^m\cdot{a}^n=a^{m+n}$, 即同底数幂相乘, 底数不变, 指数相加. 三个或三个以上同底数幂相乘也具有这一性质.
 
 > **定义 16.1.2 (幂的乘方)**
 > 
@@ -10,7 +10,7 @@
 
 > **定义 16.1.3 (积的乘方)**
 > 
-> 一般地, 对于任意底数 $a,b$ 与任意正整数 $n$, $\left(ab\right)^n=a^n b^n$, 即积的乘方等于把积的每一个因式分别乘方, 再把所得的幂相乘. 三个或三个以上因式的积的乘方也具有这一性质.
+> 一般地, 对于任意底数 $a,b$ 与任意正整数 $n$, $\left(ab\right)^n=a^nb^n$, 即积的乘方等于把积的每一个因式分别乘方, 再把所得的幂相乘. 三个或三个以上因式的积的乘方也具有这一性质.
 
 > **定义 16.2.3 (多项式与多项式相乘)**
 > 
@@ -18,7 +18,7 @@
 
 > **定义 16.2.4 (同底数幂的除法)**
 > 
-> $a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ 都是正整数, $m> n$), 即同底数幂相除, 底数不变, 指数相减.
+> $a^m\div{a}^n=a^{m-n}$ ($a\ne0$, $m,n$ 都是正整数, $m>{}n$), 即同底数幂相除, 底数不变, 指数相减.
 
 > **定义 16.3.1 (平方差公式)**
 > 
@@ -78,7 +78,7 @@
 
 (1) $\left(2m+3\right)\left(2m-3\right)$;
 
-(2) $\left(-\frac14 x-2y\right)\left(\frac14 x-2y\right)$;
+(2) $\left(-\frac14x-2y\right)\left(\frac14x-2y\right)$;
 
 (3) $\left(a+2b\right)\left(a-2b\right)$;
 
@@ -90,7 +90,7 @@
 
 (1) $\left(2m+3\right)\left(2m-3\right)=4m^2-9$.
 
-(2) $\left(-\frac14 x-2y\right)\left(\frac14 x-2y\right)=\left(-2y\right)^2-\left(\frac14 x\right)^2=4y^2-\frac{1}{16}x^2$.
+(2) $\left(-\frac14x-2y\right)\left(\frac14x-2y\right)=\left(-2y\right)^2-\left(\frac14x\right)^2=4y^2-\frac{1}{16}x^2$.
 
 (3) $\left(a+2b\right)\left(a-2b\right)=a^2-4b^2$.
 
@@ -102,7 +102,7 @@
 
 (1) $\left(2a+5b\right)^2$;
 
-(2) $\frac34 x-\frac23 y\right)^2$;
+(2) $\frac34x-\frac23y\right)^2$;
 
 (3) $\left(-2m-7n\right)^2$;
 
@@ -114,7 +114,7 @@
 
 (1) $\left(2a+5b\right)^2=4a^2+20ab+25b^2$.
 
-(2) $\left(\frac34 x-\frac23 y\right)^2=\frac{9}{16}x^2-xy+\frac49 y^2$.
+(2) $\left(\frac34x-\frac23y\right)^2=\frac{9}{16}x^2-xy+\frac49y^2$.
 
 (3) $\left(-2m-7n\right)^2=4m^2+28mn+49n^2$.
 
@@ -126,7 +126,7 @@
 
 (1) $\left(2a+5b\right)\left(2a-5b\right)$;
 
-(2) $\left(\frac12 x-3y\right)^2$;
+(2) $\left(\frac12x-3y\right)^2$;
 
 (3) $\left(ab+1\right)^2-\left(ab-1\right)^2$;
 
@@ -134,7 +134,7 @@
 
 (5) $\left(-2x-5y\right)^2$;
 
-(6) $\left(a-\frac12 b^2\right)^2$.
+(6) $\left(a-\frac12b^2\right)^2$.
 
 ### 解答 习题四
 
@@ -142,15 +142,15 @@
 
 (1) $\left(2a+5b\right)\left(2a-5b\right)=4a^2-25b^2$.
 
-(2) $\left(\frac12 x-3y\right)^2=\frac14 x^2-3xy+9y^2$.
+(2) $\left(\frac12x-3y\right)^2=\frac14x^2-3xy+9y^2$.
 
-(3) $\left(ab+1\right)^2-\left(ab-1\right)^2=\left(a^2 b^2+2ab+1\right)-\left(a^2 b^2-2ab+1\right)=4ab$.
+(3) $\left(ab+1\right)^2-\left(ab-1\right)^2=\left(a^2b^2+2ab+1\right)-\left(a^2b^2-2ab+1\right)=4ab$.
 
 (4) $\left(3x-5\right)^2-\left(2x+7\right)^2=\left(9x^2-30x+25\right)-\left(4x^2+28x+49\right)=5x^2-58x-24$.
 
 (5) $\left(-2x-5y\right)^2=4x^2+20xy+25y^2$.
 
-(6) $\left(a-\frac12 b^2\right)^2=a^2-ab^2+\frac14 b^4$. $\blacksquare$
+(6) $\left(a-\frac12b^2\right)^2=a^2-ab^2+\frac14b^4$. $\blacksquare$
 
 ## 习题五
 
@@ -178,11 +178,11 @@
 
 ### 解答 习题六
 
-大圆直径为 $a+b$, 半径 $\frac{a+b}{2}$, 面积 $\pi\left(\frac{a+b}{2}\right)^2$. 挖去两圆半径分别为 $\frac a2$ 与 $\frac b2$, 面积和为 $\pi\left(\frac a2\right)^2+\pi\left(\frac b2\right)^2$.
+大圆直径为 $a+b$, 半径 $\frac{a+b}{2}$, 面积 $\pi\left(\frac{a+b}{2}\right)^2$. 挖去两圆半径分别为 $\frac{a}2$ 与 $\frac{b}2$, 面积和为 $\pi\left(\frac{a}2\right)^2+\pi\left(\frac{b}2\right)^2$.
 
 剩下面积
 
-$$S=\pi\frac{\left(a+b\right)^2}{4}-\pi\frac{a^2}{4}-\pi\frac{b^2}{4}=\pi\frac{a^2+2ab+b^2-a^2-b^2}{4}=\frac{\pi ab}{2}.$$
+$$S=\pi\frac{\left(a+b\right)^2}{4}-\pi\frac{a^2}{4}-\pi\frac{b^2}{4}=\pi\frac{a^2+2ab+b^2-a^2-b^2}{4}=\frac{\pi{a}b}{2}.$$
 
 $\blacksquare$
 
@@ -266,7 +266,7 @@ $$n\left(n+8\right)-\left(n+1\right)\left(n+7\right)=n^2+8n-\left(n^2+8n+7\right
 
 (2) 你能用本章所学知识解释你发现的规律吗?
 
-(3) 利用你发现的规律解决下面的问题: 用 $10\ \text{m}$ 长的绳子围成一个长方形, 长方形的最大面积是多少? 此时长方形的两条邻边长有什么关系?
+(3) 利用你发现的规律解决下面的问题: 用 $10\,\text{m}$ 长的绳子围成一个长方形, 长方形的最大面积是多少? 此时长方形的两条邻边长有什么关系?
 
 ### 解答 活动二
 
@@ -274,15 +274,15 @@ $$n\left(n+8\right)-\left(n+1\right)\left(n+7\right)=n^2+8n-\left(n^2+8n+7\right
 
 ② $50\times50=2500$, $53\times47=2491$, $74\times26=1924$, $91\times9=819$. 每组两数之和均为 $100$, 同样两数越接近 $50$, 积越大.
 
-(2) 设两数之和为定值 $S$, 两数分别为 $\frac S2+d$ 与 $\frac S2-d$. 由**定义 16.3.1 (平方差公式)**:
+(2) 设两数之和为定值 $S$, 两数分别为 $\frac{S}2+d$ 与 $\frac{S}2-d$. 由**定义 16.3.1 (平方差公式)**:
 
-$$\left(\frac S2+d\right)\left(\frac S2-d\right)=\frac{S^2}{4}-d^2.$$
+$$\left(\frac{S}2+d\right)\left(\frac{S}2-d\right)=\frac{S^2}{4}-d^2.$$
 
 故两数越接近 ($d$ 越小), 积越大; 当 $d=0$ 即两数相等时, 积最大为 $\frac{S^2}{4}$.
 
-(3) 周长为 $10\ \text{m}$, 则长宽之和为 $5\ \text{m}$, 即 $S=5$. 面积 $=$ 长$\times$宽, 由上述规律, 当长与宽相等即都为 $2.5\ \text{m}$ 时面积最大:
+(3) 周长为 $10\,\text{m}$, 则长宽之和为 $5\,\text{m}$, 即 $S=5$. 面积 $=$ 长$\times$宽, 由上述规律, 当长与宽相等即都为 $2.5\,\text{m}$ 时面积最大:
 
-$$S_{\max}=\frac{5^2}{4}=6.25\ \left(\text{m}^2\right).$$
+$$S_{\max}=\frac{5^2}{4}=6.25\,\left(\text{m}^2\right).$$
 
 此时长方形两条邻边相等, 即为正方形. $\blacksquare$
 
@@ -294,11 +294,11 @@ $$S_{\max}=\frac{5^2}{4}=6.25\ \left(\text{m}^2\right).$$
 
 杨辉三角第 $7$ 行 ($n=6$) 的系数为 $1,6,15,20,15,6,1$, 按 $a$ 的次数由大到小:
 
-$$\left(a+b\right)^6=a^6+6a^5 b+15a^4 b^2+20a^3 b^3+15a^2 b^4+6ab^5+b^6.$$
+$$\left(a+b\right)^6=a^6+6a^5b+15a^4b^2+20a^3b^3+15a^2b^4+6ab^5+b^6.$$
 
-验证: $\left(a+b\right)^3=a^3+3a^2 b+3ab^2+b^3$, 则
+验证: $\left(a+b\right)^3=a^3+3a^2b+3ab^2+b^3$, 则
 
-$$\left(a+b\right)^6=\left(\left(a+b\right)^3\right)^2=\left(a^3+3a^2 b+3ab^2+b^3\right)^2.$$
+$$\left(a+b\right)^6=\left(\left(a+b\right)^3\right)^2=\left(a^3+3a^2b+3ab^2+b^3\right)^2.$$
 
 展开后合并同类项, 各项系数与上述一致, 验证正确. $\blacksquare$
 
@@ -310,9 +310,9 @@ $$\left(a+b\right)^6=\left(\left(a+b\right)^3\right)^2=\left(a^3+3a^2 b+3ab^2+b^
 
 (2) $\left[\left(-2\right)^2\right]^3$;
 
-(3) $\left(-x\right)^2\cdot x^3$;
+(3) $\left(-x\right)^2\cdot{x}^3$;
 
-(4) $x\cdot x^2\cdot x^3+\left(x^3\right)^2$.
+(4) $x\cdot{x}^2\cdot{x}^3+\left(x^3\right)^2$.
 
 ### 解答 复习题一
 
@@ -322,15 +322,15 @@ $$\left(a+b\right)^6=\left(\left(a+b\right)^3\right)^2=\left(a^3+3a^2 b+3ab^2+b^
 
 (2) $\left[\left(-2\right)^2\right]^3=4^3=64$.
 
-(3) $\left(-x\right)^2\cdot x^3=x^2\cdot x^3=x^5$.
+(3) $\left(-x\right)^2\cdot{x}^3=x^2\cdot{x}^3=x^5$.
 
-(4) $x\cdot x^2\cdot x^3+\left(x^3\right)^2=x^6+x^6=2x^6$. $\blacksquare$
+(4) $x\cdot{x}^2\cdot{x}^3+\left(x^3\right)^2=x^6+x^6=2x^6$. $\blacksquare$
 
 ## 复习题二
 
 (复习题 复习巩固第 2 题) 计算:
 
-(1) $\left(-2x^2 y^3\right)^2\left(xy\right)^3$;
+(1) $\left(-2x^2y^3\right)^2\left(xy\right)^3$;
 
 (2) $\left(2a+3b\right)\left(2a-b\right)$;
 
@@ -344,7 +344,7 @@ $$\left(a+b\right)^6=\left(\left(a+b\right)^3\right)^2=\left(a^3+3a^2 b+3ab^2+b^
 
 ### 解答 复习题二
 
-(1) $\left(-2x^2 y^3\right)^2\left(xy\right)^3=4x^4 y^6\cdot x^3 y^3=4x^7 y^9$.
+(1) $\left(-2x^2y^3\right)^2\left(xy\right)^3=4x^4y^6\cdot{x}^3y^3=4x^7y^9$.
 
 (2) $\left(2a+3b\right)\left(2a-b\right)=4a^2-2ab+6ab-3b^2=4a^2+4ab-3b^2$.
 
@@ -360,25 +360,25 @@ $$\left(a+b\right)^6=\left(\left(a+b\right)^3\right)^2=\left(a^3+3a^2 b+3ab^2+b^
 
 (复习题 复习巩固第 3 题) 计算:
 
-(1) $\left(2a\right)^3\cdot b^4\div\left(12a^3 b^2\right)$;
+(1) $\left(2a\right)^3\cdot{b}^4\div\left(12a^3b^2\right)$;
 
-(2) $-27a^7 b^5\div\left(\frac32 a^2 b^5\right)$;
+(2) $-27a^7b^5\div\left(\frac32a^2b^5\right)$;
 
-(3) $\left(\frac65 a^3 x^4-0.9ax^3\right)\div\left(\frac35 ax^3\right)$;
+(3) $\left(\frac65a^3x^4-0.9ax^3\right)\div\left(\frac35ax^3\right)$;
 
-(4) $\left(7x^2 y^3-8x^3 y^2 z\right)\div\left(8x^2 y^2\right)$.
+(4) $\left(7x^2y^3-8x^3y^2z\right)\div\left(8x^2y^2\right)$.
 
 ### 解答 复习题三
 
 由单项式与多项式除法法则.
 
-(1) $\left(2a\right)^3\cdot b^4\div\left(12a^3 b^2\right)=8a^3 b^4\div\left(12a^3 b^2\right)=\frac23 b^2$.
+(1) $\left(2a\right)^3\cdot{b}^4\div\left(12a^3b^2\right)=8a^3b^4\div\left(12a^3b^2\right)=\frac23b^2$.
 
-(2) $-27a^7 b^5\div\left(\frac32 a^2 b^5\right)=-18a^5$.
+(2) $-27a^7b^5\div\left(\frac32a^2b^5\right)=-18a^5$.
 
-(3) $\left(\frac65 a^3 x^4-0.9ax^3\right)\div\left(\frac35 ax^3\right)=2a^2 x-1.5$.
+(3) $\left(\frac65a^3x^4-0.9ax^3\right)\div\left(\frac35ax^3\right)=2a^2x-1.5$.
 
-(4) $\left(7x^2 y^3-8x^3 y^2 z\right)\div\left(8x^2 y^2\right)=\frac78 y-xz$. $\blacksquare$
+(4) $\left(7x^2y^3-8x^3y^2z\right)\div\left(8x^2y^2\right)=\frac78y-xz$. $\blacksquare$
 
 ## 复习题四
 
@@ -414,7 +414,7 @@ $$\left(x+2y\right)^2+\left(x+y\right)\left(x-y\right)-y^2=x^2+4xy+4y^2+x^2-y^2-
 
 (3) $\left(2x^2+1\right)^2-\left(x+2\right)\left(x^2+4\right)\left(x-2\right)$;
 
-(4) $\left[x\left(x^2 y^2-xy\right)-y\left(x^2-x^3 y\right)\right]\div\left(3x^2 y\right)$.
+(4) $\left[x\left(x^2y^2-xy\right)-y\left(x^2-x^3y\right)\right]\div\left(3x^2y\right)$.
 
 ### 解答 复习题六
 
@@ -424,7 +424,7 @@ $$\left(x+2y\right)^2+\left(x+y\right)\left(x-y\right)-y^2=x^2+4xy+4y^2+x^2-y^2-
 
 (3) $\left(2x^2+1\right)^2-\left(x+2\right)\left(x-2\right)\left(x^2+4\right)=\left(4x^4+4x^2+1\right)-\left(x^2-4\right)\left(x^2+4\right)=4x^4+4x^2+1-\left(x^4-16\right)=3x^4+4x^2+17$.
 
-(4) $\left[x^3 y^2-x^2 y-x^2 y+x^3 y^2\right]\div\left(3x^2 y\right)=\left(2x^3 y^2-2x^2 y\right)\div\left(3x^2 y\right)=\frac23 xy-\frac23$. $\blacksquare$
+(4) $\left[x^3y^2-x^2y-x^2y+x^3y^2\right]\div\left(3x^2y\right)=\left(2x^3y^2-2x^2y\right)\div\left(3x^2y\right)=\frac23xy-\frac23$. $\blacksquare$
 
 ## 复习题七
 
@@ -450,31 +450,31 @@ $$\left(m-2n\right)\left(m+2n\right)+\left(m+2n\right)^2-4mn=m^2-4n^2+\left(m^2+
 
 ## 复习题九
 
-(复习题 综合运用第 9 题) 一张正方形纸片的边长减少 $2\ \text{cm}$, 它的面积就减少 $20\ \text{cm}^2$, 这张正方形纸片的边长是多少?
+(复习题 综合运用第 9 题) 一张正方形纸片的边长减少 $2\,\text{cm}$, 它的面积就减少 $20\,\text{cm}^2$, 这张正方形纸片的边长是多少?
 
 ### 解答 复习题九
 
-设原边长为 $x\ \text{cm}$, 则原面积 $x^2$, 减少后边长 $x-2$, 面积 $\left(x-2\right)^2$.
+设原边长为 $x\,\text{cm}$, 则原面积 $x^2$, 减少后边长 $x-2$, 面积 $\left(x-2\right)^2$.
 
 $$x^2-\left(x-2\right)^2=20,$$
 
 $$x^2-\left(x^2-4x+4\right)=4x-4=20,$$
 
-解得 $x=6$. 即原正方形边长为 $6\ \text{cm}$. $\blacksquare$
+解得 $x=6$. 即原正方形边长为 $6\,\text{cm}$. $\blacksquare$
 
 ## 复习题十
 
-(复习题 综合运用第 10 题) 如图是一水压机空心钢立柱的示意图. 如果其高 $h$ 为 $18\ \text{m}$, 外径 $D$ 为 $1\ \text{m}$, 内径 $d$ 为 $0.4\ \text{m}$, 每立方米钢的质量为 $7.8\ \text{t}$, 求该立柱的质量. ($\pi$ 取 $3.14$, 结果保留小数点后两位.)
+(复习题 综合运用第 10 题) 如图是一水压机空心钢立柱的示意图. 如果其高 $h$ 为 $18\,\text{m}$, 外径 $D$ 为 $1\,\text{m}$, 内径 $d$ 为 $0.4\,\text{m}$, 每立方米钢的质量为 $7.8\,\text{t}$, 求该立柱的质量. ($\pi$ 取 $3.14$, 结果保留小数点后两位.)
 
-图中为一个竖直放置的空心圆柱形钢立柱: 高 $h=18\ \text{m}$, 外直径 $D=1\ \text{m}$, 内直径 $d=0.4\ \text{m}$, 即横截面为一个圆环.
+图中为一个竖直放置的空心圆柱形钢立柱: 高 $h=18\,\text{m}$, 外直径 $D=1\,\text{m}$, 内直径 $d=0.4\,\text{m}$, 即横截面为一个圆环.
 
 ### 解答 复习题十
 
-空心立柱的底面积为圆环面积 $\pi\left(\frac D2\right)^2-\pi\left(\frac d2\right)^2$. 体积为底面积乘高.
+空心立柱的底面积为圆环面积 $\pi\left(\frac{D}2\right)^2-\pi\left(\frac{d}2\right)^2$. 体积为底面积乘高.
 
-$$V=\pi\left(\frac{D^2}{4}-\frac{d^2}{4}\right)h=3.14\times\frac{1-0.16}{4}\times18=3.14\times0.21\times18=11.8692\ \left(\text{m}^3\right).$$
+$$V=\pi\left(\frac{D^2}{4}-\frac{d^2}{4}\right)h=3.14\times\frac{1-0.16}{4}\times18=3.14\times0.21\times18=11.8692\,\left(\text{m}^3\right).$$
 
-质量为 $11.8692\times7.8\approx92.58\ \left(\text{t}\right)$. $\blacksquare$
+质量为 $11.8692\times7.8\approx92.58\,\left(\text{t}\right)$. $\blacksquare$
 
 ## 复习题十一
 
@@ -482,4 +482,4 @@ $$V=\pi\left(\frac{D^2}{4}-\frac{d^2}{4}\right)h=3.14\times\frac{1-0.16}{4}\time
 
 ### 解答 复习题十一
 
-由**定义 16.2.4 (同底数幂的除法)**, $x^{m-n}=x^m\div x^n=64\div8=8$. $\blacksquare$
+由**定义 16.2.4 (同底数幂的除法)**, $x^{m-n}=x^m\div{x}^n=64\div8=8$. $\blacksquare$

@@ -58,7 +58,7 @@
 
 > **Definition 13.1.2 (Sides, Vertices and Interior Angles)**
 > 
-> The segments making up a triangle are called the sides of the triangle; the common endpoint of two adjacent sides is called a vertex of the triangle; the angle formed by two adjacent sides is called an interior angle of the triangle, briefly an angle of the triangle. A triangle with vertices $A,B,C$ is denoted $\triangle ABC$.
+> The segments making up a triangle are called the sides of the triangle; the common endpoint of two adjacent sides is called a vertex of the triangle; the angle formed by two adjacent sides is called an interior angle of the triangle, briefly an angle of the triangle. A triangle with vertices $A,B,C$ is denoted $\triangle{A}BC$.
 
 > **Definition 13.1.3 (Isosceles Triangle)**
 > 
@@ -82,13 +82,13 @@ Use a composite line chart to describe total automobile sales and new-energy sal
 
 ## Problem 2
 
-(Exercise 12.2, Review and Consolidation, Problem 4) Frequency table of the number of jump-rope skips in $60$ seconds for the whole class: $60\le x< 80$ frequency $3$; $80\le x< 100$ frequency $4$; $100\le x< 120$ frequency $17$; $120\le x< 140$ frequency $9$; $140\le x< 160$ frequency $8$; $160\le x< 180$ frequency $6$; $180\le x< 200$ frequency $1$.
+(Exercise 12.2, Review and Consolidation, Problem 4) Frequency table of the number of jump-rope skips in $60$ seconds for the whole class: $60\le{x}<80$ frequency $3$; $80\le{x}<100$ frequency $4$; $100\le{x}<120$ frequency $17$; $120\le{x}<140$ frequency $9$; $140\le{x}<160$ frequency $8$; $160\le{x}<180$ frequency $6$; $180\le{x}<200$ frequency $1$.
 
 (1) How many students are in the class?
 
 (2) What are the class width and the number of classes?
 
-(3) How many students are in the range $120\le x< 160$? What percentage?
+(3) How many students are in the range $120\le{x}<160$? What percentage?
 
 (4) Draw the histogram.
 
@@ -140,7 +140,7 @@ Use a composite line chart to describe total automobile sales and new-energy sal
 
 ### Solution to Problem 5
 
-The range is $24.4-18.5=5.9$; take a class width of $0.5$ and divide into about $12$ groups. Most weeks' sales fall between $20.0\sim23.0\ \text{t}$. Hence buying about $21\sim22\ \text{t}$ of flour each week is appropriate, meeting demand without causing backlog. $\blacksquare$
+The range is $24.4-18.5=5.9$; take a class width of $0.5$ and divide into about $12$ groups. Most weeks' sales fall between $20.0\sim23.0\,\text{t}$. Hence buying about $21\sim22\,\text{t}$ of flour each week is appropriate, meeting demand without causing backlog. $\blacksquare$
 
 ## Problem 6
 
@@ -188,7 +188,7 @@ Enter the $63$ height data into a list, set the starting point at $149$ and the 
 
 ### Solution to Activity 1
 
-Let the heights of the $N$ students in the class be $x_1,x_2,\ldots,x_N$, and the population average height be $\overline{x}=\frac{1}{N}\sum_{i=1}^N x_i$.
+Let the heights of the $N$ students in the class be $x_1,x_2,\ldots,x_N$, and the population average height be $\overline{x}=\frac{1}{N}\sum_{i=1}^Nx_i$.
 
 Each time a sample of size $15$ is drawn, the sample average is $\overline{x}_k=\frac{1}{15}\sum_{j=1}^{15}x_{i_j}$. By **Definition 12.1.6 (Simple Random Sampling)**, each draw is unbiased, and $\overline{x}_k$ fluctuates up and down around $\overline{x}$.
 
@@ -210,7 +210,7 @@ Let the $10$ measured values be $d_1,d_2,\ldots,d_{10}$. The maximum is $d_{\max
 
 The ruler falls in free fall, and the falling distance is $d=\frac{1}{2}gt^2$, so the reaction time is $t=\sqrt{\frac{2d}{g}}$. The smaller $d$ is, the shorter the reaction time $t$, and the faster the reaction.
 
-Comparing the two people's $\overline d$: the one with the smaller $\overline d$ reacts faster. $\blacksquare$
+Comparing the two people's $\overline{d}$: the one with the smaller $\overline{d}$ reacts faster. $\blacksquare$
 
 ## Review Problem 1
 
@@ -264,7 +264,7 @@ Shortcomings: (1) requiring the name involves personal privacy and may affect tr
 
 ## Review Problem 4
 
-(Review Problems, Review and Consolidation, Problem 4) The school clinic surveyed $30$ seventh-grade boys and found an average weight of $48\ \text{kg}$. Can this serve as an estimate of the average weight of seventh-grade students?
+(Review Problems, Review and Consolidation, Problem 4) The school clinic surveyed $30$ seventh-grade boys and found an average weight of $48\,\text{kg}$. Can this serve as an estimate of the average weight of seventh-grade students?
 
 ### Solution to Review Problem 4
 
@@ -272,17 +272,17 @@ It cannot. The sample contains only seventh-grade boys, includes neither girls n
 
 ## Review Problem 5
 
-(Review Problems, Review and Consolidation, Problem 5) A survey of students' weekly housework time divides them into four groups, A ($x< 60$), B ($60\le x< 90$), C ($90\le x< 120$), D ($x\ge120$). It is known that group B has $70$ people, accounting for $35\%$, and group D accounts for $40\%$.
+(Review Problems, Review and Consolidation, Problem 5) A survey of students' weekly housework time divides them into four groups, A ($x<60$), B ($60\le{x}<90$), C ($90\le{x}<120$), D ($x\ge120$). It is known that group B has $70$ people, accounting for $35\%$, and group D accounts for $40\%$.
 
 (1) How many students were surveyed in total?
 
-(2) There are $1500$ students in the school; estimate about how many students have a weekly housework time of no less than $90\ \text{min}$?
+(2) There are $1500$ students in the school; estimate about how many students have a weekly housework time of no less than $90\,\text{min}$?
 
 ### Solution to Review Problem 5
 
 (1) Since group B's $70$ people account for $35\%$, the total is $\frac{70}{35\%}=200$ people.
 
-(2) Group D accounts for $40\%$, namely $80$ people. Groups A and C together account for $100\%-35\%-40\%=25\%$; from the bar chart, group A has $20$ people, $10\%$, so group C accounts for $15\%$, namely $30$ people. Those with no less than $90\ \text{min}$ are groups C and D, together accounting for $15\%+40\%=55\%$. The school-wide estimate is $1500\times55\%=825$ people. $\blacksquare$
+(2) Group D accounts for $40\%$, namely $80$ people. Groups A and C together account for $100\%-35\%-40\%=25\%$; from the bar chart, group A has $20$ people, $10\%$, so group C accounts for $15\%$, namely $30$ people. Those with no less than $90\,\text{min}$ are groups C and D, together accounting for $15\%+40\%=55\%$. The school-wide estimate is $1500\times55\%=825$ people. $\blacksquare$
 
 ## Review Problem 6
 
@@ -318,9 +318,9 @@ By **Definition 12.2.3 (Line Chart)**, draw a composite line chart as shown. The
 
 ### Solution to Review Problem 8
 
-(1) The range is $24.8-1.5=23.3$; take a class width of $3$ and divide into about $8$ groups. Most families' average monthly water consumption falls between $3\sim12\ \text{t}$, and a few exceed $18\ \text{t}$.
+(1) The range is $24.8-1.5=23.3$; take a class width of $3$ and divide into about $8$ groups. Most families' average monthly water consumption falls between $3\sim12\,\text{t}$, and a few exceed $18\,\text{t}$.
 
-(2) To keep $60\%$ of families unaffected, i.e. the water consumption corresponding to a cumulative relative frequency of $60\%$. Cumulating from the frequency distribution table, the water consumption of the $30$th family is about $9\ \text{t}$. Hence set the standard at $9\ \text{t}$, charging $1.5$ times for the excess, which keeps the water fee of the first $60\%$ of families unaffected. $\blacksquare$
+(2) To keep $60\%$ of families unaffected, i.e. the water consumption corresponding to a cumulative relative frequency of $60\%$. Cumulating from the frequency distribution table, the water consumption of the $30$th family is about $9\,\text{t}$. Hence set the standard at $9\,\text{t}$, charging $1.5$ times for the excess, which keeps the water fee of the first $60\%$ of families unaffected. $\blacksquare$
 
 ## Review Problem 9
 
@@ -328,7 +328,7 @@ By **Definition 12.2.3 (Line Chart)**, draw a composite line chart as shown. The
 
 ### Solution to Review Problem 9
 
-Maximum $8.3$, minimum $6.9$, range $1.4$. Take a class width of $0.2$ for grouping. Most cars' fuel consumption falls between $7.2\sim7.8\ \text{L}$, averaging about $7.5\ \text{L}$; the consumption is relatively concentrated, with a few vehicles on the high side. $\blacksquare$
+Maximum $8.3$, minimum $6.9$, range $1.4$. Take a class width of $0.2$ for grouping. Most cars' fuel consumption falls between $7.2\sim7.8\,\text{L}$, averaging about $7.5\,\text{L}$; the consumption is relatively concentrated, with a few vehicles on the high side. $\blacksquare$
 
 ## Review Problem 10
 
@@ -350,7 +350,7 @@ Use a sample survey: randomly draw several boys and girls in proportion to the n
 
 ## Inquiry 1
 
-(Comprehensive and Practical Activity, Activity 1, Problem 1) Investigate the changing pattern of daylight duration in Beijing in 2024. It is known that on Minor Cold (January 6) sunrise is $7:36$, sunset is $17:04$, and daylight is $9\ \text{h}\ 28\ \text{min}$; at the spring equinox daylight is about $12\ \text{h}$; at the summer solstice about $15\ \text{h}$; at the winter solstice about $9\ \text{h}\ 28\ \text{min}$.
+(Comprehensive and Practical Activity, Activity 1, Problem 1) Investigate the changing pattern of daylight duration in Beijing in 2024. It is known that on Minor Cold (January 6) sunrise is $7:36$, sunset is $17:04$, and daylight is $9\,\text{h}\,28\,\text{min}$; at the spring equinox daylight is about $12\,\text{h}$; at the summer solstice about $15\,\text{h}$; at the winter solstice about $9\,\text{h}\,28\,\text{min}$.
 
 (1) Calculate the daylight duration on Minor Cold;
 
@@ -362,11 +362,11 @@ The figure is a line chart with the 24 solar terms in order on the horizontal ax
 
 ### Solution to Inquiry 1
 
-(1) By Daylight Duration Formula, daylight duration $=$ (sunset $-$ noon) $\times2=\left(17:04-12:00\right)\times2=5\ \text{h}\ 04\ \text{min}\times2=10\ \text{h}\ 08\ \text{min}$. The table directly gives $9\ \text{h}\ 28\ \text{min}$; since noon is not exactly Beijing time $12:00$, there is a longitude error.
+(1) By Daylight Duration Formula, daylight duration $=$ (sunset $-$ noon) $\times2=\left(17:04-12:00\right)\times2=5\,\text{h}\,04\,\text{min}\times2=10\,\text{h}\,08\,\text{min}$. The table directly gives $9\,\text{h}\,28\,\text{min}$; since noon is not exactly Beijing time $12:00$, there is a longitude error.
 
 (2) Taking the order of the solar terms as the horizontal axis and daylight duration as the vertical axis, draw the line chart as shown.
 
-(3) From the line chart, the daylight duration in Beijing gradually lengthens from the winter solstice to the summer solstice, and gradually shortens from the summer solstice to the winter solstice. The longest day is the summer solstice (June 21), about $15\ \text{h}$; the shortest day is the winter solstice, about $9\ \text{h}\ 28\ \text{min}$. $\blacksquare$
+(3) From the line chart, the daylight duration in Beijing gradually lengthens from the winter solstice to the summer solstice, and gradually shortens from the summer solstice to the winter solstice. The longest day is the summer solstice (June 21), about $15\,\text{h}$; the shortest day is the winter solstice, about $9\,\text{h}\,28\,\text{min}$. $\blacksquare$
 
 ## Inquiry 2
 
@@ -394,7 +394,7 @@ The figure is a line chart with the 24 solar terms in order on the horizontal ax
 
 By Daylight Duration Formula, given the daylight duration $T$ and taking noon as $12:00$, sunrise $=12:00-\frac{T}{2}$, and sunset $=12:00+\frac{T}{2}$.
 
-The nighttime duration $=24\ \text{h}-T$. If the next day's sunrise time $t_{\text{出}}'$ is known, then the next day's nighttime duration $=t_{\text{出}}'$ (from the previous day's sunset to the next day's sunrise), i.e. $t_{\text{出}}'-$ the previous day's sunset time. $\blacksquare$
+The nighttime duration $=24\,\text{h}-T$. If the next day's sunrise time $t_{\text{出}}'$ is known, then the next day's nighttime duration $=t_{\text{出}}'$ (from the previous day's sunset to the next day's sunrise), i.e. $t_{\text{出}}'-$ the previous day's sunset time. $\blacksquare$
 
 ## Inquiry 4
 
@@ -406,7 +406,7 @@ The phone obtains the user's latitude and longitude through positioning, and the
 
 ## Exercise 1
 
-(Exercise 13.1, Problem 1) As shown, in $\triangle ABC$, $AB=BC=CA$, and point $O$ is inside $\triangle ABC$ with $OA=OB=OC$. Find the isosceles triangles and equilateral triangles in the figure.
+(Exercise 13.1, Problem 1) As shown, in $\triangle{A}BC$, $AB=BC=CA$, and point $O$ is inside $\triangle{A}BC$ with $OA=OB=OC$. Find the isosceles triangles and equilateral triangles in the figure.
 
 The figure shows an equilateral triangle $ABC$ ($AB=BC=CA$) with an interior point $O$; segments $OA$, $OB$, $OC$ are drawn, and $OA=OB=OC$.
 
@@ -414,41 +414,41 @@ The figure shows an equilateral triangle $ABC$ ($AB=BC=CA$) with an interior poi
 
 By **Definition 13.1.3 (Isosceles Triangle)**, a triangle with two equal sides is isosceles; by **Definition 13.1.4 (Equilateral Triangle)**, a triangle with all three sides equal is equilateral.
 
-The triangles in the figure are $\triangle ABC$, $\triangle OAB$, $\triangle OBC$, $\triangle OCA$.
+The triangles in the figure are $\triangle{A}BC$, $\triangle{O}AB$, $\triangle{O}BC$, $\triangle{O}CA$.
 
-From $AB=BC=CA$, all three sides of $\triangle ABC$ are equal, so $\triangle ABC$ is equilateral. Also, from $OA=OB$, $\triangle OAB$ is isosceles; from $OB=OC$, $\triangle OBC$ is isosceles; from $OC=OA$, $\triangle OCA$ is isosceles.
+From $AB=BC=CA$, all three sides of $\triangle{A}BC$ are equal, so $\triangle{A}BC$ is equilateral. Also, from $OA=OB$, $\triangle{O}AB$ is isosceles; from $OB=OC$, $\triangle{O}BC$ is isosceles; from $OC=OA$, $\triangle{O}CA$ is isosceles.
 
-Hence the isosceles triangles are $\triangle OAB$, $\triangle OBC$, $\triangle OCA$, and the equilateral triangle is $\triangle ABC$. $\blacksquare$
+Hence the isosceles triangles are $\triangle{O}AB$, $\triangle{O}BC$, $\triangle{O}CA$, and the equilateral triangle is $\triangle{A}BC$. $\blacksquare$
 
 ## Exercise 2
 
-(Exercise 13.1, Problem 2) As shown, in $\triangle ABC$, $\angle BAC$ is a right angle, $AD\perp BC$ with foot at $D$, and point $E$ lies on segment $BD$. Find the acute triangles, right triangles and obtuse triangles in the figure.
+(Exercise 13.1, Problem 2) As shown, in $\triangle{A}BC$, $\angle{B}AC$ is a right angle, $AD\perp{B}C$ with foot at $D$, and point $E$ lies on segment $BD$. Find the acute triangles, right triangles and obtuse triangles in the figure.
 
-The figure shows a right triangle $ABC$ ($\angle BAC=90^\circ$), with $AD\perp BC$ at foot $D$, point $E$ on segment $BD$, and segment $AE$ drawn.
+The figure shows a right triangle $ABC$ ($\angle{B}AC=90^\circ$), with $AD\perp{B}C$ at foot $D$, point $E$ on segment $BD$, and segment $AE$ drawn.
 
 ### Solution to Exercise 2
 
-The triangles in the figure are $\triangle ABC$, $\triangle ABD$, $\triangle ADE$, $\triangle ADC$, $\triangle ABE$, $\triangle AEC$.
+The triangles in the figure are $\triangle{A}BC$, $\triangle{A}BD$, $\triangle{A}DE$, $\triangle{A}DC$, $\triangle{A}BE$, $\triangle{A}EC$.
 
-From $\angle BAC=90^\circ$, $\triangle ABC$ is a right triangle; from $AD\perp BC$, $\angle ADB=\angle ADE=\angle ADC=90^\circ$, so $\triangle ABD$, $\triangle ADE$, $\triangle ADC$ are all right triangles.
+From $\angle{B}AC=90^\circ$, $\triangle{A}BC$ is a right triangle; from $AD\perp{B}C$, $\angle{A}DB=\angle{A}DE=\angle{A}DC=90^\circ$, so $\triangle{A}BD$, $\triangle{A}DE$, $\triangle{A}DC$ are all right triangles.
 
-In $\triangle ADE$, $\angle ADE=90^\circ$, so the other two angles $\angle DAE$ and $\angle AED$ are both acute. The points $B,E,D,C$ lie in order on line $BC$; the direction from $E$ to $B$ is the same as the direction from $E$ to $D$, so $\angle AEB=\angle AED$ is acute, while $\angle AEC=180^\circ-\angle AED$ is obtuse.
+In $\triangle{A}DE$, $\angle{A}DE=90^\circ$, so the other two angles $\angle{D}AE$ and $\angle{A}ED$ are both acute. The points $B,E,D,C$ lie in order on line $BC$; the direction from $E$ to $B$ is the same as the direction from $E$ to $D$, so $\angle{A}EB=\angle{A}ED$ is acute, while $\angle{A}EC=180^\circ-\angle{A}ED$ is obtuse.
 
-In $\triangle ABE$, $\angle ABE=\angle ABC$ is acute ($\triangle ABC$ is a right triangle), and $\angle BAE$ and $\angle AEB$ are both acute, so $\triangle ABE$ is an acute triangle. In $\triangle AEC$, $\angle AEC$ is obtuse, so $\triangle AEC$ is an obtuse triangle.
+In $\triangle{A}BE$, $\angle{A}BE=\angle{A}BC$ is acute ($\triangle{A}BC$ is a right triangle), and $\angle{B}AE$ and $\angle{A}EB$ are both acute, so $\triangle{A}BE$ is an acute triangle. In $\triangle{A}EC$, $\angle{A}EC$ is obtuse, so $\triangle{A}EC$ is an obtuse triangle.
 
-In summary, the right triangles are $\triangle ABC$, $\triangle ABD$, $\triangle ADE$, $\triangle ADC$; the acute triangle is $\triangle ABE$; the obtuse triangle is $\triangle AEC$. $\blacksquare$
+In summary, the right triangles are $\triangle{A}BC$, $\triangle{A}BD$, $\triangle{A}DE$, $\triangle{A}DC$; the acute triangle is $\triangle{A}BE$; the obtuse triangle is $\triangle{A}EC$. $\blacksquare$
 
 ## Problem 9
 
-(Exercise 13.1, Review and Consolidation, Problem 1) As shown, write the triangles having $\angle A$ as an angle, and write the triangles having $BC$ as a side.
+(Exercise 13.1, Review and Consolidation, Problem 1) As shown, write the triangles having $\angle{A}$ as an angle, and write the triangles having $BC$ as a side.
 
 The figure shows triangle $ABC$ with point $D$ outside the triangle; segment $BD$ intersects $AC$ at point $E$, and segment $DC$ is drawn.
 
 ### Solution to Problem 9
 
-The segments drawn in the left figure are $AB$, $BC$, $CA$, $BD$ (point $E$ is the intersection of $AC$ and $BD$), $DC$. The triangles having $\angle A$ as an angle, i.e. whose vertex contains $A$, are $\triangle ABC$, $\triangle ABE$; the triangles having $BC$ as a side are $\triangle ABC$, $\triangle BEC$, $\triangle BCD$.
+The segments drawn in the left figure are $AB$, $BC$, $CA$, $BD$ (point $E$ is the intersection of $AC$ and $BD$), $DC$. The triangles having $\angle{A}$ as an angle, i.e. whose vertex contains $A$, are $\triangle{A}BC$, $\triangle{A}BE$; the triangles having $BC$ as a side are $\triangle{A}BC$, $\triangle{B}EC$, $\triangle{B}CD$.
 
-Hence the triangles having $\angle A$ as an angle are $\triangle ABC$, $\triangle ABE$; the triangles having $BC$ as a side are $\triangle ABC$, $\triangle BEC$, $\triangle BCD$. $\blacksquare$
+Hence the triangles having $\angle{A}$ as an angle are $\triangle{A}BC$, $\triangle{A}BE$; the triangles having $BC$ as a side are $\triangle{A}BC$, $\triangle{B}EC$, $\triangle{B}CD$. $\blacksquare$
 
 ## Problem 10
 
@@ -460,4 +460,4 @@ The figure shows points $B,D,E,C$ on the same line, with point $A$ off the line;
 
 In the right figure, points $B,D,E,C$ lie on the same line, point $A$ is outside this line, and $AB$, $AD$, $AE$, $AC$ are all drawn. Choosing any two points on line $BC$ together with point $A$ forms a triangle, giving $\binom{4}{2}=6$ in total.
 
-They are $\triangle ABC$, $\triangle ABD$, $\triangle ABE$, $\triangle ADE$, $\triangle ADC$, $\triangle AEC$. Hence there are $6$ triangles in the figure. $\blacksquare$
+They are $\triangle{A}BC$, $\triangle{A}BD$, $\triangle{A}BE$, $\triangle{A}DE$, $\triangle{A}DC$, $\triangle{A}EC$. Hence there are $6$ triangles in the figure. $\blacksquare$

@@ -56,7 +56,7 @@ By **Definition 2.1.4 (Rules for Subtraction of Rational Numbers)**, the tempera
 
 The temperature difference on each day is: Monday $10-2=8$; Tuesday $12-1=11$; Wednesday $11-0=11$; Thursday $9-\left(-1\right)=10$; Friday $7-\left(-4\right)=11$; Saturday $5-\left(-5\right)=10$; Sunday $7-\left(-5\right)=12$.
 
-Comparing, $12> 11> 10> 8$, so Sunday has the largest temperature difference and Monday has the smallest. $\blacksquare$
+Comparing, $12>11>10>8$, so Sunday has the largest temperature difference and Monday has the smallest. $\blacksquare$
 
 ## Problem 2
 
@@ -88,9 +88,9 @@ Hence fill in in turn: $16$; $-3$; $18$; $-12$; $-7$; $7$. $\blacksquare$
 
 (Exercise 2.1, Extension and Exploration, Problem 12) Compute the value of each of the following:
 
-$$\left(-2\right)+\left(-2\right),\ \left(-2\right)+\left(-2\right)+\left(-2\right),\ \left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right),\ \left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right).$$
+$$\left(-2\right)+\left(-2\right),\,\left(-2\right)+\left(-2\right)+\left(-2\right),\,\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right),\,\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right).$$
 
-Guess the value of the following: $\left(-2\right)\times 2$, $\left(-2\right)\times 3$, $\left(-2\right)\times 4$, $\left(-2\right)\times 5$. Can you further guess the rule for multiplying a negative number by a positive number?
+Guess the value of the following: $\left(-2\right)\times2$, $\left(-2\right)\times3$, $\left(-2\right)\times4$, $\left(-2\right)\times5$. Can you further guess the rule for multiplying a negative number by a positive number?
 
 ### Solution to Problem 3
 
@@ -104,19 +104,19 @@ $$\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)=-8;$$
 
 $$\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)=-10.$$
 
-Adding several identical negative numbers is precisely that negative number multiplied by a positive integer, so we conjecture $\left(-2\right)\times 2=-4$, $\left(-2\right)\times 3=-6$, $\left(-2\right)\times 4=-8$, $\left(-2\right)\times 5=-10$. From this one may guess: when a negative number is multiplied by a positive number, the product is negative, and the absolute value of the product equals the product of the absolute values of the two numbers. $\blacksquare$
+Adding several identical negative numbers is precisely that negative number multiplied by a positive integer, so we conjecture $\left(-2\right)\times2=-4$, $\left(-2\right)\times3=-6$, $\left(-2\right)\times4=-8$, $\left(-2\right)\times5=-10$. From this one may guess: when a negative number is multiplied by a positive number, the product is negative, and the absolute value of the product equals the product of the absolute values of the two numbers. $\blacksquare$
 
 ## Problem 4
 
 (Exercise 2.1, Extension and Exploration, Problem 13) A road-maintenance team travels by car to patrol and maintain a north-south highway. One morning they set out from place $A$ and in the evening finally arrive at place $B$. Conventionally, northward is the positive direction, and that day's driving records (unit: $\text{km}$) are:
 
-$$+18,\ -9,\ +7,\ -14,\ -6,\ +13,\ -6,\ -8.$$
+$$+18,\,-9,\,+7,\,-14,\,-6,\,+13,\,-6,\,-8.$$
 
 Assume the car travels in a single direction under each driving record.
 
 (1) In which direction is place $B$ from place $A$? How far apart are they, in kilometers?
 
-(2) If the car consumes on average $a\ \text{L}$ of fuel per $1\ \text{km}$ driven, then how many liters of fuel did the car consume in total that day?
+(2) If the car consumes on average $a\,\text{L}$ of fuel per $1\,\text{km}$ driven, then how many liters of fuel did the car consume in total that day?
 
 ### Solution to Problem 4
 
@@ -126,13 +126,13 @@ By **Definition 2.1.1 (Rules for Addition of Rational Numbers)**.
 
 $$18-9+7-14-6+13-6-8=-5.$$
 
-The result is negative, so place $B$ is south of place $A$, and they are $5\ \text{km}$ apart.
+The result is negative, so place $B$ is south of place $A$, and they are $5\,\text{km}$ apart.
 
 (2) The total distance traveled by the car is the sum of the absolute values of the records:
 
 $$\left|18\right|+\left|-9\right|+\left|7\right|+\left|-14\right|+\left|-6\right|+\left|13\right|+\left|-6\right|+\left|-8\right|=81.$$
 
-Hence the car consumed a total of $81a\ \text{L}$ of fuel that day. $\blacksquare$
+Hence the car consumed a total of $81a\,\text{L}$ of fuel that day. $\blacksquare$
 
 ## Reading and Reflection 1
 
@@ -146,17 +146,17 @@ As can be seen from the material, ancient China was the first to systematically 
 
 (Exercise 2.2, Problem 1) Compute:
 
-(1) $6\times\left(-9\right)$; (2) $\left(-4\right)\times 6$; (3) $\left(-6\right)\times\left(-1\right)$;
+(1) $6\times\left(-9\right)$; (2) $\left(-4\right)\times6$; (3) $\left(-6\right)\times\left(-1\right)$;
 
-(4) $\left(-6\right)\times 0$; (5) $\left(-4\right)\times\frac{1}{4}$; (6) $\frac{2}{3}\times\left(-\frac{9}{4}\right)$.
+(4) $\left(-6\right)\times0$; (5) $\left(-4\right)\times\frac{1}{4}$; (6) $\frac{2}{3}\times\left(-\frac{9}{4}\right)$.
 
 ### Solution to Exercise 1
 
 By **Definition 2.2.1 (Rules for Multiplication of Rational Numbers)**.
 
-(1) $6\times\left(-9\right)=-54$; (2) $\left(-4\right)\times 6=-24$; (3) $\left(-6\right)\times\left(-1\right)=6$;
+(1) $6\times\left(-9\right)=-54$; (2) $\left(-4\right)\times6=-24$; (3) $\left(-6\right)\times\left(-1\right)=6$;
 
-(4) $\left(-6\right)\times 0=0$; (5) $\left(-4\right)\times\frac{1}{4}=-1$; (6) $\frac{2}{3}\times\left(-\frac{9}{4}\right)=-\frac{3}{2}$. $\blacksquare$
+(4) $\left(-6\right)\times0=0$; (5) $\left(-4\right)\times\frac{1}{4}=-1$; (6) $\frac{2}{3}\times\left(-\frac{9}{4}\right)=-\frac{3}{2}$. $\blacksquare$
 
 ## Exercise 2
 
@@ -166,7 +166,7 @@ By **Definition 2.2.1 (Rules for Multiplication of Rational Numbers)**.
 
 By **Definition 2.2.1 (Rules for Multiplication of Rational Numbers)**, the price reduction per item is recorded as $-5$ yuan.
 
-$$\left(-5\right)\times 60=-300.$$
+$$\left(-5\right)\times60=-300.$$
 
 Hence the sales revenue decreases by $300$ yuan. $\blacksquare$
 
@@ -174,7 +174,7 @@ Hence the sales revenue decreases by $300$ yuan. $\blacksquare$
 
 (Exercise 2.2, Problem 3) Write down the reciprocal of each of the following:
 
-$$1,\ -1,\ \frac{1}{3},\ -\frac{1}{3},\ 5,\ -5,\ \frac{2}{3},\ -\frac{2}{3}.$$
+$$1,\,-1,\,\frac{1}{3},\,-\frac{1}{3},\,5,\,-5,\,\frac{2}{3},\,-\frac{2}{3}.$$
 
 ### Solution to Exercise 3
 
@@ -188,9 +188,9 @@ The reciprocal of $1$ is $1$; the reciprocal of $-1$ is $-1$; the reciprocal of 
 
 (1) $\left(-85\right)\times\left(-25\right)\times\left(-4\right)$;
 
-(2) $\left(-\frac{7}{8}\right)\times 15\times\left(-1\frac{1}{7}\right)$;
+(2) $\left(-\frac{7}{8}\right)\times15\times\left(-1\frac{1}{7}\right)$;
 
-(3) $\left(\frac{9}{10}-\frac{1}{15}\right)\times 30$;
+(3) $\left(\frac{9}{10}-\frac{1}{15}\right)\times30$;
 
 (4) $\left(-\frac{6}{5}\right)\times\left(-\frac{2}{3}\right)+\left(-\frac{6}{5}\right)\times\left(+1\frac{3}{5}\right)$.
 
@@ -198,11 +198,11 @@ The reciprocal of $1$ is $1$; the reciprocal of $-1$ is $-1$; the reciprocal of 
 
 By **Definition 2.2.4 (Associative Law of Multiplication)** and **Definition 2.2.5 (Distributive Law)**.
 
-(1) The original expression $=\left(-85\right)\times\left[\left(-25\right)\times\left(-4\right)\right]=\left(-85\right)\times 100=-8500$.
+(1) The original expression $=\left(-85\right)\times\left[\left(-25\right)\times\left(-4\right)\right]=\left(-85\right)\times100=-8500$.
 
-(2) The original expression $=\left(-\frac{7}{8}\right)\times\left(-\frac{8}{7}\right)\times 15=1\times 15=15$.
+(2) The original expression $=\left(-\frac{7}{8}\right)\times\left(-\frac{8}{7}\right)\times15=1\times15=15$.
 
-(3) The original expression $=\frac{9}{10}\times 30-\frac{1}{15}\times 30=27-2=25$.
+(3) The original expression $=\frac{9}{10}\times30-\frac{1}{15}\times30=27-2=25$.
 
 (4) The original expression $=\left(-\frac{6}{5}\right)\times\left(-\frac{2}{3}+1\frac{3}{5}\right)=\left(-\frac{6}{5}\right)\times\frac{14}{15}=-\frac{28}{25}$. $\blacksquare$
 
@@ -212,7 +212,7 @@ By **Definition 2.2.4 (Associative Law of Multiplication)** and **Definition 2.2
 
 (1) $\left(-\frac{5}{12}\right)\times\frac{8}{15}\times\frac{1}{2}\times\left(-\frac{2}{3}\right)$;
 
-(2) $\left(-1\right)\times\left(-\frac{5}{4}\right)\times\frac{8}{15}\times\frac{3}{2}\times\left(-\frac{2}{3}\right)\times 0\times\left(-1\right)$.
+(2) $\left(-1\right)\times\left(-\frac{5}{4}\right)\times\frac{8}{15}\times\frac{3}{2}\times\left(-\frac{2}{3}\right)\times0\times\left(-1\right)$.
 
 ### Solution to Exercise 5
 
@@ -226,17 +226,17 @@ By **Definition 2.2.6 (Sign Rules for Multiplying Several Rational Numbers)**.
 
 (Exercise 2.2, Problem 1) Compute:
 
-(1) $\left(-18\right)\div 6$; (2) $\left(-63\right)\div\left(-7\right)$; (3) $1\div\left(-9\right)$;
+(1) $\left(-18\right)\div6$; (2) $\left(-63\right)\div\left(-7\right)$; (3) $1\div\left(-9\right)$;
 
-(4) $0\div\left(-8\right)$; (5) $\left(-6.5\right)\div 0.13$; (6) $\left(-\frac{6}{5}\right)\div\left(-\frac{2}{5}\right)$.
+(4) $0\div\left(-8\right)$; (5) $\left(-6.5\right)\div0.13$; (6) $\left(-\frac{6}{5}\right)\div\left(-\frac{2}{5}\right)$.
 
 ### Solution to Exercise 6
 
 By **Definition 2.2.7 (Rules for Division of Rational Numbers)**.
 
-(1) $\left(-18\right)\div 6=-3$; (2) $\left(-63\right)\div\left(-7\right)=9$; (3) $1\div\left(-9\right)=-\frac{1}{9}$;
+(1) $\left(-18\right)\div6=-3$; (2) $\left(-63\right)\div\left(-7\right)=9$; (3) $1\div\left(-9\right)=-\frac{1}{9}$;
 
-(4) $0\div\left(-8\right)=0$; (5) $\left(-6.5\right)\div 0.13=-50$; (6) $\left(-\frac{6}{5}\right)\div\left(-\frac{2}{5}\right)=3$. $\blacksquare$
+(4) $0\div\left(-8\right)=0$; (5) $\left(-6.5\right)\div0.13=-50$; (6) $\left(-\frac{6}{5}\right)\div\left(-\frac{2}{5}\right)=3$. $\blacksquare$
 
 ## Exercise 7
 
@@ -256,7 +256,7 @@ By **Definition 2.2.7 (Rules for Division of Rational Numbers)**, a fraction bar
 
 (1) $15\div\left(-6\right)$;
 
-(2) $\left(-36\frac{9}{11}\right)\div 9$;
+(2) $\left(-36\frac{9}{11}\right)\div9$;
 
 (3) $\left(-12\right)\div\left(-4\right)\div\left(-1\frac{1}{5}\right)$;
 
@@ -268,7 +268,7 @@ By **Definition 2.2.7 (Rules for Division of Rational Numbers)**.
 
 (1) $15\div\left(-6\right)=-\frac{5}{2}$.
 
-(2) The original expression $=\left(-36\right)\div 9-\frac{9}{11}\div 9=-4-\frac{1}{11}=-\frac{45}{11}$.
+(2) The original expression $=\left(-36\right)\div9-\frac{9}{11}\div9=-4-\frac{1}{11}=-\frac{45}{11}$.
 
 (3) The original expression $=3\div\left(-\frac{6}{5}\right)=3\times\left(-\frac{5}{6}\right)=-\frac{5}{2}$.
 
@@ -280,9 +280,9 @@ By **Definition 2.2.7 (Rules for Division of Rational Numbers)**.
 
 (1) $6-\left(-12\right)\div\left(-3\right)$;
 
-(2) $3\times\left(-4\right)+\left(-28\right)\div 7$;
+(2) $3\times\left(-4\right)+\left(-28\right)\div7$;
 
-(3) $\left(-48\right)\div 8-\left(-25\right)\times\left(-6\right)$;
+(3) $\left(-48\right)\div8-\left(-25\right)\times\left(-6\right)$;
 
 (4) $42\times\left(-\frac{2}{3}\right)+\left(-\frac{3}{4}\right)\div\left(-0.5\right)$.
 
@@ -304,7 +304,7 @@ By **Definition 2.2.7 (Rules for Division of Rational Numbers)** and **Definitio
 
 (1) $\left(-8\right)\times\left(-7\right)$; (2) $12\times\left(-5\right)$; (3) $2.9\times\left(-0.4\right)$;
 
-(4) $\left(-30.5\right)\times 0.2$; (5) $100\times\left(-0.001\right)$; (6) $\left(-4.8\right)\times\left(-1.25\right)$.
+(4) $\left(-30.5\right)\times0.2$; (5) $100\times\left(-0.001\right)$; (6) $\left(-4.8\right)\times\left(-1.25\right)$.
 
 ### Solution to Problem 5
 
@@ -318,7 +318,7 @@ By **Definition 2.2.1 (Rules for Multiplication of Rational Numbers)**.
 
 (1) $14\times\left(-\frac{8}{9}\right)$; (2) $\left(-\frac{5}{6}\right)\times\left(-\frac{3}{10}\right)$;
 
-(3) $\left(-3\frac{4}{15}\right)\times 25$; (4) $\left(-0.3\right)\times\left(-\frac{10}{7}\right)$.
+(3) $\left(-3\frac{4}{15}\right)\times25$; (4) $\left(-0.3\right)\times\left(-\frac{10}{7}\right)$.
 
 ### Solution to Problem 6
 
@@ -342,11 +342,11 @@ By **Definition 2.2.2 (Reciprocal)**.
 
 (Exercise 2.2, Review and Consolidation, Problem 4) Compute:
 
-(1) $\left(-8\frac{2}{5}\right)\times 1.25\times\left(-8\right)$;
+(1) $\left(-8\frac{2}{5}\right)\times1.25\times\left(-8\right)$;
 
 (2) $\left(-10\right)\times\left(-8.24\right)\times\left(-0.1\right)$;
 
-(3) $\left(\frac{7}{9}-\frac{5}{6}+\frac{3}{4}-\frac{7}{18}\right)\times 36$;
+(3) $\left(\frac{7}{9}-\frac{5}{6}+\frac{3}{4}-\frac{7}{18}\right)\times36$;
 
 (4) $-\frac{3}{4}\times\left(8-1\frac{1}{3}-0.04\right)$.
 
@@ -366,9 +366,9 @@ By **Definition 2.2.5 (Distributive Law)** and **Definition 2.2.4 (Associative L
 
 (Exercise 2.2, Review and Consolidation, Problem 5) Compute:
 
-(1) $\left(-2\right)\times 3\times\left(-4\right)$; (2) $\left(-6\right)\times\left(-5\right)\times\left(-7\right)$;
+(1) $\left(-2\right)\times3\times\left(-4\right)$; (2) $\left(-6\right)\times\left(-5\right)\times\left(-7\right)$;
 
-(3) $\left(-6\right)\times\left(-0.25\right)\times\frac{11}{14}$; (4) $\left(-17\right)\times\left(-49\right)\times 0\times 13$.
+(3) $\left(-6\right)\times\left(-0.25\right)\times\frac{11}{14}$; (4) $\left(-17\right)\times\left(-49\right)\times0\times13$.
 
 ### Solution to Problem 9
 
@@ -380,7 +380,7 @@ By **Definition 2.2.6 (Sign Rules for Multiplying Several Rational Numbers)**.
 
 (Exercise 2.2, Review and Consolidation, Problem 6) Compute:
 
-(1) $16\div\left(-3\right)$; (2) $\left(-91\right)\div 13$; (3) $\left(-56\right)\div\left(-14\right)$;
+(1) $16\div\left(-3\right)$; (2) $\left(-91\right)\div13$; (3) $\left(-56\right)\div\left(-14\right)$;
 
 (4) $\frac{4}{5}\div\left(-1\right)$; (5) $\left(-16\right)\div\left(-48\right)$; (6) $\left(-0.25\right)\div\frac{3}{8}$.
 
@@ -424,9 +424,9 @@ By **Definition 2.2.7 (Rules for Division of Rational Numbers)**.
 
 (2) $\left(-\frac{3}{4}\right)\times\left(-1\frac{1}{2}\right)\div\left(-2\frac{1}{4}\right)$;
 
-(3) $\left(-7\right)\times\left(-\frac{5}{6}\right)\times 0\div\left(-\frac{1}{3}\right)$;
+(3) $\left(-7\right)\times\left(-\frac{5}{6}\right)\times0\div\left(-\frac{1}{3}\right)$;
 
-(4) $\left(-9\right)\times\left(-11\right)\div 3\div\left(-3\right)$.
+(4) $\left(-9\right)\times\left(-11\right)\div3\div\left(-3\right)$.
 
 ### Solution to Problem 13
 
@@ -438,7 +438,7 @@ By **Definition 2.2.7 (Rules for Division of Rational Numbers)**.
 
 (3) Contains the factor $0$, so the original expression $=0$.
 
-(4) The original expression $=99\div 3\div\left(-3\right)=33\div\left(-3\right)=-11$. $\blacksquare$
+(4) The original expression $=99\div3\div\left(-3\right)=33\div\left(-3\right)=-11$. $\blacksquare$
 
 ## Problem 14
 
@@ -458,7 +458,7 @@ By **Definition 2.2.7 (Rules for Division of Rational Numbers)** and **Definitio
 
 (2) The original expression $=-10.5+31.2=20.7$.
 
-(3) Let $A=1\frac{3}{4}-\frac{7}{8}-\frac{7}{12}=\frac{7}{4}-\frac{7}{8}-\frac{7}{12}=\frac{7}{24}$. Then $A\div\left(-\frac{7}{8}\right)=\frac{7}{24}\times\left(-\frac{8}{7}\right)=-\frac{1}{3}$, and $\left(-\frac{7}{8}\right)\div A=\left(-\frac{7}{8}\right)\times\frac{24}{7}=-3$. Hence the original expression $=-\frac{1}{3}+\left(-3\right)=-\frac{10}{3}$. $\blacksquare$
+(3) Let $A=1\frac{3}{4}-\frac{7}{8}-\frac{7}{12}=\frac{7}{4}-\frac{7}{8}-\frac{7}{12}=\frac{7}{24}$. Then $A\div\left(-\frac{7}{8}\right)=\frac{7}{24}\times\left(-\frac{8}{7}\right)=-\frac{1}{3}$, and $\left(-\frac{7}{8}\right)\div{A}=\left(-\frac{7}{8}\right)\times\frac{24}{7}=-3$. Hence the original expression $=-\frac{1}{3}+\left(-3\right)=-\frac{10}{3}$. $\blacksquare$
 
 ## Problem 15
 
@@ -474,8 +474,8 @@ By **Definition 2.2.7 (Rules for Division of Rational Numbers)** and **Definitio
 
 By **Definition 2.2.1 (Rules for Multiplication of Rational Numbers)** and **Definition 2.2.7 (Rules for Division of Rational Numbers)**.
 
-(1) $250\times 30=7500$, fill in $7500$.
+(1) $250\times30=7500$, fill in $7500$.
 
-(2) $1400\div 7=200$, fill in $200$.
+(2) $1400\div7=200$, fill in $200$.
 
-(3) Loss is recorded as negative, $\left(-840\right)\div 7=-120$, fill in $-120$. $\blacksquare$
+(3) Loss is recorded as negative, $\left(-840\right)\div7=-120$, fill in $-120$. $\blacksquare$

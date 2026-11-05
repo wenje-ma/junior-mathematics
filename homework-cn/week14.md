@@ -70,71 +70,71 @@
 
 ## 练习一
 
-(练习 6.3 第 1 题) 如图, $\angle AOC=40^{\circ}$, $\angle COE=25^{\circ}$, $OD$ 是 $\angle AOB$ 的平分线, 求 $\angle DOB$ 的度数.
+(练习 6.3 第 1 题) 如图, $\angle{A}OC=40^{\circ}$, $\angle{C}OE=25^{\circ}$, $OD$ 是 $\angle{A}OB$ 的平分线, 求 $\angle{D}OB$ 的度数.
 
 ### 解答 练习一
 
 由**定义 6.3.3 (角的比较与运算)** 和**定义 6.3.4 (角平分线)**.
 
-$$\angle AOE=\angle AOC+\angle COE=40^{\circ}+25^{\circ}=65^{\circ}.$$
+$$\angle{A}OE=\angle{A}OC+\angle{C}OE=40^{\circ}+25^{\circ}=65^{\circ}.$$
 
-若 $\angle AOB=\angle AOE=65^{\circ}$, $OD$ 平分 $\angle AOB$, 则
+若 $\angle{A}OB=\angle{A}OE=65^{\circ}$, $OD$ 平分 $\angle{A}OB$, 则
 
-$$\angle DOB=\frac{1}{2}\angle AOB=\frac{1}{2}\times65^{\circ}=32.5^{\circ}.$$
+$$\angle{D}OB=\frac{1}{2}\angle{A}OB=\frac{1}{2}\times65^{\circ}=32.5^{\circ}.$$
 
 $\blacksquare$
 
 ## 练习二
 
-(练习 6.3 第 2 题) 如图, $OC$ 是 $\angle AOB$ 的平分线, $OD$ 是 $\angle BOC$ 的平分线, 若 $\angle AOB=120^{\circ}$, 求 $\angle AOD$ 的度数.
+(练习 6.3 第 2 题) 如图, $OC$ 是 $\angle{A}OB$ 的平分线, $OD$ 是 $\angle{B}OC$ 的平分线, 若 $\angle{A}OB=120^{\circ}$, 求 $\angle{A}OD$ 的度数.
 
 ### 解答 练习二
 
 由**定义 6.3.4 (角平分线)**.
 
-$OC$ 平分 $\angle AOB$, 故 $\angle BOC=\frac{1}{2}\angle AOB=60^{\circ}$.
+$OC$ 平分 $\angle{A}OB$, 故 $\angle{B}OC=\frac{1}{2}\angle{A}OB=60^{\circ}$.
 
-$OD$ 平分 $\angle BOC$, 故 $\angle COD=\frac{1}{2}\angle BOC=30^{\circ}$.
+$OD$ 平分 $\angle{B}OC$, 故 $\angle{C}OD=\frac{1}{2}\angle{B}OC=30^{\circ}$.
 
-$$\angle AOD=\angle AOC+\angle COD=60^{\circ}+30^{\circ}=90^{\circ}.$$
+$$\angle{A}OD=\angle{A}OC+\angle{C}OD=60^{\circ}+30^{\circ}=90^{\circ}.$$
 
-图中以 $O$ 为顶点, 射线 $OA$, $OB$ 构成 $\angle AOB=120^\circ$, 射线 $OC$ 在角内平分 $\angle AOB$, 射线 $OD$ 在角内平分 $\angle BOC$.
+图中以 $O$ 为顶点, 射线 $OA$, $OB$ 构成 $\angle{A}OB=120^\circ$, 射线 $OC$ 在角内平分 $\angle{A}OB$, 射线 $OD$ 在角内平分 $\angle{B}OC$.
 
 $\blacksquare$
 
 ## 练习三
 
-(练习 6.3 第 3 题) 如图, 已知 $\angle AOB=60^{\circ}$, $\angle BOC=40^{\circ}$, $OM$ 平分 $\angle AOC$, $ON$ 平分 $\angle BOC$, 求 $\angle MON$ 的度数.
+(练习 6.3 第 3 题) 如图, 已知 $\angle{A}OB=60^{\circ}$, $\angle{B}OC=40^{\circ}$, $OM$ 平分 $\angle{A}OC$, $ON$ 平分 $\angle{B}OC$, 求 $\angle{M}ON$ 的度数.
 
 ### 解答 练习三
 
 由**定义 6.3.4 (角平分线)**.
 
-$$\angle AOC=\angle AOB+\angle BOC=60^{\circ}+40^{\circ}=100^{\circ}.$$
+$$\angle{A}OC=\angle{A}OB+\angle{B}OC=60^{\circ}+40^{\circ}=100^{\circ}.$$
 
-$OM$ 平分 $\angle AOC$, 故 $\angle MOC=\frac{1}{2}\angle AOC=50^{\circ}$.
+$OM$ 平分 $\angle{A}OC$, 故 $\angle{M}OC=\frac{1}{2}\angle{A}OC=50^{\circ}$.
 
-$ON$ 平分 $\angle BOC$, 故 $\angle NOC=\frac{1}{2}\angle BOC=20^{\circ}$.
+$ON$ 平分 $\angle{B}OC$, 故 $\angle{N}OC=\frac{1}{2}\angle{B}OC=20^{\circ}$.
 
-$$\angle MON=\angle MOC-\angle NOC=50^{\circ}-20^{\circ}=30^{\circ}.$$
+$$\angle{M}ON=\angle{M}OC-\angle{N}OC=50^{\circ}-20^{\circ}=30^{\circ}.$$
 
 $\blacksquare$
 
 ## 练习四
 
-(练习 6.3 第 1 题) 如图, 两块三角板的直角顶点重合于点 $O$, 求 $\angle AOD+\angle BOC$ 的度数.
+(练习 6.3 第 1 题) 如图, 两块三角板的直角顶点重合于点 $O$, 求 $\angle{A}OD+\angle{B}OC$ 的度数.
 
 ### 解答 练习四
 
 由**定义 6.3.3 (角的比较与运算)** 和**定义 6.3.5 (余角)**.
 
-两块三角板的直角顶点重合, 即 $\angle AOB=\angle COD=90^{\circ}$.
+两块三角板的直角顶点重合, 即 $\angle{A}OB=\angle{C}OD=90^{\circ}$.
 
-$$\angle AOD=\angle AOB+\angle BOD=90^{\circ}+\angle BOD.$$
+$$\angle{A}OD=\angle{A}OB+\angle{B}OD=90^{\circ}+\angle{B}OD.$$
 
-$$\angle BOC=\angle COD-\angle BOD=90^{\circ}-\angle BOD.$$
+$$\angle{B}OC=\angle{C}OD-\angle{B}OD=90^{\circ}-\angle{B}OD.$$
 
-$$\angle AOD+\angle BOC=\left(90^{\circ}+\angle BOD\right)+\left(90^{\circ}-\angle BOD\right)=180^{\circ}.$$
+$$\angle{A}OD+\angle{B}OC=\left(90^{\circ}+\angle{B}OD\right)+\left(90^{\circ}-\angle{B}OD\right)=180^{\circ}.$$
 
 $\blacksquare$
 
@@ -154,19 +154,19 @@ $$90-x=\frac{1}{3}\left(180-x\right)-20.$$
 
 ## 练习六
 
-(练习 6.3 第 3 题) 如图, 点 $O$ 在直线 $AB$ 上, $OD$ 平分 $\angle AOC$, $OE$ 平分 $\angle BOC$, 求 $\angle DOE$ 的度数.
+(练习 6.3 第 3 题) 如图, 点 $O$ 在直线 $AB$ 上, $OD$ 平分 $\angle{A}OC$, $OE$ 平分 $\angle{B}OC$, 求 $\angle{D}OE$ 的度数.
 
 ### 解答 练习六
 
 由**定义 6.3.4 (角平分线)** 和**定义 6.3.6 (补角)**.
 
-$O$ 在直线 $AB$ 上, 故 $\angle AOC+\angle BOC=180^{\circ}$.
+$O$ 在直线 $AB$ 上, 故 $\angle{A}OC+\angle{B}OC=180^{\circ}$.
 
-$OD$ 平分 $\angle AOC$, 故 $\angle DOC=\frac{1}{2}\angle AOC$.
+$OD$ 平分 $\angle{A}OC$, 故 $\angle{D}OC=\frac{1}{2}\angle{A}OC$.
 
-$OE$ 平分 $\angle BOC$, 故 $\angle COE=\frac{1}{2}\angle BOC$.
+$OE$ 平分 $\angle{B}OC$, 故 $\angle{C}OE=\frac{1}{2}\angle{B}OC$.
 
-$$\angle DOE=\angle DOC+\angle COE=\frac{1}{2}\left(\angle AOC+\angle BOC\right)=\frac{1}{2}\times180^{\circ}=90^{\circ}.$$
+$$\angle{D}OE=\angle{D}OC+\angle{C}OE=\frac{1}{2}\left(\angle{A}OC+\angle{B}OC\right)=\frac{1}{2}\times180^{\circ}=90^{\circ}.$$
 
 $\blacksquare$
 
@@ -242,39 +242,39 @@ $$180-x=4\left(90-x\right).$$
 
 ## 习题五
 
-(习题 6.3 复习巩固第 5 题) 如果 $\angle 1=\angle 2$, $\angle 2=\angle 3$, 那么 $\angle 1$ 与 $\angle 3$ 有什么关系?
+(习题 6.3 复习巩固第 5 题) 如果 $\angle1=\angle2$, $\angle2=\angle3$, 那么 $\angle1$ 与 $\angle3$ 有什么关系?
 
 ### 解答 习题五
 
 由**定义 6.3.7 (余角和补角的性质)** 的类比, 等量代换.
 
-因 $\angle 1=\angle 2$, $\angle 2=\angle 3$, 由等量代换得 $\angle 1=\angle 3$. $\blacksquare$
+因 $\angle1=\angle2$, $\angle2=\angle3$, 由等量代换得 $\angle1=\angle3$. $\blacksquare$
 
 ## 习题六
 
-(习题 6.3 复习巩固第 6 题) 如图, $\angle AOB=\angle COD=90^{\circ}$, $\angle AOD=146^{\circ}$, 求 $\angle BOC$ 的度数.
+(习题 6.3 复习巩固第 6 题) 如图, $\angle{A}OB=\angle{C}OD=90^{\circ}$, $\angle{A}OD=146^{\circ}$, 求 $\angle{B}OC$ 的度数.
 
 ### 解答 习题六
 
 由**定义 6.3.3 (角的比较与运算)**.
 
-$$\angle AOC=\angle AOD-\angle COD=146^{\circ}-90^{\circ}=56^{\circ}.$$
+$$\angle{A}OC=\angle{A}OD-\angle{C}OD=146^{\circ}-90^{\circ}=56^{\circ}.$$
 
-$$\angle BOC=\angle AOB-\angle AOC=90^{\circ}-56^{\circ}=34^{\circ}.$$
+$$\angle{B}OC=\angle{A}OB-\angle{A}OC=90^{\circ}-56^{\circ}=34^{\circ}.$$
 
 $\blacksquare$
 
 ## 习题七
 
-(习题 6.3 复习巩固第 7 题) 已知 $\angle A=50^{\circ}$, 求 $\angle A$ 的余角和补角.
+(习题 6.3 复习巩固第 7 题) 已知 $\angle{A}=50^{\circ}$, 求 $\angle{A}$ 的余角和补角.
 
 ### 解答 习题七
 
 由**定义 6.3.5 (余角)** 和**定义 6.3.6 (补角)**.
 
-$\angle A$ 的余角 $=90^{\circ}-50^{\circ}=40^{\circ}$.
+$\angle{A}$ 的余角 $=90^{\circ}-50^{\circ}=40^{\circ}$.
 
-$\angle A$ 的补角 $=180^{\circ}-50^{\circ}=130^{\circ}$. $\blacksquare$
+$\angle{A}$ 的补角 $=180^{\circ}-50^{\circ}=130^{\circ}$. $\blacksquare$
 
 ## 习题八
 
@@ -300,115 +300,115 @@ $$180-x=3\left(90-x\right).$$
 
 ## 习题十
 
-(习题 6.3 综合运用第 10 题) 如图, $OB$ 是 $\angle AOC$ 的平分线, $OD$ 是 $\angle COE$ 的平分线.
+(习题 6.3 综合运用第 10 题) 如图, $OB$ 是 $\angle{A}OC$ 的平分线, $OD$ 是 $\angle{C}OE$ 的平分线.
 
-(1) 如果 $\angle AOB=40^{\circ}$, $\angle DOE=30^{\circ}$, 求 $\angle BOD$ 的度数;
+(1) 如果 $\angle{A}OB=40^{\circ}$, $\angle{D}OE=30^{\circ}$, 求 $\angle{B}OD$ 的度数;
 
-(2) 如果 $\angle AOE=140^{\circ}$, $\angle COD=30^{\circ}$, 求 $\angle AOB$ 的度数.
+(2) 如果 $\angle{A}OE=140^{\circ}$, $\angle{C}OD=30^{\circ}$, 求 $\angle{A}OB$ 的度数.
 
 ### 解答 习题十
 
 由**定义 6.3.4 (角平分线)**.
 
-(1) $OB$ 平分 $\angle AOC$, 故 $\angle BOC=\angle AOB=40^{\circ}$. $OD$ 平分 $\angle COE$, 故 $\angle COD=\angle DOE=30^{\circ}$.
+(1) $OB$ 平分 $\angle{A}OC$, 故 $\angle{B}OC=\angle{A}OB=40^{\circ}$. $OD$ 平分 $\angle{C}OE$, 故 $\angle{C}OD=\angle{D}OE=30^{\circ}$.
 
-$$\angle BOD=\angle BOC+\angle COD=40^{\circ}+30^{\circ}=70^{\circ}.$$
+$$\angle{B}OD=\angle{B}OC+\angle{C}OD=40^{\circ}+30^{\circ}=70^{\circ}.$$
 
-(2) $OD$ 平分 $\angle COE$, 故 $\angle COE=2\angle COD=60^{\circ}$.
+(2) $OD$ 平分 $\angle{C}OE$, 故 $\angle{C}OE=2\angle{C}OD=60^{\circ}$.
 
-$$\angle AOC=\angle AOE-\angle COE=140^{\circ}-60^{\circ}=80^{\circ}.$$
+$$\angle{A}OC=\angle{A}OE-\angle{C}OE=140^{\circ}-60^{\circ}=80^{\circ}.$$
 
-$OB$ 平分 $\angle AOC$, 故 $\angle AOB=\frac{1}{2}\angle AOC=40^{\circ}$. $\blacksquare$
+$OB$ 平分 $\angle{A}OC$, 故 $\angle{A}OB=\frac{1}{2}\angle{A}OC=40^{\circ}$. $\blacksquare$
 
 ## 习题十一
 
-(习题 6.3 综合运用第 11 题) 如图, 已知 $\angle AOB=90^{\circ}$, $\angle BOC=60^{\circ}$, $OM$ 平分 $\angle AOC$, $ON$ 平分 $\angle BOC$.
+(习题 6.3 综合运用第 11 题) 如图, 已知 $\angle{A}OB=90^{\circ}$, $\angle{B}OC=60^{\circ}$, $OM$ 平分 $\angle{A}OC$, $ON$ 平分 $\angle{B}OC$.
 
-(1) 求 $\angle MON$ 的度数;
+(1) 求 $\angle{M}ON$ 的度数;
 
-(2) 若 $\angle AOB=\alpha$, 其他条件不变, 求 $\angle MON$ 的度数.
+(2) 若 $\angle{A}OB=\alpha$, 其他条件不变, 求 $\angle{M}ON$ 的度数.
 
 ### 解答 习题十一
 
 由**定义 6.3.4 (角平分线)**.
 
-(1) $\angle AOC=\angle AOB+\angle BOC=90^{\circ}+60^{\circ}=150^{\circ}$.
+(1) $\angle{A}OC=\angle{A}OB+\angle{B}OC=90^{\circ}+60^{\circ}=150^{\circ}$.
 
-$OM$ 平分 $\angle AOC$, 故 $\angle MOC=\frac{1}{2}\angle AOC=75^{\circ}$.
+$OM$ 平分 $\angle{A}OC$, 故 $\angle{M}OC=\frac{1}{2}\angle{A}OC=75^{\circ}$.
 
-$ON$ 平分 $\angle BOC$, 故 $\angle NOC=\frac{1}{2}\angle BOC=30^{\circ}$.
+$ON$ 平分 $\angle{B}OC$, 故 $\angle{N}OC=\frac{1}{2}\angle{B}OC=30^{\circ}$.
 
-$$\angle MON=\angle MOC-\angle NOC=75^{\circ}-30^{\circ}=45^{\circ}.$$
+$$\angle{M}ON=\angle{M}OC-\angle{N}OC=75^{\circ}-30^{\circ}=45^{\circ}.$$
 
-(2) 若 $\angle AOB=\alpha$, 则 $\angle AOC=\alpha+60^{\circ}$.
+(2) 若 $\angle{A}OB=\alpha$, 则 $\angle{A}OC=\alpha+60^{\circ}$.
 
-$$\angle MOC=\frac{1}{2}\left(\alpha+60^{\circ}\right),\quad \angle NOC=\frac{1}{2}\times60^{\circ}=30^{\circ}.$$
+$$\angle{M}OC=\frac{1}{2}\left(\alpha+60^{\circ}\right),\quad\angle{N}OC=\frac{1}{2}\times60^{\circ}=30^{\circ}.$$
 
-$$\angle MON=\frac{1}{2}\left(\alpha+60^{\circ}\right)-30^{\circ}=\frac{\alpha}{2}.$$
+$$\angle{M}ON=\frac{1}{2}\left(\alpha+60^{\circ}\right)-30^{\circ}=\frac{\alpha}{2}.$$
 
 $\blacksquare$
 
 ## 习题十二
 
-(习题 6.3 综合运用第 12 题) 如图, $\angle AOB$ 是平角, $OD$, $OC$, $OE$ 是三条射线, $OD$ 平分 $\angle AOC$, $OE$ 平分 $\angle BOC$, 求 $\angle DOE$ 的度数.
+(习题 6.3 综合运用第 12 题) 如图, $\angle{A}OB$ 是平角, $OD$, $OC$, $OE$ 是三条射线, $OD$ 平分 $\angle{A}OC$, $OE$ 平分 $\angle{B}OC$, 求 $\angle{D}OE$ 的度数.
 
 ### 解答 习题十二
 
 由**定义 6.3.4 (角平分线)** 和**定义 6.3.6 (补角)**.
 
-$\angle AOB=180^{\circ}$, 故 $\angle AOC+\angle BOC=180^{\circ}$.
+$\angle{A}OB=180^{\circ}$, 故 $\angle{A}OC+\angle{B}OC=180^{\circ}$.
 
-$OD$ 平分 $\angle AOC$, $OE$ 平分 $\angle BOC$.
+$OD$ 平分 $\angle{A}OC$, $OE$ 平分 $\angle{B}OC$.
 
-$$\angle DOE=\angle DOC+\angle COE=\frac{1}{2}\angle AOC+\frac{1}{2}\angle BOC=\frac{1}{2}\times180^{\circ}=90^{\circ}.$$
+$$\angle{D}OE=\angle{D}OC+\angle{C}OE=\frac{1}{2}\angle{A}OC+\frac{1}{2}\angle{B}OC=\frac{1}{2}\times180^{\circ}=90^{\circ}.$$
 
 $\blacksquare$
 
 ## 习题十三
 
-(习题 6.3 综合运用第 13 题) 已知 $\angle 1$ 是 $\angle 2$ 的补角, $\angle 1$ 又是 $\angle 3$ 的余角. 若 $\angle 2=110^{\circ}$, 求 $\angle 3$ 的度数.
+(习题 6.3 综合运用第 13 题) 已知 $\angle1$ 是 $\angle2$ 的补角, $\angle1$ 又是 $\angle3$ 的余角. 若 $\angle2=110^{\circ}$, 求 $\angle3$ 的度数.
 
 ### 解答 习题十三
 
 由**定义 6.3.5 (余角)** 和**定义 6.3.6 (补角)**.
 
-$\angle 1$ 是 $\angle 2$ 的补角: $\angle 1=180^{\circ}-\angle 2=180^{\circ}-110^{\circ}=70^{\circ}$.
+$\angle1$ 是 $\angle2$ 的补角: $\angle1=180^{\circ}-\angle2=180^{\circ}-110^{\circ}=70^{\circ}$.
 
-$\angle 1$ 是 $\angle 3$ 的余角: $\angle 1+\angle 3=90^{\circ}$, 故 $\angle 3=90^{\circ}-70^{\circ}=20^{\circ}$. $\blacksquare$
+$\angle1$ 是 $\angle3$ 的余角: $\angle1+\angle3=90^{\circ}$, 故 $\angle3=90^{\circ}-70^{\circ}=20^{\circ}$. $\blacksquare$
 
 ## 习题十四
 
-(习题 6.3 综合运用第 14 题) 如图, 已知 $\angle AOB=120^{\circ}$, 以 $O$ 为顶点, $OB$ 为一边, 画 $\angle BOC=30^{\circ}$, 求 $\angle AOC$ 的度数.
+(习题 6.3 综合运用第 14 题) 如图, 已知 $\angle{A}OB=120^{\circ}$, 以 $O$ 为顶点, $OB$ 为一边, 画 $\angle{B}OC=30^{\circ}$, 求 $\angle{A}OC$ 的度数.
 
 ### 解答 习题十四
 
-由**定义 6.3.3 (角的比较与运算)**, $OC$ 可能在 $\angle AOB$ 内部, 也可能在外部.
+由**定义 6.3.3 (角的比较与运算)**, $OC$ 可能在 $\angle{A}OB$ 内部, 也可能在外部.
 
-若 $OC$ 在 $\angle AOB$ 内部: $\angle AOC=\angle AOB-\angle BOC=120^{\circ}-30^{\circ}=90^{\circ}$.
+若 $OC$ 在 $\angle{A}OB$ 内部: $\angle{A}OC=\angle{A}OB-\angle{B}OC=120^{\circ}-30^{\circ}=90^{\circ}$.
 
-若 $OC$ 在 $\angle AOB$ 外部: $\angle AOC=\angle AOB+\angle BOC=120^{\circ}+30^{\circ}=150^{\circ}$.
+若 $OC$ 在 $\angle{A}OB$ 外部: $\angle{A}OC=\angle{A}OB+\angle{B}OC=120^{\circ}+30^{\circ}=150^{\circ}$.
 
-图示两种情形:左图射线 $OC$ 在 $\angle AOB$ 内部且 $\angle BOC=30^\circ$, 此时 $\angle AOC=90^\circ$; 右图射线 $OC$ 在 $\angle AOB$ 外部且 $\angle BOC=30^\circ$, 此时 $\angle AOC=150^\circ$.
+图示两种情形:左图射线 $OC$ 在 $\angle{A}OB$ 内部且 $\angle{B}OC=30^\circ$, 此时 $\angle{A}OC=90^\circ$; 右图射线 $OC$ 在 $\angle{A}OB$ 外部且 $\angle{B}OC=30^\circ$, 此时 $\angle{A}OC=150^\circ$.
 
-故 $\angle AOC=90^{\circ}$ 或 $150^{\circ}$. $\blacksquare$
+故 $\angle{A}OC=90^{\circ}$ 或 $150^{\circ}$. $\blacksquare$
 
 ## 习题十五
 
-(习题 6.3 拓广探索第 15 题) 如图, 从点 $O$ 引出 $6$ 条射线 $OA$, $OB$, $OC$, $OD$, $OE$, $OF$, 且 $\angle AOB=100^{\circ}$, $\angle FOD=40^{\circ}$, $\angle EOF=30^{\circ}$, $OG$ 平分 $\angle COE$, $\angle COG=30^{\circ}$. 求 $\angle BOC$ 的度数.
+(习题 6.3 拓广探索第 15 题) 如图, 从点 $O$ 引出 $6$ 条射线 $OA$, $OB$, $OC$, $OD$, $OE$, $OF$, 且 $\angle{A}OB=100^{\circ}$, $\angle{F}OD=40^{\circ}$, $\angle{E}OF=30^{\circ}$, $OG$ 平分 $\angle{C}OE$, $\angle{C}OG=30^{\circ}$. 求 $\angle{B}OC$ 的度数.
 
 ### 解答 习题十五
 
 由**定义 6.3.3 (角的比较与运算)** 和**定义 6.3.4 (角平分线)**.
 
-由**定义 6.3.2 (角的度量)**, 图 (1) 为三角形 $ABC$ 的三个外角 $\angle 1$, $\angle 2$, $\angle 3$; 图 (2) 为四边形的四个外角 $\angle 1$, $\angle 2$, $\angle 3$, $\angle 4$.
+由**定义 6.3.2 (角的度量)**, 图 (1) 为三角形 $ABC$ 的三个外角 $\angle1$, $\angle2$, $\angle3$; 图 (2) 为四边形的四个外角 $\angle1$, $\angle2$, $\angle3$, $\angle4$.
 
 (1) 三角形每个外角与相邻内角互补. 三个外角之和 $=3\times180^{\circ}-$ 三内角之和 $=540^{\circ}-180^{\circ}=360^{\circ}$. 即
 
-$$\angle 1+\angle 2+\angle 3=360^{\circ}.$$
+$$\angle1+\angle2+\angle3=360^{\circ}.$$
 
 (2) 四边形每个外角与相邻内角互补. 四个外角之和 $=4\times180^{\circ}-$ 四内角之和 $=720^{\circ}-360^{\circ}=360^{\circ}$. 即
 
-$$\angle 1+\angle 2+\angle 3+\angle 4=360^{\circ}.$$
+$$\angle1+\angle2+\angle3+\angle4=360^{\circ}.$$
 
 (3) 综合 (1)(2), 可猜想: 任意多边形的外角和恒为 $360^{\circ}$. $\blacksquare$
 
@@ -430,7 +430,7 @@ $$\angle 1+\angle 2+\angle 3+\angle 4=360^{\circ}.$$
 
 由**定义 6.1.3 (展开图)**, 正方体展开图折叠后各面两两对应相邻.
 
-正方体展开图由六个相同的正方形组成, 按图示尺寸 ($6\ \text{cm}\times6\ \text{cm}$ 各面) 绘制展开图, 剪裁折叠后得到边长为 $6\ \text{cm}$ 的正方体. $\blacksquare$
+正方体展开图由六个相同的正方形组成, 按图示尺寸 ($6\,\text{cm}\times6\,\text{cm}$ 各面) 绘制展开图, 剪裁折叠后得到边长为 $6\,\text{cm}$ 的正方体. $\blacksquare$
 
 ## 活动二
 
@@ -498,7 +498,7 @@ $\blacksquare$
 
 题图中物体 $A$ 为三个正方体堆叠的 L 形, 从上面看得到两个正方形相邻, 即图 $b$ (正方形); 物体 $B$ 为带把手的水壶, 从上面看得到圆形壶口加两侧把手轮廓, 即图 $e$ (大圆加两侧突出); 物体 $C$ 为弹簧, 从上面看得到空心圆环, 即图 $d$ (小圆); 物体 $D$ 为包装盒, 从上面看得到矩形, 即图 $c$ (矩形); 物体 $E$ 为沙漏形圆柱, 从上面看得到圆, 即图 $a$ (圆).
 
-对应连线: $A\to b$, $B\to e$, $C\to d$, $D\to c$, $E\to a$. $\blacksquare$
+对应连线: $A\to{b}$, $B\to{e}$, $C\to{d}$, $D\to{c}$, $E\to{a}$. $\blacksquare$
 
 ## 复习题三
 
@@ -544,7 +544,7 @@ $\blacksquare$
 
 ## 复习题五
 
-(复习题 复习巩固第 5 题) 在一张零件图中, $AD=76\ \text{mm}$, $BD=70\ \text{mm}$, $CD=19\ \text{mm}$, 求 $AB$ 和 $BC$ 的长.
+(复习题 复习巩固第 5 题) 在一张零件图中, $AD=76\,\text{mm}$, $BD=70\,\text{mm}$, $CD=19\,\text{mm}$, 求 $AB$ 和 $BC$ 的长.
 
 ### 解答 复习题五
 
@@ -552,8 +552,8 @@ $\blacksquare$
 
 点的顺序为 $A$, $B$, $C$, $D$ 在同一直线上 (由图可知).
 
-$$AB=AD-BD=76-70=6\ \text{mm}.$$
+$$AB=AD-BD=76-70=6\,\text{mm}.$$
 
-$$BC=BD-CD=70-19=51\ \text{mm}.$$
+$$BC=BD-CD=70-19=51\,\text{mm}.$$
 
 $\blacksquare$

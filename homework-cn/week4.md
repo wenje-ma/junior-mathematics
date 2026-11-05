@@ -56,7 +56,7 @@
 
 各天温差为: 周一 $10-2=8$; 周二 $12-1=11$; 周三 $11-0=11$; 周四 $9-\left(-1\right)=10$; 周五 $7-\left(-4\right)=11$; 周六 $5-\left(-5\right)=10$; 周日 $7-\left(-5\right)=12$.
 
-比较得 $12> 11> 10> 8$, 故周日温差最大, 周一温差最小. $\blacksquare$
+比较得 $12>11>10>8$, 故周日温差最大, 周一温差最小. $\blacksquare$
 
 ## 习题二
 
@@ -88,35 +88,35 @@
 
 (习题 2.1 拓广探索第 12 题) 计算下列各式的值:
 
-$$\left(-2\right)+\left(-2\right),\ \left(-2\right)+\left(-2\right)+\left(-2\right),\ \left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right),\ \left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right).$$
+$$\left(-2\right)+\left(-2\right),\,\left(-2\right)+\left(-2\right)+\left(-2\right),\,\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right),\,\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right).$$
 
-猜想下列各式的值: $\left(-2\right)\times 2$, $\left(-2\right)\times 3$, $\left(-2\right)\times 4$, $\left(-2\right)\times 5$. 你能进一步猜出负数乘正数的法则吗?
+猜想下列各式的值: $\left(-2\right)\times2$, $\left(-2\right)\times3$, $\left(-2\right)\times4$, $\left(-2\right)\times5$. 你能进一步猜出负数乘正数的法则吗?
 
 ### 解答 习题三
 
 由**定义 2.1.1 (有理数加法法则)**.
 
-$$\left(-2\right)+\left(-2\right)=-4; $$
+$$\left(-2\right)+\left(-2\right)=-4;$$
 
-$$\left(-2\right)+\left(-2\right)+\left(-2\right)=-6; $$
+$$\left(-2\right)+\left(-2\right)+\left(-2\right)=-6;$$
 
-$$\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)=-8; $$
+$$\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)=-8;$$
 
 $$\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)=-10.$$
 
-几个相同的负数相加即该负数乘正整数, 故猜想 $\left(-2\right)\times 2=-4$, $\left(-2\right)\times 3=-6$, $\left(-2\right)\times 4=-8$, $\left(-2\right)\times 5=-10$. 由此可猜: 负数乘正数, 积为负数, 积的绝对值等于两数绝对值的积. $\blacksquare$
+几个相同的负数相加即该负数乘正整数, 故猜想 $\left(-2\right)\times2=-4$, $\left(-2\right)\times3=-6$, $\left(-2\right)\times4=-8$, $\left(-2\right)\times5=-10$. 由此可猜: 负数乘正数, 积为负数, 积的绝对值等于两数绝对值的积. $\blacksquare$
 
 ## 习题四
 
 (习题 2.1 拓广探索第 13 题) 某公路养护小组乘车沿一条南北向公路巡视养护. 某天早晨他们从 $A$ 地出发, 晚上最终到达 $B$ 地. 约定向北为正方向, 当天汽车的行驶记录 (单位: $\text{km}$) 如下:
 
-$$+18,\ -9,\ +7,\ -14,\ -6,\ +13,\ -6,\ -8.$$
+$$+18,\,-9,\,+7,\,-14,\,-6,\,+13,\,-6,\,-8.$$
 
 假设汽车在同一行驶记录下是单向行驶.
 
 (1) $B$ 地在 $A$ 地的哪个方向? 它们相距多少千米?
 
-(2) 如果汽车行驶 $1\ \text{km}$ 平均耗油 $a\ \text{L}$, 那么这天汽车共耗油多少升?
+(2) 如果汽车行驶 $1\,\text{km}$ 平均耗油 $a\,\text{L}$, 那么这天汽车共耗油多少升?
 
 ### 解答 习题四
 
@@ -126,13 +126,13 @@ $$+18,\ -9,\ +7,\ -14,\ -6,\ +13,\ -6,\ -8.$$
 
 $$18-9+7-14-6+13-6-8=-5.$$
 
-结果为负, 故 $B$ 地在 $A$ 地的南方, 它们相距 $5\ \text{km}$.
+结果为负, 故 $B$ 地在 $A$ 地的南方, 它们相距 $5\,\text{km}$.
 
 (2) 汽车行驶的总路程为各记录绝对值之和:
 
 $$\left|18\right|+\left|-9\right|+\left|7\right|+\left|-14\right|+\left|-6\right|+\left|13\right|+\left|-6\right|+\left|-8\right|=81.$$
 
-故这天汽车共耗油 $81a\ \text{L}$. $\blacksquare$
+故这天汽车共耗油 $81a\,\text{L}$. $\blacksquare$
 
 ## 阅读与思考一
 
@@ -146,17 +146,17 @@ $$\left|18\right|+\left|-9\right|+\left|7\right|+\left|-14\right|+\left|-6\right
 
 (练习 2.2 第 1 题) 计算:
 
-(1) $6\times\left(-9\right)$; (2) $\left(-4\right)\times 6$; (3) $\left(-6\right)\times\left(-1\right)$;
+(1) $6\times\left(-9\right)$; (2) $\left(-4\right)\times6$; (3) $\left(-6\right)\times\left(-1\right)$;
 
-(4) $\left(-6\right)\times 0$; (5) $\left(-4\right)\times\frac{1}{4}$; (6) $\frac{2}{3}\times\left(-\frac{9}{4}\right)$.
+(4) $\left(-6\right)\times0$; (5) $\left(-4\right)\times\frac{1}{4}$; (6) $\frac{2}{3}\times\left(-\frac{9}{4}\right)$.
 
 ### 解答 练习一
 
 由**定义 2.2.1 (有理数乘法法则)**.
 
-(1) $6\times\left(-9\right)=-54$; (2) $\left(-4\right)\times 6=-24$; (3) $\left(-6\right)\times\left(-1\right)=6$;
+(1) $6\times\left(-9\right)=-54$; (2) $\left(-4\right)\times6=-24$; (3) $\left(-6\right)\times\left(-1\right)=6$;
 
-(4) $\left(-6\right)\times 0=0$; (5) $\left(-4\right)\times\frac{1}{4}=-1$; (6) $\frac{2}{3}\times\left(-\frac{9}{4}\right)=-\frac{3}{2}$. $\blacksquare$
+(4) $\left(-6\right)\times0=0$; (5) $\left(-4\right)\times\frac{1}{4}=-1$; (6) $\frac{2}{3}\times\left(-\frac{9}{4}\right)=-\frac{3}{2}$. $\blacksquare$
 
 ## 练习二
 
@@ -166,7 +166,7 @@ $$\left|18\right|+\left|-9\right|+\left|7\right|+\left|-14\right|+\left|-6\right
 
 由**定义 2.2.1 (有理数乘法法则)**, 每件降价记为 $-5$ 元.
 
-$$\left(-5\right)\times 60=-300.$$
+$$\left(-5\right)\times60=-300.$$
 
 故销售额减少 $300$ 元. $\blacksquare$
 
@@ -174,7 +174,7 @@ $$\left(-5\right)\times 60=-300.$$
 
 (练习 2.2 第 3 题) 写出下列各数的倒数:
 
-$$1,\ -1,\ \frac{1}{3},\ -\frac{1}{3},\ 5,\ -5,\ \frac{2}{3},\ -\frac{2}{3}.$$
+$$1,\,-1,\,\frac{1}{3},\,-\frac{1}{3},\,5,\,-5,\,\frac{2}{3},\,-\frac{2}{3}.$$
 
 ### 解答 练习三
 
@@ -188,9 +188,9 @@ $1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\frac{1}{3}$ 的倒数是 $3$; $-
 
 (1) $\left(-85\right)\times\left(-25\right)\times\left(-4\right)$;
 
-(2) $\left(-\frac{7}{8}\right)\times 15\times\left(-1\frac{1}{7}\right)$;
+(2) $\left(-\frac{7}{8}\right)\times15\times\left(-1\frac{1}{7}\right)$;
 
-(3) $\left(\frac{9}{10}-\frac{1}{15}\right)\times 30$;
+(3) $\left(\frac{9}{10}-\frac{1}{15}\right)\times30$;
 
 (4) $\left(-\frac{6}{5}\right)\times\left(-\frac{2}{3}\right)+\left(-\frac{6}{5}\right)\times\left(+1\frac{3}{5}\right)$.
 
@@ -198,11 +198,11 @@ $1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\frac{1}{3}$ 的倒数是 $3$; $-
 
 由**定义 2.2.4 (乘法结合律)** 与**定义 2.2.5 (分配律)**.
 
-(1) 原式 $=\left(-85\right)\times\left[\left(-25\right)\times\left(-4\right)\right]=\left(-85\right)\times 100=-8500$.
+(1) 原式 $=\left(-85\right)\times\left[\left(-25\right)\times\left(-4\right)\right]=\left(-85\right)\times100=-8500$.
 
-(2) 原式 $=\left(-\frac{7}{8}\right)\times\left(-\frac{8}{7}\right)\times 15=1\times 15=15$.
+(2) 原式 $=\left(-\frac{7}{8}\right)\times\left(-\frac{8}{7}\right)\times15=1\times15=15$.
 
-(3) 原式 $=\frac{9}{10}\times 30-\frac{1}{15}\times 30=27-2=25$.
+(3) 原式 $=\frac{9}{10}\times30-\frac{1}{15}\times30=27-2=25$.
 
 (4) 原式 $=\left(-\frac{6}{5}\right)\times\left(-\frac{2}{3}+1\frac{3}{5}\right)=\left(-\frac{6}{5}\right)\times\frac{14}{15}=-\frac{28}{25}$. $\blacksquare$
 
@@ -212,7 +212,7 @@ $1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\frac{1}{3}$ 的倒数是 $3$; $-
 
 (1) $\left(-\frac{5}{12}\right)\times\frac{8}{15}\times\frac{1}{2}\times\left(-\frac{2}{3}\right)$;
 
-(2) $\left(-1\right)\times\left(-\frac{5}{4}\right)\times\frac{8}{15}\times\frac{3}{2}\times\left(-\frac{2}{3}\right)\times 0\times\left(-1\right)$.
+(2) $\left(-1\right)\times\left(-\frac{5}{4}\right)\times\frac{8}{15}\times\frac{3}{2}\times\left(-\frac{2}{3}\right)\times0\times\left(-1\right)$.
 
 ### 解答 练习五
 
@@ -226,17 +226,17 @@ $1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\frac{1}{3}$ 的倒数是 $3$; $-
 
 (练习 2.2 第 1 题) 计算:
 
-(1) $\left(-18\right)\div 6$; (2) $\left(-63\right)\div\left(-7\right)$; (3) $1\div\left(-9\right)$;
+(1) $\left(-18\right)\div6$; (2) $\left(-63\right)\div\left(-7\right)$; (3) $1\div\left(-9\right)$;
 
-(4) $0\div\left(-8\right)$; (5) $\left(-6.5\right)\div 0.13$; (6) $\left(-\frac{6}{5}\right)\div\left(-\frac{2}{5}\right)$.
+(4) $0\div\left(-8\right)$; (5) $\left(-6.5\right)\div0.13$; (6) $\left(-\frac{6}{5}\right)\div\left(-\frac{2}{5}\right)$.
 
 ### 解答 练习六
 
 由**定义 2.2.7 (有理数除法法则)**.
 
-(1) $\left(-18\right)\div 6=-3$; (2) $\left(-63\right)\div\left(-7\right)=9$; (3) $1\div\left(-9\right)=-\frac{1}{9}$;
+(1) $\left(-18\right)\div6=-3$; (2) $\left(-63\right)\div\left(-7\right)=9$; (3) $1\div\left(-9\right)=-\frac{1}{9}$;
 
-(4) $0\div\left(-8\right)=0$; (5) $\left(-6.5\right)\div 0.13=-50$; (6) $\left(-\frac{6}{5}\right)\div\left(-\frac{2}{5}\right)=3$. $\blacksquare$
+(4) $0\div\left(-8\right)=0$; (5) $\left(-6.5\right)\div0.13=-50$; (6) $\left(-\frac{6}{5}\right)\div\left(-\frac{2}{5}\right)=3$. $\blacksquare$
 
 ## 练习七
 
@@ -256,7 +256,7 @@ $1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\frac{1}{3}$ 的倒数是 $3$; $-
 
 (1) $15\div\left(-6\right)$;
 
-(2) $\left(-36\frac{9}{11}\right)\div 9$;
+(2) $\left(-36\frac{9}{11}\right)\div9$;
 
 (3) $\left(-12\right)\div\left(-4\right)\div\left(-1\frac{1}{5}\right)$;
 
@@ -268,7 +268,7 @@ $1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\frac{1}{3}$ 的倒数是 $3$; $-
 
 (1) $15\div\left(-6\right)=-\frac{5}{2}$.
 
-(2) 原式 $=\left(-36\right)\div 9-\frac{9}{11}\div 9=-4-\frac{1}{11}=-\frac{45}{11}$.
+(2) 原式 $=\left(-36\right)\div9-\frac{9}{11}\div9=-4-\frac{1}{11}=-\frac{45}{11}$.
 
 (3) 原式 $=3\div\left(-\frac{6}{5}\right)=3\times\left(-\frac{5}{6}\right)=-\frac{5}{2}$.
 
@@ -280,9 +280,9 @@ $1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\frac{1}{3}$ 的倒数是 $3$; $-
 
 (1) $6-\left(-12\right)\div\left(-3\right)$;
 
-(2) $3\times\left(-4\right)+\left(-28\right)\div 7$;
+(2) $3\times\left(-4\right)+\left(-28\right)\div7$;
 
-(3) $\left(-48\right)\div 8-\left(-25\right)\times\left(-6\right)$;
+(3) $\left(-48\right)\div8-\left(-25\right)\times\left(-6\right)$;
 
 (4) $42\times\left(-\frac{2}{3}\right)+\left(-\frac{3}{4}\right)\div\left(-0.5\right)$.
 
@@ -304,7 +304,7 @@ $1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\frac{1}{3}$ 的倒数是 $3$; $-
 
 (1) $\left(-8\right)\times\left(-7\right)$; (2) $12\times\left(-5\right)$; (3) $2.9\times\left(-0.4\right)$;
 
-(4) $\left(-30.5\right)\times 0.2$; (5) $100\times\left(-0.001\right)$; (6) $\left(-4.8\right)\times\left(-1.25\right)$.
+(4) $\left(-30.5\right)\times0.2$; (5) $100\times\left(-0.001\right)$; (6) $\left(-4.8\right)\times\left(-1.25\right)$.
 
 ### 解答 习题五
 
@@ -318,7 +318,7 @@ $1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\frac{1}{3}$ 的倒数是 $3$; $-
 
 (1) $14\times\left(-\frac{8}{9}\right)$; (2) $\left(-\frac{5}{6}\right)\times\left(-\frac{3}{10}\right)$;
 
-(3) $\left(-3\frac{4}{15}\right)\times 25$; (4) $\left(-0.3\right)\times\left(-\frac{10}{7}\right)$.
+(3) $\left(-3\frac{4}{15}\right)\times25$; (4) $\left(-0.3\right)\times\left(-\frac{10}{7}\right)$.
 
 ### 解答 习题六
 
@@ -342,11 +342,11 @@ $1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\frac{1}{3}$ 的倒数是 $3$; $-
 
 (习题 2.2 复习巩固第 4 题) 计算:
 
-(1) $\left(-8\frac{2}{5}\right)\times 1.25\times\left(-8\right)$;
+(1) $\left(-8\frac{2}{5}\right)\times1.25\times\left(-8\right)$;
 
 (2) $\left(-10\right)\times\left(-8.24\right)\times\left(-0.1\right)$;
 
-(3) $\left(\frac{7}{9}-\frac{5}{6}+\frac{3}{4}-\frac{7}{18}\right)\times 36$;
+(3) $\left(\frac{7}{9}-\frac{5}{6}+\frac{3}{4}-\frac{7}{18}\right)\times36$;
 
 (4) $-\frac{3}{4}\times\left(8-1\frac{1}{3}-0.04\right)$.
 
@@ -366,9 +366,9 @@ $1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\frac{1}{3}$ 的倒数是 $3$; $-
 
 (习题 2.2 复习巩固第 5 题) 计算:
 
-(1) $\left(-2\right)\times 3\times\left(-4\right)$; (2) $\left(-6\right)\times\left(-5\right)\times\left(-7\right)$;
+(1) $\left(-2\right)\times3\times\left(-4\right)$; (2) $\left(-6\right)\times\left(-5\right)\times\left(-7\right)$;
 
-(3) $\left(-6\right)\times\left(-0.25\right)\times\frac{11}{14}$; (4) $\left(-17\right)\times\left(-49\right)\times 0\times 13$.
+(3) $\left(-6\right)\times\left(-0.25\right)\times\frac{11}{14}$; (4) $\left(-17\right)\times\left(-49\right)\times0\times13$.
 
 ### 解答 习题九
 
@@ -380,7 +380,7 @@ $1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\frac{1}{3}$ 的倒数是 $3$; $-
 
 (习题 2.2 复习巩固第 6 题) 计算:
 
-(1) $16\div\left(-3\right)$; (2) $\left(-91\right)\div 13$; (3) $\left(-56\right)\div\left(-14\right)$;
+(1) $16\div\left(-3\right)$; (2) $\left(-91\right)\div13$; (3) $\left(-56\right)\div\left(-14\right)$;
 
 (4) $\frac{4}{5}\div\left(-1\right)$; (5) $\left(-16\right)\div\left(-48\right)$; (6) $\left(-0.25\right)\div\frac{3}{8}$.
 
@@ -394,9 +394,9 @@ $1$ 的倒数是 $1$; $-1$ 的倒数是 $-1$; $\frac{1}{3}$ 的倒数是 $3$; $-
 
 (习题 2.2 复习巩固第 7 题) 填空题.
 
-$1\times\left(-5\right)=\;\_\_\; $; $1\div\left(-5\right)=\;\_\_\; $; $1+\left(-5\right)=\;\_\_\; $; $1-\left(-5\right)=\;\_\_\; $;
+$1\times\left(-5\right)=\;\_\_\;$; $1\div\left(-5\right)=\;\_\_\;$; $1+\left(-5\right)=\;\_\_\;$; $1-\left(-5\right)=\;\_\_\;$;
 
-$\left(-1\right)\times\left(-5\right)=\;\_\_\; $; $\left(-1\right)\div\left(-5\right)=\;\_\_\; $; $\left(-1\right)+\left(-5\right)=\;\_\_\; $; $\left(-1\right)-\left(-5\right)=\;\_\_\; $.
+$\left(-1\right)\times\left(-5\right)=\;\_\_\;$; $\left(-1\right)\div\left(-5\right)=\;\_\_\;$; $\left(-1\right)+\left(-5\right)=\;\_\_\;$; $\left(-1\right)-\left(-5\right)=\;\_\_\;$.
 
 ### 解答 习题十一
 
@@ -424,9 +424,9 @@ $\left(-1\right)\times\left(-5\right)=\;\_\_\; $; $\left(-1\right)\div\left(-5\r
 
 (2) $\left(-\frac{3}{4}\right)\times\left(-1\frac{1}{2}\right)\div\left(-2\frac{1}{4}\right)$;
 
-(3) $\left(-7\right)\times\left(-\frac{5}{6}\right)\times 0\div\left(-\frac{1}{3}\right)$;
+(3) $\left(-7\right)\times\left(-\frac{5}{6}\right)\times0\div\left(-\frac{1}{3}\right)$;
 
-(4) $\left(-9\right)\times\left(-11\right)\div 3\div\left(-3\right)$.
+(4) $\left(-9\right)\times\left(-11\right)\div3\div\left(-3\right)$.
 
 ### 解答 习题十三
 
@@ -438,7 +438,7 @@ $\left(-1\right)\times\left(-5\right)=\;\_\_\; $; $\left(-1\right)\div\left(-5\r
 
 (3) 含乘数 $0$, 原式 $=0$.
 
-(4) 原式 $=99\div 3\div\left(-3\right)=33\div\left(-3\right)=-11$. $\blacksquare$
+(4) 原式 $=99\div3\div\left(-3\right)=33\div\left(-3\right)=-11$. $\blacksquare$
 
 ## 习题十四
 
@@ -458,24 +458,24 @@ $\left(-1\right)\times\left(-5\right)=\;\_\_\; $; $\left(-1\right)\div\left(-5\r
 
 (2) 原式 $=-10.5+31.2=20.7$.
 
-(3) 记 $A=1\frac{3}{4}-\frac{7}{8}-\frac{7}{12}=\frac{7}{4}-\frac{7}{8}-\frac{7}{12}=\frac{7}{24}$. 则 $A\div\left(-\frac{7}{8}\right)=\frac{7}{24}\times\left(-\frac{8}{7}\right)=-\frac{1}{3}$, $\left(-\frac{7}{8}\right)\div A=\left(-\frac{7}{8}\right)\times\frac{24}{7}=-3$. 故原式 $=-\frac{1}{3}+\left(-3\right)=-\frac{10}{3}$. $\blacksquare$
+(3) 记 $A=1\frac{3}{4}-\frac{7}{8}-\frac{7}{12}=\frac{7}{4}-\frac{7}{8}-\frac{7}{12}=\frac{7}{24}$. 则 $A\div\left(-\frac{7}{8}\right)=\frac{7}{24}\times\left(-\frac{8}{7}\right)=-\frac{1}{3}$, $\left(-\frac{7}{8}\right)\div{A}=\left(-\frac{7}{8}\right)\times\frac{24}{7}=-3$. 故原式 $=-\frac{1}{3}+\left(-3\right)=-\frac{10}{3}$. $\blacksquare$
 
 ## 习题十五
 
 (习题 2.2 综合运用第 12 题) 记盈利额为正数, 用正数或负数填空:
 
-(1) 小商店平均每天盈利 $250$ 元, 一个月 (按 $30$ 天计算) 的利润是 $\;\_\_\; $ 元;
+(1) 小商店平均每天盈利 $250$ 元, 一个月 (按 $30$ 天计算) 的利润是 $\;\_\_\;$ 元;
 
-(2) 小商店一星期的利润是 $1400$ 元, 平均每天的利润是 $\;\_\_\; $ 元;
+(2) 小商店一星期的利润是 $1400$ 元, 平均每天的利润是 $\;\_\_\;$ 元;
 
-(3) 小商店一星期共亏损 $840$ 元, 平均每天的利润是 $\;\_\_\; $ 元.
+(3) 小商店一星期共亏损 $840$ 元, 平均每天的利润是 $\;\_\_\;$ 元.
 
 ### 解答 习题十五
 
 由**定义 2.2.1 (有理数乘法法则)** 与**定义 2.2.7 (有理数除法法则)**.
 
-(1) $250\times 30=7500$, 填 $7500$.
+(1) $250\times30=7500$, 填 $7500$.
 
-(2) $1400\div 7=200$, 填 $200$.
+(2) $1400\div7=200$, 填 $200$.
 
-(3) 亏损记为负, $\left(-840\right)\div 7=-120$, 填 $-120$. $\blacksquare$
+(3) 亏损记为负, $\left(-840\right)\div7=-120$, 填 $-120$. $\blacksquare$

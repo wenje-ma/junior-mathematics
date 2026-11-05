@@ -6,7 +6,7 @@
 
 > **Definition 13.1.2 (Sides, Vertices and Interior Angles)**
 > 
-> The segments making up a triangle are called the sides of the triangle; the common endpoint of two adjacent sides is called a vertex of the triangle; the angle formed by two adjacent sides is called an interior angle of the triangle, briefly an angle of the triangle. A triangle with vertices $A,B,C$ is denoted $\triangle ABC$.
+> The segments making up a triangle are called the sides of the triangle; the common endpoint of two adjacent sides is called a vertex of the triangle; the angle formed by two adjacent sides is called an interior angle of the triangle, briefly an angle of the triangle. A triangle with vertices $A,B,C$ is denoted $\triangle{A}BC$.
 
 > **Definition 13.1.3 (Isosceles Triangle)**
 > 
@@ -74,23 +74,23 @@
 
 ## Problem 1
 
-(Exercise 13.1, Comprehensive Application, Problem 3) As shown, in $\triangle ABC$, $AD\perp BC$ with foot at $D$, $\angle BAC$ is obtuse, $E$ is a point on $DC$, $\angle BAE$ is acute, and $EF\perp AC$ with foot at $F$.
+(Exercise 13.1, Comprehensive Application, Problem 3) As shown, in $\triangle{A}BC$, $AD\perp{B}C$ with foot at $D$, $\angle{B}AC$ is obtuse, $E$ is a point on $DC$, $\angle{B}AE$ is acute, and $EF\perp{A}C$ with foot at $F$.
 
 (1) How many triangles are in the figure? Denote these triangles with symbols.
 
 (2) Find the acute triangles, right triangles and obtuse triangles in the figure.
 
-The figure shows triangle $ABC$ ($\angle BAC$ is obtuse), with $AD\perp BC$ at foot $D$, point $E$ on $DC$, and $EF\perp AC$ at foot $F$.
+The figure shows triangle $ABC$ ($\angle{B}AC$ is obtuse), with $AD\perp{B}C$ at foot $D$, point $E$ on $DC$, and $EF\perp{A}C$ at foot $F$.
 
 ### Solution to Problem 1
 
-(1) Since $B,D,E,C$ lie in order on line $BC$ and $AB$, $AD$, $AE$, $AC$ are all drawn, we have $\triangle ABD$, $\triangle ABE$, $\triangle ADE$, $\triangle ADC$, $\triangle AEC$, $\triangle ABC$; also $EF\perp AC$ divides the interior of $\triangle AEC$ into $\triangle AEF$ and $\triangle EFC$, which are themselves triangles. Hence there are $8$ triangles in total: $\triangle ABD$, $\triangle ABE$, $\triangle ADE$, $\triangle ADC$, $\triangle AEC$, $\triangle ABC$, $\triangle AEF$, $\triangle EFC$.
+(1) Since $B,D,E,C$ lie in order on line $BC$ and $AB$, $AD$, $AE$, $AC$ are all drawn, we have $\triangle{A}BD$, $\triangle{A}BE$, $\triangle{A}DE$, $\triangle{A}DC$, $\triangle{A}EC$, $\triangle{A}BC$; also $EF\perp{A}C$ divides the interior of $\triangle{A}EC$ into $\triangle{A}EF$ and $\triangle{E}FC$, which are themselves triangles. Hence there are $8$ triangles in total: $\triangle{A}BD$, $\triangle{A}BE$, $\triangle{A}DE$, $\triangle{A}DC$, $\triangle{A}EC$, $\triangle{A}BC$, $\triangle{A}EF$, $\triangle{E}FC$.
 
-(2) From $AD\perp BC$, $\angle ADB=\angle ADE=\angle ADC=90^\circ$, so $\triangle ABD$, $\triangle ADE$, $\triangle ADC$ are right triangles; from $EF\perp AC$, $\angle AFE=\angle CFE=90^\circ$, so $\triangle AEF$, $\triangle EFC$ are right triangles.
+(2) From $AD\perp{B}C$, $\angle{A}DB=\angle{A}DE=\angle{A}DC=90^\circ$, so $\triangle{A}BD$, $\triangle{A}DE$, $\triangle{A}DC$ are right triangles; from $EF\perp{A}C$, $\angle{A}FE=\angle{C}FE=90^\circ$, so $\triangle{A}EF$, $\triangle{E}FC$ are right triangles.
 
-Since $\angle BAC$ is obtuse, $\triangle ABC$ is an obtuse triangle. By the same reasoning as in Exercise 2, the angle of $\triangle AEC$ at point $E$ is obtuse, so $\triangle AEC$ is an obtuse triangle. The remaining $\triangle ABE$ has all three angles acute, so it is an acute triangle.
+Since $\angle{B}AC$ is obtuse, $\triangle{A}BC$ is an obtuse triangle. By the same reasoning as in Exercise 2, the angle of $\triangle{A}EC$ at point $E$ is obtuse, so $\triangle{A}EC$ is an obtuse triangle. The remaining $\triangle{A}BE$ has all three angles acute, so it is an acute triangle.
 
-In summary, the right triangles are $\triangle ABD$, $\triangle ADE$, $\triangle ADC$, $\triangle AEF$, $\triangle EFC$; the obtuse triangles are $\triangle ABC$, $\triangle AEC$; the acute triangle is $\triangle ABE$. $\blacksquare$
+In summary, the right triangles are $\triangle{A}BD$, $\triangle{A}DE$, $\triangle{A}DC$, $\triangle{A}EF$, $\triangle{E}FC$; the obtuse triangles are $\triangle{A}BC$, $\triangle{A}EC$; the acute triangle is $\triangle{A}BE$. $\blacksquare$
 
 ## Problem 2
 
@@ -100,11 +100,11 @@ The figure shows two equilateral triangles $ABC$ and $ADC$ sharing side $AC$, wi
 
 ### Solution to Problem 2
 
-By **Definition 13.1.3 (Isosceles Triangle)** and **Definition 13.1.4 (Equilateral Triangle)**, the triangles in the figure are $\triangle ABC$ and $\triangle ADC$, sharing $AC$ as a common side, with vertices on opposite sides of $AC$.
+By **Definition 13.1.3 (Isosceles Triangle)** and **Definition 13.1.4 (Equilateral Triangle)**, the triangles in the figure are $\triangle{A}BC$ and $\triangle{A}DC$, sharing $AC$ as a common side, with vertices on opposite sides of $AC$.
 
-From $AB=BC=AC$, all three sides of $\triangle ABC$ are equal, so it is equilateral; from $AD=DC=AC$, all three sides of $\triangle ADC$ are equal, so it is also equilateral.
+From $AB=BC=AC$, all three sides of $\triangle{A}BC$ are equal, so it is equilateral; from $AD=DC=AC$, all three sides of $\triangle{A}DC$ are equal, so it is also equilateral.
 
-Hence the isosceles triangles are $\triangle ABC$, $\triangle ADC$; the equilateral triangles are $\triangle ABC$, $\triangle ADC$. $\blacksquare$
+Hence the isosceles triangles are $\triangle{A}BC$, $\triangle{A}DC$; the equilateral triangles are $\triangle{A}BC$, $\triangle{A}DC$. $\blacksquare$
 
 ## Problem 3
 
@@ -116,7 +116,7 @@ The figure shows two lines $a$ and $b$, with points $A,B$ on line $a$ and points
 
 Choosing any $3$ of the $5$ points gives $\binom{5}{3}=10$ choices. Among them, the three points $C,D,E$ lie on line $b$ and cannot form a triangle, so $1$ choice is removed; while $A,B$ lie on line $a$ but are only two points, so there is no case of three collinear points.
 
-Hence a total of $10-1=9$ triangles can be formed: $\triangle ABC$, $\triangle ABD$, $\triangle ABE$, $\triangle ACD$, $\triangle ACE$, $\triangle ADE$, $\triangle BCD$, $\triangle BCE$, $\triangle BDE$. $\blacksquare$
+Hence a total of $10-1=9$ triangles can be formed: $\triangle{A}BC$, $\triangle{A}BD$, $\triangle{A}BE$, $\triangle{A}CD$, $\triangle{A}CE$, $\triangle{A}DE$, $\triangle{B}CD$, $\triangle{B}CE$, $\triangle{B}DE$. $\blacksquare$
 
 ## Exercise 1
 
@@ -132,27 +132,27 @@ Hence a total of $10-1=9$ triangles can be formed: $\triangle ABC$, $\triangle A
 
 By Relationship Among the Three Sides of a Triangle, three segments form a triangle if and only if the sum of any two is greater than the third.
 
-(1) $3+4=7< 8$; the sum of two sides is not greater than the third, so they cannot form a triangle.
+(1) $3+4=7<8$; the sum of two sides is not greater than the third, so they cannot form a triangle.
 
 (2) $5+6=11$, which is not greater than $11$, so they cannot form a triangle.
 
-(3) $5+6=11> 10$, $5+10=15> 6$, $6+10=16> 5$; the sum of any two sides is greater than the third, so they can form a triangle. $\blacksquare$
+(3) $5+6=11>10$, $5+10=15>6$, $6+10=16>5$; the sum of any two sides is greater than the third, so they can form a triangle. $\blacksquare$
 
 ## Exercise 2
 
-(Exercise 13.2, Problem 2) Can one $4\ \text{dm}$ strip of wood and two $1\ \text{dm}$ strips form an isosceles triangle? What about two $4\ \text{dm}$ strips and one $1\ \text{dm}$ strip?
+(Exercise 13.2, Problem 2) Can one $4\,\text{dm}$ strip of wood and two $1\,\text{dm}$ strips form an isosceles triangle? What about two $4\,\text{dm}$ strips and one $1\,\text{dm}$ strip?
 
 ### Solution to Exercise 2
 
 Check the two cases by Relationship Among the Three Sides of a Triangle.
 
-In the first case the side lengths are $4$, $1$, $1$: $1+1=2< 4$; the sum of two sides is not greater than the third, so an isosceles triangle cannot be formed.
+In the first case the side lengths are $4$, $1$, $1$: $1+1=2<4$; the sum of two sides is not greater than the third, so an isosceles triangle cannot be formed.
 
-In the second case the side lengths are $4$, $4$, $1$: $4+1=5> 4$, $4+4=8> 1$; the three-side relationship holds, so an isosceles triangle can be formed. $\blacksquare$
+In the second case the side lengths are $4$, $4$, $1$: $4+1=5>4$, $4+4=8>1$; the three-side relationship holds, so an isosceles triangle can be formed. $\blacksquare$
 
 ## Exercise 3
 
-(Exercise 13.2, Problem 1) As shown, through vertex $C$ of $\triangle ABC$, draw its median, angle bisector and altitude respectively.
+(Exercise 13.2, Problem 1) As shown, through vertex $C$ of $\triangle{A}BC$, draw its median, angle bisector and altitude respectively.
 
 The figure shows an arbitrary triangle $ABC$, with vertex $C$ on top and side $AB$ placed horizontally at the bottom.
 
@@ -160,7 +160,7 @@ The figure shows an arbitrary triangle $ABC$, with vertex $C$ on top and side $A
 
 By **Definition 13.2.1 (Median)**, take the midpoint of side $AB$ and join this midpoint to vertex $C$ to obtain the median on side $AB$.
 
-By **Definition 13.2.2 (Angle Bisector)**, draw the bisector of $\angle C$ to meet side $AB$ at a point; the segment between vertex $C$ and this intersection is the angle bisector.
+By **Definition 13.2.2 (Angle Bisector)**, draw the bisector of $\angle{C}$ to meet side $AB$ at a point; the segment between vertex $C$ and this intersection is the angle bisector.
 
 By **Definition 13.2.3 (Altitude)**, drop a perpendicular from vertex $C$ to the line of the opposite side $AB$; the segment between vertex $C$ and the foot is the altitude on side $AB$. All three are drawn in the figure. $\blacksquare$
 
@@ -168,11 +168,11 @@ By **Definition 13.2.3 (Altitude)**, drop a perpendicular from vertex $C$ to the
 
 (Exercise 13.2, Problem 2) Fill in the blanks.
 
-(1) As in figure (1), $AD$, $BE$, $CF$ are the three medians of $\triangle ABC$; then $BD=\;\_\_\;$, $AE=\frac{1}{2}\;\_\_\;$, $AB=2\;\_\_\;$;
+(1) As in figure (1), $AD$, $BE$, $CF$ are the three medians of $\triangle{A}BC$; then $BD=\;\_\_\;$, $AE=\frac{1}{2}\;\_\_\;$, $AB=2\;\_\_\;$;
 
-(2) As in figure (2), $AD$, $BE$, $CF$ are the three angle bisectors of $\triangle ABC$; then $\angle 1=\;\_\_\;$, $\angle 3=\frac{1}{2}\;\_\_\;$, $\angle ACB=2\;\_\_\;$.
+(2) As in figure (2), $AD$, $BE$, $CF$ are the three angle bisectors of $\triangle{A}BC$; then $\angle1=\;\_\_\;$, $\angle3=\frac{1}{2}\;\_\_\;$, $\angle{A}CB=2\;\_\_\;$.
 
-The figure shows two triangles side by side: in figure (1), $D$, $E$, $F$ are the midpoints of sides $BC$, $AC$, $AB$ respectively, and $AD$, $BE$, $CF$ are the three medians; in figure (2), $AD$, $BE$, $CF$ bisect $\angle BAC$, $\angle ABC$, $\angle ACB$ respectively and meet the opposite sides at $D$, $E$, $F$.
+The figure shows two triangles side by side: in figure (1), $D$, $E$, $F$ are the midpoints of sides $BC$, $AC$, $AB$ respectively, and $AD$, $BE$, $CF$ are the three medians; in figure (2), $AD$, $BE$, $CF$ bisect $\angle{B}AC$, $\angle{A}BC$, $\angle{A}CB$ respectively and meet the opposite sides at $D$, $E$, $F$.
 
 ### Solution to Exercise 4
 
@@ -180,7 +180,7 @@ By **Definition 13.2.1 (Median)**, a median divides the opposite side into two e
 
 (1) $D$ is the midpoint of $BC$, so $BD=DC$; $E$ is the midpoint of $AC$, so $AE=\frac{1}{2}AC$; $F$ is the midpoint of $AB$, so $AB=2AF$.
 
-(2) $AD$ bisects $\angle BAC$, so $\angle 1=\angle 2$; $BE$ bisects $\angle ABC$, so $\angle 3=\frac{1}{2}\angle ABC$; $CF$ bisects $\angle ACB$, so $\angle ACB=2\angle 4$. $\blacksquare$
+(2) $AD$ bisects $\angle{B}AC$, so $\angle1=\angle2$; $BE$ bisects $\angle{A}BC$, so $\angle3=\frac{1}{2}\angle{A}BC$; $CF$ bisects $\angle{A}CB$, so $\angle{A}CB=2\angle4$. $\blacksquare$
 
 ## Problem 4
 
@@ -191,26 +191,26 @@ By **Definition 13.2.1 (Median)**, a median divides the opposite side into two e
 By Relationship Among the Three Sides of a Triangle, the third side $a$ must satisfy that the sum of the other two sides is greater than $a$ and the difference of the other two sides is less than $a$.
 
 $$
-7-2< a< 7+2.
+7-2<{}a<7+2.
 $$
 
-i.e. the range of $a$ is $5< a< 9$. $\blacksquare$
+i.e. the range of $a$ is $5<{}a<9$. $\blacksquare$
 
 ## Problem 5
 
-(Exercise 13.2, Review and Consolidation, Problem 2) Four strips of wood of lengths $100\ \text{cm}$, $70\ \text{cm}$, $50\ \text{cm}$, $30\ \text{cm}$; choose three of them to form a triangle. How many choices are there? Why?
+(Exercise 13.2, Review and Consolidation, Problem 2) Four strips of wood of lengths $100\,\text{cm}$, $70\,\text{cm}$, $50\,\text{cm}$, $30\,\text{cm}$; choose three of them to form a triangle. How many choices are there? Why?
 
 ### Solution to Problem 5
 
 By Relationship Among the Three Sides of a Triangle, choose three of the four and check:
 
-Take $100$, $70$, $50$: $70+50=120> 100$; can form a triangle;
+Take $100$, $70$, $50$: $70+50=120>100$; can form a triangle;
 
 Take $100$, $70$, $30$: $70+30=100$; cannot form a triangle;
 
-Take $100$, $50$, $30$: $50+30=80< 100$; cannot form a triangle;
+Take $100$, $50$, $30$: $50+30=80<100$; cannot form a triangle;
 
-Take $70$, $50$, $30$: $50+30=80> 70$; can form a triangle.
+Take $70$, $50$, $30$: $50+30=80>70$; can form a triangle.
 
 Hence there are $2$ choices in total. $\blacksquare$
 
@@ -218,39 +218,39 @@ Hence there are $2$ choices in total. $\blacksquare$
 
 (Exercise 13.2, Review and Consolidation, Problem 3) For each triangle below, through vertex $A$ draw its median, angle bisector and altitude.
 
-The figure shows three triangles arranged from left to right: (1) an acute triangle with vertex $A$ on top and $BC$ as the horizontal base; (2) a right triangle with $\angle A=90^\circ$; (3) an obtuse triangle with obtuse $\angle A$ and $BC$ as the horizontal base.
+The figure shows three triangles arranged from left to right: (1) an acute triangle with vertex $A$ on top and $BC$ as the horizontal base; (2) a right triangle with $\angle{A}=90^\circ$; (3) an obtuse triangle with obtuse $\angle{A}$ and $BC$ as the horizontal base.
 
 ### Solution to Problem 6
 
-By **Definition 13.2.1 (Median)**, take the midpoint of the opposite side $BC$ and join vertex $A$ to this midpoint to obtain the median; by **Definition 13.2.2 (Angle Bisector)**, draw the bisector of $\angle A$ to meet $BC$ to obtain the angle bisector; by **Definition 13.2.3 (Altitude)**, drop a perpendicular from vertex $A$ to the line of the opposite side $BC$ to obtain the altitude.
+By **Definition 13.2.1 (Median)**, take the midpoint of the opposite side $BC$ and join vertex $A$ to this midpoint to obtain the median; by **Definition 13.2.2 (Angle Bisector)**, draw the bisector of $\angle{A}$ to meet $BC$ to obtain the angle bisector; by **Definition 13.2.3 (Altitude)**, drop a perpendicular from vertex $A$ to the line of the opposite side $BC$ to obtain the altitude.
 
 For the acute triangle (1), the median, angle bisector and altitude all lie inside the triangle; for the right triangle (2), one altitude coincides with a leg; for the obtuse triangle (3), the foot of the altitude falls on the extension of side $BC$. All three are drawn in the figure. $\blacksquare$
 
 ## Problem 7
 
-(Exercise 13.2, Review and Consolidation, Problem 4) As shown, in $\triangle ABC$, $AE$ is a median, $AD$ is an angle bisector, and $AF$ is an altitude. Fill in the blanks:
+(Exercise 13.2, Review and Consolidation, Problem 4) As shown, in $\triangle{A}BC$, $AE$ is a median, $AD$ is an angle bisector, and $AF$ is an altitude. Fill in the blanks:
 
 (1) $BE=\;\_\_\;=\frac{1}{2}\;\_\_\;$;
 
-(2) $\angle BAD=\;\_\_\;=\frac{1}{2}\;\_\_\;$;
+(2) $\angle{B}AD=\;\_\_\;=\frac{1}{2}\;\_\_\;$;
 
-(3) $\angle AFB=\;\_\_\;=90^\circ$;
+(3) $\angle{A}FB=\;\_\_\;=90^\circ$;
 
-(4) If $BC=8$, $AF=5$, then $S_{\triangle ABC}=\;\_\_\;$, $S_{\triangle ABE}=\;\_\_\;$.
+(4) If $BC=8$, $AF=5$, then $S_{\triangle{A}BC}=\;\_\_\;$, $S_{\triangle{A}BE}=\;\_\_\;$.
 
-The figure shows $\triangle ABC$ with side $BC$ horizontal and vertex $A$ on top; $E$ is the midpoint of $BC$, $D$ is the intersection of angle bisector $AD$ with $BC$, and $F$ is the foot of the perpendicular with $AF\perp BC$.
+The figure shows $\triangle{A}BC$ with side $BC$ horizontal and vertex $A$ on top; $E$ is the midpoint of $BC$, $D$ is the intersection of angle bisector $AD$ with $BC$, and $F$ is the foot of the perpendicular with $AF\perp{B}C$.
 
 ### Solution to Problem 7
 
-By **Definition 13.2.1 (Median)**, $E$ is the midpoint of $BC$; by **Definition 13.2.2 (Angle Bisector)**, $AD$ bisects $\angle BAC$; by **Definition 13.2.3 (Altitude)**, $AF\perp BC$.
+By **Definition 13.2.1 (Median)**, $E$ is the midpoint of $BC$; by **Definition 13.2.2 (Angle Bisector)**, $AD$ bisects $\angle{B}AC$; by **Definition 13.2.3 (Altitude)**, $AF\perp{B}C$.
 
 (1) $BE=EC=\frac{1}{2}BC$.
 
-(2) $\angle BAD=\angle CAD=\frac{1}{2}\angle BAC$.
+(2) $\angle{B}AD=\angle{C}AD=\frac{1}{2}\angle{B}AC$.
 
-(3) $\angle AFB=\angle AFC=90^\circ$.
+(3) $\angle{A}FB=\angle{A}FC=90^\circ$.
 
-(4) $S_{\triangle ABC}=\frac{1}{2}\cdot BC\cdot AF=\frac{1}{2}\times8\times5=20$. Also $BE=\frac{1}{2}BC=4$, and when taking $BE$ as the base the altitude is still $AF$, so $S_{\triangle ABE}=\frac{1}{2}\cdot BE\cdot AF=\frac{1}{2}\times4\times5=10$. $\blacksquare$
+(4) $S_{\triangle{A}BC}=\frac{1}{2}\cdot{B}C\cdot{A}F=\frac{1}{2}\times8\times5=20$. Also $BE=\frac{1}{2}BC=4$, and when taking $BE$ as the base the altitude is still $AF$, so $S_{\triangle{A}BE}=\frac{1}{2}\cdot{B}E\cdot{A}F=\frac{1}{2}\times4\times5=10$. $\blacksquare$
 
 ## Problem 8
 
@@ -260,9 +260,9 @@ By **Definition 13.2.1 (Median)**, $E$ is the midpoint of $BC$; by **Definition 
 
 The side $6$ may be a leg or the base; discuss the two cases and check with Relationship Among the Three Sides of a Triangle.
 
-If $6$ is a leg, then the base is $20-2\times6=8$, and the side lengths are $6$, $6$, $8$. Since $6+6=12> 8$, a triangle can be formed.
+If $6$ is a leg, then the base is $20-2\times6=8$, and the side lengths are $6$, $6$, $8$. Since $6+6=12>8$, a triangle can be formed.
 
-If $6$ is the base, then the legs are $\frac{20-6}{2}=7$, and the side lengths are $7$, $7$, $6$. Since $7+6=13> 7$, a triangle can be formed.
+If $6$ is the base, then the legs are $\frac{20-6}{2}=7$, and the side lengths are $7$, $7$, $6$. Since $7+6=13>7$, a triangle can be formed.
 
 Hence the other two sides are $6$ and $8$, or $7$ and $7$. $\blacksquare$
 
@@ -278,25 +278,25 @@ Hence the other two sides are $6$ and $8$, or $7$ and $7$. $\blacksquare$
 
 Check the two cases by Relationship Among the Three Sides of a Triangle.
 
-(1) If $5$ is a leg, the side lengths are $5$, $5$, $6$; since $5+5=10> 6$, the perimeter is $5+5+6=16$. If $6$ is a leg, the side lengths are $6$, $6$, $5$; since $6+5=11> 6$, the perimeter is $6+6+5=17$. Hence the perimeter is $16$ or $17$.
+(1) If $5$ is a leg, the side lengths are $5$, $5$, $6$; since $5+5=10>6$, the perimeter is $5+5+6=16$. If $6$ is a leg, the side lengths are $6$, $6$, $5$; since $6+5=11>6$, the perimeter is $6+6+5=17$. Hence the perimeter is $16$ or $17$.
 
-(2) If $4$ is a leg, the side lengths are $4$, $4$, $9$; since $4+4=8< 9$, a triangle cannot be formed. If $9$ is a leg, the side lengths are $9$, $9$, $4$; since $9+4=13> 9$, the perimeter is $9+9+4=22$. Hence the perimeter is $22$. $\blacksquare$
+(2) If $4$ is a leg, the side lengths are $4$, $4$, $9$; since $4+4=8<9$, a triangle cannot be formed. If $9$ is a leg, the side lengths are $9$, $9$, $4$; since $9+4=13>9$, the perimeter is $9+9+4=22$. Hence the perimeter is $22$. $\blacksquare$
 
 ## Problem 10
 
-(Exercise 13.2, Extension and Exploration, Problem 7) As shown, in $\triangle ABC$, if $AB=2$, $BC=4$, what is the ratio of the altitudes $AD$ and $CE$ of $\triangle ABC$? (Hint: use the area formula of a triangle.)
+(Exercise 13.2, Extension and Exploration, Problem 7) As shown, in $\triangle{A}BC$, if $AB=2$, $BC=4$, what is the ratio of the altitudes $AD$ and $CE$ of $\triangle{A}BC$? (Hint: use the area formula of a triangle.)
 
-The figure shows $\triangle ABC$ with side $BC$ horizontal, vertex $A$ on top, $AB=2$ and $BC=4$; $AD$ is the altitude from $A$ to $BC$ with foot $D$ on $BC$, and $CE$ is the altitude from $C$ to $AB$ with foot $E$ on $AB$.
+The figure shows $\triangle{A}BC$ with side $BC$ horizontal, vertex $A$ on top, $AB=2$ and $BC=4$; $AD$ is the altitude from $A$ to $BC$ with foot $D$ on $BC$, and $CE$ is the altitude from $C$ to $AB$ with foot $E$ on $AB$.
 
 ### Solution to Problem 10
 
 By **Definition 13.2.3 (Altitude)**, $AD$ is the altitude on side $BC$, and $CE$ is the altitude on side $AB$. The area of the same triangle can be expressed by two pairs of base and altitude.
 
 $$
-S_{\triangle ABC}=\frac{1}{2}\cdot BC\cdot AD=\frac{1}{2}\cdot AB\cdot CE.
+S_{\triangle{A}BC}=\frac{1}{2}\cdot{B}C\cdot{A}D=\frac{1}{2}\cdot{A}B\cdot{C}E.
 $$
 
-Substituting $BC=4$, $AB=2$, we get $4\cdot AD=2\cdot CE$, i.e. $CE=2AD$. Hence
+Substituting $BC=4$, $AB=2$, we get $4\cdot{A}D=2\cdot{C}E$, i.e. $CE=2AD$. Hence
 
 $$
 AD:CE=1:2.
@@ -306,113 +306,113 @@ $\blacksquare$
 
 ## Problem 11
 
-(Exercise 13.2, Extension and Exploration, Problem 8) As shown, in $\triangle ABC$, $AD$ is its angle bisector, $DE\parallel AC$, $DE$ meets $AB$ at point $E$, $DF\parallel AB$, $DF$ meets $AC$ at point $F$. What is the relationship between $\angle 1$ and $\angle 2$ in the figure? Why?
+(Exercise 13.2, Extension and Exploration, Problem 8) As shown, in $\triangle{A}BC$, $AD$ is its angle bisector, $DE\parallel{A}C$, $DE$ meets $AB$ at point $E$, $DF\parallel{A}B$, $DF$ meets $AC$ at point $F$. What is the relationship between $\angle1$ and $\angle2$ in the figure? Why?
 
-The figure shows $\triangle ABC$ with $AD$ bisecting $\angle BAC$ and meeting $BC$ at $D$; through $D$, draw $DE\parallel AC$ meeting $AB$ at $E$ and $DF\parallel AB$ meeting $AC$ at $F$; $\angle 1$ is the angle $\angle ADE$ between $AD$ and $DE$, and $\angle 2$ is the angle $\angle ADF$ between $AD$ and $DF$.
+The figure shows $\triangle{A}BC$ with $AD$ bisecting $\angle{B}AC$ and meeting $BC$ at $D$; through $D$, draw $DE\parallel{A}C$ meeting $AB$ at $E$ and $DF\parallel{A}B$ meeting $AC$ at $F$; $\angle1$ is the angle $\angle{A}DE$ between $AD$ and $DE$, and $\angle2$ is the angle $\angle{A}DF$ between $AD$ and $DF$.
 
 ### Solution to Problem 11
 
-$\angle 1=\angle 2$. The reason is as follows.
+$\angle1=\angle2$. The reason is as follows.
 
-Since $DE\parallel AC$, the alternate interior angles cut by line $AD$ across this pair of parallels are equal, so $\angle 1=\angle DAC$.
+Since $DE\parallel{A}C$, the alternate interior angles cut by line $AD$ across this pair of parallels are equal, so $\angle1=\angle{D}AC$.
 
-Since $DF\parallel AB$, the alternate interior angles cut by line $AD$ across this pair of parallels are equal, so $\angle 2=\angle BAD$.
+Since $DF\parallel{A}B$, the alternate interior angles cut by line $AD$ across this pair of parallels are equal, so $\angle2=\angle{B}AD$.
 
-Also, by **Definition 13.2.2 (Angle Bisector)**, $AD$ bisects $\angle BAC$, so $\angle BAD=\angle DAC$.
+Also, by **Definition 13.2.2 (Angle Bisector)**, $AD$ bisects $\angle{B}AC$, so $\angle{B}AD=\angle{D}AC$.
 
-In summary, $\angle 1=\angle DAC=\angle BAD=\angle 2$, i.e. $\angle 1=\angle 2$. $\blacksquare$
+In summary, $\angle1=\angle{D}AC=\angle{B}AD=\angle2$, i.e. $\angle1=\angle2$. $\blacksquare$
 
 ## Exercise 5
 
-(Exercise 13.3, Problem 1) As shown, the elevation angle from point $A$ to point $C$ is $\angle CAD=30^\circ$, and the elevation angle from point $B$ to point $C$ is $\angle CBD=45^\circ$. What is the viewing angle $\angle ACB$ from point $C$ to points $A$ and $B$?
+(Exercise 13.3, Problem 1) As shown, the elevation angle from point $A$ to point $C$ is $\angle{C}AD=30^\circ$, and the elevation angle from point $B$ to point $C$ is $\angle{C}BD=45^\circ$. What is the viewing angle $\angle{A}CB$ from point $C$ to points $A$ and $B$?
 
 ### Solution to Exercise 5
 
-By **Corollary 13.3.1 (Relationship Between an Exterior Angle and the Non-adjacent Interior Angles)**, $\angle CBD$ is the exterior angle of $\triangle ABC$ at point $B$, and it equals the sum of the two non-adjacent interior angles $\angle CAD$ and $\angle ACB$.
+By **Corollary 13.3.1 (Relationship Between an Exterior Angle and the Non-adjacent Interior Angles)**, $\angle{C}BD$ is the exterior angle of $\triangle{A}BC$ at point $B$, and it equals the sum of the two non-adjacent interior angles $\angle{C}AD$ and $\angle{A}CB$.
 
 $$
-\angle CBD=\angle CAD+\angle ACB.
+\angle{C}BD=\angle{C}AD+\angle{A}CB.
 $$
 
-Substituting $\angle CBD=45^\circ$, $\angle CAD=30^\circ$, we get
+Substituting $\angle{C}BD=45^\circ$, $\angle{C}AD=30^\circ$, we get
 
 $$
-\angle ACB=45^\circ-30^\circ=15^\circ.
+\angle{A}CB=45^\circ-30^\circ=15^\circ.
 $$
 
 $\blacksquare$
 
 ## Exercise 6
 
-(Exercise 13.3, Problem 2) As shown, in $\triangle ABC$, $\angle A=40^\circ$; find the degree measure of $\angle B+\angle C+\angle ADE+\angle AED$.
+(Exercise 13.3, Problem 2) As shown, in $\triangle{A}BC$, $\angle{A}=40^\circ$; find the degree measure of $\angle{B}+\angle{C}+\angle{A}DE+\angle{A}ED$.
 
 ### Solution to Exercise 6
 
-By **Theorem 13.3.1 (Triangle Interior Angle Sum Theorem)**, in $\triangle ABC$,
+By **Theorem 13.3.1 (Triangle Interior Angle Sum Theorem)**, in $\triangle{A}BC$,
 
 $$
-\angle B+\angle C=180^\circ-\angle A=180^\circ-40^\circ=140^\circ.
+\angle{B}+\angle{C}=180^\circ-\angle{A}=180^\circ-40^\circ=140^\circ.
 $$
 
-In $\triangle ADE$, similarly, since $\angle DAE$ and $\angle A$ are the same angle,
+In $\triangle{A}DE$, similarly, since $\angle{D}AE$ and $\angle{A}$ are the same angle,
 
 $$
-\angle ADE+\angle AED=180^\circ-\angle A=140^\circ.
+\angle{A}DE+\angle{A}ED=180^\circ-\angle{A}=140^\circ.
 $$
 
 Therefore
 
 $$
-\angle B+\angle C+\angle ADE+\angle AED=140^\circ+140^\circ=280^\circ.
+\angle{B}+\angle{C}+\angle{A}DE+\angle{A}ED=140^\circ+140^\circ=280^\circ.
 $$
 
 $\blacksquare$
 
 ## Exercise 7
 
-(Exercise 13.3, Problem 1) As shown, in $\triangle ABC$, $\angle ACB=90^\circ$, $CD\perp AB$ with foot at $D$. What is the relationship between $\angle ACD$ and $\angle B$? Why?
+(Exercise 13.3, Problem 1) As shown, in $\triangle{A}BC$, $\angle{A}CB=90^\circ$, $CD\perp{A}B$ with foot at $D$. What is the relationship between $\angle{A}CD$ and $\angle{B}$? Why?
 
 ### Solution to Exercise 7
 
-$\angle ACD=\angle B$. The reason is as follows.
+$\angle{A}CD=\angle{B}$. The reason is as follows.
 
-By The Acute Angles of a Right Triangle Are Complementary, in $\text{Rt}\triangle ABC$, $\angle A+\angle B=90^\circ$. Also in $\text{Rt}\triangle ACD$, $\angle A+\angle ACD=90^\circ$.
+By The Acute Angles of a Right Triangle Are Complementary, in $\text{Rt}\triangle{A}BC$, $\angle{A}+\angle{B}=90^\circ$. Also in $\text{Rt}\triangle{A}CD$, $\angle{A}+\angle{A}CD=90^\circ$.
 
-Both $\angle ACD$ and $\angle B$ are complementary to $\angle A$, so $\angle ACD=\angle B$. $\blacksquare$
+Both $\angle{A}CD$ and $\angle{B}$ are complementary to $\angle{A}$, so $\angle{A}CD=\angle{B}$. $\blacksquare$
 
 ## Exercise 8
 
-(Exercise 13.3, Problem 2) As shown, in $\triangle ABC$, $\angle C=90^\circ$, points $D$ and $E$ lie on sides $AB$ and $AC$ respectively, and $\angle 1=\angle 2$. Is $\triangle ADE$ a right triangle? Why?
+(Exercise 13.3, Problem 2) As shown, in $\triangle{A}BC$, $\angle{C}=90^\circ$, points $D$ and $E$ lie on sides $AB$ and $AC$ respectively, and $\angle1=\angle2$. Is $\triangle{A}DE$ a right triangle? Why?
 
 ### Solution to Exercise 8
 
-$\triangle ADE$ is a right triangle. The reason is as follows.
+$\triangle{A}DE$ is a right triangle. The reason is as follows.
 
-By The Acute Angles of a Right Triangle Are Complementary, in $\text{Rt}\triangle ABC$, $\angle A+\angle B=90^\circ$. Since $\angle 1=\angle 2$ and $\angle 2$ and $\angle B$ are the same pair of corresponding angles, we get $\angle ADE=\angle B$.
+By The Acute Angles of a Right Triangle Are Complementary, in $\text{Rt}\triangle{A}BC$, $\angle{A}+\angle{B}=90^\circ$. Since $\angle1=\angle2$ and $\angle2$ and $\angle{B}$ are the same pair of corresponding angles, we get $\angle{A}DE=\angle{B}$.
 
-Hence $\angle A+\angle ADE=\angle A+\angle B=90^\circ$, so in $\triangle ADE$, $\angle AED=180^\circ-\left(\angle A+\angle ADE\right)=90^\circ$. Therefore $\triangle ADE$ is a right triangle. $\blacksquare$
+Hence $\angle{A}+\angle{A}DE=\angle{A}+\angle{B}=90^\circ$, so in $\triangle{A}DE$, $\angle{A}ED=180^\circ-\left(\angle{A}+\angle{A}DE\right)=90^\circ$. Therefore $\triangle{A}DE$ is a right triangle. $\blacksquare$
 
 ## Exercise 9
 
-(Exercise 13.3, Problem 1) State the degree measures of $\angle 1$ and $\angle 2$ in each figure below.
+(Exercise 13.3, Problem 1) State the degree measures of $\angle1$ and $\angle2$ in each figure below.
 
-The figure shows six triangles arranged from left to right and top to bottom: in figure (1), the two given interior angles are $80^\circ$ and $60^\circ$, $\angle 1$ is the third interior angle and $\angle 2$ is an exterior angle; in figure (2), the two given angles are $30^\circ$ and $40^\circ$, $\angle 1$ is the third interior angle and $\angle 2$ is its exterior angle; in figure (3), a right triangle with one given acute angle $40^\circ$, $\angle 1$ is the other acute angle and $\angle 2$ is the exterior angle of that $40^\circ$ acute angle; in figure (4), given $\angle A=70^\circ$, $\angle B=40^\circ$, $\angle 1$ is the exterior angle of $\angle A$ and $\angle 2$ is the third interior angle; in figure (5), an equilateral triangle with a point on side $AB$ joined to vertex $C$, given $\angle 2=20^\circ$, $\angle 1$ is an angle in the small triangle; in figure (6), two lines intersect, with a right triangle below containing a $30^\circ$ acute angle, and $\angle 1$, $\angle 2$ are the corresponding vertical angles at the intersection.
+The figure shows six triangles arranged from left to right and top to bottom: in figure (1), the two given interior angles are $80^\circ$ and $60^\circ$, $\angle1$ is the third interior angle and $\angle2$ is an exterior angle; in figure (2), the two given angles are $30^\circ$ and $40^\circ$, $\angle1$ is the third interior angle and $\angle2$ is its exterior angle; in figure (3), a right triangle with one given acute angle $40^\circ$, $\angle1$ is the other acute angle and $\angle2$ is the exterior angle of that $40^\circ$ acute angle; in figure (4), given $\angle{A}=70^\circ$, $\angle{B}=40^\circ$, $\angle1$ is the exterior angle of $\angle{A}$ and $\angle2$ is the third interior angle; in figure (5), an equilateral triangle with a point on side $AB$ joined to vertex $C$, given $\angle2=20^\circ$, $\angle1$ is an angle in the small triangle; in figure (6), two lines intersect, with a right triangle below containing a $30^\circ$ acute angle, and $\angle1$, $\angle2$ are the corresponding vertical angles at the intersection.
 
 ### Solution to Exercise 9
 
 By **Theorem 13.3.1 (Triangle Interior Angle Sum Theorem)** and **Corollary 13.3.1 (Relationship Between an Exterior Angle and the Non-adjacent Interior Angles)**.
 
-Figure (1): the two interior angles are $80^\circ$, $60^\circ$, so $\angle 1=180^\circ-80^\circ-60^\circ=40^\circ$, $\angle 2=80^\circ+60^\circ=140^\circ$.
+Figure (1): the two interior angles are $80^\circ$, $60^\circ$, so $\angle1=180^\circ-80^\circ-60^\circ=40^\circ$, $\angle2=80^\circ+60^\circ=140^\circ$.
 
-Figure (2): the two base angles are $30^\circ$, $40^\circ$, so $\angle 1=180^\circ-30^\circ-40^\circ=110^\circ$, $\angle 2=30^\circ+40^\circ=70^\circ$.
+Figure (2): the two base angles are $30^\circ$, $40^\circ$, so $\angle1=180^\circ-30^\circ-40^\circ=110^\circ$, $\angle2=30^\circ+40^\circ=70^\circ$.
 
-Figure (3): one acute angle of the right triangle is $40^\circ$, so $\angle 1=90^\circ-40^\circ=50^\circ$, $\angle 2=180^\circ-40^\circ=140^\circ$.
+Figure (3): one acute angle of the right triangle is $40^\circ$, so $\angle1=90^\circ-40^\circ=50^\circ$, $\angle2=180^\circ-40^\circ=140^\circ$.
 
-Figure (4): $\angle A=70^\circ$, $\angle B=40^\circ$, so $\angle 2=180^\circ-70^\circ-40^\circ=70^\circ$, $\angle 1=70^\circ+40^\circ=110^\circ$.
+Figure (4): $\angle{A}=70^\circ$, $\angle{B}=40^\circ$, so $\angle2=180^\circ-70^\circ-40^\circ=70^\circ$, $\angle1=70^\circ+40^\circ=110^\circ$.
 
-Figure (5): in the large triangle $\angle A=\angle B=\angle C=60^\circ$; suppose a point on $AB$ is joined to $C$; given $\angle 2=20^\circ$, then in the corresponding small triangle one calculates $\angle 1=80^\circ$.
+Figure (5): in the large triangle $\angle{A}=\angle{B}=\angle{C}=60^\circ$; suppose a point on $AB$ is joined to $C$; given $\angle2=20^\circ$, then in the corresponding small triangle one calculates $\angle1=80^\circ$.
 
-Figure (6): in the lower right triangle, the other acute angle opposite $30^\circ$ is $60^\circ$; by the vertical-angle relation, $\angle 1=60^\circ$, $\angle 2=30^\circ$. $\blacksquare$
+Figure (6): in the lower right triangle, the other acute angle opposite $30^\circ$ is $60^\circ$; by the vertical-angle relation, $\angle1=60^\circ$, $\angle2=30^\circ$. $\blacksquare$
 
 ## Problem 12
 
@@ -454,14 +454,14 @@ By **Theorem 13.3.1 (Triangle Interior Angle Sum Theorem)**, the sum of the thre
 
 ## Problem 14
 
-(Exercise 13.3, Review and Consolidation, Problem 3) In $\triangle ABC$, $\angle B$ is $10^\circ$ greater than $\angle A$, and $\angle C$ is $10^\circ$ greater than $\angle B$. Find the degree measures of the interior angles of $\triangle ABC$.
+(Exercise 13.3, Review and Consolidation, Problem 3) In $\triangle{A}BC$, $\angle{B}$ is $10^\circ$ greater than $\angle{A}$, and $\angle{C}$ is $10^\circ$ greater than $\angle{B}$. Find the degree measures of the interior angles of $\triangle{A}BC$.
 
 ### Solution to Problem 14
 
-By **Theorem 13.3.1 (Triangle Interior Angle Sum Theorem)**, let $\angle A=x$; then $\angle B=x+10^\circ$, $\angle C=x+20^\circ$.
+By **Theorem 13.3.1 (Triangle Interior Angle Sum Theorem)**, let $\angle{A}=x$; then $\angle{B}=x+10^\circ$, $\angle{C}=x+20^\circ$.
 
 $$
 x+\left(x+10^\circ\right)+\left(x+20^\circ\right)=180^\circ.
 $$
 
-Solving gives $3x=150^\circ$, i.e. $x=50^\circ$. Hence $\angle A=50^\circ$, $\angle B=60^\circ$, $\angle C=70^\circ$. $\blacksquare$
+Solving gives $3x=150^\circ$, i.e. $x=50^\circ$. Hence $\angle{A}=50^\circ$, $\angle{B}=60^\circ$, $\angle{C}=70^\circ$. $\blacksquare$

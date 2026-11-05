@@ -70,71 +70,71 @@
 
 ## Exercise 1
 
-(Exercise 6.3, Problem 1) As shown, $\angle AOC=40^{\circ}$, $\angle COE=25^{\circ}$, and $OD$ is the bisector of $\angle AOB$; find the degree measure of $\angle DOB$.
+(Exercise 6.3, Problem 1) As shown, $\angle{A}OC=40^{\circ}$, $\angle{C}OE=25^{\circ}$, and $OD$ is the bisector of $\angle{A}OB$; find the degree measure of $\angle{D}OB$.
 
 ### Solution to Exercise 1
 
 By **Definition 6.3.3 (Comparing and Operating on Angles)** and **Definition 6.3.4 (Angle Bisector)**.
 
-$$\angle AOE=\angle AOC+\angle COE=40^{\circ}+25^{\circ}=65^{\circ}.$$
+$$\angle{A}OE=\angle{A}OC+\angle{C}OE=40^{\circ}+25^{\circ}=65^{\circ}.$$
 
-If $\angle AOB=\angle AOE=65^{\circ}$, and $OD$ bisects $\angle AOB$, then
+If $\angle{A}OB=\angle{A}OE=65^{\circ}$, and $OD$ bisects $\angle{A}OB$, then
 
-$$\angle DOB=\frac{1}{2}\angle AOB=\frac{1}{2}\times65^{\circ}=32.5^{\circ}.$$
+$$\angle{D}OB=\frac{1}{2}\angle{A}OB=\frac{1}{2}\times65^{\circ}=32.5^{\circ}.$$
 
 $\blacksquare$
 
 ## Exercise 2
 
-(Exercise 6.3, Problem 2) As shown, $OC$ is the bisector of $\angle AOB$, and $OD$ is the bisector of $\angle BOC$. If $\angle AOB=120^{\circ}$, find the degree measure of $\angle AOD$.
+(Exercise 6.3, Problem 2) As shown, $OC$ is the bisector of $\angle{A}OB$, and $OD$ is the bisector of $\angle{B}OC$. If $\angle{A}OB=120^{\circ}$, find the degree measure of $\angle{A}OD$.
 
 ### Solution to Exercise 2
 
 By **Definition 6.3.4 (Angle Bisector)**.
 
-$OC$ bisects $\angle AOB$, so $\angle BOC=\frac{1}{2}\angle AOB=60^{\circ}$.
+$OC$ bisects $\angle{A}OB$, so $\angle{B}OC=\frac{1}{2}\angle{A}OB=60^{\circ}$.
 
-$OD$ bisects $\angle BOC$, so $\angle COD=\frac{1}{2}\angle BOC=30^{\circ}$.
+$OD$ bisects $\angle{B}OC$, so $\angle{C}OD=\frac{1}{2}\angle{B}OC=30^{\circ}$.
 
-$$\angle AOD=\angle AOC+\angle COD=60^{\circ}+30^{\circ}=90^{\circ}.$$
+$$\angle{A}OD=\angle{A}OC+\angle{C}OD=60^{\circ}+30^{\circ}=90^{\circ}.$$
 
-In the figure, with $O$ as the vertex, the rays $OA$ and $OB$ form $\angle AOB=120^{\circ}$, ray $OC$ inside the angle bisects $\angle AOB$, and ray $OD$ inside the angle bisects $\angle BOC$.
+In the figure, with $O$ as the vertex, the rays $OA$ and $OB$ form $\angle{A}OB=120^{\circ}$, ray $OC$ inside the angle bisects $\angle{A}OB$, and ray $OD$ inside the angle bisects $\angle{B}OC$.
 
 $\blacksquare$
 
 ## Exercise 3
 
-(Exercise 6.3, Problem 3) As shown, given $\angle AOB=60^{\circ}$, $\angle BOC=40^{\circ}$, $OM$ bisects $\angle AOC$, and $ON$ bisects $\angle BOC$; find the degree measure of $\angle MON$.
+(Exercise 6.3, Problem 3) As shown, given $\angle{A}OB=60^{\circ}$, $\angle{B}OC=40^{\circ}$, $OM$ bisects $\angle{A}OC$, and $ON$ bisects $\angle{B}OC$; find the degree measure of $\angle{M}ON$.
 
 ### Solution to Exercise 3
 
 By **Definition 6.3.4 (Angle Bisector)**.
 
-$$\angle AOC=\angle AOB+\angle BOC=60^{\circ}+40^{\circ}=100^{\circ}.$$
+$$\angle{A}OC=\angle{A}OB+\angle{B}OC=60^{\circ}+40^{\circ}=100^{\circ}.$$
 
-$OM$ bisects $\angle AOC$, so $\angle MOC=\frac{1}{2}\angle AOC=50^{\circ}$.
+$OM$ bisects $\angle{A}OC$, so $\angle{M}OC=\frac{1}{2}\angle{A}OC=50^{\circ}$.
 
-$ON$ bisects $\angle BOC$, so $\angle NOC=\frac{1}{2}\angle BOC=20^{\circ}$.
+$ON$ bisects $\angle{B}OC$, so $\angle{N}OC=\frac{1}{2}\angle{B}OC=20^{\circ}$.
 
-$$\angle MON=\angle MOC-\angle NOC=50^{\circ}-20^{\circ}=30^{\circ}.$$
+$$\angle{M}ON=\angle{M}OC-\angle{N}OC=50^{\circ}-20^{\circ}=30^{\circ}.$$
 
 $\blacksquare$
 
 ## Exercise 4
 
-(Exercise 6.3, Problem 1) As shown, the right-angle vertices of two set squares coincide at point $O$; find the degree measure of $\angle AOD+\angle BOC$.
+(Exercise 6.3, Problem 1) As shown, the right-angle vertices of two set squares coincide at point $O$; find the degree measure of $\angle{A}OD+\angle{B}OC$.
 
 ### Solution to Exercise 4
 
 By **Definition 6.3.3 (Comparing and Operating on Angles)** and **Definition 6.3.5 (Complementary Angle)**.
 
-The right-angle vertices of the two set squares coincide, i.e. $\angle AOB=\angle COD=90^{\circ}$.
+The right-angle vertices of the two set squares coincide, i.e. $\angle{A}OB=\angle{C}OD=90^{\circ}$.
 
-$$\angle AOD=\angle AOB+\angle BOD=90^{\circ}+\angle BOD.$$
+$$\angle{A}OD=\angle{A}OB+\angle{B}OD=90^{\circ}+\angle{B}OD.$$
 
-$$\angle BOC=\angle COD-\angle BOD=90^{\circ}-\angle BOD.$$
+$$\angle{B}OC=\angle{C}OD-\angle{B}OD=90^{\circ}-\angle{B}OD.$$
 
-$$\angle AOD+\angle BOC=\left(90^{\circ}+\angle BOD\right)+\left(90^{\circ}-\angle BOD\right)=180^{\circ}.$$
+$$\angle{A}OD+\angle{B}OC=\left(90^{\circ}+\angle{B}OD\right)+\left(90^{\circ}-\angle{B}OD\right)=180^{\circ}.$$
 
 $\blacksquare$
 
@@ -154,19 +154,19 @@ Simplifying: $90-x=60-\frac{x}{3}-20$. $90-x=40-\frac{x}{3}$. $50=\frac{2x}{3}$.
 
 ## Exercise 6
 
-(Exercise 6.3, Problem 3) As shown, point $O$ lies on line $AB$, $OD$ bisects $\angle AOC$, and $OE$ bisects $\angle BOC$; find the degree measure of $\angle DOE$.
+(Exercise 6.3, Problem 3) As shown, point $O$ lies on line $AB$, $OD$ bisects $\angle{A}OC$, and $OE$ bisects $\angle{B}OC$; find the degree measure of $\angle{D}OE$.
 
 ### Solution to Exercise 6
 
 By **Definition 6.3.4 (Angle Bisector)** and **Definition 6.3.6 (Supplementary Angle)**.
 
-$O$ lies on line $AB$, so $\angle AOC+\angle BOC=180^{\circ}$.
+$O$ lies on line $AB$, so $\angle{A}OC+\angle{B}OC=180^{\circ}$.
 
-$OD$ bisects $\angle AOC$, so $\angle DOC=\frac{1}{2}\angle AOC$.
+$OD$ bisects $\angle{A}OC$, so $\angle{D}OC=\frac{1}{2}\angle{A}OC$.
 
-$OE$ bisects $\angle BOC$, so $\angle COE=\frac{1}{2}\angle BOC$.
+$OE$ bisects $\angle{B}OC$, so $\angle{C}OE=\frac{1}{2}\angle{B}OC$.
 
-$$\angle DOE=\angle DOC+\angle COE=\frac{1}{2}\left(\angle AOC+\angle BOC\right)=\frac{1}{2}\times180^{\circ}=90^{\circ}.$$
+$$\angle{D}OE=\angle{D}OC+\angle{C}OE=\frac{1}{2}\left(\angle{A}OC+\angle{B}OC\right)=\frac{1}{2}\times180^{\circ}=90^{\circ}.$$
 
 $\blacksquare$
 
@@ -242,39 +242,39 @@ By **Definition 6.3.2 (Measuring Angles)**.
 
 ## Problem 5
 
-(Problem 6.3, Review and Consolidation, Problem 5) If $\angle 1=\angle 2$ and $\angle 2=\angle 3$, what is the relation between $\angle 1$ and $\angle 3$?
+(Problem 6.3, Review and Consolidation, Problem 5) If $\angle1=\angle2$ and $\angle2=\angle3$, what is the relation between $\angle1$ and $\angle3$?
 
 ### Solution to Problem 5
 
 By analogy with **Definition 6.3.7 (Properties of Complementary and Supplementary Angles)**, substitute equal quantities.
 
-Since $\angle 1=\angle 2$ and $\angle 2=\angle 3$, by substitution of equal quantities we get $\angle 1=\angle 3$. $\blacksquare$
+Since $\angle1=\angle2$ and $\angle2=\angle3$, by substitution of equal quantities we get $\angle1=\angle3$. $\blacksquare$
 
 ## Problem 6
 
-(Problem 6.3, Review and Consolidation, Problem 6) As shown, $\angle AOB=\angle COD=90^{\circ}$, $\angle AOD=146^{\circ}$; find the degree measure of $\angle BOC$.
+(Problem 6.3, Review and Consolidation, Problem 6) As shown, $\angle{A}OB=\angle{C}OD=90^{\circ}$, $\angle{A}OD=146^{\circ}$; find the degree measure of $\angle{B}OC$.
 
 ### Solution to Problem 6
 
 By **Definition 6.3.3 (Comparing and Operating on Angles)**.
 
-$$\angle AOC=\angle AOD-\angle COD=146^{\circ}-90^{\circ}=56^{\circ}.$$
+$$\angle{A}OC=\angle{A}OD-\angle{C}OD=146^{\circ}-90^{\circ}=56^{\circ}.$$
 
-$$\angle BOC=\angle AOB-\angle AOC=90^{\circ}-56^{\circ}=34^{\circ}.$$
+$$\angle{B}OC=\angle{A}OB-\angle{A}OC=90^{\circ}-56^{\circ}=34^{\circ}.$$
 
 $\blacksquare$
 
 ## Problem 7
 
-(Problem 6.3, Review and Consolidation, Problem 7) Given $\angle A=50^{\circ}$, find the complement and supplement of $\angle A$.
+(Problem 6.3, Review and Consolidation, Problem 7) Given $\angle{A}=50^{\circ}$, find the complement and supplement of $\angle{A}$.
 
 ### Solution to Problem 7
 
 By **Definition 6.3.5 (Complementary Angle)** and **Definition 6.3.6 (Supplementary Angle)**.
 
-The complement of $\angle A$ $=90^{\circ}-50^{\circ}=40^{\circ}$.
+The complement of $\angle{A}$ $=90^{\circ}-50^{\circ}=40^{\circ}$.
 
-The supplement of $\angle A$ $=180^{\circ}-50^{\circ}=130^{\circ}$. $\blacksquare$
+The supplement of $\angle{A}$ $=180^{\circ}-50^{\circ}=130^{\circ}$. $\blacksquare$
 
 ## Problem 8
 
@@ -300,115 +300,115 @@ Extend both walls outward and measure the outside angle. The outside angle and t
 
 ## Problem 10
 
-(Problem 6.3, Comprehensive Application, Problem 10) As shown, $OB$ is the bisector of $\angle AOC$, and $OD$ is the bisector of $\angle COE$.
+(Problem 6.3, Comprehensive Application, Problem 10) As shown, $OB$ is the bisector of $\angle{A}OC$, and $OD$ is the bisector of $\angle{C}OE$.
 
-(1) If $\angle AOB=40^{\circ}$ and $\angle DOE=30^{\circ}$, find the degree measure of $\angle BOD$;
+(1) If $\angle{A}OB=40^{\circ}$ and $\angle{D}OE=30^{\circ}$, find the degree measure of $\angle{B}OD$;
 
-(2) If $\angle AOE=140^{\circ}$ and $\angle COD=30^{\circ}$, find the degree measure of $\angle AOB$.
+(2) If $\angle{A}OE=140^{\circ}$ and $\angle{C}OD=30^{\circ}$, find the degree measure of $\angle{A}OB$.
 
 ### Solution to Problem 10
 
 By **Definition 6.3.4 (Angle Bisector)**.
 
-(1) $OB$ bisects $\angle AOC$, so $\angle BOC=\angle AOB=40^{\circ}$. $OD$ bisects $\angle COE$, so $\angle COD=\angle DOE=30^{\circ}$.
+(1) $OB$ bisects $\angle{A}OC$, so $\angle{B}OC=\angle{A}OB=40^{\circ}$. $OD$ bisects $\angle{C}OE$, so $\angle{C}OD=\angle{D}OE=30^{\circ}$.
 
-$$\angle BOD=\angle BOC+\angle COD=40^{\circ}+30^{\circ}=70^{\circ}.$$
+$$\angle{B}OD=\angle{B}OC+\angle{C}OD=40^{\circ}+30^{\circ}=70^{\circ}.$$
 
-(2) $OD$ bisects $\angle COE$, so $\angle COE=2\angle COD=60^{\circ}$.
+(2) $OD$ bisects $\angle{C}OE$, so $\angle{C}OE=2\angle{C}OD=60^{\circ}$.
 
-$$\angle AOC=\angle AOE-\angle COE=140^{\circ}-60^{\circ}=80^{\circ}.$$
+$$\angle{A}OC=\angle{A}OE-\angle{C}OE=140^{\circ}-60^{\circ}=80^{\circ}.$$
 
-$OB$ bisects $\angle AOC$, so $\angle AOB=\frac{1}{2}\angle AOC=40^{\circ}$. $\blacksquare$
+$OB$ bisects $\angle{A}OC$, so $\angle{A}OB=\frac{1}{2}\angle{A}OC=40^{\circ}$. $\blacksquare$
 
 ## Problem 11
 
-(Problem 6.3, Comprehensive Application, Problem 11) As shown, given $\angle AOB=90^{\circ}$, $\angle BOC=60^{\circ}$, $OM$ bisects $\angle AOC$, and $ON$ bisects $\angle BOC$.
+(Problem 6.3, Comprehensive Application, Problem 11) As shown, given $\angle{A}OB=90^{\circ}$, $\angle{B}OC=60^{\circ}$, $OM$ bisects $\angle{A}OC$, and $ON$ bisects $\angle{B}OC$.
 
-(1) Find the degree measure of $\angle MON$;
+(1) Find the degree measure of $\angle{M}ON$;
 
-(2) If $\angle AOB=\alpha$, with other conditions unchanged, find the degree measure of $\angle MON$.
+(2) If $\angle{A}OB=\alpha$, with other conditions unchanged, find the degree measure of $\angle{M}ON$.
 
 ### Solution to Problem 11
 
 By **Definition 6.3.4 (Angle Bisector)**.
 
-(1) $\angle AOC=\angle AOB+\angle BOC=90^{\circ}+60^{\circ}=150^{\circ}$.
+(1) $\angle{A}OC=\angle{A}OB+\angle{B}OC=90^{\circ}+60^{\circ}=150^{\circ}$.
 
-$OM$ bisects $\angle AOC$, so $\angle MOC=\frac{1}{2}\angle AOC=75^{\circ}$.
+$OM$ bisects $\angle{A}OC$, so $\angle{M}OC=\frac{1}{2}\angle{A}OC=75^{\circ}$.
 
-$ON$ bisects $\angle BOC$, so $\angle NOC=\frac{1}{2}\angle BOC=30^{\circ}$.
+$ON$ bisects $\angle{B}OC$, so $\angle{N}OC=\frac{1}{2}\angle{B}OC=30^{\circ}$.
 
-$$\angle MON=\angle MOC-\angle NOC=75^{\circ}-30^{\circ}=45^{\circ}.$$
+$$\angle{M}ON=\angle{M}OC-\angle{N}OC=75^{\circ}-30^{\circ}=45^{\circ}.$$
 
-(2) If $\angle AOB=\alpha$, then $\angle AOC=\alpha+60^{\circ}$.
+(2) If $\angle{A}OB=\alpha$, then $\angle{A}OC=\alpha+60^{\circ}$.
 
-$$\angle MOC=\frac{1}{2}\left(\alpha+60^{\circ}\right),\quad \angle NOC=\frac{1}{2}\times60^{\circ}=30^{\circ}.$$
+$$\angle{M}OC=\frac{1}{2}\left(\alpha+60^{\circ}\right),\quad\angle{N}OC=\frac{1}{2}\times60^{\circ}=30^{\circ}.$$
 
-$$\angle MON=\frac{1}{2}\left(\alpha+60^{\circ}\right)-30^{\circ}=\frac{\alpha}{2}.$$
+$$\angle{M}ON=\frac{1}{2}\left(\alpha+60^{\circ}\right)-30^{\circ}=\frac{\alpha}{2}.$$
 
 $\blacksquare$
 
 ## Problem 12
 
-(Problem 6.3, Comprehensive Application, Problem 12) As shown, $\angle AOB$ is a straight angle, $OD$, $OC$, $OE$ are three rays, $OD$ bisects $\angle AOC$, and $OE$ bisects $\angle BOC$; find the degree measure of $\angle DOE$.
+(Problem 6.3, Comprehensive Application, Problem 12) As shown, $\angle{A}OB$ is a straight angle, $OD$, $OC$, $OE$ are three rays, $OD$ bisects $\angle{A}OC$, and $OE$ bisects $\angle{B}OC$; find the degree measure of $\angle{D}OE$.
 
 ### Solution to Problem 12
 
 By **Definition 6.3.4 (Angle Bisector)** and **Definition 6.3.6 (Supplementary Angle)**.
 
-$\angle AOB=180^{\circ}$, so $\angle AOC+\angle BOC=180^{\circ}$.
+$\angle{A}OB=180^{\circ}$, so $\angle{A}OC+\angle{B}OC=180^{\circ}$.
 
-$OD$ bisects $\angle AOC$, and $OE$ bisects $\angle BOC$.
+$OD$ bisects $\angle{A}OC$, and $OE$ bisects $\angle{B}OC$.
 
-$$\angle DOE=\angle DOC+\angle COE=\frac{1}{2}\angle AOC+\frac{1}{2}\angle BOC=\frac{1}{2}\times180^{\circ}=90^{\circ}.$$
+$$\angle{D}OE=\angle{D}OC+\angle{C}OE=\frac{1}{2}\angle{A}OC+\frac{1}{2}\angle{B}OC=\frac{1}{2}\times180^{\circ}=90^{\circ}.$$
 
 $\blacksquare$
 
 ## Problem 13
 
-(Problem 6.3, Comprehensive Application, Problem 13) Given that $\angle 1$ is the supplement of $\angle 2$, and $\angle 1$ is also the complement of $\angle 3$. If $\angle 2=110^{\circ}$, find the degree measure of $\angle 3$.
+(Problem 6.3, Comprehensive Application, Problem 13) Given that $\angle1$ is the supplement of $\angle2$, and $\angle1$ is also the complement of $\angle3$. If $\angle2=110^{\circ}$, find the degree measure of $\angle3$.
 
 ### Solution to Problem 13
 
 By **Definition 6.3.5 (Complementary Angle)** and **Definition 6.3.6 (Supplementary Angle)**.
 
-$\angle 1$ is the supplement of $\angle 2$: $\angle 1=180^{\circ}-\angle 2=180^{\circ}-110^{\circ}=70^{\circ}$.
+$\angle1$ is the supplement of $\angle2$: $\angle1=180^{\circ}-\angle2=180^{\circ}-110^{\circ}=70^{\circ}$.
 
-$\angle 1$ is the complement of $\angle 3$: $\angle 1+\angle 3=90^{\circ}$, so $\angle 3=90^{\circ}-70^{\circ}=20^{\circ}$. $\blacksquare$
+$\angle1$ is the complement of $\angle3$: $\angle1+\angle3=90^{\circ}$, so $\angle3=90^{\circ}-70^{\circ}=20^{\circ}$. $\blacksquare$
 
 ## Problem 14
 
-(Problem 6.3, Comprehensive Application, Problem 14) As shown, given $\angle AOB=120^{\circ}$, with vertex $O$ and side $OB$, draw $\angle BOC=30^{\circ}$; find the degree measure of $\angle AOC$.
+(Problem 6.3, Comprehensive Application, Problem 14) As shown, given $\angle{A}OB=120^{\circ}$, with vertex $O$ and side $OB$, draw $\angle{B}OC=30^{\circ}$; find the degree measure of $\angle{A}OC$.
 
 ### Solution to Problem 14
 
-By **Definition 6.3.3 (Comparing and Operating on Angles)**, $OC$ may lie inside $\angle AOB$, or outside it.
+By **Definition 6.3.3 (Comparing and Operating on Angles)**, $OC$ may lie inside $\angle{A}OB$, or outside it.
 
-If $OC$ lies inside $\angle AOB$: $\angle AOC=\angle AOB-\angle BOC=120^{\circ}-30^{\circ}=90^{\circ}$.
+If $OC$ lies inside $\angle{A}OB$: $\angle{A}OC=\angle{A}OB-\angle{B}OC=120^{\circ}-30^{\circ}=90^{\circ}$.
 
-If $OC$ lies outside $\angle AOB$: $\angle AOC=\angle AOB+\angle BOC=120^{\circ}+30^{\circ}=150^{\circ}$.
+If $OC$ lies outside $\angle{A}OB$: $\angle{A}OC=\angle{A}OB+\angle{B}OC=120^{\circ}+30^{\circ}=150^{\circ}$.
 
-The figure shows two cases: on the left, ray $OC$ lies inside $\angle AOB$ with $\angle BOC=30^{\circ}$, so $\angle AOC=90^{\circ}$; on the right, ray $OC$ lies outside $\angle AOB$ with $\angle BOC=30^{\circ}$, so $\angle AOC=150^{\circ}$.
+The figure shows two cases: on the left, ray $OC$ lies inside $\angle{A}OB$ with $\angle{B}OC=30^{\circ}$, so $\angle{A}OC=90^{\circ}$; on the right, ray $OC$ lies outside $\angle{A}OB$ with $\angle{B}OC=30^{\circ}$, so $\angle{A}OC=150^{\circ}$.
 
-Hence $\angle AOC=90^{\circ}$ or $150^{\circ}$. $\blacksquare$
+Hence $\angle{A}OC=90^{\circ}$ or $150^{\circ}$. $\blacksquare$
 
 ## Problem 15
 
-(Problem 6.3, Extension and Exploration, Problem 15) As shown, $6$ rays $OA$, $OB$, $OC$, $OD$, $OE$, $OF$ emanate from point $O$, with $\angle AOB=100^{\circ}$, $\angle FOD=40^{\circ}$, $\angle EOF=30^{\circ}$, $OG$ bisects $\angle COE$, and $\angle COG=30^{\circ}$. Find the degree measure of $\angle BOC$.
+(Problem 6.3, Extension and Exploration, Problem 15) As shown, $6$ rays $OA$, $OB$, $OC$, $OD$, $OE$, $OF$ emanate from point $O$, with $\angle{A}OB=100^{\circ}$, $\angle{F}OD=40^{\circ}$, $\angle{E}OF=30^{\circ}$, $OG$ bisects $\angle{C}OE$, and $\angle{C}OG=30^{\circ}$. Find the degree measure of $\angle{B}OC$.
 
 ### Solution to Problem 15
 
 By **Definition 6.3.3 (Comparing and Operating on Angles)** and **Definition 6.3.4 (Angle Bisector)**.
 
-By **Definition 6.3.2 (Measuring Angles)**, figure (1) shows the three exterior angles $\angle 1$, $\angle 2$, $\angle 3$ of triangle $ABC$; figure (2) shows the four exterior angles $\angle 1$, $\angle 2$, $\angle 3$, $\angle 4$ of a quadrilateral.
+By **Definition 6.3.2 (Measuring Angles)**, figure (1) shows the three exterior angles $\angle1$, $\angle2$, $\angle3$ of triangle $ABC$; figure (2) shows the four exterior angles $\angle1$, $\angle2$, $\angle3$, $\angle4$ of a quadrilateral.
 
 (1) Each exterior angle of a triangle is supplementary to its adjacent interior angle. The sum of the three exterior angles $=3\times180^{\circ}-$ the sum of the three interior angles $=540^{\circ}-180^{\circ}=360^{\circ}$. That is,
 
-$$\angle 1+\angle 2+\angle 3=360^{\circ}.$$
+$$\angle1+\angle2+\angle3=360^{\circ}.$$
 
 (2) Each exterior angle of a quadrilateral is supplementary to its adjacent interior angle. The sum of the four exterior angles $=4\times180^{\circ}-$ the sum of the four interior angles $=720^{\circ}-360^{\circ}=360^{\circ}$. That is,
 
-$$\angle 1+\angle 2+\angle 3+\angle 4=360^{\circ}.$$
+$$\angle1+\angle2+\angle3+\angle4=360^{\circ}.$$
 
 (3) Combining (1) and (2), we may conjecture: the sum of the exterior angles of any polygon is always $360^{\circ}$. $\blacksquare$
 
@@ -430,7 +430,7 @@ The degree system uses degrees, minutes, and seconds as units, $1^{\circ}=60'$, 
 
 By **Definition 6.1.3 (Net)**, after the cube's net is folded, each face corresponds to and is adjacent to another.
 
-The cube's net consists of six identical squares; draw the net to the dimensions shown ($6\ \text{cm}\times6\ \text{cm}$ for each face), cut and fold it to obtain a cube of side $6\ \text{cm}$. $\blacksquare$
+The cube's net consists of six identical squares; draw the net to the dimensions shown ($6\,\text{cm}\times6\,\text{cm}$ for each face), cut and fold it to obtain a cube of side $6\,\text{cm}$. $\blacksquare$
 
 ## Activity 2
 
@@ -498,7 +498,7 @@ By **Definition 6.1.2 (Plane Figure)**, looking down at each object gives the co
 
 In the figure, object $A$ is an L-shaped stack of three cubes; from above two adjacent squares are seen, i.e. figure $b$ (square). Object $B$ is a kettle with a handle; from above a circular spout plus the outline of the handle on both sides is seen, i.e. figure $e$ (large circle with protrusions on two sides). Object $C$ is a spring; from above a hollow ring is seen, i.e. figure $d$ (small circle). Object $D$ is a packaging box; from above a rectangle is seen, i.e. figure $c$ (rectangle). Object $E$ is an hourglass-shaped cylinder; from above a circle is seen, i.e. figure $a$ (circle).
 
-The corresponding connections: $A\to b$, $B\to e$, $C\to d$, $D\to c$, $E\to a$. $\blacksquare$
+The corresponding connections: $A\to{b}$, $B\to{e}$, $C\to{d}$, $D\to{c}$, $E\to{a}$. $\blacksquare$
 
 ## Review Problem 3
 
@@ -544,7 +544,7 @@ $\blacksquare$
 
 ## Review Problem 5
 
-(Review Problem, Review and Consolidation, Problem 5) In a part diagram, $AD=76\ \text{mm}$, $BD=70\ \text{mm}$, $CD=19\ \text{mm}$; find the lengths of $AB$ and $BC$.
+(Review Problem, Review and Consolidation, Problem 5) In a part diagram, $AD=76\,\text{mm}$, $BD=70\,\text{mm}$, $CD=19\,\text{mm}$; find the lengths of $AB$ and $BC$.
 
 ### Solution to Review Problem 5
 
@@ -552,8 +552,8 @@ By **Definition 6.2.5 (Basic Fact about Segments)** and the sum-and-difference r
 
 The points $A$, $B$, $C$, $D$ lie in that order on the same line (as shown in the figure).
 
-$$AB=AD-BD=76-70=6\ \text{mm}.$$
+$$AB=AD-BD=76-70=6\,\text{mm}.$$
 
-$$BC=BD-CD=70-19=51\ \text{mm}.$$
+$$BC=BD-CD=70-19=51\,\text{mm}.$$
 
 $\blacksquare$

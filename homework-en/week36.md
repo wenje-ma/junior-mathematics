@@ -14,7 +14,7 @@
 
 > **Definition 16.2.4 (Division of Powers with the Same Base)**
 > 
-> $a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ are both positive integers, $m> n$); that is, when dividing powers with the same base, the base is unchanged and the exponents are subtracted.
+> $a^m\div{a}^n=a^{m-n}$ ($a\ne0$, $m,n$ are both positive integers, $m>{}n$); that is, when dividing powers with the same base, the base is unchanged and the exponents are subtracted.
 
 > **Definition 16.2.5 (Zero Exponent Power)**
 > 
@@ -90,9 +90,9 @@ Substituting $x=5,y=5$, we have $x-y=0$, so the original expression $=0-\left(x+
 
 (Exercise 16.2, Problem 1) Calculate:
 
-(1) $x^7\div x^5$;
+(1) $x^7\div{x}^5$;
 
-(2) $m^8\div m^8$;
+(2) $m^8\div{m}^8$;
 
 (3) $\left(-a\right)^{10}\div\left(-a\right)^7$;
 
@@ -102,13 +102,13 @@ Substituting $x=5,y=5$, we have $x-y=0$, so the original expression $=0-\left(x+
 
 By **Definition 16.2.4 (Division of Powers with the Same Base)** and **Definition 16.2.5 (Zero Exponent Power)**.
 
-(1) $x^7\div x^5=x^2$.
+(1) $x^7\div{x}^5=x^2$.
 
-(2) $m^8\div m^8=m^0=1$.
+(2) $m^8\div{m}^8=m^0=1$.
 
 (3) $\left(-a\right)^{10}\div\left(-a\right)^7=\left(-a\right)^3=-a^3$.
 
-(4) $\left(xy\right)^5\div\left(xy\right)^3=\left(xy\right)^2=x^2 y^2$. $\blacksquare$
+(4) $\left(xy\right)^5\div\left(xy\right)^3=\left(xy\right)^2=x^2y^2$. $\blacksquare$
 
 ## Exercise 4
 
@@ -116,9 +116,9 @@ By **Definition 16.2.4 (Division of Powers with the Same Base)** and **Definitio
 
 (1) $\left(10ab^3\right)\div\left(-5ab\right)$;
 
-(2) $\left(-8a^2 b^3\right)\div\left(6ab^2\right)$;
+(2) $\left(-8a^2b^3\right)\div\left(6ab^2\right)$;
 
-(3) $\left(-21x^2 y^4\right)\div\left(-3x^2 y^3\right)$;
+(3) $\left(-21x^2y^4\right)\div\left(-3x^2y^3\right)$;
 
 (4) $\left(6\times10^8\right)\div\left(3\times10^5\right)$.
 
@@ -128,9 +128,9 @@ By **Definition 16.2.6 (Division of a Monomial by a Monomial)**.
 
 (1) $\left(10ab^3\right)\div\left(-5ab\right)=-2b^2$.
 
-(2) $\left(-8a^2 b^3\right)\div\left(6ab^2\right)=-\frac43 ab$.
+(2) $\left(-8a^2b^3\right)\div\left(6ab^2\right)=-\frac43ab$.
 
-(3) $\left(-21x^2 y^4\right)\div\left(-3x^2 y^3\right)=7y$.
+(3) $\left(-21x^2y^4\right)\div\left(-3x^2y^3\right)=7y$.
 
 (4) $\left(6\times10^8\right)\div\left(3\times10^5\right)=2\times10^3$. $\blacksquare$
 
@@ -138,27 +138,27 @@ By **Definition 16.2.6 (Division of a Monomial by a Monomial)**.
 
 (Exercise 16.2, Problem 3) Calculate:
 
-(1) $\left(6ab+5a\right)\div a$;
+(1) $\left(6ab+5a\right)\div{a}$;
 
-(2) $\left(15x^2 y-10xy^2\right)\div\left(5xy\right)$.
+(2) $\left(15x^2y-10xy^2\right)\div\left(5xy\right)$.
 
 ### Solution to Exercise 5
 
 By **Definition 16.2.7 (Division of a Polynomial by a Monomial)**.
 
-(1) $\left(6ab+5a\right)\div a=6b+5$.
+(1) $\left(6ab+5a\right)\div{a}=6b+5$.
 
-(2) $\left(15x^2 y-10xy^2\right)\div\left(5xy\right)=3x-2y$. $\blacksquare$
+(2) $\left(15x^2y-10xy^2\right)\div\left(5xy\right)=3x-2y$. $\blacksquare$
 
 ## Problem 1
 
 (Exercise 16.2, Review and Consolidation, Problem 1) Calculate:
 
-(1) $3x\cdot6x^2 y$;
+(1) $3x\cdot6x^2y$;
 
-(2) $a^2 b\left(-3ab^2\right)$;
+(2) $a^2b\left(-3ab^2\right)$;
 
-(3) $4x^2 y\left(-xy^2\right)^3$;
+(3) $4x^2y\left(-xy^2\right)^3$;
 
 (4) $\left(1.25\times10^5\right)\times\left(2\times10^3\right)^3$.
 
@@ -166,11 +166,11 @@ By **Definition 16.2.7 (Division of a Polynomial by a Monomial)**.
 
 By **Definition 16.2.1 (Multiplication of a Monomial by a Monomial)**.
 
-(1) $3x\cdot6x^2 y=18x^3 y$.
+(1) $3x\cdot6x^2y=18x^3y$.
 
-(2) $a^2 b\left(-3ab^2\right)=-3a^3 b^3$.
+(2) $a^2b\left(-3ab^2\right)=-3a^3b^3$.
 
-(3) $4x^2 y\left(-xy^2\right)^3=4x^2 y\cdot\left(-x^3 y^6\right)=-4x^5 y^7$.
+(3) $4x^2y\left(-xy^2\right)^3=4x^2y\cdot\left(-x^3y^6\right)=-4x^5y^7$.
 
 (4) $\left(1.25\times10^5\right)\times\left(2\times10^3\right)^3=1.25\times10^5\times8\times10^9=10\times10^{14}=1\times10^{15}$. $\blacksquare$
 
@@ -184,7 +184,7 @@ By **Definition 16.2.1 (Multiplication of a Monomial by a Monomial)**.
 
 (3) $5ab\left(2a-b+0.2\right)$;
 
-(4) $\left(2a^2-\frac23 a-\frac49\right)\left(-9a\right)$.
+(4) $\left(2a^2-\frac23a-\frac49\right)\left(-9a\right)$.
 
 ### Solution to Problem 2
 
@@ -194,9 +194,9 @@ By **Definition 16.2.2 (Multiplication of a Monomial by a Polynomial)**.
 
 (2) $2x^2\left(x-\frac12\right)=2x^3-x^2$.
 
-(3) $5ab\left(2a-b+0.2\right)=10a^2 b-5ab^2+ab$.
+(3) $5ab\left(2a-b+0.2\right)=10a^2b-5ab^2+ab$.
 
-(4) $\left(2a^2-\frac23 a-\frac49\right)\left(-9a\right)=-18a^3+6a^2+4a$. $\blacksquare$
+(4) $\left(2a^2-\frac23a-\frac49\right)\left(-9a\right)=-18a^3+6a^2+4a$. $\blacksquare$
 
 ## Problem 3
 
@@ -220,7 +220,7 @@ By **Definition 16.2.3 (Multiplication of a Polynomial by a Polynomial)**.
 
 (1) $\left(x-6\right)\left(x-3\right)=x^2-9x+18$.
 
-(2) $\left(x+\frac12\right)\left(x-\frac13\right)=x^2+\frac16 x-\frac16$.
+(2) $\left(x+\frac12\right)\left(x-\frac13\right)=x^2+\frac16x-\frac16$.
 
 (3) $\left(3x+2\right)\left(x+2\right)=3x^2+8x+4$.
 
@@ -238,11 +238,11 @@ By **Definition 16.2.3 (Multiplication of a Polynomial by a Polynomial)**.
 
 (2) $\left(ab^2\right)^3\div\left(-ab\right)^2$;
 
-(3) $\left(25a^3 b^2\right)\div\left(5ab\right)^2$;
+(3) $\left(25a^3b^2\right)\div\left(5ab\right)^2$;
 
-(4) $\left(14m^2 n\right)^2\div\left(7m^2\right)\div\left(7m\right)$;
+(4) $\left(14m^2n\right)^2\div\left(7m^2\right)\div\left(7m\right)$;
 
-(5) $\left(-5a^3 b^5 c+35a^2 b^3 c^2-abc\right)\div\left(-abc\right)$;
+(5) $\left(-5a^3b^5c+35a^2b^3c^2-abc\right)\div\left(-abc\right)$;
 
 (6) $\left(-81x^{n+5}+15x^{n+1}-3x^{n-1}\right)\div\left(-3x^{n-1}\right)$.
 
@@ -250,15 +250,15 @@ By **Definition 16.2.3 (Multiplication of a Polynomial by a Polynomial)**.
 
 By **Definition 16.2.6 (Division of a Monomial by a Monomial)** and **Definition 16.2.7 (Division of a Polynomial by a Monomial)**.
 
-(1) $\left(a^3\right)^2\div\left(a^2\right)^3=a^6\div a^6=1$.
+(1) $\left(a^3\right)^2\div\left(a^2\right)^3=a^6\div{a}^6=1$.
 
-(2) $\left(ab^2\right)^3\div\left(-ab\right)^2=a^3 b^6\div\left(a^2 b^2\right)=ab^4$.
+(2) $\left(ab^2\right)^3\div\left(-ab\right)^2=a^3b^6\div\left(a^2b^2\right)=ab^4$.
 
-(3) $\left(25a^3 b^2\right)\div\left(25a^2 b^2\right)=a$.
+(3) $\left(25a^3b^2\right)\div\left(25a^2b^2\right)=a$.
 
-(4) $\left(14m^2 n\right)^2\div\left(7m^2\right)\div\left(7m\right)=196m^4 n^2\div\left(7m^2\right)\div\left(7m\right)=28m^2 n^2\div\left(7m\right)=4mn^2$.
+(4) $\left(14m^2n\right)^2\div\left(7m^2\right)\div\left(7m\right)=196m^4n^2\div\left(7m^2\right)\div\left(7m\right)=28m^2n^2\div\left(7m\right)=4mn^2$.
 
-(5) $\left(-5a^3 b^5 c+35a^2 b^3 c^2-abc\right)\div\left(-abc\right)=5a^2 b^4-35ab^2 c+1$.
+(5) $\left(-5a^3b^5c+35a^2b^3c^2-abc\right)\div\left(-abc\right)=5a^2b^4-35ab^2c+1$.
 
 (6) $\left(-81x^{n+5}+15x^{n+1}-3x^{n-1}\right)\div\left(-3x^{n-1}\right)=27x^6-5x^2+1$. $\blacksquare$
 
@@ -266,33 +266,33 @@ By **Definition 16.2.6 (Division of a Monomial by a Monomial)** and **Definition
 
 (Exercise 16.2, Review and Consolidation, Problem 5) Calculate:
 
-(1) $\left(-3x^2 y\right)^2\cdot\left(-\frac23 xyz\right)\div\left(\frac34 xy^2\right)$;
+(1) $\left(-3x^2y\right)^2\cdot\left(-\frac23xyz\right)\div\left(\frac34xy^2\right)$;
 
 (2) $\left(-4ab^3-18ab\right)\div\left(-12ab^2\right)$;
 
 (3) $\left(x-3\right)\left(x-2\right)-6\left(x^2+x-1\right)$;
 
-(4) $\left(-4ab^3+8a^2 b^2\right)\div\left(4ab\right)-\left(2a+b\right)\left(a-b\right)$.
+(4) $\left(-4ab^3+8a^2b^2\right)\div\left(4ab\right)-\left(2a+b\right)\left(a-b\right)$.
 
 ### Solution to Problem 5
 
 In mixed operations, take powers first, then multiplication and division, then addition and subtraction.
 
-(1) $\left(-3x^2 y\right)^2\cdot\left(-\frac23 xyz\right)\div\left(\frac34 xy^2\right)=9x^4 y^2\cdot\left(-\frac23 xyz\right)\div\left(\frac34 xy^2\right)=-6x^5 y^3 z\div\left(\frac34 xy^2\right)=-8x^4 yz$.
+(1) $\left(-3x^2y\right)^2\cdot\left(-\frac23xyz\right)\div\left(\frac34xy^2\right)=9x^4y^2\cdot\left(-\frac23xyz\right)\div\left(\frac34xy^2\right)=-6x^5y^3z\div\left(\frac34xy^2\right)=-8x^4yz$.
 
-(2) $\left(-4ab^3-18ab\right)\div\left(-12ab^2\right)=\frac13 b+\frac{3}{2b}$.
+(2) $\left(-4ab^3-18ab\right)\div\left(-12ab^2\right)=\frac13b+\frac{3}{2b}$.
 
 (3) $\left(x-3\right)\left(x-2\right)-6\left(x^2+x-1\right)=x^2-5x+6-6x^2-6x+6=-5x^2-11x+12$.
 
-(4) $\left(-4ab^3+8a^2 b^2\right)\div\left(4ab\right)-\left(2a+b\right)\left(a-b\right)=-b^2+2ab-\left(2a^2-2ab+ab-b^2\right)=-b^2+2ab-2a^2+ab+b^2=-2a^2+3ab$. $\blacksquare$
+(4) $\left(-4ab^3+8a^2b^2\right)\div\left(4ab\right)-\left(2a+b\right)\left(a-b\right)=-b^2+2ab-\left(2a^2-2ab+ab-b^2\right)=-b^2+2ab-2a^2+ab+b^2=-2a^2+3ab$. $\blacksquare$
 
 ## Problem 6
 
 (Exercise 16.2, Comprehensive Application, Problem 6) Calculate:
 
-(1) $\left[5a^4\cdot a^2-\left(3a^3\right)^2\right]\div\left(2a^2\right)^2$;
+(1) $\left[5a^4\cdot{a}^2-\left(3a^3\right)^2\right]\div\left(2a^2\right)^2$;
 
-(2) $\left[\left(ab+1\right)\left(ab-1\right)-2a^2 b^2+1\right]\div\left(-ab\right)^2$.
+(2) $\left[\left(ab+1\right)\left(ab-1\right)-2a^2b^2+1\right]\div\left(-ab\right)^2$.
 
 ### Solution to Problem 6
 
@@ -300,7 +300,7 @@ First simplify inside the parentheses, then divide.
 
 (1) $\left[5a^6-9a^6\right]\div\left(4a^4\right)=\left(-4a^6\right)\div\left(4a^4\right)=-a^2$.
 
-(2) $\left[\left(a^2 b^2-1\right)-2a^2 b^2+1\right]\div\left(a^2 b^2\right)=\left(-a^2 b^2\right)\div\left(a^2 b^2\right)=-1$. $\blacksquare$
+(2) $\left[\left(a^2b^2-1\right)-2a^2b^2+1\right]\div\left(a^2b^2\right)=\left(-a^2b^2\right)\div\left(a^2b^2\right)=-1$. $\blacksquare$
 
 ## Problem 7
 
@@ -308,7 +308,7 @@ First simplify inside the parentheses, then divide.
 
 (1) $x\left(1-x^2\right)+x^2\left(x-1\right)+x\left(x+1\right)$, where $x=2$;
 
-(2) $\left(a^2 b-2ab^2-b^3\right)\div b-\left(a+b\right)^2$, where $a=\frac12$, $b=-1$.
+(2) $\left(a^2b-2ab^2-b^3\right)\div{b}-\left(a+b\right)^2$, where $a=\frac12$, $b=-1$.
 
 ### Solution to Problem 7
 
@@ -342,13 +342,13 @@ The two blank small rectangles at the bottom are each $2a\times2.5a$, totaling $
 
 Hence the area of the shaded green region is
 
-$$32a^2-10a^2=22a^2\ \left(\text{m}^2\right).$$
+$$32a^2-10a^2=22a^2\,\left(\text{m}^2\right).$$
 
 $\blacksquare$
 
 ## Problem 10
 
-(Exercise 16.2, Comprehensive Application, Problem 10) As shown in the figure, there is a rectangular cardboard; an equal square is cut off from each of its four corners, and then the protruding portions on all sides are folded up to make an open box in the shape of a cuboid with height $a\ \text{cm}$. If the volume of the box is $4a^2 b\ \text{cm}^3$ and one side of the rectangular base has length $b$ ($b< 4a$) $\text{cm}$, find the length and width of the original rectangular cardboard.
+(Exercise 16.2, Comprehensive Application, Problem 10) As shown in the figure, there is a rectangular cardboard; an equal square is cut off from each of its four corners, and then the protruding portions on all sides are folded up to make an open box in the shape of a cuboid with height $a\,\text{cm}$. If the volume of the box is $4a^2b\,\text{cm}^3$ and one side of the rectangular base has length $b$ ($b<4a$) $\text{cm}$, find the length and width of the original rectangular cardboard.
 
 (The figure is a development diagram of the rectangular cardboard after small squares are cut from its four corners and it is folded up.)
 
@@ -356,11 +356,11 @@ $\blacksquare$
 
 The height of the box is $a$, so the side length of the square cut from each corner is $a$. Let the other side of the box base be $x$; then the base area is $bx$. From the volume
 
-$$bx\cdot a=4a^2 b,$$
+$$bx\cdot{a}=4a^2b,$$
 
 solving gives $x=4a$.
 
-Hence the two sides of the box base are $b$ and $4a$. The original cardboard's length exceeds the base length by $2a$, and its width exceeds the base width by $2a$. Since $b< 4a$, taking the long base side $4a$ to correspond to the long cardboard side, the original cardboard has length $4a+2a=6a\ \text{cm}$ and width $b+2a\ \text{cm}$. $\blacksquare$
+Hence the two sides of the box base are $b$ and $4a$. The original cardboard's length exceeds the base length by $2a$, and its width exceeds the base width by $2a$. Since $b<4a$, taking the long base side $4a$ to correspond to the long cardboard side, the original cardboard has length $4a+2a=6a\,\text{cm}$ and width $b+2a\,\text{cm}$. $\blacksquare$
 
 ## Problem 11
 
@@ -398,7 +398,7 @@ From $\left(x+p\right)\left(x+q\right)=x^2+\left(p+q\right)x+pq$, the coefficien
 
 (2) $\left(2a-5\right)\left(2a+5\right)=4a^2-25$;
 
-(3) $\left(-3ab-1\right)\left(3ab-1\right)=1-9a^2 b^2$.
+(3) $\left(-3ab-1\right)\left(3ab-1\right)=1-9a^2b^2$.
 
 ### Solution to Exercise 6
 
@@ -408,7 +408,7 @@ By **Definition 16.3.1 (Difference of Squares Formula)**.
 
 (2) Correct, $\left(2a-5\right)\left(2a+5\right)=\left(2a\right)^2-5^2=4a^2-25$.
 
-(3) Correct, taking $-1$ as the common term and $3ab$ as the opposite term, $\left(-1\right)^2-\left(3ab\right)^2=1-9a^2 b^2$. $\blacksquare$
+(3) Correct, taking $-1$ as the common term and $3ab$ as the opposite term, $\left(-1\right)^2-\left(3ab\right)^2=1-9a^2b^2$. $\blacksquare$
 
 ## Exercise 7
 
@@ -476,7 +476,7 @@ By **Definition 16.3.2 (Perfect Square Formula)**.
 
 (3) $\left(-2m+n\right)^2$;
 
-(4) $\left(1.5a-\frac23 b\right)^2$.
+(4) $\left(1.5a-\frac23b\right)^2$.
 
 ### Solution to Exercise 10
 
@@ -488,7 +488,7 @@ By **Definition 16.3.2 (Perfect Square Formula)**.
 
 (3) $\left(-2m+n\right)^2=4m^2-4mn+n^2$.
 
-(4) $\left(1.5a-\frac23 b\right)^2=\frac94 a^2-2ab+\frac49 b^2$. $\blacksquare$
+(4) $\left(1.5a-\frac23b\right)^2=\frac94a^2-2ab+\frac49b^2$. $\blacksquare$
 
 ## Exercise 11
 

@@ -22,7 +22,7 @@
 
 > **Conclusion 21.1.3 (Interior Angle Sum of a Polygon)**
 > 
-> The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
+> The interior angle sum of an \(n\)-gon is \((n-2)\times180^{\circ}\).
 
 > **Conclusion 21.1.4 (Exterior Angle Sum of a Polygon)**
 > 
@@ -34,7 +34,7 @@
 
 Determine whether the triangle formed by the segments \(a,b,c\) is a right triangle:
 
-(1) \(a=9,\ b=40,\ c=41\); (2) \(a=\sqrt{41},\ b=4,\ c=5\); (3) \(a=\frac{5}{4},\ b=1,\ c=\frac{3}{4}\); (4) \(a=40,\ b=50,\ c=60\).
+(1) \(a=9,\,b=40,\,c=41\); (2) \(a=\sqrt{41},\,b=4,\,c=5\); (3) \(a=\frac{5}{4},\,b=1,\,c=\frac{3}{4}\); (4) \(a=40,\,b=50,\,c=60\).
 
 By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**.
 
@@ -44,7 +44,7 @@ By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**.
 
 (3) \(\left(\frac{3}{4}\right)^{2}+1^{2}=\frac{9}{16}+1=\frac{25}{16}=\left(\frac{5}{4}\right)^{2}\), is a right triangle.
 
-(4) \(40^{2}+50^{2}=4100\ne 3600=60^{2}\), not a right triangle.
+(4) \(40^{2}+50^{2}=4100\ne3600=60^{2}\), not a right triangle.
 
 \(\blacksquare\)
 
@@ -64,7 +64,7 @@ Therefore \(x=8\) or \(x=2\sqrt{34}\).
 
 (Exercise 20.2, Review and Consolidation, Problem 3)
 
-Liu Wei first walked \(80\ \text{m}\) east, then walked \(60\ \text{m}\) in another direction, and then walked \(100\ \text{m}\) in a third direction, at which point he returned exactly to the starting point. In which direction did Liu Wei walk \(60\ \text{m}\)? Explain why.
+Liu Wei first walked \(80\,\text{m}\) east, then walked \(60\,\text{m}\) in another direction, and then walked \(100\,\text{m}\) in a third direction, at which point he returned exactly to the starting point. In which direction did Liu Wei walk \(60\,\text{m}\)? Explain why.
 
 The three distances \(80,60,100\) form a triangle that returns to the starting point.
 
@@ -72,7 +72,7 @@ From \(80^{2}+60^{2}=6400+3600=10000=100^{2}\).
 
 By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**, these three segments form a right triangle, and the \(80\) and \(60\) segments are perpendicular.
 
-The first segment goes \(80\ \text{m}\) east, so the second segment of \(60\ \text{m}\) goes due south (or due north).
+The first segment goes \(80\,\text{m}\) east, so the second segment of \(60\,\text{m}\) goes due south (or due north).
 
 \(\blacksquare\)
 
@@ -80,13 +80,13 @@ The first segment goes \(80\ \text{m}\) east, so the second segment of \(60\ \te
 
 (Exercise 20.2, Comprehensive Application, Problem 4)
 
-In \(\triangle ABC\), \(AB=13,\ BC=10\), and the median \(AD\) to side \(BC\) is \(12\). Find the length of \(AC\).
+In \(\triangle{A}BC\), \(AB=13,\,BC=10\), and the median \(AD\) to side \(BC\) is \(12\). Find the length of \(AC\).
 
 \(D\) is the midpoint of \(BC\), so \(BD=DC=5\).
 
-In \(\triangle ABD\), \(AD^{2}+BD^{2}=12^{2}+5^{2}=169=13^{2}=AB^{2}\).
+In \(\triangle{A}BD\), \(AD^{2}+BD^{2}=12^{2}+5^{2}=169=13^{2}=AB^{2}\).
 
-By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**, \(\angle ADB=90^{\circ}\), i.e. \(AD\perp BC\).
+By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**, \(\angle{A}DB=90^{\circ}\), i.e. \(AD\perp{B}C\).
 
 Hence \(AD\) is also the perpendicular bisector of \(BC\), so \(AC=AB=13\).
 
@@ -94,7 +94,7 @@ Hence \(AD\) is also the perpendicular bisector of \(BC\), so \(AC=AB=13\).
 
 (Exercise 20.2, Comprehensive Application, Problem 5)
 
-As shown in the figure, in square \(ABCD\), \(E\) is the midpoint of \(BC\), \(F\) is a point on \(CD\), and \(CF=\frac{1}{4}CD\). Prove that \(\angle AEF=90^{\circ}\).
+As shown in the figure, in square \(ABCD\), \(E\) is the midpoint of \(BC\), \(F\) is a point on \(CD\), and \(CF=\frac{1}{4}CD\). Prove that \(\angle{A}EF=90^{\circ}\).
 
 Let the side length of the square be \(4a\); then \(BE=EC=2a\), \(CF=a\), \(DF=3a\).
 
@@ -114,7 +114,7 @@ $$
 
 Hence \(AE^{2}+EF^{2}=20a^{2}+5a^{2}=25a^{2}=AF^{2}\).
 
-By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**, \(\triangle AEF\) is a right triangle, and \(\angle AEF=90^{\circ}\).
+By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**, \(\triangle{A}EF\) is a right triangle, and \(\angle{A}EF=90^{\circ}\).
 
 \(\blacksquare\)
 
@@ -188,11 +188,11 @@ Therefore the sum of the areas of all the outermost small squares equals exactly
 
 (Review Problem, Review and Consolidation, Problem 1)
 
-As shown in the figure, point \(D\) lies on side \(AB\) of \(Rt\triangle ABC\), \(AD=8,\ DB=2,\ CD=17\). Find the lengths of \(AC\) and \(BC\).
+As shown in the figure, point \(D\) lies on side \(AB\) of \(Rt\triangle{A}BC\), \(AD=8,\,DB=2,\,CD=17\). Find the lengths of \(AC\) and \(BC\).
 
-From the figure, \(\angle A=90^{\circ}\), so \(AC\perp AB\), and \(AB=AD+DB=10\).
+From the figure, \(\angle{A}=90^{\circ}\), so \(AC\perp{A}B\), and \(AB=AD+DB=10\).
 
-In \(Rt\triangle ACD\), by **Theorem 20.1.1 (Pythagorean Theorem)**,
+In \(Rt\triangle{A}CD\), by **Theorem 20.1.1 (Pythagorean Theorem)**,
 
 $$
 AC^{2}=CD^{2}-AD^{2}=17^{2}-8^{2}=289-64=225,
@@ -200,7 +200,7 @@ $$
 
 so \(AC=15\).
 
-In \(Rt\triangle ABC\),
+In \(Rt\triangle{A}BC\),
 
 $$
 BC^{2}=AB^{2}+AC^{2}=100+225=325,
@@ -212,43 +212,43 @@ so \(BC=\sqrt{325}=5\sqrt{13}\).
 
 (Review Problem, Review and Consolidation, Problem 2)
 
-Two people start from the same point at the same time. One walks due north at \(20\ \text{m/min}\), and the other walks due east at \(30\ \text{m/min}\). How far apart are they after \(10\ \text{min}\) (round to an integer)?
+Two people start from the same point at the same time. One walks due north at \(20\,\text{m/min}\), and the other walks due east at \(30\,\text{m/min}\). How far apart are they after \(10\,\text{min}\) (round to an integer)?
 
-After \(10\ \text{min}\), the northbound person has walked \(200\ \text{m}\) and the eastbound person has walked \(300\ \text{m}\); the two directions are perpendicular.
+After \(10\,\text{min}\), the northbound person has walked \(200\,\text{m}\) and the eastbound person has walked \(300\,\text{m}\); the two directions are perpendicular.
 
 By **Theorem 20.1.1 (Pythagorean Theorem)**, the distance
 
 $$
-d=\sqrt{200^{2}+300^{2}}=\sqrt{130000}\approx 361\ \text{m}.
+d=\sqrt{200^{2}+300^{2}}=\sqrt{130000}\approx361\,\text{m}.
 $$
 
 \(\blacksquare\)
 
 (Review Problem, Review and Consolidation, Problem 3)
 
-As shown in the figure, a plane through the apex \(P\) of a cone and the center \(O\) of its base circle cuts the cone in the cross-section \(\triangle PAB\), where \(PA=PB\) and \(AB\) is the diameter of the base circle \(O\) of the cone. Given \(PA=7,\ AB=4\), find the area of the cross-section \(\triangle PAB\).
+As shown in the figure, a plane through the apex \(P\) of a cone and the center \(O\) of its base circle cuts the cone in the cross-section \(\triangle{P}AB\), where \(PA=PB\) and \(AB\) is the diameter of the base circle \(O\) of the cone. Given \(PA=7,\,AB=4\), find the area of the cross-section \(\triangle{P}AB\).
 
 In isosceles triangle \(PAB\), the base \(AB=4\), and the altitude to the base passes through the center \(O\) (\(O\) is the midpoint of \(AB\)).
 
 By **Theorem 20.1.1 (Pythagorean Theorem)**, the altitude \(PO=\sqrt{PA^{2}-AO^{2}}=\sqrt{49-4}=\sqrt{45}=3\sqrt{5}\).
 
-Therefore the area \(S=\frac{1}{2}\times AB\times PO=\frac{1}{2}\times 4\times 3\sqrt{5}=6\sqrt{5}\).
+Therefore the area \(S=\frac{1}{2}\times{A}B\times{P}O=\frac{1}{2}\times4\times3\sqrt{5}=6\sqrt{5}\).
 
 \(\blacksquare\)
 
 (Review Problem, Review and Consolidation, Problem 4)
 
-As shown in the figure, a tent has length \(l=2.6\ \text{m}\), and its cross-section is an isosceles triangle with base \(a=2\ \text{m}\) and height \(h=1.8\ \text{m}\). How many square meters of fabric are at least needed to make this tent (excluding the bottom) (keep one decimal place)?
+As shown in the figure, a tent has length \(l=2.6\,\text{m}\), and its cross-section is an isosceles triangle with base \(a=2\,\text{m}\) and height \(h=1.8\,\text{m}\). How many square meters of fabric are at least needed to make this tent (excluding the bottom) (keep one decimal place)?
 
 The leg length of the isosceles cross-section triangle is, by **Theorem 20.1.1 (Pythagorean Theorem)**:
 
 $$
-s=\sqrt{\left(\frac{a}{2}\right)^{2}+h^{2}}=\sqrt{1+3.24}=\sqrt{4.24}\approx 2.06\ \text{m}.
+s=\sqrt{\left(\frac{a}{2}\right)^{2}+h^{2}}=\sqrt{1+3.24}=\sqrt{4.24}\approx2.06\,\text{m}.
 $$
 
 The two sloping sides of the tent are each rectangles of length \(l\) and width \(s\), excluding the bottom.
 
-Therefore the fabric area is \(2\times l\times s=2\times 2.6\times 2.06\approx 10.7\ \text{m}^{2}\).
+Therefore the fabric area is \(2\times{l}\times{s}=2\times2.6\times2.06\approx10.7\,\text{m}^{2}\).
 
 \(\blacksquare\)
 
@@ -258,16 +258,16 @@ As shown in the figure, each small square has side length \(1\).
 
 (1) Find the area and perimeter of quadrilateral \(ABCD\);
 
-(2) Is \(\angle BCD\) a right angle? Explain why.
+(2) Is \(\angle{B}CD\) a right angle? Explain why.
 
 (1) From the grid-point coordinates, compute each side length:
 
 $$
-AB=\sqrt{3^{2}+4^{2}}=5,\ BC=\sqrt{2^{2}+1^{2}}=\sqrt{5},
+AB=\sqrt{3^{2}+4^{2}}=5,\,BC=\sqrt{2^{2}+1^{2}}=\sqrt{5},
 $$
 
 $$
-CD=\sqrt{1^{2}+2^{2}}=\sqrt{5},\ DA=\sqrt{3^{2}+1^{2}}=\sqrt{10}.
+CD=\sqrt{1^{2}+2^{2}}=\sqrt{5},\,DA=\sqrt{3^{2}+1^{2}}=\sqrt{10}.
 $$
 
 The perimeter \(=5+\sqrt{5}+\sqrt{5}+\sqrt{10}=5+2\sqrt{5}+\sqrt{10}\).
@@ -276,9 +276,9 @@ The area is found by the cut-and-paste method: the area of the enclosing rectang
 
 (2) Connect \(BD\); \(BD=\sqrt{4^{2}+2^{2}}=\sqrt{20}=2\sqrt{5}\).
 
-And \(BC^{2}+CD^{2}=5+5=10\ne 20=BD^{2}\).
+And \(BC^{2}+CD^{2}=5+5=10\ne20=BD^{2}\).
 
-By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**, \(\angle BCD\) is not a right angle.
+By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**, \(\angle{B}CD\) is not a right angle.
 
 \(\blacksquare\)
 
@@ -286,21 +286,21 @@ By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**, \(\angle BCD\) is n
 
 (Review Problem, Comprehensive Application, Problem 6)
 
-As shown in the figure, in a triangular support, \(AD\perp BC\) with foot \(D\), \(AB=2\ \text{m},\ AC=1.5\ \text{m},\ DC=0.9\ \text{m}\).
+As shown in the figure, in a triangular support, \(AD\perp{B}C\) with foot \(D\), \(AB=2\,\text{m},\,AC=1.5\,\text{m},\,DC=0.9\,\text{m}\).
 
 (1) Find the length of \(BD\);
 
-(2) Determine the shape of the outer frame \(\triangle ABC\) of the support, and explain why.
+(2) Determine the shape of the outer frame \(\triangle{A}BC\) of the support, and explain why.
 
-(1) In \(Rt\triangle ADC\), \(AD^{2}=AC^{2}-DC^{2}=2.25-0.81=1.44\), so \(AD=1.2\).
+(1) In \(Rt\triangle{A}DC\), \(AD^{2}=AC^{2}-DC^{2}=2.25-0.81=1.44\), so \(AD=1.2\).
 
-In \(Rt\triangle ADB\), \(BD^{2}=AB^{2}-AD^{2}=4-1.44=2.56\), so \(BD=1.6\ \text{m}\).
+In \(Rt\triangle{A}DB\), \(BD^{2}=AB^{2}-AD^{2}=4-1.44=2.56\), so \(BD=1.6\,\text{m}\).
 
-(2) \(BC=BD+DC=1.6+0.9=2.5\ \text{m}\).
+(2) \(BC=BD+DC=1.6+0.9=2.5\,\text{m}\).
 
 And \(AB^{2}+AC^{2}=4+2.25=6.25=2.5^{2}=BC^{2}\).
 
-By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**, \(\triangle ABC\) is a right triangle, \(\angle BAC=90^{\circ}\).
+By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**, \(\triangle{A}BC\) is a right triangle, \(\angle{B}AC=90^{\circ}\).
 
 \(\blacksquare\)
 
@@ -315,11 +315,11 @@ The broken part is the hypotenuse, and the vertical segment \(x\) and the horizo
 By **Theorem 20.1.1 (Pythagorean Theorem)**,
 
 $$
-x^{2}+3^{2}=\left(10-x\right)^{2},\quad x^{2}+9=100-20x+x^{2},
+x^{2}+3^{2}=\left(10-x\right)^{2},\quad{x}^{2}+9=100-20x+x^{2},
 $$
 
 $$
-20x=91,\quad x=4.55.
+20x=91,\quad{x}=4.55.
 $$
 
 Therefore the break is \(4.55\) chi above the ground.
@@ -328,7 +328,7 @@ Therefore the break is \(4.55\) chi above the ground.
 
 (Review Problem, Comprehensive Application, Problem 8)
 
-The ancient Greek philosopher Plato once pointed out that if \(m\) is an integer greater than \(1\), \(a=2m,\ b=m^{2}-1,\ c=m^{2}+1\), then \(a,b,c\) is a Pythagorean triple. Do you think this statement is correct? If so, give a proof, and use this conclusion to write out some Pythagorean triples.
+The ancient Greek philosopher Plato once pointed out that if \(m\) is an integer greater than \(1\), \(a=2m,\,b=m^{2}-1,\,c=m^{2}+1\), then \(a,b,c\) is a Pythagorean triple. Do you think this statement is correct? If so, give a proof, and use this conclusion to write out some Pythagorean triples.
 
 Calculating:
 
@@ -338,11 +338,11 @@ $$
 
 Also \(a,b,c\) are all positive integers, so by **Definition 20.2.1 (Pythagorean Triples)**, \(a,b,c\) is a Pythagorean triple.
 
-Taking \(m=2\): \(a=4,\ b=3,\ c=5\).
+Taking \(m=2\): \(a=4,\,b=3,\,c=5\).
 
-Taking \(m=3\): \(a=6,\ b=8,\ c=10\).
+Taking \(m=3\): \(a=6,\,b=8,\,c=10\).
 
-Taking \(m=4\): \(a=8,\ b=15,\ c=17\).
+Taking \(m=4\): \(a=8,\,b=15,\,c=17\).
 
 \(\blacksquare\)
 
@@ -356,43 +356,43 @@ The sum of the areas of the five small squares is \(5\), so the large square has
 
 And \(\sqrt{5}=\sqrt{1^{2}+2^{2}}\) is the hypotenuse of a right triangle with legs \(1,2\).
 
-Cut the original rectangle (a \(1\times 5\) strip) along segments of length \(\sqrt{5}\), and it can be reassembled into a large square of side length \(\sqrt{5}\).
+Cut the original rectangle (a \(1\times5\) strip) along segments of length \(\sqrt{5}\), and it can be reassembled into a large square of side length \(\sqrt{5}\).
 
 \(\blacksquare\)
 
 (Review Problem, Extension and Exploration, Problem 10)
 
-Can a \(70\ \text{cm}\) stick fit inside a rectangular wooden box with length, width and height \(50\ \text{cm},40\ \text{cm},30\ \text{cm}\)?
+Can a \(70\,\text{cm}\) stick fit inside a rectangular wooden box with length, width and height \(50\,\text{cm},40\,\text{cm},30\,\text{cm}\)?
 
 The space diagonal of the rectangular box, by the extension of **Theorem 20.1.1 (Pythagorean Theorem)**:
 
 $$
-d=\sqrt{50^{2}+40^{2}+30^{2}}=\sqrt{2500+1600+900}=\sqrt{5000}\approx 70.7\ \text{cm}.
+d=\sqrt{50^{2}+40^{2}+30^{2}}=\sqrt{2500+1600+900}=\sqrt{5000}\approx70.7\,\text{cm}.
 $$
 
-Since \(70.7> 70\), the stick fits inside the box.
+Since \(70.7>70\), the stick fits inside the box.
 
 \(\blacksquare\)
 
 (Review Problem, Extension and Exploration, Problem 11)
 
-A rectangular stone bench in a park is shown in the figure. If an ant crawls from point \(M\) to point \(N\) at \(3\ \text{cm/s}\), what is the shortest time needed (keep one decimal place)?
+A rectangular stone bench in a park is shown in the figure. If an ant crawls from point \(M\) to point \(N\) at \(3\,\text{cm/s}\), what is the shortest time needed (keep one decimal place)?
 
-The bench is \(40\ \text{cm}\) long and \(30\ \text{cm}\) high. The ant crawls along the surface from \(M\) to \(N\); after unfolding the surface, the shortest path is the hypotenuse of legs \(40\) and \(30\).
+The bench is \(40\,\text{cm}\) long and \(30\,\text{cm}\) high. The ant crawls along the surface from \(M\) to \(N\); after unfolding the surface, the shortest path is the hypotenuse of legs \(40\) and \(30\).
 
 By **Theorem 20.1.1 (Pythagorean Theorem)**,
 
 $$
-MN=\sqrt{40^{2}+30^{2}}=\sqrt{2500}=50\ \text{cm}.
+MN=\sqrt{40^{2}+30^{2}}=\sqrt{2500}=50\,\text{cm}.
 $$
 
-The time \(t=\frac{50}{3}\approx 16.7\ \text{s}\).
+The time \(t=\frac{50}{3}\approx16.7\,\text{s}\).
 
 \(\blacksquare\)
 
 (Review Problem, Extension and Exploration, Problem 12)
 
-The three side lengths of \(\triangle ABC\) are \(a,b,c\), and its area is \(S\). Use the Pythagorean theorem to prove the Qin Jiushao formula
+The three side lengths of \(\triangle{A}BC\) are \(a,b,c\), and its area is \(S\). Use the Pythagorean theorem to prove the Qin Jiushao formula
 
 $$
 S=\sqrt{\frac{1}{4}\left[a^{2}b^{2}-\left(\frac{a^{2}+b^{2}-c^{2}}{2}\right)^{2}\right]}.
@@ -403,7 +403,7 @@ Let the altitude to side \(AC=b\) be \(BD=h\), with foot \(D\); write \(CD=x\); 
 By **Theorem 20.1.1 (Pythagorean Theorem)**,
 
 $$
-h^{2}=a^{2}-x^{2},\quad h^{2}=c^{2}-\left(b-x\right)^{2}.
+h^{2}=a^{2}-x^{2},\quad{h}^{2}=c^{2}-\left(b-x\right)^{2}.
 $$
 
 Equating gives \(a^{2}-x^{2}=c^{2}-b^{2}+2bx-x^{2}\), i.e. \(x=\frac{a^{2}+b^{2}-c^{2}}{2b}\).
@@ -417,7 +417,7 @@ $$
 The area \(S=\frac{1}{2}bh\), so
 
 $$
-S^{2}=\frac{b^{2}}{4}\cdot h^{2}=\frac{1}{4}\left[a^{2}b^{2}-\left(\frac{a^{2}+b^{2}-c^{2}}{2}\right)^{2}\right].
+S^{2}=\frac{b^{2}}{4}\cdot{h}^{2}=\frac{1}{4}\left[a^{2}b^{2}-\left(\frac{a^{2}+b^{2}-c^{2}}{2}\right)^{2}\right].
 $$
 
 Taking the square root gives the Qin Jiushao formula.
@@ -472,13 +472,13 @@ Find the value of \(x\) in the following figures:
 
 (1) The interior angles of a pentagon are, in order, \(120^{\circ},150^{\circ},135^{\circ},2x^{\circ},x^{\circ}\);
 
-(2) In pentagon \(ABCDE\), \(AB\parallel CD\), and the remaining angles are as shown.
+(2) In pentagon \(ABCDE\), \(AB\parallel{C}D\), and the remaining angles are as shown.
 
-By Basic Knowledge, the interior angle sum of a pentagon is \((5-2)\times 180^{\circ}=540^{\circ}\).
+By Basic Knowledge, the interior angle sum of a pentagon is \((5-2)\times180^{\circ}=540^{\circ}\).
 
 (1) \(120+150+135+2x+x=540\), i.e. \(3x=135\), giving \(x=45\).
 
-(2) From \(AB\parallel CD\), the consecutive interior angles are supplementary; combining this with the interior angle sum of \(540^{\circ}\), solve for \(x\).
+(2) From \(AB\parallel{C}D\), the consecutive interior angles are supplementary; combining this with the interior angle sum of \(540^{\circ}\), solve for \(x\).
 
 \(\blacksquare\)
 
@@ -490,7 +490,7 @@ By Basic Knowledge, the interior angle sum of a pentagon is \((5-2)\times 180^{\
 
 (3) Each exterior angle of a polygon is \(72^{\circ}\). How many sides does it have?
 
-(1) By Basic Knowledge, \((n-2)\times 180^{\circ}=1080^{\circ}\), giving \(n=8\), i.e. an octagon.
+(1) By Basic Knowledge, \((n-2)\times180^{\circ}=1080^{\circ}\), giving \(n=8\), i.e. an octagon.
 
 (2) Each interior angle is \(120^{\circ}\), so each exterior angle is \(60^{\circ}\). By Basic Knowledge, \(n=\frac{360^{\circ}}{60^{\circ}}=6\), i.e. a hexagon.
 
@@ -518,7 +518,7 @@ When all four are right angles, their sum is exactly \(360^{\circ}\), which is p
 
 Fill in the table: the interior and exterior angle sums for polygons with \(3,4,5,6,8,12,20\) sides.
 
-By Basic Knowledge, the interior angle sum is \((n-2)\times 180^{\circ}\); by Basic Knowledge, the exterior angle sum is always \(360^{\circ}\).
+By Basic Knowledge, the interior angle sum is \((n-2)\times180^{\circ}\); by Basic Knowledge, the exterior angle sum is always \(360^{\circ}\).
 
 (1) Triangle: interior sum \(180^{\circ}\), exterior sum \(360^{\circ}\).
 
@@ -540,11 +540,11 @@ By Basic Knowledge, the interior angle sum is \((n-2)\times 180^{\circ}\); by Ba
 
 Find the degree measure of each interior angle of a regular pentagon and a regular decagon.
 
-Each interior angle of a regular \(n\)-gon is \(\frac{(n-2)\times 180^{\circ}}{n}\).
+Each interior angle of a regular \(n\)-gon is \(\frac{(n-2)\times180^{\circ}}{n}\).
 
-Regular pentagon: \(\frac{3\times 180^{\circ}}{5}=108^{\circ}\).
+Regular pentagon: \(\frac{3\times180^{\circ}}{5}=108^{\circ}\).
 
-Regular decagon: \(\frac{8\times 180^{\circ}}{10}=144^{\circ}\).
+Regular decagon: \(\frac{8\times180^{\circ}}{10}=144^{\circ}\).
 
 \(\blacksquare\)
 
@@ -554,9 +554,9 @@ Regular decagon: \(\frac{8\times 180^{\circ}}{10}=144^{\circ}\).
 
 (2) The interior angle sum of a polygon is half its exterior angle sum. Find its number of sides.
 
-(1) From \((n-2)\times 180^{\circ}=360^{\circ}\), we get \(n=4\), i.e. a quadrilateral.
+(1) From \((n-2)\times180^{\circ}=360^{\circ}\), we get \(n=4\), i.e. a quadrilateral.
 
-(2) From \((n-2)\times 180^{\circ}=\frac{1}{2}\times 360^{\circ}=180^{\circ}\), we get \(n=3\), i.e. a triangle.
+(2) From \((n-2)\times180^{\circ}=\frac{1}{2}\times360^{\circ}=180^{\circ}\), we get \(n=3\), i.e. a triangle.
 
 \(\blacksquare\)
 
@@ -564,15 +564,15 @@ Regular decagon: \(\frac{8\times 180^{\circ}}{10}=144^{\circ}\).
 
 (Exercise 21.1, Comprehensive Application, Problem 5)
 
-As shown in the figure, in quadrilateral \(ABCD\), \(\angle A=\angle C,\ \angle B=\angle D\). What is the positional relation between \(AB\) and \(DC\)? Why? What about \(BC\) and \(AD\)?
+As shown in the figure, in quadrilateral \(ABCD\), \(\angle{A}=\angle{C},\,\angle{B}=\angle{D}\). What is the positional relation between \(AB\) and \(DC\)? Why? What about \(BC\) and \(AD\)?
 
-By Basic Knowledge, \(\angle A+\angle B+\angle C+\angle D=360^{\circ}\).
+By Basic Knowledge, \(\angle{A}+\angle{B}+\angle{C}+\angle{D}=360^{\circ}\).
 
-Substituting \(\angle A=\angle C,\ \angle B=\angle D\), we get \(2\angle A+2\angle B=360^{\circ}\), i.e. \(\angle A+\angle B=180^{\circ}\).
+Substituting \(\angle{A}=\angle{C},\,\angle{B}=\angle{D}\), we get \(2\angle{A}+2\angle{B}=360^{\circ}\), i.e. \(\angle{A}+\angle{B}=180^{\circ}\).
 
-The consecutive interior angles are supplementary, so \(AD\parallel BC\).
+The consecutive interior angles are supplementary, so \(AD\parallel{B}C\).
 
-Similarly, \(\angle A+\angle D=180^{\circ}\), so \(AB\parallel DC\).
+Similarly, \(\angle{A}+\angle{D}=180^{\circ}\), so \(AB\parallel{D}C\).
 
 \(\blacksquare\)
 
@@ -582,25 +582,25 @@ As shown in the figure, take any point \(O\) inside an \(n\)-gon and connect \(O
 
 Connecting the internal point \(O\) to the vertices gives \(n\) triangles in total.
 
-The interior angle sum of these \(n\) triangles is \(n\times 180^{\circ}\), of which the angles at vertex \(O\) sum to a full angle of \(360^{\circ}\).
+The interior angle sum of these \(n\) triangles is \(n\times180^{\circ}\), of which the angles at vertex \(O\) sum to a full angle of \(360^{\circ}\).
 
 Therefore the interior angle sum of the \(n\)-gon is
 
 $$
-n\times 180^{\circ}-360^{\circ}=\left(n-2\right)\times 180^{\circ}.
+n\times180^{\circ}-360^{\circ}=\left(n-2\right)\times180^{\circ}.
 $$
 
 \(\blacksquare\)
 
 (Exercise 21.1, Comprehensive Application, Problem 7)
 
-As shown in the figure, the interior angles of pentagon \(ABCDE\) are all equal, and \(\angle 1=\angle 2,\ \angle 3=\angle 4\). Find the value of \(x\).
+As shown in the figure, the interior angles of pentagon \(ABCDE\) are all equal, and \(\angle1=\angle2,\,\angle3=\angle4\). Find the value of \(x\).
 
 Each interior angle of the pentagon is \(108^{\circ}\).
 
-In the triangle containing \(\angle 1,\angle 2\), \(\angle 1=\angle 2=\frac{180^{\circ}-108^{\circ}}{2}=36^{\circ}\).
+In the triangle containing \(\angle1,\angle2\), \(\angle1=\angle2=\frac{180^{\circ}-108^{\circ}}{2}=36^{\circ}\).
 
-Similarly, \(\angle 3=\angle 4=36^{\circ}\).
+Similarly, \(\angle3=\angle4=36^{\circ}\).
 
 Therefore \(x=108^{\circ}-36^{\circ}-36^{\circ}=36^{\circ}\).
 

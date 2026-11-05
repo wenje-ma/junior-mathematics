@@ -6,11 +6,11 @@
 
 > **Definition 8.1.2 (Arithmetic Square Root)**
 > 
-> The positive square root $\sqrt a$ of a positive number $a$ is called the arithmetic square root of $a$, and $a$ is called the radicand. It is stipulated that the arithmetic square root of $0$ is $0$, i.e. $\sqrt 0=0$. The square roots of a positive number $a$ are denoted by $\pm\sqrt a$.
+> The positive square root $\sqrt{a}$ of a positive number $a$ is called the arithmetic square root of $a$, and $a$ is called the radicand. It is stipulated that the arithmetic square root of $0$ is $0$, i.e. $\sqrt0=0$. The square roots of a positive number $a$ are denoted by $\pm\sqrt{a}$.
 
 > **Property 8.1.3 (Relationship Between Squaring and Extracting Roots)**
 > 
-> For any nonnegative number $a$, $\left(\sqrt a\right)^2=a$; for any number $a$, $\sqrt{a^2}=\left|a\right|$.
+> For any nonnegative number $a$, $\left(\sqrt{a}\right)^2=a$; for any number $a$, $\sqrt{a^2}=\left|a\right|$.
 
 > **Definition 8.2.1 (Cube Root)**
 > 
@@ -38,27 +38,27 @@
 
 ## Exercise 1
 
-(Exercise 8.3, Problem 3) Represent the following real numbers on the number line and compare their sizes (connected by "$< $"): $-2$, $\sqrt 2$, $\frac{3}{2}$, $-\pi$.
+(Exercise 8.3, Problem 3) Represent the following real numbers on the number line and compare their sizes (connected by "$<$"): $-2$, $\sqrt2$, $\frac{3}{2}$, $-\pi$.
 
-The figure shows a number line with origin and positive direction marked; from left to right, four points are marked: $-\pi$ (about $-3.14$), $-2$, $\sqrt 2$ (about $1.414$), and $\frac{3}{2}=1.5$.
+The figure shows a number line with origin and positive direction marked; from left to right, four points are marked: $-\pi$ (about $-3.14$), $-2$, $\sqrt2$ (about $1.414$), and $\frac{3}{2}=1.5$.
 
 ### Solution to Exercise 1
 
 By Real Numbers and the Number Line, numbers to the right on the number line are larger than numbers to the left.
 
-Estimate the sizes: $-\pi\approx-3.14$, $-2$, $\sqrt 2\approx 1.414$, $\frac{3}{2}=1.5$. From left to right on the number line they are $-\pi$, $-2$, $\sqrt 2$, $\frac{3}{2}$.
+Estimate the sizes: $-\pi\approx-3.14$, $-2$, $\sqrt2\approx1.414$, $\frac{3}{2}=1.5$. From left to right on the number line they are $-\pi$, $-2$, $\sqrt2$, $\frac{3}{2}$.
 
 Thus
 
 $$
--\pi< -2< \sqrt 2< \frac{3}{2}.
+-\pi<-2<\sqrt2<\frac{3}{2}.
 $$
 
 $\blacksquare$
 
 ## Exercise 2
 
-(Exercise 8.3, Problem 1) Find the opposite number and absolute value of each of the following: $\sqrt{13}$, $-\sqrt 7$, $-\frac{\pi}{2}$, $1.4-\sqrt 2$, $\frac{\sqrt 5-1}{2}$, $0$.
+(Exercise 8.3, Problem 1) Find the opposite number and absolute value of each of the following: $\sqrt{13}$, $-\sqrt7$, $-\frac{\pi}{2}$, $1.4-\sqrt2$, $\frac{\sqrt5-1}{2}$, $0$.
 
 ### Solution to Exercise 2
 
@@ -66,13 +66,13 @@ By Opposite Numbers and Absolute Value, the opposite number is $-a$; for the abs
 
 $\sqrt{13}$: opposite number $-\sqrt{13}$, absolute value $\sqrt{13}$.
 
-$-\sqrt 7$: opposite number $\sqrt 7$, absolute value $\sqrt 7$.
+$-\sqrt7$: opposite number $\sqrt7$, absolute value $\sqrt7$.
 
 $-\frac{\pi}{2}$: opposite number $\frac{\pi}{2}$, absolute value $\frac{\pi}{2}$.
 
-$1.4-\sqrt 2\approx 1.4-1.414< 0$: opposite number $\sqrt 2-1.4$, absolute value $\sqrt 2-1.4$.
+$1.4-\sqrt2\approx1.4-1.414<0$: opposite number $\sqrt2-1.4$, absolute value $\sqrt2-1.4$.
 
-$\frac{\sqrt 5-1}{2}\approx\frac{2.236-1}{2}> 0$: opposite number $\frac{1-\sqrt 5}{2}$, absolute value $\frac{\sqrt 5-1}{2}$.
+$\frac{\sqrt5-1}{2}\approx\frac{2.236-1}{2}>0$: opposite number $\frac{1-\sqrt5}{2}$, absolute value $\frac{\sqrt5-1}{2}$.
 
 $0$: opposite number $0$, absolute value $0$. $\blacksquare$
 
@@ -80,18 +80,18 @@ $0$: opposite number $0$, absolute value $0$. $\blacksquare$
 
 (Exercise 8.3, Problem 2) Compute:
 
-(1) $2\sqrt 5-3\sqrt 5$;　(2) $3\sqrt 3-\left|1-\sqrt\left[3\right]{3}\right|$.
+(1) $2\sqrt5-3\sqrt5$;　(2) $3\sqrt3-\left|1-\sqrt\left[3\right]{3}\right|$.
 
 ### Solution to Exercise 3
 
 By Opposite Number and Absolute Value, the operation rules for rational numbers apply to real numbers.
 
-(1) By the distributive law, $2\sqrt 5-3\sqrt 5=\left(2-3\right)\sqrt 5=-\sqrt 5$.
+(1) By the distributive law, $2\sqrt5-3\sqrt5=\left(2-3\right)\sqrt5=-\sqrt5$.
 
-(2) $\because\sqrt\left[3\right]{3}\approx 1.442> 1$, $\therefore 1-\sqrt\left[3\right]{3}< 0$, so $\left|1-\sqrt\left[3\right]{3}\right|=\sqrt\left[3\right]{3}-1$. Hence
+(2) $\because\sqrt\left[3\right]{3}\approx1.442>1$, $\therefore1-\sqrt\left[3\right]{3}<0$, so $\left|1-\sqrt\left[3\right]{3}\right|=\sqrt\left[3\right]{3}-1$. Hence
 
 $$
-3\sqrt 3-\left|1-\sqrt\left[3\right]{3}\right|=3\sqrt 3-\left(\sqrt\left[3\right]{3}-1\right)=3\sqrt 3-\sqrt\left[3\right]{3}+1.
+3\sqrt3-\left|1-\sqrt\left[3\right]{3}\right|=3\sqrt3-\left(\sqrt\left[3\right]{3}-1\right)=3\sqrt3-\sqrt\left[3\right]{3}+1.
 $$
 
 $\blacksquare$
@@ -100,33 +100,33 @@ $\blacksquare$
 
 (Exercise 8.3, Problem 3) Compute (keep two decimal places):
 
-(1) $\sqrt{17}+\sqrt{22}$;　(2) $\sqrt\left[3\right]{6}-\sqrt 6$.
+(1) $\sqrt{17}+\sqrt{22}$;　(2) $\sqrt\left[3\right]{6}-\sqrt6$.
 
 ### Solution to Exercise 4
 
 Replace the irrational numbers with approximate finite decimals, compute, then round.
 
-(1) $\sqrt{17}\approx 4.123$, $\sqrt{22}\approx 4.690$, so $\sqrt{17}+\sqrt{22}\approx 4.123+4.690=8.81$.
+(1) $\sqrt{17}\approx4.123$, $\sqrt{22}\approx4.690$, so $\sqrt{17}+\sqrt{22}\approx4.123+4.690=8.81$.
 
-(2) $\sqrt\left[3\right]{6}\approx 1.817$, $\sqrt 6\approx 2.449$, so $\sqrt\left[3\right]{6}-\sqrt 6\approx 1.817-2.449=-0.63$. $\blacksquare$
+(2) $\sqrt\left[3\right]{6}\approx1.817$, $\sqrt6\approx2.449$, so $\sqrt\left[3\right]{6}-\sqrt6\approx1.817-2.449=-0.63$. $\blacksquare$
 
 ## Problem 1
 
 (Exercise 8.3, Review and Consolidation, Problem 1) Among the following numbers, which are rational numbers and which are irrational numbers?
 
-$3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $-\sqrt 6$, $\sqrt{36}$, $\sqrt\left[3\right]{5}$, $\sqrt\left[3\right]{125}$.
+$3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $-\sqrt6$, $\sqrt{36}$, $\sqrt\left[3\right]{5}$, $\sqrt\left[3\right]{125}$.
 
 ### Solution to Problem 1
 
 By **Definition 8.3.1 (Irrational Number)**, a finite decimal or a non-terminating repeating decimal is a rational number, and a non-terminating non-repeating decimal is an irrational number.
 
-$3.14$ is a finite decimal, rational; $-\frac{22}{7}$ is a fraction, rational; $\sqrt{\frac{3}{3}}=\sqrt 1=1$, rational; $-\sqrt 6$ is a non-terminating non-repeating decimal whose root cannot be extracted, irrational; $\sqrt{36}=6$, rational; $\sqrt\left[3\right]{5}$ is a non-terminating non-repeating decimal, irrational; $\sqrt\left[3\right]{125}=5$, rational.
+$3.14$ is a finite decimal, rational; $-\frac{22}{7}$ is a fraction, rational; $\sqrt{\frac{3}{3}}=\sqrt1=1$, rational; $-\sqrt6$ is a non-terminating non-repeating decimal whose root cannot be extracted, irrational; $\sqrt{36}=6$, rational; $\sqrt\left[3\right]{5}$ is a non-terminating non-repeating decimal, irrational; $\sqrt\left[3\right]{125}=5$, rational.
 
-Thus the rational numbers are $3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $\sqrt{36}$, $\sqrt\left[3\right]{125}$; the irrational numbers are $-\sqrt 6$, $\sqrt\left[3\right]{5}$. $\blacksquare$
+Thus the rational numbers are $3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $\sqrt{36}$, $\sqrt\left[3\right]{125}$; the irrational numbers are $-\sqrt6$, $\sqrt\left[3\right]{5}$. $\blacksquare$
 
 ## Problem 2
 
-(Exercise 8.3, Review and Consolidation, Problem 2) Represent the following real numbers on the number line and compare their sizes (connected by "$< $"): $-\frac{1}{3}$, $-1.5$, $\sqrt{2^2}$, $\left|-3\right|$.
+(Exercise 8.3, Review and Consolidation, Problem 2) Represent the following real numbers on the number line and compare their sizes (connected by "$<$"): $-\frac{1}{3}$, $-1.5$, $\sqrt{2^2}$, $\left|-3\right|$.
 
 ### Solution to Problem 2
 
@@ -135,7 +135,7 @@ Simplify: $\sqrt{2^2}=2$, $\left|-3\right|=3$. The numbers are $-\frac{1}{3}\app
 By Real Numbers and the Number Line, values increase from left to right on the number line, so
 
 $$
--1.5< -\frac{1}{3}< \sqrt{2^2}< \left|-3\right|.
+-1.5<-\frac{1}{3}<\sqrt{2^2}<\left|-3\right|.
 $$
 
 $\blacksquare$
@@ -150,48 +150,48 @@ By Absolute Value, a positive number's absolute value is itself, and a negative 
 
 $\sqrt\left[3\right]{-8}=-2$, whose absolute value is $2$.
 
-$\sqrt{17}> 0$, whose absolute value is $\sqrt{17}$.
+$\sqrt{17}>0$, whose absolute value is $\sqrt{17}$.
 
-$-\sqrt{\frac{2}{3}}< 0$, whose absolute value is $\sqrt{\frac{2}{3}}$.
+$-\sqrt{\frac{2}{3}}<0$, whose absolute value is $\sqrt{\frac{2}{3}}$.
 
-$\sqrt\left[3\right]{3}\approx 1.442< 2$, so $\sqrt\left[3\right]{3}-2< 0$, whose absolute value is $2-\sqrt\left[3\right]{3}$.
+$\sqrt\left[3\right]{3}\approx1.442<2$, so $\sqrt\left[3\right]{3}-2<0$, whose absolute value is $2-\sqrt\left[3\right]{3}$.
 
-$\sqrt\left[3\right]{2}\approx 1.26> 1$, so $1-\sqrt\left[3\right]{2}< 0$, whose absolute value is $\sqrt\left[3\right]{2}-1$. $\blacksquare$
+$\sqrt\left[3\right]{2}\approx1.26>1$, so $1-\sqrt\left[3\right]{2}<0$, whose absolute value is $\sqrt\left[3\right]{2}-1$. $\blacksquare$
 
 ## Problem 4
 
 (Exercise 8.3, Review and Consolidation, Problem 4) Compute (keep two decimal places):
 
-(1) $\pi-\sqrt{10}$;　(2) $\sqrt\left[3\right]{2}-\sqrt 2$.
+(1) $\pi-\sqrt{10}$;　(2) $\sqrt\left[3\right]{2}-\sqrt2$.
 
 ### Solution to Problem 4
 
 Compute with approximate values, then round.
 
-(1) $\pi\approx 3.142$, $\sqrt{10}\approx 3.162$, so $\pi-\sqrt{10}\approx 3.142-3.162=-0.02$.
+(1) $\pi\approx3.142$, $\sqrt{10}\approx3.162$, so $\pi-\sqrt{10}\approx3.142-3.162=-0.02$.
 
-(2) $\sqrt\left[3\right]{2}\approx 1.260$, $\sqrt 2\approx 1.414$, so $\sqrt\left[3\right]{2}-\sqrt 2\approx 1.260-1.414=-0.15$. $\blacksquare$
+(2) $\sqrt\left[3\right]{2}\approx1.260$, $\sqrt2\approx1.414$, so $\sqrt\left[3\right]{2}-\sqrt2\approx1.260-1.414=-0.15$. $\blacksquare$
 
 ## Problem 5
 
 (Exercise 8.3, Review and Consolidation, Problem 5) Compute:
 
-(1) $2\left(\sqrt 6-\sqrt 7\right)-\left|2\sqrt 6-\sqrt 7\right|$;　(2) $\left(-\sqrt 2\right)^2+\left(-\sqrt\left[3\right]{2}\right)^3$.
+(1) $2\left(\sqrt6-\sqrt7\right)-\left|2\sqrt6-\sqrt7\right|$;　(2) $\left(-\sqrt2\right)^2+\left(-\sqrt\left[3\right]{2}\right)^3$.
 
 ### Solution to Problem 5
 
 By Opposite Number and Absolute Value and the operations of squaring and cubing.
 
-(1) $\because 2\sqrt 6\approx 4.899> \sqrt 7\approx 2.646$, $\therefore 2\sqrt 6-\sqrt 7> 0$, so $\left|2\sqrt 6-\sqrt 7\right|=2\sqrt 6-\sqrt 7$. Hence
+(1) $\because2\sqrt6\approx4.899>\sqrt7\approx2.646$, $\therefore2\sqrt6-\sqrt7>0$, so $\left|2\sqrt6-\sqrt7\right|=2\sqrt6-\sqrt7$. Hence
 
 $$
-2\left(\sqrt 6-\sqrt 7\right)-\left(2\sqrt 6-\sqrt 7\right)=2\sqrt 6-2\sqrt 7-2\sqrt 6+\sqrt 7=-\sqrt 7.
+2\left(\sqrt6-\sqrt7\right)-\left(2\sqrt6-\sqrt7\right)=2\sqrt6-2\sqrt7-2\sqrt6+\sqrt7=-\sqrt7.
 $$
 
-(2) $\left(-\sqrt 2\right)^2=\left(\sqrt 2\right)^2=2$, $\left(-\sqrt\left[3\right]{2}\right)^3=-\left(\sqrt\left[3\right]{2}\right)^3=-2$, so
+(2) $\left(-\sqrt2\right)^2=\left(\sqrt2\right)^2=2$, $\left(-\sqrt\left[3\right]{2}\right)^3=-\left(\sqrt\left[3\right]{2}\right)^3=-2$, so
 
 $$
-\left(-\sqrt 2\right)^2+\left(-\sqrt\left[3\right]{2}\right)^3=2+\left(-2\right)=0.
+\left(-\sqrt2\right)^2+\left(-\sqrt\left[3\right]{2}\right)^3=2+\left(-2\right)=0.
 $$
 
 $\blacksquare$
@@ -224,17 +224,17 @@ By Real Numbers and the Number Line, real numbers can take continuous values on 
 
 (2) All integers greater than $-\sqrt{10}$ and less than $\sqrt{10}$;
 
-(3) All integers whose absolute value is less than $\sqrt 6$.
+(3) All integers whose absolute value is less than $\sqrt6$.
 
 ### Solution to Problem 7
 
 Estimate the range of each irrational number.
 
-(1) $\because 6^2=36< 37< 49=7^2$, $\therefore 6< \sqrt{37}< 7$, so the positive integers less than $\sqrt{37}$ are $1$, $2$, $3$, $4$, $5$, $6$.
+(1) $\because6^2=36<37<49=7^2$, $\therefore6<\sqrt{37}<7$, so the positive integers less than $\sqrt{37}$ are $1$, $2$, $3$, $4$, $5$, $6$.
 
-(2) $\because 3^2=9< 10< 16=4^2$, $\therefore 3< \sqrt{10}< 4$, so $-4< -\sqrt{10}< -3$. The integers greater than $-\sqrt{10}$ and less than $\sqrt{10}$ are $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
+(2) $\because3^2=9<10<16=4^2$, $\therefore3<\sqrt{10}<4$, so $-4<-\sqrt{10}<-3$. The integers greater than $-\sqrt{10}$ and less than $\sqrt{10}$ are $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
 
-(3) $\because 2^2=4< 6< 9=3^2$, $\therefore 2< \sqrt 6< 3$, so the integers whose absolute value is less than $\sqrt 6$ are $-2$, $-1$, $0$, $1$, $2$. $\blacksquare$
+(3) $\because2^2=4<6<9=3^2$, $\therefore2<\sqrt6<3$, so the integers whose absolute value is less than $\sqrt6$ are $-2$, $-1$, $0$, $1$, $2$. $\blacksquare$
 
 ## Problem 8
 
@@ -244,22 +244,22 @@ Estimate the range of each irrational number.
 
 (2) Find the sum of the areas of the two shaded parts in the figure.
 
-The figure shows a large rectangle containing two squares placed side by side: the larger square has area $3\,\text{cm}^2$ (side $\sqrt 3$), the smaller square has area $1\,\text{cm}^2$ (side $1$); the two shaded regions are the parts of the large rectangle remaining after removing the two squares.
+The figure shows a large rectangle containing two squares placed side by side: the larger square has area $3\,\text{cm}^2$ (side $\sqrt3$), the smaller square has area $1\,\text{cm}^2$ (side $1$); the two shaded regions are the parts of the large rectangle remaining after removing the two squares.
 
 ### Solution to Problem 8
 
-The square of area $3\,\text{cm}^2$ has side length $\sqrt 3\,\text{cm}$, and the square of area $1\,\text{cm}^2$ has side length $1\,\text{cm}$.
+The square of area $3\,\text{cm}^2$ has side length $\sqrt3\,\text{cm}$, and the square of area $1\,\text{cm}^2$ has side length $1\,\text{cm}$.
 
-(1) The large rectangle has length $\sqrt 3+1$ and width $\sqrt 3$. Thus the perimeter is
-
-$$
-2\left[\left(\sqrt 3+1\right)+\sqrt 3\right]=2\left(2\sqrt 3+1\right)=4\sqrt 3+2\quad\left(\text{cm}\right).
-$$
-
-(2) The two shaded parts can be assembled into a small rectangle of length $\sqrt 3-1$ and width $1$, so the sum of their areas is
+(1) The large rectangle has length $\sqrt3+1$ and width $\sqrt3$. Thus the perimeter is
 
 $$
-\left(\sqrt 3-1\right)\times 1=\sqrt 3-1\quad\left(\text{cm}^2\right).
+2\left[\left(\sqrt3+1\right)+\sqrt3\right]=2\left(2\sqrt3+1\right)=4\sqrt3+2\quad\left(\text{cm}\right).
+$$
+
+(2) The two shaded parts can be assembled into a small rectangle of length $\sqrt3-1$ and width $1$, so the sum of their areas is
+
+$$
+\left(\sqrt3-1\right)\times1=\sqrt3-1\quad\left(\text{cm}^2\right).
 $$
 
 $\blacksquare$
@@ -276,19 +276,19 @@ Although the decimal part of this number is non-terminating, between two adjacen
 
 ## Reading and Reflection 1
 
-(Reading and Reflection: Why $\sqrt 2$ Is Not a Rational Number) The ancient Greek Pythagorean school held that all quantities could be represented by integers or ratios of integers. Later it was discovered that the diagonal of a square of side length $1$ could not be represented by an integer or a ratio of integers. Explain why $\sqrt 2$ is not a rational number.
+(Reading and Reflection: Why $\sqrt2$ Is Not a Rational Number) The ancient Greek Pythagorean school held that all quantities could be represented by integers or ratios of integers. Later it was discovered that the diagonal of a square of side length $1$ could not be represented by an integer or a ratio of integers. Explain why $\sqrt2$ is not a rational number.
 
 ### Solution to Reading and Reflection 1
 
-Use proof by contradiction. Suppose $\sqrt 2$ is rational; then there exist two coprime positive integers $p$, $q$ such that
+Use proof by contradiction. Suppose $\sqrt2$ is rational; then there exist two coprime positive integers $p$, $q$ such that
 
 $$
-\frac{p}{q}=\sqrt 2.
+\frac{p}{q}=\sqrt2.
 $$
 
 Squaring both sides gives $p^2=2q^2$. Since $2q^2$ is even, $p^2$ is even, and only the square of an even number is even, so $p$ is also even. Let $p=2r$ ($r$ a positive integer); substituting gives $4r^2=2q^2$, i.e. $q^2=2r^2$, so $q$ is also even.
 
-Thus both $p$ and $q$ are even, contradicting the assumption that $p$, $q$ are coprime. This contradiction shows that $\sqrt 2$ cannot be written as a fraction, i.e. $\sqrt 2$ is not a rational number. $\blacksquare$
+Thus both $p$ and $q$ are even, contradicting the assumption that $p$, $q$ are coprime. This contradiction shows that $\sqrt2$ cannot be written as a fraction, i.e. $\sqrt2$ is not a rational number. $\blacksquare$
 
 ## Activity 1
 
@@ -302,13 +302,13 @@ $$
 \frac{x}{y}=\frac{y}{x/2}=\frac{2y}{x}.
 $$
 
-Thus $x^2=2y^2$, i.e. $x=\sqrt 2\,y$. Also the area of $A0$ is $xy=1$; substituting gives
+Thus $x^2=2y^2$, i.e. $x=\sqrt2\,y$. Also the area of $A0$ is $xy=1$; substituting gives
 
 $$
-\sqrt 2\,y^2=1,\quad y^2=\frac{1}{\sqrt 2},\quad y=\sqrt{\frac{1}{\sqrt 2}}=2^{-\frac14}.
+\sqrt2\,y^2=1,\quad{y}^2=\frac{1}{\sqrt2},\quad{y}=\sqrt{\frac{1}{\sqrt2}}=2^{-\frac14}.
 $$
 
-From $2^{-\frac14}\approx 0.8409\,\text{m}=841\,\text{mm}$, $x=\sqrt 2\,y\approx 1.1892\,\text{m}=1189\,\text{mm}$.
+From $2^{-\frac14}\approx0.8409\,\text{m}=841\,\text{mm}$, $x=\sqrt2\,y\approx1.1892\,\text{m}=1189\,\text{mm}$.
 
 Thus $A0$ paper has length about $1189\,\text{mm}$ and width about $841\,\text{mm}$. $\blacksquare$
 
@@ -326,11 +326,11 @@ Thus $A0$ paper has length about $1189\,\text{mm}$ and width about $841\,\text{m
 
 By **Definition 8.2.1 (Cube Root)**, determine each digit using the pattern of cubes.
 
-(1) $\because 10^3=1000< 59319< 1000000=100^3$, $\therefore 10< \sqrt\left[3\right]{59319}< 100$, i.e. $\sqrt\left[3\right]{59319}$ is a two-digit number.
+(1) $\because10^3=1000<59319<1000000=100^3$, $\therefore10<\sqrt\left[3\right]{59319}<100$, i.e. $\sqrt\left[3\right]{59319}$ is a two-digit number.
 
 (2) The only units digit whose cube still has units digit $9$ is $9$ ($9^3=729$, units digit $9$), so the units digit of $\sqrt\left[3\right]{59319}$ is $9$.
 
-(3) Deleting the last three digits $319$ gives $59$; $\because 3^3=27< 59< 64=4^3$, $\therefore$ the cube root corresponding to the tens digit lies between $3$ and $4$; take the smaller $3$, i.e. the tens digit is $3$.
+(3) Deleting the last three digits $319$ gives $59$; $\because3^3=27<59<64=4^3$, $\therefore$ the cube root corresponding to the tens digit lies between $3$ and $4$; take the smaller $3$, i.e. the tens digit is $3$.
 
 In summary, $\sqrt\left[3\right]{59319}=39$. $\blacksquare$
 
@@ -344,13 +344,13 @@ In summary, $\sqrt\left[3\right]{59319}=39$. $\blacksquare$
 
 By **Definition 8.1.1 (Square Root)** and **Definition 8.1.2 (Arithmetic Square Root)**.
 
-(1) $\because\left(\pm 0.6\right)^2=0.36$, $\therefore$ the square roots are $\pm 0.6$, and the arithmetic square root is $0.6$.
+(1) $\because\left(\pm0.6\right)^2=0.36$, $\therefore$ the square roots are $\pm0.6$, and the arithmetic square root is $0.6$.
 
 (2) $\because\left(\pm\frac{5}{4}\right)^2=\frac{25}{16}$, $\therefore$ the square roots are $\pm\frac{5}{4}$, and the arithmetic square root is $\frac{5}{4}$.
 
 (3) $\left(-\frac{7}{8}\right)^2=\frac{49}{64}$, $\because\left(\pm\frac{7}{8}\right)^2=\frac{49}{64}$, $\therefore$ the square roots are $\pm\frac{7}{8}$, and the arithmetic square root is $\frac{7}{8}$.
 
-(4) $10^4=10000$, $\because\left(\pm 100\right)^2=10000$, $\therefore$ the square roots are $\pm 100$, and the arithmetic square root is $100$. $\blacksquare$
+(4) $10^4=10000$, $\because\left(\pm100\right)^2=10000$, $\therefore$ the square roots are $\pm100$, and the arithmetic square root is $100$. $\blacksquare$
 
 ## Review Exercise 2
 
@@ -368,7 +368,7 @@ By **Definition 8.2.1 (Cube Root)**.
 
 (3) $\because\left(-0.9\right)^3=-0.729$, $\therefore\sqrt\left[3\right]{-0.729}=-0.9$.
 
-(4) The cube root of $36$ is $\sqrt\left[3\right]{36}$ (cannot be extracted exactly), $\approx 3.30$. $\blacksquare$
+(4) The cube root of $36$ is $\sqrt\left[3\right]{36}$ (cannot be extracted exactly), $\approx3.30$. $\blacksquare$
 
 ## Review Exercise 3
 
@@ -384,9 +384,9 @@ By **Definition 8.1.2 (Arithmetic Square Root)**, Properties of Arithmetic Squar
 
 (2) $\sqrt\left[3\right]{10^3}=10$.
 
-(3) $\because 0.3^2=0.09$, $\therefore\pm\sqrt{0.09}=\pm 0.3$.
+(3) $\because0.3^2=0.09$, $\therefore\pm\sqrt{0.09}=\pm0.3$.
 
-(4) $\because\pi> 3$, $\therefore 3-\pi< 0$. By Properties of Arithmetic Square Roots, $\sqrt{\left(3-\pi\right)^2}=\left|3-\pi\right|=\pi-3$. $\blacksquare$
+(4) $\because\pi>3$, $\therefore3-\pi<0$. By Properties of Arithmetic Square Roots, $\sqrt{\left(3-\pi\right)^2}=\left|3-\pi\right|=\pi-3$. $\blacksquare$
 
 ## Review Exercise 4
 
@@ -398,27 +398,27 @@ By **Definition 8.1.2 (Arithmetic Square Root)**, Properties of Arithmetic Squar
 
 Use a calculator.
 
-(1) $\because 425^2=180625$, $\therefore\sqrt{180625}=425$.
+(1) $\because425^2=180625$, $\therefore\sqrt{180625}=425$.
 
-(2) $\sqrt{9.77}\approx 3.126$, so $-\sqrt{9.77}\approx-3.126$.
+(2) $\sqrt{9.77}\approx3.126$, so $-\sqrt{9.77}\approx-3.126$.
 
-(3) $\because 34^3=39304$, $\therefore\sqrt\left[3\right]{39304}=34$.
+(3) $\because34^3=39304$, $\therefore\sqrt\left[3\right]{39304}=34$.
 
-(4) $\sqrt\left[3\right]{0.43}\approx 0.755$. $\blacksquare$
+(4) $\sqrt\left[3\right]{0.43}\approx0.755$. $\blacksquare$
 
 ## Review Exercise 5
 
 (Review Exercise, Review and Consolidation, Problem 5) Compute:
 
-(1) $\sqrt 2\left(\sqrt 2+2\right)$;　(2) $\sqrt 3\left(\sqrt 3+\frac{1}{\sqrt 3}\right)$.
+(1) $\sqrt2\left(\sqrt2+2\right)$;　(2) $\sqrt3\left(\sqrt3+\frac{1}{\sqrt3}\right)$.
 
 ### Solution to Review Exercise 5
 
 Expand by the distributive law.
 
-(1) $\sqrt 2\left(\sqrt 2+2\right)=\left(\sqrt 2\right)^2+2\sqrt 2=2+2\sqrt 2$.
+(1) $\sqrt2\left(\sqrt2+2\right)=\left(\sqrt2\right)^2+2\sqrt2=2+2\sqrt2$.
 
-(2) $\sqrt 3\left(\sqrt 3+\frac{1}{\sqrt 3}\right)=\left(\sqrt 3\right)^2+\sqrt 3\cdot\frac{1}{\sqrt 3}=3+1=4$. $\blacksquare$
+(2) $\sqrt3\left(\sqrt3+\frac{1}{\sqrt3}\right)=\left(\sqrt3\right)^2+\sqrt3\cdot\frac{1}{\sqrt3}=3+1=4$. $\blacksquare$
 
 ## Review Exercise 6
 
@@ -428,17 +428,17 @@ Expand by the distributive law.
 
 ### Solution to Review Exercise 6
 
-(1) $\because 9^2=81< 91< 100=10^2$, $\therefore 9< \sqrt{91}< 10$. Also $91-81=10$, $100-91=9$, so $91$ is closer to $100$; thus $\sqrt{91}$ lies between $9$ and $10$, closer to $10$.
+(1) $\because9^2=81<91<100=10^2$, $\therefore9<\sqrt{91}<10$. Also $91-81=10$, $100-91=9$, so $91$ is closer to $100$; thus $\sqrt{91}$ lies between $9$ and $10$, closer to $10$.
 
-(2) $\because 4^3=64< 91< 125=5^3$, $\therefore 4< \sqrt\left[3\right]{91}< 5$. Also $91-64=27$, $125-91=34$, so $91$ is closer to $64$; thus $\sqrt\left[3\right]{91}$ lies between $4$ and $5$, closer to $4$. $\blacksquare$
+(2) $\because4^3=64<91<125=5^3$, $\therefore4<\sqrt\left[3\right]{91}<5$. Also $91-64=27$, $125-91=34$, so $91$ is closer to $64$; thus $\sqrt\left[3\right]{91}$ lies between $4$ and $5$, closer to $4$. $\blacksquare$
 
 ## Review Exercise 7
 
-(Review Exercise, Comprehensive Application, Problem 7) Given $\left|x\right|< \pi$ ($x$ is an integer), find the values of $x$ and represent them on the number line.
+(Review Exercise, Comprehensive Application, Problem 7) Given $\left|x\right|<\pi$ ($x$ is an integer), find the values of $x$ and represent them on the number line.
 
 ### Solution to Review Exercise 7
 
-$\pi\approx 3.14$, and $\left|x\right|< \pi$ means $-\pi< x< \pi$, i.e. $-3.14< x< 3.14$. The integers in this range are $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
+$\pi\approx3.14$, and $\left|x\right|<\pi$ means $-\pi<{}x<\pi$, i.e. $-3.14<{}x<3.14$. The integers in this range are $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
 
 Thus $x=-3$, $-2$, $-1$, $0$, $1$, $2$, $3$. Mark these points correspondingly on the number line. $\blacksquare$
 
@@ -454,9 +454,9 @@ By Square Root, find the side length and radius.
 
 Square: area $2\pi$, side length $a=\sqrt{2\pi}$, perimeter $C_正=4a=4\sqrt{2\pi}$.
 
-Circle: area $\pi r^2=2\pi$, so $r^2=2$, $r=\sqrt 2$, perimeter $C_圆=2\pi r=2\pi\sqrt 2$.
+Circle: area $\pi{r}^2=2\pi$, so $r^2=2$, $r=\sqrt2$, perimeter $C_圆=2\pi{r}=2\pi\sqrt2$.
 
-Compare: $C_正=4\sqrt{2\pi}\approx 4\times 2.507=10.03$, $C_圆=2\pi\sqrt 2\approx 8.89$. Thus $C_正> C_圆$, and the square has the larger perimeter.
+Compare: $C_正=4\sqrt{2\pi}\approx4\times2.507=10.03$, $C_圆=2\pi\sqrt2\approx8.89$. Thus $C_正>{}C_圆$, and the square has the larger perimeter.
 
 Insight: when the areas are equal, the circle has a smaller perimeter than the square, i.e. the circle is the figure with the smallest perimeter for a given area. $\blacksquare$
 
@@ -468,8 +468,8 @@ Insight: when the areas are equal, the circle has a smaller perimeter than the s
 
 From $s^2=16.74h$, $s=\sqrt{16.74h}$ (take the positive value).
 
-When $h=1.5$, $s=\sqrt{16.74\times 1.5}=\sqrt{25.11}\approx 5.01\,km$.
+When $h=1.5$, $s=\sqrt{16.74\times1.5}=\sqrt{25.11}\approx5.01\,km$.
 
-When $h=8.7$, $s=\sqrt{16.74\times 8.7}=\sqrt{145.64}\approx 12.07\,km$.
+When $h=8.7$, $s=\sqrt{16.74\times8.7}=\sqrt{145.64}\approx12.07\,km$.
 
 Thus by the sea she can see about $5.01\,km$, and standing on the rock about $12.07\,km$. $\blacksquare$

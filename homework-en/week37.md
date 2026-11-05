@@ -2,7 +2,7 @@
 
 > **Definition 16.1.1 (Multiplication of Powers with the Same Base)**
 > 
-> In general, for any base $a$ and any positive integers $m,n$, $a^m\cdot a^n=a^{m+n}$; that is, when multiplying powers with the same base, the base is unchanged and the exponents are added. This property also holds when three or more powers with the same base are multiplied.
+> In general, for any base $a$ and any positive integers $m,n$, $a^m\cdot{a}^n=a^{m+n}$; that is, when multiplying powers with the same base, the base is unchanged and the exponents are added. This property also holds when three or more powers with the same base are multiplied.
 
 > **Definition 16.1.2 (Power of a Power)**
 > 
@@ -10,7 +10,7 @@
 
 > **Definition 16.1.3 (Power of a Product)**
 > 
-> In general, for any bases $a,b$ and any positive integer $n$, $\left(ab\right)^n=a^n b^n$; that is, the power of a product equals taking the power of each factor of the product separately and then multiplying the resulting powers. This property also holds for the power of a product of three or more factors.
+> In general, for any bases $a,b$ and any positive integer $n$, $\left(ab\right)^n=a^nb^n$; that is, the power of a product equals taking the power of each factor of the product separately and then multiplying the resulting powers. This property also holds for the power of a product of three or more factors.
 
 > **Definition 16.2.3 (Multiplication of a Polynomial by a Polynomial)**
 > 
@@ -18,7 +18,7 @@
 
 > **Definition 16.2.4 (Division of Powers with the Same Base)**
 > 
-> $a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ are both positive integers, $m> n$); that is, when dividing powers with the same base, the base is unchanged and the exponents are subtracted.
+> $a^m\div{a}^n=a^{m-n}$ ($a\ne0$, $m,n$ are both positive integers, $m>{}n$); that is, when dividing powers with the same base, the base is unchanged and the exponents are subtracted.
 
 > **Definition 16.3.1 (Difference of Squares Formula)**
 > 
@@ -78,7 +78,7 @@ By **Definition 16.3.1 (Difference of Squares Formula)**, the difference of squa
 
 (1) $\left(2m+3\right)\left(2m-3\right)$;
 
-(2) $\left(-\frac14 x-2y\right)\left(\frac14 x-2y\right)$;
+(2) $\left(-\frac14x-2y\right)\left(\frac14x-2y\right)$;
 
 (3) $\left(a+2b\right)\left(a-2b\right)$;
 
@@ -90,7 +90,7 @@ By **Definition 16.3.1 (Difference of Squares Formula)**.
 
 (1) $\left(2m+3\right)\left(2m-3\right)=4m^2-9$.
 
-(2) $\left(-\frac14 x-2y\right)\left(\frac14 x-2y\right)=\left(-2y\right)^2-\left(\frac14 x\right)^2=4y^2-\frac{1}{16}x^2$.
+(2) $\left(-\frac14x-2y\right)\left(\frac14x-2y\right)=\left(-2y\right)^2-\left(\frac14x\right)^2=4y^2-\frac{1}{16}x^2$.
 
 (3) $\left(a+2b\right)\left(a-2b\right)=a^2-4b^2$.
 
@@ -102,7 +102,7 @@ By **Definition 16.3.1 (Difference of Squares Formula)**.
 
 (1) $\left(2a+5b\right)^2$;
 
-(2) $\frac34 x-\frac23 y\right)^2$;
+(2) $\frac34x-\frac23y\right)^2$;
 
 (3) $\left(-2m-7n\right)^2$;
 
@@ -114,7 +114,7 @@ By **Definition 16.3.2 (Perfect Square Formula)**.
 
 (1) $\left(2a+5b\right)^2=4a^2+20ab+25b^2$.
 
-(2) $\left(\frac34 x-\frac23 y\right)^2=\frac{9}{16}x^2-xy+\frac49 y^2$.
+(2) $\left(\frac34x-\frac23y\right)^2=\frac{9}{16}x^2-xy+\frac49y^2$.
 
 (3) $\left(-2m-7n\right)^2=4m^2+28mn+49n^2$.
 
@@ -126,7 +126,7 @@ By **Definition 16.3.2 (Perfect Square Formula)**.
 
 (1) $\left(2a+5b\right)\left(2a-5b\right)$;
 
-(2) $\left(\frac12 x-3y\right)^2$;
+(2) $\left(\frac12x-3y\right)^2$;
 
 (3) $\left(ab+1\right)^2-\left(ab-1\right)^2$;
 
@@ -134,7 +134,7 @@ By **Definition 16.3.2 (Perfect Square Formula)**.
 
 (5) $\left(-2x-5y\right)^2$;
 
-(6) $\left(a-\frac12 b^2\right)^2$.
+(6) $\left(a-\frac12b^2\right)^2$.
 
 ### Solution to Problem 4
 
@@ -142,15 +142,15 @@ By **Definition 16.3.1 (Difference of Squares Formula)** and **Definition 16.3.2
 
 (1) $\left(2a+5b\right)\left(2a-5b\right)=4a^2-25b^2$.
 
-(2) $\left(\frac12 x-3y\right)^2=\frac14 x^2-3xy+9y^2$.
+(2) $\left(\frac12x-3y\right)^2=\frac14x^2-3xy+9y^2$.
 
-(3) $\left(ab+1\right)^2-\left(ab-1\right)^2=\left(a^2 b^2+2ab+1\right)-\left(a^2 b^2-2ab+1\right)=4ab$.
+(3) $\left(ab+1\right)^2-\left(ab-1\right)^2=\left(a^2b^2+2ab+1\right)-\left(a^2b^2-2ab+1\right)=4ab$.
 
 (4) $\left(3x-5\right)^2-\left(2x+7\right)^2=\left(9x^2-30x+25\right)-\left(4x^2+28x+49\right)=5x^2-58x-24$.
 
 (5) $\left(-2x-5y\right)^2=4x^2+20xy+25y^2$.
 
-(6) $\left(a-\frac12 b^2\right)^2=a^2-ab^2+\frac14 b^4$. $\blacksquare$
+(6) $\left(a-\frac12b^2\right)^2=a^2-ab^2+\frac14b^4$. $\blacksquare$
 
 ## Problem 5
 
@@ -178,11 +178,11 @@ The figure shows a large circle of diameter $a+b$, from which two smaller circle
 
 ### Solution to Problem 6
 
-The large circle has diameter $a+b$, radius $\frac{a+b}{2}$, and area $\pi\left(\frac{a+b}{2}\right)^2$. The two cut-out circles have radii $\frac a2$ and $\frac b2$, with total area $\pi\left(\frac a2\right)^2+\pi\left(\frac b2\right)^2$.
+The large circle has diameter $a+b$, radius $\frac{a+b}{2}$, and area $\pi\left(\frac{a+b}{2}\right)^2$. The two cut-out circles have radii $\frac{a}2$ and $\frac{b}2$, with total area $\pi\left(\frac{a}2\right)^2+\pi\left(\frac{b}2\right)^2$.
 
 The remaining area is
 
-$$S=\pi\frac{\left(a+b\right)^2}{4}-\pi\frac{a^2}{4}-\pi\frac{b^2}{4}=\pi\frac{a^2+2ab+b^2-a^2-b^2}{4}=\frac{\pi ab}{2}.$$
+$$S=\pi\frac{\left(a+b\right)^2}{4}-\pi\frac{a^2}{4}-\pi\frac{b^2}{4}=\pi\frac{a^2+2ab+b^2-a^2-b^2}{4}=\frac{\pi{a}b}{2}.$$
 
 $\blacksquare$
 
@@ -266,7 +266,7 @@ Hence the difference is always $-7$, independent of $n$.
 
 (2) Can you explain the pattern you discovered using the knowledge from this chapter?
 
-(3) Use the pattern you discovered to solve the following problem: enclose a rectangle with a rope of length $10\ \text{m}$. What is the maximum area of the rectangle? What is the relationship between the two adjacent side lengths of the rectangle at that time?
+(3) Use the pattern you discovered to solve the following problem: enclose a rectangle with a rope of length $10\,\text{m}$. What is the maximum area of the rectangle? What is the relationship between the two adjacent side lengths of the rectangle at that time?
 
 ### Solution to Activity 2
 
@@ -274,15 +274,15 @@ Hence the difference is always $-7$, independent of $n$.
 
 ② $50\times50=2500$, $53\times47=2491$, $74\times26=1924$, $91\times9=819$. The sum of the two numbers in each group is $100$; similarly, the closer the two numbers are to $50$, the larger the product.
 
-(2) Let the sum of the two numbers be the fixed value $S$, with the two numbers being $\frac S2+d$ and $\frac S2-d$. By **Definition 16.3.1 (Difference of Squares Formula)**:
+(2) Let the sum of the two numbers be the fixed value $S$, with the two numbers being $\frac{S}2+d$ and $\frac{S}2-d$. By **Definition 16.3.1 (Difference of Squares Formula)**:
 
-$$\left(\frac S2+d\right)\left(\frac S2-d\right)=\frac{S^2}{4}-d^2.$$
+$$\left(\frac{S}2+d\right)\left(\frac{S}2-d\right)=\frac{S^2}{4}-d^2.$$
 
 Hence the closer the two numbers (the smaller $d$), the larger the product; when $d=0$, i.e. the two numbers are equal, the product is maximal at $\frac{S^2}{4}$.
 
-(3) The perimeter is $10\ \text{m}$, so the sum of length and width is $5\ \text{m}$, i.e. $S=5$. Area $=$ length $\times$ width; by the above pattern, when the length and width are equal, i.e. both are $2.5\ \text{m}$, the area is maximal:
+(3) The perimeter is $10\,\text{m}$, so the sum of length and width is $5\,\text{m}$, i.e. $S=5$. Area $=$ length $\times$ width; by the above pattern, when the length and width are equal, i.e. both are $2.5\,\text{m}$, the area is maximal:
 
-$$S_{\max}=\frac{5^2}{4}=6.25\ \left(\text{m}^2\right).$$
+$$S_{\max}=\frac{5^2}{4}=6.25\,\left(\text{m}^2\right).$$
 
 At this time the two adjacent sides of the rectangle are equal, i.e. it is a square. $\blacksquare$
 
@@ -294,11 +294,11 @@ At this time the two adjacent sides of the rectangle are equal, i.e. it is a squ
 
 The coefficients in the $7$-th row ($n=6$) of Yang Hui's Triangle are $1,6,15,20,15,6,1$, ordered by the descending power of $a$:
 
-$$\left(a+b\right)^6=a^6+6a^5 b+15a^4 b^2+20a^3 b^3+15a^2 b^4+6ab^5+b^6.$$
+$$\left(a+b\right)^6=a^6+6a^5b+15a^4b^2+20a^3b^3+15a^2b^4+6ab^5+b^6.$$
 
-Verification: $\left(a+b\right)^3=a^3+3a^2 b+3ab^2+b^3$, then
+Verification: $\left(a+b\right)^3=a^3+3a^2b+3ab^2+b^3$, then
 
-$$\left(a+b\right)^6=\left(\left(a+b\right)^3\right)^2=\left(a^3+3a^2 b+3ab^2+b^3\right)^2.$$
+$$\left(a+b\right)^6=\left(\left(a+b\right)^3\right)^2=\left(a^3+3a^2b+3ab^2+b^3\right)^2.$$
 
 After expanding and combining like terms, the coefficients of each term agree with the above, so the verification is correct. $\blacksquare$
 
@@ -310,9 +310,9 @@ After expanding and combining like terms, the coefficients of each term agree wi
 
 (2) $\left[\left(-2\right)^2\right]^3$;
 
-(3) $\left(-x\right)^2\cdot x^3$;
+(3) $\left(-x\right)^2\cdot{x}^3$;
 
-(4) $x\cdot x^2\cdot x^3+\left(x^3\right)^2$.
+(4) $x\cdot{x}^2\cdot{x}^3+\left(x^3\right)^2$.
 
 ### Solution to Review Problem 1
 
@@ -322,15 +322,15 @@ By **Definition 16.1.1 (Multiplication of Powers with the Same Base)** and **Def
 
 (2) $\left[\left(-2\right)^2\right]^3=4^3=64$.
 
-(3) $\left(-x\right)^2\cdot x^3=x^2\cdot x^3=x^5$.
+(3) $\left(-x\right)^2\cdot{x}^3=x^2\cdot{x}^3=x^5$.
 
-(4) $x\cdot x^2\cdot x^3+\left(x^3\right)^2=x^6+x^6=2x^6$. $\blacksquare$
+(4) $x\cdot{x}^2\cdot{x}^3+\left(x^3\right)^2=x^6+x^6=2x^6$. $\blacksquare$
 
 ## Review Problem 2
 
 (Review Problems, Review and Consolidation, Problem 2) Calculate:
 
-(1) $\left(-2x^2 y^3\right)^2\left(xy\right)^3$;
+(1) $\left(-2x^2y^3\right)^2\left(xy\right)^3$;
 
 (2) $\left(2a+3b\right)\left(2a-b\right)$;
 
@@ -344,7 +344,7 @@ By **Definition 16.1.1 (Multiplication of Powers with the Same Base)** and **Def
 
 ### Solution to Review Problem 2
 
-(1) $\left(-2x^2 y^3\right)^2\left(xy\right)^3=4x^4 y^6\cdot x^3 y^3=4x^7 y^9$.
+(1) $\left(-2x^2y^3\right)^2\left(xy\right)^3=4x^4y^6\cdot{x}^3y^3=4x^7y^9$.
 
 (2) $\left(2a+3b\right)\left(2a-b\right)=4a^2-2ab+6ab-3b^2=4a^2+4ab-3b^2$.
 
@@ -360,25 +360,25 @@ By **Definition 16.1.1 (Multiplication of Powers with the Same Base)** and **Def
 
 (Review Problems, Review and Consolidation, Problem 3) Calculate:
 
-(1) $\left(2a\right)^3\cdot b^4\div\left(12a^3 b^2\right)$;
+(1) $\left(2a\right)^3\cdot{b}^4\div\left(12a^3b^2\right)$;
 
-(2) $-27a^7 b^5\div\left(\frac32 a^2 b^5\right)$;
+(2) $-27a^7b^5\div\left(\frac32a^2b^5\right)$;
 
-(3) $\left(\frac65 a^3 x^4-0.9ax^3\right)\div\left(\frac35 ax^3\right)$;
+(3) $\left(\frac65a^3x^4-0.9ax^3\right)\div\left(\frac35ax^3\right)$;
 
-(4) $\left(7x^2 y^3-8x^3 y^2 z\right)\div\left(8x^2 y^2\right)$.
+(4) $\left(7x^2y^3-8x^3y^2z\right)\div\left(8x^2y^2\right)$.
 
 ### Solution to Review Problem 3
 
 By the rules for division of monomials and polynomials.
 
-(1) $\left(2a\right)^3\cdot b^4\div\left(12a^3 b^2\right)=8a^3 b^4\div\left(12a^3 b^2\right)=\frac23 b^2$.
+(1) $\left(2a\right)^3\cdot{b}^4\div\left(12a^3b^2\right)=8a^3b^4\div\left(12a^3b^2\right)=\frac23b^2$.
 
-(2) $-27a^7 b^5\div\left(\frac32 a^2 b^5\right)=-18a^5$.
+(2) $-27a^7b^5\div\left(\frac32a^2b^5\right)=-18a^5$.
 
-(3) $\left(\frac65 a^3 x^4-0.9ax^3\right)\div\left(\frac35 ax^3\right)=2a^2 x-1.5$.
+(3) $\left(\frac65a^3x^4-0.9ax^3\right)\div\left(\frac35ax^3\right)=2a^2x-1.5$.
 
-(4) $\left(7x^2 y^3-8x^3 y^2 z\right)\div\left(8x^2 y^2\right)=\frac78 y-xz$. $\blacksquare$
+(4) $\left(7x^2y^3-8x^3y^2z\right)\div\left(8x^2y^2\right)=\frac78y-xz$. $\blacksquare$
 
 ## Review Problem 4
 
@@ -414,7 +414,7 @@ Substituting $x=3,y=2$, we get $2\cdot9+4\cdot6+2\cdot4=18+24+8=50$. $\blacksqua
 
 (3) $\left(2x^2+1\right)^2-\left(x+2\right)\left(x^2+4\right)\left(x-2\right)$;
 
-(4) $\left[x\left(x^2 y^2-xy\right)-y\left(x^2-x^3 y\right)\right]\div\left(3x^2 y\right)$.
+(4) $\left[x\left(x^2y^2-xy\right)-y\left(x^2-x^3y\right)\right]\div\left(3x^2y\right)$.
 
 ### Solution to Review Problem 6
 
@@ -424,7 +424,7 @@ Substituting $x=3,y=2$, we get $2\cdot9+4\cdot6+2\cdot4=18+24+8=50$. $\blacksqua
 
 (3) $\left(2x^2+1\right)^2-\left(x+2\right)\left(x-2\right)\left(x^2+4\right)=\left(4x^4+4x^2+1\right)-\left(x^2-4\right)\left(x^2+4\right)=4x^4+4x^2+1-\left(x^4-16\right)=3x^4+4x^2+17$.
 
-(4) $\left[x^3 y^2-x^2 y-x^2 y+x^3 y^2\right]\div\left(3x^2 y\right)=\left(2x^3 y^2-2x^2 y\right)\div\left(3x^2 y\right)=\frac23 xy-\frac23$. $\blacksquare$
+(4) $\left[x^3y^2-x^2y-x^2y+x^3y^2\right]\div\left(3x^2y\right)=\left(2x^3y^2-2x^2y\right)\div\left(3x^2y\right)=\frac23xy-\frac23$. $\blacksquare$
 
 ## Review Problem 7
 
@@ -450,31 +450,31 @@ Adding the two equations: $2\left(x^2+y^2\right)=34$, hence $x^2+y^2=17$. $\blac
 
 ## Review Problem 9
 
-(Review Problems, Comprehensive Application, Problem 9) When the side length of a square sheet is reduced by $2\ \text{cm}$, its area decreases by $20\ \text{cm}^2$. What is the side length of this square sheet?
+(Review Problems, Comprehensive Application, Problem 9) When the side length of a square sheet is reduced by $2\,\text{cm}$, its area decreases by $20\,\text{cm}^2$. What is the side length of this square sheet?
 
 ### Solution to Review Problem 9
 
-Let the original side length be $x\ \text{cm}$; then the original area is $x^2$, the reduced side length is $x-2$, and the area is $\left(x-2\right)^2$.
+Let the original side length be $x\,\text{cm}$; then the original area is $x^2$, the reduced side length is $x-2$, and the area is $\left(x-2\right)^2$.
 
 $$x^2-\left(x-2\right)^2=20,$$
 
 $$x^2-\left(x^2-4x+4\right)=4x-4=20,$$
 
-Solving gives $x=6$. That is, the original side length of the square is $6\ \text{cm}$. $\blacksquare$
+Solving gives $x=6$. That is, the original side length of the square is $6\,\text{cm}$. $\blacksquare$
 
 ## Review Problem 10
 
-(Review Problems, Comprehensive Application, Problem 10) As shown in the figure is a schematic diagram of a hollow steel column of a hydraulic press. If its height $h$ is $18\ \text{m}$, its outer diameter $D$ is $1\ \text{m}$, its inner diameter $d$ is $0.4\ \text{m}$, and the mass of steel per cubic meter is $7.8\ \text{t}$, find the mass of this column. (Take $\pi$ as $3.14$, and keep the result to two decimal places.)
+(Review Problems, Comprehensive Application, Problem 10) As shown in the figure is a schematic diagram of a hollow steel column of a hydraulic press. If its height $h$ is $18\,\text{m}$, its outer diameter $D$ is $1\,\text{m}$, its inner diameter $d$ is $0.4\,\text{m}$, and the mass of steel per cubic meter is $7.8\,\text{t}$, find the mass of this column. (Take $\pi$ as $3.14$, and keep the result to two decimal places.)
 
-The figure shows a vertically placed hollow cylindrical steel column: height $h=18\ \text{m}$, outer diameter $D=1\ \text{m}$, inner diameter $d=0.4\ \text{m}$; its cross section is an annulus.
+The figure shows a vertically placed hollow cylindrical steel column: height $h=18\,\text{m}$, outer diameter $D=1\,\text{m}$, inner diameter $d=0.4\,\text{m}$; its cross section is an annulus.
 
 ### Solution to Review Problem 10
 
-The base area of the hollow column is the area of the annulus $\pi\left(\frac D2\right)^2-\pi\left(\frac d2\right)^2$. The volume is the base area multiplied by the height.
+The base area of the hollow column is the area of the annulus $\pi\left(\frac{D}2\right)^2-\pi\left(\frac{d}2\right)^2$. The volume is the base area multiplied by the height.
 
-$$V=\pi\left(\frac{D^2}{4}-\frac{d^2}{4}\right)h=3.14\times\frac{1-0.16}{4}\times18=3.14\times0.21\times18=11.8692\ \left(\text{m}^3\right).$$
+$$V=\pi\left(\frac{D^2}{4}-\frac{d^2}{4}\right)h=3.14\times\frac{1-0.16}{4}\times18=3.14\times0.21\times18=11.8692\,\left(\text{m}^3\right).$$
 
-The mass is $11.8692\times7.8\approx92.58\ \left(\text{t}\right)$. $\blacksquare$
+The mass is $11.8692\times7.8\approx92.58\,\left(\text{t}\right)$. $\blacksquare$
 
 ## Review Problem 11
 
@@ -482,4 +482,4 @@ The mass is $11.8692\times7.8\approx92.58\ \left(\text{t}\right)$. $\blacksquare
 
 ### Solution to Review Problem 11
 
-By **Definition 16.2.4 (Division of Powers with the Same Base)**, $x^{m-n}=x^m\div x^n=64\div8=8$. $\blacksquare$
+By **Definition 16.2.4 (Division of Powers with the Same Base)**, $x^{m-n}=x^m\div{x}^n=64\div8=8$. $\blacksquare$

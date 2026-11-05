@@ -72,7 +72,7 @@ By **Definition 15.1.1 (Axisymmetric Figure)**, two patterns are symmetric about
 
 (1) Which segments in the figure are equal? What is the perpendicular bisector of segment $AA'$?
 
-(2) How are $\triangle OAB$ and $\triangle OA'B'$ related about line $l$? Are they congruent? $\angle ABO=$? $\angle A'OB'=$?
+(2) How are $\triangle{O}AB$ and $\triangle{O}A'B'$ related about line $l$? Are they congruent? $\angle{A}BO=$? $\angle{A}'OB'=$?
 
 ### Solution to Exercise 2
 
@@ -80,15 +80,15 @@ By Properties of Axis Symmetry, the axis of symmetry $l$ perpendicularly bisects
 
 (1) The equal segments are $AO=A'O$, $AB=A'B'$, $BO=B'O$; line $l$ is the perpendicular bisector of segment $AA'$.
 
-(2) $\triangle OAB$ and $\triangle OA'B'$ are symmetric about line $l$, and $\triangle OAB\cong\triangle OA'B'$. By equal corresponding angles, $\angle ABO=\angle A'B'O$, $\angle A'OB'=\angle AOB$. $\blacksquare$
+(2) $\triangle{O}AB$ and $\triangle{O}A'B'$ are symmetric about line $l$, and $\triangle{O}AB\cong\triangle{O}A'B'$. By equal corresponding angles, $\angle{A}BO=\angle{A}'B'O$, $\angle{A}'OB'=\angle{A}OB$. $\blacksquare$
 
 ## Exercise 3
 
-(Exercise 15.1, Problem 1) As shown, $AD\perp BC$, $BD=DC$, and point $C$ lies on the perpendicular bisector of $AE$. What is the relationship among the lengths of $AB$, $AC$, $CE$? What is the relationship between $AB+BD$ and $DE$?
+(Exercise 15.1, Problem 1) As shown, $AD\perp{B}C$, $BD=DC$, and point $C$ lies on the perpendicular bisector of $AE$. What is the relationship among the lengths of $AB$, $AC$, $CE$? What is the relationship between $AB+BD$ and $DE$?
 
 ### Solution to Exercise 3
 
-Since $AD\perp BC$ and $BD=DC$, line $AD$ perpendicularly bisects $BC$. Point $A$ lies on $AD$; by Properties of the Perpendicular Bisector, $AB=AC$.
+Since $AD\perp{B}C$ and $BD=DC$, line $AD$ perpendicularly bisects $BC$. Point $A$ lies on $AD$; by Properties of the Perpendicular Bisector, $AB=AC$.
 
 Since point $C$ lies on the perpendicular bisector of $AE$, similarly by Basic Knowledge, $AC=CE$. Hence $AB=AC=CE$.
 
@@ -164,24 +164,24 @@ By **Definition 15.1.1 (Axisymmetric Figure)**, the shaded triangle forms an axi
 
 ## Problem 3
 
-(Exercise 15.1, Review and Consolidation, Problem 3) As shown, $\triangle ABC$ and $\triangle A'B'C'$ are symmetric about line $l$, $\angle B=90^\circ$, $A'B'=6$. Find the degree measure of $\angle B'$ and the length of $AB$.
+(Exercise 15.1, Review and Consolidation, Problem 3) As shown, $\triangle{A}BC$ and $\triangle{A}'B'C'$ are symmetric about line $l$, $\angle{B}=90^\circ$, $A'B'=6$. Find the degree measure of $\angle{B}'$ and the length of $AB$.
 
 ### Solution to Problem 3
 
-By Properties of Axis Symmetry, two figures symmetric about a line are congruent, so corresponding angles and corresponding sides are equal. Hence $\angle B'=\angle B=90^\circ$, $AB=A'B'=6$. $\blacksquare$
+By Properties of Axis Symmetry, two figures symmetric about a line are congruent, so corresponding angles and corresponding sides are equal. Hence $\angle{B}'=\angle{B}=90^\circ$, $AB=A'B'=6$. $\blacksquare$
 
 ## Problem 4
 
-(Exercise 15.1, Review and Consolidation, Problem 4) As shown, in $\triangle ABC$, $DE$ is the perpendicular bisector of $AC$, $AE=3$, and the perimeter of $\triangle ABD$ is $13$. Find the perimeter of $\triangle ABC$.
+(Exercise 15.1, Review and Consolidation, Problem 4) As shown, in $\triangle{A}BC$, $DE$ is the perpendicular bisector of $AC$, $AE=3$, and the perimeter of $\triangle{A}BD$ is $13$. Find the perimeter of $\triangle{A}BC$.
 
 ### Solution to Problem 4
 
 Since $DE$ is the perpendicular bisector of $AC$, $AC=2AE=6$, and point $D$ lies on $DE$; by Properties of the Perpendicular Bisector, $DA=DC$.
 
-The perimeter of $\triangle ABD$ is $AB+BD+AD=AB+BD+DC=AB+BC=13$. Hence
+The perimeter of $\triangle{A}BD$ is $AB+BD+AD=AB+BD+DC=AB+BC=13$. Hence
 
 $$
-C_{\triangle ABC}=AB+BC+AC=13+6=19.
+C_{\triangle{A}BC}=AB+BC+AC=13+6=19.
 $$
 
 $\blacksquare$
@@ -226,11 +226,11 @@ By **Definition 15.1.1 (Axisymmetric Figure)**, a figure for which a line can be
 
 ## Problem 8
 
-(Exercise 15.1, Comprehensive Application, Problem 8) As shown, $AD$ and $BC$ intersect at point $O$, $OA=OC$, $\angle A=\angle C$, $BE=DE$. Prove that $OE$ perpendicularly bisects $BD$.
+(Exercise 15.1, Comprehensive Application, Problem 8) As shown, $AD$ and $BC$ intersect at point $O$, $OA=OC$, $\angle{A}=\angle{C}$, $BE=DE$. Prove that $OE$ perpendicularly bisects $BD$.
 
 ### Solution to Problem 8
 
-In $\triangle AOB$ and $\triangle COD$, $\angle A=\angle C$, $OA=OC$, $\angle AOB=\angle COD$ (vertical angles); by ASA, $\triangle AOB\cong\triangle COD$, so $OB=OD$.
+In $\triangle{A}OB$ and $\triangle{C}OD$, $\angle{A}=\angle{C}$, $OA=OC$, $\angle{A}OB=\angle{C}OD$ (vertical angles); by ASA, $\triangle{A}OB\cong\triangle{C}OD$, so $OB=OD$.
 
 From $OB=OD$, point $O$ lies on the perpendicular bisector of $BD$; from $BE=DE$, point $E$ also lies on the perpendicular bisector of $BD$. Hence line $OE$ is the perpendicular bisector of segment $BD$. $\blacksquare$
 
@@ -252,7 +252,7 @@ Points equidistant from $A$, $B$ lie on the perpendicular bisector of segment $A
 
 ## Problem 11
 
-(Exercise 15.1, Comprehensive Application, Problem 11) As shown, $\triangle ABC$ and $\triangle A'B'C'$ are symmetric about line $l$; do the lines of the corresponding segments $AB$ and $A'B'$ intersect? What is the relationship between the intersection point and the axis of symmetry $l$?
+(Exercise 15.1, Comprehensive Application, Problem 11) As shown, $\triangle{A}BC$ and $\triangle{A}'B'C'$ are symmetric about line $l$; do the lines of the corresponding segments $AB$ and $A'B'$ intersect? What is the relationship between the intersection point and the axis of symmetry $l$?
 
 ### Solution to Problem 11
 
@@ -268,7 +268,7 @@ Points equidistant from $A$, $B$ lie on the perpendicular bisector of $AB$; poin
 
 ## Problem 13
 
-(Exercise 15.1, Extension and Exploration, Problem 13) As shown, in $\triangle ABC$, the perpendicular bisectors of sides $AB$, $BC$ intersect at point $P$.
+(Exercise 15.1, Extension and Exploration, Problem 13) As shown, in $\triangle{A}BC$, the perpendicular bisectors of sides $AB$, $BC$ intersect at point $P$.
 
 (1) Prove that $PA=PB=PC$;
 
@@ -301,7 +301,7 @@ Whether the parts coincide after folding shows whether that line is an axis of s
 (Exercise 15.2, Problem 1) Write respectively the coordinates of the points symmetric to each of the following points about the $x$-axis and the $y$-axis:
 
 $$
-\left(-2,6\right),\ \left(1,-2\right),\ \left(1,3\right),\ \left(-4,-2\right),\ \left(1,0\right).
+\left(-2,6\right),\,\left(1,-2\right),\,\left(1,3\right),\,\left(-4,-2\right),\,\left(1,0\right).
 $$
 
 ### Solution to Exercise 10
@@ -314,19 +314,19 @@ About the $y$-axis: $\left(2,6\right)$, $\left(-1,-2\right)$, $\left(-1,3\right)
 
 ## Exercise 11
 
-(Exercise 15.2, Problem 2) As shown, $\triangle ABO$ is symmetric about the $x$-axis, and the coordinates of point $A$ are $\left(1,-2\right)$; write the coordinates of point $B$.
+(Exercise 15.2, Problem 2) As shown, $\triangle{A}BO$ is symmetric about the $x$-axis, and the coordinates of point $A$ are $\left(1,-2\right)$; write the coordinates of point $B$.
 
 ### Solution to Exercise 11
 
-Since $\triangle ABO$ is symmetric about the $x$-axis, the origin $O$ lies on the $x$-axis, and point $A$ and point $B$ are a pair of symmetric points about the $x$-axis. By Axis Symmetry in Coordinates, the point symmetric to $A\left(1,-2\right)$ about the $x$-axis is $B\left(1,2\right)$. $\blacksquare$
+Since $\triangle{A}BO$ is symmetric about the $x$-axis, the origin $O$ lies on the $x$-axis, and point $A$ and point $B$ are a pair of symmetric points about the $x$-axis. By Axis Symmetry in Coordinates, the point symmetric to $A\left(1,-2\right)$ about the $x$-axis is $B\left(1,2\right)$. $\blacksquare$
 
 ## Exercise 12
 
-(Exercise 15.2, Problem 3) As shown, using the properties of coordinates of points symmetric about the coordinate axes, draw respectively the figures symmetric to $\triangle ABC$ about the $x$-axis and the $y$-axis.
+(Exercise 15.2, Problem 3) As shown, using the properties of coordinates of points symmetric about the coordinate axes, draw respectively the figures symmetric to $\triangle{A}BC$ about the $x$-axis and the $y$-axis.
 
 ### Solution to Exercise 12
 
-By Axis Symmetry in Coordinates, obtain the symmetric points of the three vertices of $\triangle ABC$ respectively by $\left(x,y\right)\to\left(x,-y\right)$ and $\left(x,y\right)\to\left(-x,y\right)$, plot them and join them in order, and the triangles symmetric about the $x$-axis and the $y$-axis are obtained. $\blacksquare$
+By Axis Symmetry in Coordinates, obtain the symmetric points of the three vertices of $\triangle{A}BC$ respectively by $\left(x,y\right)\to\left(x,-y\right)$ and $\left(x,y\right)\to\left(-x,y\right)$, plot them and join them in order, and the triangles symmetric about the $x$-axis and the $y$-axis are obtained. $\blacksquare$
 
 ## Problem 14
 
@@ -358,7 +358,7 @@ The square is symmetric about both coordinate axes, and adjacent vertices are re
 
 ## Problem 17
 
-(Exercise 15.2, Review and Consolidation, Problem 4) As shown, using the properties of coordinates of points symmetric about the coordinate axes, draw respectively the figures symmetric to $\triangle ABC$ about the $x$-axis and the $y$-axis.
+(Exercise 15.2, Review and Consolidation, Problem 4) As shown, using the properties of coordinates of points symmetric about the coordinate axes, draw respectively the figures symmetric to $\triangle{A}BC$ about the $x$-axis and the $y$-axis.
 
 ### Solution to Problem 17
 
@@ -404,7 +404,7 @@ The four points being axisymmetric means there exists a line making the four poi
 
 ## Problem 21
 
-(Exercise 15.2, Extension and Exploration, Problem 8) As shown, respectively draw the figures symmetric to $\triangle PQR$ about line $m$ (on which every point has abscissa $1$) and line $n$ (on which every point has ordinate $-1$). What are the relationships among the symmetric point coordinates respectively?
+(Exercise 15.2, Extension and Exploration, Problem 8) As shown, respectively draw the figures symmetric to $\triangle{P}QR$ about line $m$ (on which every point has abscissa $1$) and line $n$ (on which every point has ordinate $-1$). What are the relationships among the symmetric point coordinates respectively?
 
 The figure shows a plane rectangular coordinate system, with the $x$-axis ranging roughly from $-7$ to $7$ and the $y$-axis from $-7$ to $7$; the three vertices of triangle $PQR$ are $P\left(-1,3\right)$, $Q\left(-4,5\right)$ and $R\left(-4,1\right)$; the pink line $m$ is the vertical line $x=1$, and the pink line $n$ is the horizontal line $y=-1$.
 
@@ -416,31 +416,31 @@ About the line $y=-1$: the abscissa of the symmetric point is unchanged, and the
 
 ## Exercise 13
 
-(Exercise 15.3, Problem 1) As shown, in $\triangle ABC$, $AB=AD=DC$, $\angle BAD=26^\circ$. Find the degree measures of $\angle B$ and $\angle C$.
+(Exercise 15.3, Problem 1) As shown, in $\triangle{A}BC$, $AB=AD=DC$, $\angle{B}AD=26^\circ$. Find the degree measures of $\angle{B}$ and $\angle{C}$.
 
 ### Solution to Exercise 13
 
-From $AB=AD$, $\triangle ABD$ is isosceles; by Equal Sides Opposite Equal Angles,
+From $AB=AD$, $\triangle{A}BD$ is isosceles; by Equal Sides Opposite Equal Angles,
 
 $$
-\angle B=\angle ADB=\frac{180^\circ-26^\circ}{2}=77^\circ.
+\angle{B}=\angle{A}DB=\frac{180^\circ-26^\circ}{2}=77^\circ.
 $$
 
-From $AD=DC$, $\triangle ADC$ is isosceles, so $\angle C=\angle DAC$. Also $\angle ADB$ is the exterior angle of $\triangle ADC$, so $\angle ADB=\angle C+\angle DAC=2\angle C$, hence $\angle C=77^\circ/2=38.5^\circ$. $\blacksquare$
+From $AD=DC$, $\triangle{A}DC$ is isosceles, so $\angle{C}=\angle{D}AC$. Also $\angle{A}DB$ is the exterior angle of $\triangle{A}DC$, so $\angle{A}DB=\angle{C}+\angle{D}AC=2\angle{C}$, hence $\angle{C}=77^\circ/2=38.5^\circ$. $\blacksquare$
 
 ## Exercise 14
 
-(Exercise 15.3, Problem 2) $\triangle ABC$ is an isosceles right triangle ($AB=AC$, $\angle BAC=90^\circ$), and $AD$ is the altitude on the base $BC$. Mark the degree measures of $\angle B$, $\angle C$, $\angle BAD$, $\angle DAC$, and write all the equal segments in the figure.
+(Exercise 15.3, Problem 2) $\triangle{A}BC$ is an isosceles right triangle ($AB=AC$, $\angle{B}AC=90^\circ$), and $AD$ is the altitude on the base $BC$. Mark the degree measures of $\angle{B}$, $\angle{C}$, $\angle{B}AD$, $\angle{D}AC$, and write all the equal segments in the figure.
 
 ### Solution to Exercise 14
 
-From $AB=AC$, $\angle BAC=90^\circ$, we get
+From $AB=AC$, $\angle{B}AC=90^\circ$, we get
 
 $$
-\angle B=\angle C=\frac{180^\circ-90^\circ}{2}=45^\circ.
+\angle{B}=\angle{C}=\frac{180^\circ-90^\circ}{2}=45^\circ.
 $$
 
-By Three Lines in One, $AD$ bisects the vertex angle, so $\angle BAD=\angle DAC=45^\circ$. The equal segments are $BD=DC=AD$, $AB=AC$. $\blacksquare$
+By Three Lines in One, $AD$ bisects the vertex angle, so $\angle{B}AD=\angle{D}AC=45^\circ$. The equal segments are $BD=DC=AD$, $AB=AC$. $\blacksquare$
 
 ## Exercise 15
 
@@ -448,29 +448,29 @@ By Three Lines in One, $AD$ bisects the vertex angle, so $\angle BAD=\angle DAC=
 
 ### Solution to Exercise 15
 
-Suppose in $\triangle ABC$, $AD$ is the median on side $BC$, and $AD=\frac{1}{2}BC$. By the definition of median, $BD=DC=\frac{1}{2}BC$, so $AD=BD=DC$.
+Suppose in $\triangle{A}BC$, $AD$ is the median on side $BC$, and $AD=\frac{1}{2}BC$. By the definition of median, $BD=DC=\frac{1}{2}BC$, so $AD=BD=DC$.
 
-From $AD=BD$, $\triangle ABD$ is isosceles, $\angle B=\angle BAD$. From $AD=DC$, $\triangle ADC$ is isosceles, $\angle C=\angle CAD$.
+From $AD=BD$, $\triangle{A}BD$ is isosceles, $\angle{B}=\angle{B}AD$. From $AD=DC$, $\triangle{A}DC$ is isosceles, $\angle{C}=\angle{C}AD$.
 
 Thus
 
 $$
-\angle BAC=\angle BAD+\angle CAD=\angle B+\angle C.
+\angle{B}AC=\angle{B}AD+\angle{C}AD=\angle{B}+\angle{C}.
 $$
 
-Also $\angle BAC+\angle B+\angle C=180^\circ$, so $2\angle BAC=180^\circ$, i.e. $\angle BAC=90^\circ$. Therefore the triangle is a right triangle. $\blacksquare$
+Also $\angle{B}AC+\angle{B}+\angle{C}=180^\circ$, so $2\angle{B}AC=180^\circ$, i.e. $\angle{B}AC=90^\circ$. Therefore the triangle is a right triangle. $\blacksquare$
 
 ## Exercise 16
 
-(Exercise 15.3, Problem 1) As shown, $\angle A=36^\circ$, $\angle DBC=36^\circ$, $\angle C=72^\circ$. Compute respectively the degree measures of $\angle 1$, $\angle 2$, and state which isosceles triangles are in the figure.
+(Exercise 15.3, Problem 1) As shown, $\angle{A}=36^\circ$, $\angle{D}BC=36^\circ$, $\angle{C}=72^\circ$. Compute respectively the degree measures of $\angle1$, $\angle2$, and state which isosceles triangles are in the figure.
 
 ### Solution to Exercise 16
 
-In $\triangle ABC$, $\angle ABC=180^\circ-\angle A-\angle C=180^\circ-36^\circ-72^\circ=72^\circ$. Hence $\angle 1=\angle ABC-\angle DBC=72^\circ-36^\circ=36^\circ$.
+In $\triangle{A}BC$, $\angle{A}BC=180^\circ-\angle{A}-\angle{C}=180^\circ-36^\circ-72^\circ=72^\circ$. Hence $\angle1=\angle{A}BC-\angle{D}BC=72^\circ-36^\circ=36^\circ$.
 
-In $\triangle BDC$, $\angle 2=180^\circ-\angle DBC-\angle C=180^\circ-36^\circ-72^\circ=72^\circ$.
+In $\triangle{B}DC$, $\angle2=180^\circ-\angle{D}BC-\angle{C}=180^\circ-36^\circ-72^\circ=72^\circ$.
 
-The isosceles triangles are: $\triangle ABC$ ($\angle ABC=\angle C$), $\triangle ABD$ ($\angle A=\angle 1$), $\triangle BCD$ ($\angle 2=\angle C$). $\blacksquare$
+The isosceles triangles are: $\triangle{A}BC$ ($\angle{A}BC=\angle{C}$), $\triangle{A}BD$ ($\angle{A}=\angle1$), $\triangle{B}CD$ ($\angle2=\angle{C}$). $\blacksquare$
 
 ## Exercise 17
 
@@ -482,13 +482,13 @@ Yes. Of the two angles cut out by the rectangle's diagonal, in the overlapping p
 
 ## Exercise 18
 
-(Exercise 15.3, Problem 3) As shown, $AC$ and $BD$ intersect at point $O$, and $AB\parallel CD$, $OA=OB$. Prove that $OC=OD$.
+(Exercise 15.3, Problem 3) As shown, $AC$ and $BD$ intersect at point $O$, and $AB\parallel{C}D$, $OA=OB$. Prove that $OC=OD$.
 
 ### Solution to Exercise 18
 
-From $OA=OB$, $\triangle OAB$ is isosceles; by Equal Sides Opposite Equal Angles, $\angle A=\angle B$.
+From $OA=OB$, $\triangle{O}AB$ is isosceles; by Equal Sides Opposite Equal Angles, $\angle{A}=\angle{B}$.
 
-From $AB\parallel CD$, the alternate interior angles are equal, giving $\angle A=\angle C$, $\angle B=\angle D$. Hence $\angle C=\angle D$.
+From $AB\parallel{C}D$, the alternate interior angles are equal, giving $\angle{A}=\angle{C}$, $\angle{B}=\angle{D}$. Hence $\angle{C}=\angle{D}$.
 
 By Equal Angles Opposite Equal Sides, $OC=OD$. $\blacksquare$
 
@@ -502,8 +502,8 @@ An equilateral triangle is an axisymmetric figure; by Three Lines in One, the li
 
 ## Exercise 20
 
-(Exercise 15.3, Problem 2) As shown, in equilateral triangle $ABC$, $AD$ is the altitude on $BC$, $\angle BDE=\angle CDF=60^\circ$. Which segments in the figure are equal to $BD$?
+(Exercise 15.3, Problem 2) As shown, in equilateral triangle $ABC$, $AD$ is the altitude on $BC$, $\angle{B}DE=\angle{C}DF=60^\circ$. Which segments in the figure are equal to $BD$?
 
 ### Solution to Exercise 20
 
-Since the triangle is equilateral and by Three Lines in One, $D$ is the midpoint of $BC$, $BD=DC$, and $AD\perp BC$. In $\text{Rt}\triangle BDE$, $\angle B=60^\circ$, $\angle BDE=60^\circ$, so all three angles of $\triangle BDE$ are $60^\circ$; it is equilateral, hence $BE=DE=BD$. Similarly, $\triangle CDF$ is also equilateral, $CF=DF=DC=BD$. Hence the segments equal to $BD$ are $DC$, $BE$, $DE$, $CF$, $DF$. $\blacksquare$
+Since the triangle is equilateral and by Three Lines in One, $D$ is the midpoint of $BC$, $BD=DC$, and $AD\perp{B}C$. In $\text{Rt}\triangle{B}DE$, $\angle{B}=60^\circ$, $\angle{B}DE=60^\circ$, so all three angles of $\triangle{B}DE$ are $60^\circ$; it is equilateral, hence $BE=DE=BD$. Similarly, $\triangle{C}DF$ is also equilateral, $CF=DF=DC=BD$. Hence the segments equal to $BD$ are $DC$, $BE$, $DE$, $CF$, $DF$. $\blacksquare$

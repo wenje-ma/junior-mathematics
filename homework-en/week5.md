@@ -54,7 +54,7 @@
 
 > **Definition 2.3.4 (Scientific Notation)**
 > 
-> Expressing a number greater than $10$ in the form $a\times 10^{n}$ ($1\le a< 10$, where $n$ is a positive integer).
+> Expressing a number greater than $10$ in the form $a\times10^{n}$ ($1\le{a}<10$, where $n$ is a positive integer).
 
 > **Definition 2.3.5 (Approximate Numbers)**
 > 
@@ -62,33 +62,33 @@
 
 ## Problem 1
 
-(Exercise 2.2, Comprehensive Application, Problem 13) A helicopter starts from an altitude of $450\ \text{m}$, first rises vertically at a speed of $4\ \text{m/s}$ for $60\ \text{s}$, and then descends vertically at a speed of $5\ \text{m/s}$ for $120\ \text{s}$. What is the altitude of the helicopter at this point?
+(Exercise 2.2, Comprehensive Application, Problem 13) A helicopter starts from an altitude of $450\,\text{m}$, first rises vertically at a speed of $4\,\text{m/s}$ for $60\,\text{s}$, and then descends vertically at a speed of $5\,\text{m/s}$ for $120\,\text{s}$. What is the altitude of the helicopter at this point?
 
 ### Solution to Problem 1
 
 By **Definition 2.2.1 (Rules for Multiplication of Rational Numbers)**, rising is positive and descending is negative.
 
-$$450+4\times 60-5\times 120=450+240-600=90.$$
+$$450+4\times60-5\times120=450+240-600=90.$$
 
-Hence the altitude of the helicopter at this point is $90\ \text{m}$. $\blacksquare$
+Hence the altitude of the helicopter at this point is $90\,\text{m}$. $\blacksquare$
 
 ## Problem 2
 
-(Exercise 2.2, Extension and Exploration, Problem 14) Compute $2\times 1$, $2\times\frac{1}{2}$, $2\times\left(-1\right)$, $2\times\left(-\frac{1}{2}\right)$. In connection with such concrete multiplications, do you think a nonzero rational number must be less than its $2$ times? Why?
+(Exercise 2.2, Extension and Exploration, Problem 14) Compute $2\times1$, $2\times\frac{1}{2}$, $2\times\left(-1\right)$, $2\times\left(-\frac{1}{2}\right)$. In connection with such concrete multiplications, do you think a nonzero rational number must be less than its $2$ times? Why?
 
 ### Solution to Problem 2
 
 By **Definition 2.2.1 (Rules for Multiplication of Rational Numbers)**.
 
-$$2\times 1=2,\quad 2\times\frac{1}{2}=1,\quad 2\times\left(-1\right)=-2,\quad 2\times\left(-\frac{1}{2}\right)=-1.$$
+$$2\times1=2,\quad2\times\frac{1}{2}=1,\quad2\times\left(-1\right)=-2,\quad2\times\left(-\frac{1}{2}\right)=-1.$$
 
-A nonzero rational number is not necessarily less than its $2$ times. When the number is positive, it is less than its $2$ times; when the number is negative, for instance $-1< 2$ does not hold, because $2\times\left(-1\right)=-2< -1$, that is, the $2$ times of a negative number is smaller than the number itself. $\blacksquare$
+A nonzero rational number is not necessarily less than its $2$ times. When the number is positive, it is less than its $2$ times; when the number is negative, for instance $-1<2$ does not hold, because $2\times\left(-1\right)=-2<-1$, that is, the $2$ times of a negative number is smaller than the number itself. $\blacksquare$
 
 ## Problem 3
 
 (Exercise 2.2, Extension and Exploration, Problem 15) Using the distributive law one obtains
 
-$$-2\times 6+3\times 6=\left(-2+3\right)\times 6,\quad -2\times\left(-5\right)+3\times\left(-5\right)=\left(-2+3\right)\times\left(-5\right).$$
+$$-2\times6+3\times6=\left(-2+3\right)\times6,\quad-2\times\left(-5\right)+3\times\left(-5\right)=\left(-2+3\right)\times\left(-5\right).$$
 
 If $a$ denotes any number, then using the distributive law, what is $-2a+3a$ equal to?
 
@@ -102,17 +102,17 @@ Hence $-2a+3a=a$. $\blacksquare$
 
 ## Problem 4
 
-(Exercise 2.2, Extension and Exploration, Problem 16) Compute $\left(-4\right)\div 2$, $4\div\left(-2\right)$, $\left(-4\right)\div\left(-2\right)$. In connection with such concrete divisions, do you think the following formulas hold ($a$, $b$ are rational numbers and $b\ne 0$)? What rule can be summed up from them?
+(Exercise 2.2, Extension and Exploration, Problem 16) Compute $\left(-4\right)\div2$, $4\div\left(-2\right)$, $\left(-4\right)\div\left(-2\right)$. In connection with such concrete divisions, do you think the following formulas hold ($a$, $b$ are rational numbers and $b\ne0$)? What rule can be summed up from them?
 
-$$\frac{-a}{b}=\frac{a}{-b}=-\frac{a}{b};\quad \frac{-a}{-b}=\frac{a}{b}.$$
+$$\frac{-a}{b}=\frac{a}{-b}=-\frac{a}{b};\quad\frac{-a}{-b}=\frac{a}{b}.$$
 
 ### Solution to Problem 4
 
 By **Definition 2.2.7 (Rules for Division of Rational Numbers)**.
 
-$$\left(-4\right)\div 2=-2,\quad 4\div\left(-2\right)=-2,\quad \left(-4\right)\div\left(-2\right)=2.$$
+$$\left(-4\right)\div2=-2,\quad4\div\left(-2\right)=-2,\quad\left(-4\right)\div\left(-2\right)=2.$$
 
-From $\left(-4\right)\div 2=4\div\left(-2\right)=-2$, it follows that $\frac{-a}{b}=\frac{a}{-b}=-\frac{a}{b}$ holds; from $\left(-4\right)\div\left(-2\right)=2=4\div 2$, it follows that $\frac{-a}{-b}=\frac{a}{b}$ holds. The rule: among the three signs of a fraction — numerator, denominator, and fraction bar — changing any two of them leaves the value of the fraction unchanged. $\blacksquare$
+From $\left(-4\right)\div2=4\div\left(-2\right)=-2$, it follows that $\frac{-a}{b}=\frac{a}{-b}=-\frac{a}{b}$ holds; from $\left(-4\right)\div\left(-2\right)=2=4\div2$, it follows that $\frac{-a}{-b}=\frac{a}{b}$ holds. The rule: among the three signs of a fraction — numerator, denominator, and fraction bar — changing any two of them leaves the value of the fraction unchanged. $\blacksquare$
 
 ## Inquiry and Discovery 1
 
@@ -122,9 +122,9 @@ From $\left(-4\right)\div 2=4\div\left(-2\right)=-2$, it follows that $\frac{-a}
 
 By **Definition 2.2.5 (Distributive Law)**.
 
-For $1\times\left(-1\right)$, if the distributive law holds, then $1\times\left(-1\right)+1\times 1=1\times\left[\left(-1\right)+1\right]=1\times 0=0$, and hence $1\times\left(-1\right)=-\left(1\times 1\right)=-1$.
+For $1\times\left(-1\right)$, if the distributive law holds, then $1\times\left(-1\right)+1\times1=1\times\left[\left(-1\right)+1\right]=1\times0=0$, and hence $1\times\left(-1\right)=-\left(1\times1\right)=-1$.
 
-For $0\times\left(-1\right)$, similarly $0\times\left(-1\right)+0\times 1=0\times 0=0$, so $0\times\left(-1\right)=0$.
+For $0\times\left(-1\right)$, similarly $0\times\left(-1\right)+0\times1=0\times0=0$, so $0\times\left(-1\right)=0$.
 
 For $\left(-1\right)\times\left(-1\right)$, $\left(-1\right)\times\left(-1\right)+1\times\left(-1\right)=\left[\left(-1\right)+1\right]\times\left(-1\right)=0$, so $\left(-1\right)\times\left(-1\right)=-\left[1\times\left(-1\right)\right]=-\left(-1\right)=1$.
 
@@ -162,39 +162,39 @@ By **Definition 2.3.2 (Sign Rules for Powers)**.
 
 (Exercise 2.3, Problem 1) Compute:
 
-(1) $\left(-1\right)^{10}\times 2+\left(-2\right)^{3}\div 4$;
+(1) $\left(-1\right)^{10}\times2+\left(-2\right)^{3}\div4$;
 
 (2) $\left(-5\right)^{3}-3\times\left(-\frac{1}{2}\right)^{4}$;
 
-(3) $1\frac{1}{5}\times\left(\frac{1}{3}-\frac{1}{2}\right)\times 3\frac{1}{11}\div\frac{5}{4}$;
+(3) $1\frac{1}{5}\times\left(\frac{1}{3}-\frac{1}{2}\right)\times3\frac{1}{11}\div\frac{5}{4}$;
 
-(4) $\left(-10\right)^{4}+\left[\left(-4\right)^{2}-\left(3+3^{2}\right)\times 2\right]$.
+(4) $\left(-10\right)^{4}+\left[\left(-4\right)^{2}-\left(3+3^{2}\right)\times2\right]$.
 
 ### Solution to Exercise 3
 
 By **Definition 2.3.3 (Order of Mixed Operations on Rational Numbers)**.
 
-(1) The original expression $=1\times 2+\left(-8\right)\div 4=2-2=0$.
+(1) The original expression $=1\times2+\left(-8\right)\div4=2-2=0$.
 
 (2) The original expression $=-125-3\times\frac{1}{16}=-\frac{2003}{16}$.
 
 (3) The original expression $=\frac{6}{5}\times\left(-\frac{1}{6}\right)\times\frac{34}{11}\times\frac{4}{5}=-\frac{136}{275}$.
 
-(4) The original expression $=10000+\left[16-12\times 2\right]=10000+\left(-8\right)=9992$. $\blacksquare$
+(4) The original expression $=10000+\left[16-12\times2\right]=10000+\left(-8\right)=9992$. $\blacksquare$
 
 ## Exercise 4
 
 (Exercise 2.3, Problem 1) Express the following numbers in scientific notation:
 
-$$100000,\ 7400000,\ 56000000,\ 567000000.$$
+$$100000,\,7400000,\,56000000,\,567000000.$$
 
 ### Solution to Exercise 4
 
 By **Definition 2.3.4 (Scientific Notation)**.
 
-$$100000=1\times 10^{5};\quad 7400000=7.4\times 10^{6};$$
+$$100000=1\times10^{5};\quad7400000=7.4\times10^{6};$$
 
-$$56000000=5.6\times 10^{7};\quad 567000000=5.67\times 10^{8}.$$
+$$56000000=5.6\times10^{7};\quad567000000=5.67\times10^{8}.$$
 
 $\blacksquare$
 
@@ -202,29 +202,29 @@ $\blacksquare$
 
 (Exercise 2.3, Problem 2) What were the original numbers of the following numbers expressed in scientific notation?
 
-$$1\times 10^{7},\ 4\times 10^{3},\ 8.5\times 10^{6},\ 7.04\times 10^{5},\ 3.96\times 10^{7}.$$
+$$1\times10^{7},\,4\times10^{3},\,8.5\times10^{6},\,7.04\times10^{5},\,3.96\times10^{7}.$$
 
 ### Solution to Exercise 5
 
 By **Definition 2.3.4 (Scientific Notation)**, $10^{n}$ means $1$ followed by $n$ copies of $0$.
 
-$$1\times 10^{7}=10000000;\quad 4\times 10^{3}=4000;\quad 8.5\times 10^{6}=8500000;$$
+$$1\times10^{7}=10000000;\quad4\times10^{3}=4000;\quad8.5\times10^{6}=8500000;$$
 
-$$7.04\times 10^{5}=704000;\quad 3.96\times 10^{7}=39600000.$$
+$$7.04\times10^{5}=704000;\quad3.96\times10^{7}=39600000.$$
 
 $\blacksquare$
 
 ## Exercise 6
 
-(Exercise 2.3, Problem 3) China's land area is approximately $9600000\ \text{km}^{2}$. Express this number in scientific notation.
+(Exercise 2.3, Problem 3) China's land area is approximately $9600000\,\text{km}^{2}$. Express this number in scientific notation.
 
 ### Solution to Exercise 6
 
 By **Definition 2.3.4 (Scientific Notation)**.
 
-$$9600000=9.6\times 10^{6}.$$
+$$9600000=9.6\times10^{6}.$$
 
-Hence the land area is $9.6\times 10^{6}\ \text{km}^{2}$. $\blacksquare$
+Hence the land area is $9.6\times10^{6}\,\text{km}^{2}$. $\blacksquare$
 
 ## Exercise 7
 
@@ -238,7 +238,7 @@ Hence the land area is $9.6\times 10^{6}\ \text{km}^{2}$. $\blacksquare$
 
 By **Definition 2.3.5 (Approximate Numbers)**.
 
-(1) $0.00356\approx 0.0036$; (2) $61.235\approx 61$; (3) $1.8935\approx 1.894$; (4) $0.0571\approx 0.1$. $\blacksquare$
+(1) $0.00356\approx0.0036$; (2) $61.235\approx61$; (3) $1.8935\approx1.894$; (4) $0.0571\approx0.1$. $\blacksquare$
 
 ## Problem 5
 
@@ -254,53 +254,53 @@ By **Definition 2.3.2 (Sign Rules for Powers)**.
 
 (1) $\left(-3\right)^{3}=-27$; (2) $\left(-5\right)^{4}=625$; (3) $\left(-1.7\right)^{2}=2.89$;
 
-(4) $\left(-\frac{4}{3}\right)^{3}=-\frac{64}{27}$; (5) $-\left(-2\right)^{3}=-\left(-8\right)=8$; (6) $\left(-2\right)^{2}\times\left(-3\right)^{2}=4\times 9=36$. $\blacksquare$
+(4) $\left(-\frac{4}{3}\right)^{3}=-\frac{64}{27}$; (5) $-\left(-2\right)^{3}=-\left(-8\right)=8$; (6) $\left(-2\right)^{2}\times\left(-3\right)^{2}=4\times9=36$. $\blacksquare$
 
 ## Problem 6
 
 (Exercise 2.3, Review and Consolidation, Problem 3) Compute:
 
-(1) $\left(-1\right)^{100}\times 5+\left(-2\right)^{4}\div 4$;
+(1) $\left(-1\right)^{100}\times5+\left(-2\right)^{4}\div4$;
 
 (2) $\left(-3\right)^{3}-3\times\left(-\frac{1}{3}\right)^{4}$;
 
-(3) $\frac{7}{6}\times\left(\frac{1}{6}-\frac{1}{3}\right)\times 3\frac{1}{4}\div\frac{3}{5}$;
+(3) $\frac{7}{6}\times\left(\frac{1}{6}-\frac{1}{3}\right)\times3\frac{1}{4}\div\frac{3}{5}$;
 
-(4) $\left(-10\right)^{3}+\left[\left(-4\right)^{2}-\left(1-3^{2}\right)\times 2\right]$;
+(4) $\left(-10\right)^{3}+\left[\left(-4\right)^{2}-\left(1-3^{2}\right)\times2\right]$;
 
 (5) $\left(-\frac{2}{3}\right)\div\frac{4}{9}\times\left(-\frac{2}{3}\right)^{2}$;
 
-(6) $4+\left(-2\right)^{3}\times 5-\left(-0.28\right)\div 4$.
+(6) $4+\left(-2\right)^{3}\times5-\left(-0.28\right)\div4$.
 
 ### Solution to Problem 6
 
 By **Definition 2.3.3 (Order of Mixed Operations on Rational Numbers)**.
 
-(1) The original expression $=1\times 5+16\div 4=5+4=9$.
+(1) The original expression $=1\times5+16\div4=5+4=9$.
 
 (2) The original expression $=-27-3\times\frac{1}{81}=-\frac{730}{27}$.
 
 (3) The original expression $=\frac{7}{6}\times\left(-\frac{1}{6}\right)\times\frac{13}{4}\times\frac{5}{3}=-\frac{455}{432}$.
 
-(4) The original expression $=-1000+\left[16-\left(-8\right)\times 2\right]=-1000+32=-968$.
+(4) The original expression $=-1000+\left[16-\left(-8\right)\times2\right]=-1000+32=-968$.
 
 (5) The original expression $=\left(-\frac{2}{3}\right)\times\frac{9}{4}\times\frac{4}{9}=-\frac{2}{3}$.
 
-(6) The original expression $=4+\left(-8\right)\times 5-\left(-0.07\right)=4-40+0.07=-35.93$. $\blacksquare$
+(6) The original expression $=4+\left(-8\right)\times5-\left(-0.07\right)=4-40+0.07=-35.93$. $\blacksquare$
 
 ## Problem 7
 
 (Exercise 2.3, Review and Consolidation, Problem 4) Express the following numbers in scientific notation:
 
-$$235000000,\ 188520000,\ 701000000000,\ 36000000.$$
+$$235000000,\,188520000,\,701000000000,\,36000000.$$
 
 ### Solution to Problem 7
 
 By **Definition 2.3.4 (Scientific Notation)**.
 
-$$235000000=2.35\times 10^{8};\quad 188520000=1.8852\times 10^{8};$$
+$$235000000=2.35\times10^{8};\quad188520000=1.8852\times10^{8};$$
 
-$$701000000000=7.01\times 10^{11};\quad 36000000=3.6\times 10^{7}.$$
+$$701000000000=7.01\times10^{11};\quad36000000=3.6\times10^{7}.$$
 
 $\blacksquare$
 
@@ -308,15 +308,15 @@ $\blacksquare$
 
 (Exercise 2.3, Review and Consolidation, Problem 5) What were the original numbers of the following numbers expressed in scientific notation?
 
-$$3\times 10^{7},\ 1.3\times 10^{3},\ 8.05\times 10^{6},\ 2.004\times 10^{5}.$$
+$$3\times10^{7},\,1.3\times10^{3},\,8.05\times10^{6},\,2.004\times10^{5}.$$
 
 ### Solution to Problem 8
 
 By **Definition 2.3.4 (Scientific Notation)**.
 
-$$3\times 10^{7}=30000000;\quad 1.3\times 10^{3}=1300;$$
+$$3\times10^{7}=30000000;\quad1.3\times10^{3}=1300;$$
 
-$$8.05\times 10^{6}=8050000;\quad 2.004\times 10^{5}=200400.$$
+$$8.05\times10^{6}=8050000;\quad2.004\times10^{5}=200400.$$
 
 $\blacksquare$
 
@@ -332,7 +332,7 @@ $\blacksquare$
 
 By **Definition 2.3.5 (Approximate Numbers)**.
 
-(1) $0.00457\approx 0.0046$; (2) $566.1235\approx 566$; (3) $3.8963\approx 3.90$; (4) $0.0571\approx 0.057$. $\blacksquare$
+(1) $0.00457\approx0.0046$; (2) $566.1235\approx566$; (3) $3.8963\approx3.90$; (4) $0.0571\approx0.057$. $\blacksquare$
 
 ## Problem 10
 
@@ -342,47 +342,47 @@ By **Definition 2.3.5 (Approximate Numbers)**.
 
 By **Definition 2.3.2 (Sign Rules for Powers)**.
 
-There are two numbers whose square equals $9$, because $3^{2}=9$ and $\left(-3\right)^{2}=9$, so the square of $\pm 3$ equals $9$.
+There are two numbers whose square equals $9$, because $3^{2}=9$ and $\left(-3\right)^{2}=9$, so the square of $\pm3$ equals $9$.
 
 The number whose cube equals $-27$: since $\left(-3\right)^{3}=-27$, the cube of $-3$ equals $-27$. $\blacksquare$
 
 ## Problem 11
 
-(Exercise 2.3, Comprehensive Application, Problem 8) A cuboid has length and width both equal to $a$ and height equal to $h$. How are its volume and surface area computed? When $a=2\ \text{cm}$ and $h=5\ \text{cm}$, what are its volume and surface area?
+(Exercise 2.3, Comprehensive Application, Problem 8) A cuboid has length and width both equal to $a$ and height equal to $h$. How are its volume and surface area computed? When $a=2\,\text{cm}$ and $h=5\,\text{cm}$, what are its volume and surface area?
 
 ### Solution to Problem 11
 
 The base area of the cuboid is $a^{2}$; the volume is the base area times the height, and the surface area is the two bases plus the four side faces.
 
-$$V=a^{2}h,\quad S=2a^{2}+4ah.$$
+$$V=a^{2}h,\quad{S}=2a^{2}+4ah.$$
 
 When $a=2$ and $h=5$,
 
-$$V=2^{2}\times 5=20\ \text{cm}^{3};\quad S=2\times 2^{2}+4\times 2\times 5=8+40=48\ \text{cm}^{2}.$$
+$$V=2^{2}\times5=20\,\text{cm}^{3};\quad{S}=2\times2^{2}+4\times2\times5=8+40=48\,\text{cm}^{2}.$$
 
-Hence the volume is $20\ \text{cm}^{3}$ and the surface area is $48\ \text{cm}^{2}$. $\blacksquare$
+Hence the volume is $20\,\text{cm}^{3}$ and the surface area is $48\,\text{cm}^{2}$. $\blacksquare$
 
 ## Problem 12
 
-(Exercise 2.3, Comprehensive Application, Problem 9) One day has $8.64\times 10^{4}\ \text{s}$. Taking a year as $365$ days, how many seconds are there in a year (express in scientific notation)?
+(Exercise 2.3, Comprehensive Application, Problem 9) One day has $8.64\times10^{4}\,\text{s}$. Taking a year as $365$ days, how many seconds are there in a year (express in scientific notation)?
 
 ### Solution to Problem 12
 
 By **Definition 2.3.4 (Scientific Notation)**.
 
-$$8.64\times 10^{4}\times 365=3153.6\times 10^{4}=3.1536\times 10^{7}.$$
+$$8.64\times10^{4}\times365=3153.6\times10^{4}=3.1536\times10^{7}.$$
 
-Hence a year has $3.1536\times 10^{7}\ \text{s}$. $\blacksquare$
+Hence a year has $3.1536\times10^{7}\,\text{s}$. $\blacksquare$
 
 ## Problem 13
 
-(Exercise 2.3, Comprehensive Application, Problem 10) The speed of the Earth revolving around the Sun is approximately $1.1\times 10^{5}\ \text{km/h}$, and the speed of sound propagating in air is approximately $340\ \text{m/s}$. Compare the magnitudes of the two speeds.
+(Exercise 2.3, Comprehensive Application, Problem 10) The speed of the Earth revolving around the Sun is approximately $1.1\times10^{5}\,\text{km/h}$, and the speed of sound propagating in air is approximately $340\,\text{m/s}$. Compare the magnitudes of the two speeds.
 
 ### Solution to Problem 13
 
-Unify the units. $340\ \text{m/s}=340\times 3600\ \text{m/h}=1224000\ \text{m/h}=1224\ \text{km/h}$.
+Unify the units. $340\,\text{m/s}=340\times3600\,\text{m/h}=1224000\,\text{m/h}=1224\,\text{km/h}$.
 
-The Earth's revolution speed is $1.1\times 10^{5}=110000\ \text{km/h}$. Since $110000> 1224$, the speed of the Earth revolving around the Sun is greater than the speed of sound propagating in air. $\blacksquare$
+The Earth's revolution speed is $1.1\times10^{5}=110000\,\text{km/h}$. Since $110000>1224$, the speed of the Earth revolving around the Sun is greater than the speed of sound propagating in air. $\blacksquare$
 
 ## Problem 14
 
@@ -404,23 +404,23 @@ By **Definition 2.3.1 (Powers)**.
 
 ## Problem 15
 
-(Exercise 2.3, Extension and Exploration, Problem 12) Compute $\left(-2\right)^{2}$, $2^{2}$, $\left(-2\right)^{3}$, $2^{3}$. In connection with such concrete powers, do you think the following hold when $a< 0$?
+(Exercise 2.3, Extension and Exploration, Problem 12) Compute $\left(-2\right)^{2}$, $2^{2}$, $\left(-2\right)^{3}$, $2^{3}$. In connection with such concrete powers, do you think the following hold when $a<0$?
 
-(1) $a^{2}> 0$; (2) $a^{2}=\left(-a\right)^{2}$; (3) $a^{2}=-a^{2}$; (4) $a^{3}=-a^{3}$.
+(1) $a^{2}>0$; (2) $a^{2}=\left(-a\right)^{2}$; (3) $a^{2}=-a^{2}$; (4) $a^{3}=-a^{3}$.
 
 ### Solution to Problem 15
 
 By **Definition 2.3.2 (Sign Rules for Powers)**.
 
-$$\left(-2\right)^{2}=4,\quad 2^{2}=4,\quad \left(-2\right)^{3}=-8,\quad 2^{3}=8.$$
+$$\left(-2\right)^{2}=4,\quad2^{2}=4,\quad\left(-2\right)^{3}=-8,\quad2^{3}=8.$$
 
-(1) When $a< 0$, $a^{2}$ is an even power of a negative number and is positive, so $a^{2}> 0$ holds.
+(1) When $a<0$, $a^{2}$ is an even power of a negative number and is positive, so $a^{2}>0$ holds.
 
 (2) $\left(-a\right)^{2}=\left(-2\right)^{2}=4=a^{2}$, so $a^{2}=\left(-a\right)^{2}$ holds.
 
-(3) Since $a^{2}> 0$ while $-a^{2}< 0$, the two cannot be equal, so $a^{2}=-a^{2}$ does not hold.
+(3) Since $a^{2}>0$ while $-a^{2}<0$, the two cannot be equal, so $a^{2}=-a^{2}$ does not hold.
 
-(4) When $a< 0$, $a^{3}< 0$ and $-a^{3}> 0$, the two cannot be equal, so $a^{3}=-a^{3}$ does not hold. $\blacksquare$
+(4) When $a<0$, $a^{3}<0$ and $-a^{3}>0$, the two cannot be equal, so $a^{3}=-a^{3}$ does not hold. $\blacksquare$
 
 ## Activity 1
 
@@ -442,7 +442,7 @@ The figure is a $3\times3$ magic-square grid with $9$ empty cells, into which th
 
 By **Definition 2.1.1 (Rules for Addition of Rational Numbers)**.
 
-The sum of the nine numbers is $-4+\left(-3\right)+\cdots+4=0$; since the sums of the three rows are equal, the sum of the three numbers in each row is $0\div 3=0$. The number in the center cell appears a total of $4$ times in the horizontal, vertical, and the two diagonals, so it should be the middle number of the nine, $0$. Pair the nine numbers about $0$ as $-4$ with $4$, $-3$ with $3$, $-2$ with $2$, $-1$ with $1$, so that the two numbers on each line through the center are opposites of each other, that is, their sum is $0$. The filled magic square is as shown in the figure, and the sum of each row, each column, and each diagonal is $0$. $\blacksquare$
+The sum of the nine numbers is $-4+\left(-3\right)+\cdots+4=0$; since the sums of the three rows are equal, the sum of the three numbers in each row is $0\div3=0$. The number in the center cell appears a total of $4$ times in the horizontal, vertical, and the two diagonals, so it should be the middle number of the nine, $0$. Pair the nine numbers about $0$ as $-4$ with $4$, $-3$ with $3$, $-2$ with $2$, $-1$ with $1$, so that the two numbers on each line through the center are opposites of each other, that is, their sum is $0$. The filled magic square is as shown in the figure, and the sum of each row, each column, and each diagonal is $0$. $\blacksquare$
 
 ## Review Problem 1
 
@@ -450,7 +450,7 @@ The sum of the nine numbers is $-4+\left(-3\right)+\cdots+4=0$; since the sums o
 
 (1) $-150+250$; (2) $-15+\left(-23\right)$; (3) $-5-65$; (4) $-26-\left(-15\right)$;
 
-(5) $\left(-6\right)\times\left(-16\right)$; (6) $\left(-\frac{1}{3}\right)\times 27$; (7) $8\div\left(-16\right)$;
+(5) $\left(-6\right)\times\left(-16\right)$; (6) $\left(-\frac{1}{3}\right)\times27$; (7) $8\div\left(-16\right)$;
 
 (8) $\left(-25\right)\div\left(-\frac{2}{3}\right)$; (9) $\left(-\frac{3}{4}\right)\div\left(-\frac{4}{5}\right)$.
 
@@ -468,13 +468,13 @@ By **Definition 2.1.1 (Rules for Addition of Rational Numbers)** and **Definitio
 
 (1) $6+\left(-\frac{1}{5}\right)-2-\left(-1.5\right)$;
 
-(2) $\left(-0.02\right)\times\left(-20\right)\times\left(-5\right)\times 4.5$;
+(2) $\left(-0.02\right)\times\left(-20\right)\times\left(-5\right)\times4.5$;
 
 (3) $\left(-6.5\right)\times\left(-2\right)\div\left(-\frac{1}{3}\right)\div\left(-5\right)$;
 
-(4) $\left(-66\right)\times 4-\left(-2.5\right)\div\left(-0.1\right)$;
+(4) $\left(-66\right)\times4-\left(-2.5\right)\div\left(-0.1\right)$;
 
-(5) $\left(-2\right)^{2}\times 5-\left(-2\right)^{3}\div 4$;
+(5) $\left(-2\right)^{2}\times5-\left(-2\right)^{3}\div4$;
 
 (6) $-\left(3-5\right)+3^{2}\times\left(1-3\right)$.
 
@@ -490,6 +490,6 @@ By **Definition 2.3.3 (Order of Mixed Operations)**.
 
 (4) The original expression $=-264-25=-289$.
 
-(5) The original expression $=4\times 5-\left(-8\right)\div 4=20+2=22$.
+(5) The original expression $=4\times5-\left(-8\right)\div4=20+2=22$.
 
 (6) The original expression $=-\left(-2\right)+9\times\left(-2\right)=2-18=-16$. $\blacksquare$

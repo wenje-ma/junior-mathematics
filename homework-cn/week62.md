@@ -26,11 +26,11 @@
 
 > **定义 29.1.1 (圆)**
 > 
-> 在一个平面内, 线段 $OP$ 绕它固定的一个端点 $O$ 旋转一周, 另一个端点 $P$ 所形成的图形叫作圆. 固定端点 $O$ 叫作圆心, 线段 $OP$ 叫作半径. 以 $O$ 为圆心的圆记作 $\odot O$.
+> 在一个平面内, 线段 $OP$ 绕它固定的一个端点 $O$ 旋转一周, 另一个端点 $P$ 所形成的图形叫作圆. 固定端点 $O$ 叫作圆心, 线段 $OP$ 叫作半径. 以 $O$ 为圆心的圆记作 $\odot{O}$.
 
 > **性质 29.1.1 (点与圆的位置关系)**
 > 
-> 设 $\odot O$ 的半径为 $r$, 点 $P$ 到圆心的距离 $OP=d$, 则: 点 $P$ 在圆外 $\Leftrightarrow d> r$; 点 $P$ 在圆上 $\Leftrightarrow d=r$; 点 $P$ 在圆内 $\Leftrightarrow d< r$.
+> 设 $\odot{O}$ 的半径为 $r$, 点 $P$ 到圆心的距离 $OP=d$, 则: 点 $P$ 在圆外 $\Leftrightarrow{d}>{}r$; 点 $P$ 在圆上 $\Leftrightarrow{d}=r$; 点 $P$ 在圆内 $\Leftrightarrow{d}<{}r$.
 
 > **定理 29.1.1 (三点确定一个圆)**
 > 
@@ -68,17 +68,17 @@
 
 ## 习题二
 
-(习题 28.2 拓广探索第 11 题) 如图, $\triangle ADE$ 和 $\triangle CBF$ 是 $\square ABCD$ 外的两个等边三角形, 用旋转的知识说明 $\triangle ADE$ 和 $\triangle CBF$ 成中心对称.
+(习题 28.2 拓广探索第 11 题) 如图, $\triangle{A}DE$ 和 $\triangle{C}BF$ 是 $\square{A}BCD$ 外的两个等边三角形, 用旋转的知识说明 $\triangle{A}DE$ 和 $\triangle{C}BF$ 成中心对称.
 
 ### 解答 习题二
 
 由**性质 28.2.1 (中心对称的性质)**.
 
-$\square ABCD$ 的对角线交点 $O$ 为其对称中心. $\triangle ADE$ 与 $\triangle CBF$ 中, $A$ 与 $C$ 关于 $O$ 对称, $D$ 与 $B$ 关于 $O$ 对称, $E$ 为等边三角形的第三个顶点, 由旋转对称性, $E$ 的对应点 $F$ 与 $E$ 关于 $O$ 对称. 故 $\triangle ADE$ 与 $\triangle CBF$ 关于点 $O$ 成中心对称. $\blacksquare$
+$\square{A}BCD$ 的对角线交点 $O$ 为其对称中心. $\triangle{A}DE$ 与 $\triangle{C}BF$ 中, $A$ 与 $C$ 关于 $O$ 对称, $D$ 与 $B$ 关于 $O$ 对称, $E$ 为等边三角形的第三个顶点, 由旋转对称性, $E$ 的对应点 $F$ 与 $E$ 关于 $O$ 对称. 故 $\triangle{A}DE$ 与 $\triangle{C}BF$ 关于点 $O$ 成中心对称. $\blacksquare$
 
 ## 阅读与思考一
 
-(阅读与思考 旋转对称图形) 一个平面图形绕着平面上某点 $O$ 旋转角 $\alpha$ ($0< \alpha< 360^\circ$), 如果得到的新图形与原图形完全重合, 那么称这个图形是旋转对称图形. 中心对称图形就是一种特殊的旋转对称图形. 想一想, 正多边形都是旋转对称图形吗? 它们具有怎样的旋转对称性?
+(阅读与思考 旋转对称图形) 一个平面图形绕着平面上某点 $O$ 旋转角 $\alpha$ ($0<\alpha<360^\circ$), 如果得到的新图形与原图形完全重合, 那么称这个图形是旋转对称图形. 中心对称图形就是一种特殊的旋转对称图形. 想一想, 正多边形都是旋转对称图形吗? 它们具有怎样的旋转对称性?
 
 ### 解答 阅读与思考一
 
@@ -120,15 +120,15 @@ $\square ABCD$ 的对角线交点 $O$ 为其对称中心. $\triangle ADE$ 与 $\
 
 ## 复习题二
 
-(复习题 28 复习巩固第 2 题) 如图, 把 $\text{Rt}\triangle ABC$ 以点 $S$ 为中心顺时针旋转 $30^\circ$, 画出旋转后的图形.
+(复习题 28 复习巩固第 2 题) 如图, 把 $\text{Rt}\triangle{A}BC$ 以点 $S$ 为中心顺时针旋转 $30^\circ$, 画出旋转后的图形.
 
-图为直角三角形 $ABC$, 形外有一点 $S$, 需以 $S$ 为旋转中心将 $\triangle ABC$ 顺时针旋转 $30^\circ$. 
+图为直角三角形 $ABC$, 形外有一点 $S$, 需以 $S$ 为旋转中心将 $\triangle{A}BC$ 顺时针旋转 $30^\circ$. 
 
 ### 解答 复习题二
 
 由**性质 28.1.1 (旋转的性质)**.
 
-连接 $SA$, $SB$, $SC$, 分别绕 $S$ 顺时针旋转 $30^\circ$, 取 $SA'=SA$, $SB'=SB$, $SC'=SC$, 使 $\angle ASA'=\angle BSB'=\angle CSC'=30^\circ$, 依次连接 $A'$, $B'$, $C'$ 即得. $\blacksquare$
+连接 $SA$, $SB$, $SC$, 分别绕 $S$ 顺时针旋转 $30^\circ$, 取 $SA'=SA$, $SB'=SB$, $SC'=SC$, 使 $\angle{A}SA'=\angle{B}SB'=\angle{C}SC'=30^\circ$, 依次连接 $A'$, $B'$, $C'$ 即得. $\blacksquare$
 
 ## 复习题三
 
@@ -170,10 +170,10 @@ $\square ABCD$ 的对角线交点 $O$ 为其对称中心. $\triangle ADE$ 与 $\
 
 (1) $A'\left(2,-3\right)$, $B'\left(5,0\right)$.
 
-(2) 四边形 $ABA'B'$ 由两个三角形 $\triangle ABO$ 与 $\triangle A'B'O$ 组成 ( $O$ 为原点). $AB$ 与 $A'B'$ 关于原点对称, $BB'$ 在 $x$ 轴上, $BB'=10$. 点 $A$ 到 $x$ 轴距离为 $3$, 点 $A'$ 到 $x$ 轴距离也为 $3$. 故
+(2) 四边形 $ABA'B'$ 由两个三角形 $\triangle{A}BO$ 与 $\triangle{A}'B'O$ 组成 ( $O$ 为原点). $AB$ 与 $A'B'$ 关于原点对称, $BB'$ 在 $x$ 轴上, $BB'=10$. 点 $A$ 到 $x$ 轴距离为 $3$, 点 $A'$ 到 $x$ 轴距离也为 $3$. 故
 
 $$
-S=\frac12\cdot 10\cdot 3+\frac12\cdot 10\cdot 3=30.
+S=\frac12\cdot10\cdot3+\frac12\cdot10\cdot3=30.
 $$
 
 $\blacksquare$
@@ -204,25 +204,25 @@ $\blacksquare$
 
 (1) 以 $A$ 为中心将 $AB$ 旋转 $90^\circ$ 得 $AD$, 以 $B$ 为中心将 $BA$ 旋转 $90^\circ$ 得 $BC$, 连 $C$, $D$ 得正方形.
 
-(2) 分别以 $A$, $B$ 为圆心, $AB$ 为半径作弧, 交于 $C$, 得等边 $\triangle ABC$.
+(2) 分别以 $A$, $B$ 为圆心, $AB$ 为半径作弧, 交于 $C$, 得等边 $\triangle{A}BC$.
 
 (3) 以 $AB$ 为一边, 将 $AB$ 绕 $A$ 旋转 $30^\circ$ 取 $AD=AB$, 再由对边平行相等确定第四个顶点, 得内角为 $30^\circ$ 的菱形. $\blacksquare$
 
 ## 复习题八
 
-(复习题 28 综合运用第 8 题) 如图, $\triangle ABC$ 和 $\triangle ECD$ 都是等边三角形, 点 $B$, $C$, $D$ 在同一条直线上, $\triangle EBC$ 可以看作 $\triangle DAC$ 经过平移, 轴对称或旋转得到的.
+(复习题 28 综合运用第 8 题) 如图, $\triangle{A}BC$ 和 $\triangle{E}CD$ 都是等边三角形, 点 $B$, $C$, $D$ 在同一条直线上, $\triangle{E}BC$ 可以看作 $\triangle{D}AC$ 经过平移, 轴对称或旋转得到的.
 
-(1) 说明得到 $\triangle EBC$ 的过程;
+(1) 说明得到 $\triangle{E}BC$ 的过程;
 
-(2) 若 $\angle ABE=36^\circ$, 求 $\angle DAC$ 和 $\angle ADE$ 的度数.
+(2) 若 $\angle{A}BE=36^\circ$, 求 $\angle{D}AC$ 和 $\angle{A}DE$ 的度数.
 
 ### 解答 复习题八
 
 由**性质 28.1.1 (旋转的性质)**.
 
-(1) $\triangle ABC$ 与 $\triangle ECD$ 均为等边三角形, 故 $AC=BC$, $DC=EC$, $\angle ACD=\angle BCE=120^\circ$. 将 $\triangle DAC$ 绕点 $C$ 顺时针旋转 $60^\circ$ 即得 $\triangle EBC$.
+(1) $\triangle{A}BC$ 与 $\triangle{E}CD$ 均为等边三角形, 故 $AC=BC$, $DC=EC$, $\angle{A}CD=\angle{B}CE=120^\circ$. 将 $\triangle{D}AC$ 绕点 $C$ 顺时针旋转 $60^\circ$ 即得 $\triangle{E}BC$.
 
-(2) 由旋转, $\angle DAC=\angle EBC$. 由 $\triangle ABC$ 等边, $\angle ABC=60^\circ$, 故 $\angle EBC=60^\circ-36^\circ=24^\circ$, 即 $\angle DAC=24^\circ$. 由旋转及等边关系计算得 $\angle ADE=36^\circ$. $\blacksquare$
+(2) 由旋转, $\angle{D}AC=\angle{E}BC$. 由 $\triangle{A}BC$ 等边, $\angle{A}BC=60^\circ$, 故 $\angle{E}BC=60^\circ-36^\circ=24^\circ$, 即 $\angle{D}AC=24^\circ$. 由旋转及等边关系计算得 $\angle{A}DE=36^\circ$. $\blacksquare$
 
 ## 复习题九
 
@@ -284,7 +284,7 @@ $\blacksquare$
 
 ## 练习三
 
-(练习 29.1 第 3 题) $\odot O$ 的半径为 $10$, 根据下列点 $P$ 到圆心 $O$ 的距离, 判断点 $P$ 和 $\odot O$ 的位置关系:
+(练习 29.1 第 3 题) $\odot{O}$ 的半径为 $10$, 根据下列点 $P$ 到圆心 $O$ 的距离, 判断点 $P$ 和 $\odot{O}$ 的位置关系:
 
 (1) $8$;
 
@@ -296,21 +296,21 @@ $\blacksquare$
 
 由**性质 29.1.1 (点与圆的位置关系)**, $r=10$.
 
-(1) $d=8< 10$, 点 $P$ 在圆内.
+(1) $d=8<10$, 点 $P$ 在圆内.
 
 (2) $d=10=r$, 点 $P$ 在圆上.
 
-(3) $d=12> 10$, 点 $P$ 在圆外. $\blacksquare$
+(3) $d=12>10$, 点 $P$ 在圆外. $\blacksquare$
 
 ## 练习四
 
-(练习 29.1 第 4 题) 在 $\triangle ABC$ 中, $\angle C=90^\circ$, 求证: $A$, $B$, $C$ 三点在同一个圆上.
+(练习 29.1 第 4 题) 在 $\triangle{A}BC$ 中, $\angle{C}=90^\circ$, 求证: $A$, $B$, $C$ 三点在同一个圆上.
 
 ### 解答 练习四
 
 由**定理 29.1.1 (三点确定一个圆)**.
 
-取 $AB$ 的中点 $O$. 在 $\text{Rt}\triangle ABC$ 中, 斜边中线等于斜边一半, 故 $OA=OB=OC=\frac12 AB$. 因此 $A$, $B$, $C$ 三点到点 $O$ 的距离相等, 故三点在以 $O$ 为圆心, $OA$ 为半径的同一个圆上. $\blacksquare$
+取 $AB$ 的中点 $O$. 在 $\text{Rt}\triangle{A}BC$ 中, 斜边中线等于斜边一半, 故 $OA=OB=OC=\frac12AB$. 因此 $A$, $B$, $C$ 三点到点 $O$ 的距离相等, 故三点在以 $O$ 为圆心, $OA$ 为半径的同一个圆上. $\blacksquare$
 
 ## 练习五
 
@@ -324,7 +324,7 @@ $\blacksquare$
 
 ## 练习六
 
-(练习 29.1 第 2 题) 如图, $\triangle ABC$ 是边长为 $2$ 的等边三角形, 作出它的外接圆, 并求外接圆的半径长.
+(练习 29.1 第 2 题) 如图, $\triangle{A}BC$ 是边长为 $2$ 的等边三角形, 作出它的外接圆, 并求外接圆的半径长.
 
 图为边长为 $2$ 的等边三角形 $ABC$, 三个顶点都在同一个圆上, 圆心 $O$ 在三角形内部, 位于三条高的交点处, 即为外接圆. 
 
@@ -362,11 +362,11 @@ $\blacksquare$
 
 ## 习题三
 
-(习题 29.1 复习巩固第 1 题) 已知点 $A$, $B$ 在 $\odot O_1$ 上, 点 $C$, $D$ 在 $\odot O_2$ 上, 判断下列说法是否正确:
+(习题 29.1 复习巩固第 1 题) 已知点 $A$, $B$ 在 $\odot{O}_1$ 上, 点 $C$, $D$ 在 $\odot{O}_2$ 上, 判断下列说法是否正确:
 
-(1) 若 $AB=CD$, 则 $\odot O_1$ 与 $\odot O_2$ 是等圆;
+(1) 若 $AB=CD$, 则 $\odot{O}_1$ 与 $\odot{O}_2$ 是等圆;
 
-(2) 若 $O_1A=O_2C$, 则 $\odot O_1$ 与 $\odot O_2$ 是等圆;
+(2) 若 $O_1A=O_2C$, 则 $\odot{O}_1$ 与 $\odot{O}_2$ 是等圆;
 
 (3) 若 $AB=CD$, 则 $\overset{\frown}{AB}$ 与 $\overset{\frown}{CD}$ 是等弧;
 
@@ -414,7 +414,7 @@ $\blacksquare$
 
 由**定义 29.1.2 (弦, 直径, 弧)**.
 
-设 $AB$ 为直径, $CD$ 为任意弦, 圆心为 $O$. 连接 $OC$, $OD$, 则 $AB=OA+OB=OC+OD$. 在 $\triangle OCD$ 中, $OC+OD\ge CD$, 故 $AB\ge CD$. 即直径是圆中最长的弦. $\blacksquare$
+设 $AB$ 为直径, $CD$ 为任意弦, 圆心为 $O$. 连接 $OC$, $OD$, 则 $AB=OA+OB=OC+OD$. 在 $\triangle{O}CD$ 中, $OC+OD\ge{C}D$, 故 $AB\ge{C}D$. 即直径是圆中最长的弦. $\blacksquare$
 
 ## 习题七
 
@@ -427,14 +427,14 @@ $\blacksquare$
 矩形对角线相等且互相平分, 故 $OA=OB=OC=OD$. $E$, $F$, $G$, $H$ 分别为中点, 故
 
 $$
-OE=OF=OG=OH=\frac12 OA.
+OE=OF=OG=OH=\frac12OA.
 $$
 
 四点到 $O$ 距离相等, 故在以 $O$ 为圆心的同一圆上. $\blacksquare$
 
 ## 习题八
 
-(习题 29.1 综合运用第 6 题) 一块圆形玻璃镜打碎了, 为了定制同样大小的玻璃镜, 需要确定原玻璃镜的半径. 在残片边缘描出点 $A$, $B$, $C$, 给出 $\triangle ABC$, 你能找到这块圆形玻璃镜的半径吗? 作图说明.
+(习题 29.1 综合运用第 6 题) 一块圆形玻璃镜打碎了, 为了定制同样大小的玻璃镜, 需要确定原玻璃镜的半径. 在残片边缘描出点 $A$, $B$, $C$, 给出 $\triangle{A}BC$, 你能找到这块圆形玻璃镜的半径吗? 作图说明.
 
 ### 解答 习题八
 
@@ -444,13 +444,13 @@ $$
 
 ## 习题九
 
-(习题 29.1 综合运用第 7 题) 如图, 在 $\odot O$ 中, $AB$, $CD$ 为直径. 求证 $AD\parallel BC$.
+(习题 29.1 综合运用第 7 题) 如图, 在 $\odot{O}$ 中, $AB$, $CD$ 为直径. 求证 $AD\parallel{B}C$.
 
 ### 解答 习题九
 
 由**定义 29.1.1 (圆)**.
 
-$OA=OD=OC=OB$, 在四边形 $ADBC$ 中, 对角线 $AB$, $CD$ 互相平分, 故 $ADBC$ 为平行四边形, 从而 $AD\parallel BC$. $\blacksquare$
+$OA=OD=OC=OB$, 在四边形 $ADBC$ 中, 对角线 $AB$, $CD$ 互相平分, 故 $ADBC$ 为平行四边形, 从而 $AD\parallel{B}C$. $\blacksquare$
 
 ## 习题十
 
@@ -460,11 +460,11 @@ $OA=OD=OC=OB$, 在四边形 $ADBC$ 中, 对角线 $AB$, $CD$ 互相平分, 故 $
 
 由反证法.
 
-设 $a\parallel b$, 直线 $c$ 与 $a$ 相交. 假设 $c$ 与 $b$ 不相交, 则 $c\parallel b$. 由 $a\parallel b$ 且 $c\parallel b$, 过直线 $a$ 上交点有两条直线 $a$ 与 $c$ 都平行于 $b$, 与"过直线外一点有且只有一条直线与已知直线平行"矛盾. 故假设不成立, $c$ 必与 $b$ 相交. $\blacksquare$
+设 $a\parallel{b}$, 直线 $c$ 与 $a$ 相交. 假设 $c$ 与 $b$ 不相交, 则 $c\parallel{b}$. 由 $a\parallel{b}$ 且 $c\parallel{b}$, 过直线 $a$ 上交点有两条直线 $a$ 与 $c$ 都平行于 $b$, 与"过直线外一点有且只有一条直线与已知直线平行"矛盾. 故假设不成立, $c$ 必与 $b$ 相交. $\blacksquare$
 
 ## 习题十一
 
-(习题 29.1 拓广探索第 9 题) 在 $\odot O$ 中, 点 $C$, $D$ 在弦 $AB$ 上, 且 $AC=BD$.
+(习题 29.1 拓广探索第 9 题) 在 $\odot{O}$ 中, 点 $C$, $D$ 在弦 $AB$ 上, 且 $AC=BD$.
 
 (1) 如图 (1), 弦 $AB$ 经过圆心 $O$, 求证 $OC=OD$;
 
@@ -476,7 +476,7 @@ $OA=OD=OC=OB$, 在四边形 $ADBC$ 中, 对角线 $AB$, $CD$ 互相平分, 故 $
 
 (1) $AB$ 过圆心, $O$ 在 $AB$ 上, $OA=OB$, 又 $AC=BD$, 故 $OA-AC=OB-BD$, 即 $OC=OD$.
 
-(2) 仍相等. 过 $O$ 作 $OH\perp AB$ 于 $H$, 由垂径定理 $AH=BH$. 又 $AC=BD$, 故 $AH-AC=BH-BD$, 即 $CH=DH$. 又 $OH\perp CD$, 故 $OC=OD$. $\blacksquare$
+(2) 仍相等. 过 $O$ 作 $OH\perp{A}B$ 于 $H$, 由垂径定理 $AH=BH$. 又 $AC=BD$, 故 $AH-AC=BH-BD$, 即 $CH=DH$. 又 $OH\perp{C}D$, 故 $OC=OD$. $\blacksquare$
 
 ## 探究与发现一
 
@@ -496,29 +496,29 @@ $OA=OD=OC=OB$, 在四边形 $ADBC$ 中, 对角线 $AB$, $CD$ 互相平分, 故 $
 
 由**定理 29.2.1 (垂径定理)**.
 
-过 $O$ 作 $OH\perp AB$ 于 $H$. 在大圆中, $OH$ 平分 $AB$, 故 $AH=BH$; 在小圆中, $OH$ 平分 $CD$, 故 $CH=DH$. 两式相减, $AH-CH=BH-DH$, 即 $AC=BD$. $\blacksquare$
+过 $O$ 作 $OH\perp{A}B$ 于 $H$. 在大圆中, $OH$ 平分 $AB$, 故 $AH=BH$; 在小圆中, $OH$ 平分 $CD$, 故 $CH=DH$. 两式相减, $AH-CH=BH-DH$, 即 $AC=BD$. $\blacksquare$
 
 ## 练习十
 
-(练习 29.2 第 2 题) 如图, 在 $\odot O$ 中, $AB$, $AC$ 为互相垂直且相等的两条弦, $OD\perp AB$, $OE\perp AC$, 垂足分别为 $D$, $E$. 求证: 四边形 $ADOE$ 是正方形.
+(练习 29.2 第 2 题) 如图, 在 $\odot{O}$ 中, $AB$, $AC$ 为互相垂直且相等的两条弦, $OD\perp{A}B$, $OE\perp{A}C$, 垂足分别为 $D$, $E$. 求证: 四边形 $ADOE$ 是正方形.
 
 ### 解答 练习十
 
 由**定理 29.2.1 (垂径定理)**.
 
-$OD\perp AB$, $OE\perp AC$, 故 $\angle ADO=\angle AEO=90^\circ$, 又 $\angle DAE=90^\circ$, 四边形 $ADOE$ 为矩形. 由 $AB=AC$, 垂径定理得 $AD=\frac12 AB$, $AE=\frac12 AC$, 故 $AD=AE$. 矩形 $ADOE$ 邻边相等, 故为正方形. $\blacksquare$
+$OD\perp{A}B$, $OE\perp{A}C$, 故 $\angle{A}DO=\angle{A}EO=90^\circ$, 又 $\angle{D}AE=90^\circ$, 四边形 $ADOE$ 为矩形. 由 $AB=AC$, 垂径定理得 $AD=\frac12AB$, $AE=\frac12AC$, 故 $AD=AE$. 矩形 $ADOE$ 邻边相等, 故为正方形. $\blacksquare$
 
 ## 练习十一
 
-(练习 29.2 第 3 题) 如图是一个隧道的横截面, 它的形状是以点 $O$ 为圆心的圆的一部分. 如果 $M$ 是 $\odot O$ 中弦 $CD$ 的中点, $EM$ 经过圆心 $O$ 交 $\odot O$ 于点 $E$, 且 $CD=4\,\text{m}$, $EM=6\,\text{m}$. 求 $\odot O$ 的半径长.
+(练习 29.2 第 3 题) 如图是一个隧道的横截面, 它的形状是以点 $O$ 为圆心的圆的一部分. 如果 $M$ 是 $\odot{O}$ 中弦 $CD$ 的中点, $EM$ 经过圆心 $O$ 交 $\odot{O}$ 于点 $E$, 且 $CD=4\,\text{m}$, $EM=6\,\text{m}$. 求 $\odot{O}$ 的半径长.
 
 图为隧道横截面: 上部是一段以 $O$ 为圆心的圆弧, 下部为水平的弦 $CD$, $M$ 为弦 $CD$ 的中点, $EM$ 为过圆心 $O$ 的竖直线段, 上端 $E$ 在圆弧最高点, $M$ 在 $CD$ 上, $EM$ 垂直于 $CD$. 
 
 ### 解答 练习十一
 
-由**定理 29.2.1 (垂径定理)**, $EM\perp CD$, $M$ 为垂足.
+由**定理 29.2.1 (垂径定理)**, $EM\perp{C}D$, $M$ 为垂足.
 
-设半径为 $R$, 则 $OC=R$, $OM=EM-R=6-R$, $CM=\frac12 CD=2$. 在 $\text{Rt}\triangle OMC$ 中,
+设半径为 $R$, 则 $OC=R$, $OM=EM-R=6-R$, $CM=\frac12CD=2$. 在 $\text{Rt}\triangle{O}MC$ 中,
 
 $$
 R^2=2^2+\left(6-R\right)^2=4+36-12R+R^2.

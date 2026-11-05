@@ -93,7 +93,7 @@
 由**定义 9.1.2 (点的坐标)** 读出各机初始坐标:
 
 $$
-A\left(1,1\right),\ B\left(-3,1\right),\ C\left(-1,-1\right),\ D\left(-5,1\right),\ E\left(-2,-2\right),\ F\left(1,-3\right).
+A\left(1,1\right),\,B\left(-3,1\right),\,C\left(-1,-1\right),\,D\left(-5,1\right),\,E\left(-2,-2\right),\,F\left(1,-3\right).
 $$
 
 $A$ 飞到 $A'\left(4,3\right)$, 平移向量为 $\left(4-1,\,3-1\right)=\left(3,2\right)$, 即全体向右平移 $3$ 个单位, 向上平移 $2$ 个单位.
@@ -101,7 +101,7 @@ $A$ 飞到 $A'\left(4,3\right)$, 平移向量为 $\left(4-1,\,3-1\right)=\left(3
 由**性质 9.2.1 (坐标表示平移)**, 各机横坐标加 $3$, 纵坐标加 $2$:
 
 $$
-A'\left(4,3\right),\ B'\left(0,3\right),\ C'\left(2,1\right),\ D'\left(-2,3\right),\ E'\left(1,0\right),\ F'\left(4,-1\right).
+A'\left(4,3\right),\,B'\left(0,3\right),\,C'\left(2,1\right),\,D'\left(-2,3\right),\,E'\left(1,0\right),\,F'\left(4,-1\right).
 $$
 
 $\blacksquare$
@@ -119,7 +119,7 @@ $\blacksquare$
 由**性质 9.2.1 (坐标表示平移)**, 向左平移 $2$ 个单位横坐标都减 $2$, 向上平移 $3$ 个单位纵坐标都加 $3$:
 
 $$
-A'\left(-4,1\right),\ B'\left(0,1\right),\ C'\left(1,5\right),\ D'\left(-3,5\right).
+A'\left(-4,1\right),\,B'\left(0,1\right),\,C'\left(1,5\right),\,D'\left(-3,5\right).
 $$
 
 依次连线即得平移后的平行四边形 $A'B'C'D'$. $\blacksquare$
@@ -146,7 +146,7 @@ $$
 
 ### 解答 习题八
 
-由**性质 9.2.1 (坐标表示平移)**, 比较小鹿在相邻两位置对应点的坐标变化. 横坐标增加即向右平移, 减少即向左平移; 纵坐标增加即向上平移, 减少即向下平移. 分别读出 $A\to B$, $B\to C$, $C\to D$ 各段横坐标, 纵坐标的变化量, 即得各次平移的方向和距离. $\blacksquare$
+由**性质 9.2.1 (坐标表示平移)**, 比较小鹿在相邻两位置对应点的坐标变化. 横坐标增加即向右平移, 减少即向左平移; 纵坐标增加即向上平移, 减少即向下平移. 分别读出 $A\to{B}$, $B\to{C}$, $C\to{D}$ 各段横坐标, 纵坐标的变化量, 即得各次平移的方向和距离. $\blacksquare$
 
 ## 习题九
 
@@ -202,7 +202,7 @@ $$
 
 李明以中心广场为原点, 向东为 $x$ 轴正方向, 向北为 $y$ 轴正方向, 一个小格 (代表 $100\,m$) 为一个单位长度. 牡丹园在中心广场东边 $3$ 格, 北边 $3$ 格, 故牡丹园坐标为 $\left(3,3\right)$.
 
-张华所说"东北方向约 $420\,m$ 处", 是指牡丹园在中心广场的东北 (北偏东 $45^\circ$) 方向上. 由勾股定理, 横向, 纵向都约 $300\,m$, 距离为 $\sqrt{300^2+300^2}\approx 420\,m$. 这是用方向角加距离描述位置.
+张华所说"东北方向约 $420\,m$ 处", 是指牡丹园在中心广场的东北 (北偏东 $45^\circ$) 方向上. 由勾股定理, 横向, 纵向都约 $300\,m$, 距离为 $\sqrt{300^2+300^2}\approx420\,m$. 这是用方向角加距离描述位置.
 
 类似地, 可用坐标 (李明方法) 或方向距离 (张华方法) 描述音东台, 湖心亭, 望春亭, 游乐园, 南门, 西门, 东门等景点的位置. $\blacksquare$
 
@@ -214,7 +214,7 @@ $$
 
 由用坐标表示地理位置 与**性质 9.2.1 (坐标表示平移)**.
 
-以方阵排面中心为原点, 横向为 $x$ 轴, 纵向为 $y$ 轴, 一名队员占一个单位格. 设计开始队形: 让每名队员对应一个坐标, 如排成 $4\times 4$ 方阵, 队员坐标为 $\left(1,1\right)$, $\left(1,2\right)$, $\cdots$, $\left(4,4\right)$.
+以方阵排面中心为原点, 横向为 $x$ 轴, 纵向为 $y$ 轴, 一名队员占一个单位格. 设计开始队形: 让每名队员对应一个坐标, 如排成 $4\times4$ 方阵, 队员坐标为 $\left(1,1\right)$, $\left(1,2\right)$, $\cdots$, $\left(4,4\right)$.
 
 表演中通过全体队员按同一坐标向量平移来变换队形: 全体横坐标加 $a$ 即向右移 $a$ 格, 全体纵坐标加 $b$ 即向上移 $b$ 格. 设计出开始队形, 中间展开队形, 结束队形各队员的坐标, 并用箭头标明每次队形变换的坐标变化量, 即得表演设计方案. $\blacksquare$
 
@@ -247,7 +247,7 @@ $D\left(2,-3\right)$: 横坐标 $2$, 纵坐标 $-3$, 横正纵负, 在第四象�
 由**定义 9.1.2 (点的坐标)**, 过八边形每个顶点分别向 $x$ 轴, $y$ 轴作垂线, 读出垂足对应的数. 八边形关于 $y$ 轴, $x$ 轴都对称, 八个顶点坐标为 (逆时针自左上方起):
 
 $$
-\left(-2,3\right),\ \left(-1,4\right),\ \left(1,4\right),\ \left(2,3\right),\ \left(2,-3\right),\ \left(1,-4\right),\ \left(-1,-4\right),\ \left(-2,-3\right).
+\left(-2,3\right),\,\left(-1,4\right),\,\left(1,4\right),\,\left(2,3\right),\,\left(2,-3\right),\,\left(1,-4\right),\,\left(-1,-4\right),\,\left(-2,-3\right).
 $$
 
 $\blacksquare$
@@ -302,21 +302,21 @@ $\blacksquare$
 
 ## 复习题六
 
-(复习题 综合运用第 6 题) 平行四边形 $ABCO$ 四个顶点的坐标分别是 $A\left(\sqrt 3,\sqrt 3\right)$, $B\left(3\sqrt 3,\sqrt 3\right)$, $C\left(2\sqrt 3,0\right)$, $O\left(0,0\right)$. 将这个平行四边形向左平移 $\sqrt 3$ 个单位长度, 得到平行四边形 $A'B'C'O'$. 求平行四边形 $A'B'C'O'$ 四个顶点的坐标.
+(复习题 综合运用第 6 题) 平行四边形 $ABCO$ 四个顶点的坐标分别是 $A\left(\sqrt3,\sqrt3\right)$, $B\left(3\sqrt3,\sqrt3\right)$, $C\left(2\sqrt3,0\right)$, $O\left(0,0\right)$. 将这个平行四边形向左平移 $\sqrt3$ 个单位长度, 得到平行四边形 $A'B'C'O'$. 求平行四边形 $A'B'C'O'$ 四个顶点的坐标.
 
 ### 解答 复习题六
 
-由**性质 9.2.1 (坐标表示平移)**, 向左平移 $\sqrt 3$ 个单位, 各点横坐标都减 $\sqrt 3$, 纵坐标不变.
+由**性质 9.2.1 (坐标表示平移)**, 向左平移 $\sqrt3$ 个单位, 各点横坐标都减 $\sqrt3$, 纵坐标不变.
 
-$A\left(\sqrt 3,\sqrt 3\right)\to A'\left(0,\sqrt 3\right)$.
+$A\left(\sqrt3,\sqrt3\right)\to{A}'\left(0,\sqrt3\right)$.
 
-$B\left(3\sqrt 3,\sqrt 3\right)\to B'\left(2\sqrt 3,\sqrt 3\right)$.
+$B\left(3\sqrt3,\sqrt3\right)\to{B}'\left(2\sqrt3,\sqrt3\right)$.
 
-$C\left(2\sqrt 3,0\right)\to C'\left(\sqrt 3,0\right)$.
+$C\left(2\sqrt3,0\right)\to{C}'\left(\sqrt3,0\right)$.
 
-$O\left(0,0\right)\to O'\left(-\sqrt 3,0\right)$.
+$O\left(0,0\right)\to{O}'\left(-\sqrt3,0\right)$.
 
-即 $A'\left(0,\sqrt 3\right)$, $B'\left(2\sqrt 3,\sqrt 3\right)$, $C'\left(\sqrt 3,0\right)$, $O'\left(-\sqrt 3,0\right)$. $\blacksquare$
+即 $A'\left(0,\sqrt3\right)$, $B'\left(2\sqrt3,\sqrt3\right)$, $C'\left(\sqrt3,0\right)$, $O'\left(-\sqrt3,0\right)$. $\blacksquare$
 
 ## 复习题七
 

@@ -53,14 +53,14 @@
 (Exercise 1.1, Problem 1) Identify the positive and negative numbers among the following:
 
 $$
-\frac{4}{3},\ -1,\ 2.5,\ +\frac{1}{4},\ 0,\ -3.14,\ 120,\ -\frac{2}{7}.
+\frac{4}{3},\,-1,\,2.5,\,+\frac{1}{4},\,0,\,-3.14,\,120,\,-\frac{2}{7}.
 $$
 
 ### Solution to Exercise 1
 
 By **Definition 1.1.1 (Positive Number)** and **Definition 1.1.2 (Negative Number)**, numbers greater than $0$ are positive numbers, and numbers obtained by prefixing a positive number with the sign "$-$" are negative numbers.
 
-Among the given numbers, $\frac{4}{3}> 0$, $2.5> 0$, $+\frac{1}{4}> 0$, $120> 0$, so $\frac{4}{3}$, $2.5$, $+\frac{1}{4}$, $120$ are positive numbers.
+Among the given numbers, $\frac{4}{3}>0$, $2.5>0$, $+\frac{1}{4}>0$, $120>0$, so $\frac{4}{3}$, $2.5$, $+\frac{1}{4}$, $120$ are positive numbers.
 
 Also, $-1$, $-3.14$, $-\frac{2}{7}$ all have the sign "$-$" prefixed to positive numbers, so $-1$, $-3.14$, $-\frac{2}{7}$ are negative numbers.
 
@@ -68,11 +68,11 @@ By **Definition 1.1.4 (Status of $0$)**, $0$ is neither a positive number nor a 
 
 ## Exercise 2
 
-(Exercise 1.1, Problem 2) If $80\ \text{m}$ represents walking $80\ \text{m}$ to the right, then $\;\_\_\;$ represents walking $60\ \text{m}$ to the left.
+(Exercise 1.1, Problem 2) If $80\,\text{m}$ represents walking $80\,\text{m}$ to the right, then $\;\_\_\;$ represents walking $60\,\text{m}$ to the left.
 
 ### Solution to Exercise 2
 
-Walking to the right and walking to the left are quantities of opposite meaning. By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**, since walking to the right is represented by a positive number, walking to the left is represented by a negative number; hence walking $60\ \text{m}$ to the left is denoted by $-60\ \text{m}$. $\blacksquare$
+Walking to the right and walking to the left are quantities of opposite meaning. By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**, since walking to the right is represented by a positive number, walking to the left is represented by a negative number; hence walking $60\,\text{m}$ to the left is denoted by $-60\,\text{m}$. $\blacksquare$
 
 ## Exercise 3
 
@@ -95,14 +95,14 @@ Scoring a goal and conceding a goal are quantities of opposite meaning. By **Def
 (Exercise 1.1, Review and Consolidation, Problem 1) Identify the positive and negative numbers among the following:
 
 $$
-5,\ -\frac{5}{7},\ 0,\ 0.56,\ -3,\ -25.8,\ \frac{12}{5},\ -0.0001,\ +2,\ -600.
+5,\,-\frac{5}{7},\,0,\,0.56,\,-3,\,-25.8,\,\frac{12}{5},\,-0.0001,\,+2,\,-600.
 $$
 
 ### Solution to Problem 1
 
 By **Definition 1.1.1 (Positive Number)** and **Definition 1.1.2 (Negative Number)**, numbers greater than $0$ are positive numbers, and numbers obtained by prefixing a positive number with the sign "$-$" are negative numbers.
 
-Among the given numbers, $5> 0$, $0.56> 0$, $\frac{12}{5}> 0$, $+2> 0$, so $5$, $0.56$, $\frac{12}{5}$, $+2$ are positive numbers.
+Among the given numbers, $5>0$, $0.56>0$, $\frac{12}{5}>0$, $+2>0$, so $5$, $0.56$, $\frac{12}{5}$, $+2$ are positive numbers.
 
 Also, $-\frac{5}{7}$, $-3$, $-25.8$, $-0.0001$, $-600$ all have the sign "$-$" prefixed to positive numbers, so they are negative numbers.
 
@@ -110,13 +110,13 @@ By **Definition 1.1.4 (Status of $0$)**, $0$ is neither a positive number nor a 
 
 ## Problem 2
 
-(Exercise 1.1, Review and Consolidation, Problem 2) One year, China's annual average precipitation increased by $53.5\ \text{mm}$ compared with the previous year; the following year it decreased by $81.5\ \text{mm}$ compared with the previous year; the third year it increased by $108.7\ \text{mm}$ compared with the previous year. Use positive and negative numbers to represent the annual change in China's average precipitation relative to the previous year over these three years.
+(Exercise 1.1, Review and Consolidation, Problem 2) One year, China's annual average precipitation increased by $53.5\,\text{mm}$ compared with the previous year; the following year it decreased by $81.5\,\text{mm}$ compared with the previous year; the third year it increased by $108.7\,\text{mm}$ compared with the previous year. Use positive and negative numbers to represent the annual change in China's average precipitation relative to the previous year over these three years.
 
 ### Solution to Problem 2
 
 Increase and decrease are quantities of opposite meaning. By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**, since increase is represented by a positive number, decrease is represented by a negative number.
 
-The first year increased by $53.5\ \text{mm}$, denoted by $+53.5\ \text{mm}$; the second year decreased by $81.5\ \text{mm}$, denoted by $-81.5\ \text{mm}$; the third year increased by $108.7\ \text{mm}$, denoted by $+108.7\ \text{mm}$. $\blacksquare$
+The first year increased by $53.5\,\text{mm}$, denoted by $+53.5\,\text{mm}$; the second year decreased by $81.5\,\text{mm}$, denoted by $-81.5\,\text{mm}$; the third year increased by $108.7\,\text{mm}$, denoted by $+108.7\,\text{mm}$. $\blacksquare$
 
 ## Problem 3
 
@@ -140,20 +140,20 @@ In the hydrogen atom, the nucleus carries $1$ positive charge, denoted by $+1$; 
 
 ## Problem 5
 
-(Exercise 1.1, Comprehensive Application, Problem 5) If moving an object $5\ \text{m}$ straight backward is denoted by moving $-5\ \text{m}$, what does it mean if the object then moves by $+5\ \text{m}$? How far is the object from its position before the two movements?
+(Exercise 1.1, Comprehensive Application, Problem 5) If moving an object $5\,\text{m}$ straight backward is denoted by moving $-5\,\text{m}$, what does it mean if the object then moves by $+5\,\text{m}$? How far is the object from its position before the two movements?
 
 ### Solution to Problem 5
 
-By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**, moving straight backward and moving straight forward are quantities of opposite meaning. Since moving straight backward is denoted by $-$, $+$ means moving straight forward; hence the object moving by $+5\ \text{m}$ means it moves $5\ \text{m}$ straight forward.
+By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**, moving straight backward and moving straight forward are quantities of opposite meaning. Since moving straight backward is denoted by $-$, $+$ means moving straight forward; hence the object moving by $+5\,\text{m}$ means it moves $5\,\text{m}$ straight forward.
 
-The object first moves $5\ \text{m}$ straight backward and then $5\ \text{m}$ straight forward; the two movements are in opposite directions and cover equal distances, so it returns to its original position, which is $0\ \text{m}$ away from its position before the two movements. $\blacksquare$
+The object first moves $5\,\text{m}$ straight backward and then $5\,\text{m}$ straight forward; the two movements are in opposite directions and cover equal distances, so it returns to its original position, which is $0\,\text{m}$ away from its position before the two movements. $\blacksquare$
 
 ## Problem 6
 
 (Exercise 1.1, Comprehensive Application, Problem 6) Errors arise when measuring certain quantities; sometimes taking multiple measurements and averaging them can reduce the error. Seven groups of students in a class each measured the height of the same building, and the measured data (unit: $\text{m}$) are:
 
 $$
-79.4,\ 80.6,\ 80.8,\ 79.1,\ 80,\ 79.6,\ 80.5.
+79.4,\,80.6,\,80.8,\,79.1,\,80,\,79.6,\,80.5.
 $$
 
 What is the mean of these data? Taking the mean as the standard, use positive numbers for the amount above and negative numbers for the amount below; what are the corresponding numbers?
@@ -166,9 +166,9 @@ $$
 79.4+80.6+80.8+79.1+80+79.6+80.5=560.
 $$
 
-Hence the mean is $\frac{560}{7}=80\ \left(\text{m}\right)$.
+Hence the mean is $\frac{560}{7}=80\,\left(\text{m}\right)$.
 
-Taking $80\ \text{m}$ as the standard, the amount above is represented by a positive number and the amount below by a negative number. By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**:
+Taking $80\,\text{m}$ as the standard, the amount above is represented by a positive number and the amount below by a negative number. By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**:
 
 Group 1: $79.4=80-0.6$, below by $0.6$, corresponding to $-0.6$; Group 2: $80.6=80+0.6$, above by $0.6$, corresponding to $+0.6$; Group 3: $80.8=80+0.8$, above by $0.8$, corresponding to $+0.8$; Group 4: $79.1=80-0.9$, below by $0.9$, corresponding to $-0.9$; Group 5: $80=80$, neither above nor below, corresponding to $0$; Group 6: $79.6=80-0.4$, below by $0.4$, corresponding to $-0.4$; Group 7: $80.5=80+0.5$, above by $0.5$, corresponding to $+0.5$.
 
@@ -176,11 +176,11 @@ Hence the corresponding numbers are $-0.6$, $+0.6$, $+0.8$, $-0.9$, $0$, $-0.4$,
 
 ## Problem 7
 
-(Exercise 1.1, Extension and Exploration, Problem 7) One day at $12$ noon, the temperature at a certain place is $7\,^\circ\text{C}$. After $5\ \text{h}$ the temperature drops by $4\,^\circ\text{C}$, and after another $7\ \text{h}$ it drops by another $4\,^\circ\text{C}$. What is the temperature at $0$ o'clock the next day?
+(Exercise 1.1, Extension and Exploration, Problem 7) One day at $12$ noon, the temperature at a certain place is $7\,^\circ\text{C}$. After $5\,\text{h}$ the temperature drops by $4\,^\circ\text{C}$, and after another $7\,\text{h}$ it drops by another $4\,^\circ\text{C}$. What is the temperature at $0$ o'clock the next day?
 
 ### Solution to Problem 7
 
-From noon at $12$ o'clock, another $5+7=12\ \text{h}$ brings us to $0$ o'clock the next day. During this period the temperature drops by a total of $4+4=8\,^\circ\text{C}$, so the temperature at $0$ o'clock the next day is
+From noon at $12$ o'clock, another $5+7=12\,\text{h}$ brings us to $0$ o'clock the next day. During this period the temperature drops by a total of $4+4=8\,^\circ\text{C}$, so the temperature at $0$ o'clock the next day is
 
 $$
 7-8=-1\,^\circ\text{C}.
@@ -190,13 +190,13 @@ That is, the temperature at $0$ o'clock the next day is $-1\,^\circ\text{C}$. $\
 
 ## Problem 8
 
-(Exercise 1.1, Extension and Exploration, Problem 8) Shown below is a dial-type combination lock. Each time it is opened, one must first align the graduation line marked "$0$" with the marker line on the fixed disk, then rotate the graduated dial three times clockwise or counterclockwise. For example, rotating counterclockwise by $5$ small divisions is denoted by "$+5$", and at this point the number aligned with the marker line is $5$; then rotating clockwise by $2$ small divisions is denoted by "$-2$"; then rotating counterclockwise by $3$ small divisions is denoted by "$+3$", and the lock opens. The unlocking code can thus be denoted by "$+5,\ -2,\ +3$". At this point, which number does the graduation line aligned with the marker line represent? If a set of unlocking codes is "$-15,\ +10,\ -5$", how should one rotate the dial to open the lock? When the lock opens, which number does the graduation line aligned with the marker line represent?
+(Exercise 1.1, Extension and Exploration, Problem 8) Shown below is a dial-type combination lock. Each time it is opened, one must first align the graduation line marked "$0$" with the marker line on the fixed disk, then rotate the graduated dial three times clockwise or counterclockwise. For example, rotating counterclockwise by $5$ small divisions is denoted by "$+5$", and at this point the number aligned with the marker line is $5$; then rotating clockwise by $2$ small divisions is denoted by "$-2$"; then rotating counterclockwise by $3$ small divisions is denoted by "$+3$", and the lock opens. The unlocking code can thus be denoted by "$+5,\,-2,\,+3$". At this point, which number does the graduation line aligned with the marker line represent? If a set of unlocking codes is "$-15,\,+10,\,-5$", how should one rotate the dial to open the lock? When the lock opens, which number does the graduation line aligned with the marker line represent?
 
 ### Solution to Problem 8
 
 According to the problem, rotating counterclockwise is denoted by $+$ and rotating clockwise by $-$, so counterclockwise rotation is taken as positive and clockwise rotation as negative. By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**, the numbers in the unlocking code represent in turn the small divisions of the three rotations, and the number aligned with the marker line equals the algebraic sum of the rotations.
 
-Unlocking code "$+5,\ -2,\ +3$": first rotate counterclockwise by $5$ divisions, then clockwise by $2$ divisions, then counterclockwise by $3$ divisions; the number aligned with the marker line is
+Unlocking code "$+5,\,-2,\,+3$": first rotate counterclockwise by $5$ divisions, then clockwise by $2$ divisions, then counterclockwise by $3$ divisions; the number aligned with the marker line is
 
 $$
 5-2+3=6.
@@ -204,7 +204,7 @@ $$
 
 Hence the graduation line aligned with the marker line represents $6$.
 
-Unlocking code "$-15,\ +10,\ -5$": one should in turn first rotate clockwise by $15$ small divisions, then counterclockwise by $10$ small divisions, then clockwise by $5$ small divisions. At this point the number aligned with the marker line is
+Unlocking code "$-15,\,+10,\,-5$": one should in turn first rotate clockwise by $15$ small divisions, then counterclockwise by $10$ small divisions, then clockwise by $5$ small divisions. At this point the number aligned with the marker line is
 
 $$
 -15+10-5=-10.
@@ -216,7 +216,7 @@ Hence when the lock opens, the graduation line aligned with the marker line repr
 
 (Exercise 1.2, Problem 1) All positive rational numbers form the set of positive rational numbers, and all negative rational numbers form the set of negative rational numbers. Place the following rational numbers into the sets to which they belong:
 
-$$15,\ -\frac{1}{9},\ -5,\ 7,\ 0.5,\ -80,\ 12,\ -4.2,\ 2.3.$$
+$$15,\,-\frac{1}{9},\,-5,\,7,\,0.5,\,-80,\,12,\,-4.2,\,2.3.$$
 
 Set of positive rational numbers: $\left\{\;\cdots\;\right\}$. Set of negative rational numbers: $\left\{\;\cdots\;\right\}$.
 
@@ -224,17 +224,17 @@ Set of positive rational numbers: $\left\{\;\cdots\;\right\}$. Set of negative r
 
 By **Definition 1.2.2 (Rational Numbers)**, numbers that can be written as positive fractions are positive rational numbers, and numbers that can be written as negative fractions are negative rational numbers.
 
-Among the given numbers, $15> 0$, $7> 0$, $0.5> 0$, $12> 0$, $2.3> 0$, so they are positive rational numbers.
+Among the given numbers, $15>0$, $7>0$, $0.5>0$, $12>0$, $2.3>0$, so they are positive rational numbers.
 
 Also, $-\frac{1}{9}$, $-5$, $-80$, $-4.2$ all have the sign "$-$" prefixed to positive numbers, so they are negative rational numbers.
 
-Hence the set of positive rational numbers is $\left\{15,\ 7,\ 0.5,\ 12,\ 2.3,\ \cdots\right\}$; the set of negative rational numbers is $\left\{-\frac{1}{9},\ -5,\ -80,\ -4.2,\ \cdots\right\}$. $\blacksquare$
+Hence the set of positive rational numbers is $\left\{15,\,7,\,0.5,\,12,\,2.3,\,\cdots\right\}$; the set of negative rational numbers is $\left\{-\frac{1}{9},\,-5,\,-80,\,-4.2,\,\cdots\right\}$. $\blacksquare$
 
 ## Exercise 6
 
 (Exercise 1.2, Problem 2) Identify the positive rational numbers, negative rational numbers, and integers among the following:
 
-$$-15,\ +6,\ -2,\ -0.\dot{4},\ 1,\ \frac{3}{5},\ 0,\ 3\frac{1}{4},\ 0.63,\ -\frac{10}{3}.$$
+$$-15,\,+6,\,-2,\,-0.\dot{4},\,1,\,\frac{3}{5},\,0,\,3\frac{1}{4},\,0.63,\,-\frac{10}{3}.$$
 
 ### Solution to Exercise 6
 
@@ -276,7 +276,7 @@ Hence the numbers represented by points $A$, $B$, $C$, $D$, $E$ are $0$, $-2$, $
 
 (Exercise 1.2, Problem 2) Draw a number line and represent the following rational numbers on it:
 
-$$-5,\ 3.5,\ -\frac{7}{2},\ -\frac{1}{2},\ \frac{3}{2},\ 5,\ \frac{9}{2}.$$
+$$-5,\,3.5,\,-\frac{7}{2},\,-\frac{1}{2},\,\frac{3}{2},\,5,\,\frac{9}{2}.$$
 
 On a number line with origin $0$, rightward as the positive direction, and unit length $1$, mark the points at $-5$, $-3.5$, $-0.5$, $1.5$, $3.5$, $4.5$, $5$, corresponding respectively to $-5$, $-\frac{7}{2}$, $-\frac{1}{2}$, $\frac{3}{2}$, $3.5$, $\frac{9}{2}$, $5$.
 
@@ -294,7 +294,7 @@ The corresponding points of the numbers on the number line are: $-5$ is $5$ grid
 
 By **Definition 1.2.3 (Number Line)**, the integer points on the number line are arranged in order. The integers between $-2$ and $4$ (including the endpoints) are
 
-$$-2,\ -1,\ 0,\ 1,\ 2,\ 3,\ 4.$$
+$$-2,\,-1,\,0,\,1,\,2,\,3,\,4.$$
 
 There are $7$ in total. Among them, the negative integers are $-2$, $-1$, totaling $2$.
 
@@ -348,7 +348,7 @@ By **Definition 1.2.4 (Opposite Numbers)**, an opposite number is a relationship
 
 (Exercise 1.2, Problem 2) Write down the opposite number of each of the following:
 
-$$-\frac{9}{4},\ 6,\ -8,\ -3.5,\ \frac{5}{2},\ 10,\ -100,\ \frac{1}{3}.$$
+$$-\frac{9}{4},\,6,\,-8,\,-3.5,\,\frac{5}{2},\,10,\,-100,\,\frac{1}{3}.$$
 
 ### Solution to Exercise 13
 
@@ -372,7 +372,7 @@ By **Definition 1.2.3 (Number Line)**, the point representing $0$ is the origin,
 
 (Exercise 1.2, Problem 4) Simplify each of the following:
 
-$$-\left(-7\right),\ -\left(+0.5\right),\ -\left(-68\right),\ -\left(+3.8\right).$$
+$$-\left(-7\right),\,-\left(+0.5\right),\,-\left(-68\right),\,-\left(+3.8\right).$$
 
 ### Solution to Exercise 15
 
@@ -386,7 +386,7 @@ Hence the expressions simplify respectively to $7$, $-0.5$, $68$, $-3.8$. $\blac
 
 (Exercise 1.2, Problem 1) Write down the absolute value of each of the following:
 
-$$8,\ -3.9,\ -\frac{2}{11},\ 100,\ 7.5,\ 0,\ -\left(-13\right),\ -\left(+18\right).$$
+$$8,\,-3.9,\,-\frac{2}{11},\,100,\,7.5,\,0,\,-\left(-13\right),\,-\left(+18\right).$$
 
 ### Solution to Exercise 16
 
@@ -414,7 +414,7 @@ By **Definition 1.2.5 (Absolute Value)** and **Definition 1.2.6 (Algebraic Meani
 
 (2) When $a\ne0$, $a$ is a positive or negative number. By **Definition 1.2.6 (Algebraic Meaning of Absolute Value)**, the absolute value of both a positive and a negative number is greater than $0$; hence it is true.
 
-(3) The integers whose absolute value is less than $2$ satisfy $\left|a\right|< 2$, that is, $-2< a< 2$; the integers among them are $-1$, $0$, $1$, which are more than just $1$ and $-1$; hence it is false. $\blacksquare$
+(3) The integers whose absolute value is less than $2$ satisfy $\left|a\right|<2$, that is, $-2<{}a<2$; the integers among them are $-1$, $0$, $1$, which are more than just $1$ and $-1$; hence it is false. $\blacksquare$
 
 ## Exercise 18
 
@@ -432,7 +432,7 @@ Also, $m$ is a negative number and $\left|m\right|=10$. By **Definition 1.2.6 (A
 
 (Exercise 1.2, Problem 4) Simplify each of the following:
 
-$$+\left|-3.5\right|,\ -\left|+\frac{5}{6}\right|,\ -\left|-11\right|,\ \left|+\left(-15\right)\right|,\ \left|-\left(-7\right)\right|,\ \left|-\left(+9\right)\right|.$$
+$$+\left|-3.5\right|,\,-\left|+\frac{5}{6}\right|,\,-\left|-11\right|,\,\left|+\left(-15\right)\right|,\,\left|-\left(-7\right)\right|,\,\left|-\left(+9\right)\right|.$$
 
 ### Solution to Exercise 19
 
@@ -460,14 +460,14 @@ $+\left|-3.5\right|=\left|3.5\right|=3.5$; $-\left|+\frac{5}{6}\right|=-\left|\f
 
 By **Definition 1.2.7 (Comparing the Magnitude of Rational Numbers)**, a positive number is greater than a negative number; for two negative numbers, the one with the larger absolute value is instead the smaller.
 
-(1) $3$ is positive and $-5$ is negative, so $3> -5$.
+(1) $3$ is positive and $-5$ is negative, so $3>-5$.
 
-(2) $\left|-3\right|=3$, $\left|-5\right|=5$; since $3< 5$, we get $-3> -5$.
+(2) $\left|-3\right|=3$, $\left|-5\right|=5$; since $3<5$, we get $-3>-5$.
 
-(3) $-\left|-2\frac{1}{4}\right|=-\left|2\frac{1}{4}\right|=-2.25$. $\left|-2.5\right|=2.5$, $\left|-2.25\right|=2.25$; since $2.5> 2.25$, we get $-2.5< -2.25$, so $-2.5< -\left|-2\frac{1}{4}\right|$.
+(3) $-\left|-2\frac{1}{4}\right|=-\left|2\frac{1}{4}\right|=-2.25$. $\left|-2.5\right|=2.5$, $\left|-2.25\right|=2.25$; since $2.5>2.25$, we get $-2.5<-2.25$, so $-2.5<-\left|-2\frac{1}{4}\right|$.
 
-(4) $\left|-\frac{3}{5}\right|=\frac{3}{5}=\frac{12}{20}$, $\left|-\frac{3}{4}\right|=\frac{3}{4}=\frac{15}{20}$; since $\frac{12}{20}< \frac{15}{20}$, we get $-\frac{3}{5}> -\frac{3}{4}$.
+(4) $\left|-\frac{3}{5}\right|=\frac{3}{5}=\frac{12}{20}$, $\left|-\frac{3}{4}\right|=\frac{3}{4}=\frac{15}{20}$; since $\frac{12}{20}<\frac{15}{20}$, we get $-\frac{3}{5}>-\frac{3}{4}$.
 
-(5) $-\left(+8\right)=-8$, $-\left(-9\right)=9$; a positive number is greater than a negative number, so $-8< 9$, that is, $-\left(+8\right)< -\left(-9\right)$.
+(5) $-\left(+8\right)=-8$, $-\left(-9\right)=9$; a positive number is greater than a negative number, so $-8<9$, that is, $-\left(+8\right)<-\left(-9\right)$.
 
-(6) $-\left(-0.3\right)=0.3$, $\left|-\frac{1}{3}\right|=\frac{1}{3}$. Since $0.3< \frac{1}{3}$, we get $-\left(-0.3\right)< \left|-\frac{1}{3}\right|$. $\blacksquare$
+(6) $-\left(-0.3\right)=0.3$, $\left|-\frac{1}{3}\right|=\frac{1}{3}$. Since $0.3<\frac{1}{3}$, we get $-\left(-0.3\right)<\left|-\frac{1}{3}\right|$. $\blacksquare$

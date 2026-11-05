@@ -6,7 +6,7 @@
 
 > **Definition 24.1.2 (Weighted Average)**
 > 
-> If the weights of the $n$ numbers $x_1, x_2, \ldots, x_n$ are $w_1, w_2, \ldots, w_n$ respectively, then $\overline{x}=\frac{x_1w_1+x_2w_2+\cdots+x_nw_n}{w_1+w_2+\cdots+w_n}$ is called the weighted average of these $n$ numbers.
+> If the weights of the $n$ numbers $x_1,x_2,\ldots,x_n$ are $w_1,w_2,\ldots,w_n$ respectively, then $\overline{x}=\frac{x_1w_1+x_2w_2+\cdots+x_nw_n}{w_1+w_2+\cdots+w_n}$ is called the weighted average of these $n$ numbers.
 
 > **Definition 24.1.3 (Median)**
 > 
@@ -38,7 +38,7 @@
 
 > **Definition 25.1.2 (General Form of a Quadratic Equation)**
 > 
-> The general form of a quadratic equation is $ax^2+bx+c=0\ \left(a\ne0\right)$, where $ax^2$ is the quadratic term and $a$ is the quadratic coefficient; $bx$ is the linear term and $b$ is the linear coefficient; $c$ is the constant term. The requirement $a\ne0$ ensures the equation is indeed quadratic.
+> The general form of a quadratic equation is $ax^2+bx+c=0\,\left(a\ne0\right)$, where $ax^2$ is the quadratic term and $a$ is the quadratic coefficient; $bx$ is the linear term and $b$ is the linear coefficient; $c$ is the constant term. The requirement $a\ne0$ ensures the equation is indeed quadratic.
 
 > **Definition 25.1.3 (Roots of a Quadratic Equation)**
 > 
@@ -56,9 +56,9 @@ There are $5$ ways to split. Compute each within-group sum of squared deviations
 
 Gap $1$: $0+\left(4+16+49+144+225-5\times10.4\right)=...$
 
-After computation, gap $3$ ($\left\{3, 4, 8\right\}$ and $\left\{9, 12, 15\right\}$) has the smallest within-group sum of squared deviations.
+After computation, gap $3$ ($\left\{3,4,8\right\}$ and $\left\{9,12,15\right\}$) has the smallest within-group sum of squared deviations.
 
-Hence split into $\left\{A, C, D\right\}$ ($3$, $4$, $8$) and $\left\{E, B, F\right\}$ ($9$, $12$, $15$). $\blacksquare$
+Hence split into $\left\{A,C,D\right\}$ ($3$, $4$, $8$) and $\left\{E,B,F\right\}$ ($9$, $12$, $15$). $\blacksquare$
 
 ## Activity 1
 
@@ -131,7 +131,7 @@ Hence split into $\left\{A, C, D\right\}$ ($3$, $4$, $8$) and $\left\{E, B, F\ri
 By **Definition 24.1.1 (Arithmetic Mean)**,
 
 $$
-\overline{x} = \frac{183+209+195+178+204+215+191+208+167+197}{10} = \frac{1947}{10} = 194.7.
+\overline{x}=\frac{183+209+195+178+204+215+191+208+167+197}{10}=\frac{1947}{10}=194.7.
 $$
 
 Hence about $195$ cars pass through the intersection on average. $\blacksquare$
@@ -145,16 +145,16 @@ Hence about $195$ cars pass through the intersection on average. $\blacksquare$
 By **Definition 24.1.1 (Arithmetic Mean)**,
 
 $$
-\overline{x} = \frac{1.15+1.04+\cdots+1.16}{20} \approx 1.17.
+\overline{x}=\frac{1.15+1.04+\cdots+1.16}{20}\approx1.17.
 $$
 
 By **Definition 24.2.3 (Variance)**,
 
 $$
-s^2 = \frac{\left(1.15-1.17\right)^2+\left(1.04-1.17\right)^2+\cdots+\left(1.16-1.17\right)^2}{20} \approx 0.005.
+s^2=\frac{\left(1.15-1.17\right)^2+\left(1.04-1.17\right)^2+\cdots+\left(1.16-1.17\right)^2}{20}\approx0.005.
 $$
 
-Hence the estimated mean mass is about $1.17\ \text{kg}$, and the variance about $0.01$. $\blacksquare$
+Hence the estimated mean mass is about $1.17\,\text{kg}$, and the variance about $0.01$. $\blacksquare$
 
 ## Review Problem 4
 
@@ -204,7 +204,7 @@ Task 1 Collect data:
 
 (Comprehensive and Practical Activity, Activity 1, Task 2) Organize the data: Table 2 is the grade-evaluation table for the standing long jump, based on the "Standard". Referring to Table 2, organize the sample data to obtain the frequency and percentage of each standing-long-jump grade.
 
-Table 2, Standing-long-jump grade-evaluation table: boys — Excellent $x \geq 226$ cm, Good $210 \leq x < 226$ cm, Pass $170 \leq x < 210$ cm, Fail $x < 170$ cm; girls — Excellent $y \geq 188$ cm, Good $174 \leq y < 188$ cm, Pass $144 \leq y < 174$ cm, Fail $y < 144$ cm.
+Table 2, Standing-long-jump grade-evaluation table: boys — Excellent $x\geq226$ cm, Good $210\leq{x}<226$ cm, Pass $170\leq{x}<210$ cm, Fail $x<170$ cm; girls — Excellent $y\geq188$ cm, Good $174\leq{y}<188$ cm, Pass $144\leq{y}<174$ cm, Fail $y<144$ cm.
 
 ### Solution to Activity 1, Task 2
 
@@ -238,7 +238,7 @@ BMI (body mass index) = weight (kg) / height$^2$ ($\text{m}^2$). The reasonablen
 
 (Comprehensive and Practical Activity, Activity 2, Task 2) Formulate a BMI grade-evaluation standard for your class. Based on the overall situation of students in our country, the "Standard" gives the BMI grade-evaluation standard for grade-8 students, as shown in Table 3. Based on your classmates' BMI data, try to formulate a BMI grade-evaluation standard that belongs specifically to your class.
 
-Table 3, BMI grade-evaluation standard for grade-8 students in the "Standard": boys — Underweight $\leq 15.6$, Normal $15.7$—$22.5$, Overweight $22.6$—$25.2$, Obese $\geq 25.3$; girls — Underweight $\leq 15.2$, Normal $15.3$—$22.2$, Overweight $22.3$—$24.8$, Obese $\geq 24.9$.
+Table 3, BMI grade-evaluation standard for grade-8 students in the "Standard": boys — Underweight $\leq15.6$, Normal $15.7$—$22.5$, Overweight $22.6$—$25.2$, Obese $\geq25.3$; girls — Underweight $\leq15.2$, Normal $15.3$—$22.2$, Overweight $22.3$—$24.8$, Obese $\geq24.9$.
 
 ### Solution to Activity 2, Task 2
 
@@ -306,7 +306,7 @@ Each of the three optional topics can be completed following the statistical pro
 
 ### Solution to Exercise 1
 
-By **Definition 25.1.2 (General Form of a Quadratic Equation)**, first remove parentheses, transpose terms and combine like terms to put the equation in the form $ax^2+bx+c=0\ \left(a\ne0\right)$, then read off the coefficients.
+By **Definition 25.1.2 (General Form of a Quadratic Equation)**, first remove parentheses, transpose terms and combine like terms to put the equation in the form $ax^2+bx+c=0\,\left(a\ne0\right)$, then read off the coefficients.
 
 (1) Transposing terms,
 
@@ -348,7 +348,7 @@ Hence the quadratic coefficient is $3$, the linear coefficient is $-4$, and the 
 
 (2) The length of a rectangle is $2$ more than its width, and its area is $100$; find the length of the rectangle;
 
-(3) A stick of length $1\ \text{m}$ is cut into two pieces, such that the product of the shorter piece's length and the stick's total length equals the square of the longer piece's length; find the shorter piece's length.
+(3) A stick of length $1\,\text{m}$ is cut into two pieces, such that the product of the shorter piece's length and the stick's total length equals the square of the longer piece's length; find the shorter piece's length.
 
 ### Solution to Exercise 2
 
@@ -392,7 +392,7 @@ i.e. $x=1-2x+x^2$; transposing terms gives the general form $x^2-3x+1=0$. $\blac
 
 ### Solution to Problem 2
 
-By **Definition 25.1.2 (General Form of a Quadratic Equation)**, first put it in the form $ax^2+bx+c=0\ \left(a\ne0\right)$, then read off the coefficients.
+By **Definition 25.1.2 (General Form of a Quadratic Equation)**, first put it in the form $ax^2+bx+c=0\,\left(a\ne0\right)$, then read off the coefficients.
 
 (1) Transposing terms gives $4x^2+5x-81=0$. The quadratic coefficient is $4$, the linear coefficient is $5$, and the constant term is $-81$.
 
@@ -416,10 +416,10 @@ By **Definition 25.1.2 (General Form of a Quadratic Equation)**, first put it in
 
 Set up the equations according to the geometric relations in each problem, then transform them into general form by **Definition 25.1.2 (General Form of a Quadratic Equation)**.
 
-(1) By the circle-area formula $\pi r^2=2\pi$,
+(1) By the circle-area formula $\pi{r}^2=2\pi$,
 
 $$
-\pi r^2=2\pi.
+\pi{r}^2=2\pi.
 $$
 
 Dividing both sides by $\pi$ and transposing terms gives the general form $r^2-2=0$.
@@ -427,7 +427,7 @@ Dividing both sides by $\pi$ and transposing terms gives the general form $r^2-2
 (2) Let the longer leg be $x$; then the other leg is $x-3$. Since the area of a right triangle is half the product of its legs,
 
 $$
-\frac12 x\left(x-3\right)=9.
+\frac12x\left(x-3\right)=9.
 $$
 
 Removing denominators gives $x\left(x-3\right)=18$, i.e. $x^2-3x-18=0$.
@@ -445,7 +445,7 @@ i.e. $5x^2=25$; transposing terms gives the general form $x^2-5=0$. $\blacksquar
 (Exercise 25.1, Review and Consolidation, Problem 3) Which of the following numbers are roots of the quadratic equation $x^2+x-12=0$? Why?
 
 $$
--4,\ -3,\ -2,\ -1,\ 0,\ 1,\ 2,\ 3,\ 4.
+-4,\,-3,\,-2,\,-1,\,0,\,1,\,2,\,3,\,4.
 $$
 
 ### Solution to Problem 4

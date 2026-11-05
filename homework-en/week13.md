@@ -154,17 +154,17 @@ Corresponding matches: triangular prism ↔ rectangle with triangles on two side
 
 ## Problem 5
 
-(Problem 6.1, Review and Consolidation, Problem 5) As shown, a square of side $5\ \text{cm}$ is rotated one full turn about the line of one of its sides; what is the resulting geometric solid? Viewed from the front, what is the shape of the figure obtained? What is its area?
+(Problem 6.1, Review and Consolidation, Problem 5) As shown, a square of side $5\,\text{cm}$ is rotated one full turn about the line of one of its sides; what is the resulting geometric solid? Viewed from the front, what is the shape of the figure obtained? What is its area?
 
 ### Solution to Problem 5
 
 By **Definition 6.1.5 (A Moving Point Forms a Line, a Moving Line Forms a Plane, a Moving Plane Forms a Solid)** and **Definition 6.1.2 (Plane Figure)**.
 
-The square rotated about one side as axis produces a cylinder, with base radius $5\ \text{cm}$ and height $5\ \text{cm}$.
+The square rotated about one side as axis produces a cylinder, with base radius $5\,\text{cm}$ and height $5\,\text{cm}$.
 
-Viewing this cylinder from the front gives a rectangle of sides $5\ \text{cm}$ and $10\ \text{cm}$ (one side of the rectangle is the cylinder height $5\ \text{cm}$, the other is the base diameter $10\ \text{cm}$).
+Viewing this cylinder from the front gives a rectangle of sides $5\,\text{cm}$ and $10\,\text{cm}$ (one side of the rectangle is the cylinder height $5\,\text{cm}$, the other is the base diameter $10\,\text{cm}$).
 
-The area of this rectangle $=5\times10=50\ \text{cm}^{2}$.
+The area of this rectangle $=5\times10=50\,\text{cm}^{2}$.
 
 $\blacksquare$
 
@@ -334,19 +334,19 @@ $\blacksquare$
 
 ## Exercise 4
 
-(Exercise 6.2, Problem 3) As shown, segment $AB=8\ \text{cm}$, $C$ is the midpoint of $AB$, point $D$ lies on $CB$, and $DB=1.5\ \text{cm}$. Find the length of segment $CD$.
+(Exercise 6.2, Problem 3) As shown, segment $AB=8\,\text{cm}$, $C$ is the midpoint of $AB$, point $D$ lies on $CB$, and $DB=1.5\,\text{cm}$. Find the length of segment $CD$.
 
 ### Solution to Exercise 4
 
 By **Definition 6.2.7 (Midpoint of a Segment)**, $C$ is the midpoint of $AB$, so
 
-$$CB=\frac{1}{2}AB=\frac{1}{2}\times8=4\ \text{cm}.$$
+$$CB=\frac{1}{2}AB=\frac{1}{2}\times8=4\,\text{cm}.$$
 
-Point $D$ lies on $CB$, and $DB=1.5\ \text{cm}$, so
+Point $D$ lies on $CB$, and $DB=1.5\,\text{cm}$, so
 
-$$CD=CB-DB=4-1.5=2.5\ \text{cm}.$$
+$$CD=CB-DB=4-1.5=2.5\,\text{cm}.$$
 
-In the figure, segment $AB=8\ \text{cm}$, point $C$ is the midpoint of $AB$, point $D$ lies on segment $CB$, and $DB=1.5\ \text{cm}$.
+In the figure, segment $AB=8\,\text{cm}$, point $C$ is the midpoint of $AB$, point $D$ lies on segment $CB$, and $DB=1.5\,\text{cm}$.
 
 $\blacksquare$
 
@@ -414,17 +414,17 @@ $\blacksquare$
 
 ## Problem 14
 
-(Problem 6.2, Review and Consolidation, Problem 2) As shown, points $A$, $B$, $C$ are taken in succession on line $l$ so that $AB=4\ \text{cm}$ and $BC=3\ \text{cm}$. If $O$ is the midpoint of segment $AC$, find the length of segment $OB$.
+(Problem 6.2, Review and Consolidation, Problem 2) As shown, points $A$, $B$, $C$ are taken in succession on line $l$ so that $AB=4\,\text{cm}$ and $BC=3\,\text{cm}$. If $O$ is the midpoint of segment $AC$, find the length of segment $OB$.
 
 ### Solution to Problem 14
 
 By **Definition 6.2.7 (Midpoint of a Segment)**.
 
-$$AC=AB+BC=4+3=7\ \text{cm}.$$
+$$AC=AB+BC=4+3=7\,\text{cm}.$$
 
-$O$ is the midpoint of $AC$, so $AO=\frac{1}{2}AC=3.5\ \text{cm}$.
+$O$ is the midpoint of $AC$, so $AO=\frac{1}{2}AC=3.5\,\text{cm}$.
 
-$$OB=AB-AO=4-3.5=0.5\ \text{cm}.$$
+$$OB=AB-AO=4-3.5=0.5\,\text{cm}.$$
 
 $\blacksquare$
 
@@ -444,23 +444,23 @@ $\blacksquare$
 
 ## Problem 16
 
-(Problem 6.2, Review and Consolidation, Problem 4) As shown, $C$ and $D$ are two points on segment $AB$, and point $D$ is the midpoint of segment $AC$. If $AB=10\ \text{cm}$ and $BC=4\ \text{cm}$, find the length of segment $BD$.
+(Problem 6.2, Review and Consolidation, Problem 4) As shown, $C$ and $D$ are two points on segment $AB$, and point $D$ is the midpoint of segment $AC$. If $AB=10\,\text{cm}$ and $BC=4\,\text{cm}$, find the length of segment $BD$.
 
 ### Solution to Problem 16
 
 By **Definition 6.2.7 (Midpoint of a Segment)**.
 
-$$AC=AB-BC=10-4=6\ \text{cm}.$$
+$$AC=AB-BC=10-4=6\,\text{cm}.$$
 
-$D$ is the midpoint of $AC$, so $AD=\frac{1}{2}AC=3\ \text{cm}$.
+$D$ is the midpoint of $AC$, so $AD=\frac{1}{2}AC=3\,\text{cm}$.
 
-$$BD=AB-AD=10-3=7\ \text{cm}.$$
+$$BD=AB-AD=10-3=7\,\text{cm}.$$
 
 $\blacksquare$
 
 ## Problem 17
 
-(Problem 6.2, Comprehensive Application, Problem 5) As shown, segment $AB=4\ \text{cm}$; extend $AB$ to $C$ so that $BC=\frac{1}{2}AB$.
+(Problem 6.2, Comprehensive Application, Problem 5) As shown, segment $AB=4\,\text{cm}$; extend $AB$ to $C$ so that $BC=\frac{1}{2}AB$.
 
 (1) Find the length of $AC$;
 
@@ -470,75 +470,75 @@ $\blacksquare$
 
 By **Definition 6.2.7 (Midpoint of a Segment)**.
 
-(1) $BC=\frac{1}{2}AB=\frac{1}{2}\times4=2\ \text{cm}$.
+(1) $BC=\frac{1}{2}AB=\frac{1}{2}\times4=2\,\text{cm}$.
 
-$$AC=AB+BC=4+2=6\ \text{cm}.$$
+$$AC=AB+BC=4+2=6\,\text{cm}.$$
 
-(2) $M$ is the midpoint of $AC$, so $AM=\frac{1}{2}AC=3\ \text{cm}$.
+(2) $M$ is the midpoint of $AC$, so $AM=\frac{1}{2}AC=3\,\text{cm}$.
 
-$$BM=AB-AM=4-3=1\ \text{cm}.$$
+$$BM=AB-AM=4-3=1\,\text{cm}.$$
 
 $\blacksquare$
 
 ## Problem 18
 
-(Problem 6.2, Comprehensive Application, Problem 6) Given segment $AB=8\ \text{cm}$, draw segment $BC$ on line $AB$ so that it equals $3\ \text{cm}$; find the length of segment $AC$.
+(Problem 6.2, Comprehensive Application, Problem 6) Given segment $AB=8\,\text{cm}$, draw segment $BC$ on line $AB$ so that it equals $3\,\text{cm}$; find the length of segment $AC$.
 
 ### Solution to Problem 18
 
 By **Definition 6.2.3 (Ray and Segment)**, point $C$ may lie on segment $AB$, or on the extension of $AB$.
 
-If $C$ lies on segment $AB$: $AC=AB-BC=8-3=5\ \text{cm}$.
+If $C$ lies on segment $AB$: $AC=AB-BC=8-3=5\,\text{cm}$.
 
-If $C$ lies on the extension of $AB$: $AC=AB+BC=8+3=11\ \text{cm}$.
+If $C$ lies on the extension of $AB$: $AC=AB+BC=8+3=11\,\text{cm}$.
 
-The figure shows two cases: on the left, point $C$ lies on segment $AB$ with $BC=3\ \text{cm}$ (then $AC=5\ \text{cm}$); on the right, point $C$ lies on the extension of $AB$ with $BC=3\ \text{cm}$ (then $AC=11\ \text{cm}$).
+The figure shows two cases: on the left, point $C$ lies on segment $AB$ with $BC=3\,\text{cm}$ (then $AC=5\,\text{cm}$); on the right, point $C$ lies on the extension of $AB$ with $BC=3\,\text{cm}$ (then $AC=11\,\text{cm}$).
 
-Hence $AC=5\ \text{cm}$ or $11\ \text{cm}$. $\blacksquare$
+Hence $AC=5\,\text{cm}$ or $11\,\text{cm}$. $\blacksquare$
 
 ## Problem 19
 
-(Problem 6.2, Extension and Exploration, Problem 7) As shown, point $C$ lies on segment $AB$, $AC=8\ \text{cm}$, $CB=6\ \text{cm}$, and points $M$ and $N$ are the midpoints of $AC$ and $BC$ respectively.
+(Problem 6.2, Extension and Exploration, Problem 7) As shown, point $C$ lies on segment $AB$, $AC=8\,\text{cm}$, $CB=6\,\text{cm}$, and points $M$ and $N$ are the midpoints of $AC$ and $BC$ respectively.
 
 (1) Find the length of segment $MN$;
 
-(2) If $C$ is any point on segment $AB$ satisfying $AC+CB=a\ \text{cm}$, with other conditions unchanged, can you conjecture the length of $MN$? And explain why.
+(2) If $C$ is any point on segment $AB$ satisfying $AC+CB=a\,\text{cm}$, with other conditions unchanged, can you conjecture the length of $MN$? And explain why.
 
 ### Solution to Problem 19
 
 By **Definition 6.2.7 (Midpoint of a Segment)**.
 
-(1) $M$ is the midpoint of $AC$, so $MC=\frac{1}{2}AC=4\ \text{cm}$. $N$ is the midpoint of $BC$, so $CN=\frac{1}{2}CB=3\ \text{cm}$.
+(1) $M$ is the midpoint of $AC$, so $MC=\frac{1}{2}AC=4\,\text{cm}$. $N$ is the midpoint of $BC$, so $CN=\frac{1}{2}CB=3\,\text{cm}$.
 
-$$MN=MC+CN=4+3=7\ \text{cm}.$$
+$$MN=MC+CN=4+3=7\,\text{cm}.$$
 
 (2) If $AC+CB=a$, then
 
 $$MN=\frac{1}{2}AC+\frac{1}{2}CB=\frac{1}{2}\left(AC+CB\right)=\frac{1}{2}a.$$
 
-Hence we conjecture $MN=\frac{1}{2}a\ \text{cm}$. $\blacksquare$
+Hence we conjecture $MN=\frac{1}{2}a\,\text{cm}$. $\blacksquare$
 
 ## Problem 20
 
 (Problem 6.2, Extension and Exploration, Problem 8) As shown, given points $A$, $B$, $C$ on the same line, $M$ and $N$ are the midpoints of segments $AC$ and $BC$ respectively.
 
-(1) If $AC=8\ \text{cm}$ and $BC=6\ \text{cm}$, find the length of $MN$;
+(1) If $AC=8\,\text{cm}$ and $BC=6\,\text{cm}$, find the length of $MN$;
 
-(2) If $AB=10\ \text{cm}$, find the length of $MN$.
+(2) If $AB=10\,\text{cm}$, find the length of $MN$.
 
 ### Solution to Problem 20
 
 By **Definition 6.2.7 (Midpoint of a Segment)**.
 
-(1) $M$ is the midpoint of $AC$, $MC=\frac{1}{2}AC=4\ \text{cm}$. $N$ is the midpoint of $BC$, $CN=\frac{1}{2}BC=3\ \text{cm}$. Since $A$, $B$, $C$ are collinear and $B$ lies between $A$ and $C$,
+(1) $M$ is the midpoint of $AC$, $MC=\frac{1}{2}AC=4\,\text{cm}$. $N$ is the midpoint of $BC$, $CN=\frac{1}{2}BC=3\,\text{cm}$. Since $A$, $B$, $C$ are collinear and $B$ lies between $A$ and $C$,
 
-$$MN=MC-CN=4-3=1\ \text{cm}.$$
+$$MN=MC-CN=4-3=1\,\text{cm}.$$
 
-(2) Regardless of whether $B$ lies between $A$ and $C$ or $C$ lies between $A$ and $B$, $MN=\frac{1}{2}AB=\frac{1}{2}\times10=5\ \text{cm}$. $\blacksquare$
+(2) Regardless of whether $B$ lies between $A$ and $C$ or $C$ lies between $A$ and $B$, $MN=\frac{1}{2}AB=\frac{1}{2}\times10=5\,\text{cm}$. $\blacksquare$
 
 ## Problem 21
 
-(Problem 6.2, Extension and Exploration, Problem 9) As shown, extend segment $AB$ to $C$ so that $BC=\frac{1}{2}AB$, then extend $BA$ to $D$ so that $AD=\frac{1}{2}AB$. If $DC=20\ \text{cm}$, find the length of $AB$.
+(Problem 6.2, Extension and Exploration, Problem 9) As shown, extend segment $AB$ to $C$ so that $BC=\frac{1}{2}AB$, then extend $BA$ to $D$ so that $AD=\frac{1}{2}AB$. If $DC=20\,\text{cm}$, find the length of $AB$.
 
 ### Solution to Problem 21
 
@@ -548,11 +548,11 @@ Let $AB=x$; then $BC=\frac{1}{2}x$ and $AD=\frac{1}{2}x$.
 
 $$DC=AD+AB+BC=\frac{1}{2}x+x+\frac{1}{2}x=2x.$$
 
-Since $DC=20$, we have $2x=20$, $x=10$. That is, $AB=10\ \text{cm}$. $\blacksquare$
+Since $DC=20$, we have $2x=20$, $x=10$. That is, $AB=10\,\text{cm}$. $\blacksquare$
 
 ## Problem 22
 
-(Problem 6.2, Extension and Exploration, Problem 10) As shown, point $C$ lies on the extension of segment $AB$, and points $M$ and $N$ are the midpoints of segments $AC$ and $BC$ respectively. If $MN=5\ \text{cm}$, find the length of segment $AB$.
+(Problem 6.2, Extension and Exploration, Problem 10) As shown, point $C$ lies on the extension of segment $AB$, and points $M$ and $N$ are the midpoints of segments $AC$ and $BC$ respectively. If $MN=5\,\text{cm}$, find the length of segment $AB$.
 
 ### Solution to Problem 22
 
@@ -562,7 +562,7 @@ $M$ is the midpoint of $AC$, so $MC=\frac{1}{2}AC$. $N$ is the midpoint of $BC$,
 
 $$MN=MC-NC=\frac{1}{2}AC-\frac{1}{2}BC=\frac{1}{2}\left(AC-BC\right)=\frac{1}{2}AB.$$
 
-Since $MN=5$, we have $AB=2\times5=10\ \text{cm}$. $\blacksquare$
+Since $MN=5$, we have $AB=2\times5=10\,\text{cm}$. $\blacksquare$
 
 ## Reading and Thinking 1
 
@@ -576,13 +576,13 @@ Without unified units of length, different regions and different groups would us
 
 ## Exercise 8
 
-(Exercise 6.3, Problem 1) As shown, point $O$ lies on line $AB$, $\angle AOC=50^{\circ}$; find the degree measure of $\angle BOC$.
+(Exercise 6.3, Problem 1) As shown, point $O$ lies on line $AB$, $\angle{A}OC=50^{\circ}$; find the degree measure of $\angle{B}OC$.
 
 ### Solution to Exercise 8
 
-By **Definition 6.3.6 (Supplementary Angle)**, $O$ lies on line $AB$, so $\angle AOB=180^{\circ}$, and $\angle AOC$ and $\angle BOC$ are supplementary.
+By **Definition 6.3.6 (Supplementary Angle)**, $O$ lies on line $AB$, so $\angle{A}OB=180^{\circ}$, and $\angle{A}OC$ and $\angle{B}OC$ are supplementary.
 
-$$\angle BOC=180^{\circ}-\angle AOC=180^{\circ}-50^{\circ}=130^{\circ}.$$
+$$\angle{B}OC=180^{\circ}-\angle{A}OC=180^{\circ}-50^{\circ}=130^{\circ}.$$
 
 $\blacksquare$
 
@@ -618,11 +618,11 @@ By **Definition 6.3.2 (Measuring Angles)**, calculate using the base-$60$ system
 
 By **Definition 6.3.2 (Measuring Angles)**, convert using the base-$60$ system.
 
-$$0.28^{\circ}=0.28\times60'=16.8',\quad 0.8'=0.8\times60''=48''.$$
+$$0.28^{\circ}=0.28\times60'=16.8',\quad0.8'=0.8\times60''=48''.$$
 
 Hence $33.28^{\circ}=33^{\circ}16'48''$.
 
-$$42''=\frac{42}{60}'=0.7',\quad 20.7'=\frac{20.7}{60}^{\circ}=0.345^{\circ}.$$
+$$42''=\frac{42}{60}'=0.7',\quad20.7'=\frac{20.7}{60}^{\circ}=0.345^{\circ}.$$
 
 Hence $108^{\circ}20'42''=108.345^{\circ}$. $\blacksquare$
 

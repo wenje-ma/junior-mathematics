@@ -2,19 +2,19 @@
 
 > **Conclusion 26.2.1 (The Parabola $y=ax^2$)**
 > 
-> The axis of symmetry of the parabola $y=ax^2$ is the $y$-axis, and its vertex is the origin. When $a> 0$ it opens upward and the vertex is the lowest point; when $a< 0$ it opens downward and the vertex is the highest point. The larger $\left|a\right|$ is, the narrower the opening. When $a> 0$, $y$ decreases as $x$ increases for $x< 0$, and $y$ increases as $x$ increases for $x> 0$; when $a< 0$ the reverse holds.
+> The axis of symmetry of the parabola $y=ax^2$ is the $y$-axis, and its vertex is the origin. When $a>0$ it opens upward and the vertex is the lowest point; when $a<0$ it opens downward and the vertex is the highest point. The larger $\left|a\right|$ is, the narrower the opening. When $a>0$, $y$ decreases as $x$ increases for $x<0$, and $y$ increases as $x$ increases for $x>0$; when $a<0$ the reverse holds.
 
 > **Conclusion 26.2.2 (Translation)**
 > 
-> Translating the parabola $y=ax^2$ upward ($k> 0$) or downward ($k< 0$) by $\left|k\right|$ units gives $y=ax^2+k$; translating it left ($h< 0$) or right ($h> 0$) by $\left|h\right|$ units gives $y=a\left(x-h\right)^2$; combining both translations gives $y=a\left(x-h\right)^2+k$.
+> Translating the parabola $y=ax^2$ upward ($k>0$) or downward ($k<0$) by $\left|k\right|$ units gives $y=ax^2+k$; translating it left ($h<0$) or right ($h>0$) by $\left|h\right|$ units gives $y=a\left(x-h\right)^2$; combining both translations gives $y=a\left(x-h\right)^2+k$.
 
 > **Conclusion 26.2.3 (The Parabola $y=a\left(x-h\right)**
-> 
-> ^2+k$) It opens upward when $a> 0$ and downward when $a< 0$; its axis of symmetry is $x=h$; its vertex is $\left(h,k\right)$. When $a> 0$, the minimum $k$ is taken at $x=h$; when $a< 0$, the maximum $k$ is taken at $x=h$.
+>
+>^2+k$) It opens upward when $a>0$ and downward when $a<0$; its axis of symmetry is $x=h$; its vertex is $\left(h,k\right)$. When $a>0$, the minimum $k$ is taken at $x=h$; when $a<0$, the maximum $k$ is taken at $x=h$.
 
 > **Conclusion 26.2.4 (The Parabola $y=ax^2+bx+c$)**
 > 
-> Completing the square gives $y=a\left(x+\frac b{2a}\right)^2+\frac{4ac-b^2}{4a}$; the axis of symmetry is $x=-\frac b{2a}$ and the vertex is $\left(-\frac b{2a},\frac{4ac-b^2}{4a}\right)$. When $a> 0$, the minimum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac b{2a}$; when $a< 0$, the maximum is taken there.
+> Completing the square gives $y=a\left(x+\frac{b}{2a}\right)^2+\frac{4ac-b^2}{4a}$; the axis of symmetry is $x=-\frac{b}{2a}$ and the vertex is $\left(-\frac{b}{2a},\frac{4ac-b^2}{4a}\right)$. When $a>0$, the minimum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac{b}{2a}$; when $a<0$, the maximum is taken there.
 
 > **Conclusion 26.3.1 (Relation Between a Quadratic Function and a Quadratic Equation)**
 > 
@@ -36,7 +36,7 @@ The figure shows four side-by-side coordinate systems, each with one parabola: (
 
 ### Solution to Problem 1
 
-By Basic Knowledge, find the axis of symmetry $x=-\frac b{2a}$ and the vertex.
+By Basic Knowledge, find the axis of symmetry $x=-\frac{b}{2a}$ and the vertex.
 
 (1) $a=1$, $b=2$; axis of symmetry $x=-1$; vertex's vertical coordinate $-1-2-5=-8$; opens upward, vertex $\left(-1,-8\right)$.
 
@@ -62,15 +62,15 @@ The graphs are as shown. $\blacksquare$
 
 ### Solution to Problem 2
 
-By Basic Knowledge, the extremum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac b{2a}$.
+By Basic Knowledge, the extremum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac{b}{2a}$.
 
-(1) $a=5> 0$; when $x=-\frac3{10}$, the minimum $\frac{4\cdot5\cdot2-9}{20}=\frac{40-9}{20}=\frac{31}{20}$ is taken.
+(1) $a=5>0$; when $x=-\frac3{10}$, the minimum $\frac{4\cdot5\cdot2-9}{20}=\frac{40-9}{20}=\frac{31}{20}$ is taken.
 
-(2) $a=-1< 0$; when $x=3$, the maximum $\frac{4\left(-1\right)\left(-3\right)-36}{-4}=\frac{12-36}{-4}=6$ is taken.
+(2) $a=-1<0$; when $x=3$, the maximum $\frac{4\left(-1\right)\left(-3\right)-36}{-4}=\frac{12-36}{-4}=6$ is taken.
 
-(3) $a=-\frac12< 0$; when $x=-\frac{-3}{2\left(-1/2\right)}=-3$, the maximum $\frac{4\left(-1/2\right)\left(-5/2\right)-9}{4\left(-1/2\right)}=\frac{5-9}{-2}=2$ is taken.
+(3) $a=-\frac12<0$; when $x=-\frac{-3}{2\left(-1/2\right)}=-3$, the maximum $\frac{4\left(-1/2\right)\left(-5/2\right)-9}{4\left(-1/2\right)}=\frac{5-9}{-2}=2$ is taken.
 
-(4) $a=\frac14> 0$; when $x=-\frac{-2}{2\left(1/4\right)}=4$, the minimum $\frac{4\cdot\frac14\cdot5-4}{1}=\frac{5-4}{1}=1$ is taken. $\blacksquare$
+(4) $a=\frac14>0$; when $x=-\frac{-2}{2\left(1/4\right)}=4$, the minimum $\frac{4\cdot\frac14\cdot5-4}{1}=\frac{5-4}{1}=1$ is taken. $\blacksquare$
 
 ## Problem 3
 
@@ -78,7 +78,7 @@ By Basic Knowledge, the extremum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac b{2a
 
 ### Solution to Problem 3
 
-By Basic Knowledge, the axis of symmetry is $x=-\frac b{2a}$. Here $a=-\frac12$ and the vertex's horizontal coordinate is $5$, hence
+By Basic Knowledge, the axis of symmetry is $x=-\frac{b}{2a}$. Here $a=-\frac12$ and the vertex's horizontal coordinate is $5$, hence
 
 $$
 -\frac{b}{2\left(-1/2\right)}=5,
@@ -104,7 +104,7 @@ By Translation.
 
 ## Problem 5
 
-(Exercise 26.2, Comprehensive Application, Problem 7) As shown in the figure, a football player kicks a free kick from point $A$, and the ball's flight path is a parabola. When the ball reaches its highest point, it strikes point $B$ on the $2.44\ \text{m}$-high goal crossbar. Let $C$ be the point on the ground directly below $B$, with $AC=24.4\ \text{m}$. Find the function expression for the ball's vertical height $y$ (in $\text{m}$) in terms of its horizontal distance $x$ (in $\text{m}$) from $A$.
+(Exercise 26.2, Comprehensive Application, Problem 7) As shown in the figure, a football player kicks a free kick from point $A$, and the ball's flight path is a parabola. When the ball reaches its highest point, it strikes point $B$ on the $2.44\,\text{m}$-high goal crossbar. Let $C$ be the point on the ground directly below $B$, with $AC=24.4\,\text{m}$. Find the function expression for the ball's vertical height $y$ (in $\text{m}$) in terms of its horizontal distance $x$ (in $\text{m}$) from $A$.
 
 ### Solution to Problem 5
 
@@ -117,7 +117,7 @@ $$
 solving gives $a=-\frac{2.44}{24.4^2}=-\frac1{244}$. Hence the function expression is
 
 $$
-y=-\frac1{244}\left(x-24.4\right)^2+2.44. \blacksquare
+y=-\frac1{244}\left(x-24.4\right)^2+2.44.\blacksquare
 $$
 
 ## Problem 6
@@ -134,7 +134,7 @@ $$
 y=-2x^2+12x-8.
 $$
 
-$a=-2< 0$, opens downward. By Basic Knowledge, the axis of symmetry is $x=-\frac{12}{2\left(-2\right)}=3$, and the vertex's vertical coordinate is $-2\cdot9+36-8=10$. Hence the axis of symmetry is the line $x=3$, and the vertex is $\left(3,10\right)$. $\blacksquare$
+$a=-2<0$, opens downward. By Basic Knowledge, the axis of symmetry is $x=-\frac{12}{2\left(-2\right)}=3$, and the vertex's vertical coordinate is $-2\cdot9+36-8=10$. Hence the axis of symmetry is the line $x=3$, and the vertex is $\left(3,10\right)$. $\blacksquare$
 
 ## Problem 7
 
@@ -152,7 +152,7 @@ $$
 PA=PM.
 $$
 
-(2) Let $P\left(x,y\right)$. Since $M$ lies on the $x$-axis and $PM\perp x$, $M\left(x,0\right)$, and hence $PM=\left|y\right|$. Also $A\left(0,2\right)$; by the distance formula,
+(2) Let $P\left(x,y\right)$. Since $M$ lies on the $x$-axis and $PM\perp{x}$, $M\left(x,0\right)$, and hence $PM=\left|y\right|$. Also $A\left(0,2\right)$; by the distance formula,
 
 $$
 PA=\sqrt{\left(x-0\right)^2+\left(y-2\right)^2}.
@@ -170,9 +170,9 @@ i.e. $x^2+y^2-4y+4=y^2$, which simplifies to $y=\frac{x^2+4}{4}=\frac14x^2+1$. T
 
 (Exercise 26.3, Problem 1) For the ball's flight height $h=20t-5t^2$, answer the following questions:
 
-(1) Can the ball's flight height reach $15\ \text{m}$? If so, how long does it take?
+(1) Can the ball's flight height reach $15\,\text{m}$? If so, how long does it take?
 
-(2) Can the ball's flight height reach $20.5\ \text{m}$? If so, how long does it take?
+(2) Can the ball's flight height reach $20.5\,\text{m}$? If so, how long does it take?
 
 (3) How long does the ball take from being launched to landing?
 
@@ -180,11 +180,11 @@ i.e. $x^2+y^2-4y+4=y^2$, which simplifies to $y=\frac{x^2+4}{4}=\frac14x^2+1$. T
 
 By Relation Between a Quadratic Function and a Quadratic Equation, convert the height problem into the corresponding problem of roots of a quadratic equation.
 
-(1) Setting $h=15$ gives $20t-5t^2=15$; rearranging gives $t^2-4t+3=0$, i.e. $\left(t-1\right)\left(t-3\right)=0$, solving gives $t=1$ or $t=3$. Hence it can reach $15\ \text{m}$, at flight times $1\ \text{s}$ and $3\ \text{s}$ respectively.
+(1) Setting $h=15$ gives $20t-5t^2=15$; rearranging gives $t^2-4t+3=0$, i.e. $\left(t-1\right)\left(t-3\right)=0$, solving gives $t=1$ or $t=3$. Hence it can reach $15\,\text{m}$, at flight times $1\,\text{s}$ and $3\,\text{s}$ respectively.
 
-(2) Setting $h=20.5$ gives $20t-5t^2=20.5$; rearranging gives $t^2-4t+4.1=0$, whose discriminant is $\Delta=16-16.4=-0.4< 0$, so the equation has no real root. Hence the ball cannot reach $20.5\ \text{m}$.
+(2) Setting $h=20.5$ gives $20t-5t^2=20.5$; rearranging gives $t^2-4t+4.1=0$, whose discriminant is $\Delta=16-16.4=-0.4<0$, so the equation has no real root. Hence the ball cannot reach $20.5\,\text{m}$.
 
-(3) On landing, $h=0$, giving $20t-5t^2=0$, i.e. $5t\left(4-t\right)=0$, solving gives $t=0$ (at launch) or $t=4$. Hence it takes $4\ \text{s}$ from launch to landing. $\blacksquare$
+(3) On landing, $h=0$, giving $20t-5t^2=0$, i.e. $5t\left(4-t\right)=0$, solving gives $t=0$ (at launch) or $t=4$. Hence it takes $4\,\text{s}$ from launch to landing. $\blacksquare$
 
 ## Exercise 2
 
@@ -246,25 +246,25 @@ By Relation Between a Quadratic Function and a Quadratic Equation, use the quadr
 
 Use Relation Between a Quadratic Function and a Quadratic Equation and the discriminant $\Delta=b^2-4ac$ to decide.
 
-(1) $\Delta=\left(-6\right)^2-4\cdot3\cdot9=36-108=-72< 0$; the equation $3x^2-6x+9=0$ has no real root, so the graph has no common point with the $x$-axis.
+(1) $\Delta=\left(-6\right)^2-4\cdot3\cdot9=36-108=-72<0$; the equation $3x^2-6x+9=0$ has no real root, so the graph has no common point with the $x$-axis.
 
-(2) $\Delta=\left(-4\right)^2-4\cdot2\cdot\left(-6\right)=16+48=64> 0$; the graph has two common points with the $x$-axis. By the quadratic formula, $x=\frac{4\pm8}{4}$, i.e. $x=3$ or $x=-1$; the common points are $\left(3,0\right)$ and $\left(-1,0\right)$. $\blacksquare$
+(2) $\Delta=\left(-4\right)^2-4\cdot2\cdot\left(-6\right)=16+48=64>0$; the graph has two common points with the $x$-axis. By the quadratic formula, $x=\frac{4\pm8}{4}$, i.e. $x=3$ or $x=-1$; the common points are $\left(3,0\right)$ and $\left(-1,0\right)$. $\blacksquare$
 
 ## Problem 11
 
-(Exercise 26.3, Comprehensive Application, Problem 4) A car accelerates over a period of time; the function expression for the distance traveled $l$ (in $\text{m}$) in terms of time $t$ (in $\text{s}$) is measured to be $l=9t+\frac12t^2$. How far has the car traveled after $10\ \text{s}$? How long does it take to travel $180\ \text{m}$?
+(Exercise 26.3, Comprehensive Application, Problem 4) A car accelerates over a period of time; the function expression for the distance traveled $l$ (in $\text{m}$) in terms of time $t$ (in $\text{s}$) is measured to be $l=9t+\frac12t^2$. How far has the car traveled after $10\,\text{s}$? How long does it take to travel $180\,\text{m}$?
 
 ### Solution to Problem 11
 
-Substituting $t=10$ gives $l=9\times10+\frac12\times100=90+50=140\ \text{m}$. Hence after $10\ \text{s}$ the car has traveled $140\ \text{m}$.
+Substituting $t=10$ gives $l=9\times10+\frac12\times100=90+50=140\,\text{m}$. Hence after $10\,\text{s}$ the car has traveled $140\,\text{m}$.
 
-To travel $180\ \text{m}$, set $l=180$, giving $9t+\frac12t^2=180$, i.e. $t^2+18t-360=0$. By the quadratic formula,
+To travel $180\,\text{m}$, set $l=180$, giving $9t+\frac12t^2=180$, i.e. $t^2+18t-360=0$. By the quadratic formula,
 
 $$
 t=\frac{-18\pm\sqrt{18^2+4\times360}}2=\frac{-18\pm42}2,
 $$
 
-taking the positive root $t=12$. Hence it takes $12\ \text{s}$ to travel $180\ \text{m}$. $\blacksquare$
+taking the positive root $t=12$. Hence it takes $12\,\text{s}$ to travel $180\,\text{m}$. $\blacksquare$
 
 ## Problem 12
 
@@ -284,13 +284,13 @@ Factoring, $y=x^2-2x-3=\left(x-3\right)\left(x+1\right)$; the parabola opens upw
 
 (1) By Relation Between a Quadratic Function and a Quadratic Equation, the roots are the horizontal coordinates of the common points with the $x$-axis, namely $x_1=-1$, $x_2=3$.
 
-(2) The parabola opens upward; the part above the $x$-axis corresponds to function values greater than $0$, i.e. $x< -1$ or $x> 3$.
+(2) The parabola opens upward; the part above the $x$-axis corresponds to function values greater than $0$, i.e. $x<-1$ or $x>3$.
 
-(3) The part below the $x$-axis corresponds to function values less than $0$, i.e. $-1< x< 3$. $\blacksquare$
+(3) The part below the $x$-axis corresponds to function values less than $0$, i.e. $-1<{}x<3$. $\blacksquare$
 
 ## Problem 13
 
-(Exercise 26.3, Extension and Exploration, Problem 6) If $a> 0$, where is the vertex of the parabola $y=ax^2+bx+c$ in the following cases?
+(Exercise 26.3, Extension and Exploration, Problem 6) If $a>0$, where is the vertex of the parabola $y=ax^2+bx+c$ in the following cases?
 
 (1) The equation $ax^2+bx+c=0$ has two unequal real roots;
 
@@ -298,13 +298,13 @@ Factoring, $y=x^2-2x-3=\left(x-3\right)\left(x+1\right)$; the parabola opens upw
 
 (3) The equation $ax^2+bx+c=0$ has no real root.
 
-What if $a< 0$?
+What if $a<0$?
 
 ### Solution to Problem 13
 
 By Relation Between a Quadratic Function and a Quadratic Equation, the number of common points with the $x$-axis corresponds to the nature of the roots; the vertex's vertical coordinate is $\frac{4ac-b^2}{4a}$.
 
-When $a> 0$, the parabola opens upward:
+When $a>0$, the parabola opens upward:
 
 (1) Two unequal real roots, i.e. two common points with the $x$-axis; the vertex lies below the $x$-axis;
 
@@ -312,31 +312,31 @@ When $a> 0$, the parabola opens upward:
 
 (3) No real root, i.e. no common point with the $x$-axis; the vertex lies above the $x$-axis.
 
-When $a< 0$, the parabola opens downward, and the conclusions are reversed: (1) vertex above the $x$-axis; (2) vertex on the $x$-axis; (3) vertex below the $x$-axis. $\blacksquare$
+When $a<0$, the parabola opens downward, and the conclusions are reversed: (1) vertex above the $x$-axis; (2) vertex on the $x$-axis; (3) vertex below the $x$-axis. $\blacksquare$
 
 ## Exercise 3
 
-(Exercise 26.4, Problem 1) If the wall in Example 2 is $8\ \text{m}$ long, how should the fence be arranged to maximize the area of the rectangular vegetable garden? What is the maximum area?
+(Exercise 26.4, Problem 1) If the wall in Example 2 is $8\,\text{m}$ long, how should the fence be arranged to maximize the area of the rectangular vegetable garden? What is the maximum area?
 
 ### Solution to Exercise 3
 
-Let the side perpendicular to the wall be $x\ \text{m}$; then the side parallel to the wall is $\left(20-2x\right)\ \text{m}$. The area is $S=x\left(20-2x\right)=-2x^2+20x$. The wall is $8\ \text{m}$ long, so $20-2x\le8$, i.e. $x\ge6$; also $x> 0$, hence $x\ge6$.
+Let the side perpendicular to the wall be $x\,\text{m}$; then the side parallel to the wall is $\left(20-2x\right)\,\text{m}$. The area is $S=x\left(20-2x\right)=-2x^2+20x$. The wall is $8\,\text{m}$ long, so $20-2x\le8$, i.e. $x\ge6$; also $x>0$, hence $x\ge6$.
 
-By The Parabola $y=ax^2+bx+c$, this parabola opens downward, with vertex at $x=-\frac{20}{2\left(-2\right)}=5$; since $x\ge6$ lies to the right of the vertex, $S$ decreases as $x$ increases. Hence $S$ is maximized when $x=6$; the side parallel to the wall is $20-12=8\ \text{m}$, and the maximum area is $S=6\times8=48\ \text{m}^2$. $\blacksquare$
+By The Parabola $y=ax^2+bx+c$, this parabola opens downward, with vertex at $x=-\frac{20}{2\left(-2\right)}=5$; since $x\ge6$ lies to the right of the vertex, $S$ decreases as $x$ increases. Hence $S$ is maximized when $x=6$; the side parallel to the wall is $20-12=8\,\text{m}$, and the maximum area is $S=6\times8=48\,\text{m}^2$. $\blacksquare$
 
 ## Exercise 4
 
-(Exercise 26.4, Problem 2) A ball is thrown vertically upward from the ground; its height $h$ (in $\text{m}$) and time of motion $t$ (in $\text{s}$) are approximately related by $h=30t-5t^2\ \left(0\le t\le6\right)$. At what time is the ball highest? What is the maximum height?
+(Exercise 26.4, Problem 2) A ball is thrown vertically upward from the ground; its height $h$ (in $\text{m}$) and time of motion $t$ (in $\text{s}$) are approximately related by $h=30t-5t^2\,\left(0\le{t}\le6\right)$. At what time is the ball highest? What is the maximum height?
 
 ### Solution to Exercise 4
 
-By The Parabola $y=ax^2+bx+c$, $a=-5< 0$, opens downward; the maximum is taken at $t=-\frac{30}{2\left(-5\right)}=3$, at which
+By The Parabola $y=ax^2+bx+c$, $a=-5<0$, opens downward; the maximum is taken at $t=-\frac{30}{2\left(-5\right)}=3$, at which
 
 $$
-h_{\max}=30\times3-5\times9=90-45=45\ \text{m}.
+h_{\max}=30\times3-5\times9=90-45=45\,\text{m}.
 $$
 
-Hence the ball is highest at $3\ \text{s}$, with maximum height $45\ \text{m}$. $\blacksquare$
+Hence the ball is highest at $3\,\text{s}$, with maximum height $45\,\text{m}$. $\blacksquare$
 
 ## Exercise 5
 
@@ -350,10 +350,10 @@ $$
 y=\left(20+x\right)\left(2100-30x\right)=-30x^2+1500x+42000.
 $$
 
-By The Parabola $y=ax^2+bx+c$, $a=-30< 0$; the maximum is taken at $x=-\frac{1500}{2\left(-30\right)}=25$. The group size is then $20+25=45$, and the maximum revenue is
+By The Parabola $y=ax^2+bx+c$, $a=-30<0$; the maximum is taken at $x=-\frac{1500}{2\left(-30\right)}=25$. The group size is then $20+25=45$, and the maximum revenue is
 
 $$
-y=-30\times25^2+1500\times25+42000=60750\ \text{元}.
+y=-30\times25^2+1500\times25+42000=60750\,\text{元}.
 $$
 
 Hence revenue is maximized at group size $45$, with maximum $60750$ yuan. $\blacksquare$
@@ -364,23 +364,23 @@ Hence revenue is maximized at group size $45$, with maximum $60750$ yuan. $\blac
 
 ### Solution to Exercise 6
 
-Let the output be $x$ units; then the actual unit price is $\left(50-\frac x8\right)$ yuan. Profit equals revenue minus cost:
+Let the output be $x$ units; then the actual unit price is $\left(50-\frac{x}8\right)$ yuan. Profit equals revenue minus cost:
 
 $$
-y=x\left(50-\frac x8\right)-\left(500+10x\right)=40x-\frac18x^2-500.
+y=x\left(50-\frac{x}8\right)-\left(500+10x\right)=40x-\frac18x^2-500.
 $$
 
-By The Parabola $y=ax^2+bx+c$, $a=-\frac18< 0$; the maximum is taken at $x=-\frac{40}{2\left(-1/8\right)}=160$, at which
+By The Parabola $y=ax^2+bx+c$, $a=-\frac18<0$; the maximum is taken at $x=-\frac{40}{2\left(-1/8\right)}=160$, at which
 
 $$
-y=40\times160-\frac{160^2}{8}-500=6400-3200-500=2700\ \text{元}.
+y=40\times160-\frac{160^2}{8}-500=6400-3200-500=2700\,\text{元}.
 $$
 
 Hence profit is maximized at output $160$ units, with maximum profit $2700$ yuan. $\blacksquare$
 
 ## Exercise 7
 
-(Exercise 26.4, Problem 5) In a shot, the basketball's path is part of the parabola $y=-\frac15x^2+3.85$. The hoop is $3.05\ \text{m}$ high, and the player's release point is $3.2\ \text{m}$ to the left of the axis of symmetry. If the ball goes through the hoop, find the horizontal distance $l$ from the player to the point directly below the hoop.
+(Exercise 26.4, Problem 5) In a shot, the basketball's path is part of the parabola $y=-\frac15x^2+3.85$. The hoop is $3.05\,\text{m}$ high, and the player's release point is $3.2\,\text{m}$ to the left of the axis of symmetry. If the ball goes through the hoop, find the horizontal distance $l$ from the player to the point directly below the hoop.
 
 ### Solution to Exercise 7
 
@@ -390,21 +390,21 @@ $$
 3.05=-\frac15x^2+3.85.
 $$
 
-i.e. $\frac15x^2=0.8$, $x^2=4$; taking the hoop on the right side of the axis, $x=2$. The release point is $3.2\ \text{m}$ to the left of the axis, i.e. $x=-3.2$. Hence the horizontal distance from the player to the point below the hoop is
+i.e. $\frac15x^2=0.8$, $x^2=4$; taking the hoop on the right side of the axis, $x=2$. The release point is $3.2\,\text{m}$ to the left of the axis, i.e. $x=-3.2$. Hence the horizontal distance from the player to the point below the hoop is
 
 $$
-l=2-\left(-3.2\right)=5.2\ \text{m}. \blacksquare
+l=2-\left(-3.2\right)=5.2\,\text{m}.\blacksquare
 $$
 
 ## Exercise 8
 
-(Exercise 26.4, Problem 6) For the arch-bridge problem, after heavy rain the water level rises $1\ \text{m}$. A small boat is $4\ \text{m}$ wide; its cabin top is rectangular and extends $2\ \text{m}$ above the water. Can this boat pass under the arch?
+(Exercise 26.4, Problem 6) For the arch-bridge problem, after heavy rain the water level rises $1\,\text{m}$. A small boat is $4\,\text{m}$ wide; its cabin top is rectangular and extends $2\,\text{m}$ above the water. Can this boat pass under the arch?
 
 ### Solution to Exercise 8
 
-The arch parabola is $y=-\frac4{25}x^2$. After the water rises $1\ \text{m}$, the water surface is at vertical coordinate $-3$; the boat top is $2\ \text{m}$ above the water, so the boat top is at $-3+2=-1$.
+The arch parabola is $y=-\frac4{25}x^2$. After the water rises $1\,\text{m}$, the water surface is at vertical coordinate $-3$; the boat top is $2\,\text{m}$ above the water, so the boat top is at $-3+2=-1$.
 
-The boat is $4\ \text{m}$ wide, so its edges are at $x=\pm2$. The arch at $x=2$ has vertical coordinate $y=-\frac4{25}\times4=-\frac{16}{25}=-0.64$. Since $-0.64> -1$, the arch is above the boat top, leaving $0.36\ \text{m}$ clearance. Hence the boat can pass under the arch. $\blacksquare$
+The boat is $4\,\text{m}$ wide, so its edges are at $x=\pm2$. The arch at $x=2$ has vertical coordinate $y=-\frac4{25}\times4=-\frac{16}{25}=-0.64$. Since $-0.64>-1$, the arch is above the boat top, leaving $0.36\,\text{m}$ clearance. Hence the boat can pass under the arch. $\blacksquare$
 
 ## Problem 14
 
@@ -412,13 +412,13 @@ The boat is $4\ \text{m}$ wide, so its edges are at $x=\pm2$. The arch at $x=2$ 
 
 ### Solution to Problem 14
 
-By The Parabola $y=ax^2+bx+c$, $a=-5< 0$; the maximum is taken at $t=-\frac{3.6}{2\left(-5\right)}=0.36$,
+By The Parabola $y=ax^2+bx+c$, $a=-5<0$; the maximum is taken at $t=-\frac{3.6}{2\left(-5\right)}=0.36$,
 
 $$
-y_{\max}=-5\times0.36^2+3.6\times0.36=0.648\ \text{m}.
+y_{\max}=-5\times0.36^2+3.6\times0.36=0.648\,\text{m}.
 $$
 
-Hence at the highest point his feet are $0.648\ \text{m}$ off the ground. $\blacksquare$
+Hence at the highest point his feet are $0.648\,\text{m}$ off the ground. $\blacksquare$
 
 ## Problem 15
 
@@ -426,13 +426,13 @@ Hence at the highest point his feet are $0.648\ \text{m}$ off the ground. $\blac
 
 ### Solution to Problem 15
 
-The car stops when its velocity is zero, i.e. when the distance reaches its maximum, corresponding to the vertex of the parabola. By The Parabola $y=ax^2+bx+c$, $a=-6< 0$; the maximum is taken at $t=-\frac{15}{2\left(-6\right)}=1.25$,
+The car stops when its velocity is zero, i.e. when the distance reaches its maximum, corresponding to the vertex of the parabola. By The Parabola $y=ax^2+bx+c$, $a=-6<0$; the maximum is taken at $t=-\frac{15}{2\left(-6\right)}=1.25$,
 
 $$
-l_{\max}=15\times1.25-6\times1.25^2=9.375\ \text{m}.
+l_{\max}=15\times1.25-6\times1.25^2=9.375\,\text{m}.
 $$
 
-Hence the car travels $9.375\ \text{m}$ after braking. $\blacksquare$
+Hence the car travels $9.375\,\text{m}$ after braking. $\blacksquare$
 
 ## Problem 16
 
@@ -440,13 +440,13 @@ Hence the car travels $9.375\ \text{m}$ after braking. $\blacksquare$
 
 ### Solution to Problem 16
 
-By The Parabola $y=ax^2+bx+c$, $a=-5< 0$; the maximum is taken at $t=\frac{39}{10}=3.9\ \text{s}$,
+By The Parabola $y=ax^2+bx+c$, $a=-5<0$; the maximum is taken at $t=\frac{39}{10}=3.9\,\text{s}$,
 
 $$
-h_{\max}=39\times3.9-5\times3.9^2=76.05\ \text{m}.
+h_{\max}=39\times3.9-5\times3.9^2=76.05\,\text{m}.
 $$
 
-Hence it detonates at its highest point $3.9\ \text{s}$ after being lit, with maximum height $76.05\ \text{m}$. $\blacksquare$
+Hence it detonates at its highest point $3.9\,\text{s}$ after being lit, with maximum height $76.05\,\text{m}$. $\blacksquare$
 
 ## Problem 17
 
@@ -454,10 +454,10 @@ Hence it detonates at its highest point $3.9\ \text{s}$ after being lit, with ma
 
 ### Solution to Problem 17
 
-One side is $x$ and the adjacent side is $\frac l2-x$; the area is
+One side is $x$ and the adjacent side is $\frac{l}2-x$; the area is
 
 $$
-S=x\left(\frac l2-x\right)=-x^2+\frac l2x.
+S=x\left(\frac{l}2-x\right)=-x^2+\frac{l}2x.
 $$
 
-By The Parabola $y=ax^2+bx+c$, $a=-1< 0$; the maximum is taken at $x=\frac l4$, with $S_{\max}=\frac l4\cdot\frac l4=\frac{l^2}{16}$. The adjacent side is then also $\frac l4$, so the field is a square. $\blacksquare$
+By The Parabola $y=ax^2+bx+c$, $a=-1<0$; the maximum is taken at $x=\frac{l}4$, with $S_{\max}=\frac{l}4\cdot\frac{l}4=\frac{l^2}{16}$. The adjacent side is then also $\frac{l}4$, so the field is a square. $\blacksquare$

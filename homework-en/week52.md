@@ -14,11 +14,11 @@
 
 > **Definition 23.1.1 (Linear Function)**
 > 
-> Generally, a function of the form $y=kx+b$ ($k$, $b$ are constants, $k \neq 0$) is called a linear function, where $x$ is the independent variable.
+> Generally, a function of the form $y=kx+b$ ($k$, $b$ are constants, $k\neq0$) is called a linear function, where $x$ is the independent variable.
 
 > **Conclusion 23.2.2 (Graph and Properties of the Linear Function)**
 > 
-> The graph of the linear function $y=kx+b$ ($k$ and $b$ are constants, $k \neq 0$) is a straight line, obtained by translating the line $y=kx$ by $\left|b\right|$ units of length ($b> 0$ upward, $b< 0$ downward). When $k> 0$, $y$ increases as $x$ increases; when $k< 0$, $y$ decreases as $x$ increases.
+> The graph of the linear function $y=kx+b$ ($k$ and $b$ are constants, $k\neq0$) is a straight line, obtained by translating the line $y=kx$ by $\left|b\right|$ units of length ($b>0$ upward, $b<0$ downward). When $k>0$, $y$ increases as $x$ increases; when $k<0$, $y$ decreases as $x$ increases.
 
 > **Conclusion 23.3.1 (Linear Functions and Linear Equations in One Variable)**
 > 
@@ -26,7 +26,7 @@
 
 > **Conclusion 23.3.2 (Linear Functions and Linear Inequalities in One Variable)**
 > 
-> The solution set of the inequality $kx+b> 0$ is the range of values of the independent variable $x$ for which the value of the linear function $y=kx+b$ is greater than $0$; on the graph it corresponds to the part of the line $y=kx+b$ lying above the $x$-axis.
+> The solution set of the inequality $kx+b>0$ is the range of values of the independent variable $x$ for which the value of the linear function $y=kx+b$ is greater than $0$; on the graph it corresponds to the part of the line $y=kx+b$ lying above the $x$-axis.
 
 > **Conclusion 23.3.3 (Linear Functions and Systems of Linear Equations in Two Variables)**
 > 
@@ -54,17 +54,17 @@ By Linear Functions and Systems of Linear Equations in Two Variables, the coordi
 
 (Exercise 23.3, Comprehensive Application, Problem 4) Two engineering teams, A and B, simultaneously dig two sections of a river channel. The relationship between the length $y$ (in m) dug and the digging time $x$ (in h) is shown in the figure.
 
-(1) Find the function expressions for $y$ in terms of $x$: for Team A over the interval $0 \leq x \leq 6$, and for Team B over the interval $2 \leq x \leq 6$;
+(1) Find the function expressions for $y$ in terms of $x$: for Team A over the interval $0\leq{x}\leq6$, and for Team B over the interval $2\leq{x}\leq6$;
 
 (2) For what value of $x$ are the lengths dug by Teams A and B equal during construction?
 
 ### Solution to Problem 2
 
-(1) Team A passes through $\left(0, 0\right)$ and $\left(6, 60\right)$, so $y=10x$ ($0 \leq x \leq 6$).
+(1) Team A passes through $\left(0,0\right)$ and $\left(6,60\right)$, so $y=10x$ ($0\leq{x}\leq6$).
 
-Over the interval $2 \leq x \leq 6$, Team B passes through $\left(2, 0\right)$ and $\left(6, 50\right)$; by the method of undetermined coefficients, $k=\frac{50-0}{6-2}=12.5$, $b=0-12.5\times2=-25$, so $y=12.5x-25$.
+Over the interval $2\leq{x}\leq6$, Team B passes through $\left(2,0\right)$ and $\left(6,50\right)$; by the method of undetermined coefficients, $k=\frac{50-0}{6-2}=12.5$, $b=0-12.5\times2=-25$, so $y=12.5x-25$.
 
-(2) By Linear Functions and Systems of Linear Equations in Two Variables, the lengths dug by the two teams being equal means $10x=12.5x-25$, giving $x=10$. But $x \leq 6$, so within the range shown the lengths are not equal. If we take the intersection of the graphs to be near $x=4$, then $10\times4=40$ and $12.5\times4-25=25$, which are not equal. Actually, from the figure the intersection is at $x=4, y=30$, so the lengths dug by the two teams are equal when $x=4$. $\blacksquare$
+(2) By Linear Functions and Systems of Linear Equations in Two Variables, the lengths dug by the two teams being equal means $10x=12.5x-25$, giving $x=10$. But $x\leq6$, so within the range shown the lengths are not equal. If we take the intersection of the graphs to be near $x=4$, then $10\times4=40$ and $12.5\times4-25=25$, which are not equal. Actually, from the figure the intersection is at $x=4,y=30$, so the lengths dug by the two teams are equal when $x=4$. $\blacksquare$
 
 ## Problem 3
 
@@ -76,7 +76,7 @@ The figure shows two straight lines in one plane rectangular coordinate system: 
 
 Setting $y_1=y_2$, i.e. $-\frac{1}{2}x+2=3x+9$, gives $x=-2$.
 
-When $x< -2$, $y_1> y_2$; when $x=-2$, $y_1=y_2$; when $x> -2$, $y_1< y_2$. $\blacksquare$
+When $x<-2$, $y_1>{}y_2$; when $x=-2$, $y_1=y_2$; when $x>-2$, $y_1<{}y_2$. $\blacksquare$
 
 ## Exercise 1
 
@@ -86,17 +86,17 @@ When $x< -2$, $y_1> y_2$; when $x=-2$, $y_1=y_2$; when $x> -2$, $y_1< y_2$. $\bl
 
 By Building a Linear Function Model, discuss interval by interval.
 
-When $0 \leq t \leq 2$, $T=20$.
+When $0\leq{t}\leq2$, $T=20$.
 
-When $2 < t \leq 4$, $T=20+5\left(t-2\right)=5t+10$.
+When $2<{}t\leq4$, $T=20+5\left(t-2\right)=5t+10$.
 
-The figure shows a plane rectangular coordinate system with horizontal axis time $t$ (unit: h) and vertical axis temperature $T$ (unit: $^\circ\text{C}$); the graph consists of two pieces: for $0\leq t\leq2$ a horizontal segment at height $20^\circ\text{C}$, and for $2< t\leq4$ a segment rising from $\left(2,20\right)$ to $\left(4,30\right)$.
+The figure shows a plane rectangular coordinate system with horizontal axis time $t$ (unit: h) and vertical axis temperature $T$ (unit: $^\circ\text{C}$); the graph consists of two pieces: for $0\leq{t}\leq2$ a horizontal segment at height $20^\circ\text{C}$, and for $2<{}t\leq4$ a segment rising from $\left(2,20\right)$ to $\left(4,30\right)$.
 
 $\blacksquare$
 
 ## Exercise 2
 
-(Exercise 23.4, Problem 2) A city taxi charges as follows: a fare of $9$ yuan for a distance not exceeding $3\ \text{km}$, plus $2$ yuan per kilometer for the portion beyond $3\ \text{km}$. Let the passenger's distance be $x$ ($x> 3$) $\text{km}$, and the fare be $y$ yuan.
+(Exercise 23.4, Problem 2) A city taxi charges as follows: a fare of $9$ yuan for a distance not exceeding $3\,\text{km}$, plus $2$ yuan per kilometer for the portion beyond $3\,\text{km}$. Let the passenger's distance be $x$ ($x>3$) $\text{km}$, and the fare be $y$ yuan.
 
 (1) Find the function expression for $y$ in terms of $x$;
 
@@ -104,9 +104,9 @@ $\blacksquare$
 
 ### Solution to Exercise 2
 
-(1) The portion beyond $3\ \text{km}$ is $\left(x-3\right)\ \text{km}$, costing $2\left(x-3\right)$ yuan; adding the base fare of $9$ yuan gives $y=9+2\left(x-3\right)=2x+3$ ($x> 3$).
+(1) The portion beyond $3\,\text{km}$ is $\left(x-3\right)\,\text{km}$, costing $2\left(x-3\right)$ yuan; adding the base fare of $9$ yuan gives $y=9+2\left(x-3\right)=2x+3$ ($x>3$).
 
-(2) When $y=23$, $23=2x+3$, so $x=10$. Hence the travel distance is $10\ \text{km}$. $\blacksquare$
+(2) When $y=23$, $23=2x+3$, so $x=10$. Hence the travel distance is $10\,\text{km}$. $\blacksquare$
 
 ## Exercise 3
 
@@ -122,7 +122,7 @@ $\blacksquare$
 
 (2) By Choosing a Plan, compare the two function values. Setting $y_1=y_2$, i.e. $1500+x=2.5x$, gives $x=1000$.
 
-When $x< 1000$, $y_1> y_2$, so Printer B is the better choice; when $x=1000$, the two printers cost the same; when $x> 1000$, $y_1< y_2$, so Printer A is the better choice. $\blacksquare$
+When $x<1000$, $y_1>{}y_2$, so Printer B is the better choice; when $x=1000$, the two printers cost the same; when $x>1000$, $y_1<{}y_2$, so Printer A is the better choice. $\blacksquare$
 
 ## Exercise 4
 
@@ -130,11 +130,11 @@ When $x< 1000$, $y_1> y_2$, so Printer B is the better choice; when $x=1000$, th
 
 ### Solution to Exercise 4
 
-Let $x$ be the number of model $A$ calculators bought; then $\left(100-x\right)$ model $B$ are bought. Budget constraint: $22x+19\left(100-x\right) \leq 2000$, i.e. $3x \leq 100$, $x \leq 33$.
+Let $x$ be the number of model $A$ calculators bought; then $\left(100-x\right)$ model $B$ are bought. Budget constraint: $22x+19\left(100-x\right)\leq2000$, i.e. $3x\leq100$, $x\leq33$.
 
 Profit: $W=\left(32-22\right)x+\left(25-19\right)\left(100-x\right)=10x+6\left(100-x\right)=4x+600$.
 
-By Choosing a Plan, $W=4x+600$, with $k=4> 0$, so $W$ increases as $x$ increases. Thus profit is maximized at $x=33$, with $W=4\times33+600=732$ yuan.
+By Choosing a Plan, $W=4x+600$, with $k=4>0$, so $W$ increases as $x$ increases. Thus profit is maximized at $x=33$, with $W=4\times33+600=732$ yuan.
 
 Purchasing plan: $33$ model $A$ and $67$ model $B$, with maximum profit $732$ yuan. $\blacksquare$
 
@@ -144,17 +144,17 @@ Purchasing plan: $33$ model $A$ and $67$ model $B$, with maximum profit $732$ yu
 
 ### Solution to Problem 4
 
-Let the monthly income be $y=kx+b$. Substituting $\left(100, 2800\right)$ and $\left(200, 3400\right)$ gives $k=6$, $b=2200$. Hence $y=6x+2200$.
+Let the monthly income be $y=kx+b$. Substituting $\left(100,2800\right)$ and $\left(200,3400\right)$ gives $k=6$, $b=2200$. Hence $y=6x+2200$.
 
 When $y=4600$, $4600=6x+2200$, so $x=400$. Hence $400$ items are sold. $\blacksquare$
 
 ## Problem 5
 
-(Exercise 23.4, Review and Consolidation, Problem 2) A clothing brand runs a promotion: clothing originally priced at $80$ yuan per piece; if more than $3$ pieces are bought, the portion beyond that gets a 20% discount. Find the function expression for the amount $y$ (in yuan) paid by a customer in terms of the number $x$ ($x> 3$, in pieces) of garments bought.
+(Exercise 23.4, Review and Consolidation, Problem 2) A clothing brand runs a promotion: clothing originally priced at $80$ yuan per piece; if more than $3$ pieces are bought, the portion beyond that gets a 20% discount. Find the function expression for the amount $y$ (in yuan) paid by a customer in terms of the number $x$ ($x>3$, in pieces) of garments bought.
 
 ### Solution to Problem 5
 
-The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\right)$ pieces beyond $3$ are at a 20% discount, i.e. $64$ yuan. Hence $y=3\times80+64\left(x-3\right)=64x+48$ ($x> 3$). $\blacksquare$
+The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\right)$ pieces beyond $3$ are at a 20% discount, i.e. $64$ yuan. Hence $y=3\times80+64\left(x-3\right)=64x+48$ ($x>3$). $\blacksquare$
 
 ## Problem 6
 
@@ -172,7 +172,7 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 ## Problem 7
 
-(Exercise 23.4, Review and Consolidation, Problem 4) To encourage residents to save electricity, a city uses a tiered electricity price. When monthly consumption does not exceed $240\ \text{kW·h}$, it is charged at $0.45$ yuan/($\text{kW·h}$); when consumption exceeds $240\ \text{kW·h}$, the excess is charged at $0.55$ yuan/($\text{kW·h}$). Let a household's monthly consumption be $x\ \text{kW·h}$ and the payable electricity bill be $y$ yuan.
+(Exercise 23.4, Review and Consolidation, Problem 4) To encourage residents to save electricity, a city uses a tiered electricity price. When monthly consumption does not exceed $240\,\text{kW·h}$, it is charged at $0.45$ yuan/($\text{kW·h}$); when consumption exceeds $240\,\text{kW·h}$, the excess is charged at $0.55$ yuan/($\text{kW·h}$). Let a household's monthly consumption be $x\,\text{kW·h}$ and the payable electricity bill be $y$ yuan.
 
 (1) Write the function expression for $y$ in terms of $x$;
 
@@ -180,9 +180,9 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 ### Solution to Problem 7
 
-(1) When $0 \leq x \leq 240$, $y=0.45x$. When $x> 240$, $y=0.45\times240+0.55\left(x-240\right)=0.55x-24$.
+(1) When $0\leq{x}\leq240$, $y=0.45x$. When $x>240$, $y=0.45\times240+0.55\left(x-240\right)=0.55x-24$.
 
-(2) When $x=240$, $y=0.45\times240=108$ yuan. Since $141> 108$, we have $x> 240$. Setting $141=0.55x-24$ gives $x=300$. Hence the consumption is $300\ \text{kW·h}$. $\blacksquare$
+(2) When $x=240$, $y=0.45\times240=108$ yuan. Since $141>108$, we have $x>240$. Setting $141=0.55x-24$ gives $x=300$. Hence the consumption is $300\,\text{kW·h}$. $\blacksquare$
 
 ## Problem 8
 
@@ -216,9 +216,9 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 ### Solution to Problem 9
 
-(1) Store A: $y_1=0.8x$. Store B: when $0 \leq x \leq 200$, $y_2=x$; when $x> 200$, $y_2=200+0.7\left(x-200\right)=0.7x+60$.
+(1) Store A: $y_1=0.8x$. Store B: when $0\leq{x}\leq200$, $y_2=x$; when $x>200$, $y_2=200+0.7\left(x-200\right)=0.7x+60$.
 
-(2) When $0 \leq x \leq 200$, $y_1=0.8x < x=y_2$, so Store A is cheaper. When $x> 200$, setting $0.8x=0.7x+60$ gives $x=600$. When $200< x< 600$, $y_1< y_2$, so choose Store A; when $x=600$, the two stores are the same; when $x> 600$, $y_1> y_2$, so choose Store B. $\blacksquare$
+(2) When $0\leq{x}\leq200$, $y_1=0.8x<{}x=y_2$, so Store A is cheaper. When $x>200$, setting $0.8x=0.7x+60$ gives $x=600$. When $200<{}x<600$, $y_1<{}y_2$, so choose Store A; when $x=600$, the two stores are the same; when $x>600$, $y_1>{}y_2$, so choose Store B. $\blacksquare$
 
 ## Problem 10
 
@@ -232,7 +232,7 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 (1) $y_1=2000+2x$, $y_2=6x$.
 
-(2) Setting $y_1=y_2$, i.e. $2000+2x=6x$, gives $x=500$. When $x< 500$, $y_1> y_2$, so choose Plan 1; when $x=500$, the two plans are the same; when $x> 500$, $y_2> y_1$, so choose Plan 2. $\blacksquare$
+(2) Setting $y_1=y_2$, i.e. $2000+2x=6x$, gives $x=500$. When $x<500$, $y_1>{}y_2$, so choose Plan 1; when $x=500$, the two plans are the same; when $x>500$, $y_2>{}y_1$, so choose Plan 2. $\blacksquare$
 
 ## Problem 11
 
@@ -248,23 +248,23 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 (5) What was Liu Wei's average speed on the way home?
 
-(6) How far was Liu Wei from home at $14{:}30$? On the way home, when was he $6\ \text{km}$ from home?
+(6) How far was Liu Wei from home at $14{:}30$? On the way home, when was he $6\,\text{km}$ from home?
 
 ### Solution to Problem 11
 
 From the graph:
 
-(1) At $12{:}30$ Liu Wei was farthest from home, at $45\ \text{km}$.
+(1) At $12{:}30$ Liu Wei was farthest from home, at $45\,\text{km}$.
 
-(2) He started his first rest at $10{:}30$ and rested until $11{:}00$, totaling $30\ \text{min}$; he was $18\ \text{km}$ from home then.
+(2) He started his first rest at $10{:}30$ and rested until $11{:}00$, totaling $30\,\text{min}$; he was $18\,\text{km}$ from home then.
 
-(3) At $11{:}00$ he was $18\ \text{km}$ from home, and at $12{:}30$ he was $45\ \text{km}$ from home, so he cycled $45-18=27\ \text{km}$.
+(3) At $11{:}00$ he was $18\,\text{km}$ from home, and at $12{:}30$ he was $45\,\text{km}$ from home, so he cycled $45-18=27\,\text{km}$.
 
-(4) $9{:}00$—$10{:}30$ took $1.5\ \text{h}$, during which he cycled $18\ \text{km}$, average speed $12\ \text{km/h}$. $10{:}30$—$12{:}30$ took $2\ \text{h}$, of which $0.5\ \text{h}$ was rest and $1.5\ \text{h}$ was cycling $27\ \text{km}$, average speed $18\ \text{km/h}$.
+(4) $9{:}00$—$10{:}30$ took $1.5\,\text{h}$, during which he cycled $18\,\text{km}$, average speed $12\,\text{km/h}$. $10{:}30$—$12{:}30$ took $2\,\text{h}$, of which $0.5\,\text{h}$ was rest and $1.5\,\text{h}$ was cycling $27\,\text{km}$, average speed $18\,\text{km/h}$.
 
-(5) The trip home from $13{:}30$ to $15{:}30$ took $2\ \text{h}$, covering $45\ \text{km}$, average speed $22.5\ \text{km/h}$.
+(5) The trip home from $13{:}30$ to $15{:}30$ took $2\,\text{h}$, covering $45\,\text{km}$, average speed $22.5\,\text{km/h}$.
 
-(6) At $14{:}30$ Liu Wei was $22.5\ \text{km}$ from home. On the way home, when he was $6\ \text{km}$ from home, he had cycled $39\ \text{km}$ from the $45\ \text{km}$ point, taking $39/22.5=1.73\ \text{h}$, about $1{:}44$, i.e. about $15{:}14$. $\blacksquare$
+(6) At $14{:}30$ Liu Wei was $22.5\,\text{km}$ from home. On the way home, when he was $6\,\text{km}$ from home, he had cycled $39\,\text{km}$ from the $45\,\text{km}$ point, taking $39/22.5=1.73\,\text{h}$, about $1{:}44$, i.e. about $15{:}14$. $\blacksquare$
 
 ## Activity 1
 
@@ -284,13 +284,13 @@ But if two coins are placed on the left end, then $2a=x$. From the experimental 
 
 ## Review Problem 1
 
-(Review, Review and Consolidation, Problem 1) Given that the graph of the direct proportional function $y=kx$ passes through the point $\left(-2, 4\right)$, then $k=\;\_\_\;$, and the graph of this function passes through the $\;\_\_\;$ quadrants.
+(Review, Review and Consolidation, Problem 1) Given that the graph of the direct proportional function $y=kx$ passes through the point $\left(-2,4\right)$, then $k=\;\_\_\;$, and the graph of this function passes through the $\;\_\_\;$ quadrants.
 
 ### Solution to Review Problem 1
 
-Substituting $\left(-2, 4\right)$ into $y=kx$ gives $4=-2k$, so $k=-2$.
+Substituting $\left(-2,4\right)$ into $y=kx$ gives $4=-2k$, so $k=-2$.
 
-By Graph and Properties of the Linear Function, $k=-2< 0$, so the graph passes through the second and fourth quadrants. $\blacksquare$
+By Graph and Properties of the Linear Function, $k=-2<0$, so the graph passes through the second and fourth quadrants. $\blacksquare$
 
 ## Review Problem 2
 
@@ -298,7 +298,7 @@ By Graph and Properties of the Linear Function, $k=-2< 0$, so the graph passes t
 
 ### Solution to Review Problem 2
 
-The graph passing through the origin means $y=0$ when $x=0$, so $m-3=0$, giving $m=3$. Then $2-m=-1 \neq 0$, which satisfies the definition of a linear function. $\blacksquare$
+The graph passing through the origin means $y=0$ when $x=0$, so $m-3=0$, giving $m=3$. Then $2-m=-1\neq0$, which satisfies the definition of a linear function. $\blacksquare$
 
 ## Review Problem 3
 
@@ -306,31 +306,31 @@ The graph passing through the origin means $y=0$ when $x=0$, so $m-3=0$, giving 
 
 ### Solution to Review Problem 3
 
-Setting $y=0$, $2x+4=0$, gives $x=-2$, so the intersection with the $x$-axis is $\left(-2, 0\right)$.
+Setting $y=0$, $2x+4=0$, gives $x=-2$, so the intersection with the $x$-axis is $\left(-2,0\right)$.
 
-Setting $x=0$ gives $y=4$, so the intersection with the $y$-axis is $\left(0, 4\right)$. $\blacksquare$
+Setting $x=0$ gives $y=4$, so the intersection with the $y$-axis is $\left(0,4\right)$. $\blacksquare$
 
 ## Review Problem 4
 
-(Review, Comprehensive Application, Problem 4) Given that the graph of a linear function passes through the points $A\left(1, 3\right)$ and $B\left(2, 5\right)$.
+(Review, Comprehensive Application, Problem 4) Given that the graph of a linear function passes through the points $A\left(1,3\right)$ and $B\left(2,5\right)$.
 
 (1) Find the expression of this linear function;
 
-(2) Determine whether the point $C\left(3, 7\right)$ lies on the graph of this linear function.
+(2) Determine whether the point $C\left(3,7\right)$ lies on the graph of this linear function.
 
 ### Solution to Review Problem 4
 
-(1) Let $y=kx+b$. Substituting $\left(1, 3\right)$ and $\left(2, 5\right)$ gives $k+b=3$, $2k+b=5$. Solving gives $k=2$, $b=1$. Hence $y=2x+1$.
+(1) Let $y=kx+b$. Substituting $\left(1,3\right)$ and $\left(2,5\right)$ gives $k+b=3$, $2k+b=5$. Solving gives $k=2$, $b=1$. Hence $y=2x+1$.
 
 (2) When $x=3$, $y=2\times3+1=7$, which agrees with the y-coordinate of point $C$, so point $C$ lies on the graph. $\blacksquare$
 
 ## Review Problem 5
 
-(Review, Comprehensive Application, Problem 5) The graph of the linear function $y=kx+b$ is shown in the figure. Observing the graph, when $x< 0$ the range of $y$ is $\;\_\_\;$.
+(Review, Comprehensive Application, Problem 5) The graph of the linear function $y=kx+b$ is shown in the figure. Observing the graph, when $x<0$ the range of $y$ is $\;\_\_\;$.
 
 ### Solution to Review Problem 5
 
-From the graph, the line intersects the positive half of the $y$-axis and rises from left to right. When $x=0$, $y=b> 0$; when $x< 0$, $y< b$. Hence the range of $y$ is $y< b$ (i.e. $y$ is less than the y-coordinate of the intersection with the $y$-axis). $\blacksquare$
+From the graph, the line intersects the positive half of the $y$-axis and rises from left to right. When $x=0$, $y=b>0$; when $x<0$, $y<{}b$. Hence the range of $y$ is $y<{}b$ (i.e. $y$ is less than the y-coordinate of the intersection with the $y$-axis). $\blacksquare$
 
 ## Review Problem 6
 
@@ -364,7 +364,7 @@ The four basic elements of a musical tone are as follows:
 
 ### Solution to Activity Preparation 2
 
-The pitch of a musical tone is determined by the vibration frequency of the sound wave. Frequency is the number of vibrations per second of an object, measured in hertz (Hz). The higher the frequency, the higher the sound perceived by the ear; the lower the frequency, the lower the sound. For example, the standard pitch $A$ ($a^1$) has a vibration frequency of $440\ \text{Hz}$. $\blacksquare$
+The pitch of a musical tone is determined by the vibration frequency of the sound wave. Frequency is the number of vibrations per second of an object, measured in hertz (Hz). The higher the frequency, the higher the sound perceived by the ear; the lower the frequency, the lower the sound. For example, the standard pitch $A$ ($a^1$) has a vibration frequency of $440\,\text{Hz}$. $\blacksquare$
 
 (Comprehensive and Practical Activity, Activity Preparation, Problem 3) Learn the relationship between the vibration frequency of a string and its length.
 
@@ -398,7 +398,7 @@ Common point: both methods use the simple integer frequency ratio $3:2$ (a fifth
 
 Taking the subtract-third/add-third method as an example, each "subtract one" means multiplying the string length by $\frac{2}{3}$ (frequency by $\frac{3}{2}$), and each "add one" means multiplying the string length by $\frac{4}{3}$ (frequency by $\frac{3}{4}$). After $12$ subtract-add operations, the final frequency is the initial frequency multiplied by $\left(\frac{3}{2}\right)^n$ or a similar continued product.
 
-From a mathematical point of view, after $12$ fifths the frequency ratio is $\left(\frac{3}{2}\right)^{12}$. To return to the starting pitch (forming an octave), we need $\left(\frac{3}{2}\right)^{12} = 2^k$ ($k$ an integer), i.e. $3^{12} = 2^{12+k}$. But $3^{12}=531441$ and $2^{19}=524288$ are not equal, so $\left(\frac{3}{2}\right)^{12} \approx 129.75 \neq 2^7=128$. This is the problem that "Huangzhong cannot be restored" — after twelve subtract-add operations, the note obtained differs from the starting note by about $23.5$ cents, and an exact octave relationship cannot be formed. $\blacksquare$
+From a mathematical point of view, after $12$ fifths the frequency ratio is $\left(\frac{3}{2}\right)^{12}$. To return to the starting pitch (forming an octave), we need $\left(\frac{3}{2}\right)^{12}=2^k$ ($k$ an integer), i.e. $3^{12}=2^{12+k}$. But $3^{12}=531441$ and $2^{19}=524288$ are not equal, so $\left(\frac{3}{2}\right)^{12}\approx129.75\neq2^7=128$. This is the problem that "Huangzhong cannot be restored" — after twelve subtract-add operations, the note obtained differs from the starting note by about $23.5$ cents, and an exact octave relationship cannot be formed. $\blacksquare$
 
 (Comprehensive and Practical Activity, Activity 1, Task 4) To remedy this shortcoming, Chinese pitch theorists of successive dynasties kept exploring, until the Ming-dynasty theorist Zhu Zaiyu (1536—1611) established twelve-tone equal temperament, after which the above problem was thoroughly and completely solved.
 
@@ -413,13 +413,13 @@ From a mathematical point of view, after $12$ fifths the frequency ratio is $\le
 (2) Let the frequency ratio between two adjacent notes be $r$. One octave contains $12$ semitones, and the frequency ratio between the two ends of an octave is $2$, so
 
 $$
-r^{12} = 2.
+r^{12}=2.
 $$
 
 Solving gives
 
 $$
-r = \sqrt\left[12\right]{2} = 2^{1/12} \approx 1.05946.
+r=\sqrt\left[12\right]{2}=2^{1/12}\approx1.05946.
 $$
 
-That is, in twelve-tone equal temperament the frequency ratio between two adjacent notes is $\sqrt\left[12\right]{2} \approx 1.0595$. $\blacksquare$
+That is, in twelve-tone equal temperament the frequency ratio between two adjacent notes is $\sqrt\left[12\right]{2}\approx1.0595$. $\blacksquare$

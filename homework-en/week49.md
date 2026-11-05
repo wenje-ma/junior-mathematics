@@ -6,7 +6,7 @@
 
 > **Conclusion 21.1.3 (Interior Angle Sum of a Polygon)**
 > 
-> The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
+> The interior angle sum of an \(n\)-gon is \((n-2)\times180^{\circ}\).
 
 > **Property 21.2.1 (Opposite Sides)**
 > 
@@ -56,25 +56,25 @@
 
 (Review Problem, Comprehensive Application, Problem 8)
 
-As shown in the figure, the interior angles of hexagon \(ABCDEF\) are all equal, and \(\angle DAB=60^{\circ}\). What is the positional relation between \(AB\) and \(DE\)? Does \(BC\) have this relation with \(EF\)? Prove your conclusion.
+As shown in the figure, the interior angles of hexagon \(ABCDEF\) are all equal, and \(\angle{D}AB=60^{\circ}\). What is the positional relation between \(AB\) and \(DE\)? Does \(BC\) have this relation with \(EF\)? Prove your conclusion.
 
-Each interior angle of an equiangular hexagon \(=\frac{(6-2)\times 180^{\circ}}{6}=120^{\circ}\).
+Each interior angle of an equiangular hexagon \(=\frac{(6-2)\times180^{\circ}}{6}=120^{\circ}\).
 
-From \(\angle DAB=60^{\circ}\) and each interior angle \(120^{\circ}\), the consecutive interior angles are supplementary, so \(AB\parallel DE\).
+From \(\angle{D}AB=60^{\circ}\) and each interior angle \(120^{\circ}\), the consecutive interior angles are supplementary, so \(AB\parallel{D}E\).
 
-Similarly \(BC\parallel EF\).
+Similarly \(BC\parallel{E}F\).
 
 \(\blacksquare\)
 
 (Review Problem, Comprehensive Application, Problem 9)
 
-As shown in the figure, quadrilateral \(ABCD\) is a parallelogram, \(BE\parallel DF\), and they meet diagonal \(AC\) at points \(E,F\), respectively; connect \(ED,BF\). Prove \(\angle 1=\angle 2\).
+As shown in the figure, quadrilateral \(ABCD\) is a parallelogram, \(BE\parallel{D}F\), and they meet diagonal \(AC\) at points \(E,F\), respectively; connect \(ED,BF\). Prove \(\angle1=\angle2\).
 
-From \(BE\parallel DF\) and \(AB\parallel CD\), one can prove \(\triangle ABE\cong\triangle CDF\), giving \(BE=DF\).
+From \(BE\parallel{D}F\) and \(AB\parallel{C}D\), one can prove \(\triangle{A}BE\cong\triangle{C}DF\), giving \(BE=DF\).
 
-Therefore quadrilateral \(BEDF\) is a parallelogram, \(ED\parallel BF\).
+Therefore quadrilateral \(BEDF\) is a parallelogram, \(ED\parallel{B}F\).
 
-By equal alternate interior angles, \(\angle 1=\angle 2\).
+By equal alternate interior angles, \(\angle1=\angle2\).
 
 \(\blacksquare\)
 
@@ -124,17 +124,17 @@ To form a square, two congruent isosceles right triangles are needed.
 
 (Review Problem, Comprehensive Application, Problem 13)
 
-If you have no protractor or set square nearby and need to construct a \(30^{\circ}\) angle, you can use the following method: (1) fold rectangular paper \(ABCD\) so that \(AD\) coincides with \(BC\), obtaining crease \(EF\); (2) fold the paper once more so that point \(A\) lands on \(EF\) and the crease passes through point \(B\), obtaining crease \(BM\) and also segment \(BN\). This gives \(\angle ABM,\angle MBN,\angle NBC\) all equal to \(30^{\circ}\). Write out the proof.
+If you have no protractor or set square nearby and need to construct a \(30^{\circ}\) angle, you can use the following method: (1) fold rectangular paper \(ABCD\) so that \(AD\) coincides with \(BC\), obtaining crease \(EF\); (2) fold the paper once more so that point \(A\) lands on \(EF\) and the crease passes through point \(B\), obtaining crease \(BM\) and also segment \(BN\). This gives \(\angle{A}BM,\angle{M}BN,\angle{N}BC\) all equal to \(30^{\circ}\). Write out the proof.
 
-After folding, \(EF\) is a midline, \(EF\parallel AD\parallel BC\).
+After folding, \(EF\) is a midline, \(EF\parallel{A}D\parallel{B}C\).
 
 Folding makes \(A\) land at \(N\) on \(EF\), and the crease passes through \(B\), so \(BA=BN\).
 
-In \(Rt\triangle BNE\), \(BE=\frac{1}{2}AB=\frac{1}{2}BN\), so \(\angle BNE=30^{\circ},\ \angle EBN=60^{\circ}\).
+In \(Rt\triangle{B}NE\), \(BE=\frac{1}{2}AB=\frac{1}{2}BN\), so \(\angle{B}NE=30^{\circ},\,\angle{E}BN=60^{\circ}\).
 
-Hence \(\angle ABN=60^{\circ}\), and crease \(BM\) bisects \(\angle ABN\), giving \(\angle ABM=\angle MBN=30^{\circ}\).
+Hence \(\angle{A}BN=60^{\circ}\), and crease \(BM\) bisects \(\angle{A}BN\), giving \(\angle{A}BM=\angle{M}BN=30^{\circ}\).
 
-Also \(\angle ABC=90^{\circ}\), so \(\angle NBC=90^{\circ}-60^{\circ}=30^{\circ}\).
+Also \(\angle{A}BC=90^{\circ}\), so \(\angle{N}BC=90^{\circ}-60^{\circ}=30^{\circ}\).
 
 \(\blacksquare\)
 
@@ -142,9 +142,9 @@ Also \(\angle ABC=90^{\circ}\), so \(\angle NBC=90^{\circ}-60^{\circ}=30^{\circ}
 
 (Review Problem, Comprehensive Application, Problem 14)
 
-As shown in the figure, through point \(O\), the midpoint of diagonal \(AC\) of \(\square ABCD\), draw two perpendicular lines, meeting \(AB,BC,CD,DA\) at points \(E,F,G,H\), respectively; connect \(EF,FG,GH,HE\). Determine the shape of quadrilateral \(EFGH\) and explain why.
+As shown in the figure, through point \(O\), the midpoint of diagonal \(AC\) of \(\square{A}BCD\), draw two perpendicular lines, meeting \(AB,BC,CD,DA\) at points \(E,F,G,H\), respectively; connect \(EF,FG,GH,HE\). Determine the shape of quadrilateral \(EFGH\) and explain why.
 
-Since \(O\) is the midpoint of \(AC\) and the parallelogram is centrally symmetric, one can prove \(OE=OG,\ OF=OH\).
+Since \(O\) is the midpoint of \(AC\) and the parallelogram is centrally symmetric, one can prove \(OE=OG,\,OF=OH\).
 
 The diagonals of quadrilateral \(EFGH\) bisect each other, so it is a parallelogram.
 
@@ -156,17 +156,17 @@ Therefore parallelogram \(EFGH\) is a rhombus.
 
 (Review Problem, Extension and Exploration, Problem 15)
 
-As shown in the figure, quadrilateral \(ABCD\) is a square, \(E\) is the midpoint of side \(BC\), \(\angle AEF=90^{\circ}\), and \(EF\) meets the exterior-angle bisector \(CF\) of the square at point \(F\). Prove \(AE=EF\). (Hint: take the midpoint \(G\) of \(AB\) and connect \(EG\).)
+As shown in the figure, quadrilateral \(ABCD\) is a square, \(E\) is the midpoint of side \(BC\), \(\angle{A}EF=90^{\circ}\), and \(EF\) meets the exterior-angle bisector \(CF\) of the square at point \(F\). Prove \(AE=EF\). (Hint: take the midpoint \(G\) of \(AB\) and connect \(EG\).)
 
 Take the midpoint \(G\) of \(AB\) and connect \(EG\).
 
-Since \(E,G\) are midpoints, \(AG=EC,\ BG=BE\); so \(\triangle BEG\) is an isosceles right triangle, \(\angle AGE=135^{\circ}\).
+Since \(E,G\) are midpoints, \(AG=EC,\,BG=BE\); so \(\triangle{B}EG\) is an isosceles right triangle, \(\angle{A}GE=135^{\circ}\).
 
-\(CF\) bisects the exterior angle, \(\angle ECF=135^{\circ}\), so \(\angle AGE=\angle ECF\).
+\(CF\) bisects the exterior angle, \(\angle{E}CF=135^{\circ}\), so \(\angle{A}GE=\angle{E}CF\).
 
-Also \(\angle GAE+\angle AEB=90^{\circ},\ \angle CEF+\angle AEB=90^{\circ}\), so \(\angle GAE=\angle CEF\).
+Also \(\angle{G}AE+\angle{A}EB=90^{\circ},\,\angle{C}EF+\angle{A}EB=90^{\circ}\), so \(\angle{G}AE=\angle{C}EF\).
 
-Hence \(\triangle AGE\cong\triangle ECF\), so \(AE=EF\).
+Hence \(\triangle{A}GE\cong\triangle{E}CF\), so \(AE=EF\).
 
 \(\blacksquare\)
 
@@ -186,7 +186,7 @@ Therefore the overlap area always equals \(\frac{1}{4}\) of the original square'
 
 (Exercise 22.1, Problem 1) Identify the constants and variables in the following problems:
 
-(1) Water is poured into a pool at a rate of $0.1\ \text{m}^3/\text{min}$. Let the filling time be $x\ \text{min}$ and the amount of water filled be $y\ \text{m}^3$.
+(1) Water is poured into a pool at a rate of $0.1\,\text{m}^3/\text{min}$. Let the filling time be $x\,\text{min}$ and the amount of water filled be $y\,\text{m}^3$.
 
 (2) The annual gross domestic product (GDP) of China during the 13th Five-Year Plan is shown in the table below.
 
@@ -198,7 +198,7 @@ Therefore the overlap area always equals \(\frac{1}{4}\) of the original square'
 
 ### Solution to Exercise 1
 
-(1) By **Definition 22.1.1 (Constants and Variables)**, the value of the filling rate $0.1\ \text{m}^3/\text{min}$ remains constant, so the filling rate is a constant. The values of the filling time $x$ and the filled amount $y$ change, so the filling time $x$ and the filled amount $y$ are variables.
+(1) By **Definition 22.1.1 (Constants and Variables)**, the value of the filling rate $0.1\,\text{m}^3/\text{min}$ remains constant, so the filling rate is a constant. The values of the filling time $x$ and the filled amount $y$ change, so the filling time $x$ and the filled amount $y$ are variables.
 
 (2) By **Definition 22.1.1 (Constants and Variables)**, the values of the year $x$ and the GDP $y$ both change, so the year $x$ and the GDP $y$ are variables; in this problem there is no quantity whose value remains constant.
 
@@ -212,9 +212,9 @@ Therefore the overlap area always equals \(\frac{1}{4}\) of the original square'
 
 By **Definition 22.1.1 (Constants and Variables)**, a quantity whose value remains constant is a constant, and a quantity whose value changes is a variable.
 
-(1) A car travels at a constant speed of $60\ \text{km/h}$; the distance traveled $s$ changes with the travel time $t$. Here the speed $60\ \text{km/h}$ is a constant, and the travel time $t$ and the distance traveled $s$ are variables.
+(1) A car travels at a constant speed of $60\,\text{km/h}$; the distance traveled $s$ changes with the travel time $t$. Here the speed $60\,\text{km/h}$ is a constant, and the travel time $t$ and the distance traveled $s$ are variables.
 
-(2) A $20\ \text{m}$ rope encloses a rectangle; the area $S$ of the rectangle changes with one side length $x$. Here the rope length $20\ \text{m}$ is a constant, and the side length $x$ and the area $S$ are variables. $\blacksquare$
+(2) A $20\,\text{m}$ rope encloses a rectangle; the area $S$ of the rectangle changes with one side length $x$. Here the rope length $20\,\text{m}$ is a constant, and the side length $x$ and the area $S$ are variables. $\blacksquare$
 
 ## Exercise 3
 
@@ -258,9 +258,9 @@ Movie tickets cost $40$ yuan each; $x$ tickets are sold for one showing, and the
 
 (Exercise 22.1, Problem 1) Determine whether the two variables in the following problems are in a functional relation. If so, identify the independent variable and the function, and write the analytic expression.
 
-(1) A tank initially contains $10\ \text{L}$ of water, and leaks at a rate of $0.05\ \text{L/h}$; the remaining water $V$ (unit: L) changes with time $t$ (unit: h);
+(1) A tank initially contains $10\,\text{L}$ of water, and leaks at a rate of $0.05\,\text{L/h}$; the remaining water $V$ (unit: L) changes with time $t$ (unit: h);
 
-(2) The cultivated area of Lushui Village is $10^6\ \text{m}^2$; the per-capita cultivated area $y$ (unit: $\text{m}^2$) changes with the population $n$.
+(2) The cultivated area of Lushui Village is $10^6\,\text{m}^2$; the per-capita cultivated area $y$ (unit: $\text{m}^2$) changes with the population $n$.
 
 ### Solution to Exercise 5
 
@@ -270,19 +270,19 @@ Movie tickets cost $40$ yuan each; $x$ tickets are sold for one showing, and the
 
 ## Exercise 6
 
-(Exercise 22.1, Problem 2) The upper base of a trapezoid is $2\ \text{cm}$, its height is $3\ \text{cm}$, and the lower base $x$ (unit: cm) is greater than the upper base but no more than $5\ \text{cm}$. Write the analytic expression for the trapezoid area $S$ (unit: $\text{cm}^2$) as a function of $x$, and state the range of the independent variable $x$.
+(Exercise 22.1, Problem 2) The upper base of a trapezoid is $2\,\text{cm}$, its height is $3\,\text{cm}$, and the lower base $x$ (unit: cm) is greater than the upper base but no more than $5\,\text{cm}$. Write the analytic expression for the trapezoid area $S$ (unit: $\text{cm}^2$) as a function of $x$, and state the range of the independent variable $x$.
 
 ### Solution to Exercise 6
 
-By the trapezoid area formula, the area equals half the sum of the two bases times the height. The upper base is $2\ \text{cm}$, the lower base is $x\ \text{cm}$, and the height is $3\ \text{cm}$, so
+By the trapezoid area formula, the area equals half the sum of the two bases times the height. The upper base is $2\,\text{cm}$, the lower base is $x\,\text{cm}$, and the height is $3\,\text{cm}$, so
 
 $$
-S = \frac{\left(2+x\right) \times 3}{2} = \frac{3}{2}\left(x+2\right).
+S=\frac{\left(2+x\right)\times3}{2}=\frac{3}{2}\left(x+2\right).
 $$
 
 By **Definition 22.1.3 (Analytic Expression of a Function)**, $S=\frac{3}{2}\left(x+2\right)$ is the desired analytic expression.
 
-The lower base $x$ is greater than the upper base $2\ \text{cm}$, i.e. $x> 2$; the lower base $x$ is no more than $5\ \text{cm}$, i.e. $x \leq 5$. Hence the range of the independent variable $x$ is $2 < x \leq 5$. $\blacksquare$
+The lower base $x$ is greater than the upper base $2\,\text{cm}$, i.e. $x>2$; the lower base $x$ is no more than $5\,\text{cm}$, i.e. $x\leq5$. Hence the range of the independent variable $x$ is $2<{}x\leq5$. $\blacksquare$
 
 ## Exercise 7
 
@@ -292,7 +292,7 @@ The lower base $x$ is greater than the upper base $2\ \text{cm}$, i.e. $x> 2$; t
 
 By **Definition 22.1.2 (Function)** and **Definition 22.1.3 (Analytic Expression of a Function)**, a functional relation expressible by an analytic expression means the correspondence between variables can be written as a mathematical expression.
 
-A car travels at a constant speed of $60\ \text{km/h}$; the distance $s$ (unit: km) changes with the travel time $t$ (unit: h). The analytic expression is $s=60t$, where $t$ is the independent variable. The travel time cannot be negative, so the range of the independent variable $t$ is $t \geq 0$. $\blacksquare$
+A car travels at a constant speed of $60\,\text{km/h}$; the distance $s$ (unit: km) changes with the travel time $t$ (unit: h). The analytic expression is $s=60t$, where $t$ is the independent variable. The travel time cannot be negative, so the range of the independent variable $t$ is $t\geq0$. $\blacksquare$
 
 ## Problem 1
 
@@ -302,7 +302,7 @@ A car travels at a constant speed of $60\ \text{km/h}$; the distance $s$ (unit: 
 
 (2) A ripple in water keeps expanding; let the radius of the circular wave be $r$, its circumference $C$, and pi $\pi$.
 
-(3) Zhang Hua is running on a track. One lap of the track is $400\ \text{m}$; let the number of laps she runs be $n$ and the distance she runs be $s\ \text{m}$.
+(3) Zhang Hua is running on a track. One lap of the track is $400\,\text{m}$; let the number of laps she runs be $n$ and the distance she runs be $s\,\text{m}$.
 
 ### Solution to Problem 1
 
@@ -312,7 +312,7 @@ By **Definition 22.1.1 (Constants and Variables)**, a quantity whose value remai
 
 (2) The value of pi $\pi$ remains constant, so $\pi$ is a constant. The radius $r$ and circumference $C$ of the circular wave change, so $r$ and $C$ are variables.
 
-(3) The length of one lap $400\ \text{m}$ remains constant, so $400\ \text{m}$ is a constant. The number of laps $n$ and the distance $s$ change, so $n$ and $s$ are variables. $\blacksquare$
+(3) The length of one lap $400\,\text{m}$ remains constant, so $400\,\text{m}$ is a constant. The number of laps $n$ and the distance $s$ change, so $n$ and $s$ are variables. $\blacksquare$
 
 ## Problem 2
 
@@ -359,14 +359,14 @@ By **Definition 22.1.2 (Function)**, for each definite value of the height $h$ t
 By the triangle area formula, the area equals half the base times the height, so
 
 $$
-S = \frac{1}{2} \times 5 \times h = \frac{5}{2}h.
+S=\frac{1}{2}\times5\times{h}=\frac{5}{2}h.
 $$
 
-The height $h$ cannot be negative, so the range of the independent variable $h$ is $h \geq 0$. $\blacksquare$
+The height $h$ cannot be negative, so the range of the independent variable $h$ is $h\geq0$. $\blacksquare$
 
 ## Problem 5
 
-(Exercise 22.1, Comprehensive Application, Problem 5) Operate a calculator by the following program: input any number $x$, press keys $\times 2 + 5$, and the display shows the result $y$. Fill in the table:
+(Exercise 22.1, Comprehensive Application, Problem 5) Operate a calculator by the following program: input any number $x$, press keys $\times2+5$, and the display shows the result $y$. Fill in the table:
 
 | Input $x$ | $1$ | $3$ | $-4$ | $0$ | $101$ | $-5.2$ |
 |---|---|---|---|---|---|---|
@@ -376,9 +376,9 @@ Is the displayed result $y$ a function of the input $x$? Why?
 
 ### Solution to Problem 5
 
-By the operation program, $y = 2x + 5$.
+By the operation program, $y=2x+5$.
 
-When $x=1$, $y=2 \times 1 + 5 = 7$; when $x=3$, $y=2 \times 3 + 5 = 11$; when $x=-4$, $y=2 \times \left(-4\right) + 5 = -3$; when $x=0$, $y=2 \times 0 + 5 = 5$; when $x=101$, $y=2 \times 101 + 5 = 207$; when $x=-5.2$, $y=2 \times \left(-5.2\right) + 5 = -5.4$.
+When $x=1$, $y=2\times1+5=7$; when $x=3$, $y=2\times3+5=11$; when $x=-4$, $y=2\times\left(-4\right)+5=-3$; when $x=0$, $y=2\times0+5=5$; when $x=101$, $y=2\times101+5=207$; when $x=-5.2$, $y=2\times\left(-5.2\right)+5=-5.4$.
 
 The filled table is:
 
@@ -404,9 +404,9 @@ By **Definition 22.1.2 (Function)**, if for each definite value of $x$, $y$ has 
 
 (1) For each definite value of $x$, $y=3x-5$ has a unique definite value corresponding to it, so $y$ is a function of $x$.
 
-(2) When $x \neq 1$, for each definite value of $x$, $y=\frac{x-2}{x-1}$ has a unique definite value corresponding to it, so $y$ is a function of $x$.
+(2) When $x\neq1$, for each definite value of $x$, $y=\frac{x-2}{x-1}$ has a unique definite value corresponding to it, so $y$ is a function of $x$.
 
-(3) When $x \geq 1$, for each definite value of $x$, $y=\sqrt{x-1}$ has a unique definite value corresponding to it, so $y$ is a function of $x$. $\blacksquare$
+(3) When $x\geq1$, for each definite value of $x$, $y=\sqrt{x-1}$ has a unique definite value corresponding to it, so $y$ is a function of $x$. $\blacksquare$
 
 ## Problem 7
 
@@ -420,11 +420,11 @@ By **Definition 22.1.2 (Function)**, if for each definite value of $x$, $y$ has 
 
 (1) For $y=3x-5$, the expression is meaningful for any real $x$, so the range of $x$ is all real numbers.
 
-For $y=\frac{x-2}{x-1}$, the denominator cannot be $0$, i.e. $x-1 \neq 0$, so $x \neq 1$; the range of $x$ is all real numbers satisfying $x \neq 1$.
+For $y=\frac{x-2}{x-1}$, the denominator cannot be $0$, i.e. $x-1\neq0$, so $x\neq1$; the range of $x$ is all real numbers satisfying $x\neq1$.
 
-For $y=\sqrt{x-1}$, the radicand cannot be negative, i.e. $x-1 \geq 0$, so $x \geq 1$.
+For $y=\sqrt{x-1}$, the radicand cannot be negative, i.e. $x-1\geq0$, so $x\geq1$.
 
-(2) When $x=5$, for $y=3x-5$, $y=3 \times 5 - 5 = 10$; for $y=\frac{x-2}{x-1}$, $y=\frac{5-2}{5-1}=\frac{3}{4}$; for $y=\sqrt{x-1}$, $y=\sqrt{5-1}=2$. $\blacksquare$
+(2) When $x=5$, for $y=3x-5$, $y=3\times5-5=10$; for $y=\frac{x-2}{x-1}$, $y=\frac{5-2}{5-1}=\frac{3}{4}$; for $y=\sqrt{x-1}$, $y=\sqrt{5-1}=2$. $\blacksquare$
 
 ## Problem 8
 
@@ -458,7 +458,7 @@ From the table, for each definite value of the wind-force level $v$, the perceiv
 
 (Exercise 22.2, Problem 1) (1) Draw the graph of the function $y=2x-1$;
 
-(2) Determine whether points $A\left(-2.5, -4\right)$, $B\left(1, 3\right)$, $C\left(2.5, 4\right)$ lie on the graph of $y=2x-1$.
+(2) Determine whether points $A\left(-2.5,-4\right)$, $B\left(1,3\right)$, $C\left(2.5,4\right)$ lie on the graph of $y=2x-1$.
 
 ### Solution to Exercise 8
 
@@ -468,14 +468,14 @@ From the table, for each definite value of the wind-force level $v$, the perceiv
 |---|---|---|---|---|---|---|---|
 | $y=2x-1$ | $\cdots$ | $-5$ | $-3$ | $-1$ | $1$ | $3$ | $\cdots$ |
 
-Plot points $\left(x, y\right)$ in the plane rectangular coordinate system and connect them with a smooth curve, obtaining a straight line.
+Plot points $\left(x,y\right)$ in the plane rectangular coordinate system and connect them with a smooth curve, obtaining a straight line.
 
 The figure shows a plane rectangular coordinate system with integer tick marks on both axes; a straight line through points $\left(0,-1\right)$ and $\left(1,1\right)$ (slope $2$), namely the graph of $y=2x-1$.
 
 (2) By **Definition 22.2.1 (Graph of a Function)**, the coordinates of a point on the graph satisfy the analytic expression.
 
-Substitute $x=-2.5$ into $y=2x-1$: $y=2\times\left(-2.5\right)-1=-6 \neq -4$, so point $A\left(-2.5, -4\right)$ is not on the graph.
+Substitute $x=-2.5$ into $y=2x-1$: $y=2\times\left(-2.5\right)-1=-6\neq-4$, so point $A\left(-2.5,-4\right)$ is not on the graph.
 
-Substitute $x=1$ into $y=2x-1$: $y=2\times1-1=1 \neq 3$, so point $B\left(1, 3\right)$ is not on the graph.
+Substitute $x=1$ into $y=2x-1$: $y=2\times1-1=1\neq3$, so point $B\left(1,3\right)$ is not on the graph.
 
-Substitute $x=2.5$ into $y=2x-1$: $y=2\times2.5-1=4$, which matches the y-coordinate of point $C$, so point $C\left(2.5, 4\right)$ is on the graph. $\blacksquare$
+Substitute $x=2.5$ into $y=2x-1$: $y=2\times2.5-1=4$, which matches the y-coordinate of point $C$, so point $C\left(2.5,4\right)$ is on the graph. $\blacksquare$

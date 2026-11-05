@@ -14,7 +14,7 @@
 
 > **定义 16.2.4 (同底数幂的除法)**
 > 
-> $a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ 都是正整数, $m> n$), 即同底数幂相除, 底数不变, 指数相减.
+> $a^m\div{a}^n=a^{m-n}$ ($a\ne0$, $m,n$ 都是正整数, $m>{}n$), 即同底数幂相除, 底数不变, 指数相减.
 
 > **定义 16.2.5 (零指数幂)**
 > 
@@ -90,9 +90,9 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 (练习 16.2 第 1 题) 计算:
 
-(1) $x^7\div x^5$;
+(1) $x^7\div{x}^5$;
 
-(2) $m^8\div m^8$;
+(2) $m^8\div{m}^8$;
 
 (3) $\left(-a\right)^{10}\div\left(-a\right)^7$;
 
@@ -102,13 +102,13 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 由**定义 16.2.4 (同底数幂的除法)** 与**定义 16.2.5 (零指数幂)**.
 
-(1) $x^7\div x^5=x^2$.
+(1) $x^7\div{x}^5=x^2$.
 
-(2) $m^8\div m^8=m^0=1$.
+(2) $m^8\div{m}^8=m^0=1$.
 
 (3) $\left(-a\right)^{10}\div\left(-a\right)^7=\left(-a\right)^3=-a^3$.
 
-(4) $\left(xy\right)^5\div\left(xy\right)^3=\left(xy\right)^2=x^2 y^2$. $\blacksquare$
+(4) $\left(xy\right)^5\div\left(xy\right)^3=\left(xy\right)^2=x^2y^2$. $\blacksquare$
 
 ## 练习四
 
@@ -116,9 +116,9 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 (1) $\left(10ab^3\right)\div\left(-5ab\right)$;
 
-(2) $\left(-8a^2 b^3\right)\div\left(6ab^2\right)$;
+(2) $\left(-8a^2b^3\right)\div\left(6ab^2\right)$;
 
-(3) $\left(-21x^2 y^4\right)\div\left(-3x^2 y^3\right)$;
+(3) $\left(-21x^2y^4\right)\div\left(-3x^2y^3\right)$;
 
 (4) $\left(6\times10^8\right)\div\left(3\times10^5\right)$.
 
@@ -128,9 +128,9 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 (1) $\left(10ab^3\right)\div\left(-5ab\right)=-2b^2$.
 
-(2) $\left(-8a^2 b^3\right)\div\left(6ab^2\right)=-\frac43 ab$.
+(2) $\left(-8a^2b^3\right)\div\left(6ab^2\right)=-\frac43ab$.
 
-(3) $\left(-21x^2 y^4\right)\div\left(-3x^2 y^3\right)=7y$.
+(3) $\left(-21x^2y^4\right)\div\left(-3x^2y^3\right)=7y$.
 
 (4) $\left(6\times10^8\right)\div\left(3\times10^5\right)=2\times10^3$. $\blacksquare$
 
@@ -138,27 +138,27 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 (练习 16.2 第 3 题) 计算:
 
-(1) $\left(6ab+5a\right)\div a$;
+(1) $\left(6ab+5a\right)\div{a}$;
 
-(2) $\left(15x^2 y-10xy^2\right)\div\left(5xy\right)$.
+(2) $\left(15x^2y-10xy^2\right)\div\left(5xy\right)$.
 
 ### 解答 练习五
 
 由**定义 16.2.7 (多项式除以单项式)**.
 
-(1) $\left(6ab+5a\right)\div a=6b+5$.
+(1) $\left(6ab+5a\right)\div{a}=6b+5$.
 
-(2) $\left(15x^2 y-10xy^2\right)\div\left(5xy\right)=3x-2y$. $\blacksquare$
+(2) $\left(15x^2y-10xy^2\right)\div\left(5xy\right)=3x-2y$. $\blacksquare$
 
 ## 习题一
 
 (习题 16.2 复习巩固第 1 题) 计算:
 
-(1) $3x\cdot6x^2 y$;
+(1) $3x\cdot6x^2y$;
 
-(2) $a^2 b\left(-3ab^2\right)$;
+(2) $a^2b\left(-3ab^2\right)$;
 
-(3) $4x^2 y\left(-xy^2\right)^3$;
+(3) $4x^2y\left(-xy^2\right)^3$;
 
 (4) $\left(1.25\times10^5\right)\times\left(2\times10^3\right)^3$.
 
@@ -166,11 +166,11 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 由**定义 16.2.1 (单项式与单项式相乘)**.
 
-(1) $3x\cdot6x^2 y=18x^3 y$.
+(1) $3x\cdot6x^2y=18x^3y$.
 
-(2) $a^2 b\left(-3ab^2\right)=-3a^3 b^3$.
+(2) $a^2b\left(-3ab^2\right)=-3a^3b^3$.
 
-(3) $4x^2 y\left(-xy^2\right)^3=4x^2 y\cdot\left(-x^3 y^6\right)=-4x^5 y^7$.
+(3) $4x^2y\left(-xy^2\right)^3=4x^2y\cdot\left(-x^3y^6\right)=-4x^5y^7$.
 
 (4) $\left(1.25\times10^5\right)\times\left(2\times10^3\right)^3=1.25\times10^5\times8\times10^9=10\times10^{14}=1\times10^{15}$. $\blacksquare$
 
@@ -184,7 +184,7 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 (3) $5ab\left(2a-b+0.2\right)$;
 
-(4) $\left(2a^2-\frac23 a-\frac49\right)\left(-9a\right)$.
+(4) $\left(2a^2-\frac23a-\frac49\right)\left(-9a\right)$.
 
 ### 解答 习题二
 
@@ -194,9 +194,9 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 (2) $2x^2\left(x-\frac12\right)=2x^3-x^2$.
 
-(3) $5ab\left(2a-b+0.2\right)=10a^2 b-5ab^2+ab$.
+(3) $5ab\left(2a-b+0.2\right)=10a^2b-5ab^2+ab$.
 
-(4) $\left(2a^2-\frac23 a-\frac49\right)\left(-9a\right)=-18a^3+6a^2+4a$. $\blacksquare$
+(4) $\left(2a^2-\frac23a-\frac49\right)\left(-9a\right)=-18a^3+6a^2+4a$. $\blacksquare$
 
 ## 习题三
 
@@ -220,7 +220,7 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 (1) $\left(x-6\right)\left(x-3\right)=x^2-9x+18$.
 
-(2) $\left(x+\frac12\right)\left(x-\frac13\right)=x^2+\frac16 x-\frac16$.
+(2) $\left(x+\frac12\right)\left(x-\frac13\right)=x^2+\frac16x-\frac16$.
 
 (3) $\left(3x+2\right)\left(x+2\right)=3x^2+8x+4$.
 
@@ -238,11 +238,11 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 (2) $\left(ab^2\right)^3\div\left(-ab\right)^2$;
 
-(3) $\left(25a^3 b^2\right)\div\left(5ab\right)^2$;
+(3) $\left(25a^3b^2\right)\div\left(5ab\right)^2$;
 
-(4) $\left(14m^2 n\right)^2\div\left(7m^2\right)\div\left(7m\right)$;
+(4) $\left(14m^2n\right)^2\div\left(7m^2\right)\div\left(7m\right)$;
 
-(5) $\left(-5a^3 b^5 c+35a^2 b^3 c^2-abc\right)\div\left(-abc\right)$;
+(5) $\left(-5a^3b^5c+35a^2b^3c^2-abc\right)\div\left(-abc\right)$;
 
 (6) $\left(-81x^{n+5}+15x^{n+1}-3x^{n-1}\right)\div\left(-3x^{n-1}\right)$.
 
@@ -250,15 +250,15 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 由**定义 16.2.6 (单项式除以单项式)** 与**定义 16.2.7 (多项式除以单项式)**.
 
-(1) $\left(a^3\right)^2\div\left(a^2\right)^3=a^6\div a^6=1$.
+(1) $\left(a^3\right)^2\div\left(a^2\right)^3=a^6\div{a}^6=1$.
 
-(2) $\left(ab^2\right)^3\div\left(-ab\right)^2=a^3 b^6\div\left(a^2 b^2\right)=ab^4$.
+(2) $\left(ab^2\right)^3\div\left(-ab\right)^2=a^3b^6\div\left(a^2b^2\right)=ab^4$.
 
-(3) $\left(25a^3 b^2\right)\div\left(25a^2 b^2\right)=a$.
+(3) $\left(25a^3b^2\right)\div\left(25a^2b^2\right)=a$.
 
-(4) $\left(14m^2 n\right)^2\div\left(7m^2\right)\div\left(7m\right)=196m^4 n^2\div\left(7m^2\right)\div\left(7m\right)=28m^2 n^2\div\left(7m\right)=4mn^2$.
+(4) $\left(14m^2n\right)^2\div\left(7m^2\right)\div\left(7m\right)=196m^4n^2\div\left(7m^2\right)\div\left(7m\right)=28m^2n^2\div\left(7m\right)=4mn^2$.
 
-(5) $\left(-5a^3 b^5 c+35a^2 b^3 c^2-abc\right)\div\left(-abc\right)=5a^2 b^4-35ab^2 c+1$.
+(5) $\left(-5a^3b^5c+35a^2b^3c^2-abc\right)\div\left(-abc\right)=5a^2b^4-35ab^2c+1$.
 
 (6) $\left(-81x^{n+5}+15x^{n+1}-3x^{n-1}\right)\div\left(-3x^{n-1}\right)=27x^6-5x^2+1$. $\blacksquare$
 
@@ -266,33 +266,33 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 (习题 16.2 复习巩固第 5 题) 计算:
 
-(1) $\left(-3x^2 y\right)^2\cdot\left(-\frac23 xyz\right)\div\left(\frac34 xy^2\right)$;
+(1) $\left(-3x^2y\right)^2\cdot\left(-\frac23xyz\right)\div\left(\frac34xy^2\right)$;
 
 (2) $\left(-4ab^3-18ab\right)\div\left(-12ab^2\right)$;
 
 (3) $\left(x-3\right)\left(x-2\right)-6\left(x^2+x-1\right)$;
 
-(4) $\left(-4ab^3+8a^2 b^2\right)\div\left(4ab\right)-\left(2a+b\right)\left(a-b\right)$.
+(4) $\left(-4ab^3+8a^2b^2\right)\div\left(4ab\right)-\left(2a+b\right)\left(a-b\right)$.
 
 ### 解答 习题五
 
 混合运算, 先乘方再乘除后加减.
 
-(1) $\left(-3x^2 y\right)^2\cdot\left(-\frac23 xyz\right)\div\left(\frac34 xy^2\right)=9x^4 y^2\cdot\left(-\frac23 xyz\right)\div\left(\frac34 xy^2\right)=-6x^5 y^3 z\div\left(\frac34 xy^2\right)=-8x^4 yz$.
+(1) $\left(-3x^2y\right)^2\cdot\left(-\frac23xyz\right)\div\left(\frac34xy^2\right)=9x^4y^2\cdot\left(-\frac23xyz\right)\div\left(\frac34xy^2\right)=-6x^5y^3z\div\left(\frac34xy^2\right)=-8x^4yz$.
 
-(2) $\left(-4ab^3-18ab\right)\div\left(-12ab^2\right)=\frac13 b+\frac{3}{2b}$.
+(2) $\left(-4ab^3-18ab\right)\div\left(-12ab^2\right)=\frac13b+\frac{3}{2b}$.
 
 (3) $\left(x-3\right)\left(x-2\right)-6\left(x^2+x-1\right)=x^2-5x+6-6x^2-6x+6=-5x^2-11x+12$.
 
-(4) $\left(-4ab^3+8a^2 b^2\right)\div\left(4ab\right)-\left(2a+b\right)\left(a-b\right)=-b^2+2ab-\left(2a^2-2ab+ab-b^2\right)=-b^2+2ab-2a^2+ab+b^2=-2a^2+3ab$. $\blacksquare$
+(4) $\left(-4ab^3+8a^2b^2\right)\div\left(4ab\right)-\left(2a+b\right)\left(a-b\right)=-b^2+2ab-\left(2a^2-2ab+ab-b^2\right)=-b^2+2ab-2a^2+ab+b^2=-2a^2+3ab$. $\blacksquare$
 
 ## 习题六
 
 (习题 16.2 综合运用第 6 题) 计算:
 
-(1) $\left[5a^4\cdot a^2-\left(3a^3\right)^2\right]\div\left(2a^2\right)^2$;
+(1) $\left[5a^4\cdot{a}^2-\left(3a^3\right)^2\right]\div\left(2a^2\right)^2$;
 
-(2) $\left[\left(ab+1\right)\left(ab-1\right)-2a^2 b^2+1\right]\div\left(-ab\right)^2$.
+(2) $\left[\left(ab+1\right)\left(ab-1\right)-2a^2b^2+1\right]\div\left(-ab\right)^2$.
 
 ### 解答 习题六
 
@@ -300,7 +300,7 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 (1) $\left[5a^6-9a^6\right]\div\left(4a^4\right)=\left(-4a^6\right)\div\left(4a^4\right)=-a^2$.
 
-(2) $\left[\left(a^2 b^2-1\right)-2a^2 b^2+1\right]\div\left(a^2 b^2\right)=\left(-a^2 b^2\right)\div\left(a^2 b^2\right)=-1$. $\blacksquare$
+(2) $\left[\left(a^2b^2-1\right)-2a^2b^2+1\right]\div\left(a^2b^2\right)=\left(-a^2b^2\right)\div\left(a^2b^2\right)=-1$. $\blacksquare$
 
 ## 习题七
 
@@ -308,7 +308,7 @@ $$\left(x+y\right)\left(x^2-y^2\right)=\left(x+y\right)\left(x+y\right)\left(x-y
 
 (1) $x\left(1-x^2\right)+x^2\left(x-1\right)+x\left(x+1\right)$, 其中 $x=2$;
 
-(2) $\left(a^2 b-2ab^2-b^3\right)\div b-\left(a+b\right)^2$, 其中 $a=\frac12$, $b=-1$.
+(2) $\left(a^2b-2ab^2-b^3\right)\div{b}-\left(a+b\right)^2$, 其中 $a=\frac12$, $b=-1$.
 
 ### 解答 习题七
 
@@ -342,13 +342,13 @@ $\blacksquare$
 
 故阴影绿地面积为
 
-$$32a^2-10a^2=22a^2\ \left(\text{m}^2\right).$$
+$$32a^2-10a^2=22a^2\,\left(\text{m}^2\right).$$
 
 $\blacksquare$
 
 ## 习题十
 
-(习题 16.2 综合运用第 10 题) 如图, 有一张长方形纸板, 在它的四角各切去一个同样的正方形, 然后将四周突出部分折起, 制成一个高为 $a\ \text{cm}$ 的长方体形状的无盖纸盒. 如果纸盒的容积为 $4a^2 b\ \text{cm}^3$, 底面长方形的一边长为 $b$ ($b< 4a$) $\text{cm}$, 求原长方形纸板的长和宽.
+(习题 16.2 综合运用第 10 题) 如图, 有一张长方形纸板, 在它的四角各切去一个同样的正方形, 然后将四周突出部分折起, 制成一个高为 $a\,\text{cm}$ 的长方体形状的无盖纸盒. 如果纸盒的容积为 $4a^2b\,\text{cm}^3$, 底面长方形的一边长为 $b$ ($b<4a$) $\text{cm}$, 求原长方形纸板的长和宽.
 
 (题图为长方形纸板四角切去小正方形后折起的展开示意图.)
 
@@ -356,11 +356,11 @@ $\blacksquare$
 
 纸盒高为 $a$, 故四角切去的正方形边长为 $a$. 设纸盒底面另一边长为 $x$, 则底面积为 $bx$. 由容积
 
-$$bx\cdot a=4a^2 b,$$
+$$bx\cdot{a}=4a^2b,$$
 
 解得 $x=4a$.
 
-故纸盒底面两边为 $b$ 与 $4a$. 原纸板长比底面长多出 $2a$, 宽比底面宽多出 $2a$. 因 $b< 4a$, 取底面长边 $4a$ 对应纸板长边, 则原纸板长为 $4a+2a=6a\ \text{cm}$, 宽为 $b+2a\ \text{cm}$. $\blacksquare$
+故纸盒底面两边为 $b$ 与 $4a$. 原纸板长比底面长多出 $2a$, 宽比底面宽多出 $2a$. 因 $b<4a$, 取底面长边 $4a$ 对应纸板长边, 则原纸板长为 $4a+2a=6a\,\text{cm}$, 宽为 $b+2a\,\text{cm}$. $\blacksquare$
 
 ## 习题十一
 
@@ -398,7 +398,7 @@ $$bx\cdot a=4a^2 b,$$
 
 (2) $\left(2a-5\right)\left(2a+5\right)=4a^2-25$;
 
-(3) $\left(-3ab-1\right)\left(3ab-1\right)=1-9a^2 b^2$.
+(3) $\left(-3ab-1\right)\left(3ab-1\right)=1-9a^2b^2$.
 
 ### 解答 练习六
 
@@ -408,7 +408,7 @@ $$bx\cdot a=4a^2 b,$$
 
 (2) 对, $\left(2a-5\right)\left(2a+5\right)=\left(2a\right)^2-5^2=4a^2-25$.
 
-(3) 对, 把 $-1$ 看作相同项, $3ab$ 看作相反项, $\left(-1\right)^2-\left(3ab\right)^2=1-9a^2 b^2$. $\blacksquare$
+(3) 对, 把 $-1$ 看作相同项, $3ab$ 看作相反项, $\left(-1\right)^2-\left(3ab\right)^2=1-9a^2b^2$. $\blacksquare$
 
 ## 练习七
 
@@ -476,7 +476,7 @@ $$bx\cdot a=4a^2 b,$$
 
 (3) $\left(-2m+n\right)^2$;
 
-(4) $\left(1.5a-\frac23 b\right)^2$.
+(4) $\left(1.5a-\frac23b\right)^2$.
 
 ### 解答 练习十
 
@@ -488,7 +488,7 @@ $$bx\cdot a=4a^2 b,$$
 
 (3) $\left(-2m+n\right)^2=4m^2-4mn+n^2$.
 
-(4) $\left(1.5a-\frac23 b\right)^2=\frac94 a^2-2ab+\frac49 b^2$. $\blacksquare$
+(4) $\left(1.5a-\frac23b\right)^2=\frac94a^2-2ab+\frac49b^2$. $\blacksquare$
 
 ## 练习十一
 

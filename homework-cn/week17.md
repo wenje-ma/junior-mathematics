@@ -10,11 +10,11 @@
 
 > **定义 7.1.3 (垂直)**
 > 
-> 当两条直线相交所成的四个角中有一个角是直角时, 就说这两条直线互相垂直, 记作 $a\perp b$. 其中一条直线叫作另一条直线的垂线, 交点叫作垂足.
+> 当两条直线相交所成的四个角中有一个角是直角时, 就说这两条直线互相垂直, 记作 $a\perp{b}$. 其中一条直线叫作另一条直线的垂线, 交点叫作垂足.
 
 > **定义 7.2.1 (平行)**
 > 
-> 在同一平面内, 不相交的两条直线叫作平行线, 记作 $a\parallel b$. 在同一平面内, 不重合的两条直线只有相交与平行两种位置关系.
+> 在同一平面内, 不相交的两条直线叫作平行线, 记作 $a\parallel{b}$. 在同一平面内, 不重合的两条直线只有相交与平行两种位置关系.
 
 > **基本事实 7.2.1 (平行公理)**
 > 
@@ -22,7 +22,7 @@
 
 > **定理 7.2.1 (平行的传递性)**
 > 
-> 如果两条直线都与第三条直线平行, 那么这两条直线也互相平行. 即若 $b\parallel a$, $c\parallel a$, 则 $b\parallel c$.
+> 如果两条直线都与第三条直线平行, 那么这两条直线也互相平行. 即若 $b\parallel{a}$, $c\parallel{a}$, 则 $b\parallel{c}$.
 
 > **性质 7.2.1 (性质 1)**
 > 
@@ -86,21 +86,21 @@
 
 ## 习题二
 
-(习题 7.2 综合运用第 10 题) 如图, 若 $AB\parallel FE$, $BC\parallel DE$, 则 $\angle E+\angle B$ 等于多少度?
+(习题 7.2 综合运用第 10 题) 如图, 若 $AB\parallel{F}E$, $BC\parallel{D}E$, 则 $\angle{E}+\angle{B}$ 等于多少度?
 
-图中为一条折线 $ABC$ 与另一条折线 $FED$, 其中 $AB\parallel FE$, $BC\parallel DE$; $\angle B$ 即 $\angle ABC$, $\angle E$ 即 $\angle FED$.
+图中为一条折线 $ABC$ 与另一条折线 $FED$, 其中 $AB\parallel{F}E$, $BC\parallel{D}E$; $\angle{B}$ 即 $\angle{A}BC$, $\angle{E}$ 即 $\angle{F}ED$.
 
 ### 解答 习题二
 
-由 $AB\parallel FE$, 设截线与 $BC$, $DE$ 共同确定角的关系.
+由 $AB\parallel{F}E$, 设截线与 $BC$, $DE$ 共同确定角的关系.
 
-由 $BC\parallel DE$, 两直线平行, 同旁内角互补 (或同位角相等) 得相应角的关系; 由 $AB\parallel FE$ 又得另一组角的关系. 综合两式: $\angle E$ 与 $\angle B$ 经两次平行传递后互为同旁内角, 即
+由 $BC\parallel{D}E$, 两直线平行, 同旁内角互补 (或同位角相等) 得相应角的关系; 由 $AB\parallel{F}E$ 又得另一组角的关系. 综合两式: $\angle{E}$ 与 $\angle{B}$ 经两次平行传递后互为同旁内角, 即
 
 $$
-\angle E+\angle B=180^\circ.
+\angle{E}+\angle{B}=180^\circ.
 $$
 
-故 $\angle E+\angle B=180^\circ$. $\blacksquare$
+故 $\angle{E}+\angle{B}=180^\circ$. $\blacksquare$
 
 ## 习题三
 
@@ -112,13 +112,13 @@ $$
 
 ## 习题四
 
-(习题 7.2 拓广探索第 12 题) 如图, 当 $\angle 1=\angle 3$ 时, 直线 $a$, $b$ 平行吗? 当 $\angle 2+\angle 3=180^\circ$ 时, 直线 $a$, $b$ 平行吗? 为什么?
+(习题 7.2 拓广探索第 12 题) 如图, 当 $\angle1=\angle3$ 时, 直线 $a$, $b$ 平行吗? 当 $\angle2+\angle3=180^\circ$ 时, 直线 $a$, $b$ 平行吗? 为什么?
 
 ### 解答 习题四
 
-当 $\angle 1=\angle 3$ 时, $a\parallel b$. $\angle 1$ 与 $\angle 3$ 是直线 $a$, $b$ 被截线 $c$ 所截得的同位角 (或内错角), 由判定方法 1, 同位角相等, 两直线平行, 故 $a\parallel b$.
+当 $\angle1=\angle3$ 时, $a\parallel{b}$. $\angle1$ 与 $\angle3$ 是直线 $a$, $b$ 被截线 $c$ 所截得的同位角 (或内错角), 由判定方法 1, 同位角相等, 两直线平行, 故 $a\parallel{b}$.
 
-当 $\angle 2+\angle 3=180^\circ$ 时, $a\parallel b$. $\angle 2$ 与 $\angle 3$ 是直线 $a$, $b$ 被截线 $c$ 所截得的同旁内角, 由**定理 7.2.3 (判定方法 3)**, 同旁内角互补, 两直线平行, 故 $a\parallel b$. $\blacksquare$
+当 $\angle2+\angle3=180^\circ$ 时, $a\parallel{b}$. $\angle2$ 与 $\angle3$ 是直线 $a$, $b$ 被截线 $c$ 所截得的同旁内角, 由**定理 7.2.3 (判定方法 3)**, 同旁内角互补, 两直线平行, 故 $a\parallel{b}$. $\blacksquare$
 
 ## 习题五
 
@@ -126,24 +126,24 @@ $$
 
 ### 解答 习题五
 
-由**定义 7.2.1 (平行)** 与**定义 7.1.3 (垂直)**: $A_1B_1$ 与 $AB$ 在同一方向不相交, 故 $A_1B_1\parallel AB$; $AA_1$ 与 $AB$ 相交成直角, 故 $AA_1\perp AB$; $A_1D_1$ 与 $D_1C_1$ 相交成直角, 故 $A_1D_1\perp D_1C_1$; $AD$ 与 $BC$ 方向相同不相交, 故 $AD\parallel BC$.
+由**定义 7.2.1 (平行)** 与**定义 7.1.3 (垂直)**: $A_1B_1$ 与 $AB$ 在同一方向不相交, 故 $A_1B_1\parallel{A}B$; $AA_1$ 与 $AB$ 相交成直角, 故 $AA_1\perp{A}B$; $A_1D_1$ 与 $D_1C_1$ 相交成直角, 故 $A_1D_1\perp{D}_1C_1$; $AD$ 与 $BC$ 方向相同不相交, 故 $AD\parallel{B}C$.
 
 教室里如黑板的对边平行, 黑板相邻边垂直等都是这些位置关系的实例. $\blacksquare$
 
 ## 习题六
 
-(习题 7.2 拓广探索第 14 题) 如图, 潜望镜中的两面镜子是互相平行放置的, 光线经过镜子反射时, $\angle 1=\angle 2$, $\angle 3=\angle 4$, $\angle 2$ 和 $\angle 3$ 有什么关系? 为什么进入潜望镜的光线和离开潜望镜的光线是平行的?
+(习题 7.2 拓广探索第 14 题) 如图, 潜望镜中的两面镜子是互相平行放置的, 光线经过镜子反射时, $\angle1=\angle2$, $\angle3=\angle4$, $\angle2$ 和 $\angle3$ 有什么关系? 为什么进入潜望镜的光线和离开潜望镜的光线是平行的?
 
-图中为潜望镜剖面示意图:上下两面镜子互相平行放置, 入射光线从一侧射入, 经第一面镜子反射后射到第二面镜子, 再反射后从另一侧射出; 在第一面镜子处标出入射光线与镜子的夹角 $\angle 1$ 和反射光线与镜子的夹角 $\angle 2$, 在第二面镜子处标出相应的 $\angle 3$ 和 $\angle 4$.
+图中为潜望镜剖面示意图:上下两面镜子互相平行放置, 入射光线从一侧射入, 经第一面镜子反射后射到第二面镜子, 再反射后从另一侧射出; 在第一面镜子处标出入射光线与镜子的夹角 $\angle1$ 和反射光线与镜子的夹角 $\angle2$, 在第二面镜子处标出相应的 $\angle3$ 和 $\angle4$.
 
 ### 解答 习题六
 
-两面镜子互相平行. 它们之间的两条反射光线被镜子 (直线) 所截, $\angle 2$ 与 $\angle 3$ 是这两条平行镜子被中间光线所截得的内错角. 由**性质 7.2.2 (性质 2)**, 两直线平行, 内错角相等, 故 $\angle 2=\angle 3$.
+两面镜子互相平行. 它们之间的两条反射光线被镜子 (直线) 所截, $\angle2$ 与 $\angle3$ 是这两条平行镜子被中间光线所截得的内错角. 由**性质 7.2.2 (性质 2)**, 两直线平行, 内错角相等, 故 $\angle2=\angle3$.
 
-又已知 $\angle 1=\angle 2$, $\angle 3=\angle 4$, 故 $\angle 1=\angle 2=\angle 3=\angle 4$. 于是进入潜望镜的光线与离开潜望镜的光线被镜子间的反射光线所截得的内错角
+又已知 $\angle1=\angle2$, $\angle3=\angle4$, 故 $\angle1=\angle2=\angle3=\angle4$. 于是进入潜望镜的光线与离开潜望镜的光线被镜子间的反射光线所截得的内错角
 
 $$
-\angle 1+\angle 2=\angle 3+\angle 4
+\angle1+\angle2=\angle3+\angle4
 $$
 
 成立. 由**定理 7.2.2 (判定方法 2)**, 内错角相等, 两直线平行, 故进入潜望镜的光线与离开潜望镜的光线平行. $\blacksquare$
@@ -170,9 +170,9 @@ $$
 
 (1) 若 $a=b$, 则 $5a=5b$;
 
-(2) 如果 $AB\perp CD$, 垂足为 $O$, 那么 $\angle AOC=90^\circ$;
+(2) 如果 $AB\perp{C}D$, 垂足为 $O$, 那么 $\angle{A}OC=90^\circ$;
 
-(3) 如果 $\angle 1=\angle 2$, $\angle 2=\angle 3$, 那么 $\angle 1=\angle 3$;
+(3) 如果 $\angle1=\angle2$, $\angle2=\angle3$, 那么 $\angle1=\angle3$;
 
 (4) 两直线平行, 同位角相等.
 
@@ -182,9 +182,9 @@ $$
 
 (1) 题设: $a=b$; 结论: $5a=5b$.
 
-(2) 题设: $AB\perp CD$, 垂足为 $O$; 结论: $\angle AOC=90^\circ$.
+(2) 题设: $AB\perp{C}D$, 垂足为 $O$; 结论: $\angle{A}OC=90^\circ$.
 
-(3) 题设: $\angle 1=\angle 2$ 且 $\angle 2=\angle 3$; 结论: $\angle 1=\angle 3$.
+(3) 题设: $\angle1=\angle2$ 且 $\angle2=\angle3$; 结论: $\angle1=\angle3$.
 
 (4) 改写成"如果两条直线平行, 那么同位角相等". 题设: 两条直线平行; 结论: 同位角相等. $\blacksquare$
 
@@ -192,23 +192,23 @@ $$
 
 (练习 7.3 第 1 题) 在下面的括号内, 填上推理的依据.
 
-如图, $\angle A+\angle B=180^\circ$, 求证 $\angle C+\angle D=180^\circ$.
+如图, $\angle{A}+\angle{B}=180^\circ$, 求证 $\angle{C}+\angle{D}=180^\circ$.
 
-证明: $\because\angle A+\angle B=180^\circ$,
+证明: $\because\angle{A}+\angle{B}=180^\circ$,
 
-$\therefore AD\parallel BC$ (\_\_\_\_\_\_).
+$\therefore{A}D\parallel{B}C$ (\_\_\_\_\_\_).
 
-$\therefore\angle C+\angle D=180^\circ$ (\_\_\_\_\_\_).
+$\therefore\angle{C}+\angle{D}=180^\circ$ (\_\_\_\_\_\_).
 
-图中为四边形 $ABCD$, 顶点按顺序 $A$-$B$-$C$-$D$ 排列; $\angle A$ 与 $\angle B$ 是直线 $AD$, $BC$ 被直线 $AB$ 所截得的同旁内角, $\angle C$ 与 $\angle D$ 是直线 $AD$, $BC$ 被直线 $CD$ 所截得的同旁内角.
+图中为四边形 $ABCD$, 顶点按顺序 $A$-$B$-$C$-$D$ 排列; $\angle{A}$ 与 $\angle{B}$ 是直线 $AD$, $BC$ 被直线 $AB$ 所截得的同旁内角, $\angle{C}$ 与 $\angle{D}$ 是直线 $AD$, $BC$ 被直线 $CD$ 所截得的同旁内角.
 
 ### 解答 练习四
 
 由**定理 7.2.3 (判定方法 3)**, 同旁内角互补, 两直线平行; 由**性质 7.2.3 (性质 3)**, 两直线平行, 同旁内角互补.
 
-$\angle A$ 与 $\angle B$ 是直线 $AD$, $BC$ 被直线 $AB$ 所截得的同旁内角, $\angle A+\angle B=180^\circ$, 故 $AD\parallel BC$ (同旁内角互补, 两直线平行).
+$\angle{A}$ 与 $\angle{B}$ 是直线 $AD$, $BC$ 被直线 $AB$ 所截得的同旁内角, $\angle{A}+\angle{B}=180^\circ$, 故 $AD\parallel{B}C$ (同旁内角互补, 两直线平行).
 
-再由 $AD\parallel BC$, $\angle C$ 与 $\angle D$ 是直线 $AD$, $BC$ 被直线 $CD$ 所截得的同旁内角, 故 $\angle C+\angle D=180^\circ$ (两直线平行, 同旁内角互补). $\blacksquare$
+再由 $AD\parallel{B}C$, $\angle{C}$ 与 $\angle{D}$ 是直线 $AD$, $BC$ 被直线 $CD$ 所截得的同旁内角, 故 $\angle{C}+\angle{D}=180^\circ$ (两直线平行, 同旁内角互补). $\blacksquare$
 
 ## 练习五
 
@@ -252,61 +252,61 @@ $\angle A$ 与 $\angle B$ 是直线 $AD$, $BC$ 被直线 $AB$ 所截得的同旁
 
 (习题 7.3 复习巩固第 2 题) 如图, 用符号表示下列推理过程:
 
-(1) 因为 $\angle 1$ 和 $\angle 2$ 相等, 根据"内错角相等, 两直线平行", 所以 $AB$ 和 $EF$ 平行;
+(1) 因为 $\angle1$ 和 $\angle2$ 相等, 根据"内错角相等, 两直线平行", 所以 $AB$ 和 $EF$ 平行;
 
-(2) 因为 $DE$ 和 $BC$ 平行, 根据"两直线平行, 同位角相等", 所以 $\angle 1=\angle B$, $\angle 3=\angle C$.
+(2) 因为 $DE$ 和 $BC$ 平行, 根据"两直线平行, 同位角相等", 所以 $\angle1=\angle{B}$, $\angle3=\angle{C}$.
 
 ### 解答 习题八
 
 由**定理 7.2.2 (判定方法 2)** 与**性质 7.2.1 (性质 1)**, 用 $\because$ 表示"因为", $\therefore$ 表示"所以".
 
-(1) $\because\angle 1=\angle 2$, $\therefore AB\parallel EF$ (内错角相等, 两直线平行).
+(1) $\because\angle1=\angle2$, $\therefore{A}B\parallel{E}F$ (内错角相等, 两直线平行).
 
-(2) $\because DE\parallel BC$, $\therefore\angle 1=\angle B$, $\angle 3=\angle C$ (两直线平行, 同位角相等). $\blacksquare$
+(2) $\because{D}E\parallel{B}C$, $\therefore\angle1=\angle{B}$, $\angle3=\angle{C}$ (两直线平行, 同位角相等). $\blacksquare$
 
 ## 习题九
 
 (习题 7.3 复习巩固第 3 题) 完成下面的证明.
 
-(1) 如图 (1), $AB\parallel CD$, $BC\parallel ED$. 求证 $\angle B+\angle D=180^\circ$.
+(1) 如图 (1), $AB\parallel{C}D$, $BC\parallel{E}D$. 求证 $\angle{B}+\angle{D}=180^\circ$.
 
-(2) 如图 (2), $\angle ABC=\angle A'B'C'$, $BD$, $B'D'$ 分别是 $\angle ABC$, $\angle A'B'C'$ 的平分线. 求证 $\angle 1=\angle 2$.
+(2) 如图 (2), $\angle{A}BC=\angle{A}'B'C'$, $BD$, $B'D'$ 分别是 $\angle{A}BC$, $\angle{A}'B'C'$ 的平分线. 求证 $\angle1=\angle2$.
 
 ### 解答 习题九
 
-(1) 证明: $\because AB\parallel CD$, $\therefore\angle B=\angle C$ (两直线平行, 内错角相等).
+(1) 证明: $\because{A}B\parallel{C}D$, $\therefore\angle{B}=\angle{C}$ (两直线平行, 内错角相等).
 
-$\because BC\parallel ED$, $\therefore\angle C+\angle D=180^\circ$ (两直线平行, 同旁内角互补).
+$\because{B}C\parallel{E}D$, $\therefore\angle{C}+\angle{D}=180^\circ$ (两直线平行, 同旁内角互补).
 
-把 $\angle B=\angle C$ 代入, 得 $\angle B+\angle D=180^\circ$. $\blacksquare$
+把 $\angle{B}=\angle{C}$ 代入, 得 $\angle{B}+\angle{D}=180^\circ$. $\blacksquare$
 
-(2) 证明: $\because BD$, $B'D'$ 分别是 $\angle ABC$, $\angle A'B'C'$ 的平分线,
+(2) 证明: $\because{B}D$, $B'D'$ 分别是 $\angle{A}BC$, $\angle{A}'B'C'$ 的平分线,
 
-$\therefore\angle 1=\frac{1}{2}\angle ABC$, $\angle 2=\frac{1}{2}\angle A'B'C'$.
+$\therefore\angle1=\frac{1}{2}\angle{A}BC$, $\angle2=\frac{1}{2}\angle{A}'B'C'$.
 
-又 $\because\angle ABC=\angle A'B'C'$,
+又 $\because\angle{A}BC=\angle{A}'B'C'$,
 
-$\therefore\frac{1}{2}\angle ABC=\frac{1}{2}\angle A'B'C'$ (等量的一半相等).
+$\therefore\frac{1}{2}\angle{A}BC=\frac{1}{2}\angle{A}'B'C'$ (等量的一半相等).
 
-$\therefore\angle 1=\angle 2$. $\blacksquare$
+$\therefore\angle1=\angle2$. $\blacksquare$
 
 ## 习题十
 
-(习题 7.3 综合运用第 4 题) 如图, 平行直线 $AB$, $CD$ 与 $EF$ 相交, 交点分别为 $E$, $F$, $EG$ 平分 $\angle AEF$, $FH$ 平分 $\angle EFD$, $EG$ 和 $FH$ 平行吗? 为什么?
+(习题 7.3 综合运用第 4 题) 如图, 平行直线 $AB$, $CD$ 与 $EF$ 相交, 交点分别为 $E$, $F$, $EG$ 平分 $\angle{A}EF$, $FH$ 平分 $\angle{E}FD$, $EG$ 和 $FH$ 平行吗? 为什么?
 
 ### 解答 习题十
 
-$EG\parallel FH$.
+$EG\parallel{F}H$.
 
-$\because AB\parallel CD$, $\therefore\angle AEF=\angle EFD$ (两直线平行, 内错角相等).
+$\because{A}B\parallel{C}D$, $\therefore\angle{A}EF=\angle{E}FD$ (两直线平行, 内错角相等).
 
-$\because EG$ 平分 $\angle AEF$, $FH$ 平分 $\angle EFD$,
+$\because{E}G$ 平分 $\angle{A}EF$, $FH$ 平分 $\angle{E}FD$,
 
-$\therefore\angle GEF=\frac{1}{2}\angle AEF$, $\angle EFH=\frac{1}{2}\angle EFD$.
+$\therefore\angle{G}EF=\frac{1}{2}\angle{A}EF$, $\angle{E}FH=\frac{1}{2}\angle{E}FD$.
 
-由 $\angle AEF=\angle EFD$, 得 $\frac{1}{2}\angle AEF=\frac{1}{2}\angle EFD$, 即 $\angle GEF=\angle EFH$.
+由 $\angle{A}EF=\angle{E}FD$, 得 $\frac{1}{2}\angle{A}EF=\frac{1}{2}\angle{E}FD$, 即 $\angle{G}EF=\angle{E}FH$.
 
-$\angle GEF$ 与 $\angle EFH$ 是直线 $EG$, $FH$ 被直线 $EF$ 所截得的内错角, 由**定理 7.2.2 (判定方法 2)**, 内错角相等, 两直线平行, 故 $EG\parallel FH$. $\blacksquare$
+$\angle{G}EF$ 与 $\angle{E}FH$ 是直线 $EG$, $FH$ 被直线 $EF$ 所截得的内错角, 由**定理 7.2.2 (判定方法 2)**, 内错角相等, 两直线平行, 故 $EG\parallel{F}H$. $\blacksquare$
 
 ## 练习六
 
@@ -358,7 +358,7 @@ $\angle GEF$ 与 $\angle EFH$ 是直线 $EG$, $FH$ 被直线 $EF$ 所截得的�
 
 由**性质 7.4.1 (平移的性质)**, 平移前后新图形与原图形形状大小完全相同, 连接各组对应点的线段平行且相等.
 
-对应点为 $A$ 与 $D$, $B$ 与 $E$, $C$ 与 $F$. 平行的线段: 对应点连线 $AD\parallel BE\parallel CF$, 以及对应边 $AB\parallel DE$, $AC\parallel DF$. 相等的线段: 对应边 $AB=DE$, $BC=EF$, $AC=DF$, 以及对应点连线 $AD=BE=CF$. $\blacksquare$
+对应点为 $A$ 与 $D$, $B$ 与 $E$, $C$ 与 $F$. 平行的线段: 对应点连线 $AD\parallel{B}E\parallel{C}F$, 以及对应边 $AB\parallel{D}E$, $AC\parallel{D}F$. 相等的线段: 对应边 $AB=DE$, $BC=EF$, $AC=DF$, 以及对应点连线 $AD=BE=CF$. $\blacksquare$
 
 ## 习题十三
 
@@ -432,9 +432,9 @@ $$
 
 (数学活动 活动 1) 你有多少种画平行线的方法. 学习了平行线后, 李明, 刘伟, 王芳三位同学分别想出了过直线外一点画这条直线的平行线的新方法.
 
-李明的画法: 如图, 过点 $P$ 画直线 $b$, 使截得的 $\angle 2=\angle 1$, 则 $b\parallel a$.
+李明的画法: 如图, 过点 $P$ 画直线 $b$, 使截得的 $\angle2=\angle1$, 则 $b\parallel{a}$.
 
-刘伟的画法: 如图, 画 $PQ\perp a$, 再画 $l\perp a$, 在 $l$ 上取 $RS=PQ$, 连接 $PS$, 则 $PS\parallel a$.
+刘伟的画法: 如图, 画 $PQ\perp{a}$, 再画 $l\perp{a}$, 在 $l$ 上取 $RS=PQ$, 连接 $PS$, 则 $PS\parallel{a}$.
 
 王芳的画法: 通过折纸画出平行线.
 
@@ -442,9 +442,9 @@ $$
 
 由判定方法 1, 同位角相等, 两直线平行.
 
-李明的画法中, 使 $\angle 2=\angle 1$, 而 $\angle 1$ 与 $\angle 2$ 是直线 $a$, $b$ 被截线所截得的同位角, 同位角相等, 故 $b\parallel a$, 画法正确.
+李明的画法中, 使 $\angle2=\angle1$, 而 $\angle1$ 与 $\angle2$ 是直线 $a$, $b$ 被截线所截得的同位角, 同位角相等, 故 $b\parallel{a}$, 画法正确.
 
-刘伟的画法中, $PQ\perp a$ 且 $l\perp a$, 故 $PQ$ 与 $l$ 都垂直于 $a$, $PQ\parallel l$. 又 $RS=PQ$ 且 $RS$ 在 $l$ 上, 四边形 $PQSR$ 中 $PQ\parallel RS$ 且 $PQ=RS$, 一组对边平行且相等, 故 $PS\parallel QR$ 即 $PS\parallel a$, 画法正确.
+刘伟的画法中, $PQ\perp{a}$ 且 $l\perp{a}$, 故 $PQ$ 与 $l$ 都垂直于 $a$, $PQ\parallel{l}$. 又 $RS=PQ$ 且 $RS$ 在 $l$ 上, 四边形 $PQSR$ 中 $PQ\parallel{R}S$ 且 $PQ=RS$, 一组对边平行且相等, 故 $PS\parallel{Q}R$ 即 $PS\parallel{a}$, 画法正确.
 
 王芳通过折纸, 折出两条互相重合的折痕线, 展开后两条折痕线在同一平面内不相交, 即为平行线, 画法正确.
 
@@ -460,18 +460,18 @@ $$
 
 ## 复习题一
 
-(复习题 复习巩固第 1 题) 如图, 直线 $AB\perp CD$, 垂足为 $O$, 直线 $EF$ 经过点 $O$, $\angle 1=26^\circ$, 求 $\angle 2$, $\angle 3$, $\angle BOE$ 的度数.
+(复习题 复习巩固第 1 题) 如图, 直线 $AB\perp{C}D$, 垂足为 $O$, 直线 $EF$ 经过点 $O$, $\angle1=26^\circ$, 求 $\angle2$, $\angle3$, $\angle{B}OE$ 的度数.
 
-图中为直线 $AB\perp CD$, 垂足为 $O$, 另有直线 $EF$ 经过点 $O$; 在 $\angle AOD$ 内标出 $\angle 1$(位于 $OE$ 与 $OD$ 之间)与 $\angle 2$(位于 $OA$ 与 $OE$ 之间), 并标出 $\angle 1$ 的对顶角 $\angle 3$.
+图中为直线 $AB\perp{C}D$, 垂足为 $O$, 另有直线 $EF$ 经过点 $O$; 在 $\angle{A}OD$ 内标出 $\angle1$(位于 $OE$ 与 $OD$ 之间)与 $\angle2$(位于 $OA$ 与 $OE$ 之间), 并标出 $\angle1$ 的对顶角 $\angle3$.
 
 ### 解答 复习题一
 
-由**定义 7.1.3 (垂直)**, $AB\perp CD$, 故 $\angle AOD=90^\circ$.
+由**定义 7.1.3 (垂直)**, $AB\perp{C}D$, 故 $\angle{A}OD=90^\circ$.
 
-$\angle 1$ 与 $\angle 2$ 在直角 $\angle AOD$ 内, $\angle AOD=\angle 1+\angle 2$, 故 $\angle 2=90^\circ-\angle 1=90^\circ-26^\circ=64^\circ$.
+$\angle1$ 与 $\angle2$ 在直角 $\angle{A}OD$ 内, $\angle{A}OD=\angle1+\angle2$, 故 $\angle2=90^\circ-\angle1=90^\circ-26^\circ=64^\circ$.
 
-$\angle 3$ 与 $\angle 1$ 是对顶角, 由**定理 7.1.1 (对顶角相等)**, $\angle 3=\angle 1=26^\circ$.
+$\angle3$ 与 $\angle1$ 是对顶角, 由**定理 7.1.1 (对顶角相等)**, $\angle3=\angle1=26^\circ$.
 
-$\angle BOE$ 与 $\angle 1$ 有公共边 $OE$, 另一边 $OB$ 与 $OA$ 互为反向延长线, 它们组成平角, 故 $\angle BOE=180^\circ-\angle 1=180^\circ-26^\circ=154^\circ$.
+$\angle{B}OE$ 与 $\angle1$ 有公共边 $OE$, 另一边 $OB$ 与 $OA$ 互为反向延长线, 它们组成平角, 故 $\angle{B}OE=180^\circ-\angle1=180^\circ-26^\circ=154^\circ$.
 
-故 $\angle 2=64^\circ$, $\angle 3=26^\circ$, $\angle BOE=154^\circ$. $\blacksquare$
+故 $\angle2=64^\circ$, $\angle3=26^\circ$, $\angle{B}OE=154^\circ$. $\blacksquare$

@@ -38,7 +38,7 @@
 
 > **公式 29.3.1 (弧长公式)**
 > 
-> 在半径为 $R$ 的圆中, $n^\circ$ 的圆心角所对的弧长 $l=\frac{n\pi R}{180}$.
+> 在半径为 $R$ 的圆中, $n^\circ$ 的圆心角所对的弧长 $l=\frac{n\pi{R}}{180}$.
 
 > **定义 29.3.1 (圆锥的母线)**
 > 
@@ -46,61 +46,61 @@
 
 > **公式 29.3.2 (扇形面积公式)**
 > 
-> 在半径为 $R$ 的圆中, 圆心角为 $n^\circ$ 的扇形面积 $S=\frac{n\pi R^2}{360}=\frac12 lR$, 其中 $l$ 为扇形的弧长.
+> 在半径为 $R$ 的圆中, 圆心角为 $n^\circ$ 的扇形面积 $S=\frac{n\pi{R}^2}{360}=\frac12lR$, 其中 $l$ 为扇形的弧长.
 
 > **公式 29.3.3 (圆锥的侧面积和全面积)**
 > 
-> 圆锥母线长为 $l$, 底面半径为 $r$, 则侧面积为 $\pi rl$, 全面积为 $\pi r\left(r+l\right)$.
+> 圆锥母线长为 $l$, 底面半径为 $r$, 则侧面积为 $\pi{r}l$, 全面积为 $\pi{r}\left(r+l\right)$.
 
 ## 练习一
 
-(练习 29.2 第 1 题) 如图, $AB$, $CD$ 是 $\odot O$ 的两条弦.
+(练习 29.2 第 1 题) 如图, $AB$, $CD$ 是 $\odot{O}$ 的两条弦.
 
 (1) 如果 $AB=CD$, 那么 $\_\_\_$;
 
 (2) 如果 $\overset{\frown}{AB}=\overset{\frown}{CD}$, 那么 $\_\_\_$;
 
-(3) 如果 $\angle AOB=\angle COD$, 那么 $\_\_\_$;
+(3) 如果 $\angle{A}OB=\angle{C}OD$, 那么 $\_\_\_$;
 
-(4) 如果 $AB=CD$, $OE\perp AB$, $OF\perp CD$, 垂足分别为 $E$, $F$, $OE$ 与 $OF$ 相等吗? 为什么?
+(4) 如果 $AB=CD$, $OE\perp{A}B$, $OF\perp{C}D$, 垂足分别为 $E$, $F$, $OE$ 与 $OF$ 相等吗? 为什么?
 
 ### 解答 练习一
 
 由**定理 29.2.2 (圆心角, 弧, 弦的关系)**.
 
-(1) $\angle AOB=\angle COD$, $\overset{\frown}{AB}=\overset{\frown}{CD}$.
+(1) $\angle{A}OB=\angle{C}OD$, $\overset{\frown}{AB}=\overset{\frown}{CD}$.
 
-(2) $AB=CD$, $\angle AOB=\angle COD$.
+(2) $AB=CD$, $\angle{A}OB=\angle{C}OD$.
 
 (3) $AB=CD$, $\overset{\frown}{AB}=\overset{\frown}{CD}$.
 
-(4) $OE=OF$. 由 $AB=CD$, 在 $\triangle OAB$ 与 $\triangle OCD$ 中 $OA=OB=OC=OD$, 两三角形全等, 且 $OE$, $OF$ 为对应边上的高, 故 $OE=OF$. $\blacksquare$
+(4) $OE=OF$. 由 $AB=CD$, 在 $\triangle{O}AB$ 与 $\triangle{O}CD$ 中 $OA=OB=OC=OD$, 两三角形全等, 且 $OE$, $OF$ 为对应边上的高, 故 $OE=OF$. $\blacksquare$
 
 ## 练习二
 
-(练习 29.2 第 2 题) 如图, $AB$ 是 $\odot O$ 的直径, $\overset{\frown}{BC}=\overset{\frown}{CD}=\overset{\frown}{DE}$, $\angle COD=35^\circ$, 求 $\angle AOE$ 的度数.
+(练习 29.2 第 2 题) 如图, $AB$ 是 $\odot{O}$ 的直径, $\overset{\frown}{BC}=\overset{\frown}{CD}=\overset{\frown}{DE}$, $\angle{C}OD=35^\circ$, 求 $\angle{A}OE$ 的度数.
 
 ### 解答 练习二
 
 由**定理 29.2.2 (圆心角, 弧, 弦的关系)**.
 
-$\overset{\frown}{BC}=\overset{\frown}{CD}=\overset{\frown}{DE}$, 故 $\angle BOC=\angle COD=\angle DOE=35^\circ$. 三段圆心角共 $3\times35^\circ=105^\circ$. $AB$ 为直径, $\angle AOB=180^\circ$, 故
+$\overset{\frown}{BC}=\overset{\frown}{CD}=\overset{\frown}{DE}$, 故 $\angle{B}OC=\angle{C}OD=\angle{D}OE=35^\circ$. 三段圆心角共 $3\times35^\circ=105^\circ$. $AB$ 为直径, $\angle{A}OB=180^\circ$, 故
 
 $$
-\angle AOE=180^\circ-105^\circ=75^\circ.
+\angle{A}OE=180^\circ-105^\circ=75^\circ.
 $$
 
 $\blacksquare$
 
 ## 练习三
 
-(练习 29.2 第 3 题) 如图, $OA$, $OB$, $OC$ 是 $\odot O$ 的三条半径, $\overset{\frown}{AC}=\overset{\frown}{BC}$, $M$, $N$ 分别是 $OA$, $OB$ 的中点. 求证 $MC=NC$.
+(练习 29.2 第 3 题) 如图, $OA$, $OB$, $OC$ 是 $\odot{O}$ 的三条半径, $\overset{\frown}{AC}=\overset{\frown}{BC}$, $M$, $N$ 分别是 $OA$, $OB$ 的中点. 求证 $MC=NC$.
 
 ### 解答 练习三
 
 由**定理 29.2.2 (圆心角, 弧, 弦的关系)**.
 
-$\overset{\frown}{AC}=\overset{\frown}{BC}$, 故 $\angle AOC=\angle BOC$. $M$, $N$ 分别为 $OA$, $OB$ 中点, 故 $OM=\frac12 OA=\frac12 OB=ON$. 在 $\triangle OMC$ 与 $\triangle ONC$ 中, $OM=ON$, $\angle MOC=\angle NOC$, $OC$ 公共, 故 $\triangle OMC\cong\triangle ONC$, 从而 $MC=NC$. $\blacksquare$
+$\overset{\frown}{AC}=\overset{\frown}{BC}$, 故 $\angle{A}OC=\angle{B}OC$. $M$, $N$ 分别为 $OA$, $OB$ 中点, 故 $OM=\frac12OA=\frac12OB=ON$. 在 $\triangle{O}MC$ 与 $\triangle{O}NC$ 中, $OM=ON$, $\angle{M}OC=\angle{N}OC$, $OC$ 公共, 故 $\triangle{O}MC\cong\triangle{O}NC$, 从而 $MC=NC$. $\blacksquare$
 
 ## 练习四
 
@@ -114,16 +114,16 @@ $\overset{\frown}{AC}=\overset{\frown}{BC}$, 故 $\angle AOC=\angle BOC$. $M$, $
 
 ## 练习五
 
-(练习 29.2 第 2 题) 如图, $OA$, $OB$, $OC$ 都是 $\odot O$ 的半径, $\angle AOB=2\angle BOC$, 求证 $\angle ACB=2\angle BAC$.
+(练习 29.2 第 2 题) 如图, $OA$, $OB$, $OC$ 都是 $\odot{O}$ 的半径, $\angle{A}OB=2\angle{B}OC$, 求证 $\angle{A}CB=2\angle{B}AC$.
 
 ### 解答 练习五
 
 由**定理 29.2.3 (圆周角定理)**.
 
-$\angle ACB$ 是 $\overset{\frown}{AB}$ 所对的圆周角, 故 $\angle ACB=\frac12\angle AOB$. $\angle BAC$ 是 $\overset{\frown}{BC}$ 所对的圆周角, 故 $\angle BAC=\frac12\angle BOC$. 由 $\angle AOB=2\angle BOC$, 得
+$\angle{A}CB$ 是 $\overset{\frown}{AB}$ 所对的圆周角, 故 $\angle{A}CB=\frac12\angle{A}OB$. $\angle{B}AC$ 是 $\overset{\frown}{BC}$ 所对的圆周角, 故 $\angle{B}AC=\frac12\angle{B}OC$. 由 $\angle{A}OB=2\angle{B}OC$, 得
 
 $$
-\angle ACB=\frac12\cdot 2\angle BOC=2\cdot\frac12\angle BOC=2\angle BAC.
+\angle{A}CB=\frac12\cdot2\angle{B}OC=2\cdot\frac12\angle{B}OC=2\angle{B}AC.
 $$
 
 $\blacksquare$
@@ -148,39 +148,39 @@ $\blacksquare$
 
 由**定理 29.2.3 (圆周角定理)**.
 
-同弧所对的圆周角相等. $\angle BAC$ 与 $\angle BDC$ 都对 $\overset{\frown}{BC}$, 故相等; $\angle CBD$ 与 $\angle CAD$ 都对 $\overset{\frown}{CD}$, 故相等; $\angle ACD$ 与 $\angle ABD$ 都对 $\overset{\frown}{AD}$, 故相等; $\angle ADB$ 与 $\angle ACB$ 都对 $\overset{\frown}{AB}$, 故相等. $\blacksquare$
+同弧所对的圆周角相等. $\angle{B}AC$ 与 $\angle{B}DC$ 都对 $\overset{\frown}{BC}$, 故相等; $\angle{C}BD$ 与 $\angle{C}AD$ 都对 $\overset{\frown}{CD}$, 故相等; $\angle{A}CD$ 与 $\angle{A}BD$ 都对 $\overset{\frown}{AD}$, 故相等; $\angle{A}DB$ 与 $\angle{A}CB$ 都对 $\overset{\frown}{AB}$, 故相等. $\blacksquare$
 
 ## 练习八
 
-(练习 29.2 第 2 题) 如图, 四边形 $ABCD$ 是 $\odot O$ 的内接四边形, $E$ 为 $CB$ 延长线上一点. 若 $\angle D=110^\circ$, 求 $\angle ABE$ 的度数.
+(练习 29.2 第 2 题) 如图, 四边形 $ABCD$ 是 $\odot{O}$ 的内接四边形, $E$ 为 $CB$ 延长线上一点. 若 $\angle{D}=110^\circ$, 求 $\angle{A}BE$ 的度数.
 
 ### 解答 练习八
 
 由**性质 29.2.3 (圆内接四边形的性质)**.
 
-圆内接四边形对角互补, $\angle ABC+\angle D=180^\circ$, 故 $\angle ABC=180^\circ-110^\circ=70^\circ$. 又 $E$ 在 $CB$ 延长线上, $\angle ABE+\angle ABC=180^\circ$, 故 $\angle ABE=110^\circ$. $\blacksquare$
+圆内接四边形对角互补, $\angle{A}BC+\angle{D}=180^\circ$, 故 $\angle{A}BC=180^\circ-110^\circ=70^\circ$. 又 $E$ 在 $CB$ 延长线上, $\angle{A}BE+\angle{A}BC=180^\circ$, 故 $\angle{A}BE=110^\circ$. $\blacksquare$
 
 ## 练习九
 
-(练习 29.2 第 3 题) 如图, 四边形 $ABCD$ 是 $\odot O$ 的内接四边形, 且 $AB=AD$. 若 $\angle C=78^\circ$, 求 $\angle ABD$ 的度数.
+(练习 29.2 第 3 题) 如图, 四边形 $ABCD$ 是 $\odot{O}$ 的内接四边形, 且 $AB=AD$. 若 $\angle{C}=78^\circ$, 求 $\angle{A}BD$ 的度数.
 
 ### 解答 练习九
 
 由**性质 29.2.3 (圆内接四边形的性质)**.
 
-$\angle A+\angle C=180^\circ$, 故 $\angle A=102^\circ$. 在 $\triangle ABD$ 中, $AB=AD$, 故
+$\angle{A}+\angle{C}=180^\circ$, 故 $\angle{A}=102^\circ$. 在 $\triangle{A}BD$ 中, $AB=AD$, 故
 
 $$
-\angle ABD=\angle ADB=\frac{180^\circ-102^\circ}{2}=39^\circ.
+\angle{A}BD=\angle{A}DB=\frac{180^\circ-102^\circ}{2}=39^\circ.
 $$
 
 $\blacksquare$
 
 ## 习题一
 
-(习题 29.2 复习巩固第 1 题) 如图, 在半径为 $1$ 的 $\odot O$ 中, 弦 $AB$ 的长为 $1$.
+(习题 29.2 复习巩固第 1 题) 如图, 在半径为 $1$ 的 $\odot{O}$ 中, 弦 $AB$ 的长为 $1$.
 
-(1) 求 $\angle AOB$ 的度数;
+(1) 求 $\angle{A}OB$ 的度数;
 
 (2) 求点 $O$ 到 $AB$ 的距离.
 
@@ -188,36 +188,36 @@ $\blacksquare$
 
 由**定理 29.2.1 (垂径定理)**.
 
-$OA=OB=1$, $AB=1$, 故 $\triangle OAB$ 为等边三角形, $\angle AOB=60^\circ$.
+$OA=OB=1$, $AB=1$, 故 $\triangle{O}AB$ 为等边三角形, $\angle{A}OB=60^\circ$.
 
 点 $O$ 到 $AB$ 的距离 $d=\sqrt{1^2-\left(1/2\right)^2}=\frac{\sqrt3}{2}$. $\blacksquare$
 
 ## 习题二
 
-(习题 29.2 复习巩固第 2 题) 如图, 在 $\odot O$ 中, $AB=AC$, $\angle C=75^\circ$, 求 $\angle A$ 的度数.
+(习题 29.2 复习巩固第 2 题) 如图, 在 $\odot{O}$ 中, $AB=AC$, $\angle{C}=75^\circ$, 求 $\angle{A}$ 的度数.
 
 ### 解答 习题二
 
-$AB=AC$, $\triangle ABC$ 为等腰三角形, $\angle B=\angle C=75^\circ$, 故
+$AB=AC$, $\triangle{A}BC$ 为等腰三角形, $\angle{B}=\angle{C}=75^\circ$, 故
 
 $$
-\angle A=180^\circ-75^\circ-75^\circ=30^\circ.
+\angle{A}=180^\circ-75^\circ-75^\circ=30^\circ.
 $$
 
 $\blacksquare$
 
 ## 习题三
 
-(习题 29.2 复习巩固第 3 题) 如图, 在 $\odot O$ 中, $OA\perp BC$, $\angle AOB=50^\circ$, 求 $\angle ADC$ 的度数.
+(习题 29.2 复习巩固第 3 题) 如图, 在 $\odot{O}$ 中, $OA\perp{B}C$, $\angle{A}OB=50^\circ$, 求 $\angle{A}DC$ 的度数.
 
 ### 解答 习题三
 
 由**定理 29.2.1 (垂径定理)** 及**定理 29.2.3 (圆周角定理)**.
 
-$OA\perp BC$, 故 $\overset{\frown}{AB}=\overset{\frown}{AC}$, $\angle AOB$ 对应 $\overset{\frown}{AB}$, $\angle ADC$ 是 $\overset{\frown}{AC}$ 所对的圆周角, 故
+$OA\perp{B}C$, 故 $\overset{\frown}{AB}=\overset{\frown}{AC}$, $\angle{A}OB$ 对应 $\overset{\frown}{AB}$, $\angle{A}DC$ 是 $\overset{\frown}{AC}$ 所对的圆周角, 故
 
 $$
-\angle ADC=\frac12\angle AOB=25^\circ.
+\angle{A}DC=\frac12\angle{A}OB=25^\circ.
 $$
 
 $\blacksquare$
@@ -244,7 +244,7 @@ $\blacksquare$
 
 ## 习题六
 
-(习题 29.2 复习巩固第 6 题) $\odot O$ 的半径为 $13$, $AB$, $CD$ 是 $\odot O$ 的两条弦, $AB\parallel CD$, $AB=24$, $CD=10$. 求 $AB$ 和 $CD$ 之间的距离.
+(习题 29.2 复习巩固第 6 题) $\odot{O}$ 的半径为 $13$, $AB$, $CD$ 是 $\odot{O}$ 的两条弦, $AB\parallel{C}D$, $AB=24$, $CD=10$. 求 $AB$ 和 $CD$ 之间的距离.
 
 ### 解答 习题六
 
@@ -254,23 +254,23 @@ $\blacksquare$
 
 ## 习题七
 
-(习题 29.2 综合运用第 7 题) 如图, $AB$, $CD$ 是 $\odot O$ 的两条平行弦, $MN$ 是 $AB$ 的垂直平分线. 求证 $MN$ 垂直平分 $CD$.
+(习题 29.2 综合运用第 7 题) 如图, $AB$, $CD$ 是 $\odot{O}$ 的两条平行弦, $MN$ 是 $AB$ 的垂直平分线. 求证 $MN$ 垂直平分 $CD$.
 
 ### 解答 习题七
 
 由**定理 29.2.1 (垂径定理)**.
 
-$MN$ 垂直平分 $AB$, 故 $MN$ 过圆心 $O$. 又 $AB\parallel CD$, 故 $MN\perp CD$, 由垂径定理 $MN$ 平分 $CD$. $\blacksquare$
+$MN$ 垂直平分 $AB$, 故 $MN$ 过圆心 $O$. 又 $AB\parallel{C}D$, 故 $MN\perp{C}D$, 由垂径定理 $MN$ 平分 $CD$. $\blacksquare$
 
 ## 习题八
 
-(习题 29.2 综合运用第 8 题) 如图, 一条公路的转弯处是一段圆弧 $\overset{\frown}{AB}$, 点 $O$ 是这段弧所在圆的圆心. $AB=300\,\text{m}$, $C$ 是 $\overset{\frown}{AB}$ 上一点, $OC\perp AB$, 垂足为 $D$, $CD=45\,\text{m}$. 求这段弯路所在圆的半径长.
+(习题 29.2 综合运用第 8 题) 如图, 一条公路的转弯处是一段圆弧 $\overset{\frown}{AB}$, 点 $O$ 是这段弧所在圆的圆心. $AB=300\,\text{m}$, $C$ 是 $\overset{\frown}{AB}$ 上一点, $OC\perp{A}B$, 垂足为 $D$, $CD=45\,\text{m}$. 求这段弯路所在圆的半径长.
 
 ### 解答 习题八
 
 由**定理 29.2.1 (垂径定理)**.
 
-设半径为 $R$, $AD=150$, $OD=R-45$. 在 $\text{Rt}\triangle OAD$ 中,
+设半径为 $R$, $AD=150$, $OD=R-45$. 在 $\text{Rt}\triangle{O}AD$ 中,
 
 $$
 R^2=150^2+\left(R-45\right)^2=22500+R^2-90R+2025.
@@ -280,27 +280,27 @@ $$
 
 ## 习题九
 
-(习题 29.2 综合运用第 9 题) 如图, $A$, $B$ 是 $\odot O$ 上的两点, $\angle AOB=120^\circ$, $C$ 是 $\overset{\frown}{AB}$ 的中点. 求证四边形 $OACB$ 是菱形.
+(习题 29.2 综合运用第 9 题) 如图, $A$, $B$ 是 $\odot{O}$ 上的两点, $\angle{A}OB=120^\circ$, $C$ 是 $\overset{\frown}{AB}$ 的中点. 求证四边形 $OACB$ 是菱形.
 
 ### 解答 习题九
 
 由**定理 29.2.2 (圆心角, 弧, 弦的关系)**.
 
-$C$ 为 $\overset{\frown}{AB}$ 中点, 故 $\angle AOC=\angle COB=60^\circ$. $OA=OC$, $\triangle AOC$ 为等边三角形, $AC=OA$. 同理 $BC=OB$. 故 $OA=AC=CB=BO$, 四边形 $OACB$ 为菱形. $\blacksquare$
+$C$ 为 $\overset{\frown}{AB}$ 中点, 故 $\angle{A}OC=\angle{C}OB=60^\circ$. $OA=OC$, $\triangle{A}OC$ 为等边三角形, $AC=OA$. 同理 $BC=OB$. 故 $OA=AC=CB=BO$, 四边形 $OACB$ 为菱形. $\blacksquare$
 
 ## 习题十
 
-(习题 29.2 综合运用第 10 题) 如图, $A$, $P$, $B$, $C$ 是 $\odot O$ 上的四个点, $\angle APC=\angle CPB=60^\circ$. 判断 $\triangle ABC$ 的形状, 并证明你的结论.
+(习题 29.2 综合运用第 10 题) 如图, $A$, $P$, $B$, $C$ 是 $\odot{O}$ 上的四个点, $\angle{A}PC=\angle{C}PB=60^\circ$. 判断 $\triangle{A}BC$ 的形状, 并证明你的结论.
 
 ### 解答 习题十
 
 由**定理 29.2.3 (圆周角定理)**.
 
-$\angle ABC=\angle APC=60^\circ$, $\angle BAC=\angle CPB=60^\circ$, 故 $\angle ACB=60^\circ$, $\triangle ABC$ 为等边三角形. $\blacksquare$
+$\angle{A}BC=\angle{A}PC=60^\circ$, $\angle{B}AC=\angle{C}PB=60^\circ$, 故 $\angle{A}CB=60^\circ$, $\triangle{A}BC$ 为等边三角形. $\blacksquare$
 
 ## 习题十一
 
-(习题 29.2 综合运用第 11 题) 如图, $AD$, $BC$ 是 $\odot O$ 上的两条弦, $AD=BC$. 判断 $AB$ 和 $CD$ 的长是否相等, 并证明你的结论.
+(习题 29.2 综合运用第 11 题) 如图, $AD$, $BC$ 是 $\odot{O}$ 上的两条弦, $AD=BC$. 判断 $AB$ 和 $CD$ 的长是否相等, 并证明你的结论.
 
 ### 解答 习题十一
 
@@ -310,23 +310,23 @@ $AD=BC$, 故 $\overset{\frown}{AD}=\overset{\frown}{BC}$. 两边同时加 $\over
 
 ## 习题十二
 
-(习题 29.2 综合运用第 12 题) 如图, $AB$, $CD$ 是 $\odot O$ 上的两条弦, $OM\perp AB$, $ON\perp CD$, 垂足分别为 $M$, $N$. 如果 $AB> CD$, $OM$ 和 $ON$ 的大小有什么关系? 为什么?
+(习题 29.2 综合运用第 12 题) 如图, $AB$, $CD$ 是 $\odot{O}$ 上的两条弦, $OM\perp{A}B$, $ON\perp{C}D$, 垂足分别为 $M$, $N$. 如果 $AB>{}CD$, $OM$ 和 $ON$ 的大小有什么关系? 为什么?
 
 ### 解答 习题十二
 
 由**定理 29.2.1 (垂径定理)**.
 
-设半径为 $R$, $OM=\sqrt{R^2-\left(AB/2\right)^2}$, $ON=\sqrt{R^2-\left(CD/2\right)^2}$. $AB> CD$ 时 $\left(AB/2\right)^2> \left(CD/2\right)^2$, 故 $OM< ON$. $\blacksquare$
+设半径为 $R$, $OM=\sqrt{R^2-\left(AB/2\right)^2}$, $ON=\sqrt{R^2-\left(CD/2\right)^2}$. $AB>{}CD$ 时 $\left(AB/2\right)^2>\left(CD/2\right)^2$, 故 $OM<{}ON$. $\blacksquare$
 
 ## 习题十三
 
-(习题 29.2 拓广探索第 13 题) 如图, 铁路 $MN$ 和公路 $PQ$ 在点 $O$ 处交会, $\angle QON=30^\circ$, 在点 $A$ 处有一栋居民楼, $AO=200\,\text{m}$. 如果火车行驶时周围 $200\,\text{m}$ 以内会受到噪声影响, 那么火车在铁路 $MN$ 上沿 $QN$ 方向行驶时, 居民楼是否会受到噪声影响? 如果火车行驶的速度为 $72\,\text{km/h}$, 居民楼受噪声影响的时间为多少秒?
+(习题 29.2 拓广探索第 13 题) 如图, 铁路 $MN$ 和公路 $PQ$ 在点 $O$ 处交会, $\angle{Q}ON=30^\circ$, 在点 $A$ 处有一栋居民楼, $AO=200\,\text{m}$. 如果火车行驶时周围 $200\,\text{m}$ 以内会受到噪声影响, 那么火车在铁路 $MN$ 上沿 $QN$ 方向行驶时, 居民楼是否会受到噪声影响? 如果火车行驶的速度为 $72\,\text{km/h}$, 居民楼受噪声影响的时间为多少秒?
 
 ### 解答 习题十三
 
 由**推论 29.2.2 (圆周角推论)**.
 
-过 $A$ 作 $AB\perp MN$ 于 $B$. 在 $\text{Rt}\triangle AOB$ 中, $\angle AOB=30^\circ$, $AO=200$, 故 $AB=AO\sin30^\circ=100< 200$, 居民楼会受到噪声影响.
+过 $A$ 作 $AB\perp{M}N$ 于 $B$. 在 $\text{Rt}\triangle{A}OB$ 中, $\angle{A}OB=30^\circ$, $AO=200$, 故 $AB=AO\sin30^\circ=100<200$, 居民楼会受到噪声影响.
 
 以 $A$ 为圆心, $200$ 为半径作圆, 交 $MN$ 于 $C$, $D$. $BC=\sqrt{200^2-100^2}=100\sqrt3$, $CD=200\sqrt3$. 车速 $72\,\text{km/h}=20\,\text{m/s}$, 故影响时间为
 
@@ -338,13 +338,13 @@ $\blacksquare$
 
 ## 习题十四
 
-(习题 29.2 拓广探索第 14 题) 如图, 一个海港在 $\overset{\frown}{AB}$ 范围内是浅滩. 为了使深水船只不进入浅滩, 需要测量船所在位置与两个灯塔的视角 $\angle APB$, 并把它与已知的危险角 $\angle ACB$ 相比较, 航行中保持 $\angle APB< \angle ACB$. 你知道这样做的道理吗?
+(习题 29.2 拓广探索第 14 题) 如图, 一个海港在 $\overset{\frown}{AB}$ 范围内是浅滩. 为了使深水船只不进入浅滩, 需要测量船所在位置与两个灯塔的视角 $\angle{A}PB$, 并把它与已知的危险角 $\angle{A}CB$ 相比较, 航行中保持 $\angle{A}PB<\angle{A}CB$. 你知道这样做的道理吗?
 
 ### 解答 习题十四
 
 由**定理 29.2.3 (圆周角定理)**.
 
-以 $AB$ 为弦作圆, $\angle ACB$ 是浅滩边界上的圆周角. 当船在圆外时, $\angle APB< \angle ACB$; 当船在圆内 (浅滩) 时, $\angle APB> \angle ACB$. 故保持 $\angle APB< \angle ACB$ 可使船在浅滩边界圆之外. $\blacksquare$
+以 $AB$ 为弦作圆, $\angle{A}CB$ 是浅滩边界上的圆周角. 当船在圆外时, $\angle{A}PB<\angle{A}CB$; 当船在圆内 (浅滩) 时, $\angle{A}PB>\angle{A}CB$. 故保持 $\angle{A}PB<\angle{A}CB$ 可使船在浅滩边界圆之外. $\blacksquare$
 
 ## 练习十
 
@@ -365,14 +365,14 @@ $\blacksquare$
 由**公式 29.3.1 (弧长公式)**.
 
 $$
-12=\frac{81\pi R}{180},\quad R=\frac{12\times180}{81\pi}=\frac{240}{9\pi}\approx8.5\,\text{m}.
+12=\frac{81\pi{R}}{180},\quad{R}=\frac{12\times180}{81\pi}=\frac{240}{9\pi}\approx8.5\,\text{m}.
 $$
 
 $\blacksquare$
 
 ## 练习十二
 
-(练习 29.3 第 3 题) 如图, $\triangle ABC$ 是边长为 $a$ 的等边三角形, $D$, $E$, $F$ 分别是 $BC$, $CA$, $AB$ 的中点, 以 $A$, $B$, $C$ 三点为圆心, $\frac{a}{2}$ 为半径作圆. 求图中阴影部分的面积.
+(练习 29.3 第 3 题) 如图, $\triangle{A}BC$ 是边长为 $a$ 的等边三角形, $D$, $E$, $F$ 分别是 $BC$, $CA$, $AB$ 的中点, 以 $A$, $B$, $C$ 三点为圆心, $\frac{a}{2}$ 为半径作圆. 求图中阴影部分的面积.
 
 ### 解答 练习十二
 
@@ -381,13 +381,13 @@ $\blacksquare$
 三个扇形圆心角均为 $60^\circ$, 半径为 $\frac{a}{2}$. 三个扇形面积之和为
 
 $$
-3\cdot\frac{60\pi \left(a/2\right)^2}{360}=\frac{\pi a^2}{8}.
+3\cdot\frac{60\pi\left(a/2\right)^2}{360}=\frac{\pi{a}^2}{8}.
 $$
 
 等边三角形面积为 $\frac{\sqrt3}{4}a^2$, 故阴影面积为
 
 $$
-\frac{\sqrt3}{4}a^2-\frac{\pi a^2}{8}=\frac{a^2}{8}\left(2\sqrt3-\pi\right).
+\frac{\sqrt3}{4}a^2-\frac{\pi{a}^2}{8}=\frac{a^2}{8}\left(2\sqrt3-\pi\right).
 $$
 
 $\blacksquare$
@@ -426,11 +426,11 @@ $\blacksquare$
 
 由**公式 29.3.1 (弧长公式)** 及**公式 29.3.2 (扇形面积公式)**.
 
-(1) $2.5\pi=\frac{75\pi R}{180}$, 得 $R=6$.
+(1) $2.5\pi=\frac{75\pi{R}}{180}$, 得 $R=6$.
 
-(2) $S=\frac12 lR$, $240\pi=\frac12\cdot20\pi\cdot R$, $R=24$. 又 $20\pi=\frac{n\pi\cdot24}{180}$, $n=150^\circ$.
+(2) $S=\frac12lR$, $240\pi=\frac12\cdot20\pi\cdot{R}$, $R=24$. 又 $20\pi=\frac{n\pi\cdot24}{180}$, $n=150^\circ$.
 
-(3) 扇形弧长 $l=\frac{120\pi\cdot4}{180}=\frac{8\pi}{3}$, 即底面周长 $2\pi r=\frac{8\pi}{3}$, $r=\frac43$. $\blacksquare$
+(3) 扇形弧长 $l=\frac{120\pi\cdot4}{180}=\frac{8\pi}{3}$, 即底面周长 $2\pi{r}=\frac{8\pi}{3}$, $r=\frac43$. $\blacksquare$
 
 ## 习题十六
 
@@ -440,7 +440,7 @@ $\blacksquare$
 
 由**公式 29.3.1 (弧长公式)**.
 
-传送带由两段外公切线和两个半圆组成. 两半圆合为一个整圆周长 $2\pi R$, 两段公切线各为中心距 $d$. 总长为 $2d+2\pi R$. $\blacksquare$
+传送带由两段外公切线和两个半圆组成. 两半圆合为一个整圆周长 $2\pi{R}$, 两段公切线各为中心距 $d$. 总长为 $2d+2\pi{R}$. $\blacksquare$
 
 ## 习题十七
 
@@ -450,17 +450,17 @@ $\blacksquare$
 
 由**公式 29.3.2 (扇形面积公式)**.
 
-四个半圆面积之和为 $4\cdot\frac12\pi\left(a/2\right)^2=\frac{\pi a^2}{2}$, 正方形面积为 $a^2$. 阴影面积 (四个半圆重叠部分) 为
+四个半圆面积之和为 $4\cdot\frac12\pi\left(a/2\right)^2=\frac{\pi{a}^2}{2}$, 正方形面积为 $a^2$. 阴影面积 (四个半圆重叠部分) 为
 
 $$
-\frac{\pi a^2}{2}-a^2=\frac{a^2}{2}\left(\pi-2\right).
+\frac{\pi{a}^2}{2}-a^2=\frac{a^2}{2}\left(\pi-2\right).
 $$
 
 $\blacksquare$
 
 ## 习题十八
 
-(习题 29.3 复习巩固第 4 题) 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^\circ$, $AC=3$, $BC=4$. 把 $\triangle ABC$ 分别沿三边所在直线旋转一周. 求所得三个几何体的全面积.
+(习题 29.3 复习巩固第 4 题) 在 $\text{Rt}\triangle{A}BC$ 中, $\angle{C}=90^\circ$, $AC=3$, $BC=4$. 把 $\triangle{A}BC$ 分别沿三边所在直线旋转一周. 求所得三个几何体的全面积.
 
 ### 解答 习题十八
 
@@ -476,7 +476,7 @@ $AB=5$.
 
 ## 习题十九
 
-(习题 29.3 综合运用第 5 题) 在航海中, $1\,\text{n mile}$ 近似等于赤道所在圆中 $1'$ 的圆心角所对的弧长. 已知地球半径约为 $6370\,\text{km}$, $1\,\text{n mile}$ 约等于多少米?
+(习题 29.3 综合运用第 5 题) 在航海中, $1\,\text{n~mile}$ 近似等于赤道所在圆中 $1'$ 的圆心角所对的弧长. 已知地球半径约为 $6370\,\text{km}$, $1\,\text{n~mile}$ 约等于多少米?
 
 ### 解答 习题十九
 

@@ -10,7 +10,7 @@
 
 > **Conclusion 21.1.3 (Interior Angle Sum of a Polygon)**
 > 
-> The interior angle sum of an \(n\)-gon is \((n-2)\times 180^{\circ}\).
+> The interior angle sum of an \(n\)-gon is \((n-2)\times180^{\circ}\).
 
 > **Property 21.2.1 (Opposite Sides)**
 > 
@@ -56,25 +56,25 @@
 
 (Exercise 21.3.2, Problem 1)
 
-Quadrilateral \(ABCD\) is a rhombus, the diagonals \(AC,BD\) intersect at point \(O\), and \(AB=5,\ AO=4\). Find the lengths of \(AC,BD\) and the area of rhombus \(ABCD\).
+Quadrilateral \(ABCD\) is a rhombus, the diagonals \(AC,BD\) intersect at point \(O\), and \(AB=5,\,AO=4\). Find the lengths of \(AC,BD\) and the area of rhombus \(ABCD\).
 
-By Basic Knowledge, \(AC\perp BD\).
+By Basic Knowledge, \(AC\perp{B}D\).
 
-In \(Rt\triangle AOB\), \(BO=\sqrt{AB^{2}-AO^{2}}=\sqrt{25-16}=3\).
+In \(Rt\triangle{A}OB\), \(BO=\sqrt{AB^{2}-AO^{2}}=\sqrt{25-16}=3\).
 
-Therefore \(AC=2AO=8,\ BD=2BO=6\).
+Therefore \(AC=2AO=8,\,BD=2BO=6\).
 
-Area of the rhombus \(=\frac{1}{2}\times AC\times BD=\frac{1}{2}\times 8\times 6=24\).
+Area of the rhombus \(=\frac{1}{2}\times{A}C\times{B}D=\frac{1}{2}\times8\times6=24\).
 
 \(\blacksquare\)
 
 (Exercise 21.3.2, Problem 2)
 
-As shown in the figure, in rhombus \(ABCD\), \(BD=4,\ \angle A:\angle ABC=1:2\). Find the perimeter of \(\triangle ABD\).
+As shown in the figure, in rhombus \(ABCD\), \(BD=4,\,\angle{A}:\angle{A}BC=1:2\). Find the perimeter of \(\triangle{A}BD\).
 
-Adjacent angles of a rhombus are supplementary, \(\angle A+\angle ABC=180^{\circ}\); with ratio \(1:2\), \(\angle A=60^{\circ}\).
+Adjacent angles of a rhombus are supplementary, \(\angle{A}+\angle{A}BC=180^{\circ}\); with ratio \(1:2\), \(\angle{A}=60^{\circ}\).
 
-Also \(AB=AD\), so \(\triangle ABD\) is equilateral, \(AB=AD=BD=4\).
+Also \(AB=AD\), so \(\triangle{A}BD\) is equilateral, \(AB=AD=BD=4\).
 
 Therefore the perimeter \(=12\).
 
@@ -82,13 +82,13 @@ Therefore the perimeter \(=12\).
 
 (Exercise 21.3.2, Problem 3)
 
-As shown in the figure, in rhombus \(ABCD\), \(\angle A=60^{\circ}\), connect diagonal \(BD\); \(E,F\) are the midpoints of sides \(AB,BC\), respectively; connect \(DE,DF,EF\). Prove that \(\triangle DEF\) is equilateral.
+As shown in the figure, in rhombus \(ABCD\), \(\angle{A}=60^{\circ}\), connect diagonal \(BD\); \(E,F\) are the midpoints of sides \(AB,BC\), respectively; connect \(DE,DF,EF\). Prove that \(\triangle{D}EF\) is equilateral.
 
-\(\angle A=60^{\circ}\) and \(AB=AD\), so \(\triangle ABD\) is equilateral.
+\(\angle{A}=60^{\circ}\) and \(AB=AD\), so \(\triangle{A}BD\) is equilateral.
 
-\(E\) is the midpoint of \(AB\), so \(DE\perp AB\). Similarly \(DF\perp BC\).
+\(E\) is the midpoint of \(AB\), so \(DE\perp{A}B\). Similarly \(DF\perp{B}C\).
 
-By the symmetry of the rhombus and that \(E,F\) are midpoints, one can prove \(DE=DF=EF\), so \(\triangle DEF\) is equilateral.
+By the symmetry of the rhombus and that \(E,F\) are midpoints, one can prove \(DE=DF=EF\), so \(\triangle{D}EF\) is equilateral.
 
 \(\blacksquare\)
 
@@ -118,9 +118,9 @@ Therefore the parallelogram has equal adjacent sides, and is a rhombus.
 
 (Exercise 21.3.2, Problem 3)
 
-A triangular piece of paper is shown in the figure. Fold it to make a rhombus such that \(\angle A\) is one interior angle of the rhombus, and the vertex opposite point \(A\) lies on side \(BC\); explain why the folded figure is a rhombus.
+A triangular piece of paper is shown in the figure. Fold it to make a rhombus such that \(\angle{A}\) is one interior angle of the rhombus, and the vertex opposite point \(A\) lies on side \(BC\); explain why the folded figure is a rhombus.
 
-Fold the two sides of \(\angle A\) so that the opposite vertex falls on \(BC\); the crease forms the diagonal of the rhombus.
+Fold the two sides of \(\angle{A}\) so that the opposite vertex falls on \(BC\); the crease forms the diagonal of the rhombus.
 
 The folded quadrilateral has four equal sides, so it is a rhombus.
 
@@ -142,13 +142,13 @@ The folded quadrilateral has four equal sides, so it is a rhombus.
 
 (Exercise 21.3.3, Problem 2)
 
-As shown in the figure, the four vertices of a square field are \(A,B,C,D\). Take a point \(E\) on side \(AB\), \(EC=30\ \text{m},\ EB=10\ \text{m}\). What are the area and the diagonal length of this field?
+As shown in the figure, the four vertices of a square field are \(A,B,C,D\). Take a point \(E\) on side \(AB\), \(EC=30\,\text{m},\,EB=10\,\text{m}\). What are the area and the diagonal length of this field?
 
-In \(Rt\triangle EBC\), \(BC=\sqrt{EC^{2}-EB^{2}}=\sqrt{900-100}=\sqrt{800}=20\sqrt{2}\ \text{m}\).
+In \(Rt\triangle{E}BC\), \(BC=\sqrt{EC^{2}-EB^{2}}=\sqrt{900-100}=\sqrt{800}=20\sqrt{2}\,\text{m}\).
 
-Area \(=BC^{2}=800\ \text{m}^{2}\).
+Area \(=BC^{2}=800\,\text{m}^{2}\).
 
-Diagonal \(=\sqrt{2}\cdot BC=40\ \text{m}\).
+Diagonal \(=\sqrt{2}\cdot{B}C=40\,\text{m}\).
 
 \(\blacksquare\)
 
@@ -156,7 +156,7 @@ Diagonal \(=\sqrt{2}\cdot BC=40\ \text{m}\).
 
 As shown in the figure, the four vertices of a square lawn are \(A,B,C,D\). Build two paths \(BE\) and \(AF\) such that points \(E,F\) lie on sides \(AD,CD\), respectively, and \(DE=CF\). Are the two paths equal in length? What is their positional relation? Why?
 
-From \(DE=CF\) and the equal sides of the square, one can prove \(\triangle ADF\cong\triangle DCE\).
+From \(DE=CF\) and the equal sides of the square, one can prove \(\triangle{A}DF\cong\triangle{D}CE\).
 
 Therefore \(AF=BE\), and the two lines are perpendicular.
 
@@ -188,9 +188,9 @@ Is a quadrilateral satisfying the following condition a square? Why?
 
 (Exercise 21.3.3, Problem 2)
 
-As shown in the figure, in \(Rt\triangle ABC\), \(\angle ACB=90^{\circ}\), \(CD\) bisects \(\angle ACB\), \(DE\perp BC,\ DF\perp AC\), with feet \(E,F\), respectively. Prove that quadrilateral \(CEDF\) is a square.
+As shown in the figure, in \(Rt\triangle{A}BC\), \(\angle{A}CB=90^{\circ}\), \(CD\) bisects \(\angle{A}CB\), \(DE\perp{B}C,\,DF\perp{A}C\), with feet \(E,F\), respectively. Prove that quadrilateral \(CEDF\) is a square.
 
-\(\angle C=90^{\circ}\), and \(DE\perp BC,\ DF\perp AC\), so quadrilateral \(CEDF\) has three right angles and is a rectangle.
+\(\angle{C}=90^{\circ}\), and \(DE\perp{B}C,\,DF\perp{A}C\), so quadrilateral \(CEDF\) has three right angles and is a rectangle.
 
 \(CD\) bisects the right angle; by the equal distances from a point on the angle bisector to the two sides, \(DE=DF\).
 
@@ -212,9 +212,9 @@ By Exercise 6, Problem 1(4), it is a square.
 
 (Exercise 21.3, Review and Consolidation, Problem 1)
 
-As shown in the figure, quadrilateral \(ABCD\) is a parallelogram, the diagonals \(AC,BD\) intersect at point \(O\), and \(\angle 1=\angle 2\). Is quadrilateral \(ABCD\) a rectangle? Why?
+As shown in the figure, quadrilateral \(ABCD\) is a parallelogram, the diagonals \(AC,BD\) intersect at point \(O\), and \(\angle1=\angle2\). Is quadrilateral \(ABCD\) a rectangle? Why?
 
-From \(\angle 1=\angle 2\), we get \(AC=BD\).
+From \(\angle1=\angle2\), we get \(AC=BD\).
 
 A parallelogram with equal diagonals is a rectangle, so \(ABCD\) is a rectangle.
 
@@ -232,37 +232,37 @@ The cuts are perpendicular to the long side, i.e. there is a right angle, so the
 
 (Exercise 21.3, Review and Consolidation, Problem 3)
 
-In \(Rt\triangle ABC\), \(\angle C=90^{\circ},\ AB=2AC\). Find the degree measures of \(\angle A,\angle B\).
+In \(Rt\triangle{A}BC\), \(\angle{C}=90^{\circ},\,AB=2AC\). Find the degree measures of \(\angle{A},\angle{B}\).
 
 By Basic Knowledge, the median to the hypotenuse \(=\frac{1}{2}AB=AC\).
 
-Therefore the triangle is a right triangle with a \(30^{\circ}\) angle, \(\angle B=30^{\circ},\ \angle A=60^{\circ}\).
+Therefore the triangle is a right triangle with a \(30^{\circ}\) angle, \(\angle{B}=30^{\circ},\,\angle{A}=60^{\circ}\).
 
 \(\blacksquare\)
 
 (Exercise 21.3, Review and Consolidation, Problem 4)
 
-As shown in the figure, quadrilateral \(ABCD\) is a rhombus, \(\angle ACD=30^{\circ},\ BD=6\). Find:
+As shown in the figure, quadrilateral \(ABCD\) is a rhombus, \(\angle{A}CD=30^{\circ},\,BD=6\). Find:
 
-(1) the degree measures of \(\angle BAD,\ \angle ABC\);
+(1) the degree measures of \(\angle{B}AD,\,\angle{A}BC\);
 
-(2) the lengths of \(AB,\ AC\).
+(2) the lengths of \(AB,\,AC\).
 
-(1) \(\angle ACD=30^{\circ}\); the diagonal of a rhombus bisects the interior angle, so \(\angle BCD=60^{\circ}\), \(\angle BAD=60^{\circ},\ \angle ABC=120^{\circ}\).
+(1) \(\angle{A}CD=30^{\circ}\); the diagonal of a rhombus bisects the interior angle, so \(\angle{B}CD=60^{\circ}\), \(\angle{B}AD=60^{\circ},\,\angle{A}BC=120^{\circ}\).
 
-(2) \(BD=6\), half-diagonal \(OD=3\). In \(Rt\triangle COD\), \(CD=\frac{OD}{\sin 30^{\circ}}=6\), so \(AB=6\).
+(2) \(BD=6\), half-diagonal \(OD=3\). In \(Rt\triangle{C}OD\), \(CD=\frac{OD}{\sin30^{\circ}}=6\), so \(AB=6\).
 
-\(OC=\frac{OD}{\tan 30^{\circ}}=3\sqrt{3}\), so \(AC=6\sqrt{3}\).
+\(OC=\frac{OD}{\tan30^{\circ}}=3\sqrt{3}\), so \(AC=6\sqrt{3}\).
 
 \(\blacksquare\)
 
 (Exercise 21.3, Review and Consolidation, Problem 5)
 
-As shown in the figure, \(AE\parallel BF\), \(AC\) bisects \(\angle BAE\) and meets \(BF\) at point \(C\), \(BD\) bisects \(\angle ABF\) and meets \(AE\) at point \(D\); connect \(CD\). Prove that quadrilateral \(ABCD\) is a rhombus.
+As shown in the figure, \(AE\parallel{B}F\), \(AC\) bisects \(\angle{B}AE\) and meets \(BF\) at point \(C\), \(BD\) bisects \(\angle{A}BF\) and meets \(AE\) at point \(D\); connect \(CD\). Prove that quadrilateral \(ABCD\) is a rhombus.
 
-From \(AE\parallel BF\), we get \(\angle DAC=\angle ACB\); together with the angle bisectors, this gives \(AB=BC\) and \(AB=AD\).
+From \(AE\parallel{B}F\), we get \(\angle{D}AC=\angle{A}CB\); together with the angle bisectors, this gives \(AB=BC\) and \(AB=AD\).
 
-Therefore \(AD\parallel BC\) and \(AD=AB=BC\); the quadrilateral is a parallelogram with equal adjacent sides, i.e. a rhombus.
+Therefore \(AD\parallel{B}C\) and \(AD=AB=BC\); the quadrilateral is a parallelogram with equal adjacent sides, i.e. a rhombus.
 
 \(\blacksquare\)
 
@@ -270,9 +270,9 @@ Therefore \(AD\parallel BC\) and \(AD=AB=BC\); the quadrilateral is a parallelog
 
 As shown in the figure, \(E\) is a point on diagonal \(BD\) of square \(ABCD\), and \(BE=BC\); the line through point \(E\) perpendicular to \(BD\) meets \(CD\) at point \(F\); connect \(BF\). Are \(DE\) and \(CF\) equal? Explain why.
 
-From \(BE=BC\), \(BF\) common, and \(\triangle BEF\cong\triangle BCF\), one can prove \(EF=CF\).
+From \(BE=BC\), \(BF\) common, and \(\triangle{B}EF\cong\triangle{B}CF\), one can prove \(EF=CF\).
 
-Also \(\triangle DEF\) is an isosceles right triangle, \(DE=EF\).
+Also \(\triangle{D}EF\) is an isosceles right triangle, \(DE=EF\).
 
 Therefore \(DE=CF\).
 
@@ -290,37 +290,37 @@ After two folds, for the cut-out rhombus to be a square, the cut line should mee
 
 (Exercise 21.3, Comprehensive Application, Problem 8)
 
-As shown in the figure, fold rectangular paper \(ABCD\) along line \(BD\) so that point \(C\) lands at \(C'\); \(BC'\) and \(AD\) intersect at point \(E\); \(AD=8\ \text{cm},\ AB=4\ \text{cm}\). What is the length of \(DE\)? What about the area of \(\triangle BDE\)?
+As shown in the figure, fold rectangular paper \(ABCD\) along line \(BD\) so that point \(C\) lands at \(C'\); \(BC'\) and \(AD\) intersect at point \(E\); \(AD=8\,\text{cm},\,AB=4\,\text{cm}\). What is the length of \(DE\)? What about the area of \(\triangle{B}DE\)?
 
-After folding, \(\angle EBD=\angle DBC=\angle EDB\), so \(\triangle EBD\) is isosceles, \(EB=ED\).
+After folding, \(\angle{E}BD=\angle{D}BC=\angle{E}DB\), so \(\triangle{E}BD\) is isosceles, \(EB=ED\).
 
-Let \(DE=x\), then \(AE=8-x\). In \(Rt\triangle ABE\), \(AB^{2}+AE^{2}=BE^{2}\), i.e.
+Let \(DE=x\), then \(AE=8-x\). In \(Rt\triangle{A}BE\), \(AB^{2}+AE^{2}=BE^{2}\), i.e.
 
 $$
-16+\left(8-x\right)^{2}=x^{2},\quad 16+64-16x=0,\quad x=5.
+16+\left(8-x\right)^{2}=x^{2},\quad16+64-16x=0,\quad{x}=5.
 $$
 
-Therefore \(DE=5\ \text{cm}\).
+Therefore \(DE=5\,\text{cm}\).
 
-Area \(=\frac{1}{2}\times DE\times AB=\frac{1}{2}\times 5\times 4=10\ \text{cm}^{2}\).
+Area \(=\frac{1}{2}\times{D}E\times{A}B=\frac{1}{2}\times5\times4=10\,\text{cm}^{2}\).
 
 \(\blacksquare\)
 
 (Exercise 21.3, Comprehensive Application, Problem 9)
 
-As shown in the figure, in \(Rt\triangle ABC\), \(\angle ACB=90^{\circ}\), \(CD\perp AB\) with foot \(D\), \(\angle ACD=3\angle BCD\), and \(E\) is the midpoint of side \(AB\). What is \(\angle ECD\)? Why?
+As shown in the figure, in \(Rt\triangle{A}BC\), \(\angle{A}CB=90^{\circ}\), \(CD\perp{A}B\) with foot \(D\), \(\angle{A}CD=3\angle{B}CD\), and \(E\) is the midpoint of side \(AB\). What is \(\angle{E}CD\)? Why?
 
-\(\angle ACB=90^{\circ}\), \(\angle ACD=3\angle BCD\), so \(\angle BCD=22.5^{\circ},\ \angle ACD=67.5^{\circ}\).
+\(\angle{A}CB=90^{\circ}\), \(\angle{A}CD=3\angle{B}CD\), so \(\angle{B}CD=22.5^{\circ},\,\angle{A}CD=67.5^{\circ}\).
 
-By Basic Knowledge, \(CE=AE=BE\), \(\angle ECA=\angle A=22.5^{\circ}\).
+By Basic Knowledge, \(CE=AE=BE\), \(\angle{E}CA=\angle{A}=22.5^{\circ}\).
 
-Therefore \(\angle ECD=\angle ACD-\angle ECA=67.5^{\circ}-22.5^{\circ}=45^{\circ}\).
+Therefore \(\angle{E}CD=\angle{A}CD-\angle{E}CA=67.5^{\circ}-22.5^{\circ}=45^{\circ}\).
 
 \(\blacksquare\)
 
 (Exercise 21.3, Comprehensive Application, Problem 10)
 
-As shown in the figure, quadrilateral \(ABCD\) is a rhombus, points \(M,N\) lie on \(AB,AD\), respectively, and \(BM=DN\); \(MG\parallel AD\), \(NF\parallel AB\); points \(F,G\) lie on \(BC,CD\), respectively; \(MG\) and \(NF\) intersect at point \(E\). Prove that quadrilaterals \(AMEN\), \(EFCG\) are both rhombuses.
+As shown in the figure, quadrilateral \(ABCD\) is a rhombus, points \(M,N\) lie on \(AB,AD\), respectively, and \(BM=DN\); \(MG\parallel{A}D\), \(NF\parallel{A}B\); points \(F,G\) lie on \(BC,CD\), respectively; \(MG\) and \(NF\) intersect at point \(E\). Prove that quadrilaterals \(AMEN\), \(EFCG\) are both rhombuses.
 
 From the parallel relations, \(AMEN\) and \(EFCG\) are both parallelograms.
 
@@ -332,13 +332,13 @@ A parallelogram with equal adjacent sides is a rhombus, so both are rhombuses.
 
 (Exercise 21.3, Comprehensive Application, Problem 11)
 
-As shown in the figure, quadrilateral \(ABCD\) is a rhombus, the diagonals \(AC,BD\) intersect at point \(O\), \(AC=8,\ BD=6,\ DH\perp AB\) with foot \(H\). Find the length of \(DH\).
+As shown in the figure, quadrilateral \(ABCD\) is a rhombus, the diagonals \(AC,BD\) intersect at point \(O\), \(AC=8,\,BD=6,\,DH\perp{A}B\) with foot \(H\). Find the length of \(DH\).
 
-Area of the rhombus \(=\frac{1}{2}\times 8\times 6=24\).
+Area of the rhombus \(=\frac{1}{2}\times8\times6=24\).
 
 Side length \(AB=\sqrt{4^{2}+3^{2}}=5\).
 
-Also area \(=AB\times DH\), so \(DH=\frac{24}{5}=4.8\).
+Also area \(=AB\times{D}H\), so \(DH=\frac{24}{5}=4.8\).
 
 \(\blacksquare\)
 
@@ -352,9 +352,9 @@ Also area \(=AB\times DH\), so \(DH=\frac{24}{5}=4.8\).
 
 (1) \(C(b,d)\).
 
-(2) Since the diagonals of a rhombus bisect each other and are perpendicular, \(A(-c,0),\ B(0,-d)\).
+(2) Since the diagonals of a rhombus bisect each other and are perpendicular, \(A(-c,0),\,B(0,-d)\).
 
-(3) \(B(d,0),\ C(d,d)\).
+(3) \(B(d,0),\,C(d,d)\).
 
 \(\blacksquare\)
 
@@ -392,9 +392,9 @@ There are infinitely many methods, as long as both lines pass through the center
 
 (Exercise 21.3, Extension and Exploration, Problem 16)
 
-As shown in the figure, quadrilateral \(ABCD\) is a square. \(G\) is any point on side \(BC\); \(DE\perp AG\) with foot \(E\); \(BF\parallel DE\) meets \(AG\) at point \(F\). Prove: \(AF-BF=EF\).
+As shown in the figure, quadrilateral \(ABCD\) is a square. \(G\) is any point on side \(BC\); \(DE\perp{A}G\) with foot \(E\); \(BF\parallel{D}E\) meets \(AG\) at point \(F\). Prove: \(AF-BF=EF\).
 
-From \(\triangle ABF\cong\triangle DAE\), we get \(AF=DE,\ BF=AE\).
+From \(\triangle{A}BF\cong\triangle{D}AE\), we get \(AF=DE,\,BF=AE\).
 
 Therefore \(AF-BF=DE-AE=EF\).
 
@@ -402,7 +402,7 @@ Therefore \(AF-BF=DE-AE=EF\).
 
 (Exercise 21.3, Extension and Exploration, Problem 17)
 
-As shown in the figure, in \(\triangle ABC\), \(BD,CE\) are the medians to sides \(AC,AB\), respectively, and \(BD\) and \(CE\) intersect at point \(O\). What is the relation between the lengths of \(BO\) and \(OD\)? Must the median to side \(BC\) also pass through point \(O\)? Why?
+As shown in the figure, in \(\triangle{A}BC\), \(BD,CE\) are the medians to sides \(AC,AB\), respectively, and \(BD\) and \(CE\) intersect at point \(O\). What is the relation between the lengths of \(BO\) and \(OD\)? Must the median to side \(BC\) also pass through point \(O\)? Why?
 
 By the triangle midline theorem, one can prove \(BO:OD=2:1\).
 
@@ -412,11 +412,11 @@ The median to side \(BC\) must also pass through \(O\), i.e. the three medians o
 
 (Exercise 21.3, Extension and Exploration, Problem 18)
 
-As shown in the figure, in quadrilateral \(ABCD\), \(AD\parallel BC,\ \angle B=90^{\circ}\), \(AD=24\ \text{cm},\ BC=26\ \text{cm}\). Point \(P\) starts from point \(A\) and moves toward point \(D\) at speed \(1\ \text{cm/s}\); at the same time point \(Q\) starts from point \(C\) and moves toward point \(B\) at speed \(3\ \text{cm/s}\). From the start of the motion, after how long can \(PQ=CD\)? Why?
+As shown in the figure, in quadrilateral \(ABCD\), \(AD\parallel{B}C,\,\angle{B}=90^{\circ}\), \(AD=24\,\text{cm},\,BC=26\,\text{cm}\). Point \(P\) starts from point \(A\) and moves toward point \(D\) at speed \(1\,\text{cm/s}\); at the same time point \(Q\) starts from point \(C\) and moves toward point \(B\) at speed \(3\,\text{cm/s}\). From the start of the motion, after how long can \(PQ=CD\)? Why?
 
-Let \(t\) seconds elapse, \(AP=t,\ CQ=3t\).
+Let \(t\) seconds elapse, \(AP=t,\,CQ=3t\).
 
-For \(PQ=CD\), i.e. \(PQ\parallel CD\), we need \(PD=QC\), i.e. \(24-t=3t\), giving \(t=6\) seconds.
+For \(PQ=CD\), i.e. \(PQ\parallel{C}D\), we need \(PD=QC\), i.e. \(24-t=3t\), giving \(t=6\) seconds.
 
 \(\blacksquare\)
 
@@ -424,7 +424,7 @@ For \(PQ=CD\), i.e. \(PQ\parallel CD\), we need \(PD=QC\), i.e. \(24-t=3t\), giv
 
 (Inquiry and Discovery, Compass-and-Straightedge Construction Using the Properties and Criteria of a Rhombus)
 
-Using the property that a rhombus diagonal bisects a pair of opposite angles, construct the bisector of a given angle \(\angle MON\): with \(O\) as center draw an arc meeting the two sides at \(A,B\); then with \(A,B\) as centers and \(OA\) as radius draw arcs meeting at \(P\); then \(OP\) is the angle bisector. Explain the principle for constructing the perpendicular bisector of a segment.
+Using the property that a rhombus diagonal bisects a pair of opposite angles, construct the bisector of a given angle \(\angle{M}ON\): with \(O\) as center draw an arc meeting the two sides at \(A,B\); then with \(A,B\) as centers and \(OA\) as radius draw arcs meeting at \(P\); then \(OP\) is the angle bisector. Explain the principle for constructing the perpendicular bisector of a segment.
 
 Similarly, using that a quadrilateral whose diagonals perpendicularly bisect each other is a rhombus: the intersection of the two arcs and the two endpoints of the segment form a rhombus, and the connecting line is the perpendicular bisector.
 
@@ -438,9 +438,9 @@ A rectangle whose ratio of width to length is \(\frac{\sqrt{5}-1}{2}\) (about \(
 
 Let \(MN=2\); then square \(MNAB\) has side length \(2\).
 
-After folding in Step 2, \(D\) is the midpoint of \(MN\), so \(CD=1,\ BC=2\).
+After folding in Step 2, \(D\) is the midpoint of \(MN\), so \(CD=1,\,BC=2\).
 
-In \(Rt\triangle BCD\), by **Theorem 20.1.1 (Pythagorean Theorem)**,
+In \(Rt\triangle{B}CD\), by **Theorem 20.1.1 (Pythagorean Theorem)**,
 
 $$
 BD=\sqrt{BC^{2}+CD^{2}}=\sqrt{4+1}=\sqrt{5}.
@@ -492,15 +492,15 @@ Multiple choice.
 
 (3) If the perimeter of a rhombus is \(8\) and its height is \(1\), then the ratio of the degree measures of two adjacent interior angles of the rhombus is ( ).
 
-(4) As shown in the figure, an equilateral triangle \(ADE\) is constructed outside square \(ABCD\); then \(\angle AEB\) is ( ).
+(4) As shown in the figure, an equilateral triangle \(ADE\) is constructed outside square \(ABCD\); then \(\angle{A}EB\) is ( ).
 
-(1) The four angles sum to \(360^{\circ}\), in \(10\) parts, each part \(36^{\circ}\); the largest angle is \(4\times 36^{\circ}=144^{\circ}\), choose (C).
+(1) The four angles sum to \(360^{\circ}\), in \(10\) parts, each part \(36^{\circ}\); the largest angle is \(4\times36^{\circ}=144^{\circ}\), choose (C).
 
 (2) Adjacent angles of a parallelogram are supplementary, ratio \(1:2\); the smaller angle is \(60^{\circ}\), choose (B).
 
 (3) The rhombus has side \(2\) and height \(1\), so \(\sin\theta=\frac{1}{2}\); the acute angle is \(30^{\circ}\), the adjacent angle \(150^{\circ}\), ratio \(5:1\), choose (C).
 
-(4) \(AB=AE\), \(\angle BAE=90^{\circ}+60^{\circ}=150^{\circ}\); in isosceles \(\triangle ABE\), \(\angle AEB=\frac{180^{\circ}-150^{\circ}}{2}=15^{\circ}\), choose (B).
+(4) \(AB=AE\), \(\angle{B}AE=90^{\circ}+60^{\circ}=150^{\circ}\); in isosceles \(\triangle{A}BE\), \(\angle{A}EB=\frac{180^{\circ}-150^{\circ}}{2}=15^{\circ}\), choose (B).
 
 \(\blacksquare\)
 
@@ -512,17 +512,17 @@ Interior and exterior angles are supplementary, ratio \(3:1\), so the exterior a
 
 By Basic Knowledge, the number of sides \(n=\frac{360^{\circ}}{45^{\circ}}=8\).
 
-By Basic Knowledge, the interior angle sum \(=(8-2)\times 180^{\circ}=1080^{\circ}\).
+By Basic Knowledge, the interior angle sum \(=(8-2)\times180^{\circ}=1080^{\circ}\).
 
 \(\blacksquare\)
 
 (Review Problem, Review and Consolidation, Problem 3)
 
-As shown in the figure, extend diagonal \(BD\) of \(\square ABCD\) in both directions to points \(E,F\), with \(BE=DF\). Prove that quadrilateral \(AECF\) is a parallelogram.
+As shown in the figure, extend diagonal \(BD\) of \(\square{A}BCD\) in both directions to points \(E,F\), with \(BE=DF\). Prove that quadrilateral \(AECF\) is a parallelogram.
 
 Connect \(AC\) meeting \(BD\) at \(O\).
 
-By Basic Knowledge, \(OA=OC,\ OB=OD\).
+By Basic Knowledge, \(OA=OC,\,OB=OD\).
 
 Also \(BE=DF\), so \(OB+BE=OD+DF\), i.e. \(OE=OF\).
 
@@ -554,9 +554,9 @@ Then measure the two diagonals; if the diagonals are equal, then by Basic Knowle
 
 (Review Problem, Review and Consolidation, Problem 6)
 
-As shown in the figure, the diagonals \(AC,BD\) of rectangle \(ABCD\) intersect at point \(O\), and \(DE\parallel AC,\ CE\parallel BD\). Prove that quadrilateral \(OCED\) is a rhombus.
+As shown in the figure, the diagonals \(AC,BD\) of rectangle \(ABCD\) intersect at point \(O\), and \(DE\parallel{A}C,\,CE\parallel{B}D\). Prove that quadrilateral \(OCED\) is a rhombus.
 
-Since \(DE\parallel OC\) and \(CE\parallel OD\), quadrilateral \(OCED\) is a parallelogram.
+Since \(DE\parallel{O}C\) and \(CE\parallel{O}D\), quadrilateral \(OCED\) is a parallelogram.
 
 By Basic Knowledge, the diagonals of a rectangle are equal and bisect each other, so \(OC=OD\).
 
@@ -568,7 +568,7 @@ A parallelogram with equal adjacent sides is a rhombus.
 
 As shown in the figure, the diagonals \(AC,BD\) of square \(ABCD\) intersect at point \(O\), and \(E,F,G,H\) are the midpoints of \(AO,BO,CO,DO\), respectively. Prove that quadrilateral \(EFGH\) is a square.
 
-By the triangle midline theorem, \(EF\parallel AB\parallel GH\), \(FG\parallel BC\parallel HE\); quadrilateral \(EFGH\) is a parallelogram.
+By the triangle midline theorem, \(EF\parallel{A}B\parallel{G}H\), \(FG\parallel{B}C\parallel{H}E\); quadrilateral \(EFGH\) is a parallelogram.
 
 The diagonals of a square are perpendicular and equal, so the midpoint quadrilateral has equal and perpendicular adjacent sides.
 

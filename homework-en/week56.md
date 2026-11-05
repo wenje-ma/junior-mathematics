@@ -6,19 +6,19 @@
 
 > **Conclusion 25.2.1 (Direct Square Root Extraction)**
 > 
-> For the equation $x^2=p$: (1) when $p> 0$, the equation has two unequal real roots $x=\pm\sqrt p$; (2) when $p=0$, the equation has two equal real roots $x_1=x_2=0$; (3) when $p< 0$, since $x^2\ge0$ for every real number $x$, the equation has no real root.
+> For the equation $x^2=p$: (1) when $p>0$, the equation has two unequal real roots $x=\pm\sqrt{p}$; (2) when $p=0$, the equation has two equal real roots $x_1=x_2=0$; (3) when $p<0$, since $x^2\ge0$ for every real number $x$, the equation has no real root.
 
 > **Conclusion 25.2.3 (Nature of the Roots)**
 > 
-> For the equation $ax^2+bx+c=0\ \left(a\ne0\right)$: when $\Delta> 0$, the equation has two unequal real roots; when $\Delta=0$, the equation has two equal real roots; when $\Delta< 0$, the equation has no real root.
+> For the equation $ax^2+bx+c=0\,\left(a\ne0\right)$: when $\Delta>0$, the equation has two unequal real roots; when $\Delta=0$, the equation has two equal real roots; when $\Delta<0$, the equation has no real root.
 
 > **Definition 25.2.3 (Quadratic Formula)**
 > 
-> When $\Delta\ge0$, the real roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$; this expression is called the quadratic formula. The method of substituting the coefficients into the quadratic formula to find the roots directly is called the formula method.
+> When $\Delta\ge0$, the real roots of $ax^2+bx+c=0\,\left(a\ne0\right)$ are $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$; this expression is called the quadratic formula. The method of substituting the coefficients into the quadratic formula to find the roots directly is called the formula method.
 
 > **Conclusion 25.2.5 (Relation Between Roots and Coefficients)**
 > 
-> If the two roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x_1,x_2$, then $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$. This relation can also be obtained by comparing coefficients in the factorization $ax^2+bx+c=a\left(x-x_1\right)\left(x-x_2\right)$.
+> If the two roots of $ax^2+bx+c=0\,\left(a\ne0\right)$ are $x_1,x_2$, then $x_1+x_2=-\frac{b}a$, $x_1x_2=\frac{c}a$. This relation can also be obtained by comparing coefficients in the factorization $ax^2+bx+c=a\left(x-x_1\right)\left(x-x_2\right)$.
 
 > **Conclusion 25.3.1 (Setting Up Equations for Word Problems)**
 > 
@@ -79,14 +79,14 @@ $$
 Comparing corresponding coefficients with $ax^3+bx^2+cx+d$,
 
 $$
-x_1+x_2+x_3=-\frac ba,\quad x_1x_2+x_2x_3+x_3x_1=\frac ca,\quad x_1x_2x_3=-\frac da.
+x_1+x_2+x_3=-\frac{b}a,\quad{x}_1x_2+x_2x_3+x_3x_1=\frac{c}a,\quad{x}_1x_2x_3=-\frac{d}a.
 $$
 
 This is the relation between roots and coefficients for a cubic equation. $\blacksquare$
 
 ## Reading and Thinking 1
 
-(Reading and Thinking, Quadratic Equations and the Golden Ratio) Take a point $C$ on the segment $AB$, dividing $AB$ into two unequal parts $AC$ and $CB$, with $AC< CB$, such that $AC:CB=CB:AB$. Let $AB=1$ and $CB=x$; find $x$.
+(Reading and Thinking, Quadratic Equations and the Golden Ratio) Take a point $C$ on the segment $AB$, dividing $AB$ into two unequal parts $AC$ and $CB$, with $AC<{}CB$, such that $AC:CB=CB:AB$. Let $AB=1$ and $CB=x$; find $x$.
 
 ### Solution to Reading and Thinking 1
 
@@ -102,7 +102,7 @@ $$
 x^2+x-1=0.
 $$
 
-By the quadratic formula, $a=1$, $b=1$, $c=-1$, $\Delta=1+4=5$, hence $x=\frac{-1\pm\sqrt5}{2}$. Since $x=CB> 0$, discard the negative root, giving
+By the quadratic formula, $a=1$, $b=1$, $c=-1$, $\Delta=1+4=5$, hence $x=\frac{-1\pm\sqrt5}{2}$. Since $x=CB>0$, discard the negative root, giving
 
 $$
 x=\frac{\sqrt5-1}{2}\approx0.618.
@@ -112,42 +112,42 @@ This value is the golden ratio. $\blacksquare$
 
 ## Exercise 1
 
-(Exercise 25.3, Problem 1) How can a rope of length $40\ \text{m}$ be used to enclose a rectangular area of $75\ \text{m}^2$? Can it enclose a rectangular area of $101\ \text{m}^2$? If yes, describe how; if no, explain why.
+(Exercise 25.3, Problem 1) How can a rope of length $40\,\text{m}$ be used to enclose a rectangular area of $75\,\text{m}^2$? Can it enclose a rectangular area of $101\,\text{m}^2$? If yes, describe how; if no, explain why.
 
 ### Solution to Exercise 1
 
-Since the rope is $40\ \text{m}$ long, the rectangle's perimeter is $40\ \text{m}$. Let one side be $x\ \text{m}$; then the adjacent side is $\left(20-x\right)\ \text{m}$, and the area is $x\left(20-x\right)$.
+Since the rope is $40\,\text{m}$ long, the rectangle's perimeter is $40\,\text{m}$. Let one side be $x\,\text{m}$; then the adjacent side is $\left(20-x\right)\,\text{m}$, and the area is $x\left(20-x\right)$.
 
-To enclose a rectangle of area $75\ \text{m}^2$, set up
+To enclose a rectangle of area $75\,\text{m}^2$, set up
 
 $$
 x\left(20-x\right)=75.
 $$
 
-Rearranging gives $x^2-20x+75=0$, i.e. $\left(x-5\right)\left(x-15\right)=0$, solving gives $x=5$ or $x=15$; the two adjacent sides are $5\ \text{m}$ and $15\ \text{m}$. Hence a rectangle of sides $5\ \text{m}$ and $15\ \text{m}$ can be enclosed.
+Rearranging gives $x^2-20x+75=0$, i.e. $\left(x-5\right)\left(x-15\right)=0$, solving gives $x=5$ or $x=15$; the two adjacent sides are $5\,\text{m}$ and $15\,\text{m}$. Hence a rectangle of sides $5\,\text{m}$ and $15\,\text{m}$ can be enclosed.
 
-To enclose a rectangle of area $101\ \text{m}^2$, set up
+To enclose a rectangle of area $101\,\text{m}^2$, set up
 
 $$
 x\left(20-x\right)=101.
 $$
 
-Rearranging gives $x^2-20x+101=0$, whose discriminant is $\Delta=\left(-20\right)^2-4\times101=400-404=-4< 0$; the equation has no real root. Hence a rectangular area of $101\ \text{m}^2$ cannot be enclosed. $\blacksquare$
+Rearranging gives $x^2-20x+101=0$, whose discriminant is $\Delta=\left(-20\right)^2-4\times101=400-404=-4<0$; the equation has no real root. Hence a rectangular area of $101\,\text{m}^2$ cannot be enclosed. $\blacksquare$
 
 ## Exercise 2
 
-(Exercise 25.3, Problem 2) As shown in the figure, the adjacent sides of rectangle $ABCD$ are $AD=1$ and $CD=4$. Is there a point $E$ on $AB$ such that $\angle DEC$ is a right angle?
+(Exercise 25.3, Problem 2) As shown in the figure, the adjacent sides of rectangle $ABCD$ are $AD=1$ and $CD=4$. Is there a point $E$ on $AB$ such that $\angle{D}EC$ is a right angle?
 
 The figure shows rectangle $ABCD$ with $AB$ placed horizontally at the bottom, $A$ at lower-left, $B$ at lower-right, $C$ at upper-right, and $D$ at upper-left; the short side $AD=1$ and the long side $CD=4$; point $E$ lies on the bottom side $AB$.
 
 ### Solution to Exercise 2
 
-Take $A$ as the origin and the line $AB$ as the $x$-axis to set up a rectangular coordinate system; then $A\left(0,0\right)$, $B\left(4,0\right)$, $C\left(4,1\right)$, $D\left(0,1\right)$. Let $E\left(x,0\right)$, with $0\le x\le4$.
+Take $A$ as the origin and the line $AB$ as the $x$-axis to set up a rectangular coordinate system; then $A\left(0,0\right)$, $B\left(4,0\right)$, $C\left(4,1\right)$, $D\left(0,1\right)$. Let $E\left(x,0\right)$, with $0\le{x}\le4$.
 
-$\angle DEC$ being a right angle means $\triangle DEC$ is a right triangle with the right angle at $E$; by the converse of the Pythagorean theorem, we need $DE^2+CE^2=DC^2$. And
+$\angle{D}EC$ being a right angle means $\triangle{D}EC$ is a right triangle with the right angle at $E$; by the converse of the Pythagorean theorem, we need $DE^2+CE^2=DC^2$. And
 
 $$
-DE^2=x^2+1,\quad CE^2=\left(4-x\right)^2+1,\quad DC^2=16.
+DE^2=x^2+1,\quad{C}E^2=\left(4-x\right)^2+1,\quad{D}C^2=16.
 $$
 
 Set up
@@ -170,7 +170,7 @@ Both values $2-\sqrt3\approx0.27$ and $2+\sqrt3\approx3.73$ lie in $\left[0,4\ri
 
 ### Solution to Exercise 3
 
-Let each branch grow $x$ small twigs; then the main stem grows $x$ branches, and there are $x\cdot x=x^2$ small twigs in total. Since the total is $91$, set up
+Let each branch grow $x$ small twigs; then the main stem grows $x$ branches, and there are $x\cdot{x}=x^2$ small twigs in total. Since the total is $91$, set up
 
 $$
 1+x+x^2=91.
@@ -180,7 +180,7 @@ Rearranging gives $x^2+x-90=0$, i.e. $\left(x+10\right)\left(x-9\right)=0$, solv
 
 ## Exercise 4
 
-(Exercise 25.3, Problem 3, Part (2)) In Qingshan Village, the average rice yield per hectare was $15000\ \text{kg}$ in year $2020$ and $18000\ \text{kg}$ in year $2022$. Find the average annual growth rate of the rice yield per hectare (write the result in the form $a\%$, with $a$ rounded to two decimal places).
+(Exercise 25.3, Problem 3, Part (2)) In Qingshan Village, the average rice yield per hectare was $15000\,\text{kg}$ in year $2020$ and $18000\,\text{kg}$ in year $2022$. Find the average annual growth rate of the rice yield per hectare (write the result in the form $a\%$, with $a$ rounded to two decimal places).
 
 ### Solution to Exercise 4
 
@@ -247,7 +247,7 @@ Rearranging gives $x^2-26x+168=0$, whose discriminant is $\Delta=26^2-4\times168
 Let one leg be $x$; then the other is $14-x$. Since the area of a right triangle is half the product of its legs, set up
 
 $$
-\frac12 x\left(14-x\right)=24.
+\frac12x\left(14-x\right)=24.
 $$
 
 i.e. $x\left(14-x\right)=48$, $x^2-14x+48=0$, i.e. $\left(x-6\right)\left(x-8\right)=0$, solving gives $x=6$ or $x=8$. Hence the two legs are $6$ and $8$. $\blacksquare$
@@ -292,23 +292,23 @@ i.e. the average annual growth rate over these two years is about $30.6\%$. $\bl
 
 ### Solution to Problem 6
 
-Let the two diagonals be $d_1,d_2$. Since their sum is $10$, $d_1+d_2=10$. The area of a rhombus is half the product of its diagonals; since the area is $12$, $\frac12 d_1d_2=12$, i.e. $d_1d_2=24$.
+Let the two diagonals be $d_1,d_2$. Since their sum is $10$, $d_1+d_2=10$. The area of a rhombus is half the product of its diagonals; since the area is $12$, $\frac12d_1d_2=12$, i.e. $d_1d_2=24$.
 
 Let $d_1=x$; then $d_2=10-x$. Set up $x\left(10-x\right)=24$, i.e. $x^2-10x+24=0$, i.e. $\left(x-4\right)\left(x-6\right)=0$, solving gives diagonals $4$ and $6$.
 
 A rhombus's diagonals are perpendicular and bisect each other, so the side length is $\sqrt{\left(\frac42\right)^2+\left(\frac62\right)^2}=\sqrt{4+9}=\sqrt{13}$, and the perimeter is
 
 $$
-4\sqrt{13}. \blacksquare
+4\sqrt{13}.\blacksquare
 $$
 
 ## Problem 7
 
-(Exercise 25.3, Comprehensive Application, Problem 6) As shown in the figure, a photo of length $22\ \text{cm}$ and width $29\ \text{cm}$ is to be framed; the four sides of the frame must have equal width, and the area of the frame is one quarter of the photo's area. What should the frame width be in cm (rounded to one decimal place)?
+(Exercise 25.3, Comprehensive Application, Problem 6) As shown in the figure, a photo of length $22\,\text{cm}$ and width $29\,\text{cm}$ is to be framed; the four sides of the frame must have equal width, and the area of the frame is one quarter of the photo's area. What should the frame width be in cm (rounded to one decimal place)?
 
 ### Solution to Problem 7
 
-The photo area is $22\times29=638\ \text{cm}^2$. Let the frame width be $x\ \text{cm}$; then the overall dimensions including the frame are $\left(22+2x\right)$ and $\left(29+2x\right)$, and the frame area is the overall area minus the photo area. Since the frame area is one quarter of the photo area, set up
+The photo area is $22\times29=638\,\text{cm}^2$. Let the frame width be $x\,\text{cm}$; then the overall dimensions including the frame are $\left(22+2x\right)$ and $\left(29+2x\right)$, and the frame area is the overall area minus the photo area. Since the frame area is one quarter of the photo area, set up
 
 $$
 \left(22+2x\right)\left(29+2x\right)-638=\frac14\times638.
@@ -323,10 +323,10 @@ $$
 By the quadratic formula, $x=\frac{-102\pm\sqrt{102^2+4\times4\times159.5}}{8}=\frac{-102\pm\sqrt{12956}}8$. Taking the positive root, $\sqrt{12956}\approx113.8$, hence
 
 $$
-x\approx\frac{-102+113.8}{8}\approx1.5\ \text{cm}.
+x\approx\frac{-102+113.8}{8}\approx1.5\,\text{cm}.
 $$
 
-i.e. the frame width is about $1.5\ \text{cm}$. $\blacksquare$
+i.e. the frame width is about $1.5\,\text{cm}$. $\blacksquare$
 
 ## Problem 8
 
@@ -342,15 +342,15 @@ $$
 
 Expanding gives $c^2-2c+1+c^2-16c+64=c^2$, i.e. $c^2-18c+65=0$, i.e. $\left(c-5\right)\left(c-13\right)=0$, solving gives $c=5$ or $c=13$.
 
-When $c=5$, the other leg $c-8=-3< 0$, which does not fit the problem, so discard it. When $c=13$, the two legs are $12$ and $5$, both positive integers. Hence such a right triangle exists, and there is exactly one, with sides $5,12,13$. $\blacksquare$
+When $c=5$, the other leg $c-8=-3<0$, which does not fit the problem, so discard it. When $c=13$, the two legs are $12$ and $5$, both positive integers. Hence such a right triangle exists, and there is exactly one, with sides $5,12,13$. $\blacksquare$
 
 ## Problem 9
 
-(Exercise 25.3, Extension and Exploration, Problem 8) As shown in the figure, a design of width $20\ \text{cm}$ and length $30\ \text{cm}$ is to have two horizontal and two vertical colored strips; the ratio of the horizontal to vertical strip width is $3:2$. If the strips are to occupy one quarter of the design's area, how should their widths be chosen (rounded to one decimal place)?
+(Exercise 25.3, Extension and Exploration, Problem 8) As shown in the figure, a design of width $20\,\text{cm}$ and length $30\,\text{cm}$ is to have two horizontal and two vertical colored strips; the ratio of the horizontal to vertical strip width is $3:2$. If the strips are to occupy one quarter of the design's area, how should their widths be chosen (rounded to one decimal place)?
 
 ### Solution to Problem 9
 
-The design area is $20\times30=600\ \text{cm}^2$. Since the strips occupy one quarter, the blank area is $\frac34\times600=450\ \text{cm}^2$.
+The design area is $20\times30=600\,\text{cm}^2$. Since the strips occupy one quarter, the blank area is $\frac34\times600=450\,\text{cm}^2$.
 
 Let the vertical strips have width $2y$ and the horizontal strips width $3y$ (width ratio $2:3$). Removing the two vertical strips leaves a blank width of $20-4y$, and removing the two horizontal strips leaves a blank length of $30-6y$; the blank part is a rectangle, hence
 
@@ -364,23 +364,23 @@ $$
 y=\frac{40\pm\sqrt{1600-400}}8=\frac{40\pm20\sqrt3}{8}.
 $$
 
-Taking the smaller positive root, $y=\frac{10-5\sqrt3}{2}\approx0.67$. Hence the horizontal strip width is $3y\approx2.0\ \text{cm}$ and the vertical strip width is $2y\approx1.3\ \text{cm}$. $\blacksquare$
+Taking the smaller positive root, $y=\frac{10-5\sqrt3}{2}\approx0.67$. Hence the horizontal strip width is $3y\approx2.0\,\text{cm}$ and the vertical strip width is $2y\approx1.3\,\text{cm}$. $\blacksquare$
 
 ## Problem 10
 
 (Exercise 25.3, Extension and Exploration, Problem 9) As shown in the figure, the segment $AB$ has length $1$, and points $C,D,E$ lie on $AB$.
 
-(1) If $AC^2=CB\cdot AB$, find the length of $AC$;
+(1) If $AC^2=CB\cdot{A}B$, find the length of $AC$;
 
-(2) Under the condition of (1), if $AD^2=CD\cdot AC$, find the length of $AD$;
+(2) Under the condition of (1), if $AD^2=CD\cdot{A}C$, find the length of $AD$;
 
-(3) Under the conditions of (1) and (2), if $AE^2=DE\cdot AD$, find the length of $AE$.
+(3) Under the conditions of (1) and (2), if $AE^2=DE\cdot{A}D$, find the length of $AE$.
 
 What pattern do the above results reveal?
 
 ### Solution to Problem 10
 
-(1) Let $AC=x$; then $CB=1-x$. Since $AC^2=CB\cdot AB$ and $AB=1$, set up
+(1) Let $AC=x$; then $CB=1-x$. Since $AC^2=CB\cdot{A}B$ and $AB=1$, set up
 
 $$
 x^2=\left(1-x\right)\cdot1.
@@ -392,15 +392,15 @@ $$
 AC=x=\frac{\sqrt5-1}{2}\approx0.618.
 $$
 
-(2) Let $AD=y$; since $D$ lies on $AC$, $CD=AC-AD$. From $AD^2=CD\cdot AC$,
+(2) Let $AD=y$; since $D$ lies on $AC$, $CD=AC-AD$. From $AD^2=CD\cdot{A}C$,
 
 $$
-y^2=\left(AC-y\right)\cdot AC.
+y^2=\left(AC-y\right)\cdot{A}C.
 $$
 
-i.e. $y^2+AC\cdot y-AC^2=0$. Substituting $AC=\frac{\sqrt5-1}{2}$ and taking the positive root gives $AD=y=AC\cdot\frac{\sqrt5-1}{2}\approx0.382$.
+i.e. $y^2+AC\cdot{y}-AC^2=0$. Substituting $AC=\frac{\sqrt5-1}{2}$ and taking the positive root gives $AD=y=AC\cdot\frac{\sqrt5-1}{2}\approx0.382$.
 
-(3) Similarly, from $AE^2=DE\cdot AD$ and taking the positive root, $AE=AD\cdot\frac{\sqrt5-1}{2}\approx0.236$.
+(3) Similarly, from $AE^2=DE\cdot{A}D$ and taking the positive root, $AE=AD\cdot\frac{\sqrt5-1}{2}\approx0.236$.
 
 Pattern: each resulting segment is $\frac{\sqrt5-1}{2}$ times the previous one, i.e. repeatedly divided by the golden ratio. $\blacksquare$
 
@@ -409,7 +409,7 @@ Pattern: each resulting segment is $\frac{\sqrt5-1}{2}$ times the previous one, 
 (Math Activity, Activity 1, Problem 1) Given $abc\ne0$, the following equations:
 
 $$
-ax^2+bx+c=0,\quad bx^2+cx+a=0,\quad cx^2+ax+b=0
+ax^2+bx+c=0,\quad{b}x^2+cx+a=0,\quad{c}x^2+ax+b=0
 $$
 
 have exactly one common solution. Give the condition that $a,b,c$ satisfy, and find the solution of the equations.
@@ -419,7 +419,7 @@ have exactly one common solution. Give the condition that $a,b,c$ satisfy, and f
 Let the common solution of the three equations be $r$; then it satisfies all three equations simultaneously:
 
 $$
-ar^2+br+c=0,\quad br^2+cr+a=0,\quad cr^2+ar+b=0.
+ar^2+br+c=0,\quad{b}r^2+cr+a=0,\quad{c}r^2+ar+b=0.
 $$
 
 Adding the three equations,
@@ -428,21 +428,21 @@ $$
 \left(a+b+c\right)\left(r^2+r+1\right)=0.
 $$
 
-For every real number $r$, $r^2+r+1=\left(r+\frac12\right)^2+\frac34> 0$, hence necessarily
+For every real number $r$, $r^2+r+1=\left(r+\frac12\right)^2+\frac34>0$, hence necessarily
 
 $$
 a+b+c=0.
 $$
 
-Under this condition, substituting $c=-a-b$ into the first equation gives $ax^2+bx-a-b=0$. It is easy to verify that $x=1$ satisfies it: $a+b-a-b=0$. By Relation Between Roots and Coefficients, the product of the two roots is $\frac ca$; since one root is $1$, the other is $\frac ca$. Similarly, the second equation has roots $1$ and $\frac ab$, and the third has roots $1$ and $\frac bc$.
+Under this condition, substituting $c=-a-b$ into the first equation gives $ax^2+bx-a-b=0$. It is easy to verify that $x=1$ satisfies it: $a+b-a-b=0$. By Relation Between Roots and Coefficients, the product of the two roots is $\frac{c}a$; since one root is $1$, the other is $\frac{c}a$. Similarly, the second equation has roots $1$ and $\frac{a}b$, and the third has roots $1$ and $\frac{b}c$.
 
-Since $a,b,c$ are nonzero real numbers and $a+b+c=0$, these three "other roots" $\frac ca,\frac ab,\frac bc$ cannot all be equal (otherwise $a,b,c$ in geometric progression would require $1+r+r^2=0$, which has no real root); hence the unique common real root of the three equations is $x=1$.
+Since $a,b,c$ are nonzero real numbers and $a+b+c=0$, these three "other roots" $\frac{c}a,\frac{a}b,\frac{b}c$ cannot all be equal (otherwise $a,b,c$ in geometric progression would require $1+r+r^2=0$, which has no real root); hence the unique common real root of the three equations is $x=1$.
 
-Hence the condition on $a,b,c$ is $a+b+c=0$; the common solution is $x=1$, and the other roots of the three equations are $\frac ca,\frac ab,\frac bc$ respectively. $\blacksquare$
+Hence the condition on $a,b,c$ is $a+b+c=0$; the common solution is $x=1$, and the other roots of the three equations are $\frac{c}a,\frac{a}b,\frac{b}c$ respectively. $\blacksquare$
 
 ## Activity 2
 
-(Math Activity, Activity 2, Problem 1) Divide a segment into three mutually unequal segments of lengths $a,b,c$, with $a> b> c$, such that both $a=b+c$ and $\frac1a+\frac1b=\frac1c$ hold. Find $a:b:c$.
+(Math Activity, Activity 2, Problem 1) Divide a segment into three mutually unequal segments of lengths $a,b,c$, with $a>{}b>{}c$, such that both $a=b+c$ and $\frac1a+\frac1b=\frac1c$ hold. Find $a:b:c$.
 
 ### Solution to Activity 2
 
@@ -458,7 +458,7 @@ $$
 c^2+bc-b^2=0.
 $$
 
-Dividing both sides by $b^2$ and setting $r=\frac cb$ gives $r^2+r-1=0$. Taking the positive root,
+Dividing both sides by $b^2$ and setting $r=\frac{c}b$ gives $r^2+r-1=0$. Taking the positive root,
 
 $$
 r=\frac{-1+\sqrt5}{2}.
@@ -502,7 +502,7 @@ Choose direct square-root extraction, the factoring method, or the formula metho
 
 (3) By the quadratic formula, $\Delta=\left(-7\right)^2+4=53$, hence $x=\frac{7\pm\sqrt{53}}2$.
 
-(4) Rearranging gives $2x^2-3x+3=0$, $\Delta=\left(-3\right)^2-4\times2\times3=-15< 0$, so the equation has no real root.
+(4) Rearranging gives $2x^2-3x+3=0$, $\Delta=\left(-3\right)^2-4\times2\times3=-15<0$, so the equation has no real root.
 
 (5) Writing the left side as $\left(x-1\right)^2=25$, hence $x-1=\pm5$, i.e. $x_1=6$, $x_2=-4$.
 
@@ -535,7 +535,7 @@ Rearranging gives $x^2-8x+9.75=0$, $\Delta=64-39=25$, hence $x=\frac{8\pm5}{2}$,
 Let the shorter diagonal be $x$; then the longer is $x+2$. The area of a rhombus is half the product of its diagonals; since the area is $4$, set up
 
 $$
-\frac12 x\left(x+2\right)=4.
+\frac12x\left(x+2\right)=4.
 $$
 
 i.e. $x\left(x+2\right)=8$, $x^2+2x-8=0$, i.e. $\left(x+4\right)\left(x-2\right)=0$, solving gives $x=2$ (discarding the negative root). Hence the two diagonals are $2$ and $4$. $\blacksquare$

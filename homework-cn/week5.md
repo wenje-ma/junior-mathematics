@@ -54,7 +54,7 @@
 
 > **定义 2.3.4 (科学记数法)**
 > 
-> 把一个大于 $10$ 的数表示成 $a\times 10^{n}$ 的形式 ($1\le a< 10$, $n$ 为正整数).
+> 把一个大于 $10$ 的数表示成 $a\times10^{n}$ 的形式 ($1\le{a}<10$, $n$ 为正整数).
 
 > **定义 2.3.5 (近似数)**
 > 
@@ -62,33 +62,33 @@
 
 ## 习题一
 
-(习题 2.2 综合运用第 13 题) 一架直升机从高度为 $450\ \text{m}$ 的位置开始, 先以 $4\ \text{m/s}$ 的速度竖直上升 $60\ \text{s}$, 后以 $5\ \text{m/s}$ 的速度竖直下降 $120\ \text{s}$, 这时直升机所在高度是多少?
+(习题 2.2 综合运用第 13 题) 一架直升机从高度为 $450\,\text{m}$ 的位置开始, 先以 $4\,\text{m/s}$ 的速度竖直上升 $60\,\text{s}$, 后以 $5\,\text{m/s}$ 的速度竖直下降 $120\,\text{s}$, 这时直升机所在高度是多少?
 
 ### 解答 习题一
 
 由**定义 2.2.1 (有理数乘法法则)**, 上升记正, 下降记负.
 
-$$450+4\times 60-5\times 120=450+240-600=90.$$
+$$450+4\times60-5\times120=450+240-600=90.$$
 
-故这时直升机所在高度是 $90\ \text{m}$. $\blacksquare$
+故这时直升机所在高度是 $90\,\text{m}$. $\blacksquare$
 
 ## 习题二
 
-(习题 2.2 拓广探索第 14 题) 计算 $2\times 1$, $2\times\frac{1}{2}$, $2\times\left(-1\right)$, $2\times\left(-\frac{1}{2}\right)$. 联系这类具体的数的乘法, 你认为一个非零有理数一定小于它的 $2$ 倍吗? 为什么?
+(习题 2.2 拓广探索第 14 题) 计算 $2\times1$, $2\times\frac{1}{2}$, $2\times\left(-1\right)$, $2\times\left(-\frac{1}{2}\right)$. 联系这类具体的数的乘法, 你认为一个非零有理数一定小于它的 $2$ 倍吗? 为什么?
 
 ### 解答 习题二
 
 由**定义 2.2.1 (有理数乘法法则)**.
 
-$$2\times 1=2,\quad 2\times\frac{1}{2}=1,\quad 2\times\left(-1\right)=-2,\quad 2\times\left(-\frac{1}{2}\right)=-1.$$
+$$2\times1=2,\quad2\times\frac{1}{2}=1,\quad2\times\left(-1\right)=-2,\quad2\times\left(-\frac{1}{2}\right)=-1.$$
 
-一个非零有理数不一定小于它的 $2$ 倍. 当这个数为正数时, 它小于它的 $2$ 倍; 当这个数为负数时, 如 $-1< 2$ 不成立, 因为 $2\times\left(-1\right)=-2< -1$, 即负数的 $2$ 倍比它本身小. $\blacksquare$
+一个非零有理数不一定小于它的 $2$ 倍. 当这个数为正数时, 它小于它的 $2$ 倍; 当这个数为负数时, 如 $-1<2$ 不成立, 因为 $2\times\left(-1\right)=-2<-1$, 即负数的 $2$ 倍比它本身小. $\blacksquare$
 
 ## 习题三
 
 (习题 2.2 拓广探索第 15 题) 利用分配律可以得到
 
-$$-2\times 6+3\times 6=\left(-2+3\right)\times 6,\quad -2\times\left(-5\right)+3\times\left(-5\right)=\left(-2+3\right)\times\left(-5\right).$$
+$$-2\times6+3\times6=\left(-2+3\right)\times6,\quad-2\times\left(-5\right)+3\times\left(-5\right)=\left(-2+3\right)\times\left(-5\right).$$
 
 如果用 $a$ 表示任意一个数, 那么利用分配律可以得到 $-2a+3a$ 等于什么?
 
@@ -102,17 +102,17 @@ $$-2a+3a=\left(-2+3\right)a=a.$$
 
 ## 习题四
 
-(习题 2.2 拓广探索第 16 题) 计算 $\left(-4\right)\div 2$, $4\div\left(-2\right)$, $\left(-4\right)\div\left(-2\right)$. 联系这类具体的数的除法, 你认为下列式子是否成立 ($a$, $b$ 是有理数, 且 $b\ne 0$)? 从中可以总结出什么规律?
+(习题 2.2 拓广探索第 16 题) 计算 $\left(-4\right)\div2$, $4\div\left(-2\right)$, $\left(-4\right)\div\left(-2\right)$. 联系这类具体的数的除法, 你认为下列式子是否成立 ($a$, $b$ 是有理数, 且 $b\ne0$)? 从中可以总结出什么规律?
 
-$$\frac{-a}{b}=\frac{a}{-b}=-\frac{a}{b};\quad \frac{-a}{-b}=\frac{a}{b}.$$
+$$\frac{-a}{b}=\frac{a}{-b}=-\frac{a}{b};\quad\frac{-a}{-b}=\frac{a}{b}.$$
 
 ### 解答 习题四
 
 由**定义 2.2.7 (有理数除法法则)**.
 
-$$\left(-4\right)\div 2=-2,\quad 4\div\left(-2\right)=-2,\quad \left(-4\right)\div\left(-2\right)=2.$$
+$$\left(-4\right)\div2=-2,\quad4\div\left(-2\right)=-2,\quad\left(-4\right)\div\left(-2\right)=2.$$
 
-由 $\left(-4\right)\div 2=4\div\left(-2\right)=-2$, 可知 $\frac{-a}{b}=\frac{a}{-b}=-\frac{a}{b}$ 成立; 由 $\left(-4\right)\div\left(-2\right)=2=4\div 2$, 可知 $\frac{-a}{-b}=\frac{a}{b}$ 成立. 规律: 分数的分子, 分母, 分数线三处符号, 任意改变其中两处, 分数的值不变. $\blacksquare$
+由 $\left(-4\right)\div2=4\div\left(-2\right)=-2$, 可知 $\frac{-a}{b}=\frac{a}{-b}=-\frac{a}{b}$ 成立; 由 $\left(-4\right)\div\left(-2\right)=2=4\div2$, 可知 $\frac{-a}{-b}=\frac{a}{b}$ 成立. 规律: 分数的分子, 分母, 分数线三处符号, 任意改变其中两处, 分数的值不变. $\blacksquare$
 
 ## 探究与发现一
 
@@ -122,9 +122,9 @@ $$\left(-4\right)\div 2=-2,\quad 4\div\left(-2\right)=-2,\quad \left(-4\right)\d
 
 由**定义 2.2.5 (分配律)**.
 
-对 $1\times\left(-1\right)$, 若分配律成立, 则 $1\times\left(-1\right)+1\times 1=1\times\left[\left(-1\right)+1\right]=1\times 0=0$, 从而 $1\times\left(-1\right)=-\left(1\times 1\right)=-1$.
+对 $1\times\left(-1\right)$, 若分配律成立, 则 $1\times\left(-1\right)+1\times1=1\times\left[\left(-1\right)+1\right]=1\times0=0$, 从而 $1\times\left(-1\right)=-\left(1\times1\right)=-1$.
 
-对 $0\times\left(-1\right)$, 同理 $0\times\left(-1\right)+0\times 1=0\times 0=0$, 故 $0\times\left(-1\right)=0$.
+对 $0\times\left(-1\right)$, 同理 $0\times\left(-1\right)+0\times1=0\times0=0$, 故 $0\times\left(-1\right)=0$.
 
 对 $\left(-1\right)\times\left(-1\right)$, $\left(-1\right)\times\left(-1\right)+1\times\left(-1\right)=\left[\left(-1\right)+1\right]\times\left(-1\right)=0$, 故 $\left(-1\right)\times\left(-1\right)=-\left[1\times\left(-1\right)\right]=-\left(-1\right)=1$.
 
@@ -162,39 +162,39 @@ $$\left(-4\right)\div 2=-2,\quad 4\div\left(-2\right)=-2,\quad \left(-4\right)\d
 
 (练习 2.3 第 1 题) 计算:
 
-(1) $\left(-1\right)^{10}\times 2+\left(-2\right)^{3}\div 4$;
+(1) $\left(-1\right)^{10}\times2+\left(-2\right)^{3}\div4$;
 
 (2) $\left(-5\right)^{3}-3\times\left(-\frac{1}{2}\right)^{4}$;
 
-(3) $1\frac{1}{5}\times\left(\frac{1}{3}-\frac{1}{2}\right)\times 3\frac{1}{11}\div\frac{5}{4}$;
+(3) $1\frac{1}{5}\times\left(\frac{1}{3}-\frac{1}{2}\right)\times3\frac{1}{11}\div\frac{5}{4}$;
 
-(4) $\left(-10\right)^{4}+\left[\left(-4\right)^{2}-\left(3+3^{2}\right)\times 2\right]$.
+(4) $\left(-10\right)^{4}+\left[\left(-4\right)^{2}-\left(3+3^{2}\right)\times2\right]$.
 
 ### 解答 练习三
 
 由**定义 2.3.3 (有理数混合运算顺序)**.
 
-(1) 原式 $=1\times 2+\left(-8\right)\div 4=2-2=0$.
+(1) 原式 $=1\times2+\left(-8\right)\div4=2-2=0$.
 
 (2) 原式 $=-125-3\times\frac{1}{16}=-\frac{2003}{16}$.
 
 (3) 原式 $=\frac{6}{5}\times\left(-\frac{1}{6}\right)\times\frac{34}{11}\times\frac{4}{5}=-\frac{136}{275}$.
 
-(4) 原式 $=10000+\left[16-12\times 2\right]=10000+\left(-8\right)=9992$. $\blacksquare$
+(4) 原式 $=10000+\left[16-12\times2\right]=10000+\left(-8\right)=9992$. $\blacksquare$
 
 ## 练习四
 
 (练习 2.3 第 1 题) 用科学记数法表示下列各数:
 
-$$100000,\ 7400000,\ 56000000,\ 567000000.$$
+$$100000,\,7400000,\,56000000,\,567000000.$$
 
 ### 解答 练习四
 
 由**定义 2.3.4 (科学记数法)**.
 
-$$100000=1\times 10^{5};\quad 7400000=7.4\times 10^{6}; $$
+$$100000=1\times10^{5};\quad7400000=7.4\times10^{6};$$
 
-$$56000000=5.6\times 10^{7};\quad 567000000=5.67\times 10^{8}.$$
+$$56000000=5.6\times10^{7};\quad567000000=5.67\times10^{8}.$$
 
 $\blacksquare$
 
@@ -202,29 +202,29 @@ $\blacksquare$
 
 (练习 2.3 第 2 题) 下列用科学记数法表示的数, 原来分别是什么数?
 
-$$1\times 10^{7},\ 4\times 10^{3},\ 8.5\times 10^{6},\ 7.04\times 10^{5},\ 3.96\times 10^{7}.$$
+$$1\times10^{7},\,4\times10^{3},\,8.5\times10^{6},\,7.04\times10^{5},\,3.96\times10^{7}.$$
 
 ### 解答 练习五
 
 由**定义 2.3.4 (科学记数法)**, $10^{n}$ 即 $1$ 后带 $n$ 个 $0$.
 
-$$1\times 10^{7}=10000000;\quad 4\times 10^{3}=4000;\quad 8.5\times 10^{6}=8500000; $$
+$$1\times10^{7}=10000000;\quad4\times10^{3}=4000;\quad8.5\times10^{6}=8500000;$$
 
-$$7.04\times 10^{5}=704000;\quad 3.96\times 10^{7}=39600000.$$
+$$7.04\times10^{5}=704000;\quad3.96\times10^{7}=39600000.$$
 
 $\blacksquare$
 
 ## 练习六
 
-(练习 2.3 第 3 题) 我国的陆地面积约为 $9600000\ \text{km}^{2}$, 用科学记数法表示这个数.
+(练习 2.3 第 3 题) 我国的陆地面积约为 $9600000\,\text{km}^{2}$, 用科学记数法表示这个数.
 
 ### 解答 练习六
 
 由**定义 2.3.4 (科学记数法)**.
 
-$$9600000=9.6\times 10^{6}.$$
+$$9600000=9.6\times10^{6}.$$
 
-故陆地面积为 $9.6\times 10^{6}\ \text{km}^{2}$. $\blacksquare$
+故陆地面积为 $9.6\times10^{6}\,\text{km}^{2}$. $\blacksquare$
 
 ## 练习七
 
@@ -238,7 +238,7 @@ $$9600000=9.6\times 10^{6}.$$
 
 由**定义 2.3.5 (近似数)**.
 
-(1) $0.00356\approx 0.0036$; (2) $61.235\approx 61$; (3) $1.8935\approx 1.894$; (4) $0.0571\approx 0.1$. $\blacksquare$
+(1) $0.00356\approx0.0036$; (2) $61.235\approx61$; (3) $1.8935\approx1.894$; (4) $0.0571\approx0.1$. $\blacksquare$
 
 ## 习题五
 
@@ -254,53 +254,53 @@ $$9600000=9.6\times 10^{6}.$$
 
 (1) $\left(-3\right)^{3}=-27$; (2) $\left(-5\right)^{4}=625$; (3) $\left(-1.7\right)^{2}=2.89$;
 
-(4) $\left(-\frac{4}{3}\right)^{3}=-\frac{64}{27}$; (5) $-\left(-2\right)^{3}=-\left(-8\right)=8$; (6) $\left(-2\right)^{2}\times\left(-3\right)^{2}=4\times 9=36$. $\blacksquare$
+(4) $\left(-\frac{4}{3}\right)^{3}=-\frac{64}{27}$; (5) $-\left(-2\right)^{3}=-\left(-8\right)=8$; (6) $\left(-2\right)^{2}\times\left(-3\right)^{2}=4\times9=36$. $\blacksquare$
 
 ## 习题六
 
 (习题 2.3 复习巩固第 3 题) 计算:
 
-(1) $\left(-1\right)^{100}\times 5+\left(-2\right)^{4}\div 4$;
+(1) $\left(-1\right)^{100}\times5+\left(-2\right)^{4}\div4$;
 
 (2) $\left(-3\right)^{3}-3\times\left(-\frac{1}{3}\right)^{4}$;
 
-(3) $\frac{7}{6}\times\left(\frac{1}{6}-\frac{1}{3}\right)\times 3\frac{1}{4}\div\frac{3}{5}$;
+(3) $\frac{7}{6}\times\left(\frac{1}{6}-\frac{1}{3}\right)\times3\frac{1}{4}\div\frac{3}{5}$;
 
-(4) $\left(-10\right)^{3}+\left[\left(-4\right)^{2}-\left(1-3^{2}\right)\times 2\right]$;
+(4) $\left(-10\right)^{3}+\left[\left(-4\right)^{2}-\left(1-3^{2}\right)\times2\right]$;
 
 (5) $\left(-\frac{2}{3}\right)\div\frac{4}{9}\times\left(-\frac{2}{3}\right)^{2}$;
 
-(6) $4+\left(-2\right)^{3}\times 5-\left(-0.28\right)\div 4$.
+(6) $4+\left(-2\right)^{3}\times5-\left(-0.28\right)\div4$.
 
 ### 解答 习题六
 
 由**定义 2.3.3 (有理数混合运算顺序)**.
 
-(1) 原式 $=1\times 5+16\div 4=5+4=9$.
+(1) 原式 $=1\times5+16\div4=5+4=9$.
 
 (2) 原式 $=-27-3\times\frac{1}{81}=-\frac{730}{27}$.
 
 (3) 原式 $=\frac{7}{6}\times\left(-\frac{1}{6}\right)\times\frac{13}{4}\times\frac{5}{3}=-\frac{455}{432}$.
 
-(4) 原式 $=-1000+\left[16-\left(-8\right)\times 2\right]=-1000+32=-968$.
+(4) 原式 $=-1000+\left[16-\left(-8\right)\times2\right]=-1000+32=-968$.
 
 (5) 原式 $=\left(-\frac{2}{3}\right)\times\frac{9}{4}\times\frac{4}{9}=-\frac{2}{3}$.
 
-(6) 原式 $=4+\left(-8\right)\times 5-\left(-0.07\right)=4-40+0.07=-35.93$. $\blacksquare$
+(6) 原式 $=4+\left(-8\right)\times5-\left(-0.07\right)=4-40+0.07=-35.93$. $\blacksquare$
 
 ## 习题七
 
 (习题 2.3 复习巩固第 4 题) 用科学记数法表示下列各数:
 
-$$235000000,\ 188520000,\ 701000000000,\ 36000000.$$
+$$235000000,\,188520000,\,701000000000,\,36000000.$$
 
 ### 解答 习题七
 
 由**定义 2.3.4 (科学记数法)**.
 
-$$235000000=2.35\times 10^{8};\quad 188520000=1.8852\times 10^{8}; $$
+$$235000000=2.35\times10^{8};\quad188520000=1.8852\times10^{8};$$
 
-$$701000000000=7.01\times 10^{11};\quad 36000000=3.6\times 10^{7}.$$
+$$701000000000=7.01\times10^{11};\quad36000000=3.6\times10^{7}.$$
 
 $\blacksquare$
 
@@ -308,15 +308,15 @@ $\blacksquare$
 
 (习题 2.3 复习巩固第 5 题) 下列用科学记数法表示的数, 原来各是什么数?
 
-$$3\times 10^{7},\ 1.3\times 10^{3},\ 8.05\times 10^{6},\ 2.004\times 10^{5}.$$
+$$3\times10^{7},\,1.3\times10^{3},\,8.05\times10^{6},\,2.004\times10^{5}.$$
 
 ### 解答 习题八
 
 由**定义 2.3.4 (科学记数法)**.
 
-$$3\times 10^{7}=30000000;\quad 1.3\times 10^{3}=1300; $$
+$$3\times10^{7}=30000000;\quad1.3\times10^{3}=1300;$$
 
-$$8.05\times 10^{6}=8050000;\quad 2.004\times 10^{5}=200400.$$
+$$8.05\times10^{6}=8050000;\quad2.004\times10^{5}=200400.$$
 
 $\blacksquare$
 
@@ -332,7 +332,7 @@ $\blacksquare$
 
 由**定义 2.3.5 (近似数)**.
 
-(1) $0.00457\approx 0.0046$; (2) $566.1235\approx 566$; (3) $3.8963\approx 3.90$; (4) $0.0571\approx 0.057$. $\blacksquare$
+(1) $0.00457\approx0.0046$; (2) $566.1235\approx566$; (3) $3.8963\approx3.90$; (4) $0.0571\approx0.057$. $\blacksquare$
 
 ## 习题十
 
@@ -342,47 +342,47 @@ $\blacksquare$
 
 由**定义 2.3.2 (幂的符号法则)**.
 
-平方等于 $9$ 的数有两个, 因为 $3^{2}=9$, $\left(-3\right)^{2}=9$, 故 $\pm 3$ 的平方等于 $9$.
+平方等于 $9$ 的数有两个, 因为 $3^{2}=9$, $\left(-3\right)^{2}=9$, 故 $\pm3$ 的平方等于 $9$.
 
 立方等于 $-27$ 的数, 由 $\left(-3\right)^{3}=-27$, 故 $-3$ 的立方等于 $-27$. $\blacksquare$
 
 ## 习题十一
 
-(习题 2.3 综合运用第 8 题) 一个长方体的长, 宽都是 $a$, 高是 $h$, 它的体积和表面积怎样计算? 当 $a=2\ \text{cm}$, $h=5\ \text{cm}$ 时, 它的体积和表面积各是多少?
+(习题 2.3 综合运用第 8 题) 一个长方体的长, 宽都是 $a$, 高是 $h$, 它的体积和表面积怎样计算? 当 $a=2\,\text{cm}$, $h=5\,\text{cm}$ 时, 它的体积和表面积各是多少?
 
 ### 解答 习题十一
 
 长方体底面积为 $a^{2}$, 体积为底面积乘高, 表面积为两个底面加四个侧面.
 
-$$V=a^{2}h,\quad S=2a^{2}+4ah.$$
+$$V=a^{2}h,\quad{S}=2a^{2}+4ah.$$
 
 当 $a=2$, $h=5$ 时,
 
-$$V=2^{2}\times 5=20\ \text{cm}^{3};\quad S=2\times 2^{2}+4\times 2\times 5=8+40=48\ \text{cm}^{2}.$$
+$$V=2^{2}\times5=20\,\text{cm}^{3};\quad{S}=2\times2^{2}+4\times2\times5=8+40=48\,\text{cm}^{2}.$$
 
-故体积是 $20\ \text{cm}^{3}$, 表面积是 $48\ \text{cm}^{2}$. $\blacksquare$
+故体积是 $20\,\text{cm}^{3}$, 表面积是 $48\,\text{cm}^{2}$. $\blacksquare$
 
 ## 习题十二
 
-(习题 2.3 综合运用第 9 题) 一天有 $8.64\times 10^{4}\ \text{s}$, 一年按 $365$ 天计算, 一年有多少秒 (用科学记数法表示)?
+(习题 2.3 综合运用第 9 题) 一天有 $8.64\times10^{4}\,\text{s}$, 一年按 $365$ 天计算, 一年有多少秒 (用科学记数法表示)?
 
 ### 解答 习题十二
 
 由**定义 2.3.4 (科学记数法)**.
 
-$$8.64\times 10^{4}\times 365=3153.6\times 10^{4}=3.1536\times 10^{7}.$$
+$$8.64\times10^{4}\times365=3153.6\times10^{4}=3.1536\times10^{7}.$$
 
-故一年有 $3.1536\times 10^{7}\ \text{s}$. $\blacksquare$
+故一年有 $3.1536\times10^{7}\,\text{s}$. $\blacksquare$
 
 ## 习题十三
 
-(习题 2.3 综合运用第 10 题) 地球绕太阳公转的速度约是 $1.1\times 10^{5}\ \text{km/h}$, 声音在空气中的传播速度约是 $340\ \text{m/s}$, 比较两个速度的大小.
+(习题 2.3 综合运用第 10 题) 地球绕太阳公转的速度约是 $1.1\times10^{5}\,\text{km/h}$, 声音在空气中的传播速度约是 $340\,\text{m/s}$, 比较两个速度的大小.
 
 ### 解答 习题十三
 
-统一单位. $340\ \text{m/s}=340\times 3600\ \text{m/h}=1224000\ \text{m/h}=1224\ \text{km/h}$.
+统一单位. $340\,\text{m/s}=340\times3600\,\text{m/h}=1224000\,\text{m/h}=1224\,\text{km/h}$.
 
-地球公转速度为 $1.1\times 10^{5}=110000\ \text{km/h}$. 由 $110000> 1224$, 故地球绕太阳公转的速度大于声音在空气中的传播速度. $\blacksquare$
+地球公转速度为 $1.1\times10^{5}=110000\,\text{km/h}$. 由 $110000>1224$, 故地球绕太阳公转的速度大于声音在空气中的传播速度. $\blacksquare$
 
 ## 习题十四
 
@@ -404,23 +404,23 @@ $$8.64\times 10^{4}\times 365=3153.6\times 10^{4}=3.1536\times 10^{7}.$$
 
 ## 习题十五
 
-(习题 2.3 拓广探索第 12 题) 计算 $\left(-2\right)^{2}$, $2^{2}$, $\left(-2\right)^{3}$, $2^{3}$. 联系这类具体的数的乘方, 你认为当 $a< 0$ 时下列各式是否成立?
+(习题 2.3 拓广探索第 12 题) 计算 $\left(-2\right)^{2}$, $2^{2}$, $\left(-2\right)^{3}$, $2^{3}$. 联系这类具体的数的乘方, 你认为当 $a<0$ 时下列各式是否成立?
 
-(1) $a^{2}> 0$; (2) $a^{2}=\left(-a\right)^{2}$; (3) $a^{2}=-a^{2}$; (4) $a^{3}=-a^{3}$.
+(1) $a^{2}>0$; (2) $a^{2}=\left(-a\right)^{2}$; (3) $a^{2}=-a^{2}$; (4) $a^{3}=-a^{3}$.
 
 ### 解答 习题十五
 
 由**定义 2.3.2 (幂的符号法则)**.
 
-$$\left(-2\right)^{2}=4,\quad 2^{2}=4,\quad \left(-2\right)^{3}=-8,\quad 2^{3}=8.$$
+$$\left(-2\right)^{2}=4,\quad2^{2}=4,\quad\left(-2\right)^{3}=-8,\quad2^{3}=8.$$
 
-(1) 当 $a< 0$ 时, $a^{2}$ 是负数的偶次幂, 为正数, 故 $a^{2}> 0$ 成立.
+(1) 当 $a<0$ 时, $a^{2}$ 是负数的偶次幂, 为正数, 故 $a^{2}>0$ 成立.
 
 (2) $\left(-a\right)^{2}=\left(-2\right)^{2}=4=a^{2}$, 故 $a^{2}=\left(-a\right)^{2}$ 成立.
 
-(3) 由 $a^{2}> 0$ 而 $-a^{2}< 0$, 二者不可能相等, 故 $a^{2}=-a^{2}$ 不成立.
+(3) 由 $a^{2}>0$ 而 $-a^{2}<0$, 二者不可能相等, 故 $a^{2}=-a^{2}$ 不成立.
 
-(4) 当 $a< 0$ 时 $a^{3}< 0$, $-a^{3}> 0$, 二者不可能相等, 故 $a^{3}=-a^{3}$ 不成立. $\blacksquare$
+(4) 当 $a<0$ 时 $a^{3}<0$, $-a^{3}>0$, 二者不可能相等, 故 $a^{3}=-a^{3}$ 不成立. $\blacksquare$
 
 ## 活动一
 
@@ -442,7 +442,7 @@ $$\left(-2\right)^{2}=4,\quad 2^{2}=4,\quad \left(-2\right)^{3}=-8,\quad 2^{3}=8
 
 由**定义 2.1.1 (有理数加法法则)**.
 
-九个数之和为 $-4+\left(-3\right)+\cdots+4=0$, 三行之和相等, 故每行三数之和为 $0\div 3=0$. 中心格的数在横, 竖, 两条对角线中共计出现 $4$ 次, 应取九个数的中间数 $0$. 将九个数关于 $0$ 配对为 $-4$ 与 $4$, $-3$ 与 $3$, $-2$ 与 $2$, $-1$ 与 $1$, 使每条过中心的线上两数互为相反数, 即和为 $0$. 填得幻方如图, 每行, 每列, 每条对角线之和均为 $0$. $\blacksquare$
+九个数之和为 $-4+\left(-3\right)+\cdots+4=0$, 三行之和相等, 故每行三数之和为 $0\div3=0$. 中心格的数在横, 竖, 两条对角线中共计出现 $4$ 次, 应取九个数的中间数 $0$. 将九个数关于 $0$ 配对为 $-4$ 与 $4$, $-3$ 与 $3$, $-2$ 与 $2$, $-1$ 与 $1$, 使每条过中心的线上两数互为相反数, 即和为 $0$. 填得幻方如图, 每行, 每列, 每条对角线之和均为 $0$. $\blacksquare$
 
 ## 复习题一
 
@@ -450,7 +450,7 @@ $$\left(-2\right)^{2}=4,\quad 2^{2}=4,\quad \left(-2\right)^{3}=-8,\quad 2^{3}=8
 
 (1) $-150+250$; (2) $-15+\left(-23\right)$; (3) $-5-65$; (4) $-26-\left(-15\right)$;
 
-(5) $\left(-6\right)\times\left(-16\right)$; (6) $\left(-\frac{1}{3}\right)\times 27$; (7) $8\div\left(-16\right)$;
+(5) $\left(-6\right)\times\left(-16\right)$; (6) $\left(-\frac{1}{3}\right)\times27$; (7) $8\div\left(-16\right)$;
 
 (8) $\left(-25\right)\div\left(-\frac{2}{3}\right)$; (9) $\left(-\frac{3}{4}\right)\div\left(-\frac{4}{5}\right)$.
 
@@ -468,13 +468,13 @@ $$\left(-2\right)^{2}=4,\quad 2^{2}=4,\quad \left(-2\right)^{3}=-8,\quad 2^{3}=8
 
 (1) $6+\left(-\frac{1}{5}\right)-2-\left(-1.5\right)$;
 
-(2) $\left(-0.02\right)\times\left(-20\right)\times\left(-5\right)\times 4.5$;
+(2) $\left(-0.02\right)\times\left(-20\right)\times\left(-5\right)\times4.5$;
 
 (3) $\left(-6.5\right)\times\left(-2\right)\div\left(-\frac{1}{3}\right)\div\left(-5\right)$;
 
-(4) $\left(-66\right)\times 4-\left(-2.5\right)\div\left(-0.1\right)$;
+(4) $\left(-66\right)\times4-\left(-2.5\right)\div\left(-0.1\right)$;
 
-(5) $\left(-2\right)^{2}\times 5-\left(-2\right)^{3}\div 4$;
+(5) $\left(-2\right)^{2}\times5-\left(-2\right)^{3}\div4$;
 
 (6) $-\left(3-5\right)+3^{2}\times\left(1-3\right)$.
 
@@ -490,6 +490,6 @@ $$\left(-2\right)^{2}=4,\quad 2^{2}=4,\quad \left(-2\right)^{3}=-8,\quad 2^{3}=8
 
 (4) 原式 $=-264-25=-289$.
 
-(5) 原式 $=4\times 5-\left(-8\right)\div 4=20+2=22$.
+(5) 原式 $=4\times5-\left(-8\right)\div4=20+2=22$.
 
 (6) 原式 $=-\left(-2\right)+9\times\left(-2\right)=2-18=-16$. $\blacksquare$

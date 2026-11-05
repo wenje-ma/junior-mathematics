@@ -6,7 +6,7 @@
 
 > **Definition 27.2.1 (Similar Triangles)**
 > 
-> In $\triangle ABC$ and $\triangle A'B'C'$, if $\angle A=\angle A'$, $\angle B=\angle B'$, $\angle C=\angle C'$, and $\frac{AB}{A'B'}=\frac{BC}{B'C'}=\frac{AC}{A'C'}=k$, then $\triangle ABC\backsim\triangle A'B'C'$.
+> In $\triangle{A}BC$ and $\triangle{A}'B'C'$, if $\angle{A}=\angle{A}'$, $\angle{B}=\angle{B}'$, $\angle{C}=\angle{C}'$, and $\frac{AB}{A'B'}=\frac{BC}{B'C'}=\frac{AC}{A'C'}=k$, then $\triangle{A}BC\backsim\triangle{A}'B'C'$.
 
 > **Basic Fact 27.2.1 (Parallel Lines Dividing Line Segments Proportionally)**
 > 
@@ -54,100 +54,100 @@
 
 ## Exercise 1
 
-(Exercise 27.2, Problem 2) As shown in the figure, $BD=120\ \text{m}$, $DC=60\ \text{m}$, $EC=50\ \text{m}$ are measured. Find the river width $AB$.
+(Exercise 27.2, Problem 2) As shown in the figure, $BD=120\,\text{m}$, $DC=60\,\text{m}$, $EC=50\,\text{m}$ are measured. Find the river width $AB$.
 
 ### Solution to Exercise 1
 
-$AB\perp BC$, $EC\perp BC$, so $\triangle ABD\backsim\triangle ECD$ (AA).
+$AB\perp{B}C$, $EC\perp{B}C$, so $\triangle{A}BD\backsim\triangle{E}CD$ (AA).
 
 $$
 \frac{AB}{EC}=\frac{BD}{DC}=\frac{120}{60}=2.
 $$
 
 $$
-AB=2\times EC=2\times50=100\ \text{m}.\ \blacksquare
+AB=2\times{E}C=2\times50=100\,\text{m}.\,\blacksquare
 $$
 
 ## Problem 1
 
-(Problem 27.2, Review and Consolidation, Problem 1) There is a triangular meadow with one side of length $25\ \text{m}$. On the drawing, this side is $5\ \text{cm}$ long, and the other two sides are both $4\ \text{cm}$ long. Find the actual lengths of the other two sides.
+(Problem 27.2, Review and Consolidation, Problem 1) There is a triangular meadow with one side of length $25\,\text{m}$. On the drawing, this side is $5\,\text{cm}$ long, and the other two sides are both $4\,\text{cm}$ long. Find the actual lengths of the other two sides.
 
 ### Solution to Problem 1
 
-The similarity ratio between the drawing and the actual is $5\ \text{cm}:25\ \text{m}=5:2500=1:500$.
+The similarity ratio between the drawing and the actual is $5\,\text{cm}:25\,\text{m}=5:2500=1:500$.
 
-The other two sides are $4\ \text{cm}$ on the drawing, so their actual lengths are $4\times500=2000\ \text{cm}=20\ \text{m}$. $\blacksquare$
+The other two sides are $4\,\text{cm}$ on the drawing, so their actual lengths are $4\times500=2000\,\text{cm}=20\,\text{m}$. $\blacksquare$
 
 ## Problem 2
 
-(Problem 27.2, Review and Consolidation, Problem 2) Based on the following conditions, determine whether $\triangle ABC$ and $\triangle A'B'C'$ are similar, and explain your reasoning:
+(Problem 27.2, Review and Consolidation, Problem 2) Based on the following conditions, determine whether $\triangle{A}BC$ and $\triangle{A}'B'C'$ are similar, and explain your reasoning:
 
-(1) $AB=10\ \text{cm}$, $BC=12\ \text{cm}$, $AC=15\ \text{cm}$, $A'B'=150\ \text{cm}$, $B'C'=180\ \text{cm}$, $A'C'=225\ \text{cm}$;
+(1) $AB=10\,\text{cm}$, $BC=12\,\text{cm}$, $AC=15\,\text{cm}$, $A'B'=150\,\text{cm}$, $B'C'=180\,\text{cm}$, $A'C'=225\,\text{cm}$;
 
-(2) $\angle A=70^\circ$, $\angle B=48^\circ$, $\angle A'=70^\circ$, $\angle C'=62^\circ$.
+(2) $\angle{A}=70^\circ$, $\angle{B}=48^\circ$, $\angle{A}'=70^\circ$, $\angle{C}'=62^\circ$.
 
 ### Solution to Problem 2
 
 (1) $\frac{10}{150}=\frac{1}{15}$, $\frac{12}{180}=\frac{1}{15}$, $\frac{15}{225}=\frac{1}{15}$; the three sides are proportional, so by **Criterion Theorem 27.2.2** (SSS), they are similar.
 
-(2) $\angle C=180^\circ-70^\circ-48^\circ=62^\circ=\angle C'$, and $\angle A=\angle A'=70^\circ$; two pairs of corresponding angles are equal, so by **Criterion Theorem 27.2.4** (AA), they are similar. $\blacksquare$
+(2) $\angle{C}=180^\circ-70^\circ-48^\circ=62^\circ=\angle{C}'$, and $\angle{A}=\angle{A}'=70^\circ$; two pairs of corresponding angles are equal, so by **Criterion Theorem 27.2.4** (AA), they are similar. $\blacksquare$
 
 ## Problem 3
 
-(Problem 27.2, Review and Consolidation, Problem 3) As shown in the figure, (1) determine whether the two triangles are similar; (2) find the values of $x$ and $y$. (First group: two sides proportional and included angle $98^\circ$ equal; second group: $\angle 1=\angle 2$, two pairs of corresponding angles equal.)
+(Problem 27.2, Review and Consolidation, Problem 3) As shown in the figure, (1) determine whether the two triangles are similar; (2) find the values of $x$ and $y$. (First group: two sides proportional and included angle $98^\circ$ equal; second group: $\angle1=\angle2$, two pairs of corresponding angles equal.)
 
 ### Solution to Problem 3
 
 (1) First group: the ratios of the two sides are both $3:2$, and the included angle $98^\circ$ is equal; by **Criterion Theorem 27.2.3** (SAS), they are similar.
 
-(2) Second group: $\angle 1=\angle 2$, and there is another pair of equal corresponding angles; by **Criterion Theorem 27.2.4** (AA), they are similar; the corresponding sides are proportional, from which $x,y$ can be found. $\blacksquare$
+(2) Second group: $\angle1=\angle2$, and there is another pair of equal corresponding angles; by **Criterion Theorem 27.2.4** (AA), they are similar; the corresponding sides are proportional, from which $x,y$ can be found. $\blacksquare$
 
 ## Problem 4
 
-(Problem 27.2, Review and Consolidation, Problem 4) As shown in the figure, in $\triangle ABC$, $DE\parallel BC$, $EF\parallel AB$. Prove that $\triangle ADE\backsim\triangle EFC$.
+(Problem 27.2, Review and Consolidation, Problem 4) As shown in the figure, in $\triangle{A}BC$, $DE\parallel{B}C$, $EF\parallel{A}B$. Prove that $\triangle{A}DE\backsim\triangle{E}FC$.
 
 ### Solution to Problem 4
 
-$DE\parallel BC$, so $\angle AED=\angle C$.
+$DE\parallel{B}C$, so $\angle{A}ED=\angle{C}$.
 
-$EF\parallel AB$, so $\angle A=\angle CEF$.
+$EF\parallel{A}B$, so $\angle{A}=\angle{C}EF$.
 
-In $\triangle ADE$ and $\triangle EFC$, $\angle A=\angle CEF$, $\angle AED=\angle C$; by **Criterion Theorem 27.2.4** (AA), $\triangle ADE\backsim\triangle EFC$. $\blacksquare$
+In $\triangle{A}DE$ and $\triangle{E}FC$, $\angle{A}=\angle{C}EF$, $\angle{A}ED=\angle{C}$; by **Criterion Theorem 27.2.4** (AA), $\triangle{A}DE\backsim\triangle{E}FC$. $\blacksquare$
 
 ## Problem 5
 
-(Problem 27.2, Review and Consolidation, Problem 5) As shown in the figure, in $\triangle ABC$, $DE\parallel FG\parallel BC$. Find all similar triangles in the figure.
+(Problem 27.2, Review and Consolidation, Problem 5) As shown in the figure, in $\triangle{A}BC$, $DE\parallel{F}G\parallel{B}C$. Find all similar triangles in the figure.
 
 ### Solution to Problem 5
 
 By **Theorem 27.2.1 (Preliminary Theorem)**, a triangle cut by a line parallel to one side of the original is similar to the original triangle.
 
-$DE\parallel BC$, so $\triangle ADE\backsim\triangle ABC$; $FG\parallel BC$, so $\triangle AFG\backsim\triangle ABC$. Therefore $\triangle ADE\backsim\triangle AFG\backsim\triangle ABC$. $\blacksquare$
+$DE\parallel{B}C$, so $\triangle{A}DE\backsim\triangle{A}BC$; $FG\parallel{B}C$, so $\triangle{A}FG\backsim\triangle{A}BC$. Therefore $\triangle{A}DE\backsim\triangle{A}FG\backsim\triangle{A}BC$. $\blacksquare$
 
 ## Problem 6
 
-(Problem 27.2, Review and Consolidation, Problem 6) If a right triangle with legs $30\ \text{cm}$ and $40\ \text{cm}$ is reduced by a similarity ratio of $\frac{3}{5}$, what are the lengths of the two legs and the area of the resulting right triangle?
+(Problem 27.2, Review and Consolidation, Problem 6) If a right triangle with legs $30\,\text{cm}$ and $40\,\text{cm}$ is reduced by a similarity ratio of $\frac{3}{5}$, what are the lengths of the two legs and the area of the resulting right triangle?
 
 ### Solution to Problem 6
 
-After reduction, the two legs are $30\times\frac{3}{5}=18\ \text{cm}$ and $40\times\frac{3}{5}=24\ \text{cm}$.
+After reduction, the two legs are $30\times\frac{3}{5}=18\,\text{cm}$ and $40\times\frac{3}{5}=24\,\text{cm}$.
 
-The area is $\frac{1}{2}\times18\times24=216\ \text{cm}^2$. $\blacksquare$
+The area is $\frac{1}{2}\times18\times24=216\,\text{cm}^2$. $\blacksquare$
 
 ## Problem 7
 
-(Problem 27.2, Comprehensive Application, Problem 7) As shown in the figure, $AD$ is the altitude to the hypotenuse of $\text{Rt}\triangle ABC$. If $AB=4\ \text{cm}$, $BC=10\ \text{cm}$, find the length of $BD$.
+(Problem 27.2, Comprehensive Application, Problem 7) As shown in the figure, $AD$ is the altitude to the hypotenuse of $\text{Rt}\triangle{A}BC$. If $AB=4\,\text{cm}$, $BC=10\,\text{cm}$, find the length of $BD$.
 
 ### Solution to Problem 7
 
-In $\text{Rt}\triangle ABC$, $\angle BAC=90^\circ$, $AD\perp BC$. By **Criterion Theorem 27.2.4** (AA), $\triangle ABD\backsim\triangle CBA$.
+In $\text{Rt}\triangle{A}BC$, $\angle{B}AC=90^\circ$, $AD\perp{B}C$. By **Criterion Theorem 27.2.4** (AA), $\triangle{A}BD\backsim\triangle{C}BA$.
 
 $$
-\frac{AB}{BC}=\frac{BD}{AB}\Rightarrow AB^2=BD\cdot BC.
+\frac{AB}{BC}=\frac{BD}{AB}\Rightarrow{A}B^2=BD\cdot{B}C.
 $$
 
 $$
-BD=\frac{AB^2}{BC}=\frac{16}{10}=1.6\ \text{cm}.\ \blacksquare
+BD=\frac{AB^2}{BC}=\frac{16}{10}=1.6\,\text{cm}.\,\blacksquare
 $$
 
 ## Problem 8
@@ -156,7 +156,7 @@ $$
 
 ### Solution to Problem 8
 
-$\angle AOB=\angle DOC$ (vertical angles), and $\frac{OA}{OD}=3=\frac{OB}{OC}$; by **Criterion Theorem 27.2.3** (SAS), $\triangle OAB\backsim\triangle ODC$.
+$\angle{A}OB=\angle{D}OC$ (vertical angles), and $\frac{OA}{OD}=3=\frac{OB}{OC}$; by **Criterion Theorem 27.2.3** (SAS), $\triangle{O}AB\backsim\triangle{O}DC$.
 
 $$
 \frac{AB}{CD}=\frac{OA}{OD}=3.
@@ -166,87 +166,87 @@ Therefore $AB=3CD$. $\blacksquare$
 
 ## Problem 9
 
-(Problem 27.2, Comprehensive Application, Problem 9) As shown in the figure, a sighting pole $BE$ is used to measure the height of a building. The sighting pole $BE$ is $1.2\ \text{m}$ high, and $AB=1.6\ \text{m}$, $BC=12.4\ \text{m}$ are measured. What is the height $CD$ of the building?
+(Problem 27.2, Comprehensive Application, Problem 9) As shown in the figure, a sighting pole $BE$ is used to measure the height of a building. The sighting pole $BE$ is $1.2\,\text{m}$ high, and $AB=1.6\,\text{m}$, $BC=12.4\,\text{m}$ are measured. What is the height $CD$ of the building?
 
 ### Solution to Problem 9
 
-$BE\perp AC$, $CD\perp AC$, so $BE\parallel CD$, and $\triangle ABE\backsim\triangle ACD$ (AA).
+$BE\perp{A}C$, $CD\perp{A}C$, so $BE\parallel{C}D$, and $\triangle{A}BE\backsim\triangle{A}CD$ (AA).
 
 $$
 \frac{BE}{CD}=\frac{AB}{AC}=\frac{1.6}{1.6+12.4}=\frac{1.6}{14}.
 $$
 
 $$
-CD=\frac{1.2\times14}{1.6}=10.5\ \text{m}.\ \blacksquare
+CD=\frac{1.2\times14}{1.6}=10.5\,\text{m}.\,\blacksquare
 $$
 
 ## Problem 10
 
-(Problem 27.2, Comprehensive Application, Problem 10) As shown in the figure, to measure the height of a building, student Wang Qing places a mirror at her feet and then steps backward until she can just see the top of the building in the mirror. At this time, is $\angle LMK$ equal to $\angle SMT$? If Wang Qing is $1.55\ \text{m}$ tall, her eyes are $1.50\ \text{m}$ above the ground, and $LM=30\ \text{cm}$, $MS=2\ \text{m}$ are measured, how tall is the building?
+(Problem 27.2, Comprehensive Application, Problem 10) As shown in the figure, to measure the height of a building, student Wang Qing places a mirror at her feet and then steps backward until she can just see the top of the building in the mirror. At this time, is $\angle{L}MK$ equal to $\angle{S}MT$? If Wang Qing is $1.55\,\text{m}$ tall, her eyes are $1.50\,\text{m}$ above the ground, and $LM=30\,\text{cm}$, $MS=2\,\text{m}$ are measured, how tall is the building?
 
 ### Solution to Problem 10
 
-By the law of reflection, the angle of reflection equals the angle of incidence, so $\angle LMK=\angle SMT$.
+By the law of reflection, the angle of reflection equals the angle of incidence, so $\angle{L}MK=\angle{S}MT$.
 
-$\angle KLM=\angle TSM=90^\circ$; by **Criterion Theorem 27.2.4** (AA), $\triangle KLM\backsim\triangle TSM$.
+$\angle{K}LM=\angle{T}SM=90^\circ$; by **Criterion Theorem 27.2.4** (AA), $\triangle{K}LM\backsim\triangle{T}SM$.
 
 $$
 \frac{KL}{TS}=\frac{LM}{SM}=\frac{0.3}{2}=\frac{3}{20}.
 $$
 
-$KL=1.50\ \text{m}$, so $TS=1.50\times\frac{20}{3}=10\ \text{m}$. $\blacksquare$
+$KL=1.50\,\text{m}$, so $TS=1.50\times\frac{20}{3}=10\,\text{m}$. $\blacksquare$
 
 ## Problem 11
 
-(Problem 27.2, Comprehensive Application, Problem 11) As shown in the figure, $ABCD$ is a rectangle, point $F$ moves on the diagonal $AC$, $EF\parallel BC$, $FG\parallel CD$. Do rectangle $AEFG$ and rectangle $ABCD$ always remain similar? Prove your conclusion.
+(Problem 27.2, Comprehensive Application, Problem 11) As shown in the figure, $ABCD$ is a rectangle, point $F$ moves on the diagonal $AC$, $EF\parallel{B}C$, $FG\parallel{C}D$. Do rectangle $AEFG$ and rectangle $ABCD$ always remain similar? Prove your conclusion.
 
 ### Solution to Problem 11
 
-$EF\parallel BC\parallel AD$, $FG\parallel CD\parallel AB$.
+$EF\parallel{B}C\parallel{A}D$, $FG\parallel{C}D\parallel{A}B$.
 
-In rectangle $ABCD$, $\angle A=\angle B=\angle C=\angle D=90^\circ$. In quadrilateral $AEFG$, $EF\parallel AG$, $FG\parallel AE$, so its four angles are also all $90^\circ$.
+In rectangle $ABCD$, $\angle{A}=\angle{B}=\angle{C}=\angle{D}=90^\circ$. In quadrilateral $AEFG$, $EF\parallel{A}G$, $FG\parallel{A}E$, so its four angles are also all $90^\circ$.
 
-Also, $\triangle AEF\backsim\triangle ABC$, $\triangle AFG\backsim\triangle ACD$, and the ratio of corresponding sides is $\frac{AF}{AC}$ in both.
+Also, $\triangle{A}EF\backsim\triangle{A}BC$, $\triangle{A}FG\backsim\triangle{A}CD$, and the ratio of corresponding sides is $\frac{AF}{AC}$ in both.
 
 Thus quadrilateral $AEFG$ and $ABCD$ have equal corresponding angles and proportional corresponding sides; by **Definition 27.1.3 (Similar Polygons)**, they always remain similar. $\blacksquare$
 
 ## Problem 12
 
-(Problem 27.2, Comprehensive Application, Problem 12) As shown in the figure, the line $DE$ parallel to $BC$ divides $\triangle ABC$ into two parts of equal area. Determine the position of point $D$ (or $E$).
+(Problem 27.2, Comprehensive Application, Problem 12) As shown in the figure, the line $DE$ parallel to $BC$ divides $\triangle{A}BC$ into two parts of equal area. Determine the position of point $D$ (or $E$).
 
 ### Solution to Problem 12
 
-By **Theorem 27.2.1 (Preliminary Theorem)**, $DE\parallel BC$, so $\triangle ADE\backsim\triangle ABC$.
+By **Theorem 27.2.1 (Preliminary Theorem)**, $DE\parallel{B}C$, so $\triangle{A}DE\backsim\triangle{A}BC$.
 
-By Basic Knowledge, $\frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\left(\frac{AD}{AB}\right)^2=\frac{1}{2}$.
+By Basic Knowledge, $\frac{S_{\triangle{A}DE}}{S_{\triangle{A}BC}}=\left(\frac{AD}{AB}\right)^2=\frac{1}{2}$.
 
 Thus $\frac{AD}{AB}=\frac{1}{\sqrt{2}}=\frac{\sqrt{2}}{2}$, i.e. $D$ lies on $AB$ such that $AD:DB=\sqrt{2}:\left(2-\sqrt{2}\right)$. $\blacksquare$
 
 ## Problem 13
 
-(Problem 27.2, Extension and Exploration, Problem 13) As shown in the figure, in $\triangle ABC$, $CD$ is the altitude to side $AB$, and $\frac{AD}{CD}=\frac{CD}{BD}$. Find the size of $\angle ACB$.
+(Problem 27.2, Extension and Exploration, Problem 13) As shown in the figure, in $\triangle{A}BC$, $CD$ is the altitude to side $AB$, and $\frac{AD}{CD}=\frac{CD}{BD}$. Find the size of $\angle{A}CB$.
 
 ### Solution to Problem 13
 
-$CD\perp AB$, so $\angle ADC=\angle CDB=90^\circ$. Also $\frac{AD}{CD}=\frac{CD}{BD}$; the two sides are proportional and the included angle is equal, so by **Criterion Theorem 27.2.3** (SAS), $\triangle ACD\backsim\triangle CBD$.
+$CD\perp{A}B$, so $\angle{A}DC=\angle{C}DB=90^\circ$. Also $\frac{AD}{CD}=\frac{CD}{BD}$; the two sides are proportional and the included angle is equal, so by **Criterion Theorem 27.2.3** (SAS), $\triangle{A}CD\backsim\triangle{C}BD$.
 
-Thus $\angle ACD=\angle B$.
+Thus $\angle{A}CD=\angle{B}$.
 
 $$
-\angle ACB=\angle ACD+\angle BCD=\angle B+\angle BCD=90^\circ.\ \blacksquare
+\angle{A}CB=\angle{A}CD+\angle{B}CD=\angle{B}+\angle{B}CD=90^\circ.\,\blacksquare
 $$
 
 ## Problem 14
 
-(Problem 27.2, Extension and Exploration, Problem 14) As shown in the figure, in $\triangle ABC$, $AB=8$, $AC=6$, $BC=9$. A moving point $D$ starts from point $B$ and moves along side $BA$ toward point $A$ at a speed of $2$ units per second, while the line $DE\parallel BC$ meets $AC$ at point $E$. Let $y$ be the length of $DE$ after $x$ seconds. Write the function expression for $y$ in terms of $x$ and draw its graph.
+(Problem 27.2, Extension and Exploration, Problem 14) As shown in the figure, in $\triangle{A}BC$, $AB=8$, $AC=6$, $BC=9$. A moving point $D$ starts from point $B$ and moves along side $BA$ toward point $A$ at a speed of $2$ units per second, while the line $DE\parallel{B}C$ meets $AC$ at point $E$. Let $y$ be the length of $DE$ after $x$ seconds. Write the function expression for $y$ in terms of $x$ and draw its graph.
 
-The figure shows $\triangle ABC$ with $AB=8$, $AC=6$, and $BC=9$; point $D$ moves along side $BA$ from $B$ toward $A$, and through $D$ a line $DE\parallel BC$ is drawn meeting $AC$ at $E$.
+The figure shows $\triangle{A}BC$ with $AB=8$, $AC=6$, and $BC=9$; point $D$ moves along side $BA$ from $B$ toward $A$, and through $D$ a line $DE\parallel{B}C$ is drawn meeting $AC$ at $E$.
 
 ### Solution to Problem 14
 
 After $x$ seconds, $BD=2x$, $AD=AB-BD=8-2x$.
 
-By **Theorem 27.2.1 (Preliminary Theorem)**, $DE\parallel BC$, $\triangle ADE\backsim\triangle ABC$, so
+By **Theorem 27.2.1 (Preliminary Theorem)**, $DE\parallel{B}C$, $\triangle{A}DE\backsim\triangle{A}BC$, so
 
 $$
 \frac{DE}{BC}=\frac{AD}{AB}=\frac{8-2x}{8}.
@@ -256,7 +256,7 @@ $$
 y=DE=9\cdot\frac{8-2x}{8}=9-\frac{9}{4}x.
 $$
 
-where $0\le x\le4$. The graph is a line segment from $\left(0,9\right)$ to $\left(4,0\right)$. $\blacksquare$
+where $0\le{x}\le4$. The graph is a line segment from $\left(0,9\right)$ to $\left(4,0\right)$. $\blacksquare$
 
 ## Observation and Conjecture 1
 
@@ -268,27 +268,27 @@ The Sierpinski carpet is obtained by dividing an equilateral triangle into four 
 
 ## Exercise 2
 
-(Exercise 27.3, Problem 1) As shown in the figure, $\triangle OAB$ and $\triangle OCD$ are homothetic figures. Are $AB$ and $CD$ parallel? Why?
+(Exercise 27.3, Problem 1) As shown in the figure, $\triangle{O}AB$ and $\triangle{O}CD$ are homothetic figures. Are $AB$ and $CD$ parallel? Why?
 
 ### Solution to Exercise 2
 
 By **Definition 27.3.1 (Homothetic Figures)**, homothetic figures are special similar figures, and their corresponding sides are parallel to each other.
 
-$\triangle OAB$ and $\triangle OCD$ are homothetic, and $AB$ and $CD$ are corresponding sides, so $AB\parallel CD$. $\blacksquare$
+$\triangle{O}AB$ and $\triangle{O}CD$ are homothetic, and $AB$ and $CD$ are corresponding sides, so $AB\parallel{C}D$. $\blacksquare$
 
 ## Exercise 3
 
-(Exercise 27.3, Problem 2) As shown in the figure, take point $O$ as the center of homothety and enlarge $\triangle ABC$ by a similarity ratio of $3$.
+(Exercise 27.3, Problem 2) As shown in the figure, take point $O$ as the center of homothety and enlarge $\triangle{A}BC$ by a similarity ratio of $3$.
 
-The figure shows $\triangle ABC$ with a point $O$ outside it; the task is to take $O$ as the center of homothety and enlarge $\triangle ABC$ by a similarity ratio of $3$.
+The figure shows $\triangle{A}BC$ with a point $O$ outside it; the task is to take $O$ as the center of homothety and enlarge $\triangle{A}BC$ by a similarity ratio of $3$.
 
 ### Solution to Exercise 3
 
-By **Definition 27.3.1 (Homothetic Figures)**, connect and extend $OA,OB,OC$, take $A',B',C'$ on the extended lines such that $OA'=3OA$, $OB'=3OB$, $OC'=3OC$, and connect $A',B',C'$ in order; the resulting $\triangle A'B'C'$ is the desired enlarged triangle. $\blacksquare$
+By **Definition 27.3.1 (Homothetic Figures)**, connect and extend $OA,OB,OC$, take $A',B',C'$ on the extended lines such that $OA'=3OA$, $OB'=3OB$, $OC'=3OC$, and connect $A',B',C'$ in order; the resulting $\triangle{A}'B'C'$ is the desired enlarged triangle. $\blacksquare$
 
 ## Exercise 4
 
-(Exercise 27.3, Problem 1) As shown in the figure, reducing $\triangle AOB$ gives $\triangle COD$. Find the similarity ratio of $\triangle COD$ to $\triangle AOB$. ($A\left(2,4\right)$, $B\left(5,0\right)$, $C\left(1,2\right)$, $D\left(2.5,0\right)$.)
+(Exercise 27.3, Problem 1) As shown in the figure, reducing $\triangle{A}OB$ gives $\triangle{C}OD$. Find the similarity ratio of $\triangle{C}OD$ to $\triangle{A}OB$. ($A\left(2,4\right)$, $B\left(5,0\right)$, $C\left(1,2\right)$, $D\left(2.5,0\right)$.)
 
 ### Solution to Exercise 4
 
@@ -302,7 +302,7 @@ Thus the similarity ratio is $\frac{1}{2}$. $\blacksquare$
 
 ## Exercise 5
 
-(Exercise 27.3, Problem 2) As shown in the figure, the coordinates of the three vertices of $\triangle ABO$ are $A\left(4,-5\right)$, $B\left(6,0\right)$, $O\left(0,0\right)$. Taking the origin $O$ as the center of homothety, enlarge this triangle by a similarity ratio of $2$ to obtain $\triangle A'B'O'$. Write the coordinates of the three vertices of $\triangle A'B'O'$.
+(Exercise 27.3, Problem 2) As shown in the figure, the coordinates of the three vertices of $\triangle{A}BO$ are $A\left(4,-5\right)$, $B\left(6,0\right)$, $O\left(0,0\right)$. Taking the origin $O$ as the center of homothety, enlarge this triangle by a similarity ratio of $2$ to obtain $\triangle{A}'B'O'$. Write the coordinates of the three vertices of $\triangle{A}'B'O'$.
 
 ### Solution to Exercise 5
 
@@ -328,7 +328,7 @@ By **Definition 27.3.1 (Homothetic Figures)**, connect the center of homothety $
 
 ## Problem 17
 
-(Problem 27.3, Review and Consolidation, Problem 3) The coordinates of the three vertices of $\triangle ABC$ are $A\left(2,2\right)$, $B\left(4,2\right)$, $C\left(6,4\right)$. Taking the origin $O$ as the center of homothety, reduce $\triangle ABC$ to obtain $\triangle DEF$, such that the ratio of corresponding sides of $\triangle DEF$ to $\triangle ABC$ is $1:2$. What are the coordinates of each vertex of $\triangle DEF$ at this time?
+(Problem 27.3, Review and Consolidation, Problem 3) The coordinates of the three vertices of $\triangle{A}BC$ are $A\left(2,2\right)$, $B\left(4,2\right)$, $C\left(6,4\right)$. Taking the origin $O$ as the center of homothety, reduce $\triangle{A}BC$ to obtain $\triangle{D}EF$, such that the ratio of corresponding sides of $\triangle{D}EF$ to $\triangle{A}BC$ is $1:2$. What are the coordinates of each vertex of $\triangle{D}EF$ at this time?
 
 ### Solution to Problem 17
 
@@ -420,26 +420,26 @@ The center of homothety lies on the ray corresponding to each stroke, and the ra
 
 ## Review Problem 1
 
-(Review Problem 27, Review and Consolidation, Problem 1) As shown in the figure, quadrilateral $EFGH$ is similar to quadrilateral $KLMN$. Find the angles $\angle E$, $\angle G$, $\angle N$ and the values of $x,y,z$. (In $EFGH$, $\angle E=143^\circ$, $EF=4$, $FG=6$, $GH=10$, $EH=x$; in $KLMN$, $\angle L=67^\circ$, $\angle M=107^\circ$, $KL=10$, $LM=y$, $MN=z$, $KN=35$.)
+(Review Problem 27, Review and Consolidation, Problem 1) As shown in the figure, quadrilateral $EFGH$ is similar to quadrilateral $KLMN$. Find the angles $\angle{E}$, $\angle{G}$, $\angle{N}$ and the values of $x,y,z$. (In $EFGH$, $\angle{E}=143^\circ$, $EF=4$, $FG=6$, $GH=10$, $EH=x$; in $KLMN$, $\angle{L}=67^\circ$, $\angle{M}=107^\circ$, $KL=10$, $LM=y$, $MN=z$, $KN=35$.)
 
 ### Solution to Review Problem 1
 
-By **Definition 27.1.3 (Similar Polygons)**, $EFGH\backsim KLMN$, the corresponding angles are equal, and the corresponding sides are proportional.
+By **Definition 27.1.3 (Similar Polygons)**, $EFGH\backsim{K}LMN$, the corresponding angles are equal, and the corresponding sides are proportional.
 
 The similarity ratio is $\frac{EF}{KL}=\frac{4}{10}=\frac{2}{5}$.
 
-$\angle E=\angle K=143^\circ$, $\angle G=\angle M=107^\circ$. The sum of interior angles of a quadrilateral is $360^\circ$, so $\angle H=\angle N=360^\circ-143^\circ-67^\circ-107^\circ=43^\circ$.
+$\angle{E}=\angle{K}=143^\circ$, $\angle{G}=\angle{M}=107^\circ$. The sum of interior angles of a quadrilateral is $360^\circ$, so $\angle{H}=\angle{N}=360^\circ-143^\circ-67^\circ-107^\circ=43^\circ$.
 
 $$
-\frac{FG}{LM}=\frac{2}{5}\Rightarrow\frac{6}{y}=\frac{2}{5}\Rightarrow y=15.
-$$
-
-$$
-\frac{GH}{MN}=\frac{2}{5}\Rightarrow\frac{10}{z}=\frac{2}{5}\Rightarrow z=25.
+\frac{FG}{LM}=\frac{2}{5}\Rightarrow\frac{6}{y}=\frac{2}{5}\Rightarrow{y}=15.
 $$
 
 $$
-\frac{EH}{KN}=\frac{2}{5}\Rightarrow\frac{x}{35}=\frac{2}{5}\Rightarrow x=14.
+\frac{GH}{MN}=\frac{2}{5}\Rightarrow\frac{10}{z}=\frac{2}{5}\Rightarrow{z}=25.
 $$
 
-Thus $\angle E=143^\circ$, $\angle G=107^\circ$, $\angle N=43^\circ$, $x=14$, $y=15$, $z=25$. $\blacksquare$
+$$
+\frac{EH}{KN}=\frac{2}{5}\Rightarrow\frac{x}{35}=\frac{2}{5}\Rightarrow{x}=14.
+$$
+
+Thus $\angle{E}=143^\circ$, $\angle{G}=107^\circ$, $\angle{N}=43^\circ$, $x=14$, $y=15$, $z=25$. $\blacksquare$

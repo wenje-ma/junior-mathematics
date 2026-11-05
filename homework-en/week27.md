@@ -2,15 +2,15 @@
 
 > **Property 11.1.1 (Property 1 of Inequalities)**
 > 
-> $a> b\Rightarrow a\pm c> b\pm c$.
+> $a>{}b\Rightarrow{a}\pm{c}>{}b\pm{c}$.
 
 > **Property 11.1.2 (Property 2 of Inequalities)**
 > 
-> $a> b,\ c> 0\Rightarrow ac> bc$.
+> $a>{}b,\,c>0\Rightarrow{a}c>{}bc$.
 
 > **Property 11.1.3 (Property 3 of Inequalities)**
 > 
-> $a> b,\ c< 0\Rightarrow ac< bc$.
+> $a>{}b,\,c<0\Rightarrow{a}c<{}bc$.
 
 > **Definition 11.2.1 (Linear Inequality in One Variable)**
 > 
@@ -98,15 +98,15 @@ Hence next year's green coverage area must increase by at least $15.5\%$ over th
 
 ### Solution to Activity 2
 
-Let the three numbers be $a\le b\le c$, where $c=a+b$ (one number is the sum of the other two). The pairwise sums are $a+b$, $a+c$, $b+c$, i.e. $c$, $a+c$, $b+c$.
+Let the three numbers be $a\le{b}\le{c}$, where $c=a+b$ (one number is the sum of the other two). The pairwise sums are $a+b$, $a+c$, $b+c$, i.e. $c$, $a+c$, $b+c$.
 
-Since $c$ is the largest number, among $a+c$ and $b+c$ we have $b+c> a+c$. The largest of the three sums is $b+c=29$, the middle one is $a+c=17$, and the smallest one is $c=12$.
+Since $c$ is the largest number, among $a+c$ and $b+c$ we have $b+c>{}a+c$. The largest of the three sums is $b+c=29$, the middle one is $a+c=17$, and the smallest one is $c=12$.
 
-Then $c=12$, $a=17-12=5$, $b=29-12=17$. Verification gives $c=a+b=5+17=22\ne12$, a contradiction. Hence the largest number is not the $c$ in the form $c=a+b$; instead we set it differently: if $a$ were the largest number it would be impossible (since $a\le b\le c$). Re-setting the largest number to be $c$, then $c$ equals the sum of the other two, i.e. $c=a+b$; in this case the smallest sum is $a+b=c$, the middle one is $b+c$, and the largest one is $a+c$, which does not hold (since $a+c< b+c$).
+Then $c=12$, $a=17-12=5$, $b=29-12=17$. Verification gives $c=a+b=5+17=22\ne12$, a contradiction. Hence the largest number is not the $c$ in the form $c=a+b$; instead we set it differently: if $a$ were the largest number it would be impossible (since $a\le{b}\le{c}$). Re-setting the largest number to be $c$, then $c$ equals the sum of the other two, i.e. $c=a+b$; in this case the smallest sum is $a+b=c$, the middle one is $b+c$, and the largest one is $a+c$, which does not hold (since $a+c<{}b+c$).
 
-Comparing $a+c$ and $b+c$: from $a< b$ we get $a+c< b+c$. Hence the three sums, in order, are $c=a+b$, $a+c$, $b+c$, where the largest is $b+c=29$, the next is $a+c=17$, and the smallest is $c=12$. But $c=12$ and $c=a+b$, while $a=17-c=5$, $b=29-c=17$, and $a+b=22\ne c$.
+Comparing $a+c$ and $b+c$: from $a<{}b$ we get $a+c<{}b+c$. Hence the three sums, in order, are $c=a+b$, $a+c$, $b+c$, where the largest is $b+c=29$, the next is $a+c=17$, and the smallest is $c=12$. But $c=12$ and $c=a+b$, while $a=17-c=5$, $b=29-c=17$, and $a+b=22\ne{c}$.
 
-The contradiction shows that under the assumption "$c=a+b$" the smallest sum does not equal $c$. Actually the pairwise sums are $a+b=c$, $a+c$, $b+c$, with sizes $c< a+c< b+c$. By the statement, the largest sum $29$ is $b+c=29$, the next sum $17$ is $a+c=17$, and the smallest sum $12$ is $a+b=12$.
+The contradiction shows that under the assumption "$c=a+b$" the smallest sum does not equal $c$. Actually the pairwise sums are $a+b=c$, $a+c$, $b+c$, with sizes $c<{}a+c<{}b+c$. By the statement, the largest sum $29$ is $b+c=29$, the next sum $17$ is $a+c=17$, and the smallest sum $12$ is $a+b=12$.
 
 Solving simultaneously: $a+b=12$, $a+c=17$, $b+c=29$. Adding the three equations: $2\left(a+b+c\right)=58$, $a+b+c=29$. Hence $c=29-12=17$, $b=29-17=12$, $a=29-29=0$.
 
@@ -116,21 +116,21 @@ The three numbers are $0$, $12$, $17$, and the largest number is $17$. $\blacksq
 
 (Review Problems, Review and Consolidation, Problem 1) Solve the following inequalities:
 
-(1) $3\left(2x+7\right)> 23$;
+(1) $3\left(2x+7\right)>23$;
 
 (2) $12-4\left(3x-1\right)\le2\left(2x-16\right)$;
 
-(3) $\frac{x+3}{5}< \frac{2x-5}{3}-1$;
+(3) $\frac{x+3}{5}<\frac{2x-5}{3}-1$;
 
 (4) $\frac{2x-1}{3}-\frac{3x-1}{2}\ge\frac{5}{12}$.
 
 ### Solution to Review Problem 1
 
-(1) $6x+21> 23$, giving $x> \frac{1}{3}$.
+(1) $6x+21>23$, giving $x>\frac{1}{3}$.
 
 (2) $12-12x+4\le4x-32$, i.e. $48\le16x$, giving $x\ge3$.
 
-(3) Multiply by $15$: $3\left(x+3\right)< 5\left(2x-5\right)-15$, i.e. $3x+9< 10x-40$, giving $x> 7$.
+(3) Multiply by $15$: $3\left(x+3\right)<5\left(2x-5\right)-15$, i.e. $3x+9<10x-40$, giving $x>7$.
 
 (4) Multiply by $12$: $4\left(2x-1\right)-6\left(3x-1\right)\ge5$, i.e. $-10x+2\ge5$, giving $x\le-\frac{3}{10}$. $\blacksquare$
 
@@ -146,9 +146,9 @@ The three numbers are $0$, $12$, $17$, and the largest number is $17$. $\blacksq
 
 ### Solution to Review Problem 2
 
-(1) $15-7a> 1$, giving $a< 2$.
+(1) $15-7a>1$, giving $a<2$.
 
-(2) $15-7a< 1$, giving $a> 2$.
+(2) $15-7a<1$, giving $a>2$.
 
 (3) $15-7a=1$, giving $a=2$. $\blacksquare$
 
@@ -156,23 +156,23 @@ The three numbers are $0$, $12$, $17$, and the largest number is $17$. $\blacksq
 
 (Review Problems, Review and Consolidation, Problem 3) Solve the following systems of inequalities:
 
-(1) $\begin{cases}2x+1> -1,\\2x+1< 3;\end{cases}$
+(1) $\begin{cases}2x+1>-1,\\2x+1<3;\end{cases}$
 
-(2) $\begin{cases}-\left(x-1\right)> 3,\\2x+9> 3;\end{cases}$
+(2) $\begin{cases}-\left(x-1\right)>3,\\2x+9>3;\end{cases}$
 
-(3) $\begin{cases}3\left(x-1\right)+1> 5x-2\left(1-x\right),\\5-\left(2x-1\right)< -6x;\end{cases}$
+(3) $\begin{cases}3\left(x-1\right)+1>5x-2\left(1-x\right),\\5-\left(2x-1\right)<-6x;\end{cases}$
 
-(4) $\begin{cases}-3\left(x-2\right)\ge4-x,\\\frac{1+2x}{3}> x-1.\end{cases}$
+(4) $\begin{cases}-3\left(x-2\right)\ge4-x,\\\frac{1+2x}{3}>{}x-1.\end{cases}$
 
 ### Solution to Review Problem 3
 
-(1) $x> -1$ and $x< 1$, common part $-1< x< 1$.
+(1) $x>-1$ and $x<1$, common part $-1<{}x<1$.
 
-(2) First inequality: $-x+1> 3$, $x< -2$. Second inequality: $2x> -6$, $x> -3$. Common part $-3< x< -2$.
+(2) First inequality: $-x+1>3$, $x<-2$. Second inequality: $2x>-6$, $x>-3$. Common part $-3<{}x<-2$.
 
-(3) First inequality: $3x-2> 7x-2$, $x< 0$. Second inequality: $6-2x< -6x$, $x< -\frac{3}{2}$. Common part $x< -\frac{3}{2}$.
+(3) First inequality: $3x-2>7x-2$, $x<0$. Second inequality: $6-2x<-6x$, $x<-\frac{3}{2}$. Common part $x<-\frac{3}{2}$.
 
-(4) First inequality: $-3x+6\ge4-x$, $x\le1$. Second inequality: $1+2x> 3x-3$, $x< 4$. Common part $x\le1$. $\blacksquare$
+(4) First inequality: $-3x+6\ge4-x$, $x\le1$. Second inequality: $1+2x>3x-3$, $x<4$. Common part $x\le1$. $\blacksquare$
 
 ## Review Problem 4
 
@@ -180,11 +180,11 @@ The three numbers are $0$, $12$, $17$, and the largest number is $17$. $\blacksq
 
 ### Solution to Review Problem 4
 
-From $\frac{x+3}{5}> 2x+3$, we get $x+3> 10x+15$, i.e. $x< -\frac{4}{3}$.
+From $\frac{x+3}{5}>2x+3$, we get $x+3>10x+15$, i.e. $x<-\frac{4}{3}$.
 
-From $\frac{x+3}{5}> 1-x$, we get $x+3> 5-5x$, i.e. $x> \frac{1}{3}$.
+From $\frac{x+3}{5}>1-x$, we get $x+3>5-5x$, i.e. $x>\frac{1}{3}$.
 
-There is no common part between $x< -\frac{4}{3}$ and $x> \frac{1}{3}$, so it cannot be simultaneously greater than both. $\blacksquare$
+There is no common part between $x<-\frac{4}{3}$ and $x>\frac{1}{3}$, so it cannot be simultaneously greater than both. $\blacksquare$
 
 ## Review Problem 5
 
@@ -194,19 +194,19 @@ There is no common part between $x< -\frac{4}{3}$ and $x> \frac{1}{3}$, so it ca
 
 Taking the difference: $a-2a=-a$.
 
-When $a> 0$, $-a< 0$, so $a< 2a$; when $a=0$, $a=2a$; when $a< 0$, $-a> 0$, so $a> 2a$. $\blacksquare$
+When $a>0$, $-a<0$, so $a<2a$; when $a=0$, $a=2a$; when $a<0$, $-a>0$, so $a>2a$. $\blacksquare$
 
 ## Review Problem 6
 
-(Review Problems, Comprehensive Application, Problem 6) In a $5000\ \text{m}$ long-distance race, a student's best time is $16\ \text{min}\ 45\ \text{s}$. In this race he spent $10\ \text{min}\ 30\ \text{s}$ on the first $3000\ \text{m}$. At what average speed at least must he run the remaining $2000\ \text{m}$ to beat his best time?
+(Review Problems, Comprehensive Application, Problem 6) In a $5000\,\text{m}$ long-distance race, a student's best time is $16\,\text{min}\,45\,\text{s}$. In this race he spent $10\,\text{min}\,30\,\text{s}$ on the first $3000\,\text{m}$. At what average speed at least must he run the remaining $2000\,\text{m}$ to beat his best time?
 
 ### Solution to Review Problem 6
 
-The remaining time is at most $16.75-10.5=6.25\ \text{min}$. Let the average speed on the remaining $2000\ \text{m}$ be $v\ \text{m/min}$; then $\frac{2000}{v}\le6.25$, giving $v\ge320\ \text{m/min}$. Hence it must be at least $320\ \text{m/min}$. $\blacksquare$
+The remaining time is at most $16.75-10.5=6.25\,\text{min}$. Let the average speed on the remaining $2000\,\text{m}$ be $v\,\text{m/min}$; then $\frac{2000}{v}\le6.25$, giving $v\ge320\,\text{m/min}$. Hence it must be at least $320\,\text{m/min}$. $\blacksquare$
 
 ## Review Problem 7
 
-(Review Problems, Comprehensive Application, Problem 7) An elevator has a rated load of $1050\ \text{kg}$. Two passengers weigh $70\ \text{kg}$ and $75\ \text{kg}$ respectively, a trolley weighs $21\ \text{kg}$, and each box of tiles weighs $51\ \text{kg}$. At most how many boxes of tiles can be loaded in one trip?
+(Review Problems, Comprehensive Application, Problem 7) An elevator has a rated load of $1050\,\text{kg}$. Two passengers weigh $70\,\text{kg}$ and $75\,\text{kg}$ respectively, a trolley weighs $21\,\text{kg}$, and each box of tiles weighs $51\,\text{kg}$. At most how many boxes of tiles can be loaded in one trip?
 
 ### Solution to Review Problem 7
 
@@ -227,10 +227,10 @@ i.e. $166+51x\le1050$, $51x\le884$, giving $x\le17.3$. Hence at most $17$ boxes 
 Let $x$ be the number of $3$-point shots made; then the number of $2$-point shots is $\left(48-x\right)$. By the statement
 
 $$
-10+3x+2\left(48-x\right)> 110,
+10+3x+2\left(48-x\right)>110,
 $$
 
-i.e. $106+x> 110$, giving $x> 4$. Hence at least $5$ $3$-point shots were made. $\blacksquare$
+i.e. $106+x>110$, giving $x>4$. Hence at least $5$ $3$-point shots were made. $\blacksquare$
 
 ## Review Problem 9
 
@@ -241,10 +241,10 @@ i.e. $106+x> 110$, giving $x> 4$. Hence at least $5$ $3$-point shots were made. 
 Let $x$ be the number of type-A cars bought; then the number of type-B cars is $\left(20-x\right)$. The profit on each type-A car is $0.8$ ten-thousand yuan, and on each type-B car is $1.4$ ten-thousand yuan. By the statement
 
 $$
-0.8x+1.4\left(20-x\right)> 20.5,
+0.8x+1.4\left(20-x\right)>20.5,
 $$
 
-i.e. $28-0.6x> 20.5$, giving $x< 12.5$. Hence at most $12$ type-A cars were bought. $\blacksquare$
+i.e. $28-0.6x>20.5$, giving $x<12.5$. Hence at most $12$ type-A cars were bought. $\blacksquare$
 
 ## Review Problem 10
 
@@ -256,13 +256,13 @@ i.e. $28-0.6x> 20.5$, giving $x< 12.5$. Hence at most $12$ type-A cars were boug
 
 ### Solution to Review Problem 10
 
-(1) Stops once: $4x+1> 85$, giving $x> 21$.
+(1) Stops once: $4x+1>85$, giving $x>21$.
 
-(2) Stops twice: the first does not satisfy $4x+1\le85$, i.e. $x\le21$; the second $4\left(4x+1\right)+1> 85$, i.e. $16x+5> 85$, $x> 5$. Hence $5< x\le21$. $\blacksquare$
+(2) Stops twice: the first does not satisfy $4x+1\le85$, i.e. $x\le21$; the second $4\left(4x+1\right)+1>85$, i.e. $16x+5>85$, $x>5$. Hence $5<{}x\le21$. $\blacksquare$
 
 ## Review Problem 11
 
-(Review Problems, Extension and Exploration, Problem 11) Two people, A and B, each carry a bucket to draw water from the same tap; A needs $a\ \text{min}$ to draw water and B needs $b\ \text{min}$. How should the order of the two be arranged so that the total time spent by both (from the start until both have finished drawing water) is minimized?
+(Review Problems, Extension and Exploration, Problem 11) Two people, A and B, each carry a bucket to draw water from the same tap; A needs $a\,\text{min}$ to draw water and B needs $b\,\text{min}$. How should the order of the two be arranged so that the total time spent by both (from the start until both have finished drawing water) is minimized?
 
 ### Solution to Review Problem 11
 
@@ -270,7 +270,7 @@ If A draws first: the total time is $a+\left(a+b\right)=2a+b$.
 
 If B draws first: the total time is $b+\left(a+b\right)=a+2b$.
 
-The difference between the two is $\left(2a+b\right)-\left(a+2b\right)=a-b$. When $a< b$, A drawing first gives less total time; when $a> b$, B drawing first gives less total time. Hence the person with the shorter drawing time should go first. $\blacksquare$
+The difference between the two is $\left(2a+b\right)-\left(a+2b\right)=a-b$. When $a<{}b$, A drawing first gives less total time; when $a>{}b$, B drawing first gives less total time. Hence the person with the shorter drawing time should go first. $\blacksquare$
 
 ## Exercise 1
 
@@ -278,7 +278,7 @@ The difference between the two is $\left(2a+b\right)-\left(a+2b\right)=a-b$. Whe
 
 (1) "Do you think you get enough sleep every day?"
 
-(2) "Do you think the ambient noise at school is below $55\ \text{dB}$?"
+(2) "Do you think the ambient noise at school is below $55\,\text{dB}$?"
 
 (3) "Most students think the school should lay a plastic running track; do you agree?"
 
@@ -286,7 +286,7 @@ The difference between the two is $\left(2a+b\right)-\left(a+2b\right)=a-b$. Whe
 
 (1) Not appropriate. "Enough" has no clear standard, respondents interpret it differently, and it is hard to obtain objective data.
 
-(2) Not appropriate. The question gives the specific hint $55\ \text{dB}$, which easily leads the respondents; it should be replaced by objective measurement or a neutral question.
+(2) Not appropriate. The question gives the specific hint $55\,\text{dB}$, which easily leads the respondents; it should be replaced by objective measurement or a neutral question.
 
 (3) Not appropriate. The statement first asserts "most students think", which induces the respondents; it is a leading question. $\blacksquare$
 
@@ -424,13 +424,13 @@ From the sample, size M accounts for $\frac{16}{40}=40\%$, the most, and size L 
 
 ## Problem 7
 
-(Exercise 12.1, Comprehensive Application, Problem 7) Group the numbers of national-level nature reserves in China's various regions in 2021 into $x< 5$, $5\le x< 10$, $10\le x< 15$, $15\le x< 20$, $20\le x< 25$, $25\le x< 30$, $30\le x< 35$, $45\le x< 50$, and count the number of regions in each data segment.
+(Exercise 12.1, Comprehensive Application, Problem 7) Group the numbers of national-level nature reserves in China's various regions in 2021 into $x<5$, $5\le{x}<10$, $10\le{x}<15$, $15\le{x}<20$, $20\le{x}<25$, $25\le{x}<30$, $30\le{x}<35$, $45\le{x}<50$, and count the number of regions in each data segment.
 
 ### Solution to Problem 7
 
 From the given data (Beijing 2, Tianjin 3, Hebei 14, Shanxi 8, Inner Mongolia 29, Liaoning 19, Jilin 24, Heilongjiang 49, Shanghai 11, Jiangsu 17, Zhejiang 16, Anhui 7, Fujian 13, Hubei 22, Hunan 23, Guangdong 15, Guangxi 10, Hainan 32, Chongqing 26, Sichuan 21, Guizhou 9, Yunnan 21, Tibet 26, Shaanxi 9, Gansu ..., Qinghai ..., Ningxia ..., Xinjiang ...):
 
-$x< 5$: Beijing, Tianjin, totaling $2$ regions; $5\le x< 10$: Shanxi, Anhui, Guizhou, Shaanxi, etc.; the remaining intervals are counted according to where the data fall. Overall, more regions have $10\sim 25$ nature reserves, and Inner Mongolia and Heilongjiang have the largest numbers. $\blacksquare$
+$x<5$: Beijing, Tianjin, totaling $2$ regions; $5\le{x}<10$: Shanxi, Anhui, Guizhou, Shaanxi, etc.; the remaining intervals are counted according to where the data fall. Overall, more regions have $10\sim25$ nature reserves, and Inner Mongolia and Heilongjiang have the largest numbers. $\blacksquare$
 
 ## Problem 8
 
@@ -516,13 +516,13 @@ By **Definition 12.2.3 (Line Chart)**, draw a composite line chart as shown. Exc
 
 ## Exercise 12
 
-(Exercise 12.2, Problem 5) The heights (cm) of 63 seventh-grade students: maximum $172$, minimum $149$, range $23$. Take a class width of $3$ and divide into $8$ groups: $149\le x< 152$, $152\le x< 155$, $\ldots$, $170\le x< 173$. The frequencies of the groups are $2,6,12,19,10,8,4,2$. Draw a frequency distribution histogram and state from which range to select the honor guard members.
+(Exercise 12.2, Problem 5) The heights (cm) of 63 seventh-grade students: maximum $172$, minimum $149$, range $23$. Take a class width of $3$ and divide into $8$ groups: $149\le{x}<152$, $152\le{x}<155$, $\ldots$, $170\le{x}<173$. The frequencies of the groups are $2,6,12,19,10,8,4,2$. Draw a frequency distribution histogram and state from which range to select the honor guard members.
 
-The figure is a frequency distribution histogram with height groups ($149\le x< 152$ through $170\le x< 173$, class width $3\,\text{cm}$) on the horizontal axis and frequency on the vertical axis; the group frequencies are respectively $2, 6, 12, 19, 10, 8, 4, 2$.
+The figure is a frequency distribution histogram with height groups ($149\le{x}<152$ through $170\le{x}<173$, class width $3\,\text{cm}$) on the horizontal axis and frequency on the vertical axis; the group frequencies are respectively $2,6,12,19,10,8,4,2$.
 
 ### Solution to Exercise 12
 
-By **Definition 12.2.6 (Frequency Distribution Histogram)**, the histogram is as shown. The three groups $155\le x< 158$, $158\le x< 161$, $161\le x< 164$ have the most students, totaling $12+19+10=41$. Hence $40$ honor guard members may be selected from the height range $155\ \text{cm}$ to $164\ \text{cm}$ (excluding $164$). $\blacksquare$
+By **Definition 12.2.6 (Frequency Distribution Histogram)**, the histogram is as shown. The three groups $155\le{x}<158$, $158\le{x}<161$, $161\le{x}<164$ have the most students, totaling $12+19+10=41$. Hence $40$ honor guard members may be selected from the height range $155\,\text{cm}$ to $164\,\text{cm}$ (excluding $164$). $\blacksquare$
 
 ## Exercise 13
 
@@ -536,11 +536,11 @@ By **Definition 12.2.7 (Trend Chart)**, plot the scatter points and draw the tre
 
 ## Exercise 14
 
-(Exercise 12.2, Problem 7) The heights (cm) of 8 boys and their fathers: fathers $165,168,172,174,177,177,180,183$; sons $168,169,174,177,176,178,181,182$. Use a trend chart to describe the relationship between the son's height and the father's height, and estimate the son's height when the father is $175\ \text{cm}$ tall.
+(Exercise 12.2, Problem 7) The heights (cm) of 8 boys and their fathers: fathers $165,168,172,174,177,177,180,183$; sons $168,169,174,177,176,178,181,182$. Use a trend chart to describe the relationship between the son's height and the father's height, and estimate the son's height when the father is $175\,\text{cm}$ tall.
 
 ### Solution to Exercise 14
 
-Take the father's height as the horizontal axis and the son's height as the vertical axis, plot the scatter points and draw the trend line. The points lie roughly near an upward-sloping line, indicating that the taller the father, the taller the son. From the trend line, when the father is $175\ \text{cm}$ tall, the son is about $176\ \text{cm}$ tall. $\blacksquare$
+Take the father's height as the horizontal axis and the son's height as the vertical axis, plot the scatter points and draw the trend line. The points lie roughly near an upward-sloping line, indicating that the taller the father, the taller the son. From the trend line, when the father is $175\,\text{cm}$ tall, the son is about $176\,\text{cm}$ tall. $\blacksquare$
 
 ## Problem 9
 

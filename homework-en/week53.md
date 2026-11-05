@@ -18,7 +18,7 @@
 
 > **Definition 24.1.2 (Weighted Average)**
 > 
-> If the weights of the $n$ numbers $x_1, x_2, \ldots, x_n$ are $w_1, w_2, \ldots, w_n$ respectively, then $\overline{x}=\frac{x_1w_1+x_2w_2+\cdots+x_nw_n}{w_1+w_2+\cdots+w_n}$ is called the weighted average of these $n$ numbers.
+> If the weights of the $n$ numbers $x_1,x_2,\ldots,x_n$ are $w_1,w_2,\ldots,w_n$ respectively, then $\overline{x}=\frac{x_1w_1+x_2w_2+\cdots+x_nw_n}{w_1+w_2+\cdots+w_n}$ is called the weighted average of these $n$ numbers.
 
 > **Definition 24.1.3 (Median)**
 > 
@@ -30,7 +30,7 @@
 
 > **Definition 24.2.1 (Deviation)**
 > 
-> For $n$ data $x_1, x_2, \ldots, x_n$, let $\overline{x}$ denote their mean; then $x_i-\overline{x}$ is called the deviation of $x_i$ from the mean $\overline{x}$.
+> For $n$ data $x_1,x_2,\ldots,x_n$, let $\overline{x}$ denote their mean; then $x_i-\overline{x}$ is called the deviation of $x_i$ from the mean $\overline{x}$.
 
 > **Definition 24.2.2 (Sum of Squared Deviations)**
 > 
@@ -70,7 +70,7 @@ Staff notation records pitch: the staff consists of five parallel horizontal lin
 
 Staff notation records duration: the shape of the note head, the flag, and the different note types (whole note, half note, quarter note, eighth note, etc.) indicate the length of the note's time value. On the staff, notes are arranged from left to right, and the horizontal position corresponds to the order in time. This is like the x-coordinate — the horizontal position and spacing determine the time.
 
-Similarity: the vertical position (line/space) on the staff is like the y-coordinate, recording pitch; the horizontal position and note duration are like the x-coordinate, recording time. The position $\left(x, y\right)$ of each note on the staff is like a point $\left(x, y\right)$ in a rectangular coordinate system — the x-coordinate is time and the y-coordinate is pitch. $\blacksquare$
+Similarity: the vertical position (line/space) on the staff is like the y-coordinate, recording pitch; the horizontal position and note duration are like the x-coordinate, recording time. The position $\left(x,y\right)$ of each note on the staff is like a point $\left(x,y\right)$ in a rectangular coordinate system — the x-coordinate is time and the y-coordinate is pitch. $\blacksquare$
 
 (Comprehensive and Practical Activity, Activity 2, Task 2) Can a function be used to describe the melody of a piece? Taking a passage from "Defend the Yellow River" (lyrics by Guang Weiran, music by Xian Xinghai) as an example, consider the staff above: during the time span represented by the score, what is the relationship between the pitch and the duration of the notes? Can you plot this passage in a rectangular coordinate system?
 
@@ -115,7 +115,7 @@ By **Definition 24.1.4 (Mode)**, $10$ appears $2$ times, the most often, so the 
 By **Definition 24.1.2 (Weighted Average)**,
 
 $$
-\overline{x} = \frac{100\times1+80\times3+50\times7+30\times4}{1+3+7+4} = \frac{100+240+350+120}{15} = \frac{810}{15} = 54.
+\overline{x}=\frac{100\times1+80\times3+50\times7+30\times4}{1+3+7+4}=\frac{100+240+350+120}{15}=\frac{810}{15}=54.
 $$
 
 Hence the average annual profit per person in this company is $54$ (in 10,000 yuan). $\blacksquare$
@@ -139,10 +139,10 @@ The median is the number in the middle position after the data are arranged by s
 By **Definition 24.1.1 (Arithmetic Mean)**,
 
 $$
-\overline{x} = \frac{22.36+22.35+22.33+22.35+22.37+22.34+22.38+22.36+22.32+22.35}{10} = \frac{223.51}{10} = 22.351.
+\overline{x}=\frac{22.36+22.35+22.33+22.35+22.37+22.34+22.38+22.36+22.32+22.35}{10}=\frac{223.51}{10}=22.351.
 $$
 
-Hence the estimated average length of this batch is $22.351\ \text{mm}$. $\blacksquare$
+Hence the estimated average length of this batch is $22.351\,\text{mm}$. $\blacksquare$
 
 ## Problem 2
 
@@ -153,7 +153,7 @@ Hence the estimated average length of this batch is $22.351\ \text{mm}$. $\black
 By **Definition 24.1.2 (Weighted Average)**,
 
 $$
-\overline{x} = \frac{1.45\times1+1.50\times2+1.60\times4+1.65\times3+1.70\times3+1.75\times2}{15} = \frac{24.5}{15} \approx 1.63.
+\overline{x}=\frac{1.45\times1+1.50\times2+1.60\times4+1.65\times3+1.70\times3+1.75\times2}{15}=\frac{24.5}{15}\approx1.63.
 $$
 
 By **Definition 24.1.3 (Median)**, there are $15$ data (odd), so the median is the $8$th. Cumulative counts: $1$, $3$, $7$, $10$; the $8$th falls in the $1.65$ group, so the median is $1.65$.
@@ -180,17 +180,17 @@ By **Definition 24.1.4 (Mode)**, $1.60$ appears $4$ times, the most, so the mode
 
 ## Problem 4
 
-(Exercise 24.1, Comprehensive Application, Problem 4) The populations and per-capita arable land area of three towns in a county are as follows. Town $A$, population $15$ (in 10,000), per-capita arable land $0.15\ \text{hm}^2$; Town $B$, population $7$ (in 10,000), per-capita arable land $0.21\ \text{hm}^2$; Town $C$, population $10$ (in 10,000), per-capita arable land $0.18\ \text{hm}^2$. Find the per-capita arable land area of these three towns (rounded to two decimal places).
+(Exercise 24.1, Comprehensive Application, Problem 4) The populations and per-capita arable land area of three towns in a county are as follows. Town $A$, population $15$ (in 10,000), per-capita arable land $0.15\,\text{hm}^2$; Town $B$, population $7$ (in 10,000), per-capita arable land $0.21\,\text{hm}^2$; Town $C$, population $10$ (in 10,000), per-capita arable land $0.18\,\text{hm}^2$. Find the per-capita arable land area of these three towns (rounded to two decimal places).
 
 ### Solution to Problem 4
 
 By **Definition 24.1.2 (Weighted Average)**,
 
 $$
-\overline{x} = \frac{0.15\times15+0.21\times7+0.18\times10}{15+7+10} = \frac{2.25+1.47+1.8}{32} = \frac{5.52}{32} = 0.1725 \approx 0.17.
+\overline{x}=\frac{0.15\times15+0.21\times7+0.18\times10}{15+7+10}=\frac{2.25+1.47+1.8}{32}=\frac{5.52}{32}=0.1725\approx0.17.
 $$
 
-Hence the per-capita arable land area of the three towns is about $0.17\ \text{hm}^2$. $\blacksquare$
+Hence the per-capita arable land area of the three towns is about $0.17\,\text{hm}^2$. $\blacksquare$
 
 ## Problem 5
 
@@ -236,7 +236,7 @@ B's mean: $\overline{x}_乙=\frac{7+8+8+7+9+8+7+8+8+7}{10}=7.7$.
 
 B's variance: $s^2_乙=\frac{\left(7-7.7\right)^2+\left(8-7.7\right)^2+\cdots+\left(7-7.7\right)^2}{10}=\frac{0.49+0.09+0.09+0.49+1.69+0.09+0.49+0.09+0.09+0.49}{10}=\frac{3.7}{10}=0.37$.
 
-By **Definition 24.2.3 (Variance)**, $s^2_甲 > s^2_乙$; B's variance is smaller, so B's shooting is more consistent. $\blacksquare$
+By **Definition 24.2.3 (Variance)**, $s^2_甲>{}s^2_乙$; B's variance is smaller, so B's shooting is more consistent. $\blacksquare$
 
 ## Exercise 5
 
@@ -256,7 +256,7 @@ B's mean: $\overline{x}_乙=\frac{2+3+1+1+0+2+1+1+0+1}{10}=1.2$.
 
 B's variance: $s^2_乙=\frac{\left(2-1.2\right)^2+\left(3-1.2\right)^2+\left(1-1.2\right)^2+\cdots}{10}=\frac{0.64+3.24+0.04+0.04+1.44+0.64+0.04+0.04+1.44+0.04}{10}=\frac{7.6}{10}=0.76$.
 
-(2) By **Definition 24.2.3 (Variance)**, A and B have the same mean, but $s^2_甲 > s^2_乙$; B's variance is smaller, so machine B performs better. $\blacksquare$
+(2) By **Definition 24.2.3 (Variance)**, A and B have the same mean, but $s^2_甲>{}s^2_乙$; B's variance is smaller, so machine B performs better. $\blacksquare$
 
 ## Problem 6
 
@@ -276,7 +276,7 @@ B's mean: $\overline{x}_乙=\frac{505+507+505+498+505+506+505+505+506+506}{10}=5
 
 B's variance: $s^2_乙=\frac{\left(505-504.8\right)^2+\cdots+\left(506-504.8\right)^2}{10}\approx5.36$.
 
-(2) By **Definition 24.2.3 (Variance)**, $s^2_甲 > s^2_乙$; B's variance is smaller, so machine B packages more consistently. $\blacksquare$
+(2) By **Definition 24.2.3 (Variance)**, $s^2_甲>{}s^2_乙$; B's variance is smaller, so machine B packages more consistently. $\blacksquare$
 
 ## Problem 7
 
@@ -296,7 +296,7 @@ B's average seedling height: $\overline{x}_乙=\frac{11+16+17+14+13+19+6+8+10+16
 
 B's variance: $s^2_乙=\frac{\left(11-13\right)^2+\left(16-13\right)^2+\cdots+\left(16-13\right)^2}{10}=15.8$.
 
-By **Definition 24.2.3 (Variance)**, $s^2_甲 < s^2_乙$; A's variance is smaller, so variety A grows more uniformly. $\blacksquare$
+By **Definition 24.2.3 (Variance)**, $s^2_甲<{}s^2_乙$; A's variance is smaller, so variety A grows more uniformly. $\blacksquare$
 
 ## Exercise 6
 
@@ -368,15 +368,15 @@ Arrange the data in ascending order: $788$, $812$, $847$, $886$, $910$.
 
 There are $4$ ways to split (separating at the $4$ gaps).
 
-Gap $1$: $\left\{788\right\}$ and $\left\{812, 847, 886, 910\right\}$, within-group sum of squared deviations $=0+8220.75=8220.75$.
+Gap $1$: $\left\{788\right\}$ and $\left\{812,847,886,910\right\}$, within-group sum of squared deviations $=0+8220.75=8220.75$.
 
-Gap $2$: $\left\{788, 812\right\}$ and $\left\{847, 886, 910\right\}$, within-group sum of squared deviations $=288+2058.67=2346.67$.
+Gap $2$: $\left\{788,812\right\}$ and $\left\{847,886,910\right\}$, within-group sum of squared deviations $=288+2058.67=2346.67$.
 
-Gap $3$: $\left\{788, 812, 847\right\}$ and $\left\{886, 910\right\}$, within-group sum of squared deviations $=1896.67+288=2184.67$.
+Gap $3$: $\left\{788,812,847\right\}$ and $\left\{886,910\right\}$, within-group sum of squared deviations $=1896.67+288=2184.67$.
 
-Gap $4$: $\left\{788, 812, 847, 886\right\}$ and $\left\{910\right\}$, within-group sum of squared deviations $=7798.75+0=7798.75$.
+Gap $4$: $\left\{788,812,847,886\right\}$ and $\left\{910\right\}$, within-group sum of squared deviations $=7798.75+0=7798.75$.
 
-By Grouping Principle, gap $3$ has the smallest within-group sum of squared deviations. Hence split into $\left\{788, 812, 847\right\}$ and $\left\{886, 910\right\}$, i.e. $\left\{E, D, C\right\}$ and $\left\{B, A\right\}$. $\blacksquare$
+By Grouping Principle, gap $3$ has the smallest within-group sum of squared deviations. Hence split into $\left\{788,812,847\right\}$ and $\left\{886,910\right\}$, i.e. $\left\{E,D,C\right\}$ and $\left\{B,A\right\}$. $\blacksquare$
 
 ## Problem 10
 
@@ -388,12 +388,12 @@ Arrange the data in ascending order: $7$, $9$, $12$, $13$, $15$.
 
 There are $4$ ways to split.
 
-Gap $1$: $\left\{7\right\}$ and $\left\{9, 12, 13, 15\right\}$, within-group sum of squared deviations $=0+21.5=21.5$.
+Gap $1$: $\left\{7\right\}$ and $\left\{9,12,13,15\right\}$, within-group sum of squared deviations $=0+21.5=21.5$.
 
-Gap $2$: $\left\{7, 9\right\}$ and $\left\{12, 13, 15\right\}$, within-group sum of squared deviations $=2+6.67=8.67$.
+Gap $2$: $\left\{7,9\right\}$ and $\left\{12,13,15\right\}$, within-group sum of squared deviations $=2+6.67=8.67$.
 
-Gap $3$: $\left\{7, 9, 12\right\}$ and $\left\{13, 15\right\}$, within-group sum of squared deviations $=18.67+2=20.67$.
+Gap $3$: $\left\{7,9,12\right\}$ and $\left\{13,15\right\}$, within-group sum of squared deviations $=18.67+2=20.67$.
 
-Gap $4$: $\left\{7, 9, 12, 13\right\}$ and $\left\{15\right\}$, within-group sum of squared deviations $=24.75+0=24.75$.
+Gap $4$: $\left\{7,9,12,13\right\}$ and $\left\{15\right\}$, within-group sum of squared deviations $=24.75+0=24.75$.
 
-By Grouping Principle, gap $2$ has the smallest within-group sum of squared deviations. Hence split into $\left\{7, 9\right\}$ and $\left\{12, 13, 15\right\}$. $\blacksquare$
+By Grouping Principle, gap $2$ has the smallest within-group sum of squared deviations. Hence split into $\left\{7,9\right\}$ and $\left\{12,13,15\right\}$. $\blacksquare$

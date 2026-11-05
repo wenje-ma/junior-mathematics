@@ -2,7 +2,7 @@
 
 > **Definition 16.1.1 (Multiplication of Powers with the Same Base)**
 > 
-> In general, for any base $a$ and any positive integers $m,n$, $a^m\cdot a^n=a^{m+n}$; that is, when multiplying powers with the same base, the base is unchanged and the exponents are added. This property also holds when three or more powers with the same base are multiplied.
+> In general, for any base $a$ and any positive integers $m,n$, $a^m\cdot{a}^n=a^{m+n}$; that is, when multiplying powers with the same base, the base is unchanged and the exponents are added. This property also holds when three or more powers with the same base are multiplied.
 
 > **Definition 16.1.2 (Power of a Power)**
 > 
@@ -10,11 +10,11 @@
 
 > **Definition 16.1.3 (Power of a Product)**
 > 
-> In general, for any bases $a,b$ and any positive integer $n$, $\left(ab\right)^n=a^n b^n$; that is, the power of a product equals taking the power of each factor of the product separately and then multiplying the resulting powers. This property also holds for the power of a product of three or more factors.
+> In general, for any bases $a,b$ and any positive integer $n$, $\left(ab\right)^n=a^nb^n$; that is, the power of a product equals taking the power of each factor of the product separately and then multiplying the resulting powers. This property also holds for the power of a product of three or more factors.
 
 > **Definition 16.2.4 (Division of Powers with the Same Base)**
 > 
-> $a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ are both positive integers, $m> n$); that is, when dividing powers with the same base, the base is unchanged and the exponents are subtracted.
+> $a^m\div{a}^n=a^{m-n}$ ($a\ne0$, $m,n$ are both positive integers, $m>{}n$); that is, when dividing powers with the same base, the base is unchanged and the exponents are subtracted.
 
 > **Definition 16.3.1 (Difference of Squares Formula)**
 > 
@@ -76,9 +76,9 @@ Let the original price be $1$; the final price under each scheme:
 
 Compare the difference between $P_3$ and $P_1$:
 
-$$P_3-P_1=\left[\frac{\left(p+q\right)^2}{4}-pq\right]\%^2=\frac{\left(p-q\right)^2}{4}\%^2> 0.$$
+$$P_3-P_1=\left[\frac{\left(p+q\right)^2}{4}-pq\right]\%^2=\frac{\left(p-q\right)^2}{4}\%^2>0.$$
 
-Since $p\ne q$, we have $P_3> P_1=P_2$, so scheme (3) gives the largest price increase. $\blacksquare$
+Since $p\ne{q}$, we have $P_3>{}P_1=P_2$, so scheme (3) gives the largest price increase. $\blacksquare$
 
 ## Exercise 1
 
@@ -148,9 +148,9 @@ By **Definition 17.1.3 (Method of Extracting the Common Factor)**.
 
 (Exercise 17.1, Problem 1) Factor:
 
-(1) $8m^2 n+2mn$;
+(1) $8m^2n+2mn$;
 
-(2) $4a^2 b+10ab-ab^2$;
+(2) $4a^2b+10ab-ab^2$;
 
 (3) $p\left(a^2+b^2\right)-q\left(a^2+b^2\right)$;
 
@@ -160,9 +160,9 @@ By **Definition 17.1.3 (Method of Extracting the Common Factor)**.
 
 By **Definition 17.1.3 (Method of Extracting the Common Factor)**.
 
-(1) $8m^2 n+2mn=2mn\left(4m+1\right)$.
+(1) $8m^2n+2mn=2mn\left(4m+1\right)$.
 
-(2) $4a^2 b+10ab-ab^2=ab\left(4a+10-b\right)$.
+(2) $4a^2b+10ab-ab^2=ab\left(4a+10-b\right)$.
 
 (3) $p\left(a^2+b^2\right)-q\left(a^2+b^2\right)=\left(a^2+b^2\right)\left(p-q\right)$.
 
@@ -188,7 +188,7 @@ Substituting $a=-5,x=3$, we get $\left(3+7\right)\left(4\times25-3\right)=10\tim
 
 (3) $x\left(x-y\right)-y\left(x-y\right)=\left(x-y\right)^2$;
 
-(4) $a^2 b-3ab^2+ab=ab\left(a-3b+1\right)$.
+(4) $a^2b-3ab^2+ab=ab\left(a-3b+1\right)$.
 
 ### Solution to Problem 1
 
@@ -210,7 +210,7 @@ By **Definition 17.1.1 (Factoring)**.
 
 (2) $-2x+3x^2$;
 
-(3) $a^2 b+5ab-b$;
+(3) $a^2b+5ab-b$;
 
 (4) $2mn-n^2+8n$.
 
@@ -222,7 +222,7 @@ By **Definition 17.1.3 (Method of Extracting the Common Factor)**.
 
 (2) $-2x+3x^2=x\left(3x-2\right)$.
 
-(3) $a^2 b+5ab-b=b\left(a^2+5a-1\right)$.
+(3) $a^2b+5ab-b=b\left(a^2+5a-1\right)$.
 
 (4) $2mn-n^2+8n=n\left(2m-n+8\right)$. $\blacksquare$
 
@@ -246,13 +246,13 @@ By **Definition 17.1.3 (Method of Extracting the Common Factor)**.
 
 (1) $2mn^2+mn$;
 
-(2) $6xy^2-8x^2 y^3$;
+(2) $6xy^2-8x^2y^3$;
 
-(3) $6a^2 b+9ab^2-15ab$;
+(3) $6a^2b+9ab^2-15ab$;
 
-(4) $3m^2 n-3mn+6n$;
+(4) $3m^2n-3mn+6n$;
 
-(5) $4x^2 y^3+8x^3 y^2+12x^4 y$;
+(5) $4x^2y^3+8x^3y^2+12x^4y$;
 
 (6) $2m\left(x-y\right)-3n\left(x-y\right)$;
 
@@ -266,13 +266,13 @@ By **Definition 17.1.3 (Method of Extracting the Common Factor)**.
 
 (1) $2mn^2+mn=mn\left(2n+1\right)$.
 
-(2) $6xy^2-8x^2 y^3=2xy^2\left(3-4xy\right)$.
+(2) $6xy^2-8x^2y^3=2xy^2\left(3-4xy\right)$.
 
-(3) $6a^2 b+9ab^2-15ab=3ab\left(2a+3b-5\right)$.
+(3) $6a^2b+9ab^2-15ab=3ab\left(2a+3b-5\right)$.
 
-(4) $3m^2 n-3mn+6n=3n\left(m^2-m+2\right)$.
+(4) $3m^2n-3mn+6n=3n\left(m^2-m+2\right)$.
 
-(5) $4x^2 y^3+8x^3 y^2+12x^4 y=4x^2 y\left(y^2+2xy+3x^2\right)$.
+(5) $4x^2y^3+8x^3y^2+12x^4y=4x^2y\left(y^2+2xy+3x^2\right)$.
 
 (6) $2m\left(x-y\right)-3n\left(x-y\right)=\left(x-y\right)\left(2m-3n\right)$.
 
@@ -296,11 +296,11 @@ By **Definition 17.1.3 (Method of Extracting the Common Factor)**.
 
 ## Problem 6
 
-(Exercise 17.1, Comprehensive Application, Problem 6) Given $ab=2$, $a-4b=-5$, find the value of $a^2 b-4ab^2+ab$.
+(Exercise 17.1, Comprehensive Application, Problem 6) Given $ab=2$, $a-4b=-5$, find the value of $a^2b-4ab^2+ab$.
 
 ### Solution to Problem 6
 
-$$a^2 b-4ab^2+ab=ab\left(a-4b+1\right).$$
+$$a^2b-4ab^2+ab=ab\left(a-4b+1\right).$$
 
 Substituting $ab=2$, $a-4b=-5$, we get $2\left(-5+1\right)=-8$. $\blacksquare$
 
@@ -384,7 +384,7 @@ By **Definition 17.2.1 (Method Using the Difference of Squares Formula)**.
 
 (2) $49n^2-1=\left(7n+1\right)\left(7n-1\right)$.
 
-(3) $a^2-\frac{1}{25}b^2=\left(a+\frac15 b\right)\left(a-\frac15 b\right)$.
+(3) $a^2-\frac{1}{25}b^2=\left(a+\frac15b\right)\left(a-\frac15b\right)$.
 
 (4) $81a^2-16b^4=\left(9a+4b^2\right)\left(9a-4b^2\right)$.
 
@@ -408,7 +408,7 @@ By **Definition 17.2.1 (Method Using the Difference of Squares Formula)**.
 
 By **Definition 17.2.2 (Perfect Square Trinomial)**, a perfect square trinomial must be the sum of two squares plus or minus $2$ times their product.
 
-(1) Yes; $a^2-2\cdot a\cdot2+2^2=\left(a-2\right)^2$.
+(1) Yes; $a^2-2\cdot{a}\cdot2+2^2=\left(a-2\right)^2$.
 
 (2) No; the middle term equal to $2$ times the product is missing.
 
@@ -452,11 +452,11 @@ By **Definition 17.2.3 (Method Using the Perfect Square Formula)**.
 
 (Exercise 17.2, Problem 1) Factor:
 
-(1) $x^2 y-4y$;
+(1) $x^2y-4y$;
 
 (2) $a^3-2a^2+a$;
 
-(3) $ax^2+2a^2 x+a^3$;
+(3) $ax^2+2a^2x+a^3$;
 
 (4) $-a^4+16$;
 
@@ -468,11 +468,11 @@ By **Definition 17.2.3 (Method Using the Perfect Square Formula)**.
 
 First extract the common factor, then use the formula; factor until no further factorization is possible.
 
-(1) $x^2 y-4y=y\left(x^2-4\right)=y\left(x+2\right)\left(x-2\right)$.
+(1) $x^2y-4y=y\left(x^2-4\right)=y\left(x+2\right)\left(x-2\right)$.
 
 (2) $a^3-2a^2+a=a\left(a^2-2a+1\right)=a\left(a-1\right)^2$.
 
-(3) $ax^2+2a^2 x+a^3=a\left(x^2+2ax+a^2\right)=a\left(x+a\right)^2$.
+(3) $ax^2+2a^2x+a^3=a\left(x^2+2ax+a^2\right)=a\left(x+a\right)^2$.
 
 (4) $-a^4+16=16-a^4=\left(4+a^2\right)\left(4-a^2\right)=\left(4+a^2\right)\left(2+a\right)\left(2-a\right)$.
 
@@ -516,7 +516,7 @@ By **Definition 17.2.1 (Method Using the Difference of Squares Formula)**.
 
 (3) $m^2-\frac{1}{36}=\left(m+\frac16\right)\left(m-\frac16\right)$.
 
-(4) $\frac{25}{9}y^2-\frac{1}{49}z^2=\left(\frac53 y+\frac17 z\right)\left(\frac53 y-\frac17 z\right)$. $\blacksquare$
+(4) $\frac{25}{9}y^2-\frac{1}{49}z^2=\left(\frac53y+\frac17z\right)\left(\frac53y-\frac17z\right)$. $\blacksquare$
 
 ## Problem 10
 
@@ -582,11 +582,11 @@ Comprehensively use the method of extracting the common factor and the method of
 
 ## Problem 13
 
-(Exercise 17.2, Comprehensive Application, Problem 5) Given $xy=4$, $x+y=5$, find $x^3 y+2x^2 y^2+xy^3$.
+(Exercise 17.2, Comprehensive Application, Problem 5) Given $xy=4$, $x+y=5$, find $x^3y+2x^2y^2+xy^3$.
 
 ### Solution to Problem 13
 
-$$x^3 y+2x^2 y^2+xy^3=xy\left(x^2+2xy+y^2\right)=xy\left(x+y\right)^2.$$
+$$x^3y+2x^2y^2+xy^3=xy\left(x^2+2xy+y^2\right)=xy\left(x+y\right)^2.$$
 
 Substituting $xy=4$, $x+y=5$, we get $4\times25=100$. $\blacksquare$
 
@@ -594,13 +594,13 @@ Substituting $xy=4$, $x+y=5$, we get $4\times25=100$. $\blacksquare$
 
 (Exercise 17.2, Comprehensive Application, Problem 6) Factor:
 
-(1) $\left(2ab+1\right)^2-a^4 b^4$;
+(1) $\left(2ab+1\right)^2-a^4b^4$;
 
 (2) $\left(p+q\right)^2-6\left(p^2-q^2\right)+9\left(p-q\right)^2$.
 
 ### Solution to Problem 14
 
-(1) $\left(2ab+1\right)^2-\left(a^2 b^2\right)^2=\left[\left(2ab+1\right)+a^2 b^2\right]\left[\left(2ab+1\right)-a^2 b^2\right]=\left(ab+1\right)^2\left[-\left(ab-1\right)^2+2\right]$. Note that $2ab+1-a^2 b^2=1+2ab-a^2 b^2$; over the real numbers it suffices to keep the original expression, so the result is $\left(2ab+1+a^2 b^2\right)\left(2ab+1-a^2 b^2\right)=\left(ab+1\right)^2\left(2ab+1-a^2 b^2\right)$.
+(1) $\left(2ab+1\right)^2-\left(a^2b^2\right)^2=\left[\left(2ab+1\right)+a^2b^2\right]\left[\left(2ab+1\right)-a^2b^2\right]=\left(ab+1\right)^2\left[-\left(ab-1\right)^2+2\right]$. Note that $2ab+1-a^2b^2=1+2ab-a^2b^2$; over the real numbers it suffices to keep the original expression, so the result is $\left(2ab+1+a^2b^2\right)\left(2ab+1-a^2b^2\right)=\left(ab+1\right)^2\left(2ab+1-a^2b^2\right)$.
 
 (2) Note that $p^2-q^2=\left(p+q\right)\left(p-q\right)$; let $A=p+q$, $B=p-q$; the original expression $=A^2-6AB+9B^2=\left(A-3B\right)^2=\left[\left(p+q\right)-3\left(p-q\right)\right]^2=\left(-2p+4q\right)^2=4\left(2q-p\right)^2$. $\blacksquare$
 

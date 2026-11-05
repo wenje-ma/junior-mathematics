@@ -10,7 +10,7 @@
 
 > **Definition 3.1.3 (Quantities in Inverse Proportion)**
 > 
-> Two related quantities: if one quantity changes and the other changes along with it, and the product of the two quantities is constant, then the two quantities are called quantities in inverse proportion, and the relationship between them is called an inverse proportion relationship. If the letters $x$ and $y$ are used to represent the two related quantities, and $k$ is used to represent their product ($k$ is a fixed value, and $k\ne 0$), then the inverse proportion relationship can be expressed as $xy=k$.
+> Two related quantities: if one quantity changes and the other changes along with it, and the product of the two quantities is constant, then the two quantities are called quantities in inverse proportion, and the relationship between them is called an inverse proportion relationship. If the letters $x$ and $y$ are used to represent the two related quantities, and $k$ is used to represent their product ($k$ is a fixed value, and $k\ne0$), then the inverse proportion relationship can be expressed as $xy=k$.
 
 > **Definition 3.2.1 (Value of an Algebraic Expression)**
 > 
@@ -64,7 +64,7 @@
 
 By **Definition 3.1.2 (Writing Algebraic Expressions)**.
 
-The $1$-st uses $4=4\times 1$ counters, the $2$-nd $8=4\times 2$ counters, the $3$-rd $12=4\times 3$ counters; that is, each figure uses $4$ more counters than the previous one. Hence $4n$ counters are needed to make the $n$-th figure. $\blacksquare$
+The $1$-st uses $4=4\times1$ counters, the $2$-nd $8=4\times2$ counters, the $3$-rd $12=4\times3$ counters; that is, each figure uses $4$ more counters than the previous one. Hence $4n$ counters are needed to make the $n$-th figure. $\blacksquare$
 
 ## Review Problem 2
 
@@ -107,7 +107,7 @@ For $-2vt^{3}$, the numerical factor is $-2$, the exponent of $v$ is $1$, the ex
 
 (Exercise 4.1, Problem 2) Fill in the blanks with monomials, and state their coefficients and degrees.
 
-(1) If the carbon emissions of using a batch of carbon dioxide refrigerant are $m\ \text{t}$, then the carbon emissions of a traditional refrigerant with the same amount are $\;\_\_\;\text{t}$.
+(1) If the carbon emissions of using a batch of carbon dioxide refrigerant are $m\,\text{t}$, then the carbon emissions of a traditional refrigerant with the same amount are $\;\_\_\;\text{t}$.
 
 (2) If the profit from selling one item of this kind is $m$ yuan, then the total profit from selling $n$ items is $\;\_\_\;$ yuan.
 
@@ -117,17 +117,17 @@ For $-2vt^{3}$, the numerical factor is $-2$, the exponent of $v$ is $1$, the ex
 
 By **Definition 4.1.1 (Monomial)**, an expression formed by the product of numbers or letters is a monomial; the coefficient and degree are then determined by **Definition 4.1.2 (Coefficient of a Monomial)** and **Definition 4.1.3 (Degree of a Monomial)**.
 
-(1) The carbon emissions of the traditional refrigerant are $3.985$ times those of the carbon dioxide refrigerant, so it is $3.985m\ \text{t}$; its coefficient is $3.985$ and its degree is $1$.
+(1) The carbon emissions of the traditional refrigerant are $3.985$ times those of the carbon dioxide refrigerant, so it is $3.985m\,\text{t}$; its coefficient is $3.985$ and its degree is $1$.
 
 (2) The profit per item is $m$ yuan, and selling $n$ items gives a total profit of $mn$ yuan; its coefficient is $1$ and its degree is $2$.
 
-(3) The volume formula for a cone is $\frac{1}{3}\pi r^{2}h$, so the volume of this funnel is $\frac{1}{3}\pi r^{2}h$; its coefficient is $\frac{1}{3}\pi$ and its degree is $3$. $\blacksquare$
+(3) The volume formula for a cone is $\frac{1}{3}\pi{r}^{2}h$, so the volume of this funnel is $\frac{1}{3}\pi{r}^{2}h$; its coefficient is $\frac{1}{3}\pi$ and its degree is $3$. $\blacksquare$
 
 ## Exercise 3
 
 (Exercise 4.1, Problem 1) Which of the following algebraic expressions are monomials? Which are polynomials?
 
-$$2a+1,\ 4r^{2},\ 2x^{2}-5y+1,\ 3,\ \frac{3}{8}m^{3}-5n.$$
+$$2a+1,\,4r^{2},\,2x^{2}-5y+1,\,3,\,\frac{3}{8}m^{3}-5n.$$
 
 ### Solution to Exercise 3
 
@@ -228,7 +228,7 @@ By **Definition 4.1.1 (Monomial)**, the number of additional visitors is the pro
 
 Last year it received $x$ ten-thousand visitors, and this year's growth over last year is $5.7\%$, so the number of additional visitors is
 
-$$5.7\%\cdot x=0.057x\ \text{万人}.$$
+$$5.7\%\cdot{x}=0.057x\,\text{万人}.$$
 
 That is, this year it received $0.057x$ ten-thousand more visitors than the same period last year. $\blacksquare$
 
@@ -244,7 +244,7 @@ From the Beginning of Spring to the Beginning of Summer, the solar terms in betw
 
 The shadow at the Beginning of Spring is $10.5$ chi, so on the day of the Beginning of Summer the shadow length is
 
-$$10.5-5d\ \text{尺}.$$
+$$10.5-5d\,\text{尺}.$$
 
 $\blacksquare$
 
@@ -356,9 +356,9 @@ By **Definition 4.2.4 (Rule for Adding and Subtracting Integral Expressions)**, 
 
 By **Definition 4.2.4 (Rule for Adding and Subtracting Integral Expressions)**, the shaded area is the area of the large circle minus the area of the small circle.
 
-The area of the large circle is $\pi R^{2}$, and the area of the small circle is $\frac{4}{9}$ of that, i.e. $\frac{4}{9}\pi R^{2}$. Hence the area of the shaded region is
+The area of the large circle is $\pi{R}^{2}$, and the area of the small circle is $\frac{4}{9}$ of that, i.e. $\frac{4}{9}\pi{R}^{2}$. Hence the area of the shaded region is
 
-$$\pi R^{2}-\frac{4}{9}\pi R^{2}=\left(1-\frac{4}{9}\right)\pi R^{2}=\frac{5}{9}\pi R^{2}.$$
+$$\pi{R}^{2}-\frac{4}{9}\pi{R}^{2}=\left(1-\frac{4}{9}\right)\pi{R}^{2}=\frac{5}{9}\pi{R}^{2}.$$
 
 $\blacksquare$
 
@@ -428,15 +428,15 @@ By **Definition 4.2.3 (Rule for Removing Parentheses)** and **Definition 4.2.4 (
 
 ## Exercise 12
 
-(Exercise 4.2, Problem 4) The household water rate in a certain place: if the monthly water usage does not exceed $15\ \text{m}^{3}$, each cubic meter costs $a$ yuan; for the amount in excess, each cubic meter costs $\left(a+2\right)$ yuan. If this household's water usage last month was $20\ \text{m}^{3}$, how much water fee should be paid?
+(Exercise 4.2, Problem 4) The household water rate in a certain place: if the monthly water usage does not exceed $15\,\text{m}^{3}$, each cubic meter costs $a$ yuan; for the amount in excess, each cubic meter costs $\left(a+2\right)$ yuan. If this household's water usage last month was $20\,\text{m}^{3}$, how much water fee should be paid?
 
 ### Solution to Exercise 12
 
 By **Definition 4.2.4 (Rule for Adding and Subtracting Integral Expressions)**, the water fee is the sum of the two parts.
 
-The water usage is $20\ \text{m}^{3}$, of which $15\ \text{m}^{3}$ is charged at $a$ yuan per cubic meter, and the excess $20-15=5\ \text{m}^{3}$ is charged at $\left(a+2\right)$ yuan per cubic meter. Hence the water fee to be paid is
+The water usage is $20\,\text{m}^{3}$, of which $15\,\text{m}^{3}$ is charged at $a$ yuan per cubic meter, and the excess $20-15=5\,\text{m}^{3}$ is charged at $\left(a+2\right)$ yuan per cubic meter. Hence the water fee to be paid is
 
-$$15a+5\left(a+2\right)=15a+5a+10=20a+10\ \text{元}.$$
+$$15a+5\left(a+2\right)=15a+5a+10=20a+10\,\text{元}.$$
 
 $\blacksquare$
 
@@ -482,7 +482,7 @@ By **Definition 4.2.4 (Rule for Adding and Subtracting Integral Expressions)**, 
 
 Wang Fang spent $\left(3x+2y\right)$ yuan, and Li Ming spent $\left(4x+3y\right)$ yuan. Hence the total cost is
 
-$$\left(3x+2y\right)+\left(4x+3y\right)=7x+5y\ \text{元}.$$
+$$\left(3x+2y\right)+\left(4x+3y\right)=7x+5y\,\text{元}.$$
 
 $\blacksquare$
 

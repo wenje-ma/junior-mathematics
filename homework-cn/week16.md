@@ -22,7 +22,7 @@
 
 > **定义 7.1.3 (垂直)**
 > 
-> 当两条直线相交所成的四个角中有一个角是直角时, 就说这两条直线互相垂直, 记作 $a\perp b$. 其中一条直线叫作另一条直线的垂线, 交点叫作垂足.
+> 当两条直线相交所成的四个角中有一个角是直角时, 就说这两条直线互相垂直, 记作 $a\perp{b}$. 其中一条直线叫作另一条直线的垂线, 交点叫作垂足.
 
 > **定义 7.1.4 (点到直线的距离)**
 > 
@@ -34,7 +34,7 @@
 
 > **定义 7.2.1 (平行)**
 > 
-> 在同一平面内, 不相交的两条直线叫作平行线, 记作 $a\parallel b$. 在同一平面内, 不重合的两条直线只有相交与平行两种位置关系.
+> 在同一平面内, 不相交的两条直线叫作平行线, 记作 $a\parallel{b}$. 在同一平面内, 不重合的两条直线只有相交与平行两种位置关系.
 
 > **基本事实 7.2.1 (平行公理)**
 > 
@@ -42,7 +42,7 @@
 
 > **定理 7.2.1 (平行的传递性)**
 > 
-> 如果两条直线都与第三条直线平行, 那么这两条直线也互相平行. 即若 $b\parallel a$, $c\parallel a$, 则 $b\parallel c$.
+> 如果两条直线都与第三条直线平行, 那么这两条直线也互相平行. 即若 $b\parallel{a}$, $c\parallel{a}$, 则 $b\parallel{c}$.
 
 > **性质 7.2.1 (性质 1)**
 > 
@@ -70,29 +70,29 @@
 
 ## 习题一
 
-(习题 7.1 复习巩固第 4 题) 如图, 画 $AE\perp BC$, $CF\perp AD$, 垂足分别为 $E$, $F$.
+(习题 7.1 复习巩固第 4 题) 如图, 画 $AE\perp{B}C$, $CF\perp{A}D$, 垂足分别为 $E$, $F$.
 
 ### 解答 习题一
 
-由**定义 7.1.3 (垂直)** 和垂线: 把三角尺的一条直角边与 $BC$ 重合, 移动三角尺使另一条直角边经过点 $A$, 沿这条直角边画直线交 $BC$ 于点 $E$, 则 $AE\perp BC$, $E$ 为垂足; 同法画 $CF\perp AD$, 垂足为 $F$. $\blacksquare$
+由**定义 7.1.3 (垂直)** 和垂线: 把三角尺的一条直角边与 $BC$ 重合, 移动三角尺使另一条直角边经过点 $A$, 沿这条直角边画直线交 $BC$ 于点 $E$, 则 $AE\perp{B}C$, $E$ 为垂足; 同法画 $CF\perp{A}D$, 垂足为 $F$. $\blacksquare$
 
 ## 习题二
 
-(习题 7.1 综合运用第 5 题) 如图, 直线 $AB$, $CD$ 相交于点 $O$, $OA$ 平分 $\angle EOC$.
+(习题 7.1 综合运用第 5 题) 如图, 直线 $AB$, $CD$ 相交于点 $O$, $OA$ 平分 $\angle{E}OC$.
 
-(1) 若 $\angle EOC=70^\circ$, 求 $\angle BOD$ 的度数;
+(1) 若 $\angle{E}OC=70^\circ$, 求 $\angle{B}OD$ 的度数;
 
-(2) 若 $\angle EOC:\angle EOD=2:3$, 求 $\angle BOD$ 的度数.
+(2) 若 $\angle{E}OC:\angle{E}OD=2:3$, 求 $\angle{B}OD$ 的度数.
 
-图中为直线 $AB$, $CD$ 相交于点 $O$, 另有一条射线 $OE$ 从 $O$ 出发, 与射线 $OC$ 分居 $OA$ 两侧, 使 $OA$ 位于 $\angle EOC$ 内部并平分 $\angle EOC$.
+图中为直线 $AB$, $CD$ 相交于点 $O$, 另有一条射线 $OE$ 从 $O$ 出发, 与射线 $OC$ 分居 $OA$ 两侧, 使 $OA$ 位于 $\angle{E}OC$ 内部并平分 $\angle{E}OC$.
 
 ### 解答 习题二
 
-由角平分线的意义, $OA$ 平分 $\angle EOC$, 故 $\angle AOC=\frac{1}{2}\angle EOC$. 又 $\angle BOD$ 与 $\angle AOC$ 是对顶角, 由**定理 7.1.1 (对顶角相等)**, $\angle BOD=\angle AOC$.
+由角平分线的意义, $OA$ 平分 $\angle{E}OC$, 故 $\angle{A}OC=\frac{1}{2}\angle{E}OC$. 又 $\angle{B}OD$ 与 $\angle{A}OC$ 是对顶角, 由**定理 7.1.1 (对顶角相等)**, $\angle{B}OD=\angle{A}OC$.
 
-(1) $\angle EOC=70^\circ$, 故 $\angle AOC=\frac{1}{2}\times 70^\circ=35^\circ$, 从而 $\angle BOD=\angle AOC=35^\circ$.
+(1) $\angle{E}OC=70^\circ$, 故 $\angle{A}OC=\frac{1}{2}\times70^\circ=35^\circ$, 从而 $\angle{B}OD=\angle{A}OC=35^\circ$.
 
-(2) $\angle EOC$ 与 $\angle EOD$ 有公共边 $OE$, 另一边互为反向延长线, 由**定义 7.1.1 (邻补角)**, 它们互补, 即 $\angle EOC+\angle EOD=180^\circ$. 又 $\angle EOC:\angle EOD=2:3$, 设 $\angle EOC=2k$, $\angle EOD=3k$, 则 $2k+3k=180^\circ$, 解得 $k=36^\circ$. 故 $\angle EOC=2k=72^\circ$, $\angle AOC=\frac{1}{2}\times 72^\circ=36^\circ$, 从而 $\angle BOD=\angle AOC=36^\circ$. $\blacksquare$
+(2) $\angle{E}OC$ 与 $\angle{E}OD$ 有公共边 $OE$, 另一边互为反向延长线, 由**定义 7.1.1 (邻补角)**, 它们互补, 即 $\angle{E}OC+\angle{E}OD=180^\circ$. 又 $\angle{E}OC:\angle{E}OD=2:3$, 设 $\angle{E}OC=2k$, $\angle{E}OD=3k$, 则 $2k+3k=180^\circ$, 解得 $k=36^\circ$. 故 $\angle{E}OC=2k=72^\circ$, $\angle{A}OC=\frac{1}{2}\times72^\circ=36^\circ$, 从而 $\angle{B}OD=\angle{A}OC=36^\circ$. $\blacksquare$
 
 ## 习题三
 
@@ -108,59 +108,59 @@
 
 ## 习题四
 
-(习题 7.1 综合运用第 7 题) 如图, $\angle 1$ 和 $\angle 2$, $\angle 3$ 和 $\angle 4$ 各是哪两条直线被哪一条直线所截形成的? 它们各是什么位置关系的角?
+(习题 7.1 综合运用第 7 题) 如图, $\angle1$ 和 $\angle2$, $\angle3$ 和 $\angle4$ 各是哪两条直线被哪一条直线所截形成的? 它们各是什么位置关系的角?
 
 ### 解答 习题四
 
 由**定义 7.1.5 (同位角, 内错角, 同旁内角)**, 先确定两角的边所在的三条直线, 公共直线为截线, 另两条为被截直线.
 
-$\angle 1$ 与 $\angle 2$ 有一条边共在截线上, 另两边分属两条被截直线; 按它们在两被截直线之间, 截线两侧的位置判断其为内错角. $\angle 3$ 与 $\angle 4$ 同理, 按其相对两被截直线与截线的位置, 判断它们是相应的同位角 (或同旁内角). 逐条指出公共截线即可. $\blacksquare$
+$\angle1$ 与 $\angle2$ 有一条边共在截线上, 另两边分属两条被截直线; 按它们在两被截直线之间, 截线两侧的位置判断其为内错角. $\angle3$ 与 $\angle4$ 同理, 按其相对两被截直线与截线的位置, 判断它们是相应的同位角 (或同旁内角). 逐条指出公共截线即可. $\blacksquare$
 
 ## 习题五
 
-(习题 7.1 拓广探索第 8 题) 如图, $AB\perp l$, $CB\perp l$, $B$ 为垂足, 那么 $A$, $B$, $C$ 三点在同一条直线上吗? 请说明理由.
+(习题 7.1 拓广探索第 8 题) 如图, $AB\perp{l}$, $CB\perp{l}$, $B$ 为垂足, 那么 $A$, $B$, $C$ 三点在同一条直线上吗? 请说明理由.
 
-图中为一条水平直线 $l$, 点 $B$ 在 $l$ 上, 从 $B$ 出发向 $l$ 的两侧分别引出射线 $BA$ 与 $BC$, 使 $AB\perp l$ 且 $CB\perp l$.
+图中为一条水平直线 $l$, 点 $B$ 在 $l$ 上, 从 $B$ 出发向 $l$ 的两侧分别引出射线 $BA$ 与 $BC$, 使 $AB\perp{l}$ 且 $CB\perp{l}$.
 
 ### 解答 习题五
 
 $A$, $B$, $C$ 三点在同一条直线上.
 
-由**定义 7.1.3 (垂直)**, $AB\perp l$ 且 $CB\perp l$, 故 $\angle ABL=90^\circ$, $\angle CBL=90^\circ$, 其中 $L$ 为直线 $l$ 上任一方向. 于是
+由**定义 7.1.3 (垂直)**, $AB\perp{l}$ 且 $CB\perp{l}$, 故 $\angle{A}BL=90^\circ$, $\angle{C}BL=90^\circ$, 其中 $L$ 为直线 $l$ 上任一方向. 于是
 
 $$
-\angle ABC=\angle ABL+\angle CBL=90^\circ+90^\circ=180^\circ.
+\angle{A}BC=\angle{A}BL+\angle{C}BL=90^\circ+90^\circ=180^\circ.
 $$
 
-$\angle ABC=180^\circ$ 说明射线 $BA$ 与射线 $BC$ 互为反向延长线, 即 $BA$ 与 $BC$ 在同一条直线上, 故 $A$, $B$, $C$ 三点在同一条直线上. $\blacksquare$
+$\angle{A}BC=180^\circ$ 说明射线 $BA$ 与射线 $BC$ 互为反向延长线, 即 $BA$ 与 $BC$ 在同一条直线上, 故 $A$, $B$, $C$ 三点在同一条直线上. $\blacksquare$
 
 ## 习题六
 
 (习题 7.1 拓广探索第 9 题) 直线 $AB$, $CD$ 相交于点 $O$.
 
-(1) $OE$, $OF$ 分别是 $\angle AOC$, $\angle BOD$ 的平分线. 画出这个图形.
+(1) $OE$, $OF$ 分别是 $\angle{A}OC$, $\angle{B}OD$ 的平分线. 画出这个图形.
 
 (2) 射线 $OE$, $OF$ 在同一条直线上吗? 为什么?
 
 ### 解答 习题六
 
-(1) 画出相交于点 $O$ 的直线 $AB$, $CD$, 再分别作 $\angle AOC$ 的平分线 $OE$ 与 $\angle BOD$ 的平分线 $OF$ 即得.
+(1) 画出相交于点 $O$ 的直线 $AB$, $CD$, 再分别作 $\angle{A}OC$ 的平分线 $OE$ 与 $\angle{B}OD$ 的平分线 $OF$ 即得.
 
 (2) 射线 $OE$, $OF$ 在同一条直线上.
 
-$\angle AOC$ 与 $\angle BOD$ 是对顶角, 由**定理 7.1.1 (对顶角相等)**, $\angle AOC=\angle BOD$. $OE$ 平分 $\angle AOC$, 故
+$\angle{A}OC$ 与 $\angle{B}OD$ 是对顶角, 由**定理 7.1.1 (对顶角相等)**, $\angle{A}OC=\angle{B}OD$. $OE$ 平分 $\angle{A}OC$, 故
 
 $$
-\angle EOC=\frac{1}{2}\angle AOC.
+\angle{E}OC=\frac{1}{2}\angle{A}OC.
 $$
 
-$OF$ 平分 $\angle BOD$, 而 $\angle BOD$ 与 $\angle AOC$ 是对顶角, 其一边 $OB$ 是 $OA$ 的反向延长线, 另一边 $OD$ 是 $OC$ 的反向延长线, 故
+$OF$ 平分 $\angle{B}OD$, 而 $\angle{B}OD$ 与 $\angle{A}OC$ 是对顶角, 其一边 $OB$ 是 $OA$ 的反向延长线, 另一边 $OD$ 是 $OC$ 的反向延长线, 故
 
 $$
-\angle DOF=\frac{1}{2}\angle BOD=\frac{1}{2}\angle AOC=\angle EOC.
+\angle{D}OF=\frac{1}{2}\angle{B}OD=\frac{1}{2}\angle{A}OC=\angle{E}OC.
 $$
 
-于是 $\angle EOC=\angle DOF$. 又 $OC$ 与 $OD$ 互为反向延长线, $\angle EOC$ 与 $\angle DOF$ 在直线 $CD$ 的两侧且相等, 说明射线 $OE$ 与射线 $OF$ 互为反向延长线, 故 $OE$, $OF$ 在同一条直线上. $\blacksquare$
+于是 $\angle{E}OC=\angle{D}OF$. 又 $OC$ 与 $OD$ 互为反向延长线, $\angle{E}OC$ 与 $\angle{D}OF$ 在直线 $CD$ 的两侧且相等, 说明射线 $OE$ 与射线 $OF$ 互为反向延长线, 故 $OE$, $OF$ 在同一条直线上. $\blacksquare$
 
 ## 观察与猜想一
 
@@ -190,37 +190,37 @@ $$
 
 (练习 7.2 第 1 题) 如图, 用直尺和三角尺画平行线:
 
-(1) 过点 $A$ 画 $MN\parallel BC$;
+(1) 过点 $A$ 画 $MN\parallel{B}C$;
 
-(2) 过点 $C$ 画 $CE\parallel DA$, 与 $AB$ 交于点 $E$; 过点 $C$ 画 $CF\parallel DB$, 与 $AB$ 的延长线交于点 $F$.
+(2) 过点 $C$ 画 $CE\parallel{D}A$, 与 $AB$ 交于点 $E$; 过点 $C$ 画 $CF\parallel{D}B$, 与 $AB$ 的延长线交于点 $F$.
 
 ### 解答 练习一
 
 由平行公理, 过直线外一点有且只有一条直线与已知直线平行.
 
-(1) 把三角尺一边与 $BC$ 重合, 直尺靠紧三角尺另一边, 沿直尺推动三角尺使与 $BC$ 重合的边经过点 $A$, 沿该边画直线 $MN$, 则 $MN\parallel BC$.
+(1) 把三角尺一边与 $BC$ 重合, 直尺靠紧三角尺另一边, 沿直尺推动三角尺使与 $BC$ 重合的边经过点 $A$, 沿该边画直线 $MN$, 则 $MN\parallel{B}C$.
 
-(2) 同法: 过点 $C$ 作 $CE\parallel DA$ 交 $AB$ 于 $E$, 过点 $C$ 作 $CF\parallel DB$ 交 $AB$ 的延长线于 $F$ 即得. $\blacksquare$
+(2) 同法: 过点 $C$ 作 $CE\parallel{D}A$ 交 $AB$ 于 $E$, 过点 $C$ 作 $CF\parallel{D}B$ 交 $AB$ 的延长线于 $F$ 即得. $\blacksquare$
 
 ## 练习二
 
 (练习 7.2 第 1 题) 如图, $E$ 是 $AB$ 上一点, $F$ 是 $DC$ 上一点, $G$ 是 $BC$ 的延长线上一点.
 
-(1) 如果 $\angle B=\angle DCG$, 那么可以判断哪两条直线平行? 为什么?
+(1) 如果 $\angle{B}=\angle{D}CG$, 那么可以判断哪两条直线平行? 为什么?
 
-(2) 如果 $\angle D=\angle DCG$, 那么可以判断哪两条直线平行? 为什么?
+(2) 如果 $\angle{D}=\angle{D}CG$, 那么可以判断哪两条直线平行? 为什么?
 
-(3) 如果 $\angle D+\angle DFE=180^\circ$, 那么可以判断哪两条直线平行? 为什么?
+(3) 如果 $\angle{D}+\angle{D}FE=180^\circ$, 那么可以判断哪两条直线平行? 为什么?
 
 ### 解答 练习二
 
 由判定方法 1, **定理 7.2.2 (判定方法 2)**, **定理 7.2.3 (判定方法 3)**, 按两角是同位角, 内错角还是同旁内角判断.
 
-(1) $\angle B$ 与 $\angle DCG$ 是直线 $AB$, $DC$ 被直线 $BG$ 所截得的同位角. 由 $\angle B=\angle DCG$, 根据同位角相等, 两直线平行, 可得 $AB\parallel DC$.
+(1) $\angle{B}$ 与 $\angle{D}CG$ 是直线 $AB$, $DC$ 被直线 $BG$ 所截得的同位角. 由 $\angle{B}=\angle{D}CG$, 根据同位角相等, 两直线平行, 可得 $AB\parallel{D}C$.
 
-(2) $\angle D$ 与 $\angle DCG$ 是直线 $AD$, $BG$ 被直线 $DC$ 所截得的内错角. 由 $\angle D=\angle DCG$, 根据内错角相等, 两直线平行, 可得 $AD\parallel BG$ (即 $AD\parallel BC$).
+(2) $\angle{D}$ 与 $\angle{D}CG$ 是直线 $AD$, $BG$ 被直线 $DC$ 所截得的内错角. 由 $\angle{D}=\angle{D}CG$, 根据内错角相等, 两直线平行, 可得 $AD\parallel{B}G$ (即 $AD\parallel{B}C$).
 
-(3) $\angle D$ 与 $\angle DFE$ 是直线 $AD$, $EF$ 被直线 $DC$ 所截得的同旁内角. 由 $\angle D+\angle DFE=180^\circ$, 根据同旁内角互补, 两直线平行, 可得 $AD\parallel EF$. $\blacksquare$
+(3) $\angle{D}$ 与 $\angle{D}FE$ 是直线 $AD$, $EF$ 被直线 $DC$ 所截得的同旁内角. 由 $\angle{D}+\angle{D}FE=180^\circ$, 根据同旁内角互补, 两直线平行, 可得 $AD\parallel{E}F$. $\blacksquare$
 
 ## 练习三
 
@@ -234,13 +234,13 @@ $$
 
 ## 练习四
 
-(练习 7.2 第 3 题) 在铺设钢轨时, 两条钢轨必须是互相平行的. 如图, 已知 $\angle 2$ 是直角, 要判断两条钢轨是否平行, 只需要再度量图中标出的哪个角? 为什么?
+(练习 7.2 第 3 题) 在铺设钢轨时, 两条钢轨必须是互相平行的. 如图, 已知 $\angle2$ 是直角, 要判断两条钢轨是否平行, 只需要再度量图中标出的哪个角? 为什么?
 
 ### 解答 练习四
 
-两条钢轨被轨枕所截. 已知 $\angle 2=90^\circ$.
+两条钢轨被轨枕所截. 已知 $\angle2=90^\circ$.
 
-由判定方法 1, 只要再量出与 $\angle 2$ 成同位角的那个角也等于 $90^\circ$, 即可判定两钢轨平行. 故只需再度量与 $\angle 2$ 成同位角的那个角; 若它等于 $90^\circ$, 由同位角相等, 两直线平行, 即可知两钢轨平行. $\blacksquare$
+由判定方法 1, 只要再量出与 $\angle2$ 成同位角的那个角也等于 $90^\circ$, 即可判定两钢轨平行. 故只需再度量与 $\angle2$ 成同位角的那个角; 若它等于 $90^\circ$, 由同位角相等, 两直线平行, 即可知两钢轨平行. $\blacksquare$
 
 ## 练习五
 
@@ -252,87 +252,87 @@ $$
 
 ## 练习六
 
-(练习 7.2 第 1 题) 如图, 直线 $a\parallel b$, $\angle 1=54^\circ$, $\angle 2$, $\angle 3$, $\angle 4$ 各是多少度?
+(练习 7.2 第 1 题) 如图, 直线 $a\parallel{b}$, $\angle1=54^\circ$, $\angle2$, $\angle3$, $\angle4$ 各是多少度?
 
-图中为两条平行直线 $a$, $b$ 被一条截线所截:在 $a$ 与截线的交点处标出 $\angle 1$ 及其对顶角 $\angle 2$, 在 $b$ 与截线的交点处标出与 $\angle 1$ 成内错角的 $\angle 3$ 和与 $\angle 1$ 成同旁内角的 $\angle 4$.
+图中为两条平行直线 $a$, $b$ 被一条截线所截:在 $a$ 与截线的交点处标出 $\angle1$ 及其对顶角 $\angle2$, 在 $b$ 与截线的交点处标出与 $\angle1$ 成内错角的 $\angle3$ 和与 $\angle1$ 成同旁内角的 $\angle4$.
 
 ### 解答 练习六
 
 由**性质 7.2.1 (性质 1)**,**性质 7.2.2 (性质 2)**,**性质 7.2.3 (性质 3)**, 两直线平行时相应角的关系如下.
 
-$\angle 1$ 与 $\angle 2$ 是对顶角, 由**定理 7.1.1 (对顶角相等)**, $\angle 2=\angle 1=54^\circ$.
+$\angle1$ 与 $\angle2$ 是对顶角, 由**定理 7.1.1 (对顶角相等)**, $\angle2=\angle1=54^\circ$.
 
-$\angle 1$ 与 $\angle 3$ 是直线 $a$, $b$ 被截线所截得的内错角, 由**性质 7.2.2 (性质 2)**, 两直线平行, 内错角相等, $\angle 3=\angle 1=54^\circ$.
+$\angle1$ 与 $\angle3$ 是直线 $a$, $b$ 被截线所截得的内错角, 由**性质 7.2.2 (性质 2)**, 两直线平行, 内错角相等, $\angle3=\angle1=54^\circ$.
 
-$\angle 1$ 与 $\angle 4$ 是同旁内角, 由**性质 7.2.3 (性质 3)**, 两直线平行, 同旁内角互补, $\angle 4=180^\circ-\angle 1=180^\circ-54^\circ=126^\circ$.
+$\angle1$ 与 $\angle4$ 是同旁内角, 由**性质 7.2.3 (性质 3)**, 两直线平行, 同旁内角互补, $\angle4=180^\circ-\angle1=180^\circ-54^\circ=126^\circ$.
 
-故 $\angle 2=54^\circ$, $\angle 3=54^\circ$, $\angle 4=126^\circ$. $\blacksquare$
+故 $\angle2=54^\circ$, $\angle3=54^\circ$, $\angle4=126^\circ$. $\blacksquare$
 
 ## 练习七
 
-(练习 7.2 第 2 题) 如图, 在三角形 $ABC$ 中, $D$ 是 $AB$ 上一点, $E$ 是 $AC$ 上一点, $\angle ADE=60^\circ$, $\angle B=60^\circ$, $\angle AED=40^\circ$.
+(练习 7.2 第 2 题) 如图, 在三角形 $ABC$ 中, $D$ 是 $AB$ 上一点, $E$ 是 $AC$ 上一点, $\angle{A}DE=60^\circ$, $\angle{B}=60^\circ$, $\angle{A}ED=40^\circ$.
 
 (1) $DE$ 和 $BC$ 平行吗? 为什么?
 
-(2) $\angle C$ 是多少度? 为什么?
+(2) $\angle{C}$ 是多少度? 为什么?
 
 ### 解答 练习七
 
-(1) $DE\parallel BC$.
+(1) $DE\parallel{B}C$.
 
-$\angle ADE$ 与 $\angle B$ 是直线 $DE$, $BC$ 被直线 $AB$ 所截得的同位角, 由 $\angle ADE=60^\circ=\angle B$, 根据判定方法 1, 同位角相等, 两直线平行, 故 $DE\parallel BC$.
+$\angle{A}DE$ 与 $\angle{B}$ 是直线 $DE$, $BC$ 被直线 $AB$ 所截得的同位角, 由 $\angle{A}DE=60^\circ=\angle{B}$, 根据判定方法 1, 同位角相等, 两直线平行, 故 $DE\parallel{B}C$.
 
-(2) $\angle C=40^\circ$.
+(2) $\angle{C}=40^\circ$.
 
-已证 $DE\parallel BC$, $\angle AED$ 与 $\angle C$ 是直线 $DE$, $BC$ 被直线 $AC$ 所截得的同位角, 由**性质 7.2.1 (性质 1)**, 两直线平行, 同位角相等, 故 $\angle C=\angle AED=40^\circ$. $\blacksquare$
+已证 $DE\parallel{B}C$, $\angle{A}ED$ 与 $\angle{C}$ 是直线 $DE$, $BC$ 被直线 $AC$ 所截得的同位角, 由**性质 7.2.1 (性质 1)**, 两直线平行, 同位角相等, 故 $\angle{C}=\angle{A}ED=40^\circ$. $\blacksquare$
 
 ## 练习八
 
 (练习 7.2 第 3 题) 将一个直角三角尺与两边平行的纸条如图放置, 则下列结论正确的是\_\_\_\_ (填序号).
 
-(1) $\angle 1=\angle 2$;　(2) $\angle 4+\angle 5=180^\circ$;　(3) $\angle 1+\angle 4=90^\circ$;　(4) $\angle 4+90^\circ=\angle 3$.
+(1) $\angle1=\angle2$;　(2) $\angle4+\angle5=180^\circ$;　(3) $\angle1+\angle4=90^\circ$;　(4) $\angle4+90^\circ=\angle3$.
 
 ### 解答 练习八
 
 纸条的两边平行. 直角三角尺的直角为 $90^\circ$.
 
-$\angle 1$ 与 $\angle 2$ 是两平行边被三角尺一边所截得的同位角, 由**性质 7.2.1 (性质 1)**, $\angle 1=\angle 2$, 故 (1) 正确.
+$\angle1$ 与 $\angle2$ 是两平行边被三角尺一边所截得的同位角, 由**性质 7.2.1 (性质 1)**, $\angle1=\angle2$, 故 (1) 正确.
 
-$\angle 4$ 与 $\angle 5$ 是两平行边被三角尺另一边所截得的同旁内角, 由**性质 7.2.3 (性质 3)**, 两直线平行, 同旁内角互补, $\angle 4+\angle 5=180^\circ$, 故 (2) 正确.
+$\angle4$ 与 $\angle5$ 是两平行边被三角尺另一边所截得的同旁内角, 由**性质 7.2.3 (性质 3)**, 两直线平行, 同旁内角互补, $\angle4+\angle5=180^\circ$, 故 (2) 正确.
 
-三角尺的直角与 $\angle 1$, $\angle 4$ 拼成平角, 即 $\angle 1+90^\circ+\angle 4=180^\circ$, 故 $\angle 1+\angle 4=90^\circ$, (3) 正确.
+三角尺的直角与 $\angle1$, $\angle4$ 拼成平角, 即 $\angle1+90^\circ+\angle4=180^\circ$, 故 $\angle1+\angle4=90^\circ$, (3) 正确.
 
-$\angle 3$ 与 $\angle 4$ 的邻补角成同位角关系, 推得 $\angle 3=180^\circ-\angle 4$, 即 $\angle 4+\angle 3=180^\circ$, 与 $\angle 4+90^\circ=\angle 3$ 不符, 故 (4) 错误.
+$\angle3$ 与 $\angle4$ 的邻补角成同位角关系, 推得 $\angle3=180^\circ-\angle4$, 即 $\angle4+\angle3=180^\circ$, 与 $\angle4+90^\circ=\angle3$ 不符, 故 (4) 错误.
 
 综上, 正确的是 (1)(2)(3). $\blacksquare$
 
 ## 练习九
 
-(练习 7.2 第 1 题) 如图, 如果直线 $a\parallel b$, $\angle 1+\angle 2=180^\circ$, 那么直线 $b$ 和 $c$ 平行吗? 为什么?
+(练习 7.2 第 1 题) 如图, 如果直线 $a\parallel{b}$, $\angle1+\angle2=180^\circ$, 那么直线 $b$ 和 $c$ 平行吗? 为什么?
 
 ### 解答 练习九
 
-直线 $b\parallel c$.
+直线 $b\parallel{c}$.
 
-由 $a\parallel b$, 设 $\angle 1$ 的对顶角 (或同位角) 与 $a$, $b$ 被截所成的相应角相等. $\angle 1+\angle 2=180^\circ$, 而 $\angle 1$ 的邻补角与 $\angle 1$ 也互补, 故 $\angle 2$ 等于 $\angle 1$ 的邻补角的对顶角. 由此推得直线 $b$, $c$ 被第三条直线所截的同位角 (或同旁内角) 满足平行条件.
+由 $a\parallel{b}$, 设 $\angle1$ 的对顶角 (或同位角) 与 $a$, $b$ 被截所成的相应角相等. $\angle1+\angle2=180^\circ$, 而 $\angle1$ 的邻补角与 $\angle1$ 也互补, 故 $\angle2$ 等于 $\angle1$ 的邻补角的对顶角. 由此推得直线 $b$, $c$ 被第三条直线所截的同位角 (或同旁内角) 满足平行条件.
 
-具体地, 由 $a\parallel b$ 得 $\angle 1$ 的同位角等于 $\angle 1$, 它与 $\angle 2$ 互补, 即 $\angle 1+\angle 2=180^\circ$ 给出 $b$, $c$ 被截的同旁内角互补, 由**定理 7.2.3 (判定方法 3)**, 同旁内角互补, 两直线平行, 故 $b\parallel c$. $\blacksquare$
+具体地, 由 $a\parallel{b}$ 得 $\angle1$ 的同位角等于 $\angle1$, 它与 $\angle2$ 互补, 即 $\angle1+\angle2=180^\circ$ 给出 $b$, $c$ 被截的同旁内角互补, 由**定理 7.2.3 (判定方法 3)**, 同旁内角互补, 两直线平行, 故 $b\parallel{c}$. $\blacksquare$
 
 ## 练习十
 
-(练习 7.2 第 2 题) 如图, $AB\parallel CD$, 且 $\angle 1=\angle 2$, 那么直线 $BE$ 与 $CF$ 平行吗? 为什么?
+(练习 7.2 第 2 题) 如图, $AB\parallel{C}D$, 且 $\angle1=\angle2$, 那么直线 $BE$ 与 $CF$ 平行吗? 为什么?
 
 ### 解答 练习十
 
-$BE\parallel CF$.
+$BE\parallel{C}F$.
 
-由 $AB\parallel CD$, 设 $BC$ 为截线, 则 $\angle ABC=\angle BCD$ (两直线平行, 内错角相等). 又 $\angle 1=\angle 2$, 故
+由 $AB\parallel{C}D$, 设 $BC$ 为截线, 则 $\angle{A}BC=\angle{B}CD$ (两直线平行, 内错角相等). 又 $\angle1=\angle2$, 故
 
 $$
-\angle ABC-\angle 1=\angle BCD-\angle 2,
+\angle{A}BC-\angle1=\angle{B}CD-\angle2,
 $$
 
-即 $\angle EBC=\angle BCF$. 这两个角是直线 $BE$, $CF$ 被直线 $BC$ 所截得的内错角. 由**定理 7.2.2 (判定方法 2)**, 内错角相等, 两直线平行, 故 $BE\parallel CF$. $\blacksquare$
+即 $\angle{E}BC=\angle{B}CF$. 这两个角是直线 $BE$, $CF$ 被直线 $BC$ 所截得的内错角. 由**定理 7.2.2 (判定方法 2)**, 内错角相等, 两直线平行, 故 $BE\parallel{C}F$. $\blacksquare$
 
 ## 习题七
 
@@ -348,67 +348,67 @@ $$
 
 ## 习题八
 
-(习题 7.2 复习巩固第 2 题) 如图, 为了加固房屋, 要在屋架上加一根横梁 $DE$, 使 $DE\parallel BC$. 如果 $\angle ABC=31^\circ$, $\angle ADE$ 应为多少度?
+(习题 7.2 复习巩固第 2 题) 如图, 为了加固房屋, 要在屋架上加一根横梁 $DE$, 使 $DE\parallel{B}C$. 如果 $\angle{A}BC=31^\circ$, $\angle{A}DE$ 应为多少度?
 
 ### 解答 习题八
 
-$DE\parallel BC$, 直线 $AB$ 为截线, $\angle ADE$ 与 $\angle ABC$ 是同位角. 由**性质 7.2.1 (性质 1)**, 两直线平行, 同位角相等, 故
+$DE\parallel{B}C$, 直线 $AB$ 为截线, $\angle{A}DE$ 与 $\angle{A}BC$ 是同位角. 由**性质 7.2.1 (性质 1)**, 两直线平行, 同位角相等, 故
 
 $$
-\angle ADE=\angle ABC=31^\circ.
+\angle{A}DE=\angle{A}BC=31^\circ.
 $$
 
-即 $\angle ADE$ 应为 $31^\circ$. $\blacksquare$
+即 $\angle{A}DE$ 应为 $31^\circ$. $\blacksquare$
 
 ## 习题九
 
-(习题 7.2 复习巩固第 3 题) 如图, 一条水渠两次转弯后, 和原来的方向相同. 如果第一次的拐角 $\angle A=135^\circ$, 第二次的拐角 $\angle B$ 是多少度? 为什么?
+(习题 7.2 复习巩固第 3 题) 如图, 一条水渠两次转弯后, 和原来的方向相同. 如果第一次的拐角 $\angle{A}=135^\circ$, 第二次的拐角 $\angle{B}$ 是多少度? 为什么?
 
 ### 解答 习题九
 
-水渠两次转弯后和原来方向相同, 说明转弯前后的两段水渠所在直线平行. 两次拐角 $\angle A$, $\angle B$ 是这两条平行直线被中间一段水渠所截得的内错角.
+水渠两次转弯后和原来方向相同, 说明转弯前后的两段水渠所在直线平行. 两次拐角 $\angle{A}$, $\angle{B}$ 是这两条平行直线被中间一段水渠所截得的内错角.
 
-由**性质 7.2.2 (性质 2)**, 两直线平行, 内错角相等, 故 $\angle B=\angle A=135^\circ$. $\blacksquare$
+由**性质 7.2.2 (性质 2)**, 两直线平行, 内错角相等, 故 $\angle{B}=\angle{A}=135^\circ$. $\blacksquare$
 
 ## 习题十
 
-(习题 7.2 复习巩固第 4 题) 如图, 在下列条件中, 能判断直线 $a\parallel b$ 的是 (　　).
+(习题 7.2 复习巩固第 4 题) 如图, 在下列条件中, 能判断直线 $a\parallel{b}$ 的是 (　　).
 
-(1) $\angle 2+\angle 5=180^\circ$　(2) $\angle 2=\angle 4$　(3) $\angle 4+\angle 5=180^\circ$　(4) $\angle 1=\angle 3$
+(1) $\angle2+\angle5=180^\circ$　(2) $\angle2=\angle4$　(3) $\angle4+\angle5=180^\circ$　(4) $\angle1=\angle3$
 
-图中为两条直线 $a$, $b$ 被一条截线所截, 在两个交点处共标出 $\angle 1$, $\angle 2$, $\angle 3$, $\angle 4$, $\angle 5$ 五个角.
+图中为两条直线 $a$, $b$ 被一条截线所截, 在两个交点处共标出 $\angle1$, $\angle2$, $\angle3$, $\angle4$, $\angle5$ 五个角.
 
 ### 解答 习题十
 
 由判定方法 1,**定理 7.2.2 (判定方法 2)**,**定理 7.2.3 (判定方法 3)**, 逐项判断各角是直线 $a$, $b$ 被截线所截的哪种位置角.
 
-$\angle 2$ 与 $\angle 5$ 不是直线 $a$, $b$ 被同一条截线所截得的判定角, 其和为 $180^\circ$ 不能判定 $a\parallel b$, 故 (1) 不能.
+$\angle2$ 与 $\angle5$ 不是直线 $a$, $b$ 被同一条截线所截得的判定角, 其和为 $180^\circ$ 不能判定 $a\parallel{b}$, 故 (1) 不能.
 
-$\angle 2$ 与 $\angle 4$ 是直线 $a$, $b$ 被截线所截得的内错角, 由**定理 7.2.2 (判定方法 2)**, 内错角相等, 两直线平行, $\angle 2=\angle 4$ 可判定 $a\parallel b$, 故 (2) 能.
+$\angle2$ 与 $\angle4$ 是直线 $a$, $b$ 被截线所截得的内错角, 由**定理 7.2.2 (判定方法 2)**, 内错角相等, 两直线平行, $\angle2=\angle4$ 可判定 $a\parallel{b}$, 故 (2) 能.
 
-$\angle 4$ 与 $\angle 5$ 是直线 $a$, $b$ 被截线所截得的同旁内角, 由**定理 7.2.3 (判定方法 3)**, 同旁内角互补, 两直线平行, $\angle 4+\angle 5=180^\circ$ 可判定 $a\parallel b$, 故 (3) 能.
+$\angle4$ 与 $\angle5$ 是直线 $a$, $b$ 被截线所截得的同旁内角, 由**定理 7.2.3 (判定方法 3)**, 同旁内角互补, 两直线平行, $\angle4+\angle5=180^\circ$ 可判定 $a\parallel{b}$, 故 (3) 能.
 
-$\angle 1$ 与 $\angle 3$ 不是直线 $a$, $b$ 之间的判定角, $\angle 1=\angle 3$ 不能判定 $a\parallel b$, 故 (4) 不能.
+$\angle1$ 与 $\angle3$ 不是直线 $a$, $b$ 之间的判定角, $\angle1=\angle3$ 不能判定 $a\parallel{b}$, 故 (4) 不能.
 
-综上, 能判断直线 $a\parallel b$ 的是 (2)(3). $\blacksquare$
+综上, 能判断直线 $a\parallel{b}$ 的是 (2)(3). $\blacksquare$
 
 ## 习题十一
 
-(习题 7.2 复习巩固第 5 题) 如图, $a\parallel b$, 直线 $c$, $d$ 是截线, $\angle 1=80^\circ$, $\angle 5=70^\circ$. $\angle 2$, $\angle 3$, $\angle 4$ 各是多少度? 为什么?
+(习题 7.2 复习巩固第 5 题) 如图, $a\parallel{b}$, 直线 $c$, $d$ 是截线, $\angle1=80^\circ$, $\angle5=70^\circ$. $\angle2$, $\angle3$, $\angle4$ 各是多少度? 为什么?
 
-图中为两条平行直线 $a$, $b$ 被两条截线 $c$, $d$ 所截:在 $a$ 与 $c$ 的交点处标出 $\angle 1$, 在 $a$ 与 $d$ 的交点处标出 $\angle 5$; 在 $b$ 与 $c$ 的交点处标出与 $\angle 1$ 成内错角的 $\angle 2$, 在 $b$ 与 $d$ 的交点处标出与 $\angle 5$ 成同位角的 $\angle 3$ 及与 $\angle 5$ 成同旁内角的 $\angle 4$.
+图中为两条平行直线 $a$, $b$ 被两条截线 $c$, $d$ 所截:在 $a$ 与 $c$ 的交点处标出 $\angle1$, 在 $a$ 与 $d$ 的交点处标出 $\angle5$; 在 $b$ 与 $c$ 的交点处标出与 $\angle1$ 成内错角的 $\angle2$, 在 $b$ 与 $d$ 的交点处标出与 $\angle5$ 成同位角的 $\angle3$ 及与 $\angle5$ 成同旁内角的 $\angle4$.
 
 ### 解答 习题十一
 
-由 $a\parallel b$ 及各角位置, 用**性质 7.2.1 (性质 1)** 至**性质 7.2.3 (性质 3)** 求角.
+由 $a\parallel{b}$ 及各角位置, 用**性质 7.2.1 (性质 1)** 至**性质 7.2.3 (性质 3)** 求角.
 
-$\angle 1$ 与 $\angle 2$ 是直线 $a$, $b$ 被截线 $c$ 所截得的内错角, 由**性质 7.2.2 (性质 2)**, $\angle 2=\angle 1=80^\circ$.
+$\angle1$ 与 $\angle2$ 是直线 $a$, $b$ 被截线 $c$ 所截得的内错角, 由**性质 7.2.2 (性质 2)**, $\angle2=\angle1=80^\circ$.
 
-$\angle 5$ 与 $\angle 3$ 是直线 $a$, $b$ 被截线 $d$ 所截得的同位角, 由**性质 7.2.1 (性质 1)**, $\angle 3=\angle 5=70^\circ$.
+$\angle5$ 与 $\angle3$ 是直线 $a$, $b$ 被截线 $d$ 所截得的同位角, 由**性质 7.2.1 (性质 1)**, $\angle3=\angle5=70^\circ$.
 
-$\angle 5$ 与 $\angle 4$ 是直线 $a$, $b$ 被截线 $d$ 所截得的同旁内角, 由**性质 7.2.3 (性质 3)**, $\angle 4=180^\circ-\angle 5=180^\circ-70^\circ=110^\circ$.
+$\angle5$ 与 $\angle4$ 是直线 $a$, $b$ 被截线 $d$ 所截得的同旁内角, 由**性质 7.2.3 (性质 3)**, $\angle4=180^\circ-\angle5=180^\circ-70^\circ=110^\circ$.
 
-故 $\angle 2=80^\circ$, $\angle 3=70^\circ$, $\angle 4=110^\circ$. $\blacksquare$
+故 $\angle2=80^\circ$, $\angle3=70^\circ$, $\angle4=110^\circ$. $\blacksquare$
 
 ## 习题十二
 
@@ -430,14 +430,14 @@ $\angle 5$ 与 $\angle 4$ 是直线 $a$, $b$ 被截线 $d$ 所截得的同旁内
 
 ## 习题十四
 
-(习题 7.2 综合运用第 8 题) 当光线从水中射向空气时, 要发生折射, 在水中平行的光线, 折射到空气中也是平行的. 如图, $\angle 1=45^\circ$, $\angle 2=122^\circ$, 求图中 $\angle 3$, $\angle 4$ 的度数.
+(习题 7.2 综合运用第 8 题) 当光线从水中射向空气时, 要发生折射, 在水中平行的光线, 折射到空气中也是平行的. 如图, $\angle1=45^\circ$, $\angle2=122^\circ$, 求图中 $\angle3$, $\angle4$ 的度数.
 
 ### 解答 习题十四
 
 水中两条光线平行, 折射到空气中的两条光线也平行.
 
-$\angle 1$ 与 $\angle 3$ 是两条平行光线被界面法线 (或界面) 所截得的同位角, 由**性质 7.2.1 (性质 1)**, $\angle 3=\angle 1=45^\circ$.
+$\angle1$ 与 $\angle3$ 是两条平行光线被界面法线 (或界面) 所截得的同位角, 由**性质 7.2.1 (性质 1)**, $\angle3=\angle1=45^\circ$.
 
-$\angle 2$ 与 $\angle 4$ 是两条平行光线被同一直线所截得的同旁内角, 由**性质 7.2.3 (性质 3)**, 两直线平行, 同旁内角互补, 故 $\angle 4=180^\circ-\angle 2=180^\circ-122^\circ=58^\circ$.
+$\angle2$ 与 $\angle4$ 是两条平行光线被同一直线所截得的同旁内角, 由**性质 7.2.3 (性质 3)**, 两直线平行, 同旁内角互补, 故 $\angle4=180^\circ-\angle2=180^\circ-122^\circ=58^\circ$.
 
-故 $\angle 3=45^\circ$, $\angle 4=58^\circ$. $\blacksquare$
+故 $\angle3=45^\circ$, $\angle4=58^\circ$. $\blacksquare$

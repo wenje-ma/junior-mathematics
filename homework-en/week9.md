@@ -54,7 +54,7 @@
 
 > **Definition 5.1.4 (Properties of Equality 1)**
 > 
-> Adding (or subtracting) the same number (or expression) to both sides of an equality keeps the result equal. If $a=b$, then $a\pm c=b\pm c$.
+> Adding (or subtracting) the same number (or expression) to both sides of an equality keeps the result equal. If $a=b$, then $a\pm{c}=b\pm{c}$.
 
 > **Definition 5.1.5 (Properties of Equality 2)**
 > 
@@ -102,15 +102,15 @@ When $a=1$ and $b=-\frac{1}{2}$, the original expression is $=-10\times1\times\l
 
 ## Problem 3
 
-(Problem 4.2, Review and Consolidation, Problem 5) The altitude of place A is $h\ \text{m}$; place B is $20\ \text{m}$ higher than place A, and place C is $30\ \text{m}$ lower than place A. Express the altitudes of places B and C with expressions, and calculate the difference in altitude between place B and place C.
+(Problem 4.2, Review and Consolidation, Problem 5) The altitude of place A is $h\,\text{m}$; place B is $20\,\text{m}$ higher than place A, and place C is $30\,\text{m}$ lower than place A. Express the altitudes of places B and C with expressions, and calculate the difference in altitude between place B and place C.
 
 ### Solution to Problem 3
 
 By **Definition 4.2.4 (Rule for Adding and Subtracting Integral Expressions)**, the altitudes of B and C are expressed using expressions containing $h$, and the altitude difference is the difference between them.
 
-The altitude of place B is $\left(h+20\right)\ \text{m}$, and the altitude of place C is $\left(h-30\right)\ \text{m}$. The altitude difference between place B and place C is
+The altitude of place B is $\left(h+20\right)\,\text{m}$, and the altitude of place C is $\left(h-30\right)\,\text{m}$. The altitude difference between place B and place C is
 
-$$\left(h+20\right)-\left(h-30\right)=h+20-h+30=50\ \text{m}.$$
+$$\left(h+20\right)-\left(h-30\right)=h+20-h+30=50\,\text{m}.$$
 
 $\blacksquare$
 
@@ -128,7 +128,7 @@ The simplified result is the constant $2035$, independent of the value of $a$. H
 
 ## Problem 5
 
-(Problem 4.2, Comprehensive Application, Problem 7) Given that the first side of a triangle has length $3a+2b$ ($a> 0$, $b> 0$), the second side is $2a$ shorter than the first side, and the third side is $a-b$ longer than $2$ times the length of the second side.
+(Problem 4.2, Comprehensive Application, Problem 7) Given that the first side of a triangle has length $3a+2b$ ($a>0$, $b>0$), the second side is $2a$ shorter than the first side, and the third side is $a-b$ longer than $2$ times the length of the second side.
 
 (1) Find the lengths of the second and third sides;
 
@@ -148,7 +148,7 @@ $\blacksquare$
 
 ## Problem 6
 
-(Problem 4.2, Comprehensive Application, Problem 8) The upper part of a window is a semicircle, and the lower part consists of four small squares of equal side length. Given that the side length of the small squares in the lower part is $a\ \text{cm}$, calculate:
+(Problem 4.2, Comprehensive Application, Problem 8) The upper part of a window is a semicircle, and the lower part consists of four small squares of equal side length. Given that the side length of the small squares in the lower part is $a\,\text{cm}$, calculate:
 
 (1) The area of the window;
 
@@ -158,13 +158,13 @@ $\blacksquare$
 
 By **Definition 4.2.4 (Rule for Adding and Subtracting Integral Expressions)**, the area and perimeter are expressed as integral expressions containing $a$.
 
-(1) The area of the four small squares in the lower part is $4a^{2}$, and the upper semicircle has radius $a$ and area $\frac{1}{2}\pi a^{2}$. Hence the area of the window is
+(1) The area of the four small squares in the lower part is $4a^{2}$, and the upper semicircle has radius $a$ and area $\frac{1}{2}\pi{a}^{2}$. Hence the area of the window is
 
-$$4a^{2}+\frac{1}{2}\pi a^{2}=\left(4+\frac{\pi}{2}\right)a^{2}\ \text{cm}^{2}.$$
+$$4a^{2}+\frac{1}{2}\pi{a}^{2}=\left(4+\frac{\pi}{2}\right)a^{2}\,\text{cm}^{2}.$$
 
-(2) The lower outer frame consists of the bottom and the two sides, and the upper part is a semicircular arc. The total length of the outer frame is the sum of the semicircular circumference $\pi a$ and the three lower sides (the two sides of height $2a$ plus the bottom of width $2a$):
+(2) The lower outer frame consists of the bottom and the two sides, and the upper part is a semicircular arc. The total length of the outer frame is the sum of the semicircular circumference $\pi{a}$ and the three lower sides (the two sides of height $2a$ plus the bottom of width $2a$):
 
-$$\pi a+2a+2a+2a=\left(\pi+6\right)a\ \text{cm}.$$
+$$\pi{a}+2a+2a+2a=\left(\pi+6\right)a\,\text{cm}.$$
 
 $\blacksquare$
 
@@ -178,13 +178,13 @@ By **Definition 4.2.4 (Rule for Adding and Subtracting Integral Expressions)**, 
 
 The original selling price is the cost plus $20\%$, i.e. $a+0.2a=1.2a$ yuan. The current selling price is $90\%$ of the original price, i.e. $1.2a\times0.9=1.08a$ yuan. The profit per item is the current selling price minus the cost, i.e.
 
-$$1.08a-a=0.08a\ \text{元}.$$
+$$1.08a-a=0.08a\,\text{元}.$$
 
 $\blacksquare$
 
 ## Problem 8
 
-(Problem 4.2, Extension and Exploration, Problem 10) Some points form a triangle-shaped figure, with $n$ ($n> 1$) points on each "side" (including the two vertices). What is the total number $S$ of points in this figure? When $n=5$, $7$, $11$, what are the respective values of $S$?
+(Problem 4.2, Extension and Exploration, Problem 10) Some points form a triangle-shaped figure, with $n$ ($n>1$) points on each "side" (including the two vertices). What is the total number $S$ of points in this figure? When $n=5$, $7$, $11$, what are the respective values of $S$?
 
 ### Solution to Problem 8
 
@@ -198,7 +198,7 @@ When $n=5$, $S=3\times5-3=12$; when $n=7$, $S=3\times7-3=18$; when $n=11$, $S=3\
 
 ## Problem 9
 
-(Problem 4.2, Extension and Exploration, Problem 11) $10$ cubes of edge length $a\ \text{cm}$ are arranged in the shape shown in the figure. What is the surface area of this figure in square centimeters?
+(Problem 4.2, Extension and Exploration, Problem 11) $10$ cubes of edge length $a\,\text{cm}$ are arranged in the shape shown in the figure. What is the surface area of this figure in square centimeters?
 
 ### Solution to Problem 9
 
@@ -206,7 +206,7 @@ By **Definition 4.2.4 (Rule for Adding and Subtracting Integral Expressions)**, 
 
 Viewing the figure from the six directions of front, back, left, right, top and bottom, $6$ square faces can be seen in each direction (stacked in three layers as shown). There are $6\times6=36$ square faces in total, each of area $a^{2}$. Hence the surface area is
 
-$$36a^{2}\ \text{cm}^{2}.$$
+$$36a^{2}\,\text{cm}^{2}.$$
 
 $\blacksquare$
 
@@ -272,7 +272,7 @@ Similarly, for the three-digit number $100a+10b+c=99a+9b+\left(a+b+c\right)$, bo
 
 (Review Problem, Review and Consolidation, Problem 1) Which of the following integral expressions are monomials? Which are polynomials? For the monomials, state the coefficient and degree; for the polynomials, state the terms and degree:
 
-$$-\frac{1}{2}a^{2}b,\ \frac{m^{4}n^{2}}{7},\ x^{2}+y^{2}-1,\ x,\ 3x^{2}-y+3xy^{2}+x^{4}-1,\ 32t^{3},\ 2x-y.$$
+$$-\frac{1}{2}a^{2}b,\,\frac{m^{4}n^{2}}{7},\,x^{2}+y^{2}-1,\,x,\,3x^{2}-y+3xy^{2}+x^{4}-1,\,32t^{3},\,2x-y.$$
 
 ### Solution to Review Problem 1
 
@@ -402,15 +402,15 @@ $\blacksquare$
 
 ## Review Problem 7
 
-(Review Problem, Comprehensive Application, Problem 7) A ship first travels downstream for $3\ \text{h}$, then travels upstream for $1.5\ \text{h}$. Given that the ship's speed in still water is $a\ \text{km/h}$ and the current speed is $b\ \text{km/h}$, how many kilometers did the ship travel in total?
+(Review Problem, Comprehensive Application, Problem 7) A ship first travels downstream for $3\,\text{h}$, then travels upstream for $1.5\,\text{h}$. Given that the ship's speed in still water is $a\,\text{km/h}$ and the current speed is $b\,\text{km/h}$, how many kilometers did the ship travel in total?
 
 ### Solution to Review Problem 7
 
 By **Definition 4.2.4 (Rule for Adding and Subtracting Integral Expressions)**, the downstream speed is $\left(a+b\right)$ and the upstream speed is $\left(a-b\right)$.
 
-The downstream distance is $3\left(a+b\right)\ \text{km}$, and the upstream distance is $1.5\left(a-b\right)\ \text{km}$. The total distance is
+The downstream distance is $3\left(a+b\right)\,\text{km}$, and the upstream distance is $1.5\left(a-b\right)\,\text{km}$. The total distance is
 
-$$3\left(a+b\right)+1.5\left(a-b\right)=3a+3b+1.5a-1.5b=4.5a+1.5b\ \text{km}.$$
+$$3\left(a+b\right)+1.5\left(a-b\right)=3a+3b+1.5a-1.5b=4.5a+1.5b\,\text{km}.$$
 
 $\blacksquare$
 
@@ -470,13 +470,13 @@ $\blacksquare$
 
 ## Exercise 2
 
-(Exercise 5.1, Problem 2) There are two cables; the first is $90\ \text{m}$ long and the second is $40\ \text{m}$ long. A section is to be cut from the first and attached to the second so that the two cables have equal lengths. Find the length of the section cut off. (Just set up the equation.)
+(Exercise 5.1, Problem 2) There are two cables; the first is $90\,\text{m}$ long and the second is $40\,\text{m}$ long. A section is to be cut from the first and attached to the second so that the two cables have equal lengths. Find the length of the section cut off. (Just set up the equation.)
 
 ### Solution to Exercise 2
 
-By **Definition 5.1.1 (Equation)**, let the cut-off length be $x\ \text{m}$.
+By **Definition 5.1.1 (Equation)**, let the cut-off length be $x\,\text{m}$.
 
-After cutting, the first is $\left(90-x\right)\ \text{m}$ long and the second is $\left(40+x\right)\ \text{m}$ long. The two are equal, so the equation is
+After cutting, the first is $\left(90-x\right)\,\text{m}$ long and the second is $\left(40+x\right)\,\text{m}$ long. The two are equal, so the equation is
 
 $$90-x=40+x.$$
 
@@ -484,15 +484,15 @@ $\blacksquare$
 
 ## Exercise 3
 
-(Exercise 5.1, Problem 3) The area of an annular workpiece is $200\ \text{cm}^{2}$, and the radius of the outer large circle is $10\ \text{cm}$. What is the radius of the inner small circle in centimeters? (Just set up the equation.)
+(Exercise 5.1, Problem 3) The area of an annular workpiece is $200\,\text{cm}^{2}$, and the radius of the outer large circle is $10\,\text{cm}$. What is the radius of the inner small circle in centimeters? (Just set up the equation.)
 
 ### Solution to Exercise 3
 
-By **Definition 5.1.1 (Equation)**, let the radius of the inner small circle be $r\ \text{cm}$.
+By **Definition 5.1.1 (Equation)**, let the radius of the inner small circle be $r\,\text{cm}$.
 
-The annulus area is the large circle area minus the small circle area: $\pi\cdot10^{2}-\pi r^{2}=200$. The equation is
+The annulus area is the large circle area minus the small circle area: $\pi\cdot10^{2}-\pi{r}^{2}=200$. The equation is
 
-$$100\pi-\pi r^{2}=200.$$
+$$100\pi-\pi{r}^{2}=200.$$
 
 $\blacksquare$
 

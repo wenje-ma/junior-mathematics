@@ -2,7 +2,7 @@
 
 > **Conclusion 25.2.1 (Direct Square Root Extraction)**
 > 
-> For the equation $x^2=p$: (1) when $p> 0$, the equation has two unequal real roots $x=\pm\sqrt p$; (2) when $p=0$, the equation has two equal real roots $x_1=x_2=0$; (3) when $p< 0$, since $x^2\ge0$ for every real number $x$, the equation has no real root.
+> For the equation $x^2=p$: (1) when $p>0$, the equation has two unequal real roots $x=\pm\sqrt{p}$; (2) when $p=0$, the equation has two equal real roots $x_1=x_2=0$; (3) when $p<0$, since $x^2\ge0$ for every real number $x$, the equation has no real root.
 
 > **Definition 25.2.2 (Discriminant)**
 > 
@@ -10,15 +10,15 @@
 
 > **Conclusion 25.2.3 (Nature of the Roots)**
 > 
-> For the equation $ax^2+bx+c=0\ \left(a\ne0\right)$: when $\Delta> 0$, the equation has two unequal real roots; when $\Delta=0$, the equation has two equal real roots; when $\Delta< 0$, the equation has no real root.
+> For the equation $ax^2+bx+c=0\,\left(a\ne0\right)$: when $\Delta>0$, the equation has two unequal real roots; when $\Delta=0$, the equation has two equal real roots; when $\Delta<0$, the equation has no real root.
 
 > **Definition 25.2.3 (Quadratic Formula)**
 > 
-> When $\Delta\ge0$, the real roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$; this expression is called the quadratic formula. The method of substituting the coefficients into the quadratic formula to find the roots directly is called the formula method.
+> When $\Delta\ge0$, the real roots of $ax^2+bx+c=0\,\left(a\ne0\right)$ are $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$; this expression is called the quadratic formula. The method of substituting the coefficients into the quadratic formula to find the roots directly is called the formula method.
 
 > **Conclusion 25.2.5 (Relation Between Roots and Coefficients)**
 > 
-> If the two roots of $ax^2+bx+c=0\ \left(a\ne0\right)$ are $x_1,x_2$, then $x_1+x_2=-\frac ba$, $x_1x_2=\frac ca$. This relation can also be obtained by comparing coefficients in the factorization $ax^2+bx+c=a\left(x-x_1\right)\left(x-x_2\right)$.
+> If the two roots of $ax^2+bx+c=0\,\left(a\ne0\right)$ are $x_1,x_2$, then $x_1+x_2=-\frac{b}a$, $x_1x_2=\frac{c}a$. This relation can also be obtained by comparing coefficients in the factorization $ax^2+bx+c=a\left(x-x_1\right)\left(x-x_2\right)$.
 
 > **Conclusion 25.3.4 (Match-Schedule Model)**
 > 
@@ -30,19 +30,19 @@
 
 > **Conclusion 26.2.1 (The Parabola $y=ax^2$)**
 > 
-> The axis of symmetry of the parabola $y=ax^2$ is the $y$-axis, and its vertex is the origin. When $a> 0$ it opens upward and the vertex is the lowest point; when $a< 0$ it opens downward and the vertex is the highest point. The larger $\left|a\right|$ is, the narrower the opening. When $a> 0$, $y$ decreases as $x$ increases for $x< 0$, and $y$ increases as $x$ increases for $x> 0$; when $a< 0$ the reverse holds.
+> The axis of symmetry of the parabola $y=ax^2$ is the $y$-axis, and its vertex is the origin. When $a>0$ it opens upward and the vertex is the lowest point; when $a<0$ it opens downward and the vertex is the highest point. The larger $\left|a\right|$ is, the narrower the opening. When $a>0$, $y$ decreases as $x$ increases for $x<0$, and $y$ increases as $x$ increases for $x>0$; when $a<0$ the reverse holds.
 
 > **Conclusion 26.2.2 (Translation)**
 > 
-> Translating the parabola $y=ax^2$ upward ($k> 0$) or downward ($k< 0$) by $\left|k\right|$ units gives $y=ax^2+k$; translating it left ($h< 0$) or right ($h> 0$) by $\left|h\right|$ units gives $y=a\left(x-h\right)^2$; combining both translations gives $y=a\left(x-h\right)^2+k$.
+> Translating the parabola $y=ax^2$ upward ($k>0$) or downward ($k<0$) by $\left|k\right|$ units gives $y=ax^2+k$; translating it left ($h<0$) or right ($h>0$) by $\left|h\right|$ units gives $y=a\left(x-h\right)^2$; combining both translations gives $y=a\left(x-h\right)^2+k$.
 
 > **Conclusion 26.2.3 (The Parabola $y=a\left(x-h\right)**
-> 
-> ^2+k$) It opens upward when $a> 0$ and downward when $a< 0$; its axis of symmetry is $x=h$; its vertex is $\left(h,k\right)$. When $a> 0$, the minimum $k$ is taken at $x=h$; when $a< 0$, the maximum $k$ is taken at $x=h$.
+>
+>^2+k$) It opens upward when $a>0$ and downward when $a<0$; its axis of symmetry is $x=h$; its vertex is $\left(h,k\right)$. When $a>0$, the minimum $k$ is taken at $x=h$; when $a<0$, the maximum $k$ is taken at $x=h$.
 
 > **Conclusion 26.2.4 (The Parabola $y=ax^2+bx+c$)**
 > 
-> Completing the square gives $y=a\left(x+\frac b{2a}\right)^2+\frac{4ac-b^2}{4a}$; the axis of symmetry is $x=-\frac b{2a}$ and the vertex is $\left(-\frac b{2a},\frac{4ac-b^2}{4a}\right)$. When $a> 0$, the minimum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac b{2a}$; when $a< 0$, the maximum is taken there.
+> Completing the square gives $y=a\left(x+\frac{b}{2a}\right)^2+\frac{4ac-b^2}{4a}$; the axis of symmetry is $x=-\frac{b}{2a}$ and the vertex is $\left(-\frac{b}{2a},\frac{4ac-b^2}{4a}\right)$. When $a>0$, the minimum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac{b}{2a}$; when $a<0$, the maximum is taken there.
 
 ## Review Problem 1
 
@@ -58,43 +58,43 @@ $$
 
 By Nature of the Roots:
 
-When $\Delta> 0$, i.e. $8k+9> 0$, $k> -\frac98$, the equation has two unequal real roots;
+When $\Delta>0$, i.e. $8k+9>0$, $k>-\frac98$, the equation has two unequal real roots;
 
 When $\Delta=0$, i.e. $k=-\frac98$, the equation has two equal real roots;
 
-When $\Delta< 0$, i.e. $k< -\frac98$, the equation has no real root. $\blacksquare$
+When $\Delta<0$, i.e. $k<-\frac98$, the equation has no real root. $\blacksquare$
 
 ## Review Problem 2
 
-(Review, Comprehensive Application, Problem 6) The lower base of a right trapezoid is $2\ \text{cm}$ longer than the upper base, and its height is $1\ \text{cm}$ shorter than the upper base; its area is $8\ \text{cm}^2$. Draw this trapezoid.
+(Review, Comprehensive Application, Problem 6) The lower base of a right trapezoid is $2\,\text{cm}$ longer than the upper base, and its height is $1\,\text{cm}$ shorter than the upper base; its area is $8\,\text{cm}^2$. Draw this trapezoid.
 
-The figure shows a right trapezoid: the upper base is short, the lower base is $2\ \text{cm}$ longer, the left leg is perpendicular to both bases (i.e. the height), and the right leg is slanted; the final dimensions are upper base $3\ \text{cm}$, lower base $5\ \text{cm}$, height $2\ \text{cm}$.
+The figure shows a right trapezoid: the upper base is short, the lower base is $2\,\text{cm}$ longer, the left leg is perpendicular to both bases (i.e. the height), and the right leg is slanted; the final dimensions are upper base $3\,\text{cm}$, lower base $5\,\text{cm}$, height $2\,\text{cm}$.
 
 ### Solution to Review Problem 2
 
-Let the upper base be $x\ \text{cm}$; then the lower base is $\left(x+2\right)\ \text{cm}$ and the height is $\left(x-1\right)\ \text{cm}$. By the trapezoid area formula, set up
+Let the upper base be $x\,\text{cm}$; then the lower base is $\left(x+2\right)\,\text{cm}$ and the height is $\left(x-1\right)\,\text{cm}$. By the trapezoid area formula, set up
 
 $$
 \frac12[x+(x+2)](x-1)=8.
 $$
 
-i.e. $\left(x+1\right)\left(x-1\right)=8$, $x^2-1=8$, $x^2=9$, solving gives $x=3$ (discarding the negative root). Hence the upper base is $3\ \text{cm}$, the lower base $5\ \text{cm}$, and the height $2\ \text{cm}$; the trapezoid is as shown. $\blacksquare$
+i.e. $\left(x+1\right)\left(x-1\right)=8$, $x^2-1=8$, $x^2=9$, solving gives $x=3$ (discarding the negative root). Hence the upper base is $3\,\text{cm}$, the lower base $5\,\text{cm}$, and the height $2\,\text{cm}$; the trapezoid is as shown. $\blacksquare$
 
 ## Review Problem 3
 
-(Review, Comprehensive Application, Problem 7) The length-to-width ratio of a rectangular box is $5:2$, its height is $5\ \text{cm}$, and its surface area is $40\ \text{cm}^2$. Draw the net of this box.
+(Review, Comprehensive Application, Problem 7) The length-to-width ratio of a rectangular box is $5:2$, its height is $5\,\text{cm}$, and its surface area is $40\,\text{cm}^2$. Draw the net of this box.
 
-The figure shows a plane net of a rectangular box: six rectangular faces arranged in a cross or side-by-side pattern, with final dimensions length $2.5\ \text{cm}$, width $1\ \text{cm}$, height $5\ \text{cm}$.
+The figure shows a plane net of a rectangular box: six rectangular faces arranged in a cross or side-by-side pattern, with final dimensions length $2.5\,\text{cm}$, width $1\,\text{cm}$, height $5\,\text{cm}$.
 
 ### Solution to Review Problem 3
 
-Let the length be $5a\ \text{cm}$, the width $2a\ \text{cm}$, and the height $5\ \text{cm}$. By the rectangular-box surface-area formula, set up
+Let the length be $5a\,\text{cm}$, the width $2a\,\text{cm}$, and the height $5\,\text{cm}$. By the rectangular-box surface-area formula, set up
 
 $$
 2\left(5a\cdot2a+5a\cdot5+2a\cdot5\right)=40.
 $$
 
-i.e. $2\left(10a^2+25a+10a\right)=40$, $20a^2+70a=40$, i.e. $2a^2+7a-4=0$; factoring gives $\left(2a-1\right)\left(a+4\right)=0$, solving gives $a=\frac12$ (discarding the negative root). Hence the length is $2.5\ \text{cm}$, the width $1\ \text{cm}$, and the height $5\ \text{cm}$; the net is as shown. $\blacksquare$
+i.e. $2\left(10a^2+25a+10a\right)=40$, $20a^2+70a=40$, i.e. $2a^2+7a-4=0$; factoring gives $\left(2a-1\right)\left(a+4\right)=0$, solving gives $a=\frac12$ (discarding the negative root). Hence the length is $2.5\,\text{cm}$, the width $1\,\text{cm}$, and the height $5\,\text{cm}$; the net is as shown. $\blacksquare$
 
 ## Review Problem 4
 
@@ -112,11 +112,11 @@ i.e. $n\left(n-1\right)=30$, $n^2-n-30=0$, i.e. $\left(n-6\right)\left(n+5\right
 
 ## Review Problem 5
 
-(Review, Comprehensive Application, Problem 9) As shown in the figure, alongside a wall (whose length is unlimited), how can a fence of length $20\ \text{m}$ be used to enclose a rectangular vegetable garden of area $48\ \text{m}^2$?
+(Review, Comprehensive Application, Problem 9) As shown in the figure, alongside a wall (whose length is unlimited), how can a fence of length $20\,\text{m}$ be used to enclose a rectangular vegetable garden of area $48\,\text{m}^2$?
 
 ### Solution to Review Problem 5
 
-Let the side perpendicular to the wall be $x\ \text{m}$; then the side parallel to the wall is $\left(20-2x\right)\ \text{m}$. Since the area is $48\ \text{m}^2$, set up
+Let the side perpendicular to the wall be $x\,\text{m}$; then the side parallel to the wall is $\left(20-2x\right)\,\text{m}$. Since the area is $48\,\text{m}^2$, set up
 
 $$
 x\left(20-2x\right)=48.
@@ -124,7 +124,7 @@ $$
 
 Rearranging gives $x^2-10x+24=0$, i.e. $\left(x-4\right)\left(x-6\right)=0$, solving gives $x=4$ or $x=6$.
 
-When $x=4$, the side parallel to the wall is $20-8=12\ \text{m}$; when $x=6$, it is $20-12=8\ \text{m}$. Both enclose an area of $48\ \text{m}^2$ and are both valid. $\blacksquare$
+When $x=4$, the side parallel to the wall is $20-8=12\,\text{m}$; when $x=6$, it is $20-12=8\,\text{m}$. Both enclose an area of $48\,\text{m}^2$ and are both valid. $\blacksquare$
 
 ## Review Problem 6
 
@@ -138,7 +138,7 @@ $$
 1.75\%\left(1-x\right)^2=1.50\%.
 $$
 
-Hence $\left(1-x\right)^2=\frac{1.50}{1.75}=\frac67\approx0.8571$; since the cut rate is positive and $x< 1$, $1-x=\sqrt{0.8571}\approx0.9258$, hence
+Hence $\left(1-x\right)^2=\frac{1.50}{1.75}=\frac67\approx0.8571$; since the cut rate is positive and $x<1$, $1-x=\sqrt{0.8571}\approx0.9258$, hence
 
 $$
 x\approx0.0742=7.42\%.
@@ -190,29 +190,29 @@ i.e. $n\left(n+1\right)=600$, $n^2+n-600=0$; by the quadratic formula, $n=\frac{
 
 ## Review Problem 9
 
-(Review, Extension and Exploration, Problem 13) A ball starts rolling forward at $5\ \text{m/s}$ and decelerates uniformly, coming to rest after $4\ \text{s}$.
+(Review, Extension and Exploration, Problem 13) A ball starts rolling forward at $5\,\text{m/s}$ and decelerates uniformly, coming to rest after $4\,\text{s}$.
 
 (1) On average, by how much does the ball's rolling speed decrease per second?
 
-(2) How many seconds does the ball take to roll $5\ \text{m}$ (rounded to one decimal place)?
+(2) How many seconds does the ball take to roll $5\,\text{m}$ (rounded to one decimal place)?
 
-(Hint: in uniformly accelerated linear motion, the average velocity over each time interval (the arithmetic mean of the initial and final velocities) relates to the distance $l$ and time $t$ by $l=$ average velocity $\times t$.)
+(Hint: in uniformly accelerated linear motion, the average velocity over each time interval (the arithmetic mean of the initial and final velocities) relates to the distance $l$ and time $t$ by $l=$ average velocity $\times{t}$.)
 
 ### Solution to Review Problem 9
 
-(1) The ball's initial velocity is $5\ \text{m/s}$; after $4\ \text{s}$ the velocity drops to $0$, hence the average decrease per second is
+(1) The ball's initial velocity is $5\,\text{m/s}$; after $4\,\text{s}$ the velocity drops to $0$, hence the average decrease per second is
 
 $$
-\frac{5-0}{4}=1.25\ \text{m/s}.
+\frac{5-0}{4}=1.25\,\text{m/s}.
 $$
 
-(2) Let the velocity after rolling $t\ \text{s}$ be $5-1.25t\ \left(\text{m/s}\right)$. The average velocity over this interval is $\frac{5+\left(5-1.25t\right)}2$; by the hint, the distance is
+(2) Let the velocity after rolling $t\,\text{s}$ be $5-1.25t\,\left(\text{m/s}\right)$. The average velocity over this interval is $\frac{5+\left(5-1.25t\right)}2$; by the hint, the distance is
 
 $$
-l=\frac{5+\left(5-1.25t\right)}2\cdot t=\left(5-\frac{1.25}2 t\right)t=5t-0.625t^2.
+l=\frac{5+\left(5-1.25t\right)}2\cdot{t}=\left(5-\frac{1.25}2t\right)t=5t-0.625t^2.
 $$
 
-Setting $l=5$ gives $5t-0.625t^2=5$, i.e. $t^2-8t+8=0$, solving gives $t=\frac{8\pm\sqrt{32}}2=4\pm2\sqrt2$. Since $t< 4$, take $t=4-2\sqrt2\approx1.2$. Hence the ball takes about $1.2\ \text{s}$ to roll $5\ \text{m}$. $\blacksquare$
+Setting $l=5$ gives $5t-0.625t^2=5$, i.e. $t^2-8t+8=0$, solving gives $t=\frac{8\pm\sqrt{32}}2=4\pm2\sqrt2$. Since $t<4$, take $t=4-2\sqrt2\approx1.2$. Hence the ball takes about $1.2\,\text{s}$ to roll $5\,\text{m}$. $\blacksquare$
 
 ## Exercise 1
 
@@ -240,11 +240,11 @@ By **Definition 26.1.1 (Quadratic Function)**, put each expression in the form $
 
 ## Exercise 2
 
-(Exercise 26.1, Problem 2) As shown in the figure, each side of a rectangular green area is increased by $x\ \text{m}$, and the expanded area is $y\ \text{m}^2$. The original green area is $30\ \text{m}$ long and $20\ \text{m}$ wide; write the function expression for $y$ in terms of $x$.
+(Exercise 26.1, Problem 2) As shown in the figure, each side of a rectangular green area is increased by $x\,\text{m}$, and the expanded area is $y\,\text{m}^2$. The original green area is $30\,\text{m}$ long and $20\,\text{m}$ wide; write the function expression for $y$ in terms of $x$.
 
 ### Solution to Exercise 2
 
-After expansion, the green area is $\left(30+x\right)\ \text{m}$ long and $\left(20+x\right)\ \text{m}$ wide. By the rectangle area formula,
+After expansion, the green area is $\left(30+x\right)\,\text{m}$ long and $\left(20+x\right)\,\text{m}$ wide. By the rectangle area formula,
 
 $$
 y=\left(30+x\right)\left(20+x\right)=x^2+50x+600.
@@ -292,37 +292,37 @@ Hence $y=30000\left(1+x\right)^2$. $\blacksquare$
 
 ## Problem 3
 
-(Exercise 26.1, Comprehensive Application, Problem 3) As shown in the figure, a circular mirror is surrounded by a frame of width $5\ \text{cm}$. Given that the mirror surface costs $180$ yuan per square meter and the frame costs $100$ yuan per square meter, find the function expression for the price $y$ (in yuan) of the mirror in terms of the mirror radius $r$ (in $\text{m}$).
+(Exercise 26.1, Comprehensive Application, Problem 3) As shown in the figure, a circular mirror is surrounded by a frame of width $5\,\text{cm}$. Given that the mirror surface costs $180$ yuan per square meter and the frame costs $100$ yuan per square meter, find the function expression for the price $y$ (in yuan) of the mirror in terms of the mirror radius $r$ (in $\text{m}$).
 
 ### Solution to Problem 3
 
-The frame width is $5\ \text{cm}=0.05\ \text{m}$; hence the mirror radius is $r\ \text{m}$, and the outer radius including the frame is $\left(r+0.05\right)\ \text{m}$.
+The frame width is $5\,\text{cm}=0.05\,\text{m}$; hence the mirror radius is $r\,\text{m}$, and the outer radius including the frame is $\left(r+0.05\right)\,\text{m}$.
 
-The mirror surface area is $\pi r^2$, costing $180\pi r^2$ yuan. The frame area is $\pi\left(r+0.05\right)^2-\pi r^2$, costing $100\left[\pi\left(r+0.05\right)^2-\pi r^2\right]$ yuan. Hence the total price is
+The mirror surface area is $\pi{r}^2$, costing $180\pi{r}^2$ yuan. The frame area is $\pi\left(r+0.05\right)^2-\pi{r}^2$, costing $100\left[\pi\left(r+0.05\right)^2-\pi{r}^2\right]$ yuan. Hence the total price is
 
 $$
-y=180\pi r^2+100\pi\left[\left(r+0.05\right)^2-r^2\right].
+y=180\pi{r}^2+100\pi\left[\left(r+0.05\right)^2-r^2\right].
 $$
 
-Expanding gives $y=180\pi r^2+100\pi\left(0.1r+0.0025\right)=180\pi r^2+10\pi r+0.25\pi$. $\blacksquare$
+Expanding gives $y=180\pi{r}^2+100\pi\left(0.1r+0.0025\right)=180\pi{r}^2+10\pi{r}+0.25\pi$. $\blacksquare$
 
 ## Problem 4
 
-(Exercise 26.1, Extension and Exploration, Problem 4) As shown in the figure, a steel ball starts from rest at the top of an inclined plane and rolls down it; its speed increases by $1.5\ \text{m/s}$ each second.
+(Exercise 26.1, Extension and Exploration, Problem 4) As shown in the figure, a steel ball starts from rest at the top of an inclined plane and rolls down it; its speed increases by $1.5\,\text{m/s}$ each second.
 
 (1) Write the function expression for the distance $l$ rolled by the ball (in $\text{m}$) in terms of rolling time $t$ (in $\text{s}$). (Hint: distance $=$ average velocity $\times$ time.)
 
-(2) If the inclined plane is $3\ \text{m}$ long, how long does the ball take to roll from the top to the bottom?
+(2) If the inclined plane is $3\,\text{m}$ long, how long does the ball take to roll from the top to the bottom?
 
 ### Solution to Problem 4
 
-(1) The ball starts from rest; at $t\ \text{s}$ its velocity is $1.5t\ \text{m/s}$, and the average velocity over this interval is $\frac{0+1.5t}2=0.75t$, hence
+(1) The ball starts from rest; at $t\,\text{s}$ its velocity is $1.5t\,\text{m/s}$, and the average velocity over this interval is $\frac{0+1.5t}2=0.75t$, hence
 
 $$
-l=0.75t\cdot t=0.75t^2.
+l=0.75t\cdot{t}=0.75t^2.
 $$
 
-(2) The plane is $3\ \text{m}$ long; setting $l=3$ gives $0.75t^2=3$, i.e. $t^2=4$, taking the positive root $t=2$. Hence it takes $2\ \text{s}$ to roll to the bottom. $\blacksquare$
+(2) The plane is $3\,\text{m}$ long; setting $l=3$ gives $0.75t^2=3$, i.e. $t^2=4$, taking the positive root $t=2$. Hence it takes $2\,\text{s}$ to roll to the bottom. $\blacksquare$
 
 ## Exercise 4
 
@@ -336,7 +336,7 @@ The figure shows two parabolas in one plane rectangular coordinate system: $y=3x
 
 ### Solution to Exercise 4
 
-By The Parabola $y=ax^2$, both parabolas have the $y$-axis as their axis of symmetry and the origin as vertex. (1) $a=3> 0$, opens upward; (2) $a=-3< 0$, opens downward; the two are symmetric about the $x$-axis, and the graphs are as shown. $\blacksquare$
+By The Parabola $y=ax^2$, both parabolas have the $y$-axis as their axis of symmetry and the origin as vertex. (1) $a=3>0$, opens upward; (2) $a=-3<0$, opens downward; the two are symmetric about the $x$-axis, and the graphs are as shown. $\blacksquare$
 
 ## Exercise 5
 
@@ -350,9 +350,9 @@ By The Parabola $y=ax^2$, both parabolas have the $y$-axis as their axis of symm
 
 By The Parabola $y=ax^2$.
 
-(1) $a=4> 0$, opens upward; axis of symmetry is the $y$-axis; vertex is the origin $\left(0,0\right)$, the lowest point. For $x< 0$, $y$ decreases as $x$ increases; for $x> 0$, $y$ increases as $x$ increases.
+(1) $a=4>0$, opens upward; axis of symmetry is the $y$-axis; vertex is the origin $\left(0,0\right)$, the lowest point. For $x<0$, $y$ decreases as $x$ increases; for $x>0$, $y$ increases as $x$ increases.
 
-(2) $a=-4< 0$, opens downward; axis of symmetry is the $y$-axis; vertex is the origin $\left(0,0\right)$, the highest point. For $x< 0$, $y$ increases as $x$ increases; for $x> 0$, $y$ decreases as $x$ increases. $\blacksquare$
+(2) $a=-4<0$, opens downward; axis of symmetry is the $y$-axis; vertex is the origin $\left(0,0\right)$, the highest point. For $x<0$, $y$ increases as $x$ increases; for $x>0$, $y$ decreases as $x$ increases. $\blacksquare$
 
 ## Exercise 6
 
@@ -362,7 +362,7 @@ The figure shows three parabolas of the same shape, all opening upward with the 
 
 ### Solution to Exercise 6
 
-By Translation, $y=x^2+1$ is obtained by translating $y=x^2$ up $1$ unit, and $y=x^2-1$ by translating $y=x^2$ down $1$ unit; the three parabolas have the same shape and differ only in vertical position. All three have $a=1> 0$, open upward, and share the $y$-axis as their axis of symmetry; their vertices are $\left(0,0\right)$, $\left(0,1\right)$, and $\left(0,-1\right)$ respectively. $\blacksquare$
+By Translation, $y=x^2+1$ is obtained by translating $y=x^2$ up $1$ unit, and $y=x^2-1$ by translating $y=x^2$ down $1$ unit; the three parabolas have the same shape and differ only in vertical position. All three have $a=1>0$, open upward, and share the $y$-axis as their axis of symmetry; their vertices are $\left(0,0\right)$, $\left(0,1\right)$, and $\left(0,-1\right)$ respectively. $\blacksquare$
 
 ## Exercise 7
 
@@ -372,7 +372,7 @@ The figure shows three parabolas of the same shape, all opening downward: $y=-x^
 
 ### Solution to Exercise 7
 
-By Translation, $y=-\left(x+2\right)^2$ is obtained by translating $y=-x^2$ left $2$ units, and $y=-\left(x-2\right)^2$ by translating $y=-x^2$ right $2$ units. All three have $a=-1< 0$ and open downward; their axes of symmetry are $x=0$, $x=-2$, and $x=2$ respectively; their vertices are $\left(0,0\right)$, $\left(-2,0\right)$, and $\left(2,0\right)$ respectively. $\blacksquare$
+By Translation, $y=-\left(x+2\right)^2$ is obtained by translating $y=-x^2$ left $2$ units, and $y=-\left(x-2\right)^2$ by translating $y=-x^2$ right $2$ units. All three have $a=-1<0$ and open downward; their axes of symmetry are $x=0$, $x=-2$, and $x=2$ respectively; their vertices are $\left(0,0\right)$, $\left(-2,0\right)$, and $\left(2,0\right)$ respectively. $\blacksquare$
 
 ## Exercise 8
 
@@ -390,13 +390,13 @@ By Translation, $y=-\left(x+2\right)^2$ is obtained by translating $y=-x^2$ left
 
 By The Parabola $y=a\left(x-h\right^2+k$), read off the axis of symmetry $x=h$ and vertex $\left(h,k\right)$ from $h,k$.
 
-(1) $a=2> 0$, opens upward; axis of symmetry $x=-3$; vertex $\left(-3,5\right)$, the lowest point. For $x< -3$, $y$ decreases as $x$ increases; for $x> -3$, $y$ increases as $x$ increases.
+(1) $a=2>0$, opens upward; axis of symmetry $x=-3$; vertex $\left(-3,5\right)$, the lowest point. For $x<-3$, $y$ decreases as $x$ increases; for $x>-3$, $y$ increases as $x$ increases.
 
-(2) $a=-3< 0$, opens downward; axis of symmetry $x=1$; vertex $\left(1,-2\right)$, the highest point. For $x< 1$, $y$ increases as $x$ increases; for $x> 1$, $y$ decreases as $x$ increases.
+(2) $a=-3<0$, opens downward; axis of symmetry $x=1$; vertex $\left(1,-2\right)$, the highest point. For $x<1$, $y$ increases as $x$ increases; for $x>1$, $y$ decreases as $x$ increases.
 
-(3) $a=4> 0$, opens upward; axis of symmetry $x=3$; vertex $\left(3,7\right)$, the lowest point. For $x< 3$, $y$ decreases as $x$ increases; for $x> 3$, $y$ increases as $x$ increases.
+(3) $a=4>0$, opens upward; axis of symmetry $x=3$; vertex $\left(3,7\right)$, the lowest point. For $x<3$, $y$ decreases as $x$ increases; for $x>3$, $y$ increases as $x$ increases.
 
-(4) $a=-5< 0$, opens downward; axis of symmetry $x=-2$; vertex $\left(-2,-6\right)$, the highest point. For $x< -2$, $y$ increases as $x$ increases; for $x> -2$, $y$ decreases as $x$ increases. $\blacksquare$
+(4) $a=-5<0$, opens downward; axis of symmetry $x=-2$; vertex $\left(-2,-6\right)$, the highest point. For $x<-2$, $y$ increases as $x$ increases; for $x>-2$, $y$ decreases as $x$ increases. $\blacksquare$
 
 ## Exercise 9
 
@@ -410,9 +410,9 @@ By The Parabola $y=a\left(x-h\right^2+k$), read off the axis of symmetry $x=h$ a
 
 By The Parabola $y=a\left(x-h\right^2+k$).
 
-(1) $a=2> 0$, opens upward; when $x=3$, $y$ takes its minimum $5$, with no maximum.
+(1) $a=2>0$, opens upward; when $x=3$, $y$ takes its minimum $5$, with no maximum.
 
-(2) $a=-1< 0$, opens downward; when $x=-2$, $y$ takes its maximum $-2$, with no minimum. $\blacksquare$
+(2) $a=-1<0$, opens downward; when $x=-2$, $y$ takes its maximum $-2$, with no minimum. $\blacksquare$
 
 ## Exercise 10
 
@@ -430,9 +430,9 @@ The figure shows four side-by-side coordinate systems, each with one parabola: (
 
 ### Solution to Exercise 10
 
-By The Parabola $y=ax^2+bx+c$, the axis of symmetry is $x=-\frac b{2a}$ and the vertex's vertical coordinate is $\frac{4ac-b^2}{4a}$.
+By The Parabola $y=ax^2+bx+c$, the axis of symmetry is $x=-\frac{b}{2a}$ and the vertex's vertical coordinate is $\frac{4ac-b^2}{4a}$.
 
-(1) $a=-3$, $b=12$, $c=-3$. Axis of symmetry $x=-\frac{12}{2\left(-3\right)}=2$; vertex's vertical coordinate $\frac{4\left(-3\right)\left(-3\right)-144}{4\left(-3\right)}=\frac{36-144}{-12}=9$. Opens downward, vertex $\left(2,9\right)$; for $x< 2$, $y$ increases as $x$ increases, and for $x> 2$ it decreases.
+(1) $a=-3$, $b=12$, $c=-3$. Axis of symmetry $x=-\frac{12}{2\left(-3\right)}=2$; vertex's vertical coordinate $\frac{4\left(-3\right)\left(-3\right)-144}{4\left(-3\right)}=\frac{36-144}{-12}=9$. Opens downward, vertex $\left(2,9\right)$; for $x<2$, $y$ increases as $x$ increases, and for $x>2$ it decreases.
 
 (2) $a=4$, $b=-24$, $c=26$. Axis of symmetry $x=\frac{24}{8}=3$; vertex's vertical coordinate $\frac{4\cdot4\cdot26-576}{16}=\frac{416-576}{16}=-10$. Opens upward, vertex $\left(3,-10\right)$.
 
@@ -452,11 +452,11 @@ The graphs are as shown. $\blacksquare$
 
 ### Solution to Exercise 11
 
-By Basic Knowledge, the extremum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac b{2a}$.
+By Basic Knowledge, the extremum $\frac{4ac-b^2}{4a}$ is taken at $x=-\frac{b}{2a}$.
 
-(1) $a=3> 0$; when $x=-\frac{2}{6}=-\frac13$, the minimum $\frac{0-4}{12}=-\frac13$ is taken.
+(1) $a=3>0$; when $x=-\frac{2}{6}=-\frac13$, the minimum $\frac{0-4}{12}=-\frac13$ is taken.
 
-(2) $a=-2< 0$; when $x=-\frac{8}{2\left(-2\right)}=2$, the maximum $\frac{4\left(-2\right)\left(-8\right)-64}{-8}=\frac{64-64}{-8}=0$ is taken. $\blacksquare$
+(2) $a=-2<0$; when $x=-\frac{8}{2\left(-2\right)}=2$, the maximum $\frac{4\left(-2\right)\left(-8\right)-64}{-8}=\frac{64-64}{-8}=0$ is taken. $\blacksquare$
 
 ## Problem 5
 
@@ -472,9 +472,9 @@ The figure shows two parabolas in one plane rectangular coordinate system, both 
 
 By The Parabola $y=ax^2$, both have the $y$-axis as their axis of symmetry and the origin as vertex.
 
-(1) $a=5> 0$, opens upward; $\left|a\right|$ is larger, so the opening is narrower.
+(1) $a=5>0$, opens upward; $\left|a\right|$ is larger, so the opening is narrower.
 
-(2) $a=-\frac15< 0$, opens downward; $\left|a\right|$ is smaller, so the opening is wider.
+(2) $a=-\frac15<0$, opens downward; $\left|a\right|$ is smaller, so the opening is wider.
 
 The graphs are as shown. $\blacksquare$
 

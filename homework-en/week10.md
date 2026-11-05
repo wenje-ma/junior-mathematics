@@ -14,7 +14,7 @@
 
 > **Definition 5.1.4 (Properties of Equality 1)**
 > 
-> Adding (or subtracting) the same number (or expression) to both sides of an equality keeps the result equal. If $a=b$, then $a\pm c=b\pm c$.
+> Adding (or subtracting) the same number (or expression) to both sides of an equality keeps the result equal. If $a=b$, then $a\pm{c}=b\pm{c}$.
 
 > **Definition 5.1.5 (Properties of Equality 2)**
 > 
@@ -40,9 +40,9 @@
 
 (2) If $x+2=y+2$, then $\;\_\_\;=y$;
 
-(3) If $x=y$, then $\;\_\_\;\cdot x=5y$;
+(3) If $x=y$, then $\;\_\_\;\cdot{x}=5y$;
 
-(4) If $3x=6y$, then $x=\;\_\_\;\cdot y$.
+(4) If $3x=6y$, then $x=\;\_\_\;\cdot{y}$.
 
 ### Solution to Exercise 1
 
@@ -232,11 +232,11 @@ $\blacksquare$
 
 ## Problem 8
 
-(Problem 5.1, Comprehensive Application, Problem 8) A car has already traveled $12000\ \text{km}$, and it is planned to travel another $800\ \text{km}$ each month. After how many months will the total distance traveled by this car be $20800\ \text{km}$? (Just set up the equation.)
+(Problem 5.1, Comprehensive Application, Problem 8) A car has already traveled $12000\,\text{km}$, and it is planned to travel another $800\,\text{km}$ each month. After how many months will the total distance traveled by this car be $20800\,\text{km}$? (Just set up the equation.)
 
 ### Solution to Problem 8
 
-By **Definition 5.1.1 (Equation)**, let the total distance be $20800\ \text{km}$ after $x$ months.
+By **Definition 5.1.1 (Equation)**, let the total distance be $20800\,\text{km}$ after $x$ months.
 
 The total distance is the distance already traveled plus the distance traveled in $x$ months: $12000+800x=20800$. The equation is
 
@@ -246,15 +246,15 @@ $\blacksquare$
 
 ## Problem 9
 
-(Problem 5.1, Comprehensive Application, Problem 9) A cylindrical packaging box has height $12\ \text{cm}$ and surface area $108.5\pi\ \text{cm}^{2}$. What is the radius of its base in centimeters? (Just set up the equation.)
+(Problem 5.1, Comprehensive Application, Problem 9) A cylindrical packaging box has height $12\,\text{cm}$ and surface area $108.5\pi\,\text{cm}^{2}$. What is the radius of its base in centimeters? (Just set up the equation.)
 
 ### Solution to Problem 9
 
-By **Definition 5.1.1 (Equation)**, let the base radius be $r\ \text{cm}$.
+By **Definition 5.1.1 (Equation)**, let the base radius be $r\,\text{cm}$.
 
-The cylinder surface area is the two base areas plus the lateral area: $2\pi r^{2}+2\pi r\cdot12=108.5\pi$. The equation is
+The cylinder surface area is the two base areas plus the lateral area: $2\pi{r}^{2}+2\pi{r}\cdot12=108.5\pi$. The equation is
 
-$$2\pi r^{2}+24\pi r=108.5\pi.$$
+$$2\pi{r}^{2}+24\pi{r}=108.5\pi.$$
 
 $\blacksquare$
 
@@ -412,13 +412,13 @@ First remove the square brackets: $\frac{3}{2}\cdot\frac{2}{3}\left(\frac{x}{4}-
 
 ## Exercise 11
 
-(Exercise 5.2, Problem 3) A train passing through a tunnel $300\ \text{m}$ long takes $20\ \text{s}$; at the same speed, passing through a tunnel $500\ \text{m}$ long takes $30\ \text{s}$. Find the length and speed of the train.
+(Exercise 5.2, Problem 3) A train passing through a tunnel $300\,\text{m}$ long takes $20\,\text{s}$; at the same speed, passing through a tunnel $500\,\text{m}$ long takes $30\,\text{s}$. Find the length and speed of the train.
 
 ### Solution to Exercise 11
 
-By **Definition 5.2.3 (General Steps for Solving a Linear Equation in One Variable)**, let the train be $x\ \text{m}$ long.
+By **Definition 5.2.3 (General Steps for Solving a Linear Equation in One Variable)**, let the train be $x\,\text{m}$ long.
 
-The distance the train travels to pass through a tunnel is the tunnel length plus the train length. The speed is the same: $\frac{300+x}{20}=\frac{500+x}{30}$. Multiply both sides by $60$: $3\left(300+x\right)=2\left(500+x\right)$. Remove parentheses: $900+3x=1000+2x$. Transpose: $x=100$. The speed $=\frac{300+100}{20}=20\ \text{m/s}$. Hence the train is $100\ \text{m}$ long and its speed is $20\ \text{m/s}$. $\blacksquare$
+The distance the train travels to pass through a tunnel is the tunnel length plus the train length. The speed is the same: $\frac{300+x}{20}=\frac{500+x}{30}$. Multiply both sides by $60$: $3\left(300+x\right)=2\left(500+x\right)$. Remove parentheses: $900+3x=1000+2x$. Transpose: $x=100$. The speed $=\frac{300+100}{20}=20\,\text{m/s}$. Hence the train is $100\,\text{m}$ long and its speed is $20\,\text{m/s}$. $\blacksquare$
 
 ## Problem 12
 
@@ -528,7 +528,7 @@ By **Definition 5.2.3 (General Steps for Solving a Linear Equation in One Variab
 
 By **Definition 5.1.2 (Solution of an Equation)**, substitute $x=3$ into the equation.
 
-$$2\times3-a=1,\quad 6-a=1,\quad a=5.$$
+$$2\times3-a=1,\quad6-a=1,\quad{a}=5.$$
 
 $\blacksquare$
 
@@ -550,7 +550,7 @@ From $3x+5=11$, we get $3x=6$, $x=2$. Substituting into $6x+3a=22$: $12+3a=22$, 
 
 By **Definition 5.2.3 (General Steps for Solving a Linear Equation in One Variable)**, first solve the equation.
 
-Transpose: $x-3x=7+3-2a$, combine: $-2x=10-2a$, giving $x=a-5$. The solution is not nonnegative, i.e. $x< 0$, so $a-5< 0$, giving $a< 5$. $\blacksquare$
+Transpose: $x-3x=7+3-2a$, combine: $-2x=10-2a$, giving $x=a-5$. The solution is not nonnegative, i.e. $x<0$, so $a-5<0$, giving $a<5$. $\blacksquare$
 
 ## Problem 19
 

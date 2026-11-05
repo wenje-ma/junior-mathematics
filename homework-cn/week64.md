@@ -2,7 +2,7 @@
 
 > **性质 29.1.1 (点与圆的位置关系)**
 > 
-> 设 $\odot O$ 的半径为 $r$, 点 $P$ 到圆心的距离 $OP=d$, 则: 点 $P$ 在圆外 $\Leftrightarrow d> r$; 点 $P$ 在圆上 $\Leftrightarrow d=r$; 点 $P$ 在圆内 $\Leftrightarrow d< r$.
+> 设 $\odot{O}$ 的半径为 $r$, 点 $P$ 到圆心的距离 $OP=d$, 则: 点 $P$ 在圆外 $\Leftrightarrow{d}>{}r$; 点 $P$ 在圆上 $\Leftrightarrow{d}=r$; 点 $P$ 在圆内 $\Leftrightarrow{d}<{}r$.
 
 > **定理 29.1.1 (三点确定一个圆)**
 > 
@@ -30,7 +30,7 @@
 
 > **公式 29.3.1 (弧长公式)**
 > 
-> 在半径为 $R$ 的圆中, $n^\circ$ 的圆心角所对的弧长 $l=\frac{n\pi R}{180}$.
+> 在半径为 $R$ 的圆中, $n^\circ$ 的圆心角所对的弧长 $l=\frac{n\pi{R}}{180}$.
 
 > **定义 29.3.1 (圆锥的母线)**
 > 
@@ -38,15 +38,15 @@
 
 > **公式 29.3.2 (扇形面积公式)**
 > 
-> 在半径为 $R$ 的圆中, 圆心角为 $n^\circ$ 的扇形面积 $S=\frac{n\pi R^2}{360}=\frac12 lR$, 其中 $l$ 为扇形的弧长.
+> 在半径为 $R$ 的圆中, 圆心角为 $n^\circ$ 的扇形面积 $S=\frac{n\pi{R}^2}{360}=\frac12lR$, 其中 $l$ 为扇形的弧长.
 
 > **公式 29.3.2 (扇形面积)**
 > 
-> $S=\frac{n\pi R^2}{360}=\frac12 lR$.
+> $S=\frac{n\pi{R}^2}{360}=\frac12lR$.
 
 > **公式 29.3.3 (圆锥的侧面积和全面积)**
 > 
-> 圆锥母线长为 $l$, 底面半径为 $r$, 则侧面积为 $\pi rl$, 全面积为 $\pi r\left(r+l\right)$.
+> 圆锥母线长为 $l$, 底面半径为 $r$, 则侧面积为 $\pi{r}l$, 全面积为 $\pi{r}\left(r+l\right)$.
 
 > **定义 30.1.1 (直线与圆的位置关系)**
 > 
@@ -54,7 +54,7 @@
 
 > **性质 30.1.1 (位置关系判定)**
 > 
-> 设 $\odot O$ 半径为 $r$, 圆心到直线距离为 $d$, 则 $d> r$ 相离, $d=r$ 相切, $d< r$ 相交.
+> 设 $\odot{O}$ 半径为 $r$, 圆心到直线距离为 $d$, 则 $d>{}r$ 相离, $d=r$ 相切, $d<{}r$ 相交.
 
 > **定理 30.1.1 (切线的性质)**
 > 
@@ -82,13 +82,13 @@
 
 ## 活动一
 
-(数学活动 活动 1 四等分圆周) 任意作 $\odot O$ 的直径 $AB$, 过点 $O$ 作 $AB$ 的垂线, 与 $\odot O$ 相交于 $C$, $D$ 两点, 则点 $A$, $B$, $C$, $D$ 将 $\odot O$ 四等分. 你能说明其中的道理吗? 进一步, 如何八等分, 十六等分圆周?
+(数学活动 活动 1 四等分圆周) 任意作 $\odot{O}$ 的直径 $AB$, 过点 $O$ 作 $AB$ 的垂线, 与 $\odot{O}$ 相交于 $C$, $D$ 两点, 则点 $A$, $B$, $C$, $D$ 将 $\odot{O}$ 四等分. 你能说明其中的道理吗? 进一步, 如何八等分, 十六等分圆周?
 
 ### 解答 活动一
 
 由**定理 29.2.2 (圆心角, 弧, 弦的关系)**.
 
-$AB$ 为直径, $OC\perp AB$, 故 $\angle AOC=\angle COB=\angle BOD=\angle DOA=90^\circ$. 由圆心角相等所对弧相等, $\overset{\frown}{AC}=\overset{\frown}{CB}=\overset{\frown}{BD}=\overset{\frown}{DA}$, 四等分圆周.
+$AB$ 为直径, $OC\perp{A}B$, 故 $\angle{A}OC=\angle{C}OB=\angle{B}OD=\angle{D}OA=90^\circ$. 由圆心角相等所对弧相等, $\overset{\frown}{AC}=\overset{\frown}{CB}=\overset{\frown}{BD}=\overset{\frown}{DA}$, 四等分圆周.
 
 八等分: 作相邻两分点所对圆心角 ($90^\circ$) 的角平分线, 得 $45^\circ$ 圆心角; 十六等分: 再平分得 $22.5^\circ$. $\blacksquare$
 
@@ -100,17 +100,17 @@ $AB$ 为直径, $OC\perp AB$, 故 $\angle AOC=\angle COB=\angle BOD=\angle DOA=9
 
 由**性质 29.2.3 (圆内接四边形的性质)** 及其逆.
 
-过四边形四个顶点能作圆的条件是四边形的对角互补. 若 $\angle B+\angle D=180^\circ$, 则四点共圆; 否则不能. 证明: 假设过 $A$, $B$, $C$ 三点作圆, 若 $D$ 在圆上则 $\angle B+\angle D=180^\circ$; 若不在, 则 $\angle B$ 与 $\angle D$ 之和不等于 $180^\circ$. 故对角互补是四点共圆的充要条件. $\blacksquare$
+过四边形四个顶点能作圆的条件是四边形的对角互补. 若 $\angle{B}+\angle{D}=180^\circ$, 则四点共圆; 否则不能. 证明: 假设过 $A$, $B$, $C$ 三点作圆, 若 $D$ 在圆上则 $\angle{B}+\angle{D}=180^\circ$; 若不在, 则 $\angle{B}$ 与 $\angle{D}$ 之和不等于 $180^\circ$. 故对角互补是四点共圆的充要条件. $\blacksquare$
 
 ## 复习题一
 
 (复习题 29 复习巩固第 1 题) 选择题.
 
-(1) 如图, $\odot O$ 的直径 $AB=10$, $CD$ 是 $\odot O$ 的弦, $AB\perp CD$, 垂足为 $M$, $OM:OA=3:5$, 则 $CD$ 的长为 ( ).
+(1) 如图, $\odot{O}$ 的直径 $AB=10$, $CD$ 是 $\odot{O}$ 的弦, $AB\perp{C}D$, 垂足为 $M$, $OM:OA=3:5$, 则 $CD$ 的长为 ( ).
 
 (A) $9\sqrt{1}$ (B) $8$ (C) $6$ (D) $4$
 
-(2) 如图, 在 $\odot O$ 中, 弦 $AB$, $CD$ 相交于点 $P$, $\angle A=40^\circ$, $\angle APD=75^\circ$, 则 $\angle B=$ ( ).
+(2) 如图, 在 $\odot{O}$ 中, 弦 $AB$, $CD$ 相交于点 $P$, $\angle{A}=40^\circ$, $\angle{A}PD=75^\circ$, 则 $\angle{B}=$ ( ).
 
 (A) $15^\circ$ (B) $40^\circ$ (C) $75^\circ$ (D) $35^\circ$
 
@@ -122,9 +122,9 @@ $AB$ 为直径, $OC\perp AB$, 故 $\angle AOC=\angle COB=\angle BOD=\angle DOA=9
 
 (1) $OA=5$, $OM=3$, $CM=\sqrt{25-9}=4$, $CD=2CM=8$, 选 (B).
 
-(2) $\angle A=\angle D=40^\circ$ (同弧 $\overset{\frown}{BC}$), $\angle APD=\angle D+\angle B$, 故 $\angle B=75^\circ-40^\circ=35^\circ$, 选 (D).
+(2) $\angle{A}=\angle{D}=40^\circ$ (同弧 $\overset{\frown}{BC}$), $\angle{A}PD=\angle{D}+\angle{B}$, 故 $\angle{B}=75^\circ-40^\circ=35^\circ$, 选 (D).
 
-(3) 侧面积 $\pi rl=2\pi r^2$, 故 $l=2r$. 圆心角 $n$ 满足 $\frac{n\pi l}{180}=2\pi r$, 即 $n\cdot2r=360r$, $n=180^\circ$, 选 (B). $\blacksquare$
+(3) 侧面积 $\pi{r}l=2\pi{r}^2$, 故 $l=2r$. 圆心角 $n$ 满足 $\frac{n\pi{l}}{180}=2\pi{r}$, 即 $n\cdot2r=360r$, $n=180^\circ$, 选 (B). $\blacksquare$
 
 ## 复习题二
 
@@ -138,9 +138,9 @@ $AB$ 为直径, $OC\perp AB$, 故 $\angle AOC=\angle COB=\angle BOD=\angle DOA=9
 
 ## 复习题三
 
-(复习题 29 复习巩固第 3 题) 如图, 四边形 $ABCD$ 是 $\odot O$ 的内接四边形, $AC$ 为直径, 且 $AC\perp BD$, 垂足为 $E$.
+(复习题 29 复习巩固第 3 题) 如图, 四边形 $ABCD$ 是 $\odot{O}$ 的内接四边形, $AC$ 为直径, 且 $AC\perp{B}D$, 垂足为 $E$.
 
-(1) 若 $\angle BAD=70^\circ$, 求四边形 $ABCD$ 其余各角的大小;
+(1) 若 $\angle{B}AD=70^\circ$, 求四边形 $ABCD$ 其余各角的大小;
 
 (2) 若 $AC=10$, $BD=8$, 求 $AE$, $CE$ 的长.
 
@@ -148,13 +148,13 @@ $AB$ 为直径, $OC\perp AB$, 故 $\angle AOC=\angle COB=\angle BOD=\angle DOA=9
 
 由**性质 29.2.3 (圆内接四边形的性质)** 及**定理 29.2.1 (垂径定理)**.
 
-(1) $AC$ 为直径, $\angle ABC=\angle ADC=90^\circ$. $\angle BCD=180^\circ-\angle BAD=110^\circ$.
+(1) $AC$ 为直径, $\angle{A}BC=\angle{A}DC=90^\circ$. $\angle{B}CD=180^\circ-\angle{B}AD=110^\circ$.
 
-(2) $AC\perp BD$, $E$ 为垂足, $BE=ED=4$. 设 $AE=x$, $CE=10-x$. 由相交弦 (或相似) $AE\cdot CE=BE\cdot DE=16$, 即 $x\left(10-x\right)=16$, $x^2-10x+16=0$, $x=2$ 或 $8$. 故 $AE=2$, $CE=8$ (或反之). $\blacksquare$
+(2) $AC\perp{B}D$, $E$ 为垂足, $BE=ED=4$. 设 $AE=x$, $CE=10-x$. 由相交弦 (或相似) $AE\cdot{C}E=BE\cdot{D}E=16$, 即 $x\left(10-x\right)=16$, $x^2-10x+16=0$, $x=2$ 或 $8$. 故 $AE=2$, $CE=8$ (或反之). $\blacksquare$
 
 ## 复习题四
 
-(复习题 29 复习巩固第 4 题) 如图, 公园内有一块半径为 $18\,\text{m}$ 的扇形草坪, 从 $A$ 地走到 $B$ 地有观赏路 (弧 $\overset{\frown}{AB}$) 和便民路 (线段 $AB$), 且 $\angle AOB=120^\circ$.
+(复习题 29 复习巩固第 4 题) 如图, 公园内有一块半径为 $18\,\text{m}$ 的扇形草坪, 从 $A$ 地走到 $B$ 地有观赏路 (弧 $\overset{\frown}{AB}$) 和便民路 (线段 $AB$), 且 $\angle{A}OB=120^\circ$.
 
 (1) 求扇形草坪的面积;
 
@@ -176,7 +176,7 @@ $AB$ 为直径, $OC\perp AB$, 故 $\angle AOC=\angle COB=\angle BOD=\angle DOA=9
 
 由**公式 29.3.1 (弧长公式)**.
 
-设大半圆半径为 $R$, 小半圆半径为 $r_i$. 因小半圆直径之和等于大半圆直径, $\sum 2r_i=2R$, $\sum r_i=R$. $L_1=\pi R$, $L_2=\sum \pi r_i=\pi R$. 故 $L_1=L_2$. $\blacksquare$
+设大半圆半径为 $R$, 小半圆半径为 $r_i$. 因小半圆直径之和等于大半圆直径, $\sum2r_i=2R$, $\sum{r}_i=R$. $L_1=\pi{R}$, $L_2=\sum\pi{r}_i=\pi{R}$. 故 $L_1=L_2$. $\blacksquare$
 
 ## 复习题六
 
@@ -226,7 +226,7 @@ $AB$ 为直径, $OC\perp AB$, 故 $\angle AOC=\angle COB=\angle BOD=\angle DOA=9
 
 由**定理 29.2.3 (圆周角定理)**.
 
-比较 $\angle PAQ$ 与 $\angle PBQ$: 视角大者射门更佳. 若 $B$ 对球门 $PQ$ 张角更大, 则传乙好; 反之甲直接射好. $\blacksquare$
+比较 $\angle{P}AQ$ 与 $\angle{P}BQ$: 视角大者射门更佳. 若 $B$ 对球门 $PQ$ 张角更大, 则传乙好; 反之甲直接射好. $\blacksquare$
 
 ## 复习题十一
 
@@ -256,17 +256,17 @@ $\blacksquare$
 
 ## 复习题十三
 
-(复习题 29 拓广探索第 13 题) 如图, 在 $\triangle ABC$ 中, $\angle A=60^\circ$, 以 $BC$ 为直径的 $\odot O$ 交 $\triangle ABC$ 的边 $AB$, $AC$ 于 $D$, $E$ 两点. 判断 $\triangle ODE$ 的形状, 并说明理由.
+(复习题 29 拓广探索第 13 题) 如图, 在 $\triangle{A}BC$ 中, $\angle{A}=60^\circ$, 以 $BC$ 为直径的 $\odot{O}$ 交 $\triangle{A}BC$ 的边 $AB$, $AC$ 于 $D$, $E$ 两点. 判断 $\triangle{O}DE$ 的形状, 并说明理由.
 
 ### 解答 复习题十三
 
 由**定理 29.2.3 (圆周角定理)**.
 
-$BC$ 为直径, $\angle BDC=\angle BEC=90^\circ$. $\angle DOE=2\angle DBE=2\angle A=120^\circ$. 又 $OD=OE$, 故 $\triangle ODE$ 为顶角 $120^\circ$ 的等腰三角形. $\blacksquare$
+$BC$ 为直径, $\angle{B}DC=\angle{B}EC=90^\circ$. $\angle{D}OE=2\angle{D}BE=2\angle{A}=120^\circ$. 又 $OD=OE$, 故 $\triangle{O}DE$ 为顶角 $120^\circ$ 的等腰三角形. $\blacksquare$
 
 ## 复习题十四
 
-(复习题 29 拓广探索第 14 题) 如图, $\triangle ABC$ 为 $\odot O$ 的内接三角形, $AB$ 为直径, 过点 $C$ 作 $CD\perp AB$, 垂足为 $D$. 设 $AD=a$, $BD=b$.
+(复习题 29 拓广探索第 14 题) 如图, $\triangle{A}BC$ 为 $\odot{O}$ 的内接三角形, $AB$ 为直径, 过点 $C$ 作 $CD\perp{A}B$, 垂足为 $D$. 设 $AD=a$, $BD=b$.
 
 (1) 分别用 $a$, $b$ 表示 $OC$, $CD$;
 
@@ -276,7 +276,7 @@ $BC$ 为直径, $\angle BDC=\angle BEC=90^\circ$. $\angle DOE=2\angle DBE=2\angl
 
 由**定理 29.2.1 (垂径定理)** 及**推论 29.2.2 (圆周角推论)**.
 
-(1) $AB=a+b$, $OC=\frac{a+b}{2}$. 由射影定理 $CD^2=AD\cdot BD=ab$, $CD=\sqrt{ab}$.
+(1) $AB=a+b$, $OC=\frac{a+b}{2}$. 由射影定理 $CD^2=AD\cdot{B}D=ab$, $CD=\sqrt{ab}$.
 
 (2) $OC=\frac{a+b}{2}\ge\sqrt{ab}=CD$, 即 $\frac{a+b}{2}\ge\sqrt{ab}$ (均值不等式). $\blacksquare$
 
@@ -296,15 +296,15 @@ $BC$ 为直径, $\angle BDC=\angle BEC=90^\circ$. $\angle DOE=2\angle DBE=2\angl
 
 由**性质 30.1.1 (位置关系判定)**, $r=6.5$.
 
-(1) $d=4.5< 6.5$, 相交, 两个公共点.
+(1) $d=4.5<6.5$, 相交, 两个公共点.
 
 (2) $d=6.5=r$, 相切, 一个公共点.
 
-(3) $d=8> 6.5$, 相离, 没有公共点. $\blacksquare$
+(3) $d=8>6.5$, 相离, 没有公共点. $\blacksquare$
 
 ## 练习二
 
-(练习 30.1 第 2 题) 如图, $\angle AOB=30^\circ$, $M$ 为 $OB$ 上一点, $OM=5$. 判断直线 $OA$ 与以点 $M$ 为圆心, 下列 $r$ 为半径的圆的位置关系:
+(练习 30.1 第 2 题) 如图, $\angle{A}OB=30^\circ$, $M$ 为 $OB$ 上一点, $OM=5$. 判断直线 $OA$ 与以点 $M$ 为圆心, 下列 $r$ 为半径的圆的位置关系:
 
 (1) $r=2$;
 
@@ -318,31 +318,31 @@ $BC$ 为直径, $\angle BDC=\angle BEC=90^\circ$. $\angle DOE=2\angle DBE=2\angl
 
 $M$ 到 $OA$ 距离 $d=OM\sin30^\circ=2.5$.
 
-(1) $r=2< 2.5$, 相离.
+(1) $r=2<2.5$, 相离.
 
-(2) $r=4> 2.5$, 相交.
+(2) $r=4>2.5$, 相交.
 
 (3) $r=2.5=d$, 相切. $\blacksquare$
 
 ## 练习三
 
-(练习 30.1 第 1 题) 如图, $AB$ 是 $\odot O$ 的直径, $\angle ABC=45^\circ$, $AC=AB$. 求证: $AC$ 是 $\odot O$ 的切线.
+(练习 30.1 第 1 题) 如图, $AB$ 是 $\odot{O}$ 的直径, $\angle{A}BC=45^\circ$, $AC=AB$. 求证: $AC$ 是 $\odot{O}$ 的切线.
 
 ### 解答 练习三
 
 由**定理 30.1.2 (切线的判定)**.
 
-$AB$ 为直径, $O$ 在 $AB$ 上. $AB=AC$, $\angle ABC=45^\circ$, 故 $\angle ACB=45^\circ$, $\angle BAC=90^\circ$, 即 $AC\perp AB$. 又 $A$ 在圆上, 故 $AC$ 是 $\odot O$ 的切线. $\blacksquare$
+$AB$ 为直径, $O$ 在 $AB$ 上. $AB=AC$, $\angle{A}BC=45^\circ$, 故 $\angle{A}CB=45^\circ$, $\angle{B}AC=90^\circ$, 即 $AC\perp{A}B$. 又 $A$ 在圆上, 故 $AC$ 是 $\odot{O}$ 的切线. $\blacksquare$
 
 ## 练习四
 
-(练习 30.1 第 2 题) 如图, $AB$ 是 $\odot O$ 的直径, 直线 $l_1$, $l_2$ 是 $\odot O$ 的切线, $A$, $B$ 是切点. $l_1$, $l_2$ 有怎样的位置关系? 证明你的结论.
+(练习 30.1 第 2 题) 如图, $AB$ 是 $\odot{O}$ 的直径, 直线 $l_1$, $l_2$ 是 $\odot{O}$ 的切线, $A$, $B$ 是切点. $l_1$, $l_2$ 有怎样的位置关系? 证明你的结论.
 
 ### 解答 练习四
 
 由**定理 30.1.1 (切线的性质)**.
 
-$l_1\perp AB$, $l_2\perp AB$, 故 $l_1\parallel l_2$. $\blacksquare$
+$l_1\perp{A}B$, $l_2\perp{A}B$, 故 $l_1\parallel{l}_2$. $\blacksquare$
 
 ## 练习五
 
@@ -352,37 +352,37 @@ $l_1\perp AB$, $l_2\perp AB$, 故 $l_1\parallel l_2$. $\blacksquare$
 
 由**定理 30.1.1 (切线的性质)** 及**定理 29.2.1 (垂径定理)**.
 
-$OP\perp AB$, 由垂径定理 $P$ 平分 $AB$, 故 $AP=BP$. $\blacksquare$
+$OP\perp{A}B$, 由垂径定理 $P$ 平分 $AB$, 故 $AP=BP$. $\blacksquare$
 
 ## 练习六
 
-(练习 30.1 第 1 题) 如图, $PA$, $PB$ 是 $\odot O$ 的两条切线, $A$, $B$ 为切点, $AC$ 是 $\odot O$ 的直径, $\angle BAC=25^\circ$. 求 $\angle P$ 的度数.
+(练习 30.1 第 1 题) 如图, $PA$, $PB$ 是 $\odot{O}$ 的两条切线, $A$, $B$ 为切点, $AC$ 是 $\odot{O}$ 的直径, $\angle{B}AC=25^\circ$. 求 $\angle{P}$ 的度数.
 
 ### 解答 练习六
 
 由**定理 30.1.3 (切线长定理)**.
 
-$PA=PB$, $OA\perp PA$, $\angle PAB=90^\circ-25^\circ=65^\circ$. $\angle PBA=\angle PAB=65^\circ$, 故 $\angle P=180^\circ-130^\circ=50^\circ$. $\blacksquare$
+$PA=PB$, $OA\perp{P}A$, $\angle{P}AB=90^\circ-25^\circ=65^\circ$. $\angle{P}BA=\angle{P}AB=65^\circ$, 故 $\angle{P}=180^\circ-130^\circ=50^\circ$. $\blacksquare$
 
 ## 练习七
 
-(练习 30.1 第 2 题) 如图, $PA$, $PB$ 是 $\odot O$ 的两条切线, $A$, $B$ 为切点, 直线 $OP$ 交 $\odot O$ 于点 $C$, $D$, 交 $AB$ 于点 $E$.
+(练习 30.1 第 2 题) 如图, $PA$, $PB$ 是 $\odot{O}$ 的两条切线, $A$, $B$ 为切点, 直线 $OP$ 交 $\odot{O}$ 于点 $C$, $D$, 交 $AB$ 于点 $E$.
 
 (1) 写出图中所有垂直关系;
 
-(2) 如果 $PA=4$, $PD=2$, 求 $\odot O$ 的半径长.
+(2) 如果 $PA=4$, $PD=2$, 求 $\odot{O}$ 的半径长.
 
 ### 解答 练习七
 
 由**定理 30.1.3 (切线长定理)**.
 
-(1) $OA\perp PA$, $OB\perp PB$, $OP\perp AB$.
+(1) $OA\perp{P}A$, $OB\perp{P}B$, $OP\perp{A}B$.
 
-(2) 设半径 $r$, 在 $\text{Rt}\triangle OAP$ 中, $OP=OD+PD=r+2$, $OA=r$, $PA=4$. 故 $\left(r+2\right)^2=r^2+16$, $r^2+4r+4=r^2+16$, $r=3$. $\blacksquare$
+(2) 设半径 $r$, 在 $\text{Rt}\triangle{O}AP$ 中, $OP=OD+PD=r+2$, $OA=r$, $PA=4$. 故 $\left(r+2\right)^2=r^2+16$, $r^2+4r+4=r^2+16$, $r=3$. $\blacksquare$
 
 ## 习题二
 
-(习题 30.1 复习巩固第 1 题) 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^\circ$, $AC=3$, $BC=4$, 判断以点 $C$ 为圆心, 下列 $r$ 为半径的 $\odot C$ 与 $AB$ 的位置关系:
+(习题 30.1 复习巩固第 1 题) 在 $\text{Rt}\triangle{A}BC$ 中, $\angle{C}=90^\circ$, $AC=3$, $BC=4$, 判断以点 $C$ 为圆心, 下列 $r$ 为半径的 $\odot{C}$ 与 $AB$ 的位置关系:
 
 (1) $r=2$;
 
@@ -394,13 +394,13 @@ $PA=PB$, $OA\perp PA$, $\angle PAB=90^\circ-25^\circ=65^\circ$. $\angle PBA=\ang
 
 由**性质 30.1.1 (位置关系判定)**.
 
-$AB=5$, $C$ 到 $AB$ 距离 $d=\frac{AC\cdot BC}{AB}=\frac{12}{5}=2.4$.
+$AB=5$, $C$ 到 $AB$ 距离 $d=\frac{AC\cdot{B}C}{AB}=\frac{12}{5}=2.4$.
 
-(1) $r=2< 2.4$, 相离.
+(1) $r=2<2.4$, 相离.
 
 (2) $r=2.4=d$, 相切.
 
-(3) $r=3> 2.4$, 相交. $\blacksquare$
+(3) $r=3>2.4$, 相交. $\blacksquare$
 
 ## 习题三
 
@@ -408,7 +408,7 @@ $AB=5$, $C$ 到 $AB$ 距离 $d=\frac{AC\cdot BC}{AB}=\frac{12}{5}=2.4$.
 
 (1) 如果 $UV=28\,\text{cm}$, 求 $VT$ 的长;
 
-(2) 如果 $\angle UVW=60^\circ$, 求 $VT$ 的长.
+(2) 如果 $\angle{U}VW=60^\circ$, 求 $VT$ 的长.
 
 ### 解答 习题三
 
@@ -416,51 +416,51 @@ $AB=5$, $C$ 到 $AB$ 距离 $d=\frac{AC\cdot BC}{AB}=\frac{12}{5}=2.4$.
 
 (1) $VT=\sqrt{UV^2-r^2}=\sqrt{28^2-25^2}=\sqrt{159}\approx12.6\,\text{cm}$.
 
-(2) $\angle UVW=60^\circ$, 圆心到两边距离为 $r=25$, $\angle UVT=30^\circ$, $VT=\frac{r}{\sin30^\circ}=50\,\text{cm}$. $\blacksquare$
+(2) $\angle{U}VW=60^\circ$, 圆心到两边距离为 $r=25$, $\angle{U}VT=30^\circ$, $VT=\frac{r}{\sin30^\circ}=50\,\text{cm}$. $\blacksquare$
 
 ## 习题四
 
-(习题 30.1 复习巩固第 3 题) 如图, 直线 $AB$ 经过 $\odot O$ 上的点 $C$, 并且 $OA=OB$, $CA=CB$. 求证: 直线 $AB$ 是 $\odot O$ 的切线.
+(习题 30.1 复习巩固第 3 题) 如图, 直线 $AB$ 经过 $\odot{O}$ 上的点 $C$, 并且 $OA=OB$, $CA=CB$. 求证: 直线 $AB$ 是 $\odot{O}$ 的切线.
 
 ### 解答 习题四
 
 由**定理 30.1.2 (切线的判定)**.
 
-连接 $OC$. $OA=OB$, $CA=CB$, 故 $OC\perp AB$ (等腰三角形三线合一). $C$ 在圆上, 故 $AB$ 是切线. $\blacksquare$
+连接 $OC$. $OA=OB$, $CA=CB$, 故 $OC\perp{A}B$ (等腰三角形三线合一). $C$ 在圆上, 故 $AB$ 是切线. $\blacksquare$
 
 ## 习题五
 
-(习题 30.1 复习巩固第 4 题) 如图, 在 $\odot O$ 中, $AB$ 为直径, $AD$ 为弦, 过点 $B$ 的切线与 $AD$ 的延长线相交于点 $C$, 且 $AD=DC$. 求 $\angle ABD$ 的度数.
+(习题 30.1 复习巩固第 4 题) 如图, 在 $\odot{O}$ 中, $AB$ 为直径, $AD$ 为弦, 过点 $B$ 的切线与 $AD$ 的延长线相交于点 $C$, 且 $AD=DC$. 求 $\angle{A}BD$ 的度数.
 
 ### 解答 习题五
 
 由**定理 30.1.1 (切线的性质)** 及**推论 29.2.2 (圆周角推论)**.
 
-$BC$ 为切线, $BC\perp AB$. $AD=DC$, 在 $\text{Rt}\triangle ABC$ 中 $D$ 为 $AC$ 中点, 故 $BD=AD=DC$, $\triangle ABD$ 等腰. 又 $AB$ 为直径, $\angle ADB=90^\circ$, 故 $\angle ABD=45^\circ$. $\blacksquare$
+$BC$ 为切线, $BC\perp{A}B$. $AD=DC$, 在 $\text{Rt}\triangle{A}BC$ 中 $D$ 为 $AC$ 中点, 故 $BD=AD=DC$, $\triangle{A}BD$ 等腰. 又 $AB$ 为直径, $\angle{A}DB=90^\circ$, 故 $\angle{A}BD=45^\circ$. $\blacksquare$
 
 ## 习题六
 
-(习题 30.1 复习巩固第 5 题) 如图, $AB$ 为 $\odot O$ 的直径, $PD$, $PE$ 分别与 $\odot O$ 相切于点 $A$, $C$, $\angle BCE=35^\circ$. 求 $\angle P$ 的度数.
+(习题 30.1 复习巩固第 5 题) 如图, $AB$ 为 $\odot{O}$ 的直径, $PD$, $PE$ 分别与 $\odot{O}$ 相切于点 $A$, $C$, $\angle{B}CE=35^\circ$. 求 $\angle{P}$ 的度数.
 
 ### 解答 习题六
 
 由**定理 30.1.3 (切线长定理)**.
 
-$\angle BCE=35^\circ$, 切线与弦夹角等于所对圆周角, 故 $\angle BAC=35^\circ$. $\angle P=180^\circ-2\times\left(90^\circ-35^\circ\right)=70^\circ$. $\blacksquare$
+$\angle{B}CE=35^\circ$, 切线与弦夹角等于所对圆周角, 故 $\angle{B}AC=35^\circ$. $\angle{P}=180^\circ-2\times\left(90^\circ-35^\circ\right)=70^\circ$. $\blacksquare$
 
 ## 习题七
 
-(习题 30.1 复习巩固第 6 题) 如图, 在 $\triangle ABC$ 中, $O$ 为 $AC$ 上一点, $\odot O$ 过 $B$, $C$ 两点, 且与 $AC$ 交于点 $D$, $\angle A=36^\circ$, $\angle C=27^\circ$. 求证: $AB$ 是 $\odot O$ 的切线.
+(习题 30.1 复习巩固第 6 题) 如图, 在 $\triangle{A}BC$ 中, $O$ 为 $AC$ 上一点, $\odot{O}$ 过 $B$, $C$ 两点, 且与 $AC$ 交于点 $D$, $\angle{A}=36^\circ$, $\angle{C}=27^\circ$. 求证: $AB$ 是 $\odot{O}$ 的切线.
 
 ### 解答 习题七
 
 由**定理 30.1.2 (切线的判定)**.
 
-连接 $OB$. $\angle BOC=2\angle BDC=2\left(180^\circ-\angle A-\angle C\right)$ 相关计算: $\angle OBC=\angle C=27^\circ$, $\angle ABO=180^\circ-36^\circ-27^\circ-27^\circ=90^\circ$, 故 $AB\perp OB$, $AB$ 是切线. $\blacksquare$
+连接 $OB$. $\angle{B}OC=2\angle{B}DC=2\left(180^\circ-\angle{A}-\angle{C}\right)$ 相关计算: $\angle{O}BC=\angle{C}=27^\circ$, $\angle{A}BO=180^\circ-36^\circ-27^\circ-27^\circ=90^\circ$, 故 $AB\perp{O}B$, $AB$ 是切线. $\blacksquare$
 
 ## 习题八
 
-(习题 30.1 综合运用第 7 题) 如图, 一个油桶靠在直立的墙边, 量得 $WY=0.65\,\text{m}$, 且 $XY\perp WY$. 这个油桶的底面半径是多少? 为什么?
+(习题 30.1 综合运用第 7 题) 如图, 一个油桶靠在直立的墙边, 量得 $WY=0.65\,\text{m}$, 且 $XY\perp{W}Y$. 这个油桶的底面半径是多少? 为什么?
 
 ### 解答 习题八
 
@@ -470,60 +470,60 @@ $\angle BCE=35^\circ$, 切线与弦夹角等于所对圆周角, 故 $\angle BAC=
 
 ## 习题九
 
-(习题 30.1 综合运用第 8 题) 如图, $AB$, $BC$, $CD$ 分别与 $\odot O$ 相切于 $E$, $F$, $G$ 三点, 且 $AB\parallel CD$, $BO=6$, $CO=8$. 求 $BC$ 的长.
+(习题 30.1 综合运用第 8 题) 如图, $AB$, $BC$, $CD$ 分别与 $\odot{O}$ 相切于 $E$, $F$, $G$ 三点, 且 $AB\parallel{C}D$, $BO=6$, $CO=8$. 求 $BC$ 的长.
 
 ### 解答 习题九
 
 由**定理 30.1.3 (切线长定理)**.
 
-$BO$ 平分 $\angle ABC$, $CO$ 平分 $\angle BCD$. $AB\parallel CD$, $\angle ABC+\angle BCD=180^\circ$, 故 $\angle OBC+\angle OCB=90^\circ$, $\angle BOC=90^\circ$. $BC=\sqrt{6^2+8^2}=10$. $\blacksquare$
+$BO$ 平分 $\angle{A}BC$, $CO$ 平分 $\angle{B}CD$. $AB\parallel{C}D$, $\angle{A}BC+\angle{B}CD=180^\circ$, 故 $\angle{O}BC+\angle{O}CB=90^\circ$, $\angle{B}OC=90^\circ$. $BC=\sqrt{6^2+8^2}=10$. $\blacksquare$
 
 ## 习题十
 
-(习题 30.1 综合运用第 9 题) 如图, $AB$ 为 $\odot O$ 的直径, $C$ 为 $\odot O$ 上一点, $AD$ 和过点 $C$ 的切线互相垂直, 垂足为 $D$. 求证: $AC$ 平分 $\angle DAB$.
+(习题 30.1 综合运用第 9 题) 如图, $AB$ 为 $\odot{O}$ 的直径, $C$ 为 $\odot{O}$ 上一点, $AD$ 和过点 $C$ 的切线互相垂直, 垂足为 $D$. 求证: $AC$ 平分 $\angle{D}AB$.
 
 ### 解答 习题十
 
 由**定理 30.1.1 (切线的性质)**.
 
-连接 $OC$. $OC\perp CD$, $AD\perp CD$, 故 $OC\parallel AD$. $\angle DAC=\angle OCA=\angle OAC$, 故 $AC$ 平分 $\angle DAB$. $\blacksquare$
+连接 $OC$. $OC\perp{C}D$, $AD\perp{C}D$, 故 $OC\parallel{A}D$. $\angle{D}AC=\angle{O}CA=\angle{O}AC$, 故 $AC$ 平分 $\angle{D}AB$. $\blacksquare$
 
 ## 习题十一
 
-(习题 30.1 综合运用第 10 题) 如图, $\odot O$ 的直径 $AB$ 与弦 $CD$ 相交, $\angle BAC=38^\circ$. 过点 $D$ 作 $\odot O$ 的切线, 与 $AB$ 的延长线交于点 $P$, $DP\parallel AC$. 求 $\angle ACD$ 的度数.
+(习题 30.1 综合运用第 10 题) 如图, $\odot{O}$ 的直径 $AB$ 与弦 $CD$ 相交, $\angle{B}AC=38^\circ$. 过点 $D$ 作 $\odot{O}$ 的切线, 与 $AB$ 的延长线交于点 $P$, $DP\parallel{A}C$. 求 $\angle{A}CD$ 的度数.
 
 ### 解答 习题十一
 
 由**定理 30.1.1 (切线的性质)** 及**定理 29.2.3 (圆周角定理)**.
 
-$DP\parallel AC$, $\angle PDB=\angle BAC=38^\circ$. 切线 $DP$, 弦切角 $\angle BDP=\angle BAD=38^\circ$. $\angle ACD=\angle ABD$ 相关计算得 $\angle ACD=26^\circ$. $\blacksquare$
+$DP\parallel{A}C$, $\angle{P}DB=\angle{B}AC=38^\circ$. 切线 $DP$, 弦切角 $\angle{B}DP=\angle{B}AD=38^\circ$. $\angle{A}CD=\angle{A}BD$ 相关计算得 $\angle{A}CD=26^\circ$. $\blacksquare$
 
 ## 习题十二
 
-(习题 30.1 拓广探索第 11 题) 如图, 在 $\text{Rt}\triangle ABC$ 中, $\angle CAB=90^\circ$, $D$ 为 $AC$ 的中点, 以 $AB$ 为直径的 $\odot O$ 交 $BC$ 于点 $E$. 求证: $DE$ 是 $\odot O$ 的切线.
+(习题 30.1 拓广探索第 11 题) 如图, 在 $\text{Rt}\triangle{A}BC$ 中, $\angle{C}AB=90^\circ$, $D$ 为 $AC$ 的中点, 以 $AB$ 为直径的 $\odot{O}$ 交 $BC$ 于点 $E$. 求证: $DE$ 是 $\odot{O}$ 的切线.
 
 ### 解答 习题十二
 
 由**定理 30.1.2 (切线的判定)**.
 
-连接 $OE$, $AE$. $AB$ 为直径, $\angle AEB=90^\circ$, $D$ 为 $\text{Rt}\triangle AEC$ 斜边 $AC$ 中点, 故 $DE=DA=DC$. $OE=OA$, $OD$ 公共, $\triangle ODE\cong\triangle ODA$, $\angle OED=\angle OAD=90^\circ$, 故 $DE$ 是切线. $\blacksquare$
+连接 $OE$, $AE$. $AB$ 为直径, $\angle{A}EB=90^\circ$, $D$ 为 $\text{Rt}\triangle{A}EC$ 斜边 $AC$ 中点, 故 $DE=DA=DC$. $OE=OA$, $OD$ 公共, $\triangle{O}DE\cong\triangle{O}DA$, $\angle{O}ED=\angle{O}AD=90^\circ$, 故 $DE$ 是切线. $\blacksquare$
 
 ## 习题十三
 
-(习题 30.1 拓广探索第 12 题) 如图, 等圆 $\odot O_1$ 和 $\odot O_2$ 相交于 $A$, $B$ 两点, $\odot O_1$ 经过 $O_2$ 的圆心 $O_2$. 求 $\angle O_1AB$ 的度数.
+(习题 30.1 拓广探索第 12 题) 如图, 等圆 $\odot{O}_1$ 和 $\odot{O}_2$ 相交于 $A$, $B$ 两点, $\odot{O}_1$ 经过 $O_2$ 的圆心 $O_2$. 求 $\angle{O}_1AB$ 的度数.
 
 ### 解答 习题十三
 
 由**定理 29.2.3 (圆周角定理)**.
 
-两圆等圆半径相等, $O_1O_2=r$. $\triangle O_1AO_2$ 为等边三角形, $\angle O_1AO_2=60^\circ$. $AB\perp O_1O_2$, $\angle O_1AB=30^\circ$. $\blacksquare$
+两圆等圆半径相等, $O_1O_2=r$. $\triangle{O}_1AO_2$ 为等边三角形, $\angle{O}_1AO_2=60^\circ$. $AB\perp{O}_1O_2$, $\angle{O}_1AB=30^\circ$. $\blacksquare$
 
 ## 探究与发现一
 
-(探究与发现 圆与圆的位置关系) 两个圆有哪几种位置关系? 如何用圆心距 $d$ 与两圆半径 $r_1$, $r_2$ ($r_1< r_2$) 刻画?
+(探究与发现 圆与圆的位置关系) 两个圆有哪几种位置关系? 如何用圆心距 $d$ 与两圆半径 $r_1$, $r_2$ ($r_1<{}r_2$) 刻画?
 
 ### 解答 探究与发现一
 
-设两圆半径 $r_1< r_2$, 圆心距 $d$.
+设两圆半径 $r_1<{}r_2$, 圆心距 $d$.
 
-外离: $d> r_1+r_2$; 外切: $d=r_1+r_2$; 相交: $r_2-r_1< d< r_1+r_2$; 内切: $d=r_2-r_1$; 内含: $d< r_2-r_1$. $\blacksquare$
+外离: $d>{}r_1+r_2$; 外切: $d=r_1+r_2$; 相交: $r_2-r_1<{}d<{}r_1+r_2$; 内切: $d=r_2-r_1$; 内含: $d<{}r_2-r_1$. $\blacksquare$

@@ -26,7 +26,7 @@
 
 > **定义 18.1.2 (分式的基本性质)**
 > 
-> 分式的分子与分母乘 (或除以) 同一个不等于 $0$ 的整式, 分式的值不变, 即 $\frac{A}{B}=\frac{A\cdot C}{B\cdot C}=\frac{A\div C}{B\div C}$ ($C\ne0$).
+> 分式的分子与分母乘 (或除以) 同一个不等于 $0$ 的整式, 分式的值不变, 即 $\frac{A}{B}=\frac{A\cdot{C}}{B\cdot{C}}=\frac{A\div{C}}{B\div{C}}$ ($C\ne0$).
 
 > **定义 18.1.3 (约分与最简分式)**
 > 
@@ -110,7 +110,7 @@ $$\left(10n+5\right)^2=100n^2+100n+25=100n\left(n+1\right)+25.$$
 
 ## 活动二
 
-(数学活动 活动 2) 利用因式分解生成密码. 先将确定的多项式分解因式, 再对因式赋值生成因式码, 将因式码按从小到大排列形成密码. 例如多项式 $x^2 y-4y=y\left(x+2\right)\left(x-2\right)$, 取 $x=15,y=12$, 得因式码 $12,17,13$, 排列为 $121317$.
+(数学活动 活动 2) 利用因式分解生成密码. 先将确定的多项式分解因式, 再对因式赋值生成因式码, 将因式码按从小到大排列形成密码. 例如多项式 $x^2y-4y=y\left(x+2\right)\left(x-2\right)$, 取 $x=15,y=12$, 得因式码 $12,17,13$, 排列为 $121317$.
 
 (1) 已知多项式 $16p^4-q^4$, 当取 $p=10$, $q=5$ 时, 生成的密码是什么?
 
@@ -124,7 +124,7 @@ $$\left(10n+5\right)^2=100n^2+100n+25=100n\left(n+1\right)+25.$$
 
 (1) 代入 $p=10,q=5$: $4p^2+q^2=400+25=425$, $2p+q=25$, $2p-q=15$. 因式码为 $425,25,15$, 从小到大排列为 $15,25,425$, 密码为 $1525425$.
 
-(2) 因式 $2p-q$ 与 $2p+q$ 中, $2p-q< 2p+q$. 前两个因式码为 $5,15$, 即 $2p-q=5$, $2p+q=15$. 解得 $p=5,q=5$. 第三个因式 $4p^2+q^2=100+25=125$.
+(2) 因式 $2p-q$ 与 $2p+q$ 中, $2p-q<2p+q$. 前两个因式码为 $5,15$, 即 $2p-q=5$, $2p+q=15$. 解得 $p=5,q=5$. 第三个因式 $4p^2+q^2=100+25=125$.
 
 (3) 例如取多项式 $x^2-4=\left(x+2\right)\left(x-2\right)$, 取 $x=10$, 得因式码 $12,8$, 密码为 $812$. $\blacksquare$
 
@@ -228,17 +228,17 @@ $$\left(10n+5\right)^2=100n^2+100n+25=100n\left(n+1\right)+25.$$
 
 (1) $3ax^2-3ay^2$;
 
-(2) $4xy^2-4x^2 y-y^3$.
+(2) $4xy^2-4x^2y-y^3$.
 
 ### 解答 复习题五
 
 (1) $3ax^2-3ay^2=3a\left(x^2-y^2\right)=3a\left(x+y\right)\left(x-y\right)$.
 
-(2) $4xy^2-4x^2 y-y^3=-y\left(y^2-4xy+4x^2\right)=-y\left(y-2x\right)^2$. $\blacksquare$
+(2) $4xy^2-4x^2y-y^3=-y\left(y^2-4xy+4x^2\right)=-y\left(y-2x\right)^2$. $\blacksquare$
 
 ## 复习题六
 
-(复习题 综合运用第 6 题) 如图, 在半径为 $R$ 的圆形钢板上, 挖去半径为 $r$ 的四个小圆, 计算当 $R=5.6\ \text{cm}$, $r=1.2\ \text{cm}$ 时剩余部分的面积 ($\pi$ 取 $3.14$).
+(复习题 综合运用第 6 题) 如图, 在半径为 $R$ 的圆形钢板上, 挖去半径为 $r$ 的四个小圆, 计算当 $R=5.6\,\text{cm}$, $r=1.2\,\text{cm}$ 时剩余部分的面积 ($\pi$ 取 $3.14$).
 
 图中为一个半径为 $R$ 的大圆 (圆形钢板), 内部左上, 右上, 左下, 右下四个方位各挖去一个半径为 $r$ 的小圆, 四个小圆大小相同且两两外切, 均靠近大圆边缘, 剩余部分为阴影.
 
@@ -246,11 +246,11 @@ $$\left(10n+5\right)^2=100n^2+100n+25=100n\left(n+1\right)+25.$$
 
 剩余面积等于大圆面积减去四个小圆面积:
 
-$$S=\pi R^2-4\pi r^2=\pi\left(R^2-4r^2\right).$$
+$$S=\pi{R}^2-4\pi{r}^2=\pi\left(R^2-4r^2\right).$$
 
 代入 $R=5.6$, $r=1.2$: $R^2=31.36$, $4r^2=4\times1.44=5.76$, $R^2-4r^2=25.6$.
 
-$$S=3.14\times25.6=80.384\ \left(\text{cm}^2\right).$$
+$$S=3.14\times25.6=80.384\,\left(\text{cm}^2\right).$$
 
 $\blacksquare$
 
@@ -272,7 +272,7 @@ $$\left(2n+1\right)^2-\left(2n-1\right)^2=\left[\left(2n+1\right)+\left(2n-1\rig
 
 $$p^2-1+q^2+2pq=\left(p^2+2pq+q^2\right)-1=\left(p+q\right)^2-1=\left(p+q+1\right)\left(p+q-1\right).$$
 
-利用上述分解因式的方法证明: 如果 $a,b,c$ 是 $\triangle ABC$ 的三条边的长, 那么 $a^2-b^2+c^2-2ac< 0$.
+利用上述分解因式的方法证明: 如果 $a,b,c$ 是 $\triangle{A}BC$ 的三条边的长, 那么 $a^2-b^2+c^2-2ac<0$.
 
 ### 解答 复习题八
 
@@ -280,9 +280,9 @@ $$p^2-1+q^2+2pq=\left(p^2+2pq+q^2\right)-1=\left(p+q\right)^2-1=\left(p+q+1\righ
 
 $$a^2-b^2+c^2-2ac=\left(a^2-2ac+c^2\right)-b^2=\left(a-c\right)^2-b^2=\left(a-c+b\right)\left(a-c-b\right).$$
 
-由三角形两边之和大于第三边, $a+b> c$ 即 $a-c+b> 0$; 又 $a< b+c$ 即 $a-c-b< 0$. 两因式一正一负, 故
+由三角形两边之和大于第三边, $a+b>{}c$ 即 $a-c+b>0$; 又 $a<{}b+c$ 即 $a-c-b<0$. 两因式一正一负, 故
 
-$$a^2-b^2+c^2-2ac=\left(a+b-c\right)\left(a-b-c\right)< 0.$$
+$$a^2-b^2+c^2-2ac=\left(a+b-c\right)\left(a-b-c\right)<0.$$
 
 $\blacksquare$
 
@@ -290,33 +290,33 @@ $\blacksquare$
 
 (练习 18.1 第 1 题) 列式表示下列各量:
 
-(1) 某村有 $n$ 个人, 耕地 $40\ \text{hm}^2$, 则人均耕地面积为 \;_\_\; $\text{hm}^2$;
+(1) 某村有 $n$ 个人, 耕地 $40\,\text{hm}^2$, 则人均耕地面积为 \;_\_\; $\text{hm}^2$;
 
-(2) $\triangle ABC$ 的面积为 $S$, 底边 $BC$ 长为 $a$, 则高 $AD$ 为 \;_\_\; ;
+(2) $\triangle{A}BC$ 的面积为 $S$, 底边 $BC$ 长为 $a$, 则高 $AD$ 为 \;_\_\; ;
 
-(3) 一辆汽车行驶 $s\ \text{km}$ 用了 $t\ \text{h}$, 则它的平均速度为 \;_\_\; $\text{km/h}$; 一列火车行驶 $s\ \text{km}$ 比汽车少用 $1\ \text{h}$, 则它的平均速度为 \;_\_\; $\text{km/h}$.
+(3) 一辆汽车行驶 $s\,\text{km}$ 用了 $t\,\text{h}$, 则它的平均速度为 \;_\_\; $\text{km/h}$; 一列火车行驶 $s\,\text{km}$ 比汽车少用 $1\,\text{h}$, 则它的平均速度为 \;_\_\; $\text{km/h}$.
 
 ### 解答 练习一
 
-(1) 人均耕地 $=\frac{40}{n}\ \text{hm}^2$.
+(1) 人均耕地 $=\frac{40}{n}\,\text{hm}^2$.
 
-(2) 由 $S=\frac12 a\cdot AD$, 得 $AD=\frac{2S}{a}$.
+(2) 由 $S=\frac12a\cdot{A}D$, 得 $AD=\frac{2S}{a}$.
 
-(3) 汽车平均速度 $=\frac{s}{t}\ \text{km/h}$; 火车用时 $t-1\ \text{h}$, 平均速度 $=\frac{s}{t-1}\ \text{km/h}$. $\blacksquare$
+(3) 汽车平均速度 $=\frac{s}{t}\,\text{km/h}$; 火车用时 $t-1\,\text{h}$, 平均速度 $=\frac{s}{t-1}\,\text{km/h}$. $\blacksquare$
 
 ## 练习二
 
 (练习 18.1 第 2 题) 下列各式中, 哪些是分式? 哪些是整式?
 
-$\frac{1}{x}$, $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{a^2 b}{c}$, $\frac{x^2-y^2}{\pi}$, $\frac{x}{4}+\frac{y}{5}$.
+$\frac{1}{x}$, $\frac{x}{3}$, $\frac{1}{4}x^2y$, $\frac{a^2b}{c}$, $\frac{x^2-y^2}{\pi}$, $\frac{x}{4}+\frac{y}{5}$.
 
 ### 解答 练习二
 
 由**定义 18.1.1 (分式)**, 分母中含有字母的是分式.
 
-分式: $\frac{1}{x}$, $\frac{a^2 b}{c}$.
+分式: $\frac{1}{x}$, $\frac{a^2b}{c}$.
 
-整式: $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{x^2-y^2}{\pi}$ ($\pi$ 是常数), $\frac{x}{4}+\frac{y}{5}$. $\blacksquare$
+整式: $\frac{x}{3}$, $\frac{1}{4}x^2y$, $\frac{x^2-y^2}{\pi}$ ($\pi$ 是常数), $\frac{x}{4}+\frac{y}{5}$. $\blacksquare$
 
 ## 练习三
 
@@ -396,11 +396,11 @@ $\frac{1}{x}$, $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{a^2 b}{c}$, $\frac{x^2-
 
 (练习 18.1 第 3 题) 通分:
 
-(1) $\frac{z}{2x^2 y}$ 与 $\frac{5}{6xy^2}$;
+(1) $\frac{z}{2x^2y}$ 与 $\frac{5}{6xy^2}$;
 
 (2) $\frac{x}{x+y}$ 与 $\frac{y}{x-y}$;
 
-(3) $\frac{3}{2a^2 b}$ 与 $\frac{a-b}{2ab^2}$;
+(3) $\frac{3}{2a^2b}$ 与 $\frac{a-b}{2ab^2}$;
 
 (4) $\frac{1}{a^2-2a+1}$ 与 $\frac{1}{a^2-1}$.
 
@@ -408,11 +408,11 @@ $\frac{1}{x}$, $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{a^2 b}{c}$, $\frac{x^2-
 
 由**定义 18.1.4 (通分与最简公分母)**.
 
-(1) 最简公分母 $6x^2 y^2$: $\frac{z}{2x^2 y}=\frac{3yz}{6x^2 y^2}$, $\frac{5}{6xy^2}=\frac{5x}{6x^2 y^2}$.
+(1) 最简公分母 $6x^2y^2$: $\frac{z}{2x^2y}=\frac{3yz}{6x^2y^2}$, $\frac{5}{6xy^2}=\frac{5x}{6x^2y^2}$.
 
 (2) 最简公分母 $\left(x+y\right)\left(x-y\right)$: $\frac{x}{x+y}=\frac{x\left(x-y\right)}{\left(x+y\right)\left(x-y\right)}$, $\frac{y}{x-y}=\frac{y\left(x+y\right)}{\left(x+y\right)\left(x-y\right)}$.
 
-(3) 最简公分母 $2a^2 b^2$: $\frac{3}{2a^2 b}=\frac{3b}{2a^2 b^2}$, $\frac{a-b}{2ab^2}=\frac{a\left(a-b\right)}{2a^2 b^2}$.
+(3) 最简公分母 $2a^2b^2$: $\frac{3}{2a^2b}=\frac{3b}{2a^2b^2}$, $\frac{a-b}{2ab^2}=\frac{a\left(a-b\right)}{2a^2b^2}$.
 
 (4) $a^2-2a+1=\left(a-1\right)^2$, $a^2-1=\left(a-1\right)\left(a+1\right)$, 最简公分母 $\left(a-1\right)^2\left(a+1\right)$: $\frac{1}{\left(a-1\right)^2}=\frac{a+1}{\left(a-1\right)^2\left(a+1\right)}$, $\frac{1}{\left(a-1\right)\left(a+1\right)}=\frac{a-1}{\left(a-1\right)^2\left(a+1\right)}$. $\blacksquare$
 
@@ -420,9 +420,9 @@ $\frac{1}{x}$, $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{a^2 b}{c}$, $\frac{x^2-
 
 (习题 18.1 复习巩固第 1 题) 列式表示:
 
-(1) 某地有造林面积 $m$ 公顷, 原计划 $n$ 年完成 ($n> 1$), 现要提前 $1$ 年完成, 则实际每年要比原计划多造林 \;_\_\; 公顷;
+(1) 某地有造林面积 $m$ 公顷, 原计划 $n$ 年完成 ($n>1$), 现要提前 $1$ 年完成, 则实际每年要比原计划多造林 \;_\_\; 公顷;
 
-(2) 汽车以 $a\ \text{km/h}$ 的速度从甲地到乙地, 甲, 乙两地相距 $120\ \text{km}$, 则从甲地到乙地所用时间为 \;_\_\; $\text{h}$;
+(2) 汽车以 $a\,\text{km/h}$ 的速度从甲地到乙地, 甲, 乙两地相距 $120\,\text{km}$, 则从甲地到乙地所用时间为 \;_\_\; $\text{h}$;
 
 (3) 某校学生总数为 $m$, 其中男生人数占全体学生数的 $\frac35$, 则女生人数为 \;_\_\; .
 
@@ -430,7 +430,7 @@ $\frac{1}{x}$, $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{a^2 b}{c}$, $\frac{x^2-
 
 (1) 原计划每年 $\frac{m}{n}$, 实际每年 $\frac{m}{n-1}$, 多造林 $\frac{m}{n-1}-\frac{m}{n}=\frac{m}{n\left(n-1\right)}$ 公顷.
 
-(2) 时间 $=$ 路程 $\div$ 速度 $=\frac{120}{a}\ \text{h}$.
+(2) 时间 $=$ 路程 $\div$ 速度 $=\frac{120}{a}\,\text{h}$.
 
 (3) 女生占 $1-\frac35=\frac25$, 女生人数为 $\frac{2}{5}m$. $\blacksquare$
 
@@ -438,13 +438,13 @@ $\frac{1}{x}$, $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{a^2 b}{c}$, $\frac{x^2-
 
 (习题 18.1 复习巩固第 2 题) 下列各式中, 哪些是整式? 哪些是分式?
 
-$\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y}$, $\frac{2ab}{\left(a+b\right)^2}$.
+$\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2y}$, $\frac{2ab}{\left(a+b\right)^2}$.
 
 ### 解答 习题三
 
 由**定义 18.1.1 (分式)**.
 
-分式: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2 y}$, $\frac{2ab}{\left(a+b\right)^2}$.
+分式: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2y}$, $\frac{2ab}{\left(a+b\right)^2}$.
 
 整式: $\frac{x}{3}$, $\frac{a+5}{15}$. $\blacksquare$
 
@@ -500,21 +500,21 @@ $\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y
 
 (习题 18.1 复习巩固第 5 题) 通分:
 
-(1) $\frac{z}{3x^2 y}$ 与 $\frac{x y}{2 z^2}$;
+(1) $\frac{z}{3x^2y}$ 与 $\frac{xy}{2z^2}$;
 
-(2) $\frac{5}{a^2 b}$ 与 $\frac{3}{a b^2}$;
+(2) $\frac{5}{a^2b}$ 与 $\frac{3}{ab^2}$;
 
-(3) $\frac{x-1}{-2 x}$ 与 $\frac{1}{x^2-2 x}$;
+(3) $\frac{x-1}{-2x}$ 与 $\frac{1}{x^2-2x}$;
 
-(4) $\frac{1}{x^2-9}$ 与 $\frac{1}{2 x+6}$.
+(4) $\frac{1}{x^2-9}$ 与 $\frac{1}{2x+6}$.
 
 ### 解答 习题六
 
 由**定义 18.1.4 (通分与最简公分母)**.
 
-(1) 最简公分母 $6x^2 y z^2$: $\frac{z}{3x^2 y}=\frac{2z^3}{6x^2 y z^2}$, $\frac{xy}{2z^2}=\frac{3x^3 y^2}{6x^2 y z^2}$.
+(1) 最简公分母 $6x^2yz^2$: $\frac{z}{3x^2y}=\frac{2z^3}{6x^2yz^2}$, $\frac{xy}{2z^2}=\frac{3x^3y^2}{6x^2yz^2}$.
 
-(2) 最简公分母 $a^2 b^2$: $\frac{5}{a^2 b}=\frac{5b}{a^2 b^2}$, $\frac{3}{ab^2}=\frac{3a}{a^2 b^2}$.
+(2) 最简公分母 $a^2b^2$: $\frac{5}{a^2b}=\frac{5b}{a^2b^2}$, $\frac{3}{ab^2}=\frac{3a}{a^2b^2}$.
 
 (3) $x^2-2x=x\left(x-2\right)$, 最简公分母 $2x\left(x-2\right)$: $\frac{x-1}{-2x}=\frac{\left(x-1\right)\left(x-2\right)}{-2x\left(x-2\right)}$, $\frac{1}{x\left(x-2\right)}=\frac{-2}{-2x\left(x-2\right)}$.
 
@@ -524,11 +524,11 @@ $\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y
 
 (习题 18.1 综合运用第 6 题) 填空:
 
-(1) $\frac{3a}{5xy}=\frac{\left(\;\;\right)}{10 a x y}$ ($a\ne0$);
+(1) $\frac{3a}{5xy}=\frac{\left(\;\;\right)}{10axy}$ ($a\ne0$);
 
 (2) $\frac{a+2}{a^2-4}=\frac{1}{\left(\;\;\right)}$;
 
-(3) $\frac{2 x}{x^2-3 x}=\frac{2}{\left(\;\;\right)}$.
+(3) $\frac{2x}{x^2-3x}=\frac{2}{\left(\;\;\right)}$.
 
 ### 解答 习题七
 

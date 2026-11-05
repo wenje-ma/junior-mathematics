@@ -58,7 +58,7 @@
 
 > **定义 13.1.2 (边, 顶点与内角)**
 > 
-> 组成三角形的线段叫作三角形的边, 相邻两边的公共端点叫作三角形的顶点, 相邻两边所组成的角叫作三角形的内角, 简称三角形的角. 顶点是 $A,B,C$ 的三角形记作 $\triangle ABC$.
+> 组成三角形的线段叫作三角形的边, 相邻两边的公共端点叫作三角形的顶点, 相邻两边所组成的角叫作三角形的内角, 简称三角形的角. 顶点是 $A,B,C$ 的三角形记作 $\triangle{A}BC$.
 
 > **定义 13.1.3 (等腰三角形)**
 > 
@@ -82,13 +82,13 @@
 
 ## 习题二
 
-(习题 12.2 复习巩固第 4 题) 全班 $60$ 秒跳绳次数频数表: $60\le x< 80$ 频数 $3$; $80\le x< 100$ 频数 $4$; $100\le x< 120$ 频数 $17$; $120\le x< 140$ 频数 $9$; $140\le x< 160$ 频数 $8$; $160\le x< 180$ 频数 $6$; $180\le x< 200$ 频数 $1$.
+(习题 12.2 复习巩固第 4 题) 全班 $60$ 秒跳绳次数频数表: $60\le{x}<80$ 频数 $3$; $80\le{x}<100$ 频数 $4$; $100\le{x}<120$ 频数 $17$; $120\le{x}<140$ 频数 $9$; $140\le{x}<160$ 频数 $8$; $160\le{x}<180$ 频数 $6$; $180\le{x}<200$ 频数 $1$.
 
 (1) 全班多少名同学?
 
 (2) 组距, 组数?
 
-(3) $120\le x< 160$ 范围的同学多少? 占百分之几?
+(3) $120\le{x}<160$ 范围的同学多少? 占百分之几?
 
 (4) 画直方图.
 
@@ -140,7 +140,7 @@
 
 ### 解答 习题五
 
-极差 $24.4-18.5=5.9$, 取组距 $0.5$ 分约 $12$ 组. 多数周销量集中在 $20.0\sim23.0\ \text{t}$ 之间. 故每星期购进约 $21\sim22\ \text{t}$ 面粉较合适, 既能满足需求又不致积压. $\blacksquare$
+极差 $24.4-18.5=5.9$, 取组距 $0.5$ 分约 $12$ 组. 多数周销量集中在 $20.0\sim23.0\,\text{t}$ 之间. 故每星期购进约 $21\sim22\,\text{t}$ 面粉较合适, 既能满足需求又不致积压. $\blacksquare$
 
 ## 习题六
 
@@ -188,7 +188,7 @@
 
 ### 解答 活动一
 
-设全班 $N$ 名同学身高为 $x_1,x_2,\ldots,x_N$, 总体平均身高 $\overline{x}=\frac{1}{N}\sum_{i=1}^N x_i$.
+设全班 $N$ 名同学身高为 $x_1,x_2,\ldots,x_N$, 总体平均身高 $\overline{x}=\frac{1}{N}\sum_{i=1}^Nx_i$.
 
 每次抽取容量为 $15$ 的样本, 样本平均 $\overline{x}_k=\frac{1}{15}\sum_{j=1}^{15}x_{i_j}$. 由**定义 12.1.6 (简单随机抽样)**, 每次抽取无偏, $\overline{x}_k$ 围绕 $\overline{x}$ 上下波动.
 
@@ -210,7 +210,7 @@
 
 直尺下落做自由落体运动, 下落距离 $d=\frac{1}{2}gt^2$, 故反应时间 $t=\sqrt{\frac{2d}{g}}$. $d$ 越小, 反应时间 $t$ 越短, 反应速度越快.
 
-比较两人的 $\overline d$: $\overline d$ 较小者反应较快. $\blacksquare$
+比较两人的 $\overline{d}$: $\overline{d}$ 较小者反应较快. $\blacksquare$
 
 ## 复习题一
 
@@ -264,7 +264,7 @@
 
 ## 复习题四
 
-(复习题 复习巩固第 4 题) 校医务室调查 $30$ 名七年级男生平均体重 $48\ \text{kg}$, 能否作为七年级学生平均体重的估计?
+(复习题 复习巩固第 4 题) 校医务室调查 $30$ 名七年级男生平均体重 $48\,\text{kg}$, 能否作为七年级学生平均体重的估计?
 
 ### 解答 复习题四
 
@@ -272,17 +272,17 @@
 
 ## 复习题五
 
-(复习题 复习巩固第 5 题) 调查学生一周家务劳动时间, 分 A ($x< 60$), B ($60\le x< 90$), C ($90\le x< 120$), D ($x\ge120$) 四组. 已知 B 组 $70$ 人占 $35\%$, D 组占 $40\%$.
+(复习题 复习巩固第 5 题) 调查学生一周家务劳动时间, 分 A ($x<60$), B ($60\le{x}<90$), C ($90\le{x}<120$), D ($x\ge120$) 四组. 已知 B 组 $70$ 人占 $35\%$, D 组占 $40\%$.
 
 (1) 共调查多少名学生?
 
-(2) 全校 $1500$ 名学生, 估计一周家务劳动时间不少于 $90\ \text{min}$ 的学生约多少人?
+(2) 全校 $1500$ 名学生, 估计一周家务劳动时间不少于 $90\,\text{min}$ 的学生约多少人?
 
 ### 解答 复习题五
 
 (1) 由 B 组 $70$ 人占 $35\%$, 总人数为 $\frac{70}{35\%}=200$ 人.
 
-(2) D 组占 $40\%$ 即 $80$ 人. A 组与 C 组共占 $100\%-35\%-40\%=25\%$, 由条形图知 A 组 $20$ 人占 $10\%$, 故 C 组占 $15\%$ 即 $30$ 人. 不少于 $90\ \text{min}$ 的为 C 组与 D 组, 共占 $15\%+40\%=55\%$. 全校估计 $1500\times55\%=825$ 人. $\blacksquare$
+(2) D 组占 $40\%$ 即 $80$ 人. A 组与 C 组共占 $100\%-35\%-40\%=25\%$, 由条形图知 A 组 $20$ 人占 $10\%$, 故 C 组占 $15\%$ 即 $30$ 人. 不少于 $90\,\text{min}$ 的为 C 组与 D 组, 共占 $15\%+40\%=55\%$. 全校估计 $1500\times55\%=825$ 人. $\blacksquare$
 
 ## 复习题六
 
@@ -318,9 +318,9 @@
 
 ### 解答 复习题八
 
-(1) 极差 $24.8-1.5=23.3$, 取组距 $3$ 分约 $8$ 组. 多数家庭月均用水量集中在 $3\sim12\ \text{t}$ 之间, 少数家庭超过 $18\ \text{t}$.
+(1) 极差 $24.8-1.5=23.3$, 取组距 $3$ 分约 $8$ 组. 多数家庭月均用水量集中在 $3\sim12\,\text{t}$ 之间, 少数家庭超过 $18\,\text{t}$.
 
-(2) 要使 $60\%$ 家庭不受影响, 即累计频率达 $60\%$ 对应的用水量. 由频数分布表累计, 第 $30$ 个家庭的用水量约为 $9\ \text{t}$. 故标准定为 $9\ \text{t}$, 超出部分按 $1.5$ 倍收费, 可使前 $60\%$ 家庭水费不受影响. $\blacksquare$
+(2) 要使 $60\%$ 家庭不受影响, 即累计频率达 $60\%$ 对应的用水量. 由频数分布表累计, 第 $30$ 个家庭的用水量约为 $9\,\text{t}$. 故标准定为 $9\,\text{t}$, 超出部分按 $1.5$ 倍收费, 可使前 $60\%$ 家庭水费不受影响. $\blacksquare$
 
 ## 复习题九
 
@@ -328,7 +328,7 @@
 
 ### 解答 复习题九
 
-最大值 $8.3$, 最小值 $6.9$, 极差 $1.4$. 取组距 $0.2$ 分组. 多数汽车耗油集中在 $7.2\sim7.8\ \text{L}$ 之间, 平均约 $7.5\ \text{L}$, 耗油较为集中, 个别车辆耗油偏高. $\blacksquare$
+最大值 $8.3$, 最小值 $6.9$, 极差 $1.4$. 取组距 $0.2$ 分组. 多数汽车耗油集中在 $7.2\sim7.8\,\text{L}$ 之间, 平均约 $7.5\,\text{L}$, 耗油较为集中, 个别车辆耗油偏高. $\blacksquare$
 
 ## 复习题十
 
@@ -350,7 +350,7 @@
 
 ## 探究一
 
-(综合与实践 活动一 第 1 题) 探究北京 2024 年白昼时长的变化规律. 已知小寒 (1 月 6 日) 日出 $7{:}36$, 日落 $17{:}04$, 白昼 $9\ \text{h}\ 28\ \text{min}$; 春分白昼约 $12\ \text{h}$; 夏至白昼约 $15\ \text{h}$; 冬至白昼约 $9\ \text{h}\ 28\ \text{min}$.
+(综合与实践 活动一 第 1 题) 探究北京 2024 年白昼时长的变化规律. 已知小寒 (1 月 6 日) 日出 $7{:}36$, 日落 $17{:}04$, 白昼 $9\,\text{h}\,28\,\text{min}$; 春分白昼约 $12\,\text{h}$; 夏至白昼约 $15\,\text{h}$; 冬至白昼约 $9\,\text{h}\,28\,\text{min}$.
 
 (1) 计算小寒的白昼时长;
 
@@ -362,11 +362,11 @@
 
 ### 解答 探究一
 
-(1) 由**公式 12.5.1 (白昼时长)**, 白昼时长 $=$ (日落 $-$ 正午) $\times2=\left(17{:}04-12{:}00\right)\times2=5\ \text{h}\ 04\ \text{min}\times2=10\ \text{h}\ 08\ \text{min}$. 由表中直接给出 $9\ \text{h}\ 28\ \text{min}$, 因正午不是北京时间 $12{:}00$ 整, 存在经度误差.
+(1) 由**公式 12.5.1 (白昼时长)**, 白昼时长 $=$ (日落 $-$ 正午) $\times2=\left(17{:}04-12{:}00\right)\times2=5\,\text{h}\,04\,\text{min}\times2=10\,\text{h}\,08\,\text{min}$. 由表中直接给出 $9\,\text{h}\,28\,\text{min}$, 因正午不是北京时间 $12{:}00$ 整, 存在经度误差.
 
 (2) 以节气顺序为横轴, 白昼时长为纵轴, 绘制折线图如图.
 
-(3) 从折线图可见, 北京白昼时长从冬至到夏至逐渐变长, 从夏至到冬至逐渐变短. 白昼最长的一天是夏至 (6 月 21 日), 约 $15\ \text{h}$; 白昼最短的一天是冬至, 约 $9\ \text{h}\ 28\ \text{min}$. $\blacksquare$
+(3) 从折线图可见, 北京白昼时长从冬至到夏至逐渐变长, 从夏至到冬至逐渐变短. 白昼最长的一天是夏至 (6 月 21 日), 约 $15\,\text{h}$; 白昼最短的一天是冬至, 约 $9\,\text{h}\,28\,\text{min}$. $\blacksquare$
 
 ## 探究二
 
@@ -394,7 +394,7 @@
 
 由**公式 12.5.1 (白昼时长)**, 已知白昼时长 $T$, 取正午为 $12{:}00$, 则日出 $=12{:}00-\frac{T}{2}$, 日落 $=12{:}00+\frac{T}{2}$.
 
-黑夜时长 $=24\ \text{h}-T$. 若已知后一天日出时刻 $t_{\text{出}}'$, 则后一天黑夜时长 $=t_{\text{出}}'$ (从前一日日落到后一日日出), 即 $t_{\text{出}}'-$ 前一日日落时刻. $\blacksquare$
+黑夜时长 $=24\,\text{h}-T$. 若已知后一天日出时刻 $t_{\text{出}}'$, 则后一天黑夜时长 $=t_{\text{出}}'$ (从前一日日落到后一日日出), 即 $t_{\text{出}}'-$ 前一日日落时刻. $\blacksquare$
 
 ## 探究四
 
@@ -406,7 +406,7 @@
 
 ## 练习一
 
-(练习 13.1 第 1 题) 如图, 在 $\triangle ABC$ 中, $AB=BC=CA$, 点 $O$ 在 $\triangle ABC$ 内, $OA=OB=OC$, 找出图中的等腰三角形和等边三角形.
+(练习 13.1 第 1 题) 如图, 在 $\triangle{A}BC$ 中, $AB=BC=CA$, 点 $O$ 在 $\triangle{A}BC$ 内, $OA=OB=OC$, 找出图中的等腰三角形和等边三角形.
 
 图中为等边三角形 $ABC$($AB=BC=CA$), 内部有一点 $O$, 连接 $OA$, $OB$, $OC$, 且 $OA=OB=OC$.
 
@@ -414,41 +414,41 @@
 
 由**定义 13.1.3 (等腰三角形)**, 有两边相等的三角形是等腰三角形; 由**定义 13.1.4 (等边三角形)**, 三边都相等的三角形是等边三角形.
 
-图中的三角形为 $\triangle ABC$, $\triangle OAB$, $\triangle OBC$, $\triangle OCA$.
+图中的三角形为 $\triangle{A}BC$, $\triangle{O}AB$, $\triangle{O}BC$, $\triangle{O}CA$.
 
-由 $AB=BC=CA$, 知 $\triangle ABC$ 三边都相等, 故 $\triangle ABC$ 是等边三角形. 又由 $OA=OB$, 知 $\triangle OAB$ 是等腰三角形; 由 $OB=OC$, 知 $\triangle OBC$ 是等腰三角形; 由 $OC=OA$, 知 $\triangle OCA$ 是等腰三角形.
+由 $AB=BC=CA$, 知 $\triangle{A}BC$ 三边都相等, 故 $\triangle{A}BC$ 是等边三角形. 又由 $OA=OB$, 知 $\triangle{O}AB$ 是等腰三角形; 由 $OB=OC$, 知 $\triangle{O}BC$ 是等腰三角形; 由 $OC=OA$, 知 $\triangle{O}CA$ 是等腰三角形.
 
-故等腰三角形为 $\triangle OAB$, $\triangle OBC$, $\triangle OCA$, 等边三角形为 $\triangle ABC$. $\blacksquare$
+故等腰三角形为 $\triangle{O}AB$, $\triangle{O}BC$, $\triangle{O}CA$, 等边三角形为 $\triangle{A}BC$. $\blacksquare$
 
 ## 练习二
 
-(练习 13.1 第 2 题) 如图, 在 $\triangle ABC$ 中, $\angle BAC$ 是直角, $AD\perp BC$, 垂足为 $D$, 点 $E$ 在线段 $BD$ 上, 找出图中的锐角三角形, 直角三角形和钝角三角形.
+(练习 13.1 第 2 题) 如图, 在 $\triangle{A}BC$ 中, $\angle{B}AC$ 是直角, $AD\perp{B}C$, 垂足为 $D$, 点 $E$ 在线段 $BD$ 上, 找出图中的锐角三角形, 直角三角形和钝角三角形.
 
-图中为直角三角形 $ABC$($\angle BAC=90^\circ$), $AD\perp BC$ 垂足为 $D$, 点 $E$ 在线段 $BD$ 上, 连接 $AE$.
+图中为直角三角形 $ABC$($\angle{B}AC=90^\circ$), $AD\perp{B}C$ 垂足为 $D$, 点 $E$ 在线段 $BD$ 上, 连接 $AE$.
 
 ### 解答 练习二
 
-图中的三角形为 $\triangle ABC$, $\triangle ABD$, $\triangle ADE$, $\triangle ADC$, $\triangle ABE$, $\triangle AEC$.
+图中的三角形为 $\triangle{A}BC$, $\triangle{A}BD$, $\triangle{A}DE$, $\triangle{A}DC$, $\triangle{A}BE$, $\triangle{A}EC$.
 
-由 $\angle BAC=90^\circ$, 知 $\triangle ABC$ 是直角三角形; 由 $AD\perp BC$, 知 $\angle ADB=\angle ADE=\angle ADC=90^\circ$, 故 $\triangle ABD$, $\triangle ADE$, $\triangle ADC$ 都是直角三角形.
+由 $\angle{B}AC=90^\circ$, 知 $\triangle{A}BC$ 是直角三角形; 由 $AD\perp{B}C$, 知 $\angle{A}DB=\angle{A}DE=\angle{A}DC=90^\circ$, 故 $\triangle{A}BD$, $\triangle{A}DE$, $\triangle{A}DC$ 都是直角三角形.
 
-在 $\triangle ADE$ 中, $\angle ADE=90^\circ$, 故其余两角 $\angle DAE$, $\angle AED$ 均为锐角. 点 $B,E,D,C$ 在直线 $BC$ 上顺次排列, 由 $E$ 指向 $B$ 与由 $E$ 指向 $D$ 方向相同, 故 $\angle AEB=\angle AED$ 为锐角; 而 $\angle AEC=180^\circ-\angle AED$ 为钝角.
+在 $\triangle{A}DE$ 中, $\angle{A}DE=90^\circ$, 故其余两角 $\angle{D}AE$, $\angle{A}ED$ 均为锐角. 点 $B,E,D,C$ 在直线 $BC$ 上顺次排列, 由 $E$ 指向 $B$ 与由 $E$ 指向 $D$ 方向相同, 故 $\angle{A}EB=\angle{A}ED$ 为锐角; 而 $\angle{A}EC=180^\circ-\angle{A}ED$ 为钝角.
 
-$\triangle ABE$ 中, $\angle ABE=\angle ABC$ 为锐角 ($\triangle ABC$ 为直角三角形), $\angle BAE$, $\angle AEB$ 均为锐角, 故 $\triangle ABE$ 是锐角三角形. $\triangle AEC$ 中 $\angle AEC$ 为钝角, 故 $\triangle AEC$ 是钝角三角形.
+$\triangle{A}BE$ 中, $\angle{A}BE=\angle{A}BC$ 为锐角 ($\triangle{A}BC$ 为直角三角形), $\angle{B}AE$, $\angle{A}EB$ 均为锐角, 故 $\triangle{A}BE$ 是锐角三角形. $\triangle{A}EC$ 中 $\angle{A}EC$ 为钝角, 故 $\triangle{A}EC$ 是钝角三角形.
 
-综上, 直角三角形为 $\triangle ABC$, $\triangle ABD$, $\triangle ADE$, $\triangle ADC$; 锐角三角形为 $\triangle ABE$; 钝角三角形为 $\triangle AEC$. $\blacksquare$
+综上, 直角三角形为 $\triangle{A}BC$, $\triangle{A}BD$, $\triangle{A}DE$, $\triangle{A}DC$; 锐角三角形为 $\triangle{A}BE$; 钝角三角形为 $\triangle{A}EC$. $\blacksquare$
 
 ## 习题九
 
-(习题 13.1 复习巩固第 1 题) 如图, 写出以 $\angle A$ 为角的三角形, 写出以 $BC$ 为边的三角形.
+(习题 13.1 复习巩固第 1 题) 如图, 写出以 $\angle{A}$ 为角的三角形, 写出以 $BC$ 为边的三角形.
 
 图中为三角形 $ABC$, 点 $D$ 在三角形外部, 连接 $BD$ 交 $AC$ 于点 $E$, 并连接 $DC$.
 
 ### 解答 习题九
 
-左图中画出的线段为 $AB$, $BC$, $CA$, $BD$ (点 $E$ 为 $AC$ 与 $BD$ 的交点), $DC$. 以 $\angle A$ 为角即顶点含 $A$ 的三角形为 $\triangle ABC$, $\triangle ABE$; 以 $BC$ 为边的三角形为 $\triangle ABC$, $\triangle BEC$, $\triangle BCD$.
+左图中画出的线段为 $AB$, $BC$, $CA$, $BD$ (点 $E$ 为 $AC$ 与 $BD$ 的交点), $DC$. 以 $\angle{A}$ 为角即顶点含 $A$ 的三角形为 $\triangle{A}BC$, $\triangle{A}BE$; 以 $BC$ 为边的三角形为 $\triangle{A}BC$, $\triangle{B}EC$, $\triangle{B}CD$.
 
-故以 $\angle A$ 为角的三角形是 $\triangle ABC$, $\triangle ABE$; 以 $BC$ 为边的三角形是 $\triangle ABC$, $\triangle BEC$, $\triangle BCD$. $\blacksquare$
+故以 $\angle{A}$ 为角的三角形是 $\triangle{A}BC$, $\triangle{A}BE$; 以 $BC$ 为边的三角形是 $\triangle{A}BC$, $\triangle{B}EC$, $\triangle{B}CD$. $\blacksquare$
 
 ## 习题十
 
@@ -460,4 +460,4 @@ $\triangle ABE$ 中, $\angle ABE=\angle ABC$ 为锐角 ($\triangle ABC$ 为直�
 
 右图中, 点 $B,D,E,C$ 在同一条直线上, 点 $A$ 为该直线外一点, 且 $AB$, $AD$, $AE$, $AC$ 均已画出. 任取直线 $BC$ 上两点与点 $A$ 即可构成一个三角形, 共 $\binom{4}{2}=6$ 个.
 
-它们是 $\triangle ABC$, $\triangle ABD$, $\triangle ABE$, $\triangle ADE$, $\triangle ADC$, $\triangle AEC$. 故图中共有 $6$ 个三角形. $\blacksquare$
+它们是 $\triangle{A}BC$, $\triangle{A}BD$, $\triangle{A}BE$, $\triangle{A}DE$, $\triangle{A}DC$, $\triangle{A}EC$. 故图中共有 $6$ 个三角形. $\blacksquare$

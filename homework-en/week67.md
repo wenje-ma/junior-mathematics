@@ -6,7 +6,7 @@
 
 > **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**
 > 
-> The graph of $y=\frac{k}{x}$ is a hyperbola. When $k> 0$, the two branches lie in the first and third quadrants, and in each quadrant $y$ decreases as $x$ increases; when $k< 0$, the two branches lie in the second and fourth quadrants, and in each quadrant $y$ increases as $x$ increases.
+> The graph of $y=\frac{k}{x}$ is a hyperbola. When $k>0$, the two branches lie in the first and third quadrants, and in each quadrant $y$ decreases as $x$ increases; when $k<0$, the two branches lie in the second and fourth quadrants, and in each quadrant $y$ increases as $x$ increases.
 
 > **Definition 27.1.1 (Similar Figures)**
 > 
@@ -22,7 +22,7 @@
 
 > **Definition 27.2.1 (Similar Triangles)**
 > 
-> In $\triangle ABC$ and $\triangle A'B'C'$, if $\angle A=\angle A'$, $\angle B=\angle B'$, $\angle C=\angle C'$, and $\frac{AB}{A'B'}=\frac{BC}{B'C'}=\frac{AC}{A'C'}=k$, then $\triangle ABC\backsim\triangle A'B'C'$.
+> In $\triangle{A}BC$ and $\triangle{A}'B'C'$, if $\angle{A}=\angle{A}'$, $\angle{B}=\angle{B}'$, $\angle{C}=\angle{C}'$, and $\frac{AB}{A'B'}=\frac{BC}{B'C'}=\frac{AC}{A'C'}=k$, then $\triangle{A}BC\backsim\triangle{A}'B'C'$.
 
 > **Basic Fact 27.2.1 (Parallel Lines Dividing Line Segments Proportionally)**
 > 
@@ -68,9 +68,9 @@
 
 By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**.
 
-(1) $k=10> 0$, the graph lies in the first and third quadrants, and $y$ decreases as $x$ increases.
+(1) $k=10>0$, the graph lies in the first and third quadrants, and $y$ decreases as $x$ increases.
 
-(2) $k=-10< 0$, the graph lies in the second and fourth quadrants, and $y$ increases as $x$ increases. $\blacksquare$
+(2) $k=-10<0$, the graph lies in the second and fourth quadrants, and $y$ increases as $x$ increases. $\blacksquare$
 
 ## Review Problem 2
 
@@ -90,11 +90,11 @@ By **Definition 26.1.1 (Inverse Proportional Function)**, an inverse proportiona
 
 ### Solution to Review Problem 3
 
-By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**, $y$ decreasing as $x$ increases means $k-1> 0$, so $k> 1$. $\blacksquare$
+By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**, $y$ decreasing as $x$ increases means $k-1>0$, so $k>1$. $\blacksquare$
 
 ## Review Problem 4
 
-(Review Problem 26, Comprehensive Application, Problem 6) The areas of the three faces $A,B,C$ of a brick are in the ratio $4:2:1$. If the $B$ face is placed downward on the ground, the pressure on the ground is $a\ \text{Pa}$. What are the pressures on the ground when the $A$ face and the $C$ face are placed downward, respectively?
+(Review Problem 26, Comprehensive Application, Problem 6) The areas of the three faces $A,B,C$ of a brick are in the ratio $4:2:1$. If the $B$ face is placed downward on the ground, the pressure on the ground is $a\,\text{Pa}$. What are the pressures on the ground when the $A$ face and the $C$ face are placed downward, respectively?
 
 ### Solution to Review Problem 4
 
@@ -108,11 +108,11 @@ When the $C$ face is down, $p_C=\frac{F}{S}=2a$. $\blacksquare$
 
 ## Review Problem 5
 
-(Review Problem 26, Comprehensive Application, Problem 7) It is known that the service life of a certain brand of display is about $2\times10^4\ \text{h}$.
+(Review Problem 26, Comprehensive Application, Problem 7) It is known that the service life of a certain brand of display is about $2\times10^4\,\text{h}$.
 
 (1) What is the functional relationship between the number of days $d$ this display can work and the average number of hours $t$ worked per day?
 
-(2) If it works $10\ \text{h}$ per day on average, about how long can this display be used?
+(2) If it works $10\,\text{h}$ per day on average, about how long can this display be used?
 
 ### Solution to Review Problem 5
 
@@ -132,13 +132,13 @@ Graph (A): both branches lie above the $x$-axis; Graph (B): both branches lie in
 
 By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**.
 
-(1) $y=\frac{2}{x}$, $k=2> 0$, lies in the first and third quadrants, corresponding to (B).
+(1) $y=\frac{2}{x}$, $k=2>0$, lies in the first and third quadrants, corresponding to (B).
 
-(2) $y=\frac{2}{\left|x\right|}$, whether $x$ is positive or negative, $y> 0$, both branches lie above the $x$-axis, corresponding to (A).
+(2) $y=\frac{2}{\left|x\right|}$, whether $x$ is positive or negative, $y>0$, both branches lie above the $x$-axis, corresponding to (A).
 
-(3) $y=-\frac{2}{x}$, $k=-2< 0$, lies in the second and fourth quadrants, corresponding to (C).
+(3) $y=-\frac{2}{x}$, $k=-2<0$, lies in the second and fourth quadrants, corresponding to (C).
 
-(4) $y=-\frac{2}{\left|x\right|}$, whether $x$ is positive or negative, $y< 0$, both branches lie below the $x$-axis, corresponding to (D).
+(4) $y=-\frac{2}{\left|x\right|}$, whether $x$ is positive or negative, $y<0$, both branches lie below the $x$-axis, corresponding to (D).
 
 Thus (1)-(B), (2)-(A), (3)-(C), (4)-(D). $\blacksquare$
 
@@ -148,9 +148,9 @@ Thus (1)-(B), (2)-(A), (3)-(C), (4)-(D). $\blacksquare$
 
 ### Solution to Review Problem 7
 
-Let the two different inverse proportional functions be $y=\frac{k_1}{x}$ and $y=\frac{k_2}{x}$, with $k_1\ne k_2$.
+Let the two different inverse proportional functions be $y=\frac{k_1}{x}$ and $y=\frac{k_2}{x}$, with $k_1\ne{k}_2$.
 
-If they intersect, then $\frac{k_1}{x}=\frac{k_2}{x}$, i.e. $k_1=k_2$, which contradicts $k_1\ne k_2$.
+If they intersect, then $\frac{k_1}{x}=\frac{k_2}{x}$, i.e. $k_1=k_2$, which contradicts $k_1\ne{k}_2$.
 
 Therefore the graphs of two different inverse proportional functions cannot intersect. $\blacksquare$
 
@@ -162,19 +162,19 @@ Therefore the graphs of two different inverse proportional functions cannot inte
 
 If there is an intersection point, then $k_1x=\frac{k_2}{x}$, i.e. $k_1x^2=k_2$.
 
-When $k_1k_2> 0$, $x^2=\frac{k_2}{k_1}> 0$, which has a solution, and the two graphs intersect.
+When $k_1k_2>0$, $x^2=\frac{k_2}{k_1}>0$, which has a solution, and the two graphs intersect.
 
-When $k_1k_2< 0$, $x^2=\frac{k_2}{k_1}< 0$, which has no solution, and the two graphs have no intersection point.
+When $k_1k_2<0$, $x^2=\frac{k_2}{k_1}<0$, which has no solution, and the two graphs have no intersection point.
 
-Therefore $k_1k_2< 0$. $\blacksquare$
+Therefore $k_1k_2<0$. $\blacksquare$
 
 ## Review Problem 9
 
-(Review Problem 26, Extension and Exploration, Problem 11) The city government plans to build a water conservancy project. The total volume of earth and stone to be transported for the project is $10^6\ \text{m}^3$, and a certain transport company undertakes the task of transporting the earth and stone.
+(Review Problem 26, Extension and Exploration, Problem 11) The city government plans to build a water conservancy project. The total volume of earth and stone to be transported for the project is $10^6\,\text{m}^3$, and a certain transport company undertakes the task of transporting the earth and stone.
 
 (1) What is the functional relationship between the company's average transport speed $v$ (unit: $\text{m}^3/$day) and the time $t$ (unit: days) required to complete the transport task?
 
-(2) The transport company has a total of $100$ trucks, and can transport $10^4\ \text{m}^3$ of earth and stone per day. How long does the company need to complete all the transport tasks?
+(2) The transport company has a total of $100$ trucks, and can transport $10^4\,\text{m}^3$ of earth and stone per day. How long does the company need to complete all the transport tasks?
 
 (3) After the company has worked for $40$ days at the speed in problem (2), due to the needs of the project schedule, all the remaining transport tasks must be completed within $50$ days. At least how many additional trucks should the company add?
 
@@ -184,7 +184,7 @@ Therefore $k_1k_2< 0$. $\blacksquare$
 
 (2) When $v=10^4$, $t=\frac{10^6}{10^4}=100$ days.
 
-(3) In $40$ days, $40\times10^4=4\times10^5\ \text{m}^3$ has been transported, leaving $6\times10^5\ \text{m}^3$. To complete within $50$ days requires transporting $\frac{6\times10^5}{50}=1.2\times10^4\ \text{m}^3$ per day. Each truck transports $\frac{10^4}{100}=100\ \text{m}^3$ per day, so $\frac{1.2\times10^4}{100}=120$ trucks are needed; there are already $100$ trucks, so at least $20$ more should be added. $\blacksquare$
+(3) In $40$ days, $40\times10^4=4\times10^5\,\text{m}^3$ has been transported, leaving $6\times10^5\,\text{m}^3$. To complete within $50$ days requires transporting $\frac{6\times10^5}{50}=1.2\times10^4\,\text{m}^3$ per day. Each truck transports $\frac{10^4}{100}=100\,\text{m}^3$ per day, so $\frac{1.2\times10^4}{100}=120$ trucks are needed; there are already $100$ trucks, so at least $20$ more should be added. $\blacksquare$
 
 ## Exercise 1
 
@@ -206,13 +206,13 @@ By **Definition 27.1.1 (Similar Figures)**, figures with the same shape are simi
 
 ## Exercise 3
 
-(Exercise 27.1, Problem 1) On a map with scale $1:10\,000\,000$, the distance between Place A and Place B is measured to be $30\ \text{cm}$. Find the actual distance between the two places.
+(Exercise 27.1, Problem 1) On a map with scale $1:10\,000\,000$, the distance between Place A and Place B is measured to be $30\,\text{cm}$. Find the actual distance between the two places.
 
 ### Solution to Exercise 3
 
-The scale $=$ the map distance $:$ the actual distance, i.e. $1:10\,000\,000=30\ \text{cm}:$ the actual distance.
+The scale $=$ the map distance $:$ the actual distance, i.e. $1:10\,000\,000=30\,\text{cm}:$ the actual distance.
 
-The actual distance $=30\times10\,000\,000=3\times10^8\ \text{cm}=3000\ \text{km}$. $\blacksquare$
+The actual distance $=30\times10\,000\,000=3\times10^8\,\text{cm}=3000\,\text{km}$. $\blacksquare$
 
 ## Exercise 4
 
@@ -237,24 +237,24 @@ By **Definition 27.1.3 (Similar Polygons)**, the corresponding sides are proport
 The ratio of corresponding sides is $\frac{5}{7.5}=\frac{2}{3}$.
 
 $$
-\frac{3}{b}=\frac{2}{3}\Rightarrow b=4.5,\quad
-\frac{2}{a}=\frac{2}{3}\Rightarrow a=3,
+\frac{3}{b}=\frac{2}{3}\Rightarrow{b}=4.5,\quad
+\frac{2}{a}=\frac{2}{3}\Rightarrow{a}=3,
 $$
 
 $$
-\frac{c}{6}=\frac{2}{3}\Rightarrow c=4,\quad
-\frac{d}{9}=\frac{2}{3}\Rightarrow d=6.
+\frac{c}{6}=\frac{2}{3}\Rightarrow{c}=4,\quad
+\frac{d}{9}=\frac{2}{3}\Rightarrow{d}=6.
 $$
 
 Thus $a=3$, $b=4.5$, $c=4$, $d=6$. $\blacksquare$
 
 ## Problem 1
 
-(Problem 27.1, Review and Consolidation, Problem 1) The actual distance between two places is $2000\ \text{m}$, and the distance on the map between these two places is measured as $2\ \text{cm}$. What is the scale of this map?
+(Problem 27.1, Review and Consolidation, Problem 1) The actual distance between two places is $2000\,\text{m}$, and the distance on the map between these two places is measured as $2\,\text{cm}$. What is the scale of this map?
 
 ### Solution to Problem 1
 
-$2000\ \text{m}=200000\ \text{cm}$.
+$2000\,\text{m}=200000\,\text{cm}$.
 
 The scale is $=2:200000=1:100000$. $\blacksquare$
 
@@ -272,20 +272,20 @@ Therefore any two rectangles are not necessarily similar. $\blacksquare$
 
 ## Problem 3
 
-(Problem 27.1, Review and Consolidation, Problem 3) As shown in the figure, $\triangle ABC$ and $\triangle DEF$ are similar. Find the values of $x,y$. (In $\triangle ABC$, $AB=7$, $BC=8$; in $\triangle DEF$, $FE=4$, $DF=12$, $DE=x$.)
+(Problem 27.1, Review and Consolidation, Problem 3) As shown in the figure, $\triangle{A}BC$ and $\triangle{D}EF$ are similar. Find the values of $x,y$. (In $\triangle{A}BC$, $AB=7$, $BC=8$; in $\triangle{D}EF$, $FE=4$, $DF=12$, $DE=x$.)
 
 ### Solution to Problem 3
 
-By **Definition 27.1.3 (Similar Polygons)**, $\triangle ABC\backsim\triangle DEF$, and the corresponding sides are proportional.
+By **Definition 27.1.3 (Similar Polygons)**, $\triangle{A}BC\backsim\triangle{D}EF$, and the corresponding sides are proportional.
 
 The similarity ratio is $\frac{BC}{FE}=\frac{8}{4}=2$.
 
 $$
-\frac{AB}{DE}=2\Rightarrow\frac{7}{x}=2\Rightarrow x=3.5.
+\frac{AB}{DE}=2\Rightarrow\frac{7}{x}=2\Rightarrow{x}=3.5.
 $$
 
 $$
-\frac{AC}{DF}=2\Rightarrow AC=2\times12=24.
+\frac{AC}{DF}=2\Rightarrow{A}C=2\times12=24.
 $$
 
 Thus $x=3.5$. $\blacksquare$
@@ -302,7 +302,7 @@ By **Definition 27.1.3 (Similar Polygons)**, enlarge or reduce each side of the 
 
 ## Problem 5
 
-(Problem 27.1, Comprehensive Application, Problem 5) As shown in the figure, $DE\parallel BC$. Given $AD=2$, $DB=4$, $AE=2.5$, $EC=5$, $DE=3$, $BC=9$. (1) Find the values of $\frac{AD}{AB}$, $\frac{AE}{AC}$, $\frac{DE}{BC}$; (2) Prove that $\triangle ADE$ and $\triangle ABC$ are similar.
+(Problem 27.1, Comprehensive Application, Problem 5) As shown in the figure, $DE\parallel{B}C$. Given $AD=2$, $DB=4$, $AE=2.5$, $EC=5$, $DE=3$, $BC=9$. (1) Find the values of $\frac{AD}{AB}$, $\frac{AE}{AC}$, $\frac{DE}{BC}$; (2) Prove that $\triangle{A}DE$ and $\triangle{A}BC$ are similar.
 
 ### Solution to Problem 5
 
@@ -314,11 +314,11 @@ $$
 \frac{DE}{BC}=\frac{3}{9}=\frac{1}{3}.
 $$
 
-(2) $DE\parallel BC$, so $\angle ADE=\angle B$, $\angle AED=\angle C$, and $\angle A$ is common; thus the corresponding angles are equal; also from (1), the ratios of the three sides are all $\frac{1}{3}$, so the sides are proportional. By **Definition 27.1.3 (Similar Polygons)**, $\triangle ADE\backsim\triangle ABC$. $\blacksquare$
+(2) $DE\parallel{B}C$, so $\angle{A}DE=\angle{B}$, $\angle{A}ED=\angle{C}$, and $\angle{A}$ is common; thus the corresponding angles are equal; also from (1), the ratios of the three sides are all $\frac{1}{3}$, so the sides are proportional. By **Definition 27.1.3 (Similar Polygons)**, $\triangle{A}DE\backsim\triangle{A}BC$. $\blacksquare$
 
 ## Problem 6
 
-(Problem 27.1, Comprehensive Application, Problem 6) A rectangular lawn is $30\ \text{m}$ long and $20\ \text{m}$ wide. Around the lawn there is a $1\ \text{m}$ wide circular path. Are the two rectangles formed by the inner and outer edges of the path similar? Give your reason.
+(Problem 27.1, Comprehensive Application, Problem 6) A rectangular lawn is $30\,\text{m}$ long and $20\,\text{m}$ wide. Around the lawn there is a $1\,\text{m}$ wide circular path. Are the two rectangles formed by the inner and outer edges of the path similar? Give your reason.
 
 ### Solution to Problem 6
 
@@ -348,11 +348,11 @@ Having only proportional sides does not necessarily imply similarity: for exampl
 
 (Problem 27.1, Extension and Exploration, Problem 8) Fold a rectangular sheet of paper along the line connecting the midpoints of its longer sides. If the two resulting rectangles are both similar to the original rectangle, what is the ratio of length to width of the original rectangle? If this paper is folded repeatedly in this way, are the resulting rectangles all similar?
 
-The figure shows a rectangular sheet of paper folded along the line connecting the midpoints of its longer sides, producing a smaller rectangle; the original rectangle has length $a$ and width $b$, and the folded rectangle has sides $b$ and $\frac a2$.
+The figure shows a rectangular sheet of paper folded along the line connecting the midpoints of its longer sides, producing a smaller rectangle; the original rectangle has length $a$ and width $b$, and the folded rectangle has sides $b$ and $\frac{a}2$.
 
 ### Solution to Problem 8
 
-Let the length of the original rectangle be $a$ and its width be $b$ ($a> b$). After folding along the midpoint line of the longer side, the new rectangle has dimensions $b\times\frac{a}{2}$.
+Let the length of the original rectangle be $a$ and its width be $b$ ($a>{}b$). After folding along the midpoint line of the longer side, the new rectangle has dimensions $b\times\frac{a}{2}$.
 
 Since the folded rectangle is similar to the original, the corresponding sides are proportional:
 
@@ -366,43 +366,43 @@ Each fold splits a rectangle with long-side ratio $\sqrt{2}:1$ by the same ratio
 
 ## Exercise 6
 
-(Exercise 27.2, Problem 1) As shown in the figure, $AB\parallel CD\parallel EF$, $AF$ and $BE$ intersect at point $G$, and $AG=2$, $GD=1$, $DF=5$. Find the value of $\frac{BC}{CE}$.
+(Exercise 27.2, Problem 1) As shown in the figure, $AB\parallel{C}D\parallel{E}F$, $AF$ and $BE$ intersect at point $G$, and $AG=2$, $GD=1$, $DF=5$. Find the value of $\frac{BC}{CE}$.
 
 ### Solution to Exercise 6
 
 By **Basic Fact 27.2.1** (Parallel Lines Dividing Line Segments Proportionally), three parallel lines cut two lines, and the corresponding line segments are proportional.
 
 $$
-\frac{BC}{CE}=\frac{AD}{DF}=\frac{AG+GD}{DF}=\frac{2+1}{5}=\frac{3}{5}.\ \blacksquare
+\frac{BC}{CE}=\frac{AD}{DF}=\frac{AG+GD}{DF}=\frac{2+1}{5}=\frac{3}{5}.\,\blacksquare
 $$
 
 ## Exercise 7
 
-(Exercise 27.2, Problem 2) As shown in the figure, in $\triangle ABC$, $DE\parallel BC$, and $AD=3$, $DB=2$. Write down the similar triangles in the figure and state their similarity ratio.
+(Exercise 27.2, Problem 2) As shown in the figure, in $\triangle{A}BC$, $DE\parallel{B}C$, and $AD=3$, $DB=2$. Write down the similar triangles in the figure and state their similarity ratio.
 
 ### Solution to Exercise 7
 
-By **Theorem 27.2.1 (Preliminary Theorem)**, $DE\parallel BC$, so $\triangle ADE\backsim\triangle ABC$.
+By **Theorem 27.2.1 (Preliminary Theorem)**, $DE\parallel{B}C$, so $\triangle{A}DE\backsim\triangle{A}BC$.
 
 The similarity ratio is $\frac{AD}{AB}=\frac{AD}{AD+DB}=\frac{3}{3+2}=\frac{3}{5}$. $\blacksquare$
 
 ## Exercise 8
 
-(Exercise 27.2, Problem 1) Based on the following conditions, determine whether $\triangle ABC$ and $\triangle A'B'C'$ are similar, and explain your reasoning:
+(Exercise 27.2, Problem 1) Based on the following conditions, determine whether $\triangle{A}BC$ and $\triangle{A}'B'C'$ are similar, and explain your reasoning:
 
-(1) $\angle A=40^\circ$, $AB=8\ \text{cm}$, $AC=15\ \text{cm}$, $\angle A'=40^\circ$, $A'B'=16\ \text{cm}$, $A'C'=30\ \text{cm}$;
+(1) $\angle{A}=40^\circ$, $AB=8\,\text{cm}$, $AC=15\,\text{cm}$, $\angle{A}'=40^\circ$, $A'B'=16\,\text{cm}$, $A'C'=30\,\text{cm}$;
 
-(2) $AB=10\ \text{cm}$, $BC=8\ \text{cm}$, $AC=16\ \text{cm}$, $A'B'=16\ \text{cm}$, $B'C'=12.8\ \text{cm}$, $A'C'=25.6\ \text{cm}$.
+(2) $AB=10\,\text{cm}$, $BC=8\,\text{cm}$, $AC=16\,\text{cm}$, $A'B'=16\,\text{cm}$, $B'C'=12.8\,\text{cm}$, $A'C'=25.6\,\text{cm}$.
 
 ### Solution to Exercise 8
 
-(1) $\angle A=\angle A'=40^\circ$, and
+(1) $\angle{A}=\angle{A}'=40^\circ$, and
 
 $$
 \frac{AB}{A'B'}=\frac{8}{16}=\frac{1}{2},\quad\frac{AC}{A'C'}=\frac{15}{30}=\frac{1}{2}.
 $$
 
-The two sides are proportional and the included angle is equal; by **Criterion Theorem 27.2.3** (SAS), $\triangle ABC\backsim\triangle A'B'C'$.
+The two sides are proportional and the included angle is equal; by **Criterion Theorem 27.2.3** (SAS), $\triangle{A}BC\backsim\triangle{A}'B'C'$.
 
 (2)
 
@@ -412,31 +412,31 @@ $$
 \frac{AC}{A'C'}=\frac{16}{25.6}=\frac{5}{8}.
 $$
 
-The three sides are proportional; by **Criterion Theorem 27.2.2** (SSS), $\triangle ABC\backsim\triangle A'B'C'$. $\blacksquare$
+The three sides are proportional; by **Criterion Theorem 27.2.2** (SSS), $\triangle{A}BC\backsim\triangle{A}'B'C'$. $\blacksquare$
 
 ## Exercise 9
 
-(Exercise 27.2, Problem 2) Are the two triangles in the figure similar? Why? (The left triangle has sides $15,20,25$; the right triangle has sides $27,36,45$. In the other pair of figures, $\triangle ABC$ and $\triangle EDC$ form vertical angles at point $C$, with $BC=54$, $CE=36$, $AC=45$, $CD=30$.)
+(Exercise 27.2, Problem 2) Are the two triangles in the figure similar? Why? (The left triangle has sides $15,20,25$; the right triangle has sides $27,36,45$. In the other pair of figures, $\triangle{A}BC$ and $\triangle{E}DC$ form vertical angles at point $C$, with $BC=54$, $CE=36$, $AC=45$, $CD=30$.)
 
 ### Solution to Exercise 9
 
 First group: $\frac{15}{27}=\frac{5}{9}$, $\frac{20}{36}=\frac{5}{9}$, $\frac{25}{45}=\frac{5}{9}$; the three sides are proportional, so by **Criterion Theorem 27.2.2** (SSS), they are similar.
 
-Second group: $\angle ACB=\angle DCE$ (vertical angles), and $\frac{BC}{CE}=\frac{54}{36}=\frac{3}{2}$, $\frac{AC}{CD}=\frac{45}{30}=\frac{3}{2}$; the two sides are proportional and the included angle is equal, so by **Criterion Theorem 27.2.3** (SAS), they are similar. $\blacksquare$
+Second group: $\angle{A}CB=\angle{D}CE$ (vertical angles), and $\frac{BC}{CE}=\frac{54}{36}=\frac{3}{2}$, $\frac{AC}{CD}=\frac{45}{30}=\frac{3}{2}$; the two sides are proportional and the included angle is equal, so by **Criterion Theorem 27.2.3** (SAS), they are similar. $\blacksquare$
 
 ## Exercise 10
 
-(Exercise 27.2, Problem 3) To make two triangular frames of the same shape, one frame has side lengths $4\ \text{cm}$, $5\ \text{cm}$, and $6\ \text{cm}$, and the other frame has one side of length $2\ \text{cm}$. What should the lengths of its other two sides be? How many construction schemes do you have?
+(Exercise 27.2, Problem 3) To make two triangular frames of the same shape, one frame has side lengths $4\,\text{cm}$, $5\,\text{cm}$, and $6\,\text{cm}$, and the other frame has one side of length $2\,\text{cm}$. What should the lengths of its other two sides be? How many construction schemes do you have?
 
 ### Solution to Exercise 10
 
-By **Criterion Theorem 27.2.2** (SSS), two triangles are similar if their three corresponding sides are proportional. The side of length $2\ \text{cm}$ may correspond to any of the three sides of the original triangle.
+By **Criterion Theorem 27.2.2** (SSS), two triangles are similar if their three corresponding sides are proportional. The side of length $2\,\text{cm}$ may correspond to any of the three sides of the original triangle.
 
-Scheme 1: $2$ corresponds to $4$, similarity ratio $\frac{1}{2}$, the other two sides are $2.5\ \text{cm}$ and $3\ \text{cm}$.
+Scheme 1: $2$ corresponds to $4$, similarity ratio $\frac{1}{2}$, the other two sides are $2.5\,\text{cm}$ and $3\,\text{cm}$.
 
-Scheme 2: $2$ corresponds to $5$, similarity ratio $\frac{2}{5}$, the other two sides are $\frac{8}{5}\ \text{cm}$ and $\frac{12}{5}\ \text{cm}$.
+Scheme 2: $2$ corresponds to $5$, similarity ratio $\frac{2}{5}$, the other two sides are $\frac{8}{5}\,\text{cm}$ and $\frac{12}{5}\,\text{cm}$.
 
-Scheme 3: $2$ corresponds to $6$, similarity ratio $\frac{1}{3}$, the other two sides are $\frac{4}{3}\ \text{cm}$ and $\frac{5}{3}\ \text{cm}$.
+Scheme 3: $2$ corresponds to $6$, similarity ratio $\frac{1}{3}$, the other two sides are $\frac{4}{3}\,\text{cm}$ and $\frac{5}{3}\,\text{cm}$.
 
 There are three schemes in total. $\blacksquare$
 
@@ -454,17 +454,17 @@ For two isosceles triangles with equal vertex angles, let the vertex angle be $\
 
 ## Exercise 12
 
-(Exercise 27.2, Problem 2) As shown in the figure, in $\text{Rt}\triangle ABC$, $CD$ is the altitude to the hypotenuse $AB$. Prove: (1) $\triangle ACD\backsim\triangle ABC$; (2) $\triangle CBD\backsim\triangle ABC$.
+(Exercise 27.2, Problem 2) As shown in the figure, in $\text{Rt}\triangle{A}BC$, $CD$ is the altitude to the hypotenuse $AB$. Prove: (1) $\triangle{A}CD\backsim\triangle{A}BC$; (2) $\triangle{C}BD\backsim\triangle{A}BC$.
 
 ### Solution to Exercise 12
 
-(1) $CD\perp AB$, so $\angle ADC=90^\circ=\angle ACB$, and $\angle A$ is common; by **Criterion Theorem 27.2.4** (AA), $\triangle ACD\backsim\triangle ABC$.
+(1) $CD\perp{A}B$, so $\angle{A}DC=90^\circ=\angle{A}CB$, and $\angle{A}$ is common; by **Criterion Theorem 27.2.4** (AA), $\triangle{A}CD\backsim\triangle{A}BC$.
 
-(2) $\angle CDB=90^\circ=\angle ACB$, and $\angle B$ is common; by AA, $\triangle CBD\backsim\triangle ABC$. $\blacksquare$
+(2) $\angle{C}DB=90^\circ=\angle{A}CB$, and $\angle{B}$ is common; by AA, $\triangle{C}BD\backsim\triangle{A}BC$. $\blacksquare$
 
 ## Exercise 13
 
-(Exercise 27.2, Problem 3) If the two legs of $\text{Rt}\triangle ABC$ are $3$ and $4$, is a right triangle with legs $3k$ and $4k$ (where $k$ is a positive integer) necessarily similar to $\text{Rt}\triangle ABC$? Why?
+(Exercise 27.2, Problem 3) If the two legs of $\text{Rt}\triangle{A}BC$ are $3$ and $4$, is a right triangle with legs $3k$ and $4k$ (where $k$ is a positive integer) necessarily similar to $\text{Rt}\triangle{A}BC$? Why?
 
 ### Solution to Exercise 13
 
@@ -490,7 +490,7 @@ By Basic Knowledge and Basic Knowledge.
 
 ## Exercise 15
 
-(Exercise 27.2, Problem 2) As shown in the figure, $\triangle ABC$ and $\triangle A'B'C'$ are similar; $AD$, $BE$ are altitudes of $\triangle ABC$, and $A'D'$, $B'E'$ are altitudes of $\triangle A'B'C'$. Prove that $\frac{AD}{A'D'}=\frac{BE}{B'E'}$.
+(Exercise 27.2, Problem 2) As shown in the figure, $\triangle{A}BC$ and $\triangle{A}'B'C'$ are similar; $AD$, $BE$ are altitudes of $\triangle{A}BC$, and $A'D'$, $B'E'$ are altitudes of $\triangle{A}'B'C'$. Prove that $\frac{AD}{A'D'}=\frac{BE}{B'E'}$.
 
 ### Solution to Exercise 15
 
@@ -506,7 +506,7 @@ Therefore $\frac{AD}{A'D'}=\frac{BE}{B'E'}$. $\blacksquare$
 
 ## Exercise 16
 
-(Exercise 27.2, Problem 3) On a photocopied sheet, one side of a triangle changed from $2\ \text{cm}$ in the original to $6\ \text{cm}$. What is the scaling ratio? How did the area of this triangle change?
+(Exercise 27.2, Problem 3) On a photocopied sheet, one side of a triangle changed from $2\,\text{cm}$ in the original to $6\,\text{cm}$. What is the scaling ratio? How did the area of this triangle change?
 
 ### Solution to Exercise 16
 
@@ -516,7 +516,7 @@ By Area Ratio, the area ratio is the square of the similarity ratio, i.e. $9$ ti
 
 ## Exercise 17
 
-(Exercise 27.2, Problem 1) At a certain moment, the shadow of a bamboo pole of height $1.8\ \text{m}$ is measured to be $3\ \text{m}$ long, and at the same moment the shadow of a building is measured to be $90\ \text{m}$ long. What is the height of the building?
+(Exercise 27.2, Problem 1) At a certain moment, the shadow of a bamboo pole of height $1.8\,\text{m}$ is measured to be $3\,\text{m}$ long, and at the same moment the shadow of a building is measured to be $90\,\text{m}$ long. What is the height of the building?
 
 ### Solution to Exercise 17
 
@@ -527,5 +527,5 @@ $$
 $$
 
 $$
-h=\frac{1.8\times90}{3}=54\ \text{m}.\ \blacksquare
+h=\frac{1.8\times90}{3}=54\,\text{m}.\,\blacksquare
 $$

@@ -2,7 +2,7 @@
 
 > **Definition 18.1.2 (Basic Property of Fractions)**
 > 
-> Multiplying (or dividing) both the numerator and denominator of a fraction by the same integral expression not equal to $0$ does not change the value of the fraction, i.e. $\frac{A}{B}=\frac{A\cdot C}{B\cdot C}=\frac{A\div C}{B\div C}$ ($C\ne0$).
+> Multiplying (or dividing) both the numerator and denominator of a fraction by the same integral expression not equal to $0$ does not change the value of the fraction, i.e. $\frac{A}{B}=\frac{A\cdot{C}}{B\cdot{C}}=\frac{A\div{C}}{B\div{C}}$ ($C\ne0$).
 
 > **Definition 18.2.1 (Rule for Multiplying Fractions)**
 > 
@@ -14,11 +14,11 @@
 
 > **Definition 18.3.1 (Addition and Subtraction of Fractions with the Same Denominator)**
 > 
-> $\frac{a}{c}\pm\frac{b}{c}=\frac{a\pm b}{c}$.
+> $\frac{a}{c}\pm\frac{b}{c}=\frac{a\pm{b}}{c}$.
 
 > **Definition 18.3.2 (Addition and Subtraction of Fractions with Different Denominators)**
 > 
-> To add or subtract fractions with different denominators, first find a common denominator to convert them into fractions with the same denominator, then add or subtract, i.e. $\frac{a}{b}\pm\frac{c}{d}=\frac{ad\pm bc}{bd}$.
+> To add or subtract fractions with different denominators, first find a common denominator to convert them into fractions with the same denominator, then add or subtract, i.e. $\frac{a}{b}\pm\frac{c}{d}=\frac{ad\pm{b}c}{bd}$.
 
 > **Definition 18.5.2 (Checking the Solution of a Fractional Equation)**
 > 
@@ -26,19 +26,19 @@
 
 > **Definition 19.1.1 (Quadratic Radical)**
 > 
-> An expression of the form \(\sqrt{a}\) (\(a\ge 0\)) is called a quadratic radical.
+> An expression of the form \(\sqrt{a}\) (\(a\ge0\)) is called a quadratic radical.
 
 > **Property 19.1.1 (Nonnegativity of the Quadratic Radical)**
 > 
-> When \(a\ge 0\), \(\sqrt{a}\ge 0\).
+> When \(a\ge0\), \(\sqrt{a}\ge0\).
 
 > **Property 19.1.2 (Squaring and Taking the Square Root Are Inverse I)**
 > 
-> \((\sqrt{a})^{2}=a\) (\(a\ge 0\)).
+> \((\sqrt{a})^{2}=a\) (\(a\ge0\)).
 
 > **Property 19.1.3 (Squaring and Taking the Square Root Are Inverse II)**
 > 
-> \(\sqrt{a^{2}}=|a|\); when \(a\ge 0\), \(\sqrt{a^{2}}=a\), and when \(a< 0\), \(\sqrt{a^{2}}=-a\).
+> \(\sqrt{a^{2}}=|a|\); when \(a\ge0\), \(\sqrt{a^{2}}=a\), and when \(a<0\), \(\sqrt{a^{2}}=-a\).
 
 ## Activity 1
 
@@ -50,7 +50,7 @@
 
 (3) $\frac{a+b}{b}$ and $\frac{c+d}{d}$;
 
-(4) $\frac{a+b}{a-b}$ and $\frac{c+d}{c-d}$ ($a\ne b$, $c\ne d$).
+(4) $\frac{a+b}{a-b}$ and $\frac{c+d}{c-d}$ ($a\ne{b}$, $c\ne{d}$).
 
 Conjecture the relationship between the two fractions in each group, and prove your conjecture.
 
@@ -112,29 +112,29 @@ Proof: $x^2+\frac{1}{x^2}-2=\left(x-\frac1x\right)^2\ge0$, hence $x^2+\frac{1}{x
 
 (Review Problems, Review and Consolidation, Problem 1) Among the following expressions, which are integral expressions? Which are fractions?
 
-$\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y}$, $\frac{2ab}{\left(a+b\right)^2}$.
+$\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2y}$, $\frac{2ab}{\left(a+b\right)^2}$.
 
 ### Solution to Review Problem 1
 
 Integral expressions: $\frac{x}{3}$, $\frac{a+5}{15}$.
 
-Fractions: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2 y}$, $\frac{2ab}{\left(a+b\right)^2}$. $\blacksquare$
+Fractions: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2y}$, $\frac{2ab}{\left(a+b\right)^2}$. $\blacksquare$
 
 ## Review Problem 2
 
 (Review Problems, Review and Consolidation, Problem 2) Calculate:
 
-(1) $\frac{s-2 t}{3 s}\cdot\frac{6 s^2}{s+2 t}$;
+(1) $\frac{s-2t}{3s}\cdot\frac{6s^2}{s+2t}$;
 
 (2) $\frac{x-y}{x+y}\div\left(x-y\right)^2$;
 
-(3) $\frac{2 a}{a+1}+\frac{2}{a+1}$;
+(3) $\frac{2a}{a+1}+\frac{2}{a+1}$;
 
-(4) $\frac{u-2 v}{u+2 v}-\frac{2}{u^2-4 v^2}$;
+(4) $\frac{u-2v}{u+2v}-\frac{2}{u^2-4v^2}$;
 
-(5) $\left(x^{-2} y^3\right)^{-3}$;
+(5) $\left(x^{-2}y^3\right)^{-3}$;
 
-(6) $\left(-\frac{3 x}{y^3 z}\right)^2$.
+(6) $\left(-\frac{3x}{y^3z}\right)^2$.
 
 ### Solution to Review Problem 2
 
@@ -146,39 +146,39 @@ Fractions: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2 y}$, $\frac{2ab}{\left(
 
 (4) $\frac{\left(u-2v\right)^2-2}{\left(u+2v\right)\left(u-2v\right)}=\frac{u^2-4uv+4v^2-2}{u^2-4v^2}$.
 
-(5) $\left(x^{-2} y^3\right)^{-3}=x^6 y^{-9}=\frac{x^6}{y^9}$.
+(5) $\left(x^{-2}y^3\right)^{-3}=x^6y^{-9}=\frac{x^6}{y^9}$.
 
-(6) $\left(-\frac{3x}{y^3 z}\right)^2=\frac{9x^2}{y^6 z^2}$. $\blacksquare$
+(6) $\left(-\frac{3x}{y^3z}\right)^2=\frac{9x^2}{y^6z^2}$. $\blacksquare$
 
 ## Review Problem 3
 
 (Review Problems, Review and Consolidation, Problem 3) Calculate:
 
-(1) $\frac{2 m}{3 n}\cdot\left(\frac{3 n}{p}\right)^2\div\frac{m n}{p^2}$;
+(1) $\frac{2m}{3n}\cdot\left(\frac{3n}{p}\right)^2\div\frac{mn}{p^2}$;
 
-(2) $a^2 b^3\cdot\left(a b^2\right)^{-2}$;
+(2) $a^2b^3\cdot\left(ab^2\right)^{-2}$;
 
-(3) $\frac{x^2-16}{x^2+8 x+16}+\frac{x}{x-4}$;
+(3) $\frac{x^2-16}{x^2+8x+16}+\frac{x}{x-4}$;
 
-(4) $\left(\frac{p q^2}{r}\right)^3\div\frac{2 p r^2}{r+12 q}$;
+(4) $\left(\frac{pq^2}{r}\right)^3\div\frac{2pr^2}{r+12q}$;
 
-(5) $1\div\left(2 x+1-\frac{x^2}{x}\right)$;
+(5) $1\div\left(2x+1-\frac{x^2}{x}\right)$;
 
-(6) $\frac{a-b}{a}\div\left(a-\frac{2 a b-b^2}{a}\right)$;
+(6) $\frac{a-b}{a}\div\left(a-\frac{2ab-b^2}{a}\right)$;
 
-(7) $1-\frac{a+b}{a+2 b}\div\frac{a^2-b^2}{a^2+4 a b+4 b^2}$;
+(7) $1-\frac{a+b}{a+2b}\div\frac{a^2-b^2}{a^2+4ab+4b^2}$;
 
-(8) $\left(x-y+\frac{4 x y}{x-y}\right)\left(x+y-\frac{4 x y}{x+y}\right)$.
+(8) $\left(x-y+\frac{4xy}{x-y}\right)\left(x+y-\frac{4xy}{x+y}\right)$.
 
 ### Solution to Review Problem 3
 
 (1) $\frac{2m}{3n}\cdot\frac{9n^2}{p^2}\cdot\frac{p^2}{mn}=\frac{6n}{n}=6$.
 
-(2) $a^2 b^3\cdot a^{-2} b^{-4}=b^{-1}=\frac1b$.
+(2) $a^2b^3\cdot{a}^{-2}b^{-4}=b^{-1}=\frac1b$.
 
 (3) $\frac{\left(x+4\right)\left(x-4\right)}{\left(x+4\right)^2}+\frac{x}{x-4}=\frac{x-4}{x+4}+\frac{x}{x-4}=\frac{\left(x-4\right)^2+x\left(x+4\right)}{\left(x+4\right)\left(x-4\right)}=\frac{2x^2-4x+16}{x^2-16}$.
 
-(4) $\frac{p^3 q^6}{r^3}\cdot\frac{r+12q}{2pr^2}=\frac{p^2 q^6\left(r+12q\right)}{2r^5}$.
+(4) $\frac{p^3q^6}{r^3}\cdot\frac{r+12q}{2pr^2}=\frac{p^2q^6\left(r+12q\right)}{2r^5}$.
 
 (5) $1\div\left(2x+1-x\right)=1\div\left(x+1\right)=\frac{1}{x+1}$.
 
@@ -192,9 +192,9 @@ Fractions: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2 y}$, $\frac{2ab}{\left(
 
 (Review Problems, Review and Consolidation, Problem 4) Solve the following equations:
 
-(1) $\frac{5 x+2}{x^2+x}=\frac{3}{x+1}$;
+(1) $\frac{5x+2}{x^2+x}=\frac{3}{x+1}$;
 
-(2) $\frac{2 x}{2 x-5}-\frac{2}{2 x+5}=1$.
+(2) $\frac{2x}{2x-5}-\frac{2}{2x+5}=1$.
 
 ### Solution to Review Problem 4
 
@@ -206,9 +206,9 @@ Fractions: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2 y}$, $\frac{2ab}{\left(
 
 (Review Problems, Comprehensive Application, Problem 5) Under what conditions on $x$ are the following expressions meaningful?
 
-(1) $\frac{x-2}{2 x+1}-\frac{1}{x-2}$;
+(1) $\frac{x-2}{2x+1}-\frac{1}{x-2}$;
 
-(2) $\frac{3 x}{x+2}\div\frac{x-2}{2 x-3}$.
+(2) $\frac{3x}{x+2}\div\frac{x-2}{2x-3}$.
 
 ### Solution to Review Problem 5
 
@@ -230,9 +230,9 @@ All denominators and divisors are not $0$.
 
 (1) The numerator $3x-6=0$ and the denominator $2x+1\ne0$, giving $x=2$.
 
-(2) $x^2> 0$ (always true, $x\ne0$), requiring $2x+1> 0$, i.e. $x> -\frac12$ and $x\ne0$.
+(2) $x^2>0$ (always true, $x\ne0$), requiring $2x+1>0$, i.e. $x>-\frac12$ and $x\ne0$.
 
-(3) $x^2> 0$ ($x\ne0$), requiring $x-2< 0$, i.e. $x< 2$ and $x\ne0$. $\blacksquare$
+(3) $x^2>0$ ($x\ne0$), requiring $x-2<0$, i.e. $x<2$ and $x\ne0$. $\blacksquare$
 
 ## Review Problem 7
 
@@ -272,31 +272,31 @@ Hence the current average daily production is $200$ machines. $\blacksquare$
 
 ## Review Problem 10
 
-(Review Problems, Comprehensive Application, Problem 10) The work efficiency of one harvester is equivalent to $150$ times that of one farmer; using this machine to harvest $10\ \text{hm}^2$ of wheat takes $1\ \text{h}$ less than $100$ farmers harvesting this wheat by hand. How many hectares of wheat does this harvester harvest per hour?
+(Review Problems, Comprehensive Application, Problem 10) The work efficiency of one harvester is equivalent to $150$ times that of one farmer; using this machine to harvest $10\,\text{hm}^2$ of wheat takes $1\,\text{h}$ less than $100$ farmers harvesting this wheat by hand. How many hectares of wheat does this harvester harvest per hour?
 
 ### Solution to Review Problem 10
 
-Let a farmer harvest $x\ \text{hm}^2$ per hour; the harvester is $150x$.
+Let a farmer harvest $x\,\text{hm}^2$ per hour; the harvester is $150x$.
 
 $$\frac{10}{100x}-\frac{10}{150x}=1.$$
 
-$$\frac{1}{10x}-\frac{1}{15x}=1,\quad \frac{3-2}{30x}=1,\quad x=\frac{1}{30}.$$
+$$\frac{1}{10x}-\frac{1}{15x}=1,\quad\frac{3-2}{30x}=1,\quad{x}=\frac{1}{30}.$$
 
-The harvester harvests $150x=5\ \text{hm}^2$ per hour. $\blacksquare$
+The harvester harvests $150x=5\,\text{hm}^2$ per hour. $\blacksquare$
 
 ## Review Problem 11
 
-(Review Problems, Comprehensive Application, Problem 11) A car heads toward a destination $180\ \text{km}$ from its starting point; in the first hour after departure it travels at the originally planned constant speed, and after one hour it travels at $1.5$ times the original constant speed, arriving at the destination $40\ \text{min}$ earlier than originally planned. Find the speed in the first hour.
+(Review Problems, Comprehensive Application, Problem 11) A car heads toward a destination $180\,\text{km}$ from its starting point; in the first hour after departure it travels at the originally planned constant speed, and after one hour it travels at $1.5$ times the original constant speed, arriving at the destination $40\,\text{min}$ earlier than originally planned. Find the speed in the first hour.
 
 ### Solution to Review Problem 11
 
-Let the speed in the first hour be $x\ \text{km/h}$. The planned time is $\frac{180}{x}$. The actual time is $1+\frac{180-x}{1.5x}$. It is $\frac{2}{3}\ \text{h}$ early:
+Let the speed in the first hour be $x\,\text{km/h}$. The planned time is $\frac{180}{x}$. The actual time is $1+\frac{180-x}{1.5x}$. It is $\frac{2}{3}\,\text{h}$ early:
 
 $$\frac{180}{x}-\left(1+\frac{180-x}{1.5x}\right)=\frac23.$$
 
-$$\frac{180}{x}-1-\frac{120}{x}+\frac{2}{3}=\frac23,\quad \frac{60}{x}-1=0,\quad x=60.$$
+$$\frac{180}{x}-1-\frac{120}{x}+\frac{2}{3}=\frac23,\quad\frac{60}{x}-1=0,\quad{x}=60.$$
 
-The check holds. Hence the speed in the first hour is $60\ \text{km/h}$. $\blacksquare$
+The check holds. Hence the speed in the first hour is $60\,\text{km/h}$. $\blacksquare$
 
 ## Review Problem 12
 
@@ -334,19 +334,19 @@ The numerator $=\left(a-b\right)^2+\left(b-c\right)^2+\left(c-a\right)^2$. For t
 
 (Exercise 19.1, Problem 1)
 
-To draw a rectangle with area \(18\ \text{cm}^{2}\) such that the ratio of its length to its width is \(3:2\), what should its length and width be?
+To draw a rectangle with area \(18\,\text{cm}^{2}\) such that the ratio of its length to its width is \(3:2\), what should its length and width be?
 
-Let the length of the rectangle be \(3k\) and the width be \(2k\) (\(k> 0\)).
+Let the length of the rectangle be \(3k\) and the width be \(2k\) (\(k>0\)).
 
 By **Definition 19.1.1 (Quadratic Radical)**, the area of a rectangle is length times width, so
 
 $$
-3k\cdot 2k=18,\quad 6k^{2}=18,\quad k^{2}=3.
+3k\cdot2k=18,\quad6k^{2}=18,\quad{k}^{2}=3.
 $$
 
 By Basic Knowledge, the positive number \(k\) satisfies \(k=\sqrt{3}\).
 
-Therefore the length is \(3\sqrt{3}\ \text{cm}\) and the width is \(2\sqrt{3}\ \text{cm}\).
+Therefore the length is \(3\sqrt{3}\,\text{cm}\) and the width is \(2\sqrt{3}\,\text{cm}\).
 
 \(\blacksquare\)
 
@@ -358,11 +358,11 @@ Under what conditions on \(a\) are the following expressions meaningful within t
 
 By **Definition 19.1.1 (Quadratic Radical)**, a quadratic radical is meaningful if and only if the radicand is nonnegative.
 
-(1) Setting \(a-1\ge 0\), we get \(a\ge 1\).
+(1) Setting \(a-1\ge0\), we get \(a\ge1\).
 
-(2) Setting \(5-a\ge 0\), we get \(a\le 5\).
+(2) Setting \(5-a\ge0\), we get \(a\le5\).
 
-(3) For any real number \(a\), \(a^{2}\ge 0\), hence \(2a^{2}+1\ge 1> 0\), so \(a\) may be any real number.
+(3) For any real number \(a\), \(a^{2}\ge0\), hence \(2a^{2}+1\ge1>0\), so \(a\) may be any real number.
 
 \(\blacksquare\)
 
@@ -373,7 +373,7 @@ When \(a=5\), the value of \(\sqrt{\frac{a-1}{2}}\) is \;_\_\;.
 Substituting \(a=5\) into the radicand, by **Definition 19.1.1 (Quadratic Radical)**, the radicand
 
 $$
-\frac{a-1}{2}=\frac{5-1}{2}=2\ge 0
+\frac{a-1}{2}=\frac{5-1}{2}=2\ge0
 $$
 
 is meaningful.
@@ -395,7 +395,7 @@ Calculate:
 (2) By Basic Knowledge and the power of a product,
 
 $$
-\left(3\sqrt{2}\right)^{2}=3^{2}\cdot\left(\sqrt{2}\right)^{2}=9\times 2=18.
+\left(3\sqrt{2}\right)^{2}=3^{2}\cdot\left(\sqrt{2}\right)^{2}=9\times2=18.
 $$
 
 \(\blacksquare\)
@@ -428,13 +428,13 @@ Under what conditions on \(a\) are the following expressions meaningful within t
 
 By **Definition 19.1.1 (Quadratic Radical)**, set each radicand to be nonnegative.
 
-(1) \(a+2\ge 0\), giving \(a\ge -2\).
+(1) \(a+2\ge0\), giving \(a\ge-2\).
 
-(2) \(3-a\ge 0\), giving \(a\le 3\).
+(2) \(3-a\ge0\), giving \(a\le3\).
 
-(3) Since \(a^{2}\ge 0\), \(5a^{2}\ge 0\) always holds, and \(a\) may be any real number.
+(3) Since \(a^{2}\ge0\), \(5a^{2}\ge0\) always holds, and \(a\) may be any real number.
 
-(4) \(2a+1\ge 0\), giving \(a\ge -\frac{1}{2}\).
+(4) \(2a+1\ge0\), giving \(a\ge-\frac{1}{2}\).
 
 \(\blacksquare\)
 
@@ -452,7 +452,7 @@ Compute using Basic Knowledge and Basic Knowledge.
 
 (3) \(\left(\sqrt{\frac{3}{5}}\right)^{2}=\frac{3}{5}\).
 
-(4) \((5\sqrt{5})^{2}=25\times 5=125\).
+(4) \((5\sqrt{5})^{2}=25\times5=125\).
 
 (5) \(\left(-7\sqrt{\frac{2}{7}}\right)^{2}=49\times\frac{2}{7}=14\).
 
@@ -472,11 +472,11 @@ Express using algebraic expressions:
 
 (2) the lengths of two adjacent sides of a rectangle with area \(S\) and with the ratio of the two adjacent sides equal to \(1:2\).
 
-(1) Let the circle's radius be \(r\). From the circle area formula \(S=\pi r^{2}\), we get \(r^{2}=\frac{S}{\pi}\).
+(1) Let the circle's radius be \(r\). From the circle area formula \(S=\pi{r}^{2}\), we get \(r^{2}=\frac{S}{\pi}\).
 
 By Basic Knowledge, the positive number \(r=\sqrt{\frac{S}{\pi}}\).
 
-(2) Let the two adjacent side lengths be \(k\) and \(2k\) (\(k> 0\)). From the rectangle area \(S=k\cdot 2k=2k^{2}\), we get \(k^{2}=\frac{S}{2}\).
+(2) Let the two adjacent side lengths be \(k\) and \(2k\) (\(k>0\)). From the rectangle area \(S=k\cdot2k=2k^{2}\), we get \(k^{2}=\frac{S}{2}\).
 
 By Basic Knowledge, \(k=\sqrt{\frac{S}{2}}\), so the two adjacent side lengths are \(\sqrt{\frac{S}{2}}\) and \(2\sqrt{\frac{S}{2}}\).
 
@@ -484,7 +484,7 @@ By Basic Knowledge, \(k=\sqrt{\frac{S}{2}}\), so the two adjacent side lengths a
 
 (Exercise 19.1, Review and Consolidation, Problem 4)
 
-Using \(a=(\sqrt{a})^{2}\) (\(a\ge 0\)), write each of the following nonnegative numbers as the square of a nonnegative number:
+Using \(a=(\sqrt{a})^{2}\) (\(a\ge0\)), write each of the following nonnegative numbers as the square of a nonnegative number:
 
 (1) \(5\);　(2) \(2.5\);　(3) \(\frac{1}{2}\);　(4) \(0\).
 

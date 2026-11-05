@@ -72,7 +72,7 @@
 
 (1) 图中相等的线段有哪些? 线段 $AA'$ 的垂直平分线是?
 
-(2) $\triangle OAB$ 和 $\triangle OA'B'$ 关于直线 $l$ 怎样? 它们全等吗? $\angle ABO=$? $\angle A'OB'=$?
+(2) $\triangle{O}AB$ 和 $\triangle{O}A'B'$ 关于直线 $l$ 怎样? 它们全等吗? $\angle{A}BO=$? $\angle{A}'OB'=$?
 
 ### 解答 练习二
 
@@ -80,15 +80,15 @@
 
 (1) 相等的线段有 $AO=A'O$, $AB=A'B'$, $BO=B'O$; 直线 $l$ 是线段 $AA'$ 的垂直平分线.
 
-(2) $\triangle OAB$ 与 $\triangle OA'B'$ 关于直线 $l$ 对称, 且 $\triangle OAB\cong\triangle OA'B'$. 由对应角相等, $\angle ABO=\angle A'B'O$, $\angle A'OB'=\angle AOB$. $\blacksquare$
+(2) $\triangle{O}AB$ 与 $\triangle{O}A'B'$ 关于直线 $l$ 对称, 且 $\triangle{O}AB\cong\triangle{O}A'B'$. 由对应角相等, $\angle{A}BO=\angle{A}'B'O$, $\angle{A}'OB'=\angle{A}OB$. $\blacksquare$
 
 ## 练习三
 
-(练习 15.1 第 1 题) 如图, $AD\perp BC$, $BD=DC$, 点 $C$ 在 $AE$ 的垂直平分线上. $AB$, $AC$, $CE$ 的长度有什么关系? $AB+BD$ 与 $DE$ 有什么关系?
+(练习 15.1 第 1 题) 如图, $AD\perp{B}C$, $BD=DC$, 点 $C$ 在 $AE$ 的垂直平分线上. $AB$, $AC$, $CE$ 的长度有什么关系? $AB+BD$ 与 $DE$ 有什么关系?
 
 ### 解答 练习三
 
-由 $AD\perp BC$ 且 $BD=DC$, 知直线 $AD$ 垂直平分 $BC$. 点 $A$ 在 $AD$ 上, 由垂直平分线的性质, $AB=AC$.
+由 $AD\perp{B}C$ 且 $BD=DC$, 知直线 $AD$ 垂直平分 $BC$. 点 $A$ 在 $AD$ 上, 由垂直平分线的性质, $AB=AC$.
 
 由点 $C$ 在 $AE$ 的垂直平分线上, 同理由基础知识, $AC=CE$. 故 $AB=AC=CE$.
 
@@ -164,24 +164,24 @@ $\blacksquare$
 
 ## 习题三
 
-(习题 15.1 复习巩固第 3 题) 如图, $\triangle ABC$ 和 $\triangle A'B'C'$ 关于直线 $l$ 对称, $\angle B=90^\circ$, $A'B'=6$. 求 $\angle B'$ 的度数和 $AB$ 的长.
+(习题 15.1 复习巩固第 3 题) 如图, $\triangle{A}BC$ 和 $\triangle{A}'B'C'$ 关于直线 $l$ 对称, $\angle{B}=90^\circ$, $A'B'=6$. 求 $\angle{B}'$ 的度数和 $AB$ 的长.
 
 ### 解答 习题三
 
-由轴对称的性质, 成轴对称的两图形全等, 故对应角相等, 对应边相等. 于是 $\angle B'=\angle B=90^\circ$, $AB=A'B'=6$. $\blacksquare$
+由轴对称的性质, 成轴对称的两图形全等, 故对应角相等, 对应边相等. 于是 $\angle{B}'=\angle{B}=90^\circ$, $AB=A'B'=6$. $\blacksquare$
 
 ## 习题四
 
-(习题 15.1 复习巩固第 4 题) 如图, 在 $\triangle ABC$ 中, $DE$ 是 $AC$ 的垂直平分线, $AE=3$, $\triangle ABD$ 的周长为 $13$. 求 $\triangle ABC$ 的周长.
+(习题 15.1 复习巩固第 4 题) 如图, 在 $\triangle{A}BC$ 中, $DE$ 是 $AC$ 的垂直平分线, $AE=3$, $\triangle{A}BD$ 的周长为 $13$. 求 $\triangle{A}BC$ 的周长.
 
 ### 解答 习题四
 
 由 $DE$ 是 $AC$ 的垂直平分线, 得 $AC=2AE=6$, 且点 $D$ 在 $DE$ 上, 由垂直平分线的性质, $DA=DC$.
 
-$\triangle ABD$ 的周长为 $AB+BD+AD=AB+BD+DC=AB+BC=13$. 故
+$\triangle{A}BD$ 的周长为 $AB+BD+AD=AB+BD+DC=AB+BC=13$. 故
 
 $$
-C_{\triangle ABC}=AB+BC+AC=13+6=19.
+C_{\triangle{A}BC}=AB+BC+AC=13+6=19.
 $$
 
 $\blacksquare$
@@ -226,11 +226,11 @@ $\blacksquare$
 
 ## 习题八
 
-(习题 15.1 综合运用第 8 题) 如图, $AD$ 与 $BC$ 相交于点 $O$, $OA=OC$, $\angle A=\angle C$, $BE=DE$. 求证 $OE$ 垂直平分 $BD$.
+(习题 15.1 综合运用第 8 题) 如图, $AD$ 与 $BC$ 相交于点 $O$, $OA=OC$, $\angle{A}=\angle{C}$, $BE=DE$. 求证 $OE$ 垂直平分 $BD$.
 
 ### 解答 习题八
 
-在 $\triangle AOB$ 和 $\triangle COD$ 中, $\angle A=\angle C$, $OA=OC$, $\angle AOB=\angle COD$ (对顶角), 由 ASA, $\triangle AOB\cong\triangle COD$, 故 $OB=OD$.
+在 $\triangle{A}OB$ 和 $\triangle{C}OD$ 中, $\angle{A}=\angle{C}$, $OA=OC$, $\angle{A}OB=\angle{C}OD$ (对顶角), 由 ASA, $\triangle{A}OB\cong\triangle{C}OD$, 故 $OB=OD$.
 
 由 $OB=OD$, 点 $O$ 在 $BD$ 的垂直平分线上; 由 $BE=DE$, 点 $E$ 也在 $BD$ 的垂直平分线上. 故直线 $OE$ 是线段 $BD$ 的垂直平分线. $\blacksquare$
 
@@ -252,7 +252,7 @@ $\blacksquare$
 
 ## 习题十一
 
-(习题 15.1 综合运用第 11 题) 如图, $\triangle ABC$ 与 $\triangle A'B'C'$ 关于直线 $l$ 对称, 对应线段 $AB$ 和 $A'B'$ 所在直线相交吗? 交点与对称轴 $l$ 有什么关系?
+(习题 15.1 综合运用第 11 题) 如图, $\triangle{A}BC$ 与 $\triangle{A}'B'C'$ 关于直线 $l$ 对称, 对应线段 $AB$ 和 $A'B'$ 所在直线相交吗? 交点与对称轴 $l$ 有什么关系?
 
 ### 解答 习题十一
 
@@ -268,7 +268,7 @@ $\blacksquare$
 
 ## 习题十三
 
-(习题 15.1 拓广探索第 13 题) 如图, 在 $\triangle ABC$ 中, 边 $AB$, $BC$ 的垂直平分线相交于点 $P$.
+(习题 15.1 拓广探索第 13 题) 如图, 在 $\triangle{A}BC$ 中, 边 $AB$, $BC$ 的垂直平分线相交于点 $P$.
 
 (1) 求证 $PA=PB=PC$;
 
@@ -301,7 +301,7 @@ $\blacksquare$
 (练习 15.2 第 1 题) 分别写出下列各点关于 $x$ 轴和 $y$ 轴对称的点的坐标:
 
 $$
-\left(-2,6\right),\ \left(1,-2\right),\ \left(1,3\right),\ \left(-4,-2\right),\ \left(1,0\right).
+\left(-2,6\right),\,\left(1,-2\right),\,\left(1,3\right),\,\left(-4,-2\right),\,\left(1,0\right).
 $$
 
 ### 解答 练习十
@@ -314,19 +314,19 @@ $$
 
 ## 练习十一
 
-(练习 15.2 第 2 题) 如图, $\triangle ABO$ 关于 $x$ 轴对称, 点 $A$ 的坐标为 $\left(1,-2\right)$, 写出点 $B$ 的坐标.
+(练习 15.2 第 2 题) 如图, $\triangle{A}BO$ 关于 $x$ 轴对称, 点 $A$ 的坐标为 $\left(1,-2\right)$, 写出点 $B$ 的坐标.
 
 ### 解答 练习十一
 
-由 $\triangle ABO$ 关于 $x$ 轴对称, 原点 $O$ 在 $x$ 轴上, 点 $A$ 与点 $B$ 是关于 $x$ 轴的一对对称点. 由坐标中的轴对称, $A\left(1,-2\right)$ 关于 $x$ 轴对称的点为 $B\left(1,2\right)$. $\blacksquare$
+由 $\triangle{A}BO$ 关于 $x$ 轴对称, 原点 $O$ 在 $x$ 轴上, 点 $A$ 与点 $B$ 是关于 $x$ 轴的一对对称点. 由坐标中的轴对称, $A\left(1,-2\right)$ 关于 $x$ 轴对称的点为 $B\left(1,2\right)$. $\blacksquare$
 
 ## 练习十二
 
-(练习 15.2 第 3 题) 如图, 利用关于坐标轴对称的点的坐标的特点, 分别画出与 $\triangle ABC$ 关于 $x$ 轴和 $y$ 轴对称的图形.
+(练习 15.2 第 3 题) 如图, 利用关于坐标轴对称的点的坐标的特点, 分别画出与 $\triangle{A}BC$ 关于 $x$ 轴和 $y$ 轴对称的图形.
 
 ### 解答 练习十二
 
-由坐标中的轴对称, 把 $\triangle ABC$ 三个顶点的坐标分别按 $\left(x,y\right)\to\left(x,-y\right)$ 和 $\left(x,y\right)\to\left(-x,y\right)$ 求出对称点, 描出并依次连接, 即得关于 $x$ 轴和 $y$ 轴对称的三角形. $\blacksquare$
+由坐标中的轴对称, 把 $\triangle{A}BC$ 三个顶点的坐标分别按 $\left(x,y\right)\to\left(x,-y\right)$ 和 $\left(x,y\right)\to\left(-x,y\right)$ 求出对称点, 描出并依次连接, 即得关于 $x$ 轴和 $y$ 轴对称的三角形. $\blacksquare$
 
 ## 习题十四
 
@@ -358,7 +358,7 @@ $$
 
 ## 习题十七
 
-(习题 15.2 复习巩固第 4 题) 如图, 利用关于坐标轴对称的点的坐标的特点, 分别画出 $\triangle ABC$ 关于 $x$ 轴和 $y$ 轴对称的图形.
+(习题 15.2 复习巩固第 4 题) 如图, 利用关于坐标轴对称的点的坐标的特点, 分别画出 $\triangle{A}BC$ 关于 $x$ 轴和 $y$ 轴对称的图形.
 
 ### 解答 习题十七
 
@@ -404,7 +404,7 @@ $$
 
 ## 习题二十一
 
-(习题 15.2 拓广探索第 8 题) 如图, 分别作出 $\triangle PQR$ 关于直线 $m$ (其上各点横坐标都为 $1$) 和直线 $n$ (其上各点纵坐标都为 $-1$) 对称的图形. 对称点坐标之间分别有什么关系?
+(习题 15.2 拓广探索第 8 题) 如图, 分别作出 $\triangle{P}QR$ 关于直线 $m$ (其上各点横坐标都为 $1$) 和直线 $n$ (其上各点纵坐标都为 $-1$) 对称的图形. 对称点坐标之间分别有什么关系?
 
 图中为平面直角坐标系, $x$ 轴范围约 $-7$ 到 $7$, $y$ 轴范围约 $-7$ 到 $7$; 三角形 $PQR$ 的三个顶点分别为 $P\left(-1,3\right)$, $Q\left(-4,5\right)$, $R\left(-4,1\right)$; 粉色直线 $m$ 为竖直直线 $x=1$, 粉色直线 $n$ 为水平直线 $y=-1$.
 
@@ -416,31 +416,31 @@ $$
 
 ## 练习十三
 
-(练习 15.3 第 1 题) 如图, 在 $\triangle ABC$ 中, $AB=AD=DC$, $\angle BAD=26^\circ$. 求 $\angle B$ 和 $\angle C$ 的度数.
+(练习 15.3 第 1 题) 如图, 在 $\triangle{A}BC$ 中, $AB=AD=DC$, $\angle{B}AD=26^\circ$. 求 $\angle{B}$ 和 $\angle{C}$ 的度数.
 
 ### 解答 练习十三
 
-由 $AB=AD$, $\triangle ABD$ 为等腰三角形, 由等边对等角,
+由 $AB=AD$, $\triangle{A}BD$ 为等腰三角形, 由等边对等角,
 
 $$
-\angle B=\angle ADB=\frac{180^\circ-26^\circ}{2}=77^\circ.
+\angle{B}=\angle{A}DB=\frac{180^\circ-26^\circ}{2}=77^\circ.
 $$
 
-由 $AD=DC$, $\triangle ADC$ 为等腰三角形, 故 $\angle C=\angle DAC$. 又 $\angle ADB$ 是 $\triangle ADC$ 的外角, 故 $\angle ADB=\angle C+\angle DAC=2\angle C$, 从而 $\angle C=77^\circ/2=38.5^\circ$. $\blacksquare$
+由 $AD=DC$, $\triangle{A}DC$ 为等腰三角形, 故 $\angle{C}=\angle{D}AC$. 又 $\angle{A}DB$ 是 $\triangle{A}DC$ 的外角, 故 $\angle{A}DB=\angle{C}+\angle{D}AC=2\angle{C}$, 从而 $\angle{C}=77^\circ/2=38.5^\circ$. $\blacksquare$
 
 ## 练习十四
 
-(练习 15.3 第 2 题) $\triangle ABC$ 是等腰直角三角形 ($AB=AC$, $\angle BAC=90^\circ$), $AD$ 是底边 $BC$ 上的高. 标出 $\angle B$, $\angle C$, $\angle BAD$, $\angle DAC$ 的度数, 并写出图中所有相等的线段.
+(练习 15.3 第 2 题) $\triangle{A}BC$ 是等腰直角三角形 ($AB=AC$, $\angle{B}AC=90^\circ$), $AD$ 是底边 $BC$ 上的高. 标出 $\angle{B}$, $\angle{C}$, $\angle{B}AD$, $\angle{D}AC$ 的度数, 并写出图中所有相等的线段.
 
 ### 解答 练习十四
 
-由 $AB=AC$, $\angle BAC=90^\circ$, 得
+由 $AB=AC$, $\angle{B}AC=90^\circ$, 得
 
 $$
-\angle B=\angle C=\frac{180^\circ-90^\circ}{2}=45^\circ.
+\angle{B}=\angle{C}=\frac{180^\circ-90^\circ}{2}=45^\circ.
 $$
 
-由三线合一, $AD$ 平分顶角, 故 $\angle BAD=\angle DAC=45^\circ$. 相等的线段有 $BD=DC=AD$, $AB=AC$. $\blacksquare$
+由三线合一, $AD$ 平分顶角, 故 $\angle{B}AD=\angle{D}AC=45^\circ$. 相等的线段有 $BD=DC=AD$, $AB=AC$. $\blacksquare$
 
 ## 练习十五
 
@@ -448,29 +448,29 @@ $$
 
 ### 解答 练习十五
 
-设在 $\triangle ABC$ 中, $AD$ 是 $BC$ 边上的中线, 且 $AD=\frac{1}{2}BC$. 由中线定义 $BD=DC=\frac{1}{2}BC$, 故 $AD=BD=DC$.
+设在 $\triangle{A}BC$ 中, $AD$ 是 $BC$ 边上的中线, 且 $AD=\frac{1}{2}BC$. 由中线定义 $BD=DC=\frac{1}{2}BC$, 故 $AD=BD=DC$.
 
-由 $AD=BD$, $\triangle ABD$ 为等腰三角形, $\angle B=\angle BAD$. 由 $AD=DC$, $\triangle ADC$ 为等腰三角形, $\angle C=\angle CAD$.
+由 $AD=BD$, $\triangle{A}BD$ 为等腰三角形, $\angle{B}=\angle{B}AD$. 由 $AD=DC$, $\triangle{A}DC$ 为等腰三角形, $\angle{C}=\angle{C}AD$.
 
 于是
 
 $$
-\angle BAC=\angle BAD+\angle CAD=\angle B+\angle C.
+\angle{B}AC=\angle{B}AD+\angle{C}AD=\angle{B}+\angle{C}.
 $$
 
-又 $\angle BAC+\angle B+\angle C=180^\circ$, 故 $2\angle BAC=180^\circ$, 即 $\angle BAC=90^\circ$. 所以这个三角形是直角三角形. $\blacksquare$
+又 $\angle{B}AC+\angle{B}+\angle{C}=180^\circ$, 故 $2\angle{B}AC=180^\circ$, 即 $\angle{B}AC=90^\circ$. 所以这个三角形是直角三角形. $\blacksquare$
 
 ## 练习十六
 
-(练习 15.3 第 1 题) 如图, $\angle A=36^\circ$, $\angle DBC=36^\circ$, $\angle C=72^\circ$. 分别计算 $\angle 1$, $\angle 2$ 的度数, 并说明图中有哪些等腰三角形.
+(练习 15.3 第 1 题) 如图, $\angle{A}=36^\circ$, $\angle{D}BC=36^\circ$, $\angle{C}=72^\circ$. 分别计算 $\angle1$, $\angle2$ 的度数, 并说明图中有哪些等腰三角形.
 
 ### 解答 练习十六
 
-在 $\triangle ABC$ 中, $\angle ABC=180^\circ-\angle A-\angle C=180^\circ-36^\circ-72^\circ=72^\circ$. 故 $\angle 1=\angle ABC-\angle DBC=72^\circ-36^\circ=36^\circ$.
+在 $\triangle{A}BC$ 中, $\angle{A}BC=180^\circ-\angle{A}-\angle{C}=180^\circ-36^\circ-72^\circ=72^\circ$. 故 $\angle1=\angle{A}BC-\angle{D}BC=72^\circ-36^\circ=36^\circ$.
 
-在 $\triangle BDC$ 中, $\angle 2=180^\circ-\angle DBC-\angle C=180^\circ-36^\circ-72^\circ=72^\circ$.
+在 $\triangle{B}DC$ 中, $\angle2=180^\circ-\angle{D}BC-\angle{C}=180^\circ-36^\circ-72^\circ=72^\circ$.
 
-等腰三角形有: $\triangle ABC$ ($\angle ABC=\angle C$), $\triangle ABD$ ($\angle A=\angle 1$), $\triangle BCD$ ($\angle 2=\angle C$). $\blacksquare$
+等腰三角形有: $\triangle{A}BC$ ($\angle{A}BC=\angle{C}$), $\triangle{A}BD$ ($\angle{A}=\angle1$), $\triangle{B}CD$ ($\angle2=\angle{C}$). $\blacksquare$
 
 ## 练习十七
 
@@ -482,13 +482,13 @@ $$
 
 ## 练习十八
 
-(练习 15.3 第 3 题) 如图, $AC$ 和 $BD$ 相交于点 $O$, 且 $AB\parallel CD$, $OA=OB$. 求证 $OC=OD$.
+(练习 15.3 第 3 题) 如图, $AC$ 和 $BD$ 相交于点 $O$, 且 $AB\parallel{C}D$, $OA=OB$. 求证 $OC=OD$.
 
 ### 解答 练习十八
 
-由 $OA=OB$, $\triangle OAB$ 为等腰三角形, 由等边对等角, $\angle A=\angle B$.
+由 $OA=OB$, $\triangle{O}AB$ 为等腰三角形, 由等边对等角, $\angle{A}=\angle{B}$.
 
-由 $AB\parallel CD$, 内错角相等, 得 $\angle A=\angle C$, $\angle B=\angle D$. 故 $\angle C=\angle D$.
+由 $AB\parallel{C}D$, 内错角相等, 得 $\angle{A}=\angle{C}$, $\angle{B}=\angle{D}$. 故 $\angle{C}=\angle{D}$.
 
 由等角对等边, $OC=OD$. $\blacksquare$
 
@@ -502,8 +502,8 @@ $$
 
 ## 练习二十
 
-(练习 15.3 第 2 题) 如图, 在等边三角形 $ABC$ 中, $AD$ 是 $BC$ 上的高, $\angle BDE=\angle CDF=60^\circ$. 图中有哪些与 $BD$ 相等的线段?
+(练习 15.3 第 2 题) 如图, 在等边三角形 $ABC$ 中, $AD$ 是 $BC$ 上的高, $\angle{B}DE=\angle{C}DF=60^\circ$. 图中有哪些与 $BD$ 相等的线段?
 
 ### 解答 练习二十
 
-由等边三角形及三线合一, $D$ 是 $BC$ 中点, $BD=DC$, 且 $AD\perp BC$. 在 $\text{Rt}\triangle BDE$ 中, $\angle B=60^\circ$, $\angle BDE=60^\circ$, 故 $\triangle BDE$ 三个角均为 $60^\circ$, 是等边三角形, 从而 $BE=DE=BD$. 同理 $\triangle CDF$ 也是等边三角形, $CF=DF=DC=BD$. 故与 $BD$ 相等的线段有 $DC$, $BE$, $DE$, $CF$, $DF$. $\blacksquare$
+由等边三角形及三线合一, $D$ 是 $BC$ 中点, $BD=DC$, 且 $AD\perp{B}C$. 在 $\text{Rt}\triangle{B}DE$ 中, $\angle{B}=60^\circ$, $\angle{B}DE=60^\circ$, 故 $\triangle{B}DE$ 三个角均为 $60^\circ$, 是等边三角形, 从而 $BE=DE=BD$. 同理 $\triangle{C}DF$ 也是等边三角形, $CF=DF=DC=BD$. 故与 $BD$ 相等的线段有 $DC$, $BE$, $DE$, $CF$, $DF$. $\blacksquare$

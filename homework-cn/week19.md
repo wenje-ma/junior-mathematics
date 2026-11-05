@@ -10,7 +10,7 @@
 
 > **定义 8.1.2 (算术平方根)**
 > 
-> 正数 $a$ 的正的平方根 $\sqrt a$ 叫作 $a$ 的算术平方根, $a$ 叫作被开方数. 规定 $0$ 的算术平方根是 $0$, 即 $\sqrt 0=0$. 正数 $a$ 的平方根记作 $\pm\sqrt a$.
+> 正数 $a$ 的正的平方根 $\sqrt{a}$ 叫作 $a$ 的算术平方根, $a$ 叫作被开方数. 规定 $0$ 的算术平方根是 $0$, 即 $\sqrt0=0$. 正数 $a$ 的平方根记作 $\pm\sqrt{a}$.
 
 > **性质 8.1.2 (算术平方根的大小)**
 > 
@@ -18,7 +18,7 @@
 
 > **性质 8.1.3 (平方与开方的关系)**
 > 
-> 对任意非负数 $a$, $\left(\sqrt a\right)^2=a$; 对任意数 $a$, $\sqrt{a^2}=\left|a\right|$.
+> 对任意非负数 $a$, $\left(\sqrt{a}\right)^2=a$; 对任意数 $a$, $\sqrt{a^2}=\left|a\right|$.
 
 > **定义 8.2.1 (立方根)**
 > 
@@ -62,11 +62,11 @@
 
 由**定义 8.1.2 (算术平方根)**, 用计算器求正平方根后四舍五入.
 
-(1) $\sqrt{408}\approx 20.20$.
+(1) $\sqrt{408}\approx20.20$.
 
-(2) $\sqrt{51.42534}\approx 7.17$.
+(2) $\sqrt{51.42534}\approx7.17$.
 
-(3) $\sqrt{\frac{111}{14}}=\sqrt{7.928\cdots}\approx 2.82$. $\blacksquare$
+(3) $\sqrt{\frac{111}{14}}=\sqrt{7.928\cdots}\approx2.82$. $\blacksquare$
 
 ## 习题二
 
@@ -78,11 +78,11 @@
 
 由**性质 8.1.2 (算术平方根的大小)**, 被开方数大的算术平方根大.
 
-(1) $\because 8^2=64< 65$, $\therefore\sqrt{65}> \sqrt{64}=8$, 即 $\sqrt{65}> 8$.
+(1) $\because8^2=64<65$, $\therefore\sqrt{65}>\sqrt{64}=8$, 即 $\sqrt{65}>8$.
 
-(2) $\because 33> 22$, $\therefore\sqrt{33}> \sqrt{22}$.
+(2) $\because33>22$, $\therefore\sqrt{33}>\sqrt{22}$.
 
-(3) $\because 10> 9$, $\therefore\sqrt{10}> \sqrt 9=3$, 故 $\sqrt{10}-1> 2$, 从而 $\frac{\sqrt{10}-1}{2}> 1$. $\blacksquare$
+(3) $\because10>9$, $\therefore\sqrt{10}>\sqrt9=3$, 故 $\sqrt{10}-1>2$, 从而 $\frac{\sqrt{10}-1}{2}>1$. $\blacksquare$
 
 ## 习题三
 
@@ -94,11 +94,11 @@
 
 由**定义 8.1.1 (平方根)**.
 
-(1) $x^2=100$, 故 $x=\pm\sqrt{100}=\pm 10$.
+(1) $x^2=100$, 故 $x=\pm\sqrt{100}=\pm10$.
 
 (2) $x^2=\frac{36}{25}$, 故 $x=\pm\sqrt{\frac{36}{25}}=\pm\frac{6}{5}$.
 
-(3) $x+2=\pm\sqrt{0.49}=\pm 0.7$. 当 $x+2=0.7$ 时 $x=-1.3$; 当 $x+2=-0.7$ 时 $x=-2.7$. 故 $x=-1.3$ 或 $x=-2.7$. $\blacksquare$
+(3) $x+2=\pm\sqrt{0.49}=\pm0.7$. 当 $x+2=0.7$ 时 $x=-1.3$; 当 $x+2=-0.7$ 时 $x=-2.7$. 故 $x=-1.3$ 或 $x=-2.7$. $\blacksquare$
 
 ## 习题四
 
@@ -106,9 +106,9 @@
 
 ### 解答 习题四
 
-设边长为 $x\,\text{dm}$, 则 $x^2=3$, 由**定义 8.1.1 (平方根)**, $x=\sqrt 3$.
+设边长为 $x\,\text{dm}$, 则 $x^2=3$, 由**定义 8.1.1 (平方根)**, $x=\sqrt3$.
 
-$\because 1.7^2=2.89< 3< 3.24=1.8^2$, 继续精确: $1.73^2=2.9929< 3< 3.0276=1.74^2$, 再 $1.732^2\approx 2.999< 3$. 故 $\sqrt 3\approx 1.73$.
+$\because1.7^2=2.89<3<3.24=1.8^2$, 继续精确: $1.73^2=2.9929<3<3.0276=1.74^2$, 再 $1.732^2\approx2.999<3$. 故 $\sqrt3\approx1.73$.
 
 即正方形边长约为 $1.73\,\text{dm}$. $\blacksquare$
 
@@ -121,10 +121,10 @@ $\because 1.7^2=2.89< 3< 3.24=1.8^2$, 继续精确: $1.73^2=2.9929< 3< 3.0276=1.
 把 $l=0.25$, $g=9.8$, $\pi=3.14$ 代入 $t=2\pi\sqrt{\frac{l}{g}}$.
 
 $$
-t=2\times 3.14\times\sqrt{\frac{0.25}{9.8}}=6.28\times\sqrt{0.02551\cdots}.
+t=2\times3.14\times\sqrt{\frac{0.25}{9.8}}=6.28\times\sqrt{0.02551\cdots}.
 $$
 
-$\sqrt{0.02551\cdots}\approx 0.1597$, 故 $t\approx 6.28\times 0.1597\approx 1.00$.
+$\sqrt{0.02551\cdots}\approx0.1597$, 故 $t\approx6.28\times0.1597\approx1.00$.
 
 即摆动一个来回所用时间约为 $1.00\,s$. $\blacksquare$
 
@@ -140,25 +140,25 @@ $\sqrt{0.02551\cdots}\approx 0.1597$, 故 $t\approx 6.28\times 0.1597\approx 1.0
 
 面积扩大为原来的 $9$ 倍时, 新边长为 $\sqrt{9a^2}=3a$, 即边长变为原来的 $3$ 倍.
 
-面积扩大为原来的 $n$ 倍时, 新边长为 $\sqrt{na^2}=a\sqrt n$, 即边长变为原来的 $\sqrt n$ 倍. $\blacksquare$
+面积扩大为原来的 $n$ 倍时, 新边长为 $\sqrt{na^2}=a\sqrt{n}$, 即边长变为原来的 $\sqrt{n}$ 倍. $\blacksquare$
 
 ## 习题七
 
 (习题 8.1 拓广探索第 10 题)
 
-(1) 求 $\left(\sqrt 0\right)^2$, $\left(\sqrt 4\right)^2$, $\left(\sqrt 9\right)^2$, $\left(\sqrt{25}\right)^2$, $\left(\sqrt{36}\right)^2$ 的值. 对于任意非负数 $a$, $\left(\sqrt a\right)^2$ 等于多少?
+(1) 求 $\left(\sqrt0\right)^2$, $\left(\sqrt4\right)^2$, $\left(\sqrt9\right)^2$, $\left(\sqrt{25}\right)^2$, $\left(\sqrt{36}\right)^2$ 的值. 对于任意非负数 $a$, $\left(\sqrt{a}\right)^2$ 等于多少?
 
 (2) 求 $\sqrt{0^2}$, $\sqrt{2^2}$, $\sqrt{\left(-3\right)^2}$, $\sqrt{5^2}$, $\sqrt{\left(-6\right)^2}$ 的值. 对于任意数 $a$, $\sqrt{a^2}$ 等于多少?
 
 ### 解答 习题七
 
-(1) $\left(\sqrt 0\right)^2=0$, $\left(\sqrt 4\right)^2=4$, $\left(\sqrt 9\right)^2=9$, $\left(\sqrt{25}\right)^2=25$, $\left(\sqrt{36}\right)^2=36$. 由**性质 8.1.3 (平方与开方的关系)**, 对任意非负数 $a$,
+(1) $\left(\sqrt0\right)^2=0$, $\left(\sqrt4\right)^2=4$, $\left(\sqrt9\right)^2=9$, $\left(\sqrt{25}\right)^2=25$, $\left(\sqrt{36}\right)^2=36$. 由**性质 8.1.3 (平方与开方的关系)**, 对任意非负数 $a$,
 
 $$
-\left(\sqrt a\right)^2=a.
+\left(\sqrt{a}\right)^2=a.
 $$
 
-(2) $\sqrt{0^2}=0$, $\sqrt{2^2}=2$, $\sqrt{\left(-3\right)^2}=\sqrt 9=3$, $\sqrt{5^2}=5$, $\sqrt{\left(-6\right)^2}=\sqrt{36}=6$. 可见当 $a\ge 0$ 时 $\sqrt{a^2}=a$, 当 $a< 0$ 时 $\sqrt{a^2}=-a$. 由算术平方根的性质, 对任意数 $a$,
+(2) $\sqrt{0^2}=0$, $\sqrt{2^2}=2$, $\sqrt{\left(-3\right)^2}=\sqrt9=3$, $\sqrt{5^2}=5$, $\sqrt{\left(-6\right)^2}=\sqrt{36}=6$. 可见当 $a\ge0$ 时 $\sqrt{a^2}=a$, 当 $a<0$ 时 $\sqrt{a^2}=-a$. 由算术平方根的性质, 对任意数 $a$,
 
 $$
 \sqrt{a^2}=\left|a\right|.
@@ -174,7 +174,7 @@ $\blacksquare$
 
 由**性质 8.1.2 (算术平方根的大小)**, 对正数不断开平方.
 
-对 $1234$ 连续开平方: $\sqrt{1234}\approx 35.1$, 再开平方 $\sqrt{35.1}\approx 5.92$, 再开 $\approx 2.43$, 再开 $\approx 1.56$, 再开 $\approx 1.25$, …… 随着开平方次数增多, 结果逐渐接近 $1$.
+对 $1234$ 连续开平方: $\sqrt{1234}\approx35.1$, 再开平方 $\sqrt{35.1}\approx5.92$, 再开 $\approx2.43$, 再开 $\approx1.56$, 再开 $\approx1.25$, …… 随着开平方次数增多, 结果逐渐接近 $1$.
 
 一般地, 大于 $1$ 的正数不断开平方, 结果逐渐减小并趋近于 $1$. $\blacksquare$
 
@@ -184,7 +184,7 @@ $\blacksquare$
 
 (1) $-3$ 是 $-27$ 的立方根;
 
-(2) $\pm 3$ 是 $27$ 的立方根;
+(2) $\pm3$ 是 $27$ 的立方根;
 
 (3) $\left(-1\right)^3$ 的立方根是 $-1$;
 
@@ -194,7 +194,7 @@ $\blacksquare$
 
 由**性质 8.2.1 (立方根的性质)**, 每个数只有一个立方根.
 
-(1) $\because\left(-3\right)^3=-27$, $\therefore -3$ 是 $-27$ 的立方根, 正确.
+(1) $\because\left(-3\right)^3=-27$, $\therefore-3$ 是 $-27$ 的立方根, 正确.
 
 (2) $27$ 的立方根是 $3$ (唯一), $-3$ 不是 $27$ 的立方根, 故错误.
 
@@ -214,7 +214,7 @@ $\blacksquare$
 
 (1) $\because\left(-1\right)^3=-1$, $\therefore\sqrt\left[3\right]{-1}=-1$.
 
-(2) $\because 0.2^3=0.008$, $\therefore\sqrt\left[3\right]{0.008}=0.2$.
+(2) $\because0.2^3=0.008$, $\therefore\sqrt\left[3\right]{0.008}=0.2$.
 
 (3) $\because\left(-\frac{4}{3}\right)^3=-\frac{64}{27}$, $\therefore\sqrt\left[3\right]{-\frac{64}{27}}=-\frac{4}{3}$. $\blacksquare$
 
@@ -226,7 +226,7 @@ $\blacksquare$
 
 设棱长为 $x\,\text{cm}$, 由正方体体积公式 $x^3=216$.
 
-由**定义 8.2.1 (立方根)**, $x=\sqrt\left[3\right]{216}$. $\because 6^3=216$, $\therefore x=6$.
+由**定义 8.2.1 (立方根)**, $x=\sqrt\left[3\right]{216}$. $\because6^3=216$, $\therefore{x}=6$.
 
 即魔方的棱长为 $6\,\text{cm}$. $\blacksquare$
 
@@ -240,7 +240,7 @@ $\blacksquare$
 
 由**性质 8.2.3 (立方与开立方的关系)** 与**性质 8.2.2 (负数的立方根)**.
 
-(1) $\because 0.3^3=0.027$, $\therefore\sqrt\left[3\right]{0.027}=0.3$.
+(1) $\because0.3^3=0.027$, $\therefore\sqrt\left[3\right]{0.027}=0.3$.
 
 (2) 由**性质 8.2.3 (立方与开立方的关系)**, $\sqrt\left[3\right]{\left(-7\right)^3}=-7$.
 
@@ -256,11 +256,11 @@ $\blacksquare$
 
 由**定义 8.2.1 (立方根)**, 用计算器求立方根.
 
-(1) $\because 19^3=6859$, $\therefore\sqrt\left[3\right]{6859}=19$.
+(1) $\because19^3=6859$, $\therefore\sqrt\left[3\right]{6859}=19$.
 
-(2) $\because 41^3=68921$, $\therefore\sqrt\left[3\right]{68921}=41$.
+(2) $\because41^3=68921$, $\therefore\sqrt\left[3\right]{68921}=41$.
 
-(3) 用计算器算得 $\sqrt\left[3\right]{0.028092}\approx 0.304$. $\blacksquare$
+(3) 用计算器算得 $\sqrt\left[3\right]{0.028092}\approx0.304$. $\blacksquare$
 
 ## 练习六
 
@@ -272,13 +272,13 @@ $\blacksquare$
 
 由立方数比较大小.
 
-(1) $\because 1^3=1< 7< 8=2^3$, $\therefore 1< \sqrt\left[3\right]{7}< 2$, 介于 $1$ 与 $2$ 之间.
+(1) $\because1^3=1<7<8=2^3$, $\therefore1<\sqrt\left[3\right]{7}<2$, 介于 $1$ 与 $2$ 之间.
 
-(2) $\because 4^3=64< 99< 125=5^3$, $\therefore 4< \sqrt\left[3\right]{99}< 5$, 介于 $4$ 与 $5$ 之间.
+(2) $\because4^3=64<99<125=5^3$, $\therefore4<\sqrt\left[3\right]{99}<5$, 介于 $4$ 与 $5$ 之间.
 
-(3) $\because 8^3=512< 635< 729=9^3$, $\therefore 8< \sqrt\left[3\right]{635}< 9$, 介于 $8$ 与 $9$ 之间.
+(3) $\because8^3=512<635<729=9^3$, $\therefore8<\sqrt\left[3\right]{635}<9$, 介于 $8$ 与 $9$ 之间.
 
-(4) $\because\left(-4\right)^3=-64< -28< -27=\left(-3\right)^3$, $\therefore-4< \sqrt\left[3\right]{-28}< -3$, 介于 $-4$ 与 $-3$ 之间. $\blacksquare$
+(4) $\because\left(-4\right)^3=-64<-28<-27=\left(-3\right)^3$, $\therefore-4<\sqrt\left[3\right]{-28}<-3$, 介于 $-4$ 与 $-3$ 之间. $\blacksquare$
 
 ## 习题九
 
@@ -290,9 +290,9 @@ $\blacksquare$
 
 由**性质 8.2.2 (负数的立方根)** 与**定义 8.2.1 (立方根)**.
 
-(1) $\because 0.5^3=0.125$, $\therefore\sqrt\left[3\right]{0.125}=0.5$, 故 $-\sqrt\left[3\right]{0.125}=-0.5$.
+(1) $\because0.5^3=0.125$, $\therefore\sqrt\left[3\right]{0.125}=0.5$, 故 $-\sqrt\left[3\right]{0.125}=-0.5$.
 
-(2) $\because 9^3=729$, $\therefore\sqrt\left[3\right]{729}=9$, 故 $-\sqrt\left[3\right]{729}=-9$.
+(2) $\because9^3=729$, $\therefore\sqrt\left[3\right]{729}=9$, 故 $-\sqrt\left[3\right]{729}=-9$.
 
 (3) 由**性质 8.2.2 (负数的立方根)**, $\sqrt\left[3\right]{-\frac{1}{8}}=-\sqrt\left[3\right]{\frac{1}{8}}=-\frac{1}{2}$. $\blacksquare$
 
@@ -306,11 +306,11 @@ $\blacksquare$
 
 由**定义 8.2.1 (立方根)**, 用计算器求.
 
-(1) $\sqrt\left[3\right]{5572}\approx 17.727$.
+(1) $\sqrt\left[3\right]{5572}\approx17.727$.
 
-(2) $\frac{11}{3}\approx 3.667$, $\sqrt\left[3\right]{3.667}\approx 1.542$, 故 $-\sqrt\left[3\right]{\frac{11}{3}}\approx-1.542$.
+(2) $\frac{11}{3}\approx3.667$, $\sqrt\left[3\right]{3.667}\approx1.542$, 故 $-\sqrt\left[3\right]{\frac{11}{3}}\approx-1.542$.
 
-(3) $\sqrt\left[3\right]{25.986558}\approx 2.961$, 故 $\pm\sqrt\left[3\right]{25.986558}\approx\pm 2.961$. $\blacksquare$
+(3) $\sqrt\left[3\right]{25.986558}\approx2.961$, 故 $\pm\sqrt\left[3\right]{25.986558}\approx\pm2.961$. $\blacksquare$
 
 ## 习题十一
 
@@ -322,11 +322,11 @@ $\blacksquare$
 
 立方根随被开方数增大而增大.
 
-(1) $\because 2^3=8> 7$, $\therefore\sqrt\left[3\right]{7}< \sqrt\left[3\right]{8}=2$, 即 $\sqrt\left[3\right]{7}< 2$.
+(1) $\because2^3=8>7$, $\therefore\sqrt\left[3\right]{7}<\sqrt\left[3\right]{8}=2$, 即 $\sqrt\left[3\right]{7}<2$.
 
-(2) $\because 2.5^3=15.625> 9$, $\therefore\sqrt\left[3\right]{9}< \sqrt\left[3\right]{15.625}=2.5$, 即 $\sqrt\left[3\right]{9}< 2.5$.
+(2) $\because2.5^3=15.625>9$, $\therefore\sqrt\left[3\right]{9}<\sqrt\left[3\right]{15.625}=2.5$, 即 $\sqrt\left[3\right]{9}<2.5$.
 
-(3) $\because 3> 2$, $\therefore\sqrt\left[3\right]{3}> \sqrt\left[3\right]{2}$, 两边取相反数得 $-\sqrt\left[3\right]{3}< -\sqrt\left[3\right]{2}$. $\blacksquare$
+(3) $\because3>2$, $\therefore\sqrt\left[3\right]{3}>\sqrt\left[3\right]{2}$, 两边取相反数得 $-\sqrt\left[3\right]{3}<-\sqrt\left[3\right]{2}$. $\blacksquare$
 
 ## 习题十二
 
@@ -338,7 +338,7 @@ $\blacksquare$
 
 由**定义 8.2.1 (立方根)**.
 
-(1) $x=\sqrt\left[3\right]{-0.064}$. $\because 0.4^3=0.064$, $\therefore x=-0.4$.
+(1) $x=\sqrt\left[3\right]{-0.064}$. $\because0.4^3=0.064$, $\therefore{x}=-0.4$.
 
 (2) $x^3=3+\frac{3}{8}=\frac{27}{8}$, $x=\sqrt\left[3\right]{\frac{27}{8}}=\frac{3}{2}$.
 
@@ -350,9 +350,9 @@ $\blacksquare$
 
 ### 解答 习题十三
 
-长方体体积为 $21\times 20\times 19=7980\,dm^3$. 熔化铸成正方体, 体积不变, 设正方体棱长为 $x\,dm$, 则 $x^3=7980$.
+长方体体积为 $21\times20\times19=7980\,dm^3$. 熔化铸成正方体, 体积不变, 设正方体棱长为 $x\,dm$, 则 $x^3=7980$.
 
-由**定义 8.2.1 (立方根)**, $x=\sqrt\left[3\right]{7980}$. $\because 19^3=6859< 7980< 8000=20^3$, 继续估: $19.98^3\approx 7976$. 故 $x\approx 19.98\,dm$.
+由**定义 8.2.1 (立方根)**, $x=\sqrt\left[3\right]{7980}$. $\because19^3=6859<7980<8000=20^3$, 继续估: $19.98^3\approx7976$. 故 $x\approx19.98\,dm$.
 
 即正方体棱长约为 $19.98\,dm$. $\blacksquare$
 
@@ -362,19 +362,19 @@ $\blacksquare$
 
 ### 解答 习题十四
 
-圆柱体积 $V=\pi r^2 h$. 由 $h=5.48r$, 得
+圆柱体积 $V=\pi{r}^2h$. 由 $h=5.48r$, 得
 
 $$
-V=\pi r^2\cdot 5.48r=5.48\pi r^3.
+V=\pi{r}^2\cdot5.48r=5.48\pi{r}^3.
 $$
 
 代入 $V=22600$, $\pi=3.14$:
 
 $$
-r^3=\frac{22600}{5.48\times 3.14}=\frac{22600}{17.2072}\approx 1313.4.
+r^3=\frac{22600}{5.48\times3.14}=\frac{22600}{17.2072}\approx1313.4.
 $$
 
-由**定义 8.2.1 (立方根)**, $r=\sqrt\left[3\right]{1313.4}\approx 10.95$.
+由**定义 8.2.1 (立方根)**, $r=\sqrt\left[3\right]{1313.4}\approx10.95$.
 
 即底面半径 $r$ 约为 $10.95\,\text{cm}$. $\blacksquare$
 
@@ -422,7 +422,7 @@ $\blacksquare$
 
 ### 解答 习题十七
 
-由立方根随被开方数变化的规律, 对 $1234$ 连续开立方: $\sqrt\left[3\right]{1234}\approx 10.7$, 再开立方 $\approx 2.2$, 再开 $\approx 1.3$, 再开 $\approx 1.09$, …… 结果逐渐接近 $1$.
+由立方根随被开方数变化的规律, 对 $1234$ 连续开立方: $\sqrt\left[3\right]{1234}\approx10.7$, 再开立方 $\approx2.2$, 再开 $\approx1.3$, 再开 $\approx1.09$, …… 结果逐渐接近 $1$.
 
 一般地, 大于 $1$ 的数不断开立方, 结果逐渐减小并趋近于 $1$. $\blacksquare$
 
@@ -448,7 +448,7 @@ $\blacksquare$
 
 (2) 无理数是无限不循环小数, 当然都是无限小数, 故正确.
 
-(3) 如 $\sqrt 4=2$ 是有理数, 故用根号表示的数不一定是无理数, 错误.
+(3) 如 $\sqrt4=2$ 是有理数, 故用根号表示的数不一定是无理数, 错误.
 
 (4) 数轴上的点除了表示有理数还表示无理数, 故错误.
 
@@ -462,6 +462,6 @@ $\blacksquare$
 
 由**定义 8.3.1 (无理数)**, 开得尽方的是有理数, 开不尽的是无理数.
 
-平方根: $\sqrt 0=0$, $\sqrt 1=1$, $\sqrt 4=2$, $\sqrt 9=3$ 是有理数; $\sqrt 2$, $\sqrt 3$, $\sqrt 5$, $\sqrt 6$, $\sqrt 7$, $\sqrt 8$, $\sqrt{10}$ 是无理数.
+平方根: $\sqrt0=0$, $\sqrt1=1$, $\sqrt4=2$, $\sqrt9=3$ 是有理数; $\sqrt2$, $\sqrt3$, $\sqrt5$, $\sqrt6$, $\sqrt7$, $\sqrt8$, $\sqrt{10}$ 是无理数.
 
-立方根: $\sqrt\left[3\right] 0=0$, $\sqrt\left[3\right] 1=1$, $\sqrt\left[3\right] 8=2$ 是有理数; $\sqrt\left[3\right] 2$, $\sqrt\left[3\right] 3$, $\sqrt\left[3\right] 4$, $\sqrt\left[3\right] 5$, $\sqrt\left[3\right] 6$, $\sqrt\left[3\right] 7$, $\sqrt\left[3\right] 9$, $\sqrt\left[3\right]{10}$ 是无理数. $\blacksquare$
+立方根: $\sqrt\left[3\right]0=0$, $\sqrt\left[3\right]1=1$, $\sqrt\left[3\right]8=2$ 是有理数; $\sqrt\left[3\right]2$, $\sqrt\left[3\right]3$, $\sqrt\left[3\right]4$, $\sqrt\left[3\right]5$, $\sqrt\left[3\right]6$, $\sqrt\left[3\right]7$, $\sqrt\left[3\right]9$, $\sqrt\left[3\right]{10}$ 是无理数. $\blacksquare$

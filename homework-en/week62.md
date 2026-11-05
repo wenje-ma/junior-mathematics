@@ -26,11 +26,11 @@
 
 > **Definition 29.1.1 (Circle)**
 > 
-> In a plane, the figure formed by the other endpoint $P$ as the segment $OP$ rotates through a full turn about its fixed endpoint $O$ is called a circle. The fixed endpoint $O$ is called the center of the circle, and the segment $OP$ is called the radius. The circle with center $O$ is denoted $\odot O$.
+> In a plane, the figure formed by the other endpoint $P$ as the segment $OP$ rotates through a full turn about its fixed endpoint $O$ is called a circle. The fixed endpoint $O$ is called the center of the circle, and the segment $OP$ is called the radius. The circle with center $O$ is denoted $\odot{O}$.
 
 > **Property 29.1.1 (Position of a Point Relative to a Circle)**
 > 
-> Let the radius of $\odot O$ be $r$, and let the distance from the point $P$ to the center be $OP=d$. Then: the point $P$ is outside the circle $\Leftrightarrow d> r$; the point $P$ is on the circle $\Leftrightarrow d=r$; the point $P$ is inside the circle $\Leftrightarrow d< r$.
+> Let the radius of $\odot{O}$ be $r$, and let the distance from the point $P$ to the center be $OP=d$. Then: the point $P$ is outside the circle $\Leftrightarrow{d}>{}r$; the point $P$ is on the circle $\Leftrightarrow{d}=r$; the point $P$ is inside the circle $\Leftrightarrow{d}<{}r$.
 
 > **Theorem 29.1.1 (Three Points Determine a Circle)**
 > 
@@ -68,17 +68,17 @@ The two parts into which a line through the center of symmetry divides the rhomb
 
 ## Problem 2
 
-(Exercise 28.2, Extension and Exploration, Problem 11) As shown in the figure, $\triangle ADE$ and $\triangle CBF$ are two equilateral triangles outside $\square ABCD$. Using the knowledge of rotation, show that $\triangle ADE$ and $\triangle CBF$ are centrally symmetric.
+(Exercise 28.2, Extension and Exploration, Problem 11) As shown in the figure, $\triangle{A}DE$ and $\triangle{C}BF$ are two equilateral triangles outside $\square{A}BCD$. Using the knowledge of rotation, show that $\triangle{A}DE$ and $\triangle{C}BF$ are centrally symmetric.
 
 ### Solution to Problem 2
 
 By Properties of Central Symmetry.
 
-The intersection $O$ of the diagonals of $\square ABCD$ is its center of symmetry. In $\triangle ADE$ and $\triangle CBF$, $A$ and $C$ are symmetric about $O$, and $D$ and $B$ are symmetric about $O$. $E$ is the third vertex of the equilateral triangle; by rotational symmetry, the corresponding point of $E$ is $F$, symmetric to $E$ about $O$. Hence $\triangle ADE$ and $\triangle CBF$ are centrally symmetric about the point $O$. $\blacksquare$
+The intersection $O$ of the diagonals of $\square{A}BCD$ is its center of symmetry. In $\triangle{A}DE$ and $\triangle{C}BF$, $A$ and $C$ are symmetric about $O$, and $D$ and $B$ are symmetric about $O$. $E$ is the third vertex of the equilateral triangle; by rotational symmetry, the corresponding point of $E$ is $F$, symmetric to $E$ about $O$. Hence $\triangle{A}DE$ and $\triangle{C}BF$ are centrally symmetric about the point $O$. $\blacksquare$
 
 ## Reading and Thinking 1
 
-(Reading and Thinking, Rotationally Symmetric Figures) If a plane figure is rotated about a point $O$ in the plane through an angle $\alpha$ ($0< \alpha< 360^\circ$) and the resulting new figure coincides exactly with the original, then the figure is called a rotationally symmetric figure. A centrally symmetric figure is a special kind of rotationally symmetric figure. Think about it: are all regular polygons rotationally symmetric? What rotational symmetry do they have?
+(Reading and Thinking, Rotationally Symmetric Figures) If a plane figure is rotated about a point $O$ in the plane through an angle $\alpha$ ($0<\alpha<360^\circ$) and the resulting new figure coincides exactly with the original, then the figure is called a rotationally symmetric figure. A centrally symmetric figure is a special kind of rotationally symmetric figure. Think about it: are all regular polygons rotationally symmetric? What rotational symmetry do they have?
 
 ### Solution to Reading and Thinking 1
 
@@ -120,15 +120,15 @@ The pattern is obtained by rotating a single basic figure about its center, seve
 
 ## Review Problem 2
 
-(Review Problem 28, Review and Consolidation, Problem 2) As shown in the figure, rotate $\text{Rt}\triangle ABC$ clockwise about the point $S$ through $30^\circ$, and draw the rotated figure.
+(Review Problem 28, Review and Consolidation, Problem 2) As shown in the figure, rotate $\text{Rt}\triangle{A}BC$ clockwise about the point $S$ through $30^\circ$, and draw the rotated figure.
 
-The figure shows right triangle $ABC$ with a point $S$ outside it; the task is to rotate $\triangle ABC$ clockwise about center $S$ through $30^\circ$.
+The figure shows right triangle $ABC$ with a point $S$ outside it; the task is to rotate $\triangle{A}BC$ clockwise about center $S$ through $30^\circ$.
 
 ### Solution to Review Problem 2
 
 By Properties of Rotation.
 
-Join $SA$, $SB$, $SC$; rotate them clockwise about $S$ through $30^\circ$, taking $SA'=SA$, $SB'=SB$, $SC'=SC$, such that $\angle ASA'=\angle BSB'=\angle CSC'=30^\circ$; join $A'$, $B'$, $C'$ in order to obtain the result. $\blacksquare$
+Join $SA$, $SB$, $SC$; rotate them clockwise about $S$ through $30^\circ$, taking $SA'=SA$, $SB'=SB$, $SC'=SC$, such that $\angle{A}SA'=\angle{B}SB'=\angle{C}SC'=30^\circ$; join $A'$, $B'$, $C'$ in order to obtain the result. $\blacksquare$
 
 ## Review Problem 3
 
@@ -170,10 +170,10 @@ By Coordinates of Points Symmetric about the Origin.
 
 (1) $A'\left(2,-3\right)$, $B'\left(5,0\right)$.
 
-(2) The quadrilateral $ABA'B'$ consists of the two triangles $\triangle ABO$ and $\triangle A'B'O$ ($O$ is the origin). $AB$ and $A'B'$ are symmetric about the origin, $BB'$ lies on the $x$-axis, and $BB'=10$. The distance from the point $A$ to the $x$-axis is $3$, and the distance from the point $A'$ to the $x$-axis is also $3$. Hence
+(2) The quadrilateral $ABA'B'$ consists of the two triangles $\triangle{A}BO$ and $\triangle{A}'B'O$ ($O$ is the origin). $AB$ and $A'B'$ are symmetric about the origin, $BB'$ lies on the $x$-axis, and $BB'=10$. The distance from the point $A$ to the $x$-axis is $3$, and the distance from the point $A'$ to the $x$-axis is also $3$. Hence
 
 $$
-S=\frac12\cdot 10\cdot 3+\frac12\cdot 10\cdot 3=30.
+S=\frac12\cdot10\cdot3+\frac12\cdot10\cdot3=30.
 $$
 
 $\blacksquare$
@@ -204,25 +204,25 @@ By Properties of Rotation.
 
 (1) With $A$ as the center, rotate $AB$ through $90^\circ$ to obtain $AD$; with $B$ as the center, rotate $BA$ through $90^\circ$ to obtain $BC$; join $C$ and $D$ to obtain the square.
 
-(2) With $A$ and $B$ as centers and $AB$ as radius, draw arcs intersecting at $C$ to obtain the equilateral $\triangle ABC$.
+(2) With $A$ and $B$ as centers and $AB$ as radius, draw arcs intersecting at $C$ to obtain the equilateral $\triangle{A}BC$.
 
 (3) Taking $AB$ as one side, rotate $AB$ about $A$ through $30^\circ$ and take $AD=AB$; then determine the fourth vertex by the parallel-and-equal opposite sides, obtaining a rhombus with interior angle $30^\circ$. $\blacksquare$
 
 ## Review Problem 8
 
-(Review Problem 28, Comprehensive Application, Problem 8) As shown in the figure, $\triangle ABC$ and $\triangle ECD$ are both equilateral triangles, the points $B$, $C$, $D$ lie on the same line, and $\triangle EBC$ can be obtained from $\triangle DAC$ through translation, axial symmetry, or rotation.
+(Review Problem 28, Comprehensive Application, Problem 8) As shown in the figure, $\triangle{A}BC$ and $\triangle{E}CD$ are both equilateral triangles, the points $B$, $C$, $D$ lie on the same line, and $\triangle{E}BC$ can be obtained from $\triangle{D}AC$ through translation, axial symmetry, or rotation.
 
-(1) Describe the process of obtaining $\triangle EBC$;
+(1) Describe the process of obtaining $\triangle{E}BC$;
 
-(2) If $\angle ABE=36^\circ$, find the measures of $\angle DAC$ and $\angle ADE$.
+(2) If $\angle{A}BE=36^\circ$, find the measures of $\angle{D}AC$ and $\angle{A}DE$.
 
 ### Solution to Review Problem 8
 
 By Properties of Rotation.
 
-(1) $\triangle ABC$ and $\triangle ECD$ are both equilateral, so $AC=BC$, $DC=EC$, and $\angle ACD=\angle BCE=120^\circ$. Rotating $\triangle DAC$ about the point $C$ clockwise through $60^\circ$ gives $\triangle EBC$.
+(1) $\triangle{A}BC$ and $\triangle{E}CD$ are both equilateral, so $AC=BC$, $DC=EC$, and $\angle{A}CD=\angle{B}CE=120^\circ$. Rotating $\triangle{D}AC$ about the point $C$ clockwise through $60^\circ$ gives $\triangle{E}BC$.
 
-(2) By rotation, $\angle DAC=\angle EBC$. Since $\triangle ABC$ is equilateral, $\angle ABC=60^\circ$, so $\angle EBC=60^\circ-36^\circ=24^\circ$, i.e. $\angle DAC=24^\circ$. Calculating from the rotation and the equilateral relationship gives $\angle ADE=36^\circ$. $\blacksquare$
+(2) By rotation, $\angle{D}AC=\angle{E}BC$. Since $\triangle{A}BC$ is equilateral, $\angle{A}BC=60^\circ$, so $\angle{E}BC=60^\circ-36^\circ=24^\circ$, i.e. $\angle{D}AC=24^\circ$. Calculating from the rotation and the equilateral relationship gives $\angle{A}DE=36^\circ$. $\blacksquare$
 
 ## Review Problem 9
 
@@ -284,7 +284,7 @@ $\blacksquare$
 
 ## Exercise 3
 
-(Exercise 29.1, Problem 3) The radius of $\odot O$ is $10$. Based on the following distances from the point $P$ to the center $O$, determine the position of the point $P$ relative to $\odot O$:
+(Exercise 29.1, Problem 3) The radius of $\odot{O}$ is $10$. Based on the following distances from the point $P$ to the center $O$, determine the position of the point $P$ relative to $\odot{O}$:
 
 (1) $8$;
 
@@ -296,21 +296,21 @@ $\blacksquare$
 
 By Position of a Point Relative to a Circle, $r=10$.
 
-(1) $d=8< 10$, so the point $P$ is inside the circle.
+(1) $d=8<10$, so the point $P$ is inside the circle.
 
 (2) $d=10=r$, so the point $P$ is on the circle.
 
-(3) $d=12> 10$, so the point $P$ is outside the circle. $\blacksquare$
+(3) $d=12>10$, so the point $P$ is outside the circle. $\blacksquare$
 
 ## Exercise 4
 
-(Exercise 29.1, Problem 4) In $\triangle ABC$, $\angle C=90^\circ$. Prove that the three points $A$, $B$, $C$ lie on the same circle.
+(Exercise 29.1, Problem 4) In $\triangle{A}BC$, $\angle{C}=90^\circ$. Prove that the three points $A$, $B$, $C$ lie on the same circle.
 
 ### Solution to Exercise 4
 
 By **Theorem 29.1.1 (Three Points Determine a Circle)**.
 
-Take the midpoint $O$ of $AB$. In $\text{Rt}\triangle ABC$, the median to the hypotenuse is half the hypotenuse, so $OA=OB=OC=\frac12 AB$. Therefore the three points $A$, $B$, $C$ are equidistant from the point $O$, so they lie on the same circle with center $O$ and radius $OA$. $\blacksquare$
+Take the midpoint $O$ of $AB$. In $\text{Rt}\triangle{A}BC$, the median to the hypotenuse is half the hypotenuse, so $OA=OB=OC=\frac12AB$. Therefore the three points $A$, $B$, $C$ are equidistant from the point $O$, so they lie on the same circle with center $O$ and radius $OA$. $\blacksquare$
 
 ## Exercise 5
 
@@ -324,7 +324,7 @@ Rest the $CD$ edge of the tool on the circle so that $A$ and $B$ lie on the circ
 
 ## Exercise 6
 
-(Exercise 29.1, Problem 2) As shown in the figure, $\triangle ABC$ is an equilateral triangle with side length $2$. Construct its circumcircle and find the radius of the circumcircle.
+(Exercise 29.1, Problem 2) As shown in the figure, $\triangle{A}BC$ is an equilateral triangle with side length $2$. Construct its circumcircle and find the radius of the circumcircle.
 
 The figure shows equilateral triangle $ABC$ with side length $2$, all three vertices lying on a circle whose center $O$ is inside the triangle at the intersection of the three altitudes (the circumcircle).
 
@@ -362,11 +362,11 @@ Suppose a triangle has two right angles; then the sum of these two angles is $18
 
 ## Problem 3
 
-(Exercise 29.1, Review and Consolidation, Problem 1) Given that the points $A$, $B$ lie on $\odot O_1$ and the points $C$, $D$ lie on $\odot O_2$, determine whether the following statements are correct:
+(Exercise 29.1, Review and Consolidation, Problem 1) Given that the points $A$, $B$ lie on $\odot{O}_1$ and the points $C$, $D$ lie on $\odot{O}_2$, determine whether the following statements are correct:
 
-(1) If $AB=CD$, then $\odot O_1$ and $\odot O_2$ are equal circles;
+(1) If $AB=CD$, then $\odot{O}_1$ and $\odot{O}_2$ are equal circles;
 
-(2) If $O_1A=O_2C$, then $\odot O_1$ and $\odot O_2$ are equal circles;
+(2) If $O_1A=O_2C$, then $\odot{O}_1$ and $\odot{O}_2$ are equal circles;
 
 (3) If $AB=CD$, then $\overset{\frown}{AB}$ and $\overset{\frown}{CD}$ are equal arcs;
 
@@ -414,7 +414,7 @@ The figure is an annulus centered at $O$ with inner radius $2\,\text{cm}$ and ou
 
 By **Definition 29.1.2 (Chord, Diameter, Arc)**.
 
-Let $AB$ be a diameter, $CD$ any chord, and the center $O$. Join $OC$, $OD$; then $AB=OA+OB=OC+OD$. In $\triangle OCD$, $OC+OD\ge CD$, so $AB\ge CD$. That is, a diameter is the longest chord in a circle. $\blacksquare$
+Let $AB$ be a diameter, $CD$ any chord, and the center $O$. Join $OC$, $OD$; then $AB=OA+OB=OC+OD$. In $\triangle{O}CD$, $OC+OD\ge{C}D$, so $AB\ge{C}D$. That is, a diameter is the longest chord in a circle. $\blacksquare$
 
 ## Problem 7
 
@@ -427,14 +427,14 @@ By Position of a Point Relative to a Circle.
 The diagonals of a rectangle are equal and bisect each other, so $OA=OB=OC=OD$. Since $E$, $F$, $G$, $H$ are the respective midpoints,
 
 $$
-OE=OF=OG=OH=\frac12 OA.
+OE=OF=OG=OH=\frac12OA.
 $$
 
 The four points are equidistant from $O$, so they lie on the same circle with center $O$. $\blacksquare$
 
 ## Problem 8
 
-(Exercise 29.1, Comprehensive Application, Problem 6) A circular glass mirror is broken. To order a replacement of the same size, the radius of the original mirror must be determined. Trace the points $A$, $B$, $C$ on the edge of the remnant, giving $\triangle ABC$. Can you find the radius of this circular glass mirror? Illustrate with a construction.
+(Exercise 29.1, Comprehensive Application, Problem 6) A circular glass mirror is broken. To order a replacement of the same size, the radius of the original mirror must be determined. Trace the points $A$, $B$, $C$ on the edge of the remnant, giving $\triangle{A}BC$. Can you find the radius of this circular glass mirror? Illustrate with a construction.
 
 ### Solution to Problem 8
 
@@ -444,13 +444,13 @@ Draw the perpendicular bisectors of $AB$ and $BC$; their intersection is the cen
 
 ## Problem 9
 
-(Exercise 29.1, Comprehensive Application, Problem 7) As shown in the figure, in $\odot O$, $AB$ and $CD$ are diameters. Prove that $AD\parallel BC$.
+(Exercise 29.1, Comprehensive Application, Problem 7) As shown in the figure, in $\odot{O}$, $AB$ and $CD$ are diameters. Prove that $AD\parallel{B}C$.
 
 ### Solution to Problem 9
 
 By **Definition 29.1.1 (Circle)**.
 
-$OA=OD=OC=OB$; in the quadrilateral $ADBC$, the diagonals $AB$ and $CD$ bisect each other, so $ADBC$ is a parallelogram, and hence $AD\parallel BC$. $\blacksquare$
+$OA=OD=OC=OB$; in the quadrilateral $ADBC$, the diagonals $AB$ and $CD$ bisect each other, so $ADBC$ is a parallelogram, and hence $AD\parallel{B}C$. $\blacksquare$
 
 ## Problem 10
 
@@ -460,11 +460,11 @@ $OA=OD=OC=OB$; in the quadrilateral $ADBC$, the diagonals $AB$ and $CD$ bisect e
 
 By Proof by Contradiction.
 
-Let $a\parallel b$, and let the line $c$ intersect $a$. Suppose $c$ does not intersect $b$; then $c\parallel b$. From $a\parallel b$ and $c\parallel b$, through the intersection point on the line $a$ there are two lines $a$ and $c$, both parallel to $b$, contradicting the statement that through a point outside a line there is exactly one line parallel to the given line. Hence the assumption is false, and $c$ must intersect $b$. $\blacksquare$
+Let $a\parallel{b}$, and let the line $c$ intersect $a$. Suppose $c$ does not intersect $b$; then $c\parallel{b}$. From $a\parallel{b}$ and $c\parallel{b}$, through the intersection point on the line $a$ there are two lines $a$ and $c$, both parallel to $b$, contradicting the statement that through a point outside a line there is exactly one line parallel to the given line. Hence the assumption is false, and $c$ must intersect $b$. $\blacksquare$
 
 ## Problem 11
 
-(Exercise 29.1, Extension and Exploration, Problem 9) In $\odot O$, the points $C$, $D$ lie on the chord $AB$, and $AC=BD$.
+(Exercise 29.1, Extension and Exploration, Problem 9) In $\odot{O}$, the points $C$, $D$ lie on the chord $AB$, and $AC=BD$.
 
 (1) As in Figure (1), the chord $AB$ passes through the center $O$. Prove that $OC=OD$;
 
@@ -476,7 +476,7 @@ By Position of a Point Relative to a Circle.
 
 (1) $AB$ passes through the center, so $O$ lies on $AB$, and $OA=OB$; also $AC=BD$, so $OA-AC=OB-BD$, i.e. $OC=OD$.
 
-(2) They are still equal. Through $O$ draw $OH\perp AB$ at $H$; by the perpendicular-chord theorem, $AH=BH$. Also $AC=BD$, so $AH-AC=BH-BD$, i.e. $CH=DH$. Also $OH\perp CD$, so $OC=OD$. $\blacksquare$
+(2) They are still equal. Through $O$ draw $OH\perp{A}B$ at $H$; by the perpendicular-chord theorem, $AH=BH$. Also $AC=BD$, so $AH-AC=BH-BD$, i.e. $CH=DH$. Also $OH\perp{C}D$, so $OC=OD$. $\blacksquare$
 
 ## Inquiry and Discovery 1
 
@@ -496,29 +496,29 @@ When a circular wheel rolls, the distance from the center to the ground always e
 
 By **Theorem 29.2.1 (Perpendicular Chord Theorem)**.
 
-Through $O$ draw $OH\perp AB$ at $H$. In the large circle, $OH$ bisects $AB$, so $AH=BH$; in the small circle, $OH$ bisects $CD$, so $CH=DH$. Subtracting the two equations gives $AH-CH=BH-DH$, i.e. $AC=BD$. $\blacksquare$
+Through $O$ draw $OH\perp{A}B$ at $H$. In the large circle, $OH$ bisects $AB$, so $AH=BH$; in the small circle, $OH$ bisects $CD$, so $CH=DH$. Subtracting the two equations gives $AH-CH=BH-DH$, i.e. $AC=BD$. $\blacksquare$
 
 ## Exercise 10
 
-(Exercise 29.2, Problem 2) As shown in the figure, in $\odot O$, $AB$ and $AC$ are two chords that are perpendicular and equal to each other, with $OD\perp AB$, $OE\perp AC$, and feet $D$ and $E$ respectively. Prove that the quadrilateral $ADOE$ is a square.
+(Exercise 29.2, Problem 2) As shown in the figure, in $\odot{O}$, $AB$ and $AC$ are two chords that are perpendicular and equal to each other, with $OD\perp{A}B$, $OE\perp{A}C$, and feet $D$ and $E$ respectively. Prove that the quadrilateral $ADOE$ is a square.
 
 ### Solution to Exercise 10
 
 By **Theorem 29.2.1 (Perpendicular Chord Theorem)**.
 
-$OD\perp AB$ and $OE\perp AC$, so $\angle ADO=\angle AEO=90^\circ$; also $\angle DAE=90^\circ$, so the quadrilateral $ADOE$ is a rectangle. Since $AB=AC$, the perpendicular chord theorem gives $AD=\frac12 AB$ and $AE=\frac12 AC$, so $AD=AE$. The adjacent sides of the rectangle $ADOE$ are equal, so it is a square. $\blacksquare$
+$OD\perp{A}B$ and $OE\perp{A}C$, so $\angle{A}DO=\angle{A}EO=90^\circ$; also $\angle{D}AE=90^\circ$, so the quadrilateral $ADOE$ is a rectangle. Since $AB=AC$, the perpendicular chord theorem gives $AD=\frac12AB$ and $AE=\frac12AC$, so $AD=AE$. The adjacent sides of the rectangle $ADOE$ are equal, so it is a square. $\blacksquare$
 
 ## Exercise 11
 
-(Exercise 29.2, Problem 3) The figure shows the cross-section of a tunnel, whose shape is part of a circle centered at the point $O$. If $M$ is the midpoint of the chord $CD$ in $\odot O$, $EM$ passes through the center $O$ and meets $\odot O$ at the point $E$, and $CD=4\,\text{m}$, $EM=6\,\text{m}$, find the radius of $\odot O$.
+(Exercise 29.2, Problem 3) The figure shows the cross-section of a tunnel, whose shape is part of a circle centered at the point $O$. If $M$ is the midpoint of the chord $CD$ in $\odot{O}$, $EM$ passes through the center $O$ and meets $\odot{O}$ at the point $E$, and $CD=4\,\text{m}$, $EM=6\,\text{m}$, find the radius of $\odot{O}$.
 
-The figure shows the cross-section of a tunnel: the upper part is an arc of a circle centered at $O$, and the lower part is the horizontal chord $CD$; $M$ is the midpoint of chord $CD$, and $EM$ is a vertical segment passing through the center $O$, with its upper endpoint $E$ at the highest point of the arc and $M$ lying on $CD$, where $EM\perp CD$.
+The figure shows the cross-section of a tunnel: the upper part is an arc of a circle centered at $O$, and the lower part is the horizontal chord $CD$; $M$ is the midpoint of chord $CD$, and $EM$ is a vertical segment passing through the center $O$, with its upper endpoint $E$ at the highest point of the arc and $M$ lying on $CD$, where $EM\perp{C}D$.
 
 ### Solution to Exercise 11
 
-By **Theorem 29.2.1 (Perpendicular Chord Theorem)**, $EM\perp CD$, and $M$ is the foot.
+By **Theorem 29.2.1 (Perpendicular Chord Theorem)**, $EM\perp{C}D$, and $M$ is the foot.
 
-Let the radius be $R$; then $OC=R$, $OM=EM-R=6-R$, and $CM=\frac12 CD=2$. In $\text{Rt}\triangle OMC$,
+Let the radius be $R$; then $OC=R$, $OM=EM-R=6-R$, and $CM=\frac12CD=2$. In $\text{Rt}\triangle{O}MC$,
 
 $$
 R^2=2^2+\left(6-R\right)^2=4+36-12R+R^2.

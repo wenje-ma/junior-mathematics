@@ -2,23 +2,23 @@
 
 > **定义 28.1.1 (正弦)**
 > 
-> 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, 我们把锐角 $A$ 的对边与斜边的比叫做 $\angle A$ 的正弦 (sine), 记作 $\sin A$, 即
+> 在 $\text{Rt}\triangle{A}BC$ 中, $\angle{C}=90^{\circ}$, 我们把锐角 $A$ 的对边与斜边的比叫做 $\angle{A}$ 的正弦 (sine), 记作 $\sin{A}$, 即
 
 > **定义 28.1.2 (余弦)**
 > 
-> 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, 我们把锐角 $A$ 的邻边与斜边的比叫做 $\angle A$ 的余弦 (cosine), 记作 $\cos A$, 即
+> 在 $\text{Rt}\triangle{A}BC$ 中, $\angle{C}=90^{\circ}$, 我们把锐角 $A$ 的邻边与斜边的比叫做 $\angle{A}$ 的余弦 (cosine), 记作 $\cos{A}$, 即
 
 > **结论 28.1.2 (特殊角的三角函数值)**
 > 
-> $\sin 30^{\circ}=\frac{1}{2}$, $\cos 30^{\circ}=\frac{\sqrt{3}}{2}$, $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$; $\sin 45^{\circ}=\frac{\sqrt{2}}{2}$, $\cos 45^{\circ}=\frac{\sqrt{2}}{2}$, $\tan 45^{\circ}=1$; $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$, $\cos 60^{\circ}=\frac{1}{2}$, $\tan 60^{\circ}=\sqrt{3}$.
+> $\sin30^{\circ}=\frac{1}{2}$, $\cos30^{\circ}=\frac{\sqrt{3}}{2}$, $\tan30^{\circ}=\frac{\sqrt{3}}{3}$; $\sin45^{\circ}=\frac{\sqrt{2}}{2}$, $\cos45^{\circ}=\frac{\sqrt{2}}{2}$, $\tan45^{\circ}=1$; $\sin60^{\circ}=\frac{\sqrt{3}}{2}$, $\cos60^{\circ}=\frac{1}{2}$, $\tan60^{\circ}=\sqrt{3}$.
 
 > **定义 28.1.3 (正切)**
 > 
-> 在 $\text{Rt}\triangle ABC$ 中, $\angle C=90^{\circ}$, 我们把锐角 $A$ 的对边与邻边的比叫做 $\angle A$ 的正切 (tangent), 记作 $\tan A$, 即
+> 在 $\text{Rt}\triangle{A}BC$ 中, $\angle{C}=90^{\circ}$, 我们把锐角 $A$ 的对边与邻边的比叫做 $\angle{A}$ 的正切 (tangent), 记作 $\tan{A}$, 即
 
 > **结论 28.2.1 (直角三角形元素间的关系)**
 > 
-> $a^{2}+b^{2}=c^{2}$; $\angle A+\angle B=90^{\circ}$; $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$, $\tan A=\frac{a}{b}$.
+> $a^{2}+b^{2}=c^{2}$; $\angle{A}+\angle{B}=90^{\circ}$; $\sin{A}=\frac{a}{c}$, $\cos{A}=\frac{b}{c}$, $\tan{A}=\frac{a}{b}$.
 
 > **定义 29.1.1 (投影)**
 > 
@@ -74,21 +74,21 @@
 
 $$S_{n}=\frac{n}{2}R^{2}\sin\frac{2\pi}{n}.$$
 
-(2) 当 $n$ 增大时, $\sin\frac{\pi}{n}\approx\frac{\pi}{n}$, 故 $P_{n}\to 2\pi R$ (圆周长); $\sin\frac{2\pi}{n}\approx\frac{2\pi}{n}$, 故 $S_{n}\to\pi R^{2}$ (圆面积). 即随着边数增加, 正多边形的周长趋近于圆周长, 面积趋近于圆面积. $\blacksquare$
+(2) 当 $n$ 增大时, $\sin\frac{\pi}{n}\approx\frac{\pi}{n}$, 故 $P_{n}\to2\pi{R}$ (圆周长); $\sin\frac{2\pi}{n}\approx\frac{2\pi}{n}$, 故 $S_{n}\to\pi{R}^{2}$ (圆面积). 即随着边数增加, 正多边形的周长趋近于圆周长, 面积趋近于圆面积. $\blacksquare$
 
 ## 复习题二
 
-(复习题 拓广探索第 14 题) 如图, 在锐角 $\triangle ABC$ 中, 探究 $\frac{a}{\sin A}$, $\frac{b}{\sin B}$, $\frac{c}{\sin C}$ 之间的关系.
+(复习题 拓广探索第 14 题) 如图, 在锐角 $\triangle{A}BC$ 中, 探究 $\frac{a}{\sin{A}}$, $\frac{b}{\sin{B}}$, $\frac{c}{\sin{C}}$ 之间的关系.
 
 ### 解答 复习题二
 
-过 $A$ 作 $BC$ 边上的高 $h_{a}$. 在 $\text{Rt}\triangle ABH$ 中, $h_{a}=c\sin B$; 在 $\text{Rt}\triangle ACH$ 中, $h_{a}=b\sin C$. 故 $c\sin B=b\sin C$, 即 $\frac{b}{\sin B}=\frac{c}{\sin C}$.
+过 $A$ 作 $BC$ 边上的高 $h_{a}$. 在 $\text{Rt}\triangle{A}BH$ 中, $h_{a}=c\sin{B}$; 在 $\text{Rt}\triangle{A}CH$ 中, $h_{a}=b\sin{C}$. 故 $c\sin{B}=b\sin{C}$, 即 $\frac{b}{\sin{B}}=\frac{c}{\sin{C}}$.
 
-同理, 过 $B$ 作 $AC$ 边上的高, 可得 $c\sin A=a\sin C$, 即 $\frac{a}{\sin A}=\frac{c}{\sin C}$.
+同理, 过 $B$ 作 $AC$ 边上的高, 可得 $c\sin{A}=a\sin{C}$, 即 $\frac{a}{\sin{A}}=\frac{c}{\sin{C}}$.
 
 故
 
-$$\frac{a}{\sin A}=\frac{b}{\sin B}=\frac{c}{\sin C}.\ \blacksquare$$
+$$\frac{a}{\sin{A}}=\frac{b}{\sin{B}}=\frac{c}{\sin{C}}.\,\blacksquare$$
 
 ## 练习一
 
@@ -150,9 +150,9 @@ $$\frac{a}{\sin A}=\frac{b}{\sin B}=\frac{c}{\sin C}.\ \blacksquare$$
 
 圆锥的高 $h=\sqrt{l^{2}-r^{2}}=\sqrt{9-\frac{9}{4}}=\sqrt{\frac{27}{4}}=\frac{3\sqrt{3}}{2}$.
 
-体积 $V=\frac{1}{3}\pi r^{2}h=\frac{1}{3}\pi\times\frac{9}{4}\times\frac{3\sqrt{3}}{2}=\frac{9\sqrt{3}\pi}{8}$.
+体积 $V=\frac{1}{3}\pi{r}^{2}h=\frac{1}{3}\pi\times\frac{9}{4}\times\frac{3\sqrt{3}}{2}=\frac{9\sqrt{3}\pi}{8}$.
 
-表面积 $S=\pi r^{2}+\pi rl=\pi\times\frac{9}{4}+\pi\times\frac{3}{2}\times 3=\frac{9\pi}{4}+\frac{9\pi}{2}=\frac{27\pi}{4}$. $\blacksquare$
+表面积 $S=\pi{r}^{2}+\pi{r}l=\pi\times\frac{9}{4}+\pi\times\frac{3}{2}\times3=\frac{9\pi}{4}+\frac{9\pi}{2}=\frac{27\pi}{4}$. $\blacksquare$
 
 ## 习题五
 
@@ -240,11 +240,11 @@ $$\frac{a}{\sin A}=\frac{b}{\sin B}=\frac{c}{\sin C}.\ \blacksquare$$
 
 帐篷无底, 表面积 $=$ 圆柱侧面积 $+$ 圆锥侧面积.
 
-圆柱底面直径 $240$, 半径 $r=120$, 高 $h=200$. 圆柱侧面积 $=2\pi rh=2\pi\times 120\times 200=48000\pi$.
+圆柱底面直径 $240$, 半径 $r=120$, 高 $h=200$. 圆柱侧面积 $=2\pi{r}h=2\pi\times120\times200=48000\pi$.
 
-圆锥母线 $l=300$, 底面半径 $r=120$. 圆锥侧面积 $=\pi rl=\pi\times 120\times 300=36000\pi$.
+圆锥母线 $l=300$, 底面半径 $r=120$. 圆锥侧面积 $=\pi{r}l=\pi\times120\times300=36000\pi$.
 
-总表面积 $=48000\pi+36000\pi=84000\pi\approx 263894\ \text{cm}^{2}$. $\blacksquare$
+总表面积 $=48000\pi+36000\pi=84000\pi\approx263894\,\text{cm}^{2}$. $\blacksquare$
 
 ## 习题六
 
@@ -314,9 +314,9 @@ $$\frac{a}{\sin A}=\frac{b}{\sin B}=\frac{c}{\sin C}.\ \blacksquare$$
 
 由三视图的投影规律, 三视图如图所示:
 
-(1) 金字塔形堆叠 (底层 $4$ 个一排, 中层 $2$ 个居中, 顶层 $1$ 个): 主视图为阶梯状矩形 (底 $4$ 格, 中 $2$ 格, 顶 $1$ 格), 俯视图为 $4\times 2$ 方格阵列, 左视图为 $2$ 列阶梯.
+(1) 金字塔形堆叠 (底层 $4$ 个一排, 中层 $2$ 个居中, 顶层 $1$ 个): 主视图为阶梯状矩形 (底 $4$ 格, 中 $2$ 格, 顶 $1$ 格), 俯视图为 $4\times2$ 方格阵列, 左视图为 $2$ 列阶梯.
 
-(2) L 形立柱 (底层 $3\times 2$ 方格, 右侧竖列叠 $3$ 层): 主视图为矩形加右侧高柱, 俯视图为 $3\times 2$ 方格, 左视图为矩形加高柱. $\blacksquare$
+(2) L 形立柱 (底层 $3\times2$ 方格, 右侧竖列叠 $3$ 层): 主视图为矩形加右侧高柱, 俯视图为 $3\times2$ 方格, 左视图为矩形加高柱. $\blacksquare$
 
 ## 习题十二
 
@@ -356,7 +356,7 @@ $$\frac{a}{\sin A}=\frac{b}{\sin B}=\frac{c}{\sin C}.\ \blacksquare$$
 
 由三视图判断该几何体为圆柱, 底面直径 $d=10$, 半径 $r=5$, 高 $h=5$.
 
-表面积 $S=2\pi r^{2}+2\pi rh=2\pi\times 25+2\pi\times 5\times 5=50\pi+50\pi=100\pi\approx 314\ \text{cm}^{2}$. $\blacksquare$
+表面积 $S=2\pi{r}^{2}+2\pi{r}h=2\pi\times25+2\pi\times5\times5=50\pi+50\pi=100\pi\approx314\,\text{cm}^{2}$. $\blacksquare$
 
 ## 阅读与思考一
 
@@ -402,9 +402,9 @@ $$\frac{a}{\sin A}=\frac{b}{\sin B}=\frac{c}{\sin C}.\ \blacksquare$$
 
 (2) 正四面体的三视图如图 (1) 所示: 主视图为正三角形 (内部有一条竖直虚线表示被遮挡的棱), 俯视图为正三角形 (内部有中心点), 左视图为正三角形. 三个视图的边长相等, 体现长对正, 高平齐, 宽相等.
 
-(3) 每个等边三角形面积为 $\frac{\sqrt{3}}{4}\times 1^{2}=\frac{\sqrt{3}}{4}$. 三棱锥有四个面, 表面积
+(3) 每个等边三角形面积为 $\frac{\sqrt{3}}{4}\times1^{2}=\frac{\sqrt{3}}{4}$. 三棱锥有四个面, 表面积
 
-$$S=4\times\frac{\sqrt{3}}{4}=\sqrt{3}.\ \blacksquare$$
+$$S=4\times\frac{\sqrt{3}}{4}=\sqrt{3}.\,\blacksquare$$
 
 ## 课题四
 
@@ -428,7 +428,7 @@ $$h=\sqrt{l^{2}-r^{2}}=\sqrt{169-25}=\sqrt{144}=12.$$
 
 体积
 
-$$V=\frac{1}{3}\pi r^{2}h=\frac{1}{3}\pi\times 25\times 12=100\pi.\ \blacksquare$$
+$$V=\frac{1}{3}\pi{r}^{2}h=\frac{1}{3}\pi\times25\times12=100\pi.\,\blacksquare$$
 
 ## 活动一
 
@@ -484,7 +484,7 @@ $$V=\frac{1}{3}\pi r^{2}h=\frac{1}{3}\pi\times 25\times 12=100\pi.\ \blacksquare
 
 ## 复习题五
 
-(复习题 复习巩固第 3 题) 根据三视图, 描述这个物体的形状. 三视图由方格组成阶梯形, 俯视图为 $3\times 1$ 方格, 主视图为阶梯状 $3$ 列.
+(复习题 复习巩固第 3 题) 根据三视图, 描述这个物体的形状. 三视图由方格组成阶梯形, 俯视图为 $3\times1$ 方格, 主视图为阶梯状 $3$ 列.
 
 ### 解答 复习题五
 
@@ -518,11 +518,11 @@ $$V=\frac{1}{3}\pi r^{2}h=\frac{1}{3}\pi\times 25\times 12=100\pi.\ \blacksquare
 
 展开图由一个矩形和两个等圆组成, 该物体为圆柱. 矩形的宽即底面直径 $d=10$, 半径 $r=5$; 矩形的高即圆柱的高 $h=20$.
 
-三视图: 主视图为矩形 ($10\times 20$), 俯视图为直径 $10$ 的圆, 左视图为矩形 ($10\times 20$).
+三视图: 主视图为矩形 ($10\times20$), 俯视图为直径 $10$ 的圆, 左视图为矩形 ($10\times20$).
 
-体积 $V=\pi r^{2}h=\pi\times 25\times 20=500\pi$.
+体积 $V=\pi{r}^{2}h=\pi\times25\times20=500\pi$.
 
-表面积 $S=2\pi r^{2}+2\pi rh=2\pi\times 25+2\pi\times 5\times 20=50\pi+200\pi=250\pi$. $\blacksquare$
+表面积 $S=2\pi{r}^{2}+2\pi{r}h=2\pi\times25+2\pi\times5\times20=50\pi+200\pi=250\pi$. $\blacksquare$
 
 ## 复习题九
 
@@ -540,11 +540,11 @@ $$V=\frac{1}{3}\pi r^{2}h=\frac{1}{3}\pi\times 25\times 12=100\pi.\ \blacksquare
 
 组合体表面积 $=$ 圆柱侧面积 $+$ 圆柱底面积 $+$ 圆锥侧面积 (圆柱上底面与圆锥底面重合, 不计入):
 
-$$S=2\pi rh_{1}+\pi r^{2}+\pi rl=2\pi\times 5\times 20+\pi\times 25+\pi\times 5\times 5\sqrt{2}$$
+$$S=2\pi{r}h_{1}+\pi{r}^{2}+\pi{r}l=2\pi\times5\times20+\pi\times25+\pi\times5\times5\sqrt{2}$$
 
 $$=200\pi+25\pi+25\sqrt{2}\,\pi=25\pi\left(9+\sqrt{2}\right).$$
 
-展开图为: 一个矩形 ($2\pi r\times h_{1}=10\pi\times 20$) 作为圆柱侧面, 一个半径 $r=5$ 的圆作为底面, 一个半径 $l=5\sqrt{2}$, 弧长 $10\pi$ 的扇形作为圆锥侧面. $\blacksquare$
+展开图为: 一个矩形 ($2\pi{r}\times{h}_{1}=10\pi\times20$) 作为圆柱侧面, 一个半径 $r=5$ 的圆作为底面, 一个半径 $l=5\sqrt{2}$, 弧长 $10\pi$ 的扇形作为圆锥侧面. $\blacksquare$
 
 ## 复习题十
 
@@ -554,14 +554,14 @@ $$=200\pi+25\pi+25\sqrt{2}\,\pi=25\pi\left(9+\sqrt{2}\right).$$
 
 (1) 主视图和左视图均为大矩形 (高 $8$) 上叠小矩形 (高 $2$, 宽 $4$); 俯视图为两个同心圆, 外圆直径 $8$, 内圆直径 $4$.
 
-(2) 主视图为矩形 (宽 $4$, 高 $6$) 上加半圆 (半径 $2$); 左视图为窄矩形 (宽 $2$, 高 $6$); 俯视图为矩形 ($4\times 2$).
+(2) 主视图为矩形 (宽 $4$, 高 $6$) 上加半圆 (半径 $2$); 左视图为窄矩形 (宽 $2$, 高 $6$); 俯视图为矩形 ($4\times2$).
 
 ### 解答 复习题十
 
 (1) 由俯视图为同心圆, 主视图和左视图均为矩形叠加, 该几何体为两个同轴圆柱: 下方大圆柱直径 $8$ (半径 $4$), 高 $8$; 上方小圆柱直径 $4$ (半径 $2$), 高 $2$.
 
-$$V=\pi\times 4^{2}\times 8+\pi\times 2^{2}\times 2=128\pi+8\pi=136\pi.$$
+$$V=\pi\times4^{2}\times8+\pi\times2^{2}\times2=128\pi+8\pi=136\pi.$$
 
-(2) 由主视图, 左视图和俯视图, 该几何体下方为长方体 ($4\times 2\times 6$), 上方为半圆柱 (半径 $r=2$, 长度 $2$).
+(2) 由主视图, 左视图和俯视图, 该几何体下方为长方体 ($4\times2\times6$), 上方为半圆柱 (半径 $r=2$, 长度 $2$).
 
-$$V=4\times 2\times 6+\frac{1}{2}\pi\times 2^{2}\times 2=48+4\pi.\ \blacksquare$$
+$$V=4\times2\times6+\frac{1}{2}\pi\times2^{2}\times2=48+4\pi.\,\blacksquare$$

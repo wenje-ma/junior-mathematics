@@ -2,7 +2,7 @@
 
 > **定义 16.1.1 (同底数幂的乘法)**
 > 
-> 一般地, 对于任意底数 $a$ 与任意正整数 $m,n$, $a^m\cdot a^n=a^{m+n}$, 即同底数幂相乘, 底数不变, 指数相加. 三个或三个以上同底数幂相乘也具有这一性质.
+> 一般地, 对于任意底数 $a$ 与任意正整数 $m,n$, $a^m\cdot{a}^n=a^{m+n}$, 即同底数幂相乘, 底数不变, 指数相加. 三个或三个以上同底数幂相乘也具有这一性质.
 
 > **定义 16.1.2 (幂的乘方)**
 > 
@@ -10,11 +10,11 @@
 
 > **定义 16.1.3 (积的乘方)**
 > 
-> 一般地, 对于任意底数 $a,b$ 与任意正整数 $n$, $\left(ab\right)^n=a^n b^n$, 即积的乘方等于把积的每一个因式分别乘方, 再把所得的幂相乘. 三个或三个以上因式的积的乘方也具有这一性质.
+> 一般地, 对于任意底数 $a,b$ 与任意正整数 $n$, $\left(ab\right)^n=a^nb^n$, 即积的乘方等于把积的每一个因式分别乘方, 再把所得的幂相乘. 三个或三个以上因式的积的乘方也具有这一性质.
 
 > **定义 16.2.4 (同底数幂的除法)**
 > 
-> $a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ 都是正整数, $m> n$), 即同底数幂相除, 底数不变, 指数相减.
+> $a^m\div{a}^n=a^{m-n}$ ($a\ne0$, $m,n$ 都是正整数, $m>{}n$), 即同底数幂相除, 底数不变, 指数相减.
 
 > **定义 16.3.1 (平方差公式)**
 > 
@@ -76,9 +76,9 @@
 
 比较 $P_3$ 与 $P_1$ 的差:
 
-$$P_3-P_1=\left[\frac{\left(p+q\right)^2}{4}-pq\right]\%^2=\frac{\left(p-q\right)^2}{4}\%^2> 0.$$
+$$P_3-P_1=\left[\frac{\left(p+q\right)^2}{4}-pq\right]\%^2=\frac{\left(p-q\right)^2}{4}\%^2>0.$$
 
-因 $p\ne q$, 故 $P_3> P_1=P_2$, 方案 (3) 提价最多. $\blacksquare$
+因 $p\ne{q}$, 故 $P_3>{}P_1=P_2$, 方案 (3) 提价最多. $\blacksquare$
 
 ## 练习一
 
@@ -148,9 +148,9 @@ $$P_3-P_1=\left[\frac{\left(p+q\right)^2}{4}-pq\right]\%^2=\frac{\left(p-q\right
 
 (练习 17.1 第 1 题) 分解因式:
 
-(1) $8m^2 n+2mn$;
+(1) $8m^2n+2mn$;
 
-(2) $4a^2 b+10ab-ab^2$;
+(2) $4a^2b+10ab-ab^2$;
 
 (3) $p\left(a^2+b^2\right)-q\left(a^2+b^2\right)$;
 
@@ -160,9 +160,9 @@ $$P_3-P_1=\left[\frac{\left(p+q\right)^2}{4}-pq\right]\%^2=\frac{\left(p-q\right
 
 由**定义 17.1.3 (提公因式法)**.
 
-(1) $8m^2 n+2mn=2mn\left(4m+1\right)$.
+(1) $8m^2n+2mn=2mn\left(4m+1\right)$.
 
-(2) $4a^2 b+10ab-ab^2=ab\left(4a+10-b\right)$.
+(2) $4a^2b+10ab-ab^2=ab\left(4a+10-b\right)$.
 
 (3) $p\left(a^2+b^2\right)-q\left(a^2+b^2\right)=\left(a^2+b^2\right)\left(p-q\right)$.
 
@@ -188,7 +188,7 @@ $$4a^2\left(x+7\right)-3\left(x+7\right)=\left(x+7\right)\left(4a^2-3\right).$$
 
 (3) $x\left(x-y\right)-y\left(x-y\right)=\left(x-y\right)^2$;
 
-(4) $a^2 b-3ab^2+ab=ab\left(a-3b+1\right)$.
+(4) $a^2b-3ab^2+ab=ab\left(a-3b+1\right)$.
 
 ### 解答 习题一
 
@@ -210,7 +210,7 @@ $$4a^2\left(x+7\right)-3\left(x+7\right)=\left(x+7\right)\left(4a^2-3\right).$$
 
 (2) $-2x+3x^2$;
 
-(3) $a^2 b+5ab-b$;
+(3) $a^2b+5ab-b$;
 
 (4) $2mn-n^2+8n$.
 
@@ -222,7 +222,7 @@ $$4a^2\left(x+7\right)-3\left(x+7\right)=\left(x+7\right)\left(4a^2-3\right).$$
 
 (2) $-2x+3x^2=x\left(3x-2\right)$.
 
-(3) $a^2 b+5ab-b=b\left(a^2+5a-1\right)$.
+(3) $a^2b+5ab-b=b\left(a^2+5a-1\right)$.
 
 (4) $2mn-n^2+8n=n\left(2m-n+8\right)$. $\blacksquare$
 
@@ -246,13 +246,13 @@ $$4a^2\left(x+7\right)-3\left(x+7\right)=\left(x+7\right)\left(4a^2-3\right).$$
 
 (1) $2mn^2+mn$;
 
-(2) $6xy^2-8x^2 y^3$;
+(2) $6xy^2-8x^2y^3$;
 
-(3) $6a^2 b+9ab^2-15ab$;
+(3) $6a^2b+9ab^2-15ab$;
 
-(4) $3m^2 n-3mn+6n$;
+(4) $3m^2n-3mn+6n$;
 
-(5) $4x^2 y^3+8x^3 y^2+12x^4 y$;
+(5) $4x^2y^3+8x^3y^2+12x^4y$;
 
 (6) $2m\left(x-y\right)-3n\left(x-y\right)$;
 
@@ -266,13 +266,13 @@ $$4a^2\left(x+7\right)-3\left(x+7\right)=\left(x+7\right)\left(4a^2-3\right).$$
 
 (1) $2mn^2+mn=mn\left(2n+1\right)$.
 
-(2) $6xy^2-8x^2 y^3=2xy^2\left(3-4xy\right)$.
+(2) $6xy^2-8x^2y^3=2xy^2\left(3-4xy\right)$.
 
-(3) $6a^2 b+9ab^2-15ab=3ab\left(2a+3b-5\right)$.
+(3) $6a^2b+9ab^2-15ab=3ab\left(2a+3b-5\right)$.
 
-(4) $3m^2 n-3mn+6n=3n\left(m^2-m+2\right)$.
+(4) $3m^2n-3mn+6n=3n\left(m^2-m+2\right)$.
 
-(5) $4x^2 y^3+8x^3 y^2+12x^4 y=4x^2 y\left(y^2+2xy+3x^2\right)$.
+(5) $4x^2y^3+8x^3y^2+12x^4y=4x^2y\left(y^2+2xy+3x^2\right)$.
 
 (6) $2m\left(x-y\right)-3n\left(x-y\right)=\left(x-y\right)\left(2m-3n\right)$.
 
@@ -296,11 +296,11 @@ $$4a^2\left(x+7\right)-3\left(x+7\right)=\left(x+7\right)\left(4a^2-3\right).$$
 
 ## 习题六
 
-(习题 17.1 综合运用第 6 题) 已知 $ab=2$, $a-4b=-5$, 求 $a^2 b-4ab^2+ab$ 的值.
+(习题 17.1 综合运用第 6 题) 已知 $ab=2$, $a-4b=-5$, 求 $a^2b-4ab^2+ab$ 的值.
 
 ### 解答 习题六
 
-$$a^2 b-4ab^2+ab=ab\left(a-4b+1\right).$$
+$$a^2b-4ab^2+ab=ab\left(a-4b+1\right).$$
 
 代入 $ab=2$, $a-4b=-5$, 得 $2\left(-5+1\right)=-8$. $\blacksquare$
 
@@ -384,7 +384,7 @@ $$\left(b-c\right)\left(a-b\right)=0.$$
 
 (2) $49n^2-1=\left(7n+1\right)\left(7n-1\right)$.
 
-(3) $a^2-\frac{1}{25}b^2=\left(a+\frac15 b\right)\left(a-\frac15 b\right)$.
+(3) $a^2-\frac{1}{25}b^2=\left(a+\frac15b\right)\left(a-\frac15b\right)$.
 
 (4) $81a^2-16b^4=\left(9a+4b^2\right)\left(9a-4b^2\right)$.
 
@@ -408,7 +408,7 @@ $$\left(b-c\right)\left(a-b\right)=0.$$
 
 由**定义 17.2.2 (完全平方式)**, 完全平方式须为两平方和加或减积的 $2$ 倍.
 
-(1) 是, $a^2-2\cdot a\cdot2+2^2=\left(a-2\right)^2$.
+(1) 是, $a^2-2\cdot{a}\cdot2+2^2=\left(a-2\right)^2$.
 
 (2) 不是, 缺中间积的 $2$ 倍项.
 
@@ -452,11 +452,11 @@ $$\left(b-c\right)\left(a-b\right)=0.$$
 
 (练习 17.2 第 1 题) 分解因式:
 
-(1) $x^2 y-4y$;
+(1) $x^2y-4y$;
 
 (2) $a^3-2a^2+a$;
 
-(3) $ax^2+2a^2 x+a^3$;
+(3) $ax^2+2a^2x+a^3$;
 
 (4) $-a^4+16$;
 
@@ -468,11 +468,11 @@ $$\left(b-c\right)\left(a-b\right)=0.$$
 
 先提公因式再用公式, 分解到不能再分.
 
-(1) $x^2 y-4y=y\left(x^2-4\right)=y\left(x+2\right)\left(x-2\right)$.
+(1) $x^2y-4y=y\left(x^2-4\right)=y\left(x+2\right)\left(x-2\right)$.
 
 (2) $a^3-2a^2+a=a\left(a^2-2a+1\right)=a\left(a-1\right)^2$.
 
-(3) $ax^2+2a^2 x+a^3=a\left(x^2+2ax+a^2\right)=a\left(x+a\right)^2$.
+(3) $ax^2+2a^2x+a^3=a\left(x^2+2ax+a^2\right)=a\left(x+a\right)^2$.
 
 (4) $-a^4+16=16-a^4=\left(4+a^2\right)\left(4-a^2\right)=\left(4+a^2\right)\left(2+a\right)\left(2-a\right)$.
 
@@ -516,7 +516,7 @@ $$\left(b-c\right)\left(a-b\right)=0.$$
 
 (3) $m^2-\frac{1}{36}=\left(m+\frac16\right)\left(m-\frac16\right)$.
 
-(4) $\frac{25}{9}y^2-\frac{1}{49}z^2=\left(\frac53 y+\frac17 z\right)\left(\frac53 y-\frac17 z\right)$. $\blacksquare$
+(4) $\frac{25}{9}y^2-\frac{1}{49}z^2=\left(\frac53y+\frac17z\right)\left(\frac53y-\frac17z\right)$. $\blacksquare$
 
 ## 习题十
 
@@ -582,11 +582,11 @@ $$\left(b-c\right)\left(a-b\right)=0.$$
 
 ## 习题十三
 
-(习题 17.2 综合运用第 5 题) 已知 $xy=4$, $x+y=5$, 求 $x^3 y+2x^2 y^2+xy^3$.
+(习题 17.2 综合运用第 5 题) 已知 $xy=4$, $x+y=5$, 求 $x^3y+2x^2y^2+xy^3$.
 
 ### 解答 习题十三
 
-$$x^3 y+2x^2 y^2+xy^3=xy\left(x^2+2xy+y^2\right)=xy\left(x+y\right)^2.$$
+$$x^3y+2x^2y^2+xy^3=xy\left(x^2+2xy+y^2\right)=xy\left(x+y\right)^2.$$
 
 代入 $xy=4$, $x+y=5$, 得 $4\times25=100$. $\blacksquare$
 
@@ -594,13 +594,13 @@ $$x^3 y+2x^2 y^2+xy^3=xy\left(x^2+2xy+y^2\right)=xy\left(x+y\right)^2.$$
 
 (习题 17.2 综合运用第 6 题) 分解因式:
 
-(1) $\left(2ab+1\right)^2-a^4 b^4$;
+(1) $\left(2ab+1\right)^2-a^4b^4$;
 
 (2) $\left(p+q\right)^2-6\left(p^2-q^2\right)+9\left(p-q\right)^2$.
 
 ### 解答 习题十四
 
-(1) $\left(2ab+1\right)^2-\left(a^2 b^2\right)^2=\left[\left(2ab+1\right)+a^2 b^2\right]\left[\left(2ab+1\right)-a^2 b^2\right]=\left(ab+1\right)^2\left[-\left(ab-1\right)^2+2\right]$. 注意 $2ab+1-a^2 b^2=1+2ab-a^2 b^2$, 在实数范围保持原式即可, 结果为 $\left(2ab+1+a^2 b^2\right)\left(2ab+1-a^2 b^2\right)=\left(ab+1\right)^2\left(2ab+1-a^2 b^2\right)$.
+(1) $\left(2ab+1\right)^2-\left(a^2b^2\right)^2=\left[\left(2ab+1\right)+a^2b^2\right]\left[\left(2ab+1\right)-a^2b^2\right]=\left(ab+1\right)^2\left[-\left(ab-1\right)^2+2\right]$. 注意 $2ab+1-a^2b^2=1+2ab-a^2b^2$, 在实数范围保持原式即可, 结果为 $\left(2ab+1+a^2b^2\right)\left(2ab+1-a^2b^2\right)=\left(ab+1\right)^2\left(2ab+1-a^2b^2\right)$.
 
 (2) 注意 $p^2-q^2=\left(p+q\right)\left(p-q\right)$, 令 $A=p+q$, $B=p-q$, 原式 $=A^2-6AB+9B^2=\left(A-3B\right)^2=\left[\left(p+q\right)-3\left(p-q\right)\right]^2=\left(-2p+4q\right)^2=4\left(2q-p\right)^2$. $\blacksquare$
 

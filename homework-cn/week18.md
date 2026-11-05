@@ -10,7 +10,7 @@
 
 > **定义 7.1.3 (垂直)**
 > 
-> 当两条直线相交所成的四个角中有一个角是直角时, 就说这两条直线互相垂直, 记作 $a\perp b$. 其中一条直线叫作另一条直线的垂线, 交点叫作垂足.
+> 当两条直线相交所成的四个角中有一个角是直角时, 就说这两条直线互相垂直, 记作 $a\perp{b}$. 其中一条直线叫作另一条直线的垂线, 交点叫作垂足.
 
 > **基本事实 7.2.1 (平行公理)**
 > 
@@ -18,7 +18,7 @@
 
 > **定理 7.2.1 (平行的传递性)**
 > 
-> 如果两条直线都与第三条直线平行, 那么这两条直线也互相平行. 即若 $b\parallel a$, $c\parallel a$, 则 $b\parallel c$.
+> 如果两条直线都与第三条直线平行, 那么这两条直线也互相平行. 即若 $b\parallel{a}$, $c\parallel{a}$, 则 $b\parallel{c}$.
 
 > **性质 7.2.1 (性质 1)**
 > 
@@ -58,7 +58,7 @@
 
 > **定义 8.1.2 (算术平方根)**
 > 
-> 正数 $a$ 的正的平方根 $\sqrt a$ 叫作 $a$ 的算术平方根, $a$ 叫作被开方数. 规定 $0$ 的算术平方根是 $0$, 即 $\sqrt 0=0$. 正数 $a$ 的平方根记作 $\pm\sqrt a$.
+> 正数 $a$ 的正的平方根 $\sqrt{a}$ 叫作 $a$ 的算术平方根, $a$ 叫作被开方数. 规定 $0$ 的算术平方根是 $0$, 即 $\sqrt0=0$. 正数 $a$ 的平方根记作 $\pm\sqrt{a}$.
 
 > **性质 8.1.2 (算术平方根的大小)**
 > 
@@ -66,53 +66,53 @@
 
 > **性质 8.1.3 (平方与开方的关系)**
 > 
-> 对任意非负数 $a$, $\left(\sqrt a\right)^2=a$; 对任意数 $a$, $\sqrt{a^2}=\left|a\right|$.
+> 对任意非负数 $a$, $\left(\sqrt{a}\right)^2=a$; 对任意数 $a$, $\sqrt{a^2}=\left|a\right|$.
 
 ## 复习题一
 
-(复习题 复习巩固第 2 题) 如图是一根弯形管道的平面示意图, 其中的拐角 $\angle ABC=120^\circ$, $\angle BCD=60^\circ$, 这时说管道 $AB$ 与 $DC$ 平行对吗? 为什么?
+(复习题 复习巩固第 2 题) 如图是一根弯形管道的平面示意图, 其中的拐角 $\angle{A}BC=120^\circ$, $\angle{B}CD=60^\circ$, 这时说管道 $AB$ 与 $DC$ 平行对吗? 为什么?
 
 ### 解答 复习题一
 
-这种说法是对的, $AB\parallel DC$.
+这种说法是对的, $AB\parallel{D}C$.
 
-$\angle ABC$ 与 $\angle BCD$ 是直线 $AB$, $DC$ 被直线 $BC$ 所截得的同旁内角, 其和为
+$\angle{A}BC$ 与 $\angle{B}CD$ 是直线 $AB$, $DC$ 被直线 $BC$ 所截得的同旁内角, 其和为
 
 $$
-\angle ABC+\angle BCD=120^\circ+60^\circ=180^\circ.
+\angle{A}BC+\angle{B}CD=120^\circ+60^\circ=180^\circ.
 $$
 
-由**定理 7.2.3 (判定方法 3)**, 同旁内角互补, 两直线平行, 故 $AB\parallel DC$. $\blacksquare$
+由**定理 7.2.3 (判定方法 3)**, 同旁内角互补, 两直线平行, 故 $AB\parallel{D}C$. $\blacksquare$
 
 ## 复习题二
 
 (复习题 复习巩固第 3 题) 判断题.
 
-(1) $a$, $b$, $c$ 是直线, 若 $a\parallel b$, $b\parallel c$, 则 $a\parallel c$;
+(1) $a$, $b$, $c$ 是直线, 若 $a\parallel{b}$, $b\parallel{c}$, 则 $a\parallel{c}$;
 
-(2) $a$, $b$, $c$ 是直线, 若 $a\perp b$, $b\perp c$, 则 $a\perp c$.
+(2) $a$, $b$, $c$ 是直线, 若 $a\perp{b}$, $b\perp{c}$, 则 $a\perp{c}$.
 
 ### 解答 复习题二
 
-(1) 正确. 由**定理 7.2.1 (平行的传递性)**, 两条直线都与第三条直线平行, 那么这两条直线也互相平行, 故 $a\parallel c$.
+(1) 正确. 由**定理 7.2.1 (平行的传递性)**, 两条直线都与第三条直线平行, 那么这两条直线也互相平行, 故 $a\parallel{c}$.
 
-(2) 错误. 在同一平面内, $a\perp b$ 且 $b\perp c$, 则 $a$, $c$ 与 $b$ 所成的同位角都为 $90^\circ$, 由判定方法 1, 同位角相等, 两直线平行, 应为 $a\parallel c$, 而非 $a\perp c$. 故判断为错. $\blacksquare$
+(2) 错误. 在同一平面内, $a\perp{b}$ 且 $b\perp{c}$, 则 $a$, $c$ 与 $b$ 所成的同位角都为 $90^\circ$, 由判定方法 1, 同位角相等, 两直线平行, 应为 $a\parallel{c}$, 而非 $a\perp{c}$. 故判断为错. $\blacksquare$
 
 ## 复习题三
 
 (复习题 复习巩固第 4 题) 根据下列语句画出图形:
 
-(1) 过线段 $AB$ 的中点 $C$, 画 $CD\perp AB$;
+(1) 过线段 $AB$ 的中点 $C$, 画 $CD\perp{A}B$;
 
 (2) 点 $P$ 到直线 $AB$ 的距离是 $3\,\text{cm}$, 过点 $P$ 画直线 $AB$ 的垂线;
 
 (3) 过三角形 $ABC$ 内的一点 $P$, 分别画 $AB$, $BC$, $AC$ 的平行线.
 
-图中包含三幅小图:(1) 线段 $AB$ 及其中点 $C$, 过 $C$ 作 $CD\perp AB$;(2) 直线 $AB$ 外一点 $P$, $P$ 到 $AB$ 的距离为 $3\,\text{cm}$, 过 $P$ 作 $AB$ 的垂线;(3) 三角形 $ABC$ 内一点 $P$, 过 $P$ 分别作 $AB$, $BC$, $AC$ 的平行线.
+图中包含三幅小图:(1) 线段 $AB$ 及其中点 $C$, 过 $C$ 作 $CD\perp{A}B$;(2) 直线 $AB$ 外一点 $P$, $P$ 到 $AB$ 的距离为 $3\,\text{cm}$, 过 $P$ 作 $AB$ 的垂线;(3) 三角形 $ABC$ 内一点 $P$, 过 $P$ 分别作 $AB$, $BC$, $AC$ 的平行线.
 
 ### 解答 复习题三
 
-按语句逐步作图: 先取线段 $AB$ 中点 $C$, 用三角尺过 $C$ 作 $CD\perp AB$; 再量出点 $P$ 到直线 $AB$ 距离为 $3\,\text{cm}$, 过 $P$ 作 $AB$ 的垂线; 最后由平行公理, 过点 $P$ 分别作 $AB$, $BC$, $AC$ 的平行线. 即得符合语句的图形. $\blacksquare$
+按语句逐步作图: 先取线段 $AB$ 中点 $C$, 用三角尺过 $C$ 作 $CD\perp{A}B$; 再量出点 $P$ 到直线 $AB$ 距离为 $3\,\text{cm}$, 过 $P$ 作 $AB$ 的垂线; 最后由平行公理, 过点 $P$ 分别作 $AB$, $BC$, $AC$ 的平行线. 即得符合语句的图形. $\blacksquare$
 
 ## 复习题四
 
@@ -126,60 +126,60 @@ $$
 
 ## 复习题五
 
-(复习题 复习巩固第 6 题) 如图, $\angle 1=30^\circ$, $\angle B=60^\circ$, $AB\perp AC$, 垂足为 $A$.
+(复习题 复习巩固第 6 题) 如图, $\angle1=30^\circ$, $\angle{B}=60^\circ$, $AB\perp{A}C$, 垂足为 $A$.
 
-(1) $\angle DAB+\angle B$ 等于多少度?
+(1) $\angle{D}AB+\angle{B}$ 等于多少度?
 
 (2) $AD$ 与 $BC$ 平行吗? $AB$ 与 $DC$ 平行吗?
 
 ### 解答 复习题五
 
-由**定义 7.1.3 (垂直)**, $AB\perp AC$, 故 $\angle BAC=90^\circ$.
+由**定义 7.1.3 (垂直)**, $AB\perp{A}C$, 故 $\angle{B}AC=90^\circ$.
 
-(1) $\angle DAB=\angle 1+\angle BAC=30^\circ+90^\circ=120^\circ$, 故
+(1) $\angle{D}AB=\angle1+\angle{B}AC=30^\circ+90^\circ=120^\circ$, 故
 
 $$
-\angle DAB+\angle B=120^\circ+60^\circ=180^\circ.
+\angle{D}AB+\angle{B}=120^\circ+60^\circ=180^\circ.
 $$
 
-(2) $\angle DAB$ 与 $\angle B$ 是直线 $AD$, $BC$ 被直线 $AB$ 所截得的同旁内角, 已求得 $\angle DAB+\angle B=180^\circ$, 由**定理 7.2.3 (判定方法 3)**, 同旁内角互补, 两直线平行, 故 $AD\parallel BC$.
+(2) $\angle{D}AB$ 与 $\angle{B}$ 是直线 $AD$, $BC$ 被直线 $AB$ 所截得的同旁内角, 已求得 $\angle{D}AB+\angle{B}=180^\circ$, 由**定理 7.2.3 (判定方法 3)**, 同旁内角互补, 两直线平行, 故 $AD\parallel{B}C$.
 
-题中没有给出 $AB$ 与 $DC$ 之间角的互补或相等关系, 无法推出 $AB\parallel DC$, 故不能判定 $AB$ 与 $DC$ 平行. $\blacksquare$
+题中没有给出 $AB$ 与 $DC$ 之间角的互补或相等关系, 无法推出 $AB\parallel{D}C$, 故不能判定 $AB$ 与 $DC$ 平行. $\blacksquare$
 
 ## 复习题六
 
-(复习题 复习巩固第 7 题) 如图, 平行线 $a$, $b$ 被直线 $c$ 所截, 若知道 $\angle 1\sim\angle 8$ 中一个角的度数, 能否求出其他角的度数? 如果能, 用其中一个角表示出其他各角.
+(复习题 复习巩固第 7 题) 如图, 平行线 $a$, $b$ 被直线 $c$ 所截, 若知道 $\angle1\sim\angle8$ 中一个角的度数, 能否求出其他角的度数? 如果能, 用其中一个角表示出其他各角.
 
-图中为两条平行直线 $a$, $b$ 被一条截线 $c$ 所截, 在两个交点处共标出八个角 $\angle 1$ 至 $\angle 8$.
+图中为两条平行直线 $a$, $b$ 被一条截线 $c$ 所截, 在两个交点处共标出八个角 $\angle1$ 至 $\angle8$.
 
 ### 解答 复习题六
 
 能. 设已知其中一个角为 $\alpha$. 由**性质 7.2.1 (性质 1)** 至**性质 7.2.3 (性质 3)** 及对顶角, 邻补角关系, 八个角中只有两种不同的度数.
 
-设已知角为 $\angle 1=\alpha$. 由对顶角相等, $\angle 3=\alpha$, $\angle 5=\alpha$, $\angle 7=\alpha$. 其余各角与 $\angle 1$ 互补, 即 $\angle 2=\angle 4=\angle 6=\angle 8=180^\circ-\alpha$.
+设已知角为 $\angle1=\alpha$. 由对顶角相等, $\angle3=\alpha$, $\angle5=\alpha$, $\angle7=\alpha$. 其余各角与 $\angle1$ 互补, 即 $\angle2=\angle4=\angle6=\angle8=180^\circ-\alpha$.
 
-故只要知道 $\angle 1\sim\angle 8$ 中任一角, 就能求出其余各角: 与它相等的角等于 $\alpha$, 与它互补的角等于 $180^\circ-\alpha$. $\blacksquare$
+故只要知道 $\angle1\sim\angle8$ 中任一角, 就能求出其余各角: 与它相等的角等于 $\alpha$, 与它互补的角等于 $180^\circ-\alpha$. $\blacksquare$
 
 ## 复习题七
 
 (复习题 综合运用第 8 题) 选择题.
 
-(1) 如图 (1), 点 $E$ 在 $AC$ 的延长线上, 下列条件中能判断 $AB\parallel CD$ 的是 (　　).
+(1) 如图 (1), 点 $E$ 在 $AC$ 的延长线上, 下列条件中能判断 $AB\parallel{C}D$ 的是 (　　).
 
-(A) $\angle 3=\angle 4$　(B) $\angle 1=\angle 2$　(C) $\angle D=\angle DCE$　(D) $\angle D+\angle ACD=180^\circ$
+(A) $\angle3=\angle4$　(B) $\angle1=\angle2$　(C) $\angle{D}=\angle{D}CE$　(D) $\angle{D}+\angle{A}CD=180^\circ$
 
-(2) 如图 (2), $\angle 1+\angle 2=180^\circ$, $\angle 3=108^\circ$, 则 $\angle 4=$ (　　).
+(2) 如图 (2), $\angle1+\angle2=180^\circ$, $\angle3=108^\circ$, 则 $\angle4=$ (　　).
 
 (A) $72^\circ$　(B) $80^\circ$　(C) $82^\circ$　(D) $108^\circ$
 
 ### 解答 复习题七
 
-(1) 由**定理 7.2.2 (判定方法 2)**, 内错角相等, 两直线平行. $\angle 1$ 与 $\angle 2$ 是直线 $AB$, $CD$ 被直线 $BC$ 所截得的内错角, 故 $\angle 1=\angle 2$ 可判定 $AB\parallel CD$. 选 (B).
+(1) 由**定理 7.2.2 (判定方法 2)**, 内错角相等, 两直线平行. $\angle1$ 与 $\angle2$ 是直线 $AB$, $CD$ 被直线 $BC$ 所截得的内错角, 故 $\angle1=\angle2$ 可判定 $AB\parallel{C}D$. 选 (B).
 
-(2) $\angle 1+\angle 2=180^\circ$ 推出相应两直线平行, 再由平行线的性质, $\angle 3$ 与 $\angle 4$ 互补. 故
+(2) $\angle1+\angle2=180^\circ$ 推出相应两直线平行, 再由平行线的性质, $\angle3$ 与 $\angle4$ 互补. 故
 
 $$
-\angle 4=180^\circ-\angle 3=180^\circ-108^\circ=72^\circ.
+\angle4=180^\circ-\angle3=180^\circ-108^\circ=72^\circ.
 $$
 
 选 (A). $\blacksquare$
@@ -194,9 +194,9 @@ $$
 
 ## 复习题九
 
-(复习题 综合运用第 10 题) 如图, $\angle AOB$ 内有一点 $P$.
+(复习题 综合运用第 10 题) 如图, $\angle{A}OB$ 内有一点 $P$.
 
-(1) 过点 $P$ 画 $PC\parallel OB$, 交 $OA$ 于点 $C$, 画 $PD\parallel OA$, 交 $OB$ 于点 $D$;
+(1) 过点 $P$ 画 $PC\parallel{O}B$, 交 $OA$ 于点 $C$, 画 $PD\parallel{O}A$, 交 $OB$ 于点 $D$;
 
 (2) 写出图中相等的角;
 
@@ -204,45 +204,45 @@ $$
 
 ### 解答 复习题九
 
-(1) 由平行公理, 过点 $P$ 分别作 $PC\parallel OB$ 交 $OA$ 于 $C$, $PD\parallel OA$ 交 $OB$ 于 $D$.
+(1) 由平行公理, 过点 $P$ 分别作 $PC\parallel{O}B$ 交 $OA$ 于 $C$, $PD\parallel{O}A$ 交 $OB$ 于 $D$.
 
-(2) 由**性质 7.2.1 (性质 1)**,**性质 7.2.2 (性质 2)**, $PC\parallel OB$ 且 $PD\parallel OA$, 可得相应同位角, 内错角相等. 图中相等的角为: $\angle AOB=\angle PCD=\angle PDB$, 以及 $\angle OCP=\angle ODP$ 等由平行推得的对应角.
+(2) 由**性质 7.2.1 (性质 1)**,**性质 7.2.2 (性质 2)**, $PC\parallel{O}B$ 且 $PD\parallel{O}A$, 可得相应同位角, 内错角相等. 图中相等的角为: $\angle{A}OB=\angle{P}CD=\angle{P}DB$, 以及 $\angle{O}CP=\angle{O}DP$ 等由平行推得的对应角.
 
-(3) 由**性质 7.2.3 (性质 3)**, 两直线平行, 同旁内角互补. 图中互补的角为: $\angle OCP$ 与 $\angle CPD$ 的相应同旁内角组合, 即 $\angle OCP+\angle ODP$ 的邻角等; 具体为 $PC\parallel OB$ 所成的同旁内角与 $PD\parallel OA$ 所成的同旁内角, 它们的和为 $180^\circ$. $\blacksquare$
+(3) 由**性质 7.2.3 (性质 3)**, 两直线平行, 同旁内角互补. 图中互补的角为: $\angle{O}CP$ 与 $\angle{C}PD$ 的相应同旁内角组合, 即 $\angle{O}CP+\angle{O}DP$ 的邻角等; 具体为 $PC\parallel{O}B$ 所成的同旁内角与 $PD\parallel{O}A$ 所成的同旁内角, 它们的和为 $180^\circ$. $\blacksquare$
 
 ## 复习题十
 
-(复习题 综合运用第 11 题) 如图, 直线 $l_1\parallel l_2$, $AB\perp l_2$, $CD\perp l_1$, $AB$ 和 $CD$ 平行吗? 为什么?
+(复习题 综合运用第 11 题) 如图, 直线 $l_1\parallel{l}_2$, $AB\perp{l}_2$, $CD\perp{l}_1$, $AB$ 和 $CD$ 平行吗? 为什么?
 
 ### 解答 复习题十
 
-$AB\parallel CD$.
+$AB\parallel{C}D$.
 
-$\because l_1\parallel l_2$, $AB\perp l_2$, $\therefore AB\perp l_1$ (一条直线垂直于两条平行线中的一条, 必垂直于另一条).
+$\because{l}_1\parallel{l}_2$, $AB\perp{l}_2$, $\therefore{A}B\perp{l}_1$ (一条直线垂直于两条平行线中的一条, 必垂直于另一条).
 
-又 $CD\perp l_1$, 故 $AB$ 与 $CD$ 都垂直于 $l_1$, 它们与 $l_1$ 所成的同位角都等于 $90^\circ$. 由判定方法 1, 同位角相等, 两直线平行, 故 $AB\parallel CD$. $\blacksquare$
+又 $CD\perp{l}_1$, 故 $AB$ 与 $CD$ 都垂直于 $l_1$, 它们与 $l_1$ 所成的同位角都等于 $90^\circ$. 由判定方法 1, 同位角相等, 两直线平行, 故 $AB\parallel{C}D$. $\blacksquare$
 
 ## 复习题十一
 
 (复习题 综合运用第 12 题) 完成下面的证明.
 
-(1) 如图 (1), 点 $D$, $E$, $F$ 分别是三角形 $ABC$ 的边 $BC$, $CA$, $AB$ 上的点, $DE\parallel BA$, $DF\parallel CA$. 求证 $\angle FDE=\angle A$.
+(1) 如图 (1), 点 $D$, $E$, $F$ 分别是三角形 $ABC$ 的边 $BC$, $CA$, $AB$ 上的点, $DE\parallel{B}A$, $DF\parallel{C}A$. 求证 $\angle{F}DE=\angle{A}$.
 
-(2) 如图 (2), $AB$ 和 $CD$ 相交于点 $O$, $\angle C=\angle COA$, $\angle D=\angle BOD$. 求证 $AC\parallel DB$.
+(2) 如图 (2), $AB$ 和 $CD$ 相交于点 $O$, $\angle{C}=\angle{C}OA$, $\angle{D}=\angle{B}OD$. 求证 $AC\parallel{D}B$.
 
 ### 解答 复习题十一
 
-(1) 证明: $\because DE\parallel BA$, $\therefore\angle FDE=\angle BFD$ (两直线平行, 内错角相等).
+(1) 证明: $\because{D}E\parallel{B}A$, $\therefore\angle{F}DE=\angle{B}FD$ (两直线平行, 内错角相等).
 
-$\because DF\parallel CA$, $\therefore\angle BFD=\angle A$ (两直线平行, 同位角相等).
+$\because{D}F\parallel{C}A$, $\therefore\angle{B}FD=\angle{A}$ (两直线平行, 同位角相等).
 
-$\therefore\angle FDE=\angle A$. $\blacksquare$
+$\therefore\angle{F}DE=\angle{A}$. $\blacksquare$
 
-(2) 证明: $\because\angle C=\angle COA$, $\angle D=\angle BOD$, 且 $\angle COA=\angle BOD$ (对顶角相等),
+(2) 证明: $\because\angle{C}=\angle{C}OA$, $\angle{D}=\angle{B}OD$, 且 $\angle{C}OA=\angle{B}OD$ (对顶角相等),
 
-$\therefore\angle C=\angle D$.
+$\therefore\angle{C}=\angle{D}$.
 
-$\angle C$ 与 $\angle D$ 是直线 $AC$, $DB$ 被直线 $CD$ 所截得的内错角, 由**定理 7.2.2 (判定方法 2)**, 内错角相等, 两直线平行, 故 $AC\parallel DB$. $\blacksquare$
+$\angle{C}$ 与 $\angle{D}$ 是直线 $AC$, $DB$ 被直线 $CD$ 所截得的内错角, 由**定理 7.2.2 (判定方法 2)**, 内错角相等, 两直线平行, 故 $AC\parallel{D}B$. $\blacksquare$
 
 ## 复习题十二
 
@@ -258,7 +258,7 @@ $\angle C$ 与 $\angle D$ 是直线 $AC$, $DB$ 被直线 $CD$ 所截得的内错
 
 (1) 题设: 两个角的和等于平角; 结论: 这两个角互为补角. 由补角的定义, 和为 $180^\circ$ 的两个角互补, 平角为 $180^\circ$, 故命题正确.
 
-(2) 题设: 同旁内角相等; 结论: 两直线平行. 由**定理 7.2.3 (判定方法 3)**, 同旁内角互补 (和为 $180^\circ$) 才能判定平行, 而非相等. 反例: 取同旁内角都等于 $60^\circ$ (相等但和为 $120^\circ\neq 180^\circ$), 两直线并不平行. 故命题错误.
+(2) 题设: 同旁内角相等; 结论: 两直线平行. 由**定理 7.2.3 (判定方法 3)**, 同旁内角互补 (和为 $180^\circ$) 才能判定平行, 而非相等. 反例: 取同旁内角都等于 $60^\circ$ (相等但和为 $120^\circ\neq180^\circ$), 两直线并不平行. 故命题错误.
 
 (3) 题设: 两条平行直线被第三条直线所截; 结论: 内错角相等. 由**性质 7.2.2 (性质 2)**, 两直线平行, 内错角相等, 故命题正确. $\blacksquare$
 
@@ -280,25 +280,25 @@ $\angle C$ 与 $\angle D$ 是直线 $AC$, $DB$ 被直线 $CD$ 所截得的内错
 
 ## 复习题十五
 
-(复习题 拓广探索第 16 题) 一张台球桌的桌面如图所示, 一个球从桌面上的点 $A$ 滚向桌边 $PQ$, 碰着 $PQ$ 上的点 $B$ 后便反弹而滚向桌边 $RS$, 碰着 $RS$ 上的点 $C$ 便反弹而滚向点 $D$. 已知 $PQ\parallel SR$, $AB$, $BC$, $CD$ 都是直线, 且 $\angle ABC$ 的平分线 $BN$ 垂直于 $PQ$, $\angle BCD$ 的平分线 $CM$ 垂直于 $SR$, 那么, 球经过两次反弹后所滚的路径 $CD$ 是否平行于原来的路径 $AB$?
+(复习题 拓广探索第 16 题) 一张台球桌的桌面如图所示, 一个球从桌面上的点 $A$ 滚向桌边 $PQ$, 碰着 $PQ$ 上的点 $B$ 后便反弹而滚向桌边 $RS$, 碰着 $RS$ 上的点 $C$ 便反弹而滚向点 $D$. 已知 $PQ\parallel{S}R$, $AB$, $BC$, $CD$ 都是直线, 且 $\angle{A}BC$ 的平分线 $BN$ 垂直于 $PQ$, $\angle{B}CD$ 的平分线 $CM$ 垂直于 $SR$, 那么, 球经过两次反弹后所滚的路径 $CD$ 是否平行于原来的路径 $AB$?
 
-图中为台球桌桌面示意图, 长边 $PQ\parallel SR$; 球从点 $A$ 滚到 $PQ$ 上的点 $B$, 反弹后滚到 $RS$ 上的点 $C$, 再反弹后滚向点 $D$; $BN$ 平分 $\angle ABC$ 且垂直于 $PQ$, $CM$ 平分 $\angle BCD$ 且垂直于 $SR$.
+图中为台球桌桌面示意图, 长边 $PQ\parallel{S}R$; 球从点 $A$ 滚到 $PQ$ 上的点 $B$, 反弹后滚到 $RS$ 上的点 $C$, 再反弹后滚向点 $D$; $BN$ 平分 $\angle{A}BC$ 且垂直于 $PQ$, $CM$ 平分 $\angle{B}CD$ 且垂直于 $SR$.
 
 ### 解答 复习题十五
 
-$CD\parallel AB$.
+$CD\parallel{A}B$.
 
-$\because BN$ 平分 $\angle ABC$ 且 $BN\perp PQ$, 又 $PQ\parallel SR$,
+$\because{B}N$ 平分 $\angle{A}BC$ 且 $BN\perp{P}Q$, 又 $PQ\parallel{S}R$,
 
-由 $PQ\parallel SR$ 及 $CM\perp SR$, 得 $CM\perp PQ$.
+由 $PQ\parallel{S}R$ 及 $CM\perp{S}R$, 得 $CM\perp{P}Q$.
 
-$BN$ 与 $CM$ 都垂直于 $PQ$ (及 $SR$), 故 $BN\parallel CM$.
+$BN$ 与 $CM$ 都垂直于 $PQ$ (及 $SR$), 故 $BN\parallel{C}M$.
 
-$BN\parallel CM$, 直线 $BC$ 为截线, 由**性质 7.2.2 (性质 2)**, 内错角相等, 得 $\angle NBC=\angle MCB$.
+$BN\parallel{C}M$, 直线 $BC$ 为截线, 由**性质 7.2.2 (性质 2)**, 内错角相等, 得 $\angle{N}BC=\angle{M}CB$.
 
-又 $BN$ 平分 $\angle ABC$, 故 $\angle ABC=2\angle NBC$; $CM$ 平分 $\angle BCD$, 故 $\angle BCD=2\angle MCB$. 于是 $\angle ABC=\angle BCD$.
+又 $BN$ 平分 $\angle{A}BC$, 故 $\angle{A}BC=2\angle{N}BC$; $CM$ 平分 $\angle{B}CD$, 故 $\angle{B}CD=2\angle{M}CB$. 于是 $\angle{A}BC=\angle{B}CD$.
 
-$\angle ABC$ 与 $\angle BCD$ 是直线 $AB$, $CD$ 被直线 $BC$ 所截得的内错角, 由**定理 7.2.2 (判定方法 2)**, 内错角相等, 两直线平行, 故 $CD\parallel AB$. $\blacksquare$
+$\angle{A}BC$ 与 $\angle{B}CD$ 是直线 $AB$, $CD$ 被直线 $BC$ 所截得的内错角, 由**定理 7.2.2 (判定方法 2)**, 内错角相等, 两直线平行, 故 $CD\parallel{A}B$. $\blacksquare$
 
 ## 练习一
 
@@ -316,11 +316,11 @@ $\angle ABC$ 与 $\angle BCD$ 是直线 $AB$, $CD$ 被直线 $BC$ 所截得的�
 
 由**性质 8.1.1 (平方根的性质)**, 正数有两个互为相反数的平方根, $0$ 的平方根是 $0$, 负数没有平方根.
 
-(1) $1$ 的平方根是 $\pm 1$, 而不只是 $1$, 故错误.
+(1) $1$ 的平方根是 $\pm1$, 而不只是 $1$, 故错误.
 
 (2) $-1$ 是负数, 负数没有平方根, 故错误.
 
-(3) $\because 0.5^2=0.25$, $\therefore 0.5$ 是 $0.25$ 的一个平方根 ($0.25$ 的平方根为 $\pm 0.5$), 故正确.
+(3) $\because0.5^2=0.25$, $\therefore0.5$ 是 $0.25$ 的一个平方根 ($0.25$ 的平方根为 $\pm0.5$), 故正确.
 
 (4) 由**性质 8.1.1 (平方根的性质)**, $0$ 的平方根是 $0$, 故正确. $\blacksquare$
 
@@ -336,9 +336,9 @@ $\angle ABC$ 与 $\angle BCD$ 是直线 $AB$, $CD$ 被直线 $BC$ 所截得的�
 
 (1) $\because\left(\pm\frac{8}{9}\right)^2=\frac{64}{81}$, $\therefore\frac{64}{81}$ 的平方根是 $\pm\frac{8}{9}$.
 
-(2) $6^2=36$, $\because\left(\pm 6\right)^2=36$, $\therefore 6^2$ 的平方根是 $\pm 6$.
+(2) $6^2=36$, $\because\left(\pm6\right)^2=36$, $\therefore6^2$ 的平方根是 $\pm6$.
 
-(3) $\because\left(\pm 0.7\right)^2=0.49$, $\therefore 0.49$ 的平方根是 $\pm 0.7$. $\blacksquare$
+(3) $\because\left(\pm0.7\right)^2=0.49$, $\therefore0.49$ 的平方根是 $\pm0.7$. $\blacksquare$
 
 ## 练习三
 
@@ -348,13 +348,13 @@ $\angle ABC$ 与 $\angle BCD$ 是直线 $AB$, $CD$ 被直线 $BC$ 所截得的�
 
 ### 解答 练习三
 
-由**定义 8.1.1 (平方根)**, $x^2=a$ 时 $x=\pm\sqrt a$.
+由**定义 8.1.1 (平方根)**, $x^2=a$ 时 $x=\pm\sqrt{a}$.
 
-(1) $x^2=25$, 故 $x=\pm\sqrt{25}=\pm 5$.
+(1) $x^2=25$, 故 $x=\pm\sqrt{25}=\pm5$.
 
 (2) $9x^2=4$, 即 $x^2=\frac{4}{9}$, 故 $x=\pm\sqrt{\frac{4}{9}}=\pm\frac{2}{3}$.
 
-(3) $\left(x-1\right)^2=1$, 故 $x-1=\pm\sqrt 1=\pm 1$. 当 $x-1=1$ 时 $x=2$; 当 $x-1=-1$ 时 $x=0$. 故 $x=2$ 或 $x=0$. $\blacksquare$
+(3) $\left(x-1\right)^2=1$, 故 $x-1=\pm\sqrt1=\pm1$. 当 $x-1=1$ 时 $x=2$; 当 $x-1=-1$ 时 $x=0$. 故 $x=2$ 或 $x=0$. $\blacksquare$
 
 ## 练习四
 
@@ -366,11 +366,11 @@ $\angle ABC$ 与 $\angle BCD$ 是直线 $AB$, $CD$ 被直线 $BC$ 所截得的�
 
 由**定义 8.1.2 (算术平方根)**, 算术平方根是正的那个平方根.
 
-(1) $\because 0.3^2=0.09$, $\therefore\sqrt{0.09}=0.3$.
+(1) $\because0.3^2=0.09$, $\therefore\sqrt{0.09}=0.3$.
 
 (2) $\because\left(\frac{9}{7}\right)^2=\frac{81}{49}$, $\therefore\sqrt{\frac{81}{49}}=\frac{9}{7}$.
 
-(3) $5^2=25$, $\because 5^2=25$, $\therefore\sqrt{5^2}=5$. $\blacksquare$
+(3) $5^2=25$, $\because5^2=25$, $\therefore\sqrt{5^2}=5$. $\blacksquare$
 
 ## 练习五
 
@@ -380,13 +380,13 @@ $\angle ABC$ 与 $\angle BCD$ 是直线 $AB$, $CD$ 被直线 $BC$ 所截得的�
 
 ### 解答 练习五
 
-由**定义 8.1.2 (算术平方根)**, $\sqrt a$ 表示算术平方根, $\pm\sqrt a$ 表示两个平方根.
+由**定义 8.1.2 (算术平方根)**, $\sqrt{a}$ 表示算术平方根, $\pm\sqrt{a}$ 表示两个平方根.
 
-(1) $\because 6^2=36$, $\therefore\sqrt{36}=6$.
+(1) $\because6^2=36$, $\therefore\sqrt{36}=6$.
 
-(2) $\because 0.8^2=0.64$, $\therefore\sqrt{0.64}=0.8$, 故 $-\sqrt{0.64}=-0.8$.
+(2) $\because0.8^2=0.64$, $\therefore\sqrt{0.64}=0.8$, 故 $-\sqrt{0.64}=-0.8$.
 
-(3) $\because 13^2=169$, $\therefore\pm\sqrt{169}=\pm 13$. $\blacksquare$
+(3) $\because13^2=169$, $\therefore\pm\sqrt{169}=\pm13$. $\blacksquare$
 
 ## 练习六
 
@@ -397,7 +397,7 @@ $\angle ABC$ 与 $\angle BCD$ 是直线 $AB$, $CD$ 被直线 $BC$ 所截得的�
 设宽为 $x\,\text{m}$, 则长为 $2x\,\text{m}$. 由长方形面积公式,
 
 $$
-x\cdot 2x=162,\quad 2x^2=162,\quad x^2=81.
+x\cdot2x=162,\quad2x^2=162,\quad{x}^2=81.
 $$
 
 由**定义 8.1.1 (平方根)**, $x=\sqrt{81}=9$ (取正). 故宽为 $9\,\text{m}$, 长为 $2x=18\,\text{m}$. $\blacksquare$
@@ -412,27 +412,27 @@ $$
 
 由**定义 8.1.2 (算术平方根)**, 用计算器求正平方根.
 
-(1) $\because 31^2=961$, $\therefore\sqrt{961}=31$.
+(1) $\because31^2=961$, $\therefore\sqrt{961}=31$.
 
 (2) 用计算器算得 $\sqrt{96.04}=9.8$.
 
-(3) 用计算器算得 $\sqrt{403}\approx 20.075$. $\blacksquare$
+(3) 用计算器算得 $\sqrt{403}\approx20.075$. $\blacksquare$
 
 ## 练习八
 
 (练习 8.1 第 2 题) 下列各数分别介于哪两个相邻的整数之间?
 
-(1) $\sqrt 5$;　(2) $\sqrt{26}$;　(3) $\sqrt\left[3\right]{83}$.
+(1) $\sqrt5$;　(2) $\sqrt{26}$;　(3) $\sqrt\left[3\right]{83}$.
 
 ### 解答 练习八
 
 由**性质 8.1.2 (算术平方根的大小)**, 比较平方数.
 
-(1) $\because 2^2=4< 5< 9=3^2$, $\therefore 2< \sqrt 5< 3$, 即 $\sqrt 5$ 介于 $2$ 与 $3$ 之间.
+(1) $\because2^2=4<5<9=3^2$, $\therefore2<\sqrt5<3$, 即 $\sqrt5$ 介于 $2$ 与 $3$ 之间.
 
-(2) $\because 5^2=25< 26< 36=6^2$, $\therefore 5< \sqrt{26}< 6$, 即 $\sqrt{26}$ 介于 $5$ 与 $6$ 之间.
+(2) $\because5^2=25<26<36=6^2$, $\therefore5<\sqrt{26}<6$, 即 $\sqrt{26}$ 介于 $5$ 与 $6$ 之间.
 
-(3) $\because 4^3=64< 83< 125=5^3$, $\therefore 4< \sqrt\left[3\right]{83}< 5$, 即 $\sqrt\left[3\right]{83}$ 介于 $4$ 与 $5$ 之间. $\blacksquare$
+(3) $\because4^3=64<83<125=5^3$, $\therefore4<\sqrt\left[3\right]{83}<5$, 即 $\sqrt\left[3\right]{83}$ 介于 $4$ 与 $5$ 之间. $\blacksquare$
 
 ## 练习九
 
@@ -443,12 +443,12 @@ $$
 设长为 $5x\,\text{cm}$, 宽为 $4x\,\text{cm}$. 由面积,
 
 $$
-5x\cdot 4x=700,\quad 20x^2=700,\quad x^2=35.
+5x\cdot4x=700,\quad20x^2=700,\quad{x}^2=35.
 $$
 
-由**定义 8.1.1 (平方根)**, $x=\sqrt{35}\approx 5.92$. 故长为 $5\sqrt{35}\approx 29.6\,\text{cm}$, 宽为 $4\sqrt{35}\approx 23.7\,\text{cm}$.
+由**定义 8.1.1 (平方根)**, $x=\sqrt{35}\approx5.92$. 故长为 $5\sqrt{35}\approx29.6\,\text{cm}$, 宽为 $4\sqrt{35}\approx23.7\,\text{cm}$.
 
-半径 $12\,\text{cm}$ 的圆直径为 $24\,\text{cm}$. 画纸宽约 $23.7\,\text{cm}< 24\,\text{cm}$, 直径放不进宽边. 故王芳的想法不可行. $\blacksquare$
+半径 $12\,\text{cm}$ 的圆直径为 $24\,\text{cm}$. 画纸宽约 $23.7\,\text{cm}<24\,\text{cm}$, 直径放不进宽边. 故王芳的想法不可行. $\blacksquare$
 
 ## 习题一
 
@@ -460,11 +460,11 @@ $$
 
 由**定义 8.1.1 (平方根)**.
 
-(1) $\because\left(\pm 9\right)^2=81$, $\therefore 81$ 的平方根是 $\pm 9$.
+(1) $\because\left(\pm9\right)^2=81$, $\therefore81$ 的平方根是 $\pm9$.
 
-(2) $\because\left(\pm\frac{1}{10^3}\right)^2=\frac{1}{10^6}$, $\therefore\frac{1}{10^6}$ 的平方根是 $\pm\frac{1}{10^3}=\pm 0.001$.
+(2) $\because\left(\pm\frac{1}{10^3}\right)^2=\frac{1}{10^6}$, $\therefore\frac{1}{10^6}$ 的平方根是 $\pm\frac{1}{10^3}=\pm0.001$.
 
-(3) $\because\left(\pm 0.04\right)^2=0.0016$, $\therefore 0.0016$ 的平方根是 $\pm 0.04$. $\blacksquare$
+(3) $\because\left(\pm0.04\right)^2=0.0016$, $\therefore0.0016$ 的平方根是 $\pm0.04$. $\blacksquare$
 
 ## 习题二
 
@@ -478,19 +478,19 @@ $$
 
 (1) $\because\left(\frac{5}{8}\right)^2=\frac{25}{64}$, $\therefore\sqrt{\frac{25}{64}}=\frac{5}{8}$.
 
-(2) $\because 0.2^2=0.04$, $\therefore\sqrt{0.04}=0.2$.
+(2) $\because0.2^2=0.04$, $\therefore\sqrt{0.04}=0.2$.
 
-(3) $10^2=100$, $\because 10^2=100$, $\therefore\sqrt{10^2}=10$. $\blacksquare$
+(3) $10^2=100$, $\because10^2=100$, $\therefore\sqrt{10^2}=10$. $\blacksquare$
 
 ## 习题三
 
 (习题 8.1 复习巩固第 3 题) 判断题.
 
-(1) $\sqrt 5$ 是 $5$ 的一个平方根;
+(1) $\sqrt5$ 是 $5$ 的一个平方根;
 
 (2) $\left(-3\right)^2$ 的算术平方根是 $-3$;
 
-(3) $\sqrt 4$ 的平方根是 $\pm 2$;
+(3) $\sqrt4$ 的平方根是 $\pm2$;
 
 (4) $0$ 的平方根与算术平方根都是 $0$.
 
@@ -498,10 +498,10 @@ $$
 
 由**定义 8.1.1 (平方根)** 与**定义 8.1.2 (算术平方根)**.
 
-(1) $\because\left(\sqrt 5\right)^2=5$, $\therefore\sqrt 5$ 是 $5$ 的一个平方根, 正确.
+(1) $\because\left(\sqrt5\right)^2=5$, $\therefore\sqrt5$ 是 $5$ 的一个平方根, 正确.
 
 (2) $\left(-3\right)^2=9$, $9$ 的算术平方根是 $3$, 不是 $-3$, 故错误.
 
-(3) $\sqrt 4=2$, 而 $2$ 的平方根是 $\pm\sqrt 2$, 故 $\sqrt 4$ 的平方根是 $\pm\sqrt 2$, 不是 $\pm 2$, 错误.
+(3) $\sqrt4=2$, 而 $2$ 的平方根是 $\pm\sqrt2$, 故 $\sqrt4$ 的平方根是 $\pm\sqrt2$, 不是 $\pm2$, 错误.
 
 (4) 由**性质 8.1.1 (平方根的性质)**, $0$ 的平方根是 $0$, 由规定 $0$ 的算术平方根也是 $0$, 正确. $\blacksquare$

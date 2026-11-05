@@ -6,7 +6,7 @@
 
 > **定义 26.1.2 (反比例函数的图象与性质)**
 > 
-> $y=\frac{k}{x}$ 的图象是双曲线。$k> 0$ 时两支在第一, 第三象限，每象限内 $y$ 随 $x$ 增大而减小；$k< 0$ 时两支在第二, 第四象限，每象限内 $y$ 随 $x$ 增大而增大。
+> $y=\frac{k}{x}$ 的图象是双曲线。$k>0$ 时两支在第一, 第三象限，每象限内 $y$ 随 $x$ 增大而减小；$k<0$ 时两支在第二, 第四象限，每象限内 $y$ 随 $x$ 增大而增大。
 
 > **定义 27.1.1 (相似图形)**
 > 
@@ -22,7 +22,7 @@
 
 > **定义 27.2.1 (相似三角形)**
 > 
-> 在 $\triangle ABC$ 和 $\triangle A'B'C'$ 中，如果 $\angle A=\angle A'$，$\angle B=\angle B'$，$\angle C=\angle C'$，且 $\frac{AB}{A'B'}=\frac{BC}{B'C'}=\frac{AC}{A'C'}=k$，则 $\triangle ABC\backsim\triangle A'B'C'$。
+> 在 $\triangle{A}BC$ 和 $\triangle{A}'B'C'$ 中，如果 $\angle{A}=\angle{A}'$，$\angle{B}=\angle{B}'$，$\angle{C}=\angle{C}'$，且 $\frac{AB}{A'B'}=\frac{BC}{B'C'}=\frac{AC}{A'C'}=k$，则 $\triangle{A}BC\backsim\triangle{A}'B'C'$。
 
 > **基本事实 27.2.1 (平行线分线段成比例)**
 > 
@@ -68,9 +68,9 @@
 
 由**定义 26.1.2 (反比例函数的图象与性质)**. 
 
-(1) $k=10> 0$, 图象位于第一, 第三象限, $y$ 随 $x$ 增大而减小. 
+(1) $k=10>0$, 图象位于第一, 第三象限, $y$ 随 $x$ 增大而减小. 
 
-(2) $k=-10< 0$, 图象位于第二, 第四象限, $y$ 随 $x$ 增大而增大. $\blacksquare$
+(2) $k=-10<0$, 图象位于第二, 第四象限, $y$ 随 $x$ 增大而增大. $\blacksquare$
 
 ## 复习题二
 
@@ -90,11 +90,11 @@
 
 ### 解答 复习题三
 
-由**定义 26.1.2 (反比例函数的图象与性质)**, $y$ 随 $x$ 增大而减小说明 $k-1> 0$, 故 $k> 1$. $\blacksquare$
+由**定义 26.1.2 (反比例函数的图象与性质)**, $y$ 随 $x$ 增大而减小说明 $k-1>0$, 故 $k>1$. $\blacksquare$
 
 ## 复习题四
 
-(复习题 26 综合运用第 6 题) 一块砖的 $A,B,C$ 三个面的面积比是 $4:2:1$. 如果 $B$ 面向下放在地上, 地面所受压强为 $a\ \text{Pa}$, 那么 $A$ 面和 $C$ 面分别向下放在地上时, 地面所受压强各是多少? 
+(复习题 26 综合运用第 6 题) 一块砖的 $A,B,C$ 三个面的面积比是 $4:2:1$. 如果 $B$ 面向下放在地上, 地面所受压强为 $a\,\text{Pa}$, 那么 $A$ 面和 $C$ 面分别向下放在地上时, 地面所受压强各是多少? 
 
 ### 解答 复习题四
 
@@ -108,11 +108,11 @@ $C$ 面向下时 $p_C=\frac{F}{S}=2a$. $\blacksquare$
 
 ## 复习题五
 
-(复习题 26 综合运用第 7 题) 已知某品牌显示器的寿命大约为 $2\times10^4\ \text{h}$. 
+(复习题 26 综合运用第 7 题) 已知某品牌显示器的寿命大约为 $2\times10^4\,\text{h}$. 
 
 (1) 这种显示器可工作的天数 $d$ 与平均每日工作的小时数 $t$ 之间具有怎样的函数关系? 
 
-(2) 如果平均每天工作 $10\ \text{h}$, 那么这种显示器大约可使用多长时间? 
+(2) 如果平均每天工作 $10\,\text{h}$, 那么这种显示器大约可使用多长时间? 
 
 ### 解答 复习题五
 
@@ -132,13 +132,13 @@ $C$ 面向下时 $p_C=\frac{F}{S}=2a$. $\blacksquare$
 
 由**定义 26.1.2 (反比例函数的图象与性质)**. 
 
-(1) $y=\frac{2}{x}$, $k=2> 0$, 在第一, 第三象限, 对应 (B). 
+(1) $y=\frac{2}{x}$, $k=2>0$, 在第一, 第三象限, 对应 (B). 
 
-(2) $y=\frac{2}{\left|x\right|}$, 无论 $x$ 正负, $y> 0$, 两支都在 $x$ 轴上方, 对应 (A). 
+(2) $y=\frac{2}{\left|x\right|}$, 无论 $x$ 正负, $y>0$, 两支都在 $x$ 轴上方, 对应 (A). 
 
-(3) $y=-\frac{2}{x}$, $k=-2< 0$, 在第二, 第四象限, 对应 (C). 
+(3) $y=-\frac{2}{x}$, $k=-2<0$, 在第二, 第四象限, 对应 (C). 
 
-(4) $y=-\frac{2}{\left|x\right|}$, 无论 $x$ 正负, $y< 0$, 两支都在 $x$ 轴下方, 对应 (D). 
+(4) $y=-\frac{2}{\left|x\right|}$, 无论 $x$ 正负, $y<0$, 两支都在 $x$ 轴下方, 对应 (D). 
 
 故 (1)-(B), (2)-(A), (3)-(C), (4)-(D). $\blacksquare$
 
@@ -148,9 +148,9 @@ $C$ 面向下时 $p_C=\frac{F}{S}=2a$. $\blacksquare$
 
 ### 解答 复习题七
 
-设两个不同的反比例函数为 $y=\frac{k_1}{x}$ 和 $y=\frac{k_2}{x}$, $k_1\ne k_2$. 
+设两个不同的反比例函数为 $y=\frac{k_1}{x}$ 和 $y=\frac{k_2}{x}$, $k_1\ne{k}_2$. 
 
-若相交, 则 $\frac{k_1}{x}=\frac{k_2}{x}$, 即 $k_1=k_2$, 与 $k_1\ne k_2$ 矛盾. 
+若相交, 则 $\frac{k_1}{x}=\frac{k_2}{x}$, 即 $k_1=k_2$, 与 $k_1\ne{k}_2$ 矛盾. 
 
 故两个不同的反比例函数的图象不能相交. $\blacksquare$
 
@@ -162,19 +162,19 @@ $C$ 面向下时 $p_C=\frac{F}{S}=2a$. $\blacksquare$
 
 若有交点, 则 $k_1x=\frac{k_2}{x}$, 即 $k_1x^2=k_2$. 
 
-当 $k_1k_2> 0$ 时, $x^2=\frac{k_2}{k_1}> 0$, 有解, 两图象相交. 
+当 $k_1k_2>0$ 时, $x^2=\frac{k_2}{k_1}>0$, 有解, 两图象相交. 
 
-当 $k_1k_2< 0$ 时, $x^2=\frac{k_2}{k_1}< 0$, 无解, 两图象没有交点. 
+当 $k_1k_2<0$ 时, $x^2=\frac{k_2}{k_1}<0$, 无解, 两图象没有交点. 
 
-故 $k_1k_2< 0$. $\blacksquare$
+故 $k_1k_2<0$. $\blacksquare$
 
 ## 复习题九
 
-(复习题 26 拓广探索第 11 题) 市政府计划建设一项水利工程, 工程需要运送的土石方总量为 $10^6\ \text{m}^3$, 某运输公司承担了运送土石方的任务. 
+(复习题 26 拓广探索第 11 题) 市政府计划建设一项水利工程, 工程需要运送的土石方总量为 $10^6\,\text{m}^3$, 某运输公司承担了运送土石方的任务. 
 
 (1) 运输公司平均运送速度 $v$ (单位: $\text{m}^3/$天) 与完成运送任务所需时间 $t$ (单位: 天) 之间具有怎样的函数关系? 
 
-(2) 这个运输公司共有 $100$ 辆卡车, 每天可运送土石方 $10^4\ \text{m}^3$, 公司完成全部运输任务需要多长时间? 
+(2) 这个运输公司共有 $100$ 辆卡车, 每天可运送土石方 $10^4\,\text{m}^3$, 公司完成全部运输任务需要多长时间? 
 
 (3) 当公司以问题 (2) 中的速度工作了 $40$ 天后, 由于工程进度的需要, 剩下的所有运输任务必须在 $50$ 天内完成, 公司至少应增加多少辆卡车? 
 
@@ -184,7 +184,7 @@ $C$ 面向下时 $p_C=\frac{F}{S}=2a$. $\blacksquare$
 
 (2) 当 $v=10^4$ 时, $t=\frac{10^6}{10^4}=100$ 天. 
 
-(3) $40$ 天已运送 $40\times10^4=4\times10^5\ \text{m}^3$, 剩 $6\times10^5\ \text{m}^3$. $50$ 天内完成需每天运送 $\frac{6\times10^5}{50}=1.2\times10^4\ \text{m}^3$. 每辆卡车每天运送 $\frac{10^4}{100}=100\ \text{m}^3$, 需卡车 $\frac{1.2\times10^4}{100}=120$ 辆, 已有 $100$ 辆, 故至少应增加 $20$ 辆. $\blacksquare$
+(3) $40$ 天已运送 $40\times10^4=4\times10^5\,\text{m}^3$, 剩 $6\times10^5\,\text{m}^3$. $50$ 天内完成需每天运送 $\frac{6\times10^5}{50}=1.2\times10^4\,\text{m}^3$. 每辆卡车每天运送 $\frac{10^4}{100}=100\,\text{m}^3$, 需卡车 $\frac{1.2\times10^4}{100}=120$ 辆, 已有 $100$ 辆, 故至少应增加 $20$ 辆. $\blacksquare$
 
 ## 练习一
 
@@ -206,13 +206,13 @@ $C$ 面向下时 $p_C=\frac{F}{S}=2a$. $\blacksquare$
 
 ## 练习三
 
-(练习 27.1 第 1 题) 在比例尺为 $1:10\,000\,000$ 的地图上, 量得甲, 乙两地的距离是 $30\ \text{cm}$, 求两地的实际距离. 
+(练习 27.1 第 1 题) 在比例尺为 $1:10\,000\,000$ 的地图上, 量得甲, 乙两地的距离是 $30\,\text{cm}$, 求两地的实际距离. 
 
 ### 解答 练习三
 
-比例尺 $=$ 图上距离 $:$ 实际距离, 即 $1:10\,000\,000=30\ \text{cm}:$ 实际距离. 
+比例尺 $=$ 图上距离 $:$ 实际距离, 即 $1:10\,000\,000=30\,\text{cm}:$ 实际距离. 
 
-实际距离 $=30\times10\,000\,000=3\times10^8\ \text{cm}=3000\ \text{km}$. $\blacksquare$
+实际距离 $=30\times10\,000\,000=3\times10^8\,\text{cm}=3000\,\text{km}$. $\blacksquare$
 
 ## 练习四
 
@@ -237,24 +237,24 @@ $C$ 面向下时 $p_C=\frac{F}{S}=2a$. $\blacksquare$
 对应边比为 $\frac{5}{7.5}=\frac{2}{3}$. 
 
 $$
-\frac{3}{b}=\frac{2}{3}\Rightarrow b=4.5,\quad
-\frac{2}{a}=\frac{2}{3}\Rightarrow a=3,
+\frac{3}{b}=\frac{2}{3}\Rightarrow{b}=4.5,\quad
+\frac{2}{a}=\frac{2}{3}\Rightarrow{a}=3,
 $$
 
 $$
-\frac{c}{6}=\frac{2}{3}\Rightarrow c=4,\quad
-\frac{d}{9}=\frac{2}{3}\Rightarrow d=6.
+\frac{c}{6}=\frac{2}{3}\Rightarrow{c}=4,\quad
+\frac{d}{9}=\frac{2}{3}\Rightarrow{d}=6.
 $$
 
 故 $a=3$, $b=4.5$, $c=4$, $d=6$. $\blacksquare$
 
 ## 习题一
 
-(习题 27.1 复习巩固第 1 题) 两地的实际距离是 $2000\ \text{m}$, 在地图上量得这两地的距离为 $2\ \text{cm}$, 这幅地图的比例尺是多少? 
+(习题 27.1 复习巩固第 1 题) 两地的实际距离是 $2000\,\text{m}$, 在地图上量得这两地的距离为 $2\,\text{cm}$, 这幅地图的比例尺是多少? 
 
 ### 解答 习题一
 
-$2000\ \text{m}=200000\ \text{cm}$. 
+$2000\,\text{m}=200000\,\text{cm}$. 
 
 比例尺 $=2:200000=1:100000$. $\blacksquare$
 
@@ -272,20 +272,20 @@ $2000\ \text{m}=200000\ \text{cm}$.
 
 ## 习题三
 
-(习题 27.1 复习巩固第 3 题) 如图, $\triangle ABC$ 与 $\triangle DEF$ 相似, 求 $x,y$ 的值. ($\triangle ABC$ 中 $AB=7$, $BC=8$; $\triangle DEF$ 中 $FE=4$, $DF=12$, $DE=x$. )
+(习题 27.1 复习巩固第 3 题) 如图, $\triangle{A}BC$ 与 $\triangle{D}EF$ 相似, 求 $x,y$ 的值. ($\triangle{A}BC$ 中 $AB=7$, $BC=8$; $\triangle{D}EF$ 中 $FE=4$, $DF=12$, $DE=x$. )
 
 ### 解答 习题三
 
-由**定义 27.1.3 (相似多边形)**, $\triangle ABC\backsim\triangle DEF$, 对应边成比例. 
+由**定义 27.1.3 (相似多边形)**, $\triangle{A}BC\backsim\triangle{D}EF$, 对应边成比例. 
 
 相似比为 $\frac{BC}{FE}=\frac{8}{4}=2$. 
 
 $$
-\frac{AB}{DE}=2\Rightarrow\frac{7}{x}=2\Rightarrow x=3.5.
+\frac{AB}{DE}=2\Rightarrow\frac{7}{x}=2\Rightarrow{x}=3.5.
 $$
 
 $$
-\frac{AC}{DF}=2\Rightarrow AC=2\times12=24.
+\frac{AC}{DF}=2\Rightarrow{A}C=2\times12=24.
 $$
 
 故 $x=3.5$. $\blacksquare$
@@ -302,7 +302,7 @@ $$
 
 ## 习题五
 
-(习题 27.1 综合运用第 5 题) 如图, $DE\parallel BC$. 已知 $AD=2$, $DB=4$, $AE=2.5$, $EC=5$, $DE=3$, $BC=9$. (1) 求 $\frac{AD}{AB}$, $\frac{AE}{AC}$, $\frac{DE}{BC}$ 的值; (2) 证明 $\triangle ADE$ 与 $\triangle ABC$ 相似. 
+(习题 27.1 综合运用第 5 题) 如图, $DE\parallel{B}C$. 已知 $AD=2$, $DB=4$, $AE=2.5$, $EC=5$, $DE=3$, $BC=9$. (1) 求 $\frac{AD}{AB}$, $\frac{AE}{AC}$, $\frac{DE}{BC}$ 的值; (2) 证明 $\triangle{A}DE$ 与 $\triangle{A}BC$ 相似. 
 
 ### 解答 习题五
 
@@ -314,11 +314,11 @@ $$
 \frac{DE}{BC}=\frac{3}{9}=\frac{1}{3}.
 $$
 
-(2) $DE\parallel BC$, 故 $\angle ADE=\angle B$, $\angle AED=\angle C$, 且 $\angle A$ 公共, 角分别相等; 又由 (1) 三边比均为 $\frac{1}{3}$, 边成比例. 由**定义 27.1.3 (相似多边形)**, $\triangle ADE\backsim\triangle ABC$. $\blacksquare$
+(2) $DE\parallel{B}C$, 故 $\angle{A}DE=\angle{B}$, $\angle{A}ED=\angle{C}$, 且 $\angle{A}$ 公共, 角分别相等; 又由 (1) 三边比均为 $\frac{1}{3}$, 边成比例. 由**定义 27.1.3 (相似多边形)**, $\triangle{A}DE\backsim\triangle{A}BC$. $\blacksquare$
 
 ## 习题六
 
-(习题 27.1 综合运用第 6 题) 矩形草坪长 $30\ \text{m}$, 宽 $20\ \text{m}$. 沿草坪四周有 $1\ \text{m}$ 宽的环行小路, 小路内外边缘形成的两个矩形相似吗? 说出你的理由. 
+(习题 27.1 综合运用第 6 题) 矩形草坪长 $30\,\text{m}$, 宽 $20\,\text{m}$. 沿草坪四周有 $1\,\text{m}$ 宽的环行小路, 小路内外边缘形成的两个矩形相似吗? 说出你的理由. 
 
 ### 解答 习题六
 
@@ -348,11 +348,11 @@ $\frac{15}{16}\ne\frac{10}{11}$, 边不成比例.
 
 (习题 27.1 拓广探索第 8 题) 将一张矩形纸片沿较长边的中点连线对折, 如果得到的两个矩形都和原来的矩形相似, 那么原来矩形的长宽比是多少? 将这张纸如此再对折下去, 得到的矩形都相似吗? 
 
-图为一个矩形纸片, 沿较长边的中点连线对折, 对折后得到一个较小的矩形; 原矩形长为 $a$, 宽为 $b$, 对折后新矩形的一边为 $b$, 另一边为 $\\frac a2$. 
+图为一个矩形纸片, 沿较长边的中点连线对折, 对折后得到一个较小的矩形; 原矩形长为 $a$, 宽为 $b$, 对折后新矩形的一边为 $b$, 另一边为 $\\frac{a}2$. 
 
 ### 解答 习题八
 
-设原矩形长为 $a$, 宽为 $b$($a> b$). 沿较长边中点连线对折后, 新矩形尺寸为 $b\times\frac{a}{2}$. 
+设原矩形长为 $a$, 宽为 $b$($a>{}b$). 沿较长边中点连线对折后, 新矩形尺寸为 $b\times\frac{a}{2}$. 
 
 由对折后的矩形与原矩形相似, 对应边成比例: 
 
@@ -366,43 +366,43 @@ $$
 
 ## 练习六
 
-(练习 27.2 第 1 题) 如图, $AB\parallel CD\parallel EF$, $AF$ 与 $BE$ 相交于点 $G$, 且 $AG=2$, $GD=1$, $DF=5$, 求 $\frac{BC}{CE}$ 的值. 
+(练习 27.2 第 1 题) 如图, $AB\parallel{C}D\parallel{E}F$, $AF$ 与 $BE$ 相交于点 $G$, 且 $AG=2$, $GD=1$, $DF=5$, 求 $\frac{BC}{CE}$ 的值. 
 
 ### 解答 练习六
 
 由平行线分线段成比例, 三条平行线截两条直线, 对应线段成比例. 
 
 $$
-\frac{BC}{CE}=\frac{AD}{DF}=\frac{AG+GD}{DF}=\frac{2+1}{5}=\frac{3}{5}.\ \blacksquare
+\frac{BC}{CE}=\frac{AD}{DF}=\frac{AG+GD}{DF}=\frac{2+1}{5}=\frac{3}{5}.\,\blacksquare
 $$
 
 ## 练习七
 
-(练习 27.2 第 2 题) 如图, 在 $\triangle ABC$ 中, $DE\parallel BC$, 且 $AD=3$, $DB=2$. 写出图中的相似三角形, 并指出其相似比. 
+(练习 27.2 第 2 题) 如图, 在 $\triangle{A}BC$ 中, $DE\parallel{B}C$, 且 $AD=3$, $DB=2$. 写出图中的相似三角形, 并指出其相似比. 
 
 ### 解答 练习七
 
-由**定理 27.2.1 (预备定理)**, $DE\parallel BC$, 故 $\triangle ADE\backsim\triangle ABC$. 
+由**定理 27.2.1 (预备定理)**, $DE\parallel{B}C$, 故 $\triangle{A}DE\backsim\triangle{A}BC$. 
 
 相似比为 $\frac{AD}{AB}=\frac{AD}{AD+DB}=\frac{3}{3+2}=\frac{3}{5}$. $\blacksquare$
 
 ## 练习八
 
-(练习 27.2 第 1 题) 根据下列条件, 判断 $\triangle ABC$ 与 $\triangle A'B'C'$ 是否相似, 并说明理由: 
+(练习 27.2 第 1 题) 根据下列条件, 判断 $\triangle{A}BC$ 与 $\triangle{A}'B'C'$ 是否相似, 并说明理由: 
 
-(1) $\angle A=40^\circ$, $AB=8\ \text{cm}$, $AC=15\ \text{cm}$, $\angle A'=40^\circ$, $A'B'=16\ \text{cm}$, $A'C'=30\ \text{cm}$; 
+(1) $\angle{A}=40^\circ$, $AB=8\,\text{cm}$, $AC=15\,\text{cm}$, $\angle{A}'=40^\circ$, $A'B'=16\,\text{cm}$, $A'C'=30\,\text{cm}$; 
 
-(2) $AB=10\ \text{cm}$, $BC=8\ \text{cm}$, $AC=16\ \text{cm}$, $A'B'=16\ \text{cm}$, $B'C'=12.8\ \text{cm}$, $A'C'=25.6\ \text{cm}$. 
+(2) $AB=10\,\text{cm}$, $BC=8\,\text{cm}$, $AC=16\,\text{cm}$, $A'B'=16\,\text{cm}$, $B'C'=12.8\,\text{cm}$, $A'C'=25.6\,\text{cm}$. 
 
 ### 解答 练习八
 
-(1) $\angle A=\angle A'=40^\circ$, 且
+(1) $\angle{A}=\angle{A}'=40^\circ$, 且
 
 $$
 \frac{AB}{A'B'}=\frac{8}{16}=\frac{1}{2},\quad\frac{AC}{A'C'}=\frac{15}{30}=\frac{1}{2}.
 $$
 
-两边成比例且夹角相等, 由SAS, $\triangle ABC\backsim\triangle A'B'C'$. 
+两边成比例且夹角相等, 由SAS, $\triangle{A}BC\backsim\triangle{A}'B'C'$. 
 
 (2)
 
@@ -412,31 +412,31 @@ $$
 \frac{AC}{A'C'}=\frac{16}{25.6}=\frac{5}{8}.
 $$
 
-三边成比例, 由SSS, $\triangle ABC\backsim\triangle A'B'C'$. $\blacksquare$
+三边成比例, 由SSS, $\triangle{A}BC\backsim\triangle{A}'B'C'$. $\blacksquare$
 
 ## 练习九
 
-(练习 27.2 第 2 题) 图中的两个三角形是否相似? 为什么? (左边三角形三边为 $15,20,25$; 右边三角形三边为 $27,36,45$. 另一组图形中, $\triangle ABC$ 与 $\triangle EDC$ 在点 $C$ 处形成对顶角, $BC=54$, $CE=36$, $AC=45$, $CD=30$. )
+(练习 27.2 第 2 题) 图中的两个三角形是否相似? 为什么? (左边三角形三边为 $15,20,25$; 右边三角形三边为 $27,36,45$. 另一组图形中, $\triangle{A}BC$ 与 $\triangle{E}DC$ 在点 $C$ 处形成对顶角, $BC=54$, $CE=36$, $AC=45$, $CD=30$. )
 
 ### 解答 练习九
 
 第一组: $\frac{15}{27}=\frac{5}{9}$, $\frac{20}{36}=\frac{5}{9}$, $\frac{25}{45}=\frac{5}{9}$, 三边成比例, 由SSS, 相似. 
 
-第二组: $\angle ACB=\angle DCE$ (对顶角), 且 $\frac{BC}{CE}=\frac{54}{36}=\frac{3}{2}$, $\frac{AC}{CD}=\frac{45}{30}=\frac{3}{2}$, 两边成比例且夹角相等, 由SAS, 相似. $\blacksquare$
+第二组: $\angle{A}CB=\angle{D}CE$ (对顶角), 且 $\frac{BC}{CE}=\frac{54}{36}=\frac{3}{2}$, $\frac{AC}{CD}=\frac{45}{30}=\frac{3}{2}$, 两边成比例且夹角相等, 由SAS, 相似. $\blacksquare$
 
 ## 练习十
 
-(练习 27.2 第 3 题) 要制作两个形状相同的三角形框架, 其中一个三角形框架的三边长分别为 $4\ \text{cm}$, $5\ \text{cm}$ 和 $6\ \text{cm}$, 另一个三角形框架的一边长为 $2\ \text{cm}$, 它的另外两条边长应当是多少? 你有几种制作方案? 
+(练习 27.2 第 3 题) 要制作两个形状相同的三角形框架, 其中一个三角形框架的三边长分别为 $4\,\text{cm}$, $5\,\text{cm}$ 和 $6\,\text{cm}$, 另一个三角形框架的一边长为 $2\,\text{cm}$, 它的另外两条边长应当是多少? 你有几种制作方案? 
 
 ### 解答 练习十
 
-由SSS, 两个三角形三边对应成比例则相似. 边长 $2\ \text{cm}$ 可分别对应原三角形的三条边. 
+由SSS, 两个三角形三边对应成比例则相似. 边长 $2\,\text{cm}$ 可分别对应原三角形的三条边. 
 
-方案一: $2$ 对应 $4$, 相似比 $\frac{1}{2}$, 另两边为 $2.5\ \text{cm}$, $3\ \text{cm}$. 
+方案一: $2$ 对应 $4$, 相似比 $\frac{1}{2}$, 另两边为 $2.5\,\text{cm}$, $3\,\text{cm}$. 
 
-方案二: $2$ 对应 $5$, 相似比 $\frac{2}{5}$, 另两边为 $\frac{8}{5}\ \text{cm}$, $\frac{12}{5}\ \text{cm}$. 
+方案二: $2$ 对应 $5$, 相似比 $\frac{2}{5}$, 另两边为 $\frac{8}{5}\,\text{cm}$, $\frac{12}{5}\,\text{cm}$. 
 
-方案三: $2$ 对应 $6$, 相似比 $\frac{1}{3}$, 另两边为 $\frac{4}{3}\ \text{cm}$, $\frac{5}{3}\ \text{cm}$. 
+方案三: $2$ 对应 $6$, 相似比 $\frac{1}{3}$, 另两边为 $\frac{4}{3}\,\text{cm}$, $\frac{5}{3}\,\text{cm}$. 
 
 共三种方案. $\blacksquare$
 
@@ -454,17 +454,17 @@ $$
 
 ## 练习十二
 
-(练习 27.2 第 2 题) 如图, $\text{Rt}\triangle ABC$ 中, $CD$ 是斜边 $AB$ 上的高. 求证: (1) $\triangle ACD\backsim\triangle ABC$; (2) $\triangle CBD\backsim\triangle ABC$. 
+(练习 27.2 第 2 题) 如图, $\text{Rt}\triangle{A}BC$ 中, $CD$ 是斜边 $AB$ 上的高. 求证: (1) $\triangle{A}CD\backsim\triangle{A}BC$; (2) $\triangle{C}BD\backsim\triangle{A}BC$. 
 
 ### 解答 练习十二
 
-(1) $CD\perp AB$, 故 $\angle ADC=90^\circ=\angle ACB$, 又 $\angle A$ 公共, 由AA, $\triangle ACD\backsim\triangle ABC$. 
+(1) $CD\perp{A}B$, 故 $\angle{A}DC=90^\circ=\angle{A}CB$, 又 $\angle{A}$ 公共, 由AA, $\triangle{A}CD\backsim\triangle{A}BC$. 
 
-(2) $\angle CDB=90^\circ=\angle ACB$, 又 $\angle B$ 公共, 由 AA, $\triangle CBD\backsim\triangle ABC$. $\blacksquare$
+(2) $\angle{C}DB=90^\circ=\angle{A}CB$, 又 $\angle{B}$ 公共, 由 AA, $\triangle{C}BD\backsim\triangle{A}BC$. $\blacksquare$
 
 ## 练习十三
 
-(练习 27.2 第 3 题) 如果 $\text{Rt}\triangle ABC$ 的两条直角边分别为 $3$ 和 $4$, 那么以 $3k$ 和 $4k$($k$ 是正整数)为直角边的直角三角形一定与 $\text{Rt}\triangle ABC$ 相似吗? 为什么? 
+(练习 27.2 第 3 题) 如果 $\text{Rt}\triangle{A}BC$ 的两条直角边分别为 $3$ 和 $4$, 那么以 $3k$ 和 $4k$($k$ 是正整数)为直角边的直角三角形一定与 $\text{Rt}\triangle{A}BC$ 相似吗? 为什么? 
 
 ### 解答 练习十三
 
@@ -490,7 +490,7 @@ $$
 
 ## 练习十五
 
-(练习 27.2 第 2 题) 如图, $\triangle ABC$ 与 $\triangle A'B'C'$ 相似, $AD$, $BE$ 是 $\triangle ABC$ 的高, $A'D'$, $B'E'$ 是 $\triangle A'B'C'$ 的高, 求证 $\frac{AD}{A'D'}=\frac{BE}{B'E'}$. 
+(练习 27.2 第 2 题) 如图, $\triangle{A}BC$ 与 $\triangle{A}'B'C'$ 相似, $AD$, $BE$ 是 $\triangle{A}BC$ 的高, $A'D'$, $B'E'$ 是 $\triangle{A}'B'C'$ 的高, 求证 $\frac{AD}{A'D'}=\frac{BE}{B'E'}$. 
 
 ### 解答 练习十五
 
@@ -506,7 +506,7 @@ $$
 
 ## 练习十六
 
-(练习 27.2 第 3 题) 在一张复印出来的纸上, 一个三角形的一条边由原图中的 $2\ \text{cm}$ 变成了 $6\ \text{cm}$, 放缩比例是多少? 这个三角形的面积发生了怎样的变化? 
+(练习 27.2 第 3 题) 在一张复印出来的纸上, 一个三角形的一条边由原图中的 $2\,\text{cm}$ 变成了 $6\,\text{cm}$, 放缩比例是多少? 这个三角形的面积发生了怎样的变化? 
 
 ### 解答 练习十六
 
@@ -516,7 +516,7 @@ $$
 
 ## 练习十七
 
-(练习 27.2 第 1 题) 在某一时刻, 测得一根高为 $1.8\ \text{m}$ 的竹竿的影长为 $3\ \text{m}$, 同时测得一栋楼的影长为 $90\ \text{m}$, 这栋楼的高度是多少? 
+(练习 27.2 第 1 题) 在某一时刻, 测得一根高为 $1.8\,\text{m}$ 的竹竿的影长为 $3\,\text{m}$, 同时测得一栋楼的影长为 $90\,\text{m}$, 这栋楼的高度是多少? 
 
 ### 解答 练习十七
 
@@ -527,5 +527,5 @@ $$
 $$
 
 $$
-h=\frac{1.8\times90}{3}=54\ \text{m}.\ \blacksquare
+h=\frac{1.8\times90}{3}=54\,\text{m}.\,\blacksquare
 $$

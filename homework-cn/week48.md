@@ -10,7 +10,7 @@
 
 > **结论 21.1.3 (多边形内角和)**
 > 
-> \(n\) 边形的内角和等于 \((n-2)\times 180^{\circ}\)。
+> \(n\) 边形的内角和等于 \((n-2)\times180^{\circ}\)。
 
 > **性质 21.2.1 (对边)**
 > 
@@ -56,25 +56,25 @@
 
 (练习 21.3.2 第 1 题)
 
-四边形 \(ABCD\) 是菱形, 对角线 \(AC,BD\) 相交于点 \(O\), 且 \(AB=5,\ AO=4\). 求 \(AC,BD\) 的长以及菱形 \(ABCD\) 的面积. 
+四边形 \(ABCD\) 是菱形, 对角线 \(AC,BD\) 相交于点 \(O\), 且 \(AB=5,\,AO=4\). 求 \(AC,BD\) 的长以及菱形 \(ABCD\) 的面积. 
 
-由**性质 21.3.4 (菱形对角线)**, \(AC\perp BD\). 
+由**性质 21.3.4 (菱形对角线)**, \(AC\perp{B}D\). 
 
-在 \(Rt\triangle AOB\) 中, \(BO=\sqrt{AB^{2}-AO^{2}}=\sqrt{25-16}=3\). 
+在 \(Rt\triangle{A}OB\) 中, \(BO=\sqrt{AB^{2}-AO^{2}}=\sqrt{25-16}=3\). 
 
-故 \(AC=2AO=8,\ BD=2BO=6\). 
+故 \(AC=2AO=8,\,BD=2BO=6\). 
 
-菱形面积 \(=\frac{1}{2}\times AC\times BD=\frac{1}{2}\times 8\times 6=24\). 
+菱形面积 \(=\frac{1}{2}\times{A}C\times{B}D=\frac{1}{2}\times8\times6=24\). 
 
 \(\blacksquare\)
 
 (练习 21.3.2 第 2 题)
 
-如图, 在菱形 \(ABCD\) 中, \(BD=4,\ \angle A:\angle ABC=1:2\). 求 \(\triangle ABD\) 的周长. 
+如图, 在菱形 \(ABCD\) 中, \(BD=4,\,\angle{A}:\angle{A}BC=1:2\). 求 \(\triangle{A}BD\) 的周长. 
 
-菱形邻角互补, \(\angle A+\angle ABC=180^{\circ}\), 比为 \(1:2\), 故 \(\angle A=60^{\circ}\). 
+菱形邻角互补, \(\angle{A}+\angle{A}BC=180^{\circ}\), 比为 \(1:2\), 故 \(\angle{A}=60^{\circ}\). 
 
-又 \(AB=AD\), \(\triangle ABD\) 为等边三角形, \(AB=AD=BD=4\). 
+又 \(AB=AD\), \(\triangle{A}BD\) 为等边三角形, \(AB=AD=BD=4\). 
 
 故周长 \(=12\). 
 
@@ -82,13 +82,13 @@
 
 (练习 21.3.2 第 3 题)
 
-如图, 在菱形 \(ABCD\) 中, \(\angle A=60^{\circ}\), 连接对角线 \(BD\), \(E,F\) 分别是边 \(AB,BC\) 的中点, 分别连接 \(DE,DF,EF\). 求证: \(\triangle DEF\) 是等边三角形. 
+如图, 在菱形 \(ABCD\) 中, \(\angle{A}=60^{\circ}\), 连接对角线 \(BD\), \(E,F\) 分别是边 \(AB,BC\) 的中点, 分别连接 \(DE,DF,EF\). 求证: \(\triangle{D}EF\) 是等边三角形. 
 
-\(\angle A=60^{\circ}\) 且 \(AB=AD\), \(\triangle ABD\) 等边. 
+\(\angle{A}=60^{\circ}\) 且 \(AB=AD\), \(\triangle{A}BD\) 等边. 
 
-\(E\) 是 \(AB\) 中点, 故 \(DE\perp AB\). 同理 \(DF\perp BC\). 
+\(E\) 是 \(AB\) 中点, 故 \(DE\perp{A}B\). 同理 \(DF\perp{B}C\). 
 
-由菱形对称性及 \(E,F\) 为中点, 可证 \(DE=DF=EF\), 故 \(\triangle DEF\) 等边. 
+由菱形对称性及 \(E,F\) 为中点, 可证 \(DE=DF=EF\), 故 \(\triangle{D}EF\) 等边. 
 
 \(\blacksquare\)
 
@@ -118,9 +118,9 @@
 
 (练习 21.3.2 第 3 题)
 
-一张三角形纸片如图所示, 请你用纸片折出一个菱形, 使 \(\angle A\) 是菱形的一个内角, 和点 \(A\) 相对的顶点在边 \(BC\) 上, 并说明所折图形是菱形的理由. 
+一张三角形纸片如图所示, 请你用纸片折出一个菱形, 使 \(\angle{A}\) 是菱形的一个内角, 和点 \(A\) 相对的顶点在边 \(BC\) 上, 并说明所折图形是菱形的理由. 
 
-将 \(\angle A\) 的两边对折, 使相对顶点落在 \(BC\) 上, 折痕构成菱形的对角线. 
+将 \(\angle{A}\) 的两边对折, 使相对顶点落在 \(BC\) 上, 折痕构成菱形的对角线. 
 
 折出的四边形四边相等, 故为菱形. 
 
@@ -142,13 +142,13 @@
 
 (练习 21.3.3 第 2 题)
 
-如图, 一块正方形场地的四个顶点分别是 \(A,B,C,D\). 在边 \(AB\) 上取一点 \(E\), \(EC=30\ \text{m},\ EB=10\ \text{m}\). 这块场地的面积和对角线长分别是多少? 
+如图, 一块正方形场地的四个顶点分别是 \(A,B,C,D\). 在边 \(AB\) 上取一点 \(E\), \(EC=30\,\text{m},\,EB=10\,\text{m}\). 这块场地的面积和对角线长分别是多少? 
 
-在 \(Rt\triangle EBC\) 中, \(BC=\sqrt{EC^{2}-EB^{2}}=\sqrt{900-100}=\sqrt{800}=20\sqrt{2}\ \text{m}\). 
+在 \(Rt\triangle{E}BC\) 中, \(BC=\sqrt{EC^{2}-EB^{2}}=\sqrt{900-100}=\sqrt{800}=20\sqrt{2}\,\text{m}\). 
 
-面积 \(=BC^{2}=800\ \text{m}^{2}\). 
+面积 \(=BC^{2}=800\,\text{m}^{2}\). 
 
-对角线 \(=\sqrt{2}\cdot BC=40\ \text{m}\). 
+对角线 \(=\sqrt{2}\cdot{B}C=40\,\text{m}\). 
 
 \(\blacksquare\)
 
@@ -156,7 +156,7 @@
 
 如图, 一个正方形草坪的四个顶点分别是 \(A,B,C,D\). 要修建 \(BE\) 和 \(AF\) 两条路, 使点 \(E,F\) 分别在边 \(AD,CD\) 上, 且 \(DE=CF\). 这两条路等长吗? 它们有什么位置关系? 为什么? 
 
-由 \(DE=CF\) 及正方形边长相等, 可证 \(\triangle ADF\cong\triangle DCE\). 
+由 \(DE=CF\) 及正方形边长相等, 可证 \(\triangle{A}DF\cong\triangle{D}CE\). 
 
 故 \(AF=BE\), 且两线互相垂直. 
 
@@ -188,9 +188,9 @@
 
 (练习 21.3.3 第 2 题)
 
-如图, 在 \(Rt\triangle ABC\) 中, \(\angle ACB=90^{\circ}\), \(CD\) 平分 \(\angle ACB\), \(DE\perp BC,\ DF\perp AC\), 垂足分别为 \(E,F\). 求证: 四边形 \(CEDF\) 是正方形. 
+如图, 在 \(Rt\triangle{A}BC\) 中, \(\angle{A}CB=90^{\circ}\), \(CD\) 平分 \(\angle{A}CB\), \(DE\perp{B}C,\,DF\perp{A}C\), 垂足分别为 \(E,F\). 求证: 四边形 \(CEDF\) 是正方形. 
 
-\(\angle C=90^{\circ}\), 且 \(DE\perp BC,\ DF\perp AC\), 故四边形 \(CEDF\) 三个角为直角, 是矩形. 
+\(\angle{C}=90^{\circ}\), 且 \(DE\perp{B}C,\,DF\perp{A}C\), 故四边形 \(CEDF\) 三个角为直角, 是矩形. 
 
 \(CD\) 平分直角, 由角平分线上点到两边距离相等, \(DE=DF\). 
 
@@ -212,9 +212,9 @@
 
 (习题 21.3 复习巩固第 1 题)
 
-如图, 四边形 \(ABCD\) 是平行四边形, 对角线 \(AC,BD\) 相交于点 \(O\), 且 \(\angle 1=\angle 2\). 四边形 \(ABCD\) 是矩形吗? 为什么? 
+如图, 四边形 \(ABCD\) 是平行四边形, 对角线 \(AC,BD\) 相交于点 \(O\), 且 \(\angle1=\angle2\). 四边形 \(ABCD\) 是矩形吗? 为什么? 
 
-由 \(\angle 1=\angle 2\), 得 \(AC=BD\). 
+由 \(\angle1=\angle2\), 得 \(AC=BD\). 
 
 对角线相等的平行四边形是矩形, 故 \(ABCD\) 是矩形. 
 
@@ -232,37 +232,37 @@
 
 (习题 21.3 复习巩固第 3 题)
 
-在 \(Rt\triangle ABC\) 中, \(\angle C=90^{\circ},\ AB=2AC\). 求 \(\angle A,\angle B\) 的度数. 
+在 \(Rt\triangle{A}BC\) 中, \(\angle{C}=90^{\circ},\,AB=2AC\). 求 \(\angle{A},\angle{B}\) 的度数. 
 
 由基础知识, 斜边中线 \(=\frac{1}{2}AB=AC\). 
 
-故 \(\triangle\) 为含 \(30^{\circ}\) 角的直角三角形, \(\angle B=30^{\circ},\ \angle A=60^{\circ}\). 
+故 \(\triangle\) 为含 \(30^{\circ}\) 角的直角三角形, \(\angle{B}=30^{\circ},\,\angle{A}=60^{\circ}\). 
 
 \(\blacksquare\)
 
 (习题 21.3 复习巩固第 4 题)
 
-如图, 四边形 \(ABCD\) 是菱形, \(\angle ACD=30^{\circ},\ BD=6\). 求: 
+如图, 四边形 \(ABCD\) 是菱形, \(\angle{A}CD=30^{\circ},\,BD=6\). 求: 
 
-(1) \(\angle BAD,\ \angle ABC\) 的度数; 
+(1) \(\angle{B}AD,\,\angle{A}BC\) 的度数; 
 
-(2) \(AB,\ AC\) 的长. 
+(2) \(AB,\,AC\) 的长. 
 
-(1) \(\angle ACD=30^{\circ}\), 菱形对角线平分内角, 故 \(\angle BCD=60^{\circ}\), \(\angle BAD=60^{\circ},\ \angle ABC=120^{\circ}\). 
+(1) \(\angle{A}CD=30^{\circ}\), 菱形对角线平分内角, 故 \(\angle{B}CD=60^{\circ}\), \(\angle{B}AD=60^{\circ},\,\angle{A}BC=120^{\circ}\). 
 
-(2) \(BD=6\), 半对角线 \(OD=3\). 在 \(Rt\triangle COD\) 中, \(CD=\frac{OD}{\sin 30^{\circ}}=6\), 故 \(AB=6\). 
+(2) \(BD=6\), 半对角线 \(OD=3\). 在 \(Rt\triangle{C}OD\) 中, \(CD=\frac{OD}{\sin30^{\circ}}=6\), 故 \(AB=6\). 
 
-\(OC=\frac{OD}{\tan 30^{\circ}}=3\sqrt{3}\), 故 \(AC=6\sqrt{3}\). 
+\(OC=\frac{OD}{\tan30^{\circ}}=3\sqrt{3}\), 故 \(AC=6\sqrt{3}\). 
 
 \(\blacksquare\)
 
 (习题 21.3 复习巩固第 5 题)
 
-如图, \(AE\parallel BF\), \(AC\) 平分 \(\angle BAE\) 且交 \(BF\) 于点 \(C\), \(BD\) 平分 \(\angle ABF\) 且交 \(AE\) 于点 \(D\), 连接 \(CD\). 求证: 四边形 \(ABCD\) 是菱形. 
+如图, \(AE\parallel{B}F\), \(AC\) 平分 \(\angle{B}AE\) 且交 \(BF\) 于点 \(C\), \(BD\) 平分 \(\angle{A}BF\) 且交 \(AE\) 于点 \(D\), 连接 \(CD\). 求证: 四边形 \(ABCD\) 是菱形. 
 
-由 \(AE\parallel BF\), 可得 \(\angle DAC=\angle ACB\), 结合角平分线得 \(AB=BC\), \(AB=AD\). 
+由 \(AE\parallel{B}F\), 可得 \(\angle{D}AC=\angle{A}CB\), 结合角平分线得 \(AB=BC\), \(AB=AD\). 
 
-故 \(AD\parallel BC\) 且 \(AD=AB=BC\), 四边形是平行四边形且邻边相等, 是菱形. 
+故 \(AD\parallel{B}C\) 且 \(AD=AB=BC\), 四边形是平行四边形且邻边相等, 是菱形. 
 
 \(\blacksquare\)
 
@@ -270,9 +270,9 @@
 
 如图, \(E\) 是正方形 \(ABCD\) 的对角线 \(BD\) 上一点, 且 \(BE=BC\), 过点 \(E\) 且与 \(BD\) 垂直的直线交 \(CD\) 于点 \(F\), 连接 \(BF\). \(DE\) 与 \(CF\) 相等吗? 说一说你的理由. 
 
-由 \(BE=BC\), \(BF\) 公共, \(\triangle BEF\cong\triangle BCF\), 可证 \(EF=CF\). 
+由 \(BE=BC\), \(BF\) 公共, \(\triangle{B}EF\cong\triangle{B}CF\), 可证 \(EF=CF\). 
 
-又 \(\triangle DEF\) 等腰直角, \(DE=EF\). 
+又 \(\triangle{D}EF\) 等腰直角, \(DE=EF\). 
 
 故 \(DE=CF\). 
 
@@ -290,37 +290,37 @@
 
 (习题 21.3 综合运用第 8 题)
 
-如图, 将矩形纸片 \(ABCD\) 沿直线 \(BD\) 折叠, 使点 \(C\) 落在 \(C'\) 处, \(BC'\), \(AD\) 相交于点 \(E\), \(AD=8\ \text{cm},\ AB=4\ \text{cm}\). \(DE\) 的长是多少? \(\triangle BDE\) 的面积呢? 
+如图, 将矩形纸片 \(ABCD\) 沿直线 \(BD\) 折叠, 使点 \(C\) 落在 \(C'\) 处, \(BC'\), \(AD\) 相交于点 \(E\), \(AD=8\,\text{cm},\,AB=4\,\text{cm}\). \(DE\) 的长是多少? \(\triangle{B}DE\) 的面积呢? 
 
-折叠后 \(\angle EBD=\angle DBC=\angle EDB\), 故 \(\triangle EBD\) 等腰, \(EB=ED\). 
+折叠后 \(\angle{E}BD=\angle{D}BC=\angle{E}DB\), 故 \(\triangle{E}BD\) 等腰, \(EB=ED\). 
 
-设 \(DE=x\), 则 \(AE=8-x\). 在 \(Rt\triangle ABE\) 中, \(AB^{2}+AE^{2}=BE^{2}\), 即
+设 \(DE=x\), 则 \(AE=8-x\). 在 \(Rt\triangle{A}BE\) 中, \(AB^{2}+AE^{2}=BE^{2}\), 即
 
 $$
-16+\left(8-x\right)^{2}=x^{2},\quad 16+64-16x=0,\quad x=5.
+16+\left(8-x\right)^{2}=x^{2},\quad16+64-16x=0,\quad{x}=5.
 $$
 
-故 \(DE=5\ \text{cm}\). 
+故 \(DE=5\,\text{cm}\). 
 
-面积 \(=\frac{1}{2}\times DE\times AB=\frac{1}{2}\times 5\times 4=10\ \text{cm}^{2}\). 
+面积 \(=\frac{1}{2}\times{D}E\times{A}B=\frac{1}{2}\times5\times4=10\,\text{cm}^{2}\). 
 
 \(\blacksquare\)
 
 (习题 21.3 综合运用第 9 题)
 
-如图, 在 \(Rt\triangle ABC\) 中, \(\angle ACB=90^{\circ}\), \(CD\perp AB\), 垂足为 \(D\), \(\angle ACD=3\angle BCD\), \(E\) 是边 \(AB\) 的中点. \(\angle ECD\) 是多少度? 为什么? 
+如图, 在 \(Rt\triangle{A}BC\) 中, \(\angle{A}CB=90^{\circ}\), \(CD\perp{A}B\), 垂足为 \(D\), \(\angle{A}CD=3\angle{B}CD\), \(E\) 是边 \(AB\) 的中点. \(\angle{E}CD\) 是多少度? 为什么? 
 
-\(\angle ACB=90^{\circ}\), \(\angle ACD=3\angle BCD\), 故 \(\angle BCD=22.5^{\circ},\ \angle ACD=67.5^{\circ}\). 
+\(\angle{A}CB=90^{\circ}\), \(\angle{A}CD=3\angle{B}CD\), 故 \(\angle{B}CD=22.5^{\circ},\,\angle{A}CD=67.5^{\circ}\). 
 
-由基础知识, \(CE=AE=BE\), \(\angle ECA=\angle A=22.5^{\circ}\). 
+由基础知识, \(CE=AE=BE\), \(\angle{E}CA=\angle{A}=22.5^{\circ}\). 
 
-故 \(\angle ECD=\angle ACD-\angle ECA=67.5^{\circ}-22.5^{\circ}=45^{\circ}\). 
+故 \(\angle{E}CD=\angle{A}CD-\angle{E}CA=67.5^{\circ}-22.5^{\circ}=45^{\circ}\). 
 
 \(\blacksquare\)
 
 (习题 21.3 综合运用第 10 题)
 
-如图, 四边形 \(ABCD\) 是菱形, 点 \(M,N\) 分别在 \(AB,AD\) 上, 且 \(BM=DN\), \(MG\parallel AD\), \(NF\parallel AB\); 点 \(F,G\) 分别在 \(BC,CD\) 上, \(MG\) 与 \(NF\) 相交于点 \(E\). 求证: 四边形 \(AMEN\), \(EFCG\) 都是菱形. 
+如图, 四边形 \(ABCD\) 是菱形, 点 \(M,N\) 分别在 \(AB,AD\) 上, 且 \(BM=DN\), \(MG\parallel{A}D\), \(NF\parallel{A}B\); 点 \(F,G\) 分别在 \(BC,CD\) 上, \(MG\) 与 \(NF\) 相交于点 \(E\). 求证: 四边形 \(AMEN\), \(EFCG\) 都是菱形. 
 
 由平行关系, \(AMEN\) 与 \(EFCG\) 都是平行四边形. 
 
@@ -332,13 +332,13 @@ $$
 
 (习题 21.3 综合运用第 11 题)
 
-如图, 四边形 \(ABCD\) 是菱形, 对角线 \(AC,BD\) 相交于点 \(O\), \(AC=8,\ BD=6,\ DH\perp AB\), 垂足为 \(H\). 求 \(DH\) 的长. 
+如图, 四边形 \(ABCD\) 是菱形, 对角线 \(AC,BD\) 相交于点 \(O\), \(AC=8,\,BD=6,\,DH\perp{A}B\), 垂足为 \(H\). 求 \(DH\) 的长. 
 
-菱形面积 \(=\frac{1}{2}\times 8\times 6=24\). 
+菱形面积 \(=\frac{1}{2}\times8\times6=24\). 
 
 边长 \(AB=\sqrt{4^{2}+3^{2}}=5\). 
 
-又面积 \(=AB\times DH\), 故 \(DH=\frac{24}{5}=4.8\). 
+又面积 \(=AB\times{D}H\), 故 \(DH=\frac{24}{5}=4.8\). 
 
 \(\blacksquare\)
 
@@ -352,9 +352,9 @@ $$
 
 (1) \(C(b,d)\). 
 
-(2) 由菱形对角线互相平分且垂直, \(A(-c,0),\ B(0,-d)\). 
+(2) 由菱形对角线互相平分且垂直, \(A(-c,0),\,B(0,-d)\). 
 
-(3) \(B(d,0),\ C(d,d)\). 
+(3) \(B(d,0),\,C(d,d)\). 
 
 \(\blacksquare\)
 
@@ -392,9 +392,9 @@ $$
 
 (习题 21.3 拓广探索第 16 题)
 
-如图, 四边形 \(ABCD\) 是正方形. \(G\) 是边 \(BC\) 上任意一点, \(DE\perp AG\), 垂足为 \(E\); \(BF\parallel DE\), 交 \(AG\) 于点 \(F\). 求证: \(AF-BF=EF\). 
+如图, 四边形 \(ABCD\) 是正方形. \(G\) 是边 \(BC\) 上任意一点, \(DE\perp{A}G\), 垂足为 \(E\); \(BF\parallel{D}E\), 交 \(AG\) 于点 \(F\). 求证: \(AF-BF=EF\). 
 
-由 \(\triangle ABF\cong\triangle DAE\), 得 \(AF=DE,\ BF=AE\). 
+由 \(\triangle{A}BF\cong\triangle{D}AE\), 得 \(AF=DE,\,BF=AE\). 
 
 故 \(AF-BF=DE-AE=EF\). 
 
@@ -402,7 +402,7 @@ $$
 
 (习题 21.3 拓广探索第 17 题)
 
-如图, 在 \(\triangle ABC\) 中, \(BD,CE\) 分别是边 \(AC,AB\) 上的中线, \(BD\) 与 \(CE\) 相交于点 \(O\). \(BO\) 与 \(OD\) 的长度有什么关系? \(BC\) 边上的中线是否一定过点 \(O\)? 为什么? 
+如图, 在 \(\triangle{A}BC\) 中, \(BD,CE\) 分别是边 \(AC,AB\) 上的中线, \(BD\) 与 \(CE\) 相交于点 \(O\). \(BO\) 与 \(OD\) 的长度有什么关系? \(BC\) 边上的中线是否一定过点 \(O\)? 为什么? 
 
 由三角形中位线定理可证 \(BO:OD=2:1\). 
 
@@ -412,11 +412,11 @@ $$
 
 (习题 21.3 拓广探索第 18 题)
 
-如图, 在四边形 \(ABCD\) 中, \(AD\parallel BC,\ \angle B=90^{\circ}\), \(AD=24\ \text{cm},\ BC=26\ \text{cm}\). 点 \(P\) 从点 \(A\) 出发, 以 \(1\ \text{cm/s}\) 的速度向点 \(D\) 运动; 同时点 \(Q\) 从点 \(C\) 出发, 以 \(3\ \text{cm/s}\) 的速度向点 \(B\) 运动. 从运动开始, 需经过多长时间, 才能使 \(PQ=CD\)? 为什么? 
+如图, 在四边形 \(ABCD\) 中, \(AD\parallel{B}C,\,\angle{B}=90^{\circ}\), \(AD=24\,\text{cm},\,BC=26\,\text{cm}\). 点 \(P\) 从点 \(A\) 出发, 以 \(1\,\text{cm/s}\) 的速度向点 \(D\) 运动; 同时点 \(Q\) 从点 \(C\) 出发, 以 \(3\,\text{cm/s}\) 的速度向点 \(B\) 运动. 从运动开始, 需经过多长时间, 才能使 \(PQ=CD\)? 为什么? 
 
-设经过 \(t\) 秒, \(AP=t,\ CQ=3t\). 
+设经过 \(t\) 秒, \(AP=t,\,CQ=3t\). 
 
-要使 \(PQ=CD\), 即 \(PQ\parallel CD\), 需 \(PD=QC\), 即 \(24-t=3t\), 解得 \(t=6\) 秒. 
+要使 \(PQ=CD\), 即 \(PQ\parallel{C}D\), 需 \(PD=QC\), 即 \(24-t=3t\), 解得 \(t=6\) 秒. 
 
 \(\blacksquare\)
 
@@ -424,7 +424,7 @@ $$
 
 (探究与发现 利用菱形的性质和判定尺规作图)
 
-利用菱形对角线平分一组对角的性质作给定角 \(\angle MON\) 的平分线: 以 \(O\) 为圆心作弧交两边于 \(A,B\), 再以 \(A,B\) 为圆心, \(OA\) 为半径作弧交于 \(P\), 则 \(OP\) 为角平分线. 请说明作一条线段垂直平分线的道理. 
+利用菱形对角线平分一组对角的性质作给定角 \(\angle{M}ON\) 的平分线: 以 \(O\) 为圆心作弧交两边于 \(A,B\), 再以 \(A,B\) 为圆心, \(OA\) 为半径作弧交于 \(P\), 则 \(OP\) 为角平分线. 请说明作一条线段垂直平分线的道理. 
 
 同样利用对角线互相垂直平分的四边形是菱形, 两弧交点与线段两端构成菱形, 其连线即为垂直平分线. 
 
@@ -438,9 +438,9 @@ $$
 
 设 \(MN=2\), 则正方形 \(MNAB\) 边长为 \(2\). 
 
-第二步对折后, \(D\) 为 \(MN\) 中点, 故 \(CD=1,\ BC=2\). 
+第二步对折后, \(D\) 为 \(MN\) 中点, 故 \(CD=1,\,BC=2\). 
 
-在 \(Rt\triangle BCD\) 中, 由**定理 20.1.1 (勾股定理)**, 
+在 \(Rt\triangle{B}CD\) 中, 由**定理 20.1.1 (勾股定理)**, 
 
 $$
 BD=\sqrt{BC^{2}+CD^{2}}=\sqrt{4+1}=\sqrt{5}.
@@ -492,15 +492,15 @@ $$
 
 (3) 若菱形的周长为 \(8\), 高为 \(1\), 则菱形两个相邻的内角的度数比为(　). 
 
-(4) 如图, 在正方形 \(ABCD\) 的外侧, 作等边三角形 \(ADE\), 则 \(\angle AEB\) 为(　). 
+(4) 如图, 在正方形 \(ABCD\) 的外侧, 作等边三角形 \(ADE\), 则 \(\angle{A}EB\) 为(　). 
 
-(1) 四角和 \(360^{\circ}\), 共 \(10\) 份, 每份 \(36^{\circ}\), 最大角 \(4\times 36^{\circ}=144^{\circ}\), 选 (C). 
+(1) 四角和 \(360^{\circ}\), 共 \(10\) 份, 每份 \(36^{\circ}\), 最大角 \(4\times36^{\circ}=144^{\circ}\), 选 (C). 
 
 (2) 平行四边形邻角互补, 比 \(1:2\), 较小角 \(60^{\circ}\), 选 (B). 
 
 (3) 菱形边长 \(2\), 高 \(1\), 则 \(\sin\theta=\frac{1}{2}\), 锐角 \(30^{\circ}\), 邻角 \(150^{\circ}\), 比 \(5:1\), 选 (C). 
 
-(4) \(AB=AE\), \(\angle BAE=90^{\circ}+60^{\circ}=150^{\circ}\), 等腰 \(\triangle ABE\) 中 \(\angle AEB=\frac{180^{\circ}-150^{\circ}}{2}=15^{\circ}\), 选 (B). 
+(4) \(AB=AE\), \(\angle{B}AE=90^{\circ}+60^{\circ}=150^{\circ}\), 等腰 \(\triangle{A}BE\) 中 \(\angle{A}EB=\frac{180^{\circ}-150^{\circ}}{2}=15^{\circ}\), 选 (B). 
 
 \(\blacksquare\)
 
@@ -512,17 +512,17 @@ $$
 
 由基础知识, 边数 \(n=\frac{360^{\circ}}{45^{\circ}}=8\). 
 
-由基础知识, 内角和 \(=(8-2)\times 180^{\circ}=1080^{\circ}\). 
+由基础知识, 内角和 \(=(8-2)\times180^{\circ}=1080^{\circ}\). 
 
 \(\blacksquare\)
 
 (复习题 复习巩固第 3 题)
 
-如图, 将 \(\square ABCD\) 的对角线 \(BD\) 向两个方向延长, 分别至点 \(E,F\), 且使 \(BE=DF\). 求证: 四边形 \(AECF\) 是平行四边形. 
+如图, 将 \(\square{A}BCD\) 的对角线 \(BD\) 向两个方向延长, 分别至点 \(E,F\), 且使 \(BE=DF\). 求证: 四边形 \(AECF\) 是平行四边形. 
 
 连接 \(AC\) 交 \(BD\) 于 \(O\). 
 
-由**性质 21.2.3 (对角线)**, \(OA=OC,\ OB=OD\). 
+由**性质 21.2.3 (对角线)**, \(OA=OC,\,OB=OD\). 
 
 又 \(BE=DF\), 故 \(OB+BE=OD+DF\), 即 \(OE=OF\). 
 
@@ -554,9 +554,9 @@ $$
 
 (复习题 复习巩固第 6 题)
 
-如图, 矩形 \(ABCD\) 的对角线 \(AC,BD\) 相交于点 \(O\), 且 \(DE\parallel AC,\ CE\parallel BD\). 求证: 四边形 \(OCED\) 是菱形. 
+如图, 矩形 \(ABCD\) 的对角线 \(AC,BD\) 相交于点 \(O\), 且 \(DE\parallel{A}C,\,CE\parallel{B}D\). 求证: 四边形 \(OCED\) 是菱形. 
 
-由 \(DE\parallel OC,\ CE\parallel OD\), 四边形 \(OCED\) 是平行四边形. 
+由 \(DE\parallel{O}C,\,CE\parallel{O}D\), 四边形 \(OCED\) 是平行四边形. 
 
 由**性质 21.3.2 (矩形对角线)**, 矩形对角线相等且平分, 故 \(OC=OD\). 
 
@@ -568,7 +568,7 @@ $$
 
 如图, 正方形 \(ABCD\) 的对角线 \(AC,BD\) 相交于点 \(O\), 且 \(E,F,G,H\) 分别是 \(AO,BO,CO,DO\) 的中点. 求证: 四边形 \(EFGH\) 是正方形. 
 
-由三角形中位线定理, \(EF\parallel AB\parallel GH\), \(FG\parallel BC\parallel HE\), 四边形 \(EFGH\) 是平行四边形. 
+由三角形中位线定理, \(EF\parallel{A}B\parallel{G}H\), \(FG\parallel{B}C\parallel{H}E\), 四边形 \(EFGH\) 是平行四边形. 
 
 正方形对角线互相垂直且相等, 故中点四边形邻边相等且垂直. 
 

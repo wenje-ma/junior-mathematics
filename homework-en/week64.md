@@ -2,7 +2,7 @@
 
 > **Property 29.1.1 (Position of a Point Relative to a Circle)**
 > 
-> Let the radius of $\odot O$ be $r$, and let the distance from the point $P$ to the center be $OP=d$. Then: the point $P$ is outside the circle $\Leftrightarrow d> r$; the point $P$ is on the circle $\Leftrightarrow d=r$; the point $P$ is inside the circle $\Leftrightarrow d< r$.
+> Let the radius of $\odot{O}$ be $r$, and let the distance from the point $P$ to the center be $OP=d$. Then: the point $P$ is outside the circle $\Leftrightarrow{d}>{}r$; the point $P$ is on the circle $\Leftrightarrow{d}=r$; the point $P$ is inside the circle $\Leftrightarrow{d}<{}r$.
 
 > **Theorem 29.1.1 (Three Points Determine a Circle)**
 > 
@@ -30,7 +30,7 @@
 
 > **Formula 29.3.1 (Arc Length Formula)**
 > 
-> In a circle of radius $R$, the arc length subtended by a central angle of $n^\circ$ is $l=\frac{n\pi R}{180}$.
+> In a circle of radius $R$, the arc length subtended by a central angle of $n^\circ$ is $l=\frac{n\pi{R}}{180}$.
 
 > **Definition 29.3.1 (Generatrix of a Cone)**
 > 
@@ -38,15 +38,15 @@
 
 > **Formula 29.3.2 (Sector Area Formula)**
 > 
-> In a circle of radius $R$, the area of a sector with central angle $n^\circ$ is $S=\frac{n\pi R^2}{360}=\frac12 lR$, where $l$ is the arc length of the sector.
+> In a circle of radius $R$, the area of a sector with central angle $n^\circ$ is $S=\frac{n\pi{R}^2}{360}=\frac12lR$, where $l$ is the arc length of the sector.
 
 > **Formula 29.3.2 (Sector Area)**
 > 
-> $S=\frac{n\pi R^2}{360}=\frac12 lR$.
+> $S=\frac{n\pi{R}^2}{360}=\frac12lR$.
 
 > **Formula 29.3.3 (Lateral and Total Surface Area of a Cone)**
 > 
-> If the generatrix length of a cone is $l$ and the base radius is $r$, then the lateral area is $\pi rl$ and the total surface area is $\pi r\left(r+l\right)$.
+> If the generatrix length of a cone is $l$ and the base radius is $r$, then the lateral area is $\pi{r}l$ and the total surface area is $\pi{r}\left(r+l\right)$.
 
 > **Definition 30.1.1 (Position of a Line Relative to a Circle)**
 > 
@@ -54,7 +54,7 @@
 
 > **Property 30.1.1 (Position-Relation Criterion)**
 > 
-> Let the radius of $\odot O$ be $r$ and the distance from the center to the line be $d$; then $d> r$ means disjoint, $d=r$ means tangent, and $d< r$ means intersecting.
+> Let the radius of $\odot{O}$ be $r$ and the distance from the center to the line be $d$; then $d>{}r$ means disjoint, $d=r$ means tangent, and $d<{}r$ means intersecting.
 
 > **Theorem 30.1.1 (Tangent Property)**
 > 
@@ -82,13 +82,13 @@ Method 2: Draw a concentric small circle (with radius half that of the large cir
 
 ## Activity 1
 
-(Mathematical Activity, Activity 1, Dividing the Circumference into Four Equal Parts) Draw any diameter $AB$ of $\odot O$; through the point $O$ draw a perpendicular to $AB$, intersecting $\odot O$ at the two points $C$ and $D$. Then the points $A$, $B$, $C$, $D$ divide $\odot O$ into four equal parts. Can you explain the reasoning? Further, how does one divide the circumference into eight equal parts or sixteen equal parts?
+(Mathematical Activity, Activity 1, Dividing the Circumference into Four Equal Parts) Draw any diameter $AB$ of $\odot{O}$; through the point $O$ draw a perpendicular to $AB$, intersecting $\odot{O}$ at the two points $C$ and $D$. Then the points $A$, $B$, $C$, $D$ divide $\odot{O}$ into four equal parts. Can you explain the reasoning? Further, how does one divide the circumference into eight equal parts or sixteen equal parts?
 
 ### Solution to Activity 1
 
 By **Theorem 29.2.2 (Relationship Among Central Angles, Arcs, and Chords)**.
 
-$AB$ is a diameter and $OC\perp AB$, so $\angle AOC=\angle COB=\angle BOD=\angle DOA=90^\circ$. Since equal central angles subtend equal arcs, $\overset{\frown}{AC}=\overset{\frown}{CB}=\overset{\frown}{BD}=\overset{\frown}{DA}$, dividing the circumference into four equal parts.
+$AB$ is a diameter and $OC\perp{A}B$, so $\angle{A}OC=\angle{C}OB=\angle{B}OD=\angle{D}OA=90^\circ$. Since equal central angles subtend equal arcs, $\overset{\frown}{AC}=\overset{\frown}{CB}=\overset{\frown}{BD}=\overset{\frown}{DA}$, dividing the circumference into four equal parts.
 
 Eight equal parts: draw the angle bisector of the central angle ($90^\circ$) subtended by two adjacent division points, giving a $45^\circ$ central angle; sixteen equal parts: bisect again to get $22.5^\circ$. $\blacksquare$
 
@@ -100,17 +100,17 @@ Eight equal parts: draw the angle bisector of the central angle ($90^\circ$) sub
 
 By Property of a Cyclic Quadrilateral and its converse.
 
-The condition that a circle can be drawn through the four vertices of a quadrilateral is that the opposite angles of the quadrilateral are supplementary. If $\angle B+\angle D=180^\circ$, then the four points are concyclic; otherwise they are not. Proof: suppose a circle is drawn through the three points $A$, $B$, $C$; if $D$ lies on the circle, then $\angle B+\angle D=180^\circ$; if it does not, then the sum of $\angle B$ and $\angle D$ is not equal to $180^\circ$. Hence supplementary opposite angles is a necessary and sufficient condition for four points to be concyclic. $\blacksquare$
+The condition that a circle can be drawn through the four vertices of a quadrilateral is that the opposite angles of the quadrilateral are supplementary. If $\angle{B}+\angle{D}=180^\circ$, then the four points are concyclic; otherwise they are not. Proof: suppose a circle is drawn through the three points $A$, $B$, $C$; if $D$ lies on the circle, then $\angle{B}+\angle{D}=180^\circ$; if it does not, then the sum of $\angle{B}$ and $\angle{D}$ is not equal to $180^\circ$. Hence supplementary opposite angles is a necessary and sufficient condition for four points to be concyclic. $\blacksquare$
 
 ## Review Problem 1
 
 (Review Problem 29, Review and Consolidation, Problem 1) Multiple choice.
 
-(1) As shown in the figure, the diameter of $\odot O$ is $AB=10$, $CD$ is a chord of $\odot O$, $AB\perp CD$ with foot $M$, and $OM:OA=3:5$. Then the length of $CD$ is ( ).
+(1) As shown in the figure, the diameter of $\odot{O}$ is $AB=10$, $CD$ is a chord of $\odot{O}$, $AB\perp{C}D$ with foot $M$, and $OM:OA=3:5$. Then the length of $CD$ is ( ).
 
 (A) $9\sqrt{1}$ (B) $8$ (C) $6$ (D) $4$
 
-(2) As shown in the figure, in $\odot O$, the chords $AB$ and $CD$ intersect at the point $P$, $\angle A=40^\circ$, and $\angle APD=75^\circ$. Then $\angle B=$ ( ).
+(2) As shown in the figure, in $\odot{O}$, the chords $AB$ and $CD$ intersect at the point $P$, $\angle{A}=40^\circ$, and $\angle{A}PD=75^\circ$. Then $\angle{B}=$ ( ).
 
 (A) $15^\circ$ (B) $40^\circ$ (C) $75^\circ$ (D) $35^\circ$
 
@@ -122,9 +122,9 @@ The condition that a circle can be drawn through the four vertices of a quadrila
 
 (1) $OA=5$, $OM=3$, $CM=\sqrt{25-9}=4$, $CD=2CM=8$, choose (B).
 
-(2) $\angle A=\angle D=40^\circ$ (same arc $\overset{\frown}{BC}$), and $\angle APD=\angle D+\angle B$, so $\angle B=75^\circ-40^\circ=35^\circ$, choose (D).
+(2) $\angle{A}=\angle{D}=40^\circ$ (same arc $\overset{\frown}{BC}$), and $\angle{A}PD=\angle{D}+\angle{B}$, so $\angle{B}=75^\circ-40^\circ=35^\circ$, choose (D).
 
-(3) The lateral area is $\pi rl=2\pi r^2$, so $l=2r$. The central angle $n$ satisfies $\frac{n\pi l}{180}=2\pi r$, i.e. $n\cdot2r=360r$, so $n=180^\circ$, choose (B). $\blacksquare$
+(3) The lateral area is $\pi{r}l=2\pi{r}^2$, so $l=2r$. The central angle $n$ satisfies $\frac{n\pi{l}}{180}=2\pi{r}$, i.e. $n\cdot2r=360r$, so $n=180^\circ$, choose (B). $\blacksquare$
 
 ## Review Problem 2
 
@@ -138,9 +138,9 @@ Draw the perpendicular bisector of $AB$; with $A$ as center and radius $3\,\text
 
 ## Review Problem 3
 
-(Review Problem 29, Review and Consolidation, Problem 3) As shown in the figure, the quadrilateral $ABCD$ is a quadrilateral inscribed in $\odot O$, $AC$ is a diameter, and $AC\perp BD$ with foot $E$.
+(Review Problem 29, Review and Consolidation, Problem 3) As shown in the figure, the quadrilateral $ABCD$ is a quadrilateral inscribed in $\odot{O}$, $AC$ is a diameter, and $AC\perp{B}D$ with foot $E$.
 
-(1) If $\angle BAD=70^\circ$, find the measures of the remaining angles of the quadrilateral $ABCD$;
+(1) If $\angle{B}AD=70^\circ$, find the measures of the remaining angles of the quadrilateral $ABCD$;
 
 (2) If $AC=10$ and $BD=8$, find the lengths of $AE$ and $CE$.
 
@@ -148,13 +148,13 @@ Draw the perpendicular bisector of $AB$; with $A$ as center and radius $3\,\text
 
 By Basic Knowledge and **Theorem 29.2.1 (Perpendicular Chord Theorem)**.
 
-(1) $AC$ is a diameter, so $\angle ABC=\angle ADC=90^\circ$. $\angle BCD=180^\circ-\angle BAD=110^\circ$.
+(1) $AC$ is a diameter, so $\angle{A}BC=\angle{A}DC=90^\circ$. $\angle{B}CD=180^\circ-\angle{B}AD=110^\circ$.
 
-(2) $AC\perp BD$, $E$ is the foot, and $BE=ED=4$. Let $AE=x$ and $CE=10-x$. By the intersecting-chord theorem (or similarity), $AE\cdot CE=BE\cdot DE=16$, i.e. $x\left(10-x\right)=16$, $x^2-10x+16=0$, so $x=2$ or $8$. Hence $AE=2$, $CE=8$ (or vice versa). $\blacksquare$
+(2) $AC\perp{B}D$, $E$ is the foot, and $BE=ED=4$. Let $AE=x$ and $CE=10-x$. By the intersecting-chord theorem (or similarity), $AE\cdot{C}E=BE\cdot{D}E=16$, i.e. $x\left(10-x\right)=16$, $x^2-10x+16=0$, so $x=2$ or $8$. Hence $AE=2$, $CE=8$ (or vice versa). $\blacksquare$
 
 ## Review Problem 4
 
-(Review Problem 29, Review and Consolidation, Problem 4) As shown in the figure, there is a sector-shaped lawn of radius $18\,\text{m}$ in a park. To go from place $A$ to place $B$, there are a scenic road (the arc $\overset{\frown}{AB}$) and a convenience road (the segment $AB$), with $\angle AOB=120^\circ$.
+(Review Problem 29, Review and Consolidation, Problem 4) As shown in the figure, there is a sector-shaped lawn of radius $18\,\text{m}$ in a park. To go from place $A$ to place $B$, there are a scenic road (the arc $\overset{\frown}{AB}$) and a convenience road (the segment $AB$), with $\angle{A}OB=120^\circ$.
 
 (1) Find the area of the sector-shaped lawn;
 
@@ -176,7 +176,7 @@ By Basic Knowledge and Basic Knowledge.
 
 By Arc Length Formula.
 
-Let the radius of the large semicircle be $R$, and the radii of the small semicircles be $r_i$. Since the sum of the diameters of the small semicircles equals the diameter of the large semicircle, $\sum 2r_i=2R$, so $\sum r_i=R$. $L_1=\pi R$, and $L_2=\sum \pi r_i=\pi R$. Hence $L_1=L_2$. $\blacksquare$
+Let the radius of the large semicircle be $R$, and the radii of the small semicircles be $r_i$. Since the sum of the diameters of the small semicircles equals the diameter of the large semicircle, $\sum2r_i=2R$, so $\sum{r}_i=R$. $L_1=\pi{R}$, and $L_2=\sum\pi{r}_i=\pi{R}$. Hence $L_1=L_2$. $\blacksquare$
 
 ## Review Problem 6
 
@@ -226,7 +226,7 @@ Draw the perpendicular bisectors of $AB$ and $BC$ to find the center, then measu
 
 By **Theorem 29.2.3 (Inscribed Angle Theorem)**.
 
-Compare $\angle PAQ$ and $\angle PBQ$: the larger viewing angle gives the better shooting opportunity. If the angle subtended by the goal $PQ$ at $B$ is larger, it is better to pass to B; otherwise it is better for A to shoot directly. $\blacksquare$
+Compare $\angle{P}AQ$ and $\angle{P}BQ$: the larger viewing angle gives the better shooting opportunity. If the angle subtended by the goal $PQ$ at $B$ is larger, it is better to pass to B; otherwise it is better for A to shoot directly. $\blacksquare$
 
 ## Review Problem 11
 
@@ -256,17 +256,17 @@ Compute the sum of the lateral area of the cylinder and the lateral area of the 
 
 ## Review Problem 13
 
-(Review Problem 29, Extension and Exploration, Problem 13) As shown in the figure, in $\triangle ABC$, $\angle A=60^\circ$, and $\odot O$ with diameter $BC$ intersects the sides $AB$ and $AC$ of $\triangle ABC$ at the two points $D$ and $E$. Determine the shape of $\triangle ODE$ and explain why.
+(Review Problem 29, Extension and Exploration, Problem 13) As shown in the figure, in $\triangle{A}BC$, $\angle{A}=60^\circ$, and $\odot{O}$ with diameter $BC$ intersects the sides $AB$ and $AC$ of $\triangle{A}BC$ at the two points $D$ and $E$. Determine the shape of $\triangle{O}DE$ and explain why.
 
 ### Solution to Review Problem 13
 
 By **Theorem 29.2.3 (Inscribed Angle Theorem)**.
 
-$BC$ is a diameter, so $\angle BDC=\angle BEC=90^\circ$. $\angle DOE=2\angle DBE=2\angle A=120^\circ$. Also $OD=OE$, so $\triangle ODE$ is an isosceles triangle with vertex angle $120^\circ$. $\blacksquare$
+$BC$ is a diameter, so $\angle{B}DC=\angle{B}EC=90^\circ$. $\angle{D}OE=2\angle{D}BE=2\angle{A}=120^\circ$. Also $OD=OE$, so $\triangle{O}DE$ is an isosceles triangle with vertex angle $120^\circ$. $\blacksquare$
 
 ## Review Problem 14
 
-(Review Problem 29, Extension and Exploration, Problem 14) As shown in the figure, $\triangle ABC$ is a triangle inscribed in $\odot O$, $AB$ is a diameter, and through the point $C$ draw $CD\perp AB$ with foot $D$. Let $AD=a$ and $BD=b$.
+(Review Problem 29, Extension and Exploration, Problem 14) As shown in the figure, $\triangle{A}BC$ is a triangle inscribed in $\odot{O}$, $AB$ is a diameter, and through the point $C$ draw $CD\perp{A}B$ with foot $D$. Let $AD=a$ and $BD=b$.
 
 (1) Express $OC$ and $CD$ in terms of $a$ and $b$ respectively;
 
@@ -276,7 +276,7 @@ $BC$ is a diameter, so $\angle BDC=\angle BEC=90^\circ$. $\angle DOE=2\angle DBE
 
 By **Theorem 29.2.1 (Perpendicular Chord Theorem)** and **Corollary 29.2.2 (Corollary to the Inscribed Angle Theorem)**.
 
-(1) $AB=a+b$, and $OC=\frac{a+b}{2}$. By the altitude-orthogonality theorem, $CD^2=AD\cdot BD=ab$, so $CD=\sqrt{ab}$.
+(1) $AB=a+b$, and $OC=\frac{a+b}{2}$. By the altitude-orthogonality theorem, $CD^2=AD\cdot{B}D=ab$, so $CD=\sqrt{ab}$.
 
 (2) $OC=\frac{a+b}{2}\ge\sqrt{ab}=CD$, i.e. $\frac{a+b}{2}\ge\sqrt{ab}$ (the arithmetic-geometric mean inequality). $\blacksquare$
 
@@ -296,15 +296,15 @@ what is the position of the line relative to the circle in each case? How many c
 
 By Position-Relation Criterion, $r=6.5$.
 
-(1) $d=4.5< 6.5$, intersecting, two common points.
+(1) $d=4.5<6.5$, intersecting, two common points.
 
 (2) $d=6.5=r$, tangent, one common point.
 
-(3) $d=8> 6.5$, disjoint, no common points. $\blacksquare$
+(3) $d=8>6.5$, disjoint, no common points. $\blacksquare$
 
 ## Exercise 2
 
-(Exercise 30.1, Problem 2) As shown in the figure, $\angle AOB=30^\circ$, $M$ is a point on $OB$, and $OM=5$. Determine the position of the line $OA$ relative to a circle centered at the point $M$ with the following radii $r$:
+(Exercise 30.1, Problem 2) As shown in the figure, $\angle{A}OB=30^\circ$, $M$ is a point on $OB$, and $OM=5$. Determine the position of the line $OA$ relative to a circle centered at the point $M$ with the following radii $r$:
 
 (1) $r=2$;
 
@@ -318,31 +318,31 @@ By Position-Relation Criterion.
 
 The distance from $M$ to $OA$ is $d=OM\sin30^\circ=2.5$.
 
-(1) $r=2< 2.5$, disjoint.
+(1) $r=2<2.5$, disjoint.
 
-(2) $r=4> 2.5$, intersecting.
+(2) $r=4>2.5$, intersecting.
 
 (3) $r=2.5=d$, tangent. $\blacksquare$
 
 ## Exercise 3
 
-(Exercise 30.1, Problem 1) As shown in the figure, $AB$ is a diameter of $\odot O$, $\angle ABC=45^\circ$, and $AC=AB$. Prove that $AC$ is a tangent line to $\odot O$.
+(Exercise 30.1, Problem 1) As shown in the figure, $AB$ is a diameter of $\odot{O}$, $\angle{A}BC=45^\circ$, and $AC=AB$. Prove that $AC$ is a tangent line to $\odot{O}$.
 
 ### Solution to Exercise 3
 
 By **Theorem 30.1.2 (Tangent Criterion)**.
 
-$AB$ is a diameter, and $O$ lies on $AB$. $AB=AC$ and $\angle ABC=45^\circ$, so $\angle ACB=45^\circ$ and $\angle BAC=90^\circ$, i.e. $AC\perp AB$. Also $A$ lies on the circle, so $AC$ is a tangent line to $\odot O$. $\blacksquare$
+$AB$ is a diameter, and $O$ lies on $AB$. $AB=AC$ and $\angle{A}BC=45^\circ$, so $\angle{A}CB=45^\circ$ and $\angle{B}AC=90^\circ$, i.e. $AC\perp{A}B$. Also $A$ lies on the circle, so $AC$ is a tangent line to $\odot{O}$. $\blacksquare$
 
 ## Exercise 4
 
-(Exercise 30.1, Problem 2) As shown in the figure, $AB$ is a diameter of $\odot O$, and the lines $l_1$ and $l_2$ are tangent to $\odot O$ at $A$ and $B$. What is the position relationship between $l_1$ and $l_2$? Prove your conclusion.
+(Exercise 30.1, Problem 2) As shown in the figure, $AB$ is a diameter of $\odot{O}$, and the lines $l_1$ and $l_2$ are tangent to $\odot{O}$ at $A$ and $B$. What is the position relationship between $l_1$ and $l_2$? Prove your conclusion.
 
 ### Solution to Exercise 4
 
 By **Theorem 30.1.1 (Tangent Property)**.
 
-$l_1\perp AB$ and $l_2\perp AB$, so $l_1\parallel l_2$. $\blacksquare$
+$l_1\perp{A}B$ and $l_2\perp{A}B$, so $l_1\parallel{l}_2$. $\blacksquare$
 
 ## Exercise 5
 
@@ -352,37 +352,37 @@ $l_1\perp AB$ and $l_2\perp AB$, so $l_1\parallel l_2$. $\blacksquare$
 
 By **Theorem 30.1.1 (Tangent Property)** and **Theorem 29.2.1 (Perpendicular Chord Theorem)**.
 
-$OP\perp AB$; by the perpendicular chord theorem, $P$ bisects $AB$, so $AP=BP$. $\blacksquare$
+$OP\perp{A}B$; by the perpendicular chord theorem, $P$ bisects $AB$, so $AP=BP$. $\blacksquare$
 
 ## Exercise 6
 
-(Exercise 30.1, Problem 1) As shown in the figure, $PA$ and $PB$ are two tangent lines to $\odot O$ at the points $A$ and $B$, $AC$ is a diameter of $\odot O$, and $\angle BAC=25^\circ$. Find the measure of $\angle P$.
+(Exercise 30.1, Problem 1) As shown in the figure, $PA$ and $PB$ are two tangent lines to $\odot{O}$ at the points $A$ and $B$, $AC$ is a diameter of $\odot{O}$, and $\angle{B}AC=25^\circ$. Find the measure of $\angle{P}$.
 
 ### Solution to Exercise 6
 
 By **Theorem 30.1.3 (Tangent-Length Theorem)**.
 
-$PA=PB$ and $OA\perp PA$, so $\angle PAB=90^\circ-25^\circ=65^\circ$. $\angle PBA=\angle PAB=65^\circ$, so $\angle P=180^\circ-130^\circ=50^\circ$. $\blacksquare$
+$PA=PB$ and $OA\perp{P}A$, so $\angle{P}AB=90^\circ-25^\circ=65^\circ$. $\angle{P}BA=\angle{P}AB=65^\circ$, so $\angle{P}=180^\circ-130^\circ=50^\circ$. $\blacksquare$
 
 ## Exercise 7
 
-(Exercise 30.1, Problem 2) As shown in the figure, $PA$ and $PB$ are two tangent lines to $\odot O$ at the points $A$ and $B$; the line $OP$ meets $\odot O$ at the points $C$ and $D$, and meets $AB$ at the point $E$.
+(Exercise 30.1, Problem 2) As shown in the figure, $PA$ and $PB$ are two tangent lines to $\odot{O}$ at the points $A$ and $B$; the line $OP$ meets $\odot{O}$ at the points $C$ and $D$, and meets $AB$ at the point $E$.
 
 (1) Write out all the perpendicular relationships in the figure;
 
-(2) If $PA=4$ and $PD=2$, find the radius of $\odot O$.
+(2) If $PA=4$ and $PD=2$, find the radius of $\odot{O}$.
 
 ### Solution to Exercise 7
 
 By **Theorem 30.1.3 (Tangent-Length Theorem)**.
 
-(1) $OA\perp PA$, $OB\perp PB$, $OP\perp AB$.
+(1) $OA\perp{P}A$, $OB\perp{P}B$, $OP\perp{A}B$.
 
-(2) Let the radius be $r$; in $\text{Rt}\triangle OAP$, $OP=OD+PD=r+2$, $OA=r$, and $PA=4$. Hence $\left(r+2\right)^2=r^2+16$, $r^2+4r+4=r^2+16$, so $r=3$. $\blacksquare$
+(2) Let the radius be $r$; in $\text{Rt}\triangle{O}AP$, $OP=OD+PD=r+2$, $OA=r$, and $PA=4$. Hence $\left(r+2\right)^2=r^2+16$, $r^2+4r+4=r^2+16$, so $r=3$. $\blacksquare$
 
 ## Problem 2
 
-(Exercise 30.1, Review and Consolidation, Problem 1) In $\text{Rt}\triangle ABC$, $\angle C=90^\circ$, $AC=3$, and $BC=4$. Determine the position of $\odot C$, centered at the point $C$ with the following radii $r$, relative to $AB$:
+(Exercise 30.1, Review and Consolidation, Problem 1) In $\text{Rt}\triangle{A}BC$, $\angle{C}=90^\circ$, $AC=3$, and $BC=4$. Determine the position of $\odot{C}$, centered at the point $C$ with the following radii $r$, relative to $AB$:
 
 (1) $r=2$;
 
@@ -394,13 +394,13 @@ By **Theorem 30.1.3 (Tangent-Length Theorem)**.
 
 By Position-Relation Criterion.
 
-$AB=5$, and the distance from $C$ to $AB$ is $d=\frac{AC\cdot BC}{AB}=\frac{12}{5}=2.4$.
+$AB=5$, and the distance from $C$ to $AB$ is $d=\frac{AC\cdot{B}C}{AB}=\frac{12}{5}=2.4$.
 
-(1) $r=2< 2.4$, disjoint.
+(1) $r=2<2.4$, disjoint.
 
 (2) $r=2.4=d$, tangent.
 
-(3) $r=3> 2.4$, intersecting. $\blacksquare$
+(3) $r=3>2.4$, intersecting. $\blacksquare$
 
 ## Problem 3
 
@@ -408,7 +408,7 @@ $AB=5$, and the distance from $C$ to $AB$ is $d=\frac{AC\cdot BC}{AB}=\frac{12}{
 
 (1) If $UV=28\,\text{cm}$, find the length of $VT$;
 
-(2) If $\angle UVW=60^\circ$, find the length of $VT$.
+(2) If $\angle{U}VW=60^\circ$, find the length of $VT$.
 
 ### Solution to Problem 3
 
@@ -416,51 +416,51 @@ By **Theorem 30.1.1 (Tangent Property)**.
 
 (1) $VT=\sqrt{UV^2-r^2}=\sqrt{28^2-25^2}=\sqrt{159}\approx12.6\,\text{cm}$.
 
-(2) $\angle UVW=60^\circ$, the distance from the center to both sides is $r=25$, and $\angle UVT=30^\circ$, so $VT=\frac{r}{\sin30^\circ}=50\,\text{cm}$. $\blacksquare$
+(2) $\angle{U}VW=60^\circ$, the distance from the center to both sides is $r=25$, and $\angle{U}VT=30^\circ$, so $VT=\frac{r}{\sin30^\circ}=50\,\text{cm}$. $\blacksquare$
 
 ## Problem 4
 
-(Exercise 30.1, Review and Consolidation, Problem 3) As shown in the figure, the line $AB$ passes through the point $C$ on $\odot O$, and $OA=OB$, $CA=CB$. Prove that the line $AB$ is a tangent line to $\odot O$.
+(Exercise 30.1, Review and Consolidation, Problem 3) As shown in the figure, the line $AB$ passes through the point $C$ on $\odot{O}$, and $OA=OB$, $CA=CB$. Prove that the line $AB$ is a tangent line to $\odot{O}$.
 
 ### Solution to Problem 4
 
 By **Theorem 30.1.2 (Tangent Criterion)**.
 
-Join $OC$. $OA=OB$ and $CA=CB$, so $OC\perp AB$ (the three-line coincidence in an isosceles triangle). $C$ lies on the circle, so $AB$ is a tangent. $\blacksquare$
+Join $OC$. $OA=OB$ and $CA=CB$, so $OC\perp{A}B$ (the three-line coincidence in an isosceles triangle). $C$ lies on the circle, so $AB$ is a tangent. $\blacksquare$
 
 ## Problem 5
 
-(Exercise 30.1, Review and Consolidation, Problem 4) As shown in the figure, in $\odot O$, $AB$ is a diameter and $AD$ is a chord; the tangent through the point $B$ intersects the extension of $AD$ at the point $C$, and $AD=DC$. Find the measure of $\angle ABD$.
+(Exercise 30.1, Review and Consolidation, Problem 4) As shown in the figure, in $\odot{O}$, $AB$ is a diameter and $AD$ is a chord; the tangent through the point $B$ intersects the extension of $AD$ at the point $C$, and $AD=DC$. Find the measure of $\angle{A}BD$.
 
 ### Solution to Problem 5
 
 By **Theorem 30.1.1 (Tangent Property)** and **Corollary 29.2.2 (Corollary to the Inscribed Angle Theorem)**.
 
-$BC$ is a tangent, so $BC\perp AB$. $AD=DC$, and in $\text{Rt}\triangle ABC$, $D$ is the midpoint of $AC$, so $BD=AD=DC$, and $\triangle ABD$ is isosceles. Also $AB$ is a diameter, so $\angle ADB=90^\circ$, and hence $\angle ABD=45^\circ$. $\blacksquare$
+$BC$ is a tangent, so $BC\perp{A}B$. $AD=DC$, and in $\text{Rt}\triangle{A}BC$, $D$ is the midpoint of $AC$, so $BD=AD=DC$, and $\triangle{A}BD$ is isosceles. Also $AB$ is a diameter, so $\angle{A}DB=90^\circ$, and hence $\angle{A}BD=45^\circ$. $\blacksquare$
 
 ## Problem 6
 
-(Exercise 30.1, Review and Consolidation, Problem 5) As shown in the figure, $AB$ is a diameter of $\odot O$, $PD$ and $PE$ are tangent to $\odot O$ at the points $A$ and $C$ respectively, and $\angle BCE=35^\circ$. Find the measure of $\angle P$.
+(Exercise 30.1, Review and Consolidation, Problem 5) As shown in the figure, $AB$ is a diameter of $\odot{O}$, $PD$ and $PE$ are tangent to $\odot{O}$ at the points $A$ and $C$ respectively, and $\angle{B}CE=35^\circ$. Find the measure of $\angle{P}$.
 
 ### Solution to Problem 6
 
 By **Theorem 30.1.3 (Tangent-Length Theorem)**.
 
-$\angle BCE=35^\circ$, and the angle between a tangent and a chord equals the inscribed angle subtended, so $\angle BAC=35^\circ$. $\angle P=180^\circ-2\times\left(90^\circ-35^\circ\right)=70^\circ$. $\blacksquare$
+$\angle{B}CE=35^\circ$, and the angle between a tangent and a chord equals the inscribed angle subtended, so $\angle{B}AC=35^\circ$. $\angle{P}=180^\circ-2\times\left(90^\circ-35^\circ\right)=70^\circ$. $\blacksquare$
 
 ## Problem 7
 
-(Exercise 30.1, Review and Consolidation, Problem 6) As shown in the figure, in $\triangle ABC$, $O$ is a point on $AC$; $\odot O$ passes through the two points $B$ and $C$ and intersects $AC$ at the point $D$, with $\angle A=36^\circ$ and $\angle C=27^\circ$. Prove that $AB$ is a tangent line to $\odot O$.
+(Exercise 30.1, Review and Consolidation, Problem 6) As shown in the figure, in $\triangle{A}BC$, $O$ is a point on $AC$; $\odot{O}$ passes through the two points $B$ and $C$ and intersects $AC$ at the point $D$, with $\angle{A}=36^\circ$ and $\angle{C}=27^\circ$. Prove that $AB$ is a tangent line to $\odot{O}$.
 
 ### Solution to Problem 7
 
 By **Theorem 30.1.2 (Tangent Criterion)**.
 
-Join $OB$. From the related calculation of $\angle BOC=2\angle BDC=2\left(180^\circ-\angle A-\angle C\right)$: $\angle OBC=\angle C=27^\circ$, and $\angle ABO=180^\circ-36^\circ-27^\circ-27^\circ=90^\circ$, so $AB\perp OB$, and $AB$ is a tangent. $\blacksquare$
+Join $OB$. From the related calculation of $\angle{B}OC=2\angle{B}DC=2\left(180^\circ-\angle{A}-\angle{C}\right)$: $\angle{O}BC=\angle{C}=27^\circ$, and $\angle{A}BO=180^\circ-36^\circ-27^\circ-27^\circ=90^\circ$, so $AB\perp{O}B$, and $AB$ is a tangent. $\blacksquare$
 
 ## Problem 8
 
-(Exercise 30.1, Comprehensive Application, Problem 7) As shown in the figure, an oil drum leans against a vertical wall; it is measured that $WY=0.65\,\text{m}$ and $XY\perp WY$. What is the radius of the base of this oil drum? Why?
+(Exercise 30.1, Comprehensive Application, Problem 7) As shown in the figure, an oil drum leans against a vertical wall; it is measured that $WY=0.65\,\text{m}$ and $XY\perp{W}Y$. What is the radius of the base of this oil drum? Why?
 
 ### Solution to Problem 8
 
@@ -470,60 +470,60 @@ The two walls are mutually perpendicular tangent lines, and the distance from th
 
 ## Problem 9
 
-(Exercise 30.1, Comprehensive Application, Problem 8) As shown in the figure, $AB$, $BC$, $CD$ are tangent to $\odot O$ at the three points $E$, $F$, $G$ respectively, and $AB\parallel CD$, $BO=6$, $CO=8$. Find the length of $BC$.
+(Exercise 30.1, Comprehensive Application, Problem 8) As shown in the figure, $AB$, $BC$, $CD$ are tangent to $\odot{O}$ at the three points $E$, $F$, $G$ respectively, and $AB\parallel{C}D$, $BO=6$, $CO=8$. Find the length of $BC$.
 
 ### Solution to Problem 9
 
 By **Theorem 30.1.3 (Tangent-Length Theorem)**.
 
-$BO$ bisects $\angle ABC$, and $CO$ bisects $\angle BCD$. $AB\parallel CD$, so $\angle ABC+\angle BCD=180^\circ$, hence $\angle OBC+\angle OCB=90^\circ$ and $\angle BOC=90^\circ$. $BC=\sqrt{6^2+8^2}=10$. $\blacksquare$
+$BO$ bisects $\angle{A}BC$, and $CO$ bisects $\angle{B}CD$. $AB\parallel{C}D$, so $\angle{A}BC+\angle{B}CD=180^\circ$, hence $\angle{O}BC+\angle{O}CB=90^\circ$ and $\angle{B}OC=90^\circ$. $BC=\sqrt{6^2+8^2}=10$. $\blacksquare$
 
 ## Problem 10
 
-(Exercise 30.1, Comprehensive Application, Problem 9) As shown in the figure, $AB$ is a diameter of $\odot O$, $C$ is a point on $\odot O$, and $AD$ is perpendicular to the tangent through the point $C$, with foot $D$. Prove that $AC$ bisects $\angle DAB$.
+(Exercise 30.1, Comprehensive Application, Problem 9) As shown in the figure, $AB$ is a diameter of $\odot{O}$, $C$ is a point on $\odot{O}$, and $AD$ is perpendicular to the tangent through the point $C$, with foot $D$. Prove that $AC$ bisects $\angle{D}AB$.
 
 ### Solution to Problem 10
 
 By **Theorem 30.1.1 (Tangent Property)**.
 
-Join $OC$. $OC\perp CD$ and $AD\perp CD$, so $OC\parallel AD$. $\angle DAC=\angle OCA=\angle OAC$, so $AC$ bisects $\angle DAB$. $\blacksquare$
+Join $OC$. $OC\perp{C}D$ and $AD\perp{C}D$, so $OC\parallel{A}D$. $\angle{D}AC=\angle{O}CA=\angle{O}AC$, so $AC$ bisects $\angle{D}AB$. $\blacksquare$
 
 ## Problem 11
 
-(Exercise 30.1, Comprehensive Application, Problem 10) As shown in the figure, the diameter $AB$ of $\odot O$ intersects the chord $CD$, and $\angle BAC=38^\circ$. Through the point $D$ draw a tangent to $\odot O$, meeting the extension of $AB$ at the point $P$, with $DP\parallel AC$. Find the measure of $\angle ACD$.
+(Exercise 30.1, Comprehensive Application, Problem 10) As shown in the figure, the diameter $AB$ of $\odot{O}$ intersects the chord $CD$, and $\angle{B}AC=38^\circ$. Through the point $D$ draw a tangent to $\odot{O}$, meeting the extension of $AB$ at the point $P$, with $DP\parallel{A}C$. Find the measure of $\angle{A}CD$.
 
 ### Solution to Problem 11
 
 By **Theorem 30.1.1 (Tangent Property)** and **Theorem 29.2.3 (Inscribed Angle Theorem)**.
 
-$DP\parallel AC$, so $\angle PDB=\angle BAC=38^\circ$. $DP$ is a tangent, and the tangent-chord angle gives $\angle BDP=\angle BAD=38^\circ$. From the related calculation of $\angle ACD=\angle ABD$, we get $\angle ACD=26^\circ$. $\blacksquare$
+$DP\parallel{A}C$, so $\angle{P}DB=\angle{B}AC=38^\circ$. $DP$ is a tangent, and the tangent-chord angle gives $\angle{B}DP=\angle{B}AD=38^\circ$. From the related calculation of $\angle{A}CD=\angle{A}BD$, we get $\angle{A}CD=26^\circ$. $\blacksquare$
 
 ## Problem 12
 
-(Exercise 30.1, Extension and Exploration, Problem 11) As shown in the figure, in $\text{Rt}\triangle ABC$, $\angle CAB=90^\circ$, $D$ is the midpoint of $AC$, and $\odot O$ with diameter $AB$ meets $BC$ at the point $E$. Prove that $DE$ is a tangent line to $\odot O$.
+(Exercise 30.1, Extension and Exploration, Problem 11) As shown in the figure, in $\text{Rt}\triangle{A}BC$, $\angle{C}AB=90^\circ$, $D$ is the midpoint of $AC$, and $\odot{O}$ with diameter $AB$ meets $BC$ at the point $E$. Prove that $DE$ is a tangent line to $\odot{O}$.
 
 ### Solution to Problem 12
 
 By **Theorem 30.1.2 (Tangent Criterion)**.
 
-Join $OE$ and $AE$. $AB$ is a diameter, so $\angle AEB=90^\circ$; $D$ is the midpoint of the hypotenuse $AC$ of $\text{Rt}\triangle AEC$, so $DE=DA=DC$. $OE=OA$, $OD$ is common, and $\triangle ODE\cong\triangle ODA$, so $\angle OED=\angle OAD=90^\circ$, and hence $DE$ is a tangent. $\blacksquare$
+Join $OE$ and $AE$. $AB$ is a diameter, so $\angle{A}EB=90^\circ$; $D$ is the midpoint of the hypotenuse $AC$ of $\text{Rt}\triangle{A}EC$, so $DE=DA=DC$. $OE=OA$, $OD$ is common, and $\triangle{O}DE\cong\triangle{O}DA$, so $\angle{O}ED=\angle{O}AD=90^\circ$, and hence $DE$ is a tangent. $\blacksquare$
 
 ## Problem 13
 
-(Exercise 30.1, Extension and Exploration, Problem 12) As shown in the figure, equal circles $\odot O_1$ and $\odot O_2$ intersect at the two points $A$ and $B$, and $\odot O_1$ passes through the center $O_2$ of $O_2$. Find the measure of $\angle O_1AB$.
+(Exercise 30.1, Extension and Exploration, Problem 12) As shown in the figure, equal circles $\odot{O}_1$ and $\odot{O}_2$ intersect at the two points $A$ and $B$, and $\odot{O}_1$ passes through the center $O_2$ of $O_2$. Find the measure of $\angle{O}_1AB$.
 
 ### Solution to Problem 13
 
 By **Theorem 29.2.3 (Inscribed Angle Theorem)**.
 
-The two equal circles have equal radii, so $O_1O_2=r$. $\triangle O_1AO_2$ is equilateral, so $\angle O_1AO_2=60^\circ$. $AB\perp O_1O_2$, so $\angle O_1AB=30^\circ$. $\blacksquare$
+The two equal circles have equal radii, so $O_1O_2=r$. $\triangle{O}_1AO_2$ is equilateral, so $\angle{O}_1AO_2=60^\circ$. $AB\perp{O}_1O_2$, so $\angle{O}_1AB=30^\circ$. $\blacksquare$
 
 ## Inquiry and Discovery 1
 
-(Inquiry and Discovery, Position Relationships Between Two Circles) How many position relationships are there between two circles? How can they be characterized by the center distance $d$ and the radii $r_1$, $r_2$ ($r_1< r_2$) of the two circles?
+(Inquiry and Discovery, Position Relationships Between Two Circles) How many position relationships are there between two circles? How can they be characterized by the center distance $d$ and the radii $r_1$, $r_2$ ($r_1<{}r_2$) of the two circles?
 
 ### Solution to Inquiry and Discovery 1
 
-Let the radii of the two circles be $r_1< r_2$, and the center distance be $d$.
+Let the radii of the two circles be $r_1<{}r_2$, and the center distance be $d$.
 
-External separation: $d> r_1+r_2$; external tangency: $d=r_1+r_2$; intersection: $r_2-r_1< d< r_1+r_2$; internal tangency: $d=r_2-r_1$; containment: $d< r_2-r_1$. $\blacksquare$
+External separation: $d>{}r_1+r_2$; external tangency: $d=r_1+r_2$; intersection: $r_2-r_1<{}d<{}r_1+r_2$; internal tangency: $d=r_2-r_1$; containment: $d<{}r_2-r_1$. $\blacksquare$

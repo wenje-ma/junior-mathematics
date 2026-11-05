@@ -2,11 +2,11 @@
 
 > **Definition 27.1.1 (Inverse Proportional Function)**
 > 
-> A function of the form $y=\frac kx$ ($k$ is a constant, $k\ne0$) is called an inverse proportional function, with independent variable $x\ne0$.
+> A function of the form $y=\frac{k}x$ ($k$ is a constant, $k\ne0$) is called an inverse proportional function, with independent variable $x\ne0$.
 
 > **Conclusion 27.2.1 (Properties of the Inverse Proportional Function)**
 > 
-> When $k> 0$, the graph lies in the first and third quadrants, and within each quadrant $y$ decreases as $x$ increases; when $k< 0$, it lies in the second and fourth quadrants, and within each quadrant $y$ increases as $x$ increases.
+> When $k>0$, the graph lies in the first and third quadrants, and within each quadrant $y$ decreases as $x$ increases; when $k<0$, it lies in the second and fourth quadrants, and within each quadrant $y$ increases as $x$ increases.
 
 > **Definition 28.1.1 (Rotation of a Figure)**
 > 
@@ -42,23 +42,23 @@
 
 ### Solution to Review Problem 1
 
-Let the areas of the three faces $A,B,C$ be $4S,2S,S$. The weight $F$ of the brick is constant, and the pressure intensity is $p=\frac FS$.
+Let the areas of the three faces $A,B,C$ be $4S,2S,S$. The weight $F$ of the brick is constant, and the pressure intensity is $p=\frac{F}S$.
 
-When the $B$ face is down, $p=\frac F{2S}$, i.e. $F=2Sp$.
+When the $B$ face is down, $p=\frac{F}{2S}$, i.e. $F=2Sp$.
 
-When the $A$ face is down, $p_A=\frac F{4S}=\frac{2Sp}{4S}=\frac p2$.
+When the $A$ face is down, $p_A=\frac{F}{4S}=\frac{2Sp}{4S}=\frac{p}2$.
 
-When the $C$ face is down, $p_C=\frac FS=\frac{2Sp}{S}=2p$.
+When the $C$ face is down, $p_C=\frac{F}S=\frac{2Sp}{S}=2p$.
 
-Hence when the $A$ face is down the pressure intensity is $\frac p2$, and when the $C$ face is down it is $2p$. $\blacksquare$
+Hence when the $A$ face is down the pressure intensity is $\frac{p}2$, and when the $C$ face is down it is $2p$. $\blacksquare$
 
 ## Review Problem 2
 
-(Review Problem, Comprehensive Application, Problem 7) The lifespan of a certain brand of monitor is about $3\times10^4\ \text{h}$.
+(Review Problem, Comprehensive Application, Problem 7) The lifespan of a certain brand of monitor is about $3\times10^4\,\text{h}$.
 
 (1) What is the functional relationship between the number of working days $d$ and the average number of working hours per day $t$?
 
-(2) If it works an average of $10\ \text{h}$ per day, approximately how many days can it be used?
+(2) If it works an average of $10\,\text{h}$ per day, approximately how many days can it be used?
 
 ### Solution to Review Problem 2
 
@@ -68,11 +68,11 @@ Hence when the $A$ face is down the pressure intensity is $\frac p2$, and when t
 
 ## Review Problem 3
 
-(Review Problem, Comprehensive Application, Problem 8) Match the function expressions below with their graphs: given the graphs of $y=k/x$ for the two cases $k> 0$ and $k< 0$.
+(Review Problem, Comprehensive Application, Problem 8) Match the function expressions below with their graphs: given the graphs of $y=k/x$ for the two cases $k>0$ and $k<0$.
 
 ### Solution to Review Problem 3
 
-By Basic Knowledge, the graph for $k> 0$ is a hyperbola in the first and third quadrants, and the graph for $k< 0$ is a hyperbola in the second and fourth quadrants; match them accordingly. $\blacksquare$
+By Basic Knowledge, the graph for $k>0$ is a hyperbola in the first and third quadrants, and the graph for $k<0$ is a hyperbola in the second and fourth quadrants; match them accordingly. $\blacksquare$
 
 ## Review Problem 4
 
@@ -80,7 +80,7 @@ By Basic Knowledge, the graph for $k> 0$ is a hyperbola in the first and third q
 
 ### Solution to Review Problem 4
 
-Let the two inverse proportional functions be $y=\frac{k_1}{x}$ and $y=\frac{k_2}{x}$, with $k_1\ne k_2$. If they had a common point $\left(x,y\right)$, then $\frac{k_1}{x}=\frac{k_2}{x}$, i.e. $k_1=k_2$, contradicting $k_1\ne k_2$. Hence the graphs of two different inverse proportional functions have no common points. $\blacksquare$
+Let the two inverse proportional functions be $y=\frac{k_1}{x}$ and $y=\frac{k_2}{x}$, with $k_1\ne{k}_2$. If they had a common point $\left(x,y\right)$, then $\frac{k_1}{x}=\frac{k_2}{x}$, i.e. $k_1=k_2$, contradicting $k_1\ne{k}_2$. Hence the graphs of two different inverse proportional functions have no common points. $\blacksquare$
 
 ## Review Problem 5
 
@@ -88,21 +88,21 @@ Let the two inverse proportional functions be $y=\frac{k_1}{x}$ and $y=\frac{k_2
 
 ### Solution to Review Problem 5
 
-If they had an intersection, then $k_1x=\frac{k_2}{x}$, i.e. $x^2=\frac{k_2}{k_1}$. For the two to have no common point, this equation must have no real solution, i.e. $\frac{k_2}{k_1}< 0$. Hence $k_1,k_2$ have opposite signs. $\blacksquare$
+If they had an intersection, then $k_1x=\frac{k_2}{x}$, i.e. $x^2=\frac{k_2}{k_1}$. For the two to have no common point, this equation must have no real solution, i.e. $\frac{k_2}{k_1}<0$. Hence $k_1,k_2$ have opposite signs. $\blacksquare$
 
 ## Review Problem 6
 
-(Review Problem, Extension and Exploration, Problem 11) A water conservancy project needs to transport a total of $10^6\ \text{m}^3$ of earth and stone.
+(Review Problem, Extension and Exploration, Problem 11) A water conservancy project needs to transport a total of $10^6\,\text{m}^3$ of earth and stone.
 
 (1) What is the functional relationship between the average transport speed $v$ and the completion time $t$?
 
-(2) There are originally $100$ trucks, which together transport $10^4\ \text{m}^3$ per day. After $40$ days of transport, the remaining task must be completed within $50$ days. At least how many additional trucks should be added?
+(2) There are originally $100$ trucks, which together transport $10^4\,\text{m}^3$ per day. After $40$ days of transport, the remaining task must be completed within $50$ days. At least how many additional trucks should be added?
 
 ### Solution to Review Problem 6
 
 (1) From $vt=10^6$, we get $v=\frac{10^6}{t}$.
 
-(2) In the first $40$ days, $40\times10^4=4\times10^5\ \text{m}^3$ is transported, leaving $10^6-4\times10^5=6\times10^5\ \text{m}^3$. To finish within $50$ days, $\frac{6\times10^5}{50}=12000\ \text{m}^3$ must be transported per day. Each truck transports $\frac{10^4}{100}=100\ \text{m}^3$ per day, so a total of $\frac{12000}{100}=120$ trucks are needed, and at least $120-100=20$ trucks should be added. $\blacksquare$
+(2) In the first $40$ days, $40\times10^4=4\times10^5\,\text{m}^3$ is transported, leaving $10^6-4\times10^5=6\times10^5\,\text{m}^3$. To finish within $50$ days, $\frac{6\times10^5}{50}=12000\,\text{m}^3$ must be transported per day. Each truck transports $\frac{10^4}{100}=100\,\text{m}^3$ per day, so a total of $\frac{12000}{100}=120$ trucks are needed, and at least $120-100=20$ trucks should be added. $\blacksquare$
 
 ## Exercise 1
 
@@ -118,13 +118,13 @@ The hands of a clock turn about the center of the dial: the center of rotation i
 
 (Exercise 28.1, Problem 2) As shown in the figure, a lever turns about the fulcrum to pry up a heavy object. Where is the center of rotation of the lever? Which angle is the angle of rotation?
 
-The figure shows a straight lever with fulcrum $O$; a heavy object hangs from the left end $A$, and the right end is pressed downward. After the lever turns, the left end moves to the corresponding point $A'$; the angle between $OA$ and $OA'$ is the rotation angle $\angle AOA'$.
+The figure shows a straight lever with fulcrum $O$; a heavy object hangs from the left end $A$, and the right end is pressed downward. After the lever turns, the left end moves to the corresponding point $A'$; the angle between $OA$ and $OA'$ is the rotation angle $\angle{A}OA'$.
 
 ### Solution to Exercise 2
 
 By **Definition 28.1.1 (Rotation of a Figure)** and **Definition 28.1.2 (Corresponding Point)**, the lever turns about the fulcrum $O$.
 
-The center of rotation of the lever is the fulcrum $O$; the angle formed by the two positions of the lever before and after turning is the angle of rotation ($\angle AOA'$ in the figure). $\blacksquare$
+The center of rotation of the lever is the fulcrum $O$; the angle formed by the two positions of the lever before and after turning is the angle of rotation ($\angle{A}OA'$ in the figure). $\blacksquare$
 
 ## Exercise 3
 
@@ -142,19 +142,19 @@ The suspension point of the swing is the center of rotation $O$. Take a point $P
 
 (1) By Basic Knowledge, $OP=OP'$, i.e. these two points are equidistant from the center of rotation.
 
-(2) By Basic Knowledge, $\angle POP'$ equals the angle of rotation $80^\circ$. $\blacksquare$
+(2) By Basic Knowledge, $\angle{P}OP'$ equals the angle of rotation $80^\circ$. $\blacksquare$
 
 ## Exercise 4
 
-(Exercise 28.1, Problem 1) As shown in the figure, in $\triangle ABC$, $AB=AC$, and $P$ is a point on the side $BC$. Taking the point $A$ as the center of rotation and the angle of rotation equal to $\angle BAC$, rotate $\triangle ABP$ counterclockwise and draw the rotated figure.
+(Exercise 28.1, Problem 1) As shown in the figure, in $\triangle{A}BC$, $AB=AC$, and $P$ is a point on the side $BC$. Taking the point $A$ as the center of rotation and the angle of rotation equal to $\angle{B}AC$, rotate $\triangle{A}BP$ counterclockwise and draw the rotated figure.
 
-The figure shows isosceles triangle $ABC$ with $AB=AC$ and point $P$ on the base $BC$; the task is to rotate $\triangle ABP$ counterclockwise about center $A$ through the angle equal to $\angle BAC$.
+The figure shows isosceles triangle $ABC$ with $AB=AC$ and point $P$ on the base $BC$; the task is to rotate $\triangle{A}BP$ counterclockwise about center $A$ through the angle equal to $\angle{B}AC$.
 
 ### Solution to Exercise 4
 
 By Properties of Rotation, determine the corresponding points of the key points $B$ and $P$.
 
-The center of rotation $A$ stays fixed. Since $AB=AC$ and the angle of rotation equals $\angle BAC$, the point $B$ coincides with the point $C$ after rotation. The point $P$ is on $BC$; on the ray corresponding to $CP$, take the point $P'$ such that $AP'=AP$; then $\triangle ACP'$ is the figure obtained by rotating $\triangle ABP$. $\blacksquare$
+The center of rotation $A$ stays fixed. Since $AB=AC$ and the angle of rotation equals $\angle{B}AC$, the point $B$ coincides with the point $C$ after rotation. The point $P$ is on $BC$; on the ray corresponding to $CP$, take the point $P'$ such that $AP'=AP$; then $\triangle{A}CP'$ is the figure obtained by rotating $\triangle{A}BP$. $\blacksquare$
 
 ## Exercise 5
 
@@ -200,59 +200,59 @@ An equilateral triangle has $3$ equal angles, and the central angle subtended by
 
 ## Problem 3
 
-(Exercise 28.1, Review and Consolidation, Problem 3) As shown in the figure, draw the figures obtained by rotating $\triangle ABC$ about the point $O$ counterclockwise through $90^\circ$ and $180^\circ$ respectively.
+(Exercise 28.1, Review and Consolidation, Problem 3) As shown in the figure, draw the figures obtained by rotating $\triangle{A}BC$ about the point $O$ counterclockwise through $90^\circ$ and $180^\circ$ respectively.
 
-The figure shows $\triangle ABC$ in the plane, with a point $O$ outside the triangle; the task is to draw the figures obtained by rotating $\triangle ABC$ about $O$ counterclockwise through $90^\circ$ and $180^\circ$ respectively.
+The figure shows $\triangle{A}BC$ in the plane, with a point $O$ outside the triangle; the task is to draw the figures obtained by rotating $\triangle{A}BC$ about $O$ counterclockwise through $90^\circ$ and $180^\circ$ respectively.
 
 ### Solution to Problem 3
 
 By Properties of Rotation, construct the corresponding points of $A$, $B$, and $C$ about $O$ respectively.
 
-Join $OA$, $OB$, $OC$; rotate them counterclockwise about $O$ through $90^\circ$ to obtain $A_1$, $B_1$, $C_1$, such that $OA_1=OA$ and $\angle AOA_1=90^\circ$, and join them in order to obtain $\triangle A_1B_1C_1$; in the same way, rotating through $180^\circ$ gives $\triangle A_2B_2C_2$, where $A_2$, $B_2$, $C_2$ lie on the extensions of $AO$, $BO$, $CO$ respectively and $OA_2=OA$; joining in order gives the result. $\blacksquare$
+Join $OA$, $OB$, $OC$; rotate them counterclockwise about $O$ through $90^\circ$ to obtain $A_1$, $B_1$, $C_1$, such that $OA_1=OA$ and $\angle{A}OA_1=90^\circ$, and join them in order to obtain $\triangle{A}_1B_1C_1$; in the same way, rotating through $180^\circ$ gives $\triangle{A}_2B_2C_2$, where $A_2$, $B_2$, $C_2$ lie on the extensions of $AO$, $BO$, $CO$ respectively and $OA_2=OA$; joining in order gives the result. $\blacksquare$
 
 ## Problem 4
 
-(Exercise 28.1, Review and Consolidation, Problem 4) Draw an arbitrary $\triangle ABC$ and rotate it:
+(Exercise 28.1, Review and Consolidation, Problem 4) Draw an arbitrary $\triangle{A}BC$ and rotate it:
 
-(1) Taking the point $A$ as the center of rotation, rotate $\triangle ABC$ counterclockwise through $40^\circ$;
+(1) Taking the point $A$ as the center of rotation, rotate $\triangle{A}BC$ counterclockwise through $40^\circ$;
 
-(2) Taking the midpoint of the side $BC$ as the center of rotation, rotate $\triangle ABC$ clockwise through $90^\circ$;
+(2) Taking the midpoint of the side $BC$ as the center of rotation, rotate $\triangle{A}BC$ clockwise through $90^\circ$;
 
-(3) Taking any point inside $\triangle ABC$ as the center of rotation, rotate $\triangle ABC$ counterclockwise through $180^\circ$;
+(3) Taking any point inside $\triangle{A}BC$ as the center of rotation, rotate $\triangle{A}BC$ counterclockwise through $180^\circ$;
 
-(4) Taking any point outside $\triangle ABC$ as the center of rotation, rotate $\triangle ABC$ clockwise through $120^\circ$.
+(4) Taking any point outside $\triangle{A}BC$ as the center of rotation, rotate $\triangle{A}BC$ clockwise through $120^\circ$.
 
 ### Solution to Problem 4
 
 By Properties of Rotation, determine the corresponding points of the three points $A$, $B$, $C$ respectively and then join them.
 
-(1) With $A$ as the center, rotate $B$ and $C$ counterclockwise about $A$ through $40^\circ$ to obtain $B'$ and $C'$, and join $\triangle AB'C'$.
+(1) With $A$ as the center, rotate $B$ and $C$ counterclockwise about $A$ through $40^\circ$ to obtain $B'$ and $C'$, and join $\triangle{A}B'C'$.
 
-(2) With the midpoint $M$ of $BC$ as the center, rotate $A$ clockwise about $M$ through $90^\circ$ to obtain $A'$; $B$ and $C$ swap corresponding positions, and join $\triangle A'CB$.
+(2) With the midpoint $M$ of $BC$ as the center, rotate $A$ clockwise about $M$ through $90^\circ$ to obtain $A'$; $B$ and $C$ swap corresponding positions, and join $\triangle{A}'CB$.
 
-(3) With a point $O$ inside the figure as the center, take $A$, $B$, $C$ as symmetric points $A'$, $B'$, $C'$ about $O$ respectively, and join $\triangle A'B'C'$.
+(3) With a point $O$ inside the figure as the center, take $A$, $B$, $C$ as symmetric points $A'$, $B'$, $C'$ about $O$ respectively, and join $\triangle{A}'B'C'$.
 
-(4) With a point $O$ outside the figure as the center, rotate $A$, $B$, $C$ clockwise about $O$ through $120^\circ$ to obtain $A'$, $B'$, $C'$, and join $\triangle A'B'C'$. $\blacksquare$
+(4) With a point $O$ outside the figure as the center, rotate $A$, $B$, $C$ clockwise about $O$ through $120^\circ$ to obtain $A'$, $B'$, $C'$, and join $\triangle{A}'B'C'$. $\blacksquare$
 
 ## Problem 5
 
-(Exercise 28.1, Comprehensive Application, Problem 5) As shown in the figure, $\triangle ABC$ is an equilateral triangle, $D$ is the midpoint of the side $BC$, and rotating $\triangle ADC$ about the point $A$ clockwise through $60^\circ$ gives $\triangle AEB$. Find the measures of $\angle ABE$, $\angle DAE$, and $\angle BED$.
+(Exercise 28.1, Comprehensive Application, Problem 5) As shown in the figure, $\triangle{A}BC$ is an equilateral triangle, $D$ is the midpoint of the side $BC$, and rotating $\triangle{A}DC$ about the point $A$ clockwise through $60^\circ$ gives $\triangle{A}EB$. Find the measures of $\angle{A}BE$, $\angle{D}AE$, and $\angle{B}ED$.
 
-The figure shows equilateral triangle $ABC$ with $D$ the midpoint of side $BC$; rotating $\triangle ADC$ about point $A$ clockwise through $60^\circ$ gives $\triangle AEB$, with point $E$ lying outside $\triangle ABC$, and $BE$ connected to $BD$.
+The figure shows equilateral triangle $ABC$ with $D$ the midpoint of side $BC$; rotating $\triangle{A}DC$ about point $A$ clockwise through $60^\circ$ gives $\triangle{A}EB$, with point $E$ lying outside $\triangle{A}BC$, and $BE$ connected to $BD$.
 
 ### Solution to Problem 5
 
-By Properties of Rotation, $\triangle ADC\cong\triangle AEB$, and the angle of rotation is $60^\circ$.
+By Properties of Rotation, $\triangle{A}DC\cong\triangle{A}EB$, and the angle of rotation is $60^\circ$.
 
-$\triangle ABC$ is equilateral, so $\angle ACB=60^\circ$, $\angle BAC=60^\circ$.
+$\triangle{A}BC$ is equilateral, so $\angle{A}CB=60^\circ$, $\angle{B}AC=60^\circ$.
 
-$\angle ABE=\angle ACD=60^\circ$.
+$\angle{A}BE=\angle{A}CD=60^\circ$.
 
-The angle of rotation is $\angle DAE=60^\circ$.
+The angle of rotation is $\angle{D}AE=60^\circ$.
 
-Also, $D$ is the midpoint of $BC$; in an equilateral triangle, $AD\perp BC$, $\angle ADC=90^\circ$, and after rotation $\angle AEB=\angle ADC=90^\circ$. In $\triangle ADC$, $\angle DAC=30^\circ$, and after rotation $\angle BAE=30^\circ$. Calculating in quadrilateral $A$, $B$, $D$, $E$ gives $\angle BED=30^\circ$.
+Also, $D$ is the midpoint of $BC$; in an equilateral triangle, $AD\perp{B}C$, $\angle{A}DC=90^\circ$, and after rotation $\angle{A}EB=\angle{A}DC=90^\circ$. In $\triangle{A}DC$, $\angle{D}AC=30^\circ$, and after rotation $\angle{B}AE=30^\circ$. Calculating in quadrilateral $A$, $B$, $D$, $E$ gives $\angle{B}ED=30^\circ$.
 
-Hence $\angle ABE=60^\circ$, $\angle DAE=60^\circ$, $\angle BED=30^\circ$. $\blacksquare$
+Hence $\angle{A}BE=60^\circ$, $\angle{D}AE=60^\circ$, $\angle{B}ED=30^\circ$. $\blacksquare$
 
 ## Problem 6
 
@@ -266,19 +266,19 @@ The windmill pattern is obtained from a single basic blade (a right trapezoid or
 
 ## Problem 7
 
-(Exercise 28.1, Comprehensive Application, Problem 7) As shown in the figure, in $\triangle ABC$, $\angle C=90^\circ$.
+(Exercise 28.1, Comprehensive Application, Problem 7) As shown in the figure, in $\triangle{A}BC$, $\angle{C}=90^\circ$.
 
-(1) Rotate $\triangle ABC$ about the point $B$ counterclockwise through $90^\circ$, and draw the rotated triangle;
+(1) Rotate $\triangle{A}BC$ about the point $B$ counterclockwise through $90^\circ$, and draw the rotated triangle;
 
 (2) After rotating as in (1), the corresponding point of $A$ is $A'$. If $BC=3$, $AC=4$, find the length of $A'A$.
 
 ### Solution to Problem 7
 
-By Properties of Rotation, $BA'=BA$, $\angle ABA'=90^\circ$.
+By Properties of Rotation, $BA'=BA$, $\angle{A}BA'=90^\circ$.
 
-(1) With $B$ as the center, rotate $A$ and $C$ counterclockwise about $B$ through $90^\circ$ to obtain $A'$ and $C'$, and join $\triangle A'BC'$.
+(1) With $B$ as the center, rotate $A$ and $C$ counterclockwise about $B$ through $90^\circ$ to obtain $A'$ and $C'$, and join $\triangle{A}'BC'$.
 
-(2) In $\text{Rt}\triangle ABC$, $AB=\sqrt{BC^2+AC^2}=\sqrt{9+16}=5$. Since $BA'=BA=5$ and $\angle ABA'=90^\circ$, $\triangle ABA'$ is an isosceles right triangle, hence
+(2) In $\text{Rt}\triangle{A}BC$, $AB=\sqrt{BC^2+AC^2}=\sqrt{9+16}=5$. Since $BA'=BA=5$ and $\angle{A}BA'=90^\circ$, $\triangle{A}BA'$ is an isosceles right triangle, hence
 
 $$
 A'A=\sqrt{AB^2+BA'^2}=\sqrt{25+25}=5\sqrt2.
@@ -288,23 +288,23 @@ $\blacksquare$
 
 ## Problem 8
 
-(Exercise 28.1, Extension and Exploration, Problem 8) As shown in the figure, $\triangle ABD$ and $\triangle AEC$ are both equilateral triangles. What is the relationship between $BE$ and $DC$? Can you use the properties of rotation to explain why this relationship holds? Pose a similar problem.
+(Exercise 28.1, Extension and Exploration, Problem 8) As shown in the figure, $\triangle{A}BD$ and $\triangle{A}EC$ are both equilateral triangles. What is the relationship between $BE$ and $DC$? Can you use the properties of rotation to explain why this relationship holds? Pose a similar problem.
 
 ### Solution to Problem 8
 
-By Properties of Rotation, we can rotate $\triangle ADC$ about the point $A$.
+By Properties of Rotation, we can rotate $\triangle{A}DC$ about the point $A$.
 
-$\triangle ABD$ and $\triangle AEC$ are both equilateral, so $AD=AB$, $AC=AE$, $\angle DAB=\angle CAE=60^\circ$. Thus
-
-$$
-\angle DAC=\angle DAB+\angle BAC=60^\circ+\angle BAC,
-$$
+$\triangle{A}BD$ and $\triangle{A}EC$ are both equilateral, so $AD=AB$, $AC=AE$, $\angle{D}AB=\angle{C}AE=60^\circ$. Thus
 
 $$
-\angle BAE=\angle BAC+\angle CAE=\angle BAC+60^\circ.
+\angle{D}AC=\angle{D}AB+\angle{B}AC=60^\circ+\angle{B}AC,
 $$
 
-Hence $\angle DAC=\angle BAE$. Rotating $\triangle ADC$ about the point $A$ clockwise through $60^\circ$, $D$ coincides with $B$ and $C$ coincides with $E$, so $\triangle ADC\cong\triangle ABE$, and therefore $DC=BE$. $\blacksquare$
+$$
+\angle{B}AE=\angle{B}AC+\angle{C}AE=\angle{B}AC+60^\circ.
+$$
+
+Hence $\angle{D}AC=\angle{B}AE$. Rotating $\triangle{A}DC$ about the point $A$ clockwise through $60^\circ$, $D$ coincides with $B$ and $C$ coincides with $E$, so $\triangle{A}DC\cong\triangle{A}BE$, and therefore $DC=BE$. $\blacksquare$
 
 ## Reading and Thinking 1
 
@@ -312,9 +312,9 @@ Hence $\angle DAC=\angle BAE$. Rotating $\triangle ADC$ about the point $A$ cloc
 
 ### Solution to Reading and Thinking 1
 
-By Properties of Rotation, let $\triangle ABC$ be rotated about the point $O$ to obtain $\triangle A'B'C'$.
+By Properties of Rotation, let $\triangle{A}BC$ be rotated about the point $O$ to obtain $\triangle{A}'B'C'$.
 
-By the properties of rotation, $OA=OA'$, $OB=OB'$, and $\angle AOA'=\angle BOB'$, hence $\angle AOB=\angle A'OB'$, and therefore $\triangle AOB\cong\triangle A'OB'$, so $AB=A'B'$. Similarly, $AC=A'C'$, $BC=B'C'$, hence $\triangle ABC\cong\triangle A'B'C'$, and correspondingly the angles $\angle ABC=\angle A'B'C'$, $\angle BAC=\angle B'A'C'$, $\angle ACB=\angle A'C'B'$.
+By the properties of rotation, $OA=OA'$, $OB=OB'$, and $\angle{A}OA'=\angle{B}OB'$, hence $\angle{A}OB=\angle{A}'OB'$, and therefore $\triangle{A}OB\cong\triangle{A}'OB'$, so $AB=A'B'$. Similarly, $AC=A'C'$, $BC=B'C'$, hence $\triangle{A}BC\cong\triangle{A}'B'C'$, and correspondingly the angles $\angle{A}BC=\angle{A}'B'C'$, $\angle{B}AC=\angle{B}'A'C'$, $\angle{A}CB=\angle{A}'C'B'$.
 
 That is, during rotation, the distance between any two points is preserved, and the angle formed by any three points is preserved. $\blacksquare$
 
@@ -363,7 +363,7 @@ Among the given patterns, those that coincide with themselves after being rotate
 (Exercise 28.2, Problem 1) Among the following points, which two are symmetric about the origin?
 
 $$
-A\left(-5,0\right),\ B\left(0,2\right),\ C\left(2,-1\right),\ D\left(2,0\right),\ E\left(0,5\right),\ F\left(-2,1\right),\ G\left(-2,-1\right).
+A\left(-5,0\right),\,B\left(0,2\right),\,C\left(2,-1\right),\,D\left(2,0\right),\,E\left(0,5\right),\,F\left(-2,1\right),\,G\left(-2,-1\right).
 $$
 
 ### Solution to Exercise 10
@@ -377,7 +377,7 @@ $C\left(2,-1\right)$ and $G\left(-2,-1\right)$ are not symmetric about the origi
 (Exercise 28.2, Problem 2) Write the coordinates of the points $A'$, $B'$, $C'$, $D'$ symmetric to the following points about the origin:
 
 $$
-A\left(3,1\right),\ B\left(-2,3\right),\ C\left(-1,-2\right),\ D\left(2,-3\right).
+A\left(3,1\right),\,B\left(-2,3\right),\,C\left(-1,-2\right),\,D\left(2,-3\right).
 $$
 
 ### Solution to Exercise 11
@@ -385,14 +385,14 @@ $$
 By Coordinates of Points Symmetric about the Origin, the coordinates have opposite signs.
 
 $$
-A'\left(-3,-1\right),\ B'\left(2,-3\right),\ C'\left(1,2\right),\ D'\left(-2,3\right).
+A'\left(-3,-1\right),\,B'\left(2,-3\right),\,C'\left(1,2\right),\,D'\left(-2,3\right).
 $$
 
 $\blacksquare$
 
 ## Exercise 12
 
-(Exercise 28.2, Problem 3) As shown in the figure, the diagonals of $\square ABCD$ intersect at the origin, and the coordinates of its vertices $A$ and $B$ are $\left(-2,2\right)$ and $\left(1,-3\right)$ respectively. Find the coordinates of its vertices $C$ and $D$.
+(Exercise 28.2, Problem 3) As shown in the figure, the diagonals of $\square{A}BCD$ intersect at the origin, and the coordinates of its vertices $A$ and $B$ are $\left(-2,2\right)$ and $\left(1,-3\right)$ respectively. Find the coordinates of its vertices $C$ and $D$.
 
 ### Solution to Exercise 12
 
@@ -452,23 +452,23 @@ If the two semicircles are centrally symmetric about some point, then that point
 
 ## Problem 14
 
-(Exercise 28.2, Comprehensive Application, Problem 6) As shown in the figure, given $\triangle ABC$, can one obtain another triangle through translation, axial symmetry, or rotation, so that the two triangles can be joined to form a parallelogram with $AC$ and $AB$ as adjacent sides?
+(Exercise 28.2, Comprehensive Application, Problem 6) As shown in the figure, given $\triangle{A}BC$, can one obtain another triangle through translation, axial symmetry, or rotation, so that the two triangles can be joined to form a parallelogram with $AC$ and $AB$ as adjacent sides?
 
 ### Solution to Problem 14
 
 By Properties of Central Symmetry.
 
-Rotate $\triangle ABC$ about the midpoint of the side $BC$ through $180^\circ$ to obtain a triangle symmetric to it about this midpoint; the two triangles form a parallelogram with $AB$ and $AC$ as adjacent sides. $\blacksquare$
+Rotate $\triangle{A}BC$ about the midpoint of the side $BC$ through $180^\circ$ to obtain a triangle symmetric to it about this midpoint; the two triangles form a parallelogram with $AB$ and $AC$ as adjacent sides. $\blacksquare$
 
 ## Problem 15
 
-(Exercise 28.2, Comprehensive Application, Problem 7) As shown in the figure, explain how to obtain $\triangle DEC$ from $\triangle ABC$ through translation, axial symmetry, or rotation.
+(Exercise 28.2, Comprehensive Application, Problem 7) As shown in the figure, explain how to obtain $\triangle{D}EC$ from $\triangle{A}BC$ through translation, axial symmetry, or rotation.
 
 ### Solution to Problem 15
 
 By Properties of Central Symmetry.
 
-Observing the corresponding vertices, if $C$ is the common point among the corresponding vertices and $A$, $B$ correspond to $D$, $E$ respectively, then $\triangle ABC$ can be rotated about the point $C$ through an appropriate angle to obtain $\triangle DEC$. $\blacksquare$
+Observing the corresponding vertices, if $C$ is the common point among the corresponding vertices and $A$, $B$ correspond to $D$, $E$ respectively, then $\triangle{A}BC$ can be rotated about the point $C$ through an appropriate angle to obtain $\triangle{D}EC$. $\blacksquare$
 
 ## Problem 16
 

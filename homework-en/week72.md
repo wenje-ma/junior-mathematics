@@ -2,23 +2,23 @@
 
 > **Definition 28.1.1 (Sine)**
 > 
-> In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the opposite side to the hypotenuse of the acute angle $A$ the sine of $\angle A$, denoted $\sin A$, i.e.
+> In $\text{Rt}\triangle{A}BC$, $\angle{C}=90^{\circ}$, we call the ratio of the opposite side to the hypotenuse of the acute angle $A$ the sine of $\angle{A}$, denoted $\sin{A}$, i.e.
 
 > **Definition 28.1.2 (Cosine)**
 > 
-> In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the adjacent side to the hypotenuse of the acute angle $A$ the cosine of $\angle A$, denoted $\cos A$, i.e.
+> In $\text{Rt}\triangle{A}BC$, $\angle{C}=90^{\circ}$, we call the ratio of the adjacent side to the hypotenuse of the acute angle $A$ the cosine of $\angle{A}$, denoted $\cos{A}$, i.e.
 
 > **Conclusion 28.1.2 (Trigonometric Function Values of Special Angles)**
 > 
-> $\sin 30^{\circ}=\frac{1}{2}$, $\cos 30^{\circ}=\frac{\sqrt{3}}{2}$, $\tan 30^{\circ}=\frac{\sqrt{3}}{3}$; $\sin 45^{\circ}=\frac{\sqrt{2}}{2}$, $\cos 45^{\circ}=\frac{\sqrt{2}}{2}$, $\tan 45^{\circ}=1$; $\sin 60^{\circ}=\frac{\sqrt{3}}{2}$, $\cos 60^{\circ}=\frac{1}{2}$, $\tan 60^{\circ}=\sqrt{3}$.
+> $\sin30^{\circ}=\frac{1}{2}$, $\cos30^{\circ}=\frac{\sqrt{3}}{2}$, $\tan30^{\circ}=\frac{\sqrt{3}}{3}$; $\sin45^{\circ}=\frac{\sqrt{2}}{2}$, $\cos45^{\circ}=\frac{\sqrt{2}}{2}$, $\tan45^{\circ}=1$; $\sin60^{\circ}=\frac{\sqrt{3}}{2}$, $\cos60^{\circ}=\frac{1}{2}$, $\tan60^{\circ}=\sqrt{3}$.
 
 > **Definition 28.1.3 (Tangent)**
 > 
-> In $\text{Rt}\triangle ABC$, $\angle C=90^{\circ}$, we call the ratio of the opposite side to the adjacent side of the acute angle $A$ the tangent of $\angle A$, denoted $\tan A$, i.e.
+> In $\text{Rt}\triangle{A}BC$, $\angle{C}=90^{\circ}$, we call the ratio of the opposite side to the adjacent side of the acute angle $A$ the tangent of $\angle{A}$, denoted $\tan{A}$, i.e.
 
 > **Conclusion 28.2.1 (Relationships Among the Elements of a Right Triangle)**
 > 
-> $a^{2}+b^{2}=c^{2}$; $\angle A+\angle B=90^{\circ}$; $\sin A=\frac{a}{c}$, $\cos A=\frac{b}{c}$, $\tan A=\frac{a}{b}$.
+> $a^{2}+b^{2}=c^{2}$; $\angle{A}+\angle{B}=90^{\circ}$; $\sin{A}=\frac{a}{c}$, $\cos{A}=\frac{b}{c}$, $\tan{A}=\frac{a}{b}$.
 
 > **Definition 29.1.1 (Projection)**
 > 
@@ -74,21 +74,21 @@ Area: the regular $n$-gon can be divided into $n$ congruent isosceles triangles,
 
 $$S_{n}=\frac{n}{2}R^{2}\sin\frac{2\pi}{n}.$$
 
-(2) As $n$ increases, $\sin\frac{\pi}{n}\approx\frac{\pi}{n}$, so $P_{n}\to 2\pi R$ (the circumference of the circle); $\sin\frac{2\pi}{n}\approx\frac{2\pi}{n}$, so $S_{n}\to\pi R^{2}$ (the area of the circle). That is, as the number of sides increases, the perimeter of the regular polygon approaches the circumference of the circle, and the area approaches the area of the circle. $\blacksquare$
+(2) As $n$ increases, $\sin\frac{\pi}{n}\approx\frac{\pi}{n}$, so $P_{n}\to2\pi{R}$ (the circumference of the circle); $\sin\frac{2\pi}{n}\approx\frac{2\pi}{n}$, so $S_{n}\to\pi{R}^{2}$ (the area of the circle). That is, as the number of sides increases, the perimeter of the regular polygon approaches the circumference of the circle, and the area approaches the area of the circle. $\blacksquare$
 
 ## Review Problem 2
 
-(Review Problem, Extension and Exploration, Problem 14) As shown in the figure, in an acute triangle $\triangle ABC$, investigate the relationship among $\frac{a}{\sin A}$, $\frac{b}{\sin B}$, and $\frac{c}{\sin C}$.
+(Review Problem, Extension and Exploration, Problem 14) As shown in the figure, in an acute triangle $\triangle{A}BC$, investigate the relationship among $\frac{a}{\sin{A}}$, $\frac{b}{\sin{B}}$, and $\frac{c}{\sin{C}}$.
 
 ### Solution to Review Problem 2
 
-Draw the altitude $h_{a}$ to side $BC$ through $A$. In $\text{Rt}\triangle ABH$, $h_{a}=c\sin B$; in $\text{Rt}\triangle ACH$, $h_{a}=b\sin C$. Hence $c\sin B=b\sin C$, i.e. $\frac{b}{\sin B}=\frac{c}{\sin C}$.
+Draw the altitude $h_{a}$ to side $BC$ through $A$. In $\text{Rt}\triangle{A}BH$, $h_{a}=c\sin{B}$; in $\text{Rt}\triangle{A}CH$, $h_{a}=b\sin{C}$. Hence $c\sin{B}=b\sin{C}$, i.e. $\frac{b}{\sin{B}}=\frac{c}{\sin{C}}$.
 
-Similarly, drawing the altitude to side $AC$ through $B$, we get $c\sin A=a\sin C$, i.e. $\frac{a}{\sin A}=\frac{c}{\sin C}$.
+Similarly, drawing the altitude to side $AC$ through $B$, we get $c\sin{A}=a\sin{C}$, i.e. $\frac{a}{\sin{A}}=\frac{c}{\sin{C}}$.
 
 Thus
 
-$$\frac{a}{\sin A}=\frac{b}{\sin B}=\frac{c}{\sin C}.\ \blacksquare$$
+$$\frac{a}{\sin{A}}=\frac{b}{\sin{B}}=\frac{c}{\sin{C}}.\,\blacksquare$$
 
 ## Exercise 1
 
@@ -150,9 +150,9 @@ When the axial cross-section is parallel to the projection plane, the orthogonal
 
 The height of the cone is $h=\sqrt{l^{2}-r^{2}}=\sqrt{9-\frac{9}{4}}=\sqrt{\frac{27}{4}}=\frac{3\sqrt{3}}{2}$.
 
-The volume is $V=\frac{1}{3}\pi r^{2}h=\frac{1}{3}\pi\times\frac{9}{4}\times\frac{3\sqrt{3}}{2}=\frac{9\sqrt{3}\pi}{8}$.
+The volume is $V=\frac{1}{3}\pi{r}^{2}h=\frac{1}{3}\pi\times\frac{9}{4}\times\frac{3\sqrt{3}}{2}=\frac{9\sqrt{3}\pi}{8}$.
 
-The surface area is $S=\pi r^{2}+\pi rl=\pi\times\frac{9}{4}+\pi\times\frac{3}{2}\times 3=\frac{9\pi}{4}+\frac{9\pi}{2}=\frac{27\pi}{4}$. $\blacksquare$
+The surface area is $S=\pi{r}^{2}+\pi{r}l=\pi\times\frac{9}{4}+\pi\times\frac{3}{2}\times3=\frac{9\pi}{4}+\frac{9\pi}{2}=\frac{27\pi}{4}$. $\blacksquare$
 
 ## Problem 5
 
@@ -240,11 +240,11 @@ The figure shows two sets of three views: (1) front view a triangle, side view a
 
 The tent has no bottom, so the surface area $=$ the lateral area of the cylinder $+$ the lateral area of the cone.
 
-The cylinder base diameter is $240$, the radius $r=120$, the height $h=200$. The lateral area of the cylinder $=2\pi rh=2\pi\times 120\times 200=48000\pi$.
+The cylinder base diameter is $240$, the radius $r=120$, the height $h=200$. The lateral area of the cylinder $=2\pi{r}h=2\pi\times120\times200=48000\pi$.
 
-The cone slant height is $l=300$, the base radius $r=120$. The lateral area of the cone $=\pi rl=\pi\times 120\times 300=36000\pi$.
+The cone slant height is $l=300$, the base radius $r=120$. The lateral area of the cone $=\pi{r}l=\pi\times120\times300=36000\pi$.
 
-The total surface area $=48000\pi+36000\pi=84000\pi\approx 263894\ \text{cm}^{2}$. $\blacksquare$
+The total surface area $=48000\pi+36000\pi=84000\pi\approx263894\,\text{cm}^{2}$. $\blacksquare$
 
 ## Problem 6
 
@@ -314,9 +314,9 @@ The figure shows perspective diagrams of two solids made of 7 small cubes: (1) a
 
 By Projection Rules for the Three Views, the three views are as shown in the figure:
 
-(1) Pyramid-shaped stack (bottom row of $4$, middle layer of $2$ centered, top of $1$): the front view is a stepped rectangle (bottom $4$ cells, middle $2$ cells, top $1$ cell), the top view is a $4\times 2$ grid array, and the left view is a $2$-column staircase.
+(1) Pyramid-shaped stack (bottom row of $4$, middle layer of $2$ centered, top of $1$): the front view is a stepped rectangle (bottom $4$ cells, middle $2$ cells, top $1$ cell), the top view is a $4\times2$ grid array, and the left view is a $2$-column staircase.
 
-(2) L-shaped column (bottom $3\times 2$ grid, with the right vertical column stacked $3$ layers high): the front view is a rectangle plus a tall column on the right, the top view is a $3\times 2$ grid, and the left view is a rectangle plus a tall column. $\blacksquare$
+(2) L-shaped column (bottom $3\times2$ grid, with the right vertical column stacked $3$ layers high): the front view is a rectangle plus a tall column on the right, the top view is a $3\times2$ grid, and the left view is a rectangle plus a tall column. $\blacksquare$
 
 ## Problem 12
 
@@ -356,7 +356,7 @@ The top view determines that there are several positions on the bottom layer whe
 
 From the three views, the solid is judged to be a cylinder, with base diameter $d=10$, radius $r=5$, and height $h=5$.
 
-The surface area is $S=2\pi r^{2}+2\pi rh=2\pi\times 25+2\pi\times 5\times 5=50\pi+50\pi=100\pi\approx 314\ \text{cm}^{2}$. $\blacksquare$
+The surface area is $S=2\pi{r}^{2}+2\pi{r}h=2\pi\times25+2\pi\times5\times5=50\pi+50\pi=100\pi\approx314\,\text{cm}^{2}$. $\blacksquare$
 
 ## Reading and Reflection 1
 
@@ -402,9 +402,9 @@ The figure shows several groups of planar nets made up of four equilateral trian
 
 (2) The three views of the regular tetrahedron are as shown in figure (1): the front view is an equilateral triangle (with a vertical dashed line inside indicating the blocked edge), the top view is an equilateral triangle (with a center point inside), and the left view is an equilateral triangle. The side lengths of the three views are equal, embodying length aligned, height level, and width equal.
 
-(3) The area of each equilateral triangle is $\frac{\sqrt{3}}{4}\times 1^{2}=\frac{\sqrt{3}}{4}$. The triangular pyramid has four faces, so the surface area is
+(3) The area of each equilateral triangle is $\frac{\sqrt{3}}{4}\times1^{2}=\frac{\sqrt{3}}{4}$. The triangular pyramid has four faces, so the surface area is
 
-$$S=4\times\frac{\sqrt{3}}{4}=\sqrt{3}.\ \blacksquare$$
+$$S=4\times\frac{\sqrt{3}}{4}=\sqrt{3}.\,\blacksquare$$
 
 ## Project 4
 
@@ -428,7 +428,7 @@ $$h=\sqrt{l^{2}-r^{2}}=\sqrt{169-25}=\sqrt{144}=12.$$
 
 The volume is
 
-$$V=\frac{1}{3}\pi r^{2}h=\frac{1}{3}\pi\times 25\times 12=100\pi.\ \blacksquare$$
+$$V=\frac{1}{3}\pi{r}^{2}h=\frac{1}{3}\pi\times25\times12=100\pi.\,\blacksquare$$
 
 ## Activity 1
 
@@ -484,7 +484,7 @@ By Basic Knowledge, the three views are as shown in the figure:
 
 ## Review Problem 5
 
-(Review Problem, Review and Consolidation, Problem 3) Based on the three views, describe the shape of this object. The three views consist of square cells forming a stepped shape; the top view is a $3\times 1$ grid and the front view is a stepped $3$ columns.
+(Review Problem, Review and Consolidation, Problem 3) Based on the three views, describe the shape of this object. The three views consist of square cells forming a stepped shape; the top view is a $3\times1$ grid and the front view is a stepped $3$ columns.
 
 ### Solution to Review Problem 5
 
@@ -518,11 +518,11 @@ The figure shows the surface net of a cylinder: in the middle is a rectangle of 
 
 The net consists of one rectangle and two equal circles, so the object is a cylinder. The width of the rectangle is the base diameter $d=10$, the radius $r=5$; the height of the rectangle is the cylinder height $h=20$.
 
-Three views: the front view is a rectangle ($10\times 20$), the top view is a circle of diameter $10$, and the left view is a rectangle ($10\times 20$).
+Three views: the front view is a rectangle ($10\times20$), the top view is a circle of diameter $10$, and the left view is a rectangle ($10\times20$).
 
-The volume is $V=\pi r^{2}h=\pi\times 25\times 20=500\pi$.
+The volume is $V=\pi{r}^{2}h=\pi\times25\times20=500\pi$.
 
-The surface area is $S=2\pi r^{2}+2\pi rh=2\pi\times 25+2\pi\times 5\times 20=50\pi+200\pi=250\pi$. $\blacksquare$
+The surface area is $S=2\pi{r}^{2}+2\pi{r}h=2\pi\times25+2\pi\times5\times20=50\pi+200\pi=250\pi$. $\blacksquare$
 
 ## Review Problem 9
 
@@ -540,11 +540,11 @@ The cone slant height is $l=\sqrt{r^{2}+h_{2}^{2}}=\sqrt{25+25}=5\sqrt{2}$.
 
 The surface area of the composite $=$ the lateral area of the cylinder $+$ the base area of the cylinder $+$ the lateral area of the cone (the upper base of the cylinder coincides with the base of the cone and is not counted):
 
-$$S=2\pi rh_{1}+\pi r^{2}+\pi rl=2\pi\times 5\times 20+\pi\times 25+\pi\times 5\times 5\sqrt{2}$$
+$$S=2\pi{r}h_{1}+\pi{r}^{2}+\pi{r}l=2\pi\times5\times20+\pi\times25+\pi\times5\times5\sqrt{2}$$
 
 $$=200\pi+25\pi+25\sqrt{2}\,\pi=25\pi\left(9+\sqrt{2}\right).$$
 
-The net is: a rectangle ($2\pi r\times h_{1}=10\pi\times 20$) as the lateral face of the cylinder, a circle of radius $r=5$ as the base, and a sector of radius $l=5\sqrt{2}$ and arc length $10\pi$ as the lateral face of the cone. $\blacksquare$
+The net is: a rectangle ($2\pi{r}\times{h}_{1}=10\pi\times20$) as the lateral face of the cylinder, a circle of radius $r=5$ as the base, and a sector of radius $l=5\sqrt{2}$ and arc length $10\pi$ as the lateral face of the cone. $\blacksquare$
 
 ## Review Problem 10
 
@@ -554,14 +554,14 @@ The figure shows two sets of dimensioned three views, each corresponding to a di
 
 (1) Both the front view and the left view are a large rectangle (height $8$) with a small rectangle stacked on top (height $2$, width $4$); the top view is two concentric circles, the outer circle of diameter $8$ and the inner circle of diameter $4$.
 
-(2) The front view is a rectangle (width $4$, height $6$) with a semicircle on top (radius $2$); the left view is a narrow rectangle (width $2$, height $6$); the top view is a rectangle ($4\times 2$).
+(2) The front view is a rectangle (width $4$, height $6$) with a semicircle on top (radius $2$); the left view is a narrow rectangle (width $2$, height $6$); the top view is a rectangle ($4\times2$).
 
 ### Solution to Review Problem 10
 
 (1) Since the top view is concentric circles and both the front and left views are stacked rectangles, the solid is two coaxial cylinders: the lower large cylinder of diameter $8$ (radius $4$), height $8$; the upper small cylinder of diameter $4$ (radius $2$), height $2$.
 
-$$V=\pi\times 4^{2}\times 8+\pi\times 2^{2}\times 2=128\pi+8\pi=136\pi.$$
+$$V=\pi\times4^{2}\times8+\pi\times2^{2}\times2=128\pi+8\pi=136\pi.$$
 
-(2) From the front view, left view, and top view, the lower part of the solid is a rectangular box ($4\times 2\times 6$), and the upper part is a half-cylinder (radius $r=2$, length $2$).
+(2) From the front view, left view, and top view, the lower part of the solid is a rectangular box ($4\times2\times6$), and the upper part is a half-cylinder (radius $r=2$, length $2$).
 
-$$V=4\times 2\times 6+\frac{1}{2}\pi\times 2^{2}\times 2=48+4\pi.\ \blacksquare$$
+$$V=4\times2\times6+\frac{1}{2}\pi\times2^{2}\times2=48+4\pi.\,\blacksquare$$

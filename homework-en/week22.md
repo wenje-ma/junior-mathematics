@@ -93,7 +93,7 @@ The figure shows a Cartesian coordinate plane with six planes at positions $A\le
 By **Definition 9.1.2 (Coordinates of a Point)**, read off the initial coordinates of the planes:
 
 $$
-A\left(1,1\right),\ B\left(-3,1\right),\ C\left(-1,-1\right),\ D\left(-5,1\right),\ E\left(-2,-2\right),\ F\left(1,-3\right).
+A\left(1,1\right),\,B\left(-3,1\right),\,C\left(-1,-1\right),\,D\left(-5,1\right),\,E\left(-2,-2\right),\,F\left(1,-3\right).
 $$
 
 $A$ flies to $A'\left(4,3\right)$; the translation vector is $\left(4-1,\,3-1\right)=\left(3,2\right)$, i.e. the whole formation is translated right by $3$ units and up by $2$ units.
@@ -101,7 +101,7 @@ $A$ flies to $A'\left(4,3\right)$; the translation vector is $\left(4-1,\,3-1\ri
 By Representing Translation with Coordinates, add $3$ to the x-coordinate and $2$ to the y-coordinate of each plane:
 
 $$
-A'\left(4,3\right),\ B'\left(0,3\right),\ C'\left(2,1\right),\ D'\left(-2,3\right),\ E'\left(1,0\right),\ F'\left(4,-1\right).
+A'\left(4,3\right),\,B'\left(0,3\right),\,C'\left(2,1\right),\,D'\left(-2,3\right),\,E'\left(1,0\right),\,F'\left(4,-1\right).
 $$
 
 $\blacksquare$
@@ -119,7 +119,7 @@ By **Definition 9.1.2 (Coordinates of a Point)**, read off the coordinates of th
 By Representing Translation with Coordinates, translating left by $2$ units subtracts $2$ from every x-coordinate, and translating up by $3$ units adds $3$ to every y-coordinate:
 
 $$
-A'\left(-4,1\right),\ B'\left(0,1\right),\ C'\left(1,5\right),\ D'\left(-3,5\right).
+A'\left(-4,1\right),\,B'\left(0,1\right),\,C'\left(1,5\right),\,D'\left(-3,5\right).
 $$
 
 Connecting them in order gives the translated parallelogram $A'B'C'D'$. $\blacksquare$
@@ -146,7 +146,7 @@ By Representing Geographic Locations with Coordinates, choose one corner point o
 
 ### Solution to Problem 8
 
-By Representing Translation with Coordinates, compare the coordinate changes of corresponding points of the fawn between two adjacent positions. An increase in x-coordinate means translating right, a decrease means translating left; an increase in y-coordinate means translating up, a decrease means translating down. Read off the changes in x- and y-coordinates for each segment $A\to B$, $B\to C$, $C\to D$; this gives the direction and distance of each translation. $\blacksquare$
+By Representing Translation with Coordinates, compare the coordinate changes of corresponding points of the fawn between two adjacent positions. An increase in x-coordinate means translating right, a decrease means translating left; an increase in y-coordinate means translating up, a decrease means translating down. Read off the changes in x- and y-coordinates for each segment $A\to{B}$, $B\to{C}$, $C\to{D}$; this gives the direction and distance of each translation. $\blacksquare$
 
 ## Problem 9
 
@@ -202,7 +202,7 @@ By Representing Geographic Locations with Coordinates.
 
 Li Ming takes the Central Square as the origin, east as the positive $x$-axis direction, north as the positive $y$-axis direction, and one small square (representing $100\,m$) as one unit of length. The Peony Garden is $3$ squares east and $3$ squares north of the Central Square, so its coordinates are $\left(3,3\right)$.
 
-Zhang Hua's "about $420\,m$ northeast" means the Peony Garden lies in the northeast (north by east $45^\circ$) direction of the Central Square. By the Pythagorean theorem, both the horizontal and vertical distances are about $300\,m$, and the distance is $\sqrt{300^2+300^2}\approx 420\,m$. This is describing a position using a direction angle plus a distance.
+Zhang Hua's "about $420\,m$ northeast" means the Peony Garden lies in the northeast (north by east $45^\circ$) direction of the Central Square. By the Pythagorean theorem, both the horizontal and vertical distances are about $300\,m$, and the distance is $\sqrt{300^2+300^2}\approx420\,m$. This is describing a position using a direction angle plus a distance.
 
 Similarly, one can describe the positions of attractions such as Yintai Terrace, Lake Pavilion, Wangchun Pavilion, Amusement Park, South Gate, West Gate, and East Gate using coordinates (Li Ming's method) or direction-and-distance (Zhang Hua's method). $\blacksquare$
 
@@ -214,7 +214,7 @@ Similarly, one can describe the positions of attractions such as Yintai Terrace,
 
 By Representing Geographic Locations with Coordinates and Representing Translation with Coordinates.
 
-Take the center of the formation's front row as the origin, the horizontal direction as the $x$-axis, the vertical direction as the $y$-axis, and one member occupying one unit square. Design the starting formation: let each member correspond to one coordinate, for example arranged in a $4\times 4$ square formation, with member coordinates $\left(1,1\right)$, $\left(1,2\right)$, $\cdots$, $\left(4,4\right)$.
+Take the center of the formation's front row as the origin, the horizontal direction as the $x$-axis, the vertical direction as the $y$-axis, and one member occupying one unit square. Design the starting formation: let each member correspond to one coordinate, for example arranged in a $4\times4$ square formation, with member coordinates $\left(1,1\right)$, $\left(1,2\right)$, $\cdots$, $\left(4,4\right)$.
 
 During the performance, change the formation by translating all members by the same coordinate vector: adding $a$ to every x-coordinate shifts everyone $a$ squares right, and adding $b$ to every y-coordinate shifts everyone $b$ squares up. Design the coordinates of the members in the starting formation, the middle expanded formation, and the ending formation, and use arrows to indicate the coordinate change in each formation transition; this gives the performance design plan. $\blacksquare$
 
@@ -247,7 +247,7 @@ The figure shows an octagon in a Cartesian coordinate plane, symmetric about bot
 By **Definition 9.1.2 (Coordinates of a Point)**, drop perpendiculars from each vertex of the octagon to the $x$-axis and $y$-axis, and read off the numbers corresponding to the feet. The octagon is symmetric about both the $y$-axis and the $x$-axis; the coordinates of its eight vertices are (counterclockwise starting from the upper left):
 
 $$
-\left(-2,3\right),\ \left(-1,4\right),\ \left(1,4\right),\ \left(2,3\right),\ \left(2,-3\right),\ \left(1,-4\right),\ \left(-1,-4\right),\ \left(-2,-3\right).
+\left(-2,3\right),\,\left(-1,4\right),\,\left(1,4\right),\,\left(2,3\right),\,\left(2,-3\right),\,\left(1,-4\right),\,\left(-1,-4\right),\,\left(-2,-3\right).
 $$
 
 $\blacksquare$
@@ -302,21 +302,21 @@ By Representing Geographic Locations with Coordinates, describe using a directio
 
 ## Review Exercise 6
 
-(Review Exercise, Comprehensive Application, Problem 6) The four vertices of parallelogram $ABCO$ have coordinates $A\left(\sqrt 3,\sqrt 3\right)$, $B\left(3\sqrt 3,\sqrt 3\right)$, $C\left(2\sqrt 3,0\right)$, $O\left(0,0\right)$. Translate this parallelogram left by $\sqrt 3$ units of length to obtain parallelogram $A'B'C'O'$. Find the coordinates of the four vertices of parallelogram $A'B'C'O'$.
+(Review Exercise, Comprehensive Application, Problem 6) The four vertices of parallelogram $ABCO$ have coordinates $A\left(\sqrt3,\sqrt3\right)$, $B\left(3\sqrt3,\sqrt3\right)$, $C\left(2\sqrt3,0\right)$, $O\left(0,0\right)$. Translate this parallelogram left by $\sqrt3$ units of length to obtain parallelogram $A'B'C'O'$. Find the coordinates of the four vertices of parallelogram $A'B'C'O'$.
 
 ### Solution to Review Exercise 6
 
-By Representing Translation with Coordinates, translating left by $\sqrt 3$ units subtracts $\sqrt 3$ from every x-coordinate, while the y-coordinate is unchanged.
+By Representing Translation with Coordinates, translating left by $\sqrt3$ units subtracts $\sqrt3$ from every x-coordinate, while the y-coordinate is unchanged.
 
-$A\left(\sqrt 3,\sqrt 3\right)\to A'\left(0,\sqrt 3\right)$.
+$A\left(\sqrt3,\sqrt3\right)\to{A}'\left(0,\sqrt3\right)$.
 
-$B\left(3\sqrt 3,\sqrt 3\right)\to B'\left(2\sqrt 3,\sqrt 3\right)$.
+$B\left(3\sqrt3,\sqrt3\right)\to{B}'\left(2\sqrt3,\sqrt3\right)$.
 
-$C\left(2\sqrt 3,0\right)\to C'\left(\sqrt 3,0\right)$.
+$C\left(2\sqrt3,0\right)\to{C}'\left(\sqrt3,0\right)$.
 
-$O\left(0,0\right)\to O'\left(-\sqrt 3,0\right)$.
+$O\left(0,0\right)\to{O}'\left(-\sqrt3,0\right)$.
 
-That is, $A'\left(0,\sqrt 3\right)$, $B'\left(2\sqrt 3,\sqrt 3\right)$, $C'\left(\sqrt 3,0\right)$, $O'\left(-\sqrt 3,0\right)$. $\blacksquare$
+That is, $A'\left(0,\sqrt3\right)$, $B'\left(2\sqrt3,\sqrt3\right)$, $C'\left(\sqrt3,0\right)$, $O'\left(-\sqrt3,0\right)$. $\blacksquare$
 
 ## Review Exercise 7
 

@@ -2,11 +2,11 @@
 
 > **定义 27.1.1 (反比例函数)**
 > 
-> 形如 $y=\frac kx$ ($k$ 为常数, $k\ne0$) 的函数, 叫作反比例函数, 自变量 $x\ne0$.
+> 形如 $y=\frac{k}x$ ($k$ 为常数, $k\ne0$) 的函数, 叫作反比例函数, 自变量 $x\ne0$.
 
 > **结论 27.2.1 (反比例函数的性质)**
 > 
-> $k> 0$ 时图象在第一, 第三象限, 每个象限内 $y$ 随 $x$ 增大而减小; $k< 0$ 时在第二, 第四象限, 每个象限内 $y$ 随 $x$ 增大而增大.
+> $k>0$ 时图象在第一, 第三象限, 每个象限内 $y$ 随 $x$ 增大而减小; $k<0$ 时在第二, 第四象限, 每个象限内 $y$ 随 $x$ 增大而增大.
 
 > **定义 28.1.1 (图形的旋转)**
 > 
@@ -42,23 +42,23 @@
 
 ### 解答 复习题一
 
-设 $A,B,C$ 三面面积分别为 $4S,2S,S$. 砖重 $F$ 不变, 压强 $p=\frac FS$.
+设 $A,B,C$ 三面面积分别为 $4S,2S,S$. 砖重 $F$ 不变, 压强 $p=\frac{F}S$.
 
-$B$ 面向下时 $p=\frac F{2S}$, 即 $F=2Sp$.
+$B$ 面向下时 $p=\frac{F}{2S}$, 即 $F=2Sp$.
 
-$A$ 面向下时, $p_A=\frac F{4S}=\frac{2Sp}{4S}=\frac p2$.
+$A$ 面向下时, $p_A=\frac{F}{4S}=\frac{2Sp}{4S}=\frac{p}2$.
 
-$C$ 面向下时, $p_C=\frac FS=\frac{2Sp}{S}=2p$.
+$C$ 面向下时, $p_C=\frac{F}S=\frac{2Sp}{S}=2p$.
 
-故 $A$ 面向下时压强为 $\frac p2$, $C$ 面向下时压强为 $2p$. $\blacksquare$
+故 $A$ 面向下时压强为 $\frac{p}2$, $C$ 面向下时压强为 $2p$. $\blacksquare$
 
 ## 复习题二
 
-(复习题 综合运用第 7 题) 某品牌显示器寿命约为 $3\times10^4\ \text{h}$.
+(复习题 综合运用第 7 题) 某品牌显示器寿命约为 $3\times10^4\,\text{h}$.
 
 (1) 可工作天数 $d$ 与平均每天工作小时数 $t$ 有怎样的函数关系?
 
-(2) 如果平均每天工作 $10\ \text{h}$, 大约可使用多少天?
+(2) 如果平均每天工作 $10\,\text{h}$, 大约可使用多少天?
 
 ### 解答 复习题二
 
@@ -68,11 +68,11 @@ $C$ 面向下时, $p_C=\frac FS=\frac{2Sp}{S}=2p$.
 
 ## 复习题三
 
-(复习题 综合运用第 8 题) 把下列函数的解析式与其图象对应起来: 给定 $y=k/x$ 在 $k> 0$ 与 $k< 0$ 两种情形的图象.
+(复习题 综合运用第 8 题) 把下列函数的解析式与其图象对应起来: 给定 $y=k/x$ 在 $k>0$ 与 $k<0$ 两种情形的图象.
 
 ### 解答 复习题三
 
-由基础知识, $k> 0$ 的图象是位于第一, 第三象限的双曲线, $k< 0$ 的图象是位于第二, 第四象限的双曲线, 据此对应. $\blacksquare$
+由基础知识, $k>0$ 的图象是位于第一, 第三象限的双曲线, $k<0$ 的图象是位于第二, 第四象限的双曲线, 据此对应. $\blacksquare$
 
 ## 复习题四
 
@@ -80,7 +80,7 @@ $C$ 面向下时, $p_C=\frac FS=\frac{2Sp}{S}=2p$.
 
 ### 解答 复习题四
 
-设两个反比例函数为 $y=\frac{k_1}{x}$ 和 $y=\frac{k_2}{x}$, $k_1\ne k_2$. 若有公共点 $\left(x,y\right)$, 则 $\frac{k_1}{x}=\frac{k_2}{x}$, 即 $k_1=k_2$, 与 $k_1\ne k_2$ 矛盾. 故两个不同的反比例函数图象没有公共点. $\blacksquare$
+设两个反比例函数为 $y=\frac{k_1}{x}$ 和 $y=\frac{k_2}{x}$, $k_1\ne{k}_2$. 若有公共点 $\left(x,y\right)$, 则 $\frac{k_1}{x}=\frac{k_2}{x}$, 即 $k_1=k_2$, 与 $k_1\ne{k}_2$ 矛盾. 故两个不同的反比例函数图象没有公共点. $\blacksquare$
 
 ## 复习题五
 
@@ -88,21 +88,21 @@ $C$ 面向下时, $p_C=\frac FS=\frac{2Sp}{S}=2p$.
 
 ### 解答 复习题五
 
-若有交点, 则 $k_1x=\frac{k_2}{x}$, 即 $x^2=\frac{k_2}{k_1}$. 要使二者没有公共点, 需该方程无实数解, 即 $\frac{k_2}{k_1}< 0$. 故 $k_1,k_2$ 异号. $\blacksquare$
+若有交点, 则 $k_1x=\frac{k_2}{x}$, 即 $x^2=\frac{k_2}{k_1}$. 要使二者没有公共点, 需该方程无实数解, 即 $\frac{k_2}{k_1}<0$. 故 $k_1,k_2$ 异号. $\blacksquare$
 
 ## 复习题六
 
-(复习题 拓广探索第 11 题) 水利工程需运送土石方总量为 $10^6\ \text{m}^3$.
+(复习题 拓广探索第 11 题) 水利工程需运送土石方总量为 $10^6\,\text{m}^3$.
 
 (1) 平均运送速度 $v$ 与完成时间 $t$ 有怎样的函数关系?
 
-(2) 原有 $100$ 辆卡车每天共运 $10^4\ \text{m}^3$. 运送 $40$ 天后, 剩下任务必须在 $50$ 天内完成, 至少应增加多少辆卡车?
+(2) 原有 $100$ 辆卡车每天共运 $10^4\,\text{m}^3$. 运送 $40$ 天后, 剩下任务必须在 $50$ 天内完成, 至少应增加多少辆卡车?
 
 ### 解答 复习题六
 
 (1) 由 $vt=10^6$, 得 $v=\frac{10^6}{t}$.
 
-(2) 前 $40$ 天运送 $40\times10^4=4\times10^5\ \text{m}^3$, 剩余 $10^6-4\times10^5=6\times10^5\ \text{m}^3$. 要在 $50$ 天内完成, 每天需运 $\frac{6\times10^5}{50}=12000\ \text{m}^3$. 每辆卡车每天运 $\frac{10^4}{100}=100\ \text{m}^3$, 故共需卡车 $\frac{12000}{100}=120$ 辆, 至少应增加 $120-100=20$ 辆. $\blacksquare$
+(2) 前 $40$ 天运送 $40\times10^4=4\times10^5\,\text{m}^3$, 剩余 $10^6-4\times10^5=6\times10^5\,\text{m}^3$. 要在 $50$ 天内完成, 每天需运 $\frac{6\times10^5}{50}=12000\,\text{m}^3$. 每辆卡车每天运 $\frac{10^4}{100}=100\,\text{m}^3$, 故共需卡车 $\frac{12000}{100}=120$ 辆, 至少应增加 $120-100=20$ 辆. $\blacksquare$
 
 ## 练习一
 
@@ -118,13 +118,13 @@ $C$ 面向下时, $p_C=\frac FS=\frac{2Sp}{S}=2p$.
 
 (练习 28.1 第 2 题) 如图, 杠杆绕支点转动撬起重物, 杠杆的旋转中心在哪里? 旋转角是哪个角?
 
-图为一根直杠杆, 支点为 $O$, 左端 $A$ 处挂着重物, 右端向下压; 杠杆转动后到达新位置, 左端对应点为 $A'$, $OA$ 与 $OA'$ 所夹的角即为旋转角 $\angle AOA'$. 
+图为一根直杠杆, 支点为 $O$, 左端 $A$ 处挂着重物, 右端向下压; 杠杆转动后到达新位置, 左端对应点为 $A'$, $OA$ 与 $OA'$ 所夹的角即为旋转角 $\angle{A}OA'$. 
 
 ### 解答 练习二
 
 由**定义 28.1.1 (图形的旋转)** 及**定义 28.1.2 (对应点)**, 杠杆绕支点 $O$ 转动.
 
-杠杆的旋转中心为支点 $O$; 杠杆在转动前后两条位置线段所成的角即为旋转角 (图中 $\angle AOA'$). $\blacksquare$
+杠杆的旋转中心为支点 $O$; 杠杆在转动前后两条位置线段所成的角即为旋转角 (图中 $\angle{A}OA'$). $\blacksquare$
 
 ## 练习三
 
@@ -142,19 +142,19 @@ $C$ 面向下时, $p_C=\frac FS=\frac{2Sp}{S}=2p$.
 
 (1) 由**性质 28.1.1 (旋转的性质)**, $OP=OP'$, 即这两个点到旋转中心的距离相等.
 
-(2) 由**性质 28.1.1 (旋转的性质)**, $\angle POP'$ 等于旋转角 $80^\circ$. $\blacksquare$
+(2) 由**性质 28.1.1 (旋转的性质)**, $\angle{P}OP'$ 等于旋转角 $80^\circ$. $\blacksquare$
 
 ## 练习四
 
-(练习 28.1 第 1 题) 如图, 在 $\triangle ABC$ 中, $AB=AC$, $P$ 是边 $BC$ 上一点. 以点 $A$ 为旋转中心, 取旋转角等于 $\angle BAC$, 把 $\triangle ABP$ 逆时针旋转, 画出旋转后的图形.
+(练习 28.1 第 1 题) 如图, 在 $\triangle{A}BC$ 中, $AB=AC$, $P$ 是边 $BC$ 上一点. 以点 $A$ 为旋转中心, 取旋转角等于 $\angle{B}AC$, 把 $\triangle{A}BP$ 逆时针旋转, 画出旋转后的图形.
 
-图为等腰三角形 $ABC$, $AB=AC$, 点 $P$ 在底边 $BC$ 上, 需以 $A$ 为旋转中心, 旋转角等于 $\angle BAC$ 将 $\triangle ABP$ 逆时针旋转. 
+图为等腰三角形 $ABC$, $AB=AC$, 点 $P$ 在底边 $BC$ 上, 需以 $A$ 为旋转中心, 旋转角等于 $\angle{B}AC$ 将 $\triangle{A}BP$ 逆时针旋转. 
 
 ### 解答 练习四
 
 由**性质 28.1.1 (旋转的性质)**, 确定关键点 $B$, $P$ 的对应点.
 
-旋转中心 $A$ 不动. 因 $AB=AC$ 且旋转角等于 $\angle BAC$, 故点 $B$ 旋转后与点 $C$ 重合. 点 $P$ 在 $BC$ 上, 在 $CP$ 对应的射线上取点 $P'$, 使 $AP'=AP$, 则 $\triangle ACP'$ 即为 $\triangle ABP$ 旋转后的图形. $\blacksquare$
+旋转中心 $A$ 不动. 因 $AB=AC$ 且旋转角等于 $\angle{B}AC$, 故点 $B$ 旋转后与点 $C$ 重合. 点 $P$ 在 $BC$ 上, 在 $CP$ 对应的射线上取点 $P'$, 使 $AP'=AP$, 则 $\triangle{A}CP'$ 即为 $\triangle{A}BP$ 旋转后的图形. $\blacksquare$
 
 ## 练习五
 
@@ -200,59 +200,59 @@ $C$ 面向下时, $p_C=\frac FS=\frac{2Sp}{S}=2p$.
 
 ## 习题三
 
-(习题 28.1 复习巩固第 3 题) 如图, 分别画出 $\triangle ABC$ 绕点 $O$ 逆时针旋转 $90^\circ$ 和 $180^\circ$ 后得到的图形.
+(习题 28.1 复习巩固第 3 题) 如图, 分别画出 $\triangle{A}BC$ 绕点 $O$ 逆时针旋转 $90^\circ$ 和 $180^\circ$ 后得到的图形.
 
-图为平面上的 $\triangle ABC$, 形外有一点 $O$, 需分别画出 $\triangle ABC$ 绕点 $O$ 逆时针旋转 $90^\circ$ 和 $180^\circ$ 后得到的图形. 
+图为平面上的 $\triangle{A}BC$, 形外有一点 $O$, 需分别画出 $\triangle{A}BC$ 绕点 $O$ 逆时针旋转 $90^\circ$ 和 $180^\circ$ 后得到的图形. 
 
 ### 解答 习题三
 
 由**性质 28.1.1 (旋转的性质)**, 分别作 $A$, $B$, $C$ 关于 $O$ 的对应点.
 
-连接 $OA$, $OB$, $OC$, 分别绕 $O$ 逆时针旋转 $90^\circ$ 得 $A_1$, $B_1$, $C_1$, 使 $OA_1=OA$ 且 $\angle AOA_1=90^\circ$, 依次连接得 $\triangle A_1B_1C_1$; 同法旋转 $180^\circ$ 得 $\triangle A_2B_2C_2$, 其中 $A_2$, $B_2$, $C_2$ 分别在 $AO$, $BO$, $CO$ 的延长线上且 $OA_2=OA$, 依次连接即得. $\blacksquare$
+连接 $OA$, $OB$, $OC$, 分别绕 $O$ 逆时针旋转 $90^\circ$ 得 $A_1$, $B_1$, $C_1$, 使 $OA_1=OA$ 且 $\angle{A}OA_1=90^\circ$, 依次连接得 $\triangle{A}_1B_1C_1$; 同法旋转 $180^\circ$ 得 $\triangle{A}_2B_2C_2$, 其中 $A_2$, $B_2$, $C_2$ 分别在 $AO$, $BO$, $CO$ 的延长线上且 $OA_2=OA$, 依次连接即得. $\blacksquare$
 
 ## 习题四
 
-(习题 28.1 复习巩固第 4 题) 任意画一个 $\triangle ABC$, 并把它旋转:
+(习题 28.1 复习巩固第 4 题) 任意画一个 $\triangle{A}BC$, 并把它旋转:
 
-(1) 以点 $A$ 为旋转中心, 把 $\triangle ABC$ 逆时针旋转 $40^\circ$;
+(1) 以点 $A$ 为旋转中心, 把 $\triangle{A}BC$ 逆时针旋转 $40^\circ$;
 
-(2) 以边 $BC$ 的中点为旋转中心, 把 $\triangle ABC$ 顺时针旋转 $90^\circ$;
+(2) 以边 $BC$ 的中点为旋转中心, 把 $\triangle{A}BC$ 顺时针旋转 $90^\circ$;
 
-(3) 在 $\triangle ABC$ 内任取一点为旋转中心, 把 $\triangle ABC$ 逆时针旋转 $180^\circ$;
+(3) 在 $\triangle{A}BC$ 内任取一点为旋转中心, 把 $\triangle{A}BC$ 逆时针旋转 $180^\circ$;
 
-(4) 在 $\triangle ABC$ 外任取一点为旋转中心, 把 $\triangle ABC$ 顺时针旋转 $120^\circ$.
+(4) 在 $\triangle{A}BC$ 外任取一点为旋转中心, 把 $\triangle{A}BC$ 顺时针旋转 $120^\circ$.
 
 ### 解答 习题四
 
 由**性质 28.1.1 (旋转的性质)**, 分别确定 $A$, $B$, $C$ 三点的对应点后连接.
 
-(1) 以 $A$ 为中心, $B$, $C$ 分别绕 $A$ 逆时针转 $40^\circ$ 得 $B'$, $C'$, 连 $\triangle AB'C'$.
+(1) 以 $A$ 为中心, $B$, $C$ 分别绕 $A$ 逆时针转 $40^\circ$ 得 $B'$, $C'$, 连 $\triangle{A}B'C'$.
 
-(2) 以 $BC$ 中点 $M$ 为中心, $A$ 绕 $M$ 顺时针转 $90^\circ$ 得 $A'$, $B$, $C$ 对应互换位置, 连 $\triangle A'CB$.
+(2) 以 $BC$ 中点 $M$ 为中心, $A$ 绕 $M$ 顺时针转 $90^\circ$ 得 $A'$, $B$, $C$ 对应互换位置, 连 $\triangle{A}'CB$.
 
-(3) 以形内一点 $O$ 为中心, $A$, $B$, $C$ 分别关于 $O$ 作对称点 $A'$, $B'$, $C'$, 连 $\triangle A'B'C'$.
+(3) 以形内一点 $O$ 为中心, $A$, $B$, $C$ 分别关于 $O$ 作对称点 $A'$, $B'$, $C'$, 连 $\triangle{A}'B'C'$.
 
-(4) 以形外一点 $O$ 为中心, $A$, $B$, $C$ 分别绕 $O$ 顺时针转 $120^\circ$ 得 $A'$, $B'$, $C'$, 连 $\triangle A'B'C'$. $\blacksquare$
+(4) 以形外一点 $O$ 为中心, $A$, $B$, $C$ 分别绕 $O$ 顺时针转 $120^\circ$ 得 $A'$, $B'$, $C'$, 连 $\triangle{A}'B'C'$. $\blacksquare$
 
 ## 习题五
 
-(习题 28.1 综合运用第 5 题) 如图, $\triangle ABC$ 是一个等边三角形, $D$ 为边 $BC$ 的中点, 把 $\triangle ADC$ 绕点 $A$ 顺时针旋转 $60^\circ$ 得到 $\triangle AEB$, 求 $\angle ABE$, $\angle DAE$, $\angle BED$ 的度数.
+(习题 28.1 综合运用第 5 题) 如图, $\triangle{A}BC$ 是一个等边三角形, $D$ 为边 $BC$ 的中点, 把 $\triangle{A}DC$ 绕点 $A$ 顺时针旋转 $60^\circ$ 得到 $\triangle{A}EB$, 求 $\angle{A}BE$, $\angle{D}AE$, $\angle{B}ED$ 的度数.
 
-图为等边三角形 $ABC$, $D$ 为边 $BC$ 的中点; 将 $\triangle ADC$ 绕点 $A$ 顺时针旋转 $60^\circ$ 后得到 $\triangle AEB$, 点 $E$ 位于 $\triangle ABC$ 外侧, $BE$ 与 $BD$ 相连. 
+图为等边三角形 $ABC$, $D$ 为边 $BC$ 的中点; 将 $\triangle{A}DC$ 绕点 $A$ 顺时针旋转 $60^\circ$ 后得到 $\triangle{A}EB$, 点 $E$ 位于 $\triangle{A}BC$ 外侧, $BE$ 与 $BD$ 相连. 
 
 ### 解答 习题五
 
-由**性质 28.1.1 (旋转的性质)**, $\triangle ADC\cong\triangle AEB$, 且旋转角为 $60^\circ$.
+由**性质 28.1.1 (旋转的性质)**, $\triangle{A}DC\cong\triangle{A}EB$, 且旋转角为 $60^\circ$.
 
-$\triangle ABC$ 为等边三角形, 故 $\angle ACB=60^\circ$, $\angle BAC=60^\circ$.
+$\triangle{A}BC$ 为等边三角形, 故 $\angle{A}CB=60^\circ$, $\angle{B}AC=60^\circ$.
 
-$\angle ABE=\angle ACD=60^\circ$.
+$\angle{A}BE=\angle{A}CD=60^\circ$.
 
-旋转角 $\angle DAE=60^\circ$.
+旋转角 $\angle{D}AE=60^\circ$.
 
-又 $D$ 为 $BC$ 中点, 等边三角形中 $AD\perp BC$, $\angle ADC=90^\circ$, 旋转后 $\angle AEB=\angle ADC=90^\circ$. 在 $\triangle ADC$ 中 $\angle DAC=30^\circ$, 旋转后 $\angle BAE=30^\circ$. 在四边形 $A$, $B$, $D$, $E$ 中计算得 $\angle BED=30^\circ$.
+又 $D$ 为 $BC$ 中点, 等边三角形中 $AD\perp{B}C$, $\angle{A}DC=90^\circ$, 旋转后 $\angle{A}EB=\angle{A}DC=90^\circ$. 在 $\triangle{A}DC$ 中 $\angle{D}AC=30^\circ$, 旋转后 $\angle{B}AE=30^\circ$. 在四边形 $A$, $B$, $D$, $E$ 中计算得 $\angle{B}ED=30^\circ$.
 
-故 $\angle ABE=60^\circ$, $\angle DAE=60^\circ$, $\angle BED=30^\circ$. $\blacksquare$
+故 $\angle{A}BE=60^\circ$, $\angle{D}AE=60^\circ$, $\angle{B}ED=30^\circ$. $\blacksquare$
 
 ## 习题六
 
@@ -266,19 +266,19 @@ $\angle ABE=\angle ACD=60^\circ$.
 
 ## 习题七
 
-(习题 28.1 综合运用第 7 题) 如图, 在 $\triangle ABC$ 中, $\angle C=90^\circ$.
+(习题 28.1 综合运用第 7 题) 如图, 在 $\triangle{A}BC$ 中, $\angle{C}=90^\circ$.
 
-(1) 将 $\triangle ABC$ 绕点 $B$ 逆时针旋转 $90^\circ$, 画出旋转后的三角形;
+(1) 将 $\triangle{A}BC$ 绕点 $B$ 逆时针旋转 $90^\circ$, 画出旋转后的三角形;
 
 (2) 按 (1) 旋转后, 点 $A$ 的对应点为 $A'$, 若 $BC=3$, $AC=4$, 求 $A'A$ 的长.
 
 ### 解答 习题七
 
-由**性质 28.1.1 (旋转的性质)**, $BA'=BA$, $\angle ABA'=90^\circ$.
+由**性质 28.1.1 (旋转的性质)**, $BA'=BA$, $\angle{A}BA'=90^\circ$.
 
-(1) 以 $B$ 为中心, $A$, $C$ 分别绕 $B$ 逆时针转 $90^\circ$ 得 $A'$, $C'$, 连 $\triangle A'BC'$.
+(1) 以 $B$ 为中心, $A$, $C$ 分别绕 $B$ 逆时针转 $90^\circ$ 得 $A'$, $C'$, 连 $\triangle{A}'BC'$.
 
-(2) 在 $\text{Rt}\triangle ABC$ 中, $AB=\sqrt{BC^2+AC^2}=\sqrt{9+16}=5$. 由 $BA'=BA=5$ 且 $\angle ABA'=90^\circ$, $\triangle ABA'$ 为等腰直角三角形, 故
+(2) 在 $\text{Rt}\triangle{A}BC$ 中, $AB=\sqrt{BC^2+AC^2}=\sqrt{9+16}=5$. 由 $BA'=BA=5$ 且 $\angle{A}BA'=90^\circ$, $\triangle{A}BA'$ 为等腰直角三角形, 故
 
 $$
 A'A=\sqrt{AB^2+BA'^2}=\sqrt{25+25}=5\sqrt2.
@@ -288,23 +288,23 @@ $\blacksquare$
 
 ## 习题八
 
-(习题 28.1 拓广探索第 8 题) 如图, $\triangle ABD$, $\triangle AEC$ 都是等边三角形. $BE$ 与 $DC$ 有什么关系? 你能用旋转的性质说明上述关系成立的理由吗? 试提出一个类似的问题.
+(习题 28.1 拓广探索第 8 题) 如图, $\triangle{A}BD$, $\triangle{A}EC$ 都是等边三角形. $BE$ 与 $DC$ 有什么关系? 你能用旋转的性质说明上述关系成立的理由吗? 试提出一个类似的问题.
 
 ### 解答 习题八
 
-由**性质 28.1.1 (旋转的性质)**, 可将 $\triangle ADC$ 绕点 $A$ 旋转.
+由**性质 28.1.1 (旋转的性质)**, 可将 $\triangle{A}DC$ 绕点 $A$ 旋转.
 
-$\triangle ABD$ 与 $\triangle AEC$ 均为等边三角形, 故 $AD=AB$, $AC=AE$, $\angle DAB=\angle CAE=60^\circ$. 于是
-
-$$
-\angle DAC=\angle DAB+\angle BAC=60^\circ+\angle BAC,
-$$
+$\triangle{A}BD$ 与 $\triangle{A}EC$ 均为等边三角形, 故 $AD=AB$, $AC=AE$, $\angle{D}AB=\angle{C}AE=60^\circ$. 于是
 
 $$
-\angle BAE=\angle BAC+\angle CAE=\angle BAC+60^\circ.
+\angle{D}AC=\angle{D}AB+\angle{B}AC=60^\circ+\angle{B}AC,
 $$
 
-故 $\angle DAC=\angle BAE$. 将 $\triangle ADC$ 绕点 $A$ 顺时针旋转 $60^\circ$, $D$ 与 $B$ 重合, $C$ 与 $E$ 重合, 故 $\triangle ADC\cong\triangle ABE$, 从而 $DC=BE$. $\blacksquare$
+$$
+\angle{B}AE=\angle{B}AC+\angle{C}AE=\angle{B}AC+60^\circ.
+$$
+
+故 $\angle{D}AC=\angle{B}AE$. 将 $\triangle{A}DC$ 绕点 $A$ 顺时针旋转 $60^\circ$, $D$ 与 $B$ 重合, $C$ 与 $E$ 重合, 故 $\triangle{A}DC\cong\triangle{A}BE$, 从而 $DC=BE$. $\blacksquare$
 
 ## 阅读与思考一
 
@@ -312,9 +312,9 @@ $$
 
 ### 解答 阅读与思考一
 
-由**性质 28.1.1 (旋转的性质)**, 设 $\triangle ABC$ 绕点 $O$ 旋转得 $\triangle A'B'C'$.
+由**性质 28.1.1 (旋转的性质)**, 设 $\triangle{A}BC$ 绕点 $O$ 旋转得 $\triangle{A}'B'C'$.
 
-由旋转的性质, $OA=OA'$, $OB=OB'$, 且 $\angle AOA'=\angle BOB'$, 故 $\angle AOB=\angle A'OB'$, 从而 $\triangle AOB\cong\triangle A'OB'$, 于是 $AB=A'B'$. 同理 $AC=A'C'$, $BC=B'C'$, 故 $\triangle ABC\cong\triangle A'B'C'$, 进而对应角 $\angle ABC=\angle A'B'C'$, $\angle BAC=\angle B'A'C'$, $\angle ACB=\angle A'C'B'$.
+由旋转的性质, $OA=OA'$, $OB=OB'$, 且 $\angle{A}OA'=\angle{B}OB'$, 故 $\angle{A}OB=\angle{A}'OB'$, 从而 $\triangle{A}OB\cong\triangle{A}'OB'$, 于是 $AB=A'B'$. 同理 $AC=A'C'$, $BC=B'C'$, 故 $\triangle{A}BC\cong\triangle{A}'B'C'$, 进而对应角 $\angle{A}BC=\angle{A}'B'C'$, $\angle{B}AC=\angle{B}'A'C'$, $\angle{A}CB=\angle{A}'C'B'$.
 
 即在旋转过程中, 任意两点间的距离保持不变, 任意三点所成的角保持不变. $\blacksquare$
 
@@ -363,7 +363,7 @@ $$
 (练习 28.2 第 1 题) 下列各点中, 哪两个点关于原点对称?
 
 $$
-A\left(-5,0\right),\ B\left(0,2\right),\ C\left(2,-1\right),\ D\left(2,0\right),\ E\left(0,5\right),\ F\left(-2,1\right),\ G\left(-2,-1\right).
+A\left(-5,0\right),\,B\left(0,2\right),\,C\left(2,-1\right),\,D\left(2,0\right),\,E\left(0,5\right),\,F\left(-2,1\right),\,G\left(-2,-1\right).
 $$
 
 ### 解答 练习十
@@ -377,7 +377,7 @@ $C\left(2,-1\right)$ 与 $G\left(-2,-1\right)$ 不关于原点对称; $F\left(-2
 (练习 28.2 第 2 题) 写出下列各点关于原点的对称点 $A'$, $B'$, $C'$, $D'$ 的坐标:
 
 $$
-A\left(3,1\right),\ B\left(-2,3\right),\ C\left(-1,-2\right),\ D\left(2,-3\right).
+A\left(3,1\right),\,B\left(-2,3\right),\,C\left(-1,-2\right),\,D\left(2,-3\right).
 $$
 
 ### 解答 练习十一
@@ -385,14 +385,14 @@ $$
 由**性质 28.2.2 (关于原点对称的点的坐标)**, 坐标符号相反.
 
 $$
-A'\left(-3,-1\right),\ B'\left(2,-3\right),\ C'\left(1,2\right),\ D'\left(-2,3\right).
+A'\left(-3,-1\right),\,B'\left(2,-3\right),\,C'\left(1,2\right),\,D'\left(-2,3\right).
 $$
 
 $\blacksquare$
 
 ## 练习十二
 
-(练习 28.2 第 3 题) 如图, $\square ABCD$ 的对角线相交于原点, 其顶点 $A$, $B$ 的坐标分别为 $\left(-2,2\right)$ 和 $\left(1,-3\right)$. 求其顶点 $C$, $D$ 的坐标.
+(练习 28.2 第 3 题) 如图, $\square{A}BCD$ 的对角线相交于原点, 其顶点 $A$, $B$ 的坐标分别为 $\left(-2,2\right)$ 和 $\left(1,-3\right)$. 求其顶点 $C$, $D$ 的坐标.
 
 ### 解答 练习十二
 
@@ -452,23 +452,23 @@ $a=-5$, $b=-1$. $\blacksquare$
 
 ## 习题十四
 
-(习题 28.2 综合运用第 6 题) 如图, 已知 $\triangle ABC$, 能否通过平移, 轴对称或旋转, 得到另一个三角形, 使得这两个三角形能够拼成一个以 $AC$, $AB$ 为邻边的平行四边形?
+(习题 28.2 综合运用第 6 题) 如图, 已知 $\triangle{A}BC$, 能否通过平移, 轴对称或旋转, 得到另一个三角形, 使得这两个三角形能够拼成一个以 $AC$, $AB$ 为邻边的平行四边形?
 
 ### 解答 习题十四
 
 由**性质 28.2.1 (中心对称的性质)**.
 
-将 $\triangle ABC$ 绕边 $BC$ 的中点旋转 $180^\circ$, 得到与它关于该中点对称的三角形, 两个三角形拼成以 $AB$, $AC$ 为邻边的平行四边形. $\blacksquare$
+将 $\triangle{A}BC$ 绕边 $BC$ 的中点旋转 $180^\circ$, 得到与它关于该中点对称的三角形, 两个三角形拼成以 $AB$, $AC$ 为邻边的平行四边形. $\blacksquare$
 
 ## 习题十五
 
-(习题 28.2 综合运用第 7 题) 如图, 说明如何通过平移, 轴对称或旋转, 由 $\triangle ABC$ 得到 $\triangle DEC$.
+(习题 28.2 综合运用第 7 题) 如图, 说明如何通过平移, 轴对称或旋转, 由 $\triangle{A}BC$ 得到 $\triangle{D}EC$.
 
 ### 解答 习题十五
 
 由**性质 28.2.1 (中心对称的性质)**.
 
-观察对应顶点, 若 $C$ 为对应点中的公共点且 $A$, $B$ 分别与 $D$, $E$ 对应, 则可将 $\triangle ABC$ 绕点 $C$ 旋转适当角度得到 $\triangle DEC$. $\blacksquare$
+观察对应顶点, 若 $C$ 为对应点中的公共点且 $A$, $B$ 分别与 $D$, $E$ 对应, 则可将 $\triangle{A}BC$ 绕点 $C$ 旋转适当角度得到 $\triangle{D}EC$. $\blacksquare$
 
 ## 习题十六
 

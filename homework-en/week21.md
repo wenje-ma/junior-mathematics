@@ -6,11 +6,11 @@
 
 > **Definition 8.1.2 (Arithmetic Square Root)**
 > 
-> The positive square root $\sqrt a$ of a positive number $a$ is called the arithmetic square root of $a$, and $a$ is called the radicand. It is stipulated that the arithmetic square root of $0$ is $0$, i.e. $\sqrt 0=0$. The square roots of a positive number $a$ are denoted by $\pm\sqrt a$.
+> The positive square root $\sqrt{a}$ of a positive number $a$ is called the arithmetic square root of $a$, and $a$ is called the radicand. It is stipulated that the arithmetic square root of $0$ is $0$, i.e. $\sqrt0=0$. The square roots of a positive number $a$ are denoted by $\pm\sqrt{a}$.
 
 > **Property 8.1.3 (Relationship Between Squaring and Extracting Roots)**
 > 
-> For any nonnegative number $a$, $\left(\sqrt a\right)^2=a$; for any number $a$, $\sqrt{a^2}=\left|a\right|$.
+> For any nonnegative number $a$, $\left(\sqrt{a}\right)^2=a$; for any number $a$, $\sqrt{a^2}=\left|a\right|$.
 
 > **Definition 8.2.1 (Cube Root)**
 > 
@@ -61,12 +61,12 @@
 The cylindrical volume of the raised water level equals the volume of the cube. The volume of the raised part is
 
 $$
-V=\pi r^2 h=3.14\times 95^2\times 58.
+V=\pi{r}^2h=3.14\times95^2\times58.
 $$
 
-Compute: $95^2=9025$, $V=3.14\times 9025\times 58=1645553\,\text{mm}^3$.
+Compute: $95^2=9025$, $V=3.14\times9025\times58=1645553\,\text{mm}^3$.
 
-Let the edge length of the cube be $x$; $x^3=1645553$, $x=\sqrt\left[3\right]{1645553}\approx 118$.
+Let the edge length of the cube be $x$; $x^3=1645553$, $x=\sqrt\left[3\right]{1645553}\approx118$.
 
 That is, the edge length of the cube is about $118\,mm$. $\blacksquare$
 
@@ -82,9 +82,9 @@ The figure shows a shape composed of $5$ small squares of side length $1$.
 
 ### Solution to Review Exercise 2
 
-(1) The total area of the $5$ small squares of side length $1$ is $5$. The assembled large square also has area $5$, and by **Definition 8.1.1 (Square Root)**, the side length of the large square is $\sqrt 5$. Cut along the diagonals of the small-square grid and reassemble the cut right triangles to form a large square of side length $\sqrt 5$.
+(1) The total area of the $5$ small squares of side length $1$ is $5$. The assembled large square also has area $5$, and by **Definition 8.1.1 (Square Root)**, the side length of the large square is $\sqrt5$. Cut along the diagonals of the small-square grid and reassemble the cut right triangles to form a large square of side length $\sqrt5$.
 
-(2) The side length of the large square is $\sqrt 5$. On the number line, draw an arc centered at the origin with radius $\sqrt 5$; its intersection with the positive axis represents $\sqrt 5$, and its intersection with the negative axis represents $-\sqrt 5$. $\blacksquare$
+(2) The side length of the large square is $\sqrt5$. On the number line, draw an arc centered at the origin with radius $\sqrt5$; its intersection with the positive axis represents $\sqrt5$, and its intersection with the negative axis represents $-\sqrt5$. $\blacksquare$
 
 ## Exercise 1
 
@@ -97,7 +97,7 @@ The figure shows a Cartesian coordinate plane with $x$-axis, $y$-axis, and origi
 By **Definition 9.1.2 (Coordinates of a Point)**, draw a perpendicular from the point to the $x$-axis to get the x-coordinate, and to the $y$-axis to get the y-coordinate. Reading off the coordinates of the points,
 
 $$
-A\left(-3,-2\right),\ B\left(-5,4\right),\ C\left(5,-4\right),\ D\left(0,-3\right),\ E\left(2,5\right),\ F\left(-4,0\right).
+A\left(-3,-2\right),\,B\left(-5,4\right),\,C\left(5,-4\right),\,D\left(0,-3\right),\,E\left(2,5\right),\,F\left(-4,0\right).
 $$
 
 Among them, $D$ is on the $y$-axis (x-coordinate $0$), and $F$ is on the $x$-axis (y-coordinate $0$). $\blacksquare$
@@ -134,9 +134,9 @@ With $B$ as the origin, $A\left(-2,1\right)$, which means $A$ is $2$ units to th
 
 ## Exercise 5
 
-(Exercise 9.1, Problem 2) As shown in the figure, in right triangle $ABC$, $\angle C=90^\circ$, $AC=3$, $BC=4$. Establish a rectangular coordinate system and write down the coordinates of the three vertices of triangle $ABC$.
+(Exercise 9.1, Problem 2) As shown in the figure, in right triangle $ABC$, $\angle{C}=90^\circ$, $AC=3$, $BC=4$. Establish a rectangular coordinate system and write down the coordinates of the three vertices of triangle $ABC$.
 
-The figure shows a right triangle $ABC$ in a Cartesian coordinate plane, with $\angle C=90^\circ$, $AC=3$, $BC=4$.
+The figure shows a right triangle $ABC$ in a Cartesian coordinate plane, with $\angle{C}=90^\circ$, $AC=3$, $BC=4$.
 
 ### Solution to Exercise 5
 
@@ -163,7 +163,7 @@ By **Definition 9.1.1 (Rectangular Coordinate System)**, choose one right-angle 
 By **Definition 9.1.2 (Coordinates of a Point)**, through each point draw perpendiculars to the $x$-axis and $y$-axis respectively, and read off the number corresponding to the foot. The coordinates of the points are
 
 $$
-A\left(-5,4\right),\ B\left(-2,2\right),\ C\left(4,4\right),\ D\left(2,1\right),\ E\left(5,-3\right),\ F\left(0,-2\right),\ G\left(-4,-4\right),\ H\left(-3,-1\right).
+A\left(-5,4\right),\,B\left(-2,2\right),\,C\left(4,4\right),\,D\left(2,1\right),\,E\left(5,-3\right),\,F\left(0,-2\right),\,G\left(-4,-4\right),\,H\left(-3,-1\right).
 $$
 
 The first number of each point is the x-coordinate, and the second number is the y-coordinate. $\blacksquare$
@@ -203,7 +203,7 @@ The figure shows a Cartesian coordinate plane with points $B\left(0,0\right)$, $
 With $B$ as the origin and the line on which $BC$ lies as the $x$-axis, $C\left(4,0\right)$. By **Definition 9.1.2 (Coordinates of a Point)**, read off the coordinates:
 
 $$
-A\left(-2,2\right),\ D\left(5,1\right),\ E\left(4,2\right),\ F\left(2,0\right),\ G\left(1,4\right).
+A\left(-2,2\right),\,D\left(5,1\right),\,E\left(4,2\right),\,F\left(2,0\right),\,G\left(1,4\right).
 $$
 
 Judge by **Definition 9.1.3 (Quadrants)**: $A\left(-2,2\right)$ has negative x and positive y, in the second quadrant; $D\left(5,1\right)$, $E\left(4,2\right)$, $G\left(1,4\right)$ have both x and y positive, in the first quadrant; $F\left(2,0\right)$ is on the $x$-axis, belonging to no quadrant; $B\left(0,0\right)$ is the origin, and $C\left(4,0\right)$ is on the $x$-axis. $\blacksquare$
@@ -260,9 +260,9 @@ Both $A\left(-2,4\right)$ and $B\left(3,4\right)$ have y-coordinate $4$, and all
 
 (Exercise 9.1, Review and Consolidation, Problem 8) In the rectangular coordinate system, choose some points whose x- and y-coordinates satisfy the following conditions, mark their positions, and see in which quadrant or on which coordinate axis they lie:
 
-(1) The coordinates of point $P\left(x,y\right)$ satisfy $xy> 0$;
+(1) The coordinates of point $P\left(x,y\right)$ satisfy $xy>0$;
 
-(2) The coordinates of point $P\left(x,y\right)$ satisfy $xy< 0$;
+(2) The coordinates of point $P\left(x,y\right)$ satisfy $xy<0$;
 
 (3) The coordinates of point $P\left(x,y\right)$ satisfy $xy=0$.
 
@@ -270,15 +270,15 @@ Both $A\left(-2,4\right)$ and $B\left(3,4\right)$ have y-coordinate $4$, and all
 
 By the signs of the x- and y-coordinates in each quadrant in **Definition 9.1.3 (Quadrants)**.
 
-(1) $xy> 0$ means $x$, $y$ have the same sign: both positive is the first quadrant, both negative is the third quadrant. Thus these points lie in the first or third quadrant.
+(1) $xy>0$ means $x$, $y$ have the same sign: both positive is the first quadrant, both negative is the third quadrant. Thus these points lie in the first or third quadrant.
 
-(2) $xy< 0$ means $x$, $y$ have opposite signs: $x$ positive and $y$ negative is the fourth quadrant, $x$ negative and $y$ positive is the second quadrant. Thus these points lie in the second or fourth quadrant.
+(2) $xy<0$ means $x$, $y$ have opposite signs: $x$ positive and $y$ negative is the fourth quadrant, $x$ negative and $y$ positive is the second quadrant. Thus these points lie in the second or fourth quadrant.
 
 (3) $xy=0$ means $x=0$ or $y=0$: points with $x=0$ lie on the $y$-axis, and points with $y=0$ lie on the $x$-axis. Thus these points lie on the coordinate axes. $\blacksquare$
 
 ## Problem 9
 
-(Exercise 9.1, Comprehensive Application, Problem 9) Given points $O\left(0,0\right)$, $B\left(1,2\right)$, point $A$ lies on a coordinate axis, and $S_{\triangle OAB}=2$. Find the coordinates of point $A$ satisfying the conditions.
+(Exercise 9.1, Comprehensive Application, Problem 9) Given points $O\left(0,0\right)$, $B\left(1,2\right)$, point $A$ lies on a coordinate axis, and $S_{\triangle{O}AB}=2$. Find the coordinates of point $A$ satisfying the conditions.
 
 ### Solution to Problem 9
 
@@ -287,18 +287,18 @@ Point $A$ lies on a coordinate axis; there are two cases.
 If $A$ is on the $x$-axis, let $A\left(a,0\right)$. Taking $OA$ as the base, of length $\left|a\right|$, the height is the distance from point $B$ to the $x$-axis, namely the y-coordinate of $B$, which is $2$. By the triangle area formula,
 
 $$
-S_{\triangle OAB}=\frac{1}{2}\left|a\right|\cdot 2=\left|a\right|=2,
+S_{\triangle{O}AB}=\frac{1}{2}\left|a\right|\cdot2=\left|a\right|=2,
 $$
 
-so $a=\pm 2$, i.e. $A\left(2,0\right)$ or $A\left(-2,0\right)$.
+so $a=\pm2$, i.e. $A\left(2,0\right)$ or $A\left(-2,0\right)$.
 
 If $A$ is on the $y$-axis, let $A\left(0,b\right)$. Taking $OA$ as the base, of length $\left|b\right|$, the height is the distance from point $B$ to the $y$-axis, namely the x-coordinate of $B$, which is $1$. Then
 
 $$
-S_{\triangle OAB}=\frac{1}{2}\left|b\right|\cdot 1=2,
+S_{\triangle{O}AB}=\frac{1}{2}\left|b\right|\cdot1=2,
 $$
 
-so $\left|b\right|=4$, $b=\pm 4$, i.e. $A\left(0,4\right)$ or $A\left(0,-4\right)$.
+so $\left|b\right|=4$, $b=\pm4$, i.e. $A\left(0,4\right)$ or $A\left(0,-4\right)$.
 
 In summary, the points $A$ satisfying the conditions are $\left(2,0\right)$, $\left(-2,0\right)$, $\left(0,4\right)$, $\left(0,-4\right)$. $\blacksquare$
 
@@ -310,7 +310,7 @@ The figure shows a shape (such as a "house") drawn by its vertex coordinates.
 
 ### Solution to Problem 10
 
-By One-to-One Correspondence Between Points and Coordinates, choose several key points of the figure, write down the coordinates of each point, and then specify the connecting order. For example, design a "house" figure whose vertex coordinates in order are $A\left(-2,0\right)$, $B\left(2,0\right)$, $C\left(2,2\right)$, $D\left(0,4\right)$, $E\left(-2,2\right)$, connected in the order $A\to B\to C\to D\to E\to A$. The classmate plots the points and connects them according to the coordinates to draw the figure. $\blacksquare$
+By One-to-One Correspondence Between Points and Coordinates, choose several key points of the figure, write down the coordinates of each point, and then specify the connecting order. For example, design a "house" figure whose vertex coordinates in order are $A\left(-2,0\right)$, $B\left(2,0\right)$, $C\left(2,2\right)$, $D\left(0,4\right)$, $E\left(-2,2\right)$, connected in the order $A\to{B}\to{C}\to{D}\to{E}\to{A}$. The classmate plots the points and connects them according to the coordinates to draw the figure. $\blacksquare$
 
 ## Exercise 7
 

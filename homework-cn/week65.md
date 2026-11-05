@@ -6,7 +6,7 @@
 
 > **定义 26.1.2 (反比例函数的图象与性质)**
 > 
-> $y=\frac{k}{x}$ 的图象是双曲线。$k> 0$ 时两支在第一, 第三象限，每象限内 $y$ 随 $x$ 增大而减小；$k< 0$ 时两支在第二, 第四象限，每象限内 $y$ 随 $x$ 增大而增大。
+> $y=\frac{k}{x}$ 的图象是双曲线。$k>0$ 时两支在第一, 第三象限，每象限内 $y$ 随 $x$ 增大而减小；$k<0$ 时两支在第二, 第四象限，每象限内 $y$ 随 $x$ 增大而增大。
 
 > **定义 26.1.3 (待定系数法)**
 > 
@@ -18,15 +18,15 @@
 
 > **公式 29.3.1 (弧长公式)**
 > 
-> 在半径为 $R$ 的圆中, $n^\circ$ 的圆心角所对的弧长 $l=\frac{n\pi R}{180}$.
+> 在半径为 $R$ 的圆中, $n^\circ$ 的圆心角所对的弧长 $l=\frac{n\pi{R}}{180}$.
 
 > **公式 29.3.2 (扇形面积公式)**
 > 
-> 在半径为 $R$ 的圆中, 圆心角为 $n^\circ$ 的扇形面积 $S=\frac{n\pi R^2}{360}=\frac12 lR$, 其中 $l$ 为扇形的弧长.
+> 在半径为 $R$ 的圆中, 圆心角为 $n^\circ$ 的扇形面积 $S=\frac{n\pi{R}^2}{360}=\frac12lR$, 其中 $l$ 为扇形的弧长.
 
 > **性质 30.1.1 (位置关系判定)**
 > 
-> 设 $\odot O$ 半径为 $r$, 圆心到直线距离为 $d$, 则 $d> r$ 相离, $d=r$ 相切, $d< r$ 相交.
+> 设 $\odot{O}$ 半径为 $r$, 圆心到直线距离为 $d$, 则 $d>{}r$ 相离, $d=r$ 相切, $d<{}r$ 相交.
 
 > **定理 30.1.1 (切线的性质)**
 > 
@@ -54,13 +54,13 @@
 
 ## 练习一
 
-(练习 30.2 第 1 题) 如图, $\odot O$ 中, $\angle ABC=50^\circ$, 点 $P$ 是 $\triangle ABC$ 的内心, 求 $\angle BOC$ 的度数.
+(练习 30.2 第 1 题) 如图, $\odot{O}$ 中, $\angle{A}BC=50^\circ$, 点 $P$ 是 $\triangle{A}BC$ 的内心, 求 $\angle{B}OC$ 的度数.
 
 ### 解答 练习一
 
 由**定义 30.2.1 (三角形的内切圆)**.
 
-内心为角平分线交点, $\angle OBC=\frac12\angle ABC=25^\circ$, $\angle OCB=\frac12\angle ACB$. 由三角形内角和计算得 $\angle BOC=90^\circ+\frac12\angle A$. 由 $\angle A=180^\circ-\angle ABC-\angle ACB$, 得 $\angle BOC=115^\circ$. $\blacksquare$
+内心为角平分线交点, $\angle{O}BC=\frac12\angle{A}BC=25^\circ$, $\angle{O}CB=\frac12\angle{A}CB$. 由三角形内角和计算得 $\angle{B}OC=90^\circ+\frac12\angle{A}$. 由 $\angle{A}=180^\circ-\angle{A}BC-\angle{A}CB$, 得 $\angle{B}OC=115^\circ$. $\blacksquare$
 
 ## 练习二
 
@@ -74,7 +74,7 @@
 
 ## 习题一
 
-(习题 30.2 复习巩固第 1 题) $\triangle ABC$ 的内切圆半径为 $r$, $\triangle ABC$ 的周长为 $l$. 求 $\triangle ABC$ 的面积.
+(习题 30.2 复习巩固第 1 题) $\triangle{A}BC$ 的内切圆半径为 $r$, $\triangle{A}BC$ 的周长为 $l$. 求 $\triangle{A}BC$ 的面积.
 
 ### 解答 习题一
 
@@ -83,14 +83,14 @@
 内心到三边距离均为 $r$, 将三角形分为三个小三角形, 面积之和为
 
 $$
-S=\frac12 r\cdot AB+\frac12 r\cdot BC+\frac12 r\cdot CA=\frac12 rl.
+S=\frac12r\cdot{A}B+\frac12r\cdot{B}C+\frac12r\cdot{C}A=\frac12rl.
 $$
 
 $\blacksquare$
 
 ## 习题二
 
-(习题 30.2 复习巩固第 2 题) 如图, $\triangle ABC$ 中, $BC=14$, $AC=9$, $AB=13$, 它的内切圆分别和 $BC$, $AC$, $AB$ 切于点 $D$, $E$, $F$. 求 $AF$, $BD$, $CE$ 的长.
+(习题 30.2 复习巩固第 2 题) 如图, $\triangle{A}BC$ 中, $BC=14$, $AC=9$, $AB=13$, 它的内切圆分别和 $BC$, $AC$, $AB$ 切于点 $D$, $E$, $F$. 求 $AF$, $BD$, $CE$ 的长.
 
 ### 解答 习题二
 
@@ -100,7 +100,7 @@ $\blacksquare$
 
 ## 习题三
 
-(习题 30.2 综合运用第 3 题) 如图, 设 $\triangle ABC$ 的边 $BC=a$, $CA=b$, $AB=c$, $s=\frac{a+b+c}{2}$. 求证: $AE=AF=s-a$, $BF=BD=s-b$, $CD=CE=s-c$.
+(习题 30.2 综合运用第 3 题) 如图, 设 $\triangle{A}BC$ 的边 $BC=a$, $CA=b$, $AB=c$, $s=\frac{a+b+c}{2}$. 求证: $AE=AF=s-a$, $BF=BD=s-b$, $CD=CE=s-c$.
 
 ### 解答 习题三
 
@@ -110,13 +110,13 @@ $\blacksquare$
 
 ## 习题四
 
-(习题 30.2 综合运用第 4 题) $\text{Rt}\triangle ABC$ 中, $\angle C=90^\circ$, $BC=a$, $CA=b$, $AB=c$. 求内切圆半径 $r$.
+(习题 30.2 综合运用第 4 题) $\text{Rt}\triangle{A}BC$ 中, $\angle{C}=90^\circ$, $BC=a$, $CA=b$, $AB=c$. 求内切圆半径 $r$.
 
 ### 解答 习题四
 
 由**定义 30.2.1 (三角形的内切圆)** 及**习题三**结论.
 
-面积 $S=\frac12 ab$, 又 $S=\frac12 r\left(a+b+c\right)$, 故
+面积 $S=\frac12ab$, 又 $S=\frac12r\left(a+b+c\right)$, 故
 
 $$
 r=\frac{ab}{a+b+c}=\frac{a+b-c}{2}.
@@ -126,14 +126,14 @@ $\blacksquare$
 
 ## 习题五
 
-(习题 30.2 拓广探索第 5 题) 设 $\triangle ABC$ 的内切圆半径为 $r$, $\triangle ABC$ 的面积为 $S$, 周长为 $l$. 求 $S$, $l$, $r$ 之间的关系.
+(习题 30.2 拓广探索第 5 题) 设 $\triangle{A}BC$ 的内切圆半径为 $r$, $\triangle{A}BC$ 的面积为 $S$, 周长为 $l$. 求 $S$, $l$, $r$ 之间的关系.
 
 ### 解答 习题五
 
 由**定义 30.2.1 (三角形的内切圆)**.
 
 $$
-S=\frac12 rl.
+S=\frac12rl.
 $$
 
 $\blacksquare$
@@ -162,9 +162,9 @@ $\blacksquare$
 
 由**性质 30.3.1 (正多边形的性质)**.
 
-正三角形: 边长 $\sqrt3 R$, 边心距 $\frac{R}{2}$, 面积 $\frac{3\sqrt3}{4}R^2$.
+正三角形: 边长 $\sqrt3R$, 边心距 $\frac{R}{2}$, 面积 $\frac{3\sqrt3}{4}R^2$.
 
-正方形: 边长 $\sqrt2 R$, 边心距 $\frac{\sqrt2}{2}R$, 面积 $2R^2$. $\blacksquare$
+正方形: 边长 $\sqrt2R$, 边心距 $\frac{\sqrt2}{2}R$, 面积 $2R^2$. $\blacksquare$
 
 ## 练习五
 
@@ -192,7 +192,7 @@ $\blacksquare$
 
 ### 解答 图说数学史一
 
-由**公式 29.3.1 (弧长公式)** 及圆周长公式 $C=2\pi R$.
+由**公式 29.3.1 (弧长公式)** 及圆周长公式 $C=2\pi{R}$.
 
 我国三国时期刘徽用"割圆术"求得 $\pi\approx3.1416$; 南北朝祖冲之将 $\pi$ 精确到 $3.1415926$ 与 $3.1415927$ 之间. 近代用级数与计算机已计算到数万亿位. $\blacksquare$
 
@@ -218,7 +218,7 @@ $\blacksquare$
 
 ## 复习题一
 
-(复习题 30 复习巩固第 1 题) $\odot O$ 的半径为 $R$, 圆心 $O$ 到直线 $l$ 的距离为 $d$. $R$, $d$ 是方程 $x^2-6x+m=0$ 的两根, 当直线 $l$ 与 $\odot O$ 相切时, $m$ 的值是多少?
+(复习题 30 复习巩固第 1 题) $\odot{O}$ 的半径为 $R$, 圆心 $O$ 到直线 $l$ 的距离为 $d$. $R$, $d$ 是方程 $x^2-6x+m=0$ 的两根, 当直线 $l$ 与 $\odot{O}$ 相切时, $m$ 的值是多少?
 
 ### 解答 复习题一
 
@@ -228,17 +228,17 @@ $\blacksquare$
 
 ## 复习题二
 
-(复习题 30 复习巩固第 2 题) 如图, $PA$, $PB$ 是 $\odot O$ 的切线, $A$, $B$ 为切点, 点 $C$ 在 $\odot O$ 上, 如果 $\angle P=70^\circ$, 求 $\angle ACB$ 的度数.
+(复习题 30 复习巩固第 2 题) 如图, $PA$, $PB$ 是 $\odot{O}$ 的切线, $A$, $B$ 为切点, 点 $C$ 在 $\odot{O}$ 上, 如果 $\angle{P}=70^\circ$, 求 $\angle{A}CB$ 的度数.
 
 ### 解答 复习题二
 
 由**定理 30.1.3 (切线长定理)** 及**定理 29.2.3 (圆周角定理)**.
 
-$\angle AOB=180^\circ-70^\circ=110^\circ$, $\angle ACB=\frac12\angle AOB=55^\circ$. $\blacksquare$
+$\angle{A}OB=180^\circ-70^\circ=110^\circ$, $\angle{A}CB=\frac12\angle{A}OB=55^\circ$. $\blacksquare$
 
 ## 复习题三
 
-(复习题 30 复习巩固第 3 题) 如图, 正六边形 $ABCDEF$ 内接于半径为 $1$ 的 $\odot O$, 求 $\overset{\frown}{AB}$ 的长和正六边形 $ABCDEF$ 的面积.
+(复习题 30 复习巩固第 3 题) 如图, 正六边形 $ABCDEF$ 内接于半径为 $1$ 的 $\odot{O}$, 求 $\overset{\frown}{AB}$ 的长和正六边形 $ABCDEF$ 的面积.
 
 ### 解答 复习题三
 
@@ -248,7 +248,7 @@ $\angle AOB=180^\circ-70^\circ=110^\circ$, $\angle ACB=\frac12\angle AOB=55^\cir
 
 ## 复习题四
 
-(复习题 30 复习巩固第 4 题) 如图, $PA$, $PB$ 分别切 $\odot O$ 于 $A$, $B$, $\odot O$ 的切线 $EF$ 分别交 $PA$, $PB$ 于 $E$, $F$, 切点为 $C$. 若 $PA$ 长为 $4$, 求 $\triangle PEF$ 的周长.
+(复习题 30 复习巩固第 4 题) 如图, $PA$, $PB$ 分别切 $\odot{O}$ 于 $A$, $B$, $\odot{O}$ 的切线 $EF$ 分别交 $PA$, $PB$ 于 $E$, $F$, 切点为 $C$. 若 $PA$ 长为 $4$, 求 $\triangle{P}EF$ 的周长.
 
 ### 解答 复习题四
 
@@ -258,37 +258,37 @@ $EA=EC$, $FB=FC$, 周长 $PE+EF+PF=PE+EC+CF+PF=PE+EA+FB+PF=PA+PB=8$. $\blacksqua
 
 ## 复习题五
 
-(复习题 30 复习巩固第 5 题) 如图, 菱形 $ABCD$ 中, 周长为 $20$, 对角线 $AC=8$. 若 $DE\perp BC$, 垂足为 $E$, 求证 $DE$ 是 $\triangle ABC$ 外接圆的切线.
+(复习题 30 复习巩固第 5 题) 如图, 菱形 $ABCD$ 中, 周长为 $20$, 对角线 $AC=8$. 若 $DE\perp{B}C$, 垂足为 $E$, 求证 $DE$ 是 $\triangle{A}BC$ 外接圆的切线.
 
 ### 解答 复习题五
 
 由**定理 30.1.2 (切线的判定)**.
 
-菱形边长 $5$, $BD=6$. 计算 $\triangle ABC$ 外接圆, 证明 $DE$ 垂直于过 $C$ 的半径即可. $\blacksquare$
+菱形边长 $5$, $BD=6$. 计算 $\triangle{A}BC$ 外接圆, 证明 $DE$ 垂直于过 $C$ 的半径即可. $\blacksquare$
 
 ## 复习题六
 
-(复习题 30 综合运用第 6 题) 如图, 在 $\odot O$ 中, $AB$ 为直径, $AC$ 为弦, $D$ 是 $\overset{\frown}{BC}$ 的中点, 过 $D$ 作 $DE\perp AC$, 垂足为 $E$. 求证 $DE$ 是 $\odot O$ 的切线.
+(复习题 30 综合运用第 6 题) 如图, 在 $\odot{O}$ 中, $AB$ 为直径, $AC$ 为弦, $D$ 是 $\overset{\frown}{BC}$ 的中点, 过 $D$ 作 $DE\perp{A}C$, 垂足为 $E$. 求证 $DE$ 是 $\odot{O}$ 的切线.
 
 ### 解答 复习题六
 
 由**定理 30.1.2 (切线的判定)**.
 
-连接 $OD$. $D$ 为 $\overset{\frown}{BC}$ 中点, 故 $OD\perp BC$. 又 $AB$ 为直径, $AC\perp BC$, 故 $OD\parallel AC$. $DE\perp AC$, 故 $DE\perp OD$, $DE$ 为切线. $\blacksquare$
+连接 $OD$. $D$ 为 $\overset{\frown}{BC}$ 中点, 故 $OD\perp{B}C$. 又 $AB$ 为直径, $AC\perp{B}C$, 故 $OD\parallel{A}C$. $DE\perp{A}C$, 故 $DE\perp{O}D$, $DE$ 为切线. $\blacksquare$
 
 ## 复习题七
 
-(复习题 30 综合运用第 7 题) 如图, $\odot O$ 为 $\triangle ABC$ 的内切圆, $\angle C=90^\circ$, $AO$ 的延长线交 $BC$ 于点 $D$, $AC=4$, $DC=1$, 求 $\odot O$ 的半径.
+(复习题 30 综合运用第 7 题) 如图, $\odot{O}$ 为 $\triangle{A}BC$ 的内切圆, $\angle{C}=90^\circ$, $AO$ 的延长线交 $BC$ 于点 $D$, $AC=4$, $DC=1$, 求 $\odot{O}$ 的半径.
 
 ### 解答 复习题七
 
 由**定义 30.2.1 (三角形的内切圆)**.
 
-设半径 $r$. 内切圆切 $AC$ 于 $E$, $OE=r$, $OE\parallel BC$. $\frac{OE}{CD}=\frac{AO}{AD}$, 解得 $r=\frac{4}{5}$. $\blacksquare$
+设半径 $r$. 内切圆切 $AC$ 于 $E$, $OE=r$, $OE\parallel{B}C$. $\frac{OE}{CD}=\frac{AO}{AD}$, 解得 $r=\frac{4}{5}$. $\blacksquare$
 
 ## 复习题八
 
-(复习题 30 综合运用第 8 题) 如图, 在 $\triangle ABC$ 中, $AB=AC$, $\odot O$ 为 $\triangle ABC$ 的外接圆, $AD$, $CE$ 均为 $\odot O$ 的切线, 分别交过点 $B$ 的切线于 $D$, $E$. 求证 $BD\cdot CE=\left(\frac12 BC\right)^2$.
+(复习题 30 综合运用第 8 题) 如图, 在 $\triangle{A}BC$ 中, $AB=AC$, $\odot{O}$ 为 $\triangle{A}BC$ 的外接圆, $AD$, $CE$ 均为 $\odot{O}$ 的切线, 分别交过点 $B$ 的切线于 $D$, $E$. 求证 $BD\cdot{C}E=\left(\frac12BC\right)^2$.
 
 ### 解答 复习题八
 
@@ -298,17 +298,17 @@ $EA=EC$, $FB=FC$, 周长 $PE+EF+PF=PE+EC+CF+PF=PE+EA+FB+PF=PA+PB=8$. $\blacksqua
 
 ## 复习题九
 
-(复习题 30 综合运用第 9 题) 如图, 在 $\triangle ABC$ 中, $E$ 是内心, $AE$ 的延长线交 $\triangle ABC$ 的外接圆于点 $D$. 求证 $D$, $E$, $B$, $C$ 四点中, $D$ 是 $B$, $E$, $C$ 三点外接圆的圆心.
+(复习题 30 综合运用第 9 题) 如图, 在 $\triangle{A}BC$ 中, $E$ 是内心, $AE$ 的延长线交 $\triangle{A}BC$ 的外接圆于点 $D$. 求证 $D$, $E$, $B$, $C$ 四点中, $D$ 是 $B$, $E$, $C$ 三点外接圆的圆心.
 
 ### 解答 复习题九
 
 由**定义 30.2.1 (三角形的内切圆)** 及**定理 29.2.3 (圆周角定理)**.
 
-$E$ 为内心, $AD$ 平分 $\angle BAC$. 计算得 $\angle DBE=\angle DEB$, 故 $DB=DE$. 同理 $DC=DE$. 故 $DB=DE=DC$, $D$ 为圆心. $\blacksquare$
+$E$ 为内心, $AD$ 平分 $\angle{B}AC$. 计算得 $\angle{D}BE=\angle{D}EB$, 故 $DB=DE$. 同理 $DC=DE$. 故 $DB=DE=DC$, $D$ 为圆心. $\blacksquare$
 
 ## 复习题十
 
-(复习题 30 综合运用第 10 题) 如图, 在 $\text{Rt}\triangle ABC$ 中, $\angle BAC=90^\circ$, 且 $AB=AC=2$, 将 $\triangle ABC$ 沿直线 $BC$ 翻滚一周, 求点 $A$ 经过的路线长.
+(复习题 30 综合运用第 10 题) 如图, 在 $\text{Rt}\triangle{A}BC$ 中, $\angle{B}AC=90^\circ$, 且 $AB=AC=2$, 将 $\triangle{A}BC$ 沿直线 $BC$ 翻滚一周, 求点 $A$ 经过的路线长.
 
 ### 解答 复习题十
 
@@ -330,21 +330,21 @@ $\blacksquare$
 
 由**性质 30.3.1 (正多边形的性质)**.
 
-扳手开口为对边距离, 即 $2\times$ 边心距. 正六边形边心距 $\frac{\sqrt3}{2}a$, 故 $b=\sqrt3 a$. $\blacksquare$
+扳手开口为对边距离, 即 $2\times$ 边心距. 正六边形边心距 $\frac{\sqrt3}{2}a$, 故 $b=\sqrt3a$. $\blacksquare$
 
 ## 复习题十二
 
-(复习题 30 拓广探索第 12 题) 如图, 在平面直角坐标系中, $\odot P$ 的圆心为 $P$, 半径为 $r$, 若 $\odot P$ 与 $x$ 轴相交, 与 $y$ 轴相离, 则 $P$ 的横坐标 $a$ 与纵坐标 $b$, $r$ 满足怎样的关系?
+(复习题 30 拓广探索第 12 题) 如图, 在平面直角坐标系中, $\odot{P}$ 的圆心为 $P$, 半径为 $r$, 若 $\odot{P}$ 与 $x$ 轴相交, 与 $y$ 轴相离, 则 $P$ 的横坐标 $a$ 与纵坐标 $b$, $r$ 满足怎样的关系?
 
 ### 解答 复习题十二
 
 由**性质 30.1.1 (位置关系判定)**.
 
-与 $x$ 轴相交: $\left|b\right|< r$; 与 $y$ 轴相离: $\left|a\right|> r$. 即 $\left|b\right|< r< \left|a\right|$. $\blacksquare$
+与 $x$ 轴相交: $\left|b\right|<{}r$; 与 $y$ 轴相离: $\left|a\right|>{}r$. 即 $\left|b\right|<{}r<\left|a\right|$. $\blacksquare$
 
 ## 复习题十三
 
-(复习题 30 拓广探索第 13 题) 如图, $\odot O$ 的直径 $AB=12$, 等边 $\triangle OAG$ 内接于 $\odot O$, 以 $O$ 为圆心, $4$ 为半径的圆与 $OG$ 交于点 $D$, 过 $D$ 作 $DE\parallel AB$ 交 $\odot O$ 于点 $E$, 求图中阴影部分的面积.
+(复习题 30 拓广探索第 13 题) 如图, $\odot{O}$ 的直径 $AB=12$, 等边 $\triangle{O}AG$ 内接于 $\odot{O}$, 以 $O$ 为圆心, $4$ 为半径的圆与 $OG$ 交于点 $D$, 过 $D$ 作 $DE\parallel{A}B$ 交 $\odot{O}$ 于点 $E$, 求图中阴影部分的面积.
 
 ### 解答 复习题十三
 
@@ -356,11 +356,11 @@ $\blacksquare$
 
 (练习 26.1 第 1 题) 用函数解析式表示下列问题中变量间的对应关系: 
 
-(1) 一个游泳池的容积为 $2000\ \text{m}^3$, 游泳池注满水所用时间 $t$ (单位: $\text{h}$) 随注水速度 $v$ (单位: $\text{m}^3/\text{h}$) 的变化而变化; 
+(1) 一个游泳池的容积为 $2000\,\text{m}^3$, 游泳池注满水所用时间 $t$ (单位: $\text{h}$) 随注水速度 $v$ (单位: $\text{m}^3/\text{h}$) 的变化而变化; 
 
-(2) 某长方体的体积为 $1000\ \text{cm}^3$, 长方体的高 $h$ (单位: $\text{cm}$) 随底面积 $S$ (单位: $\text{cm}^2$) 的变化而变化; 
+(2) 某长方体的体积为 $1000\,\text{cm}^3$, 长方体的高 $h$ (单位: $\text{cm}$) 随底面积 $S$ (单位: $\text{cm}^2$) 的变化而变化; 
 
-(3) 一个物体重 $100\ \text{N}$, 物体对地面的压强 $p$ (单位: $\text{Pa}$) 随物体与地面的接触面积 $S$ (单位: $\text{m}^2$) 的变化而变化. 
+(3) 一个物体重 $100\,\text{N}$, 物体对地面的压强 $p$ (单位: $\text{Pa}$) 随物体与地面的接触面积 $S$ (单位: $\text{m}^2$) 的变化而变化. 
 
 ### 解答 练习七
 
@@ -378,10 +378,10 @@ $$
 h=\frac{1000}{S}.
 $$
 
-(3) 压强等于压力除以受力面积, 压力为 $100\ \text{N}$, 即 $pS=100$, 故
+(3) 压强等于压力除以受力面积, 压力为 $100\,\text{N}$, 即 $pS=100$, 故
 
 $$
-p=\frac{100}{S}.\ \blacksquare
+p=\frac{100}{S}.\,\blacksquare
 $$
 
 ## 练习八
@@ -389,7 +389,7 @@ $$
 (练习 26.1 第 2 题) 下列哪些关系式中的 $y$ 是 $x$ 的反比例函数? 
 
 $$
-y=4x,\quad \frac{y}{x}=3,\quad y=-\frac{2}{x},\quad y=6x+1,\quad y=x^2-1,\quad y=\frac{1}{x^2},\quad xy=123.
+y=4x,\quad\frac{y}{x}=3,\quad{y}=-\frac{2}{x},\quad{y}=6x+1,\quad{y}=x^2-1,\quad{y}=\frac{1}{x^2},\quad{x}y=123.
 $$
 
 ### 解答 练习八
@@ -440,7 +440,7 @@ $y=4x$ 为正比例函数; $\frac{y}{x}=3$ 即 $y=3x$, 为正比例函数; $y=-\
 
 (1) (A)(B) 为直线, (D) 为抛物线, 只有 (C) 是双曲线, 故选 (C). 
 
-(2) 图象分布在第一, 第三象限, 说明 $k> 0$, 且双曲线不过坐标轴. (B) 是直线, 排除; (D) 中 $k=-3< 0$, 图象应在第二, 第四象限, 排除. 由图中曲线过 $\left(1,4\right)$ 附近, 对应 $y=\frac{4}{x}$, 故选 (C). $\blacksquare$
+(2) 图象分布在第一, 第三象限, 说明 $k>0$, 且双曲线不过坐标轴. (B) 是直线, 排除; (D) 中 $k=-3<0$, 图象应在第二, 第四象限, 排除. 由图中曲线过 $\left(1,4\right)$ 附近, 对应 $y=\frac{4}{x}$, 故选 (C). $\blacksquare$
 
 ## 练习十一
 
@@ -454,9 +454,9 @@ $y=4x$ 为正比例函数; $\frac{y}{x}=3$ 即 $y=3x$, 为正比例函数; $y=-\
 
 由**定义 26.1.2 (反比例函数的图象与性质)**. 
 
-(1) $k=5> 0$, 故双曲线的两支分别位于第一, 第三象限. 
+(1) $k=5>0$, 故双曲线的两支分别位于第一, 第三象限. 
 
-(2) 图象位于第二, 第四象限, 说明 $k< 0$; 当 $k< 0$ 时, 在每一个象限内, $y$ 随 $x$ 的增大而增大. $\blacksquare$
+(2) 图象位于第二, 第四象限, 说明 $k<0$; 当 $k<0$ 时, 在每一个象限内, $y$ 随 $x$ 的增大而增大. $\blacksquare$
 
 ## 练习十二
 
@@ -470,21 +470,21 @@ $y=4x$ 为正比例函数; $\frac{y}{x}=3$ 即 $y=3x$, 为正比例函数; $y=-\
 
 由**定义 26.1.3 (待定系数法)**, 设 $y=\frac{k}{x}$. 代入 $A\left(3,-4\right)$, 得 $-4=\frac{k}{3}$, $k=-12$, 故 $y=\frac{-12}{x}$. 
 
-(1) $k=-12< 0$, 由**定义 26.1.2 (反比例函数的图象与性质)**, 图象位于第二, 第四象限, 在每一支上 $y$ 随 $x$ 的增大而增大. 
+(1) $k=-12<0$, 由**定义 26.1.2 (反比例函数的图象与性质)**, 图象位于第二, 第四象限, 在每一支上 $y$ 随 $x$ 的增大而增大. 
 
 (2) $B\left(-3,4\right)$: $\left(-3\right)\times4=-12=k$, 在图象上; $C\left(-2,6\right)$: $\left(-2\right)\times6=-12=k$, 在图象上; $D\left(3,4\right)$: $3\times4=12\ne-12$, 不在图象上. $\blacksquare$
 
 ## 练习十三
 
-(练习 26.1 第 2 题) 已知点 $A\left(x_1,y_1\right)$, $B\left(x_2,y_2\right)$ 在反比例函数 $y=\frac{1}{x}$ 的图象上. 如果 $x_1< x_2$, 而且 $x_1$, $x_2$ 同号, 那么 $y_1$, $y_2$ 有怎样的大小关系? 为什么? 
+(练习 26.1 第 2 题) 已知点 $A\left(x_1,y_1\right)$, $B\left(x_2,y_2\right)$ 在反比例函数 $y=\frac{1}{x}$ 的图象上. 如果 $x_1<{}x_2$, 而且 $x_1$, $x_2$ 同号, 那么 $y_1$, $y_2$ 有怎样的大小关系? 为什么? 
 
 ### 解答 练习十三
 
-由**定义 26.1.2 (反比例函数的图象与性质)**, $k=1> 0$, 在每一个象限内 $y$ 随 $x$ 的增大而减小. 
+由**定义 26.1.2 (反比例函数的图象与性质)**, $k=1>0$, 在每一个象限内 $y$ 随 $x$ 的增大而减小. 
 
-$x_1$, $x_2$ 同号, 说明 $A$, $B$ 在同一象限. 由 $x_1< x_2$, 在同一支上 $y$ 随 $x$ 增大而减小, 故 $y_1> y_2$. 
+$x_1$, $x_2$ 同号, 说明 $A$, $B$ 在同一象限. 由 $x_1<{}x_2$, 在同一支上 $y$ 随 $x$ 增大而减小, 故 $y_1>{}y_2$. 
 
-也可由解析式验证: $y_1-y_2=\frac{1}{x_1}-\frac{1}{x_2}=\frac{x_2-x_1}{x_1x_2}$. 由 $x_1< x_2$ 得 $x_2-x_1> 0$, 由 $x_1$, $x_2$ 同号得 $x_1x_2> 0$, 故 $y_1-y_2> 0$, 即 $y_1> y_2$. $\blacksquare$
+也可由解析式验证: $y_1-y_2=\frac{1}{x_1}-\frac{1}{x_2}=\frac{x_2-x_1}{x_1x_2}$. 由 $x_1<{}x_2$ 得 $x_2-x_1>0$, 由 $x_1$, $x_2$ 同号得 $x_1x_2>0$, 故 $y_1-y_2>0$, 即 $y_1>{}y_2$. $\blacksquare$
 
 ## 习题六
 
@@ -528,8 +528,8 @@ $x_1$, $x_2$ 同号, 说明 $A$, $B$ 在同一象限. 由 $x_1< x_2$, 在同一�
 
 由**定义 26.1.2 (反比例函数的图象与性质)**. 
 
-(1) 图象在第一, 第三象限, $k> 0$, $y$ 随 $x$ 增大而减小. 
+(1) 图象在第一, 第三象限, $k>0$, $y$ 随 $x$ 增大而减小. 
 
-(2) 图象在第二, 第四象限, $k< 0$, $y$ 随 $x$ 增大而增大. 
+(2) 图象在第二, 第四象限, $k<0$, $y$ 随 $x$ 增大而增大. 
 
-(3) 代入 $\left(1,3\right)$, $3=\frac{k}{1}$, $k=3> 0$, $y$ 随 $x$ 增大而减小. $\blacksquare$
+(3) 代入 $\left(1,3\right)$, $3=\frac{k}{1}$, $k=3>0$, $y$ 随 $x$ 增大而减小. $\blacksquare$

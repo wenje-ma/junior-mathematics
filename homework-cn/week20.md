@@ -10,11 +10,11 @@
 
 > **定义 8.1.2 (算术平方根)**
 > 
-> 正数 $a$ 的正的平方根 $\sqrt a$ 叫作 $a$ 的算术平方根, $a$ 叫作被开方数. 规定 $0$ 的算术平方根是 $0$, 即 $\sqrt 0=0$. 正数 $a$ 的平方根记作 $\pm\sqrt a$.
+> 正数 $a$ 的正的平方根 $\sqrt{a}$ 叫作 $a$ 的算术平方根, $a$ 叫作被开方数. 规定 $0$ 的算术平方根是 $0$, 即 $\sqrt0=0$. 正数 $a$ 的平方根记作 $\pm\sqrt{a}$.
 
 > **性质 8.1.3 (平方与开方的关系)**
 > 
-> 对任意非负数 $a$, $\left(\sqrt a\right)^2=a$; 对任意数 $a$, $\sqrt{a^2}=\left|a\right|$.
+> 对任意非负数 $a$, $\left(\sqrt{a}\right)^2=a$; 对任意数 $a$, $\sqrt{a^2}=\left|a\right|$.
 
 > **定义 8.2.1 (立方根)**
 > 
@@ -42,27 +42,27 @@
 
 ## 练习一
 
-(练习 8.3 第 3 题) 把下列实数表示在数轴上, 并比较它们的大小 (用"$< $"连接): $-2$, $\sqrt 2$, $\frac{3}{2}$, $-\pi$.
+(练习 8.3 第 3 题) 把下列实数表示在数轴上, 并比较它们的大小 (用"$<$"连接): $-2$, $\sqrt2$, $\frac{3}{2}$, $-\pi$.
 
-图中为一条数轴, 标出原点及正方向, 在数轴上从左到右依次标出 $-\pi$(约 $-3.14$), $-2$, $\sqrt 2$(约 $1.414$), $\frac{3}{2}=1.5$ 四个点.
+图中为一条数轴, 标出原点及正方向, 在数轴上从左到右依次标出 $-\pi$(约 $-3.14$), $-2$, $\sqrt2$(约 $1.414$), $\frac{3}{2}=1.5$ 四个点.
 
 ### 解答 练习一
 
 由**性质 8.3.1 (实数与数轴)**, 数轴上右边的数大于左边的数.
 
-估各数大小: $-\pi\approx-3.14$, $-2$, $\sqrt 2\approx 1.414$, $\frac{3}{2}=1.5$. 在数轴上从左到右依次为 $-\pi$, $-2$, $\sqrt 2$, $\frac{3}{2}$.
+估各数大小: $-\pi\approx-3.14$, $-2$, $\sqrt2\approx1.414$, $\frac{3}{2}=1.5$. 在数轴上从左到右依次为 $-\pi$, $-2$, $\sqrt2$, $\frac{3}{2}$.
 
 故
 
 $$
--\pi< -2< \sqrt 2< \frac{3}{2}.
+-\pi<-2<\sqrt2<\frac{3}{2}.
 $$
 
 $\blacksquare$
 
 ## 练习二
 
-(练习 8.3 第 1 题) 求下列各数的相反数与绝对值: $\sqrt{13}$, $-\sqrt 7$, $-\frac{\pi}{2}$, $1.4-\sqrt 2$, $\frac{\sqrt 5-1}{2}$, $0$.
+(练习 8.3 第 1 题) 求下列各数的相反数与绝对值: $\sqrt{13}$, $-\sqrt7$, $-\frac{\pi}{2}$, $1.4-\sqrt2$, $\frac{\sqrt5-1}{2}$, $0$.
 
 ### 解答 练习二
 
@@ -70,13 +70,13 @@ $\blacksquare$
 
 $\sqrt{13}$: 相反数为 $-\sqrt{13}$, 绝对值为 $\sqrt{13}$.
 
-$-\sqrt 7$: 相反数为 $\sqrt 7$, 绝对值为 $\sqrt 7$.
+$-\sqrt7$: 相反数为 $\sqrt7$, 绝对值为 $\sqrt7$.
 
 $-\frac{\pi}{2}$: 相反数为 $\frac{\pi}{2}$, 绝对值为 $\frac{\pi}{2}$.
 
-$1.4-\sqrt 2\approx 1.4-1.414< 0$: 相反数为 $\sqrt 2-1.4$, 绝对值为 $\sqrt 2-1.4$.
+$1.4-\sqrt2\approx1.4-1.414<0$: 相反数为 $\sqrt2-1.4$, 绝对值为 $\sqrt2-1.4$.
 
-$\frac{\sqrt 5-1}{2}\approx\frac{2.236-1}{2}> 0$: 相反数为 $\frac{1-\sqrt 5}{2}$, 绝对值为 $\frac{\sqrt 5-1}{2}$.
+$\frac{\sqrt5-1}{2}\approx\frac{2.236-1}{2}>0$: 相反数为 $\frac{1-\sqrt5}{2}$, 绝对值为 $\frac{\sqrt5-1}{2}$.
 
 $0$: 相反数为 $0$, 绝对值为 $0$. $\blacksquare$
 
@@ -84,18 +84,18 @@ $0$: 相反数为 $0$, 绝对值为 $0$. $\blacksquare$
 
 (练习 8.3 第 2 题) 计算:
 
-(1) $2\sqrt 5-3\sqrt 5$;　(2) $3\sqrt 3-\left|1-\sqrt\left[3\right]{3}\right|$.
+(1) $2\sqrt5-3\sqrt5$;　(2) $3\sqrt3-\left|1-\sqrt\left[3\right]{3}\right|$.
 
 ### 解答 练习三
 
 由**性质 8.3.2 (相反数与绝对值)**, 有理数运算法则适用于实数.
 
-(1) 由分配律, $2\sqrt 5-3\sqrt 5=\left(2-3\right)\sqrt 5=-\sqrt 5$.
+(1) 由分配律, $2\sqrt5-3\sqrt5=\left(2-3\right)\sqrt5=-\sqrt5$.
 
-(2) $\because\sqrt\left[3\right]{3}\approx 1.442> 1$, $\therefore 1-\sqrt\left[3\right]{3}< 0$, 故 $\left|1-\sqrt\left[3\right]{3}\right|=\sqrt\left[3\right]{3}-1$. 于是
+(2) $\because\sqrt\left[3\right]{3}\approx1.442>1$, $\therefore1-\sqrt\left[3\right]{3}<0$, 故 $\left|1-\sqrt\left[3\right]{3}\right|=\sqrt\left[3\right]{3}-1$. 于是
 
 $$
-3\sqrt 3-\left|1-\sqrt\left[3\right]{3}\right|=3\sqrt 3-\left(\sqrt\left[3\right]{3}-1\right)=3\sqrt 3-\sqrt\left[3\right]{3}+1.
+3\sqrt3-\left|1-\sqrt\left[3\right]{3}\right|=3\sqrt3-\left(\sqrt\left[3\right]{3}-1\right)=3\sqrt3-\sqrt\left[3\right]{3}+1.
 $$
 
 $\blacksquare$
@@ -104,33 +104,33 @@ $\blacksquare$
 
 (练习 8.3 第 3 题) 计算 (结果保留小数点后两位):
 
-(1) $\sqrt{17}+\sqrt{22}$;　(2) $\sqrt\left[3\right]{6}-\sqrt 6$.
+(1) $\sqrt{17}+\sqrt{22}$;　(2) $\sqrt\left[3\right]{6}-\sqrt6$.
 
 ### 解答 练习四
 
 用近似有限小数代替无理数后计算, 再四舍五入.
 
-(1) $\sqrt{17}\approx 4.123$, $\sqrt{22}\approx 4.690$, 故 $\sqrt{17}+\sqrt{22}\approx 4.123+4.690=8.81$.
+(1) $\sqrt{17}\approx4.123$, $\sqrt{22}\approx4.690$, 故 $\sqrt{17}+\sqrt{22}\approx4.123+4.690=8.81$.
 
-(2) $\sqrt\left[3\right]{6}\approx 1.817$, $\sqrt 6\approx 2.449$, 故 $\sqrt\left[3\right]{6}-\sqrt 6\approx 1.817-2.449=-0.63$. $\blacksquare$
+(2) $\sqrt\left[3\right]{6}\approx1.817$, $\sqrt6\approx2.449$, 故 $\sqrt\left[3\right]{6}-\sqrt6\approx1.817-2.449=-0.63$. $\blacksquare$
 
 ## 习题一
 
 (习题 8.3 复习巩固第 1 题) 在下列各数中, 哪些是有理数? 哪些是无理数?
 
-$3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $-\sqrt 6$, $\sqrt{36}$, $\sqrt\left[3\right]{5}$, $\sqrt\left[3\right]{125}$.
+$3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $-\sqrt6$, $\sqrt{36}$, $\sqrt\left[3\right]{5}$, $\sqrt\left[3\right]{125}$.
 
 ### 解答 习题一
 
 由**定义 8.3.1 (无理数)**, 有限小数或无限循环小数是有理数, 无限不循环小数是无理数.
 
-$3.14$ 是有限小数, 有理数; $-\frac{22}{7}$ 是分数, 有理数; $\sqrt{\frac{3}{3}}=\sqrt 1=1$, 有理数; $-\sqrt 6$ 是开方开不尽的无限不循环小数, 无理数; $\sqrt{36}=6$, 有理数; $\sqrt\left[3\right]{5}$ 是无限不循环小数, 无理数; $\sqrt\left[3\right]{125}=5$, 有理数.
+$3.14$ 是有限小数, 有理数; $-\frac{22}{7}$ 是分数, 有理数; $\sqrt{\frac{3}{3}}=\sqrt1=1$, 有理数; $-\sqrt6$ 是开方开不尽的无限不循环小数, 无理数; $\sqrt{36}=6$, 有理数; $\sqrt\left[3\right]{5}$ 是无限不循环小数, 无理数; $\sqrt\left[3\right]{125}=5$, 有理数.
 
-故有理数为 $3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $\sqrt{36}$, $\sqrt\left[3\right]{125}$; 无理数为 $-\sqrt 6$, $\sqrt\left[3\right]{5}$. $\blacksquare$
+故有理数为 $3.14$, $-\frac{22}{7}$, $\sqrt{\frac{3}{3}}$, $\sqrt{36}$, $\sqrt\left[3\right]{125}$; 无理数为 $-\sqrt6$, $\sqrt\left[3\right]{5}$. $\blacksquare$
 
 ## 习题二
 
-(习题 8.3 复习巩固第 2 题) 把下列实数表示在数轴上, 并比较它们的大小 (用"$< $"连接): $-\frac{1}{3}$, $-1.5$, $\sqrt{2^2}$, $\left|-3\right|$.
+(习题 8.3 复习巩固第 2 题) 把下列实数表示在数轴上, 并比较它们的大小 (用"$<$"连接): $-\frac{1}{3}$, $-1.5$, $\sqrt{2^2}$, $\left|-3\right|$.
 
 ### 解答 习题二
 
@@ -139,7 +139,7 @@ $3.14$ 是有限小数, 有理数; $-\frac{22}{7}$ 是分数, 有理数; $\sqrt{
 由**性质 8.3.1 (实数与数轴)**, 数轴上从左到右递增, 故
 
 $$
--1.5< -\frac{1}{3}< \sqrt{2^2}< \left|-3\right|.
+-1.5<-\frac{1}{3}<\sqrt{2^2}<\left|-3\right|.
 $$
 
 $\blacksquare$
@@ -154,48 +154,48 @@ $\blacksquare$
 
 $\sqrt\left[3\right]{-8}=-2$, 其绝对值为 $2$.
 
-$\sqrt{17}> 0$, 其绝对值为 $\sqrt{17}$.
+$\sqrt{17}>0$, 其绝对值为 $\sqrt{17}$.
 
-$-\sqrt{\frac{2}{3}}< 0$, 其绝对值为 $\sqrt{\frac{2}{3}}$.
+$-\sqrt{\frac{2}{3}}<0$, 其绝对值为 $\sqrt{\frac{2}{3}}$.
 
-$\sqrt\left[3\right]{3}\approx 1.442< 2$, 故 $\sqrt\left[3\right]{3}-2< 0$, 其绝对值为 $2-\sqrt\left[3\right]{3}$.
+$\sqrt\left[3\right]{3}\approx1.442<2$, 故 $\sqrt\left[3\right]{3}-2<0$, 其绝对值为 $2-\sqrt\left[3\right]{3}$.
 
-$\sqrt\left[3\right]{2}\approx 1.26> 1$, 故 $1-\sqrt\left[3\right]{2}< 0$, 其绝对值为 $\sqrt\left[3\right]{2}-1$. $\blacksquare$
+$\sqrt\left[3\right]{2}\approx1.26>1$, 故 $1-\sqrt\left[3\right]{2}<0$, 其绝对值为 $\sqrt\left[3\right]{2}-1$. $\blacksquare$
 
 ## 习题四
 
 (习题 8.3 复习巩固第 4 题) 计算 (结果保留小数点后两位):
 
-(1) $\pi-\sqrt{10}$;　(2) $\sqrt\left[3\right]{2}-\sqrt 2$.
+(1) $\pi-\sqrt{10}$;　(2) $\sqrt\left[3\right]{2}-\sqrt2$.
 
 ### 解答 习题四
 
 用近似值计算后四舍五入.
 
-(1) $\pi\approx 3.142$, $\sqrt{10}\approx 3.162$, 故 $\pi-\sqrt{10}\approx 3.142-3.162=-0.02$.
+(1) $\pi\approx3.142$, $\sqrt{10}\approx3.162$, 故 $\pi-\sqrt{10}\approx3.142-3.162=-0.02$.
 
-(2) $\sqrt\left[3\right]{2}\approx 1.260$, $\sqrt 2\approx 1.414$, 故 $\sqrt\left[3\right]{2}-\sqrt 2\approx 1.260-1.414=-0.15$. $\blacksquare$
+(2) $\sqrt\left[3\right]{2}\approx1.260$, $\sqrt2\approx1.414$, 故 $\sqrt\left[3\right]{2}-\sqrt2\approx1.260-1.414=-0.15$. $\blacksquare$
 
 ## 习题五
 
 (习题 8.3 复习巩固第 5 题) 计算:
 
-(1) $2\left(\sqrt 6-\sqrt 7\right)-\left|2\sqrt 6-\sqrt 7\right|$;　(2) $\left(-\sqrt 2\right)^2+\left(-\sqrt\left[3\right]{2}\right)^3$.
+(1) $2\left(\sqrt6-\sqrt7\right)-\left|2\sqrt6-\sqrt7\right|$;　(2) $\left(-\sqrt2\right)^2+\left(-\sqrt\left[3\right]{2}\right)^3$.
 
 ### 解答 习题五
 
 由**性质 8.3.2 (相反数与绝对值)** 及平方, 立方运算.
 
-(1) $\because 2\sqrt 6\approx 4.899> \sqrt 7\approx 2.646$, $\therefore 2\sqrt 6-\sqrt 7> 0$, 故 $\left|2\sqrt 6-\sqrt 7\right|=2\sqrt 6-\sqrt 7$. 于是
+(1) $\because2\sqrt6\approx4.899>\sqrt7\approx2.646$, $\therefore2\sqrt6-\sqrt7>0$, 故 $\left|2\sqrt6-\sqrt7\right|=2\sqrt6-\sqrt7$. 于是
 
 $$
-2\left(\sqrt 6-\sqrt 7\right)-\left(2\sqrt 6-\sqrt 7\right)=2\sqrt 6-2\sqrt 7-2\sqrt 6+\sqrt 7=-\sqrt 7.
+2\left(\sqrt6-\sqrt7\right)-\left(2\sqrt6-\sqrt7\right)=2\sqrt6-2\sqrt7-2\sqrt6+\sqrt7=-\sqrt7.
 $$
 
-(2) $\left(-\sqrt 2\right)^2=\left(\sqrt 2\right)^2=2$, $\left(-\sqrt\left[3\right]{2}\right)^3=-\left(\sqrt\left[3\right]{2}\right)^3=-2$, 故
+(2) $\left(-\sqrt2\right)^2=\left(\sqrt2\right)^2=2$, $\left(-\sqrt\left[3\right]{2}\right)^3=-\left(\sqrt\left[3\right]{2}\right)^3=-2$, 故
 
 $$
-\left(-\sqrt 2\right)^2+\left(-\sqrt\left[3\right]{2}\right)^3=2+\left(-2\right)=0.
+\left(-\sqrt2\right)^2+\left(-\sqrt\left[3\right]{2}\right)^3=2+\left(-2\right)=0.
 $$
 
 $\blacksquare$
@@ -228,17 +228,17 @@ $\blacksquare$
 
 (2) 大于 $-\sqrt{10}$ 且小于 $\sqrt{10}$ 的所有整数;
 
-(3) 绝对值小于 $\sqrt 6$ 的所有整数.
+(3) 绝对值小于 $\sqrt6$ 的所有整数.
 
 ### 解答 习题七
 
 估计各无理数的范围.
 
-(1) $\because 6^2=36< 37< 49=7^2$, $\therefore 6< \sqrt{37}< 7$, 小于 $\sqrt{37}$ 的正整数为 $1$, $2$, $3$, $4$, $5$, $6$.
+(1) $\because6^2=36<37<49=7^2$, $\therefore6<\sqrt{37}<7$, 小于 $\sqrt{37}$ 的正整数为 $1$, $2$, $3$, $4$, $5$, $6$.
 
-(2) $\because 3^2=9< 10< 16=4^2$, $\therefore 3< \sqrt{10}< 4$, 故 $-4< -\sqrt{10}< -3$. 大于 $-\sqrt{10}$ 且小于 $\sqrt{10}$ 的整数为 $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
+(2) $\because3^2=9<10<16=4^2$, $\therefore3<\sqrt{10}<4$, 故 $-4<-\sqrt{10}<-3$. 大于 $-\sqrt{10}$ 且小于 $\sqrt{10}$ 的整数为 $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
 
-(3) $\because 2^2=4< 6< 9=3^2$, $\therefore 2< \sqrt 6< 3$, 绝对值小于 $\sqrt 6$ 的整数为 $-2$, $-1$, $0$, $1$, $2$. $\blacksquare$
+(3) $\because2^2=4<6<9=3^2$, $\therefore2<\sqrt6<3$, 绝对值小于 $\sqrt6$ 的整数为 $-2$, $-1$, $0$, $1$, $2$. $\blacksquare$
 
 ## 习题八
 
@@ -248,22 +248,22 @@ $\blacksquare$
 
 (2) 求图中两块阴影部分的面积和.
 
-图中为一个大长方形, 内部并排放着两个正方形:较大的正方形面积为 $3\,\text{cm}^2$(边长 $\sqrt 3$), 较小的正方形面积为 $1\,\text{cm}^2$(边长 $1$); 两块阴影部分为大长方形中除去两个正方形后剩余的区域.
+图中为一个大长方形, 内部并排放着两个正方形:较大的正方形面积为 $3\,\text{cm}^2$(边长 $\sqrt3$), 较小的正方形面积为 $1\,\text{cm}^2$(边长 $1$); 两块阴影部分为大长方形中除去两个正方形后剩余的区域.
 
 ### 解答 习题八
 
-面积为 $3\,\text{cm}^2$ 的正方形边长为 $\sqrt 3\,\text{cm}$, 面积为 $1\,\text{cm}^2$ 的正方形边长为 $1\,\text{cm}$.
+面积为 $3\,\text{cm}^2$ 的正方形边长为 $\sqrt3\,\text{cm}$, 面积为 $1\,\text{cm}^2$ 的正方形边长为 $1\,\text{cm}$.
 
-(1) 大长方形的长为 $\sqrt 3+1$, 宽为 $\sqrt 3$. 故周长为
-
-$$
-2\left[\left(\sqrt 3+1\right)+\sqrt 3\right]=2\left(2\sqrt 3+1\right)=4\sqrt 3+2\quad\left(\text{cm}\right).
-$$
-
-(2) 两块阴影部分可拼成一个小长方形, 长为 $\sqrt 3-1$, 宽为 $1$, 故面积和为
+(1) 大长方形的长为 $\sqrt3+1$, 宽为 $\sqrt3$. 故周长为
 
 $$
-\left(\sqrt 3-1\right)\times 1=\sqrt 3-1\quad\left(\text{cm}^2\right).
+2\left[\left(\sqrt3+1\right)+\sqrt3\right]=2\left(2\sqrt3+1\right)=4\sqrt3+2\quad\left(\text{cm}\right).
+$$
+
+(2) 两块阴影部分可拼成一个小长方形, 长为 $\sqrt3-1$, 宽为 $1$, 故面积和为
+
+$$
+\left(\sqrt3-1\right)\times1=\sqrt3-1\quad\left(\text{cm}^2\right).
 $$
 
 $\blacksquare$
@@ -280,19 +280,19 @@ $\blacksquare$
 
 ## 阅读与思考一
 
-(阅读与思考 为什么 $\sqrt 2$ 不是有理数) 古希腊毕达哥拉斯学派认为一切量都可用整数或整数的比表示. 后来发现边长为 $1$ 的正方形对角线的长不能表示为整数或整数之比. 试说明 $\sqrt 2$ 为什么不是有理数.
+(阅读与思考 为什么 $\sqrt2$ 不是有理数) 古希腊毕达哥拉斯学派认为一切量都可用整数或整数的比表示. 后来发现边长为 $1$ 的正方形对角线的长不能表示为整数或整数之比. 试说明 $\sqrt2$ 为什么不是有理数.
 
 ### 解答 阅读与思考一
 
-用反证法. 假设 $\sqrt 2$ 是有理数, 则存在两个互质的正整数 $p$, $q$, 使得
+用反证法. 假设 $\sqrt2$ 是有理数, 则存在两个互质的正整数 $p$, $q$, 使得
 
 $$
-\frac{p}{q}=\sqrt 2.
+\frac{p}{q}=\sqrt2.
 $$
 
 两边平方得 $p^2=2q^2$. 由 $2q^2$ 是偶数, 得 $p^2$ 是偶数, 而只有偶数的平方才是偶数, 所以 $p$ 也是偶数. 设 $p=2r$ ($r$ 为正整数), 代入得 $4r^2=2q^2$, 即 $q^2=2r^2$, 所以 $q$ 也是偶数.
 
-这样 $p$, $q$ 都是偶数, 与假设 $p$, $q$ 互质矛盾. 这个矛盾说明 $\sqrt 2$ 不能写成分数的形式, 即 $\sqrt 2$ 不是有理数. $\blacksquare$
+这样 $p$, $q$ 都是偶数, 与假设 $p$, $q$ 互质矛盾. 这个矛盾说明 $\sqrt2$ 不能写成分数的形式, 即 $\sqrt2$ 不是有理数. $\blacksquare$
 
 ## 活动一
 
@@ -306,13 +306,13 @@ $$
 \frac{x}{y}=\frac{y}{x/2}=\frac{2y}{x}.
 $$
 
-于是 $x^2=2y^2$, 即 $x=\sqrt 2\,y$. 又 $A0$ 面积 $xy=1$, 代入得
+于是 $x^2=2y^2$, 即 $x=\sqrt2\,y$. 又 $A0$ 面积 $xy=1$, 代入得
 
 $$
-\sqrt 2\,y^2=1,\quad y^2=\frac{1}{\sqrt 2},\quad y=\sqrt{\frac{1}{\sqrt 2}}=2^{-\frac14}.
+\sqrt2\,y^2=1,\quad{y}^2=\frac{1}{\sqrt2},\quad{y}=\sqrt{\frac{1}{\sqrt2}}=2^{-\frac14}.
 $$
 
-由 $2^{-\frac14}\approx 0.8409\,\text{m}=841\,\text{mm}$, $x=\sqrt 2\,y\approx 1.1892\,\text{m}=1189\,\text{mm}$.
+由 $2^{-\frac14}\approx0.8409\,\text{m}=841\,\text{mm}$, $x=\sqrt2\,y\approx1.1892\,\text{m}=1189\,\text{mm}$.
 
 故 $A0$ 纸长约 $1189\,\text{mm}$, 宽约 $841\,\text{mm}$. $\blacksquare$
 
@@ -330,11 +330,11 @@ $$
 
 由**定义 8.2.1 (立方根)**, 利用立方数的规律逐位确定.
 
-(1) $\because 10^3=1000< 59319< 1000000=100^3$, $\therefore 10< \sqrt\left[3\right]{59319}< 100$, 即 $\sqrt\left[3\right]{59319}$ 是两位数.
+(1) $\because10^3=1000<59319<1000000=100^3$, $\therefore10<\sqrt\left[3\right]{59319}<100$, 即 $\sqrt\left[3\right]{59319}$ 是两位数.
 
 (2) 个位数立方后个位仍为 $9$ 的只有 $9$ ($9^3=729$, 个位为 $9$), 故 $\sqrt\left[3\right]{59319}$ 的个位是 $9$.
 
-(3) 划去后三位 $319$ 得 $59$, $\because 3^3=27< 59< 64=4^3$, $\therefore$ 十位对应的立方根在 $3$ 与 $4$ 之间, 取较小的 $3$, 即十位是 $3$.
+(3) 划去后三位 $319$ 得 $59$, $\because3^3=27<59<64=4^3$, $\therefore$ 十位对应的立方根在 $3$ 与 $4$ 之间, 取较小的 $3$, 即十位是 $3$.
 
 综上, $\sqrt\left[3\right]{59319}=39$. $\blacksquare$
 
@@ -348,13 +348,13 @@ $$
 
 由**定义 8.1.1 (平方根)** 与**定义 8.1.2 (算术平方根)**.
 
-(1) $\because\left(\pm 0.6\right)^2=0.36$, $\therefore$ 平方根为 $\pm 0.6$, 算术平方根为 $0.6$.
+(1) $\because\left(\pm0.6\right)^2=0.36$, $\therefore$ 平方根为 $\pm0.6$, 算术平方根为 $0.6$.
 
 (2) $\because\left(\pm\frac{5}{4}\right)^2=\frac{25}{16}$, $\therefore$ 平方根为 $\pm\frac{5}{4}$, 算术平方根为 $\frac{5}{4}$.
 
 (3) $\left(-\frac{7}{8}\right)^2=\frac{49}{64}$, $\because\left(\pm\frac{7}{8}\right)^2=\frac{49}{64}$, $\therefore$ 平方根为 $\pm\frac{7}{8}$, 算术平方根为 $\frac{7}{8}$.
 
-(4) $10^4=10000$, $\because\left(\pm 100\right)^2=10000$, $\therefore$ 平方根为 $\pm 100$, 算术平方根为 $100$. $\blacksquare$
+(4) $10^4=10000$, $\because\left(\pm100\right)^2=10000$, $\therefore$ 平方根为 $\pm100$, 算术平方根为 $100$. $\blacksquare$
 
 ## 复习题二
 
@@ -372,7 +372,7 @@ $$
 
 (3) $\because\left(-0.9\right)^3=-0.729$, $\therefore\sqrt\left[3\right]{-0.729}=-0.9$.
 
-(4) $36$ 的立方根为 $\sqrt\left[3\right]{36}$ (开不尽), $\approx 3.30$. $\blacksquare$
+(4) $36$ 的立方根为 $\sqrt\left[3\right]{36}$ (开不尽), $\approx3.30$. $\blacksquare$
 
 ## 复习题三
 
@@ -388,9 +388,9 @@ $$
 
 (2) $\sqrt\left[3\right]{10^3}=10$.
 
-(3) $\because 0.3^2=0.09$, $\therefore\pm\sqrt{0.09}=\pm 0.3$.
+(3) $\because0.3^2=0.09$, $\therefore\pm\sqrt{0.09}=\pm0.3$.
 
-(4) $\because\pi> 3$, $\therefore 3-\pi< 0$. 由算术平方根的性质, $\sqrt{\left(3-\pi\right)^2}=\left|3-\pi\right|=\pi-3$. $\blacksquare$
+(4) $\because\pi>3$, $\therefore3-\pi<0$. 由算术平方根的性质, $\sqrt{\left(3-\pi\right)^2}=\left|3-\pi\right|=\pi-3$. $\blacksquare$
 
 ## 复习题四
 
@@ -402,27 +402,27 @@ $$
 
 用计算器求.
 
-(1) $\because 425^2=180625$, $\therefore\sqrt{180625}=425$.
+(1) $\because425^2=180625$, $\therefore\sqrt{180625}=425$.
 
-(2) $\sqrt{9.77}\approx 3.126$, 故 $-\sqrt{9.77}\approx-3.126$.
+(2) $\sqrt{9.77}\approx3.126$, 故 $-\sqrt{9.77}\approx-3.126$.
 
-(3) $\because 34^3=39304$, $\therefore\sqrt\left[3\right]{39304}=34$.
+(3) $\because34^3=39304$, $\therefore\sqrt\left[3\right]{39304}=34$.
 
-(4) $\sqrt\left[3\right]{0.43}\approx 0.755$. $\blacksquare$
+(4) $\sqrt\left[3\right]{0.43}\approx0.755$. $\blacksquare$
 
 ## 复习题五
 
 (复习题 复习巩固第 5 题) 计算:
 
-(1) $\sqrt 2\left(\sqrt 2+2\right)$;　(2) $\sqrt 3\left(\sqrt 3+\frac{1}{\sqrt 3}\right)$.
+(1) $\sqrt2\left(\sqrt2+2\right)$;　(2) $\sqrt3\left(\sqrt3+\frac{1}{\sqrt3}\right)$.
 
 ### 解答 复习题五
 
 由分配律展开.
 
-(1) $\sqrt 2\left(\sqrt 2+2\right)=\left(\sqrt 2\right)^2+2\sqrt 2=2+2\sqrt 2$.
+(1) $\sqrt2\left(\sqrt2+2\right)=\left(\sqrt2\right)^2+2\sqrt2=2+2\sqrt2$.
 
-(2) $\sqrt 3\left(\sqrt 3+\frac{1}{\sqrt 3}\right)=\left(\sqrt 3\right)^2+\sqrt 3\cdot\frac{1}{\sqrt 3}=3+1=4$. $\blacksquare$
+(2) $\sqrt3\left(\sqrt3+\frac{1}{\sqrt3}\right)=\left(\sqrt3\right)^2+\sqrt3\cdot\frac{1}{\sqrt3}=3+1=4$. $\blacksquare$
 
 ## 复习题六
 
@@ -432,17 +432,17 @@ $$
 
 ### 解答 复习题六
 
-(1) $\because 9^2=81< 91< 100=10^2$, $\therefore 9< \sqrt{91}< 10$. 又 $91-81=10$, $100-91=9$, $91$ 距 $100$ 更近, 故 $\sqrt{91}$ 介于 $9$ 与 $10$ 之间, 更接近 $10$.
+(1) $\because9^2=81<91<100=10^2$, $\therefore9<\sqrt{91}<10$. 又 $91-81=10$, $100-91=9$, $91$ 距 $100$ 更近, 故 $\sqrt{91}$ 介于 $9$ 与 $10$ 之间, 更接近 $10$.
 
-(2) $\because 4^3=64< 91< 125=5^3$, $\therefore 4< \sqrt\left[3\right]{91}< 5$. 又 $91-64=27$, $125-91=34$, $91$ 距 $64$ 更近, 故 $\sqrt\left[3\right]{91}$ 介于 $4$ 与 $5$ 之间, 更接近 $4$. $\blacksquare$
+(2) $\because4^3=64<91<125=5^3$, $\therefore4<\sqrt\left[3\right]{91}<5$. 又 $91-64=27$, $125-91=34$, $91$ 距 $64$ 更近, 故 $\sqrt\left[3\right]{91}$ 介于 $4$ 与 $5$ 之间, 更接近 $4$. $\blacksquare$
 
 ## 复习题七
 
-(复习题 综合运用第 7 题) 已知 $\left|x\right|< \pi$ ($x$ 是整数), 求 $x$ 的值, 并在数轴上表示求得的数.
+(复习题 综合运用第 7 题) 已知 $\left|x\right|<\pi$ ($x$ 是整数), 求 $x$ 的值, 并在数轴上表示求得的数.
 
 ### 解答 复习题七
 
-$\pi\approx 3.14$, $\left|x\right|< \pi$ 即 $-\pi< x< \pi$, 即 $-3.14< x< 3.14$. 其间的整数为 $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
+$\pi\approx3.14$, $\left|x\right|<\pi$ 即 $-\pi<{}x<\pi$, 即 $-3.14<{}x<3.14$. 其间的整数为 $-3$, $-2$, $-1$, $0$, $1$, $2$, $3$.
 
 故 $x=-3$, $-2$, $-1$, $0$, $1$, $2$, $3$. 在数轴上对应标出这些点即可. $\blacksquare$
 
@@ -458,9 +458,9 @@ $\pi\approx 3.14$, $\left|x\right|< \pi$ 即 $-\pi< x< \pi$, 即 $-3.14< x< 3.14
 
 正方形: 面积 $2\pi$, 边长 $a=\sqrt{2\pi}$, 周长 $C_正=4a=4\sqrt{2\pi}$.
 
-圆: 面积 $\pi r^2=2\pi$, 故 $r^2=2$, $r=\sqrt 2$, 周长 $C_圆=2\pi r=2\pi\sqrt 2$.
+圆: 面积 $\pi{r}^2=2\pi$, 故 $r^2=2$, $r=\sqrt2$, 周长 $C_圆=2\pi{r}=2\pi\sqrt2$.
 
-比较: $C_正=4\sqrt{2\pi}\approx 4\times 2.507=10.03$, $C_圆=2\pi\sqrt 2\approx 8.89$. 故 $C_正> C_圆$, 正方形的周长较大.
+比较: $C_正=4\sqrt{2\pi}\approx4\times2.507=10.03$, $C_圆=2\pi\sqrt2\approx8.89$. 故 $C_正>{}C_圆$, 正方形的周长较大.
 
 启示: 面积相等时, 圆的周长比正方形小, 即圆是相同面积下周界最小的图形. $\blacksquare$
 
@@ -472,8 +472,8 @@ $\pi\approx 3.14$, $\left|x\right|< \pi$ 即 $-\pi< x< \pi$, 即 $-3.14< x< 3.14
 
 由 $s^2=16.74h$, $s=\sqrt{16.74h}$ (取正).
 
-当 $h=1.5$ 时, $s=\sqrt{16.74\times 1.5}=\sqrt{25.11}\approx 5.01\,km$.
+当 $h=1.5$ 时, $s=\sqrt{16.74\times1.5}=\sqrt{25.11}\approx5.01\,km$.
 
-当 $h=8.7$ 时, $s=\sqrt{16.74\times 8.7}=\sqrt{145.64}\approx 12.07\,km$.
+当 $h=8.7$ 时, $s=\sqrt{16.74\times8.7}=\sqrt{145.64}\approx12.07\,km$.
 
 故她在海边能看到约 $5.01\,km$, 站在岩石上能看到约 $12.07\,km$. $\blacksquare$

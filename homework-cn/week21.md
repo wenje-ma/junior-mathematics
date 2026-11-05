@@ -6,11 +6,11 @@
 
 > **定义 8.1.2 (算术平方根)**
 > 
-> 正数 $a$ 的正的平方根 $\sqrt a$ 叫作 $a$ 的算术平方根, $a$ 叫作被开方数. 规定 $0$ 的算术平方根是 $0$, 即 $\sqrt 0=0$. 正数 $a$ 的平方根记作 $\pm\sqrt a$.
+> 正数 $a$ 的正的平方根 $\sqrt{a}$ 叫作 $a$ 的算术平方根, $a$ 叫作被开方数. 规定 $0$ 的算术平方根是 $0$, 即 $\sqrt0=0$. 正数 $a$ 的平方根记作 $\pm\sqrt{a}$.
 
 > **性质 8.1.3 (平方与开方的关系)**
 > 
-> 对任意非负数 $a$, $\left(\sqrt a\right)^2=a$; 对任意数 $a$, $\sqrt{a^2}=\left|a\right|$.
+> 对任意非负数 $a$, $\left(\sqrt{a}\right)^2=a$; 对任意数 $a$, $\sqrt{a^2}=\left|a\right|$.
 
 > **定义 8.2.1 (立方根)**
 > 
@@ -61,12 +61,12 @@
 水位升高部分的圆柱体积等于正方体体积. 升高部分体积为
 
 $$
-V=\pi r^2 h=3.14\times 95^2\times 58.
+V=\pi{r}^2h=3.14\times95^2\times58.
 $$
 
-计算: $95^2=9025$, $V=3.14\times 9025\times 58=1645553\,\text{mm}^3$.
+计算: $95^2=9025$, $V=3.14\times9025\times58=1645553\,\text{mm}^3$.
 
-设正方体棱长为 $x$, $x^3=1645553$, $x=\sqrt\left[3\right]{1645553}\approx 118$.
+设正方体棱长为 $x$, $x^3=1645553$, $x=\sqrt\left[3\right]{1645553}\approx118$.
 
 即正方体棱长约为 $118\,mm$. $\blacksquare$
 
@@ -82,9 +82,9 @@ $$
 
 ### 解答 复习题二
 
-(1) $5$ 个边长为 $1$ 的小正方形总面积为 $5$. 拼成的大正方形面积也为 $5$, 由**定义 8.1.1 (平方根)**, 大正方形边长为 $\sqrt 5$. 沿小正方形网格的对角线剪开, 把剪出的直角三角形重新拼合, 即可拼成边长为 $\sqrt 5$ 的大正方形.
+(1) $5$ 个边长为 $1$ 的小正方形总面积为 $5$. 拼成的大正方形面积也为 $5$, 由**定义 8.1.1 (平方根)**, 大正方形边长为 $\sqrt5$. 沿小正方形网格的对角线剪开, 把剪出的直角三角形重新拼合, 即可拼成边长为 $\sqrt5$ 的大正方形.
 
-(2) 大正方形边长为 $\sqrt 5$. 在数轴上以原点为圆心, $\sqrt 5$ 为半径画弧, 与正半轴的交点即表示 $\sqrt 5$, 与负半轴的交点表示 $-\sqrt 5$. $\blacksquare$
+(2) 大正方形边长为 $\sqrt5$. 在数轴上以原点为圆心, $\sqrt5$ 为半径画弧, 与正半轴的交点即表示 $\sqrt5$, 与负半轴的交点表示 $-\sqrt5$. $\blacksquare$
 
 ## 练习一
 
@@ -97,7 +97,7 @@ $$
 由**定义 9.1.2 (点的坐标)**, 过点向 $x$ 轴作垂线得横坐标, 向 $y$ 轴作垂线得纵坐标. 读出各点坐标为
 
 $$
-A\left(-3,-2\right),\ B\left(-5,4\right),\ C\left(5,-4\right),\ D\left(0,-3\right),\ E\left(2,5\right),\ F\left(-4,0\right).
+A\left(-3,-2\right),\,B\left(-5,4\right),\,C\left(5,-4\right),\,D\left(0,-3\right),\,E\left(2,5\right),\,F\left(-4,0\right).
 $$
 
 其中 $D$ 在 $y$ 轴上 (横坐标为 $0$), $F$ 在 $x$ 轴上 (纵坐标为 $0$). $\blacksquare$
@@ -134,9 +134,9 @@ $$
 
 ## 练习五
 
-(练习 9.1 第 2 题) 如图, 在直角三角形 $ABC$ 中, $\angle C=90^\circ$, $AC=3$, $BC=4$. 建立平面直角坐标系, 写出三角形 $ABC$ 三个顶点的坐标.
+(练习 9.1 第 2 题) 如图, 在直角三角形 $ABC$ 中, $\angle{C}=90^\circ$, $AC=3$, $BC=4$. 建立平面直角坐标系, 写出三角形 $ABC$ 三个顶点的坐标.
 
-图中为平面直角坐标系中的直角三角形 $ABC$, $\angle C=90^\circ$, $AC=3$, $BC=4$.
+图中为平面直角坐标系中的直角三角形 $ABC$, $\angle{C}=90^\circ$, $AC=3$, $BC=4$.
 
 ### 解答 练习五
 
@@ -163,7 +163,7 @@ $$
 由**定义 9.1.2 (点的坐标)**, 过各点分别向 $x$ 轴, $y$ 轴作垂线, 读出垂足对应的数. 各点坐标为
 
 $$
-A\left(-5,4\right),\ B\left(-2,2\right),\ C\left(4,4\right),\ D\left(2,1\right),\ E\left(5,-3\right),\ F\left(0,-2\right),\ G\left(-4,-4\right),\ H\left(-3,-1\right).
+A\left(-5,4\right),\,B\left(-2,2\right),\,C\left(4,4\right),\,D\left(2,1\right),\,E\left(5,-3\right),\,F\left(0,-2\right),\,G\left(-4,-4\right),\,H\left(-3,-1\right).
 $$
 
 每个点的第一个数为横坐标, 第二个数为纵坐标. $\blacksquare$
@@ -203,7 +203,7 @@ $A$ 在 $y$ 轴上距原点 $2$ (上): $A\left(0,2\right)$. $B$ 在 $x$ 轴上�
 以 $B$ 为原点, $BC$ 所在直线为 $x$ 轴, $C\left(4,0\right)$. 由**定义 9.1.2 (点的坐标)** 读出各点坐标:
 
 $$
-A\left(-2,2\right),\ D\left(5,1\right),\ E\left(4,2\right),\ F\left(2,0\right),\ G\left(1,4\right).
+A\left(-2,2\right),\,D\left(5,1\right),\,E\left(4,2\right),\,F\left(2,0\right),\,G\left(1,4\right).
 $$
 
 由**定义 9.1.3 (象限)** 判断: $A\left(-2,2\right)$ 横负纵正, 在第二象限; $D\left(5,1\right)$, $E\left(4,2\right)$, $G\left(1,4\right)$ 横纵都正, 在第一象限; $F\left(2,0\right)$ 在 $x$ 轴上, 不属于任何象限; $B\left(0,0\right)$ 为原点, $C\left(4,0\right)$ 在 $x$ 轴上. $\blacksquare$
@@ -260,9 +260,9 @@ $A\left(-2,4\right)$, $B\left(3,4\right)$ 的纵坐标都是 $4$, 由两点确�
 
 (习题 9.1 复习巩固第 8 题) 在平面直角坐标系中选择一些横, 纵坐标满足下面条件的点, 标出它们的位置, 看一看它们在第几象限或在哪条坐标轴上:
 
-(1) 点 $P\left(x,y\right)$ 的坐标满足 $xy> 0$;
+(1) 点 $P\left(x,y\right)$ 的坐标满足 $xy>0$;
 
-(2) 点 $P\left(x,y\right)$ 的坐标满足 $xy< 0$;
+(2) 点 $P\left(x,y\right)$ 的坐标满足 $xy<0$;
 
 (3) 点 $P\left(x,y\right)$ 的坐标满足 $xy=0$.
 
@@ -270,15 +270,15 @@ $A\left(-2,4\right)$, $B\left(3,4\right)$ 的纵坐标都是 $4$, 由两点确�
 
 由**定义 9.1.3 (象限)** 中各象限横纵坐标的符号.
 
-(1) $xy> 0$ 表示 $x$, $y$ 同号: 都正为第一象限, 都负为第三象限. 故这些点在第一象限或第三象限.
+(1) $xy>0$ 表示 $x$, $y$ 同号: 都正为第一象限, 都负为第三象限. 故这些点在第一象限或第三象限.
 
-(2) $xy< 0$ 表示 $x$, $y$ 异号: $x$ 正 $y$ 负为第四象限, $x$ 负 $y$ 正为第二象限. 故这些点在第二象限或第四象限.
+(2) $xy<0$ 表示 $x$, $y$ 异号: $x$ 正 $y$ 负为第四象限, $x$ 负 $y$ 正为第二象限. 故这些点在第二象限或第四象限.
 
 (3) $xy=0$ 表示 $x=0$ 或 $y=0$: $x=0$ 的点在 $y$ 轴上, $y=0$ 的点在 $x$ 轴上. 故这些点在坐标轴上. $\blacksquare$
 
 ## 习题九
 
-(习题 9.1 综合运用第 9 题) 已知点 $O\left(0,0\right)$, $B\left(1,2\right)$, 点 $A$ 在坐标轴上, 且 $S_{\triangle OAB}=2$, 求满足条件的点 $A$ 的坐标.
+(习题 9.1 综合运用第 9 题) 已知点 $O\left(0,0\right)$, $B\left(1,2\right)$, 点 $A$ 在坐标轴上, 且 $S_{\triangle{O}AB}=2$, 求满足条件的点 $A$ 的坐标.
 
 ### 解答 习题九
 
@@ -287,18 +287,18 @@ $A\left(-2,4\right)$, $B\left(3,4\right)$ 的纵坐标都是 $4$, 由两点确�
 若 $A$ 在 $x$ 轴上, 设 $A\left(a,0\right)$. 以 $OA$ 为底, 长为 $\left|a\right|$, 高为点 $B$ 到 $x$ 轴的距离即 $B$ 的纵坐标 $2$. 由三角形面积公式,
 
 $$
-S_{\triangle OAB}=\frac{1}{2}\left|a\right|\cdot 2=\left|a\right|=2,
+S_{\triangle{O}AB}=\frac{1}{2}\left|a\right|\cdot2=\left|a\right|=2,
 $$
 
-故 $a=\pm 2$, 即 $A\left(2,0\right)$ 或 $A\left(-2,0\right)$.
+故 $a=\pm2$, 即 $A\left(2,0\right)$ 或 $A\left(-2,0\right)$.
 
 若 $A$ 在 $y$ 轴上, 设 $A\left(0,b\right)$. 以 $OA$ 为底, 长为 $\left|b\right|$, 高为点 $B$ 到 $y$ 轴的距离即 $B$ 的横坐标 $1$. 则
 
 $$
-S_{\triangle OAB}=\frac{1}{2}\left|b\right|\cdot 1=2,
+S_{\triangle{O}AB}=\frac{1}{2}\left|b\right|\cdot1=2,
 $$
 
-故 $\left|b\right|=4$, $b=\pm 4$, 即 $A\left(0,4\right)$ 或 $A\left(0,-4\right)$.
+故 $\left|b\right|=4$, $b=\pm4$, 即 $A\left(0,4\right)$ 或 $A\left(0,-4\right)$.
 
 综上, 满足条件的点 $A$ 为 $\left(2,0\right)$, $\left(-2,0\right)$, $\left(0,4\right)$, $\left(0,-4\right)$. $\blacksquare$
 
@@ -310,7 +310,7 @@ $$
 
 ### 解答 习题十
 
-由**性质 9.1.1 (点与坐标一一对应)**, 选定图形的若干关键点, 写出每个点的坐标, 再规定连接顺序. 例如设计一个"房子"图形, 顶点坐标依次为 $A\left(-2,0\right)$, $B\left(2,0\right)$, $C\left(2,2\right)$, $D\left(0,4\right)$, $E\left(-2,2\right)$, 按 $A\to B\to C\to D\to E\to A$ 顺序连接. 同学按坐标描点连线即可画出该图形. $\blacksquare$
+由**性质 9.1.1 (点与坐标一一对应)**, 选定图形的若干关键点, 写出每个点的坐标, 再规定连接顺序. 例如设计一个"房子"图形, 顶点坐标依次为 $A\left(-2,0\right)$, $B\left(2,0\right)$, $C\left(2,2\right)$, $D\left(0,4\right)$, $E\left(-2,2\right)$, 按 $A\to{B}\to{C}\to{D}\to{E}\to{A}$ 顺序连接. 同学按坐标描点连线即可画出该图形. $\blacksquare$
 
 ## 练习七
 

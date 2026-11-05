@@ -6,7 +6,7 @@
 
 > **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**
 > 
-> The graph of $y=\frac{k}{x}$ is a hyperbola. When $k> 0$, the two branches lie in the first and third quadrants, and in each quadrant $y$ decreases as $x$ increases; when $k< 0$, the two branches lie in the second and fourth quadrants, and in each quadrant $y$ increases as $x$ increases.
+> The graph of $y=\frac{k}{x}$ is a hyperbola. When $k>0$, the two branches lie in the first and third quadrants, and in each quadrant $y$ decreases as $x$ increases; when $k<0$, the two branches lie in the second and fourth quadrants, and in each quadrant $y$ increases as $x$ increases.
 
 > **Definition 26.1.3 (Method of Undetermined Coefficients)**
 > 
@@ -42,13 +42,13 @@
 
 ## Exercise 1
 
-(Exercise 30.2, Problem 1) As shown in the figure, in $\odot O$, $\angle ABC=50^\circ$, and the point $P$ is the incenter of $\triangle ABC$. Find the measure of $\angle BOC$.
+(Exercise 30.2, Problem 1) As shown in the figure, in $\odot{O}$, $\angle{A}BC=50^\circ$, and the point $P$ is the incenter of $\triangle{A}BC$. Find the measure of $\angle{B}OC$.
 
 ### Solution to Exercise 1
 
 By **Definition 30.2.1 (Incircle of a Triangle)**.
 
-The incenter is the intersection of the angle bisectors, so $\angle OBC=\frac12\angle ABC=25^\circ$ and $\angle OCB=\frac12\angle ACB$. From the sum of the interior angles of a triangle, $\angle BOC=90^\circ+\frac12\angle A$. From $\angle A=180^\circ-\angle ABC-\angle ACB$, we get $\angle BOC=115^\circ$. $\blacksquare$
+The incenter is the intersection of the angle bisectors, so $\angle{O}BC=\frac12\angle{A}BC=25^\circ$ and $\angle{O}CB=\frac12\angle{A}CB$. From the sum of the interior angles of a triangle, $\angle{B}OC=90^\circ+\frac12\angle{A}$. From $\angle{A}=180^\circ-\angle{A}BC-\angle{A}CB$, we get $\angle{B}OC=115^\circ$. $\blacksquare$
 
 ## Exercise 2
 
@@ -62,7 +62,7 @@ The largest circle is the incircle. The altitude of the equilateral triangle is 
 
 ## Problem 1
 
-(Exercise 30.2, Review and Consolidation, Problem 1) The incircle radius of $\triangle ABC$ is $r$, and the perimeter of $\triangle ABC$ is $l$. Find the area of $\triangle ABC$.
+(Exercise 30.2, Review and Consolidation, Problem 1) The incircle radius of $\triangle{A}BC$ is $r$, and the perimeter of $\triangle{A}BC$ is $l$. Find the area of $\triangle{A}BC$.
 
 ### Solution to Problem 1
 
@@ -71,14 +71,14 @@ By **Definition 30.2.1 (Incircle of a Triangle)**.
 The distances from the incenter to the three sides are all $r$; dividing the triangle into three smaller triangles, the sum of their areas is
 
 $$
-S=\frac12 r\cdot AB+\frac12 r\cdot BC+\frac12 r\cdot CA=\frac12 rl.
+S=\frac12r\cdot{A}B+\frac12r\cdot{B}C+\frac12r\cdot{C}A=\frac12rl.
 $$
 
 $\blacksquare$
 
 ## Problem 2
 
-(Exercise 30.2, Review and Consolidation, Problem 2) As shown in the figure, in $\triangle ABC$, $BC=14$, $AC=9$, and $AB=13$; its incircle is tangent to $BC$, $AC$, $AB$ at the points $D$, $E$, $F$ respectively. Find the lengths of $AF$, $BD$, and $CE$.
+(Exercise 30.2, Review and Consolidation, Problem 2) As shown in the figure, in $\triangle{A}BC$, $BC=14$, $AC=9$, and $AB=13$; its incircle is tangent to $BC$, $AC$, $AB$ at the points $D$, $E$, $F$ respectively. Find the lengths of $AF$, $BD$, and $CE$.
 
 ### Solution to Problem 2
 
@@ -88,7 +88,7 @@ Let $AF=AE=x$, $BF=BD=y$, and $CD=CE=z$. Then $x+y=13$, $y+z=14$, and $x+z=9$. A
 
 ## Problem 3
 
-(Exercise 30.2, Comprehensive Application, Problem 3) As shown in the figure, let the sides of $\triangle ABC$ be $BC=a$, $CA=b$, $AB=c$, and $s=\frac{a+b+c}{2}$. Prove that $AE=AF=s-a$, $BF=BD=s-b$, and $CD=CE=s-c$.
+(Exercise 30.2, Comprehensive Application, Problem 3) As shown in the figure, let the sides of $\triangle{A}BC$ be $BC=a$, $CA=b$, $AB=c$, and $s=\frac{a+b+c}{2}$. Prove that $AE=AF=s-a$, $BF=BD=s-b$, and $CD=CE=s-c$.
 
 ### Solution to Problem 3
 
@@ -98,13 +98,13 @@ Let $AE=AF=x$, $BF=BD=y$, and $CD=CE=z$. Then $x+y=c$, $y+z=a$, and $z+x=b$. Sol
 
 ## Problem 4
 
-(Exercise 30.2, Comprehensive Application, Problem 4) In $\text{Rt}\triangle ABC$, $\angle C=90^\circ$, $BC=a$, $CA=b$, $AB=c$. Find the incircle radius $r$.
+(Exercise 30.2, Comprehensive Application, Problem 4) In $\text{Rt}\triangle{A}BC$, $\angle{C}=90^\circ$, $BC=a$, $CA=b$, $AB=c$. Find the incircle radius $r$.
 
 ### Solution to Problem 4
 
 By **Definition 30.2.1 (Incircle of a Triangle)** and the conclusion of Problem 3.
 
-The area is $S=\frac12 ab$, and also $S=\frac12 r\left(a+b+c\right)$, hence
+The area is $S=\frac12ab$, and also $S=\frac12r\left(a+b+c\right)$, hence
 
 $$
 r=\frac{ab}{a+b+c}=\frac{a+b-c}{2}.
@@ -114,14 +114,14 @@ $\blacksquare$
 
 ## Problem 5
 
-(Exercise 30.2, Extension and Exploration, Problem 5) Let the incircle radius of $\triangle ABC$ be $r$, the area of $\triangle ABC$ be $S$, and the perimeter be $l$. Find the relationship among $S$, $l$, and $r$.
+(Exercise 30.2, Extension and Exploration, Problem 5) Let the incircle radius of $\triangle{A}BC$ be $r$, the area of $\triangle{A}BC$ be $S$, and the perimeter be $l$. Find the relationship among $S$, $l$, and $r$.
 
 ### Solution to Problem 5
 
 By **Definition 30.2.1 (Incircle of a Triangle)**.
 
 $$
-S=\frac12 rl.
+S=\frac12rl.
 $$
 
 $\blacksquare$
@@ -150,9 +150,9 @@ By **Theorem 30.3.1 (Regular Polygons and Circles)**.
 
 By Properties of Regular Polygons.
 
-Equilateral triangle: side length $\sqrt3 R$, apothem $\frac{R}{2}$, area $\frac{3\sqrt3}{4}R^2$.
+Equilateral triangle: side length $\sqrt3R$, apothem $\frac{R}{2}$, area $\frac{3\sqrt3}{4}R^2$.
 
-Square: side length $\sqrt2 R$, apothem $\frac{\sqrt2}{2}R$, area $2R^2$. $\blacksquare$
+Square: side length $\sqrt2R$, apothem $\frac{\sqrt2}{2}R$, area $2R^2$. $\blacksquare$
 
 ## Exercise 5
 
@@ -180,7 +180,7 @@ The central angle is $=\frac{360^\circ}{5}=72^\circ$. Draw a circle of radius $2
 
 ### Solution to Illustrated History of Mathematics 1
 
-By Arc Length Formula and the circumference formula $C=2\pi R$.
+By Arc Length Formula and the circumference formula $C=2\pi{R}$.
 
 During the Three Kingdoms period in China, Liu Hui obtained $\pi\approx3.1416$ using his "cyclotomic method"; in the Northern and Southern Dynasties, Zu Chongzhi refined $\pi$ to between $3.1415926$ and $3.1415927$. In modern times, series and computers have computed it to trillions of digits. $\blacksquare$
 
@@ -206,7 +206,7 @@ By dividing the circumference into equal parts, one can draw a regular hexagon, 
 
 ## Review Problem 1
 
-(Review Problem 30, Review and Consolidation, Problem 1) The radius of $\odot O$ is $R$, and the distance from the center $O$ to the line $l$ is $d$. $R$ and $d$ are the two roots of the equation $x^2-6x+m=0$. When the line $l$ is tangent to $\odot O$, what is the value of $m$?
+(Review Problem 30, Review and Consolidation, Problem 1) The radius of $\odot{O}$ is $R$, and the distance from the center $O$ to the line $l$ is $d$. $R$ and $d$ are the two roots of the equation $x^2-6x+m=0$. When the line $l$ is tangent to $\odot{O}$, what is the value of $m$?
 
 ### Solution to Review Problem 1
 
@@ -216,17 +216,17 @@ The equation has equal roots, so the discriminant is $36-4m=0$, and $m=9$. $\bla
 
 ## Review Problem 2
 
-(Review Problem 30, Review and Consolidation, Problem 2) As shown in the figure, $PA$ and $PB$ are tangent to $\odot O$ at $A$ and $B$, and the point $C$ lies on $\odot O$. If $\angle P=70^\circ$, find the measure of $\angle ACB$.
+(Review Problem 30, Review and Consolidation, Problem 2) As shown in the figure, $PA$ and $PB$ are tangent to $\odot{O}$ at $A$ and $B$, and the point $C$ lies on $\odot{O}$. If $\angle{P}=70^\circ$, find the measure of $\angle{A}CB$.
 
 ### Solution to Review Problem 2
 
 By **Theorem 30.1.3 (Tangent-Length Theorem)** and **Theorem 29.2.3 (Inscribed Angle Theorem)**.
 
-$\angle AOB=180^\circ-70^\circ=110^\circ$, and $\angle ACB=\frac12\angle AOB=55^\circ$. $\blacksquare$
+$\angle{A}OB=180^\circ-70^\circ=110^\circ$, and $\angle{A}CB=\frac12\angle{A}OB=55^\circ$. $\blacksquare$
 
 ## Review Problem 3
 
-(Review Problem 30, Review and Consolidation, Problem 3) As shown in the figure, the regular hexagon $ABCDEF$ is inscribed in $\odot O$ of radius $1$. Find the length of $\overset{\frown}{AB}$ and the area of the regular hexagon $ABCDEF$.
+(Review Problem 30, Review and Consolidation, Problem 3) As shown in the figure, the regular hexagon $ABCDEF$ is inscribed in $\odot{O}$ of radius $1$. Find the length of $\overset{\frown}{AB}$ and the area of the regular hexagon $ABCDEF$.
 
 ### Solution to Review Problem 3
 
@@ -236,7 +236,7 @@ The central angle is $\frac{360^\circ}{6}=60^\circ$, and the arc length is $l=\f
 
 ## Review Problem 4
 
-(Review Problem 30, Review and Consolidation, Problem 4) As shown in the figure, $PA$ and $PB$ are tangent to $\odot O$ at $A$ and $B$ respectively; the tangent $EF$ to $\odot O$ meets $PA$ and $PB$ at $E$ and $F$ respectively, with point of tangency $C$. If $PA$ has length $4$, find the perimeter of $\triangle PEF$.
+(Review Problem 30, Review and Consolidation, Problem 4) As shown in the figure, $PA$ and $PB$ are tangent to $\odot{O}$ at $A$ and $B$ respectively; the tangent $EF$ to $\odot{O}$ meets $PA$ and $PB$ at $E$ and $F$ respectively, with point of tangency $C$. If $PA$ has length $4$, find the perimeter of $\triangle{P}EF$.
 
 ### Solution to Review Problem 4
 
@@ -246,37 +246,37 @@ $EA=EC$ and $FB=FC$, so the perimeter is $PE+EF+PF=PE+EC+CF+PF=PE+EA+FB+PF=PA+PB
 
 ## Review Problem 5
 
-(Review Problem 30, Review and Consolidation, Problem 5) As shown in the figure, in the rhombus $ABCD$, the perimeter is $20$ and the diagonal is $AC=8$. If $DE\perp BC$ with foot $E$, prove that $DE$ is a tangent line to the circumcircle of $\triangle ABC$.
+(Review Problem 30, Review and Consolidation, Problem 5) As shown in the figure, in the rhombus $ABCD$, the perimeter is $20$ and the diagonal is $AC=8$. If $DE\perp{B}C$ with foot $E$, prove that $DE$ is a tangent line to the circumcircle of $\triangle{A}BC$.
 
 ### Solution to Review Problem 5
 
 By **Theorem 30.1.2 (Tangent Criterion)**.
 
-The rhombus has side length $5$, and $BD=6$. Compute the circumcircle of $\triangle ABC$, and it suffices to prove that $DE$ is perpendicular to the radius through $C$. $\blacksquare$
+The rhombus has side length $5$, and $BD=6$. Compute the circumcircle of $\triangle{A}BC$, and it suffices to prove that $DE$ is perpendicular to the radius through $C$. $\blacksquare$
 
 ## Review Problem 6
 
-(Review Problem 30, Comprehensive Application, Problem 6) As shown in the figure, in $\odot O$, $AB$ is a diameter, $AC$ is a chord, and $D$ is the midpoint of $\overset{\frown}{BC}$; through $D$ draw $DE\perp AC$ with foot $E$. Prove that $DE$ is a tangent line to $\odot O$.
+(Review Problem 30, Comprehensive Application, Problem 6) As shown in the figure, in $\odot{O}$, $AB$ is a diameter, $AC$ is a chord, and $D$ is the midpoint of $\overset{\frown}{BC}$; through $D$ draw $DE\perp{A}C$ with foot $E$. Prove that $DE$ is a tangent line to $\odot{O}$.
 
 ### Solution to Review Problem 6
 
 By **Theorem 30.1.2 (Tangent Criterion)**.
 
-Join $OD$. Since $D$ is the midpoint of $\overset{\frown}{BC}$, $OD\perp BC$. Also $AB$ is a diameter, so $AC\perp BC$, and hence $OD\parallel AC$. Since $DE\perp AC$, we have $DE\perp OD$, and so $DE$ is a tangent. $\blacksquare$
+Join $OD$. Since $D$ is the midpoint of $\overset{\frown}{BC}$, $OD\perp{B}C$. Also $AB$ is a diameter, so $AC\perp{B}C$, and hence $OD\parallel{A}C$. Since $DE\perp{A}C$, we have $DE\perp{O}D$, and so $DE$ is a tangent. $\blacksquare$
 
 ## Review Problem 7
 
-(Review Problem 30, Comprehensive Application, Problem 7) As shown in the figure, $\odot O$ is the incircle of $\triangle ABC$, $\angle C=90^\circ$, the extension of $AO$ meets $BC$ at the point $D$, $AC=4$, and $DC=1$. Find the radius of $\odot O$.
+(Review Problem 30, Comprehensive Application, Problem 7) As shown in the figure, $\odot{O}$ is the incircle of $\triangle{A}BC$, $\angle{C}=90^\circ$, the extension of $AO$ meets $BC$ at the point $D$, $AC=4$, and $DC=1$. Find the radius of $\odot{O}$.
 
 ### Solution to Review Problem 7
 
 By **Definition 30.2.1 (Incircle of a Triangle)**.
 
-Let the radius be $r$. The incircle is tangent to $AC$ at $E$, so $OE=r$ and $OE\parallel BC$. From $\frac{OE}{CD}=\frac{AO}{AD}$, solving gives $r=\frac{4}{5}$. $\blacksquare$
+Let the radius be $r$. The incircle is tangent to $AC$ at $E$, so $OE=r$ and $OE\parallel{B}C$. From $\frac{OE}{CD}=\frac{AO}{AD}$, solving gives $r=\frac{4}{5}$. $\blacksquare$
 
 ## Review Problem 8
 
-(Review Problem 30, Comprehensive Application, Problem 8) As shown in the figure, in $\triangle ABC$, $AB=AC$, $\odot O$ is the circumcircle of $\triangle ABC$, and $AD$ and $CE$ are both tangent to $\odot O$, meeting the tangent through the point $B$ at $D$ and $E$ respectively. Prove that $BD\cdot CE=\left(\frac12 BC\right)^2$.
+(Review Problem 30, Comprehensive Application, Problem 8) As shown in the figure, in $\triangle{A}BC$, $AB=AC$, $\odot{O}$ is the circumcircle of $\triangle{A}BC$, and $AD$ and $CE$ are both tangent to $\odot{O}$, meeting the tangent through the point $B$ at $D$ and $E$ respectively. Prove that $BD\cdot{C}E=\left(\frac12BC\right)^2$.
 
 ### Solution to Review Problem 8
 
@@ -286,17 +286,17 @@ The product identity follows from the tangent-length theorem and the similarity 
 
 ## Review Problem 9
 
-(Review Problem 30, Comprehensive Application, Problem 9) As shown in the figure, in $\triangle ABC$, $E$ is the incenter, and the extension of $AE$ meets the circumcircle of $\triangle ABC$ at the point $D$. Prove that among the four points $D$, $E$, $B$, $C$, the point $D$ is the center of the circumcircle of the three points $B$, $E$, $C$.
+(Review Problem 30, Comprehensive Application, Problem 9) As shown in the figure, in $\triangle{A}BC$, $E$ is the incenter, and the extension of $AE$ meets the circumcircle of $\triangle{A}BC$ at the point $D$. Prove that among the four points $D$, $E$, $B$, $C$, the point $D$ is the center of the circumcircle of the three points $B$, $E$, $C$.
 
 ### Solution to Review Problem 9
 
 By **Definition 30.2.1 (Incircle of a Triangle)** and **Theorem 29.2.3 (Inscribed Angle Theorem)**.
 
-$E$ is the incenter, so $AD$ bisects $\angle BAC$. Computation gives $\angle DBE=\angle DEB$, so $DB=DE$. Similarly $DC=DE$. Hence $DB=DE=DC$, and $D$ is the center. $\blacksquare$
+$E$ is the incenter, so $AD$ bisects $\angle{B}AC$. Computation gives $\angle{D}BE=\angle{D}EB$, so $DB=DE$. Similarly $DC=DE$. Hence $DB=DE=DC$, and $D$ is the center. $\blacksquare$
 
 ## Review Problem 10
 
-(Review Problem 30, Comprehensive Application, Problem 10) As shown in the figure, in $\text{Rt}\triangle ABC$, $\angle BAC=90^\circ$ and $AB=AC=2$. Roll $\triangle ABC$ a full turn about the line $BC$. Find the length of the path traveled by the point $A$.
+(Review Problem 30, Comprehensive Application, Problem 10) As shown in the figure, in $\text{Rt}\triangle{A}BC$, $\angle{B}AC=90^\circ$ and $AB=AC=2$. Roll $\triangle{A}BC$ a full turn about the line $BC$. Find the length of the path traveled by the point $A$.
 
 ### Solution to Review Problem 10
 
@@ -318,21 +318,21 @@ $\blacksquare$
 
 By Properties of Regular Polygons.
 
-The wrench opening is the distance between opposite sides, i.e. $2\times$ the apothem. The apothem of the regular hexagon is $\frac{\sqrt3}{2}a$, so $b=\sqrt3 a$. $\blacksquare$
+The wrench opening is the distance between opposite sides, i.e. $2\times$ the apothem. The apothem of the regular hexagon is $\frac{\sqrt3}{2}a$, so $b=\sqrt3a$. $\blacksquare$
 
 ## Review Problem 12
 
-(Review Problem 30, Extension and Exploration, Problem 12) As shown in the figure, in the plane rectangular coordinate system, $\odot P$ has center $P$ and radius $r$. If $\odot P$ intersects the $x$-axis and is disjoint from the $y$-axis, what relationship do the abscissa $a$ and ordinate $b$ of $P$ and $r$ satisfy?
+(Review Problem 30, Extension and Exploration, Problem 12) As shown in the figure, in the plane rectangular coordinate system, $\odot{P}$ has center $P$ and radius $r$. If $\odot{P}$ intersects the $x$-axis and is disjoint from the $y$-axis, what relationship do the abscissa $a$ and ordinate $b$ of $P$ and $r$ satisfy?
 
 ### Solution to Review Problem 12
 
 By Position-Relation Criterion.
 
-Intersecting the $x$-axis: $\left|b\right|< r$; disjoint from the $y$-axis: $\left|a\right|> r$. That is, $\left|b\right|< r< \left|a\right|$. $\blacksquare$
+Intersecting the $x$-axis: $\left|b\right|<{}r$; disjoint from the $y$-axis: $\left|a\right|>{}r$. That is, $\left|b\right|<{}r<\left|a\right|$. $\blacksquare$
 
 ## Review Problem 13
 
-(Review Problem 30, Extension and Exploration, Problem 13) As shown in the figure, the diameter of $\odot O$ is $AB=12$, the equilateral triangle $\triangle OAG$ is inscribed in $\odot O$, a circle centered at $O$ with radius $4$ meets $OG$ at the point $D$, and through $D$ draw $DE\parallel AB$ meeting $\odot O$ at the point $E$. Find the area of the shaded part in the figure.
+(Review Problem 30, Extension and Exploration, Problem 13) As shown in the figure, the diameter of $\odot{O}$ is $AB=12$, the equilateral triangle $\triangle{O}AG$ is inscribed in $\odot{O}$, a circle centered at $O$ with radius $4$ meets $OG$ at the point $D$, and through $D$ draw $DE\parallel{A}B$ meeting $\odot{O}$ at the point $E$. Find the area of the shaded part in the figure.
 
 ### Solution to Review Problem 13
 
@@ -344,11 +344,11 @@ Compute the difference between the area of the sector $OAE$ and the small triang
 
 (Exercise 26.1, Problem 1) Express the correspondence between the variables in the following problems using function expressions:
 
-(1) The volume of a swimming pool is $2000\ \text{m}^3$, and the time $t$ (unit: $\text{h}$) taken to fill the pool varies with the water-filling rate $v$ (unit: $\text{m}^3/\text{h}$);
+(1) The volume of a swimming pool is $2000\,\text{m}^3$, and the time $t$ (unit: $\text{h}$) taken to fill the pool varies with the water-filling rate $v$ (unit: $\text{m}^3/\text{h}$);
 
-(2) The volume of a cuboid is $1000\ \text{cm}^3$, and its height $h$ (unit: $\text{cm}$) varies with the base area $S$ (unit: $\text{cm}^2$);
+(2) The volume of a cuboid is $1000\,\text{cm}^3$, and its height $h$ (unit: $\text{cm}$) varies with the base area $S$ (unit: $\text{cm}^2$);
 
-(3) An object weighs $100\ \text{N}$, and the pressure $p$ (unit: $\text{Pa}$) it exerts on the ground varies with the contact area $S$ (unit: $\text{m}^2$) between the object and the ground.
+(3) An object weighs $100\,\text{N}$, and the pressure $p$ (unit: $\text{Pa}$) it exerts on the ground varies with the contact area $S$ (unit: $\text{m}^2$) between the object and the ground.
 
 ### Solution to Exercise 7
 
@@ -366,10 +366,10 @@ $$
 h=\frac{1000}{S}.
 $$
 
-(3) The pressure equals the force divided by the area acted upon; the force is $100\ \text{N}$, i.e. $pS=100$, so
+(3) The pressure equals the force divided by the area acted upon; the force is $100\,\text{N}$, i.e. $pS=100$, so
 
 $$
-p=\frac{100}{S}.\ \blacksquare
+p=\frac{100}{S}.\,\blacksquare
 $$
 
 ## Exercise 8
@@ -377,7 +377,7 @@ $$
 (Exercise 26.1, Problem 2) In which of the following relations is $y$ an inverse proportional function of $x$?
 
 $$
-y=4x,\quad \frac{y}{x}=3,\quad y=-\frac{2}{x},\quad y=6x+1,\quad y=x^2-1,\quad y=\frac{1}{x^2},\quad xy=123.
+y=4x,\quad\frac{y}{x}=3,\quad{y}=-\frac{2}{x},\quad{y}=6x+1,\quad{y}=x^2-1,\quad{y}=\frac{1}{x^2},\quad{x}y=123.
 $$
 
 ### Solution to Exercise 8
@@ -428,7 +428,7 @@ By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Functio
 
 (1) (A) and (B) are straight lines, (D) is a parabola, and only (C) is a hyperbola, so choose (C).
 
-(2) The graph lies in the first and third quadrants, which means $k> 0$, and the hyperbola does not pass through the coordinate axes. (B) is a straight line and is excluded; in (D), $k=-3< 0$, so the graph should lie in the second and fourth quadrants, and it is excluded. Since the curve in the figure passes near $\left(1,4\right)$, it corresponds to $y=\frac{4}{x}$, so choose (C). $\blacksquare$
+(2) The graph lies in the first and third quadrants, which means $k>0$, and the hyperbola does not pass through the coordinate axes. (B) is a straight line and is excluded; in (D), $k=-3<0$, so the graph should lie in the second and fourth quadrants, and it is excluded. Since the curve in the figure passes near $\left(1,4\right)$, it corresponds to $y=\frac{4}{x}$, so choose (C). $\blacksquare$
 
 ## Exercise 11
 
@@ -442,9 +442,9 @@ By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Functio
 
 By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**.
 
-(1) $k=5> 0$, so the two branches of the hyperbola lie in the first and third quadrants, respectively.
+(1) $k=5>0$, so the two branches of the hyperbola lie in the first and third quadrants, respectively.
 
-(2) The graph lies in the second and fourth quadrants, which means $k< 0$; when $k< 0$, in each quadrant, $y$ increases as $x$ increases. $\blacksquare$
+(2) The graph lies in the second and fourth quadrants, which means $k<0$; when $k<0$, in each quadrant, $y$ increases as $x$ increases. $\blacksquare$
 
 ## Exercise 12
 
@@ -458,21 +458,21 @@ By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Functio
 
 By **Definition 26.1.3 (Method of Undetermined Coefficients)**, let $y=\frac{k}{x}$. Substituting $A\left(3,-4\right)$ gives $-4=\frac{k}{3}$, so $k=-12$, and hence $y=\frac{-12}{x}$.
 
-(1) $k=-12< 0$, so by **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**, the graph lies in the second and fourth quadrants, and on each branch $y$ increases as $x$ increases.
+(1) $k=-12<0$, so by **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**, the graph lies in the second and fourth quadrants, and on each branch $y$ increases as $x$ increases.
 
 (2) $B\left(-3,4\right)$: $\left(-3\right)\times4=-12=k$, on the graph; $C\left(-2,6\right)$: $\left(-2\right)\times6=-12=k$, on the graph; $D\left(3,4\right)$: $3\times4=12\ne-12$, not on the graph. $\blacksquare$
 
 ## Exercise 13
 
-(Exercise 26.1, Problem 2) The points $A\left(x_1,y_1\right)$ and $B\left(x_2,y_2\right)$ lie on the graph of the inverse proportional function $y=\frac{1}{x}$. If $x_1< x_2$ and $x_1$, $x_2$ have the same sign, what is the size relationship between $y_1$ and $y_2$? Why?
+(Exercise 26.1, Problem 2) The points $A\left(x_1,y_1\right)$ and $B\left(x_2,y_2\right)$ lie on the graph of the inverse proportional function $y=\frac{1}{x}$. If $x_1<{}x_2$ and $x_1$, $x_2$ have the same sign, what is the size relationship between $y_1$ and $y_2$? Why?
 
 ### Solution to Exercise 13
 
-By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**, $k=1> 0$, so in each quadrant $y$ decreases as $x$ increases.
+By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**, $k=1>0$, so in each quadrant $y$ decreases as $x$ increases.
 
-Since $x_1$, $x_2$ have the same sign, $A$ and $B$ lie in the same quadrant. From $x_1< x_2$, on the same branch $y$ decreases as $x$ increases, so $y_1> y_2$.
+Since $x_1$, $x_2$ have the same sign, $A$ and $B$ lie in the same quadrant. From $x_1<{}x_2$, on the same branch $y$ decreases as $x$ increases, so $y_1>{}y_2$.
 
-This can also be verified from the expression: $y_1-y_2=\frac{1}{x_1}-\frac{1}{x_2}=\frac{x_2-x_1}{x_1x_2}$. From $x_1< x_2$ we get $x_2-x_1> 0$, and from $x_1$, $x_2$ having the same sign we get $x_1x_2> 0$, so $y_1-y_2> 0$, i.e. $y_1> y_2$. $\blacksquare$
+This can also be verified from the expression: $y_1-y_2=\frac{1}{x_1}-\frac{1}{x_2}=\frac{x_2-x_1}{x_1x_2}$. From $x_1<{}x_2$ we get $x_2-x_1>0$, and from $x_1$, $x_2$ having the same sign we get $x_1x_2>0$, so $y_1-y_2>0$, i.e. $y_1>{}y_2$. $\blacksquare$
 
 ## Problem 6
 
@@ -516,8 +516,8 @@ By **Definition 26.1.1 (Inverse Proportional Function)**, an inverse proportiona
 
 By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Function)**.
 
-(1) The graph lies in the first and third quadrants, $k> 0$, and $y$ decreases as $x$ increases.
+(1) The graph lies in the first and third quadrants, $k>0$, and $y$ decreases as $x$ increases.
 
-(2) The graph lies in the second and fourth quadrants, $k< 0$, and $y$ increases as $x$ increases.
+(2) The graph lies in the second and fourth quadrants, $k<0$, and $y$ increases as $x$ increases.
 
-(3) Substituting $\left(1,3\right)$ gives $3=\frac{k}{1}$, so $k=3> 0$, and $y$ decreases as $x$ increases. $\blacksquare$
+(3) Substituting $\left(1,3\right)$ gives $3=\frac{k}{1}$, so $k=3>0$, and $y$ decreases as $x$ increases. $\blacksquare$

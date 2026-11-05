@@ -46,7 +46,7 @@
 
 > **Definition 2.3.4 (Scientific Notation)**
 > 
-> Expressing a number greater than $10$ in the form $a\times 10^{n}$ ($1\le a< 10$, where $n$ is a positive integer).
+> Expressing a number greater than $10$ in the form $a\times10^{n}$ ($1\le{a}<10$, where $n$ is a positive integer).
 
 > **Definition 2.3.5 (Approximate Numbers)**
 > 
@@ -62,7 +62,7 @@
 
 > **Definition 3.1.3 (Quantities in Inverse Proportion)**
 > 
-> Two related quantities: if one quantity changes and the other changes along with it, and the product of the two quantities is constant, then the two quantities are called quantities in inverse proportion, and the relationship between them is called an inverse proportion relationship. If the letters $x$ and $y$ are used to represent the two related quantities, and $k$ is used to represent their product ($k$ is a fixed value, and $k\ne 0$), then the inverse proportion relationship can be expressed as $xy=k$.
+> Two related quantities: if one quantity changes and the other changes along with it, and the product of the two quantities is constant, then the two quantities are called quantities in inverse proportion, and the relationship between them is called an inverse proportion relationship. If the letters $x$ and $y$ are used to represent the two related quantities, and $k$ is used to represent their product ($k$ is a fixed value, and $k\ne0$), then the inverse proportion relationship can be expressed as $xy=k$.
 
 ## Review Problem 1
 
@@ -86,7 +86,7 @@ For two numbers that are reciprocals of each other, by **Definition 2.2.2 (Recip
 
 By **Definition 2.3.4 (Scientific Notation)**.
 
-(1) $100000000=1\times 10^{8}$; (2) $4500000=4.5\times 10^{6}$; (3) $692400000000=6.924\times 10^{11}$. $\blacksquare$
+(1) $100000000=1\times10^{8}$; (2) $4500000=4.5\times10^{6}$; (3) $692400000000=6.924\times10^{11}$. $\blacksquare$
 
 ## Review Problem 3
 
@@ -100,7 +100,7 @@ By **Definition 2.3.4 (Scientific Notation)**.
 
 By **Definition 2.3.5 (Approximate Numbers)**.
 
-(1) $245.635\approx 245.6$; (2) $175.65\approx 176$; (3) $12.004\approx 12.00$; (4) $6.5378\approx 6.54$. $\blacksquare$
+(1) $245.635\approx245.6$; (2) $175.65\approx176$; (3) $12.004\approx12.00$; (4) $6.5378\approx6.54$. $\blacksquare$
 
 ## Review Problem 4
 
@@ -138,7 +138,7 @@ Hence the red team has a goal difference of $1$, the yellow team $-4$, and the b
 
 (Review Problem, Comprehensive Application, Problem 8) The following are the mathematics test scores of ten students:
 
-$$82,\ 83,\ 78,\ 66,\ 95,\ 75,\ 61,\ 93,\ 82,\ 81.$$
+$$82,\,83,\,78,\,66,\,95,\,75,\,61,\,93,\,82,\,81.$$
 
 First estimate their average score, and then compute the average score on that basis, thereby checking your ability to estimate.
 
@@ -146,7 +146,7 @@ First estimate their average score, and then compute the average score on that b
 
 By **Definition 2.2.7 (Rules for Division of Rational Numbers)**, the average score is the total score divided by the number of students.
 
-The total score $=82+83+78+66+95+75+61+93+82+81=796$. The average score $=796\div 10=79.6$ points. The scores are mostly concentrated in the $70\sim 90$ point range, estimated at about $80$ points, which is close to the computed result of $79.6$ points. $\blacksquare$
+The total score $=82+83+78+66+95+75+61+93+82+81=796$. The average score $=796\div10=79.6$ points. The scores are mostly concentrated in the $70\sim90$ point range, estimated at about $80$ points, which is close to the computed result of $79.6$ points. $\blacksquare$
 
 ## Review Problem 7
 
@@ -162,7 +162,7 @@ The result is negative, so Saturday was a loss, in the amount of $502$ yuan. $\b
 
 ## Review Problem 8
 
-(Review Problem, Comprehensive Application, Problem 10) A track patrol officer patrols and maintains an east-west railway. Starting from his station, he first walks $7\ \text{km}$ eastward, then another $3\ \text{km}$ eastward, and then turns back and walks $11.5\ \text{km}$ westward. In which direction is he from his station at this point? How far is he from his station, in kilometers?
+(Review Problem, Comprehensive Application, Problem 10) A track patrol officer patrols and maintains an east-west railway. Starting from his station, he first walks $7\,\text{km}$ eastward, then another $3\,\text{km}$ eastward, and then turns back and walks $11.5\,\text{km}$ westward. In which direction is he from his station at this point? How far is he from his station, in kilometers?
 
 ### Solution to Review Problem 8
 
@@ -170,19 +170,19 @@ By **Definition 2.1.1 (Rules for Addition of Rational Numbers)**, eastward is po
 
 $$7+3-11.5=-1.5.$$
 
-The result is negative, so at this point he is west of his station, and his distance from the station is $1.5\ \text{km}$. $\blacksquare$
+The result is negative, so at this point he is west of his station, and his distance from the station is $1.5\,\text{km}$. $\blacksquare$
 
 ## Review Problem 9
 
-(Review Problem, Comprehensive Application, Problem 11) In the range $0\sim 40\,^\circ\text{C}$, for each $1\,^\circ\text{C}$ rise in temperature, a certain metal wire elongates by about $0.002\ \text{mm}$; conversely, for each $1\,^\circ\text{C}$ drop in temperature, the metal wire shortens by about $0.002\ \text{mm}$. This metal wire at $20\,^\circ\text{C}$ is heated to $30\,^\circ\text{C}$ and then cooled down to $5\,^\circ\text{C}$. What change did the length of the metal wire undergo? By about how many millimeters did the final length elongate relative to the original length?
+(Review Problem, Comprehensive Application, Problem 11) In the range $0\sim40\,^\circ\text{C}$, for each $1\,^\circ\text{C}$ rise in temperature, a certain metal wire elongates by about $0.002\,\text{mm}$; conversely, for each $1\,^\circ\text{C}$ drop in temperature, the metal wire shortens by about $0.002\,\text{mm}$. This metal wire at $20\,^\circ\text{C}$ is heated to $30\,^\circ\text{C}$ and then cooled down to $5\,^\circ\text{C}$. What change did the length of the metal wire undergo? By about how many millimeters did the final length elongate relative to the original length?
 
 ### Solution to Review Problem 9
 
 By **Definition 2.2.1 (Rules for Multiplication of Rational Numbers)**.
 
-Heating from $20\,^\circ\text{C}$ to $30\,^\circ\text{C}$ raises the temperature by $10\,^\circ\text{C}$, elongating $10\times 0.002=0.02\ \text{mm}$; then cooling from $30\,^\circ\text{C}$ to $5\,^\circ\text{C}$ lowers the temperature by $25\,^\circ\text{C}$, shortening $25\times 0.002=0.05\ \text{mm}$.
+Heating from $20\,^\circ\text{C}$ to $30\,^\circ\text{C}$ raises the temperature by $10\,^\circ\text{C}$, elongating $10\times0.002=0.02\,\text{mm}$; then cooling from $30\,^\circ\text{C}$ to $5\,^\circ\text{C}$ lowers the temperature by $25\,^\circ\text{C}$, shortening $25\times0.002=0.05\,\text{mm}$.
 
-The total change is $0.02-0.05=-0.03\ \text{mm}$, so the final length is shortened by about $0.03\ \text{mm}$ relative to the original length. $\blacksquare$
+The total change is $0.02-0.05=-0.03\,\text{mm}$, so the final length is shortened by about $0.03\,\text{mm}$ relative to the original length. $\blacksquare$
 
 ## Review Problem 10
 
@@ -192,9 +192,9 @@ The total change is $0.02-0.05=-0.03\ \text{mm}$, so the final length is shorten
 
 By **Definition 2.3.4 (Scientific Notation)**.
 
-$$1.496\text{ 亿千米}=149600000\ \text{km}=1.496\times 10^{8}\ \text{km}.$$
+$$1.496\text{~亿千米}=149600000\,\text{km}=1.496\times10^{8}\,\text{km}.$$
 
-Hence the $1$ astronomical unit is $1.496\times 10^{8}\ \text{km}$. $\blacksquare$
+Hence the $1$ astronomical unit is $1.496\times10^{8}\,\text{km}$. $\blacksquare$
 
 ## Review Problem 11
 
@@ -208,9 +208,9 @@ Hence the $1$ astronomical unit is $1.496\times 10^{8}\ \text{km}$. $\blacksquar
 
 By **Definition 2.3.1 (Powers)** and **Definition 1.2.7 (Comparing the Magnitude of Rational Numbers)**.
 
-(1) Take $a=\frac{1}{2}$; then $a^{2}=\frac{1}{4}$ and $a^{3}=\frac{1}{8}$. Since $\frac{1}{8}< \frac{1}{4}< \frac{1}{2}$, we get $a^{3}< a^{2}< a$.
+(1) Take $a=\frac{1}{2}$; then $a^{2}=\frac{1}{4}$ and $a^{3}=\frac{1}{8}$. Since $\frac{1}{8}<\frac{1}{4}<\frac{1}{2}$, we get $a^{3}<{}a^{2}<{}a$.
 
-(2) Take $b=-\frac{1}{2}$; then $b^{2}=\frac{1}{4}$ and $b^{3}=-\frac{1}{8}$. Since $-\frac{1}{2}< -\frac{1}{8}< \frac{1}{4}$, we get $b< b^{3}< b^{2}$. $\blacksquare$
+(2) Take $b=-\frac{1}{2}$; then $b^{2}=\frac{1}{4}$ and $b^{3}=-\frac{1}{8}$. Since $-\frac{1}{2}<-\frac{1}{8}<\frac{1}{4}$, we get $b<{}b^{3}<{}b^{2}$. $\blacksquare$
 
 ## Review Problem 12
 
@@ -228,27 +228,27 @@ By **Definition 2.3.1 (Powers)** and **Definition 1.2.7 (Comparing the Magnitude
 
 (2) Correct. By **Definition 2.3.2 (Sign Rules for Powers)**, the positive even powers of the two opposite numbers $a$ and $-a$ are both positive and have the same absolute value, so $a^{2n}=\left(-a\right)^{2n}$.
 
-(3) Wrong. Counterexample: $a=1$, $b=-1$; we have $a> b$, but $\frac{1}{a}=1$ and $\frac{1}{b}=-1$, and at this point $\frac{1}{a}> \frac{1}{b}$, so the original statement does not hold. $\blacksquare$
+(3) Wrong. Counterexample: $a=1$, $b=-1$; we have $a>{}b$, but $\frac{1}{a}=1$ and $\frac{1}{b}=-1$, and at this point $\frac{1}{a}>\frac{1}{b}$, so the original statement does not hold. $\blacksquare$
 
 ## Review Problem 13
 
 (Review Problem, Extension and Exploration, Problem 15) Use a calculator to compute the following expressions, and write the results on the blanks:
 
-$$1\times 1=\;\_\_\;;\quad 11\times 11=\;\_\_\;;\quad 111\times 111=\;\_\_\;;\quad 1111\times 1111=\;\_\_\;.$$
+$$1\times1=\;\_\_\;;\quad11\times11=\;\_\_\;;\quad111\times111=\;\_\_\;;\quad1111\times1111=\;\_\_\;.$$
 
-(1) What did you discover? (2) Without a calculator, can you directly write down the result of $111111111\times 111111111$?
+(1) What did you discover? (2) Without a calculator, can you directly write down the result of $111111111\times111111111$?
 
 ### Solution to Review Problem 13
 
 By computation,
 
-$$1\times 1=1;\quad 11\times 11=121;\quad 111\times 111=12321;\quad 1111\times 1111=1234321.$$
+$$1\times1=1;\quad11\times11=121;\quad111\times111=12321;\quad1111\times1111=1234321.$$
 
-(1) The rule: when a number made up of $n$ copies of $1$ is multiplied by itself, the result increases from $1$ to $n$ and then decreases back to $1$, namely $123\cdots n\cdots 321$.
+(1) The rule: when a number made up of $n$ copies of $1$ is multiplied by itself, the result increases from $1$ to $n$ and then decreases back to $1$, namely $123\cdots{n}\cdots321$.
 
 (2) $111111111$ is made up of $9$ copies of $1$, so
 
-$$111111111\times 111111111=12345678987654321.$$
+$$111111111\times111111111=12345678987654321.$$
 
 $\blacksquare$
 
@@ -260,7 +260,7 @@ $\blacksquare$
 
 By **Definition 2.3.1 (Powers)**, binary places have base $2$, and from right to left are respectively $2^{0}$, $2^{1}$, $2^{2}$, $2^{3}$.
 
-$$\left(1011\right)_{2}=1\times 2^{3}+0\times 2^{2}+1\times 2^{1}+1\times 2^{0}=8+0+2+1=11.$$
+$$\left(1011\right)_{2}=1\times2^{3}+0\times2^{2}+1\times2^{1}+1\times2^{0}=8+0+2+1=11.$$
 
 Hence $\left(1011\right)_{2}=11$. $\blacksquare$
 
@@ -276,7 +276,7 @@ Converting to binary: $89=64+16+8+1=2^{6}+2^{4}+2^{3}+2^{0}$, so
 
 $$89=\left(1011001\right)_{2}.$$
 
-Converting to octal: $89=1\times 8^{2}+5\times 8^{1}+1\times 8^{0}=64+40+1$, so
+Converting to octal: $89=1\times8^{2}+5\times8^{1}+1\times8^{0}=64+40+1$, so
 
 $$89=\left(151\right)_{8}.$$
 
@@ -288,7 +288,7 @@ $\blacksquare$
 
 ### Solution to Inquiry 3
 
-By **Definition 2.3.1 (Powers)**, any base-$k$ number $\left(a_{n}a_{n-1}\cdots a_{1}a_{0}\right)_{k}$ can be written as
+By **Definition 2.3.1 (Powers)**, any base-$k$ number $\left(a_{n}a_{n-1}\cdots{a}_{1}a_{0}\right)_{k}$ can be written as
 
 $$a_{n}k^{n}+a_{n-1}k^{n-1}+\cdots+a_{1}k+a_{0}.$$
 
@@ -304,7 +304,7 @@ Binary addition carries one when reaching two. First convert to decimal to check
 
 Vertical addition:
 
-$$\begin{array}{r} 10010\\ +\quad 111\\ \hline 11001\end{array}$$
+$$\begin{array}{r}10010\\+\quad111\\\hline11001\end{array}$$
 
 Hence $\left(10010\right)_{2}+\left(111\right)_{2}=\left(11001\right)_{2}=25$. $\blacksquare$
 
@@ -318,7 +318,7 @@ Hence $\left(10010\right)_{2}+\left(111\right)_{2}=\left(11001\right)_{2}=25$. $
 
 (2) By **Definition 2.3.1 (Powers)**, $45=32+8+4+1=\left(101101\right)_{2}$ and $23=16+4+2+1=\left(10111\right)_{2}$. Adding in binary:
 
-$$\begin{array}{r} 101101\\ +\quad 10111\\ \hline 1000100\end{array}$$
+$$\begin{array}{r}101101\\+\quad10111\\\hline1000100\end{array}$$
 
 $\left(1000100\right)_{2}=64+4=68$.
 
@@ -340,7 +340,7 @@ Base sixty carries one when reaching sixty, that is, when a place reaches $60$, 
 
 (2) Wang Fang is $m$ years old this year; last year she was $\;\_\_\;$ years old, and $6$ years later she will be $\;\_\_\;$ years old;
 
-(3) Put $p\ \text{kg}$ of sugar into $n$ packaging bags, with the same mass in each bag; each bag contains $\;\_\_\;\text{kg}$ of sugar;
+(3) Put $p\,\text{kg}$ of sugar into $n$ packaging bags, with the same mass in each bag; each bag contains $\;\_\_\;\text{kg}$ of sugar;
 
 (4) The volume of a cube with edge length $a$ is $\;\_\_\;$.
 
@@ -348,11 +348,11 @@ Base sixty carries one when reaching sixty, that is, when a place reaches $60$, 
 
 By **Definition 3.1.2 (Forming Algebraic Expressions)**.
 
-(1) $6$ packages have $10\times 6=60$ volumes, and $n$ packages have $10n$ volumes.
+(1) $6$ packages have $10\times6=60$ volumes, and $n$ packages have $10n$ volumes.
 
 (2) Last year was $1$ year younger than this year, namely $\left(m-1\right)$ years old; $6$ years later will be $\left(m+6\right)$ years old.
 
-(3) Each bag contains $\frac{p}{n}\ \text{kg}$ of sugar.
+(3) Each bag contains $\frac{p}{n}\,\text{kg}$ of sugar.
 
 (4) The volume of a cube is the cube of its edge length, namely $a^{3}$. $\blacksquare$
 
@@ -382,7 +382,7 @@ By **Definition 3.1.1 (Algebraic Expressions)**.
 
 By **Definition 3.1.1 (Algebraic Expressions)**.
 
-For example: having $100$ yuan, each pencil costs $2$ yuan; after buying $x$ pencils, $\left(100-2x\right)$ yuan remain. Or: a rope of length $100\ \text{cm}$, each time cutting off $2\ \text{cm}$; after cutting $x$ times, $\left(100-2x\right)\ \text{cm}$ remain. $\blacksquare$
+For example: having $100$ yuan, each pencil costs $2$ yuan; after buying $x$ pencils, $\left(100-2x\right)$ yuan remain. Or: a rope of length $100\,\text{cm}$, each time cutting off $2\,\text{cm}$; after cutting $x$ times, $\left(100-2x\right)\,\text{cm}$ remain. $\blacksquare$
 
 ## Exercise 4
 
@@ -412,29 +412,29 @@ By **Definition 3.1.2 (Forming Algebraic Expressions)**.
 
 By **Definition 3.1.2 (Forming Algebraic Expressions)**, revenue $=$ unit price $\times$ quantity.
 
-$$4.8\times m=4.8m.$$
+$$4.8\times{m}=4.8m.$$
 
 Hence the revenue from selling this commodity this month is $4.8m$ yuan. $\blacksquare$
 
 ## Exercise 6
 
-(Exercise 3.1, Problem 3) There are two cotton fields. One has area $m\ \text{hm}^{2}$, with an average cotton yield of $a\ \text{kg}$ per hectare; the other has area $n\ \text{hm}^{2}$, with an average cotton yield of $b\ \text{kg}$ per hectare. Express the total cotton yield of the two fields in an algebraic expression.
+(Exercise 3.1, Problem 3) There are two cotton fields. One has area $m\,\text{hm}^{2}$, with an average cotton yield of $a\,\text{kg}$ per hectare; the other has area $n\,\text{hm}^{2}$, with an average cotton yield of $b\,\text{kg}$ per hectare. Express the total cotton yield of the two fields in an algebraic expression.
 
 ### Solution to Exercise 6
 
 By **Definition 3.1.2 (Forming Algebraic Expressions)**.
 
-The first field yields $ma\ \text{kg}$ of cotton, and the second yields $nb\ \text{kg}$. Hence the total cotton yield of the two fields is $\left(ma+nb\right)\ \text{kg}$. $\blacksquare$
+The first field yields $ma\,\text{kg}$ of cotton, and the second yields $nb\,\text{kg}$. Hence the total cotton yield of the two fields is $\left(ma+nb\right)\,\text{kg}$. $\blacksquare$
 
 ## Exercise 7
 
-(Exercise 3.1, Problem 4) A small square iron sheet is cut out from a large square iron sheet. The side length of the large square is $a\ \text{mm}$, and the side length of the small square is $b\ \text{mm}$. Express the area of the remaining iron sheet in an algebraic expression.
+(Exercise 3.1, Problem 4) A small square iron sheet is cut out from a large square iron sheet. The side length of the large square is $a\,\text{mm}$, and the side length of the small square is $b\,\text{mm}$. Express the area of the remaining iron sheet in an algebraic expression.
 
 ### Solution to Exercise 7
 
 By **Definition 3.1.2 (Forming Algebraic Expressions)**.
 
-The area of the large square is $a^{2}\ \text{mm}^{2}$, and the area of the small square is $b^{2}\ \text{mm}^{2}$. The area of the remaining iron sheet is $\left(a^{2}-b^{2}\right)\ \text{mm}^{2}$. $\blacksquare$
+The area of the large square is $a^{2}\,\text{mm}^{2}$, and the area of the small square is $b^{2}\,\text{mm}^{2}$. The area of the remaining iron sheet is $\left(a^{2}-b^{2}\right)\,\text{mm}^{2}$. $\blacksquare$
 
 ## Exercise 8
 
@@ -458,7 +458,7 @@ Tons shipped per day: $500$, $250$, $100$, $50$. Number of days of shipping: $1$
 
 By **Definition 3.1.3 (Quantities in Inverse Proportion)**.
 
-(1) Since $500\times 1=250\times 2=100\times 5=50\times 10=500$, the batch of goods totals $500$ tons.
+(1) Since $500\times1=250\times2=100\times5=50\times10=500$, the batch of goods totals $500$ tons.
 
 (2) The larger the number of tons shipped per day, the smaller the number of days of shipping.
 
@@ -504,7 +504,7 @@ By **Definition 3.1.1 (Algebraic Expressions)**.
 
 (3) The interest rate for a one-year fixed deposit at a certain bank is $1.5\%$. If $a$ yuan is deposited, how much interest is received after one year? What is the sum of principal and interest?
 
-(4) The distance between Location A and Location B is $s\ \text{km}$. Li Ming originally planned to ride a bicycle from Location A to Location B, which would take $t\ \text{h}$; he later switched to taking a bus and arrived $1\ \text{h}$ earlier. What is the speed of the bus?
+(4) The distance between Location A and Location B is $s\,\text{km}$. Li Ming originally planned to ride a bicycle from Location A to Location B, which would take $t\,\text{h}$; he later switched to taking a bus and arrived $1\,\text{h}$ earlier. What is the speed of the bus?
 
 ### Solution to Problem 3
 
@@ -514,9 +514,9 @@ By **Definition 3.1.2 (Forming Algebraic Expressions)**.
 
 (2) In $c$ years, $bc$ ten thousand new visitors are added, so the cumulative total is $\left(a+bc\right)$ ten thousand people.
 
-(3) Interest $=a\times 1.5\%=1.5\%a$ yuan; principal plus interest $=a+1.5\%a=\left(1+1.5\%\right)a$ yuan.
+(3) Interest $=a\times1.5\%=1.5\%a$ yuan; principal plus interest $=a+1.5\%a=\left(1+1.5\%\right)a$ yuan.
 
-(4) The bus takes $\left(t-1\right)\ \text{h}$, and its speed $=\frac{s}{t-1}\ \text{km/h}$. $\blacksquare$
+(4) The bus takes $\left(t-1\right)\,\text{h}$, and its speed $=\frac{s}{t-1}\,\text{km/h}$. $\blacksquare$
 
 ## Problem 4
 
@@ -524,7 +524,7 @@ By **Definition 3.1.2 (Forming Algebraic Expressions)**.
 
 (1) $200$ students participate in a formation drill, arranged with an equal number of people per row; the number of people per row and the number of rows;
 
-(2) The area of a triangle is $6\ \text{cm}^{2}$; the length of one side and the altitude on that side;
+(2) The area of a triangle is $6\,\text{cm}^{2}$; the length of one side and the altitude on that side;
 
 (3) Zhang Hua can make $120$ small red flowers per hour; the number of small red flowers she makes and the time spent making them.
 
@@ -550,7 +550,7 @@ Number of candies per bag: $10$, $12$, $18$, $20$, $24$. Total number of bags: $
 
 By **Definition 3.1.3 (Quantities in Inverse Proportion)**.
 
-(1) Since $10\times 360=12\times 300=18\times 200=20\times 180=24\times 150=3600$, the batch of fruit candies totals $3600$ candies.
+(1) Since $10\times360=12\times300=18\times200=20\times180=24\times150=3600$, the batch of fruit candies totals $3600$ candies.
 
 (2) The larger the number of candies per bag, the smaller the total number of bags.
 

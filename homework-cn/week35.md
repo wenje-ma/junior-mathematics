@@ -30,7 +30,7 @@
 
 > **定义 16.1.1 (同底数幂的乘法)**
 > 
-> 一般地, 对于任意底数 $a$ 与任意正整数 $m,n$, $a^m\cdot a^n=a^{m+n}$, 即同底数幂相乘, 底数不变, 指数相加. 三个或三个以上同底数幂相乘也具有这一性质.
+> 一般地, 对于任意底数 $a$ 与任意正整数 $m,n$, $a^m\cdot{a}^n=a^{m+n}$, 即同底数幂相乘, 底数不变, 指数相加. 三个或三个以上同底数幂相乘也具有这一性质.
 
 > **定义 16.1.2 (幂的乘方)**
 > 
@@ -38,7 +38,7 @@
 
 > **定义 16.1.3 (积的乘方)**
 > 
-> 一般地, 对于任意底数 $a,b$ 与任意正整数 $n$, $\left(ab\right)^n=a^n b^n$, 即积的乘方等于把积的每一个因式分别乘方, 再把所得的幂相乘. 三个或三个以上因式的积的乘方也具有这一性质.
+> 一般地, 对于任意底数 $a,b$ 与任意正整数 $n$, $\left(ab\right)^n=a^nb^n$, 即积的乘方等于把积的每一个因式分别乘方, 再把所得的幂相乘. 三个或三个以上因式的积的乘方也具有这一性质.
 
 > **定义 16.2.1 (单项式与单项式相乘)**
 > 
@@ -54,7 +54,7 @@
 
 > **定义 16.2.4 (同底数幂的除法)**
 > 
-> $a^m\div a^n=a^{m-n}$ ($a\ne0$, $m,n$ 都是正整数, $m> n$), 即同底数幂相除, 底数不变, 指数相减.
+> $a^m\div{a}^n=a^{m-n}$ ($a\ne0$, $m,n$ 都是正整数, $m>{}n$), 即同底数幂相除, 底数不变, 指数相减.
 
 > **定义 16.2.5 (零指数幂)**
 > 
@@ -74,13 +74,13 @@
 
 ## 复习题一
 
-(复习题 拓广探索第 13 题) 如图, $\triangle ABC$ 是等腰三角形, $AC=BC$, $\triangle BCD$ 和 $\triangle ACE$ 是等边三角形, $AE$ 与 $BD$ 相交于点 $F$, 连接 $CF$ 并延长, 交 $AB$ 于点 $G$. 求证 $G$ 为 $AB$ 的中点.
+(复习题 拓广探索第 13 题) 如图, $\triangle{A}BC$ 是等腰三角形, $AC=BC$, $\triangle{B}CD$ 和 $\triangle{A}CE$ 是等边三角形, $AE$ 与 $BD$ 相交于点 $F$, 连接 $CF$ 并延长, 交 $AB$ 于点 $G$. 求证 $G$ 为 $AB$ 的中点.
 
 ### 解答 复习题一
 
-由 $AC=BC$, $\angle CAB=\angle CBA$. 由 $\triangle ACE$, $\triangle BCD$ 等边, $CE=CA=CB=CD$, 且 $\angle ECA=\angle DCB=60^\circ$.
+由 $AC=BC$, $\angle{C}AB=\angle{C}BA$. 由 $\triangle{A}CE$, $\triangle{B}CD$ 等边, $CE=CA=CB=CD$, 且 $\angle{E}CA=\angle{D}CB=60^\circ$.
 
-在 $\triangle ACF$ 和 $\triangle BCF$ 中, $AC=BC$, $CF=CF$, 又由 $\angle ACF=\angle BCF$ (可由 $\triangle FCE\cong\triangle FCD$ 推出 $FC$ 平分 $\angle ECD$), 由 SAS, $\triangle ACF\cong\triangle BCF$.
+在 $\triangle{A}CF$ 和 $\triangle{B}CF$ 中, $AC=BC$, $CF=CF$, 又由 $\angle{A}CF=\angle{B}CF$ (可由 $\triangle{F}CE\cong\triangle{F}CD$ 推出 $FC$ 平分 $\angle{E}CD$), 由 SAS, $\triangle{A}CF\cong\triangle{B}CF$.
 
 由全等对应边相等, $AF=BF$, 即点 $F$ 在 $AB$ 的垂直平分线上. 又点 $C$ 也在 $AB$ 的垂直平分线上 ($AC=BC$), 故直线 $CG$ 是 $AB$ 的垂直平分线, 它与 $AB$ 的交点 $G$ 是 $AB$ 的中点. $\blacksquare$
 
@@ -100,7 +100,7 @@
 
 作点 $A$ 关于直线 $l$ 的对称点 $A'$, 连接 $A'B$, 交直线 $l$ 于点 $C$, 则点 $C$ 即为所求饮马点.
 
-由轴对称的性质, 对 $l$ 上任一点 $C$, $AC=A'C$, 故 $AC+CB=A'C+CB$. 由 "两点之间, 线段最短", $A'C+CB\ge A'B$, 当且仅当 $C$ 落在 $A'B$ 上时取等号, 故此时 $AC+CB$ 最小. $\blacksquare$
+由轴对称的性质, 对 $l$ 上任一点 $C$, $AC=A'C$, 故 $AC+CB=A'C+CB$. 由 "两点之间, 线段最短", $A'C+CB\ge{A}'B$, 当且仅当 $C$ 落在 $A'B$ 上时取等号, 故此时 $AC+CB$ 最小. $\blacksquare$
 
 ## 探究二
 
@@ -131,10 +131,10 @@ $$
 而
 
 $$
-AC'+C'B=A'C'+C'B\ge A'B.
+AC'+C'B=A'C'+C'B\ge{A}'B.
 $$
 
-由 "两点之间, 线段最短", $A'C'+C'B\ge A'B=AC+CB$, 当且仅当 $C'$ 落在 $A'B$ 上即 $C'=C$ 时取等号. 故 $AC+CB$ 最小. $\blacksquare$
+由 "两点之间, 线段最短", $A'C'+C'B\ge{A}'B=AC+CB$, 当且仅当 $C'$ 落在 $A'B$ 上即 $C'=C$ 时取等号. 故 $AC+CB$ 最小. $\blacksquare$
 
 ## 探究四
 
@@ -142,7 +142,7 @@ $$
 
 ### 解答 探究四
 
-设草地边为直线 $m$, 河边为直线 $n$. 分别作点 $A$ 关于直线 $m$ 的对称点 $A_1$ 和关于直线 $n$ 的对称点 $A_2$, 连接 $A_1A_2$, 与 $m$, $n$ 的交点依次为牧马点 $P$ 和饮马点 $Q$, 则折线 $A\to P\to Q\to A$ 最短. 由轴对称, $AP=A_1P$, $QA=QA_2$, 路径长等于线段 $A_1A_2$, 由两点之间线段最短取最小. $\blacksquare$
+设草地边为直线 $m$, 河边为直线 $n$. 分别作点 $A$ 关于直线 $m$ 的对称点 $A_1$ 和关于直线 $n$ 的对称点 $A_2$, 连接 $A_1A_2$, 与 $m$, $n$ 的交点依次为牧马点 $P$ 和饮马点 $Q$, 则折线 $A\to{P}\to{Q}\to{A}$ 最短. 由轴对称, $AP=A_1P$, $QA=QA_2$, 路径长等于线段 $A_1A_2$, 由两点之间线段最短取最小. $\blacksquare$
 
 ## 探究五
 
@@ -152,41 +152,41 @@ $$
 
 把点 $A$ 沿垂直于河岸的方向, 向河的方向平移一个河宽的距离, 得到点 $A'$. 连接 $A'B$, 与靠近 $B$ 一侧的河岸交于点 $N$, 过 $N$ 作河岸的垂线交另一河岸于点 $M$, 则 $MN$ 即为所造桥的位置.
 
-此时 $AM$ 经平移等于 $A'N$, 路径 $AMNB=A'N+NB+MN$, 其中 $MN$ 为定长 (河宽), 而 $A'N+NB\ge A'B$, 当 $N$ 落在 $A'B$ 上时取最小, 故路径最短. $\blacksquare$
+此时 $AM$ 经平移等于 $A'N$, 路径 $AMNB=A'N+NB+MN$, 其中 $MN$ 为定长 (河宽), 而 $A'N+NB\ge{A}'B$, 当 $N$ 落在 $A'B$ 上时取最小, 故路径最短. $\blacksquare$
 
 ## 练习一
 
 (练习 16.1 第 1 题) 下面的计算是否正确? 如果不正确, 应当怎样改正?
 
-(1) $a^3\cdot a^2=a^6$;
+(1) $a^3\cdot{a}^2=a^6$;
 
-(2) $a\cdot a^3=a^{0+3}=a^3$;
+(2) $a\cdot{a}^3=a^{0+3}=a^3$;
 
-(3) $m^3\cdot m^3=2m^3$;
+(3) $m^3\cdot{m}^3=2m^3$;
 
-(4) $x^{2m}\cdot x^{4n-2}=x^{2m+4n-2}$.
+(4) $x^{2m}\cdot{x}^{4n-2}=x^{2m+4n-2}$.
 
 ### 解答 练习一
 
 由**定义 16.1.1 (同底数幂的乘法)**, 同底数幂相乘应底数不变, 指数相加.
 
-(1) 不正确. $a^3\cdot a^2=a^{3+2}=a^5$, 误把指数相乘当作了指数相加以外的运算.
+(1) 不正确. $a^3\cdot{a}^2=a^{3+2}=a^5$, 误把指数相乘当作了指数相加以外的运算.
 
-(2) 不正确. $a=a^1$, 故 $a\cdot a^3=a^{1+3}=a^4$, 误把 $a$ 的指数当作 $0$.
+(2) 不正确. $a=a^1$, 故 $a\cdot{a}^3=a^{1+3}=a^4$, 误把 $a$ 的指数当作 $0$.
 
-(3) 不正确. $m^3\cdot m^3=m^{3+3}=m^6$, 误把同底数幂相乘与系数相加混淆.
+(3) 不正确. $m^3\cdot{m}^3=m^{3+3}=m^6$, 误把同底数幂相乘与系数相加混淆.
 
-(4) 正确, $x^{2m}\cdot x^{4n-2}=x^{2m+4n-2}$. $\blacksquare$
+(4) 正确, $x^{2m}\cdot{x}^{4n-2}=x^{2m+4n-2}$. $\blacksquare$
 
 ## 练习二
 
 (练习 16.1 第 2 题) 计算:
 
-(1) $a^2\cdot a^6$;
+(1) $a^2\cdot{a}^6$;
 
-(2) $b^5\cdot b$;
+(2) $b^5\cdot{b}$;
 
-(3) $y^{2n}\cdot y^{n+1}$;
+(3) $y^{2n}\cdot{y}^{n+1}$;
 
 (4) $\left(-12\right)\times\left(-12\right)^2\times\left(-12\right)^3$.
 
@@ -194,11 +194,11 @@ $$
 
 由**定义 16.1.1 (同底数幂的乘法)**, 底数不变, 指数相加.
 
-(1) $a^2\cdot a^6=a^{2+6}=a^8$.
+(1) $a^2\cdot{a}^6=a^{2+6}=a^8$.
 
-(2) $b^5\cdot b=b^{5+1}=b^6$.
+(2) $b^5\cdot{b}=b^{5+1}=b^6$.
 
-(3) $y^{2n}\cdot y^{n+1}=y^{2n+n+1}=y^{3n+1}$.
+(3) $y^{2n}\cdot{y}^{n+1}=y^{2n+n+1}=y^{3n+1}$.
 
 (4) 三个同底数幂相乘仍适用该性质, $\left(-12\right)\times\left(-12\right)^2\times\left(-12\right)^3=\left(-12\right)^{1+2+3}=\left(-12\right)^6=12^6$. $\blacksquare$
 
@@ -218,9 +218,9 @@ $$
 
 (1) 不正确. $\left(a^5\right)^2=a^{5\times2}=a^{10}$, 幂的乘方应指数相乘.
 
-(2) 不正确. 由**定义 16.1.3 (积的乘方)**, $\left(ab^2\right)^3=a^3\left(b^2\right)^3=a^3 b^6$, 漏乘了因式 $a$ 的乘方.
+(2) 不正确. 由**定义 16.1.3 (积的乘方)**, $\left(ab^2\right)^3=a^3\left(b^2\right)^3=a^3b^6$, 漏乘了因式 $a$ 的乘方.
 
-(3) 不正确. $\left(-2a\right)^2=\left(-2\right)^2 a^2=4a^2$, 系数 $-2$ 也要平方. $\blacksquare$
+(3) 不正确. $\left(-2a\right)^2=\left(-2\right)^2a^2=4a^2$, 系数 $-2$ 也要平方. $\blacksquare$
 
 ## 练习四
 
@@ -232,7 +232,7 @@ $$
 
 (3) $-\left(x^m\right)^5$;
 
-(4) $\left(a^2\right)^3\cdot a^5$.
+(4) $\left(a^2\right)^3\cdot{a}^5$.
 
 ### 解答 练习四
 
@@ -244,7 +244,7 @@ $$
 
 (3) $-\left(x^m\right)^5=-x^{5m}$.
 
-(4) $\left(a^2\right)^3\cdot a^5=a^6\cdot a^5=a^{6+5}=a^{11}$. $\blacksquare$
+(4) $\left(a^2\right)^3\cdot{a}^5=a^6\cdot{a}^5=a^{6+5}=a^{11}$. $\blacksquare$
 
 ## 练习五
 
@@ -254,45 +254,45 @@ $$
 
 (2) $\left(-3\times10^2\right)^3$;
 
-(3) $\left(-\frac12 xy^2\right)^3$;
+(3) $\left(-\frac12xy^2\right)^3$;
 
-(4) $\left(2ab^2\right)^3\cdot 2ab^2$.
+(4) $\left(2ab^2\right)^3\cdot2ab^2$.
 
 ### 解答 练习五
 
 由**定义 16.1.3 (积的乘方)** 与**定义 16.1.1 (同底数幂的乘法)**.
 
-(1) $\left(ab\right)^4=a^4 b^4$.
+(1) $\left(ab\right)^4=a^4b^4$.
 
 (2) $\left(-3\times10^2\right)^3=\left(-3\right)^3\times\left(10^2\right)^3=-27\times10^6=-2.7\times10^7$.
 
-(3) $\left(-\frac12 xy^2\right)^3=\left(-\frac12\right)^3 x^3 \left(y^2\right)^3=-\frac18 x^3 y^6$.
+(3) $\left(-\frac12xy^2\right)^3=\left(-\frac12\right)^3x^3\left(y^2\right)^3=-\frac18x^3y^6$.
 
-(4) $\left(2ab^2\right)^3\cdot 2ab^2=8a^3 b^6\cdot 2ab^2=16a^4 b^8$. $\blacksquare$
+(4) $\left(2ab^2\right)^3\cdot2ab^2=8a^3b^6\cdot2ab^2=16a^4b^8$. $\blacksquare$
 
 ## 习题一
 
 (习题 16.1 复习巩固第 1 题) 计算:
 
-(1) $b^3\cdot b$;
+(1) $b^3\cdot{b}$;
 
-(2) $a^5\cdot a^2$;
+(2) $a^5\cdot{a}^2$;
 
 (3) $\left(-x\right)\cdot\left(-x\right)^2\cdot\left(-x\right)^3$;
 
-(4) $x^m\cdot x^{2m-1}$.
+(4) $x^m\cdot{x}^{2m-1}$.
 
 ### 解答 习题一
 
 由**定义 16.1.1 (同底数幂的乘法)**.
 
-(1) $b^3\cdot b=b^4$.
+(1) $b^3\cdot{b}=b^4$.
 
-(2) $a^5\cdot a^2=a^7$.
+(2) $a^5\cdot{a}^2=a^7$.
 
 (3) $\left(-x\right)\cdot\left(-x\right)^2\cdot\left(-x\right)^3=\left(-x\right)^{1+2+3}=\left(-x\right)^6=x^6$.
 
-(4) $x^m\cdot x^{2m-1}=x^{m+2m-1}=x^{3m-1}$. $\blacksquare$
+(4) $x^m\cdot{x}^{2m-1}=x^{m+2m-1}=x^{3m-1}$. $\blacksquare$
 
 ## 习题二
 
@@ -326,7 +326,7 @@ $$
 
 (2) $\left(-3x\right)^4$;
 
-(3) $\left(x^m y^n\right)^2$;
+(3) $\left(x^my^n\right)^2$;
 
 (4) $\left(-2\times10^3\right)^4$.
 
@@ -334,11 +334,11 @@ $$
 
 由**定义 16.1.3 (积的乘方)**.
 
-(1) $\left(2ab\right)^3=8a^3 b^3$.
+(1) $\left(2ab\right)^3=8a^3b^3$.
 
 (2) $\left(-3x\right)^4=81x^4$.
 
-(3) $\left(x^m y^n\right)^2=x^{2m} y^{2n}$.
+(3) $\left(x^my^n\right)^2=x^{2m}y^{2n}$.
 
 (4) $\left(-2\times10^3\right)^4=16\times10^{12}=1.6\times10^{13}$. $\blacksquare$
 
@@ -346,57 +346,57 @@ $$
 
 (习题 16.1 复习巩固第 4 题) 计算:
 
-(1) $x\cdot x^3+x^2\cdot x^2$;
+(1) $x\cdot{x}^3+x^2\cdot{x}^2$;
 
 (2) $\left(-3pq\right)^3$;
 
-(3) $-\left(-2a^2 b\right)^4$;
+(3) $-\left(-2a^2b\right)^4$;
 
-(4) $a^3\cdot a^4\cdot a+\left(a^2\right)^4+\left(-2a^4\right)^2$.
+(4) $a^3\cdot{a}^4\cdot{a}+\left(a^2\right)^4+\left(-2a^4\right)^2$.
 
 ### 解答 习题四
 
 综合运用**定义 16.1.1 (同底数幂的乘法)**, **定义 16.1.2 (幂的乘方)**, **定义 16.1.3 (积的乘方)**.
 
-(1) $x\cdot x^3+x^2\cdot x^2=x^4+x^4=2x^4$.
+(1) $x\cdot{x}^3+x^2\cdot{x}^2=x^4+x^4=2x^4$.
 
-(2) $\left(-3pq\right)^3=-27p^3 q^3$.
+(2) $\left(-3pq\right)^3=-27p^3q^3$.
 
-(3) $-\left(-2a^2 b\right)^4=-\left(16a^8 b^4\right)=-16a^8 b^4$.
+(3) $-\left(-2a^2b\right)^4=-\left(16a^8b^4\right)=-16a^8b^4$.
 
-(4) $a^3\cdot a^4\cdot a+\left(a^2\right)^4+\left(-2a^4\right)^2=a^8+a^8+4a^8=6a^8$. $\blacksquare$
+(4) $a^3\cdot{a}^4\cdot{a}+\left(a^2\right)^4+\left(-2a^4\right)^2=a^8+a^8+4a^8=6a^8$. $\blacksquare$
 
 ## 习题五
 
 (习题 16.1 综合运用第 5 题) 计算:
 
-(1) $\left(x^2\right)^3\cdot x^2-\left(x^4\right)^2$;
+(1) $\left(x^2\right)^3\cdot{x}^2-\left(x^4\right)^2$;
 
-(2) $7x^2\cdot x^5\cdot\left(-x\right)^5+5\left(x^4\right)^3$.
+(2) $7x^2\cdot{x}^5\cdot\left(-x\right)^5+5\left(x^4\right)^3$.
 
 ### 解答 习题五
 
 由幂的运算性质.
 
-(1) $\left(x^2\right)^3\cdot x^2-\left(x^4\right)^2=x^6\cdot x^2-x^8=x^8-x^8=0$.
+(1) $\left(x^2\right)^3\cdot{x}^2-\left(x^4\right)^2=x^6\cdot{x}^2-x^8=x^8-x^8=0$.
 
-(2) $7x^2\cdot x^5\cdot\left(-x\right)^5+5\left(x^4\right)^3=7x^7\cdot\left(-x^5\right)+5x^{12}=-7x^{12}+5x^{12}=-2x^{12}$. $\blacksquare$
+(2) $7x^2\cdot{x}^5\cdot\left(-x\right)^5+5\left(x^4\right)^3=7x^7\cdot\left(-x^5\right)+5x^{12}=-7x^{12}+5x^{12}=-2x^{12}$. $\blacksquare$
 
 ## 习题六
 
 (习题 16.1 综合运用第 6 题) 计算:
 
-(1) $\left[\left(-2a^2 b^3\right)^3\right]^2$;
+(1) $\left[\left(-2a^2b^3\right)^3\right]^2$;
 
-(2) $\left(-2xy^2\right)^6+\left(-3x^2 y^4\right)^3$.
+(2) $\left(-2xy^2\right)^6+\left(-3x^2y^4\right)^3$.
 
 ### 解答 习题六
 
 由**定义 16.1.2 (幂的乘方)** 与**定义 16.1.3 (积的乘方)**.
 
-(1) $\left[\left(-2a^2 b^3\right)^3\right]^2=\left(-2a^2 b^3\right)^6=\left(-2\right)^6 a^{12} b^{18}=64a^{12} b^{18}$.
+(1) $\left[\left(-2a^2b^3\right)^3\right]^2=\left(-2a^2b^3\right)^6=\left(-2\right)^6a^{12}b^{18}=64a^{12}b^{18}$.
 
-(2) $\left(-2xy^2\right)^6+\left(-3x^2 y^4\right)^3=64x^6 y^{12}-27x^6 y^{12}=37x^6 y^{12}$. $\blacksquare$
+(2) $\left(-2xy^2\right)^6+\left(-3x^2y^4\right)^3=64x^6y^{12}-27x^6y^{12}=37x^6y^{12}$. $\blacksquare$
 
 ## 习题七
 
@@ -424,7 +424,7 @@ $1\,GB=2^{10}\,MB=2^{10}\times2^{10}\,KB=2^{10}\times2^{10}\times2^{10}\,B=2^{30
 
 (1) $32^n=\left(2^5\right)^n=2^{5n}=b$, 故 $2^{10n}=\left(2^{5n}\right)^2=b^2$. 又 $2^{3m}=\left(2^m\right)^3=a^3$. 故
 
-$$2^{3m+10n}=2^{3m}\cdot2^{10n}=a^3 b^2.$$
+$$2^{3m+10n}=2^{3m}\cdot2^{10n}=a^3b^2.$$
 
 (2) 由 $x+2y-7=0$ 得 $x+2y=7$. 又 $4^y=\left(2^2\right)^y=2^{2y}$, 故
 
@@ -434,7 +434,7 @@ $\blacksquare$
 
 ## 习题九
 
-(习题 16.1 拓广探索第 9 题) 若 $a^m=a^n$ ($a> 0$, $a\ne1$), 则 $m=n$. 请利用上面的结论解决下面的问题:
+(习题 16.1 拓广探索第 9 题) 若 $a^m=a^n$ ($a>0$, $a\ne1$), 则 $m=n$. 请利用上面的结论解决下面的问题:
 
 (1) 如果 $2\times8^x\times16^x=2^{22}$, 求 $x$ 的值;
 
@@ -462,7 +462,7 @@ $$2\times8^x\times16^x=2^1\cdot2^{3x}\cdot2^{4x}=2^{1+7x}.$$
 
 (3) $5y^3\cdot3y^5=15y^{15}$;
 
-(4) $x^2 y^2\left(-xy^3\right)^2=x^4 y^8$.
+(4) $x^2y^2\left(-xy^3\right)^2=x^4y^8$.
 
 ### 解答 练习六
 
@@ -474,7 +474,7 @@ $$2\times8^x\times16^x=2^1\cdot2^{3x}\cdot2^{4x}=2^{1+7x}.$$
 
 (3) 不正确. $5y^3\cdot3y^5=15y^8$.
 
-(4) 正确, $x^2 y^2\cdot x^2 y^6=x^4 y^8$. $\blacksquare$
+(4) 正确, $x^2y^2\cdot{x}^2y^6=x^4y^8$. $\blacksquare$
 
 ## 练习七
 
@@ -494,11 +494,11 @@ $$2\times8^x\times16^x=2^1\cdot2^{3x}\cdot2^{4x}=2^{1+7x}.$$
 
 (1) $3x^2\cdot5x^3=15x^5$.
 
-(2) $6x^2\cdot3xy=18x^3 y$.
+(2) $6x^2\cdot3xy=18x^3y$.
 
 (3) $4y\cdot\left(-2xy^2\right)=-8xy^3$.
 
-(4) $-2ab^2\cdot\left(-3ab\right)=6a^2 b^3$. $\blacksquare$
+(4) $-2ab^2\cdot\left(-3ab\right)=6a^2b^3$. $\blacksquare$
 
 ## 练习八
 
@@ -512,23 +512,23 @@ $$2\times8^x\times16^x=2^1\cdot2^{3x}\cdot2^{4x}=2^{1+7x}.$$
 
 先乘方再相乘.
 
-(1) $\left(-3xy^2\right)^2\left(-2xy\right)^2=9x^2 y^4\cdot4x^2 y^2=36x^4 y^6$.
+(1) $\left(-3xy^2\right)^2\left(-2xy\right)^2=9x^2y^4\cdot4x^2y^2=36x^4y^6$.
 
 (2) $\left(-a\right)^5-\left(6a^2\right)^2\cdot\left(-a\right)=-a^5-36a^4\cdot\left(-a\right)=-a^5+36a^5=35a^5$. $\blacksquare$
 
 ## 练习九
 
-(练习 16.2 第 4 题) 卫星绕地球运动的速度 (即第一宇宙速度) 是 $7.9\times10^3\ \text{m/s}$, 求卫星绕地球运行 $1\ \text{h}$ 飞过的路程.
+(练习 16.2 第 4 题) 卫星绕地球运动的速度 (即第一宇宙速度) 是 $7.9\times10^3\,\text{m/s}$, 求卫星绕地球运行 $1\,\text{h}$ 飞过的路程.
 
 ### 解答 练习九
 
-路程等于速度乘时间. $1\ \text{h}=3600\ \text{s}=3.6\times10^3\ \text{s}$.
+路程等于速度乘时间. $1\,\text{h}=3600\,\text{s}=3.6\times10^3\,\text{s}$.
 
 $$
-\left(7.9\times10^3\right)\times\left(3.6\times10^3\right)=28.44\times10^6=2.844\times10^7\ \left(\text{m}\right).
+\left(7.9\times10^3\right)\times\left(3.6\times10^3\right)=28.44\times10^6=2.844\times10^7\,\left(\text{m}\right).
 $$
 
-即卫星绕地球运行 $1\ \text{h}$ 飞过的路程约为 $2.844\times10^7\ \text{m}$. $\blacksquare$
+即卫星绕地球运行 $1\,\text{h}$ 飞过的路程约为 $2.844\times10^7\,\text{m}$. $\blacksquare$
 
 ## 练习十
 
@@ -564,11 +564,11 @@ $$
 
 (1) $3a\left(5a-2b\right)=15a^2-6ab$.
 
-(2) $-2xy\left(2xy^2-3xy\right)=-4x^2 y^3+6x^2 y^2$.
+(2) $-2xy\left(2xy^2-3xy\right)=-4x^2y^3+6x^2y^2$.
 
 (3) $\left(x-3y\right)\left(-6x\right)=-6x^2+18xy$.
 
-(4) $\left(-2ab\right)^2\left(2a-b+1\right)=4a^2 b^2\left(2a-b+1\right)=8a^3 b^2-4a^2 b^3+4a^2 b^2$. $\blacksquare$
+(4) $\left(-2ab\right)^2\left(2a-b+1\right)=4a^2b^2\left(2a-b+1\right)=8a^3b^2-4a^2b^3+4a^2b^2$. $\blacksquare$
 
 ## 练习十二
 

@@ -54,21 +54,21 @@
 
 ## Exercise 1
 
-(Exercise 15.3, Problem 1) In $\text{Rt}\triangle ABC$, $\angle C=90^\circ$, $\angle B=2\angle A$. How many degrees are $\angle B$ and $\angle A$ respectively? What is the relationship between sides $AB$ and $BC$?
+(Exercise 15.3, Problem 1) In $\text{Rt}\triangle{A}BC$, $\angle{C}=90^\circ$, $\angle{B}=2\angle{A}$. How many degrees are $\angle{B}$ and $\angle{A}$ respectively? What is the relationship between sides $AB$ and $BC$?
 
 ### Solution to Exercise 1
 
-From $\angle C=90^\circ$, we get $\angle A+\angle B=90^\circ$. Also $\angle B=2\angle A$, so $3\angle A=90^\circ$, $\angle A=30^\circ$, $\angle B=60^\circ$.
+From $\angle{C}=90^\circ$, we get $\angle{A}+\angle{B}=90^\circ$. Also $\angle{B}=2\angle{A}$, so $3\angle{A}=90^\circ$, $\angle{A}=30^\circ$, $\angle{B}=60^\circ$.
 
-By Right Triangle Containing a $30^\circ$ Angle, the leg $BC$ opposite the $30^\circ$ angle $\angle A$ equals half the hypotenuse $AB$, i.e. $BC=\frac{1}{2}AB$. $\blacksquare$
+By Right Triangle Containing a $30^\circ$ Angle, the leg $BC$ opposite the $30^\circ$ angle $\angle{A}$ equals half the hypotenuse $AB$, i.e. $BC=\frac{1}{2}AB$. $\blacksquare$
 
 ## Exercise 2
 
-(Exercise 15.3, Problem 2) In $\text{Rt}\triangle ABC$, $\angle C=90^\circ$, $AB=2BC$. How many degrees are $\angle B$ and $\angle A$ respectively?
+(Exercise 15.3, Problem 2) In $\text{Rt}\triangle{A}BC$, $\angle{C}=90^\circ$, $AB=2BC$. How many degrees are $\angle{B}$ and $\angle{A}$ respectively?
 
 ### Solution to Exercise 2
 
-From $AB=2BC$, i.e. the leg $BC$ equals half the hypotenuse $AB$. By the converse of Right Triangle Containing a $30^\circ$ Angle, the acute angle opposite $BC$ satisfies $\angle A=30^\circ$. Also $\angle C=90^\circ$, so $\angle B=90^\circ-30^\circ=60^\circ$. $\blacksquare$
+From $AB=2BC$, i.e. the leg $BC$ equals half the hypotenuse $AB$. By the converse of Right Triangle Containing a $30^\circ$ Angle, the acute angle opposite $BC$ satisfies $\angle{A}=30^\circ$. Also $\angle{C}=90^\circ$, so $\angle{B}=90^\circ-30^\circ=60^\circ$. $\blacksquare$
 
 ## Problem 1
 
@@ -86,21 +86,21 @@ $$
 \frac{180^\circ-110^\circ}{2}=35^\circ.
 $$
 
-(2) If the leg is $8$, then the base is $18-2\times 8=2$; if the base is $8$, then both legs are $\left(18-8\right)/2=5$. The other two sides have length $8$, $2$ or $5$, $5$. $\blacksquare$
+(2) If the leg is $8$, then the base is $18-2\times8=2$; if the base is $8$, then both legs are $\left(18-8\right)/2=5$. The other two sides have length $8$, $2$ or $5$, $5$. $\blacksquare$
 
 ## Problem 2
 
-(Exercise 15.3, Review and Consolidation, Problem 2) As shown, $AD\parallel BC$, $BD$ bisects $\angle ABC$. Prove that $AB=AD$.
+(Exercise 15.3, Review and Consolidation, Problem 2) As shown, $AD\parallel{B}C$, $BD$ bisects $\angle{A}BC$. Prove that $AB=AD$.
 
 ### Solution to Problem 2
 
-From $AD\parallel BC$, the alternate interior angles are equal, $\angle ADB=\angle DBC$. Since $BD$ bisects $\angle ABC$, $\angle ABD=\angle DBC$. Hence $\angle ABD=\angle ADB$.
+From $AD\parallel{B}C$, the alternate interior angles are equal, $\angle{A}DB=\angle{D}BC$. Since $BD$ bisects $\angle{A}BC$, $\angle{A}BD=\angle{D}BC$. Hence $\angle{A}BD=\angle{A}DB$.
 
 By Equal Angles Opposite Equal Sides, $AB=AD$. $\blacksquare$
 
 ## Problem 3
 
-(Exercise 15.3, Review and Consolidation, Problem 3) A five-pointed star contains five congruent isosceles triangles, each with vertex angle $36^\circ$. Find the degree measure of $\angle AMB$.
+(Exercise 15.3, Review and Consolidation, Problem 3) A five-pointed star contains five congruent isosceles triangles, each with vertex angle $36^\circ$. Find the degree measure of $\angle{A}MB$.
 
 ### Solution to Problem 3
 
@@ -110,118 +110,118 @@ $$
 \frac{180^\circ-36^\circ}{2}=72^\circ.
 $$
 
-$\angle AMB$ is formed from the relationship between adjacent base angles; it is $180^\circ-72^\circ-72^\circ=36^\circ$, or by the interior-angle relation of the five-pointed star $\angle AMB=108^\circ$; combined with the five-pointed-star pointed angle of $36^\circ$, we have $\angle AMB=108^\circ$. $\blacksquare$
+$\angle{A}MB$ is formed from the relationship between adjacent base angles; it is $180^\circ-72^\circ-72^\circ=36^\circ$, or by the interior-angle relation of the five-pointed star $\angle{A}MB=108^\circ$; combined with the five-pointed-star pointed angle of $36^\circ$, we have $\angle{A}MB=108^\circ$. $\blacksquare$
 
 ## Problem 4
 
-(Exercise 15.3, Review and Consolidation, Problem 4) As shown, in $\triangle ABC$, points $D$, $E$ lie on side $BC$, $AB=AC$, $AD=AE$. Prove that $BD=CE$.
+(Exercise 15.3, Review and Consolidation, Problem 4) As shown, in $\triangle{A}BC$, points $D$, $E$ lie on side $BC$, $AB=AC$, $AD=AE$. Prove that $BD=CE$.
 
 ### Solution to Problem 4
 
-Through $A$ draw $AF\perp BC$, with foot $F$. From $AB=AC$ and Three Lines in One, $F$ is the midpoint of $BC$, $BF=CF$. From $AD=AE$, similarly $F$ is also the midpoint of $DE$, $DF=EF$.
+Through $A$ draw $AF\perp{B}C$, with foot $F$. From $AB=AC$ and Three Lines in One, $F$ is the midpoint of $BC$, $BF=CF$. From $AD=AE$, similarly $F$ is also the midpoint of $DE$, $DF=EF$.
 
 Subtracting the two equations: $BF-DF=CF-EF$, i.e. $BD=CE$. $\blacksquare$
 
 ## Problem 5
 
-(Exercise 15.3, Review and Consolidation, Problem 5) As shown, $\angle A=\angle B=60^\circ$, $CE\parallel DA$, and $CE$ meets $AB$ at point $E$. Prove that $\triangle CEB$ is an equilateral triangle.
+(Exercise 15.3, Review and Consolidation, Problem 5) As shown, $\angle{A}=\angle{B}=60^\circ$, $CE\parallel{D}A$, and $CE$ meets $AB$ at point $E$. Prove that $\triangle{C}EB$ is an equilateral triangle.
 
 ### Solution to Problem 5
 
-From $CE\parallel DA$, the corresponding angles are equal, $\angle CEB=\angle A=60^\circ$. Also given $\angle B=60^\circ$, in $\triangle CEB$, $\angle ECB=180^\circ-60^\circ-60^\circ=60^\circ$.
+From $CE\parallel{D}A$, the corresponding angles are equal, $\angle{C}EB=\angle{A}=60^\circ$. Also given $\angle{B}=60^\circ$, in $\triangle{C}EB$, $\angle{E}CB=180^\circ-60^\circ-60^\circ=60^\circ$.
 
-All three angles are $60^\circ$; by Equilateral Triangle, $\triangle CEB$ is an equilateral triangle. $\blacksquare$
+All three angles are $60^\circ$; by Equilateral Triangle, $\triangle{C}EB$ is an equilateral triangle. $\blacksquare$
 
 ## Problem 6
 
-(Exercise 15.3, Review and Consolidation, Problem 6) As shown, $AB=AC$, $\angle A=40^\circ$, and the perpendicular bisector $MN$ of $AB$ meets $AC$ at point $D$. Find $\angle DBC$.
+(Exercise 15.3, Review and Consolidation, Problem 6) As shown, $AB=AC$, $\angle{A}=40^\circ$, and the perpendicular bisector $MN$ of $AB$ meets $AC$ at point $D$. Find $\angle{D}BC$.
 
 ### Solution to Problem 6
 
-From $AB=AC$, $\angle A=40^\circ$, the base angles are
+From $AB=AC$, $\angle{A}=40^\circ$, the base angles are
 
 $$
-\angle ABC=\angle C=\frac{180^\circ-40^\circ}{2}=70^\circ.
+\angle{A}BC=\angle{C}=\frac{180^\circ-40^\circ}{2}=70^\circ.
 $$
 
-Since $D$ lies on the perpendicular bisector of $AB$, $AD=BD$, so $\angle ABD=\angle A=40^\circ$. Thus
+Since $D$ lies on the perpendicular bisector of $AB$, $AD=BD$, so $\angle{A}BD=\angle{A}=40^\circ$. Thus
 
 $$
-\angle DBC=\angle ABC-\angle ABD=70^\circ-40^\circ=30^\circ.
+\angle{D}BC=\angle{A}BC-\angle{A}BD=70^\circ-40^\circ=30^\circ.
 $$
 
 $\blacksquare$
 
 ## Problem 7
 
-(Exercise 15.3, Comprehensive Application, Problem 7) The outer frame of a factory roof truss is an isosceles triangle, $AB=AC$, the column $AD\perp BC$, and the vertex angle $\angle BAC=120^\circ$. What quantitative relationship do $AD$ and $AB$ have?
+(Exercise 15.3, Comprehensive Application, Problem 7) The outer frame of a factory roof truss is an isosceles triangle, $AB=AC$, the column $AD\perp{B}C$, and the vertex angle $\angle{B}AC=120^\circ$. What quantitative relationship do $AD$ and $AB$ have?
 
 ### Solution to Problem 7
 
-From $AB=AC$, $\angle BAC=120^\circ$, the base angles are
+From $AB=AC$, $\angle{B}AC=120^\circ$, the base angles are
 
 $$
-\angle B=\angle C=\frac{180^\circ-120^\circ}{2}=30^\circ.
+\angle{B}=\angle{C}=\frac{180^\circ-120^\circ}{2}=30^\circ.
 $$
 
-In $\text{Rt}\triangle ABD$, $\angle B=30^\circ$; by Right Triangle Containing a $30^\circ$ Angle, the leg $AD$ opposite the $30^\circ$ angle equals half the hypotenuse $AB$, i.e. $AD=\frac{1}{2}AB$. $\blacksquare$
+In $\text{Rt}\triangle{A}BD$, $\angle{B}=30^\circ$; by Right Triangle Containing a $30^\circ$ Angle, the leg $AD$ opposite the $30^\circ$ angle equals half the hypotenuse $AB$, i.e. $AD=\frac{1}{2}AB$. $\blacksquare$
 
 ## Problem 8
 
-(Exercise 15.3, Comprehensive Application, Problem 9) At $8$ a.m., a ship departs from island $A$ and sails due north at a speed of $15\ \text{n mile/h}$, reaching island $B$ at $10$ a.m. Looking at lighthouse $C$ from $A$, $B$, the measured angles are $\angle NAC=42^\circ$, $\angle NBC=84^\circ$. Find the distance between island $B$ and lighthouse $C$.
+(Exercise 15.3, Comprehensive Application, Problem 9) At $8$ a.m., a ship departs from island $A$ and sails due north at a speed of $15\,\text{n~mile/h}$, reaching island $B$ at $10$ a.m. Looking at lighthouse $C$ from $A$, $B$, the measured angles are $\angle{N}AC=42^\circ$, $\angle{N}BC=84^\circ$. Find the distance between island $B$ and lighthouse $C$.
 
 ### Solution to Problem 8
 
-$AB=15\times\left(10-8\right)=30\ \text{n mile}$. In $\triangle ABC$, $\angle NBC$ is an exterior angle, so $\angle NBC=\angle BAC+\angle C$. From $\angle BAC=\angle NAC=42^\circ$, we get $\angle C=84^\circ-42^\circ=42^\circ$.
+$AB=15\times\left(10-8\right)=30\,\text{n~mile}$. In $\triangle{A}BC$, $\angle{N}BC$ is an exterior angle, so $\angle{N}BC=\angle{B}AC+\angle{C}$. From $\angle{B}AC=\angle{N}AC=42^\circ$, we get $\angle{C}=84^\circ-42^\circ=42^\circ$.
 
-Hence $\angle C=\angle BAC$; by Equal Angles Opposite Equal Sides, $BC=AB=30\ \text{n mile}$. $\blacksquare$
+Hence $\angle{C}=\angle{B}AC$; by Equal Angles Opposite Equal Sides, $BC=AB=30\,\text{n~mile}$. $\blacksquare$
 
 ## Problem 9
 
-(Exercise 15.3, Comprehensive Application, Problem 10) As shown, $\triangle ABC$ is an equilateral triangle, $E$ is a point on side $AC$, and $\angle 1=\angle 2$, $CD=BE$. Determine the shape of $\triangle ADE$ and explain the reason.
+(Exercise 15.3, Comprehensive Application, Problem 10) As shown, $\triangle{A}BC$ is an equilateral triangle, $E$ is a point on side $AC$, and $\angle1=\angle2$, $CD=BE$. Determine the shape of $\triangle{A}DE$ and explain the reason.
 
 ### Solution to Problem 9
 
-In $\triangle ABE$ and $\triangle ACD$, $AB=AC$, $\angle 1=\angle 2$, $BE=CD$; by SAS, $\triangle ABE\cong\triangle ACD$. Hence $AE=AD$, $\angle BAE=\angle CAD$.
+In $\triangle{A}BE$ and $\triangle{A}CD$, $AB=AC$, $\angle1=\angle2$, $BE=CD$; by SAS, $\triangle{A}BE\cong\triangle{A}CD$. Hence $AE=AD$, $\angle{B}AE=\angle{C}AD$.
 
-Since $\triangle ABC$ is equilateral, $\angle BAC=60^\circ$, hence $\angle DAE=\angle BAC=60^\circ$. Also $AE=AD$; an isosceles triangle with one angle equal to $60^\circ$ is equilateral, so $\triangle ADE$ is an equilateral triangle. $\blacksquare$
+Since $\triangle{A}BC$ is equilateral, $\angle{B}AC=60^\circ$, hence $\angle{D}AE=\angle{B}AC=60^\circ$. Also $AE=AD$; an isosceles triangle with one angle equal to $60^\circ$ is equilateral, so $\triangle{A}DE$ is an equilateral triangle. $\blacksquare$
 
 ## Problem 10
 
-(Exercise 15.3, Comprehensive Application, Problem 11) As shown, $\triangle ABD$ and $\triangle AEC$ are both equilateral triangles. Prove that $BE=DC$.
+(Exercise 15.3, Comprehensive Application, Problem 11) As shown, $\triangle{A}BD$ and $\triangle{A}EC$ are both equilateral triangles. Prove that $BE=DC$.
 
 ### Solution to Problem 10
 
-Since $\triangle ABD$ is equilateral, $AD=AB$, $\angle BAD=60^\circ$. Since $\triangle AEC$ is equilateral, $AC=AE$, $\angle CAE=60^\circ$. Hence $\angle DAC=\angle BAD+\angle BAC=60^\circ+\angle BAC$, $\angle BAE=\angle CAE+\angle BAC=60^\circ+\angle BAC$, i.e. $\angle DAC=\angle BAE$.
+Since $\triangle{A}BD$ is equilateral, $AD=AB$, $\angle{B}AD=60^\circ$. Since $\triangle{A}EC$ is equilateral, $AC=AE$, $\angle{C}AE=60^\circ$. Hence $\angle{D}AC=\angle{B}AD+\angle{B}AC=60^\circ+\angle{B}AC$, $\angle{B}AE=\angle{C}AE+\angle{B}AC=60^\circ+\angle{B}AC$, i.e. $\angle{D}AC=\angle{B}AE$.
 
-In $\triangle DAC$ and $\triangle BAE$, $AD=AB$, $\angle DAC=\angle BAE$, $AC=AE$; by SAS, $\triangle DAC\cong\triangle BAE$. By equal corresponding sides of congruent triangles, $DC=BE$. $\blacksquare$
+In $\triangle{D}AC$ and $\triangle{B}AE$, $AD=AB$, $\angle{D}AC=\angle{B}AE$, $AC=AE$; by SAS, $\triangle{D}AC\cong\triangle{B}AE$. By equal corresponding sides of congruent triangles, $DC=BE$. $\blacksquare$
 
 ## Problem 11
 
-(Exercise 15.3, Extension and Exploration, Problem 12) As shown, in $\triangle ABC$, $AB=AC$, $\angle B=30^\circ$, $AD\perp AB$, meeting $BC$ at point $D$. If $AD=2$, find the length of $BC$.
+(Exercise 15.3, Extension and Exploration, Problem 12) As shown, in $\triangle{A}BC$, $AB=AC$, $\angle{B}=30^\circ$, $AD\perp{A}B$, meeting $BC$ at point $D$. If $AD=2$, find the length of $BC$.
 
 ### Solution to Problem 11
 
-From $AB=AC$, $\angle B=30^\circ$, we get $\angle C=30^\circ$. Since $AD\perp AB$, in $\text{Rt}\triangle ABD$, $\angle B=30^\circ$; by Basic Knowledge, $AD=\frac{1}{2}BD$, so $BD=2AD=4$.
+From $AB=AC$, $\angle{B}=30^\circ$, we get $\angle{C}=30^\circ$. Since $AD\perp{A}B$, in $\text{Rt}\triangle{A}BD$, $\angle{B}=30^\circ$; by Basic Knowledge, $AD=\frac{1}{2}BD$, so $BD=2AD=4$.
 
-Also $\angle BAD=90^\circ$, $\angle BAC=180^\circ-30^\circ-30^\circ=120^\circ$, so $\angle DAC=120^\circ-90^\circ=30^\circ=\angle C$. By Basic Knowledge, $AD=DC=2$.
+Also $\angle{B}AD=90^\circ$, $\angle{B}AC=180^\circ-30^\circ-30^\circ=120^\circ$, so $\angle{D}AC=120^\circ-90^\circ=30^\circ=\angle{C}$. By Basic Knowledge, $AD=DC=2$.
 
 Thus $BC=BD+DC=4+2=6$. $\blacksquare$
 
 ## Problem 12
 
-(Exercise 15.3, Extension and Exploration, Problem 13) As shown, $P$, $Q$ are two points on side $BC$ of $\triangle ABC$, and $BP=PQ=QC=AP=AQ$. Find the degree measure of $\angle BAC$.
+(Exercise 15.3, Extension and Exploration, Problem 13) As shown, $P$, $Q$ are two points on side $BC$ of $\triangle{A}BC$, and $BP=PQ=QC=AP=AQ$. Find the degree measure of $\angle{B}AC$.
 
 ### Solution to Problem 12
 
-Since $AP=PQ=AQ$, $\triangle APQ$ is an equilateral triangle, so $\angle APQ=\angle AQP=\angle PAQ=60^\circ$.
+Since $AP=PQ=AQ$, $\triangle{A}PQ$ is an equilateral triangle, so $\angle{A}PQ=\angle{A}QP=\angle{P}AQ=60^\circ$.
 
-From $BP=AP$, $\triangle ABP$ is isosceles, $\angle B=\angle BAP$. But $\angle APQ=\angle B+\angle BAP=2\angle B=60^\circ$, so $\angle B=30^\circ$, $\angle BAP=30^\circ$. Similarly $\angle QAC=30^\circ$.
+From $BP=AP$, $\triangle{A}BP$ is isosceles, $\angle{B}=\angle{B}AP$. But $\angle{A}PQ=\angle{B}+\angle{B}AP=2\angle{B}=60^\circ$, so $\angle{B}=30^\circ$, $\angle{B}AP=30^\circ$. Similarly $\angle{Q}AC=30^\circ$.
 
 Thus
 
 $$
-\angle BAC=\angle BAP+\angle PAQ+\angle QAC=30^\circ+60^\circ+30^\circ=120^\circ.
+\angle{B}AC=\angle{B}AP+\angle{P}AQ+\angle{Q}AC=30^\circ+60^\circ+30^\circ=120^\circ.
 $$
 
 $\blacksquare$
@@ -232,23 +232,23 @@ $\blacksquare$
 
 ### Solution to Problem 13
 
-Take the altitudes on the two legs as an example. In isosceles $\triangle ABC$ let $AB=AC$, $BD\perp AC$ at $D$, $CE\perp AB$ at $E$. In $\triangle ABD$ and $\triangle ACE$, $\angle ADB=\angle AEC=90^\circ$, $\angle A$ is common, $AB=AC$; by AAS, $\triangle ABD\cong\triangle ACE$, so $BD=CE$, i.e. the altitudes on the two legs are equal. Similarly, by axis symmetry, the bisectors of the two base angles and the medians on the two legs are also respectively equal. $\blacksquare$
+Take the altitudes on the two legs as an example. In isosceles $\triangle{A}BC$ let $AB=AC$, $BD\perp{A}C$ at $D$, $CE\perp{A}B$ at $E$. In $\triangle{A}BD$ and $\triangle{A}CE$, $\angle{A}DB=\angle{A}EC=90^\circ$, $\angle{A}$ is common, $AB=AC$; by AAS, $\triangle{A}BD\cong\triangle{A}CE$, so $BD=CE$, i.e. the altitudes on the two legs are equal. Similarly, by axis symmetry, the bisectors of the two base angles and the medians on the two legs are also respectively equal. $\blacksquare$
 
 ## Problem 14
 
-(Exercise 15.3, Extension and Exploration, Problem 15) A triangular plot of land is to be divided equally among three farm households, A, B and C. If $\angle C=90^\circ$, $\angle B=30^\circ$, and the three households' land should have the same size and shape, divide it and draw the division on the figure.
+(Exercise 15.3, Extension and Exploration, Problem 15) A triangular plot of land is to be divided equally among three farm households, A, B and C. If $\angle{C}=90^\circ$, $\angle{B}=30^\circ$, and the three households' land should have the same size and shape, divide it and draw the division on the figure.
 
-The figure shows a right triangle $ABC$ with $\angle C=90^\circ$, $\angle B=30^\circ$ and $\angle A=60^\circ$; the hypotenuse $AB$ is placed horizontally, and the right-angle vertex $C$ is below.
+The figure shows a right triangle $ABC$ with $\angle{C}=90^\circ$, $\angle{B}=30^\circ$ and $\angle{A}=60^\circ$; the hypotenuse $AB$ is placed horizontally, and the right-angle vertex $C$ is below.
 
 ### Solution to Problem 14
 
-In $\text{Rt}\triangle ABC$, $\angle C=90^\circ$, $\angle B=30^\circ$, $\angle A=60^\circ$. Trisect the hypotenuse $AB$, with division points $D$, $E$, and join $CD$, $CE$. By the construction, $\triangle ACD$, $\triangle CDE$, $\triangle CEB$ have equal area (same height, equal bases), and combined with the isosceles relations the three parts have the same shape, as shown by the dashed lines in the figure. $\blacksquare$
+In $\text{Rt}\triangle{A}BC$, $\angle{C}=90^\circ$, $\angle{B}=30^\circ$, $\angle{A}=60^\circ$. Trisect the hypotenuse $AB$, with division points $D$, $E$, and join $CD$, $CE$. By the construction, $\triangle{A}CD$, $\triangle{C}DE$, $\triangle{C}EB$ have equal area (same height, equal bases), and combined with the isosceles relations the three parts have the same shape, as shown by the dashed lines in the figure. $\blacksquare$
 
 ## Inquiry 1
 
 (Inquiry and Discovery: The Unequal Relationship Between Sides and Angles in a Triangle)
 
-(1) In $\triangle ABC$, given $BC> AB> AC$, then what is the size relationship among $\angle A$, $\angle B$, $\angle C$?
+(1) In $\triangle{A}BC$, given $BC>{}AB>{}AC$, then what is the size relationship among $\angle{A}$, $\angle{B}$, $\angle{C}$?
 
 (2) If the angle opposite the largest side in a triangle is acute, must the triangle be an acute triangle?
 
@@ -258,7 +258,7 @@ In $\text{Rt}\triangle ABC$, $\angle C=90^\circ$, $\angle B=30^\circ$, $\angle A
 
 In a triangle, the angle opposite a larger side is larger, and the side opposite a larger angle is larger.
 
-(1) From $BC> AB> AC$, the angles opposite them are respectively $\angle A$, $\angle C$, $\angle B$, so $\angle A> \angle C> \angle B$.
+(1) From $BC>{}AB>{}AC$, the angles opposite them are respectively $\angle{A}$, $\angle{C}$, $\angle{B}$, so $\angle{A}>\angle{C}>\angle{B}$.
 
 (2) Yes. The angle opposite the largest side is the largest angle; if the largest angle is acute, then all three angles are acute, and the triangle is an acute triangle.
 
@@ -282,15 +282,15 @@ By Properties of Axis Symmetry, each tracing after folding yields a figure symme
 
 ## Activity 3
 
-(Mathematics Activity, Activity 3: Equal Segments in an Isosceles Triangle) Conjecture whether the distances $DE$, $DF$ from the midpoint $D$ of the base of an isosceles triangle to the two legs are equal; prove your conclusion; if $DE$, $DF$ are respectively the medians on the two legs or the bisectors of $\angle ADB$, $\angle ADC$, are they still equal?
+(Mathematics Activity, Activity 3: Equal Segments in an Isosceles Triangle) Conjecture whether the distances $DE$, $DF$ from the midpoint $D$ of the base of an isosceles triangle to the two legs are equal; prove your conclusion; if $DE$, $DF$ are respectively the medians on the two legs or the bisectors of $\angle{A}DB$, $\angle{A}DC$, are they still equal?
 
-The figure shows an isosceles triangle $ABC$ with $AB=AC$, the base $BC$ placed horizontally, and $D$ the midpoint of $BC$; $DE\perp AB$ with foot $E$, and $DF\perp AC$ with foot $F$.
+The figure shows an isosceles triangle $ABC$ with $AB=AC$, the base $BC$ placed horizontally, and $D$ the midpoint of $BC$; $DE\perp{A}B$ with foot $E$, and $DF\perp{A}C$ with foot $F$.
 
 ### Solution to Activity 3
 
-$DE=DF$. In isosceles $\triangle ABC$ let $AB=AC$, $D$ is the midpoint of the base $BC$, $DE\perp AB$, $DF\perp AC$.
+$DE=DF$. In isosceles $\triangle{A}BC$ let $AB=AC$, $D$ is the midpoint of the base $BC$, $DE\perp{A}B$, $DF\perp{A}C$.
 
-Since $AB=AC$ and $D$ is the midpoint of $BC$, by Three Lines in One, $AD$ bisects the vertex angle $\angle BAC$. Point $D$ lies on the bisector of $\angle BAC$; by the property of the angle bisector, point $D$ is equidistant from the two sides $AB$, $AC$, so $DE=DF$.
+Since $AB=AC$ and $D$ is the midpoint of $BC$, by Three Lines in One, $AD$ bisects the vertex angle $\angle{B}AC$. Point $D$ lies on the bisector of $\angle{B}AC$; by the property of the angle bisector, point $D$ is equidistant from the two sides $AB$, $AC$, so $DE=DF$.
 
 Similarly, since an isosceles triangle is symmetric about the line of the median on the base, the corresponding medians, altitudes and angle bisectors on the two legs are all symmetric about this axis, and hence they are also respectively equal. $\blacksquare$
 
@@ -326,11 +326,11 @@ By the definition of an axially symmetric figure, if one can find a line such th
 
 ## Review Problem 3
 
-(Review Problems, Review and Consolidation, Problem 3) As shown in the figure, $D$ and $E$ are the midpoints of $AB$ and $AC$, respectively, $CD\perp AB$ with foot $D$, and $BE\perp AC$ with foot $E$. Prove that $AC=AB$.
+(Review Problems, Review and Consolidation, Problem 3) As shown in the figure, $D$ and $E$ are the midpoints of $AB$ and $AC$, respectively, $CD\perp{A}B$ with foot $D$, and $BE\perp{A}C$ with foot $E$. Prove that $AC=AB$.
 
 ### Solution to Review Problem 3
 
-Since $D$ is the midpoint of $AB$ and $CD\perp AB$, the line $CD$ perpendicularly bisects $AB$. Point $C$ lies on $CD$, so by Properties of the Perpendicular Bisector, $CA=CB$.
+Since $D$ is the midpoint of $AB$ and $CD\perp{A}B$, the line $CD$ perpendicularly bisects $AB$. Point $C$ lies on $CD$, so by Properties of the Perpendicular Bisector, $CA=CB$.
 
 Similarly, the line $BE$ perpendicularly bisects $AC$, and point $B$ lies on $BE$, so by Basic Knowledge, $BA=BC$.
 
@@ -346,41 +346,41 @@ By the pattern of axial symmetry in coordinates, two points symmetric about the 
 
 ## Review Problem 5
 
-(Review Problems, Review and Consolidation, Problem 5) As shown in the figure, in $\triangle ABC$, $\angle ABC=50^\circ$, $\angle ACB=80^\circ$. Extend $CB$ to $D$ so that $DB=BA$, and extend $BC$ to $E$ so that $CE=CA$. Connect $AD$ and $AE$. Find the measures of $\angle D$, $\angle E$, and $\angle DAE$.
+(Review Problems, Review and Consolidation, Problem 5) As shown in the figure, in $\triangle{A}BC$, $\angle{A}BC=50^\circ$, $\angle{A}CB=80^\circ$. Extend $CB$ to $D$ so that $DB=BA$, and extend $BC$ to $E$ so that $CE=CA$. Connect $AD$ and $AE$. Find the measures of $\angle{D}$, $\angle{E}$, and $\angle{D}AE$.
 
 ### Solution to Review Problem 5
 
-Since $DB=BA$, $\triangle ABD$ is isosceles, so $\angle D=\angle DAB$. Moreover, $\angle ABC=\angle D+\angle DAB=2\angle D=50^\circ$, hence $\angle D=25^\circ$.
+Since $DB=BA$, $\triangle{A}BD$ is isosceles, so $\angle{D}=\angle{D}AB$. Moreover, $\angle{A}BC=\angle{D}+\angle{D}AB=2\angle{D}=50^\circ$, hence $\angle{D}=25^\circ$.
 
-Since $CE=CA$, $\triangle ACE$ is isosceles, so $\angle E=\angle CAE$. Moreover, $\angle ACB=\angle E+\angle CAE=2\angle E=80^\circ$, hence $\angle E=40^\circ$.
+Since $CE=CA$, $\triangle{A}CE$ is isosceles, so $\angle{E}=\angle{C}AE$. Moreover, $\angle{A}CB=\angle{E}+\angle{C}AE=2\angle{E}=80^\circ$, hence $\angle{E}=40^\circ$.
 
-Also, $\angle BAC=180^\circ-50^\circ-80^\circ=50^\circ$, hence
+Also, $\angle{B}AC=180^\circ-50^\circ-80^\circ=50^\circ$, hence
 
 $$
-\angle DAE=\angle DAB+\angle BAC+\angle CAE=25^\circ+50^\circ+40^\circ=115^\circ.
+\angle{D}AE=\angle{D}AB+\angle{B}AC+\angle{C}AE=25^\circ+50^\circ+40^\circ=115^\circ.
 $$
 
 $\blacksquare$
 
 ## Review Problem 6
 
-(Review Problems, Review and Consolidation, Problem 6) As shown in the figure, $AD=BC$ and $AC=BD$. Prove that $\triangle EAB$ is isosceles.
+(Review Problems, Review and Consolidation, Problem 6) As shown in the figure, $AD=BC$ and $AC=BD$. Prove that $\triangle{E}AB$ is isosceles.
 
 ### Solution to Review Problem 6
 
-In $\triangle ABD$ and $\triangle BAC$, $AD=BC$, $BD=AC$, and $AB=BA$; by SSS, $\triangle ABD\cong\triangle BAC$.
+In $\triangle{A}BD$ and $\triangle{B}AC$, $AD=BC$, $BD=AC$, and $AB=BA$; by SSS, $\triangle{A}BD\cong\triangle{B}AC$.
 
-By the equal corresponding angles of congruent triangles, $\angle DBA=\angle CAB$. That is, in $\triangle EAB$, $\angle EAB=\angle EBA$; by Equal Angles Opposite Equal Sides, $EA=EB$, so $\triangle EAB$ is isosceles. $\blacksquare$
+By the equal corresponding angles of congruent triangles, $\angle{D}BA=\angle{C}AB$. That is, in $\triangle{E}AB$, $\angle{E}AB=\angle{E}BA$; by Equal Angles Opposite Equal Sides, $EA=EB$, so $\triangle{E}AB$ is isosceles. $\blacksquare$
 
 ## Review Problem 7
 
-(Review Problems, Review and Consolidation, Problem 7) As shown in the figure, in $\triangle ABC$, $\angle ACB=90^\circ$, $CD$ is the altitude, and $\angle A=30^\circ$. Prove that $BD=\frac{1}{4}AB$.
+(Review Problems, Review and Consolidation, Problem 7) As shown in the figure, in $\triangle{A}BC$, $\angle{A}CB=90^\circ$, $CD$ is the altitude, and $\angle{A}=30^\circ$. Prove that $BD=\frac{1}{4}AB$.
 
 ### Solution to Review Problem 7
 
-In $\text{Rt}\triangle ABC$, $\angle A=30^\circ$; by Basic Knowledge, the opposite side is $BC=\frac{1}{2}AB$.
+In $\text{Rt}\triangle{A}BC$, $\angle{A}=30^\circ$; by Basic Knowledge, the opposite side is $BC=\frac{1}{2}AB$.
 
-Since $CD$ is the altitude, in $\text{Rt}\triangle BCD$, $\angle BCD=90^\circ-\angle B=\angle A=30^\circ$. By Basic Knowledge, the leg opposite the $30^\circ$ angle $\angle BCD$ is $BD=\frac{1}{2}BC=\frac{1}{2}\cdot\frac{1}{2}AB=\frac{1}{4}AB$. $\blacksquare$
+Since $CD$ is the altitude, in $\text{Rt}\triangle{B}CD$, $\angle{B}CD=90^\circ-\angle{B}=\angle{A}=30^\circ$. By Basic Knowledge, the leg opposite the $30^\circ$ angle $\angle{B}CD$ is $BD=\frac{1}{2}BC=\frac{1}{2}\cdot\frac{1}{2}AB=\frac{1}{4}AB$. $\blacksquare$
 
 ## Review Problem 8
 
@@ -402,36 +402,36 @@ If the segments joining each pair of corresponding points are perpendicularly bi
 
 ## Review Problem 10
 
-(Review Problems, Comprehensive Application, Problem 10) As shown in the figure, $AD$ is the angle bisector of $\triangle ABC$, and $DE$ and $DF$ are the altitudes of $\triangle ABD$ and $\triangle ACD$, respectively. Prove that $AD$ perpendicularly bisects $EF$.
+(Review Problems, Comprehensive Application, Problem 10) As shown in the figure, $AD$ is the angle bisector of $\triangle{A}BC$, and $DE$ and $DF$ are the altitudes of $\triangle{A}BD$ and $\triangle{A}CD$, respectively. Prove that $AD$ perpendicularly bisects $EF$.
 
 ### Solution to Review Problem 10
 
-Since $AD$ bisects $\angle BAC$, $DE\perp AB$, and $DF\perp AC$, by the property of the angle bisector, $DE=DF$.
+Since $AD$ bisects $\angle{B}AC$, $DE\perp{A}B$, and $DF\perp{A}C$, by the property of the angle bisector, $DE=DF$.
 
-In $\text{Rt}\triangle ADE$ and $\text{Rt}\triangle ADF$, $AD=AD$ and $DE=DF$; by HL, $\text{Rt}\triangle ADE\cong\text{Rt}\triangle ADF$, hence $AE=AF$.
+In $\text{Rt}\triangle{A}DE$ and $\text{Rt}\triangle{A}DF$, $AD=AD$ and $DE=DF$; by HL, $\text{Rt}\triangle{A}DE\cong\text{Rt}\triangle{A}DF$, hence $AE=AF$.
 
 Since $AE=AF$, point $A$ lies on the perpendicular bisector of $EF$; since $DE=DF$, point $D$ also lies on the perpendicular bisector of $EF$. Hence the line $AD$ perpendicularly bisects $EF$. $\blacksquare$
 
 ## Review Problem 11
 
-(Review Problems, Comprehensive Application, Problem 11) As shown in the figure, on the three sides of the equilateral triangle $ABC$, take points $D$, $E$, $F$ respectively so that $AD=BE=CF$. Prove that $\triangle DEF$ is equilateral.
+(Review Problems, Comprehensive Application, Problem 11) As shown in the figure, on the three sides of the equilateral triangle $ABC$, take points $D$, $E$, $F$ respectively so that $AD=BE=CF$. Prove that $\triangle{D}EF$ is equilateral.
 
 ### Solution to Review Problem 11
 
-Since $\triangle ABC$ is equilateral, $AB=BC=CA$ and $\angle A=\angle B=\angle C=60^\circ$. From $AD=BE=CF$, it follows that $BD=CE=AF$.
+Since $\triangle{A}BC$ is equilateral, $AB=BC=CA$ and $\angle{A}=\angle{B}=\angle{C}=60^\circ$. From $AD=BE=CF$, it follows that $BD=CE=AF$.
 
-In $\triangle ADF$, $\triangle BED$, and $\triangle CFE$, $AD=BE=CF$, $\angle A=\angle B=\angle C$, and $AF=BD=CE$; by SAS, the three triangles are congruent, hence $DF=ED=FE$.
+In $\triangle{A}DF$, $\triangle{B}ED$, and $\triangle{C}FE$, $AD=BE=CF$, $\angle{A}=\angle{B}=\angle{C}$, and $AF=BD=CE$; by SAS, the three triangles are congruent, hence $DF=ED=FE$.
 
-Therefore $\triangle DEF$ is equilateral. $\blacksquare$
+Therefore $\triangle{D}EF$ is equilateral. $\blacksquare$
 
 ## Review Problem 12
 
-(Review Problems, Comprehensive Application, Problem 12) As shown in the figure, $\triangle ABC$ is equilateral, $BD$ is a median, and $BC$ is extended to $E$ so that $CE=CD$. Prove that $DB=DE$.
+(Review Problems, Comprehensive Application, Problem 12) As shown in the figure, $\triangle{A}BC$ is equilateral, $BD$ is a median, and $BC$ is extended to $E$ so that $CE=CD$. Prove that $DB=DE$.
 
 ### Solution to Review Problem 12
 
-Since $\triangle ABC$ is equilateral and $BD$ is a median, by Three Lines Coincide, $BD$ bisects $\angle ABC$, hence $\angle DBC=30^\circ$.
+Since $\triangle{A}BC$ is equilateral and $BD$ is a median, by Three Lines Coincide, $BD$ bisects $\angle{A}BC$, hence $\angle{D}BC=30^\circ$.
 
-Since $CE=CD$, $\triangle CDE$ is isosceles, so $\angle E=\angle CDE$. Moreover, $\angle ACB=60^\circ=\angle E+\angle CDE=2\angle E$, hence $\angle E=30^\circ$.
+Since $CE=CD$, $\triangle{C}DE$ is isosceles, so $\angle{E}=\angle{C}DE$. Moreover, $\angle{A}CB=60^\circ=\angle{E}+\angle{C}DE=2\angle{E}$, hence $\angle{E}=30^\circ$.
 
-Thus $\angle DBC=\angle E=30^\circ$, and by Equal Angles Opposite Equal Sides, $DB=DE$. $\blacksquare$
+Thus $\angle{D}BC=\angle{E}=30^\circ$, and by Equal Angles Opposite Equal Sides, $DB=DE$. $\blacksquare$

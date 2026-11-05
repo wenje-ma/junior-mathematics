@@ -10,11 +10,11 @@
 
 > **Definition 7.1.3 (Perpendicular)**
 > 
-> When one of the four angles formed by two intersecting lines is a right angle, the two lines are said to be perpendicular to each other, written $a\perp b$. One of the lines is called the perpendicular line of the other, and the intersection is called the foot of the perpendicular.
+> When one of the four angles formed by two intersecting lines is a right angle, the two lines are said to be perpendicular to each other, written $a\perp{b}$. One of the lines is called the perpendicular line of the other, and the intersection is called the foot of the perpendicular.
 
 > **Definition 7.2.1 (Parallel)**
 > 
-> In the same plane, two lines that do not intersect are called parallel lines, denoted $a\parallel b$. In the same plane, two distinct lines have only two possible positional relationships: intersecting and parallel.
+> In the same plane, two lines that do not intersect are called parallel lines, denoted $a\parallel{b}$. In the same plane, two distinct lines have only two possible positional relationships: intersecting and parallel.
 
 > **Basic Fact 7.2.1 (Parallel Axiom)**
 > 
@@ -22,7 +22,7 @@
 
 > **Theorem 7.2.1 (Transitivity of Parallelism)**
 > 
-> If two lines are both parallel to a third line, then these two lines are also parallel to each other. That is, if $b\parallel a$, $c\parallel a$, then $b\parallel c$.
+> If two lines are both parallel to a third line, then these two lines are also parallel to each other. That is, if $b\parallel{a}$, $c\parallel{a}$, then $b\parallel{c}$.
 
 > **Property 7.2.1 (Property 1)**
 > 
@@ -86,21 +86,21 @@ The vertical-angle protractor makes use of **Theorem 7.1.1 (Vertical Angles Are 
 
 ## Problem 2
 
-(Exercise 7.2, Comprehensive Application, Problem 10) As shown in the figure, if $AB\parallel FE$, $BC\parallel DE$, then what is $\angle E+\angle B$ equal to?
+(Exercise 7.2, Comprehensive Application, Problem 10) As shown in the figure, if $AB\parallel{F}E$, $BC\parallel{D}E$, then what is $\angle{E}+\angle{B}$ equal to?
 
-The figure shows a broken line $ABC$ and another broken line $FED$, with $AB\parallel FE$ and $BC\parallel DE$; $\angle B$ is $\angle ABC$ and $\angle E$ is $\angle FED$.
+The figure shows a broken line $ABC$ and another broken line $FED$, with $AB\parallel{F}E$ and $BC\parallel{D}E$; $\angle{B}$ is $\angle{A}BC$ and $\angle{E}$ is $\angle{F}ED$.
 
 ### Solution to Problem 2
 
-Since $AB\parallel FE$, take the transversal to jointly determine the angle relationship with $BC$, $DE$.
+Since $AB\parallel{F}E$, take the transversal to jointly determine the angle relationship with $BC$, $DE$.
 
-Since $BC\parallel DE$, parallel lines give supplementary consecutive interior angles (or equal corresponding angles), yielding the corresponding angle relationship; from $AB\parallel FE$ another set of angle relationships is obtained. Combining the two: after two transfers of parallelism, $\angle E$ and $\angle B$ are consecutive interior angles to each other, i.e.
+Since $BC\parallel{D}E$, parallel lines give supplementary consecutive interior angles (or equal corresponding angles), yielding the corresponding angle relationship; from $AB\parallel{F}E$ another set of angle relationships is obtained. Combining the two: after two transfers of parallelism, $\angle{E}$ and $\angle{B}$ are consecutive interior angles to each other, i.e.
 
 $$
-\angle E+\angle B=180^\circ.
+\angle{E}+\angle{B}=180^\circ.
 $$
 
-Thus $\angle E+\angle B=180^\circ$. $\blacksquare$
+Thus $\angle{E}+\angle{B}=180^\circ$. $\blacksquare$
 
 ## Problem 3
 
@@ -112,13 +112,13 @@ By **Definition 7.2.1 (Parallel)**, draw groups of parallel lines (or segments);
 
 ## Problem 4
 
-(Exercise 7.2, Extension and Exploration, Problem 12) As shown in the figure, when $\angle 1=\angle 3$, are lines $a$, $b$ parallel? When $\angle 2+\angle 3=180^\circ$, are lines $a$, $b$ parallel? Why?
+(Exercise 7.2, Extension and Exploration, Problem 12) As shown in the figure, when $\angle1=\angle3$, are lines $a$, $b$ parallel? When $\angle2+\angle3=180^\circ$, are lines $a$, $b$ parallel? Why?
 
 ### Solution to Problem 4
 
-When $\angle 1=\angle 3$, $a\parallel b$. $\angle 1$ and $\angle 3$ are the corresponding angles (or alternate interior angles) formed when lines $a$, $b$ are cut by transversal $c$; by Criterion 1, equal corresponding angles imply parallel lines, so $a\parallel b$.
+When $\angle1=\angle3$, $a\parallel{b}$. $\angle1$ and $\angle3$ are the corresponding angles (or alternate interior angles) formed when lines $a$, $b$ are cut by transversal $c$; by Criterion 1, equal corresponding angles imply parallel lines, so $a\parallel{b}$.
 
-When $\angle 2+\angle 3=180^\circ$, $a\parallel b$. $\angle 2$ and $\angle 3$ are the consecutive interior angles formed when lines $a$, $b$ are cut by transversal $c$; by **Theorem 7.2.3 (Criterion 3)**, supplementary consecutive interior angles imply parallel lines, so $a\parallel b$. $\blacksquare$
+When $\angle2+\angle3=180^\circ$, $a\parallel{b}$. $\angle2$ and $\angle3$ are the consecutive interior angles formed when lines $a$, $b$ are cut by transversal $c$; by **Theorem 7.2.3 (Criterion 3)**, supplementary consecutive interior angles imply parallel lines, so $a\parallel{b}$. $\blacksquare$
 
 ## Problem 5
 
@@ -126,24 +126,24 @@ When $\angle 2+\angle 3=180^\circ$, $a\parallel b$. $\angle 2$ and $\angle 3$ ar
 
 ### Solution to Problem 5
 
-By **Definition 7.2.1 (Parallel)** and **Definition 7.1.3 (Perpendicular)**: $A_1B_1$ and $AB$ lie in the same direction and do not intersect, so $A_1B_1\parallel AB$; $AA_1$ and $AB$ intersect at a right angle, so $AA_1\perp AB$; $A_1D_1$ and $D_1C_1$ intersect at a right angle, so $A_1D_1\perp D_1C_1$; $AD$ and $BC$ have the same direction and do not intersect, so $AD\parallel BC$.
+By **Definition 7.2.1 (Parallel)** and **Definition 7.1.3 (Perpendicular)**: $A_1B_1$ and $AB$ lie in the same direction and do not intersect, so $A_1B_1\parallel{A}B$; $AA_1$ and $AB$ intersect at a right angle, so $AA_1\perp{A}B$; $A_1D_1$ and $D_1C_1$ intersect at a right angle, so $A_1D_1\perp{D}_1C_1$; $AD$ and $BC$ have the same direction and do not intersect, so $AD\parallel{B}C$.
 
 In the classroom, examples of these positional relationships include the opposite sides of the blackboard being parallel and adjacent sides of the blackboard being perpendicular. $\blacksquare$
 
 ## Problem 6
 
-(Exercise 7.2, Extension and Exploration, Problem 14) As shown in the figure, the two mirrors in a periscope are placed parallel to each other. When light rays reflect off the mirrors, $\angle 1=\angle 2$, $\angle 3=\angle 4$. What is the relationship between $\angle 2$ and $\angle 3$? Why is the ray entering the periscope parallel to the ray leaving the periscope?
+(Exercise 7.2, Extension and Exploration, Problem 14) As shown in the figure, the two mirrors in a periscope are placed parallel to each other. When light rays reflect off the mirrors, $\angle1=\angle2$, $\angle3=\angle4$. What is the relationship between $\angle2$ and $\angle3$? Why is the ray entering the periscope parallel to the ray leaving the periscope?
 
-The figure shows a cross-section of a periscope: two mirrors placed parallel to each other, one above the other; an incoming ray enters from one side, reflects off the first mirror, strikes the second mirror, and reflects out the other side. At the first mirror are marked $\angle 1$ (angle between incident ray and mirror) and $\angle 2$ (angle between reflected ray and mirror); at the second mirror are marked the corresponding $\angle 3$ and $\angle 4$.
+The figure shows a cross-section of a periscope: two mirrors placed parallel to each other, one above the other; an incoming ray enters from one side, reflects off the first mirror, strikes the second mirror, and reflects out the other side. At the first mirror are marked $\angle1$ (angle between incident ray and mirror) and $\angle2$ (angle between reflected ray and mirror); at the second mirror are marked the corresponding $\angle3$ and $\angle4$.
 
 ### Solution to Problem 6
 
-The two mirrors are parallel to each other. The two reflected rays between them are cut by the mirrors (lines); $\angle 2$ and $\angle 3$ are the alternate interior angles formed when the two parallel mirrors are cut by the middle ray. By Property 2, parallel lines give equal alternate interior angles, so $\angle 2=\angle 3$.
+The two mirrors are parallel to each other. The two reflected rays between them are cut by the mirrors (lines); $\angle2$ and $\angle3$ are the alternate interior angles formed when the two parallel mirrors are cut by the middle ray. By Property 2, parallel lines give equal alternate interior angles, so $\angle2=\angle3$.
 
-Also given $\angle 1=\angle 2$, $\angle 3=\angle 4$, so $\angle 1=\angle 2=\angle 3=\angle 4$. Thus the alternate interior angles formed when the ray entering the periscope and the ray leaving the periscope are cut by the reflected ray between the mirrors
+Also given $\angle1=\angle2$, $\angle3=\angle4$, so $\angle1=\angle2=\angle3=\angle4$. Thus the alternate interior angles formed when the ray entering the periscope and the ray leaving the periscope are cut by the reflected ray between the mirrors
 
 $$
-\angle 1+\angle 2=\angle 3+\angle 4
+\angle1+\angle2=\angle3+\angle4
 $$
 
 hold. By **Theorem 7.2.2 (Criterion 2)**, equal alternate interior angles imply parallel lines, so the ray entering the periscope is parallel to the ray leaving the periscope. $\blacksquare$
@@ -170,9 +170,9 @@ By **Definition 7.3.2 (Proposition)**, a true proposition is a proposition judge
 
 (1) If $a=b$, then $5a=5b$;
 
-(2) If $AB\perp CD$, with foot at $O$, then $\angle AOC=90^\circ$;
+(2) If $AB\perp{C}D$, with foot at $O$, then $\angle{A}OC=90^\circ$;
 
-(3) If $\angle 1=\angle 2$, $\angle 2=\angle 3$, then $\angle 1=\angle 3$;
+(3) If $\angle1=\angle2$, $\angle2=\angle3$, then $\angle1=\angle3$;
 
 (4) Parallel lines give equal corresponding angles.
 
@@ -182,9 +182,9 @@ By **Definition 7.3.2 (Proposition)**, the part after "if" is the hypothesis and
 
 (1) Hypothesis: $a=b$; conclusion: $5a=5b$.
 
-(2) Hypothesis: $AB\perp CD$, with foot at $O$; conclusion: $\angle AOC=90^\circ$.
+(2) Hypothesis: $AB\perp{C}D$, with foot at $O$; conclusion: $\angle{A}OC=90^\circ$.
 
-(3) Hypothesis: $\angle 1=\angle 2$ and $\angle 2=\angle 3$; conclusion: $\angle 1=\angle 3$.
+(3) Hypothesis: $\angle1=\angle2$ and $\angle2=\angle3$; conclusion: $\angle1=\angle3$.
 
 (4) Rewrite as "If two lines are parallel, then the corresponding angles are equal." Hypothesis: two lines are parallel; conclusion: corresponding angles are equal. $\blacksquare$
 
@@ -192,23 +192,23 @@ By **Definition 7.3.2 (Proposition)**, the part after "if" is the hypothesis and
 
 (Exercise 7.3, Problem 1) In the parentheses below, fill in the basis for the reasoning.
 
-As shown in the figure, $\angle A+\angle B=180^\circ$. Prove that $\angle C+\angle D=180^\circ$.
+As shown in the figure, $\angle{A}+\angle{B}=180^\circ$. Prove that $\angle{C}+\angle{D}=180^\circ$.
 
-Proof: $\because\angle A+\angle B=180^\circ$,
+Proof: $\because\angle{A}+\angle{B}=180^\circ$,
 
-$\therefore AD\parallel BC$ (_______).
+$\therefore{A}D\parallel{B}C$ (_______).
 
-$\therefore\angle C+\angle D=180^\circ$ (_______).
+$\therefore\angle{C}+\angle{D}=180^\circ$ (_______).
 
-The figure shows quadrilateral $ABCD$ with vertices in order $A$-$B$-$C$-$D$; $\angle A$ and $\angle B$ are consecutive interior angles formed when lines $AD$, $BC$ are cut by line $AB$, and $\angle C$ and $\angle D$ are consecutive interior angles formed when lines $AD$, $BC$ are cut by line $CD$.
+The figure shows quadrilateral $ABCD$ with vertices in order $A$-$B$-$C$-$D$; $\angle{A}$ and $\angle{B}$ are consecutive interior angles formed when lines $AD$, $BC$ are cut by line $AB$, and $\angle{C}$ and $\angle{D}$ are consecutive interior angles formed when lines $AD$, $BC$ are cut by line $CD$.
 
 ### Solution to Exercise 4
 
 By **Theorem 7.2.3 (Criterion 3)**, supplementary consecutive interior angles imply parallel lines; by Property 3, parallel lines give supplementary consecutive interior angles.
 
-$\angle A$ and $\angle B$ are the consecutive interior angles formed when lines $AD$, $BC$ are cut by line $AB$; $\angle A+\angle B=180^\circ$, so $AD\parallel BC$ (supplementary consecutive interior angles imply parallel lines).
+$\angle{A}$ and $\angle{B}$ are the consecutive interior angles formed when lines $AD$, $BC$ are cut by line $AB$; $\angle{A}+\angle{B}=180^\circ$, so $AD\parallel{B}C$ (supplementary consecutive interior angles imply parallel lines).
 
-Then from $AD\parallel BC$, $\angle C$ and $\angle D$ are the consecutive interior angles formed when lines $AD$, $BC$ are cut by line $CD$, so $\angle C+\angle D=180^\circ$ (parallel lines give supplementary consecutive interior angles). $\blacksquare$
+Then from $AD\parallel{B}C$, $\angle{C}$ and $\angle{D}$ are the consecutive interior angles formed when lines $AD$, $BC$ are cut by line $CD$, so $\angle{C}+\angle{D}=180^\circ$ (parallel lines give supplementary consecutive interior angles). $\blacksquare$
 
 ## Exercise 5
 
@@ -252,61 +252,61 @@ In summary, (1)(2)(4) are propositions, among which (1)(2) are true propositions
 
 (Exercise 7.3, Review and Consolidation, Problem 2) As shown in the figure, express the following reasoning processes using symbols:
 
-(1) Since $\angle 1$ and $\angle 2$ are equal, by "equal alternate interior angles imply parallel lines", $AB$ and $EF$ are parallel;
+(1) Since $\angle1$ and $\angle2$ are equal, by "equal alternate interior angles imply parallel lines", $AB$ and $EF$ are parallel;
 
-(2) Since $DE$ and $BC$ are parallel, by "parallel lines give equal corresponding angles", $\angle 1=\angle B$, $\angle 3=\angle C$.
+(2) Since $DE$ and $BC$ are parallel, by "parallel lines give equal corresponding angles", $\angle1=\angle{B}$, $\angle3=\angle{C}$.
 
 ### Solution to Problem 8
 
 By **Theorem 7.2.2 (Criterion 2)** and Property 1, use $\because$ to mean "since" and $\therefore$ to mean "therefore".
 
-(1) $\because\angle 1=\angle 2$, $\therefore AB\parallel EF$ (equal alternate interior angles imply parallel lines).
+(1) $\because\angle1=\angle2$, $\therefore{A}B\parallel{E}F$ (equal alternate interior angles imply parallel lines).
 
-(2) $\because DE\parallel BC$, $\therefore\angle 1=\angle B$, $\angle 3=\angle C$ (parallel lines give equal corresponding angles). $\blacksquare$
+(2) $\because{D}E\parallel{B}C$, $\therefore\angle1=\angle{B}$, $\angle3=\angle{C}$ (parallel lines give equal corresponding angles). $\blacksquare$
 
 ## Problem 9
 
 (Exercise 7.3, Review and Consolidation, Problem 3) Complete the following proofs.
 
-(1) As shown in figure (1), $AB\parallel CD$, $BC\parallel ED$. Prove that $\angle B+\angle D=180^\circ$.
+(1) As shown in figure (1), $AB\parallel{C}D$, $BC\parallel{E}D$. Prove that $\angle{B}+\angle{D}=180^\circ$.
 
-(2) As shown in figure (2), $\angle ABC=\angle A'B'C'$, and $BD$, $B'D'$ are the angle bisectors of $\angle ABC$, $\angle A'B'C'$ respectively. Prove that $\angle 1=\angle 2$.
+(2) As shown in figure (2), $\angle{A}BC=\angle{A}'B'C'$, and $BD$, $B'D'$ are the angle bisectors of $\angle{A}BC$, $\angle{A}'B'C'$ respectively. Prove that $\angle1=\angle2$.
 
 ### Solution to Problem 9
 
-(1) Proof: $\because AB\parallel CD$, $\therefore\angle B=\angle C$ (parallel lines give equal alternate interior angles).
+(1) Proof: $\because{A}B\parallel{C}D$, $\therefore\angle{B}=\angle{C}$ (parallel lines give equal alternate interior angles).
 
-$\because BC\parallel ED$, $\therefore\angle C+\angle D=180^\circ$ (parallel lines give supplementary consecutive interior angles).
+$\because{B}C\parallel{E}D$, $\therefore\angle{C}+\angle{D}=180^\circ$ (parallel lines give supplementary consecutive interior angles).
 
-Substituting $\angle B=\angle C$, we get $\angle B+\angle D=180^\circ$. $\blacksquare$
+Substituting $\angle{B}=\angle{C}$, we get $\angle{B}+\angle{D}=180^\circ$. $\blacksquare$
 
-(2) Proof: $\because BD$, $B'D'$ are the angle bisectors of $\angle ABC$, $\angle A'B'C'$ respectively,
+(2) Proof: $\because{B}D$, $B'D'$ are the angle bisectors of $\angle{A}BC$, $\angle{A}'B'C'$ respectively,
 
-$\therefore\angle 1=\frac{1}{2}\angle ABC$, $\angle 2=\frac{1}{2}\angle A'B'C'$.
+$\therefore\angle1=\frac{1}{2}\angle{A}BC$, $\angle2=\frac{1}{2}\angle{A}'B'C'$.
 
-Also $\because\angle ABC=\angle A'B'C'$,
+Also $\because\angle{A}BC=\angle{A}'B'C'$,
 
-$\therefore\frac{1}{2}\angle ABC=\frac{1}{2}\angle A'B'C'$ (halves of equal quantities are equal).
+$\therefore\frac{1}{2}\angle{A}BC=\frac{1}{2}\angle{A}'B'C'$ (halves of equal quantities are equal).
 
-$\therefore\angle 1=\angle 2$. $\blacksquare$
+$\therefore\angle1=\angle2$. $\blacksquare$
 
 ## Problem 10
 
-(Exercise 7.3, Comprehensive Application, Problem 4) As shown in the figure, parallel lines $AB$, $CD$ intersect $EF$ at points $E$, $F$ respectively; $EG$ bisects $\angle AEF$, $FH$ bisects $\angle EFD$. Are $EG$ and $FH$ parallel? Why?
+(Exercise 7.3, Comprehensive Application, Problem 4) As shown in the figure, parallel lines $AB$, $CD$ intersect $EF$ at points $E$, $F$ respectively; $EG$ bisects $\angle{A}EF$, $FH$ bisects $\angle{E}FD$. Are $EG$ and $FH$ parallel? Why?
 
 ### Solution to Problem 10
 
-$EG\parallel FH$.
+$EG\parallel{F}H$.
 
-$\because AB\parallel CD$, $\therefore\angle AEF=\angle EFD$ (parallel lines give equal alternate interior angles).
+$\because{A}B\parallel{C}D$, $\therefore\angle{A}EF=\angle{E}FD$ (parallel lines give equal alternate interior angles).
 
-$\because EG$ bisects $\angle AEF$, $FH$ bisects $\angle EFD$,
+$\because{E}G$ bisects $\angle{A}EF$, $FH$ bisects $\angle{E}FD$,
 
-$\therefore\angle GEF=\frac{1}{2}\angle AEF$, $\angle EFH=\frac{1}{2}\angle EFD$.
+$\therefore\angle{G}EF=\frac{1}{2}\angle{A}EF$, $\angle{E}FH=\frac{1}{2}\angle{E}FD$.
 
-From $\angle AEF=\angle EFD$, we get $\frac{1}{2}\angle AEF=\frac{1}{2}\angle EFD$, i.e. $\angle GEF=\angle EFH$.
+From $\angle{A}EF=\angle{E}FD$, we get $\frac{1}{2}\angle{A}EF=\frac{1}{2}\angle{E}FD$, i.e. $\angle{G}EF=\angle{E}FH$.
 
-$\angle GEF$ and $\angle EFH$ are the alternate interior angles formed when lines $EG$, $FH$ are cut by line $EF$; by **Theorem 7.2.2 (Criterion 2)**, equal alternate interior angles imply parallel lines, so $EG\parallel FH$. $\blacksquare$
+$\angle{G}EF$ and $\angle{E}FH$ are the alternate interior angles formed when lines $EG$, $FH$ are cut by line $EF$; by **Theorem 7.2.2 (Criterion 2)**, equal alternate interior angles imply parallel lines, so $EG\parallel{F}H$. $\blacksquare$
 
 ## Exercise 6
 
@@ -358,7 +358,7 @@ By **Definition 7.4.1 (Translation)** and Properties of Translation, a pattern i
 
 By Properties of Translation, after translation the new figure has exactly the same shape and size as the original, and the segments connecting each pair of corresponding points are parallel and equal.
 
-The corresponding points are $A$ and $D$, $B$ and $E$, $C$ and $F$. Parallel segments: the connecting segments of corresponding points $AD\parallel BE\parallel CF$, as well as the corresponding sides $AB\parallel DE$, $AC\parallel DF$. Equal segments: the corresponding sides $AB=DE$, $BC=EF$, $AC=DF$, as well as the connecting segments of corresponding points $AD=BE=CF$. $\blacksquare$
+The corresponding points are $A$ and $D$, $B$ and $E$, $C$ and $F$. Parallel segments: the connecting segments of corresponding points $AD\parallel{B}E\parallel{C}F$, as well as the corresponding sides $AB\parallel{D}E$, $AC\parallel{D}F$. Equal segments: the corresponding sides $AB=DE$, $BC=EF$, $AC=DF$, as well as the connecting segments of corresponding points $AD=BE=CF$. $\blacksquare$
 
 ## Problem 13
 
@@ -432,9 +432,9 @@ The "bird" basic figure in the figure is drawn using translations on a square (u
 
 (Mathematical Activity, Activity 1) How many ways do you have to draw parallel lines? After learning about parallel lines, three students—Li Ming, Liu Wei, and Wang Fang—each came up with a new method for drawing a line through a point outside a given line that is parallel to it.
 
-Li Ming's method: as shown in the figure, through point $P$ draw line $b$ so that the cut-off $\angle 2=\angle 1$; then $b\parallel a$.
+Li Ming's method: as shown in the figure, through point $P$ draw line $b$ so that the cut-off $\angle2=\angle1$; then $b\parallel{a}$.
 
-Liu Wei's method: as shown in the figure, draw $PQ\perp a$, then draw $l\perp a$, take $RS=PQ$ on $l$, and connect $PS$; then $PS\parallel a$.
+Liu Wei's method: as shown in the figure, draw $PQ\perp{a}$, then draw $l\perp{a}$, take $RS=PQ$ on $l$, and connect $PS$; then $PS\parallel{a}$.
 
 Wang Fang's method: draw parallel lines by folding paper.
 
@@ -442,9 +442,9 @@ Wang Fang's method: draw parallel lines by folding paper.
 
 By Criterion 1, equal corresponding angles imply parallel lines.
 
-In Li Ming's method, make $\angle 2=\angle 1$, and $\angle 1$ and $\angle 2$ are the corresponding angles formed when lines $a$, $b$ are cut by a transversal; equal corresponding angles give $b\parallel a$, so the method is correct.
+In Li Ming's method, make $\angle2=\angle1$, and $\angle1$ and $\angle2$ are the corresponding angles formed when lines $a$, $b$ are cut by a transversal; equal corresponding angles give $b\parallel{a}$, so the method is correct.
 
-In Liu Wei's method, $PQ\perp a$ and $l\perp a$, so both $PQ$ and $l$ are perpendicular to $a$, and $PQ\parallel l$. Also $RS=PQ$ and $RS$ lies on $l$; in quadrilateral $PQSR$, $PQ\parallel RS$ and $PQ=RS$, i.e. one pair of opposite sides is parallel and equal, so $PS\parallel QR$, i.e. $PS\parallel a$, and the method is correct.
+In Liu Wei's method, $PQ\perp{a}$ and $l\perp{a}$, so both $PQ$ and $l$ are perpendicular to $a$, and $PQ\parallel{l}$. Also $RS=PQ$ and $RS$ lies on $l$; in quadrilateral $PQSR$, $PQ\parallel{R}S$ and $PQ=RS$, i.e. one pair of opposite sides is parallel and equal, so $PS\parallel{Q}R$, i.e. $PS\parallel{a}$, and the method is correct.
 
 Wang Fang folds the paper to create two crease lines that coincide with each other; after unfolding, the two crease lines do not intersect in the same plane, so they are parallel lines, and the method is correct.
 
@@ -460,18 +460,18 @@ By **Definition 7.4.1 (Translation)** and Properties of Translation, arrange str
 
 ## Review Exercise 1
 
-(Review Exercise, Review and Consolidation, Problem 1) As shown in the figure, line $AB\perp CD$, with foot at $O$; line $EF$ passes through point $O$, $\angle 1=26^\circ$. Find the degrees of $\angle 2$, $\angle 3$, and $\angle BOE$.
+(Review Exercise, Review and Consolidation, Problem 1) As shown in the figure, line $AB\perp{C}D$, with foot at $O$; line $EF$ passes through point $O$, $\angle1=26^\circ$. Find the degrees of $\angle2$, $\angle3$, and $\angle{B}OE$.
 
-The figure shows lines $AB\perp CD$ with foot $O$, and a line $EF$ passing through $O$; inside $\angle AOD$ are marked $\angle 1$ (between $OE$ and $OD$) and $\angle 2$ (between $OA$ and $OE$), and the vertical angle of $\angle 1$ is marked as $\angle 3$.
+The figure shows lines $AB\perp{C}D$ with foot $O$, and a line $EF$ passing through $O$; inside $\angle{A}OD$ are marked $\angle1$ (between $OE$ and $OD$) and $\angle2$ (between $OA$ and $OE$), and the vertical angle of $\angle1$ is marked as $\angle3$.
 
 ### Solution to Review Exercise 1
 
-By **Definition 7.1.3 (Perpendicular)**, $AB\perp CD$, so $\angle AOD=90^\circ$.
+By **Definition 7.1.3 (Perpendicular)**, $AB\perp{C}D$, so $\angle{A}OD=90^\circ$.
 
-$\angle 1$ and $\angle 2$ lie inside the right angle $\angle AOD$, and $\angle AOD=\angle 1+\angle 2$, so $\angle 2=90^\circ-\angle 1=90^\circ-26^\circ=64^\circ$.
+$\angle1$ and $\angle2$ lie inside the right angle $\angle{A}OD$, and $\angle{A}OD=\angle1+\angle2$, so $\angle2=90^\circ-\angle1=90^\circ-26^\circ=64^\circ$.
 
-$\angle 3$ and $\angle 1$ are vertical angles; by **Theorem 7.1.1 (Vertical Angles Are Equal)**, $\angle 3=\angle 1=26^\circ$.
+$\angle3$ and $\angle1$ are vertical angles; by **Theorem 7.1.1 (Vertical Angles Are Equal)**, $\angle3=\angle1=26^\circ$.
 
-$\angle BOE$ and $\angle 1$ share the side $OE$, while the other sides $OB$ and $OA$ are opposite extensions of each other; together they form a straight angle, so $\angle BOE=180^\circ-\angle 1=180^\circ-26^\circ=154^\circ$.
+$\angle{B}OE$ and $\angle1$ share the side $OE$, while the other sides $OB$ and $OA$ are opposite extensions of each other; together they form a straight angle, so $\angle{B}OE=180^\circ-\angle1=180^\circ-26^\circ=154^\circ$.
 
-Thus $\angle 2=64^\circ$, $\angle 3=26^\circ$, $\angle BOE=154^\circ$. $\blacksquare$
+Thus $\angle2=64^\circ$, $\angle3=26^\circ$, $\angle{B}OE=154^\circ$. $\blacksquare$

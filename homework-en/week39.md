@@ -26,7 +26,7 @@
 
 > **Definition 18.1.2 (Basic Property of Fractions)**
 > 
-> Multiplying (or dividing) both the numerator and denominator of a fraction by the same integral expression not equal to $0$ does not change the value of the fraction, i.e. $\frac{A}{B}=\frac{A\cdot C}{B\cdot C}=\frac{A\div C}{B\div C}$ ($C\ne0$).
+> Multiplying (or dividing) both the numerator and denominator of a fraction by the same integral expression not equal to $0$ does not change the value of the fraction, i.e. $\frac{A}{B}=\frac{A\cdot{C}}{B\cdot{C}}=\frac{A\div{C}}{B\div{C}}$ ($C\ne0$).
 
 > **Definition 18.1.3 (Reducing a Fraction and Simplest Fraction)**
 > 
@@ -110,7 +110,7 @@ That is, the square of a number ending in $5$ equals $100$ times the product of 
 
 ## Activity 2
 
-(Mathematical Activity, Activity 2) Generating passwords using factoring. First factor the given polynomial, then assign values to the factors to generate factor codes, and arrange the factor codes in increasing order to form a password. For example, for the polynomial $x^2 y-4y=y\left(x+2\right)\left(x-2\right)$, taking $x=15,y=12$ gives the factor codes $12,17,13$, arranged as $121317$.
+(Mathematical Activity, Activity 2) Generating passwords using factoring. First factor the given polynomial, then assign values to the factors to generate factor codes, and arrange the factor codes in increasing order to form a password. For example, for the polynomial $x^2y-4y=y\left(x+2\right)\left(x-2\right)$, taking $x=15,y=12$ gives the factor codes $12,17,13$, arranged as $121317$.
 
 (1) Given the polynomial $16p^4-q^4$, when $p=10$ and $q=5$ are taken, what is the generated password?
 
@@ -124,7 +124,7 @@ First factor: $16p^4-q^4=\left(4p^2+q^2\right)\left(4p^2-q^2\right)=\left(4p^2+q
 
 (1) Substituting $p=10,q=5$: $4p^2+q^2=400+25=425$, $2p+q=25$, $2p-q=15$. The factor codes are $425,25,15$, arranged in increasing order as $15,25,425$, so the password is $1525425$.
 
-(2) Among the factors $2p-q$ and $2p+q$, we have $2p-q< 2p+q$. The first two factor codes are $5,15$, i.e. $2p-q=5$, $2p+q=15$. Solving gives $p=5,q=5$. The third factor $4p^2+q^2=100+25=125$.
+(2) Among the factors $2p-q$ and $2p+q$, we have $2p-q<2p+q$. The first two factor codes are $5,15$, i.e. $2p-q=5$, $2p+q=15$. Solving gives $p=5,q=5$. The third factor $4p^2+q^2=100+25=125$.
 
 (3) For example, take the polynomial $x^2-4=\left(x+2\right)\left(x-2\right)$; taking $x=10$ gives the factor codes $12,8$, and the password is $812$. $\blacksquare$
 
@@ -228,17 +228,17 @@ By **Definition 17.2.3 (Method Using the Perfect Square Formula)**.
 
 (1) $3ax^2-3ay^2$;
 
-(2) $4xy^2-4x^2 y-y^3$.
+(2) $4xy^2-4x^2y-y^3$.
 
 ### Solution to Review Problem 5
 
 (1) $3ax^2-3ay^2=3a\left(x^2-y^2\right)=3a\left(x+y\right)\left(x-y\right)$.
 
-(2) $4xy^2-4x^2 y-y^3=-y\left(y^2-4xy+4x^2\right)=-y\left(y-2x\right)^2$. $\blacksquare$
+(2) $4xy^2-4x^2y-y^3=-y\left(y^2-4xy+4x^2\right)=-y\left(y-2x\right)^2$. $\blacksquare$
 
 ## Review Problem 6
 
-(Review Problems, Comprehensive Application, Problem 6) As shown in the figure, on a circular steel plate of radius $R$, four small circles of radius $r$ are cut out. Calculate the area of the remaining part when $R=5.6\ \text{cm}$ and $r=1.2\ \text{cm}$ (take $\pi$ as $3.14$).
+(Review Problems, Comprehensive Application, Problem 6) As shown in the figure, on a circular steel plate of radius $R$, four small circles of radius $r$ are cut out. Calculate the area of the remaining part when $R=5.6\,\text{cm}$ and $r=1.2\,\text{cm}$ (take $\pi$ as $3.14$).
 
 The figure shows a large circle of radius $R$ (the circular steel plate), from which four small circles of radius $r$ are cut out at the upper-left, upper-right, lower-left and lower-right positions; the four small circles are identical, each pair externally tangent and all close to the edge of the large circle, and the remaining part is shaded.
 
@@ -246,11 +246,11 @@ The figure shows a large circle of radius $R$ (the circular steel plate), from w
 
 The remaining area equals the area of the large circle minus the areas of the four small circles:
 
-$$S=\pi R^2-4\pi r^2=\pi\left(R^2-4r^2\right).$$
+$$S=\pi{R}^2-4\pi{r}^2=\pi\left(R^2-4r^2\right).$$
 
 Substituting $R=5.6$, $r=1.2$: $R^2=31.36$, $4r^2=4\times1.44=5.76$, $R^2-4r^2=25.6$.
 
-$$S=3.14\times25.6=80.384\ \left(\text{cm}^2\right).$$
+$$S=3.14\times25.6=80.384\,\left(\text{cm}^2\right).$$
 
 $\blacksquare$
 
@@ -272,7 +272,7 @@ Since $n$ is an integer, $8n$ is a multiple of $8$. This completes the proof. $\
 
 $$p^2-1+q^2+2pq=\left(p^2+2pq+q^2\right)-1=\left(p+q\right)^2-1=\left(p+q+1\right)\left(p+q-1\right).$$
 
-Using the above factoring method, prove that if $a,b,c$ are the lengths of the three sides of $\triangle ABC$, then $a^2-b^2+c^2-2ac< 0$.
+Using the above factoring method, prove that if $a,b,c$ are the lengths of the three sides of $\triangle{A}BC$, then $a^2-b^2+c^2-2ac<0$.
 
 ### Solution to Review Problem 8
 
@@ -280,9 +280,9 @@ Factor by grouping:
 
 $$a^2-b^2+c^2-2ac=\left(a^2-2ac+c^2\right)-b^2=\left(a-c\right)^2-b^2=\left(a-c+b\right)\left(a-c-b\right).$$
 
-Since the sum of two sides of a triangle is greater than the third side, $a+b> c$, i.e. $a-c+b> 0$; also $a< b+c$, i.e. $a-c-b< 0$. The two factors have opposite signs, hence
+Since the sum of two sides of a triangle is greater than the third side, $a+b>{}c$, i.e. $a-c+b>0$; also $a<{}b+c$, i.e. $a-c-b<0$. The two factors have opposite signs, hence
 
-$$a^2-b^2+c^2-2ac=\left(a+b-c\right)\left(a-b-c\right)< 0.$$
+$$a^2-b^2+c^2-2ac=\left(a+b-c\right)\left(a-b-c\right)<0.$$
 
 $\blacksquare$
 
@@ -290,33 +290,33 @@ $\blacksquare$
 
 (Exercise 18.1, Problem 1) Write expressions for the following quantities:
 
-(1) A village has $n$ people and $40\ \text{hm}^2$ of arable land; then the per capita arable area is \;_\_\; $\text{hm}^2$;
+(1) A village has $n$ people and $40\,\text{hm}^2$ of arable land; then the per capita arable area is \;_\_\; $\text{hm}^2$;
 
-(2) The area of $\triangle ABC$ is $S$, and the base $BC$ has length $a$; then the height $AD$ is \;_\_\; ;
+(2) The area of $\triangle{A}BC$ is $S$, and the base $BC$ has length $a$; then the height $AD$ is \;_\_\; ;
 
-(3) A car travels $s\ \text{km}$ in $t\ \text{h}$; then its average speed is \;_\_\; $\text{km/h}$; a train travels $s\ \text{km}$ taking $1\ \text{h}$ less than the car; then its average speed is \;_\_\; $\text{km/h}$.
+(3) A car travels $s\,\text{km}$ in $t\,\text{h}$; then its average speed is \;_\_\; $\text{km/h}$; a train travels $s\,\text{km}$ taking $1\,\text{h}$ less than the car; then its average speed is \;_\_\; $\text{km/h}$.
 
 ### Solution to Exercise 1
 
-(1) Per capita arable area $=\frac{40}{n}\ \text{hm}^2$.
+(1) Per capita arable area $=\frac{40}{n}\,\text{hm}^2$.
 
-(2) From $S=\frac12 a\cdot AD$, we get $AD=\frac{2S}{a}$.
+(2) From $S=\frac12a\cdot{A}D$, we get $AD=\frac{2S}{a}$.
 
-(3) The car's average speed $=\frac{s}{t}\ \text{km/h}$; the train takes $t-1\ \text{h}$, so its average speed $=\frac{s}{t-1}\ \text{km/h}$. $\blacksquare$
+(3) The car's average speed $=\frac{s}{t}\,\text{km/h}$; the train takes $t-1\,\text{h}$, so its average speed $=\frac{s}{t-1}\,\text{km/h}$. $\blacksquare$
 
 ## Exercise 2
 
 (Exercise 18.1, Problem 2) Among the following expressions, which are fractions? Which are integral expressions?
 
-$\frac{1}{x}$, $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{a^2 b}{c}$, $\frac{x^2-y^2}{\pi}$, $\frac{x}{4}+\frac{y}{5}$.
+$\frac{1}{x}$, $\frac{x}{3}$, $\frac{1}{4}x^2y$, $\frac{a^2b}{c}$, $\frac{x^2-y^2}{\pi}$, $\frac{x}{4}+\frac{y}{5}$.
 
 ### Solution to Exercise 2
 
 By **Definition 18.1.1 (Fraction)**, those whose denominator contains a letter are fractions.
 
-Fractions: $\frac{1}{x}$, $\frac{a^2 b}{c}$.
+Fractions: $\frac{1}{x}$, $\frac{a^2b}{c}$.
 
-Integral expressions: $\frac{x}{3}$, $\frac{1}{4}x^2 y$, $\frac{x^2-y^2}{\pi}$ ($\pi$ is a constant), $\frac{x}{4}+\frac{y}{5}$. $\blacksquare$
+Integral expressions: $\frac{x}{3}$, $\frac{1}{4}x^2y$, $\frac{x^2-y^2}{\pi}$ ($\pi$ is a constant), $\frac{x}{4}+\frac{y}{5}$. $\blacksquare$
 
 ## Exercise 3
 
@@ -396,11 +396,11 @@ By **Definition 18.1.3 (Reducing a Fraction and Simplest Fraction)**.
 
 (Exercise 18.1, Problem 3) Find a common denominator:
 
-(1) $\frac{z}{2x^2 y}$ and $\frac{5}{6xy^2}$;
+(1) $\frac{z}{2x^2y}$ and $\frac{5}{6xy^2}$;
 
 (2) $\frac{x}{x+y}$ and $\frac{y}{x-y}$;
 
-(3) $\frac{3}{2a^2 b}$ and $\frac{a-b}{2ab^2}$;
+(3) $\frac{3}{2a^2b}$ and $\frac{a-b}{2ab^2}$;
 
 (4) $\frac{1}{a^2-2a+1}$ and $\frac{1}{a^2-1}$.
 
@@ -408,11 +408,11 @@ By **Definition 18.1.3 (Reducing a Fraction and Simplest Fraction)**.
 
 By **Definition 18.1.4 (Finding a Common Denominator and Least Common Denominator)**.
 
-(1) Least common denominator $6x^2 y^2$: $\frac{z}{2x^2 y}=\frac{3yz}{6x^2 y^2}$, $\frac{5}{6xy^2}=\frac{5x}{6x^2 y^2}$.
+(1) Least common denominator $6x^2y^2$: $\frac{z}{2x^2y}=\frac{3yz}{6x^2y^2}$, $\frac{5}{6xy^2}=\frac{5x}{6x^2y^2}$.
 
 (2) Least common denominator $\left(x+y\right)\left(x-y\right)$: $\frac{x}{x+y}=\frac{x\left(x-y\right)}{\left(x+y\right)\left(x-y\right)}$, $\frac{y}{x-y}=\frac{y\left(x+y\right)}{\left(x+y\right)\left(x-y\right)}$.
 
-(3) Least common denominator $2a^2 b^2$: $\frac{3}{2a^2 b}=\frac{3b}{2a^2 b^2}$, $\frac{a-b}{2ab^2}=\frac{a\left(a-b\right)}{2a^2 b^2}$.
+(3) Least common denominator $2a^2b^2$: $\frac{3}{2a^2b}=\frac{3b}{2a^2b^2}$, $\frac{a-b}{2ab^2}=\frac{a\left(a-b\right)}{2a^2b^2}$.
 
 (4) $a^2-2a+1=\left(a-1\right)^2$, $a^2-1=\left(a-1\right)\left(a+1\right)$, least common denominator $\left(a-1\right)^2\left(a+1\right)$: $\frac{1}{\left(a-1\right)^2}=\frac{a+1}{\left(a-1\right)^2\left(a+1\right)}$, $\frac{1}{\left(a-1\right)\left(a+1\right)}=\frac{a-1}{\left(a-1\right)^2\left(a+1\right)}$. $\blacksquare$
 
@@ -420,9 +420,9 @@ By **Definition 18.1.4 (Finding a Common Denominator and Least Common Denominato
 
 (Exercise 18.1, Review and Consolidation, Problem 1) Write expressions:
 
-(1) A place has an afforestation area of $m$ hectares, originally planned to be completed in $n$ years ($n> 1$); now it must be completed $1$ year ahead of schedule, so the actual annual afforestation must be \;_\_\; hectares more than the original plan;
+(1) A place has an afforestation area of $m$ hectares, originally planned to be completed in $n$ years ($n>1$); now it must be completed $1$ year ahead of schedule, so the actual annual afforestation must be \;_\_\; hectares more than the original plan;
 
-(2) A car travels from place A to place B at speed $a\ \text{km/h}$; the distance between A and B is $120\ \text{km}$; then the time taken from A to B is \;_\_\; $\text{h}$;
+(2) A car travels from place A to place B at speed $a\,\text{km/h}$; the distance between A and B is $120\,\text{km}$; then the time taken from A to B is \;_\_\; $\text{h}$;
 
 (3) The total number of students in a school is $m$, among which boys make up $\frac35$ of all students; then the number of girls is \;_\_\; .
 
@@ -430,7 +430,7 @@ By **Definition 18.1.4 (Finding a Common Denominator and Least Common Denominato
 
 (1) The original plan is $\frac{m}{n}$ per year, and the actual is $\frac{m}{n-1}$ per year; the extra afforestation is $\frac{m}{n-1}-\frac{m}{n}=\frac{m}{n\left(n-1\right)}$ hectares.
 
-(2) Time $=$ distance $\div$ speed $=\frac{120}{a}\ \text{h}$.
+(2) Time $=$ distance $\div$ speed $=\frac{120}{a}\,\text{h}$.
 
 (3) Girls make up $1-\frac35=\frac25$, so the number of girls is $\frac{2}{5}m$. $\blacksquare$
 
@@ -438,13 +438,13 @@ By **Definition 18.1.4 (Finding a Common Denominator and Least Common Denominato
 
 (Exercise 18.1, Review and Consolidation, Problem 2) Among the following expressions, which are integral expressions? Which are fractions?
 
-$\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2 y}$, $\frac{2ab}{\left(a+b\right)^2}$.
+$\frac{x}{3}$, $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{a+5}{15}$, $\frac{z}{x^2y}$, $\frac{2ab}{\left(a+b\right)^2}$.
 
 ### Solution to Problem 3
 
 By **Definition 18.1.1 (Fraction)**.
 
-Fractions: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2 y}$, $\frac{2ab}{\left(a+b\right)^2}$.
+Fractions: $\frac{1}{n}$, $\frac{1}{a+5}$, $\frac{z}{x^2y}$, $\frac{2ab}{\left(a+b\right)^2}$.
 
 Integral expressions: $\frac{x}{3}$, $\frac{a+5}{15}$. $\blacksquare$
 
@@ -500,21 +500,21 @@ By **Definition 18.1.3 (Reducing a Fraction and Simplest Fraction)**.
 
 (Exercise 18.1, Review and Consolidation, Problem 5) Find a common denominator:
 
-(1) $\frac{z}{3x^2 y}$ and $\frac{x y}{2 z^2}$;
+(1) $\frac{z}{3x^2y}$ and $\frac{xy}{2z^2}$;
 
-(2) $\frac{5}{a^2 b}$ and $\frac{3}{a b^2}$;
+(2) $\frac{5}{a^2b}$ and $\frac{3}{ab^2}$;
 
-(3) $\frac{x-1}{-2 x}$ and $\frac{1}{x^2-2 x}$;
+(3) $\frac{x-1}{-2x}$ and $\frac{1}{x^2-2x}$;
 
-(4) $\frac{1}{x^2-9}$ and $\frac{1}{2 x+6}$.
+(4) $\frac{1}{x^2-9}$ and $\frac{1}{2x+6}$.
 
 ### Solution to Problem 6
 
 By **Definition 18.1.4 (Finding a Common Denominator and Least Common Denominator)**.
 
-(1) Least common denominator $6x^2 y z^2$: $\frac{z}{3x^2 y}=\frac{2z^3}{6x^2 y z^2}$, $\frac{xy}{2z^2}=\frac{3x^3 y^2}{6x^2 y z^2}$.
+(1) Least common denominator $6x^2yz^2$: $\frac{z}{3x^2y}=\frac{2z^3}{6x^2yz^2}$, $\frac{xy}{2z^2}=\frac{3x^3y^2}{6x^2yz^2}$.
 
-(2) Least common denominator $a^2 b^2$: $\frac{5}{a^2 b}=\frac{5b}{a^2 b^2}$, $\frac{3}{ab^2}=\frac{3a}{a^2 b^2}$.
+(2) Least common denominator $a^2b^2$: $\frac{5}{a^2b}=\frac{5b}{a^2b^2}$, $\frac{3}{ab^2}=\frac{3a}{a^2b^2}$.
 
 (3) $x^2-2x=x\left(x-2\right)$, least common denominator $2x\left(x-2\right)$: $\frac{x-1}{-2x}=\frac{\left(x-1\right)\left(x-2\right)}{-2x\left(x-2\right)}$, $\frac{1}{x\left(x-2\right)}=\frac{-2}{-2x\left(x-2\right)}$.
 
@@ -524,11 +524,11 @@ By **Definition 18.1.4 (Finding a Common Denominator and Least Common Denominato
 
 (Exercise 18.1, Comprehensive Application, Problem 6) Fill in the blanks:
 
-(1) $\frac{3a}{5xy}=\frac{\left(\;\;\right)}{10 a x y}$ ($a\ne0$);
+(1) $\frac{3a}{5xy}=\frac{\left(\;\;\right)}{10axy}$ ($a\ne0$);
 
 (2) $\frac{a+2}{a^2-4}=\frac{1}{\left(\;\;\right)}$;
 
-(3) $\frac{2 x}{x^2-3 x}=\frac{2}{\left(\;\;\right)}$.
+(3) $\frac{2x}{x^2-3x}=\frac{2}{\left(\;\;\right)}$.
 
 ### Solution to Problem 7
 

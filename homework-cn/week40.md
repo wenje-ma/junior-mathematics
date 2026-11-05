@@ -6,7 +6,7 @@
 
 > **定义 18.1.2 (分式的基本性质)**
 > 
-> 分式的分子与分母乘 (或除以) 同一个不等于 $0$ 的整式, 分式的值不变, 即 $\frac{A}{B}=\frac{A\cdot C}{B\cdot C}=\frac{A\div C}{B\div C}$ ($C\ne0$).
+> 分式的分子与分母乘 (或除以) 同一个不等于 $0$ 的整式, 分式的值不变, 即 $\frac{A}{B}=\frac{A\cdot{C}}{B\cdot{C}}=\frac{A\div{C}}{B\div{C}}$ ($C\ne0$).
 
 > **定义 18.1.3 (约分与最简分式)**
 > 
@@ -30,23 +30,23 @@
 
 > **定义 18.3.1 (同分母分式的加减法)**
 > 
-> $\frac{a}{c}\pm\frac{b}{c}=\frac{a\pm b}{c}$.
+> $\frac{a}{c}\pm\frac{b}{c}=\frac{a\pm{b}}{c}$.
 
 > **定义 18.3.2 (异分母分式的加减法)**
 > 
-> 异分母分式相加减, 先通分, 变为同分母的分式, 再加减, 即 $\frac{a}{b}\pm\frac{c}{d}=\frac{ad\pm bc}{bd}$.
+> 异分母分式相加减, 先通分, 变为同分母的分式, 再加减, 即 $\frac{a}{b}\pm\frac{c}{d}=\frac{ad\pm{b}c}{bd}$.
 
 ## 习题一
 
 (习题 18.1 综合运用第 7 题) 不改变分式的值, 使下列分式的分子和分母都不含负号:
 
-(1) $\frac{-5 y}{-x^2}$;
+(1) $\frac{-5y}{-x^2}$;
 
-(2) $\frac{-a}{2 b}$;
+(2) $\frac{-a}{2b}$;
 
-(3) $\frac{2 m}{-3 n}$;
+(3) $\frac{2m}{-3n}$;
 
-(4) $-\frac{-x}{2 y}$.
+(4) $-\frac{-x}{2y}$.
 
 ### 解答 习题一
 
@@ -80,17 +80,17 @@
 
 ## 习题三
 
-(习题 18.1 拓广探索第 9 题) 甲, 乙两人在高速公路上开车, 甲每小时比乙多走 $20\ \text{km}$, 已知甲行驶 $400\ \text{km}$ 的时间与乙行驶 $300\ \text{km}$ 的时间相同, 求甲, 乙两人的平均速度.
+(习题 18.1 拓广探索第 9 题) 甲, 乙两人在高速公路上开车, 甲每小时比乙多走 $20\,\text{km}$, 已知甲行驶 $400\,\text{km}$ 的时间与乙行驶 $300\,\text{km}$ 的时间相同, 求甲, 乙两人的平均速度.
 
 ### 解答 习题三
 
-设乙的平均速度为 $x\ \text{km/h}$, 则甲为 $\left(x+20\right)\ \text{km/h}$. 由时间相同:
+设乙的平均速度为 $x\,\text{km/h}$, 则甲为 $\left(x+20\right)\,\text{km/h}$. 由时间相同:
 
 $$\frac{400}{x+20}=\frac{300}{x}.$$
 
 交叉相乘: $400x=300\left(x+20\right)=300x+6000$, 解得 $x=60$.
 
-故乙的平均速度为 $60\ \text{km/h}$, 甲为 $80\ \text{km/h}$. $\blacksquare$
+故乙的平均速度为 $60\,\text{km/h}$, 甲为 $80\,\text{km/h}$. $\blacksquare$
 
 ## 习题四
 
@@ -112,39 +112,39 @@ $\blacksquare$
 
 (1) $\frac{3a}{4b}\cdot\frac{2b}{a^2}$;
 
-(2) $\frac{6 x^2 y}{4 x y^2}\cdot\frac{2 x}{3 y}$;
+(2) $\frac{6x^2y}{4xy^2}\cdot\frac{2x}{3y}$;
 
-(3) $\frac{n^2}{2 m}\cdot\frac{4 m}{5 n^3}$;
+(3) $\frac{n^2}{2m}\cdot\frac{4m}{5n^3}$;
 
-(4) $\frac{a+b}{2 ab}\cdot\frac{4 a^2 b}{\left(a+b\right)^2}$.
+(4) $\frac{a+b}{2ab}\cdot\frac{4a^2b}{\left(a+b\right)^2}$.
 
 ### 解答 练习一
 
 由**定义 18.2.1 (分式的乘法法则)**.
 
-(1) $\frac{3a}{4b}\cdot\frac{2b}{a^2}=\frac{6ab}{4a^2 b}=\frac{3}{2a}$.
+(1) $\frac{3a}{4b}\cdot\frac{2b}{a^2}=\frac{6ab}{4a^2b}=\frac{3}{2a}$.
 
-(2) $\frac{6x^2 y}{4xy^2}\cdot\frac{2x}{3y}=\frac{12x^3 y}{12x y^3}=\frac{x^2}{y^2}$.
+(2) $\frac{6x^2y}{4xy^2}\cdot\frac{2x}{3y}=\frac{12x^3y}{12xy^3}=\frac{x^2}{y^2}$.
 
-(3) $\frac{n^2}{2m}\cdot\frac{4m}{5n^3}=\frac{4m n^2}{10m n^3}=\frac{2}{5n}$.
+(3) $\frac{n^2}{2m}\cdot\frac{4m}{5n^3}=\frac{4mn^2}{10mn^3}=\frac{2}{5n}$.
 
-(4) $\frac{a+b}{2ab}\cdot\frac{4a^2 b}{\left(a+b\right)^2}=\frac{4a^2 b\left(a+b\right)}{2ab\left(a+b\right)^2}=\frac{2a}{a+b}$. $\blacksquare$
+(4) $\frac{a+b}{2ab}\cdot\frac{4a^2b}{\left(a+b\right)^2}=\frac{4a^2b\left(a+b\right)}{2ab\left(a+b\right)^2}=\frac{2a}{a+b}$. $\blacksquare$
 
 ## 练习二
 
 (练习 18.2 第 2 题) 计算:
 
-(1) $\frac{4 x}{3 y}\cdot\frac{y}{2 x^3}$;
+(1) $\frac{4x}{3y}\cdot\frac{y}{2x^3}$;
 
-(2) $\frac{a^2 b}{2 c^2}\cdot\frac{-4 c}{5 a b}$.
+(2) $\frac{a^2b}{2c^2}\cdot\frac{-4c}{5ab}$.
 
 ### 解答 练习二
 
 由**定义 18.2.1 (分式的乘法法则)**.
 
-(1) $\frac{4x}{3y}\cdot\frac{y}{2x^3}=\frac{4xy}{6x^3 y}=\frac{2}{3x^2}$.
+(1) $\frac{4x}{3y}\cdot\frac{y}{2x^3}=\frac{4xy}{6x^3y}=\frac{2}{3x^2}$.
 
-(2) $\frac{a^2 b}{2c^2}\cdot\frac{-4c}{5ab}=-\frac{4a^2 bc}{10abc^2}=-\frac{2a}{5c}$. $\blacksquare$
+(2) $\frac{a^2b}{2c^2}\cdot\frac{-4c}{5ab}=-\frac{4a^2bc}{10abc^2}=-\frac{2a}{5c}$. $\blacksquare$
 
 ## 练习三
 
@@ -152,11 +152,11 @@ $\blacksquare$
 
 (1) $\frac{2}{x}\div\frac{4}{x}$;
 
-(2) $\frac{5}{x y}\div\left(-\frac{15}{x}\right)$;
+(2) $\frac{5}{xy}\div\left(-\frac{15}{x}\right)$;
 
-(3) $\frac{4}{3 x y}\div\frac{2}{3 x y^2}$;
+(3) $\frac{4}{3xy}\div\frac{2}{3xy^2}$;
 
-(4) $\frac{a^2-4}{a^2+4 a+4}\div\left(a+2\right)$.
+(4) $\frac{a^2-4}{a^2+4a+4}\div\left(a+2\right)$.
 
 ### 解答 练习三
 
@@ -174,15 +174,15 @@ $\blacksquare$
 
 (练习 18.2 第 2 题) 计算:
 
-(1) $\frac{3 x}{4 y}\cdot\frac{16 y}{9 x^2}$;
+(1) $\frac{3x}{4y}\cdot\frac{16y}{9x^2}$;
 
 (2) $\left(xy-x^2\right)\div\frac{x-y}{xy}$.
 
 ### 解答 练习四
 
-(1) $\frac{3x}{4y}\cdot\frac{16y}{9x^2}=\frac{48xy}{36x^2 y}=\frac{4}{3x}$.
+(1) $\frac{3x}{4y}\cdot\frac{16y}{9x^2}=\frac{48xy}{36x^2y}=\frac{4}{3x}$.
 
-(2) $\left(xy-x^2\right)\div\frac{x-y}{xy}=x\left(y-x\right)\cdot\frac{xy}{x-y}=-x\left(x-y\right)\cdot\frac{xy}{x-y}=-x^2 y$. $\blacksquare$
+(2) $\left(xy-x^2\right)\div\frac{x-y}{xy}=x\left(y-x\right)\cdot\frac{xy}{x-y}=-x\left(x-y\right)\cdot\frac{xy}{x-y}=-x^2y$. $\blacksquare$
 
 ## 练习五
 
@@ -192,7 +192,7 @@ $\blacksquare$
 
 (2) $\left(-\frac{b^2}{a}\right)^3=-\frac{b^6}{a^3}$;
 
-(3) $\left(\frac{2 a}{a+b}\right)^2=\frac{4 a^2}{a^2+b^2}$.
+(3) $\left(\frac{2a}{a+b}\right)^2=\frac{4a^2}{a^2+b^2}$.
 
 ### 解答 练习五
 
@@ -208,9 +208,9 @@ $\blacksquare$
 
 (练习 18.2 第 2 题) 计算:
 
-(1) $\left(\frac{2 x}{-y}\right)^2$;
+(1) $\left(\frac{2x}{-y}\right)^2$;
 
-(2) $\left(\frac{a^2 b}{-c}\right)^3\div\left(\frac{a b}{c^2}\right)^2$.
+(2) $\left(\frac{a^2b}{-c}\right)^3\div\left(\frac{ab}{c^2}\right)^2$.
 
 ### 解答 练习六
 
@@ -218,7 +218,7 @@ $\blacksquare$
 
 (1) $\left(\frac{2x}{-y}\right)^2=\frac{4x^2}{y^2}$.
 
-(2) $\frac{a^6 b^3}{-c^3}\div\frac{a^2 b^2}{c^4}=-\frac{a^6 b^3}{c^3}\cdot\frac{c^4}{a^2 b^2}=-a^4 b c$. $\blacksquare$
+(2) $\frac{a^6b^3}{-c^3}\div\frac{a^2b^2}{c^4}=-\frac{a^6b^3}{c^3}\cdot\frac{c^4}{a^2b^2}=-a^4bc$. $\blacksquare$
 
 ## 习题五
 
@@ -226,11 +226,11 @@ $\blacksquare$
 
 (1) $\frac{3}{a}\cdot\frac{a^2}{9}$;
 
-(2) $\frac{3 y}{6 x^2}\div\frac{y^2}{10 x}$;
+(2) $\frac{3y}{6x^2}\div\frac{y^2}{10x}$;
 
-(3) $\frac{3}{4 x y^3}\cdot\frac{2 x^2 y}{27}$;
+(3) $\frac{3}{4xy^3}\cdot\frac{2x^2y}{27}$;
 
-(4) $\frac{6 a b^2}{c^2 d}\div\frac{3 a b}{2 c d^2}$.
+(4) $\frac{6ab^2}{c^2d}\div\frac{3ab}{2cd^2}$.
 
 ### 解答 习题五
 
@@ -238,27 +238,27 @@ $\blacksquare$
 
 (2) $\frac{3y}{6x^2}\div\frac{y^2}{10x}=\frac{3y}{6x^2}\cdot\frac{10x}{y^2}=\frac{5}{xy}$.
 
-(3) $\frac{3}{4xy^3}\cdot\frac{2x^2 y}{27}=\frac{6x^2 y}{108xy^3}=\frac{x}{18y^2}$.
+(3) $\frac{3}{4xy^3}\cdot\frac{2x^2y}{27}=\frac{6x^2y}{108xy^3}=\frac{x}{18y^2}$.
 
-(4) $\frac{6ab^2}{c^2 d}\div\frac{3ab}{2cd^2}=\frac{6ab^2}{c^2 d}\cdot\frac{2cd^2}{3ab}=\frac{4bd}{c}$. $\blacksquare$
+(4) $\frac{6ab^2}{c^2d}\div\frac{3ab}{2cd^2}=\frac{6ab^2}{c^2d}\cdot\frac{2cd^2}{3ab}=\frac{4bd}{c}$. $\blacksquare$
 
 ## 习题六
 
 (习题 18.2 复习巩固第 2 题) 计算:
 
-(1) $\frac{2 a}{a+1}+\frac{a^2}{a+1}$;
+(1) $\frac{2a}{a+1}+\frac{a^2}{a+1}$;
 
-(2) $\frac{m^2-16}{12-3 m}\div\frac{m+4}{m^2-4 m}$;
+(2) $\frac{m^2-16}{12-3m}\div\frac{m+4}{m^2-4m}$;
 
 (3) $\frac{x^2+x}{x-1}\div\frac{x}{x-1}$;
 
-(4) $\frac{2 x}{x-1}\div\frac{x}{x-1}$.
+(4) $\frac{2x}{x-1}\div\frac{x}{x-1}$.
 
 ### 解答 习题六
 
 (1) 注意此为加法, $\frac{2a}{a+1}+\frac{a^2}{a+1}=\frac{a^2+2a}{a+1}=\frac{a\left(a+2\right)}{a+1}$.
 
-(2) $\frac{m^2-16}{12-3m}\div\frac{m+4}{m^2-4m}=\frac{\left(m+4\right)\left(m-4\right)}{3\left(4-m\right)}\cdot\frac{m\left(m-4\right)}{m+4}=\frac{\left(m-4\right)}{3\left(-\left(m-4\right)\right)}\cdot m\left(m-4\right)=-\frac{m\left(m-4\right)}{3}$.
+(2) $\frac{m^2-16}{12-3m}\div\frac{m+4}{m^2-4m}=\frac{\left(m+4\right)\left(m-4\right)}{3\left(4-m\right)}\cdot\frac{m\left(m-4\right)}{m+4}=\frac{\left(m-4\right)}{3\left(-\left(m-4\right)\right)}\cdot{m}\left(m-4\right)=-\frac{m\left(m-4\right)}{3}$.
 
 (3) $\frac{x^2+x}{x-1}\div\frac{x}{x-1}=\frac{x\left(x+1\right)}{x-1}\cdot\frac{x-1}{x}=x+1$.
 
@@ -268,11 +268,11 @@ $\blacksquare$
 
 (习题 18.2 复习巩固第 3 题) 计算:
 
-(1) $\left(\frac{-2 a^2 b}{3 c}\right)^3$;
+(1) $\left(\frac{-2a^2b}{3c}\right)^3$;
 
-(2) $\left(\frac{2 x}{-y}\right)^2$;
+(2) $\left(\frac{2x}{-y}\right)^2$;
 
-(3) $\left(\frac{a^2 b}{-c}\right)^3\div\left(\frac{a b^2}{c^2}\right)^2$;
+(3) $\left(\frac{a^2b}{-c}\right)^3\div\left(\frac{ab^2}{c^2}\right)^2$;
 
 (4) $\left(\frac{x^2}{y}\right)^2\cdot\left(-\frac{y^2}{x}\right)^3$.
 
@@ -280,25 +280,25 @@ $\blacksquare$
 
 由**定义 18.2.3 (分式的乘方)**.
 
-(1) $\left(\frac{-2a^2 b}{3c}\right)^3=-\frac{8a^6 b^3}{27c^3}$.
+(1) $\left(\frac{-2a^2b}{3c}\right)^3=-\frac{8a^6b^3}{27c^3}$.
 
 (2) $\left(\frac{2x}{-y}\right)^2=\frac{4x^2}{y^2}$.
 
-(3) $\frac{-a^6 b^3}{c^3}\div\frac{a^2 b^4}{c^4}=-\frac{a^6 b^3}{c^3}\cdot\frac{c^4}{a^2 b^4}=-\frac{a^4 c}{b}$.
+(3) $\frac{-a^6b^3}{c^3}\div\frac{a^2b^4}{c^4}=-\frac{a^6b^3}{c^3}\cdot\frac{c^4}{a^2b^4}=-\frac{a^4c}{b}$.
 
-(4) $\frac{x^4}{y^2}\cdot\left(-\frac{y^6}{x^3}\right)=-x y^4$. $\blacksquare$
+(4) $\frac{x^4}{y^2}\cdot\left(-\frac{y^6}{x^3}\right)=-xy^4$. $\blacksquare$
 
 ## 习题八
 
 (习题 18.2 综合运用第 4 题) 计算:
 
-(1) $\left(\frac{a^2 b}{-c}\right)^2\cdot\left(\frac{c^2}{-ab}\right)^3\div\left(\frac{bc}{a}\right)^4$;
+(1) $\left(\frac{a^2b}{-c}\right)^2\cdot\left(\frac{c^2}{-ab}\right)^3\div\left(\frac{bc}{a}\right)^4$;
 
-(2) $\frac{a-b}{a^2+a b}\div\frac{a^2-a b}{a^2-b^2}$.
+(2) $\frac{a-b}{a^2+ab}\div\frac{a^2-ab}{a^2-b^2}$.
 
 ### 解答 习题八
 
-(1) $\frac{a^4 b^2}{c^2}\cdot\left(-\frac{c^6}{a^3 b^3}\right)\div\frac{b^4 c^4}{a^4}=-\frac{a^4 b^2 c^6}{a^3 b^3 c^2}\cdot\frac{a^4}{b^4 c^4}=-\frac{a^5}{b^5}$.
+(1) $\frac{a^4b^2}{c^2}\cdot\left(-\frac{c^6}{a^3b^3}\right)\div\frac{b^4c^4}{a^4}=-\frac{a^4b^2c^6}{a^3b^3c^2}\cdot\frac{a^4}{b^4c^4}=-\frac{a^5}{b^5}$.
 
 (2) $\frac{a-b}{a\left(a+b\right)}\div\frac{a\left(a-b\right)}{\left(a+b\right)\left(a-b\right)}=\frac{a-b}{a\left(a+b\right)}\cdot\frac{\left(a+b\right)\left(a-b\right)}{a\left(a-b\right)}=\frac{a-b}{a^2}$. $\blacksquare$
 
@@ -306,9 +306,9 @@ $\blacksquare$
 
 (习题 18.2 综合运用第 5 题) 计算:
 
-(1) $\frac{m}{3 n}\div\frac{n}{9 m}\cdot\frac{3 m}{n^2}$;
+(1) $\frac{m}{3n}\div\frac{n}{9m}\cdot\frac{3m}{n^2}$;
 
-(2) $\left(\frac{2 x}{x+y}-\frac{x}{x-y}\right)\cdot\frac{x^2-y^2}{x}$.
+(2) $\left(\frac{2x}{x+y}-\frac{x}{x-y}\right)\cdot\frac{x^2-y^2}{x}$.
 
 ### 解答 习题九
 
@@ -318,23 +318,23 @@ $\blacksquare$
 
 ## 习题十
 
-(习题 18.2 综合运用第 6 题) 如图, 甲, 乙两块长方形花坛, 甲花坛的长为 $a$, 宽为 $b$; 乙花坛的长为 $\left(a+b\right)$, 宽为 $\left(a-b\right)$ ($a> b$). 哪个花坛的面积大? 大多少?
+(习题 18.2 综合运用第 6 题) 如图, 甲, 乙两块长方形花坛, 甲花坛的长为 $a$, 宽为 $b$; 乙花坛的长为 $\left(a+b\right)$, 宽为 $\left(a-b\right)$ ($a>{}b$). 哪个花坛的面积大? 大多少?
 
-图中左右并排两个长方形花坛: 左边甲花坛长为 $a$, 宽为 $b$; 右边乙花坛长为 $\left(a+b\right)$, 宽为 $\left(a-b\right)$ ($a> b$).
+图中左右并排两个长方形花坛: 左边甲花坛长为 $a$, 宽为 $b$; 右边乙花坛长为 $\left(a+b\right)$, 宽为 $\left(a-b\right)$ ($a>{}b$).
 
 ### 解答 习题十
 
 甲花坛面积 $S_1=ab$, 乙花坛面积 $S_2=\left(a+b\right)\left(a-b\right)=a^2-b^2$.
 
-比较 $S_2-S_1=a^2-b^2-ab$. 由 $a> b> 0$, 例如 $a=2,b=1$ 时 $S_2=3$, $S_1=2$, $S_2> S_1$. 一般地, 题目问"哪个大, 大多少":
+比较 $S_2-S_1=a^2-b^2-ab$. 由 $a>{}b>0$, 例如 $a=2,b=1$ 时 $S_2=3$, $S_1=2$, $S_2>{}S_1$. 一般地, 题目问"哪个大, 大多少":
 
 $$S_2-S_1=a^2-b^2-ab.$$
 
-当 $a^2-ab-b^2> 0$ 即 $a> \frac{1+\sqrt5}{2}b$ 时乙花坛大. 教材设定下乙花坛面积为 $a^2-b^2$, 甲为 $ab$, 乙比甲大 $\left(a^2-b^2-ab\right)$. $\blacksquare$
+当 $a^2-ab-b^2>0$ 即 $a>\frac{1+\sqrt5}{2}b$ 时乙花坛大. 教材设定下乙花坛面积为 $a^2-b^2$, 甲为 $ab$, 乙比甲大 $\left(a^2-b^2-ab\right)$. $\blacksquare$
 
 ## 习题十一
 
-(习题 18.2 综合运用第 7 题) 一辆汽车往返于相距 $a\ \text{km}$ 的甲, 乙两地, 去时速度为 $v_1\ \text{km/h}$, 返回速度为 $v_2\ \text{km/h}$, 求往返一次的平均速度.
+(习题 18.2 综合运用第 7 题) 一辆汽车往返于相距 $a\,\text{km}$ 的甲, 乙两地, 去时速度为 $v_1\,\text{km/h}$, 返回速度为 $v_2\,\text{km/h}$, 求往返一次的平均速度.
 
 ### 解答 习题十一
 
@@ -342,13 +342,13 @@ $$S_2-S_1=a^2-b^2-ab.$$
 
 平均速度
 
-$$\overline v=\frac{2a}{\frac{a}{v_1}+\frac{a}{v_2}}=\frac{2a}{a\frac{v_1+v_2}{v_1 v_2}}=\frac{2v_1 v_2}{v_1+v_2}\ \left(\text{km/h}\right).$$
+$$\overline{v}=\frac{2a}{\frac{a}{v_1}+\frac{a}{v_2}}=\frac{2a}{a\frac{v_1+v_2}{v_1v_2}}=\frac{2v_1v_2}{v_1+v_2}\,\left(\text{km/h}\right).$$
 
 $\blacksquare$
 
 ## 习题十二
 
-(习题 18.2 拓广探索第 8 题) 计算: $\frac{x^2-4 y^2}{x^2+2 x y+y^2}\div\frac{x+2 y}{x^2+xy}\cdot\frac{x}{x-2 y}$.
+(习题 18.2 拓广探索第 8 题) 计算: $\frac{x^2-4y^2}{x^2+2xy+y^2}\div\frac{x+2y}{x^2+xy}\cdot\frac{x}{x-2y}$.
 
 ### 解答 习题十二
 
@@ -384,7 +384,7 @@ $\blacksquare$
 
 (练习 18.3 第 1 题) 计算:
 
-(1) $\frac{1}{2 c^2 d}+\frac{1}{3 c d^2}$;
+(1) $\frac{1}{2c^2d}+\frac{1}{3cd^2}$;
 
 (2) $\frac{1}{p-q}+\frac{1}{p+q}$;
 
@@ -396,7 +396,7 @@ $\blacksquare$
 
 由**定义 18.3.2 (异分母分式的加减法)**.
 
-(1) 公分母 $6c^2 d^2$: $\frac{1}{2c^2 d}+\frac{1}{3cd^2}=\frac{3d+2c}{6c^2 d^2}$.
+(1) 公分母 $6c^2d^2$: $\frac{1}{2c^2d}+\frac{1}{3cd^2}=\frac{3d+2c}{6c^2d^2}$.
 
 (2) 公分母 $\left(p-q\right)\left(p+q\right)$: $\frac{\left(p+q\right)+\left(p-q\right)}{\left(p-q\right)\left(p+q\right)}=\frac{2p}{p^2-q^2}$.
 
@@ -422,13 +422,13 @@ $\blacksquare$
 
 (习题 18.3 复习巩固第 1 题) 计算:
 
-(1) $\frac{3}{a}+\frac{a-15}{5 a}$;
+(1) $\frac{3}{a}+\frac{a-15}{5a}$;
 
-(2) $\frac{2 y}{3 x^2 y^2}+\frac{5 x}{3 x^2 y^2}$;
+(2) $\frac{2y}{3x^2y^2}+\frac{5x}{3x^2y^2}$;
 
 (3) $\frac{a+1}{a-1}-\frac{a}{a-1}$;
 
-(4) $\frac{x^2}{x-2}-\frac{4 x}{x-2}+\frac{4}{x-2}$.
+(4) $\frac{x^2}{x-2}-\frac{4x}{x-2}+\frac{4}{x-2}$.
 
 ### 解答 习题十三
 
@@ -436,7 +436,7 @@ $\blacksquare$
 
 (1) $\frac{15}{5a}+\frac{a-15}{5a}=\frac{a}{5a}=\frac15$.
 
-(2) $\frac{2y+5x}{3x^2 y^2}$.
+(2) $\frac{2y+5x}{3x^2y^2}$.
 
 (3) $\frac{a+1-a}{a-1}=\frac{1}{a-1}$.
 
@@ -470,13 +470,13 @@ $\blacksquare$
 
 (习题 18.3 复习巩固第 3 题) 计算:
 
-(1) $\frac{2 a}{a^2-4}-\frac{1}{a-2}$;
+(1) $\frac{2a}{a^2-4}-\frac{1}{a-2}$;
 
 (2) $\frac{y}{x+y}+\frac{xy}{y^2-x^2}$;
 
 (3) $\frac{1}{x+1}-1+\frac{1}{1-x}$;
 
-(4) $\frac{2 y}{x-y}-\frac{2 x}{y-x}$.
+(4) $\frac{2y}{x-y}-\frac{2x}{y-x}$.
 
 ### 解答 习题十五
 
