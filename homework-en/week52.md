@@ -352,13 +352,13 @@ Hence the selling price per piece should be set at $40$ yuan. $\blacksquare$
 
 The four basic elements of a musical tone are as follows:
 
-(1) **Intensity**: also called loudness; it is the subjective perception by the human ear of the strength of a sound, related to the amplitude of the sound wave; the larger the amplitude, the greater the intensity.
+(1) Intensity: also called loudness; it is the subjective perception by the human ear of the strength of a sound, related to the amplitude of the sound wave; the larger the amplitude, the greater the intensity.
 
-(2) **Pitch**: also called tone; it is the subjective perception by the human ear of the highness or lowness of a sound, related to the vibration frequency of the sound wave; the higher the frequency, the higher the pitch.
+(2) Pitch: also called tone; it is the subjective perception by the human ear of the highness or lowness of a sound, related to the vibration frequency of the sound wave; the higher the frequency, the higher the pitch.
 
-(3) **Duration**: also called note length; that is, how long the sound lasts.
+(3) Duration: also called note length; that is, how long the sound lasts.
 
-(4) **Timbre**: also called tone quality; it is the characteristic quality of the sound produced by different sounding bodies, related to the waveform of the sound wave. $\blacksquare$
+(4) Timbre: also called tone quality; it is the characteristic quality of the sound produced by different sounding bodies, related to the waveform of the sound wave. $\blacksquare$
 
 (Comprehensive and Practical Activity, Activity Preparation, Problem 2) The pitch of a musical tone is related to the vibration frequency of the sound wave. Consult references to learn the relationship between the two.
 
@@ -386,11 +386,11 @@ Explanation from a mathematical point of view: when the frequency ratio of two n
 
 ### Solution to Activity 1, Task 2
 
-**Subtract-third, add-third method**: taking the length of one string as the base (taken as "Gong"), divide the string length into three equal parts and remove one part ("subtract one") to obtain "Zhi"; then divide the resulting string length into three equal parts and add one part ("add one") to obtain "Shang"; alternating subtract and add in this way yields the five notes Gong, Shang, Jue, Zhi and Yu in turn.
+Subtract-third, add-third method: taking the length of one string as the base (taken as "Gong"), divide the string length into three equal parts and remove one part ("subtract one") to obtain "Zhi"; then divide the resulting string length into three equal parts and add one part ("add one") to obtain "Shang"; alternating subtract and add in this way yields the five notes Gong, Shang, Jue, Zhi and Yu in turn.
 
-**Circle-of-fifths system (Pythagorean scale)**: taking one note as the base, repeatedly multiply the frequency by $\frac{3}{2}$ (equivalent to multiplying the string length by $\frac{2}{3}$, i.e. rising by a fifth) to successively generate seven notes.
+Circle-of-fifths system (Pythagorean scale): taking one note as the base, repeatedly multiply the frequency by $\frac{3}{2}$ (equivalent to multiplying the string length by $\frac{2}{3}$, i.e. rising by a fifth) to successively generate seven notes.
 
-**Common point**: both methods use the simple integer frequency ratio $3:2$ (a fifth relationship) to generate pitches, both build the scale on the "perfect fifth" as a harmonious interval, and essentially both generate the notes by repeatedly multiplying by $\frac{3}{2}$ or $\frac{2}{3}$. $\blacksquare$
+Common point: both methods use the simple integer frequency ratio $3:2$ (a fifth relationship) to generate pitches, both build the scale on the "perfect fifth" as a harmonious interval, and essentially both generate the notes by repeatedly multiplying by $\frac{3}{2}$ or $\frac{2}{3}$. $\blacksquare$
 
 (Comprehensive and Practical Activity, Activity 1, Task 3) These tuning methods, such as the subtract-third/add-third method and the circle-of-fifths system, share a common problem: the scales they generate cannot return to the starting pitch, i.e. the notes obtained and the original note do not form an octave relationship. This makes modulation in musical works difficult. Taking the subtract-third/add-third method as an example, can you explain from a mathematical point of view why this shortcoming exists?
 
@@ -408,7 +408,7 @@ From a mathematical point of view, after $12$ fifths the frequency ratio is $\le
 
 ### Solution to Activity 1, Task 4
 
-(1) The tuning method of **twelve-tone equal temperament**: divide one octave (frequency ratio $2:1$) equally into $12$ semitones, with the same frequency ratio between any two adjacent semitones. Let this ratio be $r$; after $12$ semitones the frequency ratio is $r^{12}=2$, so $r=\sqrt\left[12\right]{2}=2^{1/12}$. Thus the frequency of each semitone is $2^{1/12}$ times that of the preceding one, and the frequency ratio of any two adjacent semitones is constant, thoroughly solving the problem of returning to the starting pitch.
+(1) The tuning method of twelve-tone equal temperament: divide one octave (frequency ratio $2:1$) equally into $12$ semitones, with the same frequency ratio between any two adjacent semitones. Let this ratio be $r$; after $12$ semitones the frequency ratio is $r^{12}=2$, so $r=\sqrt\left[12\right]{2}=2^{1/12}$. Thus the frequency of each semitone is $2^{1/12}$ times that of the preceding one, and the frequency ratio of any two adjacent semitones is constant, thoroughly solving the problem of returning to the starting pitch.
 
 (2) Let the frequency ratio between two adjacent notes be $r$. One octave contains $12$ semitones, and the frequency ratio between the two ends of an octave is $2$, so
 

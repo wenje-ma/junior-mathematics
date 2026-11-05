@@ -102,7 +102,7 @@ Let $AE=AF=x$, $BF=BD=y$, and $CD=CE=z$. Then $x+y=c$, $y+z=a$, and $z+x=b$. Sol
 
 ### Solution to Problem 4
 
-By **Definition 30.2.1 (Incircle of a Triangle)** and the conclusion of **Problem 3**.
+By **Definition 30.2.1 (Incircle of a Triangle)** and the conclusion of Problem 3.
 
 The area is $S=\frac12 ab$, and also $S=\frac12 r\left(a+b+c\right)$, hence
 

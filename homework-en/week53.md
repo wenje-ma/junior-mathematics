@@ -66,11 +66,11 @@
 
 ### Solution to Activity 2, Task 1
 
-**Staff notation records pitch**: the staff consists of five parallel horizontal lines; notes on different lines or in different spaces indicate different pitches. The higher the position, the higher the pitch; the lower the position, the lower the pitch. This is like the y-coordinate — the vertical position determines the pitch.
+Staff notation records pitch: the staff consists of five parallel horizontal lines; notes on different lines or in different spaces indicate different pitches. The higher the position, the higher the pitch; the lower the position, the lower the pitch. This is like the y-coordinate — the vertical position determines the pitch.
 
-**Staff notation records duration**: the shape of the note head, the flag, and the different note types (whole note, half note, quarter note, eighth note, etc.) indicate the length of the note's time value. On the staff, notes are arranged from left to right, and the horizontal position corresponds to the order in time. This is like the x-coordinate — the horizontal position and spacing determine the time.
+Staff notation records duration: the shape of the note head, the flag, and the different note types (whole note, half note, quarter note, eighth note, etc.) indicate the length of the note's time value. On the staff, notes are arranged from left to right, and the horizontal position corresponds to the order in time. This is like the x-coordinate — the horizontal position and spacing determine the time.
 
-**Similarity**: the vertical position (line/space) on the staff is like the y-coordinate, recording pitch; the horizontal position and note duration are like the x-coordinate, recording time. The position $\left(x, y\right)$ of each note on the staff is like a point $\left(x, y\right)$ in a rectangular coordinate system — the x-coordinate is time and the y-coordinate is pitch. $\blacksquare$
+Similarity: the vertical position (line/space) on the staff is like the y-coordinate, recording pitch; the horizontal position and note duration are like the x-coordinate, recording time. The position $\left(x, y\right)$ of each note on the staff is like a point $\left(x, y\right)$ in a rectangular coordinate system — the x-coordinate is time and the y-coordinate is pitch. $\blacksquare$
 
 (Comprehensive and Practical Activity, Activity 2, Task 2) Can a function be used to describe the melody of a piece? Taking a passage from "Defend the Yellow River" (lyrics by Guang Weiran, music by Xian Xinghai) as an example, consider the staff above: during the time span represented by the score, what is the relationship between the pitch and the duration of the notes? Can you plot this passage in a rectangular coordinate system?
 

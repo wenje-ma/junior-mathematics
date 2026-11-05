@@ -114,7 +114,7 @@ $$
 S_{\text{圆}}=\pi r^2=\frac{l^2}{4\pi}.
 $$
 
-Forming a rectangle, by **Problem 4**, the maximum area occurs for a square, $S_{\text{矩}}=\frac{l^2}{16}$.
+Forming a rectangle, by Problem 4, the maximum area occurs for a square, $S_{\text{矩}}=\frac{l^2}{16}$.
 
 Comparing the two, $\frac1{4\pi}\approx0.0796> \frac1{16}=0.0625$, hence $S_{\text{圆}}> S_{\text{矩}}$. That is, a line segment of length $l$ encloses a larger circle than any rectangle. $\blacksquare$
 
