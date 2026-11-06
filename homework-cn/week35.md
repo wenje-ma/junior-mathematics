@@ -518,17 +518,17 @@ $$2\times8^x\times16^x=2^1\cdot2^{3x}\cdot2^{4x}=2^{1+7x}.$$
 
 ## 练习九
 
-(练习 16.2 第 4 题) 卫星绕地球运动的速度 (即第一宇宙速度) 是 $7.9\times10^3\,\text{m/s}$, 求卫星绕地球运行 $1\,\text{h}$ 飞过的路程.
+(练习 16.2 第 4 题) 卫星绕地球运动的速度 (即第一宇宙速度) 是 $7.9\times10^3\;\text{m/s}$, 求卫星绕地球运行 $1\;\text{h}$ 飞过的路程.
 
 ### 解答 练习九
 
-路程等于速度乘时间. $1\,\text{h}=3600\,\text{s}=3.6\times10^3\,\text{s}$.
+路程等于速度乘时间. $1\;\text{h}=3600\;\text{s}=3.6\times10^3\;\text{s}$.
 
 $$
 \left(7.9\times10^3\right)\times\left(3.6\times10^3\right)=28.44\times10^6=2.844\times10^7\,\left(\text{m}\right).
 $$
 
-即卫星绕地球运行 $1\,\text{h}$ 飞过的路程约为 $2.844\times10^7\,\text{m}$. $\blacksquare$
+即卫星绕地球运行 $1\;\text{h}$ 飞过的路程约为 $2.844\times10^7\;\text{m}$. $\blacksquare$
 
 ## 练习十
 

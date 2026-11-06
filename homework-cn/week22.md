@@ -93,15 +93,15 @@
 由**定义 9.1.2 (点的坐标)** 读出各机初始坐标:
 
 $$
-A\left(1,1\right),\,B\left(-3,1\right),\,C\left(-1,-1\right),\,D\left(-5,1\right),\,E\left(-2,-2\right),\,F\left(1,-3\right).
+A\left(1,1\right),B\left(-3,1\right),C\left(-1,-1\right),D\left(-5,1\right),E\left(-2,-2\right),F\left(1,-3\right).
 $$
 
-$A$ 飞到 $A'\left(4,3\right)$, 平移向量为 $\left(4-1,\,3-1\right)=\left(3,2\right)$, 即全体向右平移 $3$ 个单位, 向上平移 $2$ 个单位.
+$A$ 飞到 $A'\left(4,3\right)$, 平移向量为 $\left(4-1,3-1\right)=\left(3,2\right)$, 即全体向右平移 $3$ 个单位, 向上平移 $2$ 个单位.
 
 由**性质 9.2.1 (坐标表示平移)**, 各机横坐标加 $3$, 纵坐标加 $2$:
 
 $$
-A'\left(4,3\right),\,B'\left(0,3\right),\,C'\left(2,1\right),\,D'\left(-2,3\right),\,E'\left(1,0\right),\,F'\left(4,-1\right).
+A'\left(4,3\right),B'\left(0,3\right),C'\left(2,1\right),D'\left(-2,3\right),E'\left(1,0\right),F'\left(4,-1\right).
 $$
 
 $\blacksquare$
@@ -119,7 +119,7 @@ $\blacksquare$
 由**性质 9.2.1 (坐标表示平移)**, 向左平移 $2$ 个单位横坐标都减 $2$, 向上平移 $3$ 个单位纵坐标都加 $3$:
 
 $$
-A'\left(-4,1\right),\,B'\left(0,1\right),\,C'\left(1,5\right),\,D'\left(-3,5\right).
+A'\left(-4,1\right),B'\left(0,1\right),C'\left(1,5\right),D'\left(-3,5\right).
 $$
 
 依次连线即得平移后的平行四边形 $A'B'C'D'$. $\blacksquare$
@@ -157,12 +157,12 @@ $$
 由图读出点 $C$ 的坐标为 $\left(5,-3\right)$. 平移使 $A\left(3,6\right)$ 移到 $C\left(5,-3\right)$, 平移向量为
 
 $$
-\left(5-3,\,-3-6\right)=\left(2,-9\right),
+\left(5-3,-3-6\right)=\left(2,-9\right),
 $$
 
 即向右平移 $2$ 个单位长度, 向下平移 $9$ 个单位长度.
 
-由**性质 9.2.1 (坐标表示平移)**, 全体点横坐标加 $2$, 纵坐标减 $9$. 点 $C\left(5,-3\right)$ 平移后对应点 $E=\left(5+2,\,-3-9\right)=\left(7,-12\right)$.
+由**性质 9.2.1 (坐标表示平移)**, 全体点横坐标加 $2$, 纵坐标减 $9$. 点 $C\left(5,-3\right)$ 平移后对应点 $E=\left(5+2,-3-9\right)=\left(7,-12\right)$.
 
 即 $E$ 的坐标为 $\left(7,-12\right)$. $\blacksquare$
 
@@ -247,7 +247,7 @@ $D\left(2,-3\right)$: 横坐标 $2$, 纵坐标 $-3$, 横正纵负, 在第四象�
 由**定义 9.1.2 (点的坐标)**, 过八边形每个顶点分别向 $x$ 轴, $y$ 轴作垂线, 读出垂足对应的数. 八边形关于 $y$ 轴, $x$ 轴都对称, 八个顶点坐标为 (逆时针自左上方起):
 
 $$
-\left(-2,3\right),\,\left(-1,4\right),\,\left(1,4\right),\,\left(2,3\right),\,\left(2,-3\right),\,\left(1,-4\right),\,\left(-1,-4\right),\,\left(-2,-3\right).
+\left(-2,3\right),\left(-1,4\right),\left(1,4\right),\left(2,3\right),\left(2,-3\right),\left(1,-4\right),\left(-1,-4\right),\left(-2,-3\right).
 $$
 
 $\blacksquare$
@@ -294,11 +294,11 @@ $\blacksquare$
 
 ## 复习题五
 
-(复习题 综合运用第 5 题) 如图, 一艘船在雾中航行, 某时刻雷达屏幕上出现了 $A$, $B$, $C$, $D$ 四个目标. 由雷达显示可知, 目标 $A$ 在这艘船的南偏西 $70^\circ$, $4\,n\,\text{mile}$ 处. 写出其他三个目标相对这艘船的方向和距离 (图中中央位置为这艘船的位置).
+(复习题 综合运用第 5 题) 如图, 一艘船在雾中航行, 某时刻雷达屏幕上出现了 $A$, $B$, $C$, $D$ 四个目标. 由雷达显示可知, 目标 $A$ 在这艘船的南偏西 $70^\circ$, $4\,n\;\text{mile}$ 处. 写出其他三个目标相对这艘船的方向和距离 (图中中央位置为这艘船的位置).
 
 ### 解答 复习题五
 
-由用坐标表示地理位置, 用方向角和距离描述. 以船 (屏幕中央) 为观测点, 由 $A$ 在南偏西 $70^\circ$, 距 $4\,n\,\text{mile}$ 标定比例尺与角度基准, 再按屏幕上 $B$, $C$, $D$ 所在方向与到中心的距离, 分别写出它们相对于船的方向角 (如北偏东, 南偏东若干度) 与距离. $\blacksquare$
+由用坐标表示地理位置, 用方向角和距离描述. 以船 (屏幕中央) 为观测点, 由 $A$ 在南偏西 $70^\circ$, 距 $4\,n\;\text{mile}$ 标定比例尺与角度基准, 再按屏幕上 $B$, $C$, $D$ 所在方向与到中心的距离, 分别写出它们相对于船的方向角 (如北偏东, 南偏东若干度) 与距离. $\blacksquare$
 
 ## 复习题六
 

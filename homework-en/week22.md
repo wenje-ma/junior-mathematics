@@ -93,15 +93,15 @@ The figure shows a Cartesian coordinate plane with six planes at positions $A\le
 By **Definition 9.1.2 (Coordinates of a Point)**, read off the initial coordinates of the planes:
 
 $$
-A\left(1,1\right),\,B\left(-3,1\right),\,C\left(-1,-1\right),\,D\left(-5,1\right),\,E\left(-2,-2\right),\,F\left(1,-3\right).
+A\left(1,1\right),B\left(-3,1\right),C\left(-1,-1\right),D\left(-5,1\right),E\left(-2,-2\right),F\left(1,-3\right).
 $$
 
-$A$ flies to $A'\left(4,3\right)$; the translation vector is $\left(4-1,\,3-1\right)=\left(3,2\right)$, i.e. the whole formation is translated right by $3$ units and up by $2$ units.
+$A$ flies to $A'\left(4,3\right)$; the translation vector is $\left(4-1,3-1\right)=\left(3,2\right)$, i.e. the whole formation is translated right by $3$ units and up by $2$ units.
 
 By Representing Translation with Coordinates, add $3$ to the x-coordinate and $2$ to the y-coordinate of each plane:
 
 $$
-A'\left(4,3\right),\,B'\left(0,3\right),\,C'\left(2,1\right),\,D'\left(-2,3\right),\,E'\left(1,0\right),\,F'\left(4,-1\right).
+A'\left(4,3\right),B'\left(0,3\right),C'\left(2,1\right),D'\left(-2,3\right),E'\left(1,0\right),F'\left(4,-1\right).
 $$
 
 $\blacksquare$
@@ -119,7 +119,7 @@ By **Definition 9.1.2 (Coordinates of a Point)**, read off the coordinates of th
 By Representing Translation with Coordinates, translating left by $2$ units subtracts $2$ from every x-coordinate, and translating up by $3$ units adds $3$ to every y-coordinate:
 
 $$
-A'\left(-4,1\right),\,B'\left(0,1\right),\,C'\left(1,5\right),\,D'\left(-3,5\right).
+A'\left(-4,1\right),B'\left(0,1\right),C'\left(1,5\right),D'\left(-3,5\right).
 $$
 
 Connecting them in order gives the translated parallelogram $A'B'C'D'$. $\blacksquare$
@@ -157,12 +157,12 @@ By Representing Translation with Coordinates, compare the coordinate changes of 
 Read off from the figure that point $C$ has coordinates $\left(5,-3\right)$. The translation moves $A\left(3,6\right)$ to $C\left(5,-3\right)$; the translation vector is
 
 $$
-\left(5-3,\,-3-6\right)=\left(2,-9\right),
+\left(5-3,-3-6\right)=\left(2,-9\right),
 $$
 
 i.e. translate right by $2$ units of length and down by $9$ units of length.
 
-By Representing Translation with Coordinates, add $2$ to the x-coordinate and subtract $9$ from the y-coordinate of all points. The corresponding point of point $C\left(5,-3\right)$ after translation is $E=\left(5+2,\,-3-9\right)=\left(7,-12\right)$.
+By Representing Translation with Coordinates, add $2$ to the x-coordinate and subtract $9$ from the y-coordinate of all points. The corresponding point of point $C\left(5,-3\right)$ after translation is $E=\left(5+2,-3-9\right)=\left(7,-12\right)$.
 
 That is, the coordinates of $E$ are $\left(7,-12\right)$. $\blacksquare$
 
@@ -247,7 +247,7 @@ The figure shows an octagon in a Cartesian coordinate plane, symmetric about bot
 By **Definition 9.1.2 (Coordinates of a Point)**, drop perpendiculars from each vertex of the octagon to the $x$-axis and $y$-axis, and read off the numbers corresponding to the feet. The octagon is symmetric about both the $y$-axis and the $x$-axis; the coordinates of its eight vertices are (counterclockwise starting from the upper left):
 
 $$
-\left(-2,3\right),\,\left(-1,4\right),\,\left(1,4\right),\,\left(2,3\right),\,\left(2,-3\right),\,\left(1,-4\right),\,\left(-1,-4\right),\,\left(-2,-3\right).
+\left(-2,3\right),\left(-1,4\right),\left(1,4\right),\left(2,3\right),\left(2,-3\right),\left(1,-4\right),\left(-1,-4\right),\left(-2,-3\right).
 $$
 
 $\blacksquare$
@@ -294,11 +294,11 @@ By **Definition 9.1.2 (Coordinates of a Point)**, read off the coordinates of ea
 
 ## Review Exercise 5
 
-(Review Exercise, Comprehensive Application, Problem 5) As shown in the figure, a ship sails in fog; at a certain moment four targets $A$, $B$, $C$, $D$ appear on the radar screen. The radar display shows that target $A$ is at south by west $70^\circ$, $4\,n\,\text{mile}$ from the ship. Write down the direction and distance of the other three targets relative to the ship (the center position in the figure is the ship's position).
+(Review Exercise, Comprehensive Application, Problem 5) As shown in the figure, a ship sails in fog; at a certain moment four targets $A$, $B$, $C$, $D$ appear on the radar screen. The radar display shows that target $A$ is at south by west $70^\circ$, $4\,n\;\text{mile}$ from the ship. Write down the direction and distance of the other three targets relative to the ship (the center position in the figure is the ship's position).
 
 ### Solution to Review Exercise 5
 
-By Representing Geographic Locations with Coordinates, describe using a direction angle and a distance. Taking the ship (center of the screen) as the observation point, calibrate the scale and angle reference from $A$ being south by west $70^\circ$ and $4\,n\,\text{mile}$ away; then, according to the directions of $B$, $C$, $D$ on the screen and their distances to the center, write down their direction angles (such as north by east, or south by east by so many degrees) and distances relative to the ship. $\blacksquare$
+By Representing Geographic Locations with Coordinates, describe using a direction angle and a distance. Taking the ship (center of the screen) as the observation point, calibrate the scale and angle reference from $A$ being south by west $70^\circ$ and $4\,n\;\text{mile}$ away; then, according to the directions of $B$, $C$, $D$ on the screen and their distances to the center, write down their direction angles (such as north by east, or south by east by so many degrees) and distances relative to the ship. $\blacksquare$
 
 ## Review Exercise 6
 

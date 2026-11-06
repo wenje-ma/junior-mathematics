@@ -34,7 +34,7 @@
 
 Determine whether the triangle formed by the segments \(a,b,c\) is a right triangle:
 
-(1) \(a=9,\,b=40,\,c=41\); (2) \(a=\sqrt{41},\,b=4,\,c=5\); (3) \(a=\frac{5}{4},\,b=1,\,c=\frac{3}{4}\); (4) \(a=40,\,b=50,\,c=60\).
+(1) \(a=9,b=40,c=41\); (2) \(a=\sqrt{41},b=4,c=5\); (3) \(a=\frac{5}{4},b=1,c=\frac{3}{4}\); (4) \(a=40,b=50,c=60\).
 
 By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**.
 
@@ -64,7 +64,7 @@ Therefore \(x=8\) or \(x=2\sqrt{34}\).
 
 (Exercise 20.2, Review and Consolidation, Problem 3)
 
-Liu Wei first walked \(80\,\text{m}\) east, then walked \(60\,\text{m}\) in another direction, and then walked \(100\,\text{m}\) in a third direction, at which point he returned exactly to the starting point. In which direction did Liu Wei walk \(60\,\text{m}\)? Explain why.
+Liu Wei first walked \(80\;\text{m}\) east, then walked \(60\;\text{m}\) in another direction, and then walked \(100\;\text{m}\) in a third direction, at which point he returned exactly to the starting point. In which direction did Liu Wei walk \(60\;\text{m}\)? Explain why.
 
 The three distances \(80,60,100\) form a triangle that returns to the starting point.
 
@@ -72,7 +72,7 @@ From \(80^{2}+60^{2}=6400+3600=10000=100^{2}\).
 
 By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**, these three segments form a right triangle, and the \(80\) and \(60\) segments are perpendicular.
 
-The first segment goes \(80\,\text{m}\) east, so the second segment of \(60\,\text{m}\) goes due south (or due north).
+The first segment goes \(80\;\text{m}\) east, so the second segment of \(60\;\text{m}\) goes due south (or due north).
 
 \(\blacksquare\)
 
@@ -80,7 +80,7 @@ The first segment goes \(80\,\text{m}\) east, so the second segment of \(60\,\te
 
 (Exercise 20.2, Comprehensive Application, Problem 4)
 
-In \(\triangle{A}BC\), \(AB=13,\,BC=10\), and the median \(AD\) to side \(BC\) is \(12\). Find the length of \(AC\).
+In \(\triangle{A}BC\), \(AB=13,BC=10\), and the median \(AD\) to side \(BC\) is \(12\). Find the length of \(AC\).
 
 \(D\) is the midpoint of \(BC\), so \(BD=DC=5\).
 
@@ -188,7 +188,7 @@ Therefore the sum of the areas of all the outermost small squares equals exactly
 
 (Review Problem, Review and Consolidation, Problem 1)
 
-As shown in the figure, point \(D\) lies on side \(AB\) of \(Rt\triangle{A}BC\), \(AD=8,\,DB=2,\,CD=17\). Find the lengths of \(AC\) and \(BC\).
+As shown in the figure, point \(D\) lies on side \(AB\) of \(Rt\triangle{A}BC\), \(AD=8,DB=2,CD=17\). Find the lengths of \(AC\) and \(BC\).
 
 From the figure, \(\angle{A}=90^{\circ}\), so \(AC\perp{A}B\), and \(AB=AD+DB=10\).
 
@@ -212,21 +212,21 @@ so \(BC=\sqrt{325}=5\sqrt{13}\).
 
 (Review Problem, Review and Consolidation, Problem 2)
 
-Two people start from the same point at the same time. One walks due north at \(20\,\text{m/min}\), and the other walks due east at \(30\,\text{m/min}\). How far apart are they after \(10\,\text{min}\) (round to an integer)?
+Two people start from the same point at the same time. One walks due north at \(20\;\text{m/min}\), and the other walks due east at \(30\;\text{m/min}\). How far apart are they after \(10\;\text{min}\) (round to an integer)?
 
-After \(10\,\text{min}\), the northbound person has walked \(200\,\text{m}\) and the eastbound person has walked \(300\,\text{m}\); the two directions are perpendicular.
+After \(10\;\text{min}\), the northbound person has walked \(200\;\text{m}\) and the eastbound person has walked \(300\;\text{m}\); the two directions are perpendicular.
 
 By **Theorem 20.1.1 (Pythagorean Theorem)**, the distance
 
 $$
-d=\sqrt{200^{2}+300^{2}}=\sqrt{130000}\approx361\,\text{m}.
+d=\sqrt{200^{2}+300^{2}}=\sqrt{130000}\approx361\;\text{m}.
 $$
 
 \(\blacksquare\)
 
 (Review Problem, Review and Consolidation, Problem 3)
 
-As shown in the figure, a plane through the apex \(P\) of a cone and the center \(O\) of its base circle cuts the cone in the cross-section \(\triangle{P}AB\), where \(PA=PB\) and \(AB\) is the diameter of the base circle \(O\) of the cone. Given \(PA=7,\,AB=4\), find the area of the cross-section \(\triangle{P}AB\).
+As shown in the figure, a plane through the apex \(P\) of a cone and the center \(O\) of its base circle cuts the cone in the cross-section \(\triangle{P}AB\), where \(PA=PB\) and \(AB\) is the diameter of the base circle \(O\) of the cone. Given \(PA=7,AB=4\), find the area of the cross-section \(\triangle{P}AB\).
 
 In isosceles triangle \(PAB\), the base \(AB=4\), and the altitude to the base passes through the center \(O\) (\(O\) is the midpoint of \(AB\)).
 
@@ -238,17 +238,17 @@ Therefore the area \(S=\frac{1}{2}\times{A}B\times{P}O=\frac{1}{2}\times4\times3
 
 (Review Problem, Review and Consolidation, Problem 4)
 
-As shown in the figure, a tent has length \(l=2.6\,\text{m}\), and its cross-section is an isosceles triangle with base \(a=2\,\text{m}\) and height \(h=1.8\,\text{m}\). How many square meters of fabric are at least needed to make this tent (excluding the bottom) (keep one decimal place)?
+As shown in the figure, a tent has length \(l=2.6\;\text{m}\), and its cross-section is an isosceles triangle with base \(a=2\;\text{m}\) and height \(h=1.8\;\text{m}\). How many square meters of fabric are at least needed to make this tent (excluding the bottom) (keep one decimal place)?
 
 The leg length of the isosceles cross-section triangle is, by **Theorem 20.1.1 (Pythagorean Theorem)**:
 
 $$
-s=\sqrt{\left(\frac{a}{2}\right)^{2}+h^{2}}=\sqrt{1+3.24}=\sqrt{4.24}\approx2.06\,\text{m}.
+s=\sqrt{\left(\frac{a}{2}\right)^{2}+h^{2}}=\sqrt{1+3.24}=\sqrt{4.24}\approx2.06\;\text{m}.
 $$
 
 The two sloping sides of the tent are each rectangles of length \(l\) and width \(s\), excluding the bottom.
 
-Therefore the fabric area is \(2\times{l}\times{s}=2\times2.6\times2.06\approx10.7\,\text{m}^{2}\).
+Therefore the fabric area is \(2\times{l}\times{s}=2\times2.6\times2.06\approx10.7\;\text{m}^{2}\).
 
 \(\blacksquare\)
 
@@ -263,11 +263,11 @@ As shown in the figure, each small square has side length \(1\).
 (1) From the grid-point coordinates, compute each side length:
 
 $$
-AB=\sqrt{3^{2}+4^{2}}=5,\,BC=\sqrt{2^{2}+1^{2}}=\sqrt{5},
+AB=\sqrt{3^{2}+4^{2}}=5,BC=\sqrt{2^{2}+1^{2}}=\sqrt{5},
 $$
 
 $$
-CD=\sqrt{1^{2}+2^{2}}=\sqrt{5},\,DA=\sqrt{3^{2}+1^{2}}=\sqrt{10}.
+CD=\sqrt{1^{2}+2^{2}}=\sqrt{5},DA=\sqrt{3^{2}+1^{2}}=\sqrt{10}.
 $$
 
 The perimeter \(=5+\sqrt{5}+\sqrt{5}+\sqrt{10}=5+2\sqrt{5}+\sqrt{10}\).
@@ -286,7 +286,7 @@ By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**, \(\angle{B}CD\) is 
 
 (Review Problem, Comprehensive Application, Problem 6)
 
-As shown in the figure, in a triangular support, \(AD\perp{B}C\) with foot \(D\), \(AB=2\,\text{m},\,AC=1.5\,\text{m},\,DC=0.9\,\text{m}\).
+As shown in the figure, in a triangular support, \(AD\perp{B}C\) with foot \(D\), \(AB=2\;\text{m},AC=1.5\;\text{m},DC=0.9\;\text{m}\).
 
 (1) Find the length of \(BD\);
 
@@ -294,9 +294,9 @@ As shown in the figure, in a triangular support, \(AD\perp{B}C\) with foot \(D\)
 
 (1) In \(Rt\triangle{A}DC\), \(AD^{2}=AC^{2}-DC^{2}=2.25-0.81=1.44\), so \(AD=1.2\).
 
-In \(Rt\triangle{A}DB\), \(BD^{2}=AB^{2}-AD^{2}=4-1.44=2.56\), so \(BD=1.6\,\text{m}\).
+In \(Rt\triangle{A}DB\), \(BD^{2}=AB^{2}-AD^{2}=4-1.44=2.56\), so \(BD=1.6\;\text{m}\).
 
-(2) \(BC=BD+DC=1.6+0.9=2.5\,\text{m}\).
+(2) \(BC=BD+DC=1.6+0.9=2.5\;\text{m}\).
 
 And \(AB^{2}+AC^{2}=4+2.25=6.25=2.5^{2}=BC^{2}\).
 
@@ -328,7 +328,7 @@ Therefore the break is \(4.55\) chi above the ground.
 
 (Review Problem, Comprehensive Application, Problem 8)
 
-The ancient Greek philosopher Plato once pointed out that if \(m\) is an integer greater than \(1\), \(a=2m,\,b=m^{2}-1,\,c=m^{2}+1\), then \(a,b,c\) is a Pythagorean triple. Do you think this statement is correct? If so, give a proof, and use this conclusion to write out some Pythagorean triples.
+The ancient Greek philosopher Plato once pointed out that if \(m\) is an integer greater than \(1\), \(a=2m,b=m^{2}-1,c=m^{2}+1\), then \(a,b,c\) is a Pythagorean triple. Do you think this statement is correct? If so, give a proof, and use this conclusion to write out some Pythagorean triples.
 
 Calculating:
 
@@ -338,11 +338,11 @@ $$
 
 Also \(a,b,c\) are all positive integers, so by **Definition 20.2.1 (Pythagorean Triples)**, \(a,b,c\) is a Pythagorean triple.
 
-Taking \(m=2\): \(a=4,\,b=3,\,c=5\).
+Taking \(m=2\): \(a=4,b=3,c=5\).
 
-Taking \(m=3\): \(a=6,\,b=8,\,c=10\).
+Taking \(m=3\): \(a=6,b=8,c=10\).
 
-Taking \(m=4\): \(a=8,\,b=15,\,c=17\).
+Taking \(m=4\): \(a=8,b=15,c=17\).
 
 \(\blacksquare\)
 
@@ -362,12 +362,12 @@ Cut the original rectangle (a \(1\times5\) strip) along segments of length \(\sq
 
 (Review Problem, Extension and Exploration, Problem 10)
 
-Can a \(70\,\text{cm}\) stick fit inside a rectangular wooden box with length, width and height \(50\,\text{cm},40\,\text{cm},30\,\text{cm}\)?
+Can a \(70\;\text{cm}\) stick fit inside a rectangular wooden box with length, width and height \(50\;\text{cm},40\;\text{cm},30\;\text{cm}\)?
 
 The space diagonal of the rectangular box, by the extension of **Theorem 20.1.1 (Pythagorean Theorem)**:
 
 $$
-d=\sqrt{50^{2}+40^{2}+30^{2}}=\sqrt{2500+1600+900}=\sqrt{5000}\approx70.7\,\text{cm}.
+d=\sqrt{50^{2}+40^{2}+30^{2}}=\sqrt{2500+1600+900}=\sqrt{5000}\approx70.7\;\text{cm}.
 $$
 
 Since \(70.7>70\), the stick fits inside the box.
@@ -376,17 +376,17 @@ Since \(70.7>70\), the stick fits inside the box.
 
 (Review Problem, Extension and Exploration, Problem 11)
 
-A rectangular stone bench in a park is shown in the figure. If an ant crawls from point \(M\) to point \(N\) at \(3\,\text{cm/s}\), what is the shortest time needed (keep one decimal place)?
+A rectangular stone bench in a park is shown in the figure. If an ant crawls from point \(M\) to point \(N\) at \(3\;\text{cm/s}\), what is the shortest time needed (keep one decimal place)?
 
-The bench is \(40\,\text{cm}\) long and \(30\,\text{cm}\) high. The ant crawls along the surface from \(M\) to \(N\); after unfolding the surface, the shortest path is the hypotenuse of legs \(40\) and \(30\).
+The bench is \(40\;\text{cm}\) long and \(30\;\text{cm}\) high. The ant crawls along the surface from \(M\) to \(N\); after unfolding the surface, the shortest path is the hypotenuse of legs \(40\) and \(30\).
 
 By **Theorem 20.1.1 (Pythagorean Theorem)**,
 
 $$
-MN=\sqrt{40^{2}+30^{2}}=\sqrt{2500}=50\,\text{cm}.
+MN=\sqrt{40^{2}+30^{2}}=\sqrt{2500}=50\;\text{cm}.
 $$
 
-The time \(t=\frac{50}{3}\approx16.7\,\text{s}\).
+The time \(t=\frac{50}{3}\approx16.7\;\text{s}\).
 
 \(\blacksquare\)
 
@@ -564,11 +564,11 @@ Regular decagon: \(\frac{8\times180^{\circ}}{10}=144^{\circ}\).
 
 (Exercise 21.1, Comprehensive Application, Problem 5)
 
-As shown in the figure, in quadrilateral \(ABCD\), \(\angle{A}=\angle{C},\,\angle{B}=\angle{D}\). What is the positional relation between \(AB\) and \(DC\)? Why? What about \(BC\) and \(AD\)?
+As shown in the figure, in quadrilateral \(ABCD\), \(\angle{A}=\angle{C},\angle{B}=\angle{D}\). What is the positional relation between \(AB\) and \(DC\)? Why? What about \(BC\) and \(AD\)?
 
 By Basic Knowledge, \(\angle{A}+\angle{B}+\angle{C}+\angle{D}=360^{\circ}\).
 
-Substituting \(\angle{A}=\angle{C},\,\angle{B}=\angle{D}\), we get \(2\angle{A}+2\angle{B}=360^{\circ}\), i.e. \(\angle{A}+\angle{B}=180^{\circ}\).
+Substituting \(\angle{A}=\angle{C},\angle{B}=\angle{D}\), we get \(2\angle{A}+2\angle{B}=360^{\circ}\), i.e. \(\angle{A}+\angle{B}=180^{\circ}\).
 
 The consecutive interior angles are supplementary, so \(AD\parallel{B}C\).
 
@@ -594,7 +594,7 @@ $$
 
 (Exercise 21.1, Comprehensive Application, Problem 7)
 
-As shown in the figure, the interior angles of pentagon \(ABCDE\) are all equal, and \(\angle1=\angle2,\,\angle3=\angle4\). Find the value of \(x\).
+As shown in the figure, the interior angles of pentagon \(ABCDE\) are all equal, and \(\angle1=\angle2,\angle3=\angle4\). Find the value of \(x\).
 
 Each interior angle of the pentagon is \(108^{\circ}\).
 

@@ -264,7 +264,7 @@ $MN$ perpendicularly bisects $AB$, so $MN$ passes through the center $O$. Also $
 
 ## Problem 8
 
-(Exercise 29.2, Comprehensive Application, Problem 8) As shown in the figure, a bend in a road is an arc $\overset{\frown}{AB}$, and the point $O$ is the center of the circle containing this arc. $AB=300\,\text{m}$, $C$ is a point on $\overset{\frown}{AB}$, $OC\perp{A}B$ with foot $D$, and $CD=45\,\text{m}$. Find the radius of the circle containing this bend.
+(Exercise 29.2, Comprehensive Application, Problem 8) As shown in the figure, a bend in a road is an arc $\overset{\frown}{AB}$, and the point $O$ is the center of the circle containing this arc. $AB=300\;\text{m}$, $C$ is a point on $\overset{\frown}{AB}$, $OC\perp{A}B$ with foot $D$, and $CD=45\;\text{m}$. Find the radius of the circle containing this bend.
 
 ### Solution to Problem 8
 
@@ -276,7 +276,7 @@ $$
 R^2=150^2+\left(R-45\right)^2=22500+R^2-90R+2025.
 $$
 
-Simplifying gives $90R=24525$, so $R=272.5\,\text{m}$. $\blacksquare$
+Simplifying gives $90R=24525$, so $R=272.5\;\text{m}$. $\blacksquare$
 
 ## Problem 9
 
@@ -320,7 +320,7 @@ Let the radius be $R$; then $OM=\sqrt{R^2-\left(AB/2\right)^2}$ and $ON=\sqrt{R^
 
 ## Problem 13
 
-(Exercise 29.2, Extension and Exploration, Problem 13) As shown in the figure, the railway $MN$ and the highway $PQ$ intersect at the point $O$, with $\angle{Q}ON=30^\circ$. There is a residential building at the point $A$, and $AO=200\,\text{m}$. If, when the train runs, the area within $200\,\text{m}$ around it is affected by noise, will the residential building be affected by noise as the train travels along $MN$ in the direction of $QN$? If the train's speed is $72\,\text{km/h}$, for how many seconds is the residential building affected by noise?
+(Exercise 29.2, Extension and Exploration, Problem 13) As shown in the figure, the railway $MN$ and the highway $PQ$ intersect at the point $O$, with $\angle{Q}ON=30^\circ$. There is a residential building at the point $A$, and $AO=200\;\text{m}$. If, when the train runs, the area within $200\;\text{m}$ around it is affected by noise, will the residential building be affected by noise as the train travels along $MN$ in the direction of $QN$? If the train's speed is $72\;\text{km/h}$, for how many seconds is the residential building affected by noise?
 
 ### Solution to Problem 13
 
@@ -328,10 +328,10 @@ By **Corollary 29.2.2 (Corollary to the Inscribed Angle Theorem)**.
 
 Through $A$ draw $AB\perp{M}N$ at $B$. In $\text{Rt}\triangle{A}OB$, $\angle{A}OB=30^\circ$ and $AO=200$, so $AB=AO\sin30^\circ=100<200$, and the residential building will be affected by noise.
 
-Draw a circle centered at $A$ with radius $200$, meeting $MN$ at $C$ and $D$. $BC=\sqrt{200^2-100^2}=100\sqrt3$, and $CD=200\sqrt3$. The train speed is $72\,\text{km/h}=20\,\text{m/s}$, so the duration of the effect is
+Draw a circle centered at $A$ with radius $200$, meeting $MN$ at $C$ and $D$. $BC=\sqrt{200^2-100^2}=100\sqrt3$, and $CD=200\sqrt3$. The train speed is $72\;\text{km/h}=20\;\text{m/s}$, so the duration of the effect is
 
 $$
-\frac{200\sqrt3}{20}=10\sqrt3\approx17.3\,\text{s}.
+\frac{200\sqrt3}{20}=10\sqrt3\approx17.3\;\text{s}.
 $$
 
 $\blacksquare$
@@ -358,14 +358,14 @@ Not necessarily. Equal arcs require that they be able to coincide in the same ci
 
 ## Exercise 11
 
-(Exercise 29.3, Problem 2) As shown in the figure, a bend in a road is a circular arc, the bend is $12\,\text{m}$ long, and the central angle subtended by the arc is $81^\circ$. What is the radius $R$, in meters, of the circle containing this arc?
+(Exercise 29.3, Problem 2) As shown in the figure, a bend in a road is a circular arc, the bend is $12\;\text{m}$ long, and the central angle subtended by the arc is $81^\circ$. What is the radius $R$, in meters, of the circle containing this arc?
 
 ### Solution to Exercise 11
 
 By Arc Length Formula.
 
 $$
-12=\frac{81\pi{R}}{180},\quad{R}=\frac{12\times180}{81\pi}=\frac{240}{9\pi}\approx8.5\,\text{m}.
+12=\frac{81\pi{R}}{180},\quad{R}=\frac{12\times180}{81\pi}=\frac{240}{9\pi}\approx8.5\;\text{m}.
 $$
 
 $\blacksquare$
@@ -404,13 +404,13 @@ The base circumference is $2\pi\cdot6=12\pi$, which is the arc length of the sec
 
 ## Exercise 14
 
-(Exercise 29.3, Problem 2) As shown in the figure, the base circle of a conical chimney cap has diameter $80\,\text{cm}$, and the generatrix length is $50\,\text{cm}$. To make $100$ such chimney caps, at least how many square meters of sheet iron are needed?
+(Exercise 29.3, Problem 2) As shown in the figure, the base circle of a conical chimney cap has diameter $80\;\text{cm}$, and the generatrix length is $50\;\text{cm}$. To make $100$ such chimney caps, at least how many square meters of sheet iron are needed?
 
 ### Solution to Exercise 14
 
 By Lateral and Total Surface Area of a Cone.
 
-The base radius is $r=40\,\text{cm}$, and the lateral area of one chimney cap is $\pi\cdot40\cdot50=2000\pi\,\text{cm}^2$. For $100$ caps the total is $200000\pi\,\text{cm}^2=20\pi\,\text{m}^2\approx62.8\,\text{m}^2$. $\blacksquare$
+The base radius is $r=40\;\text{cm}$, and the lateral area of one chimney cap is $\pi\cdot40\cdot50=2000\pi\;\text{cm}^2$. For $100$ caps the total is $200000\pi\;\text{cm}^2=20\pi\;\text{m}^2\approx62.8\;\text{m}^2$. $\blacksquare$
 
 ## Problem 15
 
@@ -476,7 +476,7 @@ Rotating about $AB$: two cones with a common base, base radius $r=\frac{3\times4
 
 ## Problem 19
 
-(Exercise 29.3, Comprehensive Application, Problem 5) In navigation, $1\,\text{n~mile}$ is approximately equal to the arc length subtended by a central angle of $1'$ in the circle of the equator. Given that the Earth's radius is about $6370\,\text{km}$, about how many meters is $1\,\text{n~mile}$?
+(Exercise 29.3, Comprehensive Application, Problem 5) In navigation, $1\;\text{n~mile}$ is approximately equal to the arc length subtended by a central angle of $1'$ in the circle of the equator. Given that the Earth's radius is about $6370\;\text{km}$, about how many meters is $1\;\text{n~mile}$?
 
 ### Solution to Problem 19
 
@@ -485,14 +485,14 @@ By Arc Length Formula.
 $1'=\frac{1}{60}^\circ$, so
 
 $$
-l=\frac{\pi\cdot6370}{180\cdot60}\approx1.853\,\text{km}=1853\,\text{m}.
+l=\frac{\pi\cdot6370}{180\cdot60}\approx1.853\;\text{km}=1853\;\text{m}.
 $$
 
 $\blacksquare$
 
 ## Problem 20
 
-(Exercise 29.3, Comprehensive Application, Problem 6) As shown in the figure, after a sector paper fan is fully opened, the angle between the lines on which the outer two bamboo ribs lie, $AB$ and $AC$, is $120^\circ$. If $AB$ has length $30\,\text{cm}$ and $BD$ has length $20\,\text{cm}$, find the area of the fan surface $BDEC$.
+(Exercise 29.3, Comprehensive Application, Problem 6) As shown in the figure, after a sector paper fan is fully opened, the angle between the lines on which the outer two bamboo ribs lie, $AB$ and $AC$, is $120^\circ$. If $AB$ has length $30\;\text{cm}$ and $BD$ has length $20\;\text{cm}$, find the area of the fan surface $BDEC$.
 
 ### Solution to Problem 20
 
@@ -501,29 +501,29 @@ By Sector Area Formula.
 The fan surface area is the large sector (radius $30$) minus the small sector (radius $10$):
 
 $$
-\frac{120\pi}{360}\left(30^2-10^2\right)=\frac{\pi}{3}\cdot800=\frac{800\pi}{3}\approx837\,\text{cm}^2.
+\frac{120\pi}{360}\left(30^2-10^2\right)=\frac{\pi}{3}\cdot800=\frac{800\pi}{3}\approx837\;\text{cm}^2.
 $$
 
 $\blacksquare$
 
 ## Problem 21
 
-(Exercise 29.3, Comprehensive Application, Problem 7) As shown in the figure, the top of a granary is conical; the base circle of this cone has circumference $32\,\text{m}$ and generatrix length $7\,\text{m}$. To keep out the rain, felt needs to be laid over its top. At least how much felt area is required?
+(Exercise 29.3, Comprehensive Application, Problem 7) As shown in the figure, the top of a granary is conical; the base circle of this cone has circumference $32\;\text{m}$ and generatrix length $7\;\text{m}$. To keep out the rain, felt needs to be laid over its top. At least how much felt area is required?
 
 ### Solution to Problem 21
 
 By Lateral and Total Surface Area of a Cone.
 
-The lateral area is $\frac12\cdot32\cdot7=112\,\text{m}^2$. $\blacksquare$
+The lateral area is $\frac12\cdot32\cdot7=112\;\text{m}^2$. $\blacksquare$
 
 ## Problem 22
 
-(Exercise 29.3, Extension and Exploration, Problem 8) As shown in the figure, a sector with central angle $90^\circ$ is cut from a circular sheet of iron of diameter $1\,\text{m}$. Find the area of the remaining part. If the cut-out sector is formed into a cone, what is the radius of the cone's base circle?
+(Exercise 29.3, Extension and Exploration, Problem 8) As shown in the figure, a sector with central angle $90^\circ$ is cut from a circular sheet of iron of diameter $1\;\text{m}$. Find the area of the remaining part. If the cut-out sector is formed into a cone, what is the radius of the cone's base circle?
 
 ### Solution to Problem 22
 
 By Basic Knowledge and Basic Knowledge.
 
-The circle radius is $0.5\,\text{m}$. The sector radius is $\frac{\sqrt2}{2}\,\text{m}$ (half the diagonal of the square). The sector area is $\frac{90\pi}{360}\cdot\left(\frac{\sqrt2}{2}\right)^2=\frac{\pi}{8}$. The circle area is $\pi\cdot0.5^2=\frac{\pi}{4}$, so the remaining area is $\frac{\pi}{4}-\frac{\pi}{8}=\frac{\pi}{8}\,\text{m}^2$.
+The circle radius is $0.5\;\text{m}$. The sector radius is $\frac{\sqrt2}{2}\;\text{m}$ (half the diagonal of the square). The sector area is $\frac{90\pi}{360}\cdot\left(\frac{\sqrt2}{2}\right)^2=\frac{\pi}{8}$. The circle area is $\pi\cdot0.5^2=\frac{\pi}{4}$, so the remaining area is $\frac{\pi}{4}-\frac{\pi}{8}=\frac{\pi}{8}\;\text{m}^2$.
 
-The sector arc length is $l=\frac{90\pi}{180}\cdot\frac{\sqrt2}{2}=\frac{\sqrt2\pi}{4}$, so the cone's base radius is $r=\frac{l}{2\pi}=\frac{\sqrt2}{8}\approx0.18\,\text{m}$. $\blacksquare$
+The sector arc length is $l=\frac{90\pi}{180}\cdot\frac{\sqrt2}{2}=\frac{\sqrt2\pi}{4}$, so the cone's base radius is $r=\frac{l}{2\pi}=\frac{\sqrt2}{8}\approx0.18\;\text{m}$. $\blacksquare$

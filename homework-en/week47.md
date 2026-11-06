@@ -134,13 +134,13 @@ An arbitrary quadrilateral has interior angle sum \(360^{\circ}\), and four diff
 
 In \(\square{A}BCD\),
 
-(1) Given \(AB=5,\,BC=3\), find the lengths of the other two sides;
+(1) Given \(AB=5,BC=3\), find the lengths of the other two sides;
 
 (2) Given \(\angle{A}=38^{\circ}\), find the degree measures of the other interior angles.
 
 By Basic Knowledge and Basic Knowledge.
 
-(1) \(CD=AB=5,\,DA=BC=3\).
+(1) \(CD=AB=5,DA=BC=3\).
 
 (2) \(\angle{C}=\angle{A}=38^{\circ}\); adjacent angles are supplementary, \(\angle{B}=\angle{D}=180^{\circ}-38^{\circ}=142^{\circ}\).
 
@@ -148,9 +148,9 @@ By Basic Knowledge and Basic Knowledge.
 
 (Exercise 21.2.1, Problem 2)
 
-As shown in the figure, the diagonals \(AC,BD\) of \(\square{A}BCD\) intersect at point \(O\), \(BC=10,\,AC=8,\,BD=14\). What is the perimeter of \(\triangle{A}OD\)? Which of \(\triangle{A}BC\) and \(\triangle{D}BC\) has the longer perimeter? By how much?
+As shown in the figure, the diagonals \(AC,BD\) of \(\square{A}BCD\) intersect at point \(O\), \(BC=10,AC=8,BD=14\). What is the perimeter of \(\triangle{A}OD\)? Which of \(\triangle{A}BC\) and \(\triangle{D}BC\) has the longer perimeter? By how much?
 
-By Basic Knowledge, \(OA=OC=4,\,OD=OB=7\).
+By Basic Knowledge, \(OA=OC=4,OD=OB=7\).
 
 Also \(AD=BC=10\), so the perimeter of \(\triangle{A}OD\) \(=4+7+10=21\).
 
@@ -202,13 +202,13 @@ And \(CD+AD=\frac{16}{2}=8\).
 
 (Exercise 21.2.2, Problem 3)
 
-As shown in the figure, in trapezoid \(ABCD\), \(AD\parallel{B}C,\,\angle{C}=90^{\circ},\,AD=3,\,AB=4,\,BC=5\), \(E\) is a point on side \(BC\), and \(AB\parallel{D}E\). Find the distance between \(AD\) and \(BC\).
+As shown in the figure, in trapezoid \(ABCD\), \(AD\parallel{B}C,\angle{C}=90^{\circ},AD=3,AB=4,BC=5\), \(E\) is a point on side \(BC\), and \(AB\parallel{D}E\). Find the distance between \(AD\) and \(BC\).
 
 Since \(AD\parallel{B}C\) and \(AB\parallel{D}E\), quadrilateral \(ABED\) is a parallelogram, so \(BE=AD=3\).
 
 Hence \(EC=BC-BE=2\).
 
-In \(Rt\triangle{D}EC\), \(DE=AB=4,\,EC=2\); by the Pythagorean theorem
+In \(Rt\triangle{D}EC\), \(DE=AB=4,EC=2\); by the Pythagorean theorem
 
 $$
 DC=\sqrt{DE^{2}-EC^{2}}=\sqrt{16-4}=\sqrt{12}=2\sqrt{3}.
@@ -222,7 +222,7 @@ i.e. the distance between \(AD\) and \(BC\) is \(2\sqrt{3}\).
 
 (Exercise 21.2.2, Problem 1)
 
-As shown in the figure, in quadrilateral \(ABCD\), \(\angle{A}DB=\angle{C}BD,\,\angle{C}+\angle{A}BC=180^{\circ}\). Is quadrilateral \(ABCD\) a parallelogram? Explain why.
+As shown in the figure, in quadrilateral \(ABCD\), \(\angle{A}DB=\angle{C}BD,\angle{C}+\angle{A}BC=180^{\circ}\). Is quadrilateral \(ABCD\) a parallelogram? Explain why.
 
 From \(\angle{A}DB=\angle{C}BD\), we get \(AD\parallel{B}C\).
 
@@ -234,11 +234,11 @@ Both pairs of opposite sides are parallel; by **Definition 21.2.1 (Parallelogram
 
 (Exercise 21.2.2, Problem 2)
 
-As shown in the figure, \(AB=DC=EF,\,AD=BC,\,DE=CF\). Which segments in the figure are parallel?
+As shown in the figure, \(AB=DC=EF,AD=BC,DE=CF\). Which segments in the figure are parallel?
 
 Since \(AB=DC\) and \(AD=BC\), quadrilateral \(ABCD\) has both pairs of opposite sides equal; by Basic Knowledge it is a parallelogram, so \(AB\parallel{D}C\), \(AD\parallel{B}C\).
 
-Similarly, \(DC=EF,\,DE=CF\), so quadrilateral \(DEFC\) is a parallelogram, and \(DC\parallel{E}F\), \(DE\parallel{C}F\).
+Similarly, \(DC=EF,DE=CF\), so quadrilateral \(DEFC\) is a parallelogram, and \(DC\parallel{E}F\), \(DE\parallel{C}F\).
 
 \(\blacksquare\)
 
@@ -246,7 +246,7 @@ Similarly, \(DC=EF,\,DE=CF\), so quadrilateral \(DEFC\) is a parallelogram, and 
 
 As shown in the figure, the diagonals \(AC,BD\) of \(\square{A}BCD\) intersect at point \(O\), and \(E,F\) are the midpoints of \(OA,OC\), respectively; connect \(DE,DF,BE,BF\). Prove that quadrilateral \(DEBF\) is a parallelogram.
 
-By Basic Knowledge, \(OB=OD,\,OA=OC\).
+By Basic Knowledge, \(OB=OD,OA=OC\).
 
 \(E,F\) are the midpoints of \(OA,OC\), so \(OE=OF\).
 
@@ -268,9 +268,9 @@ By Basic Knowledge, a quadrilateral with one pair of opposite sides parallel and
 
 (Exercise 21.2.2, Problem 2)
 
-As shown in the figure, in \(\square{A}BCD\), \(BD\) is a diagonal; through \(A,C\) draw \(AE\perp{B}D,\,CF\perp{B}D\), with feet \(E,F\), respectively. Prove that quadrilateral \(AFCE\) is a parallelogram.
+As shown in the figure, in \(\square{A}BCD\), \(BD\) is a diagonal; through \(A,C\) draw \(AE\perp{B}D,CF\perp{B}D\), with feet \(E,F\), respectively. Prove that quadrilateral \(AFCE\) is a parallelogram.
 
-From \(AE\perp{B}D,\,CF\perp{B}D\), we get \(AE\parallel{C}F\).
+From \(AE\perp{B}D,CF\perp{B}D\), we get \(AE\parallel{C}F\).
 
 Also from \(\triangle{A}ED\cong\triangle{C}FB\) (\(AD=BC\), alternate interior angles equal), we get \(AE=CF\).
 
@@ -294,7 +294,7 @@ There are \(3\) parallelograms in total, because each pair of parallel and equal
 
 As shown in the figure, in \(\triangle{A}BC\), \(D,E,F\) are the midpoints of \(AB,BC,CA\), respectively. Using these points as vertices, how many parallelograms can you draw in the figure? Why are they parallelograms?
 
-By **Theorem 21.2.2 (Triangle Midline Theorem)**, \(DE\parallel{A}C,\,EF\parallel{A}B,\,FD\parallel{B}C\).
+By **Theorem 21.2.2 (Triangle Midline Theorem)**, \(DE\parallel{A}C,EF\parallel{A}B,FD\parallel{B}C\).
 
 Therefore \(ADEF\), \(DBEF\), \(DECF\) are all parallelograms, \(3\) in total.
 
@@ -304,9 +304,9 @@ Therefore \(ADEF\), \(DBEF\), \(DECF\) are all parallelograms, \(3\) in total.
 
 As shown in the figure, the medians \(BD,CE\) of \(\triangle{A}BC\) intersect at point \(O\), and \(F,G\) are the midpoints of \(OB,OC\), respectively. Prove that quadrilateral \(DEFG\) is a parallelogram.
 
-\(D,E\) are the midpoints of \(AB,AC\); by **Theorem 21.2.2 (Triangle Midline Theorem)**, \(DE\parallel{B}C,\,DE=\frac{1}{2}BC\).
+\(D,E\) are the midpoints of \(AB,AC\); by **Theorem 21.2.2 (Triangle Midline Theorem)**, \(DE\parallel{B}C,DE=\frac{1}{2}BC\).
 
-\(F,G\) are the midpoints of \(OB,OC\); similarly \(FG\parallel{B}C,\,FG=\frac{1}{2}BC\).
+\(F,G\) are the midpoints of \(OB,OC\); similarly \(FG\parallel{B}C,FG=\frac{1}{2}BC\).
 
 Therefore \(DE\parallel{F}G\) and \(DE=FG\); by Basic Knowledge, quadrilateral \(DEFG\) is a parallelogram.
 
@@ -346,9 +346,9 @@ By Basic Knowledge, opposite angles are equal, so \(\angle2=\angle1=72^{\circ}15
 
 (Exercise 21.2, Review and Consolidation, Problem 3)
 
-As shown in the figure, the diagonals \(AC,BD\) of \(\square{A}BCD\) intersect at point \(O\), and \(AC+BD=36,\,AB=11\). Find the perimeter of \(\triangle{O}CD\).
+As shown in the figure, the diagonals \(AC,BD\) of \(\square{A}BCD\) intersect at point \(O\), and \(AC+BD=36,AB=11\). Find the perimeter of \(\triangle{O}CD\).
 
-By Basic Knowledge, \(OC=\frac{1}{2}AC,\,OD=\frac{1}{2}BD\).
+By Basic Knowledge, \(OC=\frac{1}{2}AC,OD=\frac{1}{2}BD\).
 
 Therefore \(OC+OD=\frac{1}{2}(AC+BD)=18\).
 
@@ -358,7 +358,7 @@ Also \(CD=AB=11\), so the perimeter of \(\triangle{O}CD\) \(=18+11=29\).
 
 (Exercise 21.2, Review and Consolidation, Problem 4)
 
-In \(\square{A}BCD\), \(\angle{A}=45^{\circ},\,AB=4,\,AD=2\). Find the area of \(\square{A}BCD\).
+In \(\square{A}BCD\), \(\angle{A}=45^{\circ},AB=4,AD=2\). Find the area of \(\square{A}BCD\).
 
 Taking \(AB\) as the base, the height is \(AD\sin45^{\circ}=2\times\frac{\sqrt{2}}{2}=\sqrt{2}\).
 
@@ -380,7 +380,7 @@ Also \(AF=CE\); by Basic Knowledge, quadrilateral \(AECF\) is a parallelogram.
 
 As shown in the figure, the diagonals \(AC,BD\) of \(\square{A}BCD\) intersect at point \(O\), and \(E,F,G,H\) are the midpoints of \(AO,BO,CO,DO\), respectively. Prove that quadrilateral \(EFGH\) is a parallelogram.
 
-By Basic Knowledge, \(OA=OC,\,OB=OD\).
+By Basic Knowledge, \(OA=OC,OB=OD\).
 
 \(E,G\) are the midpoints of \(AO,CO\), so \(OE=OG\); similarly \(OF=OH\).
 
@@ -402,9 +402,9 @@ Both pairs of opposite sides are parallel; by **Definition 21.2.1 (Parallelogram
 
 As shown in the figure, quadrilaterals \(AEFD\) and \(EBCF\) are both parallelograms. Prove that quadrilateral \(ABCD\) is a parallelogram.
 
-Since \(AEFD\) is a parallelogram, we get \(AD\parallel{E}F,\,AD=EF\).
+Since \(AEFD\) is a parallelogram, we get \(AD\parallel{E}F,AD=EF\).
 
-Since \(EBCF\) is a parallelogram, we get \(BC\parallel{E}F,\,BC=EF\).
+Since \(EBCF\) is a parallelogram, we get \(BC\parallel{E}F,BC=EF\).
 
 Therefore \(AD\parallel{B}C\) and \(AD=BC\); by Basic Knowledge, quadrilateral \(ABCD\) is a parallelogram.
 
@@ -438,7 +438,7 @@ The area \(S=\frac{1}{2}\cdot{A}D\cdot{D}E\cdot\sin30^{\circ}=\frac{1}{2}\times8
 
 (Exercise 21.2, Comprehensive Application, Problem 11)
 
-As shown in the figure, in trapezoid \(ABCD\), \(AB\parallel{D}C,\,\angle{A}=\angle{B}\). Prove \(AD=BC\).
+As shown in the figure, in trapezoid \(ABCD\), \(AB\parallel{D}C,\angle{A}=\angle{B}\). Prove \(AD=BC\).
 
 Through \(D,C\) draw perpendiculars to \(AB\), with feet \(E,F\).
 
@@ -460,7 +460,7 @@ Therefore \(B\) has coordinates \((a+b,c)\).
 
 (Exercise 21.2, Comprehensive Application, Problem 13)
 
-As shown in the figure, given \(\triangle{A}BC\), through \(A,B,C\) draw \(B'C'\parallel{C}B,\,C'A'\parallel{A}C,\,A'B'\parallel{B}A\), respectively. What is the relation between \(\angle{A}BC\) and \(\angle{B}'\)? What about segments \(AB'\) and \(AC'\)? Why?
+As shown in the figure, given \(\triangle{A}BC\), through \(A,B,C\) draw \(B'C'\parallel{C}B,C'A'\parallel{A}C,A'B'\parallel{B}A\), respectively. What is the relation between \(\angle{A}BC\) and \(\angle{B}'\)? What about segments \(AB'\) and \(AC'\)? Why?
 
 From the parallel relations, several parallelograms are formed in the figure.
 
@@ -472,7 +472,7 @@ Also \(AB'=AC\), \(AC'=AB\).
 
 (Exercise 21.2, Comprehensive Application, Problem 14)
 
-As shown in the figure, the diagonals \(AC,BD\) of quadrilateral \(ABCD\) intersect at point \(O\), \(AD=12,\,DO=OB=5,\,AC=26,\,\angle{A}DB=90^{\circ}\). Find the length of \(BC\) and the area of quadrilateral \(ABCD\).
+As shown in the figure, the diagonals \(AC,BD\) of quadrilateral \(ABCD\) intersect at point \(O\), \(AD=12,DO=OB=5,AC=26,\angle{A}DB=90^{\circ}\). Find the length of \(BC\) and the area of quadrilateral \(ABCD\).
 
 In \(Rt\triangle{A}DO\), \(AO=\sqrt{AD^{2}+DO^{2}}=\sqrt{144+25}=13\).
 
@@ -486,7 +486,7 @@ The area \(S=BD\times{A}D=10\times12=120\).
 
 (Exercise 21.2, Comprehensive Application, Problem 15)
 
-As shown in the figure, in \(\square{A}BCD\), through a point \(P\) on diagonal \(BD\) draw \(EF\parallel{B}C,\,GH\parallel{A}B\). Which two parallelograms in the figure have equal area? Why?
+As shown in the figure, in \(\square{A}BCD\), through a point \(P\) on diagonal \(BD\) draw \(EF\parallel{B}C,GH\parallel{A}B\). Which two parallelograms in the figure have equal area? Why?
 
 The parallelogram is divided by the two lines through \(P\) into four small parallelograms, of which the two symmetric about \(BD\) have equal area.
 
@@ -508,7 +508,7 @@ Therefore a line through \(O\) divides the parallelogram into two congruent part
 
 Prove: the sum of the squares of the lengths of the two diagonals of a parallelogram equals the sum of the squares of the four sides.
 
-Let in \(\square{A}BCD\), \(AB=CD=a,\,BC=AD=b\), and diagonals \(AC=m,\,BD=n\).
+Let in \(\square{A}BCD\), \(AB=CD=a,BC=AD=b\), and diagonals \(AC=m,BD=n\).
 
 This follows from the properties of parallelograms:
 

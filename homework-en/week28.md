@@ -140,7 +140,7 @@ Use a composite line chart to describe total automobile sales and new-energy sal
 
 ### Solution to Problem 5
 
-The range is $24.4-18.5=5.9$; take a class width of $0.5$ and divide into about $12$ groups. Most weeks' sales fall between $20.0\sim23.0\,\text{t}$. Hence buying about $21\sim22\,\text{t}$ of flour each week is appropriate, meeting demand without causing backlog. $\blacksquare$
+The range is $24.4-18.5=5.9$; take a class width of $0.5$ and divide into about $12$ groups. Most weeks' sales fall between $20.0\sim23.0\;\text{t}$. Hence buying about $21\sim22\;\text{t}$ of flour each week is appropriate, meeting demand without causing backlog. $\blacksquare$
 
 ## Problem 6
 
@@ -264,7 +264,7 @@ Shortcomings: (1) requiring the name involves personal privacy and may affect tr
 
 ## Review Problem 4
 
-(Review Problems, Review and Consolidation, Problem 4) The school clinic surveyed $30$ seventh-grade boys and found an average weight of $48\,\text{kg}$. Can this serve as an estimate of the average weight of seventh-grade students?
+(Review Problems, Review and Consolidation, Problem 4) The school clinic surveyed $30$ seventh-grade boys and found an average weight of $48\;\text{kg}$. Can this serve as an estimate of the average weight of seventh-grade students?
 
 ### Solution to Review Problem 4
 
@@ -276,13 +276,13 @@ It cannot. The sample contains only seventh-grade boys, includes neither girls n
 
 (1) How many students were surveyed in total?
 
-(2) There are $1500$ students in the school; estimate about how many students have a weekly housework time of no less than $90\,\text{min}$?
+(2) There are $1500$ students in the school; estimate about how many students have a weekly housework time of no less than $90\;\text{min}$?
 
 ### Solution to Review Problem 5
 
 (1) Since group B's $70$ people account for $35\%$, the total is $\frac{70}{35\%}=200$ people.
 
-(2) Group D accounts for $40\%$, namely $80$ people. Groups A and C together account for $100\%-35\%-40\%=25\%$; from the bar chart, group A has $20$ people, $10\%$, so group C accounts for $15\%$, namely $30$ people. Those with no less than $90\,\text{min}$ are groups C and D, together accounting for $15\%+40\%=55\%$. The school-wide estimate is $1500\times55\%=825$ people. $\blacksquare$
+(2) Group D accounts for $40\%$, namely $80$ people. Groups A and C together account for $100\%-35\%-40\%=25\%$; from the bar chart, group A has $20$ people, $10\%$, so group C accounts for $15\%$, namely $30$ people. Those with no less than $90\;\text{min}$ are groups C and D, together accounting for $15\%+40\%=55\%$. The school-wide estimate is $1500\times55\%=825$ people. $\blacksquare$
 
 ## Review Problem 6
 
@@ -318,9 +318,9 @@ By **Definition 12.2.3 (Line Chart)**, draw a composite line chart as shown. The
 
 ### Solution to Review Problem 8
 
-(1) The range is $24.8-1.5=23.3$; take a class width of $3$ and divide into about $8$ groups. Most families' average monthly water consumption falls between $3\sim12\,\text{t}$, and a few exceed $18\,\text{t}$.
+(1) The range is $24.8-1.5=23.3$; take a class width of $3$ and divide into about $8$ groups. Most families' average monthly water consumption falls between $3\sim12\;\text{t}$, and a few exceed $18\;\text{t}$.
 
-(2) To keep $60\%$ of families unaffected, i.e. the water consumption corresponding to a cumulative relative frequency of $60\%$. Cumulating from the frequency distribution table, the water consumption of the $30$th family is about $9\,\text{t}$. Hence set the standard at $9\,\text{t}$, charging $1.5$ times for the excess, which keeps the water fee of the first $60\%$ of families unaffected. $\blacksquare$
+(2) To keep $60\%$ of families unaffected, i.e. the water consumption corresponding to a cumulative relative frequency of $60\%$. Cumulating from the frequency distribution table, the water consumption of the $30$th family is about $9\;\text{t}$. Hence set the standard at $9\;\text{t}$, charging $1.5$ times for the excess, which keeps the water fee of the first $60\%$ of families unaffected. $\blacksquare$
 
 ## Review Problem 9
 
@@ -328,7 +328,7 @@ By **Definition 12.2.3 (Line Chart)**, draw a composite line chart as shown. The
 
 ### Solution to Review Problem 9
 
-Maximum $8.3$, minimum $6.9$, range $1.4$. Take a class width of $0.2$ for grouping. Most cars' fuel consumption falls between $7.2\sim7.8\,\text{L}$, averaging about $7.5\,\text{L}$; the consumption is relatively concentrated, with a few vehicles on the high side. $\blacksquare$
+Maximum $8.3$, minimum $6.9$, range $1.4$. Take a class width of $0.2$ for grouping. Most cars' fuel consumption falls between $7.2\sim7.8\;\text{L}$, averaging about $7.5\;\text{L}$; the consumption is relatively concentrated, with a few vehicles on the high side. $\blacksquare$
 
 ## Review Problem 10
 
@@ -350,7 +350,7 @@ Use a sample survey: randomly draw several boys and girls in proportion to the n
 
 ## Inquiry 1
 
-(Comprehensive and Practical Activity, Activity 1, Problem 1) Investigate the changing pattern of daylight duration in Beijing in 2024. It is known that on Minor Cold (January 6) sunrise is $7:36$, sunset is $17:04$, and daylight is $9\,\text{h}\,28\,\text{min}$; at the spring equinox daylight is about $12\,\text{h}$; at the summer solstice about $15\,\text{h}$; at the winter solstice about $9\,\text{h}\,28\,\text{min}$.
+(Comprehensive and Practical Activity, Activity 1, Problem 1) Investigate the changing pattern of daylight duration in Beijing in 2024. It is known that on Minor Cold (January 6) sunrise is $7:36$, sunset is $17:04$, and daylight is $9\;\text{h}\;28\;\text{min}$; at the spring equinox daylight is about $12\;\text{h}$; at the summer solstice about $15\;\text{h}$; at the winter solstice about $9\;\text{h}\;28\;\text{min}$.
 
 (1) Calculate the daylight duration on Minor Cold;
 
@@ -362,11 +362,11 @@ The figure is a line chart with the 24 solar terms in order on the horizontal ax
 
 ### Solution to Inquiry 1
 
-(1) By Daylight Duration Formula, daylight duration $=$ (sunset $-$ noon) $\times2=\left(17:04-12:00\right)\times2=5\,\text{h}\,04\,\text{min}\times2=10\,\text{h}\,08\,\text{min}$. The table directly gives $9\,\text{h}\,28\,\text{min}$; since noon is not exactly Beijing time $12:00$, there is a longitude error.
+(1) By Daylight Duration Formula, daylight duration $=$ (sunset $-$ noon) $\times2=\left(17:04-12:00\right)\times2=5\;\text{h}\;04\;\text{min}\times2=10\;\text{h}\;08\;\text{min}$. The table directly gives $9\;\text{h}\;28\;\text{min}$; since noon is not exactly Beijing time $12:00$, there is a longitude error.
 
 (2) Taking the order of the solar terms as the horizontal axis and daylight duration as the vertical axis, draw the line chart as shown.
 
-(3) From the line chart, the daylight duration in Beijing gradually lengthens from the winter solstice to the summer solstice, and gradually shortens from the summer solstice to the winter solstice. The longest day is the summer solstice (June 21), about $15\,\text{h}$; the shortest day is the winter solstice, about $9\,\text{h}\,28\,\text{min}$. $\blacksquare$
+(3) From the line chart, the daylight duration in Beijing gradually lengthens from the winter solstice to the summer solstice, and gradually shortens from the summer solstice to the winter solstice. The longest day is the summer solstice (June 21), about $15\;\text{h}$; the shortest day is the winter solstice, about $9\;\text{h}\;28\;\text{min}$. $\blacksquare$
 
 ## Inquiry 2
 
@@ -394,7 +394,7 @@ The figure is a line chart with the 24 solar terms in order on the horizontal ax
 
 By Daylight Duration Formula, given the daylight duration $T$ and taking noon as $12:00$, sunrise $=12:00-\frac{T}{2}$, and sunset $=12:00+\frac{T}{2}$.
 
-The nighttime duration $=24\,\text{h}-T$. If the next day's sunrise time $t_{\text{出}}'$ is known, then the next day's nighttime duration $=t_{\text{出}}'$ (from the previous day's sunset to the next day's sunrise), i.e. $t_{\text{出}}'-$ the previous day's sunset time. $\blacksquare$
+The nighttime duration $=24\;\text{h}-T$. If the next day's sunrise time $t_{\text{出}}'$ is known, then the next day's nighttime duration $=t_{\text{出}}'$ (from the previous day's sunset to the next day's sunrise), i.e. $t_{\text{出}}'-$ the previous day's sunset time. $\blacksquare$
 
 ## Inquiry 4
 

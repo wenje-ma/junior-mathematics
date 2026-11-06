@@ -238,7 +238,7 @@ By **Definition 17.2.3 (Method Using the Perfect Square Formula)**.
 
 ## Review Problem 6
 
-(Review Problems, Comprehensive Application, Problem 6) As shown in the figure, on a circular steel plate of radius $R$, four small circles of radius $r$ are cut out. Calculate the area of the remaining part when $R=5.6\,\text{cm}$ and $r=1.2\,\text{cm}$ (take $\pi$ as $3.14$).
+(Review Problems, Comprehensive Application, Problem 6) As shown in the figure, on a circular steel plate of radius $R$, four small circles of radius $r$ are cut out. Calculate the area of the remaining part when $R=5.6\;\text{cm}$ and $r=1.2\;\text{cm}$ (take $\pi$ as $3.14$).
 
 The figure shows a large circle of radius $R$ (the circular steel plate), from which four small circles of radius $r$ are cut out at the upper-left, upper-right, lower-left and lower-right positions; the four small circles are identical, each pair externally tangent and all close to the edge of the large circle, and the remaining part is shaded.
 
@@ -290,19 +290,19 @@ $\blacksquare$
 
 (Exercise 18.1, Problem 1) Write expressions for the following quantities:
 
-(1) A village has $n$ people and $40\,\text{hm}^2$ of arable land; then the per capita arable area is \;_\_\; $\text{hm}^2$;
+(1) A village has $n$ people and $40\;\text{hm}^2$ of arable land; then the per capita arable area is \;_\_\; $\text{hm}^2$;
 
 (2) The area of $\triangle{A}BC$ is $S$, and the base $BC$ has length $a$; then the height $AD$ is \;_\_\; ;
 
-(3) A car travels $s\,\text{km}$ in $t\,\text{h}$; then its average speed is \;_\_\; $\text{km/h}$; a train travels $s\,\text{km}$ taking $1\,\text{h}$ less than the car; then its average speed is \;_\_\; $\text{km/h}$.
+(3) A car travels $s\;\text{km}$ in $t\;\text{h}$; then its average speed is \;_\_\; $\text{km/h}$; a train travels $s\;\text{km}$ taking $1\;\text{h}$ less than the car; then its average speed is \;_\_\; $\text{km/h}$.
 
 ### Solution to Exercise 1
 
-(1) Per capita arable area $=\frac{40}{n}\,\text{hm}^2$.
+(1) Per capita arable area $=\frac{40}{n}\;\text{hm}^2$.
 
 (2) From $S=\frac12a\cdot{A}D$, we get $AD=\frac{2S}{a}$.
 
-(3) The car's average speed $=\frac{s}{t}\,\text{km/h}$; the train takes $t-1\,\text{h}$, so its average speed $=\frac{s}{t-1}\,\text{km/h}$. $\blacksquare$
+(3) The car's average speed $=\frac{s}{t}\;\text{km/h}$; the train takes $t-1\;\text{h}$, so its average speed $=\frac{s}{t-1}\;\text{km/h}$. $\blacksquare$
 
 ## Exercise 2
 
@@ -422,7 +422,7 @@ By **Definition 18.1.4 (Finding a Common Denominator and Least Common Denominato
 
 (1) A place has an afforestation area of $m$ hectares, originally planned to be completed in $n$ years ($n>1$); now it must be completed $1$ year ahead of schedule, so the actual annual afforestation must be \;_\_\; hectares more than the original plan;
 
-(2) A car travels from place A to place B at speed $a\,\text{km/h}$; the distance between A and B is $120\,\text{km}$; then the time taken from A to B is \;_\_\; $\text{h}$;
+(2) A car travels from place A to place B at speed $a\;\text{km/h}$; the distance between A and B is $120\;\text{km}$; then the time taken from A to B is \;_\_\; $\text{h}$;
 
 (3) The total number of students in a school is $m$, among which boys make up $\frac35$ of all students; then the number of girls is \;_\_\; .
 
@@ -430,7 +430,7 @@ By **Definition 18.1.4 (Finding a Common Denominator and Least Common Denominato
 
 (1) The original plan is $\frac{m}{n}$ per year, and the actual is $\frac{m}{n-1}$ per year; the extra afforestation is $\frac{m}{n-1}-\frac{m}{n}=\frac{m}{n\left(n-1\right)}$ hectares.
 
-(2) Time $=$ distance $\div$ speed $=\frac{120}{a}\,\text{h}$.
+(2) Time $=$ distance $\div$ speed $=\frac{120}{a}\;\text{h}$.
 
 (3) Girls make up $1-\frac35=\frac25$, so the number of girls is $\frac{2}{5}m$. $\blacksquare$
 

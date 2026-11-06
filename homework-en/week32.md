@@ -352,7 +352,7 @@ By Basic Knowledge, $CD=BE$, $CE=AD=2.5$. Also $CE=CD+DE$, so $CD=CE-DE=2.5-1.7=
 
 ## Review Problem 12
 
-(Review Problems, Comprehensive Application, Problem 12) As shown, in triangular paper sheet $ABC$, $AB=8\,\text{cm}$, $BC=6\,\text{cm}$, $AC=5\,\text{cm}$. Fold along a line through point $B$ so that point $C$ falls on point $E$ on side $AB$; the crease is $BD$. Find the perimeter of $\triangle{A}ED$.
+(Review Problems, Comprehensive Application, Problem 12) As shown, in triangular paper sheet $ABC$, $AB=8\;\text{cm}$, $BC=6\;\text{cm}$, $AC=5\;\text{cm}$. Fold along a line through point $B$ so that point $C$ falls on point $E$ on side $AB$; the crease is $BD$. Find the perimeter of $\triangle{A}ED$.
 
 ### Solution to Review Problem 12
 
@@ -361,7 +361,7 @@ By the folding, $\triangle{B}CD\cong\triangle{B}ED$, so $BE=BC=6$, $DE=DC$.
 Thus $AE=AB-BE=8-6=2$. The perimeter of $\triangle{A}ED$ is
 
 $$
-AE+AD+DE=AE+AD+DC=AE+AC=2+5=7\,\text{cm}.
+AE+AD+DE=AE+AD+DC=AE+AC=2+5=7\;\text{cm}.
 $$
 
 $\blacksquare$

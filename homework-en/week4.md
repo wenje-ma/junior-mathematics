@@ -88,7 +88,7 @@ Hence fill in in turn: $16$; $-3$; $18$; $-12$; $-7$; $7$. $\blacksquare$
 
 (Exercise 2.1, Extension and Exploration, Problem 12) Compute the value of each of the following:
 
-$$\left(-2\right)+\left(-2\right),\,\left(-2\right)+\left(-2\right)+\left(-2\right),\,\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right),\,\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right).$$
+$$\left(-2\right)+\left(-2\right),\left(-2\right)+\left(-2\right)+\left(-2\right),\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right),\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right).$$
 
 Guess the value of the following: $\left(-2\right)\times2$, $\left(-2\right)\times3$, $\left(-2\right)\times4$, $\left(-2\right)\times5$. Can you further guess the rule for multiplying a negative number by a positive number?
 
@@ -110,13 +110,13 @@ Adding several identical negative numbers is precisely that negative number mult
 
 (Exercise 2.1, Extension and Exploration, Problem 13) A road-maintenance team travels by car to patrol and maintain a north-south highway. One morning they set out from place $A$ and in the evening finally arrive at place $B$. Conventionally, northward is the positive direction, and that day's driving records (unit: $\text{km}$) are:
 
-$$+18,\,-9,\,+7,\,-14,\,-6,\,+13,\,-6,\,-8.$$
+$$+18,-9,+7,-14,-6,+13,-6,-8.$$
 
 Assume the car travels in a single direction under each driving record.
 
 (1) In which direction is place $B$ from place $A$? How far apart are they, in kilometers?
 
-(2) If the car consumes on average $a\,\text{L}$ of fuel per $1\,\text{km}$ driven, then how many liters of fuel did the car consume in total that day?
+(2) If the car consumes on average $a\;\text{L}$ of fuel per $1\;\text{km}$ driven, then how many liters of fuel did the car consume in total that day?
 
 ### Solution to Problem 4
 
@@ -126,13 +126,13 @@ By **Definition 2.1.1 (Rules for Addition of Rational Numbers)**.
 
 $$18-9+7-14-6+13-6-8=-5.$$
 
-The result is negative, so place $B$ is south of place $A$, and they are $5\,\text{km}$ apart.
+The result is negative, so place $B$ is south of place $A$, and they are $5\;\text{km}$ apart.
 
 (2) The total distance traveled by the car is the sum of the absolute values of the records:
 
 $$\left|18\right|+\left|-9\right|+\left|7\right|+\left|-14\right|+\left|-6\right|+\left|13\right|+\left|-6\right|+\left|-8\right|=81.$$
 
-Hence the car consumed a total of $81a\,\text{L}$ of fuel that day. $\blacksquare$
+Hence the car consumed a total of $81a\;\text{L}$ of fuel that day. $\blacksquare$
 
 ## Reading and Reflection 1
 
@@ -174,7 +174,7 @@ Hence the sales revenue decreases by $300$ yuan. $\blacksquare$
 
 (Exercise 2.2, Problem 3) Write down the reciprocal of each of the following:
 
-$$1,\,-1,\,\frac{1}{3},\,-\frac{1}{3},\,5,\,-5,\,\frac{2}{3},\,-\frac{2}{3}.$$
+$$1,-1,\frac{1}{3},-\frac{1}{3},5,-5,\frac{2}{3},-\frac{2}{3}.$$
 
 ### Solution to Exercise 3
 

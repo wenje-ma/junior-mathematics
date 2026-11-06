@@ -134,13 +134,13 @@
 
 在 \(\square{A}BCD\) 中, 
 
-(1) 已知 \(AB=5,\,BC=3\), 求另外两边的长; 
+(1) 已知 \(AB=5,BC=3\), 求另外两边的长; 
 
 (2) 已知 \(\angle{A}=38^{\circ}\), 求其余各内角的度数. 
 
 由**性质 21.2.1 (对边)** 与**性质 21.2.2 (对角)**. 
 
-(1) \(CD=AB=5,\,DA=BC=3\). 
+(1) \(CD=AB=5,DA=BC=3\). 
 
 (2) \(\angle{C}=\angle{A}=38^{\circ}\); 邻角互补, \(\angle{B}=\angle{D}=180^{\circ}-38^{\circ}=142^{\circ}\). 
 
@@ -148,9 +148,9 @@
 
 (练习 21.2.1 第 2 题)
 
-如图, \(\square{A}BCD\) 的对角线 \(AC,BD\) 相交于点 \(O\), \(BC=10,\,AC=8,\,BD=14\). \(\triangle{A}OD\) 的周长是多少? \(\triangle{A}BC\) 与 \(\triangle{D}BC\) 的周长哪个长? 长多少? 
+如图, \(\square{A}BCD\) 的对角线 \(AC,BD\) 相交于点 \(O\), \(BC=10,AC=8,BD=14\). \(\triangle{A}OD\) 的周长是多少? \(\triangle{A}BC\) 与 \(\triangle{D}BC\) 的周长哪个长? 长多少? 
 
-由**性质 21.2.3 (对角线)**, \(OA=OC=4,\,OD=OB=7\). 
+由**性质 21.2.3 (对角线)**, \(OA=OC=4,OD=OB=7\). 
 
 又 \(AD=BC=10\), 故 \(\triangle{A}OD\) 周长 \(=4+7+10=21\). 
 
@@ -202,13 +202,13 @@
 
 (练习 21.2.2 第 3 题)
 
-如图, 在梯形 \(ABCD\) 中, \(AD\parallel{B}C,\,\angle{C}=90^{\circ},\,AD=3,\,AB=4,\,BC=5\), \(E\) 为边 \(BC\) 上一点, \(AB\parallel{D}E\). 求 \(AD,BC\) 之间的距离. 
+如图, 在梯形 \(ABCD\) 中, \(AD\parallel{B}C,\angle{C}=90^{\circ},AD=3,AB=4,BC=5\), \(E\) 为边 \(BC\) 上一点, \(AB\parallel{D}E\). 求 \(AD,BC\) 之间的距离. 
 
 由 \(AD\parallel{B}C\), \(AB\parallel{D}E\), 四边形 \(ABED\) 是平行四边形, 故 \(BE=AD=3\). 
 
 于是 \(EC=BC-BE=2\). 
 
-在 \(Rt\triangle{D}EC\) 中, \(DE=AB=4,\,EC=2\), 由勾股定理
+在 \(Rt\triangle{D}EC\) 中, \(DE=AB=4,EC=2\), 由勾股定理
 
 $$
 DC=\sqrt{DE^{2}-EC^{2}}=\sqrt{16-4}=\sqrt{12}=2\sqrt{3}.
@@ -222,7 +222,7 @@ $$
 
 (练习 21.2.2 第 1 题)
 
-如图, 在四边形 \(ABCD\) 中, \(\angle{A}DB=\angle{C}BD,\,\angle{C}+\angle{A}BC=180^{\circ}\), 四边形 \(ABCD\) 是平行四边形吗? 请说明理由. 
+如图, 在四边形 \(ABCD\) 中, \(\angle{A}DB=\angle{C}BD,\angle{C}+\angle{A}BC=180^{\circ}\), 四边形 \(ABCD\) 是平行四边形吗? 请说明理由. 
 
 由 \(\angle{A}DB=\angle{C}BD\), 得 \(AD\parallel{B}C\). 
 
@@ -234,11 +234,11 @@ $$
 
 (练习 21.2.2 第 2 题)
 
-如图, \(AB=DC=EF,\,AD=BC,\,DE=CF\). 图中有哪些互相平行的线段? 
+如图, \(AB=DC=EF,AD=BC,DE=CF\). 图中有哪些互相平行的线段? 
 
-由 \(AB=DC,\,AD=BC\), 四边形 \(ABCD\) 两组对边分别相等, 由基础知识 是平行四边形, 故 \(AB\parallel{D}C\), \(AD\parallel{B}C\). 
+由 \(AB=DC,AD=BC\), 四边形 \(ABCD\) 两组对边分别相等, 由基础知识 是平行四边形, 故 \(AB\parallel{D}C\), \(AD\parallel{B}C\). 
 
-同理 \(DC=EF,\,DE=CF\), 四边形 \(DEFC\) 是平行四边形, 故 \(DC\parallel{E}F\), \(DE\parallel{C}F\). 
+同理 \(DC=EF,DE=CF\), 四边形 \(DEFC\) 是平行四边形, 故 \(DC\parallel{E}F\), \(DE\parallel{C}F\). 
 
 \(\blacksquare\)
 
@@ -246,7 +246,7 @@ $$
 
 如图, \(\square{A}BCD\) 的对角线 \(AC,BD\) 相交于点 \(O\), 且 \(E,F\) 分别是 \(OA,OC\) 的中点, 连接 \(DE,DF,BE,BF\). 求证: 四边形 \(DEBF\) 是平行四边形. 
 
-由**性质 21.2.3 (对角线)**, \(OB=OD,\,OA=OC\). 
+由**性质 21.2.3 (对角线)**, \(OB=OD,OA=OC\). 
 
 \(E,F\) 分别为 \(OA,OC\) 中点, 故 \(OE=OF\). 
 
@@ -268,9 +268,9 @@ $$
 
 (练习 21.2.2 第 2 题)
 
-如图, 在 \(\square{A}BCD\) 中, \(BD\) 是它的一条对角线, 过 \(A,C\) 两点分别作 \(AE\perp{B}D,\,CF\perp{B}D\), 垂足分别为 \(E,F\). 求证: 四边形 \(AFCE\) 是平行四边形. 
+如图, 在 \(\square{A}BCD\) 中, \(BD\) 是它的一条对角线, 过 \(A,C\) 两点分别作 \(AE\perp{B}D,CF\perp{B}D\), 垂足分别为 \(E,F\). 求证: 四边形 \(AFCE\) 是平行四边形. 
 
-由 \(AE\perp{B}D,\,CF\perp{B}D\), 得 \(AE\parallel{C}F\). 
+由 \(AE\perp{B}D,CF\perp{B}D\), 得 \(AE\parallel{C}F\). 
 
 又由 \(\triangle{A}ED\cong\triangle{C}FB\)(\(AD=BC\), 内错角相等), 得 \(AE=CF\). 
 
@@ -294,7 +294,7 @@ $$
 
 如图, 在 \(\triangle{A}BC\) 中, \(D,E,F\) 分别是 \(AB,BC,CA\) 的中点. 以这些点为顶点, 在图中, 你能画出多少个平行四边形? 为什么它们是平行四边形? 
 
-由**定理 21.2.2 (三角形中位线定理)**, \(DE\parallel{A}C,\,EF\parallel{A}B,\,FD\parallel{B}C\). 
+由**定理 21.2.2 (三角形中位线定理)**, \(DE\parallel{A}C,EF\parallel{A}B,FD\parallel{B}C\). 
 
 故 \(ADEF\), \(DBEF\), \(DECF\) 均为平行四边形, 共 \(3\) 个. 
 
@@ -304,9 +304,9 @@ $$
 
 如图, \(\triangle{A}BC\) 的中线 \(BD,CE\) 相交于点 \(O\), 且 \(F,G\) 分别是 \(OB,OC\) 的中点. 求证: 四边形 \(DEFG\) 是平行四边形. 
 
-\(D,E\) 是 \(AB,AC\) 中点, 由**定理 21.2.2 (三角形中位线定理)**, \(DE\parallel{B}C,\,DE=\frac{1}{2}BC\). 
+\(D,E\) 是 \(AB,AC\) 中点, 由**定理 21.2.2 (三角形中位线定理)**, \(DE\parallel{B}C,DE=\frac{1}{2}BC\). 
 
-\(F,G\) 是 \(OB,OC\) 中点, 同理 \(FG\parallel{B}C,\,FG=\frac{1}{2}BC\). 
+\(F,G\) 是 \(OB,OC\) 中点, 同理 \(FG\parallel{B}C,FG=\frac{1}{2}BC\). 
 
 故 \(DE\parallel{F}G\) 且 \(DE=FG\), 由基础知识, 四边形 \(DEFG\) 是平行四边形. 
 
@@ -346,9 +346,9 @@ $$
 
 (习题 21.2 复习巩固第 3 题)
 
-如图, \(\square{A}BCD\) 的对角线 \(AC,BD\) 相交于点 \(O\), 且 \(AC+BD=36,\,AB=11\). 求 \(\triangle{O}CD\) 的周长. 
+如图, \(\square{A}BCD\) 的对角线 \(AC,BD\) 相交于点 \(O\), 且 \(AC+BD=36,AB=11\). 求 \(\triangle{O}CD\) 的周长. 
 
-由**性质 21.2.3 (对角线)**, \(OC=\frac{1}{2}AC,\,OD=\frac{1}{2}BD\). 
+由**性质 21.2.3 (对角线)**, \(OC=\frac{1}{2}AC,OD=\frac{1}{2}BD\). 
 
 故 \(OC+OD=\frac{1}{2}(AC+BD)=18\). 
 
@@ -358,7 +358,7 @@ $$
 
 (习题 21.2 复习巩固第 4 题)
 
-在 \(\square{A}BCD\) 中, \(\angle{A}=45^{\circ},\,AB=4,\,AD=2\). 求 \(\square{A}BCD\) 的面积. 
+在 \(\square{A}BCD\) 中, \(\angle{A}=45^{\circ},AB=4,AD=2\). 求 \(\square{A}BCD\) 的面积. 
 
 以 \(AB\) 为底, 高为 \(AD\sin45^{\circ}=2\times\frac{\sqrt{2}}{2}=\sqrt{2}\). 
 
@@ -380,7 +380,7 @@ $$
 
 如图, \(\square{A}BCD\) 的对角线 \(AC,BD\) 相交于点 \(O\), 且 \(E,F,G,H\) 分别是 \(AO,BO,CO,DO\) 的中点. 求证: 四边形 \(EFGH\) 是平行四边形. 
 
-由**性质 21.2.3 (对角线)**, \(OA=OC,\,OB=OD\). 
+由**性质 21.2.3 (对角线)**, \(OA=OC,OB=OD\). 
 
 \(E,G\) 为 \(AO,CO\) 中点, 故 \(OE=OG\); 同理 \(OF=OH\). 
 
@@ -402,9 +402,9 @@ $$
 
 如图, 四边形 \(AEFD\) 和四边形 \(EBCF\) 都是平行四边形. 求证: 四边形 \(ABCD\) 是平行四边形. 
 
-由 \(AEFD\) 是平行四边形, 得 \(AD\parallel{E}F,\,AD=EF\). 
+由 \(AEFD\) 是平行四边形, 得 \(AD\parallel{E}F,AD=EF\). 
 
-由 \(EBCF\) 是平行四边形, 得 \(BC\parallel{E}F,\,BC=EF\). 
+由 \(EBCF\) 是平行四边形, 得 \(BC\parallel{E}F,BC=EF\). 
 
 故 \(AD\parallel{B}C\) 且 \(AD=BC\), 由基础知识, 四边形 \(ABCD\) 是平行四边形. 
 
@@ -438,7 +438,7 @@ $$
 
 (习题 21.2 综合运用第 11 题)
 
-如图, 在梯形 \(ABCD\) 中, \(AB\parallel{D}C,\,\angle{A}=\angle{B}\). 求证 \(AD=BC\). 
+如图, 在梯形 \(ABCD\) 中, \(AB\parallel{D}C,\angle{A}=\angle{B}\). 求证 \(AD=BC\). 
 
 过 \(D,C\) 分别作 \(AB\) 的垂线, 垂足为 \(E,F\). 
 
@@ -460,7 +460,7 @@ $$
 
 (习题 21.2 综合运用第 13 题)
 
-如图, 已知 \(\triangle{A}BC\), 过点 \(A,B,C\) 分别作 \(B'C'\parallel{C}B,\,C'A'\parallel{A}C,\,A'B'\parallel{B}A\), 那么 \(\angle{A}BC\) 与 \(\angle{B}'\) 有什么关系? 线段 \(AB'\) 与线段 \(AC'\) 呢? 为什么? 
+如图, 已知 \(\triangle{A}BC\), 过点 \(A,B,C\) 分别作 \(B'C'\parallel{C}B,C'A'\parallel{A}C,A'B'\parallel{B}A\), 那么 \(\angle{A}BC\) 与 \(\angle{B}'\) 有什么关系? 线段 \(AB'\) 与线段 \(AC'\) 呢? 为什么? 
 
 由平行关系, 图中形成多个平行四边形. 
 
@@ -472,7 +472,7 @@ $$
 
 (习题 21.2 综合运用第 14 题)
 
-如图, 四边形 \(ABCD\) 的对角线 \(AC,BD\) 相交于点 \(O\), \(AD=12,\,DO=OB=5,\,AC=26,\,\angle{A}DB=90^{\circ}\). 求 \(BC\) 的长和四边形 \(ABCD\) 的面积. 
+如图, 四边形 \(ABCD\) 的对角线 \(AC,BD\) 相交于点 \(O\), \(AD=12,DO=OB=5,AC=26,\angle{A}DB=90^{\circ}\). 求 \(BC\) 的长和四边形 \(ABCD\) 的面积. 
 
 在 \(Rt\triangle{A}DO\) 中, \(AO=\sqrt{AD^{2}+DO^{2}}=\sqrt{144+25}=13\). 
 
@@ -486,7 +486,7 @@ $$
 
 (习题 21.2 综合运用第 15 题)
 
-如图, 在 \(\square{A}BCD\) 中, 过对角线 \(BD\) 上一点 \(P\) 作 \(EF\parallel{B}C,\,GH\parallel{A}B\). 图中哪两个平行四边形面积相等? 为什么? 
+如图, 在 \(\square{A}BCD\) 中, 过对角线 \(BD\) 上一点 \(P\) 作 \(EF\parallel{B}C,GH\parallel{A}B\). 图中哪两个平行四边形面积相等? 为什么? 
 
 由平行四边形被过 \(P\) 的两条线分成四个小平行四边形, 其中关于 \(BD\) 对称的两个平行四边形面积相等. 
 
@@ -508,7 +508,7 @@ $$
 
 求证: 平行四边形两条对角线长的平方和等于四条边长的平方和. 
 
-设 \(\square{A}BCD\) 中 \(AB=CD=a,\,BC=AD=b\), 对角线 \(AC=m,\,BD=n\). 
+设 \(\square{A}BCD\) 中 \(AB=CD=a,BC=AD=b\), 对角线 \(AC=m,BD=n\). 
 
 由平行四边形性质可证: 
 

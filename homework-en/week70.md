@@ -78,41 +78,41 @@ However, $\frac{CD}{CB}=\cos\angle{B}CD=\cos{A}$, which is not equal to $\sin{A}
 
 ## Problem 3
 
-(Problem 28.1, Comprehensive Application, Problem 7) As shown in the figure, a gable (isosceles triangle) steel frame of height $3.5\,\text{m}$ and base angle $32^{\circ}$ is to be welded. About how long a steel is needed (round the result to two decimal places)?
+(Problem 28.1, Comprehensive Application, Problem 7) As shown in the figure, a gable (isosceles triangle) steel frame of height $3.5\;\text{m}$ and base angle $32^{\circ}$ is to be welded. About how long a steel is needed (round the result to two decimal places)?
 
-The figure shows an A-frame (isosceles triangle) steel frame $ABC$, with middle vertical column $CD\perp{A}B$ and $CD=3.5\,\text{m}$; base angles $\angle{A}=\angle{B}=32^\circ$, and $D$ is the midpoint of $AB$.
+The figure shows an A-frame (isosceles triangle) steel frame $ABC$, with middle vertical column $CD\perp{A}B$ and $CD=3.5\;\text{m}$; base angles $\angle{A}=\angle{B}=32^\circ$, and $D$ is the midpoint of $AB$.
 
 ### Solution to Problem 3
 
-The steel frame is the isosceles triangle $ABC$, with $CD$ as the center post, $CD\perp{A}B$, $CD=3.5\,\text{m}$, $\angle{A}=\angle{B}=32^{\circ}$, $AD=DB$.
+The steel frame is the isosceles triangle $ABC$, with $CD$ as the center post, $CD\perp{A}B$, $CD=3.5\;\text{m}$, $\angle{A}=\angle{B}=32^{\circ}$, $AD=DB$.
 
 In $\text{Rt}\triangle{A}CD$, by **Definition 28.1.1 (Sine)**,
 
-$$\sin{A}=\frac{CD}{AC}\implies{A}C=\frac{CD}{\sin32^{\circ}}=\frac{3.5}{\sin32^{\circ}}\approx\frac{3.5}{0.5299}\approx6.605\,\text{m}.$$
+$$\sin{A}=\frac{CD}{AC}\implies{A}C=\frac{CD}{\sin32^{\circ}}=\frac{3.5}{\sin32^{\circ}}\approx\frac{3.5}{0.5299}\approx6.605\;\text{m}.$$
 
 By **Definition 28.1.3 (Tangent)**,
 
-$$\tan{A}=\frac{CD}{AD}\implies{A}D=\frac{CD}{\tan32^{\circ}}=\frac{3.5}{\tan32^{\circ}}\approx\frac{3.5}{0.6249}\approx5.601\,\text{m}.$$
+$$\tan{A}=\frac{CD}{AD}\implies{A}D=\frac{CD}{\tan32^{\circ}}=\frac{3.5}{\tan32^{\circ}}\approx\frac{3.5}{0.6249}\approx5.601\;\text{m}.$$
 
-The total length of steel is $AC+BC+AB=2AC+2AD\approx2\times6.605+2\times5.601\approx24.41\,\text{m}$. $\blacksquare$
+The total length of steel is $AC+BC+AB=2AC+2AD\approx2\times6.605+2\times5.601\approx24.41\;\text{m}$. $\blacksquare$
 
 ## Problem 4
 
-(Problem 28.1, Comprehensive Application, Problem 8) As shown in the figure, the lengths of two adjacent sides of a parallelogram board are $62.31\,\text{cm}$ and $35.24\,\text{cm}$, and the angle between them is $35^{\circ}40'$. Find the area of this board (round the result to two decimal places).
+(Problem 28.1, Comprehensive Application, Problem 8) As shown in the figure, the lengths of two adjacent sides of a parallelogram board are $62.31\;\text{cm}$ and $35.24\;\text{cm}$, and the angle between them is $35^{\circ}40'$. Find the area of this board (round the result to two decimal places).
 
-The figure shows parallelogram board $ABCD$ with adjacent sides $AB=62.31\,\text{cm}$ and $AD=35.24\,\text{cm}$, and included angle $\angle{A}=35^\circ40'$.
+The figure shows parallelogram board $ABCD$ with adjacent sides $AB=62.31\;\text{cm}$ and $AD=35.24\;\text{cm}$, and included angle $\angle{A}=35^\circ40'$.
 
 ### Solution to Problem 4
 
-In parallelogram $ABCD$, $AB=62.31\,\text{cm}$, $AD=35.24\,\text{cm}$, $\angle{A}=35^{\circ}40'$.
+In parallelogram $ABCD$, $AB=62.31\;\text{cm}$, $AD=35.24\;\text{cm}$, $\angle{A}=35^{\circ}40'$.
 
 Draw $DE\perp{A}B$ through $D$, with foot $E$. In $\text{Rt}\triangle{A}DE$, by **Definition 28.1.1 (Sine)**,
 
 $$DE=AD\cdot\sin{A}=35.24\times\sin35^{\circ}40'.$$
 
-$35^{\circ}40'=35.67^{\circ}$, $\sin35.67^{\circ}\approx0.5830$, so $DE\approx35.24\times0.5830\approx20.55\,\text{cm}$.
+$35^{\circ}40'=35.67^{\circ}$, $\sin35.67^{\circ}\approx0.5830$, so $DE\approx35.24\times0.5830\approx20.55\;\text{cm}$.
 
-The area is $S=AB\cdot{D}E\approx62.31\times20.55\approx1280.47\,\text{cm}^{2}$. $\blacksquare$
+The area is $S=AB\cdot{D}E\approx62.31\times20.55\approx1280.47\;\text{cm}^{2}$. $\blacksquare$
 
 ## Problem 5
 
@@ -190,25 +190,25 @@ $\cos{A}=\frac{b}{c}=\frac{20}{30}=\frac{2}{3}$; using a calculator, $\angle{A}\
 
 ## Exercise 2
 
-(Exercise 28.2, Problem 1) As shown in the figure, a flagpole $AB$ stands on a building $BC$. From point $D$, $40\,\text{m}$ from $BC$, the angle of elevation to the top $A$ of the flagpole is $50^{\circ}$, and the angle of elevation to the bottom $B$ of the flagpole is $45^{\circ}$. Find the height of the flagpole (round to one decimal place).
+(Exercise 28.2, Problem 1) As shown in the figure, a flagpole $AB$ stands on a building $BC$. From point $D$, $40\;\text{m}$ from $BC$, the angle of elevation to the top $A$ of the flagpole is $50^{\circ}$, and the angle of elevation to the bottom $B$ of the flagpole is $45^{\circ}$. Find the height of the flagpole (round to one decimal place).
 
-The figure shows a vertical building $BC$ with flagpole $AB$ on top; point $D$ on the ground is $40\,\text{m}$ horizontally from the building base $C$. From $D$, the angle of elevation to the flagpole top $A$ is $50^\circ$, and to the flagpole bottom $B$ is $45^\circ$; $DC$ is horizontal and $AC$ is vertical.
+The figure shows a vertical building $BC$ with flagpole $AB$ on top; point $D$ on the ground is $40\;\text{m}$ horizontally from the building base $C$. From $D$, the angle of elevation to the flagpole top $A$ is $50^\circ$, and to the flagpole bottom $B$ is $45^\circ$; $DC$ is horizontal and $AC$ is vertical.
 
 ### Solution to Exercise 2
 
-Let the horizontal distance from $D$ to the building be $DC=40\,\text{m}$. In $\text{Rt}\triangle{B}DC$, $\angle{B}DC=45^{\circ}$; by **Definition 28.1.3 (Tangent)**,
+Let the horizontal distance from $D$ to the building be $DC=40\;\text{m}$. In $\text{Rt}\triangle{B}DC$, $\angle{B}DC=45^{\circ}$; by **Definition 28.1.3 (Tangent)**,
 
-$$BC=DC\cdot\tan45^{\circ}=40\times1=40\,\text{m}.$$
+$$BC=DC\cdot\tan45^{\circ}=40\times1=40\;\text{m}.$$
 
 In $\text{Rt}\triangle{A}DC$, $\angle{A}DC=50^{\circ}$,
 
-$$AC=DC\cdot\tan50^{\circ}\approx40\times1.1918\approx47.67\,\text{m}.$$
+$$AC=DC\cdot\tan50^{\circ}\approx40\times1.1918\approx47.67\;\text{m}.$$
 
-The flagpole height is $AB=AC-BC\approx47.67-40=7.7\,\text{m}$. $\blacksquare$
+The flagpole height is $AB=AC-BC\approx47.67-40=7.7\;\text{m}$. $\blacksquare$
 
 ## Exercise 3
 
-(Exercise 28.2, Problem 2) As shown in the figure, a road is being cut through a mountain along the direction $AC$. From a point $B$ on $AC$, take $\angle{A}BD=140^{\circ}$, $BD=520\,\text{m}$, $\angle{D}=50^{\circ}$. Then how far from $D$ should the excavation point $E$ on the other side be so that the three points $A$, $C$, $E$ lie on a straight line (round to one decimal place)?
+(Exercise 28.2, Problem 2) As shown in the figure, a road is being cut through a mountain along the direction $AC$. From a point $B$ on $AC$, take $\angle{A}BD=140^{\circ}$, $BD=520\;\text{m}$, $\angle{D}=50^{\circ}$. Then how far from $D$ should the excavation point $E$ on the other side be so that the three points $A$, $C$, $E$ lie on a straight line (round to one decimal place)?
 
 ### Solution to Exercise 3
 
@@ -218,15 +218,15 @@ In $\triangle{B}DE$, $\angle{D}BE=40^{\circ}$, $\angle{B}DE=50^{\circ}$, so $\an
 
 In $\text{Rt}\triangle{B}DE$, by **Definition 28.1.1 (Sine)**,
 
-$$\sin\angle{D}BE=\frac{DE}{BD}\implies{D}E=BD\cdot\sin40^{\circ}\approx520\times0.6428\approx334.3\,\text{m}.$$
+$$\sin\angle{D}BE=\frac{DE}{BD}\implies{D}E=BD\cdot\sin40^{\circ}\approx520\times0.6428\approx334.3\;\text{m}.$$
 
-Thus the excavation point $E$ is about $334.3\,\text{m}$ from $D$. $\blacksquare$
+Thus the excavation point $E$ is about $334.3\;\text{m}$ from $D$. $\blacksquare$
 
 ## Exercise 4
 
-(Exercise 28.2, Problem 1) As shown in the figure, there is an island $A$ in the sea, and within $8\,\text{n~mile}$ around it there are reefs. A fishing boat sails from west to east. At point $B$, the island $A$ is measured to be in the direction $60^{\circ}$ east of north; after sailing $12\,\text{n~mile}$ to point $D$, the island $A$ is measured to be in the direction $30^{\circ}$ east of north. If the fishing boat continues due east without changing course, is there a danger of striking a reef?
+(Exercise 28.2, Problem 1) As shown in the figure, there is an island $A$ in the sea, and within $8\;\text{n~mile}$ around it there are reefs. A fishing boat sails from west to east. At point $B$, the island $A$ is measured to be in the direction $60^{\circ}$ east of north; after sailing $12\;\text{n~mile}$ to point $D$, the island $A$ is measured to be in the direction $30^{\circ}$ east of north. If the fishing boat continues due east without changing course, is there a danger of striking a reef?
 
-The figure shows a navigation diagram at sea: island $A$ lies in the sea, and a fishing boat travels eastward along route $BD$; at point $B$, island $A$ is observed on a bearing of $60^\circ$ east of north; after sailing $12\,\text{n~mile}$ eastward to point $D$, island $A$ is observed on a bearing of $30^\circ$ east of north; $AE$ is drawn perpendicular to $BD$ at $E$.
+The figure shows a navigation diagram at sea: island $A$ lies in the sea, and a fishing boat travels eastward along route $BD$; at point $B$, island $A$ is observed on a bearing of $60^\circ$ east of north; after sailing $12\;\text{n~mile}$ eastward to point $D$, island $A$ is observed on a bearing of $30^\circ$ east of north; $AE$ is drawn perpendicular to $BD$ at $E$.
 
 ### Solution to Exercise 4
 
@@ -238,13 +238,13 @@ In $\text{Rt}\triangle{A}BE$, $BE=AE/\tan30^{\circ}=AE\sqrt{3}$.
 
 In $\text{Rt}\triangle{A}DE$, $DE=AE/\tan60^{\circ}=AE/\sqrt{3}$.
 
-Also $BE-DE=BD=12$, so $AE\sqrt{3}-AE/\sqrt{3}=12$, i.e. $AE\cdot\frac{3-1}{\sqrt{3}}=12$, $AE=6\sqrt{3}\approx10.39\,\text{n~mile}$.
+Also $BE-DE=BD=12$, so $AE\sqrt{3}-AE/\sqrt{3}=12$, i.e. $AE\cdot\frac{3-1}{\sqrt{3}}=12$, $AE=6\sqrt{3}\approx10.39\;\text{n~mile}$.
 
 Since $AE\approx10.39>8$, the fishing boat continuing due east is in no danger of striking a reef. $\blacksquare$
 
 ## Exercise 5
 
-(Exercise 28.2, Problem 2) As shown in the figure, the cross-section of a dam is trapezoid $ABCD$, with $AF=DE=6\,\text{m}$. The slope grade $i=1:1.5$ refers to the ratio of the vertical height $AF$ to the horizontal width $BF$ of the slope face, and the slope grade $i=1:3$ refers to the ratio of $DE$ to $CE$. Based on the data in the figure, find:
+(Exercise 28.2, Problem 2) As shown in the figure, the cross-section of a dam is trapezoid $ABCD$, with $AF=DE=6\;\text{m}$. The slope grade $i=1:1.5$ refers to the ratio of the vertical height $AF$ to the horizontal width $BF$ of the slope face, and the slope grade $i=1:3$ refers to the ratio of $DE$ to $CE$. Based on the data in the figure, find:
 
 (1) the measures of the slope angles $\alpha$ and $\beta$;
 
@@ -256,7 +256,7 @@ Since $AE\approx10.39>8$, the fishing boat continuing due east is in no danger o
 
 For slope $DC$, $i=1:3$, i.e. $\tan\beta=\frac{1}{3}$; using a calculator, $\beta\approx18.43^{\circ}$.
 
-(2) In $\text{Rt}\triangle{A}BF$, $AF=6\,\text{m}$, $\sin\alpha=\frac{AF}{AB}$, so $AB=\frac{AF}{\sin\alpha}=\frac{6}{\sin33.69^{\circ}}\approx\frac{6}{0.5547}\approx10.8\,\text{m}$. $\blacksquare$
+(2) In $\text{Rt}\triangle{A}BF$, $AF=6\;\text{m}$, $\sin\alpha=\frac{AF}{AB}$, so $AB=\frac{AF}{\sin\alpha}=\frac{6}{\sin33.69^{\circ}}\approx\frac{6}{0.5547}\approx10.8\;\text{m}$. $\blacksquare$
 
 ## Problem 7
 
@@ -280,45 +280,45 @@ Solve by Basic Knowledge.
 
 ## Problem 8
 
-(Problem 28.2, Review and Consolidation, Problem 2) As shown in the figure, the span $BC=10\,\text{m}$ of a factory-roof gable (isosceles triangle), and $\angle{B}=36^{\circ}$. Find the length of the center post $AD$ ($D$ is the midpoint of the base) and the rafter $AB$ (round to one decimal place).
+(Problem 28.2, Review and Consolidation, Problem 2) As shown in the figure, the span $BC=10\;\text{m}$ of a factory-roof gable (isosceles triangle), and $\angle{B}=36^{\circ}$. Find the length of the center post $AD$ ($D$ is the midpoint of the base) and the rafter $AB$ (round to one decimal place).
 
 ### Solution to Problem 8
 
-In the isosceles triangle $ABC$, $AD\perp{B}C$, and $D$ is the midpoint of $BC$, so $BD=\frac{BC}{2}=5\,\text{m}$.
+In the isosceles triangle $ABC$, $AD\perp{B}C$, and $D$ is the midpoint of $BC$, so $BD=\frac{BC}{2}=5\;\text{m}$.
 
-In $\text{Rt}\triangle{A}BD$, by **Definition 28.1.3 (Tangent)**, $AD=BD\cdot\tan36^{\circ}\approx5\times0.7265\approx3.6\,\text{m}$.
+In $\text{Rt}\triangle{A}BD$, by **Definition 28.1.3 (Tangent)**, $AD=BD\cdot\tan36^{\circ}\approx5\times0.7265\approx3.6\;\text{m}$.
 
-By **Definition 28.1.2 (Cosine)**, $\cos{B}=\frac{BD}{AB}$, so $AB=\frac{BD}{\cos36^{\circ}}\approx\frac{5}{0.8090}\approx6.2\,\text{m}$. $\blacksquare$
+By **Definition 28.1.2 (Cosine)**, $\cos{B}=\frac{BD}{AB}$, so $AB=\frac{BD}{\cos36^{\circ}}\approx\frac{5}{0.8090}\approx6.2\;\text{m}$. $\blacksquare$
 
 ## Problem 9
 
-(Problem 28.2, Review and Consolidation, Problem 3) As shown in the figure, an aircraft at point $A$ in the air detects a target $C$; at this moment the flight altitude is $AC=1200\,\text{m}$, and the angle of depression from the aircraft to the ground control station $B$ is $\alpha=16^{\circ}31'$. Find the distance between the aircraft $A$ and the control station $B$ (round to an integer).
+(Problem 28.2, Review and Consolidation, Problem 3) As shown in the figure, an aircraft at point $A$ in the air detects a target $C$; at this moment the flight altitude is $AC=1200\;\text{m}$, and the angle of depression from the aircraft to the ground control station $B$ is $\alpha=16^{\circ}31'$. Find the distance between the aircraft $A$ and the control station $B$ (round to an integer).
 
 ### Solution to Problem 9
 
-In $\text{Rt}\triangle{A}BC$, $\angle{C}=90^{\circ}$, $AC=1200\,\text{m}$, angle of depression $\alpha=16^{\circ}31'\approx16.52^{\circ}$. By the equality of alternate interior angles, $\angle{A}BC=\alpha$.
+In $\text{Rt}\triangle{A}BC$, $\angle{C}=90^{\circ}$, $AC=1200\;\text{m}$, angle of depression $\alpha=16^{\circ}31'\approx16.52^{\circ}$. By the equality of alternate interior angles, $\angle{A}BC=\alpha$.
 
-By **Definition 28.1.1 (Sine)**, $\sin\alpha=\frac{AC}{AB}$, so $AB=\frac{AC}{\sin\alpha}=\frac{1200}{\sin16.52^{\circ}}\approx\frac{1200}{0.2843}\approx4221\,\text{m}$. $\blacksquare$
+By **Definition 28.1.1 (Sine)**, $\sin\alpha=\frac{AC}{AB}$, so $AB=\frac{AC}{\sin\alpha}=\frac{1200}{\sin16.52^{\circ}}\approx\frac{1200}{0.2843}\approx4221\;\text{m}$. $\blacksquare$
 
 ## Problem 10
 
-(Problem 28.2, Review and Consolidation, Problem 4) A help signal from a sailing boat is received from a lighthouse $55\,\text{m}$ above sea level; the angle of depression from the lighthouse to the boat is $21^{\circ}$. How far is the boat from the lighthouse at this moment (round to an integer)?
+(Problem 28.2, Review and Consolidation, Problem 4) A help signal from a sailing boat is received from a lighthouse $55\;\text{m}$ above sea level; the angle of depression from the lighthouse to the boat is $21^{\circ}$. How far is the boat from the lighthouse at this moment (round to an integer)?
 
 ### Solution to Problem 10
 
-In the right triangle, the lighthouse height $55\,\text{m}$ is the opposite side, the angle of depression is $21^{\circ}$, and the straight-line distance from the boat to the lighthouse is the hypotenuse.
+In the right triangle, the lighthouse height $55\;\text{m}$ is the opposite side, the angle of depression is $21^{\circ}$, and the straight-line distance from the boat to the lighthouse is the hypotenuse.
 
-By **Definition 28.1.1 (Sine)**, $\sin21^{\circ}=\frac{55}{d}$, so $d=\frac{55}{\sin21^{\circ}}\approx\frac{55}{0.3584}\approx153\,\text{m}$. $\blacksquare$
+By **Definition 28.1.1 (Sine)**, $\sin21^{\circ}=\frac{55}{d}$, so $d=\frac{55}{\sin21^{\circ}}\approx\frac{55}{0.3584}\approx153\;\text{m}$. $\blacksquare$
 
 ## Problem 11
 
-(Problem 28.2, Review and Consolidation, Problem 5) As shown in the figure, trees are planted on a hillside; the required spacing (the horizontal distance between two adjacent trees) is $5.5\,\text{m}$. The inclination angle of the slope is measured to be $24^{\circ}$. Find the distance along the slope between two adjacent trees (round to one decimal place).
+(Problem 28.2, Review and Consolidation, Problem 5) As shown in the figure, trees are planted on a hillside; the required spacing (the horizontal distance between two adjacent trees) is $5.5\;\text{m}$. The inclination angle of the slope is measured to be $24^{\circ}$. Find the distance along the slope between two adjacent trees (round to one decimal place).
 
 ### Solution to Problem 11
 
-The horizontal distance $5.5\,\text{m}$ is the adjacent side, the slope distance is the hypotenuse, and the slope angle is $24^{\circ}$.
+The horizontal distance $5.5\;\text{m}$ is the adjacent side, the slope distance is the hypotenuse, and the slope angle is $24^{\circ}$.
 
-By **Definition 28.1.2 (Cosine)**, $\cos24^{\circ}=\frac{5.5}{d}$, so $d=\frac{5.5}{\cos24^{\circ}}\approx\frac{5.5}{0.9135}\approx6.0\,\text{m}$. $\blacksquare$
+By **Definition 28.1.2 (Cosine)**, $\cos24^{\circ}=\frac{5.5}{d}$, so $d=\frac{5.5}{\cos24^{\circ}}\approx\frac{5.5}{0.9135}\approx6.0\;\text{m}$. $\blacksquare$
 
 ## Problem 12
 

@@ -244,7 +244,7 @@ $$\frac{a}{\sin{A}}=\frac{b}{\sin{B}}=\frac{c}{\sin{C}}.\,\blacksquare$$
 
 圆锥母线 $l=300$, 底面半径 $r=120$. 圆锥侧面积 $=\pi{r}l=\pi\times120\times300=36000\pi$.
 
-总表面积 $=48000\pi+36000\pi=84000\pi\approx263894\,\text{cm}^{2}$. $\blacksquare$
+总表面积 $=48000\pi+36000\pi=84000\pi\approx263894\;\text{cm}^{2}$. $\blacksquare$
 
 ## 习题六
 
@@ -356,7 +356,7 @@ $$\frac{a}{\sin{A}}=\frac{b}{\sin{B}}=\frac{c}{\sin{C}}.\,\blacksquare$$
 
 由三视图判断该几何体为圆柱, 底面直径 $d=10$, 半径 $r=5$, 高 $h=5$.
 
-表面积 $S=2\pi{r}^{2}+2\pi{r}h=2\pi\times25+2\pi\times5\times5=50\pi+50\pi=100\pi\approx314\,\text{cm}^{2}$. $\blacksquare$
+表面积 $S=2\pi{r}^{2}+2\pi{r}h=2\pi\times25+2\pi\times5\times5=50\pi+50\pi=100\pi\approx314\;\text{cm}^{2}$. $\blacksquare$
 
 ## 阅读与思考一
 

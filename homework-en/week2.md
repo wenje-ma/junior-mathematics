@@ -84,7 +84,7 @@ That is, Guangzhou $>$ Wuhan $>$ Nanjing $>$ Beijing $>$ Harbin. $\blacksquare$
 
 (Exercise 1.2, Review and Consolidation, Problem 1) Place the following rational numbers into the corresponding sets:
 
-$$3,\,-\frac{4}{5},\,0,\,1\frac{3}{4},\,0.45,\,120,\,-77,\,-2.56,\,-123\frac{1}{2},\,0.\dot{3}.$$
+$$3,-\frac{4}{5},0,1\frac{3}{4},0.45,120,-77,-2.56,-123\frac{1}{2},0.\dot{3}.$$
 
 Set of positive rational numbers: $\left\{\;\cdots\;\right\}$. Set of negative rational numbers: $\left\{\;\cdots\;\right\}$. Set of integers: $\left\{\;\cdots\;\right\}$.
 
@@ -98,7 +98,7 @@ The numbers obtained by prefixing a positive number with the sign "$-$" are $-\f
 
 Among them, the integers are $3$, $0$, $120$, $-77$.
 
-Hence the set of positive rational numbers is $\left\{3,\,1\frac{3}{4},\,0.45,\,120,\,0.\dot{3},\,\cdots\right\}$; the set of negative rational numbers is $\left\{-\frac{4}{5},\,-77,\,-2.56,\,-123\frac{1}{2},\,\cdots\right\}$; the set of integers is $\left\{3,\,0,\,120,\,-77,\,\cdots\right\}$. $\blacksquare$
+Hence the set of positive rational numbers is $\left\{3,1\frac{3}{4},0.45,120,0.\dot{3},\cdots\right\}$; the set of negative rational numbers is $\left\{-\frac{4}{5},-77,-2.56,-123\frac{1}{2},\cdots\right\}$; the set of integers is $\left\{3,0,120,-77,\cdots\right\}$. $\blacksquare$
 
 ## Problem 2
 
@@ -130,7 +130,7 @@ Hence fill in in turn: $-7$; $\frac{1}{4}$; $0$. $\blacksquare$
 
 (Exercise 1.2, Review and Consolidation, Problem 4) Write down the absolute value of each of the following, and indicate which number has the largest absolute value and which has the smallest:
 
-$$-9,\,3.75,\,0,\,\frac{4}{3},\,-0.001,\,-1.$$
+$$-9,3.75,0,\frac{4}{3},-0.001,-1.$$
 
 ### Solution to Problem 4
 
@@ -176,7 +176,7 @@ By **Definition 1.2.7 (Comparing the Magnitude of Rational Numbers)**, for two n
 
 (Exercise 1.2, Comprehensive Application, Problem 6) Represent the following numbers on the number line:
 
-$$2,\,2\frac{4}{5},\,-0.5,\,-2,\,0,\,-2\frac{4}{5},\,\frac{1}{2},\,1.2.$$
+$$2,2\frac{4}{5},-0.5,-2,0,-2\frac{4}{5},\frac{1}{2},1.2.$$
 
 On a number line with origin $0$, rightward as the positive direction, and unit length $1$, mark the points at $-2.8$, $-2$, $-0.5$, $0$, $0.5$, $1.2$, $2$, $2.8$, corresponding respectively to $-2\frac{4}{5}$, $-2$, $-0.5$, $0$, $\frac{1}{2}$, $1.2$, $2$, $2\frac{4}{5}$.
 
@@ -190,7 +190,7 @@ The corresponding points of the numbers on the number line are: $-2.8$ is $2.8$ 
 
 (Exercise 1.2, Comprehensive Application, Problem 7) If one does not take care of one's eyes, nearsightedness may develop. During an eye examination, optometrists often record the degree of nearsightedness in the form "$\times\times\times\text{D}$"; for example, $50$ degrees of nearsightedness is recorded as "$-0.50\text{D}$", and $100$ degrees as "$-1.00\text{D}$", and so on. The eye-examination records of $6$ students are as follows:
 
-$$-0.50\text{D},\,-1.25\text{D},\,-2.50\text{D},\,-0.75\text{D},\,-1.75\text{D},\,-2.25\text{D}.$$
+$$-0.50\text{D},-1.25\text{D},-2.50\text{D},-0.75\text{D},-1.75\text{D},-2.25\text{D}.$$
 
 Usually, when nearsightedness exceeds $200$ degrees, one must continuously wear glasses for vision correction. Among these $6$ students, how many need to continuously wear glasses?
 
@@ -200,7 +200,7 @@ According to the problem, the records of nearsightedness degrees are negative nu
 
 The absolute values of the records are respectively
 
-$$0.50,\,1.25,\,2.50,\,0.75,\,1.75,\,2.25.$$
+$$0.50,1.25,2.50,0.75,1.75,2.25.$$
 
 Nearsightedness exceeding $200$ degrees means the absolute value is greater than $2.00$. Among them, $2.50>2.00$ and $2.25>2.00$, totaling $2$.
 
@@ -264,7 +264,7 @@ Number $1$, $2$, $3$, $4$, $5$, $6$; weight situation $-1.1$, $+2$, $-0.5$, $+10
 
 By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**, exceeding the standard weight is recorded as a positive number, and falling short of the standard weight is recorded as a negative number.
 
-(1) In the table, the positive numbers are $+2$, $+10$, $+4.7$, that is, students numbered $2$, $4$, $5$ have weights exceeding the standard weight; the negative numbers are $-1.1$, $-0.5$, $-8.3$, that is, students numbered $1$, $3$, $6$ have weights falling short of the standard weight. Among the $6$ students in the group, $3$ exceed and $3$ fall short; the total excess is $2+10+4.7=16.7\,\text{kg}$, and the total shortfall is $\left|-1.1\right|+\left|-0.5\right|+\left|-8.3\right|=9.9\,\text{kg}$; the group as a whole is somewhat overweight.
+(1) In the table, the positive numbers are $+2$, $+10$, $+4.7$, that is, students numbered $2$, $4$, $5$ have weights exceeding the standard weight; the negative numbers are $-1.1$, $-0.5$, $-8.3$, that is, students numbered $1$, $3$, $6$ have weights falling short of the standard weight. Among the $6$ students in the group, $3$ exceed and $3$ fall short; the total excess is $2+10+4.7=16.7\;\text{kg}$, and the total shortfall is $\left|-1.1\right|+\left|-0.5\right|+\left|-8.3\right|=9.9\;\text{kg}$; the group as a whole is somewhat overweight.
 
 (2) By **Definition 1.2.5 (Absolute Value)**, the smaller the absolute value of a number, the smaller its deviation from $0$. The absolute values of the deviations are $1.1$, $2$, $0.5$, $10$, $4.7$, $8.3$, among which $0.5$ is the smallest, so the student numbered $3$ has the weight closest to the standard weight. Besides judging positive and negative numbers, one should also consider the magnitude of the absolute value of the deviation, that is, the extent to which the weight deviates from the standard weight, in order to judge whether the weight is standard. $\blacksquare$
 
@@ -308,7 +308,7 @@ By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**, rise and 
 
 (Review Problem, Review and Consolidation, Problem 2) Represent the following numbers on the number line, arrange these numbers in order from smallest to largest, and then connect them with "$<$":
 
-$$3,\,-4,\,0,\,2,\,-2,\,-1.$$
+$$3,-4,0,2,-2,-1.$$
 
 On a number line with origin $0$, rightward as the positive direction, and unit length $1$, mark the six points $3$, $-4$, $0$, $2$, $-2$, $-1$, arranged from left to right as $-4$, $-2$, $-1$, $0$, $2$, $3$.
 
@@ -396,7 +396,7 @@ On the number line, mark all the integer points strictly between $-3$ and $4$: $
 
 By **Definition 1.2.1 (Integers and Fractions)** and **Definition 1.2.3 (Number Line)**, the integers $x$ satisfying $-3<{}x<4$ are the integers strictly between $-3$ and $4$, namely
 
-$$x=-2,\,-1,\,0,\,1,\,2,\,3.$$
+$$x=-2,-1,0,1,2,3.$$
 
 Mark these $6$ points on the number line, as shown in the figure. $\blacksquare$
 

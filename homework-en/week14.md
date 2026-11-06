@@ -430,7 +430,7 @@ The degree system uses degrees, minutes, and seconds as units, $1^{\circ}=60'$, 
 
 By **Definition 6.1.3 (Net)**, after the cube's net is folded, each face corresponds to and is adjacent to another.
 
-The cube's net consists of six identical squares; draw the net to the dimensions shown ($6\,\text{cm}\times6\,\text{cm}$ for each face), cut and fold it to obtain a cube of side $6\,\text{cm}$. $\blacksquare$
+The cube's net consists of six identical squares; draw the net to the dimensions shown ($6\;\text{cm}\times6\;\text{cm}$ for each face), cut and fold it to obtain a cube of side $6\;\text{cm}$. $\blacksquare$
 
 ## Activity 2
 
@@ -544,7 +544,7 @@ $\blacksquare$
 
 ## Review Problem 5
 
-(Review Problem, Review and Consolidation, Problem 5) In a part diagram, $AD=76\,\text{mm}$, $BD=70\,\text{mm}$, $CD=19\,\text{mm}$; find the lengths of $AB$ and $BC$.
+(Review Problem, Review and Consolidation, Problem 5) In a part diagram, $AD=76\;\text{mm}$, $BD=70\;\text{mm}$, $CD=19\;\text{mm}$; find the lengths of $AB$ and $BC$.
 
 ### Solution to Review Problem 5
 
@@ -552,8 +552,8 @@ By **Definition 6.2.5 (Basic Fact about Segments)** and the sum-and-difference r
 
 The points $A$, $B$, $C$, $D$ lie in that order on the same line (as shown in the figure).
 
-$$AB=AD-BD=76-70=6\,\text{mm}.$$
+$$AB=AD-BD=76-70=6\;\text{mm}.$$
 
-$$BC=BD-CD=70-19=51\,\text{mm}.$$
+$$BC=BD-CD=70-19=51\;\text{mm}.$$
 
 $\blacksquare$

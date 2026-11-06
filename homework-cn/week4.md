@@ -88,7 +88,7 @@
 
 (习题 2.1 拓广探索第 12 题) 计算下列各式的值:
 
-$$\left(-2\right)+\left(-2\right),\,\left(-2\right)+\left(-2\right)+\left(-2\right),\,\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right),\,\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right).$$
+$$\left(-2\right)+\left(-2\right),\left(-2\right)+\left(-2\right)+\left(-2\right),\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right),\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right).$$
 
 猜想下列各式的值: $\left(-2\right)\times2$, $\left(-2\right)\times3$, $\left(-2\right)\times4$, $\left(-2\right)\times5$. 你能进一步猜出负数乘正数的法则吗?
 
@@ -110,13 +110,13 @@ $$\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right)+\left(-2\right
 
 (习题 2.1 拓广探索第 13 题) 某公路养护小组乘车沿一条南北向公路巡视养护. 某天早晨他们从 $A$ 地出发, 晚上最终到达 $B$ 地. 约定向北为正方向, 当天汽车的行驶记录 (单位: $\text{km}$) 如下:
 
-$$+18,\,-9,\,+7,\,-14,\,-6,\,+13,\,-6,\,-8.$$
+$$+18,-9,+7,-14,-6,+13,-6,-8.$$
 
 假设汽车在同一行驶记录下是单向行驶.
 
 (1) $B$ 地在 $A$ 地的哪个方向? 它们相距多少千米?
 
-(2) 如果汽车行驶 $1\,\text{km}$ 平均耗油 $a\,\text{L}$, 那么这天汽车共耗油多少升?
+(2) 如果汽车行驶 $1\;\text{km}$ 平均耗油 $a\;\text{L}$, 那么这天汽车共耗油多少升?
 
 ### 解答 习题四
 
@@ -126,13 +126,13 @@ $$+18,\,-9,\,+7,\,-14,\,-6,\,+13,\,-6,\,-8.$$
 
 $$18-9+7-14-6+13-6-8=-5.$$
 
-结果为负, 故 $B$ 地在 $A$ 地的南方, 它们相距 $5\,\text{km}$.
+结果为负, 故 $B$ 地在 $A$ 地的南方, 它们相距 $5\;\text{km}$.
 
 (2) 汽车行驶的总路程为各记录绝对值之和:
 
 $$\left|18\right|+\left|-9\right|+\left|7\right|+\left|-14\right|+\left|-6\right|+\left|13\right|+\left|-6\right|+\left|-8\right|=81.$$
 
-故这天汽车共耗油 $81a\,\text{L}$. $\blacksquare$
+故这天汽车共耗油 $81a\;\text{L}$. $\blacksquare$
 
 ## 阅读与思考一
 
@@ -174,7 +174,7 @@ $$\left(-5\right)\times60=-300.$$
 
 (练习 2.2 第 3 题) 写出下列各数的倒数:
 
-$$1,\,-1,\,\frac{1}{3},\,-\frac{1}{3},\,5,\,-5,\,\frac{2}{3},\,-\frac{2}{3}.$$
+$$1,-1,\frac{1}{3},-\frac{1}{3},5,-5,\frac{2}{3},-\frac{2}{3}.$$
 
 ### 解答 练习三
 

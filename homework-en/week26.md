@@ -14,7 +14,7 @@
 
 > **Property 11.1.2 (Property 2 of Inequalities)**
 > 
-> $a>{}b,\,c>0\Rightarrow{a}c>{}bc$.
+> $a>{}b,c>0\Rightarrow{a}c>{}bc$.
 
 > **Definition 11.1.3 (Solution Set of an Inequality)**
 > 
@@ -22,7 +22,7 @@
 
 > **Property 11.1.3 (Property 3 of Inequalities)**
 > 
-> $a>{}b,\,c<0\Rightarrow{a}c<{}bc$.
+> $a>{}b,c<0\Rightarrow{a}c<{}bc$.
 
 > **Definition 11.2.1 (Linear Inequality in One Variable)**
 > 
@@ -118,7 +118,7 @@ The solution sets are represented on the number line as shown. $\blacksquare$
 
 ## Problem 5
 
-(Exercise 11.1, Comprehensive Application, Problem 9) A part's blueprint specifies a length $L=40\pm0.02\,\text{mm}$. Within what range does the length $L$ of a qualified part lie?
+(Exercise 11.1, Comprehensive Application, Problem 9) A part's blueprint specifies a length $L=40\pm0.02\;\text{mm}$. Within what range does the length $L$ of a qualified part lie?
 
 ### Solution to Problem 5
 
@@ -132,7 +132,7 @@ i.e. $39.98\le{L}\le40.02$. $\blacksquare$
 
 ## Problem 6
 
-(Exercise 11.1, Comprehensive Application, Problem 10) The subway fare in a certain city: when the travel distance does not exceed a certain distance, the fare is $8$ yuan. Let the travel distance be $x\,\text{km}$; the distance range corresponding to the $8$-yuan fare is $0<{}x\le20$. Express the range of $x$ using an inequality.
+(Exercise 11.1, Comprehensive Application, Problem 10) The subway fare in a certain city: when the travel distance does not exceed a certain distance, the fare is $8$ yuan. Let the travel distance be $x\;\text{km}$; the distance range corresponding to the $8$-yuan fare is $0<{}x\le20$. Express the range of $x$ using an inequality.
 
 ### Solution to Problem 6
 
@@ -240,19 +240,19 @@ i.e. $10x-100+5x>90$, $15x>190$, $x>12\frac{2}{3}$. Hence at least $13$ question
 
 ## Exercise 4
 
-(Exercise 11.2, Problem 4) The energy consumption per ten thousand yuan of regional GDP in a certain place is $0.320\,\text{t}$ of standard coal. If this year it must drop by no less than $5\%$ compared with last year, at most how many tons of standard coal may this year's energy consumption per ten thousand yuan of regional GDP be?
+(Exercise 11.2, Problem 4) The energy consumption per ten thousand yuan of regional GDP in a certain place is $0.320\;\text{t}$ of standard coal. If this year it must drop by no less than $5\%$ compared with last year, at most how many tons of standard coal may this year's energy consumption per ten thousand yuan of regional GDP be?
 
 ### Solution to Exercise 4
 
-Let this year's energy consumption be $x\,\text{t}$. By the statement $x\le0.320\left(1-5\%\right)=0.304$. Hence this year it is at most $0.304\,\text{t}$ of standard coal. $\blacksquare$
+Let this year's energy consumption be $x\;\text{t}$. By the statement $x\le0.320\left(1-5\%\right)=0.304$. Hence this year it is at most $0.304\;\text{t}$ of standard coal. $\blacksquare$
 
 ## Exercise 5
 
-(Exercise 11.2, Problem 5) A construction team must finish repairing a $6\,\text{km}$ road within $10$ days; in the first $2$ days it repaired $1.2\,\text{km}$ in total. Now it is required to finish at least $2$ days early. At least how many kilometers must be repaired on average per day thereafter?
+(Exercise 11.2, Problem 5) A construction team must finish repairing a $6\;\text{km}$ road within $10$ days; in the first $2$ days it repaired $1.2\;\text{km}$ in total. Now it is required to finish at least $2$ days early. At least how many kilometers must be repaired on average per day thereafter?
 
 ### Solution to Exercise 5
 
-The remaining distance is $6-1.2=4.8\,\text{km}$, and the remaining time is $10-2-2=6$ days. Let $x\,\text{km}$ be repaired per day thereafter; then $6x\ge4.8$, giving $x\ge0.8$. Hence on average at least $0.8\,\text{km}$ must be repaired per day thereafter. $\blacksquare$
+The remaining distance is $6-1.2=4.8\;\text{km}$, and the remaining time is $10-2-2=6$ days. Let $x\;\text{km}$ be repaired per day thereafter; then $6x\ge4.8$, giving $x\ge0.8$. Hence on average at least $0.8\;\text{km}$ must be repaired per day thereafter. $\blacksquare$
 
 ## Exercise 6
 
@@ -278,11 +278,11 @@ i.e. $12x+400\le900$, $x\le41\frac{2}{3}$. Hence at most $41$ notebooks can be b
 
 ## Exercise 8
 
-(Exercise 11.2, Problem 8) A fruit shop spends $10000$ yuan buying $200\,\text{kg}$ each of large and small cherries; large cherries sell at $39$ yuan per kilogram and small cherries at $29$ yuan per kilogram. During transport the large cherries lose $20\%$, while the small cherries suffer no loss. If the profit must be no less than $90\%$ of the expected profit, at least how much per kilogram must the large cherries actually sell for?
+(Exercise 11.2, Problem 8) A fruit shop spends $10000$ yuan buying $200\;\text{kg}$ each of large and small cherries; large cherries sell at $39$ yuan per kilogram and small cherries at $29$ yuan per kilogram. During transport the large cherries lose $20\%$, while the small cherries suffer no loss. If the profit must be no less than $90\%$ of the expected profit, at least how much per kilogram must the large cherries actually sell for?
 
 ### Solution to Exercise 8
 
-The expected profit (without loss) is $200\times39+200\times29-10000=13600-10000=3600$ yuan. Actually $200\times\left(1-20\%\right)=160\,\text{kg}$ of large cherries remain. Let the actual selling price of large cherries be $x$ yuan per kilogram; then
+The expected profit (without loss) is $200\times39+200\times29-10000=13600-10000=3600$ yuan. Actually $200\times\left(1-20\%\right)=160\;\text{kg}$ of large cherries remain. Let the actual selling price of large cherries be $x$ yuan per kilogram; then
 
 $$
 160x+200\times29-10000\ge3600\times90\%.
@@ -376,11 +376,11 @@ i.e. $160x-4200\ge3240$, $160x\ge7440$, $x\ge46.5$. Hence the large cherries mus
 
 ## Problem 13
 
-(Exercise 11.2, Comprehensive Application, Problem 5) In a long-distance race, Liu Wei is $100\,\text{m}$ from the finish and sprints at a speed of $6.5\,\text{m/s}$; at this moment Li Ming is $10\,\text{m}$ behind Liu Wei. At least what speed must Li Ming have to reach the finish before Liu Wei?
+(Exercise 11.2, Comprehensive Application, Problem 5) In a long-distance race, Liu Wei is $100\;\text{m}$ from the finish and sprints at a speed of $6.5\;\text{m/s}$; at this moment Li Ming is $10\;\text{m}$ behind Liu Wei. At least what speed must Li Ming have to reach the finish before Liu Wei?
 
 ### Solution to Problem 13
 
-Liu Wei needs $\frac{100}{6.5}\,\text{s}$ to reach the finish. Li Ming is $110\,\text{m}$ from the finish; let his speed be $v\,\text{m/s}$. He needs $\frac{110}{v}<\frac{100}{6.5}$, giving $v>\frac{110\times6.5}{100}=7.15$. Hence Li Ming's speed must be at least $7.15\,\text{m/s}$. $\blacksquare$
+Liu Wei needs $\frac{100}{6.5}\;\text{s}$ to reach the finish. Li Ming is $110\;\text{m}$ from the finish; let his speed be $v\;\text{m/s}$. He needs $\frac{110}{v}<\frac{100}{6.5}$, giving $v>\frac{110\times6.5}{100}=7.15$. Hence Li Ming's speed must be at least $7.15\;\text{m/s}$. $\blacksquare$
 
 ## Problem 14
 
@@ -402,7 +402,7 @@ i.e. $330000+5000x-300000>550000$, $5000x>520000$, giving $x>104$. Hence this ba
 
 ### Solution to Problem 15
 
-Let the selling price be $x$ yuan per kilogram. After deducting the $5\%$ loss, each kilogram yields the revenue of only $0.95\,\text{kg}$ sold; to avoid losing money we need
+Let the selling price be $x$ yuan per kilogram. After deducting the $5\%$ loss, each kilogram yields the revenue of only $0.95\;\text{kg}$ sold; to avoid losing money we need
 
 $$
 0.95x\ge8.55,

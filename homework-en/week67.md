@@ -94,7 +94,7 @@ By **Definition 26.1.2 (Graph and Properties of the Inverse Proportional Functio
 
 ## Review Problem 4
 
-(Review Problem 26, Comprehensive Application, Problem 6) The areas of the three faces $A,B,C$ of a brick are in the ratio $4:2:1$. If the $B$ face is placed downward on the ground, the pressure on the ground is $a\,\text{Pa}$. What are the pressures on the ground when the $A$ face and the $C$ face are placed downward, respectively?
+(Review Problem 26, Comprehensive Application, Problem 6) The areas of the three faces $A,B,C$ of a brick are in the ratio $4:2:1$. If the $B$ face is placed downward on the ground, the pressure on the ground is $a\;\text{Pa}$. What are the pressures on the ground when the $A$ face and the $C$ face are placed downward, respectively?
 
 ### Solution to Review Problem 4
 
@@ -108,11 +108,11 @@ When the $C$ face is down, $p_C=\frac{F}{S}=2a$. $\blacksquare$
 
 ## Review Problem 5
 
-(Review Problem 26, Comprehensive Application, Problem 7) It is known that the service life of a certain brand of display is about $2\times10^4\,\text{h}$.
+(Review Problem 26, Comprehensive Application, Problem 7) It is known that the service life of a certain brand of display is about $2\times10^4\;\text{h}$.
 
 (1) What is the functional relationship between the number of days $d$ this display can work and the average number of hours $t$ worked per day?
 
-(2) If it works $10\,\text{h}$ per day on average, about how long can this display be used?
+(2) If it works $10\;\text{h}$ per day on average, about how long can this display be used?
 
 ### Solution to Review Problem 5
 
@@ -170,11 +170,11 @@ Therefore $k_1k_2<0$. $\blacksquare$
 
 ## Review Problem 9
 
-(Review Problem 26, Extension and Exploration, Problem 11) The city government plans to build a water conservancy project. The total volume of earth and stone to be transported for the project is $10^6\,\text{m}^3$, and a certain transport company undertakes the task of transporting the earth and stone.
+(Review Problem 26, Extension and Exploration, Problem 11) The city government plans to build a water conservancy project. The total volume of earth and stone to be transported for the project is $10^6\;\text{m}^3$, and a certain transport company undertakes the task of transporting the earth and stone.
 
 (1) What is the functional relationship between the company's average transport speed $v$ (unit: $\text{m}^3/$day) and the time $t$ (unit: days) required to complete the transport task?
 
-(2) The transport company has a total of $100$ trucks, and can transport $10^4\,\text{m}^3$ of earth and stone per day. How long does the company need to complete all the transport tasks?
+(2) The transport company has a total of $100$ trucks, and can transport $10^4\;\text{m}^3$ of earth and stone per day. How long does the company need to complete all the transport tasks?
 
 (3) After the company has worked for $40$ days at the speed in problem (2), due to the needs of the project schedule, all the remaining transport tasks must be completed within $50$ days. At least how many additional trucks should the company add?
 
@@ -184,7 +184,7 @@ Therefore $k_1k_2<0$. $\blacksquare$
 
 (2) When $v=10^4$, $t=\frac{10^6}{10^4}=100$ days.
 
-(3) In $40$ days, $40\times10^4=4\times10^5\,\text{m}^3$ has been transported, leaving $6\times10^5\,\text{m}^3$. To complete within $50$ days requires transporting $\frac{6\times10^5}{50}=1.2\times10^4\,\text{m}^3$ per day. Each truck transports $\frac{10^4}{100}=100\,\text{m}^3$ per day, so $\frac{1.2\times10^4}{100}=120$ trucks are needed; there are already $100$ trucks, so at least $20$ more should be added. $\blacksquare$
+(3) In $40$ days, $40\times10^4=4\times10^5\;\text{m}^3$ has been transported, leaving $6\times10^5\;\text{m}^3$. To complete within $50$ days requires transporting $\frac{6\times10^5}{50}=1.2\times10^4\;\text{m}^3$ per day. Each truck transports $\frac{10^4}{100}=100\;\text{m}^3$ per day, so $\frac{1.2\times10^4}{100}=120$ trucks are needed; there are already $100$ trucks, so at least $20$ more should be added. $\blacksquare$
 
 ## Exercise 1
 
@@ -206,13 +206,13 @@ By **Definition 27.1.1 (Similar Figures)**, figures with the same shape are simi
 
 ## Exercise 3
 
-(Exercise 27.1, Problem 1) On a map with scale $1:10\,000\,000$, the distance between Place A and Place B is measured to be $30\,\text{cm}$. Find the actual distance between the two places.
+(Exercise 27.1, Problem 1) On a map with scale $1:10\,000\,000$, the distance between Place A and Place B is measured to be $30\;\text{cm}$. Find the actual distance between the two places.
 
 ### Solution to Exercise 3
 
-The scale $=$ the map distance $:$ the actual distance, i.e. $1:10\,000\,000=30\,\text{cm}:$ the actual distance.
+The scale $=$ the map distance $:$ the actual distance, i.e. $1:10\,000\,000=30\;\text{cm}:$ the actual distance.
 
-The actual distance $=30\times10\,000\,000=3\times10^8\,\text{cm}=3000\,\text{km}$. $\blacksquare$
+The actual distance $=30\times10\,000\,000=3\times10^8\;\text{cm}=3000\;\text{km}$. $\blacksquare$
 
 ## Exercise 4
 
@@ -250,11 +250,11 @@ Thus $a=3$, $b=4.5$, $c=4$, $d=6$. $\blacksquare$
 
 ## Problem 1
 
-(Problem 27.1, Review and Consolidation, Problem 1) The actual distance between two places is $2000\,\text{m}$, and the distance on the map between these two places is measured as $2\,\text{cm}$. What is the scale of this map?
+(Problem 27.1, Review and Consolidation, Problem 1) The actual distance between two places is $2000\;\text{m}$, and the distance on the map between these two places is measured as $2\;\text{cm}$. What is the scale of this map?
 
 ### Solution to Problem 1
 
-$2000\,\text{m}=200000\,\text{cm}$.
+$2000\;\text{m}=200000\;\text{cm}$.
 
 The scale is $=2:200000=1:100000$. $\blacksquare$
 
@@ -318,7 +318,7 @@ $$
 
 ## Problem 6
 
-(Problem 27.1, Comprehensive Application, Problem 6) A rectangular lawn is $30\,\text{m}$ long and $20\,\text{m}$ wide. Around the lawn there is a $1\,\text{m}$ wide circular path. Are the two rectangles formed by the inner and outer edges of the path similar? Give your reason.
+(Problem 27.1, Comprehensive Application, Problem 6) A rectangular lawn is $30\;\text{m}$ long and $20\;\text{m}$ wide. Around the lawn there is a $1\;\text{m}$ wide circular path. Are the two rectangles formed by the inner and outer edges of the path similar? Give your reason.
 
 ### Solution to Problem 6
 
@@ -390,9 +390,9 @@ The similarity ratio is $\frac{AD}{AB}=\frac{AD}{AD+DB}=\frac{3}{3+2}=\frac{3}{5
 
 (Exercise 27.2, Problem 1) Based on the following conditions, determine whether $\triangle{A}BC$ and $\triangle{A}'B'C'$ are similar, and explain your reasoning:
 
-(1) $\angle{A}=40^\circ$, $AB=8\,\text{cm}$, $AC=15\,\text{cm}$, $\angle{A}'=40^\circ$, $A'B'=16\,\text{cm}$, $A'C'=30\,\text{cm}$;
+(1) $\angle{A}=40^\circ$, $AB=8\;\text{cm}$, $AC=15\;\text{cm}$, $\angle{A}'=40^\circ$, $A'B'=16\;\text{cm}$, $A'C'=30\;\text{cm}$;
 
-(2) $AB=10\,\text{cm}$, $BC=8\,\text{cm}$, $AC=16\,\text{cm}$, $A'B'=16\,\text{cm}$, $B'C'=12.8\,\text{cm}$, $A'C'=25.6\,\text{cm}$.
+(2) $AB=10\;\text{cm}$, $BC=8\;\text{cm}$, $AC=16\;\text{cm}$, $A'B'=16\;\text{cm}$, $B'C'=12.8\;\text{cm}$, $A'C'=25.6\;\text{cm}$.
 
 ### Solution to Exercise 8
 
@@ -426,17 +426,17 @@ Second group: $\angle{A}CB=\angle{D}CE$ (vertical angles), and $\frac{BC}{CE}=\f
 
 ## Exercise 10
 
-(Exercise 27.2, Problem 3) To make two triangular frames of the same shape, one frame has side lengths $4\,\text{cm}$, $5\,\text{cm}$, and $6\,\text{cm}$, and the other frame has one side of length $2\,\text{cm}$. What should the lengths of its other two sides be? How many construction schemes do you have?
+(Exercise 27.2, Problem 3) To make two triangular frames of the same shape, one frame has side lengths $4\;\text{cm}$, $5\;\text{cm}$, and $6\;\text{cm}$, and the other frame has one side of length $2\;\text{cm}$. What should the lengths of its other two sides be? How many construction schemes do you have?
 
 ### Solution to Exercise 10
 
-By **Criterion Theorem 27.2.2** (SSS), two triangles are similar if their three corresponding sides are proportional. The side of length $2\,\text{cm}$ may correspond to any of the three sides of the original triangle.
+By **Criterion Theorem 27.2.2** (SSS), two triangles are similar if their three corresponding sides are proportional. The side of length $2\;\text{cm}$ may correspond to any of the three sides of the original triangle.
 
-Scheme 1: $2$ corresponds to $4$, similarity ratio $\frac{1}{2}$, the other two sides are $2.5\,\text{cm}$ and $3\,\text{cm}$.
+Scheme 1: $2$ corresponds to $4$, similarity ratio $\frac{1}{2}$, the other two sides are $2.5\;\text{cm}$ and $3\;\text{cm}$.
 
-Scheme 2: $2$ corresponds to $5$, similarity ratio $\frac{2}{5}$, the other two sides are $\frac{8}{5}\,\text{cm}$ and $\frac{12}{5}\,\text{cm}$.
+Scheme 2: $2$ corresponds to $5$, similarity ratio $\frac{2}{5}$, the other two sides are $\frac{8}{5}\;\text{cm}$ and $\frac{12}{5}\;\text{cm}$.
 
-Scheme 3: $2$ corresponds to $6$, similarity ratio $\frac{1}{3}$, the other two sides are $\frac{4}{3}\,\text{cm}$ and $\frac{5}{3}\,\text{cm}$.
+Scheme 3: $2$ corresponds to $6$, similarity ratio $\frac{1}{3}$, the other two sides are $\frac{4}{3}\;\text{cm}$ and $\frac{5}{3}\;\text{cm}$.
 
 There are three schemes in total. $\blacksquare$
 
@@ -506,7 +506,7 @@ Therefore $\frac{AD}{A'D'}=\frac{BE}{B'E'}$. $\blacksquare$
 
 ## Exercise 16
 
-(Exercise 27.2, Problem 3) On a photocopied sheet, one side of a triangle changed from $2\,\text{cm}$ in the original to $6\,\text{cm}$. What is the scaling ratio? How did the area of this triangle change?
+(Exercise 27.2, Problem 3) On a photocopied sheet, one side of a triangle changed from $2\;\text{cm}$ in the original to $6\;\text{cm}$. What is the scaling ratio? How did the area of this triangle change?
 
 ### Solution to Exercise 16
 
@@ -516,7 +516,7 @@ By Area Ratio, the area ratio is the square of the similarity ratio, i.e. $9$ ti
 
 ## Exercise 17
 
-(Exercise 27.2, Problem 1) At a certain moment, the shadow of a bamboo pole of height $1.8\,\text{m}$ is measured to be $3\,\text{m}$ long, and at the same moment the shadow of a building is measured to be $90\,\text{m}$ long. What is the height of the building?
+(Exercise 27.2, Problem 1) At a certain moment, the shadow of a bamboo pole of height $1.8\;\text{m}$ is measured to be $3\;\text{m}$ long, and at the same moment the shadow of a building is measured to be $90\;\text{m}$ long. What is the height of the building?
 
 ### Solution to Exercise 17
 
@@ -527,5 +527,5 @@ $$
 $$
 
 $$
-h=\frac{1.8\times90}{3}=54\,\text{m}.\,\blacksquare
+h=\frac{1.8\times90}{3}=54\;\text{m}.\,\blacksquare
 $$

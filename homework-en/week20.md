@@ -238,17 +238,17 @@ Estimate the range of each irrational number.
 
 ## Problem 8
 
-(Exercise 8.3, Comprehensive Application, Problem 8) As shown in the figure, the areas of two squares inside a rectangle are $3\,\text{cm}^2$ and $1\,\text{cm}^2$ respectively.
+(Exercise 8.3, Comprehensive Application, Problem 8) As shown in the figure, the areas of two squares inside a rectangle are $3\;\text{cm}^2$ and $1\;\text{cm}^2$ respectively.
 
 (1) Find the perimeter of the rectangle;
 
 (2) Find the sum of the areas of the two shaded parts in the figure.
 
-The figure shows a large rectangle containing two squares placed side by side: the larger square has area $3\,\text{cm}^2$ (side $\sqrt3$), the smaller square has area $1\,\text{cm}^2$ (side $1$); the two shaded regions are the parts of the large rectangle remaining after removing the two squares.
+The figure shows a large rectangle containing two squares placed side by side: the larger square has area $3\;\text{cm}^2$ (side $\sqrt3$), the smaller square has area $1\;\text{cm}^2$ (side $1$); the two shaded regions are the parts of the large rectangle remaining after removing the two squares.
 
 ### Solution to Problem 8
 
-The square of area $3\,\text{cm}^2$ has side length $\sqrt3\,\text{cm}$, and the square of area $1\,\text{cm}^2$ has side length $1\,\text{cm}$.
+The square of area $3\;\text{cm}^2$ has side length $\sqrt3\;\text{cm}$, and the square of area $1\;\text{cm}^2$ has side length $1\;\text{cm}$.
 
 (1) The large rectangle has length $\sqrt3+1$ and width $\sqrt3$. Thus the perimeter is
 
@@ -292,7 +292,7 @@ Thus both $p$ and $q$ are even, contradicting the assumption that $p$, $q$ are c
 
 ## Activity 1
 
-(Mathematical Activity, Activity 1) Estimate the length and width of $A0$ paper. According to the international standard, $A$-series paper is rectangular, and $A0$ paper has area $1\,\text{m}^2$. Fold $A0$ paper in half along its long side and cut it open to get $A1$ paper; fold $A1$ paper in half along its long side and cut it open to get $A2$ paper; continuing in this way gives $A3$, $A4$ paper. Based on this, can you estimate the length and width of $A0$ paper in millimeters respectively (take integers)?
+(Mathematical Activity, Activity 1) Estimate the length and width of $A0$ paper. According to the international standard, $A$-series paper is rectangular, and $A0$ paper has area $1\;\text{m}^2$. Fold $A0$ paper in half along its long side and cut it open to get $A1$ paper; fold $A1$ paper in half along its long side and cut it open to get $A2$ paper; continuing in this way gives $A3$, $A4$ paper. Based on this, can you estimate the length and width of $A0$ paper in millimeters respectively (take integers)?
 
 ### Solution to Activity 1
 
@@ -308,9 +308,9 @@ $$
 \sqrt2\,y^2=1,\quad{y}^2=\frac{1}{\sqrt2},\quad{y}=\sqrt{\frac{1}{\sqrt2}}=2^{-\frac14}.
 $$
 
-From $2^{-\frac14}\approx0.8409\,\text{m}=841\,\text{mm}$, $x=\sqrt2\,y\approx1.1892\,\text{m}=1189\,\text{mm}$.
+From $2^{-\frac14}\approx0.8409\;\text{m}=841\;\text{mm}$, $x=\sqrt2\,y\approx1.1892\;\text{m}=1189\;\text{mm}$.
 
-Thus $A0$ paper has length about $1189\,\text{mm}$ and width about $841\,\text{mm}$. $\blacksquare$
+Thus $A0$ paper has length about $1189\;\text{mm}$ and width about $841\;\text{mm}$. $\blacksquare$
 
 ## Activity 2
 
@@ -444,9 +444,9 @@ Thus $x=-3$, $-2$, $-1$, $0$, $1$, $2$, $3$. Mark these points correspondingly o
 
 ## Review Exercise 8
 
-(Review Exercise, Comprehensive Application, Problem 8) A circle and a square both have area $2\pi\,\text{cm}^2$. Which one has the larger perimeter? What insight can you draw from this?
+(Review Exercise, Comprehensive Application, Problem 8) A circle and a square both have area $2\pi\;\text{cm}^2$. Which one has the larger perimeter? What insight can you draw from this?
 
-The figure shows a circle and a square drawn side by side, both with area $2\pi\,\text{cm}^2$.
+The figure shows a circle and a square drawn side by side, both with area $2\pi\;\text{cm}^2$.
 
 ### Solution to Review Exercise 8
 

@@ -258,26 +258,26 @@ The composition of two axial symmetries (axes $l_1$ and $l_2$ intersecting at $O
 
 ## Exercise 1
 
-(Exercise 29.1, Problem 1) How can one draw a circle of radius $5\,\text{m}$ on the playground? State your plan and the reason.
+(Exercise 29.1, Problem 1) How can one draw a circle of radius $5\;\text{m}$ on the playground? State your plan and the reason.
 
 ### Solution to Exercise 1
 
 By **Definition 29.1.1 (Circle)**.
 
-Take a rope of length $5\,\text{m}$; fix one end at the center and tie a pen to the other end. Pull the rope taut and rotate it through a full turn about the fixed point; the path of the pen tip is a circle of radius $5\,\text{m}$. $\blacksquare$
+Take a rope of length $5\;\text{m}$; fix one end at the center and tie a pen to the other end. Pull the rope taut and rotate it through a full turn about the fixed point; the path of the pen tip is a circle of radius $5\;\text{m}$. $\blacksquare$
 
 ## Exercise 2
 
-(Exercise 29.1, Problem 2) Have you seen the annual rings of a tree? Treat the cross-section of the trunk as a circle. If the trunk diameter of a tree of age $20$ years is $23\,\text{cm}$, by how much does the radius of this tree increase on average each year?
+(Exercise 29.1, Problem 2) Have you seen the annual rings of a tree? Treat the cross-section of the trunk as a circle. If the trunk diameter of a tree of age $20$ years is $23\;\text{cm}$, by how much does the radius of this tree increase on average each year?
 
 ### Solution to Exercise 2
 
 By **Definition 29.1.1 (Circle)**.
 
-The trunk radius is $\frac{23}{2}=11.5\,\text{cm}$, and over $20$ years of growth the radius increases on average each year by
+The trunk radius is $\frac{23}{2}=11.5\;\text{cm}$, and over $20$ years of growth the radius increases on average each year by
 
 $$
-\frac{11.5}{20}=0.575\,\text{cm}.
+\frac{11.5}{20}=0.575\;\text{cm}.
 $$
 
 $\blacksquare$
@@ -386,25 +386,25 @@ By **Definition 29.1.1 (Circle)** and **Definition 29.1.2 (Chord, Diameter, Arc)
 
 ## Problem 4
 
-(Exercise 29.1, Review and Consolidation, Problem 2) In physical education, Li Ming's and Wang Fang's shot-put results are $6.2\,\text{m}$ and $5.1\,\text{m}$ respectively. In which region of the figure do their shot puts land?
+(Exercise 29.1, Review and Consolidation, Problem 2) In physical education, Li Ming's and Wang Fang's shot-put results are $6.2\;\text{m}$ and $5.1\;\text{m}$ respectively. In which region of the figure do their shot puts land?
 
 ### Solution to Problem 4
 
 By Position of a Point Relative to a Circle.
 
-The result $6.2\,\text{m}$ lands in the annulus from $6\,\text{m}$ to $7\,\text{m}$ from the throwing point; $5.1\,\text{m}$ lands in the annulus from $5\,\text{m}$ to $6\,\text{m}$. $\blacksquare$
+The result $6.2\;\text{m}$ lands in the annulus from $6\;\text{m}$ to $7\;\text{m}$ from the throwing point; $5.1\;\text{m}$ lands in the annulus from $5\;\text{m}$ to $6\;\text{m}$. $\blacksquare$
 
 ## Problem 5
 
-(Exercise 29.1, Review and Consolidation, Problem 3) Draw the figure formed by all points whose distance from the given point $O$ is greater than or equal to $2\,\text{cm}$ and less than or equal to $3\,\text{cm}$.
+(Exercise 29.1, Review and Consolidation, Problem 3) Draw the figure formed by all points whose distance from the given point $O$ is greater than or equal to $2\;\text{cm}$ and less than or equal to $3\;\text{cm}$.
 
-The figure shows an annulus centered at fixed point $O$: the inner circle has radius $2\,\text{cm}$ and the outer circle has radius $3\,\text{cm}$; the region between the two circles (including both inner and outer boundaries) is the required figure.
+The figure shows an annulus centered at fixed point $O$: the inner circle has radius $2\;\text{cm}$ and the outer circle has radius $3\;\text{cm}$; the region between the two circles (including both inner and outer boundaries) is the required figure.
 
 ### Solution to Problem 5
 
 By Position of a Point Relative to a Circle.
 
-The figure is an annulus centered at $O$ with inner radius $2\,\text{cm}$ and outer radius $3\,\text{cm}$ (including the boundary). $\blacksquare$
+The figure is an annulus centered at $O$ with inner radius $2\;\text{cm}$ and outer radius $3\;\text{cm}$ (including the boundary). $\blacksquare$
 
 ## Problem 6
 
@@ -510,7 +510,7 @@ $OD\perp{A}B$ and $OE\perp{A}C$, so $\angle{A}DO=\angle{A}EO=90^\circ$; also $\a
 
 ## Exercise 11
 
-(Exercise 29.2, Problem 3) The figure shows the cross-section of a tunnel, whose shape is part of a circle centered at the point $O$. If $M$ is the midpoint of the chord $CD$ in $\odot{O}$, $EM$ passes through the center $O$ and meets $\odot{O}$ at the point $E$, and $CD=4\,\text{m}$, $EM=6\,\text{m}$, find the radius of $\odot{O}$.
+(Exercise 29.2, Problem 3) The figure shows the cross-section of a tunnel, whose shape is part of a circle centered at the point $O$. If $M$ is the midpoint of the chord $CD$ in $\odot{O}$, $EM$ passes through the center $O$ and meets $\odot{O}$ at the point $E$, and $CD=4\;\text{m}$, $EM=6\;\text{m}$, find the radius of $\odot{O}$.
 
 The figure shows the cross-section of a tunnel: the upper part is an arc of a circle centered at $O$, and the lower part is the horizontal chord $CD$; $M$ is the midpoint of chord $CD$, and $EM$ is a vertical segment passing through the center $O$, with its upper endpoint $E$ at the highest point of the arc and $M$ lying on $CD$, where $EM\perp{C}D$.
 
@@ -524,4 +524,4 @@ $$
 R^2=2^2+\left(6-R\right)^2=4+36-12R+R^2.
 $$
 
-Simplifying gives $12R=40$, so $R=\frac{10}{3}\,\text{m}$. $\blacksquare$
+Simplifying gives $12R=40$, so $R=\frac{10}{3}\;\text{m}$. $\blacksquare$

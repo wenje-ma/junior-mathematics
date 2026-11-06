@@ -128,13 +128,13 @@ The condition that a circle can be drawn through the four vertices of a quadrila
 
 ## Review Problem 2
 
-(Review Problem 29, Review and Consolidation, Problem 2) Given that the segment $AB$ has length $4\,\text{cm}$, draw a circle of radius $3\,\text{cm}$ passing through the two points $A$ and $B$.
+(Review Problem 29, Review and Consolidation, Problem 2) Given that the segment $AB$ has length $4\;\text{cm}$, draw a circle of radius $3\;\text{cm}$ passing through the two points $A$ and $B$.
 
 ### Solution to Review Problem 2
 
 By **Theorem 29.1.1 (Three Points Determine a Circle)**.
 
-Draw the perpendicular bisector of $AB$; with $A$ as center and radius $3\,\text{cm}$, draw an arc meeting the perpendicular bisector at two points. Both points are centers, so two circles can be drawn. $\blacksquare$
+Draw the perpendicular bisector of $AB$; with $A$ as center and radius $3\;\text{cm}$, draw an arc meeting the perpendicular bisector at two points. Both points are centers, so two circles can be drawn. $\blacksquare$
 
 ## Review Problem 3
 
@@ -154,7 +154,7 @@ By Basic Knowledge and **Theorem 29.2.1 (Perpendicular Chord Theorem)**.
 
 ## Review Problem 4
 
-(Review Problem 29, Review and Consolidation, Problem 4) As shown in the figure, there is a sector-shaped lawn of radius $18\,\text{m}$ in a park. To go from place $A$ to place $B$, there are a scenic road (the arc $\overset{\frown}{AB}$) and a convenience road (the segment $AB$), with $\angle{A}OB=120^\circ$.
+(Review Problem 29, Review and Consolidation, Problem 4) As shown in the figure, there is a sector-shaped lawn of radius $18\;\text{m}$ in a park. To go from place $A$ to place $B$, there are a scenic road (the arc $\overset{\frown}{AB}$) and a convenience road (the segment $AB$), with $\angle{A}OB=120^\circ$.
 
 (1) Find the area of the sector-shaped lawn;
 
@@ -164,9 +164,9 @@ By Basic Knowledge and **Theorem 29.2.1 (Perpendicular Chord Theorem)**.
 
 By Basic Knowledge and Basic Knowledge.
 
-(1) $S=\frac{120\pi\cdot18^2}{360}=108\pi\approx339\,\text{m}^2$.
+(1) $S=\frac{120\pi\cdot18^2}{360}=108\pi\approx339\;\text{m}^2$.
 
-(2) The arc length is $l=\frac{120\pi\cdot18}{180}=12\pi\approx37.7\,\text{m}$. The chord is $AB=2\cdot18\sin60^\circ=18\sqrt3\approx31.2\,\text{m}$. The saving is $12\pi-18\sqrt3\approx6.5\,\text{m}$. $\blacksquare$
+(2) The arc length is $l=\frac{120\pi\cdot18}{180}=12\pi\approx37.7\;\text{m}$. The chord is $AB=2\cdot18\sin60^\circ=18\sqrt3\approx31.2\;\text{m}$. The saving is $12\pi-18\sqrt3\approx6.5\;\text{m}$. $\blacksquare$
 
 ## Review Problem 5
 
@@ -230,7 +230,7 @@ Compare $\angle{P}AQ$ and $\angle{P}BQ$: the larger viewing angle gives the bett
 
 ## Review Problem 11
 
-(Review Problem 29, Comprehensive Application, Problem 11) As shown in the figure, an interest group reshapes a square wire frame $ABCD$ of side length $10\,\text{cm}$ into a sector with center the point $A$ and radii $AB$ and $AD$ (neglecting the thickness of the wire). What is the area of the resulting sector $ABD$?
+(Review Problem 29, Comprehensive Application, Problem 11) As shown in the figure, an interest group reshapes a square wire frame $ABCD$ of side length $10\;\text{cm}$ into a sector with center the point $A$ and radii $AB$ and $AD$ (neglecting the thickness of the wire). What is the area of the resulting sector $ABD$?
 
 ### Solution to Review Problem 11
 
@@ -239,14 +239,14 @@ By Sector Area.
 The perimeter of the square is $40$, so after reshaping the sector arc length is $40-2\cdot10=20$. The sector radius is $10$, and the area is
 
 $$
-S=\frac12\cdot20\cdot10=100\,\text{cm}^2.
+S=\frac12\cdot20\cdot10=100\;\text{cm}^2.
 $$
 
 $\blacksquare$
 
 ## Review Problem 12
 
-(Review Problem 29, Comprehensive Application, Problem 12) As shown in the figure, the upper part of a buoy anchor marker is a cone and the middle part is a cylinder. Electroplating uses $0.11\,\text{kg}$ of zinc per square meter. How many kilograms of zinc are needed to electroplate $100$ such buoy anchor markers?
+(Review Problem 29, Comprehensive Application, Problem 12) As shown in the figure, the upper part of a buoy anchor marker is a cone and the middle part is a cylinder. Electroplating uses $0.11\;\text{kg}$ of zinc per square meter. How many kilograms of zinc are needed to electroplate $100$ such buoy anchor markers?
 
 ### Solution to Review Problem 12
 
@@ -404,9 +404,9 @@ $AB=5$, and the distance from $C$ to $AB$ is $d=\frac{AC\cdot{B}C}{AB}=\frac{12}
 
 ## Problem 3
 
-(Exercise 30.1, Review and Consolidation, Problem 2) A steel pipe is placed in a $V$-shaped rack; its cross-section is shown in the figure, and the radius of the pipe is $25\,\text{cm}$.
+(Exercise 30.1, Review and Consolidation, Problem 2) A steel pipe is placed in a $V$-shaped rack; its cross-section is shown in the figure, and the radius of the pipe is $25\;\text{cm}$.
 
-(1) If $UV=28\,\text{cm}$, find the length of $VT$;
+(1) If $UV=28\;\text{cm}$, find the length of $VT$;
 
 (2) If $\angle{U}VW=60^\circ$, find the length of $VT$.
 
@@ -414,9 +414,9 @@ $AB=5$, and the distance from $C$ to $AB$ is $d=\frac{AC\cdot{B}C}{AB}=\frac{12}
 
 By **Theorem 30.1.1 (Tangent Property)**.
 
-(1) $VT=\sqrt{UV^2-r^2}=\sqrt{28^2-25^2}=\sqrt{159}\approx12.6\,\text{cm}$.
+(1) $VT=\sqrt{UV^2-r^2}=\sqrt{28^2-25^2}=\sqrt{159}\approx12.6\;\text{cm}$.
 
-(2) $\angle{U}VW=60^\circ$, the distance from the center to both sides is $r=25$, and $\angle{U}VT=30^\circ$, so $VT=\frac{r}{\sin30^\circ}=50\,\text{cm}$. $\blacksquare$
+(2) $\angle{U}VW=60^\circ$, the distance from the center to both sides is $r=25$, and $\angle{U}VT=30^\circ$, so $VT=\frac{r}{\sin30^\circ}=50\;\text{cm}$. $\blacksquare$
 
 ## Problem 4
 
@@ -460,13 +460,13 @@ Join $OB$. From the related calculation of $\angle{B}OC=2\angle{B}DC=2\left(180^
 
 ## Problem 8
 
-(Exercise 30.1, Comprehensive Application, Problem 7) As shown in the figure, an oil drum leans against a vertical wall; it is measured that $WY=0.65\,\text{m}$ and $XY\perp{W}Y$. What is the radius of the base of this oil drum? Why?
+(Exercise 30.1, Comprehensive Application, Problem 7) As shown in the figure, an oil drum leans against a vertical wall; it is measured that $WY=0.65\;\text{m}$ and $XY\perp{W}Y$. What is the radius of the base of this oil drum? Why?
 
 ### Solution to Problem 8
 
 By **Theorem 30.1.1 (Tangent Property)**.
 
-The two walls are mutually perpendicular tangent lines, and the distance from the center to each wall equals the radius $r$. $WY$ is the horizontal projection of the distance from the center to the wall corner, so $r=WY=0.65\,\text{m}$. $\blacksquare$
+The two walls are mutually perpendicular tangent lines, and the distance from the center to each wall equals the radius $r$. $WY$ is the horizontal projection of the distance from the center to the wall corner, so $r=WY=0.65\;\text{m}$. $\blacksquare$
 
 ## Problem 9
 

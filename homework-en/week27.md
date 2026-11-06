@@ -6,11 +6,11 @@
 
 > **Property 11.1.2 (Property 2 of Inequalities)**
 > 
-> $a>{}b,\,c>0\Rightarrow{a}c>{}bc$.
+> $a>{}b,c>0\Rightarrow{a}c>{}bc$.
 
 > **Property 11.1.3 (Property 3 of Inequalities)**
 > 
-> $a>{}b,\,c<0\Rightarrow{a}c<{}bc$.
+> $a>{}b,c<0\Rightarrow{a}c<{}bc$.
 
 > **Definition 11.2.1 (Linear Inequality in One Variable)**
 > 
@@ -198,15 +198,15 @@ When $a>0$, $-a<0$, so $a<2a$; when $a=0$, $a=2a$; when $a<0$, $-a>0$, so $a>2a$
 
 ## Review Problem 6
 
-(Review Problems, Comprehensive Application, Problem 6) In a $5000\,\text{m}$ long-distance race, a student's best time is $16\,\text{min}\,45\,\text{s}$. In this race he spent $10\,\text{min}\,30\,\text{s}$ on the first $3000\,\text{m}$. At what average speed at least must he run the remaining $2000\,\text{m}$ to beat his best time?
+(Review Problems, Comprehensive Application, Problem 6) In a $5000\;\text{m}$ long-distance race, a student's best time is $16\;\text{min}\;45\;\text{s}$. In this race he spent $10\;\text{min}\;30\;\text{s}$ on the first $3000\;\text{m}$. At what average speed at least must he run the remaining $2000\;\text{m}$ to beat his best time?
 
 ### Solution to Review Problem 6
 
-The remaining time is at most $16.75-10.5=6.25\,\text{min}$. Let the average speed on the remaining $2000\,\text{m}$ be $v\,\text{m/min}$; then $\frac{2000}{v}\le6.25$, giving $v\ge320\,\text{m/min}$. Hence it must be at least $320\,\text{m/min}$. $\blacksquare$
+The remaining time is at most $16.75-10.5=6.25\;\text{min}$. Let the average speed on the remaining $2000\;\text{m}$ be $v\;\text{m/min}$; then $\frac{2000}{v}\le6.25$, giving $v\ge320\;\text{m/min}$. Hence it must be at least $320\;\text{m/min}$. $\blacksquare$
 
 ## Review Problem 7
 
-(Review Problems, Comprehensive Application, Problem 7) An elevator has a rated load of $1050\,\text{kg}$. Two passengers weigh $70\,\text{kg}$ and $75\,\text{kg}$ respectively, a trolley weighs $21\,\text{kg}$, and each box of tiles weighs $51\,\text{kg}$. At most how many boxes of tiles can be loaded in one trip?
+(Review Problems, Comprehensive Application, Problem 7) An elevator has a rated load of $1050\;\text{kg}$. Two passengers weigh $70\;\text{kg}$ and $75\;\text{kg}$ respectively, a trolley weighs $21\;\text{kg}$, and each box of tiles weighs $51\;\text{kg}$. At most how many boxes of tiles can be loaded in one trip?
 
 ### Solution to Review Problem 7
 
@@ -262,7 +262,7 @@ i.e. $28-0.6x>20.5$, giving $x<12.5$. Hence at most $12$ type-A cars were bought
 
 ## Review Problem 11
 
-(Review Problems, Extension and Exploration, Problem 11) Two people, A and B, each carry a bucket to draw water from the same tap; A needs $a\,\text{min}$ to draw water and B needs $b\,\text{min}$. How should the order of the two be arranged so that the total time spent by both (from the start until both have finished drawing water) is minimized?
+(Review Problems, Extension and Exploration, Problem 11) Two people, A and B, each carry a bucket to draw water from the same tap; A needs $a\;\text{min}$ to draw water and B needs $b\;\text{min}$. How should the order of the two be arranged so that the total time spent by both (from the start until both have finished drawing water) is minimized?
 
 ### Solution to Review Problem 11
 
@@ -278,7 +278,7 @@ The difference between the two is $\left(2a+b\right)-\left(a+2b\right)=a-b$. Whe
 
 (1) "Do you think you get enough sleep every day?"
 
-(2) "Do you think the ambient noise at school is below $55\,\text{dB}$?"
+(2) "Do you think the ambient noise at school is below $55\;\text{dB}$?"
 
 (3) "Most students think the school should lay a plastic running track; do you agree?"
 
@@ -286,7 +286,7 @@ The difference between the two is $\left(2a+b\right)-\left(a+2b\right)=a-b$. Whe
 
 (1) Not appropriate. "Enough" has no clear standard, respondents interpret it differently, and it is hard to obtain objective data.
 
-(2) Not appropriate. The question gives the specific hint $55\,\text{dB}$, which easily leads the respondents; it should be replaced by objective measurement or a neutral question.
+(2) Not appropriate. The question gives the specific hint $55\;\text{dB}$, which easily leads the respondents; it should be replaced by objective measurement or a neutral question.
 
 (3) Not appropriate. The statement first asserts "most students think", which induces the respondents; it is a leading question. $\blacksquare$
 
@@ -518,11 +518,11 @@ By **Definition 12.2.3 (Line Chart)**, draw a composite line chart as shown. Exc
 
 (Exercise 12.2, Problem 5) The heights (cm) of 63 seventh-grade students: maximum $172$, minimum $149$, range $23$. Take a class width of $3$ and divide into $8$ groups: $149\le{x}<152$, $152\le{x}<155$, $\ldots$, $170\le{x}<173$. The frequencies of the groups are $2,6,12,19,10,8,4,2$. Draw a frequency distribution histogram and state from which range to select the honor guard members.
 
-The figure is a frequency distribution histogram with height groups ($149\le{x}<152$ through $170\le{x}<173$, class width $3\,\text{cm}$) on the horizontal axis and frequency on the vertical axis; the group frequencies are respectively $2,6,12,19,10,8,4,2$.
+The figure is a frequency distribution histogram with height groups ($149\le{x}<152$ through $170\le{x}<173$, class width $3\;\text{cm}$) on the horizontal axis and frequency on the vertical axis; the group frequencies are respectively $2,6,12,19,10,8,4,2$.
 
 ### Solution to Exercise 12
 
-By **Definition 12.2.6 (Frequency Distribution Histogram)**, the histogram is as shown. The three groups $155\le{x}<158$, $158\le{x}<161$, $161\le{x}<164$ have the most students, totaling $12+19+10=41$. Hence $40$ honor guard members may be selected from the height range $155\,\text{cm}$ to $164\,\text{cm}$ (excluding $164$). $\blacksquare$
+By **Definition 12.2.6 (Frequency Distribution Histogram)**, the histogram is as shown. The three groups $155\le{x}<158$, $158\le{x}<161$, $161\le{x}<164$ have the most students, totaling $12+19+10=41$. Hence $40$ honor guard members may be selected from the height range $155\;\text{cm}$ to $164\;\text{cm}$ (excluding $164$). $\blacksquare$
 
 ## Exercise 13
 
@@ -536,11 +536,11 @@ By **Definition 12.2.7 (Trend Chart)**, plot the scatter points and draw the tre
 
 ## Exercise 14
 
-(Exercise 12.2, Problem 7) The heights (cm) of 8 boys and their fathers: fathers $165,168,172,174,177,177,180,183$; sons $168,169,174,177,176,178,181,182$. Use a trend chart to describe the relationship between the son's height and the father's height, and estimate the son's height when the father is $175\,\text{cm}$ tall.
+(Exercise 12.2, Problem 7) The heights (cm) of 8 boys and their fathers: fathers $165,168,172,174,177,177,180,183$; sons $168,169,174,177,176,178,181,182$. Use a trend chart to describe the relationship between the son's height and the father's height, and estimate the son's height when the father is $175\;\text{cm}$ tall.
 
 ### Solution to Exercise 14
 
-Take the father's height as the horizontal axis and the son's height as the vertical axis, plot the scatter points and draw the trend line. The points lie roughly near an upward-sloping line, indicating that the taller the father, the taller the son. From the trend line, when the father is $175\,\text{cm}$ tall, the son is about $176\,\text{cm}$ tall. $\blacksquare$
+Take the father's height as the horizontal axis and the son's height as the vertical axis, plot the scatter points and draw the trend line. The points lie roughly near an upward-sloping line, indicating that the taller the father, the taller the son. From the trend line, when the father is $175\;\text{cm}$ tall, the son is about $176\;\text{cm}$ tall. $\blacksquare$
 
 ## Problem 9
 

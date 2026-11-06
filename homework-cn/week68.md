@@ -54,7 +54,7 @@
 
 ## 练习一
 
-(练习 27.2 第 2 题) 如图, 测得 $BD=120\,\text{m}$, $DC=60\,\text{m}$, $EC=50\,\text{m}$, 求河宽 $AB$. 
+(练习 27.2 第 2 题) 如图, 测得 $BD=120\;\text{m}$, $DC=60\;\text{m}$, $EC=50\;\text{m}$, 求河宽 $AB$. 
 
 ### 解答 练习一
 
@@ -65,24 +65,24 @@ $$
 $$
 
 $$
-AB=2\times{E}C=2\times50=100\,\text{m}.\,\blacksquare
+AB=2\times{E}C=2\times50=100\;\text{m}.\,\blacksquare
 $$
 
 ## 习题一
 
-(习题 27.2 复习巩固第 1 题) 有一块三角形的草地, 它的一条边长为 $25\,\text{m}$. 在图纸上, 这条边的长为 $5\,\text{cm}$, 其他两条边的长都为 $4\,\text{cm}$, 求其他两边的实际长度. 
+(习题 27.2 复习巩固第 1 题) 有一块三角形的草地, 它的一条边长为 $25\;\text{m}$. 在图纸上, 这条边的长为 $5\;\text{cm}$, 其他两条边的长都为 $4\;\text{cm}$, 求其他两边的实际长度. 
 
 ### 解答 习题一
 
-图纸与实际的相似比为 $5\,\text{cm}:25\,\text{m}=5:2500=1:500$. 
+图纸与实际的相似比为 $5\;\text{cm}:25\;\text{m}=5:2500=1:500$. 
 
-其他两边图纸长 $4\,\text{cm}$, 实际长度为 $4\times500=2000\,\text{cm}=20\,\text{m}$. $\blacksquare$
+其他两边图纸长 $4\;\text{cm}$, 实际长度为 $4\times500=2000\;\text{cm}=20\;\text{m}$. $\blacksquare$
 
 ## 习题二
 
 (习题 27.2 复习巩固第 2 题) 根据下列条件, 判断 $\triangle{A}BC$ 与 $\triangle{A}'B'C'$ 是否相似, 并说明理由: 
 
-(1) $AB=10\,\text{cm}$, $BC=12\,\text{cm}$, $AC=15\,\text{cm}$, $A'B'=150\,\text{cm}$, $B'C'=180\,\text{cm}$, $A'C'=225\,\text{cm}$; 
+(1) $AB=10\;\text{cm}$, $BC=12\;\text{cm}$, $AC=15\;\text{cm}$, $A'B'=150\;\text{cm}$, $B'C'=180\;\text{cm}$, $A'C'=225\;\text{cm}$; 
 
 (2) $\angle{A}=70^\circ$, $\angle{B}=48^\circ$, $\angle{A}'=70^\circ$, $\angle{C}'=62^\circ$. 
 
@@ -126,17 +126,17 @@ $DE\parallel{B}C$, 故 $\triangle{A}DE\backsim\triangle{A}BC$; $FG\parallel{B}C$
 
 ## 习题六
 
-(习题 27.2 复习巩固第 6 题) 如果把两条直角边分别为 $30\,\text{cm}$, $40\,\text{cm}$ 的直角三角形按相似比 $\frac{3}{5}$ 进行缩小, 得到的直角三角形的两条直角边的长和面积各是多少? 
+(习题 27.2 复习巩固第 6 题) 如果把两条直角边分别为 $30\;\text{cm}$, $40\;\text{cm}$ 的直角三角形按相似比 $\frac{3}{5}$ 进行缩小, 得到的直角三角形的两条直角边的长和面积各是多少? 
 
 ### 解答 习题六
 
-缩小后两条直角边分别为 $30\times\frac{3}{5}=18\,\text{cm}$ 和 $40\times\frac{3}{5}=24\,\text{cm}$. 
+缩小后两条直角边分别为 $30\times\frac{3}{5}=18\;\text{cm}$ 和 $40\times\frac{3}{5}=24\;\text{cm}$. 
 
-面积为 $\frac{1}{2}\times18\times24=216\,\text{cm}^2$. $\blacksquare$
+面积为 $\frac{1}{2}\times18\times24=216\;\text{cm}^2$. $\blacksquare$
 
 ## 习题七
 
-(习题 27.2 综合运用第 7 题) 如图, $AD$ 是 $\text{Rt}\triangle{A}BC$ 斜边上的高. 若 $AB=4\,\text{cm}$, $BC=10\,\text{cm}$, 求 $BD$ 的长. 
+(习题 27.2 综合运用第 7 题) 如图, $AD$ 是 $\text{Rt}\triangle{A}BC$ 斜边上的高. 若 $AB=4\;\text{cm}$, $BC=10\;\text{cm}$, 求 $BD$ 的长. 
 
 ### 解答 习题七
 
@@ -147,7 +147,7 @@ $$
 $$
 
 $$
-BD=\frac{AB^2}{BC}=\frac{16}{10}=1.6\,\text{cm}.\,\blacksquare
+BD=\frac{AB^2}{BC}=\frac{16}{10}=1.6\;\text{cm}.\,\blacksquare
 $$
 
 ## 习题八
@@ -166,7 +166,7 @@ $$
 
 ## 习题九
 
-(习题 27.2 综合运用第 9 题) 如图, 利用标杆 $BE$ 测量建筑物的高度. 标杆 $BE$ 高 $1.2\,\text{m}$, 测得 $AB=1.6\,\text{m}$, $BC=12.4\,\text{m}$, 楼高 $CD$ 是多少? 
+(习题 27.2 综合运用第 9 题) 如图, 利用标杆 $BE$ 测量建筑物的高度. 标杆 $BE$ 高 $1.2\;\text{m}$, 测得 $AB=1.6\;\text{m}$, $BC=12.4\;\text{m}$, 楼高 $CD$ 是多少? 
 
 ### 解答 习题九
 
@@ -177,12 +177,12 @@ $$
 $$
 
 $$
-CD=\frac{1.2\times14}{1.6}=10.5\,\text{m}.\,\blacksquare
+CD=\frac{1.2\times14}{1.6}=10.5\;\text{m}.\,\blacksquare
 $$
 
 ## 习题十
 
-(习题 27.2 综合运用第 10 题) 如图, 为了测量一栋楼的高度, 王青同学在她脚下放了一面镜子, 然后向后退, 直到她刚好在镜子中看到楼的顶部. 这时 $\angle{L}MK$ 等于 $\angle{S}MT$ 吗? 如果王青身高 $1.55\,\text{m}$, 眼睛距地面 $1.50\,\text{m}$, 量得 $LM=30\,\text{cm}$, $MS=2\,\text{m}$, 这栋楼有多高? 
+(习题 27.2 综合运用第 10 题) 如图, 为了测量一栋楼的高度, 王青同学在她脚下放了一面镜子, 然后向后退, 直到她刚好在镜子中看到楼的顶部. 这时 $\angle{L}MK$ 等于 $\angle{S}MT$ 吗? 如果王青身高 $1.55\;\text{m}$, 眼睛距地面 $1.50\;\text{m}$, 量得 $LM=30\;\text{cm}$, $MS=2\;\text{m}$, 这栋楼有多高? 
 
 ### 解答 习题十
 
@@ -194,7 +194,7 @@ $$
 \frac{KL}{TS}=\frac{LM}{SM}=\frac{0.3}{2}=\frac{3}{20}.
 $$
 
-$KL=1.50\,\text{m}$, 故 $TS=1.50\times\frac{20}{3}=10\,\text{m}$. $\blacksquare$
+$KL=1.50\;\text{m}$, 故 $TS=1.50\times\frac{20}{3}=10\;\text{m}$. $\blacksquare$
 
 ## 习题十一
 

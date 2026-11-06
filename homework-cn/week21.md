@@ -64,7 +64,7 @@ $$
 V=\pi{r}^2h=3.14\times95^2\times58.
 $$
 
-计算: $95^2=9025$, $V=3.14\times9025\times58=1645553\,\text{mm}^3$.
+计算: $95^2=9025$, $V=3.14\times9025\times58=1645553\;\text{mm}^3$.
 
 设正方体棱长为 $x$, $x^3=1645553$, $x=\sqrt\left[3\right]{1645553}\approx118$.
 
@@ -97,7 +97,7 @@ $$
 由**定义 9.1.2 (点的坐标)**, 过点向 $x$ 轴作垂线得横坐标, 向 $y$ 轴作垂线得纵坐标. 读出各点坐标为
 
 $$
-A\left(-3,-2\right),\,B\left(-5,4\right),\,C\left(5,-4\right),\,D\left(0,-3\right),\,E\left(2,5\right),\,F\left(-4,0\right).
+A\left(-3,-2\right),B\left(-5,4\right),C\left(5,-4\right),D\left(0,-3\right),E\left(2,5\right),F\left(-4,0\right).
 $$
 
 其中 $D$ 在 $y$ 轴上 (横坐标为 $0$), $F$ 在 $x$ 轴上 (纵坐标为 $0$). $\blacksquare$
@@ -163,7 +163,7 @@ $$
 由**定义 9.1.2 (点的坐标)**, 过各点分别向 $x$ 轴, $y$ 轴作垂线, 读出垂足对应的数. 各点坐标为
 
 $$
-A\left(-5,4\right),\,B\left(-2,2\right),\,C\left(4,4\right),\,D\left(2,1\right),\,E\left(5,-3\right),\,F\left(0,-2\right),\,G\left(-4,-4\right),\,H\left(-3,-1\right).
+A\left(-5,4\right),B\left(-2,2\right),C\left(4,4\right),D\left(2,1\right),E\left(5,-3\right),F\left(0,-2\right),G\left(-4,-4\right),H\left(-3,-1\right).
 $$
 
 每个点的第一个数为横坐标, 第二个数为纵坐标. $\blacksquare$
@@ -203,7 +203,7 @@ $A$ 在 $y$ 轴上距原点 $2$ (上): $A\left(0,2\right)$. $B$ 在 $x$ 轴上�
 以 $B$ 为原点, $BC$ 所在直线为 $x$ 轴, $C\left(4,0\right)$. 由**定义 9.1.2 (点的坐标)** 读出各点坐标:
 
 $$
-A\left(-2,2\right),\,D\left(5,1\right),\,E\left(4,2\right),\,F\left(2,0\right),\,G\left(1,4\right).
+A\left(-2,2\right),D\left(5,1\right),E\left(4,2\right),F\left(2,0\right),G\left(1,4\right).
 $$
 
 由**定义 9.1.3 (象限)** 判断: $A\left(-2,2\right)$ 横负纵正, 在第二象限; $D\left(5,1\right)$, $E\left(4,2\right)$, $G\left(1,4\right)$ 横纵都正, 在第一象限; $F\left(2,0\right)$ 在 $x$ 轴上, 不属于任何象限; $B\left(0,0\right)$ 为原点, $C\left(4,0\right)$ 在 $x$ 轴上. $\blacksquare$

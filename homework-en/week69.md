@@ -66,11 +66,11 @@ By **Criterion Theorem 27.2.4** (AA) and **Criterion Theorem 27.2.3** (SAS), the
 
 ## Review Problem 3
 
-(Review Problem 27, Review and Consolidation, Problem 4) Li Hua wants to place an advertisement in a newspaper. A rectangular block of $10\,\text{cm}\times5\,\text{cm}$ costs $180$ yuan in advertising fees. If he enlarges each side of the block to $3$ times the original, how much advertising fee must he pay (assuming the advertising fee per square centimeter is the same)?
+(Review Problem 27, Review and Consolidation, Problem 4) Li Hua wants to place an advertisement in a newspaper. A rectangular block of $10\;\text{cm}\times5\;\text{cm}$ costs $180$ yuan in advertising fees. If he enlarges each side of the block to $3$ times the original, how much advertising fee must he pay (assuming the advertising fee per square centimeter is the same)?
 
 ### Solution to Review Problem 3
 
-The area of the original block is $10\times5=50\,\text{cm}^2$. Enlarging each side to $3$ times the original enlarges the area to $9$ times the original, i.e. $450\,\text{cm}^2$.
+The area of the original block is $10\times5=50\;\text{cm}^2$. Enlarging each side to $3$ times the original enlarges the area to $9$ times the original, i.e. $450\;\text{cm}^2$.
 
 The advertising fee is proportional to the area, so he must pay $180\times9=1620$ yuan. $\blacksquare$
 
@@ -84,15 +84,15 @@ By **Definition 27.3.1 (Homothetic Figures)**, take a center of homothety outsid
 
 ## Review Problem 5
 
-(Review Problem 27, Comprehensive Application, Problem 6) A student's seat is $6\,\text{m}$ from the blackboard. How large should the teacher write the characters on the blackboard so that when the student looks at the characters on the blackboard, the perception is the same as when looking at the characters in a textbook $30\,\text{cm}$ away (the size of small-size-four characters in the textbook is about $0.42\,\text{cm}\times0.42\,\text{cm}$)?
+(Review Problem 27, Comprehensive Application, Problem 6) A student's seat is $6\;\text{m}$ from the blackboard. How large should the teacher write the characters on the blackboard so that when the student looks at the characters on the blackboard, the perception is the same as when looking at the characters in a textbook $30\;\text{cm}$ away (the size of small-size-four characters in the textbook is about $0.42\;\text{cm}\times0.42\;\text{cm}$)?
 
 ### Solution to Review Problem 5
 
 The same perception means the same viewing angle, and the character size is proportional to the distance.
 
-The distance ratio is $6\,\text{m}:30\,\text{cm}=600:30=20:1$.
+The distance ratio is $6\;\text{m}:30\;\text{cm}=600:30=20:1$.
 
-The size of the characters on the blackboard should be $0.42\times20=8.4\,\text{cm}$, i.e. $8.4\,\text{cm}\times8.4\,\text{cm}$. $\blacksquare$
+The size of the characters on the blackboard should be $0.42\times20=8.4\;\text{cm}$, i.e. $8.4\;\text{cm}\times8.4\;\text{cm}$. $\blacksquare$
 
 ## Review Problem 6
 
@@ -144,9 +144,9 @@ Thus $S_{\triangle{A}BC}=9S_{\triangle{A}'B'C'}$. $\blacksquare$
 
 ## Review Problem 10
 
-(Review Problem 27, Extension and Exploration, Problem 11) As shown in the figure, a piece of material is in the shape of an acute triangle $ABC$, with side $BC=120\,\text{mm}$ and altitude $AD=80\,\text{mm}$. It is machined into a square part, with one side of the square lying on $BC$ and the other two vertices lying on $AB$ and $AC$, respectively. What is the side length of this square part?
+(Review Problem 27, Extension and Exploration, Problem 11) As shown in the figure, a piece of material is in the shape of an acute triangle $ABC$, with side $BC=120\;\text{mm}$ and altitude $AD=80\;\text{mm}$. It is machined into a square part, with one side of the square lying on $BC$ and the other two vertices lying on $AB$ and $AC$, respectively. What is the side length of this square part?
 
-The figure shows acute triangle $ABC$ with base $BC=120\,\text{mm}$ and altitude $AD=80\,\text{mm}$ ($D$ on $BC$); a square is inscribed in the triangle, with one side on $BC$ and the other two upper vertices lying on $AB$ and $AC$ respectively.
+The figure shows acute triangle $ABC$ with base $BC=120\;\text{mm}$ and altitude $AD=80\;\text{mm}$ ($D$ on $BC$); a square is inscribed in the triangle, with one side on $BC$ and the other two upper vertices lying on $AB$ and $AC$ respectively.
 
 ### Solution to Review Problem 10
 
@@ -159,7 +159,7 @@ $$
 $$
 
 $$
-120\left(80-x\right)=80x\Rightarrow9600=200x\Rightarrow{x}=48\,\text{mm}.\,\blacksquare
+120\left(80-x\right)=80x\Rightarrow9600=200x\Rightarrow{x}=48\;\text{mm}.\,\blacksquare
 $$
 
 ## Review Problem 11
@@ -183,7 +183,7 @@ $$
 $$
 
 $$
-4d=123000\Rightarrow{d}=30750\,\text{步}.
+4d=123000\Rightarrow{d}=30750\;\text{步}.
 $$
 
 Substituting into $\frac{h-5}{30750+123}=\frac{5}{123}$:
@@ -193,7 +193,7 @@ h-5=\frac{5\times30873}{123}=1255.
 $$
 
 $$
-h=1255+5=1260\,\text{步}.
+h=1255+5=1260\;\text{步}.
 $$
 
 Thus the peak height is $AB=1260$ bu, and the horizontal distance is $BD=30750$ bu. $\blacksquare$
@@ -370,21 +370,21 @@ By **Definition 28.1.1 (Sine)**, **Definition 28.1.2 (Cosine)**, and **Definitio
 
 (1) $AC=\sqrt{AB^{2}-BC^{2}}=\sqrt{36-4}=\sqrt{32}=4\sqrt{2}$. Thus
 
-$$\sin{A}=\frac{BC}{AB}=\frac{1}{3},\,\cos{A}=\frac{AC}{AB}=\frac{2\sqrt{2}}{3},\,\tan{A}=\frac{BC}{AC}=\frac{2}{4\sqrt{2}}=\frac{\sqrt{2}}{4};$$
+$$\sin{A}=\frac{BC}{AB}=\frac{1}{3},\cos{A}=\frac{AC}{AB}=\frac{2\sqrt{2}}{3},\tan{A}=\frac{BC}{AC}=\frac{2}{4\sqrt{2}}=\frac{\sqrt{2}}{4};$$
 
-$$\sin{B}=\frac{AC}{AB}=\frac{2\sqrt{2}}{3},\,\cos{B}=\frac{BC}{AB}=\frac{1}{3},\,\tan{B}=\frac{AC}{BC}=2\sqrt{2}.$$
+$$\sin{B}=\frac{AC}{AB}=\frac{2\sqrt{2}}{3},\cos{B}=\frac{BC}{AB}=\frac{1}{3},\tan{B}=\frac{AC}{BC}=2\sqrt{2}.$$
 
 (2) $AB=\sqrt{AC^{2}+BC^{2}}=\sqrt{36+4}=\sqrt{40}=2\sqrt{10}$. Thus
 
-$$\sin{A}=\frac{BC}{AB}=\frac{2}{2\sqrt{10}}=\frac{\sqrt{10}}{10},\,\cos{A}=\frac{AC}{AB}=\frac{6}{2\sqrt{10}}=\frac{3\sqrt{10}}{10},\,\tan{A}=\frac{BC}{AC}=\frac{1}{3};$$
+$$\sin{A}=\frac{BC}{AB}=\frac{2}{2\sqrt{10}}=\frac{\sqrt{10}}{10},\cos{A}=\frac{AC}{AB}=\frac{6}{2\sqrt{10}}=\frac{3\sqrt{10}}{10},\tan{A}=\frac{BC}{AC}=\frac{1}{3};$$
 
-$$\sin{B}=\frac{AC}{AB}=\frac{3\sqrt{10}}{10},\,\cos{B}=\frac{BC}{AB}=\frac{\sqrt{10}}{10},\,\tan{B}=\frac{AC}{BC}=3.$$
+$$\sin{B}=\frac{AC}{AB}=\frac{3\sqrt{10}}{10},\cos{B}=\frac{BC}{AB}=\frac{\sqrt{10}}{10},\tan{B}=\frac{AC}{BC}=3.$$
 
 (3) $BC=\sqrt{AB^{2}-AC^{2}}=\sqrt{6-2}=2$. Thus
 
-$$\sin{A}=\frac{BC}{AB}=\frac{2}{\sqrt{6}}=\frac{\sqrt{6}}{3},\,\cos{A}=\frac{AC}{AB}=\frac{\sqrt{2}}{\sqrt{6}}=\frac{\sqrt{3}}{3},\,\tan{A}=\frac{BC}{AC}=\frac{2}{\sqrt{2}}=\sqrt{2};$$
+$$\sin{A}=\frac{BC}{AB}=\frac{2}{\sqrt{6}}=\frac{\sqrt{6}}{3},\cos{A}=\frac{AC}{AB}=\frac{\sqrt{2}}{\sqrt{6}}=\frac{\sqrt{3}}{3},\tan{A}=\frac{BC}{AC}=\frac{2}{\sqrt{2}}=\sqrt{2};$$
 
-$$\sin{B}=\frac{AC}{AB}=\frac{\sqrt{3}}{3},\,\cos{B}=\frac{BC}{AB}=\frac{\sqrt{6}}{3},\,\tan{B}=\frac{AC}{BC}=\frac{\sqrt{2}}{2}.\,\blacksquare$$
+$$\sin{B}=\frac{AC}{AB}=\frac{\sqrt{3}}{3},\cos{B}=\frac{BC}{AB}=\frac{\sqrt{6}}{3},\tan{B}=\frac{AC}{BC}=\frac{\sqrt{2}}{2}.\,\blacksquare$$
 
 ## Problem 2
 

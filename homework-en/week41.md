@@ -88,7 +88,7 @@ Profit margin $=\frac{y-x}{x}$. Substituting $x=5000,y=6000$, we get $\frac{6000
 
 ## Reading and Thinking 1
 
-(Reading and Thinking, Can the Water in a Container Be Poured Out?) A container holds $1\,\text{L}$ of water; the $1$-st pour removes $\frac12\,\text{L}$, the $2$-nd pour removes $\frac{1}{2\times3}\,\text{L}$, the $3$-rd pour removes $\frac{1}{3\times4}\,\text{L}$, $\cdots\cdots$ the $n$-th pour removes $\frac{1}{n\left(n+1\right)}\,\text{L}$. How much water has been poured out after $n$ pours? Can all the water be poured out?
+(Reading and Thinking, Can the Water in a Container Be Poured Out?) A container holds $1\;\text{L}$ of water; the $1$-st pour removes $\frac12\;\text{L}$, the $2$-nd pour removes $\frac{1}{2\times3}\;\text{L}$, the $3$-rd pour removes $\frac{1}{3\times4}\;\text{L}$, $\cdots\cdots$ the $n$-th pour removes $\frac{1}{n\left(n+1\right)}\;\text{L}$. How much water has been poured out after $n$ pours? Can all the water be poured out?
 
 ### Solution to Reading and Thinking 1
 
@@ -100,7 +100,7 @@ Using the telescoping decomposition $\frac{1}{k\left(k+1\right)}=\frac1k-\frac{1
 
 $$S_n=\left(1-\frac12\right)+\left(\frac12-\frac13\right)+\cdots+\left(\frac1n-\frac{1}{n+1}\right)=1-\frac{1}{n+1}=\frac{n}{n+1}.$$
 
-No matter how large $n$ is, $S_n=\frac{n}{n+1}<1$, so the $1\,\text{L}$ of water in the container can never be completely poured out. $\blacksquare$
+No matter how large $n$ is, $S_n=\frac{n}{n+1}<1$, so the $1\;\text{L}$ of water in the container can never be completely poured out. $\blacksquare$
 
 ## Exercise 1
 
@@ -262,11 +262,11 @@ $\left(x^2+x^{-2}\right)^2=x^4+2+x^{-4}=49$, hence $x^4+x^{-4}=47$. $\blacksquar
 
 ## Problem 13
 
-(Exercise 18.4, Extension and Exploration, Problem 8) Given that the mass of $1$ water molecule is approximately $3\times10^{-26}\,\text{kg}$, and $1$ drop of water (taking $20$ drops as $1\,\text{g}$) contains approximately how many water molecules?
+(Exercise 18.4, Extension and Exploration, Problem 8) Given that the mass of $1$ water molecule is approximately $3\times10^{-26}\;\text{kg}$, and $1$ drop of water (taking $20$ drops as $1\;\text{g}$) contains approximately how many water molecules?
 
 ### Solution to Problem 13
 
-The mass of $1$ drop of water $=\frac{1}{20}\,\text{g}=5\times10^{-5}\,\text{kg}$.
+The mass of $1$ drop of water $=\frac{1}{20}\;\text{g}=5\times10^{-5}\;\text{kg}$.
 
 The number of water molecules $=\frac{5\times10^{-5}}{3\times10^{-26}}=\frac{5}{3}\times10^{21}\approx1.67\times10^{21}$ molecules. $\blacksquare$
 
@@ -304,17 +304,17 @@ Clear the denominators to obtain an integral equation, then check.
 
 ## Exercise 6
 
-(Exercise 18.5, Problem 1) Eighth-grade students go to the Museum of the Chinese People's War of Resistance Against Japanese Aggression, $30\,\text{km}$ from the school; some students set off first by coach, and after $5\,\text{min}$ the rest set off by minibus, and they arrive at the same time. Given that the average speed of the minibus is $1.2$ times that of the coach, find the average speed of the coach.
+(Exercise 18.5, Problem 1) Eighth-grade students go to the Museum of the Chinese People's War of Resistance Against Japanese Aggression, $30\;\text{km}$ from the school; some students set off first by coach, and after $5\;\text{min}$ the rest set off by minibus, and they arrive at the same time. Given that the average speed of the minibus is $1.2$ times that of the coach, find the average speed of the coach.
 
 ### Solution to Exercise 6
 
-Let the coach's average speed be $x\,\text{km/h}$; then the minibus is $1.2x\,\text{km/h}$. $5\,\text{min}=\frac{1}{12}\,\text{h}$.
+Let the coach's average speed be $x\;\text{km/h}$; then the minibus is $1.2x\;\text{km/h}$. $5\;\text{min}=\frac{1}{12}\;\text{h}$.
 
 $$\frac{30}{x}-\frac{30}{1.2x}=\frac{1}{12}.$$
 
 $$\frac{36-30}{1.2x}=\frac{1}{12},\quad\frac{6}{1.2x}=\frac{1}{12},\quad1.2x=72,\quad{x}=60.$$
 
-Checking, when $x=60$ the denominator is not $0$. Hence the coach's average speed is $60\,\text{km/h}$. $\blacksquare$
+Checking, when $x=60$ the denominator is not $0$. Hence the coach's average speed is $60\;\text{km/h}$. $\blacksquare$
 
 ## Exercise 7
 
@@ -384,68 +384,68 @@ Hence B makes $12$ parts per hour, and A makes $18$ parts per hour. $\blacksquar
 
 ## Problem 16
 
-(Exercise 18.5, Comprehensive Application, Problem 3) A and B set off at the same time from places $6\,\text{km}$ and $10\,\text{km}$ from the destination respectively; the ratio of A's to B's average speeds is $3:4$, and A arrives at the destination $20\,\text{min}$ earlier than B. Find the average speeds of A and B.
+(Exercise 18.5, Comprehensive Application, Problem 3) A and B set off at the same time from places $6\;\text{km}$ and $10\;\text{km}$ from the destination respectively; the ratio of A's to B's average speeds is $3:4$, and A arrives at the destination $20\;\text{min}$ earlier than B. Find the average speeds of A and B.
 
 ### Solution to Problem 16
 
-Let A's speed be $3x$ and B's speed be $4x$. $20\,\text{min}=\frac13\,\text{h}$.
+Let A's speed be $3x$ and B's speed be $4x$. $20\;\text{min}=\frac13\;\text{h}$.
 
 $$\frac{10}{4x}-\frac{6}{3x}=\frac13.$$
 
 $$\frac{5}{2x}-\frac{2}{x}=\frac13,\quad\frac{5-4}{2x}=\frac13,\quad\frac{1}{2x}=\frac13,\quad{x}=\frac32.$$
 
-Hence A's speed is $3x=4.5\,\text{km/h}$, and B's speed is $4x=6\,\text{km/h}$. $\blacksquare$
+Hence A's speed is $3x=4.5\;\text{km/h}$, and B's speed is $4x=6\;\text{km/h}$. $\blacksquare$
 
 ## Problem 17
 
-(Exercise 18.5, Comprehensive Application, Problem 4) Machines of type $A,B$ are both used to transport chemical raw materials; a type $A$ machine transports $30\,\text{kg}$ more per hour than a type $B$ machine, and the time a type $A$ machine takes to transport $900\,\text{kg}$ equals the time a type $B$ machine takes to transport $600\,\text{kg}$. How much chemical raw material does each type of machine transport per hour?
+(Exercise 18.5, Comprehensive Application, Problem 4) Machines of type $A,B$ are both used to transport chemical raw materials; a type $A$ machine transports $30\;\text{kg}$ more per hour than a type $B$ machine, and the time a type $A$ machine takes to transport $900\;\text{kg}$ equals the time a type $B$ machine takes to transport $600\;\text{kg}$. How much chemical raw material does each type of machine transport per hour?
 
 ### Solution to Problem 17
 
-Let type $B$ transport $x\,\text{kg}$ per hour; then type $A$ is $\left(x+30\right)\,\text{kg}$.
+Let type $B$ transport $x\;\text{kg}$ per hour; then type $A$ is $\left(x+30\right)\;\text{kg}$.
 
 $$\frac{900}{x+30}=\frac{600}{x}.$$
 
 $900x=600\left(x+30\right)=600x+18000$, $300x=18000$, $x=60$. The check holds.
 
-Hence type $B$ is $60\,\text{kg}$ per hour, and type $A$ is $90\,\text{kg}$ per hour. $\blacksquare$
+Hence type $B$ is $60\;\text{kg}$ per hour, and type $A$ is $90\;\text{kg}$ per hour. $\blacksquare$
 
 ## Problem 18
 
-(Exercise 18.5, Comprehensive Application, Problem 5) Wang Fang counts half of a batch of books in $3\,\text{h}$; Liu Wei joins in counting the other half, and together they count the other half in $1.2\,\text{h}$. How many hours does Liu Wei need to count this batch of books alone?
+(Exercise 18.5, Comprehensive Application, Problem 5) Wang Fang counts half of a batch of books in $3\;\text{h}$; Liu Wei joins in counting the other half, and together they count the other half in $1.2\;\text{h}$. How many hours does Liu Wei need to count this batch of books alone?
 
 ### Solution to Problem 18
 
-Wang Fang counts half in $3\,\text{h}$, so she counts $\frac{1}{6}$ per hour. Let Liu Wei alone need $x\,\text{h}$, counting $\frac1x$ per hour. Together they count the other half ($\frac12$) in $1.2\,\text{h}$:
+Wang Fang counts half in $3\;\text{h}$, so she counts $\frac{1}{6}$ per hour. Let Liu Wei alone need $x\;\text{h}$, counting $\frac1x$ per hour. Together they count the other half ($\frac12$) in $1.2\;\text{h}$:
 
 $$1.2\left(\frac16+\frac1x\right)=\frac12.$$
 
 $$\frac{1.2}{6}+\frac{1.2}{x}=\frac12,\quad0.2+\frac{1.2}{x}=0.5,\quad\frac{1.2}{x}=0.3,\quad{x}=4.$$
 
-The check holds. Hence Liu Wei alone needs $4\,\text{h}$. $\blacksquare$
+The check holds. Hence Liu Wei alone needs $4\;\text{h}$. $\blacksquare$
 
 ## Problem 19
 
-(Exercise 18.5, Extension and Exploration, Problem 7) After improving the corn variety, the average corn yield per hectare in Yingchun Village increased by $a\,\text{t}$; a plot that originally yielded $m\,\text{t}$ of corn now has a total increase of $20\,\text{t}$. What were the original and current average corn yields per hectare?
+(Exercise 18.5, Extension and Exploration, Problem 7) After improving the corn variety, the average corn yield per hectare in Yingchun Village increased by $a\;\text{t}$; a plot that originally yielded $m\;\text{t}$ of corn now has a total increase of $20\;\text{t}$. What were the original and current average corn yields per hectare?
 
 ### Solution to Problem 19
 
-Let the original yield per hectare be $x\,\text{t}$; then the area of the plot is $\frac{m}{x}$ hectares. Now the yield per hectare is $\left(x+a\right)\,\text{t}$, and the total increase is $a\cdot\frac{m}{x}=20$.
+Let the original yield per hectare be $x\;\text{t}$; then the area of the plot is $\frac{m}{x}$ hectares. Now the yield per hectare is $\left(x+a\right)\;\text{t}$, and the total increase is $a\cdot\frac{m}{x}=20$.
 
 $$\frac{am}{x}=20,\quad{x}=\frac{am}{20}.$$
 
-The original yield per hectare is $\frac{am}{20}\,\text{t}$, and the current is $\frac{am}{20}+a=\frac{a\left(m+20\right)}{20}\,\text{t}$. $\blacksquare$
+The original yield per hectare is $\frac{am}{20}\;\text{t}$, and the current is $\frac{am}{20}+a=\frac{a\left(m+20\right)}{20}\;\text{t}$. $\blacksquare$
 
 ## Problem 20
 
-(Exercise 18.5, Extension and Exploration, Problem 8) Two groups start climbing a $450\,\text{m}$-high mountain at the same time; the average climbing speed of the first group is $1.2$ times that of the second group, and they reach the summit $15\,\text{min}$ earlier than the second group. What are the average climbing speeds of the two groups?
+(Exercise 18.5, Extension and Exploration, Problem 8) Two groups start climbing a $450\;\text{m}$-high mountain at the same time; the average climbing speed of the first group is $1.2$ times that of the second group, and they reach the summit $15\;\text{min}$ earlier than the second group. What are the average climbing speeds of the two groups?
 
 ### Solution to Problem 20
 
-Let the second group's speed be $x\,\text{m/min}$, and the first group's $1.2x$.
+Let the second group's speed be $x\;\text{m/min}$, and the first group's $1.2x$.
 
 $$\frac{450}{x}-\frac{450}{1.2x}=15.$$
 
 $$\frac{450}{x}-\frac{375}{x}=15,\quad\frac{75}{x}=15,\quad{x}=5.$$
 
-The check holds. Hence the second group's speed is $5\,\text{m/min}$, and the first group's is $6\,\text{m/min}$. $\blacksquare$
+The check holds. Hence the second group's speed is $5\;\text{m/min}$, and the first group's is $6\;\text{m/min}$. $\blacksquare$

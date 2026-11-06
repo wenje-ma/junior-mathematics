@@ -104,15 +104,15 @@ By **Theorem 7.2.3 (Criterion 3)**, supplementary consecutive interior angles im
 
 (1) Through the midpoint $C$ of segment $AB$, draw $CD\perp{A}B$;
 
-(2) The distance from point $P$ to line $AB$ is $3\,\text{cm}$; through point $P$ draw the perpendicular to line $AB$;
+(2) The distance from point $P$ to line $AB$ is $3\;\text{cm}$; through point $P$ draw the perpendicular to line $AB$;
 
 (3) Through a point $P$ inside triangle $ABC$, draw lines parallel to $AB$, $BC$, $AC$ respectively.
 
-The figure contains three small diagrams: (1) segment $AB$ with its midpoint $C$, and $CD\perp{A}B$ through $C$; (2) a point $P$ outside line $AB$, with the distance from $P$ to $AB$ equal to $3\,\text{cm}$, and the perpendicular from $P$ to $AB$; (3) a point $P$ inside triangle $ABC$, with lines through $P$ parallel to $AB$, $BC$, $AC$ respectively.
+The figure contains three small diagrams: (1) segment $AB$ with its midpoint $C$, and $CD\perp{A}B$ through $C$; (2) a point $P$ outside line $AB$, with the distance from $P$ to $AB$ equal to $3\;\text{cm}$, and the perpendicular from $P$ to $AB$; (3) a point $P$ inside triangle $ABC$, with lines through $P$ parallel to $AB$, $BC$, $AC$ respectively.
 
 ### Solution to Review Exercise 3
 
-Draw step by step according to the statements: first take the midpoint $C$ of segment $AB$, and use a set square through $C$ to draw $CD\perp{A}B$; then measure the distance from point $P$ to line $AB$ as $3\,\text{cm}$, and through $P$ draw the perpendicular to $AB$; finally, by Parallel Axiom, through point $P$ draw lines parallel to $AB$, $BC$, $AC$ respectively. This gives the figure satisfying the statements. $\blacksquare$
+Draw step by step according to the statements: first take the midpoint $C$ of segment $AB$, and use a set square through $C$ to draw $CD\perp{A}B$; then measure the distance from point $P$ to line $AB$ as $3\;\text{cm}$, and through $P$ draw the perpendicular to $AB$; finally, by Parallel Axiom, through point $P$ draw lines parallel to $AB$, $BC$, $AC$ respectively. This gives the figure satisfying the statements. $\blacksquare$
 
 ## Review Exercise 4
 
@@ -390,17 +390,17 @@ By **Definition 8.1.2 (Arithmetic Square Root)**, $\sqrt{a}$ denotes the arithme
 
 ## Exercise 6
 
-(Exercise 8.1, Problem 3) A volleyball court is rectangular, its length is $2$ times its width, and its area is $162\,\text{m}^2$. What are its length and width respectively?
+(Exercise 8.1, Problem 3) A volleyball court is rectangular, its length is $2$ times its width, and its area is $162\;\text{m}^2$. What are its length and width respectively?
 
 ### Solution to Exercise 6
 
-Let the width be $x\,\text{m}$; then the length is $2x\,\text{m}$. By the area formula of a rectangle,
+Let the width be $x\;\text{m}$; then the length is $2x\;\text{m}$. By the area formula of a rectangle,
 
 $$
 x\cdot2x=162,\quad2x^2=162,\quad{x}^2=81.
 $$
 
-By **Definition 8.1.1 (Square Root)**, $x=\sqrt{81}=9$ (take the positive value). Thus the width is $9\,\text{m}$ and the length is $2x=18\,\text{m}$. $\blacksquare$
+By **Definition 8.1.1 (Square Root)**, $x=\sqrt{81}=9$ (take the positive value). Thus the width is $9\;\text{m}$ and the length is $2x=18\;\text{m}$. $\blacksquare$
 
 ## Exercise 7
 
@@ -436,19 +436,19 @@ By Size of the Arithmetic Square Root, compare with squares.
 
 ## Exercise 9
 
-(Exercise 8.1, Problem 3) A rectangular sheet of drawing paper has area $700\,\text{cm}^2$, and the ratio of its length to its width is $5:4$. Wang Fang wants to cut a circular sheet of drawing paper of radius $12\,\text{cm}$ from it. Is her idea feasible?
+(Exercise 8.1, Problem 3) A rectangular sheet of drawing paper has area $700\;\text{cm}^2$, and the ratio of its length to its width is $5:4$. Wang Fang wants to cut a circular sheet of drawing paper of radius $12\;\text{cm}$ from it. Is her idea feasible?
 
 ### Solution to Exercise 9
 
-Let the length be $5x\,\text{cm}$ and the width be $4x\,\text{cm}$. From the area,
+Let the length be $5x\;\text{cm}$ and the width be $4x\;\text{cm}$. From the area,
 
 $$
 5x\cdot4x=700,\quad20x^2=700,\quad{x}^2=35.
 $$
 
-By **Definition 8.1.1 (Square Root)**, $x=\sqrt{35}\approx5.92$. Thus the length is $5\sqrt{35}\approx29.6\,\text{cm}$ and the width is $4\sqrt{35}\approx23.7\,\text{cm}$.
+By **Definition 8.1.1 (Square Root)**, $x=\sqrt{35}\approx5.92$. Thus the length is $5\sqrt{35}\approx29.6\;\text{cm}$ and the width is $4\sqrt{35}\approx23.7\;\text{cm}$.
 
-A circle of radius $12\,\text{cm}$ has diameter $24\,\text{cm}$. The paper is about $23.7\,\text{cm}<24\,\text{cm}$ wide, so the diameter does not fit along the width. Thus Wang Fang's idea is not feasible. $\blacksquare$
+A circle of radius $12\;\text{cm}$ has diameter $24\;\text{cm}$. The paper is about $23.7\;\text{cm}<24\;\text{cm}$ wide, so the diameter does not fit along the width. Thus Wang Fang's idea is not feasible. $\blacksquare$
 
 ## Problem 1
 

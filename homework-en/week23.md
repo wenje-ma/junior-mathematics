@@ -86,7 +86,7 @@ By the coordinate rule for axial symmetry, after an arbitrary point $M\left(x,y\
 
 ## Exercise 1
 
-(Exercise 10.1, Problem 1) A peach-processing plant purchases $28\,\text{t}$ of yellow peaches for processing. At the start, only $2\,\text{t}$ can be processed per day; after upgrading the processing equipment, $4\,\text{t}$ can be processed per day, and it took a total of $8$ days to finish exactly. How many days were spent before and after the equipment upgrade respectively? Set up a system of linear equations in two variables, and find the solution according to the practical meaning of the problem.
+(Exercise 10.1, Problem 1) A peach-processing plant purchases $28\;\text{t}$ of yellow peaches for processing. At the start, only $2\;\text{t}$ can be processed per day; after upgrading the processing equipment, $4\;\text{t}$ can be processed per day, and it took a total of $8$ days to finish exactly. How many days were spent before and after the equipment upgrade respectively? Set up a system of linear equations in two variables, and find the solution according to the practical meaning of the problem.
 
 ### Solution to Exercise 1
 
@@ -208,11 +208,11 @@ Thus there are $23$ chickens and $12$ rabbits. $\blacksquare$
 
 ## Problem 5
 
-(Exercise 10.1, Extension and Exploration, Problem 5) Cut a steel pipe of length $7\,\text{m}$ into pipes of two specifications: $2\,\text{m}$ long and $1\,\text{m}$ long. How to cut it without waste? How many different cutting plans are there? (At least one pipe of each specification must be cut.)
+(Exercise 10.1, Extension and Exploration, Problem 5) Cut a steel pipe of length $7\;\text{m}$ into pipes of two specifications: $2\;\text{m}$ long and $1\;\text{m}$ long. How to cut it without waste? How many different cutting plans are there? (At least one pipe of each specification must be cut.)
 
 ### Solution to Problem 5
 
-Let $x$ be the number of $2\,\text{m}$ pipes cut and $y$ the number of $1\,\text{m}$ pipes cut; then
+Let $x$ be the number of $2\;\text{m}$ pipes cut and $y$ the number of $1\;\text{m}$ pipes cut; then
 
 $$
 2x+y=7.
@@ -339,11 +339,11 @@ By **Definition 10.2.3 (Addition-Subtraction Elimination)**.
 
 ## Exercise 9
 
-(Exercise 10.2, Problem 7) Perch and eggplant are home-cooked dishes. A restaurant paid a total of $44$ yuan for perch and eggplant one day; perch is $35$ yuan per kilogram and eggplant is $6$ yuan per kilogram, and the eggplant bought was $0.5\,\text{kg}$ more than the perch. How many kilograms of perch and eggplant did the restaurant buy?
+(Exercise 10.2, Problem 7) Perch and eggplant are home-cooked dishes. A restaurant paid a total of $44$ yuan for perch and eggplant one day; perch is $35$ yuan per kilogram and eggplant is $6$ yuan per kilogram, and the eggplant bought was $0.5\;\text{kg}$ more than the perch. How many kilograms of perch and eggplant did the restaurant buy?
 
 ### Solution to Exercise 9
 
-Let $x\,\text{kg}$ be the perch bought and $y\,\text{kg}$ the eggplant. According to the problem,
+Let $x\;\text{kg}$ be the perch bought and $y\;\text{kg}$ the eggplant. According to the problem,
 
 $$
 \begin{cases}
@@ -354,7 +354,7 @@ $$
 
 By **Definition 10.2.2 (Substitution Elimination)**, substituting gives $35x+6\left(x+0.5\right)=44$, i.e. $41x=41$, $x=1$, $y=1.5$.
 
-Thus $1\,\text{kg}$ of perch and $1.5\,\text{kg}$ of eggplant were bought. $\blacksquare$
+Thus $1\;\text{kg}$ of perch and $1.5\;\text{kg}$ of eggplant were bought. $\blacksquare$
 
 ## Problem 6
 
@@ -447,11 +447,11 @@ Substitute: $x+2x-1=200$, giving $x=67$, $y=133$. Thus $67$ people go to Yunshui
 
 ## Problem 10
 
-(Exercise 10.2, Comprehensive Application, Problem 5) A boat sailing downstream (by Downstream and Upstream Speeds) travels $20\,\text{km}$ per hour; sailing upstream, it travels $16\,\text{km}$ per hour. Find the speed of the boat in still water and the speed of the current.
+(Exercise 10.2, Comprehensive Application, Problem 5) A boat sailing downstream (by Downstream and Upstream Speeds) travels $20\;\text{km}$ per hour; sailing upstream, it travels $16\;\text{km}$ per hour. Find the speed of the boat in still water and the speed of the current.
 
 ### Solution to Problem 10
 
-Let $x\,\text{km/h}$ be the boat's speed in still water and $y\,\text{km/h}$ the current speed. According to the problem,
+Let $x\;\text{km/h}$ be the boat's speed in still water and $y\;\text{km/h}$ the current speed. According to the problem,
 
 $$
 \begin{cases}
@@ -460,7 +460,7 @@ x-y=16.
 \end{cases}
 $$
 
-Add the two equations: $2x=36$, $x=18$; substituting back $18+y=20$, $y=2$. Thus the boat's speed in still water is $18\,\text{km/h}$ and the current speed is $2\,\text{km/h}$. $\blacksquare$
+Add the two equations: $2x=36$, $x=18$; substituting back $18+y=20$, $y=2$. Thus the boat's speed in still water is $18\;\text{km/h}$ and the current speed is $2\;\text{km/h}$. $\blacksquare$
 
 ## Problem 11
 
@@ -512,11 +512,11 @@ Substitute: $\frac{x+4.5}{2}=x-1$, i.e. $x+4.5=2x-2$, giving $x=6.5$, $y=11$. Th
 
 ## Problem 14
 
-(Exercise 10.2, Comprehensive Application, Problem 9) In a certain city, the distance included in the taxi flag-down fare does not exceed $3\,\text{km}$; the part beyond $3\,\text{km}$ is charged an additional distance fee at a fixed rate. Zhang Hua's first ride traveled $7\,\text{km}$, and the flag-down fare plus distance fee totaled $17.2$ yuan; the second ride traveled $13\,\text{km}$, totaling $28$ yuan. Find the flag-down fare and the distance-fare rate beyond $3\,\text{km}$.
+(Exercise 10.2, Comprehensive Application, Problem 9) In a certain city, the distance included in the taxi flag-down fare does not exceed $3\;\text{km}$; the part beyond $3\;\text{km}$ is charged an additional distance fee at a fixed rate. Zhang Hua's first ride traveled $7\;\text{km}$, and the flag-down fare plus distance fee totaled $17.2$ yuan; the second ride traveled $13\;\text{km}$, totaling $28$ yuan. Find the flag-down fare and the distance-fare rate beyond $3\;\text{km}$.
 
 ### Solution to Problem 14
 
-Let $x$ yuan be the flag-down fare and $z$ yuan per kilometer beyond $3\,\text{km}$. According to the problem,
+Let $x$ yuan be the flag-down fare and $z$ yuan per kilometer beyond $3\;\text{km}$. According to the problem,
 
 $$
 \begin{cases}
@@ -525,7 +525,7 @@ x+\left(13-3\right)z=28.
 \end{cases}
 $$
 
-Subtract the two equations: $6z=10.8$, $z=1.8$; substituting back $x+4\times1.8=17.2$, $x=10$. Thus the flag-down fare is $10$ yuan, and beyond $3\,\text{km}$ the distance fare is $1.8$ yuan per kilometer. $\blacksquare$
+Subtract the two equations: $6z=10.8$, $z=1.8$; substituting back $x+4\times1.8=17.2$, $x=10$. Thus the flag-down fare is $10$ yuan, and beyond $3\;\text{km}$ the distance fare is $1.8$ yuan per kilometer. $\blacksquare$
 
 ## Problem 15
 
@@ -546,11 +546,11 @@ Multiply the first equation by $4$: $20x+12y=760$; subtract the second: $9x=180$
 
 ## Problem 16
 
-(Exercise 10.2, Comprehensive Application, Problem 11) $2$ large harvesters and $5$ small harvesters working simultaneously for $2\,\text{h}$ harvest $3.6\,\text{hm}^2$ of wheat in total; $3$ large harvesters and $2$ small harvesters working simultaneously for $5\,\text{h}$ harvest $8\,\text{hm}^2$ of wheat in total. How many hectares does $1$ large harvester and $1$ small harvester harvest per hour respectively?
+(Exercise 10.2, Comprehensive Application, Problem 11) $2$ large harvesters and $5$ small harvesters working simultaneously for $2\;\text{h}$ harvest $3.6\;\text{hm}^2$ of wheat in total; $3$ large harvesters and $2$ small harvesters working simultaneously for $5\;\text{h}$ harvest $8\;\text{hm}^2$ of wheat in total. How many hectares does $1$ large harvester and $1$ small harvester harvest per hour respectively?
 
 ### Solution to Problem 16
 
-Let $x\,\text{hm}^2$ be harvested per hour by $1$ large harvester and $y\,\text{hm}^2$ by a small harvester. According to the problem,
+Let $x\;\text{hm}^2$ be harvested per hour by $1$ large harvester and $y\;\text{hm}^2$ by a small harvester. According to the problem,
 
 $$
 \begin{cases}
@@ -559,4 +559,4 @@ $$
 \end{cases}
 $$
 
-Simplify: $2x+5y=1.8$, $3x+2y=1.6$. Multiply the first by $2$ and the second by $5$ and subtract: $11x=4.4$, $x=0.4$; substituting back $0.8+5y=1.8$, $y=0.2$. Thus a large harvester harvests $0.4\,\text{hm}^2$ per hour and a small harvester $0.2\,\text{hm}^2$ per hour. $\blacksquare$
+Simplify: $2x+5y=1.8$, $3x+2y=1.6$. Multiply the first by $2$ and the second by $5$ and subtract: $11x=4.4$, $x=0.4$; substituting back $0.8+5y=1.8$, $y=0.2$. Thus a large harvester harvests $0.4\;\text{hm}^2$ per hour and a small harvester $0.2\;\text{hm}^2$ per hour. $\blacksquare$

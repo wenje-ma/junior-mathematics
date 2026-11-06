@@ -168,13 +168,13 @@ In $\text{Rt}\triangle{A}BD$, $\angle{B}=30^\circ$; by Right Triangle Containing
 
 ## Problem 8
 
-(Exercise 15.3, Comprehensive Application, Problem 9) At $8$ a.m., a ship departs from island $A$ and sails due north at a speed of $15\,\text{n~mile/h}$, reaching island $B$ at $10$ a.m. Looking at lighthouse $C$ from $A$, $B$, the measured angles are $\angle{N}AC=42^\circ$, $\angle{N}BC=84^\circ$. Find the distance between island $B$ and lighthouse $C$.
+(Exercise 15.3, Comprehensive Application, Problem 9) At $8$ a.m., a ship departs from island $A$ and sails due north at a speed of $15\;\text{n~mile/h}$, reaching island $B$ at $10$ a.m. Looking at lighthouse $C$ from $A$, $B$, the measured angles are $\angle{N}AC=42^\circ$, $\angle{N}BC=84^\circ$. Find the distance between island $B$ and lighthouse $C$.
 
 ### Solution to Problem 8
 
-$AB=15\times\left(10-8\right)=30\,\text{n~mile}$. In $\triangle{A}BC$, $\angle{N}BC$ is an exterior angle, so $\angle{N}BC=\angle{B}AC+\angle{C}$. From $\angle{B}AC=\angle{N}AC=42^\circ$, we get $\angle{C}=84^\circ-42^\circ=42^\circ$.
+$AB=15\times\left(10-8\right)=30\;\text{n~mile}$. In $\triangle{A}BC$, $\angle{N}BC$ is an exterior angle, so $\angle{N}BC=\angle{B}AC+\angle{C}$. From $\angle{B}AC=\angle{N}AC=42^\circ$, we get $\angle{C}=84^\circ-42^\circ=42^\circ$.
 
-Hence $\angle{C}=\angle{B}AC$; by Equal Angles Opposite Equal Sides, $BC=AB=30\,\text{n~mile}$. $\blacksquare$
+Hence $\angle{C}=\angle{B}AC$; by Equal Angles Opposite Equal Sides, $BC=AB=30\;\text{n~mile}$. $\blacksquare$
 
 ## Problem 9
 

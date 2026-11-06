@@ -6,11 +6,11 @@
 
 > **Rule 19.2.1 (Multiplication)**
 > 
-> \(\sqrt{a}\cdot\sqrt{b}=\sqrt{ab}\) (\(a\ge0,\,b\ge0\)).
+> \(\sqrt{a}\cdot\sqrt{b}=\sqrt{ab}\) (\(a\ge0,b\ge0\)).
 
 > **Rule 19.2.3 (Division)**
 > 
-> \(\frac{\sqrt{a}}{\sqrt{b}}=\sqrt{\frac{a}{b}}\) (\(a\ge0,\,b>0\)).
+> \(\frac{\sqrt{a}}{\sqrt{b}}=\sqrt{\frac{a}{b}}\) (\(a\ge0,b>0\)).
 
 > **Rule 19.3.1 (Addition and Subtraction)**
 > 
@@ -104,11 +104,11 @@ By Basic Knowledge, taking the square root gives \(n\sqrt{\frac{n}{n^{2}-1}}\), 
 
 Let the two legs of a right triangle be \(a\) and \(b\), and the hypotenuse be \(c\).
 
-(1) Given \(a=6,\,c=10\), find \(b\);
+(1) Given \(a=6,c=10\), find \(b\);
 
-(2) Given \(a=5,\,b=12\), find \(c\);
+(2) Given \(a=5,b=12\), find \(c\);
 
-(3) Given \(b=15,\,c=25\), find \(a\).
+(3) Given \(b=15,c=25\), find \(a\).
 
 By **Theorem 20.1.1 (Pythagorean Theorem)**, \(a^{2}+b^{2}=c^{2}\).
 
@@ -156,28 +156,28 @@ $$
 
 (Exercise 20.1, Problem 1)
 
-As shown in the figure, \(A,B\) are two points on the edge of a pond, and \(C\) is a point in a direction perpendicular to \(BA\). It is measured that \(BC=60\,\text{m}\) and \(AC=20\,\text{m}\). Find the distance between \(A\) and \(B\) (round to an integer).
+As shown in the figure, \(A,B\) are two points on the edge of a pond, and \(C\) is a point in a direction perpendicular to \(BA\). It is measured that \(BC=60\;\text{m}\) and \(AC=20\;\text{m}\). Find the distance between \(A\) and \(B\) (round to an integer).
 
 By the problem, \(\triangle{A}BC\) is a right triangle with \(\angle{C}=90^{\circ}\).
 
 By **Theorem 20.1.1 (Pythagorean Theorem)**,
 
 $$
-AB=\sqrt{AC^{2}+BC^{2}}=\sqrt{20^{2}+60^{2}}=\sqrt{4000}\approx63\,\text{m}.
+AB=\sqrt{AC^{2}+BC^{2}}=\sqrt{20^{2}+60^{2}}=\sqrt{4000}\approx63\;\text{m}.
 $$
 
 \(\blacksquare\)
 
 (Exercise 20.1, Problem 2)
 
-As shown in the figure, a laser rangefinder is used to measure the height of a building. The laser rangefinder at point \(A\) on the ground first aims the laser at point \(B\) at the base of the building, and the instrument shows \(AB=23.1\,\text{m}\); then it aims the laser at point \(C\) at the top of the building, and the instrument shows \(AC=31.9\,\text{m}\); finally the instrument automatically displays the building height \(BC=22\,\text{m}\). Can you explain the mathematics behind this?
+As shown in the figure, a laser rangefinder is used to measure the height of a building. The laser rangefinder at point \(A\) on the ground first aims the laser at point \(B\) at the base of the building, and the instrument shows \(AB=23.1\;\text{m}\); then it aims the laser at point \(C\) at the top of the building, and the instrument shows \(AC=31.9\;\text{m}\); finally the instrument automatically displays the building height \(BC=22\;\text{m}\). Can you explain the mathematics behind this?
 
 By the problem, the building \(BC\) is perpendicular to the ground \(AB\), so \(\triangle{A}BC\) is a right triangle with \(\angle{B}=90^{\circ}\).
 
 By **Theorem 20.1.1 (Pythagorean Theorem)**, the building height
 
 $$
-BC=\sqrt{AC^{2}-AB^{2}}=\sqrt{31.9^{2}-23.1^{2}}=\sqrt{\left(31.9+23.1\right)\left(31.9-23.1\right)}=\sqrt{55\times8.8}=\sqrt{484}=22\,\text{m}.
+BC=\sqrt{AC^{2}-AB^{2}}=\sqrt{31.9^{2}-23.1^{2}}=\sqrt{\left(31.9+23.1\right)\left(31.9-23.1\right)}=\sqrt{55\times8.8}=\sqrt{484}=22\;\text{m}.
 $$
 
 The instrument precisely uses the Pythagorean theorem to compute the building height from the difference of the two slant distances.
@@ -186,12 +186,12 @@ The instrument precisely uses the Pythagorean theorem to compute the building he
 
 (Exercise 20.1, Problem 3)
 
-The screen size of a television refers to the length of its screen diagonal, usually measured in inches (\(1\) inch \(=2.54\,\text{cm}\)). Wang Fang measured that her television screen is \(71\,\text{cm}\) wide and \(40\,\text{cm}\) high. What is the screen size of this television in inches (round to an integer)?
+The screen size of a television refers to the length of its screen diagonal, usually measured in inches (\(1\) inch \(=2.54\;\text{cm}\)). Wang Fang measured that her television screen is \(71\;\text{cm}\) wide and \(40\;\text{cm}\) high. What is the screen size of this television in inches (round to an integer)?
 
 The screen diagonal length is, by **Theorem 20.1.1 (Pythagorean Theorem)**:
 
 $$
-d=\sqrt{71^{2}+40^{2}}=\sqrt{5041+1600}=\sqrt{6641}\approx81.5\,\text{cm}.
+d=\sqrt{71^{2}+40^{2}}=\sqrt{5041+1600}=\sqrt{6641}\approx81.5\;\text{cm}.
 $$
 
 Converting to inches: \(\frac{81.5}{2.54}\approx32\) inches.
@@ -256,11 +256,11 @@ i.e. \(S_{1}+S_{4}=S_{2}+S_{3}\).
 
 Let the two legs of a right triangle be \(a\) and \(b\), and the hypotenuse be \(c\).
 
-(1) Given \(a=12,\,b=5\), find \(c\);
+(1) Given \(a=12,b=5\), find \(c\);
 
-(2) Given \(a=3,\,c=4\), find \(b\);
+(2) Given \(a=3,c=4\), find \(b\);
 
-(3) Given \(c=10,\,b=9\), find \(a\).
+(3) Given \(c=10,b=9\), find \(a\).
 
 By **Theorem 20.1.1 (Pythagorean Theorem)**.
 
@@ -274,13 +274,13 @@ By **Theorem 20.1.1 (Pythagorean Theorem)**.
 
 (Exercise 20.1, Review and Consolidation, Problem 2)
 
-As shown in the figure, a vertical wooden pole standing on the ground breaks at a point \(3\,\text{m}\) above the ground, and the top of the pole lands \(4\,\text{m}\) from the base of the pole. How tall was the pole before it broke?
+As shown in the figure, a vertical wooden pole standing on the ground breaks at a point \(3\;\text{m}\) above the ground, and the top of the pole lands \(4\;\text{m}\) from the base of the pole. How tall was the pole before it broke?
 
-The broken part is the hypotenuse, and the vertical segment \(3\,\text{m}\) and the horizontal distance \(4\,\text{m}\) are the two legs.
+The broken part is the hypotenuse, and the vertical segment \(3\;\text{m}\) and the horizontal distance \(4\;\text{m}\) are the two legs.
 
-By **Theorem 20.1.1 (Pythagorean Theorem)**, the broken part has length \(\sqrt{3^{2}+4^{2}}=5\,\text{m}\).
+By **Theorem 20.1.1 (Pythagorean Theorem)**, the broken part has length \(\sqrt{3^{2}+4^{2}}=5\;\text{m}\).
 
-Therefore the original height of the pole is \(3+5=8\,\text{m}\).
+Therefore the original height of the pole is \(3+5=8\;\text{m}\).
 
 \(\blacksquare\)
 
@@ -305,21 +305,21 @@ The vertical difference between the two hole centers is \(60-21=39\), and the ho
 By **Theorem 20.1.1 (Pythagorean Theorem)**, the distance between the two hole centers is
 
 $$
-d=\sqrt{39^{2}+40^{2}}=\sqrt{1521+1600}=\sqrt{3121}\approx55.9\,\text{mm}.
+d=\sqrt{39^{2}+40^{2}}=\sqrt{1521+1600}=\sqrt{3121}\approx55.9\;\text{mm}.
 $$
 
 \(\blacksquare\)
 
 (Exercise 20.1, Review and Consolidation, Problem 5)
 
-As shown in the figure, a steel cable of length \(7\,\text{m}\) is to be pulled from a point \(5\,\text{m}\) up a utility pole to the ground. Find the distance from the ground anchor point \(A\) of the cable to the base point \(B\) of the pole (keep one decimal place).
+As shown in the figure, a steel cable of length \(7\;\text{m}\) is to be pulled from a point \(5\;\text{m}\) up a utility pole to the ground. Find the distance from the ground anchor point \(A\) of the cable to the base point \(B\) of the pole (keep one decimal place).
 
-The cable is the hypotenuse \(7\,\text{m}\), and the vertical segment of the pole is one leg \(5\,\text{m}\).
+The cable is the hypotenuse \(7\;\text{m}\), and the vertical segment of the pole is one leg \(5\;\text{m}\).
 
 By **Theorem 20.1.1 (Pythagorean Theorem)**,
 
 $$
-AB=\sqrt{7^{2}-5^{2}}=\sqrt{49-25}=\sqrt{24}\approx4.9\,\text{m}.
+AB=\sqrt{7^{2}-5^{2}}=\sqrt{49-25}=\sqrt{24}\approx4.9\;\text{m}.
 $$
 
 \(\blacksquare\)
@@ -356,7 +356,7 @@ Hence \(BC=AC=\frac{\sqrt{2}c}{2}\).
 
 (Exercise 20.1, Comprehensive Application, Problem 8)
 
-In \(Rt\triangle{A}BC\), \(\angle{C}=90^{\circ}\), \(AC=2.1,\,BC=2.8\). Find:
+In \(Rt\triangle{A}BC\), \(\angle{C}=90^{\circ}\), \(AC=2.1,BC=2.8\). Find:
 
 (1) the area of \(\triangle{A}BC\); (2) the hypotenuse \(AB\); (3) the altitude \(CD\).
 
@@ -374,14 +374,14 @@ $$
 
 (Exercise 20.1, Comprehensive Application, Problem 9)
 
-As shown in the figure, a step has height \(h=15\,\text{cm}\); for convenience of walking, a concrete ramp is to be built at the step. If the slope \(\frac{h}{d}\) of the ramp is \(\frac{1}{12}\), what is the length \(l\) of the ramp (keep two decimal places)?
+As shown in the figure, a step has height \(h=15\;\text{cm}\); for convenience of walking, a concrete ramp is to be built at the step. If the slope \(\frac{h}{d}\) of the ramp is \(\frac{1}{12}\), what is the length \(l\) of the ramp (keep two decimal places)?
 
-From \(\frac{h}{d}=\frac{1}{12}\) and \(h=15\), we get \(d=180\,\text{cm}\).
+From \(\frac{h}{d}=\frac{1}{12}\) and \(h=15\), we get \(d=180\;\text{cm}\).
 
 The ramp is the hypotenuse; by **Theorem 20.1.1 (Pythagorean Theorem)**,
 
 $$
-l=\sqrt{h^{2}+d^{2}}=\sqrt{15^{2}+180^{2}}=\sqrt{225+32400}=\sqrt{32625}\approx180.62\,\text{cm}.
+l=\sqrt{h^{2}+d^{2}}=\sqrt{15^{2}+180^{2}}=\sqrt{225+32400}=\sqrt{32625}\approx180.62\;\text{cm}.
 $$
 
 \(\blacksquare\)
@@ -404,7 +404,7 @@ Therefore the water depth is \(12\) chi and the reed length is \(13\) chi.
 
 (Exercise 20.1, Comprehensive Application, Problem 11)
 
-As shown in the figure, a triangular sheet \(ABC\) has \(\angle{C}=90^{\circ}\), \(AC=8\,\text{cm}\), \(BC=6\,\text{cm}\). The sheet is folded along the line \(DE\) so that point \(A\) coincides with \(B\). Find the length of \(CD\).
+As shown in the figure, a triangular sheet \(ABC\) has \(\angle{C}=90^{\circ}\), \(AC=8\;\text{cm}\), \(BC=6\;\text{cm}\). The sheet is folded along the line \(DE\) so that point \(A\) coincides with \(B\). Find the length of \(CD\).
 
 Let \(CD=x\); then \(AD=8-x\). After folding, \(A\) coincides with \(B\), so \(BD=AD=8-x\).
 
@@ -418,7 +418,7 @@ $$
 x^{2}+36=64-16x+x^{2},\quad16x=28,\quad{x}=\frac{7}{4}.
 $$
 
-Therefore \(CD=\frac{7}{4}\,\text{cm}\).
+Therefore \(CD=\frac{7}{4}\;\text{cm}\).
 
 \(\blacksquare\)
 
@@ -430,9 +430,9 @@ The dimensions (unit: \(\text{mm}\)) of two triangular workpieces \(A\) and \(B\
 
 (\(A\)) The base is \(20\), one side is \(13\), and the height divides the base into segments \(12\) and \(8\).
 
-By **Theorem 20.1.1 (Pythagorean Theorem)**, \(h_{1}=\sqrt{13^{2}-12^{2}}=\sqrt{25}=5\,\text{mm}\).
+By **Theorem 20.1.1 (Pythagorean Theorem)**, \(h_{1}=\sqrt{13^{2}-12^{2}}=\sqrt{25}=5\;\text{mm}\).
 
-(\(B\)) From the figure, \(h_{2}=\sqrt{13^{2}-(21-13)^{2}}=\sqrt{169-64}=\sqrt{105}\,\text{mm}\).
+(\(B\)) From the figure, \(h_{2}=\sqrt{13^{2}-(21-13)^{2}}=\sqrt{169-64}=\sqrt{105}\;\text{mm}\).
 
 \(\blacksquare\)
 
@@ -462,13 +462,13 @@ Subtracting from both sides the two circular-segment areas between the large sem
 
 (Exercise 20.1, Extension and Exploration, Problem 14)
 
-As shown in the figure, \(\triangle{A}CB\) and \(\triangle{E}CD\) are both isosceles right triangles, \(CA=CB,\,CE=CD\), and vertex \(A\) of \(\triangle{A}CB\) lies on the hypotenuse \(DE\) of \(\triangle{E}CD\). Prove that \(AE^{2}+AD^{2}=2AC^{2}\).
+As shown in the figure, \(\triangle{A}CB\) and \(\triangle{E}CD\) are both isosceles right triangles, \(CA=CB,CE=CD\), and vertex \(A\) of \(\triangle{A}CB\) lies on the hypotenuse \(DE\) of \(\triangle{E}CD\). Prove that \(AE^{2}+AD^{2}=2AC^{2}\).
 
 Connect \(BD\).
 
 From \(\angle{E}CD=\angle{A}CB=90^{\circ}\), we get \(\angle{E}CA=\angle{D}CB\).
 
-Also \(CE=CD,\,CA=CB\), so \(\triangle{E}CA\cong\triangle{D}CB\); hence \(AE=BD\), and \(\angle{C}DB=\angle{E}=45^{\circ}\).
+Also \(CE=CD,CA=CB\), so \(\triangle{E}CA\cong\triangle{D}CB\); hence \(AE=BD\), and \(\angle{C}DB=\angle{E}=45^{\circ}\).
 
 And \(\angle{C}DE=45^{\circ}\), so \(\angle{A}DB=\angle{A}DC+\angle{C}DB=45^{\circ}+45^{\circ}=90^{\circ}\).
 
@@ -506,7 +506,7 @@ Thus \(a^{2}+b^{2}=c^{2}\).
 
 Determine whether the triangle formed by the segments \(a,b,c\) is a right triangle:
 
-(1) \(a=4,\,b=5,\,c=6\); (2) \(a=2.5,\,b=0.7,\,c=2.4\); (3) \(a=15,\,b=14,\,c=13\); (4) \(a=1,\,b=\sqrt{2},\,c=\sqrt{3}\).
+(1) \(a=4,b=5,c=6\); (2) \(a=2.5,b=0.7,c=2.4\); (3) \(a=15,b=14,c=13\); (4) \(a=1,b=\sqrt{2},c=\sqrt{3}\).
 
 By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**, check whether the sum of the squares of the two shorter sides equals the square of the longest side.
 
@@ -538,7 +538,7 @@ By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**, \(\triangle{A}BC\) 
 
 The pairwise distances between three places \(A,B,C\) are shown in the figure. Place \(A\) is due east of place \(B\). In what direction is place \(C\) from place \(B\)?
 
-The distances are \(AB=5,\,BC=12,\,AC=13\).
+The distances are \(AB=5,BC=12,AC=13\).
 
 From \(5^{2}+12^{2}=169=13^{2}\), i.e. \(AB^{2}+BC^{2}=AC^{2}\).
 
@@ -550,7 +550,7 @@ By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**, \(\angle{B}=90^{\ci
 
 (Exercise 20.2, Problem 2)
 
-Master Gao has \(5\) steel bars of lengths (unit: \(\text{dm}\)) \(a=6,\,b=8,\,c=10,\,d=24,\,e=26\), and plans to choose \(3\) to weld a right-triangle steel frame. Help Master Gao find all possible combinations of bars.
+Master Gao has \(5\) steel bars of lengths (unit: \(\text{dm}\)) \(a=6,b=8,c=10,d=24,e=26\), and plans to choose \(3\) to weld a right-triangle steel frame. Help Master Gao find all possible combinations of bars.
 
 By **Theorem 20.2.1 (Converse of the Pythagorean Theorem)**, pick three from the \(5\) bars such that the sum of the squares of the two shorter sides equals the square of the longest side.
 
@@ -568,7 +568,7 @@ Therefore the possible combinations are \((6,8,10)\) and \((10,24,26)\).
 
 (Exercise 20.2, Problem 3)
 
-As shown in the figure, in quadrilateral \(ABCD\), \(AB=3,\,BC=4,\,CD=12,\,AD=13,\,\angle{B}=90^{\circ}\). Find the area of quadrilateral \(ABCD\).
+As shown in the figure, in quadrilateral \(ABCD\), \(AB=3,BC=4,CD=12,AD=13,\angle{B}=90^{\circ}\). Find the area of quadrilateral \(ABCD\).
 
 In \(Rt\triangle{A}BC\), by the Pythagorean theorem \(AC=\sqrt{3^{2}+4^{2}}=5\).
 

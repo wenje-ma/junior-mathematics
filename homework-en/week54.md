@@ -154,7 +154,7 @@ $$
 s^2=\frac{\left(1.15-1.17\right)^2+\left(1.04-1.17\right)^2+\cdots+\left(1.16-1.17\right)^2}{20}\approx0.005.
 $$
 
-Hence the estimated mean mass is about $1.17\,\text{kg}$, and the variance about $0.01$. $\blacksquare$
+Hence the estimated mean mass is about $1.17\;\text{kg}$, and the variance about $0.01$. $\blacksquare$
 
 ## Review Problem 4
 
@@ -348,7 +348,7 @@ Hence the quadratic coefficient is $3$, the linear coefficient is $-4$, and the 
 
 (2) The length of a rectangle is $2$ more than its width, and its area is $100$; find the length of the rectangle;
 
-(3) A stick of length $1\,\text{m}$ is cut into two pieces, such that the product of the shorter piece's length and the stick's total length equals the square of the longer piece's length; find the shorter piece's length.
+(3) A stick of length $1\;\text{m}$ is cut into two pieces, such that the product of the shorter piece's length and the stick's total length equals the square of the longer piece's length; find the shorter piece's length.
 
 ### Solution to Exercise 2
 
@@ -445,7 +445,7 @@ i.e. $5x^2=25$; transposing terms gives the general form $x^2-5=0$. $\blacksquar
 (Exercise 25.1, Review and Consolidation, Problem 3) Which of the following numbers are roots of the quadratic equation $x^2+x-12=0$? Why?
 
 $$
--4,\,-3,\,-2,\,-1,\,0,\,1,\,2,\,3,\,4.
+-4,-3,-2,-1,0,1,2,3,4.
 $$
 
 ### Solution to Problem 4

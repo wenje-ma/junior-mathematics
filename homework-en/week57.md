@@ -66,35 +66,35 @@ When $\Delta<0$, i.e. $k<-\frac98$, the equation has no real root. $\blacksquare
 
 ## Review Problem 2
 
-(Review, Comprehensive Application, Problem 6) The lower base of a right trapezoid is $2\,\text{cm}$ longer than the upper base, and its height is $1\,\text{cm}$ shorter than the upper base; its area is $8\,\text{cm}^2$. Draw this trapezoid.
+(Review, Comprehensive Application, Problem 6) The lower base of a right trapezoid is $2\;\text{cm}$ longer than the upper base, and its height is $1\;\text{cm}$ shorter than the upper base; its area is $8\;\text{cm}^2$. Draw this trapezoid.
 
-The figure shows a right trapezoid: the upper base is short, the lower base is $2\,\text{cm}$ longer, the left leg is perpendicular to both bases (i.e. the height), and the right leg is slanted; the final dimensions are upper base $3\,\text{cm}$, lower base $5\,\text{cm}$, height $2\,\text{cm}$.
+The figure shows a right trapezoid: the upper base is short, the lower base is $2\;\text{cm}$ longer, the left leg is perpendicular to both bases (i.e. the height), and the right leg is slanted; the final dimensions are upper base $3\;\text{cm}$, lower base $5\;\text{cm}$, height $2\;\text{cm}$.
 
 ### Solution to Review Problem 2
 
-Let the upper base be $x\,\text{cm}$; then the lower base is $\left(x+2\right)\,\text{cm}$ and the height is $\left(x-1\right)\,\text{cm}$. By the trapezoid area formula, set up
+Let the upper base be $x\;\text{cm}$; then the lower base is $\left(x+2\right)\;\text{cm}$ and the height is $\left(x-1\right)\;\text{cm}$. By the trapezoid area formula, set up
 
 $$
 \frac12[x+(x+2)](x-1)=8.
 $$
 
-i.e. $\left(x+1\right)\left(x-1\right)=8$, $x^2-1=8$, $x^2=9$, solving gives $x=3$ (discarding the negative root). Hence the upper base is $3\,\text{cm}$, the lower base $5\,\text{cm}$, and the height $2\,\text{cm}$; the trapezoid is as shown. $\blacksquare$
+i.e. $\left(x+1\right)\left(x-1\right)=8$, $x^2-1=8$, $x^2=9$, solving gives $x=3$ (discarding the negative root). Hence the upper base is $3\;\text{cm}$, the lower base $5\;\text{cm}$, and the height $2\;\text{cm}$; the trapezoid is as shown. $\blacksquare$
 
 ## Review Problem 3
 
-(Review, Comprehensive Application, Problem 7) The length-to-width ratio of a rectangular box is $5:2$, its height is $5\,\text{cm}$, and its surface area is $40\,\text{cm}^2$. Draw the net of this box.
+(Review, Comprehensive Application, Problem 7) The length-to-width ratio of a rectangular box is $5:2$, its height is $5\;\text{cm}$, and its surface area is $40\;\text{cm}^2$. Draw the net of this box.
 
-The figure shows a plane net of a rectangular box: six rectangular faces arranged in a cross or side-by-side pattern, with final dimensions length $2.5\,\text{cm}$, width $1\,\text{cm}$, height $5\,\text{cm}$.
+The figure shows a plane net of a rectangular box: six rectangular faces arranged in a cross or side-by-side pattern, with final dimensions length $2.5\;\text{cm}$, width $1\;\text{cm}$, height $5\;\text{cm}$.
 
 ### Solution to Review Problem 3
 
-Let the length be $5a\,\text{cm}$, the width $2a\,\text{cm}$, and the height $5\,\text{cm}$. By the rectangular-box surface-area formula, set up
+Let the length be $5a\;\text{cm}$, the width $2a\;\text{cm}$, and the height $5\;\text{cm}$. By the rectangular-box surface-area formula, set up
 
 $$
 2\left(5a\cdot2a+5a\cdot5+2a\cdot5\right)=40.
 $$
 
-i.e. $2\left(10a^2+25a+10a\right)=40$, $20a^2+70a=40$, i.e. $2a^2+7a-4=0$; factoring gives $\left(2a-1\right)\left(a+4\right)=0$, solving gives $a=\frac12$ (discarding the negative root). Hence the length is $2.5\,\text{cm}$, the width $1\,\text{cm}$, and the height $5\,\text{cm}$; the net is as shown. $\blacksquare$
+i.e. $2\left(10a^2+25a+10a\right)=40$, $20a^2+70a=40$, i.e. $2a^2+7a-4=0$; factoring gives $\left(2a-1\right)\left(a+4\right)=0$, solving gives $a=\frac12$ (discarding the negative root). Hence the length is $2.5\;\text{cm}$, the width $1\;\text{cm}$, and the height $5\;\text{cm}$; the net is as shown. $\blacksquare$
 
 ## Review Problem 4
 
@@ -112,11 +112,11 @@ i.e. $n\left(n-1\right)=30$, $n^2-n-30=0$, i.e. $\left(n-6\right)\left(n+5\right
 
 ## Review Problem 5
 
-(Review, Comprehensive Application, Problem 9) As shown in the figure, alongside a wall (whose length is unlimited), how can a fence of length $20\,\text{m}$ be used to enclose a rectangular vegetable garden of area $48\,\text{m}^2$?
+(Review, Comprehensive Application, Problem 9) As shown in the figure, alongside a wall (whose length is unlimited), how can a fence of length $20\;\text{m}$ be used to enclose a rectangular vegetable garden of area $48\;\text{m}^2$?
 
 ### Solution to Review Problem 5
 
-Let the side perpendicular to the wall be $x\,\text{m}$; then the side parallel to the wall is $\left(20-2x\right)\,\text{m}$. Since the area is $48\,\text{m}^2$, set up
+Let the side perpendicular to the wall be $x\;\text{m}$; then the side parallel to the wall is $\left(20-2x\right)\;\text{m}$. Since the area is $48\;\text{m}^2$, set up
 
 $$
 x\left(20-2x\right)=48.
@@ -124,7 +124,7 @@ $$
 
 Rearranging gives $x^2-10x+24=0$, i.e. $\left(x-4\right)\left(x-6\right)=0$, solving gives $x=4$ or $x=6$.
 
-When $x=4$, the side parallel to the wall is $20-8=12\,\text{m}$; when $x=6$, it is $20-12=8\,\text{m}$. Both enclose an area of $48\,\text{m}^2$ and are both valid. $\blacksquare$
+When $x=4$, the side parallel to the wall is $20-8=12\;\text{m}$; when $x=6$, it is $20-12=8\;\text{m}$. Both enclose an area of $48\;\text{m}^2$ and are both valid. $\blacksquare$
 
 ## Review Problem 6
 
@@ -190,29 +190,29 @@ i.e. $n\left(n+1\right)=600$, $n^2+n-600=0$; by the quadratic formula, $n=\frac{
 
 ## Review Problem 9
 
-(Review, Extension and Exploration, Problem 13) A ball starts rolling forward at $5\,\text{m/s}$ and decelerates uniformly, coming to rest after $4\,\text{s}$.
+(Review, Extension and Exploration, Problem 13) A ball starts rolling forward at $5\;\text{m/s}$ and decelerates uniformly, coming to rest after $4\;\text{s}$.
 
 (1) On average, by how much does the ball's rolling speed decrease per second?
 
-(2) How many seconds does the ball take to roll $5\,\text{m}$ (rounded to one decimal place)?
+(2) How many seconds does the ball take to roll $5\;\text{m}$ (rounded to one decimal place)?
 
 (Hint: in uniformly accelerated linear motion, the average velocity over each time interval (the arithmetic mean of the initial and final velocities) relates to the distance $l$ and time $t$ by $l=$ average velocity $\times{t}$.)
 
 ### Solution to Review Problem 9
 
-(1) The ball's initial velocity is $5\,\text{m/s}$; after $4\,\text{s}$ the velocity drops to $0$, hence the average decrease per second is
+(1) The ball's initial velocity is $5\;\text{m/s}$; after $4\;\text{s}$ the velocity drops to $0$, hence the average decrease per second is
 
 $$
-\frac{5-0}{4}=1.25\,\text{m/s}.
+\frac{5-0}{4}=1.25\;\text{m/s}.
 $$
 
-(2) Let the velocity after rolling $t\,\text{s}$ be $5-1.25t\,\left(\text{m/s}\right)$. The average velocity over this interval is $\frac{5+\left(5-1.25t\right)}2$; by the hint, the distance is
+(2) Let the velocity after rolling $t\;\text{s}$ be $5-1.25t\,\left(\text{m/s}\right)$. The average velocity over this interval is $\frac{5+\left(5-1.25t\right)}2$; by the hint, the distance is
 
 $$
 l=\frac{5+\left(5-1.25t\right)}2\cdot{t}=\left(5-\frac{1.25}2t\right)t=5t-0.625t^2.
 $$
 
-Setting $l=5$ gives $5t-0.625t^2=5$, i.e. $t^2-8t+8=0$, solving gives $t=\frac{8\pm\sqrt{32}}2=4\pm2\sqrt2$. Since $t<4$, take $t=4-2\sqrt2\approx1.2$. Hence the ball takes about $1.2\,\text{s}$ to roll $5\,\text{m}$. $\blacksquare$
+Setting $l=5$ gives $5t-0.625t^2=5$, i.e. $t^2-8t+8=0$, solving gives $t=\frac{8\pm\sqrt{32}}2=4\pm2\sqrt2$. Since $t<4$, take $t=4-2\sqrt2\approx1.2$. Hence the ball takes about $1.2\;\text{s}$ to roll $5\;\text{m}$. $\blacksquare$
 
 ## Exercise 1
 
@@ -240,11 +240,11 @@ By **Definition 26.1.1 (Quadratic Function)**, put each expression in the form $
 
 ## Exercise 2
 
-(Exercise 26.1, Problem 2) As shown in the figure, each side of a rectangular green area is increased by $x\,\text{m}$, and the expanded area is $y\,\text{m}^2$. The original green area is $30\,\text{m}$ long and $20\,\text{m}$ wide; write the function expression for $y$ in terms of $x$.
+(Exercise 26.1, Problem 2) As shown in the figure, each side of a rectangular green area is increased by $x\;\text{m}$, and the expanded area is $y\;\text{m}^2$. The original green area is $30\;\text{m}$ long and $20\;\text{m}$ wide; write the function expression for $y$ in terms of $x$.
 
 ### Solution to Exercise 2
 
-After expansion, the green area is $\left(30+x\right)\,\text{m}$ long and $\left(20+x\right)\,\text{m}$ wide. By the rectangle area formula,
+After expansion, the green area is $\left(30+x\right)\;\text{m}$ long and $\left(20+x\right)\;\text{m}$ wide. By the rectangle area formula,
 
 $$
 y=\left(30+x\right)\left(20+x\right)=x^2+50x+600.
@@ -292,11 +292,11 @@ Hence $y=30000\left(1+x\right)^2$. $\blacksquare$
 
 ## Problem 3
 
-(Exercise 26.1, Comprehensive Application, Problem 3) As shown in the figure, a circular mirror is surrounded by a frame of width $5\,\text{cm}$. Given that the mirror surface costs $180$ yuan per square meter and the frame costs $100$ yuan per square meter, find the function expression for the price $y$ (in yuan) of the mirror in terms of the mirror radius $r$ (in $\text{m}$).
+(Exercise 26.1, Comprehensive Application, Problem 3) As shown in the figure, a circular mirror is surrounded by a frame of width $5\;\text{cm}$. Given that the mirror surface costs $180$ yuan per square meter and the frame costs $100$ yuan per square meter, find the function expression for the price $y$ (in yuan) of the mirror in terms of the mirror radius $r$ (in $\text{m}$).
 
 ### Solution to Problem 3
 
-The frame width is $5\,\text{cm}=0.05\,\text{m}$; hence the mirror radius is $r\,\text{m}$, and the outer radius including the frame is $\left(r+0.05\right)\,\text{m}$.
+The frame width is $5\;\text{cm}=0.05\;\text{m}$; hence the mirror radius is $r\;\text{m}$, and the outer radius including the frame is $\left(r+0.05\right)\;\text{m}$.
 
 The mirror surface area is $\pi{r}^2$, costing $180\pi{r}^2$ yuan. The frame area is $\pi\left(r+0.05\right)^2-\pi{r}^2$, costing $100\left[\pi\left(r+0.05\right)^2-\pi{r}^2\right]$ yuan. Hence the total price is
 
@@ -308,21 +308,21 @@ Expanding gives $y=180\pi{r}^2+100\pi\left(0.1r+0.0025\right)=180\pi{r}^2+10\pi{
 
 ## Problem 4
 
-(Exercise 26.1, Extension and Exploration, Problem 4) As shown in the figure, a steel ball starts from rest at the top of an inclined plane and rolls down it; its speed increases by $1.5\,\text{m/s}$ each second.
+(Exercise 26.1, Extension and Exploration, Problem 4) As shown in the figure, a steel ball starts from rest at the top of an inclined plane and rolls down it; its speed increases by $1.5\;\text{m/s}$ each second.
 
 (1) Write the function expression for the distance $l$ rolled by the ball (in $\text{m}$) in terms of rolling time $t$ (in $\text{s}$). (Hint: distance $=$ average velocity $\times$ time.)
 
-(2) If the inclined plane is $3\,\text{m}$ long, how long does the ball take to roll from the top to the bottom?
+(2) If the inclined plane is $3\;\text{m}$ long, how long does the ball take to roll from the top to the bottom?
 
 ### Solution to Problem 4
 
-(1) The ball starts from rest; at $t\,\text{s}$ its velocity is $1.5t\,\text{m/s}$, and the average velocity over this interval is $\frac{0+1.5t}2=0.75t$, hence
+(1) The ball starts from rest; at $t\;\text{s}$ its velocity is $1.5t\;\text{m/s}$, and the average velocity over this interval is $\frac{0+1.5t}2=0.75t$, hence
 
 $$
 l=0.75t\cdot{t}=0.75t^2.
 $$
 
-(2) The plane is $3\,\text{m}$ long; setting $l=3$ gives $0.75t^2=3$, i.e. $t^2=4$, taking the positive root $t=2$. Hence it takes $2\,\text{s}$ to roll to the bottom. $\blacksquare$
+(2) The plane is $3\;\text{m}$ long; setting $l=3$ gives $0.75t^2=3$, i.e. $t^2=4$, taking the positive root $t=2$. Hence it takes $2\;\text{s}$ to roll to the bottom. $\blacksquare$
 
 ## Exercise 4
 

@@ -68,7 +68,7 @@
 
 By **Definition 1.1.5 (Representing Quantities of Opposite Meaning)**, exceeding the standard mass is recorded as positive, and falling short of the standard mass is recorded as negative.
 
-(1) $+5$ means the ball exceeds the standard mass by $5\,\text{g}$; $-3.5$ means it falls short of the standard mass by $3.5\,\text{g}$; $+0.7$ means it exceeds the standard mass by $0.7\,\text{g}$; $-2.5$ means it falls short of the standard mass by $2.5\,\text{g}$; $-0.6$ means it falls short of the standard mass by $0.6\,\text{g}$.
+(1) $+5$ means the ball exceeds the standard mass by $5\;\text{g}$; $-3.5$ means it falls short of the standard mass by $3.5\;\text{g}$; $+0.7$ means it exceeds the standard mass by $0.7\;\text{g}$; $-2.5$ means it falls short of the standard mass by $2.5\;\text{g}$; $-0.6$ means it falls short of the standard mass by $0.6\;\text{g}$.
 
 (2) By **Definition 1.2.5 (Absolute Value)**, the smaller the absolute value of a number, the smaller its deviation from the standard mass. The absolute values of the deviations are $5$, $3.5$, $0.7$, $2.5$, $0.6$, among which $0.6$ is the smallest, so the ball recorded as $-0.6$ has the mass closest to the standard mass. $\blacksquare$
 
@@ -218,7 +218,7 @@ Hence there is $520$ yuan left in the savings card. $\blacksquare$
 
 ## Exercise 7
 
-(Exercise 2.1, Problem 3) An airplane at an altitude of $9000\,\text{m}$ first descends by $300\,\text{m}$ and then climbs by $500\,\text{m}$. What is the flight altitude of the airplane at this point, in meters?
+(Exercise 2.1, Problem 3) An airplane at an altitude of $9000\;\text{m}$ first descends by $300\;\text{m}$ and then climbs by $500\;\text{m}$. What is the flight altitude of the airplane at this point, in meters?
 
 ### Solution to Exercise 7
 
@@ -226,7 +226,7 @@ By **Definition 2.1.1 (Rules for Addition of Rational Numbers)**, climbing is po
 
 $$9000+\left(-300\right)+500=9000+200=9200.$$
 
-Hence the flight altitude of the airplane at this point is $9200\,\text{m}$. $\blacksquare$
+Hence the flight altitude of the airplane at this point is $9200\;\text{m}$. $\blacksquare$
 
 ## Exercise 8
 
@@ -426,7 +426,7 @@ By **Definition 2.1.4 (Rules for Subtraction of Rational Numbers)** and **Defini
 
 ## Problem 6
 
-(Exercise 2.1, Comprehensive Application, Problem 6) As shown in the figure, the highest point on land is the summit of Mount Everest, and the lowest point is the Dead Sea, a lake in western Asia. What is the difference in height between the two, in meters? (The height of Mount Everest is $8848.86\,\text{m}$, and the surface elevation of the Dead Sea is $-432\,\text{m}$.)
+(Exercise 2.1, Comprehensive Application, Problem 6) As shown in the figure, the highest point on land is the summit of Mount Everest, and the lowest point is the Dead Sea, a lake in western Asia. What is the difference in height between the two, in meters? (The height of Mount Everest is $8848.86\;\text{m}$, and the surface elevation of the Dead Sea is $-432\;\text{m}$.)
 
 ### Solution to Problem 6
 
@@ -434,7 +434,7 @@ By **Definition 2.1.4 (Rules for Subtraction of Rational Numbers)**, the height 
 
 $$8848.86-\left(-432\right)=8848.86+432=9280.86.$$
 
-Hence the height difference between the two is $9280.86\,\text{m}$. $\blacksquare$
+Hence the height difference between the two is $9280.86\;\text{m}$. $\blacksquare$
 
 ## Problem 7
 
@@ -452,7 +452,7 @@ Hence the temperature at midnight is $-5\,^\circ\text{C}$. $\blacksquare$
 
 (Exercise 2.1, Comprehensive Application, Problem 8) The profit/loss situation of a food store on each day of a week is as follows (profit recorded as positive):
 
-$$432\text{~元},\,-12.5\text{~元},\,-10.5\text{~元},\,327\text{~元},\,-87\text{~元},\,536.5\text{~元},\,698\text{~元}.$$
+$$432\text{~元},-12.5\text{~元},-10.5\text{~元},327\text{~元},-87\text{~元},536.5\text{~元},698\text{~元}.$$
 
 What is the overall profit/loss of the food store over the whole week?
 
@@ -466,9 +466,9 @@ The result is positive, so over the whole week there is a total profit of $1883.
 
 ## Problem 9
 
-(Exercise 2.1, Extension and Exploration, Problem 9) There are $8$ baskets of Chinese cabbage, taking $25\,\text{kg}$ per basket as the mass standard; the number of kilograms exceeding is recorded as a positive number and the number of kilograms short is recorded as a negative number. The recorded values after weighing (unit: $\text{kg}$) are:
+(Exercise 2.1, Extension and Exploration, Problem 9) There are $8$ baskets of Chinese cabbage, taking $25\;\text{kg}$ per basket as the mass standard; the number of kilograms exceeding is recorded as a positive number and the number of kilograms short is recorded as a negative number. The recorded values after weighing (unit: $\text{kg}$) are:
 
-$$1.5,\,-3,\,2,\,-0.5,\,1,\,-2,\,-2,\,-2.5.$$
+$$1.5,-3,2,-0.5,1,-2,-2,-2.5.$$
 
 What is the total mass of these $8$ baskets of Chinese cabbage, in kilograms?
 
@@ -480,8 +480,8 @@ The sum of the deviations is
 
 $$1.5-3+2-0.5+1-2-2-2.5=-5.5.$$
 
-The standard total mass of the $8$ baskets is $25\times8=200\,\text{kg}$, so the actual total mass is
+The standard total mass of the $8$ baskets is $25\times8=200\;\text{kg}$, so the actual total mass is
 
 $$200+\left(-5.5\right)=194.5.$$
 
-Hence these $8$ baskets of Chinese cabbage together weigh $194.5\,\text{kg}$. $\blacksquare$
+Hence these $8$ baskets of Chinese cabbage together weigh $194.5\;\text{kg}$. $\blacksquare$

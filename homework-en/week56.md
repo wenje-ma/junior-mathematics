@@ -112,27 +112,27 @@ This value is the golden ratio. $\blacksquare$
 
 ## Exercise 1
 
-(Exercise 25.3, Problem 1) How can a rope of length $40\,\text{m}$ be used to enclose a rectangular area of $75\,\text{m}^2$? Can it enclose a rectangular area of $101\,\text{m}^2$? If yes, describe how; if no, explain why.
+(Exercise 25.3, Problem 1) How can a rope of length $40\;\text{m}$ be used to enclose a rectangular area of $75\;\text{m}^2$? Can it enclose a rectangular area of $101\;\text{m}^2$? If yes, describe how; if no, explain why.
 
 ### Solution to Exercise 1
 
-Since the rope is $40\,\text{m}$ long, the rectangle's perimeter is $40\,\text{m}$. Let one side be $x\,\text{m}$; then the adjacent side is $\left(20-x\right)\,\text{m}$, and the area is $x\left(20-x\right)$.
+Since the rope is $40\;\text{m}$ long, the rectangle's perimeter is $40\;\text{m}$. Let one side be $x\;\text{m}$; then the adjacent side is $\left(20-x\right)\;\text{m}$, and the area is $x\left(20-x\right)$.
 
-To enclose a rectangle of area $75\,\text{m}^2$, set up
+To enclose a rectangle of area $75\;\text{m}^2$, set up
 
 $$
 x\left(20-x\right)=75.
 $$
 
-Rearranging gives $x^2-20x+75=0$, i.e. $\left(x-5\right)\left(x-15\right)=0$, solving gives $x=5$ or $x=15$; the two adjacent sides are $5\,\text{m}$ and $15\,\text{m}$. Hence a rectangle of sides $5\,\text{m}$ and $15\,\text{m}$ can be enclosed.
+Rearranging gives $x^2-20x+75=0$, i.e. $\left(x-5\right)\left(x-15\right)=0$, solving gives $x=5$ or $x=15$; the two adjacent sides are $5\;\text{m}$ and $15\;\text{m}$. Hence a rectangle of sides $5\;\text{m}$ and $15\;\text{m}$ can be enclosed.
 
-To enclose a rectangle of area $101\,\text{m}^2$, set up
+To enclose a rectangle of area $101\;\text{m}^2$, set up
 
 $$
 x\left(20-x\right)=101.
 $$
 
-Rearranging gives $x^2-20x+101=0$, whose discriminant is $\Delta=\left(-20\right)^2-4\times101=400-404=-4<0$; the equation has no real root. Hence a rectangular area of $101\,\text{m}^2$ cannot be enclosed. $\blacksquare$
+Rearranging gives $x^2-20x+101=0$, whose discriminant is $\Delta=\left(-20\right)^2-4\times101=400-404=-4<0$; the equation has no real root. Hence a rectangular area of $101\;\text{m}^2$ cannot be enclosed. $\blacksquare$
 
 ## Exercise 2
 
@@ -180,7 +180,7 @@ Rearranging gives $x^2+x-90=0$, i.e. $\left(x+10\right)\left(x-9\right)=0$, solv
 
 ## Exercise 4
 
-(Exercise 25.3, Problem 3, Part (2)) In Qingshan Village, the average rice yield per hectare was $15000\,\text{kg}$ in year $2020$ and $18000\,\text{kg}$ in year $2022$. Find the average annual growth rate of the rice yield per hectare (write the result in the form $a\%$, with $a$ rounded to two decimal places).
+(Exercise 25.3, Problem 3, Part (2)) In Qingshan Village, the average rice yield per hectare was $15000\;\text{kg}$ in year $2020$ and $18000\;\text{kg}$ in year $2022$. Find the average annual growth rate of the rice yield per hectare (write the result in the form $a\%$, with $a$ rounded to two decimal places).
 
 ### Solution to Exercise 4
 
@@ -304,11 +304,11 @@ $$
 
 ## Problem 7
 
-(Exercise 25.3, Comprehensive Application, Problem 6) As shown in the figure, a photo of length $22\,\text{cm}$ and width $29\,\text{cm}$ is to be framed; the four sides of the frame must have equal width, and the area of the frame is one quarter of the photo's area. What should the frame width be in cm (rounded to one decimal place)?
+(Exercise 25.3, Comprehensive Application, Problem 6) As shown in the figure, a photo of length $22\;\text{cm}$ and width $29\;\text{cm}$ is to be framed; the four sides of the frame must have equal width, and the area of the frame is one quarter of the photo's area. What should the frame width be in cm (rounded to one decimal place)?
 
 ### Solution to Problem 7
 
-The photo area is $22\times29=638\,\text{cm}^2$. Let the frame width be $x\,\text{cm}$; then the overall dimensions including the frame are $\left(22+2x\right)$ and $\left(29+2x\right)$, and the frame area is the overall area minus the photo area. Since the frame area is one quarter of the photo area, set up
+The photo area is $22\times29=638\;\text{cm}^2$. Let the frame width be $x\;\text{cm}$; then the overall dimensions including the frame are $\left(22+2x\right)$ and $\left(29+2x\right)$, and the frame area is the overall area minus the photo area. Since the frame area is one quarter of the photo area, set up
 
 $$
 \left(22+2x\right)\left(29+2x\right)-638=\frac14\times638.
@@ -323,10 +323,10 @@ $$
 By the quadratic formula, $x=\frac{-102\pm\sqrt{102^2+4\times4\times159.5}}{8}=\frac{-102\pm\sqrt{12956}}8$. Taking the positive root, $\sqrt{12956}\approx113.8$, hence
 
 $$
-x\approx\frac{-102+113.8}{8}\approx1.5\,\text{cm}.
+x\approx\frac{-102+113.8}{8}\approx1.5\;\text{cm}.
 $$
 
-i.e. the frame width is about $1.5\,\text{cm}$. $\blacksquare$
+i.e. the frame width is about $1.5\;\text{cm}$. $\blacksquare$
 
 ## Problem 8
 
@@ -346,11 +346,11 @@ When $c=5$, the other leg $c-8=-3<0$, which does not fit the problem, so discard
 
 ## Problem 9
 
-(Exercise 25.3, Extension and Exploration, Problem 8) As shown in the figure, a design of width $20\,\text{cm}$ and length $30\,\text{cm}$ is to have two horizontal and two vertical colored strips; the ratio of the horizontal to vertical strip width is $3:2$. If the strips are to occupy one quarter of the design's area, how should their widths be chosen (rounded to one decimal place)?
+(Exercise 25.3, Extension and Exploration, Problem 8) As shown in the figure, a design of width $20\;\text{cm}$ and length $30\;\text{cm}$ is to have two horizontal and two vertical colored strips; the ratio of the horizontal to vertical strip width is $3:2$. If the strips are to occupy one quarter of the design's area, how should their widths be chosen (rounded to one decimal place)?
 
 ### Solution to Problem 9
 
-The design area is $20\times30=600\,\text{cm}^2$. Since the strips occupy one quarter, the blank area is $\frac34\times600=450\,\text{cm}^2$.
+The design area is $20\times30=600\;\text{cm}^2$. Since the strips occupy one quarter, the blank area is $\frac34\times600=450\;\text{cm}^2$.
 
 Let the vertical strips have width $2y$ and the horizontal strips width $3y$ (width ratio $2:3$). Removing the two vertical strips leaves a blank width of $20-4y$, and removing the two horizontal strips leaves a blank length of $30-6y$; the blank part is a rectangle, hence
 
@@ -364,7 +364,7 @@ $$
 y=\frac{40\pm\sqrt{1600-400}}8=\frac{40\pm20\sqrt3}{8}.
 $$
 
-Taking the smaller positive root, $y=\frac{10-5\sqrt3}{2}\approx0.67$. Hence the horizontal strip width is $3y\approx2.0\,\text{cm}$ and the vertical strip width is $2y\approx1.3\,\text{cm}$. $\blacksquare$
+Taking the smaller positive root, $y=\frac{10-5\sqrt3}{2}\approx0.67$. Hence the horizontal strip width is $3y\approx2.0\;\text{cm}$ and the vertical strip width is $2y\approx1.3\;\text{cm}$. $\blacksquare$
 
 ## Problem 10
 

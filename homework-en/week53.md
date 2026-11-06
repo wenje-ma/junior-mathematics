@@ -142,7 +142,7 @@ $$
 \overline{x}=\frac{22.36+22.35+22.33+22.35+22.37+22.34+22.38+22.36+22.32+22.35}{10}=\frac{223.51}{10}=22.351.
 $$
 
-Hence the estimated average length of this batch is $22.351\,\text{mm}$. $\blacksquare$
+Hence the estimated average length of this batch is $22.351\;\text{mm}$. $\blacksquare$
 
 ## Problem 2
 
@@ -180,7 +180,7 @@ By **Definition 24.1.4 (Mode)**, $1.60$ appears $4$ times, the most, so the mode
 
 ## Problem 4
 
-(Exercise 24.1, Comprehensive Application, Problem 4) The populations and per-capita arable land area of three towns in a county are as follows. Town $A$, population $15$ (in 10,000), per-capita arable land $0.15\,\text{hm}^2$; Town $B$, population $7$ (in 10,000), per-capita arable land $0.21\,\text{hm}^2$; Town $C$, population $10$ (in 10,000), per-capita arable land $0.18\,\text{hm}^2$. Find the per-capita arable land area of these three towns (rounded to two decimal places).
+(Exercise 24.1, Comprehensive Application, Problem 4) The populations and per-capita arable land area of three towns in a county are as follows. Town $A$, population $15$ (in 10,000), per-capita arable land $0.15\;\text{hm}^2$; Town $B$, population $7$ (in 10,000), per-capita arable land $0.21\;\text{hm}^2$; Town $C$, population $10$ (in 10,000), per-capita arable land $0.18\;\text{hm}^2$. Find the per-capita arable land area of these three towns (rounded to two decimal places).
 
 ### Solution to Problem 4
 
@@ -190,7 +190,7 @@ $$
 \overline{x}=\frac{0.15\times15+0.21\times7+0.18\times10}{15+7+10}=\frac{2.25+1.47+1.8}{32}=\frac{5.52}{32}=0.1725\approx0.17.
 $$
 
-Hence the per-capita arable land area of the three towns is about $0.17\,\text{hm}^2$. $\blacksquare$
+Hence the per-capita arable land area of the three towns is about $0.17\;\text{hm}^2$. $\blacksquare$
 
 ## Problem 5
 

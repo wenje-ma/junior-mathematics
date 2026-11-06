@@ -156,13 +156,13 @@ $$
 
 ## 习题八
 
-(习题 15.3 综合运用第 9 题) 上午 $8$ 时, 一条船从海岛 $A$ 出发, 以 $15\,\text{n~mile/h}$ 的速度向正北航行, $10$ 时到达海岛 $B$. 从 $A$, $B$ 望灯塔 $C$, 测得 $\angle{N}AC=42^\circ$, $\angle{N}BC=84^\circ$. 求海岛 $B$ 与灯塔 $C$ 的距离.
+(习题 15.3 综合运用第 9 题) 上午 $8$ 时, 一条船从海岛 $A$ 出发, 以 $15\;\text{n~mile/h}$ 的速度向正北航行, $10$ 时到达海岛 $B$. 从 $A$, $B$ 望灯塔 $C$, 测得 $\angle{N}AC=42^\circ$, $\angle{N}BC=84^\circ$. 求海岛 $B$ 与灯塔 $C$ 的距离.
 
 ### 解答 习题八
 
-$AB=15\times\left(10-8\right)=30\,\text{n~mile}$. 在 $\triangle{A}BC$ 中, $\angle{N}BC$ 是外角, 故 $\angle{N}BC=\angle{B}AC+\angle{C}$. 由 $\angle{B}AC=\angle{N}AC=42^\circ$, 得 $\angle{C}=84^\circ-42^\circ=42^\circ$.
+$AB=15\times\left(10-8\right)=30\;\text{n~mile}$. 在 $\triangle{A}BC$ 中, $\angle{N}BC$ 是外角, 故 $\angle{N}BC=\angle{B}AC+\angle{C}$. 由 $\angle{B}AC=\angle{N}AC=42^\circ$, 得 $\angle{C}=84^\circ-42^\circ=42^\circ$.
 
-故 $\angle{C}=\angle{B}AC$, 由等角对等边, $BC=AB=30\,\text{n~mile}$. $\blacksquare$
+故 $\angle{C}=\angle{B}AC$, 由等角对等边, $BC=AB=30\;\text{n~mile}$. $\blacksquare$
 
 ## 习题九
 

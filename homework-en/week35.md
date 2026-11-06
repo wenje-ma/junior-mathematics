@@ -518,17 +518,17 @@ Take powers first, then multiply.
 
 ## Exercise 9
 
-(Exercise 16.2, Problem 4) The speed of a satellite orbiting the earth (the first cosmic velocity) is $7.9\times10^3\,\text{m/s}$. Find the distance traveled by the satellite in orbiting the earth for $1\,\text{h}$.
+(Exercise 16.2, Problem 4) The speed of a satellite orbiting the earth (the first cosmic velocity) is $7.9\times10^3\;\text{m/s}$. Find the distance traveled by the satellite in orbiting the earth for $1\;\text{h}$.
 
 ### Solution to Exercise 9
 
-The distance equals speed multiplied by time. $1\,\text{h}=3600\,\text{s}=3.6\times10^3\,\text{s}$.
+The distance equals speed multiplied by time. $1\;\text{h}=3600\;\text{s}=3.6\times10^3\;\text{s}$.
 
 $$
 \left(7.9\times10^3\right)\times\left(3.6\times10^3\right)=28.44\times10^6=2.844\times10^7\,\left(\text{m}\right).
 $$
 
-That is, the distance traveled by the satellite in orbiting the earth for $1\,\text{h}$ is approximately $2.844\times10^7\,\text{m}$. $\blacksquare$
+That is, the distance traveled by the satellite in orbiting the earth for $1\;\text{h}$ is approximately $2.844\times10^7\;\text{m}$. $\blacksquare$
 
 ## Exercise 10
 

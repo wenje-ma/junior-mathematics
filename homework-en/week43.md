@@ -18,7 +18,7 @@
 
 > **Rule 19.2.1 (Multiplication)**
 > 
-> \(\sqrt{a}\cdot\sqrt{b}=\sqrt{ab}\) (\(a\ge0,\,b\ge0\)).
+> \(\sqrt{a}\cdot\sqrt{b}=\sqrt{ab}\) (\(a\ge0,b\ge0\)).
 
 > **Definition 19.2.1 (Simplest Quadratic Radical)**
 > 
@@ -26,15 +26,15 @@
 
 > **Rule 19.2.2 (Multiplication in Reverse)**
 > 
-> \(\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}\) (\(a\ge0,\,b\ge0\)).
+> \(\sqrt{ab}=\sqrt{a}\cdot\sqrt{b}\) (\(a\ge0,b\ge0\)).
 
 > **Rule 19.2.3 (Division)**
 > 
-> \(\frac{\sqrt{a}}{\sqrt{b}}=\sqrt{\frac{a}{b}}\) (\(a\ge0,\,b>0\)).
+> \(\frac{\sqrt{a}}{\sqrt{b}}=\sqrt{\frac{a}{b}}\) (\(a\ge0,b>0\)).
 
 > **Rule 19.2.4 (Division in Reverse)**
 > 
-> \(\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}\) (\(a\ge0,\,b>0\)).
+> \(\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}\) (\(a\ge0,b>0\)).
 
 ## Problem 1
 
@@ -102,9 +102,9 @@ $$
 t=\sqrt{\frac{h}{5}}.
 $$
 
-When \(h=10\), \(t=\sqrt{\frac{10}{5}}=\sqrt{2}\,\text{s}\).
+When \(h=10\), \(t=\sqrt{\frac{10}{5}}=\sqrt{2}\;\text{s}\).
 
-When \(h=25\), \(t=\sqrt{\frac{25}{5}}=\sqrt{5}\,\text{s}\).
+When \(h=25\), \(t=\sqrt{\frac{25}{5}}=\sqrt{5}\;\text{s}\).
 
 \(\blacksquare\)
 
@@ -376,7 +376,7 @@ By Basic Knowledge and rationalize the denominator.
 
 Find the value of the expression \(\frac{-b+\sqrt{b^{2}-4ac}}{2a}\) under the following conditions:
 
-(1) \(a=1,\,b=10,\,c=-15\); (2) \(a=2,\,b=-8,\,c=5\).
+(1) \(a=1,b=10,c=-15\); (2) \(a=2,b=-8,c=5\).
 
 (1) Substituting, \(b^{2}-4ac=100-4\times1\times(-15)=160\).
 
@@ -434,7 +434,7 @@ And \(\sqrt{8}=2\sqrt{2}\approx2\times1.414=2.83\).
 
 (Exercise 19.2, Comprehensive Application, Problem 9)
 
-Let the area of a rectangle be \(S\), and the lengths of two adjacent sides be \(a,b\). Given \(S=4\sqrt{3},\,a=\sqrt{15}\), find \(b\).
+Let the area of a rectangle be \(S\), and the lengths of two adjacent sides be \(a,b\). Given \(S=4\sqrt{3},a=\sqrt{15}\), find \(b\).
 
 By \(S=ab\), we get \(b=\frac{S}{a}\).
 
@@ -472,15 +472,15 @@ $$
 v=331\sqrt{1+\frac{27}{273}}=331\sqrt{\frac{300}{273}}=331\sqrt{\frac{100}{91}}=331\cdot\frac{10}{\sqrt{91}}.
 $$
 
-Since \(\sqrt{91}\approx9.54\), we get \(v\approx331\times\frac{10}{9.54}\approx347\,\text{m/s}\).
+Since \(\sqrt{91}\approx9.54\), we get \(v\approx331\times\frac{10}{9.54}\approx347\;\text{m/s}\).
 
 \(\blacksquare\)
 
 (Exercise 19.2, Extension and Exploration, Problem 12)
 
-As shown in the figure, two small squares with areas \(15\,\text{cm}^{2}\) and \(24\,\text{cm}^{2}\) are cut from a large square sheet. Find the area of the remaining part.
+As shown in the figure, two small squares with areas \(15\;\text{cm}^{2}\) and \(24\;\text{cm}^{2}\) are cut from a large square sheet. Find the area of the remaining part.
 
-The side lengths of the two small squares are \(\sqrt{15}\,\text{cm}\) and \(\sqrt{24}\,\text{cm}\).
+The side lengths of the two small squares are \(\sqrt{15}\;\text{cm}\) and \(\sqrt{24}\;\text{cm}\).
 
 From the figure, the side length of the large square is the sum of the side lengths of the two small squares, so the side length of the large square is \(\sqrt{15}+\sqrt{24}\).
 
@@ -492,7 +492,7 @@ $$
 
 Expanding \((\sqrt{15}+\sqrt{24})^{2}=15+24+2\sqrt{15\times24}=39+12\sqrt{10}\).
 
-Hence \(S_{\text{remain}}=12\sqrt{10}\,\text{cm}^{2}\).
+Hence \(S_{\text{remain}}=12\sqrt{10}\;\text{cm}^{2}\).
 
 \(\blacksquare\)
 

@@ -56,13 +56,13 @@
 
 (Exercise 21.3.2, Problem 1)
 
-Quadrilateral \(ABCD\) is a rhombus, the diagonals \(AC,BD\) intersect at point \(O\), and \(AB=5,\,AO=4\). Find the lengths of \(AC,BD\) and the area of rhombus \(ABCD\).
+Quadrilateral \(ABCD\) is a rhombus, the diagonals \(AC,BD\) intersect at point \(O\), and \(AB=5,AO=4\). Find the lengths of \(AC,BD\) and the area of rhombus \(ABCD\).
 
 By Basic Knowledge, \(AC\perp{B}D\).
 
 In \(Rt\triangle{A}OB\), \(BO=\sqrt{AB^{2}-AO^{2}}=\sqrt{25-16}=3\).
 
-Therefore \(AC=2AO=8,\,BD=2BO=6\).
+Therefore \(AC=2AO=8,BD=2BO=6\).
 
 Area of the rhombus \(=\frac{1}{2}\times{A}C\times{B}D=\frac{1}{2}\times8\times6=24\).
 
@@ -70,7 +70,7 @@ Area of the rhombus \(=\frac{1}{2}\times{A}C\times{B}D=\frac{1}{2}\times8\times6
 
 (Exercise 21.3.2, Problem 2)
 
-As shown in the figure, in rhombus \(ABCD\), \(BD=4,\,\angle{A}:\angle{A}BC=1:2\). Find the perimeter of \(\triangle{A}BD\).
+As shown in the figure, in rhombus \(ABCD\), \(BD=4,\angle{A}:\angle{A}BC=1:2\). Find the perimeter of \(\triangle{A}BD\).
 
 Adjacent angles of a rhombus are supplementary, \(\angle{A}+\angle{A}BC=180^{\circ}\); with ratio \(1:2\), \(\angle{A}=60^{\circ}\).
 
@@ -142,13 +142,13 @@ The folded quadrilateral has four equal sides, so it is a rhombus.
 
 (Exercise 21.3.3, Problem 2)
 
-As shown in the figure, the four vertices of a square field are \(A,B,C,D\). Take a point \(E\) on side \(AB\), \(EC=30\,\text{m},\,EB=10\,\text{m}\). What are the area and the diagonal length of this field?
+As shown in the figure, the four vertices of a square field are \(A,B,C,D\). Take a point \(E\) on side \(AB\), \(EC=30\;\text{m},EB=10\;\text{m}\). What are the area and the diagonal length of this field?
 
-In \(Rt\triangle{E}BC\), \(BC=\sqrt{EC^{2}-EB^{2}}=\sqrt{900-100}=\sqrt{800}=20\sqrt{2}\,\text{m}\).
+In \(Rt\triangle{E}BC\), \(BC=\sqrt{EC^{2}-EB^{2}}=\sqrt{900-100}=\sqrt{800}=20\sqrt{2}\;\text{m}\).
 
-Area \(=BC^{2}=800\,\text{m}^{2}\).
+Area \(=BC^{2}=800\;\text{m}^{2}\).
 
-Diagonal \(=\sqrt{2}\cdot{B}C=40\,\text{m}\).
+Diagonal \(=\sqrt{2}\cdot{B}C=40\;\text{m}\).
 
 \(\blacksquare\)
 
@@ -188,9 +188,9 @@ Is a quadrilateral satisfying the following condition a square? Why?
 
 (Exercise 21.3.3, Problem 2)
 
-As shown in the figure, in \(Rt\triangle{A}BC\), \(\angle{A}CB=90^{\circ}\), \(CD\) bisects \(\angle{A}CB\), \(DE\perp{B}C,\,DF\perp{A}C\), with feet \(E,F\), respectively. Prove that quadrilateral \(CEDF\) is a square.
+As shown in the figure, in \(Rt\triangle{A}BC\), \(\angle{A}CB=90^{\circ}\), \(CD\) bisects \(\angle{A}CB\), \(DE\perp{B}C,DF\perp{A}C\), with feet \(E,F\), respectively. Prove that quadrilateral \(CEDF\) is a square.
 
-\(\angle{C}=90^{\circ}\), and \(DE\perp{B}C,\,DF\perp{A}C\), so quadrilateral \(CEDF\) has three right angles and is a rectangle.
+\(\angle{C}=90^{\circ}\), and \(DE\perp{B}C,DF\perp{A}C\), so quadrilateral \(CEDF\) has three right angles and is a rectangle.
 
 \(CD\) bisects the right angle; by the equal distances from a point on the angle bisector to the two sides, \(DE=DF\).
 
@@ -232,23 +232,23 @@ The cuts are perpendicular to the long side, i.e. there is a right angle, so the
 
 (Exercise 21.3, Review and Consolidation, Problem 3)
 
-In \(Rt\triangle{A}BC\), \(\angle{C}=90^{\circ},\,AB=2AC\). Find the degree measures of \(\angle{A},\angle{B}\).
+In \(Rt\triangle{A}BC\), \(\angle{C}=90^{\circ},AB=2AC\). Find the degree measures of \(\angle{A},\angle{B}\).
 
 By Basic Knowledge, the median to the hypotenuse \(=\frac{1}{2}AB=AC\).
 
-Therefore the triangle is a right triangle with a \(30^{\circ}\) angle, \(\angle{B}=30^{\circ},\,\angle{A}=60^{\circ}\).
+Therefore the triangle is a right triangle with a \(30^{\circ}\) angle, \(\angle{B}=30^{\circ},\angle{A}=60^{\circ}\).
 
 \(\blacksquare\)
 
 (Exercise 21.3, Review and Consolidation, Problem 4)
 
-As shown in the figure, quadrilateral \(ABCD\) is a rhombus, \(\angle{A}CD=30^{\circ},\,BD=6\). Find:
+As shown in the figure, quadrilateral \(ABCD\) is a rhombus, \(\angle{A}CD=30^{\circ},BD=6\). Find:
 
-(1) the degree measures of \(\angle{B}AD,\,\angle{A}BC\);
+(1) the degree measures of \(\angle{B}AD,\angle{A}BC\);
 
-(2) the lengths of \(AB,\,AC\).
+(2) the lengths of \(AB,AC\).
 
-(1) \(\angle{A}CD=30^{\circ}\); the diagonal of a rhombus bisects the interior angle, so \(\angle{B}CD=60^{\circ}\), \(\angle{B}AD=60^{\circ},\,\angle{A}BC=120^{\circ}\).
+(1) \(\angle{A}CD=30^{\circ}\); the diagonal of a rhombus bisects the interior angle, so \(\angle{B}CD=60^{\circ}\), \(\angle{B}AD=60^{\circ},\angle{A}BC=120^{\circ}\).
 
 (2) \(BD=6\), half-diagonal \(OD=3\). In \(Rt\triangle{C}OD\), \(CD=\frac{OD}{\sin30^{\circ}}=6\), so \(AB=6\).
 
@@ -290,7 +290,7 @@ After two folds, for the cut-out rhombus to be a square, the cut line should mee
 
 (Exercise 21.3, Comprehensive Application, Problem 8)
 
-As shown in the figure, fold rectangular paper \(ABCD\) along line \(BD\) so that point \(C\) lands at \(C'\); \(BC'\) and \(AD\) intersect at point \(E\); \(AD=8\,\text{cm},\,AB=4\,\text{cm}\). What is the length of \(DE\)? What about the area of \(\triangle{B}DE\)?
+As shown in the figure, fold rectangular paper \(ABCD\) along line \(BD\) so that point \(C\) lands at \(C'\); \(BC'\) and \(AD\) intersect at point \(E\); \(AD=8\;\text{cm},AB=4\;\text{cm}\). What is the length of \(DE\)? What about the area of \(\triangle{B}DE\)?
 
 After folding, \(\angle{E}BD=\angle{D}BC=\angle{E}DB\), so \(\triangle{E}BD\) is isosceles, \(EB=ED\).
 
@@ -300,9 +300,9 @@ $$
 16+\left(8-x\right)^{2}=x^{2},\quad16+64-16x=0,\quad{x}=5.
 $$
 
-Therefore \(DE=5\,\text{cm}\).
+Therefore \(DE=5\;\text{cm}\).
 
-Area \(=\frac{1}{2}\times{D}E\times{A}B=\frac{1}{2}\times5\times4=10\,\text{cm}^{2}\).
+Area \(=\frac{1}{2}\times{D}E\times{A}B=\frac{1}{2}\times5\times4=10\;\text{cm}^{2}\).
 
 \(\blacksquare\)
 
@@ -310,7 +310,7 @@ Area \(=\frac{1}{2}\times{D}E\times{A}B=\frac{1}{2}\times5\times4=10\,\text{cm}^
 
 As shown in the figure, in \(Rt\triangle{A}BC\), \(\angle{A}CB=90^{\circ}\), \(CD\perp{A}B\) with foot \(D\), \(\angle{A}CD=3\angle{B}CD\), and \(E\) is the midpoint of side \(AB\). What is \(\angle{E}CD\)? Why?
 
-\(\angle{A}CB=90^{\circ}\), \(\angle{A}CD=3\angle{B}CD\), so \(\angle{B}CD=22.5^{\circ},\,\angle{A}CD=67.5^{\circ}\).
+\(\angle{A}CB=90^{\circ}\), \(\angle{A}CD=3\angle{B}CD\), so \(\angle{B}CD=22.5^{\circ},\angle{A}CD=67.5^{\circ}\).
 
 By Basic Knowledge, \(CE=AE=BE\), \(\angle{E}CA=\angle{A}=22.5^{\circ}\).
 
@@ -332,7 +332,7 @@ A parallelogram with equal adjacent sides is a rhombus, so both are rhombuses.
 
 (Exercise 21.3, Comprehensive Application, Problem 11)
 
-As shown in the figure, quadrilateral \(ABCD\) is a rhombus, the diagonals \(AC,BD\) intersect at point \(O\), \(AC=8,\,BD=6,\,DH\perp{A}B\) with foot \(H\). Find the length of \(DH\).
+As shown in the figure, quadrilateral \(ABCD\) is a rhombus, the diagonals \(AC,BD\) intersect at point \(O\), \(AC=8,BD=6,DH\perp{A}B\) with foot \(H\). Find the length of \(DH\).
 
 Area of the rhombus \(=\frac{1}{2}\times8\times6=24\).
 
@@ -352,9 +352,9 @@ Also area \(=AB\times{D}H\), so \(DH=\frac{24}{5}=4.8\).
 
 (1) \(C(b,d)\).
 
-(2) Since the diagonals of a rhombus bisect each other and are perpendicular, \(A(-c,0),\,B(0,-d)\).
+(2) Since the diagonals of a rhombus bisect each other and are perpendicular, \(A(-c,0),B(0,-d)\).
 
-(3) \(B(d,0),\,C(d,d)\).
+(3) \(B(d,0),C(d,d)\).
 
 \(\blacksquare\)
 
@@ -394,7 +394,7 @@ There are infinitely many methods, as long as both lines pass through the center
 
 As shown in the figure, quadrilateral \(ABCD\) is a square. \(G\) is any point on side \(BC\); \(DE\perp{A}G\) with foot \(E\); \(BF\parallel{D}E\) meets \(AG\) at point \(F\). Prove: \(AF-BF=EF\).
 
-From \(\triangle{A}BF\cong\triangle{D}AE\), we get \(AF=DE,\,BF=AE\).
+From \(\triangle{A}BF\cong\triangle{D}AE\), we get \(AF=DE,BF=AE\).
 
 Therefore \(AF-BF=DE-AE=EF\).
 
@@ -412,9 +412,9 @@ The median to side \(BC\) must also pass through \(O\), i.e. the three medians o
 
 (Exercise 21.3, Extension and Exploration, Problem 18)
 
-As shown in the figure, in quadrilateral \(ABCD\), \(AD\parallel{B}C,\,\angle{B}=90^{\circ}\), \(AD=24\,\text{cm},\,BC=26\,\text{cm}\). Point \(P\) starts from point \(A\) and moves toward point \(D\) at speed \(1\,\text{cm/s}\); at the same time point \(Q\) starts from point \(C\) and moves toward point \(B\) at speed \(3\,\text{cm/s}\). From the start of the motion, after how long can \(PQ=CD\)? Why?
+As shown in the figure, in quadrilateral \(ABCD\), \(AD\parallel{B}C,\angle{B}=90^{\circ}\), \(AD=24\;\text{cm},BC=26\;\text{cm}\). Point \(P\) starts from point \(A\) and moves toward point \(D\) at speed \(1\;\text{cm/s}\); at the same time point \(Q\) starts from point \(C\) and moves toward point \(B\) at speed \(3\;\text{cm/s}\). From the start of the motion, after how long can \(PQ=CD\)? Why?
 
-Let \(t\) seconds elapse, \(AP=t,\,CQ=3t\).
+Let \(t\) seconds elapse, \(AP=t,CQ=3t\).
 
 For \(PQ=CD\), i.e. \(PQ\parallel{C}D\), we need \(PD=QC\), i.e. \(24-t=3t\), giving \(t=6\) seconds.
 
@@ -438,7 +438,7 @@ A rectangle whose ratio of width to length is \(\frac{\sqrt{5}-1}{2}\) (about \(
 
 Let \(MN=2\); then square \(MNAB\) has side length \(2\).
 
-After folding in Step 2, \(D\) is the midpoint of \(MN\), so \(CD=1,\,BC=2\).
+After folding in Step 2, \(D\) is the midpoint of \(MN\), so \(CD=1,BC=2\).
 
 In \(Rt\triangle{B}CD\), by **Theorem 20.1.1 (Pythagorean Theorem)**,
 
@@ -522,7 +522,7 @@ As shown in the figure, extend diagonal \(BD\) of \(\square{A}BCD\) in both dire
 
 Connect \(AC\) meeting \(BD\) at \(O\).
 
-By Basic Knowledge, \(OA=OC,\,OB=OD\).
+By Basic Knowledge, \(OA=OC,OB=OD\).
 
 Also \(BE=DF\), so \(OB+BE=OD+DF\), i.e. \(OE=OF\).
 
@@ -554,7 +554,7 @@ Then measure the two diagonals; if the diagonals are equal, then by Basic Knowle
 
 (Review Problem, Review and Consolidation, Problem 6)
 
-As shown in the figure, the diagonals \(AC,BD\) of rectangle \(ABCD\) intersect at point \(O\), and \(DE\parallel{A}C,\,CE\parallel{B}D\). Prove that quadrilateral \(OCED\) is a rhombus.
+As shown in the figure, the diagonals \(AC,BD\) of rectangle \(ABCD\) intersect at point \(O\), and \(DE\parallel{A}C,CE\parallel{B}D\). Prove that quadrilateral \(OCED\) is a rhombus.
 
 Since \(DE\parallel{O}C\) and \(CE\parallel{O}D\), quadrilateral \(OCED\) is a parallelogram.
 

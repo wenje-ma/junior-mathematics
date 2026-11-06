@@ -244,7 +244,7 @@ The cylinder base diameter is $240$, the radius $r=120$, the height $h=200$. The
 
 The cone slant height is $l=300$, the base radius $r=120$. The lateral area of the cone $=\pi{r}l=\pi\times120\times300=36000\pi$.
 
-The total surface area $=48000\pi+36000\pi=84000\pi\approx263894\,\text{cm}^{2}$. $\blacksquare$
+The total surface area $=48000\pi+36000\pi=84000\pi\approx263894\;\text{cm}^{2}$. $\blacksquare$
 
 ## Problem 6
 
@@ -356,7 +356,7 @@ The top view determines that there are several positions on the bottom layer whe
 
 From the three views, the solid is judged to be a cylinder, with base diameter $d=10$, radius $r=5$, and height $h=5$.
 
-The surface area is $S=2\pi{r}^{2}+2\pi{r}h=2\pi\times25+2\pi\times5\times5=50\pi+50\pi=100\pi\approx314\,\text{cm}^{2}$. $\blacksquare$
+The surface area is $S=2\pi{r}^{2}+2\pi{r}h=2\pi\times25+2\pi\times5\times5=50\pi+50\pi=100\pi\approx314\;\text{cm}^{2}$. $\blacksquare$
 
 ## Reading and Reflection 1
 

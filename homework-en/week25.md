@@ -42,7 +42,7 @@
 
 > **Property 11.1.2 (Property 2 of Inequalities)**
 > 
-> $a>{}b,\,c>0\Rightarrow{a}c>{}bc$.
+> $a>{}b,c>0\Rightarrow{a}c>{}bc$.
 
 > **Definition 11.1.3 (Solution Set of an Inequality)**
 > 
@@ -50,15 +50,15 @@
 
 > **Property 11.1.3 (Property 3 of Inequalities)**
 > 
-> $a>{}b,\,c<0\Rightarrow{a}c<{}bc$.
+> $a>{}b,c<0\Rightarrow{a}c<{}bc$.
 
 ## Problem 1
 
-(Exercise 10.4, Extension and Exploration, Problem 5) The total distance from point A to point B is $3.3\,\text{km}$, consisting of an uphill section, a level section, and a downhill section. Keeping uphill at $3\,\text{km}$ per hour, level at $4\,\text{km}$ per hour, and downhill at $5\,\text{km}$ per hour, going from A to B takes $51\,\text{min}$, and returning from B to A takes $53.4\,\text{min}$. Going from A to B, what are the distances of the uphill, level, and downhill sections respectively?
+(Exercise 10.4, Extension and Exploration, Problem 5) The total distance from point A to point B is $3.3\;\text{km}$, consisting of an uphill section, a level section, and a downhill section. Keeping uphill at $3\;\text{km}$ per hour, level at $4\;\text{km}$ per hour, and downhill at $5\;\text{km}$ per hour, going from A to B takes $51\;\text{min}$, and returning from B to A takes $53.4\;\text{min}$. Going from A to B, what are the distances of the uphill, level, and downhill sections respectively?
 
 ### Solution to Problem 1
 
-Let the uphill, level, and downhill sections be $x$, $y$, $z\,\text{km}$ respectively. According to the problem,
+Let the uphill, level, and downhill sections be $x$, $y$, $z\;\text{km}$ respectively. According to the problem,
 
 $$
 \begin{cases}
@@ -70,7 +70,7 @@ $$
 
 Subtract the latter two equations: $\left(x-z\right)\left(\frac{1}{3}-\frac{1}{5}\right)=-0.04$, giving $x-z=-0.3$. Add the latter two equations: $\frac{8}{15}\left(x+z\right)+\frac{y}{2}=1.74$.
 
-From $x=z-0.3$, $y=3.6-2z$, substitute: $\left(2z-0.3\right)\frac{8}{15}+\frac{3.6-2z}{2}=1.74$, giving $z=1.5$, $x=1.2$, $y=0.6$. Thus uphill is $1.2\,\text{km}$, level is $0.6\,\text{km}$, downhill is $1.5\,\text{km}$. $\blacksquare$
+From $x=z-0.3$, $y=3.6-2z$, substitute: $\left(2z-0.3\right)\frac{8}{15}+\frac{3.6-2z}{2}=1.74$, giving $z=1.5$, $x=1.2$, $y=0.6$. Thus uphill is $1.2\;\text{km}$, level is $0.6\;\text{km}$, downhill is $1.5\;\text{km}$. $\blacksquare$
 
 ## Illustrated History of Mathematics 1
 
@@ -135,11 +135,11 @@ Check by substitution: $2\times1+2=4$, $1-2=-1$, both hold. $\blacksquare$
 
 ## Activity 3
 
-(Mathematical Activity, Activity 2, Problem 1) A car's front tire wears out after $60000\,\text{km}$ and the rear tire after $80000\,\text{km}$. If the front and rear tires are swapped only once during their service life, at what mileage should they be swapped so that both pairs wear out at the same time? Also find the total mileage when they wear out.
+(Mathematical Activity, Activity 2, Problem 1) A car's front tire wears out after $60000\;\text{km}$ and the rear tire after $80000\;\text{km}$. If the front and rear tires are swapped only once during their service life, at what mileage should they be swapped so that both pairs wear out at the same time? Also find the total mileage when they wear out.
 
 ### Solution to Activity 3
 
-Let $x\,\text{km}$ be the mileage at swap and $y\,\text{km}$ the total mileage when worn out. By Solving Word Problems by Setting Up a System of Equations, the front tire serves as the front tire for the first $x\,\text{km}$ and as the rear tire for the last $y-x\,\text{km}$; the rear tire serves as the rear tire for the first $x\,\text{km}$ and as the front tire for the last $y-x\,\text{km}$.
+Let $x\;\text{km}$ be the mileage at swap and $y\;\text{km}$ the total mileage when worn out. By Solving Word Problems by Setting Up a System of Equations, the front tire serves as the front tire for the first $x\;\text{km}$ and as the rear tire for the last $y-x\;\text{km}$; the rear tire serves as the rear tire for the first $x\;\text{km}$ and as the front tire for the last $y-x\;\text{km}$.
 
 Total wear of the front tire: $\frac{x}{60000}+\frac{y-x}{80000}=1$.
 
@@ -147,9 +147,9 @@ Total wear of the rear tire: $\frac{x}{80000}+\frac{y-x}{60000}=1$.
 
 Subtracting the two equations gives $\frac{x}{60000}+\frac{y-x}{80000}=\frac{x}{80000}+\frac{y-x}{60000}$, simplifying to $y=2x$.
 
-Substitute into the first equation: $\frac{x}{60000}+\frac{x}{80000}=1$, i.e. $\frac{7x}{240000}=1$, giving $x=\frac{240000}{7}\approx34286\,\text{km}$, $y=\frac{480000}{7}\approx68571\,\text{km}$.
+Substitute into the first equation: $\frac{x}{60000}+\frac{x}{80000}=1$, i.e. $\frac{7x}{240000}=1$, giving $x=\frac{240000}{7}\approx34286\;\text{km}$, $y=\frac{480000}{7}\approx68571\;\text{km}$.
 
-Thus the swap should occur at about $34286\,\text{km}$, and the total mileage when worn out is about $68571\,\text{km}$. $\blacksquare$
+Thus the swap should occur at about $34286\;\text{km}$, and the total mileage when worn out is about $68571\;\text{km}$. $\blacksquare$
 
 ## Review Exercise 1
 
@@ -231,11 +231,11 @@ By Solving a System of Linear Equations in Three Variables.
 
 ## Review Exercise 5
 
-(Review Exercise, Review and Consolidation, Problem 5) Warehouse No. 1 and Warehouse No. 2 together hold $450\,\text{t}$ of grain. Now $60\%$ of the stored grain is shipped out from Warehouse No. 1 and $40\%$ from Warehouse No. 2; as a result, the grain remaining in Warehouse No. 2 is $30\,\text{t}$ more than that remaining in Warehouse No. 1. How many tons of grain did Warehouse No. 1 and Warehouse No. 2 originally hold?
+(Review Exercise, Review and Consolidation, Problem 5) Warehouse No. 1 and Warehouse No. 2 together hold $450\;\text{t}$ of grain. Now $60\%$ of the stored grain is shipped out from Warehouse No. 1 and $40\%$ from Warehouse No. 2; as a result, the grain remaining in Warehouse No. 2 is $30\;\text{t}$ more than that remaining in Warehouse No. 1. How many tons of grain did Warehouse No. 1 and Warehouse No. 2 originally hold?
 
 ### Solution to Review Exercise 5
 
-Let $x\,\text{t}$ be the original grain in Warehouse No. 1 and $y\,\text{t}$ that in Warehouse No. 2. According to the problem,
+Let $x\;\text{t}$ be the original grain in Warehouse No. 1 and $y\;\text{t}$ that in Warehouse No. 2. According to the problem,
 
 $$
 \begin{cases}
@@ -244,7 +244,7 @@ x+y=450,\\
 \end{cases}
 $$
 
-Substitute $x=450-y$: $0.6y-0.4\left(450-y\right)=30$, giving $y=210$, $x=240$. Thus Warehouse No. 1 originally held $240\,\text{t}$ and Warehouse No. 2 originally held $210\,\text{t}$. $\blacksquare$
+Substitute $x=450-y$: $0.6y-0.4\left(450-y\right)=30$, giving $y=210$, $x=240$. Thus Warehouse No. 1 originally held $240\;\text{t}$ and Warehouse No. 2 originally held $210\;\text{t}$. $\blacksquare$
 
 ## Review Exercise 6
 
@@ -258,7 +258,7 @@ From $y=\frac{19-5x}{3}>0$, we get $x<\frac{19}{5}$, so $x$ can take $1,2,3$. On
 
 ## Review Exercise 7
 
-(Review Exercise, Comprehensive Application, Problem 7) A city has tiered water pricing: each household using no more than $12\,\text{m}^3$ per month is charged at the tier-1 rate, and the excess is charged at the tier-2 rate. In May, Zhang Hua's family used $14\,\text{m}^3$ and paid $37.6$ yuan; Li Ming's family used $17\,\text{m}^3$ and paid $47.2$ yuan. What are the tier-1 and tier-2 water prices per cubic meter?
+(Review Exercise, Comprehensive Application, Problem 7) A city has tiered water pricing: each household using no more than $12\;\text{m}^3$ per month is charged at the tier-1 rate, and the excess is charged at the tier-2 rate. In May, Zhang Hua's family used $14\;\text{m}^3$ and paid $37.6$ yuan; Li Ming's family used $17\;\text{m}^3$ and paid $47.2$ yuan. What are the tier-1 and tier-2 water prices per cubic meter?
 
 ### Solution to Review Exercise 7
 
@@ -292,13 +292,13 @@ Multiply the first equation by $3$ and the second by $2$ and subtract: $-20x=-17
 
 ## Review Exercise 9
 
-(Review Exercise, Comprehensive Application, Problem 9) A and B run on a circular track, starting at the same time and place: running in opposite directions they meet every $2\,\text{min}$; running in the same direction they meet every $6\,\text{min}$. A is faster than B. How many minutes does A and B each take to run one lap?
+(Review Exercise, Comprehensive Application, Problem 9) A and B run on a circular track, starting at the same time and place: running in opposite directions they meet every $2\;\text{min}$; running in the same direction they meet every $6\;\text{min}$. A is faster than B. How many minutes does A and B each take to run one lap?
 
 ### Solution to Review Exercise 9
 
 Let $x$ laps per minute be A and $y$ laps per minute be B. Opposite directions: $2\left(x+y\right)=1$; same direction: $6\left(x-y\right)=1$.
 
-That is, $x+y=\frac{1}{2}$, $x-y=\frac{1}{6}$. Adding gives $2x=\frac{2}{3}$, $x=\frac{1}{3}$, $y=\frac{1}{6}$. Thus A takes $3\,\text{min}$ per lap and B takes $6\,\text{min}$ per lap. $\blacksquare$
+That is, $x+y=\frac{1}{2}$, $x-y=\frac{1}{6}$. Adding gives $2x=\frac{2}{3}$, $x=\frac{1}{3}$, $y=\frac{1}{6}$. Thus A takes $3\;\text{min}$ per lap and B takes $6\;\text{min}$ per lap. $\blacksquare$
 
 ## Review Exercise 10
 
@@ -362,7 +362,7 @@ Thus there are two plans: buy $3$ type A and $33$ type C, or buy $7$ type B and 
 
 (4) the difference between $m$ and $1$ is less than $3$ times $m$;
 
-(5) the noise level in a certain park is below $50\,\text{dB}$;
+(5) the noise level in a certain park is below $50\;\text{dB}$;
 
 (6) a city has $12000$ buses, among which the proportion of new-energy buses exceeds $66\%$.
 
@@ -378,7 +378,7 @@ By **Definition 11.1.1 (Inequality)**.
 
 (4) $m-1<3m$.
 
-(5) Let the noise level be $n\,\text{dB}$; then $n<50$.
+(5) Let the noise level be $n\;\text{dB}$; then $n<50$.
 
 (6) Let the number of new-energy buses be $x$; then $\frac{x}{12000}>66\%$, i.e. $x>7920$. $\blacksquare$
 
@@ -387,7 +387,7 @@ By **Definition 11.1.1 (Inequality)**.
 (Exercise 11.1, Problem 2) Among the following numbers, which are solutions of the inequality $x+3>6$?
 
 $$
--4,\,-2.5,\,0,\,1,\,2.5,\,3,\,3.2,\,4.8,\,8,\,12.
+-4,-2.5,0,1,2.5,3,3.2,4.8,8,12.
 $$
 
 ### Solution to Exercise 2
@@ -519,7 +519,7 @@ $\blacksquare$
 (Exercise 11.1, Review and Consolidation, Problem 1) Among the following numbers, which are solutions of the inequality $2x+3>9$?
 
 $$
--4,\,-2,\,0,\,3,\,3.01,\,4,\,6,\,100.
+-4,-2,0,3,3.01,4,6,100.
 $$
 
 ### Solution to Problem 2

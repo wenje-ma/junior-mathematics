@@ -54,7 +54,7 @@
 
 ## Problem 1
 
-(Problem 5.3, Extension and Exploration, Problem 13) A factory now has $360\,\text{kg}$ of type-A raw material and $290\,\text{kg}$ of type-B raw material, and plans to use them to make a total of $50$ pieces of products A and B. Making one piece of product A requires $9\,\text{kg}$ of type-A material and $3\,\text{kg}$ of type-B material; making one piece of product B requires $4\,\text{kg}$ of type-A material and $10\,\text{kg}$ of type-B material. Arranging the production quantities of A and B as required, how many plans are there?
+(Problem 5.3, Extension and Exploration, Problem 13) A factory now has $360\;\text{kg}$ of type-A raw material and $290\;\text{kg}$ of type-B raw material, and plans to use them to make a total of $50$ pieces of products A and B. Making one piece of product A requires $9\;\text{kg}$ of type-A material and $3\;\text{kg}$ of type-B material; making one piece of product B requires $4\;\text{kg}$ of type-A material and $10\;\text{kg}$ of type-B material. Arranging the production quantities of A and B as required, how many plans are there?
 
 ### Solution to Problem 1
 
@@ -98,23 +98,23 @@ By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)*
 
 ## Activity 1
 
-(Mathematical Activity, Activity 1, Problem 1) A city applies tiered water pricing to residential water: when a household's monthly usage does not exceed $22\,\text{m}^{3}$, it is charged at the basic water price; when it exceeds $22\,\text{m}^{3}$, the excess is charged at $1.5$ times the basic price. Given that a household used $20\,\text{m}^{3}$ in April and paid $46$ yuan, find the basic water price.
+(Mathematical Activity, Activity 1, Problem 1) A city applies tiered water pricing to residential water: when a household's monthly usage does not exceed $22\;\text{m}^{3}$, it is charged at the basic water price; when it exceeds $22\;\text{m}^{3}$, the excess is charged at $1.5$ times the basic price. Given that a household used $20\;\text{m}^{3}$ in April and paid $46$ yuan, find the basic water price.
 
 ### Solution to Activity 1
 
 By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)**, let the basic water price be $x$ yuan per cubic meter.
 
-The usage $20\,\text{m}^{3}$ does not exceed $22\,\text{m}^{3}$, so all is charged at the basic price: $20x=46$. Giving $x=2.3$. Hence the basic water price is $2.3$ yuan per cubic meter. $\blacksquare$
+The usage $20\;\text{m}^{3}$ does not exceed $22\;\text{m}^{3}$, so all is charged at the basic price: $20x=46$. Giving $x=2.3$. Hence the basic water price is $2.3$ yuan per cubic meter. $\blacksquare$
 
 ## Activity 2
 
-(Mathematical Activity, Activity 1, Problem 2) With the same tiered water price, a household used $28\,\text{m}^{3}$ in May and paid $72.4$ yuan. Find the basic water price and the price of the excess.
+(Mathematical Activity, Activity 1, Problem 2) With the same tiered water price, a household used $28\;\text{m}^{3}$ in May and paid $72.4$ yuan. Find the basic water price and the price of the excess.
 
 ### Solution to Activity 2
 
 By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)**, let the basic water price be $x$ yuan per cubic meter.
 
-The usage $28\,\text{m}^{3}$ exceeds $22\,\text{m}^{3}$, of which $22\,\text{m}^{3}$ is at $x$ yuan and the excess $6\,\text{m}^{3}$ is at $1.5x$ yuan:
+The usage $28\;\text{m}^{3}$ exceeds $22\;\text{m}^{3}$, of which $22\;\text{m}^{3}$ is at $x$ yuan and the excess $6\;\text{m}^{3}$ is at $1.5x$ yuan:
 
 $$22x+6\times1.5x=72.4.$$
 
@@ -126,25 +126,25 @@ Simplifying: $22x+9x=72.4$, $31x=72.4$, giving $x=2.335\approx2.34$. The basic p
 
 ### Solution to Activity 3
 
-By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)**, let the usage be $x\,\text{m}^{3}$.
+By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)**, let the usage be $x\;\text{m}^{3}$.
 
-From Activity 1, the basic price is $2.3$ yuan/$\text{m}^{3}$, and the excess is $1.5\times2.3=3.45$ yuan/$\text{m}^{3}$. Since $86.4>22\times2.3=50.6$, the usage exceeds $22\,\text{m}^{3}$:
+From Activity 1, the basic price is $2.3$ yuan/$\text{m}^{3}$, and the excess is $1.5\times2.3=3.45$ yuan/$\text{m}^{3}$. Since $86.4>22\times2.3=50.6$, the usage exceeds $22\;\text{m}^{3}$:
 
 $$22\times2.3+\left(x-22\right)\times3.45=86.4.$$
 
-Simplifying: $50.6+3.45\left(x-22\right)=86.4$. $3.45\left(x-22\right)=35.8$. $x-22=10.38$. Giving $x\approx32.38\,\text{m}^{3}$. $\blacksquare$
+Simplifying: $50.6+3.45\left(x-22\right)=86.4$. $3.45\left(x-22\right)=35.8$. $x-22=10.38$. Giving $x\approx32.38\;\text{m}^{3}$. $\blacksquare$
 
 ## Activity 4
 
-(Mathematical Activity, Activity 2, Problem 1) A wooden stick balances exactly when the fulcrum is at its midpoint. An object of mass $x$ is hung on the left end, and an object of mass $3\,\text{kg}$ is hung on the right end at a point $20\,\text{cm}$ from the fulcrum; the stick balances exactly. Find $x$.
+(Mathematical Activity, Activity 2, Problem 1) A wooden stick balances exactly when the fulcrum is at its midpoint. An object of mass $x$ is hung on the left end, and an object of mass $3\;\text{kg}$ is hung on the right end at a point $20\;\text{cm}$ from the fulcrum; the stick balances exactly. Find $x$.
 
 ### Solution to Activity 4
 
 By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)**, by the lever balance principle: left-end mass $\times$ left lever arm $=$ right-end mass $\times$ right lever arm.
 
-When the left and right lever arms are equal (fulcrum at the midpoint), $x\times{L}=3\times{L}$, giving $x=3\,\text{kg}$.
+When the left and right lever arms are equal (fulcrum at the midpoint), $x\times{L}=3\times{L}$, giving $x=3\;\text{kg}$.
 
-If the left-end object is $15\,\text{cm}$ from the fulcrum and the right-end $3\,\text{kg}$ is $20\,\text{cm}$ from the fulcrum: $15x=3\times20$. $15x=60$, giving $x=4\,\text{kg}$. $\blacksquare$
+If the left-end object is $15\;\text{cm}$ from the fulcrum and the right-end $3\;\text{kg}$ is $20\;\text{cm}$ from the fulcrum: $15x=3\times20$. $15x=60$, giving $x=4\;\text{kg}$. $\blacksquare$
 
 ## Review Problem 1
 
@@ -240,13 +240,13 @@ The first equation: multiply both sides by $6$: $3\left(x-m\right)=2\left(x+m\ri
 
 ## Review Problem 7
 
-(Review Problems, Comprehensive Application, Problem 7) A job takes A $20\,\text{h}$ working alone, and B $12\,\text{h}$ working alone. Now A works alone for $4\,\text{h}$ first, then A and B finish the rest together. How many hours does the rest take?
+(Review Problems, Comprehensive Application, Problem 7) A job takes A $20\;\text{h}$ working alone, and B $12\;\text{h}$ working alone. Now A works alone for $4\;\text{h}$ first, then A and B finish the rest together. How many hours does the rest take?
 
 ### Solution to Review Problem 7
 
 By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)**, let the rest take $x$ hours.
 
-A's rate $\frac{1}{20}$, B's rate $\frac{1}{12}$. A works $4\,\text{h}$ first and completes $\frac{4}{20}=\frac{1}{5}$. The remaining $\frac{4}{5}$:
+A's rate $\frac{1}{20}$, B's rate $\frac{1}{12}$. A works $4\;\text{h}$ first and completes $\frac{4}{20}=\frac{1}{5}$. The remaining $\frac{4}{5}$:
 
 $$x\left(\frac{1}{20}+\frac{1}{12}\right)=\frac{4}{5}.$$
 
@@ -282,13 +282,13 @@ Simplifying: $40\left(36-x\right)=50x$. $1440-40x=50x$. $1440=90x$. Giving $x=16
 
 ## Review Problem 10
 
-(Review Problems, Extension and Exploration, Problem 10) A and B practice running on a $400\,\text{m}$ circular track; A runs $250\,\text{m}$ per minute and B runs $250\,\text{m}$ per minute. They start at the same place and time in the same direction; after how many minutes do they first meet?
+(Review Problems, Extension and Exploration, Problem 10) A and B practice running on a $400\;\text{m}$ circular track; A runs $250\;\text{m}$ per minute and B runs $250\;\text{m}$ per minute. They start at the same place and time in the same direction; after how many minutes do they first meet?
 
 ### Solution to Review Problem 10
 
 By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)**, let them first meet after $x$ minutes.
 
-The two have the same speed, so running in the same direction they never draw apart and hence never meet. If A's speed were $350\,\text{m/min}$ and B's speed $250\,\text{m/min}$:
+The two have the same speed, so running in the same direction they never draw apart and hence never meet. If A's speed were $350\;\text{m/min}$ and B's speed $250\;\text{m/min}$:
 
 $$\left(350-250\right)x=400.$$
 
@@ -310,17 +310,17 @@ Remove parentheses: $50x=60x-6000$. Transpose: $6000=10x$. Giving $x=600$. Hence
 
 ## Review Problem 12
 
-(Review Problems, Extension and Exploration, Problem 12) Someone rides a motorcycle from home to the train station. If he goes $30\,\text{km}$ per hour, he arrives $15\,\text{min}$ before the train departs; if he goes $18\,\text{km}$ per hour, he arrives $15\,\text{min}$ after the train departs. Now he plans to arrive at the station $10\,\text{min}$ before the train departs; find the required motorcycle speed.
+(Review Problems, Extension and Exploration, Problem 12) Someone rides a motorcycle from home to the train station. If he goes $30\;\text{km}$ per hour, he arrives $15\;\text{min}$ before the train departs; if he goes $18\;\text{km}$ per hour, he arrives $15\;\text{min}$ after the train departs. Now he plans to arrive at the station $10\;\text{min}$ before the train departs; find the required motorcycle speed.
 
 ### Solution to Review Problem 12
 
-By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)**, let the distance from home to the station be $s\,\text{km}$, and let the time from departure to the train's departure be $t$ hours.
+By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)**, let the distance from home to the station be $s\;\text{km}$, and let the time from departure to the train's departure be $t$ hours.
 
 $$\frac{s}{30}=t-\frac{15}{60},\quad\frac{s}{18}=t+\frac{15}{60}.$$
 
-Subtracting the two equations: $\frac{s}{18}-\frac{s}{30}=\frac{30}{60}=\frac{1}{2}$. $\frac{5s-3s}{90}=\frac{1}{2}$. $\frac{2s}{90}=\frac{1}{2}$. $s=22.5\,\text{km}$.
+Subtracting the two equations: $\frac{s}{18}-\frac{s}{30}=\frac{30}{60}=\frac{1}{2}$. $\frac{5s-3s}{90}=\frac{1}{2}$. $\frac{2s}{90}=\frac{1}{2}$. $s=22.5\;\text{km}$.
 
-From $\frac{22.5}{30}=t-0.25$, we get $t=1\,\text{h}$. If arriving $10\,\text{min}$ early, the time taken is $t-\frac{10}{60}=\frac{5}{6}\,\text{h}$. The speed $=\frac{22.5}{5/6}=22.5\times\frac{6}{5}=27\,\text{km/h}$. $\blacksquare$
+From $\frac{22.5}{30}=t-0.25$, we get $t=1\;\text{h}$. If arriving $10\;\text{min}$ early, the time taken is $t-\frac{10}{60}=\frac{5}{6}\;\text{h}$. The speed $=\frac{22.5}{5/6}=22.5\times\frac{6}{5}=27\;\text{km/h}$. $\blacksquare$
 
 ## Review Problem 13
 
@@ -359,21 +359,21 @@ Expanding: $5000+500x-100x-10x^{2}=8000$. i.e. $-10x^{2}+400x-3000=0$. Simplifyi
 
 ## Review Problem 15
 
-(Review Problems, Extension and Exploration, Problem 15) Several identical rooms need their walls painted. In one day, $3$ grade-1 workers paint $8$ rooms, leaving $50\,\text{m}^{2}$ of wall unpainted; in the same time, $5$ grade-2 workers paint $10$ rooms and additionally $40\,\text{m}^{2}$ of extra wall. Each grade-1 worker paints $10\,\text{m}^{2}$ more per day than a grade-2 worker. Find the wall area to be painted in each room.
+(Review Problems, Extension and Exploration, Problem 15) Several identical rooms need their walls painted. In one day, $3$ grade-1 workers paint $8$ rooms, leaving $50\;\text{m}^{2}$ of wall unpainted; in the same time, $5$ grade-2 workers paint $10$ rooms and additionally $40\;\text{m}^{2}$ of extra wall. Each grade-1 worker paints $10\;\text{m}^{2}$ more per day than a grade-2 worker. Find the wall area to be painted in each room.
 
 ### Solution to Review Problem 15
 
-By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)**, let the wall area to be painted in each room be $x\,\text{m}^{2}$.
+By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)**, let the wall area to be painted in each room be $x\;\text{m}^{2}$.
 
-$3$ grade-1 workers paint $\left(8x-50\right)\,\text{m}^{2}$, which is $\frac{8x-50}{3}\,\text{m}^{2}$ per person per day.
+$3$ grade-1 workers paint $\left(8x-50\right)\;\text{m}^{2}$, which is $\frac{8x-50}{3}\;\text{m}^{2}$ per person per day.
 
-$5$ grade-2 workers paint $\left(10x+40\right)\,\text{m}^{2}$, which is $\frac{10x+40}{5}\,\text{m}^{2}$ per person per day.
+$5$ grade-2 workers paint $\left(10x+40\right)\;\text{m}^{2}$, which is $\frac{10x+40}{5}\;\text{m}^{2}$ per person per day.
 
-Each grade-1 worker paints $10\,\text{m}^{2}$ more per day than a grade-2 worker:
+Each grade-1 worker paints $10\;\text{m}^{2}$ more per day than a grade-2 worker:
 
 $$\frac{8x-50}{3}-\frac{10x+40}{5}=10.$$
 
-Multiply both sides by $15$: $5\left(8x-50\right)-3\left(10x+40\right)=150$. Remove parentheses: $40x-250-30x-120=150$. Combine: $10x-370=150$. $10x=520$. Giving $x=52$. Hence each room requires $52\,\text{m}^{2}$ of wall to be painted. $\blacksquare$
+Multiply both sides by $15$: $5\left(8x-50\right)-3\left(10x+40\right)=150$. Remove parentheses: $40x-250-30x-120=150$. Combine: $10x-370=150$. $10x=520$. Giving $x=52$. Hence each room requires $52\;\text{m}^{2}$ of wall to be painted. $\blacksquare$
 
 ## Exercise 1
 

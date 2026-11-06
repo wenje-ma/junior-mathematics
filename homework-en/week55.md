@@ -324,11 +324,11 @@ i.e. $\left(3x-9\right)\left(1-x\right)=0$, hence $3x-9=0$ or $1-x=0$, i.e. $x_1
 
 ## Exercise 6
 
-(Exercise 25.2, Problem 4, Part (2)) As shown in the figure, increasing the radius of a small circular field by $5\,\text{m}$ gives a large circular field; the ratio of the large field's area to the small field's area is $9:4$. Find the radius of the small field.
+(Exercise 25.2, Problem 4, Part (2)) As shown in the figure, increasing the radius of a small circular field by $5\;\text{m}$ gives a large circular field; the ratio of the large field's area to the small field's area is $9:4$. Find the radius of the small field.
 
 ### Solution to Exercise 6
 
-Let the small field's radius be $r\,\text{m}$; then the large field's radius is $\left(r+5\right)\,\text{m}$. By the circle-area formula and the ratio $9:4$ of the two areas,
+Let the small field's radius be $r\;\text{m}$; then the large field's radius is $\left(r+5\right)\;\text{m}$. By the circle-area formula and the ratio $9:4$ of the two areas,
 
 $$
 \frac{\pi\left(r+5\right)^2}{\pi{r}^2}=\frac94.
@@ -340,7 +340,7 @@ $$
 r=10.
 $$
 
-Hence the small field's radius is $10\,\text{m}$. $\blacksquare$
+Hence the small field's radius is $10\;\text{m}$. $\blacksquare$
 
 ## Problem 4
 

@@ -62,7 +62,7 @@
 
 ## Problem 1
 
-(Exercise 2.2, Comprehensive Application, Problem 13) A helicopter starts from an altitude of $450\,\text{m}$, first rises vertically at a speed of $4\,\text{m/s}$ for $60\,\text{s}$, and then descends vertically at a speed of $5\,\text{m/s}$ for $120\,\text{s}$. What is the altitude of the helicopter at this point?
+(Exercise 2.2, Comprehensive Application, Problem 13) A helicopter starts from an altitude of $450\;\text{m}$, first rises vertically at a speed of $4\;\text{m/s}$ for $60\;\text{s}$, and then descends vertically at a speed of $5\;\text{m/s}$ for $120\;\text{s}$. What is the altitude of the helicopter at this point?
 
 ### Solution to Problem 1
 
@@ -70,7 +70,7 @@ By **Definition 2.2.1 (Rules for Multiplication of Rational Numbers)**, rising i
 
 $$450+4\times60-5\times120=450+240-600=90.$$
 
-Hence the altitude of the helicopter at this point is $90\,\text{m}$. $\blacksquare$
+Hence the altitude of the helicopter at this point is $90\;\text{m}$. $\blacksquare$
 
 ## Problem 2
 
@@ -186,7 +186,7 @@ By **Definition 2.3.3 (Order of Mixed Operations on Rational Numbers)**.
 
 (Exercise 2.3, Problem 1) Express the following numbers in scientific notation:
 
-$$100000,\,7400000,\,56000000,\,567000000.$$
+$$100000,7400000,56000000,567000000.$$
 
 ### Solution to Exercise 4
 
@@ -202,7 +202,7 @@ $\blacksquare$
 
 (Exercise 2.3, Problem 2) What were the original numbers of the following numbers expressed in scientific notation?
 
-$$1\times10^{7},\,4\times10^{3},\,8.5\times10^{6},\,7.04\times10^{5},\,3.96\times10^{7}.$$
+$$1\times10^{7},4\times10^{3},8.5\times10^{6},7.04\times10^{5},3.96\times10^{7}.$$
 
 ### Solution to Exercise 5
 
@@ -216,7 +216,7 @@ $\blacksquare$
 
 ## Exercise 6
 
-(Exercise 2.3, Problem 3) China's land area is approximately $9600000\,\text{km}^{2}$. Express this number in scientific notation.
+(Exercise 2.3, Problem 3) China's land area is approximately $9600000\;\text{km}^{2}$. Express this number in scientific notation.
 
 ### Solution to Exercise 6
 
@@ -224,7 +224,7 @@ By **Definition 2.3.4 (Scientific Notation)**.
 
 $$9600000=9.6\times10^{6}.$$
 
-Hence the land area is $9.6\times10^{6}\,\text{km}^{2}$. $\blacksquare$
+Hence the land area is $9.6\times10^{6}\;\text{km}^{2}$. $\blacksquare$
 
 ## Exercise 7
 
@@ -292,7 +292,7 @@ By **Definition 2.3.3 (Order of Mixed Operations on Rational Numbers)**.
 
 (Exercise 2.3, Review and Consolidation, Problem 4) Express the following numbers in scientific notation:
 
-$$235000000,\,188520000,\,701000000000,\,36000000.$$
+$$235000000,188520000,701000000000,36000000.$$
 
 ### Solution to Problem 7
 
@@ -308,7 +308,7 @@ $\blacksquare$
 
 (Exercise 2.3, Review and Consolidation, Problem 5) What were the original numbers of the following numbers expressed in scientific notation?
 
-$$3\times10^{7},\,1.3\times10^{3},\,8.05\times10^{6},\,2.004\times10^{5}.$$
+$$3\times10^{7},1.3\times10^{3},8.05\times10^{6},2.004\times10^{5}.$$
 
 ### Solution to Problem 8
 
@@ -348,7 +348,7 @@ The number whose cube equals $-27$: since $\left(-3\right)^{3}=-27$, the cube of
 
 ## Problem 11
 
-(Exercise 2.3, Comprehensive Application, Problem 8) A cuboid has length and width both equal to $a$ and height equal to $h$. How are its volume and surface area computed? When $a=2\,\text{cm}$ and $h=5\,\text{cm}$, what are its volume and surface area?
+(Exercise 2.3, Comprehensive Application, Problem 8) A cuboid has length and width both equal to $a$ and height equal to $h$. How are its volume and surface area computed? When $a=2\;\text{cm}$ and $h=5\;\text{cm}$, what are its volume and surface area?
 
 ### Solution to Problem 11
 
@@ -358,13 +358,13 @@ $$V=a^{2}h,\quad{S}=2a^{2}+4ah.$$
 
 When $a=2$ and $h=5$,
 
-$$V=2^{2}\times5=20\,\text{cm}^{3};\quad{S}=2\times2^{2}+4\times2\times5=8+40=48\,\text{cm}^{2}.$$
+$$V=2^{2}\times5=20\;\text{cm}^{3};\quad{S}=2\times2^{2}+4\times2\times5=8+40=48\;\text{cm}^{2}.$$
 
-Hence the volume is $20\,\text{cm}^{3}$ and the surface area is $48\,\text{cm}^{2}$. $\blacksquare$
+Hence the volume is $20\;\text{cm}^{3}$ and the surface area is $48\;\text{cm}^{2}$. $\blacksquare$
 
 ## Problem 12
 
-(Exercise 2.3, Comprehensive Application, Problem 9) One day has $8.64\times10^{4}\,\text{s}$. Taking a year as $365$ days, how many seconds are there in a year (express in scientific notation)?
+(Exercise 2.3, Comprehensive Application, Problem 9) One day has $8.64\times10^{4}\;\text{s}$. Taking a year as $365$ days, how many seconds are there in a year (express in scientific notation)?
 
 ### Solution to Problem 12
 
@@ -372,17 +372,17 @@ By **Definition 2.3.4 (Scientific Notation)**.
 
 $$8.64\times10^{4}\times365=3153.6\times10^{4}=3.1536\times10^{7}.$$
 
-Hence a year has $3.1536\times10^{7}\,\text{s}$. $\blacksquare$
+Hence a year has $3.1536\times10^{7}\;\text{s}$. $\blacksquare$
 
 ## Problem 13
 
-(Exercise 2.3, Comprehensive Application, Problem 10) The speed of the Earth revolving around the Sun is approximately $1.1\times10^{5}\,\text{km/h}$, and the speed of sound propagating in air is approximately $340\,\text{m/s}$. Compare the magnitudes of the two speeds.
+(Exercise 2.3, Comprehensive Application, Problem 10) The speed of the Earth revolving around the Sun is approximately $1.1\times10^{5}\;\text{km/h}$, and the speed of sound propagating in air is approximately $340\;\text{m/s}$. Compare the magnitudes of the two speeds.
 
 ### Solution to Problem 13
 
-Unify the units. $340\,\text{m/s}=340\times3600\,\text{m/h}=1224000\,\text{m/h}=1224\,\text{km/h}$.
+Unify the units. $340\;\text{m/s}=340\times3600\;\text{m/h}=1224000\;\text{m/h}=1224\;\text{km/h}$.
 
-The Earth's revolution speed is $1.1\times10^{5}=110000\,\text{km/h}$. Since $110000>1224$, the speed of the Earth revolving around the Sun is greater than the speed of sound propagating in air. $\blacksquare$
+The Earth's revolution speed is $1.1\times10^{5}=110000\;\text{km/h}$. Since $110000>1224$, the speed of the Earth revolving around the Sun is greater than the speed of sound propagating in air. $\blacksquare$
 
 ## Problem 14
 

@@ -89,7 +89,7 @@ A quadrilateral has $2$ diagonals, a pentagon has $5$ diagonals, and a hexagon h
 An $n$-gon has $n$ vertices; each vertex connects by a diagonal to the other $n-3$ vertices (excluding itself and its two adjacent vertices); each diagonal is counted twice, so the number of diagonals is
 
 $$
-y=\frac{n\left(n-3\right)}{2}\quad\left(n\geq3,\,n\text{~为整数}\right).
+y=\frac{n\left(n-3\right)}{2}\quad\left(n\geq3,n\text{~为整数}\right).
 $$
 
 For each definite value of the number of sides $n$, the number of diagonals $y$ has a unique definite value corresponding to it, so $y$ is a function of $n$.
@@ -132,13 +132,13 @@ By **Definition 23.1.1 (Linear Function)**, a function of the form $y=kx+b$ ($k\
 
 (1) A person's average monthly income over a year is $x$ yuan, and his total income for the year ($12$ months) is $y$ yuan;
 
-(2) A pool contains $20\,\text{m}^3$ of water; the inlet pipe is opened and water flows in at $3\,\text{m}^3/\text{h}$; after $x\,\text{h}$ the pool contains $y\,\text{m}^3$.
+(2) A pool contains $20\;\text{m}^3$ of water; the inlet pipe is opened and water flows in at $3\;\text{m}^3/\text{h}$; after $x\;\text{h}$ the pool contains $y\;\text{m}^3$.
 
 ### Solution to Exercise 2
 
 (1) Total income equals average monthly income times $12$, so $y=12x$.
 
-(2) After $x\,\text{h}$, $3x\,\text{m}^3$ flows in; adding the original $20\,\text{m}^3$, we get $y=20+3x$. $\blacksquare$
+(2) After $x\;\text{h}$, $3x\;\text{m}^3$ flows in; adding the original $20\;\text{m}^3$, we get $y=20+3x$. $\blacksquare$
 
 ## Problem 1
 
@@ -168,15 +168,15 @@ By **Definition 23.1.1 (Linear Function)**, a function of the form $y=kx+b$ ($k\
 
 (Exercise 23.1, Review and Consolidation, Problem 2) Use an analytic expression to represent the relation between $y$ and $x$ in the following problems:
 
-(1) A rectangular box has length $2\,\text{cm}$, width $1.5\,\text{cm}$, and height $x\,\text{cm}$; its volume is $y\,\text{cm}^3$;
+(1) A rectangular box has length $2\;\text{cm}$, width $1.5\;\text{cm}$, and height $x\;\text{cm}$; its volume is $y\;\text{cm}^3$;
 
-(2) A tank contains $10\,\text{L}$ of water; water begins to drain at $0.5\,\text{L/min}$; the draining time is $x\,\text{min}$ and the remaining water is $y\,\text{L}$.
+(2) A tank contains $10\;\text{L}$ of water; water begins to drain at $0.5\;\text{L/min}$; the draining time is $x\;\text{min}$ and the remaining water is $y\;\text{L}$.
 
 ### Solution to Problem 2
 
 (1) The volume of a rectangular box equals length times width times height, so $y=2\times1.5\times{x}=3x$.
 
-(2) After $x\,\text{min}$, $0.5x\,\text{L}$ has drained; the remaining water is the original amount minus the drained amount, so $y=10-0.5x$. $\blacksquare$
+(2) After $x\;\text{min}$, $0.5x\;\text{L}$ has drained; the remaining water is the original amount minus the drained amount, so $y=10-0.5x$. $\blacksquare$
 
 ## Problem 3
 
@@ -328,11 +328,11 @@ $$
 
 Solving gives $k=6$, $b=-90$. Hence $y=6x-90$.
 
-Free check-in means $y=0$, i.e. $6x-90=0$, which gives $x=15$. Hence the maximum mass that can be checked in for free is $15\,\text{kg}$. $\blacksquare$
+Free check-in means $y=0$, i.e. $6x-90=0$, which gives $x=15$. Hence the maximum mass that can be checked in for free is $15\;\text{kg}$. $\blacksquare$
 
 ## Problem 6
 
-(Exercise 23.2, Review and Consolidation, Problem 1) A freight train travels at a constant speed of $90\,\text{km/h}$. Find the function expression for its distance traveled $s$ (in km) in terms of the travel time $t$ (in h), and draw the graph.
+(Exercise 23.2, Review and Consolidation, Problem 1) A freight train travels at a constant speed of $90\;\text{km/h}$. Find the function expression for its distance traveled $s$ (in km) in terms of the travel time $t$ (in h), and draw the graph.
 
 ### Solution to Problem 6
 
@@ -454,7 +454,7 @@ Since $-3<-1.3<2$, we have $y_2>{}y_1>{}y_3$. $\blacksquare$
 
 (1) Find the function expressions for $y$ in terms of $x$ when $0\leq{x}\leq15$ and when $x>15$.
 
-(2) If a household uses $9\,\text{t}$ of water in a certain month, how much water fee is payable? If a water fee of $102$ yuan is paid in a certain month, how many tonnes of water were used that month?
+(2) If a household uses $9\;\text{t}$ of water in a certain month, how much water fee is payable? If a water fee of $102$ yuan is paid in a certain month, how many tonnes of water were used that month?
 
 ### Solution to Problem 14
 
@@ -464,7 +464,7 @@ When $x>15$, the line passes through the points $\left(15,45\right)$ and $\left(
 
 (2) When $x=9$, $0\leq9\leq15$, so $y=3\times9=27$ yuan.
 
-When $y=102$, $102=9x-90$, so $x=21.33$. Hence about $21.3\,\text{t}$ of water was used that month. $\blacksquare$
+When $y=102$, $102=9x-90$, so $x=21.33$. Hence about $21.3\;\text{t}$ of water was used that month. $\blacksquare$
 
 ## Problem 15
 
@@ -514,11 +514,11 @@ Substituting $\left(2,1\right)$ into $y=ax+2$ gives $1=2a+2$, so $a=-\frac{1}{2}
 
 ### Solution to Exercise 13
 
-Let the rental time be $x\,\text{h}$; the cost from Company A is $y_1=80+14x$, and the cost from Company B is $y_2=30x$.
+Let the rental time be $x\;\text{h}$; the cost from Company A is $y_1=80+14x$, and the cost from Company B is $y_2=30x$.
 
 By Linear Functions and Systems of Linear Equations in Two Variables, the two costs being equal means $y_1=y_2$, i.e. $80+14x=30x$, which gives $16x=80$ and hence $x=5$.
 
-Hence when the car is rented for $5\,\text{h}$, the costs from the two companies are equal. $\blacksquare$
+Hence when the car is rented for $5\;\text{h}$, the costs from the two companies are equal. $\blacksquare$
 
 ## Problem 16
 

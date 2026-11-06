@@ -130,7 +130,7 @@ After folding, \(EF\) is a midline, \(EF\parallel{A}D\parallel{B}C\).
 
 Folding makes \(A\) land at \(N\) on \(EF\), and the crease passes through \(B\), so \(BA=BN\).
 
-In \(Rt\triangle{B}NE\), \(BE=\frac{1}{2}AB=\frac{1}{2}BN\), so \(\angle{B}NE=30^{\circ},\,\angle{E}BN=60^{\circ}\).
+In \(Rt\triangle{B}NE\), \(BE=\frac{1}{2}AB=\frac{1}{2}BN\), so \(\angle{B}NE=30^{\circ},\angle{E}BN=60^{\circ}\).
 
 Hence \(\angle{A}BN=60^{\circ}\), and crease \(BM\) bisects \(\angle{A}BN\), giving \(\angle{A}BM=\angle{M}BN=30^{\circ}\).
 
@@ -144,7 +144,7 @@ Also \(\angle{A}BC=90^{\circ}\), so \(\angle{N}BC=90^{\circ}-60^{\circ}=30^{\cir
 
 As shown in the figure, through point \(O\), the midpoint of diagonal \(AC\) of \(\square{A}BCD\), draw two perpendicular lines, meeting \(AB,BC,CD,DA\) at points \(E,F,G,H\), respectively; connect \(EF,FG,GH,HE\). Determine the shape of quadrilateral \(EFGH\) and explain why.
 
-Since \(O\) is the midpoint of \(AC\) and the parallelogram is centrally symmetric, one can prove \(OE=OG,\,OF=OH\).
+Since \(O\) is the midpoint of \(AC\) and the parallelogram is centrally symmetric, one can prove \(OE=OG,OF=OH\).
 
 The diagonals of quadrilateral \(EFGH\) bisect each other, so it is a parallelogram.
 
@@ -160,11 +160,11 @@ As shown in the figure, quadrilateral \(ABCD\) is a square, \(E\) is the midpoin
 
 Take the midpoint \(G\) of \(AB\) and connect \(EG\).
 
-Since \(E,G\) are midpoints, \(AG=EC,\,BG=BE\); so \(\triangle{B}EG\) is an isosceles right triangle, \(\angle{A}GE=135^{\circ}\).
+Since \(E,G\) are midpoints, \(AG=EC,BG=BE\); so \(\triangle{B}EG\) is an isosceles right triangle, \(\angle{A}GE=135^{\circ}\).
 
 \(CF\) bisects the exterior angle, \(\angle{E}CF=135^{\circ}\), so \(\angle{A}GE=\angle{E}CF\).
 
-Also \(\angle{G}AE+\angle{A}EB=90^{\circ},\,\angle{C}EF+\angle{A}EB=90^{\circ}\), so \(\angle{G}AE=\angle{C}EF\).
+Also \(\angle{G}AE+\angle{A}EB=90^{\circ},\angle{C}EF+\angle{A}EB=90^{\circ}\), so \(\angle{G}AE=\angle{C}EF\).
 
 Hence \(\triangle{A}GE\cong\triangle{E}CF\), so \(AE=EF\).
 
@@ -186,7 +186,7 @@ Therefore the overlap area always equals \(\frac{1}{4}\) of the original square'
 
 (Exercise 22.1, Problem 1) Identify the constants and variables in the following problems:
 
-(1) Water is poured into a pool at a rate of $0.1\,\text{m}^3/\text{min}$. Let the filling time be $x\,\text{min}$ and the amount of water filled be $y\,\text{m}^3$.
+(1) Water is poured into a pool at a rate of $0.1\;\text{m}^3/\text{min}$. Let the filling time be $x\;\text{min}$ and the amount of water filled be $y\;\text{m}^3$.
 
 (2) The annual gross domestic product (GDP) of China during the 13th Five-Year Plan is shown in the table below.
 
@@ -198,7 +198,7 @@ Therefore the overlap area always equals \(\frac{1}{4}\) of the original square'
 
 ### Solution to Exercise 1
 
-(1) By **Definition 22.1.1 (Constants and Variables)**, the value of the filling rate $0.1\,\text{m}^3/\text{min}$ remains constant, so the filling rate is a constant. The values of the filling time $x$ and the filled amount $y$ change, so the filling time $x$ and the filled amount $y$ are variables.
+(1) By **Definition 22.1.1 (Constants and Variables)**, the value of the filling rate $0.1\;\text{m}^3/\text{min}$ remains constant, so the filling rate is a constant. The values of the filling time $x$ and the filled amount $y$ change, so the filling time $x$ and the filled amount $y$ are variables.
 
 (2) By **Definition 22.1.1 (Constants and Variables)**, the values of the year $x$ and the GDP $y$ both change, so the year $x$ and the GDP $y$ are variables; in this problem there is no quantity whose value remains constant.
 
@@ -212,9 +212,9 @@ Therefore the overlap area always equals \(\frac{1}{4}\) of the original square'
 
 By **Definition 22.1.1 (Constants and Variables)**, a quantity whose value remains constant is a constant, and a quantity whose value changes is a variable.
 
-(1) A car travels at a constant speed of $60\,\text{km/h}$; the distance traveled $s$ changes with the travel time $t$. Here the speed $60\,\text{km/h}$ is a constant, and the travel time $t$ and the distance traveled $s$ are variables.
+(1) A car travels at a constant speed of $60\;\text{km/h}$; the distance traveled $s$ changes with the travel time $t$. Here the speed $60\;\text{km/h}$ is a constant, and the travel time $t$ and the distance traveled $s$ are variables.
 
-(2) A $20\,\text{m}$ rope encloses a rectangle; the area $S$ of the rectangle changes with one side length $x$. Here the rope length $20\,\text{m}$ is a constant, and the side length $x$ and the area $S$ are variables. $\blacksquare$
+(2) A $20\;\text{m}$ rope encloses a rectangle; the area $S$ of the rectangle changes with one side length $x$. Here the rope length $20\;\text{m}$ is a constant, and the side length $x$ and the area $S$ are variables. $\blacksquare$
 
 ## Exercise 3
 
@@ -258,9 +258,9 @@ Movie tickets cost $40$ yuan each; $x$ tickets are sold for one showing, and the
 
 (Exercise 22.1, Problem 1) Determine whether the two variables in the following problems are in a functional relation. If so, identify the independent variable and the function, and write the analytic expression.
 
-(1) A tank initially contains $10\,\text{L}$ of water, and leaks at a rate of $0.05\,\text{L/h}$; the remaining water $V$ (unit: L) changes with time $t$ (unit: h);
+(1) A tank initially contains $10\;\text{L}$ of water, and leaks at a rate of $0.05\;\text{L/h}$; the remaining water $V$ (unit: L) changes with time $t$ (unit: h);
 
-(2) The cultivated area of Lushui Village is $10^6\,\text{m}^2$; the per-capita cultivated area $y$ (unit: $\text{m}^2$) changes with the population $n$.
+(2) The cultivated area of Lushui Village is $10^6\;\text{m}^2$; the per-capita cultivated area $y$ (unit: $\text{m}^2$) changes with the population $n$.
 
 ### Solution to Exercise 5
 
@@ -270,11 +270,11 @@ Movie tickets cost $40$ yuan each; $x$ tickets are sold for one showing, and the
 
 ## Exercise 6
 
-(Exercise 22.1, Problem 2) The upper base of a trapezoid is $2\,\text{cm}$, its height is $3\,\text{cm}$, and the lower base $x$ (unit: cm) is greater than the upper base but no more than $5\,\text{cm}$. Write the analytic expression for the trapezoid area $S$ (unit: $\text{cm}^2$) as a function of $x$, and state the range of the independent variable $x$.
+(Exercise 22.1, Problem 2) The upper base of a trapezoid is $2\;\text{cm}$, its height is $3\;\text{cm}$, and the lower base $x$ (unit: cm) is greater than the upper base but no more than $5\;\text{cm}$. Write the analytic expression for the trapezoid area $S$ (unit: $\text{cm}^2$) as a function of $x$, and state the range of the independent variable $x$.
 
 ### Solution to Exercise 6
 
-By the trapezoid area formula, the area equals half the sum of the two bases times the height. The upper base is $2\,\text{cm}$, the lower base is $x\,\text{cm}$, and the height is $3\,\text{cm}$, so
+By the trapezoid area formula, the area equals half the sum of the two bases times the height. The upper base is $2\;\text{cm}$, the lower base is $x\;\text{cm}$, and the height is $3\;\text{cm}$, so
 
 $$
 S=\frac{\left(2+x\right)\times3}{2}=\frac{3}{2}\left(x+2\right).
@@ -282,7 +282,7 @@ $$
 
 By **Definition 22.1.3 (Analytic Expression of a Function)**, $S=\frac{3}{2}\left(x+2\right)$ is the desired analytic expression.
 
-The lower base $x$ is greater than the upper base $2\,\text{cm}$, i.e. $x>2$; the lower base $x$ is no more than $5\,\text{cm}$, i.e. $x\leq5$. Hence the range of the independent variable $x$ is $2<{}x\leq5$. $\blacksquare$
+The lower base $x$ is greater than the upper base $2\;\text{cm}$, i.e. $x>2$; the lower base $x$ is no more than $5\;\text{cm}$, i.e. $x\leq5$. Hence the range of the independent variable $x$ is $2<{}x\leq5$. $\blacksquare$
 
 ## Exercise 7
 
@@ -292,7 +292,7 @@ The lower base $x$ is greater than the upper base $2\,\text{cm}$, i.e. $x>2$; th
 
 By **Definition 22.1.2 (Function)** and **Definition 22.1.3 (Analytic Expression of a Function)**, a functional relation expressible by an analytic expression means the correspondence between variables can be written as a mathematical expression.
 
-A car travels at a constant speed of $60\,\text{km/h}$; the distance $s$ (unit: km) changes with the travel time $t$ (unit: h). The analytic expression is $s=60t$, where $t$ is the independent variable. The travel time cannot be negative, so the range of the independent variable $t$ is $t\geq0$. $\blacksquare$
+A car travels at a constant speed of $60\;\text{km/h}$; the distance $s$ (unit: km) changes with the travel time $t$ (unit: h). The analytic expression is $s=60t$, where $t$ is the independent variable. The travel time cannot be negative, so the range of the independent variable $t$ is $t\geq0$. $\blacksquare$
 
 ## Problem 1
 
@@ -302,7 +302,7 @@ A car travels at a constant speed of $60\,\text{km/h}$; the distance $s$ (unit: 
 
 (2) A ripple in water keeps expanding; let the radius of the circular wave be $r$, its circumference $C$, and pi $\pi$.
 
-(3) Zhang Hua is running on a track. One lap of the track is $400\,\text{m}$; let the number of laps she runs be $n$ and the distance she runs be $s\,\text{m}$.
+(3) Zhang Hua is running on a track. One lap of the track is $400\;\text{m}$; let the number of laps she runs be $n$ and the distance she runs be $s\;\text{m}$.
 
 ### Solution to Problem 1
 
@@ -312,7 +312,7 @@ By **Definition 22.1.1 (Constants and Variables)**, a quantity whose value remai
 
 (2) The value of pi $\pi$ remains constant, so $\pi$ is a constant. The radius $r$ and circumference $C$ of the circular wave change, so $r$ and $C$ are variables.
 
-(3) The length of one lap $400\,\text{m}$ remains constant, so $400\,\text{m}$ is a constant. The number of laps $n$ and the distance $s$ change, so $n$ and $s$ are variables. $\blacksquare$
+(3) The length of one lap $400\;\text{m}$ remains constant, so $400\;\text{m}$ is a constant. The number of laps $n$ and the distance $s$ change, so $n$ and $s$ are variables. $\blacksquare$
 
 ## Problem 2
 

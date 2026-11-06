@@ -62,11 +62,11 @@
 
 ## 复习题三
 
-(复习题 27 复习巩固第 4 题) 李华要在报纸上刊登广告, 一块 $10\,\text{cm}\times5\,\text{cm}$ 的长方形版面要付 $180$ 元的广告费. 如果他要把版面的边长扩大为原来的 $3$ 倍, 要付多少广告费 (假设每平方厘米版面的广告费相同)? 
+(复习题 27 复习巩固第 4 题) 李华要在报纸上刊登广告, 一块 $10\;\text{cm}\times5\;\text{cm}$ 的长方形版面要付 $180$ 元的广告费. 如果他要把版面的边长扩大为原来的 $3$ 倍, 要付多少广告费 (假设每平方厘米版面的广告费相同)? 
 
 ### 解答 复习题三
 
-原版面面积为 $10\times5=50\,\text{cm}^2$. 边长扩大为原来的 $3$ 倍, 面积扩大为原来的 $9$ 倍, 即 $450\,\text{cm}^2$. 
+原版面面积为 $10\times5=50\;\text{cm}^2$. 边长扩大为原来的 $3$ 倍, 面积扩大为原来的 $9$ 倍, 即 $450\;\text{cm}^2$. 
 
 广告费与面积成正比, 故应付 $180\times9=1620$ 元. $\blacksquare$
 
@@ -80,15 +80,15 @@
 
 ## 复习题五
 
-(复习题 27 综合运用第 6 题) 某同学的座位到黑板的距离是 $6\,\text{m}$, 老师在黑板上要写多大的字, 才能使这名同学看黑板上的字时, 与他看相距 $30\,\text{cm}$ 的教科书上的字的感觉相同 (教科书上的小四号字大小约为 $0.42\,\text{cm}\times0.42\,\text{cm}$)? 
+(复习题 27 综合运用第 6 题) 某同学的座位到黑板的距离是 $6\;\text{m}$, 老师在黑板上要写多大的字, 才能使这名同学看黑板上的字时, 与他看相距 $30\;\text{cm}$ 的教科书上的字的感觉相同 (教科书上的小四号字大小约为 $0.42\;\text{cm}\times0.42\;\text{cm}$)? 
 
 ### 解答 复习题五
 
 感觉相同即视角相同, 字的大小与距离成正比. 
 
-距离比为 $6\,\text{m}:30\,\text{cm}=600:30=20:1$. 
+距离比为 $6\;\text{m}:30\;\text{cm}=600:30=20:1$. 
 
-黑板上字的大小应为 $0.42\times20=8.4\,\text{cm}$, 即 $8.4\,\text{cm}\times8.4\,\text{cm}$. $\blacksquare$
+黑板上字的大小应为 $0.42\times20=8.4\;\text{cm}$, 即 $8.4\;\text{cm}\times8.4\;\text{cm}$. $\blacksquare$
 
 ## 复习题六
 
@@ -140,9 +140,9 @@ $\angle{A}EF=\angle{B}DF=90^\circ$, $\angle{A}FE=\angle{B}FD$ (对顶角), 由AA
 
 ## 复习题十
 
-(复习题 27 拓广探索第 11 题) 如图, 一块材料的形状是锐角三角形 $ABC$, 边 $BC=120\,\text{mm}$, 高 $AD=80\,\text{mm}$. 把它加工成正方形零件, 使正方形的一边在 $BC$ 上, 其余两个顶点分别在 $AB$, $AC$ 上, 这个正方形零件的边长是多少? 
+(复习题 27 拓广探索第 11 题) 如图, 一块材料的形状是锐角三角形 $ABC$, 边 $BC=120\;\text{mm}$, 高 $AD=80\;\text{mm}$. 把它加工成正方形零件, 使正方形的一边在 $BC$ 上, 其余两个顶点分别在 $AB$, $AC$ 上, 这个正方形零件的边长是多少? 
 
-图为锐角三角形 $ABC$, 底边 $BC=120\,\text{mm}$, 高 $AD=80\,\text{mm}$($D$ 在 $BC$ 上); 三角形内接有一个正方形, 正方形的一边在 $BC$ 上, 上边两端顶点分别在 $AB$ 和 $AC$ 上. 
+图为锐角三角形 $ABC$, 底边 $BC=120\;\text{mm}$, 高 $AD=80\;\text{mm}$($D$ 在 $BC$ 上); 三角形内接有一个正方形, 正方形的一边在 $BC$ 上, 上边两端顶点分别在 $AB$ 和 $AC$ 上. 
 
 ### 解答 复习题十
 
@@ -155,7 +155,7 @@ $$
 $$
 
 $$
-120\left(80-x\right)=80x\Rightarrow9600=200x\Rightarrow{x}=48\,\text{mm}.\,\blacksquare
+120\left(80-x\right)=80x\Rightarrow9600=200x\Rightarrow{x}=48\;\text{mm}.\,\blacksquare
 $$
 
 ## 复习题十一
@@ -179,7 +179,7 @@ $$
 $$
 
 $$
-4d=123000\Rightarrow{d}=30750\,\text{步}.
+4d=123000\Rightarrow{d}=30750\;\text{步}.
 $$
 
 代入 $\frac{h-5}{30750+123}=\frac{5}{123}$: 
@@ -189,7 +189,7 @@ h-5=\frac{5\times30873}{123}=1255.
 $$
 
 $$
-h=1255+5=1260\,\text{步}.
+h=1255+5=1260\;\text{步}.
 $$
 
 故山峰高度 $AB=1260$ 步, 水平距离 $BD=30750$ 步. $\blacksquare$
@@ -366,21 +366,21 @@ $$\left(\cos^{2}30^{\circ}+\sin^{2}30^{\circ}\right)\times\tan60^{\circ}=1\times
 
 (1) $AC=\sqrt{AB^{2}-BC^{2}}=\sqrt{36-4}=\sqrt{32}=4\sqrt{2}$. 故
 
-$$\sin{A}=\frac{BC}{AB}=\frac{1}{3},\,\cos{A}=\frac{AC}{AB}=\frac{2\sqrt{2}}{3},\,\tan{A}=\frac{BC}{AC}=\frac{2}{4\sqrt{2}}=\frac{\sqrt{2}}{4};$$
+$$\sin{A}=\frac{BC}{AB}=\frac{1}{3},\cos{A}=\frac{AC}{AB}=\frac{2\sqrt{2}}{3},\tan{A}=\frac{BC}{AC}=\frac{2}{4\sqrt{2}}=\frac{\sqrt{2}}{4};$$
 
-$$\sin{B}=\frac{AC}{AB}=\frac{2\sqrt{2}}{3},\,\cos{B}=\frac{BC}{AB}=\frac{1}{3},\,\tan{B}=\frac{AC}{BC}=2\sqrt{2}.$$
+$$\sin{B}=\frac{AC}{AB}=\frac{2\sqrt{2}}{3},\cos{B}=\frac{BC}{AB}=\frac{1}{3},\tan{B}=\frac{AC}{BC}=2\sqrt{2}.$$
 
 (2) $AB=\sqrt{AC^{2}+BC^{2}}=\sqrt{36+4}=\sqrt{40}=2\sqrt{10}$. 故
 
-$$\sin{A}=\frac{BC}{AB}=\frac{2}{2\sqrt{10}}=\frac{\sqrt{10}}{10},\,\cos{A}=\frac{AC}{AB}=\frac{6}{2\sqrt{10}}=\frac{3\sqrt{10}}{10},\,\tan{A}=\frac{BC}{AC}=\frac{1}{3};$$
+$$\sin{A}=\frac{BC}{AB}=\frac{2}{2\sqrt{10}}=\frac{\sqrt{10}}{10},\cos{A}=\frac{AC}{AB}=\frac{6}{2\sqrt{10}}=\frac{3\sqrt{10}}{10},\tan{A}=\frac{BC}{AC}=\frac{1}{3};$$
 
-$$\sin{B}=\frac{AC}{AB}=\frac{3\sqrt{10}}{10},\,\cos{B}=\frac{BC}{AB}=\frac{\sqrt{10}}{10},\,\tan{B}=\frac{AC}{BC}=3.$$
+$$\sin{B}=\frac{AC}{AB}=\frac{3\sqrt{10}}{10},\cos{B}=\frac{BC}{AB}=\frac{\sqrt{10}}{10},\tan{B}=\frac{AC}{BC}=3.$$
 
 (3) $BC=\sqrt{AB^{2}-AC^{2}}=\sqrt{6-2}=2$. 故
 
-$$\sin{A}=\frac{BC}{AB}=\frac{2}{\sqrt{6}}=\frac{\sqrt{6}}{3},\,\cos{A}=\frac{AC}{AB}=\frac{\sqrt{2}}{\sqrt{6}}=\frac{\sqrt{3}}{3},\,\tan{A}=\frac{BC}{AC}=\frac{2}{\sqrt{2}}=\sqrt{2};$$
+$$\sin{A}=\frac{BC}{AB}=\frac{2}{\sqrt{6}}=\frac{\sqrt{6}}{3},\cos{A}=\frac{AC}{AB}=\frac{\sqrt{2}}{\sqrt{6}}=\frac{\sqrt{3}}{3},\tan{A}=\frac{BC}{AC}=\frac{2}{\sqrt{2}}=\sqrt{2};$$
 
-$$\sin{B}=\frac{AC}{AB}=\frac{\sqrt{3}}{3},\,\cos{B}=\frac{BC}{AB}=\frac{\sqrt{6}}{3},\,\tan{B}=\frac{AC}{BC}=\frac{\sqrt{2}}{2}.\,\blacksquare$$
+$$\sin{B}=\frac{AC}{AB}=\frac{\sqrt{3}}{3},\cos{B}=\frac{BC}{AB}=\frac{\sqrt{6}}{3},\tan{B}=\frac{AC}{BC}=\frac{\sqrt{2}}{2}.\,\blacksquare$$
 
 ## 习题二
 

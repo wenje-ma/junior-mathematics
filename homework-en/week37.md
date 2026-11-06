@@ -266,7 +266,7 @@ Hence the difference is always $-7$, independent of $n$.
 
 (2) Can you explain the pattern you discovered using the knowledge from this chapter?
 
-(3) Use the pattern you discovered to solve the following problem: enclose a rectangle with a rope of length $10\,\text{m}$. What is the maximum area of the rectangle? What is the relationship between the two adjacent side lengths of the rectangle at that time?
+(3) Use the pattern you discovered to solve the following problem: enclose a rectangle with a rope of length $10\;\text{m}$. What is the maximum area of the rectangle? What is the relationship between the two adjacent side lengths of the rectangle at that time?
 
 ### Solution to Activity 2
 
@@ -280,7 +280,7 @@ $$\left(\frac{S}2+d\right)\left(\frac{S}2-d\right)=\frac{S^2}{4}-d^2.$$
 
 Hence the closer the two numbers (the smaller $d$), the larger the product; when $d=0$, i.e. the two numbers are equal, the product is maximal at $\frac{S^2}{4}$.
 
-(3) The perimeter is $10\,\text{m}$, so the sum of length and width is $5\,\text{m}$, i.e. $S=5$. Area $=$ length $\times$ width; by the above pattern, when the length and width are equal, i.e. both are $2.5\,\text{m}$, the area is maximal:
+(3) The perimeter is $10\;\text{m}$, so the sum of length and width is $5\;\text{m}$, i.e. $S=5$. Area $=$ length $\times$ width; by the above pattern, when the length and width are equal, i.e. both are $2.5\;\text{m}$, the area is maximal:
 
 $$S_{\max}=\frac{5^2}{4}=6.25\,\left(\text{m}^2\right).$$
 
@@ -450,23 +450,23 @@ Adding the two equations: $2\left(x^2+y^2\right)=34$, hence $x^2+y^2=17$. $\blac
 
 ## Review Problem 9
 
-(Review Problems, Comprehensive Application, Problem 9) When the side length of a square sheet is reduced by $2\,\text{cm}$, its area decreases by $20\,\text{cm}^2$. What is the side length of this square sheet?
+(Review Problems, Comprehensive Application, Problem 9) When the side length of a square sheet is reduced by $2\;\text{cm}$, its area decreases by $20\;\text{cm}^2$. What is the side length of this square sheet?
 
 ### Solution to Review Problem 9
 
-Let the original side length be $x\,\text{cm}$; then the original area is $x^2$, the reduced side length is $x-2$, and the area is $\left(x-2\right)^2$.
+Let the original side length be $x\;\text{cm}$; then the original area is $x^2$, the reduced side length is $x-2$, and the area is $\left(x-2\right)^2$.
 
 $$x^2-\left(x-2\right)^2=20,$$
 
 $$x^2-\left(x^2-4x+4\right)=4x-4=20,$$
 
-Solving gives $x=6$. That is, the original side length of the square is $6\,\text{cm}$. $\blacksquare$
+Solving gives $x=6$. That is, the original side length of the square is $6\;\text{cm}$. $\blacksquare$
 
 ## Review Problem 10
 
-(Review Problems, Comprehensive Application, Problem 10) As shown in the figure is a schematic diagram of a hollow steel column of a hydraulic press. If its height $h$ is $18\,\text{m}$, its outer diameter $D$ is $1\,\text{m}$, its inner diameter $d$ is $0.4\,\text{m}$, and the mass of steel per cubic meter is $7.8\,\text{t}$, find the mass of this column. (Take $\pi$ as $3.14$, and keep the result to two decimal places.)
+(Review Problems, Comprehensive Application, Problem 10) As shown in the figure is a schematic diagram of a hollow steel column of a hydraulic press. If its height $h$ is $18\;\text{m}$, its outer diameter $D$ is $1\;\text{m}$, its inner diameter $d$ is $0.4\;\text{m}$, and the mass of steel per cubic meter is $7.8\;\text{t}$, find the mass of this column. (Take $\pi$ as $3.14$, and keep the result to two decimal places.)
 
-The figure shows a vertically placed hollow cylindrical steel column: height $h=18\,\text{m}$, outer diameter $D=1\,\text{m}$, inner diameter $d=0.4\,\text{m}$; its cross section is an annulus.
+The figure shows a vertically placed hollow cylindrical steel column: height $h=18\;\text{m}$, outer diameter $D=1\;\text{m}$, inner diameter $d=0.4\;\text{m}$; its cross section is an annulus.
 
 ### Solution to Review Problem 10
 

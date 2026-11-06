@@ -532,17 +532,17 @@ $$
 
 ## 探究四
 
-(综合与实践 第 4 题) 求图中 "L" 形角钢横截面 (外轮廓 $30\,\text{cm}\times30\,\text{cm}$, 壁厚 $10\,\text{cm}$) 的重心位置.
+(综合与实践 第 4 题) 求图中 "L" 形角钢横截面 (外轮廓 $30\;\text{cm}\times30\;\text{cm}$, 壁厚 $10\;\text{cm}$) 的重心位置.
 
-图中为一个 "L" 形 (角钢) 横截面, 外轮廓为 $30\,\text{cm}\times30\,\text{cm}$ 的正方形去掉右上角 $20\,\text{cm}\times20\,\text{cm}$ 的小正方形, 壁厚 $10\,\text{cm}$; 即由左侧竖条 $10\,\text{cm}\times30\,\text{cm}$ 与底部横条 $20\,\text{cm}\times10\,\text{cm}$ 组成.
+图中为一个 "L" 形 (角钢) 横截面, 外轮廓为 $30\;\text{cm}\times30\;\text{cm}$ 的正方形去掉右上角 $20\;\text{cm}\times20\;\text{cm}$ 的小正方形, 壁厚 $10\;\text{cm}$; 即由左侧竖条 $10\;\text{cm}\times30\;\text{cm}$ 与底部横条 $20\;\text{cm}\times10\;\text{cm}$ 组成.
 
 ### 解答 探究四
 
 建立平面直角坐标系, 取横截面的左下角为原点, 两边沿坐标轴正方向. 将 L 形分割为两个矩形:
 
-竖矩形: 宽 $10\,\text{cm}$, 高 $30\,\text{cm}$, 面积 $S_1=300\,\text{cm}^2$, 重心 $\left(x_1,y_1\right)=\left(5,15\right)$.
+竖矩形: 宽 $10\;\text{cm}$, 高 $30\;\text{cm}$, 面积 $S_1=300\;\text{cm}^2$, 重心 $\left(x_1,y_1\right)=\left(5,15\right)$.
 
-横矩形 (底部扣除重叠部分): 长 $20\,\text{cm}$, 宽 $10\,\text{cm}$, 面积 $S_2=200\,\text{cm}^2$, 重心 $\left(x_2,y_2\right)=\left(20,5\right)$.
+横矩形 (底部扣除重叠部分): 长 $20\;\text{cm}$, 宽 $10\;\text{cm}$, 面积 $S_2=200\;\text{cm}^2$, 重心 $\left(x_2,y_2\right)=\left(20,5\right)$.
 
 由**结论 综合与实践二** (组合图形的重心),
 
@@ -554,7 +554,7 @@ $$
 \overline{y}=\frac{S_1y_1+S_2y_2}{S_1+S_2}=\frac{300\times15+200\times5}{500}=\frac{5500}{500}=11.
 $$
 
-故该 L 形横截面的重心位于距两外边缘均为 $11\,\text{cm}$ 处. $\blacksquare$
+故该 L 形横截面的重心位于距两外边缘均为 $11\;\text{cm}$ 处. $\blacksquare$
 
 ## 例题
 

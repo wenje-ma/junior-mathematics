@@ -272,31 +272,31 @@ Hence the current average daily production is $200$ machines. $\blacksquare$
 
 ## Review Problem 10
 
-(Review Problems, Comprehensive Application, Problem 10) The work efficiency of one harvester is equivalent to $150$ times that of one farmer; using this machine to harvest $10\,\text{hm}^2$ of wheat takes $1\,\text{h}$ less than $100$ farmers harvesting this wheat by hand. How many hectares of wheat does this harvester harvest per hour?
+(Review Problems, Comprehensive Application, Problem 10) The work efficiency of one harvester is equivalent to $150$ times that of one farmer; using this machine to harvest $10\;\text{hm}^2$ of wheat takes $1\;\text{h}$ less than $100$ farmers harvesting this wheat by hand. How many hectares of wheat does this harvester harvest per hour?
 
 ### Solution to Review Problem 10
 
-Let a farmer harvest $x\,\text{hm}^2$ per hour; the harvester is $150x$.
+Let a farmer harvest $x\;\text{hm}^2$ per hour; the harvester is $150x$.
 
 $$\frac{10}{100x}-\frac{10}{150x}=1.$$
 
 $$\frac{1}{10x}-\frac{1}{15x}=1,\quad\frac{3-2}{30x}=1,\quad{x}=\frac{1}{30}.$$
 
-The harvester harvests $150x=5\,\text{hm}^2$ per hour. $\blacksquare$
+The harvester harvests $150x=5\;\text{hm}^2$ per hour. $\blacksquare$
 
 ## Review Problem 11
 
-(Review Problems, Comprehensive Application, Problem 11) A car heads toward a destination $180\,\text{km}$ from its starting point; in the first hour after departure it travels at the originally planned constant speed, and after one hour it travels at $1.5$ times the original constant speed, arriving at the destination $40\,\text{min}$ earlier than originally planned. Find the speed in the first hour.
+(Review Problems, Comprehensive Application, Problem 11) A car heads toward a destination $180\;\text{km}$ from its starting point; in the first hour after departure it travels at the originally planned constant speed, and after one hour it travels at $1.5$ times the original constant speed, arriving at the destination $40\;\text{min}$ earlier than originally planned. Find the speed in the first hour.
 
 ### Solution to Review Problem 11
 
-Let the speed in the first hour be $x\,\text{km/h}$. The planned time is $\frac{180}{x}$. The actual time is $1+\frac{180-x}{1.5x}$. It is $\frac{2}{3}\,\text{h}$ early:
+Let the speed in the first hour be $x\;\text{km/h}$. The planned time is $\frac{180}{x}$. The actual time is $1+\frac{180-x}{1.5x}$. It is $\frac{2}{3}\;\text{h}$ early:
 
 $$\frac{180}{x}-\left(1+\frac{180-x}{1.5x}\right)=\frac23.$$
 
 $$\frac{180}{x}-1-\frac{120}{x}+\frac{2}{3}=\frac23,\quad\frac{60}{x}-1=0,\quad{x}=60.$$
 
-The check holds. Hence the speed in the first hour is $60\,\text{km/h}$. $\blacksquare$
+The check holds. Hence the speed in the first hour is $60\;\text{km/h}$. $\blacksquare$
 
 ## Review Problem 12
 
@@ -334,7 +334,7 @@ The numerator $=\left(a-b\right)^2+\left(b-c\right)^2+\left(c-a\right)^2$. For t
 
 (Exercise 19.1, Problem 1)
 
-To draw a rectangle with area \(18\,\text{cm}^{2}\) such that the ratio of its length to its width is \(3:2\), what should its length and width be?
+To draw a rectangle with area \(18\;\text{cm}^{2}\) such that the ratio of its length to its width is \(3:2\), what should its length and width be?
 
 Let the length of the rectangle be \(3k\) and the width be \(2k\) (\(k>0\)).
 
@@ -346,7 +346,7 @@ $$
 
 By Basic Knowledge, the positive number \(k\) satisfies \(k=\sqrt{3}\).
 
-Therefore the length is \(3\sqrt{3}\,\text{cm}\) and the width is \(2\sqrt{3}\,\text{cm}\).
+Therefore the length is \(3\sqrt{3}\;\text{cm}\) and the width is \(2\sqrt{3}\;\text{cm}\).
 
 \(\blacksquare\)
 

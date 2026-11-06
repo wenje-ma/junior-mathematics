@@ -54,7 +54,7 @@
 
 ## Exercise 1
 
-(Exercise 27.2, Problem 2) As shown in the figure, $BD=120\,\text{m}$, $DC=60\,\text{m}$, $EC=50\,\text{m}$ are measured. Find the river width $AB$.
+(Exercise 27.2, Problem 2) As shown in the figure, $BD=120\;\text{m}$, $DC=60\;\text{m}$, $EC=50\;\text{m}$ are measured. Find the river width $AB$.
 
 ### Solution to Exercise 1
 
@@ -65,24 +65,24 @@ $$
 $$
 
 $$
-AB=2\times{E}C=2\times50=100\,\text{m}.\,\blacksquare
+AB=2\times{E}C=2\times50=100\;\text{m}.\,\blacksquare
 $$
 
 ## Problem 1
 
-(Problem 27.2, Review and Consolidation, Problem 1) There is a triangular meadow with one side of length $25\,\text{m}$. On the drawing, this side is $5\,\text{cm}$ long, and the other two sides are both $4\,\text{cm}$ long. Find the actual lengths of the other two sides.
+(Problem 27.2, Review and Consolidation, Problem 1) There is a triangular meadow with one side of length $25\;\text{m}$. On the drawing, this side is $5\;\text{cm}$ long, and the other two sides are both $4\;\text{cm}$ long. Find the actual lengths of the other two sides.
 
 ### Solution to Problem 1
 
-The similarity ratio between the drawing and the actual is $5\,\text{cm}:25\,\text{m}=5:2500=1:500$.
+The similarity ratio between the drawing and the actual is $5\;\text{cm}:25\;\text{m}=5:2500=1:500$.
 
-The other two sides are $4\,\text{cm}$ on the drawing, so their actual lengths are $4\times500=2000\,\text{cm}=20\,\text{m}$. $\blacksquare$
+The other two sides are $4\;\text{cm}$ on the drawing, so their actual lengths are $4\times500=2000\;\text{cm}=20\;\text{m}$. $\blacksquare$
 
 ## Problem 2
 
 (Problem 27.2, Review and Consolidation, Problem 2) Based on the following conditions, determine whether $\triangle{A}BC$ and $\triangle{A}'B'C'$ are similar, and explain your reasoning:
 
-(1) $AB=10\,\text{cm}$, $BC=12\,\text{cm}$, $AC=15\,\text{cm}$, $A'B'=150\,\text{cm}$, $B'C'=180\,\text{cm}$, $A'C'=225\,\text{cm}$;
+(1) $AB=10\;\text{cm}$, $BC=12\;\text{cm}$, $AC=15\;\text{cm}$, $A'B'=150\;\text{cm}$, $B'C'=180\;\text{cm}$, $A'C'=225\;\text{cm}$;
 
 (2) $\angle{A}=70^\circ$, $\angle{B}=48^\circ$, $\angle{A}'=70^\circ$, $\angle{C}'=62^\circ$.
 
@@ -126,17 +126,17 @@ $DE\parallel{B}C$, so $\triangle{A}DE\backsim\triangle{A}BC$; $FG\parallel{B}C$,
 
 ## Problem 6
 
-(Problem 27.2, Review and Consolidation, Problem 6) If a right triangle with legs $30\,\text{cm}$ and $40\,\text{cm}$ is reduced by a similarity ratio of $\frac{3}{5}$, what are the lengths of the two legs and the area of the resulting right triangle?
+(Problem 27.2, Review and Consolidation, Problem 6) If a right triangle with legs $30\;\text{cm}$ and $40\;\text{cm}$ is reduced by a similarity ratio of $\frac{3}{5}$, what are the lengths of the two legs and the area of the resulting right triangle?
 
 ### Solution to Problem 6
 
-After reduction, the two legs are $30\times\frac{3}{5}=18\,\text{cm}$ and $40\times\frac{3}{5}=24\,\text{cm}$.
+After reduction, the two legs are $30\times\frac{3}{5}=18\;\text{cm}$ and $40\times\frac{3}{5}=24\;\text{cm}$.
 
-The area is $\frac{1}{2}\times18\times24=216\,\text{cm}^2$. $\blacksquare$
+The area is $\frac{1}{2}\times18\times24=216\;\text{cm}^2$. $\blacksquare$
 
 ## Problem 7
 
-(Problem 27.2, Comprehensive Application, Problem 7) As shown in the figure, $AD$ is the altitude to the hypotenuse of $\text{Rt}\triangle{A}BC$. If $AB=4\,\text{cm}$, $BC=10\,\text{cm}$, find the length of $BD$.
+(Problem 27.2, Comprehensive Application, Problem 7) As shown in the figure, $AD$ is the altitude to the hypotenuse of $\text{Rt}\triangle{A}BC$. If $AB=4\;\text{cm}$, $BC=10\;\text{cm}$, find the length of $BD$.
 
 ### Solution to Problem 7
 
@@ -147,7 +147,7 @@ $$
 $$
 
 $$
-BD=\frac{AB^2}{BC}=\frac{16}{10}=1.6\,\text{cm}.\,\blacksquare
+BD=\frac{AB^2}{BC}=\frac{16}{10}=1.6\;\text{cm}.\,\blacksquare
 $$
 
 ## Problem 8
@@ -166,7 +166,7 @@ Therefore $AB=3CD$. $\blacksquare$
 
 ## Problem 9
 
-(Problem 27.2, Comprehensive Application, Problem 9) As shown in the figure, a sighting pole $BE$ is used to measure the height of a building. The sighting pole $BE$ is $1.2\,\text{m}$ high, and $AB=1.6\,\text{m}$, $BC=12.4\,\text{m}$ are measured. What is the height $CD$ of the building?
+(Problem 27.2, Comprehensive Application, Problem 9) As shown in the figure, a sighting pole $BE$ is used to measure the height of a building. The sighting pole $BE$ is $1.2\;\text{m}$ high, and $AB=1.6\;\text{m}$, $BC=12.4\;\text{m}$ are measured. What is the height $CD$ of the building?
 
 ### Solution to Problem 9
 
@@ -177,12 +177,12 @@ $$
 $$
 
 $$
-CD=\frac{1.2\times14}{1.6}=10.5\,\text{m}.\,\blacksquare
+CD=\frac{1.2\times14}{1.6}=10.5\;\text{m}.\,\blacksquare
 $$
 
 ## Problem 10
 
-(Problem 27.2, Comprehensive Application, Problem 10) As shown in the figure, to measure the height of a building, student Wang Qing places a mirror at her feet and then steps backward until she can just see the top of the building in the mirror. At this time, is $\angle{L}MK$ equal to $\angle{S}MT$? If Wang Qing is $1.55\,\text{m}$ tall, her eyes are $1.50\,\text{m}$ above the ground, and $LM=30\,\text{cm}$, $MS=2\,\text{m}$ are measured, how tall is the building?
+(Problem 27.2, Comprehensive Application, Problem 10) As shown in the figure, to measure the height of a building, student Wang Qing places a mirror at her feet and then steps backward until she can just see the top of the building in the mirror. At this time, is $\angle{L}MK$ equal to $\angle{S}MT$? If Wang Qing is $1.55\;\text{m}$ tall, her eyes are $1.50\;\text{m}$ above the ground, and $LM=30\;\text{cm}$, $MS=2\;\text{m}$ are measured, how tall is the building?
 
 ### Solution to Problem 10
 
@@ -194,7 +194,7 @@ $$
 \frac{KL}{TS}=\frac{LM}{SM}=\frac{0.3}{2}=\frac{3}{20}.
 $$
 
-$KL=1.50\,\text{m}$, so $TS=1.50\times\frac{20}{3}=10\,\text{m}$. $\blacksquare$
+$KL=1.50\;\text{m}$, so $TS=1.50\times\frac{20}{3}=10\;\text{m}$. $\blacksquare$
 
 ## Problem 11
 

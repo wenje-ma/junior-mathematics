@@ -301,7 +301,7 @@ Whether the parts coincide after folding shows whether that line is an axis of s
 (Exercise 15.2, Problem 1) Write respectively the coordinates of the points symmetric to each of the following points about the $x$-axis and the $y$-axis:
 
 $$
-\left(-2,6\right),\,\left(1,-2\right),\,\left(1,3\right),\,\left(-4,-2\right),\,\left(1,0\right).
+\left(-2,6\right),\left(1,-2\right),\left(1,3\right),\left(-4,-2\right),\left(1,0\right).
 $$
 
 ### Solution to Exercise 10

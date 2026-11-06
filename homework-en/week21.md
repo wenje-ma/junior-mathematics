@@ -64,7 +64,7 @@ $$
 V=\pi{r}^2h=3.14\times95^2\times58.
 $$
 
-Compute: $95^2=9025$, $V=3.14\times9025\times58=1645553\,\text{mm}^3$.
+Compute: $95^2=9025$, $V=3.14\times9025\times58=1645553\;\text{mm}^3$.
 
 Let the edge length of the cube be $x$; $x^3=1645553$, $x=\sqrt\left[3\right]{1645553}\approx118$.
 
@@ -97,7 +97,7 @@ The figure shows a Cartesian coordinate plane with $x$-axis, $y$-axis, and origi
 By **Definition 9.1.2 (Coordinates of a Point)**, draw a perpendicular from the point to the $x$-axis to get the x-coordinate, and to the $y$-axis to get the y-coordinate. Reading off the coordinates of the points,
 
 $$
-A\left(-3,-2\right),\,B\left(-5,4\right),\,C\left(5,-4\right),\,D\left(0,-3\right),\,E\left(2,5\right),\,F\left(-4,0\right).
+A\left(-3,-2\right),B\left(-5,4\right),C\left(5,-4\right),D\left(0,-3\right),E\left(2,5\right),F\left(-4,0\right).
 $$
 
 Among them, $D$ is on the $y$-axis (x-coordinate $0$), and $F$ is on the $x$-axis (y-coordinate $0$). $\blacksquare$
@@ -163,7 +163,7 @@ By **Definition 9.1.1 (Rectangular Coordinate System)**, choose one right-angle 
 By **Definition 9.1.2 (Coordinates of a Point)**, through each point draw perpendiculars to the $x$-axis and $y$-axis respectively, and read off the number corresponding to the foot. The coordinates of the points are
 
 $$
-A\left(-5,4\right),\,B\left(-2,2\right),\,C\left(4,4\right),\,D\left(2,1\right),\,E\left(5,-3\right),\,F\left(0,-2\right),\,G\left(-4,-4\right),\,H\left(-3,-1\right).
+A\left(-5,4\right),B\left(-2,2\right),C\left(4,4\right),D\left(2,1\right),E\left(5,-3\right),F\left(0,-2\right),G\left(-4,-4\right),H\left(-3,-1\right).
 $$
 
 The first number of each point is the x-coordinate, and the second number is the y-coordinate. $\blacksquare$
@@ -203,7 +203,7 @@ The figure shows a Cartesian coordinate plane with points $B\left(0,0\right)$, $
 With $B$ as the origin and the line on which $BC$ lies as the $x$-axis, $C\left(4,0\right)$. By **Definition 9.1.2 (Coordinates of a Point)**, read off the coordinates:
 
 $$
-A\left(-2,2\right),\,D\left(5,1\right),\,E\left(4,2\right),\,F\left(2,0\right),\,G\left(1,4\right).
+A\left(-2,2\right),D\left(5,1\right),E\left(4,2\right),F\left(2,0\right),G\left(1,4\right).
 $$
 
 Judge by **Definition 9.1.3 (Quadrants)**: $A\left(-2,2\right)$ has negative x and positive y, in the second quadrant; $D\left(5,1\right)$, $E\left(4,2\right)$, $G\left(1,4\right)$ have both x and y positive, in the first quadrant; $F\left(2,0\right)$ is on the $x$-axis, belonging to no quadrant; $B\left(0,0\right)$ is the origin, and $C\left(4,0\right)$ is on the $x$-axis. $\blacksquare$

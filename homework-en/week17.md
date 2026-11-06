@@ -362,13 +362,13 @@ The corresponding points are $A$ and $D$, $B$ and $E$, $C$ and $F$. Parallel seg
 
 ## Problem 13
 
-(Exercise 7.4, Review and Consolidation, Problem 3) Translate quadrilateral $ABCD$ by $1\,\text{cm}$ in the direction of the arrow, and draw the translated quadrilateral $A'B'C'D'$.
+(Exercise 7.4, Review and Consolidation, Problem 3) Translate quadrilateral $ABCD$ by $1\;\text{cm}$ in the direction of the arrow, and draw the translated quadrilateral $A'B'C'D'$.
 
 ### Solution to Problem 13
 
-By Properties of Translation, move every vertex by $1\,\text{cm}$ in the direction of the arrow.
+By Properties of Translation, move every vertex by $1\;\text{cm}$ in the direction of the arrow.
 
-Through $A$, $B$, $C$, $D$ respectively draw segments parallel to the arrow and of length $1\,\text{cm}$, obtaining the corresponding points $A'$, $B'$, $C'$, $D'$; connect them in order to obtain the translated quadrilateral $A'B'C'D'$. $\blacksquare$
+Through $A$, $B$, $C$, $D$ respectively draw segments parallel to the arrow and of length $1\;\text{cm}$, obtaining the corresponding points $A'$, $B'$, $C'$, $D'$; connect them in order to obtain the translated quadrilateral $A'B'C'D'$. $\blacksquare$
 
 ## Problem 14
 
@@ -400,15 +400,15 @@ By Properties of Translation, repeatedly translate this basic figure composed of
 
 ## Problem 16
 
-(Exercise 7.4, Extension and Exploration, Problem 6) As shown in the figure, on a rectangular lawn of length $a\,\text{m}$ and width $b\,\text{m}$, there is a winding path; the left edge of the path, translated $1\,\text{m}$ to the right, is its right edge. Find the area covered by grass on this lawn.
+(Exercise 7.4, Extension and Exploration, Problem 6) As shown in the figure, on a rectangular lawn of length $a\;\text{m}$ and width $b\;\text{m}$, there is a winding path; the left edge of the path, translated $1\;\text{m}$ to the right, is its right edge. Find the area covered by grass on this lawn.
 
-The figure shows a rectangular lawn of length $a$ and width $b$, with a winding path running through it; the left edge of the path, translated $1\,\text{m}$ to the right, is its right edge.
+The figure shows a rectangular lawn of length $a$ and width $b$, with a winding path running through it; the left edge of the path, translated $1\;\text{m}$ to the right, is its right edge.
 
 ### Solution to Problem 16
 
 By Properties of Translation, translation does not change the shape or size of a figure.
 
-The left edge of the path translated $1\,\text{m}$ to the right is the right edge, which means the path has width $1\,\text{m}$ in any transverse direction. Translate the lawn on both sides of the path toward the middle and join them; they form a new rectangle whose width is still $b$ and whose length is reduced by $1$, namely $a-1$.
+The left edge of the path translated $1\;\text{m}$ to the right is the right edge, which means the path has width $1\;\text{m}$ in any transverse direction. Translate the lawn on both sides of the path toward the middle and join them; they form a new rectangle whose width is still $b$ and whose length is reduced by $1$, namely $a-1$.
 
 Since translation does not change area, the grass-covered area equals the area of the joined rectangle:
 
@@ -416,7 +416,7 @@ $$
 S=\left(a-1\right)b=ab-b\quad\left(\text{m}^2\right).
 $$
 
-Thus the grass-covered area of this lawn is $\left(ab-b\right)\,\text{m}^2$. $\blacksquare$
+Thus the grass-covered area of this lawn is $\left(ab-b\right)\;\text{m}^2$. $\blacksquare$
 
 ## Inquiry and Discovery 1
 

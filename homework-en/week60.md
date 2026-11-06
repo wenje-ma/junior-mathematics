@@ -34,9 +34,9 @@ the domain of $x$ is all real numbers with $x\ne0$. $\blacksquare$
 
 (2) Typing a $32000$-word survey report; the relation between the time $t$ used and the average typing speed $v$ (words/min);
 
-(3) Two cities are $2240\,\text{km}$ apart; the relation between average speed $v$ and total travel time $t$;
+(3) Two cities are $2240\;\text{km}$ apart; the relation between average speed $v$ and total travel time $t$;
 
-(4) A train travels at $300\,\text{km/h}$; the relation between distance $s$ traveled and time $t$.
+(4) A train travels at $300\;\text{km/h}$; the relation between distance $s$ traveled and time $t$.
 
 ### Solution to Problem 1
 
@@ -164,7 +164,7 @@ By Basic Knowledge.
 
 ## Problem 6
 
-(Exercise 27.2, Review and Consolidation, Problem 3) Making an open rectangular box with base area $20\,\text{cm}^2$, what function describes the relation between one side $y$ of the base rectangle and its adjacent side $x$? In which quadrant does the graph roughly lie?
+(Exercise 27.2, Review and Consolidation, Problem 3) Making an open rectangular box with base area $20\;\text{cm}^2$, what function describes the relation between one side $y$ of the base rectangle and its adjacent side $x$? In which quadrant does the graph roughly lie?
 
 ### Solution to Problem 6
 
@@ -226,11 +226,11 @@ When $k>0$, the graph of $y=kx$ is a line through the origin in the first and th
 
 ## Exercise 7
 
-(Exercise 27.3, Problem 1) Make a conical funnel with a volume of $120\,\text{cm}^3$.
+(Exercise 27.3, Problem 1) Make a conical funnel with a volume of $120\;\text{cm}^3$.
 
 (1) What is the functional relationship between the area $S$ of the funnel opening (unit: $\text{cm}^2$) and the depth $h$ of the funnel (unit: $\text{cm}$)?
 
-(2) If the area of the funnel opening is at most $50\,\text{cm}^2$, what is the minimum depth of the funnel?
+(2) If the area of the funnel opening is at most $50\;\text{cm}^2$, what is the minimum depth of the funnel?
 
 ### Solution to Exercise 7
 
@@ -240,7 +240,7 @@ $$
 S=\frac{360}{h}.
 $$
 
-(2) Set $S\le50$, i.e. $\frac{360}{h}\le50$; since $h>0$, we get $h\ge7.2$. Hence the depth of the funnel is at least $7.2\,\text{cm}$. $\blacksquare$
+(2) Set $S\le50$, i.e. $\frac{360}{h}\le50$; since $h>0$, we get $h\ge7.2$. Hence the depth of the funnel is at least $7.2\;\text{cm}$. $\blacksquare$
 
 ## Exercise 8
 
@@ -278,11 +278,11 @@ $$
 y=\frac{100}{x}.
 $$
 
-Set $y=500$, we get $500=\frac{100}{x}$, i.e. $x=0.2\,\text{m}$. Hence the focal length is $0.2\,\text{m}$. $\blacksquare$
+Set $y=500$, we get $500=\frac{100}{x}$, i.e. $x=0.2\;\text{m}$. Hence the focal length is $0.2\;\text{m}$. $\blacksquare$
 
 ## Exercise 10
 
-(Exercise 27.3, Problem 4) The variable resistance $R$ of an electric appliance ranges over $110\sim220\,\Omega$, the voltage is $U=220\,\text{V}$, and the power is $P=\frac{U^2}{R}$.
+(Exercise 27.3, Problem 4) The variable resistance $R$ of an electric appliance ranges over $110\sim220\,\Omega$, the voltage is $U=220\;\text{V}$, and the power is $P=\frac{U^2}{R}$.
 
 (1) What is the functional relationship between the power $P$ and the resistance $R$?
 
@@ -292,7 +292,7 @@ Set $y=500$, we get $500=\frac{100}{x}$, i.e. $x=0.2\,\text{m}$. Hence the focal
 
 (1) $P=\frac{220^2}{R}=\frac{48400}{R}$.
 
-(2) $P$ decreases as $R$ increases. When $R=110$, $P=440\,\text{W}$; when $R=220$, $P=220\,\text{W}$. Hence the power range is $220\sim440\,\text{W}$. $\blacksquare$
+(2) $P$ decreases as $R$ increases. When $R=110$, $P=440\;\text{W}$; when $R=220$, $P=220\;\text{W}$. Hence the power range is $220\sim440\;\text{W}$. $\blacksquare$
 
 ## Problem 11
 
@@ -304,7 +304,7 @@ For example: when the distance is fixed, the average speed and the travel time a
 
 ## Problem 12
 
-(Exercise 27.3, Review and Consolidation, Problem 2) It is planned to build a rectangular experimental field with an area of $2000\,\text{m}^2$.
+(Exercise 27.3, Review and Consolidation, Problem 2) It is planned to build a rectangular experimental field with an area of $2000\;\text{m}^2$.
 
 (1) What is the function expression for one side length $y$ in terms of the adjacent side length $x$?
 
@@ -314,25 +314,25 @@ For example: when the distance is fixed, the average speed and the travel time a
 
 (1) From $xy=2000$, we get $y=\frac{2000}{x}$.
 
-(2) The side ratio is $2:1$; let the long side be $y=2x$, then $x\cdot2x=2000$, $x^2=1000$, taking the positive root $x=10\sqrt{10}\approx31.6\,\text{m}$, $y=20\sqrt{10}\approx63.2\,\text{m}$. $\blacksquare$
+(2) The side ratio is $2:1$; let the long side be $y=2x$, then $x\cdot2x=2000$, $x^2=1000$, taking the positive root $x=10\sqrt{10}\approx31.6\;\text{m}$, $y=20\sqrt{10}\approx63.2\;\text{m}$. $\blacksquare$
 
 ## Problem 13
 
-(Exercise 27.3, Review and Consolidation, Problem 3) A cafeteria buys $3000\,\text{kg}$ of rice.
+(Exercise 27.3, Review and Consolidation, Problem 3) A cafeteria buys $3000\;\text{kg}$ of rice.
 
 (1) What is the functional relationship between the number of days $m$ the rice lasts and the daily consumption $n$?
 
-(2) If $200\sim250\,\text{kg}$ of rice is used per day, after how many days at least must more be purchased?
+(2) If $200\sim250\;\text{kg}$ of rice is used per day, after how many days at least must more be purchased?
 
 ### Solution to Problem 13
 
 (1) From $mn=3000$, we get $m=\frac{3000}{n}$.
 
-(2) $m$ decreases as $n$ increases. When the daily consumption is at most $250\,\text{kg}$, the rice lasts the shortest, $m=\frac{3000}{250}=12$ days. Hence at least $12$ days later more rice must be purchased. $\blacksquare$
+(2) $m$ decreases as $n$ increases. When the daily consumption is at most $250\;\text{kg}$, the rice lasts the shortest, $m=\frac{3000}{250}=12$ days. Hence at least $12$ days later more rice must be purchased. $\blacksquare$
 
 ## Problem 14
 
-(Exercise 27.3, Review and Consolidation, Problem 4) When the pressure is fixed, the pressure intensity $p$ is an inverse proportional function of the area under force $S$. Given that when $S=0.5$, $p=400\,\text{Pa}$, fill in the table.
+(Exercise 27.3, Review and Consolidation, Problem 4) When the pressure is fixed, the pressure intensity $p$ is an inverse proportional function of the area under force $S$. Given that when $S=0.5$, $p=400\;\text{Pa}$, fill in the table.
 
 ### Solution to Problem 14
 
@@ -354,7 +354,7 @@ From $t=\frac{s}v$ and $v>0$, the graph is one branch of an inverse proportional
 
 (1) Write the function expression for $\rho$ in terms of $V$;
 
-(2) When $V=9\,\text{m}^3$, find the density of the carbon dioxide.
+(2) When $V=9\;\text{m}^3$, find the density of the carbon dioxide.
 
 ### Solution to Problem 16
 
@@ -364,15 +364,15 @@ $$
 \rho=\frac{9.9}{V}.
 $$
 
-When $V=9$, $\rho=\frac{9.9}{9}=1.1\,\text{kg/m}^3$. $\blacksquare$
+When $V=9$, $\rho=\frac{9.9}{9}=1.1\;\text{kg/m}^3$. $\blacksquare$
 
 ## Problem 17
 
-(Exercise 27.3, Comprehensive Application, Problem 7) Use $4$ picking machines of the same model to pick $600\,\text{hm}^2$ of cotton.
+(Exercise 27.3, Comprehensive Application, Problem 7) Use $4$ picking machines of the same model to pick $600\;\text{hm}^2$ of cotton.
 
 (1) What is the functional relationship between the required time $y$ and the efficiency $x$ of each machine?
 
-(2) If the $4$ machines together can pick $60\,\text{hm}^2$ per day, how many days at least are needed to finish?
+(2) If the $4$ machines together can pick $60\;\text{hm}^2$ per day, how many days at least are needed to finish?
 
 ### Solution to Problem 17
 
@@ -386,7 +386,7 @@ When $V=9$, $\rho=\frac{9.9}{9}=1.1\,\text{kg/m}^3$. $\blacksquare$
 
 (1) Write the function expression for $I$ in terms of $R$;
 
-(2) The current must not exceed $10\,\text{A}$. What range should the variable resistance be controlled within?
+(2) The current must not exceed $10\;\text{A}$. What range should the variable resistance be controlled within?
 
 The figure shows a branch of a hyperbola in the first quadrant of a rectangular coordinate plane, with resistance $R$ (in $\Omega$) on the horizontal axis and current $I$ (in A) on the vertical axis; the curve passes through the point $\left(9,4\right)$ and approaches both coordinate axes as asymptotes.
 
@@ -413,7 +413,7 @@ $$
 
 (1) Determine the function expression for $y$ in terms of $x$;
 
-(2) If the pixel density is about $40\,\text{PPI}$, what is the screen size?
+(2) If the pixel density is about $40\;\text{PPI}$, what is the screen size?
 
 ### Solution to Problem 19
 
@@ -435,11 +435,11 @@ Let the area of each rectangle be the constant $k$, one side length be $x$, and 
 
 ## Activity 2
 
-(Mathematical Activity, Activity 2, Problem 1) A simple cylindrical hydrometer has mass $7.2\,\text{g}$ and base area $1\,\text{cm}^2$, and floats in a liquid. Experimentally measured data of the immersion depth $h$ and the liquid density $\rho$ are given.
+(Mathematical Activity, Activity 2, Problem 1) A simple cylindrical hydrometer has mass $7.2\;\text{g}$ and base area $1\;\text{cm}^2$, and floats in a liquid. Experimentally measured data of the immersion depth $h$ and the liquid density $\rho$ are given.
 
 (1) What is the functional relationship between $h$ and $\rho$?
 
-(2) When floating in milk, the immersion depth is $6.99\,\text{cm}$. Find the density of milk.
+(2) When floating in milk, the immersion depth is $6.99\;\text{cm}$. Find the density of milk.
 
 ### Solution to Activity 2
 
@@ -451,7 +451,7 @@ $$
 
 i.e. $h$ and $\rho$ are in inverse proportion.
 
-(2) Substituting $h=6.99$ gives $\rho=\frac{7.2}{6.99}\approx1.03\,\text{g/cm}^3$. Hence the density of milk is about $1.03\,\text{g/cm}^3$. $\blacksquare$
+(2) Substituting $h=6.99$ gives $\rho=\frac{7.2}{6.99}\approx1.03\;\text{g/cm}^3$. Hence the density of milk is about $1.03\;\text{g/cm}^3$. $\blacksquare$
 
 ## Review Problem 1
 

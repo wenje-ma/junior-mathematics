@@ -54,11 +54,11 @@ The figure shows a plane rectangular coordinate system with integer tick marks o
 
 By **Definition 22.2.1 (Graph of a Function)**, the x-coordinate of a point on the graph is the working time $t$, and the y-coordinate is the greened area $S$.
 
-(1) From the graph, from $t=0$ to $t=1\,\text{h}$, the greened area increases from $0$ to $60\,\text{m}^2$, so the team was working. Thus before the break the team worked for $1\,\text{h}$, and the greened area was $60\,\text{m}^2$.
+(1) From the graph, from $t=0$ to $t=1\;\text{h}$, the greened area increases from $0$ to $60\;\text{m}^2$, so the team was working. Thus before the break the team worked for $1\;\text{h}$, and the greened area was $60\;\text{m}^2$.
 
-(2) From $t=1\,\text{h}$ to $t=2\,\text{h}$, the greened area stays at $60\,\text{m}^2$; the graph is a segment parallel to the $t$-axis, showing the team was resting. Thus the break lasted $2-1=1\,\text{h}$.
+(2) From $t=1\;\text{h}$ to $t=2\;\text{h}$, the greened area stays at $60\;\text{m}^2$; the graph is a segment parallel to the $t$-axis, showing the team was resting. Thus the break lasted $2-1=1\;\text{h}$.
 
-(3) From $t=2\,\text{h}$ to $t=4\,\text{h}$, the greened area increases from $60\,\text{m}^2$ to $160\,\text{m}^2$. After the break the team worked $4-2=2\,\text{h}$ and greened $160-60=100\,\text{m}^2$. Thus the area greened per hour is $100\div2=50\,\text{m}^2/\text{h}$. $\blacksquare$
+(3) From $t=2\;\text{h}$ to $t=4\;\text{h}$, the greened area increases from $60\;\text{m}^2$ to $160\;\text{m}^2$. After the break the team worked $4-2=2\;\text{h}$ and greened $160-60=100\;\text{m}^2$. Thus the area greened per hour is $100\div2=50\;\text{m}^2/\text{h}$. $\blacksquare$
 
 ## Exercise 3
 
@@ -86,9 +86,9 @@ By **Definition 22.2.1 (Graph of a Function)**, the intersection of the two curv
 
 ### Solution to Exercise 4
 
-By **Definition 22.2.1 (Graph of a Function)**, the graph shows the distance from home $y$ (unit: m) versus time $t$ (unit: min): it takes about $15\,\text{min}$ to go from $0$ to $1000\,\text{m}$, there is a stop in the middle, then return home.
+By **Definition 22.2.1 (Graph of a Function)**, the graph shows the distance from home $y$ (unit: m) versus time $t$ (unit: min): it takes about $15\;\text{min}$ to go from $0$ to $1000\;\text{m}$, there is a stop in the middle, then return home.
 
-Construct the scenario: Xiao Ming leaves home, walks at a steady pace for $15\,\text{min}$ to a library $1000\,\text{m}$ from home, stays there for a while reading, then walks steadily home. Here $y$ is Xiao Ming's distance from home and $t$ is time. $\blacksquare$
+Construct the scenario: Xiao Ming leaves home, walks at a steady pace for $15\;\text{min}$ to a library $1000\;\text{m}$ from home, stays there for a while reading, then walks steadily home. Here $y$ is Xiao Ming's distance from home and $t$ is time. $\blacksquare$
 
 ## Exercise 5
 
@@ -126,13 +126,13 @@ $\blacksquare$
 
 ## Exercise 7
 
-(Exercise 22.2, Problem 3) A boat moves at a steady speed along a straight line toward a dock. At $0\,\text{min}$, $2\,\text{min}$, $4\,\text{min}$, $6\,\text{min}$, the distances from the boat to the dock are measured as $200\,\text{m}$, $150\,\text{m}$, $100\,\text{m}$, $50\,\text{m}$. Is the distance $s$ (unit: m) from the boat to the dock a function of time $t$ (unit: min)? If so, write the analytic expression, draw the graph, and calculate how long it takes the boat to reach the dock.
+(Exercise 22.2, Problem 3) A boat moves at a steady speed along a straight line toward a dock. At $0\;\text{min}$, $2\;\text{min}$, $4\;\text{min}$, $6\;\text{min}$, the distances from the boat to the dock are measured as $200\;\text{m}$, $150\;\text{m}$, $100\;\text{m}$, $50\;\text{m}$. Is the distance $s$ (unit: m) from the boat to the dock a function of time $t$ (unit: min)? If so, write the analytic expression, draw the graph, and calculate how long it takes the boat to reach the dock.
 
 ### Solution to Exercise 7
 
 By **Definition 22.1.2 (Function)**, for each definite value of time $t$, the distance $s$ from the boat to the dock has a unique definite value, so $s$ is a function of $t$.
 
-The boat moves at a steady speed of $\left(200-150\right)\div2=25\,\text{m/min}$. The initial distance is $200\,\text{m}$, so the analytic expression is
+The boat moves at a steady speed of $\left(200-150\right)\div2=25\;\text{m/min}$. The initial distance is $200\;\text{m}$, so the analytic expression is
 
 $$
 s=200-25t\quad\left(0\leq{t}\leq8\right).
@@ -140,7 +140,7 @@ $$
 
 The figure shows a plane rectangular coordinate system with horizontal axis time $t$ (unit: min) and vertical axis distance $s$ (unit: m); a line segment joining points $\left(0,200\right)$ and $\left(8,0\right)$, namely the graph of $s=200-25t$ ($0\leq{t}\leq8$).
 
-When the boat reaches the dock, $s=0$, i.e. $200-25t=0$, giving $t=8\,\text{min}$. Thus the boat takes $8\,\text{min}$ to reach the dock. $\blacksquare$
+When the boat reaches the dock, $s=0$, i.e. $200-25t=0$, giving $t=8\;\text{min}$. Thus the boat takes $8\;\text{min}$ to reach the dock. $\blacksquare$
 
 ## Problem 1
 
@@ -204,13 +204,13 @@ Thus the graph that best represents $y$ vs $x$ is: a segment starting at some po
 
 By **Definition 22.2.1 (Graph of a Function)**, the x-coordinate is time $x$, and the y-coordinate is distance from home $y$.
 
-(1) From the y-coordinate, the stadium is $2.5\,\text{km}$ from home; from the x-coordinate, it took Liu Wei $15\,\text{min}$ to reach the stadium.
+(1) From the y-coordinate, the stadium is $2.5\;\text{km}$ from home; from the x-coordinate, it took Liu Wei $15\;\text{min}$ to reach the stadium.
 
-(2) The distance from the stadium to the stationery store is $2.5-1.5=1\,\text{km}$.
+(2) The distance from the stadium to the stationery store is $2.5-1.5=1\;\text{km}$.
 
-(3) Liu Wei stayed at the stationery store for $100-65=35\,\text{min}$.
+(3) Liu Wei stayed at the stationery store for $100-65=35\;\text{min}$.
 
-(4) The stationery store is $1.5\,\text{km}$ from home, and the walk home took $100-65=35\,\text{min}$. The average speed is $1.5\div35=\frac{3}{70}\,\text{km/min}$. $\blacksquare$
+(4) The stationery store is $1.5\;\text{km}$ from home, and the walk home took $100-65=35\;\text{min}$. The average speed is $1.5\div35=\frac{3}{70}\;\text{km/min}$. $\blacksquare$
 
 ## Problem 5
 
@@ -220,7 +220,7 @@ By **Definition 22.2.1 (Graph of a Function)**, the x-coordinate is time $x$, an
 |---|---|---|---|---|---|
 | Maximum distance/m | $21.70$ | $21.78$ | $21.85$ | $21.89$ | $21.91$ |
 
-(1) Let the release angle be $x^\circ$ and the maximum distance be $y\,\text{m}$. Is $y$ a function of $x$? Why?
+(1) Let the release angle be $x^\circ$ and the maximum distance be $y\;\text{m}$. Is $y$ a function of $x$? Why?
 
 (2) From the table, as the release angle increases, how does the maximum distance change?
 
@@ -228,7 +228,7 @@ By **Definition 22.2.1 (Graph of a Function)**, the x-coordinate is time $x$, an
 
 (1) By **Definition 22.1.2 (Function)**, for each definite value of the release angle $x$, the maximum distance $y$ has a unique definite value, so $y$ is a function of $x$.
 
-(2) From the table, as the release angle increases from $38^\circ$ to $42^\circ$, the maximum distance increases from $21.70\,\text{m}$ to $21.91\,\text{m}$; that is, the maximum distance increases with the release angle, but the rate of increase gradually slows. $\blacksquare$
+(2) From the table, as the release angle increases from $38^\circ$ to $42^\circ$, the maximum distance increases from $21.70\;\text{m}$ to $21.91\;\text{m}$; that is, the maximum distance increases with the release angle, but the rate of increase gradually slows. $\blacksquare$
 
 ## Problem 6
 
@@ -266,11 +266,11 @@ $\blacksquare$
 
 ## Problem 8
 
-(Exercise 22.2, Comprehensive Application, Problem 8) Cars A and B travel in the same direction along a straight road at speeds $20\,\text{m/s}$ and $25\,\text{m/s}$. Car A is currently $500\,\text{m}$ ahead of car B; let $x\,\text{s}$ ($0\leq{x}\leq100$) later the distance between them be $y\,\text{m}$. Represent the relation between $y$ and $x$ by an analytic expression and a graph.
+(Exercise 22.2, Comprehensive Application, Problem 8) Cars A and B travel in the same direction along a straight road at speeds $20\;\text{m/s}$ and $25\;\text{m/s}$. Car A is currently $500\;\text{m}$ ahead of car B; let $x\;\text{s}$ ($0\leq{x}\leq100$) later the distance between them be $y\;\text{m}$. Represent the relation between $y$ and $x$ by an analytic expression and a graph.
 
 ### Solution to Problem 8
 
-After $x$ seconds, car A has traveled $20x\,\text{m}$ and car B $25x\,\text{m}$. Initially car A is $500\,\text{m}$ ahead, so the distance between them is
+After $x$ seconds, car A has traveled $20x\;\text{m}$ and car B $25x\;\text{m}$. Initially car A is $500\;\text{m}$ ahead, so the distance between them is
 
 $$
 y=500+20x-25x=500-5x\quad\left(0\leq{x}\leq100\right).
@@ -296,11 +296,11 @@ $\blacksquare$
 
 By **Definition 22.2.1 (Graph of a Function)**, the y-coordinate is the distance $y$ from city $A$, and the x-coordinate is the time $t$.
 
-(1) From the graph, both cars reach city $B$, and the distance traveled is $300\,\text{km}$.
+(1) From the graph, both cars reach city $B$, and the distance traveled is $300\;\text{km}$.
 
 (2) Car A departed at $5{:}00$ and car B at $6{:}00$, so car A departed first. Car A arrived at $10{:}00$ and car B at $9{:}00$, so car B arrived at city $B$ first.
 
-(3) Car A traveled for $10{:}00-5{:}00=5\,\text{h}$, average speed $300\div5=60\,\text{km/h}$. Car B traveled for $9{:}00-6{:}00=3\,\text{h}$, average speed $300\div3=100\,\text{km/h}$.
+(3) Car A traveled for $10{:}00-5{:}00=5\;\text{h}$, average speed $300\div5=60\;\text{km/h}$. Car B traveled for $9{:}00-6{:}00=3\;\text{h}$, average speed $300\div3=100\;\text{km/h}$.
 
 (4) From the graph, car B catches up with car A at $7{:}30$, at which time both have traveled the same distance from city $A$. $\blacksquare$
 
@@ -334,15 +334,15 @@ Fill the above results into the body fat measurement table; comparing with the i
 
 ## Review Problem 1
 
-(Review Problem, Review and Consolidation, Problem 1) Places $A$ and $B$ are $10\,\text{km}$ apart; Li Ming sets out from $A$ by bicycle at $20\,\text{km/h}$ toward $B$. Let $x$ (unit: h) be the cycling time and $y$ (unit: km) be Li Ming's distance from $B$. Identify the constants and variables, the independent variable and the function, and write the analytic expression and the range of the independent variable.
+(Review Problem, Review and Consolidation, Problem 1) Places $A$ and $B$ are $10\;\text{km}$ apart; Li Ming sets out from $A$ by bicycle at $20\;\text{km/h}$ toward $B$. Let $x$ (unit: h) be the cycling time and $y$ (unit: km) be Li Ming's distance from $B$. Identify the constants and variables, the independent variable and the function, and write the analytic expression and the range of the independent variable.
 
 ### Solution to Review Problem 1
 
-By **Definition 22.1.1 (Constants and Variables)**, the distance $10\,\text{km}$ between $A$ and $B$ and the cycling speed $20\,\text{km/h}$ remain constant, so they are constants. The cycling time $x$ and the distance $y$ from $B$ change, so $x$ and $y$ are variables.
+By **Definition 22.1.1 (Constants and Variables)**, the distance $10\;\text{km}$ between $A$ and $B$ and the cycling speed $20\;\text{km/h}$ remain constant, so they are constants. The cycling time $x$ and the distance $y$ from $B$ change, so $x$ and $y$ are variables.
 
 By **Definition 22.1.2 (Function)**, for each definite value of the cycling time $x$, the distance $y$ from $B$ has a unique definite value, so $y$ is a function of $x$, where $x$ is the independent variable.
 
-After cycling for $x\,\text{h}$, Li Ming has traveled $20x\,\text{km}$, and his distance from $B$ is $10-20x$. So the analytic expression is $y=10-20x$.
+After cycling for $x\;\text{h}$, Li Ming has traveled $20x\;\text{km}$, and his distance from $B$ is $10-20x$. So the analytic expression is $y=10-20x$.
 
 The cycling time cannot be negative, and once Li Ming reaches $B$ the distance is $0$, i.e. $10-20x\geq0$, giving $x\leq0.5$. So the range of the independent variable $x$ is $0\leq{x}\leq0.5$. $\blacksquare$
 
@@ -354,7 +354,7 @@ The cycling time cannot be negative, and once Li Ming reaches $B$ the distance i
 |---|---|---|---|---|---|
 | Storage/m$^3$ | $1.05\times10^7$ | $2.41\times10^7$ | $7.12\times10^7$ | $9.53\times10^7$ | $1.03\times10^8$ |
 
-(1) Let the water level be $x\,\text{m}$ and the storage capacity be $y\,\text{m}^3$. Is $y$ a function of $x$? Why?
+(1) Let the water level be $x\;\text{m}$ and the storage capacity be $y\;\text{m}^3$. Is $y$ a function of $x$? Why?
 
 (2) Observing the table data, as the water level changes, how does the storage capacity change?
 
@@ -362,7 +362,7 @@ The cycling time cannot be negative, and once Li Ming reaches $B$ the distance i
 
 (1) By **Definition 22.1.2 (Function)**, for each definite value of the water level $x$, the storage capacity $y$ has a unique definite value, so $y$ is a function of $x$.
 
-(2) From the table, as the water level rises from $95\,\text{m}$ to $128\,\text{m}$, the storage capacity increases from $1.05\times10^7\,\text{m}^3$ to $1.03\times10^8\,\text{m}^3$; that is, the storage capacity increases as the water level rises. $\blacksquare$
+(2) From the table, as the water level rises from $95\;\text{m}$ to $128\;\text{m}$, the storage capacity increases from $1.05\times10^7\;\text{m}^3$ to $1.03\times10^8\;\text{m}^3$; that is, the storage capacity increases as the water level rises. $\blacksquare$
 
 ## Review Problem 3
 
@@ -384,17 +384,17 @@ Substitute $x=1$: $y=\frac{1}{2}\times1+1=\frac{3}{2}\neq2$, so $\left(1,2\right
 
 ## Review Problem 4
 
-(Review Problem, Comprehensive Application, Problem 4) At a fruit wholesale market, when at least $100\,\text{kg}$ of apples are bought at a time, the wholesale price is $4.5$ yuan/kg. Xiao Wang brings $9000$ yuan to this market to buy apples at the wholesale price. Let the apples bought be $x\,\text{kg}$, and let the money remaining after payment be $y$ yuan. Write the analytic expression for $y$ as a function of $x$, and state the range of the independent variable $x$.
+(Review Problem, Comprehensive Application, Problem 4) At a fruit wholesale market, when at least $100\;\text{kg}$ of apples are bought at a time, the wholesale price is $4.5$ yuan/kg. Xiao Wang brings $9000$ yuan to this market to buy apples at the wholesale price. Let the apples bought be $x\;\text{kg}$, and let the money remaining after payment be $y$ yuan. Write the analytic expression for $y$ as a function of $x$, and state the range of the independent variable $x$.
 
 ### Solution to Review Problem 4
 
-The cost of buying $x\,\text{kg}$ of apples is $4.5x$ yuan. Xiao Wang brought $9000$ yuan, and after payment the remaining is
+The cost of buying $x\;\text{kg}$ of apples is $4.5x$ yuan. Xiao Wang brought $9000$ yuan, and after payment the remaining is
 
 $$
 y=9000-4.5x.
 $$
 
-By the problem, at least $100\,\text{kg}$ of apples are bought, i.e. $x\geq100$. Also the cost cannot exceed $9000$ yuan, i.e. $4.5x\leq9000$, giving $x\leq2000$. So the range of the independent variable $x$ is $100\leq{x}\leq2000$. $\blacksquare$
+By the problem, at least $100\;\text{kg}$ of apples are bought, i.e. $x\geq100$. Also the cost cannot exceed $9000$ yuan, i.e. $4.5x\leq9000$, giving $x\leq2000$. So the range of the independent variable $x$ is $100\leq{x}\leq2000$. $\blacksquare$
 
 ## Review Problem 5
 

@@ -52,13 +52,13 @@ The incenter is the intersection of the angle bisectors, so $\angle{O}BC=\frac12
 
 ## Exercise 2
 
-(Exercise 30.2, Problem 2) On a regular-triangle iron sheet of side length $4\,\text{cm}$, cut out the largest possible circular iron piece. Find the radius of this circular piece.
+(Exercise 30.2, Problem 2) On a regular-triangle iron sheet of side length $4\;\text{cm}$, cut out the largest possible circular iron piece. Find the radius of this circular piece.
 
 ### Solution to Exercise 2
 
 By **Definition 30.2.1 (Incircle of a Triangle)**.
 
-The largest circle is the incircle. The altitude of the equilateral triangle is $h=2\sqrt3$, and the incircle radius is $r=\frac{h}{3}=\frac{2\sqrt3}{3}\,\text{cm}$. $\blacksquare$
+The largest circle is the incircle. The altitude of the equilateral triangle is $h=2\sqrt3$, and the incircle radius is $r=\frac{h}{3}=\frac{2\sqrt3}{3}\;\text{cm}$. $\blacksquare$
 
 ## Problem 1
 
@@ -156,23 +156,23 @@ Square: side length $\sqrt2R$, apothem $\frac{\sqrt2}{2}R$, area $2R^2$. $\black
 
 ## Exercise 5
 
-(Exercise 30.3, Problem 1) To cut out a square iron piece of side length $4\,\text{cm}$ from a circular iron sheet, what is the minimum diameter of the circular sheet to choose?
+(Exercise 30.3, Problem 1) To cut out a square iron piece of side length $4\;\text{cm}$ from a circular iron sheet, what is the minimum diameter of the circular sheet to choose?
 
 ### Solution to Exercise 5
 
 By Properties of Regular Polygons.
 
-The diagonal of a square inscribed in a circle equals the diameter of the circle. The square has side length $4$ and diagonal $4\sqrt2$, so the diameter is at least $4\sqrt2\,\text{cm}$. $\blacksquare$
+The diagonal of a square inscribed in a circle equals the diameter of the circle. The square has side length $4$ and diagonal $4\sqrt2$, so the diameter is at least $4\sqrt2\;\text{cm}$. $\blacksquare$
 
 ## Exercise 6
 
-(Exercise 30.3, Problem 2) Draw a regular pentagon of radius $2\,\text{cm}$, then construct its central angle. How many degrees is it?
+(Exercise 30.3, Problem 2) Draw a regular pentagon of radius $2\;\text{cm}$, then construct its central angle. How many degrees is it?
 
 ### Solution to Exercise 6
 
 By Properties of Regular Polygons.
 
-The central angle is $=\frac{360^\circ}{5}=72^\circ$. Draw a circle of radius $2\,\text{cm}$, divide the circumference into five equal parts, and join the points in order to obtain the regular pentagon. $\blacksquare$
+The central angle is $=\frac{360^\circ}{5}=72^\circ$. Draw a circle of radius $2\;\text{cm}$, divide the circumference into five equal parts, and join the points in order to obtain the regular pentagon. $\blacksquare$
 
 ## Illustrated History of Mathematics 1
 
@@ -344,11 +344,11 @@ Compute the difference between the area of the sector $OAE$ and the small triang
 
 (Exercise 26.1, Problem 1) Express the correspondence between the variables in the following problems using function expressions:
 
-(1) The volume of a swimming pool is $2000\,\text{m}^3$, and the time $t$ (unit: $\text{h}$) taken to fill the pool varies with the water-filling rate $v$ (unit: $\text{m}^3/\text{h}$);
+(1) The volume of a swimming pool is $2000\;\text{m}^3$, and the time $t$ (unit: $\text{h}$) taken to fill the pool varies with the water-filling rate $v$ (unit: $\text{m}^3/\text{h}$);
 
-(2) The volume of a cuboid is $1000\,\text{cm}^3$, and its height $h$ (unit: $\text{cm}$) varies with the base area $S$ (unit: $\text{cm}^2$);
+(2) The volume of a cuboid is $1000\;\text{cm}^3$, and its height $h$ (unit: $\text{cm}$) varies with the base area $S$ (unit: $\text{cm}^2$);
 
-(3) An object weighs $100\,\text{N}$, and the pressure $p$ (unit: $\text{Pa}$) it exerts on the ground varies with the contact area $S$ (unit: $\text{m}^2$) between the object and the ground.
+(3) An object weighs $100\;\text{N}$, and the pressure $p$ (unit: $\text{Pa}$) it exerts on the ground varies with the contact area $S$ (unit: $\text{m}^2$) between the object and the ground.
 
 ### Solution to Exercise 7
 
@@ -366,7 +366,7 @@ $$
 h=\frac{1000}{S}.
 $$
 
-(3) The pressure equals the force divided by the area acted upon; the force is $100\,\text{N}$, i.e. $pS=100$, so
+(3) The pressure equals the force divided by the area acted upon; the force is $100\;\text{N}$, i.e. $pS=100$, so
 
 $$
 p=\frac{100}{S}.\,\blacksquare

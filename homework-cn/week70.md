@@ -78,41 +78,41 @@
 
 ## 习题三
 
-(习题 28.1 综合运用第 7 题) 如图, 焊接一个高 $3.5\,\text{m}$, 底角为 $32^{\circ}$ 的人字形 (等腰三角形) 钢架, 约需多长的钢材 (结果保留小数点后两位)?
+(习题 28.1 综合运用第 7 题) 如图, 焊接一个高 $3.5\;\text{m}$, 底角为 $32^{\circ}$ 的人字形 (等腰三角形) 钢架, 约需多长的钢材 (结果保留小数点后两位)?
 
-图为人字形(等腰三角形)钢架 $ABC$, $CD$ 为中柱, $CD\perp{A}B$ 且 $CD=3.5\,\text{m}$, 底角 $\angle{A}=\angle{B}=32^\circ$, $D$ 为 $AB$ 中点. 
+图为人字形(等腰三角形)钢架 $ABC$, $CD$ 为中柱, $CD\perp{A}B$ 且 $CD=3.5\;\text{m}$, 底角 $\angle{A}=\angle{B}=32^\circ$, $D$ 为 $AB$ 中点. 
 
 ### 解答 习题三
 
-钢架为等腰三角形 $ABC$, $CD$ 为中柱, $CD\perp{A}B$, $CD=3.5\,\text{m}$, $\angle{A}=\angle{B}=32^{\circ}$, $AD=DB$.
+钢架为等腰三角形 $ABC$, $CD$ 为中柱, $CD\perp{A}B$, $CD=3.5\;\text{m}$, $\angle{A}=\angle{B}=32^{\circ}$, $AD=DB$.
 
 在 $\text{Rt}\triangle{A}CD$ 中, 由**定义 28.1.1 (正弦)**,
 
-$$\sin{A}=\frac{CD}{AC}\implies{A}C=\frac{CD}{\sin32^{\circ}}=\frac{3.5}{\sin32^{\circ}}\approx\frac{3.5}{0.5299}\approx6.605\,\text{m}.$$
+$$\sin{A}=\frac{CD}{AC}\implies{A}C=\frac{CD}{\sin32^{\circ}}=\frac{3.5}{\sin32^{\circ}}\approx\frac{3.5}{0.5299}\approx6.605\;\text{m}.$$
 
 由**定义 28.1.3 (正切)**,
 
-$$\tan{A}=\frac{CD}{AD}\implies{A}D=\frac{CD}{\tan32^{\circ}}=\frac{3.5}{\tan32^{\circ}}\approx\frac{3.5}{0.6249}\approx5.601\,\text{m}.$$
+$$\tan{A}=\frac{CD}{AD}\implies{A}D=\frac{CD}{\tan32^{\circ}}=\frac{3.5}{\tan32^{\circ}}\approx\frac{3.5}{0.6249}\approx5.601\;\text{m}.$$
 
-钢材总长为 $AC+BC+AB=2AC+2AD\approx2\times6.605+2\times5.601\approx24.41\,\text{m}$. $\blacksquare$
+钢材总长为 $AC+BC+AB=2AC+2AD\approx2\times6.605+2\times5.601\approx24.41\;\text{m}$. $\blacksquare$
 
 ## 习题四
 
-(习题 28.1 综合运用第 8 题) 如图, 一块平行四边形木板的两条邻边的长分别为 $62.31\,\text{cm}$ 和 $35.24\,\text{cm}$, 它们的夹角为 $35^{\circ}40'$, 求这块木板的面积 (结果保留小数点后两位).
+(习题 28.1 综合运用第 8 题) 如图, 一块平行四边形木板的两条邻边的长分别为 $62.31\;\text{cm}$ 和 $35.24\;\text{cm}$, 它们的夹角为 $35^{\circ}40'$, 求这块木板的面积 (结果保留小数点后两位).
 
-图为平行四边形木板 $ABCD$, 邻边 $AB=62.31\,\text{cm}$, $AD=35.24\,\text{cm}$, 夹角 $\angle{A}=35^\circ40'$. 
+图为平行四边形木板 $ABCD$, 邻边 $AB=62.31\;\text{cm}$, $AD=35.24\;\text{cm}$, 夹角 $\angle{A}=35^\circ40'$. 
 
 ### 解答 习题四
 
-平行四边形 $ABCD$ 中, $AB=62.31\,\text{cm}$, $AD=35.24\,\text{cm}$, $\angle{A}=35^{\circ}40'$.
+平行四边形 $ABCD$ 中, $AB=62.31\;\text{cm}$, $AD=35.24\;\text{cm}$, $\angle{A}=35^{\circ}40'$.
 
 过 $D$ 作 $DE\perp{A}B$, 垂足为 $E$. 在 $\text{Rt}\triangle{A}DE$ 中, 由**定义 28.1.1 (正弦)**,
 
 $$DE=AD\cdot\sin{A}=35.24\times\sin35^{\circ}40'.$$
 
-$35^{\circ}40'=35.67^{\circ}$, $\sin35.67^{\circ}\approx0.5830$, 故 $DE\approx35.24\times0.5830\approx20.55\,\text{cm}$.
+$35^{\circ}40'=35.67^{\circ}$, $\sin35.67^{\circ}\approx0.5830$, 故 $DE\approx35.24\times0.5830\approx20.55\;\text{cm}$.
 
-面积 $S=AB\cdot{D}E\approx62.31\times20.55\approx1280.47\,\text{cm}^{2}$. $\blacksquare$
+面积 $S=AB\cdot{D}E\approx62.31\times20.55\approx1280.47\;\text{cm}^{2}$. $\blacksquare$
 
 ## 习题五
 
@@ -190,25 +190,25 @@ $\cos{A}=\frac{b}{c}=\frac{20}{30}=\frac{2}{3}$, 用计算器得 $\angle{A}\appr
 
 ## 练习二
 
-(练习 28.2 第 1 题) 如图, 建筑物 $BC$ 上有一旗杆 $AB$, 从与 $BC$ 相距 $40\,\text{m}$ 的 $D$ 处观测旗杆顶部 $A$ 的仰角为 $50^{\circ}$, 观测旗杆底部 $B$ 的仰角为 $45^{\circ}$, 求旗杆的高度 (结果保留小数点后一位).
+(练习 28.2 第 1 题) 如图, 建筑物 $BC$ 上有一旗杆 $AB$, 从与 $BC$ 相距 $40\;\text{m}$ 的 $D$ 处观测旗杆顶部 $A$ 的仰角为 $50^{\circ}$, 观测旗杆底部 $B$ 的仰角为 $45^{\circ}$, 求旗杆的高度 (结果保留小数点后一位).
 
-图为竖直建筑物 $BC$, 顶部立有旗杆 $AB$, 地面上一点 $D$ 距建筑物底部 $C$ 的水平距离为 $40\,\text{m}$; 从 $D$ 观测旗杆顶 $A$ 的仰角为 $50^\circ$, 观测旗杆底 $B$ 的仰角为 $45^\circ$, $DC$ 水平, $AC$ 竖直. 
+图为竖直建筑物 $BC$, 顶部立有旗杆 $AB$, 地面上一点 $D$ 距建筑物底部 $C$ 的水平距离为 $40\;\text{m}$; 从 $D$ 观测旗杆顶 $A$ 的仰角为 $50^\circ$, 观测旗杆底 $B$ 的仰角为 $45^\circ$, $DC$ 水平, $AC$ 竖直. 
 
 ### 解答 练习二
 
-设 $D$ 到建筑物的水平距离 $DC=40\,\text{m}$. 在 $\text{Rt}\triangle{B}DC$ 中, $\angle{B}DC=45^{\circ}$, 由**定义 28.1.3 (正切)**,
+设 $D$ 到建筑物的水平距离 $DC=40\;\text{m}$. 在 $\text{Rt}\triangle{B}DC$ 中, $\angle{B}DC=45^{\circ}$, 由**定义 28.1.3 (正切)**,
 
-$$BC=DC\cdot\tan45^{\circ}=40\times1=40\,\text{m}.$$
+$$BC=DC\cdot\tan45^{\circ}=40\times1=40\;\text{m}.$$
 
 在 $\text{Rt}\triangle{A}DC$ 中, $\angle{A}DC=50^{\circ}$,
 
-$$AC=DC\cdot\tan50^{\circ}\approx40\times1.1918\approx47.67\,\text{m}.$$
+$$AC=DC\cdot\tan50^{\circ}\approx40\times1.1918\approx47.67\;\text{m}.$$
 
-旗杆高度 $AB=AC-BC\approx47.67-40=7.7\,\text{m}$. $\blacksquare$
+旗杆高度 $AB=AC-BC\approx47.67-40=7.7\;\text{m}$. $\blacksquare$
 
 ## 练习三
 
-(练习 28.2 第 2 题) 如图, 沿 $AC$ 方向开山修路. 从 $AC$ 上的一点 $B$ 取 $\angle{A}BD=140^{\circ}$, $BD=520\,\text{m}$, $\angle{D}=50^{\circ}$. 那么另一边开挖点 $E$ 离 $D$ 多远正好使 $A$, $C$, $E$ 三点在一直线上 (结果保留小数点后一位)?
+(练习 28.2 第 2 题) 如图, 沿 $AC$ 方向开山修路. 从 $AC$ 上的一点 $B$ 取 $\angle{A}BD=140^{\circ}$, $BD=520\;\text{m}$, $\angle{D}=50^{\circ}$. 那么另一边开挖点 $E$ 离 $D$ 多远正好使 $A$, $C$, $E$ 三点在一直线上 (结果保留小数点后一位)?
 
 ### 解答 练习三
 
@@ -218,15 +218,15 @@ $$AC=DC\cdot\tan50^{\circ}\approx40\times1.1918\approx47.67\,\text{m}.$$
 
 在 $\text{Rt}\triangle{B}DE$ 中, 由**定义 28.1.1 (正弦)**,
 
-$$\sin\angle{D}BE=\frac{DE}{BD}\implies{D}E=BD\cdot\sin40^{\circ}\approx520\times0.6428\approx334.3\,\text{m}.$$
+$$\sin\angle{D}BE=\frac{DE}{BD}\implies{D}E=BD\cdot\sin40^{\circ}\approx520\times0.6428\approx334.3\;\text{m}.$$
 
-故开挖点 $E$ 离 $D$ 约 $334.3\,\text{m}$. $\blacksquare$
+故开挖点 $E$ 离 $D$ 约 $334.3\;\text{m}$. $\blacksquare$
 
 ## 练习四
 
-(练习 28.2 第 1 题) 如图, 海中有一个小岛 $A$, 它周围 $8\,\text{n~mile}$ 内有暗礁. 渔船由西向东航行, 在 $B$ 点测得小岛 $A$ 在北偏东 $60^{\circ}$ 方向上, 航行 $12\,\text{n~mile}$ 到达 $D$ 点, 这时测得小岛 $A$ 在北偏东 $30^{\circ}$ 方向上. 如果渔船不改变航线继续向东航行, 有没有触礁的危险?
+(练习 28.2 第 1 题) 如图, 海中有一个小岛 $A$, 它周围 $8\;\text{n~mile}$ 内有暗礁. 渔船由西向东航行, 在 $B$ 点测得小岛 $A$ 在北偏东 $60^{\circ}$ 方向上, 航行 $12\;\text{n~mile}$ 到达 $D$ 点, 这时测得小岛 $A$ 在北偏东 $30^{\circ}$ 方向上. 如果渔船不改变航线继续向东航行, 有没有触礁的危险?
 
-图为海上航线示意图: 小岛 $A$ 在海面上, 渔船沿 $BD$ 航线由西向东航行; 在 $B$ 点测得 $A$ 在北偏东 $60^\circ$ 方向, 向东航行 $12\,\text{n~mile}$ 到达 $D$ 点后测得 $A$ 在北偏东 $30^\circ$ 方向; 过 $A$ 作 $AE\perp{B}D$ 于 $E$. 
+图为海上航线示意图: 小岛 $A$ 在海面上, 渔船沿 $BD$ 航线由西向东航行; 在 $B$ 点测得 $A$ 在北偏东 $60^\circ$ 方向, 向东航行 $12\;\text{n~mile}$ 到达 $D$ 点后测得 $A$ 在北偏东 $30^\circ$ 方向; 过 $A$ 作 $AE\perp{B}D$ 于 $E$. 
 
 ### 解答 练习四
 
@@ -238,13 +238,13 @@ $$\sin\angle{D}BE=\frac{DE}{BD}\implies{D}E=BD\cdot\sin40^{\circ}\approx520\time
 
 在 $\text{Rt}\triangle{A}DE$ 中, $DE=AE/\tan60^{\circ}=AE/\sqrt{3}$.
 
-又 $BE-DE=BD=12$, 故 $AE\sqrt{3}-AE/\sqrt{3}=12$, 即 $AE\cdot\frac{3-1}{\sqrt{3}}=12$, $AE=6\sqrt{3}\approx10.39\,\text{n~mile}$.
+又 $BE-DE=BD=12$, 故 $AE\sqrt{3}-AE/\sqrt{3}=12$, 即 $AE\cdot\frac{3-1}{\sqrt{3}}=12$, $AE=6\sqrt{3}\approx10.39\;\text{n~mile}$.
 
 因为 $AE\approx10.39>8$, 故渔船继续向东航行没有触礁危险. $\blacksquare$
 
 ## 练习五
 
-(练习 28.2 第 2 题) 如图, 拦水坝的横断面为梯形 $ABCD$, $AF=DE=6\,\text{m}$. 斜面坡度 $i=1:1.5$ 是指坡面的铅直高度 $AF$ 与水平宽度 $BF$ 的比, 斜面坡度 $i=1:3$ 是指 $DE$ 与 $CE$ 的比. 根据图中数据, 求:
+(练习 28.2 第 2 题) 如图, 拦水坝的横断面为梯形 $ABCD$, $AF=DE=6\;\text{m}$. 斜面坡度 $i=1:1.5$ 是指坡面的铅直高度 $AF$ 与水平宽度 $BF$ 的比, 斜面坡度 $i=1:3$ 是指 $DE$ 与 $CE$ 的比. 根据图中数据, 求:
 
 (1) 坡角 $\alpha$ 和 $\beta$ 的度数;
 
@@ -256,7 +256,7 @@ $$\sin\angle{D}BE=\frac{DE}{BD}\implies{D}E=BD\cdot\sin40^{\circ}\approx520\time
 
 对于斜坡 $DC$, $i=1:3$, 即 $\tan\beta=\frac{1}{3}$, 用计算器得 $\beta\approx18.43^{\circ}$.
 
-(2) 在 $\text{Rt}\triangle{A}BF$ 中, $AF=6\,\text{m}$, $\sin\alpha=\frac{AF}{AB}$, 故 $AB=\frac{AF}{\sin\alpha}=\frac{6}{\sin33.69^{\circ}}\approx\frac{6}{0.5547}\approx10.8\,\text{m}$. $\blacksquare$
+(2) 在 $\text{Rt}\triangle{A}BF$ 中, $AF=6\;\text{m}$, $\sin\alpha=\frac{AF}{AB}$, 故 $AB=\frac{AF}{\sin\alpha}=\frac{6}{\sin33.69^{\circ}}\approx\frac{6}{0.5547}\approx10.8\;\text{m}$. $\blacksquare$
 
 ## 习题七
 
@@ -280,45 +280,45 @@ $$\sin\angle{D}BE=\frac{DE}{BD}\implies{D}E=BD\cdot\sin40^{\circ}\approx520\time
 
 ## 习题八
 
-(习题 28.2 复习巩固第 2 题) 如图, 厂房屋顶人字架 (等腰三角形) 的跨度 $BC=10\,\text{m}$, $\angle{B}=36^{\circ}$, 求中柱 $AD$ ($D$ 为底边中点) 和上弦 $AB$ 的长 (结果保留小数点后一位).
+(习题 28.2 复习巩固第 2 题) 如图, 厂房屋顶人字架 (等腰三角形) 的跨度 $BC=10\;\text{m}$, $\angle{B}=36^{\circ}$, 求中柱 $AD$ ($D$ 为底边中点) 和上弦 $AB$ 的长 (结果保留小数点后一位).
 
 ### 解答 习题八
 
-等腰三角形 $ABC$ 中, $AD\perp{B}C$, $D$ 为 $BC$ 中点, 故 $BD=\frac{BC}{2}=5\,\text{m}$.
+等腰三角形 $ABC$ 中, $AD\perp{B}C$, $D$ 为 $BC$ 中点, 故 $BD=\frac{BC}{2}=5\;\text{m}$.
 
-在 $\text{Rt}\triangle{A}BD$ 中, 由**定义 28.1.3 (正切)**, $AD=BD\cdot\tan36^{\circ}\approx5\times0.7265\approx3.6\,\text{m}$.
+在 $\text{Rt}\triangle{A}BD$ 中, 由**定义 28.1.3 (正切)**, $AD=BD\cdot\tan36^{\circ}\approx5\times0.7265\approx3.6\;\text{m}$.
 
-由**定义 28.1.2 (余弦)**, $\cos{B}=\frac{BD}{AB}$, 故 $AB=\frac{BD}{\cos36^{\circ}}\approx\frac{5}{0.8090}\approx6.2\,\text{m}$. $\blacksquare$
+由**定义 28.1.2 (余弦)**, $\cos{B}=\frac{BD}{AB}$, 故 $AB=\frac{BD}{\cos36^{\circ}}\approx\frac{5}{0.8090}\approx6.2\;\text{m}$. $\blacksquare$
 
 ## 习题九
 
-(习题 28.2 复习巩固第 3 题) 如图, 某飞机于空中 $A$ 处探测到目标 $C$, 此时飞行高度 $AC=1200\,\text{m}$, 从飞机上看地平面指挥台 $B$ 的俯角 $\alpha=16^{\circ}31'$. 求飞机 $A$ 与指挥台 $B$ 的距离 (结果取整数).
+(习题 28.2 复习巩固第 3 题) 如图, 某飞机于空中 $A$ 处探测到目标 $C$, 此时飞行高度 $AC=1200\;\text{m}$, 从飞机上看地平面指挥台 $B$ 的俯角 $\alpha=16^{\circ}31'$. 求飞机 $A$ 与指挥台 $B$ 的距离 (结果取整数).
 
 ### 解答 习题九
 
-在 $\text{Rt}\triangle{A}BC$ 中, $\angle{C}=90^{\circ}$, $AC=1200\,\text{m}$, 俯角 $\alpha=16^{\circ}31'\approx16.52^{\circ}$. 由内错角相等, $\angle{A}BC=\alpha$.
+在 $\text{Rt}\triangle{A}BC$ 中, $\angle{C}=90^{\circ}$, $AC=1200\;\text{m}$, 俯角 $\alpha=16^{\circ}31'\approx16.52^{\circ}$. 由内错角相等, $\angle{A}BC=\alpha$.
 
-由**定义 28.1.1 (正弦)**, $\sin\alpha=\frac{AC}{AB}$, 故 $AB=\frac{AC}{\sin\alpha}=\frac{1200}{\sin16.52^{\circ}}\approx\frac{1200}{0.2843}\approx4221\,\text{m}$. $\blacksquare$
+由**定义 28.1.1 (正弦)**, $\sin\alpha=\frac{AC}{AB}$, 故 $AB=\frac{AC}{\sin\alpha}=\frac{1200}{\sin16.52^{\circ}}\approx\frac{1200}{0.2843}\approx4221\;\text{m}$. $\blacksquare$
 
 ## 习题十
 
-(习题 28.2 复习巩固第 4 题) 从高出海平面 $55\,\text{m}$ 的灯塔处收到一艘帆船的求助信号, 从灯塔看帆船的俯角为 $21^{\circ}$, 此时帆船距灯塔有多远 (结果取整数)?
+(习题 28.2 复习巩固第 4 题) 从高出海平面 $55\;\text{m}$ 的灯塔处收到一艘帆船的求助信号, 从灯塔看帆船的俯角为 $21^{\circ}$, 此时帆船距灯塔有多远 (结果取整数)?
 
 ### 解答 习题十
 
-在直角三角形中, 灯塔高度 $55\,\text{m}$ 为对边, 俯角 $21^{\circ}$, 帆船到灯塔的直线距离为斜边.
+在直角三角形中, 灯塔高度 $55\;\text{m}$ 为对边, 俯角 $21^{\circ}$, 帆船到灯塔的直线距离为斜边.
 
-由**定义 28.1.1 (正弦)**, $\sin21^{\circ}=\frac{55}{d}$, 故 $d=\frac{55}{\sin21^{\circ}}\approx\frac{55}{0.3584}\approx153\,\text{m}$. $\blacksquare$
+由**定义 28.1.1 (正弦)**, $\sin21^{\circ}=\frac{55}{d}$, 故 $d=\frac{55}{\sin21^{\circ}}\approx\frac{55}{0.3584}\approx153\;\text{m}$. $\blacksquare$
 
 ## 习题十一
 
-(习题 28.2 复习巩固第 5 题) 如图, 在山坡上种树, 要求株距 (相邻两树间的水平距离) 是 $5.5\,\text{m}$. 测得斜坡的倾斜角是 $24^{\circ}$, 求斜坡上相邻两树间的坡面距离 (结果保留小数点后一位).
+(习题 28.2 复习巩固第 5 题) 如图, 在山坡上种树, 要求株距 (相邻两树间的水平距离) 是 $5.5\;\text{m}$. 测得斜坡的倾斜角是 $24^{\circ}$, 求斜坡上相邻两树间的坡面距离 (结果保留小数点后一位).
 
 ### 解答 习题十一
 
-水平距离 $5.5\,\text{m}$ 为邻边, 坡面距离为斜边, 坡角 $24^{\circ}$.
+水平距离 $5.5\;\text{m}$ 为邻边, 坡面距离为斜边, 坡角 $24^{\circ}$.
 
-由**定义 28.1.2 (余弦)**, $\cos24^{\circ}=\frac{5.5}{d}$, 故 $d=\frac{5.5}{\cos24^{\circ}}\approx\frac{5.5}{0.9135}\approx6.0\,\text{m}$. $\blacksquare$
+由**定义 28.1.2 (余弦)**, $\cos24^{\circ}=\frac{5.5}{d}$, 故 $d=\frac{5.5}{\cos24^{\circ}}\approx\frac{5.5}{0.9135}\approx6.0\;\text{m}$. $\blacksquare$
 
 ## 习题十二
 

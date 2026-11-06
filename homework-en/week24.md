@@ -79,11 +79,11 @@ Multiply the first equation by $2$: $4x+6y=302$; subtract the second: $4y=124$, 
 
 ## Exercise 3
 
-(Exercise 10.3, Problem 3) Of the kitchen waste and construction waste received by a certain city in May, the treatable kitchen waste requires a treatment fee of $240$ yuan per ton and the treatable construction waste requires $150$ yuan per ton. The total treatment fee paid that month was $7020$ yuan; in June the treatable kitchen waste and construction waste received increased by $60\,\text{t}$ and $30\,\text{t}$ respectively, and the total treatment fee paid was $8520$ yuan. Find how many tons of treatable kitchen waste and construction waste were received in May.
+(Exercise 10.3, Problem 3) Of the kitchen waste and construction waste received by a certain city in May, the treatable kitchen waste requires a treatment fee of $240$ yuan per ton and the treatable construction waste requires $150$ yuan per ton. The total treatment fee paid that month was $7020$ yuan; in June the treatable kitchen waste and construction waste received increased by $60\;\text{t}$ and $30\;\text{t}$ respectively, and the total treatment fee paid was $8520$ yuan. Find how many tons of treatable kitchen waste and construction waste were received in May.
 
 ### Solution to Exercise 3
 
-Let $x\,\text{t}$ be the May kitchen waste and $y\,\text{t}$ the construction waste. According to the problem,
+Let $x\;\text{t}$ be the May kitchen waste and $y\;\text{t}$ the construction waste. According to the problem,
 
 $$
 \begin{cases}
@@ -92,17 +92,17 @@ $$
 \end{cases}
 $$
 
-Simplify: $8x+5y=234$, $5x+3y=142$. Multiply the first by $3$ and the second by $5$ and subtract: $x=8$; substituting back $40+3y=142$, $y=34$. Thus kitchen waste was $8\,\text{t}$ and construction waste was $34\,\text{t}$. $\blacksquare$
+Simplify: $8x+5y=234$, $5x+3y=142$. Multiply the first by $3$ and the second by $5$ and subtract: $x=8$; substituting back $40+3y=142$, $y=34$. Thus kitchen waste was $8\;\text{t}$ and construction waste was $34\;\text{t}$. $\blacksquare$
 
 ## Exercise 4
 
-(Exercise 10.3, Problem 4) As shown in the figure, a rectangular plot of land $200\,\text{m}$ long and $100\,\text{m}$ wide is to be planted with two crops, type A and type B, such that the ratio of the total yield of crop A to crop B is $3:4$. The ratio of the per-unit-area yield of crop A to crop B is $1:2$. The plot is now divided along the other direction (horizontal) into two rectangles $DMNC$ and $MABN$, planted with crop A and crop B respectively. Find the length of $AM$.
+(Exercise 10.3, Problem 4) As shown in the figure, a rectangular plot of land $200\;\text{m}$ long and $100\;\text{m}$ wide is to be planted with two crops, type A and type B, such that the ratio of the total yield of crop A to crop B is $3:4$. The ratio of the per-unit-area yield of crop A to crop B is $1:2$. The plot is now divided along the other direction (horizontal) into two rectangles $DMNC$ and $MABN$, planted with crop A and crop B respectively. Find the length of $AM$.
 
-The figure shows a rectangular field $200\,\text{m}$ long and $100\,\text{m}$ wide, divided horizontally into two rectangles $DMNC$ and $MABN$, with point $M$ marked on the dividing line.
+The figure shows a rectangular field $200\;\text{m}$ long and $100\;\text{m}$ wide, divided horizontally into two rectangles $DMNC$ and $MABN$, with point $M$ marked on the dividing line.
 
 ### Solution to Exercise 4
 
-Let $AM=y\,\text{m}$. After the horizontal division, rectangle $MABN$ (crop A) is $200\,\text{m}$ long and $AM$ wide, with area $200y$; rectangle $DMNC$ (crop B) is $200\,\text{m}$ long and $100-y$ wide, with area $200\left(100-y\right)$.
+Let $AM=y\;\text{m}$. After the horizontal division, rectangle $MABN$ (crop A) is $200\;\text{m}$ long and $AM$ wide, with area $200y$; rectangle $DMNC$ (crop B) is $200\;\text{m}$ long and $100-y$ wide, with area $200\left(100-y\right)$.
 
 The per-unit-area yield ratio of A to B is $1:2$, so the total yield ratio is
 
@@ -110,7 +110,7 @@ $$
 \frac{200y\cdot1}{200\left(100-y\right)\cdot2}=\frac{3}{4}.
 $$
 
-Simplify $\frac{y}{2\left(100-y\right)}=\frac{3}{4}$, i.e. $4y=6\left(100-y\right)$, giving $y=60$. Thus $AM=60\,\text{m}$. $\blacksquare$
+Simplify $\frac{y}{2\left(100-y\right)}=\frac{3}{4}$, i.e. $4y=6\left(100-y\right)$, giving $y=60$. Thus $AM=60\;\text{m}$. $\blacksquare$
 
 ## Exercise 5
 
@@ -133,11 +133,11 @@ Solving: $x+6y=5$, $x-2y=-3$; subtracting gives $8y=8$, $y=1$; substituting back
 
 ## Exercise 6
 
-(Exercise 10.3, Problem 6) A river channel needs to be managed; given that team A can manage $12\,\text{m}$ per day and team B can manage $8\,\text{m}$ per day. If team A manages for a period first and team B manages the remainder, it takes $20$ days in total to finish, and the channel is $180\,\text{m}$ long. How many meters did team A and team B manage respectively?
+(Exercise 10.3, Problem 6) A river channel needs to be managed; given that team A can manage $12\;\text{m}$ per day and team B can manage $8\;\text{m}$ per day. If team A manages for a period first and team B manages the remainder, it takes $20$ days in total to finish, and the channel is $180\;\text{m}$ long. How many meters did team A and team B manage respectively?
 
 ### Solution to Exercise 6
 
-Let $x\,\text{m}$ be what team A manages and $y\,\text{m}$ what team B manages. According to the problem,
+Let $x\;\text{m}$ be what team A manages and $y\;\text{m}$ what team B manages. According to the problem,
 
 $$
 \begin{cases}
@@ -146,15 +146,15 @@ x+y=180,\\
 \end{cases}
 $$
 
-Substitute $x=180-y$ and multiply by $24$: $2\left(180-y\right)+3y=480$, i.e. $y=120$, $x=60$. Thus team A managed $60\,\text{m}$ and team B managed $120\,\text{m}$. $\blacksquare$
+Substitute $x=180-y$ and multiply by $24$: $2\left(180-y\right)+3y=480$, i.e. $y=120$, $x=60$. Thus team A managed $60\;\text{m}$ and team B managed $120\;\text{m}$. $\blacksquare$
 
 ## Exercise 7
 
-(Exercise 10.3, Problem 7) Given that $2$ large trucks and $3$ small trucks can transport $15.5\,\text{t}$ of goods in one trip; $5$ large trucks and $6$ small trucks can transport $35\,\text{t}$ in one trip. Find how many tons $3$ large trucks and $5$ small trucks can transport in one trip.
+(Exercise 10.3, Problem 7) Given that $2$ large trucks and $3$ small trucks can transport $15.5\;\text{t}$ of goods in one trip; $5$ large trucks and $6$ small trucks can transport $35\;\text{t}$ in one trip. Find how many tons $3$ large trucks and $5$ small trucks can transport in one trip.
 
 ### Solution to Exercise 7
 
-Let $x\,\text{t}$ be transported per trip by a large truck and $y\,\text{t}$ by a small truck. According to the problem,
+Let $x\;\text{t}$ be transported per trip by a large truck and $y\;\text{t}$ by a small truck. According to the problem,
 
 $$
 \begin{cases}
@@ -165,7 +165,7 @@ $$
 
 Multiply the first equation by $2$: $4x+6y=31$; subtract the second: $x=4$; substituting back $8+3y=15.5$, $y=2.5$.
 
-Thus $3$ large trucks and $5$ small trucks transport $3\times4+5\times2.5=12+12.5=24.5\,\text{t}$ in one trip. $\blacksquare$
+Thus $3$ large trucks and $5$ small trucks transport $3\times4+5\times2.5=12+12.5=24.5\;\text{t}$ in one trip. $\blacksquare$
 
 ## Exercise 8
 
@@ -186,11 +186,11 @@ Substitute $y=20-x$: $80x+45\left(20-x\right)=1180$, i.e. $35x=280$, $x=8$, $y=1
 
 ## Exercise 9
 
-(Exercise 10.3, Problem 9) From point A to point B there is a section of uphill road and a section of level road. If one keeps walking uphill at $3\,\text{km}$ per hour, on level ground at $4\,\text{km}$ per hour, and downhill at $5\,\text{km}$ per hour, then going from A to B takes $54\,\text{min}$, and returning from B to A takes $42\,\text{min}$. What is the total distance from A to B in kilometers?
+(Exercise 10.3, Problem 9) From point A to point B there is a section of uphill road and a section of level road. If one keeps walking uphill at $3\;\text{km}$ per hour, on level ground at $4\;\text{km}$ per hour, and downhill at $5\;\text{km}$ per hour, then going from A to B takes $54\;\text{min}$, and returning from B to A takes $42\;\text{min}$. What is the total distance from A to B in kilometers?
 
 ### Solution to Exercise 9
 
-Let the uphill road be $x\,\text{km}$ and the level road $y\,\text{km}$. From A to B: uphill $x$, level $y$; from B to A: the former uphill becomes downhill. According to the problem,
+Let the uphill road be $x\;\text{km}$ and the level road $y\;\text{km}$. From A to B: uphill $x$, level $y$; from B to A: the former uphill becomes downhill. According to the problem,
 
 $$
 \begin{cases}
@@ -201,7 +201,7 @@ $$
 
 Subtract the two equations: $x\left(\frac{1}{3}-\frac{1}{5}\right)=0.9-0.7=0.2$, i.e. $\frac{2}{15}x=0.2$, $x=1.5$. Substituting back $\frac{1.5}{3}+\frac{y}{4}=0.9$, we get $\frac{y}{4}=0.4$, $y=1.6$.
 
-The total distance is $1.5+1.6=3.1\,\text{km}$. $\blacksquare$
+The total distance is $1.5+1.6=3.1\;\text{km}$. $\blacksquare$
 
 ## Problem 2
 
@@ -219,11 +219,11 @@ The total distance is $1.5+1.6=3.1\,\text{km}$. $\blacksquare$
 
 ## Problem 3
 
-(Exercise 10.3, Review and Consolidation, Problem 2) Members of an outdoor sports club completed a two-day hike. The hiking times on the two days were $8\,\text{h}$ and $10\,\text{h}$ respectively, they walked $98\,\text{km}$ in total, and the first day was $2\,\text{km}$ shorter than the second. What were the average hiking speeds on the two days respectively?
+(Exercise 10.3, Review and Consolidation, Problem 2) Members of an outdoor sports club completed a two-day hike. The hiking times on the two days were $8\;\text{h}$ and $10\;\text{h}$ respectively, they walked $98\;\text{km}$ in total, and the first day was $2\;\text{km}$ shorter than the second. What were the average hiking speeds on the two days respectively?
 
 ### Solution to Problem 3
 
-Let $x\,\text{km}$ be the first day and $y\,\text{km}$ the second day. According to the problem,
+Let $x\;\text{km}$ be the first day and $y\;\text{km}$ the second day. According to the problem,
 
 $$
 \begin{cases}
@@ -232,7 +232,7 @@ y-x=2.
 \end{cases}
 $$
 
-Solving gives $x=48$, $y=50$. First-day average speed $\frac{48}{8}=6\,\text{km/h}$, second-day average speed $\frac{50}{10}=5\,\text{km/h}$. $\blacksquare$
+Solving gives $x=48$, $y=50$. First-day average speed $\frac{48}{8}=6\;\text{km/h}$, second-day average speed $\frac{50}{10}=5\;\text{km/h}$. $\blacksquare$
 
 ## Problem 4
 
@@ -253,11 +253,11 @@ $7x+7=9x-9$, giving $x=8$, $y=63$. Thus there are $8$ guest rooms and $63$ guest
 
 ## Problem 5
 
-(Exercise 10.3, Review and Consolidation, Problem 4) A port terminal uses type A and type B robots to move cargo. In $24\,\text{h}$, $3$ type A robots and $2$ type B robots move $450\,\text{t}$ of cargo in total, and each type A robot moves $25\,\text{t}$ more than a type B robot. What are the $24\,\text{h}$ cargo-moving amounts of each type A and type B robot respectively?
+(Exercise 10.3, Review and Consolidation, Problem 4) A port terminal uses type A and type B robots to move cargo. In $24\;\text{h}$, $3$ type A robots and $2$ type B robots move $450\;\text{t}$ of cargo in total, and each type A robot moves $25\;\text{t}$ more than a type B robot. What are the $24\;\text{h}$ cargo-moving amounts of each type A and type B robot respectively?
 
 ### Solution to Problem 5
 
-Let $x\,\text{t}$ be moved in $24\,\text{h}$ by each type A robot and $y\,\text{t}$ by type B. According to the problem,
+Let $x\;\text{t}$ be moved in $24\;\text{h}$ by each type A robot and $y\;\text{t}$ by type B. According to the problem,
 
 $$
 \begin{cases}
@@ -266,25 +266,25 @@ x=y+25,\\
 \end{cases}
 $$
 
-Substitute: $3\left(y+25\right)+2y=450$, i.e. $5y=375$, $y=75$, $x=100$. Thus type A is $100\,\text{t}$ and type B is $75\,\text{t}$. $\blacksquare$
+Substitute: $3\left(y+25\right)+2y=450$, i.e. $5y=375$, $y=75$, $x=100$. Thus type A is $100\;\text{t}$ and type B is $75\;\text{t}$. $\blacksquare$
 
 ## Problem 6
 
-(Exercise 10.3, Comprehensive Application, Problem 5) As shown in the figure, the school plans to design horizontal and vertical paths parallel to $AD$ and $AB$ respectively on a rectangular field $ABCD$ of length $18\,\text{m}$ and width $13\,\text{m}$, with turf laid on the rest. If the paths have equal width and the six lawn patches are identical in shape and size, and on one lawn patch the two sides satisfy $AM:AN=8:9$, what is the width of the path?
+(Exercise 10.3, Comprehensive Application, Problem 5) As shown in the figure, the school plans to design horizontal and vertical paths parallel to $AD$ and $AB$ respectively on a rectangular field $ABCD$ of length $18\;\text{m}$ and width $13\;\text{m}$, with turf laid on the rest. If the paths have equal width and the six lawn patches are identical in shape and size, and on one lawn patch the two sides satisfy $AM:AN=8:9$, what is the width of the path?
 
-The figure shows a rectangular field $ABCD$ measuring $18\,\text{m}$ by $13\,\text{m}$, with horizontal and vertical paths parallel to $AD$ and $AB$ dividing it into six lawn sections of identical shape and size.
+The figure shows a rectangular field $ABCD$ measuring $18\;\text{m}$ by $13\;\text{m}$, with horizontal and vertical paths parallel to $AD$ and $AB$ dividing it into six lawn sections of identical shape and size.
 
 ### Solution to Problem 6
 
-Let the path width be $d\,\text{m}$, each lawn patch width $w\,\text{m}$, and height $h\,\text{m}$. There are $2$ vertical paths horizontally and $1$ horizontal path vertically. By the problem $AM:AN=w:h=8:9$, so let $w=8k$, $h=9k$.
+Let the path width be $d\;\text{m}$, each lawn patch width $w\;\text{m}$, and height $h\;\text{m}$. There are $2$ vertical paths horizontally and $1$ horizontal path vertically. By the problem $AM:AN=w:h=8:9$, so let $w=8k$, $h=9k$.
 
-Field width $18\,\text{m}$: $3w+2d=18$; field height $13\,\text{m}$: $2h+d=13$.
+Field width $18\;\text{m}$: $3w+2d=18$; field height $13\;\text{m}$: $2h+d=13$.
 
-Substitute: $24k+2d=18$, $18k+d=13$. From the second equation $d=13-18k$; substitute into the first: $24k+2\left(13-18k\right)=18$, i.e. $-12k=-8$, $k=\frac{2}{3}$, so $d=13-18\times\frac{2}{3}=1$. The path width is $1\,\text{m}$. $\blacksquare$
+Substitute: $24k+2d=18$, $18k+d=13$. From the second equation $d=13-18k$; substitute into the first: $24k+2\left(13-18k\right)=18$, i.e. $-12k=-8$, $k=\frac{2}{3}$, so $d=13-18\times\frac{2}{3}=1$. The path width is $1\;\text{m}$. $\blacksquare$
 
 ## Problem 7
 
-(Exercise 10.3, Comprehensive Application, Problem 6) An advertising company makes display boards, brochures, and banners; the number of brochures is $5$ times the number of display boards. The time required and profit for each product are as follows: display board $1\,\text{h}$ each, profit $60$ yuan; brochure $0.2\,\text{h}$ each, profit $3.5$ yuan; banner $0.5\,\text{h}$ each, profit $20$ yuan. If making the three products takes $25\,\text{h}$ in total and the profit is $975$ yuan, find the total number of the three products.
+(Exercise 10.3, Comprehensive Application, Problem 6) An advertising company makes display boards, brochures, and banners; the number of brochures is $5$ times the number of display boards. The time required and profit for each product are as follows: display board $1\;\text{h}$ each, profit $60$ yuan; brochure $0.2\;\text{h}$ each, profit $3.5$ yuan; banner $0.5\;\text{h}$ each, profit $20$ yuan. If making the three products takes $25\;\text{h}$ in total and the profit is $975$ yuan, find the total number of the three products.
 
 ### Solution to Problem 7
 

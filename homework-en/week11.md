@@ -30,13 +30,13 @@
 
 ## Problem 1
 
-(Problem 5.2, Comprehensive Application, Problem 10) Sorting a batch of books takes one person $40\,\text{h}$. It is now planned that some people work for $4\,\text{h}$ first, then $2$ more people join them to work for $8\,\text{h}$, completing the job. Assuming these people all have the same work rate, how many people should be assigned to work first?
+(Problem 5.2, Comprehensive Application, Problem 10) Sorting a batch of books takes one person $40\;\text{h}$. It is now planned that some people work for $4\;\text{h}$ first, then $2$ more people join them to work for $8\;\text{h}$, completing the job. Assuming these people all have the same work rate, how many people should be assigned to work first?
 
 ### Solution to Problem 1
 
 By **Definition 5.2.3 (General Steps for Solving a Linear Equation in One Variable)**, let $x$ people be assigned to work first.
 
-Each person's hourly rate is $\frac{1}{40}$. The first $4\,\text{h}$ complete $\frac{4x}{40}$, and the next $8\,\text{h}$ complete $\frac{8\left(x+2\right)}{40}$. The total work is $1$:
+Each person's hourly rate is $\frac{1}{40}$. The first $4\;\text{h}$ complete $\frac{4x}{40}$, and the next $8\;\text{h}$ complete $\frac{8\left(x+2\right)}{40}$. The total work is $1$:
 
 $$\frac{4x}{40}+\frac{8\left(x+2\right)}{40}=1.$$
 
@@ -64,13 +64,13 @@ Set $\frac{3x-1}{4}+\frac{5x+7}{6}=0$. Multiply both sides by $12$: $3\left(3x-1
 
 ## Problem 4
 
-(Problem 5.2, Comprehensive Application, Problem 13) A boat travels downstream from dock A to dock B in $2\,\text{h}$; returning upstream from dock B to dock A takes $2.5\,\text{h}$. Given that the current speed is $3\,\text{km/h}$, find the average speed of the boat in still water.
+(Problem 5.2, Comprehensive Application, Problem 13) A boat travels downstream from dock A to dock B in $2\;\text{h}$; returning upstream from dock B to dock A takes $2.5\;\text{h}$. Given that the current speed is $3\;\text{km/h}$, find the average speed of the boat in still water.
 
 ### Solution to Problem 4
 
-By **Definition 5.2.3 (General Steps for Solving a Linear Equation in One Variable)**, let the boat's speed in still water be $v\,\text{km/h}$.
+By **Definition 5.2.3 (General Steps for Solving a Linear Equation in One Variable)**, let the boat's speed in still water be $v\;\text{km/h}$.
 
-The downstream speed is $v+3$, and the upstream speed is $v-3$. The distance between the two docks is unchanged: $2\left(v+3\right)=2.5\left(v-3\right)$. Remove parentheses: $2v+6=2.5v-7.5$. Transpose: $13.5=0.5v$, giving $v=27$. Hence the boat's average speed in still water is $27\,\text{km/h}$. $\blacksquare$
+The downstream speed is $v+3$, and the upstream speed is $v-3$. The distance between the two docks is unchanged: $2\left(v+3\right)=2.5\left(v-3\right)$. Remove parentheses: $2v+6=2.5v-7.5$. Transpose: $13.5=0.5v$, giving $v=27$. Hence the boat's average speed in still water is $27\;\text{km/h}$. $\blacksquare$
 
 ## Problem 5
 
@@ -116,17 +116,17 @@ Transpose: $0.8x=84$, giving $x=105$. Hence the marked price is $105$ yuan. $\bl
 
 ## Problem 8
 
-(Problem 5.2, Extension and Exploration, Problem 17) A train travels at uniform speed; passing through a tunnel $300\,\text{m}$ long takes $20\,\text{s}$. There is a lamp on top of the tunnel shining vertically downward, and the time the light illuminates the train is $10\,\text{s}$. From these data, can you find the length of the train? What is the length of the train?
+(Problem 5.2, Extension and Exploration, Problem 17) A train travels at uniform speed; passing through a tunnel $300\;\text{m}$ long takes $20\;\text{s}$. There is a lamp on top of the tunnel shining vertically downward, and the time the light illuminates the train is $10\;\text{s}$. From these data, can you find the length of the train? What is the length of the train?
 
 ### Solution to Problem 8
 
-By **Definition 5.2.3 (General Steps for Solving a Linear Equation in One Variable)**, let the train be $x\,\text{m}$ long.
+By **Definition 5.2.3 (General Steps for Solving a Linear Equation in One Variable)**, let the train be $x\;\text{m}$ long.
 
-The distance through the tunnel is $\left(300+x\right)\,\text{m}$, and the speed is $\frac{300+x}{20}$. When the light illuminates the train, the train travels a distance equal to its own length $x$, and the speed is $\frac{x}{10}$. The train travels at uniform speed:
+The distance through the tunnel is $\left(300+x\right)\;\text{m}$, and the speed is $\frac{300+x}{20}$. When the light illuminates the train, the train travels a distance equal to its own length $x$, and the speed is $\frac{x}{10}$. The train travels at uniform speed:
 
 $$\frac{300+x}{20}=\frac{x}{10}.$$
 
-Multiply both sides by $20$: $300+x=2x$, giving $x=300$. Hence the train is $300\,\text{m}$ long. $\blacksquare$
+Multiply both sides by $20$: $300+x=2x$, giving $x=300$. Hence the train is $300\;\text{m}$ long. $\blacksquare$
 
 ## Inquiry and Discovery 1
 
@@ -140,17 +140,17 @@ Multiply both sides by $10$: $10x=7.\overline{7}$. Subtracting the two equations
 
 ## Exercise 1
 
-(Exercise 5.3, Problem 1) Making one table requires $1$ tabletop and $4$ table legs; $1\,\text{m}^{3}$ of wood can make $20$ tabletops, or $400$ table legs. Given $12\,\text{m}^{3}$ of wood, how should the wood be allocated to make as many tables as possible?
+(Exercise 5.3, Problem 1) Making one table requires $1$ tabletop and $4$ table legs; $1\;\text{m}^{3}$ of wood can make $20$ tabletops, or $400$ table legs. Given $12\;\text{m}^{3}$ of wood, how should the wood be allocated to make as many tables as possible?
 
 ### Solution to Exercise 1
 
-By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)**, let $x\,\text{m}^{3}$ of wood be used for tabletops.
+By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)**, let $x\;\text{m}^{3}$ of wood be used for tabletops.
 
-Use $\left(12-x\right)\,\text{m}^{3}$ for table legs. The number of tabletops is $20x$, and the number of table legs is $400\left(12-x\right)$. Matching relation: number of legs $=4\times$ number of tabletops.
+Use $\left(12-x\right)\;\text{m}^{3}$ for table legs. The number of tabletops is $20x$, and the number of table legs is $400\left(12-x\right)$. Matching relation: number of legs $=4\times$ number of tabletops.
 
 $$400\left(12-x\right)=4\times20x.$$
 
-Simplifying: $400\left(12-x\right)=80x$, $4800-400x=80x$, $4800=480x$, giving $x=10$. Hence use $10\,\text{m}^{3}$ for tabletops and $2\,\text{m}^{3}$ for table legs. $\blacksquare$
+Simplifying: $400\left(12-x\right)=80x$, $4800-400x=80x$, $4800=480x$, giving $x=10$. Hence use $10\;\text{m}^{3}$ for tabletops and $2\;\text{m}^{3}$ for table legs. $\blacksquare$
 
 ## Exercise 2
 
@@ -256,17 +256,17 @@ Simplifying: $50=0.20x$, giving $x=250$. Hence at $250$ minutes of calls the two
 
 ## Problem 9
 
-(Problem 5.3, Review and Consolidation, Problem 1) A pastry factory must make a batch of boxed mooncakes before the Mid-Autumn Festival; each box contains $2$ large mooncakes and $4$ small mooncakes. Making $1$ large mooncake uses $0.05\,\text{kg}$ of flour, and $1$ small mooncake uses $0.02\,\text{kg}$ of flour. Given $4500\,\text{kg}$ of flour, how much flour should be used for each type of mooncake to produce the greatest number of boxed mooncakes?
+(Problem 5.3, Review and Consolidation, Problem 1) A pastry factory must make a batch of boxed mooncakes before the Mid-Autumn Festival; each box contains $2$ large mooncakes and $4$ small mooncakes. Making $1$ large mooncake uses $0.05\;\text{kg}$ of flour, and $1$ small mooncake uses $0.02\;\text{kg}$ of flour. Given $4500\;\text{kg}$ of flour, how much flour should be used for each type of mooncake to produce the greatest number of boxed mooncakes?
 
 ### Solution to Problem 9
 
-By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)**, let $x\,\text{kg}$ of flour be used for large mooncakes.
+By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)**, let $x\;\text{kg}$ of flour be used for large mooncakes.
 
-Use $\left(4500-x\right)\,\text{kg}$ for small mooncakes. The number of large mooncakes $\frac{x}{0.05}$, and small mooncakes $\frac{4500-x}{0.02}$. Each box has $2$ large and $4$ small:
+Use $\left(4500-x\right)\;\text{kg}$ for small mooncakes. The number of large mooncakes $\frac{x}{0.05}$, and small mooncakes $\frac{4500-x}{0.02}$. Each box has $2$ large and $4$ small:
 
 $$\frac{x}{0.05}\div2=\frac{4500-x}{0.02}\div4.$$
 
-i.e. $\frac{x}{0.1}=\frac{4500-x}{0.08}$. Cross-multiplying: $0.08x=0.1\left(4500-x\right)$, $0.08x=450-0.1x$, $0.18x=450$, giving $x=2500$. Hence large mooncakes use $2500\,\text{kg}$ and small mooncakes use $2000\,\text{kg}$. $\blacksquare$
+i.e. $\frac{x}{0.1}=\frac{4500-x}{0.08}$. Cross-multiplying: $0.08x=0.1\left(4500-x\right)$, $0.08x=450-0.1x$, $0.18x=450$, giving $x=2500$. Hence large mooncakes use $2500\;\text{kg}$ and small mooncakes use $2000\;\text{kg}$. $\blacksquare$
 
 ## Problem 10
 
@@ -284,27 +284,27 @@ Simplifying: $0.3x=0.2x+2$, $0.1x=2$, giving $x=20$. A small backpack costs $20$
 
 ## Problem 11
 
-(Problem 5.3, Review and Consolidation, Problem 3) A messenger must deliver a letter to a certain place within a prescribed time. Walking $15\,\text{km}$ per hour, he arrives $24\,\text{min}$ early; walking $12\,\text{km}$ per hour, he is $15\,\text{min}$ late. Find the prescribed time in hours and the distance in kilometers.
+(Problem 5.3, Review and Consolidation, Problem 3) A messenger must deliver a letter to a certain place within a prescribed time. Walking $15\;\text{km}$ per hour, he arrives $24\;\text{min}$ early; walking $12\;\text{km}$ per hour, he is $15\;\text{min}$ late. Find the prescribed time in hours and the distance in kilometers.
 
 ### Solution to Problem 11
 
 By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)**, let the prescribed time be $t$ hours.
 
-Arriving $24\,\text{min}=\frac{24}{60}=0.4\,\text{h}$ early, the actual time taken is $\left(t-0.4\right)$ hours; arriving $15\,\text{min}=0.25\,\text{h}$ late, the actual time taken is $\left(t+0.25\right)$ hours. The distance is unchanged:
+Arriving $24\;\text{min}=\frac{24}{60}=0.4\;\text{h}$ early, the actual time taken is $\left(t-0.4\right)$ hours; arriving $15\;\text{min}=0.25\;\text{h}$ late, the actual time taken is $\left(t+0.25\right)$ hours. The distance is unchanged:
 
 $$15\left(t-0.4\right)=12\left(t+0.25\right).$$
 
-Remove parentheses: $15t-6=12t+3$. Transpose: $3t=9$, giving $t=3$. The distance $=15\left(3-0.4\right)=15\times2.6=39\,\text{km}$. Hence the prescribed time is $3$ hours and the distance is $39\,\text{km}$. $\blacksquare$
+Remove parentheses: $15t-6=12t+3$. Transpose: $3t=9$, giving $t=3$. The distance $=15\left(3-0.4\right)=15\times2.6=39\;\text{km}$. Hence the prescribed time is $3$ hours and the distance is $39\;\text{km}$. $\blacksquare$
 
 ## Problem 12
 
-(Problem 5.3, Review and Consolidation, Problem 4) Students at a school repair the playground themselves. Working alone, grade-7 students take $7.5\,\text{h}$; working alone, grade-8 students take $5\,\text{h}$. If grade-7 and grade-8 students work together for $1\,\text{h}$, and then grade-8 students finish the rest alone, how long in total does it take?
+(Problem 5.3, Review and Consolidation, Problem 4) Students at a school repair the playground themselves. Working alone, grade-7 students take $7.5\;\text{h}$; working alone, grade-8 students take $5\;\text{h}$. If grade-7 and grade-8 students work together for $1\;\text{h}$, and then grade-8 students finish the rest alone, how long in total does it take?
 
 ### Solution to Problem 12
 
 By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)**, let the total time be $t$ hours.
 
-Working together for $1\,\text{h}$, grade 7 and 8 complete: $\frac{1}{7.5}+\frac{1}{5}=\frac{2}{15}+\frac{3}{15}=\frac{1}{3}$. The remaining $1-\frac{1}{3}=\frac{2}{3}$ is finished by grade 8 alone, taking $\frac{2}{3}\div\frac{1}{5}=\frac{10}{3}$ hours. The total time $t=1+\frac{10}{3}=\frac{13}{3}\,\text{h}$. $\blacksquare$
+Working together for $1\;\text{h}$, grade 7 and 8 complete: $\frac{1}{7.5}+\frac{1}{5}=\frac{2}{15}+\frac{3}{15}=\frac{1}{3}$. The remaining $1-\frac{1}{3}=\frac{2}{3}$ is finished by grade 8 alone, taking $\frac{2}{3}\div\frac{1}{5}=\frac{10}{3}$ hours. The total time $t=1+\frac{10}{3}=\frac{13}{3}\;\text{h}$. $\blacksquare$
 
 ## Problem 13
 
@@ -334,7 +334,7 @@ By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)*
 
 ## Problem 15
 
-(Problem 5.3, Comprehensive Application, Problem 7) A dairy factory now has $9\,\text{t}$ of fresh milk. If sold directly on the market, each ton yields a profit of $500$ yuan; if made into yogurt, each ton yields $1200$ yuan; if made into milk tablets, each ton yields $2000$ yuan. The factory's capacity is: making yogurt, it can process $3\,\text{t}$ per day; making milk tablets, it can process $1\,\text{t}$ per day. Limited by personnel, the two processing methods cannot run simultaneously; limited by weather, this batch of milk must all be sold or processed within $4$ days. To this end, the factory has designed two feasible plans:
+(Problem 5.3, Comprehensive Application, Problem 7) A dairy factory now has $9\;\text{t}$ of fresh milk. If sold directly on the market, each ton yields a profit of $500$ yuan; if made into yogurt, each ton yields $1200$ yuan; if made into milk tablets, each ton yields $2000$ yuan. The factory's capacity is: making yogurt, it can process $3\;\text{t}$ per day; making milk tablets, it can process $1\;\text{t}$ per day. Limited by personnel, the two processing methods cannot run simultaneously; limited by weather, this batch of milk must all be sold or processed within $4$ days. To this end, the factory has designed two feasible plans:
 
 Plan 1: make as much into milk tablets as possible, and sell the rest as fresh milk directly;
 
@@ -346,9 +346,9 @@ Which plan do you think yields the most profit, and why?
 
 By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)**, calculate the profit of both plans separately.
 
-Plan 1: $4$ days of milk tablets make $4\,\text{t}$, and the remaining $5\,\text{t}$ are sold directly. Profit $=4\times2000+5\times500=8000+2500=10500$ yuan.
+Plan 1: $4$ days of milk tablets make $4\;\text{t}$, and the remaining $5\;\text{t}$ are sold directly. Profit $=4\times2000+5\times500=8000+2500=10500$ yuan.
 
-Plan 2: let milk tablets take $x$ days and yogurt take $\left(4-x\right)$ days. The amount of milk tablets is $x\,\text{t}$, and yogurt is $3\left(4-x\right)\,\text{t}$. Total $9\,\text{t}$: $x+3\left(4-x\right)=9$. Simplifying: $x+12-3x=9$, $-2x=-3$, giving $x=1.5$. Milk tablets $1.5\,\text{t}$, yogurt $7.5\,\text{t}$. Profit $=1.5\times2000+7.5\times1200=3000+9000=12000$ yuan.
+Plan 2: let milk tablets take $x$ days and yogurt take $\left(4-x\right)$ days. The amount of milk tablets is $x\;\text{t}$, and yogurt is $3\left(4-x\right)\;\text{t}$. Total $9\;\text{t}$: $x+3\left(4-x\right)=9$. Simplifying: $x+12-3x=9$, $-2x=-3$, giving $x=1.5$. Milk tablets $1.5\;\text{t}$, yogurt $7.5\;\text{t}$. Profit $=1.5\times2000+7.5\times1200=3000+9000=12000$ yuan.
 
 Plan 2 profit $12000>10500$, so Plan 2 yields the most profit. $\blacksquare$
 
@@ -374,11 +374,11 @@ Working together for $3$ days they complete: $3\left(\frac{1}{15}+\frac{1}{12}\r
 
 ## Problem 18
 
-(Problem 5.3, Extension and Exploration, Problem 10) A city charges the monthly gas fee as follows: if gas usage does not exceed $60\,\text{m}^{3}$, it is charged at $0.8$ yuan per cubic meter; if it exceeds $60\,\text{m}^{3}$, the excess is charged at $1.2$ yuan per cubic meter. Given that a user's average gas price in April is $0.88$ yuan per cubic meter, how much gas fee should this user pay in April?
+(Problem 5.3, Extension and Exploration, Problem 10) A city charges the monthly gas fee as follows: if gas usage does not exceed $60\;\text{m}^{3}$, it is charged at $0.8$ yuan per cubic meter; if it exceeds $60\;\text{m}^{3}$, the excess is charged at $1.2$ yuan per cubic meter. Given that a user's average gas price in April is $0.88$ yuan per cubic meter, how much gas fee should this user pay in April?
 
 ### Solution to Problem 18
 
-By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)**, let the April gas usage be $x\,\text{m}^{3}$.
+By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)**, let the April gas usage be $x\;\text{m}^{3}$.
 
 The average price is $0.88$ yuan per cubic meter, so the total cost is $0.88x$ yuan. Since the average price $0.88>0.8$, we have $x>60$. Tiered billing: $0.8\times60+1.2\left(x-60\right)=0.88x$. Simplifying: $48+1.2x-72=0.88x$. Combine: $0.32x=24$, giving $x=75$. Total cost $=0.88\times75=66$ yuan. $\blacksquare$
 
@@ -398,14 +398,14 @@ Simplifying: $\left(89.6+x\right)\times1.1=110$. $98.56+1.1x=110$. $1.1x=11.44$.
 
 ## Problem 20
 
-(Problem 5.3, Extension and Exploration, Problem 12) A boat travels downstream from dock A to dock B, then returns upstream, reaching dock C which lies between A and B; the total navigation is $7\,\text{h}$. Given that the boat's speed in still water is $7.5\,\text{km/h}$, the current speed is $2.5\,\text{km/h}$, and the voyage between docks A and C is $10\,\text{km}$, find the voyage between docks A and B.
+(Problem 5.3, Extension and Exploration, Problem 12) A boat travels downstream from dock A to dock B, then returns upstream, reaching dock C which lies between A and B; the total navigation is $7\;\text{h}$. Given that the boat's speed in still water is $7.5\;\text{km/h}$, the current speed is $2.5\;\text{km/h}$, and the voyage between docks A and C is $10\;\text{km}$, find the voyage between docks A and B.
 
 ### Solution to Problem 20
 
-By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)**, let the A-to-B voyage be $x\,\text{km}$.
+By **Definition 5.3.1 (Steps for Solving Word Problems by Setting Up Equations)**, let the A-to-B voyage be $x\;\text{km}$.
 
-The downstream speed $=7.5+2.5=10\,\text{km/h}$, and the upstream speed $=7.5-2.5=5\,\text{km/h}$. The B-to-C voyage is $\left(x-10\right)\,\text{km}$. Total time:
+The downstream speed $=7.5+2.5=10\;\text{km/h}$, and the upstream speed $=7.5-2.5=5\;\text{km/h}$. The B-to-C voyage is $\left(x-10\right)\;\text{km}$. Total time:
 
 $$\frac{x}{10}+\frac{x-10}{5}=7.$$
 
-Multiply both sides by $10$: $x+2\left(x-10\right)=70$. Remove parentheses: $x+2x-20=70$. Combine: $3x=90$, giving $x=30$. Hence the voyage between docks A and B is $30\,\text{km}$. $\blacksquare$
+Multiply both sides by $10$: $x+2\left(x-10\right)=70$. Remove parentheses: $x+2x-20=70$. Combine: $3x=90$, giving $x=30$. Hence the voyage between docks A and B is $30\;\text{km}$. $\blacksquare$

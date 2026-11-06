@@ -102,15 +102,15 @@ By **Definition 8.1.1 (Square Root)**.
 
 ## Problem 4
 
-(Exercise 8.1, Comprehensive Application, Problem 7) Estimate the side length, in decimeters, of a square whose area is $3\,\text{dm}^2$ (keep two decimal places).
+(Exercise 8.1, Comprehensive Application, Problem 7) Estimate the side length, in decimeters, of a square whose area is $3\;\text{dm}^2$ (keep two decimal places).
 
 ### Solution to Problem 4
 
-Let the side length be $x\,\text{dm}$; then $x^2=3$, and by **Definition 8.1.1 (Square Root)**, $x=\sqrt3$.
+Let the side length be $x\;\text{dm}$; then $x^2=3$, and by **Definition 8.1.1 (Square Root)**, $x=\sqrt3$.
 
 $\because1.7^2=2.89<3<3.24=1.8^2$, continue to refine: $1.73^2=2.9929<3<3.0276=1.74^2$, and further $1.732^2\approx2.999<3$. Thus $\sqrt3\approx1.73$.
 
-That is, the side length of the square is about $1.73\,\text{dm}$. $\blacksquare$
+That is, the side length of the square is about $1.73\;\text{dm}$. $\blacksquare$
 
 ## Problem 5
 
@@ -220,15 +220,15 @@ By **Definition 8.2.1 (Cube Root)**, find the number whose cube equals the given
 
 ## Exercise 3
 
-(Exercise 8.2, Problem 3) As shown in the figure, there is a Rubik's cube in the shape of a cube, with volume $216\,\text{cm}^3$. What is its edge length?
+(Exercise 8.2, Problem 3) As shown in the figure, there is a Rubik's cube in the shape of a cube, with volume $216\;\text{cm}^3$. What is its edge length?
 
 ### Solution to Exercise 3
 
-Let the edge length be $x\,\text{cm}$; by the volume formula of a cube, $x^3=216$.
+Let the edge length be $x\;\text{cm}$; by the volume formula of a cube, $x^3=216$.
 
 By **Definition 8.2.1 (Cube Root)**, $x=\sqrt\left[3\right]{216}$. $\because6^3=216$, $\therefore{x}=6$.
 
-That is, the edge length of the Rubik's cube is $6\,\text{cm}$. $\blacksquare$
+That is, the edge length of the Rubik's cube is $6\;\text{cm}$. $\blacksquare$
 
 ## Exercise 4
 
@@ -358,7 +358,7 @@ That is, the edge length of the cube is about $19.98\,dm$. $\blacksquare$
 
 ## Problem 14
 
-(Exercise 8.2, Comprehensive Application, Problem 6) As shown in the figure, there is a cylindrical retractable bollard with volume $22600\,\text{cm}^3$; its height $h$ is $5.48$ times the base radius $r$. What is the base radius $r$ in centimeters? (Take $\pi$ as $3.14$, keep two decimal places.)
+(Exercise 8.2, Comprehensive Application, Problem 6) As shown in the figure, there is a cylindrical retractable bollard with volume $22600\;\text{cm}^3$; its height $h$ is $5.48$ times the base radius $r$. What is the base radius $r$ in centimeters? (Take $\pi$ as $3.14$, keep two decimal places.)
 
 ### Solution to Problem 14
 
@@ -376,7 +376,7 @@ $$
 
 By **Definition 8.2.1 (Cube Root)**, $r=\sqrt\left[3\right]{1313.4}\approx10.95$.
 
-That is, the base radius $r$ is about $10.95\,\text{cm}$. $\blacksquare$
+That is, the base radius $r$ is about $10.95\;\text{cm}$. $\blacksquare$
 
 ## Problem 15
 

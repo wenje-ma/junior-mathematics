@@ -18,7 +18,7 @@
 
 ## Problem 1
 
-(Exercise 26.4, Comprehensive Application, Problem 5) As shown in the figure, material of length $6\,\text{m}$ makes a window frame with a semicircle on top and a rectangle below. For what bottom width $x$ is the light-transmitting area $S$ maximized (rounded to one decimal place)?
+(Exercise 26.4, Comprehensive Application, Problem 5) As shown in the figure, material of length $6\;\text{m}$ makes a window frame with a semicircle on top and a rectangle below. For what bottom width $x$ is the light-transmitting area $S$ maximized (rounded to one decimal place)?
 
 The figure shows a window frame: the lower part is a rectangle and the upper part is a semicircle whose diameter coincides with the rectangle's bottom side, i.e. the bottom width $x$; the frame material consists of the rectangle's bottom side, its two vertical sides, and the top semicircular arc.
 
@@ -32,13 +32,13 @@ $$
 S=x\left(3-\frac{x}2-\frac{\pi{x}}4\right)+\frac{\pi{x}^2}8=3x-x^2\left(\frac12+\frac\pi8\right).
 $$
 
-By The Parabola $y=ax^2+bx+c$, the area is maximized when $x=\frac{3}{2\left(\frac12+\frac\pi8\right)}=\frac{12}{4+\pi}\approx1.7\,\text{m}$. $\blacksquare$
+By The Parabola $y=ax^2+bx+c$, the area is maximized when $x=\frac{3}{2\left(\frac12+\frac\pi8\right)}=\frac{12}{4+\pi}\approx1.7\;\text{m}$. $\blacksquare$
 
 ## Problem 2
 
-(Exercise 26.4, Comprehensive Application, Problem 6) A triangular piece of material is shown, with $\angle{A}=30^\circ$, $\angle{C}=90^\circ$, and $AB=12\,\text{cm}$. A rectangle $CDEF$ is cut out, with $D,E,F$ lying on $BC,AB,AC$ respectively. To maximize the rectangle's area, where should $E$ be chosen?
+(Exercise 26.4, Comprehensive Application, Problem 6) A triangular piece of material is shown, with $\angle{A}=30^\circ$, $\angle{C}=90^\circ$, and $AB=12\;\text{cm}$. A rectangle $CDEF$ is cut out, with $D,E,F$ lying on $BC,AB,AC$ respectively. To maximize the rectangle's area, where should $E$ be chosen?
 
-The figure shows right triangle $ABC$ with $\angle{C}=90^\circ$, $\angle{A}=30^\circ$, and hypotenuse $AB=12\,\text{cm}$; inside it is inscribed rectangle $CDEF$, where $C$ is the right-angle vertex, $D$ lies on leg $BC$, $E$ lies on hypotenuse $AB$, and $F$ lies on leg $AC$.
+The figure shows right triangle $ABC$ with $\angle{C}=90^\circ$, $\angle{A}=30^\circ$, and hypotenuse $AB=12\;\text{cm}$; inside it is inscribed rectangle $CDEF$, where $C$ is the right-angle vertex, $D$ lies on leg $BC$, $E$ lies on hypotenuse $AB$, and $F$ lies on leg $AC$.
 
 ### Solution to Problem 2
 
@@ -50,7 +50,7 @@ $$
 S=x\left(6-\frac{x}{\sqrt3}\right)=6x-\frac{x^2}{\sqrt3}.
 $$
 
-By The Parabola $y=ax^2+bx+c$, the maximum is taken at $x=\frac{6}{2/\sqrt3}=\frac{3\sqrt3}2$; then $E$'s horizontal coordinate is $6-\frac{3\sqrt3/2}{\sqrt3}=\frac92$. Hence $E$ should be chosen on $AB$ such that $CF=\frac{3\sqrt3}2\,\text{cm}$, maximizing the rectangle's area. $\blacksquare$
+By The Parabola $y=ax^2+bx+c$, the maximum is taken at $x=\frac{6}{2/\sqrt3}=\frac{3\sqrt3}2$; then $E$'s horizontal coordinate is $6-\frac{3\sqrt3/2}{\sqrt3}=\frac92$. Hence $E$ should be chosen on $AB$ such that $CF=\frac{3\sqrt3}2\;\text{cm}$, maximizing the rectangle's area. $\blacksquare$
 
 ## Problem 3
 
@@ -68,7 +68,7 @@ By The Parabola $y=ax^2+bx+c$, $a=-10<0$; the maximum is taken at $x=\frac{340}{
 
 ## Problem 4
 
-(Exercise 26.4, Comprehensive Application, Problem 8) An aquatic product costs $40$ yuan/kg; at $50$ yuan/kg, $500\,\text{kg}$ are sold per month. For each $1$ yuan/kg increase in the selling price $x$, monthly sales volume decreases by $10\,\text{kg}$.
+(Exercise 26.4, Comprehensive Application, Problem 8) An aquatic product costs $40$ yuan/kg; at $50$ yuan/kg, $500\;\text{kg}$ are sold per month. For each $1$ yuan/kg increase in the selling price $x$, monthly sales volume decreases by $10\;\text{kg}$.
 
 (1) Write the function expression for monthly profit $y$ in terms of the selling price $x$;
 
@@ -86,7 +86,7 @@ $$
 y=\left(x-40\right)\left(1000-10x\right)=-10x^2+1400x-40000.
 $$
 
-(2) At $x=55$, sales volume is $1000-550=450\,\text{kg}$, and profit is $y=\left(55-40\right)\times450=6750$ yuan.
+(2) At $x=55$, sales volume is $1000-550=450\;\text{kg}$, and profit is $y=\left(55-40\right)\times450=6750$ yuan.
 
 (3) Setting $y=8000$ gives $\left(x-40\right)\left(1000-10x\right)=8000$; rearranging gives $x^2-140x+4800=0$, i.e. $\left(x-60\right)\left(x-80\right)=0$, hence $x=60$ or $x=80$.
 
@@ -94,13 +94,13 @@ $$
 
 ## Problem 5
 
-(Exercise 26.4, Extension and Exploration, Problem 9) A three-arch bridge has three parabolic arches; the two small arches are identical. At normal water level, the large arch spans $20\,\text{m}$ across the water, its vertex is $8\,\text{m}$ above the water, and the small arches' vertices are $5\,\text{m}$ above the water. Find the water-surface width of the large arch when the water rises just enough to submerge the small arches (rounded to one decimal place).
+(Exercise 26.4, Extension and Exploration, Problem 9) A three-arch bridge has three parabolic arches; the two small arches are identical. At normal water level, the large arch spans $20\;\text{m}$ across the water, its vertex is $8\;\text{m}$ above the water, and the small arches' vertices are $5\;\text{m}$ above the water. Find the water-surface width of the large arch when the water rises just enough to submerge the small arches (rounded to one decimal place).
 
 ### Solution to Problem 5
 
-Take the large arch's vertex as the origin and its axis of symmetry as the $y$-axis, with parabola $y=ax^2$. At normal water level the surface is at $y=-8$, spanning $20\,\text{m}$ and passing through $\left(10,-8\right)$; hence $-8=a\cdot100$, giving $a=-\frac2{25}$, i.e. $y=-\frac2{25}x^2$.
+Take the large arch's vertex as the origin and its axis of symmetry as the $y$-axis, with parabola $y=ax^2$. At normal water level the surface is at $y=-8$, spanning $20\;\text{m}$ and passing through $\left(10,-8\right)$; hence $-8=a\cdot100$, giving $a=-\frac2{25}$, i.e. $y=-\frac2{25}x^2$.
 
-When the water rises just to submerge the small arches, it has risen $5\,\text{m}$, so the surface is at $y=-8+5=-3$. Setting $y=-3$ gives $-3=-\frac2{25}x^2$, $x^2=\frac{75}2$, $x=\pm\sqrt{37.5}\approx\pm6.12$. Hence the large arch's water-surface width is about $2\times6.12=12.2\,\text{m}$. $\blacksquare$
+When the water rises just to submerge the small arches, it has risen $5\;\text{m}$, so the surface is at $y=-8+5=-3$. Setting $y=-3$ gives $-3=-\frac2{25}x^2$, $x^2=\frac{75}2$, $x=\pm\sqrt{37.5}\approx\pm6.12$. Hence the large arch's water-surface width is about $2\times6.12=12.2\;\text{m}$. $\blacksquare$
 
 ## Problem 6
 
@@ -159,7 +159,7 @@ $$
 
 (2) Guess the function type and find a function expression that roughly fits the data;
 
-(3) At an accident scene, the braking distance is about $70\,\text{m}$; the speed limit is $100\,\text{km/h}$. Determine whether the car was speeding.
+(3) At an accident scene, the braking distance is about $70\;\text{m}$; the speed limit is $100\;\text{km/h}$. Determine whether the car was speeding.
 
 The figure is a scatter plot in a rectangular coordinate plane with speed $v$ (in km/h) on the horizontal axis and braking distance $l$ (in m) on the vertical axis, marking six data points $\left(40,17\right)$, $\left(48,22.4\right)$, $\left(56,27.9\right)$, $\left(64,35.3\right)$, $\left(72,43.4\right)$, and $\left(80,52.8\right)$; the points roughly lie on an upward-opening parabola.
 
@@ -176,7 +176,7 @@ $$
 (3) Setting $l=70$ gives $0.006v^2+0.2v=70$, i.e. $0.006v^2+0.2v-70=0$, solving
 
 $$
-v=\frac{-0.2+\sqrt{0.04+1.68}}{0.012}\approx92.5\,\text{km/h}.
+v=\frac{-0.2+\sqrt{0.04+1.68}}{0.012}\approx92.5\;\text{km/h}.
 $$
 
 Since $92.5<100$, the car was not speeding at the time of the accident. $\blacksquare$
@@ -303,7 +303,7 @@ By Basic Knowledge, use the quadratic formula to find the roots.
 
 ## Review Problem 7
 
-(Review, Comprehensive Application, Problem 7) A water jet from a pipe of height $1\,\text{m}$ reaches height $h=-5t^2+12t+1$ in the air.
+(Review, Comprehensive Application, Problem 7) A water jet from a pipe of height $1\;\text{m}$ reaches height $h=-5t^2+12t+1$ in the air.
 
 (1) After leaving the pipe, how long until the water falls back to its starting height?
 
@@ -311,35 +311,35 @@ By Basic Knowledge, use the quadratic formula to find the roots.
 
 ### Solution to Review Problem 7
 
-(1) The starting height is $h=1$; setting $h=1$ gives $-5t^2+12t+1=1$, i.e. $t\left(-5t+12\right)=0$, solving $t=0$ (at ejection) or $t=\frac{12}5=2.4\,\text{s}$. Hence it takes $2.4\,\text{s}$ to fall back to the starting height.
+(1) The starting height is $h=1$; setting $h=1$ gives $-5t^2+12t+1=1$, i.e. $t\left(-5t+12\right)=0$, solving $t=0$ (at ejection) or $t=\frac{12}5=2.4\;\text{s}$. Hence it takes $2.4\;\text{s}$ to fall back to the starting height.
 
-(2) By Basic Knowledge, $a=-5<0$; the maximum is taken at $t=\frac{12}{10}=1.2$, with $h_{\max}=-5\times1.2^2+12\times1.2+1=8.2\,\text{m}$. $\blacksquare$
+(2) By Basic Knowledge, $a=-5<0$; the maximum is taken at $t=\frac{12}{10}=1.2$, with $h_{\max}=-5\times1.2^2+12\times1.2+1=8.2\;\text{m}$. $\blacksquare$
 
 ## Review Problem 8
 
-(Review, Comprehensive Application, Problem 8) After landing, an aircraft's taxiing distance is $y=60t-1.5t^2$. How far does it taxi to stop? How far does it taxi in the last $4\,\text{s}$?
+(Review, Comprehensive Application, Problem 8) After landing, an aircraft's taxiing distance is $y=60t-1.5t^2$. How far does it taxi to stop? How far does it taxi in the last $4\;\text{s}$?
 
 ### Solution to Review Problem 8
 
-The aircraft stops when the taxiing distance reaches its maximum, corresponding to the vertex. By Basic Knowledge, $a=-1.5<0$; it stops at $t=\frac{60}{3}=20\,\text{s}$, at which
+The aircraft stops when the taxiing distance reaches its maximum, corresponding to the vertex. By Basic Knowledge, $a=-1.5<0$; it stops at $t=\frac{60}{3}=20\;\text{s}$, at which
 
 $$
-y_{\max}=60\times20-1.5\times400=600\,\text{m}.
+y_{\max}=60\times20-1.5\times400=600\;\text{m}.
 $$
 
-The last $4\,\text{s}$ is from $t=16$ to $t=20$, and the distance taxied is
+The last $4\;\text{s}$ is from $t=16$ to $t=20$, and the distance taxied is
 
 $$
-y\left(20\right)-y\left(16\right)=600-\left(60\times16-1.5\times256\right)=600-576=24\,\text{m}.
+y\left(20\right)-y\left(16\right)=600-\left(60\times16-1.5\times256\right)=600-576=24\;\text{m}.
 $$
 
-Hence after landing it taxis $600\,\text{m}$ to a stop, and taxis $24\,\text{m}$ in the last $4\,\text{s}$. $\blacksquare$
+Hence after landing it taxis $600\;\text{m}$ to a stop, and taxis $24\;\text{m}$ in the last $4\;\text{s}$. $\blacksquare$
 
 ## Review Problem 9
 
-(Review, Comprehensive Application, Problem 9) As shown, points $E,F,G,H$ lie on the four sides of square $ABCD$ respectively, and quadrilateral $EFGH$ is also a square. The large square has side $12\,\text{m}$. Where should $E$ be placed to minimize the area of square $EFGH$?
+(Review, Comprehensive Application, Problem 9) As shown, points $E,F,G,H$ lie on the four sides of square $ABCD$ respectively, and quadrilateral $EFGH$ is also a square. The large square has side $12\;\text{m}$. Where should $E$ be placed to minimize the area of square $EFGH$?
 
-The figure shows square $ABCD$ with side length $12\,\text{m}$; points $E,F,G,H$ lie respectively on sides $AB,BC,CD,DA$, with $AE=BF=CG=DH$, and quadrilateral $EFGH$ is also a square inscribed in the large square.
+The figure shows square $ABCD$ with side length $12\;\text{m}$; points $E,F,G,H$ lie respectively on sides $AB,BC,CD,DA$, with $AE=BF=CG=DH$, and quadrilateral $EFGH$ is also a square inscribed in the large square.
 
 ### Solution to Review Problem 9
 
@@ -353,13 +353,13 @@ By Basic Knowledge, $a=2>0$; the minimum is taken at $x=\frac{24}{4}=6$, with $S
 
 ## Review Problem 10
 
-(Review, Comprehensive Application, Problem 10) As shown, alongside a wall $12\,\text{m}$ long, a fence of length $33\,\text{m}$ encloses a rectangular flower bed with one side against the wall and a divider fence in the middle. What should $AB,BC$ be to maximize the flower bed's area? What is the maximum area?
+(Review, Comprehensive Application, Problem 10) As shown, alongside a wall $12\;\text{m}$ long, a fence of length $33\;\text{m}$ encloses a rectangular flower bed with one side against the wall and a divider fence in the middle. What should $AB,BC$ be to maximize the flower bed's area? What is the maximum area?
 
 ### Solution to Review Problem 10
 
-Let $AB$ be perpendicular to the wall, with length $x$; the fence consists of three sides in the $AB$ direction and one side in the $BC$ direction, hence $3x+BC=33$, i.e. $BC=33-3x$. The wall is $12\,\text{m}$ long, so $BC\le12$, i.e. $x\ge7$.
+Let $AB$ be perpendicular to the wall, with length $x$; the fence consists of three sides in the $AB$ direction and one side in the $BC$ direction, hence $3x+BC=33$, i.e. $BC=33-3x$. The wall is $12\;\text{m}$ long, so $BC\le12$, i.e. $x\ge7$.
 
-The area is $S=x\left(33-3x\right)=-3x^2+33x$. By Basic Knowledge, the vertex is at $x=\frac{33}{6}=5.5$; since $x\ge7$ lies to the right of the vertex, $S$ decreases as $x$ increases. Hence the maximum is at $x=7$, with $BC=33-21=12$ and maximum area $S=7\times12=84\,\text{m}^2$. That is, $AB=7\,\text{m}$, $BC=12\,\text{m}$. $\blacksquare$
+The area is $S=x\left(33-3x\right)=-3x^2+33x$. By Basic Knowledge, the vertex is at $x=\frac{33}{6}=5.5$; since $x\ge7$ lies to the right of the vertex, $S$ decreases as $x$ increases. Hence the maximum is at $x=7$, with $BC=33-21=12$ and maximum area $S=7\times12=84\;\text{m}^2$. That is, $AB=7\;\text{m}$, $BC=12\;\text{m}$. $\blacksquare$
 
 ## Review Problem 11
 
@@ -387,7 +387,7 @@ where $0\le{x}\le20$ (price not above $70$ yuan, i.e. $x\le20$).
 
 ## Review Problem 12
 
-(Review, Comprehensive Application, Problem 12) A rectangle has perimeter $36\,\text{cm}$; rotating it about one side forms a cylinder. What should the two adjacent sides be to maximize the cylinder's lateral surface area?
+(Review, Comprehensive Application, Problem 12) A rectangle has perimeter $36\;\text{cm}$; rotating it about one side forms a cylinder. What should the two adjacent sides be to maximize the cylinder's lateral surface area?
 
 ### Solution to Review Problem 12
 
@@ -397,7 +397,7 @@ $$
 S=2\pi{b}\cdot{a}=2\pi{a}b.
 $$
 
-By Basic Knowledge, $ab$ is maximized when $a=b$ (for fixed sum, product is maximized when equal), hence $a=b=9$. That is, when both adjacent sides are $9\,\text{cm}$, the cylinder's lateral surface area is maximized. $\blacksquare$
+By Basic Knowledge, $ab$ is maximized when $a=b$ (for fixed sum, product is maximized when equal), hence $a=b=9$. That is, when both adjacent sides are $9\;\text{cm}$, the cylinder's lateral surface area is maximized. $\blacksquare$
 
 ## Review Problem 13
 
@@ -423,11 +423,11 @@ $S$ is minimized. This value is precisely the arithmetic mean of the $n$ measure
 
 (Exercise 27.1, Problem 1) Use function expressions to represent the relation between the variables in the following problems:
 
-(1) A swimming pool has volume $2000\,\text{m}^3$; the time $t$ (in $\text{h}$) to fill it varies with the filling rate $v$ (in $\text{m}^3/\text{h}$);
+(1) A swimming pool has volume $2000\;\text{m}^3$; the time $t$ (in $\text{h}$) to fill it varies with the filling rate $v$ (in $\text{m}^3/\text{h}$);
 
-(2) A school divides a $1000\,\text{m}^2$ practice field equally among several classes; the area $y$ (in $\text{m}^2$) per class varies with the number of classes $x$;
+(2) A school divides a $1000\;\text{m}^2$ practice field equally among several classes; the area $y$ (in $\text{m}^2$) per class varies with the number of classes $x$;
 
-(3) In a circuit the voltage is $U=3\,\text{V}$; the current $I$ (in $\text{A}$) varies with the resistance $R$ (in $\Omega$).
+(3) In a circuit the voltage is $U=3\;\text{V}$; the current $I$ (in $\text{A}$) varies with the resistance $R$ (in $\Omega$).
 
 ### Solution to Exercise 1
 

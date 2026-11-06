@@ -301,7 +301,7 @@ $\blacksquare$
 (练习 15.2 第 1 题) 分别写出下列各点关于 $x$ 轴和 $y$ 轴对称的点的坐标:
 
 $$
-\left(-2,6\right),\,\left(1,-2\right),\,\left(1,3\right),\,\left(-4,-2\right),\,\left(1,0\right).
+\left(-2,6\right),\left(1,-2\right),\left(1,3\right),\left(-4,-2\right),\left(1,0\right).
 $$
 
 ### 解答 练习十

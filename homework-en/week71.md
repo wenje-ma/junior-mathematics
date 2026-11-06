@@ -30,55 +30,55 @@
 
 ## Problem 1
 
-(Problem 28.2, Comprehensive Application, Problem 7) As shown in the figure, the base of a pyramid is a square of side $130\,\text{m}$, and each lateral face makes an angle of $65^{\circ}$ with the base. How high was this pyramid originally (round to an integer)?
+(Problem 28.2, Comprehensive Application, Problem 7) As shown in the figure, the base of a pyramid is a square of side $130\;\text{m}$, and each lateral face makes an angle of $65^{\circ}$ with the base. How high was this pyramid originally (round to an integer)?
 
 ### Solution to Problem 1
 
-The square base of the pyramid has side $130\,\text{m}$, and the lateral faces make an angle of $65^{\circ}$ with the base. The height $h$ and the distance $d=\frac{130}{2}=65\,\text{m}$ from the center of the base to a side form a right triangle, with the dihedral angle between the lateral face and the base being $65^{\circ}$.
+The square base of the pyramid has side $130\;\text{m}$, and the lateral faces make an angle of $65^{\circ}$ with the base. The height $h$ and the distance $d=\frac{130}{2}=65\;\text{m}$ from the center of the base to a side form a right triangle, with the dihedral angle between the lateral face and the base being $65^{\circ}$.
 
-By **Definition 28.1.3 (Tangent)**, $\tan65^{\circ}=\frac{h}{65}$, so $h=65\times\tan65^{\circ}\approx65\times2.1445\approx139\,\text{m}$. $\blacksquare$
+By **Definition 28.1.3 (Tangent)**, $\tan65^{\circ}=\frac{h}{65}$, so $h=65\times\tan65^{\circ}\approx65\times2.1445\approx139\;\text{m}$. $\blacksquare$
 
 ## Problem 2
 
-(Problem 28.2, Comprehensive Application, Problem 8) As shown in the figure, a launch vehicle is launched from point $L$ on the ground. When the rocket reaches point $A$, the distance $AR$ measured from a radar station at point $R$ on the ground is $6\,\text{km}$, with an angle of elevation of $43^{\circ}$; $1\,\text{s}$ later the rocket reaches point $B$, at which time the measured angle of elevation is $45.54^{\circ}$. What is the average speed of this rocket from $A$ to $B$ (round to two decimal places)?
+(Problem 28.2, Comprehensive Application, Problem 8) As shown in the figure, a launch vehicle is launched from point $L$ on the ground. When the rocket reaches point $A$, the distance $AR$ measured from a radar station at point $R$ on the ground is $6\;\text{km}$, with an angle of elevation of $43^{\circ}$; $1\;\text{s}$ later the rocket reaches point $B$, at which time the measured angle of elevation is $45.54^{\circ}$. What is the average speed of this rocket from $A$ to $B$ (round to two decimal places)?
 
-The figure shows a rocket launch diagram: the rocket launches vertically upward from ground point $L$, and the radar station is at ground point $R$, with $LR$ being the horizontal distance; when the rocket reaches point $A$, $AR=6\,\text{km}$ and angle of elevation $\angle{A}RL=43^\circ$; $1\,\text{s}$ later at point $B$, the angle of elevation is $\angle{B}RL=45.54^\circ$, and $A,B,L$ lie on the same vertical line.
+The figure shows a rocket launch diagram: the rocket launches vertically upward from ground point $L$, and the radar station is at ground point $R$, with $LR$ being the horizontal distance; when the rocket reaches point $A$, $AR=6\;\text{km}$ and angle of elevation $\angle{A}RL=43^\circ$; $1\;\text{s}$ later at point $B$, the angle of elevation is $\angle{B}RL=45.54^\circ$, and $A,B,L$ lie on the same vertical line.
 
 ### Solution to Problem 2
 
-Let the horizontal distance $LR$ be $d$. In $\text{Rt}\triangle{A}LR$, $AR=6\,\text{km}$, $\angle{A}RL=43^{\circ}$.
+Let the horizontal distance $LR$ be $d$. In $\text{Rt}\triangle{A}LR$, $AR=6\;\text{km}$, $\angle{A}RL=43^{\circ}$.
 
-$AL=AR\cdot\sin43^{\circ}=6\times\sin43^{\circ}\approx6\times0.6820\approx4.092\,\text{km}$.
+$AL=AR\cdot\sin43^{\circ}=6\times\sin43^{\circ}\approx6\times0.6820\approx4.092\;\text{km}$.
 
-$LR=AR\cdot\cos43^{\circ}=6\times\cos43^{\circ}\approx6\times0.7314\approx4.388\,\text{km}$.
+$LR=AR\cdot\cos43^{\circ}=6\times\cos43^{\circ}\approx6\times0.7314\approx4.388\;\text{km}$.
 
-In $\text{Rt}\triangle{B}LR$, $\angle{B}RL=45.54^{\circ}$, $BL=LR\cdot\tan45.54^{\circ}\approx4.388\times1.0198\approx4.475\,\text{km}$.
+In $\text{Rt}\triangle{B}LR$, $\angle{B}RL=45.54^{\circ}$, $BL=LR\cdot\tan45.54^{\circ}\approx4.388\times1.0198\approx4.475\;\text{km}$.
 
-$AB=BL-AL\approx4.475-4.092=0.383\,\text{km}=383\,\text{m}$.
+$AB=BL-AL\approx4.475-4.092=0.383\;\text{km}=383\;\text{m}$.
 
-The average speed $=\frac{383}{1}=383.00\,\text{m/s}$. $\blacksquare$
+The average speed $=\frac{383}{1}=383.00\;\text{m/s}$. $\blacksquare$
 
 ## Problem 3
 
-(Problem 28.2, Comprehensive Application, Problem 9) As shown in the figure, to facilitate pedestrians crossing the road, an overpass $5\,\text{m}$ high is to be built. Given that the slope grade of the overpass is $1:1.5$, calculate the length of the slope $AB$ (round to an integer).
+(Problem 28.2, Comprehensive Application, Problem 9) As shown in the figure, to facilitate pedestrians crossing the road, an overpass $5\;\text{m}$ high is to be built. Given that the slope grade of the overpass is $1:1.5$, calculate the length of the slope $AB$ (round to an integer).
 
 ### Solution to Problem 3
 
-The grade $i=1:1.5$, i.e. the ratio of vertical height to horizontal width is $1:1.5$. The vertical height is $5\,\text{m}$, so the horizontal width $=5\times1.5=7.5\,\text{m}$.
+The grade $i=1:1.5$, i.e. the ratio of vertical height to horizontal width is $1:1.5$. The vertical height is $5\;\text{m}$, so the horizontal width $=5\times1.5=7.5\;\text{m}$.
 
-By the Pythagorean theorem, the slope length is $AB=\sqrt{5^{2}+7.5^{2}}=\sqrt{25+56.25}=\sqrt{81.25}\approx9\,\text{m}$. $\blacksquare$
+By the Pythagorean theorem, the slope length is $AB=\sqrt{5^{2}+7.5^{2}}=\sqrt{25+56.25}=\sqrt{81.25}\approx9\;\text{m}$. $\blacksquare$
 
 ## Problem 4
 
-(Problem 28.2, Extension and Exploration, Problem 10) There is a small island $P$ in the sea, and within a circular sea area centered at $P$ with radius $16\sqrt{2}\,\text{n~mile}$ there are reefs. A ship sails from west to east; at point $A$ the island $P$ is measured to be in the direction $60^{\circ}$ east of north, and $AP=32\,\text{n~mile}$. If the ship continues due east, is there a danger of striking a reef? If there is danger, at how many degrees east of south should the ship sail from point $A$ to safely pass through this sea area?
+(Problem 28.2, Extension and Exploration, Problem 10) There is a small island $P$ in the sea, and within a circular sea area centered at $P$ with radius $16\sqrt{2}\;\text{n~mile}$ there are reefs. A ship sails from west to east; at point $A$ the island $P$ is measured to be in the direction $60^{\circ}$ east of north, and $AP=32\;\text{n~mile}$. If the ship continues due east, is there a danger of striking a reef? If there is danger, at how many degrees east of south should the ship sail from point $A$ to safely pass through this sea area?
 
 ### Solution to Problem 4
 
 Draw $PH\perp$ the course (due east) through $P$ at $H$. At point $A$, $P$ is $60^{\circ}$ east of north, i.e. the angle between $AP$ and due east is $30^{\circ}$.
 
-$PH=AP\cdot\sin30^{\circ}=32\times\frac{1}{2}=16\,\text{n~mile}$.
+$PH=AP\cdot\sin30^{\circ}=32\times\frac{1}{2}=16\;\text{n~mile}$.
 
-The reef radius is $16\sqrt{2}\approx22.63\,\text{n~mile}$. Since $PH=16<16\sqrt{2}$, the ship continuing due east is in danger of striking a reef.
+The reef radius is $16\sqrt{2}\approx22.63\;\text{n~mile}$. Since $PH=16<16\sqrt{2}$, the ship continuing due east is in danger of striking a reef.
 
 Suppose the ship sails in a direction $\theta$ east of south to pass safely, i.e. the distance from the course leaving $A$ to $P$ equals the reef radius $16\sqrt{2}$. The new course passes through $A$; let its angle with due east be $\varphi$ (toward the south). The distance from the new course to $P$ is $d=AP\cdot\sin\left(30^{\circ}-\varphi\right)$.
 
@@ -88,21 +88,21 @@ Actually, the critical course from $A$ that avoids the reef circle is a tangent 
 
 ## Problem 5
 
-(Problem 28.2, Extension and Exploration, Problem 11) Based on the positions of the triangular region marked in the figure, calculate the area of the triangular region (round to an integer). In the figure: triangle $ABC$, $AC=1700\,\text{m}$; at $A$, $C$ is measured to be in the direction $62^{\circ}$ east of north; $BC=2720\,\text{m}$; at $B$, $C$ is measured to be in the direction $54^{\circ}$ west of north.
+(Problem 28.2, Extension and Exploration, Problem 11) Based on the positions of the triangular region marked in the figure, calculate the area of the triangular region (round to an integer). In the figure: triangle $ABC$, $AC=1700\;\text{m}$; at $A$, $C$ is measured to be in the direction $62^{\circ}$ east of north; $BC=2720\;\text{m}$; at $B$, $C$ is measured to be in the direction $54^{\circ}$ west of north.
 
-The figure shows a position diagram of triangular region $ABC$: $AC=1700\,\text{m}$, and from $A$, $C$ is observed in the direction $62^\circ$ east of north; $BC=2720\,\text{m}$, and from $B$, $C$ is observed in the direction $54^\circ$ west of north; a north-direction marker is included in the figure.
+The figure shows a position diagram of triangular region $ABC$: $AC=1700\;\text{m}$, and from $A$, $C$ is observed in the direction $62^\circ$ east of north; $BC=2720\;\text{m}$, and from $B$, $C$ is observed in the direction $54^\circ$ west of north; a north-direction marker is included in the figure.
 
 ### Solution to Problem 5
 
 Set up a coordinate system with $A$ as the origin, east as the positive $x$-axis and north as the positive $y$-axis.
 
-$C$ is in the direction $62^{\circ}$ east of north from $A$, at distance $1700\,\text{m}$, so
+$C$ is in the direction $62^{\circ}$ east of north from $A$, at distance $1700\;\text{m}$, so
 
 $$x_C=1700\sin62^{\circ}\approx1700\times0.88295=1501.0,$$
 
 $$y_C=1700\cos62^{\circ}\approx1700\times0.46947=798.1.$$
 
-$C$ is in the direction $54^{\circ}$ west of north from $B$, at distance $2720\,\text{m}$, so
+$C$ is in the direction $54^{\circ}$ west of north from $B$, at distance $2720\;\text{m}$, so
 
 $$x_C-x_B=-2720\sin54^{\circ}\approx-2720\times0.80902=-2200.6,$$
 
@@ -116,9 +116,9 @@ $$S=\frac{1}{2}\left|x_A\left(y_B-y_C\right)+x_B\left(y_C-y_A\right)+x_C\left(y_
 
 $$=\frac{1}{2}\left|0+3701.6\times798.1+1501.0\times800.7\right|$$
 
-$$=\frac{1}{2}\left|2954300+1201800\right|\approx2078050\,\text{m}^{2}.$$
+$$=\frac{1}{2}\left|2954300+1201800\right|\approx2078050\;\text{m}^{2}.$$
 
-That is, the area of the triangular region is about $2078050\,\text{m}^{2}$. $\blacksquare$
+That is, the area of the triangular region is about $2078050\;\text{m}^{2}$. $\blacksquare$
 
 ## Reading and Reflection 1
 
@@ -284,41 +284,41 @@ The perimeter $=2l+$ the base $=2\times2\sqrt{3}+6=4\sqrt{3}+6$. $\blacksquare$
 
 ## Review Problem 7
 
-(Review Problem, Review and Consolidation, Problem 7) From a ship, when the angle of elevation to the top of a $42\,\text{m}$-high lighthouse on the shore is measured to be $33^{\circ}$, how far is the ship from the shore (round to an integer)?
+(Review Problem, Review and Consolidation, Problem 7) From a ship, when the angle of elevation to the top of a $42\;\text{m}$-high lighthouse on the shore is measured to be $33^{\circ}$, how far is the ship from the shore (round to an integer)?
 
 ### Solution to Review Problem 7
 
-In the right triangle, the lighthouse height $42\,\text{m}$ is the opposite side, the angle of elevation is $33^{\circ}$, and the horizontal distance from the ship to the shore is the adjacent side.
+In the right triangle, the lighthouse height $42\;\text{m}$ is the opposite side, the angle of elevation is $33^{\circ}$, and the horizontal distance from the ship to the shore is the adjacent side.
 
-By **Definition 28.1.3 (Tangent)**, $\tan33^{\circ}=\frac{42}{d}$, so $d=\frac{42}{\tan33^{\circ}}\approx\frac{42}{0.6494}\approx65\,\text{m}$. $\blacksquare$
+By **Definition 28.1.3 (Tangent)**, $\tan33^{\circ}=\frac{42}{d}$, so $d=\frac{42}{\tan33^{\circ}}\approx\frac{42}{0.6494}\approx65\;\text{m}$. $\blacksquare$
 
 ## Review Problem 8
 
-(Review Problem, Comprehensive Application, Problem 8) As shown in the figure, the horizontal distance $BC$ between two buildings is $428.3\,\text{m}$. From point $A$, the angle of depression $\alpha$ to point $D$ is measured to be $35^{\circ}12'$, and the angle of depression $\beta$ to point $C$ is measured to be $43^{\circ}24'$. Find the heights of the two buildings (round to one decimal place).
+(Review Problem, Comprehensive Application, Problem 8) As shown in the figure, the horizontal distance $BC$ between two buildings is $428.3\;\text{m}$. From point $A$, the angle of depression $\alpha$ to point $D$ is measured to be $35^{\circ}12'$, and the angle of depression $\beta$ to point $C$ is measured to be $43^{\circ}24'$. Find the heights of the two buildings (round to one decimal place).
 
-The figure shows two vertical buildings: the taller one $AC$ ($C$ at its base) and the shorter one $BD$ ($D$ at its top, $B$ at its base), with horizontal distance $BC=428.3\,\text{m}$ between their bases; from the top $A$ of the taller building, the angle of depression to $D$ is $\alpha=35^\circ12'$, and to $C$ is $\beta=43^\circ24'$.
+The figure shows two vertical buildings: the taller one $AC$ ($C$ at its base) and the shorter one $BD$ ($D$ at its top, $B$ at its base), with horizontal distance $BC=428.3\;\text{m}$ between their bases; from the top $A$ of the taller building, the angle of depression to $D$ is $\alpha=35^\circ12'$, and to $C$ is $\beta=43^\circ24'$.
 
 ### Solution to Review Problem 8
 
-Let the taller building be $AC=H$ and the shorter building be $BD=h$. The horizontal distance is $BC=428.3\,\text{m}$.
+Let the taller building be $AC=H$ and the shorter building be $BD=h$. The horizontal distance is $BC=428.3\;\text{m}$.
 
 The angle of depression $\beta=43^{\circ}24'\approx43.4^{\circ}$ from $A$ to $C$, so
 
-$$H=BC\cdot\tan\beta=428.3\times\tan43.4^{\circ}\approx428.3\times0.9455\approx404.9\,\text{m}.$$
+$$H=BC\cdot\tan\beta=428.3\times\tan43.4^{\circ}\approx428.3\times0.9455\approx404.9\;\text{m}.$$
 
 The angle of depression $\alpha=35^{\circ}12'\approx35.2^{\circ}$ from $A$ to $D$; the height difference between $A$ and $D$ is
 
-$$H-h=BC\cdot\tan\alpha=428.3\times\tan35.2^{\circ}\approx428.3\times0.7064\approx302.6\,\text{m}.$$
+$$H-h=BC\cdot\tan\alpha=428.3\times\tan35.2^{\circ}\approx428.3\times0.7064\approx302.6\;\text{m}.$$
 
-Thus $h=404.9-302.6=102.3\,\text{m}$.
+Thus $h=404.9-302.6=102.3\;\text{m}$.
 
-The heights of the two buildings are about $404.9\,\text{m}$ and $102.3\,\text{m}$, respectively. $\blacksquare$
+The heights of the two buildings are about $404.9\;\text{m}$ and $102.3\;\text{m}$, respectively. $\blacksquare$
 
 ## Review Problem 9
 
-(Review Problem, Comprehensive Application, Problem 9) The shape of the wing of a certain model of aircraft is shown in the figure. Based on the data in the figure, calculate the lengths of $AC$, $BD$, and $AB$ (round to two decimal places). In the figure: quadrilateral $CDBA$, where $CD$ is the left vertical side, $CD=3.40\,\text{m}$; $DB$ is the lower horizontal side, $DB=5.00\,\text{m}$; at $C$, $\angle{D}CA=45^{\circ}$; at $B$, $\angle{D}BA=30^{\circ}$.
+(Review Problem, Comprehensive Application, Problem 9) The shape of the wing of a certain model of aircraft is shown in the figure. Based on the data in the figure, calculate the lengths of $AC$, $BD$, and $AB$ (round to two decimal places). In the figure: quadrilateral $CDBA$, where $CD$ is the left vertical side, $CD=3.40\;\text{m}$; $DB$ is the lower horizontal side, $DB=5.00\;\text{m}$; at $C$, $\angle{D}CA=45^{\circ}$; at $B$, $\angle{D}BA=30^{\circ}$.
 
-The figure shows the aircraft wing shape, quadrilateral $CDBA$: left vertical side $CD=3.40\,\text{m}$, bottom horizontal side $DB=5.00\,\text{m}$; top side $CA$ slopes upward to the right from $C$ at $45^\circ$ to the vertical, and right side $BA$ slopes upward to the left from $B$ at $30^\circ$ to the horizontal, with $CA$ and $BA$ meeting at $A$.
+The figure shows the aircraft wing shape, quadrilateral $CDBA$: left vertical side $CD=3.40\;\text{m}$, bottom horizontal side $DB=5.00\;\text{m}$; top side $CA$ slopes upward to the right from $C$ at $45^\circ$ to the vertical, and right side $BA$ slopes upward to the left from $B$ at $30^\circ$ to the horizontal, with $CA$ and $BA$ meeting at $A$.
 
 ### Solution to Review Problem 9
 
@@ -336,19 +336,19 @@ $$y=3.40-1.214=2.186.$$
 
 Thus $A=\left(1.214,2.186\right)$.
 
-$$AC=\frac{x}{\cos45^{\circ}}=\frac{1.214}{0.7071}\approx1.72\,\text{m}.$$
+$$AC=\frac{x}{\cos45^{\circ}}=\frac{1.214}{0.7071}\approx1.72\;\text{m}.$$
 
-$$BD=5.00\,\text{m}.$$
+$$BD=5.00\;\text{m}.$$
 
-$$AB=\frac{5.00-1.214}{\cos30^{\circ}}=\frac{3.786}{0.8660}\approx4.37\,\text{m}.\,\blacksquare$$
+$$AB=\frac{5.00-1.214}{\cos30^{\circ}}=\frac{3.786}{0.8660}\approx4.37\;\text{m}.\,\blacksquare$$
 
 ## Review Problem 10
 
-(Review Problem, Comprehensive Application, Problem 10) As shown in the figure, for a person to safely climb to the top of a ladder leaning against a wall, the angle $\alpha$ between the ladder and the ground should generally satisfy $50^{\circ}\le\alpha\le75^{\circ}$. There is now a ladder of length $6\,\text{m}$.
+(Review Problem, Comprehensive Application, Problem 10) As shown in the figure, for a person to safely climb to the top of a ladder leaning against a wall, the angle $\alpha$ between the ladder and the ground should generally satisfy $50^{\circ}\le\alpha\le75^{\circ}$. There is now a ladder of length $6\;\text{m}$.
 
 (1) Using this ladder, what is the highest wall height that can be safely climbed (round to one decimal place)?
 
-(2) When the foot of the ladder is $2.4\,\text{m}$ from the wall, what is $\alpha$ in degrees (round to an integer)? At this time, can the person safely use this ladder?
+(2) When the foot of the ladder is $2.4\;\text{m}$ from the wall, what is $\alpha$ in degrees (round to an integer)? At this time, can the person safely use this ladder?
 
 The figure shows a ladder leaning against a vertical wall, with its foot on the horizontal ground; the angle between the ladder and the ground is $\alpha$, and the top of the ladder rests against the wall.
 
@@ -356,9 +356,9 @@ The figure shows a ladder leaning against a vertical wall, with its foot on the 
 
 (1) The maximum climb height corresponds to the maximum angle $\alpha=75^{\circ}$. By **Definition 28.1.1 (Sine)**,
 
-$$h=6\sin75^{\circ}\approx6\times0.9659\approx5.8\,\text{m}.$$
+$$h=6\sin75^{\circ}\approx6\times0.9659\approx5.8\;\text{m}.$$
 
-(2) The foot of the ladder is $2.4\,\text{m}$ from the wall, i.e. the adjacent side $=2.4$ and the hypotenuse $=6$. By **Definition 28.1.2 (Cosine)**,
+(2) The foot of the ladder is $2.4\;\text{m}$ from the wall, i.e. the adjacent side $=2.4$ and the hypotenuse $=6$. By **Definition 28.1.2 (Cosine)**,
 
 $$\cos\alpha=\frac{2.4}{6}=0.4,\quad\alpha\approx66.42^{\circ}\approx66^{\circ}.$$
 
@@ -366,7 +366,7 @@ Since $50^{\circ}\le66^{\circ}\le75^{\circ}$, the person can safely use this lad
 
 ## Review Problem 11
 
-(Review Problem, Comprehensive Application, Problem 11) As shown in the figure, one side $AD$ of rectangle $ABCD$ is folded so that point $D$ lands at point $F$ on side $BC$. Given the crease $AE=5\sqrt{5}\,\text{cm}$, and $\tan\angle{E}FC=\frac{3}{4}$.
+(Review Problem, Comprehensive Application, Problem 11) As shown in the figure, one side $AD$ of rectangle $ABCD$ is folded so that point $D$ lands at point $F$ on side $BC$. Given the crease $AE=5\sqrt{5}\;\text{cm}$, and $\tan\angle{E}FC=\frac{3}{4}$.
 
 (1) What is the relationship between $\triangle{A}FB$ and $\triangle{F}EC$?
 
@@ -390,9 +390,9 @@ $AD=AF=10k$, $BC=BF+FC=6k+4k=10k$.
 
 In $\text{Rt}\triangle{A}DE$, $AE=\sqrt{AD^{2}+DE^{2}}=\sqrt{100k^{2}+25k^{2}}=\sqrt{125}\,k=5\sqrt{5}\,k$.
 
-From $AE=5\sqrt{5}$, we get $k=1$. Thus $AB=8\,\text{cm}$, $BC=10\,\text{cm}$.
+From $AE=5\sqrt{5}$, we get $k=1$. Thus $AB=8\;\text{cm}$, $BC=10\;\text{cm}$.
 
-The rectangle perimeter $=2\left(8+10\right)=36\,\text{cm}$. $\blacksquare$
+The rectangle perimeter $=2\left(8+10\right)=36\;\text{cm}$. $\blacksquare$
 
 ## Review Problem 12
 

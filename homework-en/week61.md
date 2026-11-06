@@ -54,11 +54,11 @@ Hence when the $A$ face is down the pressure intensity is $\frac{p}2$, and when 
 
 ## Review Problem 2
 
-(Review Problem, Comprehensive Application, Problem 7) The lifespan of a certain brand of monitor is about $3\times10^4\,\text{h}$.
+(Review Problem, Comprehensive Application, Problem 7) The lifespan of a certain brand of monitor is about $3\times10^4\;\text{h}$.
 
 (1) What is the functional relationship between the number of working days $d$ and the average number of working hours per day $t$?
 
-(2) If it works an average of $10\,\text{h}$ per day, approximately how many days can it be used?
+(2) If it works an average of $10\;\text{h}$ per day, approximately how many days can it be used?
 
 ### Solution to Review Problem 2
 
@@ -92,17 +92,17 @@ If they had an intersection, then $k_1x=\frac{k_2}{x}$, i.e. $x^2=\frac{k_2}{k_1
 
 ## Review Problem 6
 
-(Review Problem, Extension and Exploration, Problem 11) A water conservancy project needs to transport a total of $10^6\,\text{m}^3$ of earth and stone.
+(Review Problem, Extension and Exploration, Problem 11) A water conservancy project needs to transport a total of $10^6\;\text{m}^3$ of earth and stone.
 
 (1) What is the functional relationship between the average transport speed $v$ and the completion time $t$?
 
-(2) There are originally $100$ trucks, which together transport $10^4\,\text{m}^3$ per day. After $40$ days of transport, the remaining task must be completed within $50$ days. At least how many additional trucks should be added?
+(2) There are originally $100$ trucks, which together transport $10^4\;\text{m}^3$ per day. After $40$ days of transport, the remaining task must be completed within $50$ days. At least how many additional trucks should be added?
 
 ### Solution to Review Problem 6
 
 (1) From $vt=10^6$, we get $v=\frac{10^6}{t}$.
 
-(2) In the first $40$ days, $40\times10^4=4\times10^5\,\text{m}^3$ is transported, leaving $10^6-4\times10^5=6\times10^5\,\text{m}^3$. To finish within $50$ days, $\frac{6\times10^5}{50}=12000\,\text{m}^3$ must be transported per day. Each truck transports $\frac{10^4}{100}=100\,\text{m}^3$ per day, so a total of $\frac{12000}{100}=120$ trucks are needed, and at least $120-100=20$ trucks should be added. $\blacksquare$
+(2) In the first $40$ days, $40\times10^4=4\times10^5\;\text{m}^3$ is transported, leaving $10^6-4\times10^5=6\times10^5\;\text{m}^3$. To finish within $50$ days, $\frac{6\times10^5}{50}=12000\;\text{m}^3$ must be transported per day. Each truck transports $\frac{10^4}{100}=100\;\text{m}^3$ per day, so a total of $\frac{12000}{100}=120$ trucks are needed, and at least $120-100=20$ trucks should be added. $\blacksquare$
 
 ## Exercise 1
 
@@ -363,7 +363,7 @@ Among the given patterns, those that coincide with themselves after being rotate
 (Exercise 28.2, Problem 1) Among the following points, which two are symmetric about the origin?
 
 $$
-A\left(-5,0\right),\,B\left(0,2\right),\,C\left(2,-1\right),\,D\left(2,0\right),\,E\left(0,5\right),\,F\left(-2,1\right),\,G\left(-2,-1\right).
+A\left(-5,0\right),B\left(0,2\right),C\left(2,-1\right),D\left(2,0\right),E\left(0,5\right),F\left(-2,1\right),G\left(-2,-1\right).
 $$
 
 ### Solution to Exercise 10
@@ -377,7 +377,7 @@ $C\left(2,-1\right)$ and $G\left(-2,-1\right)$ are not symmetric about the origi
 (Exercise 28.2, Problem 2) Write the coordinates of the points $A'$, $B'$, $C'$, $D'$ symmetric to the following points about the origin:
 
 $$
-A\left(3,1\right),\,B\left(-2,3\right),\,C\left(-1,-2\right),\,D\left(2,-3\right).
+A\left(3,1\right),B\left(-2,3\right),C\left(-1,-2\right),D\left(2,-3\right).
 $$
 
 ### Solution to Exercise 11
@@ -385,7 +385,7 @@ $$
 By Coordinates of Points Symmetric about the Origin, the coordinates have opposite signs.
 
 $$
-A'\left(-3,-1\right),\,B'\left(2,-3\right),\,C'\left(1,2\right),\,D'\left(-2,3\right).
+A'\left(-3,-1\right),B'\left(2,-3\right),C'\left(1,2\right),D'\left(-2,3\right).
 $$
 
 $\blacksquare$
@@ -472,13 +472,13 @@ Observing the corresponding vertices, if $C$ is the common point among the corre
 
 ## Problem 16
 
-(Exercise 28.2, Comprehensive Application, Problem 8) There is a rectangular plot of land whose adjacent side lengths are $10\,\text{m}$ and $6\,\text{m}$. A flower bed is to be created on the plot such that its area is half the area of the plot and its shape is a centrally symmetric figure. How should it be designed (provide two design schemes)?
+(Exercise 28.2, Comprehensive Application, Problem 8) There is a rectangular plot of land whose adjacent side lengths are $10\;\text{m}$ and $6\;\text{m}$. A flower bed is to be created on the plot such that its area is half the area of the plot and its shape is a centrally symmetric figure. How should it be designed (provide two design schemes)?
 
 ### Solution to Problem 16
 
 By **Definition 28.2.2 (Centrally Symmetric Figure)**.
 
-The area of the rectangular plot is $10\times6=60\,\text{m}^2$, and the area of the flower bed is $30\,\text{m}^2$.
+The area of the rectangular plot is $10\times6=60\;\text{m}^2$, and the area of the flower bed is $30\;\text{m}^2$.
 
 Scheme 1: taking the center of the rectangle as the center of symmetry, take the flower bed to be a small rectangle concentric with the large one, with area half that of the large rectangle.
 

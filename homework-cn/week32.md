@@ -352,7 +352,7 @@ $AD\perp{E}F$. 证明: 由 $AD$ 是角平分线及角平分线的性质, $DE=DF$
 
 ## 复习题十二
 
-(复习题 综合运用第 12 题) 如图, 三角形纸片 $ABC$ 中, $AB=8\,\text{cm}$, $BC=6\,\text{cm}$, $AC=5\,\text{cm}$. 沿过点 $B$ 的直线折叠, 使点 $C$ 落在 $AB$ 边上的点 $E$ 处, 折痕为 $BD$. 求 $\triangle{A}ED$ 的周长.
+(复习题 综合运用第 12 题) 如图, 三角形纸片 $ABC$ 中, $AB=8\;\text{cm}$, $BC=6\;\text{cm}$, $AC=5\;\text{cm}$. 沿过点 $B$ 的直线折叠, 使点 $C$ 落在 $AB$ 边上的点 $E$ 处, 折痕为 $BD$. 求 $\triangle{A}ED$ 的周长.
 
 ### 解答 复习题十二
 
@@ -361,7 +361,7 @@ $AD\perp{E}F$. 证明: 由 $AD$ 是角平分线及角平分线的性质, $DE=DF$
 于是 $AE=AB-BE=8-6=2$. $\triangle{A}ED$ 的周长为
 
 $$
-AE+AD+DE=AE+AD+DC=AE+AC=2+5=7\,\text{cm}.
+AE+AD+DE=AE+AD+DC=AE+AC=2+5=7\;\text{cm}.
 $$
 
 $\blacksquare$

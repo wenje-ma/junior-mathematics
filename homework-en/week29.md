@@ -140,7 +140,7 @@ By Relationship Among the Three Sides of a Triangle, three segments form a trian
 
 ## Exercise 2
 
-(Exercise 13.2, Problem 2) Can one $4\,\text{dm}$ strip of wood and two $1\,\text{dm}$ strips form an isosceles triangle? What about two $4\,\text{dm}$ strips and one $1\,\text{dm}$ strip?
+(Exercise 13.2, Problem 2) Can one $4\;\text{dm}$ strip of wood and two $1\;\text{dm}$ strips form an isosceles triangle? What about two $4\;\text{dm}$ strips and one $1\;\text{dm}$ strip?
 
 ### Solution to Exercise 2
 
@@ -198,7 +198,7 @@ i.e. the range of $a$ is $5<{}a<9$. $\blacksquare$
 
 ## Problem 5
 
-(Exercise 13.2, Review and Consolidation, Problem 2) Four strips of wood of lengths $100\,\text{cm}$, $70\,\text{cm}$, $50\,\text{cm}$, $30\,\text{cm}$; choose three of them to form a triangle. How many choices are there? Why?
+(Exercise 13.2, Review and Consolidation, Problem 2) Four strips of wood of lengths $100\;\text{cm}$, $70\;\text{cm}$, $50\;\text{cm}$, $30\;\text{cm}$; choose three of them to form a triangle. How many choices are there? Why?
 
 ### Solution to Problem 5
 

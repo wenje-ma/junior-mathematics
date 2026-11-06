@@ -138,7 +138,7 @@ Hence the red team has a goal difference of $1$, the yellow team $-4$, and the b
 
 (Review Problem, Comprehensive Application, Problem 8) The following are the mathematics test scores of ten students:
 
-$$82,\,83,\,78,\,66,\,95,\,75,\,61,\,93,\,82,\,81.$$
+$$82,83,78,66,95,75,61,93,82,81.$$
 
 First estimate their average score, and then compute the average score on that basis, thereby checking your ability to estimate.
 
@@ -162,7 +162,7 @@ The result is negative, so Saturday was a loss, in the amount of $502$ yuan. $\b
 
 ## Review Problem 8
 
-(Review Problem, Comprehensive Application, Problem 10) A track patrol officer patrols and maintains an east-west railway. Starting from his station, he first walks $7\,\text{km}$ eastward, then another $3\,\text{km}$ eastward, and then turns back and walks $11.5\,\text{km}$ westward. In which direction is he from his station at this point? How far is he from his station, in kilometers?
+(Review Problem, Comprehensive Application, Problem 10) A track patrol officer patrols and maintains an east-west railway. Starting from his station, he first walks $7\;\text{km}$ eastward, then another $3\;\text{km}$ eastward, and then turns back and walks $11.5\;\text{km}$ westward. In which direction is he from his station at this point? How far is he from his station, in kilometers?
 
 ### Solution to Review Problem 8
 
@@ -170,19 +170,19 @@ By **Definition 2.1.1 (Rules for Addition of Rational Numbers)**, eastward is po
 
 $$7+3-11.5=-1.5.$$
 
-The result is negative, so at this point he is west of his station, and his distance from the station is $1.5\,\text{km}$. $\blacksquare$
+The result is negative, so at this point he is west of his station, and his distance from the station is $1.5\;\text{km}$. $\blacksquare$
 
 ## Review Problem 9
 
-(Review Problem, Comprehensive Application, Problem 11) In the range $0\sim40\,^\circ\text{C}$, for each $1\,^\circ\text{C}$ rise in temperature, a certain metal wire elongates by about $0.002\,\text{mm}$; conversely, for each $1\,^\circ\text{C}$ drop in temperature, the metal wire shortens by about $0.002\,\text{mm}$. This metal wire at $20\,^\circ\text{C}$ is heated to $30\,^\circ\text{C}$ and then cooled down to $5\,^\circ\text{C}$. What change did the length of the metal wire undergo? By about how many millimeters did the final length elongate relative to the original length?
+(Review Problem, Comprehensive Application, Problem 11) In the range $0\sim40\,^\circ\text{C}$, for each $1\,^\circ\text{C}$ rise in temperature, a certain metal wire elongates by about $0.002\;\text{mm}$; conversely, for each $1\,^\circ\text{C}$ drop in temperature, the metal wire shortens by about $0.002\;\text{mm}$. This metal wire at $20\,^\circ\text{C}$ is heated to $30\,^\circ\text{C}$ and then cooled down to $5\,^\circ\text{C}$. What change did the length of the metal wire undergo? By about how many millimeters did the final length elongate relative to the original length?
 
 ### Solution to Review Problem 9
 
 By **Definition 2.2.1 (Rules for Multiplication of Rational Numbers)**.
 
-Heating from $20\,^\circ\text{C}$ to $30\,^\circ\text{C}$ raises the temperature by $10\,^\circ\text{C}$, elongating $10\times0.002=0.02\,\text{mm}$; then cooling from $30\,^\circ\text{C}$ to $5\,^\circ\text{C}$ lowers the temperature by $25\,^\circ\text{C}$, shortening $25\times0.002=0.05\,\text{mm}$.
+Heating from $20\,^\circ\text{C}$ to $30\,^\circ\text{C}$ raises the temperature by $10\,^\circ\text{C}$, elongating $10\times0.002=0.02\;\text{mm}$; then cooling from $30\,^\circ\text{C}$ to $5\,^\circ\text{C}$ lowers the temperature by $25\,^\circ\text{C}$, shortening $25\times0.002=0.05\;\text{mm}$.
 
-The total change is $0.02-0.05=-0.03\,\text{mm}$, so the final length is shortened by about $0.03\,\text{mm}$ relative to the original length. $\blacksquare$
+The total change is $0.02-0.05=-0.03\;\text{mm}$, so the final length is shortened by about $0.03\;\text{mm}$ relative to the original length. $\blacksquare$
 
 ## Review Problem 10
 
@@ -192,9 +192,9 @@ The total change is $0.02-0.05=-0.03\,\text{mm}$, so the final length is shorten
 
 By **Definition 2.3.4 (Scientific Notation)**.
 
-$$1.496\text{~亿千米}=149600000\,\text{km}=1.496\times10^{8}\,\text{km}.$$
+$$1.496\text{~亿千米}=149600000\;\text{km}=1.496\times10^{8}\;\text{km}.$$
 
-Hence the $1$ astronomical unit is $1.496\times10^{8}\,\text{km}$. $\blacksquare$
+Hence the $1$ astronomical unit is $1.496\times10^{8}\;\text{km}$. $\blacksquare$
 
 ## Review Problem 11
 
@@ -340,7 +340,7 @@ Base sixty carries one when reaching sixty, that is, when a place reaches $60$, 
 
 (2) Wang Fang is $m$ years old this year; last year she was $\;\_\_\;$ years old, and $6$ years later she will be $\;\_\_\;$ years old;
 
-(3) Put $p\,\text{kg}$ of sugar into $n$ packaging bags, with the same mass in each bag; each bag contains $\;\_\_\;\text{kg}$ of sugar;
+(3) Put $p\;\text{kg}$ of sugar into $n$ packaging bags, with the same mass in each bag; each bag contains $\;\_\_\;\text{kg}$ of sugar;
 
 (4) The volume of a cube with edge length $a$ is $\;\_\_\;$.
 
@@ -352,7 +352,7 @@ By **Definition 3.1.2 (Forming Algebraic Expressions)**.
 
 (2) Last year was $1$ year younger than this year, namely $\left(m-1\right)$ years old; $6$ years later will be $\left(m+6\right)$ years old.
 
-(3) Each bag contains $\frac{p}{n}\,\text{kg}$ of sugar.
+(3) Each bag contains $\frac{p}{n}\;\text{kg}$ of sugar.
 
 (4) The volume of a cube is the cube of its edge length, namely $a^{3}$. $\blacksquare$
 
@@ -382,7 +382,7 @@ By **Definition 3.1.1 (Algebraic Expressions)**.
 
 By **Definition 3.1.1 (Algebraic Expressions)**.
 
-For example: having $100$ yuan, each pencil costs $2$ yuan; after buying $x$ pencils, $\left(100-2x\right)$ yuan remain. Or: a rope of length $100\,\text{cm}$, each time cutting off $2\,\text{cm}$; after cutting $x$ times, $\left(100-2x\right)\,\text{cm}$ remain. $\blacksquare$
+For example: having $100$ yuan, each pencil costs $2$ yuan; after buying $x$ pencils, $\left(100-2x\right)$ yuan remain. Or: a rope of length $100\;\text{cm}$, each time cutting off $2\;\text{cm}$; after cutting $x$ times, $\left(100-2x\right)\;\text{cm}$ remain. $\blacksquare$
 
 ## Exercise 4
 
@@ -418,23 +418,23 @@ Hence the revenue from selling this commodity this month is $4.8m$ yuan. $\black
 
 ## Exercise 6
 
-(Exercise 3.1, Problem 3) There are two cotton fields. One has area $m\,\text{hm}^{2}$, with an average cotton yield of $a\,\text{kg}$ per hectare; the other has area $n\,\text{hm}^{2}$, with an average cotton yield of $b\,\text{kg}$ per hectare. Express the total cotton yield of the two fields in an algebraic expression.
+(Exercise 3.1, Problem 3) There are two cotton fields. One has area $m\;\text{hm}^{2}$, with an average cotton yield of $a\;\text{kg}$ per hectare; the other has area $n\;\text{hm}^{2}$, with an average cotton yield of $b\;\text{kg}$ per hectare. Express the total cotton yield of the two fields in an algebraic expression.
 
 ### Solution to Exercise 6
 
 By **Definition 3.1.2 (Forming Algebraic Expressions)**.
 
-The first field yields $ma\,\text{kg}$ of cotton, and the second yields $nb\,\text{kg}$. Hence the total cotton yield of the two fields is $\left(ma+nb\right)\,\text{kg}$. $\blacksquare$
+The first field yields $ma\;\text{kg}$ of cotton, and the second yields $nb\;\text{kg}$. Hence the total cotton yield of the two fields is $\left(ma+nb\right)\;\text{kg}$. $\blacksquare$
 
 ## Exercise 7
 
-(Exercise 3.1, Problem 4) A small square iron sheet is cut out from a large square iron sheet. The side length of the large square is $a\,\text{mm}$, and the side length of the small square is $b\,\text{mm}$. Express the area of the remaining iron sheet in an algebraic expression.
+(Exercise 3.1, Problem 4) A small square iron sheet is cut out from a large square iron sheet. The side length of the large square is $a\;\text{mm}$, and the side length of the small square is $b\;\text{mm}$. Express the area of the remaining iron sheet in an algebraic expression.
 
 ### Solution to Exercise 7
 
 By **Definition 3.1.2 (Forming Algebraic Expressions)**.
 
-The area of the large square is $a^{2}\,\text{mm}^{2}$, and the area of the small square is $b^{2}\,\text{mm}^{2}$. The area of the remaining iron sheet is $\left(a^{2}-b^{2}\right)\,\text{mm}^{2}$. $\blacksquare$
+The area of the large square is $a^{2}\;\text{mm}^{2}$, and the area of the small square is $b^{2}\;\text{mm}^{2}$. The area of the remaining iron sheet is $\left(a^{2}-b^{2}\right)\;\text{mm}^{2}$. $\blacksquare$
 
 ## Exercise 8
 
@@ -504,7 +504,7 @@ By **Definition 3.1.1 (Algebraic Expressions)**.
 
 (3) The interest rate for a one-year fixed deposit at a certain bank is $1.5\%$. If $a$ yuan is deposited, how much interest is received after one year? What is the sum of principal and interest?
 
-(4) The distance between Location A and Location B is $s\,\text{km}$. Li Ming originally planned to ride a bicycle from Location A to Location B, which would take $t\,\text{h}$; he later switched to taking a bus and arrived $1\,\text{h}$ earlier. What is the speed of the bus?
+(4) The distance between Location A and Location B is $s\;\text{km}$. Li Ming originally planned to ride a bicycle from Location A to Location B, which would take $t\;\text{h}$; he later switched to taking a bus and arrived $1\;\text{h}$ earlier. What is the speed of the bus?
 
 ### Solution to Problem 3
 
@@ -516,7 +516,7 @@ By **Definition 3.1.2 (Forming Algebraic Expressions)**.
 
 (3) Interest $=a\times1.5\%=1.5\%a$ yuan; principal plus interest $=a+1.5\%a=\left(1+1.5\%\right)a$ yuan.
 
-(4) The bus takes $\left(t-1\right)\,\text{h}$, and its speed $=\frac{s}{t-1}\,\text{km/h}$. $\blacksquare$
+(4) The bus takes $\left(t-1\right)\;\text{h}$, and its speed $=\frac{s}{t-1}\;\text{km/h}$. $\blacksquare$
 
 ## Problem 4
 
@@ -524,7 +524,7 @@ By **Definition 3.1.2 (Forming Algebraic Expressions)**.
 
 (1) $200$ students participate in a formation drill, arranged with an equal number of people per row; the number of people per row and the number of rows;
 
-(2) The area of a triangle is $6\,\text{cm}^{2}$; the length of one side and the altitude on that side;
+(2) The area of a triangle is $6\;\text{cm}^{2}$; the length of one side and the altitude on that side;
 
 (3) Zhang Hua can make $120$ small red flowers per hour; the number of small red flowers she makes and the time spent making them.
 

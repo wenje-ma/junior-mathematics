@@ -430,7 +430,7 @@ $$\angle1+\angle2+\angle3+\angle4=360^{\circ}.$$
 
 由**定义 6.1.3 (展开图)**, 正方体展开图折叠后各面两两对应相邻.
 
-正方体展开图由六个相同的正方形组成, 按图示尺寸 ($6\,\text{cm}\times6\,\text{cm}$ 各面) 绘制展开图, 剪裁折叠后得到边长为 $6\,\text{cm}$ 的正方体. $\blacksquare$
+正方体展开图由六个相同的正方形组成, 按图示尺寸 ($6\;\text{cm}\times6\;\text{cm}$ 各面) 绘制展开图, 剪裁折叠后得到边长为 $6\;\text{cm}$ 的正方体. $\blacksquare$
 
 ## 活动二
 
@@ -544,7 +544,7 @@ $\blacksquare$
 
 ## 复习题五
 
-(复习题 复习巩固第 5 题) 在一张零件图中, $AD=76\,\text{mm}$, $BD=70\,\text{mm}$, $CD=19\,\text{mm}$, 求 $AB$ 和 $BC$ 的长.
+(复习题 复习巩固第 5 题) 在一张零件图中, $AD=76\;\text{mm}$, $BD=70\;\text{mm}$, $CD=19\;\text{mm}$, 求 $AB$ 和 $BC$ 的长.
 
 ### 解答 复习题五
 
@@ -552,8 +552,8 @@ $\blacksquare$
 
 点的顺序为 $A$, $B$, $C$, $D$ 在同一直线上 (由图可知).
 
-$$AB=AD-BD=76-70=6\,\text{mm}.$$
+$$AB=AD-BD=76-70=6\;\text{mm}.$$
 
-$$BC=BD-CD=70-19=51\,\text{mm}.$$
+$$BC=BD-CD=70-19=51\;\text{mm}.$$
 
 $\blacksquare$

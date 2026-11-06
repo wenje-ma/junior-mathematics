@@ -528,17 +528,17 @@ When the two parts have equal area, $\overline{x}=\frac{x_1+x_2}{2}$, $\overline
 
 ## Inquiry 4
 
-(Comprehensive and Practical Activity, Problem 4) Find the centroid position of the "L"-shaped steel-angle cross section in the figure (outer contour $30\,\text{cm}\times30\,\text{cm}$, wall thickness $10\,\text{cm}$).
+(Comprehensive and Practical Activity, Problem 4) Find the centroid position of the "L"-shaped steel-angle cross section in the figure (outer contour $30\;\text{cm}\times30\;\text{cm}$, wall thickness $10\;\text{cm}$).
 
-The figure shows an "L"-shaped (steel-angle) cross section: a $30\,\text{cm}\times30\,\text{cm}$ square with a $20\,\text{cm}\times20\,\text{cm}$ square removed from the upper-right corner, giving a wall thickness of $10\,\text{cm}$; it consists of a left vertical strip $10\,\text{cm}\times30\,\text{cm}$ and a bottom horizontal strip $20\,\text{cm}\times10\,\text{cm}$.
+The figure shows an "L"-shaped (steel-angle) cross section: a $30\;\text{cm}\times30\;\text{cm}$ square with a $20\;\text{cm}\times20\;\text{cm}$ square removed from the upper-right corner, giving a wall thickness of $10\;\text{cm}$; it consists of a left vertical strip $10\;\text{cm}\times30\;\text{cm}$ and a bottom horizontal strip $20\;\text{cm}\times10\;\text{cm}$.
 
 ### Solution to Inquiry 4
 
 Set up a rectangular coordinate system, take the lower-left corner of the cross section as the origin, and let the two sides lie along the positive coordinate axes. Divide the L-shape into two rectangles:
 
-Vertical rectangle: width $10\,\text{cm}$, height $30\,\text{cm}$, area $S_1=300\,\text{cm}^2$, centroid $\left(x_1,y_1\right)=\left(5,15\right)$.
+Vertical rectangle: width $10\;\text{cm}$, height $30\;\text{cm}$, area $S_1=300\;\text{cm}^2$, centroid $\left(x_1,y_1\right)=\left(5,15\right)$.
 
-Horizontal rectangle (deducting the overlapping part at the bottom): length $20\,\text{cm}$, width $10\,\text{cm}$, area $S_2=200\,\text{cm}^2$, centroid $\left(x_2,y_2\right)=\left(20,5\right)$.
+Horizontal rectangle (deducting the overlapping part at the bottom): length $20\;\text{cm}$, width $10\;\text{cm}$, area $S_2=200\;\text{cm}^2$, centroid $\left(x_2,y_2\right)=\left(20,5\right)$.
 
 By **Conclusion (Comprehensive and Practical Activity 2)** (Centroid of Composite Figures),
 
@@ -550,7 +550,7 @@ $$
 \overline{y}=\frac{S_1y_1+S_2y_2}{S_1+S_2}=\frac{300\times15+200\times5}{500}=\frac{5500}{500}=11.
 $$
 
-Hence the centroid of this L-shaped cross section lies $11\,\text{cm}$ from both outer edges. $\blacksquare$
+Hence the centroid of this L-shaped cross section lies $11\;\text{cm}$ from both outer edges. $\blacksquare$
 
 ## Example
 

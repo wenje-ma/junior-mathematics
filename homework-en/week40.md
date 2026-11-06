@@ -80,17 +80,17 @@ By the basic property of fractions, when numerator and denominator have the same
 
 ## Problem 3
 
-(Exercise 18.1, Extension and Exploration, Problem 9) A and B are driving on a highway; A travels $20\,\text{km}$ more per hour than B. Given that the time A takes to travel $400\,\text{km}$ is the same as the time B takes to travel $300\,\text{km}$, find the average speeds of A and B.
+(Exercise 18.1, Extension and Exploration, Problem 9) A and B are driving on a highway; A travels $20\;\text{km}$ more per hour than B. Given that the time A takes to travel $400\;\text{km}$ is the same as the time B takes to travel $300\;\text{km}$, find the average speeds of A and B.
 
 ### Solution to Problem 3
 
-Let B's average speed be $x\,\text{km/h}$; then A's is $\left(x+20\right)\,\text{km/h}$. Since the times are equal:
+Let B's average speed be $x\;\text{km/h}$; then A's is $\left(x+20\right)\;\text{km/h}$. Since the times are equal:
 
 $$\frac{400}{x+20}=\frac{300}{x}.$$
 
 Cross-multiplying: $400x=300\left(x+20\right)=300x+6000$, solving gives $x=60$.
 
-Hence B's average speed is $60\,\text{km/h}$, and A's is $80\,\text{km/h}$. $\blacksquare$
+Hence B's average speed is $60\;\text{km/h}$, and A's is $80\;\text{km/h}$. $\blacksquare$
 
 ## Problem 4
 
@@ -334,7 +334,7 @@ When $a^2-ab-b^2>0$, i.e. $a>\frac{1+\sqrt5}{2}b$, flower bed B is larger. Under
 
 ## Problem 11
 
-(Exercise 18.2, Comprehensive Application, Problem 7) A car makes a round trip between two places A and B $a\,\text{km}$ apart; the speed going is $v_1\,\text{km/h}$ and the speed returning is $v_2\,\text{km/h}$. Find the average speed for the round trip.
+(Exercise 18.2, Comprehensive Application, Problem 7) A car makes a round trip between two places A and B $a\;\text{km}$ apart; the speed going is $v_1\;\text{km/h}$ and the speed returning is $v_2\;\text{km/h}$. Find the average speed for the round trip.
 
 ### Solution to Problem 11
 

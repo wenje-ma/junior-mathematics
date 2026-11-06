@@ -96,7 +96,7 @@ $\blacksquare$
 
 ## Exercise 2
 
-(Exercise 23.4, Problem 2) A city taxi charges as follows: a fare of $9$ yuan for a distance not exceeding $3\,\text{km}$, plus $2$ yuan per kilometer for the portion beyond $3\,\text{km}$. Let the passenger's distance be $x$ ($x>3$) $\text{km}$, and the fare be $y$ yuan.
+(Exercise 23.4, Problem 2) A city taxi charges as follows: a fare of $9$ yuan for a distance not exceeding $3\;\text{km}$, plus $2$ yuan per kilometer for the portion beyond $3\;\text{km}$. Let the passenger's distance be $x$ ($x>3$) $\text{km}$, and the fare be $y$ yuan.
 
 (1) Find the function expression for $y$ in terms of $x$;
 
@@ -104,9 +104,9 @@ $\blacksquare$
 
 ### Solution to Exercise 2
 
-(1) The portion beyond $3\,\text{km}$ is $\left(x-3\right)\,\text{km}$, costing $2\left(x-3\right)$ yuan; adding the base fare of $9$ yuan gives $y=9+2\left(x-3\right)=2x+3$ ($x>3$).
+(1) The portion beyond $3\;\text{km}$ is $\left(x-3\right)\;\text{km}$, costing $2\left(x-3\right)$ yuan; adding the base fare of $9$ yuan gives $y=9+2\left(x-3\right)=2x+3$ ($x>3$).
 
-(2) When $y=23$, $23=2x+3$, so $x=10$. Hence the travel distance is $10\,\text{km}$. $\blacksquare$
+(2) When $y=23$, $23=2x+3$, so $x=10$. Hence the travel distance is $10\;\text{km}$. $\blacksquare$
 
 ## Exercise 3
 
@@ -172,7 +172,7 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 ## Problem 7
 
-(Exercise 23.4, Review and Consolidation, Problem 4) To encourage residents to save electricity, a city uses a tiered electricity price. When monthly consumption does not exceed $240\,\text{kW·h}$, it is charged at $0.45$ yuan/($\text{kW·h}$); when consumption exceeds $240\,\text{kW·h}$, the excess is charged at $0.55$ yuan/($\text{kW·h}$). Let a household's monthly consumption be $x\,\text{kW·h}$ and the payable electricity bill be $y$ yuan.
+(Exercise 23.4, Review and Consolidation, Problem 4) To encourage residents to save electricity, a city uses a tiered electricity price. When monthly consumption does not exceed $240\;\text{kW·h}$, it is charged at $0.45$ yuan/($\text{kW·h}$); when consumption exceeds $240\;\text{kW·h}$, the excess is charged at $0.55$ yuan/($\text{kW·h}$). Let a household's monthly consumption be $x\;\text{kW·h}$ and the payable electricity bill be $y$ yuan.
 
 (1) Write the function expression for $y$ in terms of $x$;
 
@@ -182,7 +182,7 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 (1) When $0\leq{x}\leq240$, $y=0.45x$. When $x>240$, $y=0.45\times240+0.55\left(x-240\right)=0.55x-24$.
 
-(2) When $x=240$, $y=0.45\times240=108$ yuan. Since $141>108$, we have $x>240$. Setting $141=0.55x-24$ gives $x=300$. Hence the consumption is $300\,\text{kW·h}$. $\blacksquare$
+(2) When $x=240$, $y=0.45\times240=108$ yuan. Since $141>108$, we have $x>240$. Setting $141=0.55x-24$ gives $x=300$. Hence the consumption is $300\;\text{kW·h}$. $\blacksquare$
 
 ## Problem 8
 
@@ -248,23 +248,23 @@ The first $3$ pieces are at the original price of $80$ yuan, and the $\left(x-3\
 
 (5) What was Liu Wei's average speed on the way home?
 
-(6) How far was Liu Wei from home at $14{:}30$? On the way home, when was he $6\,\text{km}$ from home?
+(6) How far was Liu Wei from home at $14{:}30$? On the way home, when was he $6\;\text{km}$ from home?
 
 ### Solution to Problem 11
 
 From the graph:
 
-(1) At $12{:}30$ Liu Wei was farthest from home, at $45\,\text{km}$.
+(1) At $12{:}30$ Liu Wei was farthest from home, at $45\;\text{km}$.
 
-(2) He started his first rest at $10{:}30$ and rested until $11{:}00$, totaling $30\,\text{min}$; he was $18\,\text{km}$ from home then.
+(2) He started his first rest at $10{:}30$ and rested until $11{:}00$, totaling $30\;\text{min}$; he was $18\;\text{km}$ from home then.
 
-(3) At $11{:}00$ he was $18\,\text{km}$ from home, and at $12{:}30$ he was $45\,\text{km}$ from home, so he cycled $45-18=27\,\text{km}$.
+(3) At $11{:}00$ he was $18\;\text{km}$ from home, and at $12{:}30$ he was $45\;\text{km}$ from home, so he cycled $45-18=27\;\text{km}$.
 
-(4) $9{:}00$—$10{:}30$ took $1.5\,\text{h}$, during which he cycled $18\,\text{km}$, average speed $12\,\text{km/h}$. $10{:}30$—$12{:}30$ took $2\,\text{h}$, of which $0.5\,\text{h}$ was rest and $1.5\,\text{h}$ was cycling $27\,\text{km}$, average speed $18\,\text{km/h}$.
+(4) $9{:}00$—$10{:}30$ took $1.5\;\text{h}$, during which he cycled $18\;\text{km}$, average speed $12\;\text{km/h}$. $10{:}30$—$12{:}30$ took $2\;\text{h}$, of which $0.5\;\text{h}$ was rest and $1.5\;\text{h}$ was cycling $27\;\text{km}$, average speed $18\;\text{km/h}$.
 
-(5) The trip home from $13{:}30$ to $15{:}30$ took $2\,\text{h}$, covering $45\,\text{km}$, average speed $22.5\,\text{km/h}$.
+(5) The trip home from $13{:}30$ to $15{:}30$ took $2\;\text{h}$, covering $45\;\text{km}$, average speed $22.5\;\text{km/h}$.
 
-(6) At $14{:}30$ Liu Wei was $22.5\,\text{km}$ from home. On the way home, when he was $6\,\text{km}$ from home, he had cycled $39\,\text{km}$ from the $45\,\text{km}$ point, taking $39/22.5=1.73\,\text{h}$, about $1{:}44$, i.e. about $15{:}14$. $\blacksquare$
+(6) At $14{:}30$ Liu Wei was $22.5\;\text{km}$ from home. On the way home, when he was $6\;\text{km}$ from home, he had cycled $39\;\text{km}$ from the $45\;\text{km}$ point, taking $39/22.5=1.73\;\text{h}$, about $1{:}44$, i.e. about $15{:}14$. $\blacksquare$
 
 ## Activity 1
 
@@ -364,7 +364,7 @@ The four basic elements of a musical tone are as follows:
 
 ### Solution to Activity Preparation 2
 
-The pitch of a musical tone is determined by the vibration frequency of the sound wave. Frequency is the number of vibrations per second of an object, measured in hertz (Hz). The higher the frequency, the higher the sound perceived by the ear; the lower the frequency, the lower the sound. For example, the standard pitch $A$ ($a^1$) has a vibration frequency of $440\,\text{Hz}$. $\blacksquare$
+The pitch of a musical tone is determined by the vibration frequency of the sound wave. Frequency is the number of vibrations per second of an object, measured in hertz (Hz). The higher the frequency, the higher the sound perceived by the ear; the lower the frequency, the lower the sound. For example, the standard pitch $A$ ($a^1$) has a vibration frequency of $440\;\text{Hz}$. $\blacksquare$
 
 (Comprehensive and Practical Activity, Activity Preparation, Problem 3) Learn the relationship between the vibration frequency of a string and its length.
 

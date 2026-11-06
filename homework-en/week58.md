@@ -104,7 +104,7 @@ By Translation.
 
 ## Problem 5
 
-(Exercise 26.2, Comprehensive Application, Problem 7) As shown in the figure, a football player kicks a free kick from point $A$, and the ball's flight path is a parabola. When the ball reaches its highest point, it strikes point $B$ on the $2.44\,\text{m}$-high goal crossbar. Let $C$ be the point on the ground directly below $B$, with $AC=24.4\,\text{m}$. Find the function expression for the ball's vertical height $y$ (in $\text{m}$) in terms of its horizontal distance $x$ (in $\text{m}$) from $A$.
+(Exercise 26.2, Comprehensive Application, Problem 7) As shown in the figure, a football player kicks a free kick from point $A$, and the ball's flight path is a parabola. When the ball reaches its highest point, it strikes point $B$ on the $2.44\;\text{m}$-high goal crossbar. Let $C$ be the point on the ground directly below $B$, with $AC=24.4\;\text{m}$. Find the function expression for the ball's vertical height $y$ (in $\text{m}$) in terms of its horizontal distance $x$ (in $\text{m}$) from $A$.
 
 ### Solution to Problem 5
 
@@ -170,9 +170,9 @@ i.e. $x^2+y^2-4y+4=y^2$, which simplifies to $y=\frac{x^2+4}{4}=\frac14x^2+1$. T
 
 (Exercise 26.3, Problem 1) For the ball's flight height $h=20t-5t^2$, answer the following questions:
 
-(1) Can the ball's flight height reach $15\,\text{m}$? If so, how long does it take?
+(1) Can the ball's flight height reach $15\;\text{m}$? If so, how long does it take?
 
-(2) Can the ball's flight height reach $20.5\,\text{m}$? If so, how long does it take?
+(2) Can the ball's flight height reach $20.5\;\text{m}$? If so, how long does it take?
 
 (3) How long does the ball take from being launched to landing?
 
@@ -180,11 +180,11 @@ i.e. $x^2+y^2-4y+4=y^2$, which simplifies to $y=\frac{x^2+4}{4}=\frac14x^2+1$. T
 
 By Relation Between a Quadratic Function and a Quadratic Equation, convert the height problem into the corresponding problem of roots of a quadratic equation.
 
-(1) Setting $h=15$ gives $20t-5t^2=15$; rearranging gives $t^2-4t+3=0$, i.e. $\left(t-1\right)\left(t-3\right)=0$, solving gives $t=1$ or $t=3$. Hence it can reach $15\,\text{m}$, at flight times $1\,\text{s}$ and $3\,\text{s}$ respectively.
+(1) Setting $h=15$ gives $20t-5t^2=15$; rearranging gives $t^2-4t+3=0$, i.e. $\left(t-1\right)\left(t-3\right)=0$, solving gives $t=1$ or $t=3$. Hence it can reach $15\;\text{m}$, at flight times $1\;\text{s}$ and $3\;\text{s}$ respectively.
 
-(2) Setting $h=20.5$ gives $20t-5t^2=20.5$; rearranging gives $t^2-4t+4.1=0$, whose discriminant is $\Delta=16-16.4=-0.4<0$, so the equation has no real root. Hence the ball cannot reach $20.5\,\text{m}$.
+(2) Setting $h=20.5$ gives $20t-5t^2=20.5$; rearranging gives $t^2-4t+4.1=0$, whose discriminant is $\Delta=16-16.4=-0.4<0$, so the equation has no real root. Hence the ball cannot reach $20.5\;\text{m}$.
 
-(3) On landing, $h=0$, giving $20t-5t^2=0$, i.e. $5t\left(4-t\right)=0$, solving gives $t=0$ (at launch) or $t=4$. Hence it takes $4\,\text{s}$ from launch to landing. $\blacksquare$
+(3) On landing, $h=0$, giving $20t-5t^2=0$, i.e. $5t\left(4-t\right)=0$, solving gives $t=0$ (at launch) or $t=4$. Hence it takes $4\;\text{s}$ from launch to landing. $\blacksquare$
 
 ## Exercise 2
 
@@ -252,19 +252,19 @@ Use Relation Between a Quadratic Function and a Quadratic Equation and the discr
 
 ## Problem 11
 
-(Exercise 26.3, Comprehensive Application, Problem 4) A car accelerates over a period of time; the function expression for the distance traveled $l$ (in $\text{m}$) in terms of time $t$ (in $\text{s}$) is measured to be $l=9t+\frac12t^2$. How far has the car traveled after $10\,\text{s}$? How long does it take to travel $180\,\text{m}$?
+(Exercise 26.3, Comprehensive Application, Problem 4) A car accelerates over a period of time; the function expression for the distance traveled $l$ (in $\text{m}$) in terms of time $t$ (in $\text{s}$) is measured to be $l=9t+\frac12t^2$. How far has the car traveled after $10\;\text{s}$? How long does it take to travel $180\;\text{m}$?
 
 ### Solution to Problem 11
 
-Substituting $t=10$ gives $l=9\times10+\frac12\times100=90+50=140\,\text{m}$. Hence after $10\,\text{s}$ the car has traveled $140\,\text{m}$.
+Substituting $t=10$ gives $l=9\times10+\frac12\times100=90+50=140\;\text{m}$. Hence after $10\;\text{s}$ the car has traveled $140\;\text{m}$.
 
-To travel $180\,\text{m}$, set $l=180$, giving $9t+\frac12t^2=180$, i.e. $t^2+18t-360=0$. By the quadratic formula,
+To travel $180\;\text{m}$, set $l=180$, giving $9t+\frac12t^2=180$, i.e. $t^2+18t-360=0$. By the quadratic formula,
 
 $$
 t=\frac{-18\pm\sqrt{18^2+4\times360}}2=\frac{-18\pm42}2,
 $$
 
-taking the positive root $t=12$. Hence it takes $12\,\text{s}$ to travel $180\,\text{m}$. $\blacksquare$
+taking the positive root $t=12$. Hence it takes $12\;\text{s}$ to travel $180\;\text{m}$. $\blacksquare$
 
 ## Problem 12
 
@@ -316,13 +316,13 @@ When $a<0$, the parabola opens downward, and the conclusions are reversed: (1) v
 
 ## Exercise 3
 
-(Exercise 26.4, Problem 1) If the wall in Example 2 is $8\,\text{m}$ long, how should the fence be arranged to maximize the area of the rectangular vegetable garden? What is the maximum area?
+(Exercise 26.4, Problem 1) If the wall in Example 2 is $8\;\text{m}$ long, how should the fence be arranged to maximize the area of the rectangular vegetable garden? What is the maximum area?
 
 ### Solution to Exercise 3
 
-Let the side perpendicular to the wall be $x\,\text{m}$; then the side parallel to the wall is $\left(20-2x\right)\,\text{m}$. The area is $S=x\left(20-2x\right)=-2x^2+20x$. The wall is $8\,\text{m}$ long, so $20-2x\le8$, i.e. $x\ge6$; also $x>0$, hence $x\ge6$.
+Let the side perpendicular to the wall be $x\;\text{m}$; then the side parallel to the wall is $\left(20-2x\right)\;\text{m}$. The area is $S=x\left(20-2x\right)=-2x^2+20x$. The wall is $8\;\text{m}$ long, so $20-2x\le8$, i.e. $x\ge6$; also $x>0$, hence $x\ge6$.
 
-By The Parabola $y=ax^2+bx+c$, this parabola opens downward, with vertex at $x=-\frac{20}{2\left(-2\right)}=5$; since $x\ge6$ lies to the right of the vertex, $S$ decreases as $x$ increases. Hence $S$ is maximized when $x=6$; the side parallel to the wall is $20-12=8\,\text{m}$, and the maximum area is $S=6\times8=48\,\text{m}^2$. $\blacksquare$
+By The Parabola $y=ax^2+bx+c$, this parabola opens downward, with vertex at $x=-\frac{20}{2\left(-2\right)}=5$; since $x\ge6$ lies to the right of the vertex, $S$ decreases as $x$ increases. Hence $S$ is maximized when $x=6$; the side parallel to the wall is $20-12=8\;\text{m}$, and the maximum area is $S=6\times8=48\;\text{m}^2$. $\blacksquare$
 
 ## Exercise 4
 
@@ -333,10 +333,10 @@ By The Parabola $y=ax^2+bx+c$, this parabola opens downward, with vertex at $x=-
 By The Parabola $y=ax^2+bx+c$, $a=-5<0$, opens downward; the maximum is taken at $t=-\frac{30}{2\left(-5\right)}=3$, at which
 
 $$
-h_{\max}=30\times3-5\times9=90-45=45\,\text{m}.
+h_{\max}=30\times3-5\times9=90-45=45\;\text{m}.
 $$
 
-Hence the ball is highest at $3\,\text{s}$, with maximum height $45\,\text{m}$. $\blacksquare$
+Hence the ball is highest at $3\;\text{s}$, with maximum height $45\;\text{m}$. $\blacksquare$
 
 ## Exercise 5
 
@@ -353,7 +353,7 @@ $$
 By The Parabola $y=ax^2+bx+c$, $a=-30<0$; the maximum is taken at $x=-\frac{1500}{2\left(-30\right)}=25$. The group size is then $20+25=45$, and the maximum revenue is
 
 $$
-y=-30\times25^2+1500\times25+42000=60750\,\text{元}.
+y=-30\times25^2+1500\times25+42000=60750\;\text{元}.
 $$
 
 Hence revenue is maximized at group size $45$, with maximum $60750$ yuan. $\blacksquare$
@@ -373,14 +373,14 @@ $$
 By The Parabola $y=ax^2+bx+c$, $a=-\frac18<0$; the maximum is taken at $x=-\frac{40}{2\left(-1/8\right)}=160$, at which
 
 $$
-y=40\times160-\frac{160^2}{8}-500=6400-3200-500=2700\,\text{元}.
+y=40\times160-\frac{160^2}{8}-500=6400-3200-500=2700\;\text{元}.
 $$
 
 Hence profit is maximized at output $160$ units, with maximum profit $2700$ yuan. $\blacksquare$
 
 ## Exercise 7
 
-(Exercise 26.4, Problem 5) In a shot, the basketball's path is part of the parabola $y=-\frac15x^2+3.85$. The hoop is $3.05\,\text{m}$ high, and the player's release point is $3.2\,\text{m}$ to the left of the axis of symmetry. If the ball goes through the hoop, find the horizontal distance $l$ from the player to the point directly below the hoop.
+(Exercise 26.4, Problem 5) In a shot, the basketball's path is part of the parabola $y=-\frac15x^2+3.85$. The hoop is $3.05\;\text{m}$ high, and the player's release point is $3.2\;\text{m}$ to the left of the axis of symmetry. If the ball goes through the hoop, find the horizontal distance $l$ from the player to the point directly below the hoop.
 
 ### Solution to Exercise 7
 
@@ -390,21 +390,21 @@ $$
 3.05=-\frac15x^2+3.85.
 $$
 
-i.e. $\frac15x^2=0.8$, $x^2=4$; taking the hoop on the right side of the axis, $x=2$. The release point is $3.2\,\text{m}$ to the left of the axis, i.e. $x=-3.2$. Hence the horizontal distance from the player to the point below the hoop is
+i.e. $\frac15x^2=0.8$, $x^2=4$; taking the hoop on the right side of the axis, $x=2$. The release point is $3.2\;\text{m}$ to the left of the axis, i.e. $x=-3.2$. Hence the horizontal distance from the player to the point below the hoop is
 
 $$
-l=2-\left(-3.2\right)=5.2\,\text{m}.\blacksquare
+l=2-\left(-3.2\right)=5.2\;\text{m}.\blacksquare
 $$
 
 ## Exercise 8
 
-(Exercise 26.4, Problem 6) For the arch-bridge problem, after heavy rain the water level rises $1\,\text{m}$. A small boat is $4\,\text{m}$ wide; its cabin top is rectangular and extends $2\,\text{m}$ above the water. Can this boat pass under the arch?
+(Exercise 26.4, Problem 6) For the arch-bridge problem, after heavy rain the water level rises $1\;\text{m}$. A small boat is $4\;\text{m}$ wide; its cabin top is rectangular and extends $2\;\text{m}$ above the water. Can this boat pass under the arch?
 
 ### Solution to Exercise 8
 
-The arch parabola is $y=-\frac4{25}x^2$. After the water rises $1\,\text{m}$, the water surface is at vertical coordinate $-3$; the boat top is $2\,\text{m}$ above the water, so the boat top is at $-3+2=-1$.
+The arch parabola is $y=-\frac4{25}x^2$. After the water rises $1\;\text{m}$, the water surface is at vertical coordinate $-3$; the boat top is $2\;\text{m}$ above the water, so the boat top is at $-3+2=-1$.
 
-The boat is $4\,\text{m}$ wide, so its edges are at $x=\pm2$. The arch at $x=2$ has vertical coordinate $y=-\frac4{25}\times4=-\frac{16}{25}=-0.64$. Since $-0.64>-1$, the arch is above the boat top, leaving $0.36\,\text{m}$ clearance. Hence the boat can pass under the arch. $\blacksquare$
+The boat is $4\;\text{m}$ wide, so its edges are at $x=\pm2$. The arch at $x=2$ has vertical coordinate $y=-\frac4{25}\times4=-\frac{16}{25}=-0.64$. Since $-0.64>-1$, the arch is above the boat top, leaving $0.36\;\text{m}$ clearance. Hence the boat can pass under the arch. $\blacksquare$
 
 ## Problem 14
 
@@ -415,10 +415,10 @@ The boat is $4\,\text{m}$ wide, so its edges are at $x=\pm2$. The arch at $x=2$ 
 By The Parabola $y=ax^2+bx+c$, $a=-5<0$; the maximum is taken at $t=-\frac{3.6}{2\left(-5\right)}=0.36$,
 
 $$
-y_{\max}=-5\times0.36^2+3.6\times0.36=0.648\,\text{m}.
+y_{\max}=-5\times0.36^2+3.6\times0.36=0.648\;\text{m}.
 $$
 
-Hence at the highest point his feet are $0.648\,\text{m}$ off the ground. $\blacksquare$
+Hence at the highest point his feet are $0.648\;\text{m}$ off the ground. $\blacksquare$
 
 ## Problem 15
 
@@ -429,10 +429,10 @@ Hence at the highest point his feet are $0.648\,\text{m}$ off the ground. $\blac
 The car stops when its velocity is zero, i.e. when the distance reaches its maximum, corresponding to the vertex of the parabola. By The Parabola $y=ax^2+bx+c$, $a=-6<0$; the maximum is taken at $t=-\frac{15}{2\left(-6\right)}=1.25$,
 
 $$
-l_{\max}=15\times1.25-6\times1.25^2=9.375\,\text{m}.
+l_{\max}=15\times1.25-6\times1.25^2=9.375\;\text{m}.
 $$
 
-Hence the car travels $9.375\,\text{m}$ after braking. $\blacksquare$
+Hence the car travels $9.375\;\text{m}$ after braking. $\blacksquare$
 
 ## Problem 16
 
@@ -440,13 +440,13 @@ Hence the car travels $9.375\,\text{m}$ after braking. $\blacksquare$
 
 ### Solution to Problem 16
 
-By The Parabola $y=ax^2+bx+c$, $a=-5<0$; the maximum is taken at $t=\frac{39}{10}=3.9\,\text{s}$,
+By The Parabola $y=ax^2+bx+c$, $a=-5<0$; the maximum is taken at $t=\frac{39}{10}=3.9\;\text{s}$,
 
 $$
-h_{\max}=39\times3.9-5\times3.9^2=76.05\,\text{m}.
+h_{\max}=39\times3.9-5\times3.9^2=76.05\;\text{m}.
 $$
 
-Hence it detonates at its highest point $3.9\,\text{s}$ after being lit, with maximum height $76.05\,\text{m}$. $\blacksquare$
+Hence it detonates at its highest point $3.9\;\text{s}$ after being lit, with maximum height $76.05\;\text{m}$. $\blacksquare$
 
 ## Problem 17
 
