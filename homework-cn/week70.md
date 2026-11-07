@@ -88,11 +88,11 @@
 
 在 $\text{Rt}\triangle{A}CD$ 中, 由**定义 28.1.1 (正弦)**,
 
-$$\sin{A}=\frac{CD}{AC}\implies{A}C=\frac{CD}{\sin32^{\circ}}=\frac{3.5}{\sin32^{\circ}}\approx\frac{3.5}{0.5299}\approx6.605\;\text{m}.$$
+$$\sin{A}=\frac{CD}{AC}\Rightarrow{A}C=\frac{CD}{\sin32^{\circ}}=\frac{3.5}{\sin32^{\circ}}\approx\frac{3.5}{0.5299}\approx6.605\;\text{m}.$$
 
 由**定义 28.1.3 (正切)**,
 
-$$\tan{A}=\frac{CD}{AD}\implies{A}D=\frac{CD}{\tan32^{\circ}}=\frac{3.5}{\tan32^{\circ}}\approx\frac{3.5}{0.6249}\approx5.601\;\text{m}.$$
+$$\tan{A}=\frac{CD}{AD}\Rightarrow{A}D=\frac{CD}{\tan32^{\circ}}=\frac{3.5}{\tan32^{\circ}}\approx\frac{3.5}{0.6249}\approx5.601\;\text{m}.$$
 
 钢材总长为 $AC+BC+AB=2AC+2AD\approx2\times6.605+2\times5.601\approx24.41\;\text{m}$. $\blacksquare$
 
@@ -218,7 +218,7 @@ $$AC=DC\cdot\tan50^{\circ}\approx40\times1.1918\approx47.67\;\text{m}.$$
 
 在 $\text{Rt}\triangle{B}DE$ 中, 由**定义 28.1.1 (正弦)**,
 
-$$\sin\angle{D}BE=\frac{DE}{BD}\implies{D}E=BD\cdot\sin40^{\circ}\approx520\times0.6428\approx334.3\;\text{m}.$$
+$$\sin\angle{D}BE=\frac{DE}{BD}\Rightarrow{D}E=BD\cdot\sin40^{\circ}\approx520\times0.6428\approx334.3\;\text{m}.$$
 
 故开挖点 $E$ 离 $D$ 约 $334.3\;\text{m}$. $\blacksquare$
 
