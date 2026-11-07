@@ -56,7 +56,7 @@
 
 (Exercise 8.1, Review and Consolidation, Problem 4) Use a calculator to find the value of each of the following (keep two decimal places):
 
-(1) $\sqrt{408}$;　(2) $\sqrt{51.42534}$;　(3) $\sqrt{\frac{111}{14}}$.
+(1) $\sqrt{408}$; (2) $\sqrt{51.42534}$; (3) $\sqrt{\frac{111}{14}}$.
 
 ### Solution to Problem 1
 
@@ -72,7 +72,7 @@ By **Definition 8.1.2 (Arithmetic Square Root)**, use a calculator to find the p
 
 (Exercise 8.1, Review and Consolidation, Problem 5) Compare the sizes of each group:
 
-(1) $\sqrt{65}$ and $8$;　(2) $\sqrt{33}$ and $\sqrt{22}$;　(3) $\frac{\sqrt{10}-1}{2}$ and $1$.
+(1) $\sqrt{65}$ and $8$; (2) $\sqrt{33}$ and $\sqrt{22}$; (3) $\frac{\sqrt{10}-1}{2}$ and $1$.
 
 ### Solution to Problem 2
 
@@ -88,7 +88,7 @@ By Size of the Arithmetic Square Root, the larger the radicand, the larger the a
 
 (Exercise 8.1, Review and Consolidation, Problem 6) Find the value of $x$ in each of the following:
 
-(1) $x^2-100=0$;　(2) $25x^2=36$;　(3) $\left(x+2\right)^2=0.49$.
+(1) $x^2-100=0$; (2) $25x^2=36$; (3) $\left(x+2\right)^2=0.49$.
 
 ### Solution to Problem 3
 
@@ -174,7 +174,7 @@ $\blacksquare$
 
 By Size of the Arithmetic Square Root, repeatedly take square roots of the positive number.
 
-Repeatedly take square roots of $1234$: $\sqrt{1234}\approx35.1$, then $\sqrt{35.1}\approx5.92$, then $\approx2.43$, then $\approx1.56$, then $\approx1.25$, … As the number of square-root extractions increases, the result gradually approaches $1$.
+Repeatedly take square roots of $1234$: $\sqrt{1234}\approx35.1$, then $\sqrt{35.1}\approx5.92$, then $\approx2.43$, then $\approx1.56$, then $\approx1.25$,... As the number of square-root extractions increases, the result gradually approaches $1$.
 
 In general, repeatedly taking square roots of a positive number greater than $1$ gradually decreases the result toward $1$. $\blacksquare$
 
@@ -206,7 +206,7 @@ By Properties of Cube Roots, every number has exactly one cube root.
 
 (Exercise 8.2, Problem 2) Find the cube roots of the following numbers:
 
-(1) $-1$;　(2) $0.008$;　(3) $-\frac{64}{27}$.
+(1) $-1$; (2) $0.008$; (3) $-\frac{64}{27}$.
 
 ### Solution to Exercise 2
 
@@ -234,7 +234,7 @@ That is, the edge length of the Rubik's cube is $6\;\text{cm}$. $\blacksquare$
 
 (Exercise 8.2, Problem 1) Find the value of each of the following:
 
-(1) $\sqrt\left[3\right]{0.027}$;　(2) $\sqrt\left[3\right]{\left(-7\right)^3}$;　(3) $\sqrt\left[3\right]{-\frac{8}{27}}$.
+(1) $\sqrt\left[3\right]{0.027}$; (2) $\sqrt\left[3\right]{\left(-7\right)^3}$; (3) $\sqrt\left[3\right]{-\frac{8}{27}}$.
 
 ### Solution to Exercise 4
 
@@ -250,7 +250,7 @@ By Relationship Between Cubing and Extracting Cube Roots and Cube Root of a Nega
 
 (Exercise 8.2, Problem 2) Use a calculator to find the value of each of the following:
 
-(1) $\sqrt\left[3\right]{6859}$;　(2) $\sqrt\left[3\right]{68921}$;　(3) $\sqrt\left[3\right]{0.028092}$ (keep three decimal places).
+(1) $\sqrt\left[3\right]{6859}$; (2) $\sqrt\left[3\right]{68921}$; (3) $\sqrt\left[3\right]{0.028092}$ (keep three decimal places).
 
 ### Solution to Exercise 5
 
@@ -266,7 +266,7 @@ By **Definition 8.2.1 (Cube Root)**, use a calculator to find the cube root.
 
 (Exercise 8.2, Problem 3) Between which two consecutive integers does each of the following numbers lie?
 
-(1) $\sqrt\left[3\right]{7}$;　(2) $\sqrt\left[3\right]{99}$;　(3) $\sqrt\left[3\right]{635}$;　(4) $\sqrt\left[3\right]{-28}$.
+(1) $\sqrt\left[3\right]{7}$; (2) $\sqrt\left[3\right]{99}$; (3) $\sqrt\left[3\right]{635}$; (4) $\sqrt\left[3\right]{-28}$.
 
 ### Solution to Exercise 6
 
@@ -284,7 +284,7 @@ Compare with cubes.
 
 (Exercise 8.2, Review and Consolidation, Problem 1) Find the value of each of the following:
 
-(1) $-\sqrt\left[3\right]{0.125}$;　(2) $-\sqrt\left[3\right]{729}$;　(3) $\sqrt\left[3\right]{-\frac{1}{8}}$.
+(1) $-\sqrt\left[3\right]{0.125}$; (2) $-\sqrt\left[3\right]{729}$; (3) $\sqrt\left[3\right]{-\frac{1}{8}}$.
 
 ### Solution to Problem 9
 
@@ -300,7 +300,7 @@ By Cube Root of a Negative Number and **Definition 8.2.1 (Cube Root)**.
 
 (Exercise 8.2, Review and Consolidation, Problem 2) Use a calculator to find the value of each of the following (keep three decimal places):
 
-(1) $\sqrt\left[3\right]{5572}$;　(2) $-\sqrt\left[3\right]{\frac{11}{3}}$;　(3) $\pm\sqrt\left[3\right]{25.986558}$.
+(1) $\sqrt\left[3\right]{5572}$; (2) $-\sqrt\left[3\right]{\frac{11}{3}}$; (3) $\pm\sqrt\left[3\right]{25.986558}$.
 
 ### Solution to Problem 10
 
@@ -316,7 +316,7 @@ By **Definition 8.2.1 (Cube Root)**, use a calculator.
 
 (Exercise 8.2, Review and Consolidation, Problem 3) Compare the sizes of each group:
 
-(1) $\sqrt\left[3\right]{7}$ and $2$;　(2) $\sqrt\left[3\right]{9}$ and $2.5$;　(3) $-\sqrt\left[3\right]{3}$ and $-\sqrt\left[3\right]{2}$.
+(1) $\sqrt\left[3\right]{7}$ and $2$; (2) $\sqrt\left[3\right]{9}$ and $2.5$; (3) $-\sqrt\left[3\right]{3}$ and $-\sqrt\left[3\right]{2}$.
 
 ### Solution to Problem 11
 
@@ -332,7 +332,7 @@ The cube root increases as the radicand increases.
 
 (Exercise 8.2, Comprehensive Application, Problem 4) Find the value of $x$ in each of the following:
 
-(1) $x^3=-0.064$;　(2) $x^3-3=\frac{3}{8}$;　(3) $\left(x+1\right)^3=8$.
+(1) $x^3=-0.064$; (2) $x^3-3=\frac{3}{8}$; (3) $\left(x+1\right)^3=8$.
 
 ### Solution to Problem 12
 
@@ -422,7 +422,7 @@ $\blacksquare$
 
 ### Solution to Problem 17
 
-By the behavior of the cube root as the radicand changes, repeatedly extract cube roots of $1234$: $\sqrt\left[3\right]{1234}\approx10.7$, then extract the cube root again $\approx2.2$, then again $\approx1.3$, then again $\approx1.09$, … The result gradually approaches $1$.
+By the behavior of the cube root as the radicand changes, repeatedly extract cube roots of $1234$: $\sqrt\left[3\right]{1234}\approx10.7$, then extract the cube root again $\approx2.2$, then again $\approx1.3$, then again $\approx1.09$,... The result gradually approaches $1$.
 
 In general, repeatedly extracting cube roots of a number greater than $1$ gradually decreases the result toward $1$. $\blacksquare$
 

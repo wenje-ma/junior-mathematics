@@ -122,9 +122,9 @@ First quadrant: x-coordinate $+$, y-coordinate $+$; second quadrant: x-coordinat
 
 ## Exercise 4
 
-(Exercise 9.1, Problem 1) On grid paper there are two points $A$, $B$. If a rectangular coordinate system is established with point $B$ as the origin, then the coordinates of point $A$ are $\left(-2,1\right)$. If a rectangular coordinate system is established with point $A$ as the origin, then the coordinates of point $B$ are (　　).
+(Exercise 9.1, Problem 1) On grid paper there are two points $A$, $B$. If a rectangular coordinate system is established with point $B$ as the origin, then the coordinates of point $A$ are $\left(-2,1\right)$. If a rectangular coordinate system is established with point $A$ as the origin, then the coordinates of point $B$ are ( ).
 
-(1) $\left(-2,1\right)$　(2) $\left(2,-1\right)$　(3) $\left(-2,-1\right)$　(4) $\left(2,1\right)$
+(1) $\left(-2,1\right)$ (2) $\left(2,-1\right)$ (3) $\left(-2,-1\right)$ (4) $\left(2,1\right)$
 
 ### Solution to Exercise 4
 
@@ -346,9 +346,9 @@ By Representing Geographic Locations with Coordinates, describe using a directio
 
 ## Exercise 10
 
-(Exercise 9.2, Problem 1) As shown in the figure, translate the triangle to the right by $2$ units of length, then up by $3$ units of length. Then the coordinates of the three vertices after translation are respectively (　　).
+(Exercise 9.2, Problem 1) As shown in the figure, translate the triangle to the right by $2$ units of length, then up by $3$ units of length. Then the coordinates of the three vertices after translation are respectively ( ).
 
-(1) $\left(2,2\right)$, $\left(3,4\right)$, $\left(1,7\right)$　(2) $\left(-2,2\right)$, $\left(4,3\right)$, $\left(1,7\right)$　(3) $\left(-2,2\right)$, $\left(3,4\right)$, $\left(1,7\right)$　(4) $\left(2,-2\right)$, $\left(3,3\right)$, $\left(1,7\right)$
+(1) $\left(2,2\right)$, $\left(3,4\right)$, $\left(1,7\right)$ (2) $\left(-2,2\right)$, $\left(4,3\right)$, $\left(1,7\right)$ (3) $\left(-2,2\right)$, $\left(3,4\right)$, $\left(1,7\right)$ (4) $\left(2,-2\right)$, $\left(3,3\right)$, $\left(1,7\right)$
 
 ### Solution to Exercise 10
 

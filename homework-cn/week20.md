@@ -84,7 +84,7 @@ $0$: 相反数为 $0$, 绝对值为 $0$. $\blacksquare$
 
 (练习 8.3 第 2 题) 计算:
 
-(1) $2\sqrt5-3\sqrt5$;　(2) $3\sqrt3-\left|1-\sqrt\left[3\right]{3}\right|$.
+(1) $2\sqrt5-3\sqrt5$; (2) $3\sqrt3-\left|1-\sqrt\left[3\right]{3}\right|$.
 
 ### 解答 练习三
 
@@ -104,7 +104,7 @@ $\blacksquare$
 
 (练习 8.3 第 3 题) 计算 (结果保留小数点后两位):
 
-(1) $\sqrt{17}+\sqrt{22}$;　(2) $\sqrt\left[3\right]{6}-\sqrt6$.
+(1) $\sqrt{17}+\sqrt{22}$; (2) $\sqrt\left[3\right]{6}-\sqrt6$.
 
 ### 解答 练习四
 
@@ -166,7 +166,7 @@ $\sqrt\left[3\right]{2}\approx1.26>1$, 故 $1-\sqrt\left[3\right]{2}<0$, 其绝�
 
 (习题 8.3 复习巩固第 4 题) 计算 (结果保留小数点后两位):
 
-(1) $\pi-\sqrt{10}$;　(2) $\sqrt\left[3\right]{2}-\sqrt2$.
+(1) $\pi-\sqrt{10}$; (2) $\sqrt\left[3\right]{2}-\sqrt2$.
 
 ### 解答 习题四
 
@@ -180,7 +180,7 @@ $\sqrt\left[3\right]{2}\approx1.26>1$, 故 $1-\sqrt\left[3\right]{2}<0$, 其绝�
 
 (习题 8.3 复习巩固第 5 题) 计算:
 
-(1) $2\left(\sqrt6-\sqrt7\right)-\left|2\sqrt6-\sqrt7\right|$;　(2) $\left(-\sqrt2\right)^2+\left(-\sqrt\left[3\right]{2}\right)^3$.
+(1) $2\left(\sqrt6-\sqrt7\right)-\left|2\sqrt6-\sqrt7\right|$; (2) $\left(-\sqrt2\right)^2+\left(-\sqrt\left[3\right]{2}\right)^3$.
 
 ### 解答 习题五
 
@@ -342,7 +342,7 @@ $$
 
 (复习题 复习巩固第 1 题) 求下列各数的平方根及算术平方根:
 
-(1) $0.36$;　(2) $\frac{25}{16}$;　(3) $\left(-\frac{7}{8}\right)^2$;　(4) $10^4$.
+(1) $0.36$; (2) $\frac{25}{16}$; (3) $\left(-\frac{7}{8}\right)^2$; (4) $10^4$.
 
 ### 解答 复习题一
 
@@ -360,7 +360,7 @@ $$
 
 (复习题 复习巩固第 2 题) 求下列各数的立方根:
 
-(1) $\frac{27}{8}$;　(2) $-\frac{1}{64}$;　(3) $-0.729$;　(4) $36$.
+(1) $\frac{27}{8}$; (2) $-\frac{1}{64}$; (3) $-0.729$; (4) $36$.
 
 ### 解答 复习题二
 
@@ -378,7 +378,7 @@ $$
 
 (复习题 复习巩固第 3 题) 求下列各式的值:
 
-(1) $-\sqrt{1-\frac{16}{25}}$;　(2) $\sqrt\left[3\right]{10^3}$;　(3) $\pm\sqrt{0.09}$;　(4) $\sqrt{\left(3-\pi\right)^2}$.
+(1) $-\sqrt{1-\frac{16}{25}}$; (2) $\sqrt\left[3\right]{10^3}$; (3) $\pm\sqrt{0.09}$; (4) $\sqrt{\left(3-\pi\right)^2}$.
 
 ### 解答 复习题三
 
@@ -396,7 +396,7 @@ $$
 
 (复习题 复习巩固第 4 题) 用计算器求下列各式的值:
 
-(1) $\sqrt{180625}$;　(2) $-\sqrt{9.77}$ (结果保留小数点后三位);　(3) $\sqrt\left[3\right]{39304}$;　(4) $\sqrt\left[3\right]{0.43}$ (结果保留小数点后三位).
+(1) $\sqrt{180625}$; (2) $-\sqrt{9.77}$ (结果保留小数点后三位); (3) $\sqrt\left[3\right]{39304}$; (4) $\sqrt\left[3\right]{0.43}$ (结果保留小数点后三位).
 
 ### 解答 复习题四
 
@@ -414,7 +414,7 @@ $$
 
 (复习题 复习巩固第 5 题) 计算:
 
-(1) $\sqrt2\left(\sqrt2+2\right)$;　(2) $\sqrt3\left(\sqrt3+\frac{1}{\sqrt3}\right)$.
+(1) $\sqrt2\left(\sqrt2+2\right)$; (2) $\sqrt3\left(\sqrt3+\frac{1}{\sqrt3}\right)$.
 
 ### 解答 复习题五
 
@@ -428,7 +428,7 @@ $$
 
 (复习题 复习巩固第 6 题) 下列各数分别介于哪两个相邻的整数之间? 与哪个整数更接近?
 
-(1) $\sqrt{91}$;　(2) $\sqrt\left[3\right]{91}$.
+(1) $\sqrt{91}$; (2) $\sqrt\left[3\right]{91}$.
 
 ### 解答 复习题六
 

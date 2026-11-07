@@ -290,7 +290,7 @@ $\angle{A}DE$ 与 $\angle{B}$ 是直线 $DE$, $BC$ 被直线 $AB$ 所截得的�
 
 (练习 7.2 第 3 题) 将一个直角三角尺与两边平行的纸条如图放置, 则下列结论正确的是\_\_\_\_ (填序号).
 
-(1) $\angle1=\angle2$;　(2) $\angle4+\angle5=180^\circ$;　(3) $\angle1+\angle4=90^\circ$;　(4) $\angle4+90^\circ=\angle3$.
+(1) $\angle1=\angle2$; (2) $\angle4+\angle5=180^\circ$; (3) $\angle1+\angle4=90^\circ$; (4) $\angle4+90^\circ=\angle3$.
 
 ### 解答 练习八
 
@@ -372,9 +372,9 @@ $$
 
 ## 习题十
 
-(习题 7.2 复习巩固第 4 题) 如图, 在下列条件中, 能判断直线 $a\parallel{b}$ 的是 (　　).
+(习题 7.2 复习巩固第 4 题) 如图, 在下列条件中, 能判断直线 $a\parallel{b}$ 的是 ( ).
 
-(1) $\angle2+\angle5=180^\circ$　(2) $\angle2=\angle4$　(3) $\angle4+\angle5=180^\circ$　(4) $\angle1=\angle3$
+(1) $\angle2+\angle5=180^\circ$ (2) $\angle2=\angle4$ (3) $\angle4+\angle5=180^\circ$ (4) $\angle1=\angle3$
 
 图中为两条直线 $a$, $b$ 被一条截线所截, 在两个交点处共标出 $\angle1$, $\angle2$, $\angle3$, $\angle4$, $\angle5$ 五个角.
 

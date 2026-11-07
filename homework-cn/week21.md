@@ -122,9 +122,9 @@ $$
 
 ## 练习四
 
-(练习 9.1 第 1 题) 方格纸上有 $A$, $B$ 两点, 若以点 $B$ 为原点建立平面直角坐标系, 则点 $A$ 的坐标为 $\left(-2,1\right)$. 若以点 $A$ 为原点建立平面直角坐标系, 则点 $B$ 的坐标为 (　　).
+(练习 9.1 第 1 题) 方格纸上有 $A$, $B$ 两点, 若以点 $B$ 为原点建立平面直角坐标系, 则点 $A$ 的坐标为 $\left(-2,1\right)$. 若以点 $A$ 为原点建立平面直角坐标系, 则点 $B$ 的坐标为 ( ).
 
-(1) $\left(-2,1\right)$　(2) $\left(2,-1\right)$　(3) $\left(-2,-1\right)$　(4) $\left(2,1\right)$
+(1) $\left(-2,1\right)$ (2) $\left(2,-1\right)$ (3) $\left(-2,-1\right)$ (4) $\left(2,1\right)$
 
 ### 解答 练习四
 
@@ -346,9 +346,9 @@ $$
 
 ## 练习十
 
-(练习 9.2 第 1 题) 如图, 将三角形向右平移 $2$ 个单位长度, 再向上平移 $3$ 个单位长度, 则平移后三个顶点的坐标分别是 (　　).
+(练习 9.2 第 1 题) 如图, 将三角形向右平移 $2$ 个单位长度, 再向上平移 $3$ 个单位长度, 则平移后三个顶点的坐标分别是 ( ).
 
-(1) $\left(2,2\right)$, $\left(3,4\right)$, $\left(1,7\right)$　(2) $\left(-2,2\right)$, $\left(4,3\right)$, $\left(1,7\right)$　(3) $\left(-2,2\right)$, $\left(3,4\right)$, $\left(1,7\right)$　(4) $\left(2,-2\right)$, $\left(3,3\right)$, $\left(1,7\right)$
+(1) $\left(2,2\right)$, $\left(3,4\right)$, $\left(1,7\right)$ (2) $\left(-2,2\right)$, $\left(4,3\right)$, $\left(1,7\right)$ (3) $\left(-2,2\right)$, $\left(3,4\right)$, $\left(1,7\right)$ (4) $\left(2,-2\right)$, $\left(3,3\right)$, $\left(1,7\right)$
 
 ### 解答 练习十
 

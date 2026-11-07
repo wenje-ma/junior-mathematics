@@ -290,7 +290,7 @@ It has been proved that $DE\parallel{B}C$, and $\angle{A}ED$ and $\angle{C}$ are
 
 (Exercise 7.2, Problem 3) Place a right-angle set square and a strip of paper with parallel sides as shown in the figure. Then which of the following conclusions is correct? _______ (fill in the numbers).
 
-(1) $\angle1=\angle2$;　(2) $\angle4+\angle5=180^\circ$;　(3) $\angle1+\angle4=90^\circ$;　(4) $\angle4+90^\circ=\angle3$.
+(1) $\angle1=\angle2$; (2) $\angle4+\angle5=180^\circ$; (3) $\angle1+\angle4=90^\circ$; (4) $\angle4+90^\circ=\angle3$.
 
 ### Solution to Exercise 8
 
@@ -372,9 +372,9 @@ By Property 2, parallel lines give equal alternate interior angles, so $\angle{B
 
 ## Problem 10
 
-(Exercise 7.2, Review and Consolidation, Problem 4) As shown in the figure, among the following conditions, the one that can determine line $a\parallel{b}$ is (　　).
+(Exercise 7.2, Review and Consolidation, Problem 4) As shown in the figure, among the following conditions, the one that can determine line $a\parallel{b}$ is ( ).
 
-(1) $\angle2+\angle5=180^\circ$　(2) $\angle2=\angle4$　(3) $\angle4+\angle5=180^\circ$　(4) $\angle1=\angle3$
+(1) $\angle2+\angle5=180^\circ$ (2) $\angle2=\angle4$ (3) $\angle4+\angle5=180^\circ$ (4) $\angle1=\angle3$
 
 The figure shows two lines $a$, $b$ cut by a transversal, with five angles $\angle1$, $\angle2$, $\angle3$, $\angle4$, $\angle5$ marked at the two intersections.
 

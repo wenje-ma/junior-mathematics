@@ -201,11 +201,11 @@ $$
 
 (1) 下列各点中, 在抛物线 $y=x^2-4x-4$ 上的是 ( ).
 
-(A) $\left(4,4\right)$　(B) $\left(3,-1\right)$　(C) $\left(-2,-8\right)$　(D) $\left(-\frac12,-\frac74\right)$
+(A) $\left(4,4\right)$ (B) $\left(3,-1\right)$ (C) $\left(-2,-8\right)$ (D) $\left(-\frac12,-\frac74\right)$
 
 (2) 下列抛物线中, 对称轴是 $x=-2$ 的是 ( ).
 
-(A) $y=-2x^2-2$　(B) $y=2x^2-2$　(C) $y=-\frac12\left(x+2\right)^2$　(D) $y=2\left(x-2\right)^2$
+(A) $y=-2x^2-2$ (B) $y=2x^2-2$ (C) $y=-\frac12\left(x+2\right)^2$ (D) $y=2\left(x-2\right)^2$
 
 ### 解答 复习题二
 

@@ -80,7 +80,7 @@ $0$: opposite number $0$, absolute value $0$. $\blacksquare$
 
 (Exercise 8.3, Problem 2) Compute:
 
-(1) $2\sqrt5-3\sqrt5$;　(2) $3\sqrt3-\left|1-\sqrt\left[3\right]{3}\right|$.
+(1) $2\sqrt5-3\sqrt5$; (2) $3\sqrt3-\left|1-\sqrt\left[3\right]{3}\right|$.
 
 ### Solution to Exercise 3
 
@@ -100,7 +100,7 @@ $\blacksquare$
 
 (Exercise 8.3, Problem 3) Compute (keep two decimal places):
 
-(1) $\sqrt{17}+\sqrt{22}$;　(2) $\sqrt\left[3\right]{6}-\sqrt6$.
+(1) $\sqrt{17}+\sqrt{22}$; (2) $\sqrt\left[3\right]{6}-\sqrt6$.
 
 ### Solution to Exercise 4
 
@@ -162,7 +162,7 @@ $\sqrt\left[3\right]{2}\approx1.26>1$, so $1-\sqrt\left[3\right]{2}<0$, whose ab
 
 (Exercise 8.3, Review and Consolidation, Problem 4) Compute (keep two decimal places):
 
-(1) $\pi-\sqrt{10}$;　(2) $\sqrt\left[3\right]{2}-\sqrt2$.
+(1) $\pi-\sqrt{10}$; (2) $\sqrt\left[3\right]{2}-\sqrt2$.
 
 ### Solution to Problem 4
 
@@ -176,7 +176,7 @@ Compute with approximate values, then round.
 
 (Exercise 8.3, Review and Consolidation, Problem 5) Compute:
 
-(1) $2\left(\sqrt6-\sqrt7\right)-\left|2\sqrt6-\sqrt7\right|$;　(2) $\left(-\sqrt2\right)^2+\left(-\sqrt\left[3\right]{2}\right)^3$.
+(1) $2\left(\sqrt6-\sqrt7\right)-\left|2\sqrt6-\sqrt7\right|$; (2) $\left(-\sqrt2\right)^2+\left(-\sqrt\left[3\right]{2}\right)^3$.
 
 ### Solution to Problem 5
 
@@ -338,7 +338,7 @@ In summary, $\sqrt\left[3\right]{59319}=39$. $\blacksquare$
 
 (Review Exercise, Review and Consolidation, Problem 1) Find the square roots and arithmetic square roots of the following numbers:
 
-(1) $0.36$;　(2) $\frac{25}{16}$;　(3) $\left(-\frac{7}{8}\right)^2$;　(4) $10^4$.
+(1) $0.36$; (2) $\frac{25}{16}$; (3) $\left(-\frac{7}{8}\right)^2$; (4) $10^4$.
 
 ### Solution to Review Exercise 1
 
@@ -356,7 +356,7 @@ By **Definition 8.1.1 (Square Root)** and **Definition 8.1.2 (Arithmetic Square 
 
 (Review Exercise, Review and Consolidation, Problem 2) Find the cube roots of the following numbers:
 
-(1) $\frac{27}{8}$;　(2) $-\frac{1}{64}$;　(3) $-0.729$;　(4) $36$.
+(1) $\frac{27}{8}$; (2) $-\frac{1}{64}$; (3) $-0.729$; (4) $36$.
 
 ### Solution to Review Exercise 2
 
@@ -374,7 +374,7 @@ By **Definition 8.2.1 (Cube Root)**.
 
 (Review Exercise, Review and Consolidation, Problem 3) Find the value of each of the following:
 
-(1) $-\sqrt{1-\frac{16}{25}}$;　(2) $\sqrt\left[3\right]{10^3}$;　(3) $\pm\sqrt{0.09}$;　(4) $\sqrt{\left(3-\pi\right)^2}$.
+(1) $-\sqrt{1-\frac{16}{25}}$; (2) $\sqrt\left[3\right]{10^3}$; (3) $\pm\sqrt{0.09}$; (4) $\sqrt{\left(3-\pi\right)^2}$.
 
 ### Solution to Review Exercise 3
 
@@ -392,7 +392,7 @@ By **Definition 8.1.2 (Arithmetic Square Root)**, Properties of Arithmetic Squar
 
 (Review Exercise, Review and Consolidation, Problem 4) Use a calculator to find the value of each of the following:
 
-(1) $\sqrt{180625}$;　(2) $-\sqrt{9.77}$ (keep three decimal places);　(3) $\sqrt\left[3\right]{39304}$;　(4) $\sqrt\left[3\right]{0.43}$ (keep three decimal places).
+(1) $\sqrt{180625}$; (2) $-\sqrt{9.77}$ (keep three decimal places); (3) $\sqrt\left[3\right]{39304}$; (4) $\sqrt\left[3\right]{0.43}$ (keep three decimal places).
 
 ### Solution to Review Exercise 4
 
@@ -410,7 +410,7 @@ Use a calculator.
 
 (Review Exercise, Review and Consolidation, Problem 5) Compute:
 
-(1) $\sqrt2\left(\sqrt2+2\right)$;　(2) $\sqrt3\left(\sqrt3+\frac{1}{\sqrt3}\right)$.
+(1) $\sqrt2\left(\sqrt2+2\right)$; (2) $\sqrt3\left(\sqrt3+\frac{1}{\sqrt3}\right)$.
 
 ### Solution to Review Exercise 5
 
@@ -424,7 +424,7 @@ Expand by the distributive law.
 
 (Review Exercise, Review and Consolidation, Problem 6) Between which two consecutive integers does each of the following numbers lie? Which integer is it closer to?
 
-(1) $\sqrt{91}$;　(2) $\sqrt\left[3\right]{91}$.
+(1) $\sqrt{91}$; (2) $\sqrt\left[3\right]{91}$.
 
 ### Solution to Review Exercise 6
 

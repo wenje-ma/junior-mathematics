@@ -74,7 +74,7 @@ By Basic Knowledge, the positive number \(x=\sqrt{6}\), i.e. \(AB=\sqrt{6}\).
 
 Under what conditions on \(x\) are the following expressions meaningful within the set of real numbers?
 
-(1) \(\sqrt{x^{2}+1}\);　(2) \(\sqrt{(x-1)^{2}}\);　(3) \(\sqrt{\frac{1}{x}}\);　(4) \(\frac{1}{\sqrt{x+1}}\).
+(1) \(\sqrt{x^{2}+1}\); (2) \(\sqrt{(x-1)^{2}}\); (3) \(\sqrt{\frac{1}{x}}\); (4) \(\frac{1}{\sqrt{x+1}}\).
 
 By **Definition 19.1.1 (Quadratic Radical)**, the radicand of a quadratic radical must be nonnegative; the denominator must also be nonzero.
 

@@ -354,7 +354,7 @@ Therefore the length is \(3\sqrt{3}\;\text{cm}\) and the width is \(2\sqrt{3}\;\
 
 Under what conditions on \(a\) are the following expressions meaningful within the set of real numbers?
 
-(1) \(\sqrt{a-1}\);　(2) \(\sqrt{5-a}\);　(3) \(\sqrt{2a^{2}+1}\).
+(1) \(\sqrt{a-1}\); (2) \(\sqrt{5-a}\); (3) \(\sqrt{2a^{2}+1}\).
 
 By **Definition 19.1.1 (Quadratic Radical)**, a quadratic radical is meaningful if and only if the radicand is nonnegative.
 
@@ -388,7 +388,7 @@ Hence the original expression \(=\sqrt{2}\).
 
 Calculate:
 
-(1) \((\sqrt{3})^{2}\);　(2) \((3\sqrt{2})^{2}\).
+(1) \((\sqrt{3})^{2}\); (2) \((3\sqrt{2})^{2}\).
 
 (1) By Basic Knowledge, \((\sqrt{3})^{2}=3\).
 
@@ -404,7 +404,7 @@ $$
 
 Simplify:
 
-(1) \(\sqrt{0.3^{2}}\);　(2) \(\sqrt{(-17)^{2}}\);　(3) \(-\sqrt{(-\pi)^{2}}\);　(4) \(\sqrt{10^{-2}}\).
+(1) \(\sqrt{0.3^{2}}\); (2) \(\sqrt{(-17)^{2}}\); (3) \(-\sqrt{(-\pi)^{2}}\); (4) \(\sqrt{10^{-2}}\).
 
 By Basic Knowledge, \(\sqrt{a^{2}}=|a|\).
 
@@ -424,7 +424,7 @@ By Basic Knowledge, \(\sqrt{a^{2}}=|a|\).
 
 Under what conditions on \(a\) are the following expressions meaningful within the set of real numbers?
 
-(1) \(\sqrt{a+2}\);　(2) \(\sqrt{3-a}\);　(3) \(\sqrt{5a^{2}}\);　(4) \(\sqrt{2a+1}\).
+(1) \(\sqrt{a+2}\); (2) \(\sqrt{3-a}\); (3) \(\sqrt{5a^{2}}\); (4) \(\sqrt{2a+1}\).
 
 By **Definition 19.1.1 (Quadratic Radical)**, set each radicand to be nonnegative.
 
@@ -442,7 +442,7 @@ By **Definition 19.1.1 (Quadratic Radical)**, set each radicand to be nonnegativ
 
 Calculate:
 
-(1) \((\sqrt{5})^{2}\);　(2) \((-\sqrt{0.2})^{2}\);　(3) \(\left(\sqrt{\frac{3}{5}}\right)^{2}\);　(4) \((5\sqrt{5})^{2}\);　(5) \(\left(-7\sqrt{\frac{2}{7}}\right)^{2}\);　(6) \(\sqrt{(-10)^{2}}\);　(7) \(\sqrt{\left(-\frac{2}{3}\right)^{2}}\);　(8) \(-\sqrt{\left(-\frac{2}{5}\right)^{2}}\).
+(1) \((\sqrt{5})^{2}\); (2) \((-\sqrt{0.2})^{2}\); (3) \(\left(\sqrt{\frac{3}{5}}\right)^{2}\); (4) \((5\sqrt{5})^{2}\); (5) \(\left(-7\sqrt{\frac{2}{7}}\right)^{2}\); (6) \(\sqrt{(-10)^{2}}\); (7) \(\sqrt{\left(-\frac{2}{3}\right)^{2}}\); (8) \(-\sqrt{\left(-\frac{2}{5}\right)^{2}}\).
 
 Compute using Basic Knowledge and Basic Knowledge.
 
@@ -486,7 +486,7 @@ By Basic Knowledge, \(k=\sqrt{\frac{S}{2}}\), so the two adjacent side lengths a
 
 Using \(a=(\sqrt{a})^{2}\) (\(a\ge0\)), write each of the following nonnegative numbers as the square of a nonnegative number:
 
-(1) \(5\);　(2) \(2.5\);　(3) \(\frac{1}{2}\);　(4) \(0\).
+(1) \(5\); (2) \(2.5\); (3) \(\frac{1}{2}\); (4) \(0\).
 
 By Basic Knowledge, every nonnegative number equals the square of its principal square root.
 

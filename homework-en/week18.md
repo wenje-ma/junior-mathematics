@@ -164,13 +164,13 @@ Thus, knowing any one of $\angle1\sim\angle8$, all the others can be found: the 
 
 (Review Exercise, Comprehensive Application, Problem 8) Multiple choice.
 
-(1) As shown in figure (1), point $E$ is on the extension of $AC$. Which of the following conditions can determine $AB\parallel{C}D$? (　　)
+(1) As shown in figure (1), point $E$ is on the extension of $AC$. Which of the following conditions can determine $AB\parallel{C}D$? ( )
 
-(A) $\angle3=\angle4$　(B) $\angle1=\angle2$　(C) $\angle{D}=\angle{D}CE$　(D) $\angle{D}+\angle{A}CD=180^\circ$
+(A) $\angle3=\angle4$ (B) $\angle1=\angle2$ (C) $\angle{D}=\angle{D}CE$ (D) $\angle{D}+\angle{A}CD=180^\circ$
 
-(2) As shown in figure (2), $\angle1+\angle2=180^\circ$, $\angle3=108^\circ$, then $\angle4=$ (　　).
+(2) As shown in figure (2), $\angle1+\angle2=180^\circ$, $\angle3=108^\circ$, then $\angle4=$ ( ).
 
-(A) $72^\circ$　(B) $80^\circ$　(C) $82^\circ$　(D) $108^\circ$
+(A) $72^\circ$ (B) $80^\circ$ (C) $82^\circ$ (D) $108^\circ$
 
 ### Solution to Review Exercise 7
 
@@ -328,7 +328,7 @@ By Properties of Square Roots, a positive number has two square roots that are o
 
 (Exercise 8.1, Problem 2) Find the square roots of the following numbers:
 
-(1) $\frac{64}{81}$;　(2) $6^2$;　(3) $0.49$.
+(1) $\frac{64}{81}$; (2) $6^2$; (3) $0.49$.
 
 ### Solution to Exercise 2
 
@@ -344,7 +344,7 @@ By **Definition 8.1.1 (Square Root)**, find the number whose square equals the g
 
 (Exercise 8.1, Problem 3) Find the value of $x$ in each of the following:
 
-(1) $x^2=25$;　(2) $9x^2=4$;　(3) $\left(x-1\right)^2=1$.
+(1) $x^2=25$; (2) $9x^2=4$; (3) $\left(x-1\right)^2=1$.
 
 ### Solution to Exercise 3
 
@@ -360,7 +360,7 @@ By **Definition 8.1.1 (Square Root)**, when $x^2=a$, $x=\pm\sqrt{a}$.
 
 (Exercise 8.1, Problem 1) Find the arithmetic square roots of the following numbers:
 
-(1) $0.09$;　(2) $\frac{81}{49}$;　(3) $5^2$.
+(1) $0.09$; (2) $\frac{81}{49}$; (3) $5^2$.
 
 ### Solution to Exercise 4
 
@@ -376,7 +376,7 @@ By **Definition 8.1.2 (Arithmetic Square Root)**, the arithmetic square root is 
 
 (Exercise 8.1, Problem 2) Find the value of each of the following:
 
-(1) $\sqrt{36}$;　(2) $-\sqrt{0.64}$;　(3) $\pm\sqrt{169}$.
+(1) $\sqrt{36}$; (2) $-\sqrt{0.64}$; (3) $\pm\sqrt{169}$.
 
 ### Solution to Exercise 5
 
@@ -406,7 +406,7 @@ By **Definition 8.1.1 (Square Root)**, $x=\sqrt{81}=9$ (take the positive value)
 
 (Exercise 8.1, Problem 1) Use a calculator to find the value of each of the following:
 
-(1) $\sqrt{961}$;　(2) $\sqrt{96.04}$;　(3) $\sqrt{403}$ (keep three decimal places).
+(1) $\sqrt{961}$; (2) $\sqrt{96.04}$; (3) $\sqrt{403}$ (keep three decimal places).
 
 ### Solution to Exercise 7
 
@@ -422,7 +422,7 @@ By **Definition 8.1.2 (Arithmetic Square Root)**, use a calculator to find the p
 
 (Exercise 8.1, Problem 2) Between which two consecutive integers does each of the following numbers lie?
 
-(1) $\sqrt5$;　(2) $\sqrt{26}$;　(3) $\sqrt\left[3\right]{83}$.
+(1) $\sqrt5$; (2) $\sqrt{26}$; (3) $\sqrt\left[3\right]{83}$.
 
 ### Solution to Exercise 8
 
@@ -454,7 +454,7 @@ A circle of radius $12\;\text{cm}$ has diameter $24\;\text{cm}$. The paper is ab
 
 (Exercise 8.1, Review and Consolidation, Problem 1) Find the square roots of the following numbers:
 
-(1) $81$;　(2) $\frac{1}{10^6}$;　(3) $0.0016$.
+(1) $81$; (2) $\frac{1}{10^6}$; (3) $0.0016$.
 
 ### Solution to Problem 1
 
@@ -470,7 +470,7 @@ By **Definition 8.1.1 (Square Root)**.
 
 (Exercise 8.1, Review and Consolidation, Problem 2) Find the arithmetic square roots of the following numbers:
 
-(1) $\frac{25}{64}$;　(2) $0.04$;　(3) $10^2$.
+(1) $\frac{25}{64}$; (2) $0.04$; (3) $10^2$.
 
 ### Solution to Problem 2
 

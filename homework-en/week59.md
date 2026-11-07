@@ -201,11 +201,11 @@ Expanding gives $y=1500x^2+3000x+1500$. $\blacksquare$
 
 (1) Which of the following points lies on the parabola $y=x^2-4x-4$? ( )
 
-(A) $\left(4,4\right)$　(B) $\left(3,-1\right)$　(C) $\left(-2,-8\right)$　(D) $\left(-\frac12,-\frac74\right)$
+(A) $\left(4,4\right)$ (B) $\left(3,-1\right)$ (C) $\left(-2,-8\right)$ (D) $\left(-\frac12,-\frac74\right)$
 
 (2) Which of the following parabolas has axis of symmetry $x=-2$? ( )
 
-(A) $y=-2x^2-2$　(B) $y=2x^2-2$　(C) $y=-\frac12\left(x+2\right)^2$　(D) $y=2\left(x-2\right)^2$
+(A) $y=-2x^2-2$ (B) $y=2x^2-2$ (C) $y=-\frac12\left(x+2\right)^2$ (D) $y=2\left(x-2\right)^2$
 
 ### Solution to Review Problem 2
 

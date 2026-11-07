@@ -58,7 +58,7 @@
 
 > **Definition 7.3.2 (Proposition)**
 > 
-> A declarative statement that can be judged to be true (correct) or false (incorrect) is called a proposition. A proposition judged true is called a true proposition, and one judged false is called a false proposition. A proposition is often written in the form "If …, then …"; after "if" comes the hypothesis, and after "then" comes the conclusion.
+> A declarative statement that can be judged to be true (correct) or false (incorrect) is called a proposition. A proposition judged true is called a true proposition, and one judged false is called a false proposition. A proposition is often written in the form "If..., then..."; after "if" comes the hypothesis, and after "then" comes the conclusion.
 
 > **Definition 7.3.3 (Theorem)**
 > 
@@ -178,7 +178,7 @@ By **Definition 7.3.2 (Proposition)**, a true proposition is a proposition judge
 
 ### Solution to Exercise 3
 
-By **Definition 7.3.2 (Proposition)**, the part after "if" is the hypothesis and the part after "then" is the conclusion; if the hypothesis and conclusion are not obvious, first rewrite it in the form "If …, then …".
+By **Definition 7.3.2 (Proposition)**, the part after "if" is the hypothesis and the part after "then" is the conclusion; if the hypothesis and conclusion are not obvious, first rewrite it in the form "If..., then...".
 
 (1) Hypothesis: $a=b$; conclusion: $5a=5b$.
 
